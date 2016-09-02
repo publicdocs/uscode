@@ -21,7 +21,7 @@
 
         (1)
 
-         “agency” means an Executive agency and the Government Printing Office, but does not include—
+         “agency” means an Executive agency and the Government Publishing Office, but does not include—
 
             (A) a Government corporation;
 
@@ -39,7 +39,7 @@
 
     (b) This chapter shall not apply to any position in the Drug Enforcement Administration which is excluded from the competitive service under section 201 of the Crime Control Act of 1976 ([28 U.S.C. 509][/us/usc/t28/s509] note; [90 Stat. 2425][/us/stat/90/2425]).
 
-(Added [Pub. L. 95–454, title VI, § 601(a)][/us/pl/95/454/s601/a], Oct. 13, 1978, [92 Stat. 1185][/us/stat/92/1185]; amended [Pub. L. 96–54, § 2(a)(21)][/us/pl/96/54/s2/a/21], Aug. 14, 1979, [93 Stat. 382][/us/stat/93/382]; [Pub. L. 101–474, § 5(g)][/us/pl/101/474/s5/g], Oct. 30, 1990, [104 Stat. 1100][/us/stat/104/1100]; [Pub. L. 103–359, title V, § 501(f)][/us/pl/103/359/s501/f], Oct. 14, 1994, [108 Stat. 3429][/us/stat/108/3429]; [Pub. L. 104–201, div. A, title XI, § 1122(a)(1)][/us/pl/104/201/s1122/a/1], Sept. 23, 1996, [110 Stat. 2687][/us/stat/110/2687]; [Pub. L. 108–271, § 8(b)][/us/pl/108/271/s8/b], July 7, 2004, [118 Stat. 814][/us/stat/118/814]; [Pub. L. 110–417][/us/pl/110/417], \[div. A\], title IX, § 931(a)(1), Oct. 14, 2008, [122 Stat. 4575][/us/stat/122/4575].)
+(Added [Pub. L. 95–454, title VI, § 601(a)][/us/pl/95/454/s601/a], Oct. 13, 1978, [92 Stat. 1185][/us/stat/92/1185]; amended [Pub. L. 96–54, § 2(a)(21)][/us/pl/96/54/s2/a/21], Aug. 14, 1979, [93 Stat. 382][/us/stat/93/382]; [Pub. L. 101–474, § 5(g)][/us/pl/101/474/s5/g], Oct. 30, 1990, [104 Stat. 1100][/us/stat/104/1100]; [Pub. L. 103–359, title V, § 501(f)][/us/pl/103/359/s501/f], Oct. 14, 1994, [108 Stat. 3429][/us/stat/108/3429]; [Pub. L. 104–201, div. A, title XI, § 1122(a)(1)][/us/pl/104/201/s1122/a/1], Sept. 23, 1996, [110 Stat. 2687][/us/stat/110/2687]; [Pub. L. 108–271, § 8(b)][/us/pl/108/271/s8/b], July 7, 2004, [118 Stat. 814][/us/stat/118/814]; [Pub. L. 110–417][/us/pl/110/417], \[div. A\], title IX, § 931(a)(1), Oct. 14, 2008, [122 Stat. 4575][/us/stat/122/4575]; [Pub. L. 113–235, div. H, title I, § 1301(b)][/us/pl/113/235/s1301/b], Dec. 16, 2014, [128 Stat. 2537][/us/stat/128/2537].)
 
  __Amendments__ 
 
@@ -54,6 +54,10 @@
     1990—Subsec. (a)(1). [Pub. L. 101–474][/us/pl/101/474] struck out “, the Administrative Office of the United States Courts,” after “means an Executive agency”.
 
     1979—Subsec. (b). [Pub. L. 96–54][/us/pl/96/54] substituted “chapter” for “subchapter” and “[28 U.S.C. 509][/us/usc/t28/s509]” for “[5 U.S.C. 5108][/us/usc/t5/s5108]”.
+
+ __Change of Name__ 
+
+    “Government Publishing Office” substituted for “Government Printing Office” in subsec. (a)(1) on authority of [section 1301(b) of Pub. L. 113–235][/us/pl/113/235/s1301/b], set out as a note preceding [section 301 of Title 44][/us/usc/t44/s301], Public Printing and Documents.
 
  __Effective Date of 1996 Amendment__ 
 
@@ -112,6 +116,8 @@
 [/us/stat/118/814]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F814
 [/us/pl/110/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F417
 [/us/stat/122/4575]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4575
+[/us/pl/113/235/s1301/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs1301%2Fb
+[/us/stat/128/2537]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2537
 [/us/pl/110/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F417
 [/us/pl/108/271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F271
 [/us/pl/104/201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201
@@ -120,6 +126,8 @@
 [/us/pl/96/54]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F54
 [/us/usc/t28/s509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs509
 [/us/usc/t5/s5108]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5108
+[/us/pl/113/235/s1301/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs1301%2Fb
+[/us/usc/t44/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft44%2Fs301
 [/us/pl/104/201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201
 [/us/pl/104/201/s1124]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2Fs1124
 [/us/usc/t10/s193]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs193

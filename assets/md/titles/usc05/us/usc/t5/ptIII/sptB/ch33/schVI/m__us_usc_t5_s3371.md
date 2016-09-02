@@ -35,7 +35,7 @@
 
         (C) any Indian tribe, band, nation, or other organized group or community, including any Alaska Native village as defined in the Alaska Native Claims Settlement Act ([85 Stat. 688][/us/stat/85/688]), which is recognized as eligible for the special programs and services provided by the United States to Indians because of their status as Indians and includes any tribal organization as defined in section 4 of the Indian Self-Determination and Education Assistance Act;
 
-    (3) “Federal agency” means an Executive agency, military department, a court of the United States, the Administrative Office of the United States Courts, the Library of Congress, the Botanic Garden, the Government Printing Office, the Congressional Budget Office, the United States Postal Service, the Postal Regulatory Commission, the Office of the Architect of the Capitol, the Office of Technology Assessment, and such other similar agencies of the legislative and judicial branches as determined appropriate by the Office of Personnel Management; and
+    (3) “Federal agency” means an Executive agency, military department, a court of the United States, the Administrative Office of the United States Courts, the Library of Congress, the Botanic Garden, the Government Publishing Office, the Congressional Budget Office, the United States Postal Service, the Postal Regulatory Commission, the Office of the Architect of the Capitol, the Office of Technology Assessment, and such other similar agencies of the legislative and judicial branches as determined appropriate by the Office of Personnel Management; and
 
     (4)
 
@@ -49,7 +49,7 @@
 
         (D) a federally funded research and development center.
 
-(Added [Pub. L. 91–648, title IV, § 402(a)][/us/pl/91/648/s402/a], Jan. 5, 1971, [84 Stat. 1920][/us/stat/84/1920]; amended [Pub. L. 93–638, title I, § 104(a)][/us/pl/93/638/s104/a], formerly § 105(a), Jan. 4, 1975, [88 Stat. 2208][/us/stat/88/2208], renumbered § 104(a), [Pub. L. 100–472, title II, § 203(a)][/us/pl/100/472/s203/a], Oct. 5, 1988, [102 Stat. 2290][/us/stat/102/2290]; [Pub. L. 95–454, title VI, § 603(a)][/us/pl/95/454/s603/a], Oct. 13, 1978, [92 Stat. 1189][/us/stat/92/1189]; [Pub. L. 100–472, title II, § 203(b)][/us/pl/100/472/s203/b], Oct. 5, 1988, [102 Stat. 2290][/us/stat/102/2290]; [Pub. L. 101–301, § 2(c)][/us/pl/101/301/s2/c], May 24, 1990, [104 Stat. 207][/us/stat/104/207]; [Pub. L. 103–337, div. A, title X, § 1068(a)][/us/pl/103/337/s1068/a], Oct. 5, 1994, [108 Stat. 2852][/us/stat/108/2852]; [Pub. L. 109–435, title VI, § 604(b)][/us/pl/109/435/s604/b], Dec. 20, 2006, [120 Stat. 3241][/us/stat/120/3241].)
+(Added [Pub. L. 91–648, title IV, § 402(a)][/us/pl/91/648/s402/a], Jan. 5, 1971, [84 Stat. 1920][/us/stat/84/1920]; amended [Pub. L. 93–638, title I, § 104(a)][/us/pl/93/638/s104/a], formerly § 105(a), Jan. 4, 1975, [88 Stat. 2208][/us/stat/88/2208], renumbered § 104(a), [Pub. L. 100–472, title II, § 203(a)][/us/pl/100/472/s203/a], Oct. 5, 1988, [102 Stat. 2290][/us/stat/102/2290]; [Pub. L. 95–454, title VI, § 603(a)][/us/pl/95/454/s603/a], Oct. 13, 1978, [92 Stat. 1189][/us/stat/92/1189]; [Pub. L. 100–472, title II, § 203(b)][/us/pl/100/472/s203/b], Oct. 5, 1988, [102 Stat. 2290][/us/stat/102/2290]; [Pub. L. 101–301, § 2(c)][/us/pl/101/301/s2/c], May 24, 1990, [104 Stat. 207][/us/stat/104/207]; [Pub. L. 103–337, div. A, title X, § 1068(a)][/us/pl/103/337/s1068/a], Oct. 5, 1994, [108 Stat. 2852][/us/stat/108/2852]; [Pub. L. 109–435, title VI, § 604(b)][/us/pl/109/435/s604/b], Dec. 20, 2006, [120 Stat. 3241][/us/stat/120/3241]; [Pub. L. 113–235, div. H, title I, § 1301(b)][/us/pl/113/235/s1301/b], Dec. 16, 2014, [128 Stat. 2537][/us/stat/128/2537].)
 
  __References in Text__ 
 
@@ -72,6 +72,10 @@
     Pars. (3), (4). [Pub. L. 95–454, § 603(a)(2)][/us/pl/95/454/s603/a/2], added pars. (3) and (4).
 
     1975—Par. (2)(C). [Pub. L. 93–638][/us/pl/93/638], as amended by [Pub. L. 100–472, § 203(b)][/us/pl/100/472/s203/b], added par. (2)(C).
+
+ __Change of Name__ 
+
+    “Government Publishing Office” substituted for “Government Printing Office” in par. (3) on authority of [section 1301(b) of Pub. L. 113–235][/us/pl/113/235/s1301/b], set out as a note preceding [section 301 of Title 44][/us/usc/t44/s301], Public Printing and Documents.
 
  __Effective Date of 1978 Amendment__ 
 
@@ -155,6 +159,8 @@
 [/us/stat/108/2852]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2852
 [/us/pl/109/435/s604/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F435%2Fs604%2Fb
 [/us/stat/120/3241]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F3241
+[/us/pl/113/235/s1301/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs1301%2Fb
+[/us/stat/128/2537]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2537
 [/us/pl/92/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F203
 [/us/stat/85/688]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F85%2F688
 [/us/usc/t43/s1601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs1601
@@ -168,6 +174,8 @@
 [/us/pl/95/454/s603/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454%2Fs603%2Fa%2F2
 [/us/pl/93/638]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F638
 [/us/pl/100/472/s203/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F472%2Fs203%2Fb
+[/us/pl/113/235/s1301/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs1301%2Fb
+[/us/usc/t44/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft44%2Fs301
 [/us/pl/95/454]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454
 [/us/pl/95/454/s907]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454%2Fs907
 [/us/usc/t5/s1101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs1101

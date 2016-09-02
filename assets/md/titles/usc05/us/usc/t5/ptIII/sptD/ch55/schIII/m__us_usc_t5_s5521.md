@@ -27,7 +27,7 @@
 
         (C) the Library of Congress;
 
-        (D) the Government Printing Office; and
+        (D) the Government Publishing Office; and
 
         (E) the government of the District of Columbia;
 
@@ -43,7 +43,7 @@
 
     (4) “United States”, when used in a geographical sense, means the several States and the District of Columbia.
 
-([Pub. L. 89–554][/us/pl/89/554], Sept. 6, 1966, [80 Stat. 479][/us/stat/80/479]; [Pub. L. 90–623, § 1(10)][/us/pl/90/623/s1/10], Oct. 22, 1968, [82 Stat. 1312][/us/stat/82/1312]; [Pub. L. 96–54, § 2(a)(31)][/us/pl/96/54/s2/a/31], Aug. 14, 1979, [93 Stat. 383][/us/stat/93/383].)
+([Pub. L. 89–554][/us/pl/89/554], Sept. 6, 1966, [80 Stat. 479][/us/stat/80/479]; [Pub. L. 90–623, § 1(10)][/us/pl/90/623/s1/10], Oct. 22, 1968, [82 Stat. 1312][/us/stat/82/1312]; [Pub. L. 96–54, § 2(a)(31)][/us/pl/96/54/s2/a/31], Aug. 14, 1979, [93 Stat. 383][/us/stat/93/383]; [Pub. L. 113–235, div. H, title I, § 1301(b)][/us/pl/113/235/s1301/b], Dec. 16, 2014, [128 Stat. 2537][/us/stat/128/2537].)
 
 <table>
 
@@ -109,6 +109,10 @@ June 24, 1965, Pub. L. 89–47, 79 Stat. 171.  </td>
 
     1968—Par. (3)(B). [Pub. L. 90–623][/us/pl/90/623] substituted “Commissioner” for “Board of Commissioners”.
 
+ __Change of Name__ 
+
+    “Government Publishing Office” substituted for “Government Printing Office” in par. (1)(D) on authority of [section 1301(b) of Pub. L. 113–235][/us/pl/113/235/s1301/b], set out as a note preceding [section 301 of Title 44][/us/usc/t44/s301], Public Printing and Documents.
+
  __Effective Date of 1979 Amendment__ 
 
     Amendment by [Pub. L. 96–54][/us/pl/96/54] effective July 12, 1979, see [section 2(b) of Pub. L. 96–54][/us/pl/96/54/s2/b], set out as a note under [section 305 of this title][/us/usc/t5/s305].
@@ -130,8 +134,12 @@ June 24, 1965, Pub. L. 89–47, 79 Stat. 171.  </td>
 [/us/stat/82/1312]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F1312
 [/us/pl/96/54/s2/a/31]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F54%2Fs2%2Fa%2F31
 [/us/stat/93/383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F383
+[/us/pl/113/235/s1301/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs1301%2Fb
+[/us/stat/128/2537]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2537
 [/us/pl/96/54]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F54
 [/us/pl/90/623]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F623
+[/us/pl/113/235/s1301/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs1301%2Fb
+[/us/usc/t44/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft44%2Fs301
 [/us/pl/96/54]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F54
 [/us/pl/96/54/s2/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F54%2Fs2%2Fb
 [/us/usc/t5/s305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs305

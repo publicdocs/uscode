@@ -31,7 +31,7 @@
 
             (C) the judicial branch;
 
-        (3) the term “entity of the legislative branch” means the House of Representatives, the Senate, the Office of the Architect of the Capitol (including the Botanic Garden), the Capitol Police, the Congressional Budget Office, the Copyright Royalty Tribunal, the Government Printing Office, the Library of Congress, and the Office of Technology Assessment; and
+        (3) the term “entity of the legislative branch” means the House of Representatives, the Senate, the Office of the Architect of the Capitol (including the Botanic Garden), the Capitol Police, the Congressional Budget Office, the Copyright Royalty Tribunal, the Government Publishing Office, the Library of Congress, and the Office of Technology Assessment; and
 
         (4) the term “transit pass” means a transit pass as defined by section 132(f)(5) of the Internal Revenue Code of 1986.
 
@@ -81,7 +81,7 @@
 
             (E) any other matter which may be appropriate.
 
-(Added [Pub. L. 103–172, § 2(a)][/us/pl/103/172/s2/a], Dec. 2, 1993, [107 Stat. 1995][/us/stat/107/1995]; amended [Pub. L. 107–296, title XIII, § 1314(a)][/us/pl/107/296/s1314/a], Nov. 25, 2002, [116 Stat. 2296][/us/stat/116/2296].)
+(Added [Pub. L. 103–172, § 2(a)][/us/pl/103/172/s2/a], Dec. 2, 1993, [107 Stat. 1995][/us/stat/107/1995]; amended [Pub. L. 107–296, title XIII, § 1314(a)][/us/pl/107/296/s1314/a], Nov. 25, 2002, [116 Stat. 2296][/us/stat/116/2296]; [Pub. L. 113–235, div. H, title I, § 1301(b)][/us/pl/113/235/s1301/b], Dec. 16, 2014, [128 Stat. 2537][/us/stat/128/2537].)
 
  __References in Text__ 
 
@@ -90,6 +90,10 @@
  __Amendments__ 
 
     2002—Subsec. (a)(1). [Pub. L. 107–296][/us/pl/107/296] substituted “, a member of a uniformed service, and a student who provides voluntary services under section 3111” for “and a member of a uniformed service”.
+
+ __Change of Name__ 
+
+    “Government Publishing Office” substituted for “Government Printing Office” in subsec. (a)(3) on authority of [section 1301(b) of Pub. L. 113–235][/us/pl/113/235/s1301/b], set out as a note preceding [section 301 of Title 44][/us/usc/t44/s301], Public Printing and Documents.
 
  __Effective Date of 2002 Amendment__ 
 
@@ -198,8 +202,12 @@
 [/us/stat/107/1995]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F1995
 [/us/pl/107/296/s1314/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs1314%2Fa
 [/us/stat/116/2296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2296
+[/us/pl/113/235/s1301/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs1301%2Fb
+[/us/stat/128/2537]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2537
 [/us/usc/t26/s132/f/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs132%2Ff%2F5
 [/us/pl/107/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296
+[/us/pl/113/235/s1301/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs1301%2Fb
+[/us/usc/t44/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft44%2Fs301
 [/us/pl/107/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296
 [/us/pl/107/296/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs4
 [/us/usc/t6/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs101

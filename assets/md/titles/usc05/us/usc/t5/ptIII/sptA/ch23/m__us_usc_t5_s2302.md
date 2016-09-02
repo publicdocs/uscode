@@ -63,7 +63,7 @@
 
             (C)
 
-             “agency” means an Executive agency and the Government Printing Office, but does not include—
+             “agency” means an Executive agency and the Government Publishing Office, but does not include—
 
                 (i) a Government corporation, except in the case of an alleged prohibited personnel practice described under subsection (b)(8) or section 2302(b)(9)(A)(i), (B), (C), or (D);
 
@@ -233,7 +233,7 @@
 
         (2) If a disclosure is made during the normal course of duties of an employee, the disclosure shall not be excluded from subsection (b)(8) if any employee who has authority to take, direct others to take, recommend, or approve any personnel action with respect to the employee making the disclosure, took, failed to take, or threatened to take or fail to take a personnel action with respect to that employee in reprisal for the disclosure.
 
-(Added [Pub. L. 95–454, title I, § 101(a)][/us/pl/95/454/s101/a], Oct. 13, 1978, [92 Stat. 1114][/us/stat/92/1114]; amended [Pub. L. 101–12, § 4][/us/pl/101/12/s4], Apr. 10, 1989, [103 Stat. 32][/us/stat/103/32]; [Pub. L. 101–474, § 5(d)][/us/pl/101/474/s5/d], Oct. 30, 1990, [104 Stat. 1099][/us/stat/104/1099]; [Pub. L. 102–378, § 2(5)][/us/pl/102/378/s2/5], Oct. 2, 1992, [106 Stat. 1346][/us/stat/106/1346]; [Pub. L. 103–94, § 8(c)][/us/pl/103/94/s8/c], Oct. 6, 1993, [107 Stat. 1007][/us/stat/107/1007]; [Pub. L. 103–359, title V, § 501(c)][/us/pl/103/359/s501/c], Oct. 14, 1994, [108 Stat. 3429][/us/stat/108/3429]; [Pub. L. 103–424, § 5][/us/pl/103/424/s5], Oct. 29, 1994, [108 Stat. 4363][/us/stat/108/4363]; [Pub. L. 104–197, title III, § 315(b)(2)][/us/pl/104/197/s315/b/2], Sept. 16, 1996, [110 Stat. 2416][/us/stat/110/2416], [Pub. L. 104–201, div. A, title XI, § 1122(a)(1)][/us/pl/104/201/s1122/a/1], title XVI, § 1615(b), Sept. 23, 1996, [110 Stat. 2687][/us/stat/110/2687], 2741; [Pub. L. 105–339, § 6(a)][/us/pl/105/339/s6/a], (b), (c)(2), Oct. 31, 1998, [112 Stat. 3187][/us/stat/112/3187], 3188; [Pub. L. 108–271, § 8(b)][/us/pl/108/271/s8/b], July 7, 2004, [118 Stat. 814][/us/stat/118/814]; [Pub. L. 110–417][/us/pl/110/417], \[div. A\], title IX, § 931(a)(1), Oct. 14, 2008, [122 Stat. 4575][/us/stat/122/4575]; [Pub. L. 112–199, title I][/us/pl/112/199], §§ 101(a), (b)(1)(B), (2)(B), (C), 102–104(b)(1), 105, 112, Nov. 27, 2012, [126 Stat. 1465–1468][/us/stat/126/1465-1468], 1472; [Pub. L. 112–277, title V, § 505(a)][/us/pl/112/277/s505/a], Jan. 14, 2013, [126 Stat. 2478][/us/stat/126/2478].)
+(Added [Pub. L. 95–454, title I, § 101(a)][/us/pl/95/454/s101/a], Oct. 13, 1978, [92 Stat. 1114][/us/stat/92/1114]; amended [Pub. L. 101–12, § 4][/us/pl/101/12/s4], Apr. 10, 1989, [103 Stat. 32][/us/stat/103/32]; [Pub. L. 101–474, § 5(d)][/us/pl/101/474/s5/d], Oct. 30, 1990, [104 Stat. 1099][/us/stat/104/1099]; [Pub. L. 102–378, § 2(5)][/us/pl/102/378/s2/5], Oct. 2, 1992, [106 Stat. 1346][/us/stat/106/1346]; [Pub. L. 103–94, § 8(c)][/us/pl/103/94/s8/c], Oct. 6, 1993, [107 Stat. 1007][/us/stat/107/1007]; [Pub. L. 103–359, title V, § 501(c)][/us/pl/103/359/s501/c], Oct. 14, 1994, [108 Stat. 3429][/us/stat/108/3429]; [Pub. L. 103–424, § 5][/us/pl/103/424/s5], Oct. 29, 1994, [108 Stat. 4363][/us/stat/108/4363]; [Pub. L. 104–197, title III, § 315(b)(2)][/us/pl/104/197/s315/b/2], Sept. 16, 1996, [110 Stat. 2416][/us/stat/110/2416], [Pub. L. 104–201, div. A, title XI, § 1122(a)(1)][/us/pl/104/201/s1122/a/1], title XVI, § 1615(b), Sept. 23, 1996, [110 Stat. 2687][/us/stat/110/2687], 2741; [Pub. L. 105–339, § 6(a)][/us/pl/105/339/s6/a], (b), (c)(2), Oct. 31, 1998, [112 Stat. 3187][/us/stat/112/3187], 3188; [Pub. L. 108–271, § 8(b)][/us/pl/108/271/s8/b], July 7, 2004, [118 Stat. 814][/us/stat/118/814]; [Pub. L. 110–417][/us/pl/110/417], \[div. A\], title IX, § 931(a)(1), Oct. 14, 2008, [122 Stat. 4575][/us/stat/122/4575]; [Pub. L. 112–199, title I][/us/pl/112/199], §§ 101(a), (b)(1)(B), (2)(B), (C), 102–104(b)(1), 105, 112, Nov. 27, 2012, [126 Stat. 1465–1468][/us/stat/126/1465-1468], 1472; [Pub. L. 112–277, title V, § 505(a)][/us/pl/112/277/s505/a], Jan. 14, 2013, [126 Stat. 2478][/us/stat/126/2478]; [Pub. L. 113–235, div. H, title I, § 1301(b)][/us/pl/113/235/s1301/b], Dec. 16, 2014, [128 Stat. 2537][/us/stat/128/2537].)
 
  __References in Text__ 
 
@@ -326,6 +326,10 @@
     1989—Subsec. (b)(8). [Pub. L. 101–12, § 4(a)][/us/pl/101/12/s4/a], in introductory provision inserted “, or threaten to take or fail to take,” after “fail to” and substituted “because of” for “as a reprisal for”, in subpar. (A) substituted “any disclosure” for “a disclosure”, in subpar. (A)(ii) inserted “gross” before “mismanagement”, in subpar. (B) substituted “any disclosure” for “a disclosure”, and in subpar. (B)(ii) inserted “gross” before “mismanagement”.
 
     Subsec. (b)(9). [Pub. L. 101–12, § 4(b)][/us/pl/101/12/s4/b], amended par. (9) generally. Prior to amendment, par. (9) read as follows: “take or fail to take any personnel action against any employee or applicant for employment as a reprisal for the exercise of any appeal right granted by any law, rule, or regulation;”.
+
+ __Change of Name__ 
+
+    “Government Publishing Office” substituted for “Government Printing Office” in subsec. (a)(2)(C) on authority of [section 1301(b) of Pub. L. 113–235][/us/pl/113/235/s1301/b], set out as a note preceding [section 301 of Title 44][/us/usc/t44/s301], Public Printing and Documents.
 
  __Effective Date of 2012 Amendment__ 
 
@@ -599,6 +603,8 @@
 [/us/stat/126/1465-1468]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1465-1468
 [/us/pl/112/277/s505/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F277%2Fs505%2Fa
 [/us/stat/126/2478]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F2478
+[/us/pl/113/235/s1301/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs1301%2Fb
+[/us/stat/128/2537]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2537
 [/us/usc/t16/s3198/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs3198%2Fb
 [/us/usc/t22/s3941/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs3941%2Fc
 [/us/usc/t38/s106/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs106%2Ff
@@ -640,6 +646,8 @@
 [/us/pl/101/474]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F474
 [/us/pl/101/12/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F12%2Fs4%2Fa
 [/us/pl/101/12/s4/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F12%2Fs4%2Fb
+[/us/pl/113/235/s1301/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs1301%2Fb
+[/us/usc/t44/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft44%2Fs301
 [/us/pl/112/199]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F199
 [/us/pl/112/199/s202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F199%2Fs202
 [/us/usc/t5/s1204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs1204

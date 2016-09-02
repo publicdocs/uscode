@@ -27,7 +27,7 @@
 
             (B) the Library of Congress;
 
-            (C) the Government Printing Office;
+            (C) the Government Publishing Office;
 
             (D) the government of the District of Columbia;
 
@@ -61,7 +61,7 @@
 
             (viii) an employee of the Office of the Architect of the Capitol, who is employed on a temporary when actually employed basis;
 
-            (ix) an employee of the Government Printing Office, who is employed on a temporary when actually employed basis; or
+            (ix) an employee of the Government Publishing Office, who is employed on a temporary when actually employed basis; or
 
             (x) such other employee as may be excluded by regulations of the President or such other officer or agency as he may designate.
 
@@ -73,7 +73,7 @@
 
         (2) is involuntarily separated from the service, not by removal for cause on charges of misconduct, delinquency, or inefficiency;
 
-        is entitled to be paid severance pay in regular pay periods by the agency from which separated. However, the Director of the Administrative Office of the United States Courts may prescribe regulations to effect the application and operation of this section to the agencies specified in subsection (a)(1)(E) of this section. The Architect of the Capitol may prescribe regulations to effect the application and operation of this section to the agency specified in subsection (a)(1)(F) of this section. The Public Printer may prescribe regulations to effect the application and operation of this section to the agency specified in subsection (a)(1)(C) of this section.
+        is entitled to be paid severance pay in regular pay periods by the agency from which separated. However, the Director of the Administrative Office of the United States Courts may prescribe regulations to effect the application and operation of this section to the agencies specified in subsection (a)(1)(E) of this section. The Architect of the Capitol may prescribe regulations to effect the application and operation of this section to the agency specified in subsection (a)(1)(F) of this section. The Director of the Government Publishing Office may prescribe regulations to effect the application and operation of this section to the agency specified in subsection (a)(1)(C) of this section.
 
     (c)
 
@@ -171,7 +171,7 @@
 
         (3) If an employee fails to repay to the Department of Energy an amount required to be repaid under paragraph (2)(A), that amount is recoverable from the employee as a debt due the United States.
 
-(Added [Pub. L. 90–83, § 1(34)(C)][/us/pl/90/83/s1/34/C], Sept. 11, 1967, [81 Stat. 201][/us/stat/81/201]; amended [Pub. L. 95–454, title IV, § 408(a)(3)][/us/pl/95/454/s408/a/3], Oct. 13, 1978, [92 Stat. 1173][/us/stat/92/1173]; [Pub. L. 96–70, title I, § 1231(d)][/us/pl/96/70/s1231/d], Sept. 27, 1979, [93 Stat. 470][/us/stat/93/470]; [Pub. L. 96–465, title II, § 2305][/us/pl/96/465/s2305], Oct. 17, 1980, [94 Stat. 2165][/us/stat/94/2165]; [Pub. L. 100–325, § 2(i)(2)][/us/pl/100/325/s2/i/2], May 30, 1988, [102 Stat. 582][/us/stat/102/582]; [Pub. L. 101–474, § 5(k)][/us/pl/101/474/s5/k], Oct. 30, 1990, [104 Stat. 1100][/us/stat/104/1100]; [Pub. L. 101–509, title V, § 529][/us/pl/101/509/s529] \[title I, § 101(b)(9)(J)\], Nov. 5, 1990, [104 Stat. 1427][/us/stat/104/1427], 1442; [Pub. L. 103–337, div. A, title III, § 343(a)][/us/pl/103/337/s343/a], Oct. 5, 1994, [108 Stat. 2721][/us/stat/108/2721]; [Pub. L. 104–106, div. A, title X, § 1035][/us/pl/104/106/s1035], Feb. 10, 1996, [110 Stat. 430][/us/stat/110/430]; [Pub. L. 105–55, title III, § 310(a)][/us/pl/105/55/s310/a], Oct. 7, 1997, [111 Stat. 1199][/us/stat/111/1199]; [Pub. L. 105–275, title III][/us/pl/105/275], §§ 308(a), 309(a), Oct. 21, 1998, [112 Stat. 2452][/us/stat/112/2452], 2454; [Pub. L. 106–31, title V, § 5006][/us/pl/106/31/s5006], May 21, 1999, [113 Stat. 112][/us/stat/113/112]; [Pub. L. 106–65, div. A, title XI, § 1104(a)][/us/pl/106/65/s1104/a], div. C, title XXXII, § 3243, Oct. 5, 1999, [113 Stat. 777][/us/stat/113/777], 965; [Pub. L. 107–314, div. A, title XI, § 1102(a)][/us/pl/107/314/s1102/a], Dec. 2, 2002, [116 Stat. 2660][/us/stat/116/2660]; [Pub. L. 109–163, div. A, title XI, § 1103][/us/pl/109/163/s1103], Jan. 6, 2006, [119 Stat. 3448][/us/stat/119/3448]; [Pub. L. 109–241, title IX, § 902(a)(3)][/us/pl/109/241/s902/a/3], July 11, 2006, [120 Stat. 566][/us/stat/120/566]; [Pub. L. 110–417][/us/pl/110/417], \[div. A\], title XI, § 1104, Oct. 14, 2008, [122 Stat. 4617][/us/stat/122/4617]; [Pub. L. 113–66, div. A, title XI, § 1104][/us/pl/113/66/s1104], Dec. 26, 2013, [127 Stat. 886][/us/stat/127/886].)
+(Added [Pub. L. 90–83, § 1(34)(C)][/us/pl/90/83/s1/34/C], Sept. 11, 1967, [81 Stat. 201][/us/stat/81/201]; amended [Pub. L. 95–454, title IV, § 408(a)(3)][/us/pl/95/454/s408/a/3], Oct. 13, 1978, [92 Stat. 1173][/us/stat/92/1173]; [Pub. L. 96–70, title I, § 1231(d)][/us/pl/96/70/s1231/d], Sept. 27, 1979, [93 Stat. 470][/us/stat/93/470]; [Pub. L. 96–465, title II, § 2305][/us/pl/96/465/s2305], Oct. 17, 1980, [94 Stat. 2165][/us/stat/94/2165]; [Pub. L. 100–325, § 2(i)(2)][/us/pl/100/325/s2/i/2], May 30, 1988, [102 Stat. 582][/us/stat/102/582]; [Pub. L. 101–474, § 5(k)][/us/pl/101/474/s5/k], Oct. 30, 1990, [104 Stat. 1100][/us/stat/104/1100]; [Pub. L. 101–509, title V, § 529][/us/pl/101/509/s529] \[title I, § 101(b)(9)(J)\], Nov. 5, 1990, [104 Stat. 1427][/us/stat/104/1427], 1442; [Pub. L. 103–337, div. A, title III, § 343(a)][/us/pl/103/337/s343/a], Oct. 5, 1994, [108 Stat. 2721][/us/stat/108/2721]; [Pub. L. 104–106, div. A, title X, § 1035][/us/pl/104/106/s1035], Feb. 10, 1996, [110 Stat. 430][/us/stat/110/430]; [Pub. L. 105–55, title III, § 310(a)][/us/pl/105/55/s310/a], Oct. 7, 1997, [111 Stat. 1199][/us/stat/111/1199]; [Pub. L. 105–275, title III][/us/pl/105/275], §§ 308(a), 309(a), Oct. 21, 1998, [112 Stat. 2452][/us/stat/112/2452], 2454; [Pub. L. 106–31, title V, § 5006][/us/pl/106/31/s5006], May 21, 1999, [113 Stat. 112][/us/stat/113/112]; [Pub. L. 106–65, div. A, title XI, § 1104(a)][/us/pl/106/65/s1104/a], div. C, title XXXII, § 3243, Oct. 5, 1999, [113 Stat. 777][/us/stat/113/777], 965; [Pub. L. 107–314, div. A, title XI, § 1102(a)][/us/pl/107/314/s1102/a], Dec. 2, 2002, [116 Stat. 2660][/us/stat/116/2660]; [Pub. L. 109–163, div. A, title XI, § 1103][/us/pl/109/163/s1103], Jan. 6, 2006, [119 Stat. 3448][/us/stat/119/3448]; [Pub. L. 109–241, title IX, § 902(a)(3)][/us/pl/109/241/s902/a/3], July 11, 2006, [120 Stat. 566][/us/stat/120/566]; [Pub. L. 110–417][/us/pl/110/417], \[div. A\], title XI, § 1104, Oct. 14, 2008, [122 Stat. 4617][/us/stat/122/4617]; [Pub. L. 113–66, div. A, title XI, § 1104][/us/pl/113/66/s1104], Dec. 26, 2013, [127 Stat. 886][/us/stat/127/886]; [Pub. L. 113–235, div. H, title I, § 1301(b)][/us/pl/113/235/s1301/b], (d), Dec. 16, 2014, [128 Stat. 2537][/us/stat/128/2537].)
 
 <table>
 
@@ -295,6 +295,12 @@ Nov. 2, 1966, Pub. L. 89–737, § 2, 80 Stat. 1164.  </td>
 
     1978—Subsec. (a)(2)(i). [Pub. L. 95–454][/us/pl/95/454] inserted reference to a member of the Senior Executive Service.
 
+ __Change of Name__ 
+
+    “Government Publishing Office” substituted for “Government Printing Office” in subsec. (a)(1)(C), (2)(B)(ix) on authority of [section 1301(b) of Pub. L. 113–235][/us/pl/113/235/s1301/b], set out as a note preceding [section 301 of Title 44][/us/usc/t44/s301], Public Printing and Documents.
+
+    “Director of the Government Publishing Office” substituted for “Public Printer” in subsec. (b), on authority of [section 1301(d) of Pub. L. 113–235][/us/pl/113/235/s1301/d], set out as a note under [section 301 of Title 44][/us/usc/t44/s301], Public Printing and Documents.
+
  __Effective Date of 1999 Amendment__ 
 
     Amendment by [section 3243 of Pub. L. 106–65][/us/pl/106/65/s3243] effective Mar. 1, 2000, see [section 3299 of Pub. L. 106–65][/us/pl/106/65/s3299], set out as an Effective Date note under [section 2401 of Title 50][/us/usc/t50/s2401], War and National Defense.
@@ -378,6 +384,8 @@ Nov. 2, 1966, Pub. L. 89–737, § 2, 80 Stat. 1164.  </td>
 [/us/stat/122/4617]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4617
 [/us/pl/113/66/s1104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs1104
 [/us/stat/127/886]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F886
+[/us/pl/113/235/s1301/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs1301%2Fb
+[/us/stat/128/2537]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2537
 [/us/usc/t5/s105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs105
 [/us/usc/t5/s5311]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5311
 [/us/usc/t5/s2105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs2105
@@ -409,6 +417,10 @@ Nov. 2, 1966, Pub. L. 89–737, § 2, 80 Stat. 1164.  </td>
 [/us/pl/96/465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F465
 [/us/pl/96/70]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F70
 [/us/pl/95/454]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454
+[/us/pl/113/235/s1301/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs1301%2Fb
+[/us/usc/t44/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft44%2Fs301
+[/us/pl/113/235/s1301/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs1301%2Fd
+[/us/usc/t44/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft44%2Fs301
 [/us/pl/106/65/s3243]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2Fs3243
 [/us/pl/106/65/s3299]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2Fs3299
 [/us/usc/t50/s2401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs2401

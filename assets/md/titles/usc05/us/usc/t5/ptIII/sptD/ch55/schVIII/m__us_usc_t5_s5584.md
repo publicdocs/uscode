@@ -37,11 +37,11 @@
 
         (1) if, in his opinion, there exists, in connection with the claim, an indication of fraud, misrepresentation, fault, or lack of good faith on the part of the employee or any other person having an interest in obtaining a waiver of the claim;
 
-        (2) except in the case of employees of the Government Printing Office, the Library of Congress, the Office of the Architect of the Capitol, or the Botanic Garden, if application for waiver is received in his office, after the expiration of three years immediately following the date on which the erroneous payment of pay was discovered or three years immediately following October 21, 1968, whichever is later;
+        (2) except in the case of employees of the Government Publishing Office, the Library of Congress, the Office of the Architect of the Capitol, or the Botanic Garden, if application for waiver is received in his office, after the expiration of three years immediately following the date on which the erroneous payment of pay was discovered or three years immediately following October 21, 1968, whichever is later;
 
-        (3) except in the case of employees of the Government Printing Office, the Library of Congress, the Office of the Architect of the Capitol, or the Botanic Garden, if application for waiver is received in his office after the expiration of three years immediately following the date on which the erroneous payment of allowances was discovered or three years immediately following October 2, 1972, whichever is later;
+        (3) except in the case of employees of the Government Publishing Office, the Library of Congress, the Office of the Architect of the Capitol, or the Botanic Garden, if application for waiver is received in his office after the expiration of three years immediately following the date on which the erroneous payment of allowances was discovered or three years immediately following October 2, 1972, whichever is later;
 
-        (4) in the case of employees of the Government Printing Office, the Library of Congress, the Office of the Architect of the Capitol, or the Botanic Garden, if application for waiver is received in his office after the expiration of 3 years immediately following the date on which the erroneous payment of pay or allowances was discovered or 3 years immediately following July 25, 1974, whichever is later; or
+        (4) in the case of employees of the Government Publishing Office, the Library of Congress, the Office of the Architect of the Capitol, or the Botanic Garden, if application for waiver is received in his office after the expiration of 3 years immediately following the date on which the erroneous payment of pay or allowances was discovered or 3 years immediately following July 25, 1974, whichever is later; or
 
         (5) in the case of a claim involving an erroneous payment of travel, transportation or relocation expenses and allowances, if application for waiver is received in his office after the expiration of 3 years immediately following the date on which the erroneous payment was discovered.
 
@@ -59,7 +59,7 @@
 
         (1) an Executive agency;
 
-        (2) the Government Printing Office;
+        (2) the Government Publishing Office;
 
         (3) the Library of Congress;
 
@@ -81,7 +81,7 @@
 
         (2) the Director of the Office of Management and Budget, with respect to any other agency or employee.
 
-(Added [Pub. L. 90–616, § 1(a)][/us/pl/90/616/s1/a], Oct. 21, 1968, [82 Stat. 1212][/us/stat/82/1212]; amended [Pub. L. 92–453, § 3(1)][/us/pl/92/453/s3/1], Oct. 2, 1972, [86 Stat. 760][/us/stat/86/760]; [Pub. L. 93–359, § 1][/us/pl/93/359/s1], July 25, 1974, [88 Stat. 393][/us/stat/88/393]; [Pub. L. 96–54, § 2(a)(35)][/us/pl/96/54/s2/a/35], Aug. 14, 1979, [93 Stat. 383][/us/stat/93/383]; [Pub. L. 99–224, § 1(a)][/us/pl/99/224/s1/a], Dec. 28, 1985, [99 Stat. 1741][/us/stat/99/1741]; [Pub. L. 100–702, title X, § 1009(a)][/us/pl/100/702/s1009/a], Nov. 19, 1988, [102 Stat. 4667][/us/stat/102/4667]; [Pub. L. 102–190, div. A, title VI, § 657(a)][/us/pl/102/190/s657/a], Dec. 5, 1991, [105 Stat. 1393][/us/stat/105/1393]; [Pub. L. 104–316, title I, § 103(d)][/us/pl/104/316/s103/d], Oct. 19, 1996, [110 Stat. 3828][/us/stat/110/3828]; [Pub. L. 109–55, title I, § 1100(a)][/us/pl/109/55/s1100/a], Aug. 2, 2005, [119 Stat. 577][/us/stat/119/577].)
+(Added [Pub. L. 90–616, § 1(a)][/us/pl/90/616/s1/a], Oct. 21, 1968, [82 Stat. 1212][/us/stat/82/1212]; amended [Pub. L. 92–453, § 3(1)][/us/pl/92/453/s3/1], Oct. 2, 1972, [86 Stat. 760][/us/stat/86/760]; [Pub. L. 93–359, § 1][/us/pl/93/359/s1], July 25, 1974, [88 Stat. 393][/us/stat/88/393]; [Pub. L. 96–54, § 2(a)(35)][/us/pl/96/54/s2/a/35], Aug. 14, 1979, [93 Stat. 383][/us/stat/93/383]; [Pub. L. 99–224, § 1(a)][/us/pl/99/224/s1/a], Dec. 28, 1985, [99 Stat. 1741][/us/stat/99/1741]; [Pub. L. 100–702, title X, § 1009(a)][/us/pl/100/702/s1009/a], Nov. 19, 1988, [102 Stat. 4667][/us/stat/102/4667]; [Pub. L. 102–190, div. A, title VI, § 657(a)][/us/pl/102/190/s657/a], Dec. 5, 1991, [105 Stat. 1393][/us/stat/105/1393]; [Pub. L. 104–316, title I, § 103(d)][/us/pl/104/316/s103/d], Oct. 19, 1996, [110 Stat. 3828][/us/stat/110/3828]; [Pub. L. 109–55, title I, § 1100(a)][/us/pl/109/55/s1100/a], Aug. 2, 2005, [119 Stat. 577][/us/stat/119/577]; [Pub. L. 113–235, div. H, title I, § 1301(b)][/us/pl/113/235/s1301/b], Dec. 16, 2014, [128 Stat. 2537][/us/stat/128/2537].)
 
  __Amendments__ 
 
@@ -118,6 +118,10 @@
     Subsec. (b)(2). [Pub. L. 92–453][/us/pl/92/453] inserted “if application for waiver is received in his office” in cl. (2), and substituted “October 21, 1968” for “the effective date of this section.”
 
     Subsec. (b)(3). [Pub. L. 92–453][/us/pl/92/453] added cl. (3).
+
+ __Change of Name__ 
+
+    “Government Publishing Office” substituted for “Government Printing Office” in subsecs. (b)(2) to (4) and (g)(2) on authority of [section 1301(b) of Pub. L. 113–235][/us/pl/113/235/s1301/b], set out as a note preceding [section 301 of Title 44][/us/usc/t44/s301], Public Printing and Documents.
 
  __Effective Date of 2005 Amendment__ 
 
@@ -172,6 +176,8 @@
 [/us/stat/110/3828]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3828
 [/us/pl/109/55/s1100/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F55%2Fs1100%2Fa
 [/us/stat/119/577]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F577
+[/us/pl/113/235/s1301/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs1301%2Fb
+[/us/stat/128/2537]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2537
 [/us/pl/109/55]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F55
 [/us/pl/104/316/s103/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F316%2Fs103%2Fd%2F1
 [/us/pl/104/316/s103/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F316%2Fs103%2Fd%2F2
@@ -191,6 +197,8 @@
 [/us/usc/t5/s5724a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5724a
 [/us/pl/92/453]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F453
 [/us/pl/92/453]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F453
+[/us/pl/113/235/s1301/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs1301%2Fb
+[/us/usc/t44/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft44%2Fs301
 [/us/pl/109/55/s1100/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F55%2Fs1100%2Fb
 [/us/stat/119/577]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F577
 [/us/pl/104/316]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F316

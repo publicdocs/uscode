@@ -23,7 +23,7 @@
 
         (A) an Executive agency; and
 
-        (B) the Government Printing Office;
+        (B) the Government Publishing Office;
 
         but does not include—
 
@@ -55,7 +55,7 @@
 
     (3) “unacceptable performance” means performance of an employee which fails to meet established performance standards in one or more critical elements of such employee’s position.
 
-([Pub. L. 89–554][/us/pl/89/554], Sept. 6, 1966, [80 Stat. 440][/us/stat/80/440]; [Pub. L. 91–375, § 6(c)(8)][/us/pl/91/375/s6/c/8], Aug. 12, 1970, [84 Stat. 776][/us/stat/84/776]; [Pub. L. 95–251, § 2(a)(1)][/us/pl/95/251/s2/a/1], Mar. 27, 1978, [92 Stat. 183][/us/stat/92/183]; [Pub. L. 95–454, title II, § 203(a)][/us/pl/95/454/s203/a], Oct. 13, 1978, [92 Stat. 1131][/us/stat/92/1131]; [Pub. L. 100–325, § 2(f)][/us/pl/100/325/s2/f], May 30, 1988, [102 Stat. 581][/us/stat/102/581]; [Pub. L. 101–474, § 5(e)][/us/pl/101/474/s5/e], Oct. 30, 1990, [104 Stat. 1100][/us/stat/104/1100]; [Pub. L. 101–510, div. A, title XII, § 1206(e)][/us/pl/101/510/s1206/e], Nov. 5, 1990, [104 Stat. 1661][/us/stat/104/1661]; [Pub. L. 102–54, § 13(b)(2)][/us/pl/102/54/s13/b/2], June 13, 1991, [105 Stat. 274][/us/stat/105/274]; [Pub. L. 103–359, title V, § 501(e)][/us/pl/103/359/s501/e], Oct. 14, 1994, [108 Stat. 3429][/us/stat/108/3429]; [Pub. L. 104–201, div. A, title XI, § 1122(a)(1)][/us/pl/104/201/s1122/a/1], Sept. 23, 1996, [110 Stat. 2687][/us/stat/110/2687]; [Pub. L. 108–271, § 8(b)][/us/pl/108/271/s8/b], July 7, 2004, [118 Stat. 814][/us/stat/118/814]; [Pub. L. 110–417][/us/pl/110/417], \[div. A\], title IX, § 931(a)(1), Oct. 14, 2008, [122 Stat. 4575][/us/stat/122/4575].)
+([Pub. L. 89–554][/us/pl/89/554], Sept. 6, 1966, [80 Stat. 440][/us/stat/80/440]; [Pub. L. 91–375, § 6(c)(8)][/us/pl/91/375/s6/c/8], Aug. 12, 1970, [84 Stat. 776][/us/stat/84/776]; [Pub. L. 95–251, § 2(a)(1)][/us/pl/95/251/s2/a/1], Mar. 27, 1978, [92 Stat. 183][/us/stat/92/183]; [Pub. L. 95–454, title II, § 203(a)][/us/pl/95/454/s203/a], Oct. 13, 1978, [92 Stat. 1131][/us/stat/92/1131]; [Pub. L. 100–325, § 2(f)][/us/pl/100/325/s2/f], May 30, 1988, [102 Stat. 581][/us/stat/102/581]; [Pub. L. 101–474, § 5(e)][/us/pl/101/474/s5/e], Oct. 30, 1990, [104 Stat. 1100][/us/stat/104/1100]; [Pub. L. 101–510, div. A, title XII, § 1206(e)][/us/pl/101/510/s1206/e], Nov. 5, 1990, [104 Stat. 1661][/us/stat/104/1661]; [Pub. L. 102–54, § 13(b)(2)][/us/pl/102/54/s13/b/2], June 13, 1991, [105 Stat. 274][/us/stat/105/274]; [Pub. L. 103–359, title V, § 501(e)][/us/pl/103/359/s501/e], Oct. 14, 1994, [108 Stat. 3429][/us/stat/108/3429]; [Pub. L. 104–201, div. A, title XI, § 1122(a)(1)][/us/pl/104/201/s1122/a/1], Sept. 23, 1996, [110 Stat. 2687][/us/stat/110/2687]; [Pub. L. 108–271, § 8(b)][/us/pl/108/271/s8/b], July 7, 2004, [118 Stat. 814][/us/stat/118/814]; [Pub. L. 110–417][/us/pl/110/417], \[div. A\], title IX, § 931(a)(1), Oct. 14, 2008, [122 Stat. 4575][/us/stat/122/4575]; [Pub. L. 113–235, div. H, title I, § 1301(b)][/us/pl/113/235/s1301/b], Dec. 16, 2014, [128 Stat. 2537][/us/stat/128/2537].)
 
 <table>
 
@@ -215,6 +215,10 @@ Mar. 26, 1964, Pub. L. 88–290, “Sec. 306(b)”, 78 Stat. 170.  </td>
 
     1970—Par. (1)(ii). [Pub. L. 91–375][/us/pl/91/375] repealed cl. (ii) which excluded postal field service from definition of “agency”.
 
+ __Change of Name__ 
+
+    “Government Publishing Office” substituted for “Government Printing Office” in par. (1)(B) on authority of [section 1301(b) of Pub. L. 113–235][/us/pl/113/235/s1301/b], set out as a note preceding [section 301 of Title 44][/us/usc/t44/s301], Public Printing and Documents.
+
  __Effective Date of 1996 Amendment__ 
 
     Amendment by [Pub. L. 104–201][/us/pl/104/201] effective Oct. 1, 1996, see [section 1124 of Pub. L. 104–201][/us/pl/104/201/s1124], set out as a note under [section 193 of Title 10][/us/usc/t10/s193], Armed Forces.
@@ -259,6 +263,8 @@ Mar. 26, 1964, Pub. L. 88–290, “Sec. 306(b)”, 78 Stat. 170.  </td>
 [/us/stat/118/814]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F814
 [/us/pl/110/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F417
 [/us/stat/122/4575]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4575
+[/us/pl/113/235/s1301/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs1301%2Fb
+[/us/stat/128/2537]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2537
 [/us/stat/70/659]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70%2F659
 [/us/act/1949-10-28/ch782/s1106/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-10-28%2Fch782%2Fs1106%2Fa
 [/us/stat/63/972]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F63%2F972
@@ -273,6 +279,8 @@ Mar. 26, 1964, Pub. L. 88–290, “Sec. 306(b)”, 78 Stat. 170.  </td>
 [/us/pl/95/454]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454
 [/us/pl/95/251]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F251
 [/us/pl/91/375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F375
+[/us/pl/113/235/s1301/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs1301%2Fb
+[/us/usc/t44/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft44%2Fs301
 [/us/pl/104/201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201
 [/us/pl/104/201/s1124]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2Fs1124
 [/us/usc/t10/s193]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs193

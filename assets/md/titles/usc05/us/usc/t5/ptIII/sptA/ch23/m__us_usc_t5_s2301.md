@@ -21,7 +21,7 @@
 
         (1) an Executive agency; and
 
-        (2) the Government Printing Office.
+        (2) the Government Publishing Office.
 
     (b)
 
@@ -67,11 +67,15 @@
 
         which is consistent with the provisions of this title and which the President or the head, as the case may be, determines is necessary to ensure that personnel management is based on and embodies the merit system principles.
 
-(Added [Pub. L. 95–454, title I, § 101(a)][/us/pl/95/454/s101/a], Oct. 13, 1978, [92 Stat. 1113][/us/stat/92/1113]; amended [Pub. L. 101–474, § 5(c)][/us/pl/101/474/s5/c], Oct. 30, 1990, [104 Stat. 1099][/us/stat/104/1099].)
+(Added [Pub. L. 95–454, title I, § 101(a)][/us/pl/95/454/s101/a], Oct. 13, 1978, [92 Stat. 1113][/us/stat/92/1113]; amended [Pub. L. 101–474, § 5(c)][/us/pl/101/474/s5/c], Oct. 30, 1990, [104 Stat. 1099][/us/stat/104/1099]; [Pub. L. 113–235, div. H, title I, § 1301(b)][/us/pl/113/235/s1301/b], Dec. 16, 2014, [128 Stat. 2537][/us/stat/128/2537].)
 
  __Amendments__ 
 
     1990—Subsec. (a). [Pub. L. 101–474][/us/pl/101/474] redesignated par. (3) as (2) and struck out former par. (2) which provided that this section is applicable to Administrative Office of United States Courts.
+
+ __Change of Name__ 
+
+    “Government Publishing Office” substituted for “Government Printing Office” in subsec. (a)(2) on authority of [section 1301(b) of Pub. L. 113–235][/us/pl/113/235/s1301/b], set out as a note preceding [section 301 of Title 44][/us/usc/t44/s301], Public Printing and Documents.
 
  __Effective Date__ 
 
@@ -517,7 +521,11 @@
 [/us/stat/92/1113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1113
 [/us/pl/101/474/s5/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F474%2Fs5%2Fc
 [/us/stat/104/1099]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1099
+[/us/pl/113/235/s1301/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs1301%2Fb
+[/us/stat/128/2537]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2537
 [/us/pl/101/474]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F474
+[/us/pl/113/235/s1301/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs1301%2Fb
+[/us/usc/t44/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft44%2Fs301
 [/us/pl/95/454/s907]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454%2Fs907
 [/us/usc/t5/s1101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs1101
 [/us/pl/107/174]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F174

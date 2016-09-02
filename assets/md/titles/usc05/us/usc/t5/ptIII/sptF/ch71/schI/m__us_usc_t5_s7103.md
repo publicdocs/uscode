@@ -43,7 +43,7 @@
 
         (3)
 
-         “agency” means an Executive agency (including a nonappropriated fund instrumentality described in [section 2105(c) of this title][/us/usc/t5/s2105/c] and the Veterans’ Canteen Service, Department of Veterans Affairs), the Library of Congress, the Government Printing Office, and the Smithsonian Institution  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be followed by a comma. </sup></sup>  but does not include—
+         “agency” means an Executive agency (including a nonappropriated fund instrumentality described in [section 2105(c) of this title][/us/usc/t5/s2105/c] and the Veterans’ Canteen Service, Department of Veterans Affairs), the Library of Congress, the Government Publishing Office, and the Smithsonian Institution  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be followed by a comma. </sup></sup>  but does not include—
 
             (A) the Government Accountability Office;
 
@@ -165,7 +165,7 @@
 
         (2) The President may issue an order suspending any provision of this chapter with respect to any agency, installation, or activity located outside the 50 States and the District of Columbia, if the President determines that the suspension is necessary in the interest of national security.
 
-(Added [Pub. L. 95–454, title VII, § 701][/us/pl/95/454/s701], Oct. 13, 1978, [92 Stat. 1192][/us/stat/92/1192]; amended [Pub. L. 96–465, title II, § 2314(g)][/us/pl/96/465/s2314/g], Oct. 17, 1980, [94 Stat. 2168][/us/stat/94/2168]; [Pub. L. 102–54, § 13(b)(1)][/us/pl/102/54/s13/b/1], June 13, 1991, [105 Stat. 274][/us/stat/105/274]; [Pub. L. 103–359, title V, § 501(j)][/us/pl/103/359/s501/j], Oct. 14, 1994, [108 Stat. 3430][/us/stat/108/3430]; [Pub. L. 104–201, div. A, title XVI, § 1634(a)][/us/pl/104/201/s1634/a], Sept. 23, 1996, [110 Stat. 2752][/us/stat/110/2752]; [Pub. L. 105–220, title III, § 341(e)][/us/pl/105/220/s341/e], Aug. 7, 1998, [112 Stat. 1092][/us/stat/112/1092]; [Pub. L. 105–277, div. G][/us/pl/105/277], subdiv. A, title XIV, § 1422(b)(1), Oct. 21, 1998, [112 Stat. 2681–792][/us/stat/112/2681-792]; [Pub. L. 106–554, § 1(a)(4)][/us/pl/106/554/s1/a/4] \[div. B, title I, § 139\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–235; [Pub. L. 108–271, § 8(b)][/us/pl/108/271/s8/b], July 7, 2004, [118 Stat. 814][/us/stat/118/814].)
+(Added [Pub. L. 95–454, title VII, § 701][/us/pl/95/454/s701], Oct. 13, 1978, [92 Stat. 1192][/us/stat/92/1192]; amended [Pub. L. 96–465, title II, § 2314(g)][/us/pl/96/465/s2314/g], Oct. 17, 1980, [94 Stat. 2168][/us/stat/94/2168]; [Pub. L. 102–54, § 13(b)(1)][/us/pl/102/54/s13/b/1], June 13, 1991, [105 Stat. 274][/us/stat/105/274]; [Pub. L. 103–359, title V, § 501(j)][/us/pl/103/359/s501/j], Oct. 14, 1994, [108 Stat. 3430][/us/stat/108/3430]; [Pub. L. 104–201, div. A, title XVI, § 1634(a)][/us/pl/104/201/s1634/a], Sept. 23, 1996, [110 Stat. 2752][/us/stat/110/2752]; [Pub. L. 105–220, title III, § 341(e)][/us/pl/105/220/s341/e], Aug. 7, 1998, [112 Stat. 1092][/us/stat/112/1092]; [Pub. L. 105–277, div. G][/us/pl/105/277], subdiv. A, title XIV, § 1422(b)(1), Oct. 21, 1998, [112 Stat. 2681–792][/us/stat/112/2681-792]; [Pub. L. 106–554, § 1(a)(4)][/us/pl/106/554/s1/a/4] \[div. B, title I, § 139\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–235; [Pub. L. 108–271, § 8(b)][/us/pl/108/271/s8/b], July 7, 2004, [118 Stat. 814][/us/stat/118/814]; [Pub. L. 113–235, div. H, title I, § 1301(b)][/us/pl/113/235/s1301/b], Dec. 16, 2014, [128 Stat. 2537][/us/stat/128/2537].)
 
  __Amendments__ 
 
@@ -188,6 +188,8 @@
  __Change of Name__ 
 
     International Communication Agency, referred to in subsec. (a)(2)(B)(iv), redesignated United States Information Agency and Director or any other official of International Communication Agency redesignated as Director or other official, as appropriate, of United States Information Agency by [section 303 of Pub. L. 97–241][/us/pl/97/241/s303], title III, Aug. 24, 1982, [96 Stat. 291][/us/stat/96/291], set out as a note under [section 1461 of Title 22][/us/usc/t22/s1461], Foreign Relations and Intercourse. United States Information Agency (other than Broadcasting Board of Governors and International Broadcasting Bureau) abolished and functions transferred to Secretary of State by sections 6531 and 6532 of Title 22.
+
+    “Government Publishing Office” substituted for “Government Printing Office” in subsec. (a)(3) on authority of [section 1301(b) of Pub. L. 113–235][/us/pl/113/235/s1301/b], set out as a note preceding [section 301 of Title 44][/us/usc/t44/s301], Public Printing and Documents.
 
  __Effective Date of 1998 Amendment__ 
 
@@ -566,6 +568,8 @@ By the authority vested in me as President by the Constitution and statutes of t
 [/us/stat/114/2763]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2763
 [/us/pl/108/271/s8/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F271%2Fs8%2Fb
 [/us/stat/118/814]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F814
+[/us/pl/113/235/s1301/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs1301%2Fb
+[/us/stat/128/2537]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2537
 [/us/pl/108/271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F271
 [/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
 [/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
@@ -577,6 +581,8 @@ By the authority vested in me as President by the Constitution and statutes of t
 [/us/pl/97/241/s303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F241%2Fs303
 [/us/stat/96/291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F291
 [/us/usc/t22/s1461]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs1461
+[/us/pl/113/235/s1301/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs1301%2Fb
+[/us/usc/t44/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft44%2Fs301
 [/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
 [/us/pl/105/277/s1401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs1401
 [/us/usc/t22/s6561]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs6561

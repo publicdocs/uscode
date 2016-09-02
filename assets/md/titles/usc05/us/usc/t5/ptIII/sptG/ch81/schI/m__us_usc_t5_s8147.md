@@ -147,11 +147,11 @@ July 4, 1966, Pub. L. 89–488, § 10(c), 80 Stat. 255.  </td>
 
     Amendment by [section 26 of Pub. L. 93–416][/us/pl/93/416/s26] effective Sept. 7, 1974, and applicable to any death or injury occurring on or after Sept. 7, 1974, see [section 28(a) of Pub. L. 93–416][/us/pl/93/416/s28/a], set out as a note under [section 8101 of this title][/us/usc/t5/s8101].
 
- __Government Printing Office Payment of Cost of Administration__ 
+ __Government Publishing Office Payment of Cost of Administration__ 
 
-[Pub. L. 105–275, title III, § 313][/us/pl/105/275/s313], Oct. 21, 1998, [112 Stat. 2460][/us/stat/112/2460], provided that: 
+[Pub. L. 105–275, title III, § 313][/us/pl/105/275/s313], Oct. 21, 1998, [112 Stat. 2460][/us/stat/112/2460], as amended by [Pub. L. 113–235, div. H, title I, § 1301(b)][/us/pl/113/235/s1301/b], Dec. 16, 2014, [128 Stat. 2537][/us/stat/128/2537], provided that: 
 
-> “For purposes of [section 8147 of title 5][/us/usc/t5/s8147], United States Code, the Government Printing Office is not considered an agency which is required by statute to submit an annual budget pursuant to or as provided by chapter 91 of title 31, United States Code, and is not required to pay an additional amount for the cost of administration.”
+> “For purposes of [section 8147 of title 5][/us/usc/t5/s8147], United States Code, the Government Publishing Office is not considered an agency which is required by statute to submit an annual budget pursuant to or as provided by chapter 91 of title 31, United States Code, and is not required to pay an additional amount for the cost of administration.”
 
  __Fiscal Year 1994 Prohibition on Payments to Individuals Convicted of Issuing False Statements or Fraud__ 
 
@@ -197,6 +197,8 @@ July 4, 1966, Pub. L. 89–488, § 10(c), 80 Stat. 255.  </td>
 [/us/usc/t5/s8101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs8101
 [/us/pl/105/275/s313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F275%2Fs313
 [/us/stat/112/2460]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2460
+[/us/pl/113/235/s1301/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs1301%2Fb
+[/us/stat/128/2537]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2537
 [/us/usc/t5/s8147]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs8147
 [/us/pl/103/112/s102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F112%2Fs102
 [/us/stat/107/1089]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F1089

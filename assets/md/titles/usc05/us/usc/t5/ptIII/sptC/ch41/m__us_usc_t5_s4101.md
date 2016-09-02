@@ -29,7 +29,7 @@
 
         (D) the Library of Congress;
 
-        (E) the Government Printing Office; and
+        (E) the Government Publishing Office; and
 
         (F) the government of the District of Columbia;
 
@@ -63,7 +63,7 @@
 
         (F) the services and property of any of the foregoing furnishing the training.
 
-([Pub. L. 89–554][/us/pl/89/554], Sept. 6, 1966, [80 Stat. 432][/us/stat/80/432]; [Pub. L. 90–206, title II, § 224(a)][/us/pl/90/206/s224/a], Dec. 16, 1967, [81 Stat. 642][/us/stat/81/642]; [Pub. L. 97–258, § 3(a)(8)][/us/pl/97/258/s3/a/8], Sept. 13, 1982, [96 Stat. 1063][/us/stat/96/1063]; [Pub. L. 103–226, § 2(a)(1)][/us/pl/103/226/s2/a/1], Mar. 30, 1994, [108 Stat. 111][/us/stat/108/111].)
+([Pub. L. 89–554][/us/pl/89/554], Sept. 6, 1966, [80 Stat. 432][/us/stat/80/432]; [Pub. L. 90–206, title II, § 224(a)][/us/pl/90/206/s224/a], Dec. 16, 1967, [81 Stat. 642][/us/stat/81/642]; [Pub. L. 97–258, § 3(a)(8)][/us/pl/97/258/s3/a/8], Sept. 13, 1982, [96 Stat. 1063][/us/stat/96/1063]; [Pub. L. 103–226, § 2(a)(1)][/us/pl/103/226/s2/a/1], Mar. 30, 1994, [108 Stat. 111][/us/stat/108/111]; [Pub. L. 113–235, div. H, title I, § 1301(b)][/us/pl/113/235/s1301/b], Dec. 16, 2014, [128 Stat. 2537][/us/stat/128/2537].)
 
 <table>
 
@@ -131,6 +131,10 @@ July 7, 1958, Pub. L. 85–507, § 3, 72 Stat. 328.  </td>
 
     1967—Par. (2)(B). [Pub. L. 90–206][/us/pl/90/206] substituted “Environmental Science Services Administration” for “Coast and Geodetic Survey”.
 
+ __Change of Name__ 
+
+    “Government Publishing Office” substituted for “Government Printing Office” in par. (1)(E) on authority of [section 1301(b) of Pub. L. 113–235][/us/pl/113/235/s1301/b], set out as a note preceding [section 301 of Title 44][/us/usc/t44/s301], Public Printing and Documents.
+
  __Effective Date of 1967 Amendment__ 
 
     Amendment by [Pub. L. 90–206][/us/pl/90/206] effective Dec. 16, 1967, see [section 220(a)(1) of Pub. L. 90–206][/us/pl/90/206/s220/a/1], set out as an Effective Date note under [section 3110 of this title][/us/usc/t5/s3110].
@@ -160,9 +164,13 @@ July 7, 1958, Pub. L. 85–507, § 3, 72 Stat. 328.  </td>
 [/us/stat/96/1063]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1063
 [/us/pl/103/226/s2/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F226%2Fs2%2Fa%2F1
 [/us/stat/108/111]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F111
+[/us/pl/113/235/s1301/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs1301%2Fb
+[/us/stat/128/2537]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2537
 [/us/pl/103/226]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F226
 [/us/pl/97/258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258
 [/us/pl/90/206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F206
+[/us/pl/113/235/s1301/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs1301%2Fb
+[/us/usc/t44/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft44%2Fs301
 [/us/pl/90/206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F206
 [/us/pl/90/206/s220/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F206%2Fs220%2Fa%2F1
 [/us/usc/t5/s3110]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs3110

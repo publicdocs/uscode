@@ -17,7 +17,7 @@
 
     For purposes of this subchapter—
 
-    (1) “agency” means any Executive agency, any military department, the Government Printing Office, the Library of Congress, the Architect of the Capitol, and the Botanic Garden;
+    (1) “agency” means any Executive agency, any military department, the Government Publishing Office, the Library of Congress, the Architect of the Capitol, and the Botanic Garden;
 
     (2) “employee” has the meaning given the term in subsection (a) of [section 2105 of this title][/us/usc/t5/s2105], except that such term also includes an employee described in subsection (c) of that section;
 
@@ -45,7 +45,7 @@
 
         (B) in the case of any other unit, by the corresponding provisions applicable under the personnel system covering this unit.
 
-(Added [Pub. L. 97–221, § 2(a)(2)][/us/pl/97/221/s2/a/2], July 23, 1982, [96 Stat. 227][/us/stat/96/227]; amended [Pub. L. 101–163, title III, § 312][/us/pl/101/163/s312], Nov. 21, 1989, [103 Stat. 1065][/us/stat/103/1065]; [Pub. L. 104–106, div. A, title X, § 1041][/us/pl/104/106/s1041], Feb. 10, 1996, [110 Stat. 433][/us/stat/110/433]; [Pub. L. 111–68, div. A, title I, § 1302(1)][/us/pl/111/68/s1302/1], Oct. 1, 2009, [123 Stat. 2034][/us/stat/123/2034].)
+(Added [Pub. L. 97–221, § 2(a)(2)][/us/pl/97/221/s2/a/2], July 23, 1982, [96 Stat. 227][/us/stat/96/227]; amended [Pub. L. 101–163, title III, § 312][/us/pl/101/163/s312], Nov. 21, 1989, [103 Stat. 1065][/us/stat/103/1065]; [Pub. L. 104–106, div. A, title X, § 1041][/us/pl/104/106/s1041], Feb. 10, 1996, [110 Stat. 433][/us/stat/110/433]; [Pub. L. 111–68, div. A, title I, § 1302(1)][/us/pl/111/68/s1302/1], Oct. 1, 2009, [123 Stat. 2034][/us/stat/123/2034]; [Pub. L. 113–235, div. H, title I, § 1301(b)][/us/pl/113/235/s1301/b], Dec. 16, 2014, [128 Stat. 2537][/us/stat/128/2537].)
 
  __Amendments__ 
 
@@ -54,6 +54,10 @@
     1996—Par. (2). [Pub. L. 104–106][/us/pl/104/106] amended par. (2) generally. Prior to amendment, par. (2) read as follows: “ ‘employee’ has the meaning given it by [section 2105 of this title][/us/usc/t5/s2105];”.
 
     1989—Par. (1). [Pub. L. 101–163][/us/pl/101/163] inserted “the Government Printing Office,” after “military department,”.
+
+ __Change of Name__ 
+
+    “Government Publishing Office” substituted for “Government Printing Office” in par. (1) on authority of [section 1301(b) of Pub. L. 113–235][/us/pl/113/235/s1301/b], set out as a note preceding [section 301 of Title 44][/us/usc/t44/s301], Public Printing and Documents.
 
 ----------
 
@@ -72,9 +76,13 @@
 [/us/stat/110/433]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F433
 [/us/pl/111/68/s1302/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F68%2Fs1302%2F1
 [/us/stat/123/2034]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F2034
+[/us/pl/113/235/s1301/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs1301%2Fb
+[/us/stat/128/2537]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2537
 [/us/pl/111/68]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F68
 [/us/pl/104/106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106
 [/us/usc/t5/s2105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs2105
 [/us/pl/101/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F163
+[/us/pl/113/235/s1301/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs1301%2Fb
+[/us/usc/t44/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft44%2Fs301
 
 

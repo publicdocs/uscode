@@ -35,7 +35,7 @@
 
         (G) the Architect of the Capitol;
 
-        (H) the Government Printing Office; and
+        (H) the Government Publishing Office; and
 
         (I) the government of the District of Columbia;
 
@@ -53,7 +53,7 @@
 
     (7) “Foreign Service of the United States” means the Foreign Service as constituted under the Foreign Service Act of 1980.
 
-([Pub. L. 89–554][/us/pl/89/554], Sept. 6, 1966, [80 Stat. 500][/us/stat/80/500]; [Pub. L. 97–258, § 3(a)(14)][/us/pl/97/258/s3/a/14], Sept. 13, 1982, [96 Stat. 1063][/us/stat/96/1063]; [Pub. L. 105–264, § 6(1)][/us/pl/105/264/s6/1], Oct. 19, 1998, [112 Stat. 2356][/us/stat/112/2356]; [Pub. L. 110–161, div. H, title I, § 1303(a)][/us/pl/110/161/s1303/a], Dec. 26, 2007, [121 Stat. 2242][/us/stat/121/2242].)
+([Pub. L. 89–554][/us/pl/89/554], Sept. 6, 1966, [80 Stat. 500][/us/stat/80/500]; [Pub. L. 97–258, § 3(a)(14)][/us/pl/97/258/s3/a/14], Sept. 13, 1982, [96 Stat. 1063][/us/stat/96/1063]; [Pub. L. 105–264, § 6(1)][/us/pl/105/264/s6/1], Oct. 19, 1998, [112 Stat. 2356][/us/stat/112/2356]; [Pub. L. 110–161, div. H, title I, § 1303(a)][/us/pl/110/161/s1303/a], Dec. 26, 2007, [121 Stat. 2242][/us/stat/121/2242]; [Pub. L. 113–235, div. H, title I, § 1301(b)][/us/pl/113/235/s1301/b], Dec. 16, 2014, [128 Stat. 2537][/us/stat/128/2537].)
 
  __Historical and Revision Notes__ 
 
@@ -75,6 +75,10 @@
 
     1982—Par. (5). [Pub. L. 97–258][/us/pl/97/258] substituted “section 9104” for “section 849”.
 
+ __Change of Name__ 
+
+    “Government Publishing Office” substituted for “Government Printing Office” in par. (1)(H) on authority of [section 1301(b) of Pub. L. 113–235][/us/pl/113/235/s1301/b], set out as a note preceding [section 301 of Title 44][/us/usc/t44/s301], Public Printing and Documents.
+
 ----------
 
 [Previous](./../../../../../../..//us/usc/t5/ptIII/sptD/ch57/schII/m__us_usc_t5_ptIII_sptD_ch57_schII.md) | [Next](./../../../../../../..//us/usc/t5/ptIII/sptD/ch57/schII/m__us_usc_t5_s5722.md) | [Root of Title](./../../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5721)
@@ -91,6 +95,8 @@
 [/us/stat/112/2356]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2356
 [/us/pl/110/161/s1303/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F161%2Fs1303%2Fa
 [/us/stat/121/2242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F2242
+[/us/pl/113/235/s1301/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs1301%2Fb
+[/us/stat/128/2537]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2537
 [/us/act/1946-08-02/ch744]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-08-02%2Fch744
 [/us/stat/60/811]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F60%2F811
 [/us/usc/t22/s3602/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs3602%2Fa
@@ -100,5 +106,7 @@
 [/us/pl/110/161]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F161
 [/us/pl/105/264]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F264
 [/us/pl/97/258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258
+[/us/pl/113/235/s1301/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs1301%2Fb
+[/us/usc/t44/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft44%2Fs301
 
 

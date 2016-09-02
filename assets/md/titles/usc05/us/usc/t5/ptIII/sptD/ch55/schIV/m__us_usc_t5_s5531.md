@@ -23,7 +23,7 @@
 
     (3) “retired or retainer pay” means retired pay, as defined in [section 8311(3) of this title][/us/usc/t5/s8311/3], determined without regard to subparagraphs (B) through (D) of such section 8311(3); except that such term does not include an annuity payable to an eligible beneficiary of a member or former member of a uniformed service under chapter 73 of title 10;
 
-    (4) “agency in the legislative branch” means the Government Accountability Office, the Government Printing Office, the Library of Congress, the Office of Technology Assessment, the Office of the Architect of the Capitol, the United States Botanic Garden, the Congressional Budget Office, and the United States Capitol Police;
+    (4) “agency in the legislative branch” means the Government Accountability Office, the Government Publishing Office, the Library of Congress, the Office of Technology Assessment, the Office of the Architect of the Capitol, the United States Botanic Garden, the Congressional Budget Office, and the United States Capitol Police;
 
     (5) “employee of the House of Representatives” means a congressional employee whose pay is disbursed by the Chief Administrative Officer of the House of Representatives;
 
@@ -31,7 +31,7 @@
 
     (7) “congressional employee” has the meaning given that term by [section 2107 of this title][/us/usc/t5/s2107], excluding an employee of an agency in the legislative branch.
 
-([Pub. L. 89–554][/us/pl/89/554], Sept. 6, 1966, [80 Stat. 482][/us/stat/80/482]; [Pub. L. 95–454, title III, § 308(b)][/us/pl/95/454/s308/b], Oct. 13, 1978, [92 Stat. 1150][/us/stat/92/1150]; [Pub. L. 102–190, div. A, title VI, § 655(a)(2)][/us/pl/102/190/s655/a/2], Dec. 5, 1991, [105 Stat. 1391][/us/stat/105/1391]; [Pub. L. 104–186, title II, § 215(6)][/us/pl/104/186/s215/6], Aug. 20, 1996, [110 Stat. 1745][/us/stat/110/1745]; [Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[\[div. A\], title X, § 1087(f)(2)\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–293; [Pub. L. 108–271, § 8(b)][/us/pl/108/271/s8/b], July 7, 2004, [118 Stat. 814][/us/stat/118/814]; [Pub. L. 111–145, § 7(b)(1)][/us/pl/111/145/s7/b/1], Mar. 4, 2010, [124 Stat. 55][/us/stat/124/55].)
+([Pub. L. 89–554][/us/pl/89/554], Sept. 6, 1966, [80 Stat. 482][/us/stat/80/482]; [Pub. L. 95–454, title III, § 308(b)][/us/pl/95/454/s308/b], Oct. 13, 1978, [92 Stat. 1150][/us/stat/92/1150]; [Pub. L. 102–190, div. A, title VI, § 655(a)(2)][/us/pl/102/190/s655/a/2], Dec. 5, 1991, [105 Stat. 1391][/us/stat/105/1391]; [Pub. L. 104–186, title II, § 215(6)][/us/pl/104/186/s215/6], Aug. 20, 1996, [110 Stat. 1745][/us/stat/110/1745]; [Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[\[div. A\], title X, § 1087(f)(2)\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–293; [Pub. L. 108–271, § 8(b)][/us/pl/108/271/s8/b], July 7, 2004, [118 Stat. 814][/us/stat/118/814]; [Pub. L. 111–145, § 7(b)(1)][/us/pl/111/145/s7/b/1], Mar. 4, 2010, [124 Stat. 55][/us/stat/124/55]; [Pub. L. 113–235, div. H, title I, § 1301(b)][/us/pl/113/235/s1301/b], Dec. 16, 2014, [128 Stat. 2537][/us/stat/128/2537].)
 
 <table>
 
@@ -99,6 +99,10 @@ Aug. 19, 1964, Pub. L. 88–448, § 101 (as applicable to §§ 201(a)–(e) 
 
     1978—[Pub. L. 95–454][/us/pl/95/454] substituted “ ‘member’ ” for “ ‘officer’ ” in par. (1) and added par. (3).
 
+ __Change of Name__ 
+
+    “Government Publishing Office” substituted for “Government Printing Office” in par. (4) on authority of [section 1301(b) of Pub. L. 113–235][/us/pl/113/235/s1301/b], set out as a note preceding [section 301 of Title 44][/us/usc/t44/s301], Public Printing and Documents.
+
  __Effective Date of 2010 Amendment__ 
 
     Amendment by [Pub. L. 111–145][/us/pl/111/145] effective as though enacted as part of [section 1018 of Pub. L. 108–7][/us/pl/108/7/s1018], see [section 7(d) of Pub. L. 111–145][/us/pl/111/145/s7/d], set out as a note under [section 2107 of this title][/us/usc/t5/s2107].
@@ -142,12 +146,16 @@ Aug. 19, 1964, Pub. L. 88–448, § 101 (as applicable to §§ 201(a)–(e) 
 [/us/stat/118/814]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F814
 [/us/pl/111/145/s7/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F145%2Fs7%2Fb%2F1
 [/us/stat/124/55]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F55
+[/us/pl/113/235/s1301/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs1301%2Fb
+[/us/stat/128/2537]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2537
 [/us/pl/111/145]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F145
 [/us/pl/108/271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F271
 [/us/pl/106/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398
 [/us/pl/104/186]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F186
 [/us/pl/102/190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F190
 [/us/pl/95/454]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454
+[/us/pl/113/235/s1301/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs1301%2Fb
+[/us/usc/t44/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft44%2Fs301
 [/us/pl/111/145]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F145
 [/us/pl/108/7/s1018]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F7%2Fs1018
 [/us/pl/111/145/s7/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F145%2Fs7%2Fd

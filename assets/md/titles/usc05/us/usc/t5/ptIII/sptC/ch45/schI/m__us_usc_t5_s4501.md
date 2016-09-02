@@ -29,7 +29,7 @@
 
         (D) the Botanic Garden;
 
-        (E) the Government Printing Office;
+        (E) the Government Publishing Office;
 
         (F) the government of the District of Columbia; and
 
@@ -51,7 +51,7 @@
 
     (3) “Government” means the Government of the United States and the government of the District of Columbia.
 
-([Pub. L. 89–554][/us/pl/89/554], Sept. 6, 1966, [80 Stat. 442][/us/stat/80/442]; [Pub. L. 95–454, title V, § 503(a)][/us/pl/95/454/s503/a], Oct. 13, 1978, [92 Stat. 1183][/us/stat/92/1183]; [Pub. L. 97–35, title XVII, § 1703(b)(2)][/us/pl/97/35/s1703/b/2], Aug. 13, 1981, [95 Stat. 756][/us/stat/95/756]; [Pub. L. 98–615, title II, § 204(a)(1)][/us/pl/98/615/s204/a/1], Nov. 8, 1984, [98 Stat. 3216][/us/stat/98/3216]; [Pub. L. 100–690, title VII, § 7106(a)][/us/pl/100/690/s7106/a], Nov. 18, 1988, [102 Stat. 4418][/us/stat/102/4418]; [Pub. L. 101–474, § 5(f)][/us/pl/101/474/s5/f], Oct. 30, 1990, [104 Stat. 1100][/us/stat/104/1100]; [Pub. L. 103–89, § 3(b)(1)(C)][/us/pl/103/89/s3/b/1/C], Sept. 30, 1993, [107 Stat. 981][/us/stat/107/981].)
+([Pub. L. 89–554][/us/pl/89/554], Sept. 6, 1966, [80 Stat. 442][/us/stat/80/442]; [Pub. L. 95–454, title V, § 503(a)][/us/pl/95/454/s503/a], Oct. 13, 1978, [92 Stat. 1183][/us/stat/92/1183]; [Pub. L. 97–35, title XVII, § 1703(b)(2)][/us/pl/97/35/s1703/b/2], Aug. 13, 1981, [95 Stat. 756][/us/stat/95/756]; [Pub. L. 98–615, title II, § 204(a)(1)][/us/pl/98/615/s204/a/1], Nov. 8, 1984, [98 Stat. 3216][/us/stat/98/3216]; [Pub. L. 100–690, title VII, § 7106(a)][/us/pl/100/690/s7106/a], Nov. 18, 1988, [102 Stat. 4418][/us/stat/102/4418]; [Pub. L. 101–474, § 5(f)][/us/pl/101/474/s5/f], Oct. 30, 1990, [104 Stat. 1100][/us/stat/104/1100]; [Pub. L. 103–89, § 3(b)(1)(C)][/us/pl/103/89/s3/b/1/C], Sept. 30, 1993, [107 Stat. 981][/us/stat/107/981]; [Pub. L. 113–235, div. H, title I, § 1301(b)][/us/pl/113/235/s1301/b], Dec. 16, 2014, [128 Stat. 2537][/us/stat/128/2537].)
 
 <table>
 
@@ -122,6 +122,10 @@ Aug. 18, 1959, Pub. L. 86–168, § 202(d), 73 Stat. 389.  </td>
     1981—[Pub. L. 97–35][/us/pl/97/35] substituted “subchapter” for “chapter” in provision preceding par. (1).
 
     1978—Par. (2)(A). [Pub. L. 95–454][/us/pl/95/454] inserted reference to an employee covered by merit pay system established under [section 5402 of this title][/us/usc/t5/s5402].
+
+ __Change of Name__ 
+
+    “Government Publishing Office” substituted for “Government Printing Office” in par. (1)(E) on authority of [section 1301(b) of Pub. L. 113–235][/us/pl/113/235/s1301/b], set out as a note preceding [section 301 of Title 44][/us/usc/t44/s301], Public Printing and Documents.
 
  __Effective Date of 1993 Amendment__ 
 
@@ -208,6 +212,8 @@ Aug. 18, 1959, Pub. L. 86–168, § 202(d), 73 Stat. 389.  </td>
 [/us/stat/104/1100]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1100
 [/us/pl/103/89/s3/b/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F89%2Fs3%2Fb%2F1%2FC
 [/us/stat/107/981]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F981
+[/us/pl/113/235/s1301/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs1301%2Fb
+[/us/stat/128/2537]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2537
 [/us/pl/103/89]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F89
 [/us/usc/t5/s2105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs2105
 [/us/pl/101/474]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F474
@@ -216,6 +222,8 @@ Aug. 18, 1959, Pub. L. 86–168, § 202(d), 73 Stat. 389.  </td>
 [/us/pl/97/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35
 [/us/pl/95/454]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454
 [/us/usc/t5/s5402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5402
+[/us/pl/113/235/s1301/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs1301%2Fb
+[/us/usc/t44/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft44%2Fs301
 [/us/pl/103/89]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F89
 [/us/pl/103/89/s3/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F89%2Fs3%2Fc
 [/us/usc/t5/s3372]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs3372
