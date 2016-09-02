@@ -15,7 +15,7 @@
 
 ## § 2201. Definitions
 
-For the purpose of this chapter—
+    For the purpose of this chapter—
 
     (1) “Indian tribe” or “tribe” means any Indian tribe, band, group, pueblo, or community for which, or for the members of which, the United States holds lands in trust;
 

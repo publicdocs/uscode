@@ -15,7 +15,7 @@
 
 ## § 3802. Definitions
 
-As used in this chapter:
+    As used in this chapter:
 
     (1) The term “Bureau” means the Bureau of Indian Affairs.
 

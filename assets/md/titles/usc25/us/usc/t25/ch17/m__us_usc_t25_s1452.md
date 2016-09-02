@@ -15,7 +15,7 @@
 
 ## § 1452. Definitions
 
-For the purpose of this chapter, the term—
+    For the purpose of this chapter, the term—
 
     (a) “Secretary” means the Secretary of the Interior.
 

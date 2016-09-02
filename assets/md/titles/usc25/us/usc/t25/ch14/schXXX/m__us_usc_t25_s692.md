@@ -15,7 +15,7 @@
 
 ## § 692. Definitions
 
-For the purposes of this subchapter:
+    For the purposes of this subchapter:
 
     (a) “Tribe” means any of the tribes, bands, groups, or communities of Indians located west of the Cascade Mountains in Oregon, including the following: Confederated Tribes of the Grand Ronde Community, Confederated Tribes of Siletz Indians, Alsea, Applegate Creek, Calapooya, Chaftan, Chempho, Chetco, Chetlessington, Chinook, Clackamas, Clatskanie, Clatsop, Clowwewalla, Coos, Cow Creek, Euchees, Galic Creek, Grave, Joshua, Karok, Kathlamet, Kusotony, Kwatami or Sixes, Lakmiut, Long Tom Creek, Lower Coquille, Lower Umpqua, Maddy, Mackanotin, Mary’s River, Multnomah, Munsel Creek, Naltunnetunne, Nehalem, Nestucca, Northern Molalla, Port Orford, Pudding River, Rogue River, Salmon River, Santiam, Scoton, Shasta, Shasta Costa, Siletz, Siuslaw, Skiloot, Southern Molalla, Takelma, Tillamook, Tolowa, Tualatin, Tututui, Upper Coquille, Upper Umpqua, Willamette Tumwater, Yamhill, Yaquina, and Yoncalla;
 

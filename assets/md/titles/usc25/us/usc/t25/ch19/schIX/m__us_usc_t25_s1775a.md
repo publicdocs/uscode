@@ -15,7 +15,7 @@
 
 ## § 1775a. Definitions
 
-As used in this subchapter:
+    As used in this subchapter:
 
     (1) __Lands or natural resources__ 
 

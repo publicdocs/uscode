@@ -15,7 +15,7 @@
 
 ## § 585. Membership rolls; preparation; eligibility for enrollment; application; finality of determination
 
-For the purpose of apportioning the award in accordance with sections 581 to 590 of this title, membership rolls, duly approved by the Secretary of the Interior, shall be prepared for each of the three groups, as follows:
+    For the purpose of apportioning the award in accordance with sections 581 to 590 of this title, membership rolls, duly approved by the Secretary of the Interior, shall be prepared for each of the three groups, as follows:
 
     (a) The governing body of the Shoshone Tribe of the Wind River Reservation and the governing body of the Shoshone-Bannock Tribes, each shall, with the assistance of the Secretary, bring current the membership rolls of their respective tribes, to include all persons born prior to and alive on December 18, 1971, who are enrolled or eligible to be enrolled in accordance with the membership requirements of their respective tribes.
 
@@ -27,9 +27,7 @@ For the purpose of apportioning the award in accordance with sections 581 to 590
 
         (2)
 
-         Either their names appear on one of the following Indian census rolls of the Washakie Sub-Agency of the Fort Hall jurisdiction:
-
-            (a) Roll dated January 1, 1937, by F. A. Gross, Superintendent of the Fort Hall Reservation.
+         Either their names appear on one of the following Indian census rolls of the Washakie Sub-Agency of the Fort Hall jurisdiction:    (a) Roll dated January 1, 1937, by F. A. Gross, Superintendent of the Fort Hall Reservation.
 
             (b) Roll dated January 1, 1940, by F. A. Gross, Superintendent of the Fort Hall Reservation.
 

@@ -15,7 +15,7 @@
 
 ## § 1301. Definitions
 
-For purposes of this subchapter, the term—
+    For purposes of this subchapter, the term—
 
     (1) “Indian tribe” means any tribe, band, or other group of Indians subject to the jurisdiction of the United States and recognized as possessing powers of self-government;
 

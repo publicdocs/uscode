@@ -15,7 +15,7 @@
 
 ## § 1702. Definitions
 
-For the purposes of this subchapter, the term—
+    For the purposes of this subchapter, the term—
 
     (a) “Indian Corporation” means the Rhode Island nonbusiness corporation known as the “Narragansett Tribe of Indians”;
 

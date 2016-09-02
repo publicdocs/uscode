@@ -15,7 +15,7 @@
 
 ## § 1772. Findings and policy
 
-Congress finds and declares that—
+    Congress finds and declares that—
 
     (1) there is pending before the United States District Court for the southern district of Florida a lawsuit by the Seminole Tribe which involves certain lands within the State and there are also claims by the tribe to other areas of Florida by virtue of an 1839 Executive order of the President and by right of non-extinguishment of aboriginal possession which has been asserted but not filed in court;
 

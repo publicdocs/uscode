@@ -15,7 +15,7 @@
 
 ## § 2803. Law enforcement authority
 
-The Secretary may charge employees of the Bureau with law enforcement responsibilities and may authorize those employees to—
+    The Secretary may charge employees of the Bureau with law enforcement responsibilities and may authorize those employees to—
 
     (1) carry firearms;
 

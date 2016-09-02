@@ -15,7 +15,7 @@
 
 ## § 4001. Definitions
 
-For the purposes of this chapter:
+    For the purposes of this chapter:
 
     (1) The term “Special Trustee” means the Special Trustee for American Indians appointed under [section 4042 of this title][/us/usc/t25/s4042].
 

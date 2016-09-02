@@ -15,7 +15,7 @@
 
 ## § 711. Definitions
 
-For the purposes of this subchapter—
+    For the purposes of this subchapter—
 
     (1) the term “tribe” means the Confederated Tribes of Siletz Indians of Oregon;
 

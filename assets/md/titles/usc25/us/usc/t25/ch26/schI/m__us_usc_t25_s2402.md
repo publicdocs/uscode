@@ -15,7 +15,7 @@
 
 ## § 2402. Purpose
 
-It is the purpose of this chapter to—
+    It is the purpose of this chapter to—
 
     (1) authorize and develop a comprehensive, coordinated attack upon the illegal narcotics traffic in Indian country and the deleterious impact of alcohol and substance abuse upon Indian tribes and their members,
 

@@ -15,7 +15,7 @@
 
 ## § 4234. Repayment
 
-If the Department of Hawaiian Home Lands uses grant amounts to provide affordable housing under activities under this subchapter and, at any time during the useful life of the housing, the housing does not comply with the requirement under [section 4232(a)(2) of this title][/us/usc/t25/s4232/a/2], the Secretary shall—
+    If the Department of Hawaiian Home Lands uses grant amounts to provide affordable housing under activities under this subchapter and, at any time during the useful life of the housing, the housing does not comply with the requirement under [section 4232(a)(2) of this title][/us/usc/t25/s4232/a/2], the Secretary shall—
 
     (1) reduce future grant payments on behalf of the Department by an amount equal to the grant amounts used for that housing (under the authority of [section 4238(a)(2) of this title][/us/usc/t25/s4238/a/2]); or
 

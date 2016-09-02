@@ -15,7 +15,7 @@
 
 ## § 3902. Definitions
 
-For the purposes of this chapter, the following definitions shall apply:
+    For the purposes of this chapter, the following definitions shall apply:
 
     (1) __Closure or close__ 
 

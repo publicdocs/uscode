@@ -15,7 +15,7 @@
 
 ## § 3103. Definitions
 
-For the purposes of this chapter, the term—
+    For the purposes of this chapter, the term—
 
     (1) “Alaska Native” means Native as defined in [section 1602(b) of title 43][/us/usc/t43/s1602/b];
 

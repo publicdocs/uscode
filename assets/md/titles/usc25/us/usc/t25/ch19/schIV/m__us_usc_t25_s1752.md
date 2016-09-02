@@ -15,7 +15,7 @@
 
 ## § 1752. Definitions
 
-For the purposes of this subchapter—
+    For the purposes of this subchapter—
 
     (1) The term “Tribe” means the Mashantucket Pequot Tribe (also known as the Western Pequot Tribe) as identified by chapter 832 of the Connecticut General Statutes and all its predecessors and successors in interest. The Mashantucket Pequot Tribe is represented, as of October 18, 1983, by the Mashantucket Pequot Tribal Council.
 

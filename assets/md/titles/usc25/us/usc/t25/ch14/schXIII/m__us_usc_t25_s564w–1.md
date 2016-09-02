@@ -15,7 +15,7 @@
 
 ## § 564w–1. Klamath Indian Forest and Klamath Marsh
 
-Notwithstanding the provisions of sections 564d and 564e of this title, and all Acts amendatory thereof—
+    Notwithstanding the provisions of sections 564d and 564e of this title, and all Acts amendatory thereof—
 
     (a) __Designation of boundaries__ 
 

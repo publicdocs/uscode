@@ -11,13 +11,13 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t25/ch14/schXXXVII/m__us_usc_t25_s841 to 853.md) | [Next](./../../../../..//us/usc/t25/ch14/schXXXVII–A/m__us_usc_t25_s861.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fch14%2FschXXXVII%E2%80%93A)
+[Previous](./../../../../..//us/usc/t25/ch14/schXXXVII/m__us_usc_t25_ch14_schXXXVII.md) | [Next](./../../../../..//us/usc/t25/ch14/schXXXVII–A/m__us_usc_t25_s861.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fch14%2FschXXXVII%E2%80%93A)
 
 ### SUBCHAPTER XXXVII–A—WYANDOTTE, PEORIA, OTTAWA, AND MODOC TRIBES OF OKLAHOMA: RESTORATION OF FEDERAL SUPERVISION
 
 ----------
 
-[Previous](./../../../../..//us/usc/t25/ch14/schXXXVII/m__us_usc_t25_s841 to 853.md) | [Next](./../../../../..//us/usc/t25/ch14/schXXXVII–A/m__us_usc_t25_s861.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fch14%2FschXXXVII%E2%80%93A)
+[Previous](./../../../../..//us/usc/t25/ch14/schXXXVII/m__us_usc_t25_ch14_schXXXVII.md) | [Next](./../../../../..//us/usc/t25/ch14/schXXXVII–A/m__us_usc_t25_s861.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fch14%2FschXXXVII%E2%80%93A)
 
 ----------
 ----------

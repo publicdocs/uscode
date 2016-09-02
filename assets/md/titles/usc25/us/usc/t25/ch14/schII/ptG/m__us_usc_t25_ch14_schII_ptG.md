@@ -11,13 +11,13 @@
 ----------
 ----------
 
-[Previous](./../../../../../..//us/usc/t25/ch14/schII/ptF/m__us_usc_t25_s458bbb to 458bbb–2.md) | [Next](./../../../../../..//us/usc/t25/ch14/schII/ptG/m__us_usc_t25_s458ccc.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fch14%2FschII%2FptG)
+[Previous](./../../../../../..//us/usc/t25/ch14/schII/ptF/m__us_usc_t25_ch14_schII_ptF.md) | [Next](./../../../../../..//us/usc/t25/ch14/schII/ptG/m__us_usc_t25_s458ccc.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fch14%2FschII%2FptG)
 
 #### Part G—Indian Law Enforcement Foundation
 
 ----------
 
-[Previous](./../../../../../..//us/usc/t25/ch14/schII/ptF/m__us_usc_t25_s458bbb to 458bbb–2.md) | [Next](./../../../../../..//us/usc/t25/ch14/schII/ptG/m__us_usc_t25_s458ccc.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fch14%2FschII%2FptG)
+[Previous](./../../../../../..//us/usc/t25/ch14/schII/ptF/m__us_usc_t25_ch14_schII_ptF.md) | [Next](./../../../../../..//us/usc/t25/ch14/schII/ptG/m__us_usc_t25_s458ccc.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fch14%2FschII%2FptG)
 
 ----------
 ----------

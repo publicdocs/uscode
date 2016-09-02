@@ -165,7 +165,11 @@
 
 >             “(i) the term ‘Indian country’ under [section 1151 of title 18][/us/usc/t18/s1151], United States Code; or
 
->             “(ii) the term ‘reservation’ under—         “(I) section 3(d) of the Indian Financing Act of 1974 ([25 U.S.C. 1452(d)][/us/usc/t25/s1452/d]); or
+>             “(ii)
+
+>              the term ‘reservation’ under—
+
+>                      “(I) section 3(d) of the Indian Financing Act of 1974 ([25 U.S.C. 1452(d)][/us/usc/t25/s1452/d]); or
 
 >                      “(II) section 4(10) of the Indian Child Welfare Act of 1978 ([25 U.S.C. 1903(10)][/us/usc/t25/s1903/10]).
 

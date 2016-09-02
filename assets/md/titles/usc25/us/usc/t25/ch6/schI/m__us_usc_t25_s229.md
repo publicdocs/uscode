@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t25/ch6/schI/m__us_usc_t25_s227, 228.md) | [Next](./../../../../..//us/usc/t25/ch6/schI/m__us_usc_t25_s230.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs229)
+[Previous](./../../../../..//us/usc/t25/ch6/schI/m__us_usc_t25_s216.md) | [Next](./../../../../..//us/usc/t25/ch6/schI/m__us_usc_t25_s230.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs229)
 
 ## § 229. Injuries to property by Indians
 
@@ -33,7 +33,7 @@
 
 ----------
 
-[Previous](./../../../../..//us/usc/t25/ch6/schI/m__us_usc_t25_s227, 228.md) | [Next](./../../../../..//us/usc/t25/ch6/schI/m__us_usc_t25_s230.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs229)
+[Previous](./../../../../..//us/usc/t25/ch6/schI/m__us_usc_t25_s216.md) | [Next](./../../../../..//us/usc/t25/ch6/schI/m__us_usc_t25_s230.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs229)
 
 ----------
 ----------

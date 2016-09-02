@@ -15,7 +15,7 @@
 
 ## § 715. Definitions
 
-For the purposes of this subchapter—
+    For the purposes of this subchapter—
 
     (1) “Tribe” means the Coquille Indian Tribe consisting of the Upper Coquille and the Lower Coquille Tribes of Indians;
 

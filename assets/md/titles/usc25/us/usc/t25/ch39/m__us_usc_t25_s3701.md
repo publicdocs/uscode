@@ -15,7 +15,7 @@
 
 ## § 3701. Findings
 
-The Congress finds and declares that—
+    The Congress finds and declares that—
 
     (1) the United States and Indian tribes have a government to government relationship;
 

@@ -15,7 +15,7 @@
 
 ## § 1680a. Contract health facilities
 
-The Service shall provide funds for health care programs and facilities operated by tribes and tribal organizations under contracts with the Service entered into under the Indian Self-Determination Act \[[25 U.S.C. 450f][/us/usc/t25/s450f] et seq.\]—
+    The Service shall provide funds for health care programs and facilities operated by tribes and tribal organizations under contracts with the Service entered into under the Indian Self-Determination Act \[[25 U.S.C. 450f][/us/usc/t25/s450f] et seq.\]—
 
     (1) for the maintenance and repair of clinics owned or leased by such tribes or tribal organizations,
 
@@ -25,7 +25,7 @@ The Service shall provide funds for health care programs and facilities operated
 
     (4) for any other expenses relating to the provision of health services,
 
-        on the same basis as such funds are provided to programs and facilities operated directly by the Service.
+    on the same basis as such funds are provided to programs and facilities operated directly by the Service.
 
 ([Pub. L. 94–437, title VIII, § 811][/us/pl/94/437/s811], formerly title VII, § 711, as added [Pub. L. 100–713, title VII, § 705][/us/pl/100/713/s705], Nov. 23, 1988, [102 Stat. 4828][/us/stat/102/4828]; renumbered title VIII, § 811, [Pub. L. 102–573, title VII, § 701(a)][/us/pl/102/573/s701/a], (b), Oct. 29, 1992, [106 Stat. 4572][/us/stat/106/4572].)
 

@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../..//us/usc/t25/ch2A/m__us_usc_t25_s70n–4 to 70v–3.md) | [Next](./../../../..//us/usc/t25/ch3/m__us_usc_t25_ch3.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs70w)
+[Previous](./../../../..//us/usc/t25/ch2A/m__us_usc_t25_s70n–3.md) | [Next](./../../../..//us/usc/t25/ch3/m__us_usc_t25_ch3.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs70w)
 
 ## § 70w. Repealed. [May 24, 1949, ch. 139, § 142][/us/act/1949-05-24/ch139/s142], [63 Stat. 110][/us/stat/63/110]
 
@@ -19,7 +19,7 @@
 
 ----------
 
-[Previous](./../../../..//us/usc/t25/ch2A/m__us_usc_t25_s70n–4 to 70v–3.md) | [Next](./../../../..//us/usc/t25/ch3/m__us_usc_t25_ch3.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs70w)
+[Previous](./../../../..//us/usc/t25/ch2A/m__us_usc_t25_s70n–3.md) | [Next](./../../../..//us/usc/t25/ch3/m__us_usc_t25_ch3.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs70w)
 
 ----------
 ----------

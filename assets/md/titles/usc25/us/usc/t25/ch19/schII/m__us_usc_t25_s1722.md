@@ -15,7 +15,7 @@
 
 ## § 1722. Definitions
 
-For purposes of this subchapter, the term—
+    For purposes of this subchapter, the term—
 
     (a) “Houlton Band of Maliseet Indians” means the sole successor to the Maliseet Tribe of Indians as constituted in aboriginal times in what is now the State of Maine, and all its predecessors and successors in interest. The Houlton Band of Maliseet Indians is represented, as of October 10, 1980, as to lands within the United States, by the Houlton Band Council of the Houlton Band of Maliseet Indians;
 

@@ -15,7 +15,7 @@
 
 ## § 1701. Congressional findings and declaration of policy
 
-Congress finds and declares that—
+    Congress finds and declares that—
 
     (a) there are pending before the United States District Court for the District of Rhode Island two consolidated actions that involve Indian claims to certain public and private lands within the town of Charlestown, Rhode Island;
 

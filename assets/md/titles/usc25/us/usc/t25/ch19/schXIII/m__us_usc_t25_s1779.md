@@ -15,7 +15,7 @@
 
 ## § 1779. Findings
 
-The Congress finds the following:
+    The Congress finds the following:
 
     (1) It is the policy of the United States to promote tribal self-determination and economic self-sufficiency and to encourage the resolution of disputes over historical claims through mutually agreed-to settlements between Indian Nations and the United States.
 

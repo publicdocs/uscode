@@ -15,7 +15,7 @@
 
 ## § 1212. Findings
 
-The Congress finds and declares that—
+    The Congress finds and declares that—
 
     (1) the United States has acknowledged the Central Council of Tlingit and Haida Indian Tribes of Alaska pursuant to the Act of June 19, 1935 ([49 Stat. 388][/us/stat/49/388], as amended, commonly referred to as the “Jurisdiction Act”), as a federally recognized Indian tribe;
 

@@ -15,7 +15,7 @@
 
 ## § 1300k–1. Definitions
 
-For purposes of this subchapter—
+    For purposes of this subchapter—
 
     (1) the term “Bands” means the Little Traverse Bay Bands of Odawa Indians and the Little River Band of Ottawa Indians;
 

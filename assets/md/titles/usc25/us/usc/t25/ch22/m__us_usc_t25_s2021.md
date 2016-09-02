@@ -15,7 +15,7 @@
 
 ## § 2021. Definitions
 
-For the purposes of this chapter, unless otherwise specified:
+    For the purposes of this chapter, unless otherwise specified:
 
     (1) __Agency school board__ 
 

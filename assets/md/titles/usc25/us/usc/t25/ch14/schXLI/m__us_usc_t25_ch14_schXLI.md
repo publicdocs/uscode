@@ -11,13 +11,13 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t25/ch14/schXL/m__us_usc_t25_s891 to 902.md) | [Next](./../../../../..//us/usc/t25/ch14/schXLI/m__us_usc_t25_s903.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fch14%2FschXLI)
+[Previous](./../../../../..//us/usc/t25/ch14/schXL/m__us_usc_t25_ch14_schXL.md) | [Next](./../../../../..//us/usc/t25/ch14/schXLI/m__us_usc_t25_s903.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fch14%2FschXLI)
 
 ### SUBCHAPTER XLI—MENOMINEE TRIBE OF WISCONSIN: RESTORATION OF FEDERAL SUPERVISION
 
 ----------
 
-[Previous](./../../../../..//us/usc/t25/ch14/schXL/m__us_usc_t25_s891 to 902.md) | [Next](./../../../../..//us/usc/t25/ch14/schXLI/m__us_usc_t25_s903.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fch14%2FschXLI)
+[Previous](./../../../../..//us/usc/t25/ch14/schXL/m__us_usc_t25_ch14_schXL.md) | [Next](./../../../../..//us/usc/t25/ch14/schXLI/m__us_usc_t25_s903.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fch14%2FschXLI)
 
 ----------
 ----------

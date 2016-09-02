@@ -15,7 +15,7 @@
 
 ## § 1749. Revocation of settlement
 
-In the event the Settlement Agreement between the Miccosukee Tribe and the State of Florida is ever invalidated—
+    In the event the Settlement Agreement between the Miccosukee Tribe and the State of Florida is ever invalidated—
 
     (1) the transfers, waivers, releases, relinquishments, and other commitments made by the Miccosukee Tribe in paragraph 3 of the Settlement Agreement shall no longer be of any force or effect,
 

@@ -15,7 +15,7 @@
 
 ## § 2901. Findings
 
-The Congress finds that—
+    The Congress finds that—
 
     (1) the status of the cultures and languages of Native Americans is unique and the United States has the responsibility to act together with Native Americans to ensure the survival of these unique cultures and languages;
 

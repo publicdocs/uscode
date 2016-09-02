@@ -15,7 +15,7 @@
 
 ## § 941a. Definitions
 
-For purposes of this subchapter:
+    For purposes of this subchapter:
 
     (1) The term “Tribe” means the Catawba Indian Tribe of South Carolina as constituted in aboriginal times, which was party to the Treaty of Pine Tree Hill in 1760 as confirmed by the Treaty of Augusta in 1763, which was party also to the Treaty of Nation Ford in 1840, and which was the subject of the Termination Act, and all predecessors and successors in interest, including the Catawba Indian Tribe of South Carolina, Inc.
 

@@ -15,7 +15,7 @@
 
 ## § 1778a. Definitions
 
-For the purposes of this subchapter:
+    For the purposes of this subchapter:
 
     (1) __Tribe__ 
 

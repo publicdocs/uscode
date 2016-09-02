@@ -15,13 +15,11 @@
 
 ## § 372a. Heirs by adoption
 
-In probate matters under the exclusive jurisdiction of the Secretary of the Interior, no person shall be recognized as an heir of a deceased Indian by virtue of an adoption—
+    In probate matters under the exclusive jurisdiction of the Secretary of the Interior, no person shall be recognized as an heir of a deceased Indian by virtue of an adoption—
 
     (1)
 
-     Unless such adoption shall have been—
-
-        (a) by a judgment or decree of a State court;
+     Unless such adoption shall have been—    (a) by a judgment or decree of a State court;
 
         (b) by a judgment or decree of an Indian court;
 
@@ -31,7 +29,7 @@ In probate matters under the exclusive jurisdiction of the Secretary of the Inte
 
     (2) Unless such adoption shall have been recognized by the Department of the Interior prior to the effective date of this section or in the distribution of the estate of an Indian who has died prior to that date: Provided, That an adoption by Indian custom made prior to the effective date of this section may be made valid by recordation with the superintendent if both the adopted child and the adoptive parent are still living, if the adoptive parent requests that the adoption be recorded, and if the adopted child is an adult and makes such a request or the superintendent on behalf of a minor child approves of the recordation.
 
-        This section shall not apply with respect to the distribution of the estates of Indians of the Five Civilized Tribes or the Osage Tribe in the State of Oklahoma, or with respect to the distribution of estates of Indians who have died prior to the effective date of this section.
+    This section shall not apply with respect to the distribution of the estates of Indians of the Five Civilized Tribes or the Osage Tribe in the State of Oklahoma, or with respect to the distribution of estates of Indians who have died prior to the effective date of this section.
 
 ([July 8, 1940, ch. 555][/us/act/1940-07-08/ch555], §§ 1, 2, [54 Stat. 746][/us/stat/54/746].)
 

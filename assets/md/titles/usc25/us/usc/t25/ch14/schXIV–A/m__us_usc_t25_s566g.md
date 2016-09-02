@@ -15,7 +15,7 @@
 
 ## § 566g. Definitions
 
-For the purposes of this subchapter the following definitions apply:
+    For the purposes of this subchapter the following definitions apply:
 
     (1) The term “tribe” means the Klamath Tribe consisting of the Klamath and Modoc Tribes of Oregon and the Yahooskin Band of Snake Indians.
 

@@ -15,7 +15,7 @@
 
 ## § 494a. Certification of rental proceeds
 
-Notwithstanding any other provision of law, any actual rental proceeds from the lease of land acquired under [section 488 of this title][/us/usc/t25/s488] certified by the Secretary of the Interior shall be deemed—
+    Notwithstanding any other provision of law, any actual rental proceeds from the lease of land acquired under [section 488 of this title][/us/usc/t25/s488] certified by the Secretary of the Interior shall be deemed—
 
     (1) to constitute the rental value of that land; and
 

@@ -15,7 +15,7 @@
 
 ## § 1771. Congressional findings and declaration of policy
 
-The Congress hereby finds and declares that—
+    The Congress hereby finds and declares that—
 
     (1) there is pending before the United States District Court for the District of Massachusetts a lawsuit that involves Indian claims to certain public lands within the town of Gay Head, Massachusetts;
 

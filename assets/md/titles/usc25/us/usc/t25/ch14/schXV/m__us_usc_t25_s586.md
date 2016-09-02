@@ -15,7 +15,7 @@
 
 ## § 586. Northwestern Band of Shoshone Indians; payment to enrollees; heirs or legatees; trust for minors and persons under legal disability
 
-The funds apportioned to the Northwestern Band of Shoshone Indians, less attorney’s fees, and expenses due the attorneys representing the Northwestern Band under an approved contract, effective March 1, 1968, shall be placed to its credit in the United States Treasury and shall be distributed equally to the members whose names appear on the final roll and in accordance with the provisions of sections 581 to 590 of this title.
+    The funds apportioned to the Northwestern Band of Shoshone Indians, less attorney’s fees, and expenses due the attorneys representing the Northwestern Band under an approved contract, effective March 1, 1968, shall be placed to its credit in the United States Treasury and shall be distributed equally to the members whose names appear on the final roll and in accordance with the provisions of sections 581 to 590 of this title.
 
     (a) The per capita shares shall be determined on the basis of the number of persons listed on the proposed roll published as hereinbefore provided and the number of persons on whose behalf an appeal has been taken to the Secretary contesting omission from such proposed roll. The share of those persons excluded from the final roll by reason of the decision of the Secretary on appeal shall be distributed equally to the persons included on the final roll.
 

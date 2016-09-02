@@ -15,7 +15,7 @@
 
 ## § 714. Definitions
 
-For the purposes of this subchapter—
+    For the purposes of this subchapter—
 
     (1) “Tribe” means the Confederated Tribes of Coos, Lower Umpqua, and Siuslaw Indians;
 

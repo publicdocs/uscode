@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../..//us/usc/t25/ch9/m__us_usc_t25_ch9.md) | [Next](./../../../..//us/usc/t25/ch9/m__us_usc_t25_s332, 333.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs331)
+[Previous](./../../../..//us/usc/t25/ch9/m__us_usc_t25_ch9.md) | [Next](./../../../..//us/usc/t25/ch9/m__us_usc_t25_s334.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs331)
 
 ## § 331. Repealed. [Pub. L. 106–462, title I, § 106(a)(1)][/us/pl/106/462/s106/a/1], Nov. 7, 2000, [114 Stat. 2007][/us/stat/114/2007]
 
@@ -139,17 +139,19 @@
 
 [Pub. L. 98–576][/us/pl/98/576], Oct. 30, 1984, [98 Stat. 3065][/us/stat/98/3065], provided: 
 
-> “That (a) any Osage headright or restricted real estate or funds which is part of the estate of a deceased Osage Indian with respect to whom—
+>     “That 
 
->     “(1) a certificate of competency had never been issued before the time of death, or
+>     (a)
 
->     “(2)
+>      any Osage headright or restricted real estate or funds which is part of the estate of a deceased Osage Indian with respect to whom—
 
->      a certificate of competency had been revoked by the Secretary of the Interior before the death of such Osage Indian,
+>         “(1) a certificate of competency had never been issued before the time of death, or
+
+>         “(2) a certificate of competency had been revoked by the Secretary of the Interior before the death of such Osage Indian,
 
 >         shall be exempt from any estate or inheritance tax imposed by the State of Oklahoma.
 
->         “(b) Subsection (a) shall apply to the estate of any Osage Indian who dies on or after the date of the enactment of this Act \[Oct. 30, 1984\].
+>     “(b) Subsection (a) shall apply to the estate of any Osage Indian who dies on or after the date of the enactment of this Act \[Oct. 30, 1984\].
 
 > “Sec. 2.
 
@@ -223,61 +225,81 @@
 
 >     “(b) Property placed in trust as provided by this section shall be subject to the same restrictions against alienation that presently apply to lands and property of Osage Indians, and the execution of such instrument shall not in any way affect the tax-exempt status of said property.
 
- __“rules governing devolution of interests in osage headrights__ 
+>  __“rules governing devolution of interests in osage headrights__ 
 
-    “Sec. 7. (a) General Rule.—No person who is not an Osage Indian may, on or after October 21, 1978, receive any interest in any headright, other than a life estate in accordance with subsection (b), whether such interest would be received by such person (but for this subsection) under a will, a testamentary or inter vivos trust, or the Oklahoma laws of intestate succession.
+> “Sec. 7.
 
-    “(b) Exception for Life Estates.—Notwithstanding subsection (a) and subject to section 5(d)(2) \[set out above\], an individual who is not an Osage Indian may receive a life estate in any headright held by a testator, settlor, or decedent who is or was an Osage Indian under a will, or under a testamentary trust established by a will, of such testator, an inter vivos trust established by such settlor, or the Oklahoma laws of intestate succession relating to the administration of the estate of such decedent.
+>      (a) __General Rule.—__ 
 
-    “(c) Special Rules Governing Interests in Osage Headright Upon Death of Individual Who Held Life Estate in Such Headright.—
+>     No person who is not an Osage Indian may, on or after October 21, 1978, receive any interest in any headright, other than a life estate in accordance with subsection (b), whether such interest would be received by such person (but for this subsection) under a will, a testamentary or inter vivos trust, or the Oklahoma laws of intestate succession.
 
-    “(1) Designated osage remaindermen.—Upon the death of any individual who is not an Osage Indian and who held a life estate in any headright of a testator or settlor described in subsection (b), all remaining interests in such headright shall vest in any remaindermen who—
+>     “(b) __Exception for Life Estates.—__ 
 
-    “(A) are designated in the will of the testator or the instrument establishing the trust of the settlor to receive such remainder interest, and
+>     Notwithstanding subsection (a) and subject to section 5(d)(2) \[set out above\], an individual who is not an Osage Indian may receive a life estate in any headright held by a testator, settlor, or decedent who is or was an Osage Indian under a will, or under a testamentary trust established by a will, of such testator, an inter vivos trust established by such settlor, or the Oklahoma laws of intestate succession relating to the administration of the estate of such decedent.
 
-    “(B) are Osage Indians.
+>     “(c) __Special Rules Governing Interests in Osage Headright Upon Death of Individual Who Held Life Estate in Such Headright.—__ 
 
-    “(2) No designated osage remaindermen.—Upon the death of any individual who is not an Osage Indian and who held a life estate in any headright of a testator, settlor, or decedent described in subsection (b) who—
+>         “(1) __Designated osage remaindermen.—__ 
 
-    “(A) did not designate any remainderman who is an Osage Indian to receive any remaining interest in such headright in the will of such testator or instrument of such settlor, or
+>         Upon the death of any individual who is not an Osage Indian and who held a life estate in any headright of a testator or settlor described in subsection (b), all remaining interests in such headright shall vest in any remaindermen who—
 
-    “(B) died intestate,
+>             “(A) are designated in the will of the testator or the instrument establishing the trust of the settlor to receive such remainder interest, and
 
-    all remaining interests in such headright shall vest in any heirs, as determined under the Oklahoma laws of intestate succession, of such testator, settlor, or decedent who are Osage Indians.
+>             “(B) are Osage Indians.
 
-    “(3) No heir who is an osage indian.—Upon the death of any individual who is not an Osage Indian and who held a life estate in any headright of an Osage testator, settlor, or decedent described in subsection (b) who—
+>         “(2) __No designated osage remaindermen.—__ 
 
-    “(A) designated no remainderman who is an Osage Indian for any remaining interest in such headright, and
+>         Upon the death of any individual who is not an Osage Indian and who held a life estate in any headright of a testator, settlor, or decedent described in subsection (b) who—
 
-    “(B) had no heir under the Oklahoma laws of intestate succession who is an Osage Indian and is living at the time of death of the individual who held such life estate,
+>             “(A) did not designate any remainderman who is an Osage Indian to receive any remaining interest in such headright in the will of such testator or instrument of such settlor, or
 
-    all remaining interests in such headright shall vest in the Osage Tribe of Indians.
+>             “(B) died intestate,
 
-    “(d) Liability of Tribe in Case of Remainderman or Heir Who is Not an Osage Indian.—In any case in which—
+>             all remaining interests in such headright shall vest in any heirs, as determined under the Oklahoma laws of intestate succession, of such testator, settlor, or decedent who are Osage Indians.
 
-    “(1) any remainder interest of a testator, settlor, or decedent described in subsection (b) vests in the Osage Tribe of Indians under subsection (c)(3), and
+>         “(3) __No heir who is an osage indian.—__ 
 
-    “(2) an individual who is not an Osage Indian and who, but for this section, would have received any portion of such remaining interest in the headright by virtue of—
+>         Upon the death of any individual who is not an Osage Indian and who held a life estate in any headright of an Osage testator, settlor, or decedent described in subsection (b) who—
 
-    “(A) having been designated under the will of such testator, or the instrument of such settlor which established any such trust, to receive such remainder interest, or
+>             “(A) designated no remainderman who is an Osage Indian for any remaining interest in such headright, and
 
-    “(B) being the heir of such decedent under the Oklahoma laws of intestate succession,
+>             “(B) had no heir under the Oklahoma laws of intestate succession who is an Osage Indian and is living at the time of death of the individual who held such life estate,
 
-    the tribe shall pay any such individual the fair market value of the portion of the interest in such headright such individual would have received but for this section.
+>             all remaining interests in such headright shall vest in the Osage Tribe of Indians.
 
-    “Sec. 8. (a)(1) No headright owned by any person who is not of Indian blood may be sold, assigned, or transferred without the approval of the Secretary. Any sale of any interest in such headright (and any other transfer which divests such person of any right, title, or interest in such headright) shall be subject to the following rights of purchase:
+>     “(d) __Liability of Tribe in Case of Remainderman or Heir Who is Not an Osage Indian.—__ 
 
-    “(1) First right of purchase by the heirs in the first degree of the first Osage Indian to have acquired such headright under an allotment who are living and are Osage Indians, or, if they all be deceased, all heirs in the second through the fourth degree of such first Osage Indian who are living and are Osage Indians.
+>     In any case in which—
 
-    “(2) Second right of purchase by any other Osage Indian for the benefit of any Osage Indian in his or her individual capacity.
+>         “(1) any remainder interest of a testator, settlor, or decedent described in subsection (b) vests in the Osage Tribe of Indians under subsection (c)(3), and
 
-    “(3) Third right of purchase by the Osage Tribal Council on behalf of the Osage Tribe of Indians.
+>         “(2)
 
-    No owner of any headright shall be required, by reason of this subsection, to sell such headright for less than its fair market value or to delay any such sale more than 90 days from the date by which notice of intention to sell (or otherwise transfer) such headright has been received by each person with respect to whom a right of purchase has been established under this subsection.
+>          an individual who is not an Osage Indian and who, but for this section, would have received any portion of such remaining interest in the headright by virtue of—
 
-    “(b) Notwithstanding the paragraph designated ‘First’ of section 4 of the Osage Tribe Allotment Act or any other provision of law, any income from the Osage mineral estate may be used for the purchase of any headright offered for sale to the Osage Tribal Council pursuant to subsection (a) or vested in the Osage Tribe pursuant to section 7 if, prior to the time that any income from the Osage mineral estate is segregated for distribution to holders of headrights, the Osage Tribal Council requests the Secretary to authorize such use of such funds and the Secretary approves such request.
+>             “(A) having been designated under the will of such testator, or the instrument of such settlor which established any such trust, to receive such remainder interest, or
 
-    “Sec. 9. Under such regulations as the Secretary of the Interior may prescribe, the heirs and legatees of any deceased owner of an Osage headright or mineral interest, real estate on which restrictions against alienation have not been removed, and funds on deposit at the Osage Agency may be determined by the Secretary if such aggregate interests do not exceed $10,000: Provided, That no court of competent jurisdiction has undertaken the probate of the deceased’s estate and a request for such administrative determination has been made to the Secretary by one or more of the heirs or legatees.”
+>             “(B) being the heir of such decedent under the Oklahoma laws of intestate succession,
+
+>         the tribe shall pay any such individual the fair market value of the portion of the interest in such headright such individual would have received but for this section.
+
+> “Sec. 8.
+
+>      (a)
+
+>         (1) No headright owned by any person who is not of Indian blood may be sold, assigned, or transferred without the approval of the Secretary. Any sale of any interest in such headright (and any other transfer which divests such person of any right, title, or interest in such headright) shall be subject to the following rights of purchase:
+
+>         “(1) First right of purchase by the heirs in the first degree of the first Osage Indian to have acquired such headright under an allotment who are living and are Osage Indians, or, if they all be deceased, all heirs in the second through the fourth degree of such first Osage Indian who are living and are Osage Indians.
+
+>         “(2) Second right of purchase by any other Osage Indian for the benefit of any Osage Indian in his or her individual capacity.
+
+>         “(3) Third right of purchase by the Osage Tribal Council on behalf of the Osage Tribe of Indians.
+
+>         No owner of any headright shall be required, by reason of this subsection, to sell such headright for less than its fair market value or to delay any such sale more than 90 days from the date by which notice of intention to sell (or otherwise transfer) such headright has been received by each person with respect to whom a right of purchase has been established under this subsection.
+
+>     “(b) Notwithstanding the paragraph designated ‘First’ of section 4 of the Osage Tribe Allotment Act or any other provision of law, any income from the Osage mineral estate may be used for the purchase of any headright offered for sale to the Osage Tribal Council pursuant to subsection (a) or vested in the Osage Tribe pursuant to section 7 if, prior to the time that any income from the Osage mineral estate is segregated for distribution to holders of headrights, the Osage Tribal Council requests the Secretary to authorize such use of such funds and the Secretary approves such request.
+
+> “Sec. 9. Under such regulations as the Secretary of the Interior may prescribe, the heirs and legatees of any deceased owner of an Osage headright or mineral interest, real estate on which restrictions against alienation have not been removed, and funds on deposit at the Osage Agency may be determined by the Secretary if such aggregate interests do not exceed $10,000: Provided, That no court of competent jurisdiction has undertaken the probate of the deceased’s estate and a request for such administrative determination has been made to the Secretary by one or more of the heirs or legatees.”
 
     “Sec. 10. Except where any provision of this Act explicitly provides otherwise, wherever the term ‘Osage Indian’ is used in this Act, such term shall be construed so as to include any child who has been adopted by an Osage Indian (pursuant to the decision of any court of competent jurisdiction) and any lineal descendant of such child.
 
@@ -309,17 +331,17 @@
 
 >     “The Secretary of the Interior be, and is hereby, authorized, in his discretion, under such rules and regulations as he may prescribe, upon application of any member of the Osage Tribe of Indians not having a certificate of competency, to pay all or any part of the funds held in trust for such Indian: Provided, That the Secretary of the Interior shall, within one year after this Act is approved, pay to each enrolled Indian of less than half Osage blood, one-fifth part of his or her proportionate share of accumulated funds. And such Secretary shall on or before the expiration of ten years from the date of the approval of this Act, advance and pay over to such Osage Indians of less than one-half Osage Indian blood, all of the balance appearing to his credit of accumulated funds, and shall issue to such Indian a certificate of competency: And provided further, That nothing herein contained shall be construed to interfere in any way with the removal by the Secretary of the Interior of restrictions from and against any Osage Indian at any time.
 
-> “Sec. 2. Upon the death of an Osage Indian who does not have a certificate of competency, his or her moneys and funds and other property accrued and accruing to his or her credit and which have heretofore been subject to supervision as provided by law may be paid to the administrator or executor of the estate of such deceased Indian or direct to his heirs or devisees, or may be retained by the Secretary of the Interior in the discretion of the Secretary of the Interior, under regulations to be promulgated by him: Provided, That the Secretary of the Interior shall pay to administrators and executors of the estates of such deceased Osage Indians a sufficient amount of money out of such estates to pay all lawful indebtedness and costs and expenses of administration when approved by him; and, out of the shares belonging to heirs or devisees, above referred to, he shall pay the costs and expenses of such heirs or devisees, including attorney fees, when approved by him, in the determination of heirs or contest of wills. Upon the death of any Osage Indian of less than one-half of Osage Indian blood or upon the death of an Osage Indian who has a certificate of competency, his moneys and funds and other property accrued and accruing to his credit shall be paid and delivered to the administrator or executor of his estate to be administered upon according to the laws of the State of Oklahoma: Provided, That upon the settlement of such estate any funds or property subject to the control or supervision of the Secretary of the Interior on the date of the approval of this Act, which have been inherited by or devised to any adult or minor heir or devisee who does not have a certificate of competency, and which have been paid or delivered by the Secretary of the Interior to the administrator or executor shall be paid or delivered by such administrator or executor to the Secretary of the Interior for the benefit of such Indian and shall be subject to the supervision of the Secretary as provided by law.
+>     “Sec. 2. Upon the death of an Osage Indian who does not have a certificate of competency, his or her moneys and funds and other property accrued and accruing to his or her credit and which have heretofore been subject to supervision as provided by law may be paid to the administrator or executor of the estate of such deceased Indian or direct to his heirs or devisees, or may be retained by the Secretary of the Interior in the discretion of the Secretary of the Interior, under regulations to be promulgated by him: Provided, That the Secretary of the Interior shall pay to administrators and executors of the estates of such deceased Osage Indians a sufficient amount of money out of such estates to pay all lawful indebtedness and costs and expenses of administration when approved by him; and, out of the shares belonging to heirs or devisees, above referred to, he shall pay the costs and expenses of such heirs or devisees, including attorney fees, when approved by him, in the determination of heirs or contest of wills. Upon the death of any Osage Indian of less than one-half of Osage Indian blood or upon the death of an Osage Indian who has a certificate of competency, his moneys and funds and other property accrued and accruing to his credit shall be paid and delivered to the administrator or executor of his estate to be administered upon according to the laws of the State of Oklahoma: Provided, That upon the settlement of such estate any funds or property subject to the control or supervision of the Secretary of the Interior on the date of the approval of this Act, which have been inherited by or devised to any adult or minor heir or devisee who does not have a certificate of competency, and which have been paid or delivered by the Secretary of the Interior to the administrator or executor shall be paid or delivered by such administrator or executor to the Secretary of the Interior for the benefit of such Indian and shall be subject to the supervision of the Secretary as provided by law.
 
-> “Sec. 3. Lands devised to members of the Osage Tribe who do not have certificates of competency, under wills approved by the Secretary of the Interior, and lands inherited by such Indians, shall be inalienable unless such lands be conveyed with the approval of the Secretary of the Interior. Property of Osage Indians not having certificates of competency purchased as hereinbefore set forth shall not be subject to the lien of any debt, claim, or judgment except taxes, or be subject to alienation, without the approval of the Secretary of the Interior.
+>     “Sec. 3. Lands devised to members of the Osage Tribe who do not have certificates of competency, under wills approved by the Secretary of the Interior, and lands inherited by such Indians, shall be inalienable unless such lands be conveyed with the approval of the Secretary of the Interior. Property of Osage Indians not having certificates of competency purchased as hereinbefore set forth shall not be subject to the lien of any debt, claim, or judgment except taxes, or be subject to alienation, without the approval of the Secretary of the Interior.
 
-> “Sec. 4. Whenever the Secretary of the Interior shall find that any member of the Osage Tribe, to whom has been granted a certificate of competency, is squandering or misusing his or her funds, he may revoke such certificate of competency after notice and hearing in accordance with such rules and regulations as he may prescribe, and thereafter the income of such member shall be subject to supervision and investment as herein provided for members not having certificates of competency to the same extent as if a certificate of competency had never been granted: Provided, That all just indebtedness of such member existing at the time his certificate of competency is revoked shall be paid by the Secretary of the Interior, or his authorized representative, out of the income of such member, in addition the quarterly income hereinbefore provided for: And provided further, That such revocation or cancellation of any certificate of competency shall not affect the legality of any transactions theretofore made by reason of the issuance of any certificate of competency.
+>     “Sec. 4. Whenever the Secretary of the Interior shall find that any member of the Osage Tribe, to whom has been granted a certificate of competency, is squandering or misusing his or her funds, he may revoke such certificate of competency after notice and hearing in accordance with such rules and regulations as he may prescribe, and thereafter the income of such member shall be subject to supervision and investment as herein provided for members not having certificates of competency to the same extent as if a certificate of competency had never been granted: Provided, That all just indebtedness of such member existing at the time his certificate of competency is revoked shall be paid by the Secretary of the Interior, or his authorized representative, out of the income of such member, in addition the quarterly income hereinbefore provided for: And provided further, That such revocation or cancellation of any certificate of competency shall not affect the legality of any transactions theretofore made by reason of the issuance of any certificate of competency.
 
-> “Sec. 5. No person convicted of having taken, or convicted of causing or procuring another to take, the life of an Osage Indian shall inherit from or receive any interest in the estate of the decedent, regardless of where the crime was committed and the conviction obtained.
+>     “Sec. 5. No person convicted of having taken, or convicted of causing or procuring another to take, the life of an Osage Indian shall inherit from or receive any interest in the estate of the decedent, regardless of where the crime was committed and the conviction obtained.
 
-> “Sec. 6. No contract for debt hereafter made with a member of the Osage Tribe of Indians not having a certificate of competency, shall have any validity, unless approved by the Secretary of the Interior. In addition to the payment of funds heretofore authorized, the Secretary of the Interior is hereby authorized in his discretion to pay, out of the funds of a member of the Osage Tribe not having a certificate of competency, any indebtedness heretofore or hereafter incurred by such member by reason of his unlawful acts of carelessness or negligence.
+>     “Sec. 6. No contract for debt hereafter made with a member of the Osage Tribe of Indians not having a certificate of competency, shall have any validity, unless approved by the Secretary of the Interior. In addition to the payment of funds heretofore authorized, the Secretary of the Interior is hereby authorized in his discretion to pay, out of the funds of a member of the Osage Tribe not having a certificate of competency, any indebtedness heretofore or hereafter incurred by such member by reason of his unlawful acts of carelessness or negligence.
 
-> “Sec. 7. Except as provided in sections 5(d) and 7 of the Act approved October 21, 1978, and entitled ‘An Act to amend certain laws relating to the Osage Tribe of Oklahoma, and for other purposes.’, on or after October 21, 1978 \[[Pub. L. 95–496][/us/pl/95/496], set out above\], none but heirs of Indian blood and children legally adopted by a court of competent jurisdiction and parents, Indian or non-Indian, shall inherit, in accordance with the laws of the State of Oklahoma relating to intestate succession from Osage Indians any right, title, or interest to any restricted land, moneys, or Osage headright or mineral interest. No adopted child of any Osage Indian who is not an Osage Indian shall be eligible to inherit, as the collateral heir (within the meaning of the laws of the State of Oklahoma relating to intestate succession) of any Osage Indian decedent, any property or interest in property held in trust by the Secretary of the Interior for the benefit of such decedent.”
+>     “Sec. 7. Except as provided in sections 5(d) and 7 of the Act approved October 21, 1978, and entitled ‘An Act to amend certain laws relating to the Osage Tribe of Oklahoma, and for other purposes.’, on or after October 21, 1978 \[[Pub. L. 95–496][/us/pl/95/496], set out above\], none but heirs of Indian blood and children legally adopted by a court of competent jurisdiction and parents, Indian or non-Indian, shall inherit, in accordance with the laws of the State of Oklahoma relating to intestate succession from Osage Indians any right, title, or interest to any restricted land, moneys, or Osage headright or mineral interest. No adopted child of any Osage Indian who is not an Osage Indian shall be eligible to inherit, as the collateral heir (within the meaning of the laws of the State of Oklahoma relating to intestate succession) of any Osage Indian decedent, any property or interest in property held in trust by the Secretary of the Interior for the benefit of such decedent.”
 
 [Act Mar. 2, 1929, ch. 493, § 5][/us/act/1929-03-02/ch493/s5], [45 Stat. 1481][/us/stat/45/1481], provided that: 
 
@@ -677,9 +699,15 @@
 
 > “That the Secretary of the Interior be, and he is hereby, authorized in his discretion, to cancel any restricted fee patents that have been issued to Indians of the Winnebago Reservation in Nebraska, under the provisions of the Act of Congress of February 21, 1863 (Twelfth Statutes at Large, page 658), and to issue in lieu thereof, to the original allottees, or heirs, trust patents of the form and subject to all the provisions set out in the general allotment act of February 8, 1887 (Twenty-fourth Statutes at Large, page 388), as amended: Provided, That the trust period shall be ten years from the date of issuance of the lieu trust patents.”
 
+§§ 332, 333. __Repealed.__  __[__  __Pub. L. 106–462, title I, § 106(a)(1)__  __][/us/pl/106/462/s106/a/1]__  __,__  __Nov. 7, 2000__  __,__  __[__  __114 Stat. 2007__  __][/us/stat/114/2007]__ 
+
+    Section 332, [act Feb. 8, 1887, ch. 119, § 2][/us/act/1887-02-08/ch119/s2], [24 Stat. 388][/us/stat/24/388], related to selection of allotments.
+
+    Section 333, acts [Feb. 8, 1887, ch. 119, § 3][/us/act/1887-02-08/ch119/s3], [24 Stat. 389][/us/stat/24/389]; [June 25, 1910, ch. 431, § 9][/us/act/1910-06-25/ch431/s9], [36 Stat. 858][/us/stat/36/858]; 1946 Reorg. Plan No. 3, § 403, eff. July 16, 1946, 11 F.R. 7876, [60 Stat. 1100][/us/stat/60/1100], related to making of allotments by agents.
+
 ----------
 
-[Previous](./../../../..//us/usc/t25/ch9/m__us_usc_t25_ch9.md) | [Next](./../../../..//us/usc/t25/ch9/m__us_usc_t25_s332, 333.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs331)
+[Previous](./../../../..//us/usc/t25/ch9/m__us_usc_t25_ch9.md) | [Next](./../../../..//us/usc/t25/ch9/m__us_usc_t25_s334.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs331)
 
 ----------
 ----------
@@ -846,5 +874,14 @@
 [/us/usc/t42/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs301
 [/us/act/1925-03-03/ch431]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1925-03-03%2Fch431
 [/us/stat/43/1114]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F43%2F1114
+[/us/pl/106/462/s106/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F462%2Fs106%2Fa%2F1
+[/us/stat/114/2007]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2007
+[/us/act/1887-02-08/ch119/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1887-02-08%2Fch119%2Fs2
+[/us/stat/24/388]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F24%2F388
+[/us/act/1887-02-08/ch119/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1887-02-08%2Fch119%2Fs3
+[/us/stat/24/389]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F24%2F389
+[/us/act/1910-06-25/ch431/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1910-06-25%2Fch431%2Fs9
+[/us/stat/36/858]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F36%2F858
+[/us/stat/60/1100]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F60%2F1100
 
 

@@ -15,7 +15,7 @@
 
 ## § 1300n–1. Definitions
 
-For purposes of this subchapter:
+    For purposes of this subchapter:
 
     (1) The term “Tribe” means the Indians of the Graton Rancheria of California.
 

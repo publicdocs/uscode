@@ -15,7 +15,7 @@
 
 ## § 1741. Congressional findings and declaration of policy
 
-Congress finds and declares that—
+    Congress finds and declares that—
 
     (1) there is pending before the United States District Court for the Southern District of Florida a lawsuit by the Miccosukee Indian Tribe which involves certain lands within the State of Florida;
 

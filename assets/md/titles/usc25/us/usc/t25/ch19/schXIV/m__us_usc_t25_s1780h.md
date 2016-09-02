@@ -15,7 +15,7 @@
 
 ## § 1780h. Interim management
 
-Subject to valid existing rights, prior to the conveyance under [section 1780g of this title][/us/usc/t25/s1780g], the Secretary of Agriculture, with respect to the Settlement Area Land, the Water System Land, the Northern Tier Land, and the Los Alamos Townsite Land—
+    Subject to valid existing rights, prior to the conveyance under [section 1780g of this title][/us/usc/t25/s1780g], the Secretary of Agriculture, with respect to the Settlement Area Land, the Water System Land, the Northern Tier Land, and the Los Alamos Townsite Land—
 
     (1) shall not encumber or dispose of the land by sale, exchange, or special use authorization, in such a manner as to substantially reduce the market value of the land;
 

@@ -15,7 +15,7 @@
 
 ## § 1751. Congressional findings
 
-The Congress finds that—
+    The Congress finds that—
 
     (a) there is pending before the United States District Court for the District of Connecticut a civil action entitled “Western Pequot Tribe of Indians against Holdridge Enterprises Incorporated, et al., Civil Action Numbered H76–193 (D. Conn.),” which involves Indian claims to certain public and private lands within the town of Ledyard, Connecticut;
 

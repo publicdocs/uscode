@@ -15,7 +15,7 @@
 
 ## § 2101. Definitions
 
-For the purposes of this chapter, the term—
+    For the purposes of this chapter, the term—
 
     (1) “Indian” means any individual Indian or Alaska Native who owns land or interests in land the title to which is held in trust by the United States or is subject to a restriction against alienation imposed by the United States;
 

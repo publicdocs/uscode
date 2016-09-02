@@ -15,7 +15,7 @@
 
 ## § 1300d–25. Effect of payments to covered Indian tribes on benefits
 
-A payment made to a covered Indian tribe or an individual under this part shall not—
+    A payment made to a covered Indian tribe or an individual under this part shall not—
 
     (1) for purposes of determining the eligibility for a Federal service or program of a covered Indian tribe, household, or individual, be treated as income or resources; or
 

@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../..//us/usc/t25/ch13/m__us_usc_t25_s421 to 427.md) | [Next](./../../../..//us/usc/t25/ch14/schI/m__us_usc_t25_ch14_schI.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fch14)
+[Previous](./../../../..//us/usc/t25/ch13/m__us_usc_t25_ch13.md) | [Next](./../../../..//us/usc/t25/ch14/schI/m__us_usc_t25_ch14_schI.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fch14)
 
 ## CHAPTER 14—MISCELLANEOUS
 
@@ -8019,7 +8019,7 @@ SUBCHAPTER LXXXV—GRATON RANCHERIA RESTORATION  </td>
 
 ----------
 
-[Previous](./../../../..//us/usc/t25/ch13/m__us_usc_t25_s421 to 427.md) | [Next](./../../../..//us/usc/t25/ch14/schI/m__us_usc_t25_ch14_schI.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fch14)
+[Previous](./../../../..//us/usc/t25/ch13/m__us_usc_t25_ch13.md) | [Next](./../../../..//us/usc/t25/ch14/schI/m__us_usc_t25_ch14_schI.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fch14)
 
 ----------
 ----------

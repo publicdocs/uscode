@@ -15,7 +15,7 @@
 
 ## § 1680d. Infant and maternal mortality; fetal alcohol syndrome
 
-By no later than January 1, 1990, the Secretary shall develop and begin implementation of a plan to achieve the following objectives by January 1, 1994:
+    By no later than January 1, 1990, the Secretary shall develop and begin implementation of a plan to achieve the following objectives by January 1, 1994:
 
     (1)
 

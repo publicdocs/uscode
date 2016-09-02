@@ -15,7 +15,7 @@
 
 ## § 4012. Authority for payment of claims for interest owed
 
-The Secretary shall make payments to an individual Indian in full satisfaction of any claim of such individual for interest on amounts deposited or invested on behalf of such individual before October 25, 1994, retroactive to the date that the Secretary began investing individual Indian monies on a regular basis, to the extent that the claim is identified—
+    The Secretary shall make payments to an individual Indian in full satisfaction of any claim of such individual for interest on amounts deposited or invested on behalf of such individual before October 25, 1994, retroactive to the date that the Secretary began investing individual Indian monies on a regular basis, to the extent that the claim is identified—
 
     (1) by a reconciliation process of individual Indian money accounts, or
 

@@ -15,7 +15,7 @@
 
 ## § 416i. Restrictions
 
-Nothing contained in sections 416 to 416j of this title shall—
+    Nothing contained in sections 416 to 416j of this title shall—
 
     (a) authorize the alienation, encumbrance, or taxation of any interest in real or personal property, including water rights, held in trust by the United States or held by an individual Indian, the Papago Tribe or the Salt River Pima-Maricopa Community subject to a restriction against alienation imposed by the United States, or any income therefrom: Provided, That the foregoing shall not affect the power to lease as provided in [section 416 of this title][/us/usc/t25/s416] or the power to dedicate as provided in [section 416f of this title][/us/usc/t25/s416f] and shall not affect or abridge any right of the State of Arizona or its political subdivisions to tax non-Indian leasehold and possessory interests, buildings, improvements and personal property located on the San Xavier and Salt River Pima-Maricopa Reservations and not owned by Papago or Pima-Maricopa Indians residing thereon;
 

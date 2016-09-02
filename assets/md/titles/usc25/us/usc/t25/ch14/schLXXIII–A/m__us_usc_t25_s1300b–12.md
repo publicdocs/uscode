@@ -15,7 +15,7 @@
 
 ## § 1300b–12. Definitions
 
-For purposes of this subchapter—
+    For purposes of this subchapter—
 
     (a) “Band” means the Texas Band of Kickapoo Indians, a subgroup of the Kickapoo Tribe of Oklahoma;
 

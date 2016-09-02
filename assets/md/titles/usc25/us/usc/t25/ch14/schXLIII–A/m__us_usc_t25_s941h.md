@@ -15,7 +15,7 @@
 
 ## § 941h. Administrative provisions relating to jurisdiction, taxation, and other matters
 
-In the administration of this subchapter:
+    In the administration of this subchapter:
 
     (1) All matters involving tribal powers, immunities, and jurisdiction, whether criminal, civil, or regulatory, shall be governed by the terms and provisions of the Settlement Agreement and the State Act, unless otherwise provided in this subchapter.
 

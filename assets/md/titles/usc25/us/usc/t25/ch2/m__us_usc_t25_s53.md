@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../..//us/usc/t25/ch2/m__us_usc_t25_s51 to 52a.md) | [Next](./../../../..//us/usc/t25/ch2/m__us_usc_t25_s54, 55.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs53)
+[Previous](./../../../..//us/usc/t25/ch2/m__us_usc_t25_s50.md) | [Next](./../../../..//us/usc/t25/ch2/m__us_usc_t25_s56.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs53)
 
 ## § 53. Disbursing officers; acting clerks
 
@@ -29,9 +29,15 @@
 
     Disbursement functions of all Government agencies, except Departments of the Army, Navy, and Air Force and the Panama Canal, transferred to Division of Disbursements, Department of the Treasury, by Ex. Ord. No. 6166, § 4, June 10, 1933, and Ex. Ord. No. 6728, May 29, 1934. Division subsequently consolidated with other agencies into Fiscal Service in Department of the Treasury by Reorg. Plan No. III of 1940, § 1(a)(1), eff. June 30, 1940, 5 F.R. 2107, [54 Stat. 1231][/us/stat/54/1231]. See [section 306 of Title 31][/us/usc/t31/s306], Money and Finance.
 
+§§ 54, 55. __Repealed.__  __[__  __Pub. L. 89–554, § 8(a)__  __][/us/pl/89/554/s8/a]__  __,__  __Sept. 6, 1966__  __,__  __[__  __80 Stat. 632__  __][/us/stat/80/632]__  __, 634__ 
+
+    Section 54, R.S. § 2077, related to traveling expenses.
+
+    Section 55, [act May 17, 1882, ch. 163, § 1][/us/act/1882-05-17/ch163/s1], [22 Stat. 86][/us/stat/22/86], related to expenses of clerks detailed on special duty.
+
 ----------
 
-[Previous](./../../../..//us/usc/t25/ch2/m__us_usc_t25_s51 to 52a.md) | [Next](./../../../..//us/usc/t25/ch2/m__us_usc_t25_s54, 55.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs53)
+[Previous](./../../../..//us/usc/t25/ch2/m__us_usc_t25_s50.md) | [Next](./../../../..//us/usc/t25/ch2/m__us_usc_t25_s56.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs53)
 
 ----------
 ----------
@@ -44,5 +50,9 @@
 [/us/stat/64/1262]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F1262
 [/us/stat/54/1231]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F54%2F1231
 [/us/usc/t31/s306]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs306
+[/us/pl/89/554/s8/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554%2Fs8%2Fa
+[/us/stat/80/632]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F632
+[/us/act/1882-05-17/ch163/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1882-05-17%2Fch163%2Fs1
+[/us/stat/22/86]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F22%2F86
 
 

@@ -15,7 +15,7 @@
 
 ## § 450n. Sovereign immunity and trusteeship rights unaffected
 
-Nothing in this subchapter shall be construed as—
+    Nothing in this subchapter shall be construed as—
 
     (1) affecting, modifying, diminishing, or otherwise impairing the sovereign immunity from suit enjoyed by an Indian tribe; or
 

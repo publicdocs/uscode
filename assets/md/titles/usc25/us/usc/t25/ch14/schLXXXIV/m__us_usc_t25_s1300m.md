@@ -15,7 +15,7 @@
 
 ## § 1300m. Definitions
 
-For purposes of this subchapter:
+    For purposes of this subchapter:
 
     (1) The term “Tribe” means the Paskenta Band of Nomlaki Indians of the Paskenta Rancheria of California.
 

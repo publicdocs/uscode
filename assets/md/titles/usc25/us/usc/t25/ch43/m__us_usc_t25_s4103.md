@@ -15,7 +15,7 @@
 
 ## § 4103. Definitions
 
-For purposes of this chapter, the following definitions shall apply:
+    For purposes of this chapter, the following definitions shall apply:
 
     (1) __Adjusted income__ 
 

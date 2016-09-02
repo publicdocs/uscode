@@ -15,7 +15,7 @@
 
 ## § 1041. Findings
 
-Congress finds the following:
+    Congress finds the following:
 
     (1) The Cherokee Shawnees, also known as the Loyal Shawnees, are recognized as the descendants of the Shawnee Tribe which was incorporated into the Cherokee Nation of Indians of Oklahoma pursuant to an agreement entered into by and between the Shawnee Tribe and the Cherokee Nation on June 7, 1869, and approved by the President on June 9, 1869, in accordance with Article XV of the July 19, 1866, Treaty between the United States and the Cherokee Nation ([14 Stat. 799][/us/stat/14/799]).
 

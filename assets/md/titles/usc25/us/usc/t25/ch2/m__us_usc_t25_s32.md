@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../..//us/usc/t25/ch2/m__us_usc_t25_s28 to 31.md) | [Next](./../../../..//us/usc/t25/ch2/m__us_usc_t25_s33.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs32)
+[Previous](./../../../..//us/usc/t25/ch2/m__us_usc_t25_s27.md) | [Next](./../../../..//us/usc/t25/ch2/m__us_usc_t25_s33.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs32)
 
 ## § 32. Omitted
 
@@ -21,7 +21,7 @@
 
 ----------
 
-[Previous](./../../../..//us/usc/t25/ch2/m__us_usc_t25_s28 to 31.md) | [Next](./../../../..//us/usc/t25/ch2/m__us_usc_t25_s33.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs32)
+[Previous](./../../../..//us/usc/t25/ch2/m__us_usc_t25_s27.md) | [Next](./../../../..//us/usc/t25/ch2/m__us_usc_t25_s33.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs32)
 
 ----------
 ----------

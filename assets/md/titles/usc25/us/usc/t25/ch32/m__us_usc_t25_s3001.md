@@ -15,7 +15,7 @@
 
 ## § 3001. Definitions
 
-For purposes of this chapter, the term—
+    For purposes of this chapter, the term—
 
     (1) “burial site” means any natural or prepared physical location, whether originally below, on, or above the surface of the earth, into which as a part of the death rite or ceremony of a culture, individual human remains are deposited.
 

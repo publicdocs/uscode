@@ -15,7 +15,7 @@
 
 ## § 1602. Declaration of national Indian health policy
 
-Congress declares that it is the policy of this Nation, in fulfillment of its special trust responsibilities and legal obligations to Indians—
+    Congress declares that it is the policy of this Nation, in fulfillment of its special trust responsibilities and legal obligations to Indians—
 
     (1) to ensure the highest possible health status for Indians and urban Indians and to provide all resources necessary to effect that policy;
 

@@ -15,7 +15,7 @@
 
 ## § 1667a. Definitions
 
-In this part:
+    In this part:
 
     (1) __Administration__ 
 

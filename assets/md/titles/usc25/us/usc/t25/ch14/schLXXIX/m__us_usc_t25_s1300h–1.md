@@ -15,7 +15,7 @@
 
 ## § 1300h–1. Definitions
 
-For purposes of this subchapter—
+    For purposes of this subchapter—
 
     (1) the term “Band” means the Lac Vieux Desert Band of Lake Superior Chippewa Indians;
 

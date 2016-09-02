@@ -15,7 +15,7 @@
 
 ## § 1779b. Definitions
 
-For the purposes of this subchapter, the following definitions apply:
+    For the purposes of this subchapter, the following definitions apply:
 
     (1) __Disclaimed Drybed Lands__ 
 

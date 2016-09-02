@@ -23,51 +23,61 @@
 
 [Pub. L. 98–290][/us/pl/98/290], May 21, 1984, [98 Stat. 201][/us/stat/98/201], provided that:
 
- __“congressional purpose__ 
+>  __“congressional purpose__ 
 
-    “Section 1. The purposes of this Act are—
+> “Section 1.
 
-    “(1) to resolve uncertainty over the boundaries of the Southern Ute Indian Reservation and the status of unrestricted land on such reservation, and
+>  The purposes of this Act are—
 
-    “(2) to avoid long and costly litigation over issues dependent on reservation or Indian country status.
+>     “(1) to resolve uncertainty over the boundaries of the Southern Ute Indian Reservation and the status of unrestricted land on such reservation, and
 
- __“indian trust land defined__ 
+>     “(2) to avoid long and costly litigation over issues dependent on reservation or Indian country status.
 
-    “Sec. 2. For purposes of this Act, the term ‘Indian trust land’ means any land within the boundaries of the Southern Ute Indian Reservation which—
+>  __“indian trust land defined__ 
 
-    “(1) is held by the United States in trust for the benefit of the Southern Ute Indian Tribe or individual Indians, or
+> “Sec. 2.
 
-    “(2) is owned by the United States and reserved for use or actually used in the administration of Indian affairs.
+>  For purposes of this Act, the term ‘Indian trust land’ means any land within the boundaries of the Southern Ute Indian Reservation which—
 
-    Any right-of-way bounded on both sides by Indian trust land shall be Indian trust land. Any other right-of-way shall not be Indian trust land.
+>     “(1) is held by the United States in trust for the benefit of the Southern Ute Indian Tribe or individual Indians, or
 
- __“boundaries of the southern ute indian reservation defined__ 
+>     “(2) is owned by the United States and reserved for use or actually used in the administration of Indian affairs.
 
-    “Sec. 3. The Southern Ute Indian Reservation in the State of Colorado is declared to have the following boundaries:
+>     Any right-of-way bounded on both sides by Indian trust land shall be Indian trust land. Any other right-of-way shall not be Indian trust land.
 
-    “(1) Bounded on the north by the southern boundary of the lands—
+>  __“boundaries of the southern ute indian reservation defined__ 
 
-    “(A) ceded to the United States by certain bands of Ute Indians under the Articles of Convention entered into on September 13, 1873, and ratified by the Act approved April 29, 1874 ([18 Stat. 36][/us/stat/18/36]), and
+> “Sec. 3.
 
-    “(B) described in article I of such Articles of Convention.
+>  The Southern Ute Indian Reservation in the State of Colorado is declared to have the following boundaries:
 
-    “(2) Bounded on the south by the boundary line between the States of Colorado and New Mexico as described in article II of the treaty between the United States and the Ute Indians concluded March 2, 1868, and proclaimed November 6, 1868 ([15 Stat. 619][/us/stat/15/619]).
+>     “(1)
 
-    “(3) Bounded on the west by the eastern boundary of the Ute Mountain Ute Indian Reservation.
+>      Bounded on the north by the southern boundary of the lands—
 
-    “(4) Bounded on the east by the southernmost 15 miles of the eastern boundary of the lands reserved to the Ute Indians by article II of the treaty between the United States and the Ute Indians concluded March 2, 1868, and proclaimed November 6, 1868 ([15 Stat. 619][/us/stat/15/619]), except that the lands east of such boundary in township 32 north, range 1 west, New Mexico principal meridian, that are held by the United States in trust for the benefit of the Southern Ute Indian Tribe are part of the Southern Ute Indian Reservation.
+>         “(A) ceded to the United States by certain bands of Ute Indians under the Articles of Convention entered into on September 13, 1873, and ratified by the Act approved April 29, 1874 ([18 Stat. 36][/us/stat/18/36]), and
 
- __“jurisdiction over reservation__ 
+>         “(B) described in article I of such Articles of Convention.
 
-    “Sec. 4. (a) Such territorial jurisdiction as the Southern Ute Indian Tribe has over persons other than Indians and the property of such persons shall be limited to Indian trust lands within the reservation.
+>     “(2) Bounded on the south by the boundary line between the States of Colorado and New Mexico as described in article II of the treaty between the United States and the Ute Indians concluded March 2, 1868, and proclaimed November 6, 1868 ([15 Stat. 619][/us/stat/15/619]).
 
-    “(b) Any person who is not an Indian and the property of any such person shall be subject to the jurisdiction of the United States under [section 1152 of title 18][/us/usc/t18/s1152], United States Code, only on Indian trust land.
+>     “(3) Bounded on the west by the eastern boundary of the Ute Mountain Ute Indian Reservation.
 
-    “(c) Any law of the United States related to the sale, possession, introduction, or manufacture of alcoholic beverages or to trading with Indians within Indian country, or within the Indian reservation, shall apply, with respect to the Southern Ute Indian Reservation, only on Indian trust land.
+>     “(4) Bounded on the east by the southernmost 15 miles of the eastern boundary of the lands reserved to the Ute Indians by article II of the treaty between the United States and the Ute Indians concluded March 2, 1868, and proclaimed November 6, 1868 ([15 Stat. 619][/us/stat/15/619]), except that the lands east of such boundary in township 32 north, range 1 west, New Mexico principal meridian, that are held by the United States in trust for the benefit of the Southern Ute Indian Tribe are part of the Southern Ute Indian Reservation.
 
- __“jurisdiction over incorporated municipalities within the reservation__ 
+>  __“jurisdiction over reservation__ 
 
-    “Sec. 5. The State of Colorado shall exercise criminal and civil jurisdiction within the boundaries of the town of Ignacio, Colorado, and any other municipality which may be incorporated under the laws of Colorado within the Southern Ute Indian Reservation, as if such State had assumed jurisdiction pursuant to the Act of August 15, 1953 ([67 Stat. 588][/us/stat/67/588]), as amended by the Act of April 11, 1968 ([82 Stat. 79][/us/stat/82/79]) \[see [28 U.S.C. 1360][/us/usc/t28/s1360] note\].”
+> “Sec. 4.
+
+>      (a) Such territorial jurisdiction as the Southern Ute Indian Tribe has over persons other than Indians and the property of such persons shall be limited to Indian trust lands within the reservation.
+
+>     “(b) Any person who is not an Indian and the property of any such person shall be subject to the jurisdiction of the United States under [section 1152 of title 18][/us/usc/t18/s1152], United States Code, only on Indian trust land.
+
+>     “(c) Any law of the United States related to the sale, possession, introduction, or manufacture of alcoholic beverages or to trading with Indians within Indian country, or within the Indian reservation, shall apply, with respect to the Southern Ute Indian Reservation, only on Indian trust land.
+
+>  __“jurisdiction over incorporated municipalities within the reservation__ 
+
+> “Sec. 5. The State of Colorado shall exercise criminal and civil jurisdiction within the boundaries of the town of Ignacio, Colorado, and any other municipality which may be incorporated under the laws of Colorado within the Southern Ute Indian Reservation, as if such State had assumed jurisdiction pursuant to the Act of August 15, 1953 ([67 Stat. 588][/us/stat/67/588]), as amended by the Act of April 11, 1968 ([82 Stat. 79][/us/stat/82/79]) \[see [28 U.S.C. 1360][/us/usc/t28/s1360] note\].”
 
 ----------
 

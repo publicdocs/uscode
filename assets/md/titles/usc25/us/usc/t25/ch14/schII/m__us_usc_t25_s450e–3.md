@@ -15,7 +15,7 @@
 
 ## § 450e–3. Investment of advance payments; restrictions
 
-Advance payments made by the Department of the Interior to Indian tribes, tribal organizations, and tribal consortia pursuant to the Indian Self-Determination and Education Assistance Act ([25 U.S.C. 450][/us/usc/t25/s450] et seq.) or the Tribally Controlled Schools Act of 1988 ([25 U.S.C. 2501][/us/usc/t25/s2501] et seq.) may on and after December 8, 2004, be invested by the Indian tribe, tribal organization, or consortium before such funds are expended for the purposes of the grant, compact, or annual funding agreement so long as such funds are—
+    Advance payments made by the Department of the Interior to Indian tribes, tribal organizations, and tribal consortia pursuant to the Indian Self-Determination and Education Assistance Act ([25 U.S.C. 450][/us/usc/t25/s450] et seq.) or the Tribally Controlled Schools Act of 1988 ([25 U.S.C. 2501][/us/usc/t25/s2501] et seq.) may on and after December 8, 2004, be invested by the Indian tribe, tribal organization, or consortium before such funds are expended for the purposes of the grant, compact, or annual funding agreement so long as such funds are—
 
     (1) invested by the Indian tribe, tribal organization, or consortium only in obligations of the United States, or in obligations or securities that are guaranteed or insured by the United States, or mutual (or other) funds registered with the Securities and Exchange Commission and which only invest in obligations of the United States or securities that are guaranteed or insured by the United States; or
 

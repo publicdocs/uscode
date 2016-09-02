@@ -15,7 +15,7 @@
 
 ## § 761. Definitions
 
-For the purposes of this subchapter—
+    For the purposes of this subchapter—
 
     (1) the term “tribe” means the Cedar, Shivwits, Kanosh, Koosharem, and Indian Peaks Bands of Paiute Indians of Utah;
 

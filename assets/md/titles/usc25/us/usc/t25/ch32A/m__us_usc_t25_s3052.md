@@ -15,7 +15,7 @@
 
 ## § 3052. Definitions
 
-In this chapter:
+    In this chapter:
 
     (1) __Adjacent site__ 
 

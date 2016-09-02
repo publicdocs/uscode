@@ -15,7 +15,7 @@
 
 ## § 3102. Purposes
 
-The purposes of this chapter are to—
+    The purposes of this chapter are to—
 
     (1) allow the Secretary of the Interior to take part in the management of Indian forest lands, with the participation of the lands’ beneficial owners, in a manner consistent with the Secretary’s trust responsibility and with the objectives of the beneficial owners;
 

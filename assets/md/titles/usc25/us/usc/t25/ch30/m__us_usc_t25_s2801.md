@@ -15,7 +15,7 @@
 
 ## § 2801. Definitions
 
-For purposes of this chapter—
+    For purposes of this chapter—
 
     (1) The term “Branch of Criminal Investigations” means the entity the Secretary is required to establish within the Office of Justice Services under [section 2802(d)(1) of this title][/us/usc/t25/s2802/d/1].
 

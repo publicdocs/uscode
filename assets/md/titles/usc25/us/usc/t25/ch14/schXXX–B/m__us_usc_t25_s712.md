@@ -15,7 +15,7 @@
 
 ## § 712. Definitions
 
-For the purposes of this subchapter—
+    For the purposes of this subchapter—
 
     (1) the term “tribe” means the Cow Creek Band of Umpqua Tribe of Indians; and
 

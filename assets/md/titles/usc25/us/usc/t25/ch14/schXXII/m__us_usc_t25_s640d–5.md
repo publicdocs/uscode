@@ -15,7 +15,7 @@
 
 ## § 640d–5. Considerations and guidelines for preparation of report by Mediator and final adjudication by District Court
 
-The Mediator in preparing his report, and the District Court in making the final adjudication, pursuant to [section 640d–3 of this title][/us/usc/t25/s640d–3], shall consider and be guided by the decision of the Healing case, under which the tribes have joint, undivided, and equal interests in and to all of the joint use area; by any partial agreement reached by the parties under [section 640d–2(b) of this title][/us/usc/t25/s640d–2/b]; by the last best offer for a complete settlement as a part of the negotiating process by each of the tribes; and by the following:
+    The Mediator in preparing his report, and the District Court in making the final adjudication, pursuant to [section 640d–3 of this title][/us/usc/t25/s640d–3], shall consider and be guided by the decision of the Healing case, under which the tribes have joint, undivided, and equal interests in and to all of the joint use area; by any partial agreement reached by the parties under [section 640d–2(b) of this title][/us/usc/t25/s640d–2/b]; by the last best offer for a complete settlement as a part of the negotiating process by each of the tribes; and by the following:
 
     (a) The rights and interests, as defined in the Healing case, of the Hopi Tribe in and to that portion of the reservation established by the Executive order of December 16, 1882, which is known as land management district no. 6 (hereinafter referred to as the “Hopi Reservation”) shall not be reduced or limited in any manner.
 

@@ -15,7 +15,7 @@
 
 ## § 1772a. Definitions
 
-For purposes of this subchapter—
+    For purposes of this subchapter—
 
     (1) The term “tribe” means the Seminole Tribe of Indians of Florida or Seminole Tribe of Florida, a tribe of American Indians recognized by the United States and organized under [section 476 of this title][/us/usc/t25/s476] and recognized by the State of Florida pursuant to chapter 285, Florida Statutes, and its successors.
 

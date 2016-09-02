@@ -15,7 +15,7 @@
 
 ## § 1603. Definitions
 
-In this chapter:
+    In this chapter:
 
     (1) __Area office__ 
 

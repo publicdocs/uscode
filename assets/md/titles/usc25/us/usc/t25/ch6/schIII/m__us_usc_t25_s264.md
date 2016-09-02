@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t25/ch6/schIII/m__us_usc_t25_s263.md) | [Next](./../../../../..//us/usc/t25/ch6/schIII/m__us_usc_t25_s265, 266.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs264)
+[Previous](./../../../../..//us/usc/t25/ch6/schIII/m__us_usc_t25_s263.md) | [Next](./../../../../..//us/usc/t25/ch7/m__us_usc_t25_ch7.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs264)
 
 ## § 264. Trading without license; white persons as clerks
 
@@ -29,9 +29,15 @@
 
     For transfer of functions of other officers, employees, and agencies of Department of the Interior, with certain exceptions, to Secretary of the Interior, with power to delegate, see Reorg. Plan No. 3 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3174, [64 Stat. 1262][/us/stat/64/1262], set out in the Appendix to Title 5, Government Organization and Employees.
 
+§§ 265, 266. __Repealed.__  __[__  __Aug. 15, 1953, ch. 506, § 1__  __][/us/act/1953-08-15/ch506/s1]__  __,__  __[__  __67 Stat. 590__  __][/us/stat/67/590]__ 
+
+    Section 265, R.S. § 2135, prohibited certain purchases and sales within Indian country by persons other than Indians.
+
+    Section 266, R.S. §§ 467, 2136, prohibited sale of arms in district occupied by uncivilized or hostile Indians.
+
 ----------
 
-[Previous](./../../../../..//us/usc/t25/ch6/schIII/m__us_usc_t25_s263.md) | [Next](./../../../../..//us/usc/t25/ch6/schIII/m__us_usc_t25_s265, 266.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs264)
+[Previous](./../../../../..//us/usc/t25/ch6/schIII/m__us_usc_t25_s263.md) | [Next](./../../../../..//us/usc/t25/ch7/m__us_usc_t25_ch7.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs264)
 
 ----------
 ----------
@@ -41,5 +47,7 @@
 [/us/act/1834-06-30/ch161/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1834-06-30%2Fch161%2Fs4
 [/us/stat/4/729]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F4%2F729
 [/us/stat/64/1262]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F1262
+[/us/act/1953-08-15/ch506/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1953-08-15%2Fch506%2Fs1
+[/us/stat/67/590]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F67%2F590
 
 

@@ -15,7 +15,7 @@
 
 ## § 2401. Congressional findings
 
-The Congress finds and declares that—
+    The Congress finds and declares that—
 
     (1) the Federal Government has a historical relationship and unique legal and moral responsibility to Indian tribes and their members,
 

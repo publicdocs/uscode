@@ -15,13 +15,13 @@
 
 ## § 1774e. Conditions precedent to payment of United States and State funds
 
-Amounts may not be expended from—
+    Amounts may not be expended from—
 
     (1) the $30,000,000 and the $5,000,000 provided by the United States under [section 1774d(b) of this title][/us/usc/t25/s1774d/b], and
 
     (2) the $16,000,000 and $9,000,000 provided by the State under [section 1774d(c) of this title][/us/usc/t25/s1774d/c],
 
-        until after the authorized officials of the Seneca Nation execute new leases with all lessees who accept the Seneca Nation’s offer of a new lease, as filed with the Secretary under [section 1774b(a) of this title][/us/usc/t25/s1774b/a], and execute appropriate documents relinquishing all claims for payment of annual rents prior to February 20, 1991, with respect to such leases.
+    until after the authorized officials of the Seneca Nation execute new leases with all lessees who accept the Seneca Nation’s offer of a new lease, as filed with the Secretary under [section 1774b(a) of this title][/us/usc/t25/s1774b/a], and execute appropriate documents relinquishing all claims for payment of annual rents prior to February 20, 1991, with respect to such leases.
 
 ([Pub. L. 101–503, § 7][/us/pl/101/503/s7], Nov. 3, 1990, [104 Stat. 1296][/us/stat/104/1296].)
 

@@ -31,9 +31,7 @@
 
             (C)
 
-             if the cultural affiliation of the objects cannot be reasonably ascertained and if the objects were discovered on Federal land that is recognized by a final judgment of the Indian Claims Commission or the United States Court of Claims as the aboriginal land of some Indian tribe—
-
-                (1) in the Indian tribe that is recognized as aboriginally occupying the area in which the objects were discovered, if upon notice, such tribe states a claim for such remains or objects, or
+             if the cultural affiliation of the objects cannot be reasonably ascertained and if the objects were discovered on Federal land that is recognized by a final judgment of the Indian Claims Commission or the United States Court of Claims as the aboriginal land of some Indian tribe—    (1) in the Indian tribe that is recognized as aboriginally occupying the area in which the objects were discovered, if upon notice, such tribe states a claim for such remains or objects, or
 
                 (2) if it can be shown by a preponderance of the evidence that a different tribe has a stronger cultural relationship with the remains or objects than the tribe or organization specified in paragraph (1), in the Indian tribe that has the strongest demonstrated relationship, if upon notice, such tribe states a claim for such remains or objects.
 

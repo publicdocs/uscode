@@ -15,7 +15,7 @@
 
 ## § 3652. Purposes
 
-The purposes of this chapter are as follows:
+    The purposes of this chapter are as follows:
 
     (1) to carry out the responsibility of the United States to Indian tribes and members of Indian tribes by ensuring access to quality technical and legal assistance.
 

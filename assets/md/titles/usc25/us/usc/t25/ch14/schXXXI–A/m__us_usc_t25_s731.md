@@ -15,7 +15,7 @@
 
 ## § 731. Definitions
 
-For purposes of this subchapter—
+    For purposes of this subchapter—
 
     (1) the term “tribe” means the Alabama and Coushatta Indian Tribes of Texas (considered as one tribe in accordance with [section 732 of this title][/us/usc/t25/s732]);
 

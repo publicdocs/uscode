@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t25/ch4/schI/m__us_usc_t25_s91, 92.md) | [Next](./../../../../..//us/usc/t25/ch4/schI/m__us_usc_t25_s94.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs93)
+[Previous](./../../../../..//us/usc/t25/ch4/schI/m__us_usc_t25_ch4_schI.md) | [Next](./../../../../..//us/usc/t25/ch4/schI/m__us_usc_t25_s94.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs93)
 
 ## § 93. Repealed. [Oct. 10, 1940, ch. 851, § 4][/us/act/1940-10-10/ch851/s4], [54 Stat. 1112][/us/stat/54/1112]
 
@@ -19,7 +19,7 @@
 
 ----------
 
-[Previous](./../../../../..//us/usc/t25/ch4/schI/m__us_usc_t25_s91, 92.md) | [Next](./../../../../..//us/usc/t25/ch4/schI/m__us_usc_t25_s94.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs93)
+[Previous](./../../../../..//us/usc/t25/ch4/schI/m__us_usc_t25_ch4_schI.md) | [Next](./../../../../..//us/usc/t25/ch4/schI/m__us_usc_t25_s94.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs93)
 
 ----------
 ----------

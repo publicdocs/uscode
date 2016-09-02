@@ -15,7 +15,7 @@
 
 ## § 713. Definitions
 
-For the purposes of this subchapter—
+    For the purposes of this subchapter—
 
     (1) the term “tribe” means the Confederated Tribes of the Grand Ronde Community of Oregon considered as one tribe in accordance with [section 713a of this title][/us/usc/t25/s713a];
 

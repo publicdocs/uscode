@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../..//us/usc/t25/ch7A/m__us_usc_t25_s307, 308.md) | [Next](./../../../..//us/usc/t25/ch7A/m__us_usc_t25_s309a.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs309)
+[Previous](./../../../..//us/usc/t25/ch7A/m__us_usc_t25_s306a.md) | [Next](./../../../..//us/usc/t25/ch7A/m__us_usc_t25_s309a.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs309)
 
 ## § 309. Vocational training program; eligibility; contracts or agreements
 
@@ -25,7 +25,7 @@
 
 ----------
 
-[Previous](./../../../..//us/usc/t25/ch7A/m__us_usc_t25_s307, 308.md) | [Next](./../../../..//us/usc/t25/ch7A/m__us_usc_t25_s309a.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs309)
+[Previous](./../../../..//us/usc/t25/ch7A/m__us_usc_t25_s306a.md) | [Next](./../../../..//us/usc/t25/ch7A/m__us_usc_t25_s309a.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs309)
 
 ----------
 ----------

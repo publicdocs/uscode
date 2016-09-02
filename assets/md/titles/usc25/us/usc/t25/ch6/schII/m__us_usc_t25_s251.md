@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t25/ch6/schII/m__us_usc_t25_s241 to 250.md) | [Next](./../../../../..//us/usc/t25/ch6/schII/m__us_usc_t25_s252.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs251)
+[Previous](./../../../../..//us/usc/t25/ch6/schII/m__us_usc_t25_ch6_schII.md) | [Next](./../../../../..//us/usc/t25/ch6/schII/m__us_usc_t25_s252.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs251)
 
 ## § 251. Setting up distillery
 
@@ -37,7 +37,7 @@
 
 ----------
 
-[Previous](./../../../../..//us/usc/t25/ch6/schII/m__us_usc_t25_s241 to 250.md) | [Next](./../../../../..//us/usc/t25/ch6/schII/m__us_usc_t25_s252.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs251)
+[Previous](./../../../../..//us/usc/t25/ch6/schII/m__us_usc_t25_ch6_schII.md) | [Next](./../../../../..//us/usc/t25/ch6/schII/m__us_usc_t25_s252.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs251)
 
 ----------
 ----------

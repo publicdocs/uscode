@@ -15,7 +15,7 @@
 
 ## § 2703. Definitions
 
-For purposes of this chapter—
+    For purposes of this chapter—
 
     (1) The term “Attorney General” means the Attorney General of the United States.
 

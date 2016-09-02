@@ -15,7 +15,7 @@
 
 ## § 1671. Reports
 
-The President shall, at the time the budget is submitted under [section 1105 of title 31][/us/usc/t31/s1105], for each fiscal year transmit to the Congress a report containing—
+    The President shall, at the time the budget is submitted under [section 1105 of title 31][/us/usc/t31/s1105], for each fiscal year transmit to the Congress a report containing—
 
     (1) a report on the progress made in meeting the objectives of this chapter, including a review of programs established or assisted pursuant to this chapter and an assessment and recommendations of additional programs or additional assistance necessary to, at a minimum, provide health services to Indians, and ensure a health status for Indians, which are at a parity with the health services available to and the health status of, the general population;
 

@@ -15,7 +15,7 @@
 
 ## § 1774a. Definitions
 
-For the purposes of this subchapter—
+    For the purposes of this subchapter—
 
     (1)
 

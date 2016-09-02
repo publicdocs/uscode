@@ -15,7 +15,7 @@
 
 ## § 3051. Purposes
 
-The purposes of this chapter are—
+    The purposes of this chapter are—
 
     (1) to authorize the reburial of human remains and cultural items on National Forest System land, including human remains and cultural items repatriated under the Native American Graves Protection and Repatriation Act ([25 U.S.C. 3001][/us/usc/t25/s3001] et seq.);
 

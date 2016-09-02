@@ -15,7 +15,7 @@
 
 ## § 2301. Definitions
 
-For purposes of this chapter, the term—
+    For purposes of this chapter, the term—
 
     (1) “Secretary” means the Secretary of the Interior;
 

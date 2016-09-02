@@ -15,7 +15,7 @@
 
 ## § 2702. Declaration of policy
 
-The purpose of this chapter is—
+    The purpose of this chapter is—
 
     (1) to provide a statutory basis for the operation of gaming by Indian tribes as a means of promoting tribal economic development, self-sufficiency, and strong tribal governments;
 

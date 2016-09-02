@@ -15,7 +15,7 @@
 
 ## § 2903. Declaration of policy
 
-It is the policy of the United States to—
+    It is the policy of the United States to—
 
     (1) preserve, protect, and promote the rights and freedom of Native Americans to use, practice, and develop Native American languages;
 

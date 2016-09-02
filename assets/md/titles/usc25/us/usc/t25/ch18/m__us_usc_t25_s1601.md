@@ -15,7 +15,7 @@
 
 ## § 1601. Congressional findings
 
-The Congress finds the following:
+    The Congress finds the following:
 
     (1) Federal health services to maintain and improve the health of the Indians are consonant with and required by the Federal Government’s historical and unique legal relationship with, and resulting responsibility to, the American Indian people.
 

@@ -15,7 +15,7 @@
 
 ## § 3501. Definitions
 
-In this chapter:
+    In this chapter:
 
     (1) The term “Director” means the Director of the Office of Indian Energy Policy and Programs, Department of Energy.
 

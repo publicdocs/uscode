@@ -15,7 +15,7 @@
 
 ## § 1750c. Authority of Secretary
 
-As Trustee for the Miccosukee Tribe, the Secretary shall—
+    As Trustee for the Miccosukee Tribe, the Secretary shall—
 
     (1)
 

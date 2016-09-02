@@ -15,7 +15,7 @@
 
 ## § 3651. Findings
 
-The Congress finds and declares that—
+    The Congress finds and declares that—
 
     (1) there is a government-to-government relationship between the United States and Indian tribes;
 

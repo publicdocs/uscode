@@ -15,7 +15,7 @@
 
 ## § 458ddd–2. Definitions
 
-For the purposes of this part—
+    For the purposes of this part—
 
     (1) the term “Bureau funded school” has the meaning given that term in title XI of the Education Amendments of 1978 \[[25 U.S.C. 2000][/us/usc/t25/s2000] et seq.\];
 

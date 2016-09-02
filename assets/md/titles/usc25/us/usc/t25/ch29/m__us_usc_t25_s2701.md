@@ -15,7 +15,7 @@
 
 ## § 2701. Findings
 
-The Congress finds that—
+    The Congress finds that—
 
     (1) numerous Indian tribes have become engaged in or have licensed gaming activities on Indian lands as a means of generating tribal governmental revenue;
 

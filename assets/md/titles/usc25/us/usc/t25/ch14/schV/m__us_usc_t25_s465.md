@@ -39,7 +39,9 @@
 
 [Pub. L. 92–470][/us/pl/92/470], Oct. 6, 1972, [86 Stat. 783][/us/stat/86/783], provided: 
 
-> “That (a) a suitable site (of not to exceed eighty-five acres) for a village for the Payson Community of Yavapai-Apache Indians shall be selected in the Tonto National Forest within Gila County, Arizona, by the leaders of the community, subject to approval by the Secretary of the Interior and the Secretary of Agriculture. The site so selected is hereby declared to be held by the United States in trust as an Indian reservation for the use and benefit of the Payson Community of Yavapai-Apache Indians.
+>     “That 
+
+>     (a) a suitable site (of not to exceed eighty-five acres) for a village for the Payson Community of Yavapai-Apache Indians shall be selected in the Tonto National Forest within Gila County, Arizona, by the leaders of the community, subject to approval by the Secretary of the Interior and the Secretary of Agriculture. The site so selected is hereby declared to be held by the United States in trust as an Indian reservation for the use and benefit of the Payson Community of Yavapai-Apache Indians.
 
 >     “(b) The Payson Community of Yavapai-Apache Indians shall be recognized as a tribe of Indians within the purview of the Act of June 18, 1934, as amended ([25 U.S.C. 461–479][/us/usc/t25/s461–479], relating to the protection of Indians and conservation of resources), and shall be subject to all of the provisions thereof.”
 

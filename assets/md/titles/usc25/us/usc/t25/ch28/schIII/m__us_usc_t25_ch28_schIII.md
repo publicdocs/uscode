@@ -11,13 +11,13 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t25/ch28/schII/m__us_usc_t25_s2621 to 2624.md) | [Next](./../../../../..//us/usc/t25/ch28/schIII/m__us_usc_t25_s2631.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fch28%2FschIII)
+[Previous](./../../../../..//us/usc/t25/ch28/schII/m__us_usc_t25_ch28_schII.md) | [Next](./../../../../..//us/usc/t25/ch28/schIII/m__us_usc_t25_s2631.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fch28%2FschIII)
 
 ### SUBCHAPTER III—SPECIAL PROGRAMS RELATING TO ADULT EDUCATION FOR INDIANS
 
 ----------
 
-[Previous](./../../../../..//us/usc/t25/ch28/schII/m__us_usc_t25_s2621 to 2624.md) | [Next](./../../../../..//us/usc/t25/ch28/schIII/m__us_usc_t25_s2631.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fch28%2FschIII)
+[Previous](./../../../../..//us/usc/t25/ch28/schII/m__us_usc_t25_ch28_schII.md) | [Next](./../../../../..//us/usc/t25/ch28/schIII/m__us_usc_t25_s2631.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fch28%2FschIII)
 
 ----------
 ----------

@@ -15,7 +15,7 @@
 
 ## § 1300h. Congressional findings
 
-Congress finds that—
+    Congress finds that—
 
     (1) the Lac Vieux Desert Band of Lake Superior Chippewa Indians, although currently recognized by the Federal Government as part of the Keweenaw Bay Indian Community, has historically existed, and continues to exist, as a separate and distinct Indian tribe that is located over 75 miles from the Keweenaw Bay Indian Community;
 

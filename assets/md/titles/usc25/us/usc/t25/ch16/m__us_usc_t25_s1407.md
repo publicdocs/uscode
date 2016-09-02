@@ -15,7 +15,7 @@
 
 ## § 1407. Tax exemption; resources exemption limitation
 
-None of the funds which—
+    None of the funds which—
 
     (1) are distributed per capita or held in trust pursuant to a plan approved under the provisions of this chapter, or  <sup>\[1\]</sup>  <sup><sup> 1 So in original. The word “or” probably should not appear. </sup></sup> 
 
@@ -25,7 +25,7 @@ None of the funds which—
 
     (4) are paid by the State of Minnesota to the Bois Forte Band of Chippewa Indians pursuant to the agreements of such Band to voluntarily restrict tribal rights to hunt and fish in territory cede  <sup>\[2\]</sup>  <sup><sup> 2 So in original. Probably should be “ceded”. </sup></sup>  under the Treaty of September 30, 1854 ([10 Stat. 1109][/us/stat/10/1109]), including all interest accrued on such funds during any period in which such funds are held in a minor’s trust,
 
-        including all interest and investment income accrued thereon while such funds are so held in trust, shall be subject to Federal or State income taxes, nor shall such funds nor their availability be considered as income or resources nor otherwise utilized as the basis for denying or reducing the financial assistance or other benefits to which such household or member would otherwise be entitled under the Social Security Act \[[42 U.S.C. 301][/us/usc/t42/s301] et seq.\] or, except for per capita shares in excess of $2,000, any Federal or federally assisted program.
+    including all interest and investment income accrued thereon while such funds are so held in trust, shall be subject to Federal or State income taxes, nor shall such funds nor their availability be considered as income or resources nor otherwise utilized as the basis for denying or reducing the financial assistance or other benefits to which such household or member would otherwise be entitled under the Social Security Act \[[42 U.S.C. 301][/us/usc/t42/s301] et seq.\] or, except for per capita shares in excess of $2,000, any Federal or federally assisted program.
 
 ([Pub. L. 93–134, § 7][/us/pl/93/134/s7], Oct. 19, 1973, [87 Stat. 468][/us/stat/87/468]; [Pub. L. 97–458, § 4][/us/pl/97/458/s4], Jan. 12, 1983, [96 Stat. 2513][/us/stat/96/2513]; [Pub. L. 106–568, title VIII, § 818][/us/pl/106/568/s818], Dec. 27, 2000, [114 Stat. 2918][/us/stat/114/2918].)
 

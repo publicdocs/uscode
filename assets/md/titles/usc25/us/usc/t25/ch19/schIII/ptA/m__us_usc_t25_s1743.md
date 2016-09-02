@@ -15,7 +15,7 @@
 
 ## § 1743. Findings by the Secretary
 
-[Section 1744 of this title][/us/usc/t25/s1744] shall not take effect until the Secretary finds that the following events have occurred:
+    [Section 1744 of this title][/us/usc/t25/s1744] shall not take effect until the Secretary finds that the following events have occurred:
 
     (1) the State of Florida has enacted legislation appropriating sufficient money to pay, and in fact has paid, the settlement funds to the Miccosukee Tribe;
 

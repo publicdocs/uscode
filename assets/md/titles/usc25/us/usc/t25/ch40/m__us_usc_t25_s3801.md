@@ -15,7 +15,7 @@
 
 ## § 3801. Findings
 
-The Congress finds that—
+    The Congress finds that—
 
     (1) the Secretary of the Interior has identified 53 dams on Indian lands that present a threat to human life in the event of a failure;
 

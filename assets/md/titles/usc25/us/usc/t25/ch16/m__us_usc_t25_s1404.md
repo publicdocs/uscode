@@ -15,7 +15,7 @@
 
 ## § 1404. Hearing transcripts and tribal support statements; submission to Congress with plan
 
-When submitting the plan as provided in [section 1402 of this title][/us/usc/t25/s1402], the Secretary shall also submit to the Congress with such plan—
+    When submitting the plan as provided in [section 1402 of this title][/us/usc/t25/s1402], the Secretary shall also submit to the Congress with such plan—
 
     (1) copies of the transcripts of hearings held by him concerning the Indian judgment pursuant to clause (2) of [section 1403(a) of this title][/us/usc/t25/s1403/a] and all other papers and documents considered by him in the preparation of such plan, including any resolution, communication, or suggested use or distribution plan of the pertinent Indian tribe submitted pursuant to clause (1) of [section 1403(a) of this title][/us/usc/t25/s1403/a]; and
 

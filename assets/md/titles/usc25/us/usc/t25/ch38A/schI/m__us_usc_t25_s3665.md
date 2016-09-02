@@ -15,7 +15,7 @@
 
 ## § 3665. Tribal authority
 
-Nothing in this chapter shall be construed to—
+    Nothing in this chapter shall be construed to—
 
     (1) encroach upon or diminish in any way the inherent sovereign authority of each tribal government to determine the role of the tribal justice system within the tribal government or to enact and enforce tribal laws;
 

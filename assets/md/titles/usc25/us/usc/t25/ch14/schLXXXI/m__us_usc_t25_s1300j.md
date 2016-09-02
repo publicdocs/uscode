@@ -15,7 +15,7 @@
 
 ## § 1300j. Findings
 
-The Congress finds the following:
+    The Congress finds the following:
 
     (1) The Pokagon Band of Potawatomi Indians is the descendant of, and political successor to, the signatories of the Treaty of Greenville 1795 ([7 Stat. 49][/us/stat/7/49]); the Treaty of Grouseland 1805 ([7 Stat. 91][/us/stat/7/91]); the Treaty of Spring Wells 1815 ([7 Stat. 131][/us/stat/7/131]); the Treaty of the Rapids of the Miami of Lake Erie 1817 ([7 Stat. 160][/us/stat/7/160]); the Treaty of St. Mary’s 1818 ([7 Stat. 185][/us/stat/7/185]); the Treaty of Chicago 1821 ([7 Stat. 218][/us/stat/7/218]); the Treaty of the Mississinewa on the Wabash 1826 ([7 Stat. 295][/us/stat/7/295]); the Treaty of St. Joseph 1827 ([7 Stat. 305][/us/stat/7/305]); the Treaty of St. Joseph 1828 ([7 Stat. 317][/us/stat/7/317]); the Treaty of Tippecanoe River 1832 ([7 Stat. 399][/us/stat/7/399]); and the Treaty of Chicago 1833 ([7 Stat. 431][/us/stat/7/431]).
 

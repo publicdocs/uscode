@@ -15,7 +15,7 @@
 
 ## § 4044. Reconciliation report
 
-The Secretary shall transmit to the Committee on Natural Resources of the House of Representatives and the Committee on Indian Affairs of the Senate, by May 31, 1996, a report identifying for each tribal trust fund account for which the Secretary is responsible a balance reconciled as of September 30, 1995. In carrying out this section, the Secretary shall consult with the Special Trustee. The report shall include—
+    The Secretary shall transmit to the Committee on Natural Resources of the House of Representatives and the Committee on Indian Affairs of the Senate, by May 31, 1996, a report identifying for each tribal trust fund account for which the Secretary is responsible a balance reconciled as of September 30, 1995. In carrying out this section, the Secretary shall consult with the Special Trustee. The report shall include—
 
     (1) a description of the Secretary’s methodology in reconciling trust fund accounts;
 

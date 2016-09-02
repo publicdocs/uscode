@@ -15,7 +15,7 @@
 
 ## § 1292. Membership roll requirements
 
-The Secretary of the Interior shall prepare a roll of all persons who meet the following requirements:
+    The Secretary of the Interior shall prepare a roll of all persons who meet the following requirements:
 
     (a) they were born on or prior to and were living on October 3, 1972; and
 

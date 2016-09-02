@@ -15,7 +15,7 @@
 
 ## § 4024. Technical assistance
 
-The Secretary shall—
+    The Secretary shall—
 
     (1) directly or by contract, provide Indian tribes with technical assistance in developing, implementing, and managing Indian trust fund investment plans; and
 

@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../..//us/usc/t25/ch4/schIII/m__us_usc_t25_s166.md) | [Next](./../../../..//us/usc/t25/ch5/m__us_usc_t25_s171 to 173.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fch5)
+[Previous](./../../../..//us/usc/t25/ch4/schIII/m__us_usc_t25_s166.md) | [Next](./../../../..//us/usc/t25/ch5/m__us_usc_t25_s174.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fch5)
 
 ## CHAPTER 5—PROTECTION OF INDIANS
 
@@ -249,12 +249,22 @@
 
 </table>
 
+§§ 171 to 173. __Repealed.__  __[__  __May 21, 1934, ch. 321__  __][/us/act/1934-05-21/ch321]__  __,__  __[__  __48 Stat. 787__  __][/us/stat/48/787]__ 
+
+    Section 171, R.S. § 2111, related to imposition of a penalty for sending seditious messages intending to contravene a United States treaty or law.
+
+    Section 172, R.S. § 2112, related to imposition of a penalty for carrying seditious messages intending to contravene a United States treaty or law.
+
+    Section 173, R.S. § 2113, related to imposition of a penalty for corresponding with foreign nations intending to incite Indians to war.
+
 ----------
 
-[Previous](./../../../..//us/usc/t25/ch4/schIII/m__us_usc_t25_s166.md) | [Next](./../../../..//us/usc/t25/ch5/m__us_usc_t25_s171 to 173.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fch5)
+[Previous](./../../../..//us/usc/t25/ch4/schIII/m__us_usc_t25_s166.md) | [Next](./../../../..//us/usc/t25/ch5/m__us_usc_t25_s174.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fch5)
 
 ----------
 ----------
 
+[/us/act/1934-05-21/ch321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-05-21%2Fch321
+[/us/stat/48/787]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F787
 
 

@@ -111,7 +111,9 @@
 
 >                 “(i) __In general.—__ 
 
->                 Upon the completion of the survey under subparagraph (A), the Secretary shall publish in the Federal Register a legal description of—         “(I) the boundary line of Parcel A; and
+>                 Upon the completion of the survey under subparagraph (A), the Secretary shall publish in the Federal Register a legal description of—
+
+>                          “(I) the boundary line of Parcel A; and
 
 >                          “(II) Parcel A.
 
@@ -213,7 +215,9 @@
 
 [Pub. L. 98–219][/us/pl/98/219], Feb. 17, 1984, [98 Stat. 11][/us/stat/98/11], as amended by [Pub. L. 109–126, § 4][/us/pl/109/126/s4], Dec. 7, 2005, [119 Stat. 2547][/us/stat/119/2547], provided that:
 
->     “Section 1. (a) Subject to subsection (d), all right, title, and interest of the United States in the lands described in subsection (b) (including all improvements thereon and appurtenances thereto) are declared to be held in trust by the United States for the benefit of the respective bands of the Paiute Indian Tribe of Utah, as provided in subsection (b), and are declared to be part of the reservation of the Paiute Indian Tribe of Utah.
+> “Section 1.
+
+>      (a) Subject to subsection (d), all right, title, and interest of the United States in the lands described in subsection (b) (including all improvements thereon and appurtenances thereto) are declared to be held in trust by the United States for the benefit of the respective bands of the Paiute Indian Tribe of Utah, as provided in subsection (b), and are declared to be part of the reservation of the Paiute Indian Tribe of Utah.
 
 >     “(b)
 

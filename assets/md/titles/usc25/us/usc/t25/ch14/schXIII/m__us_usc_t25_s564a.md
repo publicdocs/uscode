@@ -15,7 +15,7 @@
 
 ## § 564a. Definitions
 
-For the purposes of this subchapter:
+    For the purposes of this subchapter:
 
     (a) “Tribe” means the Klamath Tribe of Indians consisting of the Klamath and Modoc Tribes and Yahooskin Band of Snake Indians.
 

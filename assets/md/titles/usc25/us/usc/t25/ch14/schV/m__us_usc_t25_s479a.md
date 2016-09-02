@@ -15,7 +15,7 @@
 
 ## § 479a. Definitions
 
-For the purposes of this title:  <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup> 
+    For the purposes of this title:  <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup> 
 
     (1) The term “Secretary” means the Secretary of the Interior.
 

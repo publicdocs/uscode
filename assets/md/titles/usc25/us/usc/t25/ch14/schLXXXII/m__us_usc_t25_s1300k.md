@@ -15,7 +15,7 @@
 
 ## § 1300k. Findings
 
-Congress finds the following:
+    Congress finds the following:
 
     (1) The Little Traverse Bay Bands of Odawa Indians and the Little River Band of Ottawa Indians are descendants of, and political successors to, signatories of the 1836 Treaty of Washington and the 1855 Treaty of Detroit.
 

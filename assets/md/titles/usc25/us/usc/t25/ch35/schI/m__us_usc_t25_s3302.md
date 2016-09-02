@@ -15,7 +15,7 @@
 
 ## § 3302. Findings
 
-The Congress finds that—
+    The Congress finds that—
 
     (1) there are increasing numbers of Indian students qualifying for postsecondary education, and there are increasing numbers desiring to go to postsecondary institutions;
 

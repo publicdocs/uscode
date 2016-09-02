@@ -15,7 +15,7 @@
 
 ## § 4132. Eligible affordable housing activities
 
-Affordable housing activities under this subchapter are activities, in accordance with the requirements of this subchapter, to develop, operate, maintain, or support affordable housing for rental or homeownership, or to provide housing services with respect to affordable housing, through the following activities:
+    Affordable housing activities under this subchapter are activities, in accordance with the requirements of this subchapter, to develop, operate, maintain, or support affordable housing for rental or homeownership, or to provide housing services with respect to affordable housing, through the following activities:
 
     (1) __Indian housing assistance__ 
 

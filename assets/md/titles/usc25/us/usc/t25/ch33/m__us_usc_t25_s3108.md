@@ -15,7 +15,7 @@
 
 ## § 3108. Secretarial recognition of tribal laws
 
-Subject to the Secretary’s responsibilities as reflected in sections 3101(2) and 3102(1) of this title and unless otherwise prohibited by Federal statutory law, the Secretary shall comply with tribal laws pertaining to Indian forest lands, including laws regulating the environment or historic or cultural preservation, and shall cooperate with the enforcement of such laws on Indian forest lands. Such cooperation shall include—
+    Subject to the Secretary’s responsibilities as reflected in sections 3101(2) and 3102(1) of this title and unless otherwise prohibited by Federal statutory law, the Secretary shall comply with tribal laws pertaining to Indian forest lands, including laws regulating the environment or historic or cultural preservation, and shall cooperate with the enforcement of such laws on Indian forest lands. Such cooperation shall include—
 
     (1) assistance in the enforcement of such laws;
 

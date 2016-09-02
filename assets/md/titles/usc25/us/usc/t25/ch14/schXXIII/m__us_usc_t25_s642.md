@@ -15,7 +15,7 @@
 
 ## § 642. Powers of Tribal Council
 
-The Hopi Tribal Council shall have the following powers:
+    The Hopi Tribal Council shall have the following powers:
 
     (a) __Sale of lands__ 
 

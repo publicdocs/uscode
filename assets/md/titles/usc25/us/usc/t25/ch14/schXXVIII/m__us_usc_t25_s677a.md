@@ -15,7 +15,7 @@
 
 ## § 677a. Definitions
 
-For the purposes of this subchapter—
+    For the purposes of this subchapter—
 
     (a) “Tribe” means the Ute Indian Tribe of the Uintah and Ouray Reservation, Utah.
 

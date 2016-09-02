@@ -15,7 +15,7 @@
 
 ## § 1192. Eligibility for per capita payments
 
-The persons eligible to receive such per capita payments shall be all persons who were living on December 17, 1965, and whose names appear on any of the following:
+    The persons eligible to receive such per capita payments shall be all persons who were living on December 17, 1965, and whose names appear on any of the following:
 
     (a) The membership roll of the Confederated Tribes as of June 15, 1957, as approved by the Bureau of Indian Affairs on January 10, 1958, or
 

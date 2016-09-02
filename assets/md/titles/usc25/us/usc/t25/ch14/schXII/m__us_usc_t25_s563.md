@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t25/ch14/schXII/m__us_usc_t25_s561, 562.md) | [Next](./../../../../..//us/usc/t25/ch14/schXIII/m__us_usc_t25_ch14_schXIII.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs563)
+[Previous](./../../../../..//us/usc/t25/ch14/schXII/m__us_usc_t25_ch14_schXII.md) | [Next](./../../../../..//us/usc/t25/ch14/schXIII/m__us_usc_t25_ch14_schXIII.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs563)
 
 ## § 563. Salaries and expenses for Klamath Tribe Officials
 
@@ -25,7 +25,7 @@
 
 ----------
 
-[Previous](./../../../../..//us/usc/t25/ch14/schXII/m__us_usc_t25_s561, 562.md) | [Next](./../../../../..//us/usc/t25/ch14/schXIII/m__us_usc_t25_ch14_schXIII.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs563)
+[Previous](./../../../../..//us/usc/t25/ch14/schXII/m__us_usc_t25_ch14_schXII.md) | [Next](./../../../../..//us/usc/t25/ch14/schXIII/m__us_usc_t25_ch14_schXIII.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs563)
 
 ----------
 ----------

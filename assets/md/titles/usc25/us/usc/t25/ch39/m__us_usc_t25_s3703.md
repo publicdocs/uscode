@@ -15,7 +15,7 @@
 
 ## § 3703. Definitions
 
-For the purposes of this chapter:
+    For the purposes of this chapter:
 
     (1) The term “Indian agricultural lands” means Indian land, including farmland and rangeland, but excluding Indian forest land, that is used for the production of agricultural products, and Indian lands occupied by industries that support the agricultural community, regardless of whether a formal inspection and land classification has been conducted.
 

@@ -15,7 +15,7 @@
 
 ## § 1742. Definitions
 
-For purposes of this part—
+    For purposes of this part—
 
     (1) The term “Miccosukee Tribe” means the Miccosukee Tribe of Indians of Florida, a tribe of American Indians recognized by the United States and organized under [section 476 of this title][/us/usc/t25/s476] and recognized by the State of Florida pursuant to chapter 285, Florida Statutes.
 

@@ -15,7 +15,7 @@
 
 ## § 941n. Tax treatment of income and transactions
 
-Notwithstanding any provision of the State Act, the Settlement Agreement, or this subchapter (including any amendment made under [section 941m(f) of this title][/us/usc/t25/s941m/f]), nothing in this subchapter, the State Act, or the Settlement Agreement—
+    Notwithstanding any provision of the State Act, the Settlement Agreement, or this subchapter (including any amendment made under [section 941m(f) of this title][/us/usc/t25/s941m/f]), nothing in this subchapter, the State Act, or the Settlement Agreement—
 
     (1) shall amend or alter title 26, as amended, or any rules or regulations promulgated thereunder, or
 

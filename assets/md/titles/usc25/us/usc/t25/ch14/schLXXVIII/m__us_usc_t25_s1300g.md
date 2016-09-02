@@ -15,7 +15,7 @@
 
 ## § 1300g. Definitions
 
-For purposes of this subchapter—
+    For purposes of this subchapter—
 
     (1) the term “tribe” means the Ysleta del Sur Pueblo (as so designated by [section 1300g–1 of this title][/us/usc/t25/s1300g–1]);
 

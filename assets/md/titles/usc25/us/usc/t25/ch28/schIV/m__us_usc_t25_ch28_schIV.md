@@ -11,16 +11,38 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t25/ch28/schIII/m__us_usc_t25_s2631.md) | [Next](./../../../../..//us/usc/t25/ch28/schIV/m__us_usc_t25_s2641 to 2643.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fch28%2FschIV)
+[Previous](./../../../../..//us/usc/t25/ch28/schIII/m__us_usc_t25_s2631.md) | [Next](./../../../../..//us/usc/t25/ch28/schV/m__us_usc_t25_ch28_schV.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fch28%2FschIV)
 
 ### SUBCHAPTER IV—PROGRAM ADMINISTRATION
 
+§§ 2641 to 2643. __Repealed.__  __[__  __Pub. L. 103–382, title III, § 367__  __][/us/pl/103/382/s367]__  __,__  __Oct. 20, 1994__  __,__  __[__  __108 Stat. 3976__  __][/us/stat/108/3976]__ 
+
+    Section 2641, [Pub. L. 100–297, title V, § 5341][/us/pl/100/297/s5341], Apr. 28, 1988, [102 Stat. 411][/us/stat/102/411]; [Pub. L. 100–427, § 21][/us/pl/100/427/s21], Sept. 9, 1988, [102 Stat. 1612][/us/stat/102/1612], related to establishment of Office of Indian Education within Department of Education. See [section 3423c of Title 20][/us/usc/t20/s3423c], Education.
+
+    Section 2642, [Pub. L. 100–297, title V, § 5342][/us/pl/100/297/s5342], Apr. 28, 1988, [102 Stat. 412][/us/stat/102/412]; [Pub. L. 100–427, § 22][/us/pl/100/427/s22], Sept. 9, 1988, [102 Stat. 1613][/us/stat/102/1613], established National Advisory Council on Indian Education.
+
+    Section 2643, [Pub. L. 100–297, title V, § 5343][/us/pl/100/297/s5343], Apr. 28, 1988, [102 Stat. 413][/us/stat/102/413], authorized appropriations for administration of Indian education programs. See [section 7882 of Title 20][/us/usc/t20/s7882], Education.
+
 ----------
 
-[Previous](./../../../../..//us/usc/t25/ch28/schIII/m__us_usc_t25_s2631.md) | [Next](./../../../../..//us/usc/t25/ch28/schIV/m__us_usc_t25_s2641 to 2643.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fch28%2FschIV)
+[Previous](./../../../../..//us/usc/t25/ch28/schIII/m__us_usc_t25_s2631.md) | [Next](./../../../../..//us/usc/t25/ch28/schV/m__us_usc_t25_ch28_schV.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fch28%2FschIV)
 
 ----------
 ----------
 
+[/us/pl/103/382/s367]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F382%2Fs367
+[/us/stat/108/3976]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3976
+[/us/pl/100/297/s5341]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F297%2Fs5341
+[/us/stat/102/411]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F411
+[/us/pl/100/427/s21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F427%2Fs21
+[/us/stat/102/1612]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1612
+[/us/usc/t20/s3423c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs3423c
+[/us/pl/100/297/s5342]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F297%2Fs5342
+[/us/stat/102/412]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F412
+[/us/pl/100/427/s22]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F427%2Fs22
+[/us/stat/102/1613]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1613
+[/us/pl/100/297/s5343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F297%2Fs5343
+[/us/stat/102/413]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F413
+[/us/usc/t20/s7882]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs7882
 
 

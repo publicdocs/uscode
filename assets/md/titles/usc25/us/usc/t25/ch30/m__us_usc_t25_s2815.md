@@ -15,7 +15,7 @@
 
 ## § 2815. State, tribal, and local law enforcement cooperation
 
-The Attorney General may provide technical and other assistance to State, tribal, and local governments that enter into cooperative agreements, including agreements relating to mutual aid, hot pursuit of suspects, and cross-deputization for the purposes of—
+    The Attorney General may provide technical and other assistance to State, tribal, and local governments that enter into cooperative agreements, including agreements relating to mutual aid, hot pursuit of suspects, and cross-deputization for the purposes of—
 
     (1) improving law enforcement effectiveness;
 

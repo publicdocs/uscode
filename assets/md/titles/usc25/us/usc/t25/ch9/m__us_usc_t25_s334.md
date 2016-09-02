@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../..//us/usc/t25/ch9/m__us_usc_t25_s332, 333.md) | [Next](./../../../..//us/usc/t25/ch9/m__us_usc_t25_s335.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs334)
+[Previous](./../../../..//us/usc/t25/ch9/m__us_usc_t25_s331.md) | [Next](./../../../..//us/usc/t25/ch9/m__us_usc_t25_s335.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs334)
 
 ## § 334. Allotments to Indians not residing on reservations
 
@@ -37,7 +37,7 @@
 
 ----------
 
-[Previous](./../../../..//us/usc/t25/ch9/m__us_usc_t25_s332, 333.md) | [Next](./../../../..//us/usc/t25/ch9/m__us_usc_t25_s335.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs334)
+[Previous](./../../../..//us/usc/t25/ch9/m__us_usc_t25_s331.md) | [Next](./../../../..//us/usc/t25/ch9/m__us_usc_t25_s335.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs334)
 
 ----------
 ----------

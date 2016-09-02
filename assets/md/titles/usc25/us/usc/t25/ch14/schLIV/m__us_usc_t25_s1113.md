@@ -15,7 +15,7 @@
 
 ## § 1113. Miami Indians of Indiana; membership roll; preparation; eligibility for enrollment
 
-For the purpose of determining entitlement to the judgment awarded in Indian Claims Commission docket numbered 124–A to the Miami Indians of Indiana and appropriated by the Act of September 30, 1961 ([75 Stat. 747][/us/stat/75/747]), the Secretary shall prepare a roll of all persons of Miami Indian ancestry who meet the following requirements for eligibility:
+    For the purpose of determining entitlement to the judgment awarded in Indian Claims Commission docket numbered 124–A to the Miami Indians of Indiana and appropriated by the Act of September 30, 1961 ([75 Stat. 747][/us/stat/75/747]), the Secretary shall prepare a roll of all persons of Miami Indian ancestry who meet the following requirements for eligibility:
 
     (a) They were born on or prior to, and living on, October 14, 1966; and
 

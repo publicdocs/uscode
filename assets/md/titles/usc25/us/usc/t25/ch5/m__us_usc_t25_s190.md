@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../..//us/usc/t25/ch5/m__us_usc_t25_s188, 189.md) | [Next](./../../../..//us/usc/t25/ch5/m__us_usc_t25_s191.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs190)
+[Previous](./../../../..//us/usc/t25/ch5/m__us_usc_t25_s187.md) | [Next](./../../../..//us/usc/t25/ch5/m__us_usc_t25_s191.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs190)
 
 ## § 190. Sale of plants or tracts not needed for administrative or allotment purposes
 
@@ -37,7 +37,7 @@
 
 ----------
 
-[Previous](./../../../..//us/usc/t25/ch5/m__us_usc_t25_s188, 189.md) | [Next](./../../../..//us/usc/t25/ch5/m__us_usc_t25_s191.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs190)
+[Previous](./../../../..//us/usc/t25/ch5/m__us_usc_t25_s187.md) | [Next](./../../../..//us/usc/t25/ch5/m__us_usc_t25_s191.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs190)
 
 ----------
 ----------

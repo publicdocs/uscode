@@ -15,7 +15,7 @@
 
 ## § 1772g. Revocation of settlement
 
-In the event the Settlement Agreement or any part thereof is ever invalidated—
+    In the event the Settlement Agreement or any part thereof is ever invalidated—
 
     (1) the transfers, waivers, releases, relinquishments and any other commitments made by the State, the tribe, or the district in the Settlement Agreement shall no longer be of any force or effect;
 

@@ -15,7 +15,7 @@
 
 ## § 4041. Purposes
 
-The purposes of this subchapter are—
+    The purposes of this subchapter are—
 
     (1) to provide for more effective management of, and accountability for the proper discharge of, the Secretary’s trust responsibilities to Indian tribes and individual Indians by establishing in the Department of the Interior an Office of Special Trustee for American Indians to oversee and coordinate reforms within the Department of practices relating to the management and discharge of such responsibilities;
 

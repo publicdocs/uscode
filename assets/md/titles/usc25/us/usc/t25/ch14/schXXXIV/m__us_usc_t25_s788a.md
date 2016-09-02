@@ -15,7 +15,7 @@
 
 ## § 788a. Disposition of judgment funds; preparation of Indian roll; eligibility
 
-The Secretary of the Interior shall prepare a roll of all persons who meet the following requirements: (a) they were born on or prior to and were living on September 21, 1968; (b) their names or the names of lineal ancestors appear on any of the documents identified herein or on any available census rolls or other records acceptable to the Secretary, which identify the person as a Creek Indian, including ancient documents or records of the United States located in the National Archives, State or county records in the archives of the several States or counties therein or in the courthouses thereof, and other records that would be admissible as evidence in an action to determine Indian lineage:
+    The Secretary of the Interior shall prepare a roll of all persons who meet the following requirements: (a) they were born on or prior to and were living on September 21, 1968; (b) their names or the names of lineal ancestors appear on any of the documents identified herein or on any available census rolls or other records acceptable to the Secretary, which identify the person as a Creek Indian, including ancient documents or records of the United States located in the National Archives, State or county records in the archives of the several States or counties therein or in the courthouses thereof, and other records that would be admissible as evidence in an action to determine Indian lineage:
 
     (1) The Final Rolls of Creeks by Blood which were closed as of March 4, 1907;
 
@@ -29,7 +29,7 @@ The Secretary of the Interior shall prepare a roll of all persons who meet the f
 
     (6) Any lists of self-emigrant Creek claimants (including those contained in Senate Ex. Doc. 198, 50:1, 1888, and H.R. Ex. Doc. 238, 51:2, 1891).
 
-        Applications for enrollment must be filed with the Area Director of the Bureau of Indian Affairs, Muskogee, Oklahoma, in the manner and within the time limits prescribed for that purpose. The determination of the Secretary regarding the eligibility of an applicant shall be final.
+    Applications for enrollment must be filed with the Area Director of the Bureau of Indian Affairs, Muskogee, Oklahoma, in the manner and within the time limits prescribed for that purpose. The determination of the Secretary regarding the eligibility of an applicant shall be final.
 
 ([Pub. L. 90–504, § 1][/us/pl/90/504/s1], Sept. 21, 1968, [82 Stat. 855][/us/stat/82/855].)
 

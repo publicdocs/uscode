@@ -15,7 +15,7 @@
 
 ## § 4021. Purpose
 
-The purpose of this subchapter is to allow tribes an opportunity to manage tribal funds currently held in trust by the United States and managed by the Secretary through the Bureau, that, consistent with the trust responsibility of the United States and the principles of self-determination, will—
+    The purpose of this subchapter is to allow tribes an opportunity to manage tribal funds currently held in trust by the United States and managed by the Secretary through the Bureau, that, consistent with the trust responsibility of the United States and the principles of self-determination, will—
 
     (1) give Indian tribal governments greater control over the management of such trust funds; or
 

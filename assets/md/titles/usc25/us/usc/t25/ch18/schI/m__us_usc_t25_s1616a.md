@@ -241,23 +241,21 @@
 
             shall be liable, in lieu of any service obligation arising under such contract, to the United States for the amount which has been paid on such individual’s behalf under the contract.
 
-        (2)
+        (2) If, for any reason not specified in paragraph (1), an individual breaches his written contract under this section by failing either to begin, or complete, such individual’s period of obligated service in accordance with subsection (f) of this section, the United States shall be entitled to recover from such individual an amount to be determined in accordance with the following formula:
 
-         If, for any reason not specified in paragraph (1), an individual breaches his written contract under this section by failing either to begin, or complete, such individual’s period of obligated service in accordance with subsection (f) of this section, the United States shall be entitled to recover from such individual an amount to be determined in accordance with the following formula:
-
-        A=3Z(t-s/t)
+    A=3Z(t-s/t)
 
         in which—
 
-            (A) “A” is the amount the United States is entitled to recover;
+        (A) “A” is the amount the United States is entitled to recover;
 
-            (B) “Z” is the sum of the amounts paid under this section to, or on behalf of, the individual and the interest on such amounts which would be payable if, at the time the amounts were paid, they were loans bearing interest at the maximum legal prevailing rate, as determined by the Treasurer of the United States;
+        (B) “Z” is the sum of the amounts paid under this section to, or on behalf of, the individual and the interest on such amounts which would be payable if, at the time the amounts were paid, they were loans bearing interest at the maximum legal prevailing rate, as determined by the Treasurer of the United States;
 
-            (C) “t” is the total number of months in the individual’s period of obligated service in accordance with subsection (f) of this section; and
+        (C) “t” is the total number of months in the individual’s period of obligated service in accordance with subsection (f) of this section; and
 
-            (D) “s” is the number of months of such period served by such individual in accordance with this section.
+        (D) “s” is the number of months of such period served by such individual in accordance with this section.
 
-            Amounts not paid within such period shall be subject to collection through deductions in Medicare payments pursuant to [section 1395ccc of title 42][/us/usc/t42/s1395ccc].
+        Amounts not paid within such period shall be subject to collection through deductions in Medicare payments pursuant to [section 1395ccc of title 42][/us/usc/t42/s1395ccc].
 
         (3)
 

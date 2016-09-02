@@ -15,7 +15,7 @@
 
 ## § 2403. Definitions
 
-For purposes of this chapter—
+    For purposes of this chapter—
 
     (1) The term “agency” means the local administrative entity of the Bureau of Indian Affairs serving one or more Indian tribes within a defined geographic area.
 

@@ -15,7 +15,7 @@
 
 ## § 1804. Eligible grant recipients
 
-To be eligible for assistance under this subchapter, a tribally controlled college or university must be one which—
+    To be eligible for assistance under this subchapter, a tribally controlled college or university must be one which—
 
     (1) is governed by a board of directors or board of trustees a majority of which are Indians;
 

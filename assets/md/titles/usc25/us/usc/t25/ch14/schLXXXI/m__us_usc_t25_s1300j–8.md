@@ -15,7 +15,7 @@
 
 ## § 1300j–8. Definitions
 
-For purposes of this subchapter—
+    For purposes of this subchapter—
 
     (1) the term “Band” means the Pokagon Band of Potawatomi Indians;
 

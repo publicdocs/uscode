@@ -15,7 +15,7 @@
 
 ## § 1750. Congressional findings
 
-Congress finds that:
+    Congress finds that:
 
     (1) There is pending before the United States District Court for the Southern District of Florida a lawsuit by the Miccosukee Tribe that involves the taking of certain tribal lands in connection with the construction of highway Interstate 75 by the Florida Department of Transportation.
 

@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../..//us/usc/t25/ch7/m__us_usc_t25_s288, 289.md) | [Next](./../../../..//us/usc/t25/ch7/m__us_usc_t25_s290a.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs290)
+[Previous](./../../../..//us/usc/t25/ch7/m__us_usc_t25_s287.md) | [Next](./../../../..//us/usc/t25/ch7/m__us_usc_t25_s290a.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs290)
 
 ## § 290. Transportation of pupils under 14 at Government expense
 
@@ -21,7 +21,7 @@
 
 ----------
 
-[Previous](./../../../..//us/usc/t25/ch7/m__us_usc_t25_s288, 289.md) | [Next](./../../../..//us/usc/t25/ch7/m__us_usc_t25_s290a.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs290)
+[Previous](./../../../..//us/usc/t25/ch7/m__us_usc_t25_s287.md) | [Next](./../../../..//us/usc/t25/ch7/m__us_usc_t25_s290a.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs290)
 
 ----------
 ----------

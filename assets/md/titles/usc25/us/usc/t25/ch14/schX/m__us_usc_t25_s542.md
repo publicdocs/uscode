@@ -15,7 +15,7 @@
 
 ## § 542. Limitations on remainder of fund
 
-After the segregation provided for in [section 541 of this title][/us/usc/t25/s541] shall have been made, the remainder of such judgment fund, including interest, shall be available for expenditure subject to the following limitations and conditions:
+    After the segregation provided for in [section 541 of this title][/us/usc/t25/s541] shall have been made, the remainder of such judgment fund, including interest, shall be available for expenditure subject to the following limitations and conditions:
 
     (a) Repealed. [Aug. 13, 1954, ch. 732, § 12][/us/act/1954-08-13/ch732/s12], [68 Stat. 721][/us/stat/68/721].
 

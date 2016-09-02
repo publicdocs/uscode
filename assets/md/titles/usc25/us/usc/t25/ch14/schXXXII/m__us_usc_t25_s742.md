@@ -15,7 +15,7 @@
 
 ## § 742. Definitions
 
-For the purposes of this subchapter—
+    For the purposes of this subchapter—
 
     (a) “Tribe” means any of the following tribes or bands of Indians located in the State of Utah: Shivwits, Kanosh, Koosharem, and Indian Peaks Bands of the Paiute Indian Tribe.
 

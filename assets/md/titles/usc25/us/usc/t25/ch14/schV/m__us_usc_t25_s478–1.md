@@ -15,7 +15,7 @@
 
 ## § 478–1. Mandatory application of sections 462 and 477
 
-Notwithstanding [section 478 of this title][/us/usc/t25/s478], sections 462 and 477 of this title shall apply to—
+    Notwithstanding [section 478 of this title][/us/usc/t25/s478], sections 462 and 477 of this title shall apply to—
 
     (1) all Indian tribes,
 

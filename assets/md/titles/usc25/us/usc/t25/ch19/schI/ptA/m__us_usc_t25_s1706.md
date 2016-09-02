@@ -15,7 +15,7 @@
 
 ## § 1706. Findings by Secretary
 
-[Section 1705 of this title][/us/usc/t25/s1705] shall not take effect until the Secretary finds—
+    [Section 1705 of this title][/us/usc/t25/s1705] shall not take effect until the Secretary finds—
 
     (a)
 

@@ -23,9 +23,7 @@
 
         (1)
 
-         Until a tribal constitution and bylaws are adopted, a person shall be a member of the Tribe and his name shall be placed on the membership roll if the individual is living and if—
-
-            (a) that individual’s name was listed on the Tribe’s Census Roll of 1940;
+         Until a tribal constitution and bylaws are adopted, a person shall be a member of the Tribe and his name shall be placed on the membership roll if the individual is living and if—    (a) that individual’s name was listed on the Tribe’s Census Roll of 1940;
 
             (b) that individual was entitled to be listed on the Tribe’s Census Roll of January 1, 1940 but was not so listed. Any person placed on the membership roll must be listed on the January 1, 1940 Census Roll of the Grand Ronde-Siletz Indian Agency of nonreservation Indians as Coos, Lower Umpqua, or Siuslaw, be a descendant of such a person, or be a descendant of public domain allotee  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be “allottee”. </sup></sup>  of Western Oregon who was a member of one of these three tribes.
 

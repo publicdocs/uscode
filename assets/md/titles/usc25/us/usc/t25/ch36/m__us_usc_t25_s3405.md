@@ -15,7 +15,7 @@
 
 ## § 3405. Plan requirements
 
-For a plan to be acceptable pursuant to [section 3403 of this title][/us/usc/t25/s3403], it shall—
+    For a plan to be acceptable pursuant to [section 3403 of this title][/us/usc/t25/s3403], it shall—
 
     (1) identify the programs to be integrated;
 

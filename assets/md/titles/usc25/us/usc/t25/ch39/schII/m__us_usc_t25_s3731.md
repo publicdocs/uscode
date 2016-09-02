@@ -293,7 +293,9 @@
 
 >                 “(i) __Eligible individuals.—__ 
 
->                 This subparagraph applies in the case of any individual who, as of the day before the date on which a demonstration project under this Act is to commence at an institution—         “(I) is an employee of such institution; and
+>                 This subparagraph applies in the case of any individual who, as of the day before the date on which a demonstration project under this Act is to commence at an institution—
+
+>                          “(I) is an employee of such institution; and
 
 >                          “(II) if benefits under subchapter III of chapter 83 or chapter 84 of title 5, United States Code, are to be affected, has completed at least 1 year of Government service (whether with such institution or otherwise), but taking into account only civilian service creditable under subchapter III of chapter 83 or chapter 84 of such title.
 

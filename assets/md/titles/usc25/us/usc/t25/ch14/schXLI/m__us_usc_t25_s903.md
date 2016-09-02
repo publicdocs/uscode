@@ -15,7 +15,7 @@
 
 ## § 903. Definitions
 
-For the purposes of this subchapter—
+    For the purposes of this subchapter—
 
     (1) The term “tribe” means the Menominee Indian Tribe of Wisconsin.
 

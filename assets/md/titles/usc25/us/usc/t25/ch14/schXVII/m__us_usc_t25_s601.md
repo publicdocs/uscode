@@ -15,7 +15,7 @@
 
 ## § 601. Membership roll; preparation; persons entitled to enrollment
 
-The Secretary of the Interior is authorized and directed, with the advice and consent of the Yakima Tribal Council, to prepare a roll showing the members of the Yakima Tribes living on August 9, 1946, which roll shall be kept current and shall constitute the official membership roll of the Yakima Tribes for all purposes. No person who is enrolled with any other tribe of Indians or who has received an allotment of land on any other reservation shall be enrolled under the provisions of this subchapter. The following shall be placed on the roll:
+    The Secretary of the Interior is authorized and directed, with the advice and consent of the Yakima Tribal Council, to prepare a roll showing the members of the Yakima Tribes living on August 9, 1946, which roll shall be kept current and shall constitute the official membership roll of the Yakima Tribes for all purposes. No person who is enrolled with any other tribe of Indians or who has received an allotment of land on any other reservation shall be enrolled under the provisions of this subchapter. The following shall be placed on the roll:
 
     (a) All living persons who received allotments on the Yakima Reservation, except by fraud.
 

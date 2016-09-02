@@ -15,7 +15,7 @@
 
 ## § 2902. Definitions
 
-For purposes of this chapter—
+    For purposes of this chapter—
 
     (1) The term “Native American” means an Indian, Native Hawaiian, or Native American Pacific Islander.
 

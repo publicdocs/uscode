@@ -15,7 +15,7 @@
 
 ## § 1750a. Definitions
 
-In this part:
+    In this part:
 
     (1) __Board of Trustees of the Internal Improvements Trust Fund__ 
 

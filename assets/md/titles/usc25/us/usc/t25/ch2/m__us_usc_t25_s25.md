@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../..//us/usc/t25/ch2/m__us_usc_t25_s23, 24.md) | [Next](./../../../..//us/usc/t25/ch2/m__us_usc_t25_s25a.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs25)
+[Previous](./../../../..//us/usc/t25/ch2/m__us_usc_t25_ch2.md) | [Next](./../../../..//us/usc/t25/ch2/m__us_usc_t25_s25a.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs25)
 
 ## § 25. Superintendent for Five Civilized Tribes
 
@@ -25,7 +25,7 @@
 
 ----------
 
-[Previous](./../../../..//us/usc/t25/ch2/m__us_usc_t25_s23, 24.md) | [Next](./../../../..//us/usc/t25/ch2/m__us_usc_t25_s25a.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs25)
+[Previous](./../../../..//us/usc/t25/ch2/m__us_usc_t25_ch2.md) | [Next](./../../../..//us/usc/t25/ch2/m__us_usc_t25_s25a.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs25)
 
 ----------
 ----------

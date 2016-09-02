@@ -15,7 +15,7 @@
 
 ## § 3322. Definitions
 
-As used in this subchapter:
+    As used in this subchapter:
 
     (1) The term “federally funded higher education assistance” means any grant assistance provided to an Indian student from funds made available for such purpose by contract or grant to an Indian tribe from amounts appropriated under the authority of [section 13 of this title][/us/usc/t25/s13].
 

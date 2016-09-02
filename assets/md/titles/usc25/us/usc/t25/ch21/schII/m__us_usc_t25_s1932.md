@@ -15,7 +15,7 @@
 
 ## § 1932. Grants for off-reservation programs for additional services
 
-The Secretary is also authorized to make grants to Indian organizations to establish and operate off-reservation Indian child and family service programs which may include, but are not limited to—
+    The Secretary is also authorized to make grants to Indian organizations to establish and operate off-reservation Indian child and family service programs which may include, but are not limited to—
 
     (1) a system for regulating, maintaining, and supporting Indian foster and adoptive homes, including a subsidy program under which Indian adoptive children may be provided support comparable to that for which they would be eligible as Indian foster children, taking into account the appropriate State standards of support for maintenance and medical needs;
 

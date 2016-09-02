@@ -15,7 +15,7 @@
 
 ## § 1300d–21. Definitions
 
-In this part:
+    In this part:
 
     (1) __Covered Indian tribe__ 
 

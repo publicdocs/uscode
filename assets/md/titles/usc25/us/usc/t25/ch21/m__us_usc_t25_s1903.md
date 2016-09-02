@@ -15,7 +15,7 @@
 
 ## § 1903. Definitions
 
-For the purposes of this chapter, except as may be specifically provided otherwise, the term—
+    For the purposes of this chapter, except as may be specifically provided otherwise, the term—
 
     (1)
 

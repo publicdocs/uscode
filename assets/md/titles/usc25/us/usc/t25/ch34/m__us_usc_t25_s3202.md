@@ -15,7 +15,7 @@
 
 ## § 3202. Definitions
 
-For the purposes of this chapter, the term—
+    For the purposes of this chapter, the term—
 
     (1) “Bureau” means the Bureau of Indian Affairs of the Department of the Interior;
 
