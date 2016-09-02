@@ -17,7 +17,7 @@
 
     (a)
 
-     An employee may be paid premium pay under sections 5542, 5545(a), (b), and (c), 5545a, and 5546(a) and (b) only to the extent that the payment does not cause the aggregate of basic pay and such premium pay for any pay period for such employee to exceed the greater of—
+     An employee may be paid premium pay under sections 5542, 5545(a), (b), and (c), 5545a, 5546(a) and (b), and 5550 only to the extent that the payment does not cause the aggregate of basic pay and such premium pay for any pay period for such employee to exceed the greater of—
 
         (1) the maximum rate of basic pay payable for GS–15 (including any applicable locality-based comparability payment under section 5304 or similar provision of law and any applicable special rate of pay under section 5305 or similar provision of law); or
 
@@ -47,7 +47,9 @@
 
     (d) This section shall not apply to any employee of the Federal Aviation Administration or the Department of Defense who is paid premium pay under section 5546a.
 
-([Pub. L. 89–554][/us/pl/89/554], Sept. 6, 1966, [80 Stat. 488][/us/stat/80/488]; [Pub. L. 90–83, § 1(31)][/us/pl/90/83/s1/31], Sept. 11, 1967, [81 Stat. 201][/us/stat/81/201]; [Pub. L. 97–276, § 151(e)][/us/pl/97/276/s151/e], Oct. 2, 1982, [96 Stat. 1201][/us/stat/96/1201]; [Pub. L. 98–525, title XV, § 1537(d)][/us/pl/98/525/s1537/d], Oct. 19, 1984, [98 Stat. 2636][/us/stat/98/2636]; [Pub. L. 100–523, § 2][/us/pl/100/523/s2], Oct. 24, 1988, [102 Stat. 2605][/us/stat/102/2605]; [Pub. L. 101–509, title V, § 529][/us/pl/101/509/s529] \[title II, § 204, title IV, § 410(b)\], Nov. 5, 1990, [104 Stat. 1427][/us/stat/104/1427], 1456, 1469; [Pub. L. 102–378, § 2(43)][/us/pl/102/378/s2/43], Oct. 2, 1992, [106 Stat. 1352][/us/stat/106/1352]; [Pub. L. 103–329, title VI, § 633(b)(2)][/us/pl/103/329/s633/b/2], Sept. 30, 1994, [108 Stat. 2427][/us/stat/108/2427]; [Pub. L. 107–107, div. A, title XI, § 1114(a)][/us/pl/107/107/s1114/a], Dec. 28, 2001, [115 Stat. 1239][/us/stat/115/1239].)
+    (e) Any supplemental pay resulting from receipt of the level 1 border patrol rate of pay or the level 2 border patrol rate of pay under section 5550 shall be considered premium pay in applying this section.
+
+([Pub. L. 89–554][/us/pl/89/554], Sept. 6, 1966, [80 Stat. 488][/us/stat/80/488]; [Pub. L. 90–83, § 1(31)][/us/pl/90/83/s1/31], Sept. 11, 1967, [81 Stat. 201][/us/stat/81/201]; [Pub. L. 97–276, § 151(e)][/us/pl/97/276/s151/e], Oct. 2, 1982, [96 Stat. 1201][/us/stat/96/1201]; [Pub. L. 98–525, title XV, § 1537(d)][/us/pl/98/525/s1537/d], Oct. 19, 1984, [98 Stat. 2636][/us/stat/98/2636]; [Pub. L. 100–523, § 2][/us/pl/100/523/s2], Oct. 24, 1988, [102 Stat. 2605][/us/stat/102/2605]; [Pub. L. 101–509, title V, § 529][/us/pl/101/509/s529] \[title II, § 204, title IV, § 410(b)\], Nov. 5, 1990, [104 Stat. 1427][/us/stat/104/1427], 1456, 1469; [Pub. L. 102–378, § 2(43)][/us/pl/102/378/s2/43], Oct. 2, 1992, [106 Stat. 1352][/us/stat/106/1352]; [Pub. L. 103–329, title VI, § 633(b)(2)][/us/pl/103/329/s633/b/2], Sept. 30, 1994, [108 Stat. 2427][/us/stat/108/2427]; [Pub. L. 107–107, div. A, title XI, § 1114(a)][/us/pl/107/107/s1114/a], Dec. 28, 2001, [115 Stat. 1239][/us/stat/115/1239]; [Pub. L. 113–277, § 2(g)(1)][/us/pl/113/277/s2/g/1], Dec. 18, 2014, [128 Stat. 3005][/us/stat/128/3005].)
 
 <table>
 
@@ -153,6 +155,10 @@ Sept. 1, 1954, ch. 1208, § 209, 68 Stat. 1112.  </td>
 
  __Amendments__ 
 
+    2014—Subsec. (a). [Pub. L. 113–277, § 2(g)(1)(A)][/us/pl/113/277/s2/g/1/A], struck out “and” before “5546(a) and (b)” and inserted “, and 5550” after “5546(a) and (b)”.
+
+    Subsec. (e). [Pub. L. 113–277, § 2(g)(1)(B)][/us/pl/113/277/s2/g/1/B], added subsec. (e).
+
     2001—[Pub. L. 107–107][/us/pl/107/107] reenacted section catchline without change and amended text generally. Prior to amendment, text read as follows:
 
     “(a) An employee may be paid premium pay under sections 5542, 5545(a), (b), and (c), 5545a, and 5546(a) and (b) of this title only to the extent that the payment does not cause his aggregate rate of pay for any pay period to exceed the maximum rate for GS–15 (including any applicable locality-based comparability payment under section 5304 or similar provision of law and any applicable special rate of pay under section 5305 or similar provision of law). The first sentence of this subsection shall not apply to any employee of the Federal Aviation Administration or the Department of Defense who is paid premium pay under [section 5546a of this title][/us/usc/t5/s5546a].
@@ -252,6 +258,8 @@ Sept. 1, 1954, ch. 1208, § 209, 68 Stat. 1112.  </td>
 [/us/stat/108/2427]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2427
 [/us/pl/107/107/s1114/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107%2Fs1114%2Fa
 [/us/stat/115/1239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F1239
+[/us/pl/113/277/s2/g/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F277%2Fs2%2Fg%2F1
+[/us/stat/128/3005]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3005
 [/us/act/1962-10-11/s603]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1962-10-11%2Fs603
 [/us/pl/87/793]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F793
 [/us/stat/76/847]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F847
@@ -268,6 +276,8 @@ Sept. 1, 1954, ch. 1208, § 209, 68 Stat. 1112.  </td>
 [/us/usc/t5/s5547]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5547
 [/us/usc/t5/s5332]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5332
 [/us/usc/t5/s5316]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5316
+[/us/pl/113/277/s2/g/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F277%2Fs2%2Fg%2F1%2FA
+[/us/pl/113/277/s2/g/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F277%2Fs2%2Fg%2F1%2FB
 [/us/pl/107/107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107
 [/us/usc/t5/s5546a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5546a
 [/us/pl/103/329]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F329

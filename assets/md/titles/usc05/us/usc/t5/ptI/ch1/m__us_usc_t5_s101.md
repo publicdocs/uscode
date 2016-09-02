@@ -215,6 +215,10 @@ R.S. § 159.  </td>
 
  __Short Title of 2014 Amendment__ 
 
+[Pub. L. 113–277, § 1][/us/pl/113/277/s1], Dec. 18, 2014, [128 Stat. 2995][/us/stat/128/2995], provided that: 
+
+> “This Act \[enacting [section 5550 of this title][/us/usc/t5/s5550] and [section 147 of Title 6][/us/usc/t6/s147], Domestic Security, amending sections 3132, 5542, 5547, and 8331 of this title and [section 213 of Title 29][/us/usc/t29/s213], Labor, and enacting provisions set out as notes under sections 5542 and 5550 of this title and [section 146 of Title 6][/us/usc/t6/s146]\] may be cited as the ‘Border Patrol Agent Pay Reform Act of 2014’.”
+
 [Pub. L. 113–255, § 1][/us/pl/113/255/s1], Dec. 18, 2014, [128 Stat. 2920][/us/stat/128/2920], provided that: 
 
 > “This Act \[amending sections 8438, 8439, 8472, and 8477 of this title and enacting provisions set out as notes under [section 8438 of this title][/us/usc/t5/s8438]\] may be cited as the ‘Smart Savings Act’.”
@@ -391,6 +395,12 @@ R.S. § 159.  </td>
 [/us/usc/t39/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft39%2Fs101
 [/us/pl/89/670]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F670
 [/us/pl/89/670]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F670
+[/us/pl/113/277/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F277%2Fs1
+[/us/stat/128/2995]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2995
+[/us/usc/t5/s5550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5550
+[/us/usc/t6/s147]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs147
+[/us/usc/t29/s213]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs213
+[/us/usc/t6/s146]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs146
 [/us/pl/113/255/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F255%2Fs1
 [/us/stat/128/2920]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2920
 [/us/usc/t5/s8438]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs8438

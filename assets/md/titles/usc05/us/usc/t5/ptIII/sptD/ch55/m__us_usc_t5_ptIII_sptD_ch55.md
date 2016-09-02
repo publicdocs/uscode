@@ -457,9 +457,9 @@ SUBCHAPTER V—PREMIUM PAY  </td>
 
   <tr>
 
-    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs5550" data-uslm-ref="/us/usc/t5/s5550">5550.</a>  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs5550" data-uslm-ref="/us/usc/t5/s5550">5550.</a>  </td>
 
-    <td> Repealed.]  </td>
+    <td> Border patrol rate of pay.  </td>
 
   </tr>
 
@@ -683,6 +683,8 @@ SUBCHAPTER IX—SEVERANCE PAY AND BACK PAY  </td>
 
  __Amendments__ 
 
+    2014—[Pub. L. 113–277, § 2(g)(3)][/us/pl/113/277/s2/g/3], Dec. 18, 2014, [128 Stat. 3005][/us/stat/128/3005], added item 5550.
+
     2009—[Pub. L. 111–8, div. D, title VII, § 751(b)][/us/pl/111/8/s751/b], Mar. 11, 2009, [123 Stat. 695][/us/stat/123/695], added item 5538.
 
     2004—[Pub. L. 108–411, title II, § 203(b)][/us/pl/108/411/s203/b], Oct. 30, 2004, [118 Stat. 2313][/us/stat/118/2313], added item 5550b.
@@ -750,6 +752,8 @@ SUBCHAPTER IX—SEVERANCE PAY AND BACK PAY  </td>
 ----------
 ----------
 
+[/us/pl/113/277/s2/g/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F277%2Fs2%2Fg%2F3
+[/us/stat/128/3005]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3005
 [/us/pl/111/8/s751/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F8%2Fs751%2Fb
 [/us/stat/123/695]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F695
 [/us/pl/108/411/s203/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F411%2Fs203%2Fb

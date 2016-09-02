@@ -93,7 +93,75 @@
 
         (2) the overtime hourly rate of pay is an amount equal to one and one-half times the hourly rate of basic pay under section 5545b(b)(1)(A) or (c)(1)(B), as applicable, and such overtime hourly rate of pay may not be less than such hourly rate of basic pay in applying the limitation on the overtime rate provided in paragraph (2) of such subsection (a).
 
-([Pub. L. 89–554][/us/pl/89/554], Sept. 6, 1966, [80 Stat. 485][/us/stat/80/485]; [Pub. L. 90–83, § 1(24)][/us/pl/90/83/s1/24], Sept. 11, 1967, [81 Stat. 200][/us/stat/81/200]; [Pub. L. 90–206, title II, § 222(a)][/us/pl/90/206/s222/a], Dec. 16, 1967, [81 Stat. 641][/us/stat/81/641]; [Pub. L. 90–556, § 1][/us/pl/90/556/s1], Oct. 10, 1968, [82 Stat. 969][/us/stat/82/969]; [Pub. L. 92–194][/us/pl/92/194], Dec. 15, 1971, [85 Stat. 648][/us/stat/85/648]; [Pub. L. 98–473, title I, § 101(c)][/us/pl/98/473/s101/c] \[title III, § 322\], Oct. 12, 1984, [98 Stat. 1837][/us/stat/98/1837], 1874; [Pub. L. 101–509, title V, § 529][/us/pl/101/509/s529] \[title I, § 101(b)(3)(E), title II, § 210(1), title IV, § 410(a)\], Nov. 5, 1990, [104 Stat. 1427][/us/stat/104/1427], 1439, 1460, 1468; [Pub. L. 102–378, § 2(41)][/us/pl/102/378/s2/41], Oct. 2, 1992, [106 Stat. 1352][/us/stat/106/1352]; [Pub. L. 103–329, title VI, § 633(c)][/us/pl/103/329/s633/c], Sept. 30, 1994, [108 Stat. 2427][/us/stat/108/2427]; [Pub. L. 104–52, title V, § 531][/us/pl/104/52/s531], Nov. 19, 1995, [109 Stat. 496][/us/stat/109/496]; [Pub. L. 105–277, div. A, § 101(b)][/us/pl/105/277/s101/b] \[title IV, § 407(c)(2)\], (h) \[title VI, § 628(a)(1)\], div. G, subdiv. B, title XXIII, § 2316(c)(2), Oct. 21, 1998, [112 Stat. 2681–50][/us/stat/112/2681-50], 2681–102, 2681–480, 2681–519, 2681–829; [Pub. L. 106–558, § 2(a)][/us/pl/106/558/s2/a], Dec. 21, 2000, [114 Stat. 2776][/us/stat/114/2776]; [Pub. L. 108–136, div. A, title XI, § 1121][/us/pl/108/136/s1121], Nov. 24, 2003, [117 Stat. 1636][/us/stat/117/1636]; [Pub. L. 111–383, div. A, title XI, § 1105(a)][/us/pl/111/383/s1105/a], Jan. 7, 2011, [124 Stat. 4383][/us/stat/124/4383].)
+    (g)
+
+     In applying subsection (a) with respect to a border patrol agent covered by section 5550, the following rules apply:
+
+        (1)
+
+         Notwithstanding the matter preceding paragraph (1) in subsection (a), for a border patrol agent who is assigned to the level 1 border patrol rate of pay under section 5550—
+
+            (A) hours of work in excess of 100 hours during a 14-day biweekly pay period shall be overtime work; and
+
+            (B)
+
+             the border patrol agent—
+
+                (i) shall receive pay at the overtime hourly rate of pay (as determined in accordance with paragraphs (1) and (2) of subsection (a)) for hours of overtime work that are officially ordered or approved in advance of the workweek; and
+
+                (ii) except as provided in paragraphs (4) and (5), shall receive compensatory time off for an equal amount of time spent performing overtime work that is not overtime work described in clause (i).
+
+        (2)
+
+         Notwithstanding the matter preceding paragraph (1) in subsection (a), for a border patrol agent who is assigned to the level 2 border patrol rate of pay under section 5550—
+
+            (A) hours of work in excess of 90 hours during a 14-day biweekly pay period shall be overtime work; and
+
+            (B)
+
+             the border patrol agent—
+
+                (i) shall receive pay at the overtime hourly rate of pay (as determined in accordance with paragraphs (1) and (2) of subsection (a)) for hours of overtime work that are officially ordered or approved in advance of the workweek; and
+
+                (ii) except as provided in paragraphs (4) and (5), shall receive compensatory time off for an equal amount of time spent performing overtime work that is not overtime work described in clause (i).
+
+        (3)
+
+         Notwithstanding the matter preceding paragraph (1) in subsection (a), for a border patrol agent who is assigned to the basic border patrol rate of pay under section 5550—
+
+            (A) hours of work in excess of 80 hours during a 14-day biweekly pay period shall be overtime work; and
+
+            (B)
+
+             the border patrol agent—
+
+                (i) shall receive pay at the overtime hourly rate of pay (as determined in accordance with paragraphs (1) and (2) of subsection (a)) for hours of overtime work that are officially ordered or approved in advance of the workweek; and
+
+                (ii) except as provided in paragraphs (4) and (5), shall receive compensatory time off for an equal amount of time spent performing overtime work that is not overtime work described in clause (i).
+
+        (4)
+
+            (A) Except as provided in subparagraph (B), during a 14-day biweekly pay period, a border patrol agent may not earn compensatory time off for more than 10 hours of overtime work.
+
+            (B) U.S. Customs and Border Protection may, as it determines appropriate, waive the limitation under subparagraph (A) for an individual border patrol agent for hours of irregular or occasional overtime work, but such waiver must be approved in writing in advance of the performance of any such work for which compensatory time off is earned under paragraph (1)(B)(ii), (2)(B)(ii), or (3)(B)(ii). If a waiver request by a border patrol agent is denied, the border patrol agent may not be ordered to perform the associated overtime work.
+
+        (5)
+
+         A border patrol agent—
+
+            (A) may not earn more than 240 hours of compensatory time off during a leave year;
+
+            (B) shall use any hours of compensatory time off not later than the end of the 26th pay period after the pay period during which the compensatory time off was earned;
+
+            (C) shall be required to use 1 hour of compensatory time off for each hour of regular time not worked for which the border patrol agent is not on paid leave or other paid time off or does not substitute time in accordance with section 5550(f);
+
+            (D) shall forfeit any compensatory time off not used in accordance with this paragraph and, regardless of circumstances, shall not be entitled to any cash value for compensatory time earned under section 5550;
+
+            (E) shall not receive credit towards the computation of the annuity of the border patrol agent for compensatory time, whether used or not; and
+
+            (F) shall not be credited with compensatory time off if the value of such time off would cause the aggregate premium pay of the border patrol agent to exceed the limitation established under section 5547 in the period in which it was earned.
+
+([Pub. L. 89–554][/us/pl/89/554], Sept. 6, 1966, [80 Stat. 485][/us/stat/80/485]; [Pub. L. 90–83, § 1(24)][/us/pl/90/83/s1/24], Sept. 11, 1967, [81 Stat. 200][/us/stat/81/200]; [Pub. L. 90–206, title II, § 222(a)][/us/pl/90/206/s222/a], Dec. 16, 1967, [81 Stat. 641][/us/stat/81/641]; [Pub. L. 90–556, § 1][/us/pl/90/556/s1], Oct. 10, 1968, [82 Stat. 969][/us/stat/82/969]; [Pub. L. 92–194][/us/pl/92/194], Dec. 15, 1971, [85 Stat. 648][/us/stat/85/648]; [Pub. L. 98–473, title I, § 101(c)][/us/pl/98/473/s101/c] \[title III, § 322\], Oct. 12, 1984, [98 Stat. 1837][/us/stat/98/1837], 1874; [Pub. L. 101–509, title V, § 529][/us/pl/101/509/s529] \[title I, § 101(b)(3)(E), title II, § 210(1), title IV, § 410(a)\], Nov. 5, 1990, [104 Stat. 1427][/us/stat/104/1427], 1439, 1460, 1468; [Pub. L. 102–378, § 2(41)][/us/pl/102/378/s2/41], Oct. 2, 1992, [106 Stat. 1352][/us/stat/106/1352]; [Pub. L. 103–329, title VI, § 633(c)][/us/pl/103/329/s633/c], Sept. 30, 1994, [108 Stat. 2427][/us/stat/108/2427]; [Pub. L. 104–52, title V, § 531][/us/pl/104/52/s531], Nov. 19, 1995, [109 Stat. 496][/us/stat/109/496]; [Pub. L. 105–277, div. A, § 101(b)][/us/pl/105/277/s101/b] \[title IV, § 407(c)(2)\], (h) \[title VI, § 628(a)(1)\], div. G, subdiv. B, title XXIII, § 2316(c)(2), Oct. 21, 1998, [112 Stat. 2681–50][/us/stat/112/2681-50], 2681–102, 2681–480, 2681–519, 2681–829; [Pub. L. 106–558, § 2(a)][/us/pl/106/558/s2/a], Dec. 21, 2000, [114 Stat. 2776][/us/stat/114/2776]; [Pub. L. 108–136, div. A, title XI, § 1121][/us/pl/108/136/s1121], Nov. 24, 2003, [117 Stat. 1636][/us/stat/117/1636]; [Pub. L. 111–383, div. A, title XI, § 1105(a)][/us/pl/111/383/s1105/a], Jan. 7, 2011, [124 Stat. 4383][/us/stat/124/4383]; [Pub. L. 113–277, § 2(c)(1)][/us/pl/113/277/s2/c/1], Dec. 18, 2014, [128 Stat. 3002][/us/stat/128/3002].)
 
 <table>
 
@@ -233,6 +301,8 @@ July 18, 1966, Pub. L. 89–504, § 404(a), 80 Stat. 297.  </td>
 
  __Amendments__ 
 
+    2014—Subsec. (g). [Pub. L. 113–277][/us/pl/113/277] added subsec. (g).
+
     2011—Subsec. (a)(6). [Pub. L. 111–383][/us/pl/111/383] added par. (6).
 
     2003—Subsec. (a)(2). [Pub. L. 108–136][/us/pl/108/136] inserted “the greater of” before “one and one-half” and “or the hourly rate of basic pay of the employee” before “, and all that amount”.
@@ -309,6 +379,36 @@ July 18, 1966, Pub. L. 89–504, § 404(a), 80 Stat. 297.  </td>
 
 > “Sections 222 \[enacting [section 5733 of this title][/us/usc/t5/s5733] and amending this section, [section 5544 of this title][/us/usc/t5/s5544], [section 3571 of Title 39][/us/usc/t39/s3571], The Postal Service\], and 223 \[enacting [section 5345 of this title][/us/usc/t5/s5345]\] shall become effective thirty days after the date of enactment of this title \[Dec. 16, 1967\].”
 
+ __Regulations__ 
+
+[Pub. L. 113–277, § 2(h)][/us/pl/113/277/s2/h], Dec. 18, 2014, [128 Stat. 3005][/us/stat/128/3005], provided that: 
+
+> “The Director of the Office of Personnel Management shall promulgate regulations to carry out this Act \[see [section 1 of Pub. L. 113–277][/us/pl/113/277/s1], set out as a Short Title of 2014 Amendment note under [section 101 of this title][/us/usc/t5/s101]\] and the amendments made by this Act.”
+
+ __Rules of Construction__ 
+
+[Pub. L. 113–277, § 2(f)][/us/pl/113/277/s2/f], Dec. 18, 2014, [128 Stat. 3004][/us/stat/128/3004], provided that: 
+
+> “Nothing in this section \[enacting [section 5550 of this title][/us/usc/t5/s5550], amending this section and sections 5547 and 8331 of this title and [section 213 of Title 29][/us/usc/t29/s213], Labor, and enacting provisions set out as notes under this section and [section 5550 of this title][/us/usc/t5/s5550]\] or the amendments made by this section shall be construed to—
+
+>     “(1) limit the right of U.S. Customs and Border Protection to assign both scheduled and unscheduled work to a border patrol agent based on the needs of U.S. Customs and Border Protection in excess of the hours of work normally applicable under the election of the border patrol agent, regardless of what the border patrol agent might otherwise have elected;
+
+>     “(2) require compensation of a border patrol agent other than for hours during which the border patrol agent is actually performing work or using approved paid leave or other paid time off; or
+
+>     “(3) exempt a border patrol agent from any limitations on pay, earnings, or compensation, including the limitations under [section 5547 of title 5][/us/usc/t5/s5547], United States Code.”
+
+ __Border Patrol Rate of Pay__ 
+
+[Pub. L. 113–277, § 2(a)][/us/pl/113/277/s2/a], Dec. 18, 2014, [128 Stat. 2995][/us/stat/128/2995], provided that:
+
+>     “(a)  __Purpose__  __.—__ 
+
+>     The purposes of this Act \[see [section 1 of Pub. L. 113–277][/us/pl/113/277/s1], set out as a Short Title of 2014 Amendment note under [section 101 of this title][/us/usc/t5/s101]\] are—
+
+>         “(1) to strengthen U.S. Customs and Border Protection and ensure that border patrol agents are sufficiently ready to conduct necessary work and will perform overtime hours in excess of a 40-hour workweek based on the needs of U.S. Customs and Border Protection; and
+
+>         “(2) to ensure U.S. Customs and Border Protection has the flexibility to cover shift changes and retains the right to assign scheduled and unscheduled work for mission requirements and planning based on operational need.”
+
 ----------
 
 [Previous](./../../../../../../..//us/usc/t5/ptIII/sptD/ch55/schV/m__us_usc_t5_s5541.md) | [Next](./../../../../../../..//us/usc/t5/ptIII/sptD/ch55/schV/m__us_usc_t5_s5543.md) | [Root of Title](./../../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5542)
@@ -346,6 +446,8 @@ July 18, 1966, Pub. L. 89–504, § 404(a), 80 Stat. 297.  </td>
 [/us/stat/117/1636]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1636
 [/us/pl/111/383/s1105/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2Fs1105%2Fa
 [/us/stat/124/4383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F4383
+[/us/pl/113/277/s2/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F277%2Fs2%2Fc%2F1
+[/us/stat/128/3002]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3002
 [/us/act/1962-10-11/s603]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1962-10-11%2Fs603
 [/us/pl/87/793]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F793
 [/us/stat/76/847]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F847
@@ -355,6 +457,7 @@ July 18, 1966, Pub. L. 89–504, § 404(a), 80 Stat. 297.  </td>
 [/us/usc/t29/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs201
 [/us/usc/t29/s207]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs207
 [/us/usc/t22/s2709/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2709%2Fa%2F3
+[/us/pl/113/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F277
 [/us/pl/111/383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383
 [/us/pl/108/136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136
 [/us/pl/106/558]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F558
@@ -399,5 +502,19 @@ July 18, 1966, Pub. L. 89–504, § 404(a), 80 Stat. 297.  </td>
 [/us/usc/t5/s5544]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5544
 [/us/usc/t39/s3571]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft39%2Fs3571
 [/us/usc/t5/s5345]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5345
+[/us/pl/113/277/s2/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F277%2Fs2%2Fh
+[/us/stat/128/3005]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3005
+[/us/pl/113/277/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F277%2Fs1
+[/us/usc/t5/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs101
+[/us/pl/113/277/s2/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F277%2Fs2%2Ff
+[/us/stat/128/3004]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3004
+[/us/usc/t5/s5550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5550
+[/us/usc/t29/s213]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs213
+[/us/usc/t5/s5550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5550
+[/us/usc/t5/s5547]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5547
+[/us/pl/113/277/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F277%2Fs2%2Fa
+[/us/stat/128/2995]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2995
+[/us/pl/113/277/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F277%2Fs1
+[/us/usc/t5/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs101
 
 
