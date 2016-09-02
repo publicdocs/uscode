@@ -141,71 +141,73 @@
 
                       <tr>
 
-                        <td>   If the age of the  </td>
+                        <td> 
+
+                    If the age of the annuitant on the annuity starting date is:  </td>
+
+                        <td> 
+
+                    The number of anticipated payments is:  </td>
 
   </tr>
 
                       <tr>
 
-                        <td>    annuitant on  </td>
+                        <td> 
 
-                        <td> The number  </td>
+                    Not more than 55  </td>
 
-  </tr>
+                        <td> 
 
-                      <tr>
-
-                        <td>    the annuity starting  </td>
-
-                        <td> of anticipated  </td>
+                    360  </td>
 
   </tr>
 
                       <tr>
 
-                        <td>    date is:  </td>
+                        <td> 
 
-                        <td> payments is:  </td>
+                    More than 55 but not more than 60  </td>
 
-  </tr>
+                        <td> 
 
-                      <tr>
-
-                        <td> Not more than 55  </td>
-
-                        <td> 360    </td>
+                    310  </td>
 
   </tr>
 
                       <tr>
 
-                        <td> More than 55 but not more than 60  </td>
+                        <td> 
 
-                        <td> 310    </td>
+                    More than 60 but not more than 65  </td>
 
-  </tr>
+                        <td> 
 
-                      <tr>
-
-                        <td> More than 60 but not more than 65  </td>
-
-                        <td> 260    </td>
+                    260  </td>
 
   </tr>
 
                       <tr>
 
-                        <td> More than 65 but not more than 70  </td>
+                        <td> 
 
-                        <td> 210    </td>
+                    More than 65 but not more than 70  </td>
+
+                        <td> 
+
+                    210  </td>
 
   </tr>
 
                       <tr>
 
-                        <td> More than 70  </td>
+                        <td> 
 
-                        <td> 160.  </td>
+                    More than 70  </td>
+
+                        <td> 
+
+                    160.  </td>
 
   </tr>
 
@@ -219,55 +221,73 @@
 
                       <tr>
 
-                        <td>   If the combined ages of  </td>
+                        <td> 
+
+                    If the combined ages of annuitants are:  </td>
+
+                        <td> 
+
+                    The number is:  </td>
 
   </tr>
 
                       <tr>
 
-                        <td>    annuitants are:  </td>
+                        <td> 
 
-                        <td> The number is:  </td>
+                    Not more than 110  </td>
 
-  </tr>
+                        <td> 
 
-                      <tr>
-
-                        <td>    Not more than 110  </td>
-
-                        <td> 410    </td>
+                    410  </td>
 
   </tr>
 
                       <tr>
 
-                        <td>    More than 110 but not more than 120  </td>
+                        <td> 
 
-                        <td> 360    </td>
+                    More than 110 but not more than 120  </td>
 
-  </tr>
+                        <td> 
 
-                      <tr>
-
-                        <td>    More than 120 but not more than 130  </td>
-
-                        <td> 310    </td>
+                    360  </td>
 
   </tr>
 
                       <tr>
 
-                        <td>    More than 130 but not more than 140  </td>
+                        <td> 
 
-                        <td> 260    </td>
+                    More than 120 but not more than 130  </td>
+
+                        <td> 
+
+                    310  </td>
 
   </tr>
 
                       <tr>
 
-                        <td>    More than 140  </td>
+                        <td> 
 
-                        <td> 210.  </td>
+                    More than 130 but not more than 140  </td>
+
+                        <td> 
+
+                    260  </td>
+
+  </tr>
+
+                      <tr>
+
+                        <td> 
+
+                    More than 140  </td>
+
+                        <td> 
+
+                    210.  </td>
 
   </tr>
 

@@ -109,89 +109,109 @@
 
                   <tr>
 
-                    <td>    </td>
+                    <td> 
 
-                    <td> The applicable  </td>
+                If the recapture event occurs in:  </td>
 
-  </tr>
+                    <td> 
 
-                  <tr>
-
-                    <td> If the recapture event  </td>
-
-                    <td> recapture  </td>
+                The applicable recapture percentage is:  </td>
 
   </tr>
 
                   <tr>
 
-                    <td> occurs in:  </td>
+                    <td> 
 
-                    <td> percentage is:  </td>
+                Years 1–3  </td>
 
-  </tr>
+                    <td> 
 
-                  <tr>
-
-                    <td>   Years 1–3  </td>
-
-                    <td> 100    </td>
+                100  </td>
 
   </tr>
 
                   <tr>
 
-                    <td>   Year 4  </td>
+                    <td> 
 
-                    <td> 85    </td>
+                Year 4  </td>
 
-  </tr>
+                    <td> 
 
-                  <tr>
-
-                    <td>   Year 5  </td>
-
-                    <td> 70    </td>
+                85  </td>
 
   </tr>
 
                   <tr>
 
-                    <td>   Year 6  </td>
+                    <td> 
 
-                    <td> 55    </td>
+                Year 5  </td>
 
-  </tr>
+                    <td> 
 
-                  <tr>
-
-                    <td>   Year 7  </td>
-
-                    <td> 40    </td>
+                70  </td>
 
   </tr>
 
                   <tr>
 
-                    <td>   Year 8  </td>
+                    <td> 
 
-                    <td> 25    </td>
+                Year 6  </td>
 
-  </tr>
+                    <td> 
 
-                  <tr>
-
-                    <td>   Years 9 and 10  </td>
-
-                    <td> 10    </td>
+                55  </td>
 
   </tr>
 
                   <tr>
 
-                    <td>   Years 11 and thereafter  </td>
+                    <td> 
 
-                    <td> 0.  </td>
+                Year 7  </td>
+
+                    <td> 
+
+                40  </td>
+
+  </tr>
+
+                  <tr>
+
+                    <td> 
+
+                Year 8  </td>
+
+                    <td> 
+
+                25  </td>
+
+  </tr>
+
+                  <tr>
+
+                    <td> 
+
+                Years 9 and 10  </td>
+
+                    <td> 
+
+                10  </td>
+
+  </tr>
+
+                  <tr>
+
+                    <td> 
+
+                Years 11 and thereafter  </td>
+
+                    <td> 
+
+                0.  </td>
 
   </tr>
 

@@ -57,41 +57,49 @@
 
                   <tr>
 
-                    <td>  For taxable years  </td>
+                    <td> 
 
-                    <td> The deductible  </td>
+                For taxable years beginning in:  </td>
 
-  </tr>
+                    <td> 
 
-                  <tr>
-
-                    <td>   beginning in:  </td>
-
-                    <td> amount is:   </td>
+                The deductible amount is:  </td>
 
   </tr>
 
                   <tr>
 
-                    <td> 2002 through 2004  </td>
+                    <td> 
 
-                    <td> $3,000    </td>
+                2002 through 2004  </td>
 
-  </tr>
+                    <td> 
 
-                  <tr>
-
-                    <td> 2005 through 2007  </td>
-
-                    <td> $4,000    </td>
+                $3,000  </td>
 
   </tr>
 
                   <tr>
 
-                    <td> 2008 and thereafter  </td>
+                    <td> 
 
-                    <td> $5,000.  </td>
+                2005 through 2007  </td>
+
+                    <td> 
+
+                $4,000  </td>
+
+  </tr>
+
+                  <tr>
+
+                    <td> 
+
+                2008 and thereafter  </td>
+
+                    <td> 
+
+                $5,000.  </td>
 
   </tr>
 
@@ -111,33 +119,37 @@
 
                       <tr>
 
-                        <td>  For taxable years  </td>
+                        <td> 
 
-                        <td> The applicable  </td>
+                    For taxable years beginning in:  </td>
 
-  </tr>
+                        <td> 
 
-                      <tr>
-
-                        <td>   beginning in:  </td>
-
-                        <td> amount is:   </td>
+                    The applicable amount is:  </td>
 
   </tr>
 
                       <tr>
 
-                        <td> 2002 through 2005  </td>
+                        <td> 
 
-                        <td> $500    </td>
+                    2002 through 2005  </td>
+
+                        <td> 
+
+                    $500  </td>
 
   </tr>
 
                       <tr>
 
-                        <td> 2006 and thereafter  </td>
+                        <td> 
 
-                        <td> $1,000.  </td>
+                    2006 and thereafter  </td>
+
+                        <td> 
+
+                    $1,000.  </td>
 
   </tr>
 
@@ -349,113 +361,133 @@
 
                   <tr>
 
-                    <td>    </td>
+                    <td> 
 
-                    <td> The  </td>
+                For taxable years beginning in:  </td>
 
-  </tr>
+                    <td> 
 
-                  <tr>
-
-                    <td>    </td>
-
-                    <td> applicable  </td>
+                The applicable dollar amount is:  </td>
 
   </tr>
 
                   <tr>
 
-                    <td> For taxable years beginning in:  </td>
+                    <td> 
 
-                    <td> dollar amount  </td>
+                1998  </td>
 
-  </tr>
+                    <td> 
 
-                  <tr>
-
-                    <td>    </td>
-
-                    <td> is:  </td>
+                $50,000  </td>
 
   </tr>
 
                   <tr>
 
-                    <td>   1998  </td>
+                    <td> 
 
-                    <td> $50,000    </td>
+                1999  </td>
 
-  </tr>
+                    <td> 
 
-                  <tr>
-
-                    <td>   1999  </td>
-
-                    <td> $51,000    </td>
+                $51,000  </td>
 
   </tr>
 
                   <tr>
 
-                    <td>   2000  </td>
+                    <td> 
 
-                    <td> $52,000    </td>
+                2000  </td>
 
-  </tr>
+                    <td> 
 
-                  <tr>
-
-                    <td>   2001  </td>
-
-                    <td> $53,000    </td>
+                $52,000  </td>
 
   </tr>
 
                   <tr>
 
-                    <td>   2002  </td>
+                    <td> 
 
-                    <td> $54,000    </td>
+                2001  </td>
 
-  </tr>
+                    <td> 
 
-                  <tr>
-
-                    <td>   2003  </td>
-
-                    <td> $60,000    </td>
+                $53,000  </td>
 
   </tr>
 
                   <tr>
 
-                    <td>   2004  </td>
+                    <td> 
 
-                    <td> $65,000    </td>
+                2002  </td>
 
-  </tr>
+                    <td> 
 
-                  <tr>
-
-                    <td>   2005  </td>
-
-                    <td> $70,000    </td>
+                $54,000  </td>
 
   </tr>
 
                   <tr>
 
-                    <td>   2006  </td>
+                    <td> 
 
-                    <td> $75,000    </td>
+                2003  </td>
+
+                    <td> 
+
+                $60,000  </td>
 
   </tr>
 
                   <tr>
 
-                    <td>   2007 and thereafter  </td>
+                    <td> 
 
-                    <td> $80,000.  </td>
+                2004  </td>
+
+                    <td> 
+
+                $65,000  </td>
+
+  </tr>
+
+                  <tr>
+
+                    <td> 
+
+                2005  </td>
+
+                    <td> 
+
+                $70,000  </td>
+
+  </tr>
+
+                  <tr>
+
+                    <td> 
+
+                2006  </td>
+
+                    <td> 
+
+                $75,000  </td>
+
+  </tr>
+
+                  <tr>
+
+                    <td> 
+
+                2007 and thereafter  </td>
+
+                    <td> 
+
+                $80,000.  </td>
 
   </tr>
 
@@ -467,97 +499,109 @@
 
                   <tr>
 
-                    <td>    </td>
+                    <td> 
 
-                    <td> The  </td>
+                For taxable years beginning in:  </td>
 
-  </tr>
+                    <td> 
 
-                  <tr>
-
-                    <td>    </td>
-
-                    <td> applicable  </td>
+                The applicable dollar amount is:  </td>
 
   </tr>
 
                   <tr>
 
-                    <td> For taxable years beginning in:  </td>
+                    <td> 
 
-                    <td> dollar amount  </td>
+                1998  </td>
 
-  </tr>
+                    <td> 
 
-                  <tr>
-
-                    <td>    </td>
-
-                    <td> is:  </td>
+                $30,000  </td>
 
   </tr>
 
                   <tr>
 
-                    <td>   1998  </td>
+                    <td> 
 
-                    <td> $30,000    </td>
+                1999  </td>
 
-  </tr>
+                    <td> 
 
-                  <tr>
-
-                    <td>   1999  </td>
-
-                    <td> $31,000    </td>
+                $31,000  </td>
 
   </tr>
 
                   <tr>
 
-                    <td>   2000  </td>
+                    <td> 
 
-                    <td> $32,000    </td>
+                2000  </td>
 
-  </tr>
+                    <td> 
 
-                  <tr>
-
-                    <td>   2001  </td>
-
-                    <td> $33,000    </td>
+                $32,000  </td>
 
   </tr>
 
                   <tr>
 
-                    <td>   2002  </td>
+                    <td> 
 
-                    <td> $34,000    </td>
+                2001  </td>
 
-  </tr>
+                    <td> 
 
-                  <tr>
-
-                    <td>   2003  </td>
-
-                    <td> $40,000    </td>
+                $33,000  </td>
 
   </tr>
 
                   <tr>
 
-                    <td>   2004  </td>
+                    <td> 
 
-                    <td> $45,000    </td>
+                2002  </td>
+
+                    <td> 
+
+                $34,000  </td>
 
   </tr>
 
                   <tr>
 
-                    <td>   2005 and thereafter  </td>
+                    <td> 
 
-                    <td> $50,000.  </td>
+                2003  </td>
+
+                    <td> 
+
+                $40,000  </td>
+
+  </tr>
+
+                  <tr>
+
+                    <td> 
+
+                2004  </td>
+
+                    <td> 
+
+                $45,000  </td>
+
+  </tr>
+
+                  <tr>
+
+                    <td> 
+
+                2005 and thereafter  </td>
+
+                    <td> 
+
+                $50,000.  </td>
 
   </tr>
 

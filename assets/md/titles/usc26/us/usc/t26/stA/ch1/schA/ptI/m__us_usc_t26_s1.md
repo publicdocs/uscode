@@ -1791,6 +1791,10 @@ The corresponding percentages shall be substituted for
 
  __Short Title of 2014 Amendment__ 
 
+[Pub. L. 113–168, § 1][/us/pl/113/168/s1], Sept. 26, 2014, [128 Stat. 1883][/us/stat/128/1883], provided that: 
+
+> “This Act \[enacting [section 139E of this title][/us/usc/t26/s139E] and provisions set out as notes under [section 139E of this title][/us/usc/t26/s139E]\] may be cited as the ‘Tribal General Welfare Exclusion Act of 2014’.”
+
 [Pub. L. 113–94, § 1][/us/pl/113/94/s1], Apr. 3, 2014, [128 Stat. 1085][/us/stat/128/1085], provided that: 
 
 > “This Act \[amending sections 9006, 9008, 9009, 9012, and 9037 of this title and sections 282 and 282a of Title 42, The Public Health and Welfare, and enacting provisions set out as a note under [section 282a of Title 42][/us/usc/t42/s282a]\] may be cited as the ‘Gabriella Miller Kids First Research Act’.”
@@ -3471,6 +3475,10 @@ The corresponding percentages shall be substituted for
 [/us/stat/78/30]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F30
 [/us/pl/99/514/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs2
 [/us/stat/100/2095]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2095
+[/us/pl/113/168/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F168%2Fs1
+[/us/stat/128/1883]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1883
+[/us/usc/t26/s139E]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs139E
+[/us/usc/t26/s139E]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs139E
 [/us/pl/113/94/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F94%2Fs1
 [/us/stat/128/1085]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1085
 [/us/usc/t42/s282a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs282a

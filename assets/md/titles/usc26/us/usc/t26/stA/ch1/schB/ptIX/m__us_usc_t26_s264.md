@@ -357,19 +357,13 @@
 
 >           <tr>
 
->             <td> For calendar year:  </td>
+>             <td> 
 
->             <td> The percentage is:  </td>
+>         For calendar year:  </td>
 
->         
+>             <td> 
 
-  </tr>
-
->           <tr>
-
->             <td>  1996  </td>
-
->             <td>  100 percent   </td>
+>         The percentage is:  </td>
 
 >         
 
@@ -377,9 +371,13 @@
 
 >           <tr>
 
->             <td>  1997  </td>
+>             <td> 
 
->             <td>  90 percent   </td>
+>         1996  </td>
+
+>             <td> 
+
+>         100 percent   </td>
 
 >         
 
@@ -387,9 +385,27 @@
 
 >           <tr>
 
->             <td>  1998  </td>
+>             <td> 
 
->             <td>  80 percent.”  </td>
+>         1997  </td>
+
+>             <td> 
+
+>         90 percent   </td>
+
+>         
+
+  </tr>
+
+>           <tr>
+
+>             <td> 
+
+>         1998  </td>
+
+>             <td> 
+
+>         80 percent.”  </td>
 
 >         
 

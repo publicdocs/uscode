@@ -987,69 +987,73 @@
 
                   <tr>
 
-                    <td> For taxable years  </td>
+                    <td> 
 
-                    <td> The  </td>
+                For taxable years beginning in:  </td>
 
-  </tr>
+                    <td> 
 
-                  <tr>
-
-                    <td> applicable  </td>
+                The applicable dollar amount is:  </td>
 
   </tr>
 
                   <tr>
 
-                    <td> beginning in:  </td>
+                    <td> 
 
-                    <td> dollar amount  </td>
+                2002  </td>
 
-  </tr>
+                    <td> 
 
-                  <tr>
-
-                    <td> is:  </td>
+                $1,000  </td>
 
   </tr>
 
                   <tr>
 
-                    <td> 2002  </td>
+                    <td> 
 
-                    <td> $1,000    </td>
+                2003  </td>
 
-  </tr>
+                    <td> 
 
-                  <tr>
-
-                    <td> 2003  </td>
-
-                    <td> $2,000    </td>
+                $2,000  </td>
 
   </tr>
 
                   <tr>
 
-                    <td> 2004  </td>
+                    <td> 
 
-                    <td> $3,000    </td>
+                2004  </td>
 
-  </tr>
+                    <td> 
 
-                  <tr>
-
-                    <td> 2005  </td>
-
-                    <td> $4,000    </td>
+                $3,000  </td>
 
   </tr>
 
                   <tr>
 
-                    <td> 2006 and thereafter  </td>
+                    <td> 
 
-                    <td> $5,000.  </td>
+                2005  </td>
+
+                    <td> 
+
+                $4,000  </td>
+
+  </tr>
+
+                  <tr>
+
+                    <td> 
+
+                2006 and thereafter  </td>
+
+                    <td> 
+
+                $5,000.  </td>
 
   </tr>
 
@@ -1061,69 +1065,73 @@
 
                   <tr>
 
-                    <td> For taxable years  </td>
+                    <td> 
 
-                    <td> The  </td>
+                For taxable years beginning in:  </td>
 
-  </tr>
+                    <td> 
 
-                  <tr>
-
-                    <td> applicable  </td>
+                The applicable dollar amount is:  </td>
 
   </tr>
 
                   <tr>
 
-                    <td> beginning in:  </td>
+                    <td> 
 
-                    <td> dollar amount  </td>
+                2002  </td>
 
-  </tr>
+                    <td> 
 
-                  <tr>
-
-                    <td> is:  </td>
+                $500  </td>
 
   </tr>
 
                   <tr>
 
-                    <td> 2002  </td>
+                    <td> 
 
-                    <td> $500    </td>
+                2003  </td>
 
-  </tr>
+                    <td> 
 
-                  <tr>
-
-                    <td> 2003  </td>
-
-                    <td> $1,000    </td>
+                $1,000  </td>
 
   </tr>
 
                   <tr>
 
-                    <td> 2004  </td>
+                    <td> 
 
-                    <td> $1,500    </td>
+                2004  </td>
 
-  </tr>
+                    <td> 
 
-                  <tr>
-
-                    <td> 2005  </td>
-
-                    <td> $2,000    </td>
+                $1,500  </td>
 
   </tr>
 
                   <tr>
 
-                    <td> 2006 and thereafter  </td>
+                    <td> 
 
-                    <td> $2,500.  </td>
+                2005  </td>
+
+                    <td> 
+
+                $2,000  </td>
+
+  </tr>
+
+                  <tr>
+
+                    <td> 
+
+                2006 and thereafter  </td>
+
+                    <td> 
+
+                $2,500.  </td>
 
   </tr>
 
@@ -1321,49 +1329,61 @@
 
                       <tr>
 
-                        <td> If the participant’s age as of the  </td>
+                        <td> 
 
-                        <td> The percentage  </td>
+                      If the participant’s age as of the beginning of the year is—  </td>
 
-  </tr>
+                        <td> 
 
-                      <tr>
-
-                        <td>  beginning of the year is—  </td>
-
-                        <td>  is—  </td>
+                    The percentage is—  </td>
 
   </tr>
 
                       <tr>
 
-                        <td>   30 or less  </td>
+                        <td> 
 
-                        <td> 2    </td>
+                    30 or less  </td>
 
-  </tr>
+                        <td> 
 
-                      <tr>
-
-                        <td>   Over 30 but less than 40  </td>
-
-                        <td> 4    </td>
+                    2  </td>
 
   </tr>
 
                       <tr>
 
-                        <td>   40 or over but less than 50  </td>
+                        <td> 
 
-                        <td> 6    </td>
+                    Over 30 but less than 40  </td>
+
+                        <td> 
+
+                    4  </td>
 
   </tr>
 
                       <tr>
 
-                        <td>   50 or over  </td>
+                        <td> 
 
-                        <td> 8.  </td>
+                    40 or over but less than 50  </td>
+
+                        <td> 
+
+                    6  </td>
+
+  </tr>
+
+                      <tr>
+
+                        <td> 
+
+                    50 or over  </td>
+
+                        <td> 
+
+                    8.  </td>
 
   </tr>
 

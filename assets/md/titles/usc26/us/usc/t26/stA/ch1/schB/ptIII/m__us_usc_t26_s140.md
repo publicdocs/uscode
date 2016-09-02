@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../../../..//us/usc/t26/stA/ch1/schB/ptIII/m__us_usc_t26_s139D.md) | [Next](./../../../../../../..//us/usc/t26/stA/ch1/schB/ptIV/m__us_usc_t26_stA_ch1_schB_ptIV.md) | [Root of Title](./../../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs140)
+[Previous](./../../../../../../..//us/usc/t26/stA/ch1/schB/ptIII/m__us_usc_t26_s139E.md) | [Next](./../../../../../../..//us/usc/t26/stA/ch1/schB/ptIV/m__us_usc_t26_stA_ch1_schB_ptIV.md) | [Root of Title](./../../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs140)
 
 ## § 140. Cross references to other Acts
 
@@ -115,7 +115,7 @@
 
 ----------
 
-[Previous](./../../../../../../..//us/usc/t26/stA/ch1/schB/ptIII/m__us_usc_t26_s139D.md) | [Next](./../../../../../../..//us/usc/t26/stA/ch1/schB/ptIV/m__us_usc_t26_stA_ch1_schB_ptIV.md) | [Root of Title](./../../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs140)
+[Previous](./../../../../../../..//us/usc/t26/stA/ch1/schB/ptIII/m__us_usc_t26_s139E.md) | [Next](./../../../../../../..//us/usc/t26/stA/ch1/schB/ptIV/m__us_usc_t26_stA_ch1_schB_ptIV.md) | [Root of Title](./../../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs140)
 
 ----------
 ----------

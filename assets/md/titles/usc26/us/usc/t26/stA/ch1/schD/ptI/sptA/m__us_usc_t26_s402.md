@@ -355,65 +355,73 @@
 
                   <tr>
 
-                    <td>  For taxable years  </td>
+                    <td> 
 
-                    <td> The applicable  </td>
+                  For taxable years beginning in calendar year:  </td>
 
-  </tr>
+                    <td> 
 
-                  <tr>
-
-                    <td>   beginning in  </td>
-
-                    <td>  dollar amount:  </td>
+                The applicable dollar amount:  </td>
 
   </tr>
 
                   <tr>
 
-                    <td>   calendar year:  </td>
+                    <td> 
 
-                    <td>    </td>
+                2002  </td>
 
-  </tr>
+                    <td> 
 
-                  <tr>
-
-                    <td> 2002  </td>
-
-                    <td> $11,000    </td>
+                $11,000  </td>
 
   </tr>
 
                   <tr>
 
-                    <td> 2003  </td>
+                    <td> 
 
-                    <td> $12,000    </td>
+                2003  </td>
 
-  </tr>
+                    <td> 
 
-                  <tr>
-
-                    <td> 2004  </td>
-
-                    <td> $13,000    </td>
+                $12,000  </td>
 
   </tr>
 
                   <tr>
 
-                    <td> 2005  </td>
+                    <td> 
 
-                    <td> $14,000    </td>
+                2004  </td>
+
+                    <td> 
+
+                $13,000  </td>
 
   </tr>
 
                   <tr>
 
-                    <td> 2006 or thereafter  </td>
+                    <td> 
 
-                    <td> $15,000.  </td>
+                2005  </td>
+
+                    <td> 
+
+                $14,000  </td>
+
+  </tr>
+
+                  <tr>
+
+                    <td> 
+
+                2006 or thereafter  </td>
+
+                    <td> 
+
+                $15,000.  </td>
 
   </tr>
 

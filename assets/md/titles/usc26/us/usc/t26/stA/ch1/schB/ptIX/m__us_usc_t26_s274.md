@@ -477,65 +477,85 @@
 
                   <tr>
 
-                    <td> For taxable years beginning  </td>
+                    <td> 
 
-                    <td> The applicable  </td>
+                  For taxable years beginning in calendar year—  </td>
 
-  </tr>
+                    <td> 
 
-                  <tr>
-
-                    <td>  in calendar year—  </td>
-
-                    <td> percentage is—  </td>
+                The applicable percentage is—  </td>
 
   </tr>
 
                   <tr>
 
-                    <td>   1998 or 1999  </td>
+                    <td> 
 
-                    <td> 55    </td>
+                1998 or 1999  </td>
 
-  </tr>
+                    <td> 
 
-                  <tr>
-
-                    <td>   2000 or 2001  </td>
-
-                    <td> 60    </td>
+                55  </td>
 
   </tr>
 
                   <tr>
 
-                    <td>   2002 or 2003  </td>
+                    <td> 
 
-                    <td> 65    </td>
+                2000 or 2001  </td>
 
-  </tr>
+                    <td> 
 
-                  <tr>
-
-                    <td>   2004 or 2005  </td>
-
-                    <td> 70    </td>
+                60  </td>
 
   </tr>
 
                   <tr>
 
-                    <td>   2006 or 2007  </td>
+                    <td> 
 
-                    <td> 75    </td>
+                2002 or 2003  </td>
+
+                    <td> 
+
+                65  </td>
 
   </tr>
 
                   <tr>
 
-                    <td>   2008 or thereafter  </td>
+                    <td> 
 
-                    <td> 80.  </td>
+                2004 or 2005  </td>
+
+                    <td> 
+
+                70  </td>
+
+  </tr>
+
+                  <tr>
+
+                    <td> 
+
+                2006 or 2007  </td>
+
+                    <td> 
+
+                75  </td>
+
+  </tr>
+
+                  <tr>
+
+                    <td> 
+
+                2008 or thereafter  </td>
+
+                    <td> 
+
+                80.  </td>
 
   </tr>
 

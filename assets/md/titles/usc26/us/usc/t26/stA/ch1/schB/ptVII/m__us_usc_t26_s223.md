@@ -47,73 +47,85 @@
 
                   <tr>
 
-                    <td> For taxable years  </td>
+                    <td> 
 
-                    <td> The additional  </td>
+                For taxable years beginning in:  </td>
 
-  </tr>
+                    <td> 
 
-                  <tr>
-
-                    <td>  beginning in:  </td>
-
-                    <td> contribution  </td>
+                The additional contribution amount is:  </td>
 
   </tr>
 
                   <tr>
 
-                    <td>    </td>
+                    <td> 
 
-                    <td> amount is:  </td>
+                2004  </td>
 
-  </tr>
+                    <td> 
 
-                  <tr>
-
-                    <td> 2004  </td>
-
-                    <td> $500    </td>
+                $500  </td>
 
   </tr>
 
                   <tr>
 
-                    <td> 2005  </td>
+                    <td> 
 
-                    <td> $600    </td>
+                2005  </td>
 
-  </tr>
+                    <td> 
 
-                  <tr>
-
-                    <td> 2006  </td>
-
-                    <td> $700    </td>
+                $600  </td>
 
   </tr>
 
                   <tr>
 
-                    <td> 2007  </td>
+                    <td> 
 
-                    <td> $800    </td>
+                2006  </td>
 
-  </tr>
+                    <td> 
 
-                  <tr>
-
-                    <td> 2008  </td>
-
-                    <td> $900    </td>
+                $700  </td>
 
   </tr>
 
                   <tr>
 
-                    <td> 2009 and thereafter  </td>
+                    <td> 
 
-                    <td> $1,000.  </td>
+                2007  </td>
+
+                    <td> 
+
+                $800  </td>
+
+  </tr>
+
+                  <tr>
+
+                    <td> 
+
+                2008  </td>
+
+                    <td> 
+
+                $900  </td>
+
+  </tr>
+
+                  <tr>
+
+                    <td> 
+
+                2009 and thereafter  </td>
+
+                    <td> 
+
+                $1,000.  </td>
 
   </tr>
 

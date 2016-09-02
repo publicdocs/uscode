@@ -767,41 +767,49 @@
 
                   <tr>
 
-                    <td>  Plan year to which  </td>
+                    <td> 
 
-                    <td> The applicable  </td>
+                  Plan year to which subparagraph (C) applies:  </td>
 
-  </tr>
+                    <td> 
 
-                  <tr>
-
-                    <td>   subparagraph (C) applies:  </td>
-
-                    <td> percentage is:  </td>
+                The applicable percentage is:  </td>
 
   </tr>
 
                   <tr>
 
-                    <td> 1st  </td>
+                    <td> 
 
-                    <td> 33       </td>
+                1st  </td>
 
-  </tr>
+                    <td> 
 
-                  <tr>
-
-                    <td> 2d  </td>
-
-                    <td> 66       </td>
+                33  </td>
 
   </tr>
 
                   <tr>
 
-                    <td> 3d and following  </td>
+                    <td> 
 
-                    <td> 100.     </td>
+                2d  </td>
+
+                    <td> 
+
+                66  </td>
+
+  </tr>
+
+                  <tr>
+
+                    <td> 
+
+                3d and following  </td>
+
+                    <td> 
+
+                100.  </td>
 
   </tr>
 

@@ -33,33 +33,37 @@
 
               <tr>
 
-                <td> For taxable years  </td>
+                <td> 
 
-                <td> The transition  </td>
+            For taxable years beginning in:  </td>
 
-  </tr>
+                <td> 
 
-              <tr>
-
-                <td> beginning in:  </td>
-
-                <td> percentage is:  </td>
+            The transition percentage is:  </td>
 
   </tr>
 
               <tr>
 
-                <td>  2005 or 2006  </td>
+                <td> 
 
-                <td> 3    </td>
+            2005 or 2006  </td>
+
+                <td> 
+
+            3  </td>
 
   </tr>
 
               <tr>
 
-                <td>  2007, 2008, or 2009  </td>
+                <td> 
 
-                <td> 6.  </td>
+            2007, 2008, or 2009  </td>
+
+                <td> 
+
+            6.  </td>
 
   </tr>
 

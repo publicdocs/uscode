@@ -163,15 +163,23 @@
 
                       <tr>
 
-                        <td>     In the case of a plan year  </td>
+                        <td> In the case of a plan year  </td>
 
-                        <td> The applicable  </td>
+                        <td> The  </td>
 
   </tr>
 
                       <tr>
 
-                        <td>      beginning in calendar year:  </td>
+                        <td>    </td>
+
+                        <td> applicable  </td>
+
+  </tr>
+
+                      <tr>
+
+                        <td> beginning in calendar year:  </td>
 
                         <td> percentage is  </td>
 
@@ -179,23 +187,23 @@
 
                       <tr>
 
-                        <td>   2008  </td>
+                        <td> 2008  </td>
 
-                        <td> 92    </td>
-
-  </tr>
-
-                      <tr>
-
-                        <td>   2009  </td>
-
-                        <td> 94    </td>
+                        <td> 92  </td>
 
   </tr>
 
                       <tr>
 
-                        <td>   2010  </td>
+                        <td> 2009  </td>
+
+                        <td> 94  </td>
+
+  </tr>
+
+                      <tr>
+
+                        <td> 2010  </td>
 
                         <td> 96.  </td>
 
@@ -1065,55 +1073,63 @@
 
                   <tr>
 
-                    <td>   If the consecutive number of  </td>
+                    <td> If the consecutive number of  </td>
 
-                    <td>    The transi-  </td>
-
-  </tr>
-
-                  <tr>
-
-                    <td>    years (including the plan year)  </td>
-
-                    <td> tion percent-  </td>
+                    <td> The  </td>
 
   </tr>
 
                   <tr>
 
-                    <td>    the plan is in at-risk status is—  </td>
+                    <td> years (including the plan year)  </td>
 
-                    <td> age is—  </td>
-
-  </tr>
-
-                  <tr>
-
-                    <td>  1  </td>
-
-                    <td> 20    </td>
+                    <td> transition  </td>
 
   </tr>
 
                   <tr>
 
-                    <td>  2  </td>
+                    <td> the plan is in at-risk status is—  </td>
 
-                    <td> 40    </td>
-
-  </tr>
-
-                  <tr>
-
-                    <td>  3  </td>
-
-                    <td> 60    </td>
+                    <td> percentage  </td>
 
   </tr>
 
                   <tr>
 
-                    <td>  4  </td>
+                    <td>    </td>
+
+                    <td> is—  </td>
+
+  </tr>
+
+                  <tr>
+
+                    <td> 1  </td>
+
+                    <td> 20  </td>
+
+  </tr>
+
+                  <tr>
+
+                    <td> 2  </td>
+
+                    <td> 40  </td>
+
+  </tr>
+
+                  <tr>
+
+                    <td> 3  </td>
+
+                    <td> 60  </td>
+
+  </tr>
+
+                  <tr>
+
+                    <td> 4  </td>
 
                     <td> 80.  </td>
 

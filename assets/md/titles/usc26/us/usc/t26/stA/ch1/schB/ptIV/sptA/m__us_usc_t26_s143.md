@@ -743,13 +743,15 @@
 
                         <td> 
 
-                        For Calendar Year:  </td>
+   </td>
 
                         <td> 
 
-                    Applicable percentage
+                    For Calendar Year:  </td>
 
-                    is:  </td>
+                        <td> 
+
+                    Applicable percentage is:  </td>
 
   </tr>
 
@@ -757,11 +759,15 @@
 
                         <td> 
 
-                           2006  </td>
+   </td>
 
                         <td> 
 
-                           20 percent    </td>
+                    2006  </td>
+
+                        <td> 
+
+                    20 percent    </td>
 
   </tr>
 
@@ -769,11 +775,15 @@
 
                         <td> 
 
-                           2007  </td>
+   </td>
 
                         <td> 
 
-                           40 percent    </td>
+                    2007  </td>
+
+                        <td> 
+
+                    40 percent    </td>
 
   </tr>
 
@@ -781,11 +791,15 @@
 
                         <td> 
 
-                           2008  </td>
+   </td>
 
                         <td> 
 
-                           60 percent    </td>
+                    2008  </td>
+
+                        <td> 
+
+                    60 percent    </td>
 
   </tr>
 
@@ -793,11 +807,15 @@
 
                         <td> 
 
-                        2009  </td>
+   </td>
 
                         <td> 
 
-                            80 percent.  </td>
+                    2009  </td>
+
+                        <td> 
+
+                     80 percent.  </td>
 
   </tr>
 
@@ -901,97 +919,161 @@
 
                       <tr>
 
-                        <td> If the disposition occurs  </td>
+                        <td> 
 
-                        <td>    </td>
+   </td>
 
-  </tr>
+                        <td> 
 
-                      <tr>
+                    If the disposition occurs during a year after the testing date which is:  </td>
 
-                        <td>   during a year after the  </td>
+                        <td> 
 
-                        <td> The holding period  </td>
-
-  </tr>
-
-                      <tr>
-
-                        <td>   testing date which is:  </td>
-
-                        <td> percentage is:  </td>
+                    The holding period percentage is:  </td>
 
   </tr>
 
                       <tr>
 
-                        <td>   The 1st such year  </td>
+                        <td> 
 
-                        <td> 20      </td>
+   </td>
 
-  </tr>
+                        <td> 
 
-                      <tr>
+                    The 1st such year  </td>
 
-                        <td>   The 2d such year  </td>
+                        <td> 
 
-                        <td> 40      </td>
-
-  </tr>
-
-                      <tr>
-
-                        <td>   The 3d such year  </td>
-
-                        <td> 60      </td>
+                    20  </td>
 
   </tr>
 
                       <tr>
 
-                        <td>   The 4th such year  </td>
+                        <td> 
 
-                        <td> 80      </td>
+   </td>
 
-  </tr>
+                        <td> 
 
-                      <tr>
+                    The 2d such year  </td>
 
-                        <td>   The 5th such year  </td>
+                        <td> 
 
-                        <td> 100      </td>
-
-  </tr>
-
-                      <tr>
-
-                        <td>   The 6th such year  </td>
-
-                        <td> 80      </td>
+                    40  </td>
 
   </tr>
 
                       <tr>
 
-                        <td>   The 7th such year  </td>
+                        <td> 
 
-                        <td> 60      </td>
+   </td>
+
+                        <td> 
+
+                    The 3d such year  </td>
+
+                        <td> 
+
+                    60  </td>
 
   </tr>
 
                       <tr>
 
-                        <td>   The 8th such year  </td>
+                        <td> 
 
-                        <td> 40      </td>
+   </td>
+
+                        <td> 
+
+                    The 4th such year  </td>
+
+                        <td> 
+
+                    80  </td>
 
   </tr>
 
                       <tr>
 
-                        <td>   The 9th such year  </td>
+                        <td> 
 
-                        <td> 20.    </td>
+   </td>
+
+                        <td> 
+
+                    The 5th such year  </td>
+
+                        <td> 
+
+                    100  </td>
+
+  </tr>
+
+                      <tr>
+
+                        <td> 
+
+   </td>
+
+                        <td> 
+
+                    The 6th such year  </td>
+
+                        <td> 
+
+                    80  </td>
+
+  </tr>
+
+                      <tr>
+
+                        <td> 
+
+   </td>
+
+                        <td> 
+
+                    The 7th such year  </td>
+
+                        <td> 
+
+                    60  </td>
+
+  </tr>
+
+                      <tr>
+
+                        <td> 
+
+   </td>
+
+                        <td> 
+
+                    The 8th such year  </td>
+
+                        <td> 
+
+                    40  </td>
+
+  </tr>
+
+                      <tr>
+
+                        <td> 
+
+   </td>
+
+                        <td> 
+
+                    The 9th such year  </td>
+
+                        <td> 
+
+                    20.  </td>
 
   </tr>
 

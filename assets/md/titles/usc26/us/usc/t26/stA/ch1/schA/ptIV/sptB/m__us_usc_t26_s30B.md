@@ -73,153 +73,181 @@
 
                   <tr>
 
-                    <td>    </td>
+                    <td> 
 
-                    <td> The 2002  </td>
+                If vehicle inertia weight class is:  </td>
 
-  </tr>
+                    <td> 
 
-                  <tr>
-
-                    <td>    </td>
-
-                    <td> model year  </td>
+                The 2002 model year city fuel economy is:  </td>
 
   </tr>
 
                   <tr>
 
-                    <td>    </td>
+                    <td> 
 
-                    <td> city  </td>
+                1,500 or 1,750 lbs  </td>
 
-  </tr>
+                    <td> 
 
-                  <tr>
-
-                    <td> If vehicle inertia weight class is:  </td>
-
-                    <td> fuel economy  </td>
+                45.2 mpg  </td>
 
   </tr>
 
                   <tr>
 
-                    <td>    </td>
+                    <td> 
 
-                    <td> is:  </td>
+                2,000 lbs  </td>
 
-  </tr>
+                    <td> 
 
-                  <tr>
-
-                    <td>  1,500 or 1,750 lbs  </td>
-
-                    <td> 45.2 mpg    </td>
+                39.6 mpg  </td>
 
   </tr>
 
                   <tr>
 
-                    <td>  2,000 lbs  </td>
+                    <td> 
 
-                    <td> 39.6 mpg    </td>
+                 2,250 lbs  </td>
 
-  </tr>
+                    <td> 
 
-                  <tr>
-
-                    <td>  2,250 lbs  </td>
-
-                    <td> 35.2 mpg    </td>
+                35.2 mpg  </td>
 
   </tr>
 
                   <tr>
 
-                    <td>  2,500 lbs  </td>
+                    <td> 
 
-                    <td> 31.7 mpg    </td>
+                 2,500 lbs  </td>
 
-  </tr>
+                    <td> 
 
-                  <tr>
-
-                    <td>  2,750 lbs  </td>
-
-                    <td> 28.8 mpg    </td>
+                31.7 mpg  </td>
 
   </tr>
 
                   <tr>
 
-                    <td>  3,000 lbs  </td>
+                    <td> 
 
-                    <td> 26.4 mpg    </td>
+                 2,750 lbs  </td>
 
-  </tr>
+                    <td> 
 
-                  <tr>
-
-                    <td>  3,500 lbs  </td>
-
-                    <td> 22.6 mpg    </td>
+                28.8 mpg  </td>
 
   </tr>
 
                   <tr>
 
-                    <td>  4,000 lbs  </td>
+                    <td> 
 
-                    <td> 19.8 mpg    </td>
+                 3,000 lbs  </td>
 
-  </tr>
+                    <td> 
 
-                  <tr>
-
-                    <td>  4,500 lbs  </td>
-
-                    <td> 17.6 mpg    </td>
+                26.4 mpg  </td>
 
   </tr>
 
                   <tr>
 
-                    <td>  5,000 lbs  </td>
+                    <td> 
 
-                    <td> 15.9 mpg    </td>
+                 3,500 lbs  </td>
 
-  </tr>
+                    <td> 
 
-                  <tr>
-
-                    <td>  5,500 lbs  </td>
-
-                    <td> 14.4 mpg    </td>
+                22.6 mpg  </td>
 
   </tr>
 
                   <tr>
 
-                    <td>  6,000 lbs  </td>
+                    <td> 
 
-                    <td> 13.2 mpg    </td>
+                 4,000 lbs  </td>
 
-  </tr>
+                    <td> 
 
-                  <tr>
-
-                    <td>  6,500 lbs  </td>
-
-                    <td> 12.2 mpg    </td>
+                19.8 mpg  </td>
 
   </tr>
 
                   <tr>
 
-                    <td>  7,000 to 8,500 lbs  </td>
+                    <td> 
 
-                    <td> 11.3 mpg.    </td>
+                 4,500 lbs  </td>
+
+                    <td> 
+
+                17.6 mpg  </td>
+
+  </tr>
+
+                  <tr>
+
+                    <td> 
+
+                 5,000 lbs  </td>
+
+                    <td> 
+
+                15.9 mpg  </td>
+
+  </tr>
+
+                  <tr>
+
+                    <td> 
+
+                 5,500 lbs  </td>
+
+                    <td> 
+
+                14.4 mpg  </td>
+
+  </tr>
+
+                  <tr>
+
+                    <td> 
+
+                 6,000 lbs  </td>
+
+                    <td> 
+
+                13.2 mpg  </td>
+
+  </tr>
+
+                  <tr>
+
+                    <td> 
+
+                 6,500 lbs  </td>
+
+                    <td> 
+
+                12.2 mpg  </td>
+
+  </tr>
+
+                  <tr>
+
+                    <td> 
+
+                 7,000 to 8,500 lbs  </td>
+
+                    <td> 
+
+                11.3 mpg.  </td>
 
   </tr>
 
@@ -231,153 +259,181 @@
 
                   <tr>
 
-                    <td>    </td>
+                    <td> 
 
-                    <td> The 2002  </td>
+                If vehicle inertia weight class is:  </td>
 
-  </tr>
+                    <td> 
 
-                  <tr>
-
-                    <td>    </td>
-
-                    <td> model year  </td>
+                The 2002 model year city fuel economy is:  </td>
 
   </tr>
 
                   <tr>
 
-                    <td>    </td>
+                    <td> 
 
-                    <td> city  </td>
+                1,500 or 1,750 lbs  </td>
 
-  </tr>
+                    <td> 
 
-                  <tr>
-
-                    <td> If vehicle inertia weight class is:  </td>
-
-                    <td> fuel economy  </td>
+                39.4 mpg  </td>
 
   </tr>
 
                   <tr>
 
-                    <td>    </td>
+                    <td> 
 
-                    <td> is:  </td>
+                2,000 lbs  </td>
 
-  </tr>
+                    <td> 
 
-                  <tr>
-
-                    <td>  1,500 or 1,750 lbs  </td>
-
-                    <td> 39.4 mpg    </td>
+                35.2 mpg  </td>
 
   </tr>
 
                   <tr>
 
-                    <td>  2,000 lbs  </td>
+                    <td> 
 
-                    <td> 35.2 mpg    </td>
+                2,250 lbs  </td>
 
-  </tr>
+                    <td> 
 
-                  <tr>
-
-                    <td>  2,250 lbs  </td>
-
-                    <td> 31.8 mpg    </td>
+                31.8 mpg  </td>
 
   </tr>
 
                   <tr>
 
-                    <td>  2,500 lbs  </td>
+                    <td> 
 
-                    <td> 29.0 mpg    </td>
+                2,500 lbs  </td>
 
-  </tr>
+                    <td> 
 
-                  <tr>
-
-                    <td>  2,750 lbs  </td>
-
-                    <td> 26.8 mpg    </td>
+                29.0 mpg  </td>
 
   </tr>
 
                   <tr>
 
-                    <td>  3,000 lbs  </td>
+                    <td> 
 
-                    <td> 24.9 mpg    </td>
+                2,750 lbs  </td>
 
-  </tr>
+                    <td> 
 
-                  <tr>
-
-                    <td>  3,500 lbs  </td>
-
-                    <td> 21.8 mpg    </td>
+                26.8 mpg  </td>
 
   </tr>
 
                   <tr>
 
-                    <td>  4,000 lbs  </td>
+                    <td> 
 
-                    <td> 19.4 mpg    </td>
+                3,000 lbs  </td>
 
-  </tr>
+                    <td> 
 
-                  <tr>
-
-                    <td>  4,500 lbs  </td>
-
-                    <td> 17.6 mpg    </td>
+                24.9 mpg  </td>
 
   </tr>
 
                   <tr>
 
-                    <td>  5,000 lbs  </td>
+                    <td> 
 
-                    <td> 16.1 mpg    </td>
+                3,500 lbs  </td>
 
-  </tr>
+                    <td> 
 
-                  <tr>
-
-                    <td>  5,500 lbs  </td>
-
-                    <td> 14.8 mpg    </td>
+                21.8 mpg  </td>
 
   </tr>
 
                   <tr>
 
-                    <td>  6,000 lbs  </td>
+                    <td> 
 
-                    <td> 13.7 mpg    </td>
+                4,000 lbs  </td>
 
-  </tr>
+                    <td> 
 
-                  <tr>
-
-                    <td>  6,500 lbs  </td>
-
-                    <td> 12.8 mpg    </td>
+                19.4 mpg  </td>
 
   </tr>
 
                   <tr>
 
-                    <td>  7,000 to 8,500 lbs  </td>
+                    <td> 
 
-                    <td> 12.1 mpg.    </td>
+                4,500 lbs  </td>
+
+                    <td> 
+
+                17.6 mpg  </td>
+
+  </tr>
+
+                  <tr>
+
+                    <td> 
+
+                5,000 lbs  </td>
+
+                    <td> 
+
+                16.1 mpg  </td>
+
+  </tr>
+
+                  <tr>
+
+                    <td> 
+
+                5,500 lbs  </td>
+
+                    <td> 
+
+                14.8 mpg  </td>
+
+  </tr>
+
+                  <tr>
+
+                    <td> 
+
+                6,000 lbs  </td>
+
+                    <td> 
+
+                13.7 mpg  </td>
+
+  </tr>
+
+                  <tr>
+
+                    <td> 
+
+                6,500 lbs  </td>
+
+                    <td> 
+
+                12.8 mpg  </td>
+
+  </tr>
+
+                  <tr>
+
+                    <td> 
+
+                7,000 to 8,500 lbs  </td>
+
+                    <td> 
+
+                12.1 mpg.  </td>
 
   </tr>
 

@@ -111,63 +111,73 @@
 
               <tr>
 
-                <td>   In the case of an individual  </td>
+                <td> 
+
+            In the case of an individual with an attained age before the close of the taxable year of:  </td>
+
+                <td> 
+
+            The limitation is:  </td>
 
   </tr>
 
               <tr>
 
-                <td>    with an attained age before the  </td>
+                <td> 
 
-                <td> The limitation  </td>
+            40 or less  </td>
 
-  </tr>
+                <td> 
 
-              <tr>
-
-                <td>    close of the taxable year of:  </td>
-
-                <td> is:     </td>
+            $  200    </td>
 
   </tr>
 
               <tr>
 
-                <td>  40 or less  </td>
+                <td> 
 
-                <td> $ 200     </td>
+            More than 40 but not more than 50  </td>
 
-  </tr>
+                <td> 
 
-              <tr>
-
-                <td>  More than 40 but not more than 50  </td>
-
-                <td> 375     </td>
+            375    </td>
 
   </tr>
 
               <tr>
 
-                <td>  More than 50 but not more than 60  </td>
+                <td> 
 
-                <td> 750     </td>
+            More than 50 but not more than 60  </td>
 
-  </tr>
+                <td> 
 
-              <tr>
-
-                <td>  More than 60 but not more than 70  </td>
-
-                <td> 2,000     </td>
+            750    </td>
 
   </tr>
 
               <tr>
 
-                <td>  More than 70  </td>
+                <td> 
 
-                <td> 2,500 .  </td>
+            More than 60 but not more than 70  </td>
+
+                <td> 
+
+            2,000    </td>
+
+  </tr>
+
+              <tr>
+
+                <td> 
+
+             More than 70  </td>
+
+                <td> 
+
+            2,500.  </td>
 
   </tr>
 

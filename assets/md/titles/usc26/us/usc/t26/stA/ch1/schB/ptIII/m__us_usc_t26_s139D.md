@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../../../..//us/usc/t26/stA/ch1/schB/ptIII/m__us_usc_t26_s139C.md) | [Next](./../../../../../../..//us/usc/t26/stA/ch1/schB/ptIII/m__us_usc_t26_s140.md) | [Root of Title](./../../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs139D)
+[Previous](./../../../../../../..//us/usc/t26/stA/ch1/schB/ptIII/m__us_usc_t26_s139C.md) | [Next](./../../../../../../..//us/usc/t26/stA/ch1/schB/ptIII/m__us_usc_t26_s139E.md) | [Root of Title](./../../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs139D)
 
 ## § 139D. Indian health care benefits
 
@@ -59,7 +59,7 @@
 
         Subsection (a) shall not apply to the amount of any qualified Indian health care benefit which is not includible in gross income of the beneficiary of such benefit under any other provision of this chapter, or to the amount of any such benefit for which a deduction is allowed to such beneficiary under any other provision of this chapter.
 
-([Pub. L. 111–148, title IX, § 9021(a)][/us/pl/111/148/s9021/a], Mar. 23, 2010, [124 Stat. 873][/us/stat/124/873].)
+(Added [Pub. L. 111–148, title IX, § 9021(a)][/us/pl/111/148/s9021/a], Mar. 23, 2010, [124 Stat. 873][/us/stat/124/873].)
 
  __References in Text__ 
 
@@ -87,7 +87,7 @@
 
 ----------
 
-[Previous](./../../../../../../..//us/usc/t26/stA/ch1/schB/ptIII/m__us_usc_t26_s139C.md) | [Next](./../../../../../../..//us/usc/t26/stA/ch1/schB/ptIII/m__us_usc_t26_s140.md) | [Root of Title](./../../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs139D)
+[Previous](./../../../../../../..//us/usc/t26/stA/ch1/schB/ptIII/m__us_usc_t26_s139C.md) | [Next](./../../../../../../..//us/usc/t26/stA/ch1/schB/ptIII/m__us_usc_t26_s139E.md) | [Root of Title](./../../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs139D)
 
 ----------
 ----------

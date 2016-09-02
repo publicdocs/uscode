@@ -29,49 +29,61 @@
 
               <tr>
 
-                <td>  In the case of taxable years  </td>
+                <td> 
 
-                <td> The dollar  </td>
+            In the case of taxable years beginning in:  </td>
 
-  </tr>
+                <td> 
 
-              <tr>
-
-                <td>   beginning in:  </td>
-
-                <td> amount is:  </td>
+            The dollar amount is:  </td>
 
   </tr>
 
               <tr>
 
-                <td>  1998  </td>
+                <td> 
 
-                <td> $1,000    </td>
+            1998  </td>
 
-  </tr>
+                <td> 
 
-              <tr>
-
-                <td>  1999  </td>
-
-                <td> $1,500    </td>
+            $1,000  </td>
 
   </tr>
 
               <tr>
 
-                <td>  2000  </td>
+                <td> 
 
-                <td> $2,000    </td>
+            1999  </td>
+
+                <td> 
+
+            $1,500  </td>
 
   </tr>
 
               <tr>
 
-                <td>  2001 or thereafter  </td>
+                <td> 
 
-                <td> $2,500.  </td>
+            2000  </td>
+
+                <td> 
+
+            $2,000  </td>
+
+  </tr>
+
+              <tr>
+
+                <td> 
+
+            2001 or thereafter  </td>
+
+                <td> 
+
+            $2,500.  </td>
 
   </tr>
 

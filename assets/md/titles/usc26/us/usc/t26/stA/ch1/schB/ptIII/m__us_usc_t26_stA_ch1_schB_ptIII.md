@@ -369,6 +369,14 @@
 
   <tr>
 
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs139E" data-uslm-ref="/us/usc/t26/s139E">139E.</a>  </td>
+
+    <td> Indian general welfare benefits.  </td>
+
+  </tr>
+
+  <tr>
+
     <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs140" data-uslm-ref="/us/usc/t26/s140">140.</a>  </td>
 
     <td> Cross references to other Acts.  </td>
@@ -378,6 +386,8 @@
 </table>
 
  __Amendments__ 
+
+    2014—[Pub. L. 113–168, § 2(b)][/us/pl/113/168/s2/b], Sept. 26, 2014, [128 Stat. 1884][/us/stat/128/1884], added item 139E.
 
     2011—[Pub. L. 112–10, div. B, title VIII, § 1858(b)(2)(B)][/us/pl/112/10/s1858/b/2/B], Apr. 15, 2011, [125 Stat. 168][/us/stat/125/168], struck out item 139D “Free choice vouchers”.
 
@@ -496,6 +506,8 @@
 ----------
 ----------
 
+[/us/pl/113/168/s2/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F168%2Fs2%2Fb
+[/us/stat/128/1884]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1884
 [/us/pl/112/10/s1858/b/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F10%2Fs1858%2Fb%2F2%2FB
 [/us/stat/125/168]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F168
 [/us/pl/111/148/s10108/f/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs10108%2Ff%2F2
