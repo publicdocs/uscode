@@ -97,7 +97,7 @@
 
             (E) the absence of information about physical characteristics of holders of those certificates.
 
-        (2) The Administrator of the Federal Aviation Administration shall prescribe regulations to carry out paragraph (1) of this subsection and provide a written explanation of how the regulations address each of the deficiencies and abuses described in paragraph (1). In prescribing the regulations, the Administrator of the Federal Aviation Administration shall consult with the Administrator of Drug Enforcement, the Commissioner of Customs, other law enforcement officials of the United States Government, representatives of State and local law enforcement officials, representatives of the general aviation aircraft industry, representatives of users of general aviation aircraft, and other interested persons.
+        (2) The Administrator of the Federal Aviation Administration shall prescribe regulations to carry out paragraph (1) of this subsection and provide a written explanation of how the regulations address each of the deficiencies and abuses described in paragraph (1). In prescribing the regulations, the Administrator of the Federal Aviation Administration shall consult with the Administrator of Drug Enforcement, the Commissioner of U.S. Customs and Border Protection, other law enforcement officials of the United States Government, representatives of State and local law enforcement officials, representatives of the general aviation aircraft industry, representatives of users of general aviation aircraft, and other interested persons.
 
         (3) For purposes of this section, the term “acts of terrorism” means an activity that involves a violent act or an act dangerous to human life that is a violation of the criminal laws of the United States or of any State, or that would be a criminal violation if committed within the jurisdiction of the United States or of any State, and appears to be intended to intimidate or coerce a civilian population to influence the policy of a government by intimidation or coercion or to affect the conduct of a government by assassination or kidnaping.
 
@@ -511,7 +511,7 @@
 
     Nothing in subsection (h) or (i) shall be construed as precluding the availability of the records of a pilot in an investigation or other proceeding concerning an accident or incident conducted by the Administrator, the National Transportation Safety Board, or a court.
 
-([Pub. L. 103–272][/us/pl/103/272], § 1(e), July 5, 1994, [108 Stat. 1186][/us/stat/108/1186]; [Pub. L. 106–181, title VII][/us/pl/106/181/tVII], § 715, Apr. 5, 2000, [114 Stat. 162][/us/stat/114/162]; [Pub. L. 107–71, title I][/us/pl/107/71/tI], §§ 129, 138(b), 140(a), Nov. 19, 2001, [115 Stat. 633][/us/stat/115/633], 640, 641; [Pub. L. 111–216, title II][/us/pl/111/216/tII], § 203, Aug. 1, 2010, [124 Stat. 2352][/us/stat/124/2352]; [Pub. L. 111–249][/us/pl/111/249], § 6(3), (4), Sept. 30, 2010, [124 Stat. 2629][/us/stat/124/2629]; [Pub. L. 112–95, title III][/us/pl/112/95/tIII], §§ 301(a), 310(c), Feb. 14, 2012, [126 Stat. 56][/us/stat/126/56], 65; [Pub. L. 112–153][/us/pl/112/153], § 2(c)(1), Aug. 3, 2012, [126 Stat. 1160][/us/stat/126/1160].)
+([Pub. L. 103–272][/us/pl/103/272], § 1(e), July 5, 1994, [108 Stat. 1186][/us/stat/108/1186]; [Pub. L. 106–181, title VII][/us/pl/106/181/tVII], § 715, Apr. 5, 2000, [114 Stat. 162][/us/stat/114/162]; [Pub. L. 107–71, title I][/us/pl/107/71/tI], §§ 129, 138(b), 140(a), Nov. 19, 2001, [115 Stat. 633][/us/stat/115/633], 640, 641; [Pub. L. 111–216, title II][/us/pl/111/216/tII], § 203, Aug. 1, 2010, [124 Stat. 2352][/us/stat/124/2352]; [Pub. L. 111–249][/us/pl/111/249], § 6(3), (4), Sept. 30, 2010, [124 Stat. 2629][/us/stat/124/2629]; [Pub. L. 112–95, title III][/us/pl/112/95/tIII], §§ 301(a), 310(c), Feb. 14, 2012, [126 Stat. 56][/us/stat/126/56], 65; [Pub. L. 112–153][/us/pl/112/153], § 2(c)(1), Aug. 3, 2012, [126 Stat. 1160][/us/stat/126/1160]; [Pub. L. 114–125, title VIII][/us/pl/114/125/tVIII], § 802(d)(2), Feb. 24, 2016, [130 Stat. 210][/us/stat/130/210].)
 
 <table>
 
@@ -804,6 +804,10 @@ In subsections (a)–(d), the word “Administrator” in section 602(a), (b)(1)
     Subsecs. (h) to (j). [Pub. L. 107–71][/us/pl/107/71], §§ 138(b), 140(a), amended section identically, redesignating subsecs. (f) to (h) of [section 44936 of this title][/us/usc/t49/s44936] as subsecs. (h) to (j), respectively, of this section, and substituting “subsection (h)” for “subsection (f)” wherever appearing in subsecs. (i) and (j). See Codification note above.
 
     2000—Subsecs. (c) to (g). [Pub. L. 106–181][/us/pl/106/181] added subsec. (c) and redesignated former subsecs. (c) to (f) as (d) to (g), respectively.
+
+ __Change of Name__ 
+
+    “Commissioner of U.S. Customs and Border Protection” substituted for “Commissioner of Customs” in subsec. (g)(2) on authority of [section 802(d)(2) of Pub. L. 114–125][/us/pl/114/125/s802/d/2], set out as a note under [section 211 of Title 6][/us/usc/t6/s211], Domestic Security.
 
  __Effective Date of 2010 Amendment__ 
 
@@ -1110,6 +1114,8 @@ In subsections (a)–(d), the word “Administrator” in section 602(a), (b)(1)
 [/us/stat/126/56]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F56
 [/us/pl/112/153]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F153
 [/us/stat/126/1160]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1160
+[/us/pl/114/125/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F125%2FtVIII
+[/us/stat/130/210]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F130%2F210
 [/us/pl/85/726]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F726
 [/us/stat/72/776]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F776
 [/us/stat/87/1092]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F1092
@@ -1153,6 +1159,8 @@ In subsections (a)–(d), the word “Administrator” in section 602(a), (b)(1)
 [/us/pl/107/71]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F71
 [/us/usc/t49/s44936]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs44936
 [/us/pl/106/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181
+[/us/pl/114/125/s802/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F125%2Fs802%2Fd%2F2
+[/us/usc/t6/s211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs211
 [/us/pl/111/249]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F249
 [/us/stat/124/2628]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2628
 [/us/pl/111/249/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F249%2Fs6

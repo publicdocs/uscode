@@ -45,7 +45,7 @@
 
         (1)  __In general__  __.—__ 
 
-        Not later than 60 days after the date of enactment of the Aviation and Transportation Security Act, each air carrier and foreign air carrier operating a passenger flight in foreign air transportation to the United States shall provide to the Commissioner of Customs by electronic transmission a passenger and crew manifest containing the information specified in paragraph (2). Carriers may use the advanced passenger information system established under section 431 of the Tariff Act of 1930 ([19 U.S.C. 1431][/us/usc/t19/s1431]) to provide the information required by the preceding sentence.
+        Not later than 60 days after the date of enactment of the Aviation and Transportation Security Act, each air carrier and foreign air carrier operating a passenger flight in foreign air transportation to the United States shall provide to the Commissioner of U.S. Customs and Border Protection by electronic transmission a passenger and crew manifest containing the information specified in paragraph (2). Carriers may use the advanced passenger information system established under section 431 of the Tariff Act of 1930 ([19 U.S.C. 1431][/us/usc/t19/s1431]) to provide the information required by the preceding sentence.
 
         (2)  __Information__  __.—__ 
 
@@ -61,7 +61,7 @@
 
             (E) The United States visa number or resident alien card number of each passenger and crew member, as applicable.
 
-            (F) Such other information as the Under Secretary, in consultation with the Commissioner of Customs, determines is reasonably necessary to ensure aviation safety.
+            (F) Such other information as the Under Secretary, in consultation with the Commissioner of U.S. Customs and Border Protection, determines is reasonably necessary to ensure aviation safety.
 
         (3)  __Passenger name records__  __.—__ 
 
@@ -91,7 +91,7 @@
 
                 The process shall include the establishment of a method by which the Secretary will be able to maintain a record of air passengers and other individuals who have been misidentified and have corrected erroneous information. To prevent repeated delays of misidentified passengers and other individuals, the Department of Homeland Security record shall contain information determined by the Secretary to authenticate the identity of such a passenger or individual.
 
-([Pub. L. 103–272][/us/pl/103/272], § 1(e), July 5, 1994, [108 Stat. 1211][/us/stat/108/1211]; [Pub. L. 106–181, title VII][/us/pl/106/181/tVII], § 718, Apr. 5, 2000, [114 Stat. 163][/us/stat/114/163]; [Pub. L. 107–71, title I][/us/pl/107/71/tI], § 115, Nov. 19, 2001, [115 Stat. 623][/us/stat/115/623]; [Pub. L. 108–458, title IV][/us/pl/108/458/tIV], § 4012(a)(2), Dec. 17, 2004, [118 Stat. 3717][/us/stat/118/3717].)
+([Pub. L. 103–272][/us/pl/103/272], § 1(e), July 5, 1994, [108 Stat. 1211][/us/stat/108/1211]; [Pub. L. 106–181, title VII][/us/pl/106/181/tVII], § 718, Apr. 5, 2000, [114 Stat. 163][/us/stat/114/163]; [Pub. L. 107–71, title I][/us/pl/107/71/tI], § 115, Nov. 19, 2001, [115 Stat. 623][/us/stat/115/623]; [Pub. L. 108–458, title IV][/us/pl/108/458/tIV], § 4012(a)(2), Dec. 17, 2004, [118 Stat. 3717][/us/stat/118/3717]; [Pub. L. 114–125, title VIII][/us/pl/114/125/tVIII], § 802(d)(2), Feb. 24, 2016, [130 Stat. 210][/us/stat/130/210].)
 
 <table>
 
@@ -209,6 +209,10 @@ Nov. 16, 1990, Pub. L. 101–604, § 203(c), 104 Stat. 3083.  </td>
 
     2000—Subsec. (a)(2). [Pub. L. 106–181][/us/pl/106/181] substituted “should” for “shall” in introductory provisions.
 
+ __Change of Name__ 
+
+    “Commissioner of U.S. Customs and Border Protection” substituted for “Commissioner of Customs” in subsec. (c)(1) and (2)(F) on authority of [section 802(d)(2) of Pub. L. 114–125][/us/pl/114/125/s802/d/2], set out as a note under [section 211 of Title 6][/us/usc/t6/s211], Domestic Security.
+
  __Effective Date of 2000 Amendment__ 
 
     Amendment by [Pub. L. 106–181][/us/pl/106/181] applicable only to fiscal years beginning after Sept. 30, 1999, see [section 3 of Pub. L. 106–181][/us/pl/106/181/s3], set out as a note under [section 106 of this title][/us/usc/t49/s106].
@@ -235,12 +239,16 @@ Nov. 16, 1990, Pub. L. 101–604, § 203(c), 104 Stat. 3083.  </td>
 [/us/stat/115/623]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F623
 [/us/pl/108/458/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2FtIV
 [/us/stat/118/3717]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F3717
+[/us/pl/114/125/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F125%2FtVIII
+[/us/stat/130/210]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F130%2F210
 [/us/pl/107/71]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F71
 [/us/pl/108/458]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458
 [/us/pl/108/458]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458
 [/us/pl/108/458]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458
 [/us/pl/107/71]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F71
 [/us/pl/106/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181
+[/us/pl/114/125/s802/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F125%2Fs802%2Fd%2F2
+[/us/usc/t6/s211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs211
 [/us/pl/106/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181
 [/us/pl/106/181/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F181%2Fs3
 [/us/usc/t49/s106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs106

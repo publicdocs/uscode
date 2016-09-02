@@ -85,7 +85,11 @@
 
             In this paragraph, the term “aviation security preclearance agreement” means an agreement that delineates and implements security standards and protocols that are determined by the Assistant Secretary, in coordination with U.S. Customs and Border Protection, to be comparable to those of the United States and therefore sufficiently effective to enable passengers to deplane into sterile areas of airports in the United States.
 
-            (C)  __Report__  __.—__ 
+            (C)  __Rescreening requirement__  __.—__ 
+
+            If the Administrator of the Transportation Security Administration determines that the government of a foreign country has not maintained security standards and protocols comparable to those of the United States at airports at which preclearance operations have been established in accordance with this paragraph, the Administrator shall ensure that Transportation Security Administration personnel rescreen passengers arriving from such airports and their property in the United States before such passengers are permitted into sterile areas of airports in the United States.
+
+            (D)  __Report__  __.—__ 
 
             The Assistant Secretary shall submit to the Committee on Homeland Security of the House of Representatives, the Committee on Commerce, Science, and Transportation of the Senate, and the Committee on Homeland Security and Governmental Affairs of the Senate an annual report on the re-screening of baggage under this paragraph. Each such report shall include the following for the year covered by the report:
 
@@ -293,7 +297,7 @@
 
             To the greatest extent practicable, a report prepared under subparagraph (A) shall be submitted in an unclassified format. If necessary, the report may include a classified annex.
 
-([Pub. L. 103–272][/us/pl/103/272], § 1(e), July 5, 1994, [108 Stat. 1204][/us/stat/108/1204]; [Pub. L. 107–71, title I][/us/pl/107/71/tI], §§ 101(f)(7), 110(b), Nov. 19, 2001, [115 Stat. 603][/us/stat/115/603], 614; [Pub. L. 107–296, title IV][/us/pl/107/296/tIV], § 425, Nov. 25, 2002, [116 Stat. 2185][/us/stat/116/2185]; [Pub. L. 110–53, title XVI][/us/pl/110/53/tXVI], §§ 1602(a), 1609, 1617, Aug. 3, 2007, [121 Stat. 477][/us/stat/121/477], 484, 488; [Pub. L. 112–95, title VIII][/us/pl/112/95/tVIII], § 826, Feb. 14, 2012, [126 Stat. 132][/us/stat/126/132]; [Pub. L. 112–218][/us/pl/112/218], § 2, Dec. 20, 2012, [126 Stat. 1593][/us/stat/126/1593].)
+([Pub. L. 103–272][/us/pl/103/272], § 1(e), July 5, 1994, [108 Stat. 1204][/us/stat/108/1204]; [Pub. L. 107–71, title I][/us/pl/107/71/tI], §§ 101(f)(7), 110(b), Nov. 19, 2001, [115 Stat. 603][/us/stat/115/603], 614; [Pub. L. 107–296, title IV][/us/pl/107/296/tIV], § 425, Nov. 25, 2002, [116 Stat. 2185][/us/stat/116/2185]; [Pub. L. 110–53, title XVI][/us/pl/110/53/tXVI], §§ 1602(a), 1609, 1617, Aug. 3, 2007, [121 Stat. 477][/us/stat/121/477], 484, 488; [Pub. L. 112–95, title VIII][/us/pl/112/95/tVIII], § 826, Feb. 14, 2012, [126 Stat. 132][/us/stat/126/132]; [Pub. L. 112–218][/us/pl/112/218], § 2, Dec. 20, 2012, [126 Stat. 1593][/us/stat/126/1593]; [Pub. L. 114–125, title VIII][/us/pl/114/125/tVIII], § 815, Feb. 24, 2016, [130 Stat. 220][/us/stat/130/220].)
 
 <table>
 
@@ -404,6 +408,8 @@ Aug. 23, 1958, Pub. L. 85–726, 72 Stat. 731, § 315(c); added Aug. 5, 1974, 
     Subsection (b) of section 1602 of the Implementing Recommendations of the 9/11 Commission Act of 2007, referred to in subsec. (g)(5), is [section 1602(b) of Pub. L. 110–53][/us/pl/110/53/s1602/b], title XVI, Aug. 3, 2007, [121 Stat. 479][/us/stat/121/479], which is not classified to the Code.
 
  __Amendments__ 
+
+    2016—Subsec. (d)(4)(C), (D). [Pub. L. 114–125][/us/pl/114/125] added subpar. (C) and redesignated former subpar. (C) as (D).
 
     2012—Subsec. (d). [Pub. L. 112–218][/us/pl/112/218], § 2(b), which directed substitution of “explosives” for “explosive” wherever appearing in this section, was executed in subsec. (d) by making such substitution wherever appearing in text as well as by substituting “Explosives” for “Explosive” in heading, to reflect the probable intent of Congress.
 
@@ -879,11 +885,14 @@ Aug. 23, 1958, Pub. L. 85–726, 72 Stat. 731, § 315(c); added Aug. 5, 1974, 
 [/us/stat/126/132]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F132
 [/us/pl/112/218]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F218
 [/us/stat/126/1593]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1593
+[/us/pl/114/125/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F125%2FtVIII
+[/us/stat/130/220]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F130%2F220
 [/us/pl/107/71]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F71
 [/us/pl/107/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296
 [/us/pl/110/53]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53
 [/us/pl/110/53/s1602/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53%2Fs1602%2Fb
 [/us/stat/121/479]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F479
+[/us/pl/114/125]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F125
 [/us/pl/112/218]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F218
 [/us/pl/112/218]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F218
 [/us/pl/112/218]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F218

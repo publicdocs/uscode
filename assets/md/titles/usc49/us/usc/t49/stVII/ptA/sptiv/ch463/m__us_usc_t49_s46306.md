@@ -71,7 +71,7 @@
 
     (d)  __Seizure and Forfeiture__  __.—__ 
 
-        (1) The Administrator of Drug Enforcement or the Commissioner of Customs may seize and forfeit under the customs laws an aircraft whose use is related to a violation of subsection (b) of this section, or to aid or facilitate a violation, regardless of whether a person is charged with the violation.
+        (1) The Administrator of Drug Enforcement or the Commissioner of U.S. Customs and Border Protection may seize and forfeit under the customs laws an aircraft whose use is related to a violation of subsection (b) of this section, or to aid or facilitate a violation, regardless of whether a person is charged with the violation.
 
         (2)
 
@@ -121,7 +121,7 @@
 
             (C) making or using a false document knowing it contains a false, fictitious, or fraudulent statement or entry.
 
-([Pub. L. 103–272][/us/pl/103/272], § 1(e), July 5, 1994, [108 Stat. 1235][/us/stat/108/1235]; [Pub. L. 104–287][/us/pl/104/287], § 5(78), Oct. 11, 1996, [110 Stat. 3397][/us/stat/110/3397].)
+([Pub. L. 103–272][/us/pl/103/272], § 1(e), July 5, 1994, [108 Stat. 1235][/us/stat/108/1235]; [Pub. L. 104–287][/us/pl/104/287], § 5(78), Oct. 11, 1996, [110 Stat. 3397][/us/stat/110/3397]; [Pub. L. 114–125, title VIII][/us/pl/114/125/tVIII], § 802(d)(2), Feb. 24, 2016, [130 Stat. 210][/us/stat/130/210].)
 
 <table>
 
@@ -287,6 +287,10 @@ In subsections (b)(9), (d), and (e), the word “Administrator” in section 902
 
     1996—Subsec. (c)(2)(B). [Pub. L. 104–287][/us/pl/104/287] inserted “that is” before “provided”.
 
+ __Change of Name__ 
+
+    “Commissioner of U.S. Customs and Border Protection” substituted for “Commissioner of Customs” in subsec. (d)(1) on authority of [section 802(d)(2) of Pub. L. 114–125][/us/pl/114/125/s802/d/2], set out as a note under [section 211 of Title 6][/us/usc/t6/s211], Domestic Security.
+
  __Effective Date of 1996 Amendment__ 
 
     Amendment by [Pub. L. 104–287][/us/pl/104/287] effective July 5, 1994, see [section 8(1) of Pub. L. 104–287][/us/pl/104/287/s8/1], set out as a note under [section 5303 of this title][/us/usc/t49/s5303].
@@ -312,11 +316,15 @@ In subsections (b)(9), (d), and (e), the word “Administrator” in section 902
 [/us/stat/108/1235]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1235
 [/us/pl/104/287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F287
 [/us/stat/110/3397]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3397
+[/us/pl/114/125/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F125%2FtVIII
+[/us/stat/130/210]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F130%2F210
 [/us/pl/85/726]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F726
 [/us/stat/72/784]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F784
 [/us/stat/87/1092]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F1092
 [/us/pl/104/287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F287
 [/us/pl/104/287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F287
+[/us/pl/114/125/s802/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F125%2Fs802%2Fd%2F2
+[/us/usc/t6/s211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs211
 [/us/pl/104/287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F287
 [/us/pl/104/287/s8/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F287%2Fs8%2F1
 [/us/usc/t49/s5303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs5303
