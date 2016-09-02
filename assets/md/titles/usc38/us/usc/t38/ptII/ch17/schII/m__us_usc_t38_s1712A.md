@@ -609,7 +609,7 @@
 
 >     The Secretary shall carry out the pilot program at not fewer than three locations selected by the Secretary for purposes of the pilot program.
 
->     (d)  __Termination__  __.—__ 
+>     “(d)  __Termination__  __.—__ 
 
 >     The authority to carry out a pilot program under this section shall terminate on December 31, 2015.
 

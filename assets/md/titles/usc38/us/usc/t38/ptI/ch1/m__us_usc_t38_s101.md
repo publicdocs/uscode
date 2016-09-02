@@ -437,6 +437,10 @@
 
  __Short Title of 2015 Amendment__ 
 
+[Pub. L. 114–41, title IV, § 4001][/us/pl/114/41/s4001], July 31, 2015, [129 Stat. 460][/us/stat/129/460], provided that: 
+
+> “This title \[amending sections 223 and 4980H of Title 26, Internal Revenue Code, enacting provisions set out as notes under [section 1701 of this title][/us/usc/t38/s1701] and sections 223 and 4980H of Title 26, and amending provisions set out as a note under [section 1701 of this title][/us/usc/t38/s1701]\] may be cited as the ‘VA Budget and Choice Improvement Act’.”
+
 [Pub. L. 114–31, § 1][/us/pl/114/31/s1], July 20, 2015, [129 Stat. 428][/us/stat/129/428], provided that: 
 
 > “This Act \[enacting [section 5706 of this title][/us/usc/t38/s5706] and provisions set out as notes under [section 5706 of this title][/us/usc/t38/s5706]\] may be cited as the ‘Veterans Identification Card Act 2015’.”
@@ -1564,6 +1568,10 @@
 [/us/pl/89/311]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F311
 [/us/pl/89/311/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F311%2Fs9
 [/us/usc/t38/s1114]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs1114
+[/us/pl/114/41/s4001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F41%2Fs4001
+[/us/stat/129/460]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F460
+[/us/usc/t38/s1701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs1701
+[/us/usc/t38/s1701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs1701
 [/us/pl/114/31/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F31%2Fs1
 [/us/stat/129/428]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F428
 [/us/usc/t38/s5706]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs5706

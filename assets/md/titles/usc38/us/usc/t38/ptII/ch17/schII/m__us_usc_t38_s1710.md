@@ -721,7 +721,7 @@
 
 >     The Secretary shall carry out the pilot program in no fewer than three Veterans Integrated Service Networks selected by the Secretary for purposes of the pilot program.
 
->     (e)  __Termination__  __.—__ 
+>     “(e)  __Termination__  __.—__ 
 
 >     The authority to carry out a pilot program under this section shall terminate on December 31, 2015.
 

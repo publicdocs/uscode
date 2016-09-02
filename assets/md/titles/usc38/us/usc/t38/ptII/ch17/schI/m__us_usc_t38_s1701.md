@@ -281,9 +281,57 @@
 
 > “The provisions of this Act \[see Tables for classification\] shall become effective the first day of the first calendar month following the date of enactment \[Aug. 2, 1973\], except that sections 105 and 106 \[amending section 626 \[now 1726\] of this title and enacting section 628 \[now 1728\] of this title\] shall be effective on January 1, 1971; section 107 \[enacting sections 631 and 632 \[now 1731 and 1732\] of this title and provisions set out as note under [section 1732 of this title][/us/usc/t38/s1732]\] shall be effective July 1, 1973; and section 203 \[amending former [section 4107 of this title][/us/usc/t38/s4107]\] shall become effective beginning the first pay period following thirty days after the date of enactment of this Act \[Aug. 2, 1973\].”
 
+ __Funding Account for Non-Department Care__ 
+
+[Pub. L. 114–41, title IV, § 4003][/us/pl/114/41/s4003], July 31, 2015, [129 Stat. 462][/us/stat/129/462], provided that: 
+
+> “Each budget of the President submitted to Congress under [section 1105 of title 31][/us/usc/t31/s1105], United States Code, for fiscal year 2017 and each fiscal year thereafter shall include an appropriations account for non-Department provider programs (as defined in section 2(d) \[probably means [section 4002(d) of Pub. L. 114–41][/us/pl/114/41/s4002/d], [129 Stat. 462][/us/stat/129/462]\]) to be comprised of—
+
+>     “(1) discretionary medical services funding that is designated for hospital care and medical services furnished at non-Department facilities; and
+
+>     “(2) any funds transferred for such purpose from the Veterans Choice Fund established by section 802 of the Veterans Access, Choice, and Accountability Act of 2014 ([Public Law 113–146][/us/pl/113/146]; [128 Stat. 1802][/us/stat/128/1802]) \[set out below\].”
+
+ __Limitation on Dialysis Pilot Program__ 
+
+[Pub. L. 114–41, title IV, § 4006][/us/pl/114/41/s4006], July 31, 2015, [129 Stat. 465][/us/stat/129/465], provided that:
+
+>     “(a)  __Limitation__  __.—__ 
+
+>     None of the funds authorized to be appropriated or otherwise made available to the Secretary of Veterans Affairs may be used to expand the dialysis pilot program or to create any new dialysis capability provided by the Department in a facility that is not an initial facility under the dialysis pilot program until—
+
+>         “(1) an independent analysis of the dialysis pilot program is conducted for each such initial facility;
+
+>         “(2) the Secretary submits to the appropriate congressional committees the report under subsection (b); and
+
+>         “(3) a period of 180 days has elapsed following the date on which the Secretary submits such report.
+
+>     “(b)  __Report__  __.—__ 
+
+>     The Secretary shall submit to the appropriate congressional committees a report containing the following:
+
+>         “(1) The independent analysis described in subsection (a)(1).
+
+>         “(2) A five-year dialysis investment plan explaining all of the options of the Secretary for delivering dialysis care to veterans, including how and where such care will be delivered.
+
+>     “(c)  __Definitions__  __.—__ 
+
+>     In this section:
+
+>         “(1)
+
+>          The term ‘appropriate congressional committees’ means—
+
+>             “(A) the Committee on Veterans’ Affairs and the Committee on Appropriations of the House of Representatives; and
+
+>             “(B) the Committee on Veterans’ Affairs and the Committee on Appropriations of the Senate.
+
+>         “(2) The term ‘dialysis pilot program’ means the pilot demonstration program approved by the Under Secretary of Veterans Affairs for Health in August 2010 and by the Secretary of Veterans Affairs in September 2010 to provide dialysis care to patients at certain outpatient facilities operated by the Department of Veterans Affairs.
+
+>         “(3) The term ‘initial facility’ means one of the four outpatient facilities identified by the Secretary to participate in the dialysis pilot program prior to the date of the enactment of this Act \[July 31, 2015\].”
+
  __Veterans Access, Choice and Accountability in Health Care__ 
 
-[Pub. L. 113–146, § 2][/us/pl/113/146/s2], titles I, II, VIII, Aug. 7, 2014, [128 Stat. 1755][/us/stat/128/1755], 1769, 1801, as amended by [Pub. L. 113–175, title IV, § 409(a)][/us/pl/113/175/s409/a]–(f), Sept. 26, 2014, [128 Stat. 1906][/us/stat/128/1906], 1907; [Pub. L. 113–235, div. I, title II, § 242][/us/pl/113/235/s242], Dec. 16, 2014, [128 Stat. 2568][/us/stat/128/2568]; [Pub. L. 114–19, § 3(a)][/us/pl/114/19/s3/a], May 22, 2015, [129 Stat. 215][/us/stat/129/215], provided that:
+[Pub. L. 113–146, § 2][/us/pl/113/146/s2], titles I, II, VIII, Aug. 7, 2014, [128 Stat. 1755][/us/stat/128/1755], 1769, 1801, as amended by [Pub. L. 113–175, title IV, § 409(a)][/us/pl/113/175/s409/a]–(f), Sept. 26, 2014, [128 Stat. 1906][/us/stat/128/1906], 1907; [Pub. L. 113–235, div. I, title II, § 242][/us/pl/113/235/s242], Dec. 16, 2014, [128 Stat. 2568][/us/stat/128/2568]; [Pub. L. 114–19, § 3(a)][/us/pl/114/19/s3/a], May 22, 2015, [129 Stat. 215][/us/stat/129/215]; [Pub. L. 114–41, title IV][/us/pl/114/41], §§ 4004, 4005, July 31, 2015, [129 Stat. 463][/us/stat/129/463], 464, provided that:
 
 > “SEC. 2. __DEFINITIONS.__ 
 
@@ -315,6 +363,8 @@
 
 >                 “(iv) The Indian Health Service.
 
+>                 “(v) Subject to subsection (d)(5), a health care provider not otherwise covered under any of clauses (i) through (iv).
+
 >         “(2)  __Choice of provider__  __.—__ 
 
 >         An eligible veteran who makes an election under subsection (c) to receive hospital care or medical services under this section may select a provider of such care or services from among the entities specified in paragraph (1)(B) that are accessible to the veteran.
@@ -327,19 +377,27 @@
 
 >     A veteran is an eligible veteran for purposes of this section if—
 
->         “(1)
-
->             (A) as of August 1, 2014, the veteran is enrolled in the patient enrollment system of the Department of Veterans Affairs established and operated under [section 1705 of title 38][/us/usc/t38/s1705], United States Code, including any such veteran who has not received hospital care or medical services from the Department and has contacted the Department seeking an initial appointment from the Department for the receipt of such care or services; or
-
->             “(B) the veteran is eligible for hospital care and medical services under section 1710(e)(1)(D) of such title and is a veteran described in section 1710(e)(3) of such title; and
+>         “(1) the veteran is enrolled in the patient enrollment system of the Department of Veterans Affairs established and operated under [section 1705 of title 38][/us/usc/t38/s1705], United States Code, including any such veteran who has not received hospital care or medical services from the Department and has contacted the Department seeking an initial appointment from the Department for the receipt of such care or services; and
 
 >         “(2)
 
 >          the veteran—
 
->             “(A) attempts, or has attempted, to schedule an appointment for the receipt of hospital care or medical services under chapter 17 of title 38, United States Code, but is unable to schedule an appointment within the wait-time goals of the Veterans Health Administration for the furnishing of such care or services;
+>             “(A)
 
->             “(B) resides more than 40 miles (as calculated based on distance traveled) from the medical facility of the Department, including a community-based outpatient clinic, that is closest to the residence of the veteran;
+>              attempts, or has attempted, to schedule an appointment for the receipt of hospital care or medical services under chapter 17 of title 38, United States Code, but is unable to schedule an appointment within—
+
+>                 “(i) the wait-time goals of the Veterans Health Administration for the furnishing of such care or services; or
+
+>                 “(ii) with respect to such care or services that are clinically necessary, the period determined necessary for such care or services if such period is shorter than such wait-time goals;
+
+>             “(B)
+
+>              resides more than 40 miles (as calculated based on distance traveled) from—
+
+>                 “(i) with respect to a veteran who is seeking primary care, a medical facility of the Department, including a community-based outpatient clinic, that is able to provide such primary care by a full-time primary care physician; or
+
+>                 “(ii) with respect to a veteran not covered under clause (i), the medical facility of the Department, including a community-based outpatient clinic, that is closest to the residence of the veteran;
 
 >             “(C)
 
@@ -413,7 +471,7 @@
 
 >         “(2) __Rates and reimbursement.—__ 
 
->             “(A) __In general.—__ 
+>             “(A)  __In general__  __.—__ 
 
 >             In entering into an agreement under paragraph (1) with an entity specified in subsection (a)(1)(B), the Secretary shall—
 
@@ -474,6 +532,10 @@
 >                 “(ii) Procedures for submitting bills or claims for authorized care and services furnished to eligible veterans under this section and being reimbursed for furnishing such care and services.
 
 >                 “(iii) Whether particular care or services under this section are authorized, and the procedures for authorization of such care or services.
+
+>         “(5)  __Agreements with other providers__  __.—__ 
+
+>         In accordance with the rates determined pursuant to paragraph (2), the Secretary may enter into agreements under paragraph (1) for furnishing care and services to eligible veterans under this section with an entity specified in subsection (a)(1)(B)(v) if the entity meets criteria established by the Secretary for purposes of this section.
 
 >     “(e) __Other Health-Care Plan.—__ 
 
@@ -569,7 +631,7 @@
 
 >     The Secretary shall provide information to a veteran about the availability of care and services under this section in the following circumstances:
 
->         “(1) In the case of a veteran described in subsection (b)(1)(B), when the veteran enrolls in the patient enrollment system of the Department under [section 1705 of title 38][/us/usc/t38/s1705], United States Code.
+>         “(1) When the veteran enrolls in the patient enrollment system of the Department under [section 1705 of title 38][/us/usc/t38/s1705], United States Code.
 
 >         “(2) When the veteran attempts to schedule an appointment for the receipt of hospital care or medical services from the Department but is unable to schedule an appointment within the wait-time goals of the Veterans Health Administration for the furnishing of such care or services.
 
@@ -577,7 +639,7 @@
 
 >     “(h)  __Follow-Up Care__  __.—__ 
 
->     In carrying out this section, the Secretary shall ensure that, at the election of an eligible veteran who receives hospital care or medical services from a health care provider in an episode of care under this section, the veteran receives such hospital care and medical services from such health care provider through the completion of the episode of care (but for a period not exceeding 60 days), including all specialty and ancillary services deemed necessary as part of the treatment recommended in the course of such hospital care or medical services.
+>     In carrying out this section, the Secretary shall ensure that, at the election of an eligible veteran who receives hospital care or medical services from a health care provider in an episode of care under this section, the veteran receives such hospital care and medical services from such health care provider through the completion of the episode of care, including all specialty and ancillary services deemed necessary as part of the treatment recommended in the course of such hospital care or medical services.
 
 >     “(i)  __Providers__  __.—__ 
 
@@ -781,7 +843,7 @@
 
 > “SEC. 104. __REAUTHORIZATION AND MODIFICATION OF PILOT PROGRAM OF ENHANCED CONTRACT CARE AUTHORITY FOR HEALTH CARE NEEDS OF VETERANS.__ 
 
->     \[Amended section 403 of Pub. L. 110—387, set out as a note under [section 1703 of this title][/us/usc/t38/s1703]\]
+>     \[Amended section 403 of Pub. L. 110—387, set out as a note under [section 1703 of this title][/us/usc/t38/s1703].\]
 
 ----------
 
@@ -972,6 +1034,15 @@
 [/us/stat/87/196]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F196
 [/us/usc/t38/s1732]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs1732
 [/us/usc/t38/s4107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs4107
+[/us/pl/114/41/s4003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F41%2Fs4003
+[/us/stat/129/462]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F462
+[/us/usc/t31/s1105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1105
+[/us/pl/114/41/s4002/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F41%2Fs4002%2Fd
+[/us/stat/129/462]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F462
+[/us/pl/113/146]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F146
+[/us/stat/128/1802]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1802
+[/us/pl/114/41/s4006]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F41%2Fs4006
+[/us/stat/129/465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F465
 [/us/pl/113/146/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F146%2Fs2
 [/us/stat/128/1755]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1755
 [/us/pl/113/175/s409/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F175%2Fs409%2Fa
@@ -980,6 +1051,8 @@
 [/us/stat/128/2568]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2568
 [/us/pl/114/19/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F19%2Fs3%2Fa
 [/us/stat/129/215]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F215
+[/us/pl/114/41]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F41
+[/us/stat/129/463]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F463
 [/us/usc/t38/s1701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs1701
 [/us/usc/t38/s1701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs1701
 [/us/usc/t42/s1395]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395
