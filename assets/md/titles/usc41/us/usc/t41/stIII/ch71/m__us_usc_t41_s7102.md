@@ -45,7 +45,7 @@
 
     Appeals under [section 7107(a) of this title][/us/usc/t41/s7107/a] and actions brought under sections 7104(b) and 7107(b) to (f) of this title, arising out of maritime contracts, are governed by chapter 309 or 311 of title 46, as applicable, to the extent that those chapters are not inconsistent with this chapter.
 
-([Pub. L. 111–350, § 3][/us/pl/111/350/s3], Jan. 4, 2011, [124 Stat. 3817][/us/stat/124/3817].)
+([Pub. L. 111–350][/us/pl/111/350], § 3, Jan. 4, 2011, [124 Stat. 3817][/us/stat/124/3817].)
 
 <table>
 
@@ -119,7 +119,7 @@ Pub. L. 95–563, §§ 3, 4, Nov. 1, 1978, 92 Stat. 2383.  </td>
 ----------
 
 [/us/usc/t41/s7107/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs7107%2Fa
-[/us/pl/111/350/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350%2Fs3
+[/us/pl/111/350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350
 [/us/stat/124/3817]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3817
 [/us/stat/41/525]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F41%2F525
 [/us/usc/t46/s741–752]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs741%E2%80%93752

@@ -55,7 +55,7 @@
 
     The authority to carry out transactions under subsection (a) terminates on September 30, 2008.
 
-([Pub. L. 111–350, § 3][/us/pl/111/350/s3], Jan. 4, 2011, [124 Stat. 3721][/us/stat/124/3721].)
+([Pub. L. 111–350][/us/pl/111/350], § 3, Jan. 4, 2011, [124 Stat. 3721][/us/stat/124/3721].)
 
 <table>
 
@@ -113,7 +113,7 @@ Pub. L. 108–136, title XIV, § 1441, Nov. 24, 2003, 117 Stat. 1673.  </td>
 
  __References in Text__ 
 
-    Section 845 of the National Defense Authorization Act for Fiscal Year 1994 ([Public Law 103–160][/us/pl/103/160], [10 U.S.C. 2371][/us/usc/t10/s2371] note), referred to in subsec. (a)(2), was repealed by [Pub. L. 114–92, div. A, title VIII, § 815(c)][/us/pl/114/92/s815/c], Nov. 25, 2015, [129 Stat. 896][/us/stat/129/896].
+    Section 845 of the National Defense Authorization Act for Fiscal Year 1994 ([Public Law 103–160][/us/pl/103/160], [10 U.S.C. 2371][/us/usc/t10/s2371] note), referred to in subsec. (a)(2), was repealed by [Pub. L. 114–92, div. A, title VIII][/us/pl/114/92/dA/tVIII], § 815(c), Nov. 25, 2015, [129 Stat. 896][/us/stat/129/896].
 
 ----------
 
@@ -127,7 +127,7 @@ Pub. L. 108–136, title XIV, § 1441, Nov. 24, 2003, 117 Stat. 1673.  </td>
 [/us/usc/t10/s2371]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2371
 [/us/usc/t6/s391]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs391
 [/us/usc/t10/s2371/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2371%2Fh
-[/us/pl/111/350/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350%2Fs3
+[/us/pl/111/350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350
 [/us/stat/124/3721]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3721
 [/us/pl/103/160]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160
 [/us/usc/t10/s2371]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2371
@@ -137,7 +137,7 @@ Pub. L. 108–136, title XIV, § 1441, Nov. 24, 2003, 117 Stat. 1673.  </td>
 [/us/stat/119/3387]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F3387
 [/us/pl/103/160]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160
 [/us/usc/t10/s2371]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2371
-[/us/pl/114/92/s815/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs815%2Fc
+[/us/pl/114/92/dA/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2FdA%2FtVIII
 [/us/stat/129/896]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F896
 
 

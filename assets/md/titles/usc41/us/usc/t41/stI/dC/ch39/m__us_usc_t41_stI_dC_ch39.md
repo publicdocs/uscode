@@ -75,13 +75,13 @@
 
  __Separability__ 
 
-[Act June 30, 1949, ch. 288][/us/act/1949-06-30/ch288], title VI, § 604, formerly title V, § 504, [63 Stat. 403][/us/stat/63/403], renumbered by [act Sept. 5, 1950, ch. 849, § 6(a)][/us/act/1950-09-05/ch849/s6/a], (b), [64 Stat. 583][/us/stat/64/583], provided that: 
+[Act June 30, 1949, ch. 288, title VI][/us/act/1949-06-30/ch288/tVI], § 604, formerly title V, § 504, [63 Stat. 403][/us/stat/63/403], renumbered by [act Sept. 5, 1950, ch. 849][/us/act/1950-09-05/ch849], § 6(a), (b), [64 Stat. 583][/us/stat/64/583], provided that: 
 
 > “If any provision of this Act \[see Tables for classification\], or the application thereof to any person or circumstances, is held invalid, the remainder of this Act, and the application of such provision to other persons or circumstances, shall not be affected thereby.”
 
  __Share-in-Savings Contracts__ 
 
-[Act June 30, 1949, ch. 288][/us/act/1949-06-30/ch288], title III, § 317, as added [Pub. L. 107–347, title II, § 210(b)][/us/pl/107/347/s210/b], Dec. 17, 2002, [116 Stat. 2934][/us/stat/116/2934], provided that:
+[Act June 30, 1949, ch. 288, title III][/us/act/1949-06-30/ch288/tIII], § 317, as added [Pub. L. 107–347, title II][/us/pl/107/347/tII], § 210(b), Dec. 17, 2002, [116 Stat. 2934][/us/stat/116/2934], provided that:
 
 >     “(a)  __Authority To Enter Into Share-in-Savings Contracts__  __.—__ 
 
@@ -338,12 +338,12 @@ By the authority vested in me as President by the Constitution and the laws of t
 ----------
 ----------
 
-[/us/act/1949-06-30/ch288]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-06-30%2Fch288
+[/us/act/1949-06-30/ch288/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-06-30%2Fch288%2FtVI
 [/us/stat/63/403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F63%2F403
-[/us/act/1950-09-05/ch849/s6/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-09-05%2Fch849%2Fs6%2Fa
+[/us/act/1950-09-05/ch849]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-09-05%2Fch849
 [/us/stat/64/583]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F583
-[/us/act/1949-06-30/ch288]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-06-30%2Fch288
-[/us/pl/107/347/s210/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F347%2Fs210%2Fb
+[/us/act/1949-06-30/ch288/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-06-30%2Fch288%2FtIII
+[/us/pl/107/347/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F347%2FtII
 [/us/stat/116/2934]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2934
 [/us/usc/t40/s11101/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft40%2Fs11101%2F6
 [/us/usc/t40/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft40%2Fs101

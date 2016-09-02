@@ -29,7 +29,7 @@
 
         (B) a prime contractor charges the Federal Government.
 
-([Pub. L. 111–350, § 3][/us/pl/111/350/s3], Jan. 4, 2011, [124 Stat. 3839][/us/stat/124/3839].)
+([Pub. L. 111–350][/us/pl/111/350], § 3, Jan. 4, 2011, [124 Stat. 3839][/us/stat/124/3839].)
 
 <table>
 
@@ -86,7 +86,7 @@ Mar. 8, 1946, ch. 80, § 3, 60 Stat. 37; Pub. L. 86–695, Sept. 2, 1960, 74 S
 ----------
 ----------
 
-[/us/pl/111/350/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350%2Fs3
+[/us/pl/111/350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350
 [/us/stat/124/3839]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3839
 
 

@@ -17,7 +17,7 @@
 
     This division does not impair or affect the authorities or responsibilities relating to the procurement of real property conferred by division C of this subtitle and chapters 1 to 11 of title 40.
 
-([Pub. L. 111–350, § 3][/us/pl/111/350/s3], Jan. 4, 2011, [124 Stat. 3690][/us/stat/124/3690].)
+([Pub. L. 111–350][/us/pl/111/350], § 3, Jan. 4, 2011, [124 Stat. 3690][/us/stat/124/3690].)
 
 <table>
 
@@ -72,7 +72,7 @@ Pub. L. 93–400, § 6(h)(1), Aug. 30, 1974, 88 Stat. 797; Pub. L. 96–83, §
 ----------
 ----------
 
-[/us/pl/111/350/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350%2Fs3
+[/us/pl/111/350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350
 [/us/stat/124/3690]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3690
 
 

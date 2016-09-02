@@ -27,7 +27,7 @@
 
     Subsection (b) does not apply to a proposal that is set forth or incorporated by reference in a contract entered into between the agency and the contractor that submitted the proposal.
 
-([Pub. L. 111–350, § 3][/us/pl/111/350/s3], Jan. 4, 2011, [124 Stat. 3794][/us/stat/124/3794].)
+([Pub. L. 111–350][/us/pl/111/350], § 3, Jan. 4, 2011, [124 Stat. 3794][/us/stat/124/3794].)
 
 <table>
 
@@ -113,7 +113,7 @@ June 30, 1949, ch. 288, title III, § 303B(m), as added Pub. L. 104–201, tit
 ----------
 
 [/us/usc/t5/s552]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs552
-[/us/pl/111/350/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350%2Fs3
+[/us/pl/111/350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350
 [/us/stat/124/3794]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3794
 
 

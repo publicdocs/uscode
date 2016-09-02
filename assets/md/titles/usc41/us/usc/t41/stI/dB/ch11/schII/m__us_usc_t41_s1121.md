@@ -59,7 +59,7 @@
 
         (2) interfere with the determination by executive agencies of specific actions in the award or administration of procurement contracts.
 
-([Pub. L. 111–350, § 3][/us/pl/111/350/s3], Jan. 4, 2011, [124 Stat. 3684][/us/stat/124/3684].)
+([Pub. L. 111–350][/us/pl/111/350], § 3, Jan. 4, 2011, [124 Stat. 3684][/us/stat/124/3684].)
 
 <table>
 
@@ -191,13 +191,13 @@ Pub. L. 93–400, § 6(c), Aug. 30, 1974, 88 Stat. 797; Pub. L. 96–83, § 
 
  __Supersedure of Inconsistent Statutory Provisions__ 
 
-[Pub. L. 96–83, § 11][/us/pl/96/83/s11], Oct. 10, 1979, [93 Stat. 652][/us/stat/93/652], provided that: 
+[Pub. L. 96–83][/us/pl/96/83], § 11, Oct. 10, 1979, [93 Stat. 652][/us/stat/93/652], provided that: 
 
 > “The provisions of the Act \[[Pub. L. 93–400][/us/pl/93/400], Aug. 30, 1974, [88 Stat. 796][/us/stat/88/796], see this division (except sections 1123, 2303, 2304, and 2313)\] as amended by this Act \[see Short Title of 1979 Act note set out under [section 101 of this title][/us/usc/t41/s101]\] shall supersede the provisions of [section 222 of the Act of October 24, 1978][/us/act/1978-10-24/s222], entitled ‘An Act to amend the Small Business Act and the Small Business Investment Act of 1958’ (\[former\] [41 U.S.C. 405a][/us/usc/t41/s405a]) \[now [41 U.S.C. 1121(c)(2)][/us/usc/t41/s1121/c/2], 1123\] to the extent they are inconsistent therewith.”
 
  __Federal Support for Enhancement of State and Local Anti-Terrorism Response Capabilities__ 
 
-[Pub. L. 108–136, div. A, title VIII, § 803][/us/pl/108/136/s803], Nov. 24, 2003, [117 Stat. 1541][/us/stat/117/1541], provided that:
+[Pub. L. 108–136, div. A, title VIII][/us/pl/108/136/dA/tVIII], § 803, Nov. 24, 2003, [117 Stat. 1541][/us/stat/117/1541], provided that:
 
 >     “(a)  __Procurements of Anti-Terrorism Technologies and Services by State and Local Governments__  __.—__ 
 
@@ -213,7 +213,7 @@ Pub. L. 93–400, § 6(c), Aug. 30, 1974, 88 Stat. 797; Pub. L. 96–83, § 
 
  __Profit Methodology Study__ 
 
-[Pub. L. 100–679, § 7][/us/pl/100/679/s7], Nov. 17, 1988, [102 Stat. 4068][/us/stat/102/4068], provided that:
+[Pub. L. 100–679][/us/pl/100/679], § 7, Nov. 17, 1988, [102 Stat. 4068][/us/stat/102/4068], provided that:
 
 >     “(a)  __In General__  __.—__ 
 
@@ -230,11 +230,11 @@ Pub. L. 93–400, § 6(c), Aug. 30, 1974, 88 Stat. 797; Pub. L. 96–83, § 
 ----------
 ----------
 
-[/us/pl/111/350/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350%2Fs3
+[/us/pl/111/350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350
 [/us/stat/124/3684]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3684
 [/us/pl/96/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F83
 [/us/stat/93/652]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F652
-[/us/pl/96/83/s11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F83%2Fs11
+[/us/pl/96/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F83
 [/us/stat/93/652]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F652
 [/us/pl/93/400]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F400
 [/us/stat/88/796]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F796
@@ -242,10 +242,10 @@ Pub. L. 93–400, § 6(c), Aug. 30, 1974, 88 Stat. 797; Pub. L. 96–83, § 
 [/us/act/1978-10-24/s222]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1978-10-24%2Fs222
 [/us/usc/t41/s405a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs405a
 [/us/usc/t41/s1121/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs1121%2Fc%2F2
-[/us/pl/108/136/s803]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs803
+[/us/pl/108/136/dA/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2FdA%2FtVIII
 [/us/stat/117/1541]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1541
 [/us/usc/t40/s502/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft40%2Fs502%2Fc%2F3
-[/us/pl/100/679/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F679%2Fs7
+[/us/pl/100/679]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F679
 [/us/stat/102/4068]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4068
 
 

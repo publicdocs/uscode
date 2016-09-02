@@ -45,7 +45,7 @@
 
         The Administrator, from time to time, may review the dollar amounts specified in paragraph (1) and adjust the amounts in accordance with economic indexes selected by the Administrator.
 
-([Pub. L. 111–350, § 3][/us/pl/111/350/s3], Jan. 4, 2011, [124 Stat. 3823][/us/stat/124/3823].)
+([Pub. L. 111–350][/us/pl/111/350], § 3, Jan. 4, 2011, [124 Stat. 3823][/us/stat/124/3823].)
 
 <table>
 
@@ -125,7 +125,7 @@ Pub. L. 95–563, § 9, Nov. 1, 1978, 92 Stat. 2387; Pub. L. 103–355, title 
 ----------
 
 [/us/usc/t15/s631]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs631
-[/us/pl/111/350/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350%2Fs3
+[/us/pl/111/350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350
 [/us/stat/124/3823]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3823
 
 

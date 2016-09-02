@@ -47,7 +47,7 @@
 
     If the head of an agency is making a noncompetitive award of a development contract or a production contract for a major system, the factors specified in subsections (a) and (b) to be considered in evaluating an offer for a contract may be considered as objectives in negotiating the contract to be awarded.
 
-([Pub. L. 111–350, § 3][/us/pl/111/350/s3], Jan. 4, 2011, [124 Stat. 3758][/us/stat/124/3758].)
+([Pub. L. 111–350][/us/pl/111/350], § 3, Jan. 4, 2011, [124 Stat. 3758][/us/stat/124/3758].)
 
 <table>
 
@@ -102,7 +102,7 @@ June 30, 1949, ch. 288, title III, § 303B(j), formerly § 303B(f), as added
 ----------
 ----------
 
-[/us/pl/111/350/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350%2Fs3
+[/us/pl/111/350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350
 [/us/stat/124/3758]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3758
 
 

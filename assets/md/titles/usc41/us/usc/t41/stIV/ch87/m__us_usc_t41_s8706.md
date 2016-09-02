@@ -37,7 +37,7 @@
 
         (2) the Federal Government first knew or should reasonably have known that the prohibited conduct had occurred.
 
-([Pub. L. 111–350, § 3][/us/pl/111/350/s3], Jan. 4, 2011, [124 Stat. 3840][/us/stat/124/3840].)
+([Pub. L. 111–350][/us/pl/111/350], § 3, Jan. 4, 2011, [124 Stat. 3840][/us/stat/124/3840].)
 
 <table>
 
@@ -94,7 +94,7 @@ Mar. 8, 1946, ch. 80, § 5, 60 Stat. 37; Pub. L. 86–695, Sept. 2, 1960, 74 S
 
 [/us/usc/t41/s8702]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs8702
 [/us/usc/t41/s8702]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs8702
-[/us/pl/111/350/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350%2Fs3
+[/us/pl/111/350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350
 [/us/stat/124/3840]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3840
 
 

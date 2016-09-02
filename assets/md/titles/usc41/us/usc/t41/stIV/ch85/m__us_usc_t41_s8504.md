@@ -23,7 +23,7 @@
 
     This section does not apply to the procurement of a product that is available from an industry established under chapter 307 of title 18 and that is required under [section 4124 of title 18][/us/usc/t18/s4124] to be procured from that industry.
 
-([Pub. L. 111–350, § 3][/us/pl/111/350/s3], Jan. 4, 2011, [124 Stat. 3837][/us/stat/124/3837].)
+([Pub. L. 111–350][/us/pl/111/350], § 3, Jan. 4, 2011, [124 Stat. 3837][/us/stat/124/3837].)
 
 <table>
 
@@ -84,7 +84,7 @@ June 25, 1938, ch. 697, § 3, 52 Stat. 1196; Pub. L. 92–28, § 1, June 23,
 
 [/us/usc/t41/s8503]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs8503
 [/us/usc/t18/s4124]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs4124
-[/us/pl/111/350/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350%2Fs3
+[/us/pl/111/350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350
 [/us/stat/124/3837]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3837
 [/us/usc/t41/s8503]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs8503
 

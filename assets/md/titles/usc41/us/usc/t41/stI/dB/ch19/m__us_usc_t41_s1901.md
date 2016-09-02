@@ -45,7 +45,7 @@
 
         (3) shall include in the contract file a written description of the procedures used in awarding the contract and the number of offers received.
 
-([Pub. L. 111–350, § 3][/us/pl/111/350/s3], Jan. 4, 2011, [124 Stat. 3719][/us/stat/124/3719].)
+([Pub. L. 111–350][/us/pl/111/350], § 3, Jan. 4, 2011, [124 Stat. 3719][/us/stat/124/3719].)
 
 <table>
 
@@ -108,7 +108,7 @@ Pub. L. 93–400, § 31, as added Pub. L. 103–355, title IV, § 4201(a), O
 [/us/usc/t41/s1708/c/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs1708%2Fc%2F4
 [/us/usc/t10/s2304/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2304%2Ff
 [/us/usc/t41/s3304/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs3304%2Fe
-[/us/pl/111/350/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350%2Fs3
+[/us/pl/111/350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350
 [/us/stat/124/3719]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3719
 [/us/usc/t41/s427/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs427%2Fe
 [/us/usc/t41/s253]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs253

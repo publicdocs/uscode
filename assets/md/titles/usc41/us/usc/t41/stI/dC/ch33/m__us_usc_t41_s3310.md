@@ -27,7 +27,7 @@
 
     Each solicitation for a contract for supplies shall, if practicable, include a provision inviting each offeror responding to the solicitation to state an opinion on whether the quantity of supplies proposed to be procured is economically advantageous to the Federal Government and, if applicable, to recommend a quantity that would be more economically advantageous to the Federal Government. Each recommendation shall include a quotation of the total price and the unit price for supplies procured in each recommended quantity.
 
-([Pub. L. 111–350, § 3][/us/pl/111/350/s3], Jan. 4, 2011, [124 Stat. 3761][/us/stat/124/3761].)
+([Pub. L. 111–350][/us/pl/111/350], § 3, Jan. 4, 2011, [124 Stat. 3761][/us/stat/124/3761].)
 
 <table>
 
@@ -84,7 +84,7 @@ June 30, 1949, ch. 288, title III, § 303F, formerly § 303G, as added Pub. 
 ----------
 ----------
 
-[/us/pl/111/350/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350%2Fs3
+[/us/pl/111/350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350
 [/us/stat/124/3761]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3761
 
 

@@ -41,7 +41,7 @@
 
     A person may petition the Administrator to take appropriate action when a provision of law described in subsection (c) is not included on the list of inapplicable provisions of law as required by subsection (b) and the Council has not made a written determination pursuant to subsection (b)(2). The Administrator shall revise the Federal Acquisition Regulation to include the provision on the list of inapplicable provisions of law unless the Council makes a determination pursuant to subsection (b)(2) within 60 days after the petition is received.
 
-([Pub. L. 111–350, § 3][/us/pl/111/350/s3], Jan. 4, 2011, [124 Stat. 3722][/us/stat/124/3722].)
+([Pub. L. 111–350][/us/pl/111/350], § 3, Jan. 4, 2011, [124 Stat. 3722][/us/stat/124/3722].)
 
 <table>
 
@@ -111,7 +111,7 @@ Pub. L. 93–400, § 33, as added Pub. L. 103–355, title IV, § 4101, Oct.
 ----------
 
 [/us/usc/t41/s1301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs1301
-[/us/pl/111/350/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350%2Fs3
+[/us/pl/111/350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350
 [/us/stat/124/3722]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3722
 
 

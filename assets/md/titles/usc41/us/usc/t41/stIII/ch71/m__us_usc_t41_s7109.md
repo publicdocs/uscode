@@ -29,7 +29,7 @@
 
     Interest shall accrue and be paid at a rate which the Secretary of the Treasury shall specify as applicable for each successive 6-month period. The rate shall be determined by the Secretary of the Treasury taking into consideration current private commercial rates of interest for new loans maturing in approximately 5 years.
 
-([Pub. L. 111–350, § 3][/us/pl/111/350/s3], Jan. 4, 2011, [124 Stat. 3825][/us/stat/124/3825].)
+([Pub. L. 111–350][/us/pl/111/350], § 3, Jan. 4, 2011, [124 Stat. 3825][/us/stat/124/3825].)
 
 <table>
 
@@ -120,7 +120,7 @@ Pub. L. 102–572, title IX, § 907(a)(3), Oct. 29, 1992, 106 Stat. 4518.  </t
 
 [/us/usc/t41/s7103/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs7103%2Fa
 [/us/usc/t41/s7103/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs7103%2Fb%2F1
-[/us/pl/111/350/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350%2Fs3
+[/us/pl/111/350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350
 [/us/stat/124/3825]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3825
 [/us/pl/92/41]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F41
 [/us/stat/85/97]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F85%2F97

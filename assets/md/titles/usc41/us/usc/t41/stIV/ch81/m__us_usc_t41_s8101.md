@@ -59,7 +59,7 @@
 
     This chapter does not require law enforcement agencies to comply with this chapter if the head of the agency determines it would be inappropriate in connection with the agency’s undercover operations.
 
-([Pub. L. 111–350, § 3][/us/pl/111/350/s3], Jan. 4, 2011, [124 Stat. 3826][/us/stat/124/3826].)
+([Pub. L. 111–350][/us/pl/111/350], § 3, Jan. 4, 2011, [124 Stat. 3826][/us/stat/124/3826].)
 
 <table>
 
@@ -230,7 +230,7 @@ Pub. L. 100–690, title V, §§ 5157, 5158, Nov. 18, 1988, 102 Stat. 4308.  <
 [/us/pl/100/690]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690
 [/us/stat/102/4181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4181
 [/us/usc/t5/s552/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs552%2Ff
-[/us/pl/111/350/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350%2Fs3
+[/us/pl/111/350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350
 [/us/stat/124/3826]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3826
 
 

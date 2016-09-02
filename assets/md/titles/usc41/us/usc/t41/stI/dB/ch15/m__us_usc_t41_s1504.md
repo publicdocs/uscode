@@ -31,7 +31,7 @@
 
     Costs that are the subject of cost accounting standards prescribed under this chapter are not subject to regulations established by another executive agency that differ from those standards with respect to the measurement, assignment, and allocation of those costs.
 
-([Pub. L. 111–350, § 3][/us/pl/111/350/s3], Jan. 4, 2011, [124 Stat. 3699][/us/stat/124/3699].)
+([Pub. L. 111–350][/us/pl/111/350], § 3, Jan. 4, 2011, [124 Stat. 3699][/us/stat/124/3699].)
 
 <table>
 
@@ -109,7 +109,7 @@ Pub. L. 93–400, § 26(j), as added Pub. L. 100–679, § 5(a), Nov. 17, 19
 
  __References in Text__ 
 
-    Section 719 of the Defense Production Act of 1950, referred to in subsec. (a), is section 719 of [act Sept. 8, 1950, ch. 932][/us/act/1950-09-08/ch932], title VII, as added [Pub. L. 91–379, title I, § 103][/us/pl/91/379/s103], Aug. 15, 1970, [84 Stat. 796][/us/stat/84/796], which was classified to section 2168 of the former Appendix to Title 50, War and National Defense, prior to repeal by [Pub. L. 100–679, § 5(b)][/us/pl/100/679/s5/b], Nov. 17, 1988, [102 Stat. 4063][/us/stat/102/4063].
+    Section 719 of the Defense Production Act of 1950, referred to in subsec. (a), is section 719 of [act Sept. 8, 1950, ch. 932, title VII][/us/act/1950-09-08/ch932/tVII], as added [Pub. L. 91–379, title I][/us/pl/91/379/tI], § 103, Aug. 15, 1970, [84 Stat. 796][/us/stat/84/796], which was classified to section 2168 of the former Appendix to Title 50, War and National Defense, prior to repeal by [Pub. L. 100–679][/us/pl/100/679], § 5(b), Nov. 17, 1988, [102 Stat. 4063][/us/stat/102/4063].
 
 ----------
 
@@ -118,12 +118,12 @@ Pub. L. 93–400, § 26(j), as added Pub. L. 100–679, § 5(a), Nov. 17, 19
 ----------
 ----------
 
-[/us/pl/111/350/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350%2Fs3
+[/us/pl/111/350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350
 [/us/stat/124/3699]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3699
-[/us/act/1950-09-08/ch932]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-09-08%2Fch932
-[/us/pl/91/379/s103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F379%2Fs103
+[/us/act/1950-09-08/ch932/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-09-08%2Fch932%2FtVII
+[/us/pl/91/379/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F379%2FtI
 [/us/stat/84/796]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F796
-[/us/pl/100/679/s5/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F679%2Fs5%2Fb
+[/us/pl/100/679]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F679
 [/us/stat/102/4063]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4063
 
 

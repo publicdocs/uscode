@@ -17,7 +17,7 @@
 
     The Administrator annually shall submit to Congress an assessment of the progress made in executive agencies in implementing the policy regarding major acquisitions that is stated in [section 3103(a) of this title][/us/usc/t41/s3103/a]. The Administrator shall use data from existing management systems in making the assessment.
 
-([Pub. L. 111–350, § 3][/us/pl/111/350/s3], Jan. 4, 2011, [124 Stat. 3690][/us/stat/124/3690].)
+([Pub. L. 111–350][/us/pl/111/350], § 3, Jan. 4, 2011, [124 Stat. 3690][/us/stat/124/3690].)
 
 <table>
 
@@ -73,7 +73,7 @@ Pub. L. 93–400, § 6(k), as added Pub. L. 103–355, title V, § 5051(b), 
 ----------
 
 [/us/usc/t41/s3103/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs3103%2Fa
-[/us/pl/111/350/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350%2Fs3
+[/us/pl/111/350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350
 [/us/stat/124/3690]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3690
 
 

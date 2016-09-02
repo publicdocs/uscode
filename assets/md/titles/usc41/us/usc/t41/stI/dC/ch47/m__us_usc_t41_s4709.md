@@ -23,7 +23,7 @@
 
     The head of each executive agency shall designate a program manager to implement the electronic commerce capability for the agency. The program manager reports directly to an official at a level not lower than the senior procurement executive designated for the agency under [section 1702(c) of this title][/us/usc/t41/s1702/c].
 
-([Pub. L. 111–350, § 3][/us/pl/111/350/s3], Jan. 4, 2011, [124 Stat. 3800][/us/stat/124/3800].)
+([Pub. L. 111–350][/us/pl/111/350], § 3, Jan. 4, 2011, [124 Stat. 3800][/us/stat/124/3800].)
 
 <table>
 
@@ -80,7 +80,7 @@ June 30, 1949, ch. 288, title III, § 302C, as added Pub. L. 103–355, title 
 
 [/us/usc/t41/s2301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs2301
 [/us/usc/t41/s1702/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs1702%2Fc
-[/us/pl/111/350/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350%2Fs3
+[/us/pl/111/350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350
 [/us/stat/124/3800]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3800
 
 

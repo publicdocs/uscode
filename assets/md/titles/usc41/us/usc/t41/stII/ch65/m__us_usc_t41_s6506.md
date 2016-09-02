@@ -35,7 +35,7 @@
 
     The Secretary, or an authorized representative of the Secretary, may make investigations and findings as provided in this chapter and may, in any part of the United States, prosecute an inquiry necessary to carry out this chapter.
 
-([Pub. L. 111–350, § 3][/us/pl/111/350/s3], Jan. 4, 2011, [124 Stat. 3809][/us/stat/124/3809].)
+([Pub. L. 111–350][/us/pl/111/350], § 3, Jan. 4, 2011, [124 Stat. 3809][/us/stat/124/3809].)
 
 <table>
 
@@ -87,7 +87,7 @@ June 30, 1936, ch. 881, § 4, 49 Stat. 2038.  </td>
 
     In subsection (c), the words “and to prescribe rules and regulations with respect thereto” are omitted as unnecessary because of subsection (b).
 
-    In subsection (d), the words “without regard to the provisions of the civil-service laws”, which appear in section 4 of the Walsh-Healey Act ([June 30, 1936, ch. 881][/us/act/1936-06-30/ch881], [49 Stat. 2038][/us/stat/49/2038]), are omitted as obsolete because of Executive Order 8743, April 23, 1941 ([5 U.S.C. 3301][/us/usc/t5/s3301] note), issued by the President pursuant to the [Act of November 26, 1940, ch. 919][/us/act/1940-11-26/ch919], title I, § 1, [54 Stat. 1211][/us/stat/54/1211]. The words “the Classification Act of 1923”, which appear in section 4 of the Walsh-Healey Act ([June 30, 1936, ch. 881][/us/act/1936-06-30/ch881], [49 Stat. 2038][/us/stat/49/2038]), are considered to be a reference to the Classification Act of 1949 because of section 1106(a) of the Classification Act of 1949 ([Oct. 28, 1949, ch. 782][/us/act/1949-10-28/ch782], [63 Stat. 972][/us/stat/63/972]). The words “chapter 51 and subchapter III of chapter 53 of title 5” are substituted for the reference to the Classification Act of 1949 because of [section 7(b) of Public Law 89–554][/us/pl/89/554/s7/b] (5 U.S.C. note prec. 101).
+    In subsection (d), the words “without regard to the provisions of the civil-service laws”, which appear in section 4 of the Walsh-Healey Act ([June 30, 1936, ch. 881][/us/act/1936-06-30/ch881], [49 Stat. 2038][/us/stat/49/2038]), are omitted as obsolete because of Executive Order 8743, April 23, 1941 ([5 U.S.C. 3301][/us/usc/t5/s3301] note), issued by the President pursuant to the [Act of November 26, 1940, ch. 919, title I][/us/act/1940-11-26/ch919/tI], § 1, [54 Stat. 1211][/us/stat/54/1211]. The words “the Classification Act of 1923”, which appear in section 4 of the Walsh-Healey Act ([June 30, 1936, ch. 881][/us/act/1936-06-30/ch881], [49 Stat. 2038][/us/stat/49/2038]), are considered to be a reference to the Classification Act of 1949 because of section 1106(a) of the Classification Act of 1949 ([Oct. 28, 1949, ch. 782][/us/act/1949-10-28/ch782], [63 Stat. 972][/us/stat/63/972]). The words “chapter 51 and subchapter III of chapter 53 of title 5” are substituted for the reference to the Classification Act of 1949 because of [section 7(b) of Public Law 89–554][/us/pl/89/554/s7/b] (5 U.S.C. note prec. 101).
 
 ----------
 
@@ -96,12 +96,12 @@ June 30, 1936, ch. 881, § 4, 49 Stat. 2038.  </td>
 ----------
 ----------
 
-[/us/pl/111/350/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350%2Fs3
+[/us/pl/111/350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350
 [/us/stat/124/3809]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3809
 [/us/act/1936-06-30/ch881]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1936-06-30%2Fch881
 [/us/stat/49/2038]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F2038
 [/us/usc/t5/s3301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs3301
-[/us/act/1940-11-26/ch919]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1940-11-26%2Fch919
+[/us/act/1940-11-26/ch919/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1940-11-26%2Fch919%2FtI
 [/us/stat/54/1211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F54%2F1211
 [/us/act/1936-06-30/ch881]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1936-06-30%2Fch881
 [/us/stat/49/2038]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F2038

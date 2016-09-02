@@ -75,7 +75,7 @@
 
  __Uniform Contract Writing System Requirements__ 
 
-[Pub. L. 112–239, div. A, title VIII, § 862][/us/pl/112/239/s862], Jan. 2, 2013, [126 Stat. 1859][/us/stat/126/1859], provided that:
+[Pub. L. 112–239, div. A, title VIII][/us/pl/112/239/dA/tVIII], § 862, Jan. 2, 2013, [126 Stat. 1859][/us/stat/126/1859], provided that:
 
 >     “(a)  __Uniform Standards and Controls Required__  __.—__ 
 
@@ -134,7 +134,7 @@
 ----------
 ----------
 
-[/us/pl/112/239/s862]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs862
+[/us/pl/112/239/dA/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2FdA%2FtVIII
 [/us/stat/126/1859]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1859
 [/us/usc/t41/s133]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs133
 

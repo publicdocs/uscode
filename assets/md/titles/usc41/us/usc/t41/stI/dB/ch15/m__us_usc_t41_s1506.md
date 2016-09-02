@@ -17,7 +17,7 @@
 
     Necessary amounts may be appropriated to carry out this chapter.
 
-([Pub. L. 111–350, § 3][/us/pl/111/350/s3], Jan. 4, 2011, [124 Stat. 3700][/us/stat/124/3700].)
+([Pub. L. 111–350][/us/pl/111/350], § 3, Jan. 4, 2011, [124 Stat. 3700][/us/stat/124/3700].)
 
 <table>
 
@@ -72,7 +72,7 @@ Pub. L. 93–400, § 26(l), as added Pub. L. 100–679, § 5(a), Nov. 17, 19
 ----------
 ----------
 
-[/us/pl/111/350/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350%2Fs3
+[/us/pl/111/350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350
 [/us/stat/124/3700]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3700
 
 

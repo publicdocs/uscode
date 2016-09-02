@@ -83,7 +83,7 @@
 
         After receiving a request for an advisory opinion under paragraph (1), an agency board shall provide the advisory opinion in a timely manner to the district court making the request.
 
-([Pub. L. 111–350, § 3][/us/pl/111/350/s3], Jan. 4, 2011, [124 Stat. 3824][/us/stat/124/3824].)
+([Pub. L. 111–350][/us/pl/111/350], § 3, Jan. 4, 2011, [124 Stat. 3824][/us/stat/124/3824].)
 
 <table>
 
@@ -229,7 +229,7 @@ In subsection (a)(1)(B), the words “may transmit” are substituted for “tra
 [/us/usc/t28/s1295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs1295
 [/us/usc/t28/s1337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs1337
 [/us/usc/t28/s1337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs1337
-[/us/pl/111/350/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350%2Fs3
+[/us/pl/111/350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350
 [/us/stat/124/3824]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3824
 [/us/pl/102/572]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F572
 [/us/stat/106/4516]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4516

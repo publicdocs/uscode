@@ -17,7 +17,7 @@
 
     The regulations referred to in sections 4304 and 4305(a) and (b) of this title shall require prime contractors of a covered contract, to the maximum extent practicable, to apply the provisions of those regulations to all subcontractors of the covered contract.
 
-([Pub. L. 111–350, § 3][/us/pl/111/350/s3], Jan. 4, 2011, [124 Stat. 3788][/us/stat/124/3788].)
+([Pub. L. 111–350][/us/pl/111/350], § 3, Jan. 4, 2011, [124 Stat. 3788][/us/stat/124/3788].)
 
 <table>
 
@@ -72,7 +72,7 @@ June 30, 1949, ch. 288, title III, § 306(g), as added Pub. L. 100–700, §�
 ----------
 ----------
 
-[/us/pl/111/350/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350%2Fs3
+[/us/pl/111/350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350
 [/us/stat/124/3788]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3788
 
 

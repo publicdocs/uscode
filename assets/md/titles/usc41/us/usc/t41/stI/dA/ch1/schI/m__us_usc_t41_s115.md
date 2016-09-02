@@ -17,7 +17,7 @@
 
     In this subtitle, the term “supplies” has the same meaning as the terms “item” and “item of supply”.
 
-([Pub. L. 111–350, § 3][/us/pl/111/350/s3], Jan. 4, 2011, [124 Stat. 3681][/us/stat/124/3681].)
+([Pub. L. 111–350][/us/pl/111/350], § 3, Jan. 4, 2011, [124 Stat. 3681][/us/stat/124/3681].)
 
 <table>
 
@@ -88,7 +88,7 @@ Pub. L. 93–400, § 4(10) (“supplies”), formerly § 4(11), as added Pub
 ----------
 ----------
 
-[/us/pl/111/350/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350%2Fs3
+[/us/pl/111/350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350
 [/us/stat/124/3681]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3681
 
 

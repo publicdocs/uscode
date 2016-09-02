@@ -17,7 +17,7 @@
 
     A person may not file a protest against the award or proposed award of a Federal agency procurement contract alleging a violation of section 2102, 2103, or 2104 of this title, and the Comptroller General may not consider that allegation in deciding a protest, unless the person, no later than 14 days after the person first discovered the possible violation, reported to the Federal agency responsible for the procurement the information that the person believed constitutes evidence of the offense.
 
-([Pub. L. 111–350, § 3][/us/pl/111/350/s3], Jan. 4, 2011, [124 Stat. 3731][/us/stat/124/3731].)
+([Pub. L. 111–350][/us/pl/111/350], § 3, Jan. 4, 2011, [124 Stat. 3731][/us/stat/124/3731].)
 
 <table>
 
@@ -72,7 +72,7 @@ Pub. L. 93–400, § 27(g), as added Pub. L. 100–679, § 6(a), Nov. 17, 19
 ----------
 ----------
 
-[/us/pl/111/350/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350%2Fs3
+[/us/pl/111/350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350
 [/us/stat/124/3731]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3731
 
 

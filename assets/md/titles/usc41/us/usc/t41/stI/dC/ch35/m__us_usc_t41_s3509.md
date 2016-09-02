@@ -23,7 +23,7 @@
 
     The Federal Acquisition Regulation shall include, pursuant to FAR Case 2007–006 (as published at 72 Fed. Reg. 64019, November 14, 2007) or any follow-on FAR case, provisions that require timely notification by Federal contractors of violations of Federal criminal law or overpayments in connection with the award or performance of covered contracts or subcontracts, including those performed outside the United States and those for commercial items.
 
-([Pub. L. 111–350, § 3][/us/pl/111/350/s3], Jan. 4, 2011, [124 Stat. 3770][/us/stat/124/3770].)
+([Pub. L. 111–350][/us/pl/111/350], § 3, Jan. 4, 2011, [124 Stat. 3770][/us/stat/124/3770].)
 
 <table>
 
@@ -80,7 +80,7 @@ Pub. L. 110–252, title VI, §§ 6102, 6103, June 30, 2008, 122 Stat. 2386, 2
 ----------
 ----------
 
-[/us/pl/111/350/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350%2Fs3
+[/us/pl/111/350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350
 [/us/stat/124/3770]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3770
 
 

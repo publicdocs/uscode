@@ -39,7 +39,7 @@
 
         An exemption under this subsection shall be made a matter of public record.
 
-([Pub. L. 111–350, § 3][/us/pl/111/350/s3], Jan. 4, 2011, [124 Stat. 3805][/us/stat/124/3805].)
+([Pub. L. 111–350][/us/pl/111/350], § 3, Jan. 4, 2011, [124 Stat. 3805][/us/stat/124/3805].)
 
 <table>
 
@@ -119,7 +119,7 @@ In subsection (b)(2)(C), the words “Home Owners’ Loan Act” are substituted
 [/us/usc/t7/s601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs601
 [/us/usc/t12/s2001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs2001
 [/us/usc/t12/s1461]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1461
-[/us/pl/111/350/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350%2Fs3
+[/us/pl/111/350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350
 [/us/stat/124/3805]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3805
 [/us/usc/t12/s2001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs2001
 [/us/pl/92/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F181

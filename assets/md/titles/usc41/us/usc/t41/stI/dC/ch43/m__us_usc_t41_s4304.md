@@ -87,7 +87,7 @@
 
     The provisions of the Federal Acquisition Regulation implementing this chapter may establish appropriate definitions, exclusions, limitations, and qualifications. A submission by a contractor of costs that are incurred by the contractor and that are claimed to be allowable under Department of Energy management and operating contracts shall be considered a proposal for settlement of indirect costs incurred by the contractor for any period after those costs have been accrued.
 
-([Pub. L. 111–350, § 3][/us/pl/111/350/s3], Jan. 4, 2011, [124 Stat. 3785][/us/stat/124/3785]; [Pub. L. 113–66, div. A, title VIII, § 811(b)][/us/pl/113/66/s811/b], Dec. 26, 2013, [127 Stat. 806][/us/stat/127/806]; [Pub. L. 113–67, div. A, title VII, § 702(a)(1)][/us/pl/113/67/s702/a/1], Dec. 26, 2013, [127 Stat. 1189][/us/stat/127/1189].)
+([Pub. L. 111–350][/us/pl/111/350], § 3, Jan. 4, 2011, [124 Stat. 3785][/us/stat/124/3785]; [Pub. L. 113–66, div. A, title VIII][/us/pl/113/66/dA/tVIII], § 811(b), Dec. 26, 2013, [127 Stat. 806][/us/stat/127/806]; [Pub. L. 113–67, div. A, title VII][/us/pl/113/67/dA/tVII], § 702(a)(1), Dec. 26, 2013, [127 Stat. 1189][/us/stat/127/1189].)
 
 <table>
 
@@ -147,7 +147,7 @@ June 30, 1949, ch. 288, title III, § 306(e), as added Pub. L. 100–700, §�
 
  __Reports__ 
 
-[Pub. L. 113–67, div. A, title VII, § 702(d)][/us/pl/113/67/s702/d], Dec. 26, 2013, [127 Stat. 1189][/us/stat/127/1189], provided that:
+[Pub. L. 113–67, div. A, title VII][/us/pl/113/67/dA/tVII], § 702(d), Dec. 26, 2013, [127 Stat. 1189][/us/stat/127/1189], provided that:
 
 >     “(1)  __In general__  __.—__ 
 
@@ -177,7 +177,7 @@ June 30, 1949, ch. 288, title III, § 306(e), as added Pub. L. 100–700, §�
 
  __Revision of Cost Principle Relating to Entertainment, Gift, and Recreation Costs for Contractor Employees__ 
 
-[Pub. L. 103–355, title II, § 2192][/us/pl/103/355/s2192], Oct. 13, 1994, [108 Stat. 3315][/us/stat/108/3315], provided that:
+[Pub. L. 103–355, title II][/us/pl/103/355/tII], § 2192, Oct. 13, 1994, [108 Stat. 3315][/us/stat/108/3315], provided that:
 
 >     “(a)  __Costs Not Allowable__  __.—__ 
 
@@ -245,11 +245,11 @@ Sec. 4. Examples of costs unallowable under section 2 of this order include the 
 ----------
 
 [/us/usc/t41/s4310]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs4310
-[/us/pl/111/350/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350%2Fs3
+[/us/pl/111/350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350
 [/us/stat/124/3785]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3785
-[/us/pl/113/66/s811/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs811%2Fb
+[/us/pl/113/66/dA/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2FdA%2FtVIII
 [/us/stat/127/806]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F806
-[/us/pl/113/67/s702/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F67%2Fs702%2Fa%2F1
+[/us/pl/113/67/dA/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F67%2FdA%2FtVII
 [/us/stat/127/1189]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F1189
 [/us/pl/113/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66
 [/us/pl/113/67]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F67
@@ -260,9 +260,9 @@ Sec. 4. Examples of costs unallowable under section 2 of this order include the 
 [/us/pl/113/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66
 [/us/pl/113/66/s811/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs811%2Fd
 [/us/usc/t10/s2324]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2324
-[/us/pl/113/67/s702/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F67%2Fs702%2Fd
+[/us/pl/113/67/dA/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F67%2FdA%2FtVII
 [/us/stat/127/1189]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F1189
-[/us/pl/103/355/s2192]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F355%2Fs2192
+[/us/pl/103/355/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F355%2FtII
 [/us/stat/108/3315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3315
 [/us/usc/t41/s4301/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs4301%2F2
 [/us/usc/t10/s2302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2302

@@ -37,7 +37,7 @@
 
         An action under paragraph (1) or (2) shall proceed de novo in accordance with the rules of the appropriate court.
 
-([Pub. L. 111–350, § 3][/us/pl/111/350/s3], Jan. 4, 2011, [124 Stat. 3820][/us/stat/124/3820].)
+([Pub. L. 111–350][/us/pl/111/350], § 3, Jan. 4, 2011, [124 Stat. 3820][/us/stat/124/3820].)
 
 <table>
 
@@ -117,7 +117,7 @@ Pub. L. 95–563, § 10(a), Nov. 1, 1978, 92 Stat. 2388; Pub. L. 97–164, tit
 [/us/usc/t41/s7103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs7103
 [/us/usc/t28/s1337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs1337
 [/us/usc/t41/s7103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs7103
-[/us/pl/111/350/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350%2Fs3
+[/us/pl/111/350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350
 [/us/stat/124/3820]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3820
 [/us/pl/102/572]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F572
 [/us/stat/106/4516]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4516

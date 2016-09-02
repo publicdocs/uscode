@@ -173,7 +173,7 @@
 
         This subsection does not require the public availability of information that is exempt from public disclosure under [section 552(b) of title 5][/us/usc/t5/s552/b].
 
-([Pub. L. 111–350, § 3][/us/pl/111/350/s3], Jan. 4, 2011, [124 Stat. 3748][/us/stat/124/3748].)
+([Pub. L. 111–350][/us/pl/111/350], § 3, Jan. 4, 2011, [124 Stat. 3748][/us/stat/124/3748].)
 
 <table>
 
@@ -349,7 +349,7 @@ June 30, 1949, ch. 288, title III, § 303(c)–(f), (j), 63 Stat. 395; July 12
 
  __Justification and Approval of Sole-Source Contracts__ 
 
-[Pub. L. 111–84, div. A, title VIII, § 811][/us/pl/111/84/s811], Oct. 28, 2009, [123 Stat. 2405][/us/stat/123/2405], provided that:
+[Pub. L. 111–84, div. A, title VIII][/us/pl/111/84/dA/tVIII], § 811, Oct. 28, 2009, [123 Stat. 2405][/us/stat/123/2405], provided that:
 
 >     “(a)  __In General__  __.—__ 
 
@@ -415,14 +415,14 @@ June 30, 1949, ch. 288, title III, § 303(c)–(f), (j), 63 Stat. 395; July 12
 [/us/usc/t41/s1708]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs1708
 [/us/usc/t15/s637/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs637%2Fa
 [/us/usc/t5/s552/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs552%2Fb
-[/us/pl/111/350/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350%2Fs3
+[/us/pl/111/350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350
 [/us/stat/124/3748]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3748
 [/us/usc/t5/s5376]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5376
 [/us/pl/101/509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F509
 [/us/stat/104/1442]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1442
 [/us/usc/t5/s5376]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5376
 [/us/usc/t5/s5376]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5376
-[/us/pl/111/84/s811]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2Fs811
+[/us/pl/111/84/dA/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2FdA%2FtVIII
 [/us/stat/123/2405]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F2405
 [/us/usc/t41/s253/f/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs253%2Ff%2F1%2FC
 [/us/usc/t41/s3304/e/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs3304%2Fe%2F1%2FC

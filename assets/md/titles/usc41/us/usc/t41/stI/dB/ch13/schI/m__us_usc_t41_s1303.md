@@ -81,7 +81,7 @@
 
     Subject to [section 1121(d) of this title][/us/usc/t41/s1121/d], the Council shall manage, coordinate, control, and monitor the maintenance of, issuance of, and changes in, the Federal Acquisition Regulation.
 
-([Pub. L. 111–350, § 3][/us/pl/111/350/s3], Jan. 4, 2011, [124 Stat. 3691][/us/stat/124/3691].)
+([Pub. L. 111–350][/us/pl/111/350], § 3, Jan. 4, 2011, [124 Stat. 3691][/us/stat/124/3691].)
 
 <table>
 
@@ -195,7 +195,7 @@ Pub. L. 93–400, § 25(c)–(f), as added Pub. L. 100–679, § 4, Nov. 17,
 [/us/usc/t41/s1302/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs1302%2Fb
 [/us/usc/t41/s1121/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs1121%2Fb
 [/us/usc/t41/s1121/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs1121%2Fd
-[/us/pl/111/350/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350%2Fs3
+[/us/pl/111/350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350
 [/us/stat/124/3691]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3691
 [/us/pl/104/106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106
 [/us/stat/110/665]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F665

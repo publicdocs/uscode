@@ -29,7 +29,7 @@
 
         (2) The Secretary of Defense may satisfy the requirements of this section by complying with the requirements of section 892 of the Ike Skelton National Defense Authorization Act for Fiscal Year 2011 ([10 U.S.C. 2306a][/us/usc/t10/s2306a] note).
 
-(Added [Pub. L. 112–239, div. A, title VIII, § 851(a)(1)][/us/pl/112/239/s851/a/1], Jan. 2, 2013, [126 Stat. 1855][/us/stat/126/1855].)
+(Added [Pub. L. 112–239, div. A, title VIII][/us/pl/112/239/dA/tVIII], § 851(a)(1), Jan. 2, 2013, [126 Stat. 1855][/us/stat/126/1855].)
 
  __References in Text__ 
 
@@ -37,7 +37,7 @@
 
  __Use of Elements of Department of Defense Pilot Project__ 
 
-[Pub. L. 112–239, div. A, title VIII, § 851(b)][/us/pl/112/239/s851/b], Jan. 2, 2013, [126 Stat. 1855][/us/stat/126/1855], provided that: 
+[Pub. L. 112–239, div. A, title VIII][/us/pl/112/239/dA/tVIII], § 851(b), Jan. 2, 2013, [126 Stat. 1855][/us/stat/126/1855], provided that: 
 
 > “In establishing the database required by [section 3312 of title 41][/us/usc/t41/s3312], United States Code (as added by subsection (a)), the Administrator for Federal Procurement Policy shall use and incorporate appropriate elements of the pilot project on pricing being carried out by the Under Secretary of Defense for Acquisition, Technology, and Logistics pursuant to section 892 of the Ike Skelton National Defense Authorization Act for Fiscal Year 2011 \[[Pub. L. 111–383][/us/pl/111/383]\] ([10 U.S.C. 2306a][/us/usc/t10/s2306a] note) and the Better Buying Power initiative of the Secretary of Defense.”
 
@@ -49,11 +49,11 @@
 ----------
 
 [/us/usc/t10/s2306a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2306a
-[/us/pl/112/239/s851/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs851%2Fa%2F1
+[/us/pl/112/239/dA/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2FdA%2FtVIII
 [/us/stat/126/1855]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1855
 [/us/pl/111/383/s892]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2Fs892
 [/us/usc/t10/s2306a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2306a
-[/us/pl/112/239/s851/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs851%2Fb
+[/us/pl/112/239/dA/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2FdA%2FtVIII
 [/us/stat/126/1855]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1855
 [/us/usc/t41/s3312]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs3312
 [/us/pl/111/383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383

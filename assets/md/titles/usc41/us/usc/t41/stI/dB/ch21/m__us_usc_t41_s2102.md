@@ -41,7 +41,7 @@
 
     Except as provided by law, a person shall not knowingly obtain contractor bid or proposal information or source selection information before the award of a Federal agency procurement contract to which the information relates.
 
-([Pub. L. 111–350, § 3][/us/pl/111/350/s3], Jan. 4, 2011, [124 Stat. 3728][/us/stat/124/3728].)
+([Pub. L. 111–350][/us/pl/111/350], § 3, Jan. 4, 2011, [124 Stat. 3728][/us/stat/124/3728].)
 
 <table>
 
@@ -110,7 +110,7 @@ Pub. L. 93–400, § 27(a), (b), as added Pub. L. 100–679, § 6(a), Nov. 1
 ----------
 ----------
 
-[/us/pl/111/350/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350%2Fs3
+[/us/pl/111/350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350
 [/us/stat/124/3728]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3728
 
 

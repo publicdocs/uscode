@@ -33,7 +33,7 @@
 
         (B) provides for the issuance of orders for the performance of tasks during the period of the contract.
 
-([Pub. L. 111–350, § 3][/us/pl/111/350/s3], Jan. 4, 2011, [124 Stat. 3778][/us/stat/124/3778].)
+([Pub. L. 111–350][/us/pl/111/350], § 3, Jan. 4, 2011, [124 Stat. 3778][/us/stat/124/3778].)
 
 <table>
 
@@ -88,7 +88,7 @@ June 30, 1949, ch. 288, title III, § 303K, as added Pub. L. 103–355, title 
 ----------
 ----------
 
-[/us/pl/111/350/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350%2Fs3
+[/us/pl/111/350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350
 [/us/stat/124/3778]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3778
 
 

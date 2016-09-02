@@ -31,7 +31,7 @@
 
     (7) is otherwise qualified and eligible to receive an award under applicable laws and regulations.
 
-([Pub. L. 111–350, § 3][/us/pl/111/350/s3], Jan. 4, 2011, [124 Stat. 3681][/us/stat/124/3681].)
+([Pub. L. 111–350][/us/pl/111/350], § 3, Jan. 4, 2011, [124 Stat. 3681][/us/stat/124/3681].)
 
 <table>
 
@@ -102,7 +102,7 @@ Pub. L. 93–400, § 4(7), formerly § 4(8), as added Pub. L. 98–369, titl
 ----------
 ----------
 
-[/us/pl/111/350/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350%2Fs3
+[/us/pl/111/350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350
 [/us/stat/124/3681]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3681
 
 

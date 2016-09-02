@@ -57,7 +57,7 @@
 
     (8) a nondevelopmental item if the procuring agency determines, in accordance with conditions in the Federal Acquisition Regulation, that the item was developed exclusively at private expense and has been sold in substantial quantities, on a competitive basis, to multiple State and local governments.
 
-([Pub. L. 111–350, § 3][/us/pl/111/350/s3], Jan. 4, 2011, [124 Stat. 3679][/us/stat/124/3679].)
+([Pub. L. 111–350][/us/pl/111/350], § 3, Jan. 4, 2011, [124 Stat. 3679][/us/stat/124/3679].)
 
 <table>
 
@@ -144,7 +144,7 @@ Pub. L. 93–400, § 4(12), as added Pub. L. 103–355, title VIII, § 8001(
 ----------
 ----------
 
-[/us/pl/111/350/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350%2Fs3
+[/us/pl/111/350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350
 [/us/stat/124/3679]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3679
 
 

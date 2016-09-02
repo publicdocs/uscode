@@ -121,11 +121,11 @@
 
         (3) mail or otherwise furnish a copy of the decision to the contractor and the contracting officer.
 
-([Pub. L. 111–350, § 3][/us/pl/111/350/s3], Jan. 4, 2011, [124 Stat. 3820][/us/stat/124/3820]; [Pub. L. 111–259, title IV, § 422][/us/pl/111/259/s422], Oct. 7, 2010, [124 Stat. 2727][/us/stat/124/2727]; [Pub. L. 111–383, div. A, title X, § 1075][/us/pl/111/383/s1075](o), Jan. 7, 2011, [124 Stat. 4378][/us/stat/124/4378].)
+([Pub. L. 111–350][/us/pl/111/350], § 3, Jan. 4, 2011, [124 Stat. 3820][/us/stat/124/3820]; [Pub. L. 111–259, title IV][/us/pl/111/259/tIV], § 422, Oct. 7, 2010, [124 Stat. 2727][/us/stat/124/2727]; [Pub. L. 111–383, div. A, title X][/us/pl/111/383/dA/tX], § 1075(o), Jan. 7, 2011, [124 Stat. 4378][/us/stat/124/4378].)
 
  __Amendments Not Shown in Text__ 
 
-    Subsecs. (b) and (e)(1)(A), (B), (D) and (2) of this section were derived from sections 438 and 607(d), respectively, of former Title 41, Public Contracts. Sections 438 and 607(d) were amended by [Pub. L. 111–383, div. A, title X, § 1075][/us/pl/111/383/s1075](o), Jan. 7, 2011, [124 Stat. 4378][/us/stat/124/4378], and [Pub. L. 111–259, title IV, § 422][/us/pl/111/259/s422], Oct. 7, 2010, [124 Stat. 2727][/us/stat/124/2727], respectively, prior to being repealed and reenacted as subsecs. (b) and (e)(1)(A), (B), (D) and (2) of this section by [Pub. L. 111–350][/us/pl/111/350], §§ 3, 7(b), Jan. 4, 2011, [124 Stat. 3677][/us/stat/124/3677], 3855. For applicability of those amendments to this section, see [section 6(a) of Pub. L. 111–350][/us/pl/111/350/s6/a], set out as a Transitional and Savings Provisions note preceding [section 101 of this title][/us/usc/t41/s101]. Section 438 of former Title 41 was amended in subsec. (c)(1) by striking “([41 U.S.C. 607(b)][/us/usc/t41/s607/b])” and inserting “([41 U.S.C. 607(d)][/us/usc/t41/s607/d])” and in subsec. (c)(2)(A) by inserting “of 1978” after “Contract Disputes Act”. Section 607(d) of former Title 41 was amended by adding at the end “Notwithstanding any other provision of this section and any other provision of law, an appeal from a decision of a contracting officer of the Central Intelligence Agency relative to a contract made by that Agency may be filed with whichever of the Armed Services Board of Contract Appeals or the Civilian Board of Contract Appeals is specified by such contracting officer as the Board to which such an appeal may be made and such Board shall have jurisdiction to decide that appeal.”
+    Subsecs. (b) and (e)(1)(A), (B), (D) and (2) of this section were derived from sections 438 and 607(d), respectively, of former Title 41, Public Contracts. Sections 438 and 607(d) were amended by [Pub. L. 111–383, div. A, title X][/us/pl/111/383/dA/tX], § 1075(o), Jan. 7, 2011, [124 Stat. 4378][/us/stat/124/4378], and [Pub. L. 111–259, title IV][/us/pl/111/259/tIV], § 422, Oct. 7, 2010, [124 Stat. 2727][/us/stat/124/2727], respectively, prior to being repealed and reenacted as subsecs. (b) and (e)(1)(A), (B), (D) and (2) of this section by [Pub. L. 111–350][/us/pl/111/350], §§ 3, 7(b), Jan. 4, 2011, [124 Stat. 3677][/us/stat/124/3677], 3855. For applicability of those amendments to this section, see [section 6(a) of Pub. L. 111–350][/us/pl/111/350/s6/a], set out as a Transitional and Savings Provisions note preceding [section 101 of this title][/us/usc/t41/s101]. Section 438 of former Title 41 was amended in subsec. (c)(1) by striking “([41 U.S.C. 607(b)][/us/usc/t41/s607/b])” and inserting “([41 U.S.C. 607(d)][/us/usc/t41/s607/d])” and in subsec. (c)(2)(A) by inserting “of 1978” after “Contract Disputes Act”. Section 607(d) of former Title 41 was amended by adding at the end “Notwithstanding any other provision of this section and any other provision of law, an appeal from a decision of a contracting officer of the Central Intelligence Agency relative to a contract made by that Agency may be filed with whichever of the Armed Services Board of Contract Appeals or the Civilian Board of Contract Appeals is specified by such contracting officer as the Board to which such an appeal may be made and such Board shall have jurisdiction to decide that appeal.”
 
 <table>
 
@@ -334,15 +334,15 @@ Pub. L. 95–563, § 8(e), Nov. 1, 1978, 92 Stat. 2386.  </td>
 [/us/usc/t5/s5372a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5372a
 [/us/usc/t5/s7521]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs7521
 [/us/usc/t5/s5372a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5372a
-[/us/pl/111/350/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350%2Fs3
+[/us/pl/111/350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350
 [/us/stat/124/3820]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3820
-[/us/pl/111/259/s422]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F259%2Fs422
+[/us/pl/111/259/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F259%2FtIV
 [/us/stat/124/2727]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2727
-[/us/pl/111/383/s1075]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2Fs1075
+[/us/pl/111/383/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2FdA%2FtX
 [/us/stat/124/4378]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F4378
-[/us/pl/111/383/s1075]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2Fs1075
+[/us/pl/111/383/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2FdA%2FtX
 [/us/stat/124/4378]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F4378
-[/us/pl/111/259/s422]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F259%2Fs422
+[/us/pl/111/259/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F259%2FtIV
 [/us/stat/124/2727]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2727
 [/us/pl/111/350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350
 [/us/stat/124/3677]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3677

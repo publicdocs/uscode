@@ -103,11 +103,11 @@
 
     The requirements of this section shall not apply to the Department of Defense. See [section 2784 of title 10][/us/usc/t10/s2784] for provisions relating to management of purchase cards in the Department.
 
-(Added [Pub. L. 112–194, § 2(a)(1)][/us/pl/112/194/s2/a/1], Oct. 5, 2012, [126 Stat. 1445][/us/stat/126/1445].)
+(Added [Pub. L. 112–194][/us/pl/112/194], § 2(a)(1), Oct. 5, 2012, [126 Stat. 1445][/us/stat/126/1445].)
 
  __Deadline for Guidance on Management of Purchase Cards__ 
 
-[Pub. L. 112–194, § 2(c)][/us/pl/112/194/s2/c], Oct. 5, 2012, [126 Stat. 1448][/us/stat/126/1448], provided that: 
+[Pub. L. 112–194][/us/pl/112/194], § 2(c), Oct. 5, 2012, [126 Stat. 1448][/us/stat/126/1448], provided that: 
 
 > “The Director of the Office of Management and Budget shall prescribe the guidance required by [section 1909(b) of title 41][/us/usc/t41/s1909/b], United States Code, as added by subsection (a), not later than 180 days after the date of the enactment of this Act \[Oct. 5, 2012\].”
 
@@ -119,9 +119,9 @@
 ----------
 
 [/us/usc/t10/s2784]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2784
-[/us/pl/112/194/s2/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F194%2Fs2%2Fa%2F1
+[/us/pl/112/194]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F194
 [/us/stat/126/1445]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1445
-[/us/pl/112/194/s2/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F194%2Fs2%2Fc
+[/us/pl/112/194]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F194
 [/us/stat/126/1448]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1448
 [/us/usc/t41/s1909/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs1909%2Fb
 

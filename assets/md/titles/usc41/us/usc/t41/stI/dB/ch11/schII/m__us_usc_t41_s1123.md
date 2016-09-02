@@ -21,7 +21,7 @@
 
     (2) incorporate into revised procurement regulations simplified bidding, contract performance, and contract administration procedures for small business concerns.
 
-([Pub. L. 111–350, § 3][/us/pl/111/350/s3], Jan. 4, 2011, [124 Stat. 3687][/us/stat/124/3687].)
+([Pub. L. 111–350][/us/pl/111/350], § 3, Jan. 4, 2011, [124 Stat. 3687][/us/stat/124/3687].)
 
 <table>
 
@@ -76,7 +76,7 @@ Pub. L. 95–507, title II, § 222 (last sentence), Oct. 24, 1978, 92 Stat. 17
 ----------
 ----------
 
-[/us/pl/111/350/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350%2Fs3
+[/us/pl/111/350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350
 [/us/stat/124/3687]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3687
 
 

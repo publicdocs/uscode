@@ -79,7 +79,7 @@
 
     In this section, the term “overseas contingency operations” means military operations outside the United States and its territories and possessions that are a contingency operation (as that term is defined in [section 101(a)(13) of title 10][/us/usc/t10/s101/a/13]).
 
-([Pub. L. 111–350, § 3][/us/pl/111/350/s3], Jan. 4, 2011, [124 Stat. 3701][/us/stat/124/3701]; [Pub. L. 112–239, div. A, title VIII, § 849][/us/pl/112/239/s849], Jan. 2, 2013, [126 Stat. 1853][/us/stat/126/1853].)
+([Pub. L. 111–350][/us/pl/111/350], § 3, Jan. 4, 2011, [124 Stat. 3701][/us/stat/124/3701]; [Pub. L. 112–239, div. A, title VIII][/us/pl/112/239/dA/tVIII], § 849, Jan. 2, 2013, [126 Stat. 1853][/us/stat/126/1853].)
 
 <table>
 
@@ -157,9 +157,9 @@ Pub. L. 93–400, § 16, as added Pub. L. 98–191, § 7, Dec. 1, 1983, 97 S
 
  __Amendments__ 
 
-    2013—Subsec. (b)(3)(F) to (H). [Pub. L. 112–239, § 849(a)][/us/pl/112/239/s849/a], added subpar. (F) and redesignated former subpars. (F) and (G) as (G) and (H), respectively.
+    2013—Subsec. (b)(3)(F) to (H). [Pub. L. 112–239][/us/pl/112/239], § 849(a), added subpar. (F) and redesignated former subpars. (F) and (G) as (G) and (H), respectively.
 
-    Subsec. (d). [Pub. L. 112–239, § 849(b)][/us/pl/112/239/s849/b], added subsec. (d).
+    Subsec. (d). [Pub. L. 112–239][/us/pl/112/239], § 849(b), added subsec. (d).
 
 ----------
 
@@ -173,11 +173,11 @@ Pub. L. 93–400, § 16, as added Pub. L. 98–191, § 7, Dec. 1, 1983, 97 S
 [/us/pl/103/62/s5/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F62%2Fs5%2Fa
 [/us/stat/107/289]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F289
 [/us/usc/t10/s101/a/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs101%2Fa%2F13
-[/us/pl/111/350/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350%2Fs3
+[/us/pl/111/350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350
 [/us/stat/124/3701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3701
-[/us/pl/112/239/s849]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs849
+[/us/pl/112/239/dA/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2FdA%2FtVIII
 [/us/stat/126/1853]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1853
-[/us/pl/112/239/s849/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs849%2Fa
-[/us/pl/112/239/s849/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs849%2Fb
+[/us/pl/112/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239
+[/us/pl/112/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239
 
 

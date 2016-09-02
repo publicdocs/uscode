@@ -133,7 +133,7 @@
 
             A contractor that rejects an agency’s request for alternative dispute resolution proceedings shall inform the agency in writing of the contractor’s specific reasons for rejecting the request.
 
-([Pub. L. 111–350, § 3][/us/pl/111/350/s3], Jan. 4, 2011, [124 Stat. 3817][/us/stat/124/3817].)
+([Pub. L. 111–350][/us/pl/111/350], § 3, Jan. 4, 2011, [124 Stat. 3817][/us/stat/124/3817].)
 
 <table>
 
@@ -525,7 +525,7 @@ Pub. L. 95–563, § 6(e), as added Pub. L. 101–552, § 6(a), Nov. 15, 199
 ----------
 
 [/us/usc/t5/s572/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs572%2Fb
-[/us/pl/111/350/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350%2Fs3
+[/us/pl/111/350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350
 [/us/stat/124/3817]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3817
 [/us/pl/95/563]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F563
 [/us/stat/92/2384]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2384

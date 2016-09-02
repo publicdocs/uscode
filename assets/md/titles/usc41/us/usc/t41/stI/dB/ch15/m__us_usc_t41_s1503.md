@@ -27,7 +27,7 @@
 
     The interest rate applicable to a contract price adjustment is the annual rate of interest established under section 6621 of the Internal Revenue Code of 1986 ([26 U.S.C. 6621][/us/usc/t26/s6621]) for the period. Interest accrues from the time payments of the increased costs were made to the contractor or subcontractor to the time the Federal Government receives full compensation for the price adjustment.
 
-([Pub. L. 111–350, § 3][/us/pl/111/350/s3], Jan. 4, 2011, [124 Stat. 3699][/us/stat/124/3699].)
+([Pub. L. 111–350][/us/pl/111/350], § 3, Jan. 4, 2011, [124 Stat. 3699][/us/stat/124/3699].)
 
 <table>
 
@@ -112,7 +112,7 @@ Pub. L. 93–400, § 26(h)(2)–(4), as added Pub. L. 100–679, § 5(a), No
 
 [/us/usc/t41/s1502/f/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs1502%2Ff%2F2
 [/us/usc/t26/s6621]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs6621
-[/us/pl/111/350/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350%2Fs3
+[/us/pl/111/350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350
 [/us/stat/124/3699]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3699
 
 

@@ -45,7 +45,7 @@
 
     The contracting officer shall include a summary of the debriefing in the contract file.
 
-([Pub. L. 111–350, § 3][/us/pl/111/350/s3], Jan. 4, 2011, [124 Stat. 3772][/us/stat/124/3772].)
+([Pub. L. 111–350][/us/pl/111/350], § 3, Jan. 4, 2011, [124 Stat. 3772][/us/stat/124/3772].)
 
 <table>
 
@@ -171,7 +171,7 @@ June 30, 1949, ch. 288, title III, § 303B(f), (g) (related to § 303B(f)), 
 ----------
 
 [/us/usc/t41/s3704]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs3704
-[/us/pl/111/350/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350%2Fs3
+[/us/pl/111/350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350
 [/us/stat/124/3772]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3772
 
 

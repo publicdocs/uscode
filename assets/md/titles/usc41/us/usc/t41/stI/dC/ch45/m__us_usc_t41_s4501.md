@@ -21,7 +21,7 @@
 
     (2) insert in solicitations for procurement of property or services a provision limiting to small business concerns advance or progress payments.
 
-([Pub. L. 111–350, § 3][/us/pl/111/350/s3], Jan. 4, 2011, [124 Stat. 3790][/us/stat/124/3790].)
+([Pub. L. 111–350][/us/pl/111/350], § 3, Jan. 4, 2011, [124 Stat. 3790][/us/stat/124/3790].)
 
 <table>
 
@@ -71,7 +71,7 @@ June 30, 1949, ch. 288, title III, § 305(a), 63 Stat. 396; July 12, 1952, ch.
 
  __Relationship to Prompt Payment Requirements__ 
 
-[Pub. L. 103–355, title II, § 2051(f)][/us/pl/103/355/s2051/f], Oct. 13, 1994, [108 Stat. 3306][/us/stat/108/3306], provided that: 
+[Pub. L. 103–355, title II][/us/pl/103/355/tII], § 2051(f), Oct. 13, 1994, [108 Stat. 3306][/us/stat/108/3306], provided that: 
 
 > “The amendments made by this section \[see Tables for classification\] are not intended to impair or modify procedures required by the provisions of chapter 39 of title 31, United States Code, and the regulations issued pursuant to such provisions of law (as such procedures are in effect on the date of the enactment of this Act \[Oct. 13, 1994\]), except that the Government may accept payment terms offered by a contractor offering a commercial item.”
 
@@ -82,9 +82,9 @@ June 30, 1949, ch. 288, title III, § 305(a), 63 Stat. 396; July 12, 1952, ch.
 ----------
 ----------
 
-[/us/pl/111/350/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350%2Fs3
+[/us/pl/111/350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350
 [/us/stat/124/3790]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3790
-[/us/pl/103/355/s2051/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F355%2Fs2051%2Ff
+[/us/pl/103/355/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F355%2FtII
 [/us/stat/108/3306]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3306
 
 

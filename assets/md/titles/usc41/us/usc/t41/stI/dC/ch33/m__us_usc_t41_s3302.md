@@ -101,11 +101,11 @@
 
     The regulations required by subsection (b) shall apply to all individual purchases of property or services that are made under multiple award contracts on or after the effective date of the regulations, without regard to whether the multiple award contracts were entered into before, on, or after the effective date.
 
-([Pub. L. 111–350, § 3][/us/pl/111/350/s3], Jan. 4, 2011, [124 Stat. 3746][/us/stat/124/3746]; [Pub. L. 111–383, div. A, title X, § 1075(e)(14)][/us/pl/111/383/s1075/e/14], Jan. 7, 2011, [124 Stat. 4375][/us/stat/124/4375].)
+([Pub. L. 111–350][/us/pl/111/350], § 3, Jan. 4, 2011, [124 Stat. 3746][/us/stat/124/3746]; [Pub. L. 111–383, div. A, title X][/us/pl/111/383/dA/tX], § 1075(e)(14), Jan. 7, 2011, [124 Stat. 4375][/us/stat/124/4375].)
 
  __Amendment Not Shown in Text__ 
 
-    This section was derived from [Pub. L. 110–417][/us/pl/110/417], \[div. A\], title VIII, § 863(a)–(e), Oct. 14, 2008, [122 Stat. 4547][/us/stat/122/4547], which was set out as a note under section 253h of former Title 41, Public Contracts, prior to being repealed and reenacted by [Pub. L. 111–350][/us/pl/111/350], §§ 3, 7(b), Jan. 4, 2011, [124 Stat. 3677][/us/stat/124/3677], 3855. [Section 863(b)(3)(A) of Pub. L. 110–417][/us/pl/110/417/s863/b/3/A] was restated as subsec. (c)(3)(A) of this section and subsequently amended by [Pub. L. 111–383, div. A, title X, § 1075(e)(14)][/us/pl/111/383/s1075/e/14], Jan. 7, 2011, [124 Stat. 4375][/us/stat/124/4375]. For applicability of that amendment to this section, see [section 6(a) of Pub. L. 111–350][/us/pl/111/350/s6/a], set out as a Transitional and Savings Provisions note preceding [section 101 of this title][/us/usc/t41/s101]. [Section 863(b)(3)(A) of Pub. L. 110–417][/us/pl/110/417/s863/b/3/A] was amended by striking “subsection (d)(2)(A)” and inserting “subsection (d)(3)(A)”. Such reference did not appear in the text of subsec. (c)(3)(A) as enacted. See Historical and Revision Notes below.
+    This section was derived from [Pub. L. 110–417][/us/pl/110/417], \[div. A\], title VIII, § 863(a)–(e), Oct. 14, 2008, [122 Stat. 4547][/us/stat/122/4547], which was set out as a note under section 253h of former Title 41, Public Contracts, prior to being repealed and reenacted by [Pub. L. 111–350][/us/pl/111/350], §§ 3, 7(b), Jan. 4, 2011, [124 Stat. 3677][/us/stat/124/3677], 3855. [Section 863(b)(3)(A) of Pub. L. 110–417][/us/pl/110/417/s863/b/3/A] was restated as subsec. (c)(3)(A) of this section and subsequently amended by [Pub. L. 111–383, div. A, title X][/us/pl/111/383/dA/tX], § 1075(e)(14), Jan. 7, 2011, [124 Stat. 4375][/us/stat/124/4375]. For applicability of that amendment to this section, see [section 6(a) of Pub. L. 111–350][/us/pl/111/350/s6/a], set out as a Transitional and Savings Provisions note preceding [section 101 of this title][/us/usc/t41/s101]. [Section 863(b)(3)(A) of Pub. L. 110–417][/us/pl/110/417/s863/b/3/A] was amended by striking “subsection (d)(2)(A)” and inserting “subsection (d)(3)(A)”. Such reference did not appear in the text of subsec. (c)(3)(A) as enacted. See Historical and Revision Notes below.
 
 <table>
 
@@ -175,16 +175,16 @@ Pub. L. 110–417, [div. A], title VIII, § 863(a)–(e), Oct. 14, 2008, 122 S
 [/us/usc/t10/s2304/f/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2304%2Ff%2F1
 [/us/usc/t41/s3304/e/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs3304%2Fe%2F1
 [/us/usc/t5/s552/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs552%2Fb
-[/us/pl/111/350/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350%2Fs3
+[/us/pl/111/350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350
 [/us/stat/124/3746]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3746
-[/us/pl/111/383/s1075/e/14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2Fs1075%2Fe%2F14
+[/us/pl/111/383/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2FdA%2FtX
 [/us/stat/124/4375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F4375
 [/us/pl/110/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F417
 [/us/stat/122/4547]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4547
 [/us/pl/111/350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350
 [/us/stat/124/3677]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3677
 [/us/pl/110/417/s863/b/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F417%2Fs863%2Fb%2F3%2FA
-[/us/pl/111/383/s1075/e/14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2Fs1075%2Fe%2F14
+[/us/pl/111/383/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2FdA%2FtX
 [/us/stat/124/4375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F4375
 [/us/pl/111/350/s6/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350%2Fs6%2Fa
 [/us/usc/t41/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs101

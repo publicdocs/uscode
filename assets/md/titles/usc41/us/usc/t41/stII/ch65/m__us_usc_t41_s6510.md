@@ -23,7 +23,7 @@
 
     An interested person has the right of judicial review of any legal question relating to interpretation of the terms “regular dealer” and “manufacturer” as defined pursuant to subsection (a).
 
-([Pub. L. 111–350, § 3][/us/pl/111/350/s3], Jan. 4, 2011, [124 Stat. 3811][/us/stat/124/3811].)
+([Pub. L. 111–350][/us/pl/111/350], § 3, Jan. 4, 2011, [124 Stat. 3811][/us/stat/124/3811].)
 
 <table>
 
@@ -80,7 +80,7 @@ June 30, 1936, ch. 881, § 11, as added Pub. L. 103–355, title VII, § 720
 ----------
 ----------
 
-[/us/pl/111/350/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350%2Fs3
+[/us/pl/111/350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350
 [/us/stat/124/3811]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3811
 
 

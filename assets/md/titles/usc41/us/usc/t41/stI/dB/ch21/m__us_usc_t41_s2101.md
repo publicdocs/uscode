@@ -79,7 +79,7 @@
 
         (J) Other information marked as “source selection information” based on a case-by-case determination by the head of the agency, the head’s designee, or the contracting officer that its disclosure would jeopardize the integrity or successful completion of the Federal agency procurement to which the information relates.
 
-([Pub. L. 111–350, § 3][/us/pl/111/350/s3], Jan. 4, 2011, [124 Stat. 3727][/us/stat/124/3727].)
+([Pub. L. 111–350][/us/pl/111/350], § 3, Jan. 4, 2011, [124 Stat. 3727][/us/stat/124/3727].)
 
 <table>
 
@@ -224,7 +224,7 @@ Pub. L. 93–400, § 27(f), as added Pub. L. 100–679, § 6(a), Nov. 17, 19
 [/us/usc/t5/s2104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs2104
 [/us/usc/t5/s2105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs2105
 [/us/usc/t5/s2101/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs2101%2F3
-[/us/pl/111/350/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350%2Fs3
+[/us/pl/111/350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350
 [/us/stat/124/3727]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3727
 
 

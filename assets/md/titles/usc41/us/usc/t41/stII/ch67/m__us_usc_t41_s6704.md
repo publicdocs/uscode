@@ -23,7 +23,7 @@
 
     Sections 6705 to 6707(d) of this title are applicable to a violation of this section.
 
-([Pub. L. 111–350, § 3][/us/pl/111/350/s3], Jan. 4, 2011, [124 Stat. 3813][/us/stat/124/3813].)
+([Pub. L. 111–350][/us/pl/111/350], § 3, Jan. 4, 2011, [124 Stat. 3813][/us/stat/124/3813].)
 
 <table>
 
@@ -79,7 +79,7 @@ Pub. L. 89–286, § 2(b), Oct. 22, 1965, 79 Stat. 1034; Pub. L. 94–489, §�
 ----------
 
 [/us/usc/t29/s206/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs206%2Fa%2F1
-[/us/pl/111/350/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350%2Fs3
+[/us/pl/111/350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350
 [/us/stat/124/3813]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3813
 
 

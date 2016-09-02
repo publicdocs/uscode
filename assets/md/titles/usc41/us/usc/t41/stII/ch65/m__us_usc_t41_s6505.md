@@ -37,7 +37,7 @@
 
         (2) common carriers subject to the Communications Act of 1934 ([47 U.S.C. 151][/us/usc/t47/s151] et seq.).
 
-([Pub. L. 111–350, § 3][/us/pl/111/350/s3], Jan. 4, 2011, [124 Stat. 3809][/us/stat/124/3809].)
+([Pub. L. 111–350][/us/pl/111/350], § 3, Jan. 4, 2011, [124 Stat. 3809][/us/stat/124/3809].)
 
 <table>
 
@@ -97,7 +97,7 @@ June 30, 1936, ch. 881, § 9, 49 Stat. 2039.  </td>
 ----------
 
 [/us/usc/t47/s151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs151
-[/us/pl/111/350/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350%2Fs3
+[/us/pl/111/350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350
 [/us/stat/124/3809]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3809
 [/us/act/1934-06-19/ch652]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-19%2Fch652
 [/us/stat/48/1064]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F1064

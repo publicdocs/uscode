@@ -23,7 +23,7 @@
 
     Unless the Secretary recommends otherwise because of unusual circumstances, a Federal Government contract may not be awarded to a person or firm named on the list under subsection (a), or to an entity in which the person or firm has a substantial interest, until 3 years have elapsed from the date of publication of the list. If the Secretary does not recommend otherwise because of unusual circumstances, the Secretary shall, not later than 90 days after a hearing examiner has made a finding of a violation of this chapter, forward to the Comptroller General the name of the person or firm found to have violated this chapter.
 
-([Pub. L. 111–350, § 3][/us/pl/111/350/s3], Jan. 4, 2011, [124 Stat. 3814][/us/stat/124/3814].)
+([Pub. L. 111–350][/us/pl/111/350], § 3, Jan. 4, 2011, [124 Stat. 3814][/us/stat/124/3814].)
 
 <table>
 
@@ -96,7 +96,7 @@ Pub. L. 89–286, § 5(a) (2d–last sentences), Oct. 22, 1965, 79 Stat. 1035;
 ----------
 ----------
 
-[/us/pl/111/350/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350%2Fs3
+[/us/pl/111/350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350
 [/us/stat/124/3814]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3814
 
 

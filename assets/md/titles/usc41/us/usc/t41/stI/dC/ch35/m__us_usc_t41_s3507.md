@@ -33,7 +33,7 @@
 
     Any liability under this section of a contractor that submits cost or pricing data but refuses to submit the certification required by [section 3502(b) of this title][/us/usc/t41/s3502/b] with respect to the cost or pricing data is not affected by the refusal to submit the certification.
 
-([Pub. L. 111–350, § 3][/us/pl/111/350/s3], Jan. 4, 2011, [124 Stat. 3769][/us/stat/124/3769].)
+([Pub. L. 111–350][/us/pl/111/350], § 3, Jan. 4, 2011, [124 Stat. 3769][/us/stat/124/3769].)
 
 <table>
 
@@ -90,7 +90,7 @@ June 30, 1949, ch. 288, title III, § 304A(f), as added Pub. L. 103–355, tit
 
 [/us/usc/t26/s6621]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs6621
 [/us/usc/t41/s3502/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs3502%2Fb
-[/us/pl/111/350/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350%2Fs3
+[/us/pl/111/350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350
 [/us/stat/124/3769]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3769
 
 

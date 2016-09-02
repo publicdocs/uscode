@@ -35,7 +35,7 @@
 
     Each Federal agency shall report to the Office of Federal Procurement Policy the number of qualified HUBZone small business concerns, the number of small businesses owned and controlled by women, and the number of small business concerns owned and controlled by socially and economically disadvantaged individuals, by gender, that are first time recipients of contracts from the agency. The Office shall take appropriate action to ascertain, for each fiscal year, the number of those small businesses that have newly entered the Federal market.
 
-([Pub. L. 111–350, § 3][/us/pl/111/350/s3], Jan. 4, 2011, [124 Stat. 3719][/us/stat/124/3719].)
+([Pub. L. 111–350][/us/pl/111/350], § 3, Jan. 4, 2011, [124 Stat. 3719][/us/stat/124/3719].)
 
 <table>
 
@@ -115,7 +115,7 @@ Pub. L. 100–533, title V, § 502, Oct. 25, 1988, 102 Stat. 2697; Pub. L. 105
 [/us/usc/t15/s637/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs637%2Fd
 [/us/pl/100/533]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F533
 [/us/stat/102/2692]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2692
-[/us/pl/111/350/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350%2Fs3
+[/us/pl/111/350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350
 [/us/stat/124/3719]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3719
 [/us/pl/100/533/s204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F533%2Fs204
 [/us/usc/t15/s637]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs637

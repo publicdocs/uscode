@@ -143,7 +143,7 @@
 
     The provisions of this section shall not apply during war or during a period of national emergency declared by the President or Congress.
 
-([Pub. L. 111–350, § 3][/us/pl/111/350/s3], Jan. 4, 2011, [124 Stat. 3715][/us/stat/124/3715].)
+([Pub. L. 111–350][/us/pl/111/350], § 3, Jan. 4, 2011, [124 Stat. 3715][/us/stat/124/3715].)
 
 <table>
 
@@ -202,7 +202,7 @@ Pub. L. 93–400, § 43, as added Pub. L. 110–181, title III, § 327(a), J
 
 [/us/usc/t5/s7111]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs7111
 [/us/usc/t41/s8503]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs8503
-[/us/pl/111/350/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350%2Fs3
+[/us/pl/111/350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350
 [/us/stat/124/3715]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3715
 
 

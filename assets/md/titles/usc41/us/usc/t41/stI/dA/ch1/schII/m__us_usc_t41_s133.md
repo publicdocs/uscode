@@ -25,7 +25,7 @@
 
     (4) a wholly owned Government corporation fully subject to chapter 91 of title 31.
 
-([Pub. L. 111–350, § 3][/us/pl/111/350/s3], Jan. 4, 2011, [124 Stat. 3682][/us/stat/124/3682].)
+([Pub. L. 111–350][/us/pl/111/350], § 3, Jan. 4, 2011, [124 Stat. 3682][/us/stat/124/3682].)
 
 <table>
 
@@ -83,7 +83,7 @@ Pub. L. 93–400, § 4(1), Aug. 30, 1974, 88 Stat. 797; Pub. L. 96–83, § 
 [/us/usc/t5/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs101
 [/us/usc/t5/s102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs102
 [/us/usc/t5/s104/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs104%2F1
-[/us/pl/111/350/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350%2Fs3
+[/us/pl/111/350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350
 [/us/stat/124/3682]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3682
 
 

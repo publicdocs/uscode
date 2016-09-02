@@ -133,7 +133,7 @@
 
     Functions exercised under this chapter are not subject to sections 551, 553 to 559, and 701 to 706 of title 5.
 
-([Pub. L. 111–350, § 3][/us/pl/111/350/s3], Jan. 4, 2011, [124 Stat. 3696][/us/stat/124/3696].)
+([Pub. L. 111–350][/us/pl/111/350], § 3, Jan. 4, 2011, [124 Stat. 3696][/us/stat/124/3696].)
 
 <table>
 
@@ -303,7 +303,7 @@ Pub. L. 93–400, § 26(g), (h)(1), as added Pub. L. 100–679, § 5(a), Nov
 
  __Effective Date of Amendment by__  __[__  __Pub. L. 106–65__  __][/us/pl/106/65]__  __; Regulations; Implementation; Construction__ 
 
-[Pub. L. 106–65, div. A, title VIII, § 802(c)][/us/pl/106/65/s802/c]–(e), (g)–(i), Oct. 5, 1999, [113 Stat. 701][/us/stat/113/701], 702, provided that:
+[Pub. L. 106–65, div. A, title VIII][/us/pl/106/65/dA/tVIII], § 802(c)–(e), (g)–(i), Oct. 5, 1999, [113 Stat. 701][/us/stat/113/701], 702, provided that:
 
 >     “(c)  __Regulation on Types of CAS Coverage__  __.—__ 
 
@@ -361,10 +361,10 @@ Pub. L. 93–400, § 26(g), (h)(1), as added Pub. L. 100–679, § 5(a), Nov
 ----------
 
 [/us/usc/t10/s2306a/a/1/A/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2306a%2Fa%2F1%2FA%2Fi
-[/us/pl/111/350/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350%2Fs3
+[/us/pl/111/350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350
 [/us/stat/124/3696]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3696
 [/us/pl/106/65]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65
-[/us/pl/106/65/s802/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2Fs802%2Fc
+[/us/pl/106/65/dA/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2FdA%2FtVIII
 [/us/stat/113/701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F701
 [/us/usc/t41/s422/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs422%2Ff
 [/us/usc/t41/s1502/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs1502%2Fa

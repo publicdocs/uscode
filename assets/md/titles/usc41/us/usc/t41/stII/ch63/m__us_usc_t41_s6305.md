@@ -83,7 +83,7 @@
 
             Subparagraph (B)(iv) does not apply to amounts which may be collected or withheld from the assignor in accordance with or for failure to comply with the terms of the contract.
 
-([Pub. L. 111–350, § 3][/us/pl/111/350/s3], Jan. 4, 2011, [124 Stat. 3804][/us/stat/124/3804].)
+([Pub. L. 111–350][/us/pl/111/350], § 3, Jan. 4, 2011, [124 Stat. 3804][/us/stat/124/3804].)
 
 <table>
 
@@ -324,7 +324,7 @@ R.S. § 3737; Oct. 9, 1940, ch. 779, § 1, 54 Stat. 1029; May 15, 1951, ch. 
 ----------
 ----------
 
-[/us/pl/111/350/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350%2Fs3
+[/us/pl/111/350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350
 [/us/stat/124/3804]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3804
 [/us/stat/65/41]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F65%2F41
 [/us/pl/103/355]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F355

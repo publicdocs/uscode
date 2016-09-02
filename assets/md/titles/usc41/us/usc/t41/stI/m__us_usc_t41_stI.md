@@ -241,7 +241,7 @@ Amendments  </td>
 
 </table>
 
-    2011—[Pub. L. 112–81, div. A, title VIII, § 864(b)(2)][/us/pl/112/81/s864/b/2], Dec. 31, 2011, [125 Stat. 1524][/us/stat/125/1524], added item for chapter 12.
+    2011—[Pub. L. 112–81, div. A, title VIII][/us/pl/112/81/dA/tVIII], § 864(b)(2), Dec. 31, 2011, [125 Stat. 1524][/us/stat/125/1524], added item for chapter 12.
 
 ----------
 
@@ -250,7 +250,7 @@ Amendments  </td>
 ----------
 ----------
 
-[/us/pl/112/81/s864/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs864%2Fb%2F2
+[/us/pl/112/81/dA/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2FdA%2FtVIII
 [/us/stat/125/1524]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1524
 
 

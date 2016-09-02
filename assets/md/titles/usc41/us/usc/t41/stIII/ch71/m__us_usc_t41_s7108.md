@@ -37,7 +37,7 @@
 
         Notwithstanding subsections (a) to (c), any monetary award to a contractor by the board of contract appeals of the Tennessee Valley Authority shall be paid in accordance with section 9(b) of the Tennessee Valley Authority Act of 1933 ([16 U.S.C. 831h(b)][/us/usc/t16/s831h/b]).
 
-([Pub. L. 111–350, § 3][/us/pl/111/350/s3], Jan. 4, 2011, [124 Stat. 3825][/us/stat/124/3825].)
+([Pub. L. 111–350][/us/pl/111/350], § 3, Jan. 4, 2011, [124 Stat. 3825][/us/stat/124/3825].)
 
 <table>
 
@@ -96,7 +96,7 @@ Pub. L. 95–563, § 13, Nov. 1, 1978, 92 Stat. 2389; Pub. L. 104–106, div. 
 [/us/usc/t31/s1304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1304
 [/us/usc/t16/s831h/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs831h%2Fb
 [/us/usc/t16/s831h/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs831h%2Fb
-[/us/pl/111/350/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350%2Fs3
+[/us/pl/111/350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350
 [/us/stat/124/3825]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3825
 
 

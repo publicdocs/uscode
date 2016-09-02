@@ -55,7 +55,7 @@
 
         For purposes of a suspension or debarment proceeding initiated pursuant to paragraph (1)(C), engaging in conduct constituting an offense under section 2102, 2103, or 2104 of this title affects the present responsibility of a Federal Government contractor or subcontractor.
 
-([Pub. L. 111–350, § 3][/us/pl/111/350/s3], Jan. 4, 2011, [124 Stat. 3730][/us/stat/124/3730].)
+([Pub. L. 111–350][/us/pl/111/350], § 3, Jan. 4, 2011, [124 Stat. 3730][/us/stat/124/3730].)
 
 <table>
 
@@ -146,7 +146,7 @@ Pub. L. 93–400, § 27(e), as added Pub. L. 100–679, § 6(a), Nov. 17, 19
 
 [/us/usc/t41/s2102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs2102
 [/us/usc/t41/s2102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs2102
-[/us/pl/111/350/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350%2Fs3
+[/us/pl/111/350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350
 [/us/stat/124/3730]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3730
 
 

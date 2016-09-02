@@ -93,7 +93,7 @@
 
         While serving away from home or regular place of business, Board members and other individuals serving on an intermittent basis under this chapter shall be allowed travel expenses in accordance with [section 5703 of title 5][/us/usc/t5/s5703].
 
-([Pub. L. 111–350, § 3][/us/pl/111/350/s3], Jan. 4, 2011, [124 Stat. 3695][/us/stat/124/3695].)
+([Pub. L. 111–350][/us/pl/111/350], § 3, Jan. 4, 2011, [124 Stat. 3695][/us/stat/124/3695].)
 
 <table>
 
@@ -236,7 +236,7 @@ In subsection (c)(2), the reference to [section 5376 of title 5][/us/usc/t5/s537
 
 [/us/usc/t5/s3109/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs3109%2Fb
 [/us/usc/t5/s5703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5703
-[/us/pl/111/350/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350%2Fs3
+[/us/pl/111/350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350
 [/us/stat/124/3695]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3695
 [/us/usc/t5/s5376]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5376
 [/us/pl/101/509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F509

@@ -17,7 +17,7 @@
 
     It is the policy of Congress that a fair proportion of the total purchases and contracts for property and services for the Federal Government shall be placed with small business concerns.
 
-([Pub. L. 111–350, § 3][/us/pl/111/350/s3], Jan. 4, 2011, [124 Stat. 3744][/us/stat/124/3744].)
+([Pub. L. 111–350][/us/pl/111/350], § 3, Jan. 4, 2011, [124 Stat. 3744][/us/stat/124/3744].)
 
 <table>
 
@@ -74,7 +74,7 @@ June 30, 1949, ch. 288, title III, § 302(b), 63 Stat. 393; July 12, 1952, ch.
 ----------
 ----------
 
-[/us/pl/111/350/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350%2Fs3
+[/us/pl/111/350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350
 [/us/stat/124/3744]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3744
 
 

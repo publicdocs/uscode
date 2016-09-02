@@ -155,7 +155,7 @@
 
     An executive agency shall make available to a business concern, or the authorized representative of a concern, the complete solicitation package for any on-going procurement announced pursuant to a notice of solicitation under subsection (a). An executive agency may require the payment of a fee, not exceeding the actual cost of duplication, for a copy of the package.
 
-([Pub. L. 111–350, § 3][/us/pl/111/350/s3], Jan. 4, 2011, [124 Stat. 3711][/us/stat/124/3711].)
+([Pub. L. 111–350][/us/pl/111/350], § 3, Jan. 4, 2011, [124 Stat. 3711][/us/stat/124/3711].)
 
 <table>
 
@@ -315,7 +315,7 @@ Subsection (b)(3) is added because of section 850(e)(3) of the National Defense 
 
  __Applicability to Tennessee Valley Authority__ 
 
-[Pub. L. 98–577, title III, § 303(c)][/us/pl/98/577/s303/c], Oct. 30, 1984, [98 Stat. 3079][/us/stat/98/3079], provided that: 
+[Pub. L. 98–577, title III][/us/pl/98/577/tIII], § 303(c), Oct. 30, 1984, [98 Stat. 3079][/us/stat/98/3079], provided that: 
 
 > “The provisions of the amendments made by subsection (a) of this section \[see Tables for classification\] shall apply to the Tennessee Valley Authority only with respect to procurements to be paid from appropriated funds.”
 
@@ -329,13 +329,13 @@ Subsection (b)(3) is added because of section 850(e)(3) of the National Defense 
 [/us/usc/t15/s638]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs638
 [/us/usc/t41/s3304/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs3304%2Fa
 [/us/usc/t10/s2304/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2304%2Fc
-[/us/pl/111/350/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350%2Fs3
+[/us/pl/111/350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350
 [/us/stat/124/3711]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3711
 [/us/usc/t41/s416/C/1/H]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs416%2FC%2F1%2FH
 [/us/usc/t6/s339/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs339%2Fc
 [/us/pl/105/85]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85
 [/us/stat/111/1849]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1849
-[/us/pl/98/577/s303/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F577%2Fs303%2Fc
+[/us/pl/98/577/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F577%2FtIII
 [/us/stat/98/3079]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F3079
 
 

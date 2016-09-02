@@ -27,7 +27,7 @@
 
     This section applies to a contract in an amount greater than $25,000.
 
-([Pub. L. 111–350, § 3][/us/pl/111/350/s3], Jan. 4, 2011, [124 Stat. 3791][/us/stat/124/3791].)
+([Pub. L. 111–350][/us/pl/111/350], § 3, Jan. 4, 2011, [124 Stat. 3791][/us/stat/124/3791].)
 
 <table>
 
@@ -82,7 +82,7 @@ June 30, 1949, ch. 288, title III, § 305(e), as added Pub. L. 103–355, titl
 ----------
 ----------
 
-[/us/pl/111/350/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350%2Fs3
+[/us/pl/111/350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350
 [/us/stat/124/3791]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3791
 
 

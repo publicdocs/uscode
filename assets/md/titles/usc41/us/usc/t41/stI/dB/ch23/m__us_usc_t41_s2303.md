@@ -79,7 +79,7 @@
 
     The Administrator shall, in consultation with the Director of the Office of Government Ethics, develop and maintain a repository of best practices relating to the prevention and mitigation of organizational and personal conflicts of interest in Federal contracting.
 
-([Pub. L. 111–350, § 3][/us/pl/111/350/s3], Jan. 4, 2011, [124 Stat. 3735][/us/stat/124/3735].)
+([Pub. L. 111–350][/us/pl/111/350], § 3, Jan. 4, 2011, [124 Stat. 3735][/us/stat/124/3735].)
 
 <table>
 
@@ -149,7 +149,7 @@ Pub. L. 110–417, [div. A], title VIII, § 841(a), (c), Oct. 14, 2008, 122 St
 
  __Deadline for Issuance of Standard Policy__ 
 
-[Pub. L. 111–350, § 6(f)(1)][/us/pl/111/350/s6/f/1], Jan. 4, 2011, [124 Stat. 3854][/us/stat/124/3854], provided that: 
+[Pub. L. 111–350][/us/pl/111/350], § 6(f)(1), Jan. 4, 2011, [124 Stat. 3854][/us/stat/124/3854], provided that: 
 
 > “The requirement in [section 2303(b)(1) of title 41][/us/usc/t41/s2303/b/1], United States Code, to issue a policy shall be done not later than 270 days after October 14, 2008.”
 
@@ -187,9 +187,9 @@ Pub. L. 110–417, [div. A], title VIII, § 841(a), (c), Oct. 14, 2008, 122 St
 ----------
 
 [/us/usc/t41/s134]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs134
-[/us/pl/111/350/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350%2Fs3
+[/us/pl/111/350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350
 [/us/stat/124/3735]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3735
-[/us/pl/111/350/s6/f/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350%2Fs6%2Ff%2F1
+[/us/pl/111/350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350
 [/us/stat/124/3854]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3854
 [/us/usc/t41/s2303/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs2303%2Fb%2F1
 [/us/pl/110/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F417

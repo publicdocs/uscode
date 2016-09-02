@@ -91,11 +91,11 @@
 
     The Administrator shall submit to the Committee on Homeland Security and Governmental Affairs and the Committee on Appropriations of the Senate and the Committee on Oversight and Government Reform and the Committee on Appropriations of the House of Representatives an annual report on the projected budget needs and expense plans of the Federal Acquisition Institute to fulfill its mandate.
 
-(Added [Pub. L. 112–81, div. A, title VIII, § 864(b)(1)][/us/pl/112/81/s864/b/1], Dec. 31, 2011, [125 Stat. 1523][/us/stat/125/1523].)
+(Added [Pub. L. 112–81, div. A, title VIII][/us/pl/112/81/dA/tVIII], § 864(b)(1), Dec. 31, 2011, [125 Stat. 1523][/us/stat/125/1523].)
 
  __Construction__ 
 
-[Pub. L. 112–81, div. A, title VIII, § 864(e)][/us/pl/112/81/s864/e], Dec. 31, 2011, [125 Stat. 1525][/us/stat/125/1525], provided that: 
+[Pub. L. 112–81, div. A, title VIII][/us/pl/112/81/dA/tVIII], § 864(e), Dec. 31, 2011, [125 Stat. 1525][/us/stat/125/1525], provided that: 
 
 > “Nothing in this section \[enacting this chapter and amending sections 1122, 1703, and 1704 of this title\], or the amendments made by this section, shall be construed to preclude the Secretary of Defense from establishing acquisition workforce policies, procedures, training standards, and certification requirements for acquisition positions in the Department of Defense, as provided in chapter 87 of title 10, United States Code.”
 
@@ -107,9 +107,9 @@
 ----------
 
 [/us/usc/t41/s1703/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs1703%2Fi
-[/us/pl/112/81/s864/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs864%2Fb%2F1
+[/us/pl/112/81/dA/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2FdA%2FtVIII
 [/us/stat/125/1523]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1523
-[/us/pl/112/81/s864/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs864%2Fe
+[/us/pl/112/81/dA/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2FdA%2FtVIII
 [/us/stat/125/1525]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1525
 
 

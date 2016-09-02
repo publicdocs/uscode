@@ -23,7 +23,7 @@
 
     Unless the Secretary recommends otherwise, a contract described in [section 6502 of this title][/us/usc/t41/s6502] may not be awarded to a person named on the list under subsection (a), or to a firm, corporation, partnership, or association in which the person has a controlling interest, until 3 years have elapsed from the date of the determination by the Secretary that a breach or violation occurred.
 
-([Pub. L. 111–350, § 3][/us/pl/111/350/s3], Jan. 4, 2011, [124 Stat. 3808][/us/stat/124/3808].)
+([Pub. L. 111–350][/us/pl/111/350], § 3, Jan. 4, 2011, [124 Stat. 3808][/us/stat/124/3808].)
 
 <table>
 
@@ -86,7 +86,7 @@ June 30, 1936, ch. 881, § 3, 49 Stat. 2037.  </td>
 
 [/us/usc/t41/s6502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs6502
 [/us/usc/t41/s6502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs6502
-[/us/pl/111/350/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350%2Fs3
+[/us/pl/111/350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350
 [/us/stat/124/3808]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3808
 [/us/usc/t41/s6502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs6502
 

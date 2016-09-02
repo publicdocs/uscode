@@ -107,7 +107,7 @@
 
     Not later than December 31 of each year, the Committee shall transmit to the President a report that includes the names of the Committee members serving in the prior fiscal year, the dates of Committee meetings in that year, a description of the activities of the Committee under this chapter in that year, and any recommendations for changes in this chapter which the Committee determines are necessary.
 
-([Pub. L. 111–350, § 3][/us/pl/111/350/s3], Jan. 4, 2011, [124 Stat. 3835][/us/stat/124/3835].)
+([Pub. L. 111–350][/us/pl/111/350], § 3, Jan. 4, 2011, [124 Stat. 3835][/us/stat/124/3835].)
 
 <table>
 
@@ -305,7 +305,7 @@ June 25, 1938, ch. 697, § 1 (less (a) (words in parentheses before par. (1)))
 ----------
 
 [/us/usc/t5/s5703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5703
-[/us/pl/111/350/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350%2Fs3
+[/us/pl/111/350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350
 [/us/stat/124/3835]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3835
 [/us/pl/92/28/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F28%2Fs1
 [/us/stat/85/77]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F85%2F77

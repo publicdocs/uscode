@@ -27,7 +27,7 @@
 
     A person adversely affected or aggrieved by a wage determination under [section 6502(1) of this title][/us/usc/t41/s6502/1] has the right of judicial review of the determination, or of the applicability of the determination, within 90 days after the determination is made, in the manner provided by chapter 7 of title 5. A person adversely affected or aggrieved by a wage determination is deemed to include a person in an industry to which the determination applies that is a supplier of materials, supplies, articles, or equipment that are purchased or intended to be purchased by the Federal Government from any source.
 
-([Pub. L. 111–350, § 3][/us/pl/111/350/s3], Jan. 4, 2011, [124 Stat. 3810][/us/stat/124/3810].)
+([Pub. L. 111–350][/us/pl/111/350], § 3, Jan. 4, 2011, [124 Stat. 3810][/us/stat/124/3810].)
 
 <table>
 
@@ -117,7 +117,7 @@ June 30, 1936, ch. 881, § 10(a), (b) (last sentence), (c), as added June 30, 
 [/us/usc/t5/s553]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs553
 [/us/usc/t41/s6502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs6502
 [/us/usc/t41/s6502/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs6502%2F1
-[/us/pl/111/350/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350%2Fs3
+[/us/pl/111/350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350
 [/us/stat/124/3810]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3810
 [/us/act/1936-06-30/s10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1936-06-30%2Fs10
 [/us/pl/89/554/s7/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554%2Fs7%2Fb

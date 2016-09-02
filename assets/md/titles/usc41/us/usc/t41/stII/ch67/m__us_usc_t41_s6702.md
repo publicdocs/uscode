@@ -43,7 +43,7 @@
 
         (7) a contract with the United States Postal Service, the principal purpose of which is the operation of postal contract stations.
 
-([Pub. L. 111–350, § 3][/us/pl/111/350/s3], Jan. 4, 2011, [124 Stat. 3812][/us/stat/124/3812].)
+([Pub. L. 111–350][/us/pl/111/350], § 3, Jan. 4, 2011, [124 Stat. 3812][/us/stat/124/3812].)
 
 <table>
 
@@ -123,7 +123,7 @@ Pub. L. 89–286, § 7, Oct. 22, 1965, 79 Stat. 1035.  </td>
 ----------
 
 [/us/usc/t47/s151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs151
-[/us/pl/111/350/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350%2Fs3
+[/us/pl/111/350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350
 [/us/stat/124/3812]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3812
 [/us/stat/49/2036]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F2036
 [/us/pl/89/286/s7/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F286%2Fs7%2F2

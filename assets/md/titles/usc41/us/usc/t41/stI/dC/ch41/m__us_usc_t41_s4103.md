@@ -91,7 +91,7 @@
 
     Nothing in this section may be construed to limit or expand any authority of the head of an executive agency or the Administrator of General Services to enter into schedule, multiple award, or task or delivery order contracts under any other provision of law.
 
-([Pub. L. 111–350, § 3][/us/pl/111/350/s3], Jan. 4, 2011, [124 Stat. 3778][/us/stat/124/3778].)
+([Pub. L. 111–350][/us/pl/111/350], § 3, Jan. 4, 2011, [124 Stat. 3778][/us/stat/124/3778].)
 
 <table>
 
@@ -154,7 +154,7 @@ June 30, 1949, ch. 288, title III, § 303H, as added Pub. L. 103–355, title 
 [/us/usc/t41/s3303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs3303
 [/us/usc/t41/s4105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs4105
 [/us/usc/t31/s1105/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1105%2Fg
-[/us/pl/111/350/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350%2Fs3
+[/us/pl/111/350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350
 [/us/stat/124/3778]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3778
 [/us/usc/t41/s253k]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs253k
 

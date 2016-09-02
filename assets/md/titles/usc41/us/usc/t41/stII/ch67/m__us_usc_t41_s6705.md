@@ -37,7 +37,7 @@
 
     In accordance with regulations prescribed pursuant to section 6707(a)–(d) of this title, the Secretary or the head of a Federal agency may carry out this section.
 
-([Pub. L. 111–350, § 3][/us/pl/111/350/s3], Jan. 4, 2011, [124 Stat. 3814][/us/stat/124/3814].)
+([Pub. L. 111–350][/us/pl/111/350], § 3, Jan. 4, 2011, [124 Stat. 3814][/us/stat/124/3814].)
 
 <table>
 
@@ -151,7 +151,7 @@ Pub. L. 89–286, §§ 3, 5(b), Oct. 22, 1965, 79 Stat. 1035.  </td>
 ----------
 
 [/us/usc/t41/s6704]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs6704
-[/us/pl/111/350/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350%2Fs3
+[/us/pl/111/350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350
 [/us/stat/124/3814]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3814
 
 

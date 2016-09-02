@@ -39,7 +39,7 @@
 
     The Department of Defense shall continue to be subject to guidance on limitations on tiering of subcontractors issued by the Department of Defense pursuant to section 852 of the John Warner National Defense Authorization Act for Fiscal Year 2007 ([Public Law 109–364][/us/pl/109/364], [10 U.S.C. 2324][/us/usc/t10/s2324] note).
 
-([Pub. L. 111–350, § 3][/us/pl/111/350/s3], Jan. 4, 2011, [124 Stat. 3800][/us/stat/124/3800].)
+([Pub. L. 111–350][/us/pl/111/350], § 3, Jan. 4, 2011, [124 Stat. 3800][/us/stat/124/3800].)
 
 <table>
 
@@ -100,7 +100,7 @@ Pub. L. 110–417, [div. A], title VIII, § 866, Oct. 14, 2008, 122 Stat. 4551
 [/us/usc/t41/s134]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs134
 [/us/pl/109/364]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364
 [/us/usc/t10/s2324]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2324
-[/us/pl/111/350/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350%2Fs3
+[/us/pl/111/350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350
 [/us/stat/124/3800]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3800
 
 

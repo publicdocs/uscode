@@ -33,7 +33,7 @@
 
     No part of the contract will be performed, and no materials, supplies, articles, or equipment will be manufactured or fabricated under the contract, in plants, factories, buildings, or surroundings, or under working conditions, that are unsanitary, hazardous, or dangerous to the health and safety of employees engaged in the performance of the contract. Compliance with the safety, sanitary, and factory inspection laws of the State in which the work or part of the work is to be performed is prima facie evidence of compliance with this paragraph.
 
-([Pub. L. 111–350, § 3][/us/pl/111/350/s3], Jan. 4, 2011, [124 Stat. 3807][/us/stat/124/3807].)
+([Pub. L. 111–350][/us/pl/111/350], § 3, Jan. 4, 2011, [124 Stat. 3807][/us/stat/124/3807].)
 
 <table>
 
@@ -144,7 +144,7 @@ In paragraph (1), the words “under the contract” are substituted for “used
 
 [/us/usc/t29/s207/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs207%2Fb%2F1
 [/us/usc/t18/s1761/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs1761%2Fc
-[/us/pl/111/350/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350%2Fs3
+[/us/pl/111/350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350
 [/us/stat/124/3807]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3807
 
 

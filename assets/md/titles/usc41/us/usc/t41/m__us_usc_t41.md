@@ -15,9 +15,9 @@
 
 # Title 41—PUBLIC CONTRACTS
 
-This title was enacted by [Pub. L. 111–350, § 3][/us/pl/111/350/s3], Jan. 4, 2011, [124 Stat. 3677][/us/stat/124/3677]
+This title was enacted by [Pub. L. 111–350][/us/pl/111/350], § 3, Jan. 4, 2011, [124 Stat. 3677][/us/stat/124/3677]
 
-Current through 114-165
+Current through 114-183
 
 <table>
 
@@ -3951,13 +3951,13 @@ Rep.  </td>
 
  __Enactment of Title 41, United States Code__ 
 
-[Pub. L. 111–350, § 3][/us/pl/111/350/s3], Jan. 4, 2011, [124 Stat. 3677][/us/stat/124/3677], provided that: 
+[Pub. L. 111–350][/us/pl/111/350], § 3, Jan. 4, 2011, [124 Stat. 3677][/us/stat/124/3677], provided that: 
 
 > “Certain general and permanent laws of the United States, related to public contracts, are revised, codified, and enacted as title 41, United States Code, ‘Public Contracts’, as follows:”
 
  __Purpose; Conformity With Original Intent__ 
 
-[Pub. L. 111–350, § 2][/us/pl/111/350/s2], Jan. 4, 2011, [124 Stat. 3677][/us/stat/124/3677], provided that:
+[Pub. L. 111–350][/us/pl/111/350], § 2, Jan. 4, 2011, [124 Stat. 3677][/us/stat/124/3677], provided that:
 
 >     “(a)  __Purpose__  __.—__ 
 
@@ -3969,7 +3969,7 @@ Rep.  </td>
 
  __Transitional and Savings Provisions__ 
 
-[Pub. L. 111–350, § 6(a)][/us/pl/111/350/s6/a]–(e), Jan. 4, 2011, [124 Stat. 3854][/us/stat/124/3854], provided that:
+[Pub. L. 111–350][/us/pl/111/350], § 6(a)–(e), Jan. 4, 2011, [124 Stat. 3854][/us/stat/124/3854], provided that:
 
 >     “(a)  __Cutoff Date__  __.—__ 
 
@@ -3993,9 +3993,9 @@ Rep.  </td>
 
  __Repeals__ 
 
-    [Pub. L. 111–350, § 7(b)][/us/pl/111/350/s7/b], Jan. 4, 2011, [124 Stat. 3855][/us/stat/124/3855], repealed specified laws, except for rights and duties that matured, penalties that were incurred, and proceedings that were begun before Jan. 4, 2011.
+    [Pub. L. 111–350][/us/pl/111/350], § 7(b), Jan. 4, 2011, [124 Stat. 3855][/us/stat/124/3855], repealed specified laws, except for rights and duties that matured, penalties that were incurred, and proceedings that were begun before Jan. 4, 2011.
 
-[Pub. L. 111–350, § 7(a)][/us/pl/111/350/s7/a], Jan. 4, 2011, [124 Stat. 3855][/us/stat/124/3855], provided that: 
+[Pub. L. 111–350][/us/pl/111/350], § 7(a), Jan. 4, 2011, [124 Stat. 3855][/us/stat/124/3855], provided that: 
 
 > “The repeal of a law by this Act \[see Tables for classification\] may not be construed as a legislative inference that the provision was or was not in effect before its repeal.”
 
@@ -4006,19 +4006,19 @@ Rep.  </td>
 ----------
 ----------
 
-[/us/pl/111/350/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350%2Fs3
+[/us/pl/111/350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350
 [/us/stat/124/3677]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3677
-[/us/pl/111/350/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350%2Fs3
+[/us/pl/111/350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350
 [/us/stat/124/3677]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3677
-[/us/pl/111/350/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350%2Fs2
+[/us/pl/111/350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350
 [/us/stat/124/3677]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3677
 [/us/pl/93/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F554
 [/us/usc/t2/s285b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs285b%2F1
-[/us/pl/111/350/s6/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350%2Fs6%2Fa
+[/us/pl/111/350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350
 [/us/stat/124/3854]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3854
-[/us/pl/111/350/s7/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350%2Fs7%2Fb
+[/us/pl/111/350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350
 [/us/stat/124/3855]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3855
-[/us/pl/111/350/s7/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350%2Fs7%2Fa
+[/us/pl/111/350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350
 [/us/stat/124/3855]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3855
 
 

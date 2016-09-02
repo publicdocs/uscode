@@ -119,7 +119,7 @@
 
         The contractor or subcontractor retains the original records for a minimum of one year after imaging to permit periodic validation of the imaging systems.
 
-([Pub. L. 111–350, § 3][/us/pl/111/350/s3], Jan. 4, 2011, [124 Stat. 3797][/us/stat/124/3797].)
+([Pub. L. 111–350][/us/pl/111/350], § 3, Jan. 4, 2011, [124 Stat. 3797][/us/stat/124/3797].)
 
 <table>
 
@@ -314,7 +314,7 @@ June 30, 1949, ch. 288, title III, § 304C(f), as added and amended Pub. L. 10
 ----------
 ----------
 
-[/us/pl/111/350/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350%2Fs3
+[/us/pl/111/350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350
 [/us/stat/124/3797]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3797
 [/us/pl/104/14/s1/a/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F14%2Fs1%2Fa%2F6
 [/us/pl/95/452]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F452

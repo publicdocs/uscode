@@ -49,7 +49,7 @@
 
         (3) consult with the heads of appropriate Federal agencies with applicable technical and functional expertise, including the Office of Information and Regulatory Affairs, the National Institute of Standards and Technology, the General Services Administration, and the Department of Defense.
 
-([Pub. L. 111–350, § 3][/us/pl/111/350/s3], Jan. 4, 2011, [124 Stat. 3732][/us/stat/124/3732].)
+([Pub. L. 111–350][/us/pl/111/350], § 3, Jan. 4, 2011, [124 Stat. 3732][/us/stat/124/3732].)
 
 <table>
 
@@ -218,7 +218,7 @@ The President’s Management Council, in coordination with the Office of Federal
 ----------
 ----------
 
-[/us/pl/111/350/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350%2Fs3
+[/us/pl/111/350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350
 [/us/stat/124/3732]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3732
 
 

@@ -21,7 +21,7 @@
 
     (2) other transactions, including the initial award and any subsequent modifications awarded or orders issued (other than transactions that are reported through the Federal Assistance Awards Data System).
 
-([Pub. L. 111–350, § 3][/us/pl/111/350/s3], Jan. 4, 2011, [124 Stat. 3739][/us/stat/124/3739].)
+([Pub. L. 111–350][/us/pl/111/350], § 3, Jan. 4, 2011, [124 Stat. 3739][/us/stat/124/3739].)
 
 <table>
 
@@ -73,7 +73,7 @@ Pub. L. 110–417, [div. A], title VIII, § 874(a), Oct. 14, 2008, 122 Stat. 4
 
  __Deadline for Revisions in Federal Procurement Data System or Successor System__ 
 
-[Pub. L. 111–350, § 6(f)(2)][/us/pl/111/350/s6/f/2], Jan. 4, 2011, [124 Stat. 3855][/us/stat/124/3855], provided that: 
+[Pub. L. 111–350][/us/pl/111/350], § 6(f)(2), Jan. 4, 2011, [124 Stat. 3855][/us/stat/124/3855], provided that: 
 
 > “The requirement in [section 2311 of title 41][/us/usc/t41/s2311], United States Code, to direct appropriate revisions in the Federal Procurement Data System or any successor system shall be done not later than one year after October 14, 2008.”
 
@@ -85,9 +85,9 @@ Pub. L. 110–417, [div. A], title VIII, § 874(a), Oct. 14, 2008, 122 Stat. 4
 ----------
 
 [/us/usc/t10/s2371]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2371
-[/us/pl/111/350/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350%2Fs3
+[/us/pl/111/350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350
 [/us/stat/124/3739]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3739
-[/us/pl/111/350/s6/f/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350%2Fs6%2Ff%2F2
+[/us/pl/111/350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350
 [/us/stat/124/3855]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3855
 [/us/usc/t41/s2311]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs2311
 

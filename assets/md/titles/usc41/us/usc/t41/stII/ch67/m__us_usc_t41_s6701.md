@@ -43,7 +43,7 @@
 
         (B) does not include any other territory under the jurisdiction of the United States or any United States base or possession within a foreign country.
 
-([Pub. L. 111–350, § 3][/us/pl/111/350/s3], Jan. 4, 2011, [124 Stat. 3811][/us/stat/124/3811].)
+([Pub. L. 111–350][/us/pl/111/350], § 3, Jan. 4, 2011, [124 Stat. 3811][/us/stat/124/3811].)
 
 <table>
 
@@ -108,7 +108,7 @@ Pub. L. 89–286, § 8, Oct. 22, 1965, 79 Stat. 1036; Pub. L. 93–57, § 1,
 
 [/us/usc/t41/s6703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs6703
 [/us/usc/t41/s6702/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs6702%2Fb
-[/us/pl/111/350/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350%2Fs3
+[/us/pl/111/350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350
 [/us/stat/124/3811]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3811
 [/us/act/1953-08-07/ch345]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1953-08-07%2Fch345
 [/us/stat/67/462]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F67%2F462

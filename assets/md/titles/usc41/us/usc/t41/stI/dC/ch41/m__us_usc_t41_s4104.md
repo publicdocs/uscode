@@ -43,7 +43,7 @@
 
         (2) the ordering and program practices followed by Federal customer agencies in using schedules established under the program.
 
-([Pub. L. 111–350, § 3][/us/pl/111/350/s3], Jan. 4, 2011, [124 Stat. 3780][/us/stat/124/3780].)
+([Pub. L. 111–350][/us/pl/111/350], § 3, Jan. 4, 2011, [124 Stat. 3780][/us/stat/124/3780].)
 
 <table>
 
@@ -110,7 +110,7 @@ In this section, the text of section 804(d) of the National Defense Authorizatio
 [/us/usc/t41/s4106/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs4106%2Fe
 [/us/usc/t10/s2304c/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2304c%2Fc
 [/us/usc/t41/s152/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs152%2F3
-[/us/pl/111/350/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350%2Fs3
+[/us/pl/111/350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350
 [/us/stat/124/3780]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3780
 [/us/pl/106/65]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65
 

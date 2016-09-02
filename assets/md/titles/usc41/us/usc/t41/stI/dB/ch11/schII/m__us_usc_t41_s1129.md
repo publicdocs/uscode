@@ -17,7 +17,7 @@
 
     The Administrator shall maintain a center of excellence in contracting for services. The center shall assist the acquisition community by identifying, and serving as a clearinghouse for, best practices in contracting for services in the public and private sectors.
 
-([Pub. L. 111–350, § 3][/us/pl/111/350/s3], Jan. 4, 2011, [124 Stat. 3690][/us/stat/124/3690].)
+([Pub. L. 111–350][/us/pl/111/350], § 3, Jan. 4, 2011, [124 Stat. 3690][/us/stat/124/3690].)
 
 <table>
 
@@ -74,7 +74,7 @@ Pub. L. 108–136, title XIV, § 1431(b), Nov. 24, 2003, 117 Stat. 1671.  </td
 ----------
 ----------
 
-[/us/pl/111/350/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350%2Fs3
+[/us/pl/111/350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350
 [/us/stat/124/3690]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3690
 
 

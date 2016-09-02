@@ -29,7 +29,7 @@
 
     (2) does not include bulk cargo, as defined in [section 40102(4) of title 46][/us/usc/t46/s40102/4], such as agricultural products and petroleum products.
 
-([Pub. L. 111–350, § 3][/us/pl/111/350/s3], Jan. 4, 2011, [124 Stat. 3679][/us/stat/124/3679].)
+([Pub. L. 111–350][/us/pl/111/350], § 3, Jan. 4, 2011, [124 Stat. 3679][/us/stat/124/3679].)
 
 <table>
 
@@ -88,7 +88,7 @@ Pub. L. 93–400, § 35(c), as added Pub. L. 104–106, title XLII, § 4203(
 
 [/us/usc/t41/s103/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs103%2F1
 [/us/usc/t46/s40102/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs40102%2F4
-[/us/pl/111/350/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350%2Fs3
+[/us/pl/111/350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350
 [/us/stat/124/3679]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3679
 [/us/usc/t46/s40102/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs40102%2F4
 [/us/pl/109/304/s18/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304%2Fs18%2Fc

@@ -73,7 +73,7 @@
 
         A grantee debarred by a final decision under this subsection is ineligible for award of a grant by a Federal agency, and for participation in a future grant by a Federal agency, for a period specified in the decision, not to exceed 5 years.
 
-([Pub. L. 111–350, § 3][/us/pl/111/350/s3], Jan. 4, 2011, [124 Stat. 3828][/us/stat/124/3828].)
+([Pub. L. 111–350][/us/pl/111/350], § 3, Jan. 4, 2011, [124 Stat. 3828][/us/stat/124/3828].)
 
 <table>
 
@@ -129,7 +129,7 @@ Pub. L. 100–690, title V, § 5153, Nov. 18, 1988, 102 Stat. 4306; Pub. L. 10
 ----------
 
 [/us/usc/t41/s8104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs8104
-[/us/pl/111/350/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350%2Fs3
+[/us/pl/111/350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350
 [/us/stat/124/3828]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3828
 
 

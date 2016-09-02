@@ -33,7 +33,7 @@
 
         (2) pay costs described in paragraph (1) of [section 3554(c) of title 31][/us/usc/t31/s3554/c] within the limits referred to in paragraph (2) of section 3554(c).
 
-([Pub. L. 111–350, § 3][/us/pl/111/350/s3], Jan. 4, 2011, [124 Stat. 3773][/us/stat/124/3773].)
+([Pub. L. 111–350][/us/pl/111/350], § 3, Jan. 4, 2011, [124 Stat. 3773][/us/stat/124/3773].)
 
 <table>
 
@@ -107,7 +107,7 @@ June 30, 1949, ch. 288, title III, § 303B(l), formerly § 303B(i), as added
 [/us/usc/t5/s552]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs552
 [/us/usc/t31/s3554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs3554
 [/us/usc/t31/s3554/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs3554%2Fc
-[/us/pl/111/350/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350%2Fs3
+[/us/pl/111/350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350
 [/us/stat/124/3773]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3773
 
 

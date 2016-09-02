@@ -17,7 +17,7 @@
 
     A person that knowingly and willfully engages in conduct prohibited by [section 8702 of this title][/us/usc/t41/s8702] shall be fined under title 18, imprisoned for not more than 10 years, or both.
 
-([Pub. L. 111–350, § 3][/us/pl/111/350/s3], Jan. 4, 2011, [124 Stat. 3841][/us/stat/124/3841].)
+([Pub. L. 111–350][/us/pl/111/350], § 3, Jan. 4, 2011, [124 Stat. 3841][/us/stat/124/3841].)
 
 <table>
 
@@ -73,7 +73,7 @@ Mar. 8, 1946, ch. 80, § 4, 60 Stat. 37; Pub. L. 86–695, Sept. 2, 1960, 74 S
 ----------
 
 [/us/usc/t41/s8702]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs8702
-[/us/pl/111/350/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350%2Fs3
+[/us/pl/111/350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350
 [/us/stat/124/3841]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3841
 
 

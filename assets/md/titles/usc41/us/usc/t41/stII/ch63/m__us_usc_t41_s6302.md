@@ -17,7 +17,7 @@
 
     The Secretary of the Army, when the Secretary believes it is in the interest of the United States, may enter into contracts and incur obligations for fuel in sufficient quantities to meet the requirements for one year without regard to the current fiscal year. Amounts appropriated for the fiscal year in which the contract is made or amounts appropriated or which may be appropriated for the following fiscal year may be used to pay for supplies delivered under a contract made pursuant to this section.
 
-([Pub. L. 111–350, § 3][/us/pl/111/350/s3], Jan. 4, 2011, [124 Stat. 3804][/us/stat/124/3804].)
+([Pub. L. 111–350][/us/pl/111/350], § 3, Jan. 4, 2011, [124 Stat. 3804][/us/stat/124/3804].)
 
 <table>
 
@@ -74,7 +74,7 @@ June 30, 1921, ch. 33, § 1 (last proviso on p. 78), 42 Stat. 78.  </td>
 ----------
 ----------
 
-[/us/pl/111/350/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350%2Fs3
+[/us/pl/111/350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350
 [/us/stat/124/3804]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3804
 [/us/stat/61/501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F61%2F501
 [/us/act/1956-08-10/s53]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fs53

@@ -17,7 +17,7 @@
 
     In this subtitle, the term “commercial component” means a component that is a commercial item.
 
-([Pub. L. 111–350, § 3][/us/pl/111/350/s3], Jan. 4, 2011, [124 Stat. 3678][/us/stat/124/3678].)
+([Pub. L. 111–350][/us/pl/111/350], § 3, Jan. 4, 2011, [124 Stat. 3678][/us/stat/124/3678].)
 
 <table>
 
@@ -104,7 +104,7 @@ Pub. L. 93–400, § 4(15), as added Pub. L. 103–355, title VIII, § 8001(
 ----------
 ----------
 
-[/us/pl/111/350/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350%2Fs3
+[/us/pl/111/350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350
 [/us/stat/124/3678]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3678
 
 

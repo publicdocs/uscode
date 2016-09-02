@@ -47,7 +47,7 @@
 
     Before the regulations required by subsection (a) are prescribed, the President shall determine if prescribing the regulations will have a significantly adverse effect on the accomplishment of the mission of the Defense Department or another Federal agency. If the President determines that the regulations will have such an adverse effect, the President shall so report to the appropriate committees of the Senate and the House of Representatives, stating in full the reasons for the determination. If such a report is submitted, the requirement for the regulations shall be null and void.
 
-([Pub. L. 111–350, § 3][/us/pl/111/350/s3], Jan. 4, 2011, [124 Stat. 3736][/us/stat/124/3736].)
+([Pub. L. 111–350][/us/pl/111/350], § 3, Jan. 4, 2011, [124 Stat. 3736][/us/stat/124/3736].)
 
 <table>
 
@@ -156,7 +156,7 @@ Pub. L. 100–463, title VIII, § 8141, Oct. 1, 1988, 102 Stat. 2270–47.  </
 ----------
 ----------
 
-[/us/pl/111/350/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350%2Fs3
+[/us/pl/111/350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350
 [/us/stat/124/3736]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3736
 [/us/usc/t41/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs401
 [/us/pl/108/458]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458

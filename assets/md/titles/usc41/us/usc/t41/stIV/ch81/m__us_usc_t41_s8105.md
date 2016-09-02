@@ -27,7 +27,7 @@
 
     The authority of the head of an agency under this section to waive a suspension, termination, or debarment shall not be delegated.
 
-([Pub. L. 111–350, § 3][/us/pl/111/350/s3], Jan. 4, 2011, [124 Stat. 3830][/us/stat/124/3830].)
+([Pub. L. 111–350][/us/pl/111/350], § 3, Jan. 4, 2011, [124 Stat. 3830][/us/stat/124/3830].)
 
 <table>
 
@@ -83,7 +83,7 @@ Pub. L. 100–690, title V, § 5155, Nov. 18, 1988, 102 Stat. 4307.  </td>
 ----------
 
 [/us/usc/t41/s8102/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs8102%2Fb%2F1
-[/us/pl/111/350/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350%2Fs3
+[/us/pl/111/350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350
 [/us/stat/124/3830]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3830
 
 

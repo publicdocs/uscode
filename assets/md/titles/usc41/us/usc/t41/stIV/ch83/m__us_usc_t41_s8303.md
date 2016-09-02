@@ -47,7 +47,7 @@
 
     If the head of a department, bureau, agency, or independent establishment that has made a contract containing the provision required by subsection (a) finds that there has been a failure to comply with the provision in the performance of the contract, the head of the department, bureau, agency, or independent establishment shall make the findings public. The findings shall include the name of the contractor obligated under the contract. The contractor, and any subcontractor, material man, or supplier associated or affiliated with the contractor, shall not be awarded another contract for the construction, alteration, or repair of any public building or public work for 3 years after the findings are made public.
 
-([Pub. L. 111–350, § 3][/us/pl/111/350/s3], Jan. 4, 2011, [124 Stat. 3832][/us/stat/124/3832].)
+([Pub. L. 111–350][/us/pl/111/350], § 3, Jan. 4, 2011, [124 Stat. 3832][/us/stat/124/3832].)
 
 <table>
 
@@ -169,7 +169,7 @@ Oct. 29, 1949, ch. 787, title VI, § 633, 63 Stat. 1024; Pub. L. 100–418, ti
 
     Sec. 2. (a) For the purposes of this order materials shall be considered to be of foreign origin if the cost of the foreign products used in such materials constitutes fifty per centum or more of the cost of all the products used in such materials.
 
-    (b) For the purposes of the said act of March 3, 1933 \[probably means [act Mar. 3, 1933, ch. 212][/us/act/1933-03-03/ch212], title III, [47 Stat. 1520][/us/stat/47/1520], see [41 U.S.C. 8301][/us/usc/t41/s8301] et seq.\], and the other laws referred to in the first paragraph of the preamble of this order, the bid or offered price of materials of domestic origin shall be deemed to be unreasonable, or the purchase of such materials shall be deemed to be inconsistent with the public interest, if the bid or offered price thereof exceeds the sum of the bid or offered price of like materials of foreign origin and a differential computed as provided in subsection (c) of this section.
+    (b) For the purposes of the said act of March 3, 1933 \[probably means [act Mar. 3, 1933, ch. 212, title III][/us/act/1933-03-03/ch212/tIII], [47 Stat. 1520][/us/stat/47/1520], see [41 U.S.C. 8301][/us/usc/t41/s8301] et seq.\], and the other laws referred to in the first paragraph of the preamble of this order, the bid or offered price of materials of domestic origin shall be deemed to be unreasonable, or the purchase of such materials shall be deemed to be inconsistent with the public interest, if the bid or offered price thereof exceeds the sum of the bid or offered price of like materials of foreign origin and a differential computed as provided in subsection (c) of this section.
 
     (c) The executive agency concerned shall in each instance determine the amount of the differential referred to in subsection (b) of this section on the basis of one of the following-described formulas, subject to the terms thereof:
 
@@ -199,11 +199,11 @@ Oct. 29, 1949, ch. 787, title VI, § 633, 63 Stat. 1024; Pub. L. 100–418, ti
 ----------
 
 [/us/usc/t41/s1902]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs1902
-[/us/pl/111/350/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350%2Fs3
+[/us/pl/111/350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350
 [/us/stat/124/3832]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3832
 [/us/usc/t41/s10a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs10a
 [/us/usc/t41/s10a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs10a
-[/us/act/1933-03-03/ch212]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1933-03-03%2Fch212
+[/us/act/1933-03-03/ch212/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1933-03-03%2Fch212%2FtIII
 [/us/stat/47/1520]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F47%2F1520
 [/us/usc/t41/s8301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs8301
 [/us/usc/t41/s252/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs252%2Fb

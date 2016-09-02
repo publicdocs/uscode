@@ -35,7 +35,7 @@
 
     An agreement between the contractor in a contract for the acquisition of commercial items and a subcontractor under the contract that restricts sales by the subcontractor directly to persons other than the contractor may not be considered to unreasonably restrict sales by that subcontractor to the Federal Government in violation of the provision included in the contract pursuant to subsection (a) if the agreement does not result in the Federal Government being treated differently with regard to the restriction than any other prospective purchaser of the commercial items from that subcontractor.
 
-([Pub. L. 111–350, § 3][/us/pl/111/350/s3], Jan. 4, 2011, [124 Stat. 3795][/us/stat/124/3795].)
+([Pub. L. 111–350][/us/pl/111/350], § 3, Jan. 4, 2011, [124 Stat. 3795][/us/stat/124/3795].)
 
 <table>
 
@@ -136,7 +136,7 @@ June 30, 1949, ch. 288, title III, § 303G(d), as added Pub. L. 103–355, tit
 ----------
 ----------
 
-[/us/pl/111/350/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350%2Fs3
+[/us/pl/111/350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350
 [/us/stat/124/3795]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3795
 
 

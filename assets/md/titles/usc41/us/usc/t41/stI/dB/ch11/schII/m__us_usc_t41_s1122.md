@@ -75,7 +75,7 @@
 
             The Administrator may delegate, and authorize successive redelegations of, an authority, function, or power of the Administrator under this division (other than the authority to provide overall direction of Federal procurement policy and to prescribe policies and regulations to carry out the policy) to another executive agency with the consent of the head of the executive agency or at the direction of the President.
 
-([Pub. L. 111–350, § 3][/us/pl/111/350/s3], Jan. 4, 2011, [124 Stat. 3685][/us/stat/124/3685]; [Pub. L. 112–81, div. A, title VIII, § 864(b)(3)][/us/pl/112/81/s864/b/3], Dec. 31, 2011, [125 Stat. 1524][/us/stat/125/1524].)
+([Pub. L. 111–350][/us/pl/111/350], § 3, Jan. 4, 2011, [124 Stat. 3685][/us/stat/124/3685]; [Pub. L. 112–81, div. A, title VIII][/us/pl/112/81/dA/tVIII], § 864(b)(3), Dec. 31, 2011, [125 Stat. 1524][/us/stat/125/1524].)
 
 <table>
 
@@ -193,13 +193,13 @@ In clause (12), the words “small business concerns owned and controlled by ser
 
  __Pilot Program To Inventory Cost and Size of Service Contracts__ 
 
-[Pub. L. 110–161, div. D, title VII, § 748][/us/pl/110/161/s748], Dec. 26, 2007, [121 Stat. 2035][/us/stat/121/2035], provided that: 
+[Pub. L. 110–161, div. D, title VII][/us/pl/110/161/dD/tVII], § 748, Dec. 26, 2007, [121 Stat. 2035][/us/stat/121/2035], provided that: 
 
 > “No later than 180 days after enactment of this Act \[Dec. 26, 2007\], the Office of Management and Budget shall establish a pilot program to develop and implement an inventory to track the cost and size (in contractor manpower equivalents) of service contracts, particularly with respect to contracts that have been performed poorly by a contractor because of excessive costs or inferior quality, as determined by a contracting officer within the last five years, involve inherently governmental functions, or were undertaken without competition. The pilot program shall be established in at least three Cabinet-level departments, based on varying levels of annual contracting for services, as reported by the Federal Procurement Data System’s Federal Procurement Report for fiscal year 2005, including at least one Cabinet-level department that contracts out annually for $10,000,000,000 or more in services, at least one Cabinet-level department that contracts out annually for between $5,000,000,000 and $9,000,000,000 in services, and at least one Cabinet-level department that contracts out annually for under $5,000,000,000 in services.”
 
  __Reporting of Bundled Contract Opportunities__ 
 
-[Pub. L. 105–135, title IV, § 414][/us/pl/105/135/s414], Dec. 2, 1997, [111 Stat. 2619][/us/stat/111/2619], provided that:
+[Pub. L. 105–135, title IV][/us/pl/105/135/tIV], § 414, Dec. 2, 1997, [111 Stat. 2619][/us/stat/111/2619], provided that:
 
 >     “(a)  __Data Collection Required__  __.—__ 
 
@@ -211,7 +211,7 @@ In clause (12), the words “small business concerns owned and controlled by ser
 
  __Results-Oriented Acquisition Process__ 
 
-[Pub. L. 103–355, title V, § 5052][/us/pl/103/355/s5052], Oct. 13, 1994, [108 Stat. 3352][/us/stat/108/3352], provided that:
+[Pub. L. 103–355, title V][/us/pl/103/355/tV], § 5052, Oct. 13, 1994, [108 Stat. 3352][/us/stat/108/3352], provided that:
 
 >     “(a)  __Development of Process Required__  __.—__ 
 
@@ -223,7 +223,7 @@ In clause (12), the words “small business concerns owned and controlled by ser
 
  __Data Collection Through Federal Procurement Data System__ 
 
-[Pub. L. 103–355, title X, § 10004][/us/pl/103/355/s10004], Oct. 13, 1994, [108 Stat. 3405][/us/stat/108/3405], provided that:
+[Pub. L. 103–355, title X][/us/pl/103/355/tX], § 10004, Oct. 13, 1994, [108 Stat. 3405][/us/stat/108/3405], provided that:
 
 >     “(a)  __Data Collection Required__  __.—__ 
 
@@ -254,21 +254,21 @@ In clause (12), the words “small business concerns owned and controlled by ser
 [/us/usc/t41/s1201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs1201
 [/us/usc/t15/s632/p]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs632%2Fp
 [/us/usc/t15/s632/p]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs632%2Fp
-[/us/pl/111/350/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350%2Fs3
+[/us/pl/111/350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350
 [/us/stat/124/3685]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3685
-[/us/pl/112/81/s864/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs864%2Fb%2F3
+[/us/pl/112/81/dA/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2FdA%2FtVIII
 [/us/stat/125/1524]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1524
 [/us/pl/112/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81
-[/us/pl/110/161/s748]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F161%2Fs748
+[/us/pl/110/161/dD/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F161%2FdD%2FtVII
 [/us/stat/121/2035]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F2035
-[/us/pl/105/135/s414]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F135%2Fs414
+[/us/pl/105/135/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F135%2FtIV
 [/us/stat/111/2619]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F2619
 [/us/usc/t41/s405/d/4/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs405%2Fd%2F4%2FA
 [/us/usc/t41/s1122/a/4/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs1122%2Fa%2F4%2FA
 [/us/usc/t15/s632]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs632
-[/us/pl/103/355/s5052]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F355%2Fs5052
+[/us/pl/103/355/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F355%2FtV
 [/us/stat/108/3352]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3352
-[/us/pl/103/355/s10004]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F355%2Fs10004
+[/us/pl/103/355/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F355%2FtX
 [/us/stat/108/3405]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3405
 [/us/usc/t41/s405/d/4/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs405%2Fd%2F4%2FA
 [/us/usc/t41/s1122/a/4/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs1122%2Fa%2F4%2FA

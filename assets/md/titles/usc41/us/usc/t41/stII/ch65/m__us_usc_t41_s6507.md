@@ -39,7 +39,7 @@
 
     The Secretary or an impartial representative designated by the Secretary may make decisions, based on findings of fact, that are considered necessary to enforce this chapter.
 
-([Pub. L. 111–350, § 3][/us/pl/111/350/s3], Jan. 4, 2011, [124 Stat. 3809][/us/stat/124/3809].)
+([Pub. L. 111–350][/us/pl/111/350], § 3, Jan. 4, 2011, [124 Stat. 3809][/us/stat/124/3809].)
 
 <table>
 
@@ -116,7 +116,7 @@ In subsection (d), the word “contumacy” is omitted as included in “refuses
 
 [/us/usc/t41/s6502/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs6502%2F1
 [/us/usc/t41/s6502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs6502
-[/us/pl/111/350/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350%2Fs3
+[/us/pl/111/350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350
 [/us/stat/124/3809]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3809
 [/us/act/1936-06-30/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1936-06-30%2Fs5
 [/us/act/1948-06-25/s32/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fs32%2Fb

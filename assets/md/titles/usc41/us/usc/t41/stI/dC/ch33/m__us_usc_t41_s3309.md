@@ -109,7 +109,7 @@
 
         (3) providing for a uniform approach to be used Government-wide.
 
-([Pub. L. 111–350, § 3][/us/pl/111/350/s3], Jan. 4, 2011, [124 Stat. 3759][/us/stat/124/3759].)
+([Pub. L. 111–350][/us/pl/111/350], § 3, Jan. 4, 2011, [124 Stat. 3759][/us/stat/124/3759].)
 
 <table>
 
@@ -169,7 +169,7 @@ June 30, 1949, ch. 288, title III, § 303M, as added Pub. L. 104–106, div. D
 ----------
 
 [/us/usc/t41/s3306]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs3306
-[/us/pl/111/350/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350%2Fs3
+[/us/pl/111/350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350
 [/us/stat/124/3759]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3759
 [/us/usc/t40/s541]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft40%2Fs541
 [/us/pl/107/217/s5/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F217%2Fs5%2Fc

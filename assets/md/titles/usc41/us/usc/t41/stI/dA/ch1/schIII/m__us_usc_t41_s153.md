@@ -23,7 +23,7 @@
 
     In paragraph (1), the term “humanitarian or peacekeeping operation” means a military operation in support of the provision of humanitarian or foreign disaster assistance or in support of a peacekeeping operation under chapter VI or VII of the Charter of the United Nations. The term does not include routine training, force rotation, or stationing.
 
-([Pub. L. 111–350, § 3][/us/pl/111/350/s3], Jan. 4, 2011, [124 Stat. 3683][/us/stat/124/3683].)
+([Pub. L. 111–350][/us/pl/111/350], § 3, Jan. 4, 2011, [124 Stat. 3683][/us/stat/124/3683].)
 
 <table>
 
@@ -98,7 +98,7 @@ June 30, 1949, ch. 288, title III, § 309(d)(2), as added Pub. L. 104–201, t
 
 [/us/usc/t41/s134]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs134
 [/us/usc/t41/s134]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs134
-[/us/pl/111/350/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350%2Fs3
+[/us/pl/111/350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350
 [/us/stat/124/3683]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3683
 [/us/usc/t41/s259/d/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs259%2Fd%2F2%2FA
 [/us/pl/93/400]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F400

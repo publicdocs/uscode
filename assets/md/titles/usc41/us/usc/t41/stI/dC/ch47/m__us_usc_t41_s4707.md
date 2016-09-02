@@ -17,7 +17,7 @@
 
     When a contract made on behalf of the Federal Government by the head of a Federal agency, or by an authorized officer of the agency, includes a provision for liquidated damages for delay, the Secretary of the Treasury on recommendation of the head of the agency may remit any part of the damages as the Secretary of the Treasury believes is just and equitable.
 
-([Pub. L. 111–350, § 3][/us/pl/111/350/s3], Jan. 4, 2011, [124 Stat. 3799][/us/stat/124/3799].)
+([Pub. L. 111–350][/us/pl/111/350], § 3, Jan. 4, 2011, [124 Stat. 3799][/us/stat/124/3799].)
 
 <table>
 
@@ -72,7 +72,7 @@ Sept. 5, 1950, ch. 849, § 10(a), 64 Stat. 591; Pub. L. 104–316, title II, �
 ----------
 ----------
 
-[/us/pl/111/350/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350%2Fs3
+[/us/pl/111/350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350
 [/us/stat/124/3799]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3799
 
 

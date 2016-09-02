@@ -97,7 +97,7 @@
 
     This section does not apply to a contract for the acquisition of property or services that includes acquisition of advisory and assistance services if the head of the executive agency entering into the contract determines that, under the contract, advisory and assistance services are necessarily incident to, and not a significant component of, the contract.
 
-([Pub. L. 111–350, § 3][/us/pl/111/350/s3], Jan. 4, 2011, [124 Stat. 3780][/us/stat/124/3780].)
+([Pub. L. 111–350][/us/pl/111/350], § 3, Jan. 4, 2011, [124 Stat. 3780][/us/stat/124/3780].)
 
 <table>
 
@@ -297,7 +297,7 @@ Pub. L. 109–364, div. A, title VIII, § 834(b), (c) (related to (b)), Oct. 1
 [/us/usc/t41/s3304/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs3304%2Fe
 [/us/usc/t41/s1708]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs1708
 [/us/usc/t15/s637/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs637%2Fe
-[/us/pl/111/350/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350%2Fs3
+[/us/pl/111/350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350
 [/us/stat/124/3780]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3780
 [/us/usc/t41/s253k]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs253k
 

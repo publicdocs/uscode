@@ -39,7 +39,7 @@
 
             (B) any contract that the President, the Secretary of the Army, the Secretary of the Air Force, the Secretary of the Navy, or the Secretary of the Department in which the Coast Guard is operating certifies to the employer to be necessary to the national defense.
 
-([Pub. L. 111–350, § 3][/us/pl/111/350/s3], Jan. 4, 2011, [124 Stat. 3806][/us/stat/124/3806].)
+([Pub. L. 111–350][/us/pl/111/350], § 3, Jan. 4, 2011, [124 Stat. 3806][/us/stat/124/3806].)
 
 <table>
 
@@ -116,7 +116,7 @@ June 22, 1942, ch. 432, § 2, 56 Stat. 376; Pub. L. 97–31, § 12(16), Aug.
 ----------
 ----------
 
-[/us/pl/111/350/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350%2Fs3
+[/us/pl/111/350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350
 [/us/stat/124/3806]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3806
 [/us/stat/61/502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F61%2F502
 [/us/act/1956-08-10/s53]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fs53

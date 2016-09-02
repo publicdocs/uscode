@@ -23,7 +23,7 @@
 
     The Administrator is appointed by the President, by and with the advice and consent of the Senate.
 
-([Pub. L. 111–350, § 3][/us/pl/111/350/s3], Jan. 4, 2011, [124 Stat. 3684][/us/stat/124/3684].)
+([Pub. L. 111–350][/us/pl/111/350], § 3, Jan. 4, 2011, [124 Stat. 3684][/us/stat/124/3684].)
 
 <table>
 
@@ -78,7 +78,7 @@ Pub. L. 93–400, § (5)(b), Aug. 30, 1974, 88 Stat. 797.  </td>
 ----------
 ----------
 
-[/us/pl/111/350/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350%2Fs3
+[/us/pl/111/350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350
 [/us/stat/124/3684]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3684
 
 

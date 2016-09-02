@@ -35,7 +35,7 @@
 
     The President may suspend any of the representations and stipulations contained in [section 6502 of this title][/us/usc/t41/s6502] whenever, in the President’s judgment, suspension is in the public interest.
 
-([Pub. L. 111–350, § 3][/us/pl/111/350/s3], Jan. 4, 2011, [124 Stat. 3810][/us/stat/124/3810].)
+([Pub. L. 111–350][/us/pl/111/350], § 3, Jan. 4, 2011, [124 Stat. 3810][/us/stat/124/3810].)
 
 <table>
 
@@ -158,7 +158,7 @@ June 30, 1936, ch. 881, § 6, 49 Stat. 2038; June 28, 1940, ch. 440, title I, 
 
 [/us/usc/t41/s6502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs6502
 [/us/usc/t41/s6502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs6502
-[/us/pl/111/350/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350%2Fs3
+[/us/pl/111/350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350
 [/us/stat/124/3810]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3810
 
 

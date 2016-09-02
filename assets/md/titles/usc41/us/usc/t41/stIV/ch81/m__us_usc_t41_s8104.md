@@ -21,7 +21,7 @@
 
     (2) require the employee to satisfactorily participate in a drug abuse assistance or rehabilitation program approved for those purposes by a Federal, State, or local health, law enforcement, or other appropriate agency.
 
-([Pub. L. 111–350, § 3][/us/pl/111/350/s3], Jan. 4, 2011, [124 Stat. 3830][/us/stat/124/3830].)
+([Pub. L. 111–350][/us/pl/111/350], § 3, Jan. 4, 2011, [124 Stat. 3830][/us/stat/124/3830].)
 
 <table>
 
@@ -76,7 +76,7 @@ Pub. L. 100–690, title V, § 5154, Nov. 18, 1988, 102 Stat. 4307.  </td>
 ----------
 ----------
 
-[/us/pl/111/350/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350%2Fs3
+[/us/pl/111/350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350
 [/us/stat/124/3830]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3830
 
 

@@ -47,7 +47,7 @@
 
     The Director of the Congressional Budget Office may enter into agreements or contracts without regard to [section 6101 of this title][/us/usc/t41/s6101].
 
-([Pub. L. 111–350, § 3][/us/pl/111/350/s3], Jan. 4, 2011, [124 Stat. 3802][/us/stat/124/3802].)
+([Pub. L. 111–350][/us/pl/111/350], § 3, Jan. 4, 2011, [124 Stat. 3802][/us/stat/124/3802].)
 
 <table>
 
@@ -226,7 +226,7 @@ Pub. L. 108–7, div. H, title I, §§ 104, 1102, Feb. 20, 2003, 117 Stat. 354
 [/us/usc/t41/s6101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs6101
 [/us/usc/t41/s6101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs6101
 [/us/usc/t41/s6101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs6101
-[/us/pl/111/350/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350%2Fs3
+[/us/pl/111/350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350
 [/us/stat/124/3802]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3802
 
 

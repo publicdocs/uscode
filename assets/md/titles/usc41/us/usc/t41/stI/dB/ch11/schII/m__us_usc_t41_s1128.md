@@ -27,7 +27,7 @@
 
     (5) award and administer contracts for those services.
 
-([Pub. L. 111–350, § 3][/us/pl/111/350/s3], Jan. 4, 2011, [124 Stat. 3690][/us/stat/124/3690].)
+([Pub. L. 111–350][/us/pl/111/350], § 3, Jan. 4, 2011, [124 Stat. 3690][/us/stat/124/3690].)
 
 <table>
 
@@ -82,7 +82,7 @@ Pub. L. 108–136, title XIV, § 1414, Nov. 24, 2003, 117 Stat. 1666.  </td>
 ----------
 ----------
 
-[/us/pl/111/350/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350%2Fs3
+[/us/pl/111/350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350
 [/us/stat/124/3690]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3690
 
 

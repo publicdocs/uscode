@@ -21,7 +21,7 @@
 
     (2) except when prohibited by law, furnish to the Administrator, and give the Administrator access to, all information and records in its possession that the Administrator may determine to be necessary for the performance of the functions of the Office.
 
-([Pub. L. 111–350, § 3][/us/pl/111/350/s3], Jan. 4, 2011, [124 Stat. 3700][/us/stat/124/3700].)
+([Pub. L. 111–350][/us/pl/111/350], § 3, Jan. 4, 2011, [124 Stat. 3700][/us/stat/124/3700].)
 
 <table>
 
@@ -152,7 +152,7 @@ Pub. L. 93–400, § 7, Aug. 30, 1974, 88 Stat. 798.  </td>
 ----------
 ----------
 
-[/us/pl/111/350/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350%2Fs3
+[/us/pl/111/350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350
 [/us/stat/124/3700]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3700
 [/us/pl/95/89]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F89
 [/us/usc/t15/s644]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs644

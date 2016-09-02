@@ -73,7 +73,7 @@
 
     The term “misrepresentation of fact” means a false statement of substantive fact, or conduct that leads to a belief of a substantive fact material to proper understanding of the matter in hand, made with intent to deceive or mislead.
 
-([Pub. L. 111–350, § 3][/us/pl/111/350/s3], Jan. 4, 2011, [124 Stat. 3816][/us/stat/124/3816].)
+([Pub. L. 111–350][/us/pl/111/350], § 3, Jan. 4, 2011, [124 Stat. 3816][/us/stat/124/3816].)
 
 <table>
 
@@ -140,7 +140,7 @@ Pub. L. 95–563, § 2, Nov. 1, 1978, 92 Stat. 2383; Pub. L. 104–106, div. D
 [/us/usc/t5/s102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs102
 [/us/usc/t5/s104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs104
 [/us/usc/t31/s9101/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs9101%2F3
-[/us/pl/111/350/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350%2Fs3
+[/us/pl/111/350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350
 [/us/stat/124/3816]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3816
 [/us/pl/108/271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F271
 [/us/stat/118/814]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F814

@@ -17,7 +17,7 @@
 
     In this subtitle, the term “Federal Acquisition Regulation” means the regulation issued under [section 1303(a)(1) of this title][/us/usc/t41/s1303/a/1].
 
-([Pub. L. 111–350, § 3][/us/pl/111/350/s3], Jan. 4, 2011, [124 Stat. 3680][/us/stat/124/3680].)
+([Pub. L. 111–350][/us/pl/111/350], § 3, Jan. 4, 2011, [124 Stat. 3680][/us/stat/124/3680].)
 
 <table>
 
@@ -75,7 +75,7 @@ June 30, 1949, ch. 288, title III, § 309(e), as added Pub. L. 103–355, titl
 ----------
 
 [/us/usc/t41/s1303/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs1303%2Fa%2F1
-[/us/pl/111/350/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350%2Fs3
+[/us/pl/111/350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350
 [/us/stat/124/3680]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3680
 [/us/pl/93/400]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F400
 [/us/stat/88/796]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F796

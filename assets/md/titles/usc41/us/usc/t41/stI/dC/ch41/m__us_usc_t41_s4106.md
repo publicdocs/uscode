@@ -91,11 +91,11 @@
 
         The task and delivery order ombudsman shall be a senior agency official who is independent of the contracting officer for the contracts and may be the executive agency’s advocate for competition.
 
-([Pub. L. 111–350, § 3][/us/pl/111/350/s3], Jan. 4, 2011, [124 Stat. 3782][/us/stat/124/3782]; [Pub. L. 111–383, div. A, title X, § 1075(f)(5)(B)][/us/pl/111/383/s1075/f/5/B], Jan. 7, 2011, [124 Stat. 4376][/us/stat/124/4376]; [Pub. L. 112–81, div. A, title VIII, § 813][/us/pl/112/81/s813], Dec. 31, 2011, [125 Stat. 1491][/us/stat/125/1491].)
+([Pub. L. 111–350][/us/pl/111/350], § 3, Jan. 4, 2011, [124 Stat. 3782][/us/stat/124/3782]; [Pub. L. 111–383, div. A, title X][/us/pl/111/383/dA/tX], § 1075(f)(5)(B), Jan. 7, 2011, [124 Stat. 4376][/us/stat/124/4376]; [Pub. L. 112–81, div. A, title VIII][/us/pl/112/81/dA/tVIII], § 813, Dec. 31, 2011, [125 Stat. 1491][/us/stat/125/1491].)
 
  __Amendment Not Shown in Text__ 
 
-    This section was derived from section 253j of former Title 41, Public Contracts, which was amended by [Pub. L. 110–181, div. A, title VIII, § 843(b)(2)(C)][/us/pl/110/181/s843/b/2/C], Jan. 28, 2008, [122 Stat. 239][/us/stat/122/239], to add subsec. (e), from which subsec. (f) of this section was derived, prior to being repealed and reenacted as this section by [Pub. L. 111–350][/us/pl/111/350], §§ 3, 7(b), Jan. 4, 2011, [124 Stat. 3677][/us/stat/124/3677], 3855. The directory language of [section 843(b)(2)(C) of Pub. L. 110–181][/us/pl/110/181/s843/b/2/C] was amended by [Pub. L. 111–383, div. A, title X, § 1075(f)(5)(B)][/us/pl/111/383/s1075/f/5/B], Jan. 7, 2011, [124 Stat. 4376][/us/stat/124/4376]. For applicability of that amendment to this section, see [section 6(a) of Pub. L. 111–350][/us/pl/111/350/s6/a], set out as a Transitional and Savings Provisions note preceding [section 101 of this title][/us/usc/t41/s101]. [Section 843(b)(2)(C) of Pub. L. 110–181][/us/pl/110/181/s843/b/2/C] was amended by striking “paragraph (1)” and inserting “subparagraph (A)”.
+    This section was derived from section 253j of former Title 41, Public Contracts, which was amended by [Pub. L. 110–181, div. A, title VIII][/us/pl/110/181/dA/tVIII], § 843(b)(2)(C), Jan. 28, 2008, [122 Stat. 239][/us/stat/122/239], to add subsec. (e), from which subsec. (f) of this section was derived, prior to being repealed and reenacted as this section by [Pub. L. 111–350][/us/pl/111/350], §§ 3, 7(b), Jan. 4, 2011, [124 Stat. 3677][/us/stat/124/3677], 3855. The directory language of [section 843(b)(2)(C) of Pub. L. 110–181][/us/pl/110/181/s843/b/2/C] was amended by [Pub. L. 111–383, div. A, title X][/us/pl/111/383/dA/tX], § 1075(f)(5)(B), Jan. 7, 2011, [124 Stat. 4376][/us/stat/124/4376]. For applicability of that amendment to this section, see [section 6(a) of Pub. L. 111–350][/us/pl/111/350/s6/a], set out as a Transitional and Savings Provisions note preceding [section 101 of this title][/us/usc/t41/s101]. [Section 843(b)(2)(C) of Pub. L. 110–181][/us/pl/110/181/s843/b/2/C] was amended by striking “paragraph (1)” and inserting “subparagraph (A)”.
 
 <table>
 
@@ -245,18 +245,18 @@ June 30, 1949, ch. 288, title III, § 303J, as added Pub. L. 103–355, title 
 [/us/usc/t41/s3304/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs3304%2Fe
 [/us/usc/t41/s3704]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs3704
 [/us/usc/t31/s3556]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs3556
-[/us/pl/111/350/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350%2Fs3
+[/us/pl/111/350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350
 [/us/stat/124/3782]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3782
-[/us/pl/111/383/s1075/f/5/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2Fs1075%2Ff%2F5%2FB
+[/us/pl/111/383/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2FdA%2FtX
 [/us/stat/124/4376]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F4376
-[/us/pl/112/81/s813]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs813
+[/us/pl/112/81/dA/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2FdA%2FtVIII
 [/us/stat/125/1491]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1491
-[/us/pl/110/181/s843/b/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs843%2Fb%2F2%2FC
+[/us/pl/110/181/dA/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2FdA%2FtVIII
 [/us/stat/122/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F239
 [/us/pl/111/350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350
 [/us/stat/124/3677]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3677
 [/us/pl/110/181/s843/b/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs843%2Fb%2F2%2FC
-[/us/pl/111/383/s1075/f/5/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2Fs1075%2Ff%2F5%2FB
+[/us/pl/111/383/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2FdA%2FtX
 [/us/stat/124/4376]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F4376
 [/us/pl/111/350/s6/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350%2Fs6%2Fa
 [/us/usc/t41/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs101

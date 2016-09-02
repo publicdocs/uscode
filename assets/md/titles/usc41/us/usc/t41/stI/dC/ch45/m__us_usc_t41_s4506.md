@@ -55,7 +55,7 @@
 
     The head of an executive agency may not delegate responsibilities under this section to an individual in a position below level IV of the Executive Schedule.
 
-([Pub. L. 111–350, § 3][/us/pl/111/350/s3], Jan. 4, 2011, [124 Stat. 3792][/us/stat/124/3792].)
+([Pub. L. 111–350][/us/pl/111/350], § 3, Jan. 4, 2011, [124 Stat. 3792][/us/stat/124/3792].)
 
 <table>
 
@@ -110,7 +110,7 @@ June 30, 1949, ch. 288, title III, § 305(g), as added Pub. L. 103–355, titl
 ----------
 ----------
 
-[/us/pl/111/350/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350%2Fs3
+[/us/pl/111/350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350
 [/us/stat/124/3792]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3792
 
 

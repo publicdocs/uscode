@@ -77,7 +77,7 @@
 
     While [section 4712 of this title][/us/usc/t41/s4712] is in effect, this section shall not be in effect.
 
-([Pub. L. 111–350, § 3][/us/pl/111/350/s3], Jan. 4, 2011, [124 Stat. 3796][/us/stat/124/3796]; [Pub. L. 112–239, div. A, title VIII, § 828(c)][/us/pl/112/239/s828/c], Jan. 2, 2013, [126 Stat. 1841][/us/stat/126/1841].)
+([Pub. L. 111–350][/us/pl/111/350], § 3, Jan. 4, 2011, [124 Stat. 3796][/us/stat/124/3796]; [Pub. L. 112–239, div. A, title VIII][/us/pl/112/239/dA/tVIII], § 828(c), Jan. 2, 2013, [126 Stat. 1841][/us/stat/126/1841].)
 
 <table>
 
@@ -199,9 +199,9 @@ June 30, 1949, ch. 288, title III, § 315, as added Pub. L. 103–355, title V
 ----------
 
 [/us/usc/t41/s4712]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs4712
-[/us/pl/111/350/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350%2Fs3
+[/us/pl/111/350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350
 [/us/stat/124/3796]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3796
-[/us/pl/112/239/s828/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs828%2Fc
+[/us/pl/112/239/dA/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2FdA%2FtVIII
 [/us/stat/126/1841]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1841
 [/us/pl/95/452]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F452
 [/us/stat/92/1101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1101

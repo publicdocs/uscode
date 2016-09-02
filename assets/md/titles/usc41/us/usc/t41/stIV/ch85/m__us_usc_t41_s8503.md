@@ -53,7 +53,7 @@
 
         (2) the development and adaptation of production methods that would enable a greater utilization of the blind and other severely disabled individuals.
 
-([Pub. L. 111–350, § 3][/us/pl/111/350/s3], Jan. 4, 2011, [124 Stat. 3836][/us/stat/124/3836].)
+([Pub. L. 111–350][/us/pl/111/350], § 3, Jan. 4, 2011, [124 Stat. 3836][/us/stat/124/3836].)
 
 <table>
 
@@ -168,7 +168,7 @@ June 25, 1938, ch. 697, § 2, 52 Stat. 1196; Pub. L. 92–28, § 1, June 23,
 ----------
 ----------
 
-[/us/pl/111/350/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350%2Fs3
+[/us/pl/111/350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350
 [/us/stat/124/3836]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3836
 
 

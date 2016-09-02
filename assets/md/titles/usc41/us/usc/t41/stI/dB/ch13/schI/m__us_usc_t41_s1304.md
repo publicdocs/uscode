@@ -51,7 +51,7 @@
 
                 (ii) written justification for the certification requirement is provided to the head of the executive agency by the senior procurement executive of the agency and the head of the executive agency approves in writing the inclusion of the certification requirement.
 
-([Pub. L. 111–350, § 3][/us/pl/111/350/s3], Jan. 4, 2011, [124 Stat. 3693][/us/stat/124/3693].)
+([Pub. L. 111–350][/us/pl/111/350], § 3, Jan. 4, 2011, [124 Stat. 3693][/us/stat/124/3693].)
 
 <table>
 
@@ -129,7 +129,7 @@ Pub. L. 93–400, § 29, as added Pub. L. 103–355, title I, § 1093, Oct. 
 
  __Current Certification Requirements__ 
 
-[Pub. L. 104–106, div. D, title XLIII, § 4301(b)(1)][/us/pl/104/106/s4301/b/1], Feb. 10, 1996, [110 Stat. 656][/us/stat/110/656], provided that:
+[Pub. L. 104–106, div. D, title XLIII][/us/pl/104/106/dD/tXLIII], § 4301(b)(1), Feb. 10, 1996, [110 Stat. 656][/us/stat/110/656], provided that:
 
 >     “(A)
 
@@ -178,9 +178,9 @@ Pub. L. 93–400, § 29, as added Pub. L. 103–355, title I, § 1093, Oct. 
 ----------
 ----------
 
-[/us/pl/111/350/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350%2Fs3
+[/us/pl/111/350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350
 [/us/stat/124/3693]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3693
-[/us/pl/104/106/s4301/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs4301%2Fb%2F1
+[/us/pl/104/106/dD/tXLIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2FdD%2FtXLIII
 [/us/stat/110/656]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F656
 
 

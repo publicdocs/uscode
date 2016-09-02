@@ -71,7 +71,7 @@
 
         (4) in the case of the Department of Defense and the Department of Energy, the Committees on Armed Services of the Senate and the House of Representatives.
 
-([Pub. L. 111–350, § 3][/us/pl/111/350/s3], Jan. 4, 2011, [124 Stat. 3777][/us/stat/124/3777].)
+([Pub. L. 111–350][/us/pl/111/350], § 3, Jan. 4, 2011, [124 Stat. 3777][/us/stat/124/3777].)
 
 <table>
 
@@ -125,7 +125,7 @@ Pub. L. 110–417, [div. A], title VIII, § 864(a), (b), (d), (e), (f)(2), (g)
 
  __Amendment of Federal Acquisition Regulation__ 
 
-[Pub. L. 111–350, § 6(f)(5)][/us/pl/111/350/s6/f/5], Jan. 4, 2011, [124 Stat. 3855][/us/stat/124/3855], provided that: 
+[Pub. L. 111–350][/us/pl/111/350], § 6(f)(5), Jan. 4, 2011, [124 Stat. 3855][/us/stat/124/3855], provided that: 
 
 > “The Federal Acquisition Regulation shall be amended to meet the requirements of [section 3906(b) of title 41][/us/usc/t41/s3906/b], United States Code, not later than 270 days after October 14, 2008.”
 
@@ -137,9 +137,9 @@ Pub. L. 110–417, [div. A], title VIII, § 864(a), (b), (d), (e), (f)(2), (g)
 ----------
 
 [/us/usc/t41/s133]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs133
-[/us/pl/111/350/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350%2Fs3
+[/us/pl/111/350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350
 [/us/stat/124/3777]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3777
-[/us/pl/111/350/s6/f/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350%2Fs6%2Ff%2F5
+[/us/pl/111/350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350
 [/us/stat/124/3855]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3855
 [/us/usc/t41/s3906/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs3906%2Fb
 

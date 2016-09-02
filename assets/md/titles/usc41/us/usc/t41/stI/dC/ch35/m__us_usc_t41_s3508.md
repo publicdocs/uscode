@@ -17,7 +17,7 @@
 
     For the purpose of evaluating the accuracy, completeness, and currency of cost or pricing data required to be submitted by this chapter, an executive agency shall have the authority provided by [section 4706(b)(2) of this title][/us/usc/t41/s4706/b/2].
 
-([Pub. L. 111–350, § 3][/us/pl/111/350/s3], Jan. 4, 2011, [124 Stat. 3770][/us/stat/124/3770].)
+([Pub. L. 111–350][/us/pl/111/350], § 3, Jan. 4, 2011, [124 Stat. 3770][/us/stat/124/3770].)
 
 <table>
 
@@ -73,7 +73,7 @@ June 30, 1949, ch. 288, title III, § 304A(g), as added Pub. L. 103–355, tit
 ----------
 
 [/us/usc/t41/s4706/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs4706%2Fb%2F2
-[/us/pl/111/350/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350%2Fs3
+[/us/pl/111/350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350
 [/us/stat/124/3770]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3770
 
 

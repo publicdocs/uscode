@@ -39,7 +39,7 @@
 
         (2) the modification would not change the contract or subcontract from a contract or subcontract for the acquisition of a commercial item to a contract or subcontract for the acquisition of an item other than a commercial item.
 
-([Pub. L. 111–350, § 3][/us/pl/111/350/s3], Jan. 4, 2011, [124 Stat. 3766][/us/stat/124/3766].)
+([Pub. L. 111–350][/us/pl/111/350], § 3, Jan. 4, 2011, [124 Stat. 3766][/us/stat/124/3766].)
 
 <table>
 
@@ -98,7 +98,7 @@ June 30, 1949, ch. 288, title III, § 304A(b), as added Pub. L. 103–355, tit
 
 [/us/usc/t41/s3502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs3502
 [/us/usc/t41/s3502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs3502
-[/us/pl/111/350/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350%2Fs3
+[/us/pl/111/350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350
 [/us/stat/124/3766]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3766
 
 

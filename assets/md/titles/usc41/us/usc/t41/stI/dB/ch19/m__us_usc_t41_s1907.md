@@ -49,7 +49,7 @@
 
         (2) specifically refers to this section and provides that, notwithstanding this section, it shall be applicable to contracts for the procurement of commercially available off-the-shelf items.
 
-([Pub. L. 111–350, § 3][/us/pl/111/350/s3], Jan. 4, 2011, [124 Stat. 3724][/us/stat/124/3724].)
+([Pub. L. 111–350][/us/pl/111/350], § 3, Jan. 4, 2011, [124 Stat. 3724][/us/stat/124/3724].)
 
 <table>
 
@@ -105,7 +105,7 @@ Pub. L. 93–400, § 35(a), (b), as added Pub. L. 104–106, title XLII, § 
 ----------
 
 [/us/usc/t15/s644]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs644
-[/us/pl/111/350/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350%2Fs3
+[/us/pl/111/350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350
 [/us/stat/124/3724]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3724
 
 

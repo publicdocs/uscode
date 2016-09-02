@@ -27,7 +27,7 @@
 
         (2) authorize action by a recipient contrary to State and local law in the case of a program to provide a Federal grant or assistance to a State or political subdivision.
 
-([Pub. L. 111–350, § 3][/us/pl/111/350/s3], Jan. 4, 2011, [124 Stat. 3688][/us/stat/124/3688].)
+([Pub. L. 111–350][/us/pl/111/350], § 3, Jan. 4, 2011, [124 Stat. 3688][/us/stat/124/3688].)
 
 <table>
 
@@ -97,7 +97,7 @@ Pub. L. 93–400, § 6(i), Aug. 30, 1974, 88 Stat. 797; Pub. L. 96–83, § 
 ----------
 
 [/us/usc/t41/s1121/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs1121%2Fc%2F1
-[/us/pl/111/350/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350%2Fs3
+[/us/pl/111/350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350
 [/us/stat/124/3688]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3688
 
 

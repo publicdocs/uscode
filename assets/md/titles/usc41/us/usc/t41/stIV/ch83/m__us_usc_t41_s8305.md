@@ -23,7 +23,7 @@
 
     (3) an international agreement to which the United States is a party.
 
-([Pub. L. 111–350, § 3][/us/pl/111/350/s3], Jan. 4, 2011, [124 Stat. 3833][/us/stat/124/3833].)
+([Pub. L. 111–350][/us/pl/111/350], § 3, Jan. 4, 2011, [124 Stat. 3833][/us/stat/124/3833].)
 
 <table>
 
@@ -80,7 +80,7 @@ Pub. L. 104–201, div. A, title VIII, § 827, Sept. 23, 1996, 110 Stat. 2611;
 
 [/us/usc/t41/s8304/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs8304%2Fa
 [/us/usc/t19/s2501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2501
-[/us/pl/111/350/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350%2Fs3
+[/us/pl/111/350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350
 [/us/stat/124/3833]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3833
 
 

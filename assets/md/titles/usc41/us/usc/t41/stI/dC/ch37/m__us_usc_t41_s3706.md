@@ -17,7 +17,7 @@
 
     The Federal Acquisition Regulation shall include a provision encouraging the use of alternative dispute resolution techniques to provide informal, expeditious, and inexpensive procedures for an offeror to consider using before filing a protest, prior to the award of a contract, of the exclusion of the offeror from the competitive range (or otherwise from further consideration) for that contract.
 
-([Pub. L. 111–350, § 3][/us/pl/111/350/s3], Jan. 4, 2011, [124 Stat. 3773][/us/stat/124/3773].)
+([Pub. L. 111–350][/us/pl/111/350], § 3, Jan. 4, 2011, [124 Stat. 3773][/us/stat/124/3773].)
 
 <table>
 
@@ -72,7 +72,7 @@ June 30, 1949, ch. 288, title III, § 303B(h), as added Pub. L. 104–106, tit
 ----------
 ----------
 
-[/us/pl/111/350/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350%2Fs3
+[/us/pl/111/350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350
 [/us/stat/124/3773]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3773
 
 

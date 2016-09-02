@@ -57,7 +57,7 @@
 
         (2) is appealable in the manner provided in [section 7104(a) of this title][/us/usc/t41/s7104/a].
 
-([Pub. L. 111–350, § 3][/us/pl/111/350/s3], Jan. 4, 2011, [124 Stat. 3784][/us/stat/124/3784].)
+([Pub. L. 111–350][/us/pl/111/350], § 3, Jan. 4, 2011, [124 Stat. 3784][/us/stat/124/3784].)
 
 <table>
 
@@ -158,7 +158,7 @@ June 30, 1949, ch. 288, title III, § 306(a)–(d), as added Pub. L. 100–700
 
 [/us/usc/t41/s7103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs7103
 [/us/usc/t41/s7104/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs7104%2Fa
-[/us/pl/111/350/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350%2Fs3
+[/us/pl/111/350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350
 [/us/stat/124/3784]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3784
 [/us/usc/t41/s421/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs421%2Fc%2F1
 

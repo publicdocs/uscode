@@ -223,7 +223,7 @@
 
     All Federal civilian agency acquisition internship or acquisition training programs shall follow guidelines provided by the Office of Federal Procurement Policy to ensure consistent training standards necessary to develop uniform core competencies throughout the Federal Government.
 
-([Pub. L. 111–350, § 3][/us/pl/111/350/s3], Jan. 4, 2011, [124 Stat. 3702][/us/stat/124/3702]; [Pub. L. 112–74, div. C, title V, § 526][/us/pl/112/74/s526], Dec. 23, 2011, [125 Stat. 914][/us/stat/125/914]; [Pub. L. 112–81, div. A, title VIII, § 864(c)][/us/pl/112/81/s864/c], (d), Dec. 31, 2011, [125 Stat. 1525][/us/stat/125/1525]; [Pub. L. 112–239, div. A, title X, § 1076(a)(15)][/us/pl/112/239/s1076/a/15], title XI, § 1103, Jan. 2, 2013, [126 Stat. 1948][/us/stat/126/1948], 1973.)
+([Pub. L. 111–350][/us/pl/111/350], § 3, Jan. 4, 2011, [124 Stat. 3702][/us/stat/124/3702]; [Pub. L. 112–74, div. C, title V][/us/pl/112/74/dC/tV], § 526, Dec. 23, 2011, [125 Stat. 914][/us/stat/125/914]; [Pub. L. 112–81, div. A, title VIII][/us/pl/112/81/dA/tVIII], § 864(c), (d), Dec. 31, 2011, [125 Stat. 1525][/us/stat/125/1525]; [Pub. L. 112–239, div. A, title X][/us/pl/112/239/dA/tX], § 1076(a)(15), title XI, § 1103, Jan. 2, 2013, [126 Stat. 1948][/us/stat/126/1948], 1973.)
 
 <table>
 
@@ -491,45 +491,45 @@ Pub. L. 93–400, § 37(i), as added Pub. L. 109–313, § 4, Oct. 6, 2006, 
 
  __Amendments__ 
 
-    2013—Subsec. (i)(6). [Pub. L. 112–239, § 1076(a)(15)][/us/pl/112/239/s1076/a/15], amended [Pub. L. 112–81, § 864(d)(2)][/us/pl/112/81/s864/d/2]. See 2011 Amendment note below.
+    2013—Subsec. (i)(6). [Pub. L. 112–239][/us/pl/112/239], § 1076(a)(15), amended [Pub. L. 112–81][/us/pl/112/81], § 864(d)(2). See 2011 Amendment note below.
 
-    Subsec. (j)(2). [Pub. L. 112–239, § 1103][/us/pl/112/239/s1103], substituted “September 30, 2017” for “September 30, 2012”.
+    Subsec. (j)(2). [Pub. L. 112–239][/us/pl/112/239], § 1103, substituted “September 30, 2017” for “September 30, 2012”.
 
-    2011—Subsec. (c)(2). [Pub. L. 112–81, § 864(c)(1)][/us/pl/112/81/s864/c/1], designated existing provisions as subpar. (A), inserted subpar. heading, and added subpar. (B).
+    2011—Subsec. (c)(2). [Pub. L. 112–81][/us/pl/112/81], § 864(c)(1), designated existing provisions as subpar. (A), inserted subpar. heading, and added subpar. (B).
 
-    Subsec. (i)(2). [Pub. L. 112–81, § 864(d)(1)][/us/pl/112/81/s864/d/1], substituted “to support the activities set forth in [section 1201(a) of this title][/us/usc/t41/s1201/a]” for “to support the training of the acquisition workforce of the executive agencies”.
+    Subsec. (i)(2). [Pub. L. 112–81][/us/pl/112/81], § 864(d)(1), substituted “to support the activities set forth in [section 1201(a) of this title][/us/usc/t41/s1201/a]” for “to support the training of the acquisition workforce of the executive agencies”.
 
-    Subsec. (i)(6). [Pub. L. 112–81, § 864(d)(2)][/us/pl/112/81/s864/d/2], as amended by [Pub. L. 112–239, § 1076(a)(15)][/us/pl/112/239/s1076/a/15], substituted “ensure that amounts collected under this section are not used for a purpose other than the activities set forth in [section 1201(a) of this title][/us/usc/t41/s1201/a].” for “ensure that amounts collected under this subsection are not used for a purpose other than the purpose specified in subparagraphs (A) and (C) to (J) of [section 1122(a)(5) of this title][/us/usc/t41/s1122/a/5].”
+    Subsec. (i)(6). [Pub. L. 112–81][/us/pl/112/81], § 864(d)(2), as amended by [Pub. L. 112–239][/us/pl/112/239], § 1076(a)(15), substituted “ensure that amounts collected under this section are not used for a purpose other than the activities set forth in [section 1201(a) of this title][/us/usc/t41/s1201/a].” for “ensure that amounts collected under this subsection are not used for a purpose other than the purpose specified in subparagraphs (A) and (C) to (J) of [section 1122(a)(5) of this title][/us/usc/t41/s1122/a/5].”
 
     [Pub. L. 112–74][/us/pl/112/74] struck out “for training” after “amounts collected” and substituted “subparagraphs (A) and (C) to (J) of [section 1122(a)(5) of this title][/us/usc/t41/s1122/a/5]” for “paragraph (2)”.
 
-    Subsec. (l). [Pub. L. 112–81, § 864(c)(2)][/us/pl/112/81/s864/c/2], added subsec. (l).
+    Subsec. (l). [Pub. L. 112–81][/us/pl/112/81], § 864(c)(2), added subsec. (l).
 
  __Effective Date of 2013 Amendment__ 
 
-    [Pub. L. 112–239, div. A, title X, § 1076(a)][/us/pl/112/239/s1076/a], Jan. 2, 2013, [126 Stat. 1947][/us/stat/126/1947], provided that the amendment made by section 1076(a)(15) is effective Dec. 31, 2011, and as if included in [Pub. L. 112–81][/us/pl/112/81] as enacted.
+    [Pub. L. 112–239, div. A, title X][/us/pl/112/239/dA/tX], § 1076(a), Jan. 2, 2013, [126 Stat. 1947][/us/stat/126/1947], provided that the amendment made by section 1076(a)(15) is effective Dec. 31, 2011, and as if included in [Pub. L. 112–81][/us/pl/112/81] as enacted.
 
  __Effective Communication Between Government and Industry__ 
 
-[Pub. L. 114–92, div. A, title VIII, § 887][/us/pl/114/92/s887], Nov. 25, 2015, [129 Stat. 949][/us/stat/129/949], provided that: 
+[Pub. L. 114–92, div. A, title VIII][/us/pl/114/92/dA/tVIII], § 887, Nov. 25, 2015, [129 Stat. 949][/us/stat/129/949], provided that: 
 
 > “Not later than 180 days after the date of the enactment of this Act \[Nov. 25, 2015\], the Federal Acquisition Regulatory Council shall prescribe a regulation making clear that agency acquisition personnel are permitted and encouraged to engage in responsible and constructive exchanges with industry, so long as those exchanges are consistent with existing law and regulation and do not promote an unfair competitive advantage to particular firms.”
 
  __Training for Contracting and Enforcement Personnel__ 
 
-[Pub. L. 111–240, title I, § 1343(a)][/us/pl/111/240/s1343/a], Sept. 27, 2010, [124 Stat. 2545][/us/stat/124/2545], provided that: 
+[Pub. L. 111–240, title I][/us/pl/111/240/tI], § 1343(a), Sept. 27, 2010, [124 Stat. 2545][/us/stat/124/2545], provided that: 
 
 > “Not later than 1 year after the date of enactment of this Act \[Sept. 27, 2010\], the Federal Acquisition Institute, in consultation with the Administrator for Federal Procurement Policy, the Defense Acquisition University, and the Administrator \[of the Small Business Administration\], shall develop courses for acquisition personnel concerning proper classification of business concerns and small business size and status for purposes of Federal contracts, subcontracts, grants, cooperative agreements, and cooperative research and development agreements.”
 
  __Defense Acquisition University Funding__ 
 
-[Pub. L. 109–163, div. A, title VIII, § 821(c)][/us/pl/109/163/s821/c], Jan. 6, 2006, [119 Stat. 3386][/us/stat/119/3386], provided that: 
+[Pub. L. 109–163, div. A, title VIII][/us/pl/109/163/dA/tVIII], § 821(c), Jan. 6, 2006, [119 Stat. 3386][/us/stat/119/3386], provided that: 
 
 > “Amounts transferred under section 37(h)(3)(D) of the Office of Federal Procurement Policy Act \[now [41 U.S.C. 1703(i)(5)][/us/usc/t41/s1703/i/5]\] (as amended by subsection (a)) for use by the Defense Acquisition University shall be in addition to other amounts authorized for the University.”
 
  __Enhanced System of Performance Incentives__ 
 
-[Pub. L. 103–355, title V, § 5051(c)][/us/pl/103/355/s5051/c], Oct. 13, 1994, [108 Stat. 3351][/us/stat/108/3351], provided that: 
+[Pub. L. 103–355, title V][/us/pl/103/355/tV], § 5051(c), Oct. 13, 1994, [108 Stat. 3351][/us/stat/108/3351], provided that: 
 
 > “Within one year after the date of the enactment of this Act \[Oct. 13, 1994\], the Deputy Director for Management of the Office of Management and Budget, in consultation with appropriate officials in other departments and agencies of the Federal Government, shall, to the maximum extent consistent with applicable law—
 
@@ -560,41 +560,41 @@ Pub. L. 93–400, § 37(i), as added Pub. L. 109–313, § 4, Oct. 6, 2006, 
 [/us/usc/t40/s11101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft40%2Fs11101
 [/us/usc/t40/s11314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft40%2Fs11314
 [/us/usc/t41/s1201/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs1201%2Fa
-[/us/pl/111/350/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350%2Fs3
+[/us/pl/111/350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350
 [/us/stat/124/3702]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3702
-[/us/pl/112/74/s526]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F74%2Fs526
+[/us/pl/112/74/dC/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F74%2FdC%2FtV
 [/us/stat/125/914]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F914
-[/us/pl/112/81/s864/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs864%2Fc
+[/us/pl/112/81/dA/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2FdA%2FtVIII
 [/us/stat/125/1525]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1525
-[/us/pl/112/239/s1076/a/15]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs1076%2Fa%2F15
+[/us/pl/112/239/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2FdA%2FtX
 [/us/stat/126/1948]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1948
 [/us/pl/108/136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136
 [/us/stat/117/1665]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1665
 [/us/pl/103/305/s5051/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F305%2Fs5051%2Fc
-[/us/pl/112/239/s1076/a/15]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs1076%2Fa%2F15
-[/us/pl/112/81/s864/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs864%2Fd%2F2
-[/us/pl/112/239/s1103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs1103
-[/us/pl/112/81/s864/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs864%2Fc%2F1
-[/us/pl/112/81/s864/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs864%2Fd%2F1
+[/us/pl/112/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239
+[/us/pl/112/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81
+[/us/pl/112/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239
+[/us/pl/112/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81
+[/us/pl/112/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81
 [/us/usc/t41/s1201/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs1201%2Fa
-[/us/pl/112/81/s864/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs864%2Fd%2F2
-[/us/pl/112/239/s1076/a/15]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs1076%2Fa%2F15
+[/us/pl/112/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81
+[/us/pl/112/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239
 [/us/usc/t41/s1201/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs1201%2Fa
 [/us/usc/t41/s1122/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs1122%2Fa%2F5
 [/us/pl/112/74]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F74
 [/us/usc/t41/s1122/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs1122%2Fa%2F5
-[/us/pl/112/81/s864/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs864%2Fc%2F2
-[/us/pl/112/239/s1076/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs1076%2Fa
+[/us/pl/112/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81
+[/us/pl/112/239/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2FdA%2FtX
 [/us/stat/126/1947]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1947
 [/us/pl/112/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81
-[/us/pl/114/92/s887]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs887
+[/us/pl/114/92/dA/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2FdA%2FtVIII
 [/us/stat/129/949]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F949
-[/us/pl/111/240/s1343/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F240%2Fs1343%2Fa
+[/us/pl/111/240/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F240%2FtI
 [/us/stat/124/2545]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2545
-[/us/pl/109/163/s821/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs821%2Fc
+[/us/pl/109/163/dA/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2FdA%2FtVIII
 [/us/stat/119/3386]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F3386
 [/us/usc/t41/s1703/i/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs1703%2Fi%2F5
-[/us/pl/103/355/s5051/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F355%2Fs5051%2Fc
+[/us/pl/103/355/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F355%2FtV
 [/us/stat/108/3351]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3351
 [/us/usc/t41/s3103/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs3103%2Fb
 

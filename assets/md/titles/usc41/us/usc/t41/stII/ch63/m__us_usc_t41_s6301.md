@@ -45,11 +45,11 @@
 
     Land may not be purchased by the Federal Government unless the purchase is authorized by law.
 
-([Pub. L. 111–350, § 3][/us/pl/111/350/s3], Jan. 4, 2011, [124 Stat. 3803][/us/stat/124/3803]; [Pub. L. 111–281, title IX, § 903(a)(4)][/us/pl/111/281/s903/a/4], Oct. 15, 2010, [124 Stat. 3010][/us/stat/124/3010].)
+([Pub. L. 111–350][/us/pl/111/350], § 3, Jan. 4, 2011, [124 Stat. 3803][/us/stat/124/3803]; [Pub. L. 111–281, title IX][/us/pl/111/281/tIX], § 903(a)(4), Oct. 15, 2010, [124 Stat. 3010][/us/stat/124/3010].)
 
  __Amendment Not Shown in Text__ 
 
-    Subsecs. (a) and (b) of this section are derived from section 11 of former Title 41, Public Contracts, which was amended by [Pub. L. 111–281, title IX, § 903(a)(4)][/us/pl/111/281/s903/a/4], Oct. 15, 2010, [124 Stat. 3010][/us/stat/124/3010], prior to being repealed and reenacted as subsecs. (a) and (b) of this section by [Pub. L. 111–350][/us/pl/111/350], §§ 3, 7(b), Jan. 4, 2011, [124 Stat. 3677][/us/stat/124/3677], 3855. For applicability of that amendment to this section, see [section 6(a) of Pub. L. 111–350][/us/pl/111/350/s6/a], set out as a Transitional and Savings Provisions note preceding [section 101 of this title][/us/usc/t41/s101]. [Section 903 of Pub. L. 111–281][/us/pl/111/281/s903] provided that, effective with the enactment of [Pub. L. 109–241][/us/pl/109/241], [section 902(c) of Pub. L. 109–241][/us/pl/109/241/s902/c], which amended section 3732 of the Revised Statutes, is amended by inserting in the directory language, “of the United States” after “Revised Statutes”, resulting in no change in text.
+    Subsecs. (a) and (b) of this section are derived from section 11 of former Title 41, Public Contracts, which was amended by [Pub. L. 111–281, title IX][/us/pl/111/281/tIX], § 903(a)(4), Oct. 15, 2010, [124 Stat. 3010][/us/stat/124/3010], prior to being repealed and reenacted as subsecs. (a) and (b) of this section by [Pub. L. 111–350][/us/pl/111/350], §§ 3, 7(b), Jan. 4, 2011, [124 Stat. 3677][/us/stat/124/3677], 3855. For applicability of that amendment to this section, see [section 6(a) of Pub. L. 111–350][/us/pl/111/350/s6/a], set out as a Transitional and Savings Provisions note preceding [section 101 of this title][/us/usc/t41/s101]. [Section 903 of Pub. L. 111–281][/us/pl/111/281/s903] provided that, effective with the enactment of [Pub. L. 109–241][/us/pl/109/241], [section 902(c) of Pub. L. 109–241][/us/pl/109/241/s902/c], which amended section 3732 of the Revised Statutes, is amended by inserting in the directory language, “of the United States” after “Revised Statutes”, resulting in no change in text.
 
 <table>
 
@@ -138,11 +138,11 @@ R.S. § 3736.  </td>
 ----------
 ----------
 
-[/us/pl/111/350/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350%2Fs3
+[/us/pl/111/350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350
 [/us/stat/124/3803]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3803
-[/us/pl/111/281/s903/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F281%2Fs903%2Fa%2F4
+[/us/pl/111/281/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F281%2FtIX
 [/us/stat/124/3010]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3010
-[/us/pl/111/281/s903/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F281%2Fs903%2Fa%2F4
+[/us/pl/111/281/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F281%2FtIX
 [/us/stat/124/3010]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3010
 [/us/pl/111/350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350
 [/us/stat/124/3677]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3677

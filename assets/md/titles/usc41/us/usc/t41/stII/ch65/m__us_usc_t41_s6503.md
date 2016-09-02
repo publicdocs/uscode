@@ -39,7 +39,7 @@
 
     An amount withheld or recovered under subsection (d) that is based on an underpayment of wages as described in subsection (b)(2) shall be held in a special deposit account. On order of the Secretary, the amount shall be paid directly to the underpaid employee on whose account the amount was withheld or recovered. However, an employee’s claim for payment under this subsection may be entertained only if made within one year from the date of actual notice to the contractor of the withholding or recovery.
 
-([Pub. L. 111–350, § 3][/us/pl/111/350/s3], Jan. 4, 2011, [124 Stat. 3808][/us/stat/124/3808].)
+([Pub. L. 111–350][/us/pl/111/350], § 3, Jan. 4, 2011, [124 Stat. 3808][/us/stat/124/3808].)
 
 <table>
 
@@ -104,7 +104,7 @@ June 30, 1936, ch. 881, § 2, 49 Stat. 2037.  </td>
 
 [/us/usc/t41/s6502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs6502
 [/us/usc/t41/s6502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs6502
-[/us/pl/111/350/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350%2Fs3
+[/us/pl/111/350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350
 [/us/stat/124/3808]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3808
 
 

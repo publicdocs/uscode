@@ -17,7 +17,7 @@
 
     This chapter does not modify or supersede, and is not intended to impair or restrict, authorities or responsibilities under sections 1101 to 1104 of title 40.
 
-([Pub. L. 111–350, § 3][/us/pl/111/350/s3], Jan. 4, 2011, [124 Stat. 3778][/us/stat/124/3778].)
+([Pub. L. 111–350][/us/pl/111/350], § 3, Jan. 4, 2011, [124 Stat. 3778][/us/stat/124/3778].)
 
 <table>
 
@@ -74,7 +74,7 @@ The text of section 1054(b)(1) of the Federal Acquisition Streamlining Act of 19
 ----------
 ----------
 
-[/us/pl/111/350/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350%2Fs3
+[/us/pl/111/350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350
 [/us/stat/124/3778]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3778
 [/us/pl/103/355]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F355
 

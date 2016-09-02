@@ -21,7 +21,7 @@
 
     (2) qualified nonprofit agencies for the blind and qualified nonprofit agencies for other severely disabled that have sold products or services under this chapter to the extent those books, documents, papers, and other records relate to the activities of the agency in a fiscal year in which a sale was made under this chapter.
 
-([Pub. L. 111–350, § 3][/us/pl/111/350/s3], Jan. 4, 2011, [124 Stat. 3838][/us/stat/124/3838].)
+([Pub. L. 111–350][/us/pl/111/350], § 3, Jan. 4, 2011, [124 Stat. 3838][/us/stat/124/3838].)
 
 <table>
 
@@ -79,7 +79,7 @@ June 25, 1938, ch. 697, § 4, 52 Stat. 1196; Pub. L. 92–28, § 1, June 23,
 ----------
 
 [/us/usc/t41/s8503/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs8503%2Fc
-[/us/pl/111/350/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350%2Fs3
+[/us/pl/111/350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350
 [/us/stat/124/3838]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3838
 
 

@@ -133,11 +133,11 @@
 
     The Administrator, in coordination with the Director of the Office of Personnel Management, shall encourage executive agencies to use existing authorities, including direct hire authority and tuition assistance programs, to recruit and retain acquisition personnel and consider recruiting acquisition personnel who may be retiring from the private sector, consistent with existing laws and regulations.
 
-([Pub. L. 111–350, § 3][/us/pl/111/350/s3], Jan. 4, 2011, [124 Stat. 3706][/us/stat/124/3706]; [Pub. L. 111–383, div. A, title X, § 1075(e)(15)][/us/pl/111/383/s1075/e/15], Jan. 7, 2011, [124 Stat. 4375][/us/stat/124/4375]; [Pub. L. 112–81, div. A, title VIII, § 864(a)][/us/pl/112/81/s864/a], Dec. 31, 2011, [125 Stat. 1522][/us/stat/125/1522]; [Pub. L. 112–239, div. A, title X, § 1076(a)(14)][/us/pl/112/239/s1076/a/14], Jan. 2, 2013, [126 Stat. 1948][/us/stat/126/1948].)
+([Pub. L. 111–350][/us/pl/111/350], § 3, Jan. 4, 2011, [124 Stat. 3706][/us/stat/124/3706]; [Pub. L. 111–383, div. A, title X][/us/pl/111/383/dA/tX], § 1075(e)(15), Jan. 7, 2011, [124 Stat. 4375][/us/stat/124/4375]; [Pub. L. 112–81, div. A, title VIII][/us/pl/112/81/dA/tVIII], § 864(a), Dec. 31, 2011, [125 Stat. 1522][/us/stat/125/1522]; [Pub. L. 112–239, div. A, title X][/us/pl/112/239/dA/tX], § 1076(a)(14), Jan. 2, 2013, [126 Stat. 1948][/us/stat/126/1948].)
 
  __Amendments Not Shown in Text__ 
 
-Subsec. (g) of this section was derived from [Pub. L. 110–417][/us/pl/110/417], \[div. A\], title VIII, § 869, Oct. 14, 2008, [122 Stat. 4553][/us/stat/122/4553], which was set out as a note under section 433a of former Title 41, Public Contracts, prior to being repealed and reenacted as subsec. (g) of this section by [Pub. L. 111–350][/us/pl/111/350], §§ 3, 7(b), Jan. 4, 2011, [124 Stat. 3677][/us/stat/124/3677], 3855. [Section 869 of Pub. L. 110–417][/us/pl/110/417/s869] was amended by [Pub. L. 111–383, div. A, title X, § 1075(e)(15)][/us/pl/111/383/s1075/e/15], Jan. 7, 2011, [124 Stat. 4375][/us/stat/124/4375]. For applicability of that amendment to this section, see [section 6(a) of Pub. L. 111–350][/us/pl/111/350/s6/a], set out as a Transitional and Savings Provisions note preceding [section 101 of this title][/us/usc/t41/s101]. [Section 869 of Pub. L. 110–417][/us/pl/110/417/s869] was amended as follows:
+Subsec. (g) of this section was derived from [Pub. L. 110–417][/us/pl/110/417], \[div. A\], title VIII, § 869, Oct. 14, 2008, [122 Stat. 4553][/us/stat/122/4553], which was set out as a note under section 433a of former Title 41, Public Contracts, prior to being repealed and reenacted as subsec. (g) of this section by [Pub. L. 111–350][/us/pl/111/350], §§ 3, 7(b), Jan. 4, 2011, [124 Stat. 3677][/us/stat/124/3677], 3855. [Section 869 of Pub. L. 110–417][/us/pl/110/417/s869] was amended by [Pub. L. 111–383, div. A, title X][/us/pl/111/383/dA/tX], § 1075(e)(15), Jan. 7, 2011, [124 Stat. 4375][/us/stat/124/4375]. For applicability of that amendment to this section, see [section 6(a) of Pub. L. 111–350][/us/pl/111/350/s6/a], set out as a Transitional and Savings Provisions note preceding [section 101 of this title][/us/usc/t41/s101]. [Section 869 of Pub. L. 110–417][/us/pl/110/417/s869] was amended as follows:
 
     (1) in subsection (b), by striking “433(a)” and inserting “433a(a)”; and
 
@@ -263,21 +263,21 @@ Pub. L. 110–417, [div. A], title VIII, § 869, Oct. 14, 2008, 122 Stat. 4553
 
  __Amendments__ 
 
-    2013—Subsec. (b). [Pub. L. 112–239, § 1076(a)(14)][/us/pl/112/239/s1076/a/14], made technical amendment to directory language of [Pub. L. 112–81, § 864(a)(2)][/us/pl/112/81/s864/a/2]. See 2011 Amendment note below.
+    2013—Subsec. (b). [Pub. L. 112–239][/us/pl/112/239], § 1076(a)(14), made technical amendment to directory language of [Pub. L. 112–81][/us/pl/112/81], § 864(a)(2). See 2011 Amendment note below.
 
-    2011—Subsec. (b). [Pub. L. 112–81, § 864(a)(2)][/us/pl/112/81/s864/a/2], as amended by [Pub. L. 112–239, § 1076(a)(14)][/us/pl/112/239/s1076/a/14], substituted “The Associate Administrator shall be located in the Office of Federal Procurement Policy.” for “The Associate Administrator shall be located in the Federal Acquisition Institute (or its successor).” in introductory provisions.
+    2011—Subsec. (b). [Pub. L. 112–81][/us/pl/112/81], § 864(a)(2), as amended by [Pub. L. 112–239][/us/pl/112/239], § 1076(a)(14), substituted “The Associate Administrator shall be located in the Office of Federal Procurement Policy.” for “The Associate Administrator shall be located in the Federal Acquisition Institute (or its successor).” in introductory provisions.
 
-    [Pub. L. 112–81, § 864(a)(1)][/us/pl/112/81/s864/a/1], inserted “The Associate Administrator shall be chosen on the basis of demonstrated knowledge and expertise in acquisition, human capital, and management.” after “Programs.” in introductory provisions.
+    [Pub. L. 112–81][/us/pl/112/81], § 864(a)(1), inserted “The Associate Administrator shall be chosen on the basis of demonstrated knowledge and expertise in acquisition, human capital, and management.” after “Programs.” in introductory provisions.
 
-    Subsec. (b)(5), (6). [Pub. L. 112–81, § 864(a)(3)][/us/pl/112/81/s864/a/3]–(5), added par. (5) and redesignated former par. (5) as (6).
+    Subsec. (b)(5), (6). [Pub. L. 112–81][/us/pl/112/81], § 864(a)(3)–(5), added par. (5) and redesignated former par. (5) as (6).
 
  __Effective Date of 2013 Amendment__ 
 
-    [Pub. L. 112–239, div. A, title X, § 1076(a)][/us/pl/112/239/s1076/a], Jan. 2, 2013, [126 Stat. 1947][/us/stat/126/1947], provided that the amendment made by section 1076(a)(14) is effective Dec. 31, 2011, and as if included in [Pub. L. 112–81][/us/pl/112/81] as enacted.
+    [Pub. L. 112–239, div. A, title X][/us/pl/112/239/dA/tX], § 1076(a), Jan. 2, 2013, [126 Stat. 1947][/us/stat/126/1947], provided that the amendment made by section 1076(a)(14) is effective Dec. 31, 2011, and as if included in [Pub. L. 112–81][/us/pl/112/81] as enacted.
 
  __Expansion of Training and Use of Information Technology Cadres__ 
 
-[Pub. L. 113–291, div. A, title VIII, § 835][/us/pl/113/291/s835], Dec. 19, 2014, [128 Stat. 3449][/us/stat/128/3449], provided that:
+[Pub. L. 113–291, div. A, title VIII][/us/pl/113/291/dA/tVIII], § 835, Dec. 19, 2014, [128 Stat. 3449][/us/stat/128/3449], provided that:
 
 >     “(a)  __Purpose__  __.—__ 
 
@@ -321,20 +321,20 @@ Pub. L. 110–417, [div. A], title VIII, § 869, Oct. 14, 2008, 122 Stat. 4553
 [/us/usc/t41/s1703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs1703
 [/us/usc/t41/s1703/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs1703%2Fg
 [/us/usc/t41/s1703/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs1703%2Fi
-[/us/pl/111/350/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350%2Fs3
+[/us/pl/111/350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350
 [/us/stat/124/3706]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3706
-[/us/pl/111/383/s1075/e/15]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2Fs1075%2Fe%2F15
+[/us/pl/111/383/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2FdA%2FtX
 [/us/stat/124/4375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F4375
-[/us/pl/112/81/s864/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs864%2Fa
+[/us/pl/112/81/dA/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2FdA%2FtVIII
 [/us/stat/125/1522]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1522
-[/us/pl/112/239/s1076/a/14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs1076%2Fa%2F14
+[/us/pl/112/239/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2FdA%2FtX
 [/us/stat/126/1948]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1948
 [/us/pl/110/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F417
 [/us/stat/122/4553]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4553
 [/us/pl/111/350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350
 [/us/stat/124/3677]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3677
 [/us/pl/110/417/s869]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F417%2Fs869
-[/us/pl/111/383/s1075/e/15]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2Fs1075%2Fe%2F15
+[/us/pl/111/383/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2FdA%2FtX
 [/us/stat/124/4375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F4375
 [/us/pl/111/350/s6/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350%2Fs6%2Fa
 [/us/usc/t41/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs101
@@ -342,16 +342,16 @@ Pub. L. 110–417, [div. A], title VIII, § 869, Oct. 14, 2008, 122 Stat. 4553
 [/us/stat/122/251]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F251
 [/us/usc/t41/s433/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs433%2Fa
 [/us/usc/t41/s1703/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs1703%2Fg
-[/us/pl/112/239/s1076/a/14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs1076%2Fa%2F14
-[/us/pl/112/81/s864/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs864%2Fa%2F2
-[/us/pl/112/81/s864/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs864%2Fa%2F2
-[/us/pl/112/239/s1076/a/14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs1076%2Fa%2F14
-[/us/pl/112/81/s864/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs864%2Fa%2F1
-[/us/pl/112/81/s864/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs864%2Fa%2F3
-[/us/pl/112/239/s1076/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs1076%2Fa
+[/us/pl/112/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239
+[/us/pl/112/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81
+[/us/pl/112/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81
+[/us/pl/112/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239
+[/us/pl/112/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81
+[/us/pl/112/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81
+[/us/pl/112/239/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2FdA%2FtX
 [/us/stat/126/1947]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1947
 [/us/pl/112/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81
-[/us/pl/113/291/s835]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs835
+[/us/pl/113/291/dA/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2FdA%2FtVIII
 [/us/stat/128/3449]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3449
 [/us/usc/t41/s1704/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs1704%2Fg
 [/us/pl/110/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F417

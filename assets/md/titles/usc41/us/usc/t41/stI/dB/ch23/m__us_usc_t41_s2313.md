@@ -131,11 +131,11 @@
 
     The Administrator of General Services shall prescribe regulations that may be necessary to carry out this section.
 
-([Pub. L. 111–350, § 3][/us/pl/111/350/s3], Jan. 4, 2011, [124 Stat. 3740][/us/stat/124/3740]; [Pub. L. 111–212, title III, § 3010][/us/pl/111/212/s3010], July 29, 2010, [124 Stat. 2340][/us/stat/124/2340]; [Pub. L. 111–383, div. A, title VIII, § 834(d)][/us/pl/111/383/s834/d], Jan. 7, 2011, [124 Stat. 4279][/us/stat/124/4279]; [Pub. L. 112–239, div. A, title VIII, § 852][/us/pl/112/239/s852], title XVII, § 1704(d)(2), Jan. 2, 2013, [126 Stat. 1856][/us/stat/126/1856], 2096; [Pub. L. 113–291, div. A, title XII, § 1270][/us/pl/113/291/s1270], Dec. 19, 2014, [128 Stat. 3587][/us/stat/128/3587].)
+([Pub. L. 111–350][/us/pl/111/350], § 3, Jan. 4, 2011, [124 Stat. 3740][/us/stat/124/3740]; [Pub. L. 111–212, title III][/us/pl/111/212/tIII], § 3010, July 29, 2010, [124 Stat. 2340][/us/stat/124/2340]; [Pub. L. 111–383, div. A, title VIII][/us/pl/111/383/dA/tVIII], § 834(d), Jan. 7, 2011, [124 Stat. 4279][/us/stat/124/4279]; [Pub. L. 112–239, div. A, title VIII][/us/pl/112/239/dA/tVIII], § 852, title XVII, § 1704(d)(2), Jan. 2, 2013, [126 Stat. 1856][/us/stat/126/1856], 2096; [Pub. L. 113–291, div. A, title XII][/us/pl/113/291/dA/tXII], § 1270, Dec. 19, 2014, [128 Stat. 3587][/us/stat/128/3587].)
 
  __Amendments Not Shown in Text__ 
 
-    This section was derived from section 417b of former Title 41, Public Contracts, which was amended by [Pub. L. 111–212, title III, § 3010][/us/pl/111/212/s3010], July 29, 2010, [124 Stat. 2340][/us/stat/124/2340], and [Pub. L. 111–383, div. A, title VIII, § 834(d)][/us/pl/111/383/s834/d], Jan. 7, 2011, [124 Stat. 4279][/us/stat/124/4279], prior to being repealed and reenacted as this section by [Pub. L. 111–350][/us/pl/111/350], §§ 3, 7(b), Jan. 4, 2011, [124 Stat. 3677][/us/stat/124/3677], 3855. For applicability of those amendments to this section, see [section 6(a) of Pub. L. 111–350][/us/pl/111/350/s6/a], set out as a Transitional and Savings Provisions note preceding [section 101 of this title][/us/usc/t41/s101]. Section 417b of former Title 41 was amended by adding at the end of subsec. (e)(1) the following: “In addition, the Administrator shall post all such information, excluding past performance reviews, on a publicly available Internet website.” and by adding at the end of subsec. (c)(1) the following new subparagraph:
+    This section was derived from section 417b of former Title 41, Public Contracts, which was amended by [Pub. L. 111–212, title III][/us/pl/111/212/tIII], § 3010, July 29, 2010, [124 Stat. 2340][/us/stat/124/2340], and [Pub. L. 111–383, div. A, title VIII][/us/pl/111/383/dA/tVIII], § 834(d), Jan. 7, 2011, [124 Stat. 4279][/us/stat/124/4279], prior to being repealed and reenacted as this section by [Pub. L. 111–350][/us/pl/111/350], §§ 3, 7(b), Jan. 4, 2011, [124 Stat. 3677][/us/stat/124/3677], 3855. For applicability of those amendments to this section, see [section 6(a) of Pub. L. 111–350][/us/pl/111/350/s6/a], set out as a Transitional and Savings Provisions note preceding [section 101 of this title][/us/usc/t41/s101]. Section 417b of former Title 41 was amended by adding at the end of subsec. (e)(1) the following: “In addition, the Administrator shall post all such information, excluding past performance reviews, on a publicly available Internet website.” and by adding at the end of subsec. (c)(1) the following new subparagraph:
 
     “(E) In an administrative proceeding, a final determination of contractor fault by the Secretary of Defense pursuant to section 823(d) of the National Defense Authorization Act for Fiscal Year 2010 ([10 U.S.C. 2302][/us/usc/t10/s2302] note).”
 
@@ -201,19 +201,19 @@ Pub. L. 110–417, [div. A], title VIII, § 872, Oct. 14, 2008, 122 Stat. 4555
 
     2014—Subsec. (c)(8). [Pub. L. 113–291][/us/pl/113/291] added par. (8).
 
-    2013—Subsec. (c)(1)(E). [Pub. L. 112–239, § 1704(d)(2)][/us/pl/112/239/s1704/d/2], amended subpar. (E) generally. Prior to amendment, subpar. (E), as added by [Pub. L. 111–383, § 834(d)][/us/pl/111/383/s834/d], read as follows: “(E) In an administrative proceeding, a final determination of contractor fault by the Secretary of Defense pursuant to section 823(d) of the National Defense Authorization Act for Fiscal Year 2010 ([10 U.S.C. 2302][/us/usc/t10/s2302] note).” See Amendments Not Shown in Text note above.
+    2013—Subsec. (c)(1)(E). [Pub. L. 112–239][/us/pl/112/239], § 1704(d)(2), amended subpar. (E) generally. Prior to amendment, subpar. (E), as added by [Pub. L. 111–383][/us/pl/111/383], § 834(d), read as follows: “(E) In an administrative proceeding, a final determination of contractor fault by the Secretary of Defense pursuant to section 823(d) of the National Defense Authorization Act for Fiscal Year 2010 ([10 U.S.C. 2302][/us/usc/t10/s2302] note).” See Amendments Not Shown in Text note above.
 
-    Subsec. (d)(3). [Pub. L. 112–239, § 852][/us/pl/112/239/s852], added par. (3).
+    Subsec. (d)(3). [Pub. L. 112–239][/us/pl/112/239], § 852, added par. (3).
 
  __Deadline for Establishing Database__ 
 
-[Pub. L. 111–350, § 6(f)(3)][/us/pl/111/350/s6/f/3], Jan. 4, 2011, [124 Stat. 3855][/us/stat/124/3855], provided that: 
+[Pub. L. 111–350][/us/pl/111/350], § 6(f)(3), Jan. 4, 2011, [124 Stat. 3855][/us/stat/124/3855], provided that: 
 
 > “The requirement in [section 2313(a) of title 41][/us/usc/t41/s2313/a], United States Code, to establish a database shall be done not later than one year after October 14, 2008.”
 
  __Deadline for Amending Federal Acquisition Regulation__ 
 
-[Pub. L. 111–350, § 6(f)(4)][/us/pl/111/350/s6/f/4], Jan. 4, 2011, [124 Stat. 3855][/us/stat/124/3855], provided that: 
+[Pub. L. 111–350][/us/pl/111/350], § 6(f)(4), Jan. 4, 2011, [124 Stat. 3855][/us/stat/124/3855], provided that: 
 
 > “The Federal Acquisition Regulation shall be amended to meet the requirements of sections 2313(f), 3302(b) and (d), 4710(b), and 4711(b) of title 41, United States Code, not later than one year after October 14, 2008.”
 
@@ -231,19 +231,19 @@ Pub. L. 110–417, [div. A], title VIII, § 872, Oct. 14, 2008, 122 Stat. 4555
 [/us/pl/104/172]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F172
 [/us/usc/t50/s1701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs1701
 [/us/usc/t41/s134]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs134
-[/us/pl/111/350/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350%2Fs3
+[/us/pl/111/350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350
 [/us/stat/124/3740]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3740
-[/us/pl/111/212/s3010]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F212%2Fs3010
+[/us/pl/111/212/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F212%2FtIII
 [/us/stat/124/2340]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2340
-[/us/pl/111/383/s834/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2Fs834%2Fd
+[/us/pl/111/383/dA/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2FdA%2FtVIII
 [/us/stat/124/4279]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F4279
-[/us/pl/112/239/s852]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs852
+[/us/pl/112/239/dA/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2FdA%2FtVIII
 [/us/stat/126/1856]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1856
-[/us/pl/113/291/s1270]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs1270
+[/us/pl/113/291/dA/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2FdA%2FtXII
 [/us/stat/128/3587]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3587
-[/us/pl/111/212/s3010]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F212%2Fs3010
+[/us/pl/111/212/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F212%2FtIII
 [/us/stat/124/2340]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2340
-[/us/pl/111/383/s834/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2Fs834%2Fd
+[/us/pl/111/383/dA/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2FdA%2FtVIII
 [/us/stat/124/4279]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F4279
 [/us/pl/111/350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350
 [/us/stat/124/3677]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3677
@@ -253,14 +253,14 @@ Pub. L. 110–417, [div. A], title VIII, § 872, Oct. 14, 2008, 122 Stat. 4555
 [/us/pl/112/239/s1704/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs1704%2Fb
 [/us/usc/t22/s7104b/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs7104b%2Fb
 [/us/pl/113/291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291
-[/us/pl/112/239/s1704/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs1704%2Fd%2F2
-[/us/pl/111/383/s834/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2Fs834%2Fd
+[/us/pl/112/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239
+[/us/pl/111/383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383
 [/us/usc/t10/s2302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2302
-[/us/pl/112/239/s852]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs852
-[/us/pl/111/350/s6/f/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350%2Fs6%2Ff%2F3
+[/us/pl/112/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239
+[/us/pl/111/350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350
 [/us/stat/124/3855]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3855
 [/us/usc/t41/s2313/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs2313%2Fa
-[/us/pl/111/350/s6/f/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350%2Fs6%2Ff%2F4
+[/us/pl/111/350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350
 [/us/stat/124/3855]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3855
 
 

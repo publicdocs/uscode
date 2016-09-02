@@ -113,7 +113,7 @@
 
     Except in an emergency as determined by the head of the agency, after the head of the agency determines not to enforce a qualification requirement for a solicitation, the agency may not enforce the requirement unless the agency complies with the requirements of subsection (b).
 
-([Pub. L. 111–350, § 3][/us/pl/111/350/s3], Jan. 4, 2011, [124 Stat. 3761][/us/stat/124/3761].)
+([Pub. L. 111–350][/us/pl/111/350], § 3, Jan. 4, 2011, [124 Stat. 3761][/us/stat/124/3761].)
 
 <table>
 
@@ -172,7 +172,7 @@ June 30, 1949, ch. 288, title III, § 303C, formerly § 303D, as added Pub. 
 
 [/us/usc/t15/s637/b/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs637%2Fb%2F7
 [/us/usc/t15/s632]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs632
-[/us/pl/111/350/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350%2Fs3
+[/us/pl/111/350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350
 [/us/stat/124/3761]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3761
 
 

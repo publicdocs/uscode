@@ -65,7 +65,7 @@
 
             (B) the Federal Government proves that, had the cost or pricing data referred to in paragraph (1)(B) been submitted to the Federal Government before date of agreement on the price of the contract (or price of the modification), or, if applicable, under subsection (a)(2), another date agreed on by the parties, the submission of the cost or pricing data would not have resulted in an increase in that price in the amount to be offset.
 
-([Pub. L. 111–350, § 3][/us/pl/111/350/s3], Jan. 4, 2011, [124 Stat. 3768][/us/stat/124/3768].)
+([Pub. L. 111–350][/us/pl/111/350], § 3, Jan. 4, 2011, [124 Stat. 3768][/us/stat/124/3768].)
 
 <table>
 
@@ -124,7 +124,7 @@ June 30, 1949, ch. 288, title III, § 304A(e), as added Pub. L. 103–355, tit
 [/us/usc/t41/s3502/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs3502%2Fb
 [/us/usc/t41/s3502/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs3502%2Fc
 [/us/usc/t41/s3502/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs3502%2Fb
-[/us/pl/111/350/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350%2Fs3
+[/us/pl/111/350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350
 [/us/stat/124/3768]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3768
 
 

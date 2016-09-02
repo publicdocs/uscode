@@ -17,7 +17,7 @@
 
     Effective on October 1 of each year that is divisible by 5, the amount set forth in [section 4301(2) of this title][/us/usc/t41/s4301/2] shall be adjusted to the equivalent amount in constant fiscal year 1994 dollars. An adjusted amount that is not evenly divisible by $50,000 shall be rounded to the nearest multiple of $50,000. If an amount is evenly divisible by $25,000 but is not evenly divisible by $50,000, the amount shall be rounded to the next higher multiple of $50,000.
 
-([Pub. L. 111–350, § 3][/us/pl/111/350/s3], Jan. 4, 2011, [124 Stat. 3784][/us/stat/124/3784].)
+([Pub. L. 111–350][/us/pl/111/350], § 3, Jan. 4, 2011, [124 Stat. 3784][/us/stat/124/3784].)
 
 <table>
 
@@ -73,7 +73,7 @@ June 30, 1949, ch. 288, title III, § 306(l)(2), as added Pub. L. 100–700, �
 ----------
 
 [/us/usc/t41/s4301/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs4301%2F2
-[/us/pl/111/350/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350%2Fs3
+[/us/pl/111/350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350
 [/us/stat/124/3784]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3784
 
 

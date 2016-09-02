@@ -105,7 +105,7 @@
 
             (B) the costs of the other proceeding are not allowable under subsection (b).
 
-([Pub. L. 111–350, § 3][/us/pl/111/350/s3], Jan. 4, 2011, [124 Stat. 3789][/us/stat/124/3789]; [Pub. L. 112–239, div. A, title VIII, § 828(d)][/us/pl/112/239/s828/d], Jan. 2, 2013, [126 Stat. 1841][/us/stat/126/1841].)
+([Pub. L. 111–350][/us/pl/111/350], § 3, Jan. 4, 2011, [124 Stat. 3789][/us/stat/124/3789]; [Pub. L. 112–239, div. A, title VIII][/us/pl/112/239/dA/tVIII], § 828(d), Jan. 2, 2013, [126 Stat. 1841][/us/stat/126/1841].)
 
 <table>
 
@@ -225,9 +225,9 @@ June 30, 1949, ch. 288, title III, § 306(k), as added Pub. L. 100–700, §�
 
  __Amendments__ 
 
-    2013—Subsec. (b). [Pub. L. 112–239, § 828(d)(1)][/us/pl/112/239/s828/d/1], substituted “commenced by the Federal Government, by a State, or by a contractor or grantee employee submitting a complaint under [section 4712 of this title][/us/usc/t41/s4712]” for “commenced by the Federal Government or a State”.
+    2013—Subsec. (b). [Pub. L. 112–239][/us/pl/112/239], § 828(d)(1), substituted “commenced by the Federal Government, by a State, or by a contractor or grantee employee submitting a complaint under [section 4712 of this title][/us/usc/t41/s4712]” for “commenced by the Federal Government or a State”.
 
-    Subsec. (c)(3). [Pub. L. 112–239, § 828(d)(2)][/us/pl/112/239/s828/d/2], substituted “the imposition of a monetary penalty or an order to take corrective action under [section 4712 of this title][/us/usc/t41/s4712]” for “the imposition of a monetary penalty”.
+    Subsec. (c)(3). [Pub. L. 112–239][/us/pl/112/239], § 828(d)(2), substituted “the imposition of a monetary penalty or an order to take corrective action under [section 4712 of this title][/us/usc/t41/s4712]” for “the imposition of a monetary penalty”.
 
 ----------
 
@@ -238,13 +238,13 @@ June 30, 1949, ch. 288, title III, § 306(k), as added Pub. L. 100–700, §�
 
 [/us/usc/t41/s4712]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs4712
 [/us/usc/t41/s4712]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs4712
-[/us/pl/111/350/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350%2Fs3
+[/us/pl/111/350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350
 [/us/stat/124/3789]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3789
-[/us/pl/112/239/s828/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs828%2Fd
+[/us/pl/112/239/dA/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2FdA%2FtVIII
 [/us/stat/126/1841]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1841
-[/us/pl/112/239/s828/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs828%2Fd%2F1
+[/us/pl/112/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239
 [/us/usc/t41/s4712]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs4712
-[/us/pl/112/239/s828/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs828%2Fd%2F2
+[/us/pl/112/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239
 [/us/usc/t41/s4712]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs4712
 
 

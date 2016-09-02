@@ -23,7 +23,7 @@
 
     Subsection (a) does not prohibit an executive agency from including in a contract a clause that requires the contractor to permit inspections to ensure that the contractor is performing the contract in accordance with the provisions of the contract.
 
-([Pub. L. 111–350, § 3][/us/pl/111/350/s3], Jan. 4, 2011, [124 Stat. 3738][/us/stat/124/3738].)
+([Pub. L. 111–350][/us/pl/111/350], § 3, Jan. 4, 2011, [124 Stat. 3738][/us/stat/124/3738].)
 
 <table>
 
@@ -75,7 +75,7 @@ Pub. L. 93–400, § 40, formerly § 39, as added Pub. L. 105–277, title I
 
  __References in Text__ 
 
-    The Chemical Weapons Convention Implementation Act of 1998, referred to in subsec. (a), is [Pub. L. 105–277, div. I][/us/pl/105/277], Oct. 21, 1998, [112 Stat. 2681–856][/us/stat/112/2681-856], which is classified principally to chapter 75 (§ 6701 et seq.) of Title 22, Foreign Relations and Intercourse. For complete classification of this Act to the Code, see Short Title note set out under [section 6701 of Title 22][/us/usc/t22/s6701] and Tables.
+    The Chemical Weapons Convention Implementation Act of 1998, referred to in subsec. (a), is [Pub. L. 105–277, div. I][/us/pl/105/277/dI], Oct. 21, 1998, [112 Stat. 2681–856][/us/stat/112/2681-856], which is classified principally to chapter 75 (§ 6701 et seq.) of Title 22, Foreign Relations and Intercourse. For complete classification of this Act to the Code, see Short Title note set out under [section 6701 of Title 22][/us/usc/t22/s6701] and Tables.
 
 ----------
 
@@ -86,9 +86,9 @@ Pub. L. 93–400, § 40, formerly § 39, as added Pub. L. 105–277, title I
 
 [/us/usc/t22/s6701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs6701
 [/us/usc/t22/s6701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs6701
-[/us/pl/111/350/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350%2Fs3
+[/us/pl/111/350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350
 [/us/stat/124/3738]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3738
-[/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
+[/us/pl/105/277/dI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2FdI
 [/us/stat/112/2681-856]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681-856
 [/us/usc/t22/s6701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs6701
 

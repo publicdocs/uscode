@@ -17,7 +17,7 @@
 
     A cost-type research and development contract (including a grant) with a university, college, or other educational institution may provide for payment of reimbursable indirect costs on the basis of predetermined fixed-percentage rates applied to the total of the reimbursable direct costs incurred or to an element of the total of the reimbursable direct costs incurred.
 
-([Pub. L. 111–350, § 3][/us/pl/111/350/s3], Jan. 4, 2011, [124 Stat. 3799][/us/stat/124/3799].)
+([Pub. L. 111–350][/us/pl/111/350], § 3, Jan. 4, 2011, [124 Stat. 3799][/us/stat/124/3799].)
 
 <table>
 
@@ -74,7 +74,7 @@ Pub. L. 87–638, Sept. 5, 1962, 76 Stat. 437.  </td>
 ----------
 ----------
 
-[/us/pl/111/350/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350%2Fs3
+[/us/pl/111/350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350
 [/us/stat/124/3799]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3799
 
 

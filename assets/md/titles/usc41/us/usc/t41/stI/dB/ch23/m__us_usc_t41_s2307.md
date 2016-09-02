@@ -17,7 +17,7 @@
 
     The Administrator and personnel in the Office of Federal Procurement Policy shall furnish information the Comptroller General may require to discharge the responsibilities of the Comptroller General. For this purpose, the Comptroller General or representatives of the Comptroller General shall have access to all books, documents, papers, and records of the Office of Federal Procurement Policy.
 
-([Pub. L. 111–350, § 3][/us/pl/111/350/s3], Jan. 4, 2011, [124 Stat. 3737][/us/stat/124/3737].)
+([Pub. L. 111–350][/us/pl/111/350], § 3, Jan. 4, 2011, [124 Stat. 3737][/us/stat/124/3737].)
 
 <table>
 
@@ -76,7 +76,7 @@ Pub. L. 93–400, § 14(a), Aug. 30, 1974, 88 Stat. 800.  </td>
 ----------
 ----------
 
-[/us/pl/111/350/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350%2Fs3
+[/us/pl/111/350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350
 [/us/stat/124/3737]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3737
 
 

@@ -33,7 +33,7 @@
 
     (5) a competitive selection of research proposals resulting from a general solicitation and peer review or scientific review (as appropriate) solicited pursuant to section 9 of that Act ([15 U.S.C. 638][/us/usc/t15/s638]).
 
-([Pub. L. 111–350, § 3][/us/pl/111/350/s3], Jan. 4, 2011, [124 Stat. 3683][/us/stat/124/3683].)
+([Pub. L. 111–350][/us/pl/111/350], § 3, Jan. 4, 2011, [124 Stat. 3683][/us/stat/124/3683].)
 
 <table>
 
@@ -90,7 +90,7 @@ June 30, 1949, ch. 288, § 309(b), as added Pub. L. 98–369, title VII, § 
 
 [/us/usc/t15/s644]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs644
 [/us/usc/t15/s638]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs638
-[/us/pl/111/350/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350%2Fs3
+[/us/pl/111/350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350
 [/us/stat/124/3683]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3683
 
 

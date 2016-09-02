@@ -123,7 +123,7 @@
 
  __Amendments__ 
 
-    2013—[Pub. L. 112–239, div. A, title VIII, § 851(a)(2)][/us/pl/112/239/s851/a/2], Jan. 2, 2013, [126 Stat. 1855][/us/stat/126/1855], added item 3312.
+    2013—[Pub. L. 112–239, div. A, title VIII][/us/pl/112/239/dA/tVIII], § 851(a)(2), Jan. 2, 2013, [126 Stat. 1855][/us/stat/126/1855], added item 3312.
 
 ----------
 
@@ -132,7 +132,7 @@
 ----------
 ----------
 
-[/us/pl/112/239/s851/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs851%2Fa%2F2
+[/us/pl/112/239/dA/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2FdA%2FtVIII
 [/us/stat/126/1855]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1855
 
 

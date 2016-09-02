@@ -45,7 +45,7 @@
 
     It is the intent of Congress that determinations of minimum wages and fringe benefits under section 6703(1) and (2) of this title should be made as soon as administratively feasible for all contracts subject to this chapter. In any event, the Secretary shall at least make the determinations for contracts under which more than 5 service employees are to be employed.
 
-([Pub. L. 111–350, § 3][/us/pl/111/350/s3], Jan. 4, 2011, [124 Stat. 3815][/us/stat/124/3815].)
+([Pub. L. 111–350][/us/pl/111/350], § 3, Jan. 4, 2011, [124 Stat. 3815][/us/stat/124/3815].)
 
 <table>
 
@@ -138,7 +138,7 @@ In subsection (e), the words “the definition of ‘regular rate’ under secti
 
 [/us/usc/t41/s6703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs6703
 [/us/usc/t29/s207/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs207%2Fe
-[/us/pl/111/350/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350%2Fs3
+[/us/pl/111/350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350
 [/us/stat/124/3815]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3815
 [/us/usc/t29/s207/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs207%2Fe
 [/us/pl/89/601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F601

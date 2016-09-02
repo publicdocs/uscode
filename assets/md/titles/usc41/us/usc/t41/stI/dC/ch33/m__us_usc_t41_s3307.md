@@ -189,7 +189,7 @@
 
             (C) set forth guidance regarding the use of past performance of commercial items and sources as a factor in contract award decisions.
 
-([Pub. L. 111–350, § 3][/us/pl/111/350/s3], Jan. 4, 2011, [124 Stat. 3754][/us/stat/124/3754].)
+([Pub. L. 111–350][/us/pl/111/350], § 3, Jan. 4, 2011, [124 Stat. 3754][/us/stat/124/3754].)
 
 <table>
 
@@ -310,7 +310,7 @@ Pub. L. 103–355, title VIII, § 8002, Oct. 13, 1994, 108 Stat. 3386; Pub. L.
 
 [/us/usc/t41/s1906]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs1906
 [/us/usc/t41/s103/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs103%2F5
-[/us/pl/111/350/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350%2Fs3
+[/us/pl/111/350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350
 [/us/stat/124/3754]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3754
 [/us/usc/t41/s264/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs264%2Fa
 [/us/pl/103/355]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F355

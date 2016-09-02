@@ -81,7 +81,7 @@
 
     The term “State” includes the District of Columbia, Puerto Rico, the Virgin Islands, Guam, American Samoa, and the Northern Mariana Islands.
 
-([Pub. L. 111–350, § 3][/us/pl/111/350/s3], Jan. 4, 2011, [124 Stat. 3833][/us/stat/124/3833].)
+([Pub. L. 111–350][/us/pl/111/350], § 3, Jan. 4, 2011, [124 Stat. 3833][/us/stat/124/3833].)
 
 <table>
 
@@ -251,7 +251,7 @@ June 25, 1938, ch. 697, § 1(a) (words in parentheses before par. (1)), 52 Sta
 
  __Contracting With Employers of Persons With Disabilities__ 
 
-[Pub. L. 109–364, div. A, title VIII, § 856(a)][/us/pl/109/364/s856/a], (d), Oct. 17, 2006, [120 Stat. 2347][/us/stat/120/2347], 2349, provided that:
+[Pub. L. 109–364, div. A, title VIII][/us/pl/109/364/dA/tVIII], § 856(a), (d), Oct. 17, 2006, [120 Stat. 2347][/us/stat/120/2347], 2349, provided that:
 
 >     “(a) __Inapplicability of Certain Laws.—__ 
 
@@ -279,7 +279,7 @@ June 25, 1938, ch. 697, § 1(a) (words in parentheses before par. (1)), 52 Sta
 
  __Statement of Policy and Report Concerning the Operation and Management of Certain Military Facilities Regarding the Blind or Severely Disabled__ 
 
-[Pub. L. 109–163, div. A, title VIII, § 848(b)][/us/pl/109/163/s848/b], (c), Jan. 6, 2006, [119 Stat. 3395][/us/stat/119/3395], provided that:
+[Pub. L. 109–163, div. A, title VIII][/us/pl/109/163/dA/tVIII], § 848(b), (c), Jan. 6, 2006, [119 Stat. 3395][/us/stat/119/3395], provided that:
 
 >     “(b)  __Statement of Policy__  __.—__ 
 
@@ -297,10 +297,10 @@ June 25, 1938, ch. 697, § 1(a) (words in parentheses before par. (1)), 52 Sta
 ----------
 
 [/us/usc/t41/s8502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs8502
-[/us/pl/111/350/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350%2Fs3
+[/us/pl/111/350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350
 [/us/stat/124/3833]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3833
 [/us/usc/t48/s1801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft48%2Fs1801
-[/us/pl/109/364/s856/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2Fs856%2Fa
+[/us/pl/109/364/dA/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2FdA%2FtVIII
 [/us/stat/120/2347]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2347
 [/us/usc/t20/s107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs107
 [/us/usc/t41/s47]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs47
@@ -312,7 +312,7 @@ June 25, 1938, ch. 697, § 1(a) (words in parentheses before par. (1)), 52 Sta
 [/us/pl/108/375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375
 [/us/stat/118/2021]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F2021
 [/us/usc/t20/s107a/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs107a%2Fa%2F5
-[/us/pl/109/163/s848/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs848%2Fb
+[/us/pl/109/163/dA/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2FdA%2FtVIII
 [/us/stat/119/3395]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F3395
 [/us/usc/t20/s107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs107
 [/us/usc/t41/s48]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs48

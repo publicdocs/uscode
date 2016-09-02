@@ -37,7 +37,7 @@
 
         (7) Work with the Administrator and the Federal Acquisition Regulatory Council to promote the business practices referred to in paragraph (4) and other results of the functions carried out under this subsection.
 
-([Pub. L. 111–350, § 3][/us/pl/111/350/s3], Jan. 4, 2011, [124 Stat. 3694][/us/stat/124/3694].)
+([Pub. L. 111–350][/us/pl/111/350], § 3, Jan. 4, 2011, [124 Stat. 3694][/us/stat/124/3694].)
 
 <table>
 
@@ -106,7 +106,7 @@ Pub. L. 93–400, § 16A(d), (e), as added Pub. L. 108–136, title XIV, § 
 ----------
 ----------
 
-[/us/pl/111/350/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350%2Fs3
+[/us/pl/111/350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350
 [/us/stat/124/3694]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3694
 
 

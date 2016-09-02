@@ -71,7 +71,7 @@
 
             (B) is liable for payment to the party asserting the restriction for fees and other expenses (as defined in [section 2412(d)(2)(A) of title 28][/us/usc/t28/s2412/d/2/A]) incurred by the party asserting the restriction in defending the asserted restriction if the challenge by the Federal Government is found not to be made in good faith.
 
-([Pub. L. 111–350, § 3][/us/pl/111/350/s3], Jan. 4, 2011, [124 Stat. 3794][/us/stat/124/3794].)
+([Pub. L. 111–350][/us/pl/111/350], § 3, Jan. 4, 2011, [124 Stat. 3794][/us/stat/124/3794].)
 
 <table>
 
@@ -212,7 +212,7 @@ June 30, 1949, ch. 288, title III, § 303D, formerly § 303E, as added Pub. 
 
 [/us/usc/t28/s2412/d/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs2412%2Fd%2F2%2FA
 [/us/usc/t28/s2412/d/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs2412%2Fd%2F2%2FA
-[/us/pl/111/350/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350%2Fs3
+[/us/pl/111/350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350
 [/us/stat/124/3794]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3794
 
 

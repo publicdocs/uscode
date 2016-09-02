@@ -57,7 +57,7 @@
 
         (2) transmit in a timely manner such information to the General Services Administration for entry into the Federal Procurement Data System referred to in [section 1122(a)(4) of this title][/us/usc/t41/s1122/a/4], or any successor system.
 
-([Pub. L. 111–350, § 3][/us/pl/111/350/s3], Jan. 4, 2011, [124 Stat. 3718][/us/stat/124/3718].)
+([Pub. L. 111–350][/us/pl/111/350], § 3, Jan. 4, 2011, [124 Stat. 3718][/us/stat/124/3718].)
 
 <table>
 
@@ -115,7 +115,7 @@ Pub. L. 93–400, § 19, as added Pub. L. 98–369, title VII, § 2732(a), J
 [/us/usc/t41/s3304/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs3304%2Fa
 [/us/usc/t10/s2304/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2304%2Fc
 [/us/usc/t41/s1122/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs1122%2Fa%2F4
-[/us/pl/111/350/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350%2Fs3
+[/us/pl/111/350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350
 [/us/stat/124/3718]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3718
 
 

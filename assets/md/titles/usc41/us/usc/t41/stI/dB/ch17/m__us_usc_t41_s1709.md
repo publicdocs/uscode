@@ -37,7 +37,7 @@
 
     This section does not affect the relationship between the Federal Government and a Federally funded research and development center.
 
-([Pub. L. 111–350, § 3][/us/pl/111/350/s3], Jan. 4, 2011, [124 Stat. 3714][/us/stat/124/3714].)
+([Pub. L. 111–350][/us/pl/111/350], § 3, Jan. 4, 2011, [124 Stat. 3714][/us/stat/124/3714].)
 
 <table>
 
@@ -121,7 +121,7 @@ Pub. L. 93–400, § 23, as added Pub. L. 103–355, title VI, § 6002(a), O
 
  __Requirement for Guidance and Regulations__ 
 
-[Pub. L. 103–355, title VI, § 6002(b)][/us/pl/103/355/s6002/b], Oct. 13, 1994, [108 Stat. 3363][/us/stat/108/3363], provided that: 
+[Pub. L. 103–355, title VI][/us/pl/103/355/tVI], § 6002(b), Oct. 13, 1994, [108 Stat. 3363][/us/stat/108/3363], provided that: 
 
 > “The Federal Acquisition Regulatory Council established by section 25(a) of the Office of Federal Procurement Policy Act (\[former\] [41 U.S.C. 421(a)][/us/usc/t41/s421/a]) \[now [41 U.S.C. 1302(a)][/us/usc/t41/s1302/a]\] shall—
 
@@ -143,9 +143,9 @@ Pub. L. 93–400, § 23, as added Pub. L. 103–355, title VI, § 6002(a), O
 ----------
 
 [/us/usc/t5/s2105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs2105
-[/us/pl/111/350/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350%2Fs3
+[/us/pl/111/350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350
 [/us/stat/124/3714]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3714
-[/us/pl/103/355/s6002/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F355%2Fs6002%2Fb
+[/us/pl/103/355/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F355%2FtVI
 [/us/stat/108/3363]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3363
 [/us/usc/t41/s421/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs421%2Fa
 [/us/usc/t41/s1302/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs1302%2Fa

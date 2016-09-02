@@ -45,7 +45,7 @@
 
             (B) if the contracting officer determines that the information described in subparagraph (A) is not sufficient to determine the reasonableness of price, other relevant information regarding the basis for price or cost, including information on labor costs, material costs, and overhead rates.
 
-([Pub. L. 111–350, § 3][/us/pl/111/350/s3], Jan. 4, 2011, [124 Stat. 3764][/us/stat/124/3764].)
+([Pub. L. 111–350][/us/pl/111/350], § 3, Jan. 4, 2011, [124 Stat. 3764][/us/stat/124/3764].)
 
 <table>
 
@@ -109,7 +109,7 @@ Pub. L. 110–417, [div. A], title VIII, § 868, Oct. 14, 2008, 122 Stat. 4552
 
 </table>
 
-    Subsection (a) of [Pub. L. 110–417, § 868][/us/pl/110/417/s868] is omitted as unnecessary.
+    Subsection (a) of [Pub. L. 110–417][/us/pl/110/417], § 868 is omitted as unnecessary.
 
     In subsection (b)(1), the words “The Federal Acquisition Regulation” are substituted for “The regulations modified pursuant to subsection (a)” for clarity and conformity with the revised title.
 
@@ -122,8 +122,8 @@ Pub. L. 110–417, [div. A], title VIII, § 868, Oct. 14, 2008, 122 Stat. 4552
 
 [/us/usc/t41/s103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs103
 [/us/usc/t41/s3506/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs3506%2Fa%2F2
-[/us/pl/111/350/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350%2Fs3
+[/us/pl/111/350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350
 [/us/stat/124/3764]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3764
-[/us/pl/110/417/s868]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F417%2Fs868
+[/us/pl/110/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F417
 
 

@@ -35,7 +35,7 @@
 
     The executive agency shall award the contract by transmitting, in writing or by electronic means, notice of the award to that source and, within 3 days after the date of contract award, shall notify, in writing or by electronic means, all other offerors of the rejection of their proposals.
 
-([Pub. L. 111–350, § 3][/us/pl/111/350/s3], Jan. 4, 2011, [124 Stat. 3771][/us/stat/124/3771].)
+([Pub. L. 111–350][/us/pl/111/350], § 3, Jan. 4, 2011, [124 Stat. 3771][/us/stat/124/3771].)
 
 <table>
 
@@ -135,7 +135,7 @@ June 30, 1949, ch. 288, title III, § 303B(d), as added Pub. L. 98–369, titl
 [/us/usc/t41/s3701/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs3701%2Fa
 [/us/usc/t41/s3306/b/2/B/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs3306%2Fb%2F2%2FB%2Fi
 [/us/usc/t41/s3701/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs3701%2Fb
-[/us/pl/111/350/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350%2Fs3
+[/us/pl/111/350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350
 [/us/stat/124/3771]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3771
 
 

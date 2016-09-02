@@ -17,7 +17,7 @@
 
     In this subtitle, the term “procurement system” means the integration of the procurement process, the professional development of procurement personnel, and the management structure for carrying out the procurement function.
 
-([Pub. L. 111–350, § 3][/us/pl/111/350/s3], Jan. 4, 2011, [124 Stat. 3681][/us/stat/124/3681].)
+([Pub. L. 111–350][/us/pl/111/350], § 3, Jan. 4, 2011, [124 Stat. 3681][/us/stat/124/3681].)
 
 <table>
 
@@ -88,7 +88,7 @@ Pub. L. 93–400, § 4(3), Aug. 30, 1974, 88 Stat. 797; Pub. L. 96–83, § 
 ----------
 ----------
 
-[/us/pl/111/350/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350%2Fs3
+[/us/pl/111/350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350
 [/us/stat/124/3681]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3681
 
 

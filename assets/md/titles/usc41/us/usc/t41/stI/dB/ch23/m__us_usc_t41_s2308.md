@@ -43,7 +43,7 @@
 
         (3) the information technology provided for in a contract for acquisition of information technology should be delivered within 18 months after the solicitation resulting in award of the contract was issued.
 
-([Pub. L. 111–350, § 3][/us/pl/111/350/s3], Jan. 4, 2011, [124 Stat. 3737][/us/stat/124/3737].)
+([Pub. L. 111–350][/us/pl/111/350], § 3, Jan. 4, 2011, [124 Stat. 3737][/us/stat/124/3737].)
 
 <table>
 
@@ -98,7 +98,7 @@ Pub. L. 93–400, § 38, formerly § 35, as added Pub. L. 104–106, title L
 ----------
 ----------
 
-[/us/pl/111/350/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350%2Fs3
+[/us/pl/111/350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350
 [/us/stat/124/3737]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3737
 
 

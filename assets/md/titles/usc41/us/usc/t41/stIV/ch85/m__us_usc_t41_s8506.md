@@ -17,7 +17,7 @@
 
     Necessary amounts may be appropriated to the Committee to carry out this chapter.
 
-([Pub. L. 111–350, § 3][/us/pl/111/350/s3], Jan. 4, 2011, [124 Stat. 3838][/us/stat/124/3838].)
+([Pub. L. 111–350][/us/pl/111/350], § 3, Jan. 4, 2011, [124 Stat. 3838][/us/stat/124/3838].)
 
 <table>
 
@@ -74,7 +74,7 @@ June 25, 1938, ch. 697, § 6, 52 Stat. 1196; Pub. L. 92–28, § 1, June 23,
 ----------
 ----------
 
-[/us/pl/111/350/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350%2Fs3
+[/us/pl/111/350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350
 [/us/stat/124/3838]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3838
 
 

@@ -37,7 +37,7 @@
 
     The contract and bid specification shall contain a statement of the rates that would be paid by the Federal agency to each class of service employee if section 5332 or 5341 of title 5 were applicable to them. The Secretary shall give due consideration to these rates in making the wage and fringe benefit determinations specified in this section.
 
-([Pub. L. 111–350, § 3][/us/pl/111/350/s3], Jan. 4, 2011, [124 Stat. 3812][/us/stat/124/3812].)
+([Pub. L. 111–350][/us/pl/111/350], § 3, Jan. 4, 2011, [124 Stat. 3812][/us/stat/124/3812].)
 
 <table>
 
@@ -162,7 +162,7 @@ Sec. 5. Contract Clause. The following contract clause shall be included in soli
 
 [/us/usc/t41/s6702]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs6702
 [/us/usc/t41/s6704]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs6704
-[/us/pl/111/350/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350%2Fs3
+[/us/pl/111/350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350
 [/us/stat/124/3812]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3812
 [/us/usc/t40/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft40%2Fs101
 [/us/usc/t41/s351]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs351

@@ -17,7 +17,7 @@
 
     A contract to erect, repair, or furnish a public building, or to make any public improvement, shall not be made on terms requiring the Federal Government to pay more than the amount specifically appropriated for the activity covered by the contract.
 
-([Pub. L. 111–350, § 3][/us/pl/111/350/s3], Jan. 4, 2011, [124 Stat. 3804][/us/stat/124/3804].)
+([Pub. L. 111–350][/us/pl/111/350], § 3, Jan. 4, 2011, [124 Stat. 3804][/us/stat/124/3804].)
 
 <table>
 
@@ -74,7 +74,7 @@ R.S. § 3733.  </td>
 ----------
 ----------
 
-[/us/pl/111/350/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350%2Fs3
+[/us/pl/111/350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350
 [/us/stat/124/3804]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3804
 
 

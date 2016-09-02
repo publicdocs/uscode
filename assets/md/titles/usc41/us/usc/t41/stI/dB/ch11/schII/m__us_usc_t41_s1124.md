@@ -47,7 +47,7 @@
 
         (4) the executive agencies involved in carrying out the proposed program.
 
-([Pub. L. 111–350, § 3][/us/pl/111/350/s3], Jan. 4, 2011, [124 Stat. 3688][/us/stat/124/3688].)
+([Pub. L. 111–350][/us/pl/111/350], § 3, Jan. 4, 2011, [124 Stat. 3688][/us/stat/124/3688].)
 
 <table>
 
@@ -132,7 +132,7 @@ Pub. L. 93–400, § 15, as added Pub. L. 98–191, § 7, Dec. 1, 1983, 97 S
 ----------
 ----------
 
-[/us/pl/111/350/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350%2Fs3
+[/us/pl/111/350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350
 [/us/stat/124/3688]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3688
 [/us/pl/104/14/s1/a/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F14%2Fs1%2Fa%2F6
 

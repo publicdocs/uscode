@@ -57,7 +57,7 @@
 
     The Department of Defense shall continue to be subject to guidance on award and incentive fees issued by the Secretary of Defense pursuant to section 814 of the John Warner National Defense Authorization Act for Fiscal Year 2007 ([Public Law 109–364][/us/pl/109/364], [10 U.S.C. 2302][/us/usc/t10/s2302] note).
 
-([Pub. L. 111–350, § 3][/us/pl/111/350/s3], Jan. 4, 2011, [124 Stat. 3800][/us/stat/124/3800].)
+([Pub. L. 111–350][/us/pl/111/350], § 3, Jan. 4, 2011, [124 Stat. 3800][/us/stat/124/3800].)
 
 <table>
 
@@ -117,7 +117,7 @@ Pub. L. 110–417, [div. A], title VIII, § 867, Oct. 14, 2008, 122 Stat. 4551
 [/us/usc/t41/s133]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs133
 [/us/pl/109/364]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364
 [/us/usc/t10/s2302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2302
-[/us/pl/111/350/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350%2Fs3
+[/us/pl/111/350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350
 [/us/stat/124/3800]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3800
 
 

@@ -71,7 +71,7 @@
 
     The advocate for competition for each procuring activity is responsible for promoting full and open competition, promoting the acquisition of commercial items, and challenging barriers to acquisition, including unnecessarily restrictive statements of need, unnecessarily detailed specifications, and unnecessarily burdensome contract clauses.
 
-([Pub. L. 111–350, § 3][/us/pl/111/350/s3], Jan. 4, 2011, [124 Stat. 3709][/us/stat/124/3709].)
+([Pub. L. 111–350][/us/pl/111/350], § 3, Jan. 4, 2011, [124 Stat. 3709][/us/stat/124/3709].)
 
 <table>
 
@@ -127,7 +127,7 @@ Pub. L. 93–400, § 20, as added Pub. L. 98–369, title VII, § 2732(a), J
 ----------
 
 [/us/usc/t41/s1702/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs1702%2Fc
-[/us/pl/111/350/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350%2Fs3
+[/us/pl/111/350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350
 [/us/stat/124/3709]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3709
 
 

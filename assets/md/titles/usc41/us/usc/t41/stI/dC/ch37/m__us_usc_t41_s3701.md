@@ -23,7 +23,7 @@
 
     All sealed bids or competitive proposals received in response to a solicitation may be rejected if the agency head determines that rejection is in the public interest.
 
-([Pub. L. 111–350, § 3][/us/pl/111/350/s3], Jan. 4, 2011, [124 Stat. 3770][/us/stat/124/3770].)
+([Pub. L. 111–350][/us/pl/111/350], § 3, Jan. 4, 2011, [124 Stat. 3770][/us/stat/124/3770].)
 
 <table>
 
@@ -87,7 +87,7 @@ June 30, 1949, ch. 288, title III, § 303B(a), (b), as added Pub. L. 98–369,
 
  __Congressional Statement of Purpose__ 
 
-[Pub. L. 98–577, title I, § 101][/us/pl/98/577/s101], Oct. 30, 1984, [98 Stat. 3066][/us/stat/98/3066], provided that: 
+[Pub. L. 98–577, title I][/us/pl/98/577/tI], § 101, Oct. 30, 1984, [98 Stat. 3066][/us/stat/98/3066], provided that: 
 
 > “The purposes of this Act \[see Tables for classification\] are to—
 
@@ -128,9 +128,9 @@ By the authority vested in me as President by the Constitution and the laws of t
 ----------
 ----------
 
-[/us/pl/111/350/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350%2Fs3
+[/us/pl/111/350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350
 [/us/stat/124/3770]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3770
-[/us/pl/98/577/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F577%2Fs101
+[/us/pl/98/577/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F577%2FtI
 [/us/stat/98/3066]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F3066
 
 

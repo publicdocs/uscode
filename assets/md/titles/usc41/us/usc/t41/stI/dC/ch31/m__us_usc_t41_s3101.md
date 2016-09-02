@@ -49,7 +49,7 @@
 
         Sections 6101, 6103, and 6304 of this title do not apply to the procurement of property or services made by an executive agency pursuant to this division. However, when this division is made inapplicable by any law, sections 6101 and 6103 of this title apply in the absence of authority conferred by statute to procure without advertising or without regard to [section 6101 of this title][/us/usc/t41/s6101]. A law that authorizes an executive agency (other than an executive agency exempted from this division by this subsection) to procure property or services without advertising or without regard to [section 6101 of this title][/us/usc/t41/s6101] is deemed to authorize the procurement pursuant to the provisions of this division relating to procedures other than sealed-bid procedures.
 
-([Pub. L. 111–350, § 3][/us/pl/111/350/s3], Jan. 4, 2011, [124 Stat. 3742][/us/stat/124/3742].)
+([Pub. L. 111–350][/us/pl/111/350], § 3, Jan. 4, 2011, [124 Stat. 3742][/us/stat/124/3742].)
 
 <table>
 
@@ -563,7 +563,7 @@ By the authority vested in me as President by the Constitution and the laws of t
 [/us/usc/t41/s1901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs1901
 [/us/usc/t41/s6101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs6101
 [/us/usc/t41/s6101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs6101
-[/us/pl/111/350/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350%2Fs3
+[/us/pl/111/350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350
 [/us/stat/124/3742]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3742
 [/us/usc/t40/s113/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft40%2Fs113%2Fe
 [/us/usc/t3/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft3%2Fs301

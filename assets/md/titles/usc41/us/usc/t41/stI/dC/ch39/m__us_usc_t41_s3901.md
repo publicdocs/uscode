@@ -33,7 +33,7 @@
 
         Paragraph (1) does not apply to a contract for an amount that is not greater than the simplified acquisition threshold or to a contract for the acquisition of commercial items.
 
-([Pub. L. 111–350, § 3][/us/pl/111/350/s3], Jan. 4, 2011, [124 Stat. 3774][/us/stat/124/3774].)
+([Pub. L. 111–350][/us/pl/111/350], § 3, Jan. 4, 2011, [124 Stat. 3774][/us/stat/124/3774].)
 
 <table>
 
@@ -91,7 +91,7 @@ June 30, 1949, ch. 288, title III, § 304(a), 63 Stat. 395; Pub. L. 98–369, 
 ----------
 
 [/us/usc/t41/s3905]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs3905
-[/us/pl/111/350/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350%2Fs3
+[/us/pl/111/350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350
 [/us/stat/124/3774]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3774
 
 

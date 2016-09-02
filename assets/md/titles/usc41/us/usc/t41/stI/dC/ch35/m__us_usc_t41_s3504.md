@@ -27,7 +27,7 @@
 
     The head of a procuring activity may not delegate the functions under this section.
 
-([Pub. L. 111–350, § 3][/us/pl/111/350/s3], Jan. 4, 2011, [124 Stat. 3767][/us/stat/124/3767].)
+([Pub. L. 111–350][/us/pl/111/350], § 3, Jan. 4, 2011, [124 Stat. 3767][/us/stat/124/3767].)
 
 <table>
 
@@ -83,7 +83,7 @@ June 30, 1949, ch. 288, title III, § 304A(c), as added Pub. L. 103–355, tit
 ----------
 
 [/us/usc/t41/s3502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs3502
-[/us/pl/111/350/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350%2Fs3
+[/us/pl/111/350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350
 [/us/stat/124/3767]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3767
 
 

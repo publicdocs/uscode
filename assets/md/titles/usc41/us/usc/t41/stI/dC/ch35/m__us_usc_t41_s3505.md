@@ -35,7 +35,7 @@
 
         A statement that any information received relating to commercial items that is exempt from disclosure under [section 552(b) of title 5][/us/usc/t5/s552/b] shall not be disclosed by the Federal Government.
 
-([Pub. L. 111–350, § 3][/us/pl/111/350/s3], Jan. 4, 2011, [124 Stat. 3767][/us/stat/124/3767].)
+([Pub. L. 111–350][/us/pl/111/350], § 3, Jan. 4, 2011, [124 Stat. 3767][/us/stat/124/3767].)
 
 <table>
 
@@ -92,7 +92,7 @@ June 30, 1949, ch. 288, title III, § 304A(d), as added Pub. L. 103–355, tit
 
 [/us/usc/t41/s3503/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs3503%2Fa%2F1
 [/us/usc/t5/s552/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs552%2Fb
-[/us/pl/111/350/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350%2Fs3
+[/us/pl/111/350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350
 [/us/stat/124/3767]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3767
 
 

@@ -75,7 +75,7 @@
 
         The Federal Acquisition Regulation shall require that all categories of costs designated in the report of a contract auditor as questioned with respect to a proposal for settlement be resolved in a manner so that the amount of the individual questioned costs that are paid will be reflected in the settlement.
 
-([Pub. L. 111–350, § 3][/us/pl/111/350/s3], Jan. 4, 2011, [124 Stat. 3787][/us/stat/124/3787].)
+([Pub. L. 111–350][/us/pl/111/350], § 3, Jan. 4, 2011, [124 Stat. 3787][/us/stat/124/3787].)
 
 <table>
 
@@ -158,7 +158,7 @@ June 30, 1949, ch. 288, title III, § 306(f), as added Pub. L. 100–700, §�
 ----------
 ----------
 
-[/us/pl/111/350/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350%2Fs3
+[/us/pl/111/350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350
 [/us/stat/124/3787]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3787
 
 

@@ -43,7 +43,7 @@
 
         The head of an executive agency shall maintain for a period of not less than 6 years a copy of each finding referred to in paragraph (1) that is made by an individual in that executive agency. The period begins on the date of the determination or decision to which the finding relates.
 
-([Pub. L. 111–350, § 3][/us/pl/111/350/s3], Jan. 4, 2011, [124 Stat. 3793][/us/stat/124/3793].)
+([Pub. L. 111–350][/us/pl/111/350], § 3, Jan. 4, 2011, [124 Stat. 3793][/us/stat/124/3793].)
 
 <table>
 
@@ -116,7 +116,7 @@ June 30, 1949, ch. 288, title III, § 312, as added Pub. L. 103–355, title I
 
 [/us/usc/t41/s4702]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs4702
 [/us/usc/t41/s3304/a/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs3304%2Fa%2F7
-[/us/pl/111/350/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350%2Fs3
+[/us/pl/111/350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350
 [/us/stat/124/3793]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3793
 
 

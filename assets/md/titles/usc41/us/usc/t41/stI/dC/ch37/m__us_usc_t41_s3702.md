@@ -27,7 +27,7 @@
 
     The award of a contract shall be made by transmitting, in writing or by electronic means, notice of the award to the successful bidder. Within 3 days after the date of contract award, the executive agency shall notify, in writing or by electronic means, each bidder not awarded the contract that the contract has been awarded.
 
-([Pub. L. 111–350, § 3][/us/pl/111/350/s3], Jan. 4, 2011, [124 Stat. 3770][/us/stat/124/3770].)
+([Pub. L. 111–350][/us/pl/111/350], § 3, Jan. 4, 2011, [124 Stat. 3770][/us/stat/124/3770].)
 
 <table>
 
@@ -112,7 +112,7 @@ June 30, 1949, ch. 288, title III, § 303B(c), as added Pub. L. 98–369, titl
 
 [/us/usc/t41/s3701/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs3701%2Fa
 [/us/usc/t41/s3701/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs3701%2Fb
-[/us/pl/111/350/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350%2Fs3
+[/us/pl/111/350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350
 [/us/stat/124/3770]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3770
 
 

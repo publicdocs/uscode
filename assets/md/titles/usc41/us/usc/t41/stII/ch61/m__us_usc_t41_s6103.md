@@ -17,7 +17,7 @@
 
     Whenever proposals for supplies have been solicited, the parties responding to the solicitation shall be notified of the time and place of the opening of the bids, and be permitted to be present either in person or by attorney. A record of each bid shall be made at the time and place of the opening of the bids.
 
-([Pub. L. 111–350, § 3][/us/pl/111/350/s3], Jan. 4, 2011, [124 Stat. 3803][/us/stat/124/3803].)
+([Pub. L. 111–350][/us/pl/111/350], § 3, Jan. 4, 2011, [124 Stat. 3803][/us/stat/124/3803].)
 
 <table>
 
@@ -72,7 +72,7 @@ R.S. § 3710.  </td>
 ----------
 ----------
 
-[/us/pl/111/350/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350%2Fs3
+[/us/pl/111/350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350
 [/us/stat/124/3803]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3803
 
 

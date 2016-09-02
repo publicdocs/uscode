@@ -29,7 +29,7 @@
 
     The term “Secretary” means the Secretary of Labor.
 
-([Pub. L. 111–350, § 3][/us/pl/111/350/s3], Jan. 4, 2011, [124 Stat. 3807][/us/stat/124/3807].)
+([Pub. L. 111–350][/us/pl/111/350], § 3, Jan. 4, 2011, [124 Stat. 3807][/us/stat/124/3807].)
 
 <table>
 
@@ -172,7 +172,7 @@ By the authority vested in me as President by the Constitution and the laws of t
 ----------
 ----------
 
-[/us/pl/111/350/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350%2Fs3
+[/us/pl/111/350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350
 [/us/stat/124/3807]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3807
 [/us/usc/t19/s1307]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1307
 [/us/usc/t29/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs201

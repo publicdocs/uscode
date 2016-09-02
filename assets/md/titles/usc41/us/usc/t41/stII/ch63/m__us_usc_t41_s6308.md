@@ -17,7 +17,7 @@
 
     When practicable, a contract for transporting bullion, cash, or securities of the Federal Government shall be awarded to the lowest responsible bidder after notice to all parties with means of transportation.
 
-([Pub. L. 111–350, § 3][/us/pl/111/350/s3], Jan. 4, 2011, [124 Stat. 3806][/us/stat/124/3806].)
+([Pub. L. 111–350][/us/pl/111/350], § 3, Jan. 4, 2011, [124 Stat. 3806][/us/stat/124/3806].)
 
 <table>
 
@@ -74,7 +74,7 @@ July 7, 1884, ch. 332, (words after “fifty five thousand dollars” in 3d par.
 ----------
 ----------
 
-[/us/pl/111/350/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350%2Fs3
+[/us/pl/111/350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350
 [/us/stat/124/3806]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3806
 
 

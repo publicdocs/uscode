@@ -63,7 +63,7 @@
 
         This subsection shall not apply to acquisitions made by an agency, or component of an agency, that is an element of the intelligence community as specified in, or designated under, section 3 of the National Security Act of 1947 ([50 U.S.C. 401a][/us/usc/t50/s401a]). <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup> 
 
-([Pub. L. 111–350, § 3][/us/pl/111/350/s3], Jan. 4, 2011, [124 Stat. 3831][/us/stat/124/3831].)
+([Pub. L. 111–350][/us/pl/111/350], § 3, Jan. 4, 2011, [124 Stat. 3831][/us/stat/124/3831].)
 
 <table>
 
@@ -128,7 +128,7 @@ Mar. 3, 1933, ch. 212, title III, § 2, 47 Stat. 1520; Pub. L. 100–418, titl
 
 [/us/usc/t41/s1902]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs1902
 [/us/usc/t50/s401a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs401a
-[/us/pl/111/350/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350%2Fs3
+[/us/pl/111/350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350
 [/us/stat/124/3831]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3831
 [/us/act/1947-07-26/ch343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1947-07-26%2Fch343
 [/us/stat/61/495]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F61%2F495

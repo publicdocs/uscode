@@ -17,7 +17,7 @@
 
     An order or contract placed with a Federal Government-owned establishment for work, material, or the manufacture of material pertaining to an approved project is deemed to be an obligation in the same manner that a similar order or contract placed with a commercial manufacturer or private contractor is an obligation. Appropriations remain available to pay an obligation to a Federal Government-owned establishment just as appropriations remain available to pay an obligation to a commercial manufacturer or private contractor.
 
-([Pub. L. 111–350, § 3][/us/pl/111/350/s3], Jan. 4, 2011, [124 Stat. 3806][/us/stat/124/3806].)
+([Pub. L. 111–350][/us/pl/111/350], § 3, Jan. 4, 2011, [124 Stat. 3806][/us/stat/124/3806].)
 
 <table>
 
@@ -90,7 +90,7 @@ July 1, 1922, ch. 259, (1st proviso on p. 812), 42 Stat. 812.  </td>
 ----------
 ----------
 
-[/us/pl/111/350/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350%2Fs3
+[/us/pl/111/350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350
 [/us/stat/124/3806]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3806
 
 

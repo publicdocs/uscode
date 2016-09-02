@@ -149,7 +149,7 @@
 
     This section shall be in effect for the four-year period beginning on the date of that is 180 days after the date the enactment of this section. <sup>\[2\]</sup>  <sup><sup> 2 So in original. Probably should be “date that is 180 days after the date of the enactment of this section.” </sup></sup> 
 
-(Added [Pub. L. 112–239, div. A, title VIII, § 828(a)(1)][/us/pl/112/239/s828/a/1], Jan. 2, 2013, [126 Stat. 1837][/us/stat/126/1837]; amended [Pub. L. 113–66, div. A, title X, § 1091(e)][/us/pl/113/66/s1091/e], Dec. 26, 2013, [127 Stat. 876][/us/stat/127/876].)
+(Added [Pub. L. 112–239, div. A, title VIII][/us/pl/112/239/dA/tVIII], § 828(a)(1), Jan. 2, 2013, [126 Stat. 1837][/us/stat/126/1837]; amended [Pub. L. 113–66, div. A, title X][/us/pl/113/66/dA/tX], § 1091(e), Dec. 26, 2013, [127 Stat. 876][/us/stat/127/876].)
 
  __References in Text__ 
 
@@ -163,7 +163,7 @@
 
  __Effective Date of 2013 Amendment__ 
 
-[Pub. L. 112–239, div. A, title VIII, § 828(b)][/us/pl/112/239/s828/b], Jan. 2, 2013, [126 Stat. 1840][/us/stat/126/1840], provided that:
+[Pub. L. 112–239, div. A, title VIII][/us/pl/112/239/dA/tVIII], § 828(b), Jan. 2, 2013, [126 Stat. 1840][/us/stat/126/1840], provided that:
 
 >     “(1)  __In general__  __.—__ 
 
@@ -193,15 +193,15 @@
 [/us/usc/t5/s552a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs552a
 [/us/usc/t5/s1221/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs1221%2Fe
 [/us/usc/t50/s401a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs401a%2F4
-[/us/pl/112/239/s828/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs828%2Fa%2F1
+[/us/pl/112/239/dA/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2FdA%2FtVIII
 [/us/stat/126/1837]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1837
-[/us/pl/113/66/s1091/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs1091%2Fe
+[/us/pl/113/66/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2FdA%2FtX
 [/us/stat/127/876]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F876
 [/us/pl/95/452]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F452
 [/us/stat/92/1101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1101
 [/us/pl/112/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239
 [/us/pl/113/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66
-[/us/pl/112/239/s828/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs828%2Fb
+[/us/pl/112/239/dA/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2FdA%2FtVIII
 [/us/stat/126/1840]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1840
 [/us/usc/t41/s4712]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs4712
 

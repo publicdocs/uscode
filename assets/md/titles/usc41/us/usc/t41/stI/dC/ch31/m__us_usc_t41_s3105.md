@@ -51,7 +51,7 @@
 
     This section does not apply to a contract or grant that calls on the National Academy of Sciences to investigate, examine, or experiment on a subject of science or art of significance to an executive agency and to report on those matters to Congress or an agency of the Federal Government.
 
-([Pub. L. 111–350, § 3][/us/pl/111/350/s3], Jan. 4, 2011, [124 Stat. 3744][/us/stat/124/3744].)
+([Pub. L. 111–350][/us/pl/111/350], § 3, Jan. 4, 2011, [124 Stat. 3744][/us/stat/124/3744].)
 
 <table>
 
@@ -206,7 +206,7 @@ June 30, 1949, ch. 288, title III, § 316, as added Pub. L. 103–355, title V
 ----------
 ----------
 
-[/us/pl/111/350/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350%2Fs3
+[/us/pl/111/350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350
 [/us/stat/124/3744]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3744
 
 

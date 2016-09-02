@@ -129,7 +129,7 @@
 
             (B) reduce the scoring of an offer on the basis of the inclusion in the offer of a plan of the offeror to allow the offeror’s employees to telecommute, unless the contracting officer concerned first determines that the requirements of the agency, including security requirements, would be adversely impacted if telecommuting is allowed and documents in writing the basis for the determination.
 
-([Pub. L. 111–350, § 3][/us/pl/111/350/s3], Jan. 4, 2011, [124 Stat. 3752][/us/stat/124/3752].)
+([Pub. L. 111–350][/us/pl/111/350], § 3, Jan. 4, 2011, [124 Stat. 3752][/us/stat/124/3752].)
 
 <table>
 
@@ -203,7 +203,7 @@ Pub. L. 108–136, title XIV, § 1428, Nov. 24, 2003, 117 Stat. 1670.  </td>
 ----------
 
 [/us/usc/t41/s133]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs133
-[/us/pl/111/350/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350%2Fs3
+[/us/pl/111/350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350
 [/us/stat/124/3752]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3752
 
 

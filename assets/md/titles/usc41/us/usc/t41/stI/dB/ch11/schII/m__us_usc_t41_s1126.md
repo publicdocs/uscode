@@ -37,7 +37,7 @@
 
     If there is no information on past contract performance of an offeror or the information on past contract performance is not available, the offeror may not be evaluated favorably or unfavorably on the factor of past contract performance.
 
-([Pub. L. 111–350, § 3][/us/pl/111/350/s3], Jan. 4, 2011, [124 Stat. 3689][/us/stat/124/3689].)
+([Pub. L. 111–350][/us/pl/111/350], § 3, Jan. 4, 2011, [124 Stat. 3689][/us/stat/124/3689].)
 
 <table>
 
@@ -101,7 +101,7 @@ Pub. L. 93–400, § 6(j), as added Pub. L. 103–355, title I, § 1091(b)(2
 
  __Inclusion of Data on Contractor Performance in Past Performance Databases for Executive Agency Source Selection Decisions__ 
 
-[Pub. L. 112–239, div. A, title VIII, § 853][/us/pl/112/239/s853], Jan. 2, 2013, [126 Stat. 1856][/us/stat/126/1856], provided that:
+[Pub. L. 112–239, div. A, title VIII][/us/pl/112/239/dA/tVIII], § 853, Jan. 2, 2013, [126 Stat. 1856][/us/stat/126/1856], provided that:
 
 >     “(a)  __Strategy Required__  __.—__ 
 
@@ -163,7 +163,7 @@ Pub. L. 93–400, § 6(j), as added Pub. L. 103–355, title I, § 1091(b)(2
 
  __Congressional Findings Regarding Consideration of Past Contract Performance__ 
 
-[Pub. L. 103–355, title I, § 1091(b)(1)][/us/pl/103/355/s1091/b/1], Oct. 13, 1994, [108 Stat. 3272][/us/stat/108/3272], provided that: 
+[Pub. L. 103–355, title I][/us/pl/103/355/tI], § 1091(b)(1), Oct. 13, 1994, [108 Stat. 3272][/us/stat/108/3272], provided that: 
 
 > “Congress makes the following findings:
 
@@ -178,16 +178,16 @@ Pub. L. 93–400, § 6(j), as added Pub. L. 103–355, title I, § 1091(b)(2
 ----------
 ----------
 
-[/us/pl/111/350/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350%2Fs3
+[/us/pl/111/350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350
 [/us/stat/124/3689]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3689
-[/us/pl/112/239/s853]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs853
+[/us/pl/112/239/dA/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2FdA%2FtVIII
 [/us/stat/126/1856]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1856
 [/us/pl/112/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81
 [/us/stat/125/1487]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1487
 [/us/usc/t10/s2302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2302
 [/us/usc/t41/s133]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs133
 [/us/usc/t41/s1302/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs1302%2Fa
-[/us/pl/103/355/s1091/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F355%2Fs1091%2Fb%2F1
+[/us/pl/103/355/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F355%2FtI
 [/us/stat/108/3272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3272
 
 

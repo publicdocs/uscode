@@ -17,7 +17,7 @@
 
     Except as otherwise provided, an executive department shall not make a contract for stationery or other supplies for a term longer than one year from the time the contract is made.
 
-([Pub. L. 111–350, § 3][/us/pl/111/350/s3], Jan. 4, 2011, [124 Stat. 3804][/us/stat/124/3804].)
+([Pub. L. 111–350][/us/pl/111/350], § 3, Jan. 4, 2011, [124 Stat. 3804][/us/stat/124/3804].)
 
 <table>
 
@@ -74,7 +74,7 @@ R.S. § 3735.  </td>
 ----------
 ----------
 
-[/us/pl/111/350/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350%2Fs3
+[/us/pl/111/350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350
 [/us/stat/124/3804]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3804
 
 

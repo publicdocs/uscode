@@ -89,7 +89,7 @@
 
         (9) authorizing the head of the agency to withhold payments under the contract (or exercise another remedy the head of the agency considers appropriate) during any period if the contractor does not meet the requirements of the contract pertaining to the delivery of technical data.
 
-([Pub. L. 111–350, § 3][/us/pl/111/350/s3], Jan. 4, 2011, [124 Stat. 3733][/us/stat/124/3733].)
+([Pub. L. 111–350][/us/pl/111/350], § 3, Jan. 4, 2011, [124 Stat. 3733][/us/stat/124/3733].)
 
 <table>
 
@@ -206,7 +206,7 @@ In subsection (a), the words “Federal Acquisition Regulation” are substitute
 [/us/pl/97/219]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F219
 [/us/usc/t15/s638]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs638
 [/us/usc/t15/s631]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs631
-[/us/pl/111/350/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350%2Fs3
+[/us/pl/111/350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350
 [/us/stat/124/3733]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3733
 [/us/usc/t41/s403/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs403%2F4
 [/us/pl/100/679]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F679

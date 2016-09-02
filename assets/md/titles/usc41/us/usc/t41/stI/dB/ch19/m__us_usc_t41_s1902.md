@@ -45,7 +45,7 @@
 
     This section shall be implemented through the Federal Acquisition Regulation.
 
-([Pub. L. 111–350, § 3][/us/pl/111/350/s3], Jan. 4, 2011, [124 Stat. 3720][/us/stat/124/3720].)
+([Pub. L. 111–350][/us/pl/111/350], § 3, Jan. 4, 2011, [124 Stat. 3720][/us/stat/124/3720].)
 
 <table>
 
@@ -99,7 +99,7 @@ Pub. L. 93–400, § 32, as added Pub. L. 103–355, title IV, § 4301(a), O
 
  __Micro-Purchase Guidelines__ 
 
-[Pub. L. 111–240, title I, § 1332][/us/pl/111/240/s1332], Sept. 27, 2010, [124 Stat. 2541][/us/stat/124/2541], provided that: 
+[Pub. L. 111–240, title I][/us/pl/111/240/tI], § 1332, Sept. 27, 2010, [124 Stat. 2541][/us/stat/124/2541], provided that: 
 
 > “Not later than 1 year after the date of enactment of this Act \[Sept. 27, 2010\], the Director of the Office of Management and Budget, in coordination with the Administrator of General Services, shall issue guidelines regarding the analysis of purchase card expenditures to identify opportunities for achieving and accurately measuring fair participation of small business concerns in purchases in an amount not in excess of the micro-purchase threshold, as defined in section 32 of the Office of Federal Procurement Policy Act (\[former\] [41 U.S.C. 428][/us/usc/t41/s428]) \[now [41 U.S.C. 1902][/us/usc/t41/s1902]\] (in this section referred to as ‘micro-purchases’), consistent with the national policy on small business participation in Federal procurements set forth in sections 2(a) and 15(g) of the Small Business Act ([15 U.S.C. 631(a)][/us/usc/t15/s631/a] and 644(g)), and dissemination of best practices for participation of small business concerns in micro-purchases.”
 
@@ -117,9 +117,9 @@ Pub. L. 93–400, § 32, as added Pub. L. 103–355, title IV, § 4301(a), O
 [/us/pl/103/355]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F355
 [/us/usc/t15/s644]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs644
 [/us/usc/t15/s644/j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs644%2Fj
-[/us/pl/111/350/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350%2Fs3
+[/us/pl/111/350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350
 [/us/stat/124/3720]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3720
-[/us/pl/111/240/s1332]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F240%2Fs1332
+[/us/pl/111/240/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F240%2FtI
 [/us/stat/124/2541]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2541
 [/us/usc/t41/s428]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs428
 [/us/usc/t41/s1902]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs1902

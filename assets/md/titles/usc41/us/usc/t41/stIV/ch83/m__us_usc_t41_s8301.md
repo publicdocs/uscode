@@ -25,7 +25,7 @@
 
     The term “United States” includes any place subject to the jurisdiction of the United States.
 
-([Pub. L. 111–350, § 3][/us/pl/111/350/s3], Jan. 4, 2011, [124 Stat. 3830][/us/stat/124/3830].)
+([Pub. L. 111–350][/us/pl/111/350], § 3, Jan. 4, 2011, [124 Stat. 3830][/us/stat/124/3830].)
 
 <table>
 
@@ -79,7 +79,7 @@ Mar. 3, 1933, ch. 212, title III, § 1, 47 Stat. 1520; Pub. L. 86–70, § 4
 
  __Implementation of Buy American Act With Respect to Certain Water Resource Projects__ 
 
-[Pub. L. 100–371, title V, § 508][/us/pl/100/371/s508], July 19, 1988, [102 Stat. 875][/us/stat/102/875], provided that:
+[Pub. L. 100–371, title V][/us/pl/100/371/tV], § 508, July 19, 1988, [102 Stat. 875][/us/stat/102/875], provided that:
 
 >     “(a)  __General Rule__  __.—__ 
 
@@ -96,10 +96,10 @@ Mar. 3, 1933, ch. 212, title III, § 1, 47 Stat. 1520; Pub. L. 86–70, § 4
 ----------
 ----------
 
-[/us/pl/111/350/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350%2Fs3
+[/us/pl/111/350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350
 [/us/stat/124/3830]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3830
 [/us/usc/t22/s1394]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs1394
-[/us/pl/100/371/s508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F371%2Fs508
+[/us/pl/100/371/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F371%2FtV
 [/us/stat/102/875]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F875
 [/us/stat/47/1520]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F47%2F1520
 [/us/usc/t41/s10a–10c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs10a%E2%80%9310c

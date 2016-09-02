@@ -59,7 +59,7 @@
 
     For wholly owned Government corporations, this section applies only to administrative transactions.
 
-([Pub. L. 111–350, § 3][/us/pl/111/350/s3], Jan. 4, 2011, [124 Stat. 3801][/us/stat/124/3801].)
+([Pub. L. 111–350][/us/pl/111/350], § 3, Jan. 4, 2011, [124 Stat. 3801][/us/stat/124/3801].)
 
 <table>
 
@@ -135,7 +135,7 @@ In subsection (a), before paragraph (1), the words “In this section” are sub
 ----------
 
 [/us/usc/t31/s9104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs9104
-[/us/pl/111/350/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350%2Fs3
+[/us/pl/111/350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350
 [/us/stat/124/3801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3801
 [/us/act/1946-08-02/s9/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-08-02%2Fs9%2Fa
 [/us/stat/60/809]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F60%2F809

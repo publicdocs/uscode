@@ -21,7 +21,7 @@
 
     (2) permit a contract for the construction or repair of a building, road, sidewalk, sewer, main, or similar item using procedures other than sealed-bid procedures under [section 3301(b)(1)(A) of this title][/us/usc/t41/s3301/b/1/A] if the conditions set forth in [section 3301(b)(1)(A) of this title][/us/usc/t41/s3301/b/1/A] apply or the contract is to be performed outside the United States.
 
-([Pub. L. 111–350, § 3][/us/pl/111/350/s3], Jan. 4, 2011, [124 Stat. 3745][/us/stat/124/3745].)
+([Pub. L. 111–350][/us/pl/111/350], § 3, Jan. 4, 2011, [124 Stat. 3745][/us/stat/124/3745].)
 
 <table>
 
@@ -80,7 +80,7 @@ June 30, 1949, ch. 288, title III, § 302(c)(1), 63 Stat. 393; July 12, 1952, 
 
 [/us/usc/t41/s3301/b/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs3301%2Fb%2F1%2FA
 [/us/usc/t41/s3301/b/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs3301%2Fb%2F1%2FA
-[/us/pl/111/350/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350%2Fs3
+[/us/pl/111/350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350
 [/us/stat/124/3745]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3745
 
 

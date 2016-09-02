@@ -29,7 +29,7 @@
 
         (3) the heads of 2 or more executive agencies may establish joint or combined offices to exercise procurement functions and responsibilities.
 
-([Pub. L. 111–350, § 3][/us/pl/111/350/s3], Jan. 4, 2011, [124 Stat. 3743][/us/stat/124/3743].)
+([Pub. L. 111–350][/us/pl/111/350], § 3, Jan. 4, 2011, [124 Stat. 3743][/us/stat/124/3743].)
 
 <table>
 
@@ -87,7 +87,7 @@ June 30, 1949, ch. 288, title III, § 311, as added Pub. L. 103–355, title I
 [/us/usc/t31/s1535]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1535
 [/us/pl/103/355]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F355
 [/us/usc/t31/s1535]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1535
-[/us/pl/111/350/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350%2Fs3
+[/us/pl/111/350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350
 [/us/stat/124/3743]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3743
 
 

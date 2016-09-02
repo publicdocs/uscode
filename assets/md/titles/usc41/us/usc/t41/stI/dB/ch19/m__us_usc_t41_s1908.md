@@ -103,7 +103,7 @@
 
         The adjustment of a dollar threshold pursuant to a petition under this subsection takes effect on the date the revised notice adding the adjustment under paragraph (2)(B) is published.
 
-([Pub. L. 111–350, § 3][/us/pl/111/350/s3], Jan. 4, 2011, [124 Stat. 3725][/us/stat/124/3725]; [Pub. L. 114–92, div. A, title VIII, § 817][/us/pl/114/92/s817], Nov. 25, 2015, [129 Stat. 897][/us/stat/129/897].)
+([Pub. L. 111–350][/us/pl/111/350], § 3, Jan. 4, 2011, [124 Stat. 3725][/us/stat/124/3725]; [Pub. L. 114–92, div. A, title VIII][/us/pl/114/92/dA/tVIII], § 817, Nov. 25, 2015, [129 Stat. 897][/us/stat/129/897].)
 
 <table>
 
@@ -277,13 +277,13 @@ Pub. L. 108–375, title VIII, § 807(c)(2), Oct. 28, 2004, 118 Stat. 2011.  <
 
  __Amendments__ 
 
-    2015—Subsec. (e)(2). [Pub. L. 114–92, § 817(1)][/us/pl/114/92/s817/1], substituted “as calculated under paragraph (1)” for “on the day before the adjustment” in introductory provisions.
+    2015—Subsec. (e)(2). [Pub. L. 114–92][/us/pl/114/92], § 817(1), substituted “as calculated under paragraph (1)” for “on the day before the adjustment” in introductory provisions.
 
-    Subsec. (e)(2)(D) to (G). [Pub. L. 114–92, § 817(2)][/us/pl/114/92/s817/2], (3), added subpars. (D) to (G) and struck out former subpar. (D) which read as follows: “$1,000,000 or more, to the nearest $500,000.”
+    Subsec. (e)(2)(D) to (G). [Pub. L. 114–92][/us/pl/114/92], § 817(2), (3), added subpars. (D) to (G) and struck out former subpar. (D) which read as follows: “$1,000,000 or more, to the nearest $500,000.”
 
  __Adjustment for Inflation of Right-Hand Drive Passenger Sedans__ 
 
-[Pub. L. 112–81, div. A, title VIII, § 814(b)][/us/pl/112/81/s814/b], Dec. 31, 2011, [125 Stat. 1491][/us/stat/125/1491], provided that: 
+[Pub. L. 112–81, div. A, title VIII][/us/pl/112/81/dA/tVIII], § 814(b), Dec. 31, 2011, [125 Stat. 1491][/us/stat/125/1491], provided that: 
 
 > “The Department of Defense representative to the Federal Acquisition Regulatory Council established under [section 1302 of title 41][/us/usc/t41/s1302], United States Code, shall ensure that the threshold established in [section 2253 of title 10][/us/usc/t10/s2253], United States Code, for the acquisition of right-hand drive passenger sedans is included on the list of dollar thresholds that are subject to adjustment for inflation in accordance with the requirements of [section 1908 of title 41][/us/usc/t41/s1908], United States Code, and is adjusted pursuant to such provision, as appropriate.”
 
@@ -296,16 +296,16 @@ Pub. L. 108–375, title VIII, § 807(c)(2), Oct. 28, 2004, 118 Stat. 2011.  <
 
 [/us/usc/t41/s1301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs1301
 [/us/usc/t19/s2511]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2511
-[/us/pl/111/350/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350%2Fs3
+[/us/pl/111/350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350
 [/us/stat/124/3725]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3725
-[/us/pl/114/92/s817]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs817
+[/us/pl/114/92/dA/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2FdA%2FtVIII
 [/us/stat/129/897]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F897
 [/us/pl/96/39]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F39
 [/us/stat/93/144]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F144
 [/us/usc/t19/s2501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2501
-[/us/pl/114/92/s817/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs817%2F1
-[/us/pl/114/92/s817/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs817%2F2
-[/us/pl/112/81/s814/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs814%2Fb
+[/us/pl/114/92]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92
+[/us/pl/114/92]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92
+[/us/pl/112/81/dA/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2FdA%2FtVIII
 [/us/stat/125/1491]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1491
 [/us/usc/t41/s1302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs1302
 [/us/usc/t10/s2253]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2253

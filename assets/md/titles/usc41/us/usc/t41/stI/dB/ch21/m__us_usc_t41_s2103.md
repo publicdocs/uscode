@@ -45,7 +45,7 @@
 
         (2) A bidder or offeror that engages in employment discussions with an official who is subject to the restrictions of this section, knowing that the official has not complied with paragraph (1) or (2) of subsection (a).
 
-([Pub. L. 111–350, § 3][/us/pl/111/350/s3], Jan. 4, 2011, [124 Stat. 3728][/us/stat/124/3728].)
+([Pub. L. 111–350][/us/pl/111/350], § 3, Jan. 4, 2011, [124 Stat. 3728][/us/stat/124/3728].)
 
 <table>
 
@@ -131,7 +131,7 @@ Pub. L. 93–400, § 27(c), as added Pub. L. 100–679, § 6(a), Nov. 17, 19
 [/us/usc/t18/s208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs208
 [/us/usc/t5/s552]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs552
 [/us/usc/t41/s2105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs2105
-[/us/pl/111/350/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350%2Fs3
+[/us/pl/111/350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350
 [/us/stat/124/3728]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3728
 
 

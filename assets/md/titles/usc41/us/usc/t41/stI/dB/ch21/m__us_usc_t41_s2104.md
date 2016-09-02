@@ -51,7 +51,7 @@
 
         (2) A contractor that provides compensation to a former official knowing that the official accepts the compensation in violation of this section.
 
-([Pub. L. 111–350, § 3][/us/pl/111/350/s3], Jan. 4, 2011, [124 Stat. 3729][/us/stat/124/3729].)
+([Pub. L. 111–350][/us/pl/111/350], § 3, Jan. 4, 2011, [124 Stat. 3729][/us/stat/124/3729].)
 
 <table>
 
@@ -149,7 +149,7 @@ Pub. L. 93–400, § 27(d), as added Pub. L. 100–679, § 6(a), Nov. 17, 19
 ----------
 
 [/us/usc/t41/s2105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs2105
-[/us/pl/111/350/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350%2Fs3
+[/us/pl/111/350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350
 [/us/stat/124/3729]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3729
 
 

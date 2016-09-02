@@ -99,7 +99,7 @@
 
  __Amendments__ 
 
-    2012—[Pub. L. 112–194, § 2(a)(2)][/us/pl/112/194/s2/a/2], Oct. 5, 2012, [126 Stat. 1447][/us/stat/126/1447], added item 1909.
+    2012—[Pub. L. 112–194][/us/pl/112/194], § 2(a)(2), Oct. 5, 2012, [126 Stat. 1447][/us/stat/126/1447], added item 1909.
 
 ----------
 
@@ -108,7 +108,7 @@
 ----------
 ----------
 
-[/us/pl/112/194/s2/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F194%2Fs2%2Fa%2F2
+[/us/pl/112/194]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F194
 [/us/stat/126/1447]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1447
 
 

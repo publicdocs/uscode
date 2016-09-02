@@ -31,7 +31,7 @@
 
     (7) limit the applicability of a requirement, sanction, contract penalty, or remedy established under another law or regulation.
 
-([Pub. L. 111–350, § 3][/us/pl/111/350/s3], Jan. 4, 2011, [124 Stat. 3731][/us/stat/124/3731].)
+([Pub. L. 111–350][/us/pl/111/350], § 3, Jan. 4, 2011, [124 Stat. 3731][/us/stat/124/3731].)
 
 <table>
 
@@ -86,7 +86,7 @@ Pub. L. 93–400, § 27(h), as added Pub. L. 100–679, § 6(a), Nov. 17, 19
 ----------
 ----------
 
-[/us/pl/111/350/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350%2Fs3
+[/us/pl/111/350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350
 [/us/stat/124/3731]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3731
 
 

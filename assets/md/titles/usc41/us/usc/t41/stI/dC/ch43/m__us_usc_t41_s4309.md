@@ -17,7 +17,7 @@
 
     In a proceeding before a board of contract appeals, the United States Court of Federal Claims, or any other Federal court in which the reasonableness of indirect costs for which a contractor seeks reimbursement from the Federal Government is in issue, the burden of proof is on the contractor to establish that those costs are reasonable.
 
-([Pub. L. 111–350, § 3][/us/pl/111/350/s3], Jan. 4, 2011, [124 Stat. 3788][/us/stat/124/3788].)
+([Pub. L. 111–350][/us/pl/111/350], § 3, Jan. 4, 2011, [124 Stat. 3788][/us/stat/124/3788].)
 
 <table>
 
@@ -72,7 +72,7 @@ June 30, 1949, ch. 288, title III, § 306(j), as added Pub. L. 100–700, §�
 ----------
 ----------
 
-[/us/pl/111/350/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350%2Fs3
+[/us/pl/111/350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350
 [/us/stat/124/3788]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3788
 
 

@@ -71,7 +71,7 @@
 
         Each report under paragraph (1) shall include the number of members of the Corps, the total cost of operating the program, the number of deployments of members of the program, and the performance of members of the program in deployment.
 
-([Pub. L. 111–350, § 3][/us/pl/111/350/s3], Jan. 4, 2011, [124 Stat. 3739][/us/stat/124/3739].)
+([Pub. L. 111–350][/us/pl/111/350], § 3, Jan. 4, 2011, [124 Stat. 3739][/us/stat/124/3739].)
 
 <table>
 
@@ -144,7 +144,7 @@ no source.  </td>
 [/us/usc/t42/s5122]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5122
 [/us/usc/t41/s1703/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs1703%2Fi
 [/us/usc/t10/s101/a/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs101%2Fa%2F13
-[/us/pl/111/350/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350%2Fs3
+[/us/pl/111/350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350
 [/us/stat/124/3739]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3739
 
 
