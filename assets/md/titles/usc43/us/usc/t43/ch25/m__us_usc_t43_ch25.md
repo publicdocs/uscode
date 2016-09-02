@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 1061.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft43%2Fs1061" data-uslm-ref="/us/usc/t43/s1061">1061.</a>  </td>
 
     <td> Inclosure of or assertion of right to public lands without title.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 1062.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft43%2Fs1062" data-uslm-ref="/us/usc/t43/s1062">1062.</a>  </td>
 
     <td> Suits for violations of law.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 1063.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft43%2Fs1063" data-uslm-ref="/us/usc/t43/s1063">1063.</a>  </td>
 
     <td> Obstruction of settlement on or transit over public lands.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 1064.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft43%2Fs1064" data-uslm-ref="/us/usc/t43/s1064">1064.</a>  </td>
 
     <td> Violations of chapter; punishment.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 1065.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft43%2Fs1065" data-uslm-ref="/us/usc/t43/s1065">1065.</a>  </td>
 
     <td> Summary removal of inclosures.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 1066.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft43%2Fs1066" data-uslm-ref="/us/usc/t43/s1066">1066.</a>  </td>
 
     <td> Permission of Secretary to sue.  </td>
 

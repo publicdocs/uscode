@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 1068.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft43%2Fs1068" data-uslm-ref="/us/usc/t43/s1068">1068.</a>  </td>
 
     <td> Lands held in adverse possession; issuance of patent; reservation of minerals; conflicting claims.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 1068a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft43%2Fs1068a" data-uslm-ref="/us/usc/t43/s1068a">1068a.</a>  </td>
 
     <td> Appraisal.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 1068b.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft43%2Fs1068b" data-uslm-ref="/us/usc/t43/s1068b">1068b.</a>  </td>
 
     <td> Mineral reservation.  </td>
 

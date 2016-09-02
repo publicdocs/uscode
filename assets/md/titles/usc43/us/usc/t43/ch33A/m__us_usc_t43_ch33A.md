@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 1631.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft43%2Fs1631" data-uslm-ref="/us/usc/t43/s1631">1631.</a>  </td>
 
     <td> Ownership of submerged lands.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 1632.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft43%2Fs1632" data-uslm-ref="/us/usc/t43/s1632">1632.</a>  </td>
 
     <td> Statute of limitations on decisions of Secretary and reconveyance of land by Village Corporation.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 1633.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft43%2Fs1633" data-uslm-ref="/us/usc/t43/s1633">1633.</a>  </td>
 
     <td> Administrative provisions.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 1634.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft43%2Fs1634" data-uslm-ref="/us/usc/t43/s1634">1634.</a>  </td>
 
     <td> Alaska Native allotments.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 1635.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft43%2Fs1635" data-uslm-ref="/us/usc/t43/s1635">1635.</a>  </td>
 
     <td> State selections and conveyances.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 1636.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft43%2Fs1636" data-uslm-ref="/us/usc/t43/s1636">1636.</a>  </td>
 
     <td> Alaska land bank.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 1637.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft43%2Fs1637" data-uslm-ref="/us/usc/t43/s1637">1637.</a>  </td>
 
     <td> Use of protraction diagrams.  </td>
 
@@ -81,7 +81,7 @@
 
   <tr>
 
-    <td> 1638.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft43%2Fs1638" data-uslm-ref="/us/usc/t43/s1638">1638.</a>  </td>
 
     <td> National Environmental Policy Act.  </td>
 
@@ -89,7 +89,7 @@
 
   <tr>
 
-    <td> 1639.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft43%2Fs1639" data-uslm-ref="/us/usc/t43/s1639">1639.</a>  </td>
 
     <td> Construction with Alaska Native Claims Settlement Act.  </td>
 
@@ -97,7 +97,7 @@
 
   <tr>
 
-    <td> 1640.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft43%2Fs1640" data-uslm-ref="/us/usc/t43/s1640">1640.</a>  </td>
 
     <td> Relinquishment of selections partly within conservation units.  </td>
 
@@ -105,7 +105,7 @@
 
   <tr>
 
-    <td> 1641.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft43%2Fs1641" data-uslm-ref="/us/usc/t43/s1641">1641.</a>  </td>
 
     <td> Conveyances to Village Corporations.  </td>
 
@@ -113,7 +113,7 @@
 
   <tr>
 
-    <td> 1642.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft43%2Fs1642" data-uslm-ref="/us/usc/t43/s1642">1642.</a>  </td>
 
     <td> Land conveyances.  </td>
 

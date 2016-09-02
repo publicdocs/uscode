@@ -33,7 +33,7 @@ SUBCHAPTER I—OBJECTIVES  </td>
 
   <tr>
 
-    <td> 1501.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft43%2Fs1501" data-uslm-ref="/us/usc/t43/s1501">1501.</a>  </td>
 
     <td> Congressional declaration of purpose and policy.  </td>
 
@@ -49,7 +49,7 @@ SUBCHAPTER II—INVESTIGATIONS AND PLANNING  </td>
 
   <tr>
 
-    <td> 1511.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft43%2Fs1511" data-uslm-ref="/us/usc/t43/s1511">1511.</a>  </td>
 
     <td> Reconnaissance investigations by Secretary of the Interior; reports; 10-year moratorium on water importation studies.  </td>
 
@@ -57,7 +57,7 @@ SUBCHAPTER II—INVESTIGATIONS AND PLANNING  </td>
 
   <tr>
 
-    <td> 1511a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft43%2Fs1511a" data-uslm-ref="/us/usc/t43/s1511a">1511a.</a>  </td>
 
     <td> Cooperation and participation by Secretary of the Army with Federal, State, and local agencies.  </td>
 
@@ -65,7 +65,7 @@ SUBCHAPTER II—INVESTIGATIONS AND PLANNING  </td>
 
   <tr>
 
-    <td> 1512.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft43%2Fs1512" data-uslm-ref="/us/usc/t43/s1512">1512.</a>  </td>
 
     <td> Mexican Water Treaty.  </td>
 
@@ -73,7 +73,7 @@ SUBCHAPTER II—INVESTIGATIONS AND PLANNING  </td>
 
   <tr>
 
-    <td> 1513.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft43%2Fs1513" data-uslm-ref="/us/usc/t43/s1513">1513.</a>  </td>
 
     <td> Importation of water; protection of exporting areas.  </td>
 
@@ -81,7 +81,7 @@ SUBCHAPTER II—INVESTIGATIONS AND PLANNING  </td>
 
   <tr>
 
-    <td> 1514.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft43%2Fs1514" data-uslm-ref="/us/usc/t43/s1514">1514.</a>  </td>
 
     <td> Authorization of appropriations.  </td>
 
@@ -97,7 +97,7 @@ SUBCHAPTER III—AUTHORIZED UNITS; PROTECTION OF EXISTING USES  </td>
 
   <tr>
 
-    <td> 1521.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft43%2Fs1521" data-uslm-ref="/us/usc/t43/s1521">1521.</a>  </td>
 
     <td> Central Arizona Project.  </td>
 
@@ -105,7 +105,7 @@ SUBCHAPTER III—AUTHORIZED UNITS; PROTECTION OF EXISTING USES  </td>
 
   <tr>
 
-    <td> 1522.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft43%2Fs1522" data-uslm-ref="/us/usc/t43/s1522">1522.</a>  </td>
 
     <td> Orme Dam and Reservoir.  </td>
 
@@ -113,7 +113,7 @@ SUBCHAPTER III—AUTHORIZED UNITS; PROTECTION OF EXISTING USES  </td>
 
   <tr>
 
-    <td> 1523.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft43%2Fs1523" data-uslm-ref="/us/usc/t43/s1523">1523.</a>  </td>
 
     <td> Power requirements of Central Arizona Project and augmentation of Lower Colorado River Basin Development Fund.  </td>
 
@@ -121,7 +121,7 @@ SUBCHAPTER III—AUTHORIZED UNITS; PROTECTION OF EXISTING USES  </td>
 
   <tr>
 
-    <td> 1524.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft43%2Fs1524" data-uslm-ref="/us/usc/t43/s1524">1524.</a>  </td>
 
     <td> Water furnished from Central Arizona Project.  </td>
 
@@ -129,7 +129,7 @@ SUBCHAPTER III—AUTHORIZED UNITS; PROTECTION OF EXISTING USES  </td>
 
   <tr>
 
-    <td> 1525.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft43%2Fs1525" data-uslm-ref="/us/usc/t43/s1525">1525.</a>  </td>
 
     <td> Cost of main stream water of Colorado River.  </td>
 
@@ -137,7 +137,7 @@ SUBCHAPTER III—AUTHORIZED UNITS; PROTECTION OF EXISTING USES  </td>
 
   <tr>
 
-    <td> 1526.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft43%2Fs1526" data-uslm-ref="/us/usc/t43/s1526">1526.</a>  </td>
 
     <td> Water salvage programs.  </td>
 
@@ -145,7 +145,7 @@ SUBCHAPTER III—AUTHORIZED UNITS; PROTECTION OF EXISTING USES  </td>
 
   <tr>
 
-    <td> 1527.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft43%2Fs1527" data-uslm-ref="/us/usc/t43/s1527">1527.</a>  </td>
 
     <td> Fish and wildlife conservation and development.  </td>
 
@@ -153,7 +153,7 @@ SUBCHAPTER III—AUTHORIZED UNITS; PROTECTION OF EXISTING USES  </td>
 
   <tr>
 
-    <td> 1528.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft43%2Fs1528" data-uslm-ref="/us/usc/t43/s1528">1528.</a>  </td>
 
     <td> Authorization of appropriations.  </td>
 
@@ -169,7 +169,7 @@ SUBCHAPTER IV—LOWER COLORADO RIVER BASIN DEVELOPMENT FUND  </td>
 
   <tr>
 
-    <td> 1541.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft43%2Fs1541" data-uslm-ref="/us/usc/t43/s1541">1541.</a>  </td>
 
     <td> Allocation of costs; repayment.  </td>
 
@@ -177,7 +177,7 @@ SUBCHAPTER IV—LOWER COLORADO RIVER BASIN DEVELOPMENT FUND  </td>
 
   <tr>
 
-    <td> 1542.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft43%2Fs1542" data-uslm-ref="/us/usc/t43/s1542">1542.</a>  </td>
 
     <td> Repayment capability of Indian lands.  </td>
 
@@ -185,7 +185,7 @@ SUBCHAPTER IV—LOWER COLORADO RIVER BASIN DEVELOPMENT FUND  </td>
 
   <tr>
 
-    <td> 1543.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft43%2Fs1543" data-uslm-ref="/us/usc/t43/s1543">1543.</a>  </td>
 
     <td> Lower Colorado River Basin Development Fund.  </td>
 
@@ -193,7 +193,7 @@ SUBCHAPTER IV—LOWER COLORADO RIVER BASIN DEVELOPMENT FUND  </td>
 
   <tr>
 
-    <td> 1544.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft43%2Fs1544" data-uslm-ref="/us/usc/t43/s1544">1544.</a>  </td>
 
     <td> Annual report to Congress.  </td>
 
@@ -209,7 +209,7 @@ SUBCHAPTER V—GENERAL PROVISIONS  </td>
 
   <tr>
 
-    <td> 1551.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft43%2Fs1551" data-uslm-ref="/us/usc/t43/s1551">1551.</a>  </td>
 
     <td> Construction of Colorado River Basin Act.  </td>
 
@@ -217,7 +217,7 @@ SUBCHAPTER V—GENERAL PROVISIONS  </td>
 
   <tr>
 
-    <td> 1552.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft43%2Fs1552" data-uslm-ref="/us/usc/t43/s1552">1552.</a>  </td>
 
     <td> Criteria for long-range operation of reservoirs.  </td>
 
@@ -225,7 +225,7 @@ SUBCHAPTER V—GENERAL PROVISIONS  </td>
 
   <tr>
 
-    <td> 1553.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft43%2Fs1553" data-uslm-ref="/us/usc/t43/s1553">1553.</a>  </td>
 
     <td> Upper Colorado River Basin; rights to consumptive uses not to be reduced or prejudiced; duties and powers of Commission not impaired.  </td>
 
@@ -233,7 +233,7 @@ SUBCHAPTER V—GENERAL PROVISIONS  </td>
 
   <tr>
 
-    <td> 1554.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft43%2Fs1554" data-uslm-ref="/us/usc/t43/s1554">1554.</a>  </td>
 
     <td> Federal reclamation laws.  </td>
 
@@ -241,7 +241,7 @@ SUBCHAPTER V—GENERAL PROVISIONS  </td>
 
   <tr>
 
-    <td> 1555.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft43%2Fs1555" data-uslm-ref="/us/usc/t43/s1555">1555.</a>  </td>
 
     <td> Federal Power Act inapplicable to Colorado River between Hoover Dam and Glen Canyon Dam.  </td>
 
@@ -249,7 +249,7 @@ SUBCHAPTER V—GENERAL PROVISIONS  </td>
 
   <tr>
 
-    <td> 1556.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft43%2Fs1556" data-uslm-ref="/us/usc/t43/s1556">1556.</a>  </td>
 
     <td> Definitions.  </td>
 

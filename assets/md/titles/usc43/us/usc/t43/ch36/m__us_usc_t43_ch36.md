@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 1801.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft43%2Fs1801" data-uslm-ref="/us/usc/t43/s1801">1801.</a>  </td>
 
     <td> Congressional findings.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 1802.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft43%2Fs1802" data-uslm-ref="/us/usc/t43/s1802">1802.</a>  </td>
 
     <td> Congressional declaration of purposes.  </td>
 
@@ -49,7 +49,9 @@ SUBCHAPTER I—OFFSHORE OIL SPILL POLLUTION FUND  </td>
 
   <tr>
 
-    <td> 1811 to 1824. Repealed.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft43%2Fs1811" data-uslm-ref="/us/usc/t43/s1811">1811</a> to <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft43%2Fs1824" data-uslm-ref="/us/usc/t43/s1824">1824.</a>  </td>
+
+    <td> Repealed.  </td>
 
   </tr>
 
@@ -63,7 +65,7 @@ SUBCHAPTER II—FISHERMEN’S CONTINGENCY FUND  </td>
 
   <tr>
 
-    <td> 1841.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft43%2Fs1841" data-uslm-ref="/us/usc/t43/s1841">1841.</a>  </td>
 
     <td> Definitions.  </td>
 
@@ -71,7 +73,7 @@ SUBCHAPTER II—FISHERMEN’S CONTINGENCY FUND  </td>
 
   <tr>
 
-    <td> 1842.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft43%2Fs1842" data-uslm-ref="/us/usc/t43/s1842">1842.</a>  </td>
 
     <td> Fishermen’s Contingency Fund.  </td>
 
@@ -79,7 +81,7 @@ SUBCHAPTER II—FISHERMEN’S CONTINGENCY FUND  </td>
 
   <tr>
 
-    <td> 1843.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft43%2Fs1843" data-uslm-ref="/us/usc/t43/s1843">1843.</a>  </td>
 
     <td> Duties and powers of Secretary.  </td>
 
@@ -87,7 +89,7 @@ SUBCHAPTER II—FISHERMEN’S CONTINGENCY FUND  </td>
 
   <tr>
 
-    <td> 1844.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft43%2Fs1844" data-uslm-ref="/us/usc/t43/s1844">1844.</a>  </td>
 
     <td> Burden of proof.  </td>
 
@@ -95,7 +97,7 @@ SUBCHAPTER II—FISHERMEN’S CONTINGENCY FUND  </td>
 
   <tr>
 
-    <td> 1845.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft43%2Fs1845" data-uslm-ref="/us/usc/t43/s1845">1845.</a>  </td>
 
     <td> Claims procedure.  </td>
 
@@ -103,7 +105,9 @@ SUBCHAPTER II—FISHERMEN’S CONTINGENCY FUND  </td>
 
   <tr>
 
-    <td> 1846, 1847. Repealed.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft43%2Fs1846" data-uslm-ref="/us/usc/t43/s1846">1846</a>, <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft43%2Fs1847" data-uslm-ref="/us/usc/t43/s1847">1847.</a>  </td>
+
+    <td> Repealed.  </td>
 
   </tr>
 
@@ -117,7 +121,7 @@ SUBCHAPTER III—MISCELLANEOUS PROVISIONS  </td>
 
   <tr>
 
-    <td> 1861.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft43%2Fs1861" data-uslm-ref="/us/usc/t43/s1861">1861.</a>  </td>
 
     <td> Repealed.  </td>
 
@@ -125,7 +129,7 @@ SUBCHAPTER III—MISCELLANEOUS PROVISIONS  </td>
 
   <tr>
 
-    <td> 1862.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft43%2Fs1862" data-uslm-ref="/us/usc/t43/s1862">1862.</a>  </td>
 
     <td> Natural gas distribution.  </td>
 
@@ -133,7 +137,7 @@ SUBCHAPTER III—MISCELLANEOUS PROVISIONS  </td>
 
   <tr>
 
-    <td> 1863.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft43%2Fs1863" data-uslm-ref="/us/usc/t43/s1863">1863.</a>  </td>
 
     <td> Unlawful employment practices; regulations.  </td>
 
@@ -141,7 +145,7 @@ SUBCHAPTER III—MISCELLANEOUS PROVISIONS  </td>
 
   <tr>
 
-    <td> 1864.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft43%2Fs1864" data-uslm-ref="/us/usc/t43/s1864">1864.</a>  </td>
 
     <td> Disclosure of financial interests by officers and employees of Department of the Interior.  </td>
 
@@ -149,7 +153,7 @@ SUBCHAPTER III—MISCELLANEOUS PROVISIONS  </td>
 
   <tr>
 
-    <td> 1865.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft43%2Fs1865" data-uslm-ref="/us/usc/t43/s1865">1865.</a>  </td>
 
     <td> Investigation of reserves of oil and gas in Outer Continental Shelf.  </td>
 
@@ -157,7 +161,7 @@ SUBCHAPTER III—MISCELLANEOUS PROVISIONS  </td>
 
   <tr>
 
-    <td> 1866.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft43%2Fs1866" data-uslm-ref="/us/usc/t43/s1866">1866.</a>  </td>
 
     <td> Relationship to existing law.  </td>
 

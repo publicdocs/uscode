@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 361.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft43%2Fs361" data-uslm-ref="/us/usc/t43/s361">361.</a>  </td>
 
     <td> Authority to explore for, develop, and mark water holes, etc.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 362.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft43%2Fs362" data-uslm-ref="/us/usc/t43/s362">362.</a>  </td>
 
     <td> Injury to signposts and filling up or fouling water supply.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 363.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft43%2Fs363" data-uslm-ref="/us/usc/t43/s363">363.</a>  </td>
 
     <td> Rules and regulations by Secretary.  </td>
 

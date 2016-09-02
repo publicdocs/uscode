@@ -33,7 +33,7 @@ SUBCHAPTER I—GENERAL PROVISIONS  </td>
 
   <tr>
 
-    <td> 1091 to 1094.   </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft43%2Fs1091" data-uslm-ref="/us/usc/t43/s1091">1091</a> to <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft43%2Fs1094" data-uslm-ref="/us/usc/t43/s1094">1094.</a>  </td>
 
     <td> Repealed.  </td>
 
@@ -41,7 +41,7 @@ SUBCHAPTER I—GENERAL PROVISIONS  </td>
 
   <tr>
 
-    <td> 1095.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft43%2Fs1095" data-uslm-ref="/us/usc/t43/s1095">1095.</a>  </td>
 
     <td> Reservations between sections for highway purposes.  </td>
 
@@ -49,7 +49,7 @@ SUBCHAPTER I—GENERAL PROVISIONS  </td>
 
   <tr>
 
-    <td> 1096 to 1098.   </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft43%2Fs1096" data-uslm-ref="/us/usc/t43/s1096">1096</a> to <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft43%2Fs1098" data-uslm-ref="/us/usc/t43/s1098">1098.</a>  </td>
 
     <td> Repealed.  </td>
 
@@ -57,7 +57,7 @@ SUBCHAPTER I—GENERAL PROVISIONS  </td>
 
   <tr>
 
-    <td> 1099.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft43%2Fs1099" data-uslm-ref="/us/usc/t43/s1099">1099.</a>  </td>
 
     <td> Division into counties before opening to settlement; reservation for county seats.  </td>
 
@@ -65,7 +65,9 @@ SUBCHAPTER I—GENERAL PROVISIONS  </td>
 
   <tr>
 
-    <td> 1100 to 1102g. Repealed.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft43%2Fs1100" data-uslm-ref="/us/usc/t43/s1100">1100</a> to <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft43%2Fs1102g" data-uslm-ref="/us/usc/t43/s1102g">1102g.</a>  </td>
+
+    <td> Repealed.  </td>
 
   </tr>
 
@@ -79,7 +81,9 @@ SUBCHAPTER II—TOWN SITES  </td>
 
   <tr>
 
-    <td> 1111 to 1119. Repealed.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft43%2Fs1111" data-uslm-ref="/us/usc/t43/s1111">1111</a> to <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft43%2Fs1119" data-uslm-ref="/us/usc/t43/s1119">1119.</a>  </td>
+
+    <td> Repealed.  </td>
 
   </tr>
 
@@ -93,7 +97,7 @@ SUBCHAPTER III—LANDS IN GREER COUNTY  </td>
 
   <tr>
 
-    <td> 1131 to 1134.   </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft43%2Fs1131" data-uslm-ref="/us/usc/t43/s1131">1131</a> to <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft43%2Fs1134" data-uslm-ref="/us/usc/t43/s1134">1134.</a>  </td>
 
     <td> Repealed.  </td>
 

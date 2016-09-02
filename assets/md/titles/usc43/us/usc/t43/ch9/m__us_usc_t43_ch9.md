@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 321.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft43%2Fs321" data-uslm-ref="/us/usc/t43/s321">321.</a>  </td>
 
     <td> Entry right generally; extent of right to appropriate waters.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 322.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft43%2Fs322" data-uslm-ref="/us/usc/t43/s322">322.</a>  </td>
 
     <td> Desert lands defined; question how determined.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 323.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft43%2Fs323" data-uslm-ref="/us/usc/t43/s323">323.</a>  </td>
 
     <td> Application to certain States.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 324.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft43%2Fs324" data-uslm-ref="/us/usc/t43/s324">324.</a>  </td>
 
     <td> Assignment of entries.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 325.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft43%2Fs325" data-uslm-ref="/us/usc/t43/s325">325.</a>  </td>
 
     <td> Resident citizenship of State as qualification for entry.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 326.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft43%2Fs326" data-uslm-ref="/us/usc/t43/s326">326.</a>  </td>
 
     <td> Unsurveyed lands not subject to entry; preferential right of entry after survey.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 327.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft43%2Fs327" data-uslm-ref="/us/usc/t43/s327">327.</a>  </td>
 
     <td> Filing irrigation plan; association of entrymen.  </td>
 
@@ -81,7 +81,7 @@
 
   <tr>
 
-    <td> 328.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft43%2Fs328" data-uslm-ref="/us/usc/t43/s328">328.</a>  </td>
 
     <td> Expenditures and cultivation requirements.  </td>
 
@@ -89,7 +89,7 @@
 
   <tr>
 
-    <td> 329.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft43%2Fs329" data-uslm-ref="/us/usc/t43/s329">329.</a>  </td>
 
     <td> Issue of patent on final proof; citizenship requirement as to patentee; limit as to amount of holding.  </td>
 
@@ -97,7 +97,7 @@
 
   <tr>
 
-    <td> 330.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft43%2Fs330" data-uslm-ref="/us/usc/t43/s330">330.</a>  </td>
 
     <td> Desert-land entry in addition to homestead entry.  </td>
 
@@ -105,7 +105,7 @@
 
   <tr>
 
-    <td> 331.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft43%2Fs331" data-uslm-ref="/us/usc/t43/s331">331.</a>  </td>
 
     <td> Reclamation requirements waived in favor of disabled soldiers, etc.  </td>
 
@@ -113,7 +113,7 @@
 
   <tr>
 
-    <td> 332.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft43%2Fs332" data-uslm-ref="/us/usc/t43/s332">332.</a>  </td>
 
     <td> Omitted.  </td>
 
@@ -121,7 +121,7 @@
 
   <tr>
 
-    <td> 333.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft43%2Fs333" data-uslm-ref="/us/usc/t43/s333">333.</a>  </td>
 
     <td> Extension of time for completion of irrigation works.  </td>
 
@@ -129,7 +129,7 @@
 
   <tr>
 
-    <td> 334.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft43%2Fs334" data-uslm-ref="/us/usc/t43/s334">334.</a>  </td>
 
     <td> Further extension of time for final proofs.  </td>
 
@@ -137,7 +137,7 @@
 
   <tr>
 
-    <td> 335.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft43%2Fs335" data-uslm-ref="/us/usc/t43/s335">335.</a>  </td>
 
     <td> Further extension in cases not covered by sections 333 and 334 of this title.  </td>
 
@@ -145,7 +145,7 @@
 
   <tr>
 
-    <td> 336.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft43%2Fs336" data-uslm-ref="/us/usc/t43/s336">336.</a>  </td>
 
     <td> Further extension in addition to that authorized by sections 333 to 335 of this title.  </td>
 
@@ -153,7 +153,7 @@
 
   <tr>
 
-    <td> 336a to 336d.   </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft43%2Fs336a" data-uslm-ref="/us/usc/t43/s336a">336a</a> to <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft43%2Fs336d" data-uslm-ref="/us/usc/t43/s336d">336d.</a>  </td>
 
     <td> Repealed or Omitted.  </td>
 
@@ -161,7 +161,7 @@
 
   <tr>
 
-    <td> 337.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft43%2Fs337" data-uslm-ref="/us/usc/t43/s337">337.</a>  </td>
 
     <td> Entry, after expenditures, perfected as homestead entry.  </td>
 
@@ -169,7 +169,7 @@
 
   <tr>
 
-    <td> 338.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft43%2Fs338" data-uslm-ref="/us/usc/t43/s338">338.</a>  </td>
 
     <td> Election to perfect entry; final proof.  </td>
 
@@ -177,7 +177,7 @@
 
   <tr>
 
-    <td> 339.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft43%2Fs339" data-uslm-ref="/us/usc/t43/s339">339.</a>  </td>
 
     <td> Perfection of title to entry; supplementary provisions to sections 335, 337, and 338.  </td>
 

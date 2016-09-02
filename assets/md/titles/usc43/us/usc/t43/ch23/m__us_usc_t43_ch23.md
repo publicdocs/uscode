@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 981.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft43%2Fs981" data-uslm-ref="/us/usc/t43/s981">981.</a>  </td>
 
     <td> Indemnity to States on sale of lands.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 982.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft43%2Fs982" data-uslm-ref="/us/usc/t43/s982">982.</a>  </td>
 
     <td> Grant to States to aid in construction of levees and drains.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 983.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft43%2Fs983" data-uslm-ref="/us/usc/t43/s983">983.</a>  </td>
 
     <td> Lists and plats of lands, for governors of States.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 984.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft43%2Fs984" data-uslm-ref="/us/usc/t43/s984">984.</a>  </td>
 
     <td> Legal subdivisions mostly wet and unfit for cultivation.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 985.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft43%2Fs985" data-uslm-ref="/us/usc/t43/s985">985.</a>  </td>
 
     <td> Omitted.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 986.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft43%2Fs986" data-uslm-ref="/us/usc/t43/s986">986.</a>  </td>
 
     <td> Selection of lands confirmed.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 987.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft43%2Fs987" data-uslm-ref="/us/usc/t43/s987">987.</a>  </td>
 
     <td> Lands to be certified to State within one year.  </td>
 
@@ -81,7 +81,7 @@
 
   <tr>
 
-    <td> 988.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft43%2Fs988" data-uslm-ref="/us/usc/t43/s988">988.</a>  </td>
 
     <td> Act extended to Minnesota and Oregon.  </td>
 
@@ -89,7 +89,7 @@
 
   <tr>
 
-    <td> 989.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft43%2Fs989" data-uslm-ref="/us/usc/t43/s989">989.</a>  </td>
 
     <td> Homestead entries by purchasers from Missouri of lands declared not to be swamp lands.  </td>
 
@@ -97,7 +97,7 @@
 
   <tr>
 
-    <td> 990.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft43%2Fs990" data-uslm-ref="/us/usc/t43/s990">990.</a>  </td>
 
     <td> Grant to Missouri.  </td>
 
@@ -105,7 +105,7 @@
 
   <tr>
 
-    <td> 991.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft43%2Fs991" data-uslm-ref="/us/usc/t43/s991">991.</a>  </td>
 
     <td> Title of purchasers of unconfirmed lands in Arkansas confirmed.  </td>
 
@@ -113,7 +113,7 @@
 
   <tr>
 
-    <td> 992.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft43%2Fs992" data-uslm-ref="/us/usc/t43/s992">992.</a>  </td>
 
     <td> Sale of erroneously designated water-covered areas in Arkansas.  </td>
 
@@ -121,7 +121,7 @@
 
   <tr>
 
-    <td> 993.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft43%2Fs993" data-uslm-ref="/us/usc/t43/s993">993.</a>  </td>
 
     <td> Sale of lands in Louisiana; preference rights; application for purchase; appraisal; payment for land.  </td>
 
@@ -129,7 +129,7 @@
 
   <tr>
 
-    <td> 994.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft43%2Fs994" data-uslm-ref="/us/usc/t43/s994">994.</a>  </td>
 
     <td> Sale of lands in Wisconsin.  </td>
 

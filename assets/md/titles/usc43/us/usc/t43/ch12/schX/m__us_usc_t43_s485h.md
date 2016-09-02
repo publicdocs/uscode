@@ -37,7 +37,49 @@
 
     (c) __Furnishing water to municipalities; sale of electric power; lease of power privileges__ 
 
-        The Secretary is authorized to enter into contracts to furnish water for municipal water supply or miscellaneous purposes: Provided, That any such contract either (1) shall require repayment to the United States, over a period of not to exceed forty years from the year in which water is first delivered for the use of the contracting party, with interest not exceeding the rate of 3½ per centum per annum if the Secretary determines an interest charge to be proper, of an appropriate share as determined by the Secretary of that part of the construction costs allocated by him to municipal water supply or other miscellaneous purposes; or (2) shall be for such periods, not to exceed forty years, and at such rates as in the Secretary’s judgment will produce revenues at least sufficient to cover an appropriate share of the annual operation and maintenance cost and an appropriate share of such fixed charges as the Secretary deems proper, and shall require the payment of said rates each year in advance of delivery of water for said year. Any sale of electric power or lease of power privileges, made by the Secretary in connection with the operation of any project or division of a project, shall be for such periods, not to exceed forty years, and at such rates as in his judgment will produce power revenues at least sufficient to cover an appropriate share of the annual operation and maintenance cost, interest on an appropriate share of the construction investment at not less than 3 per centum per annum, and such other fixed charges as the Secretary deems proper: Provided further, That in said sales or leases preference shall be given to municipalities and other public corporations or agencies; and also to cooperatives and other nonprofit organizations financed in whole or in part by loans made pursuant to the Rural Electrification Act of 1936 \[[7 U.S.C. 901][/us/usc/t7/s901] et seq.\]. Nothing in this subsection shall be applicable to provisions in existing contracts, made pursuant to law, for the use of power and miscellaneous revenues of a project for the benefit of users of water from such project. The provisions of this subsection respecting the terms of sales of electric power and leases of power privileges shall be in addition and alternative to any authority in existing laws relating to particular projects. No contract relating to municipal water supply or miscellaneous purposes or to electric power or power privileges shall be made unless, in the judgment of the Secretary, it will not impair the efficiency of the project for irrigation purposes.
+        (1) The Secretary is authorized to enter into contracts to furnish water for municipal water supply or miscellaneous purposes: Provided, That any such contract either (A) shall require repayment to the United States, over a period of not to exceed forty years from the year in which water is first delivered for the use of the contracting party, with interest not exceeding the rate of 3½ per centum per annum if the Secretary determines an interest charge to be proper, of an appropriate share as determined by the Secretary of that part of the construction costs allocated by him to municipal water supply or other miscellaneous purposes; or (B) shall be for such periods, not to exceed forty years, and at such rates as in the Secretary’s judgment will produce revenues at least sufficient to cover an appropriate share of the annual operation and maintenance cost and an appropriate share of such fixed charges as the Secretary deems proper, and shall require the payment of said rates each year in advance of delivery of water for said year. Any sale of electric power or lease of power privileges, made by the Secretary in connection with the operation of any project or division of a project, shall be for such periods, not to exceed forty years, and at such rates as in his judgment will produce power revenues at least sufficient to cover an appropriate share of the annual operation and maintenance cost, interest on an appropriate share of the construction investment at not less than 3 per centum per annum, and such other fixed charges as the Secretary deems proper: Provided further, That in said sales or leases preference shall be given to municipalities and other public corporations or agencies; and also to cooperatives and other nonprofit organizations financed in whole or in part by loans made pursuant to the Rural Electrification Act of 1936 \[[7 U.S.C. 901][/us/usc/t7/s901] et seq.\]. Nothing in this subsection shall be applicable to provisions in existing contracts, made pursuant to law, for the use of power and miscellaneous revenues of a project for the benefit of users of water from such project. The provisions of this subsection respecting the sales of electric power and leases of power privileges shall be an authorization in addition to and alternative to any authority in existing laws related to particular projects, including small conduit hydropower development. No contract relating to municipal water supply or miscellaneous purposes or to electric power or power privileges shall be made unless, in the judgment of the Secretary, it will not impair the efficiency of the project for irrigation purposes.
+
+        (2)
+
+            (A) When carrying out this subsection, the Secretary shall first offer the lease of power privilege to an irrigation district or water users association operating the applicable transferred conduit, or to the irrigation district or water users association receiving water from the applicable reserved conduit. The Secretary shall determine a reasonable time frame for the irrigation district or water users association to accept or reject a lease of power privilege offer for a small conduit hydropower project.
+
+            (B) If the irrigation district or water users association elects not accept  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be preceded by “to”. </sup></sup>  a lease of power privilege offer under subparagraph (A), the Secretary shall offer the lease of power privilege to other parties in accordance with this subsection.
+
+        (3) The Bureau of Reclamation shall apply its categorical exclusion process under the National Environmental Policy Act of 1969 ([42 U.S.C. 4321][/us/usc/t42/s4321] et seq.) to small conduit hydropower development under this subsection, excluding siting of associated transmission facilities on Federal lands.
+
+        (4) The Power Resources Office of the Bureau of Reclamation shall be the lead office of small conduit hydropower policy and procedure-setting activities conducted under this subsection.
+
+        (5) Nothing in this subsection shall obligate the Western Area Power Administration, the Bonneville Power Administration, or the Southwestern Power Administration to purchase or market any of the power produced by the facilities covered under this subsection and none of the costs associated with production or delivery of such power shall be assigned to project purposes for inclusion in project rates.
+
+        (6) Nothing in this subsection shall alter or impede the delivery and management of water by Bureau of Reclamation facilities, as water used for conduit hydropower generation shall be deemed incidental to use of water for the original project purposes. Lease of power privilege shall be made only when, in the judgment of the Secretary, the exercise of the lease will not be incompatible with the purposes of the project or division involved, nor shall it create any unmitigated financial or physical impacts to the project or division involved. The Secretary shall notify and consult with the irrigation district or water users association operating the transferred conduit before offering the lease of power privilege and shall prescribe terms and conditions that will adequately protect the planning, design, construction, operation, maintenance, and other interests of the United States and the project or division involved.
+
+        (7) Nothing in this subsection shall alter or affect any existing agreements for the development of conduit hydropower projects or disposition of revenues.
+
+        (8) Nothing in this subsection shall alter or affect any existing preliminary permit, license, or exemption issued by the Federal Energy Regulatory Commission under Part I of the Federal Power Act ([16 U.S.C. 792][/us/usc/t16/s792] et seq.) or any project for which an application has been filed with the Federal Energy Regulatory Commission as of August 9, 2013.
+
+        (9)
+
+         In this subsection:
+
+            (A) __Conduit.—__ 
+
+            The term “conduit” means any Bureau of Reclamation tunnel, canal, pipeline, aqueduct, flume, ditch, or similar manmade water conveyance that is operated for the distribution of water for agricultural, municipal, or industrial consumption and not primarily for the generation of electricity.
+
+            (B) __Irrigation district.—__ 
+
+            The term “irrigation district” means any irrigation, water conservation or conservancy, multicounty water conservation or conservancy district, or any separate public entity composed of two or more such districts and jointly exercising powers of its member districts.
+
+            (C) __Reserved conduit.—__ 
+
+            The term “reserved conduit” means any conduit that is included in project works the care, operation, and maintenance of which has been reserved by the Secretary, through the Commissioner of the Bureau of Reclamation.
+
+            (D) __Transferred conduit.—__ 
+
+            The term “transferred conduit” means any conduit that is included in project works the care, operation, and maintenance of which has been transferred to a legally organized water users association or irrigation district.
+
+            (E) __Small conduit hydropower.—__ 
+
+            The term “small conduit hydropower” means a facility capable of producing 5 megawatts or less of electric capacity.
 
     (d) __Delivery of water for irrigation; repayment contract prerequisites__ 
 
@@ -63,15 +105,21 @@
 
         (2) provide an opportunity for submission of written data, views and arguments, and shall consider all substantive comments so received.
 
-([Aug. 4, 1939, ch. 418, § 9][/us/act/1939-08-04/ch418/s9], [53 Stat. 1193][/us/stat/53/1193]; [July 26, 1947, ch. 343][/us/act/1947-07-26/ch343], title II, § 205(a), [61 Stat. 501][/us/stat/61/501]; [Pub. L. 85–611][/us/pl/85/611], §§ 1, 3, Aug. 8, 1958, [72 Stat. 542][/us/stat/72/542], 543; [Pub. L. 87–613, § 2][/us/pl/87/613/s2], Aug. 28, 1962, [76 Stat. 407][/us/stat/76/407]; [Pub. L. 97–293, title II, § 226][/us/pl/97/293/s226], Oct. 12, 1982, [96 Stat. 1273][/us/stat/96/1273].)
+([Aug. 4, 1939, ch. 418, § 9][/us/act/1939-08-04/ch418/s9], [53 Stat. 1193][/us/stat/53/1193]; [July 26, 1947, ch. 343][/us/act/1947-07-26/ch343], title II, § 205(a), [61 Stat. 501][/us/stat/61/501]; [Pub. L. 85–611][/us/pl/85/611], §§ 1, 3, Aug. 8, 1958, [72 Stat. 542][/us/stat/72/542], 543; [Pub. L. 87–613, § 2][/us/pl/87/613/s2], Aug. 28, 1962, [76 Stat. 407][/us/stat/76/407]; [Pub. L. 97–293, title II, § 226][/us/pl/97/293/s226], Oct. 12, 1982, [96 Stat. 1273][/us/stat/96/1273]; [Pub. L. 113–24, § 2][/us/pl/113/24/s2], Aug. 9, 2013, [127 Stat. 498][/us/stat/127/498].)
 
  __References in Text__ 
 
-    The Rural Electrification Act of 1936, referred to in subsec. (c), is [act May 20, 1936, ch. 432][/us/act/1936-05-20/ch432], [49 Stat. 1363][/us/stat/49/1363], as amended, which is classified generally to chapter 31 (§ 901 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see [section 901 of Title 7][/us/usc/t7/s901] and Tables.
+    The Rural Electrification Act of 1936, referred to in subsec. (c)(1), is [act May 20, 1936, ch. 432][/us/act/1936-05-20/ch432], [49 Stat. 1363][/us/stat/49/1363], as amended, which is classified generally to chapter 31 (§ 901 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see [section 901 of Title 7][/us/usc/t7/s901] and Tables.
+
+    The National Environmental Policy Act of 1969, referred to in subsec. (c)(3), is [Pub. L. 91–190][/us/pl/91/190], Jan. 1, 1970, [83 Stat. 852][/us/stat/83/852], which is classified generally to chapter 55 (§ 4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 4321 of Title 42][/us/usc/t42/s4321] and Tables.
+
+    The Federal Power Act, referred to in subsec. (c)(8), is [act June 10, 1920, ch. 285][/us/act/1920-06-10/ch285], [41 Stat. 1063][/us/stat/41/1063]. Part I of the Act is classified generally to subchapter I (§ 791a et seq.) of chapter 12 of Title 16, Conservation. For complete classification of this Act to the Code, see [section 791a of Title 16][/us/usc/t16/s791a] and Tables.
 
     Act of September 21, 1959, referred to in subsec. (d)(1), is [Pub. L. 86–308][/us/pl/86/308], Sept. 21, 1959, [73 Stat. 584][/us/stat/73/584], which amended [section 485b–1 of this title][/us/usc/t43/s485b–1], enacted provisions set out as a note under [section 485b–1 of this title][/us/usc/t43/s485b–1], and amended provisions set out as a note under [section 485b of this title][/us/usc/t43/s485b]. For complete classification of this Act to the Code, see Tables.
 
  __Amendments__ 
+
+    2013—Subsec. (c). [Pub. L. 113–24][/us/pl/113/24] designated existing provisions as par. (1) and redesignated former pars. (1) and (2) as subpars. (A) and (B), respectively, of par. (1), substituted “respecting the sales of electric power and leases of power privileges shall be an authorization in addition to and alternative to any authority in existing laws related to particular projects, including small conduit hydropower development” for “respecting the terms of sales of electric power and leases of power privileges shall be in addition and alternative to any authority in existing laws relating to particular projects”, and added pars. (2) to (9).
 
     1982—Subsec. (f). [Pub. L. 97–293][/us/pl/97/293] added subsec. (f).
 
@@ -115,6 +163,8 @@
 ----------
 
 [/us/usc/t7/s901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs901
+[/us/usc/t42/s4321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4321
+[/us/usc/t16/s792]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs792
 [/us/stat/73/584]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F73%2F584
 [/us/act/1939-08-04/ch418/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1939-08-04%2Fch418%2Fs9
 [/us/stat/53/1193]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F53%2F1193
@@ -126,14 +176,23 @@
 [/us/stat/76/407]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F407
 [/us/pl/97/293/s226]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F293%2Fs226
 [/us/stat/96/1273]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1273
+[/us/pl/113/24/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F24%2Fs2
+[/us/stat/127/498]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F498
 [/us/act/1936-05-20/ch432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1936-05-20%2Fch432
 [/us/stat/49/1363]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F1363
 [/us/usc/t7/s901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs901
+[/us/pl/91/190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F190
+[/us/stat/83/852]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F83%2F852
+[/us/usc/t42/s4321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4321
+[/us/act/1920-06-10/ch285]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1920-06-10%2Fch285
+[/us/stat/41/1063]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F41%2F1063
+[/us/usc/t16/s791a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs791a
 [/us/pl/86/308]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F308
 [/us/stat/73/584]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F73%2F584
 [/us/usc/t43/s485b–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs485b%E2%80%931
 [/us/usc/t43/s485b–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs485b%E2%80%931
 [/us/usc/t43/s485b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs485b
+[/us/pl/113/24]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F24
 [/us/pl/97/293]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F293
 [/us/pl/87/613]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F613
 [/us/pl/85/611/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F611%2Fs1

@@ -33,7 +33,7 @@ SUBCHAPTER I—BOULDER CANYON PROJECT ACT  </td>
 
   <tr>
 
-    <td> 617.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft43%2Fs617" data-uslm-ref="/us/usc/t43/s617">617.</a>  </td>
 
     <td> Colorado River Basin; protection and development; dam, reservoir, and incidental works; water, water power, and electrical energy; eminent domain.  </td>
 
@@ -41,7 +41,7 @@ SUBCHAPTER I—BOULDER CANYON PROJECT ACT  </td>
 
   <tr>
 
-    <td> 617a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft43%2Fs617a" data-uslm-ref="/us/usc/t43/s617a">617a.</a>  </td>
 
     <td> “Colorado River Dam Fund”.  </td>
 
@@ -49,7 +49,7 @@ SUBCHAPTER I—BOULDER CANYON PROJECT ACT  </td>
 
   <tr>
 
-    <td> 617b.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft43%2Fs617b" data-uslm-ref="/us/usc/t43/s617b">617b.</a>  </td>
 
     <td> Authorization of appropriations.  </td>
 
@@ -57,7 +57,7 @@ SUBCHAPTER I—BOULDER CANYON PROJECT ACT  </td>
 
   <tr>
 
-    <td> 617c.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft43%2Fs617c" data-uslm-ref="/us/usc/t43/s617c">617c.</a>  </td>
 
     <td> Condition precedent to taking effect of provisions.  </td>
 
@@ -65,7 +65,7 @@ SUBCHAPTER I—BOULDER CANYON PROJECT ACT  </td>
 
   <tr>
 
-    <td> 617d.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft43%2Fs617d" data-uslm-ref="/us/usc/t43/s617d">617d.</a>  </td>
 
     <td> Contracts for storage and use of waters for irrigation and domestic purposes; generation and sale of electrical energy.  </td>
 
@@ -73,7 +73,7 @@ SUBCHAPTER I—BOULDER CANYON PROJECT ACT  </td>
 
   <tr>
 
-    <td> 617e.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft43%2Fs617e" data-uslm-ref="/us/usc/t43/s617e">617e.</a>  </td>
 
     <td> Uses to be made of dam and reservoir; title in whom; leases, regulations; limitation on authority.  </td>
 
@@ -81,7 +81,7 @@ SUBCHAPTER I—BOULDER CANYON PROJECT ACT  </td>
 
   <tr>
 
-    <td> 617f.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft43%2Fs617f" data-uslm-ref="/us/usc/t43/s617f">617f.</a>  </td>
 
     <td> Canals and appurtenant structures; transfer of title; power development.  </td>
 
@@ -89,7 +89,7 @@ SUBCHAPTER I—BOULDER CANYON PROJECT ACT  </td>
 
   <tr>
 
-    <td> 617g.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft43%2Fs617g" data-uslm-ref="/us/usc/t43/s617g">617g.</a>  </td>
 
     <td> Colorado River compact as controlling authority in construction and maintenance of dam, reservoir, canals, and other works.  </td>
 
@@ -97,7 +97,7 @@ SUBCHAPTER I—BOULDER CANYON PROJECT ACT  </td>
 
   <tr>
 
-    <td> 617h.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft43%2Fs617h" data-uslm-ref="/us/usc/t43/s617h">617h.</a>  </td>
 
     <td> Lands capable of irrigation and reclamation by irrigation works; public entry; preferences.  </td>
 
@@ -105,7 +105,7 @@ SUBCHAPTER I—BOULDER CANYON PROJECT ACT  </td>
 
   <tr>
 
-    <td> 617i.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft43%2Fs617i" data-uslm-ref="/us/usc/t43/s617i">617i.</a>  </td>
 
     <td> Modification of existing compact relating to Laguna Dam.  </td>
 
@@ -113,7 +113,7 @@ SUBCHAPTER I—BOULDER CANYON PROJECT ACT  </td>
 
   <tr>
 
-    <td> 617j.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft43%2Fs617j" data-uslm-ref="/us/usc/t43/s617j">617j.</a>  </td>
 
     <td> Omitted.  </td>
 
@@ -121,7 +121,7 @@ SUBCHAPTER I—BOULDER CANYON PROJECT ACT  </td>
 
   <tr>
 
-    <td> 617k.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft43%2Fs617k" data-uslm-ref="/us/usc/t43/s617k">617k.</a>  </td>
 
     <td> Definitions.  </td>
 
@@ -129,7 +129,7 @@ SUBCHAPTER I—BOULDER CANYON PROJECT ACT  </td>
 
   <tr>
 
-    <td> 617l.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft43%2Fs617" data-uslm-ref="/us/usc/t43/s617">617</a>l.  </td>
 
     <td> Colorado River compact approval.  </td>
 
@@ -137,7 +137,7 @@ SUBCHAPTER I—BOULDER CANYON PROJECT ACT  </td>
 
   <tr>
 
-    <td> 617m.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft43%2Fs617m" data-uslm-ref="/us/usc/t43/s617m">617m.</a>  </td>
 
     <td> Reclamation law applicable.  </td>
 
@@ -145,7 +145,7 @@ SUBCHAPTER I—BOULDER CANYON PROJECT ACT  </td>
 
   <tr>
 
-    <td> 617n.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft43%2Fs617n" data-uslm-ref="/us/usc/t43/s617n">617n.</a>  </td>
 
     <td> Projects for irrigation, generation of electric power, and other purposes; investigations and reports.  </td>
 
@@ -153,7 +153,7 @@ SUBCHAPTER I—BOULDER CANYON PROJECT ACT  </td>
 
   <tr>
 
-    <td> 617o.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft43%2Fs617" data-uslm-ref="/us/usc/t43/s617">617</a>o.  </td>
 
     <td> Officials of ratifying States; authority to act in advisory capacity; access to records.  </td>
 
@@ -161,7 +161,7 @@ SUBCHAPTER I—BOULDER CANYON PROJECT ACT  </td>
 
   <tr>
 
-    <td> 617p.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft43%2Fs617p" data-uslm-ref="/us/usc/t43/s617p">617p.</a>  </td>
 
     <td> Claims of United States; priority.  </td>
 
@@ -169,7 +169,7 @@ SUBCHAPTER I—BOULDER CANYON PROJECT ACT  </td>
 
   <tr>
 
-    <td> 617q.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft43%2Fs617q" data-uslm-ref="/us/usc/t43/s617q">617q.</a>  </td>
 
     <td> Effect on authority of States to control waters within own borders.  </td>
 
@@ -177,7 +177,7 @@ SUBCHAPTER I—BOULDER CANYON PROJECT ACT  </td>
 
   <tr>
 
-    <td> 617r.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft43%2Fs617r" data-uslm-ref="/us/usc/t43/s617r">617r.</a>  </td>
 
     <td> Consent given States to negotiate supplemental compacts for development of Colorado River.  </td>
 
@@ -185,7 +185,7 @@ SUBCHAPTER I—BOULDER CANYON PROJECT ACT  </td>
 
   <tr>
 
-    <td> 617s.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft43%2Fs617s" data-uslm-ref="/us/usc/t43/s617s">617s.</a>  </td>
 
     <td> Recognition of rights of Mexico to Colorado River waters.  </td>
 
@@ -193,7 +193,7 @@ SUBCHAPTER I—BOULDER CANYON PROJECT ACT  </td>
 
   <tr>
 
-    <td> 617t.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft43%2Fs617t" data-uslm-ref="/us/usc/t43/s617t">617t.</a>  </td>
 
     <td> Short title.  </td>
 
@@ -201,7 +201,7 @@ SUBCHAPTER I—BOULDER CANYON PROJECT ACT  </td>
 
   <tr>
 
-    <td> 617u.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft43%2Fs617u" data-uslm-ref="/us/usc/t43/s617u">617u.</a>  </td>
 
     <td> Lease of reserved lands in Boulder City, Nevada; disposition of revenues.  </td>
 
@@ -209,7 +209,7 @@ SUBCHAPTER I—BOULDER CANYON PROJECT ACT  </td>
 
   <tr>
 
-    <td> 617v.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft43%2Fs617v" data-uslm-ref="/us/usc/t43/s617v">617v.</a>  </td>
 
     <td> Repealed.  </td>
 
@@ -225,7 +225,7 @@ SUBCHAPTER II—BOULDER CANYON PROJECT ADJUSTMENT ACT  </td>
 
   <tr>
 
-    <td> 618.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft43%2Fs618" data-uslm-ref="/us/usc/t43/s618">618.</a>  </td>
 
     <td> Promulgation of charges for electrical energy.  </td>
 
@@ -233,7 +233,7 @@ SUBCHAPTER II—BOULDER CANYON PROJECT ADJUSTMENT ACT  </td>
 
   <tr>
 
-    <td> 618a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft43%2Fs618a" data-uslm-ref="/us/usc/t43/s618a">618a.</a>  </td>
 
     <td> Receipts from project; disposition.  </td>
 
@@ -241,7 +241,7 @@ SUBCHAPTER II—BOULDER CANYON PROJECT ADJUSTMENT ACT  </td>
 
   <tr>
 
-    <td> 618a–1.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft43%2Fs618a%E2%80%931" data-uslm-ref="/us/usc/t43/s618a–1">618a–1.</a>  </td>
 
     <td> Availability of Colorado River Development Fund for investigation and construction purposes.  </td>
 
@@ -249,7 +249,7 @@ SUBCHAPTER II—BOULDER CANYON PROJECT ADJUSTMENT ACT  </td>
 
   <tr>
 
-    <td> 618b.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft43%2Fs618b" data-uslm-ref="/us/usc/t43/s618b">618b.</a>  </td>
 
     <td> Reduction of payments and transfers where revenue is insufficient.  </td>
 
@@ -257,7 +257,7 @@ SUBCHAPTER II—BOULDER CANYON PROJECT ADJUSTMENT ACT  </td>
 
   <tr>
 
-    <td> 618c.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft43%2Fs618c" data-uslm-ref="/us/usc/t43/s618c">618c.</a>  </td>
 
     <td> Charges as retroactive; adjustment of accounts.  </td>
 
@@ -265,7 +265,7 @@ SUBCHAPTER II—BOULDER CANYON PROJECT ADJUSTMENT ACT  </td>
 
   <tr>
 
-    <td> 618d.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft43%2Fs618d" data-uslm-ref="/us/usc/t43/s618d">618d.</a>  </td>
 
     <td> Readvances from Treasury where Dam Fund is insufficient to meet cost of replacements.  </td>
 
@@ -273,7 +273,7 @@ SUBCHAPTER II—BOULDER CANYON PROJECT ADJUSTMENT ACT  </td>
 
   <tr>
 
-    <td> 618e.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft43%2Fs618e" data-uslm-ref="/us/usc/t43/s618e">618e.</a>  </td>
 
     <td> Interest payments; rate.  </td>
 
@@ -281,7 +281,7 @@ SUBCHAPTER II—BOULDER CANYON PROJECT ADJUSTMENT ACT  </td>
 
   <tr>
 
-    <td> 618f.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft43%2Fs618f" data-uslm-ref="/us/usc/t43/s618f">618f.</a>  </td>
 
     <td> Repayment of advances for flood control.  </td>
 
@@ -289,7 +289,7 @@ SUBCHAPTER II—BOULDER CANYON PROJECT ADJUSTMENT ACT  </td>
 
   <tr>
 
-    <td> 618g.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft43%2Fs618g" data-uslm-ref="/us/usc/t43/s618g">618g.</a>  </td>
 
     <td> Regulations; contracts; modification of allotments of energy.  </td>
 
@@ -297,7 +297,7 @@ SUBCHAPTER II—BOULDER CANYON PROJECT ADJUSTMENT ACT  </td>
 
   <tr>
 
-    <td> 618h.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft43%2Fs618h" data-uslm-ref="/us/usc/t43/s618h">618h.</a>  </td>
 
     <td> Termination of existing lease of Hoover Power Plant; lessees as agents of United States; termination of agency.  </td>
 
@@ -305,7 +305,7 @@ SUBCHAPTER II—BOULDER CANYON PROJECT ADJUSTMENT ACT  </td>
 
   <tr>
 
-    <td> 618i.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft43%2Fs618i" data-uslm-ref="/us/usc/t43/s618i">618i.</a>  </td>
 
     <td> Effective date.  </td>
 
@@ -313,7 +313,7 @@ SUBCHAPTER II—BOULDER CANYON PROJECT ADJUSTMENT ACT  </td>
 
   <tr>
 
-    <td> 618j.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft43%2Fs618j" data-uslm-ref="/us/usc/t43/s618j">618j.</a>  </td>
 
     <td> Effect of refusal to modify existing contracts.  </td>
 
@@ -321,7 +321,7 @@ SUBCHAPTER II—BOULDER CANYON PROJECT ADJUSTMENT ACT  </td>
 
   <tr>
 
-    <td> 618k.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft43%2Fs618k" data-uslm-ref="/us/usc/t43/s618k">618k.</a>  </td>
 
     <td> Definitions.  </td>
 
@@ -329,7 +329,7 @@ SUBCHAPTER II—BOULDER CANYON PROJECT ADJUSTMENT ACT  </td>
 
   <tr>
 
-    <td> 618l.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft43%2Fs618" data-uslm-ref="/us/usc/t43/s618">618</a>l.  </td>
 
     <td> Repealed.  </td>
 
@@ -337,7 +337,7 @@ SUBCHAPTER II—BOULDER CANYON PROJECT ADJUSTMENT ACT  </td>
 
   <tr>
 
-    <td> 618m.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft43%2Fs618m" data-uslm-ref="/us/usc/t43/s618m">618m.</a>  </td>
 
     <td> Effect on existing laws and States’ rights.  </td>
 
@@ -345,7 +345,7 @@ SUBCHAPTER II—BOULDER CANYON PROJECT ADJUSTMENT ACT  </td>
 
   <tr>
 
-    <td> 618n.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft43%2Fs618n" data-uslm-ref="/us/usc/t43/s618n">618n.</a>  </td>
 
     <td> Wages of employees.  </td>
 
@@ -353,7 +353,7 @@ SUBCHAPTER II—BOULDER CANYON PROJECT ADJUSTMENT ACT  </td>
 
   <tr>
 
-    <td> 618o.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft43%2Fs618" data-uslm-ref="/us/usc/t43/s618">618</a>o.  </td>
 
     <td> Short title.  </td>
 
@@ -361,7 +361,7 @@ SUBCHAPTER II—BOULDER CANYON PROJECT ADJUSTMENT ACT  </td>
 
   <tr>
 
-    <td> 618p.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft43%2Fs618p" data-uslm-ref="/us/usc/t43/s618p">618p.</a>  </td>
 
     <td> Omitted.  </td>
 
@@ -377,7 +377,7 @@ SUBCHAPTER III—HOOVER DAM CONTRACTS AND FACILITIES  </td>
 
   <tr>
 
-    <td> 619.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft43%2Fs619" data-uslm-ref="/us/usc/t43/s619">619.</a>  </td>
 
     <td> Increase in capacity of existing generating equipment at Hoover Powerplant; construction of Colorado River bridge crossing.  </td>
 
@@ -385,7 +385,7 @@ SUBCHAPTER III—HOOVER DAM CONTRACTS AND FACILITIES  </td>
 
   <tr>
 
-    <td> 619a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft43%2Fs619a" data-uslm-ref="/us/usc/t43/s619a">619a.</a>  </td>
 
     <td> Renewal contracts for power.  </td>
 
@@ -393,7 +393,7 @@ SUBCHAPTER III—HOOVER DAM CONTRACTS AND FACILITIES  </td>
 
   <tr>
 
-    <td> 619b.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft43%2Fs619b" data-uslm-ref="/us/usc/t43/s619b">619b.</a>  </td>
 
     <td> Reimbursement of funds advanced by non-Federal purchasers; uprating program; repayment requirement; visitor facilities program.  </td>
 

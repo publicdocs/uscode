@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 364.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft43%2Fs364" data-uslm-ref="/us/usc/t43/s364">364.</a>  </td>
 
     <td> Uniformity in geographic nomenclature and orthography; exercise of functions of Secretary of the Interior.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 364a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft43%2Fs364a" data-uslm-ref="/us/usc/t43/s364a">364a.</a>  </td>
 
     <td> Board on Geographic Names; establishment and membership; appointment and term of office.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 364b.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft43%2Fs364b" data-uslm-ref="/us/usc/t43/s364b">364b.</a>  </td>
 
     <td> Formulation of principles, policies and procedures; action by Secretary; recommendations of Board.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 364c.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft43%2Fs364c" data-uslm-ref="/us/usc/t43/s364c">364c.</a>  </td>
 
     <td> Studies, investigations, and records; staff assistance; advisory committees.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 364d.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft43%2Fs364d" data-uslm-ref="/us/usc/t43/s364d">364d.</a>  </td>
 
     <td> Promulgation of decisions; furnishing information.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 364e.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft43%2Fs364e" data-uslm-ref="/us/usc/t43/s364e">364e.</a>  </td>
 
     <td> Standardization of geographic names; abolition of United States Board on Geographical Names in Department of the Interior; transfer of duties.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 364f.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft43%2Fs364f" data-uslm-ref="/us/usc/t43/s364f">364f.</a>  </td>
 
     <td> Application to naming of offices or establishments.  </td>
 

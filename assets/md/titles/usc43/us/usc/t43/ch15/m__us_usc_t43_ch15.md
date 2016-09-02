@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 661.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft43%2Fs661" data-uslm-ref="/us/usc/t43/s661">661.</a>  </td>
 
     <td> Appropriation of waters on public lands; rights of way for canals and ditches.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 662.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft43%2Fs662" data-uslm-ref="/us/usc/t43/s662">662.</a>  </td>
 
     <td> Reservation of reservoir sites generally.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 663.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft43%2Fs663" data-uslm-ref="/us/usc/t43/s663">663.</a>  </td>
 
     <td> Restriction of sites to inclusion of necessary lands.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 664.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft43%2Fs664" data-uslm-ref="/us/usc/t43/s664">664.</a>  </td>
 
     <td> Rights of way over reservoir sites generally.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 665.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft43%2Fs665" data-uslm-ref="/us/usc/t43/s665">665.</a>  </td>
 
     <td> Rights of way over reservoir sites for wagon road, railroad, or other highway.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 666.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft43%2Fs666" data-uslm-ref="/us/usc/t43/s666">666.</a>  </td>
 
     <td> Suits for adjudication of water rights.  </td>
 

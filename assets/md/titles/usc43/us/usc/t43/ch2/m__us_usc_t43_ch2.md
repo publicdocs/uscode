@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 31.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft43%2Fs31" data-uslm-ref="/us/usc/t43/s31">31.</a>  </td>
 
     <td> Director of United States Geological Survey.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 31a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft43%2Fs31a" data-uslm-ref="/us/usc/t43/s31a">31a.</a>  </td>
 
     <td> Findings and purpose.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 31b.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft43%2Fs31b" data-uslm-ref="/us/usc/t43/s31b">31b.</a>  </td>
 
     <td> Definitions.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 31c.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft43%2Fs31c" data-uslm-ref="/us/usc/t43/s31c">31c.</a>  </td>
 
     <td> Geologic mapping program.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 31d.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft43%2Fs31d" data-uslm-ref="/us/usc/t43/s31d">31d.</a>  </td>
 
     <td> Advisory committee.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 31e.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft43%2Fs31e" data-uslm-ref="/us/usc/t43/s31e">31e.</a>  </td>
 
     <td> Geologic mapping program 5-year plan.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 31f.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft43%2Fs31f" data-uslm-ref="/us/usc/t43/s31f">31f.</a>  </td>
 
     <td> National geologic map database.  </td>
 
@@ -81,7 +81,7 @@
 
   <tr>
 
-    <td> 31g.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft43%2Fs31g" data-uslm-ref="/us/usc/t43/s31g">31g.</a>  </td>
 
     <td> Biennial report.  </td>
 
@@ -89,7 +89,7 @@
 
   <tr>
 
-    <td> 31h.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft43%2Fs31h" data-uslm-ref="/us/usc/t43/s31h">31h.</a>  </td>
 
     <td> Authorization of appropriations.  </td>
 
@@ -97,7 +97,7 @@
 
   <tr>
 
-    <td> 31i.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft43%2Fs31i" data-uslm-ref="/us/usc/t43/s31i">31i.</a>  </td>
 
     <td> Report on resource research activities.  </td>
 
@@ -105,7 +105,7 @@
 
   <tr>
 
-    <td> 31j.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft43%2Fs31j" data-uslm-ref="/us/usc/t43/s31j">31j.</a>  </td>
 
     <td> Biological research activity of Survey; review and report by National Academy of Sciences.  </td>
 
@@ -113,7 +113,7 @@
 
   <tr>
 
-    <td> 32.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft43%2Fs32" data-uslm-ref="/us/usc/t43/s32">32.</a>  </td>
 
     <td> Acting Director.  </td>
 
@@ -121,7 +121,7 @@
 
   <tr>
 
-    <td> 33.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft43%2Fs33" data-uslm-ref="/us/usc/t43/s33">33.</a>  </td>
 
     <td> Repealed.  </td>
 
@@ -129,7 +129,7 @@
 
   <tr>
 
-    <td> 34.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft43%2Fs34" data-uslm-ref="/us/usc/t43/s34">34.</a>  </td>
 
     <td> Scientific employees.  </td>
 
@@ -137,7 +137,7 @@
 
   <tr>
 
-    <td> 35.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft43%2Fs35" data-uslm-ref="/us/usc/t43/s35">35.</a>  </td>
 
     <td> Repealed.  </td>
 
@@ -145,7 +145,7 @@
 
   <tr>
 
-    <td> 36.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft43%2Fs36" data-uslm-ref="/us/usc/t43/s36">36.</a>  </td>
 
     <td> Purchase of books.  </td>
 
@@ -153,7 +153,7 @@
 
   <tr>
 
-    <td> 36a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft43%2Fs36a" data-uslm-ref="/us/usc/t43/s36a">36a.</a>  </td>
 
     <td> Acquisition of scientific or technical books, maps, etc., for library.  </td>
 
@@ -161,7 +161,7 @@
 
   <tr>
 
-    <td> 36b.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft43%2Fs36b" data-uslm-ref="/us/usc/t43/s36b">36b.</a>  </td>
 
     <td> Acquisition of lands or interests therein for use in gaging streams or underground water resources.  </td>
 
@@ -169,7 +169,7 @@
 
   <tr>
 
-    <td> 36c.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft43%2Fs36c" data-uslm-ref="/us/usc/t43/s36c">36c.</a>  </td>
 
     <td> Acceptance of contributions from public and private sources; cooperation with other agencies in prosecution of projects.  </td>
 
@@ -177,7 +177,7 @@
 
   <tr>
 
-    <td> 36d.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft43%2Fs36d" data-uslm-ref="/us/usc/t43/s36d">36d.</a>  </td>
 
     <td> Cooperative agreements.  </td>
 
@@ -185,7 +185,7 @@
 
   <tr>
 
-    <td> 37.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft43%2Fs37" data-uslm-ref="/us/usc/t43/s37">37.</a>  </td>
 
     <td> Omitted.  </td>
 
@@ -193,7 +193,7 @@
 
   <tr>
 
-    <td> 38.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft43%2Fs38" data-uslm-ref="/us/usc/t43/s38">38.</a>  </td>
 
     <td> Topographic surveys; marking elevations.  </td>
 
@@ -201,7 +201,7 @@
 
   <tr>
 
-    <td> 39, 40.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft43%2Fs39" data-uslm-ref="/us/usc/t43/s39">39</a>, <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft43%2Fs40" data-uslm-ref="/us/usc/t43/s40">40.</a>  </td>
 
     <td> Omitted.  </td>
 
@@ -209,7 +209,7 @@
 
   <tr>
 
-    <td> 41.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft43%2Fs41" data-uslm-ref="/us/usc/t43/s41">41.</a>  </td>
 
     <td> Publications and reports; preparation and sale.  </td>
 
@@ -217,7 +217,7 @@
 
   <tr>
 
-    <td> 42.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft43%2Fs42" data-uslm-ref="/us/usc/t43/s42">42.</a>  </td>
 
     <td> Distribution of maps and atlases, etc.  </td>
 
@@ -225,7 +225,7 @@
 
   <tr>
 
-    <td> 42a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft43%2Fs42a" data-uslm-ref="/us/usc/t43/s42a">42a.</a>  </td>
 
     <td> Use of receipts from sale of maps for map printing and distribution.  </td>
 
@@ -233,7 +233,7 @@
 
   <tr>
 
-    <td> 43.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft43%2Fs43" data-uslm-ref="/us/usc/t43/s43">43.</a>  </td>
 
     <td> Copies to Senators, Representatives, and Delegates.  </td>
 
@@ -241,7 +241,7 @@
 
   <tr>
 
-    <td> 44.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft43%2Fs44" data-uslm-ref="/us/usc/t43/s44">44.</a>  </td>
 
     <td> Sale of transfers or copies of data.  </td>
 
@@ -249,7 +249,7 @@
 
   <tr>
 
-    <td> 45.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft43%2Fs45" data-uslm-ref="/us/usc/t43/s45">45.</a>  </td>
 
     <td> Production and sale of copies of photographs and records; disposition of receipts.  </td>
 
@@ -257,7 +257,7 @@
 
   <tr>
 
-    <td> 46 to 48.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft43%2Fs46" data-uslm-ref="/us/usc/t43/s46">46</a> to <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft43%2Fs48" data-uslm-ref="/us/usc/t43/s48">48.</a>  </td>
 
     <td> Omitted or Repealed.  </td>
 
@@ -265,7 +265,7 @@
 
   <tr>
 
-    <td> 49.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft43%2Fs49" data-uslm-ref="/us/usc/t43/s49">49.</a>  </td>
 
     <td> Extension of cooperative work to Puerto Rico.  </td>
 
@@ -273,7 +273,7 @@
 
   <tr>
 
-    <td> 50.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft43%2Fs50" data-uslm-ref="/us/usc/t43/s50">50.</a>  </td>
 
     <td> Survey’s share of cost of topographic mapping or water resources investigations carried on with States.  </td>
 
@@ -281,7 +281,7 @@
 
   <tr>
 
-    <td> 50–1.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft43%2Fs50%E2%80%931" data-uslm-ref="/us/usc/t43/s50–1">50–1.</a>  </td>
 
     <td> Funds for mappings and investigations considered intragovernmental funds.  </td>
 
@@ -289,7 +289,7 @@
 
   <tr>
 
-    <td> 50a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft43%2Fs50a" data-uslm-ref="/us/usc/t43/s50a">50a.</a>  </td>
 
     <td> Working capital fund for United States Geological Survey.  </td>
 
@@ -297,7 +297,7 @@
 
   <tr>
 
-    <td> 50b.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft43%2Fs50b" data-uslm-ref="/us/usc/t43/s50b">50b.</a>  </td>
 
     <td> Recording of obligations against accounts receivable and crediting of amounts received; work involving cooperation with State, Territory, etc.  </td>
 
@@ -305,7 +305,7 @@
 
   <tr>
 
-    <td> 50c.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft43%2Fs50c" data-uslm-ref="/us/usc/t43/s50c">50c.</a>  </td>
 
     <td> Payment of costs incidental to utilization of services of volunteers.  </td>
 
@@ -313,7 +313,7 @@
 
   <tr>
 
-    <td> 50d.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft43%2Fs50d" data-uslm-ref="/us/usc/t43/s50d">50d.</a>  </td>
 
     <td> Services of students or recent graduates.  </td>
 

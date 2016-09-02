@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 881.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft43%2Fs881" data-uslm-ref="/us/usc/t43/s881">881.</a>  </td>
 
     <td> Cost of survey of grants to railroads; payment.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 882.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft43%2Fs882" data-uslm-ref="/us/usc/t43/s882">882.</a>  </td>
 
     <td> Surveyed lands taxable notwithstanding lien; provisos.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 883.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft43%2Fs883" data-uslm-ref="/us/usc/t43/s883">883.</a>  </td>
 
     <td> Collection of costs of surveying, etc.; reimbursement of purchaser.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 884.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft43%2Fs884" data-uslm-ref="/us/usc/t43/s884">884.</a>  </td>
 
     <td> Right of forfeiture of railroad grants not affected.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 885.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft43%2Fs885" data-uslm-ref="/us/usc/t43/s885">885.</a>  </td>
 
     <td> Union Pacific Railroad lands.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 886.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft43%2Fs886" data-uslm-ref="/us/usc/t43/s886">886.</a>  </td>
 
     <td> Survey of lands within limits of railroad grants.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 887.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft43%2Fs887" data-uslm-ref="/us/usc/t43/s887">887.</a>  </td>
 
     <td> Deposits for surveys of lands granted to railroads.  </td>
 
@@ -81,7 +81,7 @@
 
   <tr>
 
-    <td> 888.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft43%2Fs888" data-uslm-ref="/us/usc/t43/s888">888.</a>  </td>
 
     <td> Selection by railroads of lands in lieu of lands entered subsequent to accrual of rights; title of settlers.  </td>
 
@@ -89,7 +89,7 @@
 
   <tr>
 
-    <td> 889.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft43%2Fs889" data-uslm-ref="/us/usc/t43/s889">889.</a>  </td>
 
     <td> Rights of entrymen whose entries had not been admitted to record.  </td>
 
@@ -97,7 +97,7 @@
 
   <tr>
 
-    <td> 890.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft43%2Fs890" data-uslm-ref="/us/usc/t43/s890">890.</a>  </td>
 
     <td> Homestead entries on railroad lands prior to withdrawal or after restoration to market confirmed.  </td>
 
@@ -105,7 +105,7 @@
 
   <tr>
 
-    <td> 891.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft43%2Fs891" data-uslm-ref="/us/usc/t43/s891">891.</a>  </td>
 
     <td> Abandoned railroad lands; reentry.  </td>
 
@@ -113,7 +113,7 @@
 
   <tr>
 
-    <td> 892.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft43%2Fs892" data-uslm-ref="/us/usc/t43/s892">892.</a>  </td>
 
     <td> Entries after expiration of grant.  </td>
 
@@ -121,7 +121,7 @@
 
   <tr>
 
-    <td> 893.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft43%2Fs893" data-uslm-ref="/us/usc/t43/s893">893.</a>  </td>
 
     <td> Rights of permissive settlers on railroad lands restored to public domain.  </td>
 
@@ -129,7 +129,7 @@
 
   <tr>
 
-    <td> 894.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft43%2Fs894" data-uslm-ref="/us/usc/t43/s894">894.</a>  </td>
 
     <td> Adjustment of land grants to railroads.  </td>
 
@@ -137,7 +137,7 @@
 
   <tr>
 
-    <td> 895.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft43%2Fs895" data-uslm-ref="/us/usc/t43/s895">895.</a>  </td>
 
     <td> Cancellation of patents erroneously issued; reconveyance.  </td>
 
@@ -145,7 +145,7 @@
 
   <tr>
 
-    <td> 896.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft43%2Fs896" data-uslm-ref="/us/usc/t43/s896">896.</a>  </td>
 
     <td> Erroneous cancellation of bona fide entries corrected.  </td>
 
@@ -153,7 +153,7 @@
 
   <tr>
 
-    <td> 897.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft43%2Fs897" data-uslm-ref="/us/usc/t43/s897">897.</a>  </td>
 
     <td> Patents to purchasers from railroads; purchase money.  </td>
 
@@ -161,7 +161,7 @@
 
   <tr>
 
-    <td> 898.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft43%2Fs898" data-uslm-ref="/us/usc/t43/s898">898.</a>  </td>
 
     <td> Rights of purchasers from railroads of coterminous lands not within grants.  </td>
 
@@ -169,7 +169,7 @@
 
   <tr>
 
-    <td> 899.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft43%2Fs899" data-uslm-ref="/us/usc/t43/s899">899.</a>  </td>
 
     <td> Limitation of quantity to be conveyed.  </td>
 
@@ -177,7 +177,7 @@
 
   <tr>
 
-    <td> 900.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft43%2Fs900" data-uslm-ref="/us/usc/t43/s900">900.</a>  </td>
 
     <td> Suits to cancel patents to lands erroneously issued under railroad or wagon-road grants.  </td>
 
@@ -185,7 +185,7 @@
 
   <tr>
 
-    <td> 901.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft43%2Fs901" data-uslm-ref="/us/usc/t43/s901">901.</a>  </td>
 
     <td> Claims of bona fide purchasers; establishment of rights.  </td>
 
@@ -193,7 +193,7 @@
 
   <tr>
 
-    <td> 902.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft43%2Fs902" data-uslm-ref="/us/usc/t43/s902">902.</a>  </td>
 
     <td> Cancellation; investigation before suit.  </td>
 
@@ -201,7 +201,7 @@
 
   <tr>
 
-    <td> 903.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft43%2Fs903" data-uslm-ref="/us/usc/t43/s903">903.</a>  </td>
 
     <td> Relief of settlers on lands granted in aid of wagon roads.  </td>
 
@@ -209,7 +209,7 @@
 
   <tr>
 
-    <td> 904.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft43%2Fs904" data-uslm-ref="/us/usc/t43/s904">904.</a>  </td>
 
     <td> Forfeiture of unearned grants; restoration to public domain.  </td>
 
@@ -217,7 +217,7 @@
 
   <tr>
 
-    <td> 905.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft43%2Fs905" data-uslm-ref="/us/usc/t43/s905">905.</a>  </td>
 
     <td> Homestead entries on forfeited lands.  </td>
 
@@ -225,7 +225,7 @@
 
   <tr>
 
-    <td> 906.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft43%2Fs906" data-uslm-ref="/us/usc/t43/s906">906.</a>  </td>
 
     <td> Purchase by bona fide purchasers from grantees; removal of crops and improvements.  </td>
 
@@ -233,7 +233,7 @@
 
   <tr>
 
-    <td> 907.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft43%2Fs907" data-uslm-ref="/us/usc/t43/s907">907.</a>  </td>
 
     <td> Rights of original grantees to forfeited lands.  </td>
 
@@ -241,7 +241,7 @@
 
   <tr>
 
-    <td> 908.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft43%2Fs908" data-uslm-ref="/us/usc/t43/s908">908.</a>  </td>
 
     <td> Deposits by railroad companies for costs of surveying and conveying unsurveyed lands granted.  </td>
 
@@ -249,7 +249,7 @@
 
   <tr>
 
-    <td> 909.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft43%2Fs909" data-uslm-ref="/us/usc/t43/s909">909.</a>  </td>
 
     <td> Forfeiture of grant on failure to make deposit.  </td>
 
@@ -257,7 +257,7 @@
 
   <tr>
 
-    <td> 910.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft43%2Fs910" data-uslm-ref="/us/usc/t43/s910">910.</a>  </td>
 
     <td> Right to extend public surveys over lands granted, and other rights of United States, not affected.  </td>
 
@@ -265,7 +265,7 @@
 
   <tr>
 
-    <td> 911.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft43%2Fs911" data-uslm-ref="/us/usc/t43/s911">911.</a>  </td>
 
     <td> Regulations.  </td>
 
@@ -273,7 +273,7 @@
 
   <tr>
 
-    <td> 912.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft43%2Fs912" data-uslm-ref="/us/usc/t43/s912">912.</a>  </td>
 
     <td> Disposition of abandoned or forfeited railroad grants.  </td>
 
@@ -281,7 +281,7 @@
 
   <tr>
 
-    <td> 913.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft43%2Fs913" data-uslm-ref="/us/usc/t43/s913">913.</a>  </td>
 
     <td> Conveyance by land grant railroads of portions of rights of way to State, county, or municipality.  </td>
 
@@ -289,7 +289,7 @@
 
   <tr>
 
-    <td> 914.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft43%2Fs914" data-uslm-ref="/us/usc/t43/s914">914.</a>  </td>
 
     <td> Omitted.  </td>
 

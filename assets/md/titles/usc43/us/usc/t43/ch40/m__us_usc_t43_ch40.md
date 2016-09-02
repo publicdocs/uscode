@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 2201.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft43%2Fs2201" data-uslm-ref="/us/usc/t43/s2201">2201.</a>  </td>
 
     <td> Definitions.  </td>
 
@@ -41,7 +41,7 @@ SUBCHAPTER I—DROUGHT PROGRAM  </td>
 
   <tr>
 
-    <td> 2211.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft43%2Fs2211" data-uslm-ref="/us/usc/t43/s2211">2211.</a>  </td>
 
     <td> Assistance during drought; water purchases.  </td>
 
@@ -49,7 +49,7 @@ SUBCHAPTER I—DROUGHT PROGRAM  </td>
 
   <tr>
 
-    <td> 2212.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft43%2Fs2212" data-uslm-ref="/us/usc/t43/s2212">2212.</a>  </td>
 
     <td> Availability of water on temporary basis.  </td>
 
@@ -57,7 +57,7 @@ SUBCHAPTER I—DROUGHT PROGRAM  </td>
 
   <tr>
 
-    <td> 2213.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft43%2Fs2213" data-uslm-ref="/us/usc/t43/s2213">2213.</a>  </td>
 
     <td> Loans.  </td>
 
@@ -65,7 +65,7 @@ SUBCHAPTER I—DROUGHT PROGRAM  </td>
 
   <tr>
 
-    <td> 2214.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft43%2Fs2214" data-uslm-ref="/us/usc/t43/s2214">2214.</a>  </td>
 
     <td> Applicable period of drought program.  </td>
 
@@ -73,7 +73,7 @@ SUBCHAPTER I—DROUGHT PROGRAM  </td>
 
   <tr>
 
-    <td> 2215.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft43%2Fs2215" data-uslm-ref="/us/usc/t43/s2215">2215.</a>  </td>
 
     <td> Assistance for drought-related planning in reclamation States.  </td>
 
@@ -89,7 +89,7 @@ SUBCHAPTER II—DROUGHT CONTINGENCY PLANNING  </td>
 
   <tr>
 
-    <td> 2221.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft43%2Fs2221" data-uslm-ref="/us/usc/t43/s2221">2221.</a>  </td>
 
     <td> Identification of opportunities for water supply conservation, augmentation and use.  </td>
 
@@ -97,7 +97,7 @@ SUBCHAPTER II—DROUGHT CONTINGENCY PLANNING  </td>
 
   <tr>
 
-    <td> 2222.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft43%2Fs2222" data-uslm-ref="/us/usc/t43/s2222">2222.</a>  </td>
 
     <td> Drought contingency plans.  </td>
 
@@ -105,7 +105,7 @@ SUBCHAPTER II—DROUGHT CONTINGENCY PLANNING  </td>
 
   <tr>
 
-    <td> 2223.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft43%2Fs2223" data-uslm-ref="/us/usc/t43/s2223">2223.</a>  </td>
 
     <td> Plan elements.  </td>
 
@@ -113,7 +113,7 @@ SUBCHAPTER II—DROUGHT CONTINGENCY PLANNING  </td>
 
   <tr>
 
-    <td> 2224.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft43%2Fs2224" data-uslm-ref="/us/usc/t43/s2224">2224.</a>  </td>
 
     <td> Recommendations.  </td>
 
@@ -121,7 +121,7 @@ SUBCHAPTER II—DROUGHT CONTINGENCY PLANNING  </td>
 
   <tr>
 
-    <td> 2225.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft43%2Fs2225" data-uslm-ref="/us/usc/t43/s2225">2225.</a>  </td>
 
     <td> Reclamation Drought Response Fund.  </td>
 
@@ -129,7 +129,7 @@ SUBCHAPTER II—DROUGHT CONTINGENCY PLANNING  </td>
 
   <tr>
 
-    <td> 2226.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft43%2Fs2226" data-uslm-ref="/us/usc/t43/s2226">2226.</a>  </td>
 
     <td> Technical assistance and transfer of precipitation management technology.  </td>
 
@@ -145,7 +145,7 @@ SUBCHAPTER III—GENERAL AND MISCELLANEOUS PROVISIONS  </td>
 
   <tr>
 
-    <td> 2241.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft43%2Fs2241" data-uslm-ref="/us/usc/t43/s2241">2241.</a>  </td>
 
     <td> Authorization of appropriations.  </td>
 
@@ -153,7 +153,7 @@ SUBCHAPTER III—GENERAL AND MISCELLANEOUS PROVISIONS  </td>
 
   <tr>
 
-    <td> 2242.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft43%2Fs2242" data-uslm-ref="/us/usc/t43/s2242">2242.</a>  </td>
 
     <td> Authority of Secretary.  </td>
 
@@ -161,7 +161,7 @@ SUBCHAPTER III—GENERAL AND MISCELLANEOUS PROVISIONS  </td>
 
   <tr>
 
-    <td> 2243.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft43%2Fs2243" data-uslm-ref="/us/usc/t43/s2243">2243.</a>  </td>
 
     <td> Temperature control at Shasta Dam, Central Valley Project.  </td>
 
@@ -169,7 +169,7 @@ SUBCHAPTER III—GENERAL AND MISCELLANEOUS PROVISIONS  </td>
 
   <tr>
 
-    <td> 2244.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft43%2Fs2244" data-uslm-ref="/us/usc/t43/s2244">2244.</a>  </td>
 
     <td> Effect of chapter on other laws.  </td>
 
@@ -177,7 +177,7 @@ SUBCHAPTER III—GENERAL AND MISCELLANEOUS PROVISIONS  </td>
 
   <tr>
 
-    <td> 2245.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft43%2Fs2245" data-uslm-ref="/us/usc/t43/s2245">2245.</a>  </td>
 
     <td> Excess storage and carrying capacity.  </td>
 
@@ -185,7 +185,7 @@ SUBCHAPTER III—GENERAL AND MISCELLANEOUS PROVISIONS  </td>
 
   <tr>
 
-    <td> 2246.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft43%2Fs2246" data-uslm-ref="/us/usc/t43/s2246">2246.</a>  </td>
 
     <td> Report.  </td>
 
@@ -193,7 +193,7 @@ SUBCHAPTER III—GENERAL AND MISCELLANEOUS PROVISIONS  </td>
 
   <tr>
 
-    <td> 2247.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft43%2Fs2247" data-uslm-ref="/us/usc/t43/s2247">2247.</a>  </td>
 
     <td> Federal Reclamation laws.  </td>
 

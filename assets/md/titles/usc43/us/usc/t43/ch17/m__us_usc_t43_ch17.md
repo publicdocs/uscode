@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 711 to 736.   </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft43%2Fs711" data-uslm-ref="/us/usc/t43/s711">711</a> to <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft43%2Fs736" data-uslm-ref="/us/usc/t43/s736">736.</a>  </td>
 
     <td> Repealed.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 737.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft43%2Fs737" data-uslm-ref="/us/usc/t43/s737">737.</a>  </td>
 
     <td> Unrestricted deeds for townsite lands held by Alaska natives.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 738.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft43%2Fs738" data-uslm-ref="/us/usc/t43/s738">738.</a>  </td>
 
     <td> Repealed.  </td>
 

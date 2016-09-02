@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 1.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft43%2Fs1" data-uslm-ref="/us/usc/t43/s1">1.</a>  </td>
 
     <td> Repealed.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 2.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft43%2Fs2" data-uslm-ref="/us/usc/t43/s2">2.</a>  </td>
 
     <td> Duties concerning public lands.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 3 to 5.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft43%2Fs3" data-uslm-ref="/us/usc/t43/s3">3</a> to <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft43%2Fs5" data-uslm-ref="/us/usc/t43/s5">5.</a>  </td>
 
     <td> Repealed or Omitted.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 6.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft43%2Fs6" data-uslm-ref="/us/usc/t43/s6">6.</a>  </td>
 
     <td> Duties of employees to certify, record, etc., patents.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 7 to 10.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft43%2Fs7" data-uslm-ref="/us/usc/t43/s7">7</a> to <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft43%2Fs10" data-uslm-ref="/us/usc/t43/s10">10.</a>  </td>
 
     <td> Repealed or Omitted.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 11.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft43%2Fs11" data-uslm-ref="/us/usc/t43/s11">11.</a>  </td>
 
     <td> Restriction on officers, clerks, and employees.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 12.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft43%2Fs12" data-uslm-ref="/us/usc/t43/s12">12.</a>  </td>
 
     <td> Seal, books, and records.  </td>
 
@@ -81,7 +81,7 @@
 
   <tr>
 
-    <td> 13.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft43%2Fs13" data-uslm-ref="/us/usc/t43/s13">13.</a>  </td>
 
     <td> Original papers on file as evidence.  </td>
 
@@ -89,7 +89,7 @@
 
   <tr>
 
-    <td> 14.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft43%2Fs14" data-uslm-ref="/us/usc/t43/s14">14.</a>  </td>
 
     <td> Returns relative to lands.  </td>
 
@@ -97,7 +97,7 @@
 
   <tr>
 
-    <td> 15.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft43%2Fs15" data-uslm-ref="/us/usc/t43/s15">15.</a>  </td>
 
     <td> Issuance and signing of patents by Secretary of the Interior; delegation of authority; notice.  </td>
 
@@ -105,7 +105,7 @@
 
   <tr>
 
-    <td> 16.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft43%2Fs16" data-uslm-ref="/us/usc/t43/s16">16.</a>  </td>
 
     <td> Engrossing and recording patents.  </td>
 
@@ -113,7 +113,7 @@
 
   <tr>
 
-    <td> 17.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft43%2Fs17" data-uslm-ref="/us/usc/t43/s17">17.</a>  </td>
 
     <td> Plats of land surveyed.  </td>
 
@@ -121,7 +121,7 @@
 
   <tr>
 
-    <td> 18.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft43%2Fs18" data-uslm-ref="/us/usc/t43/s18">18.</a>  </td>
 
     <td> Copies of papers filed.  </td>
 
@@ -129,7 +129,7 @@
 
   <tr>
 
-    <td> 19 to 25b.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft43%2Fs19" data-uslm-ref="/us/usc/t43/s19">19</a> to <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft43%2Fs25b" data-uslm-ref="/us/usc/t43/s25b">25b.</a>  </td>
 
     <td> Repealed.  </td>
 

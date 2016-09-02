@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 851.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft43%2Fs851" data-uslm-ref="/us/usc/t43/s851">851.</a>  </td>
 
     <td> Deficiencies in grants to State by reason of settlements, etc., on designated sections generally.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 852.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft43%2Fs852" data-uslm-ref="/us/usc/t43/s852">852.</a>  </td>
 
     <td> Selections to supply deficiencies of school lands.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 852a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft43%2Fs852a" data-uslm-ref="/us/usc/t43/s852a">852a.</a>  </td>
 
     <td> Applications for unsurveyed lands; regulations; acreage requirements.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 852b.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft43%2Fs852b" data-uslm-ref="/us/usc/t43/s852b">852b.</a>  </td>
 
     <td> Survey of lands prior to transfer; time for survey; availability of funds; lands suitable for transfer.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 853.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft43%2Fs853" data-uslm-ref="/us/usc/t43/s853">853.</a>  </td>
 
     <td> Selections in Utah to supply deficiencies of school lands.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 854.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft43%2Fs854" data-uslm-ref="/us/usc/t43/s854">854.</a>  </td>
 
     <td> Selections in New Mexico to supply deficiencies of school lands.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 855.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft43%2Fs855" data-uslm-ref="/us/usc/t43/s855">855.</a>  </td>
 
     <td> Omitted.  </td>
 
@@ -81,7 +81,7 @@
 
   <tr>
 
-    <td> 856.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft43%2Fs856" data-uslm-ref="/us/usc/t43/s856">856.</a>  </td>
 
     <td> Selection of school lands on ceded Indian reservations.  </td>
 
@@ -89,7 +89,7 @@
 
   <tr>
 
-    <td> 857.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft43%2Fs857" data-uslm-ref="/us/usc/t43/s857">857.</a>  </td>
 
     <td> Grant to new States.  </td>
 
@@ -97,7 +97,7 @@
 
   <tr>
 
-    <td> 858.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft43%2Fs858" data-uslm-ref="/us/usc/t43/s858">858.</a>  </td>
 
     <td> Grants to counties for seats of justice.  </td>
 
@@ -105,7 +105,7 @@
 
   <tr>
 
-    <td> 859.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft43%2Fs859" data-uslm-ref="/us/usc/t43/s859">859.</a>  </td>
 
     <td> Fee simple to pass in all grants.  </td>
 
@@ -113,7 +113,7 @@
 
   <tr>
 
-    <td> 860.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft43%2Fs860" data-uslm-ref="/us/usc/t43/s860">860.</a>  </td>
 
     <td> Repealed.  </td>
 
@@ -121,7 +121,7 @@
 
   <tr>
 
-    <td> 861.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft43%2Fs861" data-uslm-ref="/us/usc/t43/s861">861.</a>  </td>
 
     <td> Preference right of selection granted certain Western States; bona fide settlers.  </td>
 
@@ -129,7 +129,7 @@
 
   <tr>
 
-    <td> 862.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft43%2Fs862" data-uslm-ref="/us/usc/t43/s862">862.</a>  </td>
 
     <td> Omitted.  </td>
 
@@ -137,7 +137,7 @@
 
   <tr>
 
-    <td> 863.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft43%2Fs863" data-uslm-ref="/us/usc/t43/s863">863.</a>  </td>
 
     <td> Survey of lands granted to certain Western States.  </td>
 
@@ -145,7 +145,7 @@
 
   <tr>
 
-    <td> 864.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft43%2Fs864" data-uslm-ref="/us/usc/t43/s864">864.</a>  </td>
 
     <td> Survey of land grants to Florida.  </td>
 
@@ -153,7 +153,7 @@
 
   <tr>
 
-    <td> 865.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft43%2Fs865" data-uslm-ref="/us/usc/t43/s865">865.</a>  </td>
 
     <td> Confirmation of certain lands selected by California.  </td>
 
@@ -161,7 +161,7 @@
 
   <tr>
 
-    <td> 866.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft43%2Fs866" data-uslm-ref="/us/usc/t43/s866">866.</a>  </td>
 
     <td> Exchange of cut over land in Montana.  </td>
 
@@ -169,7 +169,7 @@
 
   <tr>
 
-    <td> 867.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft43%2Fs867" data-uslm-ref="/us/usc/t43/s867">867.</a>  </td>
 
     <td> Omitted.  </td>
 
@@ -177,7 +177,7 @@
 
   <tr>
 
-    <td> 868.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft43%2Fs868" data-uslm-ref="/us/usc/t43/s868">868.</a>  </td>
 
     <td> Representation of Indian claimants in suits to determine right to school lands.  </td>
 
@@ -185,7 +185,7 @@
 
   <tr>
 
-    <td> 869.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft43%2Fs869" data-uslm-ref="/us/usc/t43/s869">869.</a>  </td>
 
     <td> Disposal of lands for public or recreational purposes.  </td>
 
@@ -193,7 +193,7 @@
 
   <tr>
 
-    <td> 869–1.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft43%2Fs869%E2%80%931" data-uslm-ref="/us/usc/t43/s869–1">869–1.</a>  </td>
 
     <td> Sale or lease to State or nonprofit organization; reservation of mineral deposits; termination of lease for nonuse.  </td>
 
@@ -201,7 +201,7 @@
 
   <tr>
 
-    <td> 869–2.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft43%2Fs869%E2%80%932" data-uslm-ref="/us/usc/t43/s869–2">869–2.</a>  </td>
 
     <td> Conditions of transfer by grantee; solid waste disposal.  </td>
 
@@ -209,7 +209,7 @@
 
   <tr>
 
-    <td> 869–3.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft43%2Fs869%E2%80%933" data-uslm-ref="/us/usc/t43/s869–3">869–3.</a>  </td>
 
     <td> Authority for transfers; applicability of section 869–2 to prior patents; termination of restrictions.  </td>
 
@@ -217,7 +217,7 @@
 
   <tr>
 
-    <td> 869–4.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft43%2Fs869%E2%80%934" data-uslm-ref="/us/usc/t43/s869–4">869–4.</a>  </td>
 
     <td> Disposition of moneys received from or on account of revested Oregon and California Railroad grant lands or reconveyed Coos Bay Wagon Road grant lands.  </td>
 
@@ -225,7 +225,7 @@
 
   <tr>
 
-    <td> 869a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft43%2Fs869a" data-uslm-ref="/us/usc/t43/s869a">869a.</a>  </td>
 
     <td> Repealed.  </td>
 
@@ -233,7 +233,7 @@
 
   <tr>
 
-    <td> 870.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft43%2Fs870" data-uslm-ref="/us/usc/t43/s870">870.</a>  </td>
 
     <td> Grants of land in aid of common or public schools; extension to those mineral in character; effect of leases.  </td>
 
@@ -241,7 +241,7 @@
 
   <tr>
 
-    <td> 871.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft43%2Fs871" data-uslm-ref="/us/usc/t43/s871">871.</a>  </td>
 
     <td> Certain grants and laws unaffected.  </td>
 
@@ -249,7 +249,7 @@
 
   <tr>
 
-    <td> 871a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft43%2Fs871a" data-uslm-ref="/us/usc/t43/s871a">871a.</a>  </td>
 
     <td> Repealed.  </td>
 
@@ -257,7 +257,7 @@
 
   <tr>
 
-    <td> 872.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft43%2Fs872" data-uslm-ref="/us/usc/t43/s872">872.</a>  </td>
 
     <td> Conveyances to United States in connection with applications for amendment of patented entries or for exchange of land, etc.; withdrawal or rejection of applications; reconveyances.  </td>
 
@@ -265,7 +265,7 @@
 
   <tr>
 
-    <td> 873.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft43%2Fs873" data-uslm-ref="/us/usc/t43/s873">873.</a>  </td>
 
     <td> Lands granted for erecting public buildings; purpose of grant.  </td>
 

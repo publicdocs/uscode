@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 70 to 74.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft43%2Fs70" data-uslm-ref="/us/usc/t43/s70">70</a> to <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft43%2Fs74" data-uslm-ref="/us/usc/t43/s74">74.</a>  </td>
 
     <td> Repealed or Omitted.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 75.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft43%2Fs75" data-uslm-ref="/us/usc/t43/s75">75.</a>  </td>
 
     <td> Administration of oaths.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 75a to 79b.   </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft43%2Fs75a" data-uslm-ref="/us/usc/t43/s75a">75a</a> to <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft43%2Fs79b" data-uslm-ref="/us/usc/t43/s79b">79b.</a>  </td>
 
     <td> Repealed.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 79c.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft43%2Fs79c" data-uslm-ref="/us/usc/t43/s79c">79c.</a>  </td>
 
     <td> Payment of fees, commissions, etc.; deposit in Treasury.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 79d.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft43%2Fs79d" data-uslm-ref="/us/usc/t43/s79d">79d.</a>  </td>
 
     <td> Alaska land claimant liable for fees, commissions or purchase money; deposit in Treasury.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 80 to 82.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft43%2Fs80" data-uslm-ref="/us/usc/t43/s80">80</a> to <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft43%2Fs82" data-uslm-ref="/us/usc/t43/s82">82.</a>  </td>
 
     <td> Repealed.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 83.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft43%2Fs83" data-uslm-ref="/us/usc/t43/s83">83.</a>  </td>
 
     <td> Transcripts of records as evidence.  </td>
 
@@ -81,7 +81,7 @@
 
   <tr>
 
-    <td> 84, 85.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft43%2Fs84" data-uslm-ref="/us/usc/t43/s84">84</a>, <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft43%2Fs85" data-uslm-ref="/us/usc/t43/s85">85.</a>  </td>
 
     <td> Repealed or Omitted.  </td>
 
@@ -89,7 +89,7 @@
 
   <tr>
 
-    <td> 86.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft43%2Fs86" data-uslm-ref="/us/usc/t43/s86">86.</a>  </td>
 
     <td> Accounting for fees for notices of cancellation of entries.  </td>
 
@@ -97,7 +97,7 @@
 
   <tr>
 
-    <td> 87, 88.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft43%2Fs87" data-uslm-ref="/us/usc/t43/s87">87</a>, <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft43%2Fs88" data-uslm-ref="/us/usc/t43/s88">88.</a>  </td>
 
     <td> Repealed.  </td>
 
@@ -105,7 +105,7 @@
 
   <tr>
 
-    <td> 89.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft43%2Fs89" data-uslm-ref="/us/usc/t43/s89">89.</a>  </td>
 
     <td> Monthly returns of district land offices.  </td>
 
@@ -113,7 +113,7 @@
 
   <tr>
 
-    <td> 90.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft43%2Fs90" data-uslm-ref="/us/usc/t43/s90">90.</a>  </td>
 
     <td> Omitted.  </td>
 
@@ -121,7 +121,7 @@
 
   <tr>
 
-    <td> 91.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft43%2Fs91" data-uslm-ref="/us/usc/t43/s91">91.</a>  </td>
 
     <td> Deposit in Treasury of unearned fees and unofficial moneys.  </td>
 
@@ -129,7 +129,7 @@
 
   <tr>
 
-    <td> 92.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft43%2Fs92" data-uslm-ref="/us/usc/t43/s92">92.</a>  </td>
 
     <td> Lists furnished with deposits.  </td>
 
@@ -137,7 +137,7 @@
 
   <tr>
 
-    <td> 93.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft43%2Fs93" data-uslm-ref="/us/usc/t43/s93">93.</a>  </td>
 
     <td> Deposit of moneys deposited by unknown parties.  </td>
 
@@ -145,7 +145,7 @@
 
   <tr>
 
-    <td> 94.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft43%2Fs94" data-uslm-ref="/us/usc/t43/s94">94.</a>  </td>
 
     <td> Reimbursement of sums disbursed as special disbursing agents.  </td>
 
@@ -153,7 +153,7 @@
 
   <tr>
 
-    <td> 95 to 98a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft43%2Fs95" data-uslm-ref="/us/usc/t43/s95">95</a> to <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft43%2Fs98a" data-uslm-ref="/us/usc/t43/s98a">98a.</a>  </td>
 
     <td> Repealed.  </td>
 
@@ -161,7 +161,7 @@
 
   <tr>
 
-    <td> 99.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft43%2Fs99" data-uslm-ref="/us/usc/t43/s99">99.</a>  </td>
 
     <td> Repayment of moneys deposited and covered into Treasury.  </td>
 
@@ -169,7 +169,7 @@
 
   <tr>
 
-    <td> 100.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft43%2Fs100" data-uslm-ref="/us/usc/t43/s100">100.</a>  </td>
 
     <td> Disqualification.  </td>
 
@@ -177,7 +177,7 @@
 
   <tr>
 
-    <td> 101.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft43%2Fs101" data-uslm-ref="/us/usc/t43/s101">101.</a>  </td>
 
     <td> Report of disqualification; designation of officer to act.  </td>
 
@@ -185,7 +185,7 @@
 
   <tr>
 
-    <td> 102.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft43%2Fs102" data-uslm-ref="/us/usc/t43/s102">102.</a>  </td>
 
     <td> Attendance of witnesses.  </td>
 
@@ -193,7 +193,7 @@
 
   <tr>
 
-    <td> 103.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft43%2Fs103" data-uslm-ref="/us/usc/t43/s103">103.</a>  </td>
 
     <td> Witnesses’ fees.  </td>
 
@@ -201,7 +201,7 @@
 
   <tr>
 
-    <td> 104.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft43%2Fs104" data-uslm-ref="/us/usc/t43/s104">104.</a>  </td>
 
     <td> Disobedience to subpoena.  </td>
 
@@ -209,7 +209,7 @@
 
   <tr>
 
-    <td> 105.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft43%2Fs105" data-uslm-ref="/us/usc/t43/s105">105.</a>  </td>
 
     <td> Depositions of witnesses residing outside county.  </td>
 
@@ -217,7 +217,7 @@
 
   <tr>
 
-    <td> 106.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft43%2Fs106" data-uslm-ref="/us/usc/t43/s106">106.</a>  </td>
 
     <td> Continuing taking of depositions in behalf of opposite party.  </td>
 
@@ -225,7 +225,7 @@
 
   <tr>
 
-    <td> 107.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft43%2Fs107" data-uslm-ref="/us/usc/t43/s107">107.</a>  </td>
 
     <td> Penalty for false information.  </td>
 

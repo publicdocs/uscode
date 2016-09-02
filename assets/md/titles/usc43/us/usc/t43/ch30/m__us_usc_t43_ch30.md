@@ -33,7 +33,9 @@ SUBCHAPTER I—GENERAL PROVISIONS  </td>
 
   <tr>
 
-    <td> 1361 to 1364. Repealed.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft43%2Fs1361" data-uslm-ref="/us/usc/t43/s1361">1361</a> to <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft43%2Fs1364" data-uslm-ref="/us/usc/t43/s1364">1364.</a>  </td>
+
+    <td> Repealed.  </td>
 
   </tr>
 
@@ -47,7 +49,9 @@ SUBCHAPTER II—SERVICE CHARGES AND EXCESS PAYMENTS  </td>
 
   <tr>
 
-    <td> 1371 to 1374. Repealed.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft43%2Fs1371" data-uslm-ref="/us/usc/t43/s1371">1371</a> to <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft43%2Fs1374" data-uslm-ref="/us/usc/t43/s1374">1374.</a>  </td>
+
+    <td> Repealed.  </td>
 
   </tr>
 
@@ -61,7 +65,9 @@ SUBCHAPTER III—DEPOSITS AND FORFEITURES  </td>
 
   <tr>
 
-    <td> 1381 to 1383. Repealed.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft43%2Fs1381" data-uslm-ref="/us/usc/t43/s1381">1381</a> to <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft43%2Fs1383" data-uslm-ref="/us/usc/t43/s1383">1383.</a>  </td>
+
+    <td> Repealed.  </td>
 
   </tr>
 
@@ -75,7 +81,9 @@ SUBCHAPTER IV—PUBLIC LAND LAW REVIEW COMMISSION  </td>
 
   <tr>
 
-    <td> 1391 to 1400. Omitted.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft43%2Fs1391" data-uslm-ref="/us/usc/t43/s1391">1391</a> to <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft43%2Fs1400" data-uslm-ref="/us/usc/t43/s1400">1400.</a>  </td>
+
+    <td> Omitted.  </td>
 
   </tr>
 
@@ -89,7 +97,9 @@ SUBCHAPTER V—CLASSIFICATION OF LANDS TO PROVIDE FOR DISPOSAL OR INTERIM MANAGE
 
   <tr>
 
-    <td> 1411 to 1418. Omitted.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft43%2Fs1411" data-uslm-ref="/us/usc/t43/s1411">1411</a> to <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft43%2Fs1418" data-uslm-ref="/us/usc/t43/s1418">1418.</a>  </td>
+
+    <td> Omitted.  </td>
 
   </tr>
 
@@ -103,7 +113,9 @@ SUBCHAPTER VI—SALE OF PUBLIC LAND  </td>
 
   <tr>
 
-    <td> 1421 to 1427. Omitted.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft43%2Fs1421" data-uslm-ref="/us/usc/t43/s1421">1421</a> to <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft43%2Fs1427" data-uslm-ref="/us/usc/t43/s1427">1427.</a>  </td>
+
+    <td> Omitted.  </td>
 
   </tr>
 
@@ -117,7 +129,9 @@ SUBCHAPTER VII—SALE OF PUBLIC LANDS SUBJECT TO UNINTENTIONAL TRESPASS  </td>
 
   <tr>
 
-    <td> 1431 to 1435. Omitted.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft43%2Fs1431" data-uslm-ref="/us/usc/t43/s1431">1431</a> to <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft43%2Fs1435" data-uslm-ref="/us/usc/t43/s1435">1435.</a>  </td>
+
+    <td> Omitted.  </td>
 
   </tr>
 
@@ -131,7 +145,7 @@ SUBCHAPTER VIII—PUBLIC AIRPORTS  </td>
 
   <tr>
 
-    <td> 1441.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft43%2Fs1441" data-uslm-ref="/us/usc/t43/s1441">1441.</a>  </td>
 
     <td> Lease of contiguous public lands for public airports; authority of Secretary of the Interior.  </td>
 
@@ -139,7 +153,7 @@ SUBCHAPTER VIII—PUBLIC AIRPORTS  </td>
 
   <tr>
 
-    <td> 1442.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft43%2Fs1442" data-uslm-ref="/us/usc/t43/s1442">1442.</a>  </td>
 
     <td> Terms of lease; public lands for public airports.  </td>
 
@@ -147,7 +161,7 @@ SUBCHAPTER VIII—PUBLIC AIRPORTS  </td>
 
   <tr>
 
-    <td> 1443.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft43%2Fs1443" data-uslm-ref="/us/usc/t43/s1443">1443.</a>  </td>
 
     <td> Cancellation of leases of public lands used as airports made under law in force May 24, 1928.  </td>
 

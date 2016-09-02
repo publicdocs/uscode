@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 1451.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft43%2Fs1451" data-uslm-ref="/us/usc/t43/s1451">1451.</a>  </td>
 
     <td> Establishment.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 1452.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft43%2Fs1452" data-uslm-ref="/us/usc/t43/s1452">1452.</a>  </td>
 
     <td> Deputy Secretary of the Interior; appointment.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 1453.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft43%2Fs1453" data-uslm-ref="/us/usc/t43/s1453">1453.</a>  </td>
 
     <td> Assistant Secretaries of the Interior.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 1453a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft43%2Fs1453a" data-uslm-ref="/us/usc/t43/s1453a">1453a.</a>  </td>
 
     <td> Additional Assistant Secretary of the Interior; appointment; duties; compensation.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 1454.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft43%2Fs1454" data-uslm-ref="/us/usc/t43/s1454">1454.</a>  </td>
 
     <td> Duties of Assistant Secretary and assistant to Secretary.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 1455.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft43%2Fs1455" data-uslm-ref="/us/usc/t43/s1455">1455.</a>  </td>
 
     <td> Solicitor; appointment; duties.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 1456.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft43%2Fs1456" data-uslm-ref="/us/usc/t43/s1456">1456.</a>  </td>
 
     <td> Chief clerk.  </td>
 
@@ -81,7 +81,7 @@
 
   <tr>
 
-    <td> 1456a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft43%2Fs1456a" data-uslm-ref="/us/usc/t43/s1456a">1456a.</a>  </td>
 
     <td> Repealed.  </td>
 
@@ -89,7 +89,7 @@
 
   <tr>
 
-    <td> 1457.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft43%2Fs1457" data-uslm-ref="/us/usc/t43/s1457">1457.</a>  </td>
 
     <td> Duties of Secretary.  </td>
 
@@ -97,7 +97,7 @@
 
   <tr>
 
-    <td> 1457a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft43%2Fs1457a" data-uslm-ref="/us/usc/t43/s1457a">1457a.</a>  </td>
 
     <td> Authorization of appropriations for particular programs.  </td>
 
@@ -105,7 +105,7 @@
 
   <tr>
 
-    <td> 1457b.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft43%2Fs1457b" data-uslm-ref="/us/usc/t43/s1457b">1457b.</a>  </td>
 
     <td> Use of cooperative agreements.  </td>
 
@@ -113,7 +113,7 @@
 
   <tr>
 
-    <td> 1458.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft43%2Fs1458" data-uslm-ref="/us/usc/t43/s1458">1458.</a>  </td>
 
     <td> Secretary to exercise certain powers over Territories.  </td>
 
@@ -121,7 +121,7 @@
 
   <tr>
 
-    <td> 1459.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft43%2Fs1459" data-uslm-ref="/us/usc/t43/s1459">1459.</a>  </td>
 
     <td> Expenditures of department.  </td>
 
@@ -129,7 +129,7 @@
 
   <tr>
 
-    <td> 1460.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft43%2Fs1460" data-uslm-ref="/us/usc/t43/s1460">1460.</a>  </td>
 
     <td> Copies of records, documents, etc.; charges; disposition of receipts.  </td>
 
@@ -137,7 +137,7 @@
 
   <tr>
 
-    <td> 1461.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft43%2Fs1461" data-uslm-ref="/us/usc/t43/s1461">1461.</a>  </td>
 
     <td> Rules and regulations governing inspection and copying.  </td>
 
@@ -145,7 +145,7 @@
 
   <tr>
 
-    <td> 1462.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft43%2Fs1462" data-uslm-ref="/us/usc/t43/s1462">1462.</a>  </td>
 
     <td> Attestation of copies by official seal.  </td>
 
@@ -153,7 +153,7 @@
 
   <tr>
 
-    <td> 1463.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft43%2Fs1463" data-uslm-ref="/us/usc/t43/s1463">1463.</a>  </td>
 
     <td> Disposition of receipts.  </td>
 
@@ -161,7 +161,7 @@
 
   <tr>
 
-    <td> 1464.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft43%2Fs1464" data-uslm-ref="/us/usc/t43/s1464">1464.</a>  </td>
 
     <td> Agents or attorneys representing claimants before department.  </td>
 
@@ -169,7 +169,7 @@
 
   <tr>
 
-    <td> 1465.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft43%2Fs1465" data-uslm-ref="/us/usc/t43/s1465">1465.</a>  </td>
 
     <td> Annual reports of department and its bureaus.  </td>
 
@@ -177,7 +177,7 @@
 
   <tr>
 
-    <td> 1466.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft43%2Fs1466" data-uslm-ref="/us/usc/t43/s1466">1466.</a>  </td>
 
     <td> Administration of oaths, affirmations, etc., by employees of Division of Investigations; force and effect.  </td>
 
@@ -185,7 +185,7 @@
 
   <tr>
 
-    <td> 1467.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft43%2Fs1467" data-uslm-ref="/us/usc/t43/s1467">1467.</a>  </td>
 
     <td> Working capital fund; establishment; uses; reimbursement.  </td>
 
@@ -193,7 +193,7 @@
 
   <tr>
 
-    <td> 1467a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft43%2Fs1467a" data-uslm-ref="/us/usc/t43/s1467a">1467a.</a>  </td>
 
     <td> Working capital fund; credit card refunds or rebates.  </td>
 
@@ -201,7 +201,7 @@
 
   <tr>
 
-    <td> 1468.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft43%2Fs1468" data-uslm-ref="/us/usc/t43/s1468">1468.</a>  </td>
 
     <td> Working capital fund; availability for uniforms or allowances therefor.  </td>
 
@@ -209,7 +209,7 @@
 
   <tr>
 
-    <td> 1469.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft43%2Fs1469" data-uslm-ref="/us/usc/t43/s1469">1469.</a>  </td>
 
     <td> Employment and compensation of personnel to perform work occasioned by emergencies.  </td>
 
@@ -217,7 +217,7 @@
 
   <tr>
 
-    <td> 1470.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft43%2Fs1470" data-uslm-ref="/us/usc/t43/s1470">1470.</a>  </td>
 
     <td> Appropriations; availability for certain administrative expenses.  </td>
 
@@ -225,7 +225,7 @@
 
   <tr>
 
-    <td> 1471.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft43%2Fs1471" data-uslm-ref="/us/usc/t43/s1471">1471.</a>  </td>
 
     <td> Appropriations; availability for payment of property damages.  </td>
 
@@ -233,7 +233,7 @@
 
   <tr>
 
-    <td> 1471a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft43%2Fs1471a" data-uslm-ref="/us/usc/t43/s1471a">1471a.</a>  </td>
 
     <td> Availability of appropriations for emergency repair or replacement of damaged or destroyed facilities and equipment.  </td>
 
@@ -241,7 +241,7 @@
 
   <tr>
 
-    <td> 1471b.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft43%2Fs1471b" data-uslm-ref="/us/usc/t43/s1471b">1471b.</a>  </td>
 
     <td> Availability of appropriations for suppression and emergency prevention of forest and range fires.  </td>
 
@@ -249,7 +249,7 @@
 
   <tr>
 
-    <td> 1471c.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft43%2Fs1471c" data-uslm-ref="/us/usc/t43/s1471c">1471c.</a>  </td>
 
     <td> Availability of appropriations for operation of warehouses, garages, shops, and similar facilities.  </td>
 
@@ -257,7 +257,7 @@
 
   <tr>
 
-    <td> 1471c–1.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft43%2Fs1471c%E2%80%931" data-uslm-ref="/us/usc/t43/s1471c–1">1471c–1.</a>  </td>
 
     <td> Availability of appropriations for operation of warehouses, garages, shops, and similar facilities.  </td>
 
@@ -265,7 +265,7 @@
 
   <tr>
 
-    <td> 1471d.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft43%2Fs1471d" data-uslm-ref="/us/usc/t43/s1471d">1471d.</a>  </td>
 
     <td> Availability of appropriations for transportation, reprint, telephone, and library membership expenses.  </td>
 
@@ -273,7 +273,7 @@
 
   <tr>
 
-    <td> 1471e.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft43%2Fs1471e" data-uslm-ref="/us/usc/t43/s1471e">1471e.</a>  </td>
 
     <td> Reimbursement of employee license costs and certification fees.  </td>
 
@@ -281,7 +281,7 @@
 
   <tr>
 
-    <td> 1471f.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft43%2Fs1471f" data-uslm-ref="/us/usc/t43/s1471f">1471f.</a>  </td>
 
     <td> Availability of appropriations for incremental funding of research work orders for cooperative agreements.  </td>
 
@@ -289,7 +289,7 @@
 
   <tr>
 
-    <td> 1471g.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft43%2Fs1471g" data-uslm-ref="/us/usc/t43/s1471g">1471g.</a>  </td>
 
     <td> Availability of appropriations to support Memorial Day and Fourth of July ceremonies and activities in National Capital Region.  </td>
 
@@ -297,7 +297,7 @@
 
   <tr>
 
-    <td> 1471h.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft43%2Fs1471h" data-uslm-ref="/us/usc/t43/s1471h">1471h.</a>  </td>
 
     <td> Availability of appropriations for uniforms or allowances.  </td>
 
@@ -305,7 +305,7 @@
 
   <tr>
 
-    <td> 1471i.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft43%2Fs1471i" data-uslm-ref="/us/usc/t43/s1471i">1471i.</a>  </td>
 
     <td> Availability of appropriations for services or rentals.  </td>
 
@@ -313,7 +313,7 @@
 
   <tr>
 
-    <td> 1472.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft43%2Fs1472" data-uslm-ref="/us/usc/t43/s1472">1472.</a>  </td>
 
     <td> Bureau of Reclamation working capital fund.  </td>
 
@@ -321,7 +321,7 @@
 
   <tr>
 
-    <td> 1473.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft43%2Fs1473" data-uslm-ref="/us/usc/t43/s1473">1473.</a>  </td>
 
     <td> Acceptance of contributions from private and public sources by Mineral Management Service.  </td>
 
@@ -329,7 +329,7 @@
 
   <tr>
 
-    <td> 1473a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft43%2Fs1473a" data-uslm-ref="/us/usc/t43/s1473a">1473a.</a>  </td>
 
     <td> Acceptance of contributions by Secretary; cooperation with prosecution of projects.  </td>
 
@@ -337,7 +337,7 @@
 
   <tr>
 
-    <td> 1473b.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft43%2Fs1473b" data-uslm-ref="/us/usc/t43/s1473b">1473b.</a>  </td>
 
     <td> Awards for contributions to Department of the Interior programs.  </td>
 
@@ -345,7 +345,7 @@
 
   <tr>
 
-    <td> 1473c.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft43%2Fs1473c" data-uslm-ref="/us/usc/t43/s1473c">1473c.</a>  </td>
 
     <td> Payment of costs incidental to services contributed by volunteers.  </td>
 
@@ -353,7 +353,7 @@
 
   <tr>
 
-    <td> 1473d.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft43%2Fs1473d" data-uslm-ref="/us/usc/t43/s1473d">1473d.</a>  </td>
 
     <td> Insurance costs covering vehicles, aircraft, and boats operated by Department of the Interior in Canada and Mexico.  </td>
 
@@ -361,7 +361,7 @@
 
   <tr>
 
-    <td> 1473e.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft43%2Fs1473e" data-uslm-ref="/us/usc/t43/s1473e">1473e.</a>  </td>
 
     <td> Acceptance of donations and bequests for Natural Resources Library.  </td>
 
@@ -369,7 +369,7 @@
 
   <tr>
 
-    <td> 1474.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft43%2Fs1474" data-uslm-ref="/us/usc/t43/s1474">1474.</a>  </td>
 
     <td> Availability of receipts from administrative fees for program operations in Mining Law Administration.  </td>
 
@@ -377,7 +377,7 @@
 
   <tr>
 
-    <td> 1474a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft43%2Fs1474a" data-uslm-ref="/us/usc/t43/s1474a">1474a.</a>  </td>
 
     <td> Emergency Department of the Interior Firefighting Fund; amounts considered “emergency requirements”.  </td>
 
@@ -385,7 +385,7 @@
 
   <tr>
 
-    <td> 1474b.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft43%2Fs1474b" data-uslm-ref="/us/usc/t43/s1474b">1474b.</a>  </td>
 
     <td> Natural Resource Damage Assessment and Restoration Fund; availability of assessments.  </td>
 
@@ -393,7 +393,7 @@
 
   <tr>
 
-    <td> 1474b–1.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft43%2Fs1474b%E2%80%931" data-uslm-ref="/us/usc/t43/s1474b–1">1474b–1.</a>  </td>
 
     <td> Transfer of funds from Natural Resource Damage Assessment and Restoration Fund.  </td>
 
@@ -401,7 +401,7 @@
 
   <tr>
 
-    <td> 1474c.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft43%2Fs1474c" data-uslm-ref="/us/usc/t43/s1474c">1474c.</a>  </td>
 
     <td> North American Wetlands Conservation Fund; availability of fines or forfeitures.  </td>
 
@@ -409,7 +409,7 @@
 
   <tr>
 
-    <td> 1474d.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft43%2Fs1474d" data-uslm-ref="/us/usc/t43/s1474d">1474d.</a>  </td>
 
     <td> Environmental Improvement and Restoration Fund.  </td>
 
@@ -417,7 +417,7 @@
 
   <tr>
 
-    <td> 1474e.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft43%2Fs1474e" data-uslm-ref="/us/usc/t43/s1474e">1474e.</a>  </td>
 
     <td> Sums received by the Bureau of Land Management for the sale of seeds.  </td>
 
@@ -425,7 +425,7 @@
 
   <tr>
 
-    <td> 1474f.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft43%2Fs1474f" data-uslm-ref="/us/usc/t43/s1474f">1474f.</a>  </td>
 
     <td> Sums received by the Bureau of Land Management from vendors under enterprise information technology-procurements.  </td>
 
@@ -433,7 +433,7 @@
 
   <tr>
 
-    <td> 1475.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft43%2Fs1475" data-uslm-ref="/us/usc/t43/s1475">1475.</a>  </td>
 
     <td> Bureau of Reclamation acceptance of services of volunteers.  </td>
 
@@ -441,7 +441,7 @@
 
   <tr>
 
-    <td> 1475a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft43%2Fs1475a" data-uslm-ref="/us/usc/t43/s1475a">1475a.</a>  </td>
 
     <td> Participation of non-Federal entities in contract negotiations and source selection proceedings.  </td>
 
@@ -449,7 +449,7 @@
 
   <tr>
 
-    <td> 1475b  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft43%2Fs1475b" data-uslm-ref="/us/usc/t43/s1475b">1475b</a>  </td>
 
     <td> Volunteer authority.  </td>
 
