@@ -15,7 +15,7 @@
 
 ## § 1021. Definitions
 
-In this subchapter:
+    In this subchapter:
 
     (1) __Arts and sciences__ 
 

@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../../../..//us/usc/t20/ch28/schIV/ptA/spt1/m__us_usc_t20_s1070a–2 to 1070a–6.md) | [Next](./../../../../../../..//us/usc/t20/ch28/schIV/ptA/spt2/d1/m__us_usc_t20_ch28_schIV_ptA_spt2_d1.md) | [Root of Title](./../../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fch28%2FschIV%2FptA%2Fspt2)
+[Previous](./../../../../../../..//us/usc/t20/ch28/schIV/ptA/spt1/m__us_usc_t20_s1070a–1.md) | [Next](./../../../../../../..//us/usc/t20/ch28/schIV/ptA/spt2/d1/m__us_usc_t20_ch28_schIV_ptA_spt2_d1.md) | [Root of Title](./../../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fch28%2FschIV%2FptA%2Fspt2)
 
 ##### subpart 2—federal early outreach and student services programs
 
@@ -21,7 +21,7 @@
 
 ----------
 
-[Previous](./../../../../../../..//us/usc/t20/ch28/schIV/ptA/spt1/m__us_usc_t20_s1070a–2 to 1070a–6.md) | [Next](./../../../../../../..//us/usc/t20/ch28/schIV/ptA/spt2/d1/m__us_usc_t20_ch28_schIV_ptA_spt2_d1.md) | [Root of Title](./../../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fch28%2FschIV%2FptA%2Fspt2)
+[Previous](./../../../../../../..//us/usc/t20/ch28/schIV/ptA/spt1/m__us_usc_t20_s1070a–1.md) | [Next](./../../../../../../..//us/usc/t20/ch28/schIV/ptA/spt2/d1/m__us_usc_t20_ch28_schIV_ptA_spt2_d1.md) | [Root of Title](./../../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fch28%2FschIV%2FptA%2Fspt2)
 
 ----------
 ----------

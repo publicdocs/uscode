@@ -15,7 +15,7 @@
 
 ## § 6552. Purpose
 
-The purpose of this part is to provide for school dropout prevention and reentry and to raise academic achievement levels by providing grants that—
+    The purpose of this part is to provide for school dropout prevention and reentry and to raise academic achievement levels by providing grants that—
 
     (1) challenge all children to attain their highest academic potential; and
 

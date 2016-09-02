@@ -15,7 +15,7 @@
 
 ## § 6453. Local educational agency applications
 
-Each local educational agency desiring assistance under this subpart shall submit an application to the State educational agency that contains such information as the State educational agency may require. Each such application shall include—
+    Each local educational agency desiring assistance under this subpart shall submit an application to the State educational agency that contains such information as the State educational agency may require. Each such application shall include—
 
     (1) a description of the program to be assisted;
 

@@ -15,7 +15,7 @@
 
 ## § 4402. Definitions
 
-For the purpose of this chapter—
+    For the purpose of this chapter—
 
     (1) The term “Indian art and culture” includes (but is not limited to) the traditional and contemporary expressions of Indian language, history, visual and performing arts, and crafts.
 

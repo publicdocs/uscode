@@ -15,7 +15,7 @@
 
 ## § 7713. Definitions
 
-For purposes of this subchapter:
+    For purposes of this subchapter:
 
     (1) __Armed Forces__ 
 

@@ -15,7 +15,7 @@
 
 ## § 7176. Authorization of appropriations
 
-There are authorized to be appropriated—
+    There are authorized to be appropriated—
 
     (1) $1,250,000,000 for fiscal year 2002;
 

@@ -15,7 +15,7 @@
 
 ## § 1087ll. Cost of attendance
 
-For the purpose of this subchapter and part C of subchapter I of chapter 34 of title 42, the term “cost of attendance” means—
+    For the purpose of this subchapter and part C of subchapter I of chapter 34 of title 42, the term “cost of attendance” means—
 
     (1) tuition and fees normally assessed a student carrying the same academic workload as determined by the institution, and including costs for rental or purchase of any equipment, materials, or supplies required of all students in the same course of study;
 

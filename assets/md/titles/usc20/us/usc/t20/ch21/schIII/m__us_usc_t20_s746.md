@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t20/ch21/schIII/m__us_usc_t20_s741 to 745.md) | [Next](./../../../../..//us/usc/t20/ch21/schIV/m__us_usc_t20_ch21_schIV.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs746)
+[Previous](./../../../../..//us/usc/t20/ch21/schIII/m__us_usc_t20_ch21_schIII.md) | [Next](./../../../../..//us/usc/t20/ch21/schIV/m__us_usc_t20_ch21_schIV.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs746)
 
 ## § 746. Repealed. [Pub. L. 92–318, title I, § 161(b)(3)][/us/pl/92/318/s161/b/3], June 23, 1972, [86 Stat. 303][/us/stat/86/303]
 
@@ -23,7 +23,7 @@ Section, [Pub. L. 88–204, title III, § 306][/us/pl/88/204/s306], as added [
 
 ----------
 
-[Previous](./../../../../..//us/usc/t20/ch21/schIII/m__us_usc_t20_s741 to 745.md) | [Next](./../../../../..//us/usc/t20/ch21/schIV/m__us_usc_t20_ch21_schIV.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs746)
+[Previous](./../../../../..//us/usc/t20/ch21/schIII/m__us_usc_t20_ch21_schIII.md) | [Next](./../../../../..//us/usc/t20/ch21/schIV/m__us_usc_t20_ch21_schIV.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs746)
 
 ----------
 ----------

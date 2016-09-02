@@ -15,7 +15,7 @@
 
 ## § 6002. Findings
 
-The Congress finds as follows with respect to improving education in the United States:
+    The Congress finds as follows with respect to improving education in the United States:
 
     (1) A majority of public schools in the United States are failing to prepare students to achieve the National Education Goals. The Federal Government should support an extensive program of educational research, development, dissemination, replication and assistance to identify and support the best responses for the challenges ahead. A significant investment in attaining a deeper understanding of the processes of learning and schooling and developing new ideas holds the best hope of making a substantial difference to the lives of every student in the United States. The Office of Educational Research and Improvement within the Department of Education should be at the center of this campaign in order to coordinate such efforts.
 

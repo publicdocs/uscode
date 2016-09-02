@@ -11,13 +11,13 @@
 ----------
 ----------
 
-[Previous](./../../../../../../..//us/usc/t20/ch28/schIV/ptA/spt8/m__us_usc_t20_s1070f to 1070f–6.md) | [Next](./../../../../../../..//us/usc/t20/ch28/schIV/ptA/spt9/m__us_usc_t20_s1070g.md) | [Root of Title](./../../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fch28%2FschIV%2FptA%2Fspt9)
+[Previous](./../../../../../../..//us/usc/t20/ch28/schIV/ptA/spt8/m__us_usc_t20_ch28_schIV_ptA_spt8.md) | [Next](./../../../../../../..//us/usc/t20/ch28/schIV/ptA/spt9/m__us_usc_t20_s1070g.md) | [Root of Title](./../../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fch28%2FschIV%2FptA%2Fspt9)
 
 ##### subpart 9—teach grants
 
 ----------
 
-[Previous](./../../../../../../..//us/usc/t20/ch28/schIV/ptA/spt8/m__us_usc_t20_s1070f to 1070f–6.md) | [Next](./../../../../../../..//us/usc/t20/ch28/schIV/ptA/spt9/m__us_usc_t20_s1070g.md) | [Root of Title](./../../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fch28%2FschIV%2FptA%2Fspt9)
+[Previous](./../../../../../../..//us/usc/t20/ch28/schIV/ptA/spt8/m__us_usc_t20_ch28_schIV_ptA_spt8.md) | [Next](./../../../../../../..//us/usc/t20/ch28/schIV/ptA/spt9/m__us_usc_t20_s1070g.md) | [Root of Title](./../../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fch28%2FschIV%2FptA%2Fspt9)
 
 ----------
 ----------

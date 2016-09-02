@@ -15,7 +15,7 @@
 
 ## § 6381d. Program elements
 
-Each program assisted under this subpart shall—
+    Each program assisted under this subpart shall—
 
     (1) include the identification and recruitment of families most in need of services provided under this subpart, as indicated by a low level of income, a low level of adult literacy or English language proficiency of the eligible parent or parents, and other need-related indicators;
 

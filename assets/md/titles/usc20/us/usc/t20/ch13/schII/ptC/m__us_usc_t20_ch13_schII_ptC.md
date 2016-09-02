@@ -11,13 +11,13 @@
 ----------
 ----------
 
-[Previous](./../../../../../..//us/usc/t20/ch13/schII/ptB/m__us_usc_t20_s241d to 241d–2.md) | [Next](./../../../../../..//us/usc/t20/ch13/schII/ptC/m__us_usc_t20_s241d–11.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fch13%2FschII%2FptC)
+[Previous](./../../../../../..//us/usc/t20/ch13/schII/ptB/m__us_usc_t20_ch13_schII_ptB.md) | [Next](./../../../../../..//us/usc/t20/ch13/schII/ptC/m__us_usc_t20_s241d–11.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fch13%2FschII%2FptC)
 
 #### Part C—Special Grants
 
 ----------
 
-[Previous](./../../../../../..//us/usc/t20/ch13/schII/ptB/m__us_usc_t20_s241d to 241d–2.md) | [Next](./../../../../../..//us/usc/t20/ch13/schII/ptC/m__us_usc_t20_s241d–11.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fch13%2FschII%2FptC)
+[Previous](./../../../../../..//us/usc/t20/ch13/schII/ptB/m__us_usc_t20_ch13_schII_ptB.md) | [Next](./../../../../../..//us/usc/t20/ch13/schII/ptC/m__us_usc_t20_s241d–11.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fch13%2FschII%2FptC)
 
 ----------
 ----------

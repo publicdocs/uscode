@@ -65,7 +65,7 @@
 
  __Amendment of Section__ 
 
-For termination of amendment by [section 563(c) of Pub. L. 112–239][/us/pl/112/239/s563/c], see Effective and Termination Dates of 2013 Amendment note below.
+    For termination of amendment by [section 563(c) of Pub. L. 112–239][/us/pl/112/239/s563/c], see Effective and Termination Dates of 2013 Amendment note below.
 
  __Amendments__ 
 

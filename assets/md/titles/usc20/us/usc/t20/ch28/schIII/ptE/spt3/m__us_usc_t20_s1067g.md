@@ -15,7 +15,7 @@
 
 ## § 1067g. Eligibility for grants
 
-Eligibility to receive grants under this part is limited to—
+    Eligibility to receive grants under this part is limited to—
 
     (1)
 

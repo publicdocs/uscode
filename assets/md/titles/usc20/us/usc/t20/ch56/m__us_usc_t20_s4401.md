@@ -15,7 +15,7 @@
 
 ## § 4401. Findings
 
-The Congress finds that—
+    The Congress finds that—
 
     (1) Indian art and culture and Native Hawaiian art and culture have contributed greatly to the artistic and cultural richness of the Nation;
 

@@ -15,7 +15,7 @@
 
 ## § 75e. Powers of Board
 
-For the purpose of carrying out any function authorized by [section 75b of this title][/us/usc/t20/s75b], the Board may—
+    For the purpose of carrying out any function authorized by [section 75b of this title][/us/usc/t20/s75b], the Board may—
 
     (1) purchase, accept, borrow, or otherwise acquire portraiture, statuary, and other items for preservation, exhibition, or study. The Board may acquire any such item on the basis of its general historical interest, its artistic merit, or the historical significance of the individual to which it relates, or any combination of any such factors. The Board may acquire period furniture and other items to enhance its displays of portraiture and statuary.
 

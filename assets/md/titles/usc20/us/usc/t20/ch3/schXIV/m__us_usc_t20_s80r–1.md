@@ -15,7 +15,7 @@
 
 ## § 80r–1. Definitions
 
-In this subchapter:
+    In this subchapter:
 
     (1) __Board of Regents__ 
 

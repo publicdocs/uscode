@@ -11,13 +11,13 @@
 ----------
 ----------
 
-[Previous](./../../../../../..//us/usc/t20/ch70/schXIV/ptC/m__us_usc_t20_s8851 to 8857.md) | [Next](./../../../../../..//us/usc/t20/ch70/schXIV/ptD/m__us_usc_t20_s8881.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fch70%2FschXIV%2FptD)
+[Previous](./../../../../../..//us/usc/t20/ch70/schXIV/ptC/m__us_usc_t20_ch70_schXIV_ptC.md) | [Next](./../../../../../..//us/usc/t20/ch70/schXIV/ptD/m__us_usc_t20_s8881.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fch70%2FschXIV%2FptD)
 
 #### Part D—Waivers
 
 ----------
 
-[Previous](./../../../../../..//us/usc/t20/ch70/schXIV/ptC/m__us_usc_t20_s8851 to 8857.md) | [Next](./../../../../../..//us/usc/t20/ch70/schXIV/ptD/m__us_usc_t20_s8881.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fch70%2FschXIV%2FptD)
+[Previous](./../../../../../..//us/usc/t20/ch70/schXIV/ptC/m__us_usc_t20_ch70_schXIV_ptC.md) | [Next](./../../../../../..//us/usc/t20/ch70/schXIV/ptD/m__us_usc_t20_s8881.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fch70%2FschXIV%2FptD)
 
 ----------
 ----------

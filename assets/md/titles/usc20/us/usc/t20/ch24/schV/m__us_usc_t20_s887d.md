@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t20/ch24/schV/m__us_usc_t20_s887c to 887c–2.md) | [Next](./../../../../..//us/usc/t20/ch24/schV/m__us_usc_t20_s887e.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs887d)
+[Previous](./../../../../..//us/usc/t20/ch24/schV/m__us_usc_t20_s887b.md) | [Next](./../../../../..//us/usc/t20/ch24/schV/m__us_usc_t20_s887e.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs887d)
 
 ## § 887d. Repealed. [Pub. L. 95–561, title III, § 301(b)(1)(F)][/us/pl/95/561/s301/b/1/F], Nov. 1, 1978, [92 Stat. 2228][/us/stat/92/2228]
 
@@ -27,7 +27,7 @@
 
 ----------
 
-[Previous](./../../../../..//us/usc/t20/ch24/schV/m__us_usc_t20_s887c to 887c–2.md) | [Next](./../../../../..//us/usc/t20/ch24/schV/m__us_usc_t20_s887e.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs887d)
+[Previous](./../../../../..//us/usc/t20/ch24/schV/m__us_usc_t20_s887b.md) | [Next](./../../../../..//us/usc/t20/ch24/schV/m__us_usc_t20_s887e.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs887d)
 
 ----------
 ----------

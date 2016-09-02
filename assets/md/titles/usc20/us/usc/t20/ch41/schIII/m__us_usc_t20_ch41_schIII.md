@@ -11,16 +11,57 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t20/ch41/schII/m__us_usc_t20_s1941 to 1944.md) | [Next](./../../../../..//us/usc/t20/ch41/schIII/m__us_usc_t20_s1961 to 1966.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fch41%2FschIII)
+[Previous](./../../../../..//us/usc/t20/ch41/schII/m__us_usc_t20_ch41_schII.md) | [Next](./../../../../..//us/usc/t20/ch41/schIV/m__us_usc_t20_ch41_schIV.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fch41%2FschIII)
 
 ### SUBCHAPTER III—OTHER READING IMPROVEMENT PROGRAMS
 
+§§ 1961 to 1966. __Repealed.__  __[__  __Pub. L. 95–561, title XV, § 1529__  __][/us/pl/95/561/s1529]__  __,__  __Nov. 1, 1978__  __,__  __[__  __92 Stat. 2380__  __][/us/stat/92/2380]__ 
+
+    Section 1961, [Pub. L. 93–380, title VII, § 721][/us/pl/93/380/s721], Aug. 21, 1974, [88 Stat. 594][/us/stat/88/594]; [Pub. L. 94–194, § 10][/us/pl/94/194/s10], Dec. 31, 1975, [89 Stat. 1107][/us/stat/89/1107], set forth provisions relating to contracting requirements for special emphasis projects.
+
+    Section 1962, [Pub. L. 93–380, title VII, § 722][/us/pl/93/380/s722], Aug. 21, 1974, [88 Stat. 595][/us/stat/88/595], set forth provisions relating to granting and contracting requirements for reading training on public television.
+
+    Section 1963, [Pub. L. 93–380, title VII, § 723][/us/pl/93/380/s723], Aug. 21, 1974, [88 Stat. 595][/us/stat/88/595]; [Pub. L. 94–194, § 5][/us/pl/94/194/s5], Dec. 31, 1975, [89 Stat. 1104][/us/stat/89/1104], set forth provisions relating to granting and contracting requirements for reading academies.
+
+    Section 1964, [Pub. L. 93–380, title VII, § 724][/us/pl/93/380/s724], as added [Pub. L. 94–194, § 1(b)(1)][/us/pl/94/194/s1/b/1], Dec. 31, 1975, [89 Stat. 1103][/us/stat/89/1103], set forth provisions relating to scope, authority, etc., with respect to State leadership and training activity agreements.
+
+    Section 1965, [Pub. L. 93–380, title VII, § 725][/us/pl/93/380/s725], as added and amended [Pub. L. 94–194, § 6(a)][/us/pl/94/194/s6/a], (b)(1), Dec. 31, 1975, [89 Stat. 1104][/us/stat/89/1104], 1105, set forth provisions relating to granting and contracting requirements for national impact reading programs.
+
+    Section 1966, [Pub. L. 93–380, title VII, § 726][/us/pl/93/380/s726], as added [Pub. L. 94–194, § 9(a)][/us/pl/94/194/s9/a], Dec. 31, 1975, [89 Stat. 1105][/us/stat/89/1105], set forth provisions relating to contracting requirements for an inexpensive book distribution program for reading motivation.
+
+ __Effective Date of Repeal__ 
+
+    Repeal effective Oct. 1, 1978, see [section 1530(a) of Pub. L. 95–561][/us/pl/95/561/s1530/a], set out as an Effective Date of 1978 Amendment note under [section 1221e–3 of this title][/us/usc/t20/s1221e–3].
+
 ----------
 
-[Previous](./../../../../..//us/usc/t20/ch41/schII/m__us_usc_t20_s1941 to 1944.md) | [Next](./../../../../..//us/usc/t20/ch41/schIII/m__us_usc_t20_s1961 to 1966.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fch41%2FschIII)
+[Previous](./../../../../..//us/usc/t20/ch41/schII/m__us_usc_t20_ch41_schII.md) | [Next](./../../../../..//us/usc/t20/ch41/schIV/m__us_usc_t20_ch41_schIV.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fch41%2FschIII)
 
 ----------
 ----------
 
+[/us/pl/95/561/s1529]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F561%2Fs1529
+[/us/stat/92/2380]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2380
+[/us/pl/93/380/s721]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F380%2Fs721
+[/us/stat/88/594]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F594
+[/us/pl/94/194/s10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F194%2Fs10
+[/us/stat/89/1107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F1107
+[/us/pl/93/380/s722]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F380%2Fs722
+[/us/stat/88/595]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F595
+[/us/pl/93/380/s723]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F380%2Fs723
+[/us/stat/88/595]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F595
+[/us/pl/94/194/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F194%2Fs5
+[/us/stat/89/1104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F1104
+[/us/pl/93/380/s724]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F380%2Fs724
+[/us/pl/94/194/s1/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F194%2Fs1%2Fb%2F1
+[/us/stat/89/1103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F1103
+[/us/pl/93/380/s725]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F380%2Fs725
+[/us/pl/94/194/s6/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F194%2Fs6%2Fa
+[/us/stat/89/1104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F1104
+[/us/pl/93/380/s726]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F380%2Fs726
+[/us/pl/94/194/s9/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F194%2Fs9%2Fa
+[/us/stat/89/1105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F1105
+[/us/pl/95/561/s1530/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F561%2Fs1530%2Fa
+[/us/usc/t20/s1221e–3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1221e%E2%80%933
 
 

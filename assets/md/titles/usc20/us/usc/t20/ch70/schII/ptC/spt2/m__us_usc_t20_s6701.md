@@ -15,7 +15,7 @@
 
 ## § 6701. Purposes
 
-The purposes of this subpart are—
+    The purposes of this subpart are—
 
     (1) to support and promote the expansion of the National Writing Project network of sites so that teachers in every region of the United States will have access to a National Writing Project program;
 

@@ -15,7 +15,7 @@
 
 ## § 7277d. Limitations
 
-No funds received under this subpart may be used for any of the following:
+    No funds received under this subpart may be used for any of the following:
 
     (1) Payment of maintenance of costs in connection with any projects constructed in whole or in part with Federal funds provided under this subpart.
 

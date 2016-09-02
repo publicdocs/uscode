@@ -15,7 +15,7 @@
 
 ## § 9831. Purpose
 
-It is the purpose of this part—
+    It is the purpose of this part—
 
     (1) to raise academic achievement through Advanced Placement and International Baccalaureate programs by increasing, by 70,000, over a 4-year period beginning in 2008, the number of teachers serving high-need schools who are qualified to teach Advanced Placement or International Baccalaureate courses in mathematics, science, and critical foreign languages;
 

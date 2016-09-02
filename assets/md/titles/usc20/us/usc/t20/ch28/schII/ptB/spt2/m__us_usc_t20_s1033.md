@@ -15,7 +15,7 @@
 
 ## § 1033. Definitions
 
-In this subpart:
+    In this subpart:
 
     (1) __Eligible institution__ 
 

@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../..//us/usc/t20/ch71/m__us_usc_t20_s9010, 9011.md) | [Next](./../../../..//us/usc/t20/ch72/m__us_usc_t20_ch72.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs9012)
+[Previous](./../../../..//us/usc/t20/ch71/m__us_usc_t20_ch71.md) | [Next](./../../../..//us/usc/t20/ch72/m__us_usc_t20_ch72.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs9012)
 
 ## § 9012. Repealed. [Pub. L. 107–279, title IV, § 403(1)][/us/pl/107/279/s403/1], Nov. 5, 2002, [116 Stat. 1985][/us/stat/116/1985]
 
@@ -19,7 +19,7 @@
 
 ----------
 
-[Previous](./../../../..//us/usc/t20/ch71/m__us_usc_t20_s9010, 9011.md) | [Next](./../../../..//us/usc/t20/ch72/m__us_usc_t20_ch72.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs9012)
+[Previous](./../../../..//us/usc/t20/ch71/m__us_usc_t20_ch71.md) | [Next](./../../../..//us/usc/t20/ch72/m__us_usc_t20_ch72.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs9012)
 
 ----------
 ----------

@@ -15,7 +15,7 @@
 
 ## § 7011. Definitions
 
-Except as otherwise provided, in this subchapter:
+    Except as otherwise provided, in this subchapter:
 
     (1) __Child__ 
 

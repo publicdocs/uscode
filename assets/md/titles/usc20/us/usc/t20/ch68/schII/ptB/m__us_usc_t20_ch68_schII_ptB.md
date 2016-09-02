@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../../..//us/usc/t20/ch68/schII/ptA/m__us_usc_t20_s5821 to 5827.md) | [Next](./../../../../../..//us/usc/t20/ch68/schII/ptB/m__us_usc_t20_s5861 to 5864.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fch68%2FschII%2FptB)
+[Previous](./../../../../../..//us/usc/t20/ch68/schII/ptA/m__us_usc_t20_ch68_schII_ptA.md) | [Next](./../../../../../..//us/usc/t20/ch68/schII/ptC/m__us_usc_t20_ch68_schII_ptC.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fch68%2FschII%2FptB)
 
 #### Part B—Leadership in Educational Technology
 
@@ -41,9 +41,19 @@
 
     Section 5851, [Pub. L. 103–227, title II, § 221][/us/pl/103/227/s221], Mar. 31, 1994, [108 Stat. 151][/us/stat/108/151], required Secretary to make grant, in amount not to exceed $500,000, to National Academy of Sciences or National Academy of Education to evaluate technical quality of work performed, and certain processes used, by Goals Panel and Council, and required recipient of grant to submit final report to Congress, Secretary, and the public regarding activities assisted under this section not later than Jan. 1, 1998.
 
+§§ 5861 to 5864. __Repealed.__  __[__  __Pub. L. 103–382, title III, § 361(a)__  __][/us/pl/103/382/s361/a]__  __,__  __Oct. 20, 1994__  __,__  __[__  __108 Stat. 3974__  __][/us/stat/108/3974]__ 
+
+    Section 5861, [Pub. L. 103–227, title II, § 231][/us/pl/103/227/s231], Mar. 31, 1994, [108 Stat. 151][/us/stat/108/151]; [Pub. L. 103–382, title III, § 394(f)(2)][/us/pl/103/382/s394/f/2], Oct. 20, 1994, [108 Stat. 4027][/us/stat/108/4027], stated purpose of this part to provide leadership in educational technology.
+
+    Section 5862, [Pub. L. 103–227, title II, § 232][/us/pl/103/227/s232], Mar. 31, 1994, [108 Stat. 152][/us/stat/108/152]; [Pub. L. 103–382, title III, § 394(f)(3)][/us/pl/103/382/s394/f/3], Oct. 20, 1994, [108 Stat. 4027][/us/stat/108/4027], related to Federal leadership in use of technology in education.
+
+    Section 5863, [Pub. L. 103–227, title II, § 234][/us/pl/103/227/s234], Mar. 31, 1994, [108 Stat. 155][/us/stat/108/155], related to uses of funds.
+
+    Section 5864, [Pub. L. 103–227, title II, § 235][/us/pl/103/227/s235], Mar. 31, 1994, [108 Stat. 156][/us/stat/108/156], related to non-Federal share of cost of activities assisted under grants or contracts under this part.
+
 ----------
 
-[Previous](./../../../../../..//us/usc/t20/ch68/schII/ptA/m__us_usc_t20_s5821 to 5827.md) | [Next](./../../../../../..//us/usc/t20/ch68/schII/ptB/m__us_usc_t20_s5861 to 5864.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fch68%2FschII%2FptB)
+[Previous](./../../../../../..//us/usc/t20/ch68/schII/ptA/m__us_usc_t20_ch68_schII_ptA.md) | [Next](./../../../../../..//us/usc/t20/ch68/schII/ptC/m__us_usc_t20_ch68_schII_ptC.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fch68%2FschII%2FptB)
 
 ----------
 ----------
@@ -76,5 +86,19 @@
 [/us/stat/108/150]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F150
 [/us/pl/103/227/s221]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F227%2Fs221
 [/us/stat/108/151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F151
+[/us/pl/103/382/s361/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F382%2Fs361%2Fa
+[/us/stat/108/3974]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3974
+[/us/pl/103/227/s231]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F227%2Fs231
+[/us/stat/108/151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F151
+[/us/pl/103/382/s394/f/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F382%2Fs394%2Ff%2F2
+[/us/stat/108/4027]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4027
+[/us/pl/103/227/s232]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F227%2Fs232
+[/us/stat/108/152]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F152
+[/us/pl/103/382/s394/f/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F382%2Fs394%2Ff%2F3
+[/us/stat/108/4027]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4027
+[/us/pl/103/227/s234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F227%2Fs234
+[/us/stat/108/155]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F155
+[/us/pl/103/227/s235]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F227%2Fs235
+[/us/stat/108/156]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F156
 
 

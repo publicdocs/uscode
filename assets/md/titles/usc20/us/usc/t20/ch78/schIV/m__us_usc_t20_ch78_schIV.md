@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t20/ch78/schIII/m__us_usc_t20_s9861 to 9864.md) | [Next](./../../../../..//us/usc/t20/ch78/schIV/m__us_usc_t20_s9871.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fch78%2FschIV)
+[Previous](./../../../../..//us/usc/t20/ch78/schIII/m__us_usc_t20_ch78_schIII.md) | [Next](./../../../../..//us/usc/t20/ch78/schIV/m__us_usc_t20_s9871.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fch78%2FschIV)
 
 ### SUBCHAPTER IV—ALIGNMENT OF EDUCATION PROGRAMS
 
@@ -21,7 +21,7 @@
 
 ----------
 
-[Previous](./../../../../..//us/usc/t20/ch78/schIII/m__us_usc_t20_s9861 to 9864.md) | [Next](./../../../../..//us/usc/t20/ch78/schIV/m__us_usc_t20_s9871.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fch78%2FschIV)
+[Previous](./../../../../..//us/usc/t20/ch78/schIII/m__us_usc_t20_ch78_schIII.md) | [Next](./../../../../..//us/usc/t20/ch78/schIV/m__us_usc_t20_s9871.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fch78%2FschIV)
 
 ----------
 ----------

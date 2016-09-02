@@ -15,7 +15,7 @@
 
 ## § 6682. Definitions
 
-In this division:
+    In this division:
 
     (1) __Eligible participant__ 
 

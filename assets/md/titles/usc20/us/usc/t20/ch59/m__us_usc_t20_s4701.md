@@ -15,7 +15,7 @@
 
 ## § 4701. Findings
 
-The Congress makes the following findings:
+    The Congress makes the following findings:
 
     (1) Senator Barry Goldwater of the State of Arizona has served his country for 56 years as a soldier and statesman, including service in the United States Senate for a period of 30 years.
 

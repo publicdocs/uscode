@@ -15,7 +15,7 @@
 
 ## § 9701. Definitions
 
-As used in this chapter—
+    As used in this chapter—
 
     (1) the term “Chairperson” means the Chairperson of the Financial Literacy and Education Commission; and
 

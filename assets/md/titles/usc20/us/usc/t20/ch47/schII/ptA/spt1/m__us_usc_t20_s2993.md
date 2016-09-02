@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../../../..//us/usc/t20/ch47/schII/ptA/spt1/m__us_usc_t20_s2983 to 2992.md) | [Next](./../../../../../../..//us/usc/t20/ch47/schII/ptA/spt2/m__us_usc_t20_ch47_schII_ptA_spt2.md) | [Root of Title](./../../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs2993)
+[Previous](./../../../../../../..//us/usc/t20/ch47/schII/ptA/spt1/m__us_usc_t20_ch47_schII_ptA_spt1.md) | [Next](./../../../../../../..//us/usc/t20/ch47/schII/ptA/spt2/m__us_usc_t20_ch47_schII_ptA_spt2.md) | [Root of Title](./../../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs2993)
 
 ## § 2993. Transferred
 
@@ -21,7 +21,7 @@
 
 ----------
 
-[Previous](./../../../../../../..//us/usc/t20/ch47/schII/ptA/spt1/m__us_usc_t20_s2983 to 2992.md) | [Next](./../../../../../../..//us/usc/t20/ch47/schII/ptA/spt2/m__us_usc_t20_ch47_schII_ptA_spt2.md) | [Root of Title](./../../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs2993)
+[Previous](./../../../../../../..//us/usc/t20/ch47/schII/ptA/spt1/m__us_usc_t20_ch47_schII_ptA_spt1.md) | [Next](./../../../../../../..//us/usc/t20/ch47/schII/ptA/spt2/m__us_usc_t20_ch47_schII_ptA_spt2.md) | [Root of Title](./../../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs2993)
 
 ----------
 ----------

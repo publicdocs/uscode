@@ -15,7 +15,7 @@
 
 ## § 5812. National Education Goals
 
-The Congress declares that the National Education Goals are the following:
+    The Congress declares that the National Education Goals are the following:
 
     (1) __School readiness__ 
 

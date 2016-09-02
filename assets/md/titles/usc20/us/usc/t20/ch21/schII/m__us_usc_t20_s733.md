@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t20/ch21/schII/m__us_usc_t20_s731, 732.md) | [Next](./../../../../..//us/usc/t20/ch21/schIII/m__us_usc_t20_ch21_schIII.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs733)
+[Previous](./../../../../..//us/usc/t20/ch21/schII/m__us_usc_t20_ch21_schII.md) | [Next](./../../../../..//us/usc/t20/ch21/schIII/m__us_usc_t20_ch21_schIII.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs733)
 
 ## § 733. Repealed. [Pub. L. 90–575, title II, § 291(b)(1)][/us/pl/90/575/s291/b/1], Oct. 16, 1968, [82 Stat. 1050][/us/stat/82/1050]
 
@@ -19,7 +19,7 @@
 
 ----------
 
-[Previous](./../../../../..//us/usc/t20/ch21/schII/m__us_usc_t20_s731, 732.md) | [Next](./../../../../..//us/usc/t20/ch21/schIII/m__us_usc_t20_ch21_schIII.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs733)
+[Previous](./../../../../..//us/usc/t20/ch21/schII/m__us_usc_t20_ch21_schII.md) | [Next](./../../../../..//us/usc/t20/ch21/schIII/m__us_usc_t20_ch21_schIII.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs733)
 
 ----------
 ----------

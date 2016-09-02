@@ -15,7 +15,7 @@
 
 ## § 197. Construction of Chinese Garden at the National Arboretum
 
-A Chinese Garden may be constructed at the National Arboretum established under this chapter with—
+    A Chinese Garden may be constructed at the National Arboretum established under this chapter with—
 
     (1) funds accepted under [section 195 of this title][/us/usc/t20/s195];
 

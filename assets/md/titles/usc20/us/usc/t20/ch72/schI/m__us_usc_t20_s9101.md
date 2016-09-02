@@ -15,7 +15,7 @@
 
 ## § 9101. General definitions
 
-As used in this chapter:
+    As used in this chapter:
 
     (1) __Determined to be obscene__ 
 

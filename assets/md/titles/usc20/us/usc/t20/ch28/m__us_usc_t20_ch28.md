@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../..//us/usc/t20/ch27/m__us_usc_t20_s981 to 996.md) | [Next](./../../../..//us/usc/t20/ch28/schI/m__us_usc_t20_ch28_schI.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fch28)
+[Previous](./../../../..//us/usc/t20/ch27/m__us_usc_t20_ch27.md) | [Next](./../../../..//us/usc/t20/ch28/schI/m__us_usc_t20_ch28_schI.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fch28)
 
 ## CHAPTER 28—HIGHER EDUCATION RESOURCES AND STUDENT ASSISTANCE
 
@@ -4299,7 +4299,7 @@ Part AA—Masters and Postbaccalaureate Program  </td>
 
 ----------
 
-[Previous](./../../../..//us/usc/t20/ch27/m__us_usc_t20_s981 to 996.md) | [Next](./../../../..//us/usc/t20/ch28/schI/m__us_usc_t20_ch28_schI.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fch28)
+[Previous](./../../../..//us/usc/t20/ch27/m__us_usc_t20_ch27.md) | [Next](./../../../..//us/usc/t20/ch28/schI/m__us_usc_t20_ch28_schI.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fch28)
 
 ----------
 ----------

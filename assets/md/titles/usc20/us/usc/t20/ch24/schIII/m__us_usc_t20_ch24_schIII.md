@@ -11,13 +11,13 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t20/ch24/schII/m__us_usc_t20_s845 to 848.md) | [Next](./../../../../..//us/usc/t20/ch24/schIII/ptA/m__us_usc_t20_ch24_schIII_ptA.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fch24%2FschIII)
+[Previous](./../../../../..//us/usc/t20/ch24/schII/m__us_usc_t20_s844b.md) | [Next](./../../../../..//us/usc/t20/ch24/schIII/ptA/m__us_usc_t20_ch24_schIII_ptA.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fch24%2FschIII)
 
 ### SUBCHAPTER III—STRENGTHENING STATE AND LOCAL EDUCATIONAL AGENCIES
 
 ----------
 
-[Previous](./../../../../..//us/usc/t20/ch24/schII/m__us_usc_t20_s845 to 848.md) | [Next](./../../../../..//us/usc/t20/ch24/schIII/ptA/m__us_usc_t20_ch24_schIII_ptA.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fch24%2FschIII)
+[Previous](./../../../../..//us/usc/t20/ch24/schII/m__us_usc_t20_s844b.md) | [Next](./../../../../..//us/usc/t20/ch24/schIII/ptA/m__us_usc_t20_ch24_schIII_ptA.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fch24%2FschIII)
 
 ----------
 ----------

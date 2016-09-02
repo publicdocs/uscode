@@ -15,7 +15,7 @@
 
 ## § 7311a. Purpose
 
-The purpose of this subpart is to create options for selected State educational agencies and local educational agencies—
+    The purpose of this subpart is to create options for selected State educational agencies and local educational agencies—
 
     (1) to improve the academic achievement of all students, and to focus the resources of the Federal Government upon such achievement;
 

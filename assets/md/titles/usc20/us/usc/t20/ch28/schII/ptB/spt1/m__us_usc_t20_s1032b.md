@@ -15,7 +15,7 @@
 
 ## § 1032b. Application requirements
 
-To be eligible to receive a grant or enter into a contract or cooperative agreement under this subpart, an eligible consortium shall submit an application to the Secretary at such time, in such manner, and containing such information as the Secretary may require. Such application shall include the following:
+    To be eligible to receive a grant or enter into a contract or cooperative agreement under this subpart, an eligible consortium shall submit an application to the Secretary at such time, in such manner, and containing such information as the Secretary may require. Such application shall include the following:
 
     (1)
 

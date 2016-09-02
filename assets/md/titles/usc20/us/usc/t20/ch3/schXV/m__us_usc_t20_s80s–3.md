@@ -15,7 +15,7 @@
 
 ## § 80s–3. Authorization of appropriations
 
-There are authorized to be appropriated to carry out this subchapter—
+    There are authorized to be appropriated to carry out this subchapter—
 
     (1) $500,000 for fiscal year 2010; and
 

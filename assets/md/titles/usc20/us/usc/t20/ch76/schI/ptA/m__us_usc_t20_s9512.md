@@ -15,7 +15,7 @@
 
 ## § 9512. Functions
 
-From funds appropriated under [section 9584 of this title][/us/usc/t20/s9584], the Institute, directly or through grants, contracts, or cooperative agreements, shall—
+    From funds appropriated under [section 9584 of this title][/us/usc/t20/s9584], the Institute, directly or through grants, contracts, or cooperative agreements, shall—
 
     (1) conduct and support scientifically valid research activities, including basic research and applied research, statistics activities, scientifically valid education evaluation, development, and wide dissemination;
 

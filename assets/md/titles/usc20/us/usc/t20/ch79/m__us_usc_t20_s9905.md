@@ -15,7 +15,7 @@
 
 ## § 9905. Definitions
 
-In this chapter:
+    In this chapter:
 
     (1) __Field-based course__ 
 

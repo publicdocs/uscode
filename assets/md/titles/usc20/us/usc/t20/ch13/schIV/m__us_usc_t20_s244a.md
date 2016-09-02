@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t20/ch13/schIV/m__us_usc_t20_s242 to 244.md) | [Next](./../../../../..//us/usc/t20/ch13/schIV/m__us_usc_t20_s245.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs244a)
+[Previous](./../../../../..//us/usc/t20/ch13/schIV/m__us_usc_t20_ch13_schIV.md) | [Next](./../../../../..//us/usc/t20/ch13/schIV/m__us_usc_t20_s245.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs244a)
 
 ## § 244a. Transferred
 
@@ -21,7 +21,7 @@
 
 ----------
 
-[Previous](./../../../../..//us/usc/t20/ch13/schIV/m__us_usc_t20_s242 to 244.md) | [Next](./../../../../..//us/usc/t20/ch13/schIV/m__us_usc_t20_s245.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs244a)
+[Previous](./../../../../..//us/usc/t20/ch13/schIV/m__us_usc_t20_ch13_schIV.md) | [Next](./../../../../..//us/usc/t20/ch13/schIV/m__us_usc_t20_s245.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs244a)
 
 ----------
 ----------

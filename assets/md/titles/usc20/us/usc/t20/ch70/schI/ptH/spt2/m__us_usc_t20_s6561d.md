@@ -15,7 +15,7 @@
 
 ## § 6561d. Strategies and capacity building
 
-Each local educational agency receiving a grant or subgrant under this subpart and each State educational agency receiving a grant under this subpart shall implement scientifically based, sustainable, and widely replicated strategies for school dropout prevention and reentry. The strategies may include—
+    Each local educational agency receiving a grant or subgrant under this subpart and each State educational agency receiving a grant under this subpart shall implement scientifically based, sustainable, and widely replicated strategies for school dropout prevention and reentry. The strategies may include—
 
     (1)
 

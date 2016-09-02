@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t20/ch72/schIII/m__us_usc_t20_s9172.md) | [Next](./../../../../..//us/usc/t20/ch72/schIII/m__us_usc_t20_s9174, 9175.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs9173)
+[Previous](./../../../../..//us/usc/t20/ch72/schIII/m__us_usc_t20_s9172.md) | [Next](./../../../../..//us/usc/t20/ch72/schIII/m__us_usc_t20_s9176.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs9173)
 
 ## § 9173. Museum services activities
 
@@ -133,9 +133,15 @@
 
     2003—[Pub. L. 108–81, § 303][/us/pl/108/81/s303], amended section catchline and text generally. Prior to amendment, section contained provisions which in subsec. (a) authorized the Director to make grants to museums to pay for the Federal share of the cost of increasing and improving museum services, in subsec. (b) authorized the Director to enter into contracts and cooperative agreements with appropriate entities to pay for the Federal share of enabling the entities to undertake projects designed to strengthen museum services, in subsec. (c) established the Federal share, and in subsec. (d) required the Director to establish procedures for reviewing and evaluating grants, contracts, and cooperative agreements entered into under this subchapter.
 
+§§ 9174, 9175. __Repealed.__  __[__  __Pub. L. 108–81, title III, § 304__  __][/us/pl/108/81/s304]__  __,__  __Sept. 25, 2003__  __,__  __[__  __117 Stat. 1002__  __][/us/stat/117/1002]__ 
+
+    Section 9174, [Pub. L. 94–462, title II, § 274][/us/pl/94/462/s274], as added [Pub. L. 104–208, div. A, title I, § 101(e)][/us/pl/104/208/s101/e] \[title VII, § 702\], Sept. 30, 1996, [110 Stat. 3009–233][/us/stat/110/3009-233], 3009–304, related to National Award for Museum Service.
+
+    Section 9175, [Pub. L. 94–462, title II, § 275][/us/pl/94/462/s275], as added [Pub. L. 104–208, div. A, title I, § 101(e)][/us/pl/104/208/s101/e] \[title VII, § 702\], Sept. 30, 1996, [110 Stat. 3009–233][/us/stat/110/3009-233], 3009–304, related to National Museum Services Board.
+
 ----------
 
-[Previous](./../../../../..//us/usc/t20/ch72/schIII/m__us_usc_t20_s9172.md) | [Next](./../../../../..//us/usc/t20/ch72/schIII/m__us_usc_t20_s9174, 9175.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs9173)
+[Previous](./../../../../..//us/usc/t20/ch72/schIII/m__us_usc_t20_s9172.md) | [Next](./../../../../..//us/usc/t20/ch72/schIII/m__us_usc_t20_s9176.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs9173)
 
 ----------
 ----------
@@ -162,5 +168,13 @@
 [/us/pl/111/340/s303/2/C/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F340%2Fs303%2F2%2FC%2Fi
 [/us/pl/111/340/s303/2/C/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F340%2Fs303%2F2%2FC%2Fii
 [/us/pl/108/81/s303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F81%2Fs303
+[/us/pl/108/81/s304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F81%2Fs304
+[/us/stat/117/1002]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1002
+[/us/pl/94/462/s274]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F462%2Fs274
+[/us/pl/104/208/s101/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs101%2Fe
+[/us/stat/110/3009-233]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3009-233
+[/us/pl/94/462/s275]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F462%2Fs275
+[/us/pl/104/208/s101/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs101%2Fe
+[/us/stat/110/3009-233]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3009-233
 
 

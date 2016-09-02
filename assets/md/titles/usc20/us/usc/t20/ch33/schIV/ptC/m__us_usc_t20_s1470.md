@@ -15,7 +15,7 @@
 
 ## § 1470. Purposes
 
-The purposes of this part are to ensure that—
+    The purposes of this part are to ensure that—
 
     (1) children with disabilities and their parents receive training and information designed to assist the children in meeting developmental and functional goals and challenging academic achievement goals, and in preparing to lead productive independent adult lives;
 

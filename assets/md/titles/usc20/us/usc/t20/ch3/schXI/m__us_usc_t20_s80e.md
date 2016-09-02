@@ -15,7 +15,7 @@
 
 ## § 80e. Congressional declaration of policy
 
-The Congress hereby finds and declares—
+    The Congress hereby finds and declares—
 
     (1) that a living institution expressing the ideals and concerns of Woodrow Wilson would be an appropriate memorial to his accomplishments as the twenty-eighth President of the United States, a distinguished scholar, an outstanding university president, and a brilliant advocate of international understanding;
 

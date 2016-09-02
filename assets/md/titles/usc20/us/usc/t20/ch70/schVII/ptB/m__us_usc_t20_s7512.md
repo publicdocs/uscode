@@ -15,7 +15,7 @@
 
 ## § 7512. Findings
 
-Congress finds the following:
+    Congress finds the following:
 
     (1) Native Hawaiians are a distinct and unique indigenous people with a historical continuity to the original inhabitants of the Hawaiian archipelago, whose society was organized as a nation and internationally recognized as a nation by the United States, Britain, France, and Japan, as evidenced by treaties governing friendship, commerce, and navigation.
 

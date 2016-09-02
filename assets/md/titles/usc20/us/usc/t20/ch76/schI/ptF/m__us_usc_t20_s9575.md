@@ -15,7 +15,7 @@
 
 ## § 9575. Performance management
 
-The Director shall ensure that all activities conducted or supported by the Institute or a National Education Center make customer service a priority. The Director shall ensure a high level of customer satisfaction through the following methods:
+    The Director shall ensure that all activities conducted or supported by the Institute or a National Education Center make customer service a priority. The Director shall ensure a high level of customer satisfaction through the following methods:
 
     (1) Establishing and improving feedback mechanisms in order to anticipate customer needs.
 

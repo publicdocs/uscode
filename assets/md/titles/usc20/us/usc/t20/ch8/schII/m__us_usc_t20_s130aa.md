@@ -15,7 +15,7 @@
 
 ## § 130aa. Definitions
 
-For purposes of this subchapter—
+    For purposes of this subchapter—
 
     (1) the term “endowment fund” means a fund, or a tax exempt foundation, established and maintained by Howard University for the purpose of generating income for its support, but which shall not include real estate;
 

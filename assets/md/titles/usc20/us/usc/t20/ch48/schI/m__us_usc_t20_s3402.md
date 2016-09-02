@@ -15,7 +15,7 @@
 
 ## § 3402. Congressional declaration of purpose
 
-The Congress declares that the establishment of a Department of Education is in the public interest, will promote the general welfare of the United States, will help ensure that education issues receive proper treatment at the Federal level, and will enable the Federal Government to coordinate its education activities more effectively. Therefore, the purposes of this chapter are—
+    The Congress declares that the establishment of a Department of Education is in the public interest, will promote the general welfare of the United States, will help ensure that education issues receive proper treatment at the Federal level, and will enable the Federal Government to coordinate its education activities more effectively. Therefore, the purposes of this chapter are—
 
     (1) to strengthen the Federal commitment to ensuring access to equal educational opportunity for every individual;
 

@@ -15,7 +15,7 @@
 
 ## § 3401. Congressional findings
 
-The Congress finds that—
+    The Congress finds that—
 
     (1) education is fundamental to the development of individual citizens and the progress of the Nation;
 

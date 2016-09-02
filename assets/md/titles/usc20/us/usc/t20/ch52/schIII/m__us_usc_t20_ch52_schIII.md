@@ -11,13 +11,13 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t20/ch52/schII/m__us_usc_t20_s3961 to 3973.md) | [Next](./../../../../..//us/usc/t20/ch52/schIII/ptA/m__us_usc_t20_ch52_schIII_ptA.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fch52%2FschIII)
+[Previous](./../../../../..//us/usc/t20/ch52/schII/m__us_usc_t20_ch52_schII.md) | [Next](./../../../../..//us/usc/t20/ch52/schIII/ptA/m__us_usc_t20_ch52_schIII_ptA.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fch52%2FschIII)
 
 ### SUBCHAPTER III—PARTNERSHIPS IN EDUCATION FOR MATHEMATICS, SCIENCE, AND ENGINEERING
 
 ----------
 
-[Previous](./../../../../..//us/usc/t20/ch52/schII/m__us_usc_t20_s3961 to 3973.md) | [Next](./../../../../..//us/usc/t20/ch52/schIII/ptA/m__us_usc_t20_ch52_schIII_ptA.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fch52%2FschIII)
+[Previous](./../../../../..//us/usc/t20/ch52/schII/m__us_usc_t20_ch52_schII.md) | [Next](./../../../../..//us/usc/t20/ch52/schIII/ptA/m__us_usc_t20_ch52_schIII_ptA.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fch52%2FschIII)
 
 ----------
 ----------

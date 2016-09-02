@@ -15,7 +15,7 @@
 
 ## § 6067. Sense of Congress
 
-It is the sense of the Congress that—
+    It is the sense of the Congress that—
 
     (1) no funds appropriated pursuant to this chapter should be expended by an entity unless the entity agrees that in expending the assistance the entity will comply with chapter 83 of title 41;
 

@@ -15,7 +15,7 @@
 
 ## § 7213. State uses of funds
 
-A State educational agency may use funds made available for State use under [section 7211a(b) of this title][/us/usc/t20/s7211a/b] only for one or more of the following:
+    A State educational agency may use funds made available for State use under [section 7211a(b) of this title][/us/usc/t20/s7211a/b] only for one or more of the following:
 
     (1)
 

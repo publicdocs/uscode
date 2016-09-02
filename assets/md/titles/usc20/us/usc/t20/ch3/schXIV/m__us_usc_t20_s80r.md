@@ -15,7 +15,7 @@
 
 ## § 80r. Findings
 
-Congress finds that—
+    Congress finds that—
 
     (1) since its founding, the United States has grown into a symbol of democracy and freedom around the world, and the legacy of African Americans is rooted in the very fabric of the democracy and freedom of the United States;
 

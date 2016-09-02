@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../..//us/usc/t20/ch32/m__us_usc_t20_s1247 to 1393f.md) | [Next](./../../../..//us/usc/t20/ch33/schI/m__us_usc_t20_ch33_schI.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fch33)
+[Previous](./../../../..//us/usc/t20/ch32/m__us_usc_t20_ch32.md) | [Next](./../../../..//us/usc/t20/ch33/schI/m__us_usc_t20_ch33_schI.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fch33)
 
 ## CHAPTER 33—EDUCATION OF INDIVIDUALS WITH DISABILITIES
 
@@ -519,7 +519,7 @@ Part D—General Provisions  </td>
 
 ----------
 
-[Previous](./../../../..//us/usc/t20/ch32/m__us_usc_t20_s1247 to 1393f.md) | [Next](./../../../..//us/usc/t20/ch33/schI/m__us_usc_t20_ch33_schI.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fch33)
+[Previous](./../../../..//us/usc/t20/ch32/m__us_usc_t20_ch32.md) | [Next](./../../../..//us/usc/t20/ch33/schI/m__us_usc_t20_ch33_schI.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fch33)
 
 ----------
 ----------

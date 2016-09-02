@@ -15,7 +15,7 @@
 
 ## § 4514. Definitions
 
-As used in this chapter—
+    As used in this chapter—
 
     (1) the term “Board” means the Board of Trustees of the James Madison Memorial Fellowship Foundation;
 

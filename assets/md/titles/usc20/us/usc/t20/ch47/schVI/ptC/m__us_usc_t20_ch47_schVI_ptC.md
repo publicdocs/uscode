@@ -11,16 +11,37 @@
 ----------
 ----------
 
-[Previous](./../../../../../..//us/usc/t20/ch47/schVI/ptB/m__us_usc_t20_s3261 to 3266.md) | [Next](./../../../../../..//us/usc/t20/ch47/schVI/ptC/m__us_usc_t20_s3271, 3272.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fch47%2FschVI%2FptC)
+[Previous](./../../../../../..//us/usc/t20/ch47/schVI/ptB/m__us_usc_t20_ch47_schVI_ptB.md) | [Next](./../../../../../..//us/usc/t20/ch47/schVII/m__us_usc_t20_ch47_schVII.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fch47%2FschVI%2FptC)
 
 #### Part C—General Provisions
 
+§§ 3271, 3272. __Omitted__ 
+
+ __Codification__ 
+
+    Sections were omitted in the general amendment of the Elementary and Secondary Education Act of 1965, [Pub. L. 89–10][/us/pl/89/10], by [Pub. L. 103–382, title I, § 101][/us/pl/103/382/s101], Oct. 20, 1994, [108 Stat. 3519][/us/stat/108/3519].
+
+    Section 3271, [Pub. L. 89–10, title VI, § 6201][/us/pl/89/10/s6201], as added [Pub. L. 100–297, title I, § 1001][/us/pl/100/297/s1001], Apr. 28, 1988, [102 Stat. 273][/us/stat/102/273]; amended [Pub. L. 101–250, § 4][/us/pl/101/250/s4], Mar. 6, 1990, [104 Stat. 97][/us/stat/104/97], contained provisions general to this subchapter.
+
+    Section 3272, [Pub. L. 89–10, title VI, § 6202][/us/pl/89/10/s6202], as added [Pub. L. 100–297, title I, § 1001][/us/pl/100/297/s1001], Apr. 28, 1988, [102 Stat. 273][/us/stat/102/273], defined terms used in this subchapter.
+
 ----------
 
-[Previous](./../../../../../..//us/usc/t20/ch47/schVI/ptB/m__us_usc_t20_s3261 to 3266.md) | [Next](./../../../../../..//us/usc/t20/ch47/schVI/ptC/m__us_usc_t20_s3271, 3272.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fch47%2FschVI%2FptC)
+[Previous](./../../../../../..//us/usc/t20/ch47/schVI/ptB/m__us_usc_t20_ch47_schVI_ptB.md) | [Next](./../../../../../..//us/usc/t20/ch47/schVII/m__us_usc_t20_ch47_schVII.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fch47%2FschVI%2FptC)
 
 ----------
 ----------
 
+[/us/pl/89/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F10
+[/us/pl/103/382/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F382%2Fs101
+[/us/stat/108/3519]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3519
+[/us/pl/89/10/s6201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F10%2Fs6201
+[/us/pl/100/297/s1001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F297%2Fs1001
+[/us/stat/102/273]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F273
+[/us/pl/101/250/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F250%2Fs4
+[/us/stat/104/97]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F97
+[/us/pl/89/10/s6202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F10%2Fs6202
+[/us/pl/100/297/s1001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F297%2Fs1001
+[/us/stat/102/273]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F273
 
 

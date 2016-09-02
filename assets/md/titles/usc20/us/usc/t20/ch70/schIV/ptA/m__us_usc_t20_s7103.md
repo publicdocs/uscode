@@ -15,7 +15,7 @@
 
 ## § 7103. Authorization of appropriations
 
-There are authorized to be appropriated—
+    There are authorized to be appropriated—
 
     (1) $650,000,000 for fiscal year 2002, and such sums as may be necessary for each of the 5 succeeding fiscal years, for State grants under subpart 1 of this part; and
 

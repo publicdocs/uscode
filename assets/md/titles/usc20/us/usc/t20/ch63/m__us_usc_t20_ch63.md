@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../..//us/usc/t20/ch62/schII/ptD/m__us_usc_t20_s5121 to 5124.md) | [Next](./../../../..//us/usc/t20/ch63/m__us_usc_t20_s5201.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fch63)
+[Previous](./../../../..//us/usc/t20/ch62/schII/ptD/m__us_usc_t20_ch62_schII_ptD.md) | [Next](./../../../..//us/usc/t20/ch63/m__us_usc_t20_s5201.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fch63)
 
 ## CHAPTER 63—EISENHOWER EXCHANGE FELLOWSHIP PROGRAM
 
@@ -83,7 +83,7 @@
 
 ----------
 
-[Previous](./../../../..//us/usc/t20/ch62/schII/ptD/m__us_usc_t20_s5121 to 5124.md) | [Next](./../../../..//us/usc/t20/ch63/m__us_usc_t20_s5201.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fch63)
+[Previous](./../../../..//us/usc/t20/ch62/schII/ptD/m__us_usc_t20_ch62_schII_ptD.md) | [Next](./../../../..//us/usc/t20/ch63/m__us_usc_t20_s5201.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fch63)
 
 ----------
 ----------

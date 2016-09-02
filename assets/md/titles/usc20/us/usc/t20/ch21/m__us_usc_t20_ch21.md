@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../..//us/usc/t20/ch20B/schIII/m__us_usc_t20_s695 to 695c.md) | [Next](./../../../..//us/usc/t20/ch21/m__us_usc_t20_s701.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fch21)
+[Previous](./../../../..//us/usc/t20/ch20B/schIII/m__us_usc_t20_ch20B_schIII.md) | [Next](./../../../..//us/usc/t20/ch21/m__us_usc_t20_s701.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fch21)
 
 ## CHAPTER 21—HIGHER EDUCATION FACILITIES
 
@@ -23,7 +23,7 @@
 
 ----------
 
-[Previous](./../../../..//us/usc/t20/ch20B/schIII/m__us_usc_t20_s695 to 695c.md) | [Next](./../../../..//us/usc/t20/ch21/m__us_usc_t20_s701.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fch21)
+[Previous](./../../../..//us/usc/t20/ch20B/schIII/m__us_usc_t20_ch20B_schIII.md) | [Next](./../../../..//us/usc/t20/ch21/m__us_usc_t20_s701.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fch21)
 
 ----------
 ----------

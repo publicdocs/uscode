@@ -15,7 +15,7 @@
 
 ## § 6753. Definitions
 
-In this part:
+    In this part:
 
     (1) __Eligible local entity__ 
 

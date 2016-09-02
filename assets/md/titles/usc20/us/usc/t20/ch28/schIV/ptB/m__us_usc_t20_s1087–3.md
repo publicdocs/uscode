@@ -279,7 +279,7 @@
 
  __Repeal of Section__ 
 
-[Pub. L. 104–208, div. A, title I, § 101(e)][/us/pl/104/208/s101/e] \[title VI, § 602(d)\], Sept. 30, 1996, [110 Stat. 3009–233][/us/stat/110/3009-233], 3009–289, provided that this section is repealed effective one year after date on which all obligations of trust established under subsec. (d)(1) of this section have been extinguished, if reorganization occurs in accordance with this section, or date on which all obligations of trust established under [section 1087–2(s)(3)(A) of this title][/us/usc/t20/s1087–2/s/3/A] have been extinguished, if reorganization does not occur in accordance with this section.
+    [Pub. L. 104–208, div. A, title I, § 101(e)][/us/pl/104/208/s101/e] \[title VI, § 602(d)\], Sept. 30, 1996, [110 Stat. 3009–233][/us/stat/110/3009-233], 3009–289, provided that this section is repealed effective one year after date on which all obligations of trust established under subsec. (d)(1) of this section have been extinguished, if reorganization occurs in accordance with this section, or date on which all obligations of trust established under [section 1087–2(s)(3)(A) of this title][/us/usc/t20/s1087–2/s/3/A] have been extinguished, if reorganization does not occur in accordance with this section.
 
  __References in Text__ 
 

@@ -11,16 +11,30 @@
 ----------
 ----------
 
-[Previous](./../../../../../../..//us/usc/t20/ch70/schX/ptG/m__us_usc_t20_s8161.md) | [Next](./../../../../../../..//us/usc/t20/ch70/schX/ptG/spt1/m__us_usc_t20_s8171, 8172.md) | [Root of Title](./../../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fch70%2FschX%2FptG%2Fspt1)
+[Previous](./../../../../../../..//us/usc/t20/ch70/schX/ptG/m__us_usc_t20_s8161.md) | [Next](./../../../../../../..//us/usc/t20/ch70/schX/ptG/spt2/m__us_usc_t20_ch70_schX_ptG_spt2.md) | [Root of Title](./../../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fch70%2FschX%2FptG%2Fspt1)
 
 ##### subpart 1—program for middle and secondary school students
 
+§§ 8171, 8172. __Repealed.__  __[__  __Pub. L. 107–110, title X, § 1011(5)(A)__  __][/us/pl/107/110/s1011/5/A]__  __,__  __Jan. 8, 2002__  __,__  __[__  __115 Stat. 1986__  __][/us/stat/115/1986]__ 
+
+    Section 8171, [Pub. L. 89–10, title X, § 10711][/us/pl/89/10/s10711], as added [Pub. L. 103–382, title I, § 101][/us/pl/103/382/s101], Oct. 20, 1994, [108 Stat. 3841][/us/stat/108/3841], authorized grants for fellowships.
+
+    Section 8172, [Pub. L. 89–10, title X, § 10712][/us/pl/89/10/s10712], as added [Pub. L. 103–382, title I, § 101][/us/pl/103/382/s101], Oct. 20, 1994, [108 Stat. 3841][/us/stat/108/3841], related to applications.
+
 ----------
 
-[Previous](./../../../../../../..//us/usc/t20/ch70/schX/ptG/m__us_usc_t20_s8161.md) | [Next](./../../../../../../..//us/usc/t20/ch70/schX/ptG/spt1/m__us_usc_t20_s8171, 8172.md) | [Root of Title](./../../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fch70%2FschX%2FptG%2Fspt1)
+[Previous](./../../../../../../..//us/usc/t20/ch70/schX/ptG/m__us_usc_t20_s8161.md) | [Next](./../../../../../../..//us/usc/t20/ch70/schX/ptG/spt2/m__us_usc_t20_ch70_schX_ptG_spt2.md) | [Root of Title](./../../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fch70%2FschX%2FptG%2Fspt1)
 
 ----------
 ----------
 
+[/us/pl/107/110/s1011/5/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F110%2Fs1011%2F5%2FA
+[/us/stat/115/1986]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F1986
+[/us/pl/89/10/s10711]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F10%2Fs10711
+[/us/pl/103/382/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F382%2Fs101
+[/us/stat/108/3841]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3841
+[/us/pl/89/10/s10712]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F10%2Fs10712
+[/us/pl/103/382/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F382%2Fs101
+[/us/stat/108/3841]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3841
 
 

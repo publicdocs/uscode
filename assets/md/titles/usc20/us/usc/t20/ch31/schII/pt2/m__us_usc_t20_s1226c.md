@@ -15,7 +15,7 @@
 
 ## § 1226c. Biennial evaluation report
 
-Not later than March 31, 1995, and every two years after such date, the Secretary shall transmit to the Committee on Education and Labor of the House of Representatives and the Committee on Labor and Human Resources of the Senate an evaluation report on the effectiveness of applicable programs in achieving such programs’ legislated intent and purposes during the two preceding fiscal years. Such report shall—
+    Not later than March 31, 1995, and every two years after such date, the Secretary shall transmit to the Committee on Education and Labor of the House of Representatives and the Committee on Labor and Human Resources of the Senate an evaluation report on the effectiveness of applicable programs in achieving such programs’ legislated intent and purposes during the two preceding fiscal years. Such report shall—
 
     (1) contain program profiles that include legislative citations, multiyear funding histories, and legislated purposes;
 

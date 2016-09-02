@@ -15,7 +15,7 @@
 
 ## § 9811. Purpose
 
-The purpose of this part is—
+    The purpose of this part is—
 
     (1) to develop and implement programs to provide integrated courses of study in science, technology, engineering, mathematics, or critical foreign languages, and teacher education, that lead to a baccalaureate degree in science, technology, engineering, mathematics, or a critical foreign language, with concurrent teacher certification;
 

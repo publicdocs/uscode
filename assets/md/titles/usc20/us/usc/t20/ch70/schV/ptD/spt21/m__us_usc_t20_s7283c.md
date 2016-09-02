@@ -15,7 +15,7 @@
 
 ## § 7283c. Applications
 
-An application under this subpart shall—
+    An application under this subpart shall—
 
     (1) set forth policies and procedures that will ensure a comprehensive evaluation of the activities assisted under this subpart, including an evaluation of the practices, policies, and materials used by the applicant and an evaluation or estimate of the continued significance of the work of the project following completion of the award period;
 

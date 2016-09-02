@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../..//us/usc/t20/ch78/schV/m__us_usc_t20_s9881, 9882.md) | [Next](./../../../..//us/usc/t20/ch79/m__us_usc_t20_s9901.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fch79)
+[Previous](./../../../..//us/usc/t20/ch78/schV/m__us_usc_t20_ch78_schV.md) | [Next](./../../../..//us/usc/t20/ch79/m__us_usc_t20_s9901.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fch79)
 
 ## CHAPTER 79—STEM-TRAINING GRANT PROGRAM
 
@@ -75,7 +75,7 @@
 
 ----------
 
-[Previous](./../../../..//us/usc/t20/ch78/schV/m__us_usc_t20_s9881, 9882.md) | [Next](./../../../..//us/usc/t20/ch79/m__us_usc_t20_s9901.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fch79)
+[Previous](./../../../..//us/usc/t20/ch78/schV/m__us_usc_t20_ch78_schV.md) | [Next](./../../../..//us/usc/t20/ch79/m__us_usc_t20_s9901.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fch79)
 
 ----------
 ----------

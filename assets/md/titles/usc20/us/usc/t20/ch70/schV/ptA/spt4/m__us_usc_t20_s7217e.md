@@ -15,7 +15,7 @@
 
 ## § 7217e. Authorization of appropriations
 
-There are authorized to be appropriated to carry out this part—
+    There are authorized to be appropriated to carry out this part—
 
     (1) $450,000,000 for fiscal year 2002;
 

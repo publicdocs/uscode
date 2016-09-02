@@ -15,7 +15,7 @@
 
 ## § 5982. Purposes
 
-It is the purpose of this subchapter—
+    It is the purpose of this subchapter—
 
     (1)
 

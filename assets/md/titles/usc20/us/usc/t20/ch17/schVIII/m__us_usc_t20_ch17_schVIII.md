@@ -11,13 +11,13 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t20/ch17/schVII/ptC/m__us_usc_t20_s561 to 563.md) | [Next](./../../../../..//us/usc/t20/ch17/schVIII/m__us_usc_t20_s581.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fch17%2FschVIII)
+[Previous](./../../../../..//us/usc/t20/ch17/schVII/ptC/m__us_usc_t20_ch17_schVII_ptC.md) | [Next](./../../../../..//us/usc/t20/ch17/schVIII/m__us_usc_t20_s581.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fch17%2FschVIII)
 
 ### SUBCHAPTER VIII—MISCELLANEOUS PROVISIONS
 
 ----------
 
-[Previous](./../../../../..//us/usc/t20/ch17/schVII/ptC/m__us_usc_t20_s561 to 563.md) | [Next](./../../../../..//us/usc/t20/ch17/schVIII/m__us_usc_t20_s581.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fch17%2FschVIII)
+[Previous](./../../../../..//us/usc/t20/ch17/schVII/ptC/m__us_usc_t20_ch17_schVII_ptC.md) | [Next](./../../../../..//us/usc/t20/ch17/schVIII/m__us_usc_t20_s581.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fch17%2FschVIII)
 
 ----------
 ----------

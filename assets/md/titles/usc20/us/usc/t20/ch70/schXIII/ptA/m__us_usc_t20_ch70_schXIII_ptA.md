@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../../..//us/usc/t20/ch70/schXIII/m__us_usc_t20_s8601, 8602.md) | [Next](./../../../../../..//us/usc/t20/ch70/schXIII/ptA/m__us_usc_t20_s8621 to 8625.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fch70%2FschXIII%2FptA)
+[Previous](./../../../../../..//us/usc/t20/ch70/schXIII/m__us_usc_t20_ch70_schXIII.md) | [Next](./../../../../../..//us/usc/t20/ch70/schXIII/ptB/m__us_usc_t20_ch70_schXIII_ptB.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fch70%2FschXIII%2FptA)
 
 #### Part A—Comprehensive Regional Assistance Centers
 
@@ -19,9 +19,23 @@
 
     Part A of title XIII of [Pub. L. 89–10][/us/pl/89/10], comprising this part, was renumbered part K of title IX of [Pub. L. 103–227][/us/pl/103/227], the Educational Research, Development, Dissemination, and Improvement Act of 1994, by [Pub. L. 107–110, title X, § 1021(a)][/us/pl/107/110/s1021/a], Jan. 8, 2002, [115 Stat. 1987][/us/stat/115/1987], transferred to part G (§ 6053 et seq.) of subchapter IX of chapter 68 of this title, and subsequently repealed.
 
+§§ 8621 to 8625. __Transferred__ 
+
+ __Codification__ 
+
+    Section 8621, [Pub. L. 89–10, title XIII, § 13101][/us/pl/89/10/s13101], as added [Pub. L. 103–382, title I, § 101][/us/pl/103/382/s101], Oct. 20, 1994, [108 Stat. 3877][/us/stat/108/3877], which authorized grant program for comprehensive regional assistance centers, was renumbered section 1001 of the Educational Research, Development, Dissemination, and Improvement Act of 1994 by [Pub. L. 107–110, title X, § 1021(a)][/us/pl/107/110/s1021/a], (b), Jan. 8, 2002, [115 Stat. 1987][/us/stat/115/1987], transferred to [section 6053 of this title][/us/usc/t20/s6053], and subsequently repealed.
+
+    Section 8622, [Pub. L. 89–10, title XIII, § 13102][/us/pl/89/10/s13102], as added [Pub. L. 103–382, title I, § 101][/us/pl/103/382/s101], Oct. 20, 1994, [108 Stat. 3878][/us/stat/108/3878], which set forth requirements of comprehensive regional assistance centers, was renumbered section 1002 of the Educational Research, Development, Dissemination, and Improvement Act of 1994 by [Pub. L. 107–110, title X, § 1021(a)][/us/pl/107/110/s1021/a], (b), Jan. 8, 2002, [115 Stat. 1987][/us/stat/115/1987], transferred to [section 6053a of this title][/us/usc/t20/s6053a], and subsequently repealed.
+
+    Section 8623, [Pub. L. 89–10, title XIII, § 13103][/us/pl/89/10/s13103], as added [Pub. L. 103–382, title I, § 101][/us/pl/103/382/s101], Oct. 20, 1994, [108 Stat. 3879][/us/stat/108/3879], which related to maintenance of service and application requirements, was renumbered section 1003 of the Educational Research, Development, Dissemination, and Improvement Act of 1994 by [Pub. L. 107–110, title X, § 1021(a)][/us/pl/107/110/s1021/a], (b), Jan. 8, 2002, [115 Stat. 1987][/us/stat/115/1987], transferred to [section 6053b of this title][/us/usc/t20/s6053b], and subsequently repealed.
+
+    Section 8624, [Pub. L. 89–10, title XIII, § 13104][/us/pl/89/10/s13104], as added [Pub. L. 103–382, title I, § 101][/us/pl/103/382/s101], Oct. 20, 1994, [108 Stat. 3880][/us/stat/108/3880], which related to transition and phase in, was renumbered section 1004 of the Educational Research, Development, Dissemination, and Improvement Act of 1994 by [Pub. L. 107–110, title X, § 1021(a)][/us/pl/107/110/s1021/a], (b), Jan. 8, 2002, [115 Stat. 1987][/us/stat/115/1987], transferred to [section 6053c of this title][/us/usc/t20/s6053c], and subsequently repealed.
+
+    Section 8625, [Pub. L. 89–10, title XIII, § 13105][/us/pl/89/10/s13105], as added [Pub. L. 103–382, title I, § 101][/us/pl/103/382/s101], Oct. 20, 1994, [108 Stat. 3880][/us/stat/108/3880], which authorized appropriations, was renumbered section 1005 of the Educational Research, Development, Dissemination, and Improvement Act of 1994 by [Pub. L. 107–110, title X, § 1021(a)][/us/pl/107/110/s1021/a], (b), Jan. 8, 2002, [115 Stat. 1987][/us/stat/115/1987], transferred to [section 6053d of this title][/us/usc/t20/s6053d], and subsequently repealed.
+
 ----------
 
-[Previous](./../../../../../..//us/usc/t20/ch70/schXIII/m__us_usc_t20_s8601, 8602.md) | [Next](./../../../../../..//us/usc/t20/ch70/schXIII/ptA/m__us_usc_t20_s8621 to 8625.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fch70%2FschXIII%2FptA)
+[Previous](./../../../../../..//us/usc/t20/ch70/schXIII/m__us_usc_t20_ch70_schXIII.md) | [Next](./../../../../../..//us/usc/t20/ch70/schXIII/ptB/m__us_usc_t20_ch70_schXIII_ptB.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fch70%2FschXIII%2FptA)
 
 ----------
 ----------
@@ -30,5 +44,35 @@
 [/us/pl/103/227]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F227
 [/us/pl/107/110/s1021/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F110%2Fs1021%2Fa
 [/us/stat/115/1987]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F1987
+[/us/pl/89/10/s13101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F10%2Fs13101
+[/us/pl/103/382/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F382%2Fs101
+[/us/stat/108/3877]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3877
+[/us/pl/107/110/s1021/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F110%2Fs1021%2Fa
+[/us/stat/115/1987]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F1987
+[/us/usc/t20/s6053]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs6053
+[/us/pl/89/10/s13102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F10%2Fs13102
+[/us/pl/103/382/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F382%2Fs101
+[/us/stat/108/3878]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3878
+[/us/pl/107/110/s1021/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F110%2Fs1021%2Fa
+[/us/stat/115/1987]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F1987
+[/us/usc/t20/s6053a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs6053a
+[/us/pl/89/10/s13103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F10%2Fs13103
+[/us/pl/103/382/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F382%2Fs101
+[/us/stat/108/3879]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3879
+[/us/pl/107/110/s1021/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F110%2Fs1021%2Fa
+[/us/stat/115/1987]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F1987
+[/us/usc/t20/s6053b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs6053b
+[/us/pl/89/10/s13104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F10%2Fs13104
+[/us/pl/103/382/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F382%2Fs101
+[/us/stat/108/3880]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3880
+[/us/pl/107/110/s1021/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F110%2Fs1021%2Fa
+[/us/stat/115/1987]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F1987
+[/us/usc/t20/s6053c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs6053c
+[/us/pl/89/10/s13105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F10%2Fs13105
+[/us/pl/103/382/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F382%2Fs101
+[/us/stat/108/3880]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3880
+[/us/pl/107/110/s1021/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F110%2Fs1021%2Fa
+[/us/stat/115/1987]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F1987
+[/us/usc/t20/s6053d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs6053d
 
 

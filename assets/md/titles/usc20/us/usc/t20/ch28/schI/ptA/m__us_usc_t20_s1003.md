@@ -15,7 +15,7 @@
 
 ## § 1003. Additional definitions
 
-In this chapter and part C of subchapter I of chapter 34 of title 42:
+    In this chapter and part C of subchapter I of chapter 34 of title 42:
 
     (1) __Authorizing committees__ 
 

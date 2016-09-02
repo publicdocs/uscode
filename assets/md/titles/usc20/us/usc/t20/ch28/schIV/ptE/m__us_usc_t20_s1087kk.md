@@ -15,7 +15,7 @@
 
 ## § 1087kk. Amount of need
 
-Except as otherwise provided therein, the amount of need of any student for financial assistance under this subchapter and part C of subchapter I of chapter 34 of title 42 (except subparts  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be “subpart”. </sup></sup>  1 or 2 of part A of this subchapter) is equal to—
+    Except as otherwise provided therein, the amount of need of any student for financial assistance under this subchapter and part C of subchapter I of chapter 34 of title 42 (except subparts  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be “subpart”. </sup></sup>  1 or 2 of part A of this subchapter) is equal to—
 
     (1) the cost of attendance of such student, minus
 

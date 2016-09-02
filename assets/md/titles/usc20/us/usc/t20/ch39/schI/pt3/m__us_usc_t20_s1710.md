@@ -15,7 +15,7 @@
 
 ## § 1710. Civil actions by Attorney General; notice of violations; certification respecting undertaking appropriate remedial action
 
-The Attorney General shall not institute a civil action under [section 1706 of this title][/us/usc/t20/s1706] before he—
+    The Attorney General shall not institute a civil action under [section 1706 of this title][/us/usc/t20/s1706] before he—
 
     (a) gives to the appropriate educational agency notice of the condition or conditions which, in his judgment, constitute a violation of part 2 of this subchapter; and
 

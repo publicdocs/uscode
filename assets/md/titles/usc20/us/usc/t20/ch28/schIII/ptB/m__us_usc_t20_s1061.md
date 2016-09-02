@@ -15,7 +15,7 @@
 
 ## § 1061. Definitions
 
-For the purpose of this part:
+    For the purpose of this part:
 
     (1) The term “graduate” means an individual who has attended an institution for at least three semesters and fulfilled academic requirements for undergraduate studies in not more than 5 consecutive school years.
 

@@ -15,7 +15,7 @@
 
 ## § 7305a. Purpose
 
-The purpose of this subpart is to allow States and local educational agencies the flexibility—
+    The purpose of this subpart is to allow States and local educational agencies the flexibility—
 
     (1) to target Federal funds to Federal programs that most effectively address the unique needs of States and localities; and
 

@@ -15,7 +15,7 @@
 
 ## § 7273. Purposes
 
-The purposes of this subpart are the following:
+    The purposes of this subpart are the following:
 
     (1) To provide leadership, technical assistance, and financial support to nonprofit organizations (including statewide nonprofit organizations) and local educational agencies to help the organizations and agencies implement successful and effective parental involvement policies, programs, and activities that lead to improvements in student academic achievement.
 

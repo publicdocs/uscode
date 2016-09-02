@@ -15,7 +15,7 @@
 
 ## § 6381. Statement of purpose
 
-It is the purpose of this subpart to help break the cycle of poverty and illiteracy by—
+    It is the purpose of this subpart to help break the cycle of poverty and illiteracy by—
 
     (1) improving the educational opportunities of the Nation’s low-income families by integrating early childhood education, adult literacy or adult basic education, and parenting education into a unified family literacy program, to be referred to as “Even Start”; and
 

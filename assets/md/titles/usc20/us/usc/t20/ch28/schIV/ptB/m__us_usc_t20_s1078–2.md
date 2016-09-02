@@ -37,21 +37,23 @@
 
                 Whenever necessary to carry out the provisions of this section, the terms “student” and “borrower” as used in this part shall include a parent borrower under this section.
 
-            (B) __(i) Extenuating circumstances__ 
+            (B)
 
-            An eligible lender may determine that extenuating circumstances exist under the regulations promulgated pursuant to paragraph (1)(A) if, during the period beginning January 1, 2007, and ending December 31, 2009, an applicant for a loan under this section—
+                (i) __Extenuating circumstances__ 
 
-                (I) is or has been delinquent for 180 days or fewer on mortgage loan payments or on medical bill payments during such period; and
+                An eligible lender may determine that extenuating circumstances exist under the regulations promulgated pursuant to paragraph (1)(A) if, during the period beginning January 1, 2007, and ending December 31, 2009, an applicant for a loan under this section—
 
-                (II) does not otherwise have an adverse credit history, as determined by the lender in accordance with the regulations promulgated pursuant to paragraph (1)(A), as such regulations were in effect on the day before May 7, 2008.
+                    (I) is or has been delinquent for 180 days or fewer on mortgage loan payments or on medical bill payments during such period; and
 
-    (ii) __Definition of mortgage loan__ 
+                    (II) does not otherwise have an adverse credit history, as determined by the lender in accordance with the regulations promulgated pursuant to paragraph (1)(A), as such regulations were in effect on the day before May 7, 2008.
 
-    In this subparagraph, the term “mortgage loan” means an extension of credit to a borrower that is secured by the primary residence of the borrower.
+                (ii) __Definition of mortgage loan__ 
 
-        (iii) __Rule of construction__ 
+                    In this subparagraph, the term “mortgage loan” means an extension of credit to a borrower that is secured by the primary residence of the borrower.
 
-            Nothing in this subparagraph shall be construed to limit an eligible lender’s authority under the regulations promulgated pursuant to paragraph (1)(A) to determine that extenuating circumstances exist.
+                (iii) __Rule of construction__ 
+
+                    Nothing in this subparagraph shall be construed to limit an eligible lender’s authority under the regulations promulgated pursuant to paragraph (1)(A) to determine that extenuating circumstances exist.
 
     (b) __Limitation based on need__ 
 

@@ -15,7 +15,7 @@
 
 ## § 6845. Rules of construction
 
-Nothing in this part shall be construed—
+    Nothing in this part shall be construed—
 
     (1) to prohibit a local educational agency from serving limited English proficient children simultaneously with children with similar educational needs, in the same educational settings where appropriate;
 

@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../..//us/usc/t20/ch46/m__us_usc_t20_s2613, 2614.md) | [Next](./../../../..//us/usc/t20/ch47/schI/m__us_usc_t20_ch47_schI.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fch47)
+[Previous](./../../../..//us/usc/t20/ch46/m__us_usc_t20_s2612a.md) | [Next](./../../../..//us/usc/t20/ch47/schI/m__us_usc_t20_ch47_schI.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fch47)
 
 ## CHAPTER 47—STRENGTHENING AND IMPROVEMENT OF ELEMENTARY AND SECONDARY SCHOOLS
 
@@ -21,7 +21,7 @@
 
 ----------
 
-[Previous](./../../../..//us/usc/t20/ch46/m__us_usc_t20_s2613, 2614.md) | [Next](./../../../..//us/usc/t20/ch47/schI/m__us_usc_t20_ch47_schI.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fch47)
+[Previous](./../../../..//us/usc/t20/ch46/m__us_usc_t20_s2612a.md) | [Next](./../../../..//us/usc/t20/ch47/schI/m__us_usc_t20_ch47_schI.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fch47)
 
 ----------
 ----------

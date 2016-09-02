@@ -15,7 +15,7 @@
 
 ## § 7223c. Charter school objectives
 
-An eligible entity receiving a grant under this subpart shall use the funds deposited in the reserve account established under [section 7223d(a) of this title][/us/usc/t20/s7223d/a] to assist one or more charter schools to access private sector capital to accomplish one or both of the following objectives:
+    An eligible entity receiving a grant under this subpart shall use the funds deposited in the reserve account established under [section 7223d(a) of this title][/us/usc/t20/s7223d/a] to assist one or more charter schools to access private sector capital to accomplish one or both of the following objectives:
 
     (1) The acquisition (by purchase, lease, donation, or otherwise) of an interest (including an interest held by a third party for the benefit of a charter school) in improved or unimproved real property that is necessary to commence or continue the operation of a charter school.
 

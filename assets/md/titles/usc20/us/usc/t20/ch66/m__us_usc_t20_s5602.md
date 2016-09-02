@@ -15,7 +15,7 @@
 
 ## § 5602. Definitions
 
-For the purposes of this chapter—
+    For the purposes of this chapter—
 
     (1) the term “Board” means the Board of Trustees of the Foundation established under [section 5603(b) of this title][/us/usc/t20/s5603/b];
 

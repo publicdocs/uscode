@@ -15,7 +15,7 @@
 
 ## § 1401. Definitions
 
-Except as otherwise provided, in this chapter:
+    Except as otherwise provided, in this chapter:
 
     (1) __Assistive technology device__ 
 

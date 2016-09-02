@@ -15,7 +15,7 @@
 
 ## § 2531. Congressional findings
 
-The Congress finds that—
+    The Congress finds that—
 
     (1) guidance and counseling activities are an essential component to assure success in achieving the goals of many education programs:  <sup>\[1\]</sup>  <sup><sup> 1 So in original. The colon probably should be a semicolon. </sup></sup> 
 

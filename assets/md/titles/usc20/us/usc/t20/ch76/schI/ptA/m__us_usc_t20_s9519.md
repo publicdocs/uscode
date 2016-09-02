@@ -15,7 +15,7 @@
 
 ## § 9519. Biennial report
 
-The Director shall, on a biennial basis, transmit to the President, the Board, and the appropriate congressional committees, and make widely available to the public (including by means of the Internet), a report containing the following:
+    The Director shall, on a biennial basis, transmit to the President, the Board, and the appropriate congressional committees, and make widely available to the public (including by means of the Internet), a report containing the following:
 
     (1) A description of the activities carried out by and through the National Education Centers during the prior fiscal years.
 

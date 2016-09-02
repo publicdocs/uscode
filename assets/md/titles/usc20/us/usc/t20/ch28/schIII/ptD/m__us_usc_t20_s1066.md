@@ -15,7 +15,7 @@
 
 ## § 1066. Findings
 
-The Congress finds that—
+    The Congress finds that—
 
     (1) a significant part of the Federal mission in education has been to attain equal opportunity in higher education for low-income, educationally disadvantaged Americans and African Americans;
 

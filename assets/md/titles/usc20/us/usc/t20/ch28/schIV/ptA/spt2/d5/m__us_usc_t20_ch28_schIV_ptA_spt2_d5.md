@@ -11,16 +11,44 @@
 ----------
 ----------
 
-[Previous](./../../../../../../../..//us/usc/t20/ch28/schIV/ptA/spt2/d4/m__us_usc_t20_s1070a–41 to 1070a–43.md) | [Next](./../../../../../../../..//us/usc/t20/ch28/schIV/ptA/spt2/d5/m__us_usc_t20_s1070a–51 to 1070a–53.md) | [Root of Title](./../../../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fch28%2FschIV%2FptA%2Fspt2%2Fd5)
+[Previous](./../../../../../../../..//us/usc/t20/ch28/schIV/ptA/spt2/d4/m__us_usc_t20_ch28_schIV_ptA_spt2_d4.md) | [Next](./../../../../../../../..//us/usc/t20/ch28/schIV/ptA/spt2/d6/m__us_usc_t20_ch28_schIV_ptA_spt2_d6.md) | [Root of Title](./../../../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fch28%2FschIV%2FptA%2Fspt2%2Fd5)
 
 ###### Division 5—Public Information
 
+§§ 1070a–51 to 1070a–53. __Repealed.__  __[__  __Pub. L. 105–244, title IV, § 405__  __][/us/pl/105/244/s405]__  __,__  __Oct. 7, 1998__  __,__  __[__  __112 Stat. 1664__  __][/us/stat/112/1664]__ 
+
+    Section 1070a–51, [Pub. L. 89–329, title IV, § 409A][/us/pl/89/329/s409A], as added [Pub. L. 102–325, title IV, § 402(a)(4)][/us/pl/102/325/s402/a/4], July 23, 1992, [106 Stat. 501][/us/stat/106/501]; amended [Pub. L. 103–208, § 2(b)(24)][/us/pl/103/208/s2/b/24], Dec. 20, 1993, [107 Stat. 2459][/us/stat/107/2459], authorized contract to establish and maintain database and information line.
+
+    Section 1070a–52, [Pub. L. 89–329, title IV, § 409B][/us/pl/89/329/s409B], as added [Pub. L. 102–325, title IV, § 402(a)(4)][/us/pl/102/325/s402/a/4], July 23, 1992, [106 Stat. 501][/us/stat/106/501], related to early awareness information program.
+
+    Section 1070a–53, [Pub. L. 89–329, title IV, § 409C][/us/pl/89/329/s409C], as added [Pub. L. 102–325, title IV, § 402(a)(4)][/us/pl/102/325/s402/a/4], July 23, 1992, [106 Stat. 502][/us/stat/106/502], authorized appropriations to carry out this division.
+
+ __Effective Date of Repeal__ 
+
+    Repeal effective Oct. 1, 1998, except as otherwise provided in [Pub. L. 105–244][/us/pl/105/244], see [section 3 of Pub. L. 105–244][/us/pl/105/244/s3], set out as an Effective Date of 1998 Amendment note under [section 1001 of this title][/us/usc/t20/s1001].
+
 ----------
 
-[Previous](./../../../../../../../..//us/usc/t20/ch28/schIV/ptA/spt2/d4/m__us_usc_t20_s1070a–41 to 1070a–43.md) | [Next](./../../../../../../../..//us/usc/t20/ch28/schIV/ptA/spt2/d5/m__us_usc_t20_s1070a–51 to 1070a–53.md) | [Root of Title](./../../../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fch28%2FschIV%2FptA%2Fspt2%2Fd5)
+[Previous](./../../../../../../../..//us/usc/t20/ch28/schIV/ptA/spt2/d4/m__us_usc_t20_ch28_schIV_ptA_spt2_d4.md) | [Next](./../../../../../../../..//us/usc/t20/ch28/schIV/ptA/spt2/d6/m__us_usc_t20_ch28_schIV_ptA_spt2_d6.md) | [Root of Title](./../../../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fch28%2FschIV%2FptA%2Fspt2%2Fd5)
 
 ----------
 ----------
 
+[/us/pl/105/244/s405]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2Fs405
+[/us/stat/112/1664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F1664
+[/us/pl/89/329/s409A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2Fs409A
+[/us/pl/102/325/s402/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325%2Fs402%2Fa%2F4
+[/us/stat/106/501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F501
+[/us/pl/103/208/s2/b/24]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F208%2Fs2%2Fb%2F24
+[/us/stat/107/2459]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F2459
+[/us/pl/89/329/s409B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2Fs409B
+[/us/pl/102/325/s402/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325%2Fs402%2Fa%2F4
+[/us/stat/106/501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F501
+[/us/pl/89/329/s409C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2Fs409C
+[/us/pl/102/325/s402/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325%2Fs402%2Fa%2F4
+[/us/stat/106/502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F502
+[/us/pl/105/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244
+[/us/pl/105/244/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2Fs3
+[/us/usc/t20/s1001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1001
 
 

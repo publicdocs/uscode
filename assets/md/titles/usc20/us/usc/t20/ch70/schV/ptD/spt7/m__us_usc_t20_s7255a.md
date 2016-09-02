@@ -15,7 +15,7 @@
 
 ## § 7255a. Purposes
 
-The purposes of this subpart are the following:
+    The purposes of this subpart are the following:
 
     (1) To encourage improved instruction in mathematics, science, and foreign languages as well as other subjects (such as literacy skills and vocational education).
 

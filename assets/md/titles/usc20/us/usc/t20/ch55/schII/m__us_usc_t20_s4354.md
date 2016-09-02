@@ -15,7 +15,7 @@
 
 ## § 4354. Reports
 
-The Board of Trustees of Gallaudet University and the Board of Trustees or other governing body of the institution of higher education with which the Secretary has an agreement under [section 4332 of this title][/us/usc/t20/s4332] shall prepare and submit an annual report to the Secretary, and to the Committee on Education and Labor of the House of Representatives and the Committee on Health, Education, Labor, and Pensions of the Senate, not later than 100 days after the end of each fiscal year, which shall include the following:
+    The Board of Trustees of Gallaudet University and the Board of Trustees or other governing body of the institution of higher education with which the Secretary has an agreement under [section 4332 of this title][/us/usc/t20/s4332] shall prepare and submit an annual report to the Secretary, and to the Committee on Education and Labor of the House of Representatives and the Committee on Health, Education, Labor, and Pensions of the Senate, not later than 100 days after the end of each fiscal year, which shall include the following:
 
     (1) The number of students during the preceding academic year who enrolled and whether these were first-time enrollments, who graduated, who found employment, or who left without completing a program of study, reported under each of the programs of the University (elementary, secondary, undergraduate, and graduate) and of NTID.
 

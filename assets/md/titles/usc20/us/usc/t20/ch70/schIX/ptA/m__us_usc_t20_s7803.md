@@ -15,7 +15,7 @@
 
 ## § 7803. Applicability to Bureau of Indian Affairs operated schools
 
-For the purpose of any competitive program under this chapter—
+    For the purpose of any competitive program under this chapter—
 
     (1) a consortium of schools operated by the Bureau of Indian Affairs;
 
@@ -23,7 +23,7 @@ For the purpose of any competitive program under this chapter—
 
     (3) a Bureau of Indian Affairs school in consortium with an institution of higher education, a contract or grant school, or a tribal or community organization,
 
-        shall be given the same consideration as a local educational agency.
+    shall be given the same consideration as a local educational agency.
 
 ([Pub. L. 89–10, title IX, § 9103][/us/pl/89/10/s9103], as added [Pub. L. 107–110, title IX, § 901][/us/pl/107/110/s901], Jan. 8, 2002, [115 Stat. 1966][/us/stat/115/1966].)
 

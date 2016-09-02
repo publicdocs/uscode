@@ -15,7 +15,7 @@
 
 ## § 9401. Purposes
 
-The purposes of this chapter are—
+    The purposes of this chapter are—
 
     (1) to increase the availability of voluntary programs, services, and activities that support early childhood development, increase parent effectiveness, and promote the learning readiness of young children so that young children enter school ready to learn;
 

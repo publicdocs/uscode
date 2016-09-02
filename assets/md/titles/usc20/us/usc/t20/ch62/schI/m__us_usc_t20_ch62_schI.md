@@ -11,13 +11,13 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t20/ch62/m__us_usc_t20_s5001 to 5004.md) | [Next](./../../../../..//us/usc/t20/ch62/schI/ptA/m__us_usc_t20_ch62_schI_ptA.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fch62%2FschI)
+[Previous](./../../../../..//us/usc/t20/ch62/m__us_usc_t20_ch62.md) | [Next](./../../../../..//us/usc/t20/ch62/schI/ptA/m__us_usc_t20_ch62_schI_ptA.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fch62%2FschI)
 
 ### SUBCHAPTER I—ELEMENTARY AND SECONDARY EDUCATION
 
 ----------
 
-[Previous](./../../../../..//us/usc/t20/ch62/m__us_usc_t20_s5001 to 5004.md) | [Next](./../../../../..//us/usc/t20/ch62/schI/ptA/m__us_usc_t20_ch62_schI_ptA.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fch62%2FschI)
+[Previous](./../../../../..//us/usc/t20/ch62/m__us_usc_t20_ch62.md) | [Next](./../../../../..//us/usc/t20/ch62/schI/ptA/m__us_usc_t20_ch62_schI_ptA.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fch62%2FschI)
 
 ----------
 ----------

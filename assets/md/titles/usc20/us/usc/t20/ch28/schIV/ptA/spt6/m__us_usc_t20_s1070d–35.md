@@ -15,7 +15,7 @@
 
 ## § 1070d–35. Agreements
 
-The Secretary shall enter into an agreement with each State desiring to participate in the scholarship program authorized by this subpart. Each such agreement shall include provisions designed to assure that—
+    The Secretary shall enter into an agreement with each State desiring to participate in the scholarship program authorized by this subpart. Each such agreement shall include provisions designed to assure that—
 
     (1) the State educational agency will administer the scholarship program authorized by this subpart in the State;
 

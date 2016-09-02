@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../..//us/usc/t20/ch22/m__us_usc_t20_s781 to 788.md) | [Next](./../../../..//us/usc/t20/ch22/m__us_usc_t20_s790.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs789)
+[Previous](./../../../..//us/usc/t20/ch22/m__us_usc_t20_ch22.md) | [Next](./../../../..//us/usc/t20/ch22/m__us_usc_t20_s790.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs789)
 
 ## § 789. Repealed. [Pub. L. 89–209, § 6(d)(5)][/us/pl/89/209/s6/d/5], Sept. 29, 1965, [79 Stat. 850][/us/stat/79/850]
 
@@ -21,7 +21,7 @@
 
 ----------
 
-[Previous](./../../../..//us/usc/t20/ch22/m__us_usc_t20_s781 to 788.md) | [Next](./../../../..//us/usc/t20/ch22/m__us_usc_t20_s790.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs789)
+[Previous](./../../../..//us/usc/t20/ch22/m__us_usc_t20_ch22.md) | [Next](./../../../..//us/usc/t20/ch22/m__us_usc_t20_s790.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs789)
 
 ----------
 ----------

@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t20/ch21/schIV/m__us_usc_t20_s753 to 756.md) | [Next](./../../../../..//us/usc/t20/ch21/schIV/m__us_usc_t20_s758.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs757)
+[Previous](./../../../../..//us/usc/t20/ch21/schIV/m__us_usc_t20_s752.md) | [Next](./../../../../..//us/usc/t20/ch21/schIV/m__us_usc_t20_s758.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs757)
 
 ## § 757. Repealed. [Pub. L. 91–230, title IV, § 401(f)(4)][/us/pl/91/230/s401/f/4], Apr. 13, 1970, [84 Stat. 173][/us/stat/84/173]
 
@@ -19,7 +19,7 @@
 
 ----------
 
-[Previous](./../../../../..//us/usc/t20/ch21/schIV/m__us_usc_t20_s753 to 756.md) | [Next](./../../../../..//us/usc/t20/ch21/schIV/m__us_usc_t20_s758.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs757)
+[Previous](./../../../../..//us/usc/t20/ch21/schIV/m__us_usc_t20_s752.md) | [Next](./../../../../..//us/usc/t20/ch21/schIV/m__us_usc_t20_s758.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs757)
 
 ----------
 ----------

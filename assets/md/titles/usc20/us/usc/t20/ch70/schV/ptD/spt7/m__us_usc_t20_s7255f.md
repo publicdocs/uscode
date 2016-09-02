@@ -15,7 +15,7 @@
 
 ## § 7255f. Definitions
 
-In this subpart:
+    In this subpart:
 
     (1) __Educational institution__ 
 

@@ -11,13 +11,13 @@
 ----------
 ----------
 
-[Previous](./../../../../../..//us/usc/t20/ch47/schIV/ptB/m__us_usc_t20_s3061 to 3068.md) | [Next](./../../../../../..//us/usc/t20/ch47/schIV/ptC/m__us_usc_t20_s3081.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fch47%2FschIV%2FptC)
+[Previous](./../../../../../..//us/usc/t20/ch47/schIV/ptB/m__us_usc_t20_ch47_schIV_ptB.md) | [Next](./../../../../../..//us/usc/t20/ch47/schIV/ptC/m__us_usc_t20_s3081.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fch47%2FschIV%2FptC)
 
 #### Part C—Allen J. Ellender Fellowship Program
 
 ----------
 
-[Previous](./../../../../../..//us/usc/t20/ch47/schIV/ptB/m__us_usc_t20_s3061 to 3068.md) | [Next](./../../../../../..//us/usc/t20/ch47/schIV/ptC/m__us_usc_t20_s3081.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fch47%2FschIV%2FptC)
+[Previous](./../../../../../..//us/usc/t20/ch47/schIV/ptB/m__us_usc_t20_ch47_schIV_ptB.md) | [Next](./../../../../../..//us/usc/t20/ch47/schIV/ptC/m__us_usc_t20_s3081.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fch47%2FschIV%2FptC)
 
 ----------
 ----------

@@ -11,16 +11,60 @@
 ----------
 ----------
 
-[Previous](./../../../..//us/usc/t20/ch60/schIV/m__us_usc_t20_s4841 to 4843.md) | [Next](./../../../..//us/usc/t20/ch61/m__us_usc_t20_s4901 to 4909.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fch61)
+[Previous](./../../../..//us/usc/t20/ch60/schIV/m__us_usc_t20_ch60_schIV.md) | [Next](./../../../..//us/usc/t20/ch62/m__us_usc_t20_ch62.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fch61)
 
 ## CHAPTER 61—EDUCATION FOR NATIVE HAWAIIANS
 
+§§ 4901 to 4909. __Repealed.__  __[__  __Pub. L. 103–382, title III, § 363__  __][/us/pl/103/382/s363]__  __,__  __Oct. 20, 1994__  __,__  __[__  __108 Stat. 3975__  __][/us/stat/108/3975]__ 
+
+    Section 4901, [Pub. L. 100–297, title IV, § 4001][/us/pl/100/297/s4001], Apr. 28, 1988, [102 Stat. 358][/us/stat/102/358], stated findings of Congress relating to education of Native Hawaiians.
+
+    Section 4902, [Pub. L. 100–297, title IV, § 4002][/us/pl/100/297/s4002], Apr. 28, 1988, [102 Stat. 358][/us/stat/102/358], stated purpose of this chapter.
+
+    Section 4903, [Pub. L. 100–297, title IV, § 4003][/us/pl/100/297/s4003], Apr. 28, 1988, [102 Stat. 359][/us/stat/102/359], authorized grants to implement Kemehameha Elementary Education Program model curriculum.
+
+    Section 4904, [Pub. L. 100–297, title IV, § 4004][/us/pl/100/297/s4004], Apr. 28, 1988, [102 Stat. 359][/us/stat/102/359], authorized grants to develop and operate Family-Based Education Centers in Hawaiian Islands.
+
+    Section 4905, [Pub. L. 100–297, title IV, § 4005][/us/pl/100/297/s4005], Apr. 28, 1988, [102 Stat. 360][/us/stat/102/360], related to Native Hawaiian higher education demonstration program.
+
+    Section 4906, [Pub. L. 100–297, title IV, § 4006][/us/pl/100/297/s4006], Apr. 28, 1988, [102 Stat. 361][/us/stat/102/361], related to Native Hawaiian gifted and talented demonstration program.
+
+    Section 4907, [Pub. L. 100–297, title IV, § 4007][/us/pl/100/297/s4007], Apr. 28, 1988, [102 Stat. 362][/us/stat/102/362]; [Pub. L. 101–476, title IX, § 901(a)(3)][/us/pl/101/476/s901/a/3], Oct. 30, 1990, [104 Stat. 1142][/us/stat/104/1142], related to Native Hawaiian special education program.
+
+    Section 4908, [Pub. L. 100–297, title IV, § 4008][/us/pl/100/297/s4008], Apr. 28, 1988, [102 Stat. 362][/us/stat/102/362], contained administrative provisions.
+
+    Section 4909, [Pub. L. 100–297, title IV, § 4009][/us/pl/100/297/s4009], Apr. 28, 1988, [102 Stat. 362][/us/stat/102/362], defined terms used in this chapter.
+
+    For similar provisions, see section 7901 et seq. of this title.
+
 ----------
 
-[Previous](./../../../..//us/usc/t20/ch60/schIV/m__us_usc_t20_s4841 to 4843.md) | [Next](./../../../..//us/usc/t20/ch61/m__us_usc_t20_s4901 to 4909.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fch61)
+[Previous](./../../../..//us/usc/t20/ch60/schIV/m__us_usc_t20_ch60_schIV.md) | [Next](./../../../..//us/usc/t20/ch62/m__us_usc_t20_ch62.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fch61)
 
 ----------
 ----------
 
+[/us/pl/103/382/s363]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F382%2Fs363
+[/us/stat/108/3975]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3975
+[/us/pl/100/297/s4001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F297%2Fs4001
+[/us/stat/102/358]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F358
+[/us/pl/100/297/s4002]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F297%2Fs4002
+[/us/stat/102/358]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F358
+[/us/pl/100/297/s4003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F297%2Fs4003
+[/us/stat/102/359]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F359
+[/us/pl/100/297/s4004]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F297%2Fs4004
+[/us/stat/102/359]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F359
+[/us/pl/100/297/s4005]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F297%2Fs4005
+[/us/stat/102/360]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F360
+[/us/pl/100/297/s4006]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F297%2Fs4006
+[/us/stat/102/361]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F361
+[/us/pl/100/297/s4007]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F297%2Fs4007
+[/us/stat/102/362]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F362
+[/us/pl/101/476/s901/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F476%2Fs901%2Fa%2F3
+[/us/stat/104/1142]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1142
+[/us/pl/100/297/s4008]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F297%2Fs4008
+[/us/stat/102/362]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F362
+[/us/pl/100/297/s4009]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F297%2Fs4009
+[/us/stat/102/362]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F362
 
 

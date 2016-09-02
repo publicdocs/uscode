@@ -15,7 +15,7 @@
 
 ## § 7801. Definitions
 
-Except as otherwise provided, in this chapter:
+    Except as otherwise provided, in this chapter:
 
     (1) __Average daily attendance__ 
 
@@ -467,7 +467,7 @@ Except as otherwise provided, in this chapter:
 
              are designed to help the teachers continue to improve their practice of teaching and to develop their instructional skills; and
 
-            part  <sup>\[4\]</sup>  <sup><sup> 4 So in original. Probably should be preceded by “(ii) as”. </sup></sup>  of an ongoing developmental induction process—
+                part  <sup>\[4\]</sup>  <sup><sup> 4 So in original. Probably should be preceded by “(ii) as”. </sup></sup>  of an ongoing developmental induction process—
 
                 (I) involve the assistance of an exemplary teacher and other appropriate individuals from a school, local educational agency, or institution of higher education; and
 

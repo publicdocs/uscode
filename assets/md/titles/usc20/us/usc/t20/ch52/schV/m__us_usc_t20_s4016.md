@@ -15,7 +15,7 @@
 
 ## § 4016. Annual report
 
-During each calendar year until 1999, the Administrator shall prepare and submit, not later than June 1 of each year, to the Committee on Environment and Public Works of the Senate and to the Committee on Energy and Commerce of the House of Representatives a report on the loan and grant program authorized by [section 4014 of this title][/us/usc/t20/s4014].
+    During each calendar year until 1999, the Administrator shall prepare and submit, not later than June 1 of each year, to the Committee on Environment and Public Works of the Senate and to the Committee on Energy and Commerce of the House of Representatives a report on the loan and grant program authorized by [section 4014 of this title][/us/usc/t20/s4014].
 
     (1) describe the number of applications received;
 

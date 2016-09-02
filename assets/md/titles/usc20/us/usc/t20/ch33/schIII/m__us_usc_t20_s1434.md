@@ -15,7 +15,7 @@
 
 ## § 1434. Eligibility
 
-In order to be eligible for a grant under [section 1433 of this title][/us/usc/t20/s1433], a State shall provide assurances to the Secretary that the State—
+    In order to be eligible for a grant under [section 1433 of this title][/us/usc/t20/s1433], a State shall provide assurances to the Secretary that the State—
 
     (1) has adopted a policy that appropriate early intervention services are available to all infants and toddlers with disabilities in the State and their families, including Indian infants and toddlers with disabilities and their families residing on a reservation geographically located in the State, infants and toddlers with disabilities who are homeless children and their families, and infants and toddlers with disabilities who are wards of the State; and
 

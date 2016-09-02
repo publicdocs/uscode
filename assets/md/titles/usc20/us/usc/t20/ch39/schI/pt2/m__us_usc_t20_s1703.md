@@ -15,7 +15,7 @@
 
 ## § 1703. Denial of equal educational opportunity prohibited
 
-No State shall deny equal educational opportunity to an individual on account of his or her race, color, sex, or national origin, by—
+    No State shall deny equal educational opportunity to an individual on account of his or her race, color, sex, or national origin, by—
 
     (a) the deliberate segregation by an educational agency of students on the basis of race, color, or national origin among or within schools;
 

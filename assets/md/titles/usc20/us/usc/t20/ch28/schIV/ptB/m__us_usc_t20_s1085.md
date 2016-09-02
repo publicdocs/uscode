@@ -15,7 +15,7 @@
 
 ## § 1085. Definitions for student loan insurance program
 
-As used in this part:
+    As used in this part:
 
     (a) __Eligible institution__ 
 

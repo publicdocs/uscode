@@ -15,7 +15,7 @@
 
 ## § 6518. Quality initiatives
 
-The Secretary, through grants or contracts, shall provide funds for—
+    The Secretary, through grants or contracts, shall provide funds for—
 
     (1) a public-private effort, in which funds are matched by private organizations, to assist States, local educational agencies, and schools, in making informed decisions regarding approving or selecting providers of comprehensive school reform, consistent with the requirements described in [section 6516(a) of this title][/us/usc/t20/s6516/a]; and
 

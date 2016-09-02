@@ -15,7 +15,7 @@
 
 ## § 7217d. Definitions
 
-In this part:
+    In this part:
 
     (1) __Local educational agency__ 
 

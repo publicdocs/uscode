@@ -11,16 +11,81 @@
 ----------
 ----------
 
-[Previous](./../../../../../../../..//us/usc/t20/ch47/schI/d1/ptD/spt1/m__us_usc_t20_s2781 to 2783.md) | [Next](./../../../../../../../..//us/usc/t20/ch47/schI/d1/ptD/spt2/m__us_usc_t20_s2791 to 2796.md) | [Root of Title](./../../../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fch47%2FschI%2Fd1%2FptD%2Fspt2)
+[Previous](./../../../../../../../..//us/usc/t20/ch47/schI/d1/ptD/spt1/m__us_usc_t20_ch47_schI_d1_ptD_spt1.md) | [Next](./../../../../../../../..//us/usc/t20/ch47/schI/d1/ptD/spt3/m__us_usc_t20_ch47_schI_d1_ptD_spt3.md) | [Root of Title](./../../../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fch47%2FschI%2Fd1%2FptD%2Fspt2)
 
 ###### subpart 2—programs for handicapped children
 
+§§ 2791 to 2796. __Omitted__ 
+
+ __Codification__ 
+
+    Sections were omitted in the general amendment of the Elementary and Secondary Education Act of 1965, [Pub. L. 89–10][/us/pl/89/10], by [Pub. L. 103–382, title I, § 101][/us/pl/103/382/s101], Oct. 20, 1994, [108 Stat. 3519][/us/stat/108/3519]. See section 1411 et seq. of this title.
+
+    Section 2791, [Pub. L. 89–10, title I, § 1221][/us/pl/89/10/s1221], as added [Pub. L. 100–297, title I, § 1001][/us/pl/100/297/s1001], Apr. 28, 1988, [102 Stat. 179][/us/stat/102/179]; amended [Pub. L. 101–476, title IX, § 901(a)(2)][/us/pl/101/476/s901/a/2], Oct. 30, 1990, [104 Stat. 1142][/us/stat/104/1142]; [Pub. L. 102–103, title III, § 312][/us/pl/102/103/s312], Aug. 17, 1991, [105 Stat. 505][/us/stat/105/505], related to amount of and eligibility for grants for programs for handicapped children.
+
+    A prior section 2791, [Pub. L. 89–10, title I, § 156][/us/pl/89/10/s156], as added [Pub. L. 95–561, title I, § 101(a)][/us/pl/95/561/s101/a], Nov. 1, 1978, [92 Stat. 2182][/us/stat/92/2182]; amended [Pub. L. 96–88, title III, § 301(a)(1)][/us/pl/96/88/s301/a/1], title V, § 507, Oct. 17, 1979, [93 Stat. 677][/us/stat/93/677], 692, related to reservation of funds for territories, prior to the general amendment of the Elementary and Secondary Education Act of 1965, [Pub. L. 89–10][/us/pl/89/10], by [Pub. L. 100–297][/us/pl/100/297].
+
+    Section 2792, [Pub. L. 89–10, title I, § 1222][/us/pl/89/10/s1222], as added [Pub. L. 100–297, title I, § 1001][/us/pl/100/297/s1001], Apr. 28, 1988, [102 Stat. 181][/us/stat/102/181]; amended [Pub. L. 101–476, title IX, § 901(a)(2)][/us/pl/101/476/s901/a/2], Oct. 30, 1990, [104 Stat. 1142][/us/stat/104/1142], related to program requirements.
+
+    A prior section 2792, [Pub. L. 89–10, title I, § 157][/us/pl/89/10/s157], as added [Pub. L. 95–561, title I, § 101(a)][/us/pl/95/561/s101/a], Nov. 1, 1978, [92 Stat. 2182][/us/stat/92/2182], related to minimum payments for State operated programs, prior to the general amendment of the Elementary and Secondary Education Act of 1965, [Pub. L. 89–10][/us/pl/89/10], by [Pub. L. 100–297][/us/pl/100/297].
+
+    Section 2793, [Pub. L. 89–10, title I, § 1223][/us/pl/89/10/s1223], as added [Pub. L. 100–297, title I, § 1001][/us/pl/100/297/s1001], Apr. 28, 1988, [102 Stat. 182][/us/stat/102/182], related to uses of funds.
+
+    Section 2794, [Pub. L. 89–10, title I, § 1224][/us/pl/89/10/s1224], as added [Pub. L. 100–297, title I, § 1001][/us/pl/100/297/s1001], Apr. 28, 1988, [102 Stat. 182][/us/stat/102/182]; amended [Pub. L. 101–476, title IX, § 901(a)(2)][/us/pl/101/476/s901/a/2], Oct. 30, 1990, [104 Stat. 1142][/us/stat/104/1142], related to service and program applications.
+
+    Section 2795, [Pub. L. 89–10, title I, § 1225][/us/pl/89/10/s1225], as added [Pub. L. 100–297, title I, § 1001][/us/pl/100/297/s1001], Apr. 28, 1988, [102 Stat. 183][/us/stat/102/183], related to children eligible for services.
+
+    Section 2796, [Pub. L. 89–10][/us/pl/89/10],title I, § 1226, as added [Pub. L. 100–297, title I, § 1001][/us/pl/100/297/s1001], Apr. 28, 1988, [102 Stat. 184][/us/stat/102/184]; amended [Pub. L. 101–476, title IX, § 901(a)(2)][/us/pl/101/476/s901/a/2], Oct. 30, 1990, [104 Stat. 1142][/us/stat/104/1142], related to Federal monitoring requirement.
+
 ----------
 
-[Previous](./../../../../../../../..//us/usc/t20/ch47/schI/d1/ptD/spt1/m__us_usc_t20_s2781 to 2783.md) | [Next](./../../../../../../../..//us/usc/t20/ch47/schI/d1/ptD/spt2/m__us_usc_t20_s2791 to 2796.md) | [Root of Title](./../../../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fch47%2FschI%2Fd1%2FptD%2Fspt2)
+[Previous](./../../../../../../../..//us/usc/t20/ch47/schI/d1/ptD/spt1/m__us_usc_t20_ch47_schI_d1_ptD_spt1.md) | [Next](./../../../../../../../..//us/usc/t20/ch47/schI/d1/ptD/spt3/m__us_usc_t20_ch47_schI_d1_ptD_spt3.md) | [Root of Title](./../../../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fch47%2FschI%2Fd1%2FptD%2Fspt2)
 
 ----------
 ----------
 
+[/us/pl/89/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F10
+[/us/pl/103/382/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F382%2Fs101
+[/us/stat/108/3519]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3519
+[/us/pl/89/10/s1221]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F10%2Fs1221
+[/us/pl/100/297/s1001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F297%2Fs1001
+[/us/stat/102/179]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F179
+[/us/pl/101/476/s901/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F476%2Fs901%2Fa%2F2
+[/us/stat/104/1142]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1142
+[/us/pl/102/103/s312]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F103%2Fs312
+[/us/stat/105/505]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F505
+[/us/pl/89/10/s156]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F10%2Fs156
+[/us/pl/95/561/s101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F561%2Fs101%2Fa
+[/us/stat/92/2182]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2182
+[/us/pl/96/88/s301/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F88%2Fs301%2Fa%2F1
+[/us/stat/93/677]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F677
+[/us/pl/89/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F10
+[/us/pl/100/297]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F297
+[/us/pl/89/10/s1222]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F10%2Fs1222
+[/us/pl/100/297/s1001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F297%2Fs1001
+[/us/stat/102/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F181
+[/us/pl/101/476/s901/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F476%2Fs901%2Fa%2F2
+[/us/stat/104/1142]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1142
+[/us/pl/89/10/s157]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F10%2Fs157
+[/us/pl/95/561/s101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F561%2Fs101%2Fa
+[/us/stat/92/2182]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2182
+[/us/pl/89/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F10
+[/us/pl/100/297]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F297
+[/us/pl/89/10/s1223]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F10%2Fs1223
+[/us/pl/100/297/s1001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F297%2Fs1001
+[/us/stat/102/182]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F182
+[/us/pl/89/10/s1224]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F10%2Fs1224
+[/us/pl/100/297/s1001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F297%2Fs1001
+[/us/stat/102/182]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F182
+[/us/pl/101/476/s901/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F476%2Fs901%2Fa%2F2
+[/us/stat/104/1142]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1142
+[/us/pl/89/10/s1225]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F10%2Fs1225
+[/us/pl/100/297/s1001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F297%2Fs1001
+[/us/stat/102/183]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F183
+[/us/pl/89/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F10
+[/us/pl/100/297/s1001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F297%2Fs1001
+[/us/stat/102/184]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F184
+[/us/pl/101/476/s901/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F476%2Fs901%2Fa%2F2
+[/us/stat/104/1142]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1142
 
 

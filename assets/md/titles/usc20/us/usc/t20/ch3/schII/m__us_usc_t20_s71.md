@@ -35,7 +35,7 @@
 
 > “SEC. 2. __EFFECTIVE DATE.__ 
 
->     “Section 1 shall take effect on the day after the date of enactment of this Act \[Oct. 27, 2000\].”
+> “Section 1 shall take effect on the day after the date of enactment of this Act \[Oct. 27, 2000\].”
 
 [Pub. L. 96–441][/us/pl/96/441], §§ 1, 3, 4, Oct. 13, 1980, [94 Stat. 1884][/us/stat/94/1884], provided: 
 

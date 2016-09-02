@@ -15,7 +15,7 @@
 
 ## § 7325. Accountability for adequate yearly progress
 
-In the case of a State educational agency that has a plan approved under subpart 1 of part A of subchapter I of this chapter after January 8, 2002, and has a plan approved under subpart 1 of part A of subchapter III of this chapter after January 8, 2002, the Secretary shall annually, starting with the beginning of the first school year following the first two school years for which such plans were implemented, review whether the State has—
+    In the case of a State educational agency that has a plan approved under subpart 1 of part A of subchapter I of this chapter after January 8, 2002, and has a plan approved under subpart 1 of part A of subchapter III of this chapter after January 8, 2002, the Secretary shall annually, starting with the beginning of the first school year following the first two school years for which such plans were implemented, review whether the State has—
 
     (1) made adequate yearly progress, as defined in [section 6311(b)(2)(B) of this title][/us/usc/t20/s6311/b/2/B], for each of the groups of students described in [section 6311(b)(2)(C)(v) of this title][/us/usc/t20/s6311/b/2/C/v]; and
 

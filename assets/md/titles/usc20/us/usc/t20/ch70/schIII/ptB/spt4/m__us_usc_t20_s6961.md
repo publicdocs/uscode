@@ -15,7 +15,7 @@
 
 ## § 6961. Purpose
 
-The purpose of this subpart is to assist eligible local educational agencies that experience unexpectedly large increases in their student population due to immigration—
+    The purpose of this subpart is to assist eligible local educational agencies that experience unexpectedly large increases in their student population due to immigration—
 
     (1) to provide high-quality instruction to immigrant children and youth; and
 

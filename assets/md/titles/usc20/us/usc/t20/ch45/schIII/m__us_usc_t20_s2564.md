@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t20/ch45/schIII/m__us_usc_t20_s2561 to 2563.md) | [Next](./../../../../..//us/usc/t20/ch45/schIII/m__us_usc_t20_s2565.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs2564)
+[Previous](./../../../../..//us/usc/t20/ch45/schIII/m__us_usc_t20_ch45_schIII.md) | [Next](./../../../../..//us/usc/t20/ch45/schIII/m__us_usc_t20_s2565.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs2564)
 
 ## § 2564. Departmental day care center facilities; establishment; fees and charges; equipment and operation by appropriated funds
 
@@ -25,7 +25,7 @@
 
 ----------
 
-[Previous](./../../../../..//us/usc/t20/ch45/schIII/m__us_usc_t20_s2561 to 2563.md) | [Next](./../../../../..//us/usc/t20/ch45/schIII/m__us_usc_t20_s2565.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs2564)
+[Previous](./../../../../..//us/usc/t20/ch45/schIII/m__us_usc_t20_ch45_schIII.md) | [Next](./../../../../..//us/usc/t20/ch45/schIII/m__us_usc_t20_s2565.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs2564)
 
 ----------
 ----------

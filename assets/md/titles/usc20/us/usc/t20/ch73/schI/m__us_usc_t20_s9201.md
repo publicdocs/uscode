@@ -15,7 +15,7 @@
 
 ## § 9201. Purpose
 
-It is the purpose of this subchapter to create a partnership among the Federal Government, States, and localities to provide, on a voluntary basis, adult education and literacy services, in order to—
+    It is the purpose of this subchapter to create a partnership among the Federal Government, States, and localities to provide, on a voluntary basis, adult education and literacy services, in order to—
 
     (1) assist adults to become literate and obtain the knowledge and skills necessary for employment and self-sufficiency;
 

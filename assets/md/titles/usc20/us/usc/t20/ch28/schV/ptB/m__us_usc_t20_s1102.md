@@ -15,7 +15,7 @@
 
 ## § 1102. Purposes
 
-The purposes of this part are—
+    The purposes of this part are—
 
     (1) to expand postbaccalaureate educational opportunities for, and improve the academic attainment of, Hispanic students; and
 

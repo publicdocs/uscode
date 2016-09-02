@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t20/ch31/schI/m__us_usc_t20_s1221e–1 to 1221e–1c.md) | [Next](./../../../../..//us/usc/t20/ch31/schI/m__us_usc_t20_s1221e–2.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1221e%E2%80%931d)
+[Previous](./../../../../..//us/usc/t20/ch31/schI/m__us_usc_t20_s1221e.md) | [Next](./../../../../..//us/usc/t20/ch31/schI/m__us_usc_t20_s1221e–2.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1221e%E2%80%931d)
 
 ## § 1221e–1d. Use of Council staff and facilities
 
@@ -25,7 +25,7 @@
 
 ----------
 
-[Previous](./../../../../..//us/usc/t20/ch31/schI/m__us_usc_t20_s1221e–1 to 1221e–1c.md) | [Next](./../../../../..//us/usc/t20/ch31/schI/m__us_usc_t20_s1221e–2.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1221e%E2%80%931d)
+[Previous](./../../../../..//us/usc/t20/ch31/schI/m__us_usc_t20_s1221e.md) | [Next](./../../../../..//us/usc/t20/ch31/schI/m__us_usc_t20_s1221e–2.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1221e%E2%80%931d)
 
 ----------
 ----------

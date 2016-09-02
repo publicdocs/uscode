@@ -15,7 +15,7 @@
 
 ## § 1070g. Definitions
 
-For the purposes of this subpart:
+    For the purposes of this subpart:
 
     (1) __Eligible institution__ 
 

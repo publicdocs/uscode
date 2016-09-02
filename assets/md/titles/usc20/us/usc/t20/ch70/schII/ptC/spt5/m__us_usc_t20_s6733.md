@@ -15,7 +15,7 @@
 
 ## § 6733. Definitions
 
-For purposes of this subpart:
+    For purposes of this subpart:
 
     (1) __Economic loss__ 
 

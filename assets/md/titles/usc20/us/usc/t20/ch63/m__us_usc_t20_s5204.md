@@ -15,7 +15,7 @@
 
 ## § 5204. Authorization of appropriations
 
-To provide a permanent endowment for the Eisenhower Exchange Fellowship Program, there are authorized to be appropriated to the Eisenhower Exchange Fellowships Program Trust Fund—
+    To provide a permanent endowment for the Eisenhower Exchange Fellowship Program, there are authorized to be appropriated to the Eisenhower Exchange Fellowships Program Trust Fund—
 
     (1) $5,000,000; and
 

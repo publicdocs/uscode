@@ -11,16 +11,89 @@
 ----------
 ----------
 
-[Previous](./../../../../../../..//us/usc/t20/ch47/schI/d1/ptD/spt4/m__us_usc_t20_s2811, 2812.md) | [Next](./../../../../../../..//us/usc/t20/ch47/schI/d1/ptE/m__us_usc_t20_s2821 to 2826.md) | [Root of Title](./../../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fch47%2FschI%2Fd1%2FptE)
+[Previous](./../../../../../../..//us/usc/t20/ch47/schI/d1/ptD/spt4/m__us_usc_t20_ch47_schI_d1_ptD_spt4.md) | [Next](./../../../../../../..//us/usc/t20/ch47/schI/d1/ptF/m__us_usc_t20_ch47_schI_d1_ptF.md) | [Root of Title](./../../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fch47%2FschI%2Fd1%2FptE)
 
 ##### Part E—Payments
 
+§§ 2821 to 2826. __Omitted__ 
+
+ __Codification__ 
+
+    Sections were omitted in the general amendment of the Elementary and Secondary Education Act of 1965, [Pub. L. 89–10][/us/pl/89/10], by [Pub. L. 103–382, title I, § 101][/us/pl/103/382/s101], Oct. 20, 1994, [108 Stat. 3519][/us/stat/108/3519].
+
+    Section 2821, [Pub. L. 89–10, title I, § 1401][/us/pl/89/10/s1401], as added [Pub. L. 100–297, title I, § 1001][/us/pl/100/297/s1001], Apr. 28, 1988, [102 Stat. 186][/us/stat/102/186], related to payment methods.
+
+    A prior section 2821, [Pub. L. 89–10, title I, § 171][/us/pl/89/10/s171], as added [Pub. L. 95–561, title I, § 101(a)][/us/pl/95/561/s101/a], Nov. 1, 1978, [92 Stat. 2187][/us/stat/92/2187]; amended [Pub. L. 96–88, title III, § 301(a)(1)][/us/pl/96/88/s301/a/1], title V, § 507, Oct. 17, 1979, [93 Stat. 677][/us/stat/93/677], 692, related to State monitoring and enforcement plan, prior to the general amendment of the Elementary and Secondary Education Act of 1965, [Pub. L. 89–10][/us/pl/89/10], by [Pub. L. 100–297][/us/pl/100/297].
+
+    Section 2822, [Pub. L. 89–10, title I, § 1402][/us/pl/89/10/s1402], as added [Pub. L. 100–297, title I, § 1001][/us/pl/100/297/s1001], Apr. 28, 1988, [102 Stat. 186][/us/stat/102/186], related to amount of payments to local educational agencies.
+
+    A prior section 2822, [Pub. L. 89–10, title I, § 172][/us/pl/89/10/s172], as added [Pub. L. 95–561, title I, § 101(a)][/us/pl/95/561/s101/a], Nov. 1, 1978, [92 Stat. 2187][/us/stat/92/2187]; amended [Pub. L. 96–88, title III, § 301(a)(1)][/us/pl/96/88/s301/a/1], title V, § 507, Oct. 17, 1979, [93 Stat. 677][/us/stat/93/677], 692, related to reports filed with the Secretary by State educational agencies, prior to the general amendment of the Elementary and Secondary Education Act of 1965, [Pub. L. 89–10][/us/pl/89/10], by [Pub. L. 100–297][/us/pl/100/297].
+
+    Section 2823, [Pub. L. 89–10, title I, § 1403][/us/pl/89/10/s1403], as added [Pub. L. 100–297, title I, § 1001][/us/pl/100/297/s1001], Apr. 28, 1988, [102 Stat. 186][/us/stat/102/186], related to adjustments where necessitated by appropriations.
+
+    A prior section 2823, [Pub. L. 89–10, title I, § 173][/us/pl/89/10/s173], as added [Pub. L. 95–561, title I, § 101(a)][/us/pl/95/561/s101/a], Nov. 1, 1978, [92 Stat. 2188][/us/stat/92/2188]; amended [Pub. L. 96–88, title III, § 301(a)(1)][/us/pl/96/88/s301/a/1], title V, § 507, Oct. 17, 1979, [93 Stat. 677][/us/stat/93/677], 692, related to recordkeeping, fiscal control, and fund accounting, prior to the general amendment of the Elementary and Secondary Education Act of 1965, [Pub. L. 89–10][/us/pl/89/10], by [Pub. L. 100–297][/us/pl/100/297].
+
+    Section 2824, [Pub. L. 89–10, title I, § 1404][/us/pl/89/10/s1404], as added [Pub. L. 100–297, title I, § 1001][/us/pl/100/297/s1001], Apr. 28, 1988, [102 Stat. 187][/us/stat/102/187], related to payments for State administration.
+
+    A prior section 2824, [Pub. L. 89–10, title I, § 174][/us/pl/89/10/s174], as added [Pub. L. 95–561, title I, § 101(a)][/us/pl/95/561/s101/a], Nov. 1, 1978, [92 Stat. 2188][/us/stat/92/2188], related to prohibition of consideration of Federal aid in determining State aid, prior to the general amendment of the Elementary and Secondary Education Act of 1965, [Pub. L. 89–10][/us/pl/89/10], by [Pub. L. 100–297][/us/pl/100/297].
+
+    Section 2825, [Pub. L. 89–10, title I, § 1405][/us/pl/89/10/s1405], as added [Pub. L. 100–297, title I, § 1001][/us/pl/100/297/s1001], Apr. 28, 1988, [102 Stat. 188][/us/stat/102/188], related to funds for implementation of school improvement programs.
+
+    Section 2826, [Pub. L. 89–10, title I, § 1406][/us/pl/89/10/s1406], as added [Pub. L. 100–297, title I, § 1001][/us/pl/100/297/s1001], Apr. 28, 1988, [102 Stat. 188][/us/stat/102/188], related to limitation on grants to Commonwealth of Puerto Rico.
+
 ----------
 
-[Previous](./../../../../../../..//us/usc/t20/ch47/schI/d1/ptD/spt4/m__us_usc_t20_s2811, 2812.md) | [Next](./../../../../../../..//us/usc/t20/ch47/schI/d1/ptE/m__us_usc_t20_s2821 to 2826.md) | [Root of Title](./../../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fch47%2FschI%2Fd1%2FptE)
+[Previous](./../../../../../../..//us/usc/t20/ch47/schI/d1/ptD/spt4/m__us_usc_t20_ch47_schI_d1_ptD_spt4.md) | [Next](./../../../../../../..//us/usc/t20/ch47/schI/d1/ptF/m__us_usc_t20_ch47_schI_d1_ptF.md) | [Root of Title](./../../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fch47%2FschI%2Fd1%2FptE)
 
 ----------
 ----------
 
+[/us/pl/89/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F10
+[/us/pl/103/382/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F382%2Fs101
+[/us/stat/108/3519]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3519
+[/us/pl/89/10/s1401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F10%2Fs1401
+[/us/pl/100/297/s1001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F297%2Fs1001
+[/us/stat/102/186]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F186
+[/us/pl/89/10/s171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F10%2Fs171
+[/us/pl/95/561/s101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F561%2Fs101%2Fa
+[/us/stat/92/2187]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2187
+[/us/pl/96/88/s301/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F88%2Fs301%2Fa%2F1
+[/us/stat/93/677]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F677
+[/us/pl/89/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F10
+[/us/pl/100/297]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F297
+[/us/pl/89/10/s1402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F10%2Fs1402
+[/us/pl/100/297/s1001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F297%2Fs1001
+[/us/stat/102/186]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F186
+[/us/pl/89/10/s172]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F10%2Fs172
+[/us/pl/95/561/s101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F561%2Fs101%2Fa
+[/us/stat/92/2187]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2187
+[/us/pl/96/88/s301/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F88%2Fs301%2Fa%2F1
+[/us/stat/93/677]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F677
+[/us/pl/89/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F10
+[/us/pl/100/297]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F297
+[/us/pl/89/10/s1403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F10%2Fs1403
+[/us/pl/100/297/s1001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F297%2Fs1001
+[/us/stat/102/186]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F186
+[/us/pl/89/10/s173]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F10%2Fs173
+[/us/pl/95/561/s101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F561%2Fs101%2Fa
+[/us/stat/92/2188]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2188
+[/us/pl/96/88/s301/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F88%2Fs301%2Fa%2F1
+[/us/stat/93/677]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F677
+[/us/pl/89/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F10
+[/us/pl/100/297]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F297
+[/us/pl/89/10/s1404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F10%2Fs1404
+[/us/pl/100/297/s1001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F297%2Fs1001
+[/us/stat/102/187]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F187
+[/us/pl/89/10/s174]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F10%2Fs174
+[/us/pl/95/561/s101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F561%2Fs101%2Fa
+[/us/stat/92/2188]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2188
+[/us/pl/89/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F10
+[/us/pl/100/297]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F297
+[/us/pl/89/10/s1405]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F10%2Fs1405
+[/us/pl/100/297/s1001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F297%2Fs1001
+[/us/stat/102/188]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F188
+[/us/pl/89/10/s1406]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F10%2Fs1406
+[/us/pl/100/297/s1001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F297%2Fs1001
+[/us/stat/102/188]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F188
 
 

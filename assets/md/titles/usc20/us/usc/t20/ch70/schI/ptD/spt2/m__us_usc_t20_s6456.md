@@ -15,7 +15,7 @@
 
 ## § 6456. Accountability
 
-The State educational agency may—
+    The State educational agency may—
 
     (1) reduce or terminate funding for projects under this subpart if a local educational agency does not show progress in reducing dropout rates for male students and for female students over a 3-year period; and
 

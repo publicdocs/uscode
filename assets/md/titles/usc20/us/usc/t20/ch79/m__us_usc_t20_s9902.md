@@ -15,7 +15,7 @@
 
 ## § 9902. Program requirements
 
-The Director shall replicate and implement undergraduate degree programs under this chapter that—
+    The Director shall replicate and implement undergraduate degree programs under this chapter that—
 
     (1) are designed to recruit and prepare students who pursue a baccalaureate degree in science, technology, engineering, or mathematics to become certified as elementary and secondary teachers;
 

@@ -15,7 +15,7 @@
 
 ## § 7013. National clearinghouse
 
-The Secretary shall establish and support the operation of a National Clearinghouse for English Language Acquisition and Language Instruction Educational Programs, which shall collect, analyze, synthesize, and disseminate information about language instruction educational programs for limited English proficient children, and related programs. The National Clearinghouse shall—
+    The Secretary shall establish and support the operation of a National Clearinghouse for English Language Acquisition and Language Instruction Educational Programs, which shall collect, analyze, synthesize, and disseminate information about language instruction educational programs for limited English proficient children, and related programs. The National Clearinghouse shall—
 
     (1) be administered as an adjunct clearinghouse of the Educational Resources Information Center Clearinghouses system supported by the Institute of Education Sciences;
 

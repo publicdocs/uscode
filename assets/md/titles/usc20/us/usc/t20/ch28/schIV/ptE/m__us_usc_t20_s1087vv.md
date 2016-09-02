@@ -15,7 +15,7 @@
 
 ## § 1087vv. Definitions
 
-As used in this part:
+    As used in this part:
 
     (a) __Total income__ 
 

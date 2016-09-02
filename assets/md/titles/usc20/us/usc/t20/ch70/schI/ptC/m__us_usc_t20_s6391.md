@@ -15,7 +15,7 @@
 
 ## § 6391. Program purpose
 
-It is the purpose of this part to assist States to—
+    It is the purpose of this part to assist States to—
 
     (1) support high-quality and comprehensive educational programs for migratory children to help reduce the educational disruptions and other problems that result from repeated moves;
 

@@ -15,7 +15,7 @@
 
 ## § 3489. General extension of authorizations
 
-Subject to the limitations contained in subtitle A of this title, there are authorized to be appropriated for fiscal years 1982, 1983, and 1984 such sums as may be necessary to carry out each of the following provisions of law:
+    Subject to the limitations contained in subtitle A of this title, there are authorized to be appropriated for fiscal years 1982, 1983, and 1984 such sums as may be necessary to carry out each of the following provisions of law:
 
     (1) the Act of September 30, 1950  <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  (Public Law 874, 81st Congress);
 

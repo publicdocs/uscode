@@ -15,7 +15,7 @@
 
 ## § 7231b. Program authorized
 
-The Secretary, in accordance with this part, is authorized to award grants to eligible local educational agencies, and consortia of such agencies where appropriate, to carry out the purpose of this part for magnet schools that are—
+    The Secretary, in accordance with this part, is authorized to award grants to eligible local educational agencies, and consortia of such agencies where appropriate, to carry out the purpose of this part for magnet schools that are—
 
     (1) part of an approved desegregation plan; and
 

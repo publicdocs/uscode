@@ -15,7 +15,7 @@
 
 ## § 1070g–4. Program report
 
-Not later than two years after August 14, 2008, and every two years thereafter, the Secretary shall prepare and submit to the authorizing committees a report on TEACH grants with respect to the schools and students served by recipients of such grants. Such report shall take into consideration information related to—
+    Not later than two years after August 14, 2008, and every two years thereafter, the Secretary shall prepare and submit to the authorizing committees a report on TEACH grants with respect to the schools and students served by recipients of such grants. Such report shall take into consideration information related to—
 
     (1) the number of TEACH grant recipients;
 

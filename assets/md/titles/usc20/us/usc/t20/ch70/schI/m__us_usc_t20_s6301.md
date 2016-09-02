@@ -15,7 +15,7 @@
 
 ## § 6301. Statement of purpose
 
-The purpose of this subchapter is to ensure that all children have a fair, equal, and significant opportunity to obtain a high-quality education and reach, at a minimum, proficiency on challenging State academic achievement standards and state  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be capitalized. </sup></sup>  academic assessments. This purpose can be accomplished by—
+    The purpose of this subchapter is to ensure that all children have a fair, equal, and significant opportunity to obtain a high-quality education and reach, at a minimum, proficiency on challenging State academic achievement standards and state  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be capitalized. </sup></sup>  academic assessments. This purpose can be accomplished by—
 
     (1) ensuring that high-quality academic assessments, accountability systems, teacher preparation and training, curriculum, and instructional materials are aligned with challenging State academic standards so that students, teachers, parents, and administrators can measure progress against common expectations for student academic achievement;
 
@@ -215,7 +215,7 @@ The purpose of this subchapter is to ensure that all children have a fair, equal
 
 >     “(2) a person or agency that, prior to the date of enactment of this Act \[Jan. 8, 2002\], was awarded a grant or contract under part K of title X of the Elementary and Secondary Education Act of 1965 (\[formerly\] [20 U.S.C. 8331][/us/usc/t20/s8331] et seq.),
 
->         the Secretary of Education shall continue to provide funds in accordance with the terms of such award until the date on which the award period terminates.”
+>     the Secretary of Education shall continue to provide funds in accordance with the terms of such award until the date on which the award period terminates.”
 
 [Pub. L. 107–110, title V, § 502][/us/pl/107/110/s502], Jan. 8, 2002, [115 Stat. 1873][/us/stat/115/1873], provided that:
 

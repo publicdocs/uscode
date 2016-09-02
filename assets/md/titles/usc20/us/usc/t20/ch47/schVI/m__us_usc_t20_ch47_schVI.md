@@ -11,13 +11,13 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t20/ch47/schV/ptG/m__us_usc_t20_s3231 to 3233.md) | [Next](./../../../../..//us/usc/t20/ch47/schVI/ptA/m__us_usc_t20_ch47_schVI_ptA.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fch47%2FschVI)
+[Previous](./../../../../..//us/usc/t20/ch47/schV/ptG/m__us_usc_t20_ch47_schV_ptG.md) | [Next](./../../../../..//us/usc/t20/ch47/schVI/ptA/m__us_usc_t20_ch47_schVI_ptA.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fch47%2FschVI)
 
 ### SUBCHAPTER VI—PROJECTS AND PROGRAMS DESIGNED TO ADDRESS SCHOOL DROPOUT PROBLEMS AND TO STRENGTHEN BASIC SKILLS INSTRUCTION
 
 ----------
 
-[Previous](./../../../../..//us/usc/t20/ch47/schV/ptG/m__us_usc_t20_s3231 to 3233.md) | [Next](./../../../../..//us/usc/t20/ch47/schVI/ptA/m__us_usc_t20_ch47_schVI_ptA.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fch47%2FschVI)
+[Previous](./../../../../..//us/usc/t20/ch47/schV/ptG/m__us_usc_t20_ch47_schV_ptG.md) | [Next](./../../../../..//us/usc/t20/ch47/schVI/ptA/m__us_usc_t20_ch47_schVI_ptA.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fch47%2FschVI)
 
 ----------
 ----------

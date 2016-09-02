@@ -15,7 +15,7 @@
 
 ## § 6532. Purposes
 
-The purposes of this part are—
+    The purposes of this part are—
 
     (1) to support State and local efforts to raise academic standards through advanced placement programs, and thus further increase the number of students who participate and succeed in advanced placement programs;
 

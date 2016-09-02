@@ -15,7 +15,7 @@
 
 ## § 6871. Eligible entity
 
-In this part, the term “eligible entity” means—
+    In this part, the term “eligible entity” means—
 
     (1) one or more local educational agencies; or
 

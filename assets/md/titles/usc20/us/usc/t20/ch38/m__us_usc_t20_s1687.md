@@ -15,7 +15,7 @@
 
 ## § 1687. Interpretation of “program or activity”
 
-For the purposes of this chapter, the term “program or activity” and “program” mean all of the operations of—
+    For the purposes of this chapter, the term “program or activity” and “program” mean all of the operations of—
 
     (1)
 
@@ -43,7 +43,7 @@ For the purposes of this chapter, the term “program or activity” and “prog
 
     (4) any other entity which is established by two or more of the entities described in paragraph (1), (2), or (3);
 
-        any part of which is extended Federal financial assistance, except that such term does not include any operation of an entity which is controlled by a religious organization if the application of [section 1681 of this title][/us/usc/t20/s1681] to such operation would not be consistent with the religious tenets of such organization.
+    any part of which is extended Federal financial assistance, except that such term does not include any operation of an entity which is controlled by a religious organization if the application of [section 1681 of this title][/us/usc/t20/s1681] to such operation would not be consistent with the religious tenets of such organization.
 
 ([Pub. L. 92–318, title IX, § 908][/us/pl/92/318/s908], as added [Pub. L. 100–259, § 3(a)][/us/pl/100/259/s3/a], Mar. 22, 1988, [102 Stat. 28][/us/stat/102/28]; amended [Pub. L. 103–382, title III, § 391(g)][/us/pl/103/382/s391/g], Oct. 20, 1994, [108 Stat. 4023][/us/stat/108/4023]; [Pub. L. 107–110, title X, § 1076(j)][/us/pl/107/110/s1076/j], Jan. 8, 2002, [115 Stat. 2091][/us/stat/115/2091].)
 

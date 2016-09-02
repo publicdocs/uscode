@@ -15,7 +15,7 @@
 
 ## § 1132–1. Special rule
 
-The Secretary may waive or reduce the non-Federal share required under this subchapter for institutions that—
+    The Secretary may waive or reduce the non-Federal share required under this subchapter for institutions that—
 
     (1) are eligible to receive assistance under part A or B of subchapter III or under subchapter V; and
 

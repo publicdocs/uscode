@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../..//us/usc/t20/ch2/m__us_usc_t20_s15aaa to 15ggg.md) | [Next](./../../../..//us/usc/t20/ch2/m__us_usc_t20_s17.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs16)
+[Previous](./../../../..//us/usc/t20/ch2/m__us_usc_t20_s15n.md) | [Next](./../../../..//us/usc/t20/ch2/m__us_usc_t20_s17.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs16)
 
 ## § 16. Repealed. [Pub. L. 105–33, title VI, § 6201][/us/pl/105/33/s6201], Aug. 5, 1997, [111 Stat. 653][/us/stat/111/653]
 
@@ -19,7 +19,7 @@
 
 ----------
 
-[Previous](./../../../..//us/usc/t20/ch2/m__us_usc_t20_s15aaa to 15ggg.md) | [Next](./../../../..//us/usc/t20/ch2/m__us_usc_t20_s17.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs16)
+[Previous](./../../../..//us/usc/t20/ch2/m__us_usc_t20_s15n.md) | [Next](./../../../..//us/usc/t20/ch2/m__us_usc_t20_s17.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs16)
 
 ----------
 ----------

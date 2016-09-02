@@ -15,7 +15,7 @@
 
 ## § 7542. Findings
 
-Congress finds and declares the following:
+    Congress finds and declares the following:
 
     (1) The attainment of educational success is critical to the betterment of the conditions, long-term well-being, and preservation of the culture of Alaska Natives.
 

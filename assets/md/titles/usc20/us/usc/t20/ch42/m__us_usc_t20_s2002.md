@@ -15,7 +15,7 @@
 
 ## § 2002. Definitions
 
-As used in this chapter, the term—
+    As used in this chapter, the term—
 
     (1) “Board” means the Board of Trustees of the Harry S Truman Scholarship Foundation;
 

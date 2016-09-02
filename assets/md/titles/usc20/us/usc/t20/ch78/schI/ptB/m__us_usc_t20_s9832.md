@@ -15,7 +15,7 @@
 
 ## § 9832. Definitions
 
-In this part:
+    In this part:
 
     (1) __Advanced Placement or International Baccalaureate course__ 
 

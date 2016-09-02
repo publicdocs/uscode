@@ -15,7 +15,7 @@
 
 ## § 1161l–5. Rule of construction
 
-Nothing in this part shall be construed—
+    Nothing in this part shall be construed—
 
     (1) to provide a private right of action to any person to enforce any provision of this section;
 

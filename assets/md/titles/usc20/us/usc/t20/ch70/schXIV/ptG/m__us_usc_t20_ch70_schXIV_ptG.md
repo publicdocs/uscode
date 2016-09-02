@@ -11,13 +11,13 @@
 ----------
 ----------
 
-[Previous](./../../../../../..//us/usc/t20/ch70/schXIV/ptF/m__us_usc_t20_s8921 to 8923.md) | [Next](./../../../../../..//us/usc/t20/ch70/schXIV/ptG/m__us_usc_t20_s8941.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fch70%2FschXIV%2FptG)
+[Previous](./../../../../../..//us/usc/t20/ch70/schXIV/ptF/m__us_usc_t20_ch70_schXIV_ptF.md) | [Next](./../../../../../..//us/usc/t20/ch70/schXIV/ptG/m__us_usc_t20_s8941.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fch70%2FschXIV%2FptG)
 
 #### Part G—Evaluations
 
 ----------
 
-[Previous](./../../../../../..//us/usc/t20/ch70/schXIV/ptF/m__us_usc_t20_s8921 to 8923.md) | [Next](./../../../../../..//us/usc/t20/ch70/schXIV/ptG/m__us_usc_t20_s8941.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fch70%2FschXIV%2FptG)
+[Previous](./../../../../../..//us/usc/t20/ch70/schXIV/ptF/m__us_usc_t20_ch70_schXIV_ptF.md) | [Next](./../../../../../..//us/usc/t20/ch70/schXIV/ptG/m__us_usc_t20_s8941.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fch70%2FschXIV%2FptG)
 
 ----------
 ----------

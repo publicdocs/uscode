@@ -15,7 +15,7 @@
 
 ## § 1067k. Definitions
 
-For the purpose of this part—
+    For the purpose of this part—
 
     (1) The term “accredited” means currently certified by a nationally recognized accrediting agency or making satisfactory progress toward achieving accreditation.
 

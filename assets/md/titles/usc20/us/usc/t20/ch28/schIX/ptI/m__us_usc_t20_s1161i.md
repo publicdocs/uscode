@@ -15,7 +15,7 @@
 
 ## § 1161i. Purpose
 
-The purposes of this part are—
+    The purposes of this part are—
 
     (1) to improve the quality of the early childhood education workforce by creating a statewide early childhood education professional development and career task force for early childhood education program staff, directors, administrators, and faculty; and
 

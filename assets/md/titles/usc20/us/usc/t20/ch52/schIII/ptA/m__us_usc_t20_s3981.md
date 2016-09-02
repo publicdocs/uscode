@@ -15,7 +15,7 @@
 
 ## § 3981. Statement of purpose
 
-It is the purpose of this part to supplement State and local resources to—
+    It is the purpose of this part to supplement State and local resources to—
 
     (1) improve the quality of instruction in the fields of mathematics, science, and engineering in the State;
 

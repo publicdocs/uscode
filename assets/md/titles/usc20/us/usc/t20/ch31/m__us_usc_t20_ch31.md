@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../..//us/usc/t20/ch30/schIV/m__us_usc_t20_s1213 to 1213d.md) | [Next](./../../../..//us/usc/t20/ch31/m__us_usc_t20_s1221.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fch31)
+[Previous](./../../../..//us/usc/t20/ch30/schIV/m__us_usc_t20_ch30_schIV.md) | [Next](./../../../..//us/usc/t20/ch31/m__us_usc_t20_s1221.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fch31)
 
 ## CHAPTER 31—GENERAL PROVISIONS CONCERNING EDUCATION
 
@@ -599,7 +599,7 @@ SUBCHAPTER V—READY TO LEARN TELEVISION  </td>
 
 ----------
 
-[Previous](./../../../..//us/usc/t20/ch30/schIV/m__us_usc_t20_s1213 to 1213d.md) | [Next](./../../../..//us/usc/t20/ch31/m__us_usc_t20_s1221.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fch31)
+[Previous](./../../../..//us/usc/t20/ch30/schIV/m__us_usc_t20_ch30_schIV.md) | [Next](./../../../..//us/usc/t20/ch31/m__us_usc_t20_s1221.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fch31)
 
 ----------
 ----------

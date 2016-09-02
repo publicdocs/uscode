@@ -15,7 +15,7 @@
 
 ## § 5601. Findings
 
-The Congress finds that—
+    The Congress finds that—
 
     (1) for three decades, Congressman Morris K. Udall has served his country with distinction and honor;
 

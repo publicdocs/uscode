@@ -11,16 +11,100 @@
 ----------
 ----------
 
-[Previous](./../../../../../..//us/usc/t20/ch47/schIV/ptC/spt3/m__us_usc_t20_s3111, 3112.md) | [Next](./../../../../../..//us/usc/t20/ch47/schIV/ptD/m__us_usc_t20_s3121 to 3130.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fch47%2FschIV%2FptD)
+[Previous](./../../../../../..//us/usc/t20/ch47/schIV/ptC/spt3/m__us_usc_t20_ch47_schIV_ptC_spt3.md) | [Next](./../../../../../..//us/usc/t20/ch47/schIV/ptE/m__us_usc_t20_ch47_schIV_ptE.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fch47%2FschIV%2FptD)
 
 #### Part D—Immigrant Education
 
+§§ 3121 to 3130. __Omitted__ 
+
+ __Codification__ 
+
+    Sections were omitted in the general amendment of the Elementary and Secondary Education Act of 1965, [Pub. L. 89–10][/us/pl/89/10], by [Pub. L. 103–382, title I, § 101][/us/pl/103/382/s101], Oct. 20, 1994, [108 Stat. 3519][/us/stat/108/3519].
+
+    Section 3121, [Pub. L. 89–10, title IV, § 4401][/us/pl/89/10/s4401], as added [Pub. L. 100–297, title I, § 1001][/us/pl/100/297/s1001], Apr. 28, 1988, [102 Stat. 242][/us/stat/102/242], provided that this part could be cited as the “Emergency Immigrant Education Act of 1984”.
+
+    A prior section 3121, [Pub. L. 89–10, title IV, § 441][/us/pl/89/10/s441], as added [Pub. L. 95–561, title IV, § 401][/us/pl/95/561/s401], Nov. 1, 1978, [92 Stat. 2239][/us/stat/92/2239]; amended [Pub. L. 96–88, title III, § 301(a)(1)][/us/pl/96/88/s301/a/1], title V, § 507, Oct. 17, 1979, [93 Stat. 677][/us/stat/93/677], 692, related to authorized programs and funding for guidance, counseling, and testing, prior to repeal by [Pub. L. 97–35, title V, § 587(a)(1)][/us/pl/97/35/s587/a/1], Aug. 13, 1981, [95 Stat. 480][/us/stat/95/480], eff. Oct. 1, 1982.
+
+    Section 3122, [Pub. L. 89–10, title IV, § 4402][/us/pl/89/10/s4402], as added [Pub. L. 100–297, title I, § 1001][/us/pl/100/297/s1001], Apr. 28, 1988, [102 Stat. 242][/us/stat/102/242], defined terms used in this part.
+
+    A prior section 3122, [Pub. L. 89–10, title IV, § 442][/us/pl/89/10/s442], as added [Pub. L. 95–561, title IV, § 401][/us/pl/95/561/s401], Nov. 1, 1978, [93 Stat. 677][/us/stat/93/677], 692, related to program requirements for guidance, counseling, and testing, prior to repeal by [Pub. L. 97–35, title V, § 587(a)(1)][/us/pl/97/35/s587/a/1], Aug. 13, 1981, [95 Stat. 480][/us/stat/95/480], eff. Oct. 1, 1982.
+
+    Section 3123, [Pub. L. 89–10, title IV, § 4403][/us/pl/89/10/s4403], as added [Pub. L. 100–297, title I, § 1001][/us/pl/100/297/s1001], Apr. 28, 1988, [102 Stat. 242][/us/stat/102/242], related to authorization and allocation of appropriations.
+
+    A prior section 3123, [Pub. L. 89–10, title IV, § 443][/us/pl/89/10/s443], as added [Pub. L. 95–561, title IV, § 401][/us/pl/95/561/s401], Nov. 1, 1978, [92 Stat. 2240][/us/stat/92/2240]; amended [Pub. L. 96–88, title III, § 301(a)(1)][/us/pl/96/88/s301/a/1], (b)(2), title V, § 507, Oct. 17, 1979, [93 Stat. 677][/us/stat/93/677], 678, 692, related to establishment by Secretary of an administrative unit to provide information and advice on guidance and counseling activities, prior to repeal by [Pub. L. 97–35, title V, § 587(a)(1)][/us/pl/97/35/s587/a/1], Aug. 13, 1981, [95 Stat. 480][/us/stat/95/480], eff. Oct. 1, 1982.
+
+    Section 3124, [Pub. L. 89–10, title IV, § 4404][/us/pl/89/10/s4404], as added [Pub. L. 100–297, title I, § 1001][/us/pl/100/297/s1001], Apr. 28, 1988, [102 Stat. 243][/us/stat/102/243], related to State administrative costs.
+
+    Section 3125, [Pub. L. 89–10, title IV, § 4405][/us/pl/89/10/s4405], as added [Pub. L. 100–297, title I, § 1001][/us/pl/100/297/s1001], Apr. 28, 1988, [102 Stat. 243][/us/stat/102/243], related to withholding.
+
+    Section 3126, [Pub. L. 89–10, title IV, § 4406][/us/pl/89/10/s4406], as added [Pub. L. 100–297, title I, § 1001][/us/pl/100/297/s1001], Apr. 28, 1988, [102 Stat. 243][/us/stat/102/243], related to State entitlements.
+
+    Section 3127, [Pub. L. 89–10, title IV, § 4407][/us/pl/89/10/s4407], as added [Pub. L. 100–297, title I, § 1001][/us/pl/100/297/s1001], Apr. 28, 1988, [102 Stat. 244][/us/stat/102/244], related to uses of funds.
+
+    Section 3128, [Pub. L. 89–10, title IV, § 4408][/us/pl/89/10/s4408], as added [Pub. L. 100–297, title I, § 1001][/us/pl/100/297/s1001], Apr. 28, 1988, [102 Stat. 245][/us/stat/102/245], related to applications.
+
+    Section 3129, [Pub. L. 89–10, title IV, § 4409][/us/pl/89/10/s4409], as added [Pub. L. 100–297, title I, § 1001][/us/pl/100/297/s1001], Apr. 28, 1988, [102 Stat. 246][/us/stat/102/246], related to payments.
+
+    Section 3130, [Pub. L. 89–10, title IV, § 4410][/us/pl/89/10/s4410], as added [Pub. L. 100–297, title I, § 1001][/us/pl/100/297/s1001], Apr. 28, 1988, [102 Stat. 246][/us/stat/102/246], related to reports.
+
 ----------
 
-[Previous](./../../../../../..//us/usc/t20/ch47/schIV/ptC/spt3/m__us_usc_t20_s3111, 3112.md) | [Next](./../../../../../..//us/usc/t20/ch47/schIV/ptD/m__us_usc_t20_s3121 to 3130.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fch47%2FschIV%2FptD)
+[Previous](./../../../../../..//us/usc/t20/ch47/schIV/ptC/spt3/m__us_usc_t20_ch47_schIV_ptC_spt3.md) | [Next](./../../../../../..//us/usc/t20/ch47/schIV/ptE/m__us_usc_t20_ch47_schIV_ptE.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fch47%2FschIV%2FptD)
 
 ----------
 ----------
 
+[/us/pl/89/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F10
+[/us/pl/103/382/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F382%2Fs101
+[/us/stat/108/3519]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3519
+[/us/pl/89/10/s4401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F10%2Fs4401
+[/us/pl/100/297/s1001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F297%2Fs1001
+[/us/stat/102/242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F242
+[/us/pl/89/10/s441]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F10%2Fs441
+[/us/pl/95/561/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F561%2Fs401
+[/us/stat/92/2239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2239
+[/us/pl/96/88/s301/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F88%2Fs301%2Fa%2F1
+[/us/stat/93/677]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F677
+[/us/pl/97/35/s587/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs587%2Fa%2F1
+[/us/stat/95/480]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F480
+[/us/pl/89/10/s4402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F10%2Fs4402
+[/us/pl/100/297/s1001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F297%2Fs1001
+[/us/stat/102/242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F242
+[/us/pl/89/10/s442]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F10%2Fs442
+[/us/pl/95/561/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F561%2Fs401
+[/us/stat/93/677]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F677
+[/us/pl/97/35/s587/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs587%2Fa%2F1
+[/us/stat/95/480]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F480
+[/us/pl/89/10/s4403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F10%2Fs4403
+[/us/pl/100/297/s1001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F297%2Fs1001
+[/us/stat/102/242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F242
+[/us/pl/89/10/s443]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F10%2Fs443
+[/us/pl/95/561/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F561%2Fs401
+[/us/stat/92/2240]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2240
+[/us/pl/96/88/s301/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F88%2Fs301%2Fa%2F1
+[/us/stat/93/677]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F677
+[/us/pl/97/35/s587/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs587%2Fa%2F1
+[/us/stat/95/480]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F480
+[/us/pl/89/10/s4404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F10%2Fs4404
+[/us/pl/100/297/s1001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F297%2Fs1001
+[/us/stat/102/243]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F243
+[/us/pl/89/10/s4405]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F10%2Fs4405
+[/us/pl/100/297/s1001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F297%2Fs1001
+[/us/stat/102/243]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F243
+[/us/pl/89/10/s4406]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F10%2Fs4406
+[/us/pl/100/297/s1001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F297%2Fs1001
+[/us/stat/102/243]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F243
+[/us/pl/89/10/s4407]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F10%2Fs4407
+[/us/pl/100/297/s1001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F297%2Fs1001
+[/us/stat/102/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F244
+[/us/pl/89/10/s4408]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F10%2Fs4408
+[/us/pl/100/297/s1001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F297%2Fs1001
+[/us/stat/102/245]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F245
+[/us/pl/89/10/s4409]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F10%2Fs4409
+[/us/pl/100/297/s1001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F297%2Fs1001
+[/us/stat/102/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F246
+[/us/pl/89/10/s4410]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F10%2Fs4410
+[/us/pl/100/297/s1001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F297%2Fs1001
+[/us/stat/102/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F246
 
 

@@ -15,7 +15,7 @@
 
 ## § 7543. Purposes
 
-The purposes of this part are as follows:
+    The purposes of this part are as follows:
 
     (1) To recognize the unique educational needs of Alaska Natives.
 

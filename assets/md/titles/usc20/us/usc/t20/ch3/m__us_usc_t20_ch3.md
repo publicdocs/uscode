@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../..//us/usc/t20/ch2/m__us_usc_t20_s35 to 35n.md) | [Next](./../../../..//us/usc/t20/ch3/schI/m__us_usc_t20_ch3_schI.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fch3)
+[Previous](./../../../..//us/usc/t20/ch2/m__us_usc_t20_s29.md) | [Next](./../../../..//us/usc/t20/ch3/schI/m__us_usc_t20_ch3_schI.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fch3)
 
 ## CHAPTER 3—SMITHSONIAN INSTITUTION, NATIONAL MUSEUMS AND ART GALLERIES
 
@@ -1203,7 +1203,7 @@ SUBCHAPTER XV—CIVIL RIGHTS HISTORY PROJECT  </td>
 
 ----------
 
-[Previous](./../../../..//us/usc/t20/ch2/m__us_usc_t20_s35 to 35n.md) | [Next](./../../../..//us/usc/t20/ch3/schI/m__us_usc_t20_ch3_schI.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fch3)
+[Previous](./../../../..//us/usc/t20/ch2/m__us_usc_t20_s29.md) | [Next](./../../../..//us/usc/t20/ch3/schI/m__us_usc_t20_ch3_schI.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fch3)
 
 ----------
 ----------

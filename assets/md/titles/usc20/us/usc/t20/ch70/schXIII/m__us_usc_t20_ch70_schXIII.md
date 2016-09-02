@@ -11,16 +11,30 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t20/ch70/schXII/m__us_usc_t20_s8501 to 8513.md) | [Next](./../../../../..//us/usc/t20/ch70/schXIII/m__us_usc_t20_s8601, 8602.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fch70%2FschXIII)
+[Previous](./../../../../..//us/usc/t20/ch70/schXII/m__us_usc_t20_ch70_schXII.md) | [Next](./../../../../..//us/usc/t20/ch70/schXIII/ptA/m__us_usc_t20_ch70_schXIII_ptA.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fch70%2FschXIII)
 
 ### SUBCHAPTER XIII—SUPPORT AND ASSISTANCE PROGRAMS TO IMPROVE EDUCATION
 
+§§ 8601, 8602. __Repealed.__  __[__  __Pub. L. 107–110, title X, § 1011(5)(B)__  __][/us/pl/107/110/s1011/5/B]__  __,__  __Jan. 8, 2002__  __,__  __[__  __115 Stat. 1986__  __][/us/stat/115/1986]__ 
+
+    Section 8601, [Pub. L. 89–10, title XIII, § 13001][/us/pl/89/10/s13001], as added [Pub. L. 103–382, title I, § 101][/us/pl/103/382/s101], Oct. 20, 1994, [108 Stat. 3876][/us/stat/108/3876], set forth findings.
+
+    Section 8602, [Pub. L. 89–10, title XIII, § 13002][/us/pl/89/10/s13002], as added [Pub. L. 103–382, title I, § 101][/us/pl/103/382/s101], Oct. 20, 1994, [108 Stat. 3876][/us/stat/108/3876], set forth purpose of subchapter.
+
 ----------
 
-[Previous](./../../../../..//us/usc/t20/ch70/schXII/m__us_usc_t20_s8501 to 8513.md) | [Next](./../../../../..//us/usc/t20/ch70/schXIII/m__us_usc_t20_s8601, 8602.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fch70%2FschXIII)
+[Previous](./../../../../..//us/usc/t20/ch70/schXII/m__us_usc_t20_ch70_schXII.md) | [Next](./../../../../..//us/usc/t20/ch70/schXIII/ptA/m__us_usc_t20_ch70_schXIII_ptA.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fch70%2FschXIII)
 
 ----------
 ----------
 
+[/us/pl/107/110/s1011/5/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F110%2Fs1011%2F5%2FB
+[/us/stat/115/1986]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F1986
+[/us/pl/89/10/s13001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F10%2Fs13001
+[/us/pl/103/382/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F382%2Fs101
+[/us/stat/108/3876]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3876
+[/us/pl/89/10/s13002]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F10%2Fs13002
+[/us/pl/103/382/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F382%2Fs101
+[/us/stat/108/3876]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3876
 
 

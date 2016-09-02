@@ -15,7 +15,7 @@
 
 ## § 7301. Grants for State assessments and related activities
 
-The Secretary shall make grants to States to enable the States—
+    The Secretary shall make grants to States to enable the States—
 
     (1) to pay the costs of the development of the additional State assessments and standards required by [section 6311(b) of this title][/us/usc/t20/s6311/b], which may include the costs of working in voluntary partnerships with other States, at the sole discretion of each such State; and
 

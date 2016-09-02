@@ -15,7 +15,7 @@
 
 ## § 7221. Purpose
 
-It is the purpose of this subpart to increase national understanding of the charter schools model by—
+    It is the purpose of this subpart to increase national understanding of the charter schools model by—
 
     (1) providing financial assistance for the planning, program design, and initial implementation of charter schools;
 

@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../../..//us/usc/t20/ch31/schIII/pt1/m__us_usc_t20_s1231b, 1231b–1.md) | [Next](./../../../../../..//us/usc/t20/ch31/schIII/pt1/m__us_usc_t20_s1231c.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1231b%E2%80%932)
+[Previous](./../../../../../..//us/usc/t20/ch31/schIII/pt1/m__us_usc_t20_s1231a.md) | [Next](./../../../../../..//us/usc/t20/ch31/schIII/pt1/m__us_usc_t20_s1231c.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1231b%E2%80%932)
 
 ## § 1231b–2. Review of applications
 
@@ -63,7 +63,7 @@
 
 ----------
 
-[Previous](./../../../../../..//us/usc/t20/ch31/schIII/pt1/m__us_usc_t20_s1231b, 1231b–1.md) | [Next](./../../../../../..//us/usc/t20/ch31/schIII/pt1/m__us_usc_t20_s1231c.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1231b%E2%80%932)
+[Previous](./../../../../../..//us/usc/t20/ch31/schIII/pt1/m__us_usc_t20_s1231a.md) | [Next](./../../../../../..//us/usc/t20/ch31/schIII/pt1/m__us_usc_t20_s1231c.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1231b%E2%80%932)
 
 ----------
 ----------

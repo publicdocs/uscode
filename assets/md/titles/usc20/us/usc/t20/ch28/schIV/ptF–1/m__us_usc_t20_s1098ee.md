@@ -15,7 +15,7 @@
 
 ## § 1098ee. Definitions
 
-In this part:
+    In this part:
 
     (1) __Active duty__ 
 

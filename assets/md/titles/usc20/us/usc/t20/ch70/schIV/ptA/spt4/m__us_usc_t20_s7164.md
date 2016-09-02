@@ -15,7 +15,7 @@
 
 ## § 7164. Prohibited uses of funds
 
-No funds under this part may be used for—
+    No funds under this part may be used for—
 
     (1) construction (except for minor remodeling needed to accomplish the purposes of this part); or
 

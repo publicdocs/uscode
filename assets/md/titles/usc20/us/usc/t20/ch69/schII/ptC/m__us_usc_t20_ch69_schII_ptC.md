@@ -11,16 +11,31 @@
 ----------
 ----------
 
-[Previous](./../../../../../..//us/usc/t20/ch69/schII/ptB/m__us_usc_t20_s6141 to 6148.md) | [Next](./../../../../../..//us/usc/t20/ch69/schII/ptC/m__us_usc_t20_s6161, 6162.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fch69%2FschII%2FptC)
+[Previous](./../../../../../..//us/usc/t20/ch69/schII/ptB/m__us_usc_t20_ch69_schII_ptB.md) | [Next](./../../../../../..//us/usc/t20/ch69/schIII/m__us_usc_t20_ch69_schIII.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fch69%2FschII%2FptC)
 
 #### Part C—Development and Implementation Grants for School-to-Work Programs for Indian Youths
 
+§§ 6161, 6162. __Omitted__ 
+
+ __Codification__ 
+
+    Sections 6161 and 6162 were omitted pursuant to [section 6251 of this title][/us/usc/t20/s6251] which provided that the authority under this chapter terminated on Oct. 1, 2001.
+
+    Section 6161, [Pub. L. 103–239, title II, § 221][/us/pl/103/239/s221], May 4, 1994, [108 Stat. 592][/us/stat/108/592], authorized grants.
+
+    Section 6162, [Pub. L. 103–239, title II, § 222][/us/pl/103/239/s222], May 4, 1994, [108 Stat. 592][/us/stat/108/592], related to requirements for grant recipients.
+
 ----------
 
-[Previous](./../../../../../..//us/usc/t20/ch69/schII/ptB/m__us_usc_t20_s6141 to 6148.md) | [Next](./../../../../../..//us/usc/t20/ch69/schII/ptC/m__us_usc_t20_s6161, 6162.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fch69%2FschII%2FptC)
+[Previous](./../../../../../..//us/usc/t20/ch69/schII/ptB/m__us_usc_t20_ch69_schII_ptB.md) | [Next](./../../../../../..//us/usc/t20/ch69/schIII/m__us_usc_t20_ch69_schIII.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fch69%2FschII%2FptC)
 
 ----------
 ----------
 
+[/us/usc/t20/s6251]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs6251
+[/us/pl/103/239/s221]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F239%2Fs221
+[/us/stat/108/592]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F592
+[/us/pl/103/239/s222]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F239%2Fs222
+[/us/stat/108/592]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F592
 
 

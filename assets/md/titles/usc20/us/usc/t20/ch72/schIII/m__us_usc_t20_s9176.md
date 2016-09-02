@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t20/ch72/schIII/m__us_usc_t20_s9174, 9175.md) | [Next](./../../../../..//us/usc/t20/ch73/m__us_usc_t20_ch73.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs9176)
+[Previous](./../../../../..//us/usc/t20/ch72/schIII/m__us_usc_t20_s9173.md) | [Next](./../../../../..//us/usc/t20/ch73/m__us_usc_t20_ch73.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs9176)
 
 ## § 9176. Authorization of appropriations
 
@@ -49,7 +49,7 @@
 
 ----------
 
-[Previous](./../../../../..//us/usc/t20/ch72/schIII/m__us_usc_t20_s9174, 9175.md) | [Next](./../../../../..//us/usc/t20/ch73/m__us_usc_t20_ch73.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs9176)
+[Previous](./../../../../..//us/usc/t20/ch72/schIII/m__us_usc_t20_s9173.md) | [Next](./../../../../..//us/usc/t20/ch73/m__us_usc_t20_ch73.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs9176)
 
 ----------
 ----------

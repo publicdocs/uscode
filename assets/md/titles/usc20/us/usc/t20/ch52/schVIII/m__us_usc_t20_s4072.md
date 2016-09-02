@@ -15,7 +15,7 @@
 
 ## § 4072. Definitions
 
-As used in this subchapter—
+    As used in this subchapter—
 
     (1) The term “secondary school” means a public school which provides secondary education as determined by State law.
 

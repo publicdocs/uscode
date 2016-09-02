@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t20/ch68/schIII/m__us_usc_t20_s5891a.md) | [Next](./../../../../..//us/usc/t20/ch68/schIII/m__us_usc_t20_s5892 to 5895.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs5891b)
+[Previous](./../../../../..//us/usc/t20/ch68/schIII/m__us_usc_t20_s5891a.md) | [Next](./../../../../..//us/usc/t20/ch68/schIII/m__us_usc_t20_s5896.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs5891b)
 
 ## § 5891b. Education flexibility partnership
 
@@ -353,9 +353,23 @@ Section was enacted as part of the Education Flexibility Partnership Act of 1999
 
 > “That notwithstanding [section 311(e) of Public Law 103–227][/us/pl/103/227/s311/e] \[[20 U.S.C. 5891(e)][/us/usc/t20/s5891/e]\], the Secretary is authorized to grant up to six additional State education agencies authority to waive Federal statutory or regulatory requirements for fiscal year 1996 and succeeding fiscal years”.
 
+§§ 5892 to 5895. __Repealed.__  __[__  __Pub. L. 106–113, div. B, § 1000(a)(4)__  __][/us/pl/106/113/s1000/a/4]__  __\[title III, § 310(i)\],__  __Nov. 29, 1999__  __,__  __[__  __113 Stat. 1535__  __][/us/stat/113/1535]__  __, 1501A–265__ 
+
+    Section 5892, [Pub. L. 103–227, title III, § 312][/us/pl/103/227/s312], Mar. 31, 1994, [108 Stat. 178][/us/stat/108/178]; [Pub. L. 104–134, title I, § 101(d)][/us/pl/104/134/s101/d] \[title VII, §§ 703(a)(12), 705(d)\], Apr. 26, 1996, [110 Stat. 1321–211][/us/stat/110/1321-211], 1321–253, 1321–257; renumbered title I, [Pub. L. 104–140, § 1(a)][/us/pl/104/140/s1/a], May 2, 1996, [110 Stat. 1327][/us/stat/110/1327], related to progress reports.
+
+    Section 5893, [Pub. L. 103–227, title III, § 313][/us/pl/103/227/s313], Mar. 31, 1994, [108 Stat. 179][/us/stat/108/179], related to technical and other assistance regarding school finance equity.
+
+    Section 5894, [Pub. L. 103–227, title III, § 314][/us/pl/103/227/s314], Mar. 31, 1994, [108 Stat. 180][/us/stat/108/180]; [Pub. L. 104–134, title I, § 101(d)][/us/pl/104/134/s101/d] \[title VII, § 703(a)(13)\], Apr. 26, 1996, [110 Stat. 1321–211][/us/stat/110/1321-211], 1321–253; renumbered title I, [Pub. L. 104–140, § 1(a)][/us/pl/104/140/s1/a], May 2, 1996, [110 Stat. 1327][/us/stat/110/1327], related to national leadership.
+
+    Section 5895, [Pub. L. 103–227, title III, § 315][/us/pl/103/227/s315], Mar. 31, 1994, [108 Stat. 181][/us/stat/108/181]; [Pub. L. 103–382, title III, § 384][/us/pl/103/382/s384], Oct. 20, 1994, [108 Stat. 4018][/us/stat/108/4018]; [Pub. L. 104–134, title I, § 101(d)][/us/pl/104/134/s101/d] \[title VII, § 703(a)(14)\], Apr. 26, 1996, [110 Stat. 1321–211][/us/stat/110/1321-211], 1321–253; renumbered title I, [Pub. L. 104–140, § 1(a)][/us/pl/104/140/s1/a], May 2, 1996, [110 Stat. 1327][/us/stat/110/1327], related to assistance to outlying areas and to Secretary of the Interior.
+
+ __Effective Date of Repeal__ 
+
+    Repeal effective Sept. 30, 2000, see section 1000(a)(4) \[title III, § 310(i)\] of [Pub. L. 106–113][/us/pl/106/113], set out as a note under [section 5881 of this title][/us/usc/t20/s5881].
+
 ----------
 
-[Previous](./../../../../..//us/usc/t20/ch68/schIII/m__us_usc_t20_s5891a.md) | [Next](./../../../../..//us/usc/t20/ch68/schIII/m__us_usc_t20_s5892 to 5895.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs5891b)
+[Previous](./../../../../..//us/usc/t20/ch68/schIII/m__us_usc_t20_s5891a.md) | [Next](./../../../../..//us/usc/t20/ch68/schIII/m__us_usc_t20_s5896.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs5891b)
 
 ----------
 ----------
@@ -438,5 +452,31 @@ Section was enacted as part of the Education Flexibility Partnership Act of 1999
 [/us/stat/110/1327]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1327
 [/us/pl/103/227/s311/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F227%2Fs311%2Fe
 [/us/usc/t20/s5891/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs5891%2Fe
+[/us/pl/106/113/s1000/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2Fs1000%2Fa%2F4
+[/us/stat/113/1535]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1535
+[/us/pl/103/227/s312]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F227%2Fs312
+[/us/stat/108/178]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F178
+[/us/pl/104/134/s101/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F134%2Fs101%2Fd
+[/us/stat/110/1321-211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1321-211
+[/us/pl/104/140/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F140%2Fs1%2Fa
+[/us/stat/110/1327]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1327
+[/us/pl/103/227/s313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F227%2Fs313
+[/us/stat/108/179]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F179
+[/us/pl/103/227/s314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F227%2Fs314
+[/us/stat/108/180]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F180
+[/us/pl/104/134/s101/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F134%2Fs101%2Fd
+[/us/stat/110/1321-211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1321-211
+[/us/pl/104/140/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F140%2Fs1%2Fa
+[/us/stat/110/1327]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1327
+[/us/pl/103/227/s315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F227%2Fs315
+[/us/stat/108/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F181
+[/us/pl/103/382/s384]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F382%2Fs384
+[/us/stat/108/4018]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4018
+[/us/pl/104/134/s101/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F134%2Fs101%2Fd
+[/us/stat/110/1321-211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1321-211
+[/us/pl/104/140/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F140%2Fs1%2Fa
+[/us/stat/110/1327]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1327
+[/us/pl/106/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113
+[/us/usc/t20/s5881]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs5881
 
 

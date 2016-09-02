@@ -15,7 +15,7 @@
 
 ## § 7241. Authorization of appropriations
 
-There are authorized to be appropriated to carry out this part the following amounts:
+    There are authorized to be appropriated to carry out this part the following amounts:
 
     (1) $550,000,000 for fiscal year 2002.
 

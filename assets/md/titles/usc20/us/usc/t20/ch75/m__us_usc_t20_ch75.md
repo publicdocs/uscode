@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../..//us/usc/t20/ch74/m__us_usc_t20_s9301 to 9309.md) | [Next](./../../../..//us/usc/t20/ch75/m__us_usc_t20_s9401.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fch75)
+[Previous](./../../../..//us/usc/t20/ch74/m__us_usc_t20_ch74.md) | [Next](./../../../..//us/usc/t20/ch75/m__us_usc_t20_s9401.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fch75)
 
 ## CHAPTER 75—EARLY LEARNING OPPORTUNITIES
 
@@ -131,7 +131,7 @@
 
 ----------
 
-[Previous](./../../../..//us/usc/t20/ch74/m__us_usc_t20_s9301 to 9309.md) | [Next](./../../../..//us/usc/t20/ch75/m__us_usc_t20_s9401.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fch75)
+[Previous](./../../../..//us/usc/t20/ch74/m__us_usc_t20_ch74.md) | [Next](./../../../..//us/usc/t20/ch75/m__us_usc_t20_s9401.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fch75)
 
 ----------
 ----------

@@ -107,7 +107,7 @@
 
             (F) Subject to paragraph (4), the special allowance paid pursuant to this subsection on loans for which the applicable rate of interest is determined under [section 1077a(h) of this title][/us/usc/t20/s1077a/h] shall be computed (i) by determining the applicable bond equivalent rate of the security with a comparable maturity, as established by the Secretary, (ii) by subtracting the applicable interest rates on such loans from such applicable bond equivalent rate, (iii) by adding 1.0 percent to the resultant percent, and (iv) by dividing the resultant percent by 4. If such computation produces a number less than zero, such loans shall be subject to [section 1077a(i) of this title][/us/usc/t20/s1077a/i].
 
-            (G) __Loans disbursed between july 1, 1998, and october 1, 1998.—__ 
+            (G) __Loans disbursed between__  __july 1, 1998__  __, and__  __october 1, 1998__  __.—__ 
 
                 (i) __In general.—__ 
 
@@ -137,7 +137,7 @@
 
                 In the case of PLUS loans made under [section 1078–2 of this title][/us/usc/t20/s1078–2] and disbursed on or after July 1, 1998, and before October 1, 1998, for which the interest rate is determined under 1077a(j)(3) of this title, a special allowance shall not be paid for such loan for such  <sup>\[2\]</sup>  <sup><sup> 2 So in original. </sup></sup>  unless the rate determined under subparagraph (A) of such section (without regard to subparagraph (B) of such section) exceeds 9.0 percent.
 
-            (H) __Loans disbursed on or after october 1, 1998, and before january 1, 2000.—__ 
+            (H) __Loans disbursed on or after__  __october 1, 1998__  __, and before__  __january 1, 2000__  __.—__ 
 
                 (i) __In general.—__ 
 
@@ -183,7 +183,7 @@
 
                     exceeds the rate determined under [section 1077a(k)(4) of this title][/us/usc/t20/s1077a/k/4].
 
-            (I) __Loans disbursed on or after january 1, 2000, and before july 1, 2010.—__ 
+            (I) __Loans disbursed on or after__  __january 1, 2000__  __, and before__  __july 1, 2010__  __.—__ 
 
                 (i) __In general.—__ 
 
@@ -235,7 +235,7 @@
 
                     For purposes of this clause, the term “special allowance support level” means, for any loan, a number expressed as a percentage equal to the sum of the rates determined under subclauses (I) and (III) of clause (i), and applying any substitution rules applicable to such loan under clauses (ii), (iii), (iv), (vi), and (vii) in determining such sum.
 
-                (vi) __Reduction for loans disbursed on or after october 1, 2007, and before july 1, 2010.—__ 
+                (vi) __Reduction for loans disbursed on or after__  __october 1, 2007__  __, and before__  __july 1, 2010__  __.—__ 
 
                 With respect to a loan on which the applicable interest rate is determined under section 1077a(l) of this title and for which the first disbursement of principal is made on or after October 1, 2007, and before July 1, 2010, the special allowance payment computed pursuant to this subparagraph shall be computed—
 

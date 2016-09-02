@@ -15,7 +15,7 @@
 
 ## § 6892. Purpose
 
-The purpose of this part is to help ensure that limited English proficient children master English and meet the same rigorous standards for academic achievement as all children are expected to meet, including meeting challenging State academic content and student academic achievement standards by—
+    The purpose of this part is to help ensure that limited English proficient children master English and meet the same rigorous standards for academic achievement as all children are expected to meet, including meeting challenging State academic content and student academic achievement standards by—
 
     (1) promoting systemic improvement and reform of, and developing accountability systems for, educational programs serving limited English proficient children;
 

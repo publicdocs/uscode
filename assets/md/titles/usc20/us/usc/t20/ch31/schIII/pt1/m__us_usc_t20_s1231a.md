@@ -11,11 +11,11 @@
 ----------
 ----------
 
-[Previous](./../../../../../..//us/usc/t20/ch31/schIII/pt1/m__us_usc_t20_s1231.md) | [Next](./../../../../../..//us/usc/t20/ch31/schIII/pt1/m__us_usc_t20_s1231b, 1231b–1.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1231a)
+[Previous](./../../../../../..//us/usc/t20/ch31/schIII/pt1/m__us_usc_t20_s1231.md) | [Next](./../../../../../..//us/usc/t20/ch31/schIII/pt1/m__us_usc_t20_s1231b–2.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1231a)
 
 ## § 1231a. Collection and dissemination of information
 
-The Secretary shall—
+    The Secretary shall—
 
     (1) prepare and disseminate to State and local educational agencies and institutions information concerning applicable programs, and cooperate with other Federal officials who administer programs affecting education in disseminating information concerning such programs;
 
@@ -51,9 +51,15 @@ The Secretary shall—
 
     [Pub. L. 95–561, title XV, § 1526][/us/pl/95/561/s1526], Nov. 1, 1978, [92 Stat. 2379][/us/stat/92/2379], as amended by [Pub. L. 96–46, § 2(a)(9)][/us/pl/96/46/s2/a/9], Aug. 6, 1979, [93 Stat. 340][/us/stat/93/340]; [Pub. L. 96–88, title III, § 301(a)(1)][/us/pl/96/88/s301/a/1], title V, § 507, Oct. 17, 1979, [93 Stat. 677][/us/stat/93/677], 692, directed Secretary of Education to conduct a study of evaluation practices and procedures at the national, State, and local levels with respect to federally funded elementary and secondary educational programs and include in the first annual report to Congress submitted more than eighteen months after Nov. 1, 1978, proposals and recommendations for the revision or modification of any part or all of such practices and procedures.
 
+§§ 1231b, 1231b–1. __Repealed.__  __[__  __Pub. L. 103–382, title II, § 212(a)(1)__  __][/us/pl/103/382/s212/a/1]__  __,__  __Oct. 20, 1994__  __,__  __[__  __108 Stat. 3913__  __][/us/stat/108/3913]__ 
+
+    Section 1231b, [Pub. L. 90–247, title IV, § 423][/us/pl/90/247/s423], formerly § 413, as added [Pub. L. 91–230, title IV, § 401(a)(10)][/us/pl/91/230/s401/a/10], Apr. 13, 1970, [84 Stat. 167][/us/stat/84/167]; renumbered § 423, [Pub. L. 92–318, title III, § 301(a)(1)][/us/pl/92/318/s301/a/1], June 23, 1972, [86 Stat. 326][/us/stat/86/326]; amended [Pub. L. 96–88, title III, § 301(a)(1)][/us/pl/96/88/s301/a/1], title V, § 507, Oct. 17, 1979, [93 Stat. 677][/us/stat/93/677], 692, related to catalog of Federal education assistance programs.
+
+    Section 1231b–1, [Pub. L. 90–247, title IV, § 424][/us/pl/90/247/s424], as added [Pub. L. 93–380, title V, § 508(a)][/us/pl/93/380/s508/a], Aug. 21, 1974, [88 Stat. 565][/us/stat/88/565]; amended [Pub. L. 96–88, title III, § 301(a)(1)][/us/pl/96/88/s301/a/1], (b)(2), title V, § 507, Oct. 17, 1979, [93 Stat. 677][/us/stat/93/677], 678, 692, related to compilation of assisted innovative projects.
+
 ----------
 
-[Previous](./../../../../../..//us/usc/t20/ch31/schIII/pt1/m__us_usc_t20_s1231.md) | [Next](./../../../../../..//us/usc/t20/ch31/schIII/pt1/m__us_usc_t20_s1231b, 1231b–1.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1231a)
+[Previous](./../../../../../..//us/usc/t20/ch31/schIII/pt1/m__us_usc_t20_s1231.md) | [Next](./../../../../../..//us/usc/t20/ch31/schIII/pt1/m__us_usc_t20_s1231b–2.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1231a)
 
 ----------
 ----------
@@ -89,6 +95,20 @@ The Secretary shall—
 [/us/stat/92/2379]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2379
 [/us/pl/96/46/s2/a/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F46%2Fs2%2Fa%2F9
 [/us/stat/93/340]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F340
+[/us/pl/96/88/s301/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F88%2Fs301%2Fa%2F1
+[/us/stat/93/677]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F677
+[/us/pl/103/382/s212/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F382%2Fs212%2Fa%2F1
+[/us/stat/108/3913]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3913
+[/us/pl/90/247/s423]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F247%2Fs423
+[/us/pl/91/230/s401/a/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F230%2Fs401%2Fa%2F10
+[/us/stat/84/167]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F167
+[/us/pl/92/318/s301/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F318%2Fs301%2Fa%2F1
+[/us/stat/86/326]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F326
+[/us/pl/96/88/s301/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F88%2Fs301%2Fa%2F1
+[/us/stat/93/677]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F677
+[/us/pl/90/247/s424]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F247%2Fs424
+[/us/pl/93/380/s508/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F380%2Fs508%2Fa
+[/us/stat/88/565]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F565
 [/us/pl/96/88/s301/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F88%2Fs301%2Fa%2F1
 [/us/stat/93/677]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F677
 

@@ -15,7 +15,7 @@
 
 ## § 1103e. Limitations
 
-The funds appropriated under [section 1103g of this title][/us/usc/t20/s1103g] may not be used—
+    The funds appropriated under [section 1103g of this title][/us/usc/t20/s1103g] may not be used—
 
     (1) for a school or department of divinity or any religious worship or sectarian activity;
 

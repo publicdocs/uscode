@@ -15,7 +15,7 @@
 
 ## § 75a. Definitions
 
-For the purposes of this subchapter—
+    For the purposes of this subchapter—
 
     (a) The term “Board” means the Board of Regents of the Smithsonian Institution.
 

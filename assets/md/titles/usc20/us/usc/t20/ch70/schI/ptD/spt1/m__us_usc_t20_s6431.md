@@ -15,7 +15,7 @@
 
 ## § 6431. Eligibility
 
-A State agency is eligible for assistance under this subpart if such State agency is responsible for providing free public education for children and youth—
+    A State agency is eligible for assistance under this subpart if such State agency is responsible for providing free public education for children and youth—
 
     (1) in institutions for neglected or delinquent children and youth;
 

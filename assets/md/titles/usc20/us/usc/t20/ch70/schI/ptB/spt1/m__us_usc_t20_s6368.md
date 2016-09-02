@@ -15,7 +15,7 @@
 
 ## § 6368. Definitions
 
-In this subpart:
+    In this subpart:
 
     (1) __Eligible local educational agency__ 
 

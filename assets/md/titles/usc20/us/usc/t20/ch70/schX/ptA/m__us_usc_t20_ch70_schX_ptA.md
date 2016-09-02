@@ -11,16 +11,62 @@
 ----------
 ----------
 
-[Previous](./../../../../../..//us/usc/t20/ch70/schX/m__us_usc_t20_ch70_schX.md) | [Next](./../../../../../..//us/usc/t20/ch70/schX/ptA/m__us_usc_t20_s8001 to 8007.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fch70%2FschX%2FptA)
+[Previous](./../../../../../..//us/usc/t20/ch70/schX/m__us_usc_t20_ch70_schX.md) | [Next](./../../../../../..//us/usc/t20/ch70/schX/ptB/m__us_usc_t20_ch70_schX_ptB.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fch70%2FschX%2FptA)
 
 #### Part A—Fund for the Improvement of Education
 
+§§ 8001 to 8007. __Repealed.__  __[__  __Pub. L. 107–110, title X, § 1011(5)(A)__  __][/us/pl/107/110/s1011/5/A]__  __,__  __Jan. 8, 2002__  __,__  __[__  __115 Stat. 1986__  __][/us/stat/115/1986]__ 
+
+    Section 8001, [Pub. L. 89–10, title X, § 10101][/us/pl/89/10/s10101], as added [Pub. L. 103–382, title I, § 101][/us/pl/103/382/s101], Oct. 20, 1994, [108 Stat. 3809][/us/stat/108/3809]; amended [Pub. L. 104–134, title I, § 101(d)][/us/pl/104/134/s101/d] \[title VII, § 703(b)(4)\], Apr. 26, 1996, [110 Stat. 1321–211][/us/stat/110/1321-211], 1321–255; renumbered title I, [Pub. L. 104–140, § 1(a)][/us/pl/104/140/s1/a], May 2, 1996, [110 Stat. 1327][/us/stat/110/1327], related to fund for the improvement of education. See [section 7243 of this title][/us/usc/t20/s7243].
+
+    Section 8002, [Pub. L. 89–10, title X, § 10102][/us/pl/89/10/s10102], as added [Pub. L. 103–382, title I, § 101][/us/pl/103/382/s101], Oct. 20, 1994, [108 Stat. 3812][/us/stat/108/3812], related to elementary school counseling demonstration.
+
+    Section 8003, [Pub. L. 89–10, title X, § 10103][/us/pl/89/10/s10103], as added [Pub. L. 103–382, title I, § 101][/us/pl/103/382/s101], Oct. 20, 1994, [108 Stat. 3815][/us/stat/108/3815], related to partnerships in character education pilot project.
+
+    Section 8004, [Pub. L. 89–10, title X, § 10104][/us/pl/89/10/s10104], as added [Pub. L. 103–382, title I, § 101][/us/pl/103/382/s101], Oct. 20, 1994, [108 Stat. 3818][/us/stat/108/3818]; amended [Pub. L. 105–332, § 2][/us/pl/105/332/s2], Oct. 31, 1998, [112 Stat. 3125][/us/stat/112/3125], related to promotion of scholar-athlete competitions.
+
+    Section 8005, [Pub. L. 89–10, title X, § 10105][/us/pl/89/10/s10105], as added [Pub. L. 103–382, title I, § 101][/us/pl/103/382/s101], Oct. 20, 1994, [108 Stat. 3818][/us/stat/108/3818], related to development and implementation of smaller learning communities.
+
+    Section 8006, [Pub. L. 89–10, title X, § 10106][/us/pl/89/10/s10106], as added [Pub. L. 103–382, title I, § 101][/us/pl/103/382/s101], Oct. 20, 1994, [108 Stat. 3820][/us/stat/108/3820], related to national student and parent mock election.
+
+    Section 8007, [Pub. L. 89–10, title X, § 10107][/us/pl/89/10/s10107], as added [Pub. L. 103–382, title I, § 101][/us/pl/103/382/s101], Oct. 20, 1994, [108 Stat. 3820][/us/stat/108/3820], related to model projects of outreach activities for at-risk children.
+
 ----------
 
-[Previous](./../../../../../..//us/usc/t20/ch70/schX/m__us_usc_t20_ch70_schX.md) | [Next](./../../../../../..//us/usc/t20/ch70/schX/ptA/m__us_usc_t20_s8001 to 8007.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fch70%2FschX%2FptA)
+[Previous](./../../../../../..//us/usc/t20/ch70/schX/m__us_usc_t20_ch70_schX.md) | [Next](./../../../../../..//us/usc/t20/ch70/schX/ptB/m__us_usc_t20_ch70_schX_ptB.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fch70%2FschX%2FptA)
 
 ----------
 ----------
 
+[/us/pl/107/110/s1011/5/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F110%2Fs1011%2F5%2FA
+[/us/stat/115/1986]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F1986
+[/us/pl/89/10/s10101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F10%2Fs10101
+[/us/pl/103/382/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F382%2Fs101
+[/us/stat/108/3809]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3809
+[/us/pl/104/134/s101/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F134%2Fs101%2Fd
+[/us/stat/110/1321-211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1321-211
+[/us/pl/104/140/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F140%2Fs1%2Fa
+[/us/stat/110/1327]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1327
+[/us/usc/t20/s7243]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs7243
+[/us/pl/89/10/s10102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F10%2Fs10102
+[/us/pl/103/382/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F382%2Fs101
+[/us/stat/108/3812]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3812
+[/us/pl/89/10/s10103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F10%2Fs10103
+[/us/pl/103/382/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F382%2Fs101
+[/us/stat/108/3815]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3815
+[/us/pl/89/10/s10104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F10%2Fs10104
+[/us/pl/103/382/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F382%2Fs101
+[/us/stat/108/3818]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3818
+[/us/pl/105/332/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F332%2Fs2
+[/us/stat/112/3125]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F3125
+[/us/pl/89/10/s10105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F10%2Fs10105
+[/us/pl/103/382/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F382%2Fs101
+[/us/stat/108/3818]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3818
+[/us/pl/89/10/s10106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F10%2Fs10106
+[/us/pl/103/382/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F382%2Fs101
+[/us/stat/108/3820]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3820
+[/us/pl/89/10/s10107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F10%2Fs10107
+[/us/pl/103/382/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F382%2Fs101
+[/us/stat/108/3820]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3820
 
 

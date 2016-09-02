@@ -11,13 +11,13 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t20/ch62/schI/ptC/spt3/m__us_usc_t20_s5071, 5072.md) | [Next](./../../../../..//us/usc/t20/ch62/schII/ptA/m__us_usc_t20_ch62_schII_ptA.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fch62%2FschII)
+[Previous](./../../../../..//us/usc/t20/ch62/schI/ptC/spt3/m__us_usc_t20_ch62_schI_ptC_spt3.md) | [Next](./../../../../..//us/usc/t20/ch62/schII/ptA/m__us_usc_t20_ch62_schII_ptA.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fch62%2FschII)
 
 ### SUBCHAPTER II—TECHNOLOGY AND TRAINING
 
 ----------
 
-[Previous](./../../../../..//us/usc/t20/ch62/schI/ptC/spt3/m__us_usc_t20_s5071, 5072.md) | [Next](./../../../../..//us/usc/t20/ch62/schII/ptA/m__us_usc_t20_ch62_schII_ptA.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fch62%2FschII)
+[Previous](./../../../../..//us/usc/t20/ch62/schI/ptC/spt3/m__us_usc_t20_ch62_schI_ptC_spt3.md) | [Next](./../../../../..//us/usc/t20/ch62/schII/ptA/m__us_usc_t20_ch62_schII_ptA.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fch62%2FschII)
 
 ----------
 ----------

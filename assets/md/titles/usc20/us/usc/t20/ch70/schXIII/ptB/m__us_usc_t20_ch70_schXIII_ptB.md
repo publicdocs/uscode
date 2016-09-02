@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../../..//us/usc/t20/ch70/schXIII/ptA/m__us_usc_t20_s8621 to 8625.md) | [Next](./../../../../../..//us/usc/t20/ch70/schXIII/ptB/m__us_usc_t20_s8651, 8652.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fch70%2FschXIII%2FptB)
+[Previous](./../../../../../..//us/usc/t20/ch70/schXIII/ptA/m__us_usc_t20_ch70_schXIII_ptA.md) | [Next](./../../../../../..//us/usc/t20/ch70/schXIII/ptC/m__us_usc_t20_ch70_schXIII_ptC.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fch70%2FschXIII%2FptB)
 
 #### Part B—National Diffusion Network
 
@@ -19,9 +19,17 @@
 
     Part B of title XIII of [Pub. L. 89–10][/us/pl/89/10], comprising this part, was renumbered part L of title IX of [Pub. L. 103–227][/us/pl/103/227], the Educational Research, Development, Dissemination, and Improvement Act of 1994, by [Pub. L. 107–110, title X, § 1022(a)][/us/pl/107/110/s1022/a], Jan. 8, 2002, [115 Stat. 1987][/us/stat/115/1987], transferred to part H (§ 6054 et seq.) of subchapter IX of chapter 68 of this title, and subsequently repealed.
 
+§§ 8651, 8652. __Transferred__ 
+
+ __Codification__ 
+
+    Section 8651, [Pub. L. 89–10, title XIII, § 13201][/us/pl/89/10/s13201], as added [Pub. L. 103–382, title I, § 101][/us/pl/103/382/s101], Oct. 20, 1994, [108 Stat. 3880][/us/stat/108/3880], which authorized National Diffusion Network program, was renumbered section 1011 of the Educational Research, Development, Dissemination, and Improvement Act of 1994 by [Pub. L. 107–110, title X, § 1022(a)][/us/pl/107/110/s1022/a], (b), Jan. 8, 2002, [115 Stat. 1987][/us/stat/115/1987], transferred to [section 6054 of this title][/us/usc/t20/s6054], and subsequently repealed.
+
+    Section 8652, [Pub. L. 89–10, title XIII, § 13202][/us/pl/89/10/s13202], as added [Pub. L. 103–382, title I, § 101][/us/pl/103/382/s101], Oct. 20, 1994, [108 Stat. 3882][/us/stat/108/3882], which authorized appropriations, was renumbered section 1012 of the Educational Research, Development, Dissemination, and Improvement Act of 1994 by [Pub. L. 107–110, title X, § 1022(a)][/us/pl/107/110/s1022/a], (b), Jan. 8, 2002, [115 Stat. 1987][/us/stat/115/1987], transferred to [section 6054a of this title][/us/usc/t20/s6054a], and subsequently repealed.
+
 ----------
 
-[Previous](./../../../../../..//us/usc/t20/ch70/schXIII/ptA/m__us_usc_t20_s8621 to 8625.md) | [Next](./../../../../../..//us/usc/t20/ch70/schXIII/ptB/m__us_usc_t20_s8651, 8652.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fch70%2FschXIII%2FptB)
+[Previous](./../../../../../..//us/usc/t20/ch70/schXIII/ptA/m__us_usc_t20_ch70_schXIII_ptA.md) | [Next](./../../../../../..//us/usc/t20/ch70/schXIII/ptC/m__us_usc_t20_ch70_schXIII_ptC.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fch70%2FschXIII%2FptB)
 
 ----------
 ----------
@@ -30,5 +38,17 @@
 [/us/pl/103/227]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F227
 [/us/pl/107/110/s1022/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F110%2Fs1022%2Fa
 [/us/stat/115/1987]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F1987
+[/us/pl/89/10/s13201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F10%2Fs13201
+[/us/pl/103/382/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F382%2Fs101
+[/us/stat/108/3880]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3880
+[/us/pl/107/110/s1022/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F110%2Fs1022%2Fa
+[/us/stat/115/1987]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F1987
+[/us/usc/t20/s6054]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs6054
+[/us/pl/89/10/s13202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F10%2Fs13202
+[/us/pl/103/382/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F382%2Fs101
+[/us/stat/108/3882]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3882
+[/us/pl/107/110/s1022/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F110%2Fs1022%2Fa
+[/us/stat/115/1987]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F1987
+[/us/usc/t20/s6054a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs6054a
 
 

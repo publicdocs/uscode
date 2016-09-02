@@ -11,13 +11,13 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t20/ch16/schIV/m__us_usc_t20_s361 to 366.md) | [Next](./../../../../..//us/usc/t20/ch16/schV/m__us_usc_t20_s371.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fch16%2FschV)
+[Previous](./../../../../..//us/usc/t20/ch16/schIV/m__us_usc_t20_ch16_schIV.md) | [Next](./../../../../..//us/usc/t20/ch16/schV/m__us_usc_t20_s371.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fch16%2FschV)
 
 ### SUBCHAPTER V—FOREIGN LANGUAGE MATERIALS ACQUISITION
 
 ----------
 
-[Previous](./../../../../..//us/usc/t20/ch16/schIV/m__us_usc_t20_s361 to 366.md) | [Next](./../../../../..//us/usc/t20/ch16/schV/m__us_usc_t20_s371.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fch16%2FschV)
+[Previous](./../../../../..//us/usc/t20/ch16/schIV/m__us_usc_t20_ch16_schIV.md) | [Next](./../../../../..//us/usc/t20/ch16/schV/m__us_usc_t20_s371.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fch16%2FschV)
 
 ----------
 ----------

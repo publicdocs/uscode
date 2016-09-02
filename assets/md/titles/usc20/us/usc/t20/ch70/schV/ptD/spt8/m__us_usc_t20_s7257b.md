@@ -15,7 +15,7 @@
 
 ## § 7257b. Reports and evaluation
 
-An entity receiving a grant under [section 7257(a) of this title][/us/usc/t20/s7257/a] shall prepare and submit to the Secretary an annual report that contains such information as the Secretary may require. At a minimum, such report shall describe the program activities undertaken with funds received under the grant, including—
+    An entity receiving a grant under [section 7257(a) of this title][/us/usc/t20/s7257/a] shall prepare and submit to the Secretary an annual report that contains such information as the Secretary may require. At a minimum, such report shall describe the program activities undertaken with funds received under the grant, including—
 
     (1) the core curriculum areas for which program activities have been undertaken and the number of teachers using the program in each core curriculum area; and
 

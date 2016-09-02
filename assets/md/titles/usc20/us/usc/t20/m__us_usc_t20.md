@@ -13,9 +13,9 @@
 
 ~~Previous~~ | [Next](./../../..//us/usc/t20/ch1/m__us_usc_t20_ch1.md) | [Root of Title](./../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20)
 
-# 
+# Title 20—EDUCATION
 
-Title 20—EDUCATION
+Current through 113–44
 
 <table>
 

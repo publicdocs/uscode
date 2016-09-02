@@ -15,7 +15,7 @@
 
 ## § 7421. Purpose
 
-It is the purpose of this subpart to support local educational agencies in their efforts to reform elementary school and secondary school programs that serve Indian students in order to ensure that such programs—
+    It is the purpose of this subpart to support local educational agencies in their efforts to reform elementary school and secondary school programs that serve Indian students in order to ensure that such programs—
 
     (1) are based on challenging State academic content and student academic achievement standards that are used for all students; and
 

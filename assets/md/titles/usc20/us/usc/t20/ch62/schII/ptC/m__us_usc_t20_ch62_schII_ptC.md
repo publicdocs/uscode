@@ -11,13 +11,13 @@
 ----------
 ----------
 
-[Previous](./../../../../../..//us/usc/t20/ch62/schII/ptB/m__us_usc_t20_s5101 to 5106.md) | [Next](./../../../../../..//us/usc/t20/ch62/schII/ptC/m__us_usc_t20_s5111.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fch62%2FschII%2FptC)
+[Previous](./../../../../../..//us/usc/t20/ch62/schII/ptB/m__us_usc_t20_ch62_schII_ptB.md) | [Next](./../../../../../..//us/usc/t20/ch62/schII/ptC/m__us_usc_t20_s5111.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fch62%2FschII%2FptC)
 
 #### Part C—Replication of Technical Education Programs
 
 ----------
 
-[Previous](./../../../../../..//us/usc/t20/ch62/schII/ptB/m__us_usc_t20_s5101 to 5106.md) | [Next](./../../../../../..//us/usc/t20/ch62/schII/ptC/m__us_usc_t20_s5111.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fch62%2FschII%2FptC)
+[Previous](./../../../../../..//us/usc/t20/ch62/schII/ptB/m__us_usc_t20_ch62_schII_ptB.md) | [Next](./../../../../../..//us/usc/t20/ch62/schII/ptC/m__us_usc_t20_s5111.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fch62%2FschII%2FptC)
 
 ----------
 ----------

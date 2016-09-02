@@ -11,16 +11,51 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t20/ch69/schII/ptC/m__us_usc_t20_s6161, 6162.md) | [Next](./../../../../..//us/usc/t20/ch69/schIII/m__us_usc_t20_s6171 to 6177.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fch69%2FschIII)
+[Previous](./../../../../..//us/usc/t20/ch69/schII/ptC/m__us_usc_t20_ch69_schII_ptC.md) | [Next](./../../../../..//us/usc/t20/ch69/schIV/m__us_usc_t20_ch69_schIV.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fch69%2FschIII)
 
 ### SUBCHAPTER III—FEDERAL IMPLEMENTATION GRANTS TO LOCAL PARTNERSHIPS
 
+§§ 6171 to 6177. __Omitted__ 
+
+ __Codification__ 
+
+    Sections 6171 to 6177 were omitted pursuant to [section 6251 of this title][/us/usc/t20/s6251] which provided that the authority under this chapter terminated on Oct. 1, 2001.
+
+    Section 6171, [Pub. L. 103–239, title III, § 301][/us/pl/103/239/s301], May 4, 1994, [108 Stat. 592][/us/stat/108/592], stated purposes of this subchapter.
+
+    Section 6172, [Pub. L. 103–239, title III, § 302][/us/pl/103/239/s302], May 4, 1994, [108 Stat. 592][/us/stat/108/592], authorized grants to local partnerships.
+
+    Section 6173, [Pub. L. 103–239, title III, § 303][/us/pl/103/239/s303], May 4, 1994, [108 Stat. 593][/us/stat/108/593], related to application for grant.
+
+    Section 6174, [Pub. L. 103–239, title III, § 304][/us/pl/103/239/s304], May 4, 1994, [108 Stat. 594][/us/stat/108/594], related to use of amounts from grant.
+
+    Section 6175, [Pub. L. 103–239, title III, § 305][/us/pl/103/239/s305], May 4, 1994, [108 Stat. 594][/us/stat/108/594], related to conformity with approved State plan.
+
+    Section 6176, [Pub. L. 103–239, title III, § 306][/us/pl/103/239/s306], May 4, 1994, [108 Stat. 594][/us/stat/108/594], required reports by local partnership.
+
+    Section 6177, [Pub. L. 103–239, title III, § 307][/us/pl/103/239/s307], May 4, 1994, [108 Stat. 594][/us/stat/108/594], defined “high poverty area”.
+
 ----------
 
-[Previous](./../../../../..//us/usc/t20/ch69/schII/ptC/m__us_usc_t20_s6161, 6162.md) | [Next](./../../../../..//us/usc/t20/ch69/schIII/m__us_usc_t20_s6171 to 6177.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fch69%2FschIII)
+[Previous](./../../../../..//us/usc/t20/ch69/schII/ptC/m__us_usc_t20_ch69_schII_ptC.md) | [Next](./../../../../..//us/usc/t20/ch69/schIV/m__us_usc_t20_ch69_schIV.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fch69%2FschIII)
 
 ----------
 ----------
 
+[/us/usc/t20/s6251]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs6251
+[/us/pl/103/239/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F239%2Fs301
+[/us/stat/108/592]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F592
+[/us/pl/103/239/s302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F239%2Fs302
+[/us/stat/108/592]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F592
+[/us/pl/103/239/s303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F239%2Fs303
+[/us/stat/108/593]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F593
+[/us/pl/103/239/s304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F239%2Fs304
+[/us/stat/108/594]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F594
+[/us/pl/103/239/s305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F239%2Fs305
+[/us/stat/108/594]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F594
+[/us/pl/103/239/s306]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F239%2Fs306
+[/us/stat/108/594]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F594
+[/us/pl/103/239/s307]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F239%2Fs307
+[/us/stat/108/594]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F594
 
 

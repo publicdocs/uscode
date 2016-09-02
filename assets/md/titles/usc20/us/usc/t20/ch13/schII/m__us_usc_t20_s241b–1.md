@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t20/ch13/schII/m__us_usc_t20_s241a, 241b.md) | [Next](./../../../../..//us/usc/t20/ch13/schII/ptA/m__us_usc_t20_ch13_schII_ptA.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs241b%E2%80%931)
+[Previous](./../../../../..//us/usc/t20/ch13/schII/m__us_usc_t20_ch13_schII.md) | [Next](./../../../../..//us/usc/t20/ch13/schII/ptA/m__us_usc_t20_ch13_schII_ptA.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs241b%E2%80%931)
 
 ## § 241b–1. Transferred
 
@@ -21,7 +21,7 @@
 
 ----------
 
-[Previous](./../../../../..//us/usc/t20/ch13/schII/m__us_usc_t20_s241a, 241b.md) | [Next](./../../../../..//us/usc/t20/ch13/schII/ptA/m__us_usc_t20_ch13_schII_ptA.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs241b%E2%80%931)
+[Previous](./../../../../..//us/usc/t20/ch13/schII/m__us_usc_t20_ch13_schII.md) | [Next](./../../../../..//us/usc/t20/ch13/schII/ptA/m__us_usc_t20_ch13_schII_ptA.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs241b%E2%80%931)
 
 ----------
 ----------

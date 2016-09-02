@@ -15,7 +15,7 @@
 
 ## § 951. Declaration of findings and purposes
 
-The Congress finds and declares the following:
+    The Congress finds and declares the following:
 
     (1) The arts and the humanities belong to all the people of the United States.
 

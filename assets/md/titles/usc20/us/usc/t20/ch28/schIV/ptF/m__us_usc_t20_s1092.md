@@ -761,23 +761,23 @@
 
  __Amendment of Subsection (f)__ 
 
-[Pub. L. 113–4, title III, § 304][/us/pl/113/4/s304], Mar. 7, 2013, [127 Stat. 89][/us/stat/127/89], provided that, effective with respect to the annual security report under subsection (f)(1) of this section prepared by an institution of higher education 1 calendar year after Mar. 7, 2013, and each subsequent calendar year, subsection (f) of this section is amended:
+    [Pub. L. 113–4, title III, § 304][/us/pl/113/4/s304], Mar. 7, 2013, [127 Stat. 89][/us/stat/127/89], provided that, effective with respect to the annual security report under subsection (f)(1) of this section prepared by an institution of higher education 1 calendar year after Mar. 7, 2013, and each subsequent calendar year, subsection (f) of this section is amended:
 
-(1) in paragraph (1)(C)(iii), by substituting “, when the victim of such crime elects or is unable to make such a report.” for the period at end;
+    (1) in paragraph (1)(C)(iii), by substituting “, when the victim of such crime elects or is unable to make such a report.” for the period at end;
 
-(2) in paragraph (1)(F)(i)(VIII), by striking “and” after the semicolon;
+    (2) in paragraph (1)(F)(i)(VIII), by striking “and” after the semicolon;
 
-(3) in paragraph (1)(F)(ii), by substituting “national origin, sexual orientation, gender identity,” for “sexual orientation” and “; and” for the period at end;
+    (3) in paragraph (1)(F)(ii), by substituting “national origin, sexual orientation, gender identity,” for “sexual orientation” and “; and” for the period at end;
 
-(4) in paragraph (1)(F), by adding at the end “(iii) of domestic violence, dating violence, and stalking incidents that were reported to campus security authorities or local police agencies.”;
+    (4) in paragraph (1)(F), by adding at the end “(iii) of domestic violence, dating violence, and stalking incidents that were reported to campus security authorities or local police agencies.”;
 
-(5) in paragraph (3), by inserting “, that withholds the names of victims as confidential,” after “that is timely”;
+    (5) in paragraph (3), by inserting “, that withholds the names of victims as confidential,” after “that is timely”;
 
-(6) in paragraph (6)(A), by redesignating clauses (i) to (iii) as (ii) to (iv), respectively, and adding the following new clauses: “(i) The terms ‘dating violence’, ‘domestic violence’, and ‘stalking’ have the meaning given such terms in [section 13925(a) of title 42][/us/usc/t42/s13925/a].” and “(v) The term ‘sexual assault’ means an offense classified as a forcible or nonforcible sex offense under the uniform crime reporting system of the Federal Bureau of Investigation.”;
+    (6) in paragraph (6)(A), by redesignating clauses (i) to (iii) as (ii) to (iv), respectively, and adding the following new clauses: “(i) The terms ‘dating violence’, ‘domestic violence’, and ‘stalking’ have the meaning given such terms in [section 13925(a) of title 42][/us/usc/t42/s13925/a].” and “(v) The term ‘sexual assault’ means an offense classified as a forcible or nonforcible sex offense under the uniform crime reporting system of the Federal Bureau of Investigation.”;
 
-(7) in paragraph (7), by substituting “clauses (i) and (ii) of paragraph (1)(F)” for “paragraph (1)(F)” and inserting “For the offenses of domestic violence, dating violence, and stalking, such statistics shall be compiled in accordance with the definitions used in [section 13925(a) of title 42][/us/usc/t42/s13925/a].” after “Hate Crime Statistics Act.”;
+    (7) in paragraph (7), by substituting “clauses (i) and (ii) of paragraph (1)(F)” for “paragraph (1)(F)” and inserting “For the offenses of domestic violence, dating violence, and stalking, such statistics shall be compiled in accordance with the definitions used in [section 13925(a) of title 42][/us/usc/t42/s13925/a].” after “Hate Crime Statistics Act.”;
 
-(8) by striking paragraph (8) and adding the following new paragraph (8):
+    (8) by striking paragraph (8) and adding the following new paragraph (8):
 
     “(8)(A) Each institution of higher education participating in any program under this subchapter and part C of subchapter I of chapter 34 of title 42 and title IV of the Economic Opportunity Act of 1964, other than a foreign institution of higher education, shall develop and distribute as part of the report described in paragraph (1) a statement of policy regarding—
 
@@ -851,19 +851,19 @@
 
     “(C) A student or employee who reports to an institution of higher education that the student or employee has been a victim of domestic violence, dating violence, sexual assault, or stalking, whether the offense occurred on or off campus, shall be provided with a written explanation of the student or employee’s rights and options, as described in clauses (ii) through (vii) of subparagraph (B).”;
 
-(9) in paragraph (9), by substituting “The Secretary, in consultation with the Attorney General of the United States,” for “The Secretary”;
+    (9) in paragraph (9), by substituting “The Secretary, in consultation with the Attorney General of the United States,” for “The Secretary”;
 
-(10) by striking paragraph (16) and adding the following new paragraph (16):
+    (10) by striking paragraph (16) and adding the following new paragraph (16):
 
     “(16)(A) The Secretary shall seek the advice and counsel of the Attorney General of the United States concerning the development, and dissemination to institutions of higher education, of best practices information about campus safety and emergencies.
 
     “(B) The Secretary shall seek the advice and counsel of the Attorney General of the United States and the Secretary of Health and Human Services concerning the development, and dissemination to institutions of higher education, of best practices information about preventing and responding to incidents of domestic violence, dating violence, sexual assault, and stalking, including elements of institutional policies that have proven successful based on evidence-based outcome measurements.”; and
 
-(11) by striking paragraph (17) and adding the following new paragraph (17):
+    (11) by striking paragraph (17) and adding the following new paragraph (17):
 
     “(17) No officer, employee, or agent of an institution participating in any program under this title shall retaliate, intimidate, threaten, coerce, or otherwise discriminate against any individual for exercising their rights or responsibilities under any provision of this subsection.”
 
-See 2013 Amendment notes below.
+    See 2013 Amendment notes below.
 
  __References in Text__ 
 

@@ -15,7 +15,7 @@
 
 ## § 2394. Voluntary selection and participation
 
-No funds made available under this chapter shall be used—
+    No funds made available under this chapter shall be used—
 
     (1) to require any secondary school student to choose or pursue a specific career path or major; or
 

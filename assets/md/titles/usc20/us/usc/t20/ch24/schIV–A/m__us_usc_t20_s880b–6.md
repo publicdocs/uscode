@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t20/ch24/schIV–A/m__us_usc_t20_s880b–2 to 880b–5.md) | [Next](./../../../../..//us/usc/t20/ch24/schIV–A/ptA/m__us_usc_t20_ch24_schIV–A_ptA.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs880b%E2%80%936)
+[Previous](./../../../../..//us/usc/t20/ch24/schIV–A/m__us_usc_t20_s880b–1.md) | [Next](./../../../../..//us/usc/t20/ch24/schIV–A/ptA/m__us_usc_t20_ch24_schIV–A_ptA.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs880b%E2%80%936)
 
 ## § 880b–6. Repealed. [Pub. L. 91–230, title IV, § 401(g)(5)][/us/pl/91/230/s401/g/5], Apr. 13, 1970, [84 Stat. 174][/us/stat/84/174]
 
@@ -19,7 +19,7 @@
 
 ----------
 
-[Previous](./../../../../..//us/usc/t20/ch24/schIV–A/m__us_usc_t20_s880b–2 to 880b–5.md) | [Next](./../../../../..//us/usc/t20/ch24/schIV–A/ptA/m__us_usc_t20_ch24_schIV–A_ptA.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs880b%E2%80%936)
+[Previous](./../../../../..//us/usc/t20/ch24/schIV–A/m__us_usc_t20_s880b–1.md) | [Next](./../../../../..//us/usc/t20/ch24/schIV–A/ptA/m__us_usc_t20_ch24_schIV–A_ptA.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs880b%E2%80%936)
 
 ----------
 ----------

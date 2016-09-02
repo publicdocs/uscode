@@ -15,7 +15,7 @@
 
 ## § 6454. Uses of funds
 
-Funds provided to local educational agencies under this subpart may be used, as appropriate, for—
+    Funds provided to local educational agencies under this subpart may be used, as appropriate, for—
 
     (1) programs that serve children and youth returning to local schools from correctional facilities, to assist in the transition of such children and youth to the school environment and help them remain in school in order to complete their education;
 

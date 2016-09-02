@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../..//us/usc/t20/ch41/schIV/m__us_usc_t20_s1981 to 1983.md) | [Next](./../../../..//us/usc/t20/ch42/m__us_usc_t20_s2001.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fch42)
+[Previous](./../../../..//us/usc/t20/ch41/schIV/m__us_usc_t20_ch41_schIV.md) | [Next](./../../../..//us/usc/t20/ch42/m__us_usc_t20_s2001.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fch42)
 
 ## CHAPTER 42—HARRY S TRUMAN MEMORIAL SCHOLARSHIPS
 
@@ -147,7 +147,7 @@
 
 ----------
 
-[Previous](./../../../..//us/usc/t20/ch41/schIV/m__us_usc_t20_s1981 to 1983.md) | [Next](./../../../..//us/usc/t20/ch42/m__us_usc_t20_s2001.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fch42)
+[Previous](./../../../..//us/usc/t20/ch41/schIV/m__us_usc_t20_ch41_schIV.md) | [Next](./../../../..//us/usc/t20/ch42/m__us_usc_t20_s2001.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fch42)
 
 ----------
 ----------

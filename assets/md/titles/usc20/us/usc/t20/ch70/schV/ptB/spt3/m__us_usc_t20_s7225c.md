@@ -15,7 +15,7 @@
 
 ## § 7225c. Priorities
 
-In awarding grants under this subpart, the Secretary shall give priority to an eligible entity—
+    In awarding grants under this subpart, the Secretary shall give priority to an eligible entity—
 
     (1) whose program would provide the widest variety of choices to all students in participating schools;
 

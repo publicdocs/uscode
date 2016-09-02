@@ -15,7 +15,7 @@
 
 ## § 7513. Purposes
 
-The purposes of this part are to—
+    The purposes of this part are to—
 
     (1) authorize and develop innovative educational programs to assist Native Hawaiians;
 

@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t20/ch3/schIV/m__us_usc_t20_s76, 76a.md) | [Next](./../../../../..//us/usc/t20/ch3/schIV/m__us_usc_t20_s76c.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs76b)
+[Previous](./../../../../..//us/usc/t20/ch3/schIV/m__us_usc_t20_ch3_schIV.md) | [Next](./../../../../..//us/usc/t20/ch3/schIV/m__us_usc_t20_s76c.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs76b)
 
 ## § 76b. Functions of Regents
 
@@ -37,7 +37,7 @@
 
 ----------
 
-[Previous](./../../../../..//us/usc/t20/ch3/schIV/m__us_usc_t20_s76, 76a.md) | [Next](./../../../../..//us/usc/t20/ch3/schIV/m__us_usc_t20_s76c.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs76b)
+[Previous](./../../../../..//us/usc/t20/ch3/schIV/m__us_usc_t20_ch3_schIV.md) | [Next](./../../../../..//us/usc/t20/ch3/schIV/m__us_usc_t20_s76c.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs76b)
 
 ----------
 ----------

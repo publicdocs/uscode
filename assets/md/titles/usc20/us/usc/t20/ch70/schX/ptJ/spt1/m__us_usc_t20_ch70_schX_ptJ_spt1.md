@@ -11,16 +11,40 @@
 ----------
 ----------
 
-[Previous](./../../../../../../..//us/usc/t20/ch70/schX/ptJ/m__us_usc_t20_s8271, 8272.md) | [Next](./../../../../../../..//us/usc/t20/ch70/schX/ptJ/spt1/m__us_usc_t20_s8281 to 8284.md) | [Root of Title](./../../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fch70%2FschX%2FptJ%2Fspt1)
+[Previous](./../../../../../../..//us/usc/t20/ch70/schX/ptJ/m__us_usc_t20_ch70_schX_ptJ.md) | [Next](./../../../../../../..//us/usc/t20/ch70/schX/ptJ/spt2/m__us_usc_t20_ch70_schX_ptJ_spt2.md) | [Root of Title](./../../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fch70%2FschX%2FptJ%2Fspt1)
 
 ##### subpart 1—urban education demonstration grants
 
+§§ 8281 to 8284. __Repealed.__  __[__  __Pub. L. 107–110, title X, § 1011(5)(A)__  __][/us/pl/107/110/s1011/5/A]__  __,__  __Jan. 8, 2002__  __,__  __[__  __115 Stat. 1986__  __][/us/stat/115/1986]__ 
+
+    Section 8281, [Pub. L. 89–10, title X, § 10961][/us/pl/89/10/s10961], as added [Pub. L. 103–382, title I, § 101][/us/pl/103/382/s101], Oct. 20, 1994, [108 Stat. 3848][/us/stat/108/3848], set forth findings.
+
+    Section 8282, [Pub. L. 89–10, title X, § 10962][/us/pl/89/10/s10962], as added [Pub. L. 103–382, title I, § 101][/us/pl/103/382/s101], Oct. 20, 1994, [108 Stat. 3849][/us/stat/108/3849], set forth purpose of subpart.
+
+    Section 8283, [Pub. L. 89–10, title X, § 10963][/us/pl/89/10/s10963], as added [Pub. L. 103–382, title I, § 101][/us/pl/103/382/s101], Oct. 20, 1994, [108 Stat. 3849][/us/stat/108/3849], authorized urban school grants.
+
+    Section 8284, [Pub. L. 89–10, title X, § 10964][/us/pl/89/10/s10964], as added [Pub. L. 103–382, title I, § 101][/us/pl/103/382/s101], Oct. 20, 1994, [108 Stat. 3852][/us/stat/108/3852], set forth special rules.
+
 ----------
 
-[Previous](./../../../../../../..//us/usc/t20/ch70/schX/ptJ/m__us_usc_t20_s8271, 8272.md) | [Next](./../../../../../../..//us/usc/t20/ch70/schX/ptJ/spt1/m__us_usc_t20_s8281 to 8284.md) | [Root of Title](./../../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fch70%2FschX%2FptJ%2Fspt1)
+[Previous](./../../../../../../..//us/usc/t20/ch70/schX/ptJ/m__us_usc_t20_ch70_schX_ptJ.md) | [Next](./../../../../../../..//us/usc/t20/ch70/schX/ptJ/spt2/m__us_usc_t20_ch70_schX_ptJ_spt2.md) | [Root of Title](./../../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fch70%2FschX%2FptJ%2Fspt1)
 
 ----------
 ----------
 
+[/us/pl/107/110/s1011/5/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F110%2Fs1011%2F5%2FA
+[/us/stat/115/1986]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F1986
+[/us/pl/89/10/s10961]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F10%2Fs10961
+[/us/pl/103/382/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F382%2Fs101
+[/us/stat/108/3848]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3848
+[/us/pl/89/10/s10962]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F10%2Fs10962
+[/us/pl/103/382/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F382%2Fs101
+[/us/stat/108/3849]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3849
+[/us/pl/89/10/s10963]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F10%2Fs10963
+[/us/pl/103/382/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F382%2Fs101
+[/us/stat/108/3849]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3849
+[/us/pl/89/10/s10964]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F10%2Fs10964
+[/us/pl/103/382/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F382%2Fs101
+[/us/stat/108/3852]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3852
 
 

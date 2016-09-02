@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t20/ch31/schI/m__us_usc_t20_s1221a to 1221c.md) | [Next](./../../../../..//us/usc/t20/ch31/schI/m__us_usc_t20_s1221e.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1221d)
+[Previous](./../../../../..//us/usc/t20/ch31/schI/m__us_usc_t20_ch31_schI.md) | [Next](./../../../../..//us/usc/t20/ch31/schI/m__us_usc_t20_s1221e.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1221d)
 
 ## § 1221d. Repealed. [Pub. L. 96–374, title X, § 1001(c)][/us/pl/96/374/s1001/c], Oct. 3, 1980, [94 Stat. 1491][/us/stat/94/1491]
 
@@ -23,7 +23,7 @@
 
 ----------
 
-[Previous](./../../../../..//us/usc/t20/ch31/schI/m__us_usc_t20_s1221a to 1221c.md) | [Next](./../../../../..//us/usc/t20/ch31/schI/m__us_usc_t20_s1221e.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1221d)
+[Previous](./../../../../..//us/usc/t20/ch31/schI/m__us_usc_t20_ch31_schI.md) | [Next](./../../../../..//us/usc/t20/ch31/schI/m__us_usc_t20_s1221e.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1221d)
 
 ----------
 ----------

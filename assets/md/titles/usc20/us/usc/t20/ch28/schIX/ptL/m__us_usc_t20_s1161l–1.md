@@ -15,7 +15,7 @@
 
 ## § 1161l–1. Model emergency response policies, procedures, and practices
 
-The Secretary, in consultation with the Attorney General and the Secretary of Homeland Security, shall continue to—
+    The Secretary, in consultation with the Attorney General and the Secretary of Homeland Security, shall continue to—
 
     (1) advise institutions of higher education on model emergency response policies, procedures, and practices; and
 

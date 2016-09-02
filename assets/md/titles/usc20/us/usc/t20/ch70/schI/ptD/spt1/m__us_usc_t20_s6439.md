@@ -15,7 +15,7 @@
 
 ## § 6439. Evaluation; technical assistance; annual model program
 
-The Secretary may reserve not more than 2.5 percent of the amount made available to carry out this subpart for a fiscal year—
+    The Secretary may reserve not more than 2.5 percent of the amount made available to carry out this subpart for a fiscal year—
 
     (1) to develop a uniform model to evaluate the effectiveness of programs assisted under this subpart; and
 

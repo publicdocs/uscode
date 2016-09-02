@@ -15,7 +15,7 @@
 
 ## § 6381i. Indicators of program quality
 
-Each State educational agency receiving funds under this subpart shall develop, based on the best available research and evaluation data, indicators of program quality for programs assisted under this subpart. The indicators shall be used to monitor, evaluate, and improve those programs within the State. The indicators shall include the following:
+    Each State educational agency receiving funds under this subpart shall develop, based on the best available research and evaluation data, indicators of program quality for programs assisted under this subpart. The indicators shall be used to monitor, evaluate, and improve those programs within the State. The indicators shall include the following:
 
     (1)
 

@@ -15,7 +15,7 @@
 
 ## § 2501. Statement of purpose
 
-It is the purpose of this subchapter to provide Federal assistance to States to enable them to plan for the development of career education and career development programs and activities for individuals of all ages, and to plan for the improvement of existing programs and activities, in the areas of awareness, exploration, planning, and decisionmaking of individuals served with regard to career opportunities and career development throughout the lifetimes of such individuals, through—
+    It is the purpose of this subchapter to provide Federal assistance to States to enable them to plan for the development of career education and career development programs and activities for individuals of all ages, and to plan for the improvement of existing programs and activities, in the areas of awareness, exploration, planning, and decisionmaking of individuals served with regard to career opportunities and career development throughout the lifetimes of such individuals, through—
 
     (1) planning for the development of information on the needs for career education and career development for all individuals;
 

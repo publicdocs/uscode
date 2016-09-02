@@ -15,7 +15,7 @@
 
 ## § 6397. Bypass
 
-The Secretary may use all or part of any State’s allocation under this part to make arrangements with any public or private nonprofit agency to carry out the purpose of this part in such State if the Secretary determines that—
+    The Secretary may use all or part of any State’s allocation under this part to make arrangements with any public or private nonprofit agency to carry out the purpose of this part in such State if the Secretary determines that—
 
     (1) the State is unable or unwilling to conduct educational programs for migratory children;
 

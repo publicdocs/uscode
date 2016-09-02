@@ -15,7 +15,7 @@
 
 ## § 6765. State activities
 
-From funds made available under [section 6762(a)(1) of this title][/us/usc/t20/s6762/a/1], a State educational agency shall carry out activities and assist local efforts to carry out the purposes of this part, which may include the following activities:
+    From funds made available under [section 6762(a)(1) of this title][/us/usc/t20/s6762/a/1], a State educational agency shall carry out activities and assist local efforts to carry out the purposes of this part, which may include the following activities:
 
     (1) Developing, or assisting applicants or recipients of funds under this subpart in the development and utilization of, innovative strategies for the delivery of specialized or rigorous academic courses and curricula through the use of technology, including distance learning technologies, and providing other technical assistance to such applicants or recipients throughout the State, with priority given to high-need local educational agencies.
 

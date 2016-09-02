@@ -15,7 +15,7 @@
 
 ## § 2302. Definitions
 
-Unless otherwise specified, in this chapter:
+    Unless otherwise specified, in this chapter:
 
     (1) __Administration__ 
 

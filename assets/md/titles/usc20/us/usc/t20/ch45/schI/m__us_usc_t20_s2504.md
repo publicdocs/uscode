@@ -15,7 +15,7 @@
 
 ## § 2504. Prerequisites for State participation
 
-Any State desiring to receive the amount for which it is eligible for any fiscal year pursuant to this subchapter shall agree to submit to the Secretary of Education by December 31, 1978, a report on any planning undertaken pursuant to this subchapter. Such report shall be in such form as the State may desire, and may include planning proposals for—
+    Any State desiring to receive the amount for which it is eligible for any fiscal year pursuant to this subchapter shall agree to submit to the Secretary of Education by December 31, 1978, a report on any planning undertaken pursuant to this subchapter. Such report shall be in such form as the State may desire, and may include planning proposals for—
 
     (1) extending career education and career development programs and services to all individuals in the State;
 

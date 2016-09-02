@@ -15,7 +15,7 @@
 
 ## § 6553. Authorization of appropriations
 
-For the purpose of carrying out this part, there are authorized to be appropriated $125,000,000 for fiscal year 2002 and such sums as may be necessary for each of the 5 succeeding fiscal years, of which—
+    For the purpose of carrying out this part, there are authorized to be appropriated $125,000,000 for fiscal year 2002 and such sums as may be necessary for each of the 5 succeeding fiscal years, of which—
 
     (1) 10 percent shall be available to carry out subpart 1 of this part for each fiscal year; and
 

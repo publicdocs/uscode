@@ -15,7 +15,7 @@
 
 ## § 6681. Purposes
 
-The purposes of this division are—
+    The purposes of this division are—
 
     (1) to establish a program to recruit and retain highly qualified mid-career professionals (including highly qualified paraprofessionals), and recent graduates of an institution of higher education, as teachers in high-need schools, including recruiting teachers through alternative routes to certification; and
 

@@ -15,7 +15,7 @@
 
 ## § 6812. Purposes
 
-The purposes of this part are—
+    The purposes of this part are—
 
     (1) to help ensure that children who are limited English proficient, including immigrant children and youth, attain English proficiency, develop high levels of academic attainment in English, and meet the same challenging State academic content and student academic achievement standards as all children are expected to meet;
 

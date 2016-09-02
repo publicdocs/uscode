@@ -15,7 +15,7 @@
 
 ## § 931. Regulations; issuance and contents
 
-The Secretary of Defense shall issue regulations to carry out this chapter. Such regulations shall—
+    The Secretary of Defense shall issue regulations to carry out this chapter. Such regulations shall—
 
     (1) prescribe the educational goals and objectives of the defense dependents’ education system,
 

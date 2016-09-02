@@ -15,7 +15,7 @@
 
 ## § 3902. Definitions
 
-For the purpose of this chapter—
+    For the purpose of this chapter—
 
     (1) The term “area career and technical education school” has the same meaning given that term under [section 2302(3) of this title][/us/usc/t20/s2302/3].
 

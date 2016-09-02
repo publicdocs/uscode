@@ -15,7 +15,7 @@
 
 ## § 6712. Purpose
 
-It is the purpose of this subpart—
+    It is the purpose of this subpart—
 
     (1) to improve the quality of civics and government education by educating students about the history and principles of the Constitution of the United States, including the Bill of Rights;
 

@@ -15,7 +15,7 @@
 
 ## § 7265d. Availability of funds
 
-If sufficient funds are made available under [section 7241 of this title][/us/usc/t20/s7241] to carry out this subpart for a fiscal year, the Secretary shall make available, to support activities described in [section 7265b(b) of this title][/us/usc/t20/s7265b/b], the following amounts:
+    If sufficient funds are made available under [section 7241 of this title][/us/usc/t20/s7241] to carry out this subpart for a fiscal year, the Secretary shall make available, to support activities described in [section 7265b(b) of this title][/us/usc/t20/s7265b/b], the following amounts:
 
     (1)
 

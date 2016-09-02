@@ -15,7 +15,7 @@
 
 ## § 9121. Purpose
 
-It is the purpose of this subchapter—
+    It is the purpose of this subchapter—
 
     (1) to enhance coordination among Federal programs that relate to library and information services;
 

@@ -11,16 +11,57 @@
 ----------
 ----------
 
-[Previous](./../../../../../..//us/usc/t20/ch70/schX/ptH/m__us_usc_t20_s8221 to 8224.md) | [Next](./../../../../../..//us/usc/t20/ch70/schX/ptI/m__us_usc_t20_s8241 to 8247.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fch70%2FschX%2FptI)
+[Previous](./../../../../../..//us/usc/t20/ch70/schX/ptH/m__us_usc_t20_ch70_schX_ptH.md) | [Next](./../../../../../..//us/usc/t20/ch70/schX/ptJ/m__us_usc_t20_ch70_schX_ptJ.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fch70%2FschX%2FptI)
 
 #### Part I—21st Century Community Learning Centers
 
+§§ 8241 to 8247. __Repealed.__  __[__  __Pub. L. 107–110, title X, § 1011(5)(A)__  __][/us/pl/107/110/s1011/5/A]__  __,__  __Jan. 8, 2002__  __,__  __[__  __115 Stat. 1986__  __][/us/stat/115/1986]__ 
+
+    Section 8241, [Pub. L. 89–10, title X, § 10901][/us/pl/89/10/s10901], as added [Pub. L. 103–382, title I, § 101][/us/pl/103/382/s101], Oct. 20, 1994, [108 Stat. 3844][/us/stat/108/3844], set forth short title of the 21st Century Community Learning Centers Act.
+
+    Section 8242, [Pub. L. 89–10, title X, § 10902][/us/pl/89/10/s10902], as added [Pub. L. 103–382, title I, § 101][/us/pl/103/382/s101], Oct. 20, 1994, [108 Stat. 3844][/us/stat/108/3844], set forth findings.
+
+    Section 8243, [Pub. L. 89–10, title X, § 10903][/us/pl/89/10/s10903], as added [Pub. L. 103–382, title I, § 101][/us/pl/103/382/s101], Oct. 20, 1994, [108 Stat. 3845][/us/stat/108/3845], authorized program. See sections 7172 and 7174 of this title.
+
+    Section 8244, [Pub. L. 89–10, title X, § 10904][/us/pl/89/10/s10904], as added [Pub. L. 103–382, title I, § 101][/us/pl/103/382/s101], Oct. 20, 1994, [108 Stat. 3845][/us/stat/108/3845], required application. See sections 7173 and 7174 of this title.
+
+    Section 8245, [Pub. L. 89–10, title X, § 10905][/us/pl/89/10/s10905], as added [Pub. L. 103–382, title I, § 101][/us/pl/103/382/s101], Oct. 20, 1994, [108 Stat. 3846][/us/stat/108/3846], related to uses of funds. See sections 7172 and 7175 of this title.
+
+    Section 8246, [Pub. L. 89–10, title X, § 10906][/us/pl/89/10/s10906], as added [Pub. L. 103–382, title I, § 101][/us/pl/103/382/s101], Oct. 20, 1994, [108 Stat. 3846][/us/stat/108/3846], defined “Community learning center”. See [section 7171 of this title][/us/usc/t20/s7171].
+
+    Section 8247, [Pub. L. 89–10, title X, § 10907][/us/pl/89/10/s10907], as added [Pub. L. 103–382, title I, § 101][/us/pl/103/382/s101], Oct. 20, 1994, [108 Stat. 3846][/us/stat/108/3846], authorized appropriations. See [section 7176 of this title][/us/usc/t20/s7176].
+
 ----------
 
-[Previous](./../../../../../..//us/usc/t20/ch70/schX/ptH/m__us_usc_t20_s8221 to 8224.md) | [Next](./../../../../../..//us/usc/t20/ch70/schX/ptI/m__us_usc_t20_s8241 to 8247.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fch70%2FschX%2FptI)
+[Previous](./../../../../../..//us/usc/t20/ch70/schX/ptH/m__us_usc_t20_ch70_schX_ptH.md) | [Next](./../../../../../..//us/usc/t20/ch70/schX/ptJ/m__us_usc_t20_ch70_schX_ptJ.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fch70%2FschX%2FptI)
 
 ----------
 ----------
 
+[/us/pl/107/110/s1011/5/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F110%2Fs1011%2F5%2FA
+[/us/stat/115/1986]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F1986
+[/us/pl/89/10/s10901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F10%2Fs10901
+[/us/pl/103/382/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F382%2Fs101
+[/us/stat/108/3844]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3844
+[/us/pl/89/10/s10902]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F10%2Fs10902
+[/us/pl/103/382/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F382%2Fs101
+[/us/stat/108/3844]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3844
+[/us/pl/89/10/s10903]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F10%2Fs10903
+[/us/pl/103/382/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F382%2Fs101
+[/us/stat/108/3845]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3845
+[/us/pl/89/10/s10904]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F10%2Fs10904
+[/us/pl/103/382/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F382%2Fs101
+[/us/stat/108/3845]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3845
+[/us/pl/89/10/s10905]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F10%2Fs10905
+[/us/pl/103/382/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F382%2Fs101
+[/us/stat/108/3846]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3846
+[/us/pl/89/10/s10906]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F10%2Fs10906
+[/us/pl/103/382/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F382%2Fs101
+[/us/stat/108/3846]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3846
+[/us/usc/t20/s7171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs7171
+[/us/pl/89/10/s10907]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F10%2Fs10907
+[/us/pl/103/382/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F382%2Fs101
+[/us/stat/108/3846]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3846
+[/us/usc/t20/s7176]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs7176
 
 

@@ -15,7 +15,7 @@
 
 ## § 1066d. Authority of Secretary
 
-In the performance of, and with respect to, the functions vested in the Secretary by this part, the Secretary—
+    In the performance of, and with respect to, the functions vested in the Secretary by this part, the Secretary—
 
     (1)
 

@@ -11,13 +11,13 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t20/ch52/schVII/m__us_usc_t20_s4051 to 4062.md) | [Next](./../../../../..//us/usc/t20/ch52/schVIII/m__us_usc_t20_s4071.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fch52%2FschVIII)
+[Previous](./../../../../..//us/usc/t20/ch52/schVII/m__us_usc_t20_ch52_schVII.md) | [Next](./../../../../..//us/usc/t20/ch52/schVIII/m__us_usc_t20_s4071.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fch52%2FschVIII)
 
 ### SUBCHAPTER VIII—EQUAL ACCESS
 
 ----------
 
-[Previous](./../../../../..//us/usc/t20/ch52/schVII/m__us_usc_t20_s4051 to 4062.md) | [Next](./../../../../..//us/usc/t20/ch52/schVIII/m__us_usc_t20_s4071.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fch52%2FschVIII)
+[Previous](./../../../../..//us/usc/t20/ch52/schVII/m__us_usc_t20_ch52_schVII.md) | [Next](./../../../../..//us/usc/t20/ch52/schVIII/m__us_usc_t20_s4071.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fch52%2FschVIII)
 
 ----------
 ----------

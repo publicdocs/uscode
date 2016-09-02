@@ -15,7 +15,7 @@
 
 ## § 9221. State administration
 
-Each eligible agency shall be responsible for the State or outlying area administration of activities under this part, including—
+    Each eligible agency shall be responsible for the State or outlying area administration of activities under this part, including—
 
     (1) the development, submission, and implementation of the State plan;
 

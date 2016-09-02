@@ -15,7 +15,7 @@
 
 ## § 1720. Definitions
 
-For the purposes of this subchapter—
+    For the purposes of this subchapter—
 
     (a) The term “educational agency” means a local educational agency or a “State educational agency” as defined by section 801(k)  <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  of the Elementary and Secondary Education Act of 1965.
 

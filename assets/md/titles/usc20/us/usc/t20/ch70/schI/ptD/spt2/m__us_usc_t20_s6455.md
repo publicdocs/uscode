@@ -15,7 +15,7 @@
 
 ## § 6455. Program requirements for correctional facilities receiving funds under this section
 
-Each correctional facility entering into an agreement with a local educational agency under [section 6453(2) of this title][/us/usc/t20/s6453/2] to provide services to children and youth under this subpart shall—
+    Each correctional facility entering into an agreement with a local educational agency under [section 6453(2) of this title][/us/usc/t20/s6453/2] to provide services to children and youth under this subpart shall—
 
     (1) where feasible, ensure that educational programs in the correctional facility are coordinated with the student’s home school, particularly with respect to a student with an individualized education program under part B of the Individuals with Disabilities Education Act \[[20 U.S.C. 1411][/us/usc/t20/s1411] et seq.\];
 

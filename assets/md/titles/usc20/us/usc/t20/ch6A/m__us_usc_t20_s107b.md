@@ -15,7 +15,7 @@
 
 ## § 107b. Application for designation as State licensing agency; cooperation with Secretary; furnishing initial stock
 
-A State agency for the blind or other State agency desiring to be designated as the licensing agency shall, with the approval of the chief executive of the State, make application to the Secretary and agree—
+    A State agency for the blind or other State agency desiring to be designated as the licensing agency shall, with the approval of the chief executive of the State, make application to the Secretary and agree—
 
     (1) to cooperate with the Secretary in carrying out the purpose of this chapter;
 

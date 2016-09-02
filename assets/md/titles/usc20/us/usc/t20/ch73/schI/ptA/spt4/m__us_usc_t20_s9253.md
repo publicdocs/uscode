@@ -15,7 +15,7 @@
 
 ## § 9253. National leadership activities
 
-The Secretary shall establish and carry out a program of national leadership activities to enhance the quality of adult education and literacy programs nationwide. Such activities may include the following:
+    The Secretary shall establish and carry out a program of national leadership activities to enhance the quality of adult education and literacy programs nationwide. Such activities may include the following:
 
     (1)
 

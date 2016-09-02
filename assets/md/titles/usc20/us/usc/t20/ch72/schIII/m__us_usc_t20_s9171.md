@@ -15,7 +15,7 @@
 
 ## § 9171. Purpose
 
-It is the purpose of this subchapter—
+    It is the purpose of this subchapter—
 
     (1) to encourage and support museums in carrying out their public service role of connecting the whole of society to the cultural, artistic, historical, natural, and scientific understandings that constitute our heritage;
 

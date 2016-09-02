@@ -15,7 +15,7 @@
 
 ## § 1140c. Applications
 
-Each institution of higher education desiring to receive a grant, contract, or cooperative agreement under this subpart shall submit an application to the Secretary at such time, in such manner, and accompanied by such information as the Secretary may require. Each application shall include—
+    Each institution of higher education desiring to receive a grant, contract, or cooperative agreement under this subpart shall submit an application to the Secretary at such time, in such manner, and accompanied by such information as the Secretary may require. Each application shall include—
 
     (1) a description of the activities authorized under this subpart that the institution proposes to carry out, and how such institution plans to conduct such activities in order to further the purpose of this subpart;
 

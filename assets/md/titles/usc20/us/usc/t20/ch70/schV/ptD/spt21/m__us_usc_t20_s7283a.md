@@ -15,7 +15,7 @@
 
 ## § 7283a. Statement of purpose
 
-It is the purpose of this subpart—
+    It is the purpose of this subpart—
 
     (1) to promote gender equity in education in the United States;
 

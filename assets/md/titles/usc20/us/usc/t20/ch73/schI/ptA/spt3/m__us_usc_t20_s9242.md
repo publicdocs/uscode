@@ -15,7 +15,7 @@
 
 ## § 9242. Local application
 
-Each eligible provider desiring a grant or contract under this part shall submit an application to the eligible agency containing such information and assurances as the eligible agency may require, including—
+    Each eligible provider desiring a grant or contract under this part shall submit an application to the eligible agency containing such information and assurances as the eligible agency may require, including—
 
     (1) a description of how funds awarded under this part will be spent; and
 

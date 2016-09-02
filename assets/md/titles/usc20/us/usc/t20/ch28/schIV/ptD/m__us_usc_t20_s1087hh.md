@@ -15,7 +15,7 @@
 
 ## § 1087hh. General authority of Secretary
 
-In carrying out the provisions of this part, the Secretary is authorized—
+    In carrying out the provisions of this part, the Secretary is authorized—
 
     (1) to consent to modification, with respect to rate of interest, time of payment of any installment of principal and interest or any portion thereof, or any other provision of any note evidencing a loan which has been made under this part;
 

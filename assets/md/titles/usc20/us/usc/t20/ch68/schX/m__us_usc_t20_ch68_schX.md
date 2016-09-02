@@ -11,13 +11,13 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t20/ch68/schIX/ptJ/m__us_usc_t20_s6056, 6056a.md) | [Next](./../../../../..//us/usc/t20/ch68/schX/ptA/m__us_usc_t20_ch68_schX_ptA.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fch68%2FschX)
+[Previous](./../../../../..//us/usc/t20/ch68/schIX/ptJ/m__us_usc_t20_ch68_schIX_ptJ.md) | [Next](./../../../../..//us/usc/t20/ch68/schX/ptA/m__us_usc_t20_ch68_schX_ptA.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fch68%2FschX)
 
 ### SUBCHAPTER X—MISCELLANEOUS
 
 ----------
 
-[Previous](./../../../../..//us/usc/t20/ch68/schIX/ptJ/m__us_usc_t20_s6056, 6056a.md) | [Next](./../../../../..//us/usc/t20/ch68/schX/ptA/m__us_usc_t20_ch68_schX_ptA.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fch68%2FschX)
+[Previous](./../../../../..//us/usc/t20/ch68/schIX/ptJ/m__us_usc_t20_ch68_schIX_ptJ.md) | [Next](./../../../../..//us/usc/t20/ch68/schX/ptA/m__us_usc_t20_ch68_schX_ptA.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fch68%2FschX)
 
 ----------
 ----------

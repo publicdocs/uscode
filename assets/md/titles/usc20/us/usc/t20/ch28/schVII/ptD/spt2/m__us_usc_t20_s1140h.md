@@ -15,7 +15,7 @@
 
 ## § 1140h. Rule of construction
 
-Nothing in this subpart shall be construed to reduce or expand—
+    Nothing in this subpart shall be construed to reduce or expand—
 
     (1) the obligation of a State or local educational agency to provide a free appropriate public education, as defined in [section 1401 of this title][/us/usc/t20/s1401]; or
 

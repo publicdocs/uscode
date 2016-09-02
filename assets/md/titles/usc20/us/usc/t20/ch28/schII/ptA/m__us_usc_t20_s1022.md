@@ -15,7 +15,7 @@
 
 ## § 1022. Purposes
 
-The purposes of this part are to—
+    The purposes of this part are to—
 
     (1) improve student achievement;
 

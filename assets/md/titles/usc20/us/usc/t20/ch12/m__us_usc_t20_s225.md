@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../..//us/usc/t20/ch12/m__us_usc_t20_s222 to 224.md) | [Next](./../../../..//us/usc/t20/ch12/m__us_usc_t20_s226.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs225)
+[Previous](./../../../..//us/usc/t20/ch12/m__us_usc_t20_s221a.md) | [Next](./../../../..//us/usc/t20/ch12/m__us_usc_t20_s226.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs225)
 
 ## § 225. Fund for education of Iranian students in United States
 
@@ -29,7 +29,7 @@
 
 ----------
 
-[Previous](./../../../..//us/usc/t20/ch12/m__us_usc_t20_s222 to 224.md) | [Next](./../../../..//us/usc/t20/ch12/m__us_usc_t20_s226.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs225)
+[Previous](./../../../..//us/usc/t20/ch12/m__us_usc_t20_s221a.md) | [Next](./../../../..//us/usc/t20/ch12/m__us_usc_t20_s226.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs225)
 
 ----------
 ----------

@@ -15,7 +15,7 @@
 
 ## § 7225f. Definitions
 
-In this subpart:
+    In this subpart:
 
     (1) __Charter school__ 
 

@@ -15,7 +15,7 @@
 
 ## § 3404. Definitions
 
-As used in this chapter, unless otherwise provided or indicated by the context—
+    As used in this chapter, unless otherwise provided or indicated by the context—
 
     (1) the term “Department” means the Department of Education or any component thereof;
 

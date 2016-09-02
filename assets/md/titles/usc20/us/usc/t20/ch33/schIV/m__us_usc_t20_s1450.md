@@ -15,7 +15,7 @@
 
 ## § 1450. Findings
 
-Congress finds the following:
+    Congress finds the following:
 
     (1) The Federal Government has an ongoing obligation to support activities that contribute to positive results for children with disabilities, enabling those children to lead productive and independent adult lives.
 

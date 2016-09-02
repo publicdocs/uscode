@@ -15,7 +15,7 @@
 
 ## § 4702. Definitions
 
-In this chapter:
+    In this chapter:
 
     (1) The term “Foundation” means the Barry Goldwater Scholarship and Excellence in Education Foundation established under [section 4703(a) of this title][/us/usc/t20/s4703/a].
 

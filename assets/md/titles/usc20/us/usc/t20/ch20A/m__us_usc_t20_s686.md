@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../..//us/usc/t20/ch20A/m__us_usc_t20_s681 to 685.md) | [Next](./../../../..//us/usc/t20/ch20B/m__us_usc_t20_ch20B.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs686)
+[Previous](./../../../..//us/usc/t20/ch20A/m__us_usc_t20_ch20A.md) | [Next](./../../../..//us/usc/t20/ch20B/m__us_usc_t20_ch20B.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs686)
 
 ## § 686. Transferred
 
@@ -19,7 +19,7 @@
 
 ----------
 
-[Previous](./../../../..//us/usc/t20/ch20A/m__us_usc_t20_s681 to 685.md) | [Next](./../../../..//us/usc/t20/ch20B/m__us_usc_t20_ch20B.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs686)
+[Previous](./../../../..//us/usc/t20/ch20A/m__us_usc_t20_ch20A.md) | [Next](./../../../..//us/usc/t20/ch20B/m__us_usc_t20_ch20B.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs686)
 
 ----------
 ----------

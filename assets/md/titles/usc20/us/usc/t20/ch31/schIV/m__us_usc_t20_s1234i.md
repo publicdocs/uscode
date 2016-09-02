@@ -15,7 +15,7 @@
 
 ## § 1234i. Definitions
 
-For purposes of this subchapter:
+    For purposes of this subchapter:
 
     (1) The term “recipient” means a recipient of a grant or cooperative agreement under an applicable program.
 

@@ -15,7 +15,7 @@
 
 ## § 1140. Definitions
 
-In this part:
+    In this part:
 
     (1) __Comprehensive transition and postsecondary program for students with intellectual disabilities__ 
 

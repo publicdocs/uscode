@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../../..//us/usc/t20/ch70/schXIII/ptC/m__us_usc_t20_s8671 to 8678.md) | [Next](./../../../../../..//us/usc/t20/ch70/schXIII/ptD/m__us_usc_t20_s8701.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fch70%2FschXIII%2FptD)
+[Previous](./../../../../../..//us/usc/t20/ch70/schXIII/ptC/m__us_usc_t20_ch70_schXIII_ptC.md) | [Next](./../../../../../..//us/usc/t20/ch70/schXIII/ptD/m__us_usc_t20_s8701.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fch70%2FschXIII%2FptD)
 
 #### Part D—Technology-Based Technical Assistance
 
@@ -21,7 +21,7 @@
 
 ----------
 
-[Previous](./../../../../../..//us/usc/t20/ch70/schXIII/ptC/m__us_usc_t20_s8671 to 8678.md) | [Next](./../../../../../..//us/usc/t20/ch70/schXIII/ptD/m__us_usc_t20_s8701.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fch70%2FschXIII%2FptD)
+[Previous](./../../../../../..//us/usc/t20/ch70/schXIII/ptC/m__us_usc_t20_ch70_schXIII_ptC.md) | [Next](./../../../../../..//us/usc/t20/ch70/schXIII/ptD/m__us_usc_t20_s8701.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fch70%2FschXIII%2FptD)
 
 ----------
 ----------

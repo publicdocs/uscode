@@ -15,7 +15,7 @@
 
 ## § 1068e. Limitations
 
-The funds appropriated under [section 1068h of this title][/us/usc/t20/s1068h] may not be used—
+    The funds appropriated under [section 1068h of this title][/us/usc/t20/s1068h] may not be used—
 
     (1) for a school or department of divinity or any religious worship or sectarian activity;
 

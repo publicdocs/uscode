@@ -11,13 +11,13 @@
 ----------
 ----------
 
-[Previous](./../../../../../../../..//us/usc/t20/ch70/schII/ptC/spt1/dA/m__us_usc_t20_s6671 to 6677.md) | [Next](./../../../../../../../..//us/usc/t20/ch70/schII/ptC/spt1/dB/m__us_usc_t20_s6681.md) | [Root of Title](./../../../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fch70%2FschII%2FptC%2Fspt1%2FdB)
+[Previous](./../../../../../../../..//us/usc/t20/ch70/schII/ptC/spt1/dA/m__us_usc_t20_ch70_schII_ptC_spt1_dA.md) | [Next](./../../../../../../../..//us/usc/t20/ch70/schII/ptC/spt1/dB/m__us_usc_t20_s6681.md) | [Root of Title](./../../../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fch70%2FschII%2FptC%2Fspt1%2FdB)
 
 ###### Division B—Transition to Teaching Program
 
 ----------
 
-[Previous](./../../../../../../../..//us/usc/t20/ch70/schII/ptC/spt1/dA/m__us_usc_t20_s6671 to 6677.md) | [Next](./../../../../../../../..//us/usc/t20/ch70/schII/ptC/spt1/dB/m__us_usc_t20_s6681.md) | [Root of Title](./../../../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fch70%2FschII%2FptC%2Fspt1%2FdB)
+[Previous](./../../../../../../../..//us/usc/t20/ch70/schII/ptC/spt1/dA/m__us_usc_t20_ch70_schII_ptC_spt1_dA.md) | [Next](./../../../../../../../..//us/usc/t20/ch70/schII/ptC/spt1/dB/m__us_usc_t20_s6681.md) | [Root of Title](./../../../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fch70%2FschII%2FptC%2Fspt1%2FdB)
 
 ----------
 ----------

@@ -15,7 +15,7 @@
 
 ## § 102. Application of appropriations
 
-The Secretary of Education is authorized to pay over semiannually, to the trustees of the American Printing House for the Blind, located in Louisville, Kentucky, and chartered in 1858 by the Legislature of Kentucky, upon requisition of their president, countersigned by their treasurer, one-half of such annual appropriation upon the following conditions:
+    The Secretary of Education is authorized to pay over semiannually, to the trustees of the American Printing House for the Blind, located in Louisville, Kentucky, and chartered in 1858 by the Legislature of Kentucky, upon requisition of their president, countersigned by their treasurer, one-half of such annual appropriation upon the following conditions:
 
     (1) __Purposes and methods of expenditures__ 
 

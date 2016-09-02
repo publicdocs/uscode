@@ -15,7 +15,7 @@
 
 ## § 9816. Authorization of appropriations
 
-There are authorized to be appropriated to carry out this part $4,000,000 for each of fiscal years 2011 through 2013, of which—
+    There are authorized to be appropriated to carry out this part $4,000,000 for each of fiscal years 2011 through 2013, of which—
 
     (1) $2,000,000 shall be available to carry out [section 9813 of this title][/us/usc/t20/s9813] for each of fiscal years 2011 through 2013; and
 

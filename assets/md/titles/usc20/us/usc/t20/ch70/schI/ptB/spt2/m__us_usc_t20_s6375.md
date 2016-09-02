@@ -15,7 +15,7 @@
 
 ## § 6375. Reporting requirements
 
-Each eligible applicant receiving a grant under this subpart shall report annually to the Secretary regarding the eligible applicant’s progress in addressing the purposes of this subpart. Such report shall include, at a minimum, a description of—
+    Each eligible applicant receiving a grant under this subpart shall report annually to the Secretary regarding the eligible applicant’s progress in addressing the purposes of this subpart. Such report shall include, at a minimum, a description of—
 
     (1) the research-based instruction, materials, and activities being used in the programs funded under the grant;
 

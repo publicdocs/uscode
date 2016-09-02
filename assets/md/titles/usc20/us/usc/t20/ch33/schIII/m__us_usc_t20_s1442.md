@@ -15,7 +15,7 @@
 
 ## § 1442. Federal administration
 
-Sections 1416, 1417, and 1418 of this title shall, to the extent not inconsistent with this subchapter, apply to the program authorized by this subchapter, except that—
+    Sections 1416, 1417, and 1418 of this title shall, to the extent not inconsistent with this subchapter, apply to the program authorized by this subchapter, except that—
 
     (1) any reference in such sections to a State educational agency shall be considered to be a reference to a State’s lead agency established or designated under [section 1435(a)(10) of this title][/us/usc/t20/s1435/a/10];
 

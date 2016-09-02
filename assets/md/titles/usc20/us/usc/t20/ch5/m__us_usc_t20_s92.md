@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../..//us/usc/t20/ch5/m__us_usc_t20_s91.md) | [Next](./../../../..//us/usc/t20/ch5/m__us_usc_t20_s93, 94.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs92)
+[Previous](./../../../..//us/usc/t20/ch5/m__us_usc_t20_s91.md) | [Next](./../../../..//us/usc/t20/ch6/m__us_usc_t20_ch6.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs92)
 
 ## § 92. Admissions to marine biological station for pursuit of investigations
 
@@ -39,9 +39,15 @@
 
     Under communication of the Fish and Wildlife Service dated Nov. 12, 1940, it was stated the land on which was situated this station was reconveyed to the Key West Realty Company by quit claim deed executed by the Secretary of Commerce.
 
+§§ 93, 94. __Repealed.__  __[__  __Oct. 31, 1951, ch. 654, § 1(41)__  __][/us/act/1951-10-31/ch654/s1/41]__  __, (42),__  __[__  __65 Stat. 703__  __][/us/stat/65/703]__ 
+
+    Section 93, [act Nov. 19, 1919, ch. 118][/us/act/1919-11-19/ch118], [41 Stat. 360][/us/stat/41/360], which related to sale of machine tools to trade, technical, and public schools and universities, had been transferred to section 1180a of former Title 10, Army and Air Force, and was later repealed by act Oct. 31, 1951.
+
+    Section 94, [act May 26, 1928, ch. 760][/us/act/1928-05-26/ch760], [45 Stat. 753][/us/stat/45/753], which related to transfer of obsolete aeronautical equipment to museums, schools and colleges, had been transferred to section 1180b of former Title 10, Army and Air Force, was later repealed by act Oct. 31, 1951.
+
 ----------
 
-[Previous](./../../../..//us/usc/t20/ch5/m__us_usc_t20_s91.md) | [Next](./../../../..//us/usc/t20/ch5/m__us_usc_t20_s93, 94.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs92)
+[Previous](./../../../..//us/usc/t20/ch5/m__us_usc_t20_s91.md) | [Next](./../../../..//us/usc/t20/ch6/m__us_usc_t20_ch6.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs92)
 
 ----------
 ----------
@@ -59,5 +65,11 @@
 [/us/usc/t16/s742b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs742b
 [/us/act/1929-04-29/ch2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1929-04-29%2Fch2
 [/us/stat/46/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F46%2F2
+[/us/act/1951-10-31/ch654/s1/41]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1951-10-31%2Fch654%2Fs1%2F41
+[/us/stat/65/703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F65%2F703
+[/us/act/1919-11-19/ch118]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1919-11-19%2Fch118
+[/us/stat/41/360]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F41%2F360
+[/us/act/1928-05-26/ch760]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1928-05-26%2Fch760
+[/us/stat/45/753]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F45%2F753
 
 

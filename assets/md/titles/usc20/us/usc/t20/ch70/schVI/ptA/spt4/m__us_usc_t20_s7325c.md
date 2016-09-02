@@ -15,7 +15,7 @@
 
 ## § 7325c. Report to Congress
 
-Beginning with the school year that begins in 2005, the Secretary shall submit an annual report to the Committee on Education and the Workforce of the House of Representatives and the Committee on Health, Education, Labor, and Pensions of the Senate containing the following:
+    Beginning with the school year that begins in 2005, the Secretary shall submit an annual report to the Committee on Education and the Workforce of the House of Representatives and the Committee on Health, Education, Labor, and Pensions of the Senate containing the following:
 
     (1) A list of each State that has not made adequate yearly progress based on the review conducted under [section 7325(1) of this title][/us/usc/t20/s7325/1].
 

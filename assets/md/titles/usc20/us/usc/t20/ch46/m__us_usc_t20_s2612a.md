@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../..//us/usc/t20/ch46/m__us_usc_t20_s2601 to 2612.md) | [Next](./../../../..//us/usc/t20/ch46/m__us_usc_t20_s2613, 2614.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs2612a)
+[Previous](./../../../..//us/usc/t20/ch46/m__us_usc_t20_ch46.md) | [Next](./../../../..//us/usc/t20/ch47/m__us_usc_t20_ch47.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs2612a)
 
 ## § 2612a. Omitted
 
@@ -21,9 +21,15 @@
 
     Section was formerly classified to [section 1865 of this title][/us/usc/t20/s1865].
 
+§§ 2613, 2614. __Repealed.__  __[__  __Pub. L. 97–35, title V, § 587(a)(4)__  __][/us/pl/97/35/s587/a/4]__  __,__  __Aug. 13, 1981__  __,__  __[__  __95 Stat. 480__  __][/us/stat/95/480]__ 
+
+    Section 2613, [Pub. L. 95–207, § 14][/us/pl/95/207/s14], Dec. 13, 1977, [91 Stat. 1472][/us/stat/91/1472]; S. Res. 30, Mar. 7, 1979; [Pub. L. 96–88, title III, § 301(a)(1)][/us/pl/96/88/s301/a/1], title V, § 507, Oct. 17, 1979, [93 Stat. 677][/us/stat/93/677], 692, related to annual State reports to Secretary, and a review and report to Congress by Secretary.
+
+    Section 2614, [Pub. L. 95–207, § 15][/us/pl/95/207/s15], Dec. 13, 1977, [91 Stat. 1473][/us/stat/91/1473]; [Pub. L. 96–88, title III, § 301(a)(1)][/us/pl/96/88/s301/a/1], title V, § 507, Oct. 17, 1979, [93 Stat. 677][/us/stat/93/677], 692, set out definitions for this chapter.
+
 ----------
 
-[Previous](./../../../..//us/usc/t20/ch46/m__us_usc_t20_s2601 to 2612.md) | [Next](./../../../..//us/usc/t20/ch46/m__us_usc_t20_s2613, 2614.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs2612a)
+[Previous](./../../../..//us/usc/t20/ch46/m__us_usc_t20_ch46.md) | [Next](./../../../..//us/usc/t20/ch47/m__us_usc_t20_ch47.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs2612a)
 
 ----------
 ----------
@@ -44,5 +50,15 @@
 [/us/pl/96/88/s413]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F88%2Fs413
 [/us/usc/t20/s3473]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs3473
 [/us/usc/t20/s1865]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1865
+[/us/pl/97/35/s587/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs587%2Fa%2F4
+[/us/stat/95/480]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F480
+[/us/pl/95/207/s14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F207%2Fs14
+[/us/stat/91/1472]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F1472
+[/us/pl/96/88/s301/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F88%2Fs301%2Fa%2F1
+[/us/stat/93/677]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F677
+[/us/pl/95/207/s15]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F207%2Fs15
+[/us/stat/91/1473]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F1473
+[/us/pl/96/88/s301/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F88%2Fs301%2Fa%2F1
+[/us/stat/93/677]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F677
 
 

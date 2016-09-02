@@ -15,7 +15,7 @@
 
 ## § 7102. Purpose
 
-The purpose of this part is to support programs that prevent violence in and around schools; that prevent the illegal use of alcohol, tobacco, and drugs; that involve parents and communities; and that are coordinated with related Federal, State, school, and community efforts and resources to foster a safe and drug-free learning environment that supports student academic achievement, through the provision of Federal assistance to—
+    The purpose of this part is to support programs that prevent violence in and around schools; that prevent the illegal use of alcohol, tobacco, and drugs; that involve parents and communities; and that are coordinated with related Federal, State, school, and community efforts and resources to foster a safe and drug-free learning environment that supports student academic achievement, through the provision of Federal assistance to—
 
     (1) States for grants to local educational agencies and consortia of such agencies to establish, operate, and improve local programs of school drug and violence prevention and early intervention;
 

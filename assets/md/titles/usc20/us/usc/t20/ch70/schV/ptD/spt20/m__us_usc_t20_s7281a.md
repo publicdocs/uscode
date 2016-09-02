@@ -15,7 +15,7 @@
 
 ## § 7281a. Eligibility
 
-A local educational agency is eligible to receive additional assistance under this subpart only if such agency—
+    A local educational agency is eligible to receive additional assistance under this subpart only if such agency—
 
     (1) received a payment under both [section 7702 of this title][/us/usc/t20/s7702] and [section 7703(b) of this title][/us/usc/t20/s7703/b] for fiscal year 1996 and is eligible to receive payments under those sections for the year of application;
 

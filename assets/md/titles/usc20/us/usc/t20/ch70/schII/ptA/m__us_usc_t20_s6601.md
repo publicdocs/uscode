@@ -15,7 +15,7 @@
 
 ## § 6601. Purpose
 
-The purpose of this part is to provide grants to State educational agencies, local educational agencies, State agencies for higher education, and eligible partnerships in order to—
+    The purpose of this part is to provide grants to State educational agencies, local educational agencies, State agencies for higher education, and eligible partnerships in order to—
 
     (1) increase student academic achievement through strategies such as improving teacher and principal quality and increasing the number of highly qualified teachers in the classroom and highly qualified principals and assistant principals in schools; and
 

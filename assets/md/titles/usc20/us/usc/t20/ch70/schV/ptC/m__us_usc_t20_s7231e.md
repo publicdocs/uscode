@@ -15,7 +15,7 @@
 
 ## § 7231e. Priority
 
-In awarding grants under this part, the Secretary shall give priority to applicants that—
+    In awarding grants under this part, the Secretary shall give priority to applicants that—
 
     (1) demonstrate the greatest need for assistance, based on the expense or difficulty of effectively carrying out approved desegregation plans and the magnet school program for which the grant is sought;
 

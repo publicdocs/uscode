@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../../..//us/usc/t20/ch24/schIII/ptC/m__us_usc_t20_s867 to 867c.md) | [Next](./../../../../../..//us/usc/t20/ch24/schIII/ptE/m__us_usc_t20_ch24_schIII_ptE.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs868)
+[Previous](./../../../../../..//us/usc/t20/ch24/schIII/ptC/m__us_usc_t20_ch24_schIII_ptC.md) | [Next](./../../../../../..//us/usc/t20/ch24/schIII/ptE/m__us_usc_t20_ch24_schIII_ptE.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs868)
 
 ## § 868. Omitted
 
@@ -25,7 +25,7 @@
 
 ----------
 
-[Previous](./../../../../../..//us/usc/t20/ch24/schIII/ptC/m__us_usc_t20_s867 to 867c.md) | [Next](./../../../../../..//us/usc/t20/ch24/schIII/ptE/m__us_usc_t20_ch24_schIII_ptE.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs868)
+[Previous](./../../../../../..//us/usc/t20/ch24/schIII/ptC/m__us_usc_t20_ch24_schIII_ptC.md) | [Next](./../../../../../..//us/usc/t20/ch24/schIII/ptE/m__us_usc_t20_ch24_schIII_ptE.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs868)
 
 ----------
 ----------

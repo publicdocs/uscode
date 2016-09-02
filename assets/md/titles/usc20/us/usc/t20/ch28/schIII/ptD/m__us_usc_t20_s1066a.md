@@ -15,7 +15,7 @@
 
 ## § 1066a. Definitions
 
-For the purposes of this part:
+    For the purposes of this part:
 
     (1) The term “eligible institution” means a “part B institution” as that term is defined in [section 1061(2) of this title][/us/usc/t20/s1061/2].
 

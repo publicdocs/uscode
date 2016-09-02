@@ -15,7 +15,7 @@
 
 ## § 907. Applicability of other laws
 
-In the case of any teacher who—
+    In the case of any teacher who—
 
     (1) is performing services as a teacher at the close of a school year,
 
@@ -23,7 +23,7 @@ In the case of any teacher who—
 
     (3) is employed in another position in the recess period immediately preceding such next school year, or, during such recess period, receives quarters, allowances, or additional compensation referred to in sections 905 and 906 of this title, or both, as the case may be,
 
-        [section 5533 of title 5][/us/usc/t5/s5533] shall not apply to such teacher by reason of any such employment during a recess period or any such receipt of quarters, allowances, or additional compensation, or both, as the case may be.
+    [section 5533 of title 5][/us/usc/t5/s5533] shall not apply to such teacher by reason of any such employment during a recess period or any such receipt of quarters, allowances, or additional compensation, or both, as the case may be.
 
 ([Pub. L. 86–91, § 10(b)][/us/pl/86/91/s10/b], July 17, 1959, [73 Stat. 217][/us/stat/73/217]; [Pub. L. 88–448, title IV, § 401(n)][/us/pl/88/448/s401/n], Aug. 19, 1964, [78 Stat. 492][/us/stat/78/492].)
 

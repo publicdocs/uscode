@@ -15,7 +15,7 @@
 
 ## § 1102b. Authorized activities
 
-Grants awarded under this part shall be used for one or more of the following activities:
+    Grants awarded under this part shall be used for one or more of the following activities:
 
     (1) Purchase, rental, or lease of scientific or laboratory equipment for educational purposes, including instructional and research purposes.
 

@@ -15,7 +15,7 @@
 
 ## § 6602. Definitions
 
-In this part:
+    In this part:
 
     (1) __Arts and sciences__ 
 

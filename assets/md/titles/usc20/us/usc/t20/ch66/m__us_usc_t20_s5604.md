@@ -15,7 +15,7 @@
 
 ## § 5604. Purpose of Foundation
 
-It is the purpose of the Foundation to—
+    It is the purpose of the Foundation to—
 
     (1) increase awareness of the importance of and promote the benefit and enjoyment of the Nation’s natural resources;
 

@@ -15,7 +15,7 @@
 
 ## § 5201. Purposes
 
-The purposes of this chapter are—
+    The purposes of this chapter are—
 
     (1) to provide a permanent endowment for the Eisenhower Exchange Fellowship Program;
 

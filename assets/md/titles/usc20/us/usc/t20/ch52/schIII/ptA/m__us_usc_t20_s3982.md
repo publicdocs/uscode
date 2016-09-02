@@ -15,7 +15,7 @@
 
 ## § 3982. Definitions
 
-As used in this part—
+    As used in this part—
 
     (1) the term “applicant” means with respect to activities described in [section 3984(a) of this title][/us/usc/t20/s3984/a] an institution of higher education and the other participants described in paragraph (3) of [section 3984(a) of this title][/us/usc/t20/s3984/a], and with respect to activities described in [section 3984(b) of this title][/us/usc/t20/s3984/b] a local educational agency and the other participants described in paragraph (3) of [section 3984(b) of this title][/us/usc/t20/s3984/b];
 

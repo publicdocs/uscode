@@ -15,7 +15,7 @@
 
 ## § 6366. National activities
 
-From funds reserved under [section 6362(b)(1)(C) of this title][/us/usc/t20/s6362/b/1/C], the Secretary—
+    From funds reserved under [section 6362(b)(1)(C) of this title][/us/usc/t20/s6362/b/1/C], the Secretary—
 
     (1) may provide technical assistance in achieving the purposes of this subpart to State educational agencies, local educational agencies, and schools requesting such assistance;
 

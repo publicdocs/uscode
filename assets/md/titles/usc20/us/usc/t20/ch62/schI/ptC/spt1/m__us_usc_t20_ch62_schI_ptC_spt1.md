@@ -11,16 +11,50 @@
 ----------
 ----------
 
-[Previous](./../../../../../../..//us/usc/t20/ch62/schI/ptC/m__us_usc_t20_ch62_schI_ptC.md) | [Next](./../../../../../../..//us/usc/t20/ch62/schI/ptC/spt1/m__us_usc_t20_s5051 to 5057.md) | [Root of Title](./../../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fch62%2FschI%2FptC%2Fspt1)
+[Previous](./../../../../../../..//us/usc/t20/ch62/schI/ptC/m__us_usc_t20_ch62_schI_ptC.md) | [Next](./../../../../../../..//us/usc/t20/ch62/schI/ptC/spt2/m__us_usc_t20_ch62_schI_ptC_spt2.md) | [Root of Title](./../../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fch62%2FschI%2FptC%2Fspt1)
 
 ##### subpart 1—assistance to address school dropout problems
 
+§§ 5051 to 5057. __Repealed.__  __[__  __Pub. L. 103–382, title III, § 391(i)__  __][/us/pl/103/382/s391/i]__  __,__  __Oct. 20, 1994__  __,__  __[__  __108 Stat. 4023__  __][/us/stat/108/4023]__ 
+
+    Section 5051, [Pub. L. 100–418, title VI, § 6061][/us/pl/100/418/s6061], Aug. 23, 1988, [102 Stat. 1491][/us/stat/102/1491], provided that this subpart could be cited as the “School Dropout Demonstration Assistance Act of 1988”.
+
+    Section 5052, [Pub. L. 100–418, title VI, § 6062][/us/pl/100/418/s6062], Aug. 23, 1988, [102 Stat. 1491][/us/stat/102/1491], stated purpose of this subpart.
+
+    Section 5053, [Pub. L. 100–418, title VI, § 6063][/us/pl/100/418/s6063], Aug. 23, 1988, [102 Stat. 1491][/us/stat/102/1491], authorized appropriations.
+
+    Section 5054, [Pub. L. 100–418, title VI, § 6064][/us/pl/100/418/s6064], Aug. 23, 1988, [102 Stat. 1491][/us/stat/102/1491], related to allotment of grants to local educational agencies.
+
+    Section 5055, [Pub. L. 100–418, title VI, § 6065][/us/pl/100/418/s6065], Aug. 23, 1988, [102 Stat. 1493][/us/stat/102/1493], related to applications for grants.
+
+    Section 5056, [Pub. L. 100–418, title VI, § 6066][/us/pl/100/418/s6066], Aug. 23, 1988, [102 Stat. 1494][/us/stat/102/1494], related to activities for which grants could be used.
+
+    Section 5057, [Pub. L. 100–418, title VI, § 6067][/us/pl/100/418/s6067], Aug. 23, 1988, [102 Stat. 1495][/us/stat/102/1495], related to distribution of assistance and limitation on costs.
+
+    For similar provisions, see section 7261 et seq. of this title.
+
 ----------
 
-[Previous](./../../../../../../..//us/usc/t20/ch62/schI/ptC/m__us_usc_t20_ch62_schI_ptC.md) | [Next](./../../../../../../..//us/usc/t20/ch62/schI/ptC/spt1/m__us_usc_t20_s5051 to 5057.md) | [Root of Title](./../../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fch62%2FschI%2FptC%2Fspt1)
+[Previous](./../../../../../../..//us/usc/t20/ch62/schI/ptC/m__us_usc_t20_ch62_schI_ptC.md) | [Next](./../../../../../../..//us/usc/t20/ch62/schI/ptC/spt2/m__us_usc_t20_ch62_schI_ptC_spt2.md) | [Root of Title](./../../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fch62%2FschI%2FptC%2Fspt1)
 
 ----------
 ----------
 
+[/us/pl/103/382/s391/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F382%2Fs391%2Fi
+[/us/stat/108/4023]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4023
+[/us/pl/100/418/s6061]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2Fs6061
+[/us/stat/102/1491]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1491
+[/us/pl/100/418/s6062]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2Fs6062
+[/us/stat/102/1491]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1491
+[/us/pl/100/418/s6063]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2Fs6063
+[/us/stat/102/1491]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1491
+[/us/pl/100/418/s6064]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2Fs6064
+[/us/stat/102/1491]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1491
+[/us/pl/100/418/s6065]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2Fs6065
+[/us/stat/102/1493]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1493
+[/us/pl/100/418/s6066]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2Fs6066
+[/us/stat/102/1494]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1494
+[/us/pl/100/418/s6067]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2Fs6067
+[/us/stat/102/1495]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1495
 
 

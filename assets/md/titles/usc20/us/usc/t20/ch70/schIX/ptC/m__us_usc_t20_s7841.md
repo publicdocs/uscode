@@ -15,7 +15,7 @@
 
 ## § 7841. Purposes
 
-The purposes of this part are—
+    The purposes of this part are—
 
     (1) to improve teaching and learning by encouraging greater cross-program coordination, planning, and service delivery;
 

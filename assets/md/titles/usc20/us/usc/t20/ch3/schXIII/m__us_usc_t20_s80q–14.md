@@ -15,7 +15,7 @@
 
 ## § 80q–14. Definitions
 
-As used in this subchapter—
+    As used in this subchapter—
 
     (1) the term “Board of Regents” means the Board of Regents of the Smithsonian Institution;
 

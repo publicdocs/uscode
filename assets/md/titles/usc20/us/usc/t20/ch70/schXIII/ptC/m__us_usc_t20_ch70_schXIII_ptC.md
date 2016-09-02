@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../../..//us/usc/t20/ch70/schXIII/ptB/m__us_usc_t20_s8651, 8652.md) | [Next](./../../../../../..//us/usc/t20/ch70/schXIII/ptC/m__us_usc_t20_s8671 to 8678.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fch70%2FschXIII%2FptC)
+[Previous](./../../../../../..//us/usc/t20/ch70/schXIII/ptB/m__us_usc_t20_ch70_schXIII_ptB.md) | [Next](./../../../../../..//us/usc/t20/ch70/schXIII/ptD/m__us_usc_t20_ch70_schXIII_ptD.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fch70%2FschXIII%2FptC)
 
 #### Part C—Eisenhower Regional Mathematics and Science Education Consortia
 
@@ -19,9 +19,29 @@
 
     Part C of title XIII of [Pub. L. 89–10][/us/pl/89/10], comprising this part, was renumbered part M of title IX of [Pub. L. 103–227][/us/pl/103/227], the Educational Research, Development, Dissemination, and Improvement Act of 1994, by [Pub. L. 107–110, title X, § 1023(a)][/us/pl/107/110/s1023/a], Jan. 8, 2002, [115 Stat. 1987][/us/stat/115/1987], transferred to part I (§ 6055 et seq.) of subchapter IX of chapter 68 of this title, and subsequently repealed.
 
+§§ 8671 to 8678. __Transferred__ 
+
+ __Codification__ 
+
+    Section 8671, [Pub. L. 89–10, title XIII, § 13301][/us/pl/89/10/s13301], as added [Pub. L. 103–382, title I, § 101][/us/pl/103/382/s101], Oct. 20, 1994, [108 Stat. 3882][/us/stat/108/3882], which established regional mathematics and science education consortia program, was renumbered section 1021 of the Educational Research, Development, Dissemination, and Improvement Act of 1994 by [Pub. L. 107–110, title X, § 1023(a)][/us/pl/107/110/s1023/a], (b), Jan. 8, 2002, [115 Stat. 1987][/us/stat/115/1987], transferred to [section 6055 of this title][/us/usc/t20/s6055], and subsequently repealed.
+
+    Section 8672, [Pub. L. 89–10, title XIII, § 13302][/us/pl/89/10/s13302], as added [Pub. L. 103–382, title I, § 101][/us/pl/103/382/s101], Oct. 20, 1994, [108 Stat. 3883][/us/stat/108/3883], which related to use of funds, was renumbered section 1022 of the Educational Research, Development, Dissemination, and Improvement Act of 1994 by [Pub. L. 107–110, title X, § 1023(a)][/us/pl/107/110/s1023/a], (b), Jan. 8, 2002, [115 Stat. 1987][/us/stat/115/1987], transferred to [section 6055a of this title][/us/usc/t20/s6055a], and subsequently repealed.
+
+    Section 8673, [Pub. L. 89–10, title XIII, § 13303][/us/pl/89/10/s13303], as added [Pub. L. 103–382, title I, § 101][/us/pl/103/382/s101], Oct. 20, 1994, [108 Stat. 3884][/us/stat/108/3884], which related to application and review, was renumbered section 1023 of the Educational Research, Development, Dissemination, and Improvement Act of 1994 by [Pub. L. 107–110, title X, § 1023(a)][/us/pl/107/110/s1023/a], (b), Jan. 8, 2002, [115 Stat. 1987][/us/stat/115/1987], transferred to [section 6055b of this title][/us/usc/t20/s6055b], and subsequently repealed.
+
+    Section 8674, [Pub. L. 89–10, title XIII, § 13304][/us/pl/89/10/s13304], as added [Pub. L. 103–382, title I, § 101][/us/pl/103/382/s101], Oct. 20, 1994, [108 Stat. 3885][/us/stat/108/3885], which directed the establishment of regional boards, was renumbered section 1024 of the Educational Research, Development, Dissemination, and Improvement Act of 1994 by [Pub. L. 107–110, title X, § 1023(a)][/us/pl/107/110/s1023/a], (b), Jan. 8, 2002, [115 Stat. 1987][/us/stat/115/1987], transferred to [section 6055c of this title][/us/usc/t20/s6055c], and subsequently repealed.
+
+    Section 8675, [Pub. L. 89–10, title XIII, § 13305][/us/pl/89/10/s13305], as added [Pub. L. 103–382, title I, § 101][/us/pl/103/382/s101], Oct. 20, 1994, [108 Stat. 3885][/us/stat/108/3885], which authorized payments and described Federal and non-Federal shares, was renumbered section 1025 of the Educational Research, Development, Dissemination, and Improvement Act of 1994 by [Pub. L. 107–110, title X, § 1023(a)][/us/pl/107/110/s1023/a], (b), Jan. 8, 2002, [115 Stat. 1987][/us/stat/115/1987], transferred to [section 6055d of this title][/us/usc/t20/s6055d], and subsequently repealed.
+
+    Section 8676, [Pub. L. 89–10, title XIII, § 13306][/us/pl/89/10/s13306], as added [Pub. L. 103–382, title I, § 101][/us/pl/103/382/s101], Oct. 20, 1994, [108 Stat. 3885][/us/stat/108/3885], which required evaluation of regional consortia, was renumbered section 1026 of the Educational Research, Development, Dissemination, and Improvement Act of 1994 by [Pub. L. 107–110, title X, § 1023(a)][/us/pl/107/110/s1023/a], (b), Jan. 8, 2002, [115 Stat. 1987][/us/stat/115/1987], transferred to [section 6055e of this title][/us/usc/t20/s6055e], and subsequently repealed.
+
+    Section 8677, [Pub. L. 89–10, title XIII, § 13307][/us/pl/89/10/s13307], as added [Pub. L. 103–382, title I, § 101][/us/pl/103/382/s101], Oct. 20, 1994, [108 Stat. 3886][/us/stat/108/3886], which defined terms, was renumbered section 1027 of the Educational Research, Development, Dissemination, and Improvement Act of 1994 by [Pub. L. 107–110, title X, § 1023(a)][/us/pl/107/110/s1023/a], (b), Jan. 8, 2002, [115 Stat. 1987][/us/stat/115/1987], transferred to [section 6055f of this title][/us/usc/t20/s6055f], and subsequently repealed.
+
+    Section 8678, [Pub. L. 89–10, title XIII, § 13308][/us/pl/89/10/s13308], as added [Pub. L. 103–382, title I, § 101][/us/pl/103/382/s101], Oct. 20, 1994, [108 Stat. 3886][/us/stat/108/3886], which authorized appropriations, was renumbered section 1028 of the Educational Research, Development, Dissemination, and Improvement Act of 1994 by [Pub. L. 107–110, title X, § 1023(a)][/us/pl/107/110/s1023/a], (b), Jan. 8, 2002, [115 Stat. 1987][/us/stat/115/1987], transferred to [section 6055g of this title][/us/usc/t20/s6055g], and subsequently repealed.
+
 ----------
 
-[Previous](./../../../../../..//us/usc/t20/ch70/schXIII/ptB/m__us_usc_t20_s8651, 8652.md) | [Next](./../../../../../..//us/usc/t20/ch70/schXIII/ptC/m__us_usc_t20_s8671 to 8678.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fch70%2FschXIII%2FptC)
+[Previous](./../../../../../..//us/usc/t20/ch70/schXIII/ptB/m__us_usc_t20_ch70_schXIII_ptB.md) | [Next](./../../../../../..//us/usc/t20/ch70/schXIII/ptD/m__us_usc_t20_ch70_schXIII_ptD.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fch70%2FschXIII%2FptC)
 
 ----------
 ----------
@@ -30,5 +50,53 @@
 [/us/pl/103/227]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F227
 [/us/pl/107/110/s1023/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F110%2Fs1023%2Fa
 [/us/stat/115/1987]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F1987
+[/us/pl/89/10/s13301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F10%2Fs13301
+[/us/pl/103/382/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F382%2Fs101
+[/us/stat/108/3882]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3882
+[/us/pl/107/110/s1023/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F110%2Fs1023%2Fa
+[/us/stat/115/1987]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F1987
+[/us/usc/t20/s6055]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs6055
+[/us/pl/89/10/s13302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F10%2Fs13302
+[/us/pl/103/382/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F382%2Fs101
+[/us/stat/108/3883]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3883
+[/us/pl/107/110/s1023/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F110%2Fs1023%2Fa
+[/us/stat/115/1987]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F1987
+[/us/usc/t20/s6055a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs6055a
+[/us/pl/89/10/s13303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F10%2Fs13303
+[/us/pl/103/382/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F382%2Fs101
+[/us/stat/108/3884]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3884
+[/us/pl/107/110/s1023/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F110%2Fs1023%2Fa
+[/us/stat/115/1987]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F1987
+[/us/usc/t20/s6055b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs6055b
+[/us/pl/89/10/s13304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F10%2Fs13304
+[/us/pl/103/382/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F382%2Fs101
+[/us/stat/108/3885]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3885
+[/us/pl/107/110/s1023/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F110%2Fs1023%2Fa
+[/us/stat/115/1987]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F1987
+[/us/usc/t20/s6055c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs6055c
+[/us/pl/89/10/s13305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F10%2Fs13305
+[/us/pl/103/382/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F382%2Fs101
+[/us/stat/108/3885]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3885
+[/us/pl/107/110/s1023/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F110%2Fs1023%2Fa
+[/us/stat/115/1987]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F1987
+[/us/usc/t20/s6055d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs6055d
+[/us/pl/89/10/s13306]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F10%2Fs13306
+[/us/pl/103/382/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F382%2Fs101
+[/us/stat/108/3885]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3885
+[/us/pl/107/110/s1023/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F110%2Fs1023%2Fa
+[/us/stat/115/1987]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F1987
+[/us/usc/t20/s6055e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs6055e
+[/us/pl/89/10/s13307]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F10%2Fs13307
+[/us/pl/103/382/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F382%2Fs101
+[/us/stat/108/3886]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3886
+[/us/pl/107/110/s1023/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F110%2Fs1023%2Fa
+[/us/stat/115/1987]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F1987
+[/us/usc/t20/s6055f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs6055f
+[/us/pl/89/10/s13308]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F10%2Fs13308
+[/us/pl/103/382/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F382%2Fs101
+[/us/stat/108/3886]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3886
+[/us/pl/107/110/s1023/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F110%2Fs1023%2Fa
+[/us/stat/115/1987]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F1987
+[/us/usc/t20/s6055g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs6055g
 
 

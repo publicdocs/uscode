@@ -11,13 +11,13 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t20/ch69/schVI/m__us_usc_t20_s6231 to 6235.md) | [Next](./../../../../..//us/usc/t20/ch69/schVII/m__us_usc_t20_s6251.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fch69%2FschVII)
+[Previous](./../../../../..//us/usc/t20/ch69/schVI/m__us_usc_t20_ch69_schVI.md) | [Next](./../../../../..//us/usc/t20/ch69/schVII/m__us_usc_t20_s6251.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fch69%2FschVII)
 
 ### SUBCHAPTER VII—TECHNICAL PROVISIONS
 
 ----------
 
-[Previous](./../../../../..//us/usc/t20/ch69/schVI/m__us_usc_t20_s6231 to 6235.md) | [Next](./../../../../..//us/usc/t20/ch69/schVII/m__us_usc_t20_s6251.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fch69%2FschVII)
+[Previous](./../../../../..//us/usc/t20/ch69/schVI/m__us_usc_t20_ch69_schVI.md) | [Next](./../../../../..//us/usc/t20/ch69/schVII/m__us_usc_t20_s6251.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fch69%2FschVII)
 
 ----------
 ----------

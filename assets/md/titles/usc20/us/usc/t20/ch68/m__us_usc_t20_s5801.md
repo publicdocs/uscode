@@ -15,7 +15,7 @@
 
 ## § 5801. Purpose
 
-The purpose of this chapter is to provide a framework for meeting the National Education Goals established by subchapter I of this chapter by—
+    The purpose of this chapter is to provide a framework for meeting the National Education Goals established by subchapter I of this chapter by—
 
     (1) promoting coherent, nationwide, systemic education reform;
 

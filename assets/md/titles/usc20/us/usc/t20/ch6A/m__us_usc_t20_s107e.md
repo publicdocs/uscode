@@ -15,7 +15,7 @@
 
 ## § 107e. Definitions
 
-As used in this chapter—
+    As used in this chapter—
 
     (1) “blind person” means a person whose central visual acuity does not exceed 20/200 in the better eye with correcting lenses or whose visual acuity, if better than 20/200, is accompanied by a limit to the field of vision in the better eye to such a degree that its widest diameter subtends an angle of no greater than twenty degrees. In determining whether an individual is blind, there shall be an examination by a physician skilled in diseases of the eye, or by an optometrist, whichever the individual shall select;
 

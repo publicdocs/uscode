@@ -15,7 +15,7 @@
 
 ## § 6361. Purposes
 
-The purposes of this subpart are as follows:
+    The purposes of this subpart are as follows:
 
     (1) To provide assistance to State educational agencies and local educational agencies in establishing reading programs for students in kindergarten through grade 3 that are based on scientifically based reading research, to ensure that every student can read at grade level or above not later than the end of grade 3.
 

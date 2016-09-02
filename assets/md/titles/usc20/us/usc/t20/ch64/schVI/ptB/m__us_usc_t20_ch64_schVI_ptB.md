@@ -11,13 +11,13 @@
 ----------
 ----------
 
-[Previous](./../../../../../..//us/usc/t20/ch64/schVI/ptA/m__us_usc_t20_s5381 to 5386.md) | [Next](./../../../../../..//us/usc/t20/ch64/schVI/ptB/m__us_usc_t20_s5401.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fch64%2FschVI%2FptB)
+[Previous](./../../../../../..//us/usc/t20/ch64/schVI/ptA/m__us_usc_t20_ch64_schVI_ptA.md) | [Next](./../../../../../..//us/usc/t20/ch64/schVI/ptB/m__us_usc_t20_s5401.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fch64%2FschVI%2FptB)
 
 #### Part B—Robert Noyce Scholarships
 
 ----------
 
-[Previous](./../../../../../..//us/usc/t20/ch64/schVI/ptA/m__us_usc_t20_s5381 to 5386.md) | [Next](./../../../../../..//us/usc/t20/ch64/schVI/ptB/m__us_usc_t20_s5401.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fch64%2FschVI%2FptB)
+[Previous](./../../../../../..//us/usc/t20/ch64/schVI/ptA/m__us_usc_t20_ch64_schVI_ptA.md) | [Next](./../../../../../..//us/usc/t20/ch64/schVI/ptB/m__us_usc_t20_s5401.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fch64%2FschVI%2FptB)
 
 ----------
 ----------

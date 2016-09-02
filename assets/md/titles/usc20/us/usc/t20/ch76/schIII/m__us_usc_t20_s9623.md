@@ -15,7 +15,7 @@
 
 ## § 9623. Definitions
 
-In this subchapter:
+    In this subchapter:
 
     (1) The term “Director” means the Director of the Institute of Education Sciences.
 

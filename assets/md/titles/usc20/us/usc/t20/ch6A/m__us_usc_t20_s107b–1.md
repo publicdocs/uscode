@@ -15,7 +15,7 @@
 
 ## § 107b–1. Access to information with State licensing agencies; election and responsibilities of Committee of Blind Vendors
 
-In addition to other requirements imposed in this title and in this chapter upon State licensing agencies, such agencies shall—
+    In addition to other requirements imposed in this title and in this chapter upon State licensing agencies, such agencies shall—
 
     (1) provide to each blind licensee access to all relevant financial data, including quarterly and annual financial reports, on the operation of the State vending facility program;
 

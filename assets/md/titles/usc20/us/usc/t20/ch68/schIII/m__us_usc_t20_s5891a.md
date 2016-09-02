@@ -11,11 +11,11 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t20/ch68/schIII/m__us_usc_t20_s5881 to 5891.md) | [Next](./../../../../..//us/usc/t20/ch68/schIII/m__us_usc_t20_s5891b.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs5891a)
+[Previous](./../../../../..//us/usc/t20/ch68/schIII/m__us_usc_t20_ch68_schIII.md) | [Next](./../../../../..//us/usc/t20/ch68/schIII/m__us_usc_t20_s5891b.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs5891a)
 
 ## § 5891a. Definitions
 
-In this Act:
+    In this Act:
 
     (1) __Local educational agency; State educational agency; outlying area__ 
 
@@ -73,7 +73,7 @@ Section was enacted as part of the Education Flexibility Partnership Act of 1999
 
 ----------
 
-[Previous](./../../../../..//us/usc/t20/ch68/schIII/m__us_usc_t20_s5881 to 5891.md) | [Next](./../../../../..//us/usc/t20/ch68/schIII/m__us_usc_t20_s5891b.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs5891a)
+[Previous](./../../../../..//us/usc/t20/ch68/schIII/m__us_usc_t20_ch68_schIII.md) | [Next](./../../../../..//us/usc/t20/ch68/schIII/m__us_usc_t20_s5891b.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs5891a)
 
 ----------
 ----------

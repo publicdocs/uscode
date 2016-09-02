@@ -15,7 +15,7 @@
 
 ## § 1060. Findings and purposes
 
-The Congress finds that—
+    The Congress finds that—
 
     (1) the historically Black colleges and universities have contributed significantly to the effort to attain equal opportunity through postsecondary education for Black, low-income, and educationally disadvantaged Americans;
 

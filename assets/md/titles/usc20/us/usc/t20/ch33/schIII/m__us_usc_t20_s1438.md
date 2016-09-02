@@ -15,7 +15,7 @@
 
 ## § 1438. Uses of funds
 
-In addition to using funds provided under [section 1433 of this title][/us/usc/t20/s1433] to maintain and implement the statewide system required by such section, a State may use such funds—
+    In addition to using funds provided under [section 1433 of this title][/us/usc/t20/s1433] to maintain and implement the statewide system required by such section, a State may use such funds—
 
     (1) for direct early intervention services for infants and toddlers with disabilities, and their families, under this subchapter that are not otherwise funded through other public or private sources;
 

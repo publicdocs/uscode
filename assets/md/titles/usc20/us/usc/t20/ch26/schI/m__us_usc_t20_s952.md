@@ -15,7 +15,7 @@
 
 ## § 952. Definitions
 
-As used in this subchapter—
+    As used in this subchapter—
 
     (a) The term “humanities” includes, but is not limited to, the study and interpretation of the following: language, both modern and classical; linguistics; literature; history; jurisprudence; philosophy; archeology; comparative religion; ethics; the history, criticism, and theory of the arts; those aspects of the social sciences which have humanistic content and employ humanistic methods; and the study and application of the humanities to the human environment with particular attention to reflecting our diverse heritage, traditions, and history and to the relevance of the humanities to the current conditions of national life.
 

@@ -15,7 +15,7 @@
 
 ## § 9404. Authorization and appropriation of funds
 
-There are authorized to be appropriated to the Department of Health and Human Services to carry out this chapter—
+    There are authorized to be appropriated to the Department of Health and Human Services to carry out this chapter—
 
     (1) $750,000,000 for fiscal year 2001;
 
