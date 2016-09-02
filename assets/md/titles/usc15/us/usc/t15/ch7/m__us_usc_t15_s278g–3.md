@@ -21,7 +21,7 @@
 
         (1) have the mission of developing standards, guidelines, and associated methods and techniques for information systems;
 
-        (2) develop standards and guidelines, including minimum requirements, for information systems used or operated by an agency or by a contractor of an agency or other organization on behalf of an agency, other than national security systems (as defined in [section 3532(b)(2) of title 44][/us/usc/t44/s3532/b/2]);
+        (2) develop standards and guidelines, including minimum requirements, for information systems used or operated by an agency or by a contractor of an agency or other organization on behalf of an agency, other than national security systems (as defined in section 3552(b)(5)  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be “3552(b)(6)”. </sup></sup>  of title 44);
 
         (3) develop standards and guidelines, including minimum requirements, for providing adequate information security for all agency operations and assets, but such standards and guidelines shall not apply to national security systems; and
 
@@ -103,25 +103,41 @@
 
         (9) prepare an annual public report on activities undertaken in the previous year, and planned for the coming year, to carry out responsibilities under this section.
 
-    (e) __Definitions__ 
+    (e) __Intramural security research__ 
+
+    As part of the research activities conducted in accordance with subsection (d)(3), the Institute shall, to the extent practicable and appropriate—
+
+        (1) conduct a research program to develop a unifying and standardized identity, privilege, and access control management framework for the execution of a wide variety of resource protection policies and that is amenable to implementation within a wide variety of existing and emerging computing environments;
+
+        (2) carry out research associated with improving the security of information systems and networks;
+
+        (3) carry out research associated with improving the testing, measurement, usability, and assurance of information systems and networks;
+
+        (4) carry out research associated with improving security of industrial control systems;
+
+        (5) carry out research associated with improving the security and integrity of the information technology supply chain; and
+
+        (6) carry out any additional research the Institute determines appropriate.
+
+    (f) __Definitions__ 
 
     As used in this section—
 
         (1) the term “agency” has the same meaning as provided in [section 3502(1) of title 44][/us/usc/t44/s3502/1];
 
-        (2) the term “information security” has the same meaning as provided in section 3532(1) of such title;
+        (2) the term “information security” has the same meaning as provided in section 3552(b)(2)  <sup>\[2\]</sup>  <sup><sup> 2 So in original. Probably should be “3552(b)(3)”. </sup></sup>  of such title;
 
         (3) the term “information system” has the same meaning as provided in section 3502(8) of such title;
 
         (4) the term “information technology” has the same meaning as provided in [section 11101 of title 40][/us/usc/t40/s11101]; and
 
-        (5) the term “national security system” has the same meaning as provided in section 3532(b)(2) of such title. <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup> 
+        (5) the term “national security system” has the same meaning as provided in section 3552(b)(5) of such title. <sup>\[3\]</sup>  <sup><sup> 3 See References in Text note below. </sup></sup> 
 
-([Mar. 3, 1901, ch. 872, § 20][/us/act/1901-03-03/ch872/s20], as added [Pub. L. 100–235, § 3(2)][/us/pl/100/235/s3/2], Jan. 8, 1988, [101 Stat. 1724][/us/stat/101/1724]; amended [Pub. L. 100–418, title V, § 5115(a)(1)][/us/pl/100/418/s5115/a/1], Aug. 23, 1988, [102 Stat. 1433][/us/stat/102/1433]; [Pub. L. 104–106, div. E, title LVI, § 5607(a)][/us/pl/104/106/s5607/a], Feb. 10, 1996, [110 Stat. 701][/us/stat/110/701]; [Pub. L. 105–85, div. A, title X, § 1073(h)(1)][/us/pl/105/85/s1073/h/1], Nov. 18, 1997, [111 Stat. 1906][/us/stat/111/1906]; [Pub. L. 107–296, title X, § 1003][/us/pl/107/296/s1003], Nov. 25, 2002, [116 Stat. 2269][/us/stat/116/2269]; [Pub. L. 107–305][/us/pl/107/305], §§ 8(b), 9, 10, Nov. 27, 2002, [116 Stat. 2378][/us/stat/116/2378], 2379; [Pub. L. 107–347, title III, § 303][/us/pl/107/347/s303], Dec. 17, 2002, [116 Stat. 2957][/us/stat/116/2957]; [Pub. L. 108–271, § 8(b)][/us/pl/108/271/s8/b], July 7, 2004, [118 Stat. 814][/us/stat/118/814].)
+([Mar. 3, 1901, ch. 872, § 20][/us/act/1901-03-03/ch872/s20], as added [Pub. L. 100–235, § 3(2)][/us/pl/100/235/s3/2], Jan. 8, 1988, [101 Stat. 1724][/us/stat/101/1724]; amended [Pub. L. 100–418, title V, § 5115(a)(1)][/us/pl/100/418/s5115/a/1], Aug. 23, 1988, [102 Stat. 1433][/us/stat/102/1433]; [Pub. L. 104–106, div. E, title LVI, § 5607(a)][/us/pl/104/106/s5607/a], Feb. 10, 1996, [110 Stat. 701][/us/stat/110/701]; [Pub. L. 105–85, div. A, title X, § 1073(h)(1)][/us/pl/105/85/s1073/h/1], Nov. 18, 1997, [111 Stat. 1906][/us/stat/111/1906]; [Pub. L. 107–296, title X, § 1003][/us/pl/107/296/s1003], Nov. 25, 2002, [116 Stat. 2269][/us/stat/116/2269]; [Pub. L. 107–305][/us/pl/107/305], §§ 8(b), 9, 10, Nov. 27, 2002, [116 Stat. 2378][/us/stat/116/2378], 2379; [Pub. L. 107–347, title III, § 303][/us/pl/107/347/s303], Dec. 17, 2002, [116 Stat. 2957][/us/stat/116/2957]; [Pub. L. 108–271, § 8(b)][/us/pl/108/271/s8/b], July 7, 2004, [118 Stat. 814][/us/stat/118/814]; [Pub. L. 113–274, title II, § 204][/us/pl/113/274/s204], Dec. 18, 2014, [128 Stat. 2980][/us/stat/128/2980]; [Pub. L. 113–283, § 2(e)(4)][/us/pl/113/283/s2/e/4], Dec. 18, 2014, [128 Stat. 3087][/us/stat/128/3087].)
 
  __References in Text__ 
 
-    Section 3532(b)(2) of such title, referred to in subsec. (e)(5), probably means [section 3532(b)(2) of title 44][/us/usc/t44/s3532/b/2].
+    Section 3552(b)(5) of such title, referred to in subsec. (e)(5), probably should be [section 3552(b)(6) of title 44][/us/usc/t44/s3552/b/6].
 
  __Codification__ 
 
@@ -132,6 +148,14 @@
     A prior section 20 of [act Mar. 3, 1901, ch. 872][/us/act/1901-03-03/ch872], was renumbered section 32 and is classified to [section 278q of this title][/us/usc/t15/s278q].
 
  __Amendments__ 
+
+    2014—Subsec. (a)(2). [Pub. L. 113–283, § 2(e)(4)(A)][/us/pl/113/283/s2/e/4/A], substituted “section 3552(b)(5)” for “section 3532(b)(2)”.
+
+    Subsec. (e). [Pub. L. 113–274, § 204(2)][/us/pl/113/274/s204/2], added subsec. (e). Former subsec. (e) redesignated (f).
+
+    Subsec. (f). [Pub. L. 113–283, § 2(e)(4)(B)][/us/pl/113/283/s2/e/4/B], which directed amendment of subsec. (e) by substituting “section 3552(b)(2)” for “section 3532(1)” in par. (2) and “section 3552(b)(5)” for “section 3532(b)(2)” in par. (5), was executed to pars. (2) and (5), respectively, of subsec. (f), to reflect the probable intent of Congress and the redesignation of subsec. (e) as (f) by [Pub. L. 113–274, § 204(1)][/us/pl/113/274/s204/1]. See below.
+
+    [Pub. L. 113–274, § 204(1)][/us/pl/113/274/s204/1], redesignated subsec. (e) as (f).
 
     2004—Subsec. (c)(1). [Pub. L. 108–271][/us/pl/108/271] substituted “Government Accountability Office” for “General Accounting Office”.
 
@@ -331,7 +355,7 @@
 
  __Effective Date of 2002 Amendments__ 
 
-    Amendment by [Pub. L. 107–347][/us/pl/107/347] effective Dec. 17, 2002, see [section 402(b) of Pub. L. 107–347][/us/pl/107/347/s402/b], set out as an Effective Date note under [section 3541 of Title 44][/us/usc/t44/s3541], Public Printing and Documents.
+    Amendment by [Pub. L. 107–347][/us/pl/107/347] effective Dec. 17, 2002, see [section 402(b) of Pub. L. 107–347][/us/pl/107/347/s402/b], set out as a note under [section 3504 of Title 44][/us/usc/t44/s3504], Public Printing and Documents.
 
     Amendment by [Pub. L. 107–296][/us/pl/107/296] effective 60 days after Nov. 25, 2002, see [section 4 of Pub. L. 107–296][/us/pl/107/296/s4], set out as an Effective Date note under [section 101 of Title 6][/us/usc/t6/s101], Domestic Security.
 
@@ -346,7 +370,6 @@
 ----------
 ----------
 
-[/us/usc/t44/s3532/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft44%2Fs3532%2Fb%2F2
 [/us/usc/t40/s11331]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft40%2Fs11331
 [/us/usc/t40/s11331]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft40%2Fs11331
 [/us/usc/t15/s278g–4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs278g%E2%80%934
@@ -369,10 +392,19 @@
 [/us/stat/116/2957]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2957
 [/us/pl/108/271/s8/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F271%2Fs8%2Fb
 [/us/stat/118/814]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F814
-[/us/usc/t44/s3532/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft44%2Fs3532%2Fb%2F2
+[/us/pl/113/274/s204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F274%2Fs204
+[/us/stat/128/2980]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2980
+[/us/pl/113/283/s2/e/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F283%2Fs2%2Fe%2F4
+[/us/stat/128/3087]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3087
+[/us/usc/t44/s3552/b/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft44%2Fs3552%2Fb%2F6
 [/us/pl/107/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296
 [/us/act/1901-03-03/ch872]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1901-03-03%2Fch872
 [/us/usc/t15/s278q]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs278q
+[/us/pl/113/283/s2/e/4/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F283%2Fs2%2Fe%2F4%2FA
+[/us/pl/113/274/s204/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F274%2Fs204%2F2
+[/us/pl/113/283/s2/e/4/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F283%2Fs2%2Fe%2F4%2FB
+[/us/pl/113/274/s204/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F274%2Fs204%2F1
+[/us/pl/113/274/s204/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F274%2Fs204%2F1
 [/us/pl/108/271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F271
 [/us/pl/107/347]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F347
 [/us/usc/t10/s2315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2315
@@ -417,7 +449,7 @@
 [/us/pl/100/418]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418
 [/us/pl/107/347]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F347
 [/us/pl/107/347/s402/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F347%2Fs402%2Fb
-[/us/usc/t44/s3541]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft44%2Fs3541
+[/us/usc/t44/s3504]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft44%2Fs3504
 [/us/pl/107/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296
 [/us/pl/107/296/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs4
 [/us/usc/t6/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs101

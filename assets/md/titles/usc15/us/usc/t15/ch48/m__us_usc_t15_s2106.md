@@ -31,11 +31,21 @@
 
     (7) The term “United States” means the States, the District of Columbia, and the Commonwealth of Puerto Rico.
 
-([Pub. L. 93–167, § 7][/us/pl/93/167/s7], Nov. 29, 1973, [87 Stat. 687][/us/stat/87/687].)
+    (8) The term “collectibles certification service” means a person recognized by collectors for providing independent certification that collectible items are genuine.
+
+    (9) The term “Trademark Act of 1946” means the Act entitled “An Act to provide for the registration and protection of trademarks used in commerce, to carry out the provisions of certain international conventions, and for other purposes”, approved July 5, 1946 ([15 U.S.C. 1051][/us/usc/t15/s1051] et seq.).
+
+([Pub. L. 93–167, § 7][/us/pl/93/167/s7], Nov. 29, 1973, [87 Stat. 687][/us/stat/87/687]; [Pub. L. 113–288, § 2(3)][/us/pl/113/288/s2/3], Dec. 19, 2014, [128 Stat. 3281][/us/stat/128/3281].)
 
  __References in Text__ 
 
     The Federal Trade Commission Act, referred to in par. (5), is [act Sept. 26, 1914, ch. 311][/us/act/1914-09-26/ch311], [38 Stat. 717][/us/stat/38/717], as amended, which is classified generally to subchapter I (§ 41 et seq.) of chapter 2 of this title. For complete classification of this Act to the Code, see [section 58 of this title][/us/usc/t15/s58] and Tables.
+
+    The Trademark Act of 1946, referred to in par. (9), is [act July 5, 1946, ch. 540][/us/act/1946-07-05/ch540], [60 Stat. 427][/us/stat/60/427], also popularly known as the Lanham Act, which is classified generally to chapter 22 (§ 1051 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1051 of this title][/us/usc/t15/s1051] and Tables.
+
+ __Amendments__ 
+
+    2014—Pars. (8), (9). [Pub. L. 113–288, § 2(3)][/us/pl/113/288/s2/3], added pars. (8) and (9).
 
 ----------
 
@@ -45,10 +55,17 @@
 ----------
 
 [/us/usc/t15/s41]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs41
+[/us/usc/t15/s1051]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1051
 [/us/pl/93/167/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F167%2Fs7
 [/us/stat/87/687]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F687
+[/us/pl/113/288/s2/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F288%2Fs2%2F3
+[/us/stat/128/3281]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3281
 [/us/act/1914-09-26/ch311]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1914-09-26%2Fch311
 [/us/stat/38/717]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F38%2F717
 [/us/usc/t15/s58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs58
+[/us/act/1946-07-05/ch540]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-07-05%2Fch540
+[/us/stat/60/427]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F60%2F427
+[/us/usc/t15/s1051]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1051
+[/us/pl/113/288/s2/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F288%2Fs2%2F3
 
 

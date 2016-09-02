@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../..//us/usc/t15/ch100/m__us_usc_t15_s7410.md) | [Next](./../../../..//us/usc/t15/ch101/m__us_usc_t15_ch101.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs7411)
+[Previous](./../../../..//us/usc/t15/ch100/m__us_usc_t15_s7410.md) | [Next](./../../../..//us/usc/t15/ch100A/m__us_usc_t15_ch100A.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs7411)
 
 ## § 7411. Report on grant and fellowship programs
 
@@ -27,7 +27,7 @@
 
 ----------
 
-[Previous](./../../../..//us/usc/t15/ch100/m__us_usc_t15_s7410.md) | [Next](./../../../..//us/usc/t15/ch101/m__us_usc_t15_ch101.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs7411)
+[Previous](./../../../..//us/usc/t15/ch100/m__us_usc_t15_s7410.md) | [Next](./../../../..//us/usc/t15/ch100A/m__us_usc_t15_ch100A.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs7411)
 
 ----------
 ----------

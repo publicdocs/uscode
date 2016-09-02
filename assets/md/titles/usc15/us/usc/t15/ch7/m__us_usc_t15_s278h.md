@@ -127,7 +127,7 @@
 
  __References in Text__ 
 
-    [Section 278g–3 of this title][/us/usc/t15/s278g–3], referred to in subsecs. (a)(2) and (f)(1), was amended generally by [Pub. L. 107–296, title X, § 1003][/us/pl/107/296/s1003], Nov. 25, 2002, [116 Stat. 2269][/us/stat/116/2269], and, as so amended, no longer contains a subsec. (d) defining “computer system” or a subsec. (f).
+    [Section 278g–3 of this title][/us/usc/t15/s278g–3], referred to in subsecs. (a)(2) and (f)(1), was amended generally by [Pub. L. 107–296, title X, § 1003][/us/pl/107/296/s1003], Nov. 25, 2002, [116 Stat. 2269][/us/stat/116/2269], and, as so amended, did not contain a subsec. (d) defining “computer system” or a subsec. (f). A later amendment by [Pub. L. 113–274, title II, § 204(1)][/us/pl/113/274/s204/1], Dec. 18, 2014, [128 Stat. 2980][/us/stat/128/2980], redesignated subsec. (e) of [section 278g–3 of this title][/us/usc/t15/s278g–3], relating to definitions, as subsec. (f).
 
     The Intergovernmental Personnel Act of 1970, referred to in subsec. (d)(2), (4), is [Pub. L. 91–648][/us/pl/91/648], Jan. 5, 1971, [84 Stat. 1909][/us/stat/84/1909], as amended, which enacted sections 3371 to 3376 of Title 5, Government Organization and Employees, and chapter 62 (§ 4701 et seq.) of Title 42, The Public Health and Welfare, amended [section 1304 of Title 5][/us/usc/t5/s1304] and [section 246 of Title 42][/us/usc/t42/s246], repealed sections 1881 to 1888 of Title 7, Agriculture, and [section 869b of Title 20][/us/usc/t20/s869b], Education, and enacted provisions set out as notes under [section 3371 of Title 5][/us/usc/t5/s3371]. For complete classification of this Act to the Code, see Short Title note set out under [section 4701 of Title 42][/us/usc/t42/s4701] and Tables.
 
@@ -158,6 +158,9 @@
 [/us/usc/t15/s278g–3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs278g%E2%80%933
 [/us/pl/107/296/s1003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs1003
 [/us/stat/116/2269]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2269
+[/us/pl/113/274/s204/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F274%2Fs204%2F1
+[/us/stat/128/2980]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2980
+[/us/usc/t15/s278g–3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs278g%E2%80%933
 [/us/pl/91/648]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F648
 [/us/stat/84/1909]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1909
 [/us/usc/t5/s1304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs1304

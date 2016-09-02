@@ -15,9 +15,23 @@
 
 ## § 2102. Private enforcement
 
-    If any person violates section 2101(a) or (b) of this title or a rule under [section 2101(c) of this title][/us/usc/t15/s2101/c], any interested person may commence a civil action for injunctive relief restraining such violation, and for damages, in any United States District Court for a district in which the defendant resides or has an agent. In any such action, the court may award the costs of the suit, including reasonable attorneys’ fees.
+    (a) __In general__ 
 
-([Pub. L. 93–167, § 3][/us/pl/93/167/s3], Nov. 29, 1973, [87 Stat. 686][/us/stat/87/686].)
+        If any person violates section 2101(a) or (b) of this title or a rule under [section 2101(c) of this title][/us/usc/t15/s2101/c], any interested person may commence a civil action for injunctive relief restraining such violation, and for damages, in any United States District Court for a district in which the defendant resides, has an agent, transacts business, or wherever venue is proper under [section 1391 of title 28][/us/usc/t28/s1391]. In any such action, the court may award the costs of the suit, including reasonable attorneys’ fees.
+
+    (b) __Trademark violations__ 
+
+        If the violation of section 2101(a) or (b) of this title or a rule under [section 2101(c) of this title][/us/usc/t15/s2101/c] also involves unauthorized use of registered trademarks belonging to a collectibles certification service, the owner of such trademarks shall have, in addition to the remedies provided in subsection (a), all rights provided under sections 34, 35, and 36 of the Trademark Act of 1946 ([15 U.S.C. 1116][/us/usc/t15/s1116], 1117, and 1118) for violations of such Act.
+
+([Pub. L. 93–167, § 3][/us/pl/93/167/s3], Nov. 29, 1973, [87 Stat. 686][/us/stat/87/686]; [Pub. L. 113–288, § 2(2)][/us/pl/113/288/s2/2], Dec. 19, 2014, [128 Stat. 3281][/us/stat/128/3281].)
+
+ __References in Text__ 
+
+    The Trademark Act of 1946, referred to in subsec. (b), is [act July 5, 1946, ch. 540][/us/act/1946-07-05/ch540], [60 Stat. 427][/us/stat/60/427], also popularly known as the Lanham Act, which is classified generally to chapter 22 (§ 1051 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1051 of this title][/us/usc/t15/s1051] and Tables. See also [section 2106(9) of this title][/us/usc/t15/s2106/9].
+
+ __Amendments__ 
+
+    2014—[Pub. L. 113–288][/us/pl/113/288] designated existing provisions as subsec. (a), inserted heading, substituted “, has an agent, transacts business, or wherever venue is proper under [section 1391 of title 28][/us/usc/t28/s1391]” for “or has an agent”, and added subsec. (b).
 
 ----------
 
@@ -27,7 +41,18 @@
 ----------
 
 [/us/usc/t15/s2101/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs2101%2Fc
+[/us/usc/t28/s1391]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs1391
+[/us/usc/t15/s2101/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs2101%2Fc
+[/us/usc/t15/s1116]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1116
 [/us/pl/93/167/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F167%2Fs3
 [/us/stat/87/686]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F686
+[/us/pl/113/288/s2/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F288%2Fs2%2F2
+[/us/stat/128/3281]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3281
+[/us/act/1946-07-05/ch540]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-07-05%2Fch540
+[/us/stat/60/427]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F60%2F427
+[/us/usc/t15/s1051]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1051
+[/us/usc/t15/s2106/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs2106%2F9
+[/us/pl/113/288]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F288
+[/us/usc/t28/s1391]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs1391
 
 

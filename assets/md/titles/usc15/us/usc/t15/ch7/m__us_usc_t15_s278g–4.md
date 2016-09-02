@@ -31,9 +31,9 @@
 
         (1) to identify emerging managerial, technical, administrative, and physical safeguard issues relative to information security and privacy;
 
-        (2) to advise the Institute and the Director of the Office of Management and Budget on information security and privacy issues pertaining to Federal Government information systems, including through review of proposed standards and guidelines developed under [section 278g–3 of this title][/us/usc/t15/s278g–3]; and
+        (2) to advise the Institute, the Secretary of Homeland Security, and the Director of the Office of Management and Budget on information security and privacy issues pertaining to Federal Government information systems, including through review of proposed standards and guidelines developed under [section 278g–3 of this title][/us/usc/t15/s278g–3]; and
 
-        (3) to report annually its findings to the Secretary of Commerce, the Director of the Office of Management and Budget, the Director of the National Security Agency, and the appropriate committees of the Congress.
+        (3) to report annually its findings to the Secretary of Commerce, the Secretary of Homeland Security, the Director of the Office of Management and Budget, the Director of the National Security Agency, and the appropriate committees of the Congress.
 
     (c) __Term of office__ 
 
@@ -63,9 +63,13 @@
 
          As used in this section, the terms “information system” and “information technology” have the meanings given in [section 278g–3 of this title][/us/usc/t15/s278g–3].
 
-([Mar. 3, 1901, ch. 872, § 21][/us/act/1901-03-03/ch872/s21], as added [Pub. L. 100–235, § 3(2)][/us/pl/100/235/s3/2], Jan. 8, 1988, [101 Stat. 1727][/us/stat/101/1727]; amended [Pub. L. 100–418, title V, § 5115(a)(1)][/us/pl/100/418/s5115/a/1], Aug. 23, 1988, [102 Stat. 1433][/us/stat/102/1433]; [Pub. L. 107–296, title X, § 1004][/us/pl/107/296/s1004], Nov. 25, 2002, [116 Stat. 2271][/us/stat/116/2271]; [Pub. L. 107–347, title III, § 304][/us/pl/107/347/s304], Dec. 17, 2002, [116 Stat. 2959][/us/stat/116/2959].)
+([Mar. 3, 1901, ch. 872, § 21][/us/act/1901-03-03/ch872/s21], as added [Pub. L. 100–235, § 3(2)][/us/pl/100/235/s3/2], Jan. 8, 1988, [101 Stat. 1727][/us/stat/101/1727]; amended [Pub. L. 100–418, title V, § 5115(a)(1)][/us/pl/100/418/s5115/a/1], Aug. 23, 1988, [102 Stat. 1433][/us/stat/102/1433]; [Pub. L. 107–296, title X, § 1004][/us/pl/107/296/s1004], Nov. 25, 2002, [116 Stat. 2271][/us/stat/116/2271]; [Pub. L. 107–347, title III, § 304][/us/pl/107/347/s304], Dec. 17, 2002, [116 Stat. 2959][/us/stat/116/2959]; [Pub. L. 113–283, § 2(f)(2)][/us/pl/113/283/s2/f/2], Dec. 18, 2014, [128 Stat. 3087][/us/stat/128/3087].)
 
  __Amendments__ 
+
+    2014—Subsec. (b)(2). [Pub. L. 113–283, § 2(f)(2)(A)][/us/pl/113/283/s2/f/2/A], inserted “, the Secretary of Homeland Security,” after “the Institute”.
+
+    Subsec. (b)(3). [Pub. L. 113–283, § 2(f)(2)(B)][/us/pl/113/283/s2/f/2/B], inserted “the Secretary of Homeland Security,” after “the Secretary of Commerce,”.
 
     2002—Subsec. (a). [Pub. L. 107–296, § 1004(1)][/us/pl/107/296/s1004/1], and [Pub. L. 107–347, § 304(1)][/us/pl/107/347/s304/1], amended subsec. (a) identically, substituting “Information Security and Privacy Advisory Board” for “Computer System Security and Privacy Advisory Board” in introductory provisions.
 
@@ -95,7 +99,7 @@
 
  __Effective Date of 2002 Amendments__ 
 
-    Amendment by [Pub. L. 107–347][/us/pl/107/347] effective Dec. 17, 2002, see [section 402(b) of Pub. L. 107–347][/us/pl/107/347/s402/b], set out as an Effective Date note under [section 3541 of Title 44][/us/usc/t44/s3541], Public Printing and Documents.
+    Amendment by [Pub. L. 107–347][/us/pl/107/347] effective Dec. 17, 2002, see [section 402(b) of Pub. L. 107–347][/us/pl/107/347/s402/b], set out as a note under [section 3504 of Title 44][/us/usc/t44/s3504], Public Printing and Documents.
 
     Amendment by [Pub. L. 107–296][/us/pl/107/296] effective 60 days after Nov. 25, 2002, see [section 4 of Pub. L. 107–296][/us/pl/107/296/s4], set out as an Effective Date note under [section 101 of Title 6][/us/usc/t6/s101], Domestic Security.
 
@@ -121,6 +125,10 @@
 [/us/stat/116/2271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2271
 [/us/pl/107/347/s304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F347%2Fs304
 [/us/stat/116/2959]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2959
+[/us/pl/113/283/s2/f/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F283%2Fs2%2Ff%2F2
+[/us/stat/128/3087]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3087
+[/us/pl/113/283/s2/f/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F283%2Fs2%2Ff%2F2%2FA
+[/us/pl/113/283/s2/f/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F283%2Fs2%2Ff%2F2%2FB
 [/us/pl/107/296/s1004/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs1004%2F1
 [/us/pl/107/347/s304/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F347%2Fs304%2F1
 [/us/pl/107/296/s1004/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs1004%2F2
@@ -148,7 +156,7 @@
 [/us/pl/100/418]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418
 [/us/pl/107/347]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F347
 [/us/pl/107/347/s402/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F347%2Fs402%2Fb
-[/us/usc/t44/s3541]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft44%2Fs3541
+[/us/usc/t44/s3504]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft44%2Fs3504
 [/us/pl/107/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296
 [/us/pl/107/296/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs4
 [/us/usc/t6/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs101

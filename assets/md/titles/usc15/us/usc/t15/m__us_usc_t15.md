@@ -15,7 +15,7 @@
 
 # Title 15—COMMERCE AND TRADE
 
-Current through 113–271not235
+Current through 113–290not235not287
 
 <table>
 
@@ -1286,6 +1286,16 @@ Current through 113–271not235
     <td> Cyber Security Research and Development  </td>
 
     <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs7401" data-uslm-ref="/us/usc/t15/s7401">7401</a>  </td>
+
+  </tr>
+
+  <tr>
+
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fch100A" data-uslm-ref="/us/usc/t15/ch100A">100A.</a>  </td>
+
+    <td> Cybersecurity Enhancement  </td>
+
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs7421" data-uslm-ref="/us/usc/t15/s7421">7421</a>  </td>
 
   </tr>
 

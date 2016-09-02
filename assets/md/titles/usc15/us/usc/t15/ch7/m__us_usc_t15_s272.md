@@ -81,33 +81,97 @@
 
         (14) perform research to develop standards and test methods to advance the effective use of computers and related systems and to protect the information stored, processed, and transmitted by such systems and to provide advice in support of policies affecting Federal computer and related telecommunications systems;
 
-        (15) determine properties of building materials and structural elements, and encourage their standardization and most effective use, including investigation of fire-resisting properties of building materials and conditions under which they may be most efficiently used, and the standardization of types of appliances for fire prevention;
+        (15) on an ongoing basis, facilitate and support the development of a voluntary, consensus-based, industry-led set of standards, guidelines, best practices, methodologies, procedures, and processes to cost-effectively reduce cyber risks to critical infrastructure (as defined under subsection (e));
 
-        (16) undertake such research in engineering, pure and applied mathematics, statistics, computer science, materials science, and the physical sciences as may be necessary to carry out and support the functions specified in this section;
+        (16) determine properties of building materials and structural elements, and encourage their standardization and most effective use, including investigation of fire-resisting properties of building materials and conditions under which they may be most efficiently used, and the standardization of types of appliances for fire prevention;
 
-        (17) compile, evaluate, publish, and otherwise disseminate general, specific and technical data resulting from the performance of the functions specified in this section or from other sources when such data are important to science, engineering, or industry, or to the general public, and are not available elsewhere;
+        (17) undertake such research in engineering, pure and applied mathematics, statistics, computer science, materials science, and the physical sciences as may be necessary to carry out and support the functions specified in this section;
 
-        (18) collect, create, analyze, and maintain specimens of scientific value;
+        (18) compile, evaluate, publish, and otherwise disseminate general, specific and technical data resulting from the performance of the functions specified in this section or from other sources when such data are important to science, engineering, or industry, or to the general public, and are not available elsewhere;
 
-        (19) operate national user facilities;
+        (19) collect, create, analyze, and maintain specimens of scientific value;
 
-        (20) evaluate promising inventions and other novel technical concepts submitted by inventors and small companies and work with other Federal agencies, States, and localities to provide appropriate technical assistance and support for those inventions which are found in the evaluation process to have commercial promise;
+        (20) operate national user facilities;
 
-        (21) demonstrate the results of the Institute’s activities by exhibits or other methods of technology transfer, including the use of scientific or technical personnel of the Institute for part-time or intermittent teaching and training activities at educational institutions of higher learning as part of and incidental to their official duties; and
+        (21) evaluate promising inventions and other novel technical concepts submitted by inventors and small companies and work with other Federal agencies, States, and localities to provide appropriate technical assistance and support for those inventions which are found in the evaluation process to have commercial promise;
 
-        (22) undertake such other activities similar to those specified in this subsection as the Director determines appropriate.
+        (22) demonstrate the results of the Institute’s activities by exhibits or other methods of technology transfer, including the use of scientific or technical personnel of the Institute for part-time or intermittent teaching and training activities at educational institutions of higher learning as part of and incidental to their official duties; and
+
+        (23) undertake such other activities similar to those specified in this subsection as the Director determines appropriate.
 
     (d) __Management costs__ 
 
         In carrying out the extramural funding programs of the Institute, including the programs established under sections 278k, 278l, and 278n of this title, the Secretary may retain reasonable amounts of any funds appropriated pursuant to authorizations for these programs in order to pay for the Institute’s management of these programs.
 
-([Mar. 3, 1901, ch. 872, § 2][/us/act/1901-03-03/ch872/s2], [31 Stat. 1449][/us/stat/31/1449]; [July 22, 1950, ch. 486, § 1][/us/act/1950-07-22/ch486/s1], [64 Stat. 371][/us/stat/64/371]; [Pub. L. 92–317, § 3(b)][/us/pl/92/317/s3/b], June 22, 1972, [86 Stat. 235][/us/stat/86/235]; [Pub. L. 100–235, § 3(1)][/us/pl/100/235/s3/1], Jan. 8, 1988, [101 Stat. 1724][/us/stat/101/1724]; [Pub. L. 100–418, title V, § 5112(a)][/us/pl/100/418/s5112/a], Aug. 23, 1988, [102 Stat. 1428][/us/stat/102/1428]; [Pub. L. 102–245, title II, § 201(e)][/us/pl/102/245/s201/e], Feb. 14, 1992, [106 Stat. 19][/us/stat/106/19]; [Pub. L. 104–113, § 12(a)][/us/pl/104/113/s12/a], (b), Mar. 7, 1996, [110 Stat. 782][/us/stat/110/782]; [Pub. L. 110–69, title III][/us/pl/110/69], §§ 3002(c)(2)(A), 3013(b), Aug. 9, 2007, [121 Stat. 586][/us/stat/121/586], 598.)
+    (e) __Cyber risks__ 
+
+        (1) __In general__ 
+
+        In carrying out the activities under subsection (c)(15), the Director—
+
+            (A)
+
+             shall—
+
+                (i) coordinate closely and regularly with relevant private sector personnel and entities, critical infrastructure owners and operators, and other relevant industry organizations, including Sector Coordinating Councils and Information Sharing and Analysis Centers, and incorporate industry expertise;
+
+                (ii) consult with the heads of agencies with national security responsibilities, sector-specific agencies and other appropriate agencies, State and local governments, the governments of other nations, and international organizations;
+
+                (iii) identify a prioritized, flexible, repeatable, performance-based, and cost-effective approach, including information security measures and controls, that may be voluntarily adopted by owners and operators of critical infrastructure to help them identify, assess, and manage cyber risks;
+
+                (iv)
+
+                 include methodologies—
+
+                    (I) to identify and mitigate impacts of the cybersecurity measures or controls on business confidentiality; and
+
+                    (II) to protect individual privacy and civil liberties;
+
+                (v) incorporate voluntary consensus standards and industry best practices;
+
+                (vi) align with voluntary international standards to the fullest extent possible;
+
+                (vii) prevent duplication of regulatory processes and prevent conflict with or superseding of regulatory requirements, mandatory standards, and related processes; and
+
+                (viii) include such other similar and consistent elements as the Director considers necessary; and
+
+            (B)
+
+             shall not prescribe or otherwise require—
+
+                (i) the use of specific solutions;
+
+                (ii) the use of specific information or communications technology products or services; or
+
+                (iii) that information or communications technology products or services be designed, developed, or manufactured in a particular manner.
+
+        (2) __Limitation__ 
+
+            Information shared with or provided to the Institute for the purpose of the activities described under subsection (c)(15) shall not be used by any Federal, State, tribal, or local department or agency to regulate the activity of any entity. Nothing in this paragraph shall be construed to modify any regulatory requirement to report or submit information to a Federal, State, tribal, or local department or agency.
+
+        (3) __Definitions__ 
+
+        In this subsection:
+
+            (A) __Critical infrastructure__ 
+
+                The term “critical infrastructure” has the meaning given the term in [section 5195c(e) of title 42][/us/usc/t42/s5195c/e].
+
+            (B) __Sector-specific agency__ 
+
+                The term “sector-specific agency” means the Federal department or agency responsible for providing institutional knowledge and specialized expertise as well as leading, facilitating, or supporting the security and resilience programs and associated activities of its designated critical infrastructure sector in the all-hazards environment.
+
+([Mar. 3, 1901, ch. 872, § 2][/us/act/1901-03-03/ch872/s2], [31 Stat. 1449][/us/stat/31/1449]; [July 22, 1950, ch. 486, § 1][/us/act/1950-07-22/ch486/s1], [64 Stat. 371][/us/stat/64/371]; [Pub. L. 92–317, § 3(b)][/us/pl/92/317/s3/b], June 22, 1972, [86 Stat. 235][/us/stat/86/235]; [Pub. L. 100–235, § 3(1)][/us/pl/100/235/s3/1], Jan. 8, 1988, [101 Stat. 1724][/us/stat/101/1724]; [Pub. L. 100–418, title V, § 5112(a)][/us/pl/100/418/s5112/a], Aug. 23, 1988, [102 Stat. 1428][/us/stat/102/1428]; [Pub. L. 102–245, title II, § 201(e)][/us/pl/102/245/s201/e], Feb. 14, 1992, [106 Stat. 19][/us/stat/106/19]; [Pub. L. 104–113, § 12(a)][/us/pl/104/113/s12/a], (b), Mar. 7, 1996, [110 Stat. 782][/us/stat/110/782]; [Pub. L. 110–69, title III][/us/pl/110/69], §§ 3002(c)(2)(A), 3013(b), Aug. 9, 2007, [121 Stat. 586][/us/stat/121/586], 598; [Pub. L. 113–274, title I, § 101(a)][/us/pl/113/274/s101/a], (b), Dec. 18, 2014, [128 Stat. 2972][/us/stat/128/2972].)
 
  __References in Text__ 
 
     [Section 278g–3 of this title][/us/usc/t15/s278g–3], referred to in subsec. (c)(13), was amended, and no longer defines the term “computer systems”.
 
  __Amendments__ 
+
+    2014—Subsec. (c)(15) to (23). [Pub. L. 113–274, § 101(a)][/us/pl/113/274/s101/a], added par. (15) and redesignated former pars. (15) to (22) as (16) to (23), respectively.
+
+    Subsec. (e). [Pub. L. 113–274, § 101(b)][/us/pl/113/274/s101/b], added subsec. (e).
 
     2007—Subsec. (b). [Pub. L. 110–69, § 3002(c)(2)(A)(i)][/us/pl/110/69/s3002/c/2/A/i], struck out “and, if appropriate, through other officials,” before “is authorized” in introductory provisions.
 
@@ -248,6 +312,7 @@
 ----------
 ----------
 
+[/us/usc/t42/s5195c/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5195c%2Fe
 [/us/act/1901-03-03/ch872/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1901-03-03%2Fch872%2Fs2
 [/us/stat/31/1449]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F31%2F1449
 [/us/act/1950-07-22/ch486/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-07-22%2Fch486%2Fs1
@@ -264,7 +329,11 @@
 [/us/stat/110/782]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F782
 [/us/pl/110/69]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F69
 [/us/stat/121/586]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F586
+[/us/pl/113/274/s101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F274%2Fs101%2Fa
+[/us/stat/128/2972]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2972
 [/us/usc/t15/s278g–3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs278g%E2%80%933
+[/us/pl/113/274/s101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F274%2Fs101%2Fa
+[/us/pl/113/274/s101/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F274%2Fs101%2Fb
 [/us/pl/110/69/s3002/c/2/A/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F69%2Fs3002%2Fc%2F2%2FA%2Fi
 [/us/pl/110/69/s3013/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F69%2Fs3013%2Fb
 [/us/pl/110/69/s3002/c/2/A/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F69%2Fs3002%2Fc%2F2%2FA%2Fii
