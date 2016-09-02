@@ -215,6 +215,10 @@ R.S. § 159.  </td>
 
  __Short Title of 2015 Amendment__ 
 
+[Pub. L. 114–75, § 1][/us/pl/114/75/s1], Nov. 5, 2015, [129 Stat. 640][/us/stat/129/640], provided that: 
+
+> “This Act \[enacting [section 6329 of this title][/us/usc/t5/s6329] and provisions set out as notes under [section 6329 of this title][/us/usc/t5/s6329]\] may be cited as the ‘Wounded Warriors Federal Leave Act of 2015’.”
+
 [Pub. L. 114–62, § 1][/us/pl/114/62/s1], Oct. 7, 2015, [129 Stat. 547][/us/stat/129/547], provided that: 
 
 > “This Act \[amending [section 2108 of this title][/us/usc/t5/s2108] and enacting provisions set out as a note under [section 2108 of this title][/us/usc/t5/s2108]\] may be cited as the ‘Gold Star Fathers Act of 2015’.”
@@ -405,6 +409,10 @@ R.S. § 159.  </td>
 [/us/usc/t39/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft39%2Fs101
 [/us/pl/89/670]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F670
 [/us/pl/89/670]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F670
+[/us/pl/114/75/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F75%2Fs1
+[/us/stat/129/640]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F640
+[/us/usc/t5/s6329]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs6329
+[/us/usc/t5/s6329]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs6329
 [/us/pl/114/62/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F62%2Fs1
 [/us/stat/129/547]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F547
 [/us/usc/t5/s2108]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs2108

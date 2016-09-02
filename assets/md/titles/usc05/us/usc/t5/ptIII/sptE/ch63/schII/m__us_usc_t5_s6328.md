@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../../../..//us/usc/t5/ptIII/sptE/ch63/schII/m__us_usc_t5_s6327.md) | [Next](./../../../../../../..//us/usc/t5/ptIII/sptE/ch63/schIII/m__us_usc_t5_ptIII_sptE_ch63_schIII.md) | [Root of Title](./../../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs6328)
+[Previous](./../../../../../../..//us/usc/t5/ptIII/sptE/ch63/schII/m__us_usc_t5_s6327.md) | [Next](./../../../../../../..//us/usc/t5/ptIII/sptE/ch63/schII/m__us_usc_t5_s6329.md) | [Root of Title](./../../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs6328)
 
 ## § 6328. Absence in connection with funerals of fellow Federal law enforcement officers
 
@@ -29,7 +29,7 @@
 
 ----------
 
-[Previous](./../../../../../../..//us/usc/t5/ptIII/sptE/ch63/schII/m__us_usc_t5_s6327.md) | [Next](./../../../../../../..//us/usc/t5/ptIII/sptE/ch63/schIII/m__us_usc_t5_ptIII_sptE_ch63_schIII.md) | [Root of Title](./../../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs6328)
+[Previous](./../../../../../../..//us/usc/t5/ptIII/sptE/ch63/schII/m__us_usc_t5_s6327.md) | [Next](./../../../../../../..//us/usc/t5/ptIII/sptE/ch63/schII/m__us_usc_t5_s6329.md) | [Root of Title](./../../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs6328)
 
 ----------
 ----------

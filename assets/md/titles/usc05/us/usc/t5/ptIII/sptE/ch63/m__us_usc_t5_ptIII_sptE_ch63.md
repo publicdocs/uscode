@@ -201,6 +201,14 @@ SUBCHAPTER II—OTHER PAID LEAVE  </td>
 
   <tr>
 
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft5%2Fs6329" data-uslm-ref="/us/usc/t5/s6329">6329.</a>  </td>
+
+    <td> Disabled veteran leave.  </td>
+
+  </tr>
+
+  <tr>
+
     <td> 
 
 SUBCHAPTER III—VOLUNTARY TRANSFERS OF LEAVE  </td>
@@ -483,6 +491,8 @@ SUBCHAPTER VI—LEAVE TRANSFER IN DISASTERS AND EMERGENCIES  </td>
 
  __Amendments__ 
 
+    2015—[Pub. L. 114–75, § 2(b)][/us/pl/114/75/s2/b], Nov. 5, 2015, [129 Stat. 641][/us/stat/129/641], added item 6329.
+
     1999—[Pub. L. 106–56, § 1(c)(2)][/us/pl/106/56/s1/c/2], Sept. 24, 1999, [113 Stat. 407][/us/stat/113/407], added item 6328.
 
     1997—[Pub. L. 105–18, title II, § 9004(b)][/us/pl/105/18/s9004/b], June 12, 1997, [111 Stat. 197][/us/stat/111/197], added heading of subchapter VI and item 6391.
@@ -582,6 +592,8 @@ SUBCHAPTER VI—LEAVE TRANSFER IN DISASTERS AND EMERGENCIES  </td>
 ----------
 ----------
 
+[/us/pl/114/75/s2/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F75%2Fs2%2Fb
+[/us/stat/129/641]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F641
 [/us/pl/106/56/s1/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F56%2Fs1%2Fc%2F2
 [/us/stat/113/407]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F407
 [/us/pl/105/18/s9004/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F18%2Fs9004%2Fb
