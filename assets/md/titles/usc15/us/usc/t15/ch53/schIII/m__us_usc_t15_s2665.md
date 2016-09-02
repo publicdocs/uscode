@@ -57,7 +57,7 @@
 
         (1) __Authorization__ 
 
-            There is authorized to be appropriated not more than $1,500,000 for the purposes of initially establishing the proficiency rating program under subsection (a)(2) of this section and the training seminars under subsection (a)(3) of this section.
+            There is authorized to be appropriated not more than $1,500,000 for the purposes of initially establishing the proficiency rating program under subsection (a)(2) and the training seminars under subsection (a)(3).
 
         (2) __Charge imposed__ 
 
@@ -119,7 +119,7 @@
 
         (2) No amount appropriated under this subsection may be used by the Environmental Protection Agency to administer the grant program under [section 2666 of this title][/us/usc/t15/s2666].
 
-        (3) No amount appropriated under this subsection may be used to cover the costs of the proficiency rating program under subsection (a)(2) of this section.
+        (3) No amount appropriated under this subsection may be used to cover the costs of the proficiency rating program under subsection (a)(2).
 
 ([Pub. L. 94–469, title III, § 305][/us/pl/94/469/s305], as added [Pub. L. 100–551, § 1(a)][/us/pl/100/551/s1/a], Oct. 28, 1988, [102 Stat. 2756][/us/stat/102/2756]; amended [Pub. L. 101–508, title X, § 10202][/us/pl/101/508/s10202], Nov. 5, 1990, [104 Stat. 1388–393][/us/stat/104/1388-393]; [Pub. L. 104–66, title II, § 2021][/us/pl/104/66/s2021](l), Dec. 21, 1995, [109 Stat. 728][/us/stat/109/728].)
 

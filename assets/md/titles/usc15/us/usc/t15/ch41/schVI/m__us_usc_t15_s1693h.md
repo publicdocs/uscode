@@ -17,7 +17,7 @@
 
     (a) __Action or failure to act proximately causing damages__ 
 
-    Subject to subsections (b) and (c) of this section, a financial institution shall be liable to a consumer for all damages proximately caused by—
+    Subject to subsections (b) and (c), a financial institution shall be liable to a consumer for all damages proximately caused by—
 
         (1)
 
@@ -39,7 +39,7 @@
 
     (b) __Acts of God and technical malfunctions__ 
 
-    A financial institution shall not be liable under subsection (a)(1) or (2) of this section if the financial institution shows by a preponderance of the evidence that its action or failure to act resulted from—
+    A financial institution shall not be liable under subsection (a)(1) or (2) if the financial institution shows by a preponderance of the evidence that its action or failure to act resulted from—
 
         (1) an act of God or other circumstance beyond its control, that it exercised reasonable care to prevent such an occurrence, and that it exercised such diligence as the circumstances required; or
 
@@ -47,7 +47,7 @@
 
     (c) __Intent__ 
 
-        In the case of a failure described in subsection (a) of this section which was not intentional and which resulted from a bona fide error, notwithstanding the maintenance of procedures reasonably adapted to avoid any such error, the financial institution shall be liable for actual damages proved.
+        In the case of a failure described in subsection (a) which was not intentional and which resulted from a bona fide error, notwithstanding the maintenance of procedures reasonably adapted to avoid any such error, the financial institution shall be liable for actual damages proved.
 
     (d) __Exception for damaged notices__ 
 

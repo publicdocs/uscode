@@ -37,9 +37,9 @@
 
         (1) __In general__ 
 
-        An advertisement by radio broadcast to aid, promote, or assist, directly or indirectly, any consumer lease shall be deemed to be in compliance with the requirements of subsection (a) of this section if such advertisement clearly and conspicuously—
+        An advertisement by radio broadcast to aid, promote, or assist, directly or indirectly, any consumer lease shall be deemed to be in compliance with the requirements of subsection (a) if such advertisement clearly and conspicuously—
 
-            (A) states the information required by paragraphs (1) and (2) of subsection (a) of this section;
+            (A) states the information required by paragraphs (1) and (2) of subsection (a);
 
             (B) states the number, amounts, due dates or periods of scheduled payments, and the total of such payments under the lease;
 
@@ -51,7 +51,7 @@
 
                  a referral to—
 
-                    (I) a toll-free telephone number established in accordance with paragraph (2) that may be used by consumers to obtain the information required under subsection (a) of this section; or
+                    (I) a toll-free telephone number established in accordance with paragraph (2) that may be used by consumers to obtain the information required under subsection (a); or
 
                     (II)
 
@@ -59,7 +59,7 @@
 
                         (aa) appears in a publication in general circulation in the community served by the radio station on which such advertisement is broadcast during the period beginning 3 days before any such broadcast and ending 10 days after such broadcast; and
 
-                        (bb) includes the information required to be disclosed under subsection (a) of this section; and
+                        (bb) includes the information required to be disclosed under subsection (a); and
 
                 (ii) the name and dates of any publication referred to in clause (i)(II); and
 
@@ -75,7 +75,7 @@
 
                 (ii) maintain such telephone number for a period of not less than 10 days, beginning on the date of any such broadcast; and
 
-                (iii) provide the information required under subsection (a) of this section with respect to the lease to any person who calls such number.
+                (iii) provide the information required under subsection (a) with respect to the lease to any person who calls such number.
 
             (B) __Form of information__ 
 

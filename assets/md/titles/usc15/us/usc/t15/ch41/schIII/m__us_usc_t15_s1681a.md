@@ -51,7 +51,7 @@
 
             (C) any report in which a person who has been requested by a third party to make a specific extension of credit directly or indirectly to a consumer conveys his or her decision with respect to such request, if the third party advises the consumer of the name and address of the person to whom the request was made, and such person makes the disclosures to the consumer required under [section 1681m of this title][/us/usc/t15/s1681m]; or
 
-            (D) a communication described in subsection (o) or (x)  <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  of this section.
+            (D) a communication described in subsection (o) or (x). <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup> 
 
         (3) __ Restriction on sharing of medical information__  __.—__ 
 
@@ -171,7 +171,7 @@
 
     A communication is described in this subsection if it is a communication—
 
-        (1) that, but for subsection (d)(2)(D) of this section, would be an investigative consumer report;
+        (1) that, but for subsection (d)(2)(D), would be an investigative consumer report;
 
         (2)
 
@@ -321,7 +321,7 @@
 
         A communication is described in this subsection if—
 
-            (A) but for subsection (d)(2)(D) of this section, the communication would be a consumer report;
+            (A) but for subsection (d)(2)(D), the communication would be a consumer report;
 
             (B)
 
@@ -349,7 +349,7 @@
 
         (2)  __Subsequent disclosure__  __.—__ 
 
-        After taking any adverse action based in whole or in part on a communication described in paragraph (1), the employer shall disclose to the consumer a summary containing the nature and substance of the communication upon which the adverse action is based, except that the sources of information acquired solely for use in preparing what would be but for subsection (d)(2)(D) of this section an investigative consumer report need not be disclosed.
+        After taking any adverse action based in whole or in part on a communication described in paragraph (1), the employer shall disclose to the consumer a summary containing the nature and substance of the communication upon which the adverse action is based, except that the sources of information acquired solely for use in preparing what would be but for subsection (d)(2)(D) an investigative consumer report need not be disclosed.
 
         (3)  __Self-regulatory organization defined__  __.—__ 
 

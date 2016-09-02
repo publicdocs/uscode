@@ -21,7 +21,7 @@
 
     (b) __Effect of authorization under subsection (a)__ 
 
-        For the effect of an authorization under subsection (a) of this section, see [section 3431 of this title][/us/usc/t15/s3431] (relating to the coordination of this chapter with the Natural Gas Act \[[15 U.S.C. 717][/us/usc/t15/s717] et seq.\]).
+        For the effect of an authorization under subsection (a), see [section 3431 of this title][/us/usc/t15/s3431] (relating to the coordination of this chapter with the Natural Gas Act \[[15 U.S.C. 717][/us/usc/t15/s717] et seq.\]).
 
     (c) __Surplus natural gas__ 
 

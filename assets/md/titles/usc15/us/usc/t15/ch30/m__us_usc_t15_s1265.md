@@ -33,7 +33,7 @@
 
     (e) __Removal of case for trial__ 
 
-    In the case of removal for trial of any case as provided by subsection (b) of this section—
+    In the case of removal for trial of any case as provided by subsection (b)—
 
         (1) the clerk of the court from which removal is made shall promptly transmit to the court in which the case is to be tried all rec­ords in the case necessary in order that such court may exercise jurisdiction;
 

@@ -21,7 +21,7 @@
 
     (b) __Effect of extension of protection__ 
 
-    From the date on which a certificate of extension of protection is issued under subsection (a) of this section—
+    From the date on which a certificate of extension of protection is issued under subsection (a)—
 
         (1) such extension of protection shall have the same effect and validity as a registration on the Principal Register; and
 

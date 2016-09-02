@@ -19,7 +19,7 @@
 
         (1) A request for extension of protection described in [section 1141f(a) of this title][/us/usc/t15/s1141f/a] shall be examined as an application for registration on the Principal Register under this chapter, and if on such examination it appears that the applicant is entitled to extension of protection under this subchapter, the Director shall cause the mark to be published in the Official Gazette of the United States Patent and Trademark Office.
 
-        (2) Subject to the provisions of subsection (c) of this section, a request for extension of protection under this subchapter shall be subject to opposition under [section 1063 of this title][/us/usc/t15/s1063].
+        (2) Subject to the provisions of subsection (c), a request for extension of protection under this subchapter shall be subject to opposition under [section 1063 of this title][/us/usc/t15/s1063].
 
         (3) Extension of protection shall not be refused on the ground that the mark has not been used in commerce.
 
@@ -27,7 +27,7 @@
 
     (b) __Notification of refusal__ 
 
-        If, <sup>\[1\]</sup>  <sup><sup> 1 So in original. The comma probably should not appear. </sup></sup>  a request for extension of protection is refused under subsection (a) of this section, the Director shall declare in a notification of refusal (as provided in subsection (c) of this section) that the extension of protection cannot be granted, together with a statement of all grounds on which the refusal was based.
+        If, <sup>\[1\]</sup>  <sup><sup> 1 So in original. The comma probably should not appear. </sup></sup>  a request for extension of protection is refused under subsection (a), the Director shall declare in a notification of refusal (as provided in subsection (c)) that the extension of protection cannot be granted, together with a statement of all grounds on which the refusal was based.
 
     (c) __Notice to International Bureau__ 
 

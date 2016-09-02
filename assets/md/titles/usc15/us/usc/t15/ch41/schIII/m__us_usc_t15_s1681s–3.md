@@ -67,7 +67,7 @@
 
     (b) __Notice for other purposes permissible__ 
 
-        A notice or other disclosure under this section may be coordinated and consolidated with any other notice required to be issued under any other provision of law by a person that is subject to this section, and a notice or other disclosure that is equivalent to the notice required by subsection (a) of this section, and that is provided by a person described in subsection (a) of this section to a consumer together with disclosures required by any other provision of law, shall satisfy the requirements of subsection (a) of this section.
+        A notice or other disclosure under this section may be coordinated and consolidated with any other notice required to be issued under any other provision of law by a person that is subject to this section, and a notice or other disclosure that is equivalent to the notice required by subsection (a), and that is provided by a person described in subsection (a) to a consumer together with disclosures required by any other provision of law, shall satisfy the requirements of subsection (a).
 
     (c) __User requirements__ 
 
@@ -91,7 +91,7 @@
 
         (2) __Solicitation__ 
 
-            The term “solicitation” means the marketing of a product or service initiated by a person to a particular consumer that is based on an exchange of information described in subsection (a) of this section, and is intended to encourage the consumer to purchase such product or service, but does not include communications that are directed at the general public or determined not to be a solicitation by the regulations prescribed under this section.
+            The term “solicitation” means the marketing of a product or service initiated by a person to a particular consumer that is based on an exchange of information described in subsection (a), and is intended to encourage the consumer to purchase such product or service, but does not include communications that are directed at the general public or determined not to be a solicitation by the regulations prescribed under this section.
 
 ([Pub. L. 90–321, title VI, § 624][/us/pl/90/321/s624], as added [Pub. L. 108–159, title II, § 214(a)(2)][/us/pl/108/159/s214/a/2], Dec. 4, 2003, [117 Stat. 1980][/us/stat/117/1980].)
 

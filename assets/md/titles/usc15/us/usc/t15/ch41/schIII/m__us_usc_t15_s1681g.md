@@ -63,7 +63,7 @@
 
     (b) __Exempt information__ 
 
-        The requirements of subsection (a) of this section respecting the disclosure of sources of information and the recipients of consumer reports do not apply to information received or consumer reports furnished prior to the effective date of this subchapter except to the extent that the matter involved is contained in the files of the consumer reporting agency on that date.
+        The requirements of subsection (a) respecting the disclosure of sources of information and the recipients of consumer reports do not apply to information received or consumer reports furnished prior to the effective date of this subchapter except to the extent that the matter involved is contained in the files of the consumer reporting agency on that date.
 
     (c) __Summary of rights to obtain and dispute information in consumer reports and to obtain credit scores__ 
 
@@ -77,7 +77,7 @@
 
             The summary of rights prepared under subparagraph (A) shall include a description of—
 
-                (i) the right of a consumer to obtain a copy of a consumer report under subsection (a) of this section from each consumer reporting agency;
+                (i) the right of a consumer to obtain a copy of a consumer report under subsection (a) from each consumer reporting agency;
 
                 (ii) the frequency and circumstances under which a consumer is entitled to receive a consumer report without charge under [section 1681j of this title][/us/usc/t15/s1681j];
 
@@ -277,7 +277,7 @@
 
         (3) __Timeframe and manner of disclosure__ 
 
-            The information required by this subsection shall be provided in the same timeframe and manner as the information described in subsection (a) of this section.
+            The information required by this subsection shall be provided in the same timeframe and manner as the information described in subsection (a).
 
         (4) __Applicability to certain uses__ 
 
@@ -321,13 +321,13 @@
 
         (1) __In general__ 
 
-        Any person who makes or arranges loans and who uses a consumer credit score, as defined in subsection (f) of this section, in connection with an application initiated or sought by a consumer for a closed end loan or the establishment of an open end loan for a consumer purpose that is secured by 1 to 4 units of residential real property (hereafter in this subsection referred to as the “lender”) shall provide the following to the consumer as soon as reasonably practicable:
+        Any person who makes or arranges loans and who uses a consumer credit score, as defined in subsection (f), in connection with an application initiated or sought by a consumer for a closed end loan or the establishment of an open end loan for a consumer purpose that is secured by 1 to 4 units of residential real property (hereafter in this subsection referred to as the “lender”) shall provide the following to the consumer as soon as reasonably practicable:
 
             (A) __Information required under subsection (f)__ 
 
                 (i) __In general__ 
 
-                    A copy of the information identified in subsection (f) of this section that was obtained from a consumer reporting agency or was developed and used by the user of the information.
+                    A copy of the information identified in subsection (f) that was obtained from a consumer reporting agency or was developed and used by the user of the information.
 
                 (ii) __Notice under subparagraph (D)__ 
 
@@ -371,9 +371,9 @@
 
             This subsection shall not require any person to—
 
-                (i) explain the information provided pursuant to subsection (f) of this section;
+                (i) explain the information provided pursuant to subsection (f);
 
-                (ii) disclose any information other than a credit score or key factors, as defined in subsection (f) of this section;
+                (ii) disclose any information other than a credit score or key factors, as defined in subsection (f);
 
                 (iii) disclose any credit score or related information obtained by the user after a loan has closed;
 

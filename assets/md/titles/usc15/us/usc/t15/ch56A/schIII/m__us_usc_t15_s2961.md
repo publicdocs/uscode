@@ -25,7 +25,7 @@
 
     (c) __Report__ 
 
-        The Secretary of Commerce shall submit to the Congress a report containing the decision aid produced under subsection (a) of this section no later than January 30, 1992. The Secretary shall notify appropriate State and local authorities that such decision aid is available on request.
+        The Secretary of Commerce shall submit to the Congress a report containing the decision aid produced under subsection (a) no later than January 30, 1992. The Secretary shall notify appropriate State and local authorities that such decision aid is available on request.
 
 ([Pub. L. 101–606, title III, § 301][/us/pl/101/606/s301], Nov. 16, 1990, [104 Stat. 3104][/us/stat/104/3104].)
 

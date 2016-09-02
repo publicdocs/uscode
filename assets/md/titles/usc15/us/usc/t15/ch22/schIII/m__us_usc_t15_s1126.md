@@ -31,7 +31,7 @@
 
     (d) __Right of priority__ 
 
-    An application for registration of a mark under section 1051, 1053, 1054, or 1091 of this title or under subsection (e) of this section, filed by a person described in subsection (b) of this section who has previously duly filed an application for registration of the same mark in one of the countries described in subsection (b) of this section shall be accorded the same force and effect as would be accorded to the same application if filed in the United States on the same date on which the application was first filed in such foreign country: Provided, That—
+    An application for registration of a mark under section 1051, 1053, 1054, or 1091 of this title or under subsection (e) of this section, filed by a person described in subsection (b) of this section who has previously duly filed an application for registration of the same mark in one of the countries described in subsection (b) shall be accorded the same force and effect as would be accorded to the same application if filed in the United States on the same date on which the application was first filed in such foreign country: Provided, That—
 
         (1) the application in the United States is filed within six months from the date on which the application was first filed in the foreign country;
 
@@ -49,7 +49,7 @@
 
     (f) __Domestic registration independent of foreign registration__ 
 
-        The registration of a mark under the provisions of subsections (c), (d), and (e) of this section by a person described in subsection (b) of this section shall be independent of the registration in the country of origin and the duration, validity, or transfer in the United States of such registration shall be governed by the provisions of this chapter.
+        The registration of a mark under the provisions of subsections (c), (d), and (e) of this section by a person described in subsection (b) shall be independent of the registration in the country of origin and the duration, validity, or transfer in the United States of such registration shall be governed by the provisions of this chapter.
 
     (g) __Trade or commercial names of foreign nationals protected without registration__ 
 

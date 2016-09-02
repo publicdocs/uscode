@@ -21,7 +21,7 @@
 
     (b) __Proof of compliance with statutory provisions__ 
 
-        Except as provided in [section 1635(c) of this title][/us/usc/t15/s1635/c], in any action or proceeding by or against any subsequent assignee of the original creditor without knowledge to the contrary by the assignee when he acquires the obligation, written acknowledgement of receipt by a person to whom a statement is required to be given pursuant to this subchapter shall be conclusive proof of the delivery thereof and, except as provided in subsection (a) of this section, of compliance with this part. This section does not affect the rights of the obligor in any action against the original creditor.
+        Except as provided in [section 1635(c) of this title][/us/usc/t15/s1635/c], in any action or proceeding by or against any subsequent assignee of the original creditor without knowledge to the contrary by the assignee when he acquires the obligation, written acknowledgement of receipt by a person to whom a statement is required to be given pursuant to this subchapter shall be conclusive proof of the delivery thereof and, except as provided in subsection (a), of compliance with this part. This section does not affect the rights of the obligor in any action against the original creditor.
 
     (c) __Right of rescission by consumer unaffected__ 
 
@@ -129,7 +129,7 @@
 
     1994—Subsec. (d). [Pub. L. 103–325][/us/pl/103/325] added subsec. (d).
 
-    1980—[Pub. L. 96–221][/us/pl/96/221] added subsecs. (a) and (c), designated existing provisions as subsec. (b), substituted “excepted as provided in subsection (a) of this section” for “unless the violation is apparent on the face of the statement”, and struck out exception for actions under [section 1640(d) of this title][/us/usc/t15/s1640/d].
+    1980—[Pub. L. 96–221][/us/pl/96/221] added subsecs. (a) and (c), designated existing provisions as subsec. (b), substituted “excepted as provided in subsection (a)” for “unless the violation is apparent on the face of the statement”, and struck out exception for actions under [section 1640(d) of this title][/us/usc/t15/s1640/d].
 
  __Effective Date of 2010 Amendment__ 
 

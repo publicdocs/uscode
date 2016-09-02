@@ -41,7 +41,7 @@
 
  __Subsidy Operations__ 
 
-    [Act July 25, 1946, ch. 671, § 6][/us/act/1946-07-25/ch671/s6], [60 Stat. 671][/us/stat/60/671], provided that the last paragraph of section 902(e) of Appendix to Title 50, War and National Defense, should not apply to operations of the Commodity Credit Corporation and the former Reconstruction Finance Corporation for the fiscal year ending June 30, 1947, and placed limitations on certain subsidy payments made during such fiscal year June 30, 1947.
+    [Act July 25, 1946, ch. 671, § 6][/us/act/1946-07-25/ch671/s6], [60 Stat. 671][/us/stat/60/671], provided that the last paragraph of section 902(e) of the former Appendix to Title 50, War and National Defense, should not apply to operations of the Commodity Credit Corporation and the former Reconstruction Finance Corporation for the fiscal year ending June 30, 1947, and placed limitations on certain subsidy payments made during such fiscal year June 30, 1947.
 
  __Increase in Certain Subsidy Payments__ 
 

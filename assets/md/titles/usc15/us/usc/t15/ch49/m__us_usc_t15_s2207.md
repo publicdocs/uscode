@@ -69,7 +69,7 @@
 
         (1) __In general__ 
 
-        In addition to, or as part of, the program conducted under subsection (a) of this section, the Administrator, in consultation with the National Institute of Standards and Technology, the Inter-Agency Board for Equipment Standardization and Inter-Operability, the National Institute for Occupational Safety and Health, the Directorate of Science and Technology of the Department of Homeland Security, national voluntary consensus standards development organizations, interested Federal, State, and local agencies, and other interested parties, shall—
+        In addition to, or as part of, the program conducted under subsection (a), the Administrator, in consultation with the National Institute of Standards and Technology, the Inter-Agency Board for Equipment Standardization and Inter-Operability, the National Institute for Occupational Safety and Health, the Directorate of Science and Technology of the Department of Homeland Security, national voluntary consensus standards development organizations, interested Federal, State, and local agencies, and other interested parties, shall—
 
             (A)
 

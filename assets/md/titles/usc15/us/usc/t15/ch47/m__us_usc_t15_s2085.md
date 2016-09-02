@@ -29,7 +29,7 @@
 
     (d) __Preemption__ 
 
-        This section shall supersede any State law or requirement with respect to low-speed electric bicycles to the extent that such State law or requirement is more stringent than the Federal law or requirements referred to in subsection (a) of this section.
+        This section shall supersede any State law or requirement with respect to low-speed electric bicycles to the extent that such State law or requirement is more stringent than the Federal law or requirements referred to in subsection (a).
 
 ([Pub. L. 92–573, § 38][/us/pl/92/573/s38], as added [Pub. L. 107–319, § 1][/us/pl/107/319/s1], Dec. 4, 2002, [116 Stat. 2776][/us/stat/116/2776].)
 

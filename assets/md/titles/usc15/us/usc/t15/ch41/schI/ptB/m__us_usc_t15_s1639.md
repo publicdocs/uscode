@@ -153,7 +153,7 @@
 
         (1) __Exemptions__ 
 
-        The Bureau may, by regulation or order, exempt specific mortgage products or categories of mortgages from any or all of the prohibitions specified in subsections (c) through (i) of this section, if the Bureau finds that the exemption—
+        The Bureau may, by regulation or order, exempt specific mortgage products or categories of mortgages from any or all of the prohibitions specified in subsections (c) through (i), if the Bureau finds that the exemption—
 
             (A) is in the interest of the borrowing public; and
 

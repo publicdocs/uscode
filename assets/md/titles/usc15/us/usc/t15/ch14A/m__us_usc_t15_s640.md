@@ -47,7 +47,7 @@
 
     Section 1. The functions conferred upon the President by section 217 of the Small Business Act of 1953 \[covered by this section\] are hereby delegated to the Administrator of the Small Business Administration and shall be carried out as provided in the said section 217.
 
-Sec. 2. There is hereby delegated to the Administrator of the Small Business Administration so much of the functions conferred upon the President by section 708 of the Defense Production Act of 1950, as amended \[[section 2158 of Title 50][/us/usc/t50/s2158], Appendix, War and National Defense\], as necessary to effect changes in the composition of, or to take other action respecting voluntary agreements and programs relating to, small-business production pools approved prior to July 31, 1953, pursuant to the said section 708 \[[section 2158 of Title 50][/us/usc/t50/s2158], Appendix\]: Provided, That this section shall not be construed as limiting the authority of the Director of the Office of Defense Mobilization under Executive Order No. 10480 of August 14, 1953 (18 F.R. 4939) \[formerly set out as a note under [section 2153 of Title 50][/us/usc/t50/s2153], Appendix\]. The functions delegated to the Administrator by this section shall be carried out as provided in section 708 of the Defense Production Act of 1950, as amended \[[section 2158 of Title 50][/us/usc/t50/s2158], Appendix\].
+Sec. 2. There is hereby delegated to the Administrator of the Small Business Administration so much of the functions conferred upon the President by section 708 of the Defense Production Act of 1950, as amended \[[50 U.S.C. 4558][/us/usc/t50/s4558]\], as necessary to effect changes in the composition of, or to take other action respecting voluntary agreements and programs relating to, small-business production pools approved prior to July 31, 1953, pursuant to the said section 708 \[[50 U.S.C. 4558][/us/usc/t50/s4558]\]: Provided, That this section shall not be construed as limiting the authority of the Director of the Office of Defense Mobilization under Executive Order No. 10480 of August 14, 1953 (18 F.R. 4939) \[formerly set out as a note under section 2153 of the former Appendix to Title 50\]. The functions delegated to the Administrator by this section shall be carried out as provided in section 708 of the Defense Production Act of 1950, as amended \[[50 U.S.C. 4558][/us/usc/t50/s4558]\].
 
     Sec. 3. Without prejudice to any action taken thereunder, Executive Order No. 10370 of July 7, 1952 (17 F.R. 6141), is hereby revoked.
 
@@ -71,9 +71,8 @@ Sec. 2. There is hereby delegated to the Administrator of the Small Business Adm
 [/us/usc/t15/s646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs646
 [/us/pl/85/536]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F536
 [/us/usc/t15/s631]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs631
-[/us/usc/t50/s2158]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs2158
-[/us/usc/t50/s2158]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs2158
-[/us/usc/t50/s2153]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs2153
-[/us/usc/t50/s2158]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs2158
+[/us/usc/t50/s4558]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4558
+[/us/usc/t50/s4558]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4558
+[/us/usc/t50/s4558]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4558
 
 

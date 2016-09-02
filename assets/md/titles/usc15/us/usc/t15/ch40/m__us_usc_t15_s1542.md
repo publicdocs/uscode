@@ -47,7 +47,7 @@
 
     In order to be eligible to participate in the program, an individual must—
 
-        (1) be enrolled or accepted for enrollment as a full-time student at an institution of higher education (as defined in [section 1001(a) of title 20][/us/usc/t20/s1001/a]) in an academic field or discipline described in subsection (c) of this section;
+        (1) be enrolled or accepted for enrollment as a full-time student at an institution of higher education (as defined in [section 1001(a) of title 20][/us/usc/t20/s1001/a]) in an academic field or discipline described in subsection (c);
 
         (2) be a United States citizen;
 

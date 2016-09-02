@@ -53,7 +53,7 @@
 
     (c) __Implementation__ 
 
-        The Bureau is authorized to enter into contracts or other arrangements with appropriate persons, organizations, or State agencies to carry out its functions under subsections (a) and (b) of this section and to furnish financial assistance in support thereof.
+        The Bureau is authorized to enter into contracts or other arrangements with appropriate persons, organizations, or State agencies to carry out its functions under subsections (a) and (b) and to furnish financial assistance in support thereof.
 
 ([Pub. L. 90–321, title I, § 136][/us/pl/90/321/s136], as added [Pub. L. 96–221, title VI, § 618(a)][/us/pl/96/221/s618/a], Mar. 31, 1980, [94 Stat. 183][/us/stat/94/183]; amended [Pub. L. 100–583, § 5][/us/pl/100/583/s5], Nov. 3, 1988, [102 Stat. 2967][/us/stat/102/2967]; [Pub. L. 111–203, title X, § 1100A(2)][/us/pl/111/203/s1100A/2], July 21, 2010, [124 Stat. 2107][/us/stat/124/2107].)
 

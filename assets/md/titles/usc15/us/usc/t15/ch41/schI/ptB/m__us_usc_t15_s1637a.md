@@ -17,7 +17,7 @@
 
     (a) __Application disclosures__ 
 
-    In the case of any open end consumer credit plan which provides for any extension of credit which is secured by the consumer’s principal dwelling, the creditor shall make the following disclosures in accordance with subsection (b) of this section:
+    In the case of any open end consumer credit plan which provides for any extension of credit which is secured by the consumer’s principal dwelling, the creditor shall make the following disclosures in accordance with subsection (b):
 
         (1) __Fixed annual percentage rate__ 
 
@@ -55,7 +55,7 @@
 
             (F) a statement of the maximum annual percentage rate that may be imposed at any time under the plan;
 
-            (G) subject to subsection (b)(3) of this section, a table, based on a $10,000 extension of credit, showing how the annual percentage rate and the minimum periodic payment amount under each repayment option of the plan would have been affected during the preceding 15-year period by changes in any index used to compute such rate;
+            (G) subject to subsection (b)(3), a table, based on a $10,000 extension of credit, showing how the annual percentage rate and the minimum periodic payment amount under each repayment option of the plan would have been affected during the preceding 15-year period by changes in any index used to compute such rate;
 
             (H)
 
@@ -195,47 +195,47 @@
 
             (A) __In general__ 
 
-                The disclosures required under subsection (a) of this section with respect to any open end consumer credit plan which provides for any extension of credit which is secured by the consumer’s principal dwelling and the pamphlet required under subsection (e) of this section shall be provided to any consumer at the time the creditor distributes an application to establish an account under such plan to such consumer.
+                The disclosures required under subsection (a) with respect to any open end consumer credit plan which provides for any extension of credit which is secured by the consumer’s principal dwelling and the pamphlet required under subsection (e) shall be provided to any consumer at the time the creditor distributes an application to establish an account under such plan to such consumer.
 
             (B) __Telephone, publications, and third party applications__ 
 
-                In the case of telephone applications, applications contained in magazines or other publications, or applications provided by a third party, the disclosures required under subsection (a) of this section and the pamphlet required under subsection (e) of this section shall be provided by the creditor before the end of the 3-day period beginning on the date the creditor receives a completed application from a consumer.
+                In the case of telephone applications, applications contained in magazines or other publications, or applications provided by a third party, the disclosures required under subsection (a) and the pamphlet required under subsection (e) shall be provided by the creditor before the end of the 3-day period beginning on the date the creditor receives a completed application from a consumer.
 
         (2) __Form__ 
 
             (A) __In general__ 
 
-                Except as provided in paragraph (1)(B), the disclosures required under subsection (a) of this section shall be provided on or with any application to establish an account under an open end consumer credit plan which provides for any extension of credit which is secured by the consumer’s principal dwelling.
+                Except as provided in paragraph (1)(B), the disclosures required under subsection (a) shall be provided on or with any application to establish an account under an open end consumer credit plan which provides for any extension of credit which is secured by the consumer’s principal dwelling.
 
             (B) __Segregation of required disclosures from other information__ 
 
-                The disclosures required under subsection (a) of this section shall be conspicuously segregated from all other terms, data, or additional information provided in connection with the application, either by grouping the disclosures separately on the application form or by providing the disclosures on a separate form, in accordance with regulations of the Bureau.
+                The disclosures required under subsection (a) shall be conspicuously segregated from all other terms, data, or additional information provided in connection with the application, either by grouping the disclosures separately on the application form or by providing the disclosures on a separate form, in accordance with regulations of the Bureau.
 
             (C) __Precedence of certain information__ 
 
-                The disclosures required by paragraphs (5), (6), and (7) of subsection (a) of this section shall precede all of the other required disclosures.
+                The disclosures required by paragraphs (5), (6), and (7) of subsection (a) shall precede all of the other required disclosures.
 
             (D) __Special provision relating to variable interest rate information__ 
 
-                Whether or not the disclosures required under subsection (a) of this section are provided on the application form, the variable rate information described in subsection (a)(2) of this section may be provided separately from the other information required to be disclosed.
+                Whether or not the disclosures required under subsection (a) are provided on the application form, the variable rate information described in subsection (a)(2) may be provided separately from the other information required to be disclosed.
 
         (3) __Requirement for historical table__ 
 
-            In preparing the table required under subsection (a)(2)(G) of this section, the creditor shall consistently select one rate of interest for each year and the manner of selecting the rate from year to year shall be consistent with the plan.
+            In preparing the table required under subsection (a)(2)(G), the creditor shall consistently select one rate of interest for each year and the manner of selecting the rate from year to year shall be consistent with the plan.
 
     (c) __Third party applications__ 
 
-    In the case of an application to open an account under any open end consumer credit plan described in subsection (a) of this section which is provided to a consumer by any person other than the creditor—
+    In the case of an application to open an account under any open end consumer credit plan described in subsection (a) which is provided to a consumer by any person other than the creditor—
 
         (1)
 
          such person shall provide such consumer with—
 
-            (A) the disclosures required under subsection (a) of this section with respect to such plan, in accordance with subsection (b) of this section; and
+            (A) the disclosures required under subsection (a) with respect to such plan, in accordance with subsection (b); and
 
-            (B) the pamphlet required under subsection (e) of this section; or
+            (B) the pamphlet required under subsection (e); or
 
-        (2) if such person cannot provide specific terms about the plan because specific information about the plan terms is not available, no nonrefundable fee may be imposed in connection with such application before the end of the 3-day period beginning on the date the consumer receives the disclosures required under subsection (a) of this section with respect to the application.
+        (2) if such person cannot provide specific terms about the plan because specific information about the plan terms is not available, no nonrefundable fee may be imposed in connection with such application before the end of the 3-day period beginning on the date the consumer receives the disclosures required under subsection (a) with respect to the application.
 
     (d) __“Principal dwelling” defined__ 
 
@@ -243,7 +243,7 @@
 
     (e) __Pamphlet__ 
 
-    In addition to the disclosures required under subsection (a) of this section with respect to an application to open an account under any open end consumer credit plan described in such subsection, the creditor or other person providing such disclosures to the consumer shall provide—
+    In addition to the disclosures required under subsection (a) with respect to an application to open an account under any open end consumer credit plan described in such subsection, the creditor or other person providing such disclosures to the consumer shall provide—
 
         (1) a pamphlet published by the Bureau pursuant to section 4 of the Home Equity  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be followed by “Loan”. </sup></sup>  Consumer Protection Act of 1988; or
 

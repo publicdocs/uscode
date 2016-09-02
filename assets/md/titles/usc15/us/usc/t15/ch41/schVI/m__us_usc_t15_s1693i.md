@@ -25,7 +25,7 @@
 
     (b) __Exceptions__ 
 
-    Notwithstanding the provisions of subsection (a) of this section, a person may distribute to a consumer on an unsolicited basis a card, code, or other means of access for use in initiating an electronic fund transfer from such consumer’s account, if—
+    Notwithstanding the provisions of subsection (a), a person may distribute to a consumer on an unsolicited basis a card, code, or other means of access for use in initiating an electronic fund transfer from such consumer’s account, if—
 
         (1) such card, code, or other means of access is not validated;
 
@@ -37,7 +37,7 @@
 
     (c) __Validation__ 
 
-        For the purpose of subsection (b) of this section, a card, code, or other means of access is validated when it may be used to initiate an electronic fund transfer.
+        For the purpose of subsection (b), a card, code, or other means of access is validated when it may be used to initiate an electronic fund transfer.
 
 ([Pub. L. 90–321, title IX, § 911][/us/pl/90/321/s911], as added [Pub. L. 95–630, title XX, § 2001][/us/pl/95/630/s2001], Nov. 10, 1978, [92 Stat. 3736][/us/stat/92/3736]; amended [Pub. L. 111–203, title X, § 1084(1)][/us/pl/111/203/s1084/1], July 21, 2010, [124 Stat. 2081][/us/stat/124/2081].)
 

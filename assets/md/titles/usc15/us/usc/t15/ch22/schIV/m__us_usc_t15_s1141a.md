@@ -21,7 +21,7 @@
 
     (b) __Qualified owners__ 
 
-    A qualified owner, under subsection (a) of this section, shall—
+    A qualified owner, under subsection (a), shall—
 
         (1) be a national of the United States;
 

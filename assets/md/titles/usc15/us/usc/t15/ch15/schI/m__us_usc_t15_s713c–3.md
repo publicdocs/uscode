@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t15/ch15/schI/m__us_usc_t15_s713c–2.md) | [Next](./../../../../..//us/usc/t15/ch15/schII/m__us_usc_t15_ch15_schII.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs713c%E2%80%933)
+[Previous](./../../../../..//us/usc/t15/ch15/schI/m__us_usc_t15_s713c–2.md) | [Next](./../../../../..//us/usc/t15/ch15/schI/m__us_usc_t15_s713d.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs713c%E2%80%933)
 
 ## § 713c–3. Promotion of the free flow of domestically produced fishery products
 
@@ -245,7 +245,7 @@
 
 ----------
 
-[Previous](./../../../../..//us/usc/t15/ch15/schI/m__us_usc_t15_s713c–2.md) | [Next](./../../../../..//us/usc/t15/ch15/schII/m__us_usc_t15_ch15_schII.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs713c%E2%80%933)
+[Previous](./../../../../..//us/usc/t15/ch15/schI/m__us_usc_t15_s713c–2.md) | [Next](./../../../../..//us/usc/t15/ch15/schI/m__us_usc_t15_s713d.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs713c%E2%80%933)
 
 ----------
 ----------

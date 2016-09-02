@@ -185,6 +185,38 @@ SUBCHAPTER I—GENERALLY  </td>
 
   <tr>
 
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs713d" data-uslm-ref="/us/usc/t15/s713d">713d.</a>  </td>
+
+    <td> Declaration of purpose.  </td>
+
+  </tr>
+
+  <tr>
+
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs713d%E2%80%931" data-uslm-ref="/us/usc/t15/s713d–1">713d–1.</a>  </td>
+
+    <td> Critical shortages; recommendations by President; public hearings.  </td>
+
+  </tr>
+
+  <tr>
+
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs713d%E2%80%932" data-uslm-ref="/us/usc/t15/s713d–2">713d–2.</a>  </td>
+
+    <td> Food and conservation program; appropriations; administrative expenses.  </td>
+
+  </tr>
+
+  <tr>
+
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs713d%E2%80%933" data-uslm-ref="/us/usc/t15/s713d–3">713d–3.</a>  </td>
+
+    <td> Authorizations for appropriations.  </td>
+
+  </tr>
+
+  <tr>
+
     <td> 
 
 SUBCHAPTER II—COMMODITY CREDIT CORPORATION  </td>

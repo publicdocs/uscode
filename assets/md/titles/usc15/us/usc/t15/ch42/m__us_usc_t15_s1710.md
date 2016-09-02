@@ -21,7 +21,7 @@
 
     (b) __Stay of order__ 
 
-        The commencement of proceedings under subsection (a) of this section shall not, unless specifically ordered by the court, operate as a stay of the Secretary’s  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be “Director’s”. </sup></sup>  order.
+        The commencement of proceedings under subsection (a) shall not, unless specifically ordered by the court, operate as a stay of the Secretary’s  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be “Director’s”. </sup></sup>  order.
 
 ([Pub. L. 90–448, title XIV, § 1411][/us/pl/90/448/s1411], Aug. 1, 1968, [82 Stat. 595][/us/stat/82/595]; [Pub. L. 111–203, title X, § 1098A(1)][/us/pl/111/203/s1098A/1], July 21, 2010, [124 Stat. 2105][/us/stat/124/2105].)
 

@@ -29,7 +29,7 @@
 
     (b) __Notification__ 
 
-    A consumer reporting agency shall promptly notify the furnisher of information identified by the consumer under subsection (a) of this section—
+    A consumer reporting agency shall promptly notify the furnisher of information identified by the consumer under subsection (a)—
 
         (1) that the information may be a result of identity theft;
 
@@ -67,7 +67,7 @@
 
             (A) is a reseller;
 
-            (B) is not, at the time of the request of the consumer under subsection (a) of this section, otherwise furnishing or reselling a consumer report concerning the information identified by the consumer; and
+            (B) is not, at the time of the request of the consumer under subsection (a), otherwise furnishing or reselling a consumer report concerning the information identified by the consumer; and
 
             (C) informs the consumer, by any means, that the consumer may report the identity theft to the Bureau to obtain consumer information regarding identity theft.
 
@@ -75,7 +75,7 @@
 
         The sole obligation of the consumer reporting agency under this section, with regard to any request of a consumer under this section, shall be to block the consumer report maintained by the consumer reporting agency from any subsequent use, if—
 
-            (A) the consumer, in accordance with the provisions of subsection (a) of this section, identifies, to a consumer reporting agency, information in the file of the consumer that resulted from identity theft; and
+            (A) the consumer, in accordance with the provisions of subsection (a), identifies, to a consumer reporting agency, information in the file of the consumer that resulted from identity theft; and
 
             (B) the consumer reporting agency is a reseller of the identified information.
 
@@ -85,7 +85,7 @@
 
     (e) __Exception for verification companies__ 
 
-        The provisions of this section do not apply to a check services company, acting as such, which issues authorizations for the purpose of approving or processing negotiable instruments, electronic fund transfers, or similar methods of payments, except that, beginning 4 business days after receipt of information described in paragraphs (1) through (3) of subsection (a) of this section, a check services company shall not report to a national consumer reporting agency described in [section 1681a(p) of this title][/us/usc/t15/s1681a/p], any information identified in the subject identity theft report as resulting from identity theft.
+        The provisions of this section do not apply to a check services company, acting as such, which issues authorizations for the purpose of approving or processing negotiable instruments, electronic fund transfers, or similar methods of payments, except that, beginning 4 business days after receipt of information described in paragraphs (1) through (3) of subsection (a), a check services company shall not report to a national consumer reporting agency described in [section 1681a(p) of this title][/us/usc/t15/s1681a/p], any information identified in the subject identity theft report as resulting from identity theft.
 
     (f) __Access to blocked information by law enforcement agencies__ 
 

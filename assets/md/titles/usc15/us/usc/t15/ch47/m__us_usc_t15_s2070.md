@@ -25,7 +25,7 @@
 
         (3) both.
 
-    (b) Any individual director, officer, or agent of a corporation who knowingly and willfully authorizes, orders, or performs any of the acts or practices constituting in whole or in part a violation of [section 2068 of this title][/us/usc/t15/s2068] shall be subject to penalties under this section without regard to any penalties to which that corporation may be subject under subsection (a) of this section.
+    (b) Any individual director, officer, or agent of a corporation who knowingly and willfully authorizes, orders, or performs any of the acts or practices constituting in whole or in part a violation of [section 2068 of this title][/us/usc/t15/s2068] shall be subject to penalties under this section without regard to any penalties to which that corporation may be subject under subsection (a).
 
     (c)
 

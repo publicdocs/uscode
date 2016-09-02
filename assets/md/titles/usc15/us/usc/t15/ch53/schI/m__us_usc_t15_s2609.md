@@ -39,7 +39,7 @@
 
     (e) __Basic research__ 
 
-        The Administrator shall, in consultation and cooperation with the Secretary of Health and Human Services, establish research programs to develop the fundamental scientific basis of the screening and monitoring techniques described in subsections (c) and (d) of this section, the bounds of the reliability of such techniques, and the opportunities for their improvement.
+        The Administrator shall, in consultation and cooperation with the Secretary of Health and Human Services, establish research programs to develop the fundamental scientific basis of the screening and monitoring techniques described in subsections (c) and (d), the bounds of the reliability of such techniques, and the opportunities for their improvement.
 
     (f) __Training__ 
 

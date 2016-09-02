@@ -33,7 +33,7 @@
 
     (b) __Projected total cost__ 
 
-    In determining the projected total cost of the mortgage to be disclosed to the consumer under subsection (a) of this section, the creditor shall take into account—
+    In determining the projected total cost of the mortgage to be disclosed to the consumer under subsection (a), the creditor shall take into account—
 
         (1) any shared appreciation or equity that the lender will, by contract, be entitled to receive;
 

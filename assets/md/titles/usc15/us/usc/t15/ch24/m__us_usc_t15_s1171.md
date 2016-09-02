@@ -29,7 +29,7 @@
 
     (b) The term “State” includes the District of Columbia, Puerto Rico, the Virgin Islands, and Guam.
 
-    (c) The term “possession of the United States” means any possession of the United States which is not named in subsection (b) of this section.
+    (c) The term “possession of the United States” means any possession of the United States which is not named in paragraph  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be “subsection”. </sup></sup>  (b) of this section.
 
     (d) The term “interstate or foreign commerce” means commerce (1) between any State or possession of the United States and any place outside of such State or possession, or (2) between points in the same State or possession of the United States but through any place outside thereof.
 

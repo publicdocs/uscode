@@ -17,7 +17,7 @@
 
     (a) __Restrictions on disclaimers or modifications__ 
 
-        No supplier may disclaim or modify (except as provided in subsection (b) of this section) any implied warranty to a consumer with respect to such consumer product if (1) such supplier makes any written warranty to the consumer with respect to such consumer Product, or (2) at the time of sale, or within 90 days thereafter, such supplier enters into a service contract with the consumer which applies to such consumer product.
+        No supplier may disclaim or modify (except as provided in subsection (b)) any implied warranty to a consumer with respect to such consumer product if (1) such supplier makes any written warranty to the consumer with respect to such consumer Product, or (2) at the time of sale, or within 90 days thereafter, such supplier enters into a service contract with the consumer which applies to such consumer product.
 
     (b) __Limitation on duration__ 
 

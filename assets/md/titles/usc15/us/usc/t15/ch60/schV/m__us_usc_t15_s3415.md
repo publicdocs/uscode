@@ -27,17 +27,17 @@
 
         (3) __Access to information__ 
 
-            As an intervenor in a proceeding described in subsection (a) of this section, the Secretary shall have access to information available to other parties to the proceeding if such information is relevant to the issues to which his participation in such proceeding relates. Such information may be obtained through reasonable rules relating to discovery of information prescribed by the State agency.
+            As an intervenor in a proceeding described in subsection (a), the Secretary shall have access to information available to other parties to the proceeding if such information is relevant to the issues to which his participation in such proceeding relates. Such information may be obtained through reasonable rules relating to discovery of information prescribed by the State agency.
 
     (b) __Access to State courts__ 
 
         (1) __Review in State courts__ 
 
-            The Secretary may obtain review of any determination made in any proceeding described in subsection (a)(1) of this section in the appropriate State court if the Secretary intervened or otherwise participated in the original proceeding or if State law otherwise permits such review.
+            The Secretary may obtain review of any determination made in any proceeding described in subsection (a)(1) in the appropriate State court if the Secretary intervened or otherwise participated in the original proceeding or if State law otherwise permits such review.
 
         (2) __Participation as amicus curiae__ 
 
-            In addition to his authority to obtain review under paragraph (1), the Secretary may also participate an  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be “as”. </sup></sup>  amicus curiae in any judicial review of any proceeding described in subsection (a)(1) of this section.
+            In addition to his authority to obtain review under paragraph (1), the Secretary may also participate an  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be “as”. </sup></sup>  amicus curiae in any judicial review of any proceeding described in subsection (a)(1).
 
 ([Pub. L. 95–621, title V, § 505][/us/pl/95/621/s505], Nov. 9, 1978, [92 Stat. 3403][/us/stat/92/3403].)
 

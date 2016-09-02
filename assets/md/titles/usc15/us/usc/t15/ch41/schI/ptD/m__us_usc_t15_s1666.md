@@ -59,9 +59,9 @@
 
     (c) __Action by creditor to collect amount or any part thereof regarded by obligor to be a billing error__ 
 
-    For the purposes of this section, “action to collect the amount, or any part thereof, indicated by an obligor under paragraph (2)” does not include the sending of statements of account, which may include finance charges on amounts in dispute, to the obligor following written notice from the obligor as specified under subsection (a) of this section, if—
+    For the purposes of this section, “action to collect the amount, or any part thereof, indicated by an obligor under paragraph (2)” does not include the sending of statements of account, which may include finance charges on amounts in dispute, to the obligor following written notice from the obligor as specified under subsection (a), if—
 
-        (1) the obligor’s account is not restricted or closed because of the failure of the obligor to pay the amount indicated under paragraph (2) of subsection (a) of this section, and
+        (1) the obligor’s account is not restricted or closed because of the failure of the obligor to pay the amount indicated under paragraph (2) of subsection (a), and
 
         (2) the creditor indicates the payment of such amount is not required pending the creditor’s compliance with this section.
 
@@ -69,7 +69,7 @@
 
     (d) __Restricting or closing by creditor of account regarded by obligor to contain a billing error__ 
 
-        Pursuant to regulations of the Bureau, a creditor operating an open end consumer credit plan may not, prior to the sending of the written explanation or clarification required under paragraph (B)(ii), restrict or close an account with respect to which the obligor has indicated pursuant to subsection (a) of this section that he believes such account to contain a billing error solely because of the obligor’s failure to pay the amount indicated to be in error. Nothing in this subsection shall be deemed to prohibit a creditor from applying against the credit limit on the obligor’s account the amount indicated to be in error.
+        Pursuant to regulations of the Bureau, a creditor operating an open end consumer credit plan may not, prior to the sending of the written explanation or clarification required under paragraph (B)(ii), restrict or close an account with respect to which the obligor has indicated pursuant to subsection (a) that he believes such account to contain a billing error solely because of the obligor’s failure to pay the amount indicated to be in error. Nothing in this subsection shall be deemed to prohibit a creditor from applying against the credit limit on the obligor’s account the amount indicated to be in error.
 
     (e) __Effect of noncompliance with requirements by creditor__ 
 

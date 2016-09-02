@@ -23,9 +23,9 @@
 
         (1)
 
-         No grant may be made under subsection (a) of this section unless an application therefor is submitted to and approved by the Administrator. Such an application shall be submitted in such form and manner as the Administrator may require and shall—
+         No grant may be made under subsection (a) unless an application therefor is submitted to and approved by the Administrator. Such an application shall be submitted in such form and manner as the Administrator may require and shall—
 
-            (A) set forth the need of the applicant for a grant under subsection (a) of this section,
+            (A) set forth the need of the applicant for a grant under subsection (a),
 
             (B) identify the agency or agencies of the State which shall establish or operate, or both, the program for which the application is submitted,
 
@@ -41,11 +41,11 @@
 
     (c) __Annual reports__ 
 
-        Not later than six months after the end of each of the fiscal years 1979, 1980, and 1981, the Administrator shall submit to the Congress a report respecting the programs assisted by grants under subsection (a) of this section in the preceding fiscal year and the extent to which the Administrator has disseminated information respecting such programs.
+        Not later than six months after the end of each of the fiscal years 1979, 1980, and 1981, the Administrator shall submit to the Congress a report respecting the programs assisted by grants under subsection (a) in the preceding fiscal year and the extent to which the Administrator has disseminated information respecting such programs.
 
     (d) __Authorization__ 
 
-        For the purpose of making grants under subsection (a) of this section, there are authorized to be appropriated $1,500,000 for each of the fiscal years 1982 and 1983. Sums appropriated under this subsection shall remain available until expended.
+        For the purpose of making grants under subsection (a), there are authorized to be appropriated $1,500,000 for each of the fiscal years 1982 and 1983. Sums appropriated under this subsection shall remain available until expended.
 
 ([Pub. L. 94–469, title I, § 28][/us/pl/94/469/s28], Oct. 11, 1976, [90 Stat. 2049][/us/stat/90/2049]; [Pub. L. 97–129, § 1(a)][/us/pl/97/129/s1/a], Dec. 29, 1981, [95 Stat. 1686][/us/stat/95/1686]; renumbered title I, [Pub. L. 99–519, § 3(c)(1)][/us/pl/99/519/s3/c/1], Oct. 22, 1986, [100 Stat. 2989][/us/stat/100/2989].)
 

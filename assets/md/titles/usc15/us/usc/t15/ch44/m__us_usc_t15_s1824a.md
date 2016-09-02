@@ -17,7 +17,7 @@
 
     (a) __Restriction on export of horses__ 
 
-        Notwithstanding any other provision of law, no horse may be exported by sea from the United States, or any of its territories or possessions, unless such horse is part of a consignment of horses with respect to which a waiver has been granted under subsection (b) of this section.
+        Notwithstanding any other provision of law, no horse may be exported by sea from the United States, or any of its territories or possessions, unless such horse is part of a consignment of horses with respect to which a waiver has been granted under subsection (b).
 
     (b) __Granting of waivers__ 
 
@@ -43,7 +43,7 @@
 
  __Prior Provisions__ 
 
-    Provisions similar to those in this section were contained in section 7(j) of the Export Administration Act of 1979, [section 2406(j) of Title 50][/us/usc/t50/s2406/j], Appendix, War and National Defense, prior to the amendment of that Act by the Export Administration Amendments Act of 1985, [Pub. L. 99–64][/us/pl/99/64], which enacted this section.
+    Provisions similar to those in this section were contained in section 7(j) of the Export Administration Act of 1979, [section 4606(j) of Title 50][/us/usc/t50/s4606/j], War and National Defense, prior to the amendment of that Act by the Export Administration Amendments Act of 1985, [Pub. L. 99–64][/us/pl/99/64], which enacted this section.
 
 ----------
 
@@ -57,7 +57,7 @@
 [/us/stat/99/156]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F156
 [/us/pl/109/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304
 [/us/stat/120/1485]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1485
-[/us/usc/t50/s2406/j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs2406%2Fj
+[/us/usc/t50/s4606/j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4606%2Fj
 [/us/pl/99/64]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F64
 
 

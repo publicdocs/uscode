@@ -21,11 +21,11 @@
 
     (b) __Reservation of funds__ 
 
-        To assist in accomplishing the objectives of subsection (a) of this section, the Secretary of Energy shall reserve, for contracts with small business concerns, a reasonable portion of the funds made available pursuant to this chapter for research, development, or demonstration of electric or hybrid vehicles.
+        To assist in accomplishing the objectives of subsection (a), the Secretary of Energy shall reserve, for contracts with small business concerns, a reasonable portion of the funds made available pursuant to this chapter for research, development, or demonstration of electric or hybrid vehicles.
 
     (c) __Contract terms and conditions; planning grants__ 
 
-    The Secretary of Energy shall, in addition to the requirements set forth in subsections (a) and (b) of this section—
+    The Secretary of Energy shall, in addition to the requirements set forth in subsections (a) and (b)—
 
         (1) include in all contracts for research, development, or demonstration of electric or hybrid vehicles such terms, conditions, and payment schedules as may assist in meeting the needs of small business concerns, and shall take steps to avoid the inclusion in such contracts of any terms, conditions, or penalties which would tend to prevent such concerns from participating in the program under this chapter; and
 

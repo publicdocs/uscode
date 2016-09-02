@@ -45,7 +45,7 @@
 
     (b) __Review of rules and orders__ 
 
-        Except as provided in subsections (a) and (c) of this section, judicial review of any rule or order, within the meaning of [section 551(4) of title 5][/us/usc/t5/s551/4], issued under this chapter may be obtained in the United States Court of Appeals for any appropriate circuit pursuant to the provisions of chapter 7 of title 5, except that the second sentence of section 705 thereof shall not apply.
+        Except as provided in subsections (a) and (c), judicial review of any rule or order, within the meaning of [section 551(4) of title 5][/us/usc/t5/s551/4], issued under this chapter may be obtained in the United States Court of Appeals for any appropriate circuit pursuant to the provisions of chapter 7 of title 5, except that the second sentence of section 705 thereof shall not apply.
 
     (c) __Judicial review of emergency orders__ 
 

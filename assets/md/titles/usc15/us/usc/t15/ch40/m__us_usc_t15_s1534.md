@@ -21,11 +21,11 @@
 
     (b) __Eligible recipients; waiver of fees in cases of foreign governments and international organizations__ 
 
-        (1) The Secretary shall provide data, information, and products described in subsection (a) of this section to Federal, State, and local government agencies, to universities, and to other nonprofit institutions at the cost of reproduction and transmission, if such data, information, and products are to be used for research and not for commercial purposes.
+        (1) The Secretary shall provide data, information, and products described in subsection (a) to Federal, State, and local government agencies, to universities, and to other nonprofit institutions at the cost of reproduction and transmission, if such data, information, and products are to be used for research and not for commercial purposes.
 
-        (2) The Secretary shall waive the assessment of fees under subsection (a) of this section as necessary to continue to provide data, information, or products to foreign governments and international organizations on a basis of exchanging such data, information, and products or as otherwise provided by international agreement.
+        (2) The Secretary shall waive the assessment of fees under subsection (a) as necessary to continue to provide data, information, or products to foreign governments and international organizations on a basis of exchanging such data, information, and products or as otherwise provided by international agreement.
 
-        (3) The Secretary shall waive the assessment of fees authorized by subsection (a) of this section as necessary to continue to provide weather warnings, watches, and similar products and services essential to the mission of the National Oceanic Atmospheric  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be preceded by “and”. </sup></sup>  Administration.
+        (3) The Secretary shall waive the assessment of fees authorized by subsection (a) as necessary to continue to provide weather warnings, watches, and similar products and services essential to the mission of the National Oceanic Atmospheric  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be preceded by “and”. </sup></sup>  Administration.
 
     (c) __Publication of fee schedules in Federal Register; initial schedule effective for three-year period__ 
 
@@ -37,7 +37,7 @@
 
         (1) The initial schedule of fees established by the National Environmental Satellite, Data, and Information Service for archived data shall remain in effect for the 3-year period beginning on the date that the fees under that schedule take effect.
 
-        (2) With respect to the first one-year period during which the initial fee schedule is in effect, fees shall be assessed at no more than one-third of the fair market value specified in subsection (a) of this section.
+        (2) With respect to the first one-year period during which the initial fee schedule is in effect, fees shall be assessed at no more than one-third of the fair market value specified in subsection (a).
 
         (3) With respect to the second one-year period during which the initial fee schedule is in effect, fees shall be assessed at not more than two-thirds of such fair market value.
 

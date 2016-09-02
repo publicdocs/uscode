@@ -17,11 +17,11 @@
 
     (a) __Adoption of standards__ 
 
-    Not later than 2 years after November 9, 1978 (or after October 24, 1992, in the case of standards under paragraphs (3), <sup>\[1\]</sup>  <sup><sup> 1 So in original. The comma probably should not appear. </sup></sup>  and (4) of subsection (b) of this section), each State regulatory authority (with respect to each gas utility for which it has ratemaking authority) and each nonregulated gas utility shall provide public notice and conduct a hearing respecting the standards established by subsection (b) of this section, and, on the basis of such hearing, shall—
+    Not later than 2 years after November 9, 1978 (or after October 24, 1992, in the case of standards under paragraphs (3), <sup>\[1\]</sup>  <sup><sup> 1 So in original. The comma probably should not appear. </sup></sup>  and (4) of subsection (b)), each State regulatory authority (with respect to each gas utility for which it has ratemaking authority) and each nonregulated gas utility shall provide public notice and conduct a hearing respecting the standards established by subsection (b), and, on the basis of such hearing, shall—
 
-        (1) adopt the standard established by subsection (b)(1) of this section, if, and to the extent, such authority or nonregulated utility determines that such adoption is appropriate and is consistent with otherwise applicable State law, and
+        (1) adopt the standard established by subsection (b)(1), if, and to the extent, such authority or nonregulated utility determines that such adoption is appropriate and is consistent with otherwise applicable State law, and
 
-        (2) adopt the standards established by paragraphs (2), (3)  <sup>\[2\]</sup>  <sup><sup> 2 So in original. A comma probably should appear. </sup></sup>  (4), (5), and (6) of subsection (b) of this section, if, and to the extent, such authority or nonregulated utility determines that such adoption is appropriate to carry out the purposes of this chapter, is otherwise appropriate, and is consistent with otherwise applicable State law.
+        (2) adopt the standards established by paragraphs (2), (3)  <sup>\[2\]</sup>  <sup><sup> 2 So in original. A comma probably should appear. </sup></sup>  (4), (5), and (6) of subsection (b), if, and to the extent, such authority or nonregulated utility determines that such adoption is appropriate to carry out the purposes of this chapter, is otherwise appropriate, and is consistent with otherwise applicable State law.
 
         For purposes of any determination under paragraphs (1) and (2) and any review of such determination in any court under [section 3207 of this title][/us/usc/t15/s3207], the purposes of this chapter supplement State law. Nothing in this subsection prohibits any State regulatory authority or non­regulated utility from making any determination that it is not appropriate to implement any such standard, pursuant to its authority under otherwise applicable State law.
 
@@ -39,7 +39,7 @@
 
         (3) __Integrated resource planning__ 
 
-            Each gas utility shall employ, in order to provide adequate and reliable service to its gas customers at the lowest system cost. All plans or filings of a State regulated gas utility before a State regulatory authority to meet the requirements of this paragraph shall (A) be updated on a regular basis, (B) provide the opportunity for public participation and comment, (C) provide for methods of validating predicted performance, and (D) contain a requirement that the plan be implemented after approval of the State regulatory authority. Subsection (c) of this section shall not apply to this paragraph to the extent that it could be construed to require the State regulatory authority to extend the record of a State proceeding in submitting reports to the Federal Government.
+            Each gas utility shall employ, in order to provide adequate and reliable service to its gas customers at the lowest system cost. All plans or filings of a State regulated gas utility before a State regulatory authority to meet the requirements of this paragraph shall (A) be updated on a regular basis, (B) provide the opportunity for public participation and comment, (C) provide for methods of validating predicted performance, and (D) contain a requirement that the plan be implemented after approval of the State regulatory authority. Subsection (c) shall not apply to this paragraph to the extent that it could be construed to require the State regulatory authority to extend the record of a State proceeding in submitting reports to the Federal Government.
 
         (4) __Investments in conservation and demand management__ 
 
@@ -75,11 +75,11 @@
 
     (c) __Procedural requirements__ 
 
-        Each State regulatory authority (with respect to each gas utility for which it has ratemaking authority) and each nonregulated gas utility, within the 2-year period specified in subsection (a) of this section, shall adopt, pursuant to subsection (a) of this section, each of the standards established by subsection (b) of this section, or, with respect to any such standard which is not adopted, such authority or nonregulated gas utility shall state in writing that it has determined not to adopt such standard, together with the reasons for such determination. Such statement of reasons shall be available to the public.
+        Each State regulatory authority (with respect to each gas utility for which it has ratemaking authority) and each nonregulated gas utility, within the 2-year period specified in subsection (a), shall adopt, pursuant to subsection (a), each of the standards established by subsection (b), or, with respect to any such standard which is not adopted, such authority or nonregulated gas utility shall state in writing that it has determined not to adopt such standard, together with the reasons for such determination. Such statement of reasons shall be available to the public.
 
     (d) __Small business impacts__ 
 
-    If a State regulatory authority implements a standard established by subsection (b)(3) or (4) of this section, such authority shall—
+    If a State regulatory authority implements a standard established by subsection (b)(3) or (4), such authority shall—
 
         (1) consider the impact that implementation of such standard would have on small businesses engaged in the design, sale, supply, installation, or servicing of energy conservation, energy efficiency, or other demand-side management measures, and
 
@@ -101,7 +101,7 @@
 
     Subsec. (b)(5), (6). [Pub. L. 110–140, § 532(b)][/us/pl/110/140/s532/b], added pars. (5) and (6).
 
-    1992—Subsec. (a). [Pub. L. 102–486, § 115(d)][/us/pl/102/486/s115/d], in introductory provisions inserted “(or after October 24, 1992, in the case of standards under paragraphs (3), and (4) of subsection (b) of this section)” and in par. (2) substituted “standards established by paragraphs (2), (3) and (4) of subsection (b)” for “standard established by subsection (b)(2)”.
+    1992—Subsec. (a). [Pub. L. 102–486, § 115(d)][/us/pl/102/486/s115/d], in introductory provisions inserted “(or after October 24, 1992, in the case of standards under paragraphs (3), and (4) of subsection (b))” and in par. (2) substituted “standards established by paragraphs (2), (3) and (4) of subsection (b)” for “standard established by subsection (b)(2)”.
 
     Subsec. (b)(3), (4). [Pub. L. 102–486, § 115(b)][/us/pl/102/486/s115/b], added pars. (3) and (4).
 

@@ -79,7 +79,7 @@
 
             (C) the appropriate Federal banking agency (as defined in [section 1813(q) of title 12][/us/usc/t12/s1813/q]) or, in the case of a Federal credit union, the National Credit Union Administration, has given its prior approval if the materials to be provided under subparagraph (B) are requested by the foreign law enforcement agency for the purpose of investigating, or engaging in enforcement proceedings based on, possible violations of law by a bank, a savings and loan institution described in [section 57a(f)(3) of this title][/us/usc/t15/s57a/f/3], or a Federal credit union described in [section 57a(f)(4) of this title][/us/usc/t15/s57a/f/4]; and
 
-            (D) the foreign law enforcement agency is not from a foreign state that the Secretary of State has determined, in accordance with section 2405(j) of the Appendix to title 50, has repeatedly provided support for acts of international terrorism, unless and until such determination is rescinded pursuant to section 2405(j)(4) of the Appendix to title 50.
+            (D) the foreign law enforcement agency is not from a foreign state that the Secretary of State has determined, in accordance with [section 4605(j) of title 50][/us/usc/t50/s4605/j], has repeatedly provided support for acts of international terrorism, unless and until such determination is rescinded pursuant to [section 4605(j)(4) of title 50][/us/usc/t50/s4605/j/4].
 
             Nothing in the preceding sentence authorizes the disclosure of material obtained in connection with the administration of the Federal antitrust laws or foreign antitrust laws (as defined in paragraphs (5) and (7), respectively, of [section 6211 of this title][/us/usc/t15/s6211]) to any officer or employee of a foreign law enforcement agency.
 
@@ -204,6 +204,8 @@
 [/us/usc/t12/s1813/q]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1813%2Fq
 [/us/usc/t15/s57a/f/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs57a%2Ff%2F3
 [/us/usc/t15/s57a/f/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs57a%2Ff%2F4
+[/us/usc/t50/s4605/j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4605%2Fj
+[/us/usc/t50/s4605/j/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4605%2Fj%2F4
 [/us/usc/t15/s6211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs6211
 [/us/usc/t15/s46/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs46%2Ff
 [/us/usc/t15/s46/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs46%2Ff

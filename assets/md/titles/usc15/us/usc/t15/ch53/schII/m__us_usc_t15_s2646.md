@@ -25,7 +25,7 @@
 
         (3) design or conduct response actions, other than the type of action described in sections 2643(f) and 2644(c) of this title, with respect to friable asbestos-containing material in such a school or in a public or commercial building,
 
-        unless such person is accredited by a State under subsection (b) of this section or is accredited pursuant to an Administrator-approved course under subsection (c) of this section.
+        unless such person is accredited by a State under subsection (b) or is accredited pursuant to an Administrator-approved course under subsection (c).
 
     (b) __Accreditation by State__ 
 
@@ -75,7 +75,7 @@
 
         (1) __Course approval__ 
 
-            Within 180 days after October 22, 1986, the Administrator shall ensure that any Environmental Protection Agency-approved asbestos training course is consistent with the model plan (including testing requirements) developed under subsection (b) of this section. A contractor may be accredited by taking and passing such a course.
+            Within 180 days after October 22, 1986, the Administrator shall ensure that any Environmental Protection Agency-approved asbestos training course is consistent with the model plan (including testing requirements) developed under subsection (b). A contractor may be accredited by taking and passing such a course.
 
         (2) __Treatment of persons with previous EPA asbestos training__ 
 
@@ -85,7 +85,7 @@
 
             (B) passed (or passes) an asbestos test either before or after October 22, 1986,
 
-            may be accredited under paragraph (1) if the Administrator determines that the course and test are equivalent to the requirements of the model plan developed under subsection (b) of this section. If the Administrator so determines, the person shall be considered accredited for the purposes of this subchapter until a date that is one year after the date on which the State in which such person is employed establishes an accreditation program pursuant to subsection (b) of this section.
+            may be accredited under paragraph (1) if the Administrator determines that the course and test are equivalent to the requirements of the model plan developed under subsection (b). If the Administrator so determines, the person shall be considered accredited for the purposes of this subchapter until a date that is one year after the date on which the State in which such person is employed establishes an accreditation program pursuant to subsection (b).
 
         (3) __Lists of courses__ 
 
@@ -119,11 +119,11 @@
 
              uses a person (or persons)—
 
-                (i) who is accredited by a State which has adopted an accreditation plan based on the model plan developed under subsection (b) of this section, or
+                (i) who is accredited by a State which has adopted an accreditation plan based on the model plan developed under subsection (b), or
 
-                (ii) who is accredited pursuant to an Administrator-approved course under subsection (c) of this section, and
+                (ii) who is accredited pursuant to an Administrator-approved course under subsection (c), and
 
-            (B) uses a laboratory (or laboratories) which is accredited under the program developed under subsection (d) of this section.
+            (B) uses a laboratory (or laboratories) which is accredited under the program developed under subsection (d).
 
         (2)
 
@@ -131,11 +131,11 @@
 
             (A) In the case of activities performed by persons, after the date which is one year after October 22, 1986.
 
-            (B) In the case of activities performed by laboratories, after the date which is 180 days after the date on which a laboratory accreditation program is completed under subsection (d) of this section.
+            (B) In the case of activities performed by laboratories, after the date which is 180 days after the date on which a laboratory accreditation program is completed under subsection (d).
 
     (f) __List of EPA-approved courses__ 
 
-        Not later than August 31, 1988, and every three months thereafter until August 31, 1991, the Administrator shall publish in the Federal Register a list of all Environmental Protection Agency-approved asbestos training courses for persons to achieve accreditation in each category described in subsection (b)(1)(A) of this section and for laboratories to achieve accreditation. The Administrator may continue publishing such a list after August 31, 1991, at such times as the Administrator considers it useful. The list shall include the name and address of each approved trainer and, to the extent available, a list of all the geographic sites where training courses will take place. The Administrator shall provide a copy of the list to each State official on the list published by the Administrator under [section 2645(d)(6) of this title][/us/usc/t15/s2645/d/6] and to each regional office of the Environmental Protection Agency.
+        Not later than August 31, 1988, and every three months thereafter until August 31, 1991, the Administrator shall publish in the Federal Register a list of all Environmental Protection Agency-approved asbestos training courses for persons to achieve accreditation in each category described in subsection (b)(1)(A) and for laboratories to achieve accreditation. The Administrator may continue publishing such a list after August 31, 1991, at such times as the Administrator considers it useful. The list shall include the name and address of each approved trainer and, to the extent available, a list of all the geographic sites where training courses will take place. The Administrator shall provide a copy of the list to each State official on the list published by the Administrator under [section 2645(d)(6) of this title][/us/usc/t15/s2645/d/6] and to each regional office of the Environmental Protection Agency.
 
 ([Pub. L. 94–469, title II, § 206][/us/pl/94/469/s206], as added [Pub. L. 99–519, § 2][/us/pl/99/519/s2], Oct. 22, 1986, [100 Stat. 2980][/us/stat/100/2980]; amended [Pub. L. 100–368, § 3][/us/pl/100/368/s3], July 18, 1988, [102 Stat. 832][/us/stat/102/832]; [Pub. L. 100–418, title V, § 5115(c)][/us/pl/100/418/s5115/c], Aug. 23, 1988, [102 Stat. 1433][/us/stat/102/1433]; [Pub. L. 101–637, § 15(a)(1)][/us/pl/101/637/s15/a/1], (2), Nov. 28, 1990, [104 Stat. 4596][/us/stat/104/4596].)
 

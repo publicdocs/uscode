@@ -17,7 +17,7 @@
 
     (a) __In general__ 
 
-        Except as provided in subsection (b) of this section, butyl nitrite shall be considered a banned hazardous product under [section 2057 of this title][/us/usc/t15/s2057].
+        Except as provided in subsection (b), butyl nitrite shall be considered a banned hazardous product under [section 2057 of this title][/us/usc/t15/s2057].
 
     (b) __Lawful purposes__ 
 

@@ -27,7 +27,7 @@
 
     (b) __Burden of proof__ 
 
-        In any action which involves a consumer’s liability for an unauthorized electronic fund transfer, the burden of proof is upon the financial institution to show that the electronic fund transfer was authorized or, if the electronic fund transfer was unauthorized, then the burden of proof is upon the financial institution to establish that the conditions of liability set forth in subsection (a) of this section have been met, and, if the transfer was initiated after the effective date of [section 1693c of this title][/us/usc/t15/s1693c], that the disclosures required to be made to the consumer under section 1693c(a)(1) and (2) of this title were in fact made in accordance with such section.
+        In any action which involves a consumer’s liability for an unauthorized electronic fund transfer, the burden of proof is upon the financial institution to show that the electronic fund transfer was authorized or, if the electronic fund transfer was unauthorized, then the burden of proof is upon the financial institution to establish that the conditions of liability set forth in subsection (a) have been met, and, if the transfer was initiated after the effective date of [section 1693c of this title][/us/usc/t15/s1693c], that the disclosures required to be made to the consumer under section 1693c(a)(1) and (2) of this title were in fact made in accordance with such section.
 
     (c) __Determination of limitation on liability__ 
 

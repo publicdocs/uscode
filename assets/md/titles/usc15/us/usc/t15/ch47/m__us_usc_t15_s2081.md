@@ -41,7 +41,7 @@
 
     (b) __Limitation__ 
 
-        No funds appropriated under subsection (a) of this section may be used to pay any claim described in [section 2053(i) of this title][/us/usc/t15/s2053/i] whether pursuant to a judgment of a court or under any award, compromise, or settlement of such claim made under [section 2672 of title 28][/us/usc/t28/s2672], or under any other provision of law.
+        No funds appropriated under subsection (a) may be used to pay any claim described in [section 2053(i) of this title][/us/usc/t15/s2053/i] whether pursuant to a judgment of a court or under any award, compromise, or settlement of such claim made under [section 2672 of title 28][/us/usc/t28/s2672], or under any other provision of law.
 
 ([Pub. L. 92–573, § 32][/us/pl/92/573/s32], Oct. 27, 1972, [86 Stat. 1233][/us/stat/86/1233]; [Pub. L. 94–284][/us/pl/94/284], §§ 2, 5(b), May 11, 1976, [90 Stat. 503][/us/stat/90/503], 505; [Pub. L. 95–631, § 1][/us/pl/95/631/s1], Nov. 10, 1978, [92 Stat. 3742][/us/stat/92/3742]; [Pub. L. 97–35, title XII, § 1214][/us/pl/97/35/s1214], Aug. 13, 1981, [95 Stat. 724][/us/stat/95/724]; [Pub. L. 101–608, title I, § 117][/us/pl/101/608/s117], Nov. 16, 1990, [104 Stat. 3121][/us/stat/104/3121]; [Pub. L. 103–437, § 5(c)(1)][/us/pl/103/437/s5/c/1], Nov. 2, 1994, [108 Stat. 4582][/us/stat/108/4582]; [Pub. L. 110–314, title II][/us/pl/110/314], §§ 201(a), (c), 235(c)(4), Aug. 14, 2008, [122 Stat. 3038][/us/stat/122/3038], 3039, 3075.)
 

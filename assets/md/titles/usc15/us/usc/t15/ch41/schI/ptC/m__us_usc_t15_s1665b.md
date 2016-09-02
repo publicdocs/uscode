@@ -39,11 +39,11 @@
 
         (1) __In general__ 
 
-            If any advertisement described in subsection (a) of this section contains a statement that any interest expense incurred with respect to the plan is or may be tax deductible, the advertisement shall not be misleading with respect to such deductibility.
+            If any advertisement described in subsection (a) contains a statement that any interest expense incurred with respect to the plan is or may be tax deductible, the advertisement shall not be misleading with respect to such deductibility.
 
         (2) __Credit in excess of fair market value__ 
 
-        Each advertisement described in subsection (a) of this section that relates to an extension of credit that may exceed the fair market value of the dwelling, and which advertisement is disseminated in paper form to the public or through the Internet, as opposed to by radio or television, shall include a clear and conspicuous statement that—
+        Each advertisement described in subsection (a) that relates to an extension of credit that may exceed the fair market value of the dwelling, and which advertisement is disseminated in paper form to the public or through the Internet, as opposed to by radio or television, shall include a clear and conspicuous statement that—
 
             (A) the interest on the portion of the credit extension that is greater than the fair market value of the dwelling is not tax deductible for Federal income tax purposes; and
 
@@ -51,13 +51,13 @@
 
     (c) __Certain terms prohibited__ 
 
-        No advertisement described in subsection (a) of this section with respect to any home equity account may refer to such loan as “free money” or use other terms determined by the Bureau by regulation to be misleading.
+        No advertisement described in subsection (a) with respect to any home equity account may refer to such loan as “free money” or use other terms determined by the Bureau by regulation to be misleading.
 
     (d) __Discounted initial rate__ 
 
         (1) __In general__ 
 
-            If any advertisement described in subsection (a) of this section includes an initial annual percentage rate that is not determined by the index or formula used to make later interest rate adjustments, the advertisement shall also state with equal prominence the current annual percentage rate that would have been applied using the index or formula if such initial rate had not been offered.
+            If any advertisement described in subsection (a) includes an initial annual percentage rate that is not determined by the index or formula used to make later interest rate adjustments, the advertisement shall also state with equal prominence the current annual percentage rate that would have been applied using the index or formula if such initial rate had not been offered.
 
         (2) __Quoted rate must be reasonably current__ 
 
@@ -69,7 +69,7 @@
 
     (e) __Balloon payment__ 
 
-        If any advertisement described in subsection (a) of this section contains a statement regarding the minimum monthly payment under the plan, the advertisement shall also disclose, if applicable, the fact that the plan includes a balloon payment.
+        If any advertisement described in subsection (a) contains a statement regarding the minimum monthly payment under the plan, the advertisement shall also disclose, if applicable, the fact that the plan includes a balloon payment.
 
     (f) __“Balloon payment” defined__ 
 

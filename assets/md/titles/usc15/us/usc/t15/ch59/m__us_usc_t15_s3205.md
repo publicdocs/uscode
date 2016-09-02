@@ -25,7 +25,7 @@
 
     (c) __Nonregulated gas utilities__ 
 
-        The Secretary, on his own motion, may, to the same extent as provided in subsections (a) through (b) of this section, intervene as a matter of right in any proceeding which relates to rates or rate design of nonregulated gas utilities.
+        The Secretary, on his own motion, may, to the same extent as provided in subsections (a) through (b), intervene as a matter of right in any proceeding which relates to rates or rate design of nonregulated gas utilities.
 
 ([Pub. L. 95–617, title III, § 305][/us/pl/95/617/s305], Nov. 9, 1978, [92 Stat. 3152][/us/stat/92/3152].)
 

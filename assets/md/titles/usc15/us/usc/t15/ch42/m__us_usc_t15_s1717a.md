@@ -29,7 +29,7 @@
 
         (1) __Establishment__ 
 
-        The Director shall establish standards and procedures governing the imposition of civil money penalties under subsection (a) of this section. The standards and procedures—
+        The Director shall establish standards and procedures governing the imposition of civil money penalties under subsection (a). The standards and procedures—
 
             (A) shall provide for the imposition of a penalty only after a person has been given an opportunity for a hearing on the record; and
 
@@ -41,17 +41,17 @@
 
         (3) __Factors in determining amount of penalty__ 
 
-            In determining the amount of a penalty under subsection (a) of this section, consideration shall be given to such factors as the gravity of the offense, any history of prior offenses (including offenses occurring before December 15, 1989), ability to pay the penalty, injury to the public, benefits received, deterrence of future violations, and such other factors as the Director may determine in regulations to be appropriate.
+            In determining the amount of a penalty under subsection (a), consideration shall be given to such factors as the gravity of the offense, any history of prior offenses (including offenses occurring before December 15, 1989), ability to pay the penalty, injury to the public, benefits received, deterrence of future violations, and such other factors as the Director may determine in regulations to be appropriate.
 
         (4) __Reviewability of imposition of penalty__ 
 
-            The Secretary’s  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be “Director’s”. </sup></sup>  determination or order imposing a penalty under subsection (a) of this section shall not be subject to review, except as provided in subsection (c) of this section.
+            The Secretary’s  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be “Director’s”. </sup></sup>  determination or order imposing a penalty under subsection (a) shall not be subject to review, except as provided in subsection (c).
 
     (c) __Judicial review of agency determination__ 
 
         (1) __In general__ 
 
-            After exhausting all administrative remedies established by the Director under subsection (b)(1) of this section, a person aggrieved by a final order of the Director assessing a penalty under this section may seek judicial review pursuant to [section 1710 of this title][/us/usc/t15/s1710].
+            After exhausting all administrative remedies established by the Director under subsection (b)(1), a person aggrieved by a final order of the Director assessing a penalty under this section may seek judicial review pursuant to [section 1710 of this title][/us/usc/t15/s1710].
 
         (2) __Order to pay penalty__ 
 
@@ -59,7 +59,7 @@
 
     (d) __Action to collect penalty__ 
 
-        If any person fails to comply with the determination or order of the Director imposing a civil money penalty under subsection (a) of this section, after the determination or order is no longer subject to review as provided by subsections (b) and (c) of this section, the Director may request the Attorney General of the United States to bring an action in any appropriate United States district court to obtain a monetary judgment against the person and such other relief as may be available. The monetary judgment may, in the discretion of the court, include any attorneys fees and other expenses incurred by the United States in connection with the action. In an action under this subsection, the validity and appropriateness of the Secretary’s 1 determination or order imposing the penalty shall not be subject to review.
+        If any person fails to comply with the determination or order of the Director imposing a civil money penalty under subsection (a), after the determination or order is no longer subject to review as provided by subsections (b) and (c), the Director may request the Attorney General of the United States to bring an action in any appropriate United States district court to obtain a monetary judgment against the person and such other relief as may be available. The monetary judgment may, in the discretion of the court, include any attorneys fees and other expenses incurred by the United States in connection with the action. In an action under this subsection, the validity and appropriateness of the Secretary’s 1 determination or order imposing the penalty shall not be subject to review.
 
     (e) __Settlement by Director__ 
 

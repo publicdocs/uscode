@@ -45,7 +45,7 @@
 
     (b) __Exceptions__ 
 
-    Subsection (a) of this section shall not apply to—
+    Subsection (a) shall not apply to—
 
         (1) any individual action or counterclaim brought under this subchapter which was filed before June 1, 1995;
 

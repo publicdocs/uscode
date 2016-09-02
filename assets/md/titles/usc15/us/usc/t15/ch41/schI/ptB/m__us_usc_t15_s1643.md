@@ -37,7 +37,7 @@
 
     (b) __Burden of proof__ 
 
-        In any action by a card issuer to enforce liability for the use of a credit card, the burden of proof is upon the card issuer to show that the use was authorized or, if the use was unauthorized, then the burden of proof is upon the card issuer to show that the conditions of liability for the unauthorized use of a credit card, as set forth in subsection (a) of this section, have been met.
+        In any action by a card issuer to enforce liability for the use of a credit card, the burden of proof is upon the card issuer to show that the use was authorized or, if the use was unauthorized, then the burden of proof is upon the card issuer to show that the conditions of liability for the unauthorized use of a credit card, as set forth in subsection (a), have been met.
 
     (c) __Liability imposed by other laws or by agreement with issuer__ 
 

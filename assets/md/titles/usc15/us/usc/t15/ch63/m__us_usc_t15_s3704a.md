@@ -41,7 +41,7 @@
 
     (c) __Contracts__ 
 
-        In carrying out subsection (b) of this section, the Secretary may enter into contracts for the purpose of collecting information on the nature, extent, and effects of initiatives.
+        In carrying out subsection (b), the Secretary may enter into contracts for the purpose of collecting information on the nature, extent, and effects of initiatives.
 
 ([Pub. L. 96–480, § 6][/us/pl/96/480/s6], as added [Pub. L. 100–418, title V, § 5122(a)(2)][/us/pl/100/418/s5122/a/2], Aug. 23, 1988, [102 Stat. 1438][/us/stat/102/1438].)
 

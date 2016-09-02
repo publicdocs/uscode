@@ -17,7 +17,7 @@
 
     (a) __Exception for identical State standards__ 
 
-        Except as provided in subsections (b) and (c) of this section, whenever a standard established by the Commission under this Act applicable to a household substance is in effect, no State or political subdivision thereof shall have any authority either to establish or continue in effect, with respect to such household substance, any standard for special packaging (and any exemption therefrom and requirement related thereto) which is not identical to the standard established under [section 1472 of this title][/us/usc/t15/s1472] (and any exemption therefrom and requirement related thereto) of this Act.
+        Except as provided in subsections (b) and (c), whenever a standard established by the Commission under this Act applicable to a household substance is in effect, no State or political subdivision thereof shall have any authority either to establish or continue in effect, with respect to such household substance, any standard for special packaging (and any exemption therefrom and requirement related thereto) which is not identical to the standard established under [section 1472 of this title][/us/usc/t15/s1472] (and any exemption therefrom and requirement related thereto) of this Act.
 
     (b) __Federal or State standards which afford a higher degree of protection__ 
 
@@ -27,7 +27,7 @@
 
         (1)
 
-         Upon application of a State or political subdivision of a State, the Commission may, by regulation promulgated in accordance with paragraph (2), exempt from subsection (a) of this section, under such conditions as may be prescribed in such regulation, any standard for special packaging or related requirement of such State or political subdivision applicable to a household substance subject to a standard or requirement in effect under this Act if—
+         Upon application of a State or political subdivision of a State, the Commission may, by regulation promulgated in accordance with paragraph (2), exempt from subsection (a), under such conditions as may be prescribed in such regulation, any standard for special packaging or related requirement of such State or political subdivision applicable to a household substance subject to a standard or requirement in effect under this Act if—
 
             (A) compliance with the State or political subdivision standard or requirement would not cause the household substance to be in violation of the standard or requirement in effect under this Act, and
 
@@ -45,7 +45,7 @@
 
  __Amendments__ 
 
-    1976—[Pub. L. 94–284][/us/pl/94/284] substituted “(a) Except as provided in subsections (b) and (c) of this section, whenever” for “Whenever” in existing provision, and added subsecs. (b) and (c).
+    1976—[Pub. L. 94–284][/us/pl/94/284] substituted “(a) Except as provided in subsections (b) and (c), whenever” for “Whenever” in existing provision, and added subsecs. (b) and (c).
 
  __Transfer of Functions__ 
 

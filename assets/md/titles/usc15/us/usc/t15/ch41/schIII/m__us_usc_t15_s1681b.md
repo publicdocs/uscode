@@ -17,7 +17,7 @@
 
     (a) __In general__ 
 
-    Subject to subsection (c) of this section, any consumer reporting agency may furnish a consumer report under the following circumstances and no other:
+    Subject to subsection (c), any consumer reporting agency may furnish a consumer report under the following circumstances and no other:
 
         (1) In response to the order of a court having jurisdiction to issue such an order, or a subpoena issued in connection with proceedings before a Federal grand jury.
 
@@ -195,7 +195,7 @@
 
         (1) __In general__ 
 
-        A consumer reporting agency may furnish a consumer report relating to any consumer pursuant to subparagraph (A) or (C) of subsection (a)(3) of this section in connection with any credit or insurance transaction that is not initiated by the consumer only if—
+        A consumer reporting agency may furnish a consumer report relating to any consumer pursuant to subparagraph (A) or (C) of subsection (a)(3) in connection with any credit or insurance transaction that is not initiated by the consumer only if—
 
             (A) the consumer authorizes the agency to provide such report to such person; or
 
@@ -203,9 +203,9 @@
 
                 (i) the transaction consists of a firm offer of credit or insurance;
 
-                (ii) the consumer reporting agency has complied with subsection (e) of this section;
+                (ii) the consumer reporting agency has complied with subsection (e);
 
-                (iii) there is not in effect an election by the consumer, made in accordance with subsection (e) of this section, to have the consumer’s name and address excluded from lists of names provided by the agency pursuant to this paragraph; and
+                (iii) there is not in effect an election by the consumer, made in accordance with subsection (e), to have the consumer’s name and address excluded from lists of names provided by the agency pursuant to this paragraph; and
 
                 (iv) the consumer report does not contain a date of birth that shows that the consumer has not attained the age of 21, or, if the date of birth on the consumer report shows that the consumer has not attained the age of 21, such consumer consents to the consumer reporting agency to such furnishing.
 
@@ -229,7 +229,7 @@
 
         (1) __In general__ 
 
-            A consumer may elect to have the consumer’s name and address excluded from any list provided by a consumer reporting agency under subsection (c)(1)(B) of this section in connection with a credit or insurance transaction that is not initiated by the consumer, by notifying the agency in accordance with paragraph (2) that the consumer does not consent to any use of a consumer report relating to the consumer in connection with any credit or insurance transaction that is not initiated by the consumer.
+            A consumer may elect to have the consumer’s name and address excluded from any list provided by a consumer reporting agency under subsection (c)(1)(B) in connection with a credit or insurance transaction that is not initiated by the consumer, by notifying the agency in accordance with paragraph (2) that the consumer does not consent to any use of a consumer report relating to the consumer in connection with any credit or insurance transaction that is not initiated by the consumer.
 
         (2) __Manner of notification__ 
 
@@ -269,7 +269,7 @@
 
             (A) __In general__ 
 
-            Each consumer reporting agency that, under subsection (c)(1)(B) of this section, furnishes a consumer report in connection with a credit or insurance transaction that is not initiated by a consumer, shall—
+            Each consumer reporting agency that, under subsection (c)(1)(B), furnishes a consumer report in connection with a credit or insurance transaction that is not initiated by a consumer, shall—
 
                 (i) establish and maintain a notification system, including a toll-free telephone number, which permits any consumer whose consumer report is maintained by the agency to notify the agency, with appropriate identification, of the consumer’s election to have the consumer’s name and address excluded from any such list of names and addresses provided by the agency for such a transaction; and
 
@@ -413,7 +413,7 @@
 
     1997—Subsec. (b)(4). [Pub. L. 105–107][/us/pl/105/107] added par. (4).
 
-    1996—[Pub. L. 104–208][/us/pl/104/208], §§ 2403(a), 2404(a)(1), designated existing provisions as subsec. (a) and inserted heading, substituted “Subject to subsection (c) of this section, any consumer reporting agency” for “A consumer reporting agency” in introductory provisions, added subpars. (E) and (F) of par. (3), and struck out former subpar. (E) of par. (3) which read as follows: “otherwise has a legitimate business need for the information in connection with a business transaction involving the consumer.”
+    1996—[Pub. L. 104–208][/us/pl/104/208], §§ 2403(a), 2404(a)(1), designated existing provisions as subsec. (a) and inserted heading, substituted “Subject to subsection (c), any consumer reporting agency” for “A consumer reporting agency” in introductory provisions, added subpars. (E) and (F) of par. (3), and struck out former subpar. (E) of par. (3) which read as follows: “otherwise has a legitimate business need for the information in connection with a business transaction involving the consumer.”
 
     Subsec. (b). [Pub. L. 104–208, § 2403(b)][/us/pl/104/208/s2403/b], added subsec. (b).
 

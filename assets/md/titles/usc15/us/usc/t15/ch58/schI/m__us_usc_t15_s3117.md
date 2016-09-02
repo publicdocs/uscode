@@ -35,7 +35,7 @@
 
     (c) __Review in Economic Report of Federal policies and programs which affect public investments; recommendations respecting new policies or programs__ 
 
-        The Economic Report referred to in subsection (b) of this section shall review and assess Federal policies and programs which directly, or through grants-in-aid to State and local governments, or indirectly through other means, affect the adequacy, composition and effectiveness of public investments, as a means of achieving the goals of this chapter and the Employment Act of 1946 \[[15 U.S.C. 1021][/us/usc/t15/s1021] et seq.\]. The President shall recommend, as appropriate, new programs and policies or modifications to improve existing Federal programs affecting public investment.
+        The Economic Report referred to in subsection (b) shall review and assess Federal policies and programs which directly, or through grants-in-aid to State and local governments, or indirectly through other means, affect the adequacy, composition and effectiveness of public investments, as a means of achieving the goals of this chapter and the Employment Act of 1946 \[[15 U.S.C. 1021][/us/usc/t15/s1021] et seq.\]. The President shall recommend, as appropriate, new programs and policies or modifications to improve existing Federal programs affecting public investment.
 
 ([Pub. L. 95–523, title II, § 207][/us/pl/95/523/s207], Oct. 27, 1978, [92 Stat. 1903][/us/stat/92/1903].)
 

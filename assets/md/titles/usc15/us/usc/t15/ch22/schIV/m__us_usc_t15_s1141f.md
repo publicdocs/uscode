@@ -21,7 +21,7 @@
 
     (b) __Effect of proper filing__ 
 
-    Unless extension of protection is refused under [section 1141h of this title][/us/usc/t15/s1141h], the proper filing of the request for extension of protection under subsection (a) of this section shall constitute constructive use of the mark, conferring the same rights as those specified in [section 1057(c) of this title][/us/usc/t15/s1057/c], as of the earliest of the following:
+    Unless extension of protection is refused under [section 1141h of this title][/us/usc/t15/s1141h], the proper filing of the request for extension of protection under subsection (a) shall constitute constructive use of the mark, conferring the same rights as those specified in [section 1057(c) of this title][/us/usc/t15/s1057/c], as of the earliest of the following:
 
         (1) The international registration date, if the request for extension of protection was filed in the international application.
 

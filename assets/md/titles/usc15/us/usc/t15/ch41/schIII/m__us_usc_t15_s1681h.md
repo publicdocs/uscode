@@ -23,7 +23,7 @@
 
         (2) __Disclosure in writing__ 
 
-            Except as provided in subsection (b) of this section, the disclosures required to be made under [section 1681g of this title][/us/usc/t15/s1681g] shall be provided under that section in writing.
+            Except as provided in subsection (b), the disclosures required to be made under [section 1681g of this title][/us/usc/t15/s1681g] shall be provided under that section in writing.
 
     (b) __Other forms of disclosure__ 
 

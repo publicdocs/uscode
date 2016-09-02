@@ -199,7 +199,7 @@
 
                     (I) by reason of the failure of a consumer to provide sufficient information to investigate the disputed information; or
 
-                    (II) the submission by a consumer of a dispute that is substantially the same as a dispute previously submitted by or for the consumer, either directly to the person or through a consumer reporting agency under subsection (b) of this section, with respect to which the person has already performed the person’s duties under this paragraph or subsection (b) of this section, as applicable.
+                    (II) the submission by a consumer of a dispute that is substantially the same as a dispute previously submitted by or for the consumer, either directly to the person or through a consumer reporting agency under subsection (b), with respect to which the person has already performed the person’s duties under this paragraph or subsection (b), as applicable.
 
                 (ii) __Notice of determination__ 
 
@@ -261,7 +261,7 @@
 
     (d) __Limitation on enforcement__ 
 
-        The provisions of law described in paragraphs (1) through (3) of subsection (c) of this section (other than with respect to the exception described in paragraph (2) of subsection (c) of this section) shall be enforced exclusively as provided under [section 1681s of this title][/us/usc/t15/s1681s] by the Federal agencies and officials and the State officials identified in [section 1681s of this title][/us/usc/t15/s1681s].
+        The provisions of law described in paragraphs (1) through (3) of subsection (c) (other than with respect to the exception described in paragraph (2) of subsection (c)) shall be enforced exclusively as provided under [section 1681s of this title][/us/usc/t15/s1681s] by the Federal agencies and officials and the State officials identified in [section 1681s of this title][/us/usc/t15/s1681s].
 
     (e) __Accuracy guidelines and regulations required__ 
 

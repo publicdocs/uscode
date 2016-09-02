@@ -19,7 +19,7 @@
 
         (1)
 
-            (A) Not later than 60 days after the date of the promulgation of a rule under section 2603(a), 2604(a)(2), 2604(b)(4), 2605(a), 2605(e), or 2607 of this title, or under subchapter II or IV of this chapter, any person may file a petition for judicial review of such rule with the United States Court of Appeals for the District of Columbia Circuit or for the circuit in which such person resides or in which such person’s principal place of business is located. Courts of appeals of the United States shall have exclusive jurisdiction of any action to obtain judicial review (other than in an enforcement proceeding) of such a rule if any district court of the United States would have had jurisdiction of such action but for this subparagraph.
+            (A) Not later than 60 days after the date of the promulgation of a rule under section 2603(a), 2604(a)(2), 2604(b)(4), 2605(a), 2605(e), or 2607 of this title, or under subchapter II or IV, any person may file a petition for judicial review of such rule with the United States Court of Appeals for the District of Columbia Circuit or for the circuit in which such person resides or in which such person’s principal place of business is located. Courts of appeals of the United States shall have exclusive jurisdiction of any action to obtain judicial review (other than in an enforcement proceeding) of such a rule if any district court of the United States would have had jurisdiction of such action but for this subparagraph.
 
             (B) Courts of appeals of the United States shall have exclusive jurisdiction of any action to obtain judicial review (other than in an enforcement proceeding) of an order issued under subparagraph (A) or (B) of [section 2605(b)(1) of this title][/us/usc/t15/s2605/b/1] if any district court of the United States would have had jurisdiction of such action but for this subparagraph.
 
@@ -31,7 +31,7 @@
 
             (A) the rule being reviewed under this section;
 
-            (B) in the case of a rule under [section 2603(a) of this title][/us/usc/t15/s2603/a], the finding required by such section, in the case of a rule under [section 2604(b)(4) of this title][/us/usc/t15/s2604/b/4], the finding required by such section, in the case of a rule under [section 2605(a) of this title][/us/usc/t15/s2605/a] the finding required by section 2604(f) or 2605(a) of this title, as the case may be, in the case of a rule under [section 2605(a) of this title][/us/usc/t15/s2605/a], the statement required by [section 2605(c)(1) of this title][/us/usc/t15/s2605/c/1], and in the case of a rule under [section 2605(e) of this title][/us/usc/t15/s2605/e], the findings required by paragraph (2)(B) or (3)(B) of such section, as the case may be  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be followed by a comma. </sup></sup>  and in the case of a rule under subchapter IV of this chapter, the finding required for the issuance of such a rule;
+            (B) in the case of a rule under [section 2603(a) of this title][/us/usc/t15/s2603/a], the finding required by such section, in the case of a rule under [section 2604(b)(4) of this title][/us/usc/t15/s2604/b/4], the finding required by such section, in the case of a rule under [section 2605(a) of this title][/us/usc/t15/s2605/a] the finding required by section 2604(f) or 2605(a) of this title, as the case may be, in the case of a rule under [section 2605(a) of this title][/us/usc/t15/s2605/a], the statement required by [section 2605(c)(1) of this title][/us/usc/t15/s2605/c/1], and in the case of a rule under [section 2605(e) of this title][/us/usc/t15/s2605/e], the findings required by paragraph (2)(B) or (3)(B) of such section, as the case may be  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be followed by a comma. </sup></sup>  and in the case of a rule under subchapter IV, the finding required for the issuance of such a rule;
 
             (C) any transcript required to be made of oral presentations made in proceedings for the promulgation of such rule;
 
@@ -47,13 +47,13 @@
 
         (1)
 
-            (A) Upon the filing of a petition under subsection (a)(1) of this section for judicial review of a rule, the court shall have jurisdiction (i) to grant appropriate relief, including interim relief, as provided in chapter 7 of title 5, and (ii) except as otherwise provided in subparagraph (B), to review such rule in accordance with chapter 7 of title 5.
+            (A) Upon the filing of a petition under subsection (a)(1) for judicial review of a rule, the court shall have jurisdiction (i) to grant appropriate relief, including interim relief, as provided in chapter 7 of title 5, and (ii) except as otherwise provided in subparagraph (B), to review such rule in accordance with chapter 7 of title 5.
 
             (B)
 
  [Section 706 of title 5][/us/usc/t5/s706] shall apply to review of a rule under this section, except that—
 
-                (i) in the case of review of a rule under section 2603(a), 2604(b)(4), 2605(a), or 2605(e) of this title, the standard for review prescribed by paragraph (2)(E) of such section 706 shall not apply and the court shall hold unlawful and set aside such rule if the court finds that the rule is not supported by substantial evidence in the rulemaking record (as defined in subsection (a)(3) of this section) taken as a whole;
+                (i) in the case of review of a rule under section 2603(a), 2604(b)(4), 2605(a), or 2605(e) of this title, the standard for review prescribed by paragraph (2)(E) of such section 706 shall not apply and the court shall hold unlawful and set aside such rule if the court finds that the rule is not supported by substantial evidence in the rulemaking record (as defined in subsection (a)(3)) taken as a whole;
 
                 (ii)
 
@@ -83,7 +83,7 @@
 
     (d) __Fees and costs__ 
 
-        The decision of the court in an action commenced under subsection (a) of this section, or of the Supreme Court of the United States on review of such a decision, may include an award of costs of suit and reasonable fees for attorneys and expert witnesses if the court determines that such an award is appropriate.
+        The decision of the court in an action commenced under subsection (a), or of the Supreme Court of the United States on review of such a decision, may include an award of costs of suit and reasonable fees for attorneys and expert witnesses if the court determines that such an award is appropriate.
 
     (e) __Other remedies__ 
 
@@ -93,9 +93,9 @@
 
  __Amendments__ 
 
-    1992—Subsec. (a)(1)(A). [Pub. L. 102–550, § 1021(b)(8)(A)][/us/pl/102/550/s1021/b/8/A], substituted “subchapter II or IV of this chapter” for “subchapter II of this chapter”.
+    1992—Subsec. (a)(1)(A). [Pub. L. 102–550, § 1021(b)(8)(A)][/us/pl/102/550/s1021/b/8/A], substituted “subchapter II or IV” for “subchapter II”.
 
-    Subsec. (a)(3)(B). [Pub. L. 102–550, § 1021(b)(8)(B)][/us/pl/102/550/s1021/b/8/B], inserted before semicolon at end “and in the case of a rule under subchapter IV of this chapter, the finding required for the issuance of such a rule”.
+    Subsec. (a)(3)(B). [Pub. L. 102–550, § 1021(b)(8)(B)][/us/pl/102/550/s1021/b/8/B], inserted before semicolon at end “and in the case of a rule under subchapter IV, the finding required for the issuance of such a rule”.
 
     1986—Subsec. (a)(1)(A). [Pub. L. 99–519][/us/pl/99/519] inserted reference to subchapter II of this chapter.
 

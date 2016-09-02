@@ -17,7 +17,7 @@
 
     (a) __In general__ 
 
-        Within 360 days after October 22, 1986, the Administrator shall promulgate regulations as described in subsections (b) through (i) of this section. With respect to regulations described in subsections (b), (c), (d), (e), (f), (g), and (i) of this section, the Administrator shall issue an advanced notice of proposed rulemaking within 60 days after October 22, 1986, and shall propose regulations within 180 days after October 22, 1986. Any regulation promulgated under this section must protect human health and the environment.
+        Within 360 days after October 22, 1986, the Administrator shall promulgate regulations as described in subsections (b) through (i). With respect to regulations described in subsections (b), (c), (d), (e), (f), (g), and (i), the Administrator shall issue an advanced notice of proposed rulemaking within 60 days after October 22, 1986, and shall propose regulations within 180 days after October 22, 1986. Any regulation promulgated under this section must protect human health and the environment.
 
     (b) __Inspection__ 
 
@@ -63,19 +63,19 @@
 
         (2) __Response action for damaged asbestos__ 
 
-            In the case of a response action for the circumstances described in subsection (c)(1)(A) of this section, methods for responding shall include methods identified in chapters 3 and 5 of the “Guidance for Controlling Asbestos-Containing Material in Buildings”.
+            In the case of a response action for the circumstances described in subsection (c)(1)(A), methods for responding shall include methods identified in chapters 3 and 5 of the “Guidance for Controlling Asbestos-Containing Material in Buildings”.
 
         (3) __Response action for significantly damaged asbestos__ 
 
-            In the case of a response action for the circumstances described in subsection (c)(1)(B) of this section, methods for responding shall include methods identified in chapter 5 of the “Guidance for Controlling Asbestos-Containing Material in Buildings”.
+            In the case of a response action for the circumstances described in subsection (c)(1)(B), methods for responding shall include methods identified in chapter 5 of the “Guidance for Controlling Asbestos-Containing Material in Buildings”.
 
         (4) __Response action for potentially damaged asbestos__ 
 
-            In the case of a response action for the circumstances described in subsection (c)(1)(C) of this section, methods for responding shall include methods identified in chapters 3 and 5 of the “Guidance for Controlling Asbestos-Containing Material in Buildings”, unless preventive measures will eliminate the reasonable likelihood that the asbestos-containing material will become damaged, deteriorated, or delaminated.
+            In the case of a response action for the circumstances described in subsection (c)(1)(C), methods for responding shall include methods identified in chapters 3 and 5 of the “Guidance for Controlling Asbestos-Containing Material in Buildings”, unless preventive measures will eliminate the reasonable likelihood that the asbestos-containing material will become damaged, deteriorated, or delaminated.
 
         (5) __Response action for potentially significantly damaged asbestos__ 
 
-            In the case of a response action for the circumstances described in subsection (c)(1)(D) of this section, methods for responding shall include methods identified in chapter 5 of the “Guidance for Controlling Asbestos-Containing Material in Buildings”, unless preventive measures will eliminate the reasonable likelihood that the asbestos-containing material will become significantly damaged, deteriorated, or delaminated.
+            In the case of a response action for the circumstances described in subsection (c)(1)(D), methods for responding shall include methods identified in chapter 5 of the “Guidance for Controlling Asbestos-Containing Material in Buildings”, unless preventive measures will eliminate the reasonable likelihood that the asbestos-containing material will become significantly damaged, deteriorated, or delaminated.
 
         (6) __“Preventive measures” defined__ 
 
@@ -129,13 +129,13 @@
 
             (A) An inspection statement describing inspection and response action activities carried out before October 22, 1986.
 
-            (B) A description of the results of the inspection conducted pursuant to regulations under subsection (b) of this section, including a description of the specific areas inspected.
+            (B) A description of the results of the inspection conducted pursuant to regulations under subsection (b), including a description of the specific areas inspected.
 
-            (C) A detailed description of measures to be taken to respond to any friable asbestos-containing material pursuant to the regulations promulgated under subsections (c), (d), and (e) of this section, including the location or locations at which a response action will be taken, the method or methods of response action to be used, and a schedule for beginning and completing response actions.
+            (C) A detailed description of measures to be taken to respond to any friable asbestos-containing material pursuant to the regulations promulgated under subsections (c), (d), and (e), including the location or locations at which a response action will be taken, the method or methods of response action to be used, and a schedule for beginning and completing response actions.
 
-            (D) A detailed description of any asbestos-containing material which remains in the school building once response actions are undertaken pursuant to the regulations promulgated under subsections (c), (d), and (e) of this section.
+            (D) A detailed description of any asbestos-containing material which remains in the school building once response actions are undertaken pursuant to the regulations promulgated under subsections (c), (d), and (e).
 
-            (E) A plan for periodic reinspection and long-term surveillance activities developed pursuant to regulations promulgated under subsection (g) of this section, and a plan for operations and maintenance activities developed pursuant to regulations promulgated under subsection (f) of this section.
+            (E) A plan for periodic reinspection and long-term surveillance activities developed pursuant to regulations promulgated under subsection (g), and a plan for operations and maintenance activities developed pursuant to regulations promulgated under subsection (f).
 
             (F)
 

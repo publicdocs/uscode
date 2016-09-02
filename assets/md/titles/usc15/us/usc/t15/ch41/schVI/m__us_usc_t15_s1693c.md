@@ -47,11 +47,11 @@
 
     (b) __Notification of changes to consumer__ 
 
-        A financial institution shall notify a consumer in writing at least twenty-one days prior to the effective date of any change in any term or condition of the consumer’s account required to be disclosed under subsection (a) of this section if such change would result in greater cost or liability for such consumer or decreased access to the consumer’s account. A financial institution may, however, implement a change in the terms or conditions of an account without prior notice when such change is immediately necessary to maintain or restore the security of an electronic fund transfer system or a consumer’s account. Subject to subsection (a)(3) of this section, the Bureau shall require subsequent notification if such a change is made permanent.
+        A financial institution shall notify a consumer in writing at least twenty-one days prior to the effective date of any change in any term or condition of the consumer’s account required to be disclosed under subsection (a) if such change would result in greater cost or liability for such consumer or decreased access to the consumer’s account. A financial institution may, however, implement a change in the terms or conditions of an account without prior notice when such change is immediately necessary to maintain or restore the security of an electronic fund transfer system or a consumer’s account. Subject to subsection (a)(3), the Bureau shall require subsequent notification if such a change is made permanent.
 
     (c) __Time for disclosures respecting accounts accessible prior to effective date of this subchapter__ 
 
-    For any account of a consumer made accessible to electronic fund transfers prior to the effective date of this subchapter, the information required to be disclosed to the consumer under subsection (a) of this section shall be disclosed not later than the earlier of—
+    For any account of a consumer made accessible to electronic fund transfers prior to the effective date of this subchapter, the information required to be disclosed to the consumer under subsection (a) shall be disclosed not later than the earlier of—
 
         (1) the first periodic statement required by [section 1693d(c) of this title][/us/usc/t15/s1693d/c] after the effective date of this subchapter; or
 

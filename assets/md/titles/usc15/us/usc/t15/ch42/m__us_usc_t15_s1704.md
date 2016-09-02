@@ -25,7 +25,7 @@
 
     (c) __Filing deemed to have taken place upon receipt of statement of record accompanied by fee__ 
 
-        The filing with the Director of a statement of record, or of an amendment thereto, shall be deemed to have taken place upon the receipt thereof, accompanied by payment of the fee required by subsection (b) of this section.
+        The filing with the Director of a statement of record, or of an amendment thereto, shall be deemed to have taken place upon the receipt thereof, accompanied by payment of the fee required by subsection (b).
 
     (d) __Availability of information to public__ 
 

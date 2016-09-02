@@ -447,7 +447,7 @@ Chattanooga, Tenn.  </td>
 
  __Short Title of__  __[__  __Act July 30, 1953, Ch. 282__  __][/us/act/1953-07-30/ch282]__  __, Title I__ 
 
-    Congress, in enacting the amendments to sections 603(a) and 604(f) of this title; the provisions set out as notes under sections 603 and 609 of this title; the provisions set out as section 459 of former Title 40, Public Buildings, Property, and Works; and the provisions set out as notes under sections 98 and 544 of Title 50, War and National Defense, section 1929 and sections 2094 and 2261 of Appendix to title 50, provided by section 101 of such act that they should be popularly known as the “Reconstruction Finance Corporation Liquidation Act”.
+    Congress, in enacting the amendments to sections 603(a) and 604(f) of this title; the provisions set out as notes under sections 603 and 609 of this title; the provisions set out as section 459 of former Title 40, Public Buildings, Property, and Works; and the provisions set out as notes under sections 98, 544, and 4534 of Title 50, War and National Defense, and sections 1929 and 2261 of the former Appendix to Title 50, provided by section 101 of such act that they should be popularly known as the “Reconstruction Finance Corporation Liquidation Act”.
 
  __Continuation of Pending Proceedings__ 
 

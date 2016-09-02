@@ -25,7 +25,7 @@
 
     (b) __Exemption for national security investigations__ 
 
-        Subsection (a) of this section does not apply in the case of an agency or department of the United States Government that seeks to obtain and use a consumer report for employment purposes, if the head of the agency or department makes a written finding as prescribed under [section 1681b(b)(4)(A) of this title][/us/usc/t15/s1681b/b/4/A].
+        Subsection (a) does not apply in the case of an agency or department of the United States Government that seeks to obtain and use a consumer report for employment purposes, if the head of the agency or department makes a written finding as prescribed under [section 1681b(b)(4)(A) of this title][/us/usc/t15/s1681b/b/4/A].
 
 ([Pub. L. 90–321, title VI, § 613][/us/pl/90/321/s613], as added [Pub. L. 91–508, title VI, § 601][/us/pl/91/508/s601], Oct. 26, 1970, [84 Stat. 1133][/us/stat/84/1133]; amended [Pub. L. 105–347, § 4(b)][/us/pl/105/347/s4/b], Nov. 2, 1998, [112 Stat. 3210][/us/stat/112/3210].)
 

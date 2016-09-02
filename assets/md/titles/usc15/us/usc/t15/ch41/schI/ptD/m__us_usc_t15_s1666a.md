@@ -25,7 +25,7 @@
 
     (c) __Reports by creditor of subsequent resolution of delinquent amounts__ 
 
-        A creditor shall report any subsequent resolution of any delinquencies reported pursuant to subsection (b) of this section to the parties to whom such delinquencies were initially reported.
+        A creditor shall report any subsequent resolution of any delinquencies reported pursuant to subsection (b) to the parties to whom such delinquencies were initially reported.
 
 ([Pub. L. 90–321, title I, § 162][/us/pl/90/321/s162], as added [Pub. L. 93–495, title III, § 306][/us/pl/93/495/s306], Oct. 28, 1974, [88 Stat. 1513][/us/stat/88/1513].)
 

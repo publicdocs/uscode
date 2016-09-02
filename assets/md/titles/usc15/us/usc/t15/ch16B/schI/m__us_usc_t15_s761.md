@@ -165,7 +165,7 @@
 
     Ex. Ord. No. 11790, June 25, 1974, 39 F.R. 23185, as amended by Ex. Ord. No. 12038, Feb. 3, 1978, 43 F.R. 4957; Ex. Ord. No. 12919, § 904(c), June 3, 1994, 59 F.R. 29534, provided:
 
-Under and by virtue of the authority vested in me by the Federal Energy Administration Act of 1974 ([Public Law 93–275][/us/pl/93/275]) \[this chapter\], the Emergency Petroleum Allocation Act of 1973 ([Public Law 93–159][/us/pl/93/159]; [87 Stat. 627][/us/stat/87/627]) \[15 U.S.C. § 751 et seq.\], the Economic Stabilization Act of 1970, as amended \[formerly 12 U.S.C. § 1904 note\], the Defense Production Act of 1950, as amended (50 U.S.C. App. 2061, et seq.), and [section 301 of title 3][/us/usc/t3/s301] of the United States Code, it is hereby ordered as follows:
+Under and by virtue of the authority vested in me by the Federal Energy Administration Act of 1974 ([Public Law 93–275][/us/pl/93/275]) \[this chapter\], the Emergency Petroleum Allocation Act of 1973 ([Public Law 93–159][/us/pl/93/159]; [87 Stat. 627][/us/stat/87/627]) \[[15 U.S.C. 751][/us/usc/t15/s751] et seq.\], the Economic Stabilization Act of 1970, as amended \[formerly [12 U.S.C. 1904][/us/usc/t12/s1904] note\], the Defense Production Act of 1950, as amended (50 U.S.C. App. 2061, et seq.) \[now [50 U.S.C. 4501][/us/usc/t50/s4501] et seq.\], and [section 301 of title 3][/us/usc/t3/s301] of the United States Code, it is hereby ordered as follows:
 
     Section 1. Pursuant to the authority vested in me by section 30 of the Federal Energy Administration Act of 1974 \[set out above\], notice is hereby given that that act shall be effective as of June 27, 1974.
 
@@ -177,7 +177,7 @@ Under and by virtue of the authority vested in me by the Federal Energy Administ
 
     (b) The authority under the Economic Stabilization Act of 1970, as amended \[formerly 12 U.S.C. § 1904 note\], that was delegated to the Administrator of the Federal Energy Office by the Chairman of the Cost of Living Council pursuant to section 4(b) of Executive Order No. 11748 of December 4, 1973 \[set out as a note under [section 754 of this title][/us/usc/t15/s754]\], is hereby transferred to the Secretary to the extent such authority remains available under the provisions of section 218 of that act \[formerly 12 U.S.C. § 1904 note\].
 
-    Sec. 4. Notwithstanding the provisions of Executive Order No. 12919, as amended \[formerly set out as a note under [section 2153 of Title 50][/us/usc/t50/s2153], Appendix, War and National Defense\], the Secretary is authorized to exercise the authority vested in the President by the Defense Production Act of 1950, as amended \[50 U.S.C. App. § 2061 et seq.\], except section 708 thereof \[50 U.S.C. App. § 2158\], as it relates to the production, conservation, use, control, distribution, and allocation of energy, without approval, ratification, or other action of the President or any other official of the executive branch of the Government.
+    Sec. 4. Notwithstanding the provisions of Executive Order No. 12919, as amended \[formerly set out as a note under section 2153 of the former Appendix to Title 50, War and National Defense\], the Secretary is authorized to exercise the authority vested in the President by the Defense Production Act of 1950, as amended \[[50 U.S.C. 4501][/us/usc/t50/s4501] et seq.\], except section 708 thereof \[[50 U.S.C. 4558][/us/usc/t50/s4558]\], as it relates to the production, conservation, use, control, distribution, and allocation of energy, without approval, ratification, or other action of the President or any other official of the executive branch of the Government.
 
     Sec. 5. (a) The Federal Energy Office established by Executive Order No. 11748 is hereby abolished, and that Executive order is hereby revoked.
 
@@ -250,9 +250,13 @@ Under and by virtue of the authority vested in me by the Federal Energy Administ
 [/us/pl/93/275]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F275
 [/us/pl/93/159]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F159
 [/us/stat/87/627]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F627
+[/us/usc/t15/s751]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs751
+[/us/usc/t12/s1904]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1904
+[/us/usc/t50/s4501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4501
 [/us/usc/t3/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft3%2Fs301
 [/us/usc/t15/s754]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs754
-[/us/usc/t50/s2153]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs2153
+[/us/usc/t50/s4501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4501
+[/us/usc/t50/s4558]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4558
 [/us/usc/t5/s5314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5314
 [/us/pl/94/385]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F385
 

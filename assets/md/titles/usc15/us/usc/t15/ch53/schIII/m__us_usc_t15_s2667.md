@@ -55,7 +55,7 @@
 
     (b) __Authorization__ 
 
-        For the purpose of carrying out the provisions of paragraph (6) of subsection (a) of this section, there are authorized to be appropriated such sums, not to exceed $500,000, as may be necessary. For the purpose of carrying out the provisions of this section other than such paragraph (6), there are authorized to be appropriated such sums, not to exceed $1,000,000, as may be necessary.
+        For the purpose of carrying out the provisions of paragraph (6) of subsection (a), there are authorized to be appropriated such sums, not to exceed $500,000, as may be necessary. For the purpose of carrying out the provisions of this section other than such paragraph (6), there are authorized to be appropriated such sums, not to exceed $1,000,000, as may be necessary.
 
 ([Pub. L. 94–469, title III, § 307][/us/pl/94/469/s307], as added [Pub. L. 100–551, § 1(a)][/us/pl/100/551/s1/a], Oct. 28, 1988, [102 Stat. 2761][/us/stat/102/2761].)
 

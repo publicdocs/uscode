@@ -17,7 +17,7 @@
 
     (a) __Appointment__ 
 
-        The Administrator shall appoint an Asbestos Ombudsman, who shall carry out the duties described in subsection (b) of this section.
+        The Administrator shall appoint an Asbestos Ombudsman, who shall carry out the duties described in subsection (b).
 
     (b) __Duties__ 
 

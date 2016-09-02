@@ -17,7 +17,7 @@
 
     (a) __In general__ 
 
-        Except as provided in subsections (b) and (c) of this section, this subchapter does not annul, alter, affect, or exempt any person subject to the provisions of this subchapter from complying with the laws of any State with respect to the collection, distribution, or use of any information on consumers, or for the prevention or mitigation of identity theft, except to the extent that those laws are inconsistent with any provision of this subchapter, and then only to the extent of the inconsistency.
+        Except as provided in subsections (b) and (c), this subchapter does not annul, alter, affect, or exempt any person subject to the provisions of this subchapter from complying with the laws of any State with respect to the collection, distribution, or use of any information on consumers, or for the prevention or mitigation of identity theft, except to the extent that those laws are inconsistent with any provision of this subchapter, and then only to the extent of the inconsistency.
 
     (b) __General exceptions__ 
 
@@ -109,7 +109,7 @@
 
     (d) __Limitations__ 
 
-        Subsections (b) and (c) of this section do not affect any settlement, agreement, or consent judgment between any State Attorney General and any consumer reporting agency in effect on September 30, 1996.
+        Subsections (b) and (c) do not affect any settlement, agreement, or consent judgment between any State Attorney General and any consumer reporting agency in effect on September 30, 1996.
 
 ([Pub. L. 90–321, title VI, § 625][/us/pl/90/321/s625], formerly § 622, as added [Pub. L. 91–508, title VI, § 601][/us/pl/91/508/s601], Oct. 26, 1970, [84 Stat. 1136][/us/stat/84/1136]; renumbered § 623, [Pub. L. 102–537, § 2(a)][/us/pl/102/537/s2/a], Oct. 27, 1992, [106 Stat. 3531][/us/stat/106/3531]; renumbered § 624 and amended [Pub. L. 104–208, div. A, title II][/us/pl/104/208], §§ 2413(a)(1), 2419, Sept. 30, 1996, [110 Stat. 3009–447][/us/stat/110/3009-447], 3009–452; renumbered § 625 and amended [Pub. L. 108–159, title I, § 151(a)(2)][/us/pl/108/159/s151/a/2], title II, §§ 212(e), 214(a)(1), (c)(2), title III, § 311(b), title VII, § 711, Dec. 4, 2003, [117 Stat. 1964][/us/stat/117/1964], 1977, 1980, 1983, 1989, 2011.)
 
@@ -133,7 +133,7 @@
 
     Subsec. (b)(5). [Pub. L. 108–159, § 711(2)][/us/pl/108/159/s711/2], added par. (5).
 
-    Subsec. (d). [Pub. L. 108–159, § 711(3)][/us/pl/108/159/s711/3], substituted “(c) of this section” for “(c) of this section—”, struck out par. (1) designation before “do not affect”, substituted “1996.” for “1996; and”, and struck out par. (2) which read as follows:
+    Subsec. (d). [Pub. L. 108–159, § 711(3)][/us/pl/108/159/s711/3], substituted “(b) and (c)” for “(b) and (c)—”, struck out par. (1) designation before “do not affect”, substituted “1996.” for “1996; and”, and struck out par. (2) which read as follows:
 
     “(2) do not apply to any provision of State law (including any provision of a State constitution) that—
 
@@ -143,7 +143,7 @@
 
     “(C) gives greater protection to consumers than is provided under this subchapter.”
 
-    1996—Subsec. (a). [Pub. L. 104–208, § 2419(1)][/us/pl/104/208/s2419/1], designated existing provisions as subsec. (a), inserted heading, and substituted “Except as provided in subsections (b) and (c) of this section, this subchapter” for “This subchapter”.
+    1996—Subsec. (a). [Pub. L. 104–208, § 2419(1)][/us/pl/104/208/s2419/1], designated existing provisions as subsec. (a), inserted heading, and substituted “Except as provided in subsections (b) and (c), this subchapter” for “This subchapter”.
 
     Subsecs. (b) to (d). [Pub. L. 104–208, § 2419(2)][/us/pl/104/208/s2419/2], added subsecs. (b) to (d).
 

@@ -25,7 +25,7 @@
 
     (c) __Rules and regulations__ 
 
-        The Federal Trade Commission shall prescribe rules for determining the manner and form in which items described in subsection (a) or (b) of this section shall be permanently marked.
+        The Federal Trade Commission shall prescribe rules for determining the manner and form in which items described in subsection (a) or (b) shall be permanently marked.
 
     (d) __Provision of assistance or support__ 
 
@@ -33,7 +33,7 @@
 
     (e) __Exemption__ 
 
-        Subsections (a)  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be followed by a comma. </sup></sup>  (b), and (d), and regulations under subsection (c) of this section, shall not apply to any common carrier or contract carrier or freight forwarder with respect to an imitation political item or imitation numismatic item received, shipped, delivered, or handled by it for shipment in the ordinary course of its business.
+        Subsections (a)  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be followed by a comma. </sup></sup>  (b), and (d), and regulations under subsection (c), shall not apply to any common carrier or contract carrier or freight forwarder with respect to an imitation political item or imitation numismatic item received, shipped, delivered, or handled by it for shipment in the ordinary course of its business.
 
 ([Pub. L. 93–167, § 2][/us/pl/93/167/s2], Nov. 29, 1973, [87 Stat. 686][/us/stat/87/686]; [Pub. L. 113–288, § 2(1)][/us/pl/113/288/s2/1], Dec. 19, 2014, [128 Stat. 3281][/us/stat/128/3281].)
 

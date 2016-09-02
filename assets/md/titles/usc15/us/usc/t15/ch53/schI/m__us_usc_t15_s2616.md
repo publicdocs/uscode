@@ -23,11 +23,11 @@
 
             (A) restrain any violation of section 2614 or 2689 of this title,
 
-            (B) restrain any person from taking any action prohibited by [section 2604 of this title][/us/usc/t15/s2604], 2605 of this title, or subchapter IV of this chapter, or by a rule or order under [section 2604 of this title][/us/usc/t15/s2604], 2605 of this title, or subchapter IV of this chapter,
+            (B) restrain any person from taking any action prohibited by [section 2604 of this title][/us/usc/t15/s2604], 2605 of this title, or subchapter IV, or by a rule or order under [section 2604 of this title][/us/usc/t15/s2604], 2605 of this title, or subchapter IV,
 
             (C) compel the taking of any action required by or under this chapter, or
 
-            (D) direct any manufacturer or processor of a chemical substance, mixture, or product subject to subchapter IV of this chapter manufactured or processed in violation of [section 2604 of this title][/us/usc/t15/s2604], 2605 of this title, or subchapter IV of this chapter, or a rule or order under [section 2604 of this title][/us/usc/t15/s2604], 2605 of this title, or subchapter IV of this chapter, and distributed in commerce, (i) to give notice of such fact to distributors in commerce of such substance, mixture, or product and, to the extent reasonably ascertainable, to other persons in possession of such substance, mixture, or product or exposed to such substance, mixture, or product, (ii) to give public notice of such risk of injury, and (iii) to either replace or repurchase such substance, mixture, or product, whichever the person to which the requirement is directed elects.
+            (D) direct any manufacturer or processor of a chemical substance, mixture, or product subject to subchapter IV manufactured or processed in violation of [section 2604 of this title][/us/usc/t15/s2604], 2605 of this title, or subchapter IV, or a rule or order under [section 2604 of this title][/us/usc/t15/s2604], 2605 of this title, or subchapter IV, and distributed in commerce, (i) to give notice of such fact to distributors in commerce of such substance, mixture, or product and, to the extent reasonably ascertainable, to other persons in possession of such substance, mixture, or product or exposed to such substance, mixture, or product, (ii) to give public notice of such risk of injury, and (iii) to either replace or repurchase such substance, mixture, or product, whichever the person to which the requirement is directed elects.
 
         (2)
 
@@ -41,7 +41,7 @@
 
     (b) __Seizure__ 
 
-        Any chemical substance, mixture, or product subject to subchapter IV of this chapter which was manufactured, processed, or distributed in commerce in violation of this chapter or any rule promulgated or order issued under this chapter or any article containing such a substance or mixture shall be liable to be proceeded against, by process of libel, for the seizure and condemnation of such substance, mixture, product, or article, in any district court of the United States within the jurisdiction of which such substance, mixture, product, or article is found. Such proceedings shall conform as nearly as possible to proceedings in rem in admiralty.
+        Any chemical substance, mixture, or product subject to subchapter IV which was manufactured, processed, or distributed in commerce in violation of this chapter or any rule promulgated or order issued under this chapter or any article containing such a substance or mixture shall be liable to be proceeded against, by process of libel, for the seizure and condemnation of such substance, mixture, product, or article, in any district court of the United States within the jurisdiction of which such substance, mixture, product, or article is found. Such proceedings shall conform as nearly as possible to proceedings in rem in admiralty.
 
 ([Pub. L. 94–469, title I, § 17][/us/pl/94/469/s17], Oct. 11, 1976, [90 Stat. 2037][/us/stat/90/2037]; renumbered title I, [Pub. L. 99–519, § 3(c)(1)][/us/pl/99/519/s3/c/1], Oct. 22, 1986, [100 Stat. 2989][/us/stat/100/2989]; amended [Pub. L. 102–550, title X, § 1021(b)(6)][/us/pl/102/550/s1021/b/6], (7), Oct. 28, 1992, [106 Stat. 3923][/us/stat/106/3923].)
 
@@ -57,7 +57,7 @@
 
     “(D) direct any manufacturer or processor of a chemical substance or mixture manufactured or processed in violation of section 2604 or 2605 of this title or a rule or order under section 2604 or 2605 of this title and distributed in commerce, (i) to give notice of such fact to distributors in commerce of such substance or mixture and, to the extent reasonably ascertainable, to other persons in possession of such substance or mixture or exposed to such substance or mixture, (ii) to give public notice of such risk of injury, and (iii) to either replace or repurchase such substance or mixture, whichever the person to which the requirement is directed elects.”
 
-    Subsec. (b). [Pub. L. 102–550, § 1021(b)(7)][/us/pl/102/550/s1021/b/7], in first sentence substituted “substance, mixture, or product subject to subchapter IV of this chapter” for “substance or mixture” and inserted “product,” before “or article” in two places.
+    Subsec. (b). [Pub. L. 102–550, § 1021(b)(7)][/us/pl/102/550/s1021/b/7], in first sentence substituted “substance, mixture, or product subject to subchapter IV” for “substance or mixture” and inserted “product,” before “or article” in two places.
 
 ----------
 

@@ -25,11 +25,11 @@
 
     (b) __Equitable relief by court; bond requirements; grounds for nonexercise of court’s equitable powers__ 
 
-        (1) In any action under subsection (a) of this section, the court shall grant such equitable relief as the court determines is necessary to remedy the effects of any failure to comply with the requirements of section 2802, 2803, or 2807 of this title, including declaratory judgment, mandatory or prohibitive injunctive relief, and interim equitable relief.
+        (1) In any action under subsection (a), the court shall grant such equitable relief as the court determines is necessary to remedy the effects of any failure to comply with the requirements of section 2802, 2803, or 2807 of this title, including declaratory judgment, mandatory or prohibitive injunctive relief, and interim equitable relief.
 
         (2)
 
-         Except as provided in paragraph (3), in any action under subsection (a) of this section, the court shall grant a preliminary injunction if—
+         Except as provided in paragraph (3), in any action under subsection (a), the court shall grant a preliminary injunction if—
 
             (A)
 
@@ -41,11 +41,11 @@
 
             (B) the court determines that, on balance, the hardships imposed upon the franchisor by the issuance of such preliminary injunctive relief will be less than the hardship which would be imposed upon such franchisee if such preliminary injunctive relief were not granted.
 
-        (3) Nothing in this subsection prevents any court from requiring the franchisee in any action under subsection (a) of this section to post a bond, in an amount established by the court, prior to the issuance or continuation of any equitable relief.
+        (3) Nothing in this subsection prevents any court from requiring the franchisee in any action under subsection (a) to post a bond, in an amount established by the court, prior to the issuance or continuation of any equitable relief.
 
         (4)
 
-         In any action under subsection (a) of this section, the court need not exercise its equity powers to compel continuation or renewal of the franchise relationship if such action was commenced—
+         In any action under subsection (a), the court need not exercise its equity powers to compel continuation or renewal of the franchise relationship if such action was commenced—
 
             (A) more than 90 days after the date on which notification pursuant to [section 2804(a) of this title][/us/usc/t15/s2804/a] was posted or personally delivered to the franchisee;
 
@@ -55,13 +55,13 @@
 
     (c) __Burden of proof; burden of going forward with evidence__ 
 
-        In any action under subsection (a) of this section, the franchisee shall have the burden of proving the termination of the franchise or the nonrenewal of the franchise relationship. The franchisor shall bear the burden of going forward with evidence to establish as an affirmative defense that such termination or nonrenewal was permitted under section 2802(b) or 2803 of this title, and, if applicable, that such franchisor complied with the requirements of [section 2802(d) of this title][/us/usc/t15/s2802/d].
+        In any action under subsection (a), the franchisee shall have the burden of proving the termination of the franchise or the nonrenewal of the franchise relationship. The franchisor shall bear the burden of going forward with evidence to establish as an affirmative defense that such termination or nonrenewal was permitted under section 2802(b) or 2803 of this title, and, if applicable, that such franchisor complied with the requirements of [section 2802(d) of this title][/us/usc/t15/s2802/d].
 
     (d) __Actual and exemplary damages and attorney and expert witness fees to franchisee; determination by court of right to exemplary damages and amount; attorney and expert witness fees to franchisor for frivolous actions__ 
 
         (1)
 
-         If the franchisee prevails in any action under subsection (a) of this section, such franchisee shall be entitled—
+         If the franchisee prevails in any action under subsection (a), such franchisee shall be entitled—
 
             (A) consistent with the Federal Rules of Civil Procedure, to actual damages;
 
@@ -71,13 +71,13 @@
 
         (2) The question of whether to award exemplary damages and the amount of any such award shall be determined by the court and not by a jury.
 
-        (3) In any action under subsection (a) of this section, the court may, in its discretion, direct that reasonable attorney and expert witness fees be paid by the franchisee if the court finds that such action is frivolous.
+        (3) In any action under subsection (a), the court may, in its discretion, direct that reasonable attorney and expert witness fees be paid by the franchisee if the court finds that such action is frivolous.
 
     (e) __Discretionary power of court to compel continuation or renewal of franchise relationship; grounds for noncompulsion; right of franchisee to actual damages and attorney and expert witness fees unaffected__ 
 
         (1)
 
-         In any action under subsection (a) of this section with respect to a failure of a franchisor to renew a franchise relationship in compliance with the requirements of [section 2802 of this title][/us/usc/t15/s2802], the court may not compel a continuation or renewal of the franchise relationship if the franchisor demonstrates to the satisfaction of the court that—
+         In any action under subsection (a) with respect to a failure of a franchisor to renew a franchise relationship in compliance with the requirements of [section 2802 of this title][/us/usc/t15/s2802], the court may not compel a continuation or renewal of the franchise relationship if the franchisor demonstrates to the satisfaction of the court that—
 
             (A)
 
@@ -95,7 +95,7 @@
 
             (B) the requirements of [section 2804 of this title][/us/usc/t15/s2804] have been complied with.
 
-        (2) The provisions of paragraph (1) shall not affect any right of any franchisee to recover actual damages and reasonable attorney and expert witness fees under subsection (d) of this section if such nonrenewal is prohibited by [section 2802 of this title][/us/usc/t15/s2802].
+        (2) The provisions of paragraph (1) shall not affect any right of any franchisee to recover actual damages and reasonable attorney and expert witness fees under subsection (d) if such nonrenewal is prohibited by [section 2802 of this title][/us/usc/t15/s2802].
 
     (f) __Release or waiver of rights__ 
 

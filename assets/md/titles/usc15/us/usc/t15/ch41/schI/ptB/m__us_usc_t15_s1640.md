@@ -37,7 +37,7 @@
 
     (b) __Correction of errors__ 
 
-        A creditor or assignee has no liability under this section or [section 1607 of this title][/us/usc/t15/s1607] or [section 1611 of this title][/us/usc/t15/s1611] for any failure to comply with any requirement imposed under this part or part E of this subchapter, if within sixty days after discovering an error, whether pursuant to a final written examination report or notice issued under [section 1607(e)(1) of this title][/us/usc/t15/s1607/e/1] or through the creditor’s or assignee’s own procedures, and prior to the institution of an action under this section or the receipt of written notice of the error from the obligor, the creditor or assignee notifies the person concerned of the error and makes whatever adjustments in the appropriate account are necessary to assure that the person will not be required to pay an amount in excess of the charge actually disclosed, or the dollar equivalent of the annual percentage rate actually disclosed, whichever is lower.
+        A creditor or assignee has no liability under this section or [section 1607 of this title][/us/usc/t15/s1607] or [section 1611 of this title][/us/usc/t15/s1611] for any failure to comply with any requirement imposed under this part or part E, if within sixty days after discovering an error, whether pursuant to a final written examination report or notice issued under [section 1607(e)(1) of this title][/us/usc/t15/s1607/e/1] or through the creditor’s or assignee’s own procedures, and prior to the institution of an action under this section or the receipt of written notice of the error from the obligor, the creditor or assignee notifies the person concerned of the error and makes whatever adjustments in the appropriate account are necessary to assure that the person will not be required to pay an amount in excess of the charge actually disclosed, or the dollar equivalent of the annual percentage rate actually disclosed, whichever is lower.
 
     (c) __Unintentional violations; bona fide errors__ 
 
@@ -45,7 +45,7 @@
 
     (d) __Liability in transaction or lease involving multiple obligors__ 
 
-        When there are multiple obligors in a consumer credit transaction or consumer lease, there shall be no more than one recovery of damages under subsection (a)(2) of this section for a violation of this subchapter.
+        When there are multiple obligors in a consumer credit transaction or consumer lease, there shall be no more than one recovery of damages under subsection (a)(2) for a violation of this subchapter.
 
     (e) __Jurisdiction of courts; limitations on actions; State attorney general enforcement__ 
 
@@ -73,7 +73,7 @@
 
     (h) __Offset from amount owed to creditor or assignee; rights of defaulting consumer__ 
 
-        A person may not take any action to offset any amount for which a creditor or assignee is potentially liable to such person under subsection (a)(2) of this section against any amount owed by such person, unless the amount of the creditor’s or assignee’s liability under this subchapter has been determined by judgment of a court of competent jurisdiction in an action of which such person was a party. This subsection does not bar a consumer then in default on the obligation from asserting a violation of this subchapter as an original action, or as a defense or counterclaim to an action to collect amounts owed by the consumer brought by a person liable under this subchapter.
+        A person may not take any action to offset any amount for which a creditor or assignee is potentially liable to such person under subsection (a)(2) against any amount owed by such person, unless the amount of the creditor’s or assignee’s liability under this subchapter has been determined by judgment of a court of competent jurisdiction in an action of which such person was a party. This subsection does not bar a consumer then in default on the obligation from asserting a violation of this subchapter as an original action, or as a defense or counterclaim to an action to collect amounts owed by the consumer brought by a person liable under this subchapter.
 
     (i) __Class action moratorium__ 
 

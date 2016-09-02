@@ -25,7 +25,7 @@
 
     (c) __Jurisdiction; costs and attorneys’ fees; substantial evidence to support administrative findings__ 
 
-        Upon the filing of the petition under subsection (a) of this section the court shall have jurisdiction to review the consumer product safety rule in accordance with chapter 7 of title 5, and to grant appropriate relief, including interim relief, as provided in such chapter. A court may in the interest of justice include in such relief an award of the costs of suit, including reasonable attorneys’ fees (determined in accordance with subsection (f) of this section  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be followed by a closing parenthesis. </sup></sup>  and reasonable expert witnesses’ fees. Attorneys’ fees may be awarded against the United States (or any agency or official of the United States) without regard to [section 2412 of title 28][/us/usc/t28/s2412] or any other provision of law. The consumer product safety rule shall not be affirmed unless the Commission’s findings under sections 2058(f)(1) and 2058(f)(3) of this title are supported by substantial evidence on the record taken as a whole.
+        Upon the filing of the petition under subsection (a) of this section the court shall have jurisdiction to review the consumer product safety rule in accordance with chapter 7 of title 5, and to grant appropriate relief, including interim relief, as provided in such chapter. A court may in the interest of justice include in such relief an award of the costs of suit, including reasonable attorneys’ fees (determined in accordance with subsection (f)  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be followed by a closing parenthesis. </sup></sup>  and reasonable expert witnesses’ fees. Attorneys’ fees may be awarded against the United States (or any agency or official of the United States) without regard to [section 2412 of title 28][/us/usc/t28/s2412] or any other provision of law. The consumer product safety rule shall not be affirmed unless the Commission’s findings under sections 2058(f)(1) and 2058(f)(3) of this title are supported by substantial evidence on the record taken as a whole.
 
     (d) __Supreme Court review__ 
 
@@ -75,7 +75,7 @@
 
     2008—Subsec. (g). [Pub. L. 110–314][/us/pl/110/314] added subsec. (g).
 
-    1983—Subsec. (c). [Pub. L. 97–414][/us/pl/97/414] substituted “subsection (f) of this section” for “[section 2059(e)(4) of this title][/us/usc/t15/s2059/e/4]”.
+    1983—Subsec. (c). [Pub. L. 97–414][/us/pl/97/414] substituted “subsection (f)” for “[section 2059(e)(4) of this title][/us/usc/t15/s2059/e/4]”.
 
     1981—Subsec. (a). [Pub. L. 97–35, § 1211(h)(2)][/us/pl/97/35/s1211/h/2], substituted reference to [section 2058(d)(2) of this title][/us/usc/t15/s2058/d/2] for reference to [section 2058(a)(2) of this title][/us/usc/t15/s2058/a/2].
 

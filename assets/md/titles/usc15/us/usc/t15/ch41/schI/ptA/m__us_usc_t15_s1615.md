@@ -35,7 +35,7 @@
 
     (b) __Use of “Rule of 78’s” prohibited__ 
 
-        For the purpose of calculating any refund of interest required under subsection (a) of this section for any precomputed consumer credit transaction of a term exceeding 61 months which is consummated after September 30, 1993, the creditor shall compute the refund based on a method which is at least as favorable to the consumer as the actuarial method.
+        For the purpose of calculating any refund of interest required under subsection (a) for any precomputed consumer credit transaction of a term exceeding 61 months which is consummated after September 30, 1993, the creditor shall compute the refund based on a method which is at least as favorable to the consumer as the actuarial method.
 
     (c) __Statement of prepayment amount__ 
 

@@ -21,7 +21,7 @@
 
         (1) conduct and support research on the effect of cigarette smoking on human health and develop materials for informing the public of such effect;
 
-        (2) coordinate all research and educational programs and other activities within the Department of Health and Human Services (hereinafter in this section referred to as the “Department”) which relate to the effect of cigarette smoking on human health and coordinate, through the Interagency Committee on Smoking and Health (established under subsection (b) of this section), such activities with similar activities of other Federal agencies and of private agencies;
+        (2) coordinate all research and educational programs and other activities within the Department of Health and Human Services (hereinafter in this section referred to as the “Department”) which relate to the effect of cigarette smoking on human health and coordinate, through the Interagency Committee on Smoking and Health (established under subsection (b)), such activities with similar activities of other Federal agencies and of private agencies;
 
         (3) establish and maintain a liaison with appropriate private entities, other Federal agencies, and State and local public agencies respecting activities relating to the effect of cigarette smoking on human health;
 
@@ -35,7 +35,7 @@
 
         (1)
 
-         To carry out the activities described in paragraphs (2) and (3) of subsection (a) of this section there is established an Interagency Committee on Smoking and Health. The Committee shall be composed of—
+         To carry out the activities described in paragraphs (2) and (3) of subsection (a) there is established an Interagency Committee on Smoking and Health. The Committee shall be composed of—
 
             (A) members appointed by the Secretary from appropriate institutes and agencies of the Department, which may include the National Cancer Institute, the National Heart, Lung, and Blood Institute, the Eunice Kennedy Shriver National Institute of Child Health and Human Development, the National Institute on Drug Abuse, the Health Resources and Services Administration, and the Centers for Disease Control and Prevention;
 
@@ -55,7 +55,7 @@
 
         (1) an overview and assessment of Federal activities undertaken to inform the public of the health consequences of smoking and the extent of public knowledge of such consequences,
 
-        (2) a description of the Secretary’s and Committee’s activities under subsection (a) of this section,
+        (2) a description of the Secretary’s and Committee’s activities under subsection (a),
 
         (3) information regarding the activities of the private sector taken in response to the effects of smoking on health, and
 

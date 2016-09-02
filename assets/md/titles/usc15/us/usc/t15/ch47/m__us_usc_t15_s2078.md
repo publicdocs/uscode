@@ -63,7 +63,7 @@
 
                 (iii) with respect to a foreign law enforcement agency, with the approval of the Attorney General, other foreign criminal laws, if such foreign criminal laws are offenses defined in or covered by a criminal mutual legal assistance treaty in force between the government of the United States and the foreign law enforcement agency’s government; and
 
-            (C) in the case of a foreign government agency, such agency is not from a foreign state that the Secretary of State has determined, in accordance with section 2405(j) of the Appendix to title 50, has repeatedly provided support for acts of international terrorism, unless and until such determination is rescinded pursuant to section 2405(j)(4) of the Appendix to title 50.
+            (C) in the case of a foreign government agency, such agency is not from a foreign state that the Secretary of State has determined, in accordance with [section 4605(j) of title 50][/us/usc/t50/s4605/j], has repeatedly provided support for acts of international terrorism, unless and until such determination is rescinded pursuant to [section 4605(j)(4) of title 50][/us/usc/t50/s4605/j/4].
 
         (2) __Abrogation of agreements__ 
 
@@ -118,6 +118,8 @@
 [/us/usc/t15/s2055/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs2055%2Fa%2F2
 [/us/usc/t15/s2055/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs2055%2Fb
 [/us/usc/t15/s2055]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs2055
+[/us/usc/t50/s4605/j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4605%2Fj
+[/us/usc/t50/s4605/j/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4605%2Fj%2F4
 [/us/usc/t5/s552]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs552
 [/us/pl/92/573/s29]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F573%2Fs29
 [/us/stat/86/1230]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F1230

@@ -39,7 +39,7 @@
 
         (1)
 
-         In determining the amount of a civil penalty to be assessed under subsection (a) of this section against a local educational agency, the Administrator shall consider—
+         In determining the amount of a civil penalty to be assessed under subsection (a) against a local educational agency, the Administrator shall consider—
 
             (A) the significance of the violation;
 

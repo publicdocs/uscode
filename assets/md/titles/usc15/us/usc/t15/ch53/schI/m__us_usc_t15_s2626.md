@@ -21,7 +21,7 @@
 
     (b) __Approval by Secretary__ 
 
-        No grant may be made or contract entered into under subsection (a) of this section unless an application therefor has been submitted to and approved by the Secretary. Such an application shall be submitted in such form and manner and contain such information as the Secretary may require. The Secretary may apply such conditions to grants and contracts under subsection (a) of this section as the Secretary determines are necessary to carry out the purposes of such subsection. Contracts may be entered into under such subsection without regard to section 3324(a) and (b) of title 31 and [section 6101 of title 41][/us/usc/t41/s6101].
+        No grant may be made or contract entered into under subsection (a) unless an application therefor has been submitted to and approved by the Secretary. Such an application shall be submitted in such form and manner and contain such information as the Secretary may require. The Secretary may apply such conditions to grants and contracts under subsection (a) as the Secretary determines are necessary to carry out the purposes of such subsection. Contracts may be entered into under such subsection without regard to section 3324(a) and (b) of title 31 and [section 6101 of title 41][/us/usc/t41/s6101].
 
 ([Pub. L. 94–469, title I, § 27][/us/pl/94/469/s27], Oct. 11, 1976, [90 Stat. 2049][/us/stat/90/2049]; [Pub. L. 96–88, title V, § 509(b)][/us/pl/96/88/s509/b], Oct. 17, 1979, [93 Stat. 695][/us/stat/93/695]; renumbered title I, [Pub. L. 99–519, § 3(c)(1)][/us/pl/99/519/s3/c/1], Oct. 22, 1986, [100 Stat. 2989][/us/stat/100/2989]; [Pub. L. 104–66, title I, § 1061(a)][/us/pl/104/66/s1061/a], Dec. 21, 1995, [109 Stat. 719][/us/stat/109/719].)
 

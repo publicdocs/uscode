@@ -25,7 +25,7 @@
 
             (A)
 
-             The “amount financed”, using that term, which shall be the amount of credit of which the consumer has actual use. This amount shall be computed as follows, but the computations need not be disclosed and shall not be disclosed with the disclosures conspicuously segregated in accordance with subsection (b)(1) of this section:
+             The “amount financed”, using that term, which shall be the amount of credit of which the consumer has actual use. This amount shall be computed as follows, but the computations need not be disclosed and shall not be disclosed with the disclosures conspicuously segregated in accordance with subsection (b)(1):
 
                 (i) take the principal amount of the loan or the cash price less downpayment and trade-in;
 
@@ -93,11 +93,11 @@
 
     (b) __Form and timing of disclosures; residential mortgage transaction requirements__ 
 
-        (1) Except as otherwise provided in this part, the disclosures required under subsection (a) of this section shall be made before the credit is extended. Except for the disclosures required by subsection (a)(1) of this section, all disclosures required under subsection (a) of this section and any disclosure provided for in subsection (b), (c), or (d) of [section 1605 of this title][/us/usc/t15/s1605] shall be conspicuously segregated from all other terms, data, or information provided in connection with a transaction, including any computations or itemization.
+        (1) Except as otherwise provided in this part, the disclosures required under subsection (a) shall be made before the credit is extended. Except for the disclosures required by subsection (a)(1) of this section, all disclosures required under subsection (a) and any disclosure provided for in subsection (b), (c), or (d) of [section 1605 of this title][/us/usc/t15/s1605] shall be conspicuously segregated from all other terms, data, or information provided in connection with a transaction, including any computations or itemization.
 
         (2)
 
-            (A) Except as provided in subparagraph (G), in the case of any extension of credit that is secured by the dwelling of a consumer, which is also subject to the Real Estate Settlement Procedures Act \[[12 U.S.C. 2601][/us/usc/t12/s2601] et seq.\], good faith estimates of the disclosures required under subsection (a) of this section shall be made in accordance with regulations of the Bureau under [section 1631(c) of this title][/us/usc/t15/s1631/c] and shall be delivered or placed in the mail not later than three business days after the creditor receives the consumer’s written application, which shall be at least 7 business days before consummation of the transaction.
+            (A) Except as provided in subparagraph (G), in the case of any extension of credit that is secured by the dwelling of a consumer, which is also subject to the Real Estate Settlement Procedures Act \[[12 U.S.C. 2601][/us/usc/t12/s2601] et seq.\], good faith estimates of the disclosures required under subsection (a) shall be made in accordance with regulations of the Bureau under [section 1631(c) of this title][/us/usc/t15/s1631/c] and shall be delivered or placed in the mail not later than three business days after the creditor receives the consumer’s written application, which shall be at least 7 business days before consummation of the transaction.
 
             (B)
 
@@ -141,7 +141,7 @@
 
                 (ii) If a disclosure statement furnished within 3 business days of the written application (as provided under clause (i)(II)) contains an annual percentage rate which is subsequently rendered inaccurate, within the meaning of [section 1606(c) of this title][/us/usc/t15/s1606/c], the creditor shall furnish another disclosure statement at the time of settlement or consummation of the transaction.
 
-        (3) In the case of a credit transaction described in paragraph (15) of subsection (a) of this section, disclosures required by that paragraph shall be made to the consumer at the time of application for such extension of credit.
+        (3) In the case of a credit transaction described in paragraph (15) of subsection (a), disclosures required by that paragraph shall be made to the consumer at the time of application for such extension of credit.
 
         (4) __Repayment analysis required to include escrow payments.—__ 
 
@@ -155,13 +155,13 @@
 
     (c) __Timing of disclosures on unsolicited mailed or telephone purchase orders or loan requests__ 
 
-        (1) If a creditor receives a purchase order by mail or telephone without personal solicitation, and the cash price and the total sale price and the terms of financing, including the annual percentage rate, are set forth in the creditor’s catalog or other printed material distributed to the public, then the disclosures required under subsection (a) of this section may be made at any time not later than the date the first payment is due.
+        (1) If a creditor receives a purchase order by mail or telephone without personal solicitation, and the cash price and the total sale price and the terms of financing, including the annual percentage rate, are set forth in the creditor’s catalog or other printed material distributed to the public, then the disclosures required under subsection (a) may be made at any time not later than the date the first payment is due.
 
-        (2) If a creditor receives a request for a loan by mail or telephone without personal solicitation and the terms of financing, including the annual percentage rate for representative amounts of credit, are set forth in the creditor’s printed material distributed to the public, or in the contract of loan or other printed material delivered to the obligor, then the disclosures required under subsection (a) of this section may be made at any time not later than the date the first payment is due.
+        (2) If a creditor receives a request for a loan by mail or telephone without personal solicitation and the terms of financing, including the annual percentage rate for representative amounts of credit, are set forth in the creditor’s printed material distributed to the public, or in the contract of loan or other printed material delivered to the obligor, then the disclosures required under subsection (a) may be made at any time not later than the date the first payment is due.
 
     (d) __Timing of disclosure in cases of an addition of a deferred payment price to an existing outstanding balance__ 
 
-        If a consumer credit sale is one of a series of consumer credit sales transactions made pursuant to an agreement providing for the addition of the deferred payment price of that sale to an existing outstanding balance, and the person to whom the credit is extended has approved in writing both the annual percentage rate or rates and the method of computing the finance charge or charges, and the creditor retains no security interest in any property as to which he has received payments aggregating the amount of the sales price including any finance charges attributable thereto, then the disclosure required under subsection (a) of this section for the particular sale may be made at any time not later than the date the first payment for that sale is due. For the purposes of this subsection, in the case of items purchased on different dates, the first purchased shall be deemed first paid for, and in the case of items purchased on the same date, the lowest price shall be deemed first paid for.
+        If a consumer credit sale is one of a series of consumer credit sales transactions made pursuant to an agreement providing for the addition of the deferred payment price of that sale to an existing outstanding balance, and the person to whom the credit is extended has approved in writing both the annual percentage rate or rates and the method of computing the finance charge or charges, and the creditor retains no security interest in any property as to which he has received payments aggregating the amount of the sales price including any finance charges attributable thereto, then the disclosure required under subsection (a) for the particular sale may be made at any time not later than the date the first payment for that sale is due. For the purposes of this subsection, in the case of items purchased on different dates, the first purchased shall be deemed first paid for, and in the case of items purchased on the same date, the lowest price shall be deemed first paid for.
 
     (e) __Terms and disclosure with respect to private education loans__ 
 

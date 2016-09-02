@@ -17,7 +17,7 @@
 
     (a) __Information excluded from consumer reports__ 
 
-    Except as authorized under subsection (b) of this section, no consumer reporting agency may make any consumer report containing any of the following items of information:
+    Except as authorized under subsection (b), no consumer reporting agency may make any consumer report containing any of the following items of information:
 
         (1) Cases under title 11 or under the Bankruptcy Act that, from the date of entry of the order for relief or the date of adjudication, as the case may be, antedate the report by more than 10 years.
 
@@ -39,7 +39,7 @@
 
     (b) __Exempted cases__ 
 
-    The provisions of paragraphs (1) through (5) of subsection (a) of this section are not applicable in the case of any consumer credit report to be used in connection with—
+    The provisions of paragraphs (1) through (5) of subsection (a) are not applicable in the case of any consumer credit report to be used in connection with—
 
         (1) a credit transaction involving, or which may reasonably be expected to involve, a principal amount of $150,000 or more;
 
@@ -51,7 +51,7 @@
 
         (1) __In general__ 
 
-            The 7-year period referred to in paragraphs (4) and (6) of subsection (a) of this section shall begin, with respect to any delinquent account that is placed for collection (internally or by referral to a third party, whichever is earlier), charged to profit and loss, or subjected to any similar action, upon the expiration of the 180-day period beginning on the date of the commencement of the delinquency which immediately preceded the collection activity, charge to profit and loss, or similar action.
+            The 7-year period referred to in paragraphs (4) and (6) of subsection (a) shall begin, with respect to any delinquent account that is placed for collection (internally or by referral to a third party, whichever is earlier), charged to profit and loss, or subjected to any similar action, upon the expiration of the 180-day period beginning on the date of the commencement of the delinquency which immediately preceded the collection activity, charge to profit and loss, or similar action.
 
         (2) __Effective date__ 
 

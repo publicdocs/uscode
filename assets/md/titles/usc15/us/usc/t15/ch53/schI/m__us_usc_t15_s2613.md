@@ -17,7 +17,7 @@
 
     (a) __In general__ 
 
-    Except as provided by subsection (b) of this section, any information reported to, or otherwise obtained by, the Administrator (or any representative of the Administrator) under this chapter, which is exempt from disclosure pursuant to subsection (a) of [section 552 of title 5][/us/usc/t5/s552] by reason of subsection (b)(4) of such section, shall, notwithstanding the provisions of any other section of this chapter, not be disclosed by the Administrator or by any officer or employee of the United States, except that such information—
+    Except as provided by subsection (b), any information reported to, or otherwise obtained by, the Administrator (or any representative of the Administrator) under this chapter, which is exempt from disclosure pursuant to subsection (a) of [section 552 of title 5][/us/usc/t5/s552] by reason of subsection (b)(4) of such section, shall, notwithstanding the provisions of any other section of this chapter, not be disclosed by the Administrator or by any officer or employee of the United States, except that such information—
 
         (1)
 
@@ -57,7 +57,7 @@
 
     (c) __Designation and release of confidential data__ 
 
-        (1) In submitting data under this chapter, a manufacturer, processor, or distributor in commerce may (A) designate the data which such person believes is entitled to confidential treatment under subsection (a) of this section, and (B) submit such designated data separately from other data submitted under this chapter. A designation under this paragraph shall be made in writing and in such manner as the Administrator may prescribe.
+        (1) In submitting data under this chapter, a manufacturer, processor, or distributor in commerce may (A) designate the data which such person believes is entitled to confidential treatment under subsection (a), and (B) submit such designated data separately from other data submitted under this chapter. A designation under this paragraph shall be made in writing and in such manner as the Administrator may prescribe.
 
         (2)
 
@@ -65,15 +65,15 @@
 
             (B)
 
-                (i) Subparagraph (A) shall not apply to the release of information under paragraph (1), (2), (3), or (4) of subsection (a) of this section, except that the Administrator may not release data under paragraph (3) of subsection (a) of this section unless the Administrator has notified each manufacturer, processor, and distributor in commerce who submitted such data of such release. Such notice shall be made in writing by certified mail at least 15 days before the release of such data, except that if the Administrator determines that the release of such data is necessary to protect against an imminent, unreasonable risk of injury to health or the environment, such notice may be made by such means as the Administrator determines will provide notice at least 24 hours before such release is made.
+                (i) Subparagraph (A) shall not apply to the release of information under paragraph (1), (2), (3), or (4) of subsection (a), except that the Administrator may not release data under paragraph (3) of subsection (a) unless the Administrator has notified each manufacturer, processor, and distributor in commerce who submitted such data of such release. Such notice shall be made in writing by certified mail at least 15 days before the release of such data, except that if the Administrator determines that the release of such data is necessary to protect against an imminent, unreasonable risk of injury to health or the environment, such notice may be made by such means as the Administrator determines will provide notice at least 24 hours before such release is made.
 
-                (ii) Subparagraph (A) shall not apply to the release of information described in subsection (b)(1) of this section other than information described in the second sentence of such subsection.
+                (ii) Subparagraph (A) shall not apply to the release of information described in subsection (b)(1) other than information described in the second sentence of such subsection.
 
     (d) __Criminal penalty for wrongful disclosure__ 
 
-        (1) Any officer or employee of the United States or former officer or employee of the United States, who by virtue of such employment or official position has obtained possession of, or has access to, material the disclosure of which is prohibited by subsection (a) of this section, and who knowing that disclosure of such material is prohibited by such subsection, willfully discloses the material in any manner to any person not entitled to receive it, shall be guilty of a misdemeanor and fined not more than $5,000 or imprisoned for not more than one year, or both. [Section 1905 of title 18][/us/usc/t18/s1905] does not apply with respect to the publishing, divulging, disclosure, or making known of, or making available, information reported or otherwise obtained under this chapter.
+        (1) Any officer or employee of the United States or former officer or employee of the United States, who by virtue of such employment or official position has obtained possession of, or has access to, material the disclosure of which is prohibited by subsection (a), and who knowing that disclosure of such material is prohibited by such subsection, willfully discloses the material in any manner to any person not entitled to receive it, shall be guilty of a misdemeanor and fined not more than $5,000 or imprisoned for not more than one year, or both. [Section 1905 of title 18][/us/usc/t18/s1905] does not apply with respect to the publishing, divulging, disclosure, or making known of, or making available, information reported or otherwise obtained under this chapter.
 
-        (2) For the purposes of paragraph (1), any contractor with the United States who is furnished information as authorized by subsection (a)(2) of this section, and any employee of any such contractor, shall be considered to be an employee of the United States.
+        (2) For the purposes of paragraph (1), any contractor with the United States who is furnished information as authorized by subsection (a)(2), and any employee of any such contractor, shall be considered to be an employee of the United States.
 
     (e) __Access by Congress__ 
 

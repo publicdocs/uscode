@@ -71,7 +71,7 @@
 
     (d) __Structuring of applications__ 
 
-        The Administrator shall assist grant applicants in structuring their applications so as to ensure that at least one grant is awarded for each goal described in subsection (c) of this section.
+        The Administrator shall assist grant applicants in structuring their applications so as to ensure that at least one grant is awarded for each goal described in subsection (c).
 
     (e) __State qualification criteria__ 
 

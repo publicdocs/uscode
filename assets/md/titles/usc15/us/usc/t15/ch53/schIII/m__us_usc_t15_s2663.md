@@ -23,7 +23,7 @@
 
         (1) __Action levels__ 
 
-            The updated citizen’s guide published as provided in subsection (a) of this section shall include a description of a series of action levels indicating the health risk associated with different levels of radon exposure.
+            The updated citizen’s guide published as provided in subsection (a) shall include a description of a series of action levels indicating the health risk associated with different levels of radon exposure.
 
         (2) __Other information__ 
 

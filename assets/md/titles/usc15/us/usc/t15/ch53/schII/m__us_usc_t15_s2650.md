@@ -43,7 +43,7 @@
 
     (b) __State action__ 
 
-        On the basis of the interim report or the final report of the study required by subsection (a) of this section, a State may enact or amend State law to establish or modify a standard of liability for local educational agencies or asbestos contractors with respect to actions required under this subchapter.
+        On the basis of the interim report or the final report of the study required by subsection (a), a State may enact or amend State law to establish or modify a standard of liability for local educational agencies or asbestos contractors with respect to actions required under this subchapter.
 
 ([Pub. L. 94–469, title II, § 210][/us/pl/94/469/s210], as added [Pub. L. 99–519, § 2][/us/pl/99/519/s2], Oct. 22, 1986, [100 Stat. 2986][/us/stat/100/2986].)
 

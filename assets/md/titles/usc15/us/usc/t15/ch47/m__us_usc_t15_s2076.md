@@ -55,7 +55,7 @@
 
     (c) __Noncompliance with subpena or Commission order; contempt__ 
 
-        Any United States district court within the jurisdiction of which any inquiry is carried on, may, upon petition by the Commission (subject to subsection (b)(7) of this section) or by the Attorney General, in case of refusal to obey a subpena or order of the Commission issued under subsection (b) of this section, issue an order requiring compliance therewith; and any failure to obey the order of the court may be punished by the court as a contempt thereof.
+        Any United States district court within the jurisdiction of which any inquiry is carried on, may, upon petition by the Commission (subject to subsection (b)(7)) or by the Attorney General, in case of refusal to obey a subpena or order of the Commission issued under subsection (b) of this section, issue an order requiring compliance therewith; and any failure to obey the order of the court may be punished by the court as a contempt thereof.
 
     (d) __Disclosure of information__ 
 
@@ -179,7 +179,7 @@
 
     Subsec. (b)(8), (9). [Pub. L. 94–284, § 8(b)][/us/pl/94/284/s8/b], added par. (8) and redesignated former par. (8) as par (9).
 
-    Subsec. (c). [Pub. L. 94–284, § 11(d)][/us/pl/94/284/s11/d], substituted “(subject to subsection (b)(7) of this section)” for “with the concurrence of the Attorney General”.
+    Subsec. (c). [Pub. L. 94–284, § 11(d)][/us/pl/94/284/s11/d], substituted “(subject to subsection (b)(7))” for “with the concurrence of the Attorney General”.
 
     Subsec. (j). [Pub. L. 94–273][/us/pl/94/273] substituted “at the beginning of each regular session of Congress” for “on or before October 1 of each year”.
 

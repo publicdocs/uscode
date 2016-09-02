@@ -579,7 +579,7 @@
 
 [Pub. L. 87–305, § 1][/us/pl/87/305/s1], Sept. 26, 1961, [75 Stat. 666][/us/stat/75/666], provided: 
 
-> “That this Act \[amending this section, sections 633, 634, 636, 637, and 639 of this title, and section 2158 of Appendix to Title 50, War and National Defense\] may be cited as the ‘Small Business Act Amendments of 1961’.”
+> “That this Act \[amending this section, sections 633, 634, 636, 637, and 639 of this title, and [section 4558 of Title 50][/us/usc/t50/s4558], War and National Defense\] may be cited as the ‘Small Business Act Amendments of 1961’.”
 
  __Short Title__ 
 
@@ -1627,6 +1627,7 @@ In order to coordinate executive departments’ and agencies’ efforts towards 
 [/us/usc/t42/s2902]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2902
 [/us/pl/87/305/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F305%2Fs1
 [/us/stat/75/666]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F75%2F666
+[/us/usc/t50/s4558]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4558
 [/us/pl/85/536/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F536%2Fs2
 [/us/stat/72/384]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F384
 [/us/pl/85/536/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F536%2Fs2

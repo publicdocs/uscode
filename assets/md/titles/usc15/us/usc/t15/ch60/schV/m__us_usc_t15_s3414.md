@@ -87,7 +87,7 @@
 
         (2) __Violation of rules or orders generally__ 
 
-            Except in the case of violations covered under paragraph (3), any person who knowingly and willfully violates any rule or order under this chapter (other than an order of the Commission assessing a civil penalty under subsection (b)(4)(E) of this section), shall be subject to a fine of not more than $50,000 for each day on which the offense occurs.
+            Except in the case of violations covered under paragraph (3), any person who knowingly and willfully violates any rule or order under this chapter (other than an order of the Commission assessing a civil penalty under subsection (b)(4)(E)), shall be subject to a fine of not more than $50,000 for each day on which the offense occurs.
 
         (3) __Violations of emergency orders__ 
 

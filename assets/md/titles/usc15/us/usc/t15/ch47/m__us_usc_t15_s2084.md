@@ -17,17 +17,17 @@
 
     (a) __Notification of settlements or judgments__ 
 
-        If a particular model of a consumer product is the subject of at least 3 civil actions that have been filed in Federal or State court for death or grievous bodily injury which in each of the 24-month periods defined in subsection (b) of this section result in either a final settlement involving the manufacturer or a court judgment in favor of the plaintiff, the manufacturer of such product shall, in accordance with subsection (c) of this section, report to the Commission each such civil action within 30 days after the final settlement or court judgment in the third of such civil actions, and, within 30 days after any subsequent settlement or judgment in that 24-month period, any other such action.
+        If a particular model of a consumer product is the subject of at least 3 civil actions that have been filed in Federal or State court for death or grievous bodily injury which in each of the 24-month periods defined in subsection (b) result in either a final settlement involving the manufacturer or a court judgment in favor of the plaintiff, the manufacturer of such product shall, in accordance with subsection (c), report to the Commission each such civil action within 30 days after the final settlement or court judgment in the third of such civil actions, and, within 30 days after any subsequent settlement or judgment in that 24-month period, any other such action.
 
     (b) __Calculation of 24-month periods__ 
 
-        The 24-month periods referred to in subsection (a) of this section are the 24-month period commencing on January 1, 1991, and subsequent 24-month periods beginning on January 1 of the calendar year that is two years following the beginning of the previous 24-month period.
+        The 24-month periods referred to in subsection (a) are the 24-month period commencing on January 1, 1991, and subsequent 24-month periods beginning on January 1 of the calendar year that is two years following the beginning of the previous 24-month period.
 
     (c) __Information required to be reported__ 
 
         (1)
 
-         The information required by subsection (a) of this section to be reported to the Commission, with respect to each civil action described in subsection (a) of this section, shall include and in addition to any voluntary information provided under paragraph (2) shall be limited to the following:
+         The information required by subsection (a) to be reported to the Commission, with respect to each civil action described in subsection (a), shall include and in addition to any voluntary information provided under paragraph (2) shall be limited to the following:
 
             (A) The name and address of the manufacturer.
 
@@ -39,13 +39,13 @@
 
             (E) in  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be capitalized. </sup></sup>  the case of a judgment in favor of the plaintiff, the name of the civil action, the number assigned the civil action, and the court in which the civil action was filed.
 
-        (2) A manufacturer furnishing the report required by paragraph (1) may include (A) a statement as to whether any judgment in favor of the plaintiff is under appeal or is expected to be appealed or (B) any other information which the manufacturer chooses to provide. A manufacturer reporting to the Commission under subsection (a) of this section need not admit or may specifically deny that the information it submits reasonably supports the conclusion that its consumer product caused a death or grievous bodily injury.
+        (2) A manufacturer furnishing the report required by paragraph (1) may include (A) a statement as to whether any judgment in favor of the plaintiff is under appeal or is expected to be appealed or (B) any other information which the manufacturer chooses to provide. A manufacturer reporting to the Commission under subsection (a) need not admit or may specifically deny that the information it submits reasonably supports the conclusion that its consumer product caused a death or grievous bodily injury.
 
-        (3) No statement of the amount paid by the manufacturer in a final settlement shall be required as part of the report furnished under subsection (a) of this section, nor shall such a statement of settlement amount be required under any other section of this chapter.
+        (3) No statement of the amount paid by the manufacturer in a final settlement shall be required as part of the report furnished under subsection (a), nor shall such a statement of settlement amount be required under any other section of this chapter.
 
     (d) __Report not deemed an admission of liability__ 
 
-    The reporting of a civil action described in subsection (a) of this section by a manufacturer shall not constitute an admission of—
+    The reporting of a civil action described in subsection (a) by a manufacturer shall not constitute an admission of—
 
         (1) an unreasonable risk of injury,
 

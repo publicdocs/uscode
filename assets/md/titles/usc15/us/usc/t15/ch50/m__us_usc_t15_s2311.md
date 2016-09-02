@@ -31,7 +31,7 @@
 
         (1)
 
-         Except as provided in subsection (b) of this section and in paragraph (2) of this subsection, a State requirement—
+         Except as provided in subsection (b) and in paragraph (2) of this subsection, a State requirement—
 
             (A) which relates to labeling or disclosure with respect to written warranties or performance thereunder;
 

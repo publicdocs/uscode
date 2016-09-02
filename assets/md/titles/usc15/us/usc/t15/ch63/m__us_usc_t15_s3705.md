@@ -67,7 +67,7 @@
 
     (d) __Planning grants__ 
 
-        The Secretary is authorized to make available nonrenewable planning grants to universities or nonprofit institutions for the purpose of developing a plan required under subsection (c)(3) of this section.
+        The Secretary is authorized to make available nonrenewable planning grants to universities or nonprofit institutions for the purpose of developing a plan required under subsection (c)(3).
 
     (e) __Research and development utilization__ 
 

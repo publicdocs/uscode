@@ -21,7 +21,7 @@
 
     (b) __Disapproval by concurrent resolution__ 
 
-    Any rule specified in subsection (a) of this section shall not take effect if—
+    Any rule specified in subsection (a) shall not take effect if—
 
         (1) within the 90 calendar days of continuous session of the Congress which occur after the date of the promulgation of such rule, both Houses of the Congress adopt a concurrent resolution, the matter after the resolving clause of which is as follows (with the blank spaces appropriately filled): “That the Congress disapproves the consumer product safety rule which was promulgated by the Consumer Product Safety Commission with respect to            and which was transmitted to the Congress on            and disapproves the rule for the following reasons:           .”; or
 
@@ -37,7 +37,7 @@
 
         (1) continuity of session is broken only by an adjournment of the Congress sine die; and
 
-        (2) the days on which either House is not in session because of an adjournment of more than 3 days to a day certain are excluded in the computation of the periods of continuous session of the Congress specified in subsection (b) of this section.
+        (2) the days on which either House is not in session because of an adjournment of more than 3 days to a day certain are excluded in the computation of the periods of continuous session of the Congress specified in subsection (b).
 
 ([Pub. L. 92–573, § 36][/us/pl/92/573/s36], as added [Pub. L. 97–35, title XII, § 1207(a)][/us/pl/97/35/s1207/a], Aug. 13, 1981, [95 Stat. 718][/us/stat/95/718].)
 

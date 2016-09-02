@@ -25,7 +25,7 @@
 
     (c) __Inspection and copying__ 
 
-        (1) The rulemaking docket required under subsection (b) of this section shall be open for inspection by the public at reasonable times specified in the notice of proposed rulemaking. Any person may copy documents contained in the docket. The Administrator shall provide copying facilities which may be used at the expense of the person seeking copies, but the Administrator may waive or reduce such expenses in such instances as the public interest requires. Any person may request copies by mail if the person pays the expenses, including personnel costs to do the copying.
+        (1) The rulemaking docket required under subsection (b) shall be open for inspection by the public at reasonable times specified in the notice of proposed rulemaking. Any person may copy documents contained in the docket. The Administrator shall provide copying facilities which may be used at the expense of the person seeking copies, but the Administrator may waive or reduce such expenses in such instances as the public interest requires. Any person may request copies by mail if the person pays the expenses, including personnel costs to do the copying.
 
         (2)
 
@@ -43,7 +43,7 @@
 
     (e) __Judicial review__ 
 
-        The material referred to in subsection (c)(2)(B) of this section shall not be included in the record for judicial review.
+        The material referred to in subsection (c)(2)(B) shall not be included in the record for judicial review.
 
     (f) __Effective date__ 
 

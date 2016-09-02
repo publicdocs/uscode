@@ -17,9 +17,9 @@
 
     (a) __General rule__ 
 
-    The Secretary of Energy shall prescribe and make effective a rule which provides that, notwithstanding any other provision of law (other than subsection (b) of this section) and to the maximum extent practicable, no interstate pipeline may curtail deliveries of natural gas for any essential industrial process or feedstock use, unless such curtailment—
+    The Secretary of Energy shall prescribe and make effective a rule which provides that, notwithstanding any other provision of law (other than subsection (b)) and to the maximum extent practicable, no interstate pipeline may curtail deliveries of natural gas for any essential industrial process or feedstock use, unless such curtailment—
 
-        (1) does not reduce the quantity of natural gas delivered for such use below the use requirement specified in subsection (c) of this section;
+        (1) does not reduce the quantity of natural gas delivered for such use below the use requirement specified in subsection (c);
 
         (2) is necessary in order to meet the requirements of high-priority users; or
 
@@ -27,7 +27,7 @@
 
     (b) __Curtailment priority applicable only if alternative fuel not available__ 
 
-        The provisions of subsection (a) of this section shall apply with respect to any curtailment of deliveries for any essential industrial process or feedstock use only if the Commission determines that use of a fuel (other than natural gas) is not economically practicable and that no fuel is reasonably available as an alternative for such use.
+        The provisions of subsection (a) shall apply with respect to any curtailment of deliveries for any essential industrial process or feedstock use only if the Commission determines that use of a fuel (other than natural gas) is not economically practicable and that no fuel is reasonably available as an alternative for such use.
 
     (c) __Determination of essential industrial use requirements__ 
 

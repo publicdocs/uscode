@@ -27,7 +27,7 @@
 
     (b) __Natural gas covered by this chapter__ 
 
-    For purposes of subsection (a) of this section, the term “natural gas covered by this chapter” means—
+    For purposes of subsection (a), the term “natural gas covered by this chapter” means—
 
         (1) natural gas which is not committed or dedicated to interstate commerce as of November 8, 1978;
 

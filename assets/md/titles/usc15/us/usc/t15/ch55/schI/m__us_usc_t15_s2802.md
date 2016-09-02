@@ -17,7 +17,7 @@
 
     (a) __General prohibition against termination or nonrenewal__ 
 
-    Except as provided in subsection (b) of this section and [section 2803 of this title][/us/usc/t15/s2803], no franchisor engaged in the sale, consignment, or distribution of motor fuel in commerce may—
+    Except as provided in subsection (b) and [section 2803 of this title][/us/usc/t15/s2803], no franchisor engaged in the sale, consignment, or distribution of motor fuel in commerce may—
 
         (1) terminate any franchise (entered into or renewed on or after June 19, 1978) prior to the conclusion of the term, or the expiration date, stated in the franchise; or
 
@@ -143,7 +143,7 @@
 
     (c) __Definition__ 
 
-    As used in subsection (b)(2)(C) of this section, the term “an event which is relevant to the franchise relationship and as a result of which termination of the franchise or nonrenewal of the franchise relationship is reasonable” includes events such as—
+    As used in subsection (b)(2)(C), the term “an event which is relevant to the franchise relationship and as a result of which termination of the franchise or nonrenewal of the franchise relationship is reasonable” includes events such as—
 
         (1) fraud or criminal misconduct by the franchisee relevant to the operation of the marketing premises;
 
@@ -213,9 +213,9 @@
 
     In the case of any termination of a franchise (entered into or renewed on or after June 19, 1978), or in the case of any nonrenewal of a franchise relationship (without regard to the date on which such franchise relationship was entered into or renewed)—
 
-        (1) if such termination or nonrenewal is based upon an event described in subsection (c)(5) of this section, the franchisor shall fairly apportion between the franchisor and the franchisee compensation, if any, received by the franchisor based upon any loss of business opportunity or good will; and
+        (1) if such termination or nonrenewal is based upon an event described in subsection (c)(5), the franchisor shall fairly apportion between the franchisor and the franchisee compensation, if any, received by the franchisor based upon any loss of business opportunity or good will; and
 
-        (2) if such termination or nonrenewal is based upon an event described in subsection (c)(7) of this section and the leased marketing premises are subsequently rebuilt or replaced by the franchisor and operated under a franchise, the franchisor shall, within a reasonable period of time, grant to the franchisee a right of first refusal of the franchise under which such premises are to be operated.
+        (2) if such termination or nonrenewal is based upon an event described in subsection (c)(7) and the leased marketing premises are subsequently rebuilt or replaced by the franchisor and operated under a franchise, the franchisor shall, within a reasonable period of time, grant to the franchisee a right of first refusal of the franchise under which such premises are to be operated.
 
 ([Pub. L. 95–297, title I, § 102][/us/pl/95/297/s102], June 19, 1978, [92 Stat. 324][/us/stat/92/324]; [Pub. L. 103–371][/us/pl/103/371], §§ 2, 3, Oct. 19, 1994, [108 Stat. 3484][/us/stat/108/3484].)
 

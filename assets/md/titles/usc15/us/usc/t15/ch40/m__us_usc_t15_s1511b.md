@@ -25,7 +25,7 @@
 
     (c) __Functions of fishery trade officers__ 
 
-    The functions of fishery trade officers appointed under subsection (a) of this section shall be—
+    The functions of fishery trade officers appointed under subsection (a) shall be—
 
         (1) to increase the effectiveness of United States fishery export promotion efforts through such activities as the coordination of market development efforts and the provision of services and facilities for exporters of United States fishery products;
 

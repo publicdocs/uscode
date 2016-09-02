@@ -37,11 +37,11 @@
 
     (b) __Proposals__ 
 
-        Based upon the study prepared pursuant to subsection (a) of this section, the Secretary shall develop proposals to improve gas utility rate design and to encourage conservation of natural gas. Such proposals shall include any comments and recommendations of the Commission.
+        Based upon the study prepared pursuant to subsection (a), the Secretary shall develop proposals to improve gas utility rate design and to encourage conservation of natural gas. Such proposals shall include any comments and recommendations of the Commission.
 
     (c) __Transmission to Congress__ 
 
-    The proposals prepared under subsection (b) of this section, shall be transmitted, together with any legislative recommendations, to each House of Congress not later than 6 months after the date of submission of the study under subsection (a) of this section. Such proposals shall be accompanied by an analyses  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be “analysis”. </sup></sup>  of—
+    The proposals prepared under subsection (b), shall be transmitted, together with any legislative recommendations, to each House of Congress not later than 6 months after the date of submission of the study under subsection (a). Such proposals shall be accompanied by an analyses  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be “analysis”. </sup></sup>  of—
 
         (1) the projected savings (if any) in consumption of natural gas, and other energy resources,
 
@@ -51,7 +51,7 @@
 
     (d) __Public participation__ 
 
-        The Secretary shall provide for public participation in the conduct of the study under subsection (a) of this section, and the preparation of proposals under subsection (b) of this section.
+        The Secretary shall provide for public participation in the conduct of the study under subsection (a), and the preparation of proposals under subsection (b).
 
 ([Pub. L. 95–617, title III, § 306][/us/pl/95/617/s306], Nov. 9, 1978, [92 Stat. 3152][/us/stat/92/3152].)
 

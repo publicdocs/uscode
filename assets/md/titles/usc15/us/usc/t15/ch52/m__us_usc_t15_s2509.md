@@ -47,7 +47,7 @@
 
         (4) in the judgment of the Secretary of Energy, there is reasonable assurance of repayment of the loan by the qualified borrower; and
 
-        (5) no loan shall be guaranteed by the Secretary of Energy under subsection (b) of this section unless the Secretary of Energy finds that no other reasonable means of financing or refinancing is reasonably available to the applicant.
+        (5) no loan shall be guaranteed by the Secretary of Energy under subsection (b) unless the Secretary of Energy finds that no other reasonable means of financing or refinancing is reasonably available to the applicant.
 
     (e) __Maximum guarantee per loan; maximum of aggregate guarantees; Electric and Hybrid Vehicle Development Fund; establishment, funding, etc.__ 
 

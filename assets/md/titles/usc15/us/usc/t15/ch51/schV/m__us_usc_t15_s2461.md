@@ -21,7 +21,7 @@
 
     (b) __Report to Congress; contents__ 
 
-    Not less than thirty months nor more than thirty-six months after November 28, 1975, the Comptroller General shall prepare and submit to the Congress a report on his audit conducted pursuant to subsection (a) of this section, which shall contain, but not be limited to, the following:
+    Not less than thirty months nor more than thirty-six months after November 28, 1975, the Comptroller General shall prepare and submit to the Congress a report on his audit conducted pursuant to subsection (a), which shall contain, but not be limited to, the following:
 
         (1) an evaluation of the effectiveness of the Center’s activities;
 

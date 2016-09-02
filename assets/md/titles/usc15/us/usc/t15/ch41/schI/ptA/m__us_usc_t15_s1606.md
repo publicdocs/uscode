@@ -39,11 +39,11 @@
 
     (d) __Use of rate tables or charts having allowable variance from determined rates__ 
 
-        The Bureau may authorize the use of rate tables or charts which may provide for the disclosure of annual percentage rates which vary from the rate determined in accordance with subsection (a)(1)(A) of this section by not more than such tolerances as the Bureau may allow. The Bureau may not allow a tolerance greater than 8 per centum of that rate except to simplify compliance where irregular payments are involved.
+        The Bureau may authorize the use of rate tables or charts which may provide for the disclosure of annual percentage rates which vary from the rate determined in accordance with subsection (a)(1)(A) by not more than such tolerances as the Bureau may allow. The Bureau may not allow a tolerance greater than 8 per centum of that rate except to simplify compliance where irregular payments are involved.
 
     (e) __Authorization of tolerances in determining annual percentage rates__ 
 
-        In the case of creditors determining the annual percentage rate in a manner other than as described in subsection (d) of this section, the Bureau may authorize other reasonable tolerances.
+        In the case of creditors determining the annual percentage rate in a manner other than as described in subsection (d), the Bureau may authorize other reasonable tolerances.
 
 ([Pub. L. 90–321, title I, § 107][/us/pl/90/321/s107], May 29, 1968, [82 Stat. 149][/us/stat/82/149]; [Pub. L. 96–221, title VI, § 607][/us/pl/96/221/s607], Mar. 31, 1980, [94 Stat. 170][/us/stat/94/170]; [Pub. L. 111–203, title X, § 1100A(2)][/us/pl/111/203/s1100A/2], July 21, 2010, [124 Stat. 2107][/us/stat/124/2107].)
 

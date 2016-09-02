@@ -11,13 +11,13 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t15/ch15/schI/m__us_usc_t15_s713c–3.md) | [Next](./../../../../..//us/usc/t15/ch15/schII/m__us_usc_t15_s714.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fch15%2FschII)
+[Previous](./../../../../..//us/usc/t15/ch15/schI/m__us_usc_t15_s713d–3.md) | [Next](./../../../../..//us/usc/t15/ch15/schII/m__us_usc_t15_s714.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fch15%2FschII)
 
 ### SUBCHAPTER II—COMMODITY CREDIT CORPORATION
 
 ----------
 
-[Previous](./../../../../..//us/usc/t15/ch15/schI/m__us_usc_t15_s713c–3.md) | [Next](./../../../../..//us/usc/t15/ch15/schII/m__us_usc_t15_s714.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fch15%2FschII)
+[Previous](./../../../../..//us/usc/t15/ch15/schI/m__us_usc_t15_s713d–3.md) | [Next](./../../../../..//us/usc/t15/ch15/schII/m__us_usc_t15_s714.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fch15%2FschII)
 
 ----------
 ----------

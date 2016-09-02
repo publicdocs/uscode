@@ -35,7 +35,7 @@
 
     (b) __Application__ 
 
-        Subsection (a) of this section shall apply to contracts entered into, amended, altered, modified, renewed, or extended after November 2, 2002.
+        Subsection (a) shall apply to contracts entered into, amended, altered, modified, renewed, or extended after November 2, 2002.
 
 ([Pub. L. 107–273, div. C, title I, § 11028][/us/pl/107/273/s11028], Nov. 2, 2002, [116 Stat. 1835][/us/stat/116/1835].)
 

@@ -35,9 +35,9 @@
 
     (c) __Periodic statement; contents__ 
 
-    A financial institution shall provide each consumer with a periodic statement for each account of such consumer that may be accessed by means of an electronic fund transfer. Except as provided in subsections (d) and (e) of this section, such statement shall be provided at least monthly for each monthly or shorter cycle in which an electronic fund transfer affecting the account has occurred, or every three months, whichever is more frequent. The statement, which may include information regarding transactions other than electronic fund transfers, shall clearly set forth—
+    A financial institution shall provide each consumer with a periodic statement for each account of such consumer that may be accessed by means of an electronic fund transfer. Except as provided in subsections (d) and (e), such statement shall be provided at least monthly for each monthly or shorter cycle in which an electronic fund transfer affecting the account has occurred, or every three months, whichever is more frequent. The statement, which may include information regarding transactions other than electronic fund transfers, shall clearly set forth—
 
-        (1) with regard to each electronic fund transfer during the period, the information described in subsection (a) of this section, which may be provided on an accompanying document;
+        (1) with regard to each electronic fund transfer during the period, the information described in subsection (a), which may be provided on an accompanying document;
 
         (2) the amount of any fee or charge assessed by the financial institution during the period for electronic fund transfers or for account maintenance;
 
@@ -47,11 +47,11 @@
 
     (d) __Consumer passbook accounts__ 
 
-        In the case of a consumer’s passbook account which may not be accessed by electronic fund transfers other than preauthorized electronic fund transfers crediting the account, a financial institution may, in lieu of complying with the requirements of subsection (c) of this section, upon presentation of the passbook provide the consumer in writing with the amount and date of each such transfer involving the account since the passbook was last presented.
+        In the case of a consumer’s passbook account which may not be accessed by electronic fund transfers other than preauthorized electronic fund transfers crediting the account, a financial institution may, in lieu of complying with the requirements of subsection (c), upon presentation of the passbook provide the consumer in writing with the amount and date of each such transfer involving the account since the passbook was last presented.
 
     (e) __Accounts other than passbook accounts__ 
 
-        In the case of a consumer’s account, other than a passbook account, which may not be accessed by electronic fund transfers other than preauthorized electronic fund transfers crediting the account, the financial institution may provide a periodic statement on a quarterly basis which otherwise complies with the requirements of subsection (c) of this section.
+        In the case of a consumer’s account, other than a passbook account, which may not be accessed by electronic fund transfers other than preauthorized electronic fund transfers crediting the account, the financial institution may provide a periodic statement on a quarterly basis which otherwise complies with the requirements of subsection (c).
 
     (f) __Documentation as evidence__ 
 
