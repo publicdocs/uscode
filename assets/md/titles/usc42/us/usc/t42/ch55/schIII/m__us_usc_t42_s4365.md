@@ -33,9 +33,45 @@
 
         In preparing such advice and comments, the Board shall avail itself of the technical and scientific capabilities of any Federal agency, including the Environmental Protection Agency and any national environmental laboratories.
 
-    (e) __Member committees and investigative panels; establishment; chairmenship__ 
+    (e) __Committees__ 
 
-        The Board is authorized to constitute such member committees and investigative panels as the Administrator and the Board find necessary to carry out this section. Each such member committee or investigative panel shall be chaired by a member of the Board.
+        (1) __Member committees__ 
+
+            (A) __In general__ 
+
+                The Board is authorized to establish such member committees and investigative panels as the Administrator and the Board determine to be necessary to carry out this section.
+
+            (B) __Chairmanship__ 
+
+                Each member committee or investigative panel established under this subsection shall be chaired by a member of the Board.
+
+        (2) __Agriculture-related committees__ 
+
+            (A) __In general__ 
+
+            The Administrator and the Board—
+
+                (i) shall establish a standing agriculture-related committee; and
+
+                (ii) may establish such additional agriculture-related committees and investigative panels as the Administrator and the Board determines to be necessary to carry out the duties under subparagraph (C).
+
+            (B) __Membership__ 
+
+            The standing committee and each agriculture-related committee or investigative panel established under subparagraph (A) shall be—
+
+                (i)
+
+                 composed of—
+
+                    (I) such quantity of members as the Administrator and the Board determines to be necessary; and
+
+                    (II) individuals who are not members of the Board on the date of appointment to the committee or investigative panel; and
+
+                (ii) appointed by the Administrator and the Board, in consultation with the Secretary of Agriculture.
+
+            (C) __Duties__ 
+
+                The agriculture-related standing committee and each additional committee and investigative panel established under subparagraph (A) shall provide scientific and technical advice to the Board relating to matters referred to the Board that the Administrator and the Board determines, in consultation with the Secretary of Agriculture, to have a significant direct impact on enterprises that are engaged in the business of the production of food and fiber, ranching and raising livestock, aquaculture, and all other farming- and agriculture-related industries.
 
     (f) __Appointment and compensation of secretary and other personnel; compensation of members__ 
 
@@ -47,7 +83,15 @@
 
         In carrying out the functions assigned by this section, the Board shall consult and coordinate its activities with the Scientific Advisory Panel established by the Administrator pursuant to [section 136w(d) of title 7][/us/usc/t7/s136w/d].
 
-([Pub. L. 95–155, § 8][/us/pl/95/155/s8], Nov. 8, 1977, [91 Stat. 1260][/us/stat/91/1260]; [Pub. L. 96–569, § 3][/us/pl/96/569/s3], Dec. 22, 1980, [94 Stat. 3337][/us/stat/94/3337]; [Pub. L. 103–437, § 15][/us/pl/103/437/s15](o), Nov. 2, 1994, [108 Stat. 4593][/us/stat/108/4593]; [Pub. L. 104–66, title II, § 2021(k)(3)][/us/pl/104/66/s2021/k/3], Dec. 21, 1995, [109 Stat. 728][/us/stat/109/728].)
+    (h) __Public participation and transparency__ 
+
+        The Board shall make every effort, consistent with applicable law, including [section 552 of title 5][/us/usc/t5/s552] (commonly known as the “Freedom of Information Act”) and [section 552a of title 5][/us/usc/t5/s552a] (commonly known as the “Privacy Act”), to maximize public participation and transparency, including making the scientific and technical advice of the Board and any committees or investigative panels of the Board publically available in electronic form on the website of the Environmental Protection Agency.
+
+    (i) __Report to Congress__ 
+
+        The Administrator shall annually report to the Committees on Environment and Public Works and Agriculture of the Senate and the Committees on Transportation and Infrastructure, Energy and Commerce, and Agriculture of the House of Representatives regarding the membership and activities of the standing agriculture-related committee established pursuant to subsection (e)(2)(A)(i).
+
+([Pub. L. 95–155, § 8][/us/pl/95/155/s8], Nov. 8, 1977, [91 Stat. 1260][/us/stat/91/1260]; [Pub. L. 96–569, § 3][/us/pl/96/569/s3], Dec. 22, 1980, [94 Stat. 3337][/us/stat/94/3337]; [Pub. L. 103–437, § 15][/us/pl/103/437/s15](o), Nov. 2, 1994, [108 Stat. 4593][/us/stat/108/4593]; [Pub. L. 104–66, title II, § 2021(k)(3)][/us/pl/104/66/s2021/k/3], Dec. 21, 1995, [109 Stat. 728][/us/stat/109/728]; [Pub. L. 113–79, title XII, § 12307][/us/pl/113/79/s12307], Feb. 7, 2014, [128 Stat. 989][/us/stat/128/989].)
 
  __References in Text__ 
 
@@ -68,6 +112,10 @@
     Section was enacted as part of the Environmental Research, Development, and Demonstration Authorization Act of 1978, and not as part of the National Environmental Policy Act of 1969 which comprises this chapter.
 
  __Amendments__ 
+
+    2014—Subsec. (e). [Pub. L. 113–79, § 12307(1)][/us/pl/113/79/s12307/1], added subsec. (e) and struck out former subsec. (e). Text read as follows: “The Board is authorized to constitute such member committees and investigative panels as the Administrator and the Board find necessary to carry out this section. Each such member committee or investigative panel shall be chaired by a member of the Board.”
+
+    Subsecs. (h), (i). [Pub. L. 113–79, § 12307(2)][/us/pl/113/79/s12307/2], added subsecs. (h) and (i).
 
     1995—Subsecs. (c) to (i). [Pub. L. 104–66][/us/pl/104/66] redesignated subsecs. (e) to (i) as (c) to (g), respectively, and struck out former subsec. (c) which read as follows: “In addition to providing scientific advice when requested by the Administrator under subsection (a) of this section, the Board shall review and comment on the Administration’s five-year plan for environmental research, development, and demonstration provided for by [section 4361 of this title][/us/usc/t42/s4361] and on each annual revision thereof. Such review and comment shall be transmitted to the Congress by the Administrator, together with his comments thereon, at the time of the transmission to the Congress of the annual revision involved.”
 
@@ -106,6 +154,8 @@
 [/us/usc/t42/s300f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300f
 [/us/usc/t5/s5332]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5332
 [/us/usc/t7/s136w/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs136w%2Fd
+[/us/usc/t5/s552]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs552
+[/us/usc/t5/s552a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs552a
 [/us/pl/95/155/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F155%2Fs8
 [/us/stat/91/1260]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F1260
 [/us/pl/96/569/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F569%2Fs3
@@ -114,6 +164,8 @@
 [/us/stat/108/4593]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4593
 [/us/pl/104/66/s2021/k/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F66%2Fs2021%2Fk%2F3
 [/us/stat/109/728]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F728
+[/us/pl/113/79/s12307]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs12307
+[/us/stat/128/989]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F989
 [/us/act/1955-07-14/ch360]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1955-07-14%2Fch360
 [/us/stat/69/322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F69%2F322
 [/us/usc/t42/s7401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7401
@@ -133,6 +185,8 @@
 [/us/pl/93/523/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F523%2Fs2%2Fa
 [/us/stat/88/1660]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1660
 [/us/usc/t42/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs201
+[/us/pl/113/79/s12307/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs12307%2F1
+[/us/pl/113/79/s12307/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs12307%2F2
 [/us/pl/104/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F66
 [/us/usc/t42/s4361]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4361
 [/us/pl/103/437/s15]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F437%2Fs15

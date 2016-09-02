@@ -73,6 +73,14 @@
 
   <tr>
 
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs1755b" data-uslm-ref="/us/usc/t42/s1755b">1755b.</a>  </td>
+
+    <td> Pulse crop products.  </td>
+
+  </tr>
+
+  <tr>
+
     <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs1756" data-uslm-ref="/us/usc/t42/s1756">1756.</a>  </td>
 
     <td> Payments to States.  </td>

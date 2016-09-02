@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../..//us/usc/t42/ch13/m__us_usc_t42_s1755.md) | [Next](./../../../..//us/usc/t42/ch13/m__us_usc_t42_s1756.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1755a)
+[Previous](./../../../..//us/usc/t42/ch13/m__us_usc_t42_s1755.md) | [Next](./../../../..//us/usc/t42/ch13/m__us_usc_t42_s1755b.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1755a)
 
 ## § 1755a. Whole grain products
 
@@ -75,7 +75,7 @@
 
 ----------
 
-[Previous](./../../../..//us/usc/t42/ch13/m__us_usc_t42_s1755.md) | [Next](./../../../..//us/usc/t42/ch13/m__us_usc_t42_s1756.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1755a)
+[Previous](./../../../..//us/usc/t42/ch13/m__us_usc_t42_s1755.md) | [Next](./../../../..//us/usc/t42/ch13/m__us_usc_t42_s1755b.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1755a)
 
 ----------
 ----------

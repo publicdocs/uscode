@@ -49,6 +49,12 @@
 
     1992—Par. (8). [Pub. L. 102–486][/us/pl/102/486] added par. (8).
 
+ __Short Title of 2014 Amendment__ 
+
+[Pub. L. 113–79, title XII, § 12401][/us/pl/113/79/s12401], Feb. 7, 2014, [128 Stat. 997][/us/stat/128/997], provided that: 
+
+> “This subtitle \[subtitle D (§§ 12401–12410) of title XII of [Pub. L. 113–79][/us/pl/113/79], amending provisions set out as a note under this section\] may be cited as the ‘Oilheat Efficiency, Renewable Fuel Research and Jobs Training Act of 2014’.”
+
  __Short Title of 2012 Amendment__ 
 
 [Pub. L. 112–210, § 1][/us/pl/112/210/s1], Dec. 18, 2012, [126 Stat. 1514][/us/stat/126/1514], provided that: 
@@ -147,7 +153,909 @@
 
  __National Oilheat Research Alliance__ 
 
-    [Pub. L. 106–469, title VII][/us/pl/106/469], Nov. 9, 2000, [114 Stat. 2043][/us/stat/114/2043], as amended by [Pub. L. 109–58, title III, § 302][/us/pl/109/58/s302], Aug. 8, 2005, [119 Stat. 685][/us/stat/119/685], known as the National Oilheat Research Alliance Act of 2000, authorized the oilheat industry, through the qualified industry organization, to conduct a referendum for the establishment of a national oilheat research alliance; permitted the oilheat industry in a State that had not participated initially in the alliance to subsequently elect to participate by conducting a referendum; required that, on the initiative of the alliance or on petition to the alliance by retail marketers and wholesale distributors, the alliance hold a referendum on termination or suspension of the alliance; permitted a State to elect to terminate participation; provided for the composition and selection and terms of service of members of the alliance and filling of vacancies; proscribed compensation or reimbursement for members except for public members’ reasonable expenses directly related to participation in meetings; enumerated the functions and priorities and directed administrative procedure of and reporting by the alliance; limited administrative expenses; provided for reimbursement of the Secretary of Energy for costs incurred by the Federal Government; required the alliance to publish an annual proposed budget and keep public records; provided for audit of records at least once each year; provided for the collection and use of assessments; required the alliance to establish a program coordinating the operation of the alliance with the operator of any similar State, local, or regional program created under State law and make available to the qualified State association of each State certain assessments collected in the State; required the Secretary of Commerce to prepare and make available an annual analysis of changes in the price of oilheat relative to other energy sources; restricted the alliance’s activities, under certain pricing conditions, to research and development, training, and safety matters; required consumer education activities undertaken with funds provided by the alliance to include a statement that the activities were supported, in whole or in part, by the alliance; prohibited consumer education activities undertaken with funds derived from assessments collected by the alliance that included a reference to a private brand name, a false or unwarranted claim on behalf of oilheat or related products, a reference with respect to the attributes or use of any competing product, and permitted complaints by aggrieved public utilities; and provided that title VII of [Pub. L. 106–469][/us/pl/106/469] would cease to be effective as of the date that is 9 years after the date on which the alliance was established (Feb. 6, 2001).
+[Pub. L. 106–469, title VII][/us/pl/106/469], Nov. 9, 2000, [114 Stat. 2043][/us/stat/114/2043], as amended by [Pub. L. 109–58, title III, § 302][/us/pl/109/58/s302], Aug. 8, 2005, [119 Stat. 685][/us/stat/119/685]; [Pub. L. 113–79, title XII][/us/pl/113/79], §§ 12402–12410, Feb. 7, 2014, [128 Stat. 997–1005][/us/stat/128/997-1005], provided that:
+
+> “SEC. 701. __SHORT TITLE.__ 
+
+>     “This title may be cited as the ‘National Oilheat Research Alliance Act of 2000’.
+
+> “SEC. 702. __FINDINGS.__ 
+
+> “Congress finds that—
+
+>     “(1) oilheat fuel is an important commodity relied on by approximately 30,000,000 Americans as an efficient and economical energy source for commercial and residential space and hot water heating;
+
+>     “(2) oilheat fuel equipment operates at efficiencies among the highest of any space heating energy source, reducing fuel costs and making oilheat fuel an economical means of space heating;
+
+>     “(3) the production, distribution, and marketing of oilheat fuel and oilheat fuel equipment plays a significant role in the economy of the United States, accounting for approximately $12,900,000,000 in expenditures annually and employing millions of Americans in all aspects of the oilheat fuel industry;
+
+>     “(4) only very limited Federal resources have been made available for oilheat fuel research, development, safety, training, and education efforts, to the detriment of both the oilheat fuel industry and its 30,000,000 consumers;
+
+>     “(5) the cooperative development, self-financing, and implementation of a coordinated national oilheat fuel industry program of research and development, training, and consumer education is necessary and important for the welfare of the oilheat fuel industry, the general economy of the United States, and the millions of Americans that rely on oilheat fuel for commercial and residential space and hot water heating;
+
+>     “(6) consumers of oilheat fuel fuel \[sic\] are provided service by thousands of small businesses that are unable to individually develop training programs to facilitate the entry of new and qualified workers into the oilheat fuel fuel \[sic\] industry;
+
+>     “(7)
+
+>      small businesses and trained employees are in an ideal position—
+
+>         “(A) to provide information to consumers about the benefits of improved efficiency; and
+
+>         “(B) to encourage consumers to value efficiency in energy choices and assist individuals in conserving energy;
+
+>     “(8)
+
+>      additional research is necessary—
+
+>         “(A) to improve oilheat fuel fuel \[sic\] equipment; and
+
+>         “(B) to develop domestic renewable resources that can be used to safely and affordably heat homes;
+
+>     “(9)
+
+>      since there are no Federal resources available to assist the oilheat fuel fuel \[sic\] industry, it is necessary and appropriate to develop a self-funded program dedicated—
+
+>         “(A) to improving efficiency in customer homes;
+
+>         “(B) to assist individuals to gain employment in the oilheat fuel fuel \[sic\] industry; and
+
+>         “(C) to develop domestic renewable resources;
+
+>     “(10) both consumers of oilheat fuel fuel \[sic\] and retailers would benefit from the self-funded program; and
+
+>     “(11) the oilheat fuel fuel \[sic\] industry is committed to providing appropriate funding necessary to carry out the purposes of this title without passing additional costs on to residential consumers.
+
+> “SEC. 703. __DEFINITIONS.__ 
+
+> “In this title:
+
+>     “(1)  __Alliance__  __.—__ 
+
+>     The term ‘Alliance’ means a national oilheat fuel research alliance established under section 704.
+
+>     “(2)  __Consumer education__  __.—__ 
+
+>     The term ‘consumer education’ means the provision of information to assist consumers and other persons in making evaluations and decisions regarding oilheat fuel and other nonindustrial commercial or residential space or hot water heating fuels.
+
+>     “(3)  __Cost-effective__  __.—__ 
+
+>     The term ‘cost-effective’, with respect to a program or activity carried out under section 707(f)(4), means that the program or activity meets a total resource cost test under which—
+
+>         “(A) the net present value of economic benefits over the life of the program or activity, including avoided supply and delivery costs and deferred or avoided investments; is greater than
+
+>         “(B) the net present value of the economic costs over the life of the program or activity, including program costs and incremental costs borne by the energy consumer.
+
+>     “(4)  __Exchange__  __.—__ 
+
+>     The term ‘exchange’ means an agreement that—
+
+>         “(A) entitles each party or its customers to receive oilheat fuel from the other party; and
+
+>         “(B) requires only an insubstantial portion of the volumes involved in the exchange to be settled in cash or property other than the oilheat fuel.
+
+>     “(5)  __Industry trade association__  __.—__ 
+
+>     The term ‘industry trade association’ means an organization described in paragraph (3) or (6) of section 501(c) of the Internal Revenue Code of 1986 \[[26 U.S.C. 501(c)(3)][/us/usc/t26/s501/c/3], (6)\] that is exempt from taxation under section 501(a) of that Code and is organized for the purpose of representing the oilheat fuel industry.
+
+>     “(6)  __No. 1 distillate__  __.—__ 
+
+>     The term ‘No. 1 distillate’ means fuel oil classified as No. 1 distillate by the American Society for Testing and Materials.
+
+>     “(7)  __No. 2 dyed distillate__  __.—__ 
+
+>     The term ‘No. 2 dyed distillate’ means fuel oil classified as No. 2 distillate by the American Society for Testing and Materials that is indelibly dyed in accordance with regulations prescribed by the Secretary of the Treasury under section 4082(a)(2) of the Internal Revenue Code of 1986 \[[26 U.S.C. 4082(a)(2)][/us/usc/t26/s4082/a/2]\].
+
+>     “(8)  __Oilheat fuel__  __.—__ 
+
+>     The term ‘oilheat fuel’ means fuel that—
+
+>         “(A)
+
+>          is—
+
+>             “(i) No. 1 distillate;
+
+>             “(ii) No. 2 dyed distillate;
+
+>             “(iii) a liquid blended with No. 1 distillate or No. 2 dyed distillate; or
+
+>             “(iv) a biobased liquid; and
+
+>         “(B) is used as a fuel for nonindustrial commercial or residential space or hot water heating.
+
+>     “(9)  __Oilheat fuel industry__  __.—__ 
+
+>         “(A)  __In general__  __.—__ 
+
+>         The term ‘oilheat fuel industry’ means—
+
+>     “(i) persons in the production, transportation, or sale of oilheat fuel; and
+
+>     “(ii)
+
+>      persons engaged in the manufacture or distribution of oilheat fuel utilization equipment.
+
+>         “(B)  __Exclusion__  __.—__ 
+
+>         The term ‘oilheat fuel industry’ does not include ultimate consumers of oilheat fuel.
+
+>         “(10)  __Public member__  __.—__ 
+
+>         The term ‘public member’ means a member of the Alliance described in section 705(c)(1)(F).
+
+>         “(11)  __Qualified industry organization__  __.—__ 
+
+>         The term ‘qualified industry organization’ means the National Association for Oilheat Research and Education or a successor organization.
+
+>         “(12)  __Qualified state association__  __.—__ 
+
+>         The term ‘qualified State association’ means the industry trade association or other organization that the qualified industry organization or the Alliance determines best represents retail marketers in a State.
+
+>         “(13)  __Retail marketer__  __.—__ 
+
+>         The term ‘retail marketer’ means a person engaged primarily in the sale of oilheat fuel to ultimate consumers.
+
+>         “(14)  __Secretary__  __.—__ 
+
+>         The term ‘Secretary’ means the Secretary of Energy.
+
+>         “(15)  __Wholesale distributor__  __.—__ 
+
+>         The term ‘wholesale distributor’ means a person that—
+
+>             “(A)
+
+>                 (i) produces No. 1 distillate or No. 2 dyed distillate;
+
+>     “(ii) imports No. 1 distillate or No. 2 dyed distillate; or
+
+>     “(iii)
+
+>      transports No. 1 distillate or No. 2 dyed distillate across State boundaries or among local marketing areas; and
+
+>         “(B) sells the distillate to another person that does not produce, import, or transport No. 1 distillate or No. 2 dyed distillate across State boundaries or among local marketing areas.
+
+>         “(16)  __State__  __.—__ 
+
+>         The term ‘State’ means the several States, except the State of Alaska.
+
+> “SEC. 704. __REFERENDA.__ 
+
+>     “(a)  __Creation of Program__  __.—__ 
+
+>         “(1)  __In general__  __.—__ 
+
+>         The oilheat fuel industry, through the qualified industry organization, may conduct, at its own expense, a referendum among retail marketers and wholesale distributors for the establishment of a national oilheat fuel research alliance.
+
+>         “(2)  __Reimbursement of cost__  __.—__ 
+
+>         The Alliance, if established, shall reimburse the qualified industry organization for the cost of accounting and documentation for the referendum.
+
+>         “(3)  __Conduct__  __.—__ 
+
+>         A referendum under paragraph (1) shall be conducted by an independent auditing firm.
+
+>         “(4)  __Voting rights__  __.—__ 
+
+>             “(A)  __Retail marketers__  __.—__ 
+
+>             Voting rights of retail marketers in a referendum under paragraph (1) shall be based on the volume of oilheat fuel sold in a State by each retail marketer in the calendar year previous to the year in which the referendum is conducted or in another representative period.
+
+>             “(B)  __Wholesale distributors__  __.—__ 
+
+>             Voting rights of wholesale distributors in a referendum under paragraph (1) shall be based on the volume of No. 1 distillate and No. 2 dyed distillate sold in a State by each wholesale distributor in the calendar year previous to the year in which the referendum is conducted or in another representative period, weighted by the ratio of the total volume of No. 1 distillate and No. 2 dyed distillate sold for nonindustrial commercial and residential space and hot water heating in the State to the total volume of No. 1 distillate and No. 2 dyed distillate sold in that State.
+
+>         “(5)  __Establishment by approval of two-thirds__  __.—__ 
+
+>             “(A)  __In general__  __.—__ 
+
+>             Subject to subparagraph (B), on approval of persons representing two-thirds of the total volume of oilheat fuel voted in the retail marketer class and two-thirds of the total weighted volume of No. 1 distillate and No. 2 dyed distillate voted in the wholesale distributor class, the Alliance shall be established and shall be authorized to levy assessments under section 707.
+
+>             “(B)  __Requirement of majority of retail marketers__  __.—__ 
+
+>             Except as provided in subsection (b), the oilheat fuel industry in a State shall not participate in the Alliance if less than 50 percent of the retail marketer vote in the State approves establishment of the Alliance.
+
+>         “(6)  __Certification of volumes__  __.—__ 
+
+>         Each person voting in the referendum shall certify to the independent auditing firm the volume of oilheat fuel, No. 1 distillate, or No. 2 dyed distillate represented by the vote of the person.
+
+>         “(7)  __Notification__  __.—__ 
+
+>         Not later than 90 days after the date of the enactment of this title \[Nov. 9, 2000\], a qualified State association may notify the qualified industry organization in writing that a referendum under paragraph (1) will not be conducted in the State.
+
+>     “(b)  __Subsequent State Participation__  __.—__ 
+
+>     The oilheat fuel industry in a State that has not participated initially in the Alliance may subsequently elect to participate by conducting a referendum under subsection (a).
+
+>     “(c)  __Termination or Suspension__  __.—__ 
+
+>         “(1)  __In general__  __.—__ 
+
+>         On the initiative of the Alliance or on petition to the Alliance by retail marketers and wholesale distributors representing 25 percent of the volume of oilheat fuel or weighted No. 1 distillate and No. 2 dyed distillate in each class, the Alliance shall, at its own expense, hold a referendum, to be conducted by an independent auditing firm selected by the Alliance, to determine whether the oilheat fuel industry favors termination or suspension of the Alliance.
+
+>         “(2)  __Volume percentages required to terminate or suspend__  __.—__ 
+
+>         Termination or suspension shall not take effect unless termination or suspension is approved by persons representing more than one-half of the total volume of oilheat fuel voted in the retail marketer class or more than one-half of the total volume of weighted No. 1 distillate and No. 2 dyed distillate voted in the wholesale distributor class.
+
+>         “(3)  __Termination by a state__  __.—__ 
+
+>         A State may elect to terminate participation by notifying the Alliance that 50 percent of the oilheat fuel volume in the State has voted in a referendum to withdraw.
+
+>     “(d)  __Calculation of Oilheat Fuel Sales__  __.—__ 
+
+>     For the purposes of this section and section 705, the volume of oilheat fuel sold annually in a State shall be determined on the basis of information provided by the Energy Information Administration with respect to a calendar year or other representative period.
+
+> “SEC. 705. __MEMBERSHIP.__ 
+
+>     “(a) __Selection.—__ 
+
+>         “(1) __List.—__ 
+
+>             “(A)  __In general__  __.—__ 
+
+>             The Alliance shall provide to the Secretary a list of qualified nominees for membership in the Alliance.
+
+>             “(B)  __Requirement__  __.—__ 
+
+>             Except as provided in subsection (c)(1)(C), members of the Alliance shall be representatives of the oilheat fuel industry in a State, selected from a list of nominees submitted by the qualified State association in the State.
+
+>         “(2)  __Vacancies__  __.—__ 
+
+>         A vacancy in the Alliance shall be filled in the same manner as the original selection.
+
+>         “(3) __Secretarial action.—__ 
+
+>             “(A)  __In general__  __.—__ 
+
+>             The Secretary shall have 60 days to review nominees provided under paragraph (1).
+
+>             “(B)  __Failure to act__  __.—__ 
+
+>             If the Secretary takes no action during the 60-day period described in subparagraph (A), the nominees shall be considered to be members of the Alliance.
+
+>     “(b)  __Representation__  __.—__ 
+
+>     In selecting members of the Alliance, the Alliance shall make best efforts to select members that are representative of the oilheat fuel industry, including representation of—
+
+>         “(1) interstate and intrastate operators among retail marketers;
+
+>         “(2) wholesale distributors of No. 1 distillate and No. 2 dyed distillate;
+
+>         “(3) large and small companies among wholesale distributors and retail marketers; and
+
+>         “(4) diverse geographic regions of the country.
+
+>     “(c)  __Number of Members__  __.—__ 
+
+>         “(1)  __In general__  __.—__ 
+
+>         The Alliance shall be composed of the following members:
+
+>             “(A) 1 member representing each State participating in the Alliance.
+
+>             “(B) 5 representatives of retail marketers, of whom 1 shall be selected by each of the qualified State associations of the 5 States with the highest volume of annual oilheat fuel sales.
+
+>             “(C) 5 additional representatives of retail marketers.
+
+>             “(D) 21 representatives of wholesale distributors.
+
+>             “(E) 6 public members, who shall be representatives of significant users of oilheat fuel, the oilheat fuel research community, State energy officials, or other groups with expertise in oilheat fuel, including consumer and low-income advocacy groups.
+
+>         “(2)  __Full-time owners or employees__  __.—__ 
+
+>         Other than the public members, Alliance members shall be full-time owners or employees of members of the oilheat fuel industry, except that members described in subparagraphs (C), (D), and (E) of paragraph (1) may be employees of an industry trade association.
+
+>     “(d)  __Compensation__  __.—__ 
+
+>     Alliance members shall receive no compensation for their service, nor shall Alliance members be reimbursed for expenses relating to their service, except that public members, on request, may be reimbursed for reasonable expenses directly related to participation in meetings of the Alliance.
+
+>     “(e)  __Terms__  __.—__ 
+
+>         “(1)  __In general__  __.—__ 
+
+>         Subject to paragraph (4), a member of the Alliance shall serve a term of 3 years, except that a member filling an unexpired term may serve a total of 7 consecutive years.
+
+>         “(2)  __Term limit__  __.—__ 
+
+>         A member may serve not more than two full consecutive terms.
+
+>         “(3)  __Former members__  __.—__ 
+
+>         A former member of the Alliance may be returned to the Alliance if the member has not been a member for a period of 2 years.
+
+>         “(4)  __Initial appointments__  __.—__ 
+
+>         Initial appointments to the Alliance shall be for terms of 1, 2, and 3 years, as determined by the qualified industry organization, staggered to provide for the subsequent selection of one-third of the members each year.
+
+> “SEC. 706. __FUNCTIONS.__ 
+
+>     “(a)  __In General__  __.—__ 
+
+>         “(1)  __Programs, projects; contracts and other agreements__  __.—__ 
+
+>         The Alliance—
+
+>             “(A)
+
+>              shall develop programs and projects and enter into contracts or other agreements with other persons and entities for implementing this title, including programs—
+
+>                 “(i) to enhance consumer and employee safety and training;
+
+>                 “(ii) to provide for research, development, and demonstration of clean and efficient oilheat fuel utilization equipment; and
+
+>                 “(iii) for consumer education; and
+
+>             “(B) may provide for the payment of the costs of carrying out subparagraph (A) with assessments collected under section 707.
+
+>         “(2)  __Coordination__  __.—__ 
+
+>         The Alliance shall coordinate its activities with industry trade associations and other persons as appropriate to provide efficient delivery of services and to avoid unnecessary duplication of activities.
+
+>         “(3)  __Activities__  __.—__ 
+
+>             “(A)  __Exclusions__  __.—__ 
+
+>             Activities under clause (i) or (ii) of paragraph (1)(A) shall not include advertising, promotions, or consumer surveys in support of advertising or promotions.
+
+>             “(B)  __Research, development, and demonstration activities__  __.—__ 
+
+>                 “(i)  __In general__  __.—__ 
+
+>                 Research, development, and demonstration activities under paragraph (1)(A)(ii) shall include—
+
+>                          “(I) all activities incidental to research, development, and demonstration of clean and efficient oilheat fuel utilization equipment, including research to develop renewable fuels and to examine the compatibility of different renewable fuels with oilheat fuel utilization equipment, with priority given to research on the development and use of advanced biofuels; and
+
+>                          “(II) the obtaining of patents, including payment of attorney’s fees for making and perfecting a patent application.
+
+>                 “(ii)  __Excluded activities__  __.—__ 
+
+>                 Research, development, and demonstration activities under paragraph (1)(A)(ii) shall not include research, development, and demonstration of oilheat fuel utilization equipment with respect to which technically feasible and commercially feasible operations have been verified, except that funds may be provided for improvements to existing equipment until the technical feasibility and commercial feasibility of the operation of those improvements have been verified.
+
+>     “(b)  __Priorities__  __.—__ 
+
+>     In the development of programs and projects, the Alliance shall give priority to issues relating to—
+
+>         “(1) research, development, and demonstration;
+
+>         “(2) safety;
+
+>         “(3) consumer education; and
+
+>         “(4) training.
+
+>     “(c)  __Administration__  __.—__ 
+
+>         “(1)  __Officers; committees; bylaws__  __.—__ 
+
+>         The Alliance—
+
+>             “(A) shall select from among its members a chairperson and other officers as necessary;
+
+>             “(B) may establish and authorize committees and subcommittees of the Alliance to take specific actions that the Alliance is authorized to take; and
+
+>             “(C) shall adopt bylaws for the conduct of business and the implementation of this title.
+
+>         “(2)  __Solicitation of oilheat fuel industry comment and recommendations__  __.—__ 
+
+>         The Alliance shall establish procedures for the solicitation of oilheat fuel industry comment and recommendations on any significant contracts and other agreements, programs, and projects to be funded by the Alliance.
+
+>         “(3)  __Advisory committees__  __.—__ 
+
+>         The Alliance may establish advisory committees consisting of persons other than Alliance members.
+
+>         “(4)  __Voting__  __.—__ 
+
+>         Each member of the Alliance shall have one vote in matters before the Alliance.
+
+>     “(d)  __Administrative Expenses__  __.—__ 
+
+>         “(1)  __In general__  __.—__ 
+
+>         The administrative expenses of operating the Alliance (not including costs incurred in the collection of assessments under section 707) plus amounts paid under paragraph (2) shall not exceed 7 percent of the amount of assessments collected in any calendar year, except that during the first year of operation of the Alliance such expenses and amounts shall not exceed 10 percent of the amount of assessments.
+
+>         “(2)  __Reimbursement of the secretary__  __.—__ 
+
+>             “(A)  __In general__  __.—__ 
+
+>             The Alliance shall annually reimburse the Secretary for costs incurred by the Federal Government relating to the Alliance.
+
+>             “(B)  __Limitation__  __.—__ 
+
+>             Reimbursement under subparagraph (A) for any calendar year shall not exceed the amount that the Secretary determines is twice the average annual salary of one employee of the Department of Energy.
+
+>     “(e)  __Budget__  __.—__ 
+
+>         “(1)  __Publication of proposed budget__  __.—__ 
+
+>         Not later than August 1, 2014, and every 2 years thereafter, the Alliance shall, in consultation with the Secretary, develop and publish for public review and comment a proposed biennial budget for the next 2 calendar years, including the probable operating and planning costs of all programs, projects, and contracts and other agreements.
+
+>         “(2)  __Submission to the secretary and congress__  __.—__ 
+
+>         After review and comment under paragraph (1), the Alliance shall submit the proposed budget to the Secretary and Congress.
+
+>         “(3)  __Recommendations by the secretary__  __.—__ 
+
+>         The Secretary may recommend for inclusion in the budget programs and activities that the Secretary considers appropriate.
+
+>         “(4) __Implementation.—__ 
+
+>             “(A)  __In general__  __.—__ 
+
+>             The Alliance shall not implement a proposed budget until the expiration of 60 days after submitting the proposed budget to the Secretary.
+
+>             “(B) __Recommendations for changes by secretary.—__ 
+
+>                 “(i)  __In general__  __.—__ 
+
+>                 The Secretary may recommend to the Alliance changes to the budget programs and activities of the Alliance that the Secretary considers appropriate.
+
+>                 “(ii)  __Response by alliance__  __.—__ 
+
+>                 Not later than 30 days after the receipt of any recommendations made under clause (i), the Alliance shall submit to the Secretary a final budget for the next 2 calendar years that incorporates or includes a description of the response of the Alliance to any changes recommended under clause (i).
+
+>     “(f)  __Records; Audits__  __.—__ 
+
+>         “(1)  __Records__  __.—__ 
+
+>         The Alliance shall—
+
+>             “(A) keep records that clearly reflect all of the acts and transactions of the Alliance; and
+
+>             “(B) make the records available to the public.
+
+>         “(2)  __Audits__  __.—__ 
+
+>             “(A)  __In general__  __.—__ 
+
+>             The records of the Alliance (including fee assessment reports and applications for refunds under section 707(b)(4)) shall be audited by a certified public accountant at least once each year and at such other times as the Alliance may designate.
+
+>             “(B)  __Availability of audit reports__  __.—__ 
+
+>             Copies of each audit report shall be provided to the Secretary, the members of the Alliance, and the qualified industry organization, and, on request, to other members of the oilheat fuel industry.
+
+>             “(C)  __Policies and procedures__  __.—__ 
+
+>                 “(i)  __In general__  __.—__ 
+
+>                 The Alliance shall establish policies and procedures for auditing compliance with this title.
+
+>                 “(ii)  __Conformity with gaap__  __.—__ 
+
+>                 The policies and procedures established under clause (i) shall conform with generally accepted accounting principles.
+
+>     “(g)  __Public Access to Alliance Proceedings__  __.—__ 
+
+>         “(1)  __Public notice__  __.—__ 
+
+>         The Alliance shall give at least 30 days’ public notice of each meeting of the Alliance.
+
+>         “(2)  __Meetings open to the public__  __.—__ 
+
+>         Each meeting of the Alliance shall be open to the public.
+
+>         “(3)  __Minutes__  __.—__ 
+
+>         The minutes of each meeting of the Alliance shall be made available to and readily accessible by the public.
+
+>     “(h)  __Annual Report__  __.—__ 
+
+>     Each year the Alliance shall prepare and make publicly available a report that–
+
+>         “(1) includes a description of all programs, projects, and contracts and other agreements undertaken by the Alliance during the previous year and those planned for the current year; and
+
+>         “(2) details the allocation of Alliance resources for each such program and project.
+
+> “SEC. 707. __ASSESSMENTS.__ 
+
+>     “(a)  __Rate__  __.—__ 
+
+>     The assessment rate shall be equal to 2⁄10 of 1 cent per gallon of oilheat fuel.
+
+>     “(b)  __Collection Rules__  __.—__ 
+
+>         “(1)  __Collection at point of sale__  __.—__ 
+
+>         The assessment shall be collected at the point of sale of No. 1 distillate and No. 2 dyed distillate by a wholesale distributor to a person other than a wholesale distributor, including a sale made pursuant to an exchange.
+
+>         “(2)  __Responsibility for payment__  __.—__ 
+
+>         A wholesale distributor—
+
+>             “(A) shall be responsible for payment of an assessment to the Alliance on a quarterly basis; and
+
+>             “(B) shall provide to the Alliance certification of the volume of fuel sold.
+
+>         “(3)  __No ownership interest__  __.—__ 
+
+>         A person that has no ownership interest in No. 1 distillate or No. 2 dyed distillate shall not be responsible for payment of an assessment under this section.
+
+>         “(4)  __Failure to receive payment__  __.—__ 
+
+>             “(A)  __Refund__  __.—__ 
+
+>             A wholesale distributor that does not receive payments from a purchaser for No. 1 distillate or No. 2 dyed distillate within 1 year of the date of sale may apply for a refund from the Alliance of the assessment paid.
+
+>             “(B)  __Amount__  __.—__ 
+
+>             The amount of a refund shall not exceed the amount of the assessment levied on the No. 1 distillate or No. 2 dyed distillate for which payment was not received.
+
+>         “(5)  __Importation after point of sale__  __.—__ 
+
+>         The owner of No. 1 distillate or No. 2 dyed distillate imported after the point of sale—
+
+>             “(A) shall be responsible for payment of the assessment to the Alliance at the point at which the product enters the United States; and
+
+>             “(B) shall provide to the Alliance certification of the volume of fuel imported.
+
+>         “(6)  __Late payment charge__  __.—__ 
+
+>         The Alliance may establish a late payment charge and rate of interest to be imposed on any person who fails to remit or pay to the Alliance any amount due under this title.
+
+>         “(7)  __Alternative collection rules__  __.—__ 
+
+>         The Alliance may establish, or approve a request of the oilheat fuel industry in a State for, an alternative means of collecting the assessment if another means is determined to be more efficient or more effective.
+
+>         “(8)  __Prohibition on pass through__  __.—__ 
+
+>         None of the assessments collected under this title may be passed through or otherwise required to be paid by residential consumers of oilheat fuel.
+
+>     “(c)  __Sale for Use Other Than as Oilheat Fuel__  __.—__ 
+
+>     No. 1 distillate and No. 2 dyed distillate sold for uses other than as oilheat fuel are excluded from the assessment.
+
+>     “(d)  __Investment of Funds__  __.—__ 
+
+>     Pending disbursement under a program, project or contract or other agreement the Alliance may invest funds collected through assessments, and any other funds received by the Alliance, only–
+
+>         “(1) in obligations of the United States or any agency of the United States;
+
+>         “(2) in general obligations of any State or any political subdivision of a State;
+
+>         “(3) in any interest-bearing account or certificate of deposit of a bank that is a member of the Federal Reserve System; or
+
+>         “(4) in obligations fully guaranteed as to principal and interest by the United States.
+
+>     “(e)  __State, Local, and Regional Programs__  __.—__ 
+
+>         “(1)  __Coordination__  __.—__ 
+
+>         The Alliance shall establish a program coordinating the operation of the Alliance with the operator of any similar State, local, or regional program created under State law (including a regulation), or similar entity.
+
+>         “(2)  __Funds made available to qualified state associations__  __.—__ 
+
+>             “(A)  __In general__  __.—__ 
+
+>                 “(i)  __Base amount__  __.—__ 
+
+>                 The Alliance shall make available to the qualified State association of each State an amount equal to 15 percent of the amount of assessments collected in the State.
+
+>                 “(ii)  __Additional amount__  __.—__ 
+
+>                          “(I)  __In general__  __.—__ 
+
+>                     A qualified State association may request that the Alliance provide to the association any portion of the remaining 85 percent of the amount of assessments collected in the State.
+
+>                          “(II)  __Request requirements__  __.—__ 
+
+>                     A request under this clause shall—
+
+>                         “(aa) specify the amount of funds requested;
+
+>                         “(bb) describe in detail the specific uses for which the requested funds are sought;
+
+>                         “(cc) include a commitment to comply with this title in using the requested funds; and
+
+>                         “(dd) be made publicly available.
+
+>                          “(III)  __Direct benefit__  __.—__ 
+
+>                     The Alliance shall not provide any funds in response to a request under this clause unless the Alliance determines that the funds will be used to directly benefit the oilheat fuel industry.
+
+>                          “(IV)  __Monitoring; terms, conditions, and reporting requirements__  __.—__ 
+
+>                     The Alliance shall—
+
+>                         “(aa) monitor the use of funds provided under this clause; and
+
+>                         “(bb) impose whatever terms, conditions, and reporting requirements that the Alliance considers necessary to ensure compliance with this title.
+
+>             “(B)  __Separate accounts__  __.—__ 
+
+>             As a condition of receipt of funds made available to a qualified State association under this title, the qualified State association shall deposit the funds in an account that is separate from other funds of the qualified State association.
+
+>     “(f) __Use of Assessments.—__ 
+
+>         “(1)  __In general__  __.—__ 
+
+>         Notwithstanding any other provision of this title, the Secretary and the Alliance shall ensure that assessments collected for each calendar year under this title are allocated and used in accordance with this subsection.
+
+>         “(2) __Research, development, and demonstration.—__ 
+
+>             “(A)  __In general__  __.—__ 
+
+>             The Alliance shall ensure that not less than 30 percent of the assessments collected for each calendar year under this title are used by qualified State associations or the Alliance to conduct research, development, and demonstration activities relating to oilheat fuel, including the development of energy-efficient heating and the transition and facilitation of the entry of energy efficient heating systems into the marketplace.
+
+>             “(B)  __Coordination__  __.—__ 
+
+>             The Alliance shall coordinate with the Secretary to develop priorities for the use of assessments under this paragraph.
+
+>             “(C)  __Plan__  __.—__ 
+
+>             The Alliance shall develop a coordinated research plan to carry out research programs and activities under this section.
+
+>             “(D) __Report.—__ 
+
+>                 “(i)  __In general__  __.—__ 
+
+>                 No later than 1 year after the date of enactment of this subsection \[Feb. 7, 2014\], the Alliance shall prepare a report on the use of biofuels in oilheat fuel utilization equipment.
+
+>                 “(ii)  __Contents__  __.—__ 
+
+>                 The report required under clause (i) shall—
+
+>                          “(I) provide information on the environmental benefits, economic benefits, and any technical limitations on the use of biofuels in oilheat fuel utilization equipment; and
+
+>                          “(II) describe market acceptance of the fuel, and information on State and local governments that are encouraging the use of biofuels in oilheat fuel utilization equipment.
+
+>                 “(iii)  __Copies__  __.—__ 
+
+>                 The Alliance shall submit a copy of the report required under clause (i) to—
+
+>                          “(I) Congress;
+
+>                          “(II) the Governor of each State, and other appropriate State leaders, in which the Alliance is operating; and
+
+>                          “(III) the Administrator of the Environmental Protection Agency.
+
+>             “(E)  __Consumer education materials__  __.—__ 
+
+>             The Alliance, in conjunction with an institution or organization engaged in biofuels research, shall develop consumer education materials describing the benefits of using biofuels as or in oilheat fuel based on the technical information developed in the report required under subparagraph (D) and other information generally available.
+
+>         “(3) __Cost sharing.—__ 
+
+>             “(A)  __In general__  __.—__ 
+
+>             In carrying out a research, development, demonstration, or commercial application program or activity that is commenced after the date of enactment of this subsection, the Alliance shall require cost-sharing in accordance with this section.
+
+>             “(B) __Research and development.—__ 
+
+>                 “(i)  __In general__  __.—__ 
+
+>                 Except as provided in clauses (ii) and (iii), the Alliance shall require that not less than 20 percent of the cost of a research or development program or activity described in subparagraph (A) to be provided by a source other than the Alliance.
+
+>                 “(ii)  __Exclusion__  __.—__ 
+
+>                 Clause (i) shall not apply to a research or development program or activity described in subparagraph (A) that is of a basic or fundamental nature, as determined by the Alliance.
+
+>                 “(iii)  __Reduction__  __.—__ 
+
+>                 The Alliance may reduce or eliminate the requirement of clause (i) for a research and development program or activity of an applied nature if the Alliance determines that the reduction is necessary and appropriate.
+
+>             “(C)  __Demonstration and commercial application__  __.—__ 
+
+>             The Alliance shall require that not less than 50 percent of the cost of a demonstration or commercial application program or activity described in subparagraph (A) to be provided by a source other than the Alliance.
+
+>         “(4) __Heating oil efficiency and upgrade program.—__ 
+
+>             “(A)  __In general__  __.—__ 
+
+>             The Alliance shall ensure that not less than 15 percent of the assessments collected for each calendar year under this title are used by qualified State associations or the Alliance to carry out programs to assist consumers—
+
+>                 “(i) to make cost-effective upgrades to more fuel efficient heating oil systems or otherwise make cost-effective modifications to an existing heating system to improve the efficiency of the system;
+
+>                 “(ii) to improve energy efficiency or reduce energy consumption through cost-effective energy efficiency programs for consumers; or
+
+>                 “(iii) to improve the safe operation of a heating system.
+
+>             “(B)  __Plan__  __.—__ 
+
+>             The Alliance shall, to the maximum extent practicable, coordinate, develop, and implement the programs and activities of the Alliance in conjunction with existing State energy efficiency program administrators.
+
+>             “(C) __Administration.—__ 
+
+>                 “(i)  __In general__  __.—__ 
+
+>                 In carrying out this paragraph, the Alliance shall, to the maximum extent practicable, ensure that heating system conversion assistance is coordinated with, and developed after consultation with, persons or organizations responsible for administering—
+
+>                          “(I) the low-income home energy assistance program established under the Low-Income Home Energy Assistance Act of 1981 ([42 U.S.C. 8621][/us/usc/t42/s8621] et seq.);
+
+>                          “(II) the Weatherization Assistance Program for Low-Income Persons established under part A of title IV of the Energy Conservation and Production Act ([42 U.S.C. 6861][/us/usc/t42/s6861] et seq.); or
+
+>                          “(III) other energy efficiency programs administered by the State or other parties in the State.
+
+>                 “(ii)  __Distribution of funds__  __.—__ 
+
+>                 The Alliance shall ensure that funds distributed to carry out this paragraph are—
+
+>                          “(I) distributed equitably to States based on the proportional contributions of the States through collected assessments;
+
+>                          “(II) used to supplement (and not supplant) State or alternative sources of funding for energy efficiency programs; and
+
+>                          “(III) used only to carry out this paragraph.
+
+>         “(5)  __Consumer education, safety, and training__  __.—__ 
+
+>         The Alliance shall ensure that not more than 30 percent of the assessments collected for each calendar year under this title are used—
+
+>             “(A)
+
+>              to conduct consumer education activities relating to oilheat fuel, including providing information to consumers on—
+
+>                 “(i) energy conservation strategies;
+
+>                 “(ii) safety;
+
+>                 “(iii) new technologies that reduce consumption or improve safety and comfort;
+
+>                 “(iv) the use of biofuels blends; and
+
+>                 “(v) Federal, State, and local programs designed to assist oilheat fuel consumers;
+
+>             “(B) to conduct worker safety and training activities relating to oilheat fuel, including energy efficiency training (including classes to obtain Building Performance Institute or Residential Energy Services Network certification);
+
+>             “(C) to carry out other activities recommended by the Secretary; or
+
+>             “(D) to the maximum extent practicable, a data collection process established, in collaboration with the Secretary or other appropriate Federal agencies, to track equipment, service, and related safety issues and to develop measures to improve safety.
+
+>         “(6) __Administrative costs.—__ 
+
+>             “(A)  __In general__  __.—__ 
+
+>             The Alliance shall ensure that not more than 5 percent of the assessments collected for each calendar year under this title are used for—
+
+>                 “(i) administrative costs; or
+
+>                 “(ii) indirect costs incurred in carrying out paragraphs (1) through (5).
+
+>             “(B)  __Administration__  __.—__ 
+
+>             Activities under this section shall be documented pursuant to a transparent process and procedures developed in coordination with the Secretary.
+
+>         “(7) __Reports.—__ 
+
+>             “(A) __Annual reports.—__ 
+
+>                 “(i)  __In general__  __.—__ 
+
+>                 Each qualified State association or the Alliance shall prepare an annual report describing he development and administration of this section, and yearly expenditures under this section.
+
+>                 “(ii)  __Contents__  __.—__ 
+
+>                 Each report required under clause (i) shall include a description of the use of proceeds under this section, including a description of—
+
+>                          “(I) advancements made in energy-efficient heating systems and biofuel heating oil blends; and
+
+>                          “(II) heating system upgrades and modifications and energy efficiency programs funded under this section.
+
+>                 “(iii) __Verification.—__ 
+
+>                          “(I)  __In general__  __.—__ 
+
+>                     The Alliance shall ensure that an independent third-party reviews each report described in clause (i) and verifies the accuracy of the report.
+
+>                          “(II)  __Councils__  __.—__ 
+
+>                     If a State has a stakeholder efficiency oversight council, the council shall be the entity that reviews and verifies the report of the State association or Alliance for the State under clause (i).
+
+>             “(B)  __Reports on heating oil efficiency and upgrade program__  __.—__ 
+
+>             At least once every 3 years, the Alliance shall prepare a detailed report describing the consumer savings, cost-effectiveness of, and the lifetime and annual energy savings achieved by heating system upgrades and modifications and energy efficiency programs funded under paragraph (4).
+
+>             “(C)  __Availability__  __.—__ 
+
+>             Each report, and any subsequent changes to the report, described in this paragraph shall be made publically available, with notice of availability provided to the Secretary, and posted on the website of the Alliance.
+
+> “SEC. 708. \[Repealed. [Pub. L. 113–79, title XII, § 12407][/us/pl/113/79/s12407], Feb. 7, 2014, [128 Stat. 1004][/us/stat/128/1004]\]
+
+> “SEC. 709. __COMPLIANCE.__ 
+
+>     “(a)  __In General__  __.—__ 
+
+>     The Alliance may bring a civil action in United States district court to compel payment of an assessment under section 707.
+
+>     “(b)  __Costs__  __.—__ 
+
+>     A successful action for compliance under this section may also require payment by the defendant of the costs incurred by the Alliance in bringing the action.
+
+> “SEC. 710. __LOBBYING RESTRICTIONS.__ 
+
+>     “(a)  __In General__  __.—__ 
+
+>     No funds derived from assessments under section 707 collected by the Alliance shall be used to influence legislation or elections or to lobby, except that the Alliance may use such funds to formulate and submit to the Secretary recommendations for amendments to this title or other laws that would further the purposes of this title.
+
+>     “(b) __Assessments.—__ 
+
+>         “(1)  __In general__  __.—__ 
+
+>         Subject to paragraph (2), no funds derived from assessments collected by the Alliance under section 707 shall be used, directly or indirectly, to influence Federal, State, or local legislation or elections, or the manner of administering of a law.
+
+>         “(2)  __Information__  __.—__ 
+
+>         The Alliance may use funds described in paragraph (1) to provide information requested by a Member of Congress, or an official of any Federal, State, or local agency, in the course of the official business of the Member or official.
+
+> “SEC. 711. __DISCLOSURE.__ 
+
+>     “Any consumer education activity undertaken with funds provided by the Alliance shall include a statement that the activities were supported, in whole or in part, by the Alliance.
+
+> “SEC. 712. __VIOLATIONS.__ 
+
+>     “(a)  __Prohibition__  __.—__ 
+
+>     It shall be unlawful for any person to conduct a consumer education activity, undertaken with funds derived from assessments collected by the Alliance under section 707, that includes—
+
+>         “(1) a reference to a private brand name;
+
+>         “(2) a false or unwarranted claim on behalf of oilheat fuel or related products; or
+
+>         “(3) a reference with respect to the attributes or use of any competing product.
+
+>     “(b)  __Complaints__  __.—__ 
+
+>         “(1)  __In general__  __.—__ 
+
+>         A public utility that is aggrieved by a violation described in subsection (a) may file a complaint with the Alliance.
+
+>         “(2)  __Transmittal to qualified state association__  __.—__ 
+
+>         A complaint shall be transmitted concurrently to any qualified State association undertaking the consumer education activity with respect to which the complaint is made.
+
+>         “(3)  __Cessation of activities__  __.—__ 
+
+>         On receipt of a complaint under this subsection, the Alliance, and any qualified State association undertaking the consumer education activity with respect to which the complaint is made, shall cease that consumer education activity until—
+
+>             “(A) the complaint is withdrawn; or
+
+>             “(B) a court determines that the conduct of the activity complained of does not constitute a violation of subsection (a).
+
+>     “(c)  __Resolution by Parties__  __.—__ 
+
+>         “(1)  __In general__  __.—__ 
+
+>         Not later than 10 days after a complaint is filed and transmitted under subsection (b), the complaining party, the Alliance, and any qualified State association undertaking the consumer education activity with respect to which the complaint is made shall meet to attempt to resolve the complaint.
+
+>         “(2)  __Withdrawal of complaint__  __.—__ 
+
+>         If the issues in dispute are resolved in those discussions, the complaining party shall withdraw its complaint.
+
+>     “(d)  __Judicial Review__  __.—__ 
+
+>         “(1)  __In general__  __.—__ 
+
+>         A public utility filing a complaint under this section, the Alliance, a qualified State association undertaking the consumer education activity with respect to which a complaint under this section is made, or any person aggrieved by a violation of subsection (a) may seek appropriate relief in United States district court.
+
+>         “(2)  __Relief__  __.—__ 
+
+>         A public utility filing a complaint under this section shall be entitled to temporary and injunctive relief enjoining the consumer education activity with respect to which a complaint under this section is made until—
+
+>             “(A) the complaint is withdrawn; or
+
+>             “(B) the court has determined that the consumer education activity complained of does not constitute a violation of subsection (a).
+
+>     “(e)  __Attorney’s Fees__  __.—__ 
+
+>         “(1)  __Meritorious case__  __.—__ 
+
+>         In a case in Federal court in which the court grants a public utility injunctive relief under subsection (d), the public utility shall be entitled to recover an attorney’s fee from the Alliance and any qualified State association undertaking the consumer education activity with respect to which a complaint under this section is made.
+
+>         “(2)  __Nonmeritorious case__  __.—__ 
+
+>         In any case under subsection (d) in which the court determines a complaint under subsection (b) to be frivolous and without merit, the prevailing party shall be entitled to recover an attorney’s fee.
+
+>     “(f)  __Savings Clause__  __.—__ 
+
+>     Nothing in this section shall limit causes of action brought under any other law.
+
+>     “(g)  __Noncompliance__  __.—__ 
+
+>     If the Alliance, a qualified State association, or any other entity or person violates this title, the Secretary shall—
+
+>         “(1) notify Congress of the noncompliance; and
+
+>         “(2) provide notice of the noncompliance on the Alliance website.
+
+> “SEC. 713. __SUNSET.__ 
+
+>     “This title shall cease to be effective as of the date that is 18 years after the date on which the Alliance is established.”
 
  __Ex. Ord. No. 11912. Delegation of Authorities__ 
 
@@ -256,6 +1164,9 @@ Sec. 6. The Secretary of Energy is designated and empowered to perform without a
 [/us/pl/106/469/s102/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F469%2Fs102%2F2
 [/us/pl/106/469/s102/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F469%2Fs102%2F2
 [/us/pl/102/486]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486
+[/us/pl/113/79/s12401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs12401
+[/us/stat/128/997]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F997
+[/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
 [/us/pl/112/210/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F210%2Fs1
 [/us/stat/126/1514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1514
 [/us/usc/t42/s6351]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6351
@@ -316,7 +1227,14 @@ Sec. 6. The Secretary of Energy is designated and empowered to perform without a
 [/us/stat/114/2043]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2043
 [/us/pl/109/58/s302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs302
 [/us/stat/119/685]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F685
-[/us/pl/106/469]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F469
+[/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
+[/us/stat/128/997-1005]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F997-1005
+[/us/usc/t26/s501/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs501%2Fc%2F3
+[/us/usc/t26/s4082/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs4082%2Fa%2F2
+[/us/usc/t42/s8621]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs8621
+[/us/usc/t42/s6861]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6861
+[/us/pl/113/79/s12407]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs12407
+[/us/stat/128/1004]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1004
 [/us/pl/94/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F163
 [/us/stat/89/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F8
 [/us/usc/t42/s6201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6201

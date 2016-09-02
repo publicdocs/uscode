@@ -57,7 +57,7 @@
 
         (3) the unemployment compensation program under section 3304 of the Internal Revenue Code of 1986;
 
-        (4) the supplemental nutrition assistance program under the Food and Nutrition Act of 2008 \[[7 U.S.C. 2011][/us/usc/t7/s2011] et seq.\]; and
+        (4) the supplemental nutrition assistance program established under the Food and Nutrition Act of 2008 ([7 U.S.C. 2011][/us/usc/t7/s2011] et seq.); and
 
         (5) any State program under a plan approved under subchapter I, X, XIV, or XVI of this chapter.
 
@@ -165,7 +165,7 @@
 
         Subsections (a)(1) and (d) of this section shall not apply with respect to aliens seeking medical assistance for the treatment of an emergency medical condition under [section 1396b(v)(2) of this title][/us/usc/t42/s1396b/v/2].
 
-([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title XI, § 1137, as added [Pub. L. 98–369, div. B, title VI, § 2651(a)][/us/pl/98/369/s2651/a], July 18, 1984, [98 Stat. 1147][/us/stat/98/1147]; amended [Pub. L. 99–509, title IX, § 9101][/us/pl/99/509/s9101], Oct. 21, 1986, [100 Stat. 1972][/us/stat/100/1972]; [Pub. L. 99–514, § 2][/us/pl/99/514/s2], Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095]; [Pub. L. 99–603, title I, § 121(a)(1)][/us/pl/99/603/s121/a/1], Nov. 6, 1986, [100 Stat. 3384][/us/stat/100/3384]; [Pub. L. 100–360, title IV, § 411(k)(15)(A)][/us/pl/100/360/s411/k/15/A], July 1, 1988, [102 Stat. 799][/us/stat/102/799]; [Pub. L. 103–432, title II, § 231][/us/pl/103/432/s231], Oct. 31, 1994, [108 Stat. 4462][/us/stat/108/4462]; [Pub. L. 104–193, title I, § 108(g)(8)][/us/pl/104/193/s108/g/8], title III, § 313(c), Aug. 22, 1996, [110 Stat. 2168][/us/stat/110/2168], 2212; [Pub. L. 104–208, div. C, title V, § 507(a)][/us/pl/104/208/s507/a], Sept. 30, 1996, [110 Stat. 3009–673][/us/stat/110/3009-673]; [Pub. L. 106–169, title IV, § 401(p)][/us/pl/106/169/s401/p], Dec. 14, 1999, [113 Stat. 1859][/us/stat/113/1859]; [Pub. L. 106–170, title IV, § 405(a)][/us/pl/106/170/s405/a], (b), Dec. 17, 1999, [113 Stat. 1911][/us/stat/113/1911]; [Pub. L. 110–234, title IV, § 4002(b)(1)(A)][/us/pl/110/234/s4002/b/1/A], (B), (2)(V), May 22, 2008, [122 Stat. 1095–1097][/us/stat/122/1095-1097]; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title IV, § 4002(b)(1)(A), (B), (2)(V), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1857, 1858.)
+([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title XI, § 1137, as added [Pub. L. 98–369, div. B, title VI, § 2651(a)][/us/pl/98/369/s2651/a], July 18, 1984, [98 Stat. 1147][/us/stat/98/1147]; amended [Pub. L. 99–509, title IX, § 9101][/us/pl/99/509/s9101], Oct. 21, 1986, [100 Stat. 1972][/us/stat/100/1972]; [Pub. L. 99–514, § 2][/us/pl/99/514/s2], Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095]; [Pub. L. 99–603, title I, § 121(a)(1)][/us/pl/99/603/s121/a/1], Nov. 6, 1986, [100 Stat. 3384][/us/stat/100/3384]; [Pub. L. 100–360, title IV, § 411(k)(15)(A)][/us/pl/100/360/s411/k/15/A], July 1, 1988, [102 Stat. 799][/us/stat/102/799]; [Pub. L. 103–432, title II, § 231][/us/pl/103/432/s231], Oct. 31, 1994, [108 Stat. 4462][/us/stat/108/4462]; [Pub. L. 104–193, title I, § 108(g)(8)][/us/pl/104/193/s108/g/8], title III, § 313(c), Aug. 22, 1996, [110 Stat. 2168][/us/stat/110/2168], 2212; [Pub. L. 104–208, div. C, title V, § 507(a)][/us/pl/104/208/s507/a], Sept. 30, 1996, [110 Stat. 3009–673][/us/stat/110/3009-673]; [Pub. L. 106–169, title IV, § 401(p)][/us/pl/106/169/s401/p], Dec. 14, 1999, [113 Stat. 1859][/us/stat/113/1859]; [Pub. L. 106–170, title IV, § 405(a)][/us/pl/106/170/s405/a], (b), Dec. 17, 1999, [113 Stat. 1911][/us/stat/113/1911]; [Pub. L. 110–234, title IV, § 4002(b)(1)(A)][/us/pl/110/234/s4002/b/1/A], (B), (2)(V), May 22, 2008, [122 Stat. 1095–1097][/us/stat/122/1095-1097]; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title IV, § 4002(b)(1)(A), (B), (2)(V), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1857, 1858; [Pub. L. 113–79, title IV, § 4030(q)][/us/pl/113/79/s4030/q], Feb. 7, 2014, [128 Stat. 815][/us/stat/128/815].)
 
  __References in Text__ 
 
@@ -178,6 +178,10 @@
     [Pub. L. 110–234][/us/pl/110/234] and [Pub. L. 110–246][/us/pl/110/246] made identical amendments to this section. The amendments by [Pub. L. 110–234][/us/pl/110/234] were repealed by [section 4(a) of Pub. L. 110–246][/us/pl/110/246/s4/a].
 
  __Amendments__ 
+
+    2014—Subsec. (a)(5)(B). [Pub. L. 113–79, § 4030(q)(1)][/us/pl/113/79/s4030/q/1], which directed substitution of “supplemental nutrition assistance” for “food stamp”, could not be executed because the words “supplemental nutrition assistance” already appeared in text after the amendment by [Pub. L. 110–246, § 4002(b)(1)(A)][/us/pl/110/246/s4002/b/1/A], (2)(V). See 2008 Amendment note below.
+
+    Subsec. (b)(4). [Pub. L. 113–79, § 4030(q)(2)][/us/pl/113/79/s4030/q/2], which directed substitution of “supplemental nutrition assistance program established under the Food and Nutrition Act of 2008 ([7 U.S.C. 2011][/us/usc/t7/s2011] et seq.)” for “food stamp program under the Food Stamp Act of 1977”, was executed by making the substitution for “supplemental nutrition assistance program under the Food and Nutrition Act of 2008”, to reflect the probable intent of Congress and the amendment by [Pub. L. 110–246, § 4002(b)(1)(A)][/us/pl/110/246/s4002/b/1/A], (B), (2)(V). See 2008 Amendment note below.
 
     2008—Subsec. (a)(2), (5)(B). [Pub. L. 110–246, § 4002(b)(1)(A)][/us/pl/110/246/s4002/b/1/A], (2)(V), substituted “supplemental nutrition assistance program” for “food stamp program”.
 
@@ -402,6 +406,8 @@
 [/us/stat/122/1095-1097]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1095-1097
 [/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
 [/us/stat/122/1664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1664
+[/us/pl/113/79/s4030/q]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs4030%2Fq
+[/us/stat/128/815]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F815
 [/us/pl/88/525]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F525
 [/us/stat/78/703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F703
 [/us/usc/t7/s2011]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2011
@@ -409,6 +415,11 @@
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
+[/us/pl/113/79/s4030/q/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs4030%2Fq%2F1
+[/us/pl/110/246/s4002/b/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4002%2Fb%2F1%2FA
+[/us/pl/113/79/s4030/q/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs4030%2Fq%2F2
+[/us/usc/t7/s2011]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2011
+[/us/pl/110/246/s4002/b/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4002%2Fb%2F1%2FA
 [/us/pl/110/246/s4002/b/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4002%2Fb%2F1%2FA
 [/us/pl/110/246/s4002/b/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4002%2Fb%2F1%2FA
 [/us/pl/106/170/s405/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F170%2Fs405%2Fb%2F2

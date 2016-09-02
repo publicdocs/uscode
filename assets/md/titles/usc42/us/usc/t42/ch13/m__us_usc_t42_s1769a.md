@@ -195,6 +195,54 @@
 
     Section effective Oct. 1, 2008, see [section 4407 of Pub. L. 110–246][/us/pl/110/246/s4407], set out as an Effective Date of 2008 Amendment note under [section 1161 of Title 2][/us/usc/t2/s1161], The Congress.
 
+ __Pilot Project for Canned, Frozen, or Dried Fruits and Vegetables__ 
+
+[Pub. L. 113–79, title IV, § 4214][/us/pl/113/79/s4214], Feb. 7, 2014, [128 Stat. 831][/us/stat/128/831], provided that:
+
+>     “(a)  __In general__  __.—__ 
+
+>     Subject to subsection (b), in the 2014–2015 school year, the Secretary \[of Agriculture\] shall carry out a pilot project in schools participating in the Fresh Fruit and Vegetable Program under section 19 of the Richard B. Russell National School Lunch Act ([42 U.S.C. 1769a][/us/usc/t42/s1769a]) (referred to in this section as the “Program”), in not less than 5 States, to evaluate the impact of allowing schools to offer canned, frozen, or dried fruits and vegetables as part of the Program.
+
+>     “(b)  __Requirements__  __.—__ 
+
+>     Not later than 60 days after the date of enactment of this Act \[Feb. 14, 2014\], the Secretary shall establish criteria for the conditions under which canned, frozen, or dried fruits and vegetables may be offered, which shall be in accordance with the most recent Dietary Guidelines for Americans published under section 301 of the National Nutrition Monitoring and Related Research Act of 1990 ([7 U.S.C. 5341][/us/usc/t7/s5341]).
+
+>     “(c)  __Evaluation__  __.—__ 
+
+>     With respect to the pilot project, the Secretary shall evaluate—
+
+>         “(1) the impacts on fruit and vegetable consumption at the schools participating in the pilot project;
+
+>         “(2) the impacts of the pilot project on school participation in the Program and operation of the Program;
+
+>         “(3) the implementation strategies used by the schools participating in the pilot project;
+
+>         “(4) the acceptance of the pilot project by key stakeholders; and
+
+>         “(5) such other outcomes as are determined by the Secretary.
+
+>     “(d)  __Reports__  __.—__ 
+
+>         “(1)  __Interim report__  __.—__ 
+
+>         Not later than January 1, 2015, the Secretary shall submit to the Committee on Education and Workforce of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate a report that describes the results of the evaluation under subsection (c).
+
+>         “(2)  __Final report__  __.—__ 
+
+>         On completion of the pilot project, the Secretary shall submit to the Committee on Education and Workforce of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate a report that describes the results of the evaluation under subsection (c).
+
+>     “(e)  __Notice of availability__  __.—__ 
+
+>     As soon as practicable after the date on which the Secretary establishes the criteria for the pilot project under subsection (b), the Secretary shall notify potentially eligible schools of the potential eligibility of the schools for participation in the pilot project.
+
+>     “(f)  __Relationship to fresh fruit and vegetable program__  __.—__ 
+
+>     Nothing in this section permits a school that is not a part of the pilot project to offer anything other than fresh fruits and vegetables through the Program.
+
+>     “(g)  __Funding__  __.—__ 
+
+>     The Secretary shall use $5,000,000 of amounts otherwise made available to the Secretary to carry out this section.”
+
  __Transition of Existing Schools__ 
 
 [Pub. L. 110–234, title IV, § 4304(a)(2)][/us/pl/110/234/s4304/a/2], May 22, 2008, [122 Stat. 1130][/us/stat/122/1130], and [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title IV, § 4304(a)(2), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1891, provided that:
@@ -262,6 +310,10 @@
 [/us/usc/t7/s8701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs8701
 [/us/pl/110/246/s4407]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4407
 [/us/usc/t2/s1161]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs1161
+[/us/pl/113/79/s4214]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs4214
+[/us/stat/128/831]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F831
+[/us/usc/t42/s1769a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1769a
+[/us/usc/t7/s5341]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs5341
 [/us/pl/110/234/s4304/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2Fs4304%2Fa%2F2
 [/us/stat/122/1130]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1130
 [/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa

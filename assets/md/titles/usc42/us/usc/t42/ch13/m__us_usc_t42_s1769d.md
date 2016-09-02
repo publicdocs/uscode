@@ -211,7 +211,7 @@
 
                 (iii) __Hunger-free communities__ 
 
-                    No project may be funded under this subsection that receives funding under [section 7517 of title 7][/us/usc/t7/s7517].
+                    No project may be funded under this subsection that receives funding under [section 7517 of title 7][/us/usc/t7/s7517]. <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup> 
 
                 (iv) __Other benefits__ 
 
@@ -228,6 +228,8 @@
 ([June 4, 1946, ch. 281, § 23][/us/act/1946-06-04/ch281/s23], as added [Pub. L. 111–296, title I, § 141][/us/pl/111/296/s141], Dec. 13, 2010, [124 Stat. 3206][/us/stat/124/3206].)
 
  __References in Text__ 
+
+    [Section 7517 of title 7][/us/usc/t7/s7517], referred to in subsec. (b)(7)(D)(iii), was amended generally by [Pub. L. 113–79, title IV, § 4208][/us/pl/113/79/s4208], Feb. 7, 2014, [128 Stat. 826][/us/stat/128/826], and now relates to food insecurity nutrition incentive.
 
     The Food and Nutrition Act of 2008, referred to in subsec. (b)(1)(B), (7)(D)(iv)(III), is [Pub. L. 88–525][/us/pl/88/525], Aug. 31, 1964, [78 Stat. 703][/us/stat/78/703], which is classified generally to chapter 51 (§ 2011 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under [section 2011 of Title 7][/us/usc/t7/s2011] and Tables.
 
@@ -260,6 +262,9 @@
 [/us/act/1946-06-04/ch281/s23]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-06-04%2Fch281%2Fs23
 [/us/pl/111/296/s141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F296%2Fs141
 [/us/stat/124/3206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3206
+[/us/usc/t7/s7517]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs7517
+[/us/pl/113/79/s4208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs4208
+[/us/stat/128/826]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F826
 [/us/pl/88/525]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F525
 [/us/stat/78/703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F703
 [/us/usc/t7/s2011]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2011

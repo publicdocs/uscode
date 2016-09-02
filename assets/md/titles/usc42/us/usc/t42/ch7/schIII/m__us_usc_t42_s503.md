@@ -123,7 +123,7 @@
 
         (3) Whenever the Secretary of Labor, after reasonable notice and opportunity for hearing to the State agency charged with the administration of the State law, finds that there is a failure to comply substantially with the requirements of paragraph (1), the Secretary of Labor shall notify such State agency that further payments will not be made to the State until he is satisfied that there is no longer any such failure. Until the Secretary of Labor is so satisfied, he shall make no further certification to the Secretary of the Treasury with respect to such State.
 
-        (4) For purposes of this subsection, the term “State supplemental nutrition assistance program benefits agency” means any agency described in section 3(t)(1) of the Food and Nutrition Act of 2008 \[[7 U.S.C. 2012(t)(1)][/us/usc/t7/s2012/t/1]\] which administers the supplemental nutrition assistance program established under such Act.
+        (4) For purposes of this subsection, the term “State supplemental nutrition assistance program benefits agency” means any agency described in section 3(t)(1) of the Food and Nutrition Act of 2008  <sup>\[4\]</sup>  <sup><sup> 4 See References in Text note below. </sup></sup>  \[now [7 U.S.C. 2012(s)(1)][/us/usc/t7/s2012/s/1]\] which administers the supplemental nutrition assistance program established under such Act.
 
     (e) __Disclosure of wage information; non-compliance of State agency__ 
 
@@ -155,7 +155,7 @@
 
                     (II) the amount (if any) determined pursuant to an agreement submitted to the State agency under [section 654(19)(B)(i) of this title][/us/usc/t42/s654/19/B/i], or
 
-                    (III) any amount otherwise required to be so deducted and withheld from such unemployment compensation through legal process (as defined in section 662(e)  <sup>\[4\]</sup>  <sup><sup> 4 See References in Text note below. </sup></sup>  of this title), and
+                    (III) any amount otherwise required to be so deducted and withheld from such unemployment compensation through legal process (as defined in section 662(e) 4 of this title), and
 
                 (iv) shall pay any amount deducted and withheld under clause (iii) to the appropriate State or local child support enforcement agency.
 
@@ -329,7 +329,7 @@
 
     The Internal Revenue Code of 1986, referred to in subsecs. (a)(5), (k)(2)(D), (F), and (m), is classified generally to Title 26, Internal Revenue Code.
 
-    The Food and Nutrition Act of 2008, referred to in subsec. (d)(1)(B), is [Pub. L. 88–525][/us/pl/88/525], Aug. 31, 1964, [78 Stat. 703][/us/stat/78/703], which is classified generally to chapter 51 (§ 2011 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under [section 2011 of Title 7][/us/usc/t7/s2011] and Tables.
+    The Food and Nutrition Act of 2008, referred to in subsec. (d)(1)(B), (4), is [Pub. L. 88–525][/us/pl/88/525], Aug. 31, 1964, [78 Stat. 703][/us/stat/78/703], which is classified generally to chapter 51 (§ 2011 et seq.) of Title 7, Agriculture. Section 3(t)(1) of this Act, classified to [section 2012(t)(1) of Title 7][/us/usc/t7/s2012/t/1], was redesignated as section 3(s)(1), classified to [section 2012(s)(1) of Title 7][/us/usc/t7/s2012/s/1], by [Pub. L. 113–79, title IV, § 4030(a)(4)][/us/pl/113/79/s4030/a/4], Feb. 7, 2014, [128 Stat. 813][/us/stat/128/813]. For complete classification of this Act to the Code, see Short Title note set out under [section 2011 of Title 7][/us/usc/t7/s2011] and Tables.
 
     [Section 662 of this title][/us/usc/t42/s662], referred to in subsec. (e)(2)(A)(iii)(III), was repealed by [Pub. L. 104–193, title III, § 362(b)(1)][/us/pl/104/193/s362/b/1], Aug. 22, 1996, [110 Stat. 2246][/us/stat/110/2246].
 
@@ -644,7 +644,7 @@
 [/us/usc/t7/s2022/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2022%2Fc%2F1
 [/us/usc/t7/s2022/c/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2022%2Fc%2F3%2FA
 [/us/usc/t7/s2022/c/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2022%2Fc%2F3%2FB
-[/us/usc/t7/s2012/t/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2012%2Ft%2F1
+[/us/usc/t7/s2012/s/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2012%2Fs%2F1
 [/us/usc/t42/s654]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs654
 [/us/usc/t42/s654/19/B/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs654%2F19%2FB%2Fi
 [/us/usc/t42/s1320b–7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1320b%E2%80%937
@@ -723,6 +723,10 @@
 [/us/usc/t26/s3311]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs3311
 [/us/pl/88/525]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F525
 [/us/stat/78/703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F703
+[/us/usc/t7/s2012/t/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2012%2Ft%2F1
+[/us/usc/t7/s2012/s/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2012%2Fs%2F1
+[/us/pl/113/79/s4030/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs4030%2Fa%2F4
+[/us/stat/128/813]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F813
 [/us/usc/t7/s2011]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2011
 [/us/usc/t42/s662]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs662
 [/us/pl/104/193/s362/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193%2Fs362%2Fb%2F1

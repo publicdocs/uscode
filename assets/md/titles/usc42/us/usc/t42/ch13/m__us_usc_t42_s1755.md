@@ -63,7 +63,65 @@
 
         (2) If amounts available to carry out the requirements of the sections described in paragraph (1) are insufficient to meet the requirement contained in paragraph (1) for a school year, the Secretary shall, to the extent necessary, use the authority provided under [section 1762a(a) of this title][/us/usc/t42/s1762a/a] to meet the requirement for the school year.
 
-([June 4, 1946, ch. 281, § 6][/us/act/1946-06-04/ch281/s6], [60 Stat. 231][/us/stat/60/231]; [Pub. L. 87–823, § 3(b)][/us/pl/87/823/s3/b], Oct. 15, 1962, [76 Stat. 945][/us/stat/76/945]; [Pub. L. 90–302, § 2(a)][/us/pl/90/302/s2/a], May 8, 1968, [82 Stat. 117][/us/stat/82/117]; [Pub. L. 91–248, § 3][/us/pl/91/248/s3], May 14, 1970, [84 Stat. 209][/us/stat/84/209]; [Pub. L. 93–13, § 2][/us/pl/93/13/s2], Mar. 30, 1973, [87 Stat. 10][/us/stat/87/10]; [Pub. L. 93–150, § 5][/us/pl/93/150/s5], Nov. 7, 1973, [87 Stat. 562][/us/stat/87/562]; [Pub. L. 93–326, § 3][/us/pl/93/326/s3], June 30, 1974, [88 Stat. 286][/us/stat/88/286]; [Pub. L. 94–105][/us/pl/94/105], §§ 4, 11, Oct. 7, 1975, [89 Stat. 511][/us/stat/89/511], 515; [Pub. L. 95–166][/us/pl/95/166], §§ 5, 7, 10(1), 19(a), Nov. 10, 1977, [91 Stat. 1334–1336][/us/stat/91/1334-1336], 1345; [Pub. L. 95–627][/us/pl/95/627], §§ 5(b), 12(a), Nov. 10, 1978, [92 Stat. 3619][/us/stat/92/3619], 3625; [Pub. L. 96–499, title II, § 202(b)][/us/pl/96/499/s202/b], Dec. 5, 1980, [94 Stat. 2600][/us/stat/94/2600]; [Pub. L. 97–35, title VIII][/us/pl/97/35], §§ 802, 819(h), Aug. 13, 1981, [95 Stat. 524][/us/stat/95/524], 533; [Pub. L. 99–500, title III][/us/pl/99/500], §§ 321, 371(c)(2), Oct. 18, 1986, [100 Stat. 1783–360][/us/stat/100/1783-360], 1783–369, and [Pub. L. 99–591, title III][/us/pl/99/591], §§ 321, 371(c)(2), Oct. 30, 1986, [100 Stat. 3341–364][/us/stat/100/3341-364], 3341–372; [Pub. L. 99–661, div. D, title II, § 4201][/us/pl/99/661/s4201], title V, § 4501(c)(2), Nov. 14, 1986, [100 Stat. 4071][/us/stat/100/4071], 4080; [Pub. L. 100–237, § 3(j)][/us/pl/100/237/s3/j], Jan. 8, 1988, [101 Stat. 1738][/us/stat/101/1738]; [Pub. L. 101–147, title I, § 131(a)][/us/pl/101/147/s131/a], title III, § 302, Nov. 10, 1989, [103 Stat. 906][/us/stat/103/906], 913; [Pub. L. 103–448, title I][/us/pl/103/448], §§ 101–103, Nov. 2, 1994, [108 Stat. 4700][/us/stat/108/4700], 4701; [Pub. L. 105–336, title I, § 101(a)][/us/pl/105/336/s101/a], Oct. 31, 1998, [112 Stat. 3144][/us/stat/112/3144]; [Pub. L. 106–170, title IV, § 411][/us/pl/106/170/s411], Dec. 17, 1999, [113 Stat. 1917][/us/stat/113/1917]; [Pub. L. 106–224, title II, § 241(b)][/us/pl/106/224/s241/b], June 20, 2000, [114 Stat. 410][/us/stat/114/410]; [Pub. L. 107–171, title IV, § 4301(a)][/us/pl/107/171/s4301/a], May 13, 2002, [116 Stat. 330][/us/stat/116/330]; [Pub. L. 111–80, title VII, § 749(a)][/us/pl/111/80/s749/a], Oct. 21, 2009, [123 Stat. 2131][/us/stat/123/2131]; [Pub. L. 111–296, title IV, § 401][/us/pl/111/296/s401], Dec. 13, 2010, [124 Stat. 3259][/us/stat/124/3259].)
+    (f) __Pilot project for procurement of unprocessed fruits and vegetables__ 
+
+        (1) __In general__ 
+
+            The Secretary shall conduct a pilot project under which the Secretary shall facilitate the procurement of unprocessed fruits and vegetables in not more than 8 States receiving funds under this chapter.
+
+        (2) __Purpose__ 
+
+        The purpose of the pilot project required by this subsection is to provide selected States flexibility for the procurement of unprocessed fruits and vegetables by permitting each State—
+
+            (A) to utilize multiple suppliers and products established and qualified by the Secretary; and
+
+            (B) to allow geographic preference, if desired, in the procurement of the products under the pilot project.
+
+        (3) __Selection and participation__ 
+
+            (A) __In general__ 
+
+                The Secretary shall select States for participation in the pilot project in accordance with criteria established by the Secretary and terms and conditions established for participation.
+
+            (B) __Requirement__ 
+
+            The Secretary shall ensure that at least 1 project is located in a State in each of—
+
+                (i) the Pacific Northwest Region;
+
+                (ii) the Northeast Region;
+
+                (iii) the Western Region;
+
+                (iv) the Midwest Region; and
+
+                (v) the Southern Region.
+
+        (4) __Priority__ 
+
+        In selecting States for participation in the pilot project, the Secretary shall prioritize applications based on—
+
+            (A) the quantity and variety of growers of local fruits and vegetables in the States on a per capita basis;
+
+            (B) the demonstrated commitment of the States to farm-to-school efforts, as evidenced by prior efforts to increase and promote farm-to-school programs in the States; and
+
+            (C) whether the States contain a sufficient quantity of local educational agencies, various population sizes, and geographical locations.
+
+        (5) __Recordkeeping and reporting requirements__ 
+
+            (A) __Recordkeeping requirement__ 
+
+                States selected to participate in the pilot project, and participating school food authorities within those States, shall keep records of the fruits and vegetables received under the pilot project in such manner and form as requested by the Secretary.
+
+            (B) __Reporting requirement__ 
+
+            Each participating State shall submit to the Secretary a report on the success of the pilot project in the State, including information on—
+
+                (i) the quantity and cost of each type of fruit and vegetable received by the State under the pilot project; and
+
+                (ii) the benefit provided by those procurements in conducting school food service in the State, including meeting school meal requirements.
+
+([June 4, 1946, ch. 281, § 6][/us/act/1946-06-04/ch281/s6], [60 Stat. 231][/us/stat/60/231]; [Pub. L. 87–823, § 3(b)][/us/pl/87/823/s3/b], Oct. 15, 1962, [76 Stat. 945][/us/stat/76/945]; [Pub. L. 90–302, § 2(a)][/us/pl/90/302/s2/a], May 8, 1968, [82 Stat. 117][/us/stat/82/117]; [Pub. L. 91–248, § 3][/us/pl/91/248/s3], May 14, 1970, [84 Stat. 209][/us/stat/84/209]; [Pub. L. 93–13, § 2][/us/pl/93/13/s2], Mar. 30, 1973, [87 Stat. 10][/us/stat/87/10]; [Pub. L. 93–150, § 5][/us/pl/93/150/s5], Nov. 7, 1973, [87 Stat. 562][/us/stat/87/562]; [Pub. L. 93–326, § 3][/us/pl/93/326/s3], June 30, 1974, [88 Stat. 286][/us/stat/88/286]; [Pub. L. 94–105][/us/pl/94/105], §§ 4, 11, Oct. 7, 1975, [89 Stat. 511][/us/stat/89/511], 515; [Pub. L. 95–166][/us/pl/95/166], §§ 5, 7, 10(1), 19(a), Nov. 10, 1977, [91 Stat. 1334–1336][/us/stat/91/1334-1336], 1345; [Pub. L. 95–627][/us/pl/95/627], §§ 5(b), 12(a), Nov. 10, 1978, [92 Stat. 3619][/us/stat/92/3619], 3625; [Pub. L. 96–499, title II, § 202(b)][/us/pl/96/499/s202/b], Dec. 5, 1980, [94 Stat. 2600][/us/stat/94/2600]; [Pub. L. 97–35, title VIII][/us/pl/97/35], §§ 802, 819(h), Aug. 13, 1981, [95 Stat. 524][/us/stat/95/524], 533; [Pub. L. 99–500, title III][/us/pl/99/500], §§ 321, 371(c)(2), Oct. 18, 1986, [100 Stat. 1783–360][/us/stat/100/1783-360], 1783–369, and [Pub. L. 99–591, title III][/us/pl/99/591], §§ 321, 371(c)(2), Oct. 30, 1986, [100 Stat. 3341–364][/us/stat/100/3341-364], 3341–372; [Pub. L. 99–661, div. D, title II, § 4201][/us/pl/99/661/s4201], title V, § 4501(c)(2), Nov. 14, 1986, [100 Stat. 4071][/us/stat/100/4071], 4080; [Pub. L. 100–237, § 3(j)][/us/pl/100/237/s3/j], Jan. 8, 1988, [101 Stat. 1738][/us/stat/101/1738]; [Pub. L. 101–147, title I, § 131(a)][/us/pl/101/147/s131/a], title III, § 302, Nov. 10, 1989, [103 Stat. 906][/us/stat/103/906], 913; [Pub. L. 103–448, title I][/us/pl/103/448], §§ 101–103, Nov. 2, 1994, [108 Stat. 4700][/us/stat/108/4700], 4701; [Pub. L. 105–336, title I, § 101(a)][/us/pl/105/336/s101/a], Oct. 31, 1998, [112 Stat. 3144][/us/stat/112/3144]; [Pub. L. 106–170, title IV, § 411][/us/pl/106/170/s411], Dec. 17, 1999, [113 Stat. 1917][/us/stat/113/1917]; [Pub. L. 106–224, title II, § 241(b)][/us/pl/106/224/s241/b], June 20, 2000, [114 Stat. 410][/us/stat/114/410]; [Pub. L. 107–171, title IV, § 4301(a)][/us/pl/107/171/s4301/a], May 13, 2002, [116 Stat. 330][/us/stat/116/330]; [Pub. L. 111–80, title VII, § 749(a)][/us/pl/111/80/s749/a], Oct. 21, 2009, [123 Stat. 2131][/us/stat/123/2131]; [Pub. L. 111–296, title IV, § 401][/us/pl/111/296/s401], Dec. 13, 2010, [124 Stat. 3259][/us/stat/124/3259]; [Pub. L. 113–79, title IV, § 4202][/us/pl/113/79/s4202], Feb. 7, 2014, [128 Stat. 821][/us/stat/128/821].)
 
  __References in Text__ 
 
@@ -76,6 +134,8 @@
     [Pub. L. 99–591][/us/pl/99/591] is a corrected version of [Pub. L. 99–500][/us/pl/99/500].
 
  __Amendments__ 
+
+    2014—Subsec. (f). [Pub. L. 113–79][/us/pl/113/79] added subsec. (f).
 
     2010—Subsec. (e)(1)(B). [Pub. L. 111–296][/us/pl/111/296] substituted “2020” for “2010”.
 
@@ -277,6 +337,8 @@
 [/us/stat/123/2131]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F2131
 [/us/pl/111/296/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F296%2Fs401
 [/us/stat/124/3259]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3259
+[/us/pl/113/79/s4202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs4202
+[/us/stat/128/821]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F821
 [/us/pl/89/642]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F642
 [/us/stat/80/885]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F885
 [/us/usc/t42/s1771]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1771
@@ -284,6 +346,7 @@
 [/us/stat/112/3144]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F3144
 [/us/pl/99/591]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F591
 [/us/pl/99/500]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F500
+[/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
 [/us/pl/111/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F296
 [/us/pl/111/80]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F80
 [/us/pl/107/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171

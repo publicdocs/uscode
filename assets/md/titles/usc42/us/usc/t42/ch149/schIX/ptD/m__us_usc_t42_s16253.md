@@ -43,7 +43,7 @@
 
          to provide for the certification of biobased products to—
 
-            (A) qualify for the label described in [section 8102(h)(1) of title 7][/us/usc/t7/s8102/h/1]; or
+            (A) qualify for the label described in [section 8102(b) of title 7][/us/usc/t7/s8102/b]; or
 
             (B) meet other biobased standards determined appropriate by the Secretary.
 
@@ -73,7 +73,11 @@
 
         (2) such sums as are necessary for each of fiscal years 2007 through 2015.
 
-([Pub. L. 109–58, title IX, § 944][/us/pl/109/58/s944], Aug. 8, 2005, [119 Stat. 881][/us/stat/119/881].)
+([Pub. L. 109–58, title IX, § 944][/us/pl/109/58/s944], Aug. 8, 2005, [119 Stat. 881][/us/stat/119/881]; [Pub. L. 113–79, title IX, § 9002(b)][/us/pl/113/79/s9002/b], Feb. 7, 2014, [128 Stat. 928][/us/stat/128/928].)
+
+ __Amendments__ 
+
+    2014—Subsec. (c)(2)(A). [Pub. L. 113–79][/us/pl/113/79] substituted “section 8102(b)” for “section 8102(h)(1)”.
 
 ----------
 
@@ -82,8 +86,11 @@
 ----------
 ----------
 
-[/us/usc/t7/s8102/h/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs8102%2Fh%2F1
+[/us/usc/t7/s8102/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs8102%2Fb
 [/us/pl/109/58/s944]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs944
 [/us/stat/119/881]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F881
+[/us/pl/113/79/s9002/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs9002%2Fb
+[/us/stat/128/928]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F928
+[/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
 
 

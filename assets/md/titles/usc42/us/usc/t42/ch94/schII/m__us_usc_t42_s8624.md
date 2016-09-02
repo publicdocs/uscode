@@ -171,7 +171,7 @@
 
          For purposes of paragraph (1) of this subsection and for purposes of determining any excess shelter expense deduction under section 5(e) of the Food and Nutrition Act of 2008 ([7 U.S.C. 2014(e)][/us/usc/t7/s2014/e])—
 
-            (A) the full amount of such payments or allowances shall be deemed to be expended by such household for heating or cooling expenses, without regard to whether such payments or allowances are provided directly to, or indirectly for the benefit of, such household; and
+            (A) the full amount of such payments or allowances shall be deemed to be expended by such household for heating or cooling expenses, without regard to whether such payments or allowances are provided directly to, or indirectly for the benefit of, such household, except that, for purposes of the supplemental nutrition assistance program established under the Food and Nutrition Act of 2008 ([7 U.S.C. 2011][/us/usc/t7/s2011] et seq.), such payments or allowances were greater than $20 annually, consistent with section 5(e)(6)(C)(iv)(I) of that Act ([7 U.S.C. 2014(e)(6)(C)(iv)(I)][/us/usc/t7/s2014/e/6/C/iv/I]), as determined by the Secretary of Agriculture; and
 
             (B) no distinction may be made among households on the basis of whether such payments or allowances are provided directly to, or indirectly for the benefit of, any of such households.
 
@@ -243,13 +243,13 @@
 
         (3) Any certification for such tax credits shall be made by the State, but such State may use Federal data available to such State with respect to recipients of supplemental security income benefits if timely delivery of benefits to households described in subsection (b) of this section and suppliers will not be impeded by the use of such data.
 
-([Pub. L. 97–35, title XXVI, § 2605][/us/pl/97/35/s2605], Aug. 13, 1981, [95 Stat. 896][/us/stat/95/896]; [Pub. L. 98–558, title VI, § 605][/us/pl/98/558/s605], Oct. 30, 1984, [98 Stat. 2891][/us/stat/98/2891]; [Pub. L. 99–425, title V, § 504][/us/pl/99/425/s504], Sept. 30, 1986, [100 Stat. 974][/us/stat/100/974]; [Pub. L. 101–501, title VII][/us/pl/101/501], §§ 704, 705, Nov. 3, 1990, [104 Stat. 1259][/us/stat/104/1259]; [Pub. L. 102–83, § 5(c)(2)][/us/pl/102/83/s5/c/2], Aug. 6, 1991, [105 Stat. 406][/us/stat/105/406]; [Pub. L. 103–252, title III][/us/pl/103/252], §§ 305–309, 311(a)(1), (b), (c)(4), (5), May 18, 1994, [108 Stat. 659–662][/us/stat/108/659-662]; [Pub. L. 104–66, title I, § 1072(c)][/us/pl/104/66/s1072/c], Dec. 21, 1995, [109 Stat. 721][/us/stat/109/721]; [Pub. L. 104–193, title I, § 110(p)][/us/pl/104/193/s110/p], Aug. 22, 1996, [110 Stat. 2175][/us/stat/110/2175]; [Pub. L. 105–285, title III, § 306][/us/pl/105/285/s306], Oct. 27, 1998, [112 Stat. 2758][/us/stat/112/2758]; [Pub. L. 110–234, title IV, § 4002(b)(1)(B)][/us/pl/110/234/s4002/b/1/B], (E), (2)(EE), May 22, 2008, [122 Stat. 1096][/us/stat/122/1096], 1097; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title IV, § 4002(b)(1)(B), (E), (2)(EE), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1857, 1859.)
+([Pub. L. 97–35, title XXVI, § 2605][/us/pl/97/35/s2605], Aug. 13, 1981, [95 Stat. 896][/us/stat/95/896]; [Pub. L. 98–558, title VI, § 605][/us/pl/98/558/s605], Oct. 30, 1984, [98 Stat. 2891][/us/stat/98/2891]; [Pub. L. 99–425, title V, § 504][/us/pl/99/425/s504], Sept. 30, 1986, [100 Stat. 974][/us/stat/100/974]; [Pub. L. 101–501, title VII][/us/pl/101/501], §§ 704, 705, Nov. 3, 1990, [104 Stat. 1259][/us/stat/104/1259]; [Pub. L. 102–83, § 5(c)(2)][/us/pl/102/83/s5/c/2], Aug. 6, 1991, [105 Stat. 406][/us/stat/105/406]; [Pub. L. 103–252, title III][/us/pl/103/252], §§ 305–309, 311(a)(1), (b), (c)(4), (5), May 18, 1994, [108 Stat. 659–662][/us/stat/108/659-662]; [Pub. L. 104–66, title I, § 1072(c)][/us/pl/104/66/s1072/c], Dec. 21, 1995, [109 Stat. 721][/us/stat/109/721]; [Pub. L. 104–193, title I, § 110(p)][/us/pl/104/193/s110/p], Aug. 22, 1996, [110 Stat. 2175][/us/stat/110/2175]; [Pub. L. 105–285, title III, § 306][/us/pl/105/285/s306], Oct. 27, 1998, [112 Stat. 2758][/us/stat/112/2758]; [Pub. L. 110–234, title IV, § 4002(b)(1)(B)][/us/pl/110/234/s4002/b/1/B], (E), (2)(EE), May 22, 2008, [122 Stat. 1096][/us/stat/122/1096], 1097; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title IV, § 4002(b)(1)(B), (E), (2)(EE), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1857, 1859; [Pub. L. 113–79, title IV, § 4006(b)][/us/pl/113/79/s4006/b], Feb. 7, 2014, [128 Stat. 787][/us/stat/128/787].)
 
  __References in Text__ 
 
     The Social Security Act, referred to in subsecs. (b)(2)(A)(i), (ii), (4), (i)(1), and (j), is [act Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], [49 Stat. 620][/us/stat/49/620], as amended. Part A of title IV of the Social Security Act is classified generally to part A (§ 601 et seq.) of subchapter IV of chapter 7 of this title. Titles XVI, XIX, and XX of the Social Security Act are classified generally to subchapters XVI (§ 1381 et seq.), XIX (§ 1396 et seq.), and XX (§ 1397 et seq.) of chapter 7 of this title, respectively. For complete classification of this Act to the Code, see [section 1305 of this title][/us/usc/t42/s1305] and Tables.
 
-    The Food and Nutrition Act of 2008, referred to in subsec. (b)(2)(A)(iii), is [Pub. L. 88–525][/us/pl/88/525], Aug. 31, 1964, [78 Stat. 703][/us/stat/78/703], which is classified generally to chapter 51 (§ 2011 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under [section 2011 of Title 7][/us/usc/t7/s2011] and Tables.
+    The Food and Nutrition Act of 2008, referred to in subsecs. (b)(2)(A)(iii) and (f)(2)(A), is [Pub. L. 88–525][/us/pl/88/525], Aug. 31, 1964, [78 Stat. 703][/us/stat/78/703], which is classified generally to chapter 51 (§ 2011 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under [section 2011 of Title 7][/us/usc/t7/s2011] and Tables.
 
     Section 306 of the Veterans’ and Survivors’ Pension Improvement Act of 1978, referred to in subsec. (b)(2)(A)(iv), is [section 306 of Pub. L. 95–588][/us/pl/95/588/s306], title III, Nov. 4, 1978, [92 Stat. 2508][/us/stat/92/2508], which is set out as a note under [section 521 of Title 38][/us/usc/t38/s521], Veterans’ Benefits.
 
@@ -268,6 +268,8 @@
     [Pub. L. 110–234][/us/pl/110/234] and [Pub. L. 110–246][/us/pl/110/246] made identical amendments to this section. The amendments by [Pub. L. 110–234][/us/pl/110/234] were repealed by [section 4(a) of Pub. L. 110–246][/us/pl/110/246/s4/a].
 
  __Amendments__ 
+
+    2014—Subsec. (f)(2)(A). [Pub. L. 113–79][/us/pl/113/79] inserted before semicolon “, except that, for purposes of the supplemental nutrition assistance program established under the Food and Nutrition Act of 2008 ([7 U.S.C. 2011][/us/usc/t7/s2011] et seq.), such payments or allowances were greater than $20 annually, consistent with section 5(e)(6)(C)(iv)(I) of that Act ([7 U.S.C. 2014(e)(6)(C)(iv)(I)][/us/usc/t7/s2014/e/6/C/iv/I]), as determined by the Secretary of Agriculture”.
 
     2008—Subsec. (b)(2)(A)(iii). [Pub. L. 110–246, § 4002(b)(1)(B)][/us/pl/110/246/s4002/b/1/B], (E), (2)(EE), substituted “supplemental nutrition assistance program benefits” for “food stamps” and “Food and Nutrition Act of 2008” for “Food Stamp Act of 1977”.
 
@@ -379,6 +381,10 @@
 
     Subsec. (h). [Pub. L. 98–558, § 605(f)][/us/pl/98/558/s605/f], inserted “(but not less frequently than every three years)”.
 
+ __Effective Date of 2014 Amendment__ 
+
+    Amendment by [Pub. L. 113–79][/us/pl/113/79] effective 30 days after Feb. 7, 2014 and applicable with respect to certification periods that begin after that date, with State option to delay implementation for current recipients of standard utility allowance, see [section 4006(c) of Pub. L. 113–79][/us/pl/113/79/s4006/c], set out as a note under [section 2014 of Title 7][/us/usc/t7/s2014], Agriculture.
+
  __Effective Date of 2008 Amendment__ 
 
     Amendment of this section and repeal of [Pub. L. 110–234][/us/pl/110/234] by [Pub. L. 110–246][/us/pl/110/246] effective May 22, 2008, the date of enactment of [Pub. L. 110–234][/us/pl/110/234], except as otherwise provided, see [section 4 of Pub. L. 110–246][/us/pl/110/246/s4], set out as an Effective Date note under [section 8701 of Title 7][/us/usc/t7/s8701], Agriculture.
@@ -454,6 +460,8 @@
 [/us/usc/t42/s8623/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs8623%2Fc
 [/us/usc/t42/s8623/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs8623%2Fc
 [/us/usc/t7/s2014/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2014%2Fe
+[/us/usc/t7/s2011]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2011
+[/us/usc/t7/s2014/e/6/C/iv/I]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2014%2Fe%2F6%2FC%2Fiv%2FI
 [/us/usc/t42/s1382/e/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1382%2Fe%2F1
 [/us/usc/t42/s1396]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396
 [/us/usc/t42/s1382a/a/2/A/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1382a%2Fa%2F2%2FA%2Fi
@@ -484,6 +492,8 @@
 [/us/stat/122/1096]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1096
 [/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
 [/us/stat/122/1664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1664
+[/us/pl/113/79/s4006/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs4006%2Fb
+[/us/stat/128/787]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F787
 [/us/act/1935-08-14/ch531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531
 [/us/stat/49/620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F620
 [/us/usc/t42/s1305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1305
@@ -508,6 +518,9 @@
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
+[/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
+[/us/usc/t7/s2011]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2011
+[/us/usc/t7/s2014/e/6/C/iv/I]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2014%2Fe%2F6%2FC%2Fiv%2FI
 [/us/pl/110/246/s4002/b/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4002%2Fb%2F1%2FB
 [/us/pl/110/246/s4002/b/1/E]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4002%2Fb%2F1%2FE
 [/us/pl/110/246/s4002/b/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4002%2Fb%2F1%2FB
@@ -564,6 +577,9 @@
 [/us/pl/98/558/s605/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F558%2Fs605%2Fd
 [/us/pl/98/558/s605/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F558%2Fs605%2Fe
 [/us/pl/98/558/s605/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F558%2Fs605%2Ff
+[/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
+[/us/pl/113/79/s4006/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs4006%2Fc
+[/us/usc/t7/s2014]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2014
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234

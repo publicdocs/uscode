@@ -81,6 +81,14 @@ SUBCHAPTER I—PROTECTION OF UNITED STATES PROPERTY  </td>
 
   <tr>
 
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs1856e" data-uslm-ref="/us/usc/t42/s1856e">1856e.</a>  </td>
+
+    <td> Reimbursement of fire funds.  </td>
+
+  </tr>
+
+  <tr>
+
     <td> 
 
 SUBCHAPTER II—WILDFIRE SUPPRESSION WITH FOREIGN FIRE ORGANIZATION  </td>
