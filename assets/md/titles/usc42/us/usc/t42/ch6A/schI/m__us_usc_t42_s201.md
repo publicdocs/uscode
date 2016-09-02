@@ -153,6 +153,10 @@
 
  __Short Title of 2015 Amendment__ 
 
+[Pub. L. 114–91, § 1][/us/pl/114/91/s1], Nov. 25, 2015, [129 Stat. 723][/us/stat/129/723], provided that: 
+
+> “This Act \[enacting provisions set out as a note under [section 247b–13 of this title][/us/usc/t42/s247b–13]\] may be cited as the ‘Protecting Our Infants Act of 2015’.”
+
 [Pub. L. 114–60, § 1][/us/pl/114/60/s1], Oct. 7, 2015, [129 Stat. 543][/us/stat/129/543], provided that: 
 
 > “This Act \[amending sections 300gg–91, 1395iii, and 18024 of this title\] may be cited as the ‘Protecting Affordable Coverage for Employees Act’.”
@@ -1565,6 +1569,9 @@ Act June 16, 1948, § 1, [62 Stat. 464][/us/stat/62/464], provided that:
 [/us/usc/t33/s466j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs466j
 [/us/pl/86/70]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F70
 [/us/pl/86/70/s47/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F70%2Fs47%2Fd
+[/us/pl/114/91/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F91%2Fs1
+[/us/stat/129/723]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F723
+[/us/usc/t42/s247b–13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs247b%E2%80%9313
 [/us/pl/114/60/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F60%2Fs1
 [/us/stat/129/543]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F543
 [/us/pl/114/45/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F45%2Fs1

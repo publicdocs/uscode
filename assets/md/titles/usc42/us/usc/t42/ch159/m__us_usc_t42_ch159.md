@@ -171,7 +171,7 @@ SUBCHAPTER IV—CONTINUATION, SUPPORT, AND EVOLUTION OF THE INTERNATIONAL SPACE 
 
     <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs18351" data-uslm-ref="/us/usc/t42/s18351">18351.</a>  </td>
 
-    <td> Continuation of the International Space Station through 2020.  </td>
+    <td> Continuation of the International Space Station.  </td>
 
   </tr>
 

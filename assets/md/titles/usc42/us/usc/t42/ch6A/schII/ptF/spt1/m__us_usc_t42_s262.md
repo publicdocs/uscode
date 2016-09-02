@@ -525,7 +525,21 @@
 
             The Secretary shall not extend a period referred to in paragraph (2)(A), (2)(B), (3)(A), or (3)(B) if the determination under section 505A(d)(3) 1 \[[21 U.S.C. 355a(d)(3)][/us/usc/t21/s355a/d/3]\] is made later than 9 months prior to the expiration of such period.
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title III, § 351, [58 Stat. 702][/us/stat/58/702]; 1953 Reorg. Plan No. 1, §§ 5, 8, eff. Apr. 11, 1953, 18 F.R. 2053, [67 Stat. 631][/us/stat/67/631]; [Pub. L. 85–881, § 2][/us/pl/85/881/s2], Sept. 2, 1958, [72 Stat. 1704][/us/stat/72/1704]; [Pub. L. 91–515, title II, § 291][/us/pl/91/515/s291], Oct. 30, 1970, [84 Stat. 1308][/us/stat/84/1308]; [Pub. L. 96–88, title V, § 509(b)][/us/pl/96/88/s509/b], Oct. 17, 1979, [93 Stat. 695][/us/stat/93/695]; [Pub. L. 99–660, title I, § 105(a)][/us/pl/99/660/s105/a], title III, § 315, Nov. 14, 1986, [100 Stat. 3751][/us/stat/100/3751], 3783; [Pub. L. 102–300, § 6(b)(1)][/us/pl/102/300/s6/b/1], June 16, 1992, [106 Stat. 240][/us/stat/106/240]; [Pub. L. 104–134, title II][/us/pl/104/134], §§ 2102(d)(2), 2104, Apr. 26, 1996, [110 Stat. 1321–319][/us/stat/110/1321-319], 1321–320; [Pub. L. 105–115, title I, § 123(a)][/us/pl/105/115/s123/a]–(d), (g), Nov. 21, 1997, [111 Stat. 2323][/us/stat/111/2323], 2324; [Pub. L. 108–155, § 2(b)(3)][/us/pl/108/155/s2/b/3], Dec. 3, 2003, [117 Stat. 1941][/us/stat/117/1941]; [Pub. L. 110–85, title IX, § 901(c)][/us/pl/110/85/s901/c], Sept. 27, 2007, [121 Stat. 939][/us/stat/121/939]; [Pub. L. 111–148, title VII, § 7002(a)][/us/pl/111/148/s7002/a], (b), (g)(1), Mar. 23, 2010, [124 Stat. 804][/us/stat/124/804], 814, 819; [Pub. L. 112–144, title V, § 502(a)(2)][/us/pl/112/144/s502/a/2], July 9, 2012, [126 Stat. 1040][/us/stat/126/1040].)
+    (n) __Date of approval in the case of recommended controls under the CSA__ 
+
+        (1) __In general__ 
+
+            In the case of an application under subsection (a) with respect to a biological product for which the Secretary provides notice to the sponsor that the Secretary intends to issue a scientific and medical evaluation and recommend controls under the Controlled Substances Act \[[21 U.S.C. 801][/us/usc/t21/s801] et seq.\], approval of such application shall not take effect until the interim final rule controlling the biological product is issued in accordance with section 201(j) of the Controlled Substances Act \[[21 U.S.C. 811(j)][/us/usc/t21/s811/j]\].
+
+        (2) __Date of approval__ 
+
+        For purposes of this section, with respect to an application described in paragraph (1), references to the date of approval of such application, or licensure of the product subject to such application, shall mean the later of—
+
+            (A) the date an application is approved under subsection (a); or
+
+            (B) the date of issuance of the interim final rule controlling the biological product.
+
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title III, § 351, [58 Stat. 702][/us/stat/58/702]; 1953 Reorg. Plan No. 1, §§ 5, 8, eff. Apr. 11, 1953, 18 F.R. 2053, [67 Stat. 631][/us/stat/67/631]; [Pub. L. 85–881, § 2][/us/pl/85/881/s2], Sept. 2, 1958, [72 Stat. 1704][/us/stat/72/1704]; [Pub. L. 91–515, title II, § 291][/us/pl/91/515/s291], Oct. 30, 1970, [84 Stat. 1308][/us/stat/84/1308]; [Pub. L. 96–88, title V, § 509(b)][/us/pl/96/88/s509/b], Oct. 17, 1979, [93 Stat. 695][/us/stat/93/695]; [Pub. L. 99–660, title I, § 105(a)][/us/pl/99/660/s105/a], title III, § 315, Nov. 14, 1986, [100 Stat. 3751][/us/stat/100/3751], 3783; [Pub. L. 102–300, § 6(b)(1)][/us/pl/102/300/s6/b/1], June 16, 1992, [106 Stat. 240][/us/stat/106/240]; [Pub. L. 104–134, title II][/us/pl/104/134], §§ 2102(d)(2), 2104, Apr. 26, 1996, [110 Stat. 1321–319][/us/stat/110/1321-319], 1321–320; [Pub. L. 105–115, title I, § 123(a)][/us/pl/105/115/s123/a]–(d), (g), Nov. 21, 1997, [111 Stat. 2323][/us/stat/111/2323], 2324; [Pub. L. 108–155, § 2(b)(3)][/us/pl/108/155/s2/b/3], Dec. 3, 2003, [117 Stat. 1941][/us/stat/117/1941]; [Pub. L. 110–85, title IX, § 901(c)][/us/pl/110/85/s901/c], Sept. 27, 2007, [121 Stat. 939][/us/stat/121/939]; [Pub. L. 111–148, title VII, § 7002(a)][/us/pl/111/148/s7002/a], (b), (g)(1), Mar. 23, 2010, [124 Stat. 804][/us/stat/124/804], 814, 819; [Pub. L. 112–144, title V, § 502(a)(2)][/us/pl/112/144/s502/a/2], July 9, 2012, [126 Stat. 1040][/us/stat/126/1040]; [Pub. L. 114–89, § 2(a)(2)][/us/pl/114/89/s2/a/2], Nov. 25, 2015, [129 Stat. 698][/us/stat/129/698].)
 
  __References in Text__ 
 
@@ -535,7 +549,11 @@
 
     Sections 526, 527(a), and 505A(d)(3), referred to in subsec. (m)(2)(B), (3)(B), (4), probably mean sections 526, 527(a), and 505A(d)(3) of the Federal Food, Drug, and Cosmetic Act, [act June 25, 1938, ch. 675][/us/act/1938-06-25/ch675], which are classified to sections 360bb, 360cc(a), and 355a(d)(3), respectively, of Title 21, Food and Drugs.
 
+    The Controlled Substances Act, referred to in subsec. (n)(1), is title II of [Pub. L. 91–513][/us/pl/91/513], Oct. 27, 1970, [84 Stat. 1242][/us/stat/84/1242], which is classified principally to subchapter I (§ 801 et seq.) of chapter 13 of Title 21, Food and Drugs. For complete classification of this Act to the Code, see Short Title note set out under [section 801 of Title 21][/us/usc/t21/s801] and Tables.
+
  __Amendments__ 
+
+    2015—Subsec. (n). [Pub. L. 114–89][/us/pl/114/89] added subsec. (n).
 
     2012—Subsec. (m)(1). [Pub. L. 112–144][/us/pl/112/144] substituted “(f), (h), (i), (j), (k), (l), (n), and (p)” for “(f), (i), (j), (k), (l), (p), and (q)”.
 
@@ -744,6 +762,8 @@
 [/us/usc/t21/s360bb]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs360bb
 [/us/usc/t21/s360cc/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs360cc%2Fa
 [/us/usc/t21/s355a/d/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs355a%2Fd%2F3
+[/us/usc/t21/s801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs801
+[/us/usc/t21/s811/j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs811%2Fj
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
 [/us/stat/58/702]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F58%2F702
 [/us/stat/67/631]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F67%2F631
@@ -769,11 +789,17 @@
 [/us/stat/124/804]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F804
 [/us/pl/112/144/s502/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F144%2Fs502%2Fa%2F2
 [/us/stat/126/1040]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1040
+[/us/pl/114/89/s2/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F89%2Fs2%2Fa%2F2
+[/us/stat/129/698]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F698
 [/us/pl/99/660/s315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F660%2Fs315
 [/us/act/1938-06-25/ch675]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-25%2Fch675
 [/us/stat/52/1040]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F52%2F1040
 [/us/usc/t21/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs301
 [/us/act/1938-06-25/ch675]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-25%2Fch675
+[/us/pl/91/513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F513
+[/us/stat/84/1242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1242
+[/us/usc/t21/s801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs801
+[/us/pl/114/89]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F89
 [/us/pl/112/144]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F144
 [/us/pl/111/148/s7002/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs7002%2Fa%2F1
 [/us/pl/111/148/s7002/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs7002%2Fb

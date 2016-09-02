@@ -17,13 +17,13 @@
 
     (a) __In general__ 
 
-        The Administrator shall take all actions necessary to ensure the safe and effective operation, maintenance, and maximum utilization of the United States segment of the ISS through at least September 30, 2020.
+        The Administrator shall take all actions necessary to ensure the safe and effective operation, maintenance, and maximum utilization of the United States segment of the ISS through at least September 30, 2024.
 
     (b) __Vehicle and component review__ 
 
         (1) __In general__ 
 
-            In carrying out subsection (a), the Administrator shall, as soon as is practicable after October 11, 2010, carry out a comprehensive assessment of the essential modules, operational systems and components, structural elements, and permanent scientific equipment on board or planned for delivery and installation aboard the ISS, including both United States and international partner elements, for purposes of identifying the spare or replacement modules, systems and components, elements, and equipment that are required to ensure complete, effective, and safe functioning and full scientific utilization of the ISS through September 30, 2020.
+            The Administrator shall, as soon as is practicable after October 11, 2010, carry out a comprehensive assessment of the essential modules, operational systems and components, structural elements, and permanent scientific equipment on board or planned for delivery and installation aboard the ISS, including both United States and international partner elements, for purposes of identifying the spare or replacement modules, systems and components, elements, and equipment that are required to ensure complete, effective, and safe functioning and full scientific utilization of the ISS through September 30, 2020. <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup> 
 
         (2) __Data__ 
 
@@ -115,11 +115,19 @@
 
             The Administrator may not terminate any contract that provides the system transitions necessary for shuttle-derived hardware to be used on either the multi-purpose crew vehicle described in [section 18323 of this title][/us/usc/t42/s18323] or the Space Launch System described in [section 18322 of this title][/us/usc/t42/s18322].
 
-([Pub. L. 111–267, title V, § 503][/us/pl/111/267/s503], Oct. 11, 2010, [124 Stat. 2823][/us/stat/124/2823].)
+([Pub. L. 111–267, title V, § 503][/us/pl/111/267/s503], Oct. 11, 2010, [124 Stat. 2823][/us/stat/124/2823]; [Pub. L. 114–90, title I, § 114(b)(2)][/us/pl/114/90/s114/b/2], Nov. 25, 2015, [129 Stat. 716][/us/stat/129/716].)
 
  __References in Text__ 
 
+    Reference to September 30, 2020, referred to in subsec. (b)(1), was not amended by [section 114(b) of Pub. L. 114–90][/us/pl/114/90/s114/b], which substituted references to “2024” for references to “2020” in other provisions throughout this subchapter. See also [section 70907 of Title 51][/us/usc/t51/s70907], National and Commercial Space Programs, as amended by [section 114(b) of Pub. L. 114–90][/us/pl/114/90/s114/b].
+
     Section 101(2)(B), referred to in subsec. (e)(4), is [Pub. L. 111–267, title I, § 101(2)(B)][/us/pl/111/267/s101/2/B], Oct. 11, 2010, [124 Stat. 2809][/us/stat/124/2809], which is not classified to the Code.
+
+ __Amendments__ 
+
+    2015—Subsec. (a). [Pub. L. 114–90, § 114(b)(2)(A)][/us/pl/114/90/s114/b/2/A], substituted “through at least September 30, 2024” for “through at least September 30, 2020”.
+
+    Subsec. (b)(1). [Pub. L. 114–90, § 114(b)(2)(B)][/us/pl/114/90/s114/b/2/B], substituted “The Administrator” for “In carrying out subsection (a), the Administrator”.
 
 ----------
 
@@ -134,7 +142,14 @@
 [/us/usc/t42/s18322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs18322
 [/us/pl/111/267/s503]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F267%2Fs503
 [/us/stat/124/2823]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2823
+[/us/pl/114/90/s114/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F90%2Fs114%2Fb%2F2
+[/us/stat/129/716]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F716
+[/us/pl/114/90/s114/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F90%2Fs114%2Fb
+[/us/usc/t51/s70907]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft51%2Fs70907
+[/us/pl/114/90/s114/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F90%2Fs114%2Fb
 [/us/pl/111/267/s101/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F267%2Fs101%2F2%2FB
 [/us/stat/124/2809]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2809
+[/us/pl/114/90/s114/b/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F90%2Fs114%2Fb%2F2%2FA
+[/us/pl/114/90/s114/b/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F90%2Fs114%2Fb%2F2%2FB
 
 
