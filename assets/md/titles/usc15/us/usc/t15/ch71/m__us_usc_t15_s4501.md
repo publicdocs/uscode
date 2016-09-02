@@ -23,7 +23,7 @@
 
         (2)
 
-         subject to subsection (c) of this section, applies to—
+         subject to subsection (c), applies to—
 
             (A) any amount of such funds held in escrow by the Secretary through accounts administered by the Secretary of the Treasury on or after October 21, 1986; and
 
@@ -31,11 +31,11 @@
 
     (b) __Special rule__ 
 
-        Amounts described in subsection (a)(2) of this section and held in an escrow account by a court before October 21, 1986, may continue to be held by such court but shall be disbursed, together with any interest thereon, by the Secretary or, as appropriate, by the court only in accordance with the provisions of this chapter.
+        Amounts described in subsection (a)(2) and held in an escrow account by a court before October 21, 1986, may continue to be held by such court but shall be disbursed, together with any interest thereon, by the Secretary or, as appropriate, by the court only in accordance with the provisions of this chapter.
 
     (c) __Exclusions__ 
 
-    Subsection (a)(2) of this section does not apply to—
+    Subsection (a)(2) does not apply to—
 
         (1) any amount actually disbursed before October 21, 1986, to any person or class of persons pursuant to [section 155 of Public Law 97–377][/us/pl/97/377/s155] or any final judicial or administrative order or judgment (including any settlement agreement or declaratory judgment);
 
@@ -45,17 +45,17 @@
 
          any amount designated by judicial or administrative order or judgment (including any settlement agreement or declaratory judgment) for disbursement at any time to any specific person or class of persons—
 
-            (A) identified in such order or judgment as injured by the violation or alleged violation of the Acts described in subsection (a)(1) of this section (including the regulations thereunder); or
+            (A) identified in such order or judgment as injured by the violation or alleged violation of the Acts described in subsection (a)(1) (including the regulations thereunder); or
 
             (B) identified in such order or judgment issued before October 21, 1986, for indirect restitution.
 
     (d) __Escrow accounts__ 
 
-        Subject to subsections (b) and (c) of this section, the amounts covered by subsection (a) of this section shall be held in appropriate escrow accounts administered for the Secretary by the Secretary of the Treasury.
+        Subject to subsections (b) and (c), the amounts covered by subsection (a) shall be held in appropriate escrow accounts administered for the Secretary by the Secretary of the Treasury.
 
     (e) __Interest__ 
 
-        Consistent with the disbursement requirements of this chapter, the Secretary of the Treasury shall provide that amounts described in subsection (a) of this section shall earn interest at the maximum rate earned on investments of Federal trust funds by the Secretary of the Treasury in short-term and long-term securities issued by the Federal Government (including minority bank investments).
+        Consistent with the disbursement requirements of this chapter, the Secretary of the Treasury shall provide that amounts described in subsection (a) shall earn interest at the maximum rate earned on investments of Federal trust funds by the Secretary of the Treasury in short-term and long-term securities issued by the Federal Government (including minority bank investments).
 
 ([Pub. L. 99–509, title III, § 3002][/us/pl/99/509/s3002], Oct. 21, 1986, [100 Stat. 1881][/us/stat/100/1881].)
 

@@ -39,7 +39,7 @@
 
         (7) the term “antitrust laws” means the antitrust laws as defined in [section 12(a) of this title][/us/usc/t15/s12/a], [section 45 of this title][/us/usc/t15/s45] to the extent that [section 45 of this title][/us/usc/t15/s45] applies to unfair methods of competition, and any State antitrust or unfair competition law.
 
-    (b) The Secretary of Commerce may by regulation further define any term defined in subsection (a) of this section, in order to carry out this subchapter.
+    (b) The Secretary of Commerce may by regulation further define any term defined in subsection (a), in order to carry out this subchapter.
 
 ([Pub. L. 97–290, title I, § 103][/us/pl/97/290/s103], Oct. 8, 1982, [96 Stat. 1234][/us/stat/96/1234].)
 

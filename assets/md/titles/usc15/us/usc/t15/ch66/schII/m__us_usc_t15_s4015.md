@@ -21,7 +21,7 @@
 
     (b) __Exclusive provision for review__ 
 
-        Except as provided in subsection (a) of this section, no action by the Secretary or the Attorney General pursuant to this subchapter shall be subject to judicial review.
+        Except as provided in subsection (a), no action by the Secretary or the Attorney General pursuant to this subchapter shall be subject to judicial review.
 
     (c) __Inadmissibility in antitrust proceedings__ 
 

@@ -35,11 +35,11 @@
 
     (c) __Terms of office; vacancies; hold-over status__ 
 
-        (1) Except as provided in paragraph (2) of this subsection, the term of office of each member of the Commission appointed under subsection (b)(1) of this section shall be four years.
+        (1) Except as provided in paragraph (2) of this subsection, the term of office of each member of the Commission appointed under subsection (b)(1) shall be four years.
 
         (2)
 
-         Of the members of the Commission originally appointed under subsection (b)(1) of this section—
+         Of the members of the Commission originally appointed under subsection (b)(1)—
 
             (A) one shall be appointed for a term of two years;
 

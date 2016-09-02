@@ -31,7 +31,7 @@
 
     (c) __Information to be included__ 
 
-    The disclosure required by subsection (a) of this section shall include—
+    The disclosure required by subsection (a) shall include—
 
         (1)
 

@@ -19,7 +19,7 @@
 
     If an armored car crew member employed by an armored car company—
 
-        (1) has in effect a license issued by the appropriate State agency (in the State in which such member is primarily employed by such company) to carry a weapon while acting in the services of such company in that State, and such State agency meets the minimum requirements under subsection (b) of this section; and
+        (1) has in effect a license issued by the appropriate State agency (in the State in which such member is primarily employed by such company) to carry a weapon while acting in the services of such company in that State, and such State agency meets the minimum requirements under subsection (b); and
 
         (2) has met all other applicable requirements to act as an armored car crew member in the State in which such member is primarily employed by such company,
 
@@ -31,7 +31,7 @@
 
         (1)
 
-         in issuing an initial weapons license to an armored car crew member described in subsection (a) of this section, the agency determines to its satisfaction that—
+         in issuing an initial weapons license to an armored car crew member described in subsection (a), the agency determines to its satisfaction that—
 
             (A) the crew member has received classroom and range training in weapons safety and marksmanship during the current year from a qualified instructor for each weapon that the crew member will be licensed to carry; and
 
@@ -39,7 +39,7 @@
 
         (2)
 
-         in issuing a renewal of a weapons license to an armored car crew member described in subsection (a) of this section, the agency determines to its satisfaction that—
+         in issuing a renewal of a weapons license to an armored car crew member described in subsection (a), the agency determines to its satisfaction that—
 
             (A) the crew member has received continuing training in weapons safety and marksmanship from a qualified instructor for each weapon that the crew member is licensed to carry; and
 

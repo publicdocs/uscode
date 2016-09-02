@@ -307,6 +307,22 @@
 
  __Short Title of 2015 Amendment__ 
 
+[Pub. L. 114–88, § 1(a)][/us/pl/114/88/s1/a], Nov. 25, 2015, [129 Stat. 686][/us/stat/129/686], provided that: 
+
+> “This Act \[amending sections 636, 644, 648, 657d, and 657j of this title and enacting provisions set out as notes under this section and sections 636 and 657l of this title\] may be cited as the ‘Recovery Improvements for Small Entities After Disaster Act of 2015’ or the ‘RISE After Disaster Act of 2015’.”
+
+ \[For identical short title, see below.\]
+
+[Pub. L. 114–88, div. A, § 1001][/us/pl/114/88/s1001], Nov. 25, 2015, [129 Stat. 687][/us/stat/129/687], provided that: 
+
+> “This division \[amending [section 636 of this title][/us/usc/t15/s636] and enacting provisions set out as notes under sections 636 and 657l of this title\] may be cited as the ‘Superstorm Sandy Relief and Disaster Loan Program Improvement Act of 2015’.”
+
+[Pub. L. 114–88, div. B, § 2001][/us/pl/114/88/s2001], Nov. 25, 2015, [129 Stat. 689][/us/stat/129/689], provided that: 
+
+> “This division \[amending sections 636, 644, 648, 657d, and 657j of this title and enacting provisions set out as a note under [section 636 of this title][/us/usc/t15/s636]\] may be cited as the ‘Recovery Improvements for Small Entities After Disaster Act of 2015’ or the ‘RISE After Disaster Act of 2015’.”
+
+ \[For identical short title, see above.\]
+
 [Pub. L. 114–38, § 1][/us/pl/114/38/s1], July 28, 2015, [129 Stat. 437][/us/stat/129/437], provided that: 
 
 > “This Act \[amending [section 636 of this title][/us/usc/t15/s636]\] may be cited as the ‘Veterans Entrepreneurship Act of 2015’.”
@@ -1417,6 +1433,14 @@ In order to coordinate executive departments’ and agencies’ efforts towards 
 [/us/pl/96/302/s507]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F302%2Fs507
 [/us/stat/94/854]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F854
 [/us/usc/t5/s5315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5315
+[/us/pl/114/88/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F88%2Fs1%2Fa
+[/us/stat/129/686]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F686
+[/us/pl/114/88/s1001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F88%2Fs1001
+[/us/stat/129/687]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F687
+[/us/usc/t15/s636]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs636
+[/us/pl/114/88/s2001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F88%2Fs2001
+[/us/stat/129/689]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F689
+[/us/usc/t15/s636]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs636
 [/us/pl/114/38/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F38%2Fs1
 [/us/stat/129/437]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F437
 [/us/usc/t15/s636]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs636

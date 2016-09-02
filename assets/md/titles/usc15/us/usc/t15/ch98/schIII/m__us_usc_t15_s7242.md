@@ -25,7 +25,7 @@
 
     (c) __No preemption of other law__ 
 
-        The provisions of subsection (a) of this section shall be in addition to, and shall not supersede or preempt, any other provision of law or any rule or regulation issued thereunder.
+        The provisions of subsection (a) shall be in addition to, and shall not supersede or preempt, any other provision of law or any rule or regulation issued thereunder.
 
     (d) __Deadline for rulemaking__ 
 

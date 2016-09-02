@@ -49,11 +49,11 @@
 
         (1) __In general__ 
 
-            Except as provided in paragraph (2), the agencies and authorities described in subsection (a), other than the Bureau of Consumer Financial Protection, of this section shall implement the standards prescribed under [section 6801(b) of this title][/us/usc/t15/s6801/b] in the same manner, to the extent practicable, as standards prescribed pursuant to [section 1831p–1(a) of title 12][/us/usc/t12/s1831p–1/a] are implemented pursuant to such section.
+            Except as provided in paragraph (2), the agencies and authorities described in subsection (a), other than the Bureau of Consumer Financial Protection, shall implement the standards prescribed under [section 6801(b) of this title][/us/usc/t15/s6801/b] in the same manner, to the extent practicable, as standards prescribed pursuant to [section 1831p–1(a) of title 12][/us/usc/t12/s1831p–1/a] are implemented pursuant to such section.
 
         (2) __Exception__ 
 
-            The agencies and authorities described in paragraphs (3), (4), (5), (6), and (7) of subsection (a) of this section shall implement the standards prescribed under [section 6801(b) of this title][/us/usc/t15/s6801/b] by rule with respect to the financial institutions and other persons subject to their respective jurisdictions under subsection (a) of this section.
+            The agencies and authorities described in paragraphs (3), (4), (5), (6), and (7) of subsection (a) shall implement the standards prescribed under [section 6801(b) of this title][/us/usc/t15/s6801/b] by rule with respect to the financial institutions and other persons subject to their respective jurisdictions under subsection (a).
 
     (c) __Absence of State action__ 
 
@@ -61,7 +61,7 @@
 
     (d) __Definitions__ 
 
-        The terms used in subsection (a)(1) of this section that are not defined in this subchapter or otherwise defined in [section 1813(s) of title 12][/us/usc/t12/s1813/s] shall have the same meaning as given in [section 3101 of title 12][/us/usc/t12/s3101].
+        The terms used in subsection (a)(1) that are not defined in this subchapter or otherwise defined in [section 1813(s) of title 12][/us/usc/t12/s1813/s] shall have the same meaning as given in [section 3101 of title 12][/us/usc/t12/s3101].
 
 ([Pub. L. 106–102, title V, § 505][/us/pl/106/102/s505], Nov. 12, 1999, [113 Stat. 1440][/us/stat/113/1440]; [Pub. L. 111–203, title X, § 1093(4)][/us/pl/111/203/s1093/4], (5), July 21, 2010, [124 Stat. 2096][/us/stat/124/2096], 2097.)
 

@@ -31,7 +31,7 @@
 
     (b) __Person to whom notice to be sent__ 
 
-    The notice required by subsection (a) of this section shall be sent—
+    The notice required by subsection (a) shall be sent—
 
         (1) to the registered agent of the prospective defendant for service of legal process;
 
@@ -43,7 +43,7 @@
 
         (1) __In general__ 
 
-            Within 30 days after receipt of the notice specified in subsection (a) of this section, each prospective defendant shall send by certified mail with return receipt requested to each prospective plaintiff a written statement acknowledging receipt of the notice, and describing the actions it has taken or will take to address the problem identified by the prospective plaintiff.
+            Within 30 days after receipt of the notice specified in subsection (a), each prospective defendant shall send by certified mail with return receipt requested to each prospective plaintiff a written statement acknowledging receipt of the notice, and describing the actions it has taken or will take to address the problem identified by the prospective plaintiff.
 
         (2) __Willingness to engage in ADR__ 
 
@@ -55,7 +55,7 @@
 
         (4) __Presumptive time of receipt__ 
 
-            For purposes of paragraph (1), a notice under subsection (a) of this section is presumed to be received 7 days after it was sent.
+            For purposes of paragraph (1), a notice under subsection (a) is presumed to be received 7 days after it was sent.
 
         (5) __Priority__ 
 
@@ -65,7 +65,7 @@
 
     If a prospective defendant—
 
-        (1) fails to respond to a notice provided pursuant to subsection (a) of this section within the 30 days specified in subsection (c)(1) of this section; or
+        (1) fails to respond to a notice provided pursuant to subsection (a) within the 30 days specified in subsection (c)(1); or
 
         (2) does not describe the action, if any, the prospective defendant has taken, or will take, to address the problem identified by the prospective plaintiff,
 
@@ -91,7 +91,7 @@
 
     (f) __Failure to provide notice__ 
 
-    If a defendant determines that a plaintiff has filed a Y2K action without providing the notice specified in subsection (a) of this section or without awaiting the expiration of the appropriate waiting period specified in subsection (c) of this section, the defendant may treat the plaintiff’s complaint as such a notice by so informing the court and the plaintiff in its initial response to the plaintiff. If any defendant elects to treat the complaint as such a notice—
+    If a defendant determines that a plaintiff has filed a Y2K action without providing the notice specified in subsection (a) or without awaiting the expiration of the appropriate waiting period specified in subsection (c), the defendant may treat the plaintiff’s complaint as such a notice by so informing the court and the plaintiff in its initial response to the plaintiff. If any defendant elects to treat the complaint as such a notice—
 
         (1) the court shall stay all discovery and all other proceedings in the action for the appropriate period after filing of the complaint; and
 
@@ -99,7 +99,7 @@
 
     (g) __Effect of contractual or statutory waiting periods__ 
 
-        In cases in which a contract, or a statute enacted before January 1, 1999, requires notice of nonperformance and provides for a period of delay prior to the initiation of suit for breach or repudiation of contract, the period of delay provided by contract or the statute is controlling over the waiting period specified in subsections (c) and (d) of this section.
+        In cases in which a contract, or a statute enacted before January 1, 1999, requires notice of nonperformance and provides for a period of delay prior to the initiation of suit for breach or repudiation of contract, the period of delay provided by contract or the statute is controlling over the waiting period specified in subsections (c) and (d).
 
     (h) __State law controls alternative methods__ 
 

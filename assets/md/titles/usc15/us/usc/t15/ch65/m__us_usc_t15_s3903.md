@@ -37,7 +37,7 @@
 
     (b) __Scope of exemptions__ 
 
-    The exemptions specified in subsection (a) of this section apply to—
+    The exemptions specified in subsection (a) apply to—
 
         (1)
 

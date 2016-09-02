@@ -35,7 +35,7 @@
 
     (c) __General rule__ 
 
-        Subject to subsections (d) and (e) of this section, no agency shall impose any civil money penalty on a small business concern for a first-time violation.
+        Subject to subsections (d) and (e), no agency shall impose any civil money penalty on a small business concern for a first-time violation.
 
     (d) __Standards for waiver__ 
 

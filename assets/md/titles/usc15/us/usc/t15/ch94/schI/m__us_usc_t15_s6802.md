@@ -45,7 +45,7 @@
 
     (e) __General exceptions__ 
 
-    Subsections (a) and (b) of this section shall not prohibit the disclosure of nonpublic personal information—
+    Subsections (a) and (b) shall not prohibit the disclosure of nonpublic personal information—
 
         (1)
 

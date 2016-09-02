@@ -29,7 +29,7 @@
 
     (b) __Contents of report__ 
 
-    The report submitted under subsection (a) of this section shall—
+    The report submitted under subsection (a) shall—
 
         (1)
 

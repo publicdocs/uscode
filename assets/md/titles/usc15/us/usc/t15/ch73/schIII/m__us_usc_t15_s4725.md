@@ -31,7 +31,7 @@
 
     (b) __Reports to Congress__ 
 
-        The Secretary of Commerce shall report periodically to the Congress on activities carried out under subsection (a) of this section.
+        The Secretary of Commerce shall report periodically to the Congress on activities carried out under subsection (a).
 
     (c) __“United States person” defined__ 
 

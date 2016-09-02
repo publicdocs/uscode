@@ -17,7 +17,7 @@
 
     (a) __Authority to make grants__ 
 
-        The Secretary of Defense shall make grants, in accordance with [section 6304 of title 31][/us/usc/t31/s6304], to Sematech in order to defray expenses incurred by Sematech in conducting research on and development of semiconductor manufacturing technology. The grants shall be made in accordance with a memorandum of understanding entered into under subsection (b) of this section.
+        The Secretary of Defense shall make grants, in accordance with [section 6304 of title 31][/us/usc/t31/s6304], to Sematech in order to defray expenses incurred by Sematech in conducting research on and development of semiconductor manufacturing technology. The grants shall be made in accordance with a memorandum of understanding entered into under subsection (b).
 
     (b) __Memorandum of understanding__ 
 
@@ -43,7 +43,7 @@
 
     (c) __Construction of memorandum of understanding__ 
 
-        The memorandum of understanding entered into under subsection (b) of this section shall not be considered to be a contract for the purpose of any law or regulation relating to the formation, content, and administration of contracts awarded by the Federal Government and subcontracts under such contracts, including [section 2306a of title 10][/us/usc/t10/s2306a], section 719 of the Defense Production Act of 1950 (50 U.S.C. App. 2168), <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  and the Federal Acquisition Regulations, and such provisions of law and regulation shall not apply with respect to the memorandum of understanding.
+        The memorandum of understanding entered into under subsection (b) shall not be considered to be a contract for the purpose of any law or regulation relating to the formation, content, and administration of contracts awarded by the Federal Government and subcontracts under such contracts, including [section 2306a of title 10][/us/usc/t10/s2306a], section 719 of the Defense Production Act of 1950 (50 U.S.C. App. 2168), <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  and the Federal Acquisition Regulations, and such provisions of law and regulation shall not apply with respect to the memorandum of understanding.
 
     (d) __Funding for FY88__ 
 

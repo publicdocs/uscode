@@ -45,7 +45,7 @@
 
     (e) __Rule of construction__ 
 
-    Subsections (a), (b), and (c) of this section shall not be construed to modify the liability under the antitrust laws of any person (other than a standards development organization) who—
+    Subsections (a), (b), and (c) shall not be construed to modify the liability under the antitrust laws of any person (other than a standards development organization) who—
 
         (1) directly (or through an employee or agent) participates in a standards development activity with respect to which a violation of any of the antitrust laws is found,
 

@@ -57,7 +57,7 @@
 
     (c) __Terms__ 
 
-        The term of office of each member of the Council appointed under paragraphs (1) through (7) of subsection (b) of this section shall be 2 years, except that when making the initial appointments under such paragraphs; the Secretary shall appoint not more than 50 percent of the members to 1 year terms. No member appointed under such paragraphs shall serve on the Council for more than 2 consecutive terms.
+        The term of office of each member of the Council appointed under paragraphs (1) through (7) of subsection (b) shall be 2 years, except that when making the initial appointments under such paragraphs; the Secretary shall appoint not more than 50 percent of the members to 1 year terms. No member appointed under such paragraphs shall serve on the Council for more than 2 consecutive terms.
 
     (d) __Chairman and Vice Chairman__ 
 

@@ -19,7 +19,7 @@
 
         (1)
 
-         Except as provided in subsection (b) of this section, the provisions of this chapter (other than [section 4504 of this title][/us/usc/t15/s4504]) shall terminate 90 days after the Secretary—
+         Except as provided in subsection (b), the provisions of this chapter (other than [section 4504 of this title][/us/usc/t15/s4504]) shall terminate 90 days after the Secretary—
 
             (A) determines that all of the restitutionary amounts to which [section 4501(a) of this title][/us/usc/t15/s4501/a] applies have been collected and disbursed as provided in this chapter; and
 

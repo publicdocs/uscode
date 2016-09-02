@@ -27,13 +27,13 @@
 
         (1) __Use of appointee to receive evidence__ 
 
-            (A) An order issued under subsection (a) of this section may direct that testimony or a statement be given, or a document or other thing be produced, to a person who shall be recommended by the Attorney General and appointed by the court.
+            (A) An order issued under subsection (a) may direct that testimony or a statement be given, or a document or other thing be produced, to a person who shall be recommended by the Attorney General and appointed by the court.
 
             (B) A person appointed under subparagraph (A) shall have power to administer any necessary oath and to take such testimony or such statement.
 
         (2) __Practice and procedure__ 
 
-            (A) An order issued under subsection (a) of this section may prescribe the practice and procedure for taking testimony and statements and for producing documents and other things.
+            (A) An order issued under subsection (a) may prescribe the practice and procedure for taking testimony and statements and for producing documents and other things.
 
             (B) Such practice and procedure may be in whole or in part the practice and procedure of the foreign state, or the regional economic integration organization, represented by the foreign antitrust authority with respect to which the Attorney General requests such order.
 
@@ -41,7 +41,7 @@
 
     (c) __Rights and privileges preserved__ 
 
-        A person may not be compelled under an order issued under subsection (a) of this section to give testimony or a statement, or to produce a document or other thing, in violation of any legally applicable right or privilege.
+        A person may not be compelled under an order issued under subsection (a) to give testimony or a statement, or to produce a document or other thing, in violation of any legally applicable right or privilege.
 
     (d) __Voluntary conduct__ 
 

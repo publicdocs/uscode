@@ -53,13 +53,13 @@
 
             (A) __In general__ 
 
-                Except as provided in subparagraph (B), not later than 6 months after the effective date of rules promulgated by the Federal Trade Commission under subsection (a) of this section, the Securities and Exchange Commission shall promulgate, or require any national securities exchange or registered securities association to promulgate, rules substantially similar to such rules to prohibit deceptive and other abusive telemarketing acts or practices by persons described in paragraph (2).
+                Except as provided in subparagraph (B), not later than 6 months after the effective date of rules promulgated by the Federal Trade Commission under subsection (a), the Securities and Exchange Commission shall promulgate, or require any national securities exchange or registered securities association to promulgate, rules substantially similar to such rules to prohibit deceptive and other abusive telemarketing acts or practices by persons described in paragraph (2).
 
             (B) __Exception__ 
 
             The Securities and Exchange Commission is not required to promulgate a rule under subparagraph (A) if it determines that—
 
-                (i) Federal securities laws or rules adopted by the Securities and Exchange Commission thereunder provide protection from deceptive and other abusive telemarketing by persons described in paragraph (2) substantially similar to that provided by rules promulgated by the Federal Trade Commission under subsection (a) of this section; or
+                (i) Federal securities laws or rules adopted by the Securities and Exchange Commission thereunder provide protection from deceptive and other abusive telemarketing by persons described in paragraph (2) substantially similar to that provided by rules promulgated by the Federal Trade Commission under subsection (a); or
 
                 (ii) such a rule promulgated by the Securities and Exchange Commission is not necessary or appropriate in the public interest, or for the protection of investors, or would be inconsistent with the maintenance of fair and orderly markets.
 
@@ -69,7 +69,7 @@
 
             (A) __In general__ 
 
-                The rules promulgated by the Securities and Exchange Commission under paragraph (1)(A) shall apply to a broker, dealer, transfer agent, municipal securities dealer, municipal securities broker, government securities broker, government securities dealer, investment adviser or investment company, or any individual associated with a broker, dealer, transfer agent, municipal securities dealer, municipal securities broker, government securities broker, government securities dealer, investment adviser or investment company. The rules promulgated by the Federal Trade Commission under subsection (a) of this section shall not apply to persons described in the preceding sentence.
+                The rules promulgated by the Securities and Exchange Commission under paragraph (1)(A) shall apply to a broker, dealer, transfer agent, municipal securities dealer, municipal securities broker, government securities broker, government securities dealer, investment adviser or investment company, or any individual associated with a broker, dealer, transfer agent, municipal securities dealer, municipal securities broker, government securities broker, government securities dealer, investment adviser or investment company. The rules promulgated by the Federal Trade Commission under subsection (a) shall not apply to persons described in the preceding sentence.
 
             (B) __Definitions__ 
 
@@ -85,7 +85,7 @@
 
         (1) __Application__ 
 
-            The rules promulgated by the Federal Trade Commission under subsection (a) of this section shall not apply to persons described in [section 9b(1) of title 7][/us/usc/t7/s9b/1].
+            The rules promulgated by the Federal Trade Commission under subsection (a) shall not apply to persons described in [section 9b(1) of title 7][/us/usc/t7/s9b/1].
 
         (2) __Omitted__ 
 

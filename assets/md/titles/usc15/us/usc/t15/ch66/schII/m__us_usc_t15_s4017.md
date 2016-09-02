@@ -25,7 +25,7 @@
 
     (b) __Administrative rulemaking requirements not applicable__ 
 
-        [Section 553 of title 5][/us/usc/t5/s553] shall not apply to the issuance of guidelines under subsection (a) of this section.
+        [Section 553 of title 5][/us/usc/t5/s553] shall not apply to the issuance of guidelines under subsection (a).
 
 ([Pub. L. 97–290, title III, § 307][/us/pl/97/290/s307], Oct. 8, 1982, [96 Stat. 1244][/us/stat/96/1244].)
 

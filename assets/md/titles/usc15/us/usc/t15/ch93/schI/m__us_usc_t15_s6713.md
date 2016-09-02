@@ -33,7 +33,7 @@
 
         (1) __In general__ 
 
-            Except as provided in paragraphs (2) and (3) and notwithstanding subsections (a) and (b) of this section, a national bank, and a subsidiary of a national bank, may conduct title insurance activities which such national bank or subsidiary was actively and lawfully conducting before November 12, 1999.
+            Except as provided in paragraphs (2) and (3) and notwithstanding subsections (a) and (b), a national bank, and a subsidiary of a national bank, may conduct title insurance activities which such national bank or subsidiary was actively and lawfully conducting before November 12, 1999.
 
         (2) __Insurance affiliate__ 
 

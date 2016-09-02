@@ -49,7 +49,7 @@
 
         (1) __Evaluation required__ 
 
-            The Secretary of Commerce, acting through the Assistant Secretary for Communications and Information, shall review the operation of the exceptions in subsections (a) and (b) of this section to evaluate, over a period of 3 years, whether such exceptions continue to be necessary for the protection of consumers. Within 3 years after June 30, 2000, the Assistant Secretary shall submit a report to the Congress on the results of such evaluation.
+            The Secretary of Commerce, acting through the Assistant Secretary for Communications and Information, shall review the operation of the exceptions in subsections (a) and (b) to evaluate, over a period of 3 years, whether such exceptions continue to be necessary for the protection of consumers. Within 3 years after June 30, 2000, the Assistant Secretary shall submit a report to the Congress on the results of such evaluation.
 
         (2) __Determinations__ 
 

@@ -41,7 +41,7 @@
 
                 (i) geographic penalties (as defined in section 7(1) of the Next Generation Internet Research Act of 1998);  <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup> 
 
-                (ii) the adequacy of access to the Internet by Historically Black Colleges and Universities, Hispanic Serving Institutions, and small colleges and universities (whose enrollment is less than 5,000) and the degree of participation of those institutions in activities described in subsection (a) of this section; and
+                (ii) the adequacy of access to the Internet by Historically Black Colleges and Universities, Hispanic Serving Institutions, and small colleges and universities (whose enrollment is less than 5,000) and the degree of participation of those institutions in activities described in subsection (a); and
 
                 (iii) technology transfer to and from the private sector;
 

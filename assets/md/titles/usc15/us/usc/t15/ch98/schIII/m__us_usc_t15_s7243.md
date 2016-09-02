@@ -25,7 +25,7 @@
 
     (b) __Commission exemption authority__ 
 
-        The Commission may exempt any person from the application of subsection (a) of this section, as it deems necessary and appropriate.
+        The Commission may exempt any person from the application of subsection (a), as it deems necessary and appropriate.
 
 ([Pub. L. 107–204, title III, § 304][/us/pl/107/204/s304], July 30, 2002, [116 Stat. 778][/us/stat/116/778].)
 

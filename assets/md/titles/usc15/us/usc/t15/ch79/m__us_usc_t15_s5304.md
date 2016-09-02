@@ -55,7 +55,7 @@
 
     (c) __Content of management plan__ 
 
-    The management plan set forth in subsection (b)(3) of this section shall—
+    The management plan set forth in subsection (b)(3) shall—
 
         (1) outline the basic research and development activities expected to be performed;
 
@@ -109,7 +109,7 @@
 
     (f) __National Metal Casting Research Institute__ 
 
-        Each recipient of financial assistance under subsection (d) of this section shall be known as a “National Metal Casting Research Institute”.
+        Each recipient of financial assistance under subsection (d) shall be known as a “National Metal Casting Research Institute”.
 
 ([Pub. L. 101–425, § 5][/us/pl/101/425/s5], Oct. 15, 1990, [104 Stat. 916][/us/stat/104/916].)
 

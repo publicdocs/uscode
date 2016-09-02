@@ -25,7 +25,7 @@
 
     (c) __Exception for intentional fraud__ 
 
-        Subsection (a) of this section does not apply to damages suffered by reason of the plaintiff’s justifiable reliance upon an affirmative material misrepresentation by the defendant, made by the defendant with actual knowledge of its falsity, concerning the potential for Y2K failure of the device or system used or sold by the defendant that experienced the Y2K failure alleged to have caused the plaintiff’s harm.
+        Subsection (a) does not apply to damages suffered by reason of the plaintiff’s justifiable reliance upon an affirmative material misrepresentation by the defendant, made by the defendant with actual knowledge of its falsity, concerning the potential for Y2K failure of the device or system used or sold by the defendant that experienced the Y2K failure alleged to have caused the plaintiff’s harm.
 
 ([Pub. L. 106–37, § 9][/us/pl/106/37/s9], July 20, 1999, [113 Stat. 198][/us/stat/113/198].)
 

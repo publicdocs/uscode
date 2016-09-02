@@ -63,7 +63,7 @@
 
     (b) __Scope of exemptions__ 
 
-    The exemptions specified in subsection (a) of this section apply to laws governing the insurance business pertaining to—
+    The exemptions specified in subsection (a) apply to laws governing the insurance business pertaining to—
 
         (1)
 
@@ -129,9 +129,9 @@
 
     (f) __State powers to enforce State laws__ 
 
-        (1) Subject to the provisions of subsection (a)(1)(G) of this section (relating to injunctions) and paragraph (2), nothing in this chapter shall be construed to affect the authority of any State to make use of any of its powers to enforce the laws of such State with respect to which a risk retention group is not exempt under this chapter.
+        (1) Subject to the provisions of subsection (a)(1)(G) (relating to injunctions) and paragraph (2), nothing in this chapter shall be construed to affect the authority of any State to make use of any of its powers to enforce the laws of such State with respect to which a risk retention group is not exempt under this chapter.
 
-        (2) If a State seeks an injunction regarding the conduct described in paragraphs (1) and (2) of subsection (e) of this section, such injunction must be obtained from a Federal or State court of competent jurisdiction.
+        (2) If a State seeks an injunction regarding the conduct described in paragraphs (1) and (2) of subsection (e), such injunction must be obtained from a Federal or State court of competent jurisdiction.
 
     (g) __States’ authority to sue__ 
 

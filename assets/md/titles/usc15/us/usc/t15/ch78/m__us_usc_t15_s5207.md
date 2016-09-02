@@ -21,7 +21,7 @@
 
     (b) __Additional activities__ 
 
-    In conducting research under subsection (a) of this section, the Secretary of Defense shall—
+    In conducting research under subsection (a), the Secretary of Defense shall—
 
         (1) systematically define the engineering parameters for high-temperature superconducting materials; and
 

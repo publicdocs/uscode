@@ -21,17 +21,17 @@
 
     (b) __Annual budgets__ 
 
-        The Board and the standard setting body referred to in subsection (a) of this section shall each establish a budget for each fiscal year, which shall be reviewed and approved according to their respective internal procedures not less than 1 month prior to the commencement of the fiscal year to which the budget pertains (or at the beginning of the Board’s first fiscal year, which may be a short fiscal year). The budget of the Board shall be subject to approval by the Commission. The budget for the first fiscal year of the Board shall be prepared and approved promptly following the appointment of the initial five Board members, to permit action by the Board of the organizational tasks contemplated by [section 7211(d) of this title][/us/usc/t15/s7211/d].
+        The Board and the standard setting body referred to in subsection (a) shall each establish a budget for each fiscal year, which shall be reviewed and approved according to their respective internal procedures not less than 1 month prior to the commencement of the fiscal year to which the budget pertains (or at the beginning of the Board’s first fiscal year, which may be a short fiscal year). The budget of the Board shall be subject to approval by the Commission. The budget for the first fiscal year of the Board shall be prepared and approved promptly following the appointment of the initial five Board members, to permit action by the Board of the organizational tasks contemplated by [section 7211(d) of this title][/us/usc/t15/s7211/d].
 
     (c) __Sources and uses of funds__ 
 
         (1) __Recoverable budget expenses__ 
 
-            The budget of the Board (reduced by any registration or annual fees received under [section 7212(e) of this title][/us/usc/t15/s7212/e] for the year preceding the year for which the budget is being computed), and all of the budget of the standard setting body referred to in subsection (a) of this section, for each fiscal year of each of those 2 entities, shall be payable from annual accounting support fees, in accordance with subsections (d) and (e) of this section. Accounting support fees and other receipts of the Board and of such standard-setting body shall not be considered public monies of the United States.
+            The budget of the Board (reduced by any registration or annual fees received under [section 7212(e) of this title][/us/usc/t15/s7212/e] for the year preceding the year for which the budget is being computed), and all of the budget of the standard setting body referred to in subsection (a), for each fiscal year of each of those 2 entities, shall be payable from annual accounting support fees, in accordance with subsections (d) and (e). Accounting support fees and other receipts of the Board and of such standard-setting body shall not be considered public monies of the United States.
 
         (2) __Funds generated from the collection of monetary penalties__ 
 
-            Subject to the availability in advance in an appropriations Act, and notwithstanding subsection (j) of this section, all funds collected by the Board as a result of the assessment of monetary penalties shall be used to fund a merit scholarship program for undergraduate and graduate students enrolled in accredited accounting degree programs, which program is to be administered by the Board or by an entity or agent identified by the Board.
+            Subject to the availability in advance in an appropriations Act, and notwithstanding subsection (j), all funds collected by the Board as a result of the assessment of monetary penalties shall be used to fund a merit scholarship program for undergraduate and graduate students enrolled in accredited accounting degree programs, which program is to be administered by the Board or by an entity or agent identified by the Board.
 
     (d) __Annual accounting support fee for the Board__ 
 
@@ -41,7 +41,7 @@
 
         (2) __Assessments__ 
 
-            The rules of the Board under paragraph (1) shall provide for the equitable allocation, assessment, and collection by the Board (or an agent appointed by the Board) of the fee established under paragraph (1), among issuers, in accordance with subsection (g) of this section, and among brokers and dealers, in accordance with subsection (h), and allowing for differentiation among classes of issuers, brokers and dealers, as appropriate.
+            The rules of the Board under paragraph (1) shall provide for the equitable allocation, assessment, and collection by the Board (or an agent appointed by the Board) of the fee established under paragraph (1), among issuers, in accordance with subsection (g), and among brokers and dealers, in accordance with subsection (h), and allowing for differentiation among classes of issuers, brokers and dealers, as appropriate.
 
         (3) __Brokers and dealers__ 
 
@@ -49,19 +49,19 @@
 
     (e) __Annual accounting support fee for standard setting body__ 
 
-    The annual accounting support fee for the standard setting body referred to in subsection (a) of this section—
+    The annual accounting support fee for the standard setting body referred to in subsection (a)—
 
-        (1) shall be allocated in accordance with subsection (g) of this section, and assessed and collected against each issuer, on behalf of the standard setting body, by 1 or more appropriate designated collection agents, as may be necessary or appropriate to pay for the budget and provide for the expenses of that standard setting body, and to provide for an independent, stable source of funding for such body, subject to review by the Commission; and
+        (1) shall be allocated in accordance with subsection (g), and assessed and collected against each issuer, on behalf of the standard setting body, by 1 or more appropriate designated collection agents, as may be necessary or appropriate to pay for the budget and provide for the expenses of that standard setting body, and to provide for an independent, stable source of funding for such body, subject to review by the Commission; and
 
         (2) may differentiate among different classes of issuers.
 
     (f) __Limitation on fee__ 
 
-        The amount of fees collected under this section for a fiscal year on behalf of the Board or the standards setting body, as the case may be, shall not exceed the recoverable budget expenses of the Board or body, respectively (which may include operating, capital, and accrued items), referred to in subsection (c)(1) of this section.
+        The amount of fees collected under this section for a fiscal year on behalf of the Board or the standards setting body, as the case may be, shall not exceed the recoverable budget expenses of the Board or body, respectively (which may include operating, capital, and accrued items), referred to in subsection (c)(1).
 
     (g) __Allocation of accounting support fees among issuers__ 
 
-    Any amount due from issuers (or a particular class of issuers) under this section to fund the budget of the Board or the standard setting body referred to in subsection (a) of this section shall be allocated among and payable by each issuer (or each issuer in a particular class, as applicable) in an amount equal to the total of such amount, multiplied by a fraction—
+    Any amount due from issuers (or a particular class of issuers) under this section to fund the budget of the Board or the standard setting body referred to in subsection (a) shall be allocated among and payable by each issuer (or each issuer in a particular class, as applicable) in an amount equal to the total of such amount, multiplied by a fraction—
 
         (1) the numerator of which is the average monthly equity market capitalization of the issuer for the 12-month period immediately preceding the beginning of the fiscal year to which such budget relates; and
 
@@ -85,7 +85,7 @@
 
     (j) __Rule of construction__ 
 
-        Nothing in this section shall be construed to render either the Board, the standard setting body referred to in subsection (a) of this section, or both, subject to procedures in Congress to authorize or appropriate public funds, or to prevent such organization from utilizing additional sources of revenue for its activities, such as earnings from publication sales, provided that each additional source of revenue shall not jeopardize, in the judgment of the Commission, the actual and perceived independence of such organization.
+        Nothing in this section shall be construed to render either the Board, the standard setting body referred to in subsection (a), or both, subject to procedures in Congress to authorize or appropriate public funds, or to prevent such organization from utilizing additional sources of revenue for its activities, such as earnings from publication sales, provided that each additional source of revenue shall not jeopardize, in the judgment of the Commission, the actual and perceived independence of such organization.
 
     (k) __Start-up expenses of the Board__ 
 

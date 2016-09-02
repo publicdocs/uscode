@@ -65,7 +65,7 @@
 
                 (vi) internal inspection; and
 
-                (vii) such other requirements as the Board may prescribe, subject to subsection (a)(1) of this section.
+                (vii) such other requirements as the Board may prescribe, subject to subsection (a)(1).
 
         (3) __Authority to adopt other standards__ 
 
@@ -97,7 +97,7 @@
 
         (1) __In general__ 
 
-            The Board shall cooperate on an ongoing basis with professional groups of accountants designated under subsection (a)(3)(A) of this section and advisory groups convened under subsection (a)(4) of this section in the examination of the need for changes in any standards subject to its authority under subsection (a) of this section, recommend issues for inclusion on the agendas of such designated professional groups of accountants or advisory groups, and take such other steps as it deems appropriate to increase the effectiveness of the standard setting process.
+            The Board shall cooperate on an ongoing basis with professional groups of accountants designated under subsection (a)(3)(A) and advisory groups convened under subsection (a)(4) in the examination of the need for changes in any standards subject to its authority under subsection (a), recommend issues for inclusion on the agendas of such designated professional groups of accountants or advisory groups, and take such other steps as it deems appropriate to increase the effectiveness of the standard setting process.
 
         (2) __Board responses__ 
 
@@ -105,7 +105,7 @@
 
     (d) __Evaluation of standard setting process__ 
 
-        The Board shall include in the annual report required by [section 7211(h) of this title][/us/usc/t15/s7211/h] the results of its standard setting responsibilities during the period to which the report relates, including a discussion of the work of the Board with any designated professional groups of accountants and advisory groups described in paragraphs (3)(A) and (4) of subsection (a) of this section, and its pending issues agenda for future standard setting projects.
+        The Board shall include in the annual report required by [section 7211(h) of this title][/us/usc/t15/s7211/h] the results of its standard setting responsibilities during the period to which the report relates, including a discussion of the work of the Board with any designated professional groups of accountants and advisory groups described in paragraphs (3)(A) and (4) of subsection (a), and its pending issues agenda for future standard setting projects.
 
 ([Pub. L. 107–204, title I, § 103][/us/pl/107/204/s103], July 30, 2002, [116 Stat. 755][/us/stat/116/755]; [Pub. L. 111–203, title IX, § 982(d)][/us/pl/111/203/s982/d], July 21, 2010, [124 Stat. 1929][/us/stat/124/1929]; [Pub. L. 112–106, title I, § 104][/us/pl/112/106/s104], Apr. 5, 2012, [126 Stat. 310][/us/stat/126/310].)
 

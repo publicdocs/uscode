@@ -23,7 +23,7 @@
 
         (1) __In general__ 
 
-        Each report required under subsection (a) of this section shall address—
+        Each report required under subsection (a) shall address—
 
             (A)
 

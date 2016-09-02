@@ -53,7 +53,7 @@
 
     (e) __Form of transmittal__ 
 
-        The information included in each report under subsection (d) of this section that is described in subparagraphs (A) through (C) of subsection (d)(6) of this section, shall be reported verbatim, together with any separate additional, concurring, or dissenting views of the Administrator.
+        The information included in each report under subsection (d) that is described in subparagraphs (A) through (C) of subsection (d)(6), shall be reported verbatim, together with any separate additional, concurring, or dissenting views of the Administrator.
 
 ([Pub. L. 100–533, title IV, § 406][/us/pl/100/533/s406], as added [Pub. L. 103–403, title IV, § 413][/us/pl/103/403/s413], Oct. 22, 1994, [108 Stat. 4195][/us/stat/108/4195]; amended [Pub. L. 105–135, title III, § 303][/us/pl/105/135/s303], Dec. 2, 1997, [111 Stat. 2609][/us/stat/111/2609].)
 

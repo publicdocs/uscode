@@ -17,7 +17,7 @@
 
     (a) __Guidelines__ 
 
-        An operator may satisfy the requirements of regulations issued under [section 6502(b) of this title][/us/usc/t15/s6502/b] by following a set of self-regulatory guidelines, issued by representatives of the marketing or online industries, or by other persons, approved under subsection (b) of this section.
+        An operator may satisfy the requirements of regulations issued under [section 6502(b) of this title][/us/usc/t15/s6502/b] by following a set of self-regulatory guidelines, issued by representatives of the marketing or online industries, or by other persons, approved under subsection (b).
 
     (b) __Incentives__ 
 
@@ -35,7 +35,7 @@
 
     (c) __Appeals__ 
 
-        Final action by the Commission on a request for approval of guidelines, or the failure to act within 180 days on a request for approval of guidelines, submitted under subsection (b) of this section may be appealed to a district court of the United States of appropriate jurisdiction as provided for in [section 706 of title 5][/us/usc/t5/s706].
+        Final action by the Commission on a request for approval of guidelines, or the failure to act within 180 days on a request for approval of guidelines, submitted under subsection (b) may be appealed to a district court of the United States of appropriate jurisdiction as provided for in [section 706 of title 5][/us/usc/t5/s706].
 
 ([Pub. L. 105–277, div. C, title XIII, § 1304][/us/pl/105/277/s1304], Oct. 21, 1998, [112 Stat. 2681–732][/us/stat/112/2681-732].)
 

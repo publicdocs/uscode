@@ -45,7 +45,7 @@
 
     (b) __Authority to grant exceptions__ 
 
-        The regulations prescribed under subsection (a) of this section may include such additional exceptions to subsections (a) through (d) of [section 6802 of this title][/us/usc/t15/s6802] as are deemed consistent with the purposes of this subchapter.
+        The regulations prescribed under subsection (a) may include such additional exceptions to subsections (a) through (d) of [section 6802 of this title][/us/usc/t15/s6802] as are deemed consistent with the purposes of this subchapter.
 
 ([Pub. L. 106–102, title V, § 504][/us/pl/106/102/s504], Nov. 12, 1999, [113 Stat. 1439][/us/stat/113/1439]; [Pub. L. 111–203, title X, § 1093(3)][/us/pl/111/203/s1093/3], July 21, 2010, [124 Stat. 2095][/us/stat/124/2095].)
 

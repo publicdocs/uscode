@@ -21,7 +21,7 @@
 
     (b) __Financial institutions safeguards__ 
 
-    In furtherance of the policy in subsection (a) of this section, each agency or authority described in [section 6805(a) of this title][/us/usc/t15/s6805/a], other than the Bureau of Consumer Financial Protection, shall establish appropriate standards for the financial institutions subject to their jurisdiction relating to administrative, technical, and physical safeguards—
+    In furtherance of the policy in subsection (a), each agency or authority described in [section 6805(a) of this title][/us/usc/t15/s6805/a], other than the Bureau of Consumer Financial Protection, shall establish appropriate standards for the financial institutions subject to their jurisdiction relating to administrative, technical, and physical safeguards—
 
         (1) to insure the security and confidentiality of customer records and information;
 

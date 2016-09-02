@@ -17,7 +17,7 @@
 
     (a) __Protection from civil or criminal antitrust actions__ 
 
-        Except as provided in subsection (b) of this section, no criminal or civil action may be brought under the antitrust laws against a person to whom a certificate of review is issued which is based on conduct which is specified in, and complies with the terms of, a certificate issued under [section 4013 of this title][/us/usc/t15/s4013] which certificate was in effect when the conduct occurred.
+        Except as provided in subsection (b), no criminal or civil action may be brought under the antitrust laws against a person to whom a certificate of review is issued which is based on conduct which is specified in, and complies with the terms of, a certificate issued under [section 4013 of this title][/us/usc/t15/s4013] which certificate was in effect when the conduct occurred.
 
     (b) __Special restraint of trade civil actions; time limitations; certificate governed conduct presumed in compliance; award of costs to successful defendant; suit by Attorney General__ 
 

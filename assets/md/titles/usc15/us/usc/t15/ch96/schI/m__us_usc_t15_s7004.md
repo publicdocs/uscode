@@ -17,13 +17,13 @@
 
     (a) __Filing and access requirements__ 
 
-        Subject to subsection (c)(2) of this section, nothing in this subchapter limits or supersedes any requirement by a Federal regulatory agency, self-regulatory organization, or State regulatory agency that records be filed with such agency or organization in accordance with specified standards or formats.
+        Subject to subsection (c)(2), nothing in this subchapter limits or supersedes any requirement by a Federal regulatory agency, self-regulatory organization, or State regulatory agency that records be filed with such agency or organization in accordance with specified standards or formats.
 
     (b) __Preservation of existing rulemaking authority__ 
 
         (1) __Use of authority to interpret__ 
 
-        Subject to paragraph (2) and subsection (c) of this section, a Federal regulatory agency or State regulatory agency that is responsible for rulemaking under any other statute may interpret [section 7001 of this title][/us/usc/t15/s7001] with respect to such statute through—
+        Subject to paragraph (2) and subsection (c), a Federal regulatory agency or State regulatory agency that is responsible for rulemaking under any other statute may interpret [section 7001 of this title][/us/usc/t15/s7001] with respect to such statute through—
 
             (A) the issuance of regulations pursuant to a statute; or
 
@@ -63,7 +63,7 @@
 
             (B) __Paper or printed form__ 
 
-            Notwithstanding subsection (c)(1) of this section, a Federal regulatory agency or State regulatory agency may interpret [section 7001(d) of this title][/us/usc/t15/s7001/d] to require retention of a record in a tangible printed or paper form if—
+            Notwithstanding subsection (c)(1), a Federal regulatory agency or State regulatory agency may interpret [section 7001(d) of this title][/us/usc/t15/s7001/d] to require retention of a record in a tangible printed or paper form if—
 
                 (i) there is a compelling governmental interest relating to law enforcement or national security for imposing such requirement; and
 
@@ -77,11 +77,11 @@
 
         (1) __Reimposing paper prohibited__ 
 
-            Nothing in subsection (b) of this section (other than paragraph (3)(B) thereof) shall be construed to grant any Federal regulatory agency or State regulatory agency authority to impose or reimpose any requirement that a record be in a tangible printed or paper form.
+            Nothing in subsection (b) (other than paragraph (3)(B) thereof) shall be construed to grant any Federal regulatory agency or State regulatory agency authority to impose or reimpose any requirement that a record be in a tangible printed or paper form.
 
         (2) __Continuing obligation under Government Paperwork Elimination Act__ 
 
-            Nothing in subsection (a) or (b) of this section relieves any Federal regulatory agency of its obligations under the Government Paperwork Elimination Act (title XVII of [Public Law 105–277][/us/pl/105/277]).
+            Nothing in subsection (a) or (b) relieves any Federal regulatory agency of its obligations under the Government Paperwork Elimination Act (title XVII of [Public Law 105–277][/us/pl/105/277]).
 
     (d) __Authority to exempt from consent provision__ 
 

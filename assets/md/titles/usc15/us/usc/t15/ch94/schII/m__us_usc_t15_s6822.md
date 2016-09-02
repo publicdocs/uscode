@@ -17,7 +17,7 @@
 
     (a) __Enforcement by Federal Trade Commission__ 
 
-        Except as provided in subsection (b) of this section, compliance with this subchapter shall be enforced by the Federal Trade Commission in the same manner and with the same power and authority as the Commission has under the Fair Debt Collection Practices Act \[[15 U.S.C. 1692][/us/usc/t15/s1692] et seq.\] to enforce compliance with such Act.
+        Except as provided in subsection (b), compliance with this subchapter shall be enforced by the Federal Trade Commission in the same manner and with the same power and authority as the Commission has under the Fair Debt Collection Practices Act \[[15 U.S.C. 1692][/us/usc/t15/s1692] et seq.\] to enforce compliance with such Act.
 
     (b) __Enforcement by other agencies in certain cases__ 
 

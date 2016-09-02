@@ -27,7 +27,7 @@
 
     (b) __Prohibition on solicitation of a person to obtain customer information from financial institution under false pretenses__ 
 
-        It shall be a violation of this subchapter to request a person to obtain customer information of a financial institution, knowing that the person will obtain, or attempt to obtain, the information from the institution in any manner described in subsection (a) of this section.
+        It shall be a violation of this subchapter to request a person to obtain customer information of a financial institution, knowing that the person will obtain, or attempt to obtain, the information from the institution in any manner described in subsection (a).
 
     (c) __Nonapplicability to law enforcement agencies__ 
 
@@ -41,7 +41,7 @@
 
         (2) investigating allegations of misconduct or negligence on the part of any officer, employee, or agent of the financial institution; or
 
-        (3) recovering customer information of the financial institution which was obtained or received by another person in any manner described in subsection (a) or (b) of this section.
+        (3) recovering customer information of the financial institution which was obtained or received by another person in any manner described in subsection (a) or (b).
 
     (e) __Nonapplicability to insurance institutions for investigation of insurance fraud__ 
 

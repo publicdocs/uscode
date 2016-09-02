@@ -25,7 +25,7 @@
 
     (b) __Initial report__ 
 
-        The Secretary shall submit a report to the Congress within 1 year after February 14, 1992, on the actions taken under subsection (a) of this section.
+        The Secretary shall submit a report to the Congress within 1 year after February 14, 1992, on the actions taken under subsection (a).
 
 ([Pub. L. 102–245, title V, § 504][/us/pl/102/245/s504], Feb. 14, 1992, [106 Stat. 24][/us/stat/106/24].)
 

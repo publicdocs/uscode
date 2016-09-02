@@ -17,7 +17,7 @@
 
     (a) __In general__ 
 
-        Except in a Y2K action that is a contract action, and except as provided in subsections (b) through (g) of this section, a person against whom a final judgment is entered in a Y2K action shall be liable solely for the portion of the judgment that corresponds to the relative and proportionate responsibility of that person. In determining the percentage of responsibility of any defendant, the trier of fact shall determine that percentage as a percentage of the total fault of all persons, including the plaintiff, who caused or contributed to the total loss incurred by the plaintiff.
+        Except in a Y2K action that is a contract action, and except as provided in subsections (b) through (g), a person against whom a final judgment is entered in a Y2K action shall be liable solely for the portion of the judgment that corresponds to the relative and proportionate responsibility of that person. In determining the percentage of responsibility of any defendant, the trier of fact shall determine that percentage as a percentage of the total fault of all persons, including the plaintiff, who caused or contributed to the total loss incurred by the plaintiff.
 
     (b) __Proportionate liability__ 
 
@@ -51,7 +51,7 @@
 
         (1) __In general__ 
 
-        Notwithstanding subsection (a) of this section, the liability of a defendant in a Y2K action that is not a contract action is joint and several if the trier of fact specifically determines that the defendant—
+        Notwithstanding subsection (a), the liability of a defendant in a Y2K action that is not a contract action is joint and several if the trier of fact specifically determines that the defendant—
 
             (A) acted with specific intent to injure the plaintiff; or
 
@@ -61,7 +61,7 @@
 
             (A) __Knowing commission of fraud described__ 
 
-            For purposes of subsection (b)(1)(B)(ii) of this section and paragraph (1)(B) of this subsection, a defendant knowingly committed fraud if the defendant—
+            For purposes of subsection (b)(1)(B)(ii) and paragraph (1)(B) of this subsection, a defendant knowingly committed fraud if the defendant—
 
                 (i) made an untrue statement of a material fact, with actual knowledge that the statement was false;
 
@@ -71,11 +71,11 @@
 
             (B) __Recklessness__ 
 
-                For purposes of subsection (b)(1)(B) of this section and paragraph (1) of this subsection, reckless conduct by the defendant does not constitute either a specific intent to injure, or the knowing commission of fraud, by the defendant.
+                For purposes of subsection (b)(1)(B) and paragraph (1) of this subsection, reckless conduct by the defendant does not constitute either a specific intent to injure, or the knowing commission of fraud, by the defendant.
 
         (3) __Right to contribution not affected__ 
 
-            Nothing in this section affects the right, under any other law, of a defendant to contribution with respect to another defendant found under subsection (b)(1)(B) of this section, or determined under paragraph (1)(B) of this subsection, to have acted with specific intent to injure the plaintiff or to have knowingly committed fraud.
+            Nothing in this section affects the right, under any other law, of a defendant to contribution with respect to another defendant found under subsection (b)(1)(B), or determined under paragraph (1)(B) of this subsection, to have acted with specific intent to injure the plaintiff or to have knowingly committed fraud.
 
     (d) __Special rules__ 
 
@@ -83,7 +83,7 @@
 
             (A) __In general__ 
 
-            Notwithstanding subsection (a) of this section, if, upon motion made not later than 6 months after a final judgment is entered in any Y2K action that is not a contract action, the court determines that all or part of the share of the judgment against a defendant for compensatory damages is not collectible against that defendant, then each other defendant in the action is liable for the uncollectible share as follows:
+            Notwithstanding subsection (a), if, upon motion made not later than 6 months after a final judgment is entered in any Y2K action that is not a contract action, the court determines that all or part of the share of the judgment against a defendant for compensatory damages is not collectible against that defendant, then each other defendant in the action is liable for the uncollectible share as follows:
 
                 (i) __Percentage of net worth__ 
 
@@ -149,7 +149,7 @@
 
         (3) __Nondisclosure to jury__ 
 
-            The standard for allocation of damages under subsection (a) of this section and subsection (b)(1) of this section, and the procedure for reallocation of uncollectible shares under paragraph (1) of this subsection, shall not be disclosed to members of the jury.
+            The standard for allocation of damages under subsection (a) and subsection (b)(1), and the procedure for reallocation of uncollectible shares under paragraph (1) of this subsection, shall not be disclosed to members of the jury.
 
     (e) __Settlement discharge__ 
 
@@ -177,7 +177,7 @@
 
         (2) __Statute of limitations for contribution__ 
 
-            An action for contribution in connection with a Y2K action that is not a contract action shall be brought not later than 6 months after the entry of a final, nonappealable judgment in the Y2K action, except that an action for contribution brought by a defendant who was required to make an additional payment under subsection (d)(1) of this section may be brought not later than 6 months after the date on which such payment was made.
+            An action for contribution in connection with a Y2K action that is not a contract action shall be brought not later than 6 months after the entry of a final, nonappealable judgment in the Y2K action, except that an action for contribution brought by a defendant who was required to make an additional payment under subsection (d)(1) may be brought not later than 6 months after the date on which such payment was made.
 
     (g) __More protective State law not preempted__ 
 

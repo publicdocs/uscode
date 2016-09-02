@@ -17,7 +17,7 @@
 
     (a) __Acts prohibited__ 
 
-        It shall be unlawful for any person to manufacture, enter into commerce, ship, transport, or receive any toy, look-alike, or imitation firearm unless such firearm contains, or has affixed to it, a marking approved by the Secretary of Commerce, as provided in subsection (b) of this section.
+        It shall be unlawful for any person to manufacture, enter into commerce, ship, transport, or receive any toy, look-alike, or imitation firearm unless such firearm contains, or has affixed to it, a marking approved by the Secretary of Commerce, as provided in subsection (b).
 
     (b) __Distinctive marking or device; exception; waiver; adjustments and changes__ 
 
@@ -37,7 +37,7 @@
 
     (c)  __ <sup>\[__  __1__  __\]</sup> __  __ <sup><sup> __  __1__  __ So in original. Probably should be “(e)”.__  __ </sup></sup> __  __Technical evaluation of marking systems__ 
 
-        The Director of  <sup>\[2\]</sup>  <sup><sup> 2 So in original. Probably should be “of the”. </sup></sup>  National Institute of Justice is authorized and directed to conduct a technical evaluation of the marking systems provided for in subsection (b) of this section to determine their effectiveness in police combat situations. The Director shall begin the study within 3 months after November 5, 1988, and such study shall be completed within 9 months after November 5, 1988.
+        The Director of  <sup>\[2\]</sup>  <sup><sup> 2 So in original. Probably should be “of the”. </sup></sup>  National Institute of Justice is authorized and directed to conduct a technical evaluation of the marking systems provided for in subsection (b) to determine their effectiveness in police combat situations. The Director shall begin the study within 3 months after November 5, 1988, and such study shall be completed within 9 months after November 5, 1988.
 
     (f) __Effective date__ 
 

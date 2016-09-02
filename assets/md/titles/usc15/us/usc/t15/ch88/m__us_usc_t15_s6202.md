@@ -29,7 +29,7 @@
 
     (c) __Special scope of authority__ 
 
-        An investigation may be conducted under subsection (b) of this section, and antitrust evidence obtained through such investigation may be provided, without regard to whether the conduct investigated violates any of the Federal antitrust laws.
+        An investigation may be conducted under subsection (b), and antitrust evidence obtained through such investigation may be provided, without regard to whether the conduct investigated violates any of the Federal antitrust laws.
 
     (d) __Rights and privileges preserved__ 
 

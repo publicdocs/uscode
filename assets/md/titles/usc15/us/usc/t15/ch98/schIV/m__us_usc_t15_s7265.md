@@ -21,7 +21,7 @@
 
     (b) __Considerations__ 
 
-    In defining the term “financial expert” for purposes of subsection (a) of this section, the Commission shall consider whether a person has, through education and experience as a public accountant or auditor or a principal financial officer, comptroller, or principal accounting officer of an issuer, or from a position involving the performance of similar functions—
+    In defining the term “financial expert” for purposes of subsection (a), the Commission shall consider whether a person has, through education and experience as a public accountant or auditor or a principal financial officer, comptroller, or principal accounting officer of an issuer, or from a position involving the performance of similar functions—
 
         (1) an understanding of generally accepted accounting principles and financial statements;
 

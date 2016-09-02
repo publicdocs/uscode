@@ -23,7 +23,7 @@
 
         (1) __In general__ 
 
-        Subject to the evidentiary standard established by subsection (a) of this section, punitive damages permitted under applicable law against a defendant described in paragraph (2) in a Y2K action may not exceed the lesser of—
+        Subject to the evidentiary standard established by subsection (a), punitive damages permitted under applicable law against a defendant described in paragraph (2) in a Y2K action may not exceed the lesser of—
 
             (A) three times the amount awarded for compensatory damages; or
 

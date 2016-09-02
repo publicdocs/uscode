@@ -21,7 +21,7 @@
 
     (b) __Council recommendations and report__ 
 
-    The Council shall include in the report submitted under subsection (a) of this section the following:
+    The Council shall include in the report submitted under subsection (a) the following:
 
         (1) identification of potential sources of Federal funding from department and agency budgets for Sematech and recommendations concerning methods and terms of Federal financial participation in Sematech, including grants, loans, loan guarantees, and contributions in kind. The feasibility of methods of Federal recoupment shall also be considered;
 

@@ -17,17 +17,17 @@
 
     (a) __General authority__ 
 
-        Subject to subsections (b) and (c) of this section, the Federal Trade Commission may bring a criminal contempt action for violations of orders of the Commission obtained in cases brought under [section 53(b) of this title][/us/usc/t15/s53/b].
+        Subject to subsections (b) and (c), the Federal Trade Commission may bring a criminal contempt action for violations of orders of the Commission obtained in cases brought under [section 53(b) of this title][/us/usc/t15/s53/b].
 
     (b) __Appointment__ 
 
-        An action authorized by subsection (a) of this section may be brought by the Federal Trade Commission only after, and pursuant to, the appointment by the Attorney General of an attorney employed by the Commission, as a special assistant United States Attorney.
+        An action authorized by subsection (a) may be brought by the Federal Trade Commission only after, and pursuant to, the appointment by the Attorney General of an attorney employed by the Commission, as a special assistant United States Attorney.
 
     (c) __Request for appointment__ 
 
         (1) __Appointment upon request or motion__ 
 
-            A special assistant United States Attorney may be appointed under subsection (b) of this section upon the request of the Federal Trade Commission or the court which has entered the order for which contempt is sought or upon the Attorney General’s own motion.
+            A special assistant United States Attorney may be appointed under subsection (b) upon the request of the Federal Trade Commission or the court which has entered the order for which contempt is sought or upon the Attorney General’s own motion.
 
         (2) __Timing__ 
 
@@ -35,7 +35,7 @@
 
     (d) __Termination of authority__ 
 
-        The authority of the Federal Trade Commission to bring a criminal contempt action under subsection (a) of this section expires 2 years after the date of the first promulgation of rules under [section 6102 of this title][/us/usc/t15/s6102]. The expiration of such authority shall have no effect on an action brought before the expiration date.
+        The authority of the Federal Trade Commission to bring a criminal contempt action under subsection (a) expires 2 years after the date of the first promulgation of rules under [section 6102 of this title][/us/usc/t15/s6102]. The expiration of such authority shall have no effect on an action brought before the expiration date.
 
 ([Pub. L. 103–297, § 9][/us/pl/103/297/s9], Aug. 16, 1994, [108 Stat. 1550][/us/stat/108/1550].)
 

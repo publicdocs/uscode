@@ -21,7 +21,7 @@
 
     (b) __Review criteria__ 
 
-    For purposes of scheduling the reviews required by subsection (a) of this section, the Commission shall consider, among other factors—
+    For purposes of scheduling the reviews required by subsection (a), the Commission shall consider, among other factors—
 
         (1) issuers that have issued material restatements of financial results;
 

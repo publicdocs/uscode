@@ -21,7 +21,7 @@
 
     (b) __Expedited review__ 
 
-        The United States Court of Appeals in which a petition for review is filed in accordance with subsection (a) of this section shall complete all action on such petition, including rendering a judgment, before the end of the 60-day period beginning on the date on which such petition is filed, unless all parties to such proceeding agree to any extension of such period.
+        The United States Court of Appeals in which a petition for review is filed in accordance with subsection (a) shall complete all action on such petition, including rendering a judgment, before the end of the 60-day period beginning on the date on which such petition is filed, unless all parties to such proceeding agree to any extension of such period.
 
     (c) __Supreme Court review__ 
 

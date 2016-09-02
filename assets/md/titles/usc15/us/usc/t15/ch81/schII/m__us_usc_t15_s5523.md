@@ -17,7 +17,7 @@
 
     (a) __General responsibilities__ 
 
-    As part of the Program described in subchapter I of this chapter, the Secretary of Energy shall—
+    As part of the Program described in subchapter I, the Secretary of Energy shall—
 
         (1) conduct and support basic and applied research in high-performance computing and networking to support fundamental research in science and engineering disciplines related to energy applications; and
 

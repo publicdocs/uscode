@@ -65,7 +65,7 @@
 
     (d) __Periodic reports__ 
 
-        Each registered public accounting firm shall submit an annual report to the Board, and may be required to report more frequently, as necessary to update the information contained in its application for registration under this section, and to provide to the Board such additional information as the Board or the Commission may specify, in accordance with subsection (b)(2) of this section.
+        Each registered public accounting firm shall submit an annual report to the Board, and may be required to report more frequently, as necessary to update the information contained in its application for registration under this section, and to provide to the Board such additional information as the Board or the Commission may specify, in accordance with subsection (b)(2).
 
     (e) __Public availability__ 
 

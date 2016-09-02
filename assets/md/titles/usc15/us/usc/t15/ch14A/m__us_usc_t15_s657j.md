@@ -37,11 +37,37 @@
 
         (3) When the primary contact person managing the loan application has changed.
 
-([Pub. L. 85–536, § 2][/us/pl/85/536/s2]\[38\], as added [Pub. L. 110–234, title XII, § 12067][/us/pl/110/234/s12067], May 22, 2008, [122 Stat. 1410][/us/stat/122/1410], and [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title XII, § 12067, June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 2172.)
+    (c)  __Report on web portal for disaster loan application status__ 
+
+        (1) __In general__ 
+
+            Not later than 90 days after November 25, 2015, the Administrator shall submit to the Committee on Small Business and Entrepreneurship of the Senate and the Committee on Small Business of the House of Representatives a report relating to the creation of a web portal to the  <sup>\[1\]</sup>  <sup><sup> 1 So in original. The word “the” probably should not appear. </sup></sup>  track the status of applications for disaster assistance under [section 636(b) of this title][/us/usc/t15/s636/b].
+
+        (2) __Contents__ 
+
+        The report under paragraph (1) shall include—
+
+            (A) information on the progress of the Administration in implementing the information system under subsection (a);
+
+            (B) recommendations from the Administration relating to the creation of a web portal for applicants to check the status of an application for disaster assistance under [section 636(b) of this title][/us/usc/t15/s636/b], including a review of best practices and web portal models from the private sector;
+
+            (C) information on any related costs or staffing needed to implement such a web portal;
+
+            (D) information on whether such a web portal can maintain high standards for data privacy and data security;
+
+            (E) information on whether such a web portal will minimize redundancy among Administration disaster programs, improve management of the number of inquiries made by disaster applicants to employees located in the area affected by the disaster and to call centers, and reduce paperwork burdens on disaster victims; and
+
+            (F) such additional information as is determined necessary by the Administrator.
+
+([Pub. L. 85–536, § 2][/us/pl/85/536/s2]\[38\], as added [Pub. L. 110–234, title XII, § 12067][/us/pl/110/234/s12067], May 22, 2008, [122 Stat. 1410][/us/stat/122/1410], and [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title XII, § 12067, June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 2172; [Pub. L. 114–88, div. B, title III, § 2303][/us/pl/114/88/s2303], Nov. 25, 2015, [129 Stat. 696][/us/stat/129/696].)
 
  __Codification__ 
 
     [Pub. L. 110–234][/us/pl/110/234] and [Pub. L. 110–246][/us/pl/110/246] enacted identical sections. [Pub. L. 110–234][/us/pl/110/234] was repealed by [section 4(a) of Pub. L. 110–246][/us/pl/110/246/s4/a].
+
+ __Amendments__ 
+
+    2015—Subsec. (c). [Pub. L. 114–88][/us/pl/114/88] added subsec. (c).
 
  __Effective Date__ 
 
@@ -54,15 +80,20 @@
 ----------
 ----------
 
+[/us/usc/t15/s636/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs636%2Fb
+[/us/usc/t15/s636/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs636%2Fb
 [/us/pl/85/536/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F536%2Fs2
 [/us/pl/110/234/s12067]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2Fs12067
 [/us/stat/122/1410]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1410
 [/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
 [/us/stat/122/1664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1664
+[/us/pl/114/88/s2303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F88%2Fs2303
+[/us/stat/129/696]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F696
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
+[/us/pl/114/88]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F88
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234

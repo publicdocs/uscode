@@ -115,11 +115,11 @@
 
     (b) __Rulemaking__ 
 
-        The Commission shall prescribe the rules under subsection (a) of this section within 270 days after October 28, 1992. Such rules shall be prescribed in accordance with [section 553 of title 5][/us/usc/t5/s553].
+        The Commission shall prescribe the rules under subsection (a) within 270 days after October 28, 1992. Such rules shall be prescribed in accordance with [section 553 of title 5][/us/usc/t5/s553].
 
     (c) __Enforcement__ 
 
-        Any violation of any rule prescribed under subsection (a) of this section shall be treated as a violation of a rule respecting unfair or deceptive acts or practices under [section 45 of this title][/us/usc/t15/s45]. Notwithstanding [section 45(a)(2) of this title][/us/usc/t15/s45/a/2], communications common carriers shall be subject to the jurisdiction of the Commission for purposes of this subchapter.
+        Any violation of any rule prescribed under subsection (a) shall be treated as a violation of a rule respecting unfair or deceptive acts or practices under [section 45 of this title][/us/usc/t15/s45]. Notwithstanding [section 45(a)(2) of this title][/us/usc/t15/s45/a/2], communications common carriers shall be subject to the jurisdiction of the Commission for purposes of this subchapter.
 
 ([Pub. L. 102–556, title II, § 201][/us/pl/102/556/s201], Oct. 28, 1992, [106 Stat. 4187][/us/stat/106/4187].)
 

@@ -25,7 +25,7 @@
 
     (c) __Reports__ 
 
-        Not later than one year after October 9, 1996, the Secretary of Labor shall submit a report to the Congress on the findings of the study conducted pursuant to subsection (a) of this section. Not later than 180 days after October 9, 1996, the Secretary of Health and Human Services shall submit a report to the Congress on the findings of the study conducted pursuant to subsection (b) of this section.
+        Not later than one year after October 9, 1996, the Secretary of Labor shall submit a report to the Congress on the findings of the study conducted pursuant to subsection (a). Not later than 180 days after October 9, 1996, the Secretary of Health and Human Services shall submit a report to the Congress on the findings of the study conducted pursuant to subsection (b).
 
 ([Pub. L. 104–272, § 20][/us/pl/104/272/s20], formerly § 12, Oct. 9, 1996, [110 Stat. 3313][/us/stat/110/3313]; renumbered § 20, [Pub. L. 106–210, § 4(1)][/us/pl/106/210/s4/1], May 26, 2000, [114 Stat. 322][/us/stat/114/322].)
 

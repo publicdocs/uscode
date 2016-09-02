@@ -39,11 +39,11 @@
 
     (b) __Consultation__ 
 
-        The Secretary shall consult with representatives of State insurance authorities designated by the National Association of Insurance Commissioners, and also with financial services industry, consumer organizations and privacy groups, and other representatives of the general public, in formulating and conducting the study required by subsection (a) of this section.
+        The Secretary shall consult with representatives of State insurance authorities designated by the National Association of Insurance Commissioners, and also with financial services industry, consumer organizations and privacy groups, and other representatives of the general public, in formulating and conducting the study required by subsection (a).
 
     (c) __Report__ 
 
-        On or before January 1, 2002, the Secretary shall submit a report to the Congress containing the findings and conclusions of the study required under subsection (a) of this section, together with such recommendations for legislative or administrative action as may be appropriate.
+        On or before January 1, 2002, the Secretary shall submit a report to the Congress containing the findings and conclusions of the study required under subsection (a), together with such recommendations for legislative or administrative action as may be appropriate.
 
 ([Pub. L. 106–102, title V, § 508][/us/pl/106/102/s508], Nov. 12, 1999, [113 Stat. 1442][/us/stat/113/1442].)
 

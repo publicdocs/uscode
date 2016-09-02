@@ -45,7 +45,7 @@
 
     (c) __Exercise of certain powers__ 
 
-        For the purpose of the exercise by any agency referred to in subsection (a)  <sup>\[2\]</sup>  <sup><sup> 2 So in original. Probably should be subsection “(b)”. </sup></sup>  of this section of its powers under any Act referred to in that subsection, a violation of any requirement imposed under this chapter shall be deemed to be a violation of a requirement imposed under that Act. In addition to its powers under any provision of law specifically referred to in subsection (a)  <sup>\[2\]</sup>  of this section, each of the agencies referred to in that subsection may exercise, for the purpose of enforcing compliance with any requirement imposed under this chapter, any other authority conferred on it by law.
+        For the purpose of the exercise by any agency referred to in subsection (a)  <sup>\[2\]</sup>  <sup><sup> 2 So in original. Probably should be subsection “(b)”. </sup></sup>  of its powers under any Act referred to in that subsection, a violation of any requirement imposed under this chapter shall be deemed to be a violation of a requirement imposed under that Act. In addition to its powers under any provision of law specifically referred to in subsection (a), <sup>\[2\]</sup>  each of the agencies referred to in that subsection may exercise, for the purpose of enforcing compliance with any requirement imposed under this chapter, any other authority conferred on it by law.
 
     (d) __Actions by Commission__ 
 

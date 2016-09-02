@@ -47,7 +47,7 @@
 
     (d) __Condition for validity__ 
 
-        An antitrust mutual assistance agreement, or an agreement that makes an amendment to an antitrust mutual assistance agreement, with respect to which publication does not occur in accordance with subsections (a), (b), and (c) of this section shall not be considered to be in effect under this chapter.
+        An antitrust mutual assistance agreement, or an agreement that makes an amendment to an antitrust mutual assistance agreement, with respect to which publication does not occur in accordance with subsections (a), (b), and (c) shall not be considered to be in effect under this chapter.
 
 ([Pub. L. 103–438, § 7][/us/pl/103/438/s7], Nov. 2, 1994, [108 Stat. 4600][/us/stat/108/4600].)
 

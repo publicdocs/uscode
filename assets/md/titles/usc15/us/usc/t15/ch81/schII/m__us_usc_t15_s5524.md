@@ -17,7 +17,7 @@
 
     (a) __General responsibilities__ 
 
-    As part of the Program described in subchapter I of this chapter—
+    As part of the Program described in subchapter I—
 
         (1)
 

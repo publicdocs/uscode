@@ -21,11 +21,11 @@
 
     (b) __Exceptions__ 
 
-    Subsection (a) of this section does not require the release of—
+    Subsection (a) does not require the release of—
 
         (1) information described by [section 552(b) of title 5][/us/usc/t5/s552/b] or protected from disclosure by any other law of the United States; or
 
-        (2) information described in subsection (a) of this section by the National Institute of Standards and Technology or by a Team until the report required by [section 7307 of this title][/us/usc/t15/s7307] is issued.
+        (2) information described in subsection (a) by the National Institute of Standards and Technology or by a Team until the report required by [section 7307 of this title][/us/usc/t15/s7307] is issued.
 
     (c) __Protection of voluntary submission of information__ 
 

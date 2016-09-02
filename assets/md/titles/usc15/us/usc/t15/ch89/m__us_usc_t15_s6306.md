@@ -23,7 +23,7 @@
 
         (2)
 
-         Procedures to ensure that, except as provided in subsection (b) of this section, no boxer is permitted to box while under suspension from any boxing commission due to—
+         Procedures to ensure that, except as provided in subsection (b), no boxer is permitted to box while under suspension from any boxing commission due to—
 
             (A) a recent knockout or series of consecutive losses;
 
@@ -49,7 +49,7 @@
 
     A boxing commission may allow a boxer who is under suspension in any State to participate in a professional boxing match—
 
-        (1) for any reason other than those listed in subsection (a) of this section if such commission notifies in writing and consults with the designated official of the suspending State’s boxing commission prior to the grant of approval for such individual to participate in that professional boxing match; or
+        (1) for any reason other than those listed in subsection (a) if such commission notifies in writing and consults with the designated official of the suspending State’s boxing commission prior to the grant of approval for such individual to participate in that professional boxing match; or
 
         (2) if the boxer appeals to the Association of Boxing Commissions, and the Association of Boxing Commissions determines that the suspension of such boxer was without sufficient grounds, for an improper purpose, or not related to the health and safety of the boxer or the purposes of this chapter.
 

@@ -41,19 +41,19 @@
 
     (b) __Publication; Federal Register; notice__ 
 
-        Except as provided in subsection (e) of this section, not later than 30 days after receiving a notification filed under subsection (a) of this section, the Attorney General or the Commission shall publish in the Federal Register a notice with respect to such venture that identifies the parties to such venture and that describes in general terms the area of planned activity of such venture, or a notice with respect to such standards development activity that identifies the standards development organization engaged in such activity and that describes such activity in general terms. Prior to its publication, the contents of such notice shall be made available to the parties to such venture or available to such organization, as the case may be.
+        Except as provided in subsection (e), not later than 30 days after receiving a notification filed under subsection (a), the Attorney General or the Commission shall publish in the Federal Register a notice with respect to such venture that identifies the parties to such venture and that describes in general terms the area of planned activity of such venture, or a notice with respect to such standards development activity that identifies the standards development organization engaged in such activity and that describes such activity in general terms. Prior to its publication, the contents of such notice shall be made available to the parties to such venture or available to such organization, as the case may be.
 
     (c) __Effect of notice__ 
 
-    If with respect to a notification filed under subsection (a) of this section, notice is published in the Federal Register, then such notification shall operate to convey the protections of [section 4303 of this title][/us/usc/t15/s4303] as of the earlier of—
+    If with respect to a notification filed under subsection (a), notice is published in the Federal Register, then such notification shall operate to convey the protections of [section 4303 of this title][/us/usc/t15/s4303] as of the earlier of—
 
-        (1) the date of publication of notice under subsection (b) of this section, or
+        (1) the date of publication of notice under subsection (b), or
 
-        (2) if such notice is not so published within the time required by subsection (b) of this section, after the expiration of the 30-day period beginning on the date the Attorney General or the Commission receives the applicable information described in subsection (a) of this section.
+        (2) if such notice is not so published within the time required by subsection (b), after the expiration of the 30-day period beginning on the date the Attorney General or the Commission receives the applicable information described in subsection (a).
 
     (d) __Exemption; disclosure; information__ 
 
-    Except with respect to the information published pursuant to subsection (b) of this section—
+    Except with respect to the information published pursuant to subsection (b)—
 
         (1) all information and documentary material submitted as part of a notification filed pursuant to this section, and
 
@@ -63,7 +63,7 @@
 
     (e) __Withdrawal of notification__ 
 
-        Any person or standards development organization that files a notification pursuant to this section may withdraw such notification before notice of the joint venture involved is published under subsection (b) of this section. Any notification so withdrawn shall not be subject to subsection (b) of this section and shall not confer the protections of [section 4303 of this title][/us/usc/t15/s4303] on any person or any standards development organization with respect to whom such notification was filed.
+        Any person or standards development organization that files a notification pursuant to this section may withdraw such notification before notice of the joint venture involved is published under subsection (b). Any notification so withdrawn shall not be subject to subsection (b) and shall not confer the protections of [section 4303 of this title][/us/usc/t15/s4303] on any person or any standards development organization with respect to whom such notification was filed.
 
     (f) __Judicial review; inapplicable with respect to notifications__ 
 
@@ -71,7 +71,7 @@
 
     (g) __Admissibility into evidence; disclosure of conduct; publication of notice; supporting or answering claims under antitrust laws__ 
 
-        (1) Except as provided in paragraph (2), for the sole purpose of establishing that a person or standards development organization is entitled to the protections of [section 4303 of this title][/us/usc/t15/s4303], the fact of disclosure of conduct under subsection (a) of this section and the fact of publication of a notice under subsection (b) of this section shall be admissible into evidence in any judicial or administrative proceeding.
+        (1) Except as provided in paragraph (2), for the sole purpose of establishing that a person or standards development organization is entitled to the protections of [section 4303 of this title][/us/usc/t15/s4303], the fact of disclosure of conduct under subsection (a) and the fact of publication of a notice under subsection (b) shall be admissible into evidence in any judicial or administrative proceeding.
 
         (2) No action by the Attorney General or the Commission taken pursuant to this section shall be admissible into evidence in any such proceeding for the purpose of supporting or answering any claim under the antitrust laws or under any State law similar to the antitrust laws.
 

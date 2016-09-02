@@ -49,7 +49,7 @@
 
     (c) __Strategic plan__ 
 
-    To carry out subsection (b) of this section, the TPCC shall develop and implement a governmentwide strategic plan for Federal trade promotion efforts. Such plan shall—
+    To carry out subsection (b), the TPCC shall develop and implement a governmentwide strategic plan for Federal trade promotion efforts. Such plan shall—
 
         (1) establish a set of priorities for Federal activities in support of United States exports and explain the rationale for the priorities;
 
@@ -107,7 +107,7 @@
 
     The chairperson of the TPCC shall prepare and submit to the Committee on Banking, Housing, and Urban Affairs of the Senate, and the Committee on International Relations of the House of Representatives, not later than March 30 of each year, a report describing—
 
-        (1) the strategic plan developed by the TPCC pursuant to subsection (c) of this section, the implementation of such plan, and any revisions thereto; and
+        (1) the strategic plan developed by the TPCC pursuant to subsection (c), the implementation of such plan, and any revisions thereto; and
 
         (2) the implementation of sections 5823 and 5824 of title 22  <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  concerning funding for export promotion activities and the interagency working groups on energy of the TPCC.
 

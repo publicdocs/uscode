@@ -21,7 +21,7 @@
 
     (b) __Budget categories__ 
 
-        The programs, projects, and activities described in subsection (a) of this section shall be included in the budget for general science and research activities of the Department of Energy, except that any programs, projects, and activities that directly support and directly benefit the defense activities of the Department shall be included in the budget for atomic energy defense activities of the Department of Energy.
+        The programs, projects, and activities described in subsection (a) shall be included in the budget for general science and research activities of the Department of Energy, except that any programs, projects, and activities that directly support and directly benefit the defense activities of the Department shall be included in the budget for atomic energy defense activities of the Department of Energy.
 
 ([Pub. L. 100–180, div. C, title I, § 3146][/us/pl/100/180/s3146], Dec. 4, 1987, [101 Stat. 1243][/us/stat/101/1243].)
 

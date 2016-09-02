@@ -17,7 +17,7 @@
 
     (a) __General responsibilities__ 
 
-        As part of the Program described in subchapter I of this chapter, the Environmental Protection Agency shall conduct basic and applied research directed toward the advancement and dissemination of computational techniques and software tools which form the core of ecosystem, atmospheric chemistry, and atmospheric dynamics models.
+        As part of the Program described in subchapter I, the Environmental Protection Agency shall conduct basic and applied research directed toward the advancement and dissemination of computational techniques and software tools which form the core of ecosystem, atmospheric chemistry, and atmospheric dynamics models.
 
     (b) __Authorization of appropriations__ 
 

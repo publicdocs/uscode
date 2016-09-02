@@ -21,7 +21,7 @@
 
     (b) __Recipients of assistance__ 
 
-    Assistance under subsection (a) of this section may be provided to—
+    Assistance under subsection (a) may be provided to—
 
         (1) nonprofit industry organizations,
 
@@ -31,7 +31,7 @@
 
         (4) private industry firms or groups of firms in cases where no entity described in paragraph (1), (2), or (3) represents that industry,
 
-        to provide the services necessary to operate trade shows described in subsection (a) of this section.
+        to provide the services necessary to operate trade shows described in subsection (a).
 
     (c) __Assistance to small businesses__ 
 

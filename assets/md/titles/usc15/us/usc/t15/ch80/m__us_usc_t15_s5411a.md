@@ -21,7 +21,7 @@
 
     (b) __Accreditation__ 
 
-        A person publishing a document setting forth guidance or requirements for the approval of accreditation bodies to accredit third parties described in subsection (a) of this section may petition the Director to approve such document for use as described in [section 5402(7)(B)(iii)(I) of this title][/us/usc/t15/s5402/7/B/iii/I]. The Director shall act upon a petition within 180 days after its filing, and shall approve such petition if the document provides equal or greater rigor and reliability as compared to ISO/IEC Guide 61.
+        A person publishing a document setting forth guidance or requirements for the approval of accreditation bodies to accredit third parties described in subsection (a) may petition the Director to approve such document for use as described in [section 5402(7)(B)(iii)(I) of this title][/us/usc/t15/s5402/7/B/iii/I]. The Director shall act upon a petition within 180 days after its filing, and shall approve such petition if the document provides equal or greater rigor and reliability as compared to ISO/IEC Guide 61.
 
     (c) __Laboratory accreditation__ 
 
@@ -33,9 +33,9 @@
 
     (e) __Affirmation__ 
 
-        (1) An accreditation body accrediting third parties who certify manufacturing systems as fastener quality assurance systems as described in [section 5402(7)(B)(iii)(I) of this title][/us/usc/t15/s5402/7/B/iii/I] shall affirm to the Director that it meets the requirements of ISO/IEC Guide 61 (or another document approved by the Director under subsection (b) of this section), including revisions from time-to-time.
+        (1) An accreditation body accrediting third parties who certify manufacturing systems as fastener quality assurance systems as described in [section 5402(7)(B)(iii)(I) of this title][/us/usc/t15/s5402/7/B/iii/I] shall affirm to the Director that it meets the requirements of ISO/IEC Guide 61 (or another document approved by the Director under subsection (b)), including revisions from time-to-time.
 
-        (2) An accreditation body accrediting laboratories as described in [section 5402(1)(B) of this title][/us/usc/t15/s5402/1/B] shall affirm to the Director that it meets the requirements of ISO/IEC Guide 58 (or another document approved by the Director under subsection (d) of this section), including revisions from time-to-time.
+        (2) An accreditation body accrediting laboratories as described in [section 5402(1)(B) of this title][/us/usc/t15/s5402/1/B] shall affirm to the Director that it meets the requirements of ISO/IEC Guide 58 (or another document approved by the Director under subsection (d)), including revisions from time-to-time.
 
         (3) An affirmation required under paragraph (1) or (2) shall take the form of a self-declaration that the accreditation body meets the requirements of the applicable Guide, signed by an authorized representative of the accreditation body, without requirement for accompanying documentation. Any such affirmation shall be considered to be a continuous affirmation that the accreditation body meets the requirements of the applicable Guide, unless and until the affirmation is withdrawn by the accreditation body.
 

@@ -17,7 +17,7 @@
 
     (a) __Availability of resources__ 
 
-        Subject to subsection (b) of this section, the Secretary of Energy may make available to the Department of Defense, to any other department or agency of the Federal Government, and to any consortium that has entered into an agreement in furtherance of the Initiative any facilities, personnel, equipment, services, and other resources of the Department of Energy for the purpose of conducting research and development projects under the Initiative consistent with [section 4623(a) of this title][/us/usc/t15/s4623/a].
+        Subject to subsection (b), the Secretary of Energy may make available to the Department of Defense, to any other department or agency of the Federal Government, and to any consortium that has entered into an agreement in furtherance of the Initiative any facilities, personnel, equipment, services, and other resources of the Department of Energy for the purpose of conducting research and development projects under the Initiative consistent with [section 4623(a) of this title][/us/usc/t15/s4623/a].
 
     (b) __Reimbursement__ 
 

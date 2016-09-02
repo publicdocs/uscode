@@ -25,11 +25,11 @@
 
     (b) __Publication of notice of application; transmittal to Attorney General__ 
 
-        (1) Within ten days after an application submitted under subsection (a) of this section is received by the Secretary, the Secretary shall publish in the Federal Register a notice that announces that an application for a certificate of review has been submitted, identifies each person submitting the application, and describes the conduct for which the application is submitted.
+        (1) Within ten days after an application submitted under subsection (a) is received by the Secretary, the Secretary shall publish in the Federal Register a notice that announces that an application for a certificate of review has been submitted, identifies each person submitting the application, and describes the conduct for which the application is submitted.
 
         (2)
 
-         Not later than seven days after an application submitted under subsection (a) of this section is received by the Secretary, the Secretary shall transmit to the Attorney General—
+         Not later than seven days after an application submitted under subsection (a) is received by the Secretary, the Secretary shall transmit to the Attorney General—
 
             (A) a copy of the application,
 

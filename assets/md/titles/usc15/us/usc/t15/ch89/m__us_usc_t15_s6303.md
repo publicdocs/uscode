@@ -19,7 +19,7 @@
 
     (b)
 
-     For the purpose of this chapter, if no State commission is available to supervise a boxing match according to subsection (a) of this section, then—
+     For the purpose of this chapter, if no State commission is available to supervise a boxing match according to subsection (a), then—
 
         (1) the match may not be held unless it is supervised by an association of boxing commissions to which at least a majority of the States belong; and
 

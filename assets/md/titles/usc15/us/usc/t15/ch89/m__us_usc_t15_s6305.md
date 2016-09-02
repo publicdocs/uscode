@@ -27,7 +27,7 @@
 
         (1) __Issuance__ 
 
-        A boxing commission shall issue to each professional boxer who registers in accordance with subsection (a) of this section, an identification card that contains each of the following:
+        A boxing commission shall issue to each professional boxer who registers in accordance with subsection (a), an identification card that contains each of the following:
 
             (A) A recent photograph of the boxer.
 
@@ -45,7 +45,7 @@
 
     (c) __Health and safety disclosures__ 
 
-        It is the sense of the Congress that a boxing commission should, upon issuing an identification card to a boxer under subsection (b)(1) of this section, make a health and safety disclosure to that boxer as that commission considers appropriate. The health and safety disclosure should include the health and safety risks associated with boxing, and, in particular, the risk and frequency of brain injury and the advisability that a boxer periodically undergo medical procedures designed to detect brain injury.
+        It is the sense of the Congress that a boxing commission should, upon issuing an identification card to a boxer under subsection (b)(1), make a health and safety disclosure to that boxer as that commission considers appropriate. The health and safety disclosure should include the health and safety risks associated with boxing, and, in particular, the risk and frequency of brain injury and the advisability that a boxer periodically undergo medical procedures designed to detect brain injury.
 
 ([Pub. L. 104–272, § 6][/us/pl/104/272/s6], Oct. 9, 1996, [110 Stat. 3310][/us/stat/110/3310]; [Pub. L. 106–210, § 7(c)][/us/pl/106/210/s7/c], (f), May 26, 2000, [114 Stat. 328][/us/stat/114/328].)
 

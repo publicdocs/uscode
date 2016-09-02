@@ -25,7 +25,7 @@
 
     (b) __Internal control evaluation and reporting__ 
 
-        With respect to the internal control assessment required by subsection (a) of this section, each registered public accounting firm that prepares or issues the audit report for the issuer, other than an issuer that is an emerging growth company (as defined in [section 78c of this title][/us/usc/t15/s78c]), shall attest to, and report on, the assessment made by the management of the issuer. An attestation made under this subsection shall be made in accordance with standards for attestation engagements issued or adopted by the Board. Any such attestation shall not be the subject of a separate engagement.
+        With respect to the internal control assessment required by subsection (a), each registered public accounting firm that prepares or issues the audit report for the issuer, other than an issuer that is an emerging growth company (as defined in [section 78c of this title][/us/usc/t15/s78c]), shall attest to, and report on, the assessment made by the management of the issuer. An attestation made under this subsection shall be made in accordance with standards for attestation engagements issued or adopted by the Board. Any such attestation shall not be the subject of a separate engagement.
 
     (c) __Exemption for smaller issuers__ 
 

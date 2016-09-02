@@ -83,11 +83,11 @@
 
     (d) __Terms of membership__ 
 
-        Each member of the Council appointed under subsection (c)(7) of this section shall be appointed for a term of three years, except that of the members first appointed, two shall be appointed for a term of one year, five shall be appointed for a term of two years, and three shall be appointed for a term of three years, as designated by the President at the time of appointment. A member of the Council may serve after the expiration of the member’s term until a successor has taken office.
+        Each member of the Council appointed under subsection (c)(7) shall be appointed for a term of three years, except that of the members first appointed, two shall be appointed for a term of one year, five shall be appointed for a term of two years, and three shall be appointed for a term of three years, as designated by the President at the time of appointment. A member of the Council may serve after the expiration of the member’s term until a successor has taken office.
 
     (e) __Vacancies__ 
 
-        A vacancy in the Council shall not affect its powers but, in the case of a member appointed under subsection (c)(7) of this section, shall be filled in the same manner as the original appointment was made. Any member appointed to fill a vacancy for an unexpired term shall be appointed for the remainder of such term.
+        A vacancy in the Council shall not affect its powers but, in the case of a member appointed under subsection (c)(7), shall be filled in the same manner as the original appointment was made. Any member appointed to fill a vacancy for an unexpired term shall be appointed for the remainder of such term.
 
     (f) __Quorum__ 
 

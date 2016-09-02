@@ -53,7 +53,7 @@
 
     (c) __Deadline__ 
 
-        The rules required by subsection (a) of this section shall be effective not later than 30 days after July 30, 2002.
+        The rules required by subsection (a) shall be effective not later than 30 days after July 30, 2002.
 
 ([Pub. L. 107–204, title III, § 302][/us/pl/107/204/s302], July 30, 2002, [116 Stat. 777][/us/stat/116/777].)
 

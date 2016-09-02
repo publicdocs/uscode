@@ -17,7 +17,7 @@
 
     (a) __General responsibilities__ 
 
-        As part of the Program described in subchapter I of this chapter, the National Aeronautics and Space Administration shall conduct basic and applied research in high-performance computing, particularly in the field of computational science, with emphasis on aerospace sciences, earth and space sciences, and remote exploration and experimentation.
+        As part of the Program described in subchapter I, the National Aeronautics and Space Administration shall conduct basic and applied research in high-performance computing, particularly in the field of computational science, with emphasis on aerospace sciences, earth and space sciences, and remote exploration and experimentation.
 
     (b) __Authorization of appropriations__ 
 

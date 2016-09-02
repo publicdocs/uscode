@@ -25,7 +25,7 @@
 
     (b) __Exception for later legislation authorizing obligations or expenditures__ 
 
-        To the extent that legislation enacted after the making of an appropriation to carry out any export promotion program authorizes the obligation or expenditure thereof, the limitation contained in subsection (a) of this section shall have no effect.
+        To the extent that legislation enacted after the making of an appropriation to carry out any export promotion program authorizes the obligation or expenditure thereof, the limitation contained in subsection (a) shall have no effect.
 
     (c) __Provisions must be specifically superseded__ 
 

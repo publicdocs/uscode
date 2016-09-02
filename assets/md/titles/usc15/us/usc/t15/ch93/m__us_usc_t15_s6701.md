@@ -21,7 +21,7 @@
 
     (b) __Mandatory insurance licensing requirements__ 
 
-        No person shall engage in the business of insurance in a State as principal or agent unless such person is licensed as required by the appropriate insurance regulator of such State in accordance with the relevant State insurance law, subject to subsections (c), (d), and (e) of this section.
+        No person shall engage in the business of insurance in a State as principal or agent unless such person is licensed as required by the appropriate insurance regulator of such State in accordance with the relevant State insurance law, subject to subsections (c), (d), and (e).
 
     (c) __Affiliations__ 
 
@@ -125,7 +125,7 @@
 
                 (ii) __Nondiscrimination__ 
 
-                    Subsection (e) of this section does not apply with respect to any State statute, regulation, order, interpretation, or other action regarding insurance sales, solicitation, or cross marketing activities described in subparagraph (A) that was issued, adopted, or enacted before September 3, 1998, and that is not described in subparagraph (B).
+                    Subsection (e) does not apply with respect to any State statute, regulation, order, interpretation, or other action regarding insurance sales, solicitation, or cross marketing activities described in subparagraph (A) that was issued, adopted, or enacted before September 3, 1998, and that is not described in subparagraph (B).
 
                 (iii) __Construction__ 
 
@@ -145,7 +145,7 @@
 
             (C) do not relate to or directly or indirectly regulate insurance sales, solicitations, or cross marketing activities; and
 
-            (D) are not prohibited under subsection (e) of this section.
+            (D) are not prohibited under subsection (e).
 
         (4) __Financial activities other than insurance__ 
 
@@ -155,7 +155,7 @@
 
             (B) it does not relate to, and is not issued and adopted, or enacted for the purpose of regulating, directly or indirectly, the business of insurance activities other than sales, solicitations, or cross marketing activities, covered under paragraph (3);
 
-            (C) it does not relate to securities investigations or enforcement actions referred to in subsection (f) of this section; and
+            (C) it does not relate to securities investigations or enforcement actions referred to in subsection (f); and
 
             (D)
 
@@ -171,7 +171,7 @@
 
     (e) __Nondiscrimination__ 
 
-    Except as provided in any restrictions described in subsection (d)(2)(B) of this section, no State may, by statute, regulation, order, interpretation, or other action, regulate the insurance activities authorized or permitted under this Act or any other provision of Federal law of a depository institution, or affiliate thereof, to the extent that such statute, regulation, order, interpretation, or other action—
+    Except as provided in any restrictions described in subsection (d)(2)(B), no State may, by statute, regulation, order, interpretation, or other action, regulate the insurance activities authorized or permitted under this Act or any other provision of Federal law of a depository institution, or affiliate thereof, to the extent that such statute, regulation, order, interpretation, or other action—
 
         (1) distinguishes by its terms between depository institutions, or affiliates thereof, and other persons engaged in such activities, in a manner that is in any way adverse to any such depository institution, or affiliate thereof;
 
@@ -183,7 +183,7 @@
 
     (f) __Limitation__ 
 
-    Subsections (c) and (d) of this section shall not be construed to affect—
+    Subsections (c) and (d) shall not be construed to affect—
 
         (1)
 
