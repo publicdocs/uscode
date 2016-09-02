@@ -31,7 +31,7 @@
 
  __Presidential Directive__ 
 
-    National Intelligence Authority and Central Intelligence Group, established by Presidential Directive, Feb. 1, 1946, 11 F.R. 1337, to coordinate Federal foreign intelligence activities, ceased to exist upon creation of Central Intelligence Agency; personnel, property and records of the group were transferred to the Agency; and unexpended funds of the group were made available to the Agency, by [act July 26, 1947, ch. 343][/us/act/1947-07-26/ch343], title I, § 102, [61 Stat. 497][/us/stat/61/497], formerly set out as [section 403 of Title 50][/us/usc/t50/s403], War and National Defense. See [section 3023 of Title 50][/us/usc/t50/s3023].
+    National Intelligence Authority and Central Intelligence Group, established by Presidential Directive, Feb. 1, 1946, 11 F.R. 1337, to coordinate Federal foreign intelligence activities, ceased to exist upon creation of Central Intelligence Agency; personnel, property and records of the group were transferred to the Agency; and unexpended funds of the group were made available to the Agency, by [act July 26, 1947, ch. 343][/us/act/1947-07-26/ch343], title I, § 102, [61 Stat. 497][/us/stat/61/497], formerly set out as [section 403 of Title 50][/us/usc/t50/s403], War and National Defense. See Prior Provisions note under [section 3023 of Title 50][/us/usc/t50/s3023].
 
  __Strategy for the United States Relationship With Saudi Arabia__ 
 

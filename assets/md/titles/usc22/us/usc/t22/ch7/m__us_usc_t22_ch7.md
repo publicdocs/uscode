@@ -969,7 +969,7 @@
 
   <tr>
 
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs276a" data-uslm-ref="/us/usc/t22/s276a">276a</a> to <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs276b" data-uslm-ref="/us/usc/t22/s276b">276b.</a>  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs276" data-uslm-ref="/us/usc/t22/s276">276</a> to <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs276b" data-uslm-ref="/us/usc/t22/s276b">276b.</a>  </td>
 
     <td> Repealed.  </td>
 

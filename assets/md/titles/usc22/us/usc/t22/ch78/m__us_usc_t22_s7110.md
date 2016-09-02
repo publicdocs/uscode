@@ -17,7 +17,7 @@
 
     (a) __Authorization of appropriations in support of the Task Force__ 
 
-        To carry out the purposes of sections 7103(e), 7103(f)  <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  and 7107 of this title, there are authorized to be appropriated to the Secretary of State $2,000,000 for each of the fiscal years 2014 through 2017. In addition, there are authorized to be appropriated to the Office to Monitor and Combat Trafficking $1,500,000 for additional personnel, including regional trafficking in persons officers, for each of the fiscal years 2008 through 2011 for each of the fiscal years 2008 through 2011.  <sup>\[2\]</sup>  <sup><sup> 2 So in original. </sup></sup> 
+        To carry out the purposes of sections 7103(e), 7103(f)  <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  and 7107 of this title, there are authorized to be appropriated to the Secretary of State $2,000,000 for each of the fiscal years 2014 through 2017. In addition, there are authorized to be appropriated to the Office to Monitor and Combat Trafficking $1,500,000 for additional personnel, including regional trafficking in persons officers, for each of the fiscal years 2008 through 2011 for each of the fiscal years 2008 through 2011. <sup>\[2\]</sup>  <sup><sup> 2 So in original. </sup></sup> 
 
     (b) __Authorization of appropriations to the Secretary of Health and Human Services__ 
 
@@ -97,7 +97,7 @@
 
     (i) __Authorization of appropriations to the Secretary of Homeland Security__ 
 
-        There are authorized to be appropriated to the Secretary of Homeland Security,  <sup>\[4\]</sup>  <sup><sup> 4 So in original. Comma probably should not appear. </sup></sup>  $10,000,000 for each of the fiscal years 2014 through 2017, to remain available until expended, for investigations by the Bureau of Immigration and Customs Enforcement of severe forms of trafficking in persons.
+        There are authorized to be appropriated to the Secretary of Homeland Security,  <sup>\[4\]</sup>  <sup><sup> 4 So in original. The comma probably should not appear. </sup></sup>  $10,000,000 for each of the fiscal years 2014 through 2017, to remain available until expended, for investigations by the Bureau of Immigration and Customs Enforcement of severe forms of trafficking in persons.
 
 ([Pub. L. 106–386, div. A, § 113][/us/pl/106/386/s113], Oct. 28, 2000, [114 Stat. 1490][/us/stat/114/1490]; [Pub. L. 107–228, div. A, title VI, § 682(b)][/us/pl/107/228/s682/b], Sept. 30, 2002, [116 Stat. 1410][/us/stat/116/1410]; [Pub. L. 108–193, § 7][/us/pl/108/193/s7], Dec. 19, 2003, [117 Stat. 2884][/us/stat/117/2884]; [Pub. L. 109–164, title III, § 301][/us/pl/109/164/s301], Jan. 10, 2006, [119 Stat. 3572][/us/stat/119/3572]; [Pub. L. 110–457, title II, § 213(a)(2)][/us/pl/110/457/s213/a/2], title III, § 301, Dec. 23, 2008, [122 Stat. 5065][/us/stat/122/5065], 5085; [Pub. L. 113–4, title XII][/us/pl/113/4], §§ 1212(b)(2)(A)(ii), 1251(2), Mar. 7, 2013, [127 Stat. 143][/us/stat/127/143], 155.)
 
@@ -115,7 +115,7 @@
 
     2013—Subsec. (a). [Pub. L. 113–4, § 1251(2)(A)(ii)][/us/pl/113/4/s1251/2/A/ii], which directed the insertion of “, including regional trafficking in persons officers,” after “for additional personnel,” was executed by making the insertion after “for additional personnel”, to reflect the probable intent of Congress.
 
-    [Pub. L. 113–4, § 1251(2)(A)(i)][/us/pl/113/4/s1251/2/A/i], (iii), substituted “$2,000,000 for each of the fiscal years 2014 through 2017” for “$5,500,000 for each of the fiscal years 2008 through 2011” and struck out “, and $3,000 for official reception and representation expenses before “for each of the fiscal years 2008 through 2011” second time appearing.
+    [Pub. L. 113–4, § 1251(2)(A)(i)][/us/pl/113/4/s1251/2/A/i], (iii), substituted “$2,000,000 for each of the fiscal years 2014 through 2017” for “$5,500,000 for each of the fiscal years 2008 through 2011” and struck out “, and $3,000 for official reception and representation expenses” before “for each of the fiscal years 2008 through 2011” the second time appearing.
 
     Subsec. (b)(1). [Pub. L. 113–4, § 1251(2)(B)(i)][/us/pl/113/4/s1251/2/B/i], substituted “$14,500,000 for each of the fiscal years 2014 through 2017” for “$12,500,000 for each of the fiscal years 2008 through 2011”.
 
@@ -135,7 +135,7 @@
 
     Subsec. (c)(1)(C). [Pub. L. 113–4, § 1251(2)(C)(iii)][/us/pl/113/4/s1251/2/C/iii], substituted “2014 through 2017” for “2008 through 2011”.
 
-    Subsec. (d). [Pub. L. 113–4, § 1251(2)(D)][/us/pl/113/4/s1251/2/D], redesignated subpars. (A) to (C) as pars. (1) to (3), respectively, realigned margins, in par. (1) substituted “$11,000,000 for each of the fiscal years 2014 through 2017” for “$10,000,000 for each of the fiscal years 2008 through 2011, and in par. (3) substituted “$11,000,000 to the Attorney General for each of the fiscal years 2014 through 2017.” for “to the Attorney General—
+    Subsec. (d). [Pub. L. 113–4, § 1251(2)(D)][/us/pl/113/4/s1251/2/D], redesignated subpars. (A) to (C) as pars. (1) to (3), respectively, realigned margins, in par. (1) substituted “$11,000,000 for each of the fiscal years 2014 through 2017” for “$10,000,000 for each of the fiscal years 2008 through 2011”, and in par. (3) substituted “$11,000,000 to the Attorney General for each of the fiscal years 2014 through 2017.” for “to the Attorney General—
 
     “(i) $2,500,000 for fiscal year 2008;
 

@@ -57,7 +57,7 @@
 
     Subsec. (d). [Pub. L. 95–88, § 116(a)(2)][/us/pl/95/88/s116/a/2], struck out provisions authorizing appropriations of $6,500,000 for each of the fiscal years 1974 and 1975 and an appropriation of $7,000,000 for fiscal year 1976 and inserted provisions authorizing an appropriation of $7,000,000 for fiscal year 1978.
 
-    Subsec. (f). [Pub. L. 95–88, § 116(b)][/us/pl/95/88/s116/b], added subsec. (f).
+    Subsec. (f). [Pub. L. 95–88, § 116(a)(3)][/us/pl/95/88/s116/a/3], added subsec. (f).
 
     1975—Subsec. (c). [Pub. L. 94–161, § 311(2)(A)][/us/pl/94/161/s311/2/A], authorized appropriation of $25,000,000 for fiscal years 1976 and 1977.
 
@@ -176,7 +176,7 @@
 [/us/pl/95/424]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F424
 [/us/pl/95/88/s116/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F88%2Fs116%2Fa%2F1
 [/us/pl/95/88/s116/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F88%2Fs116%2Fa%2F2
-[/us/pl/95/88/s116/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F88%2Fs116%2Fb
+[/us/pl/95/88/s116/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F88%2Fs116%2Fa%2F3
 [/us/pl/94/161/s311/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F161%2Fs311%2F2%2FA
 [/us/pl/94/161/s311/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F161%2Fs311%2F2%2FB
 [/us/pl/93/189]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F189

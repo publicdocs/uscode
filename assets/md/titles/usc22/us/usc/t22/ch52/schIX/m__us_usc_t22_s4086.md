@@ -31,7 +31,7 @@
 
  __References in Text__ 
 
-    The Overseas Citizens Voting Rights Act, referred to in text, probably means the Overseas Citizens Voting Rights Act of 1975, [Pub. L. 94–203][/us/pl/94/203], Jan. 2, 1976, [89 Stat. 1142][/us/stat/89/1142], as amended, which was classified generally to subchapter I–E (§ 1973dd et seq.) of chapter 20 of Title 42, The Public Health and Welfare, and which was repealed by [Pub. L. 99–410, title II, § 203][/us/pl/99/410/s203], Aug. 28, 1986, [100 Stat. 930][/us/stat/100/930]. See section 1973ff et seq. of Title 42.
+    The Overseas Citizens Voting Rights Act, referred to in text, probably means the Overseas Citizens Voting Rights Act of 1975, [Pub. L. 94–203][/us/pl/94/203], Jan. 2, 1976, [89 Stat. 1142][/us/stat/89/1142], which was classified generally to subchapter I–E (§ 1973dd et seq.) of chapter 20 of Title 42, The Public Health and Welfare, and which was repealed by [Pub. L. 99–410, title II, § 203][/us/pl/99/410/s203], Aug. 28, 1986, [100 Stat. 930][/us/stat/100/930].
 
 ----------
 

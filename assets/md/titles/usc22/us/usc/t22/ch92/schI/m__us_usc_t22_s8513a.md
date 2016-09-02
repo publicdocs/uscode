@@ -223,9 +223,23 @@
 
     Ex. Ord. No. 13599, Feb. 5, 2012, 77 F.R. 6659, which is listed in a table under [section 1701 of Title 50][/us/usc/t50/s1701], War and National Defense, provided in section 10 that the Secretary of the Treasury, in consultation with the Secretary of State, is authorized to exercise the functions and authorities conferred upon the President by subsecs. (d)(1)(A) and (g)(1) of this section and to redelegate such functions and authorities consistent with applicable law; and provided in section 11 that the Secretary of State, in consultation with the Secretary of the Treasury, the Secretary of Energy, and the Director of National Intelligence, is authorized to exercise the functions and authorities conferred upon the President by subsec. (d)(4)(D) of this section and that the Secretary of State, in consultation with the Secretary of the Treasury, is authorized to exercise the functions and authorities conferred upon the President by subsecs. (e)(1), (2) and (g)(1) of this section and to redelegate all such functions and authorities consistent with applicable law.
 
+    Memorandum of President of the United States, Jan. 20, 2014, 79 F.R.6453, provided:
+
+    Memorandum for the Secretary of State
+
+    By the authority vested in me as President by the Constitution and the laws of the United States of America, including [section 301 of title 3][/us/usc/t3/s301] of the United States Code, I hereby delegate to the Secretary of State, in consultation with the Secretary of the Treasury, the authority conferred upon the President by section 1245(d)(5) of the Fiscal Year (FY) 2012 National Defense Authorization Act (NDAA).
+
+    Any reference in this memorandum to provisions of the FY 2012 NDAA related to the subject of this memorandum shall be deemed to include references to any hereafter enacted provisions of law that is the same or substantially the same as such provisions.
+
+    You are authorized and directed to publish this memorandum in the Federal Register.
+
+                              Barack Obama.
+
  __Presidential Determinations Relating to Petroleum or Petroleum Products from Iran__ 
 
     The following Presidential Determinations related to the existence of sufficient supplies of petroleum and petroleum products from countries other than Iran pursuant to subsec. (d)(4)(B) and (C) of this section:
+
+    Determination of President of the United States, No. 2014–11, June 4, 2014, 79 F.R. 33841.
 
     Determination of President of the United States, No. 2014–03, Nov. 29, 2013, 78 F.R. 76717.
 
@@ -281,5 +295,6 @@
 [/us/pl/112/158/s504/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F158%2Fs504%2Fb
 [/us/stat/126/1262]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1262
 [/us/usc/t50/s1701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs1701
+[/us/usc/t3/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft3%2Fs301
 
 
