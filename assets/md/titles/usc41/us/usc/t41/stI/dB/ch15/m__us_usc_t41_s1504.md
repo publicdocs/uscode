@@ -17,7 +17,7 @@
 
     (a)  __Previously Existing Standards__  __.—__ 
 
-    All cost accounting standards, waivers, exemptions, interpretations, modifications, rules, and regulations prescribed by the Cost Accounting Standards Board under section 719 of the Defense Production Act of 1950 (50 U.S.C. App. 2168)—
+    All cost accounting standards, waivers, exemptions, interpretations, modifications, rules, and regulations prescribed by the Cost Accounting Standards Board under section 719 of the Defense Production Act of 1950 (50 U.S.C. App. 2168)—  <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup> 
 
         (1) remain in effect until amended, superseded, or rescinded by the Board under this chapter; and
 
@@ -107,6 +107,10 @@ Pub. L. 93–400, § 26(j), as added Pub. L. 100–679, § 5(a), Nov. 17, 19
 
 </table>
 
+ __References in Text__ 
+
+    Section 719 of the Defense Production Act of 1950, referred to in subsec. (a), is section 719 of [act Sept. 8, 1950, ch. 932][/us/act/1950-09-08/ch932], title VII, as added [Pub. L. 91–379, title I, § 103][/us/pl/91/379/s103], Aug. 15, 1970, [84 Stat. 796][/us/stat/84/796], which was classified to section 2168 of the former Appendix to Title 50, War and National Defense, prior to repeal by [Pub. L. 100–679, § 5(b)][/us/pl/100/679/s5/b], Nov. 17, 1988, [102 Stat. 4063][/us/stat/102/4063].
+
 ----------
 
 [Previous](./../../../../../..//us/usc/t41/stI/dB/ch15/m__us_usc_t41_s1503.md) | [Next](./../../../../../..//us/usc/t41/stI/dB/ch15/m__us_usc_t41_s1505.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs1504)
@@ -116,5 +120,10 @@ Pub. L. 93–400, § 26(j), as added Pub. L. 100–679, § 5(a), Nov. 17, 19
 
 [/us/pl/111/350/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350%2Fs3
 [/us/stat/124/3699]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3699
+[/us/act/1950-09-08/ch932]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-09-08%2Fch932
+[/us/pl/91/379/s103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F379%2Fs103
+[/us/stat/84/796]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F796
+[/us/pl/100/679/s5/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F679%2Fs5%2Fb
+[/us/stat/102/4063]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4063
 
 
