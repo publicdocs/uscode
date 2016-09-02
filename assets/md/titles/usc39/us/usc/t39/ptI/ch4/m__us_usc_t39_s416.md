@@ -119,7 +119,7 @@
 
  __Multinational Species Conservation Funds Semipostal Stamp__ 
 
-[Pub. L. 111–241][/us/pl/111/241], Sept. 30, 2010, [124 Stat. 2605][/us/stat/124/2605], provided that:
+[Pub. L. 111–241][/us/pl/111/241], Sept. 30, 2010, [124 Stat. 2605][/us/stat/124/2605], as amended by [Pub. L. 113–165, § 2][/us/pl/113/165/s2], Sept. 19, 2014, [128 Stat. 1878][/us/stat/128/1878], provided that:
 
 > “SECTION 1. __SHORT TITLE.__ 
 
@@ -165,7 +165,7 @@
 
 >         “(2)  __Duration__  __.—__ 
 
->         The Multinational Species Conservation Funds Semipostal Stamp shall be made available to the public for a period of at least 2 years, beginning no later than 12 months after the date of the enactment of this Act \[Sept. 30, 2010\].
+>         The Multinational Species Conservation Funds Semipostal Stamp shall be made available to the public for a period of at least 6 years, beginning no later than 12 months after the date of the enactment of this Act \[Sept. 30, 2010\].
 
 >         “(3)  __Limitation__  __.—__ 
 
@@ -308,6 +308,8 @@
 [/us/usc/t39/s416]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft39%2Fs416
 [/us/pl/111/241]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F241
 [/us/stat/124/2605]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2605
+[/us/pl/113/165/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F165%2Fs2
+[/us/stat/128/1878]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1878
 [/us/usc/t39/s416]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft39%2Fs416
 [/us/usc/t39/s416/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft39%2Fs416%2Fa%2F1
 [/us/pl/107/67/s652]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F67%2Fs652
