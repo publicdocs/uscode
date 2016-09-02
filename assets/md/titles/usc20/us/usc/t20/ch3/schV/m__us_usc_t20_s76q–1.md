@@ -167,7 +167,7 @@
 
         Until completion of the Project, the Comptroller General shall review the management and oversight of construction of the Project by the Board and report periodically on the results of the review to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Environment and Public Works of the Senate.
 
-([Pub. L. 85–874, § 12][/us/pl/85/874/s12], as added [Pub. L. 107–224, § 2(2)][/us/pl/107/224/s2/2], Sept. 18, 2002, [116 Stat. 1340][/us/stat/116/1340]; amended [Pub. L. 108–410, § 3][/us/pl/108/410/s3], Oct. 30, 2004, [118 Stat. 2303][/us/stat/118/2303].)
+([Pub. L. 85–874][/us/pl/85/874], § 12, as added [Pub. L. 107–224][/us/pl/107/224], § 2(2), Sept. 18, 2002, [116 Stat. 1340][/us/stat/116/1340]; amended [Pub. L. 108–410][/us/pl/108/410], § 3, Oct. 30, 2004, [118 Stat. 2303][/us/stat/118/2303].)
 
  __References in Text__ 
 
@@ -179,13 +179,13 @@
 
  __Amendments__ 
 
-    2004—Subsec. (b)(6). [Pub. L. 108–410, § 3(a)][/us/pl/108/410/s3/a], added par. (6).
+    2004—Subsec. (b)(6). [Pub. L. 108–410][/us/pl/108/410], § 3(a), added par. (6).
 
-    Subsec. (c)(1), (3). [Pub. L. 108–410, § 3(b)(1)][/us/pl/108/410/s3/b/1], (2), inserted “, in consultation with the Project Team,” after “The Board”.
+    Subsec. (c)(1), (3). [Pub. L. 108–410][/us/pl/108/410], § 3(b)(1), (2), inserted “, in consultation with the Project Team,” after “The Board”.
 
-    Subsec. (c)(5). [Pub. L. 108–410, § 3(b)(3)][/us/pl/108/410/s3/b/3], added par. (5).
+    Subsec. (c)(5). [Pub. L. 108–410][/us/pl/108/410], § 3(b)(3), added par. (5).
 
-    Subsec. (g). [Pub. L. 108–410, § 3(c)][/us/pl/108/410/s3/c], added subsec. (g).
+    Subsec. (g). [Pub. L. 108–410][/us/pl/108/410], § 3(c), added subsec. (g).
 
 ----------
 
@@ -198,10 +198,10 @@
 [/us/stat/112/204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F204
 [/us/usc/t20/s76j/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs76j%2Fb
 [/us/usc/t20/s76k/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs76k%2Fe
-[/us/pl/85/874/s12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F874%2Fs12
-[/us/pl/107/224/s2/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F224%2Fs2%2F2
+[/us/pl/85/874]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F874
+[/us/pl/107/224]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F224
 [/us/stat/116/1340]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1340
-[/us/pl/108/410/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F410%2Fs3
+[/us/pl/108/410]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F410
 [/us/stat/118/2303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F2303
 [/us/pl/105/178/s1214]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178%2Fs1214
 [/us/usc/t16/s460m–29a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs460m%E2%80%9329a
@@ -209,9 +209,9 @@
 [/us/usc/t16/s668dd]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs668dd
 [/us/pl/85/874/s12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F874%2Fs12
 [/us/usc/t20/s76r]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs76r
-[/us/pl/108/410/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F410%2Fs3%2Fa
-[/us/pl/108/410/s3/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F410%2Fs3%2Fb%2F1
-[/us/pl/108/410/s3/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F410%2Fs3%2Fb%2F3
-[/us/pl/108/410/s3/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F410%2Fs3%2Fc
+[/us/pl/108/410]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F410
+[/us/pl/108/410]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F410
+[/us/pl/108/410]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F410
+[/us/pl/108/410]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F410
 
 

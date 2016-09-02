@@ -17,7 +17,7 @@
 
     The authorization to enter into contracts or other obligations under the Act, as amended by this Act, shall be effective for fiscal year 1981 and any succeeding fiscal year only to the extent or in such amounts as are provided in advance in appropriation Acts.
 
-([Pub. L. 96–374, title XIII, § 1392][/us/pl/96/374/s1392], Oct. 3, 1980, [94 Stat. 1504][/us/stat/94/1504].)
+([Pub. L. 96–374, title XIII][/us/pl/96/374/tXIII], § 1392, Oct. 3, 1980, [94 Stat. 1504][/us/stat/94/1504].)
 
  __References in Text__ 
 
@@ -37,7 +37,7 @@
 
  __Contracting Authority Subject To Appropriations__ 
 
-[Pub. L. 99–498, § 3][/us/pl/99/498/s3], Oct. 17, 1986, [100 Stat. 1278][/us/stat/100/1278], provided that: 
+[Pub. L. 99–498][/us/pl/99/498], § 3, Oct. 17, 1986, [100 Stat. 1278][/us/stat/100/1278], provided that: 
 
 > “The authority to enter into contracts or other obligations under this Act (other than amendments made to part B of title IV of the Act) \[see Tables for classification\] shall be effective for any fiscal year only to such extent or in such amounts as are provided in appropriation Acts.”
 
@@ -48,7 +48,7 @@
 ----------
 ----------
 
-[/us/pl/96/374/s1392]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F374%2Fs1392
+[/us/pl/96/374/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F374%2FtXIII
 [/us/stat/94/1504]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F1504
 [/us/pl/89/329]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329
 [/us/stat/79/1219]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F1219
@@ -58,7 +58,7 @@
 [/us/usc/t20/s1146]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1146
 [/us/pl/96/374/s1393/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F374%2Fs1393%2Fa
 [/us/usc/t20/s1001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1001
-[/us/pl/99/498/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F498%2Fs3
+[/us/pl/99/498]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F498
 [/us/stat/100/1278]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1278
 
 

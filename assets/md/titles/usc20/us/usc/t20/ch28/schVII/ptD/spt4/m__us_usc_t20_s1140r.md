@@ -17,7 +17,7 @@
 
     There are authorized to be appropriated to carry out this subpart such sums as may be necessary for fiscal year 2009 and each of the five succeeding fiscal years.
 
-([Pub. L. 89–329, title VII, § 778][/us/pl/89/329/s778], as added [Pub. L. 110–315, title VII, § 709(2)][/us/pl/110/315/s709/2], Aug. 14, 2008, [122 Stat. 3377][/us/stat/122/3377].)
+([Pub. L. 89–329, title VII][/us/pl/89/329/tVII], § 778, as added [Pub. L. 110–315, title VII][/us/pl/110/315/tVII], § 709(2), Aug. 14, 2008, [122 Stat. 3377][/us/stat/122/3377].)
 
 ----------
 
@@ -26,8 +26,8 @@
 ----------
 ----------
 
-[/us/pl/89/329/s778]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2Fs778
-[/us/pl/110/315/s709/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2Fs709%2F2
+[/us/pl/89/329/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2FtVII
+[/us/pl/110/315/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2FtVII
 [/us/stat/122/3377]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3377
 
 

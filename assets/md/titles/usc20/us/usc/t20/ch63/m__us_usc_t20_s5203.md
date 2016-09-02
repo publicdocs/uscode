@@ -23,7 +23,7 @@
 
         The activities of Eisenhower Exchange Fellowships, Incorporated, may be audited by the Government Accountability Office under such rules and regulations as may be prescribed by the Comptroller General of the United States. The representatives of the Government Accountability Office shall have access to all books, accounts, records, reports, and files and all other papers, things, or property belonging to or in use by Eisenhower Exchange Fellowships, Incorporated, pertaining to such activities and necessary to facilitate the audit.
 
-([Pub. L. 101–454, § 4][/us/pl/101/454/s4], Oct. 24, 1990, [104 Stat. 1064][/us/stat/104/1064]; [Pub. L. 108–271, § 8(b)][/us/pl/108/271/s8/b], July 7, 2004, [118 Stat. 814][/us/stat/118/814].)
+([Pub. L. 101–454][/us/pl/101/454], § 4, Oct. 24, 1990, [104 Stat. 1064][/us/stat/104/1064]; [Pub. L. 108–271][/us/pl/108/271], § 8(b), July 7, 2004, [118 Stat. 814][/us/stat/118/814].)
 
  __Amendments__ 
 
@@ -31,7 +31,7 @@
 
  __Use of Earned Unused Trust Income for Fellowship Purposes__ 
 
-[Pub. L. 104–134, title I, § 101][/us/pl/104/134/s101]\[(a)\] \[title IV, § 407\], Apr. 26, 1996, [110 Stat. 1321][/us/stat/110/1321], 1321–45; renumbered title I, [Pub. L. 104–140, § 1(a)][/us/pl/104/140/s1/a], May 2, 1996, [110 Stat. 1327][/us/stat/110/1327], provided in part that: 
+[Pub. L. 104–134, title I][/us/pl/104/134/tI], § 101\[(a)\] \[title IV, § 407\], Apr. 26, 1996, [110 Stat. 1321][/us/stat/110/1321], 1321–45; renumbered title I, [Pub. L. 104–140][/us/pl/104/140], § 1(a), May 2, 1996, [110 Stat. 1327][/us/stat/110/1327], provided in part that: 
 
 > “notwithstanding any other provision of law, Eisenhower Exchange Fellowships, Incorporated, may use one-third of any earned but unused trust income from the period 1992 through 1995 for Fellowship purposes in each of fiscal years 1996 through 1998.”
 
@@ -42,14 +42,14 @@
 ----------
 ----------
 
-[/us/pl/101/454/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F454%2Fs4
+[/us/pl/101/454]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F454
 [/us/stat/104/1064]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1064
-[/us/pl/108/271/s8/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F271%2Fs8%2Fb
+[/us/pl/108/271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F271
 [/us/stat/118/814]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F814
 [/us/pl/108/271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F271
-[/us/pl/104/134/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F134%2Fs101
+[/us/pl/104/134/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F134%2FtI
 [/us/stat/110/1321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1321
-[/us/pl/104/140/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F140%2Fs1%2Fa
+[/us/pl/104/140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F140
 [/us/stat/110/1327]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1327
 
 

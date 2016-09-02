@@ -11,13 +11,13 @@
 ----------
 ----------
 
-[Previous](./../../../../../..//us/usc/t20/ch70/schX/ptB/m__us_usc_t20_ch70_schX_ptB.md) | [Next](./../../../../../..//us/usc/t20/ch70/schX/ptC/spt1/m__us_usc_t20_ch70_schX_ptC_spt1.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fch70%2FschX%2FptC)
+[Previous](./../../../../../..//us/usc/t20/ch70/schX/ptB/m__us_usc_t20_s8031...8037.md) | [Next](./../../../../../..//us/usc/t20/ch70/schX/ptC/spt1/m__us_usc_t20_ch70_schX_ptC_spt1.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fch70%2FschX%2FptC)
 
 #### Part C—Public Charter Schools
 
 ----------
 
-[Previous](./../../../../../..//us/usc/t20/ch70/schX/ptB/m__us_usc_t20_ch70_schX_ptB.md) | [Next](./../../../../../..//us/usc/t20/ch70/schX/ptC/spt1/m__us_usc_t20_ch70_schX_ptC_spt1.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fch70%2FschX%2FptC)
+[Previous](./../../../../../..//us/usc/t20/ch70/schX/ptB/m__us_usc_t20_s8031...8037.md) | [Next](./../../../../../..//us/usc/t20/ch70/schX/ptC/spt1/m__us_usc_t20_ch70_schX_ptC_spt1.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fch70%2FschX%2FptC)
 
 ----------
 ----------

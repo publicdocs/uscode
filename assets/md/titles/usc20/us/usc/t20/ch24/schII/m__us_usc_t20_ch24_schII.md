@@ -11,13 +11,13 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t20/ch24/schI/m__us_usc_t20_ch24_schI.md) | [Next](./../../../../..//us/usc/t20/ch24/schII/m__us_usc_t20_s841.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fch24%2FschII)
+[Previous](./../../../../..//us/usc/t20/ch24/schI/m__us_usc_t20_s821...827.md) | [Next](./../../../../..//us/usc/t20/ch24/schII/m__us_usc_t20_s841.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fch24%2FschII)
 
 ### SUBCHAPTER II—SUPPLEMENTARY EDUCATIONAL CENTERS AND SERVICES
 
 ----------
 
-[Previous](./../../../../..//us/usc/t20/ch24/schI/m__us_usc_t20_ch24_schI.md) | [Next](./../../../../..//us/usc/t20/ch24/schII/m__us_usc_t20_s841.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fch24%2FschII)
+[Previous](./../../../../..//us/usc/t20/ch24/schI/m__us_usc_t20_s821...827.md) | [Next](./../../../../..//us/usc/t20/ch24/schII/m__us_usc_t20_s841.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fch24%2FschII)
 
 ----------
 ----------

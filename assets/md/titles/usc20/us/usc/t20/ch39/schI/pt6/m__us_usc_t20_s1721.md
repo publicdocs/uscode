@@ -17,7 +17,7 @@
 
     If any provision of this subchapter or of any amendment made by this subchapter, or the application of any such provision to any person or circumstance, is held invalid, the remainder of the provisions of this subchapter and of the amendments made by this subchapter and the application of such provision to other persons or circumstances shall not be affected thereby.
 
-([Pub. L. 93–380, title II, § 223][/us/pl/93/380/s223], Aug. 21, 1974, [88 Stat. 519][/us/stat/88/519].)
+([Pub. L. 93–380, title II][/us/pl/93/380/tII], § 223, Aug. 21, 1974, [88 Stat. 519][/us/stat/88/519].)
 
  __References in Text__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/pl/93/380/s223]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F380%2Fs223
+[/us/pl/93/380/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F380%2FtII
 [/us/stat/88/519]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F519
 [/us/pl/93/380]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F380
 [/us/stat/88/519]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F519

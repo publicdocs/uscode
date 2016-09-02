@@ -105,7 +105,7 @@
 
             There are authorized to be appropriated to carry out this subsection such sums as may be necessary for fiscal year 2009 and each of the five succeeding fiscal years.
 
-([Pub. L. 89–329, title I, § 120][/us/pl/89/329/s120], as added [Pub. L. 105–244, title I, § 101(a)][/us/pl/105/244/s101/a], Oct. 7, 1998, [112 Stat. 1596][/us/stat/112/1596]; amended [Pub. L. 110–315, title I, § 107][/us/pl/110/315/s107], Aug. 14, 2008, [122 Stat. 3093][/us/stat/122/3093].)
+([Pub. L. 89–329, title I][/us/pl/89/329/tI], § 120, as added [Pub. L. 105–244, title I][/us/pl/105/244/tI], § 101(a), Oct. 7, 1998, [112 Stat. 1596][/us/stat/112/1596]; amended [Pub. L. 110–315, title I][/us/pl/110/315/tI], § 107, Aug. 14, 2008, [122 Stat. 3093][/us/stat/122/3093].)
 
  __Prior Provisions__ 
 
@@ -113,11 +113,11 @@
 
  __Amendments__ 
 
-    2008—Subsec. (a)(2)(B) to (D). [Pub. L. 110–315, § 107(1)][/us/pl/110/315/s107/1], added subpars. (B) and (C) and redesignated former subpar. (B) as (D).
+    2008—Subsec. (a)(2)(B) to (D). [Pub. L. 110–315][/us/pl/110/315], § 107(1), added subpars. (B) and (C) and redesignated former subpar. (B) as (D).
 
-    Subsec. (e)(5). [Pub. L. 110–315, § 107(2)][/us/pl/110/315/s107/2], substituted “such sums as may be necessary for fiscal year 2009 and each of the five succeeding fiscal years” for “$5,000,000 for fiscal year 1999 and such sums as may be necessary for each of the 4 succeeding fiscal years”.
+    Subsec. (e)(5). [Pub. L. 110–315][/us/pl/110/315], § 107(2), substituted “such sums as may be necessary for fiscal year 2009 and each of the five succeeding fiscal years” for “$5,000,000 for fiscal year 1999 and such sums as may be necessary for each of the 4 succeeding fiscal years”.
 
-    Subsec. (f). [Pub. L. 110–315, § 107(3)][/us/pl/110/315/s107/3], struck out subsec. (f) which related to National Recognition Awards for outstanding alcohol and drug abuse prevention programs.
+    Subsec. (f). [Pub. L. 110–315][/us/pl/110/315], § 107(3), struck out subsec. (f) which related to National Recognition Awards for outstanding alcohol and drug abuse prevention programs.
 
 ----------
 
@@ -127,15 +127,15 @@
 ----------
 
 [/us/usc/t20/s1092/f/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1092%2Ff%2F6
-[/us/pl/89/329/s120]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2Fs120
-[/us/pl/105/244/s101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2Fs101%2Fa
+[/us/pl/89/329/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2FtI
+[/us/pl/105/244/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2FtI
 [/us/stat/112/1596]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F1596
-[/us/pl/110/315/s107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2Fs107
+[/us/pl/110/315/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2FtI
 [/us/stat/122/3093]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3093
 [/us/usc/t20/s1145g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1145g
 [/us/pl/105/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244
-[/us/pl/110/315/s107/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2Fs107%2F1
-[/us/pl/110/315/s107/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2Fs107%2F2
-[/us/pl/110/315/s107/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2Fs107%2F3
+[/us/pl/110/315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315
+[/us/pl/110/315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315
+[/us/pl/110/315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315
 
 

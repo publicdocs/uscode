@@ -45,7 +45,7 @@
 
         No grant may be made under this section for any use unless an amount at least equal to such grant is made available from non-Federal sources for the same purpose and for concurrent use.
 
-([Pub. L. 88–560, title VIII, § 803][/us/pl/88/560/s803], Sept. 2, 1964, [78 Stat. 803][/us/stat/78/803]; [Pub. L. 89–117, title XI, § 1103(b)][/us/pl/89/117/s1103/b], Aug. 10, 1965, [79 Stat. 503][/us/stat/79/503]; [Pub. L. 91–152, title III, § 307][/us/pl/91/152/s307], Dec. 24, 1969, [83 Stat. 393][/us/stat/83/393]; [Pub. L. 91–609, title IX, § 904][/us/pl/91/609/s904], Dec. 31, 1970, [84 Stat. 1809][/us/stat/84/1809].)
+([Pub. L. 88–560, title VIII][/us/pl/88/560/tVIII], § 803, Sept. 2, 1964, [78 Stat. 803][/us/stat/78/803]; [Pub. L. 89–117, title XI][/us/pl/89/117/tXI], § 1103(b), Aug. 10, 1965, [79 Stat. 503][/us/stat/79/503]; [Pub. L. 91–152, title III][/us/pl/91/152/tIII], § 307, Dec. 24, 1969, [83 Stat. 393][/us/stat/83/393]; [Pub. L. 91–609, title IX][/us/pl/91/609/tIX], § 904, Dec. 31, 1970, [84 Stat. 1809][/us/stat/84/1809].)
 
  __Amendments__ 
 
@@ -62,13 +62,13 @@
 ----------
 ----------
 
-[/us/pl/88/560/s803]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F560%2Fs803
+[/us/pl/88/560/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F560%2FtVIII
 [/us/stat/78/803]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F803
-[/us/pl/89/117/s1103/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F117%2Fs1103%2Fb
+[/us/pl/89/117/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F117%2FtXI
 [/us/stat/79/503]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F503
-[/us/pl/91/152/s307]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F152%2Fs307
+[/us/pl/91/152/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F152%2FtIII
 [/us/stat/83/393]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F83%2F393
-[/us/pl/91/609/s904]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F609%2Fs904
+[/us/pl/91/609/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F609%2FtIX
 [/us/stat/84/1809]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1809
 [/us/pl/91/609]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F609
 [/us/pl/91/152]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F152

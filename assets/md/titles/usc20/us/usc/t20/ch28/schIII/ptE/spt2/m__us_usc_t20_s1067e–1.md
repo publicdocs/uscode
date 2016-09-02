@@ -51,7 +51,7 @@
 
         The campaign under this section shall include a narrowly focused effort to attract current professionals in the STEM fields, through advertising in mediums likely to reach that specific group, into teaching in a STEM field in elementary schools and secondary schools.
 
-([Pub. L. 89–329, title III, § 356][/us/pl/89/329/s356], as added [Pub. L. 110–315, title III, § 315(a)(2)][/us/pl/110/315/s315/a/2], Aug. 14, 2008, [122 Stat. 3183][/us/stat/122/3183].)
+([Pub. L. 89–329, title III][/us/pl/89/329/tIII], § 356, as added [Pub. L. 110–315, title III][/us/pl/110/315/tIII], § 315(a)(2), Aug. 14, 2008, [122 Stat. 3183][/us/stat/122/3183].)
 
  __Prior Provisions__ 
 
@@ -64,8 +64,8 @@
 ----------
 ----------
 
-[/us/pl/89/329/s356]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2Fs356
-[/us/pl/110/315/s315/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2Fs315%2Fa%2F2
+[/us/pl/89/329/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2FtIII
+[/us/pl/110/315/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2FtIII
 [/us/stat/122/3183]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3183
 [/us/pl/89/329/s356]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2Fs356
 [/us/usc/t20/s1068d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1068d

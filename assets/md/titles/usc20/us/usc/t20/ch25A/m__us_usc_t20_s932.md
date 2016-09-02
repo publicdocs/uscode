@@ -47,7 +47,7 @@
 
     (6) The term “Director” means the Director of the Department of Defense Education Activity.
 
-([Pub. L. 95–561, title XIV, § 1414][/us/pl/95/561/s1414], Nov. 1, 1978, [92 Stat. 2372][/us/stat/92/2372]; [Pub. L. 101–189, div. A, title III, § 325(a)][/us/pl/101/189/s325/a], Nov. 29, 1989, [103 Stat. 1415][/us/stat/103/1415]; [Pub. L. 101–510, div. A, title V, § 504(b)][/us/pl/101/510/s504/b], Nov. 5, 1990, [104 Stat. 1559][/us/stat/104/1559]; [Pub. L. 106–65, div. A, title III, § 354(7)][/us/pl/106/65/s354/7], Oct. 5, 1999, [113 Stat. 574][/us/stat/113/574].)
+([Pub. L. 95–561, title XIV][/us/pl/95/561/tXIV], § 1414, Nov. 1, 1978, [92 Stat. 2372][/us/stat/92/2372]; [Pub. L. 101–189, div. A, title III][/us/pl/101/189/dA/tIII], § 325(a), Nov. 29, 1989, [103 Stat. 1415][/us/stat/103/1415]; [Pub. L. 101–510, div. A, title V][/us/pl/101/510/dA/tV], § 504(b), Nov. 5, 1990, [104 Stat. 1559][/us/stat/104/1559]; [Pub. L. 106–65, div. A, title III][/us/pl/106/65/dA/tIII], § 354(7), Oct. 5, 1999, [113 Stat. 574][/us/stat/113/574].)
 
  __Amendments__ 
 
@@ -77,13 +77,13 @@
 ----------
 
 [/us/usc/t10/s1141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1141
-[/us/pl/95/561/s1414]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F561%2Fs1414
+[/us/pl/95/561/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F561%2FtXIV
 [/us/stat/92/2372]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2372
-[/us/pl/101/189/s325/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189%2Fs325%2Fa
+[/us/pl/101/189/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189%2FdA%2FtIII
 [/us/stat/103/1415]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1415
-[/us/pl/101/510/s504/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2Fs504%2Fb
+[/us/pl/101/510/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2FdA%2FtV
 [/us/stat/104/1559]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1559
-[/us/pl/106/65/s354/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2Fs354%2F7
+[/us/pl/106/65/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2FdA%2FtIII
 [/us/stat/113/574]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F574
 [/us/pl/106/65]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65
 [/us/pl/101/510]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510

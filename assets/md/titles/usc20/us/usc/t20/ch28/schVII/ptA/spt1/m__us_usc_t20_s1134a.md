@@ -77,7 +77,7 @@
 
         Each recipient shall be entitled to use the fellowship in a graduate program at any accredited institution of higher education in which the recipient may decide to enroll.
 
-([Pub. L. 89–329, title VII, § 702][/us/pl/89/329/s702], as added [Pub. L. 105–244, title VII, § 701][/us/pl/105/244/s701], Oct. 7, 1998, [112 Stat. 1787][/us/stat/112/1787]; amended [Pub. L. 110–315, title VII, § 702(b)][/us/pl/110/315/s702/b], Aug. 14, 2008, [122 Stat. 3345][/us/stat/122/3345].)
+([Pub. L. 89–329, title VII][/us/pl/89/329/tVII], § 702, as added [Pub. L. 105–244, title VII][/us/pl/105/244/tVII], § 701, Oct. 7, 1998, [112 Stat. 1787][/us/stat/112/1787]; amended [Pub. L. 110–315, title VII][/us/pl/110/315/tVII], § 702(b), Aug. 14, 2008, [122 Stat. 3345][/us/stat/122/3345].)
 
  __References in Text__ 
 
@@ -87,13 +87,13 @@
 
     Provisions similar to this section were contained in [section 1134i of this title][/us/usc/t20/s1134i], prior to repeal by [Pub. L. 105–244][/us/pl/105/244].
 
-    A prior section 1134a, [Pub. L. 89–329, title IX, § 911][/us/pl/89/329/s911], as added [Pub. L. 102–325, title IX, § 901][/us/pl/102/325/s901], July 23, 1992, [106 Stat. 761][/us/stat/106/761], authorized grants to encourage women and minority participation in graduate education, prior to repeal by [Pub. L. 105–244, § 3][/us/pl/105/244/s3], title VII, § 702, Oct. 7, 1998, [112 Stat. 1585][/us/stat/112/1585], 1803, effective Oct. 1, 1998.
+    A prior section 1134a, [Pub. L. 89–329, title IX][/us/pl/89/329/tIX], § 911, as added [Pub. L. 102–325, title IX][/us/pl/102/325/tIX], § 901, July 23, 1992, [106 Stat. 761][/us/stat/106/761], authorized grants to encourage women and minority participation in graduate education, prior to repeal by [Pub. L. 105–244][/us/pl/105/244], § 3, title VII, § 702, Oct. 7, 1998, [112 Stat. 1585][/us/stat/112/1585], 1803, effective Oct. 1, 1998.
 
-    Another prior section 1134a, [Pub. L. 89–329, title IX, § 902][/us/pl/89/329/s902], as added [Pub. L. 99–498, title IX, § 901(a)][/us/pl/99/498/s901/a], Oct. 17, 1986, [100 Stat. 1550][/us/stat/100/1550], related to submission and contents of applications, prior to the general amendment of part A of subchapter IX of this chapter by [Pub. L. 102–325][/us/pl/102/325].
+    Another prior section 1134a, [Pub. L. 89–329, title IX][/us/pl/89/329/tIX], § 902, as added [Pub. L. 99–498, title IX][/us/pl/99/498/tIX], § 901(a), Oct. 17, 1986, [100 Stat. 1550][/us/stat/100/1550], related to submission and contents of applications, prior to the general amendment of part A of subchapter IX of this chapter by [Pub. L. 102–325][/us/pl/102/325].
 
-    Another prior section 1134a, [Pub. L. 89–329, title IX, § 902][/us/pl/89/329/s902], as added [Pub. L. 92–318, title I, § 181(a)][/us/pl/92/318/s181/a], June 23, 1972, [86 Stat. 305][/us/stat/86/305]; amended [Pub. L. 94–482, title I, § 171(a)(3)][/us/pl/94/482/s171/a/3], Oct. 12, 1976, [90 Stat. 2159][/us/stat/90/2159]; [Pub. L. 96–374, title XIII, § 1391(a)(1)][/us/pl/96/374/s1391/a/1], Oct. 3, 1980, [94 Stat. 1503][/us/stat/94/1503], related to applications for grants to institutions of higher education, prior to the general amendment of subchapter IX of this chapter by [Pub. L. 99–498][/us/pl/99/498].
+    Another prior section 1134a, [Pub. L. 89–329, title IX][/us/pl/89/329/tIX], § 902, as added [Pub. L. 92–318, title I][/us/pl/92/318/tI], § 181(a), June 23, 1972, [86 Stat. 305][/us/stat/86/305]; amended [Pub. L. 94–482, title I][/us/pl/94/482/tI], § 171(a)(3), Oct. 12, 1976, [90 Stat. 2159][/us/stat/90/2159]; [Pub. L. 96–374, title XIII][/us/pl/96/374/tXIII], § 1391(a)(1), Oct. 3, 1980, [94 Stat. 1503][/us/stat/94/1503], related to applications for grants to institutions of higher education, prior to the general amendment of subchapter IX of this chapter by [Pub. L. 99–498][/us/pl/99/498].
 
-    Another prior section 1134a, [Pub. L. 89–329, title IX, § 903][/us/pl/89/329/s903], as added [Pub. L. 90–575, title II, § 261][/us/pl/90/575/s261], Oct. 16, 1968, [82 Stat. 1043][/us/stat/82/1043], related to project grants and contracts to strengthen and improve education for the public service, prior to repeal by [Pub. L. 92–318][/us/pl/92/318].
+    Another prior section 1134a, [Pub. L. 89–329, title IX][/us/pl/89/329/tIX], § 903, as added [Pub. L. 90–575, title II][/us/pl/90/575/tII], § 261, Oct. 16, 1968, [82 Stat. 1043][/us/stat/82/1043], related to project grants and contracts to strengthen and improve education for the public service, prior to repeal by [Pub. L. 92–318][/us/pl/92/318].
 
     A prior [section 702 of Pub. L. 89–329][/us/pl/89/329/s702] was classified to [section 1132a–1 of this title][/us/usc/t20/s1132a–1], prior to the general amendment of this subchapter by [Pub. L. 105–244][/us/pl/105/244].
 
@@ -113,33 +113,33 @@
 ----------
 
 [/us/usc/t5/s5703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5703
-[/us/pl/89/329/s702]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2Fs702
-[/us/pl/105/244/s701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2Fs701
+[/us/pl/89/329/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2FtVII
+[/us/pl/105/244/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2FtVII
 [/us/stat/112/1787]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F1787
-[/us/pl/110/315/s702/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2Fs702%2Fb
+[/us/pl/110/315/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2FtVII
 [/us/stat/122/3345]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3345
 [/us/usc/t5/s5315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5315
 [/us/usc/t20/s1134i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1134i
 [/us/pl/105/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244
-[/us/pl/89/329/s911]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2Fs911
-[/us/pl/102/325/s901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325%2Fs901
+[/us/pl/89/329/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2FtIX
+[/us/pl/102/325/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325%2FtIX
 [/us/stat/106/761]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F761
-[/us/pl/105/244/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2Fs3
+[/us/pl/105/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244
 [/us/stat/112/1585]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F1585
-[/us/pl/89/329/s902]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2Fs902
-[/us/pl/99/498/s901/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F498%2Fs901%2Fa
+[/us/pl/89/329/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2FtIX
+[/us/pl/99/498/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F498%2FtIX
 [/us/stat/100/1550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1550
 [/us/pl/102/325]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325
-[/us/pl/89/329/s902]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2Fs902
-[/us/pl/92/318/s181/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F318%2Fs181%2Fa
+[/us/pl/89/329/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2FtIX
+[/us/pl/92/318/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F318%2FtI
 [/us/stat/86/305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F305
-[/us/pl/94/482/s171/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F482%2Fs171%2Fa%2F3
+[/us/pl/94/482/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F482%2FtI
 [/us/stat/90/2159]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2159
-[/us/pl/96/374/s1391/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F374%2Fs1391%2Fa%2F1
+[/us/pl/96/374/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F374%2FtXIII
 [/us/stat/94/1503]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F1503
 [/us/pl/99/498]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F498
-[/us/pl/89/329/s903]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2Fs903
-[/us/pl/90/575/s261]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F575%2Fs261
+[/us/pl/89/329/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2FtIX
+[/us/pl/90/575/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F575%2FtII
 [/us/stat/82/1043]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F1043
 [/us/pl/92/318]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F318
 [/us/pl/89/329/s702]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2Fs702

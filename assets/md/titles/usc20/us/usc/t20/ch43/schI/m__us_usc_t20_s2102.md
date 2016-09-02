@@ -31,7 +31,7 @@
 
     (7) the term “workshop” means an activity the primary purpose of which is to encourage the development of skills, appreciation, or enjoyment of American folklife among amateur, student, or nonprofessional participants, or to promote scholarship or teaching among the participants.
 
-([Pub. L. 94–201, § 3][/us/pl/94/201/s3], Jan. 2, 1976, [89 Stat. 1129][/us/stat/89/1129].)
+([Pub. L. 94–201][/us/pl/94/201], § 3, Jan. 2, 1976, [89 Stat. 1129][/us/stat/89/1129].)
 
 ----------
 
@@ -40,7 +40,7 @@
 ----------
 ----------
 
-[/us/pl/94/201/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F201%2Fs3
+[/us/pl/94/201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F201
 [/us/stat/89/1129]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F1129
 
 

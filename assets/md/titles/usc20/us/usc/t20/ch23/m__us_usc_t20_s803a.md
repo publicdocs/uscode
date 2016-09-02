@@ -33,11 +33,11 @@
 
         (2) Payments under this section may be used, in accordance with regulations of the Secretary, and subject to the terms and conditions set forth in an application approved under paragraph (1), to pay part of the compensation of students employed in professions referred to in subsection (a)(1) of this section, except students employed in any branch of the Government of the United States, as part of a program for which a grant has been approved pursuant to this subsection.
 
-([Pub. L. 88–560, title VIII, § 804][/us/pl/88/560/s804], as added [Pub. L. 93–383, title IV, § 402(c)(2)][/us/pl/93/383/s402/c/2], Aug. 22, 1974, [88 Stat. 692][/us/stat/88/692].)
+([Pub. L. 88–560, title VIII][/us/pl/88/560/tVIII], § 804, as added [Pub. L. 93–383, title IV][/us/pl/93/383/tIV], § 402(c)(2), Aug. 22, 1974, [88 Stat. 692][/us/stat/88/692].)
 
  __Codification__ 
 
-    [Pub. L. 93–383, § 402][/us/pl/93/383/s402], provided for amendments to title VIII of the Housing and Urban Development Act of 1964. The amendments of the enumerated sections of such title VIII have been executed to comparable sections of title VIII of the Housing Act of 1964 as the probable intent of Congress.
+    [Pub. L. 93–383][/us/pl/93/383], § 402, provided for amendments to title VIII of the Housing and Urban Development Act of 1964. The amendments of the enumerated sections of such title VIII have been executed to comparable sections of title VIII of the Housing Act of 1964 as the probable intent of Congress.
 
 ----------
 
@@ -46,9 +46,9 @@
 ----------
 ----------
 
-[/us/pl/88/560/s804]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F560%2Fs804
-[/us/pl/93/383/s402/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F383%2Fs402%2Fc%2F2
+[/us/pl/88/560/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F560%2FtVIII
+[/us/pl/93/383/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F383%2FtIV
 [/us/stat/88/692]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F692
-[/us/pl/93/383/s402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F383%2Fs402
+[/us/pl/93/383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F383
 
 

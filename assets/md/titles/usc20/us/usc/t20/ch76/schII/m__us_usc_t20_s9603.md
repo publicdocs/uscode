@@ -17,7 +17,7 @@
 
     The Secretary shall provide for ongoing independent evaluations by the National Center for Education Evaluation and Regional Assistance of the comprehensive centers receiving assistance under this subchapter, the results of which shall be transmitted to the appropriate congressional committees and the Director of the Institute of Education Sciences. Such evaluations shall include an analysis of the services provided under this subchapter, the extent to which each of the comprehensive centers meets the objectives of its respective plan, and whether such services meet the educational needs of State educational agencies, local educational agencies, and schools in the region.
 
-([Pub. L. 107–279, title II, § 204][/us/pl/107/279/s204], Nov. 5, 2002, [116 Stat. 1979][/us/stat/116/1979].)
+([Pub. L. 107–279, title II][/us/pl/107/279/tII], § 204, Nov. 5, 2002, [116 Stat. 1979][/us/stat/116/1979].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/107/279/s204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F279%2Fs204
+[/us/pl/107/279/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F279%2FtII
 [/us/stat/116/1979]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1979
 
 

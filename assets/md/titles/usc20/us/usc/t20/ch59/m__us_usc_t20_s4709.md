@@ -23,7 +23,7 @@
 
         The Executive Secretary of the Foundation shall serve as a noncareer appointee of the Senior Executive Service and shall be compensated at a rate determined by the Board in accordance with [section 5383 of title 5][/us/usc/t5/s5383].
 
-([Pub. L. 99–661, div. A, title XIV, § 1410][/us/pl/99/661/s1410], Nov. 14, 1986, [100 Stat. 4011][/us/stat/100/4011]; [Pub. L. 102–190, div. A, title X, § 1089(3)][/us/pl/102/190/s1089/3], Dec. 5, 1991, [105 Stat. 1485][/us/stat/105/1485].)
+([Pub. L. 99–661, div. A, title XIV][/us/pl/99/661/dA/tXIV], § 1410, Nov. 14, 1986, [100 Stat. 4011][/us/stat/100/4011]; [Pub. L. 102–190, div. A, title X][/us/pl/102/190/dA/tX], § 1089(3), Dec. 5, 1991, [105 Stat. 1485][/us/stat/105/1485].)
 
  __Amendments__ 
 
@@ -37,9 +37,9 @@
 ----------
 
 [/us/usc/t5/s5383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5383
-[/us/pl/99/661/s1410]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F661%2Fs1410
+[/us/pl/99/661/dA/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F661%2FdA%2FtXIV
 [/us/stat/100/4011]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F4011
-[/us/pl/102/190/s1089/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F190%2Fs1089%2F3
+[/us/pl/102/190/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F190%2FdA%2FtX
 [/us/stat/105/1485]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1485
 [/us/pl/102/190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F190
 

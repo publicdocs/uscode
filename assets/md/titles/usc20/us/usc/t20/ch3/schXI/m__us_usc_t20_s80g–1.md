@@ -49,7 +49,7 @@
 
         There is authorized to be appropriated to the fund for the fiscal year beginning October 1, 1978, $1,000,000.
 
-([Pub. L. 90–637, § 5][/us/pl/90/637/s5], as added [Pub. L. 95–286, § 1(2)][/us/pl/95/286/s1/2], May 26, 1978, [92 Stat. 278][/us/stat/92/278].)
+([Pub. L. 90–637][/us/pl/90/637], § 5, as added [Pub. L. 95–286][/us/pl/95/286], § 1(2), May 26, 1978, [92 Stat. 278][/us/stat/92/278].)
 
 ----------
 
@@ -59,8 +59,8 @@
 ----------
 
 [/us/usc/t20/s80g/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs80g%2Fa%2F2
-[/us/pl/90/637/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F637%2Fs5
-[/us/pl/95/286/s1/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F286%2Fs1%2F2
+[/us/pl/90/637]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F637
+[/us/pl/95/286]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F286
 [/us/stat/92/278]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F278
 
 

@@ -17,7 +17,7 @@
 
     An applicant within a State that desires to receive a grant under this part  <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  shall submit an application prepared in accordance with [section 3995 of this title][/us/usc/t20/s3995] to the State educational agency for approval. Each application with respect to funds for improvement of elementary and secondary resources under [section 3994(b)(1) of this title][/us/usc/t20/s3994/b/1] shall be submitted jointly by the local educational agency and each business concern or other party that is to participate in the activities for which assistance is sought.
 
-([Pub. L. 98–377, title III, § 326][/us/pl/98/377/s326], as added [Pub. L. 100–418, title VI, § 6031(a)(2)][/us/pl/100/418/s6031/a/2], Aug. 23, 1988, [102 Stat. 1482][/us/stat/102/1482].)
+([Pub. L. 98–377, title III][/us/pl/98/377/tIII], § 326, as added [Pub. L. 100–418, title VI][/us/pl/100/418/tVI], § 6031(a)(2), Aug. 23, 1988, [102 Stat. 1482][/us/stat/102/1482].)
 
  __References in Text__ 
 
@@ -32,8 +32,8 @@
 
 [/us/usc/t20/s3995]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs3995
 [/us/usc/t20/s3994/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs3994%2Fb%2F1
-[/us/pl/98/377/s326]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F377%2Fs326
-[/us/pl/100/418/s6031/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2Fs6031%2Fa%2F2
+[/us/pl/98/377/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F377%2FtIII
+[/us/pl/100/418/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2FtVI
 [/us/stat/102/1482]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1482
 [/us/pl/98/377]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F377
 

@@ -31,7 +31,7 @@
 
         The report required by subsection (a) of this section shall also include an estimate of the extent of the non-Federal personnel employed pursuant to contracts entered into by the Department under [section 3475 of this title][/us/usc/t20/s3475] or under any other authority (including any subcontract thereunder), the number of such contracts and subcontracts pursuant to which non-Federal personnel are employed, and the total cost of those contracts and subcontracts.
 
-([Pub. L. 96–88, title IV, § 426][/us/pl/96/88/s426], Oct. 17, 1979, [93 Stat. 688][/us/stat/93/688].)
+([Pub. L. 96–88, title IV][/us/pl/96/88/tIV], § 426, Oct. 17, 1979, [93 Stat. 688][/us/stat/93/688].)
 
  __Termination of Reporting Requirements__ 
 
@@ -45,7 +45,7 @@
 ----------
 
 [/us/usc/t20/s3475]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs3475
-[/us/pl/96/88/s426]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F88%2Fs426
+[/us/pl/96/88/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F88%2FtIV
 [/us/stat/93/688]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F688
 [/us/pl/104/66/s3003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F66%2Fs3003
 [/us/usc/t31/s1113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1113

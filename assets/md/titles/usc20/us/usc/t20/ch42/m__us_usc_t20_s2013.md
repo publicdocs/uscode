@@ -17,7 +17,7 @@
 
     There are authorized to be appropriated $30,000,000 to the fund.
 
-([Pub. L. 93–642, § 14][/us/pl/93/642/s14], Jan. 4, 1975, [88 Stat. 2280][/us/stat/88/2280].)
+([Pub. L. 93–642][/us/pl/93/642], § 14, Jan. 4, 1975, [88 Stat. 2280][/us/stat/88/2280].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/93/642/s14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F642%2Fs14
+[/us/pl/93/642]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F642
 [/us/stat/88/2280]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F2280
 
 

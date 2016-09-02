@@ -69,7 +69,7 @@
 
             If the Secretary determines, based on the State report submitted under paragraph (4), that the State is not making progress toward achieving the performance goals described in paragraph (2), then the State shall submit a performance improvement plan to the Secretary, and demonstrate reasonable progress in implementing such plan, in order to remain eligible for funding under this chapter.
 
-([Pub. L. 106–554, § 1(a)(1)][/us/pl/106/554/s1/a/1] \[title VIII, § 811\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–86.)
+([Pub. L. 106–554][/us/pl/106/554], § 1(a)(1) \[title VIII, § 811\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–86.)
 
 ----------
 
@@ -80,7 +80,7 @@
 
 [/us/usc/t20/s9409/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs9409%2Fc
 [/us/usc/t20/s9412]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs9412
-[/us/pl/106/554/s1/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F1
+[/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
 [/us/stat/114/2763]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2763
 
 

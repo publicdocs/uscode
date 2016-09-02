@@ -45,13 +45,13 @@
 
         (2) For any period for which military family housing is leased under paragraph (1) to a teacher described in such paragraph, the teacher shall receive a quarters allowance in the amount determined under subsection (b) of this section. The teacher is entitled to such quarters allowance without regard to whether other Government furnished quarters are available for occupancy by the teacher without charge to the teacher.
 
-([Pub. L. 86–91, § 7][/us/pl/86/91/s7], July 17, 1959, [73 Stat. 216][/us/stat/73/216]; [Pub. L. 87–172, § 1][/us/pl/87/172/s1], Aug. 30, 1961, [75 Stat. 409][/us/stat/75/409]; [Pub. L. 107–314, div. A, title III, § 342][/us/pl/107/314/s342], Dec. 2, 2002, [116 Stat. 2515][/us/stat/116/2515].)
+([Pub. L. 86–91][/us/pl/86/91], § 7, July 17, 1959, [73 Stat. 216][/us/stat/73/216]; [Pub. L. 87–172][/us/pl/87/172], § 1, Aug. 30, 1961, [75 Stat. 409][/us/stat/75/409]; [Pub. L. 107–314, div. A, title III][/us/pl/107/314/dA/tIII], § 342, Dec. 2, 2002, [116 Stat. 2515][/us/stat/116/2515].)
 
  __Codification__ 
 
-    In subsecs. (b) and (c)(1), “[section 5912 of title 5][/us/usc/t5/s5912]” substituted for “the Act of June 26, 1930 ([5 U.S.C. 118a][/us/usc/t5/s118a])” on authority of [Pub. L. 89–554, § 7(b)][/us/pl/89/554/s7/b], June 6, 1966, [80 Stat. 631][/us/stat/80/631], the first section of which enacted Title 5, Government Organization and Employees.
+    In subsecs. (b) and (c)(1), “[section 5912 of title 5][/us/usc/t5/s5912]” substituted for “the Act of June 26, 1930 ([5 U.S.C. 118a][/us/usc/t5/s118a])” on authority of [Pub. L. 89–554][/us/pl/89/554], § 7(b), June 6, 1966, [80 Stat. 631][/us/stat/80/631], the first section of which enacted Title 5, Government Organization and Employees.
 
-    Section was formerly classified to [section 2355 of Title 5][/us/usc/t5/s2355] prior to the general revision and enactment of Title 5 by [Pub. L. 89–554, § 1][/us/pl/89/554/s1], Sept. 6, 1966, [80 Stat. 378][/us/stat/80/378].
+    Section was formerly classified to [section 2355 of Title 5][/us/usc/t5/s2355] prior to the general revision and enactment of Title 5 by [Pub. L. 89–554][/us/pl/89/554], § 1, Sept. 6, 1966, [80 Stat. 378][/us/stat/80/378].
 
  __Amendments__ 
 
@@ -76,18 +76,18 @@
 
 [/us/usc/t5/s5912]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5912
 [/us/usc/t5/s5912]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5912
-[/us/pl/86/91/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F91%2Fs7
+[/us/pl/86/91]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F91
 [/us/stat/73/216]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F73%2F216
-[/us/pl/87/172/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F172%2Fs1
+[/us/pl/87/172]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F172
 [/us/stat/75/409]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F75%2F409
-[/us/pl/107/314/s342]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2Fs342
+[/us/pl/107/314/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2FdA%2FtIII
 [/us/stat/116/2515]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2515
 [/us/usc/t5/s5912]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5912
 [/us/usc/t5/s118a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs118a
-[/us/pl/89/554/s7/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554%2Fs7%2Fb
+[/us/pl/89/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554
 [/us/stat/80/631]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F631
 [/us/usc/t5/s2355]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs2355
-[/us/pl/89/554/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554%2Fs1
+[/us/pl/89/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554
 [/us/stat/80/378]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F378
 [/us/pl/107/314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314
 [/us/pl/87/172]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F172

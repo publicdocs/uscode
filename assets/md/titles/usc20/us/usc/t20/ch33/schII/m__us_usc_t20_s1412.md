@@ -333,15 +333,21 @@
 
             (C) __Qualifications for special education teachers__ 
 
-                The qualifications described in subparagraph (A) shall ensure that each person employed as a special education teacher in the State who teaches elementary school, middle school, or secondary school is highly qualified by the deadline established in [section 6319(a)(2) of this title][/us/usc/t20/s6319/a/2].
+            The qualifications described in subparagraph (A) shall ensure that each person employed as a special education teacher in the State who teaches elementary school, middle school, or secondary school—
+
+                (i) has obtained full State certification as a special education teacher (including participating in an alternate route to certification as a special educator, if such alternate route meets minimum requirements described in section 2005.56(a)(2)(ii) of title 34, Code of Federal Regulations, as such section was in effect on November 28, 2008), or passed the State special education teacher licensing examination, and holds a license to teach in the State as a special education teacher, except with respect to any teacher teaching in a public charter school who shall meet the requirements set forth in the State’s public charter school law;
+
+                (ii) has not had special education certification or licensure requirements waived on an emergency, temporary, or provisional basis; and
+
+                (iii) holds at least a bachelor’s degree.. <sup>\[1\]</sup>  <sup><sup> 1 So in original. </sup></sup> 
 
             (D) __Policy__ 
 
-                In implementing this section, a State shall adopt a policy that includes a requirement that local educational agencies in the State take measurable steps to recruit, hire, train, and retain highly qualified personnel to provide special education and related services under this subchapter to children with disabilities.
+                In implementing this section, a State shall adopt a policy that includes a requirement that local educational agencies in the State take measurable steps to recruit, hire, train, and retain personnel who meet the applicable requirements described in this paragraph to provide special education and related services under this subchapter to children with disabilities.
 
             (E) __Rule of construction__ 
 
-                Notwithstanding any other individual right of action that a parent or student may maintain under this subchapter, nothing in this paragraph shall be construed to create a right of action on behalf of an individual student for the failure of a particular State educational agency or local educational agency staff person to be highly qualified, or to prevent a parent from filing a complaint about staff qualifications with the State educational agency as provided for under this subchapter.
+                Notwithstanding any other individual right of action that a parent or student may maintain under this subchapter, nothing in this paragraph shall be construed to create a right of action on behalf of an individual student for the failure of a particular State educational agency or local educational agency staff person to meet the applicable requirements described in this paragraph, or to prevent a parent from filing a complaint about staff qualifications with the State educational agency as provided for under this subchapter.
 
         (15) __Performance goals and indicators__ 
 
@@ -353,13 +359,13 @@
 
                 (i) promote the purposes of this chapter, as stated in [section 1400(d) of this title][/us/usc/t20/s1400/d];
 
-                (ii) are the same as the State’s definition of adequate yearly progress, including the State’s objectives for progress by children with disabilities, under [section 6311(b)(2)(C) of this title][/us/usc/t20/s6311/b/2/C];
+                (ii) are the same as the State’s long-term goals and measurements of interim progress for children with disabilities under [section 6311(c)(4)(A)(i) of this title][/us/usc/t20/s6311/c/4/A/i];
 
                 (iii) address graduation rates and dropout rates, as well as such other factors as the State may determine; and
 
                 (iv) are consistent, to the extent appropriate, with any other goals and standards for children established by the State;
 
-            (B) has established performance indicators the State will use to assess progress toward achieving the goals described in subparagraph (A), including measurable annual objectives for progress by children with disabilities under [section 6311(b)(2)(C)(v)(II)(cc) of this title][/us/usc/t20/s6311/b/2/C/v/II/cc]; and
+            (B) has established performance indicators the State will use to assess progress toward achieving the goals described in subparagraph (A), including measurements of interim progress for children with disabilities under [section 6311(c)(4)(A)(i) of this title][/us/usc/t20/s6311/c/4/A/i]; and
 
             (C) will annually report to the Secretary and the public on the progress of the State, and of children with disabilities in the State, toward meeting the goals established under subparagraph (A), which may include elements of the reports required under [section 6311(h) of this title][/us/usc/t20/s6311/h].
 
@@ -383,9 +389,9 @@
 
                 The guidelines under clause (i) shall provide for alternate assessments that—
 
-                    (I) are aligned with the State’s challenging academic content standards and challenging student academic achievement standards; and
+                    (I) are aligned with the challenging State academic content standards under [section 6311(b)(1) of this title][/us/usc/t20/s6311/b/1] and alternate academic achievement standards under [section 6311(b)(1)(E) of this title][/us/usc/t20/s6311/b/1/E]; and
 
-                    (II) if the State has adopted alternate academic achievement standards permitted under the regulations promulgated to carry out [section 6311(b)(1) of this title][/us/usc/t20/s6311/b/1], measure the achievement of children with disabilities against those standards.
+                    (II) if the State has adopted alternate academic achievement standards permitted under [section 6311(b)(1)(E) of this title][/us/usc/t20/s6311/b/1/E], measure the achievement of children with disabilities against those standards.
 
                 (iii) __Conduct of alternate assessments__ 
 
@@ -649,7 +655,7 @@
 
                 Upon the filing of a petition under subparagraph (B), the United States court of appeals shall have jurisdiction to affirm the action of the Secretary or to set it aside, in whole or in part. The judgment of the court shall be subject to review by the Supreme Court of the United States upon certiorari or certification as provided in [section 1254 of title 28][/us/usc/t28/s1254].
 
-([Pub. L. 91–230, title VI, § 612][/us/pl/91/230/s612], as added [Pub. L. 108–446, title I, § 101][/us/pl/108/446/s101], Dec. 3, 2004, [118 Stat. 2676][/us/stat/118/2676].)
+([Pub. L. 91–230, title VI][/us/pl/91/230/tVI], § 612, as added [Pub. L. 108–446, title I][/us/pl/108/446/tI], § 101, Dec. 3, 2004, [118 Stat. 2676][/us/stat/118/2676]; amended [Pub. L. 114–95, title IX][/us/pl/114/95/tIX], §§ 9214(d)(2), 9215(ss)(3), Dec. 10, 2015, [129 Stat. 2164][/us/stat/129/2164], 2182.)
 
  __References in Text__ 
 
@@ -663,9 +669,29 @@
 
  __Prior Provisions__ 
 
-    A prior section 1412, [Pub. L. 91–230, title VI, § 612][/us/pl/91/230/s612], as added [Pub. L. 105–17, title I, § 101][/us/pl/105/17/s101], June 4, 1997, [111 Stat. 60][/us/stat/111/60], related to State eligibility for assistance, prior to the general amendment of subchapters I to IV of this chapter by [Pub. L. 108–446][/us/pl/108/446].
+    A prior section 1412, [Pub. L. 91–230, title VI][/us/pl/91/230/tVI], § 612, as added [Pub. L. 105–17, title I][/us/pl/105/17/tI], § 101, June 4, 1997, [111 Stat. 60][/us/stat/111/60], related to State eligibility for assistance, prior to the general amendment of subchapters I to IV of this chapter by [Pub. L. 108–446][/us/pl/108/446].
 
-    Another prior section 1412, [Pub. L. 91–230, title VI, § 612][/us/pl/91/230/s612], Apr. 13, 1970, [84 Stat. 178][/us/stat/84/178]; [Pub. L. 92–318, title IV, § 421(b)(1)(C)][/us/pl/92/318/s421/b/1/C], June 23, 1972, [86 Stat. 341][/us/stat/86/341]; [Pub. L. 93–380, title VI][/us/pl/93/380], §§ 614(b), (f)(1), 615(a), title VIII, § 843(b), Aug. 21, 1974, [88 Stat. 581][/us/stat/88/581], 582, 611; [Pub. L. 94–142][/us/pl/94/142], §§ 2(a)(4), (c), (d), 5(a), Nov. 29, 1975, [89 Stat. 773][/us/stat/89/773], 774, 780; [Pub. L. 98–199, § 3(b)][/us/pl/98/199/s3/b], Dec. 2, 1983, [97 Stat. 1358][/us/stat/97/1358]; [Pub. L. 99–457, title II, § 203(a)][/us/pl/99/457/s203/a], Oct. 8, 1986, [100 Stat. 1158][/us/stat/100/1158]; [Pub. L. 100–630, title I, § 102(b)][/us/pl/100/630/s102/b], Nov. 7, 1988, [102 Stat. 3291][/us/stat/102/3291]; [Pub. L. 101–476, title IX, § 901(b)(33)][/us/pl/101/476/s901/b/33]–(46), (c), Oct. 30, 1990, [104 Stat. 1143][/us/stat/104/1143], 1144, 1151; [Pub. L. 102–119, § 25(a)(5)][/us/pl/102/119/s25/a/5], (b), Oct. 7, 1991, [105 Stat. 606][/us/stat/105/606], 607, related to eligibility requirements, prior to the general amendment of subchapters I to IV of this chapter by [Pub. L. 105–17][/us/pl/105/17].
+    Another prior section 1412, [Pub. L. 91–230, title VI][/us/pl/91/230/tVI], § 612, Apr. 13, 1970, [84 Stat. 178][/us/stat/84/178]; [Pub. L. 92–318, title IV][/us/pl/92/318/tIV], § 421(b)(1)(C), June 23, 1972, [86 Stat. 341][/us/stat/86/341]; [Pub. L. 93–380, title VI][/us/pl/93/380/tVI], §§ 614(b), (f)(1), 615(a), title VIII, § 843(b), Aug. 21, 1974, [88 Stat. 581][/us/stat/88/581], 582, 611; [Pub. L. 94–142][/us/pl/94/142], §§ 2(a)(4), (c), (d), 5(a), Nov. 29, 1975, [89 Stat. 773][/us/stat/89/773], 774, 780; [Pub. L. 98–199][/us/pl/98/199], § 3(b), Dec. 2, 1983, [97 Stat. 1358][/us/stat/97/1358]; [Pub. L. 99–457, title II][/us/pl/99/457/tII], § 203(a), Oct. 8, 1986, [100 Stat. 1158][/us/stat/100/1158]; [Pub. L. 100–630, title I][/us/pl/100/630/tI], § 102(b), Nov. 7, 1988, [102 Stat. 3291][/us/stat/102/3291]; [Pub. L. 101–476, title IX][/us/pl/101/476/tIX], § 901(b)(33)–(46), (c), Oct. 30, 1990, [104 Stat. 1143][/us/stat/104/1143], 1144, 1151; [Pub. L. 102–119][/us/pl/102/119], § 25(a)(5), (b), Oct. 7, 1991, [105 Stat. 606][/us/stat/105/606], 607, related to eligibility requirements, prior to the general amendment of subchapters I to IV of this chapter by [Pub. L. 105–17][/us/pl/105/17].
+
+ __Amendments__ 
+
+    2015—Subsec. (a)(14)(C). [Pub. L. 114–95][/us/pl/114/95], § 9214(d)(2)(A), substituted “secondary school—” for “secondary school is highly qualified by the deadline established in [section 6319(a)(2) of this title][/us/usc/t20/s6319/a/2]” and added cls. (i) to (iii).
+
+    Subsec. (a)(14)(D). [Pub. L. 114–95][/us/pl/114/95], § 9214(d)(2)(B), substituted “personnel who meet the applicable requirements described in this paragraph” for “highly qualified personnel”.
+
+    Subsec. (a)(14)(E). [Pub. L. 114–95][/us/pl/114/95], § 9214(d)(2)(C), substituted “staff person to meet the applicable requirements described in this paragraph” for “staff person to be highly qualified”.
+
+    Subsec. (a)(15)(A)(ii). [Pub. L. 114–95][/us/pl/114/95], § 9215(ss)(3)(A)(i), added cl. (ii) and struck out former cl. (ii) which read as follows: “are the same as the State’s definition of adequate yearly progress, including the State’s objectives for progress by children with disabilities, under [section 6311(b)(2)(C) of this title][/us/usc/t20/s6311/b/2/C];”.
+
+    Subsec. (a)(15)(B). [Pub. L. 114–95][/us/pl/114/95], § 9215(ss)(3)(A)(ii), which directed substitution of “including measurements of interim progress for children with disabilities under section 6311(c)(4)(A)(i)” for “including measurable annual objectives for progress by children with disabilities under section 6311(b)(2)(C)(v)(II)”, was executed by making the substitution for “including measurable annual objectives for progress by children with disabilities under section 6311(b)(2)(C)(v)(II)(cc)”, to reflect the probable intent of Congress.
+
+    Subsec. (a)(16)(C)(ii)(I). [Pub. L. 114–95][/us/pl/114/95], § 9215(ss)(3)(B)(i), substituted “challenging State academic content standards under [section 6311(b)(1) of this title][/us/usc/t20/s6311/b/1] and alternate academic achievement standards under [section 6311(b)(1)(E) of this title][/us/usc/t20/s6311/b/1/E]” for “State’s challenging academic content standards and challenging student academic achievement standards”.
+
+    Subsec. (a)(16)(C)(ii)(II). [Pub. L. 114–95][/us/pl/114/95], § 9215(ss)(3)(B)(ii), substituted “[section 6311(b)(1)(E) of this title][/us/usc/t20/s6311/b/1/E],” for “the regulations promulgated to carry out [section 6311(b)(1) of this title][/us/usc/t20/s6311/b/1],”.
+
+ __Effective Date of 2015 Amendment__ 
+
+    Amendment by [Pub. L. 114–95][/us/pl/114/95] effective Dec. 10, 2015, except with respect to certain noncompetitive programs and competitive programs, see [section 5 of Pub. L. 114–95][/us/pl/114/95/s5], set out as a note under [section 6301 of this title][/us/usc/t20/s6301].
 
 ----------
 
@@ -687,13 +713,14 @@
 [/us/usc/t20/s1415/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1415%2Fb%2F3
 [/us/usc/t20/s1415]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1415
 [/us/usc/t42/s11431]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs11431
-[/us/usc/t20/s6319/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs6319%2Fa%2F2
 [/us/usc/t20/s1400/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1400%2Fd
-[/us/usc/t20/s6311/b/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs6311%2Fb%2F2%2FC
-[/us/usc/t20/s6311/b/2/C/v/II/cc]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs6311%2Fb%2F2%2FC%2Fv%2FII%2Fcc
+[/us/usc/t20/s6311/c/4/A/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs6311%2Fc%2F4%2FA%2Fi
+[/us/usc/t20/s6311/c/4/A/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs6311%2Fc%2F4%2FA%2Fi
 [/us/usc/t20/s6311/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs6311%2Fh
 [/us/usc/t20/s6311]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs6311
 [/us/usc/t20/s6311/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs6311%2Fb%2F1
+[/us/usc/t20/s6311/b/1/E]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs6311%2Fb%2F1%2FE
+[/us/usc/t20/s6311/b/1/E]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs6311%2Fb%2F1%2FE
 [/us/usc/t20/s1413]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1413
 [/us/usc/t20/s1411]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1411
 [/us/usc/t42/s11431]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs11431
@@ -711,9 +738,11 @@
 [/us/usc/t20/s1418]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1418
 [/us/usc/t28/s2112]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs2112
 [/us/usc/t28/s1254]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs1254
-[/us/pl/91/230/s612]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F230%2Fs612
-[/us/pl/108/446/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F446%2Fs101
+[/us/pl/91/230/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F230%2FtVI
+[/us/pl/108/446/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F446%2FtI
 [/us/stat/118/2676]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F2676
+[/us/pl/114/95/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F95%2FtIX
+[/us/stat/129/2164]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F2164
 [/us/pl/100/77]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F77
 [/us/stat/101/482]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F482
 [/us/usc/t42/s11301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs11301
@@ -725,28 +754,44 @@
 [/us/act/1935-08-14/ch531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531
 [/us/stat/49/620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F620
 [/us/usc/t42/s1305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1305
-[/us/pl/91/230/s612]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F230%2Fs612
-[/us/pl/105/17/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F17%2Fs101
+[/us/pl/91/230/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F230%2FtVI
+[/us/pl/105/17/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F17%2FtI
 [/us/stat/111/60]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F60
 [/us/pl/108/446]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F446
-[/us/pl/91/230/s612]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F230%2Fs612
+[/us/pl/91/230/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F230%2FtVI
 [/us/stat/84/178]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F178
-[/us/pl/92/318/s421/b/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F318%2Fs421%2Fb%2F1%2FC
+[/us/pl/92/318/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F318%2FtIV
 [/us/stat/86/341]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F341
-[/us/pl/93/380]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F380
+[/us/pl/93/380/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F380%2FtVI
 [/us/stat/88/581]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F581
 [/us/pl/94/142]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F142
 [/us/stat/89/773]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F773
-[/us/pl/98/199/s3/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F199%2Fs3%2Fb
+[/us/pl/98/199]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F199
 [/us/stat/97/1358]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F1358
-[/us/pl/99/457/s203/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F457%2Fs203%2Fa
+[/us/pl/99/457/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F457%2FtII
 [/us/stat/100/1158]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1158
-[/us/pl/100/630/s102/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F630%2Fs102%2Fb
+[/us/pl/100/630/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F630%2FtI
 [/us/stat/102/3291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3291
-[/us/pl/101/476/s901/b/33]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F476%2Fs901%2Fb%2F33
+[/us/pl/101/476/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F476%2FtIX
 [/us/stat/104/1143]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1143
-[/us/pl/102/119/s25/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F119%2Fs25%2Fa%2F5
+[/us/pl/102/119]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F119
 [/us/stat/105/606]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F606
 [/us/pl/105/17]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F17
+[/us/pl/114/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F95
+[/us/usc/t20/s6319/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs6319%2Fa%2F2
+[/us/pl/114/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F95
+[/us/pl/114/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F95
+[/us/pl/114/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F95
+[/us/usc/t20/s6311/b/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs6311%2Fb%2F2%2FC
+[/us/pl/114/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F95
+[/us/pl/114/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F95
+[/us/usc/t20/s6311/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs6311%2Fb%2F1
+[/us/usc/t20/s6311/b/1/E]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs6311%2Fb%2F1%2FE
+[/us/pl/114/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F95
+[/us/usc/t20/s6311/b/1/E]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs6311%2Fb%2F1%2FE
+[/us/usc/t20/s6311/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs6311%2Fb%2F1
+[/us/pl/114/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F95
+[/us/pl/114/95/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F95%2Fs5
+[/us/usc/t20/s6301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs6301
 
 

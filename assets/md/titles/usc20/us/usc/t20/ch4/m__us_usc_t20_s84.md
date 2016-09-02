@@ -17,7 +17,7 @@
 
     All plans and specifications for the construction of buildings and bridges in the National Zoological Park shall be prepared under the supervision of the Smithsonian Institution.
 
-([Aug. 24, 1912, ch. 355, § 1][/us/act/1912-08-24/ch355/s1], [37 Stat. 437][/us/stat/37/437]; 1966 Reorg. Plan No. 4, eff. Aug. 23, 1966, 31 FR 11137, [80 Stat. 1611][/us/stat/80/1611].)
+([Aug. 24, 1912, ch. 355][/us/act/1912-08-24/ch355], § 1, [37 Stat. 437][/us/stat/37/437]; 1966 Reorg. Plan No. 4, eff. Aug. 23, 1966, 31 FR 11137, [80 Stat. 1611][/us/stat/80/1611].)
 
  __REORGANIZATION PLAN NO. 4 OF 1966__  __Eff.__  __Aug. 23, 1966__  __, 31 F.R. 11137,__  __[__  __80 Stat. 1611__  __][/us/stat/80/1611]__ 
 
@@ -56,7 +56,7 @@
 ----------
 ----------
 
-[/us/act/1912-08-24/ch355/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1912-08-24%2Fch355%2Fs1
+[/us/act/1912-08-24/ch355]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1912-08-24%2Fch355
 [/us/stat/37/437]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F37%2F437
 [/us/stat/80/1611]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F1611
 [/us/stat/80/1611]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F1611

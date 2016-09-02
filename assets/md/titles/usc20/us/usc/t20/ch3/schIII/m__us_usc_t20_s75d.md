@@ -19,7 +19,7 @@
 
     (b) Legal title to all property (except property of the United States) held for the use or benefit of the Gallery shall be vested in the Smithsonian Institution. Subject to any limitations otherwise expressly provided by law, and, in the case of any gift, subject to any applicable restrictions under the terms of such gift, the Board is authorized to sell, exchange, or otherwise dispose of any property of whatsoever nature held by it, and to invest in, reinvest in, or purchase any property of whatsoever nature for the benefit of the National Portrait Gallery.
 
-([Pub. L. 87–443, § 5][/us/pl/87/443/s5], Apr. 27, 1962, [76 Stat. 62][/us/stat/76/62].)
+([Pub. L. 87–443][/us/pl/87/443], § 5, Apr. 27, 1962, [76 Stat. 62][/us/stat/76/62].)
 
 ----------
 
@@ -28,7 +28,7 @@
 ----------
 ----------
 
-[/us/pl/87/443/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F443%2Fs5
+[/us/pl/87/443]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F443
 [/us/stat/76/62]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F62
 
 

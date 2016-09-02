@@ -23,7 +23,7 @@
 
         The Executive Secretary of the Foundation shall be compensated at an annual rate of basic pay not in excess of the amount payable for Executive Level V.
 
-([Pub. L. 102–281, title IV, § 428][/us/pl/102/281/s428], May 13, 1992, [106 Stat. 144][/us/stat/106/144].)
+([Pub. L. 102–281, title IV][/us/pl/102/281/tIV], § 428, May 13, 1992, [106 Stat. 144][/us/stat/106/144].)
 
  __References in Text__ 
 
@@ -36,7 +36,7 @@
 ----------
 ----------
 
-[/us/pl/102/281/s428]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F281%2Fs428
+[/us/pl/102/281/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F281%2FtIV
 [/us/stat/106/144]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F144
 [/us/usc/t5/s5316]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5316
 

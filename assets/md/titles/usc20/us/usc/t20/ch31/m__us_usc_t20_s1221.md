@@ -49,7 +49,7 @@
 
         Nothing in this chapter shall be construed to affect the applicability of title VI of the Civil Rights Act of 1964 \[[42 U.S.C. 2000d][/us/usc/t42/s2000d] et seq.\], title IX of the Education Amendments of 1972 \[[20 U.S.C. 1681][/us/usc/t20/s1681] et seq.\], title V of the Rehabilitation Act of 1973 \[[29 U.S.C. 790][/us/usc/t29/s790] et seq.\], the Age Discrimination Act \[[42 U.S.C. 6101][/us/usc/t42/s6101] et seq.\], or other statutes prohibiting discrimination, to any applicable program.
 
-([Pub. L. 90–247, title IV, § 400][/us/pl/90/247/s400], formerly § 401, Jan. 2, 1968, [81 Stat. 814][/us/stat/81/814]; [Pub. L. 90–576, title III, § 301(a)][/us/pl/90/576/s301/a], Oct. 16, 1968, [82 Stat. 1094][/us/stat/82/1094]; [Pub. L. 91–230, title IV, § 401(a)(2)][/us/pl/91/230/s401/a/2], Apr. 13, 1970, [84 Stat. 164][/us/stat/84/164]; renumbered § 400, [Pub. L. 92–318, title III, § 301(a)(1)][/us/pl/92/318/s301/a/1], June 23, 1972, [86 Stat. 326][/us/stat/86/326]; [Pub. L. 93–380, title V, § 505(a)(1)][/us/pl/93/380/s505/a/1], Aug. 21, 1974, [88 Stat. 561][/us/stat/88/561]; [Pub. L. 103–382, title II, § 211][/us/pl/103/382/s211], Oct. 20, 1994, [108 Stat. 3912][/us/stat/108/3912].)
+([Pub. L. 90–247, title IV][/us/pl/90/247/tIV], § 400, formerly § 401, Jan. 2, 1968, [81 Stat. 814][/us/stat/81/814]; [Pub. L. 90–576, title III][/us/pl/90/576/tIII], § 301(a), Oct. 16, 1968, [82 Stat. 1094][/us/stat/82/1094]; [Pub. L. 91–230, title IV][/us/pl/91/230/tIV], § 401(a)(2), Apr. 13, 1970, [84 Stat. 164][/us/stat/84/164]; renumbered § 400, [Pub. L. 92–318, title III][/us/pl/92/318/tIII], § 301(a)(1), June 23, 1972, [86 Stat. 326][/us/stat/86/326]; [Pub. L. 93–380, title V][/us/pl/93/380/tV], § 505(a)(1), Aug. 21, 1974, [88 Stat. 561][/us/stat/88/561]; [Pub. L. 103–382, title II][/us/pl/103/382/tII], § 211, Oct. 20, 1994, [108 Stat. 3912][/us/stat/108/3912].)
 
  __References in Text__ 
 
@@ -77,15 +77,15 @@
 
     Subsec. (e). [Pub. L. 93–380][/us/pl/93/380] added subsec. (e).
 
-    1970—[Pub. L. 91–230, § 401(a)(2)(A)][/us/pl/91/230/s401/a/2/A], provided for definitions and authorization of appropriations in section catchline.
+    1970—[Pub. L. 91–230][/us/pl/91/230], § 401(a)(2)(A), provided for definitions and authorization of appropriations in section catchline.
 
-    Subsecs. (b), (c). [Pub. L. 91–230, § 401(a)(2)(B)][/us/pl/91/230/s401/a/2/B], added subsecs. (b) and (c).
+    Subsecs. (b), (c). [Pub. L. 91–230][/us/pl/91/230], § 401(a)(2)(B), added subsecs. (b) and (c).
 
     1968—[Pub. L. 90–576][/us/pl/90/576] substituted general reference to “any program for which the Commissioner of Education has responsibility for administration, either as provided by statute or by delegation pursuant to statute” for specific references to “title I of the Elementary and Secondary Education Act of 1965 (title II of [Pub. L. 81–874][/us/pl/81/874]), titles II, III, V, VI, VII, and VIII of the Elementary and Secondary Education Act of 1965, and the Adult Education Act of 1966 (title III of the Elementary and Secondary Education Amendments of 1966), as now in effect or hereafter from time to time amended” as the areas in which the provisions of this chapter shall apply and inserted provision that amendments to the programs covered shall not affect the applicability of this chapter unless so specified by such amendments.
 
  __Effective Date of 1994 Amendment__ 
 
-[Pub. L. 103–382, § 3(a)(2)][/us/pl/103/382/s3/a/2], Oct. 20, 1994, [108 Stat. 3518][/us/stat/108/3518], provided that: 
+[Pub. L. 103–382][/us/pl/103/382], § 3(a)(2), Oct. 20, 1994, [108 Stat. 3518][/us/stat/108/3518], provided that: 
 
 > “Title II of this Act \[§§ 211 to 272 of [Pub. L. 103–382][/us/pl/103/382], see Tables for classification\] and the amendments made by title II of this Act shall take effect on the date of enactment of this Act \[Oct. 20, 1994\], except that section 236 \[enacting [section 1228a of this title][/us/usc/t20/s1228a]\] (equity for students, teachers, and other program beneficiaries) of such title shall be effective—
 
@@ -95,31 +95,31 @@
 
  __Effective Date of 1974 Amendment__ 
 
-[Pub. L. 93–380, title V, § 505(b)][/us/pl/93/380/s505/b], Aug. 21, 1974, [88 Stat. 562][/us/stat/88/562], provided that: 
+[Pub. L. 93–380, title V][/us/pl/93/380/tV], § 505(b), Aug. 21, 1974, [88 Stat. 562][/us/stat/88/562], provided that: 
 
 > “The amendments made by subsection (a) \[amending this section and [section 1221g of this title][/us/usc/t20/s1221g]\] shall be effective on the tenth day after the date of enactment of this Act \[Aug. 21, 1974\].”
 
  __Short Title of 2013 Amendment__ 
 
-[Pub. L. 112–278, § 1][/us/pl/112/278/s1], Jan. 14, 2013, [126 Stat. 2480][/us/stat/126/2480], provided that: 
+[Pub. L. 112–278][/us/pl/112/278], § 1, Jan. 14, 2013, [126 Stat. 2480][/us/stat/126/2480], provided that: 
 
 > “This Act \[amending [section 1232g of this title][/us/usc/t20/s1232g]\] may be cited as the ‘Uninterrupted Scholars Act (USA)’.”
 
  __Short Title of 1988 Amendment__ 
 
-[Pub. L. 100–297, title III, § 3401][/us/pl/100/297/s3401], Apr. 28, 1988, [102 Stat. 344][/us/stat/102/344], provided that: 
+[Pub. L. 100–297, title III][/us/pl/100/297/tIII], § 3401, Apr. 28, 1988, [102 Stat. 344][/us/stat/102/344], provided that: 
 
 > “This part \[part C (§§ 3401–3403) of title III of [Pub. L. 100–297][/us/pl/100/297], amending sections 1221e and 1221e–1 of this title and enacting provisions set out as a note under [section 1221e–1 of this title][/us/usc/t20/s1221e–1]\] may be cited as the ‘National Assessment of Educational Progress Improvement Act’.”
 
  __Short Title of 1978 Amendment__ 
 
-[Pub. L. 95–561, title XII, § 1211][/us/pl/95/561/s1211], Nov. 1, 1978, [92 Stat. 2338][/us/stat/92/2338], provided that: 
+[Pub. L. 95–561, title XII][/us/pl/95/561/tXII], § 1211, Nov. 1, 1978, [92 Stat. 2338][/us/stat/92/2338], provided that: 
 
 > “This part \[enacting sections 1221–3 and 1231g of this title and amending [section 1221e–1 of this title][/us/usc/t20/s1221e–1]\] may be cited as the ‘Control of Paperwork Amendments of 1978’.”
 
  __Short Title of 1974 Amendment__ 
 
-[Pub. L. 93–380, title V, § 513(b)(2)][/us/pl/93/380/s513/b/2], Aug. 21, 1974, [88 Stat. 574][/us/stat/88/574], provided that: 
+[Pub. L. 93–380, title V][/us/pl/93/380/tV], § 513(b)(2), Aug. 21, 1974, [88 Stat. 574][/us/stat/88/574], provided that: 
 
 > “This section \[enacting [section 1232g of this title][/us/usc/t20/s1232g] and provisions set out as a note under [section 1232g of this title][/us/usc/t20/s1232g]\] may be cited as the ‘Family Educational Rights and Privacy Act of 1974’.”
 
@@ -181,17 +181,17 @@
 [/us/usc/t20/s1681]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1681
 [/us/usc/t29/s790]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs790
 [/us/usc/t42/s6101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6101
-[/us/pl/90/247/s400]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F247%2Fs400
+[/us/pl/90/247/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F247%2FtIV
 [/us/stat/81/814]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F814
-[/us/pl/90/576/s301/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F576%2Fs301%2Fa
+[/us/pl/90/576/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F576%2FtIII
 [/us/stat/82/1094]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F1094
-[/us/pl/91/230/s401/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F230%2Fs401%2Fa%2F2
+[/us/pl/91/230/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F230%2FtIV
 [/us/stat/84/164]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F164
-[/us/pl/92/318/s301/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F318%2Fs301%2Fa%2F1
+[/us/pl/92/318/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F318%2FtIII
 [/us/stat/86/326]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F326
-[/us/pl/93/380/s505/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F380%2Fs505%2Fa%2F1
+[/us/pl/93/380/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F380%2FtV
 [/us/stat/88/561]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F561
-[/us/pl/103/382/s211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F382%2Fs211
+[/us/pl/103/382/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F382%2FtII
 [/us/stat/108/3912]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3912
 [/us/pl/96/88]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F88
 [/us/stat/93/668]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F668
@@ -215,28 +215,28 @@
 [/us/pl/93/380]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F380
 [/us/pl/93/380]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F380
 [/us/pl/93/380]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F380
-[/us/pl/91/230/s401/a/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F230%2Fs401%2Fa%2F2%2FA
-[/us/pl/91/230/s401/a/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F230%2Fs401%2Fa%2F2%2FB
+[/us/pl/91/230]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F230
+[/us/pl/91/230]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F230
 [/us/pl/90/576]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F576
 [/us/pl/81/874]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F81%2F874
-[/us/pl/103/382/s3/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F382%2Fs3%2Fa%2F2
+[/us/pl/103/382]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F382
 [/us/stat/108/3518]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3518
 [/us/pl/103/382]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F382
 [/us/usc/t20/s1228a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1228a
-[/us/pl/93/380/s505/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F380%2Fs505%2Fb
+[/us/pl/93/380/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F380%2FtV
 [/us/stat/88/562]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F562
 [/us/usc/t20/s1221g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1221g
-[/us/pl/112/278/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F278%2Fs1
+[/us/pl/112/278]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F278
 [/us/stat/126/2480]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F2480
 [/us/usc/t20/s1232g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1232g
-[/us/pl/100/297/s3401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F297%2Fs3401
+[/us/pl/100/297/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F297%2FtIII
 [/us/stat/102/344]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F344
 [/us/pl/100/297]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F297
 [/us/usc/t20/s1221e–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1221e%E2%80%931
-[/us/pl/95/561/s1211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F561%2Fs1211
+[/us/pl/95/561/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F561%2FtXII
 [/us/stat/92/2338]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2338
 [/us/usc/t20/s1221e–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1221e%E2%80%931
-[/us/pl/93/380/s513/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F380%2Fs513%2Fb%2F2
+[/us/pl/93/380/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F380%2FtV
 [/us/stat/88/574]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F574
 [/us/usc/t20/s1232g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1232g
 [/us/usc/t20/s1232g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1232g

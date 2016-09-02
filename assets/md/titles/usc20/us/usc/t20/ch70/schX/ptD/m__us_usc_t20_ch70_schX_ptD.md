@@ -11,13 +11,13 @@
 ----------
 ----------
 
-[Previous](./../../../../../..//us/usc/t20/ch70/schX/ptC/spt2/m__us_usc_t20_ch70_schX_ptC_spt2.md) | [Next](./../../../../../..//us/usc/t20/ch70/schX/ptD/spt1/m__us_usc_t20_ch70_schX_ptD_spt1.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fch70%2FschX%2FptD)
+[Previous](./../../../../../..//us/usc/t20/ch70/schX/ptC/spt2/m__us_usc_t20_s8071...8071j.md) | [Next](./../../../../../..//us/usc/t20/ch70/schX/ptD/spt1/m__us_usc_t20_ch70_schX_ptD_spt1.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fch70%2FschX%2FptD)
 
 #### Part D—Arts in Education
 
 ----------
 
-[Previous](./../../../../../..//us/usc/t20/ch70/schX/ptC/spt2/m__us_usc_t20_ch70_schX_ptC_spt2.md) | [Next](./../../../../../..//us/usc/t20/ch70/schX/ptD/spt1/m__us_usc_t20_ch70_schX_ptD_spt1.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fch70%2FschX%2FptD)
+[Previous](./../../../../../..//us/usc/t20/ch70/schX/ptC/spt2/m__us_usc_t20_s8071...8071j.md) | [Next](./../../../../../..//us/usc/t20/ch70/schX/ptD/spt1/m__us_usc_t20_ch70_schX_ptD_spt1.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fch70%2FschX%2FptD)
 
 ----------
 ----------

@@ -87,7 +87,7 @@
 
             A local educational agency may not use grant funds received under this subchapter for construction.
 
-([Pub. L. 103–227, title VII, § 705][/us/pl/103/227/s705], Mar. 31, 1994, [108 Stat. 206][/us/stat/108/206].)
+([Pub. L. 103–227, title VII][/us/pl/103/227/tVII], § 705, Mar. 31, 1994, [108 Stat. 206][/us/stat/108/206].)
 
 ----------
 
@@ -96,7 +96,7 @@
 ----------
 ----------
 
-[/us/pl/103/227/s705]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F227%2Fs705
+[/us/pl/103/227/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F227%2FtVII
 [/us/stat/108/206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F206
 
 

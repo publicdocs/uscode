@@ -17,7 +17,7 @@
 
     The Department of Health and Human Services and the Department of Education shall ensure that all federally funded programs which provide for the distribution of contraceptive devices to unemancipated minors develop procedures to encourage, to the extent practical, family participation in such programs.
 
-([Pub. L. 103–227, title X, § 1018][/us/pl/103/227/s1018], Mar. 31, 1994, [108 Stat. 268][/us/stat/108/268].)
+([Pub. L. 103–227, title X][/us/pl/103/227/tX], § 1018, Mar. 31, 1994, [108 Stat. 268][/us/stat/108/268].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/103/227/s1018]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F227%2Fs1018
+[/us/pl/103/227/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F227%2FtX
 [/us/stat/108/268]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F268
 
 

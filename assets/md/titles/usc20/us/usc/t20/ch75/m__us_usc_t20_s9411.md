@@ -23,7 +23,7 @@
 
         The Lead State Agency shall allocate funds provided under this chapter on the basis of the population of the locality served by the Local Council.
 
-([Pub. L. 106–554, § 1(a)(1)][/us/pl/106/554/s1/a/1] \[title VIII, § 812\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–88.)
+([Pub. L. 106–554][/us/pl/106/554], § 1(a)(1) \[title VIII, § 812\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–88.)
 
 ----------
 
@@ -32,7 +32,7 @@
 ----------
 ----------
 
-[/us/pl/106/554/s1/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F1
+[/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
 [/us/stat/114/2763]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2763
 
 

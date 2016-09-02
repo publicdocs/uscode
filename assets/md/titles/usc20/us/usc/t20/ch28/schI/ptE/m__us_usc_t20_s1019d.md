@@ -51,7 +51,7 @@
 
         Nothing in this section shall be construed to create a private right of action against an institution of higher education with respect to the form developed under subsection (a).
 
-([Pub. L. 89–329, title I, § 155][/us/pl/89/329/s155], as added [Pub. L. 110–315, title X, § 1021(b)][/us/pl/110/315/s1021/b], Aug. 14, 2008, [122 Stat. 3487][/us/stat/122/3487]; amended [Pub. L. 111–39, title I, § 101(b)(7)][/us/pl/111/39/s101/b/7], July 1, 2009, [123 Stat. 1935][/us/stat/123/1935].)
+([Pub. L. 89–329, title I][/us/pl/89/329/tI], § 155, as added [Pub. L. 110–315, title X][/us/pl/110/315/tX], § 1021(b), Aug. 14, 2008, [122 Stat. 3487][/us/stat/122/3487]; amended [Pub. L. 111–39, title I][/us/pl/111/39/tI], § 101(b)(7), July 1, 2009, [123 Stat. 1935][/us/stat/123/1935].)
 
  __Amendments__ 
 
@@ -79,10 +79,10 @@
 ----------
 
 [/us/usc/t15/s1638/e/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1638%2Fe%2F3
-[/us/pl/89/329/s155]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2Fs155
-[/us/pl/110/315/s1021/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2Fs1021%2Fb
+[/us/pl/89/329/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2FtI
+[/us/pl/110/315/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2FtX
 [/us/stat/122/3487]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3487
-[/us/pl/111/39/s101/b/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F39%2Fs101%2Fb%2F7
+[/us/pl/111/39/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F39%2FtI
 [/us/stat/123/1935]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1935
 [/us/pl/111/39]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F39
 [/us/pl/111/39]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F39

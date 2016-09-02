@@ -693,7 +693,7 @@
 
         Nothing in this section shall be construed to preclude a parent from filing a separate due process complaint on an issue separate from a due process complaint already filed.
 
-([Pub. L. 91–230, title VI, § 615][/us/pl/91/230/s615], as added [Pub. L. 108–446, title I, § 101][/us/pl/108/446/s101], Dec. 3, 2004, [118 Stat. 2715][/us/stat/118/2715].)
+([Pub. L. 91–230, title VI][/us/pl/91/230/tVI], § 615, as added [Pub. L. 108–446, title I][/us/pl/108/446/tI], § 101, Dec. 3, 2004, [118 Stat. 2715][/us/stat/118/2715].)
 
  __References in Text__ 
 
@@ -709,9 +709,9 @@
 
  __Prior Provisions__ 
 
-    A prior section 1415, [Pub. L. 91–230, title VI, § 615][/us/pl/91/230/s615], as added [Pub. L. 105–17, title I, § 101][/us/pl/105/17/s101], June 4, 1997, [111 Stat. 88][/us/stat/111/88]; amended [Pub. L. 106–25, § 6(a)][/us/pl/106/25/s6/a], Apr. 29, 1999, [113 Stat. 49][/us/stat/113/49], related to procedural safeguards, prior to the general amendment of subchapters I to IV of this chapter by [Pub. L. 108–446][/us/pl/108/446].
+    A prior section 1415, [Pub. L. 91–230, title VI][/us/pl/91/230/tVI], § 615, as added [Pub. L. 105–17, title I][/us/pl/105/17/tI], § 101, June 4, 1997, [111 Stat. 88][/us/stat/111/88]; amended [Pub. L. 106–25][/us/pl/106/25], § 6(a), Apr. 29, 1999, [113 Stat. 49][/us/stat/113/49], related to procedural safeguards, prior to the general amendment of subchapters I to IV of this chapter by [Pub. L. 108–446][/us/pl/108/446].
 
-    Another prior section 1415, [Pub. L. 91–230, title VI, § 615][/us/pl/91/230/s615], as added [Pub. L. 94–142, § 5(a)][/us/pl/94/142/s5/a], Nov. 29, 1975, [89 Stat. 788][/us/stat/89/788]; amended [Pub. L. 99–372][/us/pl/99/372], §§ 2, 3, Aug. 5, 1986, [100 Stat. 796][/us/stat/100/796], 797; [Pub. L. 100–630, title I, § 102(e)][/us/pl/100/630/s102/e], Nov. 7, 1988, [102 Stat. 3294][/us/stat/102/3294]; [Pub. L. 101–476, title IX, § 901(b)(71)][/us/pl/101/476/s901/b/71]–(75), Oct. 30, 1990, [104 Stat. 1145][/us/stat/104/1145]; [Pub. L. 102–119, § 25(b)][/us/pl/102/119/s25/b], Oct. 7, 1991, [105 Stat. 607][/us/stat/105/607]; [Pub. L. 103–382, title III, § 314(a)(1)][/us/pl/103/382/s314/a/1], Oct. 20, 1994, [108 Stat. 3936][/us/stat/108/3936], related to procedural safeguards, prior to the general amendment of subchapters I to IV of this chapter by [Pub. L. 105–17][/us/pl/105/17].
+    Another prior section 1415, [Pub. L. 91–230, title VI][/us/pl/91/230/tVI], § 615, as added [Pub. L. 94–142][/us/pl/94/142], § 5(a), Nov. 29, 1975, [89 Stat. 788][/us/stat/89/788]; amended [Pub. L. 99–372][/us/pl/99/372], §§ 2, 3, Aug. 5, 1986, [100 Stat. 796][/us/stat/100/796], 797; [Pub. L. 100–630, title I][/us/pl/100/630/tI], § 102(e), Nov. 7, 1988, [102 Stat. 3294][/us/stat/102/3294]; [Pub. L. 101–476, title IX][/us/pl/101/476/tIX], § 901(b)(71)–(75), Oct. 30, 1990, [104 Stat. 1145][/us/stat/104/1145]; [Pub. L. 102–119][/us/pl/102/119], § 25(b), Oct. 7, 1991, [105 Stat. 607][/us/stat/105/607]; [Pub. L. 103–382, title III][/us/pl/103/382/tIII], § 314(a)(1), Oct. 20, 1994, [108 Stat. 3936][/us/stat/108/3936], related to procedural safeguards, prior to the general amendment of subchapters I to IV of this chapter by [Pub. L. 105–17][/us/pl/105/17].
 
 ----------
 
@@ -734,8 +734,8 @@
 [/us/usc/t18/s1365]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs1365
 [/us/usc/t42/s12101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs12101
 [/us/usc/t29/s790]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs790
-[/us/pl/91/230/s615]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F230%2Fs615
-[/us/pl/108/446/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F446%2Fs101
+[/us/pl/91/230/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F230%2FtVI
+[/us/pl/108/446/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F446%2FtI
 [/us/stat/118/2715]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F2715
 [/us/pl/108/335/s327]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F335%2Fs327
 [/us/stat/118/1344]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1344
@@ -748,24 +748,24 @@
 [/us/pl/93/112]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F112
 [/us/stat/87/355]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F355
 [/us/usc/t29/s701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs701
-[/us/pl/91/230/s615]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F230%2Fs615
-[/us/pl/105/17/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F17%2Fs101
+[/us/pl/91/230/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F230%2FtVI
+[/us/pl/105/17/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F17%2FtI
 [/us/stat/111/88]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F88
-[/us/pl/106/25/s6/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F25%2Fs6%2Fa
+[/us/pl/106/25]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F25
 [/us/stat/113/49]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F49
 [/us/pl/108/446]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F446
-[/us/pl/91/230/s615]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F230%2Fs615
-[/us/pl/94/142/s5/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F142%2Fs5%2Fa
+[/us/pl/91/230/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F230%2FtVI
+[/us/pl/94/142]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F142
 [/us/stat/89/788]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F788
 [/us/pl/99/372]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F372
 [/us/stat/100/796]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F796
-[/us/pl/100/630/s102/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F630%2Fs102%2Fe
+[/us/pl/100/630/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F630%2FtI
 [/us/stat/102/3294]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3294
-[/us/pl/101/476/s901/b/71]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F476%2Fs901%2Fb%2F71
+[/us/pl/101/476/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F476%2FtIX
 [/us/stat/104/1145]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1145
-[/us/pl/102/119/s25/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F119%2Fs25%2Fb
+[/us/pl/102/119]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F119
 [/us/stat/105/607]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F607
-[/us/pl/103/382/s314/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F382%2Fs314%2Fa%2F1
+[/us/pl/103/382/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F382%2FtIII
 [/us/stat/108/3936]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3936
 [/us/pl/105/17]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F17
 

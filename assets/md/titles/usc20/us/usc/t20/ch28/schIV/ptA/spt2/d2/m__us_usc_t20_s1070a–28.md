@@ -17,7 +17,7 @@
 
     There are authorized to be appropriated to carry out this division $400,000,000 for fiscal year 2009 and such sums as may be necessary for each of the five succeeding fiscal years.
 
-([Pub. L. 89–329, title IV, § 404H][/us/pl/89/329/s404H], as added [Pub. L. 105–244, title IV, § 403][/us/pl/105/244/s403], Oct. 7, 1998, [112 Stat. 1663][/us/stat/112/1663]; amended [Pub. L. 110–315, title IV, § 404(h)][/us/pl/110/315/s404/h], Aug. 14, 2008, [122 Stat. 3215][/us/stat/122/3215].)
+([Pub. L. 89–329, title IV][/us/pl/89/329/tIV], § 404H, as added [Pub. L. 105–244, title IV][/us/pl/105/244/tIV], § 403, Oct. 7, 1998, [112 Stat. 1663][/us/stat/112/1663]; amended [Pub. L. 110–315, title IV][/us/pl/110/315/tIV], § 404(h), Aug. 14, 2008, [122 Stat. 3215][/us/stat/122/3215].)
 
  __Amendments__ 
 
@@ -30,10 +30,10 @@
 ----------
 ----------
 
-[/us/pl/89/329/s404H]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2Fs404H
-[/us/pl/105/244/s403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2Fs403
+[/us/pl/89/329/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2FtIV
+[/us/pl/105/244/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2FtIV
 [/us/stat/112/1663]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F1663
-[/us/pl/110/315/s404/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2Fs404%2Fh
+[/us/pl/110/315/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2FtIV
 [/us/stat/122/3215]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3215
 [/us/pl/110/315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315
 

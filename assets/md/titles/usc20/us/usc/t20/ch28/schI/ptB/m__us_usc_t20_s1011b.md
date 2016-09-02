@@ -17,13 +17,13 @@
 
     The Secretary is required to waive the eligibility criteria of any postsecondary education program administered by the Department where such criteria do not take into account the unique circumstances in Guam, the United States Virgin Islands, American Samoa, the Commonwealth of the Northern Mariana Islands, and the Freely Associated States.
 
-([Pub. L. 89–329, title I, § 113][/us/pl/89/329/s113], as added [Pub. L. 105–244, title I, § 101(a)][/us/pl/105/244/s101/a], Oct. 7, 1998, [112 Stat. 1591][/us/stat/112/1591]; amended [Pub. L. 110–315, title I, § 105][/us/pl/110/315/s105], Aug. 14, 2008, [122 Stat. 3090][/us/stat/122/3090].)
+([Pub. L. 89–329, title I][/us/pl/89/329/tI], § 113, as added [Pub. L. 105–244, title I][/us/pl/105/244/tI], § 101(a), Oct. 7, 1998, [112 Stat. 1591][/us/stat/112/1591]; amended [Pub. L. 110–315, title I][/us/pl/110/315/tI], § 105, Aug. 14, 2008, [122 Stat. 3090][/us/stat/122/3090].)
 
  __Prior Provisions__ 
 
     Provisions similar to this section were contained in [section 1144a of this title][/us/usc/t20/s1144a] prior to repeal by [Pub. L. 105–244][/us/pl/105/244].
 
-    A prior section 1011b, [Pub. L. 89–329, title I, § 123][/us/pl/89/329/s123], as added [Pub. L. 102–325, title I, § 101][/us/pl/102/325/s101], July 23, 1992, [106 Stat. 462][/us/stat/106/462], related to State applications for grants, prior to the general amendment of this subchapter by [Pub. L. 105–244][/us/pl/105/244].
+    A prior section 1011b, [Pub. L. 89–329, title I][/us/pl/89/329/tI], § 123, as added [Pub. L. 102–325, title I][/us/pl/102/325/tI], § 101, July 23, 1992, [106 Stat. 462][/us/stat/106/462], related to State applications for grants, prior to the general amendment of this subchapter by [Pub. L. 105–244][/us/pl/105/244].
 
  __Amendments__ 
 
@@ -36,15 +36,15 @@
 ----------
 ----------
 
-[/us/pl/89/329/s113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2Fs113
-[/us/pl/105/244/s101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2Fs101%2Fa
+[/us/pl/89/329/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2FtI
+[/us/pl/105/244/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2FtI
 [/us/stat/112/1591]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F1591
-[/us/pl/110/315/s105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2Fs105
+[/us/pl/110/315/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2FtI
 [/us/stat/122/3090]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3090
 [/us/usc/t20/s1144a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1144a
 [/us/pl/105/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244
-[/us/pl/89/329/s123]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2Fs123
-[/us/pl/102/325/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325%2Fs101
+[/us/pl/89/329/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2FtI
+[/us/pl/102/325/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325%2FtI
 [/us/stat/106/462]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F462
 [/us/pl/105/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244
 [/us/pl/110/315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315

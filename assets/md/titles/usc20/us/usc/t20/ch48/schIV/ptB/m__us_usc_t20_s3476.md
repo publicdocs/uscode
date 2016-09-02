@@ -17,7 +17,7 @@
 
     The Secretary is authorized to establish, alter, discontinue, or maintain such regional or other field offices as the Secretary may find necessary or appropriate to perform functions of the Secretary or the Department.
 
-([Pub. L. 96–88, title IV, § 416][/us/pl/96/88/s416], Oct. 17, 1979, [93 Stat. 685][/us/stat/93/685].)
+([Pub. L. 96–88, title IV][/us/pl/96/88/tIV], § 416, Oct. 17, 1979, [93 Stat. 685][/us/stat/93/685].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/96/88/s416]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F88%2Fs416
+[/us/pl/96/88/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F88%2FtIV
 [/us/stat/93/685]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F685
 
 

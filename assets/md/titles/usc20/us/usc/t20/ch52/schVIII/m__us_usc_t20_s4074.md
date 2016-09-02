@@ -17,7 +17,7 @@
 
     The provisions of this subchapter shall supersede all other provisions of Federal law that are inconsistent with the provisions of this subchapter.
 
-([Pub. L. 98–377, title VIII, § 805][/us/pl/98/377/s805], Aug. 11, 1984, [98 Stat. 1304][/us/stat/98/1304].)
+([Pub. L. 98–377, title VIII][/us/pl/98/377/tVIII], § 805, Aug. 11, 1984, [98 Stat. 1304][/us/stat/98/1304].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/98/377/s805]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F377%2Fs805
+[/us/pl/98/377/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F377%2FtVIII
 [/us/stat/98/1304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F1304
 
 

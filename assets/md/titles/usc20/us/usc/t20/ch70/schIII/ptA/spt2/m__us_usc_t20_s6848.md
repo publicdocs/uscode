@@ -17,7 +17,7 @@
 
     Notwithstanding any other provision of this part, programs authorized under this part that serve Native American (including Native American Pacific Islander) children and children in the Commonwealth of Puerto Rico may include programs of instruction, teacher training, curriculum development, evaluation, and assessment designed for Native American children learning and studying Native American languages and children of limited Spanish proficiency, except that an outcome of programs serving such children shall be increased English proficiency among such children.
 
-([Pub. L. 89–10, title III, § 3128][/us/pl/89/10/s3128], as added [Pub. L. 107–110, title III, § 301][/us/pl/107/110/s301], Jan. 8, 2002, [115 Stat. 1705][/us/stat/115/1705].)
+([Pub. L. 89–10, title III][/us/pl/89/10/tIII], § 3127, formerly § 3128, as added [Pub. L. 107–110, title III][/us/pl/107/110/tIII], § 301, Jan. 8, 2002, [115 Stat. 1705][/us/stat/115/1705]; renumbered § 3127, [Pub. L. 114–95, title III][/us/pl/114/95/tIII], § 3001(2)(B), Dec. 10, 2015, [129 Stat. 1953][/us/stat/129/1953].)
 
 ----------
 
@@ -26,8 +26,10 @@
 ----------
 ----------
 
-[/us/pl/89/10/s3128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F10%2Fs3128
-[/us/pl/107/110/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F110%2Fs301
+[/us/pl/89/10/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F10%2FtIII
+[/us/pl/107/110/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F110%2FtIII
 [/us/stat/115/1705]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F1705
+[/us/pl/114/95/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F95%2FtIII
+[/us/stat/129/1953]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1953
 
 

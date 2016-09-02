@@ -577,25 +577,25 @@
 
                 The Association may not transfer or permit the use of the name “Student Loan Marketing Association”, “Sallie Mae”, or any variation thereof, to or by any entity other than a subsidiary of the Association.
 
-([Pub. L. 89–329, title IV, § 439][/us/pl/89/329/s439], as added [Pub. L. 99–498, title IV, § 402(a)][/us/pl/99/498/s402/a], Oct. 17, 1986, [100 Stat. 1418][/us/stat/100/1418]; amended [Pub. L. 100–50, § 10(dd)][/us/pl/100/50/s10/dd], June 3, 1987, [101 Stat. 347][/us/stat/101/347]; [Pub. L. 100–369, § 7(c)][/us/pl/100/369/s7/c], July 18, 1988, [102 Stat. 837][/us/stat/102/837]; [Pub. L. 102–325, title IV, § 431][/us/pl/102/325/s431], July 23, 1992, [106 Stat. 554][/us/stat/106/554]; [Pub. L. 103–66, title IV][/us/pl/103/66], §§ 4041(c), 4104, Aug. 10, 1993, [107 Stat. 356][/us/stat/107/356], 367; [Pub. L. 103–208, § 2(c)(69)][/us/pl/103/208/s2/c/69], Dec. 20, 1993, [107 Stat. 2470][/us/stat/107/2470]; [Pub. L. 103–382, title III, § 358][/us/pl/103/382/s358], Oct. 20, 1994, [108 Stat. 3968][/us/stat/108/3968]; [Pub. L. 104–208, div. A, title I, § 101(e)][/us/pl/104/208/s101/e] \[title VI, § 602(b)(2)–(4), (c)\], Sept. 30, 1996, [110 Stat. 3009–233][/us/stat/110/3009-233], 3009–284 to 3009–286; [Pub. L. 106–554, § 1(a)(1)][/us/pl/106/554/s1/a/1] \[title III, § 309\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–45; [Pub. L. 108–271, § 8(b)][/us/pl/108/271/s8/b], July 7, 2004, [118 Stat. 814][/us/stat/118/814]; [Pub. L. 109–291, § 4(b)(5)][/us/pl/109/291/s4/b/5], Sept. 29, 2006, [120 Stat. 1338][/us/stat/120/1338].)
+([Pub. L. 89–329, title IV][/us/pl/89/329/tIV], § 439, as added [Pub. L. 99–498, title IV][/us/pl/99/498/tIV], § 402(a), Oct. 17, 1986, [100 Stat. 1418][/us/stat/100/1418]; amended [Pub. L. 100–50][/us/pl/100/50], § 10(dd), June 3, 1987, [101 Stat. 347][/us/stat/101/347]; [Pub. L. 100–369][/us/pl/100/369], § 7(c), July 18, 1988, [102 Stat. 837][/us/stat/102/837]; [Pub. L. 102–325, title IV][/us/pl/102/325/tIV], § 431, July 23, 1992, [106 Stat. 554][/us/stat/106/554]; [Pub. L. 103–66, title IV][/us/pl/103/66/tIV], §§ 4041(c), 4104, Aug. 10, 1993, [107 Stat. 356][/us/stat/107/356], 367; [Pub. L. 103–208][/us/pl/103/208], § 2(c)(69), Dec. 20, 1993, [107 Stat. 2470][/us/stat/107/2470]; [Pub. L. 103–382, title III][/us/pl/103/382/tIII], § 358, Oct. 20, 1994, [108 Stat. 3968][/us/stat/108/3968]; [Pub. L. 104–208, div. A, title I][/us/pl/104/208/dA/tI], § 101(e) \[title VI, § 602(b)(2)–(4), (c)\], Sept. 30, 1996, [110 Stat. 3009–233][/us/stat/110/3009-233], 3009–284 to 3009–286; [Pub. L. 106–554][/us/pl/106/554], § 1(a)(1) \[title III, § 309\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–45; [Pub. L. 108–271][/us/pl/108/271], § 8(b), July 7, 2004, [118 Stat. 814][/us/stat/118/814]; [Pub. L. 109–291][/us/pl/109/291], § 4(b)(5), Sept. 29, 2006, [120 Stat. 1338][/us/stat/120/1338].)
 
  __Repeal of Section__ 
 
-    [Pub. L. 104–208, div. A, title I, § 101(e)][/us/pl/104/208/s101/e] \[title VI, § 602(d)\], Sept. 30, 1996, [110 Stat. 3009–233][/us/stat/110/3009-233], 3009–289, provided that this section is repealed effective one year after date on which all obligations of trust established under [section 1087–3(d)(1) of this title][/us/usc/t20/s1087–3/d/1] have been extinguished, if reorganization occurs in accordance with [section 1087–3 of this title][/us/usc/t20/s1087–3]; or date on which all obligations of trust established under subsec. (s)(3)(A) of this section have been extinguished, if reorganization does not occur in accordance with [section 1087–3 of this title][/us/usc/t20/s1087–3].
+    [Pub. L. 104–208, div. A, title I][/us/pl/104/208/dA/tI], § 101(e) \[title VI, § 602(d)\], Sept. 30, 1996, [110 Stat. 3009–233][/us/stat/110/3009-233], 3009–289, provided that this section is repealed effective one year after date on which all obligations of trust established under [section 1087–3(d)(1) of this title][/us/usc/t20/s1087–3/d/1] have been extinguished, if reorganization occurs in accordance with [section 1087–3 of this title][/us/usc/t20/s1087–3]; or date on which all obligations of trust established under subsec. (s)(3)(A) of this section have been extinguished, if reorganization does not occur in accordance with [section 1087–3 of this title][/us/usc/t20/s1087–3].
 
  __References in Text__ 
 
     For the effective date of the Higher Education Amendments of 1992, referred to in subsec. (f)(4), see [section 2 of Pub. L. 102–325][/us/pl/102/325/s2], set out as an Effective Date of 1992 Amendment note under [section 1001 of this title][/us/usc/t20/s1001].
 
-    [Section 1078(h) of this title][/us/usc/t20/s1078/h], referred to in subsec. (p)(1), was repealed by [Pub. L. 110–315, title IV, § 438(a)(2)(B)][/us/pl/110/315/s438/a/2/B], Aug. 14, 2008, [122 Stat. 3258][/us/stat/122/3258].
+    [Section 1078(h) of this title][/us/usc/t20/s1078/h], referred to in subsec. (p)(1), was repealed by [Pub. L. 110–315, title IV][/us/pl/110/315/tIV], § 438(a)(2)(B), Aug. 14, 2008, [122 Stat. 3258][/us/stat/122/3258].
 
  __Codification__ 
 
-    In subsec. (h)(3) and (5), “chapter 31 of title 31” substituted for “the Second Liberty Bond Act, as amended” and “the Second Liberty Bond Act”, and “that chapter” substituted for “that Act, as amended”, on authority of [Pub. L. 97–258, § 4(b)][/us/pl/97/258/s4/b], Sept. 13, 1982, [96 Stat. 1067][/us/stat/96/1067], the first section of which enacted Title 31, Money and Finance.
+    In subsec. (h)(3) and (5), “chapter 31 of title 31” substituted for “the Second Liberty Bond Act, as amended” and “the Second Liberty Bond Act”, and “that chapter” substituted for “that Act, as amended”, on authority of [Pub. L. 97–258][/us/pl/97/258], § 4(b), Sept. 13, 1982, [96 Stat. 1067][/us/stat/96/1067], the first section of which enacted Title 31, Money and Finance.
 
  __Prior Provisions__ 
 
-    A prior section 1087–2, [Pub. L. 89–329, title IV, § 439][/us/pl/89/329/s439], as added [Pub. L. 92–318, title I, § 133(a)][/us/pl/92/318/s133/a], June 23, 1972, [86 Stat. 265][/us/stat/86/265]; amended [Pub. L. 94–273, § 3(9)][/us/pl/94/273/s3/9], Apr. 21, 1976, [90 Stat. 376][/us/stat/90/376]; [Pub. L. 94–482, title I, § 127(a)][/us/pl/94/482/s127/a], Oct. 12, 1976, [90 Stat. 2136][/us/stat/90/2136]; [Pub. L. 95–43, § 1(a)(38)][/us/pl/95/43/s1/a/38], June 15, 1977, [91 Stat. 217][/us/stat/91/217]; [Pub. L. 96–374, title IV, § 421(a)][/us/pl/96/374/s421/a]–(e)(1), title XIII, § 1391(a)(1), (3), Oct. 3, 1980, [94 Stat. 1427–1430][/us/stat/94/1427-1430], 1503; [Pub. L. 97–35, title V, § 538][/us/pl/97/35/s538], Aug. 13, 1981, [95 Stat. 457][/us/stat/95/457]; [Pub. L. 97–115, § 18][/us/pl/97/115/s18], Dec. 29, 1981, [95 Stat. 1610][/us/stat/95/1610]; [Pub. L. 97–301, § 14][/us/pl/97/301/s14], Oct. 13, 1982, [96 Stat. 1405][/us/stat/96/1405]; [Pub. L. 98–79][/us/pl/98/79], §§ 2, 8, Aug. 15, 1983, [97 Stat. 476][/us/stat/97/476], 483; [Pub. L. 99–272, title XVI][/us/pl/99/272], §§ 16017(b)(4), 16018(a)(3), Apr. 7, 1986, [100 Stat. 347][/us/stat/100/347], 348, established the Student Loan Marketing Association, prior to the general revision of this part by [Pub. L. 99–498][/us/pl/99/498].
+    A prior section 1087–2, [Pub. L. 89–329, title IV][/us/pl/89/329/tIV], § 439, as added [Pub. L. 92–318, title I][/us/pl/92/318/tI], § 133(a), June 23, 1972, [86 Stat. 265][/us/stat/86/265]; amended [Pub. L. 94–273][/us/pl/94/273], § 3(9), Apr. 21, 1976, [90 Stat. 376][/us/stat/90/376]; [Pub. L. 94–482, title I][/us/pl/94/482/tI], § 127(a), Oct. 12, 1976, [90 Stat. 2136][/us/stat/90/2136]; [Pub. L. 95–43][/us/pl/95/43], § 1(a)(38), June 15, 1977, [91 Stat. 217][/us/stat/91/217]; [Pub. L. 96–374, title IV][/us/pl/96/374/tIV], § 421(a)–(e)(1), title XIII, § 1391(a)(1), (3), Oct. 3, 1980, [94 Stat. 1427–1430][/us/stat/94/1427-1430], 1503; [Pub. L. 97–35, title V][/us/pl/97/35/tV], § 538, Aug. 13, 1981, [95 Stat. 457][/us/stat/95/457]; [Pub. L. 97–115][/us/pl/97/115], § 18, Dec. 29, 1981, [95 Stat. 1610][/us/stat/95/1610]; [Pub. L. 97–301][/us/pl/97/301], § 14, Oct. 13, 1982, [96 Stat. 1405][/us/stat/96/1405]; [Pub. L. 98–79][/us/pl/98/79], §§ 2, 8, Aug. 15, 1983, [97 Stat. 476][/us/stat/97/476], 483; [Pub. L. 99–272, title XVI][/us/pl/99/272/tXVI], §§ 16017(b)(4), 16018(a)(3), Apr. 7, 1986, [100 Stat. 347][/us/stat/100/347], 348, established the Student Loan Marketing Association, prior to the general revision of this part by [Pub. L. 99–498][/us/pl/99/498].
 
  __Amendments__ 
 
@@ -603,57 +603,57 @@
 
     2004—Subsec. (r)(9), (12). [Pub. L. 108–271][/us/pl/108/271] substituted “Government Accountability Office” for “General Accounting Office” wherever appearing.
 
-    2000—Subsec. (r)(2)(A)(i). [Pub. L. 106–554, § 1(a)(1)][/us/pl/106/554/s1/a/1] \[title III, § 309(1)\], which directed amendment of this section by substituting “and fix the compensation of such auditors and examiners as may be necessary” for “auditors and examiners”, was executed by making the substitution for “auditors or examiners”, to reflect the probable intent of Congress.
+    2000—Subsec. (r)(2)(A)(i). [Pub. L. 106–554][/us/pl/106/554], § 1(a)(1) \[title III, § 309(1)\], which directed amendment of this section by substituting “and fix the compensation of such auditors and examiners as may be necessary” for “auditors and examiners”, was executed by making the substitution for “auditors or examiners”, to reflect the probable intent of Congress.
 
-    Subsec. (r)(2)(F). [Pub. L. 106–554, § 1(a)(1)][/us/pl/106/554/s1/a/1] \[title III, § 309(2)\], added subpar. (F).
+    Subsec. (r)(2)(F). [Pub. L. 106–554][/us/pl/106/554], § 1(a)(1) \[title III, § 309(2)\], added subpar. (F).
 
-    1996—Subsec. (r)(1)(C). [Pub. L. 104–208, § 101(e)][/us/pl/104/208/s101/e] \[title VI, § 602(b)(3)(A)\], added subpar. (C).
+    1996—Subsec. (r)(1)(C). [Pub. L. 104–208][/us/pl/104/208], § 101(e) \[title VI, § 602(b)(3)(A)\], added subpar. (C).
 
-    Subsec. (r)(2)(A)(i), (ii). [Pub. L. 104–208, § 101(e)][/us/pl/104/208/s101/e] \[title VI, § 602(b)(3)(B)(i)\], added cls. (i) and (ii) and struck out former cls. (i) and (ii) which read as follows:
+    Subsec. (r)(2)(A)(i), (ii). [Pub. L. 104–208][/us/pl/104/208], § 101(e) \[title VI, § 602(b)(3)(B)(i)\], added cls. (i) and (ii) and struck out former cls. (i) and (ii) which read as follows:
 
     “(i) appoint auditors to conduct audits of the Association from time to time to determine the condition of the Association for the purpose of assessing its financial safety and soundness; and
 
     “(ii) enter into contracts to obtain the services of such technical experts as the Secretary of the Treasury determines necessary and appropriate to provide technical assistance to any auditor appointed under this paragraph.”
 
-    Subsec. (r)(2)(D). [Pub. L. 104–208, § 101(e)][/us/pl/104/208/s101/e] \[title VI, § 602(b)(3)(B)(ii)\], added subpar. (D).
+    Subsec. (r)(2)(D). [Pub. L. 104–208][/us/pl/104/208], § 101(e) \[title VI, § 602(b)(3)(B)(ii)\], added subpar. (D).
 
-    Subsec. (r)(2)(E). [Pub. L. 104–208, § 101(e)][/us/pl/104/208/s101/e] \[title VI, § 602(b)(4)(A)\], added subpar. (E).
+    Subsec. (r)(2)(E). [Pub. L. 104–208][/us/pl/104/208], § 101(e) \[title VI, § 602(b)(4)(A)\], added subpar. (E).
 
-    Subsec. (r)(12). [Pub. L. 104–208, § 101(e)][/us/pl/104/208/s101/e] \[title VI, § 602(b)(2)(A)\], inserted “or the Association’s associated persons” after “by the Association” in first sentence.
+    Subsec. (r)(12). [Pub. L. 104–208][/us/pl/104/208], § 101(e) \[title VI, § 602(b)(2)(A)\], inserted “or the Association’s associated persons” after “by the Association” in first sentence.
 
-    Subsec. (r)(13). [Pub. L. 104–208, § 101(e)][/us/pl/104/208/s101/e] \[title VI, § 602(b)(2)(B), (C)\], added par. (13) and redesignated former par. (13) as (15).
+    Subsec. (r)(13). [Pub. L. 104–208][/us/pl/104/208], § 101(e) \[title VI, § 602(b)(2)(B), (C)\], added par. (13) and redesignated former par. (13) as (15).
 
-    Subsec. (r)(14). [Pub. L. 104–208, § 101(e)][/us/pl/104/208/s101/e] \[title VI, § 602(b)(3)(C)\], added par. (14).
+    Subsec. (r)(14). [Pub. L. 104–208][/us/pl/104/208], § 101(e) \[title VI, § 602(b)(3)(C)\], added par. (14).
 
-    Subsec. (r)(15). [Pub. L. 104–208, § 101(e)][/us/pl/104/208/s101/e] \[title VI, § 602(b)(2)(B)\], redesignated par. (13) as (15).
+    Subsec. (r)(15). [Pub. L. 104–208][/us/pl/104/208], § 101(e) \[title VI, § 602(b)(2)(B)\], redesignated par. (13) as (15).
 
-    Subsec. (r)(16), (17). [Pub. L. 104–208, § 101(e)][/us/pl/104/208/s101/e], \[title VI, § 602(b)(4)(B)\], added pars. (16) and (17).
+    Subsec. (r)(16), (17). [Pub. L. 104–208][/us/pl/104/208], § 101(e), \[title VI, § 602(b)(4)(B)\], added pars. (16) and (17).
 
-    Subsec. (s). [Pub. L. 104–208, § 101(e)][/us/pl/104/208/s101/e] \[title VI, § 602(c)\], added subsec. (s).
+    Subsec. (s). [Pub. L. 104–208][/us/pl/104/208], § 101(e) \[title VI, § 602(c)\], added subsec. (s).
 
-    1994—Subsec. (d)(1)(C). [Pub. L. 103–382, § 358(1)(A)][/us/pl/103/382/s358/1/A], (D), inserted “(including related equipment, instrumentation, and furnishings)” after “materials” in introductory provisions and substituted “30 percent” for “15 percent” and “types” for “type” in concluding provisions.
+    1994—Subsec. (d)(1)(C). [Pub. L. 103–382][/us/pl/103/382], § 358(1)(A), (D), inserted “(including related equipment, instrumentation, and furnishings)” after “materials” in introductory provisions and substituted “30 percent” for “15 percent” and “types” for “type” in concluding provisions.
 
-    Subsec. (d)(1)(C)(ii). [Pub. L. 103–382, § 358(1)(B)][/us/pl/103/382/s358/1/B], substituted “, dining halls, student unions, and facilities specifically designed to promote fitness and health for students, faculty, and staff or for physical education courses; and” for the semicolon.
+    Subsec. (d)(1)(C)(ii). [Pub. L. 103–382][/us/pl/103/382], § 358(1)(B), substituted “, dining halls, student unions, and facilities specifically designed to promote fitness and health for students, faculty, and staff or for physical education courses; and” for the semicolon.
 
-    Subsec. (d)(1)(C)(iii), (iv). [Pub. L. 103–382, § 358(1)(C)][/us/pl/103/382/s358/1/C], (E), struck out “and” after the semicolon in cl. (iii) and struck out cl. (iv) which read as follows: “related equipment, instrumentation, and furnishings for facilities and materials described in clause (i) or (iii);”.
+    Subsec. (d)(1)(C)(iii), (iv). [Pub. L. 103–382][/us/pl/103/382], § 358(1)(C), (E), struck out “and” after the semicolon in cl. (iii) and struck out cl. (iv) which read as follows: “related equipment, instrumentation, and furnishings for facilities and materials described in clause (i) or (iii);”.
 
-    Subsec. (n). [Pub. L. 103–382, § 358(2)][/us/pl/103/382/s358/2], substituted “a report of the Association’s operations and activities, including a report with respect to all facilities transactions, during each year” for “a report of its operations and activities during each year”.
+    Subsec. (n). [Pub. L. 103–382][/us/pl/103/382], § 358(2), substituted “a report of the Association’s operations and activities, including a report with respect to all facilities transactions, during each year” for “a report of its operations and activities during each year”.
 
-    1993—Subsec. (h)(7). [Pub. L. 103–66, § 4104][/us/pl/103/66/s4104], added par. (7).
+    1993—Subsec. (h)(7). [Pub. L. 103–66][/us/pl/103/66], § 4104, added par. (7).
 
-    Subsec. (q). [Pub. L. 103–66, § 4041(c)][/us/pl/103/66/s4041/c], amended subsec. (q) generally, substituting present provisions for substantially similar former provisions.
+    Subsec. (q). [Pub. L. 103–66][/us/pl/103/66], § 4041(c), amended subsec. (q) generally, substituting present provisions for substantially similar former provisions.
 
     Subsec. (r)(12). [Pub. L. 103–208][/us/pl/103/208] substituted “section 552” for “section 522”.
 
-    1992—Subsec. (c). [Pub. L. 102–325, § 431(a)][/us/pl/102/325/s431/a], amended subsec. (c) generally, substituting present provisions consisting of pars. (1) to (4) for former provisions which provided for: in par. (1), Board membership; in par. (2), interim Board; in par. (3), regular Board; in par. (4), succession of regular Board; in par. (5), terms of appointed and elected members; and in par. (6), meetings and functions of Board.
+    1992—Subsec. (c). [Pub. L. 102–325][/us/pl/102/325], § 431(a), amended subsec. (c) generally, substituting present provisions consisting of pars. (1) to (4) for former provisions which provided for: in par. (1), Board membership; in par. (2), interim Board; in par. (3), regular Board; in par. (4), succession of regular Board; in par. (5), terms of appointed and elected members; and in par. (6), meetings and functions of Board.
 
-    Subsec. (d)(1)(C). [Pub. L. 102–325, § 431(b)][/us/pl/102/325/s431/b], amended subpar. (C) generally. Prior to amendment, subpar. (C) read as follows: “to buy, sell, hold, insure, underwrite, and otherwise deal in obligations issued for the purpose of financing or refinancing the construction, reconstruction, renovation, or purchase of educational and training facilities and housing for students and faculties (including the underlying real property), and related equipment, instrumentation, and furnishings;”.
+    Subsec. (d)(1)(C). [Pub. L. 102–325][/us/pl/102/325], § 431(b), amended subpar. (C) generally. Prior to amendment, subpar. (C) read as follows: “to buy, sell, hold, insure, underwrite, and otherwise deal in obligations issued for the purpose of financing or refinancing the construction, reconstruction, renovation, or purchase of educational and training facilities and housing for students and faculties (including the underlying real property), and related equipment, instrumentation, and furnishings;”.
 
-    Subsec. (d)(5). [Pub. L. 102–325, § 431(c)][/us/pl/102/325/s431/c], substituted “second highest rating” for “third highest rating”.
+    Subsec. (d)(5). [Pub. L. 102–325][/us/pl/102/325], § 431(c), substituted “second highest rating” for “third highest rating”.
 
-    Subsec. (f). [Pub. L. 102–325, § 431(d)][/us/pl/102/325/s431/d], amended subsec. (f) generally, substituting present provisions consisting of pars. (1) to (4) for former provisions which provided for: in par. (1), common stock to insured lenders and eligible institutions only; in par. (2), voting rights; in par. (3), number of shares and transferability; in par. (4), dividends; and in par. (5), nonvoting common stock.
+    Subsec. (f). [Pub. L. 102–325][/us/pl/102/325], § 431(d), amended subsec. (f) generally, substituting present provisions consisting of pars. (1) to (4) for former provisions which provided for: in par. (1), common stock to insured lenders and eligible institutions only; in par. (2), voting rights; in par. (3), number of shares and transferability; in par. (4), dividends; and in par. (5), nonvoting common stock.
 
-    Subsec. (r). [Pub. L. 102–325, § 431(e)][/us/pl/102/325/s431/e], added subsec. (r).
+    Subsec. (r). [Pub. L. 102–325][/us/pl/102/325], § 431(e), added subsec. (r).
 
     1988—Subsec. (h)(1). [Pub. L. 100–369][/us/pl/100/369] substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954” in two places, which for purposes of codification was translated as “title 26” thus requiring no change in text.
 
@@ -667,7 +667,7 @@
 
  __Effective Date of 1996 Amendment__ 
 
-[Pub. L. 104–208, div. A, title I, § 101(e)][/us/pl/104/208/s101/e] \[title VI, § 602(d)(2)\], Sept. 30, 1996, [110 Stat. 3009–233][/us/stat/110/3009-233], 3009–289, provided that: 
+[Pub. L. 104–208, div. A, title I][/us/pl/104/208/dA/tI], § 101(e) \[title VI, § 602(d)(2)\], Sept. 30, 1996, [110 Stat. 3009–233][/us/stat/110/3009-233], 3009–289, provided that: 
 
 > “The repeals made by paragraph (1) \[repealing this section and [section 1087–3 of this title][/us/usc/t20/s1087–3]\] shall be effective one year after—
 
@@ -693,7 +693,7 @@
 
  __Use of Association Names Upon Dissolution; Enforcement__ 
 
-[Pub. L. 104–208, div. A, title I, § 101(e)][/us/pl/104/208/s101/e] \[title VI, § 602(e), (f)\], Sept. 30, 1996, [110 Stat. 3009–233][/us/stat/110/3009-233], 3009–289, 3009–290, provided that:
+[Pub. L. 104–208, div. A, title I][/us/pl/104/208/dA/tI], § 101(e) \[title VI, § 602(e), (f)\], Sept. 30, 1996, [110 Stat. 3009–233][/us/stat/110/3009-233], 3009–289, 3009–290, provided that:
 
 >     “(e)  __Association Names__  __.—__ 
 
@@ -736,30 +736,30 @@
 [/us/usc/t5/s552]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs552
 [/us/usc/t15/s78c/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs78c%2Fa
 [/us/usc/t20/s1087–3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1087%E2%80%933
-[/us/pl/89/329/s439]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2Fs439
-[/us/pl/99/498/s402/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F498%2Fs402%2Fa
+[/us/pl/89/329/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2FtIV
+[/us/pl/99/498/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F498%2FtIV
 [/us/stat/100/1418]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1418
-[/us/pl/100/50/s10/dd]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F50%2Fs10%2Fdd
+[/us/pl/100/50]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F50
 [/us/stat/101/347]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F347
-[/us/pl/100/369/s7/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F369%2Fs7%2Fc
+[/us/pl/100/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F369
 [/us/stat/102/837]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F837
-[/us/pl/102/325/s431]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325%2Fs431
+[/us/pl/102/325/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325%2FtIV
 [/us/stat/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F554
-[/us/pl/103/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66
+[/us/pl/103/66/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66%2FtIV
 [/us/stat/107/356]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F356
-[/us/pl/103/208/s2/c/69]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F208%2Fs2%2Fc%2F69
+[/us/pl/103/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F208
 [/us/stat/107/2470]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F2470
-[/us/pl/103/382/s358]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F382%2Fs358
+[/us/pl/103/382/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F382%2FtIII
 [/us/stat/108/3968]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3968
-[/us/pl/104/208/s101/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs101%2Fe
+[/us/pl/104/208/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2FdA%2FtI
 [/us/stat/110/3009-233]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3009-233
-[/us/pl/106/554/s1/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F1
+[/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
 [/us/stat/114/2763]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2763
-[/us/pl/108/271/s8/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F271%2Fs8%2Fb
+[/us/pl/108/271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F271
 [/us/stat/118/814]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F814
-[/us/pl/109/291/s4/b/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F291%2Fs4%2Fb%2F5
+[/us/pl/109/291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F291
 [/us/stat/120/1338]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1338
-[/us/pl/104/208/s101/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs101%2Fe
+[/us/pl/104/208/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2FdA%2FtI
 [/us/stat/110/3009-233]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3009-233
 [/us/usc/t20/s1087–3/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1087%E2%80%933%2Fd%2F1
 [/us/usc/t20/s1087–3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1087%E2%80%933
@@ -767,62 +767,62 @@
 [/us/pl/102/325/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325%2Fs2
 [/us/usc/t20/s1001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1001
 [/us/usc/t20/s1078/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1078%2Fh
-[/us/pl/110/315/s438/a/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2Fs438%2Fa%2F2%2FB
+[/us/pl/110/315/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2FtIV
 [/us/stat/122/3258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3258
-[/us/pl/97/258/s4/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258%2Fs4%2Fb
+[/us/pl/97/258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258
 [/us/stat/96/1067]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1067
-[/us/pl/89/329/s439]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2Fs439
-[/us/pl/92/318/s133/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F318%2Fs133%2Fa
+[/us/pl/89/329/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2FtIV
+[/us/pl/92/318/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F318%2FtI
 [/us/stat/86/265]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F265
-[/us/pl/94/273/s3/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F273%2Fs3%2F9
+[/us/pl/94/273]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F273
 [/us/stat/90/376]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F376
-[/us/pl/94/482/s127/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F482%2Fs127%2Fa
+[/us/pl/94/482/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F482%2FtI
 [/us/stat/90/2136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2136
-[/us/pl/95/43/s1/a/38]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F43%2Fs1%2Fa%2F38
+[/us/pl/95/43]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F43
 [/us/stat/91/217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F217
-[/us/pl/96/374/s421/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F374%2Fs421%2Fa
+[/us/pl/96/374/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F374%2FtIV
 [/us/stat/94/1427-1430]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F1427-1430
-[/us/pl/97/35/s538]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs538
+[/us/pl/97/35/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2FtV
 [/us/stat/95/457]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F457
-[/us/pl/97/115/s18]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F115%2Fs18
+[/us/pl/97/115]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F115
 [/us/stat/95/1610]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F1610
-[/us/pl/97/301/s14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F301%2Fs14
+[/us/pl/97/301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F301
 [/us/stat/96/1405]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1405
 [/us/pl/98/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F79
 [/us/stat/97/476]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F476
-[/us/pl/99/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F272
+[/us/pl/99/272/tXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F272%2FtXVI
 [/us/stat/100/347]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F347
 [/us/pl/99/498]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F498
 [/us/pl/109/291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F291
 [/us/usc/t15/s78c/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs78c%2Fa
 [/us/pl/108/271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F271
-[/us/pl/106/554/s1/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F1
-[/us/pl/106/554/s1/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F1
-[/us/pl/104/208/s101/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs101%2Fe
-[/us/pl/104/208/s101/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs101%2Fe
-[/us/pl/104/208/s101/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs101%2Fe
-[/us/pl/104/208/s101/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs101%2Fe
-[/us/pl/104/208/s101/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs101%2Fe
-[/us/pl/104/208/s101/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs101%2Fe
-[/us/pl/104/208/s101/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs101%2Fe
-[/us/pl/104/208/s101/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs101%2Fe
-[/us/pl/104/208/s101/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs101%2Fe
-[/us/pl/104/208/s101/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs101%2Fe
-[/us/pl/103/382/s358/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F382%2Fs358%2F1%2FA
-[/us/pl/103/382/s358/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F382%2Fs358%2F1%2FB
-[/us/pl/103/382/s358/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F382%2Fs358%2F1%2FC
-[/us/pl/103/382/s358/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F382%2Fs358%2F2
-[/us/pl/103/66/s4104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66%2Fs4104
-[/us/pl/103/66/s4041/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66%2Fs4041%2Fc
+[/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
+[/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
+[/us/pl/104/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208
+[/us/pl/104/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208
+[/us/pl/104/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208
+[/us/pl/104/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208
+[/us/pl/104/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208
+[/us/pl/104/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208
+[/us/pl/104/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208
+[/us/pl/104/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208
+[/us/pl/104/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208
+[/us/pl/104/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208
+[/us/pl/103/382]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F382
+[/us/pl/103/382]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F382
+[/us/pl/103/382]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F382
+[/us/pl/103/382]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F382
+[/us/pl/103/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66
+[/us/pl/103/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66
 [/us/pl/103/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F208
-[/us/pl/102/325/s431/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325%2Fs431%2Fa
-[/us/pl/102/325/s431/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325%2Fs431%2Fb
-[/us/pl/102/325/s431/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325%2Fs431%2Fc
-[/us/pl/102/325/s431/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325%2Fs431%2Fd
-[/us/pl/102/325/s431/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325%2Fs431%2Fe
+[/us/pl/102/325]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325
+[/us/pl/102/325]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325
+[/us/pl/102/325]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325
+[/us/pl/102/325]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325
+[/us/pl/102/325]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325
 [/us/pl/100/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F369
 [/us/pl/100/50]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F50
-[/us/pl/104/208/s101/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs101%2Fe
+[/us/pl/104/208/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2FdA%2FtI
 [/us/stat/110/3009-233]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3009-233
 [/us/usc/t20/s1087–3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1087%E2%80%933
 [/us/usc/t20/s1087–3/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1087%E2%80%933%2Fd%2F1
@@ -840,7 +840,7 @@
 [/us/usc/t20/s1001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1001
 [/us/pl/104/66/s3003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F66%2Fs3003
 [/us/usc/t31/s1113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1113
-[/us/pl/104/208/s101/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs101%2Fe
+[/us/pl/104/208/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2FdA%2FtI
 [/us/stat/110/3009-233]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3009-233
 [/us/usc/t20/s1087–2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1087%E2%80%932
 

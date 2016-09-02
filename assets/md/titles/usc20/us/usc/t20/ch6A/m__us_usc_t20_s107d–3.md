@@ -45,17 +45,17 @@
 
         The Secretary shall take such action and promulgate such regulations as he deems necessary to assure compliance with this section.
 
-([June 20, 1936, ch. 638, § 7][/us/act/1936-06-20/ch638/s7], as added [Pub. L. 93–516, title II, § 206][/us/pl/93/516/s206], Dec. 7, 1974, [88 Stat. 1627][/us/stat/88/1627]; [Pub. L. 93–651, title II, § 206][/us/pl/93/651/s206], Nov. 21, 1974, [89 Stat. 2–12][/us/stat/89/2-12].)
+([June 20, 1936, ch. 638][/us/act/1936-06-20/ch638], § 7, as added [Pub. L. 93–516, title II][/us/pl/93/516/tII], § 206, Dec. 7, 1974, [88 Stat. 1627][/us/stat/88/1627]; [Pub. L. 93–651, title II][/us/pl/93/651/tII], § 206, Nov. 21, 1974, [89 Stat. 2–12][/us/stat/89/2-12].)
 
  __Codification__ 
 
     The content of [Pub. L. 93–516][/us/pl/93/516], including provisions of section 206 thereof which enacted this section, were originally contained in H.R. 14225, 93rd Congress, Second Session, which was pocket-vetoed during the 31-day intrasession adjournment of the 93rd Congress for the Congressional elections in November, 1974.
 
-    Pursuant to an order of the United States District Court for the District of Columbia (Kennedy v. Jones, D.C.D.C. 1976, 412 F.Supp. 353) H.R. 14225 was deemed to have become law without the approval of the President on Nov. 21, 1974, and was given the designation [Pub. L. 93–651][/us/pl/93/651]. Therefore, for purposes of codification, this section should be deemed to have been enacted by [Pub. L. 93–651, title II, § 206][/us/pl/93/651/s206], Nov. 21, 1974, [89 Stat. 2–12][/us/stat/89/2-12], in exactly the same manner as it was enacted by [Pub. L. 93–516][/us/pl/93/516].
+    Pursuant to an order of the United States District Court for the District of Columbia (Kennedy v. Jones, D.C.D.C. 1976, 412 F.Supp. 353) H.R. 14225 was deemed to have become law without the approval of the President on Nov. 21, 1974, and was given the designation [Pub. L. 93–651][/us/pl/93/651]. Therefore, for purposes of codification, this section should be deemed to have been enacted by [Pub. L. 93–651, title II][/us/pl/93/651/tII], § 206, Nov. 21, 1974, [89 Stat. 2–12][/us/stat/89/2-12], in exactly the same manner as it was enacted by [Pub. L. 93–516][/us/pl/93/516].
 
  __Prior Provisions__ 
 
-    A prior section 7 of act June 20, 1936, was classified to [section 107e–1 of this title][/us/usc/t20/s107e–1], prior to repeal by [Pub. L. 93–516, § 205][/us/pl/93/516/s205].
+    A prior section 7 of act June 20, 1936, was classified to [section 107e–1 of this title][/us/usc/t20/s107e–1], prior to repeal by [Pub. L. 93–516][/us/pl/93/516], § 205.
 
 ----------
 
@@ -65,17 +65,17 @@
 ----------
 
 [/us/usc/t20/s107b/3/E]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs107b%2F3%2FE
-[/us/act/1936-06-20/ch638/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1936-06-20%2Fch638%2Fs7
-[/us/pl/93/516/s206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F516%2Fs206
+[/us/act/1936-06-20/ch638]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1936-06-20%2Fch638
+[/us/pl/93/516/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F516%2FtII
 [/us/stat/88/1627]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1627
-[/us/pl/93/651/s206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F651%2Fs206
+[/us/pl/93/651/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F651%2FtII
 [/us/stat/89/2-12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F2-12
 [/us/pl/93/516]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F516
 [/us/pl/93/651]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F651
-[/us/pl/93/651/s206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F651%2Fs206
+[/us/pl/93/651/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F651%2FtII
 [/us/stat/89/2-12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F2-12
 [/us/pl/93/516]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F516
 [/us/usc/t20/s107e–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs107e%E2%80%931
-[/us/pl/93/516/s205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F516%2Fs205
+[/us/pl/93/516]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F516
 
 

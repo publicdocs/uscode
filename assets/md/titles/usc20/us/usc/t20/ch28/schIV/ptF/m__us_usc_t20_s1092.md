@@ -823,117 +823,117 @@
 
             The Secretary shall summarize the information received from institutions of higher education under paragraph (1) in a report and transmit such report annually to the authorizing committees.
 
-([Pub. L. 89–329, title IV, § 485][/us/pl/89/329/s485], as added [Pub. L. 99–498, title IV, § 407(a)][/us/pl/99/498/s407/a], Oct. 17, 1986, [100 Stat. 1482][/us/stat/100/1482]; amended [Pub. L. 100–50, § 15(10)][/us/pl/100/50/s15/10], (11), June 3, 1987, [101 Stat. 357][/us/stat/101/357]; [Pub. L. 101–542, title I][/us/pl/101/542], §§ 103(a), (b), 104(a), title II, § 204(a), Nov. 8, 1990, [104 Stat. 2381–2385][/us/stat/104/2381-2385]; [Pub. L. 101–610, title II][/us/pl/101/610], §§ 201–203, Nov. 16, 1990, [104 Stat. 3171][/us/stat/104/3171], 3172; [Pub. L. 102–26, § 10(a)][/us/pl/102/26/s10/a]–(d), Apr. 9, 1991, [105 Stat. 128][/us/stat/105/128]; [Pub. L. 102–164, title VI, § 603][/us/pl/102/164/s603], Nov. 15, 1991, [105 Stat. 1066][/us/stat/105/1066]; [Pub. L. 102–325, title IV, § 486(a)][/us/pl/102/325/s486/a]–(c)(2), July 23, 1992, [106 Stat. 620][/us/stat/106/620], 621; [Pub. L. 103–208, § 2(h)(28)][/us/pl/103/208/s2/h/28]–(37), (k)(9), Dec. 20, 1993, [107 Stat. 2477][/us/stat/107/2477], 2486; [Pub. L. 103–382, title III, § 360B(c)][/us/pl/103/382/s360B/c], Oct. 20, 1994, [108 Stat. 3970][/us/stat/108/3970]; [Pub. L. 104–208, div. A, title I, § 101(e)][/us/pl/104/208/s101/e] \[title III, § 308\], Sept. 30, 1996, [110 Stat. 3009–233][/us/stat/110/3009-233], 3009–262; [Pub. L. 105–18, title VI, § 60001(a)][/us/pl/105/18/s60001/a], June 12, 1997, [111 Stat. 214][/us/stat/111/214]; [Pub. L. 105–244, title I, § 102(b)(3)][/us/pl/105/244/s102/b/3], title IV, § 486, Oct. 7, 1998, [112 Stat. 1622][/us/stat/112/1622], 1741; [Pub. L. 106–386, div. B, title VI, § 1601(c)(1)][/us/pl/106/386/s1601/c/1], Oct. 28, 2000, [114 Stat. 1537][/us/stat/114/1537]; [Pub. L. 110–315, title I, § 103(b)(11)][/us/pl/110/315/s103/b/11], title IV, § 488, title X, § 1011(c), Aug. 14, 2008, [122 Stat. 3090][/us/stat/122/3090], 3293, 3482; [Pub. L. 111–39, title IV, § 407(b)(5)][/us/pl/111/39/s407/b/5], July 1, 2009, [123 Stat. 1951][/us/stat/123/1951]; [Pub. L. 113–4, title III, § 304(a)][/us/pl/113/4/s304/a], Mar. 7, 2013, [127 Stat. 89][/us/stat/127/89].)
+([Pub. L. 89–329, title IV][/us/pl/89/329/tIV], § 485, as added [Pub. L. 99–498, title IV][/us/pl/99/498/tIV], § 407(a), Oct. 17, 1986, [100 Stat. 1482][/us/stat/100/1482]; amended [Pub. L. 100–50][/us/pl/100/50], § 15(10), (11), June 3, 1987, [101 Stat. 357][/us/stat/101/357]; [Pub. L. 101–542, title I][/us/pl/101/542/tI], §§ 103(a), (b), 104(a), title II, § 204(a), Nov. 8, 1990, [104 Stat. 2381–2385][/us/stat/104/2381-2385]; [Pub. L. 101–610, title II][/us/pl/101/610/tII], §§ 201–203, Nov. 16, 1990, [104 Stat. 3171][/us/stat/104/3171], 3172; [Pub. L. 102–26][/us/pl/102/26], § 10(a)–(d), Apr. 9, 1991, [105 Stat. 128][/us/stat/105/128]; [Pub. L. 102–164, title VI][/us/pl/102/164/tVI], § 603, Nov. 15, 1991, [105 Stat. 1066][/us/stat/105/1066]; [Pub. L. 102–325, title IV][/us/pl/102/325/tIV], § 486(a)–(c)(2), July 23, 1992, [106 Stat. 620][/us/stat/106/620], 621; [Pub. L. 103–208][/us/pl/103/208], § 2(h)(28)–(37), (k)(9), Dec. 20, 1993, [107 Stat. 2477][/us/stat/107/2477], 2486; [Pub. L. 103–382, title III][/us/pl/103/382/tIII], § 360B(c), Oct. 20, 1994, [108 Stat. 3970][/us/stat/108/3970]; [Pub. L. 104–208, div. A, title I][/us/pl/104/208/dA/tI], § 101(e) \[title III, § 308\], Sept. 30, 1996, [110 Stat. 3009–233][/us/stat/110/3009-233], 3009–262; [Pub. L. 105–18, title VI][/us/pl/105/18/tVI], § 60001(a), June 12, 1997, [111 Stat. 214][/us/stat/111/214]; [Pub. L. 105–244, title I][/us/pl/105/244/tI], § 102(b)(3), title IV, § 486, Oct. 7, 1998, [112 Stat. 1622][/us/stat/112/1622], 1741; [Pub. L. 106–386, div. B, title VI][/us/pl/106/386/dB/tVI], § 1601(c)(1), Oct. 28, 2000, [114 Stat. 1537][/us/stat/114/1537]; [Pub. L. 110–315, title I][/us/pl/110/315/tI], § 103(b)(11), title IV, § 488, title X, § 1011(c), Aug. 14, 2008, [122 Stat. 3090][/us/stat/122/3090], 3293, 3482; [Pub. L. 111–39, title IV][/us/pl/111/39/tIV], § 407(b)(5), July 1, 2009, [123 Stat. 1951][/us/stat/123/1951]; [Pub. L. 113–4, title III][/us/pl/113/4/tIII], § 304(a), Mar. 7, 2013, [127 Stat. 89][/us/stat/127/89].)
 
  __References in Text__ 
 
-    [Section 14071 of title 42][/us/usc/t42/s14071], referred to in subsec. (f)(1)(I), was repealed by [Pub. L. 109–248, title I, § 129(a)][/us/pl/109/248/s129/a], July 27, 2006, [120 Stat. 600][/us/stat/120/600].
+    [Section 14071 of title 42][/us/usc/t42/s14071], referred to in subsec. (f)(1)(I), was repealed by [Pub. L. 109–248, title I][/us/pl/109/248/tI], § 129(a), July 27, 2006, [120 Stat. 600][/us/stat/120/600].
 
     The Hate Crime Statistics Act, referred to in subsec. (f)(7), is [Pub. L. 101–275][/us/pl/101/275], Apr. 23, 1990, [104 Stat. 140][/us/stat/104/140], which is set out as a note under [section 534 of Title 28][/us/usc/t28/s534], Judiciary and Judicial Procedure.
 
-    Title IV of the Economic Opportunity Act of 1964, referred to in subsec. (f)(8)(A), is title IV of [Pub. L. 88–452][/us/pl/88/452], which was classified to subchapter IV (§ 2901 et seq.) of chapter 34 of Title 42, The Public Health and Welfare, prior to repeal by [Pub. L. 97–35, title VI, § 683(a)][/us/pl/97/35/s683/a], Aug. 13, 1981, [95 Stat. 519][/us/stat/95/519].
+    Title IV of the Economic Opportunity Act of 1964, referred to in subsec. (f)(8)(A), is title IV of [Pub. L. 88–452][/us/pl/88/452], which was classified to subchapter IV (§ 2901 et seq.) of chapter 34 of Title 42, The Public Health and Welfare, prior to repeal by [Pub. L. 97–35, title VI][/us/pl/97/35/tVI], § 683(a), Aug. 13, 1981, [95 Stat. 519][/us/stat/95/519].
 
     The General Education Provisions Act, referred to in subsec. (h)(2)(C), is title IV of [Pub. L. 90–247][/us/pl/90/247], Jan. 2, 1968, [81 Stat. 814][/us/stat/81/814], which is classified generally to chapter 31 (§ 1221 et seq.) of this title. For complete classification of this Act to the Code, see [section 1221 of this title][/us/usc/t20/s1221] and Tables.
 
-    Section 264 of the Health Insurance Portability and Accountability Act of 1996, referred to in subsec. (i)(5)(B), is [section 264 of title II of Pub. L. 104–191][/us/pl/104/191/s264], Aug. 21, 1996, [110 Stat. 2033][/us/stat/110/2033], which is set out as a note under [section 1320d–2 of Title 42][/us/usc/t42/s1320d–2], The Public Health and Welfare.
+    Section 264 of the Health Insurance Portability and Accountability Act of 1996, referred to in subsec. (i)(5)(B), is [section 264 of title II of Pub. L. 104–191][/us/pl/104/191/tII/s264], Aug. 21, 1996, [110 Stat. 2033][/us/stat/110/2033], which is set out as a note under [section 1320d–2 of Title 42][/us/usc/t42/s1320d–2], The Public Health and Welfare.
 
  __Prior Provisions__ 
 
-    A prior section 1092, [Pub. L. 89–329, title IV, § 485][/us/pl/89/329/s485], as added [Pub. L. 96–374, title IV, § 451(a)][/us/pl/96/374/s451/a], Oct. 3, 1980, [94 Stat. 1449][/us/stat/94/1449], related to provision of institutional and financial assistance information for students, prior to the general revision of this part by [Pub. L. 99–498][/us/pl/99/498].
+    A prior section 1092, [Pub. L. 89–329, title IV][/us/pl/89/329/tIV], § 485, as added [Pub. L. 96–374, title IV][/us/pl/96/374/tIV], § 451(a), Oct. 3, 1980, [94 Stat. 1449][/us/stat/94/1449], related to provision of institutional and financial assistance information for students, prior to the general revision of this part by [Pub. L. 99–498][/us/pl/99/498].
 
-    Another prior section 1092, [Pub. L. 89–329, title V, § 508][/us/pl/89/329/s508], formerly § 502, Nov. 8, 1965, [79 Stat. 1255][/us/stat/79/1255]; renumbered § 508 and amended [Pub. L. 90–35][/us/pl/90/35], §§ 2(b), 7, June 29, 1967, [81 Stat. 82][/us/stat/81/82], 93, prohibited the making of payments for religious purposes for authorized programs, prior to repeal by [Pub. L. 94–482, title I, § 151(a)(2)][/us/pl/94/482/s151/a/2], Oct. 12, 1976, [90 Stat. 2151][/us/stat/90/2151].
+    Another prior section 1092, [Pub. L. 89–329, title V][/us/pl/89/329/tV], § 508, formerly § 502, Nov. 8, 1965, [79 Stat. 1255][/us/stat/79/1255]; renumbered § 508 and amended [Pub. L. 90–35][/us/pl/90/35], §§ 2(b), 7, June 29, 1967, [81 Stat. 82][/us/stat/81/82], 93, prohibited the making of payments for religious purposes for authorized programs, prior to repeal by [Pub. L. 94–482, title I][/us/pl/94/482/tI], § 151(a)(2), Oct. 12, 1976, [90 Stat. 2151][/us/stat/90/2151].
 
  __Amendments__ 
 
-    2013—Subsec. (f)(1)(C)(iii). [Pub. L. 113–4, § 304(a)(1)(A)][/us/pl/113/4/s304/a/1/A], substituted “, when the victim of such crime elects or is unable to make such a report.” for period at end.
+    2013—Subsec. (f)(1)(C)(iii). [Pub. L. 113–4][/us/pl/113/4], § 304(a)(1)(A), substituted “, when the victim of such crime elects or is unable to make such a report.” for period at end.
 
-    Subsec. (f)(1)(F)(i)(VIII). [Pub. L. 113–4, § 304(a)(1)(B)(i)][/us/pl/113/4/s304/a/1/B/i], struck out “and” after semicolon.
+    Subsec. (f)(1)(F)(i)(VIII). [Pub. L. 113–4][/us/pl/113/4], § 304(a)(1)(B)(i), struck out “and” after semicolon.
 
-    Subsec. (f)(1)(F)(ii). [Pub. L. 113–4, § 304(a)(1)(B)(ii)(I)][/us/pl/113/4/s304/a/1/B/ii/I], substituted “national origin, sexual orientation, gender identity,” for “sexual orientation”.
+    Subsec. (f)(1)(F)(ii). [Pub. L. 113–4][/us/pl/113/4], § 304(a)(1)(B)(ii)(I), substituted “national origin, sexual orientation, gender identity,” for “sexual orientation”.
 
-    Subsec. (f)(1)(F)(iii). [Pub. L. 113–4, § 304(a)(1)(B)(ii)(II)][/us/pl/113/4/s304/a/1/B/ii/II], (iii), added cl. (iii).
+    Subsec. (f)(1)(F)(iii). [Pub. L. 113–4][/us/pl/113/4], § 304(a)(1)(B)(ii)(II), (iii), added cl. (iii).
 
-    Subsec. (f)(3). [Pub. L. 113–4, § 304(a)(2)][/us/pl/113/4/s304/a/2], inserted “, that withholds the names of victims as confidential,” after “that is timely”.
+    Subsec. (f)(3). [Pub. L. 113–4][/us/pl/113/4], § 304(a)(2), inserted “, that withholds the names of victims as confidential,” after “that is timely”.
 
-    Subsec. (f)(6)(A). [Pub. L. 113–4, § 304(a)(3)][/us/pl/113/4/s304/a/3], added cls. (i) and (v) and redesignated former cls. (i) to (iii) as (ii) to (iv), respectively.
+    Subsec. (f)(6)(A). [Pub. L. 113–4][/us/pl/113/4], § 304(a)(3), added cls. (i) and (v) and redesignated former cls. (i) to (iii) as (ii) to (iv), respectively.
 
-    Subsec. (f)(7). [Pub. L. 113–4, § 304(a)(4)][/us/pl/113/4/s304/a/4], substituted “clauses (i) and (ii) of paragraph (1)(F)” for “paragraph (1)(F)” and inserted “For the offenses of domestic violence, dating violence, and stalking, such statistics shall be compiled in accordance with the definitions used in [section 13925(a) of title 42][/us/usc/t42/s13925/a].” after “Hate Crime Statistics Act.”
+    Subsec. (f)(7). [Pub. L. 113–4][/us/pl/113/4], § 304(a)(4), substituted “clauses (i) and (ii) of paragraph (1)(F)” for “paragraph (1)(F)” and inserted “For the offenses of domestic violence, dating violence, and stalking, such statistics shall be compiled in accordance with the definitions used in [section 13925(a) of title 42][/us/usc/t42/s13925/a].” after “Hate Crime Statistics Act.”
 
-    Subsec. (f)(8). [Pub. L. 113–4, § 304(a)(5)][/us/pl/113/4/s304/a/5], added par. (8) and struck out former par. (8) which related to development of statements of policy regarding campus sexual assault programs by institutions of higher education.
+    Subsec. (f)(8). [Pub. L. 113–4][/us/pl/113/4], § 304(a)(5), added par. (8) and struck out former par. (8) which related to development of statements of policy regarding campus sexual assault programs by institutions of higher education.
 
-    Subsec. (f)(9). [Pub. L. 113–4, § 304(a)(6)][/us/pl/113/4/s304/a/6], substituted “The Secretary, in consultation with the Attorney General of the United States,” for “The Secretary”.
+    Subsec. (f)(9). [Pub. L. 113–4][/us/pl/113/4], § 304(a)(6), substituted “The Secretary, in consultation with the Attorney General of the United States,” for “The Secretary”.
 
-    Subsec. (f)(16). [Pub. L. 113–4, § 304(a)(7)][/us/pl/113/4/s304/a/7], added par. (16) and struck out former par. (16) which read as follows: “The Secretary may seek the advice and counsel of the Attorney General concerning the development, and dissemination to institutions of higher education, of best practices information about campus safety and emergencies.”
+    Subsec. (f)(16). [Pub. L. 113–4][/us/pl/113/4], § 304(a)(7), added par. (16) and struck out former par. (16) which read as follows: “The Secretary may seek the advice and counsel of the Attorney General concerning the development, and dissemination to institutions of higher education, of best practices information about campus safety and emergencies.”
 
-    Subsec. (f)(17). [Pub. L. 113–4, § 304(a)(8)][/us/pl/113/4/s304/a/8], added par. (17) and struck out former par. (17) which read as follows: “Nothing in this subsection shall be construed to permit an institution, or an officer, employee, or agent of an institution, participating in any program under this subchapter and part C of subchapter I of chapter 34 of title 42 to retaliate, intimidate, threaten, coerce, or otherwise discriminate against any individual with respect to the implementation of any provision of this subsection.”
+    Subsec. (f)(17). [Pub. L. 113–4][/us/pl/113/4], § 304(a)(8), added par. (17) and struck out former par. (17) which read as follows: “Nothing in this subsection shall be construed to permit an institution, or an officer, employee, or agent of an institution, participating in any program under this subchapter and part C of subchapter I of chapter 34 of title 42 to retaliate, intimidate, threaten, coerce, or otherwise discriminate against any individual with respect to the implementation of any provision of this subsection.”
 
-    2009—Subsec. (a)(1). [Pub. L. 111–39, § 407(b)(5)(A)(i)(I)][/us/pl/111/39/s407/b/5/A/i/I], substituted “commonly known as the ‘Family Educational Rights and Privacy Act of 1974’ ” for “also referred to as the Family Educational Rights and Privacy Act of 1974” in introductory provisions.
+    2009—Subsec. (a)(1). [Pub. L. 111–39][/us/pl/111/39], § 407(b)(5)(A)(i)(I), substituted “commonly known as the ‘Family Educational Rights and Privacy Act of 1974’ ” for “also referred to as the Family Educational Rights and Privacy Act of 1974” in introductory provisions.
 
-    Subsec. (a)(1)(I). [Pub. L. 111–39, § 407(b)(5)(A)(i)(II)][/us/pl/111/39/s407/b/5/A/i/II], substituted “students with disabilities” for “handicapped students”.
+    Subsec. (a)(1)(I). [Pub. L. 111–39][/us/pl/111/39], § 407(b)(5)(A)(i)(II), substituted “students with disabilities” for “handicapped students”.
 
-    Subsec. (a)(4)(B). [Pub. L. 111–39, § 407(b)(5)(A)(ii)][/us/pl/111/39/s407/b/5/A/ii], inserted “during which” after “time period”.
+    Subsec. (a)(4)(B). [Pub. L. 111–39][/us/pl/111/39], § 407(b)(5)(A)(ii), inserted “during which” after “time period”.
 
-    Subsec. (a)(7)(B)(iv). [Pub. L. 111–39, § 407(b)(5)(A)(iii)][/us/pl/111/39/s407/b/5/A/iii], inserted “education” after “higher” in introductory provisions.
+    Subsec. (a)(7)(B)(iv). [Pub. L. 111–39][/us/pl/111/39], § 407(b)(5)(A)(iii), inserted “education” after “higher” in introductory provisions.
 
-    Subsec. (e)(3)(B). [Pub. L. 111–39, § 407(b)(5)(B)][/us/pl/111/39/s407/b/5/B], inserted “during which” after “time period”.
+    Subsec. (e)(3)(B). [Pub. L. 111–39][/us/pl/111/39], § 407(b)(5)(B), inserted “during which” after “time period”.
 
-    Subsec. (f)(1). [Pub. L. 111–39, § 407(b)(5)(C)][/us/pl/111/39/s407/b/5/C], inserted “of” after “foreign institution” in introductory provisions.
+    Subsec. (f)(1). [Pub. L. 111–39][/us/pl/111/39], § 407(b)(5)(C), inserted “of” after “foreign institution” in introductory provisions.
 
-    Subsec. (f)(3), (4)(A), (5), (8)(A). [Pub. L. 111–39, § 407(b)(5)(C)(ii)][/us/pl/111/39/s407/b/5/C/ii], substituted “under this subchapter and part C of subchapter I of chapter 34 of title 42, other than a foreign institution of higher education,” for “under this subchapter and part C of subchapter I of chapter 34 of title 42”.
+    Subsec. (f)(3), (4)(A), (5), (8)(A). [Pub. L. 111–39][/us/pl/111/39], § 407(b)(5)(C)(ii), substituted “under this subchapter and part C of subchapter I of chapter 34 of title 42, other than a foreign institution of higher education,” for “under this subchapter and part C of subchapter I of chapter 34 of title 42”.
 
-    Subsec. (g)(2). [Pub. L. 111–39, § 407(b)(5)(D)][/us/pl/111/39/s407/b/5/D], substituted “paragraph (1)(G)” for “subparagraph (G)”.
+    Subsec. (g)(2). [Pub. L. 111–39][/us/pl/111/39], § 407(b)(5)(D), substituted “paragraph (1)(G)” for “subparagraph (G)”.
 
-    Subsec. (i)(2), (3). [Pub. L. 111–39, § 407(b)(5)(E)(i)][/us/pl/111/39/s407/b/5/E/i], (ii), substituted “institution described in paragraph (1)” for “eligible institution participating in any program under this subchapter and part C of subchapter I of chapter 34 of title 42”.
+    Subsec. (i)(2), (3). [Pub. L. 111–39][/us/pl/111/39], § 407(b)(5)(E)(i), (ii), substituted “institution described in paragraph (1)” for “eligible institution participating in any program under this subchapter and part C of subchapter I of chapter 34 of title 42”.
 
-    Subsec. (i)(5)(B). [Pub. L. 111–39, § 407(b)(5)(E)(iii)][/us/pl/111/39/s407/b/5/E/iii], substituted “commonly known as the ‘Family Educational Rights and Privacy Act of 1974’ ” for “the Family Educational Rights and Privacy Act of 1974”.
+    Subsec. (i)(5)(B). [Pub. L. 111–39][/us/pl/111/39], § 407(b)(5)(E)(iii), substituted “commonly known as the ‘Family Educational Rights and Privacy Act of 1974’ ” for “the Family Educational Rights and Privacy Act of 1974”.
 
-    Subsec. (k)(2). [Pub. L. 111–39, § 407(b)(5)(F)][/us/pl/111/39/s407/b/5/F], inserted “section” before “1091(r)(1)”.
+    Subsec. (k)(2). [Pub. L. 111–39][/us/pl/111/39], § 407(b)(5)(F), inserted “section” before “1091(r)(1)”.
 
-    Subsec. (l)(1)(A). [Pub. L. 111–39, § 407(b)(5)(G)][/us/pl/111/39/s407/b/5/G], substituted “paragraph (2)” for “subparagraph (B)” in introductory provisions.
+    Subsec. (l)(1)(A). [Pub. L. 111–39][/us/pl/111/39], § 407(b)(5)(G), substituted “paragraph (2)” for “subparagraph (B)” in introductory provisions.
 
-    2008—Subsec. (a)(1)(G)(iv). [Pub. L. 110–315, § 488(a)(1)(A)][/us/pl/110/315/s488/a/1/A], added cl. (iv).
+    2008—Subsec. (a)(1)(G)(iv). [Pub. L. 110–315][/us/pl/110/315], § 488(a)(1)(A), added cl. (iv).
 
-    Subsec. (a)(1)(M). [Pub. L. 110–315, § 488(a)(1)(B)][/us/pl/110/315/s488/a/1/B], added subpar. (M) and struck out former subpar. (M) which read as follows: “the terms and conditions under which students receiving guaranteed student loans under part B of this subchapter or direct student loans under part D of this subchapter, or both, may—
+    Subsec. (a)(1)(M). [Pub. L. 110–315][/us/pl/110/315], § 488(a)(1)(B), added subpar. (M) and struck out former subpar. (M) which read as follows: “the terms and conditions under which students receiving guaranteed student loans under part B of this subchapter or direct student loans under part D of this subchapter, or both, may—
 
     “(i) obtain deferral of the repayment of the principal and interest for service under the Peace Corps Act (as established by the Peace Corps Act ([22 U.S.C. 2501][/us/usc/t22/s2501] et seq.)) or under the Domestic Volunteer Service Act of 1973, or for comparable full-time service as a volunteer for a tax-exempt organization of demonstrated effectiveness in the field of community service, and
 
     “(ii) obtain partial cancellation of the student loan for service under the Peace Corps Act (as established by the Peace Corps Act ([22 U.S.C. 2501][/us/usc/t22/s2501] et seq.)) under the Domestic Volunteer Service Act of 1973 or, for comparable full-time service as a volunteer for a tax-exempt organization of demonstrated effectiveness in the field of community service;”.
 
-    Subsec. (a)(1)(P) to (V). [Pub. L. 110–315, § 488(a)(1)(C)][/us/pl/110/315/s488/a/1/C]–(E), added subpars. (P) to (V).
+    Subsec. (a)(1)(P) to (V). [Pub. L. 110–315][/us/pl/110/315], § 488(a)(1)(C)–(E), added subpars. (P) to (V).
 
-    Subsec. (a)(4). [Pub. L. 110–315, § 488(a)(2)][/us/pl/110/315/s488/a/2], added par. (4) and struck out former par. (4) which read as follows: “For purposes of this section, institutions may exclude from the information disclosed in accordance with subparagraph (L) of paragraph (1) the completion or graduation rates of students who leave school to serve in the armed services, on official church missions, or with a recognized foreign aid service of the Federal Government.”
+    Subsec. (a)(4). [Pub. L. 110–315][/us/pl/110/315], § 488(a)(2), added par. (4) and struck out former par. (4) which read as follows: “For purposes of this section, institutions may exclude from the information disclosed in accordance with subparagraph (L) of paragraph (1) the completion or graduation rates of students who leave school to serve in the armed services, on official church missions, or with a recognized foreign aid service of the Federal Government.”
 
-    Subsec. (a)(7). [Pub. L. 110–315, § 488(a)(3)][/us/pl/110/315/s488/a/3], added par. (7).
+    Subsec. (a)(7). [Pub. L. 110–315][/us/pl/110/315], § 488(a)(3), added par. (7).
 
-    Subsec. (b)(1)(A). [Pub. L. 110–315, § 488(b)][/us/pl/110/315/s488/b], which directed the general amendment of subpar. (A), with the new subpar. (A) including a subsec. (b) designation and heading and par. (1) designation, was executed by substituting the new subpar. (A) without the added subsec. (b) designation and heading and par. (1) designation for the existing subpar. (A), to reflect the probable intent of Congress. Prior to amendment, subpar. (A) read as follows: “Each eligible institution shall, through financial aid officers or otherwise, make available counseling to borrowers of loans which are made, insured, or guaranteed under part B (other than loans made pursuant to [section 1078–2 of this title][/us/usc/t20/s1078–2]) of this subchapter or made under part C or D of this subchapter prior to the completion of the course of study for which the borrower enrolled at the institution or at the time of departure from such institution. The counseling required by this subsection shall include—
+    Subsec. (b)(1)(A). [Pub. L. 110–315][/us/pl/110/315], § 488(b), which directed the general amendment of subpar. (A), with the new subpar. (A) including a subsec. (b) designation and heading and par. (1) designation, was executed by substituting the new subpar. (A) without the added subsec. (b) designation and heading and par. (1) designation for the existing subpar. (A), to reflect the probable intent of Congress. Prior to amendment, subpar. (A) read as follows: “Each eligible institution shall, through financial aid officers or otherwise, make available counseling to borrowers of loans which are made, insured, or guaranteed under part B (other than loans made pursuant to [section 1078–2 of this title][/us/usc/t20/s1078–2]) of this subchapter or made under part C or D of this subchapter prior to the completion of the course of study for which the borrower enrolled at the institution or at the time of departure from such institution. The counseling required by this subsection shall include—
 
     “(i) the average anticipated monthly repayments, a review of the repayment options available, and such debt and management strategies as the institution determines are designed to facilitate the repayment of such indebtedness; and
 
     “(ii) the terms and conditions under which the student may obtain partial cancellation or defer repayment of the principal and interest pursuant to sections 1078(b), 1087dd(c)(2), and 1087ee of this title.”
 
-    Subsec. (d)(1). [Pub. L. 110–315, § 488(c)(1)][/us/pl/110/315/s488/c/1], inserted “Such information shall also include information on the various payment options available for student loans, including income-sensitive and income-based repayment plans for loans made, insured, or guaranteed under part B and income-contingent and income-based repayment plans for loans made under part C.” before “In addition, such information” and “The Secretary shall also provide information on loan forbearance, including the increase in debt that results from capitalization of interest.” before “Such information shall be provided”.
+    Subsec. (d)(1). [Pub. L. 110–315][/us/pl/110/315], § 488(c)(1), inserted “Such information shall also include information on the various payment options available for student loans, including income-sensitive and income-based repayment plans for loans made, insured, or guaranteed under part B and income-contingent and income-based repayment plans for loans made under part C.” before “In addition, such information” and “The Secretary shall also provide information on loan forbearance, including the increase in debt that results from capitalization of interest.” before “Such information shall be provided”.
 
-    Subsec. (d)(4). [Pub. L. 110–315, § 488(c)(2)][/us/pl/110/315/s488/c/2], added par. (4).
+    Subsec. (d)(4). [Pub. L. 110–315][/us/pl/110/315], § 488(c)(2), added par. (4).
 
-    Subsec. (e)(3). [Pub. L. 110–315, § 488(d)][/us/pl/110/315/s488/d], amended par. (3) generally. Prior to amendment, par. (3) read as follows: “For purposes of this subsection, institutions may exclude from the reporting requirements under paragraphs (1) and (2) the completion or graduation rates of students and student athletes who leave school to serve in the armed services, on official church missions, or with a recognized foreign aid service of the Federal Government.”
+    Subsec. (e)(3). [Pub. L. 110–315][/us/pl/110/315], § 488(d), amended par. (3) generally. Prior to amendment, par. (3) read as follows: “For purposes of this subsection, institutions may exclude from the reporting requirements under paragraphs (1) and (2) the completion or graduation rates of students and student athletes who leave school to serve in the armed services, on official church missions, or with a recognized foreign aid service of the Federal Government.”
 
-    Subsec. (f)(1). [Pub. L. 110–315, § 488(e)(1)(A)][/us/pl/110/315/s488/e/1/A], inserted “, other than a foreign institution higher education,” after “chapter 34 of title 42” in introductory provisions.
+    Subsec. (f)(1). [Pub. L. 110–315][/us/pl/110/315], § 488(e)(1)(A), inserted “, other than a foreign institution higher education,” after “chapter 34 of title 42” in introductory provisions.
 
-    Subsec. (f)(1)(C)(i) to (iii). [Pub. L. 110–315, § 488(e)(1)(B)][/us/pl/110/315/s488/e/1/B], added cls. (i) to (iii) and struck out former cls. (i) and (ii) which read as follows:
+    Subsec. (f)(1)(C)(i) to (iii). [Pub. L. 110–315][/us/pl/110/315], § 488(e)(1)(B), added cls. (i) to (iii) and struck out former cls. (i) and (ii) which read as follows:
 
     “(i) the enforcement authority of security personnel, including their working relationship with State and local police agencies; and
 
     “(ii) policies which encourage accurate and prompt reporting of all crimes to the campus police and the appropriate police agencies.”
 
-    Subsec. (f)(1)(F)(ii). [Pub. L. 110–315, § 488(e)(1)(C)][/us/pl/110/315/s488/e/1/C], substituted “clause (i), of larceny-theft, simple assault, intimidation, and destruction, damage, or vandalism of property, and of” for “clause (i), and” and inserted a comma after “any person”.
+    Subsec. (f)(1)(F)(ii). [Pub. L. 110–315][/us/pl/110/315], § 488(e)(1)(C), substituted “clause (i), of larceny-theft, simple assault, intimidation, and destruction, damage, or vandalism of property, and of” for “clause (i), and” and inserted a comma after “any person”.
 
-    Subsec. (f)(1)(J). [Pub. L. 110–315, § 488(e)(1)(D)][/us/pl/110/315/s488/e/1/D], added subpar. (J).
+    Subsec. (f)(1)(J). [Pub. L. 110–315][/us/pl/110/315], § 488(e)(1)(D), added subpar. (J).
 
-    Subsec. (f)(5)(A). [Pub. L. 110–315, § 103(b)(11)][/us/pl/110/315/s103/b/11], substituted “authorizing committees” for “Committee on Education and the Workforce of the House of Representatives and the Committee on Labor and Human Resources of the Senate”.
+    Subsec. (f)(5)(A). [Pub. L. 110–315][/us/pl/110/315], § 103(b)(11), substituted “authorizing committees” for “Committee on Education and the Workforce of the House of Representatives and the Committee on Labor and Human Resources of the Senate”.
 
-    Subsec. (f)(15) to (18). [Pub. L. 110–315, § 488(e)(2)][/us/pl/110/315/s488/e/2], (3), added pars. (15) to (17) and redesignated former par. (15) as (18).
+    Subsec. (f)(15) to (18). [Pub. L. 110–315][/us/pl/110/315], § 488(e)(2), (3), added pars. (15) to (17) and redesignated former par. (15) as (18).
 
-    Subsec. (g)(4)(B) to (D). [Pub. L. 110–315, § 488(f)][/us/pl/110/315/s488/f], redesignated subpars. (C) and (D) as (B) and (C), respectively, struck out “and the report to Congress described in subparagraph (B)” after “subparagraph (A)” in subpar. (B) and “the information reported under subparagraph (B) and” after “availability of” in subpar. (C), and struck out former subpar. (B) which read as follows: “The Secretary shall prepare a report regarding the information received under subparagraph (A) and submit such report to the Committee on Education and the Workforce of the House of Representatives and the Committee on Labor and Human Resources of the Senate by April 1, 2000. The report shall—
+    Subsec. (g)(4)(B) to (D). [Pub. L. 110–315][/us/pl/110/315], § 488(f), redesignated subpars. (C) and (D) as (B) and (C), respectively, struck out “and the report to Congress described in subparagraph (B)” after “subparagraph (A)” in subpar. (B) and “the information reported under subparagraph (B) and” after “availability of” in subpar. (C), and struck out former subpar. (B) which read as follows: “The Secretary shall prepare a report regarding the information received under subparagraph (A) and submit such report to the Committee on Education and the Workforce of the House of Representatives and the Committee on Labor and Human Resources of the Senate by April 1, 2000. The report shall—
 
     “(i) summarize the information and identify trends in the information;
 
@@ -941,17 +941,17 @@
 
     “(iii) contain information on each individual institution of higher education.”
 
-    Subsecs. (h) to (l). [Pub. L. 110–315, § 488(g)][/us/pl/110/315/s488/g], added subsecs. (h) to (l).
+    Subsecs. (h) to (l). [Pub. L. 110–315][/us/pl/110/315], § 488(g), added subsecs. (h) to (l).
 
-    Subsec. (m). [Pub. L. 110–315, § 1011(c)][/us/pl/110/315/s1011/c], added subsec. (m).
+    Subsec. (m). [Pub. L. 110–315][/us/pl/110/315], § 1011(c), added subsec. (m).
 
     2000—Subsec. (f)(1)(I). [Pub. L. 106–386][/us/pl/106/386] added subpar. (I).
 
-    1998—Subsec. (a)(1). [Pub. L. 105–244, § 486(a)(1)(B)][/us/pl/105/244/s486/a/1/B], in introductory provisions, inserted after second sentence “Each eligible institution shall, on an annual basis, provide to all enrolled students a list of the information that is required to be provided by institutions to students by this section and [section 1232g of this title][/us/usc/t20/s1232g], together with a statement of the procedures required to obtain such information.”
+    1998—Subsec. (a)(1). [Pub. L. 105–244][/us/pl/105/244], § 486(a)(1)(B), in introductory provisions, inserted after second sentence “Each eligible institution shall, on an annual basis, provide to all enrolled students a list of the information that is required to be provided by institutions to students by this section and [section 1232g of this title][/us/usc/t20/s1232g], together with a statement of the procedures required to obtain such information.”
 
-    [Pub. L. 105–244, § 486(a)(1)(A)][/us/pl/105/244/s486/a/1/A], in introductory provisions, substituted “upon request, through appropriate publications, mailings, and electronic media, to an enrolled student and to any prospective student” for “, through appropriate publications and mailings, to all current students, and to any prospective student upon request”.
+    [Pub. L. 105–244][/us/pl/105/244], § 486(a)(1)(A), in introductory provisions, substituted “upon request, through appropriate publications, mailings, and electronic media, to an enrolled student and to any prospective student” for “, through appropriate publications and mailings, to all current students, and to any prospective student upon request”.
 
-    Subsec. (a)(1)(F). [Pub. L. 105–244, § 486(a)(1)(C)][/us/pl/105/244/s486/a/1/C], amended subpar. (F) generally. Prior to amendment, subpar. (F) read as follows: “a statement of the refund policy of the institution, as determined under [section 1091b of this title][/us/usc/t20/s1091b], for the return of unearned tuition and fees or other refundable portion of cost, as described in subparagraph (E) of this paragraph, which refunds shall be credited in the following order:
+    Subsec. (a)(1)(F). [Pub. L. 105–244][/us/pl/105/244], § 486(a)(1)(C), amended subpar. (F) generally. Prior to amendment, subpar. (F) read as follows: “a statement of the refund policy of the institution, as determined under [section 1091b of this title][/us/usc/t20/s1091b], for the return of unearned tuition and fees or other refundable portion of cost, as described in subparagraph (E) of this paragraph, which refunds shall be credited in the following order:
 
     “(i) to outstanding balances on loans under part B of this subchapter for the period of enrollment for which a refund is required,
 
@@ -967,23 +967,23 @@
 
     “(vii) to the student;”.
 
-    Subsec. (a)(1)(O). [Pub. L. 105–244, § 486(a)(1)(D)][/us/pl/105/244/s486/a/1/D]–(F), added subpar. (O).
+    Subsec. (a)(1)(O). [Pub. L. 105–244][/us/pl/105/244], § 486(a)(1)(D)–(F), added subpar. (O).
 
-    Subsec. (a)(3)(A). [Pub. L. 105–244, § 486(a)(2)][/us/pl/105/244/s486/a/2], amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “shall, for any academic year beginning more than 270 days after the Secretary first prescribes final regulations pursuant to such subparagraph (L), be made available to current and prospective students prior to enrolling or entering into any financial obligation; and”.
+    Subsec. (a)(3)(A). [Pub. L. 105–244][/us/pl/105/244], § 486(a)(2), amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “shall, for any academic year beginning more than 270 days after the Secretary first prescribes final regulations pursuant to such subparagraph (L), be made available to current and prospective students prior to enrolling or entering into any financial obligation; and”.
 
-    Subsec. (a)(6). [Pub. L. 105–244, § 486(a)(3)][/us/pl/105/244/s486/a/3], added par. (6).
+    Subsec. (a)(6). [Pub. L. 105–244][/us/pl/105/244], § 486(a)(3), added par. (6).
 
-    Subsec. (b)(1)(A). [Pub. L. 105–244, § 486(b)(1)][/us/pl/105/244/s486/b/1], struck out “(individually or in groups)” after “counseling to borrowers” in introductory provisions.
+    Subsec. (b)(1)(A). [Pub. L. 105–244][/us/pl/105/244], § 486(b)(1), struck out “(individually or in groups)” after “counseling to borrowers” in introductory provisions.
 
-    Subsec. (b)(2)(C). [Pub. L. 105–244, § 486(b)(2)][/us/pl/105/244/s486/b/2], added subpar. (C).
+    Subsec. (b)(2)(C). [Pub. L. 105–244][/us/pl/105/244], § 486(b)(2), added subpar. (C).
 
-    Subsec. (d). [Pub. L. 105–244, § 486(c)][/us/pl/105/244/s486/c], designated existing provisions as par. (1), redesignated former pars. (1) and (2) as subpars. (A) and (B), respectively, and added pars. (2) and (3).
+    Subsec. (d). [Pub. L. 105–244][/us/pl/105/244], § 486(c), designated existing provisions as par. (1), redesignated former pars. (1) and (2) as subpars. (A) and (B), respectively, and added pars. (2) and (3).
 
-    Subsec. (e)(2). [Pub. L. 105–244, § 486(d)(1)][/us/pl/105/244/s486/d/1], substituted “the student’s parents, guidance” for “his parents, his guidance” and inserted at end “If the institution is a member of a national collegiate athletic association that compiles graduation rate data on behalf of the association’s member institutions that the Secretary determines is substantially comparable to the information described in paragraph (1), the distribution of the compilation of such data to all secondary schools in the United States shall fulfill the responsibility of the institution to provide information to a prospective student athlete’s guidance counselor and coach.”
+    Subsec. (e)(2). [Pub. L. 105–244][/us/pl/105/244], § 486(d)(1), substituted “the student’s parents, guidance” for “his parents, his guidance” and inserted at end “If the institution is a member of a national collegiate athletic association that compiles graduation rate data on behalf of the association’s member institutions that the Secretary determines is substantially comparable to the information described in paragraph (1), the distribution of the compilation of such data to all secondary schools in the United States shall fulfill the responsibility of the institution to provide information to a prospective student athlete’s guidance counselor and coach.”
 
-    Subsec. (e)(9). [Pub. L. 105–244, § 486(d)(2)][/us/pl/105/244/s486/d/2], amended par. (9) generally. Prior to amendment, par. (9) read as follows: “This subsection shall not be effective until the first July 1 that follows, by more than 270 days, the date on which the Secretary first prescribes final regulations pursuant to this subsection. The reports required by this subsection shall be due on that July 1 and each succeeding July 1 and shall cover the 1-year period ending August 31 of the preceding year.”
+    Subsec. (e)(9). [Pub. L. 105–244][/us/pl/105/244], § 486(d)(2), amended par. (9) generally. Prior to amendment, par. (9) read as follows: “This subsection shall not be effective until the first July 1 that follows, by more than 270 days, the date on which the Secretary first prescribes final regulations pursuant to this subsection. The reports required by this subsection shall be due on that July 1 and each succeeding July 1 and shall cover the 1-year period ending August 31 of the preceding year.”
 
-    Subsec. (f)(1)(F). [Pub. L. 105–244, § 486(e)(1)(A)][/us/pl/105/244/s486/e/1/A], amended subpar. (F) generally. Prior to amendment, subpar. (F) read as follows: “Statistics concerning the occurrence on campus, during the most recent calendar year, and during the 2 preceding calendar years for which data are available, of the following criminal offenses reported to campus security authorities or local police agencies—
+    Subsec. (f)(1)(F). [Pub. L. 105–244][/us/pl/105/244], § 486(e)(1)(A), amended subpar. (F) generally. Prior to amendment, subpar. (F) read as follows: “Statistics concerning the occurrence on campus, during the most recent calendar year, and during the 2 preceding calendar years for which data are available, of the following criminal offenses reported to campus security authorities or local police agencies—
 
     “(i) murder;
 
@@ -997,7 +997,7 @@
 
     “(vi) motor vehicle theft.”
 
-    Subsec. (f)(1)(H). [Pub. L. 105–244, § 486(e)(1)(B)][/us/pl/105/244/s486/e/1/B], (C), redesignated subpar. (I) as (H) and struck out former subpar. (H) which read as follows: “Statistics concerning the number of arrests for the following crimes occurring on campus:
+    Subsec. (f)(1)(H). [Pub. L. 105–244][/us/pl/105/244], § 486(e)(1)(B), (C), redesignated subpar. (I) as (H) and struck out former subpar. (H) which read as follows: “Statistics concerning the number of arrests for the following crimes occurring on campus:
 
     “(i) liquor law violations;
 
@@ -1005,89 +1005,89 @@
 
     “(iii) weapons possessions.”
 
-    Subsec. (f)(1)(I). [Pub. L. 105–244, § 486(e)(1)(C)][/us/pl/105/244/s486/e/1/C], redesignated subpar. (I) as (H).
+    Subsec. (f)(1)(I). [Pub. L. 105–244][/us/pl/105/244], § 486(e)(1)(C), redesignated subpar. (I) as (H).
 
-    [Pub. L. 105–244, § 102(b)(3)][/us/pl/105/244/s102/b/3], substituted “section 1011i” for “section 1145g”.
+    [Pub. L. 105–244][/us/pl/105/244], § 102(b)(3), substituted “section 1011i” for “section 1145g”.
 
-    Subsec. (f)(4). [Pub. L. 105–244, § 486(e)(6)][/us/pl/105/244/s486/e/6], added par. (4). Former par. (4) redesignated (5).
+    Subsec. (f)(4). [Pub. L. 105–244][/us/pl/105/244], § 486(e)(6), added par. (4). Former par. (4) redesignated (5).
 
-    [Pub. L. 105–244, § 486(e)(2)(A)][/us/pl/105/244/s486/e/2/A], which directed the substitution of “On an annual basis, each” for “Upon request of the Secretary, each” was executed by making the substitution for “Upon the request of the Secretary, each” to reflect the probable intent of Congress.
+    [Pub. L. 105–244][/us/pl/105/244], § 486(e)(2)(A), which directed the substitution of “On an annual basis, each” for “Upon request of the Secretary, each” was executed by making the substitution for “Upon the request of the Secretary, each” to reflect the probable intent of Congress.
 
-    [Pub. L. 105–244, § 486(e)(2)(B)][/us/pl/105/244/s486/e/2/B], substituted “paragraph (1)(F)” for “paragraphs (1)(F) and (1)(H)”.
+    [Pub. L. 105–244][/us/pl/105/244], § 486(e)(2)(B), substituted “paragraph (1)(F)” for “paragraphs (1)(F) and (1)(H)”.
 
-    Subsec. (f)(4)(A). [Pub. L. 105–244, § 486(e)(2)(C)][/us/pl/105/244/s486/e/2/C]–(E), substituted “and the Workforce” for “and Labor” and “2000” for “1995” and struck out “and” at end.
+    Subsec. (f)(4)(A). [Pub. L. 105–244][/us/pl/105/244], § 486(e)(2)(C)–(E), substituted “and the Workforce” for “and Labor” and “2000” for “1995” and struck out “and” at end.
 
-    Subsec. (f)(4)(B), (C). [Pub. L. 105–244, § 486(e)(2)(F)][/us/pl/105/244/s486/e/2/F], (G), added subpar. (B) and redesignated former subpar. (B) as (C).
+    Subsec. (f)(4)(B), (C). [Pub. L. 105–244][/us/pl/105/244], § 486(e)(2)(F), (G), added subpar. (B) and redesignated former subpar. (B) as (C).
 
-    Subsec. (f)(5). [Pub. L. 105–244, § 486(e)(5)][/us/pl/105/244/s486/e/5], redesignated par. (4) as (5). Former par. (5) redesignated (6).
+    Subsec. (f)(5). [Pub. L. 105–244][/us/pl/105/244], § 486(e)(5), redesignated par. (4) as (5). Former par. (5) redesignated (6).
 
-    Subsec. (f)(5)(A). [Pub. L. 105–244, § 486(e)(3)][/us/pl/105/244/s486/e/3], amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “For purposes of this subsection, the term ‘campus’ includes—
+    Subsec. (f)(5)(A). [Pub. L. 105–244][/us/pl/105/244], § 486(e)(3), amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “For purposes of this subsection, the term ‘campus’ includes—
 
     “(i) any building or property owned or controlled by the institution of higher education within the same reasonably contiguous geographic area and used by the institution in direct support of, or related to its educational purposes; or
 
     “(ii) any building or property owned or controlled by student organizations recognized by the institution.”
 
-    Subsec. (f)(6). [Pub. L. 105–244, § 486(e)(5)][/us/pl/105/244/s486/e/5], redesignated par. (5) as (6). Former par. (6) redesignated (7).
+    Subsec. (f)(6). [Pub. L. 105–244][/us/pl/105/244], § 486(e)(5), redesignated par. (5) as (6). Former par. (6) redesignated (7).
 
-    [Pub. L. 105–244, § 486(e)(4)][/us/pl/105/244/s486/e/4], substituted “paragraph (1)(F)” for “paragraphs (1)(F) and (1)(H)” and inserted at end “Such statistics shall not identify victims of crimes or persons accused of crimes.”
+    [Pub. L. 105–244][/us/pl/105/244], § 486(e)(4), substituted “paragraph (1)(F)” for “paragraphs (1)(F) and (1)(H)” and inserted at end “Such statistics shall not identify victims of crimes or persons accused of crimes.”
 
-    Subsec. (f)(7), (8). [Pub. L. 105–244, § 486(e)(5)][/us/pl/105/244/s486/e/5], redesignated pars. (6) and (7) as (7) and (8), respectively.
+    Subsec. (f)(7), (8). [Pub. L. 105–244][/us/pl/105/244], § 486(e)(5), redesignated pars. (6) and (7) as (7) and (8), respectively.
 
-    Subsec. (f)(9) to (15). [Pub. L. 105–244, § 486(e)(7)][/us/pl/105/244/s486/e/7], added pars. (9) to (15).
+    Subsec. (f)(9) to (15). [Pub. L. 105–244][/us/pl/105/244], § 486(e)(7), added pars. (9) to (15).
 
-    Subsec. (g)(1)(I), (J). [Pub. L. 105–244, § 486(f)(1)][/us/pl/105/244/s486/f/1], added subpars. (I) and (J).
+    Subsec. (g)(1)(I), (J). [Pub. L. 105–244][/us/pl/105/244], § 486(f)(1), added subpars. (I) and (J).
 
-    Subsec. (g)(4), (5). [Pub. L. 105–244, § 486(f)(2)][/us/pl/105/244/s486/f/2]–(4), added par. (4), redesignated former par. (4) as (5), and struck out heading and text of former par. (5). Text read as follows: “The Secretary shall issue final regulations to implement the requirements of this subsection not later than 180 days following October 20, 1994. Each institution described in paragraph (1) shall make available its first report pursuant to this section not later than October 1, 1996.”
+    Subsec. (g)(4), (5). [Pub. L. 105–244][/us/pl/105/244], § 486(f)(2)–(4), added par. (4), redesignated former par. (4) as (5), and struck out heading and text of former par. (5). Text read as follows: “The Secretary shall issue final regulations to implement the requirements of this subsection not later than 180 days following October 20, 1994. Each institution described in paragraph (1) shall make available its first report pursuant to this section not later than October 1, 1996.”
 
-    1997—Subsec. (a)(3)(B). [Pub. L. 105–18, § 60001(a)(1)][/us/pl/105/18/s60001/a/1], substituted “August 31” for “June 30”.
+    1997—Subsec. (a)(3)(B). [Pub. L. 105–18][/us/pl/105/18], § 60001(a)(1), substituted “August 31” for “June 30”.
 
-    Subsec. (e)(9). [Pub. L. 105–18, § 60001(a)(2)][/us/pl/105/18/s60001/a/2], substituted “August 31” for “August 30”.
+    Subsec. (e)(9). [Pub. L. 105–18][/us/pl/105/18], § 60001(a)(2), substituted “August 31” for “August 30”.
 
     1996—Subsec. (e)(9). [Pub. L. 104–208][/us/pl/104/208] substituted “August 30” for “June 30”.
 
     1994—Subsec. (g). [Pub. L. 103–382][/us/pl/103/382] added subsec. (g).
 
-    1993—Subsec. (a)(1)(F)(i) to (iii). [Pub. L. 103–208, § 2(h)(28)][/us/pl/103/208/s2/h/28], inserted before comma at end “for the period of enrollment for which a refund is required”.
+    1993—Subsec. (a)(1)(F)(i) to (iii). [Pub. L. 103–208][/us/pl/103/208], § 2(h)(28), inserted before comma at end “for the period of enrollment for which a refund is required”.
 
-    Subsec. (a)(1)(F)(iv). [Pub. L. 103–208, § 2(h)(29)][/us/pl/103/208/s2/h/29], inserted “under” after “awards”.
+    Subsec. (a)(1)(F)(iv). [Pub. L. 103–208][/us/pl/103/208], § 2(h)(29), inserted “under” after “awards”.
 
-    Subsec. (a)(1)(F)(vi). [Pub. L. 103–208, § 2(h)(32)][/us/pl/103/208/s2/h/32], redesignated cl. (vii) as (vi) and struck out former cl. (vi) which read as follows: “to awards under part C of subchapter I of chapter 34 of title 42,”.
+    Subsec. (a)(1)(F)(vi). [Pub. L. 103–208][/us/pl/103/208], § 2(h)(32), redesignated cl. (vii) as (vi) and struck out former cl. (vi) which read as follows: “to awards under part C of subchapter I of chapter 34 of title 42,”.
 
-    Subsec. (a)(1)(F)(vii). [Pub. L. 103–208, § 2(h)(32)][/us/pl/103/208/s2/h/32], redesignated cl. (viii) as (vii). Former cl. (vii) redesignated (vi).
+    Subsec. (a)(1)(F)(vii). [Pub. L. 103–208][/us/pl/103/208], § 2(h)(32), redesignated cl. (viii) as (vii). Former cl. (vii) redesignated (vi).
 
-    [Pub. L. 103–208, § 2(h)(30)][/us/pl/103/208/s2/h/30], struck out “provided under this subchapter and part C of subchapter I of chapter 34 of title 42” after “student assistance”.
+    [Pub. L. 103–208][/us/pl/103/208], § 2(h)(30), struck out “provided under this subchapter and part C of subchapter I of chapter 34 of title 42” after “student assistance”.
 
-    Subsec. (a)(1)(F)(viii). [Pub. L. 103–208, § 2(h)(32)][/us/pl/103/208/s2/h/32], redesignated cl. (viii) as (vii).
+    Subsec. (a)(1)(F)(viii). [Pub. L. 103–208][/us/pl/103/208], § 2(h)(32), redesignated cl. (viii) as (vii).
 
-    [Pub. L. 103–208, § 2(h)(31)][/us/pl/103/208/s2/h/31], struck out period after “student”.
+    [Pub. L. 103–208][/us/pl/103/208], § 2(h)(31), struck out period after “student”.
 
-    Subsec. (a)(1)(L). [Pub. L. 103–208, § 2(k)(9)][/us/pl/103/208/s2/k/9], amended directory language of [Pub. L. 102–325, § 486(a)(3)][/us/pl/102/325/s486/a/3]. See 1992 Amendment note below.
+    Subsec. (a)(1)(L). [Pub. L. 103–208][/us/pl/103/208], § 2(k)(9), amended directory language of [Pub. L. 102–325][/us/pl/102/325], § 486(a)(3). See 1992 Amendment note below.
 
-    [Pub. L. 103–208, § 2(h)(33)][/us/pl/103/208/s2/h/33], inserted comma after “full-time”.
+    [Pub. L. 103–208][/us/pl/103/208], § 2(h)(33), inserted comma after “full-time”.
 
-    Subsec. (a)(3)(A). [Pub. L. 103–208, § 2(h)(34)][/us/pl/103/208/s2/h/34], amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “shall be available beginning on July 1, 1993, and each year thereafter to current and prospective students prior to enrolling or entering into any financial obligation; and”.
+    Subsec. (a)(3)(A). [Pub. L. 103–208][/us/pl/103/208], § 2(h)(34), amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “shall be available beginning on July 1, 1993, and each year thereafter to current and prospective students prior to enrolling or entering into any financial obligation; and”.
 
-    Subsec. (b)(1)(A), (2)(A). [Pub. L. 103–208, § 2(h)(35)][/us/pl/103/208/s2/h/35], substituted “under part” for “under parts”.
+    Subsec. (b)(1)(A), (2)(A). [Pub. L. 103–208][/us/pl/103/208], § 2(h)(35), substituted “under part” for “under parts”.
 
-    Subsec. (d). [Pub. L. 103–208, § 2(h)(36)][/us/pl/103/208/s2/h/36], inserted period at end of penultimate sentence.
+    Subsec. (d). [Pub. L. 103–208][/us/pl/103/208], § 2(h)(36), inserted period at end of penultimate sentence.
 
-    Subsec. (e)(9). [Pub. L. 103–208, § 2(h)(37)][/us/pl/103/208/s2/h/37], added subpar. (9).
+    Subsec. (e)(9). [Pub. L. 103–208][/us/pl/103/208], § 2(h)(37), added subpar. (9).
 
-    1992—Subsec. (a)(1)(F). [Pub. L. 102–325, § 486(a)(1)][/us/pl/102/325/s486/a/1], inserted “, as determined under [section 1091b of this title][/us/usc/t20/s1091b],” after “of the institution” and “, which refunds shall be credited in the following order:” after “of this paragraph” and added cls. (i) to (viii).
+    1992—Subsec. (a)(1)(F). [Pub. L. 102–325][/us/pl/102/325], § 486(a)(1), inserted “, as determined under [section 1091b of this title][/us/usc/t20/s1091b],” after “of the institution” and “, which refunds shall be credited in the following order:” after “of this paragraph” and added cls. (i) to (viii).
 
-    Subsec. (a)(1)(K). [Pub. L. 102–325, § 486(a)(2)][/us/pl/102/325/s486/a/2], struck out “and” at end.
+    Subsec. (a)(1)(K). [Pub. L. 102–325][/us/pl/102/325], § 486(a)(2), struck out “and” at end.
 
-    Subsec. (a)(1)(L). [Pub. L. 102–325, § 486(a)(4)][/us/pl/102/325/s486/a/4], redesignated subpar. (L), relating to deferral or partial cancellation of student loans, as (M).
+    Subsec. (a)(1)(L). [Pub. L. 102–325][/us/pl/102/325], § 486(a)(4), redesignated subpar. (L), relating to deferral or partial cancellation of student loans, as (M).
 
-    [Pub. L. 102–325, § 486(a)(3)][/us/pl/102/325/s486/a/3], as amended by [Pub. L. 103–208, § 2(k)(9)][/us/pl/103/208/s2/k/9], amended subpar. (L), relating to completion or graduation rate, by substituting semicolon for period at end.
+    [Pub. L. 102–325][/us/pl/102/325], § 486(a)(3), as amended by [Pub. L. 103–208][/us/pl/103/208], § 2(k)(9), amended subpar. (L), relating to completion or graduation rate, by substituting semicolon for period at end.
 
-    Subsec. (a)(1)(M). [Pub. L. 102–325, § 486(a)(4)][/us/pl/102/325/s486/a/4], (5), redesignated subpar. (L), relating to deferral or partial cancellation of student loans, as (M) and substituted “; and” for period at end.
+    Subsec. (a)(1)(M). [Pub. L. 102–325][/us/pl/102/325], § 486(a)(4), (5), redesignated subpar. (L), relating to deferral or partial cancellation of student loans, as (M) and substituted “; and” for period at end.
 
-    Subsec. (a)(1)(N). [Pub. L. 102–325, § 486(a)(6)][/us/pl/102/325/s486/a/6], added subpar. (N).
+    Subsec. (a)(1)(N). [Pub. L. 102–325][/us/pl/102/325], § 486(a)(6), added subpar. (N).
 
-    Subsec. (b). [Pub. L. 102–325, § 486(b)][/us/pl/102/325/s486/b], amended subsec. (b) generally, making changes in substance and structure of former text which related to exit counseling for borrowers and borrower information.
+    Subsec. (b). [Pub. L. 102–325][/us/pl/102/325], § 486(b), amended subsec. (b) generally, making changes in substance and structure of former text which related to exit counseling for borrowers and borrower information.
 
-    Subsec. (f)(1)(F). [Pub. L. 102–325, § 486(c)(1)][/us/pl/102/325/s486/c/1], amended subpar. (F) generally. Prior to amendment, subpar. (F) read as follows: “Statistics concerning the occurrence on campus, during the most recent calendar year, and during the 2 preceding calendar years for which data are available, of the following criminal offenses reported to campus security authorities or local police agencies—
+    Subsec. (f)(1)(F). [Pub. L. 102–325][/us/pl/102/325], § 486(c)(1), amended subpar. (F) generally. Prior to amendment, subpar. (F) read as follows: “Statistics concerning the occurrence on campus, during the most recent calendar year, and during the 2 preceding calendar years for which data are available, of the following criminal offenses reported to campus security authorities or local police agencies—
 
     “(i) murder;
 
@@ -1101,39 +1101,39 @@
 
     “(vi) motor vehicle theft.”
 
-    Subsec. (f)(7). [Pub. L. 102–325, § 486(c)(2)][/us/pl/102/325/s486/c/2], added par. (7).
+    Subsec. (f)(7). [Pub. L. 102–325][/us/pl/102/325], § 486(c)(2), added par. (7).
 
-    1991—Subsec. (a)(1)(L). [Pub. L. 102–26, § 10(a)][/us/pl/102/26/s10/a], which directed the insertion of “undergraduate” after “full-time” in subpar. (L), was executed to the subpar. (L) added by [Pub. L. 101–542, § 103(a)][/us/pl/101/542/s103/a], relating to completion or graduation rate, to reflect the probable intent of Congress.
+    1991—Subsec. (a)(1)(L). [Pub. L. 102–26][/us/pl/102/26], § 10(a), which directed the insertion of “undergraduate” after “full-time” in subpar. (L), was executed to the subpar. (L) added by [Pub. L. 101–542][/us/pl/101/542], § 103(a), relating to completion or graduation rate, to reflect the probable intent of Congress.
 
-    Subsec. (a)(3)(A) to (C). [Pub. L. 102–26, § 10(b)][/us/pl/102/26/s10/b], inserted “and” at end of subpar. (A), substituted a period for “; and” at end of subpar. (B), and struck out subpar. (C) which read as follows: “shall be updated not less than biennially.”
+    Subsec. (a)(3)(A) to (C). [Pub. L. 102–26][/us/pl/102/26], § 10(b), inserted “and” at end of subpar. (A), substituted a period for “; and” at end of subpar. (B), and struck out subpar. (C) which read as follows: “shall be updated not less than biennially.”
 
-    Subsec. (a)(5). [Pub. L. 102–26, § 10(c)][/us/pl/102/26/s10/c], added par. (5).
+    Subsec. (a)(5). [Pub. L. 102–26][/us/pl/102/26], § 10(c), added par. (5).
 
     Subsec. (b). [Pub. L. 102–164][/us/pl/102/164] substituted “Exit counseling for borrowers; borrower information” for “Exit counseling for borrowers” in heading and inserted at end “Each eligible institution shall require that the borrower of a loan made under part B, part C, or part D of this subchapter submit to the institution, during the exit interview required by this subsection, the borrower’s expected permanent address after leaving the institution, regardless of the reason for leaving; the name and address of the borrower’s expected employer after leaving the institution; and the address of the borrower’s next of kin. In the case of a loan made under part B of this subchapter, the institution shall then submit this information to the holder of the loan.”
 
-    Subsec. (f)(1). [Pub. L. 102–26, § 10(d)][/us/pl/102/26/s10/d], substituted “August 1, 1991,” for “September 1, 1991,” in introductory provisions, and in subpar. (F) substituted “calendar year” and “calendar years” for “school year” and “school years”, respectively.
+    Subsec. (f)(1). [Pub. L. 102–26][/us/pl/102/26], § 10(d), substituted “August 1, 1991,” for “September 1, 1991,” in introductory provisions, and in subpar. (F) substituted “calendar year” and “calendar years” for “school year” and “school years”, respectively.
 
-    1990—Subsec. (a)(1)(L). [Pub. L. 101–610, § 201][/us/pl/101/610/s201], added subpar. (L) relating to deferral or partial cancellation of student loans.
+    1990—Subsec. (a)(1)(L). [Pub. L. 101–610][/us/pl/101/610], § 201, added subpar. (L) relating to deferral or partial cancellation of student loans.
 
-    [Pub. L. 101–542, § 103(a)][/us/pl/101/542/s103/a], added subpar. (L) relating to completion or graduation rate.
+    [Pub. L. 101–542][/us/pl/101/542], § 103(a), added subpar. (L) relating to completion or graduation rate.
 
-    Subsec. (a)(3), (4). [Pub. L. 101–542, § 103(b)][/us/pl/101/542/s103/b], added pars. (3) and (4).
+    Subsec. (a)(3), (4). [Pub. L. 101–542][/us/pl/101/542], § 103(b), added pars. (3) and (4).
 
-    Subsec. (b)(3). [Pub. L. 101–610, § 202][/us/pl/101/610/s202], added par. (3).
+    Subsec. (b)(3). [Pub. L. 101–610][/us/pl/101/610], § 202, added par. (3).
 
-    Subsec. (d). [Pub. L. 101–610, § 203][/us/pl/101/610/s203], inserted before last sentence “The Secretary shall provide information concerning the specific terms and conditions under which students may obtain partial or total cancellation or defer repayment of loans for service, shall indicate (in terms of the Federal minimum wage) the maximum level of compensation and allowances that a student borrower may receive from a tax-exempt organization to qualify for a deferment, and shall explicitly state that students may qualify for such partial cancellations or deferments when they serve as a paid employee of a tax-exempt organization”.
+    Subsec. (d). [Pub. L. 101–610][/us/pl/101/610], § 203, inserted before last sentence “The Secretary shall provide information concerning the specific terms and conditions under which students may obtain partial or total cancellation or defer repayment of loans for service, shall indicate (in terms of the Federal minimum wage) the maximum level of compensation and allowances that a student borrower may receive from a tax-exempt organization to qualify for a deferment, and shall explicitly state that students may qualify for such partial cancellations or deferments when they serve as a paid employee of a tax-exempt organization”.
 
-    Subsec. (e). [Pub. L. 101–542, § 104(a)][/us/pl/101/542/s104/a], added subsec. (e).
+    Subsec. (e). [Pub. L. 101–542][/us/pl/101/542], § 104(a), added subsec. (e).
 
-    Subsec. (f). [Pub. L. 101–542, § 204(a)][/us/pl/101/542/s204/a], added subsec. (f).
+    Subsec. (f). [Pub. L. 101–542][/us/pl/101/542], § 204(a), added subsec. (f).
 
-    1987—Subsec. (b). [Pub. L. 100–50, § 15(10)][/us/pl/100/50/s15/10], inserted “(other than loans made pursuant to [section 1078–2 of this title][/us/usc/t20/s1078–2])” after “part B of this subchapter”.
+    1987—Subsec. (b). [Pub. L. 100–50][/us/pl/100/50], § 15(10), inserted “(other than loans made pursuant to [section 1078–2 of this title][/us/usc/t20/s1078–2])” after “part B of this subchapter”.
 
-    Subsec. (d). [Pub. L. 100–50, § 15(11)][/us/pl/100/50/s15/11], inserted after second sentence “In addition, such information shall include information to enable borrowers to assess the practical consequences of loan consolidation, including differences in deferment eligibility, interest rates, monthly payments, and finance charges, and samples of loan consolidation profiles to illustrate such consequences.”
+    Subsec. (d). [Pub. L. 100–50][/us/pl/100/50], § 15(11), inserted after second sentence “In addition, such information shall include information to enable borrowers to assess the practical consequences of loan consolidation, including differences in deferment eligibility, interest rates, monthly payments, and finance charges, and samples of loan consolidation profiles to illustrate such consequences.”
 
  __Effective Date of 2013 Amendment__ 
 
-[Pub. L. 113–4, title III, § 304(b)][/us/pl/113/4/s304/b], Mar. 7, 2013, [127 Stat. 92][/us/stat/127/92], provided that: 
+[Pub. L. 113–4, title III][/us/pl/113/4/tIII], § 304(b), Mar. 7, 2013, [127 Stat. 92][/us/stat/127/92], provided that: 
 
 > “The amendments made by this section \[amending this section\] shall take effect with respect to the annual security report under section 485(f)(1) of the Higher Education Act of 1965 ([20 U.S.C. 1092(f)(1)][/us/usc/t20/s1092/f/1]) prepared by an institution of higher education 1 calendar year after the date of enactment of this Act \[Mar. 7, 2013\], and each subsequent calendar year.”
 
@@ -1143,7 +1143,7 @@
 
  __Effective Date of 2000 Amendment__ 
 
-[Pub. L. 106–386, div. B, title VI, § 1601(c)(2)][/us/pl/106/386/s1601/c/2], Oct. 28, 2000, [114 Stat. 1538][/us/stat/114/1538], provided that: 
+[Pub. L. 106–386, div. B, title VI][/us/pl/106/386/dB/tVI], § 1601(c)(2), Oct. 28, 2000, [114 Stat. 1538][/us/stat/114/1538], provided that: 
 
 > “The amendment made by this subsection \[amending this section\] shall take effect 2 years after the date of the enactment of this Act \[Oct. 28, 2000\].”
 
@@ -1153,7 +1153,7 @@
 
  __Effective Date of 1997 Amendment__ 
 
-[Pub. L. 105–18, title VI, § 60001(b)][/us/pl/105/18/s60001/b], June 12, 1997, [111 Stat. 214][/us/stat/111/214], provided that:
+[Pub. L. 105–18, title VI][/us/pl/105/18/tVI], § 60001(b), June 12, 1997, [111 Stat. 214][/us/stat/111/214], provided that:
 
 >     “(1)  __In General__  __.—__ 
 
@@ -1171,7 +1171,7 @@
 
     Amendment by section 486(a), (b), and (c)(2) of [Pub. L. 102–325][/us/pl/102/325] effective July 23, 1992, except that changes relating to disclosures effective with respect to periods of enrollment beginning on or after July 1, 1993, see [section 498 of Pub. L. 102–325][/us/pl/102/325/s498], set out as a note under [section 1088 of this title][/us/usc/t20/s1088].
 
-[Pub. L. 102–325, title IV, § 486(c)(3)][/us/pl/102/325/s486/c/3], July 23, 1992, [106 Stat. 622][/us/stat/106/622], provided that: 
+[Pub. L. 102–325, title IV][/us/pl/102/325/tIV], § 486(c)(3), July 23, 1992, [106 Stat. 622][/us/stat/106/622], provided that: 
 
 > “The amendment made by this subsection to subparagraph (F)(ii) of section 485(f)(1) of the Act \[[20 U.S.C. 1092(f)(1)(F)(ii)][/us/usc/t20/s1092/f/1/F/ii]\] shall be effective with respect to reports made pursuant to such section on or after September 1, 1993. The statistics required by subparagraph (F) of such section shall—
 
@@ -1185,11 +1185,11 @@
 
  __Effective Date of 1990 Amendment__ 
 
-[Pub. L. 101–542, title I, § 104(b)][/us/pl/101/542/s104/b], Nov. 8, 1990, [104 Stat. 2384][/us/stat/104/2384], as amended by [Pub. L. 102–26, § 10(e)][/us/pl/102/26/s10/e], Apr. 9, 1991, [105 Stat. 128][/us/stat/105/128], provided that: 
+[Pub. L. 101–542, title I][/us/pl/101/542/tI], § 104(b), Nov. 8, 1990, [104 Stat. 2384][/us/stat/104/2384], as amended by [Pub. L. 102–26][/us/pl/102/26], § 10(e), Apr. 9, 1991, [105 Stat. 128][/us/stat/105/128], provided that: 
 
 > “The report to the Secretary of Education required by the amendments made by this section \[amending this section\] shall be due on July 1, 1993, and annually thereafter, and shall cover the one-year period ending on June 30 of the preceding year.”
 
-[Pub. L. 101–542, title II, § 204(c)][/us/pl/101/542/s204/c], Nov. 8, 1990, [104 Stat. 2387][/us/stat/104/2387], provided that: 
+[Pub. L. 101–542, title II][/us/pl/101/542/tII], § 204(c), Nov. 8, 1990, [104 Stat. 2387][/us/stat/104/2387], provided that: 
 
 > “The amendments made by this section \[amending this section\] shall take effect on September 1, 1991, except that the requirement of section 485(f)(1)(F) and (H) of the Higher Education Act of 1965 \[subsec. (f)(1)(F), (H) of this section\] (as added by this section) shall be applied to require statistics with respect to school years preceding the date of enactment of this Act \[Nov. 8, 1990\] only to the extent that data concerning such years is reasonably available.”
 
@@ -1205,13 +1205,13 @@
 
  __Regulations__ 
 
-[Pub. L. 101–542, title IV, § 401(a)][/us/pl/101/542/s401/a], Nov. 8, 1990, [104 Stat. 2388][/us/stat/104/2388], provided that: 
+[Pub. L. 101–542, title IV][/us/pl/101/542/tIV], § 401(a), Nov. 8, 1990, [104 Stat. 2388][/us/stat/104/2388], provided that: 
 
 > “The Secretary is authorized to issue regulations to carry out the provisions of this Act \[amending this section and sections 1085, 1094, and 1232g of this title and enacting provisions set out as notes under this section and [section 1001 of this title][/us/usc/t20/s1001]\].”
 
  __Model Institution Financial Aid Offer Form__ 
 
-[Pub. L. 110–315, title IV, § 484][/us/pl/110/315/s484], Aug. 14, 2008, [122 Stat. 3286][/us/stat/122/3286], provided that:
+[Pub. L. 110–315, title IV][/us/pl/110/315/tIV], § 484, Aug. 14, 2008, [122 Stat. 3286][/us/stat/122/3286], provided that:
 
 >     “(a)  __Model Format__  __.—__ 
 
@@ -1269,7 +1269,7 @@
 
  __Congressional Findings__ 
 
-[Pub. L. 103–382, title III, § 360B(b)][/us/pl/103/382/s360B/b], Oct. 20, 1994, [108 Stat. 3969][/us/stat/108/3969], provided that: 
+[Pub. L. 103–382, title III][/us/pl/103/382/tIII], § 360B(b), Oct. 20, 1994, [108 Stat. 3969][/us/stat/108/3969], provided that: 
 
 > “The Congress finds that—
 
@@ -1289,7 +1289,7 @@
 
 >     “(8) knowledge of an institution’s expenditures for women’s and men’s athletic programs would help prospective students and prospective student athletes make informed judgments about the commitments of a given institution of higher education to providing equitable athletic benefits to its men and women students.”
 
-[Pub. L. 101–542, title I, § 102][/us/pl/101/542/s102], Nov. 8, 1990, [104 Stat. 2381][/us/stat/104/2381], provided that: 
+[Pub. L. 101–542, title I][/us/pl/101/542/tI], § 102, Nov. 8, 1990, [104 Stat. 2381][/us/stat/104/2381], provided that: 
 
 > “The Congress finds that—
 
@@ -1307,7 +1307,7 @@
 
 >     “(7) knowledge of graduation rates would help prospective students and prospective student athletes make an informed judgment about the educational benefits available at a given institution of higher education.”
 
-[Pub. L. 101–542, title II, § 202][/us/pl/101/542/s202], Nov. 8, 1990, [104 Stat. 2384][/us/stat/104/2384], provided that: 
+[Pub. L. 101–542, title II][/us/pl/101/542/tII], § 202, Nov. 8, 1990, [104 Stat. 2384][/us/stat/104/2384], provided that: 
 
 > “The Congress finds that—
 
@@ -1580,199 +1580,199 @@ Sec. 3. Action Plan. (a) Within 90 days of the date of this memorandum, the Task
 [/us/usc/t20/s1078–3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1078%E2%80%933
 [/us/usc/t20/s1078–2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1078%E2%80%932
 [/us/usc/t15/s1650/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1650%2Fd
-[/us/pl/89/329/s485]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2Fs485
-[/us/pl/99/498/s407/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F498%2Fs407%2Fa
+[/us/pl/89/329/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2FtIV
+[/us/pl/99/498/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F498%2FtIV
 [/us/stat/100/1482]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1482
-[/us/pl/100/50/s15/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F50%2Fs15%2F10
+[/us/pl/100/50]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F50
 [/us/stat/101/357]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F357
-[/us/pl/101/542]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F542
+[/us/pl/101/542/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F542%2FtI
 [/us/stat/104/2381-2385]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F2381-2385
-[/us/pl/101/610]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F610
+[/us/pl/101/610/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F610%2FtII
 [/us/stat/104/3171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3171
-[/us/pl/102/26/s10/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F26%2Fs10%2Fa
+[/us/pl/102/26]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F26
 [/us/stat/105/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F128
-[/us/pl/102/164/s603]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F164%2Fs603
+[/us/pl/102/164/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F164%2FtVI
 [/us/stat/105/1066]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1066
-[/us/pl/102/325/s486/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325%2Fs486%2Fa
+[/us/pl/102/325/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325%2FtIV
 [/us/stat/106/620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F620
-[/us/pl/103/208/s2/h/28]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F208%2Fs2%2Fh%2F28
+[/us/pl/103/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F208
 [/us/stat/107/2477]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F2477
-[/us/pl/103/382/s360B/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F382%2Fs360B%2Fc
+[/us/pl/103/382/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F382%2FtIII
 [/us/stat/108/3970]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3970
-[/us/pl/104/208/s101/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs101%2Fe
+[/us/pl/104/208/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2FdA%2FtI
 [/us/stat/110/3009-233]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3009-233
-[/us/pl/105/18/s60001/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F18%2Fs60001%2Fa
+[/us/pl/105/18/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F18%2FtVI
 [/us/stat/111/214]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F214
-[/us/pl/105/244/s102/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2Fs102%2Fb%2F3
+[/us/pl/105/244/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2FtI
 [/us/stat/112/1622]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F1622
-[/us/pl/106/386/s1601/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F386%2Fs1601%2Fc%2F1
+[/us/pl/106/386/dB/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F386%2FdB%2FtVI
 [/us/stat/114/1537]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1537
-[/us/pl/110/315/s103/b/11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2Fs103%2Fb%2F11
+[/us/pl/110/315/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2FtI
 [/us/stat/122/3090]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3090
-[/us/pl/111/39/s407/b/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F39%2Fs407%2Fb%2F5
+[/us/pl/111/39/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F39%2FtIV
 [/us/stat/123/1951]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1951
-[/us/pl/113/4/s304/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4%2Fs304%2Fa
+[/us/pl/113/4/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4%2FtIII
 [/us/stat/127/89]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F89
 [/us/usc/t42/s14071]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs14071
-[/us/pl/109/248/s129/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F248%2Fs129%2Fa
+[/us/pl/109/248/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F248%2FtI
 [/us/stat/120/600]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F600
 [/us/pl/101/275]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F275
 [/us/stat/104/140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F140
 [/us/usc/t28/s534]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs534
 [/us/pl/88/452]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F452
-[/us/pl/97/35/s683/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs683%2Fa
+[/us/pl/97/35/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2FtVI
 [/us/stat/95/519]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F519
 [/us/pl/90/247]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F247
 [/us/stat/81/814]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F814
 [/us/usc/t20/s1221]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1221
-[/us/pl/104/191/s264]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F191%2Fs264
+[/us/pl/104/191/tII/s264]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F191%2FtII%2Fs264
 [/us/stat/110/2033]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2033
 [/us/usc/t42/s1320d–2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1320d%E2%80%932
-[/us/pl/89/329/s485]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2Fs485
-[/us/pl/96/374/s451/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F374%2Fs451%2Fa
+[/us/pl/89/329/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2FtIV
+[/us/pl/96/374/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F374%2FtIV
 [/us/stat/94/1449]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F1449
 [/us/pl/99/498]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F498
-[/us/pl/89/329/s508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2Fs508
+[/us/pl/89/329/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2FtV
 [/us/stat/79/1255]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F1255
 [/us/pl/90/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F35
 [/us/stat/81/82]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F82
-[/us/pl/94/482/s151/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F482%2Fs151%2Fa%2F2
+[/us/pl/94/482/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F482%2FtI
 [/us/stat/90/2151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2151
-[/us/pl/113/4/s304/a/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4%2Fs304%2Fa%2F1%2FA
-[/us/pl/113/4/s304/a/1/B/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4%2Fs304%2Fa%2F1%2FB%2Fi
-[/us/pl/113/4/s304/a/1/B/ii/I]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4%2Fs304%2Fa%2F1%2FB%2Fii%2FI
-[/us/pl/113/4/s304/a/1/B/ii/II]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4%2Fs304%2Fa%2F1%2FB%2Fii%2FII
-[/us/pl/113/4/s304/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4%2Fs304%2Fa%2F2
-[/us/pl/113/4/s304/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4%2Fs304%2Fa%2F3
-[/us/pl/113/4/s304/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4%2Fs304%2Fa%2F4
+[/us/pl/113/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4
+[/us/pl/113/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4
+[/us/pl/113/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4
+[/us/pl/113/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4
+[/us/pl/113/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4
+[/us/pl/113/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4
+[/us/pl/113/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4
 [/us/usc/t42/s13925/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs13925%2Fa
-[/us/pl/113/4/s304/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4%2Fs304%2Fa%2F5
-[/us/pl/113/4/s304/a/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4%2Fs304%2Fa%2F6
-[/us/pl/113/4/s304/a/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4%2Fs304%2Fa%2F7
-[/us/pl/113/4/s304/a/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4%2Fs304%2Fa%2F8
-[/us/pl/111/39/s407/b/5/A/i/I]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F39%2Fs407%2Fb%2F5%2FA%2Fi%2FI
-[/us/pl/111/39/s407/b/5/A/i/II]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F39%2Fs407%2Fb%2F5%2FA%2Fi%2FII
-[/us/pl/111/39/s407/b/5/A/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F39%2Fs407%2Fb%2F5%2FA%2Fii
-[/us/pl/111/39/s407/b/5/A/iii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F39%2Fs407%2Fb%2F5%2FA%2Fiii
-[/us/pl/111/39/s407/b/5/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F39%2Fs407%2Fb%2F5%2FB
-[/us/pl/111/39/s407/b/5/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F39%2Fs407%2Fb%2F5%2FC
-[/us/pl/111/39/s407/b/5/C/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F39%2Fs407%2Fb%2F5%2FC%2Fii
-[/us/pl/111/39/s407/b/5/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F39%2Fs407%2Fb%2F5%2FD
-[/us/pl/111/39/s407/b/5/E/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F39%2Fs407%2Fb%2F5%2FE%2Fi
-[/us/pl/111/39/s407/b/5/E/iii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F39%2Fs407%2Fb%2F5%2FE%2Fiii
-[/us/pl/111/39/s407/b/5/F]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F39%2Fs407%2Fb%2F5%2FF
-[/us/pl/111/39/s407/b/5/G]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F39%2Fs407%2Fb%2F5%2FG
-[/us/pl/110/315/s488/a/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2Fs488%2Fa%2F1%2FA
-[/us/pl/110/315/s488/a/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2Fs488%2Fa%2F1%2FB
+[/us/pl/113/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4
+[/us/pl/113/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4
+[/us/pl/113/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4
+[/us/pl/113/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4
+[/us/pl/111/39]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F39
+[/us/pl/111/39]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F39
+[/us/pl/111/39]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F39
+[/us/pl/111/39]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F39
+[/us/pl/111/39]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F39
+[/us/pl/111/39]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F39
+[/us/pl/111/39]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F39
+[/us/pl/111/39]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F39
+[/us/pl/111/39]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F39
+[/us/pl/111/39]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F39
+[/us/pl/111/39]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F39
+[/us/pl/111/39]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F39
+[/us/pl/110/315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315
+[/us/pl/110/315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315
 [/us/usc/t22/s2501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2501
 [/us/usc/t22/s2501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2501
-[/us/pl/110/315/s488/a/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2Fs488%2Fa%2F1%2FC
-[/us/pl/110/315/s488/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2Fs488%2Fa%2F2
-[/us/pl/110/315/s488/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2Fs488%2Fa%2F3
-[/us/pl/110/315/s488/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2Fs488%2Fb
+[/us/pl/110/315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315
+[/us/pl/110/315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315
+[/us/pl/110/315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315
+[/us/pl/110/315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315
 [/us/usc/t20/s1078–2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1078%E2%80%932
-[/us/pl/110/315/s488/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2Fs488%2Fc%2F1
-[/us/pl/110/315/s488/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2Fs488%2Fc%2F2
-[/us/pl/110/315/s488/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2Fs488%2Fd
-[/us/pl/110/315/s488/e/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2Fs488%2Fe%2F1%2FA
-[/us/pl/110/315/s488/e/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2Fs488%2Fe%2F1%2FB
-[/us/pl/110/315/s488/e/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2Fs488%2Fe%2F1%2FC
-[/us/pl/110/315/s488/e/1/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2Fs488%2Fe%2F1%2FD
-[/us/pl/110/315/s103/b/11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2Fs103%2Fb%2F11
-[/us/pl/110/315/s488/e/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2Fs488%2Fe%2F2
-[/us/pl/110/315/s488/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2Fs488%2Ff
-[/us/pl/110/315/s488/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2Fs488%2Fg
-[/us/pl/110/315/s1011/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2Fs1011%2Fc
+[/us/pl/110/315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315
+[/us/pl/110/315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315
+[/us/pl/110/315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315
+[/us/pl/110/315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315
+[/us/pl/110/315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315
+[/us/pl/110/315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315
+[/us/pl/110/315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315
+[/us/pl/110/315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315
+[/us/pl/110/315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315
+[/us/pl/110/315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315
+[/us/pl/110/315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315
+[/us/pl/110/315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315
 [/us/pl/106/386]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F386
-[/us/pl/105/244/s486/a/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2Fs486%2Fa%2F1%2FB
+[/us/pl/105/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244
 [/us/usc/t20/s1232g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1232g
-[/us/pl/105/244/s486/a/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2Fs486%2Fa%2F1%2FA
-[/us/pl/105/244/s486/a/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2Fs486%2Fa%2F1%2FC
+[/us/pl/105/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244
+[/us/pl/105/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244
 [/us/usc/t20/s1091b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1091b
-[/us/pl/105/244/s486/a/1/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2Fs486%2Fa%2F1%2FD
-[/us/pl/105/244/s486/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2Fs486%2Fa%2F2
-[/us/pl/105/244/s486/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2Fs486%2Fa%2F3
-[/us/pl/105/244/s486/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2Fs486%2Fb%2F1
-[/us/pl/105/244/s486/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2Fs486%2Fb%2F2
-[/us/pl/105/244/s486/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2Fs486%2Fc
-[/us/pl/105/244/s486/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2Fs486%2Fd%2F1
-[/us/pl/105/244/s486/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2Fs486%2Fd%2F2
-[/us/pl/105/244/s486/e/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2Fs486%2Fe%2F1%2FA
-[/us/pl/105/244/s486/e/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2Fs486%2Fe%2F1%2FB
-[/us/pl/105/244/s486/e/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2Fs486%2Fe%2F1%2FC
-[/us/pl/105/244/s102/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2Fs102%2Fb%2F3
-[/us/pl/105/244/s486/e/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2Fs486%2Fe%2F6
-[/us/pl/105/244/s486/e/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2Fs486%2Fe%2F2%2FA
-[/us/pl/105/244/s486/e/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2Fs486%2Fe%2F2%2FB
-[/us/pl/105/244/s486/e/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2Fs486%2Fe%2F2%2FC
-[/us/pl/105/244/s486/e/2/F]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2Fs486%2Fe%2F2%2FF
-[/us/pl/105/244/s486/e/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2Fs486%2Fe%2F5
-[/us/pl/105/244/s486/e/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2Fs486%2Fe%2F3
-[/us/pl/105/244/s486/e/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2Fs486%2Fe%2F5
-[/us/pl/105/244/s486/e/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2Fs486%2Fe%2F4
-[/us/pl/105/244/s486/e/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2Fs486%2Fe%2F5
-[/us/pl/105/244/s486/e/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2Fs486%2Fe%2F7
-[/us/pl/105/244/s486/f/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2Fs486%2Ff%2F1
-[/us/pl/105/244/s486/f/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2Fs486%2Ff%2F2
-[/us/pl/105/18/s60001/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F18%2Fs60001%2Fa%2F1
-[/us/pl/105/18/s60001/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F18%2Fs60001%2Fa%2F2
+[/us/pl/105/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244
+[/us/pl/105/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244
+[/us/pl/105/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244
+[/us/pl/105/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244
+[/us/pl/105/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244
+[/us/pl/105/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244
+[/us/pl/105/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244
+[/us/pl/105/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244
+[/us/pl/105/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244
+[/us/pl/105/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244
+[/us/pl/105/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244
+[/us/pl/105/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244
+[/us/pl/105/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244
+[/us/pl/105/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244
+[/us/pl/105/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244
+[/us/pl/105/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244
+[/us/pl/105/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244
+[/us/pl/105/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244
+[/us/pl/105/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244
+[/us/pl/105/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244
+[/us/pl/105/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244
+[/us/pl/105/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244
+[/us/pl/105/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244
+[/us/pl/105/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244
+[/us/pl/105/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244
+[/us/pl/105/18]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F18
+[/us/pl/105/18]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F18
 [/us/pl/104/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208
 [/us/pl/103/382]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F382
-[/us/pl/103/208/s2/h/28]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F208%2Fs2%2Fh%2F28
-[/us/pl/103/208/s2/h/29]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F208%2Fs2%2Fh%2F29
-[/us/pl/103/208/s2/h/32]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F208%2Fs2%2Fh%2F32
-[/us/pl/103/208/s2/h/32]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F208%2Fs2%2Fh%2F32
-[/us/pl/103/208/s2/h/30]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F208%2Fs2%2Fh%2F30
-[/us/pl/103/208/s2/h/32]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F208%2Fs2%2Fh%2F32
-[/us/pl/103/208/s2/h/31]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F208%2Fs2%2Fh%2F31
-[/us/pl/103/208/s2/k/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F208%2Fs2%2Fk%2F9
-[/us/pl/102/325/s486/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325%2Fs486%2Fa%2F3
-[/us/pl/103/208/s2/h/33]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F208%2Fs2%2Fh%2F33
-[/us/pl/103/208/s2/h/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F208%2Fs2%2Fh%2F34
-[/us/pl/103/208/s2/h/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F208%2Fs2%2Fh%2F35
-[/us/pl/103/208/s2/h/36]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F208%2Fs2%2Fh%2F36
-[/us/pl/103/208/s2/h/37]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F208%2Fs2%2Fh%2F37
-[/us/pl/102/325/s486/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325%2Fs486%2Fa%2F1
+[/us/pl/103/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F208
+[/us/pl/103/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F208
+[/us/pl/103/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F208
+[/us/pl/103/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F208
+[/us/pl/103/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F208
+[/us/pl/103/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F208
+[/us/pl/103/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F208
+[/us/pl/103/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F208
+[/us/pl/102/325]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325
+[/us/pl/103/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F208
+[/us/pl/103/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F208
+[/us/pl/103/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F208
+[/us/pl/103/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F208
+[/us/pl/103/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F208
+[/us/pl/102/325]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325
 [/us/usc/t20/s1091b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1091b
-[/us/pl/102/325/s486/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325%2Fs486%2Fa%2F2
-[/us/pl/102/325/s486/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325%2Fs486%2Fa%2F4
-[/us/pl/102/325/s486/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325%2Fs486%2Fa%2F3
-[/us/pl/103/208/s2/k/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F208%2Fs2%2Fk%2F9
-[/us/pl/102/325/s486/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325%2Fs486%2Fa%2F4
-[/us/pl/102/325/s486/a/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325%2Fs486%2Fa%2F6
-[/us/pl/102/325/s486/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325%2Fs486%2Fb
-[/us/pl/102/325/s486/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325%2Fs486%2Fc%2F1
-[/us/pl/102/325/s486/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325%2Fs486%2Fc%2F2
-[/us/pl/102/26/s10/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F26%2Fs10%2Fa
-[/us/pl/101/542/s103/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F542%2Fs103%2Fa
-[/us/pl/102/26/s10/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F26%2Fs10%2Fb
-[/us/pl/102/26/s10/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F26%2Fs10%2Fc
+[/us/pl/102/325]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325
+[/us/pl/102/325]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325
+[/us/pl/102/325]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325
+[/us/pl/103/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F208
+[/us/pl/102/325]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325
+[/us/pl/102/325]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325
+[/us/pl/102/325]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325
+[/us/pl/102/325]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325
+[/us/pl/102/325]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325
+[/us/pl/102/26]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F26
+[/us/pl/101/542]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F542
+[/us/pl/102/26]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F26
+[/us/pl/102/26]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F26
 [/us/pl/102/164]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F164
-[/us/pl/102/26/s10/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F26%2Fs10%2Fd
-[/us/pl/101/610/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F610%2Fs201
-[/us/pl/101/542/s103/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F542%2Fs103%2Fa
-[/us/pl/101/542/s103/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F542%2Fs103%2Fb
-[/us/pl/101/610/s202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F610%2Fs202
-[/us/pl/101/610/s203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F610%2Fs203
-[/us/pl/101/542/s104/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F542%2Fs104%2Fa
-[/us/pl/101/542/s204/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F542%2Fs204%2Fa
-[/us/pl/100/50/s15/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F50%2Fs15%2F10
+[/us/pl/102/26]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F26
+[/us/pl/101/610]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F610
+[/us/pl/101/542]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F542
+[/us/pl/101/542]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F542
+[/us/pl/101/610]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F610
+[/us/pl/101/610]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F610
+[/us/pl/101/542]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F542
+[/us/pl/101/542]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F542
+[/us/pl/100/50]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F50
 [/us/usc/t20/s1078–2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1078%E2%80%932
-[/us/pl/100/50/s15/11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F50%2Fs15%2F11
-[/us/pl/113/4/s304/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4%2Fs304%2Fb
+[/us/pl/100/50]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F50
+[/us/pl/113/4/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4%2FtIII
 [/us/stat/127/92]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F92
 [/us/usc/t20/s1092/f/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1092%2Ff%2F1
 [/us/pl/111/39]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F39
 [/us/pl/110/315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315
 [/us/pl/111/39/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F39%2Fs3
 [/us/usc/t20/s1001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1001
-[/us/pl/106/386/s1601/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F386%2Fs1601%2Fc%2F2
+[/us/pl/106/386/dB/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F386%2FdB%2FtVI
 [/us/stat/114/1538]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1538
 [/us/pl/105/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244
 [/us/pl/105/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244
 [/us/pl/105/244/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2Fs3
 [/us/usc/t20/s1001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1001
-[/us/pl/105/18/s60001/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F18%2Fs60001%2Fb
+[/us/pl/105/18/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F18%2FtVI
 [/us/stat/111/214]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F214
 [/us/pl/103/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F208
 [/us/pl/102/325]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325
@@ -1781,14 +1781,14 @@ Sec. 3. Action Plan. (a) Within 90 days of the date of this memorandum, the Task
 [/us/pl/102/325]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325
 [/us/pl/102/325/s498]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325%2Fs498
 [/us/usc/t20/s1088]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1088
-[/us/pl/102/325/s486/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325%2Fs486%2Fc%2F3
+[/us/pl/102/325/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325%2FtIV
 [/us/stat/106/622]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F622
 [/us/usc/t20/s1092/f/1/F/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1092%2Ff%2F1%2FF%2Fii
-[/us/pl/101/542/s104/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F542%2Fs104%2Fb
+[/us/pl/101/542/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F542%2FtI
 [/us/stat/104/2384]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F2384
-[/us/pl/102/26/s10/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F26%2Fs10%2Fe
+[/us/pl/102/26]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F26
 [/us/stat/105/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F128
-[/us/pl/101/542/s204/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F542%2Fs204%2Fc
+[/us/pl/101/542/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F542%2FtII
 [/us/stat/104/2387]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F2387
 [/us/pl/100/50]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F50
 [/us/pl/99/498]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F498
@@ -1798,18 +1798,18 @@ Sec. 3. Action Plan. (a) Within 90 days of the date of this memorandum, the Task
 [/us/usc/t20/s1001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1001
 [/us/pl/99/498/s407/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F498%2Fs407%2Fb
 [/us/usc/t20/s1091]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1091
-[/us/pl/101/542/s401/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F542%2Fs401%2Fa
+[/us/pl/101/542/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F542%2FtIV
 [/us/stat/104/2388]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F2388
 [/us/usc/t20/s1001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1001
-[/us/pl/110/315/s484]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2Fs484
+[/us/pl/110/315/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2FtIV
 [/us/stat/122/3286]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3286
 [/us/usc/t20/s1003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1003
 [/us/usc/t20/s1071]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1071
-[/us/pl/103/382/s360B/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F382%2Fs360B%2Fb
+[/us/pl/103/382/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F382%2FtIII
 [/us/stat/108/3969]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3969
-[/us/pl/101/542/s102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F542%2Fs102
+[/us/pl/101/542/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F542%2FtI
 [/us/stat/104/2381]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F2381
-[/us/pl/101/542/s202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F542%2Fs202
+[/us/pl/101/542/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F542%2FtII
 [/us/stat/104/2384]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F2384
 
 

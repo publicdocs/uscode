@@ -129,11 +129,11 @@
 
         (3) an official finding of noncompliance with Federal law or regulations is made with respect to the State.
 
-([Pub. L. 91–230, title VI, § 637][/us/pl/91/230/s637], as added [Pub. L. 108–446, title I, § 101][/us/pl/108/446/s101], Dec. 3, 2004, [118 Stat. 2752][/us/stat/118/2752].)
+([Pub. L. 91–230, title VI][/us/pl/91/230/tVI], § 637, as added [Pub. L. 108–446, title I][/us/pl/108/446/tI], § 101, Dec. 3, 2004, [118 Stat. 2752][/us/stat/118/2752].)
 
  __Prior Provisions__ 
 
-    A prior section 1437, [Pub. L. 91–230, title VI, § 637][/us/pl/91/230/s637], as added [Pub. L. 105–17, title I, § 101][/us/pl/105/17/s101], June 4, 1997, [111 Stat. 112][/us/stat/111/112], related to State application and assurances, prior to the general amendment of subchapters I to IV of this chapter by [Pub. L. 108–446][/us/pl/108/446].
+    A prior section 1437, [Pub. L. 91–230, title VI][/us/pl/91/230/tVI], § 637, as added [Pub. L. 105–17, title I][/us/pl/105/17/tI], § 101, June 4, 1997, [111 Stat. 112][/us/stat/111/112], related to State application and assurances, prior to the general amendment of subchapters I to IV of this chapter by [Pub. L. 108–446][/us/pl/108/446].
 
 ----------
 
@@ -155,11 +155,11 @@
 [/us/usc/t20/s1443]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1443
 [/us/usc/t20/s1443]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1443
 [/us/usc/t20/s1443]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1443
-[/us/pl/91/230/s637]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F230%2Fs637
-[/us/pl/108/446/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F446%2Fs101
+[/us/pl/91/230/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F230%2FtVI
+[/us/pl/108/446/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F446%2FtI
 [/us/stat/118/2752]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F2752
-[/us/pl/91/230/s637]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F230%2Fs637
-[/us/pl/105/17/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F17%2Fs101
+[/us/pl/91/230/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F230%2FtVI
+[/us/pl/105/17/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F17%2FtI
 [/us/stat/111/112]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F112
 [/us/pl/108/446]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F446
 

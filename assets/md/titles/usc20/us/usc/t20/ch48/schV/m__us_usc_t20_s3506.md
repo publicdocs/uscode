@@ -17,7 +17,7 @@
 
     If any provision of this chapter or the application thereof to any person or circumstance is held invalid, neither the remainder of this chapter nor the application of such provision to other persons or circumstances shall be affected thereby.
 
-([Pub. L. 96–88, title V, § 506][/us/pl/96/88/s506], Oct. 17, 1979, [93 Stat. 692][/us/stat/93/692].)
+([Pub. L. 96–88, title V][/us/pl/96/88/tV], § 506, Oct. 17, 1979, [93 Stat. 692][/us/stat/93/692].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/96/88/s506]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F88%2Fs506
+[/us/pl/96/88/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F88%2FtV
 [/us/stat/93/692]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F692
 
 

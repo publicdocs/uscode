@@ -61,7 +61,7 @@
 
         In this subchapter, the term “Civil Rights movement” means the movement to secure racial equality in the United States for African Americans that, focusing on the period 1954 through 1968, challenged the practice of racial segregation in the Nation and achieved equal rights legislation for all American citizens.
 
-([Pub. L. 111–19, § 3][/us/pl/111/19/s3], May 12, 2009, [123 Stat. 1613][/us/stat/123/1613].)
+([Pub. L. 111–19][/us/pl/111/19], § 3, May 12, 2009, [123 Stat. 1613][/us/stat/123/1613].)
 
 ----------
 
@@ -73,7 +73,7 @@
 [/us/usc/t5/s3109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs3109
 [/us/usc/t5/s5703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5703
 [/us/usc/t31/s3324]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs3324
-[/us/pl/111/19/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F19%2Fs3
+[/us/pl/111/19]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F19
 [/us/stat/123/1613]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1613
 
 

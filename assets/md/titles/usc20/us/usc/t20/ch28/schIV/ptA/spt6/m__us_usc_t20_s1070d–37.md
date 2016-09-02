@@ -31,7 +31,7 @@
 
         The selection process shall be completed, and the awards made, prior to the end of each secondary school academic year.
 
-([Pub. L. 89–329, title IV, § 419G][/us/pl/89/329/s419G], as added [Pub. L. 99–498, title IV, § 401(a)][/us/pl/99/498/s401/a], Oct. 17, 1986, [100 Stat. 1345][/us/stat/100/1345]; amended [Pub. L. 102–325, title IV, § 406(d)][/us/pl/102/325/s406/d], July 23, 1992, [106 Stat. 509][/us/stat/106/509]; [Pub. L. 103–208, § 2(b)(30)][/us/pl/103/208/s2/b/30], Dec. 20, 1993, [107 Stat. 2460][/us/stat/107/2460].)
+([Pub. L. 89–329, title IV][/us/pl/89/329/tIV], § 419G, as added [Pub. L. 99–498, title IV][/us/pl/99/498/tIV], § 401(a), Oct. 17, 1986, [100 Stat. 1345][/us/stat/100/1345]; amended [Pub. L. 102–325, title IV][/us/pl/102/325/tIV], § 406(d), July 23, 1992, [106 Stat. 509][/us/stat/106/509]; [Pub. L. 103–208][/us/pl/103/208], § 2(b)(30), Dec. 20, 1993, [107 Stat. 2460][/us/stat/107/2460].)
 
  __References in Text__ 
 
@@ -39,15 +39,15 @@
 
  __Prior Provisions__ 
 
-    A prior section 1070d–37, [Pub. L. 89–329, title IV, § 419G][/us/pl/89/329/s419G], as added [Pub. L. 98–558, title VIII, § 801(a)][/us/pl/98/558/s801/a], Oct. 30, 1984, [98 Stat. 2901][/us/stat/98/2901], related to selection of merit scholars under Robert C. Byrd Honors Scholarship Program, prior to the general revision of this part by [Pub. L. 99–498][/us/pl/99/498].
+    A prior section 1070d–37, [Pub. L. 89–329, title IV][/us/pl/89/329/tIV], § 419G, as added [Pub. L. 98–558, title VIII][/us/pl/98/558/tVIII], § 801(a), Oct. 30, 1984, [98 Stat. 2901][/us/stat/98/2901], related to selection of merit scholars under Robert C. Byrd Honors Scholarship Program, prior to the general revision of this part by [Pub. L. 99–498][/us/pl/99/498].
 
  __Amendments__ 
 
     1993—Subsec. (b). [Pub. L. 103–208][/us/pl/103/208] substituted “the Federated States of Micronesia, the Republic of the Marshall Islands,” for “the District of Columbia, the Commonwealth of Puerto Rico,”.
 
-    1992—Subsec. (b). [Pub. L. 102–325, § 406(d)(1)][/us/pl/102/325/s406/d/1], amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “The State educational agency shall adopt selection procedures which are designed to assure that 10 individuals will be selected from among residents of each congressional district in a State (and in the case of the District of Columbia and the Commonwealth of Puerto Rico not to exceed 10 individuals will be selected in such District or Commonwealth).”
+    1992—Subsec. (b). [Pub. L. 102–325][/us/pl/102/325], § 406(d)(1), amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “The State educational agency shall adopt selection procedures which are designed to assure that 10 individuals will be selected from among residents of each congressional district in a State (and in the case of the District of Columbia and the Commonwealth of Puerto Rico not to exceed 10 individuals will be selected in such District or Commonwealth).”
 
-    Subsec. (d). [Pub. L. 102–325, § 406(d)(2)][/us/pl/102/325/s406/d/2], added subsec. (d).
+    Subsec. (d). [Pub. L. 102–325][/us/pl/102/325], § 406(d)(2), added subsec. (d).
 
  __Effective Date of 1993 Amendment__ 
 
@@ -60,21 +60,21 @@
 ----------
 ----------
 
-[/us/pl/89/329/s419G]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2Fs419G
-[/us/pl/99/498/s401/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F498%2Fs401%2Fa
+[/us/pl/89/329/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2FtIV
+[/us/pl/99/498/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F498%2FtIV
 [/us/stat/100/1345]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1345
-[/us/pl/102/325/s406/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325%2Fs406%2Fd
+[/us/pl/102/325/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325%2FtIV
 [/us/stat/106/509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F509
-[/us/pl/103/208/s2/b/30]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F208%2Fs2%2Fb%2F30
+[/us/pl/103/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F208
 [/us/stat/107/2460]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F2460
 [/us/usc/t48/s1931]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft48%2Fs1931
-[/us/pl/89/329/s419G]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2Fs419G
-[/us/pl/98/558/s801/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F558%2Fs801%2Fa
+[/us/pl/89/329/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2FtIV
+[/us/pl/98/558/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F558%2FtVIII
 [/us/stat/98/2901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2901
 [/us/pl/99/498]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F498
 [/us/pl/103/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F208
-[/us/pl/102/325/s406/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325%2Fs406%2Fd%2F1
-[/us/pl/102/325/s406/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325%2Fs406%2Fd%2F2
+[/us/pl/102/325]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325
+[/us/pl/102/325]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325
 [/us/pl/103/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F208
 [/us/pl/102/325]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325
 [/us/pl/103/208/s5/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F208%2Fs5%2Fa

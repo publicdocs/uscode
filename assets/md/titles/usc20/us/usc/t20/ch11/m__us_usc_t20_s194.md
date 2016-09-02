@@ -17,7 +17,7 @@
 
     The Secretary of Agriculture is authorized to create an advisory council in relation to the plan and development of the national arboretum to be established under this chapter, to include representatives of national organizations interested in the work of the arboretum.
 
-([Mar. 4, 1927, ch. 505, § 4][/us/act/1927-03-04/ch505/s4], [44 Stat. 1422][/us/stat/44/1422].)
+([Mar. 4, 1927, ch. 505][/us/act/1927-03-04/ch505], § 4, [44 Stat. 1422][/us/stat/44/1422].)
 
  __Termination of Advisory Councils__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/act/1927-03-04/ch505/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1927-03-04%2Fch505%2Fs4
+[/us/act/1927-03-04/ch505]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1927-03-04%2Fch505
 [/us/stat/44/1422]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F44%2F1422
 [/us/pl/92/463]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F463
 [/us/stat/86/770]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F770

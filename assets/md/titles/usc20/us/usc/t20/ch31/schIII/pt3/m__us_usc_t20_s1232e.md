@@ -51,25 +51,25 @@
 
         A general application submitted under this section shall remain in effect for the duration of the programs it covers. The State agencies or boards administering the programs covered by the application shall not require the submission or amendment of such application unless required by changes in Federal or State law or by other significant change in the circumstances affecting an assurance in such application.
 
-([Pub. L. 90–247, title IV, § 442][/us/pl/90/247/s442], formerly § 436, as added [Pub. L. 95–561, title XII, § 1231(a)(3)][/us/pl/95/561/s1231/a/3], Nov. 1, 1978, [92 Stat. 2345][/us/stat/92/2345]; amended [Pub. L. 98–511, title VII, § 706(b)][/us/pl/98/511/s706/b], Oct. 19, 1984, [98 Stat. 2407][/us/stat/98/2407]; renumbered § 442 and amended [Pub. L. 103–382, title II][/us/pl/103/382], §§ 212(b)(1), (3)(B), 261(g), Oct. 20, 1994, [108 Stat. 3913][/us/stat/108/3913], 3928.)
+([Pub. L. 90–247, title IV][/us/pl/90/247/tIV], § 442, formerly § 436, as added [Pub. L. 95–561, title XII][/us/pl/95/561/tXII], § 1231(a)(3), Nov. 1, 1978, [92 Stat. 2345][/us/stat/92/2345]; amended [Pub. L. 98–511, title VII][/us/pl/98/511/tVII], § 706(b), Oct. 19, 1984, [98 Stat. 2407][/us/stat/98/2407]; renumbered § 442 and amended [Pub. L. 103–382, title II][/us/pl/103/382/tII], §§ 212(b)(1), (3)(B), 261(g), Oct. 20, 1994, [108 Stat. 3913][/us/stat/108/3913], 3928.)
 
  __Prior Provisions__ 
 
-    A prior section 1232e, [Pub. L. 90–247, title IV, § 436][/us/pl/90/247/s436], formerly § 426, as added [Pub. L. 91–230, title IV, § 401(a)(10)][/us/pl/91/230/s401/a/10], Apr. 13, 1970, [84 Stat. 170][/us/stat/84/170]; renumbered § 436, [Pub. L. 92–318, title III, § 301(a)(1)][/us/pl/92/318/s301/a/1], June 23, 1972, [86 Stat. 326][/us/stat/86/326], related to authority of Commissioner to vest title in equipment, prior to repeal by [section 1231(a)(3) of Pub. L. 95–561][/us/pl/95/561/s1231/a/3].
+    A prior section 1232e, [Pub. L. 90–247, title IV][/us/pl/90/247/tIV], § 436, formerly § 426, as added [Pub. L. 91–230, title IV][/us/pl/91/230/tIV], § 401(a)(10), Apr. 13, 1970, [84 Stat. 170][/us/stat/84/170]; renumbered § 436, [Pub. L. 92–318, title III][/us/pl/92/318/tIII], § 301(a)(1), June 23, 1972, [86 Stat. 326][/us/stat/86/326], related to authority of Commissioner to vest title in equipment, prior to repeal by [section 1231(a)(3) of Pub. L. 95–561][/us/pl/95/561/s1231/a/3].
 
     A prior [section 442 of Pub. L. 90–247][/us/pl/90/247/s442] was classified to [section 1233a of this title][/us/usc/t20/s1233a] prior to repeal by [Pub. L. 103–382][/us/pl/103/382].
 
  __Amendments__ 
 
-    1994—Subsec. (a). [Pub. L. 103–382, § 261(g)(1)][/us/pl/103/382/s261/g/1], substituted “that local educational agency” for “that local education agency”.
+    1994—Subsec. (a). [Pub. L. 103–382][/us/pl/103/382], § 261(g)(1), substituted “that local educational agency” for “that local education agency”.
 
-    Subsec. (b)(2). [Pub. L. 103–382, § 261(g)(2)(A)][/us/pl/103/382/s261/g/2/A], inserted comma after “program”.
+    Subsec. (b)(2). [Pub. L. 103–382][/us/pl/103/382], § 261(g)(2)(A), inserted comma after “program”.
 
-    Subsec. (b)(4). [Pub. L. 103–382, § 261(g)(2)(B)][/us/pl/103/382/s261/g/2/B], substituted “Secretary” for “Commissioner” wherever appearing.
+    Subsec. (b)(4). [Pub. L. 103–382][/us/pl/103/382], § 261(g)(2)(B), substituted “Secretary” for “Commissioner” wherever appearing.
 
-    [Pub. L. 103–382, § 212(b)(3)(B)][/us/pl/103/382/s212/b/3/B], made technical amendment to reference to [section 1232f of this title][/us/usc/t20/s1232f] to reflect renumbering of corresponding section of original act.
+    [Pub. L. 103–382][/us/pl/103/382], § 212(b)(3)(B), made technical amendment to reference to [section 1232f of this title][/us/usc/t20/s1232f] to reflect renumbering of corresponding section of original act.
 
-    Subsec. (b)(7)(B). [Pub. L. 103–382, § 261(g)(2)(C)][/us/pl/103/382/s261/g/2/C], substituted “individuals with disabilities” for “handicapped individuals”.
+    Subsec. (b)(7)(B). [Pub. L. 103–382][/us/pl/103/382], § 261(g)(2)(C), substituted “individuals with disabilities” for “handicapped individuals”.
 
     1984—Subsec. (b)(9). [Pub. L. 98–511][/us/pl/98/511] added par. (9).
 
@@ -90,28 +90,28 @@
 
 [/us/usc/t20/s1232f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1232f
 [/us/usc/t29/s794]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs794
-[/us/pl/90/247/s442]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F247%2Fs442
-[/us/pl/95/561/s1231/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F561%2Fs1231%2Fa%2F3
+[/us/pl/90/247/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F247%2FtIV
+[/us/pl/95/561/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F561%2FtXII
 [/us/stat/92/2345]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2345
-[/us/pl/98/511/s706/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F511%2Fs706%2Fb
+[/us/pl/98/511/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F511%2FtVII
 [/us/stat/98/2407]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2407
-[/us/pl/103/382]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F382
+[/us/pl/103/382/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F382%2FtII
 [/us/stat/108/3913]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3913
-[/us/pl/90/247/s436]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F247%2Fs436
-[/us/pl/91/230/s401/a/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F230%2Fs401%2Fa%2F10
+[/us/pl/90/247/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F247%2FtIV
+[/us/pl/91/230/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F230%2FtIV
 [/us/stat/84/170]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F170
-[/us/pl/92/318/s301/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F318%2Fs301%2Fa%2F1
+[/us/pl/92/318/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F318%2FtIII
 [/us/stat/86/326]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F326
 [/us/pl/95/561/s1231/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F561%2Fs1231%2Fa%2F3
 [/us/pl/90/247/s442]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F247%2Fs442
 [/us/usc/t20/s1233a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1233a
 [/us/pl/103/382]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F382
-[/us/pl/103/382/s261/g/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F382%2Fs261%2Fg%2F1
-[/us/pl/103/382/s261/g/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F382%2Fs261%2Fg%2F2%2FA
-[/us/pl/103/382/s261/g/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F382%2Fs261%2Fg%2F2%2FB
-[/us/pl/103/382/s212/b/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F382%2Fs212%2Fb%2F3%2FB
+[/us/pl/103/382]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F382
+[/us/pl/103/382]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F382
+[/us/pl/103/382]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F382
+[/us/pl/103/382]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F382
 [/us/usc/t20/s1232f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1232f
-[/us/pl/103/382/s261/g/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F382%2Fs261%2Fg%2F2%2FC
+[/us/pl/103/382]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F382
 [/us/pl/98/511]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F511
 [/us/pl/98/511]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F511
 [/us/pl/98/511/s711/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F511%2Fs711%2Fa

@@ -99,7 +99,7 @@
 
             If a person fails to pay an assessment of a civil penalty or comply with an order, after either or both are final under this section, or after a court under paragraph (5) has entered a final judgment in favor of the Secretary, the Attorney General, at the request of the Secretary, shall recover the amount of the civil penalty (plus interest at then currently prevailing rates from the day either or both are final) or enforce the order in an action brought in the appropriate district court of the United States. In such action, the validity and appropriateness of the penalty or order or the amount of the penalty shall not be subject to review.
 
-([Pub. L. 103–227, title X, § 1043][/us/pl/103/227/s1043], Mar. 31, 1994, [108 Stat. 272][/us/stat/108/272].)
+([Pub. L. 103–227, title X][/us/pl/103/227/tX], § 1043, Mar. 31, 1994, [108 Stat. 272][/us/stat/108/272].)
 
 ----------
 
@@ -109,7 +109,7 @@
 ----------
 
 [/us/usc/t5/s554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs554
-[/us/pl/103/227/s1043]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F227%2Fs1043
+[/us/pl/103/227/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F227%2FtX
 [/us/stat/108/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F272
 
 

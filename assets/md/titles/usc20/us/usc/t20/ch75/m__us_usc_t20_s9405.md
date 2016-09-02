@@ -23,7 +23,7 @@
 
         In the case of a collaborative activity funded under this chapter and another provision of law providing for Federal child care or early learning programs, the use of equipment and nonconsumable supplies purchased with funds made available under this chapter or such provision shall not be restricted to children enrolled or otherwise participating in the program carried out under this chapter or such provision, during a period in which the activity is predominately funded under this chapter or such provision.
 
-([Pub. L. 106–554, § 1(a)(1)][/us/pl/106/554/s1/a/1] \[title VIII, § 806\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–82.)
+([Pub. L. 106–554][/us/pl/106/554], § 1(a)(1) \[title VIII, § 806\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–82.)
 
 ----------
 
@@ -32,7 +32,7 @@
 ----------
 ----------
 
-[/us/pl/106/554/s1/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F1
+[/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
 [/us/stat/114/2763]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2763
 
 

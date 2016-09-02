@@ -137,7 +137,7 @@ Part D—General Provisions  </td>
 
   <tr>
 
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs241e" data-uslm-ref="/us/usc/t20/s241e">241e</a> to <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs241" data-uslm-ref="/us/usc/t20/s241">241</a>o.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs241e" data-uslm-ref="/us/usc/t20/s241e">241e</a> to <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs241o" data-uslm-ref="/us/usc/t20/s241o">241o</a>.  </td>
 
     <td> Repealed.  </td>
 

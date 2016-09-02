@@ -39,7 +39,7 @@
 
     (11) the term “Native Hawaiian” means a member or descendant of the aboriginal people who, before 1778, occupied and exercised sovereignty in the area that now comprises the State of Hawaii.
 
-([Pub. L. 101–185, § 16][/us/pl/101/185/s16], Nov. 28, 1989, [103 Stat. 1346][/us/stat/103/1346].)
+([Pub. L. 101–185][/us/pl/101/185], § 16, Nov. 28, 1989, [103 Stat. 1346][/us/stat/103/1346].)
 
 ----------
 
@@ -50,7 +50,7 @@
 
 [/us/usc/t25/s450b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs450b
 [/us/usc/t20/s80q–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs80q%E2%80%931
-[/us/pl/101/185/s16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F185%2Fs16
+[/us/pl/101/185]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F185
 [/us/stat/103/1346]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1346
 
 

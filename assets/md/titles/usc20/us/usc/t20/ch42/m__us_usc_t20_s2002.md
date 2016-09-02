@@ -29,7 +29,7 @@
 
     (6) “Secretary” means the Secretary of the Treasury.
 
-([Pub. L. 93–642, § 3][/us/pl/93/642/s3], Jan. 4, 1975, [88 Stat. 2276][/us/stat/88/2276]; [Pub. L. 105–244, title I, § 102(a)(6)(D)][/us/pl/105/244/s102/a/6/D], Oct. 7, 1998, [112 Stat. 1618][/us/stat/112/1618].)
+([Pub. L. 93–642][/us/pl/93/642], § 3, Jan. 4, 1975, [88 Stat. 2276][/us/stat/88/2276]; [Pub. L. 105–244, title I][/us/pl/105/244/tI], § 102(a)(6)(D), Oct. 7, 1998, [112 Stat. 1618][/us/stat/112/1618].)
 
  __Amendments__ 
 
@@ -51,9 +51,9 @@
 ----------
 
 [/us/usc/t20/s1001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1001
-[/us/pl/93/642/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F642%2Fs3
+[/us/pl/93/642]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F642
 [/us/stat/88/2276]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F2276
-[/us/pl/105/244/s102/a/6/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2Fs102%2Fa%2F6%2FD
+[/us/pl/105/244/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2FtI
 [/us/stat/112/1618]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F1618
 [/us/pl/105/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244
 [/us/pl/105/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244

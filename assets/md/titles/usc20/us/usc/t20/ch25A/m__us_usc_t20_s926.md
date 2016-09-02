@@ -41,7 +41,7 @@
 
         (2) For purposes of paragraph (1), the term “auxiliary services” includes use of academic resources, access to the library of the school, after hours use of school facilities, and participation in music, sports, and other extracurricular and interscholastic activities.
 
-([Pub. L. 95–561, title XIV, § 1407][/us/pl/95/561/s1407], Nov. 1, 1978, [92 Stat. 2367][/us/stat/92/2367]; [Pub. L. 101–510, div. A, title V, § 504(a)][/us/pl/101/510/s504/a], Nov. 5, 1990, [104 Stat. 1559][/us/stat/104/1559]; [Pub. L. 103–160, div. A, title V, § 561(n)][/us/pl/103/160/s561/n], Nov. 30, 1993, [107 Stat. 1668][/us/stat/107/1668]; [Pub. L. 105–261, div. A, title V, § 561(k)][/us/pl/105/261/s561/k], title VI, § 657, Oct. 17, 1998, [112 Stat. 2026][/us/stat/112/2026], 2054; [Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[\[div. A\], title V, § 571(k)\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–135; [Pub. L. 107–107, div. A, title III, § 353][/us/pl/107/107/s353], Dec. 28, 2001, [115 Stat. 1063][/us/stat/115/1063]; [Pub. L. 107–296, title XVII, § 1704(e)(7)][/us/pl/107/296/s1704/e/7], Nov. 25, 2002, [116 Stat. 2315][/us/stat/116/2315]; [Pub. L. 110–181, div. A, title V, § 574][/us/pl/110/181/s574], Jan. 28, 2008, [122 Stat. 120][/us/stat/122/120].)
+([Pub. L. 95–561, title XIV][/us/pl/95/561/tXIV], § 1407, Nov. 1, 1978, [92 Stat. 2367][/us/stat/92/2367]; [Pub. L. 101–510, div. A, title V][/us/pl/101/510/dA/tV], § 504(a), Nov. 5, 1990, [104 Stat. 1559][/us/stat/104/1559]; [Pub. L. 103–160, div. A, title V][/us/pl/103/160/dA/tV], § 561(n), Nov. 30, 1993, [107 Stat. 1668][/us/stat/107/1668]; [Pub. L. 105–261, div. A, title V][/us/pl/105/261/dA/tV], § 561(k), title VI, § 657, Oct. 17, 1998, [112 Stat. 2026][/us/stat/112/2026], 2054; [Pub. L. 106–398][/us/pl/106/398], § 1 \[\[div. A\], title V, § 571(k)\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–135; [Pub. L. 107–107, div. A, title III][/us/pl/107/107/dA/tIII], § 353, Dec. 28, 2001, [115 Stat. 1063][/us/stat/115/1063]; [Pub. L. 107–296, title XVII][/us/pl/107/296/tXVII], § 1704(e)(7), Nov. 25, 2002, [116 Stat. 2315][/us/stat/116/2315]; [Pub. L. 110–181, div. A, title V][/us/pl/110/181/dA/tV], § 574, Jan. 28, 2008, [122 Stat. 120][/us/stat/122/120].)
 
  __Codification__ 
 
@@ -57,9 +57,9 @@
 
     2000—Subsec. (c)(1). [Pub. L. 106–398][/us/pl/106/398] substituted “December 31, 2001” for “September 30, 2001”.
 
-    1998—Subsec. (b). [Pub. L. 105–261, § 657][/us/pl/105/261/s657], inserted heading, designated existing provisions as par. (1), substituted “Under such circumstances as the Secretary of Defense may prescribe in regulations, the Secretary” for “Under such circumstances as he may by regulation prescribe, the Secretary of Defense”, and added par. (2).
+    1998—Subsec. (b). [Pub. L. 105–261][/us/pl/105/261], § 657, inserted heading, designated existing provisions as par. (1), substituted “Under such circumstances as the Secretary of Defense may prescribe in regulations, the Secretary” for “Under such circumstances as he may by regulation prescribe, the Secretary of Defense”, and added par. (2).
 
-    Subsec. (c)(1). [Pub. L. 105–261, § 561(k)][/us/pl/105/261/s561/k], substituted “during the period beginning on October 1, 1990, and ending on September 30, 2001” for “during the nine-year period beginning on October 1, 1990”.
+    Subsec. (c)(1). [Pub. L. 105–261][/us/pl/105/261], § 561(k), substituted “during the period beginning on October 1, 1990, and ending on September 30, 2001” for “during the nine-year period beginning on October 1, 1990”.
 
     1993—Subsec. (c)(1). [Pub. L. 103–160][/us/pl/103/160] substituted “nine-year period” for “five-year period”.
 
@@ -76,21 +76,21 @@
 ----------
 ----------
 
-[/us/pl/95/561/s1407]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F561%2Fs1407
+[/us/pl/95/561/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F561%2FtXIV
 [/us/stat/92/2367]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2367
-[/us/pl/101/510/s504/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2Fs504%2Fa
+[/us/pl/101/510/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2FdA%2FtV
 [/us/stat/104/1559]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1559
-[/us/pl/103/160/s561/n]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160%2Fs561%2Fn
+[/us/pl/103/160/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160%2FdA%2FtV
 [/us/stat/107/1668]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F1668
-[/us/pl/105/261/s561/k]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261%2Fs561%2Fk
+[/us/pl/105/261/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261%2FdA%2FtV
 [/us/stat/112/2026]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2026
-[/us/pl/106/398/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398%2Fs1
+[/us/pl/106/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398
 [/us/stat/114/1654]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1654
-[/us/pl/107/107/s353]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107%2Fs353
+[/us/pl/107/107/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107%2FdA%2FtIII
 [/us/stat/115/1063]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F1063
-[/us/pl/107/296/s1704/e/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs1704%2Fe%2F7
+[/us/pl/107/296/tXVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2FtXVII
 [/us/stat/116/2315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2315
-[/us/pl/110/181/s574]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs574
+[/us/pl/110/181/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2FdA%2FtV
 [/us/stat/122/120]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F120
 [/us/pl/95/561/s1407]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F561%2Fs1407
 [/us/usc/t37/s489]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft37%2Fs489
@@ -98,8 +98,8 @@
 [/us/pl/107/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296
 [/us/pl/107/107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107
 [/us/pl/106/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398
-[/us/pl/105/261/s657]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261%2Fs657
-[/us/pl/105/261/s561/k]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261%2Fs561%2Fk
+[/us/pl/105/261]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261
+[/us/pl/105/261]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261
 [/us/pl/103/160]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160
 [/us/pl/101/510]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510
 [/us/pl/107/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296

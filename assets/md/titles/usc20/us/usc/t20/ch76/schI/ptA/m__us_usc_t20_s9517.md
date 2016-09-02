@@ -55,7 +55,7 @@
 
         Each Commissioner, except the Commissioner for Education Statistics, shall carry out such Commissioner’s duties under this subchapter under the supervision and subject to the approval of the Director.
 
-([Pub. L. 107–279, title I, § 117][/us/pl/107/279/s117], Nov. 5, 2002, [116 Stat. 1952][/us/stat/116/1952]; [Pub. L. 112–166, § 2(d)(2)][/us/pl/112/166/s2/d/2], Aug. 10, 2012, [126 Stat. 1284][/us/stat/126/1284].)
+([Pub. L. 107–279, title I][/us/pl/107/279/tI], § 117, Nov. 5, 2002, [116 Stat. 1952][/us/stat/116/1952]; [Pub. L. 112–166][/us/pl/112/166], § 2(d)(2), Aug. 10, 2012, [126 Stat. 1284][/us/stat/126/1284].)
 
  __References in Text__ 
 
@@ -76,9 +76,9 @@
 ----------
 ----------
 
-[/us/pl/107/279/s117]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F279%2Fs117
+[/us/pl/107/279/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F279%2FtI
 [/us/stat/116/1952]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1952
-[/us/pl/112/166/s2/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F166%2Fs2%2Fd%2F2
+[/us/pl/112/166]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F166
 [/us/stat/126/1284]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1284
 [/us/usc/t5/s5315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5315
 [/us/pl/112/166]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F166

@@ -59,7 +59,7 @@
 
         (3) be supported by one full-time equivalent employee in each Agency regional office.
 
-([Pub. L. 101–619, § 4][/us/pl/101/619/s4], Nov. 16, 1990, [104 Stat. 3327][/us/stat/104/3327].)
+([Pub. L. 101–619][/us/pl/101/619], § 4, Nov. 16, 1990, [104 Stat. 3327][/us/stat/104/3327].)
 
 ----------
 
@@ -73,7 +73,7 @@
 [/us/usc/t20/s5506]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs5506
 [/us/usc/t20/s5507]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs5507
 [/us/usc/t20/s5508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs5508
-[/us/pl/101/619/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F619%2Fs4
+[/us/pl/101/619]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F619
 [/us/stat/104/3327]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3327
 
 

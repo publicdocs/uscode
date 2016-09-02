@@ -17,7 +17,7 @@
 
     Subject to any limitation on appropriations applicable with respect to any function or office transferred to the Secretary or the Department, there are authorized to be appropriated for fiscal year 1980 and each succeeding fiscal year such sums as may be necessary to carry out the provisions of this chapter and to enable the Secretary to administer and manage the Department. Funds appropriated in accordance with this section shall remain available until expended.
 
-([Pub. L. 96–88, title IV, § 427][/us/pl/96/88/s427], formerly § 428, Oct. 17, 1979, [93 Stat. 689][/us/stat/93/689]; renumbered § 427, [Pub. L. 103–382, title II, § 271(a)(2)][/us/pl/103/382/s271/a/2], Oct. 20, 1994, [108 Stat. 3929][/us/stat/108/3929].)
+([Pub. L. 96–88, title IV][/us/pl/96/88/tIV], § 427, formerly § 428, Oct. 17, 1979, [93 Stat. 689][/us/stat/93/689]; renumbered § 427, [Pub. L. 103–382, title II][/us/pl/103/382/tII], § 271(a)(2), Oct. 20, 1994, [108 Stat. 3929][/us/stat/108/3929].)
 
  __Prior Provisions__ 
 
@@ -30,9 +30,9 @@
 ----------
 ----------
 
-[/us/pl/96/88/s427]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F88%2Fs427
+[/us/pl/96/88/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F88%2FtIV
 [/us/stat/93/689]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F689
-[/us/pl/103/382/s271/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F382%2Fs271%2Fa%2F2
+[/us/pl/103/382/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F382%2FtII
 [/us/stat/108/3929]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3929
 [/us/pl/96/88/s427]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F88%2Fs427
 [/us/usc/t20/s3487]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs3487

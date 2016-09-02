@@ -33,7 +33,7 @@
 
         (3) a common application for grants to local educational agencies in applicable programs which are directly administered by the Secretary, and such application shall be used as the single application for as many of these programs as is practicable.
 
-([Pub. L. 90–247, title IV, § 436][/us/pl/90/247/s436], formerly § 430, as added [Pub. L. 95–561, title XII, § 1213][/us/pl/95/561/s1213], Nov. 1, 1978, [92 Stat. 2342][/us/stat/92/2342]; renumbered § 436 and amended [Pub. L. 103–382, title II][/us/pl/103/382], §§ 212(b)(1), 246, Oct. 20, 1994, [108 Stat. 3913][/us/stat/108/3913], 3923.)
+([Pub. L. 90–247, title IV][/us/pl/90/247/tIV], § 436, formerly § 430, as added [Pub. L. 95–561, title XII][/us/pl/95/561/tXII], § 1213, Nov. 1, 1978, [92 Stat. 2342][/us/stat/92/2342]; renumbered § 436 and amended [Pub. L. 103–382, title II][/us/pl/103/382/tII], §§ 212(b)(1), 246, Oct. 20, 1994, [108 Stat. 3913][/us/stat/108/3913], 3923.)
 
  __Prior Provisions__ 
 
@@ -45,9 +45,9 @@
 
  __Amendments__ 
 
-    1994—[Pub. L. 103–382, § 246(2)][/us/pl/103/382/s246/2], substituted “Secretary” for “Commissioner” wherever appearing.
+    1994—[Pub. L. 103–382][/us/pl/103/382], § 246(2), substituted “Secretary” for “Commissioner” wherever appearing.
 
-    Subsec. (a). [Pub. L. 103–382, § 246(1)][/us/pl/103/382/s246/1], substituted “for more than one fiscal year” for “for three fiscal years”.
+    Subsec. (a). [Pub. L. 103–382][/us/pl/103/382], § 246(1), substituted “for more than one fiscal year” for “for three fiscal years”.
 
  __Effective Date__ 
 
@@ -60,10 +60,10 @@
 ----------
 ----------
 
-[/us/pl/90/247/s436]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F247%2Fs436
-[/us/pl/95/561/s1213]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F561%2Fs1213
+[/us/pl/90/247/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F247%2FtIV
+[/us/pl/95/561/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F561%2FtXII
 [/us/stat/92/2342]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2342
-[/us/pl/103/382]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F382
+[/us/pl/103/382/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F382%2FtII
 [/us/stat/108/3913]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3913
 [/us/pl/90/247/s436]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F247%2Fs436
 [/us/usc/t20/s1232e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1232e
@@ -73,8 +73,8 @@
 [/us/pl/90/247/s436]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F247%2Fs436
 [/us/usc/t20/s1233e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1233e
 [/us/pl/103/382]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F382
-[/us/pl/103/382/s246/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F382%2Fs246%2F2
-[/us/pl/103/382/s246/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F382%2Fs246%2F1
+[/us/pl/103/382]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F382
+[/us/pl/103/382]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F382
 [/us/pl/95/561/s1530/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F561%2Fs1530%2Fa
 [/us/usc/t20/s1221e–3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1221e%E2%80%933
 

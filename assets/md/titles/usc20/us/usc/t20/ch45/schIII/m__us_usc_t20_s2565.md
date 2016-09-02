@@ -29,7 +29,7 @@
 
         There are authorized to be appropriated such sums, not to exceed $500,000, as may be necessary to carry out the provisions of this section. Funds appropriated pursuant to this section shall remain available until expended.
 
-([Pub. L. 94–482, title V, § 525][/us/pl/94/482/s525], Oct. 12, 1976, [90 Stat. 2241][/us/stat/90/2241]; [Pub. L. 96–88, title III, § 301(a)(1)][/us/pl/96/88/s301/a/1], title V, § 507, Oct. 17, 1979, [93 Stat. 677][/us/stat/93/677], 692.)
+([Pub. L. 94–482, title V][/us/pl/94/482/tV], § 525, Oct. 12, 1976, [90 Stat. 2241][/us/stat/90/2241]; [Pub. L. 96–88, title III][/us/pl/96/88/tIII], § 301(a)(1), title V, § 507, Oct. 17, 1979, [93 Stat. 677][/us/stat/93/677], 692.)
 
  __Transfer of Functions__ 
 
@@ -42,9 +42,9 @@
 ----------
 ----------
 
-[/us/pl/94/482/s525]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F482%2Fs525
+[/us/pl/94/482/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F482%2FtV
 [/us/stat/90/2241]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2241
-[/us/pl/96/88/s301/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F88%2Fs301%2Fa%2F1
+[/us/pl/96/88/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F88%2FtIII
 [/us/stat/93/677]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F677
 [/us/pl/96/88]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F88
 

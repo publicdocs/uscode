@@ -17,7 +17,7 @@
 
  __Prior Provisions__ 
 
-    A prior subchapter II of this chapter, consisting of sections 4331 and 4332 of this title, was redesignated part B of subchapter I of this chapter by [Pub. L. 102–421, title I, § 101(b)(3)][/us/pl/102/421/s101/b/3], Oct. 16, 1992, [106 Stat. 2151][/us/stat/106/2151].
+    A prior subchapter II of this chapter, consisting of sections 4331 and 4332 of this title, was redesignated part B of subchapter I of this chapter by [Pub. L. 102–421, title I][/us/pl/102/421/tI], § 101(b)(3), Oct. 16, 1992, [106 Stat. 2151][/us/stat/106/2151].
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/102/421/s101/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F421%2Fs101%2Fb%2F3
+[/us/pl/102/421/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F421%2FtI
 [/us/stat/106/2151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2151
 
 

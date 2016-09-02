@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../..//us/usc/t20/ch12/m__us_usc_t20_s221a.md) | [Next](./../../../..//us/usc/t20/ch12/m__us_usc_t20_s226.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs225)
+[Previous](./../../../..//us/usc/t20/ch12/m__us_usc_t20_s222...224.md) | [Next](./../../../..//us/usc/t20/ch12/m__us_usc_t20_s226.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs225)
 
 ## § 225. Fund for education of Iranian students in United States
 
@@ -25,11 +25,11 @@
 
     Words “[section 2668a of title 22][/us/usc/t22/s2668a]” substituted in text for “the Act of February 27, 1896, ([29 Stat. 32][/us/stat/29/32], title 31, U.S.C. sec. 547)” and “the said Act of February 27, 1896” to reflect the transfer of [section 547 of Title 31][/us/usc/t31/s547], Money and Finance, to [section 2668a of Title 22][/us/usc/t22/s2668a], Foreign Relations and Intercourse.
 
-    Words “sections 1321 and 1322(a) of title 31” substituted in text for “the Permanent Appropriation Repeal Act, 1934, as amended, section 20 ([48 Stat. 1233][/us/stat/48/1233], 31 U.S.C., sec. 725(s) \[[31 U.S.C. 725s][/us/usc/t31/s725s]\]” on authority of [Pub. L. 97–258, § 4(b)][/us/pl/97/258/s4/b], Sept. 13, 1982, [96 Stat. 1067][/us/stat/96/1067], the first section of which enacted Title 31.
+    Words “sections 1321 and 1322(a) of title 31” substituted in text for “the Permanent Appropriation Repeal Act, 1934, as amended, section 20 ([48 Stat. 1233][/us/stat/48/1233], 31 U.S.C., sec. 725(s) \[[31 U.S.C. 725s][/us/usc/t31/s725s]\]” on authority of [Pub. L. 97–258][/us/pl/97/258], § 4(b), Sept. 13, 1982, [96 Stat. 1067][/us/stat/96/1067], the first section of which enacted Title 31.
 
 ----------
 
-[Previous](./../../../..//us/usc/t20/ch12/m__us_usc_t20_s221a.md) | [Next](./../../../..//us/usc/t20/ch12/m__us_usc_t20_s226.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs225)
+[Previous](./../../../..//us/usc/t20/ch12/m__us_usc_t20_s222...224.md) | [Next](./../../../..//us/usc/t20/ch12/m__us_usc_t20_s226.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs225)
 
 ----------
 ----------
@@ -44,7 +44,7 @@
 [/us/usc/t22/s2668a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2668a
 [/us/stat/48/1233]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F1233
 [/us/usc/t31/s725s]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs725s
-[/us/pl/97/258/s4/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258%2Fs4%2Fb
+[/us/pl/97/258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258
 [/us/stat/96/1067]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1067
 
 

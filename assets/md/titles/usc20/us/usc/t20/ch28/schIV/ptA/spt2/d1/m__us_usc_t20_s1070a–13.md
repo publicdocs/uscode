@@ -103,41 +103,41 @@
 
         Upon enactment of this subsection and except as otherwise expressly provided by amendment to this section, the Secretary shall not continue, implement, or enforce the absolute priority for the Upward Bound Program published by the Department of Education in the Federal Register on September 22, 2006 (71 Fed. Reg. 55447 et seq.). This subsection shall not be applied retroactively. In implementing this subsection, the Department shall allow the programs and participants chosen in the grant cycle to which the priority applies to continue their grants and participation without a further recompetition. The entities shall not be required to apply the absolute priority conditions or restrictions to future participants.
 
-([Pub. L. 89–329, title IV, § 402C][/us/pl/89/329/s402C], as added [Pub. L. 102–325, title IV, § 402(a)(4)][/us/pl/102/325/s402/a/4], July 23, 1992, [106 Stat. 487][/us/stat/106/487]; amended [Pub. L. 103–208, § 2(b)(10)][/us/pl/103/208/s2/b/10], Dec. 20, 1993, [107 Stat. 2459][/us/stat/107/2459]; [Pub. L. 105–244, title IV, § 402(c)][/us/pl/105/244/s402/c], Oct. 7, 1998, [112 Stat. 1654][/us/stat/112/1654]; [Pub. L. 110–84, title I, § 103][/us/pl/110/84/s103], Sept. 27, 2007, [121 Stat. 786][/us/stat/121/786]; [Pub. L. 110–315, title IV, § 403(c)][/us/pl/110/315/s403/c], Aug. 14, 2008, [122 Stat. 3199][/us/stat/122/3199].)
+([Pub. L. 89–329, title IV][/us/pl/89/329/tIV], § 402C, as added [Pub. L. 102–325, title IV][/us/pl/102/325/tIV], § 402(a)(4), July 23, 1992, [106 Stat. 487][/us/stat/106/487]; amended [Pub. L. 103–208][/us/pl/103/208], § 2(b)(10), Dec. 20, 1993, [107 Stat. 2459][/us/stat/107/2459]; [Pub. L. 105–244, title IV][/us/pl/105/244/tIV], § 402(c), Oct. 7, 1998, [112 Stat. 1654][/us/stat/112/1654]; [Pub. L. 110–84, title I][/us/pl/110/84/tI], § 103, Sept. 27, 2007, [121 Stat. 786][/us/stat/121/786]; [Pub. L. 110–315, title IV][/us/pl/110/315/tIV], § 403(c), Aug. 14, 2008, [122 Stat. 3199][/us/stat/122/3199].)
 
  __Amendments__ 
 
-    2008—Subsec. (b). [Pub. L. 110–315, § 403(c)(1)][/us/pl/110/315/s403/c/1], added subsec. (b) and struck out former subsec. (b) which related to permissible services.
+    2008—Subsec. (b). [Pub. L. 110–315][/us/pl/110/315], § 403(c)(1), added subsec. (b) and struck out former subsec. (b) which related to permissible services.
 
-    Subsec. (c). [Pub. L. 110–315, § 403(c)(2)][/us/pl/110/315/s403/c/2], substituted “Additional required services for multiple-year grant recipients” for “Required services” in heading and “project assisted under this section” for “upward bound project assisted under this division” in text.
+    Subsec. (c). [Pub. L. 110–315][/us/pl/110/315], § 403(c)(2), substituted “Additional required services for multiple-year grant recipients” for “Required services” in heading and “project assisted under this section” for “upward bound project assisted under this division” in text.
 
-    Subsec. (d). [Pub. L. 110–315, § 403(c)(4)][/us/pl/110/315/s403/c/4], added subsec. (d). Former subsec. (d) redesignated (e).
+    Subsec. (d). [Pub. L. 110–315][/us/pl/110/315], § 403(c)(4), added subsec. (d). Former subsec. (d) redesignated (e).
 
-    Subsec. (e). [Pub. L. 110–315, § 403(c)(3)][/us/pl/110/315/s403/c/3], (5)(A), redesignated subsec. (d) as (e) and substituted “projects under this section” for “upward bound projects under this division” in introductory provisions. Former subsec. (e) redesignated (f).
+    Subsec. (e). [Pub. L. 110–315][/us/pl/110/315], § 403(c)(3), (5)(A), redesignated subsec. (d) as (e) and substituted “projects under this section” for “upward bound projects under this division” in introductory provisions. Former subsec. (e) redesignated (f).
 
-    Subsec. (e)(2). [Pub. L. 110–315, § 403(c)(5)(B)][/us/pl/110/315/s403/c/5/B], substituted “low-income individuals, first generation college students, or students who have a high risk for academic failure;” for “either low-income individuals or first generation college students;”.
+    Subsec. (e)(2). [Pub. L. 110–315][/us/pl/110/315], § 403(c)(5)(B), substituted “low-income individuals, first generation college students, or students who have a high risk for academic failure;” for “either low-income individuals or first generation college students;”.
 
-    Subsec. (e)(5). [Pub. L. 110–315, § 403(c)(5)(C)][/us/pl/110/315/s403/c/5/C]–(E), added par. (5).
+    Subsec. (e)(5). [Pub. L. 110–315][/us/pl/110/315], § 403(c)(5)(C)–(E), added par. (5).
 
-    Subsec. (f). [Pub. L. 110–315, § 403(c)(3)][/us/pl/110/315/s403/c/3], (6), redesignated subsec. (e) as (f) and substituted “during the summer school recess, for a period not to exceed three months” for “during June, July, and August” in two places, and “subsection (d)(5)” for “subsection (b)(10)”. Former subsec. (f) redesignated (g).
+    Subsec. (f). [Pub. L. 110–315][/us/pl/110/315], § 403(c)(3), (6), redesignated subsec. (e) as (f) and substituted “during the summer school recess, for a period not to exceed three months” for “during June, July, and August” in two places, and “subsection (d)(5)” for “subsection (b)(10)”. Former subsec. (f) redesignated (g).
 
-    Subsec. (g). [Pub. L. 110–315, § 403(c)(3)][/us/pl/110/315/s403/c/3], redesignated subsec. (f) as (g).
+    Subsec. (g). [Pub. L. 110–315][/us/pl/110/315], § 403(c)(3), redesignated subsec. (f) as (g).
 
-    Subsec. (h). [Pub. L. 110–315, § 403(c)(7)][/us/pl/110/315/s403/c/7], added subsec. (h).
+    Subsec. (h). [Pub. L. 110–315][/us/pl/110/315], § 403(c)(7), added subsec. (h).
 
     2007—Subsec. (f). [Pub. L. 110–84][/us/pl/110/84] added subsec. (f).
 
-    1998—Subsec. (b)(2). [Pub. L. 105–244, § 402(c)(1)(A)][/us/pl/105/244/s402/c/1/A], substituted “counseling and workshops” for “personal counseling”.
+    1998—Subsec. (b)(2). [Pub. L. 105–244][/us/pl/105/244], § 402(c)(1)(A), substituted “counseling and workshops” for “personal counseling”.
 
-    Subsec. (b)(9). [Pub. L. 105–244, § 402(c)(1)(B)][/us/pl/105/244/s402/c/1/B], inserted “or counselors” after “teachers” and struck out “and” after semicolon.
+    Subsec. (b)(9). [Pub. L. 105–244][/us/pl/105/244], § 402(c)(1)(B), inserted “or counselors” after “teachers” and struck out “and” after semicolon.
 
-    Subsec. (b)(10), (11). [Pub. L. 105–244, § 402(c)(1)(D)][/us/pl/105/244/s402/c/1/D], added pars. (10) and (11). Former par. (10) redesignated (12).
+    Subsec. (b)(10), (11). [Pub. L. 105–244][/us/pl/105/244], § 402(c)(1)(D), added pars. (10) and (11). Former par. (10) redesignated (12).
 
-    Subsec. (b)(12). [Pub. L. 105–244, § 402(c)(1)(E)][/us/pl/105/244/s402/c/1/E], substituted “(11)” for “(9)”.
+    Subsec. (b)(12). [Pub. L. 105–244][/us/pl/105/244], § 402(c)(1)(E), substituted “(11)” for “(9)”.
 
-    [Pub. L. 105–244, § 402(c)(1)(C)][/us/pl/105/244/s402/c/1/C], redesignated par. (10) as (12).
+    [Pub. L. 105–244][/us/pl/105/244], § 402(c)(1)(C), redesignated par. (10) as (12).
 
-    Subsec. (e). [Pub. L. 105–244, § 402(c)(2)][/us/pl/105/244/s402/c/2], substituted “except that youth participating in a work-study position under subsection (b)(10) of this section may be paid a stipend of $300 per month during June, July, and August. Youths participating in a project proposed to be carried out under any application may be paid stipends not in excess of $40 per month during the remaining period of the year.” for “and not in excess of $40 per month during the remaining period of the year.”
+    Subsec. (e). [Pub. L. 105–244][/us/pl/105/244], § 402(c)(2), substituted “except that youth participating in a work-study position under subsection (b)(10) of this section may be paid a stipend of $300 per month during June, July, and August. Youths participating in a project proposed to be carried out under any application may be paid stipends not in excess of $40 per month during the remaining period of the year.” for “and not in excess of $40 per month during the remaining period of the year.”
 
     1993—Subsec. (c). [Pub. L. 103–208][/us/pl/103/208] substituted “foreign” for “and foreign”.
 
@@ -162,33 +162,33 @@
 
 [/us/usc/t20/s1090/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1090%2Fa
 [/us/usc/t42/s11434a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs11434a
-[/us/pl/89/329/s402C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2Fs402C
-[/us/pl/102/325/s402/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325%2Fs402%2Fa%2F4
+[/us/pl/89/329/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2FtIV
+[/us/pl/102/325/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325%2FtIV
 [/us/stat/106/487]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F487
-[/us/pl/103/208/s2/b/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F208%2Fs2%2Fb%2F10
+[/us/pl/103/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F208
 [/us/stat/107/2459]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F2459
-[/us/pl/105/244/s402/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2Fs402%2Fc
+[/us/pl/105/244/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2FtIV
 [/us/stat/112/1654]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F1654
-[/us/pl/110/84/s103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F84%2Fs103
+[/us/pl/110/84/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F84%2FtI
 [/us/stat/121/786]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F786
-[/us/pl/110/315/s403/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2Fs403%2Fc
+[/us/pl/110/315/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2FtIV
 [/us/stat/122/3199]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3199
-[/us/pl/110/315/s403/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2Fs403%2Fc%2F1
-[/us/pl/110/315/s403/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2Fs403%2Fc%2F2
-[/us/pl/110/315/s403/c/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2Fs403%2Fc%2F4
-[/us/pl/110/315/s403/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2Fs403%2Fc%2F3
-[/us/pl/110/315/s403/c/5/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2Fs403%2Fc%2F5%2FB
-[/us/pl/110/315/s403/c/5/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2Fs403%2Fc%2F5%2FC
-[/us/pl/110/315/s403/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2Fs403%2Fc%2F3
-[/us/pl/110/315/s403/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2Fs403%2Fc%2F3
-[/us/pl/110/315/s403/c/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2Fs403%2Fc%2F7
+[/us/pl/110/315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315
+[/us/pl/110/315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315
+[/us/pl/110/315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315
+[/us/pl/110/315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315
+[/us/pl/110/315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315
+[/us/pl/110/315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315
+[/us/pl/110/315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315
+[/us/pl/110/315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315
+[/us/pl/110/315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315
 [/us/pl/110/84]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F84
-[/us/pl/105/244/s402/c/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2Fs402%2Fc%2F1%2FA
-[/us/pl/105/244/s402/c/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2Fs402%2Fc%2F1%2FB
-[/us/pl/105/244/s402/c/1/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2Fs402%2Fc%2F1%2FD
-[/us/pl/105/244/s402/c/1/E]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2Fs402%2Fc%2F1%2FE
-[/us/pl/105/244/s402/c/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2Fs402%2Fc%2F1%2FC
-[/us/pl/105/244/s402/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2Fs402%2Fc%2F2
+[/us/pl/105/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244
+[/us/pl/105/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244
+[/us/pl/105/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244
+[/us/pl/105/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244
+[/us/pl/105/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244
+[/us/pl/105/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244
 [/us/pl/103/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F208
 [/us/pl/110/84]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F84
 [/us/pl/110/84/s1/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F84%2Fs1%2Fc

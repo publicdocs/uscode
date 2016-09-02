@@ -35,7 +35,7 @@
 
     (9) complement the direction established by the President in Executive Order No. 12988 (61 Fed. Reg. 4729; relating to civil justice reform).
 
-([Pub. L. 102–259, § 6][/us/pl/102/259/s6], Mar. 19, 1992, [106 Stat. 80][/us/stat/106/80]; [Pub. L. 105–156, § 4][/us/pl/105/156/s4], Feb. 11, 1998, [112 Stat. 9][/us/stat/112/9]; [Pub. L. 106–568, title VIII, § 817(a)][/us/pl/106/568/s817/a], Dec. 27, 2000, [114 Stat. 2918][/us/stat/114/2918].)
+([Pub. L. 102–259][/us/pl/102/259], § 6, Mar. 19, 1992, [106 Stat. 80][/us/stat/106/80]; [Pub. L. 105–156][/us/pl/105/156], § 4, Feb. 11, 1998, [112 Stat. 9][/us/stat/112/9]; [Pub. L. 106–568, title VIII][/us/pl/106/568/tVIII], § 817(a), Dec. 27, 2000, [114 Stat. 2918][/us/stat/114/2918].)
 
  __References in Text__ 
 
@@ -45,9 +45,9 @@
 
     2000—Par. (7). [Pub. L. 106–568][/us/pl/106/568] inserted before semicolon at end “, by conducting management and leadership training of Native Americans, Alaska Natives, and others involved in tribal leadership, providing assistance and resources for policy analysis, and carrying out other appropriate activities.”
 
-    1998—Par. (4). [Pub. L. 105–156, § 4(1)][/us/pl/105/156/s4/1], substituted “Environmental Conflict Resolution and Training” for “an Environmental Conflict Resolution”.
+    1998—Par. (4). [Pub. L. 105–156][/us/pl/105/156], § 4(1), substituted “Environmental Conflict Resolution and Training” for “an Environmental Conflict Resolution”.
 
-    Pars. (8), (9). [Pub. L. 105–156, § 4(2)][/us/pl/105/156/s4/2]–(4), added pars. (8) and (9).
+    Pars. (8), (9). [Pub. L. 105–156][/us/pl/105/156], § 4(2)–(4), added pars. (8) and (9).
 
 ----------
 
@@ -57,15 +57,15 @@
 ----------
 
 [/us/usc/t42/s4331]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4331
-[/us/pl/102/259/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F259%2Fs6
+[/us/pl/102/259]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F259
 [/us/stat/106/80]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F80
-[/us/pl/105/156/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F156%2Fs4
+[/us/pl/105/156]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F156
 [/us/stat/112/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F9
-[/us/pl/106/568/s817/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F568%2Fs817%2Fa
+[/us/pl/106/568/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F568%2FtVIII
 [/us/stat/114/2918]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2918
 [/us/usc/t28/s519]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs519
 [/us/pl/106/568]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F568
-[/us/pl/105/156/s4/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F156%2Fs4%2F1
-[/us/pl/105/156/s4/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F156%2Fs4%2F2
+[/us/pl/105/156]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F156
+[/us/pl/105/156]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F156
 
 

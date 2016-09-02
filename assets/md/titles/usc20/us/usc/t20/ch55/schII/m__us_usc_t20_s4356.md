@@ -33,7 +33,7 @@
 
         Nothing in this section may be construed to affect the authority of the Secretary under this chapter or any other Act with respect to Gallaudet University or the National Technical Institute for the Deaf.
 
-([Pub. L. 99–371, title II, § 206][/us/pl/99/371/s206], formerly title IV, § 406, Aug. 4, 1986, [100 Stat. 790][/us/stat/100/790]; [Pub. L. 101–476, title IX, § 901(a)(2)][/us/pl/101/476/s901/a/2], Oct. 30, 1990, [104 Stat. 1142][/us/stat/104/1142]; renumbered title II, § 206, and amended [Pub. L. 102–421, title I][/us/pl/102/421], §§ 101(b)(5), (6), 136, 151(a)(4), (5), Oct. 16, 1992, [106 Stat. 2151][/us/stat/106/2151], 2159, 2164; [Pub. L. 103–73, title II, § 204(e)][/us/pl/103/73/s204/e], Aug. 11, 1993, [107 Stat. 735][/us/stat/107/735]; [Pub. L. 110–315, title IX, § 908][/us/pl/110/315/s908], Aug. 14, 2008, [122 Stat. 3453][/us/stat/122/3453].)
+([Pub. L. 99–371, title II][/us/pl/99/371/tII], § 206, formerly title IV, § 406, Aug. 4, 1986, [100 Stat. 790][/us/stat/100/790]; [Pub. L. 101–476, title IX][/us/pl/101/476/tIX], § 901(a)(2), Oct. 30, 1990, [104 Stat. 1142][/us/stat/104/1142]; renumbered title II, § 206, and amended [Pub. L. 102–421, title I][/us/pl/102/421/tI], §§ 101(b)(5), (6), 136, 151(a)(4), (5), Oct. 16, 1992, [106 Stat. 2151][/us/stat/106/2151], 2159, 2164; [Pub. L. 103–73, title II][/us/pl/103/73/tII], § 204(e), Aug. 11, 1993, [107 Stat. 735][/us/stat/107/735]; [Pub. L. 110–315, title IX][/us/pl/110/315/tIX], § 908, Aug. 14, 2008, [122 Stat. 3453][/us/stat/122/3453].)
 
  __References in Text__ 
 
@@ -47,15 +47,15 @@
 
     1993—Subsec. (b). [Pub. L. 103–73][/us/pl/103/73], which directed amendment of subsec. (b) by inserting “or hard of hearing” after “individuals who are deaf”, was executed by making the insertion in introductory provisions but not in par. (2) to reflect the probable intent of Congress.
 
-    1992—[Pub. L. 102–421, § 151(a)(5)][/us/pl/102/421/s151/a/5], struck out “for the deaf” after “educational programs” in section catchline.
+    1992—[Pub. L. 102–421][/us/pl/102/421], § 151(a)(5), struck out “for the deaf” after “educational programs” in section catchline.
 
-    Subsec. (a). [Pub. L. 102–421, § 151(a)(4)][/us/pl/102/421/s151/a/4], substituted “individuals who are deaf” for “the deaf” in two places.
+    Subsec. (a). [Pub. L. 102–421][/us/pl/102/421], § 151(a)(4), substituted “individuals who are deaf” for “the deaf” in two places.
 
-    [Pub. L. 102–421, § 136(1)][/us/pl/102/421/s136/1], substituted “, the Rehabilitation Act of 1973, and other Federal or non-Federal agencies, institutions, or organizations involved with the education or rehabilitation of individuals who are deaf or hard of hearing.” for “and the Rehabilitation Act of 1973.”
+    [Pub. L. 102–421][/us/pl/102/421], § 136(1), substituted “, the Rehabilitation Act of 1973, and other Federal or non-Federal agencies, institutions, or organizations involved with the education or rehabilitation of individuals who are deaf or hard of hearing.” for “and the Rehabilitation Act of 1973.”
 
-    Subsec. (b). [Pub. L. 102–421, § 151(a)(4)][/us/pl/102/421/s151/a/4], substituted “individuals who are deaf” for “the deaf” in introductory provisions.
+    Subsec. (b). [Pub. L. 102–421][/us/pl/102/421], § 151(a)(4), substituted “individuals who are deaf” for “the deaf” in introductory provisions.
 
-    Subsec. (b)(1) to (3). [Pub. L. 102–421, § 136(2)][/us/pl/102/421/s136/2], struck out “and” at end of par. (1), added par. (2), and redesignated former par. (2) as (3).
+    Subsec. (b)(1) to (3). [Pub. L. 102–421][/us/pl/102/421], § 136(2), struck out “and” at end of par. (1), added par. (2), and redesignated former par. (2) as (3).
 
     1990—Subsec. (a). [Pub. L. 101–476][/us/pl/101/476] substituted “Individuals with Disabilities Education Act” for “Education of the Handicapped Act”.
 
@@ -76,15 +76,15 @@
 
 [/us/usc/t20/s1400]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1400
 [/us/usc/t29/s701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs701
-[/us/pl/99/371/s206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F371%2Fs206
+[/us/pl/99/371/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F371%2FtII
 [/us/stat/100/790]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F790
-[/us/pl/101/476/s901/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F476%2Fs901%2Fa%2F2
+[/us/pl/101/476/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F476%2FtIX
 [/us/stat/104/1142]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1142
-[/us/pl/102/421]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F421
+[/us/pl/102/421/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F421%2FtI
 [/us/stat/106/2151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2151
-[/us/pl/103/73/s204/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F73%2Fs204%2Fe
+[/us/pl/103/73/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F73%2FtII
 [/us/stat/107/735]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F735
-[/us/pl/110/315/s908]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2Fs908
+[/us/pl/110/315/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2FtIX
 [/us/stat/122/3453]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3453
 [/us/pl/91/230]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F230
 [/us/stat/84/175]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F175
@@ -94,11 +94,11 @@
 [/us/usc/t29/s701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs701
 [/us/pl/110/315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315
 [/us/pl/103/73]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F73
-[/us/pl/102/421/s151/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F421%2Fs151%2Fa%2F5
-[/us/pl/102/421/s151/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F421%2Fs151%2Fa%2F4
-[/us/pl/102/421/s136/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F421%2Fs136%2F1
-[/us/pl/102/421/s151/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F421%2Fs151%2Fa%2F4
-[/us/pl/102/421/s136/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F421%2Fs136%2F2
+[/us/pl/102/421]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F421
+[/us/pl/102/421]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F421
+[/us/pl/102/421]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F421
+[/us/pl/102/421]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F421
+[/us/pl/102/421]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F421
 [/us/pl/101/476]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F476
 [/us/pl/102/421]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F421
 [/us/pl/102/421/s161]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F421%2Fs161

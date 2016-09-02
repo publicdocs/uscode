@@ -17,7 +17,7 @@
 
     Notwithstanding [section 1232(d) of this title][/us/usc/t20/s1232/d], the exemption for public property, loans, grants, and benefits in [section 553(a)(2) of title 5][/us/usc/t5/s553/a/2] shall apply to the Institute.
 
-([Pub. L. 107–279, title I, § 191][/us/pl/107/279/s191], Nov. 5, 2002, [116 Stat. 1974][/us/stat/116/1974].)
+([Pub. L. 107–279, title I][/us/pl/107/279/tI], § 191, Nov. 5, 2002, [116 Stat. 1974][/us/stat/116/1974].)
 
 ----------
 
@@ -28,7 +28,7 @@
 
 [/us/usc/t20/s1232/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1232%2Fd
 [/us/usc/t5/s553/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs553%2Fa%2F2
-[/us/pl/107/279/s191]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F279%2Fs191
+[/us/pl/107/279/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F279%2FtI
 [/us/stat/116/1974]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1974
 
 

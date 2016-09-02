@@ -63,17 +63,17 @@
 
             The term “protected speech” means speech that is protected under the first and 14th amendments to the Constitution, or would be protected if the institution of higher education involved were subject to those amendments.
 
-([Pub. L. 89–329, title I, § 112][/us/pl/89/329/s112], as added [Pub. L. 105–244, title I, § 101(a)][/us/pl/105/244/s101/a], Oct. 7, 1998, [112 Stat. 1591][/us/stat/112/1591]; amended [Pub. L. 110–315, title I, § 104][/us/pl/110/315/s104], Aug. 14, 2008, [122 Stat. 3090][/us/stat/122/3090].)
+([Pub. L. 89–329, title I][/us/pl/89/329/tI], § 112, as added [Pub. L. 105–244, title I][/us/pl/105/244/tI], § 101(a), Oct. 7, 1998, [112 Stat. 1591][/us/stat/112/1591]; amended [Pub. L. 110–315, title I][/us/pl/110/315/tI], § 104, Aug. 14, 2008, [122 Stat. 3090][/us/stat/122/3090].)
 
  __Prior Provisions__ 
 
-    A prior section 1011a, [Pub. L. 89–329, title I, § 122][/us/pl/89/329/s122], as added [Pub. L. 102–325, title I, § 101][/us/pl/102/325/s101], July 23, 1992, [106 Stat. 462][/us/stat/106/462], authorized grants to States, prior to the general amendment of this subchapter by [Pub. L. 105–244][/us/pl/105/244].
+    A prior section 1011a, [Pub. L. 89–329, title I][/us/pl/89/329/tI], § 122, as added [Pub. L. 102–325, title I][/us/pl/102/325/tI], § 101, July 23, 1992, [106 Stat. 462][/us/stat/106/462], authorized grants to States, prior to the general amendment of this subchapter by [Pub. L. 105–244][/us/pl/105/244].
 
  __Amendments__ 
 
-    2008—Subsec. (a). [Pub. L. 110–315, § 104(1)][/us/pl/110/315/s104/1], designated existing provisions as par. (1) and added par. (2).
+    2008—Subsec. (a). [Pub. L. 110–315][/us/pl/110/315], § 104(1), designated existing provisions as par. (1) and added par. (2).
 
-    Subsec. (b)(1). [Pub. L. 110–315, § 104(2)][/us/pl/110/315/s104/2], inserted “, provided that the imposition of such sanction is done objectively and fairly” after “higher education”.
+    Subsec. (b)(1). [Pub. L. 110–315][/us/pl/110/315], § 104(2), inserted “, provided that the imposition of such sanction is done objectively and fairly” after “higher education”.
 
 ----------
 
@@ -82,16 +82,16 @@
 ----------
 ----------
 
-[/us/pl/89/329/s112]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2Fs112
-[/us/pl/105/244/s101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2Fs101%2Fa
+[/us/pl/89/329/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2FtI
+[/us/pl/105/244/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2FtI
 [/us/stat/112/1591]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F1591
-[/us/pl/110/315/s104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2Fs104
+[/us/pl/110/315/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2FtI
 [/us/stat/122/3090]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3090
-[/us/pl/89/329/s122]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2Fs122
-[/us/pl/102/325/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325%2Fs101
+[/us/pl/89/329/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2FtI
+[/us/pl/102/325/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325%2FtI
 [/us/stat/106/462]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F462
 [/us/pl/105/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244
-[/us/pl/110/315/s104/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2Fs104%2F1
-[/us/pl/110/315/s104/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2Fs104%2F2
+[/us/pl/110/315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315
+[/us/pl/110/315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315
 
 

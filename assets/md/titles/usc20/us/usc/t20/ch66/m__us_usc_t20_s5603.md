@@ -81,19 +81,19 @@
 
             The Executive Director of the Foundation shall be compensated at a rate determined by the Board in accordance with [section 5383 of title 5][/us/usc/t5/s5383].
 
-([Pub. L. 102–259, § 5][/us/pl/102/259/s5], Mar. 19, 1992, [106 Stat. 79][/us/stat/106/79]; [Pub. L. 104–208, div. A, title I, § 101(f)][/us/pl/104/208/s101/f] \[title VI, § 655\], Sept. 30, 1996, [110 Stat. 3009–314][/us/stat/110/3009-314], 3009–369; [Pub. L. 105–156, § 3][/us/pl/105/156/s3], Feb. 11, 1998, [112 Stat. 8][/us/stat/112/8]; [Pub. L. 111–90, § 5][/us/pl/111/90/s5], Nov. 3, 2009, [123 Stat. 2977][/us/stat/123/2977].)
+([Pub. L. 102–259][/us/pl/102/259], § 5, Mar. 19, 1992, [106 Stat. 79][/us/stat/106/79]; [Pub. L. 104–208, div. A, title I][/us/pl/104/208/dA/tI], § 101(f) \[title VI, § 655\], Sept. 30, 1996, [110 Stat. 3009–314][/us/stat/110/3009-314], 3009–369; [Pub. L. 105–156][/us/pl/105/156], § 3, Feb. 11, 1998, [112 Stat. 8][/us/stat/112/8]; [Pub. L. 111–90][/us/pl/111/90], § 5, Nov. 3, 2009, [123 Stat. 2977][/us/stat/123/2977].)
 
  __Amendments__ 
 
-    2009—[Pub. L. 111–90, § 5(1)][/us/pl/111/90/s5/1], substituted “and Stewart L. Udall” for “Scholarship and Excellence in National Environmental Policy” in section catchline.
+    2009—[Pub. L. 111–90][/us/pl/111/90], § 5(1), substituted “and Stewart L. Udall” for “Scholarship and Excellence in National Environmental Policy” in section catchline.
 
-    Subsec. (a). [Pub. L. 111–90, § 5(2)][/us/pl/111/90/s5/2], substituted “and Stewart L. Udall” for “Scholarship and Excellence in National Environmental Policy”.
+    Subsec. (a). [Pub. L. 111–90][/us/pl/111/90], § 5(2), substituted “and Stewart L. Udall” for “Scholarship and Excellence in National Environmental Policy”.
 
-    Subsec. (f)(2). [Pub. L. 111–90, § 5(3)][/us/pl/111/90/s5/3], substituted “a rate determined by the Board in accordance with [section 5383 of title 5][/us/usc/t5/s5383]” for “the rate specified for employees in level IV of the Executive Schedule under [section 5315 of title 5][/us/usc/t5/s5315]”.
+    Subsec. (f)(2). [Pub. L. 111–90][/us/pl/111/90], § 5(3), substituted “a rate determined by the Board in accordance with [section 5383 of title 5][/us/usc/t5/s5383]” for “the rate specified for employees in level IV of the Executive Schedule under [section 5315 of title 5][/us/usc/t5/s5315]”.
 
-    1998—Subsec. (b). [Pub. L. 105–156, § 3(1)][/us/pl/105/156/s3/1], substituted “thirteen” for “twelve” in introductory provisions.
+    1998—Subsec. (b). [Pub. L. 105–156][/us/pl/105/156], § 3(1), substituted “thirteen” for “twelve” in introductory provisions.
 
-    Subsec. (b)(7). [Pub. L. 105–156, § 3(2)][/us/pl/105/156/s3/2], added par. (7).
+    Subsec. (b)(7). [Pub. L. 105–156][/us/pl/105/156], § 3(2), added par. (7).
 
     1996—Subsec. (c)(1)(C). [Pub. L. 104–208][/us/pl/104/208] added subpar. (C).
 
@@ -105,21 +105,21 @@
 ----------
 
 [/us/usc/t5/s5383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5383
-[/us/pl/102/259/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F259%2Fs5
+[/us/pl/102/259]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F259
 [/us/stat/106/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F79
-[/us/pl/104/208/s101/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs101%2Ff
+[/us/pl/104/208/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2FdA%2FtI
 [/us/stat/110/3009-314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3009-314
-[/us/pl/105/156/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F156%2Fs3
+[/us/pl/105/156]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F156
 [/us/stat/112/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F8
-[/us/pl/111/90/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F90%2Fs5
+[/us/pl/111/90]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F90
 [/us/stat/123/2977]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F2977
-[/us/pl/111/90/s5/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F90%2Fs5%2F1
-[/us/pl/111/90/s5/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F90%2Fs5%2F2
-[/us/pl/111/90/s5/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F90%2Fs5%2F3
+[/us/pl/111/90]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F90
+[/us/pl/111/90]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F90
+[/us/pl/111/90]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F90
 [/us/usc/t5/s5383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5383
 [/us/usc/t5/s5315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5315
-[/us/pl/105/156/s3/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F156%2Fs3%2F1
-[/us/pl/105/156/s3/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F156%2Fs3%2F2
+[/us/pl/105/156]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F156
+[/us/pl/105/156]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F156
 [/us/pl/104/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208
 
 

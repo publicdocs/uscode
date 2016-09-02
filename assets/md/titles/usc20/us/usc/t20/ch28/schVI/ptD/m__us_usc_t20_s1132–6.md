@@ -71,7 +71,7 @@
 
         There are authorized to be appropriated to carry out this section, such sums as may be necessary for fiscal year 2009 and for each subsequent fiscal year.
 
-([Pub. L. 89–329, title VI, § 637][/us/pl/89/329/s637], as added [Pub. L. 110–315, title VI, § 622][/us/pl/110/315/s622], Aug. 14, 2008, [122 Stat. 3343][/us/stat/122/3343].)
+([Pub. L. 89–329, title VI][/us/pl/89/329/tVI], § 637, as added [Pub. L. 110–315, title VI][/us/pl/110/315/tVI], § 622, Aug. 14, 2008, [122 Stat. 3343][/us/stat/122/3343].)
 
 ----------
 
@@ -80,8 +80,8 @@
 ----------
 ----------
 
-[/us/pl/89/329/s637]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2Fs637
-[/us/pl/110/315/s622]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2Fs622
+[/us/pl/89/329/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2FtVI
+[/us/pl/110/315/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2FtVI
 [/us/stat/122/3343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3343
 
 

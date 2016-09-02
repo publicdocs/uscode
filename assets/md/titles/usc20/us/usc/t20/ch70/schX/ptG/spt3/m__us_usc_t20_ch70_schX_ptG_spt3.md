@@ -11,30 +11,16 @@
 ----------
 ----------
 
-[Previous](./../../../../../../..//us/usc/t20/ch70/schX/ptG/spt2/m__us_usc_t20_ch70_schX_ptG_spt2.md) | [Next](./../../../../../../..//us/usc/t20/ch70/schX/ptG/spt4/m__us_usc_t20_ch70_schX_ptG_spt4.md) | [Root of Title](./../../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fch70%2FschX%2FptG%2Fspt3)
+[Previous](./../../../../../../..//us/usc/t20/ch70/schX/ptG/spt2/m__us_usc_t20_s8181 _us_usc_t20_s8182.md) | [Next](./../../../../../../..//us/usc/t20/ch70/schX/ptG/spt3/m__us_usc_t20_s8191 _us_usc_t20_s8192.md) | [Root of Title](./../../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fch70%2FschX%2FptG%2Fspt3)
 
 ##### subpart 3—programs for recent immigrants, students of migrant parents and older americans
 
-§§ 8191, 8192. __Repealed.__  __[__  __Pub. L. 107–110, title X, § 1011(5)(A)__  __][/us/pl/107/110/s1011/5/A]__  __,__  __Jan. 8, 2002__  __,__  __[__  __115 Stat. 1986__  __][/us/stat/115/1986]__ 
-
-    Section 8191, [Pub. L. 89–10, title X, § 10731][/us/pl/89/10/s10731], as added [Pub. L. 103–382, title I, § 101][/us/pl/103/382/s101], Oct. 20, 1994, [108 Stat. 3842][/us/stat/108/3842], authorized grants for fellowships.
-
-    Section 8192, [Pub. L. 89–10, title X, § 10732][/us/pl/89/10/s10732], as added [Pub. L. 103–382, title I, § 101][/us/pl/103/382/s101], Oct. 20, 1994, [108 Stat. 3843][/us/stat/108/3843], related to applications.
-
 ----------
 
-[Previous](./../../../../../../..//us/usc/t20/ch70/schX/ptG/spt2/m__us_usc_t20_ch70_schX_ptG_spt2.md) | [Next](./../../../../../../..//us/usc/t20/ch70/schX/ptG/spt4/m__us_usc_t20_ch70_schX_ptG_spt4.md) | [Root of Title](./../../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fch70%2FschX%2FptG%2Fspt3)
+[Previous](./../../../../../../..//us/usc/t20/ch70/schX/ptG/spt2/m__us_usc_t20_s8181 _us_usc_t20_s8182.md) | [Next](./../../../../../../..//us/usc/t20/ch70/schX/ptG/spt3/m__us_usc_t20_s8191 _us_usc_t20_s8192.md) | [Root of Title](./../../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fch70%2FschX%2FptG%2Fspt3)
 
 ----------
 ----------
 
-[/us/pl/107/110/s1011/5/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F110%2Fs1011%2F5%2FA
-[/us/stat/115/1986]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F1986
-[/us/pl/89/10/s10731]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F10%2Fs10731
-[/us/pl/103/382/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F382%2Fs101
-[/us/stat/108/3842]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3842
-[/us/pl/89/10/s10732]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F10%2Fs10732
-[/us/pl/103/382/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F382%2Fs101
-[/us/stat/108/3843]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3843
 
 

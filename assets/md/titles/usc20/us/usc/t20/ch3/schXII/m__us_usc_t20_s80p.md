@@ -23,7 +23,7 @@
 
         There is authorized to be appropriated for the first fiscal year under this subchapter, the sum of $1,000,000 and such amounts as may be necessary for the succeeding fiscal years in order to carry out the provisions of this subchapter.
 
-([Pub. L. 95–414, § 6][/us/pl/95/414/s6], Oct. 5, 1978, [92 Stat. 912][/us/stat/92/912].)
+([Pub. L. 95–414][/us/pl/95/414], § 6, Oct. 5, 1978, [92 Stat. 912][/us/stat/92/912].)
 
  __Effective Date__ 
 
@@ -37,7 +37,7 @@
 ----------
 
 [/us/usc/t20/s80k]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs80k
-[/us/pl/95/414/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F414%2Fs6
+[/us/pl/95/414]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F414
 [/us/stat/92/912]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F912
 [/us/usc/t20/s80k]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs80k
 [/us/pl/95/414/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F414%2Fs7

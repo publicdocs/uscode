@@ -45,7 +45,7 @@
 
                 (ii) that have a program of study that leads to an undergraduate degree, a master’s degree, or completion of a postbaccalaureate program required for teacher certification; and
 
-                (iii) the graduates of which are highly qualified;
+                (iii) the graduates of which meet the applicable State certification and licensure requirements, including any requirements for certification obtained through alternative routes to certification, or, with regard to special education teachers, the qualifications described in [section 1412(a)(14)(C) of this title][/us/usc/t20/s1412/a/14/C];
 
             (B) a department or program of special education at an institution of higher education;
 
@@ -115,17 +115,25 @@
 
             Not later than 180 days after the last day of the grant period under this section, the Secretary shall make available to Congress and the public the findings of the evaluations submitted under paragraph (1), and information on best practices related to effective instruction of students with disabilities in general education classrooms.
 
-([Pub. L. 89–329, title II, § 251][/us/pl/89/329/s251], as added [Pub. L. 110–315, title II, § 201(3)][/us/pl/110/315/s201/3], Aug. 14, 2008, [122 Stat. 3159][/us/stat/122/3159].)
+([Pub. L. 89–329, title II][/us/pl/89/329/tII], § 251, as added [Pub. L. 110–315, title II][/us/pl/110/315/tII], § 201(3), Aug. 14, 2008, [122 Stat. 3159][/us/stat/122/3159]; amended [Pub. L. 114–95, title IX][/us/pl/114/95/tIX], § 9214(c)(9), Dec. 10, 2015, [129 Stat. 2163][/us/stat/129/2163].)
 
  __Prior Provisions__ 
 
-    A prior section 1034, [Pub. L. 89–329, title II, § 224][/us/pl/89/329/s224], as added [Pub. L. 102–325, title II, § 201][/us/pl/102/325/s201], July 23, 1992, [106 Stat. 470][/us/stat/106/470], required Secretary to consult with appropriate library and information science professional bodies in determining critical needs and priorities under former sections 1032 and 1033 of this title, prior to repeal by [Pub. L. 104–208, div. A, title I, § 101(e)][/us/pl/104/208/s101/e] \[title VII, § 708(b)\], Sept. 30, 1996, [110 Stat. 3009–233][/us/stat/110/3009-233], 3009–312.
+    A prior section 1034, [Pub. L. 89–329, title II][/us/pl/89/329/tII], § 224, as added [Pub. L. 102–325, title II][/us/pl/102/325/tII], § 201, July 23, 1992, [106 Stat. 470][/us/stat/106/470], required Secretary to consult with appropriate library and information science professional bodies in determining critical needs and priorities under former sections 1032 and 1033 of this title, prior to repeal by [Pub. L. 104–208, div. A, title I][/us/pl/104/208/dA/tI], § 101(e) \[title VII, § 708(b)\], Sept. 30, 1996, [110 Stat. 3009–233][/us/stat/110/3009-233], 3009–312.
 
-    Another prior section 1034, [Pub. L. 89–329, title II, § 224][/us/pl/89/329/s224], as added [Pub. L. 96–374, title II, § 201][/us/pl/96/374/s201], Oct. 3, 1980, [94 Stat. 1385][/us/stat/94/1385], authorized special purpose grants, prior to repeal by [Pub. L. 99–498, title II, § 204(a)][/us/pl/99/498/s204/a], Oct. 17, 1986, [100 Stat. 1289][/us/stat/100/1289].
+    Another prior section 1034, [Pub. L. 89–329, title II][/us/pl/89/329/tII], § 224, as added [Pub. L. 96–374, title II][/us/pl/96/374/tII], § 201, Oct. 3, 1980, [94 Stat. 1385][/us/stat/94/1385], authorized special purpose grants, prior to repeal by [Pub. L. 99–498, title II][/us/pl/99/498/tII], § 204(a), Oct. 17, 1986, [100 Stat. 1289][/us/stat/100/1289].
 
-    Another prior section 1034, [Pub. L. 89–329, title II, § 223][/us/pl/89/329/s223], formerly § 224, Nov. 8, 1965, [79 Stat. 1228][/us/stat/79/1228], [Pub. L. 91–230, title IV, § 401(h)(4)][/us/pl/91/230/s401/h/4], Apr. 13, 1970, [84 Stat. 174][/us/stat/84/174], and renumbered [Pub. L. 92–318, title I, § 111(b)(3)(D)][/us/pl/92/318/s111/b/3/D], June 23, 1972, [86 Stat. 240][/us/stat/86/240], related to grants for research and demonstration projects, prior to the general amendment of this subchapter by [Pub. L. 96–374][/us/pl/96/374].
+    Another prior section 1034, [Pub. L. 89–329, title II][/us/pl/89/329/tII], § 223, formerly § 224, Nov. 8, 1965, [79 Stat. 1228][/us/stat/79/1228], [Pub. L. 91–230, title IV][/us/pl/91/230/tIV], § 401(h)(4), Apr. 13, 1970, [84 Stat. 174][/us/stat/84/174], and renumbered [Pub. L. 92–318, title I][/us/pl/92/318/tI], § 111(b)(3)(D), June 23, 1972, [86 Stat. 240][/us/stat/86/240], related to grants for research and demonstration projects, prior to the general amendment of this subchapter by [Pub. L. 96–374][/us/pl/96/374].
 
     A prior [section 251 of Pub. L. 89–329][/us/pl/89/329/s251] was classified to [section 1047j of this title][/us/usc/t20/s1047j], prior to the general amendment of former part D of this subchapter by [Pub. L. 99–498][/us/pl/99/498].
+
+ __Amendments__ 
+
+    2015—Subsec. (b)(1)(A)(iii). [Pub. L. 114–95][/us/pl/114/95] substituted “meet the applicable State certification and licensure requirements, including any requirements for certification obtained through alternative routes to certification, or, with regard to special education teachers, the qualifications described in [section 1412(a)(14)(C) of this title][/us/usc/t20/s1412/a/14/C]” for “are highly qualified”.
+
+ __Effective Date of 2015 Amendment__ 
+
+    Amendment by [Pub. L. 114–95][/us/pl/114/95] effective Dec. 10, 2015, except with respect to certain noncompetitive programs and competitive programs, see [section 5 of Pub. L. 114–95][/us/pl/114/95/s5], set out as a note under [section 6301 of this title][/us/usc/t20/s6301].
 
 ----------
 
@@ -134,28 +142,36 @@
 ----------
 ----------
 
-[/us/pl/89/329/s251]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2Fs251
-[/us/pl/110/315/s201/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2Fs201%2F3
+[/us/usc/t20/s1412/a/14/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1412%2Fa%2F14%2FC
+[/us/pl/89/329/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2FtII
+[/us/pl/110/315/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2FtII
 [/us/stat/122/3159]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3159
-[/us/pl/89/329/s224]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2Fs224
-[/us/pl/102/325/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325%2Fs201
+[/us/pl/114/95/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F95%2FtIX
+[/us/stat/129/2163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F2163
+[/us/pl/89/329/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2FtII
+[/us/pl/102/325/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325%2FtII
 [/us/stat/106/470]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F470
-[/us/pl/104/208/s101/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs101%2Fe
+[/us/pl/104/208/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2FdA%2FtI
 [/us/stat/110/3009-233]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3009-233
-[/us/pl/89/329/s224]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2Fs224
-[/us/pl/96/374/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F374%2Fs201
+[/us/pl/89/329/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2FtII
+[/us/pl/96/374/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F374%2FtII
 [/us/stat/94/1385]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F1385
-[/us/pl/99/498/s204/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F498%2Fs204%2Fa
+[/us/pl/99/498/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F498%2FtII
 [/us/stat/100/1289]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1289
-[/us/pl/89/329/s223]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2Fs223
+[/us/pl/89/329/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2FtII
 [/us/stat/79/1228]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F1228
-[/us/pl/91/230/s401/h/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F230%2Fs401%2Fh%2F4
+[/us/pl/91/230/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F230%2FtIV
 [/us/stat/84/174]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F174
-[/us/pl/92/318/s111/b/3/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F318%2Fs111%2Fb%2F3%2FD
+[/us/pl/92/318/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F318%2FtI
 [/us/stat/86/240]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F240
 [/us/pl/96/374]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F374
 [/us/pl/89/329/s251]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2Fs251
 [/us/usc/t20/s1047j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1047j
 [/us/pl/99/498]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F498
+[/us/pl/114/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F95
+[/us/usc/t20/s1412/a/14/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1412%2Fa%2F14%2FC
+[/us/pl/114/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F95
+[/us/pl/114/95/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F95%2Fs5
+[/us/usc/t20/s6301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs6301
 
 

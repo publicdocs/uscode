@@ -17,7 +17,7 @@
 
     The Secretary shall assign to each participant in title IV programs, including institutions, lenders, and guaranty agencies, a single Department of Education identification number to be used to identify its participation in each of the title IV programs.
 
-([Pub. L. 89–329, title IV, § 487B][/us/pl/89/329/s487B], as added [Pub. L. 102–325, title IV, § 491][/us/pl/102/325/s491], July 23, 1992, [106 Stat. 630][/us/stat/106/630].)
+([Pub. L. 89–329, title IV][/us/pl/89/329/tIV], § 487B, as added [Pub. L. 102–325, title IV][/us/pl/102/325/tIV], § 491, July 23, 1992, [106 Stat. 630][/us/stat/106/630].)
 
  __References in Text__ 
 
@@ -30,8 +30,8 @@
 ----------
 ----------
 
-[/us/pl/89/329/s487B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2Fs487B
-[/us/pl/102/325/s491]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325%2Fs491
+[/us/pl/89/329/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2FtIV
+[/us/pl/102/325/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325%2FtIV
 [/us/stat/106/630]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F630
 [/us/pl/89/329]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329
 [/us/pl/99/498]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F498

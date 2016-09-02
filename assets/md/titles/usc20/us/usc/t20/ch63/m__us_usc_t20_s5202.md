@@ -31,7 +31,7 @@
 
         The interest on, and the proceeds from the sale or redemption of, any obligations held in the fund shall be credited to and form a part of the fund.
 
-([Pub. L. 101–454, § 3][/us/pl/101/454/s3], Oct. 24, 1990, [104 Stat. 1063][/us/stat/104/1063].)
+([Pub. L. 101–454][/us/pl/101/454], § 3, Oct. 24, 1990, [104 Stat. 1063][/us/stat/104/1063].)
 
 ----------
 
@@ -41,7 +41,7 @@
 ----------
 
 [/us/usc/t20/s5204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs5204
-[/us/pl/101/454/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F454%2Fs3
+[/us/pl/101/454]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F454
 [/us/stat/104/1063]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1063
 
 

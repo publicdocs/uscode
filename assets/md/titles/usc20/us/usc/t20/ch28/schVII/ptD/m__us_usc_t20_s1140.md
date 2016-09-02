@@ -55,7 +55,7 @@
 
         (B) who is currently, or was formerly, eligible for a free appropriate public education under the Individuals with Disabilities Education Act \[[20 U.S.C. 1400][/us/usc/t20/s1400] et seq.\].
 
-([Pub. L. 89–329, title VII, § 760][/us/pl/89/329/s760], as added [Pub. L. 110–315, title VII, § 709(2)][/us/pl/110/315/s709/2], Aug. 14, 2008, [122 Stat. 3361][/us/stat/122/3361]; amended [Pub. L. 111–39, title VII, § 701(4)][/us/pl/111/39/s701/4], July 1, 2009, [123 Stat. 1954][/us/stat/123/1954]; [Pub. L. 111–256, § 2(a)][/us/pl/111/256/s2/a], Oct. 5, 2010, [124 Stat. 2643][/us/stat/124/2643].)
+([Pub. L. 89–329, title VII][/us/pl/89/329/tVII], § 760, as added [Pub. L. 110–315, title VII][/us/pl/110/315/tVII], § 709(2), Aug. 14, 2008, [122 Stat. 3361][/us/stat/122/3361]; amended [Pub. L. 111–39, title VII][/us/pl/111/39/tVII], § 701(4), July 1, 2009, [123 Stat. 1954][/us/stat/123/1954]; [Pub. L. 111–256][/us/pl/111/256], § 2(a), Oct. 5, 2010, [124 Stat. 2643][/us/stat/124/2643].)
 
  __References in Text__ 
 
@@ -63,7 +63,7 @@
 
  __Prior Provisions__ 
 
-    A prior section 1140, [Pub. L. 89–329, title VII, § 761][/us/pl/89/329/s761], as added [Pub. L. 105–244, title VII, § 701][/us/pl/105/244/s701], Oct. 7, 1998, [112 Stat. 1801][/us/stat/112/1801], stated the purpose of former part D, prior to repeal by [Pub. L. 110–315, title VII, § 709(2)][/us/pl/110/315/s709/2], Aug. 14, 2008, [122 Stat. 3361][/us/stat/122/3361].
+    A prior section 1140, [Pub. L. 89–329, title VII][/us/pl/89/329/tVII], § 761, as added [Pub. L. 105–244, title VII][/us/pl/105/244/tVII], § 701, Oct. 7, 1998, [112 Stat. 1801][/us/stat/112/1801], stated the purpose of former part D, prior to repeal by [Pub. L. 110–315, title VII][/us/pl/110/315/tVII], § 709(2), Aug. 14, 2008, [122 Stat. 3361][/us/stat/122/3361].
 
  __Amendments__ 
 
@@ -87,20 +87,20 @@
 ----------
 
 [/us/usc/t20/s1400]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1400
-[/us/pl/89/329/s760]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2Fs760
-[/us/pl/110/315/s709/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2Fs709%2F2
+[/us/pl/89/329/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2FtVII
+[/us/pl/110/315/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2FtVII
 [/us/stat/122/3361]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3361
-[/us/pl/111/39/s701/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F39%2Fs701%2F4
+[/us/pl/111/39/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F39%2FtVII
 [/us/stat/123/1954]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1954
-[/us/pl/111/256/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F256%2Fs2%2Fa
+[/us/pl/111/256]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F256
 [/us/stat/124/2643]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2643
 [/us/pl/91/230]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F230
 [/us/stat/84/175]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F175
 [/us/usc/t20/s1400]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1400
-[/us/pl/89/329/s761]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2Fs761
-[/us/pl/105/244/s701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2Fs701
+[/us/pl/89/329/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2FtVII
+[/us/pl/105/244/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2FtVII
 [/us/stat/112/1801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F1801
-[/us/pl/110/315/s709/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2Fs709%2F2
+[/us/pl/110/315/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2FtVII
 [/us/stat/122/3361]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3361
 [/us/pl/111/256]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F256
 [/us/pl/111/39]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F39

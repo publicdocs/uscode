@@ -17,7 +17,7 @@
 
     The purpose of this chapter is to replicate and implement programs at institutions of higher education that provide integrated courses of study in science, technology, engineering, or mathematics, and teacher education, that lead to a baccalaureate degree in science, technology, engineering, or mathematics with concurrent teacher certification.
 
-([Pub. L. 111–358, title V, § 551][/us/pl/111/358/s551], Jan. 4, 2011, [124 Stat. 4021][/us/stat/124/4021].)
+([Pub. L. 111–358, title V][/us/pl/111/358/tV], § 551, Jan. 4, 2011, [124 Stat. 4021][/us/stat/124/4021].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/111/358/s551]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F358%2Fs551
+[/us/pl/111/358/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F358%2FtV
 [/us/stat/124/4021]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F4021
 
 

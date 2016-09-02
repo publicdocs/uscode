@@ -157,85 +157,85 @@
 
         (2) social security number in the same manner as social security numbers are verified for students under [section 1091(p) of this title][/us/usc/t20/s1091/p].
 
-([Pub. L. 89–329, title IV, § 428B][/us/pl/89/329/s428B], as added [Pub. L. 99–498, title IV, § 402(a)][/us/pl/99/498/s402/a], Oct. 17, 1986, [100 Stat. 1386][/us/stat/100/1386]; amended [Pub. L. 100–50, § 10][/us/pl/100/50/s10](o), (p)(2), (q), (r)(1), June 3, 1987, [101 Stat. 343][/us/stat/101/343], 344; [Pub. L. 102–325, title IV, § 418][/us/pl/102/325/s418], July 23, 1992, [106 Stat. 531][/us/stat/106/531]; [Pub. L. 103–66, title IV, § 4109(a)][/us/pl/103/66/s4109/a], Aug. 10, 1993, [107 Stat. 369][/us/stat/107/369]; [Pub. L. 105–178, title VIII, § 8301(a)(2)][/us/pl/105/178/s8301/a/2], June 9, 1998, [112 Stat. 497][/us/stat/112/497]; [Pub. L. 105–244, title IV][/us/pl/105/244], §§ 416(a)(2), 419, Oct. 7, 1998, [112 Stat. 1680][/us/stat/112/1680], 1694; [Pub. L. 109–171, title VIII][/us/pl/109/171], §§ 8005(c), 8014(g), Feb. 8, 2006, [120 Stat. 158][/us/stat/120/158], 171; [Pub. L. 110–227][/us/pl/110/227], §§ 3(a), 4, May 7, 2008, [122 Stat. 742][/us/stat/122/742], 743; [Pub. L. 110–315, title IV, § 424(a)][/us/pl/110/315/s424/a], Aug. 14, 2008, [122 Stat. 3232][/us/stat/122/3232]; [Pub. L. 111–39, title IV, § 402(f)(2)][/us/pl/111/39/s402/f/2], July 1, 2009, [123 Stat. 1943][/us/stat/123/1943]; [Pub. L. 111–152, title II, § 2205][/us/pl/111/152/s2205], Mar. 30, 2010, [124 Stat. 1075][/us/stat/124/1075].)
+([Pub. L. 89–329, title IV][/us/pl/89/329/tIV], § 428B, as added [Pub. L. 99–498, title IV][/us/pl/99/498/tIV], § 402(a), Oct. 17, 1986, [100 Stat. 1386][/us/stat/100/1386]; amended [Pub. L. 100–50][/us/pl/100/50], § 10(o), (p)(2), (q), (r)(1), June 3, 1987, [101 Stat. 343][/us/stat/101/343], 344; [Pub. L. 102–325, title IV][/us/pl/102/325/tIV], § 418, July 23, 1992, [106 Stat. 531][/us/stat/106/531]; [Pub. L. 103–66, title IV][/us/pl/103/66/tIV], § 4109(a), Aug. 10, 1993, [107 Stat. 369][/us/stat/107/369]; [Pub. L. 105–178, title VIII][/us/pl/105/178/tVIII], § 8301(a)(2), June 9, 1998, [112 Stat. 497][/us/stat/112/497]; [Pub. L. 105–244, title IV][/us/pl/105/244/tIV], §§ 416(a)(2), 419, Oct. 7, 1998, [112 Stat. 1680][/us/stat/112/1680], 1694; [Pub. L. 109–171, title VIII][/us/pl/109/171/tVIII], §§ 8005(c), 8014(g), Feb. 8, 2006, [120 Stat. 158][/us/stat/120/158], 171; [Pub. L. 110–227][/us/pl/110/227], §§ 3(a), 4, May 7, 2008, [122 Stat. 742][/us/stat/122/742], 743; [Pub. L. 110–315, title IV][/us/pl/110/315/tIV], § 424(a), Aug. 14, 2008, [122 Stat. 3232][/us/stat/122/3232]; [Pub. L. 111–39, title IV][/us/pl/111/39/tIV], § 402(f)(2), July 1, 2009, [123 Stat. 1943][/us/stat/123/1943]; [Pub. L. 111–152, title II][/us/pl/111/152/tII], § 2205, Mar. 30, 2010, [124 Stat. 1075][/us/stat/124/1075].)
 
  __Prior Provisions__ 
 
-    A prior section 1078–2, [Pub. L. 89–329, title IV, § 428B][/us/pl/89/329/s428B], as added [Pub. L. 96–374, title IV, § 419][/us/pl/96/374/s419], Oct. 3, 1980, [94 Stat. 1424][/us/stat/94/1424]; amended [Pub. L. 97–35, title V][/us/pl/97/35], §§ 532(b)(3), 534(a)(2), (c)(1), (2), Aug. 13, 1981, [95 Stat. 452][/us/stat/95/452], 454; [Pub. L. 98–79, § 12][/us/pl/98/79/s12], Aug. 15, 1983, [97 Stat. 484][/us/stat/97/484], related to auxiliary loans to assist students, prior to the general revision of this part by [Pub. L. 99–498][/us/pl/99/498].
+    A prior section 1078–2, [Pub. L. 89–329, title IV][/us/pl/89/329/tIV], § 428B, as added [Pub. L. 96–374, title IV][/us/pl/96/374/tIV], § 419, Oct. 3, 1980, [94 Stat. 1424][/us/stat/94/1424]; amended [Pub. L. 97–35, title V][/us/pl/97/35/tV], §§ 532(b)(3), 534(a)(2), (c)(1), (2), Aug. 13, 1981, [95 Stat. 452][/us/stat/95/452], 454; [Pub. L. 98–79][/us/pl/98/79], § 12, Aug. 15, 1983, [97 Stat. 484][/us/stat/97/484], related to auxiliary loans to assist students, prior to the general revision of this part by [Pub. L. 99–498][/us/pl/99/498].
 
  __Amendments__ 
 
     2010—Subsec. (a)(1). [Pub. L. 111–152][/us/pl/111/152] substituted “Prior to July 1, 2010, a graduate” for “A graduate” in introductory provisions.
 
-    2009—Subsec. (e)(3)(B). [Pub. L. 111–39, § 402(f)(2)(A)][/us/pl/111/39/s402/f/2/A], substituted “subsection (d)(5)(B)” for “subsection (c)(5)(B)”.
+    2009—Subsec. (e)(3)(B). [Pub. L. 111–39][/us/pl/111/39], § 402(f)(2)(A), substituted “subsection (d)(5)(B)” for “subsection (c)(5)(B)”.
 
-    Subsec. (e)(5). [Pub. L. 111–39, § 402(f)(2)(B)][/us/pl/111/39/s402/f/2/B], struck out par. (5) which related to notification to borrowers of availability of refinancing options for certain loans made before Oct. 17, 1986.
+    Subsec. (e)(5). [Pub. L. 111–39][/us/pl/111/39], § 402(f)(2)(B), struck out par. (5) which related to notification to borrowers of availability of refinancing options for certain loans made before Oct. 17, 1986.
 
-    2008—Subsec. (a)(3). [Pub. L. 110–227, § 4][/us/pl/110/227/s4], amended par. (3) generally. Prior to amendment, text read as follows: “Whenever necessary to carry out the provisions of this section, the terms ‘student’ and ‘borrower’ as used in this part shall include a parent borrower under this section.”
+    2008—Subsec. (a)(3). [Pub. L. 110–227][/us/pl/110/227], § 4, amended par. (3) generally. Prior to amendment, text read as follows: “Whenever necessary to carry out the provisions of this section, the terms ‘student’ and ‘borrower’ as used in this part shall include a parent borrower under this section.”
 
-    Subsec. (a)(3)(B)(i)(II). [Pub. L. 110–315, § 424(a)(1)][/us/pl/110/315/s424/a/1], added subcl. (II) and struck out former subcl. (II) which read as follows: “is not and has not been more than 89 days delinquent on the repayment of any other debt during such period.”
+    Subsec. (a)(3)(B)(i)(II). [Pub. L. 110–315][/us/pl/110/315], § 424(a)(1), added subcl. (II) and struck out former subcl. (II) which read as follows: “is not and has not been more than 89 days delinquent on the repayment of any other debt during such period.”
 
-    Subsec. (d)(1), (2). [Pub. L. 110–315, § 424(a)(2)][/us/pl/110/315/s424/a/2], added pars. (1) and (2) and struck out former pars. (1) and (2) which related to commencement of repayment and capitalization of interest.
+    Subsec. (d)(1), (2). [Pub. L. 110–315][/us/pl/110/315], § 424(a)(2), added pars. (1) and (2) and struck out former pars. (1) and (2) which related to commencement of repayment and capitalization of interest.
 
-    [Pub. L. 110–227, § 3(a)][/us/pl/110/227/s3/a], amended pars. (1) and (2) generally. Prior to amendment, text related to commencement of repayment and capitalization of interest.
+    [Pub. L. 110–227][/us/pl/110/227], § 3(a), amended pars. (1) and (2) generally. Prior to amendment, text related to commencement of repayment and capitalization of interest.
 
-    2006—Subsec. (a)(1). [Pub. L. 109–171, § 8005(c)(1)(A)][/us/pl/109/171/s8005/c/1/A], in introductory provisions, substituted “A graduate or professional student or the parents” for “Parents”.
+    2006—Subsec. (a)(1). [Pub. L. 109–171][/us/pl/109/171], § 8005(c)(1)(A), in introductory provisions, substituted “A graduate or professional student or the parents” for “Parents”.
 
-    Subsec. (a)(1)(A). [Pub. L. 109–171, § 8005(c)(1)(B)][/us/pl/109/171/s8005/c/1/B], substituted “the graduate or professional student or the parents” for “the parents”.
+    Subsec. (a)(1)(A). [Pub. L. 109–171][/us/pl/109/171], § 8005(c)(1)(B), substituted “the graduate or professional student or the parents” for “the parents”.
 
-    Subsec. (a)(1)(B). [Pub. L. 109–171, § 8014(g)(1)][/us/pl/109/171/s8014/g/1], (3), added subpar. (B). Former subpar. (B) redesignated (C).
+    Subsec. (a)(1)(B). [Pub. L. 109–171][/us/pl/109/171], § 8014(g)(1), (3), added subpar. (B). Former subpar. (B) redesignated (C).
 
-    [Pub. L. 109–171, § 8005(c)(1)(C)][/us/pl/109/171/s8005/c/1/C], substituted “the graduate or professional student or the parents” for “the parents”.
+    [Pub. L. 109–171][/us/pl/109/171], § 8005(c)(1)(C), substituted “the graduate or professional student or the parents” for “the parents”.
 
-    Subsec. (a)(1)(C). [Pub. L. 109–171, § 8014(g)(2)][/us/pl/109/171/s8014/g/2], redesignated subpar. (B) as (C).
+    Subsec. (a)(1)(C). [Pub. L. 109–171][/us/pl/109/171], § 8014(g)(2), redesignated subpar. (B) as (C).
 
-    Subsec. (b). [Pub. L. 109–171, § 8005(c)(2)][/us/pl/109/171/s8005/c/2], substituted “any graduate or professional student or any parent” for “any parent”.
+    Subsec. (b). [Pub. L. 109–171][/us/pl/109/171], § 8005(c)(2), substituted “any graduate or professional student or any parent” for “any parent”.
 
-    Subsec. (c)(2). [Pub. L. 109–171, § 8005(c)(3)][/us/pl/109/171/s8005/c/3], substituted “graduate or professional student or parent” for “parent”.
+    Subsec. (c)(2). [Pub. L. 109–171][/us/pl/109/171], § 8005(c)(3), substituted “graduate or professional student or parent” for “parent”.
 
-    Subsec. (d)(1). [Pub. L. 109–171, § 8005(c)(4)][/us/pl/109/171/s8005/c/4], substituted “the graduate or professional student or the parent” for “the parent”.
+    Subsec. (d)(1). [Pub. L. 109–171][/us/pl/109/171], § 8005(c)(4), substituted “the graduate or professional student or the parent” for “the parent”.
 
-    1998—Subsec. (a). [Pub. L. 105–244, § 419(1)][/us/pl/105/244/s419/1], amended heading and text of subsec. (a) generally. Prior to amendment, text read as follows: “Parents of a dependent student, who do not have an adverse credit history as determined pursuant to regulations of the Secretary, shall be eligible to borrow funds under this section in amounts specified in subsection (b) of this section, and unless otherwise specified in subsections (c), (d), and (e) of this section, such loans shall have the same terms, conditions, and benefits as all other loans made under this part. Whenever necessary to carry out the provisions of this section, the terms ‘student’ and ‘borrower’ as used in this part shall include a parent borrower under this section.”
+    1998—Subsec. (a). [Pub. L. 105–244][/us/pl/105/244], § 419(1), amended heading and text of subsec. (a) generally. Prior to amendment, text read as follows: “Parents of a dependent student, who do not have an adverse credit history as determined pursuant to regulations of the Secretary, shall be eligible to borrow funds under this section in amounts specified in subsection (b) of this section, and unless otherwise specified in subsections (c), (d), and (e) of this section, such loans shall have the same terms, conditions, and benefits as all other loans made under this part. Whenever necessary to carry out the provisions of this section, the terms ‘student’ and ‘borrower’ as used in this part shall include a parent borrower under this section.”
 
-    Subsec. (d)(4). [Pub. L. 105–244, § 416(a)(2)][/us/pl/105/244/s416/a/2], substituted “section 1077a” for “section 1077a(c)”.
+    Subsec. (d)(4). [Pub. L. 105–244][/us/pl/105/244], § 416(a)(2), substituted “section 1077a” for “section 1077a(c)”.
 
     [Pub. L. 105–178][/us/pl/105/178] which directed substitution of “[section 1077a of this title][/us/usc/t20/s1077a] for loans made under this section” for “[section 1077a(c) of this title][/us/usc/t20/s1077a/c]” in “section 428B(d)(4) ([20 U.S.C. 1078–2(d)(4)][/us/usc/t20/s1078–2/d/4])” could not be executed because it did not indicate what act was to be amended.
 
-    Subsec. (f). [Pub. L. 105–244, § 419(2)][/us/pl/105/244/s419/2], added subsec. (f).
+    Subsec. (f). [Pub. L. 105–244][/us/pl/105/244], § 419(2), added subsec. (f).
 
     1993—Subsec. (c). [Pub. L. 103–66][/us/pl/103/66] inserted “shall be disbursed in accordance with the requirements of [section 1078–7 of this title][/us/usc/t20/s1078–7] and” after “under this section”.
 
-    1992—[Pub. L. 102–325, § 418(a)][/us/pl/102/325/s418/a], substituted “Federal PLUS” for “PLUS” in section catchline.
+    1992—[Pub. L. 102–325][/us/pl/102/325], § 418(a), substituted “Federal PLUS” for “PLUS” in section catchline.
 
-    Subsec. (a). [Pub. L. 102–325, § 418(b)(1)][/us/pl/102/325/s418/b/1], substituted “subsections (c), (d), and (e)” for “subsections (c) and (d)” and inserted “, who do not have an adverse credit history as determined pursuant to regulations of the Secretary,” after “a dependent student”.
+    Subsec. (a). [Pub. L. 102–325][/us/pl/102/325], § 418(b)(1), substituted “subsections (c), (d), and (e)” for “subsections (c) and (d)” and inserted “, who do not have an adverse credit history as determined pursuant to regulations of the Secretary,” after “a dependent student”.
 
-    Subsec. (b). [Pub. L. 102–325, § 418(b)(2)][/us/pl/102/325/s418/b/2], struck out subsec. (b) designation and heading, redesignated par. (3) as subsec. (b), and struck out pars. (1) and (2) which set the annual limit on the amount parents may borrow for one student in any academic year at $4,000 and set the aggregate insured principal amount for insured loans at not to exceed $20,000.
+    Subsec. (b). [Pub. L. 102–325][/us/pl/102/325], § 418(b)(2), struck out subsec. (b) designation and heading, redesignated par. (3) as subsec. (b), and struck out pars. (1) and (2) which set the annual limit on the amount parents may borrow for one student in any academic year at $4,000 and set the aggregate insured principal amount for insured loans at not to exceed $20,000.
 
-    Subsec. (c). [Pub. L. 102–325, § 418(b)(4)][/us/pl/102/325/s418/b/4], added subsec. (c). Former subsec. (c) redesignated (d).
+    Subsec. (c). [Pub. L. 102–325][/us/pl/102/325], § 418(b)(4), added subsec. (c). Former subsec. (c) redesignated (d).
 
-    Subsec. (d). [Pub. L. 102–325, § 418(c)][/us/pl/102/325/s418/c], (d), amended pars. (1) and (2) generally. Prior to amendment, pars. (1) and (2) read as follows:
+    Subsec. (d). [Pub. L. 102–325][/us/pl/102/325], § 418(c), (d), amended pars. (1) and (2) generally. Prior to amendment, pars. (1) and (2) read as follows:
 
     “(1) Commencement of repayment.—Repayment of principal on loans made under this section shall commence not later than 60 days after the date such loan is disbursed by the lender, subject to deferral (A) during any period during which the parent meets the conditions required for a deferral under clause (i), (viii), or (ix) of section 1077(a)(2)(C) or 1078(b)(1)(M) of this title; and (B) during any period during which the borrower has a dependent student for whom a loan obligation was incurred under this section and who meets the conditions required for a deferral under clause (i) of either such section.
 
     “(2) Capitalization of interest.—Interest on loans made under this section for which payments of principal are deferred pursuant to paragraph (1) of this subsection shall, if agreed upon by the borrower and the lender (A) be paid monthly or quarterly or (B) be added to the principal amount of the loan on a quarterly basis by the lender. Such capitalization of interest shall not be deemed to exceed the annual insurable limit on account of the student.”
 
-    [Pub. L. 102–325, § 418(b)(3)][/us/pl/102/325/s418/b/3], redesignated subsec. (c) as (d). Former subsec. (d) redesignated (e).
+    [Pub. L. 102–325][/us/pl/102/325], § 418(b)(3), redesignated subsec. (c) as (d). Former subsec. (d) redesignated (e).
 
-    Subsec. (e). [Pub. L. 102–325, § 418(b)(3)][/us/pl/102/325/s418/b/3], redesignated subsec. (d) as (e).
+    Subsec. (e). [Pub. L. 102–325][/us/pl/102/325], § 418(b)(3), redesignated subsec. (d) as (e).
 
-    1987—Subsec. (a). [Pub. L. 100–50, § 10][/us/pl/100/50/s10](o)(2)(A), struck out “, but such a parent borrower shall not be eligible for any deferment pursuant to section 1077(a)(2)(C) or 1078(b)(1)(M) of this title except for the deferments allowed (with respect to the student) under clauses (i), (viii), and (ix) of such sections” after “borrower under this section”.
+    1987—Subsec. (a). [Pub. L. 100–50][/us/pl/100/50], § 10(o)(2)(A), struck out “, but such a parent borrower shall not be eligible for any deferment pursuant to section 1077(a)(2)(C) or 1078(b)(1)(M) of this title except for the deferments allowed (with respect to the student) under clauses (i), (viii), and (ix) of such sections” after “borrower under this section”.
 
-    Subsec. (b)(3). [Pub. L. 100–50, § 10(p)(2)][/us/pl/100/50/s10/p/2], amended first sentence generally, substituting “for any academic year in excess of (A) the student’s estimated cost of attendance, minus (B) other financial aid” for “which would cause the combined loans of the parent and the student for any academic year to exceed the student’s estimated cost of attendance minus such student’s estimated financial assistance”.
+    Subsec. (b)(3). [Pub. L. 100–50][/us/pl/100/50], § 10(p)(2), amended first sentence generally, substituting “for any academic year in excess of (A) the student’s estimated cost of attendance, minus (B) other financial aid” for “which would cause the combined loans of the parent and the student for any academic year to exceed the student’s estimated cost of attendance minus such student’s estimated financial assistance”.
 
-    Subsec. (c)(1). [Pub. L. 100–50, § 10][/us/pl/100/50/s10](o)(2)(B), struck out “pursuant to sections 1077(a)(2)(C)(i), (viii), and (ix) and 1078(b)(1)(M)(i), (viii), and (ix) of this title” after “subject to deferral” and inserted in lieu cls. (A) and (B).
+    Subsec. (c)(1). [Pub. L. 100–50][/us/pl/100/50], § 10(o)(2)(B), struck out “pursuant to sections 1077(a)(2)(C)(i), (viii), and (ix) and 1078(b)(1)(M)(i), (viii), and (ix) of this title” after “subject to deferral” and inserted in lieu cls. (A) and (B).
 
-    Subsec. (c)(2). [Pub. L. 100–50, § 10][/us/pl/100/50/s10](o)(1), (2)(C), (q), in introductory provisions, struck out “and interest” after first reference to “principal”, and substituted “pursuant to paragraph (1) of this subsection” for “under sections 1077(a)(2)(C)(i) and 1078(b)(1)(M)(i) of this title”, and, in subpar. (A), inserted “monthly or” before “quarterly”.
+    Subsec. (c)(2). [Pub. L. 100–50][/us/pl/100/50], § 10(o)(1), (2)(C), (q), in introductory provisions, struck out “and interest” after first reference to “principal”, and substituted “pursuant to paragraph (1) of this subsection” for “under sections 1077(a)(2)(C)(i) and 1078(b)(1)(M)(i) of this title”, and, in subpar. (A), inserted “monthly or” before “quarterly”.
 
-    Subsec. (d)(1). [Pub. L. 100–50, § 10(r)(1)(A)][/us/pl/100/50/s10/r/1/A], inserted “at any time” after “eligible lender may” in first sentence, substituted “the consolidated loan is obtained by a borrower who is electing to obtain variable interest under paragraph (2) or (3)” for “the borrower complies with the requirements of paragraph (2)” in second sentence, and inserted “(if required by them)” after “shall be reported” in third sentence.
+    Subsec. (d)(1). [Pub. L. 100–50][/us/pl/100/50], § 10(r)(1)(A), inserted “at any time” after “eligible lender may” in first sentence, substituted “the consolidated loan is obtained by a borrower who is electing to obtain variable interest under paragraph (2) or (3)” for “the borrower complies with the requirements of paragraph (2)” in second sentence, and inserted “(if required by them)” after “shall be reported” in third sentence.
 
-    Subsec. (d)(2). [Pub. L. 100–50, § 10(r)(1)(B)][/us/pl/100/50/s10/r/1/B], inserted “under this section before July 1, 1987, or” before “under this section” and substituted “to reissue a loan or loans” for “to reissue a loan” and “reissuing such loan or loans” for “reissuing such loan”.
+    Subsec. (d)(2). [Pub. L. 100–50][/us/pl/100/50], § 10(r)(1)(B), inserted “under this section before July 1, 1987, or” before “under this section” and substituted “to reissue a loan or loans” for “to reissue a loan” and “reissuing such loan or loans” for “reissuing such loan”.
 
-    Subsec. (d)(5). [Pub. L. 100–50, § 10(r)(1)(C)][/us/pl/100/50/s10/r/1/C], substituted “October 1, 1987” for “January 1, 1987” and, in subpar. (B), inserted “and of the practical consequences of such options in terms of interest rates and monthly and total payments for a set of loan examples” before semicolon at end.
+    Subsec. (d)(5). [Pub. L. 100–50][/us/pl/100/50], § 10(r)(1)(C), substituted “October 1, 1987” for “January 1, 1987” and, in subpar. (B), inserted “and of the practical consequences of such options in terms of interest rates and monthly and total payments for a set of loan examples” before semicolon at end.
 
  __Effective Date of 2009 Amendment__ 
 
@@ -259,7 +259,7 @@
 
  __Effective Date of 1993 Amendment__ 
 
-[Pub. L. 103–66, title IV, § 4109(c)][/us/pl/103/66/s4109/c], Aug. 10, 1993, [107 Stat. 370][/us/stat/107/370], provided that: 
+[Pub. L. 103–66, title IV][/us/pl/103/66/tIV], § 4109(c), Aug. 10, 1993, [107 Stat. 370][/us/stat/107/370], provided that: 
 
 > “The amendments made by this section \[amending this section and [section 1078–7 of this title][/us/usc/t20/s1078–7]\] shall be effective with respect to loans for which the first disbursement is made on or after October 1, 1993.”
 
@@ -273,7 +273,7 @@
 
  __Amendment of Note or Other Written Evidence of Loan by Eligible Lender at Request of Borrower; Circumstances; Denial of Request__ 
 
-[Pub. L. 100–50, § 10(r)(2)][/us/pl/100/50/s10/r/2], June 3, 1987, [101 Stat. 344][/us/stat/101/344], provided that: 
+[Pub. L. 100–50][/us/pl/100/50], § 10(r)(2), June 3, 1987, [101 Stat. 344][/us/stat/101/344], provided that: 
 
 > “An eligible lender who has refinanced a loan or loans under section 428A(d) \[former [20 U.S.C. 1078–1(d)][/us/usc/t20/s1078–1/d]\] or 428B(d) \[[20 U.S.C. 1078–2(d)][/us/usc/t20/s1078–2/d]\] between the date of enactment of the Higher Education Amendments of 1986 \[Oct. 17, 1986\] and July 1, 1987, may, at the request of a borrower or with the written consent of the borrower, amend the note or other written evidence of loan as necessary to comply with the requirements of such sections and section 427A(c)(4) \[[20 U.S.C. 1077a(c)(4)][/us/usc/t20/s1077a/c/4]\] as amended by this Act. Any borrower who is denied such a request shall be treated as eligible to obtain a loan from another lender under section 428A(d)(3) or 428B(d)(3), as applicable, for the purposes of discharging the loan from the original lender, and a borrower exercising this option shall not be subject to an additional insurance fee under section 428A(d)(3)(C) or 428B(d)(3)(C).”
 
@@ -293,75 +293,75 @@
 [/us/usc/t20/s1077a/c/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1077a%2Fc%2F4
 [/us/usc/t20/s1091/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1091%2Fg
 [/us/usc/t20/s1091/p]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1091%2Fp
-[/us/pl/89/329/s428B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2Fs428B
-[/us/pl/99/498/s402/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F498%2Fs402%2Fa
+[/us/pl/89/329/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2FtIV
+[/us/pl/99/498/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F498%2FtIV
 [/us/stat/100/1386]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1386
-[/us/pl/100/50/s10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F50%2Fs10
+[/us/pl/100/50]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F50
 [/us/stat/101/343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F343
-[/us/pl/102/325/s418]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325%2Fs418
+[/us/pl/102/325/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325%2FtIV
 [/us/stat/106/531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F531
-[/us/pl/103/66/s4109/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66%2Fs4109%2Fa
+[/us/pl/103/66/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66%2FtIV
 [/us/stat/107/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F369
-[/us/pl/105/178/s8301/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178%2Fs8301%2Fa%2F2
+[/us/pl/105/178/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178%2FtVIII
 [/us/stat/112/497]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F497
-[/us/pl/105/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244
+[/us/pl/105/244/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2FtIV
 [/us/stat/112/1680]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F1680
-[/us/pl/109/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F171
+[/us/pl/109/171/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F171%2FtVIII
 [/us/stat/120/158]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F158
 [/us/pl/110/227]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F227
 [/us/stat/122/742]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F742
-[/us/pl/110/315/s424/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2Fs424%2Fa
+[/us/pl/110/315/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2FtIV
 [/us/stat/122/3232]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3232
-[/us/pl/111/39/s402/f/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F39%2Fs402%2Ff%2F2
+[/us/pl/111/39/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F39%2FtIV
 [/us/stat/123/1943]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1943
-[/us/pl/111/152/s2205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F152%2Fs2205
+[/us/pl/111/152/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F152%2FtII
 [/us/stat/124/1075]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1075
-[/us/pl/89/329/s428B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2Fs428B
-[/us/pl/96/374/s419]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F374%2Fs419
+[/us/pl/89/329/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2FtIV
+[/us/pl/96/374/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F374%2FtIV
 [/us/stat/94/1424]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F1424
-[/us/pl/97/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35
+[/us/pl/97/35/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2FtV
 [/us/stat/95/452]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F452
-[/us/pl/98/79/s12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F79%2Fs12
+[/us/pl/98/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F79
 [/us/stat/97/484]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F484
 [/us/pl/99/498]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F498
 [/us/pl/111/152]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F152
-[/us/pl/111/39/s402/f/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F39%2Fs402%2Ff%2F2%2FA
-[/us/pl/111/39/s402/f/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F39%2Fs402%2Ff%2F2%2FB
-[/us/pl/110/227/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F227%2Fs4
-[/us/pl/110/315/s424/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2Fs424%2Fa%2F1
-[/us/pl/110/315/s424/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2Fs424%2Fa%2F2
-[/us/pl/110/227/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F227%2Fs3%2Fa
-[/us/pl/109/171/s8005/c/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F171%2Fs8005%2Fc%2F1%2FA
-[/us/pl/109/171/s8005/c/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F171%2Fs8005%2Fc%2F1%2FB
-[/us/pl/109/171/s8014/g/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F171%2Fs8014%2Fg%2F1
-[/us/pl/109/171/s8005/c/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F171%2Fs8005%2Fc%2F1%2FC
-[/us/pl/109/171/s8014/g/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F171%2Fs8014%2Fg%2F2
-[/us/pl/109/171/s8005/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F171%2Fs8005%2Fc%2F2
-[/us/pl/109/171/s8005/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F171%2Fs8005%2Fc%2F3
-[/us/pl/109/171/s8005/c/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F171%2Fs8005%2Fc%2F4
-[/us/pl/105/244/s419/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2Fs419%2F1
-[/us/pl/105/244/s416/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2Fs416%2Fa%2F2
+[/us/pl/111/39]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F39
+[/us/pl/111/39]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F39
+[/us/pl/110/227]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F227
+[/us/pl/110/315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315
+[/us/pl/110/315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315
+[/us/pl/110/227]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F227
+[/us/pl/109/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F171
+[/us/pl/109/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F171
+[/us/pl/109/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F171
+[/us/pl/109/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F171
+[/us/pl/109/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F171
+[/us/pl/109/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F171
+[/us/pl/109/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F171
+[/us/pl/109/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F171
+[/us/pl/105/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244
+[/us/pl/105/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244
 [/us/pl/105/178]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178
 [/us/usc/t20/s1077a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1077a
 [/us/usc/t20/s1077a/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1077a%2Fc
 [/us/usc/t20/s1078–2/d/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1078%E2%80%932%2Fd%2F4
-[/us/pl/105/244/s419/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2Fs419%2F2
+[/us/pl/105/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244
 [/us/pl/103/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66
 [/us/usc/t20/s1078–7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1078%E2%80%937
-[/us/pl/102/325/s418/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325%2Fs418%2Fa
-[/us/pl/102/325/s418/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325%2Fs418%2Fb%2F1
-[/us/pl/102/325/s418/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325%2Fs418%2Fb%2F2
-[/us/pl/102/325/s418/b/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325%2Fs418%2Fb%2F4
-[/us/pl/102/325/s418/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325%2Fs418%2Fc
-[/us/pl/102/325/s418/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325%2Fs418%2Fb%2F3
-[/us/pl/102/325/s418/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325%2Fs418%2Fb%2F3
-[/us/pl/100/50/s10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F50%2Fs10
-[/us/pl/100/50/s10/p/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F50%2Fs10%2Fp%2F2
-[/us/pl/100/50/s10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F50%2Fs10
-[/us/pl/100/50/s10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F50%2Fs10
-[/us/pl/100/50/s10/r/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F50%2Fs10%2Fr%2F1%2FA
-[/us/pl/100/50/s10/r/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F50%2Fs10%2Fr%2F1%2FB
-[/us/pl/100/50/s10/r/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F50%2Fs10%2Fr%2F1%2FC
+[/us/pl/102/325]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325
+[/us/pl/102/325]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325
+[/us/pl/102/325]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325
+[/us/pl/102/325]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325
+[/us/pl/102/325]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325
+[/us/pl/102/325]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325
+[/us/pl/102/325]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325
+[/us/pl/100/50]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F50
+[/us/pl/100/50]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F50
+[/us/pl/100/50]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F50
+[/us/pl/100/50]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F50
+[/us/pl/100/50]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F50
+[/us/pl/100/50]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F50
+[/us/pl/100/50]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F50
 [/us/pl/111/39]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F39
 [/us/pl/110/315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315
 [/us/pl/111/39/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F39%2Fs3
@@ -383,7 +383,7 @@
 [/us/pl/105/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244
 [/us/pl/105/244/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2Fs3
 [/us/usc/t20/s1001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1001
-[/us/pl/103/66/s4109/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66%2Fs4109%2Fc
+[/us/pl/103/66/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66%2FtIV
 [/us/stat/107/370]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F370
 [/us/usc/t20/s1078–7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1078%E2%80%937
 [/us/pl/102/325]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325
@@ -394,7 +394,7 @@
 [/us/pl/99/498]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F498
 [/us/pl/100/50/s27]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F50%2Fs27
 [/us/usc/t20/s1001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1001
-[/us/pl/100/50/s10/r/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F50%2Fs10%2Fr%2F2
+[/us/pl/100/50]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F50
 [/us/stat/101/344]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F344
 [/us/usc/t20/s1078–1/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1078%E2%80%931%2Fd
 [/us/usc/t20/s1078–2/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1078%E2%80%932%2Fd

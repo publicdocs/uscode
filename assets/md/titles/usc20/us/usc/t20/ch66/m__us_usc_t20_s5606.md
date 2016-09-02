@@ -25,15 +25,15 @@
 
         It shall be the duty of the Secretary of the Treasury to invest, at the direction of the Foundation Board, in full the amounts appropriated to the Trust Fund. Such investments shall be in public debt securities with maturities suitable to the needs of the Trust Fund. Investments in public debt securities shall bear interest “at rates determined by the Secretary of the Treasury taking into consideration the current average market yield on outstanding marketable obligations of the United States” of comparable maturity.
 
-([Pub. L. 102–259, § 8][/us/pl/102/259/s8], Mar. 19, 1992, [106 Stat. 82][/us/stat/106/82]; [Pub. L. 105–156, § 9][/us/pl/105/156/s9], Feb. 11, 1998, [112 Stat. 12][/us/stat/112/12]; [Pub. L. 111–90, § 7][/us/pl/111/90/s7], Nov. 3, 2009, [123 Stat. 2978][/us/stat/123/2978].)
+([Pub. L. 102–259][/us/pl/102/259], § 8, Mar. 19, 1992, [106 Stat. 82][/us/stat/106/82]; [Pub. L. 105–156][/us/pl/105/156], § 9, Feb. 11, 1998, [112 Stat. 12][/us/stat/112/12]; [Pub. L. 111–90][/us/pl/111/90], § 7, Nov. 3, 2009, [123 Stat. 2978][/us/stat/123/2978].)
 
  __Amendments__ 
 
     2009—[Pub. L. 111–90][/us/pl/111/90] substituted “and Stewart L. Udall” for “Scholarship and Excellence in National Environmental Policy” in section catchline and in subsec. (a).
 
-    1998—Subsec. (a). [Pub. L. 105–156, § 9(a)][/us/pl/105/156/s9/a], substituted “The Trust Fund” for “The fund” and “5609(a)” for “5609”.
+    1998—Subsec. (a). [Pub. L. 105–156][/us/pl/105/156], § 9(a), substituted “The Trust Fund” for “The fund” and “5609(a)” for “5609”.
 
-    Subsec. (b). [Pub. L. 105–156, § 9(b)][/us/pl/105/156/s9/b], substituted “Trust Fund” for “Fund” in two places.
+    Subsec. (b). [Pub. L. 105–156][/us/pl/105/156], § 9(b), substituted “Trust Fund” for “Fund” in two places.
 
 ----------
 
@@ -43,14 +43,14 @@
 ----------
 
 [/us/usc/t20/s5609/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs5609%2Fa
-[/us/pl/102/259/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F259%2Fs8
+[/us/pl/102/259]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F259
 [/us/stat/106/82]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F82
-[/us/pl/105/156/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F156%2Fs9
+[/us/pl/105/156]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F156
 [/us/stat/112/12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F12
-[/us/pl/111/90/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F90%2Fs7
+[/us/pl/111/90]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F90
 [/us/stat/123/2978]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F2978
 [/us/pl/111/90]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F90
-[/us/pl/105/156/s9/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F156%2Fs9%2Fa
-[/us/pl/105/156/s9/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F156%2Fs9%2Fb
+[/us/pl/105/156]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F156
+[/us/pl/105/156]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F156
 
 

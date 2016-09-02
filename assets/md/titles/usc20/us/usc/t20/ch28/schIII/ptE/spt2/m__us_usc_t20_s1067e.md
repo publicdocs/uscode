@@ -39,7 +39,7 @@
 
         Notwithstanding the general eligibility provision in [section 1067g of this title][/us/usc/t20/s1067g], eligibility to receive grants under this subpart is limited to partnerships described in paragraph (5) of such section.
 
-([Pub. L. 89–329, title III, § 355][/us/pl/89/329/s355], as added [Pub. L. 110–315, title III, § 315(a)(2)][/us/pl/110/315/s315/a/2], Aug. 14, 2008, [122 Stat. 3182][/us/stat/122/3182]; amended [Pub. L. 111–39, title III, § 301(6)][/us/pl/111/39/s301/6], July 1, 2009, [123 Stat. 1937][/us/stat/123/1937].)
+([Pub. L. 89–329, title III][/us/pl/89/329/tIII], § 355, as added [Pub. L. 110–315, title III][/us/pl/110/315/tIII], § 315(a)(2), Aug. 14, 2008, [122 Stat. 3182][/us/stat/122/3182]; amended [Pub. L. 111–39, title III][/us/pl/111/39/tIII], § 301(6), July 1, 2009, [123 Stat. 1937][/us/stat/123/1937].)
 
  __Prior Provisions__ 
 
@@ -62,10 +62,10 @@
 
 [/us/usc/t20/s1058]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1058
 [/us/usc/t20/s1067g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1067g
-[/us/pl/89/329/s355]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2Fs355
-[/us/pl/110/315/s315/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2Fs315%2Fa%2F2
+[/us/pl/89/329/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2FtIII
+[/us/pl/110/315/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2FtIII
 [/us/stat/122/3182]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3182
-[/us/pl/111/39/s301/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F39%2Fs301%2F6
+[/us/pl/111/39/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F39%2FtIII
 [/us/stat/123/1937]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1937
 [/us/pl/89/329/s355]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2Fs355
 [/us/usc/t20/s1069a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1069a

@@ -11,13 +11,13 @@
 ----------
 ----------
 
-[Previous](./../../../../../..//us/usc/t20/ch17/schV/ptA/m__us_usc_t20_ch17_schV_ptA.md) | [Next](./../../../../../..//us/usc/t20/ch17/schV/ptB/m__us_usc_t20_s491.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fch17%2FschV%2FptB)
+[Previous](./../../../../../..//us/usc/t20/ch17/schV/ptA/m__us_usc_t20_s481...485.md) | [Next](./../../../../../..//us/usc/t20/ch17/schV/ptB/m__us_usc_t20_s491.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fch17%2FschV%2FptB)
 
 #### Part B—Counseling and Guidance Training Institutes
 
 ----------
 
-[Previous](./../../../../../..//us/usc/t20/ch17/schV/ptA/m__us_usc_t20_ch17_schV_ptA.md) | [Next](./../../../../../..//us/usc/t20/ch17/schV/ptB/m__us_usc_t20_s491.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fch17%2FschV%2FptB)
+[Previous](./../../../../../..//us/usc/t20/ch17/schV/ptA/m__us_usc_t20_s481...485.md) | [Next](./../../../../../..//us/usc/t20/ch17/schV/ptB/m__us_usc_t20_s491.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fch17%2FschV%2FptB)
 
 ----------
 ----------

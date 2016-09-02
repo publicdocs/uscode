@@ -11,64 +11,16 @@
 ----------
 ----------
 
-[Previous](./../../../../../..//us/usc/t20/ch40/schI/m__us_usc_t20_ch40_schI.md) | [Next](./../../../../../..//us/usc/t20/ch40/schI/ptB/m__us_usc_t20_ch40_schI_ptB.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fch40%2FschI%2FptA)
+[Previous](./../../../../../..//us/usc/t20/ch40/schI/m__us_usc_t20_ch40_schI.md) | [Next](./../../../../../..//us/usc/t20/ch40/schI/ptA/m__us_usc_t20_s1801...1806.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fch40%2FschI%2FptA)
 
 #### Part A—General Provisions
 
-§§ 1801 to 1806. __Omitted__ 
-
- __Codification__ 
-
-    Sections were omitted in the general revision of the Elementary and Secondary Education Act of 1965, titles I to IX of [Pub. L. 89–10][/us/pl/89/10], Apr. 11, 1965, [79 Stat. 27][/us/stat/79/27], by [Pub. L. 95–561][/us/pl/95/561], Nov. 1, 1978, [92 Stat. 2143][/us/stat/92/2143].
-
-    Section 1801, [Pub. L. 89–10, title IV, § 401][/us/pl/89/10/s401], as added [Pub. L. 93–380, title IV, § 401][/us/pl/93/380/s401], Aug. 21, 1974, [88 Stat. 535][/us/stat/88/535]; amended [Pub. L. 94–482, title III, § 328][/us/pl/94/482/s328], Oct. 12, 1976, [90 Stat. 2220][/us/stat/90/2220]; [Pub. L. 95–112, § 2(d)][/us/pl/95/112/s2/d], Sept. 24, 1977, [91 Stat. 911][/us/stat/91/911], authorized appropriations for making grants for libraries and library resources for fiscal years ending prior to Oct. 1, 1979.
-
-    Section 1802, [Pub. L. 89–10, title IV, § 402][/us/pl/89/10/s402], as added [Pub. L. 93–380, title IV, § 401][/us/pl/93/380/s401], Aug. 21, 1974, [88 Stat. 537][/us/stat/88/537], provided for allotments to States.
-
-    Section 1803, [Pub. L. 89–10, title IV, § 403][/us/pl/89/10/s403], as added [Pub. L. 93–380, title IV, § 401][/us/pl/93/380/s401], Aug. 21, 1974, [88 Stat. 538][/us/stat/88/538]; amended [Pub. L. 94–482, title III, § 323(a)(3)][/us/pl/94/482/s323/a/3], title V, § 501(e)(1), Oct. 12, 1976, [90 Stat. 2217][/us/stat/90/2217], 2237, provided for structure and function of State plans.
-
-    Section 1804, [Pub. L. 89–10, title IV, § 404][/us/pl/89/10/s404], as added [Pub. L. 93–380, title IV, § 401][/us/pl/93/380/s401], Aug. 21, 1974, [88 Stat. 540][/us/stat/88/540], directed Commissioner to afford the State educational agency reasonable notice and opportunity for a hearing prior to final disapproval of a State plan.
-
-    Section 1805, [Pub. L. 89–10, title IV, § 405][/us/pl/89/10/s405], as added [Pub. L. 93–380, title IV, § 401][/us/pl/93/380/s401], Aug. 21, 1974, [88 Stat. 541][/us/stat/88/541], related to payments to States.
-
-    Section 1806, [Pub. L. 89–10, title IV, § 406][/us/pl/89/10/s406], as added [Pub. L. 93–380, title IV, § 401][/us/pl/93/380/s401], Aug. 21, 1974, [88 Stat. 541][/us/stat/88/541]; amended [Pub. L. 94–482, title III, § 324][/us/pl/94/482/s324], title V, § 501(r), Oct. 12, 1976, [90 Stat. 2220][/us/stat/90/2220], 2238, related to participation of children enrolled in private schools.
-
 ----------
 
-[Previous](./../../../../../..//us/usc/t20/ch40/schI/m__us_usc_t20_ch40_schI.md) | [Next](./../../../../../..//us/usc/t20/ch40/schI/ptB/m__us_usc_t20_ch40_schI_ptB.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fch40%2FschI%2FptA)
+[Previous](./../../../../../..//us/usc/t20/ch40/schI/m__us_usc_t20_ch40_schI.md) | [Next](./../../../../../..//us/usc/t20/ch40/schI/ptA/m__us_usc_t20_s1801...1806.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fch40%2FschI%2FptA)
 
 ----------
 ----------
 
-[/us/pl/89/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F10
-[/us/stat/79/27]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F27
-[/us/pl/95/561]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F561
-[/us/stat/92/2143]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2143
-[/us/pl/89/10/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F10%2Fs401
-[/us/pl/93/380/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F380%2Fs401
-[/us/stat/88/535]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F535
-[/us/pl/94/482/s328]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F482%2Fs328
-[/us/stat/90/2220]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2220
-[/us/pl/95/112/s2/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F112%2Fs2%2Fd
-[/us/stat/91/911]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F911
-[/us/pl/89/10/s402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F10%2Fs402
-[/us/pl/93/380/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F380%2Fs401
-[/us/stat/88/537]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F537
-[/us/pl/89/10/s403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F10%2Fs403
-[/us/pl/93/380/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F380%2Fs401
-[/us/stat/88/538]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F538
-[/us/pl/94/482/s323/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F482%2Fs323%2Fa%2F3
-[/us/stat/90/2217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2217
-[/us/pl/89/10/s404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F10%2Fs404
-[/us/pl/93/380/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F380%2Fs401
-[/us/stat/88/540]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F540
-[/us/pl/89/10/s405]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F10%2Fs405
-[/us/pl/93/380/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F380%2Fs401
-[/us/stat/88/541]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F541
-[/us/pl/89/10/s406]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F10%2Fs406
-[/us/pl/93/380/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F380%2Fs401
-[/us/stat/88/541]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F541
-[/us/pl/94/482/s324]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F482%2Fs324
-[/us/stat/90/2220]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2220
 
 

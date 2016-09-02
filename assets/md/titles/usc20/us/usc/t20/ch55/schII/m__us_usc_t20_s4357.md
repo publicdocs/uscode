@@ -99,33 +99,33 @@
 
         The provisions of this section shall take effect as if included in this chapter as enacted on August 4, 1986.
 
-([Pub. L. 99–371, title II, § 207][/us/pl/99/371/s207], as added [Pub. L. 102–421, title I, § 137(2)][/us/pl/102/421/s137/2], Oct. 16, 1992, [106 Stat. 2159][/us/stat/106/2159]; amended [Pub. L. 103–73, title II, § 204(f)][/us/pl/103/73/s204/f], Aug. 11, 1993, [107 Stat. 735][/us/stat/107/735]; [Pub. L. 105–244, title IX, § 919][/us/pl/105/244/s919], Oct. 7, 1998, [112 Stat. 1831][/us/stat/112/1831]; [Pub. L. 110–315, title IX, § 909][/us/pl/110/315/s909], Aug. 14, 2008, [122 Stat. 3453][/us/stat/122/3453].)
+([Pub. L. 99–371, title II][/us/pl/99/371/tII], § 207, as added [Pub. L. 102–421, title I][/us/pl/102/421/tI], § 137(2), Oct. 16, 1992, [106 Stat. 2159][/us/stat/106/2159]; amended [Pub. L. 103–73, title II][/us/pl/103/73/tII], § 204(f), Aug. 11, 1993, [107 Stat. 735][/us/stat/107/735]; [Pub. L. 105–244, title IX][/us/pl/105/244/tIX], § 919, Oct. 7, 1998, [112 Stat. 1831][/us/stat/112/1831]; [Pub. L. 110–315, title IX][/us/pl/110/315/tIX], § 909, Aug. 14, 2008, [122 Stat. 3453][/us/stat/122/3453].)
 
  __Prior Provisions__ 
 
-    A prior section 4357, [Pub. L. 99–371, title II, § 207][/us/pl/99/371/s207], formerly title IV, § 407, Aug. 4, 1986, [100 Stat. 791][/us/stat/100/791]; renumbered title II, § 207, [Pub. L. 102–421, title I, § 101(b)(5)][/us/pl/102/421/s101/b/5], (6), Oct. 16, 1992, [106 Stat. 2151][/us/stat/106/2151], provided for Gallaudet University Federal endowment program, prior to repeal effective Oct. 1, 1992, by [Pub. L. 102–421, title I][/us/pl/102/421], §§ 137(1), 161, Oct. 16, 1992, [106 Stat. 2159][/us/stat/106/2159], 2164.
+    A prior section 4357, [Pub. L. 99–371, title II][/us/pl/99/371/tII], § 207, formerly title IV, § 407, Aug. 4, 1986, [100 Stat. 791][/us/stat/100/791]; renumbered title II, § 207, [Pub. L. 102–421, title I][/us/pl/102/421/tI], § 101(b)(5), (6), Oct. 16, 1992, [106 Stat. 2151][/us/stat/106/2151], provided for Gallaudet University Federal endowment program, prior to repeal effective Oct. 1, 1992, by [Pub. L. 102–421, title I][/us/pl/102/421/tI], §§ 137(1), 161, Oct. 16, 1992, [106 Stat. 2159][/us/stat/106/2159], 2164.
 
  __Amendments__ 
 
     2008—Subsec. (h)(1), (2). [Pub. L. 110–315][/us/pl/110/315] substituted “fiscal years 2009 through 2014” for “fiscal years 1998 through 2003”.
 
-    1998—Subsec. (b)(2). [Pub. L. 105–244, § 919(1)(A)][/us/pl/105/244/s919/1/A], amended par. (2) generally. Prior to amendment, par. (2) read as follows: “Subject to the availability of appropriations and the non-Federal matching requirements of paragraph (3), the Secretary shall make payments to each Federal endowment fund in amounts equal to sums contributed to the fund from non-Federal sources (excluding transfers from other endowment funds of the institution involved).”
+    1998—Subsec. (b)(2). [Pub. L. 105–244][/us/pl/105/244], § 919(1)(A), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “Subject to the availability of appropriations and the non-Federal matching requirements of paragraph (3), the Secretary shall make payments to each Federal endowment fund in amounts equal to sums contributed to the fund from non-Federal sources (excluding transfers from other endowment funds of the institution involved).”
 
-    Subsec. (b)(3). [Pub. L. 105–244, § 919(1)(B)][/us/pl/105/244/s919/1/B], struck out par. (3) which read as follows: “Effective for fiscal year 1993 and each succeeding fiscal year, for any fiscal year in which the sums contributed to the Federal endowment fund of the institution involved from non-Federal sources exceed $1,000,000, the non-Federal contribution to the Federal endowment fund shall be $2 for each Federal dollar provided in excess of $1,000,000 (excluding transfers from other endowment funds of the institution involved).”
+    Subsec. (b)(3). [Pub. L. 105–244][/us/pl/105/244], § 919(1)(B), struck out par. (3) which read as follows: “Effective for fiscal year 1993 and each succeeding fiscal year, for any fiscal year in which the sums contributed to the Federal endowment fund of the institution involved from non-Federal sources exceed $1,000,000, the non-Federal contribution to the Federal endowment fund shall be $2 for each Federal dollar provided in excess of $1,000,000 (excluding transfers from other endowment funds of the institution involved).”
 
-    Subsec. (c)(1). [Pub. L. 105–244, § 919(2)][/us/pl/105/244/s919/2], inserted “the Federal contribution of” after “shall invest”.
+    Subsec. (c)(1). [Pub. L. 105–244][/us/pl/105/244], § 919(2), inserted “the Federal contribution of” after “shall invest”.
 
-    Subsec. (d)(2)(C). [Pub. L. 105–244, § 919(3)(A)][/us/pl/105/244/s919/3/A], substituted “The University” for “Beginning on October 1, 1992, the University”.
+    Subsec. (d)(2)(C). [Pub. L. 105–244][/us/pl/105/244], § 919(3)(A), substituted “The University” for “Beginning on October 1, 1992, the University”.
 
-    Subsec. (d)(3)(A). [Pub. L. 105–244, § 919(3)(B)][/us/pl/105/244/s919/3/B], substituted “current” for “prior”.
+    Subsec. (d)(3)(A). [Pub. L. 105–244][/us/pl/105/244], § 919(3)(B), substituted “current” for “prior”.
 
-    Subsec. (h)(1), (2). [Pub. L. 105–244, § 919(4)][/us/pl/105/244/s919/4], substituted “1998 through 2003” for “1993 through 1997”.
+    Subsec. (h)(1), (2). [Pub. L. 105–244][/us/pl/105/244], § 919(4), substituted “1998 through 2003” for “1993 through 1997”.
 
-    1993—Subsec. (c)(3). [Pub. L. 103–73, § 204(f)(1)][/us/pl/103/73/s204/f/1], substituted “advisory group established under [section 4332 of this title][/us/usc/t20/s4332]” for “Advisory Board of NTID”.
+    1993—Subsec. (c)(3). [Pub. L. 103–73][/us/pl/103/73], § 204(f)(1), substituted “advisory group established under [section 4332 of this title][/us/usc/t20/s4332]” for “Advisory Board of NTID”.
 
-    Subsec. (e). [Pub. L. 103–73, § 204(f)(2)][/us/pl/103/73/s204/f/2], substituted “such investment limitations or” for “such investment limitations and”.
+    Subsec. (e). [Pub. L. 103–73][/us/pl/103/73], § 204(f)(2), substituted “such investment limitations or” for “such investment limitations and”.
 
-    Subsec. (i). [Pub. L. 103–73, § 204(f)(3)][/us/pl/103/73/s204/f/3], substituted “this chapter as enacted on August 4, 1986” for “the provisions of the Education of the Deaf Act of 1986”.
+    Subsec. (i). [Pub. L. 103–73][/us/pl/103/73], § 204(f)(3), substituted “this chapter as enacted on August 4, 1986” for “the provisions of the Education of the Deaf Act of 1986”.
 
  __Effective Date of 1998 Amendment__ 
 
@@ -141,32 +141,32 @@
 [/us/usc/t20/s4332]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs4332
 [/us/usc/t26/s501/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs501%2Ff
 [/us/usc/t20/s4332]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs4332
-[/us/pl/99/371/s207]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F371%2Fs207
-[/us/pl/102/421/s137/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F421%2Fs137%2F2
+[/us/pl/99/371/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F371%2FtII
+[/us/pl/102/421/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F421%2FtI
 [/us/stat/106/2159]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2159
-[/us/pl/103/73/s204/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F73%2Fs204%2Ff
+[/us/pl/103/73/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F73%2FtII
 [/us/stat/107/735]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F735
-[/us/pl/105/244/s919]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2Fs919
+[/us/pl/105/244/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2FtIX
 [/us/stat/112/1831]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F1831
-[/us/pl/110/315/s909]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2Fs909
+[/us/pl/110/315/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2FtIX
 [/us/stat/122/3453]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3453
-[/us/pl/99/371/s207]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F371%2Fs207
+[/us/pl/99/371/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F371%2FtII
 [/us/stat/100/791]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F791
-[/us/pl/102/421/s101/b/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F421%2Fs101%2Fb%2F5
+[/us/pl/102/421/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F421%2FtI
 [/us/stat/106/2151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2151
-[/us/pl/102/421]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F421
+[/us/pl/102/421/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F421%2FtI
 [/us/stat/106/2159]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2159
 [/us/pl/110/315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315
-[/us/pl/105/244/s919/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2Fs919%2F1%2FA
-[/us/pl/105/244/s919/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2Fs919%2F1%2FB
-[/us/pl/105/244/s919/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2Fs919%2F2
-[/us/pl/105/244/s919/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2Fs919%2F3%2FA
-[/us/pl/105/244/s919/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2Fs919%2F3%2FB
-[/us/pl/105/244/s919/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2Fs919%2F4
-[/us/pl/103/73/s204/f/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F73%2Fs204%2Ff%2F1
+[/us/pl/105/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244
+[/us/pl/105/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244
+[/us/pl/105/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244
+[/us/pl/105/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244
+[/us/pl/105/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244
+[/us/pl/105/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244
+[/us/pl/103/73]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F73
 [/us/usc/t20/s4332]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs4332
-[/us/pl/103/73/s204/f/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F73%2Fs204%2Ff%2F2
-[/us/pl/103/73/s204/f/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F73%2Fs204%2Ff%2F3
+[/us/pl/103/73]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F73
+[/us/pl/103/73]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F73
 [/us/pl/105/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244
 [/us/pl/105/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244
 [/us/pl/105/244/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2Fs3

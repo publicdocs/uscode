@@ -11,116 +11,16 @@
 ----------
 ----------
 
-[Previous](./../../../../../..//us/usc/t20/ch47/schIV/m__us_usc_t20_ch47_schIV.md) | [Next](./../../../../../..//us/usc/t20/ch47/schIV/ptB/m__us_usc_t20_ch47_schIV_ptB.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fch47%2FschIV%2FptA)
+[Previous](./../../../../../..//us/usc/t20/ch47/schIV/m__us_usc_t20_ch47_schIV.md) | [Next](./../../../../../..//us/usc/t20/ch47/schIV/ptA/m__us_usc_t20_s3041...3047.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fch47%2FschIV%2FptA)
 
 #### Part A—Women’s Educational Equity
 
-§§ 3041 to 3047. __Omitted__ 
-
- __Codification__ 
-
-    Sections were omitted in the general amendment of the Elementary and Secondary Education Act of 1965, [Pub. L. 89–10][/us/pl/89/10], by [Pub. L. 103–382, title I, § 101][/us/pl/103/382/s101], Oct. 20, 1994, [108 Stat. 3519][/us/stat/108/3519].
-
-    Section 3041, [Pub. L. 89–10, title IV, § 4001][/us/pl/89/10/s4001], as added [Pub. L. 100–297, title I, § 1001][/us/pl/100/297/s1001], Apr. 28, 1988, [102 Stat. 234][/us/stat/102/234], provided that this part could be cited as the “Women’s Educational Equity Act” and stated Congressional findings and purpose.
-
-    A prior section 3041, [Pub. L. 89–10, title III, § 376][/us/pl/89/10/s376], as added [Pub. L. 95–561, title III, § 301(a)][/us/pl/95/561/s301/a], Nov. 1, 1978, [92 Stat. 2222][/us/stat/92/2222]; amended [Pub. L. 96–88, title III, § 301(a)(1)][/us/pl/96/88/s301/a/1], title V, § 507, Oct. 17, 1979, [93 Stat. 677][/us/stat/93/677], 692, related to allocation of funds for dissemination of information, prior to repeal by [Pub. L. 97–35, title V, § 587(a)(1)][/us/pl/97/35/s587/a/1], Aug. 13, 1981, [95 Stat. 480][/us/stat/95/480], eff. Oct. 1, 1982.
-
-    Section 3042, [Pub. L. 89–10, title IV, § 4002][/us/pl/89/10/s4002], as added [Pub. L. 100–297, title I, § 1001][/us/pl/100/297/s1001], Apr. 28, 1988, [102 Stat. 234][/us/stat/102/234], authorized grants and contracts for program to achieve educational equity for women.
-
-    Section 3043, [Pub. L. 89–10, title IV, § 4003][/us/pl/89/10/s4003], as added [Pub. L. 100–297, title I, § 1001][/us/pl/100/297/s1001], Apr. 28, 1988, [102 Stat. 235][/us/stat/102/235], related to applications and to participation by men and boys.
-
-    Section 3044, [Pub. L. 89–10, title IV, § 4004][/us/pl/89/10/s4004], as added [Pub. L. 100–297, title I, § 1001][/us/pl/100/297/s1001], Apr. 28, 1988, [102 Stat. 236][/us/stat/102/236], related to challenge grants.
-
-    Section 3045, [Pub. L. 89–10, title IV, § 4005][/us/pl/89/10/s4005], as added [Pub. L. 100–297, title I, § 1001][/us/pl/100/297/s1001], Apr. 28, 1988, [102 Stat. 236][/us/stat/102/236], related to criteria and priorities for grant and contract awards.
-
-    Section 3046, [Pub. L. 89–10, title IV, § 4006][/us/pl/89/10/s4006], as added [Pub. L. 100–297, title I, § 1001][/us/pl/100/297/s1001], Apr. 28, 1988, [102 Stat. 236][/us/stat/102/236], related to reports and to evaluation and dissemination of materials and programs.
-
-    Section 3047, [Pub. L. 89–10, title IV, § 4007][/us/pl/89/10/s4007], as added [Pub. L. 100–297, title I, § 1001][/us/pl/100/297/s1001], Apr. 28, 1988, [102 Stat. 237][/us/stat/102/237], authorized appropriations.
-
-    Sections 3051 to 3057 were repealed by [Pub. L. 97–35, title V, § 587(a)(1)][/us/pl/97/35/s587/a/1], Aug. 13, 1981, [95 Stat. 480][/us/stat/95/480], eff. Oct. 1, 1982.
-
-    Section 3051, [Pub. L. 89–10, title III, § 381][/us/pl/89/10/s381], as added [Pub. L. 95–561, title III, § 301(a)][/us/pl/95/561/s301/a], Nov. 1, 1978, [92 Stat. 2223][/us/stat/92/2223], set out findings and purpose for program of training in biomedical sciences.
-
-    Section 3052, [Pub. L. 89–10, title III, § 382][/us/pl/89/10/s382], as added [Pub. L. 95–561, title III, § 301(a)][/us/pl/95/561/s301/a], Nov. 1, 1978, [92 Stat. 2223][/us/stat/92/2223], set out definitions for program of training in biomedical sciences.
-
-    Section 3053, [Pub. L. 89–10, title III, § 383][/us/pl/89/10/s383], as added [Pub. L. 95–561, title III, § 301(a)][/us/pl/95/561/s301/a], Nov. 1, 1978, [92 Stat. 2224][/us/stat/92/2224]; amended [Pub. L. 96–88, title III, § 301(a)(1)][/us/pl/96/88/s301/a/1], title V, § 507, Oct. 17, 1979, [93 Stat. 677][/us/stat/93/677], 692, related to projects for economically disadvantaged students.
-
-    Section 3054, [Pub. L. 89–10, title III, § 384][/us/pl/89/10/s384], as added [Pub. L. 95–561, title III, § 301(a)][/us/pl/95/561/s301/a], Nov. 1, 1978, [92 Stat. 2224][/us/stat/92/2224]; amended [Pub. L. 96–88, title III, § 301(a)(1)][/us/pl/96/88/s301/a/1], title V, § 507, Oct. 17, 1979, [93 Stat. 677][/us/stat/93/677], 692, related to project activities and funding requirements.
-
-    Section 3055, [Pub. L. 89–10, title III, § 385][/us/pl/89/10/s385], as added [Pub. L. 95–561, title III, § 301(a)][/us/pl/95/561/s301/a], Nov. 1, 1978, [92 Stat. 2226][/us/stat/92/2226]; amended [Pub. L. 96–88, title III, § 301(a)(1)][/us/pl/96/88/s301/a/1], title V, § 507, Oct. 17, 1979, [93 Stat. 677][/us/stat/93/677], 692, related to applications for assistance.
-
-    Section 3056, [Pub. L. 89–10, title III, § 386][/us/pl/89/10/s386], as added [Pub. L. 95–561, title III, § 301(a)][/us/pl/95/561/s301/a], Nov. 1, 1978, [92 Stat. 2227][/us/stat/92/2227]; amended [Pub. L. 96–88, title III, § 301(a)(1)][/us/pl/96/88/s301/a/1], title V, § 507, Oct. 17, 1979, [93 Stat. 677][/us/stat/93/677], 692, related to use of funds appropriated.
-
-    Section 3057, [Pub. L. 89–10, title III, § 387][/us/pl/89/10/s387], as added [Pub. L. 95–561, title III, § 301(a)][/us/pl/95/561/s301/a], Nov. 1, 1978, [92 Stat. 2227][/us/stat/92/2227], authorized appropriations.
-
 ----------
 
-[Previous](./../../../../../..//us/usc/t20/ch47/schIV/m__us_usc_t20_ch47_schIV.md) | [Next](./../../../../../..//us/usc/t20/ch47/schIV/ptB/m__us_usc_t20_ch47_schIV_ptB.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fch47%2FschIV%2FptA)
+[Previous](./../../../../../..//us/usc/t20/ch47/schIV/m__us_usc_t20_ch47_schIV.md) | [Next](./../../../../../..//us/usc/t20/ch47/schIV/ptA/m__us_usc_t20_s3041...3047.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fch47%2FschIV%2FptA)
 
 ----------
 ----------
 
-[/us/pl/89/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F10
-[/us/pl/103/382/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F382%2Fs101
-[/us/stat/108/3519]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3519
-[/us/pl/89/10/s4001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F10%2Fs4001
-[/us/pl/100/297/s1001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F297%2Fs1001
-[/us/stat/102/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F234
-[/us/pl/89/10/s376]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F10%2Fs376
-[/us/pl/95/561/s301/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F561%2Fs301%2Fa
-[/us/stat/92/2222]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2222
-[/us/pl/96/88/s301/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F88%2Fs301%2Fa%2F1
-[/us/stat/93/677]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F677
-[/us/pl/97/35/s587/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs587%2Fa%2F1
-[/us/stat/95/480]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F480
-[/us/pl/89/10/s4002]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F10%2Fs4002
-[/us/pl/100/297/s1001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F297%2Fs1001
-[/us/stat/102/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F234
-[/us/pl/89/10/s4003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F10%2Fs4003
-[/us/pl/100/297/s1001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F297%2Fs1001
-[/us/stat/102/235]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F235
-[/us/pl/89/10/s4004]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F10%2Fs4004
-[/us/pl/100/297/s1001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F297%2Fs1001
-[/us/stat/102/236]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F236
-[/us/pl/89/10/s4005]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F10%2Fs4005
-[/us/pl/100/297/s1001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F297%2Fs1001
-[/us/stat/102/236]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F236
-[/us/pl/89/10/s4006]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F10%2Fs4006
-[/us/pl/100/297/s1001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F297%2Fs1001
-[/us/stat/102/236]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F236
-[/us/pl/89/10/s4007]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F10%2Fs4007
-[/us/pl/100/297/s1001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F297%2Fs1001
-[/us/stat/102/237]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F237
-[/us/pl/97/35/s587/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs587%2Fa%2F1
-[/us/stat/95/480]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F480
-[/us/pl/89/10/s381]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F10%2Fs381
-[/us/pl/95/561/s301/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F561%2Fs301%2Fa
-[/us/stat/92/2223]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2223
-[/us/pl/89/10/s382]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F10%2Fs382
-[/us/pl/95/561/s301/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F561%2Fs301%2Fa
-[/us/stat/92/2223]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2223
-[/us/pl/89/10/s383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F10%2Fs383
-[/us/pl/95/561/s301/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F561%2Fs301%2Fa
-[/us/stat/92/2224]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2224
-[/us/pl/96/88/s301/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F88%2Fs301%2Fa%2F1
-[/us/stat/93/677]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F677
-[/us/pl/89/10/s384]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F10%2Fs384
-[/us/pl/95/561/s301/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F561%2Fs301%2Fa
-[/us/stat/92/2224]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2224
-[/us/pl/96/88/s301/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F88%2Fs301%2Fa%2F1
-[/us/stat/93/677]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F677
-[/us/pl/89/10/s385]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F10%2Fs385
-[/us/pl/95/561/s301/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F561%2Fs301%2Fa
-[/us/stat/92/2226]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2226
-[/us/pl/96/88/s301/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F88%2Fs301%2Fa%2F1
-[/us/stat/93/677]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F677
-[/us/pl/89/10/s386]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F10%2Fs386
-[/us/pl/95/561/s301/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F561%2Fs301%2Fa
-[/us/stat/92/2227]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2227
-[/us/pl/96/88/s301/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F88%2Fs301%2Fa%2F1
-[/us/stat/93/677]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F677
-[/us/pl/89/10/s387]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F10%2Fs387
-[/us/pl/95/561/s301/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F561%2Fs301%2Fa
-[/us/stat/92/2227]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2227
 
 

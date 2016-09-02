@@ -119,11 +119,11 @@
 
             In calculating the minimum reserve level required by [section 1078(c)(9)(A) of this title][/us/usc/t20/s1078/c/9/A], the Secretary shall include all amounts owed to the Federal Fund by the guaranty agency in the calculation.
 
-([Pub. L. 89–329, title IV, § 422A][/us/pl/89/329/s422A], as added [Pub. L. 105–244, title IV, § 413(a)][/us/pl/105/244/s413/a], Oct. 7, 1998, [112 Stat. 1674][/us/stat/112/1674]; amended [Pub. L. 110–315, title IV, § 438(a)(1)][/us/pl/110/315/s438/a/1], Aug. 14, 2008, [122 Stat. 3258][/us/stat/122/3258].)
+([Pub. L. 89–329, title IV][/us/pl/89/329/tIV], § 422A, as added [Pub. L. 105–244, title IV][/us/pl/105/244/tIV], § 413(a), Oct. 7, 1998, [112 Stat. 1674][/us/stat/112/1674]; amended [Pub. L. 110–315, title IV][/us/pl/110/315/tIV], § 438(a)(1), Aug. 14, 2008, [122 Stat. 3258][/us/stat/122/3258].)
 
  __References in Text__ 
 
-    [Section 1078(c)(6)(A) of this title][/us/usc/t20/s1078/c/6/A], referred to in subsec. (c)(2)(A), was redesignated [section 1078(c)(6)(A)(i) of this title][/us/usc/t20/s1078/c/6/A/i] by [Pub. L. 109–171, title VIII, § 8014(d)(3)(A)][/us/pl/109/171/s8014/d/3/A], (B), Feb. 8, 2006, [120 Stat. 170][/us/stat/120/170].
+    [Section 1078(c)(6)(A) of this title][/us/usc/t20/s1078/c/6/A], referred to in subsec. (c)(2)(A), was redesignated [section 1078(c)(6)(A)(i) of this title][/us/usc/t20/s1078/c/6/A/i] by [Pub. L. 109–171, title VIII][/us/pl/109/171/tVIII], § 8014(d)(3)(A), (B), Feb. 8, 2006, [120 Stat. 170][/us/stat/120/170].
 
  __Amendments__ 
 
@@ -148,14 +148,14 @@
 [/us/usc/t20/s1072b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1072b
 [/us/usc/t20/s1072]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1072
 [/us/usc/t20/s1078/c/9/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1078%2Fc%2F9%2FA
-[/us/pl/89/329/s422A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2Fs422A
-[/us/pl/105/244/s413/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2Fs413%2Fa
+[/us/pl/89/329/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2FtIV
+[/us/pl/105/244/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2FtIV
 [/us/stat/112/1674]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F1674
-[/us/pl/110/315/s438/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2Fs438%2Fa%2F1
+[/us/pl/110/315/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2FtIV
 [/us/stat/122/3258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3258
 [/us/usc/t20/s1078/c/6/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1078%2Fc%2F6%2FA
 [/us/usc/t20/s1078/c/6/A/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1078%2Fc%2F6%2FA%2Fi
-[/us/pl/109/171/s8014/d/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F171%2Fs8014%2Fd%2F3%2FA
+[/us/pl/109/171/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F171%2FtVIII
 [/us/stat/120/170]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F170
 [/us/pl/110/315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315
 [/us/pl/105/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244

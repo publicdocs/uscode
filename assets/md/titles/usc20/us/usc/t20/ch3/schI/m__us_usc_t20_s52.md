@@ -21,7 +21,7 @@
 
  __Codification__ 
 
-    R.S. § 5588 derived from [act Aug. 10, 1846, ch. 178, § 4][/us/act/1846-08-10/ch178/s4], [9 Stat. 104][/us/stat/9/104].
+    R.S. § 5588 derived from [act Aug. 10, 1846, ch. 178][/us/act/1846-08-10/ch178], § 4, [9 Stat. 104][/us/stat/9/104].
 
 ----------
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/act/1846-08-10/ch178/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1846-08-10%2Fch178%2Fs4
+[/us/act/1846-08-10/ch178]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1846-08-10%2Fch178
 [/us/stat/9/104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F9%2F104
 
 

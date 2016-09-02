@@ -21,7 +21,7 @@
 
  __Codification__ 
 
-    R.S. § 5594 derived from [act Aug. 10, 1846, ch. 178, § 11][/us/act/1846-08-10/ch178/s11], [9 Stat. 106][/us/stat/9/106].
+    R.S. § 5594 derived from [act Aug. 10, 1846, ch. 178][/us/act/1846-08-10/ch178], § 11, [9 Stat. 106][/us/stat/9/106].
 
 ----------
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/act/1846-08-10/ch178/s11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1846-08-10%2Fch178%2Fs11
+[/us/act/1846-08-10/ch178]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1846-08-10%2Fch178
 [/us/stat/9/106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F9%2F106
 
 

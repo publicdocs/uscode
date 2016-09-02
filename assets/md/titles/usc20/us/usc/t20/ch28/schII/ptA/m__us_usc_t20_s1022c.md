@@ -27,15 +27,15 @@
 
         (4)
 
-            (A) the percentage of highly qualified teachers hired by the high-need local educational agency participating in the eligible partnership;
+            (A) the percentage of teachers who meet the applicable State certification and licensure requirements, including any requirements for certification obtained through alternative routes to certification, or, with regard to special education teachers, the qualifications described in [section 1412(a)(14)(C) of this title][/us/usc/t20/s1412/a/14/C], hired by the high-need local educational agency participating in the eligible partnership;
 
-            (B) the percentage of highly qualified teachers hired by the high-need local educational agency who are members of underrepresented groups;
+            (B) the percentage of teachers who meet the applicable State certification and licensure requirements, including any requirements for certification obtained through alternative routes to certification, or, with regard to special education teachers, the qualifications described in [section 1412(a)(14)(C) of this title][/us/usc/t20/s1412/a/14/C], hired by the high-need local educational agency who are members of underrepresented groups;
 
-            (C) the percentage of highly qualified teachers hired by the high-need local educational agency who teach high-need academic subject areas (such as reading, mathematics, science, and foreign language, including less commonly taught languages and critical foreign languages);
+            (C) the percentage of teachers who meet the applicable State certification and licensure requirements, including any requirements for certification obtained through alternative routes to certification, or, with regard to special education teachers, the qualifications described in [section 1412(a)(14)(C) of this title][/us/usc/t20/s1412/a/14/C], hired by the high-need local educational agency who teach high-need academic subject areas (such as reading, mathematics, science, and foreign language, including less commonly taught languages and critical foreign languages);
 
-            (D) the percentage of highly qualified teachers hired by the high-need local educational agency who teach in high-need areas (including special education, language instruction educational programs for limited English proficient students, and early childhood education);
+            (D) the percentage of teachers who meet the applicable State certification and licensure requirements, including any requirements for certification obtained through alternative routes to certification, or, with regard to special education teachers, the qualifications described in [section 1412(a)(14)(C) of this title][/us/usc/t20/s1412/a/14/C], hired by the high-need local educational agency who teach in high-need areas (including special education, language instruction educational programs for limited English proficient students, and early childhood education);
 
-            (E) the percentage of highly qualified teachers hired by the high-need local educational agency who teach in high-need schools, disaggregated by the elementary school and secondary school levels;
+            (E) the percentage of teachers who meet the applicable State certification and licensure requirements, including any requirements for certification obtained through alternative routes to certification, or, with regard to special education teachers, the qualifications described in [section 1412(a)(14)(C) of this title][/us/usc/t20/s1412/a/14/C], hired by the high-need local educational agency who teach in high-need schools, disaggregated by the elementary school and secondary school levels;
 
             (F) as applicable, the percentage of early childhood education program classes in the geographic area served by the eligible partnership taught by early childhood educators who are highly competent; and
 
@@ -73,13 +73,21 @@
 
         (2) information regarding such practices that were found to be ineffective.
 
-([Pub. L. 89–329, title II, § 204][/us/pl/89/329/s204], as added [Pub. L. 110–315, title II, § 201(2)][/us/pl/110/315/s201/2], Aug. 14, 2008, [122 Stat. 3146][/us/stat/122/3146].)
+([Pub. L. 89–329, title II][/us/pl/89/329/tII], § 204, as added [Pub. L. 110–315, title II][/us/pl/110/315/tII], § 201(2), Aug. 14, 2008, [122 Stat. 3146][/us/stat/122/3146]; amended [Pub. L. 114–95, title IX][/us/pl/114/95/tIX], § 9214(c)(4), Dec. 10, 2015, [129 Stat. 2162][/us/stat/129/2162].)
 
  __Prior Provisions__ 
 
     A prior [section 204 of Pub. L. 89–329][/us/pl/89/329/s204] was classified to [section 1024 of this title][/us/usc/t20/s1024], prior to repeal by [Pub. L. 110–315][/us/pl/110/315].
 
     Another prior [section 204 of Pub. L. 89–329][/us/pl/89/329/s204] was classified to [section 1024 of this title][/us/usc/t20/s1024], prior to the general amendment of this subchapter by [Pub. L. 96–374][/us/pl/96/374].
+
+ __Amendments__ 
+
+    2015—Subsec. (a)(4)(A) to (E). [Pub. L. 114–95][/us/pl/114/95] substituted “teachers who meet the applicable State certification and licensure requirements, including any requirements for certification obtained through alternative routes to certification, or, with regard to special education teachers, the qualifications described in [section 1412(a)(14)(C) of this title][/us/usc/t20/s1412/a/14/C],” for “highly qualified teachers”.
+
+ __Effective Date of 2015 Amendment__ 
+
+    Amendment by [Pub. L. 114–95][/us/pl/114/95] effective Dec. 10, 2015, except with respect to certain noncompetitive programs and competitive programs, see [section 5 of Pub. L. 114–95][/us/pl/114/95/s5], set out as a note under [section 6301 of this title][/us/usc/t20/s6301].
 
 ----------
 
@@ -88,14 +96,26 @@
 ----------
 ----------
 
-[/us/pl/89/329/s204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2Fs204
-[/us/pl/110/315/s201/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2Fs201%2F2
+[/us/usc/t20/s1412/a/14/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1412%2Fa%2F14%2FC
+[/us/usc/t20/s1412/a/14/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1412%2Fa%2F14%2FC
+[/us/usc/t20/s1412/a/14/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1412%2Fa%2F14%2FC
+[/us/usc/t20/s1412/a/14/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1412%2Fa%2F14%2FC
+[/us/usc/t20/s1412/a/14/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1412%2Fa%2F14%2FC
+[/us/pl/89/329/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2FtII
+[/us/pl/110/315/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2FtII
 [/us/stat/122/3146]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3146
+[/us/pl/114/95/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F95%2FtIX
+[/us/stat/129/2162]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F2162
 [/us/pl/89/329/s204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2Fs204
 [/us/usc/t20/s1024]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1024
 [/us/pl/110/315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315
 [/us/pl/89/329/s204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2Fs204
 [/us/usc/t20/s1024]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1024
 [/us/pl/96/374]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F374
+[/us/pl/114/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F95
+[/us/usc/t20/s1412/a/14/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1412%2Fa%2F14%2FC
+[/us/pl/114/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F95
+[/us/pl/114/95/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F95%2Fs5
+[/us/usc/t20/s6301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs6301
 
 

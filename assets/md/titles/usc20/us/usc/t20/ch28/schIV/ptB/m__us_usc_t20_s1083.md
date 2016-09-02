@@ -235,7 +235,7 @@
 
             The Secretary may limit, suspend, or terminate the continued participation of an eligible lender in making loans under this part for failure by that lender to comply with this section.
 
-([Pub. L. 89–329, title IV, § 433][/us/pl/89/329/s433], as added [Pub. L. 99–498, title IV, § 402(a)][/us/pl/99/498/s402/a], Oct. 17, 1986, [100 Stat. 1406][/us/stat/100/1406]; amended [Pub. L. 100–50, § 10(z)][/us/pl/100/50/s10/z], June 3, 1987, [101 Stat. 346][/us/stat/101/346]; [Pub. L. 102–325, title IV, § 426][/us/pl/102/325/s426], July 23, 1992, [106 Stat. 548][/us/stat/106/548]; [Pub. L. 103–208, § 2(c)(53)][/us/pl/103/208/s2/c/53], (54), (k)(4), Dec. 20, 1993, [107 Stat. 2468][/us/stat/107/2468], 2485; [Pub. L. 105–244, title IV, § 428][/us/pl/105/244/s428], Oct. 7, 1998, [112 Stat. 1704][/us/stat/112/1704]; [Pub. L. 110–315, title IV, § 434(a)][/us/pl/110/315/s434/a], Aug. 14, 2008, [122 Stat. 3247][/us/stat/122/3247].)
+([Pub. L. 89–329, title IV][/us/pl/89/329/tIV], § 433, as added [Pub. L. 99–498, title IV][/us/pl/99/498/tIV], § 402(a), Oct. 17, 1986, [100 Stat. 1406][/us/stat/100/1406]; amended [Pub. L. 100–50][/us/pl/100/50], § 10(z), June 3, 1987, [101 Stat. 346][/us/stat/101/346]; [Pub. L. 102–325, title IV][/us/pl/102/325/tIV], § 426, July 23, 1992, [106 Stat. 548][/us/stat/106/548]; [Pub. L. 103–208][/us/pl/103/208], § 2(c)(53), (54), (k)(4), Dec. 20, 1993, [107 Stat. 2468][/us/stat/107/2468], 2485; [Pub. L. 105–244, title IV][/us/pl/105/244/tIV], § 428, Oct. 7, 1998, [112 Stat. 1704][/us/stat/112/1704]; [Pub. L. 110–315, title IV][/us/pl/110/315/tIV], § 434(a), Aug. 14, 2008, [122 Stat. 3247][/us/stat/122/3247].)
 
  __References in Text__ 
 
@@ -243,41 +243,41 @@
 
  __Prior Provisions__ 
 
-    A prior section 1083, [Pub. L. 89–329, title IV, § 433][/us/pl/89/329/s433], Nov. 8, 1965, [79 Stat. 1247][/us/stat/79/1247]; [Pub. L. 90–575, title I, § 116(d)][/us/pl/90/575/s116/d], Oct. 16, 1968, [82 Stat. 1024][/us/stat/82/1024]; [Pub. L. 92–318, title I, § 132(c)][/us/pl/92/318/s132/c], June 23, 1972, [86 Stat. 261][/us/stat/86/261]; [Pub. L. 94–482, title I, § 127(a)][/us/pl/94/482/s127/a], Oct. 12, 1976, [90 Stat. 2129][/us/stat/90/2129]; [Pub. L. 95–43, § 1(a)(34)][/us/pl/95/43/s1/a/34], June 15, 1977, [91 Stat. 216][/us/stat/91/216]; [Pub. L. 96–374, title XIII, § 1391(a)(1)][/us/pl/96/374/s1391/a/1], Oct. 3, 1980, [94 Stat. 1503][/us/stat/94/1503], related to requirements for institutional lenders, prior to the general revision of this part by [Pub. L. 99–498][/us/pl/99/498].
+    A prior section 1083, [Pub. L. 89–329, title IV][/us/pl/89/329/tIV], § 433, Nov. 8, 1965, [79 Stat. 1247][/us/stat/79/1247]; [Pub. L. 90–575, title I][/us/pl/90/575/tI], § 116(d), Oct. 16, 1968, [82 Stat. 1024][/us/stat/82/1024]; [Pub. L. 92–318, title I][/us/pl/92/318/tI], § 132(c), June 23, 1972, [86 Stat. 261][/us/stat/86/261]; [Pub. L. 94–482, title I][/us/pl/94/482/tI], § 127(a), Oct. 12, 1976, [90 Stat. 2129][/us/stat/90/2129]; [Pub. L. 95–43][/us/pl/95/43], § 1(a)(34), June 15, 1977, [91 Stat. 216][/us/stat/91/216]; [Pub. L. 96–374, title XIII][/us/pl/96/374/tXIII], § 1391(a)(1), Oct. 3, 1980, [94 Stat. 1503][/us/stat/94/1503], related to requirements for institutional lenders, prior to the general revision of this part by [Pub. L. 99–498][/us/pl/99/498].
 
  __Amendments__ 
 
     2008—[Pub. L. 110–315][/us/pl/110/315] amended section generally. Prior to amendment, section consisted of subsecs. (a) to (e) relating to student loan information by eligible lenders.
 
-    1998—Subsec. (a). [Pub. L. 105–244, § 428(a)][/us/pl/105/244/s428/a], amended heading and introductory provisions generally. Prior to amendment, introductory provisions read as follows: “Each eligible lender shall, at or prior to the time such lender disburses a loan which is insured or guaranteed under this part (other than a loan made under [section 1078–3 of this title][/us/usc/t20/s1078–3]), provide thorough and accurate loan information on such loan to the borrower. Any disclosure required by this subsection may be made by an eligible lender as part of the written application material provided to the borrower, or as part of the promissory note evidencing the loan, or on a separate written form provided to the borrower. The disclosure shall include—”.
+    1998—Subsec. (a). [Pub. L. 105–244][/us/pl/105/244], § 428(a), amended heading and introductory provisions generally. Prior to amendment, introductory provisions read as follows: “Each eligible lender shall, at or prior to the time such lender disburses a loan which is insured or guaranteed under this part (other than a loan made under [section 1078–3 of this title][/us/usc/t20/s1078–3]), provide thorough and accurate loan information on such loan to the borrower. Any disclosure required by this subsection may be made by an eligible lender as part of the written application material provided to the borrower, or as part of the promissory note evidencing the loan, or on a separate written form provided to the borrower. The disclosure shall include—”.
 
-    Subsec. (b). [Pub. L. 105–244, § 428(b)][/us/pl/105/244/s428/b], amended heading and introductory provisions generally. Prior to amendment, introductory provisions read as follows: “Each eligible lender shall, at or prior to the start of the repayment period of the student borrower on loans made, insured, or guaranteed under this part, disclose to the borrower the information required under this subsection. For any loan made, insured, or guaranteed under this part, other than a loan made under section 1078–2 or 1078–3 of this title, such disclosure required by this subsection shall be made not less than 30 days nor more than 240 days before the first payment on the loan is due from the borrower. The disclosure shall Ðinclude—”.
+    Subsec. (b). [Pub. L. 105–244][/us/pl/105/244], § 428(b), amended heading and introductory provisions generally. Prior to amendment, introductory provisions read as follows: “Each eligible lender shall, at or prior to the start of the repayment period of the student borrower on loans made, insured, or guaranteed under this part, disclose to the borrower the information required under this subsection. For any loan made, insured, or guaranteed under this part, other than a loan made under section 1078–2 or 1078–3 of this title, such disclosure required by this subsection shall be made not less than 30 days nor more than 240 days before the first payment on the loan is due from the borrower. The disclosure shall Ðinclude—”.
 
-    1993—Subsec. (b). [Pub. L. 103–208, § 2(c)(53)][/us/pl/103/208/s2/c/53], substituted “30 days” for “60 days” in introductory provisions.
+    1993—Subsec. (b). [Pub. L. 103–208][/us/pl/103/208], § 2(c)(53), substituted “30 days” for “60 days” in introductory provisions.
 
-    Subsec. (e). [Pub. L. 103–208, § 2(k)(4)][/us/pl/103/208/s2/k/4], amended directory language of [Pub. L. 102–325, § 426(c)][/us/pl/102/325/s426/c]. See 1992 Amendment note below.
+    Subsec. (e). [Pub. L. 103–208][/us/pl/103/208], § 2(k)(4), amended directory language of [Pub. L. 102–325][/us/pl/102/325], § 426(c). See 1992 Amendment note below.
 
-    [Pub. L. 103–208, § 2(c)(54)][/us/pl/103/208/s2/c/54], substituted “sections” for “section” before “1078–1”.
+    [Pub. L. 103–208][/us/pl/103/208], § 2(c)(54), substituted “sections” for “section” before “1078–1”.
 
-    1992—Subsec. (a). [Pub. L. 102–325, § 426(a)][/us/pl/102/325/s426/a], added par. (1) and redesignated former pars. (1) to (13) as (2) to (14), respectively.
+    1992—Subsec. (a). [Pub. L. 102–325][/us/pl/102/325], § 426(a), added par. (1) and redesignated former pars. (1) to (13) as (2) to (14), respectively.
 
-    Subsec. (b). [Pub. L. 102–325, § 426(b)(1)][/us/pl/102/325/s426/b/1], in introductory provisions, inserted second sentence and struck out former second sentence which read as follows: “Any disclosure required by this subsection may be made by an eligible lender either in a promissory note evidencing the loan or loans or in a written statement provided to the borrower.”
+    Subsec. (b). [Pub. L. 102–325][/us/pl/102/325], § 426(b)(1), in introductory provisions, inserted second sentence and struck out former second sentence which read as follows: “Any disclosure required by this subsection may be made by an eligible lender either in a promissory note evidencing the loan or loans or in a written statement provided to the borrower.”
 
-    Subsec. (b)(8). [Pub. L. 102–325, § 426(b)(2)][/us/pl/102/325/s426/b/2], inserted “except as provided in subsection (e) of this section,” before “the projected”.
+    Subsec. (b)(8). [Pub. L. 102–325][/us/pl/102/325], § 426(b)(2), inserted “except as provided in subsection (e) of this section,” before “the projected”.
 
-    Subsec. (e). [Pub. L. 102–325, § 426(c)][/us/pl/102/325/s426/c], as amended by [Pub. L. 103–208, § 2(k)(4)][/us/pl/103/208/s2/k/4], added subsec. (e).
+    Subsec. (e). [Pub. L. 102–325][/us/pl/102/325], § 426(c), as amended by [Pub. L. 103–208][/us/pl/103/208], § 2(k)(4), added subsec. (e).
 
-    1987—Subsec. (a). [Pub. L. 100–50, § 10(z)(1)][/us/pl/100/50/s10/z/1], inserted “(other than a loan made under [section 1078–3 of this title][/us/usc/t20/s1078–3])” after “this part” in first sentence.
+    1987—Subsec. (a). [Pub. L. 100–50][/us/pl/100/50], § 10(z)(1), inserted “(other than a loan made under [section 1078–3 of this title][/us/usc/t20/s1078–3])” after “this part” in first sentence.
 
-    Subsec. (a)(8). [Pub. L. 100–50, § 10(z)(2)][/us/pl/100/50/s10/z/2], added par. (8) and struck out former par. (8) which read as follows: “a statement of the total cumulative balance, including the loan applied for, owed by the student to that lender, the projected level of indebtedness of the student based on a 4-year college career, and an estimate of the projected monthly repayment given the level of indebtedness over a 4- or 5-year college career;”.
+    Subsec. (a)(8). [Pub. L. 100–50][/us/pl/100/50], § 10(z)(2), added par. (8) and struck out former par. (8) which read as follows: “a statement of the total cumulative balance, including the loan applied for, owed by the student to that lender, the projected level of indebtedness of the student based on a 4-year college career, and an estimate of the projected monthly repayment given the level of indebtedness over a 4- or 5-year college career;”.
 
-    Subsec. (b)(7). [Pub. L. 100–50, § 10(z)(3)][/us/pl/100/50/s10/z/3], inserted “, except that such explanation is not required when the loan being made is a consolidation loan under [section 1078–3 of this title][/us/usc/t20/s1078–3]” before semicolon at end.
+    Subsec. (b)(7). [Pub. L. 100–50][/us/pl/100/50], § 10(z)(3), inserted “, except that such explanation is not required when the loan being made is a consolidation loan under [section 1078–3 of this title][/us/usc/t20/s1078–3]” before semicolon at end.
 
-    Subsec. (d). [Pub. L. 100–50, § 10(z)(4)][/us/pl/100/50/s10/z/4], substituted “notifies a borrower of approval of a loan” for “makes the first disbursement of a loan with respect to a borrower”.
+    Subsec. (d). [Pub. L. 100–50][/us/pl/100/50], § 10(z)(4), substituted “notifies a borrower of approval of a loan” for “makes the first disbursement of a loan with respect to a borrower”.
 
  __Effective Date of 2008 Amendment__ 
 
-[Pub. L. 110–315, title IV, § 434(b)][/us/pl/110/315/s434/b], Aug. 14, 2008, [122 Stat. 3252][/us/stat/122/3252], provided that:
+[Pub. L. 110–315, title IV][/us/pl/110/315/tIV], § 434(b), Aug. 14, 2008, [122 Stat. 3252][/us/stat/122/3252], provided that:
 
 >     “(1)  __Regular disclosure requirements and disclosure requirements to borrowers having difficulty making payments__  __.—__ 
 
@@ -316,55 +316,55 @@
 [/us/usc/t20/s1078–2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1078%E2%80%932
 [/us/usc/t20/s1078–2/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1078%E2%80%932%2Fd%2F1
 [/us/usc/t15/s1601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1601
-[/us/pl/89/329/s433]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2Fs433
-[/us/pl/99/498/s402/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F498%2Fs402%2Fa
+[/us/pl/89/329/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2FtIV
+[/us/pl/99/498/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F498%2FtIV
 [/us/stat/100/1406]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1406
-[/us/pl/100/50/s10/z]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F50%2Fs10%2Fz
+[/us/pl/100/50]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F50
 [/us/stat/101/346]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F346
-[/us/pl/102/325/s426]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325%2Fs426
+[/us/pl/102/325/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325%2FtIV
 [/us/stat/106/548]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F548
-[/us/pl/103/208/s2/c/53]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F208%2Fs2%2Fc%2F53
+[/us/pl/103/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F208
 [/us/stat/107/2468]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F2468
-[/us/pl/105/244/s428]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2Fs428
+[/us/pl/105/244/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2FtIV
 [/us/stat/112/1704]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F1704
-[/us/pl/110/315/s434/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2Fs434%2Fa
+[/us/pl/110/315/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2FtIV
 [/us/stat/122/3247]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3247
 [/us/pl/90/321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F321
 [/us/stat/82/146]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F146
 [/us/usc/t15/s1601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1601
-[/us/pl/89/329/s433]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2Fs433
+[/us/pl/89/329/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2FtIV
 [/us/stat/79/1247]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F1247
-[/us/pl/90/575/s116/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F575%2Fs116%2Fd
+[/us/pl/90/575/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F575%2FtI
 [/us/stat/82/1024]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F1024
-[/us/pl/92/318/s132/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F318%2Fs132%2Fc
+[/us/pl/92/318/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F318%2FtI
 [/us/stat/86/261]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F261
-[/us/pl/94/482/s127/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F482%2Fs127%2Fa
+[/us/pl/94/482/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F482%2FtI
 [/us/stat/90/2129]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2129
-[/us/pl/95/43/s1/a/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F43%2Fs1%2Fa%2F34
+[/us/pl/95/43]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F43
 [/us/stat/91/216]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F216
-[/us/pl/96/374/s1391/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F374%2Fs1391%2Fa%2F1
+[/us/pl/96/374/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F374%2FtXIII
 [/us/stat/94/1503]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F1503
 [/us/pl/99/498]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F498
 [/us/pl/110/315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315
-[/us/pl/105/244/s428/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2Fs428%2Fa
+[/us/pl/105/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244
 [/us/usc/t20/s1078–3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1078%E2%80%933
-[/us/pl/105/244/s428/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2Fs428%2Fb
-[/us/pl/103/208/s2/c/53]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F208%2Fs2%2Fc%2F53
-[/us/pl/103/208/s2/k/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F208%2Fs2%2Fk%2F4
-[/us/pl/102/325/s426/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325%2Fs426%2Fc
-[/us/pl/103/208/s2/c/54]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F208%2Fs2%2Fc%2F54
-[/us/pl/102/325/s426/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325%2Fs426%2Fa
-[/us/pl/102/325/s426/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325%2Fs426%2Fb%2F1
-[/us/pl/102/325/s426/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325%2Fs426%2Fb%2F2
-[/us/pl/102/325/s426/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325%2Fs426%2Fc
-[/us/pl/103/208/s2/k/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F208%2Fs2%2Fk%2F4
-[/us/pl/100/50/s10/z/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F50%2Fs10%2Fz%2F1
+[/us/pl/105/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244
+[/us/pl/103/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F208
+[/us/pl/103/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F208
+[/us/pl/102/325]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325
+[/us/pl/103/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F208
+[/us/pl/102/325]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325
+[/us/pl/102/325]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325
+[/us/pl/102/325]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325
+[/us/pl/102/325]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325
+[/us/pl/103/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F208
+[/us/pl/100/50]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F50
 [/us/usc/t20/s1078–3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1078%E2%80%933
-[/us/pl/100/50/s10/z/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F50%2Fs10%2Fz%2F2
-[/us/pl/100/50/s10/z/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F50%2Fs10%2Fz%2F3
+[/us/pl/100/50]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F50
+[/us/pl/100/50]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F50
 [/us/usc/t20/s1078–3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1078%E2%80%933
-[/us/pl/100/50/s10/z/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F50%2Fs10%2Fz%2F4
-[/us/pl/110/315/s434/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2Fs434%2Fb
+[/us/pl/100/50]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F50
+[/us/pl/110/315/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2FtIV
 [/us/stat/122/3252]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3252
 [/us/usc/t20/s1083/e/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1083%2Fe%2F1
 [/us/usc/t20/s1083/e/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1083%2Fe%2F3

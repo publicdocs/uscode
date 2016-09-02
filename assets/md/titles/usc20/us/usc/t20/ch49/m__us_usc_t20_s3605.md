@@ -97,7 +97,7 @@
 
         (5) specify the number of loan applications which were disapproved during the preceding calendar year and describe the reasons for such disapprovals.
 
-([Pub. L. 96–270, § 6][/us/pl/96/270/s6], June 14, 1980, [94 Stat. 492][/us/stat/94/492].)
+([Pub. L. 96–270][/us/pl/96/270], § 6, June 14, 1980, [94 Stat. 492][/us/stat/94/492].)
 
 ----------
 
@@ -110,7 +110,7 @@
 [/us/usc/t20/s3606/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs3606%2Fa%2F1
 [/us/usc/t20/s3606/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs3606%2Fb
 [/us/usc/t20/s3606/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs3606%2Fb
-[/us/pl/96/270/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F270%2Fs6
+[/us/pl/96/270]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F270
 [/us/stat/94/492]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F492
 
 

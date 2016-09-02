@@ -51,11 +51,11 @@
 
         The consolidation of the obligations of two or more federally insured loans obtained by a student borrower in any fiscal year into a single obligation evidenced by a single instrument of indebtedness shall not affect the insurance by the United States. If the loans thus consolidated are covered by separate certificates of insurance issued under subsection (a) of this section, the Secretary may upon surrender of the original certificates issue a new certificate of insurance in accordance with that subsection upon the consolidated obligation; if they are covered by a single comprehensive certificate issued under subsection (b) of this section, the Secretary may amend that certificate accordingly.
 
-([Pub. L. 89–329, title IV, § 429][/us/pl/89/329/s429], as added [Pub. L. 99–498, title IV, § 402(a)][/us/pl/99/498/s402/a], Oct. 17, 1986, [100 Stat. 1395][/us/stat/100/1395].)
+([Pub. L. 89–329, title IV][/us/pl/89/329/tIV], § 429, as added [Pub. L. 99–498, title IV][/us/pl/99/498/tIV], § 402(a), Oct. 17, 1986, [100 Stat. 1395][/us/stat/100/1395].)
 
  __Prior Provisions__ 
 
-    A prior section 1079, [Pub. L. 89–329, title IV, § 429][/us/pl/89/329/s429], Nov. 8, 1965, [79 Stat. 1243][/us/stat/79/1243]; [Pub. L. 94–482, title I, § 127(a)][/us/pl/94/482/s127/a], Oct. 12, 1976, [90 Stat. 2123][/us/stat/90/2123]; [Pub. L. 96–374, title XIII, § 1391(a)(1)][/us/pl/96/374/s1391/a/1], (2), Oct. 3, 1980, [94 Stat. 1503][/us/stat/94/1503], related to certificates of Federal loan insurance, prior to the general revision of this part by [Pub. L. 99–498][/us/pl/99/498].
+    A prior section 1079, [Pub. L. 89–329, title IV][/us/pl/89/329/tIV], § 429, Nov. 8, 1965, [79 Stat. 1243][/us/stat/79/1243]; [Pub. L. 94–482, title I][/us/pl/94/482/tI], § 127(a), Oct. 12, 1976, [90 Stat. 2123][/us/stat/90/2123]; [Pub. L. 96–374, title XIII][/us/pl/96/374/tXIII], § 1391(a)(1), (2), Oct. 3, 1980, [94 Stat. 1503][/us/stat/94/1503], related to certificates of Federal loan insurance, prior to the general revision of this part by [Pub. L. 99–498][/us/pl/99/498].
 
 ----------
 
@@ -67,14 +67,14 @@
 [/us/usc/t20/s1074]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1074
 [/us/usc/t20/s1074]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1074
 [/us/usc/t20/s1080/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1080%2Fa
-[/us/pl/89/329/s429]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2Fs429
-[/us/pl/99/498/s402/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F498%2Fs402%2Fa
+[/us/pl/89/329/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2FtIV
+[/us/pl/99/498/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F498%2FtIV
 [/us/stat/100/1395]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1395
-[/us/pl/89/329/s429]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2Fs429
+[/us/pl/89/329/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2FtIV
 [/us/stat/79/1243]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F1243
-[/us/pl/94/482/s127/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F482%2Fs127%2Fa
+[/us/pl/94/482/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F482%2FtI
 [/us/stat/90/2123]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2123
-[/us/pl/96/374/s1391/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F374%2Fs1391%2Fa%2F1
+[/us/pl/96/374/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F374%2FtXIII
 [/us/stat/94/1503]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F1503
 [/us/pl/99/498]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F498
 

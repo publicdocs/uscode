@@ -25,11 +25,11 @@
 
         (2) If the institution enrolls a significant number of students who are (A) attending the institution less than full time, or (B) independent students, the institution shall use a reasonable proportion of the funds available under this section for financial aid services during times and in places that will most effectively accommodate the needs of such students.
 
-([Pub. L. 89–329, title IV, § 489][/us/pl/89/329/s489], as added [Pub. L. 99–498, title IV, § 407(a)][/us/pl/99/498/s407/a], Oct. 17, 1986, [100 Stat. 1491][/us/stat/100/1491]; amended [Pub. L. 99–603, title I, § 121(b)(7)][/us/pl/99/603/s121/b/7], Nov. 6, 1986, [100 Stat. 3391][/us/stat/100/3391]; [Pub. L. 100–50, § 15(15)][/us/pl/100/50/s15/15], June 3, 1987, [101 Stat. 357][/us/stat/101/357]; [Pub. L. 102–325, title IV][/us/pl/102/325], §§ 446(c), 493, July 23, 1992, [106 Stat. 567][/us/stat/106/567], 630; [Pub. L. 103–208, § 2(h)(44)][/us/pl/103/208/s2/h/44], (k)(6), Dec. 20, 1993, [107 Stat. 2478][/us/stat/107/2478], 2486; [Pub. L. 110–315, title IV, § 494B][/us/pl/110/315/s494B], Aug. 14, 2008, [122 Stat. 3319][/us/stat/122/3319]; [Pub. L. 111–39, title IV, § 407(b)(10)][/us/pl/111/39/s407/b/10], July 1, 2009, [123 Stat. 1953][/us/stat/123/1953].)
+([Pub. L. 89–329, title IV][/us/pl/89/329/tIV], § 489, as added [Pub. L. 99–498, title IV][/us/pl/99/498/tIV], § 407(a), Oct. 17, 1986, [100 Stat. 1491][/us/stat/100/1491]; amended [Pub. L. 99–603, title I][/us/pl/99/603/tI], § 121(b)(7), Nov. 6, 1986, [100 Stat. 3391][/us/stat/100/3391]; [Pub. L. 100–50][/us/pl/100/50], § 15(15), June 3, 1987, [101 Stat. 357][/us/stat/101/357]; [Pub. L. 102–325, title IV][/us/pl/102/325/tIV], §§ 446(c), 493, July 23, 1992, [106 Stat. 567][/us/stat/106/567], 630; [Pub. L. 103–208][/us/pl/103/208], § 2(h)(44), (k)(6), Dec. 20, 1993, [107 Stat. 2478][/us/stat/107/2478], 2486; [Pub. L. 110–315, title IV][/us/pl/110/315/tIV], § 494B, Aug. 14, 2008, [122 Stat. 3319][/us/stat/122/3319]; [Pub. L. 111–39, title IV][/us/pl/111/39/tIV], § 407(b)(10), July 1, 2009, [123 Stat. 1953][/us/stat/123/1953].)
 
  __Prior Provisions__ 
 
-    A prior section 1096, [Pub. L. 89–329, title IV, § 489][/us/pl/89/329/s489], as added [Pub. L. 96–374, title IV, § 451(a)][/us/pl/96/374/s451/a], Oct. 3, 1980, [94 Stat. 1453][/us/stat/94/1453]; amended [Pub. L. 97–35, title V, § 537(a)(2)][/us/pl/97/35/s537/a/2], Aug. 13, 1981, [95 Stat. 456][/us/stat/95/456], related to administrative expenses, prior to the general revision of this part by [Pub. L. 99–498][/us/pl/99/498].
+    A prior section 1096, [Pub. L. 89–329, title IV][/us/pl/89/329/tIV], § 489, as added [Pub. L. 96–374, title IV][/us/pl/96/374/tIV], § 451(a), Oct. 3, 1980, [94 Stat. 1453][/us/stat/94/1453]; amended [Pub. L. 97–35, title V][/us/pl/97/35/tV], § 537(a)(2), Aug. 13, 1981, [95 Stat. 456][/us/stat/95/456], related to administrative expenses, prior to the general revision of this part by [Pub. L. 99–498][/us/pl/99/498].
 
  __Amendments__ 
 
@@ -37,17 +37,17 @@
 
     2008—Subsec. (b)(1). [Pub. L. 110–315][/us/pl/110/315] substituted “administering” for “offsetting the administrative costs of”.
 
-    1993—Subsec. (a). [Pub. L. 103–208, § 2(k)(6)][/us/pl/103/208/s2/k/6], repealed [Pub. L. 102–325, § 446(c)][/us/pl/102/325/s446/c]. See 1992 Amendment note below.
+    1993—Subsec. (a). [Pub. L. 103–208][/us/pl/103/208], § 2(k)(6), repealed [Pub. L. 102–325][/us/pl/102/325], § 446(c). See 1992 Amendment note below.
 
-    [Pub. L. 103–208, § 2(h)(44)][/us/pl/103/208/s2/h/44], substituted “1091(h) of this title” for “1091(c) of this title”.
+    [Pub. L. 103–208][/us/pl/103/208], § 2(h)(44), substituted “1091(h) of this title” for “1091(c) of this title”.
 
-    1992—Subsec. (a). [Pub. L. 102–325, § 493(a)(3)][/us/pl/102/325/s493/a/3], substituted “subpart 3” for “subpart 2” in two places.
+    1992—Subsec. (a). [Pub. L. 102–325][/us/pl/102/325], § 493(a)(3), substituted “subpart 3” for “subpart 2” in two places.
 
-    [Pub. L. 102–325, § 493(a)(1)][/us/pl/102/325/s493/a/1], (2), struck out “(other than [section 2756a of title 42][/us/usc/t42/s2756a])” before “, or under part D” in second sentence and struck out fourth sentence which read as follows: “The payment for a fiscal year for the purpose of subsection (b) of this section with respect to [section 2756a of title 42][/us/usc/t42/s2756a] shall be payable from each allotment under part C of subchapter I of chapter 34 of title 42 in accordance with regulations of the Secretary, and shall be 10 percent of the institution’s expenditures during such fiscal year under such section.”
+    [Pub. L. 102–325][/us/pl/102/325], § 493(a)(1), (2), struck out “(other than [section 2756a of title 42][/us/usc/t42/s2756a])” before “, or under part D” in second sentence and struck out fourth sentence which read as follows: “The payment for a fiscal year for the purpose of subsection (b) of this section with respect to [section 2756a of title 42][/us/usc/t42/s2756a] shall be payable from each allotment under part C of subchapter I of chapter 34 of title 42 in accordance with regulations of the Secretary, and shall be 10 percent of the institution’s expenditures during such fiscal year under such section.”
 
-    [Pub. L. 102–325, § 446(c)][/us/pl/102/325/s446/c], which directed amendment identical to amendment by [Pub. L. 102–325, § 493(a)(1)][/us/pl/102/325/s493/a/1], (2), above, was repealed by [Pub. L. 103–208, § 2(k)(6)][/us/pl/103/208/s2/k/6].
+    [Pub. L. 102–325][/us/pl/102/325], § 446(c), which directed amendment identical to amendment by [Pub. L. 102–325][/us/pl/102/325], § 493(a)(1), (2), above, was repealed by [Pub. L. 103–208][/us/pl/103/208], § 2(k)(6).
 
-    Subsec. (b). [Pub. L. 102–325, § 493(b)][/us/pl/102/325/s493/b], designated existing provisions as par. (1) and added par. (2).
+    Subsec. (b). [Pub. L. 102–325][/us/pl/102/325], § 493(b), designated existing provisions as par. (1) and added par. (2).
 
     1987—Subsec. (a). [Pub. L. 100–50][/us/pl/100/50] made technical amendment to reference to [section 2756a of title 42][/us/usc/t42/s2756a] to correct reference to corresponding section of original Act, requiring no change in text.
 
@@ -85,40 +85,40 @@
 [/us/usc/t20/s1094]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1094
 [/us/usc/t20/s1087cc/a/4/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1087cc%2Fa%2F4%2FB
 [/us/usc/t20/s1091/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1091%2Fg
-[/us/pl/89/329/s489]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2Fs489
-[/us/pl/99/498/s407/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F498%2Fs407%2Fa
+[/us/pl/89/329/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2FtIV
+[/us/pl/99/498/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F498%2FtIV
 [/us/stat/100/1491]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1491
-[/us/pl/99/603/s121/b/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F603%2Fs121%2Fb%2F7
+[/us/pl/99/603/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F603%2FtI
 [/us/stat/100/3391]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3391
-[/us/pl/100/50/s15/15]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F50%2Fs15%2F15
+[/us/pl/100/50]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F50
 [/us/stat/101/357]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F357
-[/us/pl/102/325]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325
+[/us/pl/102/325/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325%2FtIV
 [/us/stat/106/567]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F567
-[/us/pl/103/208/s2/h/44]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F208%2Fs2%2Fh%2F44
+[/us/pl/103/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F208
 [/us/stat/107/2478]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F2478
-[/us/pl/110/315/s494B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2Fs494B
+[/us/pl/110/315/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2FtIV
 [/us/stat/122/3319]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3319
-[/us/pl/111/39/s407/b/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F39%2Fs407%2Fb%2F10
+[/us/pl/111/39/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F39%2FtIV
 [/us/stat/123/1953]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1953
-[/us/pl/89/329/s489]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2Fs489
-[/us/pl/96/374/s451/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F374%2Fs451%2Fa
+[/us/pl/89/329/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2FtIV
+[/us/pl/96/374/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F374%2FtIV
 [/us/stat/94/1453]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F1453
-[/us/pl/97/35/s537/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs537%2Fa%2F2
+[/us/pl/97/35/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2FtV
 [/us/stat/95/456]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F456
 [/us/pl/99/498]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F498
 [/us/pl/111/39]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F39
 [/us/pl/110/315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315
-[/us/pl/103/208/s2/k/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F208%2Fs2%2Fk%2F6
-[/us/pl/102/325/s446/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325%2Fs446%2Fc
-[/us/pl/103/208/s2/h/44]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F208%2Fs2%2Fh%2F44
-[/us/pl/102/325/s493/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325%2Fs493%2Fa%2F3
-[/us/pl/102/325/s493/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325%2Fs493%2Fa%2F1
+[/us/pl/103/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F208
+[/us/pl/102/325]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325
+[/us/pl/103/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F208
+[/us/pl/102/325]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325
+[/us/pl/102/325]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325
 [/us/usc/t42/s2756a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2756a
 [/us/usc/t42/s2756a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2756a
-[/us/pl/102/325/s446/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325%2Fs446%2Fc
-[/us/pl/102/325/s493/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325%2Fs493%2Fa%2F1
-[/us/pl/103/208/s2/k/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F208%2Fs2%2Fk%2F6
-[/us/pl/102/325/s493/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325%2Fs493%2Fb
+[/us/pl/102/325]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325
+[/us/pl/102/325]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325
+[/us/pl/103/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F208
+[/us/pl/102/325]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325
 [/us/pl/100/50]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F50
 [/us/usc/t42/s2756a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2756a
 [/us/pl/99/603]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F603

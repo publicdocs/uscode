@@ -17,7 +17,7 @@
 
     There is established in the Smithsonian Institution a bureau which shall be known as the “Museum of African Art” (hereinafter in this subchapter referred to as the “Museum”). The functions of such bureau shall be those authorized by [section 80m(a) of this title][/us/usc/t20/s80m/a].
 
-([Pub. L. 95–414, § 2][/us/pl/95/414/s2], Oct. 5, 1978, [92 Stat. 911][/us/stat/92/911].)
+([Pub. L. 95–414][/us/pl/95/414], § 2, Oct. 5, 1978, [92 Stat. 911][/us/stat/92/911].)
 
  __Construction of National Museum of African Art__ 
 
@@ -31,7 +31,7 @@
 ----------
 
 [/us/usc/t20/s80m/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs80m%2Fa
-[/us/pl/95/414/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F414%2Fs2
+[/us/pl/95/414]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F414
 [/us/stat/92/911]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F911
 [/us/pl/97/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F203
 [/us/stat/96/129]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F129

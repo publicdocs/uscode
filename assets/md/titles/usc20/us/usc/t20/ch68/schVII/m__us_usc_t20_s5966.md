@@ -41,7 +41,7 @@
 
         The Secretary shall designate the District of Columbia as a national model city and shall provide funds made available pursuant to [section 5962(b)(2) of this title][/us/usc/t20/s5962/b/2] in each fiscal year to a local educational agency serving the District of Columbia in an amount sufficient to enable such agency to carry out a comprehensive program to address school and youth violence.
 
-([Pub. L. 103–227, title VII, § 706][/us/pl/103/227/s706], Mar. 31, 1994, [108 Stat. 208][/us/stat/108/208].)
+([Pub. L. 103–227, title VII][/us/pl/103/227/tVII], § 706, Mar. 31, 1994, [108 Stat. 208][/us/stat/108/208].)
 
 ----------
 
@@ -52,7 +52,7 @@
 
 [/us/usc/t20/s5962/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs5962%2Fb%2F2
 [/us/usc/t20/s5962/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs5962%2Fb%2F2
-[/us/pl/103/227/s706]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F227%2Fs706
+[/us/pl/103/227/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F227%2FtVII
 [/us/stat/108/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F208
 
 

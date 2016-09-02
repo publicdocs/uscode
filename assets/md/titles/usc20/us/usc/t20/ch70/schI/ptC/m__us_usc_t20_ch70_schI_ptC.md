@@ -11,13 +11,13 @@
 ----------
 ----------
 
-[Previous](./../../../../../..//us/usc/t20/ch70/schI/ptB/spt4/m__us_usc_t20_s6383.md) | [Next](./../../../../../..//us/usc/t20/ch70/schI/ptC/m__us_usc_t20_s6391.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fch70%2FschI%2FptC)
+[Previous](./../../../../../..//us/usc/t20/ch70/schI/ptB/m__us_usc_t20_s6364.md) | [Next](./../../../../../..//us/usc/t20/ch70/schI/ptC/m__us_usc_t20_s6391.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fch70%2FschI%2FptC)
 
 #### Part C—Education of Migratory Children
 
 ----------
 
-[Previous](./../../../../../..//us/usc/t20/ch70/schI/ptB/spt4/m__us_usc_t20_s6383.md) | [Next](./../../../../../..//us/usc/t20/ch70/schI/ptC/m__us_usc_t20_s6391.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fch70%2FschI%2FptC)
+[Previous](./../../../../../..//us/usc/t20/ch70/schI/ptB/m__us_usc_t20_s6364.md) | [Next](./../../../../../..//us/usc/t20/ch70/schI/ptC/m__us_usc_t20_s6391.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fch70%2FschI%2FptC)
 
 ----------
 ----------

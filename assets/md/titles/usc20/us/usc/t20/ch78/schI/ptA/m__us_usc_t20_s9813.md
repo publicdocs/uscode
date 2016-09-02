@@ -165,7 +165,7 @@
 
         (9) Regular evaluation of the new teacher.
 
-([Pub. L. 110–69, title VI, § 6113][/us/pl/110/69/s6113], Aug. 9, 2007, [121 Stat. 628][/us/stat/121/628].)
+([Pub. L. 110–69, title VI][/us/pl/110/69/tVI], § 6113, Aug. 9, 2007, [121 Stat. 628][/us/stat/121/628].)
 
 ----------
 
@@ -178,7 +178,7 @@
 [/us/usc/t20/s9815/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs9815%2Fd
 [/us/usc/t20/s9816/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs9816%2F1
 [/us/usc/t20/s1232g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1232g
-[/us/pl/110/69/s6113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F69%2Fs6113
+[/us/pl/110/69/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F69%2FtVI
 [/us/stat/121/628]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F628
 
 

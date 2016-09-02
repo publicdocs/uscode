@@ -33,17 +33,17 @@
 
         Notwithstanding the provisions of subsections (a) and (b) of this section, no project assisted with funds under subchapter VII of this chapter (as in effect prior to October 7, 1998) shall ever be used for religious worship or a sectarian activity or for a school or department of divinity.
 
-([Pub. L. 89–329, title I, § 122][/us/pl/89/329/s122], as added [Pub. L. 105–244, title I, § 101(a)][/us/pl/105/244/s101/a], Oct. 7, 1998, [112 Stat. 1601][/us/stat/112/1601].)
+([Pub. L. 89–329, title I][/us/pl/89/329/tI], § 122, as added [Pub. L. 105–244, title I][/us/pl/105/244/tI], § 101(a), Oct. 7, 1998, [112 Stat. 1601][/us/stat/112/1601].)
 
  __References in Text__ 
 
-    Subchapter VII of this chapter, referred to in text, was amended, effective Oct. 1, 1992, by [Pub. L. 102–325, title VII][/us/pl/102/325], §§ 703–707(a), July 23, 1992, [106 Stat. 738–753][/us/stat/106/738-753], by amending parts A to C generally, repealing part D, and redesignating former part E as D, and was further amended generally, effective Oct. 1, 1998, by [Pub. L. 105–244, title VII, § 701][/us/pl/105/244/s701], Oct. 7, 1998, [112 Stat. 1786][/us/stat/112/1786], by substituting provisions relating to graduate and post-secondary improvement programs for former provisions relating to construction, reconstruction, and renovation of academic facilities.
+    Subchapter VII of this chapter, referred to in text, was amended, effective Oct. 1, 1992, by [Pub. L. 102–325, title VII][/us/pl/102/325/tVII], §§ 703–707(a), July 23, 1992, [106 Stat. 738–753][/us/stat/106/738-753], by amending parts A to C generally, repealing part D, and redesignating former part E as D, and was further amended generally, effective Oct. 1, 1998, by [Pub. L. 105–244, title VII][/us/pl/105/244/tVII], § 701, Oct. 7, 1998, [112 Stat. 1786][/us/stat/112/1786], by substituting provisions relating to graduate and post-secondary improvement programs for former provisions relating to construction, reconstruction, and renovation of academic facilities.
 
  __Prior Provisions__ 
 
     Provisions similar to this section were contained in [section 1132i of this title][/us/usc/t20/s1132i] prior to the general amendment of subchapter VII of this chapter by [Pub. L. 105–244][/us/pl/105/244].
 
-    A prior [section 122 of Pub. L. 89–329][/us/pl/89/329/s122], title I, as added [Pub. L. 99–498, title I, § 101][/us/pl/99/498/s101], Oct. 17, 1986, [100 Stat. 1286][/us/stat/100/1286], limited funds authorized to be appropriated and was classified to [section 1016a of this title][/us/usc/t20/s1016a], prior to the general amendment of this subchapter by [Pub. L. 102–325][/us/pl/102/325].
+    A prior [section 122 of Pub. L. 89–329][/us/pl/89/329/s122], title I, as added [Pub. L. 99–498, title I][/us/pl/99/498/tI], § 101, Oct. 17, 1986, [100 Stat. 1286][/us/stat/100/1286], limited funds authorized to be appropriated and was classified to [section 1016a of this title][/us/usc/t20/s1016a], prior to the general amendment of this subchapter by [Pub. L. 102–325][/us/pl/102/325].
 
 ----------
 
@@ -52,17 +52,17 @@
 ----------
 ----------
 
-[/us/pl/89/329/s122]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2Fs122
-[/us/pl/105/244/s101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2Fs101%2Fa
+[/us/pl/89/329/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2FtI
+[/us/pl/105/244/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2FtI
 [/us/stat/112/1601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F1601
-[/us/pl/102/325]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325
+[/us/pl/102/325/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325%2FtVII
 [/us/stat/106/738-753]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F738-753
-[/us/pl/105/244/s701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2Fs701
+[/us/pl/105/244/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2FtVII
 [/us/stat/112/1786]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F1786
 [/us/usc/t20/s1132i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1132i
 [/us/pl/105/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244
 [/us/pl/89/329/s122]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2Fs122
-[/us/pl/99/498/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F498%2Fs101
+[/us/pl/99/498/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F498%2FtI
 [/us/stat/100/1286]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1286
 [/us/usc/t20/s1016a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1016a
 [/us/pl/102/325]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325

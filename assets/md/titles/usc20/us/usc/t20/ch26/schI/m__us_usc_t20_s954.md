@@ -281,7 +281,7 @@
 
         The Chairperson of the National Endowment for the Arts shall, in ongoing consultation with State and local agencies, relevant organizations, and relevant Federal agencies, continue to develop and implement a practical system of national information and data collection and public dissemination on the arts, artists and arts groups, and their audiences. Such system shall include artistic and financial trends in the various artistic fields, trends in audience participation, and trends in arts education on national, regional, and State levels. Such system shall also include information regarding the availability of the arts to various audience segments, including rural communities. Such system shall be used, along with a summary of the data submitted with State plans under subsection (g) of this section, to prepare a periodic report on the state of the arts in the Nation. The state of the arts report shall include a description of the availability of the Endowment’s programs to emerging, rural, and culturally diverse artists, arts organizations, and communities and of the participation by such artists, organizations, and communities in such programs. The state of the arts report shall be submitted to the President and the Congress, and provided to the States, not later than October 1, 1992, and quadrennially thereafter.
 
-([Pub. L. 89–209, § 5][/us/pl/89/209/s5], Sept. 29, 1965, [79 Stat. 846][/us/stat/79/846]; [Pub. L. 90–83, § 10(b)][/us/pl/90/83/s10/b], Sept. 11, 1967, [81 Stat. 223][/us/stat/81/223]; [Pub. L. 90–348][/us/pl/90/348], §§ 2, 3, June 18, 1968, [82 Stat. 185][/us/stat/82/185]; [Pub. L. 91–346][/us/pl/91/346], §§ 4, 5(a)(1), (2), 6, 7, July 20, 1970, [84 Stat. 443][/us/stat/84/443], 445; [Pub. L. 93–133, § 2(a)(3)][/us/pl/93/133/s2/a/3], (4), Oct. 19, 1973, [87 Stat. 462][/us/stat/87/462]; [Pub. L. 94–462, title I][/us/pl/94/462], §§ 101, 102, title III, § 301(a), title IV, § 401(a), Oct. 8, 1976, [90 Stat. 1971][/us/stat/90/1971], 1978, 1980; [Pub. L. 96–496, title I][/us/pl/96/496], §§ 102, 109(a), (b), Dec. 4, 1980, [94 Stat. 2583][/us/stat/94/2583], 2591; renumbered title I, § 5, [Pub. L. 98–306, § 2][/us/pl/98/306/s2], May 31, 1984, [98 Stat. 223][/us/stat/98/223]; renumbered § 5 and amended [Pub. L. 99–194, title I][/us/pl/99/194], §§ 101(1), 105, Dec. 20, 1985, [99 Stat. 1332][/us/stat/99/1332], 1333; [Pub. L. 101–512, title III, § 318][/us/pl/101/512/s318] \[title I, §§ 103(a)–(i)(1), 104\], Nov. 5, 1990, [104 Stat. 1960][/us/stat/104/1960], 1963–1966; [Pub. L. 113–76, div. G, title IV, § 416][/us/pl/113/76/s416], Jan. 17, 2014, [128 Stat. 341][/us/stat/128/341].)
+([Pub. L. 89–209][/us/pl/89/209], § 5, Sept. 29, 1965, [79 Stat. 846][/us/stat/79/846]; [Pub. L. 90–83][/us/pl/90/83], § 10(b), Sept. 11, 1967, [81 Stat. 223][/us/stat/81/223]; [Pub. L. 90–348][/us/pl/90/348], §§ 2, 3, June 18, 1968, [82 Stat. 185][/us/stat/82/185]; [Pub. L. 91–346][/us/pl/91/346], §§ 4, 5(a)(1), (2), 6, 7, July 20, 1970, [84 Stat. 443][/us/stat/84/443], 445; [Pub. L. 93–133][/us/pl/93/133], § 2(a)(3), (4), Oct. 19, 1973, [87 Stat. 462][/us/stat/87/462]; [Pub. L. 94–462, title I][/us/pl/94/462/tI], §§ 101, 102, title III, § 301(a), title IV, § 401(a), Oct. 8, 1976, [90 Stat. 1971][/us/stat/90/1971], 1978, 1980; [Pub. L. 96–496, title I][/us/pl/96/496/tI], §§ 102, 109(a), (b), Dec. 4, 1980, [94 Stat. 2583][/us/stat/94/2583], 2591; renumbered title I, § 5, [Pub. L. 98–306][/us/pl/98/306], § 2, May 31, 1984, [98 Stat. 223][/us/stat/98/223]; renumbered § 5 and amended [Pub. L. 99–194, title I][/us/pl/99/194/tI], §§ 101(1), 105, Dec. 20, 1985, [99 Stat. 1332][/us/stat/99/1332], 1333; [Pub. L. 101–512, title III][/us/pl/101/512/tIII], § 318 \[title I, §§ 103(a)–(i)(1), 104\], Nov. 5, 1990, [104 Stat. 1960][/us/stat/104/1960], 1963–1966; [Pub. L. 113–76, div. G, title IV][/us/pl/113/76/dG/tIV], § 416, Jan. 17, 2014, [128 Stat. 341][/us/stat/128/341].)
 
  __References in Text__ 
 
@@ -291,145 +291,145 @@
 
  __Codification__ 
 
-    In subsec. (n), “sections 3141–3144, 3146, and 3147 of title 40” substituted for “the Davis-Bacon Act, as amended ([40 U.S.C. 276a][/us/usc/t40/s276a]—276a–5)” and “[section 3145 of title 40][/us/usc/t40/s3145]” substituted for “[section 2 of the Act of June 13, 1934][/us/act/1934-06-13/s2], as amended ([40 U.S.C. 276c][/us/usc/t40/s276c])” on authority of [Pub. L. 107–217, § 5(c)][/us/pl/107/217/s5/c], Aug. 21, 2002, [116 Stat. 1303][/us/stat/116/1303], the first section of which enacted Title 40, Public Buildings, Property, and Works.
+    In subsec. (n), “sections 3141–3144, 3146, and 3147 of title 40” substituted for “the Davis-Bacon Act, as amended ([40 U.S.C. 276a][/us/usc/t40/s276a]—276a–5)” and “[section 3145 of title 40][/us/usc/t40/s3145]” substituted for “[section 2 of the Act of June 13, 1934][/us/act/1934-06-13/s2], as amended ([40 U.S.C. 276c][/us/usc/t40/s276c])” on authority of [Pub. L. 107–217][/us/pl/107/217], § 5(c), Aug. 21, 2002, [116 Stat. 1303][/us/stat/116/1303], the first section of which enacted Title 40, Public Buildings, Property, and Works.
 
  __Amendments__ 
 
-    2014—Subsec. (g)(4)(A). [Pub. L. 113–76, § 416(1)][/us/pl/113/76/s416/1], inserted at end “Whenever a State agency requests that the Chairperson exercise such discretion, the Chairperson shall—
+    2014—Subsec. (g)(4)(A). [Pub. L. 113–76][/us/pl/113/76], § 416(1), inserted at end “Whenever a State agency requests that the Chairperson exercise such discretion, the Chairperson shall—
 
     “(i) give consideration to the various circumstances the State is encountering at the time of such request; and
 
     “(ii) ensure that such discretion is not exercised with respect to such State in perpetuity.”
 
-    Subsec. (g)(4)(C). [Pub. L. 113–76, § 416(2)][/us/pl/113/76/s416/2], inserted at end “The non-Federal funds required by subparagraph (A) to pay 50 percent of the cost of a program or production shall be provided from funds directly controlled and appropriated by the State involved and directly managed by the State agency of such State.”
+    Subsec. (g)(4)(C). [Pub. L. 113–76][/us/pl/113/76], § 416(2), inserted at end “The non-Federal funds required by subparagraph (A) to pay 50 percent of the cost of a program or production shall be provided from funds directly controlled and appropriated by the State involved and directly managed by the State agency of such State.”
 
-    1990—Subsec. (c). [Pub. L. 101–512, § 318][/us/pl/101/512/s318] \[title I, § 103(a)(7)\], substituted “paragraph (10)” for “clause (8)” in concluding provisions.
+    1990—Subsec. (c). [Pub. L. 101–512][/us/pl/101/512], § 318 \[title I, § 103(a)(7)\], substituted “paragraph (10)” for “clause (8)” in concluding provisions.
 
-    Subsec. (c)(1). [Pub. L. 101–512, § 318][/us/pl/101/512/s318] \[title I, § 103(a)(1)\], amended par. (1) generally. Prior to amendment, par. (1) read as follows: “projects and productions which have substantial artistic and cultural significance, giving emphasis to American creativity and cultural diversity and the maintenance and encouragement of professional excellence;”.
+    Subsec. (c)(1). [Pub. L. 101–512][/us/pl/101/512], § 318 \[title I, § 103(a)(1)\], amended par. (1) generally. Prior to amendment, par. (1) read as follows: “projects and productions which have substantial artistic and cultural significance, giving emphasis to American creativity and cultural diversity and the maintenance and encouragement of professional excellence;”.
 
-    Subsec. (c)(2). [Pub. L. 101–512, § 318][/us/pl/101/512/s318] \[title I, § 103(a)(2)\], inserted “or tradition” after “authenticity”.
+    Subsec. (c)(2). [Pub. L. 101–512][/us/pl/101/512], § 318 \[title I, § 103(a)(2)\], inserted “or tradition” after “authenticity”.
 
-    Subsec. (c)(5). [Pub. L. 101–512, § 318][/us/pl/101/512/s318] \[title I, § 103(a)(3)\], inserted “education,” after “knowledge,”.
+    Subsec. (c)(5). [Pub. L. 101–512][/us/pl/101/512], § 318 \[title I, § 103(a)(3)\], inserted “education,” after “knowledge,”.
 
-    Subsec. (c)(8) to (10). [Pub. L. 101–512, § 318][/us/pl/101/512/s318] \[title I, § 103(a)(4)–(6)\], added pars. (8) and (9) and redesignated former par. (8) as (10).
+    Subsec. (c)(8) to (10). [Pub. L. 101–512][/us/pl/101/512], § 318 \[title I, § 103(a)(4)–(6)\], added pars. (8) and (9) and redesignated former par. (8) as (10).
 
-    Subsec. (d). [Pub. L. 101–512, § 318][/us/pl/101/512/s318] \[title I, § 103(b)\], amended subsec. (d) generally. Prior to amendment, subsec. (d) read as follows: “No payment may be made to any group under this section except upon application therefor which is submitted to the National Endowment for the Arts in accordance with regulations and procedures established by the Chairperson.”
+    Subsec. (d). [Pub. L. 101–512][/us/pl/101/512], § 318 \[title I, § 103(b)\], amended subsec. (d) generally. Prior to amendment, subsec. (d) read as follows: “No payment may be made to any group under this section except upon application therefor which is submitted to the National Endowment for the Arts in accordance with regulations and procedures established by the Chairperson.”
 
-    Subsec. (f). [Pub. L. 101–512, § 318][/us/pl/101/512/s318] \[title I, § 103(c)\], substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”, which for purposes of codification was translated as “title 26” thus requiring no change in text.
+    Subsec. (f). [Pub. L. 101–512][/us/pl/101/512], § 318 \[title I, § 103(c)\], substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”, which for purposes of codification was translated as “title 26” thus requiring no change in text.
 
-    Subsec. (g)(2)(E)(i), (ii). [Pub. L. 101–512, § 318][/us/pl/101/512/s318] \[title I, § 103(d)\], added cls. (i) and (ii) and struck out former cls. (i) and (ii) which read as follows:
+    Subsec. (g)(2)(E)(i), (ii). [Pub. L. 101–512][/us/pl/101/512], § 318 \[title I, § 103(d)\], added cls. (i) and (ii) and struck out former cls. (i) and (ii) which read as follows:
 
     “(i) a description of the level of participation during the previous 2 years by artists, artists’ organizations, and arts organizations in projects and productions for which financial assistance is provided under this subsection;
 
     “(ii) a description of the extent to which projects and productions receiving financial assistance under this subsection are available to all people and communities in the State; and”.
 
-    Subsecs. (i) to (k). [Pub. L. 101–512, § 318][/us/pl/101/512/s318] \[title I, § 103(g)(2)\], added subsecs. (i) to (k), and redesignated former subsecs. (i) to (k) as (l) to (n), respectively.
+    Subsecs. (i) to (k). [Pub. L. 101–512][/us/pl/101/512], § 318 \[title I, § 103(g)(2)\], added subsecs. (i) to (k), and redesignated former subsecs. (i) to (k) as (l) to (n), respectively.
 
-    Subsec. (l). [Pub. L. 101–512, § 318][/us/pl/101/512/s318] \[title I, § 103(h)(2)\], added subsec. (l). Former subsec. (l), redesignated (m).
+    Subsec. (l). [Pub. L. 101–512][/us/pl/101/512], § 318 \[title I, § 103(h)(2)\], added subsec. (l). Former subsec. (l), redesignated (m).
 
-    [Pub. L. 101–512, § 318][/us/pl/101/512/s318] \[title I, § 103(g)(1)\], redesignated subsec. (i) as (l). Former subsec. (l) redesignated (o).
+    [Pub. L. 101–512][/us/pl/101/512], § 318 \[title I, § 103(g)(1)\], redesignated subsec. (i) as (l). Former subsec. (l) redesignated (o).
 
-    Subsec. (m). [Pub. L. 101–512, § 318][/us/pl/101/512/s318] \[title I, § 103(i)(1)\], substituted “subsection (n)” for “subsection (j)”.
+    Subsec. (m). [Pub. L. 101–512][/us/pl/101/512], § 318 \[title I, § 103(i)(1)\], substituted “subsection (n)” for “subsection (j)”.
 
-    [Pub. L. 101–512, § 318][/us/pl/101/512/s318] \[title I, § 103(h)(1)\], redesignated subsec. (l) as (m). Former subsec. (m) redesignated (n).
+    [Pub. L. 101–512][/us/pl/101/512], § 318 \[title I, § 103(h)(1)\], redesignated subsec. (l) as (m). Former subsec. (m) redesignated (n).
 
-    [Pub. L. 101–512, § 318][/us/pl/101/512/s318] \[title I, § 103(g)(1)\], redesignated subsec. (j) as (m). Former subsec. (m) redesignated (p).
+    [Pub. L. 101–512][/us/pl/101/512], § 318 \[title I, § 103(g)(1)\], redesignated subsec. (j) as (m). Former subsec. (m) redesignated (p).
 
-    Subsecs. (n), (o). [Pub. L. 101–512, § 318][/us/pl/101/512/s318] \[title I, § 103(h)(1)\], redesignated subsecs. (m) and (n) as (n) and (o), respectively. Former subsecs. (n) and (o) redesignated (o) and (p), respectively.
+    Subsecs. (n), (o). [Pub. L. 101–512][/us/pl/101/512], § 318 \[title I, § 103(h)(1)\], redesignated subsecs. (m) and (n) as (n) and (o), respectively. Former subsecs. (n) and (o) redesignated (o) and (p), respectively.
 
-    [Pub. L. 101–512, § 318][/us/pl/101/512/s318] \[title I, § 103(g)(1)\], redesignated subsecs. (k) and (l) as (n) and (o), respectively.
+    [Pub. L. 101–512][/us/pl/101/512], § 318 \[title I, § 103(g)(1)\], redesignated subsecs. (k) and (l) as (n) and (o), respectively.
 
-    Subsec. (p). [Pub. L. 101–512, § 318][/us/pl/101/512/s318] \[title I, § 103(h)(1)\], redesignated subsec. (o) as (p). Former subsec. (p) redesignated (q).
+    Subsec. (p). [Pub. L. 101–512][/us/pl/101/512], § 318 \[title I, § 103(h)(1)\], redesignated subsec. (o) as (p). Former subsec. (p) redesignated (q).
 
-    [Pub. L. 101–512, § 318][/us/pl/101/512/s318] \[title I, § 103(g)(1)\], redesignated subsec. (m) as (p).
+    [Pub. L. 101–512][/us/pl/101/512], § 318 \[title I, § 103(g)(1)\], redesignated subsec. (m) as (p).
 
-    Subsec. (p)(1)(G). [Pub. L. 101–512, § 318][/us/pl/101/512/s318] \[title I, § 103(e)\], added subpar. (G).
+    Subsec. (p)(1)(G). [Pub. L. 101–512][/us/pl/101/512], § 318 \[title I, § 103(e)\], added subpar. (G).
 
-    Subsec. (p)(2) to (4). [Pub. L. 101–512, § 318][/us/pl/101/512/s318] \[title I, § 104\], added par. (2), redesignated former pars. (2) and (3) as (3) and (4), respectively, and in par. (4), substituted “subsection (c)” for “section 5(c)”, which for purposes of codification was translated as “subsection (c) of this section” thus requiring no change in text.
+    Subsec. (p)(2) to (4). [Pub. L. 101–512][/us/pl/101/512], § 318 \[title I, § 104\], added par. (2), redesignated former pars. (2) and (3) as (3) and (4), respectively, and in par. (4), substituted “subsection (c)” for “section 5(c)”, which for purposes of codification was translated as “subsection (c) of this section” thus requiring no change in text.
 
-    Subsec. (q). [Pub. L. 101–512, § 318][/us/pl/101/512/s318] \[title I, § 103(h)(1)\], redesignated subsec. (p) as (q).
+    Subsec. (q). [Pub. L. 101–512][/us/pl/101/512], § 318 \[title I, § 103(h)(1)\], redesignated subsec. (p) as (q).
 
-    [Pub. L. 101–512, § 318][/us/pl/101/512/s318] \[title I, § 103(f)\], inserted “ongoing” after “shall, in”, substituted “continue to develop and implement” for “develop”, inserted “and public dissemination” after “collection”, struck out “Not later than one year after December 20, 1985, the Chairperson shall submit to the Committee on Education and Labor of the House of Representatives and the Committee on Labor and Human Resources of the Senate a plan for the development and implementation of such system, including a recommendation regarding the need for any additional funds to be appropriated to develop and implement such system.” after “including rural communities.”, and substituted “1992, and quadrennially” for “1988, and biennially”.
+    [Pub. L. 101–512][/us/pl/101/512], § 318 \[title I, § 103(f)\], inserted “ongoing” after “shall, in”, substituted “continue to develop and implement” for “develop”, inserted “and public dissemination” after “collection”, struck out “Not later than one year after December 20, 1985, the Chairperson shall submit to the Committee on Education and Labor of the House of Representatives and the Committee on Labor and Human Resources of the Senate a plan for the development and implementation of such system, including a recommendation regarding the need for any additional funds to be appropriated to develop and implement such system.” after “including rural communities.”, and substituted “1992, and quadrennially” for “1988, and biennially”.
 
-    1985—Subsec. (b)(1). [Pub. L. 99–194, § 105(1)][/us/pl/99/194/s105/1], (6), substituted “chairperson” for “chairman” and “Chairperson” for “Chairman”.
+    1985—Subsec. (b)(1). [Pub. L. 99–194][/us/pl/99/194], § 105(1), (6), substituted “chairperson” for “chairman” and “Chairperson” for “Chairman”.
 
-    Subsec. (b)(2). [Pub. L. 99–194, § 105(6)][/us/pl/99/194/s105/6], (7), substituted “Chairperson” for “Chairman” wherever appearing and “the Chairperson’s” for “his” in two places.
+    Subsec. (b)(2). [Pub. L. 99–194][/us/pl/99/194], § 105(6), (7), substituted “Chairperson” for “Chairman” wherever appearing and “the Chairperson’s” for “his” in two places.
 
-    Subsec. (c). [Pub. L. 99–194, § 105(2)(C)][/us/pl/99/194/s105/2/C], (D), (6), substituted “Chairperson” for “Chairman” in provisions preceding par. (1), and in provisions following cl. (8) substituted “Chairperson” for “Chairman” wherever appearing and “clause (8)” for “clause (5)”, and inserted “In selecting individuals and groups of exceptional talent as recipients of financial assistance to be provided under this subsection, the Chairperson shall give particular regard to artists and artistic groups that have traditionally been underrepresented”.
+    Subsec. (c). [Pub. L. 99–194][/us/pl/99/194], § 105(2)(C), (D), (6), substituted “Chairperson” for “Chairman” in provisions preceding par. (1), and in provisions following cl. (8) substituted “Chairperson” for “Chairman” wherever appearing and “clause (8)” for “clause (5)”, and inserted “In selecting individuals and groups of exceptional talent as recipients of financial assistance to be provided under this subsection, the Chairperson shall give particular regard to artists and artistic groups that have traditionally been underrepresented”.
 
-    Subsec. (c)(4) to (8). [Pub. L. 99–194, § 105(2)(A)][/us/pl/99/194/s105/2/A], (B), added cls. (4) and (5) and redesignated former cls. (4) to (6) as (6) to (8), respectively.
+    Subsec. (c)(4) to (8). [Pub. L. 99–194][/us/pl/99/194], § 105(2)(A), (B), added cls. (4) and (5) and redesignated former cls. (4) to (6) as (6) to (8), respectively.
 
-    Subsec. (d). [Pub. L. 99–194, § 105(6)][/us/pl/99/194/s105/6], substituted “Chairperson” for “Chairman”.
+    Subsec. (d). [Pub. L. 99–194][/us/pl/99/194], § 105(6), substituted “Chairperson” for “Chairman”.
 
-    Subsec. (g). [Pub. L. 99–194, § 105(3)][/us/pl/99/194/s105/3], (6), substituted “Chairperson” for “Chairman” wherever appearing, and in par. (2) struck out “and” at end of cl. (B), substituted “, including a description of the progress made toward achieving the goals of the State plan;” for the period at end of cl. (C), and added cls. (D) and (E).
+    Subsec. (g). [Pub. L. 99–194][/us/pl/99/194], § 105(3), (6), substituted “Chairperson” for “Chairman” wherever appearing, and in par. (2) struck out “and” at end of cl. (B), substituted “, including a description of the progress made toward achieving the goals of the State plan;” for the period at end of cl. (C), and added cls. (D) and (E).
 
-    Subsec. (h). [Pub. L. 99–194, § 105(6)][/us/pl/99/194/s105/6], substituted “Chairperson” for “Chairman” wherever appearing.
+    Subsec. (h). [Pub. L. 99–194][/us/pl/99/194], § 105(6), substituted “Chairperson” for “Chairman” wherever appearing.
 
-    Subsec. (i). [Pub. L. 99–194, § 105(4)][/us/pl/99/194/s105/4], substituted “Secretary of Labor may deem” for “he may deem” in last sentence.
+    Subsec. (i). [Pub. L. 99–194][/us/pl/99/194], § 105(4), substituted “Secretary of Labor may deem” for “he may deem” in last sentence.
 
-    Subsec. (k). [Pub. L. 99–194, § 105(6)][/us/pl/99/194/s105/6], substituted “Chairperson” for “Chairman” wherever appearing.
+    Subsec. (k). [Pub. L. 99–194][/us/pl/99/194], § 105(6), substituted “Chairperson” for “Chairman” wherever appearing.
 
-    Subsec. (l)(1). [Pub. L. 99–194, § 105(6)][/us/pl/99/194/s105/6], substituted “Chairperson” for “Chairman” in provisions preceding subpar. (A).
+    Subsec. (l)(1). [Pub. L. 99–194][/us/pl/99/194], § 105(6), substituted “Chairperson” for “Chairman” in provisions preceding subpar. (A).
 
-    Subsec. (l)(1)(D). [Pub. L. 99–194, § 105(5)][/us/pl/99/194/s105/5], inserted “and local arts agencies” after “local arts groups”, designated existing provisions as cl. (i), and added cls. (ii) to (v).
+    Subsec. (l)(1)(D). [Pub. L. 99–194][/us/pl/99/194], § 105(5), inserted “and local arts agencies” after “local arts groups”, designated existing provisions as cl. (i), and added cls. (ii) to (v).
 
-    Subsec. (l)(3). [Pub. L. 99–194, § 105(6)][/us/pl/99/194/s105/6], substituted “Chairperson” for “Chairman”.
+    Subsec. (l)(3). [Pub. L. 99–194][/us/pl/99/194], § 105(6), substituted “Chairperson” for “Chairman”.
 
-    Subsec. (m). [Pub. L. 99–194, § 105(8)][/us/pl/99/194/s105/8], added subsec. (m).
+    Subsec. (m). [Pub. L. 99–194][/us/pl/99/194], § 105(8), added subsec. (m).
 
     1980—Subsec. (c). [Pub. L. 96–496][/us/pl/96/496], §§ 102(a), 109(a), inserted “or loans” in provisions preceding cl. (1) and “and cultural diversity” in cl. (1), redesignated cl. (5) as (6), added cl. (5), substituted “Committee on Labor and Human Resources” for “Committee on Labor and Public Welfare” in provisions following cl. (6), and provided that any loans made by the Chairman under subsec. (c) were to be made in accordance with terms and conditions approved by the Secretary of the Treasury.
 
-    Subsec. (g)(2)(A). [Pub. L. 96–496, § 102(b)(1)][/us/pl/96/496/s102/b/1], struck out provision that the Recreation Board, or any successor designated for purposes of this subchapter by the Commissioner of the District of Columbia, was to be considered the “State agency” within the District of Columbia.
+    Subsec. (g)(2)(A). [Pub. L. 96–496][/us/pl/96/496], § 102(b)(1), struck out provision that the Recreation Board, or any successor designated for purposes of this subchapter by the Commissioner of the District of Columbia, was to be considered the “State agency” within the District of Columbia.
 
-    Subsec. (g)(4)(A). [Pub. L. 96–496, § 109(b)][/us/pl/96/496/s109/b], substituted “such projects” for “such project”.
+    Subsec. (g)(4)(A). [Pub. L. 96–496][/us/pl/96/496], § 109(b), substituted “such projects” for “such project”.
 
-    Subsec. (g)(4)(E). [Pub. L. 96–496, § 102(b)(2)][/us/pl/96/496/s102/b/2], added subpar. (E).
+    Subsec. (g)(4)(E). [Pub. L. 96–496][/us/pl/96/496], § 102(b)(2), added subpar. (E).
 
-    Subsec. (k). [Pub. L. 96–496, § 102(c)][/us/pl/96/496/s102/c], authorized the Chairman to enter into interagency agreements to promote or assist the arts-related activities of other Federal agencies, on a reimbursable or nonreimbursable basis, and to use funds authorized to be appropriated for the purposes of subsec. (c) of this section for the costs of such activities.
+    Subsec. (k). [Pub. L. 96–496][/us/pl/96/496], § 102(c), authorized the Chairman to enter into interagency agreements to promote or assist the arts-related activities of other Federal agencies, on a reimbursable or nonreimbursable basis, and to use funds authorized to be appropriated for the purposes of subsec. (c) of this section for the costs of such activities.
 
-    Subsec. (l). [Pub. L. 96–496, § 102(d)][/us/pl/96/496/s102/d], inserted “, on a national, State, or local level,” and “strengthening quality by” in provisions of par. (1) preceding subpar. (A), redesignated subpars. (D) and (E) as (E) and (F), respectively, and added subpar. (D).
+    Subsec. (l). [Pub. L. 96–496][/us/pl/96/496], § 102(d), inserted “, on a national, State, or local level,” and “strengthening quality by” in provisions of par. (1) preceding subpar. (A), redesignated subpars. (D) and (E) as (E) and (F), respectively, and added subpar. (D).
 
-    Subsec. (m). [Pub. L. 96–496, § 102(e)][/us/pl/96/496/s102/e], struck out subsec. (m) which related to grants or contracts to State arts agencies for photography and film projects.
+    Subsec. (m). [Pub. L. 96–496][/us/pl/96/496], § 102(e), struck out subsec. (m) which related to grants or contracts to State arts agencies for photography and film projects.
 
-    1976—Subsec. (c). [Pub. L. 94–462, § 101][/us/pl/94/462/s101], struck out in provisions preceding par. (1) “in the United States” after “provide or support”.
+    1976—Subsec. (c). [Pub. L. 94–462][/us/pl/94/462], § 101, struck out in provisions preceding par. (1) “in the United States” after “provide or support”.
 
-    Subsec. (g)(4)(A). [Pub. L. 94–462, § 102][/us/pl/94/462/s102], inserted provision that amount of each allotment to a State for any fiscal year shall be available to each State which has a plan approved by the Chairman to pay not more than 50 percent of total cost of any project or production described in subsec. (g)(1).
+    Subsec. (g)(4)(A). [Pub. L. 94–462][/us/pl/94/462], § 102, inserted provision that amount of each allotment to a State for any fiscal year shall be available to each State which has a plan approved by the Chairman to pay not more than 50 percent of total cost of any project or production described in subsec. (g)(1).
 
-    Subsec. (l). [Pub. L. 94–462, § 301(a)][/us/pl/94/462/s301/a], added subsec. (l).
+    Subsec. (l). [Pub. L. 94–462][/us/pl/94/462], § 301(a), added subsec. (l).
 
-    Subsec. (m). [Pub. L. 94–462, § 401(a)][/us/pl/94/462/s401/a], added subsec. (m).
+    Subsec. (m). [Pub. L. 94–462][/us/pl/94/462], § 401(a), added subsec. (m).
 
-    1973—Subsec. (c). [Pub. L. 93–133, § 3][/us/pl/93/133/s3], in opening paragraph, struck out reference to Federal Council on the Arts and Humanities, in cl. (1), substituted “projects and productions” for “production”, in cl. (2), substituted “projects and productions” and “for geographic or economic reasons” for “production” and “in many areas of the country” respectively, in cl. (3), substituted “projects and productions” for “projects”, in cl. (5), substituted “, planning, and publications relating to the purposes of this subsection” for “and planning in the arts”, and added paragraph following cl. (5).
+    1973—Subsec. (c). [Pub. L. 93–133][/us/pl/93/133], § 3, in opening paragraph, struck out reference to Federal Council on the Arts and Humanities, in cl. (1), substituted “projects and productions” for “production”, in cl. (2), substituted “projects and productions” and “for geographic or economic reasons” for “production” and “in many areas of the country” respectively, in cl. (3), substituted “projects and productions” for “projects”, in cl. (5), substituted “, planning, and publications relating to the purposes of this subsection” for “and planning in the arts”, and added paragraph following cl. (5).
 
-    Subsec. (g)(1). [Pub. L. 93–133, § 2(a)(4)(A)][/us/pl/93/133/s2/a/4/A], struck out reference to Federal Council on the Arts and Humanities.
+    Subsec. (g)(1). [Pub. L. 93–133][/us/pl/93/133], § 2(a)(4)(A), struck out reference to Federal Council on the Arts and Humanities.
 
-    Subsec. (g)(2). [Pub. L. 93–133, § 2(a)(4)(B)][/us/pl/93/133/s2/a/4/B], (C), in provisions preceding cl. (A), substituted “assistance under this subsection” and “at such time as shall be specified by the Chairman” for “such assistance” and “prior to the first day of such fiscal year” respectively, and in cl. (B), struck out exception that in the first fiscal year in which the state was allotted funds after Sept. 29, 1965, the plan may provide that amount not exceeding $25,000 will be expended to conduct a study to plan the development and the establishment of a State agency.
+    Subsec. (g)(2). [Pub. L. 93–133][/us/pl/93/133], § 2(a)(4)(B), (C), in provisions preceding cl. (A), substituted “assistance under this subsection” and “at such time as shall be specified by the Chairman” for “such assistance” and “prior to the first day of such fiscal year” respectively, and in cl. (B), struck out exception that in the first fiscal year in which the state was allotted funds after Sept. 29, 1965, the plan may provide that amount not exceeding $25,000 will be expended to conduct a study to plan the development and the establishment of a State agency.
 
-    Subsec. (g)(3). [Pub. L. 93–133, § 2(a)(4)(D)][/us/pl/93/133/s2/a/4/D], added par. (3) and struck out former par. (3) which read as follows: “From the sums appropriated to carry out the purposes of this subsection for any fiscal year, not less than $65,000 shall be allotted to each State. That part of such sums as may remain after such allotment shall be allotted among the States in equal amounts, except that for the purposes of this sentence the term ‘State’ shall not include Guam and American Samoa. If the sums appropriated for any fiscal year to carry out the purposes of this subsection are insufficient to satisfy allotments under the first sentence of this paragraph, such sums shall be allotted among the States in equal amounts.”
+    Subsec. (g)(3). [Pub. L. 93–133][/us/pl/93/133], § 2(a)(4)(D), added par. (3) and struck out former par. (3) which read as follows: “From the sums appropriated to carry out the purposes of this subsection for any fiscal year, not less than $65,000 shall be allotted to each State. That part of such sums as may remain after such allotment shall be allotted among the States in equal amounts, except that for the purposes of this sentence the term ‘State’ shall not include Guam and American Samoa. If the sums appropriated for any fiscal year to carry out the purposes of this subsection are insufficient to satisfy allotments under the first sentence of this paragraph, such sums shall be allotted among the States in equal amounts.”
 
-    Subsec. (g)(4). [Pub. L. 93–133, § 2(a)(4)(D)][/us/pl/93/133/s2/a/4/D], added par. (4) and struck out former par. (4) which read as follows: “The amount of each allotment to a State for any fiscal year under this subsection shall be available to each State, which has a plan approved by the Chairman in effect on the first day of such fiscal year, to pay not more than 50 per centum of the total cost of any project or production described in paragraph (1), and to pay up to 100 per centum of the cost of conducting a study and establishing a State agency under paragraph (2)(B) of this subsection.”
+    Subsec. (g)(4). [Pub. L. 93–133][/us/pl/93/133], § 2(a)(4)(D), added par. (4) and struck out former par. (4) which read as follows: “The amount of each allotment to a State for any fiscal year under this subsection shall be available to each State, which has a plan approved by the Chairman in effect on the first day of such fiscal year, to pay not more than 50 per centum of the total cost of any project or production described in paragraph (1), and to pay up to 100 per centum of the cost of conducting a study and establishing a State agency under paragraph (2)(B) of this subsection.”
 
-    Subsec. (g)(5). [Pub. L. 93–133, § 2(a)(4)(E)][/us/pl/93/133/s2/a/4/E], substituted “All amounts allotted or made available” for “All amounts allotted”.
+    Subsec. (g)(5). [Pub. L. 93–133][/us/pl/93/133], § 2(a)(4)(E), substituted “All amounts allotted or made available” for “All amounts allotted”.
 
-    1970—Subsec. (b). [Pub. L. 91–346, § 5(a)(1)][/us/pl/91/346/s5/a/1], designated existing provisions as cl. (1), and, in cl. (1) as so designated, provided for appointment of the Chairman of the National Endowment for the Arts by the President with the advice and consent of the Senate, and added cl. (2).
+    1970—Subsec. (b). [Pub. L. 91–346][/us/pl/91/346], § 5(a)(1), designated existing provisions as cl. (1), and, in cl. (1) as so designated, provided for appointment of the Chairman of the National Endowment for the Arts by the President with the advice and consent of the Senate, and added cl. (2).
 
-    Subsec. (c)(3). [Pub. L. 91–346, § 4][/us/pl/91/346/s4], expanded grants-in-aid program to enable talented groups or individuals to achieve wider distribution of their works and to work in residence at an educational or cultural institution.
+    Subsec. (c)(3). [Pub. L. 91–346][/us/pl/91/346], § 4, expanded grants-in-aid program to enable talented groups or individuals to achieve wider distribution of their works and to work in residence at an educational or cultural institution.
 
-    Subsecs. (d) to (l). [Pub. L. 91–346, § 5(a)(2)][/us/pl/91/346/s5/a/2], struck out subsec. (d) which provided for the individual appointed as Chairman of the National Council on the Arts to also serve as the Chairman of the National Endowment for the Arts, and redesignated subsecs. (e) to (l), and all references thereto, as subsecs. (d) to (k), respectively.
+    Subsecs. (d) to (l). [Pub. L. 91–346][/us/pl/91/346], § 5(a)(2), struck out subsec. (d) which provided for the individual appointed as Chairman of the National Council on the Arts to also serve as the Chairman of the National Endowment for the Arts, and redesignated subsecs. (e) to (l), and all references thereto, as subsecs. (d) to (k), respectively.
 
-    Subsec. (g)(2)(A). [Pub. L. 91–346, § 6][/us/pl/91/346/s6], permitted the Commissioner of the District of Columbia to designate a successor to the Recreation Board for the purpose of this chapter.
+    Subsec. (g)(2)(A). [Pub. L. 91–346][/us/pl/91/346], § 6, permitted the Commissioner of the District of Columbia to designate a successor to the Recreation Board for the purpose of this chapter.
 
-    Subsec. (g)(3). [Pub. L. 91–346, § 7][/us/pl/91/346/s7], provided minimum of $65,000 allotment to each State from sums appropriated for this subsec., authorized remaining funds to be equally allotted among the States, excluded Guam and American Samoa from term “State”, and provided for equal allotments to States if the sums appropriated are insufficient to satisfy the minimum allotment.
+    Subsec. (g)(3). [Pub. L. 91–346][/us/pl/91/346], § 7, provided minimum of $65,000 allotment to each State from sums appropriated for this subsec., authorized remaining funds to be equally allotted among the States, excluded Guam and American Samoa from term “State”, and provided for equal allotments to States if the sums appropriated are insufficient to satisfy the minimum allotment.
 
-    1968—Subsec. (c). [Pub. L. 90–348, § 2(a)][/us/pl/90/348/s2/a], authorized contracts with groups, or in appropriate cases, individuals engaged in the arts, for the purpose of enabling them to provide or support programs and productions in the arts.
+    1968—Subsec. (c). [Pub. L. 90–348][/us/pl/90/348], § 2(a), authorized contracts with groups, or in appropriate cases, individuals engaged in the arts, for the purpose of enabling them to provide or support programs and productions in the arts.
 
-    Subsec. (f). [Pub. L. 90–348, § 2(a)][/us/pl/90/348/s2/a], provided that contracts as well as grants made by the National Endowment for the Arts be subject to the amount limitation, and eliminated the provision requiring that groups seeking funds from the National Endowment for the Arts submit evidence to the Endowment that it had attempted unsuccessfully to secure an amount of funds equal to the grant applied for by such group, together with a statement of the proportion which any funds it had secured represent the funds applied for by such group.
+    Subsec. (f). [Pub. L. 90–348][/us/pl/90/348], § 2(a), provided that contracts as well as grants made by the National Endowment for the Arts be subject to the amount limitation, and eliminated the provision requiring that groups seeking funds from the National Endowment for the Arts submit evidence to the Endowment that it had attempted unsuccessfully to secure an amount of funds equal to the grant applied for by such group, together with a statement of the proportion which any funds it had secured represent the funds applied for by such group.
 
-    Subsec. (h)(3). [Pub. L. 90–348, § 3][/us/pl/90/348/s3], substituted “Funds appropriated to carry out the purpose of this subsection” for “The funds appropriated pursuant to [section 960(c) of this title][/us/usc/t20/s960/c]”.
+    Subsec. (h)(3). [Pub. L. 90–348][/us/pl/90/348], § 3, substituted “Funds appropriated to carry out the purpose of this subsection” for “The funds appropriated pursuant to [section 960(c) of this title][/us/usc/t20/s960/c]”.
 
-    Subsec. (h)(5). [Pub. L. 90–348, § 3][/us/pl/90/348/s3], struck out provision that amounts available to the National Endowment for the Arts at the end of the fiscal year shall be limited to the excess of the value of gifts, bequests, and devises received by the Endowment over the amounts appropriated to the Endowment, the appropriated amounts to be equal to the amounts received by the Endowment in the form of donations, bequests, and devises, but not to exceed $2,250,000.
+    Subsec. (h)(5). [Pub. L. 90–348][/us/pl/90/348], § 3, struck out provision that amounts available to the National Endowment for the Arts at the end of the fiscal year shall be limited to the excess of the value of gifts, bequests, and devises received by the Endowment over the amounts appropriated to the Endowment, the appropriated amounts to be equal to the amounts received by the Endowment in the form of donations, bequests, and devises, but not to exceed $2,250,000.
 
-    Subsecs. (j), (k). [Pub. L. 90–348, § 2(b)][/us/pl/90/348/s2/b], inserted “of exceptional talent” after “the group or individual”.
+    Subsecs. (j), (k). [Pub. L. 90–348][/us/pl/90/348], § 2(b), inserted “of exceptional talent” after “the group or individual”.
 
     1967—Subsec. (d). [Pub. L. 90–83][/us/pl/90/83] struck out provisions setting the compensation for the Chairman of the National Council on the Arts and the National Endowment for the Arts.
 
@@ -445,7 +445,7 @@
 
  __Applicability of 1985 Amendment__ 
 
-[Pub. L. 99–194, title I, § 112][/us/pl/99/194/s112], Dec. 20, 1985, [99 Stat. 1344][/us/stat/99/1344], provided that: 
+[Pub. L. 99–194, title I][/us/pl/99/194/tI], § 112, Dec. 20, 1985, [99 Stat. 1344][/us/stat/99/1344], provided that: 
 
 > “The amendments made by sections 105(3) and 107(3) \[amending this section and [section 956 of this title][/us/usc/t20/s956]\] shall not apply with respect to plans submitted for financial assistance to be provided with funds appropriated for fiscal year 1986.”
 
@@ -463,7 +463,7 @@
 
  __GAO Study Regarding Federal, State, and Local Funding of the Arts__ 
 
-[Pub. L. 101–512, title III, § 318][/us/pl/101/512/s318] \[title I, § 111\], Nov. 5, 1990, [104 Stat. 1960][/us/stat/104/1960], 1974, provided that:
+[Pub. L. 101–512, title III][/us/pl/101/512/tIII], § 318 \[title I, § 111\], Nov. 5, 1990, [104 Stat. 1960][/us/stat/104/1960], 1974, provided that:
 
 >     “(a)  __Study Required__  __.—__ 
 
@@ -481,7 +481,7 @@
 
  __Temporary Independent Commission To Review Grant Making Procedures and Consider Standards for Publicly Funded Art__ 
 
-    [Pub. L. 101–121, title III, § 304(a)][/us/pl/101/121/s304/a]–(c), Oct. 23, 1989, [103 Stat. 741][/us/stat/103/741], 742, prohibited use of funds for National Endowment for the Arts or National Endowment for the Humanities to promote, disseminate, or produce materials which in judgment of National Endowment for the Arts or National Endowment for the Humanities may be considered obscene; stated the sense of Congress concerning present procedures employed for awarding National Endowment for the Arts grants; and established Independent Commission, to expire Sept. 30, 1990, for purpose of reviewing National Endowment for the Arts grant making procedures, and considering whether standard for publicly funded art should be different than standard for privately funded art.
+    [Pub. L. 101–121, title III][/us/pl/101/121/tIII], § 304(a)–(c), Oct. 23, 1989, [103 Stat. 741][/us/stat/103/741], 742, prohibited use of funds for National Endowment for the Arts or National Endowment for the Humanities to promote, disseminate, or produce materials which in judgment of National Endowment for the Arts or National Endowment for the Humanities may be considered obscene; stated the sense of Congress concerning present procedures employed for awarding National Endowment for the Arts grants; and established Independent Commission, to expire Sept. 30, 1990, for purpose of reviewing National Endowment for the Arts grant making procedures, and considering whether standard for publicly funded art should be different than standard for privately funded art.
 
 ----------
 
@@ -495,27 +495,27 @@
 [/us/usc/t20/s952/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs952%2Fg
 [/us/usc/t40/s3145]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft40%2Fs3145
 [/us/usc/t20/s959]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs959
-[/us/pl/89/209/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F209%2Fs5
+[/us/pl/89/209]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F209
 [/us/stat/79/846]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F846
-[/us/pl/90/83/s10/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F83%2Fs10%2Fb
+[/us/pl/90/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F83
 [/us/stat/81/223]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F223
 [/us/pl/90/348]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F348
 [/us/stat/82/185]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F185
 [/us/pl/91/346]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F346
 [/us/stat/84/443]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F443
-[/us/pl/93/133/s2/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F133%2Fs2%2Fa%2F3
+[/us/pl/93/133]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F133
 [/us/stat/87/462]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F462
-[/us/pl/94/462]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F462
+[/us/pl/94/462/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F462%2FtI
 [/us/stat/90/1971]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1971
-[/us/pl/96/496]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F496
+[/us/pl/96/496/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F496%2FtI
 [/us/stat/94/2583]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2583
-[/us/pl/98/306/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F306%2Fs2
+[/us/pl/98/306]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F306
 [/us/stat/98/223]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F223
-[/us/pl/99/194]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F194
+[/us/pl/99/194/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F194%2FtI
 [/us/stat/99/1332]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F1332
-[/us/pl/101/512/s318]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F512%2Fs318
+[/us/pl/101/512/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F512%2FtIII
 [/us/stat/104/1960]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1960
-[/us/pl/113/76/s416]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F76%2Fs416
+[/us/pl/113/76/dG/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F76%2FdG%2FtIV
 [/us/stat/128/341]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F341
 [/us/pl/101/512]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F512
 [/us/usc/t20/s951]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs951
@@ -523,78 +523,78 @@
 [/us/usc/t40/s3145]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft40%2Fs3145
 [/us/act/1934-06-13/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-13%2Fs2
 [/us/usc/t40/s276c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft40%2Fs276c
-[/us/pl/107/217/s5/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F217%2Fs5%2Fc
+[/us/pl/107/217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F217
 [/us/stat/116/1303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1303
-[/us/pl/113/76/s416/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F76%2Fs416%2F1
-[/us/pl/113/76/s416/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F76%2Fs416%2F2
-[/us/pl/101/512/s318]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F512%2Fs318
-[/us/pl/101/512/s318]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F512%2Fs318
-[/us/pl/101/512/s318]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F512%2Fs318
-[/us/pl/101/512/s318]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F512%2Fs318
-[/us/pl/101/512/s318]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F512%2Fs318
-[/us/pl/101/512/s318]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F512%2Fs318
-[/us/pl/101/512/s318]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F512%2Fs318
-[/us/pl/101/512/s318]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F512%2Fs318
-[/us/pl/101/512/s318]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F512%2Fs318
-[/us/pl/101/512/s318]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F512%2Fs318
-[/us/pl/101/512/s318]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F512%2Fs318
-[/us/pl/101/512/s318]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F512%2Fs318
-[/us/pl/101/512/s318]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F512%2Fs318
-[/us/pl/101/512/s318]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F512%2Fs318
-[/us/pl/101/512/s318]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F512%2Fs318
-[/us/pl/101/512/s318]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F512%2Fs318
-[/us/pl/101/512/s318]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F512%2Fs318
-[/us/pl/101/512/s318]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F512%2Fs318
-[/us/pl/101/512/s318]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F512%2Fs318
-[/us/pl/101/512/s318]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F512%2Fs318
-[/us/pl/101/512/s318]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F512%2Fs318
-[/us/pl/101/512/s318]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F512%2Fs318
-[/us/pl/99/194/s105/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F194%2Fs105%2F1
-[/us/pl/99/194/s105/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F194%2Fs105%2F6
-[/us/pl/99/194/s105/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F194%2Fs105%2F2%2FC
-[/us/pl/99/194/s105/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F194%2Fs105%2F2%2FA
-[/us/pl/99/194/s105/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F194%2Fs105%2F6
-[/us/pl/99/194/s105/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F194%2Fs105%2F3
-[/us/pl/99/194/s105/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F194%2Fs105%2F6
-[/us/pl/99/194/s105/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F194%2Fs105%2F4
-[/us/pl/99/194/s105/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F194%2Fs105%2F6
-[/us/pl/99/194/s105/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F194%2Fs105%2F6
-[/us/pl/99/194/s105/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F194%2Fs105%2F5
-[/us/pl/99/194/s105/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F194%2Fs105%2F6
-[/us/pl/99/194/s105/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F194%2Fs105%2F8
+[/us/pl/113/76]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F76
+[/us/pl/113/76]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F76
+[/us/pl/101/512]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F512
+[/us/pl/101/512]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F512
+[/us/pl/101/512]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F512
+[/us/pl/101/512]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F512
+[/us/pl/101/512]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F512
+[/us/pl/101/512]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F512
+[/us/pl/101/512]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F512
+[/us/pl/101/512]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F512
+[/us/pl/101/512]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F512
+[/us/pl/101/512]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F512
+[/us/pl/101/512]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F512
+[/us/pl/101/512]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F512
+[/us/pl/101/512]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F512
+[/us/pl/101/512]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F512
+[/us/pl/101/512]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F512
+[/us/pl/101/512]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F512
+[/us/pl/101/512]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F512
+[/us/pl/101/512]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F512
+[/us/pl/101/512]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F512
+[/us/pl/101/512]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F512
+[/us/pl/101/512]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F512
+[/us/pl/101/512]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F512
+[/us/pl/99/194]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F194
+[/us/pl/99/194]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F194
+[/us/pl/99/194]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F194
+[/us/pl/99/194]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F194
+[/us/pl/99/194]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F194
+[/us/pl/99/194]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F194
+[/us/pl/99/194]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F194
+[/us/pl/99/194]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F194
+[/us/pl/99/194]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F194
+[/us/pl/99/194]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F194
+[/us/pl/99/194]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F194
+[/us/pl/99/194]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F194
+[/us/pl/99/194]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F194
 [/us/pl/96/496]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F496
-[/us/pl/96/496/s102/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F496%2Fs102%2Fb%2F1
-[/us/pl/96/496/s109/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F496%2Fs109%2Fb
-[/us/pl/96/496/s102/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F496%2Fs102%2Fb%2F2
-[/us/pl/96/496/s102/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F496%2Fs102%2Fc
-[/us/pl/96/496/s102/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F496%2Fs102%2Fd
-[/us/pl/96/496/s102/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F496%2Fs102%2Fe
-[/us/pl/94/462/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F462%2Fs101
-[/us/pl/94/462/s102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F462%2Fs102
-[/us/pl/94/462/s301/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F462%2Fs301%2Fa
-[/us/pl/94/462/s401/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F462%2Fs401%2Fa
-[/us/pl/93/133/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F133%2Fs3
-[/us/pl/93/133/s2/a/4/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F133%2Fs2%2Fa%2F4%2FA
-[/us/pl/93/133/s2/a/4/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F133%2Fs2%2Fa%2F4%2FB
-[/us/pl/93/133/s2/a/4/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F133%2Fs2%2Fa%2F4%2FD
-[/us/pl/93/133/s2/a/4/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F133%2Fs2%2Fa%2F4%2FD
-[/us/pl/93/133/s2/a/4/E]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F133%2Fs2%2Fa%2F4%2FE
-[/us/pl/91/346/s5/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F346%2Fs5%2Fa%2F1
-[/us/pl/91/346/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F346%2Fs4
-[/us/pl/91/346/s5/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F346%2Fs5%2Fa%2F2
-[/us/pl/91/346/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F346%2Fs6
-[/us/pl/91/346/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F346%2Fs7
-[/us/pl/90/348/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F348%2Fs2%2Fa
-[/us/pl/90/348/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F348%2Fs2%2Fa
-[/us/pl/90/348/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F348%2Fs3
+[/us/pl/96/496]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F496
+[/us/pl/96/496]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F496
+[/us/pl/96/496]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F496
+[/us/pl/96/496]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F496
+[/us/pl/96/496]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F496
+[/us/pl/96/496]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F496
+[/us/pl/94/462]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F462
+[/us/pl/94/462]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F462
+[/us/pl/94/462]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F462
+[/us/pl/94/462]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F462
+[/us/pl/93/133]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F133
+[/us/pl/93/133]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F133
+[/us/pl/93/133]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F133
+[/us/pl/93/133]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F133
+[/us/pl/93/133]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F133
+[/us/pl/93/133]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F133
+[/us/pl/91/346]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F346
+[/us/pl/91/346]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F346
+[/us/pl/91/346]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F346
+[/us/pl/91/346]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F346
+[/us/pl/91/346]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F346
+[/us/pl/90/348]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F348
+[/us/pl/90/348]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F348
+[/us/pl/90/348]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F348
 [/us/usc/t20/s960/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs960%2Fc
-[/us/pl/90/348/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F348%2Fs3
-[/us/pl/90/348/s2/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F348%2Fs2%2Fb
+[/us/pl/90/348]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F348
+[/us/pl/90/348]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F348
 [/us/pl/90/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F83
 [/us/pl/101/512]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F512
 [/us/pl/101/512]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F512
 [/us/usc/t20/s951]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs951
-[/us/pl/99/194/s112]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F194%2Fs112
+[/us/pl/99/194/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F194%2FtI
 [/us/stat/99/1344]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F1344
 [/us/usc/t20/s956]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs956
 [/us/pl/93/133]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F133
@@ -605,10 +605,10 @@
 [/us/usc/t20/s955]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs955
 [/us/pl/104/66/s3003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F66%2Fs3003
 [/us/usc/t31/s1113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1113
-[/us/pl/101/512/s318]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F512%2Fs318
+[/us/pl/101/512/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F512%2FtIII
 [/us/stat/104/1960]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1960
 [/us/usc/t20/s954]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs954
-[/us/pl/101/121/s304/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F121%2Fs304%2Fa
+[/us/pl/101/121/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F121%2FtIII
 [/us/stat/103/741]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F741
 
 

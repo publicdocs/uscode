@@ -57,15 +57,7 @@
 
         (2) __Minimum percentage__ 
 
-        The percentage in paragraph (1)(A) shall not be less than—
-
-            (A) for fiscal year 2002, 77.5 percent;
-
-            (B) for fiscal year 2003, 80.0 percent;
-
-            (C) for fiscal year 2004, 82.5 percent; and
-
-            (D) for fiscal year 2005 and succeeding fiscal years, 85.0 percent.
+            The percentage in paragraph (1)(A) shall not be less than 85 percent.
 
         (3) __Limitation__ 
 
@@ -79,11 +71,19 @@
 
         If the amount appropriated for any fiscal year for subgrants under subsections (a) and (b) of this section is insufficient to pay the full amount for which all State agencies are eligible under such subsections, the Secretary shall ratably reduce each such amount.
 
-([Pub. L. 89–10, title I, § 1412][/us/pl/89/10/s1412], as added [Pub. L. 107–110, title I, § 101][/us/pl/107/110/s101], Jan. 8, 2002, [115 Stat. 1581][/us/stat/115/1581].)
+([Pub. L. 89–10, title I][/us/pl/89/10/tI], § 1412, as added [Pub. L. 107–110, title I][/us/pl/107/110/tI], § 101, Jan. 8, 2002, [115 Stat. 1581][/us/stat/115/1581]; amended [Pub. L. 114–95, title I][/us/pl/114/95/tI], § 1401(2), Dec. 10, 2015, [129 Stat. 1900][/us/stat/129/1900].)
 
  __Prior Provisions__ 
 
-    A prior section 6432, [Pub. L. 89–10, title I, § 1412][/us/pl/89/10/s1412], as added [Pub. L. 103–382, title I, § 101][/us/pl/103/382/s101], Oct. 20, 1994, [108 Stat. 3592][/us/stat/108/3592], related to allocation of funds, prior to the general amendment of this subchapter by [Pub. L. 107–110][/us/pl/107/110].
+    A prior section 6432, [Pub. L. 89–10, title I][/us/pl/89/10/tI], § 1412, as added [Pub. L. 103–382, title I][/us/pl/103/382/tI], § 101, Oct. 20, 1994, [108 Stat. 3592][/us/stat/108/3592], related to allocation of funds, prior to the general amendment of this subchapter by [Pub. L. 107–110][/us/pl/107/110].
+
+ __Amendments__ 
+
+    2015—Subsec. (b)(2). [Pub. L. 114–95][/us/pl/114/95] added par. (2) and struck out former par. (2) which related to minimum percentage for fiscal year 2002, fiscal year 2003, fiscal year 2004, and fiscal year 2005 and succeeding fiscal years.
+
+ __Effective Date of 2015 Amendment__ 
+
+    Amendment by [Pub. L. 114–95][/us/pl/114/95] effective Dec. 10, 2015, except with respect to certain noncompetitive programs and competitive programs, see [section 5 of Pub. L. 114–95][/us/pl/114/95/s5], set out as a note under [section 6301 of this title][/us/usc/t20/s6301].
 
 ----------
 
@@ -94,12 +94,18 @@
 
 [/us/usc/t20/s6431]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs6431
 [/us/usc/t20/s6431]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs6431
-[/us/pl/89/10/s1412]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F10%2Fs1412
-[/us/pl/107/110/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F110%2Fs101
+[/us/pl/89/10/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F10%2FtI
+[/us/pl/107/110/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F110%2FtI
 [/us/stat/115/1581]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F1581
-[/us/pl/89/10/s1412]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F10%2Fs1412
-[/us/pl/103/382/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F382%2Fs101
+[/us/pl/114/95/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F95%2FtI
+[/us/stat/129/1900]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1900
+[/us/pl/89/10/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F10%2FtI
+[/us/pl/103/382/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F382%2FtI
 [/us/stat/108/3592]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3592
 [/us/pl/107/110]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F110
+[/us/pl/114/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F95
+[/us/pl/114/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F95
+[/us/pl/114/95/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F95%2Fs5
+[/us/usc/t20/s6301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs6301
 
 

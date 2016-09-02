@@ -17,7 +17,7 @@
 
     The national air and space museum shall memorialize the national development of aviation and space flight; collect, preserve, and display aeronautical and space flight equipment of historical interest and significance; serve as a repository for scientific equipment and data pertaining to the development of aviation and space flight; and provide educational material for the historical study of aviation and space flight.
 
-([Aug. 12, 1946, ch. 955, § 2][/us/act/1946-08-12/ch955/s2], [60 Stat. 998][/us/stat/60/998]; [Pub. L. 89–509][/us/pl/89/509], pt. I, § 4, July 19, 1966, [80 Stat. 310][/us/stat/80/310].)
+([Aug. 12, 1946, ch. 955][/us/act/1946-08-12/ch955], § 2, [60 Stat. 998][/us/stat/60/998]; [Pub. L. 89–509][/us/pl/89/509], pt. I, § 4, July 19, 1966, [80 Stat. 310][/us/stat/80/310].)
 
  __Amendments__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/act/1946-08-12/ch955/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-08-12%2Fch955%2Fs2
+[/us/act/1946-08-12/ch955]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-08-12%2Fch955
 [/us/stat/60/998]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F60%2F998
 [/us/pl/89/509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F509
 [/us/stat/80/310]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F310

@@ -31,11 +31,11 @@
 
         Any person who knowingly and willfully destroys or conceals any record relating to the provision of assistance under this subchapter and part C of subchapter I of chapter 34 of title 42 or attempts to so destroy or conceal with intent to defraud the United States or to prevent the United States from enforcing any right obtained by subrogation under this part, shall upon conviction thereof, be fined not more than $20,000 or imprisoned not more than 5 years, or both.
 
-([Pub. L. 89–329, title IV, § 490][/us/pl/89/329/s490], as added [Pub. L. 99–498, title IV, § 407(a)][/us/pl/99/498/s407/a], Oct. 17, 1986, [100 Stat. 1491][/us/stat/100/1491]; amended [Pub. L. 102–325, title IV, § 495][/us/pl/102/325/s495], July 23, 1992, [106 Stat. 631][/us/stat/106/631].)
+([Pub. L. 89–329, title IV][/us/pl/89/329/tIV], § 490, as added [Pub. L. 99–498, title IV][/us/pl/99/498/tIV], § 407(a), Oct. 17, 1986, [100 Stat. 1491][/us/stat/100/1491]; amended [Pub. L. 102–325, title IV][/us/pl/102/325/tIV], § 495, July 23, 1992, [106 Stat. 631][/us/stat/106/631].)
 
  __Prior Provisions__ 
 
-    A prior section 1097, [Pub. L. 89–329, title IV, § 490][/us/pl/89/329/s490], as added [Pub. L. 96–374, title IV, § 451(a)][/us/pl/96/374/s451/a], Oct. 3, 1980, [94 Stat. 1453][/us/stat/94/1453], related to criminal penalties, prior to the general revision of this part by [Pub. L. 99–498][/us/pl/99/498].
+    A prior section 1097, [Pub. L. 89–329, title IV][/us/pl/89/329/tIV], § 490, as added [Pub. L. 96–374, title IV][/us/pl/96/374/tIV], § 451(a), Oct. 3, 1980, [94 Stat. 1453][/us/stat/94/1453], related to criminal penalties, prior to the general revision of this part by [Pub. L. 99–498][/us/pl/99/498].
 
  __Amendments__ 
 
@@ -48,13 +48,13 @@
 ----------
 ----------
 
-[/us/pl/89/329/s490]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2Fs490
-[/us/pl/99/498/s407/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F498%2Fs407%2Fa
+[/us/pl/89/329/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2FtIV
+[/us/pl/99/498/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F498%2FtIV
 [/us/stat/100/1491]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1491
-[/us/pl/102/325/s495]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325%2Fs495
+[/us/pl/102/325/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325%2FtIV
 [/us/stat/106/631]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F631
-[/us/pl/89/329/s490]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2Fs490
-[/us/pl/96/374/s451/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F374%2Fs451%2Fa
+[/us/pl/89/329/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2FtIV
+[/us/pl/96/374/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F374%2FtIV
 [/us/stat/94/1453]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F1453
 [/us/pl/99/498]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F498
 [/us/pl/102/325]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325

@@ -17,11 +17,11 @@
 
  __Codification__ 
 
-    [Pub. L. 105–244, title III, § 301(a)(3)][/us/pl/105/244/s301/a/3], Oct. 7, 1998, [112 Stat. 1636][/us/stat/112/1636], redesignated part B of subchapter VII of this chapter as part D of subchapter III of this chapter.
+    [Pub. L. 105–244, title III][/us/pl/105/244/tIII], § 301(a)(3), Oct. 7, 1998, [112 Stat. 1636][/us/stat/112/1636], redesignated part B of subchapter VII of this chapter as part D of subchapter III of this chapter.
 
  __Prior Provisions__ 
 
-    A prior part D, consisting of sections 1066 to 1069, 1069b to 1069d, and 1069f, was redesignated part F (§ 1068 et seq.) of this subchapter by [Pub. L. 105–244, title III, § 301(a)(1)][/us/pl/105/244/s301/a/1], Oct. 7, 1998, [112 Stat. 1636][/us/stat/112/1636].
+    A prior part D, consisting of sections 1066 to 1069, 1069b to 1069d, and 1069f, was redesignated part F (§ 1068 et seq.) of this subchapter by [Pub. L. 105–244, title III][/us/pl/105/244/tIII], § 301(a)(1), Oct. 7, 1998, [112 Stat. 1636][/us/stat/112/1636].
 
 ----------
 
@@ -30,9 +30,9 @@
 ----------
 ----------
 
-[/us/pl/105/244/s301/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2Fs301%2Fa%2F3
+[/us/pl/105/244/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2FtIII
 [/us/stat/112/1636]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F1636
-[/us/pl/105/244/s301/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2Fs301%2Fa%2F1
+[/us/pl/105/244/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2FtIII
 [/us/stat/112/1636]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F1636
 
 

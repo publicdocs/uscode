@@ -139,21 +139,21 @@
 
             (B) maintaining the loan burden of each such student at a manageable level.
 
-([Pub. L. 89–329, title IV, § 402D][/us/pl/89/329/s402D], as added [Pub. L. 102–325, title IV, § 402(a)(4)][/us/pl/102/325/s402/a/4], July 23, 1992, [106 Stat. 488][/us/stat/106/488]; amended [Pub. L. 103–208, § 2(b)(11)][/us/pl/103/208/s2/b/11], Dec. 20, 1993, [107 Stat. 2459][/us/stat/107/2459]; [Pub. L. 105–244, title IV, § 402(d)][/us/pl/105/244/s402/d], Oct. 7, 1998, [112 Stat. 1655][/us/stat/112/1655]; [Pub. L. 106–554, § 1(a)(1)][/us/pl/106/554/s1/a/1] \[title III, § 317(a)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–48; [Pub. L. 110–315, title IV, § 403(d)][/us/pl/110/315/s403/d], Aug. 14, 2008, [122 Stat. 3201][/us/stat/122/3201]; [Pub. L. 111–152, title II, § 2101(b)(2)][/us/pl/111/152/s2101/b/2], Mar. 30, 2010, [124 Stat. 1073][/us/stat/124/1073].)
+([Pub. L. 89–329, title IV][/us/pl/89/329/tIV], § 402D, as added [Pub. L. 102–325, title IV][/us/pl/102/325/tIV], § 402(a)(4), July 23, 1992, [106 Stat. 488][/us/stat/106/488]; amended [Pub. L. 103–208][/us/pl/103/208], § 2(b)(11), Dec. 20, 1993, [107 Stat. 2459][/us/stat/107/2459]; [Pub. L. 105–244, title IV][/us/pl/105/244/tIV], § 402(d), Oct. 7, 1998, [112 Stat. 1655][/us/stat/112/1655]; [Pub. L. 106–554][/us/pl/106/554], § 1(a)(1) \[title III, § 317(a)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–48; [Pub. L. 110–315, title IV][/us/pl/110/315/tIV], § 403(d), Aug. 14, 2008, [122 Stat. 3201][/us/stat/122/3201]; [Pub. L. 111–152, title II][/us/pl/111/152/tII], § 2101(b)(2), Mar. 30, 2010, [124 Stat. 1073][/us/stat/124/1073].)
 
  __Amendments__ 
 
     2010—Subsec. (d)(1). [Pub. L. 111–152][/us/pl/111/152] substituted “exceed the Federal Pell Grant amount, determined under [section 1070a(b)(2)(A) of this title][/us/usc/t20/s1070a/b/2/A], for which a student is eligible, or be less than the minimum Federal Pell Grant amount described in [section 1070a(b)(4) of this title][/us/usc/t20/s1070a/b/4], for” for “exceed the maximum appropriated Pell Grant or, be less than the minimum appropriated Pell Grant, for”.
 
-    2008—Subsec. (a)(3), (4). [Pub. L. 110–315, § 403(d)(1)][/us/pl/110/315/s403/d/1], added pars. (3) and (4) and struck out former par. (3) which read as follows: “to foster an institutional climate supportive of the success of low-income and first generation college students and individuals with disabilities.”
+    2008—Subsec. (a)(3), (4). [Pub. L. 110–315][/us/pl/110/315], § 403(d)(1), added pars. (3) and (4) and struck out former par. (3) which read as follows: “to foster an institutional climate supportive of the success of low-income and first generation college students and individuals with disabilities.”
 
-    Subsec. (b). [Pub. L. 110–315, § 403(d)(3)][/us/pl/110/315/s403/d/3], added subsec. (b) and struck out former subsec. (b) which related to permissible services.
+    Subsec. (b). [Pub. L. 110–315][/us/pl/110/315], § 403(d)(3), added subsec. (b) and struck out former subsec. (b) which related to permissible services.
 
-    Subsecs. (c), (d). [Pub. L. 110–315, § 403(d)(2)][/us/pl/110/315/s403/d/2], (3), added subsec. (c) and redesignated former subsec. (c) as (d). Former subsec. (d) redesignated (e).
+    Subsecs. (c), (d). [Pub. L. 110–315][/us/pl/110/315], § 403(d)(2), (3), added subsec. (c) and redesignated former subsec. (c) as (d). Former subsec. (d) redesignated (e).
 
-    Subsec. (d)(1). [Pub. L. 110–315, § 403(d)(4)][/us/pl/110/315/s403/d/4], substituted “subsection (c)” for “subsection (b)”.
+    Subsec. (d)(1). [Pub. L. 110–315][/us/pl/110/315], § 403(d)(4), substituted “subsection (c)” for “subsection (b)”.
 
-    Subsec. (e). [Pub. L. 110–315, § 403(d)(2)][/us/pl/110/315/s403/d/2], (5), redesignated subsec. (d) as (e) and substituted “projects under this section” for “student support services projects under this division” in introductory provisions.
+    Subsec. (e). [Pub. L. 110–315][/us/pl/110/315], § 403(d)(2), (5), redesignated subsec. (d) as (e) and substituted “projects under this section” for “student support services projects under this division” in introductory provisions.
 
     2000—Subsecs. (c), (d). [Pub. L. 106–554][/us/pl/106/554] added subsec. (c) and redesignated former subsec. (c) as (d).
 
@@ -167,7 +167,7 @@
 
  __Effective Date of 2000 Amendment__ 
 
-[Pub. L. 106–554, § 1(a)(1)][/us/pl/106/554/s1/a/1] \[title III, § 317(b)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–49, provided that: 
+[Pub. L. 106–554][/us/pl/106/554], § 1(a)(1) \[title III, § 317(b)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–49, provided that: 
 
 > “The amendments made by subsection (a) \[amending this section\] shall apply with respect to student support services grants awarded on or after the date of enactment of this Act \[Dec. 21, 2000\].”
 
@@ -192,34 +192,34 @@
 [/us/usc/t42/s11434a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs11434a
 [/us/usc/t20/s1070a/b/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1070a%2Fb%2F2%2FA
 [/us/usc/t20/s1070a/b/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1070a%2Fb%2F4
-[/us/pl/89/329/s402D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2Fs402D
-[/us/pl/102/325/s402/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325%2Fs402%2Fa%2F4
+[/us/pl/89/329/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2FtIV
+[/us/pl/102/325/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325%2FtIV
 [/us/stat/106/488]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F488
-[/us/pl/103/208/s2/b/11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F208%2Fs2%2Fb%2F11
+[/us/pl/103/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F208
 [/us/stat/107/2459]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F2459
-[/us/pl/105/244/s402/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2Fs402%2Fd
+[/us/pl/105/244/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2FtIV
 [/us/stat/112/1655]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F1655
-[/us/pl/106/554/s1/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F1
+[/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
 [/us/stat/114/2763]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2763
-[/us/pl/110/315/s403/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2Fs403%2Fd
+[/us/pl/110/315/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2FtIV
 [/us/stat/122/3201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3201
-[/us/pl/111/152/s2101/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F152%2Fs2101%2Fb%2F2
+[/us/pl/111/152/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F152%2FtII
 [/us/stat/124/1073]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1073
 [/us/pl/111/152]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F152
 [/us/usc/t20/s1070a/b/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1070a%2Fb%2F2%2FA
 [/us/usc/t20/s1070a/b/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1070a%2Fb%2F4
-[/us/pl/110/315/s403/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2Fs403%2Fd%2F1
-[/us/pl/110/315/s403/d/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2Fs403%2Fd%2F3
-[/us/pl/110/315/s403/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2Fs403%2Fd%2F2
-[/us/pl/110/315/s403/d/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2Fs403%2Fd%2F4
-[/us/pl/110/315/s403/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2Fs403%2Fd%2F2
+[/us/pl/110/315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315
+[/us/pl/110/315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315
+[/us/pl/110/315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315
+[/us/pl/110/315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315
+[/us/pl/110/315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315
 [/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
 [/us/pl/105/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244
 [/us/pl/103/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F208
 [/us/pl/111/152]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F152
 [/us/pl/111/152/s2101/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F152%2Fs2101%2Fc
 [/us/usc/t20/s1070a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1070a
-[/us/pl/106/554/s1/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F1
+[/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
 [/us/stat/114/2763]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2763
 [/us/pl/105/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244
 [/us/pl/105/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244

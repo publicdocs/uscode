@@ -17,7 +17,7 @@
 
     Annual appropriations are authorized to aid in the construction, development, improvement, endowment, and maintenance of the university, no part of which shall be used for religious instruction. The university shall at all times be open to inspection by the Secretary of Education and shall be inspected by the said Secretary at least once each year.
 
-([Mar. 2, 1867, ch. 162, § 8][/us/act/1867-03-02/ch162/s8], [14 Stat. 439][/us/stat/14/439]; [Dec. 13, 1928, ch. 26][/us/act/1928-12-13/ch26], [45 Stat. 1021][/us/stat/45/1021]; 1940 Reorg. Plan No. IV, § 11(c), eff. June 30, 1940, 5 F.R. 2422, [54 Stat. 1237][/us/stat/54/1237]; [Aug. 7, 1946, ch. 770, § 1(60)][/us/act/1946-08-07/ch770/s1/60], [60 Stat. 871][/us/stat/60/871]; [Pub. L. 96–88, title III, § 301(a)(2)(M)][/us/pl/96/88/s301/a/2/M], title V, § 507, Oct. 17, 1979, [93 Stat. 678][/us/stat/93/678], 692; [Pub. L. 98–480, title II, § 208][/us/pl/98/480/s208], Oct. 17, 1984, [98 Stat. 2247][/us/stat/98/2247].)
+([Mar. 2, 1867, ch. 162][/us/act/1867-03-02/ch162], § 8, [14 Stat. 439][/us/stat/14/439]; [Dec. 13, 1928, ch. 26][/us/act/1928-12-13/ch26], [45 Stat. 1021][/us/stat/45/1021]; 1940 Reorg. Plan No. IV, § 11(c), eff. June 30, 1940, 5 F.R. 2422, [54 Stat. 1237][/us/stat/54/1237]; [Aug. 7, 1946, ch. 770][/us/act/1946-08-07/ch770], § 1(60), [60 Stat. 871][/us/stat/60/871]; [Pub. L. 96–88, title III][/us/pl/96/88/tIII], § 301(a)(2)(M), title V, § 507, Oct. 17, 1979, [93 Stat. 678][/us/stat/93/678], 692; [Pub. L. 98–480, title II][/us/pl/98/480/tII], § 208, Oct. 17, 1984, [98 Stat. 2247][/us/stat/98/2247].)
 
  __Amendments__ 
 
@@ -52,16 +52,16 @@
 ----------
 ----------
 
-[/us/act/1867-03-02/ch162/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1867-03-02%2Fch162%2Fs8
+[/us/act/1867-03-02/ch162]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1867-03-02%2Fch162
 [/us/stat/14/439]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F14%2F439
 [/us/act/1928-12-13/ch26]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1928-12-13%2Fch26
 [/us/stat/45/1021]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F45%2F1021
 [/us/stat/54/1237]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F54%2F1237
-[/us/act/1946-08-07/ch770/s1/60]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-08-07%2Fch770%2Fs1%2F60
+[/us/act/1946-08-07/ch770]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-08-07%2Fch770
 [/us/stat/60/871]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F60%2F871
-[/us/pl/96/88/s301/a/2/M]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F88%2Fs301%2Fa%2F2%2FM
+[/us/pl/96/88/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F88%2FtIII
 [/us/stat/93/678]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F678
-[/us/pl/98/480/s208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F480%2Fs208
+[/us/pl/98/480/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F480%2FtII
 [/us/stat/98/2247]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2247
 [/us/pl/98/480]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F480
 [/us/pl/98/480]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F480

@@ -171,7 +171,7 @@
 
         In making a determination of eligibility under paragraph (4)(A), a child shall not be determined to be a child with a disability if the determinant factor for such determination is—
 
-            (A) lack of appropriate instruction in reading, including in the essential components of reading instruction (as defined in [section 6368(3) of this title][/us/usc/t20/s6368/3]);
+            (A) lack of appropriate instruction in reading, including in the essential components of reading instruction (as defined in [section 6368(3) of this title][/us/usc/t20/s6368/3], as such section was in effect on the day before December 10, 2015);
 
             (B) lack of instruction in math; or
 
@@ -577,15 +577,27 @@
 
         When conducting IEP team  <sup>\[2\]</sup>  <sup><sup> 2 So in original. Probably should be capitalized. </sup></sup>  meetings and placement meetings pursuant to this section, [section 1415(e) of this title][/us/usc/t20/s1415/e], and [section 1415(f)(1)(B) of this title][/us/usc/t20/s1415/f/1/B], and carrying out administrative matters under [section 1415 of this title][/us/usc/t20/s1415] (such as scheduling, exchange of witness lists, and status conferences), the parent of a child with a disability and a local educational agency may agree to use alternative means of meeting participation, such as video conferences and conference calls.
 
-([Pub. L. 91–230, title VI, § 614][/us/pl/91/230/s614], as added [Pub. L. 108–446, title I, § 101][/us/pl/108/446/s101], Dec. 3, 2004, [118 Stat. 2702][/us/stat/118/2702].)
+([Pub. L. 91–230, title VI][/us/pl/91/230/tVI], § 614, as added [Pub. L. 108–446, title I][/us/pl/108/446/tI], § 101, Dec. 3, 2004, [118 Stat. 2702][/us/stat/118/2702]; amended [Pub. L. 114–95, title IX][/us/pl/114/95/tIX], § 9215(ss)(5), Dec. 10, 2015, [129 Stat. 2182][/us/stat/129/2182].)
+
+ __References in Text__ 
+
+    [Section 6368(3) of this title][/us/usc/t20/s6368/3], as such section was in effect on the day before December 10, 2015, referred to in subsec. (b)(5)(A), was in the original “section 1208(3) of the Elementary and Secondary Education Act of 1965, as such section was in effect on the day before the date of enactment of the Every Student Succeeds Act”, meaning [section 1208(3) of Pub. L. 89–10][/us/pl/89/10/s1208/3] as such section was in effect on the day before the date of enactment of [Pub. L. 114–95][/us/pl/114/95]. [Section 6368 of this title][/us/usc/t20/s6368] was omitted from the Code in the general amendment of part B of title I of [Pub. L. 89–10][/us/pl/89/10] by [section 1201 of Pub. L. 114–95][/us/pl/114/95/s1201], effective Dec. 10, 2015.
 
  __Prior Provisions__ 
 
-    A prior section 1414, [Pub. L. 91–230, title VI, § 614][/us/pl/91/230/s614], as added [Pub. L. 105–17, title I, § 101][/us/pl/105/17/s101], June 4, 1997, [111 Stat. 81][/us/stat/111/81], related to evaluations, eligibility determinations, individualized education programs, and educational placements, prior to the general amendment of subchapters I to IV of this chapter by [Pub. L. 108–446][/us/pl/108/446].
+    A prior section 1414, [Pub. L. 91–230, title VI][/us/pl/91/230/tVI], § 614, as added [Pub. L. 105–17, title I][/us/pl/105/17/tI], § 101, June 4, 1997, [111 Stat. 81][/us/stat/111/81], related to evaluations, eligibility determinations, individualized education programs, and educational placements, prior to the general amendment of subchapters I to IV of this chapter by [Pub. L. 108–446][/us/pl/108/446].
 
-    Another prior section 1414, [Pub. L. 91–230, title VI, § 614][/us/pl/91/230/s614], Apr. 13, 1970, [84 Stat. 181][/us/stat/84/181]; [Pub. L. 94–142, § 5(a)][/us/pl/94/142/s5/a], Nov. 29, 1975, [89 Stat. 784][/us/stat/89/784]; [Pub. L. 98–199, § 3(b)][/us/pl/98/199/s3/b], Dec. 2, 1983, [97 Stat. 1358][/us/stat/97/1358]; [Pub. L. 100–630, title I, § 102(d)][/us/pl/100/630/s102/d], Nov. 7, 1988, [102 Stat. 3293][/us/stat/102/3293]; [Pub. L. 101–476, title IX, § 901(b)(59)][/us/pl/101/476/s901/b/59]–(70), Oct. 30, 1990, [104 Stat. 1144][/us/stat/104/1144], 1145; [Pub. L. 102–119][/us/pl/102/119], §§ 6, 25(b), Oct. 7, 1991, [105 Stat. 591][/us/stat/105/591], 607, related to requisite features of an application, approval of application by State educational agency, consolidated applications of local educational agencies, and provision of special education and related services directly to children with disabilities in areas not served by local educational agency, prior to the general amendment of subchapters I to IV of this chapter by [Pub. L. 105–17][/us/pl/105/17].
+    Another prior section 1414, [Pub. L. 91–230, title VI][/us/pl/91/230/tVI], § 614, Apr. 13, 1970, [84 Stat. 181][/us/stat/84/181]; [Pub. L. 94–142][/us/pl/94/142], § 5(a), Nov. 29, 1975, [89 Stat. 784][/us/stat/89/784]; [Pub. L. 98–199][/us/pl/98/199], § 3(b), Dec. 2, 1983, [97 Stat. 1358][/us/stat/97/1358]; [Pub. L. 100–630, title I][/us/pl/100/630/tI], § 102(d), Nov. 7, 1988, [102 Stat. 3293][/us/stat/102/3293]; [Pub. L. 101–476, title IX][/us/pl/101/476/tIX], § 901(b)(59)–(70), Oct. 30, 1990, [104 Stat. 1144][/us/stat/104/1144], 1145; [Pub. L. 102–119][/us/pl/102/119], §§ 6, 25(b), Oct. 7, 1991, [105 Stat. 591][/us/stat/105/591], 607, related to requisite features of an application, approval of application by State educational agency, consolidated applications of local educational agencies, and provision of special education and related services directly to children with disabilities in areas not served by local educational agency, prior to the general amendment of subchapters I to IV of this chapter by [Pub. L. 105–17][/us/pl/105/17].
 
-    A prior section 1414a, [Pub. L. 91–230, title VI, § 614A][/us/pl/91/230/s614A], as added [Pub. L. 103–382, title III, § 312][/us/pl/103/382/s312], Oct. 20, 1994, [108 Stat. 3934][/us/stat/108/3934], which related to treatment of State agencies that received funds for fiscal year 1994 under subpart 2 of part D of chapter 1 of title I of the Elementary and Secondary Education Act of 1965 (as in existence on the day preceding Oct. 20, 1994), was omitted in the general amendment of subchapters I to IV of this chapter by [Pub. L. 105–17][/us/pl/105/17].
+    A prior section 1414a, [Pub. L. 91–230, title VI][/us/pl/91/230/tVI], § 614A, as added [Pub. L. 103–382, title III][/us/pl/103/382/tIII], § 312, Oct. 20, 1994, [108 Stat. 3934][/us/stat/108/3934], which related to treatment of State agencies that received funds for fiscal year 1994 under subpart 2 of part D of chapter 1 of title I of the Elementary and Secondary Education Act of 1965 (as in existence on the day preceding Oct. 20, 1994), was omitted in the general amendment of subchapters I to IV of this chapter by [Pub. L. 105–17][/us/pl/105/17].
+
+ __Amendments__ 
+
+    2015—Subsec. (b)(5)(A). [Pub. L. 114–95][/us/pl/114/95] inserted “, as such section was in effect on the day before December 10, 2015” after “of this title”.
+
+ __Effective Date of 2015 Amendment__ 
+
+    Amendment by [Pub. L. 114–95][/us/pl/114/95] effective Dec. 10, 2015, except with respect to certain noncompetitive programs and competitive programs, see [section 5 of Pub. L. 114–95][/us/pl/114/95/s5], set out as a note under [section 6301 of this title][/us/usc/t20/s6301].
 
 ----------
 
@@ -612,29 +624,41 @@
 [/us/usc/t20/s1415/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1415%2Fe
 [/us/usc/t20/s1415/f/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1415%2Ff%2F1%2FB
 [/us/usc/t20/s1415]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1415
-[/us/pl/91/230/s614]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F230%2Fs614
-[/us/pl/108/446/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F446%2Fs101
+[/us/pl/91/230/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F230%2FtVI
+[/us/pl/108/446/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F446%2FtI
 [/us/stat/118/2702]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F2702
-[/us/pl/91/230/s614]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F230%2Fs614
-[/us/pl/105/17/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F17%2Fs101
+[/us/pl/114/95/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F95%2FtIX
+[/us/stat/129/2182]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F2182
+[/us/usc/t20/s6368/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs6368%2F3
+[/us/pl/89/10/s1208/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F10%2Fs1208%2F3
+[/us/pl/114/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F95
+[/us/usc/t20/s6368]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs6368
+[/us/pl/89/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F10
+[/us/pl/114/95/s1201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F95%2Fs1201
+[/us/pl/91/230/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F230%2FtVI
+[/us/pl/105/17/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F17%2FtI
 [/us/stat/111/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F81
 [/us/pl/108/446]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F446
-[/us/pl/91/230/s614]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F230%2Fs614
+[/us/pl/91/230/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F230%2FtVI
 [/us/stat/84/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F181
-[/us/pl/94/142/s5/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F142%2Fs5%2Fa
+[/us/pl/94/142]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F142
 [/us/stat/89/784]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F784
-[/us/pl/98/199/s3/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F199%2Fs3%2Fb
+[/us/pl/98/199]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F199
 [/us/stat/97/1358]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F1358
-[/us/pl/100/630/s102/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F630%2Fs102%2Fd
+[/us/pl/100/630/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F630%2FtI
 [/us/stat/102/3293]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3293
-[/us/pl/101/476/s901/b/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F476%2Fs901%2Fb%2F59
+[/us/pl/101/476/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F476%2FtIX
 [/us/stat/104/1144]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1144
 [/us/pl/102/119]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F119
 [/us/stat/105/591]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F591
 [/us/pl/105/17]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F17
-[/us/pl/91/230/s614A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F230%2Fs614A
-[/us/pl/103/382/s312]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F382%2Fs312
+[/us/pl/91/230/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F230%2FtVI
+[/us/pl/103/382/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F382%2FtIII
 [/us/stat/108/3934]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3934
 [/us/pl/105/17]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F17
+[/us/pl/114/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F95
+[/us/pl/114/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F95
+[/us/pl/114/95/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F95%2Fs5
+[/us/usc/t20/s6301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs6301
 
 

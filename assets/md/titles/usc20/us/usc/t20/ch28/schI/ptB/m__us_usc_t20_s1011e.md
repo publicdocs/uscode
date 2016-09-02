@@ -23,13 +23,13 @@
 
     (3) obtaining a bond or other insurance that such payments will be made.
 
-([Pub. L. 89–329, title I, § 116][/us/pl/89/329/s116], as added [Pub. L. 105–244, title I, § 101(a)][/us/pl/105/244/s101/a], Oct. 7, 1998, [112 Stat. 1593][/us/stat/112/1593].)
+([Pub. L. 89–329, title I][/us/pl/89/329/tI], § 116, as added [Pub. L. 105–244, title I][/us/pl/105/244/tI], § 101(a), Oct. 7, 1998, [112 Stat. 1593][/us/stat/112/1593].)
 
  __Prior Provisions__ 
 
     Provisions similar to this section were contained in [section 1145c of this title][/us/usc/t20/s1145c] prior to repeal by [Pub. L. 105–244][/us/pl/105/244].
 
-    A prior section 1011e, [Pub. L. 89–329, title I, § 126][/us/pl/89/329/s126], as added [Pub. L. 102–325, title I, § 101][/us/pl/102/325/s101], July 23, 1992, [106 Stat. 464][/us/stat/106/464], related to State administrative costs, prior to the general amendment of this subchapter by [Pub. L. 105–244][/us/pl/105/244].
+    A prior section 1011e, [Pub. L. 89–329, title I][/us/pl/89/329/tI], § 126, as added [Pub. L. 102–325, title I][/us/pl/102/325/tI], § 101, July 23, 1992, [106 Stat. 464][/us/stat/106/464], related to State administrative costs, prior to the general amendment of this subchapter by [Pub. L. 105–244][/us/pl/105/244].
 
 ----------
 
@@ -38,13 +38,13 @@
 ----------
 ----------
 
-[/us/pl/89/329/s116]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2Fs116
-[/us/pl/105/244/s101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2Fs101%2Fa
+[/us/pl/89/329/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2FtI
+[/us/pl/105/244/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2FtI
 [/us/stat/112/1593]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F1593
 [/us/usc/t20/s1145c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1145c
 [/us/pl/105/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244
-[/us/pl/89/329/s126]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2Fs126
-[/us/pl/102/325/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325%2Fs101
+[/us/pl/89/329/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2FtI
+[/us/pl/102/325/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325%2FtI
 [/us/stat/106/464]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F464
 [/us/pl/105/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244
 

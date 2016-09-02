@@ -21,7 +21,7 @@
 
  __Codification__ 
 
-    R.S. § 5584 derived from [act Aug. 10, 1846, ch. 178, § 7][/us/act/1846-08-10/ch178/s7], [9 Stat. 105][/us/stat/9/105].
+    R.S. § 5584 derived from [act Aug. 10, 1846, ch. 178][/us/act/1846-08-10/ch178], § 7, [9 Stat. 105][/us/stat/9/105].
 
     Provisions which related to semi-annual payments on the first day of January and July have been omitted.
 
@@ -32,7 +32,7 @@
 ----------
 ----------
 
-[/us/act/1846-08-10/ch178/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1846-08-10%2Fch178%2Fs7
+[/us/act/1846-08-10/ch178]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1846-08-10%2Fch178
 [/us/stat/9/105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F9%2F105
 
 

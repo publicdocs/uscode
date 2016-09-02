@@ -17,7 +17,7 @@
 
     There shall be in the Department an Office of Inspector General, established in accordance with the Inspector General Act of 1978.
 
-([Pub. L. 96–88, title II, § 211][/us/pl/96/88/s211], formerly § 212, Oct. 17, 1979, [93 Stat. 675][/us/stat/93/675]; renumbered § 211, [Pub. L. 103–382, title II, § 271(a)(2)][/us/pl/103/382/s271/a/2], Oct. 20, 1994, [108 Stat. 3929][/us/stat/108/3929].)
+([Pub. L. 96–88, title II][/us/pl/96/88/tII], § 211, formerly § 212, Oct. 17, 1979, [93 Stat. 675][/us/stat/93/675]; renumbered § 211, [Pub. L. 103–382, title II][/us/pl/103/382/tII], § 271(a)(2), Oct. 20, 1994, [108 Stat. 3929][/us/stat/108/3929].)
 
  __References in Text__ 
 
@@ -34,9 +34,9 @@
 ----------
 ----------
 
-[/us/pl/96/88/s211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F88%2Fs211
+[/us/pl/96/88/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F88%2FtII
 [/us/stat/93/675]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F675
-[/us/pl/103/382/s271/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F382%2Fs271%2Fa%2F2
+[/us/pl/103/382/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F382%2FtII
 [/us/stat/108/3929]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3929
 [/us/pl/95/452]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F452
 [/us/stat/92/1101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1101

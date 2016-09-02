@@ -17,7 +17,7 @@
 
     The Board may appoint and fix the compensation and duties of the Director and such other officers and employees of the Museum as may be necessary for the efficient administration, operation, and maintenance of the Museum; the Director and two other employees of the Museum may be appointed and compensated without regard to the provisions of title 5 governing appointments in the competitive service and chapter 51 and subchapter III of chapter 53 of title 5; and all of the employees of the Museum who are serving on the date of the transfer authorized under [section 80k of this title][/us/usc/t20/s80k] shall be offered employment by the Smithsonian under its usual terms of employment and may be appointed without regard to the provisions of title 5 governing appointments in the competitive service and chapter 51 and subchapter III of chapter 53 of title 5.
 
-([Pub. L. 95–414, § 5][/us/pl/95/414/s5], Oct. 5, 1978, [92 Stat. 912][/us/stat/92/912].)
+([Pub. L. 95–414][/us/pl/95/414], § 5, Oct. 5, 1978, [92 Stat. 912][/us/stat/92/912].)
 
 ----------
 
@@ -27,7 +27,7 @@
 ----------
 
 [/us/usc/t20/s80k]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs80k
-[/us/pl/95/414/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F414%2Fs5
+[/us/pl/95/414]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F414
 [/us/stat/92/912]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F912
 
 

@@ -27,7 +27,7 @@
 
         The Secretary shall approve an application only if the Secretary determines that the application sets forth a program of activities which are likely to make substantial progress toward achieving the purposes of this part.
 
-([Pub. L. 89–329, title III, § 362][/us/pl/89/329/s362], formerly title X, § 1042, as added [Pub. L. 99–498, title X, § 1002][/us/pl/99/498/s1002], Oct. 17, 1986, [100 Stat. 1564][/us/stat/100/1564]; renumbered title III, § 362, and amended [Pub. L. 105–244, title III, § 301(a)(5)][/us/pl/105/244/s301/a/5], (7), (c)(10), Oct. 7, 1998, [112 Stat. 1636][/us/stat/112/1636], 1637.)
+([Pub. L. 89–329, title III][/us/pl/89/329/tIII], § 362, formerly title X, § 1042, as added [Pub. L. 99–498, title X][/us/pl/99/498/tX], § 1002, Oct. 17, 1986, [100 Stat. 1564][/us/stat/100/1564]; renumbered title III, § 362, and amended [Pub. L. 105–244, title III][/us/pl/105/244/tIII], § 301(a)(5), (7), (c)(10), Oct. 7, 1998, [112 Stat. 1636][/us/stat/112/1636], 1637.)
 
  __Codification__ 
 
@@ -35,7 +35,7 @@
 
  __Amendments__ 
 
-    1998—Subsec. (a). [Pub. L. 105–244, § 301(c)(10)][/us/pl/105/244/s301/c/10], substituted “section 1067g” for “section 1135d” in introductory provisions and “section 1067a(b)” for “section 1135b(b)” in par. (1).
+    1998—Subsec. (a). [Pub. L. 105–244][/us/pl/105/244], § 301(c)(10), substituted “section 1067g” for “section 1135d” in introductory provisions and “section 1067a(b)” for “section 1135b(b)” in par. (1).
 
  __Effective Date of 1998 Amendment__ 
 
@@ -50,14 +50,14 @@
 
 [/us/usc/t20/s1067g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1067g
 [/us/usc/t20/s1067a/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1067a%2Fb
-[/us/pl/89/329/s362]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2Fs362
-[/us/pl/99/498/s1002]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F498%2Fs1002
+[/us/pl/89/329/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2FtIII
+[/us/pl/99/498/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F498%2FtX
 [/us/stat/100/1564]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1564
-[/us/pl/105/244/s301/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2Fs301%2Fa%2F5
+[/us/pl/105/244/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2FtIII
 [/us/stat/112/1636]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F1636
 [/us/usc/t20/s1135d–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1135d%E2%80%931
 [/us/pl/105/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244
-[/us/pl/105/244/s301/c/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2Fs301%2Fc%2F10
+[/us/pl/105/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244
 [/us/pl/105/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244
 [/us/pl/105/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244
 [/us/pl/105/244/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2Fs3

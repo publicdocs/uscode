@@ -17,7 +17,7 @@
 
     In carrying out their duties under this subchapter, the Council and the Board of Regents shall take into consideration the reports and plans submitted by the National Museum of African American History and Culture Plan for Action Presidential Commission under the National Museum of African American History and Culture Plan for Action Presidential Commission Act of 2001 ([Public Law 107–106][/us/pl/107/106]).
 
-([Pub. L. 108–184, § 10][/us/pl/108/184/s10], Dec. 16, 2003, [117 Stat. 2682][/us/stat/117/2682].)
+([Pub. L. 108–184][/us/pl/108/184], § 10, Dec. 16, 2003, [117 Stat. 2682][/us/stat/117/2682].)
 
  __References in Text__ 
 
@@ -31,7 +31,7 @@
 ----------
 
 [/us/pl/107/106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F106
-[/us/pl/108/184/s10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F184%2Fs10
+[/us/pl/108/184]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F184
 [/us/stat/117/2682]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2682
 [/us/pl/107/106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F106
 [/us/stat/115/1009]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F1009

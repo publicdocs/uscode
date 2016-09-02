@@ -17,89 +17,51 @@
 
     (a) __Local educational agency grants__ 
 
-    For the purpose of carrying out part A of this subchapter, there are authorized to be appropriated—
+    There are authorized to be appropriated to carry out the activities described in part A—
 
-        (1) $13,500,000,000 for fiscal year 2002;
+        (1) $15,012,317,605 for fiscal year 2017;
 
-        (2) $16,000,000,000 for fiscal year 2003;
+        (2) $15,457,459,042 for fiscal year 2018;
 
-        (3) $18,500,000,000 for fiscal year 2004;
+        (3) $15,897,371,442 for fiscal year 2019; and
 
-        (4) $20,500,000,000 for fiscal year 2005;
+        (4) $16,182,344,591 for fiscal year 2020.
 
-        (5) $22,750,000,000 for fiscal year 2006; and
+    (b) __State assessments__ 
 
-        (6) $25,000,000,000 for fiscal year 2007.
-
-    (b) __Reading First__ 
-
-        (1) __Reading First__ 
-
-            For the purpose of carrying out subpart 1 of part B of this subchapter, there are authorized to be appropriated $900,000,000 for fiscal year 2002 and such sums as may be necessary for each of the 5 succeeding fiscal years.
-
-        (2) __Early Reading First__ 
-
-            For the purpose of carrying out subpart 2 of part B of this subchapter, there are authorized to be appropriated $75,000,000 for fiscal year 2002 and such sums as may be necessary for each of the 5 succeeding fiscal years.
-
-        (3) __Even Start__ 
-
-            For the purpose of carrying out subpart 3 of part B of this subchapter, there are authorized to be appropriated $260,000,000 for fiscal year 2002 and such sums as may be necessary for each of the 5 succeeding fiscal years.
-
-        (4) __Improving literacy through school libraries__ 
-
-            For the purpose of carrying out subpart 4 of part B of this subchapter, there are authorized to be appropriated $250,000,000 for fiscal year 2002 and such sums as may be necessary for each of the 5 succeeding fiscal years.
+        There are authorized to be appropriated to carry out the activities described in part B, $378,000,000 for each of fiscal years 2017 through 2020.
 
     (c) __Education of migratory children__ 
 
-        For the purpose of carrying out part C of this subchapter, there are authorized to be appropriated $410,000,000 for fiscal year 2002 and such sums as may be necessary for each of the 5 succeeding fiscal years.
+        There are authorized to be appropriated to carry out the activities described in part C, $374,751,000 for each of fiscal years 2017 through 2020.
 
-    (d) __Prevention and intervention programs for youth who are neglected, delinquent, or at risk__ 
+    (d) __Prevention and intervention programs for children and youth who are neglected, delinquent, or at-risk__ 
 
-        For the purpose of carrying out part D of this subchapter, there are authorized to be appropriated $50,000,000 for fiscal year 2002 and such sums as may be necessary for each of the 5 succeeding fiscal years.
+        There are authorized to be appropriated to carry out the activities described in part D, $47,614,000 for each of fiscal years 2017 through 2020.
 
     (e) __Federal activities__ 
 
-        (1) __Sections 6491 and 6492__ 
+        For the purpose of carrying out evaluation activities related to subchapter I under [section 7981 of this title][/us/usc/t20/s7981], there are authorized to be appropriated $710,000 for each of fiscal years 2017 through 2020.
 
-            For the purpose of carrying out sections 6491 and 6492 of this title, there are authorized to be appropriated such sums as may be necessary for fiscal year 2002 and each of the 5 succeeding fiscal years.
+    (f) __Sense of Congress regarding adjustments to authorizations of appropriations provided in this chapter for future budget agreements__ 
 
-        (2) __Section 6494__ 
+        It is the sense of Congress that if legislation is enacted that revises the limits on discretionary spending established under [section 901(c) of title 2][/us/usc/t2/s901/c], the levels of appropriations authorized throughout this chapter should be adjusted in a manner that is consistent with the adjustments in nonsecurity category funding provided for under the revised limits on discretionary spending.
 
-            (A) __In general__ 
-
-                For the purpose of carrying out [section 6494 of this title][/us/usc/t20/s6494], there are authorized to be appropriated such sums as may be necessary for fiscal year 2002 and for each of the 5 succeeding fiscal years.
-
-            (B) __Special rule__ 
-
-                Of the funds appropriated pursuant to subparagraph (A), not more than 30 percent may be used for teachers associated with students participating in the programs described in subsections (a)(1), (b)(1), and (c)(1) of this section.
-
-    (f) __Comprehensive school reform__ 
-
-        For the purpose of carrying out part F of this subchapter, there are authorized to be appropriated such sums as may be necessary for fiscal year 2002 and each of the 5 succeeding fiscal years.
-
-    (g) __Advanced placement__ 
-
-        For the purposes of carrying out part G of this subchapter, there are authorized to be appropriated such sums for fiscal year 2002 and each 5 succeeding fiscal year.
-
-    (h) __School dropout prevention__ 
-
-    For the purpose of carrying out part H of this subchapter, there are authorized to be appropriated $125,000,000 for fiscal year 2002 and such sums as may be necessary for each of the 5 succeeding fiscal years, of which—
-
-        (1) up to 10 percent shall be available to carry out subpart 1 of part H of this subchapter for each fiscal year; and
-
-        (2) the remainder shall be available to carry out subpart 2 of part H of this subchapter for each fiscal year.
-
-    (i) __School improvement__ 
-
-        For the purpose of carrying out [section 6303(g) of this title][/us/usc/t20/s6303/g], there are authorized to be appropriated $500,000,000 for fiscal year 2002 and such sums as may be necessary for each of the 5 succeeding fiscal years.
-
-([Pub. L. 89–10, title I, § 1002][/us/pl/89/10/s1002], as added [Pub. L. 107–110, title I, § 101][/us/pl/107/110/s101], Jan. 8, 2002, [115 Stat. 1440][/us/stat/115/1440].)
+([Pub. L. 89–10, title I][/us/pl/89/10/tI], § 1002, as added [Pub. L. 107–110, title I][/us/pl/107/110/tI], § 101, Jan. 8, 2002, [115 Stat. 1440][/us/stat/115/1440]; amended [Pub. L. 114–95, title I][/us/pl/114/95/tI], § 1002, Dec. 10, 2015, [129 Stat. 1814][/us/stat/129/1814].)
 
  __Prior Provisions__ 
 
-    A prior section 6302, [Pub. L. 89–10, title I, § 1002][/us/pl/89/10/s1002], as added [Pub. L. 103–382, title I, § 101][/us/pl/103/382/s101], Oct. 20, 1994, [108 Stat. 3522][/us/stat/108/3522]; amended [Pub. L. 106–554, § 1(a)(4)][/us/pl/106/554/s1/a/4] \[div. B, title XVI, § 1602\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–328, authorized appropriations, prior to the general amendment of this subchapter by [Pub. L. 107–110][/us/pl/107/110].
+    A prior section 6302, [Pub. L. 89–10, title I][/us/pl/89/10/tI], § 1002, as added [Pub. L. 103–382, title I][/us/pl/103/382/tI], § 101, Oct. 20, 1994, [108 Stat. 3522][/us/stat/108/3522]; amended [Pub. L. 106–554][/us/pl/106/554], § 1(a)(4) \[div. B, title XVI, § 1602\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–328, authorized appropriations, prior to the general amendment of this subchapter by [Pub. L. 107–110][/us/pl/107/110].
 
     A prior [section 1002 of Pub. L. 89–10][/us/pl/89/10/s1002] was renumbered section 9002 and was classified to [section 3382 of this title][/us/usc/t20/s3382], prior to the general amendment of [Pub. L. 89–10][/us/pl/89/10] by [Pub. L. 103–382][/us/pl/103/382].
+
+ __Amendments__ 
+
+    2015—[Pub. L. 114–95][/us/pl/114/95] amended section generally. Prior to amendment, section consisted of subsecs. (a) to (i) relating to authorization of appropriations for fiscal years 2002 through 2007.
+
+ __Effective Date of 2015 Amendment__ 
+
+    Amendment by [Pub. L. 114–95][/us/pl/114/95] effective Dec. 10, 2015, except with respect to certain noncompetitive programs and competitive programs, see [section 5 of Pub. L. 114–95][/us/pl/114/95/s5], set out as a note under [section 6301 of this title][/us/usc/t20/s6301].
 
 ----------
 
@@ -108,20 +70,26 @@
 ----------
 ----------
 
-[/us/usc/t20/s6494]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs6494
-[/us/usc/t20/s6303/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs6303%2Fg
-[/us/pl/89/10/s1002]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F10%2Fs1002
-[/us/pl/107/110/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F110%2Fs101
+[/us/usc/t20/s7981]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs7981
+[/us/usc/t2/s901/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs901%2Fc
+[/us/pl/89/10/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F10%2FtI
+[/us/pl/107/110/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F110%2FtI
 [/us/stat/115/1440]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F1440
-[/us/pl/89/10/s1002]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F10%2Fs1002
-[/us/pl/103/382/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F382%2Fs101
+[/us/pl/114/95/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F95%2FtI
+[/us/stat/129/1814]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1814
+[/us/pl/89/10/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F10%2FtI
+[/us/pl/103/382/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F382%2FtI
 [/us/stat/108/3522]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3522
-[/us/pl/106/554/s1/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F4
+[/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
 [/us/stat/114/2763]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2763
 [/us/pl/107/110]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F110
 [/us/pl/89/10/s1002]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F10%2Fs1002
 [/us/usc/t20/s3382]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs3382
 [/us/pl/89/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F10
 [/us/pl/103/382]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F382
+[/us/pl/114/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F95
+[/us/pl/114/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F95
+[/us/pl/114/95/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F95%2Fs5
+[/us/usc/t20/s6301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs6301
 
 

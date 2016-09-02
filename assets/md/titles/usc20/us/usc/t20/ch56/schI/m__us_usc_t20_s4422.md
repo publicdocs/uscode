@@ -27,15 +27,15 @@
 
         (3) In determining the amount of funds to be appropriated to the Institute on the basis of such proposals, the Congress shall not consider the amount of private fundraising or bequests made on behalf of the Institute during any preceding fiscal year.
 
-([Pub. L. 99–498, title XV, § 1515][/us/pl/99/498/s1515], Oct. 17, 1986, [100 Stat. 1609][/us/stat/100/1609]; [Pub. L. 100–297, title V, § 5406(f)][/us/pl/100/297/s5406/f], Apr. 28, 1988, [102 Stat. 418][/us/stat/102/418]; [Pub. L. 102–325, title XIII, § 1331(g)][/us/pl/102/325/s1331/g], July 23, 1992, [106 Stat. 807][/us/stat/106/807].)
+([Pub. L. 99–498, title XV][/us/pl/99/498/tXV], § 1515, Oct. 17, 1986, [100 Stat. 1609][/us/stat/100/1609]; [Pub. L. 100–297, title V][/us/pl/100/297/tV], § 5406(f), Apr. 28, 1988, [102 Stat. 418][/us/stat/102/418]; [Pub. L. 102–325, title XIII][/us/pl/102/325/tXIII], § 1331(g), July 23, 1992, [106 Stat. 807][/us/stat/106/807].)
 
  __Amendments__ 
 
     1992—Subsec. (b). [Pub. L. 102–325][/us/pl/102/325] redesignated pars. (2) to (4) as (1) to (3), respectively, and struck out former par. (1) which read as follows: “Prior to October 1, 1988, the Board shall submit a budget proposal to the Secretary of the Interior. The Secretary shall submit that proposal to the Congress.”
 
-    1988—Subsec. (b)(1). [Pub. L. 100–297, § 5406(f)(1)][/us/pl/100/297/s5406/f/1], substituted “Prior to October 1, 1988” for “During the 2-year period beginning on the date referred to in [section 4421(f) of this title][/us/usc/t20/s4421/f]”.
+    1988—Subsec. (b)(1). [Pub. L. 100–297][/us/pl/100/297], § 5406(f)(1), substituted “Prior to October 1, 1988” for “During the 2-year period beginning on the date referred to in [section 4421(f) of this title][/us/usc/t20/s4421/f]”.
 
-    Subsec. (b)(2). [Pub. L. 100–297, § 5406(f)(2)][/us/pl/100/297/s5406/f/2], substituted “September 30, 1988” for “the period described in paragraph (1)”.
+    Subsec. (b)(2). [Pub. L. 100–297][/us/pl/100/297], § 5406(f)(2), substituted “September 30, 1988” for “the period described in paragraph (1)”.
 
  __Effective Date of 1992 Amendment__ 
 
@@ -56,16 +56,16 @@
 ----------
 ----------
 
-[/us/pl/99/498/s1515]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F498%2Fs1515
+[/us/pl/99/498/tXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F498%2FtXV
 [/us/stat/100/1609]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1609
-[/us/pl/100/297/s5406/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F297%2Fs5406%2Ff
+[/us/pl/100/297/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F297%2FtV
 [/us/stat/102/418]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F418
-[/us/pl/102/325/s1331/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325%2Fs1331%2Fg
+[/us/pl/102/325/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325%2FtXIII
 [/us/stat/106/807]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F807
 [/us/pl/102/325]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325
-[/us/pl/100/297/s5406/f/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F297%2Fs5406%2Ff%2F1
+[/us/pl/100/297]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F297
 [/us/usc/t20/s4421/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs4421%2Ff
-[/us/pl/100/297/s5406/f/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F297%2Fs5406%2Ff%2F2
+[/us/pl/100/297]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F297
 [/us/pl/102/325]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325
 [/us/pl/102/325/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325%2Fs2
 [/us/usc/t20/s1001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1001

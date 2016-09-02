@@ -17,7 +17,7 @@
 
     In this part, the term “State” means each of the 50 States, the District of Columbia, and the Commonwealth of Puerto Rico.
 
-([Pub. L. 107–279, title I, § 158][/us/pl/107/279/s158], Nov. 5, 2002, [116 Stat. 1962][/us/stat/116/1962].)
+([Pub. L. 107–279, title I][/us/pl/107/279/tI], § 158, Nov. 5, 2002, [116 Stat. 1962][/us/stat/116/1962].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/107/279/s158]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F279%2Fs158
+[/us/pl/107/279/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F279%2FtI
 [/us/stat/116/1962]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1962
 
 

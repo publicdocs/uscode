@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t20/ch70/schI/m__us_usc_t20_s6303a.md) | [Next](./../../../../..//us/usc/t20/ch70/schI/ptA/m__us_usc_t20_ch70_schI_ptA.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs6304)
+[Previous](./../../../../..//us/usc/t20/ch70/schI/m__us_usc_t20_s6303b.md) | [Next](./../../../../..//us/usc/t20/ch70/schI/ptA/m__us_usc_t20_ch70_schI_ptA.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs6304)
 
 ## § 6304. State administration
 
@@ -27,7 +27,7 @@
 
         If the sum of the amounts appropriated for parts A, C, and D of this subchapter is equal to or greater than $14,000,000,000, then the reservation described in subsection (a)(1) of this section shall not exceed 1 percent of the amount the State would receive, if $14,000,000,000 were allocated among the States for parts A, C, and D of this subchapter.
 
-([Pub. L. 89–10, title I, § 1004][/us/pl/89/10/s1004], as added [Pub. L. 107–110, title I, § 101][/us/pl/107/110/s101], Jan. 8, 2002, [115 Stat. 1444][/us/stat/115/1444].)
+([Pub. L. 89–10, title I][/us/pl/89/10/tI], § 1004, as added [Pub. L. 107–110, title I][/us/pl/107/110/tI], § 101, Jan. 8, 2002, [115 Stat. 1444][/us/stat/115/1444].)
 
  __Prior Provisions__ 
 
@@ -35,13 +35,13 @@
 
 ----------
 
-[Previous](./../../../../..//us/usc/t20/ch70/schI/m__us_usc_t20_s6303a.md) | [Next](./../../../../..//us/usc/t20/ch70/schI/ptA/m__us_usc_t20_ch70_schI_ptA.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs6304)
+[Previous](./../../../../..//us/usc/t20/ch70/schI/m__us_usc_t20_s6303b.md) | [Next](./../../../../..//us/usc/t20/ch70/schI/ptA/m__us_usc_t20_ch70_schI_ptA.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs6304)
 
 ----------
 ----------
 
-[/us/pl/89/10/s1004]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F10%2Fs1004
-[/us/pl/107/110/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F110%2Fs101
+[/us/pl/89/10/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F10%2FtI
+[/us/pl/107/110/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F110%2FtI
 [/us/stat/115/1444]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F1444
 [/us/pl/89/10/s1004]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F10%2Fs1004
 [/us/usc/t20/s3384]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs3384

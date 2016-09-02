@@ -23,11 +23,11 @@
 
         The general trustees first taking office shall be chosen by the Board of Regents of the Smithsonian Institution, subject to the approval of the donor, and shall have terms expiring one each on July 1 of 1939, 1941, 1943, 1945, and 1947, as designated by the Board of Regents. A successor shall be chosen by a majority vote of the general trustees and shall have a term expiring ten years from the date of the expiration of the term for which his predecessor was chosen, except that a successor chosen to fill a vacancy occurring prior to the expiration of such term shall be chosen only for the remainder of such term.
 
-([Mar. 24, 1937, ch. 50, § 2][/us/act/1937-03-24/ch50/s2], [50 Stat. 52][/us/stat/50/52].)
+([Mar. 24, 1937, ch. 50][/us/act/1937-03-24/ch50], § 2, [50 Stat. 52][/us/stat/50/52].)
 
  __Delegation of Functions by Secretary of State to Director of United States Information Agency__ 
 
-[Pub. L. 95–426, title II, § 205][/us/pl/95/426/s205], Oct. 7, 1978, [92 Stat. 975][/us/stat/92/975], as amended by [Pub. L. 97–241, title III, § 303(b)][/us/pl/97/241/s303/b], Aug. 24, 1982, [96 Stat. 291][/us/stat/96/291], provided that: 
+[Pub. L. 95–426, title II][/us/pl/95/426/tII], § 205, Oct. 7, 1978, [92 Stat. 975][/us/stat/92/975], as amended by [Pub. L. 97–241, title III][/us/pl/97/241/tIII], § 303(b), Aug. 24, 1982, [96 Stat. 291][/us/stat/96/291], provided that: 
 
 > “The Secretary of State may delegate to the Director of the United States Information Agency, with the consent of the Director, the functions vested in the Secretary by section 2(a) of the joint resolution entitled ‘Joint Resolution providing for the construction and maintenance of a National Gallery of Art’, approved March 24, 1937 ([20 U.S.C. 72(a)][/us/usc/t20/s72/a]).”
 
@@ -40,11 +40,11 @@
 ----------
 ----------
 
-[/us/act/1937-03-24/ch50/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1937-03-24%2Fch50%2Fs2
+[/us/act/1937-03-24/ch50]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1937-03-24%2Fch50
 [/us/stat/50/52]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F50%2F52
-[/us/pl/95/426/s205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F426%2Fs205
+[/us/pl/95/426/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F426%2FtII
 [/us/stat/92/975]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F975
-[/us/pl/97/241/s303/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F241%2Fs303%2Fb
+[/us/pl/97/241/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F241%2FtIII
 [/us/stat/96/291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F291
 [/us/usc/t20/s72/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs72%2Fa
 

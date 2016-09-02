@@ -17,7 +17,7 @@
 
     No State or local educational agency receiving assistance under this chapter may discharge any employee or otherwise discriminate against any employee with respect to the employee’s compensation, terms, conditions, or privileges of employment because the employee has brought to the attention of the public information concerning any asbestos problem in the school buildings within the jurisdiction of such agency.
 
-([Pub. L. 96–270, § 9][/us/pl/96/270/s9], June 14, 1980, [94 Stat. 496][/us/stat/94/496].)
+([Pub. L. 96–270][/us/pl/96/270], § 9, June 14, 1980, [94 Stat. 496][/us/stat/94/496].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/96/270/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F270%2Fs9
+[/us/pl/96/270]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F270
 [/us/stat/94/496]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F496
 
 

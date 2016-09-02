@@ -17,7 +17,7 @@
 
  __Codification__ 
 
-    [Pub. L. 102–325, title IV][/us/pl/102/325], §§ 402(a)(2), 403(a), July 23, 1992, [106 Stat. 482][/us/stat/106/482], 505, redesignated subpart 2 as 3 and inserted “Federal” before “Supplemental” in heading and redesignated former subpart 3 as 4.
+    [Pub. L. 102–325, title IV][/us/pl/102/325/tIV], §§ 402(a)(2), 403(a), July 23, 1992, [106 Stat. 482][/us/stat/106/482], 505, redesignated subpart 2 as 3 and inserted “Federal” before “Supplemental” in heading and redesignated former subpart 3 as 4.
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/102/325]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325
+[/us/pl/102/325/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325%2FtIV
 [/us/stat/106/482]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F482
 
 

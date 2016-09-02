@@ -45,7 +45,7 @@
 
             There is authorized to be appropriated to the Fund $2,000,000 for each fiscal year beginning with fiscal year 1992.
 
-([Pub. L. 101–185, § 15][/us/pl/101/185/s15], Nov. 28, 1989, [103 Stat. 1345][/us/stat/103/1345].)
+([Pub. L. 101–185][/us/pl/101/185], § 15, Nov. 28, 1989, [103 Stat. 1345][/us/stat/103/1345].)
 
  __Codification__ 
 
@@ -62,7 +62,7 @@
 ----------
 ----------
 
-[/us/pl/101/185/s15]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F185%2Fs15
+[/us/pl/101/185]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F185
 [/us/stat/103/1345]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1345
 [/us/pl/104/66/s3003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F66%2Fs3003
 [/us/usc/t31/s1113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1113

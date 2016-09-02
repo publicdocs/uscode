@@ -139,37 +139,37 @@
 
             Of the total amount of grant funds awarded to a grantee under this section, the grantee may use not more than ten percent of such funds for the activity described in subsection (a)(2)(I).
 
-([Pub. L. 89–329, title VI, § 604][/us/pl/89/329/s604], as added [Pub. L. 105–244, title VI, § 601][/us/pl/105/244/s601], Oct. 7, 1998, [112 Stat. 1778][/us/stat/112/1778]; amended [Pub. L. 110–315, title VI][/us/pl/110/315], §§ 604, 610(a), Aug. 14, 2008, [122 Stat. 3336][/us/stat/122/3336], 3338; [Pub. L. 111–39, title VI, § 601(a)(1)][/us/pl/111/39/s601/a/1], July 1, 2009, [123 Stat. 1953][/us/stat/123/1953].)
+([Pub. L. 89–329, title VI][/us/pl/89/329/tVI], § 604, as added [Pub. L. 105–244, title VI][/us/pl/105/244/tVI], § 601, Oct. 7, 1998, [112 Stat. 1778][/us/stat/112/1778]; amended [Pub. L. 110–315, title VI][/us/pl/110/315/tVI], §§ 604, 610(a), Aug. 14, 2008, [122 Stat. 3336][/us/stat/122/3336], 3338; [Pub. L. 111–39, title VI][/us/pl/111/39/tVI], § 601(a)(1), July 1, 2009, [123 Stat. 1953][/us/stat/123/1953].)
 
  __Prior Provisions__ 
 
-    A prior section 1124, [Pub. L. 89–329, title VI, § 604][/us/pl/89/329/s604], as added [Pub. L. 96–374, title VI, § 601(a)][/us/pl/96/374/s601/a], Oct. 3, 1980, [94 Stat. 1466][/us/stat/94/1466]; amended [Pub. L. 99–498, title VI, § 604][/us/pl/99/498/s604], Oct. 17, 1986, [100 Stat. 1516][/us/stat/100/1516]; [Pub. L. 102–325, title VI, § 601][/us/pl/102/325/s601], July 23, 1992, [106 Stat. 722][/us/stat/106/722], authorized grants for undergraduate international studies and foreign language programs, prior to the general amendment of this part by [Pub. L. 105–244][/us/pl/105/244].
+    A prior section 1124, [Pub. L. 89–329, title VI][/us/pl/89/329/tVI], § 604, as added [Pub. L. 96–374, title VI][/us/pl/96/374/tVI], § 601(a), Oct. 3, 1980, [94 Stat. 1466][/us/stat/94/1466]; amended [Pub. L. 99–498, title VI][/us/pl/99/498/tVI], § 604, Oct. 17, 1986, [100 Stat. 1516][/us/stat/100/1516]; [Pub. L. 102–325, title VI][/us/pl/102/325/tVI], § 601, July 23, 1992, [106 Stat. 722][/us/stat/106/722], authorized grants for undergraduate international studies and foreign language programs, prior to the general amendment of this part by [Pub. L. 105–244][/us/pl/105/244].
 
-    Another prior section 1124, [Pub. L. 89–329, title VI, § 604][/us/pl/89/329/s604], Nov. 8, 1965, [79 Stat. 1263][/us/stat/79/1263]; [Pub. L. 89–752, § 14][/us/pl/89/752/s14], Nov. 3, 1966, [80 Stat. 1244][/us/stat/80/1244]; [Pub. L. 90–575, title II, § 242(b)][/us/pl/90/575/s242/b]–(d), Oct. 16, 1968, [82 Stat. 1041][/us/stat/82/1041]; [Pub. L. 94–482, title I, § 157][/us/pl/94/482/s157], Oct. 12, 1976, [90 Stat. 2156][/us/stat/90/2156], provided for grants to institutions of higher education for projects, prior to the general amendment of this subchapter by [Pub. L. 96–374][/us/pl/96/374].
+    Another prior section 1124, [Pub. L. 89–329, title VI][/us/pl/89/329/tVI], § 604, Nov. 8, 1965, [79 Stat. 1263][/us/stat/79/1263]; [Pub. L. 89–752][/us/pl/89/752], § 14, Nov. 3, 1966, [80 Stat. 1244][/us/stat/80/1244]; [Pub. L. 90–575, title II][/us/pl/90/575/tII], § 242(b)–(d), Oct. 16, 1968, [82 Stat. 1041][/us/stat/82/1041]; [Pub. L. 94–482, title I][/us/pl/94/482/tI], § 157, Oct. 12, 1976, [90 Stat. 2156][/us/stat/90/2156], provided for grants to institutions of higher education for projects, prior to the general amendment of this subchapter by [Pub. L. 96–374][/us/pl/96/374].
 
-    A prior section 1124a, [Pub. L. 89–329, title VI, § 605][/us/pl/89/329/s605], as added [Pub. L. 99–498, title VI, § 605(2)][/us/pl/99/498/s605/2], Oct. 17, 1986, [100 Stat. 1517][/us/stat/100/1517]; amended [Pub. L. 102–325, title VI, § 601][/us/pl/102/325/s601], July 23, 1992, [106 Stat. 725][/us/stat/106/725], authorized grants for intensive summer language institutes, prior to the general amendment of this part by [Pub. L. 105–244][/us/pl/105/244].
+    A prior section 1124a, [Pub. L. 89–329, title VI][/us/pl/89/329/tVI], § 605, as added [Pub. L. 99–498, title VI][/us/pl/99/498/tVI], § 605(2), Oct. 17, 1986, [100 Stat. 1517][/us/stat/100/1517]; amended [Pub. L. 102–325, title VI][/us/pl/102/325/tVI], § 601, July 23, 1992, [106 Stat. 725][/us/stat/106/725], authorized grants for intensive summer language institutes, prior to the general amendment of this part by [Pub. L. 105–244][/us/pl/105/244].
 
  __Amendments__ 
 
-    2009—Subsec. (a)(2). [Pub. L. 111–39, § 601(a)(1)(A)][/us/pl/111/39/s601/a/1/A], inserted “the” before “Federal” in introductory provisions.
+    2009—Subsec. (a)(2). [Pub. L. 111–39][/us/pl/111/39], § 601(a)(1)(A), inserted “the” before “Federal” in introductory provisions.
 
-    Subsec. (a)(7)(D). [Pub. L. 111–39, § 601(a)(1)(B)][/us/pl/111/39/s601/a/1/B], substituted “applicant, consortium,” for “institution, combination”.
+    Subsec. (a)(7)(D). [Pub. L. 111–39][/us/pl/111/39], § 601(a)(1)(B), substituted “applicant, consortium,” for “institution, combination”.
 
-    2008—Subsec. (a)(1). [Pub. L. 110–315, § 604(1)][/us/pl/110/315/s604/1], substituted “consortia” for “combinations” wherever appearing.
+    2008—Subsec. (a)(1). [Pub. L. 110–315][/us/pl/110/315], § 604(1), substituted “consortia” for “combinations” wherever appearing.
 
-    Subsec. (a)(2)(B)(ii). [Pub. L. 110–315, § 604(2)(A)][/us/pl/110/315/s604/2/A], amended cl. (ii) generally. Prior to amendment, cl. (ii) read as follows: “preservice and inservice teacher training;”.
+    Subsec. (a)(2)(B)(ii). [Pub. L. 110–315][/us/pl/110/315], § 604(2)(A), amended cl. (ii) generally. Prior to amendment, cl. (ii) read as follows: “preservice and inservice teacher training;”.
 
-    Subsec. (a)(2)(I) to (N). [Pub. L. 110–315, § 604(2)(B)][/us/pl/110/315/s604/2/B], (C), added subpar. (I) and redesignated former subpars. (I) to (M) as (J) to (N), respectively.
+    Subsec. (a)(2)(I) to (N). [Pub. L. 110–315][/us/pl/110/315], § 604(2)(B), (C), added subpar. (I) and redesignated former subpars. (I) to (M) as (J) to (N), respectively.
 
-    Subsec. (a)(4)(B). [Pub. L. 110–315, § 604(3)][/us/pl/110/315/s604/3], inserted “that demonstrates a need for a waiver or reduction” before period at end.
+    Subsec. (a)(4)(B). [Pub. L. 110–315][/us/pl/110/315], § 604(3), inserted “that demonstrates a need for a waiver or reduction” before period at end.
 
-    Subsec. (a)(5). [Pub. L. 110–315, § 610(a)][/us/pl/110/315/s610/a], substituted “consortia” for “combinations”.
+    Subsec. (a)(5). [Pub. L. 110–315][/us/pl/110/315], § 610(a), substituted “consortia” for “combinations”.
 
-    Subsec. (a)(6). [Pub. L. 110–315, § 604(4)][/us/pl/110/315/s604/4], inserted “reflect the purposes of this part and” after “subsection shall”.
+    Subsec. (a)(6). [Pub. L. 110–315][/us/pl/110/315], § 604(4), inserted “reflect the purposes of this part and” after “subsection shall”.
 
-    Subsec. (a)(7)(E) to (G). [Pub. L. 110–315, § 604(5)][/us/pl/110/315/s604/5], added subpars. (E) to (G).
+    Subsec. (a)(7)(E) to (G). [Pub. L. 110–315][/us/pl/110/315], § 604(5), added subpars. (E) to (G).
 
-    Subsec. (c). [Pub. L. 110–315, § 604(6)][/us/pl/110/315/s604/6], designated existing provisions as par. (1), inserted heading, substituted “20 percent” for “10 percent”, and added par. (2).
+    Subsec. (c). [Pub. L. 110–315][/us/pl/110/315], § 604(6), designated existing provisions as par. (1), inserted heading, substituted “20 percent” for “10 percent”, and added par. (2).
 
  __Effective Date of 2009 Amendment__ 
 
@@ -182,46 +182,46 @@
 ----------
 ----------
 
-[/us/pl/89/329/s604]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2Fs604
-[/us/pl/105/244/s601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2Fs601
+[/us/pl/89/329/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2FtVI
+[/us/pl/105/244/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2FtVI
 [/us/stat/112/1778]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F1778
-[/us/pl/110/315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315
+[/us/pl/110/315/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2FtVI
 [/us/stat/122/3336]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3336
-[/us/pl/111/39/s601/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F39%2Fs601%2Fa%2F1
+[/us/pl/111/39/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F39%2FtVI
 [/us/stat/123/1953]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1953
-[/us/pl/89/329/s604]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2Fs604
-[/us/pl/96/374/s601/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F374%2Fs601%2Fa
+[/us/pl/89/329/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2FtVI
+[/us/pl/96/374/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F374%2FtVI
 [/us/stat/94/1466]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F1466
-[/us/pl/99/498/s604]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F498%2Fs604
+[/us/pl/99/498/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F498%2FtVI
 [/us/stat/100/1516]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1516
-[/us/pl/102/325/s601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325%2Fs601
+[/us/pl/102/325/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325%2FtVI
 [/us/stat/106/722]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F722
 [/us/pl/105/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244
-[/us/pl/89/329/s604]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2Fs604
+[/us/pl/89/329/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2FtVI
 [/us/stat/79/1263]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F1263
-[/us/pl/89/752/s14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F752%2Fs14
+[/us/pl/89/752]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F752
 [/us/stat/80/1244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F1244
-[/us/pl/90/575/s242/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F575%2Fs242%2Fb
+[/us/pl/90/575/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F575%2FtII
 [/us/stat/82/1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F1041
-[/us/pl/94/482/s157]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F482%2Fs157
+[/us/pl/94/482/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F482%2FtI
 [/us/stat/90/2156]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2156
 [/us/pl/96/374]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F374
-[/us/pl/89/329/s605]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2Fs605
-[/us/pl/99/498/s605/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F498%2Fs605%2F2
+[/us/pl/89/329/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2FtVI
+[/us/pl/99/498/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F498%2FtVI
 [/us/stat/100/1517]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1517
-[/us/pl/102/325/s601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325%2Fs601
+[/us/pl/102/325/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325%2FtVI
 [/us/stat/106/725]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F725
 [/us/pl/105/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244
-[/us/pl/111/39/s601/a/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F39%2Fs601%2Fa%2F1%2FA
-[/us/pl/111/39/s601/a/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F39%2Fs601%2Fa%2F1%2FB
-[/us/pl/110/315/s604/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2Fs604%2F1
-[/us/pl/110/315/s604/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2Fs604%2F2%2FA
-[/us/pl/110/315/s604/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2Fs604%2F2%2FB
-[/us/pl/110/315/s604/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2Fs604%2F3
-[/us/pl/110/315/s610/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2Fs610%2Fa
-[/us/pl/110/315/s604/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2Fs604%2F4
-[/us/pl/110/315/s604/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2Fs604%2F5
-[/us/pl/110/315/s604/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2Fs604%2F6
+[/us/pl/111/39]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F39
+[/us/pl/111/39]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F39
+[/us/pl/110/315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315
+[/us/pl/110/315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315
+[/us/pl/110/315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315
+[/us/pl/110/315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315
+[/us/pl/110/315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315
+[/us/pl/110/315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315
+[/us/pl/110/315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315
+[/us/pl/110/315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315
 [/us/pl/111/39]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F39
 [/us/pl/110/315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315
 [/us/pl/111/39/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F39%2Fs3

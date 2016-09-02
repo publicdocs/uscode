@@ -67,7 +67,7 @@
 
         Nothing in this section shall allow a local educational agency to engage in school modernization, renovation, or repair that is inconsistent with State law.
 
-([Pub. L. 111–5, div. A, title XIV, § 14002][/us/pl/111/5/s14002], Feb. 17, 2009, [123 Stat. 279][/us/stat/123/279]; [Pub. L. 111–8, div. F, title V, § 523(a)][/us/pl/111/8/s523/a], (b), Mar. 11, 2009, [123 Stat. 806][/us/stat/123/806].)
+([Pub. L. 111–5, div. A, title XIV][/us/pl/111/5/dA/tXIV], § 14002, Feb. 17, 2009, [123 Stat. 279][/us/stat/123/279]; [Pub. L. 111–8, div. F, title V][/us/pl/111/8/dF/tV], § 523(a), (b), Mar. 11, 2009, [123 Stat. 806][/us/stat/123/806].)
 
  __References in Text__ 
 
@@ -77,9 +77,9 @@
 
  __Amendments__ 
 
-    2009—Subsec. (a)(2)(A)(i). [Pub. L. 111–8, § 523(a)][/us/pl/111/8/s523/a], inserted “education” after “secondary” in introductory provisions.
+    2009—Subsec. (a)(2)(A)(i). [Pub. L. 111–8][/us/pl/111/8], § 523(a), inserted “education” after “secondary” in introductory provisions.
 
-    Subsec. (b)(1). [Pub. L. 111–8, § 523(b)][/us/pl/111/8/s523/b], substituted “10001(d)” for “10001”.
+    Subsec. (b)(1). [Pub. L. 111–8][/us/pl/111/8], § 523(b), substituted “10001(d)” for “10001”.
 
 ----------
 
@@ -91,9 +91,9 @@
 [/us/usc/t20/s10001/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs10001%2Fd
 [/us/usc/t20/s6311]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs6311
 [/us/usc/t20/s10001/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs10001%2Fd
-[/us/pl/111/5/s14002]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5%2Fs14002
+[/us/pl/111/5/dA/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5%2FdA%2FtXIV
 [/us/stat/123/279]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F279
-[/us/pl/111/8/s523/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F8%2Fs523%2Fa
+[/us/pl/111/8/dF/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F8%2FdF%2FtV
 [/us/stat/123/806]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F806
 [/us/pl/89/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F10
 [/us/stat/79/27]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F27
@@ -101,7 +101,7 @@
 [/us/pl/89/329]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329
 [/us/stat/79/1219]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F1219
 [/us/usc/t20/s1001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1001
-[/us/pl/111/8/s523/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F8%2Fs523%2Fa
-[/us/pl/111/8/s523/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F8%2Fs523%2Fb
+[/us/pl/111/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F8
+[/us/pl/111/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F8
 
 

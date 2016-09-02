@@ -17,7 +17,7 @@
 
     The Regents may appoint and fix the compensation and duties of a Director of the Gallery and may employ such other officers and employees as may be necessary for the efficient operation and administration of the Gallery.
 
-([May 17, 1938, ch. 238, § 7][/us/act/1938-05-17/ch238/s7], [52 Stat. 401][/us/stat/52/401].)
+([May 17, 1938, ch. 238][/us/act/1938-05-17/ch238], § 7, [52 Stat. 401][/us/stat/52/401].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/act/1938-05-17/ch238/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-05-17%2Fch238%2Fs7
+[/us/act/1938-05-17/ch238]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-05-17%2Fch238
 [/us/stat/52/401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F52%2F401
 
 

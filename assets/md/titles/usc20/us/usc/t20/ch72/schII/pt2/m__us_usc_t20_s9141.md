@@ -43,15 +43,15 @@
 
         Each State library administrative agency receiving funds under this part may apportion the funds available for the priorities described in subsection (a) as appropriate to meet the needs of the individual State.
 
-([Pub. L. 94–462, title II, § 231][/us/pl/94/462/s231], as added [Pub. L. 104–208, div. A, title I, § 101(e)][/us/pl/104/208/s101/e] \[title VII, § 702\], Sept. 30, 1996, [110 Stat. 3009–233][/us/stat/110/3009-233], 3009–301; amended [Pub. L. 108–81, title II, § 206][/us/pl/108/81/s206], Sept. 25, 2003, [117 Stat. 999][/us/stat/117/999]; [Pub. L. 111–340, title II, § 205][/us/pl/111/340/s205], Dec. 22, 2010, [124 Stat. 3600][/us/stat/124/3600].)
+([Pub. L. 94–462, title II][/us/pl/94/462/tII], § 231, as added [Pub. L. 104–208, div. A, title I][/us/pl/104/208/dA/tI], § 101(e) \[title VII, § 702\], Sept. 30, 1996, [110 Stat. 3009–233][/us/stat/110/3009-233], 3009–301; amended [Pub. L. 108–81, title II][/us/pl/108/81/tII], § 206, Sept. 25, 2003, [117 Stat. 999][/us/stat/117/999]; [Pub. L. 111–340, title II][/us/pl/111/340/tII], § 205, Dec. 22, 2010, [124 Stat. 3600][/us/stat/124/3600].)
 
  __Amendments__ 
 
-    2010—Subsec. (a). [Pub. L. 111–340, § 205(1)][/us/pl/111/340/s205/1], inserted “in order to support such individuals’ needs for education, lifelong learning, workforce development, and digital literacy skills” before semicolon at end in par. (1), added pars. (2) and (3), redesignated former par. (2) as (7) and substituted “collaborations and networks; and” for “electronic networks;”, struck out former par. (3) which read “providing electronic and other linkages among and between all types of libraries;”, and added par. (8).
+    2010—Subsec. (a). [Pub. L. 111–340][/us/pl/111/340], § 205(1), inserted “in order to support such individuals’ needs for education, lifelong learning, workforce development, and digital literacy skills” before semicolon at end in par. (1), added pars. (2) and (3), redesignated former par. (2) as (7) and substituted “collaborations and networks; and” for “electronic networks;”, struck out former par. (3) which read “providing electronic and other linkages among and between all types of libraries;”, and added par. (8).
 
-    Subsec. (b). [Pub. L. 111–340, § 205(2)][/us/pl/111/340/s205/2], added subsec. (b) and struck out heading and text of former subsec. (b). Prior to amendment, text read as follows: “Each State library administrative agency receiving funds under this part may apportion the funds available for the purposes described in subsection (a) of this section among such purposes, as appropriate, to meet the needs of the individual State.”
+    Subsec. (b). [Pub. L. 111–340][/us/pl/111/340], § 205(2), added subsec. (b) and struck out heading and text of former subsec. (b). Prior to amendment, text read as follows: “Each State library administrative agency receiving funds under this part may apportion the funds available for the purposes described in subsection (a) of this section among such purposes, as appropriate, to meet the needs of the individual State.”
 
-    2003—Subsec. (a)(1) to (6). [Pub. L. 108–81, § 206(1)][/us/pl/108/81/s206/1], added pars. (1) to (6) and struck out former pars. (1) and (2) which read as follows:
+    2003—Subsec. (a)(1) to (6). [Pub. L. 108–81][/us/pl/108/81], § 206(1), added pars. (1) to (6) and struck out former pars. (1) and (2) which read as follows:
 
     “(1)(A) establishing or enhancing electronic linkages among or between libraries;
 
@@ -65,7 +65,7 @@
 
     “(2) targeting library and information services to persons having difficulty using a library and to underserved urban and rural communities, including children (from birth through age 17) from families with incomes below the poverty line (as defined by the Office of Management and Budget and revised annually in accordance with [section 9902(2) of title 42][/us/usc/t42/s9902/2]) applicable to a family of the size involved.”
 
-    Subsec. (b). [Pub. L. 108–81, § 206(2)][/us/pl/108/81/s206/2], substituted “among such purposes,” for “between the two purposes described in paragraphs (1) and (2) of such subsection,”.
+    Subsec. (b). [Pub. L. 108–81][/us/pl/108/81], § 206(2), substituted “among such purposes,” for “between the two purposes described in paragraphs (1) and (2) of such subsection,”.
 
 ----------
 
@@ -78,17 +78,17 @@
 [/us/usc/t20/s9134/b/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs9134%2Fb%2F6
 [/us/usc/t42/s9902/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs9902%2F2
 [/us/usc/t20/s9121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs9121
-[/us/pl/94/462/s231]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F462%2Fs231
-[/us/pl/104/208/s101/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs101%2Fe
+[/us/pl/94/462/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F462%2FtII
+[/us/pl/104/208/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2FdA%2FtI
 [/us/stat/110/3009-233]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3009-233
-[/us/pl/108/81/s206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F81%2Fs206
+[/us/pl/108/81/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F81%2FtII
 [/us/stat/117/999]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F999
-[/us/pl/111/340/s205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F340%2Fs205
+[/us/pl/111/340/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F340%2FtII
 [/us/stat/124/3600]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3600
-[/us/pl/111/340/s205/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F340%2Fs205%2F1
-[/us/pl/111/340/s205/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F340%2Fs205%2F2
-[/us/pl/108/81/s206/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F81%2Fs206%2F1
+[/us/pl/111/340]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F340
+[/us/pl/111/340]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F340
+[/us/pl/108/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F81
 [/us/usc/t42/s9902/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs9902%2F2
-[/us/pl/108/81/s206/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F81%2Fs206%2F2
+[/us/pl/108/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F81
 
 

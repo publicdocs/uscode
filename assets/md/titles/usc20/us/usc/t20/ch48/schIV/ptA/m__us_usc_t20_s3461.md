@@ -23,7 +23,7 @@
 
         (1) At the request of the Secretary, the Director of the Office of Personnel Management shall, under [section 5108 of title 5][/us/usc/t5/s5108], provide for the establishment in each of the grade levels GS–16, GS–17, and GS–18 of a number of positions in the Department equal to the number of positions in that grade level which were used primarily for the performance of functions and offices transferred under this chapter and which were assigned and filled on the day before May 4, 1980.
 
-        (2) Repealed. [Pub. L. 107–279, title IV, § 403(3)][/us/pl/107/279/s403/3], Nov. 5, 2002, [116 Stat. 1985][/us/stat/116/1985].
+        (2) Repealed. [Pub. L. 107–279, title IV][/us/pl/107/279/tIV], § 403(3), Nov. 5, 2002, [116 Stat. 1985][/us/stat/116/1985].
 
         (3) Appointments to positions provided for under this subsection may be made without regard to the provisions of [section 3324 of title 5][/us/usc/t5/s3324], if the individual appointed in such position is an individual who is transferred in connection with the transfer of functions and offices under this chapter and, on the day preceding May 4, 1980, holds a position and has duties comparable to those of the position to which appointed hereunder.
 
@@ -31,7 +31,7 @@
 
         (5) For purposes of section 414(a)(3)(A) of the Civil Service Reform Act of 1978, an individual appointed under this subsection shall be deemed to occupy the same position as the individual occupied on the day preceding May 4, 1980.
 
-    (c) __Repealed.__  __[__  __Pub. L. 99–498, title XIV, § 1401(d)__  __][/us/pl/99/498/s1401/d]__  __,__  __Oct. 17, 1986__  __,__  __[__  __100 Stat. 1597__  __][/us/stat/100/1597]__ 
+    (c) __Repealed.__  __[__  __Pub. L. 99–498, title XIV__  __][/us/pl/99/498/tXIV]__  __, § 1401(d),__  __Oct. 17, 1986__  __,__  __[__  __100 Stat. 1597__  __][/us/stat/100/1597]__ 
 
     (d) __Senior Executive Service__ 
 
@@ -41,7 +41,7 @@
 
         Nothing in this chapter shall be construed to prevent the application of any Indian preference law in effect on the day before October 17, 1979, to any function or office transferred by this chapter and subject to any such law on the day before October 17, 1979. Any function or office transferred by this chapter and subject to any such law shall continue to be subject to any such law.
 
-([Pub. L. 96–88, title IV, § 401][/us/pl/96/88/s401], Oct. 17, 1979, [93 Stat. 681][/us/stat/93/681]; [Pub. L. 99–145, title XII, § 1204(a)(1)][/us/pl/99/145/s1204/a/1], Nov. 8, 1985, [99 Stat. 720][/us/stat/99/720]; [Pub. L. 99–498, title XIV, § 1401(d)][/us/pl/99/498/s1401/d], Oct. 17, 1986, [100 Stat. 1597][/us/stat/100/1597]; [Pub. L. 103–382, title II, § 271(a)(3)(A)][/us/pl/103/382/s271/a/3/A], Oct. 20, 1994, [108 Stat. 3929][/us/stat/108/3929]; [Pub. L. 107–279, title IV, § 403(3)][/us/pl/107/279/s403/3], Nov. 5, 2002, [116 Stat. 1985][/us/stat/116/1985].)
+([Pub. L. 96–88, title IV][/us/pl/96/88/tIV], § 401, Oct. 17, 1979, [93 Stat. 681][/us/stat/93/681]; [Pub. L. 99–145, title XII][/us/pl/99/145/tXII], § 1204(a)(1), Nov. 8, 1985, [99 Stat. 720][/us/stat/99/720]; [Pub. L. 99–498, title XIV][/us/pl/99/498/tXIV], § 1401(d), Oct. 17, 1986, [100 Stat. 1597][/us/stat/100/1597]; [Pub. L. 103–382, title II][/us/pl/103/382/tII], § 271(a)(3)(A), Oct. 20, 1994, [108 Stat. 3929][/us/stat/108/3929]; [Pub. L. 107–279, title IV][/us/pl/107/279/tIV], § 403(3), Nov. 5, 2002, [116 Stat. 1985][/us/stat/116/1985].)
 
  __References in Text__ 
 
@@ -73,21 +73,21 @@
 ----------
 
 [/us/usc/t5/s5108]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5108
-[/us/pl/107/279/s403/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F279%2Fs403%2F3
+[/us/pl/107/279/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F279%2FtIV
 [/us/stat/116/1985]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1985
 [/us/usc/t5/s3324]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs3324
-[/us/pl/99/498/s1401/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F498%2Fs1401%2Fd
+[/us/pl/99/498/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F498%2FtXIV
 [/us/stat/100/1597]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1597
 [/us/usc/t5/s3394]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs3394
-[/us/pl/96/88/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F88%2Fs401
+[/us/pl/96/88/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F88%2FtIV
 [/us/stat/93/681]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F681
-[/us/pl/99/145/s1204/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F145%2Fs1204%2Fa%2F1
+[/us/pl/99/145/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F145%2FtXII
 [/us/stat/99/720]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F720
-[/us/pl/99/498/s1401/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F498%2Fs1401%2Fd
+[/us/pl/99/498/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F498%2FtXIV
 [/us/stat/100/1597]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1597
-[/us/pl/103/382/s271/a/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F382%2Fs271%2Fa%2F3%2FA
+[/us/pl/103/382/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F382%2FtII
 [/us/stat/108/3929]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3929
-[/us/pl/107/279/s403/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F279%2Fs403%2F3
+[/us/pl/107/279/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F279%2FtIV
 [/us/stat/116/1985]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1985
 [/us/pl/95/454/s414/a/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454%2Fs414%2Fa%2F3%2FA
 [/us/stat/92/1178]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1178

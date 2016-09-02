@@ -17,7 +17,7 @@
 
     There are authorized to be appropriated to the Center to carry out this subchapter such sums as may be necessary for each fiscal year.
 
-([Pub. L. 94–201, § 8][/us/pl/94/201/s8], Jan. 2, 1976, [89 Stat. 1134][/us/stat/89/1134]; [Pub. L. 95–259, § 1][/us/pl/95/259/s1], Apr. 17, 1978, [92 Stat. 196][/us/stat/92/196]; [Pub. L. 96–522][/us/pl/96/522], Dec. 12, 1980, [94 Stat. 3038][/us/stat/94/3038]; [Pub. L. 98–392][/us/pl/98/392], §§ 1, 2, Aug. 21, 1984, [98 Stat. 1362][/us/stat/98/1362]; [Pub. L. 99–473][/us/pl/99/473], Oct. 16, 1986, [100 Stat. 1212][/us/stat/100/1212]; [Pub. L. 101–99][/us/pl/101/99], Sept. 26, 1989, [103 Stat. 637][/us/stat/103/637]; [Pub. L. 102–399][/us/pl/102/399], Oct. 7, 1992, [106 Stat. 1954][/us/stat/106/1954]; [Pub. L. 103–101, § 1][/us/pl/103/101/s1], Oct. 8, 1993, [107 Stat. 1020][/us/stat/107/1020]; [Pub. L. 104–197, title II, § 209][/us/pl/104/197/s209], Sept. 16, 1996, [110 Stat. 2410][/us/stat/110/2410]; [Pub. L. 105–275, title III, § 312(c)][/us/pl/105/275/s312/c], Oct. 21, 1998, [112 Stat. 2459][/us/stat/112/2459].)
+([Pub. L. 94–201][/us/pl/94/201], § 8, Jan. 2, 1976, [89 Stat. 1134][/us/stat/89/1134]; [Pub. L. 95–259][/us/pl/95/259], § 1, Apr. 17, 1978, [92 Stat. 196][/us/stat/92/196]; [Pub. L. 96–522][/us/pl/96/522], Dec. 12, 1980, [94 Stat. 3038][/us/stat/94/3038]; [Pub. L. 98–392][/us/pl/98/392], §§ 1, 2, Aug. 21, 1984, [98 Stat. 1362][/us/stat/98/1362]; [Pub. L. 99–473][/us/pl/99/473], Oct. 16, 1986, [100 Stat. 1212][/us/stat/100/1212]; [Pub. L. 101–99][/us/pl/101/99], Sept. 26, 1989, [103 Stat. 637][/us/stat/103/637]; [Pub. L. 102–399][/us/pl/102/399], Oct. 7, 1992, [106 Stat. 1954][/us/stat/106/1954]; [Pub. L. 103–101][/us/pl/103/101], § 1, Oct. 8, 1993, [107 Stat. 1020][/us/stat/107/1020]; [Pub. L. 104–197, title II][/us/pl/104/197/tII], § 209, Sept. 16, 1996, [110 Stat. 2410][/us/stat/110/2410]; [Pub. L. 105–275, title III][/us/pl/105/275/tIII], § 312(c), Oct. 21, 1998, [112 Stat. 2459][/us/stat/112/2459].)
 
  __Amendments__ 
 
@@ -46,9 +46,9 @@
 ----------
 ----------
 
-[/us/pl/94/201/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F201%2Fs8
+[/us/pl/94/201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F201
 [/us/stat/89/1134]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F1134
-[/us/pl/95/259/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F259%2Fs1
+[/us/pl/95/259]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F259
 [/us/stat/92/196]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F196
 [/us/pl/96/522]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F522
 [/us/stat/94/3038]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F3038
@@ -60,11 +60,11 @@
 [/us/stat/103/637]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F637
 [/us/pl/102/399]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F399
 [/us/stat/106/1954]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F1954
-[/us/pl/103/101/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F101%2Fs1
+[/us/pl/103/101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F101
 [/us/stat/107/1020]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F1020
-[/us/pl/104/197/s209]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F197%2Fs209
+[/us/pl/104/197/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F197%2FtII
 [/us/stat/110/2410]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2410
-[/us/pl/105/275/s312/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F275%2Fs312%2Fc
+[/us/pl/105/275/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F275%2FtIII
 [/us/stat/112/2459]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2459
 [/us/pl/105/275]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F275
 [/us/pl/104/197]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F197

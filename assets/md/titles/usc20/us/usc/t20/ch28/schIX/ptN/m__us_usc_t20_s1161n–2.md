@@ -151,13 +151,13 @@
 
             The Secretary shall also give special consideration to applications from institutions of higher education or consortia of such institutions that demonstrate a commitment to serving underserved populations attending such institutions.
 
-([Pub. L. 89–329, title VIII, § 833][/us/pl/89/329/s833], as added [Pub. L. 110–315, title VIII, § 801][/us/pl/110/315/s801], Aug. 14, 2008, [122 Stat. 3415][/us/stat/122/3415]; amended [Pub. L. 111–39, title VIII, § 801(11)][/us/pl/111/39/s801/11], July 1, 2009, [123 Stat. 1956][/us/stat/123/1956].)
+([Pub. L. 89–329, title VIII][/us/pl/89/329/tVIII], § 833, as added [Pub. L. 110–315, title VIII][/us/pl/110/315/tVIII], § 801, Aug. 14, 2008, [122 Stat. 3415][/us/stat/122/3415]; amended [Pub. L. 111–39, title VIII][/us/pl/111/39/tVIII], § 801(11), July 1, 2009, [123 Stat. 1956][/us/stat/123/1956].)
 
  __Amendments__ 
 
-    2009—Subsec. (e)(1). [Pub. L. 111–39, § 801(11)(A)][/us/pl/111/39/s801/11/A], substituted “based on” for “because of” in introductory provisions.
+    2009—Subsec. (e)(1). [Pub. L. 111–39][/us/pl/111/39], § 801(11)(A), substituted “based on” for “because of” in introductory provisions.
 
-    Subsec. (e)(1)(D). [Pub. L. 111–39, § 801(11)(B)][/us/pl/111/39/s801/11/B], substituted “purpose of this part” for “purposes of this section”.
+    Subsec. (e)(1)(D). [Pub. L. 111–39][/us/pl/111/39], § 801(11)(B), substituted “purpose of this part” for “purposes of this section”.
 
  __Effective Date of 2009 Amendment__ 
 
@@ -173,13 +173,13 @@
 [/us/usc/t20/s1161n–4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1161n%E2%80%934
 [/us/usc/t20/s1161n–1/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1161n%E2%80%931%2Fa%2F2
 [/us/usc/t20/s1161n–3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1161n%E2%80%933
-[/us/pl/89/329/s833]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2Fs833
-[/us/pl/110/315/s801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2Fs801
+[/us/pl/89/329/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2FtVIII
+[/us/pl/110/315/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2FtVIII
 [/us/stat/122/3415]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3415
-[/us/pl/111/39/s801/11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F39%2Fs801%2F11
+[/us/pl/111/39/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F39%2FtVIII
 [/us/stat/123/1956]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1956
-[/us/pl/111/39/s801/11/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F39%2Fs801%2F11%2FA
-[/us/pl/111/39/s801/11/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F39%2Fs801%2F11%2FB
+[/us/pl/111/39]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F39
+[/us/pl/111/39]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F39
 [/us/pl/111/39]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F39
 [/us/pl/110/315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315
 [/us/pl/111/39/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F39%2Fs3

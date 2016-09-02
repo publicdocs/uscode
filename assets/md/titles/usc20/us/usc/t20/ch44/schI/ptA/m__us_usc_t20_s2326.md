@@ -119,7 +119,7 @@
 
         From the funds reserved pursuant to [section 2321(a)(1)(B)(ii) of this title][/us/usc/t20/s2321/a/1/B/ii], the Secretary shall award grants to or enter into contracts with community-based organizations primarily serving and representing Native Hawaiians to plan, conduct, and administer programs, or portions thereof, which are authorized by and consistent with the provisions of this section for the benefit of Native Hawaiians.
 
-([Pub. L. 88–210, title I, § 116][/us/pl/88/210/s116], as added [Pub. L. 109–270, § 1(b)][/us/pl/109/270/s1/b], Aug. 12, 2006, [120 Stat. 707][/us/stat/120/707].)
+([Pub. L. 88–210, title I][/us/pl/88/210/tI], § 116, as added [Pub. L. 109–270][/us/pl/109/270], § 1(b), Aug. 12, 2006, [120 Stat. 707][/us/stat/120/707]; amended [Pub. L. 114–95, title IX][/us/pl/114/95/tIX], § 9215(n)(5), Dec. 10, 2015, [129 Stat. 2169][/us/stat/129/2169].)
 
  __References in Text__ 
 
@@ -127,9 +127,17 @@
 
  __Prior Provisions__ 
 
-    A prior section 2326, [Pub. L. 88–210, title I, § 116][/us/pl/88/210/s116], as added [Pub. L. 105–332, § 1(b)][/us/pl/105/332/s1/b], Oct. 31, 1998, [112 Stat. 3094][/us/stat/112/3094]; amended [Pub. L. 107–110, title VII, § 702(b)][/us/pl/107/110/s702/b], (c), Jan. 8, 2002, [115 Stat. 1946][/us/stat/115/1946], 1947, related to Native American program, prior to the general amendment of this chapter by [Pub. L. 109–270][/us/pl/109/270].
+    A prior section 2326, [Pub. L. 88–210, title I][/us/pl/88/210/tI], § 116, as added [Pub. L. 105–332][/us/pl/105/332], § 1(b), Oct. 31, 1998, [112 Stat. 3094][/us/stat/112/3094]; amended [Pub. L. 107–110, title VII][/us/pl/107/110/tVII], § 702(b), (c), Jan. 8, 2002, [115 Stat. 1946][/us/stat/115/1946], 1947, related to Native American program, prior to the general amendment of this chapter by [Pub. L. 109–270][/us/pl/109/270].
 
-    Another prior section 2326, [Pub. L. 88–210, title I, § 116][/us/pl/88/210/s116], as added [Pub. L. 101–392, title I, § 116][/us/pl/101/392/s116], Sept. 25, 1990, [104 Stat. 772][/us/stat/104/772], related to State assessments of program quality, prior to the general amendment of this chapter by [Pub. L. 105–332][/us/pl/105/332].
+    Another prior section 2326, [Pub. L. 88–210, title I][/us/pl/88/210/tI], § 116, as added [Pub. L. 101–392, title I][/us/pl/101/392/tI], § 116, Sept. 25, 1990, [104 Stat. 772][/us/stat/104/772], related to State assessments of program quality, prior to the general amendment of this chapter by [Pub. L. 105–332][/us/pl/105/332].
+
+ __Amendments__ 
+
+    2015—Subsec. (a)(5). [Pub. L. 114–95][/us/pl/114/95] made technical amendment to reference in original act which appears in text as reference to [section 7517 of this title][/us/usc/t20/s7517].
+
+ __Effective Date of 2015 Amendment__ 
+
+    Amendment by [Pub. L. 114–95][/us/pl/114/95] effective Dec. 10, 2015, except with respect to certain noncompetitive programs and competitive programs, see [section 5 of Pub. L. 114–95][/us/pl/114/95/s5], set out as a note under [section 6301 of this title][/us/usc/t20/s6301].
 
 ----------
 
@@ -147,21 +155,28 @@
 [/us/usc/t20/s2321/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs2321%2Fa
 [/us/usc/t25/s3401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs3401
 [/us/usc/t20/s2321/a/1/B/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs2321%2Fa%2F1%2FB%2Fii
-[/us/pl/88/210/s116]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F210%2Fs116
-[/us/pl/109/270/s1/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F270%2Fs1%2Fb
+[/us/pl/88/210/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F210%2FtI
+[/us/pl/109/270]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F270
 [/us/stat/120/707]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F707
+[/us/pl/114/95/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F95%2FtIX
+[/us/stat/129/2169]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F2169
 [/us/pl/102/477]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F477
 [/us/stat/106/2302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2302
 [/us/usc/t25/s3401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs3401
-[/us/pl/88/210/s116]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F210%2Fs116
-[/us/pl/105/332/s1/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F332%2Fs1%2Fb
+[/us/pl/88/210/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F210%2FtI
+[/us/pl/105/332]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F332
 [/us/stat/112/3094]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F3094
-[/us/pl/107/110/s702/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F110%2Fs702%2Fb
+[/us/pl/107/110/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F110%2FtVII
 [/us/stat/115/1946]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F1946
 [/us/pl/109/270]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F270
-[/us/pl/88/210/s116]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F210%2Fs116
-[/us/pl/101/392/s116]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F392%2Fs116
+[/us/pl/88/210/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F210%2FtI
+[/us/pl/101/392/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F392%2FtI
 [/us/stat/104/772]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F772
 [/us/pl/105/332]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F332
+[/us/pl/114/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F95
+[/us/usc/t20/s7517]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs7517
+[/us/pl/114/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F95
+[/us/pl/114/95/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F95%2Fs5
+[/us/usc/t20/s6301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs6301
 
 

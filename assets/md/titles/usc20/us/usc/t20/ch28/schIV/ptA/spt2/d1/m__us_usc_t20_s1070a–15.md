@@ -87,33 +87,41 @@
 
         From amounts appropriated pursuant to the authority of [section 1070a–11(g) of this title][/us/usc/t20/s1070a–11/g], the Secretary shall, to the extent practicable, allocate funds for projects authorized by this section in an amount which is not less than $11,000,000 for each of the fiscal years 2009 through 2014.
 
-([Pub. L. 89–329, title IV, § 402E][/us/pl/89/329/s402E], as added [Pub. L. 102–325, title IV, § 402(a)(4)][/us/pl/102/325/s402/a/4], July 23, 1992, [106 Stat. 489][/us/stat/106/489]; amended [Pub. L. 105–244, title IV, § 402(e)][/us/pl/105/244/s402/e], Oct. 7, 1998, [112 Stat. 1655][/us/stat/112/1655]; [Pub. L. 110–315, title IV, § 403(e)][/us/pl/110/315/s403/e], Aug. 14, 2008, [122 Stat. 3203][/us/stat/122/3203]; [Pub. L. 111–39, title IV, § 401(a)(5)][/us/pl/111/39/s401/a/5], July 1, 2009, [123 Stat. 1938][/us/stat/123/1938].)
+([Pub. L. 89–329, title IV][/us/pl/89/329/tIV], § 402E, as added [Pub. L. 102–325, title IV][/us/pl/102/325/tIV], § 402(a)(4), July 23, 1992, [106 Stat. 489][/us/stat/106/489]; amended [Pub. L. 105–244, title IV][/us/pl/105/244/tIV], § 402(e), Oct. 7, 1998, [112 Stat. 1655][/us/stat/112/1655]; [Pub. L. 110–315, title IV][/us/pl/110/315/tIV], § 403(e), Aug. 14, 2008, [122 Stat. 3203][/us/stat/122/3203]; [Pub. L. 111–39, title IV][/us/pl/111/39/tIV], § 401(a)(5), July 1, 2009, [123 Stat. 1938][/us/stat/123/1938]; [Pub. L. 114–95, title IX][/us/pl/114/95/tIX], § 9215(oo)(7), Dec. 10, 2015, [129 Stat. 2179][/us/stat/129/2179].)
 
  __Amendments__ 
 
+    2015—Subsec. (d)(2)(A). [Pub. L. 114–95][/us/pl/114/95], § 9215(oo)(7)(A), made technical amendment to reference in original act which appears in text as reference to [section 7546 of this title][/us/usc/t20/s7546].
+
+    Subsec. (d)(2)(B). [Pub. L. 114–95][/us/pl/114/95], § 9215(oo)(7)(B), made technical amendment to reference in original act which appears in text as reference to [section 7517 of this title][/us/usc/t20/s7517].
+
     2009—Subsec. (d)(2)(C). [Pub. L. 111–39][/us/pl/111/39] struck out period before semicolon at end.
 
-    2008—Subsec. (b). [Pub. L. 110–315, § 403(e)(1)(A)][/us/pl/110/315/s403/e/1/A], (B), inserted “Required” before “services” in heading and, in introductory provisions, substituted “A project assisted under this section shall provide—” for “A postbaccalaureate achievement project assisted under this section may provide services such as—”.
+    2008—Subsec. (b). [Pub. L. 110–315][/us/pl/110/315], § 403(e)(1)(A), (B), inserted “Required” before “services” in heading and, in introductory provisions, substituted “A project assisted under this section shall provide—” for “A postbaccalaureate achievement project assisted under this section may provide services such as—”.
 
-    Subsec. (b)(5) to (8). [Pub. L. 110–315, § 403(e)(1)(C)][/us/pl/110/315/s403/e/1/C]–(E), inserted “and” after the semicolon in par. (5), substituted a period for the semicolon in par. (6), and struck out pars. (7) and (8) which read as follows:
+    Subsec. (b)(5) to (8). [Pub. L. 110–315][/us/pl/110/315], § 403(e)(1)(C)–(E), inserted “and” after the semicolon in par. (5), substituted a period for the semicolon in par. (6), and struck out pars. (7) and (8) which read as follows:
 
     “(7) mentoring programs involving faculty members at institutions of higher education, students, or any combination of such persons; and
 
     “(8) exposure to cultural events and academic programs not usually available to disadvantaged students.”
 
-    Subsec. (c). [Pub. L. 110–315, § 403(e)(3)][/us/pl/110/315/s403/e/3], added subsec. (c). Former subsec. (c) redesignated (d).
+    Subsec. (c). [Pub. L. 110–315][/us/pl/110/315], § 403(e)(3), added subsec. (c). Former subsec. (c) redesignated (d).
 
-    Subsec. (d). [Pub. L. 110–315, § 403(e)(2)][/us/pl/110/315/s403/e/2], (4)(A), redesignated subsec. (c) as (d) and struck out “postbaccalaureate achievement” after “applications for” in introductory provisions. Former subsec. (d) redesignated (e).
+    Subsec. (d). [Pub. L. 110–315][/us/pl/110/315], § 403(e)(2), (4)(A), redesignated subsec. (c) as (d) and struck out “postbaccalaureate achievement” after “applications for” in introductory provisions. Former subsec. (d) redesignated (e).
 
-    Subsec. (d)(2). [Pub. L. 110–315, § 403(e)(4)(B)][/us/pl/110/315/s403/e/4/B], inserted “, including—” and added subpars. (A) to (C) before semicolon.
+    Subsec. (d)(2). [Pub. L. 110–315][/us/pl/110/315], § 403(e)(4)(B), inserted “, including—” and added subpars. (A) to (C) before semicolon.
 
-    Subsec. (e). [Pub. L. 110–315, § 403(e)(2)][/us/pl/110/315/s403/e/2], redesignated subsec. (d) as (e). Former subsec. (e) redesignated (f).
+    Subsec. (e). [Pub. L. 110–315][/us/pl/110/315], § 403(e)(2), redesignated subsec. (d) as (e). Former subsec. (e) redesignated (f).
 
-    Subsec. (f). [Pub. L. 110–315, § 403(e)(2)][/us/pl/110/315/s403/e/2], (5), redesignated subsec. (e) as (f) and substituted “project under this section” for “postbaccalaureate achievement project” in introductory provisions. Former subsec. (f) redesignated (g).
+    Subsec. (f). [Pub. L. 110–315][/us/pl/110/315], § 403(e)(2), (5), redesignated subsec. (e) as (f) and substituted “project under this section” for “postbaccalaureate achievement project” in introductory provisions. Former subsec. (f) redesignated (g).
 
-    Subsec. (g). [Pub. L. 110–315, § 403(e)(2)][/us/pl/110/315/s403/e/2], (6), redesignated subsec. (f) as (g) and substituted “section 1070a–11(g)” for “section 1070a–11(f)” and “2009 through 2014” for “1993 through 1997”.
+    Subsec. (g). [Pub. L. 110–315][/us/pl/110/315], § 403(e)(2), (6), redesignated subsec. (f) as (g) and substituted “section 1070a–11(g)” for “section 1070a–11(f)” and “2009 through 2014” for “1993 through 1997”.
 
     1998—Subsec. (e)(1). [Pub. L. 105–244][/us/pl/105/244] substituted “$2,800” for “$2,400”.
+
+ __Effective Date of 2015 Amendment__ 
+
+    Amendment by [Pub. L. 114–95][/us/pl/114/95] effective Dec. 10, 2015, except with respect to certain noncompetitive programs and competitive programs, see [section 5 of Pub. L. 114–95][/us/pl/114/95/s5], set out as a note under [section 6301 of this title][/us/usc/t20/s6301].
 
  __Effective Date of 2009 Amendment__ 
 
@@ -135,25 +143,34 @@
 [/us/usc/t20/s1059g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1059g
 [/us/usc/t20/s1094]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1094
 [/us/usc/t20/s1070a–11/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1070a%E2%80%9311%2Fg
-[/us/pl/89/329/s402E]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2Fs402E
-[/us/pl/102/325/s402/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325%2Fs402%2Fa%2F4
+[/us/pl/89/329/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2FtIV
+[/us/pl/102/325/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325%2FtIV
 [/us/stat/106/489]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F489
-[/us/pl/105/244/s402/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2Fs402%2Fe
+[/us/pl/105/244/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2FtIV
 [/us/stat/112/1655]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F1655
-[/us/pl/110/315/s403/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2Fs403%2Fe
+[/us/pl/110/315/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2FtIV
 [/us/stat/122/3203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3203
-[/us/pl/111/39/s401/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F39%2Fs401%2Fa%2F5
+[/us/pl/111/39/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F39%2FtIV
 [/us/stat/123/1938]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1938
+[/us/pl/114/95/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F95%2FtIX
+[/us/stat/129/2179]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F2179
+[/us/pl/114/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F95
+[/us/usc/t20/s7546]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs7546
+[/us/pl/114/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F95
+[/us/usc/t20/s7517]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs7517
 [/us/pl/111/39]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F39
-[/us/pl/110/315/s403/e/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2Fs403%2Fe%2F1%2FA
-[/us/pl/110/315/s403/e/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2Fs403%2Fe%2F1%2FC
-[/us/pl/110/315/s403/e/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2Fs403%2Fe%2F3
-[/us/pl/110/315/s403/e/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2Fs403%2Fe%2F2
-[/us/pl/110/315/s403/e/4/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2Fs403%2Fe%2F4%2FB
-[/us/pl/110/315/s403/e/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2Fs403%2Fe%2F2
-[/us/pl/110/315/s403/e/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2Fs403%2Fe%2F2
-[/us/pl/110/315/s403/e/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2Fs403%2Fe%2F2
+[/us/pl/110/315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315
+[/us/pl/110/315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315
+[/us/pl/110/315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315
+[/us/pl/110/315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315
+[/us/pl/110/315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315
+[/us/pl/110/315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315
+[/us/pl/110/315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315
+[/us/pl/110/315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315
 [/us/pl/105/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244
+[/us/pl/114/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F95
+[/us/pl/114/95/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F95%2Fs5
+[/us/usc/t20/s6301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs6301
 [/us/pl/111/39]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F39
 [/us/pl/110/315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315
 [/us/pl/111/39/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F39%2Fs3

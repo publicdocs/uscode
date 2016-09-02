@@ -29,15 +29,15 @@
 
     (6) estimate the number of schools still in need of assistance and the amount of resources needed by such schools, categorized by State, to abate all remaining asbestos hazards.
 
-([Pub. L. 98–377, title V, § 507][/us/pl/98/377/s507], Aug. 11, 1984, [98 Stat. 1293][/us/stat/98/1293]; [Pub. L. 101–637][/us/pl/101/637], §§ 8, 14(a)(7), Nov. 28, 1990, [104 Stat. 4592][/us/stat/104/4592], 4594.)
+([Pub. L. 98–377, title V][/us/pl/98/377/tV], § 507, Aug. 11, 1984, [98 Stat. 1293][/us/stat/98/1293]; [Pub. L. 101–637][/us/pl/101/637], §§ 8, 14(a)(7), Nov. 28, 1990, [104 Stat. 4592][/us/stat/104/4592], 4594.)
 
  __Amendments__ 
 
-    1990—[Pub. L. 101–637, § 14(a)(7)][/us/pl/101/637/s14/a/7], made technical amendment to section catchline.
+    1990—[Pub. L. 101–637][/us/pl/101/637], § 14(a)(7), made technical amendment to section catchline.
 
-    [Pub. L. 101–637, § 8(a)][/us/pl/101/637/s8/a], amended first sentence generally. Prior to amendment, first sentence read as follows: “During each of the ten calendar years after 1984, the Administrator shall prepare and submit not later than February 1 of each year a report to the Committee on Environment and Public Works of the United States Senate and the Committee on Energy and Commerce of the United States House of Representatives on the loan and grant program authorized by [section 4014 of this title][/us/usc/t20/s4014].”
+    [Pub. L. 101–637][/us/pl/101/637], § 8(a), amended first sentence generally. Prior to amendment, first sentence read as follows: “During each of the ten calendar years after 1984, the Administrator shall prepare and submit not later than February 1 of each year a report to the Committee on Environment and Public Works of the United States Senate and the Committee on Energy and Commerce of the United States House of Representatives on the loan and grant program authorized by [section 4014 of this title][/us/usc/t20/s4014].”
 
-    Par. (6). [Pub. L. 101–637, § 8(b)][/us/pl/101/637/s8/b], inserted before period at end “and the amount of resources needed by such schools, categorized by State, to abate all remaining asbestos hazards”.
+    Par. (6). [Pub. L. 101–637][/us/pl/101/637], § 8(b), inserted before period at end “and the amount of resources needed by such schools, categorized by State, to abate all remaining asbestos hazards”.
 
  __Change of Name__ 
 
@@ -51,14 +51,14 @@
 ----------
 
 [/us/usc/t20/s4014]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs4014
-[/us/pl/98/377/s507]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F377%2Fs507
+[/us/pl/98/377/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F377%2FtV
 [/us/stat/98/1293]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F1293
 [/us/pl/101/637]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F637
 [/us/stat/104/4592]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4592
-[/us/pl/101/637/s14/a/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F637%2Fs14%2Fa%2F7
-[/us/pl/101/637/s8/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F637%2Fs8%2Fa
+[/us/pl/101/637]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F637
+[/us/pl/101/637]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F637
 [/us/usc/t20/s4014]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs4014
-[/us/pl/101/637/s8/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F637%2Fs8%2Fb
+[/us/pl/101/637]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F637
 [/us/pl/104/14/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F14%2Fs1%2Fa
 [/us/usc/t2/s21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs21
 

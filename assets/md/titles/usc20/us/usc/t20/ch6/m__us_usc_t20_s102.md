@@ -45,7 +45,7 @@
 
         Sixth. The superintendent of each public institution for the education of the blind (or his designee) and the chief State school officer (or his designee), of each State and possession of the United States, the Commonwealth of Puerto Rico, and the District of Columbia, shall each, ex officio, be a member of the Board of Trustees of the American Printing House for the Blind only for purposes of administering sections 101, 102 and 104 of this title.
 
-([Mar. 3, 1879, ch. 186, § 3][/us/act/1879-03-03/ch186/s3], [20 Stat. 468][/us/stat/20/468]; [June 25, 1906, ch. 3536][/us/act/1906-06-25/ch3536], [34 Stat. 460][/us/stat/34/460]; [Aug. 2, 1956, ch. 882, § 1][/us/act/1956-08-02/ch882/s1], [70 Stat. 938][/us/stat/70/938]; [Pub. L. 87–294][/us/pl/87/294], §§ 1–3, Sept. 22, 1961, [75 Stat. 627][/us/stat/75/627]; [Pub. L. 91–230, title VIII, § 811(a)][/us/pl/91/230/s811/a], (b), Apr. 13, 1970, [84 Stat. 194][/us/stat/84/194], 195; [Pub. L. 96–88, title III, § 301(a)(2)(M)][/us/pl/96/88/s301/a/2/M], title V, § 507, Oct. 17, 1979, [93 Stat. 678][/us/stat/93/678], 692.)
+([Mar. 3, 1879, ch. 186][/us/act/1879-03-03/ch186], § 3, [20 Stat. 468][/us/stat/20/468]; [June 25, 1906, ch. 3536][/us/act/1906-06-25/ch3536], [34 Stat. 460][/us/stat/34/460]; [Aug. 2, 1956, ch. 882][/us/act/1956-08-02/ch882], § 1, [70 Stat. 938][/us/stat/70/938]; [Pub. L. 87–294][/us/pl/87/294], §§ 1–3, Sept. 22, 1961, [75 Stat. 627][/us/stat/75/627]; [Pub. L. 91–230, title VIII][/us/pl/91/230/tVIII], § 811(a), (b), Apr. 13, 1970, [84 Stat. 194][/us/stat/84/194], 195; [Pub. L. 96–88, title III][/us/pl/96/88/tIII], § 301(a)(2)(M), title V, § 507, Oct. 17, 1979, [93 Stat. 678][/us/stat/93/678], 692.)
 
  __Codification__ 
 
@@ -53,15 +53,15 @@ For purposes of codification, the provisions of section 3 of act Mar. 3, 1879, w
 
  __Amendments__ 
 
-    1970—Par. First. [Pub. L. 91–230, § 811(a)][/us/pl/91/230/s811/a], designated existing provisions as subpar. (A), made provisions applicable to private nonprofit institutions, and added subpars. (B) and (C).
+    1970—Par. First. [Pub. L. 91–230][/us/pl/91/230], § 811(a), designated existing provisions as subpar. (A), made provisions applicable to private nonprofit institutions, and added subpars. (B) and (C).
 
-    Par. Fourth. [Pub. L. 91–230, § 811(b)][/us/pl/91/230/s811/b], made provisions applicable to private nonprofit institutions.
+    Par. Fourth. [Pub. L. 91–230][/us/pl/91/230], § 811(b), made provisions applicable to private nonprofit institutions.
 
-    1961—[Pub. L. 87–294, § 1][/us/pl/87/294/s1], substituted “Secretary of Health, Education, and Welfare” for “Secretary of the Treasury of the United States” and struck out “permanent” before “annual appropriation” in opening clause.
+    1961—[Pub. L. 87–294][/us/pl/87/294], § 1, substituted “Secretary of Health, Education, and Welfare” for “Secretary of the Treasury of the United States” and struck out “permanent” before “annual appropriation” in opening clause.
 
-    Par. Second. [Pub. L. 87–294, § 2][/us/pl/87/294/s2], authorized the trustees to use each year a reasonable sum of the annual appropriation for salaries and other expenses of experts and other staff to assist special committees which may be appointed in performance of their functions, and for expenses of such special committees.
+    Par. Second. [Pub. L. 87–294][/us/pl/87/294], § 2, authorized the trustees to use each year a reasonable sum of the annual appropriation for salaries and other expenses of experts and other staff to assist special committees which may be appointed in performance of their functions, and for expenses of such special committees.
 
-    Par. Sixth. [Pub. L. 87–294, § 3][/us/pl/87/294/s3], substituted “superintendent of each public institution for the education of the blind (or his designee) and the chief State school officer (or his designee), of each State and possession of the United States, the Commonwealth of Puerto Rico, and the District of Columbia, shall” for “superintendents of the various public institutions for the education of the blind in the United States shall”, and limited the duties of the Board to the administration of sections 101, 102, and 104 of this title.
+    Par. Sixth. [Pub. L. 87–294][/us/pl/87/294], § 3, substituted “superintendent of each public institution for the education of the blind (or his designee) and the chief State school officer (or his designee), of each State and possession of the United States, the Commonwealth of Puerto Rico, and the District of Columbia, shall” for “superintendents of the various public institutions for the education of the blind in the United States shall”, and limited the duties of the Board to the administration of sections 101, 102, and 104 of this title.
 
     1956—Par. First. Act Aug. 2, 1956, authorized wider distribution of books and other special instructional material for the blind.
 
@@ -84,24 +84,24 @@ For purposes of codification, the provisions of section 3 of act Mar. 3, 1879, w
 ----------
 ----------
 
-[/us/act/1879-03-03/ch186/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1879-03-03%2Fch186%2Fs3
+[/us/act/1879-03-03/ch186]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1879-03-03%2Fch186
 [/us/stat/20/468]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F20%2F468
 [/us/act/1906-06-25/ch3536]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1906-06-25%2Fch3536
 [/us/stat/34/460]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F34%2F460
-[/us/act/1956-08-02/ch882/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-02%2Fch882%2Fs1
+[/us/act/1956-08-02/ch882]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-02%2Fch882
 [/us/stat/70/938]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70%2F938
 [/us/pl/87/294]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F294
 [/us/stat/75/627]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F75%2F627
-[/us/pl/91/230/s811/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F230%2Fs811%2Fa
+[/us/pl/91/230/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F230%2FtVIII
 [/us/stat/84/194]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F194
-[/us/pl/96/88/s301/a/2/M]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F88%2Fs301%2Fa%2F2%2FM
+[/us/pl/96/88/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F88%2FtIII
 [/us/stat/93/678]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F678
 [/us/usc/t20/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs101
-[/us/pl/91/230/s811/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F230%2Fs811%2Fa
-[/us/pl/91/230/s811/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F230%2Fs811%2Fb
-[/us/pl/87/294/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F294%2Fs1
-[/us/pl/87/294/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F294%2Fs2
-[/us/pl/87/294/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F294%2Fs3
+[/us/pl/91/230]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F230
+[/us/pl/91/230]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F230
+[/us/pl/87/294]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F294
+[/us/pl/87/294]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F294
+[/us/pl/87/294]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F294
 [/us/pl/87/294]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F294
 [/us/pl/87/294/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F294%2Fs5
 [/us/usc/t20/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs101

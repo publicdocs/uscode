@@ -29,7 +29,7 @@
 
             The provisions of paragraph (1) shall not apply to any education program under which funds are authorized to be appropriated to pay the fees and expenses of non-Federal experts to review applications and proposals for such funds.
 
-([Pub. L. 96–88, title IV, § 402][/us/pl/96/88/s402], Oct. 17, 1979, [93 Stat. 682][/us/stat/93/682]; [Pub. L. 103–227, title IX, § 981][/us/pl/103/227/s981], Mar. 31, 1994, [108 Stat. 263][/us/stat/108/263].)
+([Pub. L. 96–88, title IV][/us/pl/96/88/tIV], § 402, Oct. 17, 1979, [93 Stat. 682][/us/stat/93/682]; [Pub. L. 103–227, title IX][/us/pl/103/227/tIX], § 981, Mar. 31, 1994, [108 Stat. 263][/us/stat/108/263].)
 
  __Amendments__ 
 
@@ -47,9 +47,9 @@
 ----------
 
 [/us/usc/t5/s3109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs3109
-[/us/pl/96/88/s402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F88%2Fs402
+[/us/pl/96/88/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F88%2FtIV
 [/us/stat/93/682]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F682
-[/us/pl/103/227/s981]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F227%2Fs981
+[/us/pl/103/227/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F227%2FtIX
 [/us/stat/108/263]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F263
 [/us/pl/103/227]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F227
 [/us/pl/101/509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F509

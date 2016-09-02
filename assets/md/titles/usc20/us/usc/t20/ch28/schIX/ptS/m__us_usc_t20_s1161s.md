@@ -137,7 +137,7 @@
 
         There are authorized to be appropriated to carry out this section such sums as may be necessary for fiscal year 2009 and each of the five succeeding fiscal years.
 
-([Pub. L. 89–329, title VIII, § 872][/us/pl/89/329/s872], as added [Pub. L. 110–315, title VIII, § 801][/us/pl/110/315/s801], Aug. 14, 2008, [122 Stat. 3426][/us/stat/122/3426]; amended [Pub. L. 113–128, title V, § 512(n)(7)][/us/pl/113/128/s512/n/7], July 22, 2014, [128 Stat. 1711][/us/stat/128/1711].)
+([Pub. L. 89–329, title VIII][/us/pl/89/329/tVIII], § 872, as added [Pub. L. 110–315, title VIII][/us/pl/110/315/tVIII], § 801, Aug. 14, 2008, [122 Stat. 3426][/us/stat/122/3426]; amended [Pub. L. 113–128, title V][/us/pl/113/128/tV], § 512(n)(7), July 22, 2014, [128 Stat. 1711][/us/stat/128/1711].)
 
  __Amendments__ 
 
@@ -156,10 +156,10 @@
 
 [/us/usc/t47/s613]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs613
 [/us/usc/t29/s3102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3102
-[/us/pl/89/329/s872]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2Fs872
-[/us/pl/110/315/s801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2Fs801
+[/us/pl/89/329/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2FtVIII
+[/us/pl/110/315/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2FtVIII
 [/us/stat/122/3426]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3426
-[/us/pl/113/128/s512/n/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs512%2Fn%2F7
+[/us/pl/113/128/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2FtV
 [/us/stat/128/1711]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1711
 [/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
 [/us/usc/t29/s3102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3102

@@ -11,13 +11,13 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t20/ch31/schI/m__us_usc_t20_s1221e.md) | [Next](./../../../../..//us/usc/t20/ch31/schI/m__us_usc_t20_s1221e–2.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1221e%E2%80%931d)
+[Previous](./../../../../..//us/usc/t20/ch31/schI/m__us_usc_t20_s1221e–1...1221e–1c.md) | [Next](./../../../../..//us/usc/t20/ch31/schI/m__us_usc_t20_s1221e–2.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1221e%E2%80%931d)
 
 ## § 1221e–1d. Use of Council staff and facilities
 
     The National Advisory Council on Educational Research and Improvement, the Advisory Council on Education Statistics, and members of such councils may not use any staff, facilities, equipment, supplies, or franking privileges of the councils for activities unrelated to the purposes of the councils.
 
-([Pub. L. 99–498, title XIV, § 1403][/us/pl/99/498/s1403], Oct. 17, 1986, [100 Stat. 1599][/us/stat/100/1599].)
+([Pub. L. 99–498, title XIV][/us/pl/99/498/tXIV], § 1403, Oct. 17, 1986, [100 Stat. 1599][/us/stat/100/1599].)
 
  __Codification__ 
 
@@ -25,12 +25,12 @@
 
 ----------
 
-[Previous](./../../../../..//us/usc/t20/ch31/schI/m__us_usc_t20_s1221e.md) | [Next](./../../../../..//us/usc/t20/ch31/schI/m__us_usc_t20_s1221e–2.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1221e%E2%80%931d)
+[Previous](./../../../../..//us/usc/t20/ch31/schI/m__us_usc_t20_s1221e–1...1221e–1c.md) | [Next](./../../../../..//us/usc/t20/ch31/schI/m__us_usc_t20_s1221e–2.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1221e%E2%80%931d)
 
 ----------
 ----------
 
-[/us/pl/99/498/s1403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F498%2Fs1403
+[/us/pl/99/498/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F498%2FtXIV
 [/us/stat/100/1599]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1599
 
 

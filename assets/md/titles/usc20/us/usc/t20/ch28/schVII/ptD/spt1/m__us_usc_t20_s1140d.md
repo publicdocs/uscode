@@ -17,7 +17,7 @@
 
     Nothing in this subpart shall be construed to impose any additional duty, obligation, or responsibility on an institution of higher education or on the institution’s faculty, administrators, or staff than is required under [section 794 of title 29][/us/usc/t29/s794] and the Americans with Disabilities Act of 1990 ([42 U.S.C. 12101][/us/usc/t42/s12101] et seq.).
 
-([Pub. L. 89–329, title VII, § 764][/us/pl/89/329/s764], as added [Pub. L. 110–315, title VII, § 709(2)][/us/pl/110/315/s709/2], Aug. 14, 2008, [122 Stat. 3365][/us/stat/122/3365].)
+([Pub. L. 89–329, title VII][/us/pl/89/329/tVII], § 764, as added [Pub. L. 110–315, title VII][/us/pl/110/315/tVII], § 709(2), Aug. 14, 2008, [122 Stat. 3365][/us/stat/122/3365].)
 
  __References in Text__ 
 
@@ -25,7 +25,7 @@
 
  __Prior Provisions__ 
 
-    A prior section 1140d, [Pub. L. 89–329, title VII, § 765][/us/pl/89/329/s765], as added [Pub. L. 105–244, title VII, § 701][/us/pl/105/244/s701], Oct. 7, 1998, [112 Stat. 1803][/us/stat/112/1803], authorized appropriations, prior to repeal by [Pub. L. 110–315, title VII, § 709(2)][/us/pl/110/315/s709/2], Aug. 14, 2008, [122 Stat. 3361][/us/stat/122/3361].
+    A prior section 1140d, [Pub. L. 89–329, title VII][/us/pl/89/329/tVII], § 765, as added [Pub. L. 105–244, title VII][/us/pl/105/244/tVII], § 701, Oct. 7, 1998, [112 Stat. 1803][/us/stat/112/1803], authorized appropriations, prior to repeal by [Pub. L. 110–315, title VII][/us/pl/110/315/tVII], § 709(2), Aug. 14, 2008, [122 Stat. 3361][/us/stat/122/3361].
 
     A prior [section 764 of Pub. L. 89–329][/us/pl/89/329/s764] was classified to [section 1140c of this title][/us/usc/t20/s1140c], prior to repeal by [Pub. L. 110–315][/us/pl/110/315].
 
@@ -42,16 +42,16 @@
 
 [/us/usc/t29/s794]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs794
 [/us/usc/t42/s12101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs12101
-[/us/pl/89/329/s764]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2Fs764
-[/us/pl/110/315/s709/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2Fs709%2F2
+[/us/pl/89/329/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2FtVII
+[/us/pl/110/315/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2FtVII
 [/us/stat/122/3365]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3365
 [/us/pl/101/336]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F336
 [/us/stat/104/327]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F327
 [/us/usc/t42/s12101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs12101
-[/us/pl/89/329/s765]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2Fs765
-[/us/pl/105/244/s701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2Fs701
+[/us/pl/89/329/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2FtVII
+[/us/pl/105/244/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2FtVII
 [/us/stat/112/1803]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F1803
-[/us/pl/110/315/s709/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2Fs709%2F2
+[/us/pl/110/315/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2FtVII
 [/us/stat/122/3361]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3361
 [/us/pl/89/329/s764]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2Fs764
 [/us/usc/t20/s1140c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1140c

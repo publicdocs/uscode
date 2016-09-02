@@ -19,7 +19,7 @@
 
     (b) The University, in investing its endowment fund corpus and income, shall exercise the judgment and care, under circumstances then prevailing, which a person of prudence, discretion, and intelligence would exercise in the management of his own business affairs.
 
-([Pub. L. 98–480, title II, § 204][/us/pl/98/480/s204], Oct. 17, 1984, [98 Stat. 2246][/us/stat/98/2246].)
+([Pub. L. 98–480, title II][/us/pl/98/480/tII], § 204, Oct. 17, 1984, [98 Stat. 2246][/us/stat/98/2246].)
 
 ----------
 
@@ -28,7 +28,7 @@
 ----------
 ----------
 
-[/us/pl/98/480/s204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F480%2Fs204
+[/us/pl/98/480/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F480%2FtII
 [/us/stat/98/2246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2246
 
 

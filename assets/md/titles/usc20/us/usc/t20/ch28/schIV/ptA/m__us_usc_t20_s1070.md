@@ -33,11 +33,11 @@
 
         The Secretary shall, in accordance with subparts 1 through 9 of this part, carry out programs to achieve the purposes of this part.
 
-([Pub. L. 89–329, title IV, § 400][/us/pl/89/329/s400], formerly § 401, as added [Pub. L. 99–498, title IV, § 401(a)][/us/pl/99/498/s401/a], Oct. 17, 1986, [100 Stat. 1308][/us/stat/100/1308]; renumbered § 400, [Pub. L. 102–325, title IV, § 402(a)(3)][/us/pl/102/325/s402/a/3], July 23, 1992, [106 Stat. 482][/us/stat/106/482]; amended [Pub. L. 105–244, title IV, § 401(g)(1)][/us/pl/105/244/s401/g/1], Oct. 7, 1998, [112 Stat. 1652][/us/stat/112/1652]; [Pub. L. 111–39, title IV, § 401(a)(1)][/us/pl/111/39/s401/a/1], July 1, 2009, [123 Stat. 1938][/us/stat/123/1938].)
+([Pub. L. 89–329, title IV][/us/pl/89/329/tIV], § 400, formerly § 401, as added [Pub. L. 99–498, title IV][/us/pl/99/498/tIV], § 401(a), Oct. 17, 1986, [100 Stat. 1308][/us/stat/100/1308]; renumbered § 400, [Pub. L. 102–325, title IV][/us/pl/102/325/tIV], § 402(a)(3), July 23, 1992, [106 Stat. 482][/us/stat/106/482]; amended [Pub. L. 105–244, title IV][/us/pl/105/244/tIV], § 401(g)(1), Oct. 7, 1998, [112 Stat. 1652][/us/stat/112/1652]; [Pub. L. 111–39, title IV][/us/pl/111/39/tIV], § 401(a)(1), July 1, 2009, [123 Stat. 1938][/us/stat/123/1938].)
 
  __Prior Provisions__ 
 
-    A prior section 1070, [Pub. L. 89–329, title IV, § 401][/us/pl/89/329/s401], as added and amended [Pub. L. 92–318, title I, § 131(b)(1)][/us/pl/92/318/s131/b/1], title X, § 1001(c)(1), (2), June 23, 1972, [86 Stat. 247][/us/stat/86/247], 381; [Pub. L. 94–482, title I, § 125][/us/pl/94/482/s125], Oct. 12, 1976, [90 Stat. 2096][/us/stat/90/2096]; [Pub. L. 96–374, title IV, § 401][/us/pl/96/374/s401], title XIII, § 1391(a)(1), Oct. 3, 1980, [94 Stat. 1401][/us/stat/94/1401], 1503, stated purpose of program of grants to students in attendance at institutions of higher education, prior to the general revision of this part by [Pub. L. 99–498][/us/pl/99/498].
+    A prior section 1070, [Pub. L. 89–329, title IV][/us/pl/89/329/tIV], § 401, as added and amended [Pub. L. 92–318, title I][/us/pl/92/318/tI], § 131(b)(1), title X, § 1001(c)(1), (2), June 23, 1972, [86 Stat. 247][/us/stat/86/247], 381; [Pub. L. 94–482, title I][/us/pl/94/482/tI], § 125, Oct. 12, 1976, [90 Stat. 2096][/us/stat/90/2096]; [Pub. L. 96–374, title IV][/us/pl/96/374/tIV], § 401, title XIII, § 1391(a)(1), Oct. 3, 1980, [94 Stat. 1401][/us/stat/94/1401], 1503, stated purpose of program of grants to students in attendance at institutions of higher education, prior to the general revision of this part by [Pub. L. 99–498][/us/pl/99/498].
 
  __Amendments__ 
 
@@ -55,25 +55,25 @@
 
  __Higher Education Relief Opportunities for Students__ 
 
-    [Pub. L. 108–76][/us/pl/108/76], §§ 1–5, Aug. 18, 2003, [117 Stat. 904][/us/stat/117/904], formerly set out in a note under this section, was transferred to part F–1 (§ 1098aa et seq.) of this subchapter. [Pub. L. 108–76, § 6][/us/pl/108/76/s6], Aug. 18, 2003, [117 Stat. 908][/us/stat/117/908], as amended by [Pub. L. 109–78, § 1][/us/pl/109/78/s1], Sept. 30, 2005, [119 Stat. 2043][/us/stat/119/2043], formerly set out in the same note under this section, which provided for termination of [Pub. L. 108–76][/us/pl/108/76] on Sept. 30, 2007, was repealed by [Pub. L. 110–93, § 2][/us/pl/110/93/s2], Sept. 30, 2007, [121 Stat. 999][/us/stat/121/999].
+    [Pub. L. 108–76][/us/pl/108/76], §§ 1–5, Aug. 18, 2003, [117 Stat. 904][/us/stat/117/904], formerly set out in a note under this section, was transferred to part F–1 (§ 1098aa et seq.) of this subchapter. [Pub. L. 108–76][/us/pl/108/76], § 6, Aug. 18, 2003, [117 Stat. 908][/us/stat/117/908], as amended by [Pub. L. 109–78][/us/pl/109/78], § 1, Sept. 30, 2005, [119 Stat. 2043][/us/stat/119/2043], formerly set out in the same note under this section, which provided for termination of [Pub. L. 108–76][/us/pl/108/76] on Sept. 30, 2007, was repealed by [Pub. L. 110–93][/us/pl/110/93], § 2, Sept. 30, 2007, [121 Stat. 999][/us/stat/121/999].
 
     [Pub. L. 107–122][/us/pl/107/122], Jan. 15, 2002, [115 Stat. 2386][/us/stat/115/2386], known as the Higher Education Relief Opportunities for Students Act of 2001, authorized the Secretary of Education to waive or modify statutory or regulatory provisions applicable to the student financial aid programs under title IV of the Higher Education Act of 1965 ([20 U.S.C. 1070][/us/usc/t20/s1070] et seq., [42 U.S.C. 2751][/us/usc/t42/s2751] et seq.) as deemed necessary because of a national emergency, provided sense of Congress as to tuition refunds from institutions of postsecondary education, and provided that the Act ceased to be effective Sept. 30, 2003.
 
  __Community Scholarship Mobilization__ 
 
-    [Pub. L. 105–244, title VIII][/us/pl/105/244], part C, Oct. 7, 1998, [112 Stat. 1810][/us/stat/112/1810], known as the Community Scholarship Mobilization Act, which established regional, State and community program centers to foster development of local entities in high poverty areas that promote higher education goals for low-income students with academic support and scholarship assistance for postsecondary education, was repealed by [Pub. L. 110–315, title IX, § 931(2)][/us/pl/110/315/s931/2], Aug. 14, 2008, [122 Stat. 3456][/us/stat/122/3456].
+    [Pub. L. 105–244, title VIII, part C][/us/pl/105/244/tVIII/ptC], Oct. 7, 1998, [112 Stat. 1810][/us/stat/112/1810], known as the Community Scholarship Mobilization Act, which established regional, State and community program centers to foster development of local entities in high poverty areas that promote higher education goals for low-income students with academic support and scholarship assistance for postsecondary education, was repealed by [Pub. L. 110–315, title IX][/us/pl/110/315/tIX], § 931(2), Aug. 14, 2008, [122 Stat. 3456][/us/stat/122/3456].
 
  __Community School Partnerships__ 
 
-    [Pub. L. 103–382, title V][/us/pl/103/382], part B, Oct. 20, 1994, [108 Stat. 4045][/us/stat/108/4045], which provided for grants to establish community centers giving academic support and postsecondary scholarships to poor students, was repealed by [Pub. L. 105–277, div. A, § 101(f)][/us/pl/105/277/s101/f] \[title VIII, § 301(a)\], Oct. 21, 1998, [112 Stat. 2681–337][/us/stat/112/2681-337], 2681–410.
+    [Pub. L. 103–382, title V][/us/pl/103/382/tV], part B, Oct. 20, 1994, [108 Stat. 4045][/us/stat/108/4045], which provided for grants to establish community centers giving academic support and postsecondary scholarships to poor students, was repealed by [Pub. L. 105–277, div. A][/us/pl/105/277/dA], § 101(f) \[title VIII, § 301(a)\], Oct. 21, 1998, [112 Stat. 2681–337][/us/stat/112/2681-337], 2681–410.
 
  __Study of Federal Benefit Coordination__ 
 
-    [Pub. L. 102–325, title XIV, § 1405][/us/pl/102/325/s1405], July 23, 1992, [106 Stat. 818][/us/stat/106/818], directed Secretary of Education to conduct a study to evaluate the coordination of Federal student financial assistance programs under title IV of the Higher Education Act of 1965 \[[20 U.S.C. 1070][/us/usc/t20/s1070] et seq.; [42 U.S.C. 2751][/us/usc/t42/s2751] et seq.\] with other programs funded in whole or in part with Federal funds, with Secretary to prepare and submit to appropriate committees of Congress a report on the study not later than 3 years after July 23, 1992, together with such recommendations as the Secretary deemed appropriate, prior to repeal by [Pub. L. 105–332, § 6(b)(2)][/us/pl/105/332/s6/b/2], Oct. 31, 1998, [112 Stat. 3128][/us/stat/112/3128].
+    [Pub. L. 102–325, title XIV][/us/pl/102/325/tXIV], § 1405, July 23, 1992, [106 Stat. 818][/us/stat/106/818], directed Secretary of Education to conduct a study to evaluate the coordination of Federal student financial assistance programs under title IV of the Higher Education Act of 1965 \[[20 U.S.C. 1070][/us/usc/t20/s1070] et seq.; [42 U.S.C. 2751][/us/usc/t42/s2751] et seq.\] with other programs funded in whole or in part with Federal funds, with Secretary to prepare and submit to appropriate committees of Congress a report on the study not later than 3 years after July 23, 1992, together with such recommendations as the Secretary deemed appropriate, prior to repeal by [Pub. L. 105–332][/us/pl/105/332], § 6(b)(2), Oct. 31, 1998, [112 Stat. 3128][/us/stat/112/3128].
 
  __Olympic Scholarships__ 
 
-[Pub. L. 102–325, title XV, § 1543][/us/pl/102/325/s1543], July 23, 1992, [106 Stat. 836][/us/stat/106/836], as amended by [Pub. L. 105–244, title VIII, § 836][/us/pl/105/244/s836], Oct. 7, 1998, [112 Stat. 1820][/us/stat/112/1820]; [Pub. L. 106–554, § 1(a)(1)][/us/pl/106/554/s1/a/1] \[title III, § 319\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–49; [Pub. L. 107–116, title III, § 305(a)][/us/pl/107/116/s305/a], Jan. 10, 2002, [115 Stat. 2208][/us/stat/115/2208]; [Pub. L. 110–315, title IX, § 934][/us/pl/110/315/s934], Aug. 14, 2008, [122 Stat. 3460][/us/stat/122/3460], provided that:
+[Pub. L. 102–325, title XV][/us/pl/102/325/tXV], § 1543, July 23, 1992, [106 Stat. 836][/us/stat/106/836], as amended by [Pub. L. 105–244, title VIII][/us/pl/105/244/tVIII], § 836, Oct. 7, 1998, [112 Stat. 1820][/us/stat/112/1820]; [Pub. L. 106–554][/us/pl/106/554], § 1(a)(1) \[title III, § 319\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–49; [Pub. L. 107–116, title III][/us/pl/107/116/tIII], § 305(a), Jan. 10, 2002, [115 Stat. 2208][/us/stat/115/2208]; [Pub. L. 110–315, title IX][/us/pl/110/315/tIX], § 934, Aug. 14, 2008, [122 Stat. 3460][/us/stat/122/3460], provided that:
 
 >     “(a) __Scholarships Authorized.—__ 
 
@@ -105,7 +105,7 @@
 
 >     Scholarships awarded under this section shall be known as ‘B.J. Stupak Olympic Scholarships’.”
 
-\[[Pub. L. 107–116, title III, § 305(b)][/us/pl/107/116/s305/b], Jan. 10, 2002, [115 Stat. 2208][/us/stat/115/2208], provided that: 
+\[[Pub. L. 107–116, title III][/us/pl/107/116/tIII], § 305(b), Jan. 10, 2002, [115 Stat. 2208][/us/stat/115/2208], provided that: 
 
 > “The amendments made by subsection (a) \[amending [section 1543 of Pub. L. 102–325][/us/pl/102/325/s1543], set out above\] shall apply with respect to any funds appropriated pursuant to section 1543(d) of the Higher Education Amendments of 1992 \[[section 1543(d) of Pub. L. 102–325][/us/pl/102/325/s1543/d], set out above\], including funds appropriated pursuant to that section in fiscal years 2000 and 2001, that are available for financial assistance under section 1543 on or after the date of enactment of this Act \[Jan. 10, 2002\].”
 
@@ -175,7 +175,7 @@
 
 >     “The provisions of sections 4 and 5 shall cease to be effective on September 30, 1997.”
 
-[Pub. L. 102–25, title III][/us/pl/102/25], part E (§§ 371–376), Apr. 6, 1991, [105 Stat. 93][/us/stat/105/93], provided that:
+[Pub. L. 102–25, title III][/us/pl/102/25/tIII], part E (§§ 371–376), Apr. 6, 1991, [105 Stat. 93][/us/stat/105/93], provided that:
 
 > “SEC. 371. __SHORT TITLE__ 
 
@@ -201,21 +201,21 @@
 ----------
 
 [/us/usc/t20/s1091]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1091
-[/us/pl/89/329/s400]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2Fs400
-[/us/pl/99/498/s401/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F498%2Fs401%2Fa
+[/us/pl/89/329/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2FtIV
+[/us/pl/99/498/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F498%2FtIV
 [/us/stat/100/1308]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1308
-[/us/pl/102/325/s402/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325%2Fs402%2Fa%2F3
+[/us/pl/102/325/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325%2FtIV
 [/us/stat/106/482]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F482
-[/us/pl/105/244/s401/g/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2Fs401%2Fg%2F1
+[/us/pl/105/244/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2FtIV
 [/us/stat/112/1652]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F1652
-[/us/pl/111/39/s401/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F39%2Fs401%2Fa%2F1
+[/us/pl/111/39/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F39%2FtIV
 [/us/stat/123/1938]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1938
-[/us/pl/89/329/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2Fs401
-[/us/pl/92/318/s131/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F318%2Fs131%2Fb%2F1
+[/us/pl/89/329/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2FtIV
+[/us/pl/92/318/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F318%2FtI
 [/us/stat/86/247]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F247
-[/us/pl/94/482/s125]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F482%2Fs125
+[/us/pl/94/482/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F482%2FtI
 [/us/stat/90/2096]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2096
-[/us/pl/96/374/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F374%2Fs401
+[/us/pl/96/374/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F374%2FtIV
 [/us/stat/94/1401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F1401
 [/us/pl/99/498]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F498
 [/us/pl/111/39]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F39
@@ -230,45 +230,45 @@
 [/us/usc/t20/s1001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1001
 [/us/pl/108/76]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F76
 [/us/stat/117/904]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F904
-[/us/pl/108/76/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F76%2Fs6
+[/us/pl/108/76]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F76
 [/us/stat/117/908]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F908
-[/us/pl/109/78/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F78%2Fs1
+[/us/pl/109/78]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F78
 [/us/stat/119/2043]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F2043
 [/us/pl/108/76]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F76
-[/us/pl/110/93/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F93%2Fs2
+[/us/pl/110/93]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F93
 [/us/stat/121/999]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F999
 [/us/pl/107/122]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F122
 [/us/stat/115/2386]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F2386
 [/us/usc/t20/s1070]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1070
 [/us/usc/t42/s2751]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2751
-[/us/pl/105/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244
+[/us/pl/105/244/tVIII/ptC]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2FtVIII%2FptC
 [/us/stat/112/1810]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F1810
-[/us/pl/110/315/s931/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2Fs931%2F2
+[/us/pl/110/315/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2FtIX
 [/us/stat/122/3456]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3456
-[/us/pl/103/382]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F382
+[/us/pl/103/382/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F382%2FtV
 [/us/stat/108/4045]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4045
-[/us/pl/105/277/s101/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs101%2Ff
+[/us/pl/105/277/dA]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2FdA
 [/us/stat/112/2681-337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681-337
-[/us/pl/102/325/s1405]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325%2Fs1405
+[/us/pl/102/325/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325%2FtXIV
 [/us/stat/106/818]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F818
 [/us/usc/t20/s1070]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1070
 [/us/usc/t42/s2751]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2751
-[/us/pl/105/332/s6/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F332%2Fs6%2Fb%2F2
+[/us/pl/105/332]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F332
 [/us/stat/112/3128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F3128
-[/us/pl/102/325/s1543]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325%2Fs1543
+[/us/pl/102/325/tXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325%2FtXV
 [/us/stat/106/836]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F836
-[/us/pl/105/244/s836]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2Fs836
+[/us/pl/105/244/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2FtVIII
 [/us/stat/112/1820]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F1820
-[/us/pl/106/554/s1/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F1
+[/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
 [/us/stat/114/2763]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2763
-[/us/pl/107/116/s305/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F116%2Fs305%2Fa
+[/us/pl/107/116/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F116%2FtIII
 [/us/stat/115/2208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F2208
-[/us/pl/110/315/s934]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2Fs934
+[/us/pl/110/315/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2FtIX
 [/us/stat/122/3460]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3460
 [/us/usc/t20/s1088/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1088%2Fa
 [/us/usc/t20/s1087]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1087
 [/us/pl/102/325]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325
-[/us/pl/107/116/s305/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F116%2Fs305%2Fb
+[/us/pl/107/116/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F116%2FtIII
 [/us/stat/115/2208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F2208
 [/us/pl/102/325/s1543]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325%2Fs1543
 [/us/pl/102/325/s1543/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325%2Fs1543%2Fd
@@ -281,7 +281,7 @@
 [/us/usc/t20/s1232]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1232
 [/us/usc/t5/s553]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs553
 [/us/usc/t10/s101/22]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs101%2F22
-[/us/pl/102/25]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F25
+[/us/pl/102/25/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F25%2FtIII
 [/us/stat/105/93]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F93
 [/us/pl/102/26/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F26%2Fs4
 [/us/pl/102/26/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F26%2Fs5

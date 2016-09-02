@@ -33,7 +33,7 @@
 
         In carrying out subsections (a) and (b) of this section, the Secretary shall consult with relevant representatives of institutions participating in the programs authorized by this subchapter and part C of subchapter I of chapter 34 of title 42.
 
-([Pub. L. 89–329, title IV, § 498B][/us/pl/89/329/s498B], as added [Pub. L. 105–244, title IV, § 495][/us/pl/105/244/s495], Oct. 7, 1998, [112 Stat. 1764][/us/stat/112/1764]; amended [Pub. L. 110–315, title IV, § 498][/us/pl/110/315/s498], Aug. 14, 2008, [122 Stat. 3328][/us/stat/122/3328].)
+([Pub. L. 89–329, title IV][/us/pl/89/329/tIV], § 498B, as added [Pub. L. 105–244, title IV][/us/pl/105/244/tIV], § 495, Oct. 7, 1998, [112 Stat. 1764][/us/stat/112/1764]; amended [Pub. L. 110–315, title IV][/us/pl/110/315/tIV], § 498, Aug. 14, 2008, [122 Stat. 3328][/us/stat/122/3328].)
 
  __Amendments__ 
 
@@ -51,10 +51,10 @@
 ----------
 
 [/us/usc/t20/s1002/a/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1002%2Fa%2F1%2FC
-[/us/pl/89/329/s498B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2Fs498B
-[/us/pl/105/244/s495]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2Fs495
+[/us/pl/89/329/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2FtIV
+[/us/pl/105/244/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2FtIV
 [/us/stat/112/1764]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F1764
-[/us/pl/110/315/s498]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2Fs498
+[/us/pl/110/315/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2FtIV
 [/us/stat/122/3328]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3328
 [/us/pl/110/315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315
 [/us/pl/105/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244

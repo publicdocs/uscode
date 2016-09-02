@@ -97,11 +97,19 @@
 
         There are authorized to be appropriated to carry out this section such sums as may be necessary for fiscal year 2009 and each of the five succeeding fiscal years.
 
-([Pub. L. 89–329, title VIII, § 819][/us/pl/89/329/s819], as added [Pub. L. 110–315, title VIII, § 801][/us/pl/110/315/s801], Aug. 14, 2008, [122 Stat. 3402][/us/stat/122/3402]; amended [Pub. L. 111–39, title VIII, § 801(4)][/us/pl/111/39/s801/4], July 1, 2009, [123 Stat. 1955][/us/stat/123/1955].)
+([Pub. L. 89–329, title VIII][/us/pl/89/329/tVIII], § 819, as added [Pub. L. 110–315, title VIII][/us/pl/110/315/tVIII], § 801, Aug. 14, 2008, [122 Stat. 3402][/us/stat/122/3402]; amended [Pub. L. 111–39, title VIII][/us/pl/111/39/tVIII], § 801(4), July 1, 2009, [123 Stat. 1955][/us/stat/123/1955]; [Pub. L. 114–95, title IX][/us/pl/114/95/tIX], § 9215(oo)(11), Dec. 10, 2015, [129 Stat. 2180][/us/stat/129/2180].)
 
  __Amendments__ 
 
+    2015—Subsec. (b)(1). [Pub. L. 114–95][/us/pl/114/95], § 9215(oo)(11)(A), made technical amendment to reference in original act which appears in text as reference to [section 7546 of this title][/us/usc/t20/s7546].
+
+    Subsec. (b)(4). [Pub. L. 114–95][/us/pl/114/95], § 9215(oo)(11)(B), made technical amendment to reference in original act which appears in text as reference to [section 7517 of this title][/us/usc/t20/s7517].
+
     2009—Subsec. (b)(3). [Pub. L. 111–39][/us/pl/111/39] inserted period at end.
+
+ __Effective Date of 2015 Amendment__ 
+
+    Amendment by [Pub. L. 114–95][/us/pl/114/95] effective Dec. 10, 2015, except with respect to certain noncompetitive programs and competitive programs, see [section 5 of Pub. L. 114–95][/us/pl/114/95/s5], set out as a note under [section 6301 of this title][/us/usc/t20/s6301].
 
  __Effective Date of 2009 Amendment__ 
 
@@ -117,12 +125,21 @@
 [/us/usc/t20/s7546]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs7546
 [/us/usc/t20/s1001/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1001%2Fa
 [/us/usc/t20/s7517]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs7517
-[/us/pl/89/329/s819]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2Fs819
-[/us/pl/110/315/s801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2Fs801
+[/us/pl/89/329/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2FtVIII
+[/us/pl/110/315/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2FtVIII
 [/us/stat/122/3402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3402
-[/us/pl/111/39/s801/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F39%2Fs801%2F4
+[/us/pl/111/39/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F39%2FtVIII
 [/us/stat/123/1955]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1955
+[/us/pl/114/95/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F95%2FtIX
+[/us/stat/129/2180]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F2180
+[/us/pl/114/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F95
+[/us/usc/t20/s7546]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs7546
+[/us/pl/114/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F95
+[/us/usc/t20/s7517]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs7517
 [/us/pl/111/39]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F39
+[/us/pl/114/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F95
+[/us/pl/114/95/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F95%2Fs5
+[/us/usc/t20/s6301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs6301
 [/us/pl/111/39]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F39
 [/us/pl/110/315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315
 [/us/pl/111/39/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F39%2Fs3

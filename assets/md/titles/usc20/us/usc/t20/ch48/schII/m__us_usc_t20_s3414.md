@@ -17,7 +17,7 @@
 
     There shall be in the Department an Office of Elementary and Secondary Education, to be administered by the Assistant Secretary for Elementary and Secondary Education appointed under [section 3412(b) of this title][/us/usc/t20/s3412/b]. The Assistant Secretary shall administer such functions affecting elementary and secondary education, both public and private, as the Secretary shall delegate. There shall be within the Office of Elementary and Secondary Education and directly under the supervision of the Assistant Secretary for Elementary and Secondary Education, an Office of Migrant Education, which shall be responsible for the administration of programs established by part C of title I of the Elementary and Secondary Education Act of 1965 \[[20 U.S.C. 6391][/us/usc/t20/s6391] et seq.\] and by subpart 5 of part A of title IV of the Higher Education Act of 1965 \[[20 U.S.C. 1070d–2][/us/usc/t20/s1070d–2]\].
 
-([Pub. L. 96–88, title II, § 204][/us/pl/96/88/s204], Oct. 17, 1979, [93 Stat. 674][/us/stat/93/674]; [Pub. L. 98–511, title VII, § 701(a)][/us/pl/98/511/s701/a], Oct. 19, 1984, [98 Stat. 2405][/us/stat/98/2405]; [Pub. L. 103–382, title III, § 391(h)][/us/pl/103/382/s391/h], Oct. 20, 1994, [108 Stat. 4023][/us/stat/108/4023].)
+([Pub. L. 96–88, title II][/us/pl/96/88/tII], § 204, Oct. 17, 1979, [93 Stat. 674][/us/stat/93/674]; [Pub. L. 98–511, title VII][/us/pl/98/511/tVII], § 701(a), Oct. 19, 1984, [98 Stat. 2405][/us/stat/98/2405]; [Pub. L. 103–382, title III][/us/pl/103/382/tIII], § 391(h), Oct. 20, 1994, [108 Stat. 4023][/us/stat/108/4023].)
 
  __References in Text__ 
 
@@ -45,11 +45,11 @@
 [/us/usc/t20/s3412/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs3412%2Fb
 [/us/usc/t20/s6391]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs6391
 [/us/usc/t20/s1070d–2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1070d%E2%80%932
-[/us/pl/96/88/s204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F88%2Fs204
+[/us/pl/96/88/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F88%2FtII
 [/us/stat/93/674]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F674
-[/us/pl/98/511/s701/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F511%2Fs701%2Fa
+[/us/pl/98/511/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F511%2FtVII
 [/us/stat/98/2405]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2405
-[/us/pl/103/382/s391/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F382%2Fs391%2Fh
+[/us/pl/103/382/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F382%2FtIII
 [/us/stat/108/4023]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4023
 [/us/pl/89/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F10
 [/us/stat/79/27]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F27

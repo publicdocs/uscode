@@ -41,11 +41,11 @@
 
         (2) for each succeeding fiscal year, such sums as may be necessary to carry out such provisions.
 
-([Pub. L. 99–498, title XV, § 1531][/us/pl/99/498/s1531], Oct. 17, 1986, [100 Stat. 1612][/us/stat/100/1612]; [Pub. L. 100–297, title V, § 5406(c)][/us/pl/100/297/s5406/c], Apr. 28, 1988, [102 Stat. 418][/us/stat/102/418]; [Pub. L. 101–644, title V, § 506][/us/pl/101/644/s506], Nov. 29, 1990, [104 Stat. 4672][/us/stat/104/4672].)
+([Pub. L. 99–498, title XV][/us/pl/99/498/tXV], § 1531, Oct. 17, 1986, [100 Stat. 1612][/us/stat/100/1612]; [Pub. L. 100–297, title V][/us/pl/100/297/tV], § 5406(c), Apr. 28, 1988, [102 Stat. 418][/us/stat/102/418]; [Pub. L. 101–644, title V][/us/pl/101/644/tV], § 506, Nov. 29, 1990, [104 Stat. 4672][/us/stat/104/4672].)
 
  __References in Text__ 
 
-    [Section 4425 of this title][/us/usc/t20/s4425], referred to in subsec. (a)(3), was amended generally by [Pub. L. 101–644, title V, § 505][/us/pl/101/644/s505], Nov. 29, 1990, [104 Stat. 4669][/us/stat/104/4669], and, as so amended, provisions similar to subsec. (d) are contained in subsec. (a)(4).
+    [Section 4425 of this title][/us/usc/t20/s4425], referred to in subsec. (a)(3), was amended generally by [Pub. L. 101–644, title V][/us/pl/101/644/tV], § 505, Nov. 29, 1990, [104 Stat. 4669][/us/stat/104/4669], and, as so amended, provisions similar to subsec. (d) are contained in subsec. (a)(4).
 
     This chapter, referred to in subsec. (a)(5), was in the original “this Act” and was translated as reading “this title”, meaning title XV of [Pub. L. 99–498][/us/pl/99/498] to reflect the probable intent of Congress.
 
@@ -70,14 +70,14 @@
 ----------
 ----------
 
-[/us/pl/99/498/s1531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F498%2Fs1531
+[/us/pl/99/498/tXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F498%2FtXV
 [/us/stat/100/1612]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1612
-[/us/pl/100/297/s5406/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F297%2Fs5406%2Fc
+[/us/pl/100/297/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F297%2FtV
 [/us/stat/102/418]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F418
-[/us/pl/101/644/s506]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F644%2Fs506
+[/us/pl/101/644/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F644%2FtV
 [/us/stat/104/4672]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4672
 [/us/usc/t20/s4425]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs4425
-[/us/pl/101/644/s505]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F644%2Fs505
+[/us/pl/101/644/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F644%2FtV
 [/us/stat/104/4669]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4669
 [/us/pl/99/498]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F498
 [/us/pl/101/644]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F644

@@ -139,11 +139,11 @@
 
             (B) 150 percent of the national average grant under this section per child described in [section 6333(c) of this title][/us/usc/t20/s6333/c], without application of a weighting factor, multiplied by the State’s total number of children described in [section 6333(c) of this title][/us/usc/t20/s6333/c], without application of a weighting factor.
 
-([Pub. L. 89–10, title I, § 1125][/us/pl/89/10/s1125], as added [Pub. L. 107–110, title I, § 101][/us/pl/107/110/s101], Jan. 8, 2002, [115 Stat. 1522][/us/stat/115/1522].)
+([Pub. L. 89–10, title I][/us/pl/89/10/tI], § 1125, as added [Pub. L. 107–110, title I][/us/pl/107/110/tI], § 101, Jan. 8, 2002, [115 Stat. 1522][/us/stat/115/1522].)
 
  __Prior Provisions__ 
 
-    A prior section 6335, [Pub. L. 89–10, title I, § 1125][/us/pl/89/10/s1125], as added [Pub. L. 103–382, title I, § 101][/us/pl/103/382/s101], Oct. 20, 1994, [108 Stat. 3571][/us/stat/108/3571], related to targeted grants to local educational agencies, prior to the general amendment of this subchapter by [Pub. L. 107–110][/us/pl/107/110].
+    A prior section 6335, [Pub. L. 89–10, title I][/us/pl/89/10/tI], § 1125, as added [Pub. L. 103–382, title I][/us/pl/103/382/tI], § 101, Oct. 20, 1994, [108 Stat. 3571][/us/stat/108/3571], related to targeted grants to local educational agencies, prior to the general amendment of this subchapter by [Pub. L. 107–110][/us/pl/107/110].
 
 ----------
 
@@ -165,11 +165,11 @@
 [/us/usc/t20/s6332]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs6332
 [/us/usc/t20/s6333/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs6333%2Fc
 [/us/usc/t20/s6333/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs6333%2Fc
-[/us/pl/89/10/s1125]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F10%2Fs1125
-[/us/pl/107/110/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F110%2Fs101
+[/us/pl/89/10/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F10%2FtI
+[/us/pl/107/110/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F110%2FtI
 [/us/stat/115/1522]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F1522
-[/us/pl/89/10/s1125]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F10%2Fs1125
-[/us/pl/103/382/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F382%2Fs101
+[/us/pl/89/10/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F10%2FtI
+[/us/pl/103/382/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F382%2FtI
 [/us/stat/108/3571]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3571
 [/us/pl/107/110]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F110
 

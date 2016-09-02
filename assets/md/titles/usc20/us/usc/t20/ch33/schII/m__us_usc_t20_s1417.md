@@ -53,7 +53,7 @@
 
         (4) a model form of the prior written notice described in subsections (b)(3) and (c)(1) of [section 1415 of this title][/us/usc/t20/s1415] that is consistent with the requirements of this subchapter and is sufficient to meet such requirements.
 
-([Pub. L. 91–230, title VI, § 617][/us/pl/91/230/s617], as added [Pub. L. 108–446, title I, § 101][/us/pl/108/446/s101], Dec. 3, 2004, [118 Stat. 2737][/us/stat/118/2737].)
+([Pub. L. 91–230, title VI][/us/pl/91/230/tVI], § 617, as added [Pub. L. 108–446, title I][/us/pl/108/446/tI], § 101, Dec. 3, 2004, [118 Stat. 2737][/us/stat/118/2737].)
 
  __References in Text__ 
 
@@ -63,9 +63,9 @@
 
  __Prior Provisions__ 
 
-    A prior section 1417, [Pub. L. 91–230, title VI, § 617][/us/pl/91/230/s617], as added [Pub. L. 105–17, title I, § 101][/us/pl/105/17/s101], June 4, 1997, [111 Stat. 100][/us/stat/111/100], related to Secretary’s administrative duties, prior to the general amendment of subchapters I to IV of this chapter by [Pub. L. 108–446][/us/pl/108/446].
+    A prior section 1417, [Pub. L. 91–230, title VI][/us/pl/91/230/tVI], § 617, as added [Pub. L. 105–17, title I][/us/pl/105/17/tI], § 101, June 4, 1997, [111 Stat. 100][/us/stat/111/100], related to Secretary’s administrative duties, prior to the general amendment of subchapters I to IV of this chapter by [Pub. L. 108–446][/us/pl/108/446].
 
-    Another prior section 1417, [Pub. L. 91–230, title VI, § 617][/us/pl/91/230/s617], as added [Pub. L. 94–142, § 5(a)][/us/pl/94/142/s5/a], Nov. 29, 1975, [89 Stat. 791][/us/stat/89/791]; amended [Pub. L. 98–199, § 3(b)][/us/pl/98/199/s3/b], Dec. 2, 1983, [97 Stat. 1358][/us/stat/97/1358]; [Pub. L. 100–630, title I, § 102(g)][/us/pl/100/630/s102/g], Nov. 7, 1988, [102 Stat. 3295][/us/stat/102/3295]; [Pub. L. 101–476, title IX, § 901(b)(77)][/us/pl/101/476/s901/b/77], (78), Oct. 30, 1990, [104 Stat. 1145][/us/stat/104/1145]; [Pub. L. 102–119, § 25(a)(7)][/us/pl/102/119/s25/a/7], (b), Oct. 7, 1991, [105 Stat. 606][/us/stat/105/606], 607, related to Secretary’s administrative duties, prior to the general amendment of subchapters I to IV of this chapter by [Pub. L. 105–17][/us/pl/105/17].
+    Another prior section 1417, [Pub. L. 91–230, title VI][/us/pl/91/230/tVI], § 617, as added [Pub. L. 94–142][/us/pl/94/142], § 5(a), Nov. 29, 1975, [89 Stat. 791][/us/stat/89/791]; amended [Pub. L. 98–199][/us/pl/98/199], § 3(b), Dec. 2, 1983, [97 Stat. 1358][/us/stat/97/1358]; [Pub. L. 100–630, title I][/us/pl/100/630/tI], § 102(g), Nov. 7, 1988, [102 Stat. 3295][/us/stat/102/3295]; [Pub. L. 101–476, title IX][/us/pl/101/476/tIX], § 901(b)(77), (78), Oct. 30, 1990, [104 Stat. 1145][/us/stat/104/1145]; [Pub. L. 102–119][/us/pl/102/119], § 25(a)(7), (b), Oct. 7, 1991, [105 Stat. 606][/us/stat/105/606], 607, related to Secretary’s administrative duties, prior to the general amendment of subchapters I to IV of this chapter by [Pub. L. 105–17][/us/pl/105/17].
 
 ----------
 
@@ -78,26 +78,26 @@
 [/us/usc/t20/s1418]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1418
 [/us/usc/t20/s1415/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1415%2Fd
 [/us/usc/t20/s1415]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1415
-[/us/pl/91/230/s617]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F230%2Fs617
-[/us/pl/108/446/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F446%2Fs101
+[/us/pl/91/230/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F230%2FtVI
+[/us/pl/108/446/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F446%2FtI
 [/us/stat/118/2737]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F2737
 [/us/pl/108/446]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F446
 [/us/stat/118/2647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F2647
 [/us/usc/t20/s1400]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1400
-[/us/pl/91/230/s617]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F230%2Fs617
-[/us/pl/105/17/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F17%2Fs101
+[/us/pl/91/230/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F230%2FtVI
+[/us/pl/105/17/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F17%2FtI
 [/us/stat/111/100]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F100
 [/us/pl/108/446]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F446
-[/us/pl/91/230/s617]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F230%2Fs617
-[/us/pl/94/142/s5/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F142%2Fs5%2Fa
+[/us/pl/91/230/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F230%2FtVI
+[/us/pl/94/142]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F142
 [/us/stat/89/791]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F791
-[/us/pl/98/199/s3/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F199%2Fs3%2Fb
+[/us/pl/98/199]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F199
 [/us/stat/97/1358]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F1358
-[/us/pl/100/630/s102/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F630%2Fs102%2Fg
+[/us/pl/100/630/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F630%2FtI
 [/us/stat/102/3295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3295
-[/us/pl/101/476/s901/b/77]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F476%2Fs901%2Fb%2F77
+[/us/pl/101/476/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F476%2FtIX
 [/us/stat/104/1145]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1145
-[/us/pl/102/119/s25/a/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F119%2Fs25%2Fa%2F7
+[/us/pl/102/119]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F119
 [/us/stat/105/606]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F606
 [/us/pl/105/17]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F17
 

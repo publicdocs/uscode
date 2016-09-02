@@ -35,21 +35,21 @@
 
         The Federal share of funds allotted to States under this subchapter shall not exceed 80 per centum of the total cost of the planning undertaken pursuant to this subchapter.
 
-([Pub. L. 94–482, title III, § 332][/us/pl/94/482/s332], Oct. 12, 1976, [90 Stat. 2222][/us/stat/90/2222]; [Pub. L. 95–207, § 16][/us/pl/95/207/s16], Dec. 13, 1977, [91 Stat. 1474][/us/stat/91/1474]; [Pub. L. 96–88, title III, § 301(a)(1)][/us/pl/96/88/s301/a/1], title V, § 507, Oct. 17, 1979, [93 Stat. 677][/us/stat/93/677], 692.)
+([Pub. L. 94–482, title III][/us/pl/94/482/tIII], § 332, Oct. 12, 1976, [90 Stat. 2222][/us/stat/90/2222]; [Pub. L. 95–207][/us/pl/95/207], § 16, Dec. 13, 1977, [91 Stat. 1474][/us/stat/91/1474]; [Pub. L. 96–88, title III][/us/pl/96/88/tIII], § 301(a)(1), title V, § 507, Oct. 17, 1979, [93 Stat. 677][/us/stat/93/677], 692.)
 
  __References in Text__ 
 
-    [Section 1226a of this title][/us/usc/t20/s1226a], referred to in subsec. (a), was in the original a reference to section 414 of the General Education Provisions Act. Section 414 of that Act was renumbered as section 422 by [Pub. L. 103–382, title II, § 212(b)(1)][/us/pl/103/382/s212/b/1], Oct. 20, 1994, [108 Stat. 3913][/us/stat/108/3913], and is classified to [section 1226a of this title][/us/usc/t20/s1226a].
+    [Section 1226a of this title][/us/usc/t20/s1226a], referred to in subsec. (a), was in the original a reference to section 414 of the General Education Provisions Act. Section 414 of that Act was renumbered as section 422 by [Pub. L. 103–382, title II][/us/pl/103/382/tII], § 212(b)(1), Oct. 20, 1994, [108 Stat. 3913][/us/stat/108/3913], and is classified to [section 1226a of this title][/us/usc/t20/s1226a].
 
  __Amendments__ 
 
-    1977—Subsec. (b)(2). [Pub. L. 95–207, § 16(1)][/us/pl/95/207/s16/1], substituted “1 per centum” for “3 per centum” and struck out “the Commonwealth of Puerto Rico,” after “shall allot such amount among”.
+    1977—Subsec. (b)(2). [Pub. L. 95–207][/us/pl/95/207], § 16(1), substituted “1 per centum” for “3 per centum” and struck out “the Commonwealth of Puerto Rico,” after “shall allot such amount among”.
 
-    Subsec. (b)(3)(B). [Pub. L. 95–207, § 16(2)][/us/pl/95/207/s16/2], substituted “, the District of Columbia, and the Commonwealth of Puerto Rico” for “and the District of Columbia”.
+    Subsec. (b)(3)(B). [Pub. L. 95–207][/us/pl/95/207], § 16(2), substituted “, the District of Columbia, and the Commonwealth of Puerto Rico” for “and the District of Columbia”.
 
  __Repeals__ 
 
-    The directory language of, but not the amendment made by, [Pub. L. 95–207, § 16][/us/pl/95/207/s16], Dec. 13, 1977, [91 Stat. 1474][/us/stat/91/1474], cited as a credit to this section, was repealed by [Pub. L. 97–35, title V, § 587(a)(4)][/us/pl/97/35/s587/a/4], Aug. 13, 1981, [95 Stat. 480][/us/stat/95/480], effective Oct. 1, 1982.
+    The directory language of, but not the amendment made by, [Pub. L. 95–207][/us/pl/95/207], § 16, Dec. 13, 1977, [91 Stat. 1474][/us/stat/91/1474], cited as a credit to this section, was repealed by [Pub. L. 97–35, title V][/us/pl/97/35/tV], § 587(a)(4), Aug. 13, 1981, [95 Stat. 480][/us/stat/95/480], effective Oct. 1, 1982.
 
  __Transfer of Functions__ 
 
@@ -68,21 +68,21 @@
 
 [/us/usc/t20/s2505]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs2505
 [/us/usc/t20/s2501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs2501
-[/us/pl/94/482/s332]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F482%2Fs332
+[/us/pl/94/482/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F482%2FtIII
 [/us/stat/90/2222]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2222
-[/us/pl/95/207/s16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F207%2Fs16
+[/us/pl/95/207]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F207
 [/us/stat/91/1474]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F1474
-[/us/pl/96/88/s301/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F88%2Fs301%2Fa%2F1
+[/us/pl/96/88/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F88%2FtIII
 [/us/stat/93/677]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F677
 [/us/usc/t20/s1226a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1226a
-[/us/pl/103/382/s212/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F382%2Fs212%2Fb%2F1
+[/us/pl/103/382/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F382%2FtII
 [/us/stat/108/3913]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3913
 [/us/usc/t20/s1226a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1226a
-[/us/pl/95/207/s16/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F207%2Fs16%2F1
-[/us/pl/95/207/s16/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F207%2Fs16%2F2
-[/us/pl/95/207/s16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F207%2Fs16
+[/us/pl/95/207]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F207
+[/us/pl/95/207]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F207
+[/us/pl/95/207]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F207
 [/us/stat/91/1474]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F1474
-[/us/pl/97/35/s587/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs587%2Fa%2F4
+[/us/pl/97/35/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2FtV
 [/us/stat/95/480]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F480
 [/us/pl/96/88]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F88
 [/us/usc/t48/s1681]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft48%2Fs1681

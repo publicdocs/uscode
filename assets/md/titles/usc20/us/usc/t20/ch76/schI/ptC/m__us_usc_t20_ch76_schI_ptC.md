@@ -17,7 +17,7 @@
 
  __Prior Provisions__ 
 
-    Provisions similar to those in this part were contained in chapter 71 (§ 9001 et seq.) of this title prior to repeal by [Pub. L. 107–279, title IV, § 403(1)][/us/pl/107/279/s403/1], Nov. 5, 2002, [116 Stat. 1985][/us/stat/116/1985].
+    Provisions similar to those in this part were contained in chapter 71 (§ 9001 et seq.) of this title prior to repeal by [Pub. L. 107–279, title IV][/us/pl/107/279/tIV], § 403(1), Nov. 5, 2002, [116 Stat. 1985][/us/stat/116/1985].
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/107/279/s403/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F279%2Fs403%2F1
+[/us/pl/107/279/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F279%2FtIV
 [/us/stat/116/1985]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1985
 
 

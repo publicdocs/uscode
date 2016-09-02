@@ -17,7 +17,7 @@
 
     In addition to any amounts appropriated under part B of subchapter V, there are authorized to be appropriated, and there are appropriated, out of any funds in the Treasury not otherwise appropriated, $11,500,000 for fiscal year 2009 and for each of the five succeeding fiscal years to carry out part B of subchapter V.
 
-([Pub. L. 89–329, title VIII, § 898][/us/pl/89/329/s898], as added [Pub. L. 110–315, title VIII, § 801][/us/pl/110/315/s801], Aug. 14, 2008, [122 Stat. 3446][/us/stat/122/3446].)
+([Pub. L. 89–329, title VIII][/us/pl/89/329/tVIII], § 898, as added [Pub. L. 110–315, title VIII][/us/pl/110/315/tVIII], § 801, Aug. 14, 2008, [122 Stat. 3446][/us/stat/122/3446].)
 
 ----------
 
@@ -26,8 +26,8 @@
 ----------
 ----------
 
-[/us/pl/89/329/s898]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2Fs898
-[/us/pl/110/315/s801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2Fs801
+[/us/pl/89/329/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2FtVIII
+[/us/pl/110/315/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2FtVIII
 [/us/stat/122/3446]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3446
 
 

@@ -17,7 +17,7 @@
 
     No payment may be made under sections 2566 to 2569 of this title except upon an application at such time, in such manner, and containing or accompanied by such information as the Secretary may require.
 
-([Pub. L. 95–270, § 3][/us/pl/95/270/s3], Apr. 27, 1978, [92 Stat. 220][/us/stat/92/220]; [Pub. L. 96–88, title III, § 301(a)(1)][/us/pl/96/88/s301/a/1], title V, § 507, Oct. 17, 1979, [93 Stat. 677][/us/stat/93/677], 692.)
+([Pub. L. 95–270][/us/pl/95/270], § 3, Apr. 27, 1978, [92 Stat. 220][/us/stat/92/220]; [Pub. L. 96–88, title III][/us/pl/96/88/tIII], § 301(a)(1), title V, § 507, Oct. 17, 1979, [93 Stat. 677][/us/stat/93/677], 692.)
 
  __Effective Date__ 
 
@@ -34,9 +34,9 @@
 ----------
 ----------
 
-[/us/pl/95/270/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F270%2Fs3
+[/us/pl/95/270]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F270
 [/us/stat/92/220]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F220
-[/us/pl/96/88/s301/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F88%2Fs301%2Fa%2F1
+[/us/pl/96/88/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F88%2FtIII
 [/us/stat/93/677]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F677
 [/us/pl/95/270/s4/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F270%2Fs4%2Fd
 [/us/usc/t20/s2566]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs2566

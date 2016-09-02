@@ -17,7 +17,7 @@
 
     No funds authorized to be appropriated under this chapter may be used by any State or local educational agency to adopt policies that prevent voluntary prayer and meditation in public schools.
 
-([Pub. L. 103–227, title X, § 1011][/us/pl/103/227/s1011], Mar. 31, 1994, [108 Stat. 265][/us/stat/108/265].)
+([Pub. L. 103–227, title X][/us/pl/103/227/tX], § 1011, Mar. 31, 1994, [108 Stat. 265][/us/stat/108/265].)
 
  __References in Text__ 
 
@@ -34,7 +34,7 @@
 ----------
 ----------
 
-[/us/pl/103/227/s1011]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F227%2Fs1011
+[/us/pl/103/227/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F227%2FtX
 [/us/stat/108/265]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F265
 [/us/pl/103/227]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F227
 [/us/stat/108/125]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F125

@@ -59,13 +59,13 @@
 
             (D) the National Center for Special Education Research (as described in part E of this subchapter).
 
-([Pub. L. 107–279, title I, § 111][/us/pl/107/279/s111], Nov. 5, 2002, [116 Stat. 1944][/us/stat/116/1944]; [Pub. L. 108–446, title II, § 201(b)(2)(A)][/us/pl/108/446/s201/b/2/A], (B), Dec. 3, 2004, [118 Stat. 2802][/us/stat/118/2802].)
+([Pub. L. 107–279, title I][/us/pl/107/279/tI], § 111, Nov. 5, 2002, [116 Stat. 1944][/us/stat/116/1944]; [Pub. L. 108–446, title II][/us/pl/108/446/tII], § 201(b)(2)(A), (B), Dec. 3, 2004, [118 Stat. 2802][/us/stat/118/2802].)
 
  __Amendments__ 
 
-    2004—Subsec. (b)(1)(A). [Pub. L. 108–446, § 201(b)(2)(A)][/us/pl/108/446/s201/b/2/A], inserted “and special education” after “early childhood education”.
+    2004—Subsec. (b)(1)(A). [Pub. L. 108–446][/us/pl/108/446], § 201(b)(2)(A), inserted “and special education” after “early childhood education”.
 
-    Subsec. (c)(3)(D). [Pub. L. 108–446, § 201(b)(2)(B)][/us/pl/108/446/s201/b/2/B], added subpar. (D).
+    Subsec. (c)(3)(D). [Pub. L. 108–446][/us/pl/108/446], § 201(b)(2)(B), added subpar. (D).
 
 ----------
 
@@ -78,11 +78,11 @@
 [/us/usc/t20/s9516]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs9516
 [/us/usc/t20/s9514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs9514
 [/us/usc/t20/s9516]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs9516
-[/us/pl/107/279/s111]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F279%2Fs111
+[/us/pl/107/279/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F279%2FtI
 [/us/stat/116/1944]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1944
-[/us/pl/108/446/s201/b/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F446%2Fs201%2Fb%2F2%2FA
+[/us/pl/108/446/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F446%2FtII
 [/us/stat/118/2802]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F2802
-[/us/pl/108/446/s201/b/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F446%2Fs201%2Fb%2F2%2FA
-[/us/pl/108/446/s201/b/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F446%2Fs201%2Fb%2F2%2FB
+[/us/pl/108/446]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F446
+[/us/pl/108/446]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F446
 
 

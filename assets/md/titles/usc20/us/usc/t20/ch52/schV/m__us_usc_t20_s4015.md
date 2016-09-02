@@ -43,15 +43,15 @@
 
         (3) periodic reporting with respect to the activities that have taken place using funds loaned or granted under this subchapter.
 
-([Pub. L. 98–377, title V, § 506][/us/pl/98/377/s506], Aug. 11, 1984, [98 Stat. 1292][/us/stat/98/1292]; [Pub. L. 101–637][/us/pl/101/637], §§ 7, 14(a)(6), (b)(8), (9), Nov. 28, 1990, [104 Stat. 4592][/us/stat/104/4592], 4594, 4595.)
+([Pub. L. 98–377, title V][/us/pl/98/377/tV], § 506, Aug. 11, 1984, [98 Stat. 1292][/us/stat/98/1292]; [Pub. L. 101–637][/us/pl/101/637], §§ 7, 14(a)(6), (b)(8), (9), Nov. 28, 1990, [104 Stat. 4592][/us/stat/104/4592], 4594, 4595.)
 
  __Amendments__ 
 
     1990—[Pub. L. 101–637][/us/pl/101/637] inserted section catchline.
 
-    Subsec. (a). [Pub. L. 101–637, § 14(b)(8)][/us/pl/101/637/s14/b/8], inserted heading.
+    Subsec. (a). [Pub. L. 101–637][/us/pl/101/637], § 14(b)(8), inserted heading.
 
-    Subsec. (b). [Pub. L. 101–637, § 7(2)][/us/pl/101/637/s7/2], added subsec. (b) and struck out former subsec. (b) which read as follows: “The Administrator shall also establish—
+    Subsec. (b). [Pub. L. 101–637][/us/pl/101/637], § 7(2), added subsec. (b) and struck out former subsec. (b) which read as follows: “The Administrator shall also establish—
 
     “(1) procedures to be used by local educational agencies, in programs for which financial assistance is made available under [section 4014 of this title][/us/usc/t20/s4014] for—
 
@@ -69,7 +69,7 @@
 
     “(3) nothing contained in this subchapter shall be construed, interpreted or applied to diminish in any way the level of protection required under State or Federal worker protection laws.”
 
-    Subsec. (c). [Pub. L. 101–637, § 7(2)][/us/pl/101/637/s7/2], added subsec. (c). Former subsec. (c) redesignated (d).
+    Subsec. (c). [Pub. L. 101–637][/us/pl/101/637], § 7(2), added subsec. (c). Former subsec. (c) redesignated (d).
 
     Subsec. (d). [Pub. L. 101–637][/us/pl/101/637], §§ 7(1), 14(b)(9), redesignated subsec. (c) as (d), inserted heading, and inserted a comma after “standards” in introductory provisions.
 
@@ -81,15 +81,15 @@
 ----------
 
 [/us/usc/t20/s4014]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs4014
-[/us/pl/98/377/s506]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F377%2Fs506
+[/us/pl/98/377/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F377%2FtV
 [/us/stat/98/1292]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F1292
 [/us/pl/101/637]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F637
 [/us/stat/104/4592]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4592
 [/us/pl/101/637]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F637
-[/us/pl/101/637/s14/b/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F637%2Fs14%2Fb%2F8
-[/us/pl/101/637/s7/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F637%2Fs7%2F2
+[/us/pl/101/637]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F637
+[/us/pl/101/637]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F637
 [/us/usc/t20/s4014]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs4014
-[/us/pl/101/637/s7/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F637%2Fs7%2F2
+[/us/pl/101/637]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F637
 [/us/pl/101/637]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F637
 
 

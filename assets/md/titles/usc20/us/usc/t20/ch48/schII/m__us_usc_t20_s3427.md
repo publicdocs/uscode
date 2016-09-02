@@ -39,7 +39,7 @@
 
         As used in this section, the term “outlying areas” includes Guam, the Virgin Islands, American Samoa, and the Commonwealth of the Northern Marianas Islands, but does not include the freely associated states of the Republic of the Marshall Islands, the Federated States of Micronesia, and the Republic of Palau.
 
-([Pub. L. 96–88, title II, § 220][/us/pl/96/88/s220], as added [Pub. L. 107–110, title X, § 1072(a)][/us/pl/107/110/s1072/a], Jan. 8, 2002, [115 Stat. 2088][/us/stat/115/2088].)
+([Pub. L. 96–88, title II][/us/pl/96/88/tII], § 220, as added [Pub. L. 107–110, title X][/us/pl/107/110/tX], § 1072(a), Jan. 8, 2002, [115 Stat. 2088][/us/stat/115/2088].)
 
  __Effective Date__ 
 
@@ -52,8 +52,8 @@
 ----------
 ----------
 
-[/us/pl/96/88/s220]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F88%2Fs220
-[/us/pl/107/110/s1072/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F110%2Fs1072%2Fa
+[/us/pl/96/88/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F88%2FtII
+[/us/pl/107/110/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F110%2FtX
 [/us/stat/115/2088]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F2088
 [/us/pl/107/110/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F110%2Fs5
 [/us/usc/t20/s6301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs6301

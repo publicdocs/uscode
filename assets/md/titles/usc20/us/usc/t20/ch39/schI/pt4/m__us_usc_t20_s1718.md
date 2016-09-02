@@ -17,7 +17,7 @@
 
     Any court order requiring, directly or indirectly, the transportation of students for the purpose of remedying a denial of the equal protection of the laws may, to the extent of such transportation, be terminated if the court finds the defendant educational agency has satisfied the requirements of the fifth or fourteenth amendments to the Constitution, whichever is applicable, and will continue to be in compliance with the requirements thereof. The court of initial jurisdiction shall state in its order the basis for any decision to terminate an order pursuant to this section, and the termination of any order pursuant to this section shall be stayed pending a final appeal or, in the event no appeal is taken, until the time for any such appeal has expired. No additional order requiring such educational agency to transport students for such purpose shall be entered unless such agency is found not to have satisfied the requirements of the fifth or fourteenth amendments to the Constitution, whichever is applicable.
 
-([Pub. L. 93–380, title II, § 219][/us/pl/93/380/s219], Aug. 21, 1974, [88 Stat. 518][/us/stat/88/518].)
+([Pub. L. 93–380, title II][/us/pl/93/380/tII], § 219, Aug. 21, 1974, [88 Stat. 518][/us/stat/88/518].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/93/380/s219]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F380%2Fs219
+[/us/pl/93/380/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F380%2FtII
 [/us/stat/88/518]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F518
 
 

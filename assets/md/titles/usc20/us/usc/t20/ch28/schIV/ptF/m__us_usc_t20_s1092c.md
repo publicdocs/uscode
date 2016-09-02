@@ -23,7 +23,7 @@
 
         To the extent practicable, and with the cooperation of the borrower, the guaranty agency shall ensure that a borrower only have one lender, one holder, one guaranty agency, and one servicer with which to maintain contact.
 
-([Pub. L. 89–329, title IV, § 485C][/us/pl/89/329/s485C], as added [Pub. L. 102–325, title IV, § 488][/us/pl/102/325/s488], July 23, 1992, [106 Stat. 624][/us/stat/106/624].)
+([Pub. L. 89–329, title IV][/us/pl/89/329/tIV], § 485C, as added [Pub. L. 102–325, title IV][/us/pl/102/325/tIV], § 488, July 23, 1992, [106 Stat. 624][/us/stat/106/624].)
 
 ----------
 
@@ -32,8 +32,8 @@
 ----------
 ----------
 
-[/us/pl/89/329/s485C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2Fs485C
-[/us/pl/102/325/s488]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325%2Fs488
+[/us/pl/89/329/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2FtIV
+[/us/pl/102/325/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325%2FtIV
 [/us/stat/106/624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F624
 
 

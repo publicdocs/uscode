@@ -39,31 +39,31 @@
 
         Any withholding of payments under subsection (b)(3) of this subsection  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be “section”. </sup></sup>  shall continue until the State is satisfied that there is no longer a failure to comply substantially with any of such requirements.
 
-([Pub. L. 90–247, title IV, § 440][/us/pl/90/247/s440], formerly § 434, as added [Pub. L. 95–561, title XII, § 1231(a)(3)][/us/pl/95/561/s1231/a/3], Nov. 1, 1978, [92 Stat. 2342][/us/stat/92/2342]; renumbered § 440 and amended [Pub. L. 103–382, title II][/us/pl/103/382], §§ 212(b)(1), 261(e), Oct. 20, 1994, [108 Stat. 3913][/us/stat/108/3913], 3927.)
+([Pub. L. 90–247, title IV][/us/pl/90/247/tIV], § 440, formerly § 434, as added [Pub. L. 95–561, title XII][/us/pl/95/561/tXII], § 1231(a)(3), Nov. 1, 1978, [92 Stat. 2342][/us/stat/92/2342]; renumbered § 440 and amended [Pub. L. 103–382, title II][/us/pl/103/382/tII], §§ 212(b)(1), 261(e), Oct. 20, 1994, [108 Stat. 3913][/us/stat/108/3913], 3927.)
 
  __Prior Provisions__ 
 
-    A prior section 1232c, [Pub. L. 90–247, title IV, § 434][/us/pl/90/247/s434], formerly § 424, as added [Pub. L. 91–230, title IV, § 401(a)(10)][/us/pl/91/230/s401/a/10], Apr. 13, 1970, [84 Stat. 169][/us/stat/84/169]; renumbered § 434 and amended [Pub. L. 92–318, title III, § 301(a)(1)][/us/pl/92/318/s301/a/1], title V, § 501, June 23, 1972, [86 Stat. 326][/us/stat/86/326], 345; [Pub. L. 93–380, title V][/us/pl/93/380], §§ 510, 511(a), Aug. 21, 1974, [88 Stat. 568][/us/stat/88/568], 569; [Pub. L. 94–482, title V, § 501(f)(1)][/us/pl/94/482/s501/f/1], Oct. 12, 1976, [90 Stat. 2237][/us/stat/90/2237], related to administration of education programs and projects, prior to repeal by [section 1231(a)(3) of Pub. L. 95–561][/us/pl/95/561/s1231/a/3].
+    A prior section 1232c, [Pub. L. 90–247, title IV][/us/pl/90/247/tIV], § 434, formerly § 424, as added [Pub. L. 91–230, title IV][/us/pl/91/230/tIV], § 401(a)(10), Apr. 13, 1970, [84 Stat. 169][/us/stat/84/169]; renumbered § 434 and amended [Pub. L. 92–318, title III][/us/pl/92/318/tIII], § 301(a)(1), title V, § 501, June 23, 1972, [86 Stat. 326][/us/stat/86/326], 345; [Pub. L. 93–380, title V][/us/pl/93/380/tV], §§ 510, 511(a), Aug. 21, 1974, [88 Stat. 568][/us/stat/88/568], 569; [Pub. L. 94–482, title V][/us/pl/94/482/tV], § 501(f)(1), Oct. 12, 1976, [90 Stat. 2237][/us/stat/90/2237], related to administration of education programs and projects, prior to repeal by [section 1231(a)(3) of Pub. L. 95–561][/us/pl/95/561/s1231/a/3].
 
     A prior [section 440 of Pub. L. 90–247][/us/pl/90/247/s440] was renumbered section 446, and is classified to [section 1232i of this title][/us/usc/t20/s1232i].
 
  __Amendments__ 
 
-    1994—[Pub. L. 103–382, § 261(e)(1)][/us/pl/103/382/s261/e/1], struck out “educational” after “State” in section catchline.
+    1994—[Pub. L. 103–382][/us/pl/103/382], § 261(e)(1), struck out “educational” after “State” in section catchline.
 
-    Subsec. (a). [Pub. L. 103–382, § 261(e)(2)(A)][/us/pl/103/382/s261/e/2/A], substituted “Secretary” for “Commissioner” wherever appearing.
+    Subsec. (a). [Pub. L. 103–382][/us/pl/103/382], § 261(e)(2)(A), substituted “Secretary” for “Commissioner” wherever appearing.
 
-    Subsecs. (b), (c). [Pub. L. 103–382, § 261(e)(2)(B)][/us/pl/103/382/s261/e/2/B], (C), redesignated provision following par. (3) of subsec. (b) as subsec. (c) and substituted “subsection (b)(3)” for “paragraph (3)”.
+    Subsecs. (b), (c). [Pub. L. 103–382][/us/pl/103/382], § 261(e)(2)(B), (C), redesignated provision following par. (3) of subsec. (b) as subsec. (c) and substituted “subsection (b)(3)” for “paragraph (3)”.
 
  __Effective Date__ 
 
-[Pub. L. 95–561, title XII, § 1261][/us/pl/95/561/s1261], Nov. 1, 1978, [92 Stat. 2356][/us/stat/92/2356], provided that: 
+[Pub. L. 95–561, title XII][/us/pl/95/561/tXII], § 1261, Nov. 1, 1978, [92 Stat. 2356][/us/stat/92/2356], provided that: 
 
 > “The amendments made by section 1231 \[enacting this section and sections 1232d, 1232e, and 1232f of this title and amending [section 1088f–1 of this title][/us/usc/t20/s1088f–1]\] shall take effect with respect to appropriations for fiscal year 1980 and subsequent fiscal years. The amendments made by section 1232 \[enacting sections 1234, 1234a, 1234b, 1234c, 1234d, and 1234e of this title\] shall take effect 120 days after the enactment of this Act \[Nov. 1, 1978\].”
 
  __Applicability of Administrative Procedure to Office of Education or Actions by Commissioner Unaffected by Subsections (b) to (e)__ 
 
-    [Pub. L. 93–380, title V, § 511(b)(2)][/us/pl/93/380/s511/b/2], Aug. 21, 1974, [88 Stat. 571][/us/stat/88/571], provided that nothing in the amendment made by subsec. (a) of [section 511 of Pub. L. 93–380][/us/pl/93/380/s511], which enacted prior subsecs. (b) to (e) and deleted former subsec. (b) of this section, would be construed to affect the applicability of chapter 5 of Title 5, Government Organization and Employees, to the Office of Education or actions by the Commissioner.
+    [Pub. L. 93–380, title V][/us/pl/93/380/tV], § 511(b)(2), Aug. 21, 1974, [88 Stat. 571][/us/stat/88/571], provided that nothing in the amendment made by subsec. (a) of [section 511 of Pub. L. 93–380][/us/pl/93/380/s511], which enacted prior subsecs. (b) to (e) and deleted former subsec. (b) of this section, would be construed to affect the applicability of chapter 5 of Title 5, Government Organization and Employees, to the Office of Education or actions by the Commissioner.
 
 ----------
 
@@ -72,30 +72,30 @@
 ----------
 ----------
 
-[/us/pl/90/247/s440]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F247%2Fs440
-[/us/pl/95/561/s1231/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F561%2Fs1231%2Fa%2F3
+[/us/pl/90/247/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F247%2FtIV
+[/us/pl/95/561/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F561%2FtXII
 [/us/stat/92/2342]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2342
-[/us/pl/103/382]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F382
+[/us/pl/103/382/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F382%2FtII
 [/us/stat/108/3913]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3913
-[/us/pl/90/247/s434]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F247%2Fs434
-[/us/pl/91/230/s401/a/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F230%2Fs401%2Fa%2F10
+[/us/pl/90/247/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F247%2FtIV
+[/us/pl/91/230/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F230%2FtIV
 [/us/stat/84/169]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F169
-[/us/pl/92/318/s301/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F318%2Fs301%2Fa%2F1
+[/us/pl/92/318/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F318%2FtIII
 [/us/stat/86/326]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F326
-[/us/pl/93/380]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F380
+[/us/pl/93/380/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F380%2FtV
 [/us/stat/88/568]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F568
-[/us/pl/94/482/s501/f/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F482%2Fs501%2Ff%2F1
+[/us/pl/94/482/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F482%2FtV
 [/us/stat/90/2237]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2237
 [/us/pl/95/561/s1231/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F561%2Fs1231%2Fa%2F3
 [/us/pl/90/247/s440]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F247%2Fs440
 [/us/usc/t20/s1232i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1232i
-[/us/pl/103/382/s261/e/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F382%2Fs261%2Fe%2F1
-[/us/pl/103/382/s261/e/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F382%2Fs261%2Fe%2F2%2FA
-[/us/pl/103/382/s261/e/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F382%2Fs261%2Fe%2F2%2FB
-[/us/pl/95/561/s1261]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F561%2Fs1261
+[/us/pl/103/382]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F382
+[/us/pl/103/382]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F382
+[/us/pl/103/382]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F382
+[/us/pl/95/561/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F561%2FtXII
 [/us/stat/92/2356]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2356
 [/us/usc/t20/s1088f–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1088f%E2%80%931
-[/us/pl/93/380/s511/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F380%2Fs511%2Fb%2F2
+[/us/pl/93/380/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F380%2FtV
 [/us/stat/88/571]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F571
 [/us/pl/93/380/s511]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F380%2Fs511
 

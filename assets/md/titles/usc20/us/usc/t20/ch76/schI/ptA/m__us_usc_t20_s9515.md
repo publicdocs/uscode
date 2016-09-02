@@ -49,7 +49,7 @@
 
             Upon approval of such priorities, the Director shall make the Institute’s plan for addressing such priorities available for public comment in the same manner as under paragraph (1).
 
-([Pub. L. 107–279, title I, § 115][/us/pl/107/279/s115], Nov. 5, 2002, [116 Stat. 1948][/us/stat/116/1948]; [Pub. L. 108–446, title II, § 201(b)(2)(C)][/us/pl/108/446/s201/b/2/C], Dec. 3, 2004, [118 Stat. 2802][/us/stat/118/2802].)
+([Pub. L. 107–279, title I][/us/pl/107/279/tI], § 115, Nov. 5, 2002, [116 Stat. 1948][/us/stat/116/1948]; [Pub. L. 108–446, title II][/us/pl/108/446/tII], § 201(b)(2)(C), Dec. 3, 2004, [118 Stat. 2802][/us/stat/118/2802].)
 
  __References in Text__ 
 
@@ -74,9 +74,9 @@
 [/us/usc/t20/s1400]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1400
 [/us/usc/t20/s1001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1001
 [/us/usc/t42/s2751]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2751
-[/us/pl/107/279/s115]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F279%2Fs115
+[/us/pl/107/279/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F279%2FtI
 [/us/stat/116/1948]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1948
-[/us/pl/108/446/s201/b/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F446%2Fs201%2Fb%2F2%2FC
+[/us/pl/108/446/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F446%2FtII
 [/us/stat/118/2802]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F2802
 [/us/pl/89/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F10
 [/us/stat/79/27]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F27

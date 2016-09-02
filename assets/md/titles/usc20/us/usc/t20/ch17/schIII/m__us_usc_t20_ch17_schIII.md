@@ -11,13 +11,13 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t20/ch17/schII/m__us_usc_t20_s426.md) | [Next](./../../../../..//us/usc/t20/ch17/schIII/ptA/m__us_usc_t20_ch17_schIII_ptA.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fch17%2FschIII)
+[Previous](./../../../../..//us/usc/t20/ch17/schII/m__us_usc_t20_s427...429.md) | [Next](./../../../../..//us/usc/t20/ch17/schIII/ptA/m__us_usc_t20_ch17_schIII_ptA.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fch17%2FschIII)
 
 ### SUBCHAPTER III—FINANCIAL ASSISTANCE FOR STRENGTHENING INSTRUCTION IN ACADEMIC SUBJECTS
 
 ----------
 
-[Previous](./../../../../..//us/usc/t20/ch17/schII/m__us_usc_t20_s426.md) | [Next](./../../../../..//us/usc/t20/ch17/schIII/ptA/m__us_usc_t20_ch17_schIII_ptA.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fch17%2FschIII)
+[Previous](./../../../../..//us/usc/t20/ch17/schII/m__us_usc_t20_s427...429.md) | [Next](./../../../../..//us/usc/t20/ch17/schIII/ptA/m__us_usc_t20_ch17_schIII_ptA.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fch17%2FschIII)
 
 ----------
 ----------

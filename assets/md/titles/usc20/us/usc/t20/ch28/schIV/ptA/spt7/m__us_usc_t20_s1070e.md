@@ -165,33 +165,33 @@
 
         There are authorized to be appropriated to carry out this section such sums as may be necessary for fiscal year 2009 and each of the five succeeding fiscal years.
 
-([Pub. L. 89–329, title IV, § 419N][/us/pl/89/329/s419N], as added [Pub. L. 105–244, title IV, § 410][/us/pl/105/244/s410], Oct. 7, 1998, [112 Stat. 1668][/us/stat/112/1668]; amended [Pub. L. 110–315, title IV, § 410][/us/pl/110/315/s410], Aug. 14, 2008, [122 Stat. 3225][/us/stat/122/3225].)
+([Pub. L. 89–329, title IV][/us/pl/89/329/tIV], § 419N, as added [Pub. L. 105–244, title IV][/us/pl/105/244/tIV], § 410, Oct. 7, 1998, [112 Stat. 1668][/us/stat/112/1668]; amended [Pub. L. 110–315, title IV][/us/pl/110/315/tIV], § 410, Aug. 14, 2008, [122 Stat. 3225][/us/stat/122/3225].)
 
  __Prior Provisions__ 
 
-    A prior section 1070e, [Pub. L. 89–329, title IV, § 420][/us/pl/89/329/s420], as added [Pub. L. 99–498, title IV, § 401(a)][/us/pl/99/498/s401/a], Oct. 17, 1986, [100 Stat. 1346][/us/stat/100/1346], related to payments to institutions of higher education, prior to repeal by [Pub. L. 102–325, title IV, § 407][/us/pl/102/325/s407], July 23, 1992, [106 Stat. 510][/us/stat/106/510].
+    A prior section 1070e, [Pub. L. 89–329, title IV][/us/pl/89/329/tIV], § 420, as added [Pub. L. 99–498, title IV][/us/pl/99/498/tIV], § 401(a), Oct. 17, 1986, [100 Stat. 1346][/us/stat/100/1346], related to payments to institutions of higher education, prior to repeal by [Pub. L. 102–325, title IV][/us/pl/102/325/tIV], § 407, July 23, 1992, [106 Stat. 510][/us/stat/106/510].
 
-    Another prior section 1070e, [Pub. L. 89–329, title IV, § 420][/us/pl/89/329/s420], formerly § 419, as added [Pub. L. 92–318, title X, § 1001(a)][/us/pl/92/318/s1001/a], June 23, 1972, [86 Stat. 375][/us/stat/86/375]; amended [Pub. L. 96–374, title XIII, § 1391(a)(1)][/us/pl/96/374/s1391/a/1], Oct. 3, 1980, [94 Stat. 1503][/us/stat/94/1503]; renumbered [Pub. L. 98–558, title VIII, § 801(b)(1)][/us/pl/98/558/s801/b/1], Oct. 30, 1984, [98 Stat. 2902][/us/stat/98/2902], related to payments to institutions of higher education, prior to the general amendment of this part by [Pub. L. 99–498][/us/pl/99/498].
+    Another prior section 1070e, [Pub. L. 89–329, title IV][/us/pl/89/329/tIV], § 420, formerly § 419, as added [Pub. L. 92–318, title X][/us/pl/92/318/tX], § 1001(a), June 23, 1972, [86 Stat. 375][/us/stat/86/375]; amended [Pub. L. 96–374, title XIII][/us/pl/96/374/tXIII], § 1391(a)(1), Oct. 3, 1980, [94 Stat. 1503][/us/stat/94/1503]; renumbered [Pub. L. 98–558, title VIII][/us/pl/98/558/tVIII], § 801(b)(1), Oct. 30, 1984, [98 Stat. 2902][/us/stat/98/2902], related to payments to institutions of higher education, prior to the general amendment of this part by [Pub. L. 99–498][/us/pl/99/498].
 
-    A prior section 1070e–1, [Pub. L. 89–329, title IV, § 420A][/us/pl/89/329/s420A], as added [Pub. L. 99–498, title IV, § 401(a)][/us/pl/99/498/s401/a], Oct. 17, 1986, [100 Stat. 1348][/us/stat/100/1348]; amended [Pub. L. 100–50, § 8][/us/pl/100/50/s8], June 3, 1987, [101 Stat. 341][/us/stat/101/341]; [Pub. L. 102–54, § 13(g)(2)][/us/pl/102/54/s13/g/2], June 13, 1991, [105 Stat. 275][/us/stat/105/275]; [Pub. L. 102–83, § 5(c)(2)][/us/pl/102/83/s5/c/2], Aug. 6, 1991, [105 Stat. 406][/us/stat/105/406], related to veterans education outreach program, prior to repeal by [Pub. L. 102–325, title IV, § 408][/us/pl/102/325/s408], July 23, 1992, [106 Stat. 510][/us/stat/106/510].
+    A prior section 1070e–1, [Pub. L. 89–329, title IV][/us/pl/89/329/tIV], § 420A, as added [Pub. L. 99–498, title IV][/us/pl/99/498/tIV], § 401(a), Oct. 17, 1986, [100 Stat. 1348][/us/stat/100/1348]; amended [Pub. L. 100–50][/us/pl/100/50], § 8, June 3, 1987, [101 Stat. 341][/us/stat/101/341]; [Pub. L. 102–54][/us/pl/102/54], § 13(g)(2), June 13, 1991, [105 Stat. 275][/us/stat/105/275]; [Pub. L. 102–83][/us/pl/102/83], § 5(c)(2), Aug. 6, 1991, [105 Stat. 406][/us/stat/105/406], related to veterans education outreach program, prior to repeal by [Pub. L. 102–325, title IV][/us/pl/102/325/tIV], § 408, July 23, 1992, [106 Stat. 510][/us/stat/106/510].
 
-    Another prior section 1070e–1, [Pub. L. 89–329, title IV, § 420A][/us/pl/89/329/s420A], formerly § 420, as added [Pub. L. 92–318, title X, § 1001(a)][/us/pl/92/318/s1001/a], June 23, 1972, [86 Stat. 378][/us/stat/86/378]; amended [Pub. L. 93–380, title VIII, § 834(a)][/us/pl/93/380/s834/a], Aug. 21, 1974, [88 Stat. 604][/us/stat/88/604]; [Pub. L. 94–482, title I, § 126(a)][/us/pl/94/482/s126/a]–(c), Oct. 12, 1976, [90 Stat. 2098][/us/stat/90/2098]; [Pub. L. 95–336, § 6(a)][/us/pl/95/336/s6/a], Aug. 4, 1978, [92 Stat. 453][/us/stat/92/453]; [Pub. L. 96–49, § 5(a)(7)][/us/pl/96/49/s5/a/7], Aug. 13, 1979, [93 Stat. 352][/us/stat/93/352]; [Pub. L. 96–374, title IV, § 407][/us/pl/96/374/s407], Oct. 3, 1980, [94 Stat. 1412][/us/stat/94/1412]; [Pub. L. 97–300, title I, § 183][/us/pl/97/300/s183], Oct. 13, 1982, [96 Stat. 1357][/us/stat/96/1357]; renumbered § 420A, [Pub. L. 98–558, title VIII, § 801(b)(2)][/us/pl/98/558/s801/b/2], Oct. 30, 1984, [98 Stat. 2902][/us/stat/98/2902], related to veterans’ cost-of-instruction payments to institutions of higher education, prior to the general amendment of this part by [Pub. L. 99–498][/us/pl/99/498].
+    Another prior section 1070e–1, [Pub. L. 89–329, title IV][/us/pl/89/329/tIV], § 420A, formerly § 420, as added [Pub. L. 92–318, title X][/us/pl/92/318/tX], § 1001(a), June 23, 1972, [86 Stat. 378][/us/stat/86/378]; amended [Pub. L. 93–380, title VIII][/us/pl/93/380/tVIII], § 834(a), Aug. 21, 1974, [88 Stat. 604][/us/stat/88/604]; [Pub. L. 94–482, title I][/us/pl/94/482/tI], § 126(a)–(c), Oct. 12, 1976, [90 Stat. 2098][/us/stat/90/2098]; [Pub. L. 95–336][/us/pl/95/336], § 6(a), Aug. 4, 1978, [92 Stat. 453][/us/stat/92/453]; [Pub. L. 96–49][/us/pl/96/49], § 5(a)(7), Aug. 13, 1979, [93 Stat. 352][/us/stat/93/352]; [Pub. L. 96–374, title IV][/us/pl/96/374/tIV], § 407, Oct. 3, 1980, [94 Stat. 1412][/us/stat/94/1412]; [Pub. L. 97–300, title I][/us/pl/97/300/tI], § 183, Oct. 13, 1982, [96 Stat. 1357][/us/stat/96/1357]; renumbered § 420A, [Pub. L. 98–558, title VIII][/us/pl/98/558/tVIII], § 801(b)(2), Oct. 30, 1984, [98 Stat. 2902][/us/stat/98/2902], related to veterans’ cost-of-instruction payments to institutions of higher education, prior to the general amendment of this part by [Pub. L. 99–498][/us/pl/99/498].
 
  __Amendments__ 
 
-    2008—Subsec. (b)(2)(B). [Pub. L. 110–315, § 410(a)][/us/pl/110/315/s410/a], designated existing provisions as cl. (i), inserted heading, substituted “Except as provided in clause (ii), a grant” for “A grant”, and added cl. (ii).
+    2008—Subsec. (b)(2)(B). [Pub. L. 110–315][/us/pl/110/315], § 410(a), designated existing provisions as cl. (i), inserted heading, substituted “Except as provided in clause (ii), a grant” for “A grant”, and added cl. (ii).
 
-    Subsec. (b)(4). [Pub. L. 110–315, § 410(b)][/us/pl/110/315/s410/b], inserted “, except that for any fiscal year for which the amount appropriated to carry out this section is equal to or greater than $20,000,000, this sentence shall be applied by substituting ‘$250,000’ for ‘$350,000’ ” before period at end.
+    Subsec. (b)(4). [Pub. L. 110–315][/us/pl/110/315], § 410(b), inserted “, except that for any fiscal year for which the amount appropriated to carry out this section is equal to or greater than $20,000,000, this sentence shall be applied by substituting ‘$250,000’ for ‘$350,000’ ” before period at end.
 
-    Subsec. (b)(7). [Pub. L. 110–315, § 410(c)][/us/pl/110/315/s410/c], amended par. (7) generally. Prior to amendment, text read as follows: “For the purpose of this section, the term ‘low-income student’ means a student who is eligible to receive a Federal Pell Grant for the fiscal year for which the determination is made.”
+    Subsec. (b)(7). [Pub. L. 110–315][/us/pl/110/315], § 410(c), amended par. (7) generally. Prior to amendment, text read as follows: “For the purpose of this section, the term ‘low-income student’ means a student who is eligible to receive a Federal Pell Grant for the fiscal year for which the determination is made.”
 
-    Subsec. (b)(8). [Pub. L. 110–315, § 410(d)][/us/pl/110/315/s410/d], added par. (8).
+    Subsec. (b)(8). [Pub. L. 110–315][/us/pl/110/315], § 410(d), added par. (8).
 
-    Subsec. (e)(1)(A). [Pub. L. 110–315, § 410(e)(1)][/us/pl/110/315/s410/e/1], substituted “annually” for “18 months, and 36 months, after receiving the first grant payment under this section”.
+    Subsec. (e)(1)(A). [Pub. L. 110–315][/us/pl/110/315], § 410(e)(1), substituted “annually” for “18 months, and 36 months, after receiving the first grant payment under this section”.
 
-    Subsec. (e)(2). [Pub. L. 110–315, § 410(e)(2)][/us/pl/110/315/s410/e/2], substituted “continuation awards” for “the third annual grant payment” and “the reports” for “the 18-month report”.
+    Subsec. (e)(2). [Pub. L. 110–315][/us/pl/110/315], § 410(e)(2), substituted “continuation awards” for “the third annual grant payment” and “the reports” for “the 18-month report”.
 
-    Subsec. (g). [Pub. L. 110–315, § 410(f)][/us/pl/110/315/s410/f], substituted “such sums as may be necessary for fiscal year 2009 and each of the five succeeding fiscal years” for “$45,000,000 for fiscal year 1999 and such sums as may be necessary for each of the 4 succeeding fiscal years”.
+    Subsec. (g). [Pub. L. 110–315][/us/pl/110/315], § 410(f), substituted “such sums as may be necessary for fiscal year 2009 and each of the five succeeding fiscal years” for “$45,000,000 for fiscal year 1999 and such sums as may be necessary for each of the 4 succeeding fiscal years”.
 
  __Effective Date__ 
 
@@ -206,60 +206,60 @@
 
 [/us/usc/t20/s1070a/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1070a%2Fc%2F1
 [/us/usc/t20/s1091/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1091%2Fa%2F5
-[/us/pl/89/329/s419N]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2Fs419N
-[/us/pl/105/244/s410]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2Fs410
+[/us/pl/89/329/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2FtIV
+[/us/pl/105/244/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2FtIV
 [/us/stat/112/1668]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F1668
-[/us/pl/110/315/s410]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2Fs410
+[/us/pl/110/315/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2FtIV
 [/us/stat/122/3225]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3225
-[/us/pl/89/329/s420]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2Fs420
-[/us/pl/99/498/s401/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F498%2Fs401%2Fa
+[/us/pl/89/329/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2FtIV
+[/us/pl/99/498/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F498%2FtIV
 [/us/stat/100/1346]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1346
-[/us/pl/102/325/s407]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325%2Fs407
+[/us/pl/102/325/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325%2FtIV
 [/us/stat/106/510]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F510
-[/us/pl/89/329/s420]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2Fs420
-[/us/pl/92/318/s1001/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F318%2Fs1001%2Fa
+[/us/pl/89/329/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2FtIV
+[/us/pl/92/318/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F318%2FtX
 [/us/stat/86/375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F375
-[/us/pl/96/374/s1391/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F374%2Fs1391%2Fa%2F1
+[/us/pl/96/374/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F374%2FtXIII
 [/us/stat/94/1503]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F1503
-[/us/pl/98/558/s801/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F558%2Fs801%2Fb%2F1
+[/us/pl/98/558/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F558%2FtVIII
 [/us/stat/98/2902]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2902
 [/us/pl/99/498]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F498
-[/us/pl/89/329/s420A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2Fs420A
-[/us/pl/99/498/s401/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F498%2Fs401%2Fa
+[/us/pl/89/329/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2FtIV
+[/us/pl/99/498/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F498%2FtIV
 [/us/stat/100/1348]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1348
-[/us/pl/100/50/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F50%2Fs8
+[/us/pl/100/50]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F50
 [/us/stat/101/341]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F341
-[/us/pl/102/54/s13/g/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F54%2Fs13%2Fg%2F2
+[/us/pl/102/54]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F54
 [/us/stat/105/275]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F275
-[/us/pl/102/83/s5/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83%2Fs5%2Fc%2F2
+[/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
 [/us/stat/105/406]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F406
-[/us/pl/102/325/s408]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325%2Fs408
+[/us/pl/102/325/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325%2FtIV
 [/us/stat/106/510]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F510
-[/us/pl/89/329/s420A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2Fs420A
-[/us/pl/92/318/s1001/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F318%2Fs1001%2Fa
+[/us/pl/89/329/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2FtIV
+[/us/pl/92/318/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F318%2FtX
 [/us/stat/86/378]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F378
-[/us/pl/93/380/s834/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F380%2Fs834%2Fa
+[/us/pl/93/380/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F380%2FtVIII
 [/us/stat/88/604]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F604
-[/us/pl/94/482/s126/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F482%2Fs126%2Fa
+[/us/pl/94/482/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F482%2FtI
 [/us/stat/90/2098]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2098
-[/us/pl/95/336/s6/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F336%2Fs6%2Fa
+[/us/pl/95/336]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F336
 [/us/stat/92/453]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F453
-[/us/pl/96/49/s5/a/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F49%2Fs5%2Fa%2F7
+[/us/pl/96/49]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F49
 [/us/stat/93/352]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F352
-[/us/pl/96/374/s407]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F374%2Fs407
+[/us/pl/96/374/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F374%2FtIV
 [/us/stat/94/1412]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F1412
-[/us/pl/97/300/s183]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F300%2Fs183
+[/us/pl/97/300/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F300%2FtI
 [/us/stat/96/1357]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1357
-[/us/pl/98/558/s801/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F558%2Fs801%2Fb%2F2
+[/us/pl/98/558/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F558%2FtVIII
 [/us/stat/98/2902]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2902
 [/us/pl/99/498]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F498
-[/us/pl/110/315/s410/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2Fs410%2Fa
-[/us/pl/110/315/s410/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2Fs410%2Fb
-[/us/pl/110/315/s410/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2Fs410%2Fc
-[/us/pl/110/315/s410/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2Fs410%2Fd
-[/us/pl/110/315/s410/e/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2Fs410%2Fe%2F1
-[/us/pl/110/315/s410/e/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2Fs410%2Fe%2F2
-[/us/pl/110/315/s410/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2Fs410%2Ff
+[/us/pl/110/315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315
+[/us/pl/110/315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315
+[/us/pl/110/315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315
+[/us/pl/110/315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315
+[/us/pl/110/315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315
+[/us/pl/110/315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315
+[/us/pl/110/315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315
 [/us/pl/105/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244
 [/us/pl/105/244/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2Fs3
 [/us/usc/t20/s1001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1001

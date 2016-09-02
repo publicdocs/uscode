@@ -253,7 +253,7 @@
 
             The term “special simplified procedures” means the procedures applicable to purchases of property and services for amounts not greater than the simplified acquisition threshold that are set forth in the Federal Acquisition Regulation pursuant to sections 1901(a)(1) and 3305(a)(1) of title 41.
 
-([Pub. L. 89–329, title I, § 142][/us/pl/89/329/s142], as added [Pub. L. 105–244, title I, § 101(a)][/us/pl/105/244/s101/a], Oct. 7, 1998, [112 Stat. 1611][/us/stat/112/1611]; amended [Pub. L. 110–315, title I, § 118][/us/pl/110/315/s118], Aug. 14, 2008, [122 Stat. 3116][/us/stat/122/3116].)
+([Pub. L. 89–329, title I][/us/pl/89/329/tI], § 142, as added [Pub. L. 105–244, title I][/us/pl/105/244/tI], § 101(a), Oct. 7, 1998, [112 Stat. 1611][/us/stat/112/1611]; amended [Pub. L. 110–315, title I][/us/pl/110/315/tI], § 118, Aug. 14, 2008, [122 Stat. 3116][/us/stat/122/3116].)
 
  __References in Text__ 
 
@@ -261,45 +261,45 @@
 
  __Codification__ 
 
-    In subsec. (d)(2)(A), “[section 1708 of title 41][/us/usc/t41/s1708]” substituted for “section 18 of the Office of Federal Procurement Policy Act ([41 U.S.C. 416][/us/usc/t41/s416])” on authority of [Pub. L. 111–350, § 6(c)][/us/pl/111/350/s6/c], Jan. 4, 2011, [124 Stat. 3854][/us/stat/124/3854], which Act enacted Title 41, Public Contracts.
+    In subsec. (d)(2)(A), “[section 1708 of title 41][/us/usc/t41/s1708]” substituted for “section 18 of the Office of Federal Procurement Policy Act ([41 U.S.C. 416][/us/usc/t41/s416])” on authority of [Pub. L. 111–350][/us/pl/111/350], § 6(c), Jan. 4, 2011, [124 Stat. 3854][/us/stat/124/3854], which Act enacted Title 41, Public Contracts.
 
-    In subsec. (d)(3)(A), “sections 3306(a) to (e) and 3308, chapter 37, and [section 4702 of title 41][/us/usc/t41/s4702]” substituted for “sections 303A and 303B of the Federal Property and Administrative Services Act of 1949 ([41 U.S.C. 253a][/us/usc/t41/s253a] and 253b)” on authority of [Pub. L. 111–350, § 6(c)][/us/pl/111/350/s6/c], Jan. 4, 2011, [124 Stat. 3854][/us/stat/124/3854], which Act enacted Title 41, Public Contracts.
+    In subsec. (d)(3)(A), “sections 3306(a) to (e) and 3308, chapter 37, and [section 4702 of title 41][/us/usc/t41/s4702]” substituted for “sections 303A and 303B of the Federal Property and Administrative Services Act of 1949 ([41 U.S.C. 253a][/us/usc/t41/s253a] and 253b)” on authority of [Pub. L. 111–350][/us/pl/111/350], § 6(c), Jan. 4, 2011, [124 Stat. 3854][/us/stat/124/3854], which Act enacted Title 41, Public Contracts.
 
-    In subsec. (f)(1)(A), “[section 1708 of title 41][/us/usc/t41/s1708]” substituted for “section 18 of the Office of Federal Procurement Policy Act ([41 U.S.C. 416][/us/usc/t41/s416])” on authority of [Pub. L. 111–350, § 6(c)][/us/pl/111/350/s6/c], Jan. 4, 2011, [124 Stat. 3854][/us/stat/124/3854], which Act enacted Title 41, Public Contracts.
+    In subsec. (f)(1)(A), “[section 1708 of title 41][/us/usc/t41/s1708]” substituted for “section 18 of the Office of Federal Procurement Policy Act ([41 U.S.C. 416][/us/usc/t41/s416])” on authority of [Pub. L. 111–350][/us/pl/111/350], § 6(c), Jan. 4, 2011, [124 Stat. 3854][/us/stat/124/3854], which Act enacted Title 41, Public Contracts.
 
-    In subsec. (g)(5)(C), “[section 1708(c) of title 41][/us/usc/t41/s1708/c]” substituted for “section 18(b) of the Office of Federal Procurement Policy Act ([41 U.S.C. 416(b)][/us/usc/t41/s416/b])” on authority of [Pub. L. 111–350, § 6(c)][/us/pl/111/350/s6/c], Jan. 4, 2011, [124 Stat. 3854][/us/stat/124/3854], which Act enacted Title 41, Public Contracts.
+    In subsec. (g)(5)(C), “[section 1708(c) of title 41][/us/usc/t41/s1708/c]” substituted for “section 18(b) of the Office of Federal Procurement Policy Act ([41 U.S.C. 416(b)][/us/usc/t41/s416/b])” on authority of [Pub. L. 111–350][/us/pl/111/350], § 6(c), Jan. 4, 2011, [124 Stat. 3854][/us/stat/124/3854], which Act enacted Title 41, Public Contracts.
 
-    In subsec. (g)(6), “[section 3304(e) of title 41][/us/usc/t41/s3304/e]” substituted for “section 303(f) of the Federal Property and Administrative Services Act of 1949 ([41 U.S.C. 253(f)][/us/usc/t41/s253/f])” on authority of [Pub. L. 111–350, § 6(c)][/us/pl/111/350/s6/c], Jan. 4, 2011, [124 Stat. 3854][/us/stat/124/3854], which Act enacted Title 41, Public Contracts.
+    In subsec. (g)(6), “[section 3304(e) of title 41][/us/usc/t41/s3304/e]” substituted for “section 303(f) of the Federal Property and Administrative Services Act of 1949 ([41 U.S.C. 253(f)][/us/usc/t41/s253/f])” on authority of [Pub. L. 111–350][/us/pl/111/350], § 6(c), Jan. 4, 2011, [124 Stat. 3854][/us/stat/124/3854], which Act enacted Title 41, Public Contracts.
 
-    In subsec. (l)(1), “[section 103 of title 41][/us/usc/t41/s103]” substituted for “section 4(12) of the Office of Federal Procurement Policy Act ([41 U.S.C. 403(12)][/us/usc/t41/s403/12])” on authority of [Pub. L. 111–350, § 6(c)][/us/pl/111/350/s6/c], Jan. 4, 2011, [124 Stat. 3854][/us/stat/124/3854], which Act enacted Title 41, Public Contracts.
+    In subsec. (l)(1), “[section 103 of title 41][/us/usc/t41/s103]” substituted for “section 4(12) of the Office of Federal Procurement Policy Act ([41 U.S.C. 403(12)][/us/usc/t41/s403/12])” on authority of [Pub. L. 111–350][/us/pl/111/350], § 6(c), Jan. 4, 2011, [124 Stat. 3854][/us/stat/124/3854], which Act enacted Title 41, Public Contracts.
 
-    In subsec. (l)(2), “[section 152 of title 41][/us/usc/t41/s152]” substituted for “section 309(b) of the Federal Property and Administrative Services Act of 1949 ([41 U.S.C. 259(b)][/us/usc/t41/s259/b])” on authority of [Pub. L. 111–350, § 6(c)][/us/pl/111/350/s6/c], Jan. 4, 2011, [124 Stat. 3854][/us/stat/124/3854], which Act enacted Title 41, Public Contracts.
+    In subsec. (l)(2), “[section 152 of title 41][/us/usc/t41/s152]” substituted for “section 309(b) of the Federal Property and Administrative Services Act of 1949 ([41 U.S.C. 259(b)][/us/usc/t41/s259/b])” on authority of [Pub. L. 111–350][/us/pl/111/350], § 6(c), Jan. 4, 2011, [124 Stat. 3854][/us/stat/124/3854], which Act enacted Title 41, Public Contracts.
 
-    In subsec. (l)(4), “sections 1901 and 3305(a) of title 41” substituted for “section 303(g)(1) of the Federal Property and Administrative Services Act of 1949 ([41 U.S.C. 253(g)(1)][/us/usc/t41/s253/g/1]) and section 31 of the Office of Federal Procurement Policy Act ([41 U.S.C. 427][/us/usc/t41/s427])” on authority of [Pub. L. 111–350, § 6(c)][/us/pl/111/350/s6/c], Jan. 4, 2011, [124 Stat. 3854][/us/stat/124/3854], which Act enacted Title 41, Public Contracts.
+    In subsec. (l)(4), “sections 1901 and 3305(a) of title 41” substituted for “section 303(g)(1) of the Federal Property and Administrative Services Act of 1949 ([41 U.S.C. 253(g)(1)][/us/usc/t41/s253/g/1]) and section 31 of the Office of Federal Procurement Policy Act ([41 U.S.C. 427][/us/usc/t41/s427])” on authority of [Pub. L. 111–350][/us/pl/111/350], § 6(c), Jan. 4, 2011, [124 Stat. 3854][/us/stat/124/3854], which Act enacted Title 41, Public Contracts.
 
-    In subsec. (l)(5), “sections 1901(a)(1) and 3305(a)(1) of title 41” substituted for “section 303(g)(1)(B) of the Federal Property and Administrative Services Act of 1949 ([41 U.S.C. 253(g)(1)(A)][/us/usc/t41/s253/g/1/A]) and section 31(a)(1) of the Office of Federal Procurement Policy Act ([41 U.S.C. 427(a)(1)][/us/usc/t41/s427/a/1])” on authority of [Pub. L. 111–350, § 6(c)][/us/pl/111/350/s6/c], Jan. 4, 2011, [124 Stat. 3854][/us/stat/124/3854], which Act enacted Title 41, Public Contracts.
+    In subsec. (l)(5), “sections 1901(a)(1) and 3305(a)(1) of title 41” substituted for “section 303(g)(1)(B) of the Federal Property and Administrative Services Act of 1949 ([41 U.S.C. 253(g)(1)(A)][/us/usc/t41/s253/g/1/A]) and section 31(a)(1) of the Office of Federal Procurement Policy Act ([41 U.S.C. 427(a)(1)][/us/usc/t41/s427/a/1])” on authority of [Pub. L. 111–350][/us/pl/111/350], § 6(c), Jan. 4, 2011, [124 Stat. 3854][/us/stat/124/3854], which Act enacted Title 41, Public Contracts.
 
  __Prior Provisions__ 
 
-    A prior section 1018a, [Pub. L. 89–329, title I, § 142][/us/pl/89/329/s142], as added [Pub. L. 100–418, title VI, § 6201][/us/pl/100/418/s6201], Aug. 23, 1988, [102 Stat. 1515][/us/stat/102/1515], related to grants for literacy corps programs, prior to the general amendment of this subchapter by [Pub. L. 102–325][/us/pl/102/325].
+    A prior section 1018a, [Pub. L. 89–329, title I][/us/pl/89/329/tI], § 142, as added [Pub. L. 100–418, title VI][/us/pl/100/418/tVI], § 6201, Aug. 23, 1988, [102 Stat. 1515][/us/stat/102/1515], related to grants for literacy corps programs, prior to the general amendment of this subchapter by [Pub. L. 102–325][/us/pl/102/325].
 
  __Amendments__ 
 
-    2008—Subsec. (b)(1). [Pub. L. 110–315, § 118(1)(A)][/us/pl/110/315/s118/1/A], struck out “for information systems supporting the programs authorized under subchapter IV of this chapter and part C of subchapter I of chapter 34 of title 42” after “enter into contracts” and “and” after semicolon.
+    2008—Subsec. (b)(1). [Pub. L. 110–315][/us/pl/110/315], § 118(1)(A), struck out “for information systems supporting the programs authorized under subchapter IV of this chapter and part C of subchapter I of chapter 34 of title 42” after “enter into contracts” and “and” after semicolon.
 
-    Subsec. (b)(2), (3). [Pub. L. 110–315, § 118(1)(B)][/us/pl/110/315/s118/1/B], (C), substituted “; and” for period at end of par. (2) and added par. (3).
+    Subsec. (b)(2), (3). [Pub. L. 110–315][/us/pl/110/315], § 118(1)(B), (C), substituted “; and” for period at end of par. (2) and added par. (3).
 
-    Subsec. (c)(2). [Pub. L. 110–315, § 118(2)][/us/pl/110/315/s118/2], added par. (2) and struck out former par. (2). Prior to amendment, text read as follows: “The Chief Operating Officer shall, when appropriate and consistent with the purposes of the PBO, acquire services related to the subchapter IV of this chapter and part C of subchapter I of chapter 34 of title 42 delivery system from any entity that has the capability and capacity to meet the requirements for the system. The Chief Operating Officer is authorized to pay fees that are equivalent to those paid by other entities to an organization that provides an information system or service that meets the requirements of the PBO, as determined by the Chief Operating Officer.”
+    Subsec. (c)(2). [Pub. L. 110–315][/us/pl/110/315], § 118(2), added par. (2) and struck out former par. (2). Prior to amendment, text read as follows: “The Chief Operating Officer shall, when appropriate and consistent with the purposes of the PBO, acquire services related to the subchapter IV of this chapter and part C of subchapter I of chapter 34 of title 42 delivery system from any entity that has the capability and capacity to meet the requirements for the system. The Chief Operating Officer is authorized to pay fees that are equivalent to those paid by other entities to an organization that provides an information system or service that meets the requirements of the PBO, as determined by the Chief Operating Officer.”
 
-    Subsec. (d)(2)(B). [Pub. L. 110–315, § 118(3)][/us/pl/110/315/s118/3], struck out “on Federal Government contracts” after “performance of the offeror”.
+    Subsec. (d)(2)(B). [Pub. L. 110–315][/us/pl/110/315], § 118(3), struck out “on Federal Government contracts” after “performance of the offeror”.
 
-    Subsec. (g)(4)(A). [Pub. L. 110–315, § 118(4)(A)][/us/pl/110/315/s118/4/A], substituted “Single-source basis” for “Sole source” in heading and “single-source” for “sole-source” in text.
+    Subsec. (g)(4)(A). [Pub. L. 110–315][/us/pl/110/315], § 118(4)(A), substituted “Single-source basis” for “Sole source” in heading and “single-source” for “sole-source” in text.
 
-    Subsec. (g)(7). [Pub. L. 110–315, § 118(4)(B)][/us/pl/110/315/s118/4/B], substituted “single-source” for “sole-source”.
+    Subsec. (g)(7). [Pub. L. 110–315][/us/pl/110/315], § 118(4)(B), substituted “single-source” for “sole-source”.
 
-    Subsec. (h)(2)(A). [Pub. L. 110–315, § 118(5)][/us/pl/110/315/s118/5], substituted “single-source” for “sole-source”.
+    Subsec. (h)(2)(A). [Pub. L. 110–315][/us/pl/110/315], § 118(5), substituted “single-source” for “sole-source”.
 
-    Subsec. (l)(3). [Pub. L. 110–315, § 118(6)][/us/pl/110/315/s118/6], added par. (3) and struck out former par. (3). Prior to amendment, text read as follows: “The term ‘sole-source basis’, with respect to an award of a contract, means that the contract is awarded to a source after soliciting an offer or offers from, and negotiating with, only that source.”
+    Subsec. (l)(3). [Pub. L. 110–315][/us/pl/110/315], § 118(6), added par. (3) and struck out former par. (3). Prior to amendment, text read as follows: “The term ‘sole-source basis’, with respect to an award of a contract, means that the contract is awarded to a source after soliciting an offer or offers from, and negotiating with, only that source.”
 
 ----------
 
@@ -323,60 +323,60 @@
 [/us/usc/t15/s644/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs644%2Fa
 [/us/usc/t41/s103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs103
 [/us/usc/t41/s152]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs152
-[/us/pl/89/329/s142]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2Fs142
-[/us/pl/105/244/s101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2Fs101%2Fa
+[/us/pl/89/329/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2FtI
+[/us/pl/105/244/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2FtI
 [/us/stat/112/1611]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F1611
-[/us/pl/110/315/s118]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2Fs118
+[/us/pl/110/315/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2FtI
 [/us/stat/122/3116]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3116
 [/us/pl/104/106/s4202/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs4202%2Fe
 [/us/usc/t10/s2304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2304
 [/us/usc/t41/s1708]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs1708
 [/us/usc/t41/s416]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs416
-[/us/pl/111/350/s6/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350%2Fs6%2Fc
+[/us/pl/111/350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350
 [/us/stat/124/3854]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3854
 [/us/usc/t41/s4702]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs4702
 [/us/usc/t41/s253a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs253a
-[/us/pl/111/350/s6/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350%2Fs6%2Fc
+[/us/pl/111/350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350
 [/us/stat/124/3854]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3854
 [/us/usc/t41/s1708]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs1708
 [/us/usc/t41/s416]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs416
-[/us/pl/111/350/s6/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350%2Fs6%2Fc
+[/us/pl/111/350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350
 [/us/stat/124/3854]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3854
 [/us/usc/t41/s1708/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs1708%2Fc
 [/us/usc/t41/s416/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs416%2Fb
-[/us/pl/111/350/s6/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350%2Fs6%2Fc
+[/us/pl/111/350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350
 [/us/stat/124/3854]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3854
 [/us/usc/t41/s3304/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs3304%2Fe
 [/us/usc/t41/s253/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs253%2Ff
-[/us/pl/111/350/s6/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350%2Fs6%2Fc
+[/us/pl/111/350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350
 [/us/stat/124/3854]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3854
 [/us/usc/t41/s103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs103
 [/us/usc/t41/s403/12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs403%2F12
-[/us/pl/111/350/s6/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350%2Fs6%2Fc
+[/us/pl/111/350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350
 [/us/stat/124/3854]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3854
 [/us/usc/t41/s152]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs152
 [/us/usc/t41/s259/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs259%2Fb
-[/us/pl/111/350/s6/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350%2Fs6%2Fc
+[/us/pl/111/350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350
 [/us/stat/124/3854]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3854
 [/us/usc/t41/s253/g/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs253%2Fg%2F1
 [/us/usc/t41/s427]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs427
-[/us/pl/111/350/s6/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350%2Fs6%2Fc
+[/us/pl/111/350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350
 [/us/stat/124/3854]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3854
 [/us/usc/t41/s253/g/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs253%2Fg%2F1%2FA
 [/us/usc/t41/s427/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs427%2Fa%2F1
-[/us/pl/111/350/s6/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350%2Fs6%2Fc
+[/us/pl/111/350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350
 [/us/stat/124/3854]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3854
-[/us/pl/89/329/s142]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2Fs142
-[/us/pl/100/418/s6201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2Fs6201
+[/us/pl/89/329/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2FtI
+[/us/pl/100/418/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2FtVI
 [/us/stat/102/1515]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1515
 [/us/pl/102/325]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325
-[/us/pl/110/315/s118/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2Fs118%2F1%2FA
-[/us/pl/110/315/s118/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2Fs118%2F1%2FB
-[/us/pl/110/315/s118/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2Fs118%2F2
-[/us/pl/110/315/s118/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2Fs118%2F3
-[/us/pl/110/315/s118/4/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2Fs118%2F4%2FA
-[/us/pl/110/315/s118/4/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2Fs118%2F4%2FB
-[/us/pl/110/315/s118/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2Fs118%2F5
-[/us/pl/110/315/s118/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2Fs118%2F6
+[/us/pl/110/315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315
+[/us/pl/110/315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315
+[/us/pl/110/315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315
+[/us/pl/110/315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315
+[/us/pl/110/315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315
+[/us/pl/110/315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315
+[/us/pl/110/315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315
+[/us/pl/110/315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315
 
 

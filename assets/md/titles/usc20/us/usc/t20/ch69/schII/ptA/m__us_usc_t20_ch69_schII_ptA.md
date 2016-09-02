@@ -11,51 +11,16 @@
 ----------
 ----------
 
-[Previous](./../../../../../..//us/usc/t20/ch69/schII/m__us_usc_t20_ch69_schII.md) | [Next](./../../../../../..//us/usc/t20/ch69/schII/ptB/m__us_usc_t20_ch69_schII_ptB.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fch69%2FschII%2FptA)
+[Previous](./../../../../../..//us/usc/t20/ch69/schII/m__us_usc_t20_ch69_schII.md) | [Next](./../../../../../..//us/usc/t20/ch69/schII/ptA/m__us_usc_t20_s6121...6127.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fch69%2FschII%2FptA)
 
 #### Part A—State Development Grants
 
-§§ 6121 to 6127. __Omitted__ 
-
- __Codification__ 
-
-    Sections 6121 to 6127 were omitted pursuant to [section 6251 of this title][/us/usc/t20/s6251] which provided that the authority under this chapter terminated on Oct. 1, 2001.
-
-    Section 6121, [Pub. L. 103–239, title II, § 201][/us/pl/103/239/s201], May 4, 1994, [108 Stat. 578][/us/stat/108/578], stated purpose of this part.
-
-    Section 6122, [Pub. L. 103–239, title II, § 202][/us/pl/103/239/s202], May 4, 1994, [108 Stat. 578][/us/stat/108/578], authorized grants to States and territories.
-
-    Section 6123, [Pub. L. 103–239, title II, § 203][/us/pl/103/239/s203], May 4, 1994, [108 Stat. 579][/us/stat/108/579], related to application for grant.
-
-    Section 6124, [Pub. L. 103–239, title II, § 204][/us/pl/103/239/s204], May 4, 1994, [108 Stat. 580][/us/stat/108/580], related to approval of application.
-
-    Section 6125, [Pub. L. 103–239, title II, § 205][/us/pl/103/239/s205], May 4, 1994, [108 Stat. 580][/us/stat/108/580], related to use of amounts from grant.
-
-    Section 6126, [Pub. L. 103–239, title II, § 206][/us/pl/103/239/s206], May 4, 1994, [108 Stat. 581][/us/stat/108/581], related to maintenance of effort by State.
-
-    Section 6127, [Pub. L. 103–239, title II, § 207][/us/pl/103/239/s207], May 4, 1994, [108 Stat. 582][/us/stat/108/582], required reports by State.
-
 ----------
 
-[Previous](./../../../../../..//us/usc/t20/ch69/schII/m__us_usc_t20_ch69_schII.md) | [Next](./../../../../../..//us/usc/t20/ch69/schII/ptB/m__us_usc_t20_ch69_schII_ptB.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fch69%2FschII%2FptA)
+[Previous](./../../../../../..//us/usc/t20/ch69/schII/m__us_usc_t20_ch69_schII.md) | [Next](./../../../../../..//us/usc/t20/ch69/schII/ptA/m__us_usc_t20_s6121...6127.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fch69%2FschII%2FptA)
 
 ----------
 ----------
 
-[/us/usc/t20/s6251]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs6251
-[/us/pl/103/239/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F239%2Fs201
-[/us/stat/108/578]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F578
-[/us/pl/103/239/s202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F239%2Fs202
-[/us/stat/108/578]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F578
-[/us/pl/103/239/s203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F239%2Fs203
-[/us/stat/108/579]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F579
-[/us/pl/103/239/s204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F239%2Fs204
-[/us/stat/108/580]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F580
-[/us/pl/103/239/s205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F239%2Fs205
-[/us/stat/108/580]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F580
-[/us/pl/103/239/s206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F239%2Fs206
-[/us/stat/108/581]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F581
-[/us/pl/103/239/s207]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F239%2Fs207
-[/us/stat/108/582]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F582
 
 

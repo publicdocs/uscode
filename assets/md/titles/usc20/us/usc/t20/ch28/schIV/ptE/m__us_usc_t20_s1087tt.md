@@ -31,11 +31,11 @@
 
         On a case-by-case basis, an eligible institution may refuse to certify a statement that permits a student to receive a loan under part B or C of this subchapter, or may certify a loan amount or make a loan that is less than the student’s determination of need (as determined under this part), if the reason for the action is documented and provided in written form to the student. No eligible institution shall discriminate against any borrower or applicant in obtaining a loan on the basis of race, national origin, religion, sex, marital status, age, or disability status.
 
-([Pub. L. 89–329, title IV, § 479A][/us/pl/89/329/s479A], as added [Pub. L. 100–50, § 14(26)][/us/pl/100/50/s14/26], June 3, 1987, [101 Stat. 352][/us/stat/101/352]; amended [Pub. L. 101–239, title II, § 2009][/us/pl/101/239/s2009], Dec. 19, 1989, [103 Stat. 2122][/us/stat/103/2122]; [Pub. L. 102–325, title IV, § 471(a)][/us/pl/102/325/s471/a], July 23, 1992, [106 Stat. 605][/us/stat/106/605]; [Pub. L. 103–208, § 2(g)(16)][/us/pl/103/208/s2/g/16], Dec. 20, 1993, [107 Stat. 2473][/us/stat/107/2473]; [Pub. L. 105–244, title IV, § 478][/us/pl/105/244/s478], Oct. 7, 1998, [112 Stat. 1731][/us/stat/112/1731]; [Pub. L. 110–84, title VI, § 603(a)][/us/pl/110/84/s603/a], Sept. 27, 2007, [121 Stat. 805][/us/stat/121/805]; [Pub. L. 110–315, title IV, § 472(a)][/us/pl/110/315/s472/a], Aug. 14, 2008, [122 Stat. 3269][/us/stat/122/3269]; [Pub. L. 113–128, title V, § 512(n)(3)][/us/pl/113/128/s512/n/3], July 22, 2014, [128 Stat. 1710][/us/stat/128/1710].)
+([Pub. L. 89–329, title IV][/us/pl/89/329/tIV], § 479A, as added [Pub. L. 100–50][/us/pl/100/50], § 14(26), June 3, 1987, [101 Stat. 352][/us/stat/101/352]; amended [Pub. L. 101–239, title II][/us/pl/101/239/tII], § 2009, Dec. 19, 1989, [103 Stat. 2122][/us/stat/103/2122]; [Pub. L. 102–325, title IV][/us/pl/102/325/tIV], § 471(a), July 23, 1992, [106 Stat. 605][/us/stat/106/605]; [Pub. L. 103–208][/us/pl/103/208], § 2(g)(16), Dec. 20, 1993, [107 Stat. 2473][/us/stat/107/2473]; [Pub. L. 105–244, title IV][/us/pl/105/244/tIV], § 478, Oct. 7, 1998, [112 Stat. 1731][/us/stat/112/1731]; [Pub. L. 110–84, title VI][/us/pl/110/84/tVI], § 603(a), Sept. 27, 2007, [121 Stat. 805][/us/stat/121/805]; [Pub. L. 110–315, title IV][/us/pl/110/315/tIV], § 472(a), Aug. 14, 2008, [122 Stat. 3269][/us/stat/122/3269]; [Pub. L. 113–128, title V][/us/pl/113/128/tV], § 512(n)(3), July 22, 2014, [128 Stat. 1710][/us/stat/128/1710].)
 
  __Prior Provisions__ 
 
-    A prior section 1087tt, [Pub. L. 89–329, title IV, § 479A][/us/pl/89/329/s479A], as added [Pub. L. 99–498, title IV, § 406(a)][/us/pl/99/498/s406/a], Oct. 17, 1986, [100 Stat. 1472][/us/stat/100/1472], related to discretion of student financial aid administrators under this part, prior to repeal by [section 14(26) of Pub. L. 100–50][/us/pl/100/50/s14/26].
+    A prior section 1087tt, [Pub. L. 89–329, title IV][/us/pl/89/329/tIV], § 479A, as added [Pub. L. 99–498, title IV][/us/pl/99/498/tIV], § 406(a), Oct. 17, 1986, [100 Stat. 1472][/us/stat/100/1472], related to discretion of student financial aid administrators under this part, prior to repeal by [section 14(26) of Pub. L. 100–50][/us/pl/100/50/s14/26].
 
  __Amendments__ 
 
@@ -45,9 +45,9 @@
 
     2007—Subsec. (a). [Pub. L. 110–84][/us/pl/110/84], in third sentence, substituted “family member or an independent student, a family member who is a dislocated worker (as defined in [section 2801 of title 29][/us/usc/t29/s2801]), the number of parents” for “family member, the number of parents” and inserted “a change in housing status that results in an individual being homeless (as defined in [section 11302 of title 42][/us/usc/t42/s11302]),” after “under [section 1094 of this title][/us/usc/t20/s1094],”.
 
-    1998—Subsec. (a). [Pub. L. 105–244, § 478(1)][/us/pl/105/244/s478/1], inserted after second sentence “Special circumstances may include tuition expenses at an elementary or secondary school, medical or dental expenses not covered by insurance, unusually high child care costs, recent unemployment of a family member, the number of parents enrolled at least half-time in a degree, certificate, or other program leading to a recognized educational credential at an institution with a program participation agreement under [section 1094 of this title][/us/usc/t20/s1094], or other changes in a family’s income, a family’s assets, or a student’s status.”
+    1998—Subsec. (a). [Pub. L. 105–244][/us/pl/105/244], § 478(1), inserted after second sentence “Special circumstances may include tuition expenses at an elementary or secondary school, medical or dental expenses not covered by insurance, unusually high child care costs, recent unemployment of a family member, the number of parents enrolled at least half-time in a degree, certificate, or other program leading to a recognized educational credential at an institution with a program participation agreement under [section 1094 of this title][/us/usc/t20/s1094], or other changes in a family’s income, a family’s assets, or a student’s status.”
 
-    Subsec. (c). [Pub. L. 105–244, § 478(2)][/us/pl/105/244/s478/2], amended heading and text of subsec. (c) generally. Prior to amendment, subsec. (c) related to student financial aid administrators making adjustments for special circumstances.
+    Subsec. (c). [Pub. L. 105–244][/us/pl/105/244], § 478(2), amended heading and text of subsec. (c) generally. Prior to amendment, subsec. (c) related to student financial aid administrators making adjustments for special circumstances.
 
     1993—Subsec. (c). [Pub. L. 103–208][/us/pl/103/208] added subsec. (c).
 
@@ -61,7 +61,7 @@
 
  __Effective Date of 2007 Amendment__ 
 
-[Pub. L. 110–84, title VI, § 603(b)][/us/pl/110/84/s603/b], Sept. 27, 2007, [121 Stat. 806][/us/stat/121/806], as amended by [Pub. L. 110–315, title IV, § 472(b)][/us/pl/110/315/s472/b], Aug. 14, 2008, [122 Stat. 3270][/us/stat/122/3270], provided that: 
+[Pub. L. 110–84, title VI][/us/pl/110/84/tVI], § 603(b), Sept. 27, 2007, [121 Stat. 806][/us/stat/121/806], as amended by [Pub. L. 110–315, title IV][/us/pl/110/315/tIV], § 472(b), Aug. 14, 2008, [122 Stat. 3270][/us/stat/122/3270], provided that: 
 
 > “The amendments made by this section \[amending this section\] shall take effect on the date of enactment of the Higher Education Opportunity Act \[Aug. 14, 2008\].”
 
@@ -93,25 +93,25 @@
 [/us/usc/t42/s11302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs11302
 [/us/usc/t20/s1078–8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1078%E2%80%938
 [/us/usc/t20/s1090]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1090
-[/us/pl/89/329/s479A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2Fs479A
-[/us/pl/100/50/s14/26]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F50%2Fs14%2F26
+[/us/pl/89/329/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2FtIV
+[/us/pl/100/50]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F50
 [/us/stat/101/352]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F352
-[/us/pl/101/239/s2009]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2Fs2009
+[/us/pl/101/239/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2FtII
 [/us/stat/103/2122]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F2122
-[/us/pl/102/325/s471/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325%2Fs471%2Fa
+[/us/pl/102/325/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325%2FtIV
 [/us/stat/106/605]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F605
-[/us/pl/103/208/s2/g/16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F208%2Fs2%2Fg%2F16
+[/us/pl/103/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F208
 [/us/stat/107/2473]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F2473
-[/us/pl/105/244/s478]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2Fs478
+[/us/pl/105/244/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2FtIV
 [/us/stat/112/1731]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F1731
-[/us/pl/110/84/s603/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F84%2Fs603%2Fa
+[/us/pl/110/84/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F84%2FtVI
 [/us/stat/121/805]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F805
-[/us/pl/110/315/s472/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2Fs472%2Fa
+[/us/pl/110/315/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2FtIV
 [/us/stat/122/3269]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3269
-[/us/pl/113/128/s512/n/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs512%2Fn%2F3
+[/us/pl/113/128/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2FtV
 [/us/stat/128/1710]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1710
-[/us/pl/89/329/s479A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2Fs479A
-[/us/pl/99/498/s406/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F498%2Fs406%2Fa
+[/us/pl/89/329/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2FtIV
+[/us/pl/99/498/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F498%2FtIV
 [/us/stat/100/1472]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1472
 [/us/pl/100/50/s14/26]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F50%2Fs14%2F26
 [/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
@@ -124,18 +124,18 @@
 [/us/usc/t29/s2801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs2801
 [/us/usc/t42/s11302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs11302
 [/us/usc/t20/s1094]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1094
-[/us/pl/105/244/s478/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2Fs478%2F1
+[/us/pl/105/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244
 [/us/usc/t20/s1094]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1094
-[/us/pl/105/244/s478/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2Fs478%2F2
+[/us/pl/105/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244
 [/us/pl/103/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F208
 [/us/pl/102/325]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325
 [/us/pl/101/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239
 [/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
 [/us/pl/113/128/s506]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs506
 [/us/usc/t29/s3101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3101
-[/us/pl/110/84/s603/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F84%2Fs603%2Fb
+[/us/pl/110/84/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F84%2FtVI
 [/us/stat/121/806]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F806
-[/us/pl/110/315/s472/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2Fs472%2Fb
+[/us/pl/110/315/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2FtIV
 [/us/stat/122/3270]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3270
 [/us/pl/105/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244
 [/us/pl/105/244/s480A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2Fs480A

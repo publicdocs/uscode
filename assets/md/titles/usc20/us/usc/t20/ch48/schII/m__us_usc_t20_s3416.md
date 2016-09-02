@@ -17,7 +17,7 @@
 
     There shall be in the Department an Office of Career, Technical, and Adult Education, to be administered by the Assistant Secretary for Career, Technical, and Adult Education appointed under [section 3412(b) of this title][/us/usc/t20/s3412/b]. The Assistant Secretary shall administer such functions affecting career, technical, and adult education as the Secretary shall delegate, and shall serve as principal adviser to the Secretary on matters affecting career, technical, and adult education. The Secretary, through the Assistant Secretary, shall also provide a unified approach to rural education and rural family education through the coordination of programs within the Department and shall work with the Federal Interagency Committee on Education to coordinate related activities and programs of other Federal departments and agencies.
 
-([Pub. L. 96–88, title II, § 206][/us/pl/96/88/s206], Oct. 17, 1979, [93 Stat. 674][/us/stat/93/674]; [Pub. L. 113–76, div. H, title III, § 307(a)][/us/pl/113/76/s307/a], Jan. 17, 2014, [128 Stat. 399][/us/stat/128/399].)
+([Pub. L. 96–88, title II][/us/pl/96/88/tII], § 206, Oct. 17, 1979, [93 Stat. 674][/us/stat/93/674]; [Pub. L. 113–76, div. H, title III][/us/pl/113/76/dH/tIII], § 307(a), Jan. 17, 2014, [128 Stat. 399][/us/stat/128/399].)
 
  __Amendments__ 
 
@@ -31,9 +31,9 @@
 ----------
 
 [/us/usc/t20/s3412/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs3412%2Fb
-[/us/pl/96/88/s206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F88%2Fs206
+[/us/pl/96/88/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F88%2FtII
 [/us/stat/93/674]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F674
-[/us/pl/113/76/s307/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F76%2Fs307%2Fa
+[/us/pl/113/76/dH/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F76%2FdH%2FtIII
 [/us/stat/128/399]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F399
 [/us/pl/113/76]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F76
 

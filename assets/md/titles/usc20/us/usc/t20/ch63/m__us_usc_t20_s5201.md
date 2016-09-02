@@ -33,7 +33,7 @@
 
     (8) to honor President Dwight D. Eisenhower on the occasion of the centennial of his birth through permanent endowment of an established fellowship program, the Eisenhower Exchange Fellowships, to increase educational opportunities for young leaders in preparation for and enhancement of their professional careers, and advancement of peace through international understanding.
 
-([Pub. L. 101–454, § 2][/us/pl/101/454/s2], Oct. 24, 1990, [104 Stat. 1063][/us/stat/104/1063].)
+([Pub. L. 101–454][/us/pl/101/454], § 2, Oct. 24, 1990, [104 Stat. 1063][/us/stat/104/1063].)
 
  __References in Text__ 
 
@@ -41,7 +41,7 @@
 
  __Short Title__ 
 
-[Pub. L. 101–454, § 1][/us/pl/101/454/s1], Oct. 24, 1990, [104 Stat. 1063][/us/stat/104/1063], provided that: 
+[Pub. L. 101–454][/us/pl/101/454], § 1, Oct. 24, 1990, [104 Stat. 1063][/us/stat/104/1063], provided that: 
 
 > “This Act \[enacting this chapter, amending sections 4901, 4902, and 4904 of Title 22, Foreign Relations and Intercourse, and enacting provisions set out as notes under sections 4901 and 4902 of Title 22\] may be cited as the ‘Eisenhower Exchange Fellowship Act of 1990’.”
 
@@ -52,11 +52,11 @@
 ----------
 ----------
 
-[/us/pl/101/454/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F454%2Fs2
+[/us/pl/101/454]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F454
 [/us/stat/104/1063]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1063
 [/us/pl/101/454]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F454
 [/us/stat/104/1063]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1063
-[/us/pl/101/454/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F454%2Fs1
+[/us/pl/101/454]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F454
 [/us/stat/104/1063]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1063
 
 

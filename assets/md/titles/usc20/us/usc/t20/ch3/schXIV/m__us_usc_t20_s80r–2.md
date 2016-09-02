@@ -51,7 +51,7 @@
 
             (C) training of museum professionals.
 
-([Pub. L. 108–184, § 4][/us/pl/108/184/s4], Dec. 16, 2003, [117 Stat. 2677][/us/stat/117/2677].)
+([Pub. L. 108–184][/us/pl/108/184], § 4, Dec. 16, 2003, [117 Stat. 2677][/us/stat/117/2677].)
 
 ----------
 
@@ -60,7 +60,7 @@
 ----------
 ----------
 
-[/us/pl/108/184/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F184%2Fs4
+[/us/pl/108/184]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F184
 [/us/stat/117/2677]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2677
 
 

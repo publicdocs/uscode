@@ -83,11 +83,11 @@
 
             (B) the Secretary may regulate the uses or expenditure of moneys in the Operating Fund.
 
-([Pub. L. 89–329, title IV, § 422B][/us/pl/89/329/s422B], as added [Pub. L. 105–244, title IV, § 413(b)][/us/pl/105/244/s413/b], Oct. 7, 1998, [112 Stat. 1677][/us/stat/112/1677].)
+([Pub. L. 89–329, title IV][/us/pl/89/329/tIV], § 422B, as added [Pub. L. 105–244, title IV][/us/pl/105/244/tIV], § 413(b), Oct. 7, 1998, [112 Stat. 1677][/us/stat/112/1677].)
 
  __References in Text__ 
 
-    [Section 1078(c)(6)(B) of this title][/us/usc/t20/s1078/c/6/B], referred to in subsec. (c)(5), was redesignated [section 1078(c)(6)(A)(ii) of this title][/us/usc/t20/s1078/c/6/A/ii] by [Pub. L. 109–171, title VIII, § 8014(d)(3)(A)][/us/pl/109/171/s8014/d/3/A], (B), Feb. 8, 2006, [120 Stat. 170][/us/stat/120/170].
+    [Section 1078(c)(6)(B) of this title][/us/usc/t20/s1078/c/6/B], referred to in subsec. (c)(5), was redesignated [section 1078(c)(6)(A)(ii) of this title][/us/usc/t20/s1078/c/6/A/ii] by [Pub. L. 109–171, title VIII][/us/pl/109/171/tVIII], § 8014(d)(3)(A), (B), Feb. 8, 2006, [120 Stat. 170][/us/stat/120/170].
 
  __Effective Date__ 
 
@@ -108,12 +108,12 @@
 [/us/usc/t20/s1072a/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1072a%2Ff
 [/us/usc/t20/s1078/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1078%2Fb%2F2
 [/us/usc/t20/s1072a/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1072a%2Ff
-[/us/pl/89/329/s422B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2Fs422B
-[/us/pl/105/244/s413/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2Fs413%2Fb
+[/us/pl/89/329/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2FtIV
+[/us/pl/105/244/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2FtIV
 [/us/stat/112/1677]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F1677
 [/us/usc/t20/s1078/c/6/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1078%2Fc%2F6%2FB
 [/us/usc/t20/s1078/c/6/A/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1078%2Fc%2F6%2FA%2Fii
-[/us/pl/109/171/s8014/d/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F171%2Fs8014%2Fd%2F3%2FA
+[/us/pl/109/171/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F171%2FtVIII
 [/us/stat/120/170]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F170
 [/us/pl/105/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244
 [/us/pl/105/244/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2Fs3

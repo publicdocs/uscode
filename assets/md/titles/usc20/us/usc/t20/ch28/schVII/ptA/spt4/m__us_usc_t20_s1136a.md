@@ -169,17 +169,17 @@
 
         (2) the institution cannot provide sufficient matching funds to meet the requirements of this section.
 
-([Pub. L. 89–329, title VII, § 723][/us/pl/89/329/s723], as added [Pub. L. 110–315, title VII, § 706(b)][/us/pl/110/315/s706/b], Aug. 14, 2008, [122 Stat. 3349][/us/stat/122/3349]; amended [Pub. L. 111–39, title VII, § 701(2)][/us/pl/111/39/s701/2], July 1, 2009, [123 Stat. 1954][/us/stat/123/1954].)
+([Pub. L. 89–329, title VII][/us/pl/89/329/tVII], § 723, as added [Pub. L. 110–315, title VII][/us/pl/110/315/tVII], § 706(b), Aug. 14, 2008, [122 Stat. 3349][/us/stat/122/3349]; amended [Pub. L. 111–39, title VII][/us/pl/111/39/tVII], § 701(2), July 1, 2009, [123 Stat. 1954][/us/stat/123/1954].)
 
  __Prior Provisions__ 
 
-    A prior section 1136a, [Pub. L. 89–329, title XI, § 1102][/us/pl/89/329/s1102], as added [Pub. L. 102–325, title XI, § 1101][/us/pl/102/325/s1101], July 23, 1992, [106 Stat. 785][/us/stat/106/785], stated purpose of and authorized program for urban community service assistance, prior to repeal by [Pub. L. 105–244, § 3][/us/pl/105/244/s3], title VII, § 702, Oct. 7, 1998, [112 Stat. 1585][/us/stat/112/1585], 1803, effective Oct. 1, 1998.
+    A prior section 1136a, [Pub. L. 89–329, title XI][/us/pl/89/329/tXI], § 1102, as added [Pub. L. 102–325, title XI][/us/pl/102/325/tXI], § 1101, July 23, 1992, [106 Stat. 785][/us/stat/106/785], stated purpose of and authorized program for urban community service assistance, prior to repeal by [Pub. L. 105–244][/us/pl/105/244], § 3, title VII, § 702, Oct. 7, 1998, [112 Stat. 1585][/us/stat/112/1585], 1803, effective Oct. 1, 1998.
 
-    Another prior section 1136a, [Pub. L. 89–329, title XI, § 1102][/us/pl/89/329/s1102], as added [Pub. L. 99–498, title XI, § 1101][/us/pl/99/498/s1101], Oct. 17, 1986, [100 Stat. 1568][/us/stat/100/1568], related to use of economic development funds, prior to the general amendment of subchapter XI of this chapter by [Pub. L. 102–325][/us/pl/102/325].
+    Another prior section 1136a, [Pub. L. 89–329, title XI][/us/pl/89/329/tXI], § 1102, as added [Pub. L. 99–498, title XI][/us/pl/99/498/tXI], § 1101, Oct. 17, 1986, [100 Stat. 1568][/us/stat/100/1568], related to use of economic development funds, prior to the general amendment of subchapter XI of this chapter by [Pub. L. 102–325][/us/pl/102/325].
 
-    Another prior section 1136a, [Pub. L. 89–329, title XI, § 1102][/us/pl/89/329/s1102], as added [Pub. L. 96–374, title XI, § 1101][/us/pl/96/374/s1101], Oct. 3, 1980, [94 Stat. 1491][/us/stat/94/1491], authorized appropriations for fiscal years 1981 to 1985 for urban grant university program, prior to the general amendment of subchapter XI of this chapter by [Pub. L. 99–498][/us/pl/99/498].
+    Another prior section 1136a, [Pub. L. 89–329, title XI][/us/pl/89/329/tXI], § 1102, as added [Pub. L. 96–374, title XI][/us/pl/96/374/tXI], § 1101, Oct. 3, 1980, [94 Stat. 1491][/us/stat/94/1491], authorized appropriations for fiscal years 1981 to 1985 for urban grant university program, prior to the general amendment of subchapter XI of this chapter by [Pub. L. 99–498][/us/pl/99/498].
 
-    Another prior section 1136a, [Pub. L. 89–329, title XI, § 1102][/us/pl/89/329/s1102], as added [Pub. L. 90–575, title II, § 281][/us/pl/90/575/s281], Oct. 16, 1968, [82 Stat. 1048][/us/stat/82/1048]; amended [Pub. L. 92–318, title I, § 191(a)][/us/pl/92/318/s191/a], June 23, 1972, [86 Stat. 323][/us/stat/86/323], related to required applications for participation in law school clinical experiences program, prior to the general amendment of subchapter XI of this chapter by [Pub. L. 96–374][/us/pl/96/374].
+    Another prior section 1136a, [Pub. L. 89–329, title XI][/us/pl/89/329/tXI], § 1102, as added [Pub. L. 90–575, title II][/us/pl/90/575/tII], § 281, Oct. 16, 1968, [82 Stat. 1048][/us/stat/82/1048]; amended [Pub. L. 92–318, title I][/us/pl/92/318/tI], § 191(a), June 23, 1972, [86 Stat. 323][/us/stat/86/323], related to required applications for participation in law school clinical experiences program, prior to the general amendment of subchapter XI of this chapter by [Pub. L. 96–374][/us/pl/96/374].
 
     A prior [section 723 of Pub. L. 89–329][/us/pl/89/329/s723] was renumbered section 343, and is classified to [section 1066b of this title][/us/usc/t20/s1066b].
 
@@ -199,28 +199,28 @@
 ----------
 
 [/us/usc/t20/s1065]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1065
-[/us/pl/89/329/s723]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2Fs723
-[/us/pl/110/315/s706/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2Fs706%2Fb
+[/us/pl/89/329/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2FtVII
+[/us/pl/110/315/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2FtVII
 [/us/stat/122/3349]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3349
-[/us/pl/111/39/s701/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F39%2Fs701%2F2
+[/us/pl/111/39/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F39%2FtVII
 [/us/stat/123/1954]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1954
-[/us/pl/89/329/s1102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2Fs1102
-[/us/pl/102/325/s1101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325%2Fs1101
+[/us/pl/89/329/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2FtXI
+[/us/pl/102/325/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325%2FtXI
 [/us/stat/106/785]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F785
-[/us/pl/105/244/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2Fs3
+[/us/pl/105/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244
 [/us/stat/112/1585]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F1585
-[/us/pl/89/329/s1102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2Fs1102
-[/us/pl/99/498/s1101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F498%2Fs1101
+[/us/pl/89/329/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2FtXI
+[/us/pl/99/498/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F498%2FtXI
 [/us/stat/100/1568]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1568
 [/us/pl/102/325]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325
-[/us/pl/89/329/s1102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2Fs1102
-[/us/pl/96/374/s1101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F374%2Fs1101
+[/us/pl/89/329/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2FtXI
+[/us/pl/96/374/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F374%2FtXI
 [/us/stat/94/1491]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F1491
 [/us/pl/99/498]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F498
-[/us/pl/89/329/s1102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2Fs1102
-[/us/pl/90/575/s281]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F575%2Fs281
+[/us/pl/89/329/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2FtXI
+[/us/pl/90/575/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F575%2FtII
 [/us/stat/82/1048]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F1048
-[/us/pl/92/318/s191/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F318%2Fs191%2Fa
+[/us/pl/92/318/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F318%2FtI
 [/us/stat/86/323]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F323
 [/us/pl/96/374]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F374
 [/us/pl/89/329/s723]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2Fs723

@@ -55,7 +55,7 @@
 
         (5) require that master teachers employed by the institution will supervise field experiences of students in the program;
 
-        (6) require that the program complies with State certification or licensing requirements and the requirements under [section 7801(23) of this title][/us/usc/t20/s7801/23] for highly qualified teachers;
+        (6) require that the program complies with State certification or licensing requirements and the requirements under section 9101(23)  <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  of the Elementary and Secondary Education Act of 1965 ([20 U.S.C. 7801(23)][/us/usc/t20/s7801/23]) for highly qualified teachers;
 
         (7)
 
@@ -101,7 +101,11 @@
 
         Within 90 days after January 4, 2011, the Director shall initiate a proceeding to promulgate guidance for the administration of the grant program established under subsection (a).
 
-([Pub. L. 111–358, title V, § 553][/us/pl/111/358/s553], Jan. 4, 2011, [124 Stat. 4022][/us/stat/124/4022].)
+([Pub. L. 111–358, title V][/us/pl/111/358/tV], § 553, Jan. 4, 2011, [124 Stat. 4022][/us/stat/124/4022].)
+
+ __References in Text__ 
+
+    Section 9101 of the Elementary and Secondary Education Act of 1965, referred to in par. (4), was amended by [Pub. L. 114–95][/us/pl/114/95] and, as so amended, is now section 8101 of the Act and no longer defines “highly qualified”. For reference to such term as defined in section 9101 of the Act to mean section 9101 as in effect on the day before the date of enactment of [Pub. L. 114–95][/us/pl/114/95], see [section 9214(a)(2) of Pub. L. 114–95][/us/pl/114/95/s9214/a/2], set out as a Use of the Term “Highly Qualified” in Other Laws note under [section 1070g–2 of this title][/us/usc/t20/s1070g–2].
 
 ----------
 
@@ -112,7 +116,11 @@
 
 [/us/usc/t20/s9902]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs9902
 [/us/usc/t20/s7801/23]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs7801%2F23
-[/us/pl/111/358/s553]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F358%2Fs553
+[/us/pl/111/358/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F358%2FtV
 [/us/stat/124/4022]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F4022
+[/us/pl/114/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F95
+[/us/pl/114/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F95
+[/us/pl/114/95/s9214/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F95%2Fs9214%2Fa%2F2
+[/us/usc/t20/s1070g–2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1070g%E2%80%932
 
 

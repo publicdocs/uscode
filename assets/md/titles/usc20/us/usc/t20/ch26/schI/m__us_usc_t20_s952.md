@@ -67,41 +67,41 @@
 
         (3) such project, production, workshop, or program, when taken as a whole, lacks serious literary, artistic, political, or scientific value.
 
-([Pub. L. 89–209, § 3][/us/pl/89/209/s3], Sept. 29, 1965, [79 Stat. 845][/us/stat/79/845]; [Pub. L. 90–348][/us/pl/90/348], §§ 1, 7, June 18, 1968, [82 Stat. 184][/us/stat/82/184], 187; [Pub. L. 91–346, § 3][/us/pl/91/346/s3], July 20, 1970, [84 Stat. 443][/us/stat/84/443]; [Pub. L. 93–133, § 2(a)(2)][/us/pl/93/133/s2/a/2], Oct. 19, 1973, [87 Stat. 462][/us/stat/87/462]; [Pub. L. 96–496, title I, § 101][/us/pl/96/496/s101], Dec. 4, 1980, [94 Stat. 2583][/us/stat/94/2583]; renumbered title I, § 3, [Pub. L. 98–306, § 2][/us/pl/98/306/s2], May 31, 1984, [98 Stat. 223][/us/stat/98/223]; renumbered § 3 and amended [Pub. L. 99–194, title I][/us/pl/99/194], §§ 101(1), 103, Dec. 20, 1985, [99 Stat. 1332][/us/stat/99/1332]; [Pub. L. 101–512, title III, § 318][/us/pl/101/512/s318] \[title I, § 102\], Nov. 5, 1990, [104 Stat. 1960][/us/stat/104/1960], 1962.)
+([Pub. L. 89–209][/us/pl/89/209], § 3, Sept. 29, 1965, [79 Stat. 845][/us/stat/79/845]; [Pub. L. 90–348][/us/pl/90/348], §§ 1, 7, June 18, 1968, [82 Stat. 184][/us/stat/82/184], 187; [Pub. L. 91–346][/us/pl/91/346], § 3, July 20, 1970, [84 Stat. 443][/us/stat/84/443]; [Pub. L. 93–133][/us/pl/93/133], § 2(a)(2), Oct. 19, 1973, [87 Stat. 462][/us/stat/87/462]; [Pub. L. 96–496, title I][/us/pl/96/496/tI], § 101, Dec. 4, 1980, [94 Stat. 2583][/us/stat/94/2583]; renumbered title I, § 3, [Pub. L. 98–306][/us/pl/98/306], § 2, May 31, 1984, [98 Stat. 223][/us/stat/98/223]; renumbered § 3 and amended [Pub. L. 99–194, title I][/us/pl/99/194/tI], §§ 101(1), 103, Dec. 20, 1985, [99 Stat. 1332][/us/stat/99/1332]; [Pub. L. 101–512, title III][/us/pl/101/512/tIII], § 318 \[title I, § 102\], Nov. 5, 1990, [104 Stat. 1960][/us/stat/104/1960], 1962.)
 
  __Amendments__ 
 
-    1990—Subsec. (b). [Pub. L. 101–512, § 318][/us/pl/101/512/s318] \[title I, § 102(a)(1), (b)(1)\], inserted “all those traditional arts practiced by the diverse peoples of this country.” after “forms,” and “film, video,” after “radio,”.
+    1990—Subsec. (b). [Pub. L. 101–512][/us/pl/101/512], § 318 \[title I, § 102(a)(1), (b)(1)\], inserted “all those traditional arts practiced by the diverse peoples of this country.” after “forms,” and “film, video,” after “radio,”.
 
-    Subsec. (c). [Pub. L. 101–512, § 318][/us/pl/101/512/s318] \[title I, § 102(b)(2)\], inserted “film, video,” after “radio,”.
+    Subsec. (c). [Pub. L. 101–512][/us/pl/101/512], § 318 \[title I, § 102(b)(2)\], inserted “film, video,” after “radio,”.
 
-    Subsec. (d). [Pub. L. 101–512, § 318][/us/pl/101/512/s318] \[title I, § 102(b)(3)(A)\], inserted “the widest” after “enhance”.
+    Subsec. (d). [Pub. L. 101–512][/us/pl/101/512], § 318 \[title I, § 102(b)(3)(A)\], inserted “the widest” after “enhance”.
 
-    Subsec. (d)(2). [Pub. L. 101–512, § 318][/us/pl/101/512/s318] \[title I, § 102(b)(3)(B)\], which directed the substitution of “sections 954(p), 956(c)(10),” for “sections 954(1)”, was executed by making the substitution for “sections 954(l)” to reflect the probable intent of Congress.
+    Subsec. (d)(2). [Pub. L. 101–512][/us/pl/101/512], § 318 \[title I, § 102(b)(3)(B)\], which directed the substitution of “sections 954(p), 956(c)(10),” for “sections 954(1)”, was executed by making the substitution for “sections 954(l)” to reflect the probable intent of Congress.
 
-    Subsecs. (h), (i). [Pub. L. 101–512, § 318][/us/pl/101/512/s318] \[title I, § 102(a)(2)\], added subsecs. (h) and (i).
+    Subsecs. (h), (i). [Pub. L. 101–512][/us/pl/101/512], § 318 \[title I, § 102(a)(2)\], added subsecs. (h) and (i).
 
-    Subsecs. (j) to (l). [Pub. L. 101–512, § 318][/us/pl/101/512/s318] \[title I, § 102(c)\], added subsecs. (j) to (l).
+    Subsecs. (j) to (l). [Pub. L. 101–512][/us/pl/101/512], § 318 \[title I, § 102(c)\], added subsecs. (j) to (l).
 
-    1985—Subsec. (a). [Pub. L. 99–194, § 103(1)][/us/pl/99/194/s103/1], substituted “study and interpretation of the following” for “study of the following” and inserted “to reflecting our diverse heritage, traditions, and history and” after “particular attention”.
+    1985—Subsec. (a). [Pub. L. 99–194][/us/pl/99/194], § 103(1), substituted “study and interpretation of the following” for “study of the following” and inserted “to reflecting our diverse heritage, traditions, and history and” after “particular attention”.
 
-    Subsec. (d)(2). [Pub. L. 99–194, § 103(2)][/us/pl/99/194/s103/2], inserted “for purposes of sections 954(l) and 956(h) of this title only,” before “the construction of facilities if”, “or humanistic” after “artistic”, and “and the National Council on the Humanities, as the case may be,” after “the National Council on the Arts”.
+    Subsec. (d)(2). [Pub. L. 99–194][/us/pl/99/194], § 103(2), inserted “for purposes of sections 954(l) and 956(h) of this title only,” before “the construction of facilities if”, “or humanistic” after “artistic”, and “and the National Council on the Humanities, as the case may be,” after “the National Council on the Arts”.
 
-    1980—Subsec. (a). [Pub. L. 96–496, § 101(a)][/us/pl/96/496/s101/a], substituted “and theory of the arts” for “theory, and practice of the arts”.
+    1980—Subsec. (a). [Pub. L. 96–496][/us/pl/96/496], § 101(a), substituted “and theory of the arts” for “theory, and practice of the arts”.
 
-    Subsec. (d)(1)(B). [Pub. L. 96–496, § 101(b)][/us/pl/96/496/s101/b], inserted “or the National Council on the Humanities, as the case may be”.
+    Subsec. (d)(1)(B). [Pub. L. 96–496][/us/pl/96/496], § 101(b), inserted “or the National Council on the Humanities, as the case may be”.
 
-    Subsec. (g). [Pub. L. 96–496, § 101(c)][/us/pl/96/496/s101/c], inserted “the Northern Mariana Islands”.
+    Subsec. (g). [Pub. L. 96–496][/us/pl/96/496], § 101(c), inserted “the Northern Mariana Islands”.
 
     1973—Subsec. (d). [Pub. L. 93–133][/us/pl/93/133] substituted “or purchase of facilities” for “, purchase, renovation, or construction of facilities” and added pars. (1) and (2).
 
     1970—Subsec. (a). [Pub. L. 91–346][/us/pl/91/346] extended term “humanities” to include the study of comparative religion and ethics, and emphasized that particular attention be paid to relevance of humanities to current conditions of national life when engaging in study and application of humanities to human environment.
 
-    1968—Subsec. (a). [Pub. L. 90–348, § 7][/us/pl/90/348/s7], extended term “humanities” to include the study and application of enumerated fields to human environment.
+    1968—Subsec. (a). [Pub. L. 90–348][/us/pl/90/348], § 7, extended term “humanities” to include the study and application of enumerated fields to human environment.
 
-    Subsec. (b). [Pub. L. 90–348, § 7][/us/pl/90/348/s7], extended term “arts” to include study and application of enumerated art forms to human environment.
+    Subsec. (b). [Pub. L. 90–348][/us/pl/90/348], § 7, extended term “arts” to include study and application of enumerated art forms to human environment.
 
-    Subsec. (f). [Pub. L. 90–348, § 1][/us/pl/90/348/s1], substituted “activity” for “production” in definition of “workshop” and extended enumerated purposes to include promotion of scholarship and teaching among participants.
+    Subsec. (f). [Pub. L. 90–348][/us/pl/90/348], § 1, substituted “activity” for “production” in definition of “workshop” and extended enumerated purposes to include promotion of scholarship and teaching among participants.
 
  __Effective Date of 1990 Amendment__ 
 
@@ -119,38 +119,38 @@
 ----------
 
 [/us/usc/t20/s954]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs954
-[/us/pl/89/209/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F209%2Fs3
+[/us/pl/89/209]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F209
 [/us/stat/79/845]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F845
 [/us/pl/90/348]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F348
 [/us/stat/82/184]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F184
-[/us/pl/91/346/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F346%2Fs3
+[/us/pl/91/346]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F346
 [/us/stat/84/443]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F443
-[/us/pl/93/133/s2/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F133%2Fs2%2Fa%2F2
+[/us/pl/93/133]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F133
 [/us/stat/87/462]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F462
-[/us/pl/96/496/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F496%2Fs101
+[/us/pl/96/496/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F496%2FtI
 [/us/stat/94/2583]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2583
-[/us/pl/98/306/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F306%2Fs2
+[/us/pl/98/306]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F306
 [/us/stat/98/223]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F223
-[/us/pl/99/194]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F194
+[/us/pl/99/194/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F194%2FtI
 [/us/stat/99/1332]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F1332
-[/us/pl/101/512/s318]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F512%2Fs318
+[/us/pl/101/512/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F512%2FtIII
 [/us/stat/104/1960]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1960
-[/us/pl/101/512/s318]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F512%2Fs318
-[/us/pl/101/512/s318]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F512%2Fs318
-[/us/pl/101/512/s318]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F512%2Fs318
-[/us/pl/101/512/s318]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F512%2Fs318
-[/us/pl/101/512/s318]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F512%2Fs318
-[/us/pl/101/512/s318]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F512%2Fs318
-[/us/pl/99/194/s103/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F194%2Fs103%2F1
-[/us/pl/99/194/s103/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F194%2Fs103%2F2
-[/us/pl/96/496/s101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F496%2Fs101%2Fa
-[/us/pl/96/496/s101/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F496%2Fs101%2Fb
-[/us/pl/96/496/s101/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F496%2Fs101%2Fc
+[/us/pl/101/512]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F512
+[/us/pl/101/512]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F512
+[/us/pl/101/512]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F512
+[/us/pl/101/512]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F512
+[/us/pl/101/512]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F512
+[/us/pl/101/512]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F512
+[/us/pl/99/194]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F194
+[/us/pl/99/194]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F194
+[/us/pl/96/496]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F496
+[/us/pl/96/496]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F496
+[/us/pl/96/496]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F496
 [/us/pl/93/133]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F133
 [/us/pl/91/346]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F346
-[/us/pl/90/348/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F348%2Fs7
-[/us/pl/90/348/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F348%2Fs7
-[/us/pl/90/348/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F348%2Fs1
+[/us/pl/90/348]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F348
+[/us/pl/90/348]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F348
+[/us/pl/90/348]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F348
 [/us/pl/101/512]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F512
 [/us/pl/101/512]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F512
 [/us/usc/t20/s951]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs951

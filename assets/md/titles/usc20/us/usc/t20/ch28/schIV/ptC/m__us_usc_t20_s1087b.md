@@ -35,11 +35,11 @@
 
         Loan funds for students (and parents of students) attending institutions outside the United States shall be disbursed through a financial institution located or operating in the United States and designated by the Secretary to serve as the agent of such institutions with respect to the receipt of the disbursements of such loan funds and the transfer of such funds to such institutions. To be eligible to receive funds under this part, an institution outside the United States shall make arrangements with the agent designated by the Secretary under this subsection to receive funds under this part.
 
-([Pub. L. 89–329, title IV, § 452][/us/pl/89/329/s452], as added [Pub. L. 99–498, title IV, § 404][/us/pl/99/498/s404], Oct. 17, 1986, [100 Stat. 1437][/us/stat/100/1437]; amended [Pub. L. 102–325, title IV, § 451][/us/pl/102/325/s451], July 23, 1992, [106 Stat. 569][/us/stat/106/569]; [Pub. L. 103–66, title IV, § 4021][/us/pl/103/66/s4021], Aug. 10, 1993, [107 Stat. 341][/us/stat/107/341]; [Pub. L. 105–33, title VI, § 6102][/us/pl/105/33/s6102], Aug. 5, 1997, [111 Stat. 652][/us/stat/111/652]; [Pub. L. 105–244, title IV, § 401(g)(5)][/us/pl/105/244/s401/g/5], Oct. 7, 1998, [112 Stat. 1652][/us/stat/112/1652]; [Pub. L. 111–152, title II, § 2209(a)][/us/pl/111/152/s2209/a], Mar. 30, 2010, [124 Stat. 1077][/us/stat/124/1077].)
+([Pub. L. 89–329, title IV][/us/pl/89/329/tIV], § 452, as added [Pub. L. 99–498, title IV][/us/pl/99/498/tIV], § 404, Oct. 17, 1986, [100 Stat. 1437][/us/stat/100/1437]; amended [Pub. L. 102–325, title IV][/us/pl/102/325/tIV], § 451, July 23, 1992, [106 Stat. 569][/us/stat/106/569]; [Pub. L. 103–66, title IV][/us/pl/103/66/tIV], § 4021, Aug. 10, 1993, [107 Stat. 341][/us/stat/107/341]; [Pub. L. 105–33, title VI][/us/pl/105/33/tVI], § 6102, Aug. 5, 1997, [111 Stat. 652][/us/stat/111/652]; [Pub. L. 105–244, title IV][/us/pl/105/244/tIV], § 401(g)(5), Oct. 7, 1998, [112 Stat. 1652][/us/stat/112/1652]; [Pub. L. 111–152, title II][/us/pl/111/152/tII], § 2209(a), Mar. 30, 2010, [124 Stat. 1077][/us/stat/124/1077].)
 
  __Prior Provisions__ 
 
-    A prior section 1087b, [Pub. L. 89–329, title IV, § 452][/us/pl/89/329/s452], as added [Pub. L. 90–575, title I, § 141][/us/pl/90/575/s141], Oct. 16, 1968, [82 Stat. 1031][/us/stat/82/1031], authorized grants for programs of cooperative education, prior to repeal by [Pub. L. 94–482, title I, § 129(a)][/us/pl/94/482/s129/a], Oct. 12, 1976, [90 Stat. 2144][/us/stat/90/2144], eff. 30 days after Oct. 12, 1976.
+    A prior section 1087b, [Pub. L. 89–329, title IV][/us/pl/89/329/tIV], § 452, as added [Pub. L. 90–575, title I][/us/pl/90/575/tI], § 141, Oct. 16, 1968, [82 Stat. 1031][/us/stat/82/1031], authorized grants for programs of cooperative education, prior to repeal by [Pub. L. 94–482, title I][/us/pl/94/482/tI], § 129(a), Oct. 12, 1976, [90 Stat. 2144][/us/stat/90/2144], eff. 30 days after Oct. 12, 1976.
 
  __Amendments__ 
 
@@ -72,23 +72,23 @@
 [/us/usc/t20/s1087d/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1087d%2Fb
 [/us/usc/t20/s1087d/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1087d%2Fa
 [/us/usc/t20/s1087d/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1087d%2Fb
-[/us/pl/89/329/s452]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2Fs452
-[/us/pl/99/498/s404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F498%2Fs404
+[/us/pl/89/329/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2FtIV
+[/us/pl/99/498/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F498%2FtIV
 [/us/stat/100/1437]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1437
-[/us/pl/102/325/s451]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325%2Fs451
+[/us/pl/102/325/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325%2FtIV
 [/us/stat/106/569]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F569
-[/us/pl/103/66/s4021]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66%2Fs4021
+[/us/pl/103/66/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66%2FtIV
 [/us/stat/107/341]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F341
-[/us/pl/105/33/s6102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2Fs6102
+[/us/pl/105/33/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2FtVI
 [/us/stat/111/652]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F652
-[/us/pl/105/244/s401/g/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2Fs401%2Fg%2F5
+[/us/pl/105/244/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2FtIV
 [/us/stat/112/1652]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F1652
-[/us/pl/111/152/s2209/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F152%2Fs2209%2Fa
+[/us/pl/111/152/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F152%2FtII
 [/us/stat/124/1077]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1077
-[/us/pl/89/329/s452]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2Fs452
-[/us/pl/90/575/s141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F575%2Fs141
+[/us/pl/89/329/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2FtIV
+[/us/pl/90/575/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F575%2FtI
 [/us/stat/82/1031]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F1031
-[/us/pl/94/482/s129/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F482%2Fs129%2Fa
+[/us/pl/94/482/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F482%2FtI
 [/us/stat/90/2144]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2144
 [/us/pl/111/152]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F152
 [/us/pl/105/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244

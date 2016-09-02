@@ -35,7 +35,7 @@
 
         The Foundation shall adopt selection procedures which shall assure that at least one Madison Fellow shall be selected each year from each State, the District of Columbia, and the Commonwealth of Puerto Rico, and considered as a single entity, Guam, the Virgin Islands, American Samoa, the Trust Territories of the Pacific Islands, and the Commonwealth of the Northern Marianas in which there are at least two resident applicants who meet the minimum criteria established by the Foundation; and, if sufficient funding is available, to invite applications from scholars overseas for study in the United States.
 
-([Pub. L. 99–500, § 101(b)][/us/pl/99/500/s101/b] \[title VIII, § 808\], Oct. 18, 1986, [100 Stat. 1783–39][/us/stat/100/1783-39], 1783–78, and [Pub. L. 99–591, § 101(b)][/us/pl/99/591/s101/b] \[title VIII, § 808\], Oct. 30, 1986, [100 Stat. 3341–39][/us/stat/100/3341-39], 3341–78.)
+([Pub. L. 99–500][/us/pl/99/500], § 101(b) \[title VIII, § 808\], Oct. 18, 1986, [100 Stat. 1783–39][/us/stat/100/1783-39], 1783–78, and [Pub. L. 99–591][/us/pl/99/591], § 101(b) \[title VIII, § 808\], Oct. 30, 1986, [100 Stat. 3341–39][/us/stat/100/3341-39], 3341–78.)
 
  __Codification__ 
 
@@ -52,9 +52,9 @@
 ----------
 ----------
 
-[/us/pl/99/500/s101/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F500%2Fs101%2Fb
+[/us/pl/99/500]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F500
 [/us/stat/100/1783-39]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1783-39
-[/us/pl/99/591/s101/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F591%2Fs101%2Fb
+[/us/pl/99/591]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F591
 [/us/stat/100/3341-39]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3341-39
 [/us/pl/99/591]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F591
 [/us/pl/99/500]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F500

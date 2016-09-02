@@ -139,7 +139,7 @@
 
                 (iii) administer and enforce such code of conduct by, at a minimum, requiring that all of such organization’s agents with responsibilities with respect to education loans be annually informed of the provisions of such code of conduct.
 
-([Pub. L. 89–329, title I, § 153][/us/pl/89/329/s153], as added [Pub. L. 110–315, title I, § 120][/us/pl/110/315/s120], Aug. 14, 2008, [122 Stat. 3122][/us/stat/122/3122]; amended [Pub. L. 111–39, title I, § 101(b)(6)][/us/pl/111/39/s101/b/6], July 1, 2009, [123 Stat. 1935][/us/stat/123/1935].)
+([Pub. L. 89–329, title I][/us/pl/89/329/tI], § 153, as added [Pub. L. 110–315, title I][/us/pl/110/315/tI], § 120, Aug. 14, 2008, [122 Stat. 3122][/us/stat/122/3122]; amended [Pub. L. 111–39, title I][/us/pl/111/39/tI], § 101(b)(6), July 1, 2009, [123 Stat. 1935][/us/stat/123/1935].)
 
  __References in Text__ 
 
@@ -172,10 +172,10 @@
 [/us/usc/t15/s1638/e/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1638%2Fe%2F1
 [/us/usc/t20/s1094/a/25]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1094%2Fa%2F25
 [/us/usc/t20/s1094/a/25]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1094%2Fa%2F25
-[/us/pl/89/329/s153]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2Fs153
-[/us/pl/110/315/s120]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2Fs120
+[/us/pl/89/329/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2FtI
+[/us/pl/110/315/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2FtI
 [/us/stat/122/3122]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3122
-[/us/pl/111/39/s101/b/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F39%2Fs101%2Fb%2F6
+[/us/pl/111/39/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F39%2FtI
 [/us/stat/123/1935]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1935
 [/us/usc/t15/s1638/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1638%2Fe
 [/us/pl/90/321/s128/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F321%2Fs128%2Fe

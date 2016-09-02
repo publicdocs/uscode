@@ -23,7 +23,7 @@
 
         The Secretary of Education shall be responsible for the administration of this section and shall also conduct surveys, research, and evaluation studies which may assist in decisions to support pilot programs for full scale production.
 
-([Pub. L. 95–561, title XV, § 1527][/us/pl/95/561/s1527], Nov. 1, 1978, [92 Stat. 2379][/us/stat/92/2379]; [Pub. L. 96–88, title III, § 301][/us/pl/96/88/s301], title V, § 507, Oct. 17, 1979, [93 Stat. 677][/us/stat/93/677], 692.)
+([Pub. L. 95–561, title XV][/us/pl/95/561/tXV], § 1527, Nov. 1, 1978, [92 Stat. 2379][/us/stat/92/2379]; [Pub. L. 96–88, title III][/us/pl/96/88/tIII], § 301, title V, § 507, Oct. 17, 1979, [93 Stat. 677][/us/stat/93/677], 692.)
 
  __Codification__ 
 
@@ -44,9 +44,9 @@
 ----------
 ----------
 
-[/us/pl/95/561/s1527]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F561%2Fs1527
+[/us/pl/95/561/tXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F561%2FtXV
 [/us/stat/92/2379]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2379
-[/us/pl/96/88/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F88%2Fs301
+[/us/pl/96/88/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F88%2FtIII
 [/us/stat/93/677]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F677
 [/us/pl/95/561/s1530]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F561%2Fs1530
 [/us/usc/t20/s1221e–3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1221e%E2%80%933

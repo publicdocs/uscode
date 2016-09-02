@@ -17,7 +17,7 @@
 
     There is authorized to be appropriated not to exceed $15,000,000 for the planning and construction of the Joseph H. Hirshhorn Museum and Sculpture Garden, and such additional sums as may be necessary for the maintenance and operation of such museum and sculpture garden.
 
-([Pub. L. 89–788, § 5][/us/pl/89/788/s5], Nov. 7, 1966, [80 Stat. 1404][/us/stat/80/1404].)
+([Pub. L. 89–788][/us/pl/89/788], § 5, Nov. 7, 1966, [80 Stat. 1404][/us/stat/80/1404].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/89/788/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F788%2Fs5
+[/us/pl/89/788]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F788
 [/us/stat/80/1404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F1404
 
 

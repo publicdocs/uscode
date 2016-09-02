@@ -17,7 +17,7 @@
 
     Notwithstanding any other law or provision of law, in the case of any order on the part of any United States district court which requires the transfer or transportation of any student or students from any school attendance area prescribed by competent State or local authority for the purposes of achieving a balance among students with respect to race, sex, religion, or socioeconomic status, the effectiveness of such order shall be postponed until all appeals in connection with such order have been exhausted or, in the event no appeals are taken, until the time for such appeals has expired. This section shall expire at midnight on June 30, 1978.
 
-([Pub. L. 93–380, title II, § 253][/us/pl/93/380/s253], Aug. 21, 1974, [88 Stat. 519][/us/stat/88/519].)
+([Pub. L. 93–380, title II][/us/pl/93/380/tII], § 253, Aug. 21, 1974, [88 Stat. 519][/us/stat/88/519].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/93/380/s253]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F380%2Fs253
+[/us/pl/93/380/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F380%2FtII
 [/us/stat/88/519]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F519
 
 

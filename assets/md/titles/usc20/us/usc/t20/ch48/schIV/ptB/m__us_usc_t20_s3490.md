@@ -43,7 +43,7 @@
 
         (4) a consultant or advisor to the Department.
 
-([Pub. L. 110–161, div. G, title III, § 306][/us/pl/110/161/s306], Dec. 26, 2007, [121 Stat. 2198][/us/stat/121/2198].)
+([Pub. L. 110–161, div. G, title III][/us/pl/110/161/dG/tIII], § 306, Dec. 26, 2007, [121 Stat. 2198][/us/stat/121/2198].)
 
  __Codification__ 
 
@@ -56,7 +56,7 @@
 ----------
 ----------
 
-[/us/pl/110/161/s306]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F161%2Fs306
+[/us/pl/110/161/dG/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F161%2FdG%2FtIII
 [/us/stat/121/2198]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F2198
 
 

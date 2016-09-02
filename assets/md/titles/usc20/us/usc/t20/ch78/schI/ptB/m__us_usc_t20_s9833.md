@@ -25,7 +25,11 @@
 
     (c) __Coordination__ 
 
-        The Secretary shall coordinate the activities carried out under this section with the activities carried out under [section 6535 of this title][/us/usc/t20/s6535].
+    The Secretary shall coordinate the activities carried out under this section with any activities carried out under section 7114 or 7117 of this title that provide students access to accelerated learning programs that provide—
+
+        (1) postsecondary level courses accepted for credit at institutions of higher education, including dual or concurrent enrollment programs, and early college high schools; or
+
+        (2) postsecondary level instruction and examinations that are accepted for credit at institutions of higher education, including Advanced Placement and International Baccalaureate programs.
 
     (d) __Priority__ 
 
@@ -155,7 +159,7 @@
 
             (A) disaggregated by subject area;
 
-            (B) in the case of student data, disaggregated in the same manner as information is disaggregated under [section 6311(h)(1)(C)(i) of this title][/us/usc/t20/s6311/h/1/C/i]; and
+            (B) in the case of student data, disaggregated in the same manner as information is disaggregated under [section 6311(b)(2)(B)(xi) of this title][/us/usc/t20/s6311/b/2/B/xi]; and
 
             (C) to the extent feasible, in a manner that allows comparison of conditions before, during, and after the project.
 
@@ -171,17 +175,25 @@
 
         There are authorized to be appropriated to carry out this section $75,000,000 for each of fiscal years 2011 through 2013.
 
-([Pub. L. 110–69, title VI, § 6123][/us/pl/110/69/s6123], Aug. 9, 2007, [121 Stat. 636][/us/stat/121/636]; [Pub. L. 111–358, title X, § 1003(b)][/us/pl/111/358/s1003/b], Jan. 4, 2011, [124 Stat. 4048][/us/stat/124/4048].)
+([Pub. L. 110–69, title VI][/us/pl/110/69/tVI], § 6123, Aug. 9, 2007, [121 Stat. 636][/us/stat/121/636]; [Pub. L. 111–358, title X][/us/pl/111/358/tX], § 1003(b), Jan. 4, 2011, [124 Stat. 4048][/us/stat/124/4048]; [Pub. L. 114–95, title IX][/us/pl/114/95/tIX], § 9215(i)(3), Dec. 10, 2015, [129 Stat. 2167][/us/stat/129/2167].)
 
  __Amendments__ 
 
-    2011—Subsec. (h)(1). [Pub. L. 111–358, § 1003(b)(1)][/us/pl/111/358/s1003/b/1], substituted “50” for “100” and “100” for “200”.
+    2015—Subsec. (c). [Pub. L. 114–95][/us/pl/114/95], § 9215(i)(3)(A), substituted “any activities carried out under section 7114 or 7117 of this title that provide students access to accelerated learning programs that provide—” and pars. (1) and (2) for “the activities carried out under [section 6535 of this title][/us/usc/t20/s6535].”
 
-    Subsec. (l). [Pub. L. 111–358, § 1003(b)(2)][/us/pl/111/358/s1003/b/2], added subsec. (l) and struck out former subsec. (l). Prior to amendment, text read as follows: “There are authorized to be appropriated to carry out this section $75,000,000 for fiscal year 2008, and such sums as may be necessary for each of the 2 succeeding fiscal years.”
+    Subsec. (j)(2)(B). [Pub. L. 114–95][/us/pl/114/95], § 9215(i)(3)(B), substituted “[section 6311(b)(2)(B)(xi) of this title][/us/usc/t20/s6311/b/2/B/xi]” for “[section 6311(h)(1)(C)(i) of this title][/us/usc/t20/s6311/h/1/C/i]”.
+
+    2011—Subsec. (h)(1). [Pub. L. 111–358][/us/pl/111/358], § 1003(b)(1), substituted “50” for “100” and “100” for “200”.
+
+    Subsec. (l). [Pub. L. 111–358][/us/pl/111/358], § 1003(b)(2), added subsec. (l) and struck out former subsec. (l). Prior to amendment, text read as follows: “There are authorized to be appropriated to carry out this section $75,000,000 for fiscal year 2008, and such sums as may be necessary for each of the 2 succeeding fiscal years.”
 
  __Change of Name__ 
 
     Committee on Education and Labor of House of Representatives changed to Committee on Education and the Workforce of House of Representatives by House Resolution No. 5, One Hundred Twelfth Congress, Jan. 5, 2011.
+
+ __Effective Date of 2015 Amendment__ 
+
+    Amendment by [Pub. L. 114–95][/us/pl/114/95] effective Dec. 10, 2015, except with respect to certain noncompetitive programs and competitive programs, see [section 5 of Pub. L. 114–95][/us/pl/114/95/s5], set out as a note under [section 6301 of this title][/us/usc/t20/s6301].
 
 ----------
 
@@ -190,14 +202,23 @@
 ----------
 ----------
 
-[/us/usc/t20/s6535]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs6535
 [/us/usc/t20/s9832/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs9832%2F2
-[/us/usc/t20/s6311/h/1/C/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs6311%2Fh%2F1%2FC%2Fi
-[/us/pl/110/69/s6123]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F69%2Fs6123
+[/us/usc/t20/s6311/b/2/B/xi]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs6311%2Fb%2F2%2FB%2Fxi
+[/us/pl/110/69/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F69%2FtVI
 [/us/stat/121/636]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F636
-[/us/pl/111/358/s1003/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F358%2Fs1003%2Fb
+[/us/pl/111/358/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F358%2FtX
 [/us/stat/124/4048]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F4048
-[/us/pl/111/358/s1003/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F358%2Fs1003%2Fb%2F1
-[/us/pl/111/358/s1003/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F358%2Fs1003%2Fb%2F2
+[/us/pl/114/95/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F95%2FtIX
+[/us/stat/129/2167]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F2167
+[/us/pl/114/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F95
+[/us/usc/t20/s6535]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs6535
+[/us/pl/114/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F95
+[/us/usc/t20/s6311/b/2/B/xi]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs6311%2Fb%2F2%2FB%2Fxi
+[/us/usc/t20/s6311/h/1/C/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs6311%2Fh%2F1%2FC%2Fi
+[/us/pl/111/358]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F358
+[/us/pl/111/358]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F358
+[/us/pl/114/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F95
+[/us/pl/114/95/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F95%2Fs5
+[/us/usc/t20/s6301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs6301
 
 

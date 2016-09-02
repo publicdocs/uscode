@@ -57,7 +57,7 @@
 
         Sections 482(c) and 492 of the Higher Education Act of 1965 ([20 U.S.C. 1089(c)][/us/usc/t20/s1089/c], 1098a) shall not apply to the waivers and modifications authorized or required by this part.
 
-([Pub. L. 108–76, § 2][/us/pl/108/76/s2], Aug. 18, 2003, [117 Stat. 904][/us/stat/117/904].)
+([Pub. L. 108–76][/us/pl/108/76], § 2, Aug. 18, 2003, [117 Stat. 904][/us/stat/117/904].)
 
  __References in Text__ 
 
@@ -84,7 +84,7 @@
 [/us/usc/t20/s1070]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1070
 [/us/usc/t42/s2751]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2751
 [/us/usc/t20/s1089/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1089%2Fc
-[/us/pl/108/76/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F76%2Fs2
+[/us/pl/108/76]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F76
 [/us/stat/117/904]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F904
 [/us/pl/89/329]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329
 [/us/stat/79/1219]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F1219

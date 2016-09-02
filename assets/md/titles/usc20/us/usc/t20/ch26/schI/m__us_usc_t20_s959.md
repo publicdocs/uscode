@@ -111,49 +111,49 @@
 
             (C) if such project, production, or program is published, require that the publication contain the following statement: “The opinions, findings, conclusions, and recommendations expressed herein do not reflect the views of the National Endowment for the Arts or the National Endowment for the Humanities.”
 
-([Pub. L. 89–209, § 10][/us/pl/89/209/s10], Sept. 29, 1965, [79 Stat. 852][/us/stat/79/852]; [Pub. L. 90–348, § 5][/us/pl/90/348/s5], June 18, 1968, [82 Stat. 186][/us/stat/82/186]; [Pub. L. 91–346][/us/pl/91/346], §§ 5(a)(3), 10, 11, July 20, 1970, [84 Stat. 443][/us/stat/84/443], 446; [Pub. L. 93–133, § 2(a)(9)][/us/pl/93/133/s2/a/9], (10), Oct. 19, 1973, [87 Stat. 465][/us/stat/87/465]; [Pub. L. 96–496, title I, § 107][/us/pl/96/496/s107], Dec. 4, 1980, [94 Stat. 2588][/us/stat/94/2588]; renumbered title I, § 10, [Pub. L. 98–306, § 2][/us/pl/98/306/s2], May 31, 1984, [98 Stat. 223][/us/stat/98/223]; renumbered § 10 and amended [Pub. L. 99–194, title I][/us/pl/99/194], §§ 101(1), 110, Dec. 20, 1985, [99 Stat. 1332][/us/stat/99/1332], 1339; [Pub. L. 101–512, title III, § 318][/us/pl/101/512/s318] \[title I, § 109\], Nov. 5, 1990, [104 Stat. 1960][/us/stat/104/1960], 1970.)
+([Pub. L. 89–209][/us/pl/89/209], § 10, Sept. 29, 1965, [79 Stat. 852][/us/stat/79/852]; [Pub. L. 90–348][/us/pl/90/348], § 5, June 18, 1968, [82 Stat. 186][/us/stat/82/186]; [Pub. L. 91–346][/us/pl/91/346], §§ 5(a)(3), 10, 11, July 20, 1970, [84 Stat. 443][/us/stat/84/443], 446; [Pub. L. 93–133][/us/pl/93/133], § 2(a)(9), (10), Oct. 19, 1973, [87 Stat. 465][/us/stat/87/465]; [Pub. L. 96–496, title I][/us/pl/96/496/tI], § 107, Dec. 4, 1980, [94 Stat. 2588][/us/stat/94/2588]; renumbered title I, § 10, [Pub. L. 98–306][/us/pl/98/306], § 2, May 31, 1984, [98 Stat. 223][/us/stat/98/223]; renumbered § 10 and amended [Pub. L. 99–194, title I][/us/pl/99/194/tI], §§ 101(1), 110, Dec. 20, 1985, [99 Stat. 1332][/us/stat/99/1332], 1339; [Pub. L. 101–512, title III][/us/pl/101/512/tIII], § 318 \[title I, § 109\], Nov. 5, 1990, [104 Stat. 1960][/us/stat/104/1960], 1970.)
 
  __Codification__ 
 
-    In subsec. (a)(5), reference to “[section 5703 of title 5][/us/usc/t5/s5703]” substituted for “law ([5 U.S.C. 73b–2][/us/usc/t5/s73b–2])” on authority of [Pub. L. 89–554, § 7(b)][/us/pl/89/554/s7/b], Sept. 6, 1966, [80 Stat. 631][/us/stat/80/631], the first section of which enacted Title 5, Government Organization and Employees.
+    In subsec. (a)(5), reference to “[section 5703 of title 5][/us/usc/t5/s5703]” substituted for “law ([5 U.S.C. 73b–2][/us/usc/t5/s73b–2])” on authority of [Pub. L. 89–554][/us/pl/89/554], § 7(b), Sept. 6, 1966, [80 Stat. 631][/us/stat/80/631], the first section of which enacted Title 5, Government Organization and Employees.
 
  __Amendments__ 
 
-    1990—Subsec. (a). [Pub. L. 101–512, § 318][/us/pl/101/512/s318] \[title I, § 109(5)(A)\], redesignated concluding provisions of subsec. (a) as subsec. (b).
+    1990—Subsec. (a). [Pub. L. 101–512][/us/pl/101/512], § 318 \[title I, § 109(5)(A)\], redesignated concluding provisions of subsec. (a) as subsec. (b).
 
-    Subsec. (a)(4). [Pub. L. 101–512, § 318][/us/pl/101/512/s318] \[title I, § 109(1)(A)\], struck out “from time to time, as appropriate,” after “to utilize”.
+    Subsec. (a)(4). [Pub. L. 101–512][/us/pl/101/512], § 318 \[title I, § 109(1)(A)\], struck out “from time to time, as appropriate,” after “to utilize”.
 
-    Subsec. (a)(6). [Pub. L. 101–512, § 318][/us/pl/101/512/s318] \[title I, § 109(1)(B)\], substituted “[section 3324 of title 31][/us/usc/t31/s3324]” for “the provisions of section 3648 of the Revised Statutes ([31 U.S.C. 529][/us/usc/t31/s529])”.
+    Subsec. (a)(6). [Pub. L. 101–512][/us/pl/101/512], § 318 \[title I, § 109(1)(B)\], substituted “[section 3324 of title 31][/us/usc/t31/s3324]” for “the provisions of section 3648 of the Revised Statutes ([31 U.S.C. 529][/us/usc/t31/s529])”.
 
-    Subsec. (b). [Pub. L. 101–512, § 318][/us/pl/101/512/s318] \[title I, § 109(9)\], which directed amendment of this section by striking the sixth sentence and all that follows through “pending.” was executed by striking all that follows through “pending.” the second place it appeared to reflect the probable intent of Congress. The provisions struck out read as follows: “In selecting panels of experts under clause (4) to review and make recommendations with respect to the approval of applications for financial assistance under this subchapter, each Chairperson shall appoint individuals who have exhibited expertise and leadership in the field under review, who broadly represent diverse characteristics in terms of aesthetic or humanistic perspective, and geographical factors, and who broadly represent cultural diversity. Each Chairperson shall assure that the membership of panels changes substantially from year to year, and that no more than 20 per centum of the annual appointments shall be for service beyond the limit of three consecutive years on a subpanel. In making appointments, each Chairperson shall give due regard to the need for experienced as well as new members on each panel. Panels of experts appointed to review or make recommendations with respect to the approval of applications or projects for funding by the National Endowment for the Arts shall, when reviewing such applications and projects, recommend for funding only applications and projects that in the context in which they are presented, in the experts’ view, foster excellence, are reflective of exceptional talent, and have significant literary, scholarly, cultural, or artistic merit. Whenever there is pending an application submitted by an individual for financial assistance under [section 954(c) of this title][/us/usc/t20/s954/c], such individual may not serve as a member of any subpanel (or panel where a subpanel does not exist) before which such application is pending. The prohibition described in the previous sentence shall commence on the date the application is submitted and continue for so long as the application is pending.”
+    Subsec. (b). [Pub. L. 101–512][/us/pl/101/512], § 318 \[title I, § 109(9)\], which directed amendment of this section by striking the sixth sentence and all that follows through “pending.” was executed by striking all that follows through “pending.” the second place it appeared to reflect the probable intent of Congress. The provisions struck out read as follows: “In selecting panels of experts under clause (4) to review and make recommendations with respect to the approval of applications for financial assistance under this subchapter, each Chairperson shall appoint individuals who have exhibited expertise and leadership in the field under review, who broadly represent diverse characteristics in terms of aesthetic or humanistic perspective, and geographical factors, and who broadly represent cultural diversity. Each Chairperson shall assure that the membership of panels changes substantially from year to year, and that no more than 20 per centum of the annual appointments shall be for service beyond the limit of three consecutive years on a subpanel. In making appointments, each Chairperson shall give due regard to the need for experienced as well as new members on each panel. Panels of experts appointed to review or make recommendations with respect to the approval of applications or projects for funding by the National Endowment for the Arts shall, when reviewing such applications and projects, recommend for funding only applications and projects that in the context in which they are presented, in the experts’ view, foster excellence, are reflective of exceptional talent, and have significant literary, scholarly, cultural, or artistic merit. Whenever there is pending an application submitted by an individual for financial assistance under [section 954(c) of this title][/us/usc/t20/s954/c], such individual may not serve as a member of any subpanel (or panel where a subpanel does not exist) before which such application is pending. The prohibition described in the previous sentence shall commence on the date the application is submitted and continue for so long as the application is pending.”
 
-    [Pub. L. 101–512, § 318][/us/pl/101/512/s318] \[title I, § 109(8)\], which directed amendment of the fifth sentence of this section by making the substitution for “For the purpose”, was executed by substituting “(4) For the purposes” for “For the purposes” to reflect the probable intent of Congress.
+    [Pub. L. 101–512][/us/pl/101/512], § 318 \[title I, § 109(8)\], which directed amendment of the fifth sentence of this section by making the substitution for “For the purpose”, was executed by substituting “(4) For the purposes” for “For the purposes” to reflect the probable intent of Congress.
 
-    [Pub. L. 101–512, § 318][/us/pl/101/512/s318] \[title I, § 109(4)–(7)\], redesignated concluding provisions of subsec. (a) as subsec. (b), inserted pars. (1), (2), and (3) designations, and struck out “(A)” before “without designation” and “(B)” before “without condition”. Former subsec. (b) redesignated (d).
+    [Pub. L. 101–512][/us/pl/101/512], § 318 \[title I, § 109(4)–(7)\], redesignated concluding provisions of subsec. (a) as subsec. (b), inserted pars. (1), (2), and (3) designations, and struck out “(A)” before “without designation” and “(B)” before “without condition”. Former subsec. (b) redesignated (d).
 
-    Subsecs. (c) to (e). [Pub. L. 101–512, § 318][/us/pl/101/512/s318] \[title I, § 109(3), (4), (9)\], added subsec. (c), redesignated former subsecs. (b) and (c) as (d) and (e), respectively, and struck out former subsec. (e) which related to studies and reports on the state and quality of arts and humanities education in public elementary and secondary schools. Former subsec. (d) redesignated (f).
+    Subsecs. (c) to (e). [Pub. L. 101–512][/us/pl/101/512], § 318 \[title I, § 109(3), (4), (9)\], added subsec. (c), redesignated former subsecs. (b) and (c) as (d) and (e), respectively, and struck out former subsec. (e) which related to studies and reports on the state and quality of arts and humanities education in public elementary and secondary schools. Former subsec. (d) redesignated (f).
 
-    Subsec. (f). [Pub. L. 101–512, § 318][/us/pl/101/512/s318] \[title I, § 109(2)–(4)\], redesignated subsec. (d) as (f) and, in par. (3), substituted “subsection (c)(3)(A) of this section” for “the last sentence of subsection (a) of this section”, and struck out former subsec. (f) which related to report to Congress on selection of experts for appointment to panels, and procedures for recommendations on financial assistance applications.
+    Subsec. (f). [Pub. L. 101–512][/us/pl/101/512], § 318 \[title I, § 109(2)–(4)\], redesignated subsec. (d) as (f) and, in par. (3), substituted “subsection (c)(3)(A) of this section” for “the last sentence of subsection (a) of this section”, and struck out former subsec. (f) which related to report to Congress on selection of experts for appointment to panels, and procedures for recommendations on financial assistance applications.
 
-    1985—Subsec. (a). [Pub. L. 99–194, § 110(1)][/us/pl/99/194/s110/1], substituted “Chairperson” for “Chairman” in two places in provisions preceding cl. (1); in cl. (1) substituted “the chairperson” and “the chairperson’s” for “he” and “his”, respectively; in cl. (2) substituted “Chairperson” for “Chairman” wherever appearing; in cl. (3) substituted “the Chairperson’s” for “his”; in cl. (4) substituted “[section 3109 of title 5][/us/usc/t5/s3109]” for “section 15 of the Administrative Expenses Act of 1946, as amended ([5 U.S.C. 55a][/us/usc/t5/s55a])” and struck out proviso that any advisory panel appointed to review or make recommendations with respect to the approval of applications or projects for funding was to have broad geographic and culturally diverse representation; and in provisions following par. (8) substituted “Chairperson” for “Chairman” wherever appearing and inserted provisions relating to the selection of a panel of experts to review financial assistance applications and the considerations to be made in the review of such applications.
+    1985—Subsec. (a). [Pub. L. 99–194][/us/pl/99/194], § 110(1), substituted “Chairperson” for “Chairman” in two places in provisions preceding cl. (1); in cl. (1) substituted “the chairperson” and “the chairperson’s” for “he” and “his”, respectively; in cl. (2) substituted “Chairperson” for “Chairman” wherever appearing; in cl. (3) substituted “the Chairperson’s” for “his”; in cl. (4) substituted “[section 3109 of title 5][/us/usc/t5/s3109]” for “section 15 of the Administrative Expenses Act of 1946, as amended ([5 U.S.C. 55a][/us/usc/t5/s55a])” and struck out proviso that any advisory panel appointed to review or make recommendations with respect to the approval of applications or projects for funding was to have broad geographic and culturally diverse representation; and in provisions following par. (8) substituted “Chairperson” for “Chairman” wherever appearing and inserted provisions relating to the selection of a panel of experts to review financial assistance applications and the considerations to be made in the review of such applications.
 
-    Subsec. (b). [Pub. L. 99–194, § 110(2)][/us/pl/99/194/s110/2], substituted “Chairperson” for “Chairman” wherever appearing.
+    Subsec. (b). [Pub. L. 99–194][/us/pl/99/194], § 110(2), substituted “Chairperson” for “Chairman” wherever appearing.
 
-    Subsecs. (d) to (f). [Pub. L. 99–194, § 110(3)][/us/pl/99/194/s110/3], added subsecs. (d) to (f). Former subsec. (d), relating to studies and reports to the President and the Congress on endowment uses of donations, bequests, and devises, was struck out.
+    Subsecs. (d) to (f). [Pub. L. 99–194][/us/pl/99/194], § 110(3), added subsecs. (d) to (f). Former subsec. (d), relating to studies and reports to the President and the Congress on endowment uses of donations, bequests, and devises, was struck out.
 
-    1980—Subsec. (a)(4). [Pub. L. 96–496, § 107(a)][/us/pl/96/496/s107/a], inserted “and culturally diverse”.
+    1980—Subsec. (a)(4). [Pub. L. 96–496][/us/pl/96/496], § 107(a), inserted “and culturally diverse”.
 
-    Subsecs. (b), (c). [Pub. L. 96–496, § 107(b)][/us/pl/96/496/s107/b], (c), substituted “April” for “January”.
+    Subsecs. (b), (c). [Pub. L. 96–496][/us/pl/96/496], § 107(b), (c), substituted “April” for “January”.
 
-    Subsec. (d). [Pub. L. 96–496, § 107(d)][/us/pl/96/496/s107/d], added subsec. (d).
+    Subsec. (d). [Pub. L. 96–496][/us/pl/96/496], § 107(d), added subsec. (d).
 
-    1973—Subsec. (a)(2). [Pub. L. 93–133, § 2(a)(9)][/us/pl/93/133/s2/a/9], added exception that a Chairman may receive a gift without a recommendation from the Council to provide support for any application or project which can be approved without Council recommendation under the provisions of sections 955(f) and 957(f) of this title, and may receive a gift of $15,000 or less without Council recommendation when the Council fails to recommend within a reasonable period of time.
+    1973—Subsec. (a)(2). [Pub. L. 93–133][/us/pl/93/133], § 2(a)(9), added exception that a Chairman may receive a gift without a recommendation from the Council to provide support for any application or project which can be approved without Council recommendation under the provisions of sections 955(f) and 957(f) of this title, and may receive a gift of $15,000 or less without Council recommendation when the Council fails to recommend within a reasonable period of time.
 
-    Subsec. (a)(4). [Pub. L. 93–133, § 2(a)(10)][/us/pl/93/133/s2/a/10], inserted proviso that any advisory panel appointed to review or make recommendations with respect to the approval of applications or projects for funding shall have broad geographic representation.
+    Subsec. (a)(4). [Pub. L. 93–133][/us/pl/93/133], § 2(a)(10), inserted proviso that any advisory panel appointed to review or make recommendations with respect to the approval of applications or projects for funding shall have broad geographic representation.
 
-    1970—Subsec. (a)(2). [Pub. L. 91–346, § 5(a)(3)][/us/pl/91/346/s5/a/3], struck out reference to the functions transferred by [section 955(a) of this title][/us/usc/t20/s955/a].
+    1970—Subsec. (a)(2). [Pub. L. 91–346][/us/pl/91/346], § 5(a)(3), struck out reference to the functions transferred by [section 955(a) of this title][/us/usc/t20/s955/a].
 
-    Subsec. (a)(3) to (5). [Pub. L. 91–346, § 11(1)][/us/pl/91/346/s11/1]–(3), inserted “to” at beginning of cls. (3) to (5).
+    Subsec. (a)(3) to (5). [Pub. L. 91–346][/us/pl/91/346], § 11(1)–(3), inserted “to” at beginning of cls. (3) to (5).
 
     Subsec. (a)(6) to (8). [Pub. L. 91–346][/us/pl/91/346], §§ 10, 11(4), (5), redesignated cls. (6) and (7), and all references thereto, as cls. (7) and (8), added new cl. (6), and inserted “to” at beginning of cls. (7) and (8).
 
@@ -208,50 +208,50 @@
 [/us/usc/t5/s5703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5703
 [/us/usc/t31/s3324]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs3324
 [/us/usc/t20/s955/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs955%2Ff
-[/us/pl/89/209/s10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F209%2Fs10
+[/us/pl/89/209]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F209
 [/us/stat/79/852]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F852
-[/us/pl/90/348/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F348%2Fs5
+[/us/pl/90/348]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F348
 [/us/stat/82/186]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F186
 [/us/pl/91/346]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F346
 [/us/stat/84/443]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F443
-[/us/pl/93/133/s2/a/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F133%2Fs2%2Fa%2F9
+[/us/pl/93/133]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F133
 [/us/stat/87/465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F465
-[/us/pl/96/496/s107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F496%2Fs107
+[/us/pl/96/496/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F496%2FtI
 [/us/stat/94/2588]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2588
-[/us/pl/98/306/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F306%2Fs2
+[/us/pl/98/306]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F306
 [/us/stat/98/223]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F223
-[/us/pl/99/194]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F194
+[/us/pl/99/194/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F194%2FtI
 [/us/stat/99/1332]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F1332
-[/us/pl/101/512/s318]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F512%2Fs318
+[/us/pl/101/512/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F512%2FtIII
 [/us/stat/104/1960]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1960
 [/us/usc/t5/s5703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5703
 [/us/usc/t5/s73b–2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs73b%E2%80%932
-[/us/pl/89/554/s7/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554%2Fs7%2Fb
+[/us/pl/89/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554
 [/us/stat/80/631]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F631
-[/us/pl/101/512/s318]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F512%2Fs318
-[/us/pl/101/512/s318]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F512%2Fs318
-[/us/pl/101/512/s318]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F512%2Fs318
+[/us/pl/101/512]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F512
+[/us/pl/101/512]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F512
+[/us/pl/101/512]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F512
 [/us/usc/t31/s3324]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs3324
 [/us/usc/t31/s529]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs529
-[/us/pl/101/512/s318]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F512%2Fs318
+[/us/pl/101/512]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F512
 [/us/usc/t20/s954/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs954%2Fc
-[/us/pl/101/512/s318]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F512%2Fs318
-[/us/pl/101/512/s318]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F512%2Fs318
-[/us/pl/101/512/s318]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F512%2Fs318
-[/us/pl/101/512/s318]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F512%2Fs318
-[/us/pl/99/194/s110/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F194%2Fs110%2F1
+[/us/pl/101/512]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F512
+[/us/pl/101/512]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F512
+[/us/pl/101/512]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F512
+[/us/pl/101/512]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F512
+[/us/pl/99/194]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F194
 [/us/usc/t5/s3109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs3109
 [/us/usc/t5/s55a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs55a
-[/us/pl/99/194/s110/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F194%2Fs110%2F2
-[/us/pl/99/194/s110/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F194%2Fs110%2F3
-[/us/pl/96/496/s107/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F496%2Fs107%2Fa
-[/us/pl/96/496/s107/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F496%2Fs107%2Fb
-[/us/pl/96/496/s107/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F496%2Fs107%2Fd
-[/us/pl/93/133/s2/a/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F133%2Fs2%2Fa%2F9
-[/us/pl/93/133/s2/a/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F133%2Fs2%2Fa%2F10
-[/us/pl/91/346/s5/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F346%2Fs5%2Fa%2F3
+[/us/pl/99/194]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F194
+[/us/pl/99/194]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F194
+[/us/pl/96/496]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F496
+[/us/pl/96/496]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F496
+[/us/pl/96/496]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F496
+[/us/pl/93/133]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F133
+[/us/pl/93/133]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F133
+[/us/pl/91/346]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F346
 [/us/usc/t20/s955/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs955%2Fa
-[/us/pl/91/346/s11/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F346%2Fs11%2F1
+[/us/pl/91/346]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F346
 [/us/pl/91/346]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F346
 [/us/pl/90/348]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F348
 [/us/pl/101/512]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F512

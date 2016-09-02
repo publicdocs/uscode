@@ -23,7 +23,7 @@
 
         The Secretary shall establish procedures for reviewing and evaluating grants and contracts made or entered into under such programs. Procedures for reviewing grant applications, based on the peer review system, or contracts for financial assistance under this subchapter may not be subject to any review outside of officials responsible for the administration of the Minority Science and Engineering Improvement Programs.
 
-([Pub. L. 89–329, title III, § 364][/us/pl/89/329/s364], formerly title X, § 1044, as added [Pub. L. 99–498, title X, § 1002][/us/pl/99/498/s1002], Oct. 17, 1986, [100 Stat. 1564][/us/stat/100/1564]; renumbered title III, § 364, [Pub. L. 105–244, title III, § 301(a)(5)][/us/pl/105/244/s301/a/5], (7), Oct. 7, 1998, [112 Stat. 1636][/us/stat/112/1636].)
+([Pub. L. 89–329, title III][/us/pl/89/329/tIII], § 364, formerly title X, § 1044, as added [Pub. L. 99–498, title X][/us/pl/99/498/tX], § 1002, Oct. 17, 1986, [100 Stat. 1564][/us/stat/100/1564]; renumbered title III, § 364, [Pub. L. 105–244, title III][/us/pl/105/244/tIII], § 301(a)(5), (7), Oct. 7, 1998, [112 Stat. 1636][/us/stat/112/1636].)
 
  __Codification__ 
 
@@ -36,10 +36,10 @@
 ----------
 ----------
 
-[/us/pl/89/329/s364]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2Fs364
-[/us/pl/99/498/s1002]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F498%2Fs1002
+[/us/pl/89/329/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2FtIII
+[/us/pl/99/498/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F498%2FtX
 [/us/stat/100/1564]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1564
-[/us/pl/105/244/s301/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2Fs301%2Fa%2F5
+[/us/pl/105/244/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2FtIII
 [/us/stat/112/1636]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F1636
 [/us/usc/t20/s1135d–3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1135d%E2%80%933
 [/us/pl/105/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244

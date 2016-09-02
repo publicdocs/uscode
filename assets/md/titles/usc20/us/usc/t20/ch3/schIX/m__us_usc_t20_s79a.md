@@ -17,7 +17,7 @@
 
     The purpose of setting aside such an area is to preserve and conserve its natural features, including existing flora and fauna, in as nearly a natural condition as possible, thus providing a place where duly qualified students can make observations and scientific investigations for increase of knowledge, under such conditions and regulations as may be prescribed by the Smithsonian Institution.
 
-([July 2, 1940, ch. 516, § 2][/us/act/1940-07-02/ch516/s2], [54 Stat. 724][/us/stat/54/724]; 1946 Reorg. Plan No. 3, § 801, eff. July 16, 1946, 11 F.R. 7877, [60 Stat. 1101][/us/stat/60/1101].)
+([July 2, 1940, ch. 516][/us/act/1940-07-02/ch516], § 2, [54 Stat. 724][/us/stat/54/724]; 1946 Reorg. Plan No. 3, § 801, eff. July 16, 1946, 11 F.R. 7877, [60 Stat. 1101][/us/stat/60/1101].)
 
  __Codification__ 
 
@@ -34,7 +34,7 @@
 ----------
 ----------
 
-[/us/act/1940-07-02/ch516/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1940-07-02%2Fch516%2Fs2
+[/us/act/1940-07-02/ch516]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1940-07-02%2Fch516
 [/us/stat/54/724]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F54%2F724
 [/us/stat/60/1101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F60%2F1101
 [/us/usc/t48/s1382]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft48%2Fs1382

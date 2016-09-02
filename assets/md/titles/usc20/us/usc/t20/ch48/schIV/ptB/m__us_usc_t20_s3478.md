@@ -41,7 +41,7 @@
 
         Proceeds from reimbursements under this section may be credited to the appropriation of funds that bear or will bear all or part of the cost of such work or services or used to refund excess sums when necessary.
 
-([Pub. L. 96–88, title IV, § 418][/us/pl/96/88/s418], Oct. 17, 1979, [93 Stat. 686][/us/stat/93/686].)
+([Pub. L. 96–88, title IV][/us/pl/96/88/tIV], § 418, Oct. 17, 1979, [93 Stat. 686][/us/stat/93/686].)
 
 ----------
 
@@ -50,7 +50,7 @@
 ----------
 ----------
 
-[/us/pl/96/88/s418]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F88%2Fs418
+[/us/pl/96/88/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F88%2FtIV
 [/us/stat/93/686]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F686
 
 

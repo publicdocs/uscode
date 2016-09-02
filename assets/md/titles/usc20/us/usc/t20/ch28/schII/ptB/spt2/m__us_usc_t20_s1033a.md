@@ -21,11 +21,11 @@
 
     (b) __Use of funds__ 
 
-    Grants provided by the Secretary under this subpart shall be used to ensure that current and future teachers are highly qualified by carrying out one or more of the following activities:
+    Grants provided by the Secretary under this subpart shall be used to ensure that current and future teachers meet the applicable State certification and licensure requirements, including any requirements for certification obtained through alternative routes to certification, or, with regard to special education teachers, the qualifications described in [section 1412(a)(14)(C) of this title][/us/usc/t20/s1412/a/14/C], by carrying out one or more of the following activities:
 
         (1)
 
-         Implementing reforms within teacher preparation programs to ensure that such programs are preparing teachers who are highly qualified, are able to understand scientifically valid research, and are able to use advanced technology effectively in the classroom, including use of instructional techniques to improve student academic achievement, by—
+         Implementing reforms within teacher preparation programs to ensure that such programs are preparing teachers who meet the applicable State certification and licensure requirements, including any requirements for certification obtained through alternative routes to certification, or, with regard to special education teachers, the qualifications described in [section 1412(a)(14)(C) of this title][/us/usc/t20/s1412/a/14/C], are able to understand scientifically valid research, and are able to use advanced technology effectively in the classroom, including use of instructional techniques to improve student academic achievement, by—
 
             (A) retraining or recruiting faculty; and
 
@@ -41,7 +41,7 @@
 
         (3)
 
-         Developing and implementing initiatives to promote retention of highly qualified teachers and principals, including minority teachers and principals, including programs that provide—
+         Developing and implementing initiatives to promote retention of teachers who meet the applicable State certification and licensure requirements, including any requirements for certification obtained through alternative routes to certification, or, with regard to special education teachers, the qualifications described in [section 1412(a)(14)(C) of this title][/us/usc/t20/s1412/a/14/C], and highly qualified principals, including minority teachers and principals, including programs that provide—
 
             (A) teacher or principal mentoring from exemplary teachers or principals, respectively; or
 
@@ -69,11 +69,23 @@
 
         The Secretary shall prescribe such regulations as may be necessary to carry out this subpart.
 
-([Pub. L. 89–329, title II, § 242][/us/pl/89/329/s242], as added [Pub. L. 110–315, title II, § 201(3)][/us/pl/110/315/s201/3], Aug. 14, 2008, [122 Stat. 3158][/us/stat/122/3158].)
+([Pub. L. 89–329, title II][/us/pl/89/329/tII], § 242, as added [Pub. L. 110–315, title II][/us/pl/110/315/tII], § 201(3), Aug. 14, 2008, [122 Stat. 3158][/us/stat/122/3158]; amended [Pub. L. 114–95, title IX][/us/pl/114/95/tIX], § 9214(c)(8), Dec. 10, 2015, [129 Stat. 2163][/us/stat/129/2163].)
 
  __Prior Provisions__ 
 
     A prior [section 242 of Pub. L. 89–329][/us/pl/89/329/s242] was classified to [section 1047a of this title][/us/usc/t20/s1047a], prior to the general amendment of former part D of this subchapter by [Pub. L. 99–498][/us/pl/99/498].
+
+ __Amendments__ 
+
+    2015—Subsec. (b). [Pub. L. 114–95][/us/pl/114/95], § 9214(c)(8)(A), substituted “meet the applicable State certification and licensure requirements, including any requirements for certification obtained through alternative routes to certification, or, with regard to special education teachers, the qualifications described in [section 1412(a)(14)(C) of this title][/us/usc/t20/s1412/a/14/C],” for “are highly qualified” in introductory provisions.
+
+    Subsec. (b)(1). [Pub. L. 114–95][/us/pl/114/95], § 9214(c)(8)(B), substituted “meet the applicable State certification and licensure requirements, including any requirements for certification obtained through alternative routes to certification, or, with regard to special education teachers, the qualifications described in [section 1412(a)(14)(C) of this title][/us/usc/t20/s1412/a/14/C],” for “are highly qualified,” in introductory provisions.
+
+    Subsec. (b)(3). [Pub. L. 114–95][/us/pl/114/95], § 9214(c)(8)(C), substituted “teachers who meet the applicable State certification and licensure requirements, including any requirements for certification obtained through alternative routes to certification, or, with regard to special education teachers, the qualifications described in [section 1412(a)(14)(C) of this title][/us/usc/t20/s1412/a/14/C], and highly qualified principals” for “highly qualified teachers and principals” in introductory provisions.
+
+ __Effective Date of 2015 Amendment__ 
+
+    Amendment by [Pub. L. 114–95][/us/pl/114/95] effective Dec. 10, 2015, except with respect to certain noncompetitive programs and competitive programs, see [section 5 of Pub. L. 114–95][/us/pl/114/95/s5], set out as a note under [section 6301 of this title][/us/usc/t20/s6301].
 
 ----------
 
@@ -82,12 +94,26 @@
 ----------
 ----------
 
+[/us/usc/t20/s1412/a/14/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1412%2Fa%2F14%2FC
+[/us/usc/t20/s1412/a/14/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1412%2Fa%2F14%2FC
+[/us/usc/t20/s1412/a/14/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1412%2Fa%2F14%2FC
 [/us/usc/t20/s1022a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1022a
-[/us/pl/89/329/s242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2Fs242
-[/us/pl/110/315/s201/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2Fs201%2F3
+[/us/pl/89/329/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2FtII
+[/us/pl/110/315/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2FtII
 [/us/stat/122/3158]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3158
+[/us/pl/114/95/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F95%2FtIX
+[/us/stat/129/2163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F2163
 [/us/pl/89/329/s242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2Fs242
 [/us/usc/t20/s1047a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1047a
 [/us/pl/99/498]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F498
+[/us/pl/114/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F95
+[/us/usc/t20/s1412/a/14/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1412%2Fa%2F14%2FC
+[/us/pl/114/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F95
+[/us/usc/t20/s1412/a/14/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1412%2Fa%2F14%2FC
+[/us/pl/114/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F95
+[/us/usc/t20/s1412/a/14/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1412%2Fa%2F14%2FC
+[/us/pl/114/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F95
+[/us/pl/114/95/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F95%2Fs5
+[/us/usc/t20/s6301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs6301
 
 

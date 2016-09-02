@@ -49,7 +49,7 @@
 
         In carrying out his duties under this section, the Secretary shall avoid, to the maximum extent practicable, duplicating similar activities undertaken by the Environmental Protection Agency.
 
-([Pub. L. 96–270, § 7][/us/pl/96/270/s7], June 14, 1980, [94 Stat. 494][/us/stat/94/494].)
+([Pub. L. 96–270][/us/pl/96/270], § 7, June 14, 1980, [94 Stat. 494][/us/stat/94/494].)
 
 ----------
 
@@ -62,7 +62,7 @@
 [/us/usc/t20/s3605]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs3605
 [/us/usc/t20/s3602/e/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs3602%2Fe%2F5
 [/us/usc/t20/s3605]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs3605
-[/us/pl/96/270/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F270%2Fs7
+[/us/pl/96/270]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F270
 [/us/stat/94/494]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F494
 
 

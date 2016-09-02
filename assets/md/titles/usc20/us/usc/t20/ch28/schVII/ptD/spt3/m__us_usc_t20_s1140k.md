@@ -17,7 +17,7 @@
 
     In this subpart, the term “student with a print disability” means a student with a disability who experiences barriers to accessing instructional material in nonspecialized formats, including an individual described in [section 121(d)(2) of title 17][/us/usc/t17/s121/d/2].
 
-([Pub. L. 89–329, title VII, § 771][/us/pl/89/329/s771], as added [Pub. L. 110–315, title VII, § 709(2)][/us/pl/110/315/s709/2], Aug. 14, 2008, [122 Stat. 3367][/us/stat/122/3367].)
+([Pub. L. 89–329, title VII][/us/pl/89/329/tVII], § 771, as added [Pub. L. 110–315, title VII][/us/pl/110/315/tVII], § 709(2), Aug. 14, 2008, [122 Stat. 3367][/us/stat/122/3367].)
 
  __Prior Provisions__ 
 
@@ -35,8 +35,8 @@
 ----------
 
 [/us/usc/t17/s121/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft17%2Fs121%2Fd%2F2
-[/us/pl/89/329/s771]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2Fs771
-[/us/pl/110/315/s709/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2Fs709%2F2
+[/us/pl/89/329/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2FtVII
+[/us/pl/110/315/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2FtVII
 [/us/stat/122/3367]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3367
 [/us/pl/89/329/s771]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2Fs771
 [/us/usc/t20/s1141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1141

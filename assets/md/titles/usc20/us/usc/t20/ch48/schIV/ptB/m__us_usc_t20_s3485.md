@@ -17,7 +17,7 @@
 
     The Secretary shall cause a seal of office to be made for the Department of such design as the Secretary shall approve. Judicial notice shall be taken of such seal.
 
-([Pub. L. 96–88, title IV, § 425][/us/pl/96/88/s425], Oct. 17, 1979, [93 Stat. 688][/us/stat/93/688].)
+([Pub. L. 96–88, title IV][/us/pl/96/88/tIV], § 425, Oct. 17, 1979, [93 Stat. 688][/us/stat/93/688].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/96/88/s425]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F88%2Fs425
+[/us/pl/96/88/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F88%2FtIV
 [/us/stat/93/688]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F688
 
 

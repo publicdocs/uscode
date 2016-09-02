@@ -11,13 +11,13 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t20/ch24/schIV–A/ptC/m__us_usc_t20_ch24_schIV–A_ptC.md) | [Next](./../../../../..//us/usc/t20/ch24/schV/m__us_usc_t20_s881.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fch24%2FschV)
+[Previous](./../../../../..//us/usc/t20/ch24/schIV–A/ptC/m__us_usc_t20_s880b–12 _us_usc_t20_s880b–13.md) | [Next](./../../../../..//us/usc/t20/ch24/schV/m__us_usc_t20_s881.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fch24%2FschV)
 
 ### SUBCHAPTER V—GENERAL PROVISIONS
 
 ----------
 
-[Previous](./../../../../..//us/usc/t20/ch24/schIV–A/ptC/m__us_usc_t20_ch24_schIV–A_ptC.md) | [Next](./../../../../..//us/usc/t20/ch24/schV/m__us_usc_t20_s881.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fch24%2FschV)
+[Previous](./../../../../..//us/usc/t20/ch24/schIV–A/ptC/m__us_usc_t20_s880b–12 _us_usc_t20_s880b–13.md) | [Next](./../../../../..//us/usc/t20/ch24/schV/m__us_usc_t20_s881.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fch24%2FschV)
 
 ----------
 ----------

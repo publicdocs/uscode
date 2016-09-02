@@ -23,7 +23,7 @@
 
         The Foundation is authorized to require reports containing such information in such form and to be filed at such times as the Foundation determines to be necessary from any student awarded a scholarship under the provisions of this chapter. Such reports shall be accompanied by a certificate from an appropriate official at the institution of higher education, approved by the Foundation, stating that such student is making satisfactory progress in, and is devoting essentially full time to, study or research, except as otherwise provided in subsection (a) of this section.
 
-([Pub. L. 93–642, § 9][/us/pl/93/642/s9], Jan. 4, 1975, [88 Stat. 2278][/us/stat/88/2278].)
+([Pub. L. 93–642][/us/pl/93/642], § 9, Jan. 4, 1975, [88 Stat. 2278][/us/stat/88/2278].)
 
 ----------
 
@@ -32,7 +32,7 @@
 ----------
 ----------
 
-[/us/pl/93/642/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F642%2Fs9
+[/us/pl/93/642]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F642
 [/us/stat/88/2278]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F2278
 
 

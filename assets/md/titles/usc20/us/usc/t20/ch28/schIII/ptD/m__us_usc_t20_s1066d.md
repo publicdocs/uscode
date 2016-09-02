@@ -65,7 +65,7 @@
 
     (10) not later than 120 days after August 14, 2008, shall submit to the authorizing committees a report on the progress of the Department in implementing the recommendations made by the Government Accountability Office in October 2006 for improving the Historically Black College and Universities Capital Financing Program.
 
-([Pub. L. 89–329, title III, § 345][/us/pl/89/329/s345], formerly title VII, § 725, as added [Pub. L. 102–325, title VII, § 704][/us/pl/102/325/s704], July 23, 1992, [106 Stat. 745][/us/stat/106/745]; amended [Pub. L. 103–208, § 2(j)(16)][/us/pl/103/208/s2/j/16], Dec. 20, 1993, [107 Stat. 2481][/us/stat/107/2481]; renumbered title III, § 345, and amended [Pub. L. 105–244, title III][/us/pl/105/244], §§ 301(a)(3), (4), (c)(6), 306(c), Oct. 7, 1998, [112 Stat. 1636][/us/stat/112/1636], 1637, 1647; [Pub. L. 110–315, title III, § 314(d)][/us/pl/110/315/s314/d], Aug. 14, 2008, [122 Stat. 3181][/us/stat/122/3181].)
+([Pub. L. 89–329, title III][/us/pl/89/329/tIII], § 345, formerly title VII, § 725, as added [Pub. L. 102–325, title VII][/us/pl/102/325/tVII], § 704, July 23, 1992, [106 Stat. 745][/us/stat/106/745]; amended [Pub. L. 103–208][/us/pl/103/208], § 2(j)(16), Dec. 20, 1993, [107 Stat. 2481][/us/stat/107/2481]; renumbered title III, § 345, and amended [Pub. L. 105–244, title III][/us/pl/105/244/tIII], §§ 301(a)(3), (4), (c)(6), 306(c), Oct. 7, 1998, [112 Stat. 1636][/us/stat/112/1636], 1637, 1647; [Pub. L. 110–315, title III][/us/pl/110/315/tIII], § 314(d), Aug. 14, 2008, [122 Stat. 3181][/us/stat/122/3181].)
 
  __Codification__ 
 
@@ -77,15 +77,15 @@
 
  __Amendments__ 
 
-    2008—Par. (1). [Pub. L. 110–315, § 314(d)(1)][/us/pl/110/315/s314/d/1], substituted “August 14, 2008,” for “July 23, 1992,” in introductory provisions.
+    2008—Par. (1). [Pub. L. 110–315][/us/pl/110/315], § 314(d)(1), substituted “August 14, 2008,” for “July 23, 1992,” in introductory provisions.
 
-    Pars. (2) to (9). [Pub. L. 110–315, § 314(d)(2)][/us/pl/110/315/s314/d/2], (3), added pars. (2) and (3) and redesignated former pars. (2) to (7) as (4) to (9), respectively.
+    Pars. (2) to (9). [Pub. L. 110–315][/us/pl/110/315], § 314(d)(2), (3), added pars. (2) and (3) and redesignated former pars. (2) to (7) as (4) to (9), respectively.
 
-    Par. (10). [Pub. L. 110–315, § 314(d)(4)][/us/pl/110/315/s314/d/4]–(6), added par. (10).
+    Par. (10). [Pub. L. 110–315][/us/pl/110/315], § 314(d)(4)–(6), added par. (10).
 
-    1998—Par. (2). [Pub. L. 105–244, § 301(c)(6)][/us/pl/105/244/s301/c/6], substituted “section 1066b” for “section 1132c–2”.
+    1998—Par. (2). [Pub. L. 105–244][/us/pl/105/244], § 301(c)(6), substituted “section 1066b” for “section 1132c–2”.
 
-    Par. (7). [Pub. L. 105–244, § 306(c)][/us/pl/105/244/s306/c], added par. (7).
+    Par. (7). [Pub. L. 105–244][/us/pl/105/244], § 306(c), added par. (7).
 
     1993—Pars. (2) to (6). [Pub. L. 103–208][/us/pl/103/208] added par. (2) and redesignated former pars. (2) to (5) as (3) to (6), respectively.
 
@@ -106,25 +106,25 @@
 
 [/us/usc/t20/s1066f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1066f
 [/us/usc/t20/s1066b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1066b
-[/us/pl/89/329/s345]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2Fs345
-[/us/pl/102/325/s704]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325%2Fs704
+[/us/pl/89/329/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2FtIII
+[/us/pl/102/325/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325%2FtVII
 [/us/stat/106/745]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F745
-[/us/pl/103/208/s2/j/16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F208%2Fs2%2Fj%2F16
+[/us/pl/103/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F208
 [/us/stat/107/2481]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F2481
-[/us/pl/105/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244
+[/us/pl/105/244/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2FtIII
 [/us/stat/112/1636]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F1636
-[/us/pl/110/315/s314/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2Fs314%2Fd
+[/us/pl/110/315/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2FtIII
 [/us/stat/122/3181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3181
 [/us/usc/t20/s1132c–4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1132c%E2%80%934
 [/us/pl/105/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244
 [/us/pl/89/329/s345]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2Fs345
 [/us/usc/t20/s1069a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1069a
 [/us/pl/99/498]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F498
-[/us/pl/110/315/s314/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2Fs314%2Fd%2F1
-[/us/pl/110/315/s314/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2Fs314%2Fd%2F2
-[/us/pl/110/315/s314/d/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2Fs314%2Fd%2F4
-[/us/pl/105/244/s301/c/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2Fs301%2Fc%2F6
-[/us/pl/105/244/s306/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2Fs306%2Fc
+[/us/pl/110/315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315
+[/us/pl/110/315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315
+[/us/pl/110/315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315
+[/us/pl/105/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244
+[/us/pl/105/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244
 [/us/pl/103/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F208
 [/us/pl/105/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244
 [/us/pl/105/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244

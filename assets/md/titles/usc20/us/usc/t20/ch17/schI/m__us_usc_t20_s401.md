@@ -19,7 +19,7 @@
 
     The programs provided for in this chapter have not been funded for a number of years. See Codification notes set out under sections 421, 441, 451, 461, 481, 541, and 591 of this title.
 
-    Section, [Pub. L. 85–864, title I, § 101][/us/pl/85/864/s101], Sept. 2, 1958, [72 Stat. 1581][/us/stat/72/1581]; [Pub. L. 88–665, title I, § 101][/us/pl/88/665/s101], Oct. 16, 1964, [78 Stat. 1100][/us/stat/78/1100], provided findings and declaration of policy for National Defense Education Act of 1958.
+    Section, [Pub. L. 85–864, title I][/us/pl/85/864/tI], § 101, Sept. 2, 1958, [72 Stat. 1581][/us/stat/72/1581]; [Pub. L. 88–665, title I][/us/pl/88/665/tI], § 101, Oct. 16, 1964, [78 Stat. 1100][/us/stat/78/1100], provided findings and declaration of policy for National Defense Education Act of 1958.
 
 ----------
 
@@ -28,9 +28,9 @@
 ----------
 ----------
 
-[/us/pl/85/864/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F864%2Fs101
+[/us/pl/85/864/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F864%2FtI
 [/us/stat/72/1581]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F1581
-[/us/pl/88/665/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F665%2Fs101
+[/us/pl/88/665/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F665%2FtI
 [/us/stat/78/1100]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F1100
 
 

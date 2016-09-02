@@ -39,7 +39,7 @@
 
         The Commission shall select officers, from among its members biennially and shall make bylaws to carry out its functions under this subchapter.
 
-([Pub. L. 95–414, § 4][/us/pl/95/414/s4], Oct. 5, 1978, [92 Stat. 911][/us/stat/92/911].)
+([Pub. L. 95–414][/us/pl/95/414], § 4, Oct. 5, 1978, [92 Stat. 911][/us/stat/92/911].)
 
 ----------
 
@@ -48,7 +48,7 @@
 ----------
 ----------
 
-[/us/pl/95/414/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F414%2Fs4
+[/us/pl/95/414]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F414
 [/us/stat/92/911]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F911
 
 

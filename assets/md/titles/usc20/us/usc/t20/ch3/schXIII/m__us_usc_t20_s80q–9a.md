@@ -45,7 +45,7 @@
 
         For purposes of this section, the term “Native Hawaiian organization” has the meaning provided that term in [section 3001(11) of title 25][/us/usc/t25/s3001/11].
 
-([Pub. L. 101–185, § 11A][/us/pl/101/185/s11A], as added [Pub. L. 104–278, § 4][/us/pl/104/278/s4], Oct. 9, 1996, [110 Stat. 3355][/us/stat/110/3355].)
+([Pub. L. 101–185][/us/pl/101/185], § 11A, as added [Pub. L. 104–278][/us/pl/104/278], § 4, Oct. 9, 1996, [110 Stat. 3355][/us/stat/110/3355].)
 
 ----------
 
@@ -57,8 +57,8 @@
 [/us/usc/t25/s3001/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs3001%2F3
 [/us/usc/t25/s3004]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs3004
 [/us/usc/t25/s3001/11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs3001%2F11
-[/us/pl/101/185/s11A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F185%2Fs11A
-[/us/pl/104/278/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F278%2Fs4
+[/us/pl/101/185]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F185
+[/us/pl/104/278]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F278
 [/us/stat/110/3355]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3355
 
 

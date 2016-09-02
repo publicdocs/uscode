@@ -107,7 +107,7 @@
 
                 The minimum amount of a grant under this section shall be $200,000.
 
-([Pub. L. 89–329, title III, § 319][/us/pl/89/329/s319], as added [Pub. L. 110–315, title III, § 306][/us/pl/110/315/s306], Aug. 14, 2008, [122 Stat. 3173][/us/stat/122/3173].)
+([Pub. L. 89–329, title III][/us/pl/89/329/tIII], § 319, as added [Pub. L. 110–315, title III][/us/pl/110/315/tIII], § 306, Aug. 14, 2008, [122 Stat. 3173][/us/stat/122/3173].)
 
 ----------
 
@@ -120,8 +120,8 @@
 [/us/usc/t20/s1058/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1058%2Fb
 [/us/usc/t20/s1059c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1059c
 [/us/usc/t20/s1059/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1059%2Fd
-[/us/pl/89/329/s319]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2Fs319
-[/us/pl/110/315/s306]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2Fs306
+[/us/pl/89/329/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2FtIII
+[/us/pl/110/315/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2FtIII
 [/us/stat/122/3173]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3173
 
 

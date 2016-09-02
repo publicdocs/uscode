@@ -153,7 +153,7 @@
 
                 [Section 1059(d) of this title][/us/usc/t20/s1059/d] shall not apply to institutions that are eligible to receive funds under this section.
 
-([Pub. L. 89–329, title III, § 316][/us/pl/89/329/s316], as added [Pub. L. 102–325, title III, § 302(d)(1)][/us/pl/102/325/s302/d/1], July 23, 1992, [106 Stat. 473][/us/stat/106/473]; amended [Pub. L. 103–208, § 2(a)(7)][/us/pl/103/208/s2/a/7], Dec. 20, 1993, [107 Stat. 2457][/us/stat/107/2457]; [Pub. L. 105–244, title III, § 303(e)][/us/pl/105/244/s303/e], Oct. 7, 1998, [112 Stat. 1639][/us/stat/112/1639]; [Pub. L. 106–211, § 1(a)][/us/pl/106/211/s1/a], (b)(1), May 26, 2000, [114 Stat. 330][/us/stat/114/330]; [Pub. L. 110–315, title III, § 303][/us/pl/110/315/s303], Aug. 14, 2008, [122 Stat. 3167][/us/stat/122/3167]; [Pub. L. 111–39, title III, § 301(1)][/us/pl/111/39/s301/1], July 1, 2009, [123 Stat. 1936][/us/stat/123/1936].)
+([Pub. L. 89–329, title III][/us/pl/89/329/tIII], § 316, as added [Pub. L. 102–325, title III][/us/pl/102/325/tIII], § 302(d)(1), July 23, 1992, [106 Stat. 473][/us/stat/106/473]; amended [Pub. L. 103–208][/us/pl/103/208], § 2(a)(7), Dec. 20, 1993, [107 Stat. 2457][/us/stat/107/2457]; [Pub. L. 105–244, title III][/us/pl/105/244/tIII], § 303(e), Oct. 7, 1998, [112 Stat. 1639][/us/stat/112/1639]; [Pub. L. 106–211][/us/pl/106/211], § 1(a), (b)(1), May 26, 2000, [114 Stat. 330][/us/stat/114/330]; [Pub. L. 110–315, title III][/us/pl/110/315/tIII], § 303, Aug. 14, 2008, [122 Stat. 3167][/us/stat/122/3167]; [Pub. L. 111–39, title III][/us/pl/111/39/tIII], § 301(1), July 1, 2009, [123 Stat. 1936][/us/stat/123/1936].)
 
  __References in Text__ 
 
@@ -165,27 +165,27 @@
 
  __Amendments__ 
 
-    2009—Subsec. (a). [Pub. L. 111–39, § 301(1)(A)][/us/pl/111/39/s301/1/A], substituted “Tribal” for “Indian Tribal”.
+    2009—Subsec. (a). [Pub. L. 111–39][/us/pl/111/39], § 301(1)(A), substituted “Tribal” for “Indian Tribal”.
 
-    Subsec. (b)(1), (2). [Pub. L. 111–39, § 301(1)(B)(i)][/us/pl/111/39/s301/1/B/i], (ii), substituted “the Tribally Controlled Colleges and Universities Assistance Act of 1978” for “the Tribally Controlled College or University Assistance Act of 1978”.
+    Subsec. (b)(1), (2). [Pub. L. 111–39][/us/pl/111/39], § 301(1)(B)(i), (ii), substituted “the Tribally Controlled Colleges and Universities Assistance Act of 1978” for “the Tribally Controlled College or University Assistance Act of 1978”.
 
-    Subsec. (b)(3)(A). [Pub. L. 111–39, § 301(1)(B)(iii)][/us/pl/111/39/s301/1/B/iii], substituted “the Navajo Community College Act” for “the Navajo Community College Assistance Act of 1978”.
+    Subsec. (b)(3)(A). [Pub. L. 111–39][/us/pl/111/39], § 301(1)(B)(iii), substituted “the Navajo Community College Act” for “the Navajo Community College Assistance Act of 1978”.
 
-    2008—Subsec. (b)(3). [Pub. L. 110–315, § 303(1)][/us/pl/110/315/s303/1], added par. (3) and struck out former par. (3). Prior to amendment, text read as follows: “The term ‘Tribal College or University’ has the meaning give the term ‘tribally controlled college or university’ in [section 1801 of title 25][/us/usc/t25/s1801], and includes an institution listed in the Equity in Educational Land Grant Status Act of 1994.
+    2008—Subsec. (b)(3). [Pub. L. 110–315][/us/pl/110/315], § 303(1), added par. (3) and struck out former par. (3). Prior to amendment, text read as follows: “The term ‘Tribal College or University’ has the meaning give the term ‘tribally controlled college or university’ in [section 1801 of title 25][/us/usc/t25/s1801], and includes an institution listed in the Equity in Educational Land Grant Status Act of 1994.
 
-    Subsec. (c)(2)(B). [Pub. L. 110–315, § 303(2)(A)][/us/pl/110/315/s303/2/A], added subpar. (B) and struck out former subpar. (B) which read as follows: “construction, maintenance, renovation, and improvement in classrooms, libraries, laboratories, and other instructional facilities, including purchase or rental of telecommunications technology equipment or services;”.
+    Subsec. (c)(2)(B). [Pub. L. 110–315][/us/pl/110/315], § 303(2)(A), added subpar. (B) and struck out former subpar. (B) which read as follows: “construction, maintenance, renovation, and improvement in classrooms, libraries, laboratories, and other instructional facilities, including purchase or rental of telecommunications technology equipment or services;”.
 
-    Subsec. (c)(2)(C). [Pub. L. 110–315, § 303(2)(B)][/us/pl/110/315/s303/2/B], inserted “or in tribal governance or tribal public policy” before semicolon at end.
+    Subsec. (c)(2)(C). [Pub. L. 110–315][/us/pl/110/315], § 303(2)(B), inserted “or in tribal governance or tribal public policy” before semicolon at end.
 
-    Subsec. (c)(2)(D). [Pub. L. 110–315, § 303(2)(C)][/us/pl/110/315/s303/2/C], inserted “and instruction in tribal governance or tribal public policy” before semicolon at end.
+    Subsec. (c)(2)(D). [Pub. L. 110–315][/us/pl/110/315], § 303(2)(C), inserted “and instruction in tribal governance or tribal public policy” before semicolon at end.
 
-    Subsec. (c)(2)(G) to (N). [Pub. L. 110–315, § 303(2)(D)][/us/pl/110/315/s303/2/D]–(H), added subpars. (G) and (M), redesignated former subpars. (G), (H), (I), (J), (K), and (L) as subpars. (H), (I), (J), (K), (L), and (N), respectively, and in subpar. (N)(i) substituted “subparagraphs (A) through (M)” for “subparagraphs (A) through (K)”.
+    Subsec. (c)(2)(G) to (N). [Pub. L. 110–315][/us/pl/110/315], § 303(2)(D)–(H), added subpars. (G) and (M), redesignated former subpars. (G), (H), (I), (J), (K), and (L) as subpars. (H), (I), (J), (K), (L), and (N), respectively, and in subpar. (N)(i) substituted “subparagraphs (A) through (M)” for “subparagraphs (A) through (K)”.
 
-    Subsec. (d). [Pub. L. 110–315, § 303(3)][/us/pl/110/315/s303/3], added subsec. (d) and struck out former subsec. (d) which related to the application process for assistance under this section.
+    Subsec. (d). [Pub. L. 110–315][/us/pl/110/315], § 303(3), added subsec. (d) and struck out former subsec. (d) which related to the application process for assistance under this section.
 
-    2000—Subsec. (d)(2). [Pub. L. 106–211, § 1(a)][/us/pl/106/211/s1/a], inserted after first sentence “The Secretary shall, to the extent possible, prescribe a simplified and streamlined format for such applications that takes into account the limited number of institutions that are eligible for assistance under this section.”
+    2000—Subsec. (d)(2). [Pub. L. 106–211][/us/pl/106/211], § 1(a), inserted after first sentence “The Secretary shall, to the extent possible, prescribe a simplified and streamlined format for such applications that takes into account the limited number of institutions that are eligible for assistance under this section.”
 
-    Subsec. (d)(3). [Pub. L. 106–211, § 1(b)(1)][/us/pl/106/211/s1/b/1], added par. (3) and struck out heading and text of former par. (3). Text read as follows: “For the purposes of this part, no Tribal College or University that is eligible for and receives funds under this section may concurrently receive other funds under this part or part B of this subchapter.”
+    Subsec. (d)(3). [Pub. L. 106–211][/us/pl/106/211], § 1(b)(1), added par. (3) and struck out heading and text of former par. (3). Text read as follows: “For the purposes of this part, no Tribal College or University that is eligible for and receives funds under this section may concurrently receive other funds under this part or part B of this subchapter.”
 
     1998—[Pub. L. 105–244][/us/pl/105/244] amended section catchline and text generally. Prior to amendment, text consisted of subsecs. (a) to (e) authorizing grants and related assistance to Hispanic-serving institutions to enable such institutions to improve and expand their capacity to serve Hispanic and other low-income students.
 
@@ -197,7 +197,7 @@
 
  __Effective Date of 2000 Amendment__ 
 
-[Pub. L. 106–211, § 1(c)][/us/pl/106/211/s1/c], May 26, 2000, [114 Stat. 331][/us/stat/114/331], provided that: 
+[Pub. L. 106–211][/us/pl/106/211], § 1(c), May 26, 2000, [114 Stat. 331][/us/stat/114/331], provided that: 
 
 > “The amendments made by this Act \[amending this section and [section 1059d of this title][/us/usc/t20/s1059d]\] shall be effective on the date of the enactment of this Act \[May 26, 2000\].”
 
@@ -229,18 +229,18 @@
 [/us/usc/t20/s1058/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1058%2Fb
 [/us/usc/t25/s1801/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs1801%2Fa
 [/us/usc/t20/s1059/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1059%2Fd
-[/us/pl/89/329/s316]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2Fs316
-[/us/pl/102/325/s302/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325%2Fs302%2Fd%2F1
+[/us/pl/89/329/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2FtIII
+[/us/pl/102/325/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325%2FtIII
 [/us/stat/106/473]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F473
-[/us/pl/103/208/s2/a/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F208%2Fs2%2Fa%2F7
+[/us/pl/103/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F208
 [/us/stat/107/2457]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F2457
-[/us/pl/105/244/s303/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2Fs303%2Fe
+[/us/pl/105/244/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2FtIII
 [/us/stat/112/1639]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F1639
-[/us/pl/106/211/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F211%2Fs1%2Fa
+[/us/pl/106/211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F211
 [/us/stat/114/330]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F330
-[/us/pl/110/315/s303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2Fs303
+[/us/pl/110/315/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2FtIII
 [/us/stat/122/3167]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3167
-[/us/pl/111/39/s301/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F39%2Fs301%2F1
+[/us/pl/111/39/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F39%2FtIII
 [/us/stat/123/1936]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1936
 [/us/pl/95/471]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F471
 [/us/stat/92/1325]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1325
@@ -250,25 +250,25 @@
 [/us/usc/t25/s640a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs640a
 [/us/pl/103/382/s532]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F382%2Fs532
 [/us/usc/t7/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs301
-[/us/pl/111/39/s301/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F39%2Fs301%2F1%2FA
-[/us/pl/111/39/s301/1/B/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F39%2Fs301%2F1%2FB%2Fi
-[/us/pl/111/39/s301/1/B/iii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F39%2Fs301%2F1%2FB%2Fiii
-[/us/pl/110/315/s303/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2Fs303%2F1
+[/us/pl/111/39]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F39
+[/us/pl/111/39]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F39
+[/us/pl/111/39]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F39
+[/us/pl/110/315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315
 [/us/usc/t25/s1801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs1801
-[/us/pl/110/315/s303/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2Fs303%2F2%2FA
-[/us/pl/110/315/s303/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2Fs303%2F2%2FB
-[/us/pl/110/315/s303/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2Fs303%2F2%2FC
-[/us/pl/110/315/s303/2/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2Fs303%2F2%2FD
-[/us/pl/110/315/s303/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2Fs303%2F3
-[/us/pl/106/211/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F211%2Fs1%2Fa
-[/us/pl/106/211/s1/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F211%2Fs1%2Fb%2F1
+[/us/pl/110/315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315
+[/us/pl/110/315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315
+[/us/pl/110/315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315
+[/us/pl/110/315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315
+[/us/pl/110/315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315
+[/us/pl/106/211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F211
+[/us/pl/106/211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F211
 [/us/pl/105/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244
 [/us/pl/103/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F208
 [/us/pl/111/39]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F39
 [/us/pl/110/315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315
 [/us/pl/111/39/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F39%2Fs3
 [/us/usc/t20/s1001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1001
-[/us/pl/106/211/s1/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F211%2Fs1%2Fc
+[/us/pl/106/211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F211
 [/us/stat/114/331]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F331
 [/us/usc/t20/s1059d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1059d
 [/us/pl/105/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244

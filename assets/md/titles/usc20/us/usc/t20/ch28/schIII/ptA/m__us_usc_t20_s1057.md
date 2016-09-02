@@ -97,25 +97,25 @@
 
             The provisions of part C of this subchapter, regarding the establishment or increase of an endowment fund, that the Secretary determines are not inconsistent with this subsection, shall apply to funds used under paragraph (1).
 
-([Pub. L. 89–329, title III, § 311][/us/pl/89/329/s311], as added [Pub. L. 99–498, title III, § 301(a)][/us/pl/99/498/s301/a], Oct. 17, 1986, [100 Stat. 1291][/us/stat/100/1291]; amended [Pub. L. 100–50, § 2(a)(1)][/us/pl/100/50/s2/a/1], June 3, 1987, [101 Stat. 335][/us/stat/101/335]; [Pub. L. 105–244, title III][/us/pl/105/244], §§ 301(c)(1), 303(a), Oct. 7, 1998, [112 Stat. 1636][/us/stat/112/1636], 1638; [Pub. L. 110–315, title III, § 301][/us/pl/110/315/s301], Aug. 14, 2008, [122 Stat. 3166][/us/stat/122/3166].)
+([Pub. L. 89–329, title III][/us/pl/89/329/tIII], § 311, as added [Pub. L. 99–498, title III][/us/pl/99/498/tIII], § 301(a), Oct. 17, 1986, [100 Stat. 1291][/us/stat/100/1291]; amended [Pub. L. 100–50][/us/pl/100/50], § 2(a)(1), June 3, 1987, [101 Stat. 335][/us/stat/101/335]; [Pub. L. 105–244, title III][/us/pl/105/244/tIII], §§ 301(c)(1), 303(a), Oct. 7, 1998, [112 Stat. 1636][/us/stat/112/1636], 1638; [Pub. L. 110–315, title III][/us/pl/110/315/tIII], § 301, Aug. 14, 2008, [122 Stat. 3166][/us/stat/122/3166].)
 
  __Prior Provisions__ 
 
-    A prior section 1057, [Pub. L. 89–329, title III, § 311][/us/pl/89/329/s311], as added [Pub. L. 96–374, title III, § 301][/us/pl/96/374/s301], Oct. 3, 1980, [94 Stat. 1391][/us/stat/94/1391], enumerated purposes and established grant authority for program to strengthen eligible institutions, prior to the general revision of this subchapter by [Pub. L. 99–498][/us/pl/99/498].
+    A prior section 1057, [Pub. L. 89–329, title III][/us/pl/89/329/tIII], § 311, as added [Pub. L. 96–374, title III][/us/pl/96/374/tIII], § 301, Oct. 3, 1980, [94 Stat. 1391][/us/stat/94/1391], enumerated purposes and established grant authority for program to strengthen eligible institutions, prior to the general revision of this subchapter by [Pub. L. 99–498][/us/pl/99/498].
 
  __Amendments__ 
 
-    2008—Subsec. (b)(1). [Pub. L. 110–315, § 301(1)(A)][/us/pl/110/315/s301/1/A], made technical amendment to reference in original act which appears in text as reference to [section 1068 of this title][/us/usc/t20/s1068].
+    2008—Subsec. (b)(1). [Pub. L. 110–315][/us/pl/110/315], § 301(1)(A), made technical amendment to reference in original act which appears in text as reference to [section 1068 of this title][/us/usc/t20/s1068].
 
-    Subsec. (b)(3)(F). [Pub. L. 110–315, § 301(1)(B)][/us/pl/110/315/s301/1/B], inserted “, including services that will assist in the education of special populations” before period at end.
+    Subsec. (b)(3)(F). [Pub. L. 110–315][/us/pl/110/315], § 301(1)(B), inserted “, including services that will assist in the education of special populations” before period at end.
 
-    Subsec. (c)(6). [Pub. L. 110–315, § 301(2)(A)][/us/pl/110/315/s301/2/A], inserted “, including innovative, customized, instruction courses designed to help retain students and move the students rapidly into core courses and through program completion, which may include remedial education and English language instruction” before period at end.
+    Subsec. (c)(6). [Pub. L. 110–315][/us/pl/110/315], § 301(2)(A), inserted “, including innovative, customized, instruction courses designed to help retain students and move the students rapidly into core courses and through program completion, which may include remedial education and English language instruction” before period at end.
 
-    Subsec. (c)(7) to (13). [Pub. L. 110–315, § 301(2)(B)][/us/pl/110/315/s301/2/B]–(E), added par. (7), redesignated former pars. (7) to (12) as pars. (8) to (13), respectively, in par. (12), substituted “distance education technologies” for “distance learning academic instruction capabilities” and, in introductory provisions of par. (13), substituted “subsection (b) and [section 1068 of this title][/us/usc/t20/s1068]” for “subsection (c)”.
+    Subsec. (c)(7) to (13). [Pub. L. 110–315][/us/pl/110/315], § 301(2)(B)–(E), added par. (7), redesignated former pars. (7) to (12) as pars. (8) to (13), respectively, in par. (12), substituted “distance education technologies” for “distance learning academic instruction capabilities” and, in introductory provisions of par. (13), substituted “subsection (b) and [section 1068 of this title][/us/usc/t20/s1068]” for “subsection (c)”.
 
-    1998—Subsec. (b)(1). [Pub. L. 105–244, § 301(c)(1)][/us/pl/105/244/s301/c/1], substituted “section 1068h(a)(1)” for “section 1069f(a)(1)”.
+    1998—Subsec. (b)(1). [Pub. L. 105–244][/us/pl/105/244], § 301(c)(1), substituted “section 1068h(a)(1)” for “section 1069f(a)(1)”.
 
-    Subsecs. (c), (d). [Pub. L. 105–244, § 303(a)][/us/pl/105/244/s303/a], added subsecs. (c) and (d).
+    Subsecs. (c), (d). [Pub. L. 105–244][/us/pl/105/244], § 303(a), added subsecs. (c) and (d).
 
     1987—Subsec. (b)(1). [Pub. L. 100–50][/us/pl/100/50] substituted “[section 1069f(a)(1) of this title][/us/usc/t20/s1069f/a/1]” for “[section 1069d(a)(1) of this title][/us/usc/t20/s1069d/a/1]”.
 
@@ -139,27 +139,27 @@
 [/us/usc/t20/s1065]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1065
 [/us/usc/t20/s1065]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1065
 [/us/usc/t20/s1068]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1068
-[/us/pl/89/329/s311]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2Fs311
-[/us/pl/99/498/s301/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F498%2Fs301%2Fa
+[/us/pl/89/329/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2FtIII
+[/us/pl/99/498/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F498%2FtIII
 [/us/stat/100/1291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1291
-[/us/pl/100/50/s2/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F50%2Fs2%2Fa%2F1
+[/us/pl/100/50]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F50
 [/us/stat/101/335]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F335
-[/us/pl/105/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244
+[/us/pl/105/244/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2FtIII
 [/us/stat/112/1636]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F1636
-[/us/pl/110/315/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2Fs301
+[/us/pl/110/315/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2FtIII
 [/us/stat/122/3166]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3166
-[/us/pl/89/329/s311]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2Fs311
-[/us/pl/96/374/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F374%2Fs301
+[/us/pl/89/329/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2FtIII
+[/us/pl/96/374/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F374%2FtIII
 [/us/stat/94/1391]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F1391
 [/us/pl/99/498]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F498
-[/us/pl/110/315/s301/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2Fs301%2F1%2FA
+[/us/pl/110/315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315
 [/us/usc/t20/s1068]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1068
-[/us/pl/110/315/s301/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2Fs301%2F1%2FB
-[/us/pl/110/315/s301/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2Fs301%2F2%2FA
-[/us/pl/110/315/s301/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2Fs301%2F2%2FB
+[/us/pl/110/315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315
+[/us/pl/110/315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315
+[/us/pl/110/315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315
 [/us/usc/t20/s1068]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1068
-[/us/pl/105/244/s301/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2Fs301%2Fc%2F1
-[/us/pl/105/244/s303/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2Fs303%2Fa
+[/us/pl/105/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244
+[/us/pl/105/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244
 [/us/pl/100/50]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F50
 [/us/usc/t20/s1069f/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1069f%2Fa%2F1
 [/us/usc/t20/s1069d/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1069d%2Fa%2F1

@@ -31,7 +31,7 @@
 
     (3) __Core academic subjects__ 
 
-        The term “core academic subjects” has the meaning given the term in [section 7801 of this title][/us/usc/t20/s7801].
+        The term “core academic subjects” means English, reading or language arts, mathematics, science, foreign languages, civics and government, economics, arts, history, and geography.
 
     (4) __Early childhood educator__ 
 
@@ -93,13 +93,13 @@
 
             (xiii) An entity operating a program that provides alternative routes to State certification of teachers.
 
-    (7) __Essential components of reading instruction__ 
+    “(7) __Essential components of reading instruction.—__ 
 
-        The term “essential components of reading instruction” has the meaning given the term in [section 6368 of this title][/us/usc/t20/s6368].
+        The term “essential components of reading instruction”’ has the meaning given the term in [section 6368 of this title][/us/usc/t20/s6368] as such section was in effect on December 10, 2015. <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup> 
 
-    (8) __Exemplary teacher__ 
+    “(8) __Exemplary teacher.—__ 
 
-        The term “exemplary teacher” has the meaning given the term in [section 7801 of this title][/us/usc/t20/s7801].
+        The term “exemplary teacher” has the meaning given the term in [section 7801 of this title][/us/usc/t20/s7801] as such section was in effect on the day before December 10, 2015.1
 
     (9) __High-need early childhood education program__ 
 
@@ -195,9 +195,7 @@
 
         (C) who has demonstrated a high level of knowledge and use of content and pedagogy in the relevant areas associated with quality early childhood education.
 
-    (13) __Highly qualified__ 
-
-        The term “highly qualified” has the meaning given such term in [section 7801 of this title][/us/usc/t20/s7801] and, with respect to special education teachers, in [section 1401 of this title][/us/usc/t20/s1401].
+    (13) __Repealed.__  __[__  __Pub. L. 114–95, title IX__  __][/us/pl/114/95/tIX]__  __, § 9214(c)(1)(A),__  __Dec. 10, 2015__  __,__  __[__  __129 Stat. 2161__  __][/us/stat/129/2161]__ 
 
     (14) __Induction program__ 
 
@@ -229,7 +227,7 @@
 
     (15) __Limited English proficient__ 
 
-        The term “limited English proficient” has the meaning given the term in [section 7801 of this title][/us/usc/t20/s7801].
+        The term “limited English proficient” has the meaning given the term “English learner” in [section 7801 of this title][/us/usc/t20/s7801].
 
     (16) __Parent__ 
 
@@ -259,7 +257,7 @@
 
             (i) each student in the program to meet high academic standards or demonstrate a record of success, as determined by the institution (including prior to entering and being accepted into a program), and participate in intensive clinical experience;
 
-            (ii) each student in the program preparing to become a teacher to become highly qualified; and
+            (ii) each student in the program preparing to become a teacher who meets the applicable State certification and licensure requirements, including any requirements for certification obtained through alternative routes to certification, or, with regard to special education teachers, the qualifications described in [section 1412(a)(14)(C) of this title][/us/usc/t20/s1412/a/14/C]; and
 
             (iii) each student in the program preparing to become an early childhood educator to meet degree requirements, as established by the State, and become highly competent.
 
@@ -345,7 +343,7 @@
 
          prior to completion of the program—
 
-            (i) attains full State certification or licensure and becomes highly qualified; and
+            (i) attains full State certification or licensure and, with respect to special education teachers, meets the qualifications described in [section 1412(a)(14)(C) of this title][/us/usc/t20/s1412/a/14/C]; and
 
             (ii) acquires a master’s degree not later than 18 months after beginning the program.
 
@@ -377,9 +375,13 @@
 
         (H) use, in the case of an early childhood educator, age-appropriate and developmentally appropriate strategies and practices for children in early childhood education programs.
 
-([Pub. L. 89–329, title II, § 200][/us/pl/89/329/s200] as added [Pub. L. 110–315, title II, § 201(1)][/us/pl/110/315/s201/1], Aug. 14, 2008, [122 Stat. 3126][/us/stat/122/3126]; amended [Pub. L. 111–39, title II, § 201(1)][/us/pl/111/39/s201/1], July 1, 2009, [123 Stat. 1936][/us/stat/123/1936].)
+([Pub. L. 89–329, title II][/us/pl/89/329/tII], § 200 as added [Pub. L. 110–315, title II][/us/pl/110/315/tII], § 201(1), Aug. 14, 2008, [122 Stat. 3126][/us/stat/122/3126]; amended [Pub. L. 111–39, title II][/us/pl/111/39/tII], § 201(1), July 1, 2009, [123 Stat. 1936][/us/stat/123/1936]; [Pub. L. 114–95, title IX][/us/pl/114/95/tIX], §§ 9214(c)(1), 9215(oo)(2), Dec. 10, 2015, [129 Stat. 2161][/us/stat/129/2161], 2178.)
 
  __References in Text__ 
+
+    [Section 6368 of this title][/us/usc/t20/s6368] as such section was in effect on the day before December 10, 2015, referred to in par. (7), was in the original “section 1208 of the Elementary and Secondary Education Act of 1965 as such section was in effect on the day before the date of enactment of the Every Student Succeeds Act”, meaning [section 1208 of Pub. L. 89–10][/us/pl/89/10/s1208] as such section was in effect on the day before the date of enactment of [Pub. L. 114–95][/us/pl/114/95]. [Section 6368 of this title][/us/usc/t20/s6368] was omitted from the Code in the general amendment of part B of title I of [Pub. L. 89–10][/us/pl/89/10] by [section 1201 of Pub. L. 114–95][/us/pl/114/95/s1201], effective Dec. 10, 2015.
+
+    [Section 7801 of this title][/us/usc/t20/s7801] as such section was in effect on the day before December 10, 2015, referred to in par. (8), was in the original “section 9101 of the Elementary and Secondary Education Act of 1965 as such section was in effect on the day before the date of enactment of the Every Student Succeeds Act”, meaning [section 9101 of Pub. L. 89–10][/us/pl/89/10/s9101] as such section was in effect on the day before the date of enactment of [Pub. L. 114–95][/us/pl/114/95]. [Section 9101 of Pub. L. 89–10][/us/pl/89/10/s9101] was renumbered section 8101 and amended by sections 8001(a)(1), (b)(2), (3) and 8002 of [Pub. L. 114–95][/us/pl/114/95], effective Dec. 10, 2015.
 
     The Richard B. Russell National School Lunch Act, referred to in par. (11)(A)(i)(II), (ii), (B)(ii)(I)(bb), is [act June 4, 1946, ch. 281][/us/act/1946-06-04/ch281], [60 Stat. 230][/us/stat/60/230], which is classified generally to chapter 13 (§ 1751 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 1751 of Title 42][/us/usc/t42/s1751] and Tables.
 
@@ -387,17 +389,47 @@
 
  __Prior Provisions__ 
 
-    A prior section 1021, [Pub. L. 89–329, title II, § 201][/us/pl/89/329/s201], as added [Pub. L. 105–244, title II, § 201][/us/pl/105/244/s201], Oct. 7, 1998, [112 Stat. 1623][/us/stat/112/1623]; amended [Pub. L. 107–110, title X, § 1051(2)][/us/pl/107/110/s1051/2], Jan. 8, 2002, [115 Stat. 2080][/us/stat/115/2080], related to purposes and definitions, prior to repeal by [Pub. L. 110–315, title II, § 201(2)][/us/pl/110/315/s201/2], Aug. 14, 2008, [122 Stat. 3133][/us/stat/122/3133].
+    A prior section 1021, [Pub. L. 89–329, title II][/us/pl/89/329/tII], § 201, as added [Pub. L. 105–244, title II][/us/pl/105/244/tII], § 201, Oct. 7, 1998, [112 Stat. 1623][/us/stat/112/1623]; amended [Pub. L. 107–110, title X][/us/pl/107/110/tX], § 1051(2), Jan. 8, 2002, [115 Stat. 2080][/us/stat/115/2080], related to purposes and definitions, prior to repeal by [Pub. L. 110–315, title II][/us/pl/110/315/tII], § 201(2), Aug. 14, 2008, [122 Stat. 3133][/us/stat/122/3133].
 
-    Another prior section 1021, [Pub. L. 89–329, title II, § 201][/us/pl/89/329/s201], as added [Pub. L. 96–374, title II, § 201][/us/pl/96/374/s201], Oct. 3, 1980, [94 Stat. 1383][/us/stat/94/1383]; amended [Pub. L. 99–498, title II, § 201(b)][/us/pl/99/498/s201/b], (c), Oct. 17, 1986, [100 Stat. 1287][/us/stat/100/1287]; [Pub. L. 100–418, title VI, § 6241][/us/pl/100/418/s6241], Aug. 23, 1988, [102 Stat. 1520][/us/stat/102/1520]; [Pub. L. 102–325, title II, § 201][/us/pl/102/325/s201], July 23, 1992, [106 Stat. 467][/us/stat/106/467], related to congressional statement of purpose and authorization of appropriations, prior to repeal by [Pub. L. 104–208, div. A, title I, § 101(e)][/us/pl/104/208/s101/e] \[title VII, § 708(b)\], Sept. 30, 1996, [110 Stat. 3009–233][/us/stat/110/3009-233], 3009–312.
+    Another prior section 1021, [Pub. L. 89–329, title II][/us/pl/89/329/tII], § 201, as added [Pub. L. 96–374, title II][/us/pl/96/374/tII], § 201, Oct. 3, 1980, [94 Stat. 1383][/us/stat/94/1383]; amended [Pub. L. 99–498, title II][/us/pl/99/498/tII], § 201(b), (c), Oct. 17, 1986, [100 Stat. 1287][/us/stat/100/1287]; [Pub. L. 100–418, title VI][/us/pl/100/418/tVI], § 6241, Aug. 23, 1988, [102 Stat. 1520][/us/stat/102/1520]; [Pub. L. 102–325, title II][/us/pl/102/325/tII], § 201, July 23, 1992, [106 Stat. 467][/us/stat/106/467], related to congressional statement of purpose and authorization of appropriations, prior to repeal by [Pub. L. 104–208, div. A, title I][/us/pl/104/208/dA/tI], § 101(e) \[title VII, § 708(b)\], Sept. 30, 1996, [110 Stat. 3009–233][/us/stat/110/3009-233], 3009–312.
 
-    Another prior section 1021, [Pub. L. 89–329, title II, § 201][/us/pl/89/329/s201], as added [Pub. L. 92–318, title I, § 111(b)(1)][/us/pl/92/318/s111/b/1], June 23, 1972, [86 Stat. 238][/us/stat/86/238]; amended [Pub. L. 94–482, title I, § 106][/us/pl/94/482/s106], Oct. 12, 1976, [90 Stat. 2089][/us/stat/90/2089]; [Pub. L. 96–49, § 3(a)][/us/pl/96/49/s3/a], Aug. 13, 1979, [93 Stat. 351][/us/stat/93/351], provided for college library programs, prior to the general amendment of this subchapter by [Pub. L. 96–374][/us/pl/96/374].
+    Another prior section 1021, [Pub. L. 89–329, title II][/us/pl/89/329/tII], § 201, as added [Pub. L. 92–318, title I][/us/pl/92/318/tI], § 111(b)(1), June 23, 1972, [86 Stat. 238][/us/stat/86/238]; amended [Pub. L. 94–482, title I][/us/pl/94/482/tI], § 106, Oct. 12, 1976, [90 Stat. 2089][/us/stat/90/2089]; [Pub. L. 96–49][/us/pl/96/49], § 3(a), Aug. 13, 1979, [93 Stat. 351][/us/stat/93/351], provided for college library programs, prior to the general amendment of this subchapter by [Pub. L. 96–374][/us/pl/96/374].
 
-    Another prior section 1021, [Pub. L. 89–329, title II, § 201][/us/pl/89/329/s201], Nov. 8, 1965, [79 Stat. 1224][/us/stat/79/1224]; [Pub. L. 90–575, title II, § 211][/us/pl/90/575/s211], Oct. 16, 1968, [82 Stat. 1036][/us/stat/82/1036]; [Pub. L. 92–318, title I, § 111(a)(1)][/us/pl/92/318/s111/a/1], June 23, 1972, [86 Stat. 238][/us/stat/86/238], authorized appropriations of $50,000,000 for each fiscal year ending June 30, 1966, 1967, and 1968, and $25,000,000; $75,000,000; $90,000,000; and $18,000,000 for fiscal years ending June 30, 1969, 1970, 1971, and 1972, for library resources grants, prior to repeal by [Pub. L. 92–318, title I, § 111(b)(1)][/us/pl/92/318/s111/b/1], June 23, 1972, [86 Stat. 238][/us/stat/86/238].
+    Another prior section 1021, [Pub. L. 89–329, title II][/us/pl/89/329/tII], § 201, Nov. 8, 1965, [79 Stat. 1224][/us/stat/79/1224]; [Pub. L. 90–575, title II][/us/pl/90/575/tII], § 211, Oct. 16, 1968, [82 Stat. 1036][/us/stat/82/1036]; [Pub. L. 92–318, title I][/us/pl/92/318/tI], § 111(a)(1), June 23, 1972, [86 Stat. 238][/us/stat/86/238], authorized appropriations of $50,000,000 for each fiscal year ending June 30, 1966, 1967, and 1968, and $25,000,000; $75,000,000; $90,000,000; and $18,000,000 for fiscal years ending June 30, 1969, 1970, 1971, and 1972, for library resources grants, prior to repeal by [Pub. L. 92–318, title I][/us/pl/92/318/tI], § 111(b)(1), June 23, 1972, [86 Stat. 238][/us/stat/86/238].
 
  __Amendments__ 
 
+    2015—Par. (3). [Pub. L. 114–95][/us/pl/114/95], § 9215(oo)(2)(A), substituted “The term ‘core academic subjects’ means English, reading or language arts, mathematics, science, foreign languages, civics and government, economics, arts, history, and geography” for “The term ‘core academic subjects’ has the meaning given the term in [section 7801 of this title][/us/usc/t20/s7801]”.
+
+    Par. (5). [Pub. L. 114–95][/us/pl/114/95], § 9215(oo)(2)(B), made technical amendment to reference in original act which appears in text as reference to [section 7801 of this title][/us/usc/t20/s7801].
+
+    Par. (6)(B)(x). [Pub. L. 114–95][/us/pl/114/95], § 9215(oo)(2)(C), made technical amendment to reference in original act which appears in text as reference to [section 7221i of this title][/us/usc/t20/s7221i].
+
+    Par. (7). [Pub. L. 114–95][/us/pl/114/95], § 9215(oo)(2)(D), added par. (7) and struck out former par. (7). Prior to amendment, text read as follows: “The term ‘essential components of reading instruction’ has the meaning given the term in [section 6368 of this title][/us/usc/t20/s6368].”
+
+    Par. (8). [Pub. L. 114–95][/us/pl/114/95], § 9215(oo)(2)(E), added par. (8) and struck out former par. (8). Prior to amendment, text read as follows: “The term ‘exemplary teacher’ has the meaning given the term in [section 7801 of this title][/us/usc/t20/s7801].”
+
+    Par. (10)(A)(iii). [Pub. L. 114–95][/us/pl/114/95], § 9215(oo)(2)(F)(i), made technical amendment to reference in original act which appears in text as reference to [section 7345(b) of this title][/us/usc/t20/s7345/b].
+
+    Par. (10)(A)(iv). [Pub. L. 114–95][/us/pl/114/95], § 9215(oo)(2)(F)(ii), made technical amendment to reference in original act which appears in text as reference to [section 7351(b) of this title][/us/usc/t20/s7351/b].
+
+    Par. (13). [Pub. L. 114–95][/us/pl/114/95], § 9214(c)(1)(A), struck out par. (13). Text read as follows: “The term ‘highly qualified’ has the meaning given such term in [section 7801 of this title][/us/usc/t20/s7801] and, with respect to special education teachers, in [section 1401 of this title][/us/usc/t20/s1401].”
+
+    Par. (15). [Pub. L. 114–95][/us/pl/114/95], § 9215(oo)(2)(G), substituted “The term ‘limited English proficient’ has the meaning given the term ‘English learner’ in [section 7801 of this title][/us/usc/t20/s7801].” for “The term ‘limited English proficient’ has the meaning given the term in [section 7801 of this title][/us/usc/t20/s7801].”
+
+    Par. (16). [Pub. L. 114–95][/us/pl/114/95], § 9215(oo)(2)(H), made technical amendment to reference in original act which appears in text as reference to [section 7801 of this title][/us/usc/t20/s7801].
+
+    Par. (17)(B)(ii). [Pub. L. 114–95][/us/pl/114/95], § 9214(c)(1)(B), substituted “who meets the applicable State certification and licensure requirements, including any requirements for certification obtained through alternative routes to certification, or, with regard to special education teachers, the qualifications described in [section 1412(a)(14)(C) of this title][/us/usc/t20/s1412/a/14/C]” for “to become highly qualified”.
+
+    Par. (19). [Pub. L. 114–95][/us/pl/114/95], § 9215(oo)(2)(I), made technical amendment to reference in original act which appears in text as reference to [section 7801 of this title][/us/usc/t20/s7801].
+
+    Par. (22)(D)(i). [Pub. L. 114–95][/us/pl/114/95], § 9214(c)(1)(C), substituted “, with respect to special education teachers, meets the qualifications described in [section 1412(a)(14)(C) of this title][/us/usc/t20/s1412/a/14/C]” for “becomes highly qualified”.
+
     2009—Par. (22)(D). [Pub. L. 111–39][/us/pl/111/39] added subpar. (D) and struck out former subpar (D) which read as follows: “prior to completion of the program, earns a master’s degree, attains full State teacher certification or licensure, and becomes highly qualified.”
+
+ __Effective Date of 2015 Amendment__ 
+
+    Amendment by [Pub. L. 114–95][/us/pl/114/95] effective Dec. 10, 2015, except with respect to certain noncompetitive programs and competitive programs, see [section 5 of Pub. L. 114–95][/us/pl/114/95/s5], set out as a note under [section 6301 of this title][/us/usc/t20/s6301].
 
  __Effective Date of 2009 Amendment__ 
 
@@ -412,7 +444,6 @@
 
 [/us/usc/t20/s6333/c/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs6333%2Fc%2F1%2FA
 [/us/usc/t20/s7801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs7801
-[/us/usc/t20/s7801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs7801
 [/us/usc/t20/s1034]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1034
 [/us/usc/t20/s7221i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs7221i
 [/us/usc/t20/s6368]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs6368
@@ -421,59 +452,105 @@
 [/us/usc/t20/s7351/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs7351%2Fb
 [/us/usc/t42/s1751]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1751
 [/us/usc/t42/s601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs601
-[/us/usc/t20/s7801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs7801
-[/us/usc/t20/s1401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1401
+[/us/pl/114/95/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F95%2FtIX
+[/us/stat/129/2161]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F2161
 [/us/usc/t20/s7801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs7801
 [/us/usc/t20/s7801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs7801
 [/us/usc/t20/s1022d/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1022d%2Fb
 [/us/usc/t20/s1022d/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1022d%2Fb
+[/us/usc/t20/s1412/a/14/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1412%2Fa%2F14%2FC
 [/us/usc/t20/s7801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs7801
-[/us/pl/89/329/s200]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2Fs200
-[/us/pl/110/315/s201/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2Fs201%2F1
+[/us/usc/t20/s1412/a/14/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1412%2Fa%2F14%2FC
+[/us/pl/89/329/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2FtII
+[/us/pl/110/315/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2FtII
 [/us/stat/122/3126]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3126
-[/us/pl/111/39/s201/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F39%2Fs201%2F1
+[/us/pl/111/39/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F39%2FtII
 [/us/stat/123/1936]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1936
+[/us/pl/114/95/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F95%2FtIX
+[/us/stat/129/2161]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F2161
+[/us/usc/t20/s6368]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs6368
+[/us/pl/89/10/s1208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F10%2Fs1208
+[/us/pl/114/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F95
+[/us/usc/t20/s6368]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs6368
+[/us/pl/89/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F10
+[/us/pl/114/95/s1201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F95%2Fs1201
+[/us/usc/t20/s7801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs7801
+[/us/pl/89/10/s9101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F10%2Fs9101
+[/us/pl/114/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F95
+[/us/pl/89/10/s9101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F10%2Fs9101
+[/us/pl/114/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F95
 [/us/act/1946-06-04/ch281]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-06-04%2Fch281
 [/us/stat/60/230]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F60%2F230
 [/us/usc/t42/s1751]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1751
 [/us/act/1935-08-14/ch531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531
 [/us/stat/49/620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F620
 [/us/usc/t42/s1305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1305
-[/us/pl/89/329/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2Fs201
-[/us/pl/105/244/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2Fs201
+[/us/pl/89/329/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2FtII
+[/us/pl/105/244/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2FtII
 [/us/stat/112/1623]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F1623
-[/us/pl/107/110/s1051/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F110%2Fs1051%2F2
+[/us/pl/107/110/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F110%2FtX
 [/us/stat/115/2080]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F2080
-[/us/pl/110/315/s201/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2Fs201%2F2
+[/us/pl/110/315/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2FtII
 [/us/stat/122/3133]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3133
-[/us/pl/89/329/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2Fs201
-[/us/pl/96/374/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F374%2Fs201
+[/us/pl/89/329/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2FtII
+[/us/pl/96/374/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F374%2FtII
 [/us/stat/94/1383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F1383
-[/us/pl/99/498/s201/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F498%2Fs201%2Fb
+[/us/pl/99/498/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F498%2FtII
 [/us/stat/100/1287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1287
-[/us/pl/100/418/s6241]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2Fs6241
+[/us/pl/100/418/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2FtVI
 [/us/stat/102/1520]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1520
-[/us/pl/102/325/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325%2Fs201
+[/us/pl/102/325/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325%2FtII
 [/us/stat/106/467]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F467
-[/us/pl/104/208/s101/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs101%2Fe
+[/us/pl/104/208/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2FdA%2FtI
 [/us/stat/110/3009-233]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3009-233
-[/us/pl/89/329/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2Fs201
-[/us/pl/92/318/s111/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F318%2Fs111%2Fb%2F1
+[/us/pl/89/329/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2FtII
+[/us/pl/92/318/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F318%2FtI
 [/us/stat/86/238]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F238
-[/us/pl/94/482/s106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F482%2Fs106
+[/us/pl/94/482/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F482%2FtI
 [/us/stat/90/2089]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2089
-[/us/pl/96/49/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F49%2Fs3%2Fa
+[/us/pl/96/49]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F49
 [/us/stat/93/351]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F351
 [/us/pl/96/374]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F374
-[/us/pl/89/329/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2Fs201
+[/us/pl/89/329/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2FtII
 [/us/stat/79/1224]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F1224
-[/us/pl/90/575/s211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F575%2Fs211
+[/us/pl/90/575/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F575%2FtII
 [/us/stat/82/1036]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F1036
-[/us/pl/92/318/s111/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F318%2Fs111%2Fa%2F1
+[/us/pl/92/318/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F318%2FtI
 [/us/stat/86/238]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F238
-[/us/pl/92/318/s111/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F318%2Fs111%2Fb%2F1
+[/us/pl/92/318/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F318%2FtI
 [/us/stat/86/238]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F238
+[/us/pl/114/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F95
+[/us/usc/t20/s7801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs7801
+[/us/pl/114/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F95
+[/us/usc/t20/s7801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs7801
+[/us/pl/114/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F95
+[/us/usc/t20/s7221i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs7221i
+[/us/pl/114/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F95
+[/us/usc/t20/s6368]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs6368
+[/us/pl/114/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F95
+[/us/usc/t20/s7801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs7801
+[/us/pl/114/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F95
+[/us/usc/t20/s7345/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs7345%2Fb
+[/us/pl/114/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F95
+[/us/usc/t20/s7351/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs7351%2Fb
+[/us/pl/114/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F95
+[/us/usc/t20/s7801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs7801
+[/us/usc/t20/s1401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1401
+[/us/pl/114/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F95
+[/us/usc/t20/s7801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs7801
+[/us/usc/t20/s7801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs7801
+[/us/pl/114/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F95
+[/us/usc/t20/s7801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs7801
+[/us/pl/114/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F95
+[/us/usc/t20/s1412/a/14/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1412%2Fa%2F14%2FC
+[/us/pl/114/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F95
+[/us/usc/t20/s7801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs7801
+[/us/pl/114/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F95
+[/us/usc/t20/s1412/a/14/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1412%2Fa%2F14%2FC
 [/us/pl/111/39]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F39
+[/us/pl/114/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F95
+[/us/pl/114/95/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F95%2Fs5
+[/us/usc/t20/s6301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs6301
 [/us/pl/111/39]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F39
 [/us/pl/110/315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315
 [/us/pl/111/39/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F39%2Fs3

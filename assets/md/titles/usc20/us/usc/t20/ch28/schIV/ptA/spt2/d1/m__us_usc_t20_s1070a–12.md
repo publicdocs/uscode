@@ -85,25 +85,25 @@
 
         (4) require an assurance that the project will be located in a setting accessible to the persons proposed to be served by the project.
 
-([Pub. L. 89–329, title IV, § 402B][/us/pl/89/329/s402B], as added [Pub. L. 102–325, title IV, § 402(a)(4)][/us/pl/102/325/s402/a/4], July 23, 1992, [106 Stat. 486][/us/stat/106/486]; amended [Pub. L. 105–244, title IV, § 402(b)][/us/pl/105/244/s402/b], Oct. 7, 1998, [112 Stat. 1654][/us/stat/112/1654]; [Pub. L. 110–315, title IV, § 403(b)][/us/pl/110/315/s403/b], Aug. 14, 2008, [122 Stat. 3198][/us/stat/122/3198].)
+([Pub. L. 89–329, title IV][/us/pl/89/329/tIV], § 402B, as added [Pub. L. 102–325, title IV][/us/pl/102/325/tIV], § 402(a)(4), July 23, 1992, [106 Stat. 486][/us/stat/106/486]; amended [Pub. L. 105–244, title IV][/us/pl/105/244/tIV], § 402(b), Oct. 7, 1998, [112 Stat. 1654][/us/stat/112/1654]; [Pub. L. 110–315, title IV][/us/pl/110/315/tIV], § 403(b), Aug. 14, 2008, [122 Stat. 3198][/us/stat/122/3198].)
 
  __Amendments__ 
 
-    2008—Subsec. (a)(2). [Pub. L. 110–315, § 403(b)(1)(A)][/us/pl/110/315/s403/b/1/A], inserted “, and facilitate the application for,” after “the availability of”.
+    2008—Subsec. (a)(2). [Pub. L. 110–315][/us/pl/110/315], § 403(b)(1)(A), inserted “, and facilitate the application for,” after “the availability of”.
 
-    Subsec. (a)(3). [Pub. L. 110–315, § 403(b)(1)(B)][/us/pl/110/315/s403/b/1/B], substituted “to enter or reenter, and complete” for “, but who have the ability to complete such programs, to reenter”.
+    Subsec. (a)(3). [Pub. L. 110–315][/us/pl/110/315], § 403(b)(1)(B), substituted “to enter or reenter, and complete” for “, but who have the ability to complete such programs, to reenter”.
 
-    Subsecs. (b), (c). [Pub. L. 110–315, § 403(b)(3)][/us/pl/110/315/s403/b/3], added subsecs. (b) and (c) and struck out former subsec. (b) which related to permissible services. Former subsec. (c) redesignated (d).
+    Subsecs. (b), (c). [Pub. L. 110–315][/us/pl/110/315], § 403(b)(3), added subsecs. (b) and (c) and struck out former subsec. (b) which related to permissible services. Former subsec. (c) redesignated (d).
 
-    Subsec. (d). [Pub. L. 110–315, § 403(b)(2)][/us/pl/110/315/s403/b/2], (4), redesignated subsec. (c) as (d) and substituted “projects under this section” for “talent search projects under this division” in introductory provisions.
+    Subsec. (d). [Pub. L. 110–315][/us/pl/110/315], § 403(b)(2), (4), redesignated subsec. (c) as (d) and substituted “projects under this section” for “talent search projects under this division” in introductory provisions.
 
-    1998—Subsec. (b)(4). [Pub. L. 105–244, § 402(b)(1)][/us/pl/105/244/s402/b/1], added par. (4) and struck out former par. (4) which read as follows: “guidance on secondary school reentry or entry to general educational development (GED) programs or other alternative education programs for secondary school dropouts;”.
+    1998—Subsec. (b)(4). [Pub. L. 105–244][/us/pl/105/244], § 402(b)(1), added par. (4) and struck out former par. (4) which read as follows: “guidance on secondary school reentry or entry to general educational development (GED) programs or other alternative education programs for secondary school dropouts;”.
 
-    Subsec. (b)(5). [Pub. L. 105–244, § 402(b)(2)][/us/pl/105/244/s402/b/2], inserted before semicolon “, or activities designed to acquaint individuals from disadvantaged backgrounds with careers in which the individuals are particularly underrepresented”.
+    Subsec. (b)(5). [Pub. L. 105–244][/us/pl/105/244], § 402(b)(2), inserted before semicolon “, or activities designed to acquaint individuals from disadvantaged backgrounds with careers in which the individuals are particularly underrepresented”.
 
-    Subsec. (b)(8). [Pub. L. 105–244, § 402(b)(3)][/us/pl/105/244/s402/b/3], substituted “families” for “parents”.
+    Subsec. (b)(8). [Pub. L. 105–244][/us/pl/105/244], § 402(b)(3), substituted “families” for “parents”.
 
-    Subsec. (b)(9). [Pub. L. 105–244, § 402(b)(4)][/us/pl/105/244/s402/b/4], inserted “or counselors” after “teachers”.
+    Subsec. (b)(9). [Pub. L. 105–244][/us/pl/105/244], § 402(b)(4), inserted “or counselors” after “teachers”.
 
  __Effective Date of 1998 Amendment__ 
 
@@ -120,21 +120,21 @@
 [/us/usc/t42/s11434a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs11434a
 [/us/usc/t20/s1070a–16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1070a%E2%80%9316
 [/us/usc/t20/s1070a–16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1070a%E2%80%9316
-[/us/pl/89/329/s402B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2Fs402B
-[/us/pl/102/325/s402/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325%2Fs402%2Fa%2F4
+[/us/pl/89/329/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2FtIV
+[/us/pl/102/325/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325%2FtIV
 [/us/stat/106/486]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F486
-[/us/pl/105/244/s402/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2Fs402%2Fb
+[/us/pl/105/244/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2FtIV
 [/us/stat/112/1654]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F1654
-[/us/pl/110/315/s403/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2Fs403%2Fb
+[/us/pl/110/315/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2FtIV
 [/us/stat/122/3198]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3198
-[/us/pl/110/315/s403/b/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2Fs403%2Fb%2F1%2FA
-[/us/pl/110/315/s403/b/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2Fs403%2Fb%2F1%2FB
-[/us/pl/110/315/s403/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2Fs403%2Fb%2F3
-[/us/pl/110/315/s403/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2Fs403%2Fb%2F2
-[/us/pl/105/244/s402/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2Fs402%2Fb%2F1
-[/us/pl/105/244/s402/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2Fs402%2Fb%2F2
-[/us/pl/105/244/s402/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2Fs402%2Fb%2F3
-[/us/pl/105/244/s402/b/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2Fs402%2Fb%2F4
+[/us/pl/110/315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315
+[/us/pl/110/315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315
+[/us/pl/110/315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315
+[/us/pl/110/315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315
+[/us/pl/105/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244
+[/us/pl/105/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244
+[/us/pl/105/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244
+[/us/pl/105/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244
 [/us/pl/105/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244
 [/us/pl/105/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244
 [/us/pl/105/244/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2Fs3

@@ -17,7 +17,7 @@
 
     Two copies of each of the publication printed by the American Printing House for the Blind shall be furnished free of charge to the National Library for the Blind located at 1729 H Street Northwest, Washington, District of Columbia.
 
-([Nov. 4, 1919, ch. 93, § 1][/us/act/1919-11-04/ch93/s1], [41 Stat. 332][/us/stat/41/332].)
+([Nov. 4, 1919, ch. 93][/us/act/1919-11-04/ch93], § 1, [41 Stat. 332][/us/stat/41/332].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/act/1919-11-04/ch93/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1919-11-04%2Fch93%2Fs1
+[/us/act/1919-11-04/ch93]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1919-11-04%2Fch93
 [/us/stat/41/332]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F41%2F332
 
 

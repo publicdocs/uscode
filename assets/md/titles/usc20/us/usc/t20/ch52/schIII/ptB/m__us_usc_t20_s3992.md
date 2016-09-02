@@ -23,7 +23,7 @@
 
         There are authorized to be appropriated for purposes of carrying out this part  <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  $20,000,000 for fiscal year 1988.
 
-([Pub. L. 98–377, title III, § 322][/us/pl/98/377/s322], as added [Pub. L. 100–418, title VI, § 6031(a)(2)][/us/pl/100/418/s6031/a/2], Aug. 23, 1988, [102 Stat. 1480][/us/stat/102/1480].)
+([Pub. L. 98–377, title III][/us/pl/98/377/tIII], § 322, as added [Pub. L. 100–418, title VI][/us/pl/100/418/tVI], § 6031(a)(2), Aug. 23, 1988, [102 Stat. 1480][/us/stat/102/1480].)
 
  __References in Text__ 
 
@@ -37,8 +37,8 @@
 ----------
 
 [/us/usc/t20/s3994]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs3994
-[/us/pl/98/377/s322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F377%2Fs322
-[/us/pl/100/418/s6031/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2Fs6031%2Fa%2F2
+[/us/pl/98/377/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F377%2FtIII
+[/us/pl/100/418/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2FtVI
 [/us/stat/102/1480]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1480
 [/us/pl/98/377]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F377
 

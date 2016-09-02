@@ -23,17 +23,17 @@
 
         The corporation established under subsection (a) of this section shall have succession until dissolved by Act of Congress. Only the Congress shall have the authority to revise or amend the charter of such corporation.
 
-([Pub. L. 99–498, title XV, § 1504][/us/pl/99/498/s1504], Oct. 17, 1986, [100 Stat. 1601][/us/stat/100/1601].)
+([Pub. L. 99–498, title XV][/us/pl/99/498/tXV], § 1504, Oct. 17, 1986, [100 Stat. 1601][/us/stat/100/1601].)
 
  __Availability of Fiscal Year 1988 Appropriations__ 
 
-[Pub. L. 100–202, § 101(g)][/us/pl/100/202/s101/g] \[title I, § 100\], Dec. 22, 1987, [101 Stat. 1329–213][/us/stat/101/1329-213], 1329–228, provided: 
+[Pub. L. 100–202][/us/pl/100/202], § 101(g) \[title I, § 100\], Dec. 22, 1987, [101 Stat. 1329–213][/us/stat/101/1329-213], 1329–228, provided: 
 
 > “That notwithstanding any provision of the American Indian, Alaska Native, and Native Hawaiian Culture and Art Development Act \[this chapter\], the amounts appropriated for fiscal year 1988 for the Bureau of Indian Affairs for the Institute of American Indian Arts shall be available to operate the Institute until the Board of Regents and President of the Institute have been named and had an opportunity to organize, and for use under part A of that Act \[this subchapter\].”
 
  __Availability of Appropriations; Implementation of Chapter; Interim Authority of Secretary__ 
 
-[Pub. L. 99–500, § 101(h)][/us/pl/99/500/s101/h] \[title I, § 100\], Oct. 18, 1986, [100 Stat. 1783–242][/us/stat/100/1783-242], 1783–255, and [Pub. L. 99–591, § 101(h)][/us/pl/99/591/s101/h] \[title I, § 100\], Oct. 30, 1986, [100 Stat. 3341–242][/us/stat/100/3341-242], 3341–255, provided: 
+[Pub. L. 99–500][/us/pl/99/500], § 101(h) \[title I, § 100\], Oct. 18, 1986, [100 Stat. 1783–242][/us/stat/100/1783-242], 1783–255, and [Pub. L. 99–591][/us/pl/99/591], § 101(h) \[title I, § 100\], Oct. 30, 1986, [100 Stat. 3341–242][/us/stat/100/3341-242], 3341–255, provided: 
 
 > “That notwithstanding any provision of the American Indian, Alaska Native, and Native Hawaiian Culture and Art Development Act \[this chapter\], the amounts appropriated for fiscal year 1987 for the Bureau of Indian Affairs for the Institute of American Indian Arts shall be available for use under part A of that Act \[this subchapter\] and—
 
@@ -77,13 +77,13 @@
 ----------
 
 [/us/usc/t20/s4412]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs4412
-[/us/pl/99/498/s1504]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F498%2Fs1504
+[/us/pl/99/498/tXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F498%2FtXV
 [/us/stat/100/1601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1601
-[/us/pl/100/202/s101/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F202%2Fs101%2Fg
+[/us/pl/100/202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F202
 [/us/stat/101/1329-213]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1329-213
-[/us/pl/99/500/s101/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F500%2Fs101%2Fh
+[/us/pl/99/500]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F500
 [/us/stat/100/1783-242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1783-242
-[/us/pl/99/591/s101/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F591%2Fs101%2Fh
+[/us/pl/99/591]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F591
 [/us/stat/100/3341-242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3341-242
 [/us/usc/t20/s4412/a/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs4412%2Fa%2F1%2FA
 [/us/usc/t20/s4415]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs4415

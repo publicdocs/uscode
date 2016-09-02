@@ -31,7 +31,7 @@
 
         (1) __In general__ 
 
-            An eligible institution that receives a grant under this section shall use the grant funds to provide graduate fellowships to individuals who are preparing for the professorate in order to prepare individuals to become highly qualified elementary school and secondary school mathematics and science teachers, special education teachers, and teachers who provide instruction for limited English proficient students.
+            An eligible institution that receives a grant under this section shall use the grant funds to provide graduate fellowships to individuals who are preparing for the professorate in order to prepare individuals to become elementary school and secondary school mathematics and science teachers, special education teachers, and teachers who provide instruction for limited English proficient students, who meet the applicable State certification and licensure requirements, including any requirements for certification obtained through alternative routes to certification, or, with regard to special education teachers, the qualifications described in [section 1412(a)(14)(C) of this title][/us/usc/t20/s1412/a/14/C].
 
         (2) __Types of study__ 
 
@@ -103,7 +103,15 @@
 
         An eligible institution that receives a grant under this section may not use grant funds for general operational overhead of the institution.
 
-([Pub. L. 89–329, title II, § 258][/us/pl/89/329/s258], as added [Pub. L. 110–315, title II, § 201(3)][/us/pl/110/315/s201/3], Aug. 14, 2008, [122 Stat. 3163][/us/stat/122/3163].)
+([Pub. L. 89–329, title II][/us/pl/89/329/tII], § 258, as added [Pub. L. 110–315, title II][/us/pl/110/315/tII], § 201(3), Aug. 14, 2008, [122 Stat. 3163][/us/stat/122/3163]; amended [Pub. L. 114–95, title IX][/us/pl/114/95/tIX], § 9214(c)(11), Dec. 10, 2015, [129 Stat. 2164][/us/stat/129/2164].)
+
+ __Amendments__ 
+
+    2015—Subsec. (d)(1). [Pub. L. 114–95][/us/pl/114/95] struck out “highly qualified” after “become” and inserted “, who meet the applicable State certification and licensure requirements, including any requirements for certification obtained through alternative routes to certification, or, with regard to special education teachers, the qualifications described in [section 1412(a)(14)(C) of this title][/us/usc/t20/s1412/a/14/C]” before period at end.
+
+ __Effective Date of 2015 Amendment__ 
+
+    Amendment by [Pub. L. 114–95][/us/pl/114/95] effective Dec. 10, 2015, except with respect to certain noncompetitive programs and competitive programs, see [section 5 of Pub. L. 114–95][/us/pl/114/95/s5], set out as a note under [section 6301 of this title][/us/usc/t20/s6301].
 
 ----------
 
@@ -112,8 +120,16 @@
 ----------
 ----------
 
-[/us/pl/89/329/s258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2Fs258
-[/us/pl/110/315/s201/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2Fs201%2F3
+[/us/usc/t20/s1412/a/14/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1412%2Fa%2F14%2FC
+[/us/pl/89/329/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2FtII
+[/us/pl/110/315/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2FtII
 [/us/stat/122/3163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3163
+[/us/pl/114/95/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F95%2FtIX
+[/us/stat/129/2164]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F2164
+[/us/pl/114/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F95
+[/us/usc/t20/s1412/a/14/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1412%2Fa%2F14%2FC
+[/us/pl/114/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F95
+[/us/pl/114/95/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F95%2Fs5
+[/us/usc/t20/s6301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs6301
 
 

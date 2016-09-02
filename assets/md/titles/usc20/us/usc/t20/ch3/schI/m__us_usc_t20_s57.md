@@ -21,7 +21,7 @@
 
  __Codification__ 
 
-    R.S. § 5593 derived from [act Aug. 10, 1846, ch. 178, § 3][/us/act/1846-08-10/ch178/s3], [9 Stat. 103][/us/stat/9/103].
+    R.S. § 5593 derived from [act Aug. 10, 1846, ch. 178][/us/act/1846-08-10/ch178], § 3, [9 Stat. 103][/us/stat/9/103].
 
  __Termination of Reporting Requirements__ 
 
@@ -34,7 +34,7 @@
 ----------
 ----------
 
-[/us/act/1846-08-10/ch178/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1846-08-10%2Fch178%2Fs3
+[/us/act/1846-08-10/ch178]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1846-08-10%2Fch178
 [/us/stat/9/103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F9%2F103
 [/us/pl/104/66/s3003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F66%2Fs3003
 [/us/usc/t31/s1113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1113

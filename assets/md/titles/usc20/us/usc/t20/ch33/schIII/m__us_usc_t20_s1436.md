@@ -57,13 +57,13 @@
 
         The contents of the individualized family service plan shall be fully explained to the parents and informed written consent from the parents shall be obtained prior to the provision of early intervention services described in such plan. If the parents do not provide consent with respect to a particular early intervention service, then only the early intervention services to which consent is obtained shall be provided.
 
-([Pub. L. 91–230, title VI, § 636][/us/pl/91/230/s636], as added [Pub. L. 108–446, title I, § 101][/us/pl/108/446/s101], Dec. 3, 2004, [118 Stat. 2751][/us/stat/118/2751].)
+([Pub. L. 91–230, title VI][/us/pl/91/230/tVI], § 636, as added [Pub. L. 108–446, title I][/us/pl/108/446/tI], § 101, Dec. 3, 2004, [118 Stat. 2751][/us/stat/118/2751].)
 
  __Prior Provisions__ 
 
-    A prior section 1436, [Pub. L. 91–230, title VI, § 636][/us/pl/91/230/s636], as added [Pub. L. 105–17, title I, § 101][/us/pl/105/17/s101], June 4, 1997, [111 Stat. 111][/us/stat/111/111], related to individualized family service plans, prior to the general amendment of subchapters I to IV of this chapter by [Pub. L. 108–446][/us/pl/108/446].
+    A prior section 1436, [Pub. L. 91–230, title VI][/us/pl/91/230/tVI], § 636, as added [Pub. L. 105–17, title I][/us/pl/105/17/tI], § 101, June 4, 1997, [111 Stat. 111][/us/stat/111/111], related to individualized family service plans, prior to the general amendment of subchapters I to IV of this chapter by [Pub. L. 108–446][/us/pl/108/446].
 
-    Another prior section 1436, [Pub. L. 91–230, title VI, § 636][/us/pl/91/230/s636], Apr. 13, 1970, [84 Stat. 185][/us/stat/84/185]; [Pub. L. 93–380, title VI, § 618][/us/pl/93/380/s618], Aug. 21, 1974, [88 Stat. 584][/us/stat/88/584]; [Pub. L. 95–49, § 3][/us/pl/95/49/s3], June 17, 1977, [91 Stat. 230][/us/stat/91/230], authorized appropriations, prior to the general amendment of this subchapter by [Pub. L. 98–199, § 11][/us/pl/98/199/s11], Dec. 2, 1983, [97 Stat. 1369][/us/stat/97/1369].
+    Another prior section 1436, [Pub. L. 91–230, title VI][/us/pl/91/230/tVI], § 636, Apr. 13, 1970, [84 Stat. 185][/us/stat/84/185]; [Pub. L. 93–380, title VI][/us/pl/93/380/tVI], § 618, Aug. 21, 1974, [88 Stat. 584][/us/stat/88/584]; [Pub. L. 95–49][/us/pl/95/49], § 3, June 17, 1977, [91 Stat. 230][/us/stat/91/230], authorized appropriations, prior to the general amendment of this subchapter by [Pub. L. 98–199][/us/pl/98/199], § 11, Dec. 2, 1983, [97 Stat. 1369][/us/stat/97/1369].
 
 ----------
 
@@ -73,20 +73,20 @@
 ----------
 
 [/us/usc/t20/s1433]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1433
-[/us/pl/91/230/s636]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F230%2Fs636
-[/us/pl/108/446/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F446%2Fs101
+[/us/pl/91/230/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F230%2FtVI
+[/us/pl/108/446/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F446%2FtI
 [/us/stat/118/2751]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F2751
-[/us/pl/91/230/s636]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F230%2Fs636
-[/us/pl/105/17/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F17%2Fs101
+[/us/pl/91/230/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F230%2FtVI
+[/us/pl/105/17/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F17%2FtI
 [/us/stat/111/111]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F111
 [/us/pl/108/446]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F446
-[/us/pl/91/230/s636]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F230%2Fs636
+[/us/pl/91/230/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F230%2FtVI
 [/us/stat/84/185]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F185
-[/us/pl/93/380/s618]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F380%2Fs618
+[/us/pl/93/380/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F380%2FtVI
 [/us/stat/88/584]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F584
-[/us/pl/95/49/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F49%2Fs3
+[/us/pl/95/49]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F49
 [/us/stat/91/230]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F230
-[/us/pl/98/199/s11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F199%2Fs11
+[/us/pl/98/199]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F199
 [/us/stat/97/1369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F1369
 
 

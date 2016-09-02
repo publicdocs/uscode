@@ -65,7 +65,7 @@
 
         (6) bring together expertise from departments, schools, or colleges of education, arts and science faculty, and academic content specialists at the local educational agency to share and disseminate technology applications in the classroom through teacher preparation and into early career practice.
 
-([Pub. L. 89–329, title II, § 232][/us/pl/89/329/s232], as added [Pub. L. 110–315, title II, § 201(3)][/us/pl/110/315/s201/3], Aug. 14, 2008, [122 Stat. 3155][/us/stat/122/3155].)
+([Pub. L. 89–329, title II][/us/pl/89/329/tII], § 232, as added [Pub. L. 110–315, title II][/us/pl/110/315/tII], § 201(3), Aug. 14, 2008, [122 Stat. 3155][/us/stat/122/3155].)
 
  __Prior Provisions__ 
 
@@ -82,8 +82,8 @@
 ----------
 ----------
 
-[/us/pl/89/329/s232]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2Fs232
-[/us/pl/110/315/s201/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2Fs201%2F3
+[/us/pl/89/329/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2FtII
+[/us/pl/110/315/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2FtII
 [/us/stat/122/3155]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3155
 [/us/pl/89/329/s232]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2Fs232
 [/us/usc/t20/s1042]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1042

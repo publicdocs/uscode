@@ -65,7 +65,7 @@
 
                 (i) State early learning standards for early childhood education programs, as appropriate, and with the relevant domains of early childhood development; and
 
-                (ii) student academic achievement standards and academic content standards under section 1111(b)(1) of the Elementary and Secondary Education Act of 1965 \[[20 U.S.C. 6311(b)(1)][/us/usc/t20/s6311/b/1]\], established by the State in which the partnership is located;
+                (ii) challenging State academic standards under section 1111(b)(1) of the Elementary and Secondary Education Act of 1965 \[[20 U.S.C. 6311(b)(1)][/us/usc/t20/s6311/b/1]\], established by the State in which the partnership is located;
 
             (F) how the partnership will prepare general education teachers to teach students with disabilities, including training related to participation as a member of individualized education program teams, as defined in section 614(d)(1)(B) of the Individuals with Disabilities Education Act \[[20 U.S.C. 1414(d)(1)(B)][/us/usc/t20/s1414/d/1/B]\];
 
@@ -73,7 +73,7 @@
 
             (H)
 
-             how faculty at the partner institution will work, during the term of the grant, with highly qualified teachers in the classrooms of high-need schools served by the high-need local educational agency in the partnership to—
+             how faculty at the partner institution will work, during the term of the grant, with teachers who meet the applicable State certification and licensure requirements, including any requirements for certification obtained through alternative routes to certification, or, with regard to special education teachers, the qualifications described in section 612(a)(14)(C) of the Individuals with Disabilities Education Act \[[20 U.S.C. 1412(a)(14)(C)][/us/usc/t20/s1412/a/14/C]\], in the classrooms of high-need schools served by the high-need local educational agency in the partnership to—
 
                 (i) provide high-quality professional development activities to strengthen the content knowledge and teaching skills of elementary school and secondary school teachers; and
 
@@ -119,7 +119,7 @@
 
                  preparing—
 
-                    (I) new or prospective teachers to be highly qualified (including teachers in rural school districts who may teach multiple subjects, special educators, and teachers of students who are limited English proficient who may teach multiple subjects);
+                    (I) new or prospective teachers to meet the applicable State certification and licensure requirements, including any requirements for certification obtained through alternative routes to certification, or, with regard to special education teachers, the qualifications described in section 612(a)(14)(C) of the Individuals with Disabilities Education Act \[[20 U.S.C. 1412(a)(14)(C)][/us/usc/t20/s1412/a/14/C]\] (including teachers in rural school districts, special educators, and teachers of students who are limited English proficient);
 
                     (II) such teachers and, as applicable, early childhood educators, to understand empirically-based practice and scientifically valid research related to teaching and learning and the applicability of such practice and research, including through the effective use of technology, instructional techniques, and strategies consistent with the principles of universal design for learning, and through positive behavioral interventions and support strategies to improve student achievement; and
 
@@ -155,7 +155,7 @@
 
                     (VI) can successfully employ effective strategies for reading instruction using the essential components of reading instruction;
 
-                (iii) ensuring collaboration with departments, programs, or units of a partner institution outside of the teacher preparation program in all academic content areas to ensure that prospective teachers receive training in both teaching and relevant content areas in order to become highly qualified, which may include training in multiple subjects to teach multiple grade levels as may be needed for individuals preparing to teach in rural communities and for individuals preparing to teach students with disabilities as described in section 602(10)(D) of the Individuals with Disabilities Education Act \[[20 U.S.C. 1401(10)(D)][/us/usc/t20/s1401/10/D]\];
+                (iii) ensuring collaboration with departments, programs, or units of a partner institution outside of the teacher preparation program in all academic content areas to ensure that prospective teachers receive training in both teaching and relevant content areas in order to meet the applicable State certification and licensure requirements, including any requirements for certification obtained through alternative routes to certification, or, with regard to special education teachers, the qualifications described in section 612(a)(14)(C) of the Individuals with Disabilities Education Act \[[20 U.S.C. 1412(a)(14)(C)][/us/usc/t20/s1412/a/14/C]\], which may include training in multiple subjects to teach multiple grade levels as may be needed for individuals preparing to teach in rural communities and for individuals preparing to teach students with disabilities;
 
                 (iv) developing and implementing an induction program;
 
@@ -207,7 +207,7 @@
 
         (5) __Teacher recruitment__ 
 
-        Developing and implementing effective mechanisms (which may include alternative routes to State certification of teachers) to ensure that the eligible partnership is able to recruit qualified individuals to become highly qualified teachers through the activities of the eligible partnership, which may include an emphasis on recruiting into the teaching profession—
+        Developing and implementing effective mechanisms (which may include alternative routes to State certification of teachers) to ensure that the eligible partnership is able to recruit qualified individuals to become teachers who meet the applicable State certification and licensure requirements, including any requirements for certification obtained through alternative routes to certification, or, with regard to special education teachers, the qualifications described in section 612(a)(14)(C) of the Individuals with Disabilities Education Act \[[20 U.S.C. 1412(a)(14)(C)][/us/usc/t20/s1412/a/14/C]\] through the activities of the eligible partnership, which may include an emphasis on recruiting into the teaching profession—
 
             (A) individuals from under  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be followed by a hyphen. </sup></sup>  represented populations;
 
@@ -335,7 +335,7 @@
 
                     (III) provide to the eligible partnership a certificate, from the chief administrative officer of the local educational agency in which the resident is employed, of the employment required in subclauses (I) and (II) at the beginning of, and upon completion of, each year or partial year of service;
 
-                    (IV) meet the requirements to be a highly qualified teacher, as defined in section 9101 of the Elementary and Secondary Education Act of 1965 \[[20 U.S.C. 7801][/us/usc/t20/s7801]\], or section 602 of the Individuals with Disabilities Education Act \[[20 U.S.C. 1401][/us/usc/t20/s1401]\], when the applicant begins to fulfill the service obligation under this clause; and
+                    (IV) meet the applicable State certification and licensure requirements, including any requirements for certification obtained through alternative routes to certification, or, with regard to special education teachers, the qualifications described in section 612(a)(14)(C) of the Individuals with Disabilities Education Act \[[20 U.S.C. 1412(a)(14)(C)][/us/usc/t20/s1412/a/14/C]\], when the applicant begins to fulfill the service obligation under this clause; and
 
                     (V) comply with the requirements set by the eligible partnership under clause (iv) if the applicant is unable or unwilling to complete the service obligation required by this clause.
 
@@ -467,7 +467,7 @@
 
         Funds made available under this section shall be used to supplement, and not supplant, other Federal, State, and local funds that would otherwise be expended to carry out activities under this section.
 
-([Pub. L. 89–329, title II, § 202][/us/pl/89/329/s202], as added [Pub. L. 110–315, title II, § 201(2)][/us/pl/110/315/s201/2], Aug. 14, 2008, [122 Stat. 3133][/us/stat/122/3133]; amended [Pub. L. 111–39, title II, § 201(2)][/us/pl/111/39/s201/2], July 1, 2009, [123 Stat. 1936][/us/stat/123/1936].)
+([Pub. L. 89–329, title II][/us/pl/89/329/tII], § 202, as added [Pub. L. 110–315, title II][/us/pl/110/315/tII], § 201(2), Aug. 14, 2008, [122 Stat. 3133][/us/stat/122/3133]; amended [Pub. L. 111–39, title II][/us/pl/111/39/tII], § 201(2), July 1, 2009, [123 Stat. 1936][/us/stat/123/1936]; [Pub. L. 114–95, title IX][/us/pl/114/95/tIX], §§ 9214(c)(3), 9215(oo)(3), Dec. 10, 2015, [129 Stat. 2161][/us/stat/129/2161], 2179.)
 
  __References in Text__ 
 
@@ -485,15 +485,31 @@
 
  __Amendments__ 
 
-    2009—Subsec. (b)(6)(E)(ii). [Pub. L. 111–39, § 201(2)(A)][/us/pl/111/39/s201/2/A], substituted “section 1111(b)(1)” for “section 1111(b)(2)”.
+    2015—Subsec. (b)(6)(E)(ii). [Pub. L. 114–95][/us/pl/114/95], § 9215(oo)(3), substituted “challenging State academic standards under section 1111(b)(1) of the Elementary and Secondary Education Act of 1965,” for “student academic achievement standards and academic content standards under section 1111(b)(1) of the Elementary and Secondary Education Act of 1965,”.
 
-    Subsec. (c)(1). [Pub. L. 111–39, § 201(2)(B)][/us/pl/111/39/s201/2/B], struck out “pre-baccalaureate” before “preparation”.
+    Subsec. (b)(6)(H). [Pub. L. 114–95][/us/pl/114/95], § 9214(c)(3)(A), substituted “teachers who meet the applicable State certification and licensure requirements, including any requirements for certification obtained through alternative routes to certification, or, with regard to special education teachers, the qualifications described in section 612(a)(14)(C) of the Individuals with Disabilities Education Act,” for “highly qualified teachers” in introductory provisions.
 
-    Subsec. (d). [Pub. L. 111–39, § 201(2)(C)][/us/pl/111/39/s201/2/C], substituted “the preparation” for “pre-baccalaureate preparation” in heading, added introductory provisions, and struck out former introductory provisions which read as follows: “An eligible partnership that receives a grant to carry out an effective program for the pre-baccalaureate preparation of teachers shall carry out a program that includes all of the following:”.
+    Subsec. (d)(1)(A)(i)(I). [Pub. L. 114–95][/us/pl/114/95], § 9214(c)(3)(B)(i)(I), substituted “meet the applicable State certification and licensure requirements, including any requirements for certification obtained through alternative routes to certification, or, with regard to special education teachers, the qualifications described in section 612(a)(14)(C) of the Individuals with Disabilities Education Act (including teachers in rural school districts, special educators, and teachers of students who are limited English proficient)” for “be highly qualified (including teachers in rural school districts who may teach multiple subjects, special educators, and teachers of students who are limited English proficient who may teach multiple subjects)”.
 
-    Subsec. (e)(2). [Pub. L. 111–39, § 201(2)(D)][/us/pl/111/39/s201/2/D], in subpar. (A)(ii), substituted “leading to” for “to earn” and, in subpar. (C), struck out “one-year” before “teaching residency program” in cls. (i) and (iii)(I).
+    Subsec. (d)(1)(B)(iii). [Pub. L. 114–95][/us/pl/114/95], § 9214(c)(3)(B)(i)(II), substituted “meet the applicable State certification and licensure requirements, including any requirements for certification obtained through alternative routes to certification, or, with regard to special education teachers, the qualifications described in section 612(a)(14)(C) of the Individuals with Disabilities Education Act, which may include training in multiple subjects to teach multiple grade levels as may be needed for individuals preparing to teach in rural communities and for individuals preparing to teach students with disabilities” for “become highly qualified, which may include training in multiple subjects to teach multiple grade levels as may be needed for individuals preparing to teach in rural communities and for individuals preparing to teach students with disabilities as described in section 602(10)(D) of the Individuals with Disabilities Education Act”.
 
-    Subsec. (i)(3). [Pub. L. 111–39, § 201(2)(E)][/us/pl/111/39/s201/2/E], substituted “consent to” for “consent of”.
+    Subsec. (d)(5). [Pub. L. 114–95][/us/pl/114/95], § 9214(c)(3)(B)(ii), substituted “become teachers who meet the applicable State certification and licensure requirements, including any requirements for certification obtained through alternative routes to certification, or, with regard to special education teachers, the qualifications described in section 612(a)(14)(C) of the Individuals with Disabilities Education Act” for “become highly qualified teachers” in introductory provisions.
+
+    Subsec. (e)(2)(C)(iii)(IV). [Pub. L. 114–95][/us/pl/114/95], § 9214(c)(3)(C), added subcl. (IV) and struck out former subcl. (IV) which read as follows: “meet the requirements to be a highly qualified teacher, as defined in section 9101 of the Elementary and Secondary Education Act of 1965, or section 602 of the Individuals with Disabilities Education Act, when the applicant begins to fulfill the service obligation under this clause; and”.
+
+    2009—Subsec. (b)(6)(E)(ii). [Pub. L. 111–39][/us/pl/111/39], § 201(2)(A), substituted “section 1111(b)(1)” for “section 1111(b)(2)”.
+
+    Subsec. (c)(1). [Pub. L. 111–39][/us/pl/111/39], § 201(2)(B), struck out “pre-baccalaureate” before “preparation”.
+
+    Subsec. (d). [Pub. L. 111–39][/us/pl/111/39], § 201(2)(C), substituted “the preparation” for “pre-baccalaureate preparation” in heading, added introductory provisions, and struck out former introductory provisions which read as follows: “An eligible partnership that receives a grant to carry out an effective program for the pre-baccalaureate preparation of teachers shall carry out a program that includes all of the following:”.
+
+    Subsec. (e)(2). [Pub. L. 111–39][/us/pl/111/39], § 201(2)(D), in subpar. (A)(ii), substituted “leading to” for “to earn” and, in subpar. (C), struck out “one-year” before “teaching residency program” in cls. (i) and (iii)(I).
+
+    Subsec. (i)(3). [Pub. L. 111–39][/us/pl/111/39], § 201(2)(E), substituted “consent to” for “consent of”.
+
+ __Effective Date of 2015 Amendment__ 
+
+    Amendment by [Pub. L. 114–95][/us/pl/114/95] effective Dec. 10, 2015, except with respect to certain noncompetitive programs and competitive programs, see [section 5 of Pub. L. 114–95][/us/pl/114/95/s5], set out as a note under [section 6301 of this title][/us/usc/t20/s6301].
 
  __Effective Date of 2009 Amendment__ 
 
@@ -512,16 +528,20 @@
 [/us/usc/t20/s1022c/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1022c%2Fa
 [/us/usc/t20/s6311/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs6311%2Fb%2F1
 [/us/usc/t20/s1414/d/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1414%2Fd%2F1%2FB
+[/us/usc/t20/s1412/a/14/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1412%2Fa%2F14%2FC
+[/us/usc/t20/s1412/a/14/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1412%2Fa%2F14%2FC
 [/us/usc/t20/s1414/d/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1414%2Fd%2F1%2FB
-[/us/usc/t20/s1401/10/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1401%2F10%2FD
-[/us/usc/t20/s7801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs7801
-[/us/usc/t20/s1401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1401
+[/us/usc/t20/s1412/a/14/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1412%2Fa%2F14%2FC
+[/us/usc/t20/s1412/a/14/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1412%2Fa%2F14%2FC
+[/us/usc/t20/s1412/a/14/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1412%2Fa%2F14%2FC
 [/us/usc/t47/s397/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs397%2F6
-[/us/pl/89/329/s202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2Fs202
-[/us/pl/110/315/s201/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2Fs201%2F2
+[/us/pl/89/329/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2FtII
+[/us/pl/110/315/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2FtII
 [/us/stat/122/3133]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3133
-[/us/pl/111/39/s201/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F39%2Fs201%2F2
+[/us/pl/111/39/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F39%2FtII
 [/us/stat/123/1936]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1936
+[/us/pl/114/95/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F95%2FtIX
+[/us/stat/129/2161]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F2161
 [/us/pl/89/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F10
 [/us/stat/79/27]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F27
 [/us/usc/t20/s6301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs6301
@@ -537,11 +557,20 @@
 [/us/pl/89/329/s202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2Fs202
 [/us/usc/t20/s1022]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1022
 [/us/pl/96/374]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F374
-[/us/pl/111/39/s201/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F39%2Fs201%2F2%2FA
-[/us/pl/111/39/s201/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F39%2Fs201%2F2%2FB
-[/us/pl/111/39/s201/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F39%2Fs201%2F2%2FC
-[/us/pl/111/39/s201/2/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F39%2Fs201%2F2%2FD
-[/us/pl/111/39/s201/2/E]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F39%2Fs201%2F2%2FE
+[/us/pl/114/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F95
+[/us/pl/114/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F95
+[/us/pl/114/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F95
+[/us/pl/114/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F95
+[/us/pl/114/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F95
+[/us/pl/114/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F95
+[/us/pl/111/39]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F39
+[/us/pl/111/39]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F39
+[/us/pl/111/39]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F39
+[/us/pl/111/39]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F39
+[/us/pl/111/39]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F39
+[/us/pl/114/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F95
+[/us/pl/114/95/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F95%2Fs5
+[/us/usc/t20/s6301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs6301
 [/us/pl/111/39]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F39
 [/us/pl/110/315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315
 [/us/pl/111/39/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F39%2Fs3

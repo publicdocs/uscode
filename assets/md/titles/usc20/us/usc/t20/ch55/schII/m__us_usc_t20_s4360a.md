@@ -29,7 +29,7 @@
 
         There are authorized to be appropriated such sums as may be necessary for each of the fiscal years 2009 through 2014 to carry out the provisions of subchapter I of this chapter and this subchapter relating to the National Technical Institute for the Deaf.
 
-([Pub. L. 99–371, title II, § 212][/us/pl/99/371/s212], as added [Pub. L. 105–244, title IX, § 925][/us/pl/105/244/s925], Oct. 7, 1998, [112 Stat. 1833][/us/stat/112/1833]; amended [Pub. L. 110–315, title IX, § 914][/us/pl/110/315/s914], Aug. 14, 2008, [122 Stat. 3455][/us/stat/122/3455].)
+([Pub. L. 99–371, title II][/us/pl/99/371/tII], § 212, as added [Pub. L. 105–244, title IX][/us/pl/105/244/tIX], § 925, Oct. 7, 1998, [112 Stat. 1833][/us/stat/112/1833]; amended [Pub. L. 110–315, title IX][/us/pl/110/315/tIX], § 914, Aug. 14, 2008, [122 Stat. 3455][/us/stat/122/3455].)
 
  __Prior Provisions__ 
 
@@ -37,9 +37,9 @@
 
  __Amendments__ 
 
-    2008—Subsec. (a). [Pub. L. 110–315, § 914(1)][/us/pl/110/315/s914/1], substituted “fiscal years 2009 through 2014” for “fiscal years 1998 through 2003” in introductory provisions.
+    2008—Subsec. (a). [Pub. L. 110–315][/us/pl/110/315], § 914(1), substituted “fiscal years 2009 through 2014” for “fiscal years 1998 through 2003” in introductory provisions.
 
-    Subsec. (b). [Pub. L. 110–315, § 914(2)][/us/pl/110/315/s914/2], substituted “fiscal years 2009 through 2014” for “fiscal years 1998 through 2003”.
+    Subsec. (b). [Pub. L. 110–315][/us/pl/110/315], § 914(2), substituted “fiscal years 2009 through 2014” for “fiscal years 1998 through 2003”.
 
  __Effective Date__ 
 
@@ -52,15 +52,15 @@
 ----------
 ----------
 
-[/us/pl/99/371/s212]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F371%2Fs212
-[/us/pl/105/244/s925]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2Fs925
+[/us/pl/99/371/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F371%2FtII
+[/us/pl/105/244/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2FtIX
 [/us/stat/112/1833]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F1833
-[/us/pl/110/315/s914]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2Fs914
+[/us/pl/110/315/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2FtIX
 [/us/stat/122/3455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3455
 [/us/usc/t20/s4360]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs4360
 [/us/pl/105/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244
-[/us/pl/110/315/s914/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2Fs914%2F1
-[/us/pl/110/315/s914/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2Fs914%2F2
+[/us/pl/110/315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315
+[/us/pl/110/315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315
 [/us/pl/105/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244
 [/us/pl/105/244/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2Fs3
 [/us/usc/t20/s1001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1001

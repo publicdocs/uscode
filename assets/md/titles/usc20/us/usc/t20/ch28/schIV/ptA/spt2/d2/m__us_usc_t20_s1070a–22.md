@@ -63,7 +63,7 @@
 
         Grant funds awarded under this division shall be used to supplement, and not supplant, other Federal, State, and local funds that would otherwise be expended to carry out activities assisted under this division.
 
-([Pub. L. 89–329, title IV, § 404B][/us/pl/89/329/s404B], as added [Pub. L. 105–244, title IV, § 403][/us/pl/105/244/s403], Oct. 7, 1998, [112 Stat. 1657][/us/stat/112/1657]; amended [Pub. L. 106–78, title VII, § 752(b)(8)][/us/pl/106/78/s752/b/8], Oct. 22, 1999, [113 Stat. 1169][/us/stat/113/1169]; [Pub. L. 110–315, title IV, § 404(b)][/us/pl/110/315/s404/b], Aug. 14, 2008, [122 Stat. 3207][/us/stat/122/3207].)
+([Pub. L. 89–329, title IV][/us/pl/89/329/tIV], § 404B, as added [Pub. L. 105–244, title IV][/us/pl/105/244/tIV], § 403, Oct. 7, 1998, [112 Stat. 1657][/us/stat/112/1657]; amended [Pub. L. 106–78, title VII][/us/pl/106/78/tVII], § 752(b)(8), Oct. 22, 1999, [113 Stat. 1169][/us/stat/113/1169]; [Pub. L. 110–315, title IV][/us/pl/110/315/tIV], § 404(b), Aug. 14, 2008, [122 Stat. 3207][/us/stat/122/3207].)
 
  __References in Text__ 
 
@@ -71,23 +71,23 @@
 
  __Prior Provisions__ 
 
-    A prior section 1070a–22, [Pub. L. 89–329, title IV, § 404B][/us/pl/89/329/s404B], as added [Pub. L. 102–325, title IV, § 402(a)(4)][/us/pl/102/325/s402/a/4], July 23, 1992, [106 Stat. 492][/us/stat/106/492]; amended [Pub. L. 103–208, § 2(b)(13)][/us/pl/103/208/s2/b/13], (14), Dec. 20, 1993, [107 Stat. 2459][/us/stat/107/2459], related to State eligibility and State plan, prior to the general amendment of this division by [Pub. L. 105–244][/us/pl/105/244].
+    A prior section 1070a–22, [Pub. L. 89–329, title IV][/us/pl/89/329/tIV], § 404B, as added [Pub. L. 102–325, title IV][/us/pl/102/325/tIV], § 402(a)(4), July 23, 1992, [106 Stat. 492][/us/stat/106/492]; amended [Pub. L. 103–208][/us/pl/103/208], § 2(b)(13), (14), Dec. 20, 1993, [107 Stat. 2459][/us/stat/107/2459], related to State eligibility and State plan, prior to the general amendment of this division by [Pub. L. 105–244][/us/pl/105/244].
 
  __Amendments__ 
 
-    2008—Subsec. (a). [Pub. L. 110–315, § 404(b)(1)][/us/pl/110/315/s404/b/1], added subsec. (a) and struck out former subsec. (a) which related to funding rules.
+    2008—Subsec. (a). [Pub. L. 110–315][/us/pl/110/315], § 404(b)(1), added subsec. (a) and struck out former subsec. (a) which related to funding rules.
 
-    Subsecs. (b), (c). [Pub. L. 110–315, § 404(b)(2)][/us/pl/110/315/s404/b/2], (3), redesignated subsecs. (c) and (d) as (b) and (c), respectively, and struck out former subsec. (b). Text read as follows: “Each eligible entity described in [section 1070a–21(c)(1) of this title][/us/usc/t20/s1070a–21/c/1], and each eligible entity described in [section 1070a–21(c)(2) of this title][/us/usc/t20/s1070a–21/c/2] that conducts a scholarship component under [section 1070a–25 of this title][/us/usc/t20/s1070a–25], shall use not less than 25 percent and not more than 50 percent of grant funds received under this division for the early intervention component of an eligible entity’s program under this division, except that the Secretary may waive the 50 percent limitation if the eligible entity demonstrates that the eligible entity has another means of providing the students with financial assistance that is described in the plan submitted under [section 1070a–23 of this title][/us/usc/t20/s1070a–23].”
+    Subsecs. (b), (c). [Pub. L. 110–315][/us/pl/110/315], § 404(b)(2), (3), redesignated subsecs. (c) and (d) as (b) and (c), respectively, and struck out former subsec. (b). Text read as follows: “Each eligible entity described in [section 1070a–21(c)(1) of this title][/us/usc/t20/s1070a–21/c/1], and each eligible entity described in [section 1070a–21(c)(2) of this title][/us/usc/t20/s1070a–21/c/2] that conducts a scholarship component under [section 1070a–25 of this title][/us/usc/t20/s1070a–25], shall use not less than 25 percent and not more than 50 percent of grant funds received under this division for the early intervention component of an eligible entity’s program under this division, except that the Secretary may waive the 50 percent limitation if the eligible entity demonstrates that the eligible entity has another means of providing the students with financial assistance that is described in the plan submitted under [section 1070a–23 of this title][/us/usc/t20/s1070a–23].”
 
-    Subsec. (d). [Pub. L. 110–315, § 404(b)(3)][/us/pl/110/315/s404/b/3], redesignated subsec. (g) as (d). Former subsec. (d) redesignated (c).
+    Subsec. (d). [Pub. L. 110–315][/us/pl/110/315], § 404(b)(3), redesignated subsec. (g) as (d). Former subsec. (d) redesignated (c).
 
-    Subsec. (d)(1)(B), (C). [Pub. L. 110–315, § 404(b)(4)][/us/pl/110/315/s404/b/4], inserted “and provide the option of continued services through the student’s first year of attendance at an institution of higher education to the extent the provision of such services was described in the eligible entity’s application for assistance under this division” after “grade level” in par. (B) and added par. (C).
+    Subsec. (d)(1)(B), (C). [Pub. L. 110–315][/us/pl/110/315], § 404(b)(4), inserted “and provide the option of continued services through the student’s first year of attendance at an institution of higher education to the extent the provision of such services was described in the eligible entity’s application for assistance under this division” after “grade level” in par. (B) and added par. (C).
 
-    Subsec. (e). [Pub. L. 110–315, § 404(b)(2)][/us/pl/110/315/s404/b/2], (5), added subsec. (e) and struck out former subsec. (e). Prior to amendment, text read as follows: “An eligible entity described in [section 1070a–21(c)(2) of this title][/us/usc/t20/s1070a–21/c/2] shall have a full-time program coordinator or a part-time program coordinator, whose primary responsibility is a project under [section 1070a–23 of this title][/us/usc/t20/s1070a–23].”
+    Subsec. (e). [Pub. L. 110–315][/us/pl/110/315], § 404(b)(2), (5), added subsec. (e) and struck out former subsec. (e). Prior to amendment, text read as follows: “An eligible entity described in [section 1070a–21(c)(2) of this title][/us/usc/t20/s1070a–21/c/2] shall have a full-time program coordinator or a part-time program coordinator, whose primary responsibility is a project under [section 1070a–23 of this title][/us/usc/t20/s1070a–23].”
 
-    Subsec. (f). [Pub. L. 110–315, § 404(b)(2)][/us/pl/110/315/s404/b/2], struck out subsec. (f). Text read as follows: “An eligible entity described in 1070a–21(c)(2) of this title shall ensure that the activities assisted under this division will not displace an employee or eliminate a position at a school assisted under this division, including a partial displacement such as a reduction in hours, wages or employment benefits.”
+    Subsec. (f). [Pub. L. 110–315][/us/pl/110/315], § 404(b)(2), struck out subsec. (f). Text read as follows: “An eligible entity described in 1070a–21(c)(2) of this title shall ensure that the activities assisted under this division will not displace an employee or eliminate a position at a school assisted under this division, including a partial displacement such as a reduction in hours, wages or employment benefits.”
 
-    Subsec. (g). [Pub. L. 110–315, § 404(b)(3)][/us/pl/110/315/s404/b/3], redesignated subsec. (g) as (d).
+    Subsec. (g). [Pub. L. 110–315][/us/pl/110/315], § 404(b)(3), redesignated subsec. (g) as (d).
 
     1999—Subsec. (g)(1)(A). [Pub. L. 106–78][/us/pl/106/78] substituted “Richard B. Russell National School Lunch Act” for “National School Lunch Act”.
 
@@ -106,35 +106,35 @@
 [/us/usc/t20/s1070a–21/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1070a%E2%80%9321%2Fc%2F2
 [/us/usc/t42/s1751]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1751
 [/us/usc/t42/s1437a/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1437a%2Fb%2F1
-[/us/pl/89/329/s404B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2Fs404B
-[/us/pl/105/244/s403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2Fs403
+[/us/pl/89/329/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2FtIV
+[/us/pl/105/244/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2FtIV
 [/us/stat/112/1657]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F1657
-[/us/pl/106/78/s752/b/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F78%2Fs752%2Fb%2F8
+[/us/pl/106/78/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F78%2FtVII
 [/us/stat/113/1169]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1169
-[/us/pl/110/315/s404/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2Fs404%2Fb
+[/us/pl/110/315/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2FtIV
 [/us/stat/122/3207]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3207
 [/us/act/1946-06-04/ch281]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-06-04%2Fch281
 [/us/stat/60/230]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F60%2F230
 [/us/usc/t42/s1751]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1751
-[/us/pl/89/329/s404B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2Fs404B
-[/us/pl/102/325/s402/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325%2Fs402%2Fa%2F4
+[/us/pl/89/329/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2FtIV
+[/us/pl/102/325/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325%2FtIV
 [/us/stat/106/492]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F492
-[/us/pl/103/208/s2/b/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F208%2Fs2%2Fb%2F13
+[/us/pl/103/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F208
 [/us/stat/107/2459]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F2459
 [/us/pl/105/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244
-[/us/pl/110/315/s404/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2Fs404%2Fb%2F1
-[/us/pl/110/315/s404/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2Fs404%2Fb%2F2
+[/us/pl/110/315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315
+[/us/pl/110/315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315
 [/us/usc/t20/s1070a–21/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1070a%E2%80%9321%2Fc%2F1
 [/us/usc/t20/s1070a–21/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1070a%E2%80%9321%2Fc%2F2
 [/us/usc/t20/s1070a–25]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1070a%E2%80%9325
 [/us/usc/t20/s1070a–23]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1070a%E2%80%9323
-[/us/pl/110/315/s404/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2Fs404%2Fb%2F3
-[/us/pl/110/315/s404/b/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2Fs404%2Fb%2F4
-[/us/pl/110/315/s404/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2Fs404%2Fb%2F2
+[/us/pl/110/315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315
+[/us/pl/110/315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315
+[/us/pl/110/315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315
 [/us/usc/t20/s1070a–21/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1070a%E2%80%9321%2Fc%2F2
 [/us/usc/t20/s1070a–23]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1070a%E2%80%9323
-[/us/pl/110/315/s404/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2Fs404%2Fb%2F2
-[/us/pl/110/315/s404/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2Fs404%2Fb%2F3
+[/us/pl/110/315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315
+[/us/pl/110/315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315
 [/us/pl/106/78]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F78
 
 

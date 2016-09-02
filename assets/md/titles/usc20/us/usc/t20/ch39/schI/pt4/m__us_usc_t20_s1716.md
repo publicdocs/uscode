@@ -17,7 +17,7 @@
 
     Nothing in this subchapter prohibits an educational agency from proposing, adopting, requiring, or implementing any plan of desegregation, otherwise lawful, that is at variance with the standards set out in this subchapter nor shall any court, department, or agency of the United States be prohibited from approving implementation of a plan which goes beyond what can be required under this subchapter, if such plan is voluntarily proposed by the appropriate educational agency.
 
-([Pub. L. 93–380, title II, § 217][/us/pl/93/380/s217], Aug. 21, 1974, [88 Stat. 518][/us/stat/88/518].)
+([Pub. L. 93–380, title II][/us/pl/93/380/tII], § 217, Aug. 21, 1974, [88 Stat. 518][/us/stat/88/518].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/93/380/s217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F380%2Fs217
+[/us/pl/93/380/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F380%2FtII
 [/us/stat/88/518]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F518
 
 

@@ -95,13 +95,13 @@
 
             (C) require the local educational agency to publicly report on the revision of policies, practices, and procedures described under subparagraph (A).
 
-([Pub. L. 91–230, title VI, § 618][/us/pl/91/230/s618], as added [Pub. L. 108–446, title I, § 101][/us/pl/108/446/s101], Dec. 3, 2004, [118 Stat. 2738][/us/stat/118/2738].)
+([Pub. L. 91–230, title VI][/us/pl/91/230/tVI], § 618, as added [Pub. L. 108–446, title I][/us/pl/108/446/tI], § 101, Dec. 3, 2004, [118 Stat. 2738][/us/stat/118/2738].)
 
  __Prior Provisions__ 
 
-    A prior section 1418, [Pub. L. 91–230, title VI, § 618][/us/pl/91/230/s618], as added [Pub. L. 105–17, title I, § 101][/us/pl/105/17/s101], June 4, 1997, [111 Stat. 101][/us/stat/111/101], related to program information, prior to the general amendment of subchapters I to IV of this chapter by [Pub. L. 108–446][/us/pl/108/446].
+    A prior section 1418, [Pub. L. 91–230, title VI][/us/pl/91/230/tVI], § 618, as added [Pub. L. 105–17, title I][/us/pl/105/17/tI], § 101, June 4, 1997, [111 Stat. 101][/us/stat/111/101], related to program information, prior to the general amendment of subchapters I to IV of this chapter by [Pub. L. 108–446][/us/pl/108/446].
 
-    Another prior section 1418, [Pub. L. 91–230, title VI, § 618][/us/pl/91/230/s618], as added [Pub. L. 94–142, § 5(a)][/us/pl/94/142/s5/a], Nov. 29, 1975, [89 Stat. 791][/us/stat/89/791]; amended [Pub. L. 98–199][/us/pl/98/199], §§ 3(b), 8, Dec. 2, 1983, [97 Stat. 1358][/us/stat/97/1358], 1360; [Pub. L. 99–457, title IV, § 406][/us/pl/99/457/s406], Oct. 8, 1986, [100 Stat. 1174][/us/stat/100/1174]; [Pub. L. 100–630, title I, § 102(h)][/us/pl/100/630/s102/h], Nov. 7, 1988, [102 Stat. 3295][/us/stat/102/3295]; [Pub. L. 101–476, title II, § 203][/us/pl/101/476/s203], Oct. 30, 1990, [104 Stat. 1112][/us/stat/104/1112], related to evaluation and program information, prior to the general amendment of subchapters I to IV of this chapter by [Pub. L. 105–17][/us/pl/105/17].
+    Another prior section 1418, [Pub. L. 91–230, title VI][/us/pl/91/230/tVI], § 618, as added [Pub. L. 94–142][/us/pl/94/142], § 5(a), Nov. 29, 1975, [89 Stat. 791][/us/stat/89/791]; amended [Pub. L. 98–199][/us/pl/98/199], §§ 3(b), 8, Dec. 2, 1983, [97 Stat. 1358][/us/stat/97/1358], 1360; [Pub. L. 99–457, title IV][/us/pl/99/457/tIV], § 406, Oct. 8, 1986, [100 Stat. 1174][/us/stat/100/1174]; [Pub. L. 100–630, title I][/us/pl/100/630/tI], § 102(h), Nov. 7, 1988, [102 Stat. 3295][/us/stat/102/3295]; [Pub. L. 101–476, title II][/us/pl/101/476/tII], § 203, Oct. 30, 1990, [104 Stat. 1112][/us/stat/104/1112], related to evaluation and program information, prior to the general amendment of subchapters I to IV of this chapter by [Pub. L. 105–17][/us/pl/105/17].
 
 ----------
 
@@ -116,23 +116,23 @@
 [/us/usc/t20/s1432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1432
 [/us/usc/t20/s1401/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1401%2F3
 [/us/usc/t20/s1413/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1413%2Ff
-[/us/pl/91/230/s618]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F230%2Fs618
-[/us/pl/108/446/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F446%2Fs101
+[/us/pl/91/230/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F230%2FtVI
+[/us/pl/108/446/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F446%2FtI
 [/us/stat/118/2738]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F2738
-[/us/pl/91/230/s618]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F230%2Fs618
-[/us/pl/105/17/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F17%2Fs101
+[/us/pl/91/230/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F230%2FtVI
+[/us/pl/105/17/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F17%2FtI
 [/us/stat/111/101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F101
 [/us/pl/108/446]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F446
-[/us/pl/91/230/s618]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F230%2Fs618
-[/us/pl/94/142/s5/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F142%2Fs5%2Fa
+[/us/pl/91/230/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F230%2FtVI
+[/us/pl/94/142]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F142
 [/us/stat/89/791]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F791
 [/us/pl/98/199]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F199
 [/us/stat/97/1358]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F1358
-[/us/pl/99/457/s406]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F457%2Fs406
+[/us/pl/99/457/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F457%2FtIV
 [/us/stat/100/1174]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1174
-[/us/pl/100/630/s102/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F630%2Fs102%2Fh
+[/us/pl/100/630/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F630%2FtI
 [/us/stat/102/3295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3295
-[/us/pl/101/476/s203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F476%2Fs203
+[/us/pl/101/476/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F476%2FtII
 [/us/stat/104/1112]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1112
 [/us/pl/105/17]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F17
 

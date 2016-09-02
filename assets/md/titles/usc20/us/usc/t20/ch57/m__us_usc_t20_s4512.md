@@ -33,11 +33,11 @@
 
         (3) The Executive Secretary shall be compensated at the rate specified for employees placed in grade GS–18 of the General Schedule set forth in [section 5332 of title 5][/us/usc/t5/s5332].
 
-([Pub. L. 99–500, § 101(b)][/us/pl/99/500/s101/b] \[title VIII, § 813\], Oct. 18, 1986, [100 Stat. 1783–39][/us/stat/100/1783-39], 1783–80, and [Pub. L. 99–591, § 101(b)][/us/pl/99/591/s101/b] \[title VIII, § 813\], Oct. 30, 1986, [100 Stat. 3341–39][/us/stat/100/3341-39], 3341–80; [Pub. L. 101–208, § 2][/us/pl/101/208/s2], Dec. 7, 1989, [103 Stat. 1836][/us/stat/103/1836]; [Pub. L. 101–557, title V, § 501][/us/pl/101/557/s501], Nov. 15, 1990, [104 Stat. 2771][/us/stat/104/2771]; [Pub. L. 101–589, title II, § 253][/us/pl/101/589/s253], Nov. 16, 1990, [104 Stat. 2895][/us/stat/104/2895].)
+([Pub. L. 99–500][/us/pl/99/500], § 101(b) \[title VIII, § 813\], Oct. 18, 1986, [100 Stat. 1783–39][/us/stat/100/1783-39], 1783–80, and [Pub. L. 99–591][/us/pl/99/591], § 101(b) \[title VIII, § 813\], Oct. 30, 1986, [100 Stat. 3341–39][/us/stat/100/3341-39], 3341–80; [Pub. L. 101–208][/us/pl/101/208], § 2, Dec. 7, 1989, [103 Stat. 1836][/us/stat/103/1836]; [Pub. L. 101–557, title V][/us/pl/101/557/tV], § 501, Nov. 15, 1990, [104 Stat. 2771][/us/stat/104/2771]; [Pub. L. 101–589, title II][/us/pl/101/589/tII], § 253, Nov. 16, 1990, [104 Stat. 2895][/us/stat/104/2895].)
 
  __References in Text__ 
 
-    [Section 5532 of title 5][/us/usc/t5/s5532], referred to in subsec. (a)(4), was repealed by [Pub. L. 106–65, div. A, title VI, § 651(a)(1)][/us/pl/106/65/s651/a/1], Oct. 5, 1999, [113 Stat. 664][/us/stat/113/664].
+    [Section 5532 of title 5][/us/usc/t5/s5532], referred to in subsec. (a)(4), was repealed by [Pub. L. 106–65, div. A, title VI][/us/pl/106/65/dA/tVI], § 651(a)(1), Oct. 5, 1999, [113 Stat. 664][/us/stat/113/664].
 
  __Codification__ 
 
@@ -65,18 +65,18 @@
 ----------
 
 [/us/usc/t5/s5332]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5332
-[/us/pl/99/500/s101/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F500%2Fs101%2Fb
+[/us/pl/99/500]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F500
 [/us/stat/100/1783-39]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1783-39
-[/us/pl/99/591/s101/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F591%2Fs101%2Fb
+[/us/pl/99/591]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F591
 [/us/stat/100/3341-39]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3341-39
-[/us/pl/101/208/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F208%2Fs2
+[/us/pl/101/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F208
 [/us/stat/103/1836]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1836
-[/us/pl/101/557/s501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F557%2Fs501
+[/us/pl/101/557/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F557%2FtV
 [/us/stat/104/2771]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F2771
-[/us/pl/101/589/s253]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F589%2Fs253
+[/us/pl/101/589/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F589%2FtII
 [/us/stat/104/2895]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F2895
 [/us/usc/t5/s5532]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5532
-[/us/pl/106/65/s651/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2Fs651%2Fa%2F1
+[/us/pl/106/65/dA/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2FdA%2FtVI
 [/us/stat/113/664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F664
 [/us/pl/99/591]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F591
 [/us/pl/99/500]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F500

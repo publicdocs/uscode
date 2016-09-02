@@ -83,13 +83,13 @@
 
         There are authorized to be appropriated to carry out this part such sums as may be necessary for fiscal year 2009 and each of the five succeeding fiscal years.
 
-([Pub. L. 89–329, title VIII, § 821][/us/pl/89/329/s821], as added [Pub. L. 110–315, title VIII, § 801][/us/pl/110/315/s801], Aug. 14, 2008, [122 Stat. 3408][/us/stat/122/3408]; amended [Pub. L. 111–39, title VIII, § 801(6)][/us/pl/111/39/s801/6], July 1, 2009, [123 Stat. 1956][/us/stat/123/1956].)
+([Pub. L. 89–329, title VIII][/us/pl/89/329/tVIII], § 821, as added [Pub. L. 110–315, title VIII][/us/pl/110/315/tVIII], § 801, Aug. 14, 2008, [122 Stat. 3408][/us/stat/122/3408]; amended [Pub. L. 111–39, title VIII][/us/pl/111/39/tVIII], § 801(6), July 1, 2009, [123 Stat. 1956][/us/stat/123/1956].)
 
  __Amendments__ 
 
-    2009—Subsec. (a)(1). [Pub. L. 111–39, § 801(6)(A)][/us/pl/111/39/s801/6/A], substituted “subsection (f)” for “subsection (g)”.
+    2009—Subsec. (a)(1). [Pub. L. 111–39][/us/pl/111/39], § 801(6)(A), substituted “subsection (f)” for “subsection (g)”.
 
-    Subsec. (c)(1)(B). [Pub. L. 111–39, § 801(6)(B)][/us/pl/111/39/s801/6/B], substituted “in a reasonable” for “within a reasonable”.
+    Subsec. (c)(1)(B). [Pub. L. 111–39][/us/pl/111/39], § 801(6)(B), substituted “in a reasonable” for “within a reasonable”.
 
  __Effective Date of 2009 Amendment__ 
 
@@ -102,13 +102,13 @@
 ----------
 ----------
 
-[/us/pl/89/329/s821]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2Fs821
-[/us/pl/110/315/s801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2Fs801
+[/us/pl/89/329/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2FtVIII
+[/us/pl/110/315/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2FtVIII
 [/us/stat/122/3408]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3408
-[/us/pl/111/39/s801/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F39%2Fs801%2F6
+[/us/pl/111/39/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F39%2FtVIII
 [/us/stat/123/1956]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1956
-[/us/pl/111/39/s801/6/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F39%2Fs801%2F6%2FA
-[/us/pl/111/39/s801/6/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F39%2Fs801%2F6%2FB
+[/us/pl/111/39]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F39
+[/us/pl/111/39]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F39
 [/us/pl/111/39]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F39
 [/us/pl/110/315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315
 [/us/pl/111/39/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F39%2Fs3

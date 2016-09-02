@@ -13,9 +13,9 @@
 
 [Previous](./../../../../..//us/usc/t20/ch68/schVI/m__us_usc_t20_ch68_schVI.md) | [Next](./../../../../..//us/usc/t20/ch68/schVII/m__us_usc_t20_ch68_schVII.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs5951)
 
-## § 5951. Repealed. [Pub. L. 107–110, title X, § 1011(4)(B)][/us/pl/107/110/s1011/4/B], Jan. 8, 2002, [115 Stat. 1986][/us/stat/115/1986]
+## § 5951. Repealed. [Pub. L. 107–110, title X][/us/pl/107/110/tX], § 1011(4)(B), Jan. 8, 2002, [115 Stat. 1986][/us/stat/115/1986]
 
-    Section, [Pub. L. 103–227, title VI, § 601][/us/pl/103/227/s601], Mar. 31, 1994, [108 Stat. 200][/us/stat/108/200]; [Pub. L. 105–277, div. A, § 101(f)][/us/pl/105/277/s101/f] \[title VIII, § 301(e)\], div. G, subdiv. A, title XIII, § 1335(e), Oct. 21, 1998, [112 Stat. 2681–337][/us/stat/112/2681-337], 2681–410, 2681–788, related to International Education Program.
+    Section, [Pub. L. 103–227, title VI][/us/pl/103/227/tVI], § 601, Mar. 31, 1994, [108 Stat. 200][/us/stat/108/200]; [Pub. L. 105–277, div. A][/us/pl/105/277/dA], § 101(f) \[title VIII, § 301(e)\], div. G, subdiv. A, title XIII, § 1335(e), Oct. 21, 1998, [112 Stat. 2681–337][/us/stat/112/2681-337], 2681–410, 2681–788, related to International Education Program.
 
  __Effective Date of Repeal__ 
 
@@ -28,11 +28,11 @@
 ----------
 ----------
 
-[/us/pl/107/110/s1011/4/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F110%2Fs1011%2F4%2FB
+[/us/pl/107/110/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F110%2FtX
 [/us/stat/115/1986]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F1986
-[/us/pl/103/227/s601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F227%2Fs601
+[/us/pl/103/227/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F227%2FtVI
 [/us/stat/108/200]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F200
-[/us/pl/105/277/s101/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs101%2Ff
+[/us/pl/105/277/dA]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2FdA
 [/us/stat/112/2681-337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681-337
 [/us/pl/107/110/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F110%2Fs5
 [/us/usc/t20/s6301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs6301

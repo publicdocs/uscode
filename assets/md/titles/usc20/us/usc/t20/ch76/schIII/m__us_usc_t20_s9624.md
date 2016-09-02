@@ -33,7 +33,7 @@
 
         Amounts made available under this section shall remain available until expended.
 
-([Pub. L. 107–279, title III, § 305][/us/pl/107/279/s305], formerly § 303, Nov. 5, 2002, [116 Stat. 1982][/us/stat/116/1982]; renumbered § 305, [Pub. L. 107–279, title IV, § 401(b)][/us/pl/107/279/s401/b], Nov. 5, 2002, [116 Stat. 1983][/us/stat/116/1983].)
+([Pub. L. 107–279, title III][/us/pl/107/279/tIII], § 305, formerly § 303, Nov. 5, 2002, [116 Stat. 1982][/us/stat/116/1982]; renumbered § 305, [Pub. L. 107–279, title IV][/us/pl/107/279/tIV], § 401(b), Nov. 5, 2002, [116 Stat. 1983][/us/stat/116/1983].)
 
 ----------
 
@@ -44,9 +44,9 @@
 
 [/us/usc/t20/s9621]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs9621
 [/us/usc/t20/s9622]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs9622
-[/us/pl/107/279/s305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F279%2Fs305
+[/us/pl/107/279/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F279%2FtIII
 [/us/stat/116/1982]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1982
-[/us/pl/107/279/s401/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F279%2Fs401%2Fb
+[/us/pl/107/279/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F279%2FtIV
 [/us/stat/116/1983]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1983
 
 

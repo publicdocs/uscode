@@ -53,13 +53,13 @@
 
         There is authorized to be appropriated $1,000,000 for fiscal year 1991 and such sums as may be necessary for succeeding fiscal years to carry out this section and [section 80q–9a of this title][/us/usc/t20/s80q–9a].
 
-([Pub. L. 101–185, § 11][/us/pl/101/185/s11], Nov. 28, 1989, [103 Stat. 1343][/us/stat/103/1343]; [Pub. L. 104–278, § 3][/us/pl/104/278/s3], Oct. 9, 1996, [110 Stat. 3355][/us/stat/110/3355].)
+([Pub. L. 101–185][/us/pl/101/185], § 11, Nov. 28, 1989, [103 Stat. 1343][/us/stat/103/1343]; [Pub. L. 104–278][/us/pl/104/278], § 3, Oct. 9, 1996, [110 Stat. 3355][/us/stat/110/3355].)
 
  __Amendments__ 
 
-    1996—Subsec. (a). [Pub. L. 104–278, § 3(a)][/us/pl/104/278/s3/a], designated existing provisions as par. (1), added pars. (2) and (3), and redesignated former pars. (1) and (2) as subpars. (A) and (B), respectively, of par. (1).
+    1996—Subsec. (a). [Pub. L. 104–278][/us/pl/104/278], § 3(a), designated existing provisions as par. (1), added pars. (2) and (3), and redesignated former pars. (1) and (2) as subpars. (A) and (B), respectively, of par. (1).
 
-    Subsec. (f). [Pub. L. 104–278, § 3(b)][/us/pl/104/278/s3/b], inserted “and [section 80q–9a of this title][/us/usc/t20/s80q–9a]” after “to carry out this section”.
+    Subsec. (f). [Pub. L. 104–278][/us/pl/104/278], § 3(b), inserted “and [section 80q–9a of this title][/us/usc/t20/s80q–9a]” after “to carry out this section”.
 
 ----------
 
@@ -69,12 +69,12 @@
 ----------
 
 [/us/usc/t20/s80q–9a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs80q%E2%80%939a
-[/us/pl/101/185/s11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F185%2Fs11
+[/us/pl/101/185]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F185
 [/us/stat/103/1343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1343
-[/us/pl/104/278/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F278%2Fs3
+[/us/pl/104/278]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F278
 [/us/stat/110/3355]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3355
-[/us/pl/104/278/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F278%2Fs3%2Fa
-[/us/pl/104/278/s3/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F278%2Fs3%2Fb
+[/us/pl/104/278]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F278
+[/us/pl/104/278]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F278
 [/us/usc/t20/s80q–9a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs80q%E2%80%939a
 
 

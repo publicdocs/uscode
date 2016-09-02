@@ -57,7 +57,7 @@
 
         (3) Partnerships under this subsection may include local educational agencies, business concerns, nonprofit private organizations, institutions of higher education, professional mathematic and scientific associations, museums, libraries, educational television stations, and, if the State so desires, appropriate State agencies.
 
-([Pub. L. 98–377, title III, § 305][/us/pl/98/377/s305], Aug. 11, 1984, [98 Stat. 1284][/us/stat/98/1284]; [Pub. L. 100–418, title VI, § 6031(b)(2)][/us/pl/100/418/s6031/b/2], Aug. 23, 1988, [102 Stat. 1483][/us/stat/102/1483].)
+([Pub. L. 98–377, title III][/us/pl/98/377/tIII], § 305, Aug. 11, 1984, [98 Stat. 1284][/us/stat/98/1284]; [Pub. L. 100–418, title VI][/us/pl/100/418/tVI], § 6031(b)(2), Aug. 23, 1988, [102 Stat. 1483][/us/stat/102/1483].)
 
  __Amendments__ 
 
@@ -70,9 +70,9 @@
 ----------
 ----------
 
-[/us/pl/98/377/s305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F377%2Fs305
+[/us/pl/98/377/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F377%2FtIII
 [/us/stat/98/1284]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F1284
-[/us/pl/100/418/s6031/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2Fs6031%2Fb%2F2
+[/us/pl/100/418/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2FtVI
 [/us/stat/102/1483]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1483
 [/us/pl/100/418]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418
 

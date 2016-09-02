@@ -17,7 +17,7 @@
 
     The Harry S Truman Scholarship Program as authorized by this chapter shall be the sole Federal memorial to President Harry S Truman.
 
-([Pub. L. 93–642, § 4][/us/pl/93/642/s4], Jan. 4, 1975, [88 Stat. 2277][/us/stat/88/2277].)
+([Pub. L. 93–642][/us/pl/93/642], § 4, Jan. 4, 1975, [88 Stat. 2277][/us/stat/88/2277].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/93/642/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F642%2Fs4
+[/us/pl/93/642]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F642
 [/us/stat/88/2277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F2277
 
 

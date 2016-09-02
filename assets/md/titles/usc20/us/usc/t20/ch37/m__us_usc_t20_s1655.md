@@ -17,7 +17,7 @@
 
     The rules of evidence required to prove that State or local authorities are practicing racial discrimination in assigning students to public schools shall be uniform throughout the United States.
 
-([Pub. L. 92–318, title VIII, § 805][/us/pl/92/318/s805], June 23, 1972, [86 Stat. 372][/us/stat/86/372].)
+([Pub. L. 92–318, title VIII][/us/pl/92/318/tVIII], § 805, June 23, 1972, [86 Stat. 372][/us/stat/86/372].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/92/318/s805]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F318%2Fs805
+[/us/pl/92/318/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F318%2FtVIII
 [/us/stat/86/372]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F372
 
 

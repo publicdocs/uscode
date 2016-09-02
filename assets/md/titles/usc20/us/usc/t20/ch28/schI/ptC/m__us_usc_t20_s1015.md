@@ -247,31 +247,31 @@
 
         (2) information about higher education programs or student financial assistance available through a database or website of the Department.
 
-([Pub. L. 89–329, title I, § 131][/us/pl/89/329/s131], as added [Pub. L. 105–244, title I, § 101(a)][/us/pl/105/244/s101/a], Oct. 7, 1998, [112 Stat. 1602][/us/stat/112/1602]; amended [Pub. L. 110–315, title I][/us/pl/110/315], §§ 103(b)(1), 110, Aug. 14, 2008, [122 Stat. 3088][/us/stat/122/3088], 3094; [Pub. L. 111–39, title I, § 101(b)(3)][/us/pl/111/39/s101/b/3], July 1, 2009, [123 Stat. 1935][/us/stat/123/1935].)
+([Pub. L. 89–329, title I][/us/pl/89/329/tI], § 131, as added [Pub. L. 105–244, title I][/us/pl/105/244/tI], § 101(a), Oct. 7, 1998, [112 Stat. 1602][/us/stat/112/1602]; amended [Pub. L. 110–315, title I][/us/pl/110/315/tI], §§ 103(b)(1), 110, Aug. 14, 2008, [122 Stat. 3088][/us/stat/122/3088], 3094; [Pub. L. 111–39, title I][/us/pl/111/39/tI], § 101(b)(3), July 1, 2009, [123 Stat. 1935][/us/stat/123/1935].)
 
  __Prior Provisions__ 
 
-    A prior section 1015, [Pub. L. 89–329, title I, § 131][/us/pl/89/329/s131], as added [Pub. L. 102–325, title I, § 101][/us/pl/102/325/s101], July 23, 1992, [106 Stat. 465][/us/stat/106/465], authorized grants to eligible partnerships for education telecommunications activities, prior to the general amendment of this subchapter by [Pub. L. 105–244][/us/pl/105/244].
+    A prior section 1015, [Pub. L. 89–329, title I][/us/pl/89/329/tI], § 131, as added [Pub. L. 102–325, title I][/us/pl/102/325/tI], § 101, July 23, 1992, [106 Stat. 465][/us/stat/106/465], authorized grants to eligible partnerships for education telecommunications activities, prior to the general amendment of this subchapter by [Pub. L. 105–244][/us/pl/105/244].
 
-    Another prior section 1015, [Pub. L. 89–329, title I, § 115][/us/pl/89/329/s115], as added [Pub. L. 99–498, title I, § 101][/us/pl/99/498/s101], Oct. 17, 1986, [100 Stat. 1285][/us/stat/100/1285], authorized appropriations for former part A of this subchapter, prior to the general amendment of this subchapter by [Pub. L. 102–325][/us/pl/102/325].
+    Another prior section 1015, [Pub. L. 89–329, title I][/us/pl/89/329/tI], § 115, as added [Pub. L. 99–498, title I][/us/pl/99/498/tI], § 101, Oct. 17, 1986, [100 Stat. 1285][/us/stat/100/1285], authorized appropriations for former part A of this subchapter, prior to the general amendment of this subchapter by [Pub. L. 102–325][/us/pl/102/325].
 
-    Another prior section 1015, [Pub. L. 89–329, title I, § 115][/us/pl/89/329/s115], as added [Pub. L. 96–374, title I, § 101(a)][/us/pl/96/374/s101/a], Oct. 3, 1980, [94 Stat. 1380][/us/stat/94/1380], related to continuing education, prior to the general amendment of this subchapter by [Pub. L. 99–498][/us/pl/99/498].
+    Another prior section 1015, [Pub. L. 89–329, title I][/us/pl/89/329/tI], § 115, as added [Pub. L. 96–374, title I][/us/pl/96/374/tI], § 101(a), Oct. 3, 1980, [94 Stat. 1380][/us/stat/94/1380], related to continuing education, prior to the general amendment of this subchapter by [Pub. L. 99–498][/us/pl/99/498].
 
-    Another prior section 1015, [Pub. L. 89–329, title I, § 131][/us/pl/89/329/s131], as added [Pub. L. 94–482, title I, § 101(g)(3)][/us/pl/94/482/s101/g/3], Oct. 12, 1976, [90 Stat. 2086][/us/stat/90/2086], set out the Congressional findings with regard to the lifelong learning program, prior to the general amendment of this subchapter by [Pub. L. 96–374][/us/pl/96/374].
+    Another prior section 1015, [Pub. L. 89–329, title I][/us/pl/89/329/tI], § 131, as added [Pub. L. 94–482, title I][/us/pl/94/482/tI], § 101(g)(3), Oct. 12, 1976, [90 Stat. 2086][/us/stat/90/2086], set out the Congressional findings with regard to the lifelong learning program, prior to the general amendment of this subchapter by [Pub. L. 96–374][/us/pl/96/374].
 
-    A prior [section 131 of Pub. L. 89–329][/us/pl/89/329/s131], title I, as added [Pub. L. 99–498, title I, § 101][/us/pl/99/498/s101], Oct. 17, 1986, [100 Stat. 1286][/us/stat/100/1286], related to National Advisory Council on Continuing Education and was classified to [section 1017 of this title][/us/usc/t20/s1017], prior to the general amendment of this subchapter by [Pub. L. 102–325][/us/pl/102/325].
+    A prior [section 131 of Pub. L. 89–329][/us/pl/89/329/s131], title I, as added [Pub. L. 99–498, title I][/us/pl/99/498/tI], § 101, Oct. 17, 1986, [100 Stat. 1286][/us/stat/100/1286], related to National Advisory Council on Continuing Education and was classified to [section 1017 of this title][/us/usc/t20/s1017], prior to the general amendment of this subchapter by [Pub. L. 102–325][/us/pl/102/325].
 
  __Amendments__ 
 
     2009—Subsec. (a)(3)(A)(iii)(I). [Pub. L. 111–39][/us/pl/111/39] substituted “section 1078(a)(2)(C)(ii)” for “section 1078(a)(2)(C)(i)”.
 
-    2008—Subsec. (a)(3)(B). [Pub. L. 110–315, § 103(b)(1)][/us/pl/110/315/s103/b/1], substituted “authorizing committees” for “Committee on Labor and Human Resources of the Senate and the Committee on Education and the Workforce of the House of Representatives”.
+    2008—Subsec. (a)(3)(B). [Pub. L. 110–315][/us/pl/110/315], § 103(b)(1), substituted “authorizing committees” for “Committee on Labor and Human Resources of the Senate and the Committee on Education and the Workforce of the House of Representatives”.
 
-    Subsecs. (d), (e). [Pub. L. 110–315, § 110(a)][/us/pl/110/315/s110/a], added subsecs. (d) and (e) and struck out former subsec. (d), which required the Secretary to survey student aid recipients on a regular cycle, but not less than once every 3 years.
+    Subsecs. (d), (e). [Pub. L. 110–315][/us/pl/110/315], § 110(a), added subsecs. (d) and (e) and struck out former subsec. (d), which required the Secretary to survey student aid recipients on a regular cycle, but not less than once every 3 years.
 
-    Subsecs. (f), (g). [Pub. L. 110–315, § 110(b)][/us/pl/110/315/s110/b], added subsecs. (f) and (g).
+    Subsecs. (f), (g). [Pub. L. 110–315][/us/pl/110/315], § 110(b), added subsecs. (f) and (g).
 
-    Subsec. (h). [Pub. L. 110–315, § 110(c)][/us/pl/110/315/s110/c], added subsec. (h).
+    Subsec. (h). [Pub. L. 110–315][/us/pl/110/315], § 110(c), added subsec. (h).
 
  __Change of Name__ 
 
@@ -283,7 +283,7 @@
 
  __Student-Related Debt Study Required__ 
 
-    [Pub. L. 105–244, title VIII, § 803][/us/pl/105/244/s803], Oct. 7, 1998, [112 Stat. 1805][/us/stat/112/1805], which required the Secretary of Education to conduct a study to analyze the distribution and increase in student-related debt, submit a report to congressional committees, and include certain information as part of the comparative information provided to families about the costs of higher education, was repealed by [Pub. L. 110–315, title IX, § 931(1)][/us/pl/110/315/s931/1], Aug. 14, 2008, [122 Stat. 3456][/us/stat/122/3456].
+    [Pub. L. 105–244, title VIII][/us/pl/105/244/tVIII], § 803, Oct. 7, 1998, [112 Stat. 1805][/us/stat/112/1805], which required the Secretary of Education to conduct a study to analyze the distribution and increase in student-related debt, submit a report to congressional committees, and include certain information as part of the comparative information provided to families about the costs of higher education, was repealed by [Pub. L. 110–315, title IX][/us/pl/110/315/tIX], § 931(1), Aug. 14, 2008, [122 Stat. 3456][/us/stat/122/3456].
 
 ----------
 
@@ -297,46 +297,46 @@
 [/us/usc/t20/s1094]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1094
 [/us/usc/t20/s1091c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1091c
 [/us/usc/t20/s1015a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1015a
-[/us/pl/89/329/s131]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2Fs131
-[/us/pl/105/244/s101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2Fs101%2Fa
+[/us/pl/89/329/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2FtI
+[/us/pl/105/244/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2FtI
 [/us/stat/112/1602]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F1602
-[/us/pl/110/315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315
+[/us/pl/110/315/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2FtI
 [/us/stat/122/3088]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3088
-[/us/pl/111/39/s101/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F39%2Fs101%2Fb%2F3
+[/us/pl/111/39/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F39%2FtI
 [/us/stat/123/1935]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1935
-[/us/pl/89/329/s131]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2Fs131
-[/us/pl/102/325/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325%2Fs101
+[/us/pl/89/329/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2FtI
+[/us/pl/102/325/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325%2FtI
 [/us/stat/106/465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F465
 [/us/pl/105/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244
-[/us/pl/89/329/s115]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2Fs115
-[/us/pl/99/498/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F498%2Fs101
+[/us/pl/89/329/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2FtI
+[/us/pl/99/498/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F498%2FtI
 [/us/stat/100/1285]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1285
 [/us/pl/102/325]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325
-[/us/pl/89/329/s115]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2Fs115
-[/us/pl/96/374/s101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F374%2Fs101%2Fa
+[/us/pl/89/329/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2FtI
+[/us/pl/96/374/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F374%2FtI
 [/us/stat/94/1380]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F1380
 [/us/pl/99/498]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F498
-[/us/pl/89/329/s131]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2Fs131
-[/us/pl/94/482/s101/g/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F482%2Fs101%2Fg%2F3
+[/us/pl/89/329/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2FtI
+[/us/pl/94/482/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F482%2FtI
 [/us/stat/90/2086]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2086
 [/us/pl/96/374]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F374
 [/us/pl/89/329/s131]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2Fs131
-[/us/pl/99/498/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F498%2Fs101
+[/us/pl/99/498/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F498%2FtI
 [/us/stat/100/1286]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1286
 [/us/usc/t20/s1017]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1017
 [/us/pl/102/325]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325
 [/us/pl/111/39]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F39
-[/us/pl/110/315/s103/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2Fs103%2Fb%2F1
-[/us/pl/110/315/s110/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2Fs110%2Fa
-[/us/pl/110/315/s110/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2Fs110%2Fb
-[/us/pl/110/315/s110/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2Fs110%2Fc
+[/us/pl/110/315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315
+[/us/pl/110/315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315
+[/us/pl/110/315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315
+[/us/pl/110/315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315
 [/us/pl/111/39]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F39
 [/us/pl/110/315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315
 [/us/pl/111/39/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F39%2Fs3
 [/us/usc/t20/s1001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1001
-[/us/pl/105/244/s803]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2Fs803
+[/us/pl/105/244/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2FtVIII
 [/us/stat/112/1805]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F1805
-[/us/pl/110/315/s931/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2Fs931%2F1
+[/us/pl/110/315/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2FtIX
 [/us/stat/122/3456]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3456
 
 

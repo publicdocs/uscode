@@ -33,17 +33,17 @@
 
         Nothing in this section shall be construed to prohibit an institution from making payments of varying amounts from a supplemental grant to a student during an academic year to cover costs for a period which are not applicable to other periods of such academic year.
 
-([Pub. L. 89–329, title IV, § 413B][/us/pl/89/329/s413B], as added [Pub. L. 99–498, title IV, § 401(a)][/us/pl/99/498/s401/a], Oct. 17, 1986, [100 Stat. 1328][/us/stat/100/1328]; amended [Pub. L. 102–325, title IV, § 403(c)][/us/pl/102/325/s403/c], July 23, 1992, [106 Stat. 505][/us/stat/106/505].)
+([Pub. L. 89–329, title IV][/us/pl/89/329/tIV], § 413B, as added [Pub. L. 99–498, title IV][/us/pl/99/498/tIV], § 401(a), Oct. 17, 1986, [100 Stat. 1328][/us/stat/100/1328]; amended [Pub. L. 102–325, title IV][/us/pl/102/325/tIV], § 403(c), July 23, 1992, [106 Stat. 505][/us/stat/106/505].)
 
  __Prior Provisions__ 
 
-    A prior section 1070b–1, [Pub. L. 89–329, title IV, § 413B][/us/pl/89/329/s413B], as added [Pub. L. 92–318, title I, § 131(b)(1)][/us/pl/92/318/s131/b/1], June 23, 1972, [86 Stat. 252][/us/stat/86/252]; amended [Pub. L. 96–374, title IV, § 403(c)][/us/pl/96/374/s403/c], Oct. 3, 1980, [94 Stat. 1405][/us/stat/94/1405], related to amount and duration of supplemental educational opportunity grants, prior to the general revision of this part by [Pub. L. 99–498][/us/pl/99/498].
+    A prior section 1070b–1, [Pub. L. 89–329, title IV][/us/pl/89/329/tIV], § 413B, as added [Pub. L. 92–318, title I][/us/pl/92/318/tI], § 131(b)(1), June 23, 1972, [86 Stat. 252][/us/stat/86/252]; amended [Pub. L. 96–374, title IV][/us/pl/96/374/tIV], § 403(c), Oct. 3, 1980, [94 Stat. 1405][/us/stat/94/1405], related to amount and duration of supplemental educational opportunity grants, prior to the general revision of this part by [Pub. L. 99–498][/us/pl/99/498].
 
  __Amendments__ 
 
-    1992—Subsec. (a)(1). [Pub. L. 102–325, § 403(c)(1)][/us/pl/102/325/s403/c/1], substituted “Except as provided in paragraph (3), from” for “From” in introductory provisions and inserted “or in a program of study abroad that is approved for credit by the institution at which the student is enrolled” after “course of study at the institution” in subpar. (A).
+    1992—Subsec. (a)(1). [Pub. L. 102–325][/us/pl/102/325], § 403(c)(1), substituted “Except as provided in paragraph (3), from” for “From” in introductory provisions and inserted “or in a program of study abroad that is approved for credit by the institution at which the student is enrolled” after “course of study at the institution” in subpar. (A).
 
-    Subsec. (a)(3). [Pub. L. 102–325, § 403(c)(2)][/us/pl/102/325/s403/c/2], added par. (3).
+    Subsec. (a)(3). [Pub. L. 102–325][/us/pl/102/325], § 403(c)(2), added par. (3).
 
 ----------
 
@@ -54,18 +54,18 @@
 
 [/us/usc/t20/s1091]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1091
 [/us/usc/t20/s1070b–2/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1070b%E2%80%932%2Fc
-[/us/pl/89/329/s413B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2Fs413B
-[/us/pl/99/498/s401/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F498%2Fs401%2Fa
+[/us/pl/89/329/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2FtIV
+[/us/pl/99/498/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F498%2FtIV
 [/us/stat/100/1328]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1328
-[/us/pl/102/325/s403/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325%2Fs403%2Fc
+[/us/pl/102/325/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325%2FtIV
 [/us/stat/106/505]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F505
-[/us/pl/89/329/s413B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2Fs413B
-[/us/pl/92/318/s131/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F318%2Fs131%2Fb%2F1
+[/us/pl/89/329/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2FtIV
+[/us/pl/92/318/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F318%2FtI
 [/us/stat/86/252]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F252
-[/us/pl/96/374/s403/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F374%2Fs403%2Fc
+[/us/pl/96/374/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F374%2FtIV
 [/us/stat/94/1405]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F1405
 [/us/pl/99/498]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F498
-[/us/pl/102/325/s403/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325%2Fs403%2Fc%2F1
-[/us/pl/102/325/s403/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325%2Fs403%2Fc%2F2
+[/us/pl/102/325]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325
+[/us/pl/102/325]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325
 
 

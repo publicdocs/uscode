@@ -37,7 +37,7 @@
 
         If a recipient fails to comply with the terms and conditions of a compliance agreement under this section, the Secretary may consider that compliance agreement to be no longer in effect, and the Secretary may take any action authorized by law with respect to the recipient.
 
-([Pub. L. 90–247, title IV, § 457][/us/pl/90/247/s457], as added [Pub. L. 100–297, title III, § 3501(a)][/us/pl/100/297/s3501/a], Apr. 28, 1988, [102 Stat. 355][/us/stat/102/355].)
+([Pub. L. 90–247, title IV][/us/pl/90/247/tIV], § 457, as added [Pub. L. 100–297, title III][/us/pl/100/297/tIII], § 3501(a), Apr. 28, 1988, [102 Stat. 355][/us/stat/102/355].)
 
  __Effective Date__ 
 
@@ -51,8 +51,8 @@
 ----------
 
 [/us/usc/t20/s1234c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1234c
-[/us/pl/90/247/s457]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F247%2Fs457
-[/us/pl/100/297/s3501/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F297%2Fs3501%2Fa
+[/us/pl/90/247/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F247%2FtIV
+[/us/pl/100/297/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F297%2FtIII
 [/us/stat/102/355]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F355
 [/us/pl/100/297/s3501/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F297%2Fs3501%2Fb
 [/us/usc/t20/s1234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1234

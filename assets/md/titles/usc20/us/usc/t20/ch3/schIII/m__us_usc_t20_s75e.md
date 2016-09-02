@@ -25,7 +25,7 @@
 
     (4) sell, exchange, donate, return, or otherwise dispose of any such item.
 
-([Pub. L. 87–443, § 6][/us/pl/87/443/s6], Apr. 27, 1962, [76 Stat. 63][/us/stat/76/63].)
+([Pub. L. 87–443][/us/pl/87/443], § 6, Apr. 27, 1962, [76 Stat. 63][/us/stat/76/63].)
 
 ----------
 
@@ -35,7 +35,7 @@
 ----------
 
 [/us/usc/t20/s75b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs75b
-[/us/pl/87/443/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F443%2Fs6
+[/us/pl/87/443]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F443
 [/us/stat/76/63]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F63
 
 

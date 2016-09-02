@@ -19,7 +19,7 @@
 
     (b) The Gallery shall function as a free public museum for the exhibition and study of portraiture and statuary depicting men and women who have made significant contributions to the history, development, and culture of the people of the United States and of the artists who created such portraiture and statuary.
 
-([Pub. L. 87–443, § 3][/us/pl/87/443/s3], Apr. 27, 1962, [76 Stat. 62][/us/stat/76/62].)
+([Pub. L. 87–443][/us/pl/87/443], § 3, Apr. 27, 1962, [76 Stat. 62][/us/stat/76/62].)
 
  __References in Text__ 
 
@@ -27,7 +27,7 @@
 
  __Patent Office Building Improvements__ 
 
-[Pub. L. 108–72, § 3][/us/pl/108/72/s3], Aug. 15, 2003, [117 Stat. 888][/us/stat/117/888], provided that:
+[Pub. L. 108–72][/us/pl/108/72], § 3, Aug. 15, 2003, [117 Stat. 888][/us/stat/117/888], provided that:
 
 >     “(a) __Authorization of Use of Funds.—__ 
 
@@ -69,11 +69,11 @@
 ----------
 
 [/us/stat/72/68]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F68
-[/us/pl/87/443/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F443%2Fs3
+[/us/pl/87/443]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F443
 [/us/stat/76/62]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F62
 [/us/pl/85/357]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F357
 [/us/stat/72/68]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F68
-[/us/pl/108/72/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F72%2Fs3
+[/us/pl/108/72]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F72
 [/us/stat/117/888]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F888
 [/us/pl/85/357]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F357
 [/us/stat/72/68]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F68

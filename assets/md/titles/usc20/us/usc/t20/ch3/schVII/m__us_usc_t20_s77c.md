@@ -23,13 +23,13 @@
 
         The Smithsonian Institution shall include in its annual report of its operations to Congress a statement of the operations of said national air and space museum, including all public and private moneys received and disbursed.
 
-([Aug. 12, 1946, ch. 955, § 4][/us/act/1946-08-12/ch955/s4], [60 Stat. 998][/us/stat/60/998]; [Pub. L. 89–509][/us/pl/89/509], pt. I, §§ 6, 7, July 19, 1966, [80 Stat. 310][/us/stat/80/310], 311.)
+([Aug. 12, 1946, ch. 955][/us/act/1946-08-12/ch955], § 4, [60 Stat. 998][/us/stat/60/998]; [Pub. L. 89–509][/us/pl/89/509], pt. I, §§ 6, 7, July 19, 1966, [80 Stat. 310][/us/stat/80/310], 311.)
 
  __Amendments__ 
 
-    1966—Subsec. (a). [Pub. L. 89–509, § 6][/us/pl/89/509/s6], raised from three to six the number of board members required to constitute a quorum.
+    1966—Subsec. (a). [Pub. L. 89–509][/us/pl/89/509], § 6, raised from three to six the number of board members required to constitute a quorum.
 
-    Subsec. (b). [Pub. L. 89–509, § 7][/us/pl/89/509/s7], substituted “national air and space museum” for “national air museum”.
+    Subsec. (b). [Pub. L. 89–509][/us/pl/89/509], § 7, substituted “national air and space museum” for “national air museum”.
 
 ----------
 
@@ -38,11 +38,11 @@
 ----------
 ----------
 
-[/us/act/1946-08-12/ch955/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-08-12%2Fch955%2Fs4
+[/us/act/1946-08-12/ch955]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-08-12%2Fch955
 [/us/stat/60/998]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F60%2F998
 [/us/pl/89/509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F509
 [/us/stat/80/310]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F310
-[/us/pl/89/509/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F509%2Fs6
-[/us/pl/89/509/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F509%2Fs7
+[/us/pl/89/509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F509
+[/us/pl/89/509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F509
 
 

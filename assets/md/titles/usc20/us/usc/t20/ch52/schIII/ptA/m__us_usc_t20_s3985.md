@@ -57,7 +57,7 @@
 
         A regional consortium of applicants in two or more States may file a joint application under the provisions of subsection (a) of this section.
 
-([Pub. L. 98–377, title III, § 306][/us/pl/98/377/s306], Aug. 11, 1984, [98 Stat. 1285][/us/stat/98/1285]; [Pub. L. 99–159, title II, § 231][/us/pl/99/159/s231], Nov. 22, 1985, [99 Stat. 900][/us/stat/99/900]; [Pub. L. 100–418, title VI, § 6031(b)(2)][/us/pl/100/418/s6031/b/2], Aug. 23, 1988, [102 Stat. 1483][/us/stat/102/1483].)
+([Pub. L. 98–377, title III][/us/pl/98/377/tIII], § 306, Aug. 11, 1984, [98 Stat. 1285][/us/stat/98/1285]; [Pub. L. 99–159, title II][/us/pl/99/159/tII], § 231, Nov. 22, 1985, [99 Stat. 900][/us/stat/99/900]; [Pub. L. 100–418, title VI][/us/pl/100/418/tVI], § 6031(b)(2), Aug. 23, 1988, [102 Stat. 1483][/us/stat/102/1483].)
 
  __Amendments__ 
 
@@ -74,11 +74,11 @@
 
 [/us/usc/t20/s3986]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs3986
 [/us/usc/t20/s3986/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs3986%2Fa
-[/us/pl/98/377/s306]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F377%2Fs306
+[/us/pl/98/377/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F377%2FtIII
 [/us/stat/98/1285]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F1285
-[/us/pl/99/159/s231]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F159%2Fs231
+[/us/pl/99/159/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F159%2FtII
 [/us/stat/99/900]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F900
-[/us/pl/100/418/s6031/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2Fs6031%2Fb%2F2
+[/us/pl/100/418/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2FtVI
 [/us/stat/102/1483]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1483
 [/us/pl/100/418]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418
 [/us/pl/99/159]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F159

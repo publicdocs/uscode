@@ -43,7 +43,7 @@
 
             Before the end of the 12-month period beginning on December 4, 2003, the Comptroller General shall submit a report to Congress on the findings and conclusions of the Comptroller General pursuant to the study conducted under this subsection, together with such recommendations for legislative or administrative action as the Comptroller General may determine to be appropriate, including recommendations on methods for improving financial literacy among consumers.
 
-([Pub. L. 108–159, title V, § 517][/us/pl/108/159/s517], Dec. 4, 2003, [117 Stat. 2008][/us/stat/117/2008].)
+([Pub. L. 108–159, title V][/us/pl/108/159/tV], § 517, Dec. 4, 2003, [117 Stat. 2008][/us/stat/117/2008].)
 
  __Definitions__ 
 
@@ -56,7 +56,7 @@
 ----------
 ----------
 
-[/us/pl/108/159/s517]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F159%2Fs517
+[/us/pl/108/159/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F159%2FtV
 [/us/stat/117/2008]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2008
 [/us/pl/108/159/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F159%2Fs2
 [/us/usc/t15/s1681]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1681

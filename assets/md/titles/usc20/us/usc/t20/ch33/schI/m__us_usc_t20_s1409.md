@@ -17,11 +17,11 @@
 
     The Republic of the Marshall Islands, the Federated States of Micronesia, and the Republic of Palau shall continue to be eligible for competitive grants administered by the Secretary under this chapter to the extent that such grants continue to be available to States and local educational agencies under this chapter.
 
-([Pub. L. 91–230, title VI, § 610][/us/pl/91/230/s610], as added [Pub. L. 108–446, title I, § 101][/us/pl/108/446/s101], Dec. 3, 2004, [118 Stat. 2662][/us/stat/118/2662].)
+([Pub. L. 91–230, title VI][/us/pl/91/230/tVI], § 610, as added [Pub. L. 108–446, title I][/us/pl/108/446/tI], § 101, Dec. 3, 2004, [118 Stat. 2662][/us/stat/118/2662].)
 
  __Prior Provisions__ 
 
-    A prior section 1409, [Pub. L. 91–230, title VI, § 610][/us/pl/91/230/s610], as added [Pub. L. 101–476, title I, § 104][/us/pl/101/476/s104], Oct. 30, 1990, [104 Stat. 1106][/us/stat/104/1106], provided administrative provisions applicable to former subchapters III to VII of this chapter and former [section 1418 of this title][/us/usc/t20/s1418], prior to the general amendment of subchapters I to IV of this chapter by [Pub. L. 105–17][/us/pl/105/17].
+    A prior section 1409, [Pub. L. 91–230, title VI][/us/pl/91/230/tVI], § 610, as added [Pub. L. 101–476, title I][/us/pl/101/476/tI], § 104, Oct. 30, 1990, [104 Stat. 1106][/us/stat/104/1106], provided administrative provisions applicable to former subchapters III to VII of this chapter and former [section 1418 of this title][/us/usc/t20/s1418], prior to the general amendment of subchapters I to IV of this chapter by [Pub. L. 105–17][/us/pl/105/17].
 
 ----------
 
@@ -30,11 +30,11 @@
 ----------
 ----------
 
-[/us/pl/91/230/s610]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F230%2Fs610
-[/us/pl/108/446/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F446%2Fs101
+[/us/pl/91/230/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F230%2FtVI
+[/us/pl/108/446/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F446%2FtI
 [/us/stat/118/2662]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F2662
-[/us/pl/91/230/s610]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F230%2Fs610
-[/us/pl/101/476/s104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F476%2Fs104
+[/us/pl/91/230/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F230%2FtVI
+[/us/pl/101/476/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F476%2FtI
 [/us/stat/104/1106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1106
 [/us/usc/t20/s1418]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1418
 [/us/pl/105/17]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F17

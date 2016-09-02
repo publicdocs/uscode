@@ -17,7 +17,7 @@
 
     A parent or guardian of a child, or parents or guardians of children similarly situated, transported to a public school in accordance with a court order, or an educational agency subject to a court order or a desegregation plan under title VI of the Civil Rights Act of 1964 \[[42 U.S.C. 2000d][/us/usc/t42/s2000d] et seq.\] in effect on August 21, 1974, and intended to end segregation of students on the basis of race, color, or national origin, may seek to reopen or intervene in the further implementation of such court order, currently in effect, if the time or distance of travel is so great as to risk the health of the student or significantly impinge on his or her educational process.
 
-([Pub. L. 93–380, title II, § 218][/us/pl/93/380/s218], Aug. 21, 1974, [88 Stat. 518][/us/stat/88/518].)
+([Pub. L. 93–380, title II][/us/pl/93/380/tII], § 218, Aug. 21, 1974, [88 Stat. 518][/us/stat/88/518].)
 
  __References in Text__ 
 
@@ -31,7 +31,7 @@
 ----------
 
 [/us/usc/t42/s2000d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2000d
-[/us/pl/93/380/s218]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F380%2Fs218
+[/us/pl/93/380/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F380%2FtII
 [/us/stat/88/518]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F518
 [/us/pl/88/352]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F352
 [/us/stat/78/241]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F241

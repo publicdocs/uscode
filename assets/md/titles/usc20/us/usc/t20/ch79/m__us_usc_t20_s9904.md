@@ -61,7 +61,7 @@
 
         The Director shall submit a copy of the annual report required by subsection (b)(1)(F) to the Senate Committee on Commerce, Science, and Transportation, the Senate Committee on Health, Education, Labor, and Pensions, the House of Representatives Committee on Science and Technology, and the House of Representatives Committee on Education and Labor.
 
-([Pub. L. 111–358, title V, § 554][/us/pl/111/358/s554], Jan. 4, 2011, [124 Stat. 4024][/us/stat/124/4024].)
+([Pub. L. 111–358, title V][/us/pl/111/358/tV], § 554, Jan. 4, 2011, [124 Stat. 4024][/us/stat/124/4024].)
 
  __Change of Name__ 
 
@@ -74,7 +74,7 @@
 ----------
 ----------
 
-[/us/pl/111/358/s554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F358%2Fs554
+[/us/pl/111/358/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F358%2FtV
 [/us/stat/124/4024]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F4024
 
 

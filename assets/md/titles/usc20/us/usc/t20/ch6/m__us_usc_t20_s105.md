@@ -17,7 +17,7 @@
 
     The distribution of embossed books manufactured by the American Printing House for the Blind at Louisville, Kentucky, out of the income of the fund provided by sections 101, 102, and 104 of this title, shall include one copy of every book so manufactured to be deposited in the Library of Congress at Washington.
 
-([Mar. 4, 1913, ch. 142, § 1][/us/act/1913-03-04/ch142/s1], [37 Stat. 748][/us/stat/37/748].)
+([Mar. 4, 1913, ch. 142][/us/act/1913-03-04/ch142], § 1, [37 Stat. 748][/us/stat/37/748].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/act/1913-03-04/ch142/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1913-03-04%2Fch142%2Fs1
+[/us/act/1913-03-04/ch142]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1913-03-04%2Fch142
 [/us/stat/37/748]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F37%2F748
 
 

@@ -63,13 +63,13 @@
 
             (B) contracts entered into between such agencies and the Federal Government.
 
-([Pub. L. 90–247, title IV, § 424][/us/pl/90/247/s424], as added [Pub. L. 103–382, title II, § 234][/us/pl/103/382/s234], Oct. 20, 1994, [108 Stat. 3915][/us/stat/108/3915].)
+([Pub. L. 90–247, title IV][/us/pl/90/247/tIV], § 424, as added [Pub. L. 103–382, title II][/us/pl/103/382/tII], § 234, Oct. 20, 1994, [108 Stat. 3915][/us/stat/108/3915].)
 
  __Prior Provisions__ 
 
     Provisions similar to those in subsecs. (a), (b), and (f) of this section were contained in [section 1221e–1a of this title][/us/usc/t20/s1221e–1a] prior to repeal by [Pub. L. 103–382][/us/pl/103/382].
 
-    A prior section 1226b, [Pub. L. 90–247, title IV, § 416][/us/pl/90/247/s416], as added [Pub. L. 93–380, title V, § 506(a)(3)(C)][/us/pl/93/380/s506/a/3/C], Aug. 21, 1974, [88 Stat. 563][/us/stat/88/563], related to program planning and evaluation, prior to repeal by [Pub. L. 103–382, title II, § 212(a)(1)][/us/pl/103/382/s212/a/1], Oct. 20, 1994, [108 Stat. 3913][/us/stat/108/3913].
+    A prior section 1226b, [Pub. L. 90–247, title IV][/us/pl/90/247/tIV], § 416, as added [Pub. L. 93–380, title V][/us/pl/93/380/tV], § 506(a)(3)(C), Aug. 21, 1974, [88 Stat. 563][/us/stat/88/563], related to program planning and evaluation, prior to repeal by [Pub. L. 103–382, title II][/us/pl/103/382/tII], § 212(a)(1), Oct. 20, 1994, [108 Stat. 3913][/us/stat/108/3913].
 
     A prior [section 424 of Pub. L. 90–247][/us/pl/90/247/s424] was classified to [section 1231b–1 of this title][/us/usc/t20/s1231b–1] prior to repeal by [Pub. L. 103–382][/us/pl/103/382].
 
@@ -90,15 +90,15 @@
 ----------
 ----------
 
-[/us/pl/90/247/s424]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F247%2Fs424
-[/us/pl/103/382/s234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F382%2Fs234
+[/us/pl/90/247/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F247%2FtIV
+[/us/pl/103/382/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F382%2FtII
 [/us/stat/108/3915]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3915
 [/us/usc/t20/s1221e–1a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1221e%E2%80%931a
 [/us/pl/103/382]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F382
-[/us/pl/90/247/s416]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F247%2Fs416
-[/us/pl/93/380/s506/a/3/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F380%2Fs506%2Fa%2F3%2FC
+[/us/pl/90/247/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F247%2FtIV
+[/us/pl/93/380/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F380%2FtV
 [/us/stat/88/563]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F563
-[/us/pl/103/382/s212/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F382%2Fs212%2Fa%2F1
+[/us/pl/103/382/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F382%2FtII
 [/us/stat/108/3913]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3913
 [/us/pl/90/247/s424]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F247%2Fs424
 [/us/usc/t20/s1231b–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1231b%E2%80%931

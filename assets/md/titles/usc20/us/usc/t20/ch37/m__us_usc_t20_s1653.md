@@ -17,7 +17,7 @@
 
  __Codification__ 
 
-    Section, [Pub. L. 92–318, title VIII, § 803][/us/pl/92/318/s803], June 23, 1972, [86 Stat. 372][/us/stat/86/372], provided that the effectiveness of orders of district courts requiring transfer or transportation of students for purposes of achieving a balance among students with respect to race, sex, religion, or socioeconomic status, be postponed until all appeals in connection with such orders have been exhausted or until expiration of the time for such appeals, expired at midnight on Jan. 1, 1974.
+    Section, [Pub. L. 92–318, title VIII][/us/pl/92/318/tVIII], § 803, June 23, 1972, [86 Stat. 372][/us/stat/86/372], provided that the effectiveness of orders of district courts requiring transfer or transportation of students for purposes of achieving a balance among students with respect to race, sex, religion, or socioeconomic status, be postponed until all appeals in connection with such orders have been exhausted or until expiration of the time for such appeals, expired at midnight on Jan. 1, 1974.
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/92/318/s803]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F318%2Fs803
+[/us/pl/92/318/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F318%2FtVIII
 [/us/stat/86/372]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F372
 
 

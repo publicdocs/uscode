@@ -43,7 +43,7 @@
 
         There are authorized to be appropriated in any fiscal year or made available from funds appropriated to carry out this part in any fiscal year such sums as may be necessary to carry out the provisions of this section, except that if no funds are appropriated pursuant to this subsection, the Secretary shall make funds available to carry out this section from amounts appropriated for the operations and expenses of the Department of Education.
 
-([Pub. L. 89–329, title IV, § 492][/us/pl/89/329/s492], as added [Pub. L. 102–325, title IV, § 497][/us/pl/102/325/s497], July 23, 1992, [106 Stat. 633][/us/stat/106/633]; amended [Pub. L. 105–244, title IV, § 490D][/us/pl/105/244/s490D], Oct. 7, 1998, [112 Stat. 1755][/us/stat/112/1755]; [Pub. L. 110–315, title IV, § 494D][/us/pl/110/315/s494D], Aug. 14, 2008, [122 Stat. 3324][/us/stat/122/3324]; [Pub. L. 111–39, title IV, § 407(b)(12)][/us/pl/111/39/s407/b/12], July 1, 2009, [123 Stat. 1953][/us/stat/123/1953].)
+([Pub. L. 89–329, title IV][/us/pl/89/329/tIV], § 492, as added [Pub. L. 102–325, title IV][/us/pl/102/325/tIV], § 497, July 23, 1992, [106 Stat. 633][/us/stat/106/633]; amended [Pub. L. 105–244, title IV][/us/pl/105/244/tIV], § 490D, Oct. 7, 1998, [112 Stat. 1755][/us/stat/112/1755]; [Pub. L. 110–315, title IV][/us/pl/110/315/tIV], § 494D, Aug. 14, 2008, [122 Stat. 3324][/us/stat/122/3324]; [Pub. L. 111–39, title IV][/us/pl/111/39/tIV], § 407(b)(12), July 1, 2009, [123 Stat. 1953][/us/stat/123/1953].)
 
  __References in Text__ 
 
@@ -51,27 +51,27 @@
 
  __Amendments__ 
 
-    2009—Subsec. (a)(1). [Pub. L. 111–39, § 407(b)(12)(A)][/us/pl/111/39/s407/b/12/A], substituted “regulations for this subchapter and part C of subchapter I of chapter 34 of title 42. The” for “regulations for parts B, F, and G of this subchapter. The”.
+    2009—Subsec. (a)(1). [Pub. L. 111–39][/us/pl/111/39], § 407(b)(12)(A), substituted “regulations for this subchapter and part C of subchapter I of chapter 34 of title 42. The” for “regulations for parts B, F, and G of this subchapter. The”.
 
-    Subsec. (a)(2). [Pub. L. 111–39, § 407(b)(12)(B)][/us/pl/111/39/s407/b/12/B], substituted “The Secretary shall provide” for text from beginning of par. (2) through “provide”, resulting in text identical to that after execution of the amendment by [Pub. L. 105–244, § 490D(a)(2)(A)][/us/pl/105/244/s490D/a/2/A]. See 1998 Amendment note below.
+    Subsec. (a)(2). [Pub. L. 111–39][/us/pl/111/39], § 407(b)(12)(B), substituted “The Secretary shall provide” for text from beginning of par. (2) through “provide”, resulting in text identical to that after execution of the amendment by [Pub. L. 105–244][/us/pl/105/244], § 490D(a)(2)(A). See 1998 Amendment note below.
 
-    2008—Subsec. (a)(1). [Pub. L. 110–315, § 494D(a)(1)][/us/pl/110/315/s494D/a/1], inserted “State student grant agencies,” after “institutions of higher education,”.
+    2008—Subsec. (a)(1). [Pub. L. 110–315][/us/pl/110/315], § 494D(a)(1), inserted “State student grant agencies,” after “institutions of higher education,”.
 
-    Subsec. (a)(2). [Pub. L. 110–315, § 494D(a)(2)][/us/pl/110/315/s494D/a/2], struck out “, as amended by the Higher Education Amendments of 1998” before “through such mechanisms”.
+    Subsec. (a)(2). [Pub. L. 110–315][/us/pl/110/315], § 494D(a)(2), struck out “, as amended by the Higher Education Amendments of 1998” before “through such mechanisms”.
 
-    Subsec. (b)(1). [Pub. L. 110–315, § 494D(b)][/us/pl/110/315/s494D/b], struck out “as amended by the Higher Education Amendments of 1998” before “and shall submit”, substituted “The Secretary” for “To the extent possible, the Secretary”, and inserted “with demonstrated expertise or experience in the relevant subjects under negotiation,” after “select individuals”.
+    Subsec. (b)(1). [Pub. L. 110–315][/us/pl/110/315], § 494D(b), struck out “as amended by the Higher Education Amendments of 1998” before “and shall submit”, substituted “The Secretary” for “To the extent possible, the Secretary”, and inserted “with demonstrated expertise or experience in the relevant subjects under negotiation,” after “select individuals”.
 
-    1998—Subsec. (a)(1). [Pub. L. 105–244, § 490D(a)(1)(C)][/us/pl/105/244/s490D/a/1/C], substituted “The Secretary shall obtain the advice of and recommendations from” for “Such meetings shall include”.
+    1998—Subsec. (a)(1). [Pub. L. 105–244][/us/pl/105/244], § 490D(a)(1)(C), substituted “The Secretary shall obtain the advice of and recommendations from” for “Such meetings shall include”.
 
-    [Pub. L. 105–244, § 490D(a)(1)(B)][/us/pl/105/244/s490D/a/1/B], which directed the substitution of “this subchapter and part C of subchapter I of chapter 34 of title 42;” for “parts B, F, and G of this subchapter,”, could not be executed because “parts B, F, and G of this subchapter,” does not appear in text.
+    [Pub. L. 105–244][/us/pl/105/244], § 490D(a)(1)(B), which directed the substitution of “this subchapter and part C of subchapter I of chapter 34 of title 42;” for “parts B, F, and G of this subchapter,”, could not be executed because “parts B, F, and G of this subchapter,” does not appear in text.
 
-    [Pub. L. 105–244, § 490D(a)(1)(A)][/us/pl/105/244/s490D/a/1/A], struck out “convene regional meetings to” before “obtain public involvement”.
+    [Pub. L. 105–244][/us/pl/105/244], § 490D(a)(1)(A), struck out “convene regional meetings to” before “obtain public involvement”.
 
-    Subsec. (a)(2). [Pub. L. 105–244, § 490D(a)(2)(B)][/us/pl/105/244/s490D/a/2/B]–(D), substituted “this subchapter and part C of subchapter I of chapter 34 of title 42” for “parts B, F, and G of this subchapter”, “1998 through such mechanisms as regional meetings and electronic exchanges of information” for “1992”, and “through such mechanisms in” for “at such meetings in”.
+    Subsec. (a)(2). [Pub. L. 105–244][/us/pl/105/244], § 490D(a)(2)(B)–(D), substituted “this subchapter and part C of subchapter I of chapter 34 of title 42” for “parts B, F, and G of this subchapter”, “1998 through such mechanisms as regional meetings and electronic exchanges of information” for “1992”, and “through such mechanisms in” for “at such meetings in”.
 
-    [Pub. L. 105–244, § 490D(a)(2)(A)][/us/pl/105/244/s490D/a/2/A], which directed substitution of “The” for “During such meetings the”, was executed by making the substitution for “During such meetings, the” before “Secretary shall provide”, to reflect the probable intent of Congress.
+    [Pub. L. 105–244][/us/pl/105/244], § 490D(a)(2)(A), which directed substitution of “The” for “During such meetings the”, was executed by making the substitution for “During such meetings, the” before “Secretary shall provide”, to reflect the probable intent of Congress.
 
-    Subsec. (b). [Pub. L. 105–244, § 490D(b)][/us/pl/105/244/s490D/b], designated existing provisions as par. (1), inserted par. (1) heading, substituted “obtaining the advice and recommendations described in subsection (a)(1) of this section” for “holding regional meetings”, “this subchapter and part C of subchapter I of chapter 34 of title 42” for “parts B, F, and G of this subchapter”, “1998” for “1992”, “360-day” for “240-day”, and “section 1232(e)” for “section 1232(g)”, struck out “The Secretary shall follow the guidance provided in sections 305.82–4 and 305.85–5 of chapter 1, Code of Federal Regulations, and any successor recommendation, regulation, or law.” after “rulemaking process.” and “participating in the regional meetings” after “nominated by groups”, and added par. (2).
+    Subsec. (b). [Pub. L. 105–244][/us/pl/105/244], § 490D(b), designated existing provisions as par. (1), inserted par. (1) heading, substituted “obtaining the advice and recommendations described in subsection (a)(1) of this section” for “holding regional meetings”, “this subchapter and part C of subchapter I of chapter 34 of title 42” for “parts B, F, and G of this subchapter”, “1998” for “1992”, “360-day” for “240-day”, and “section 1232(e)” for “section 1232(g)”, struck out “The Secretary shall follow the guidance provided in sections 305.82–4 and 305.85–5 of chapter 1, Code of Federal Regulations, and any successor recommendation, regulation, or law.” after “rulemaking process.” and “participating in the regional meetings” after “nominated by groups”, and added par. (2).
 
  __Effective Date of 2009 Amendment__ 
 
@@ -106,29 +106,29 @@
 
 [/us/usc/t20/s1232/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1232%2Fe
 [/us/usc/t5/s553/b/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs553%2Fb%2F3%2FB
-[/us/pl/89/329/s492]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2Fs492
-[/us/pl/102/325/s497]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325%2Fs497
+[/us/pl/89/329/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2FtIV
+[/us/pl/102/325/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325%2FtIV
 [/us/stat/106/633]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F633
-[/us/pl/105/244/s490D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2Fs490D
+[/us/pl/105/244/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2FtIV
 [/us/stat/112/1755]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F1755
-[/us/pl/110/315/s494D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2Fs494D
+[/us/pl/110/315/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2FtIV
 [/us/stat/122/3324]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3324
-[/us/pl/111/39/s407/b/12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F39%2Fs407%2Fb%2F12
+[/us/pl/111/39/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F39%2FtIV
 [/us/stat/123/1953]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1953
 [/us/pl/92/463]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F463
 [/us/stat/86/770]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F770
-[/us/pl/111/39/s407/b/12/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F39%2Fs407%2Fb%2F12%2FA
-[/us/pl/111/39/s407/b/12/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F39%2Fs407%2Fb%2F12%2FB
-[/us/pl/105/244/s490D/a/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2Fs490D%2Fa%2F2%2FA
-[/us/pl/110/315/s494D/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2Fs494D%2Fa%2F1
-[/us/pl/110/315/s494D/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2Fs494D%2Fa%2F2
-[/us/pl/110/315/s494D/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2Fs494D%2Fb
-[/us/pl/105/244/s490D/a/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2Fs490D%2Fa%2F1%2FC
-[/us/pl/105/244/s490D/a/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2Fs490D%2Fa%2F1%2FB
-[/us/pl/105/244/s490D/a/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2Fs490D%2Fa%2F1%2FA
-[/us/pl/105/244/s490D/a/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2Fs490D%2Fa%2F2%2FB
-[/us/pl/105/244/s490D/a/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2Fs490D%2Fa%2F2%2FA
-[/us/pl/105/244/s490D/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2Fs490D%2Fb
+[/us/pl/111/39]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F39
+[/us/pl/111/39]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F39
+[/us/pl/105/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244
+[/us/pl/110/315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315
+[/us/pl/110/315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315
+[/us/pl/110/315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315
+[/us/pl/105/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244
+[/us/pl/105/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244
+[/us/pl/105/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244
+[/us/pl/105/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244
+[/us/pl/105/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244
+[/us/pl/105/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244
 [/us/pl/111/39]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F39
 [/us/pl/110/315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315
 [/us/pl/111/39/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F39%2Fs3

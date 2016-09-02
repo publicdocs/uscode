@@ -17,7 +17,7 @@
 
     Each person awarded a fellowship under this chapter shall receive a stipend as determined by the Foundation.
 
-([Pub. L. 102–281, title IV, § 425][/us/pl/102/281/s425], May 13, 1992, [106 Stat. 143][/us/stat/106/143].)
+([Pub. L. 102–281, title IV][/us/pl/102/281/tIV], § 425, May 13, 1992, [106 Stat. 143][/us/stat/106/143].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/102/281/s425]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F281%2Fs425
+[/us/pl/102/281/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F281%2FtIV
 [/us/stat/106/143]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F143
 
 

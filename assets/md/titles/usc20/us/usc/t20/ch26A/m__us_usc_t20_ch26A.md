@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../..//us/usc/t20/ch26/schII/m__us_usc_t20_ch26_schII.md) | [Next](./../../../..//us/usc/t20/ch26A/m__us_usc_t20_s971.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fch26A)
+[Previous](./../../../..//us/usc/t20/ch26/schII/m__us_usc_t20_s961...969.md) | [Next](./../../../..//us/usc/t20/ch26A/m__us_usc_t20_s971.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fch26A)
 
 ## CHAPTER 26A—INDEMNITY FOR EXHIBITIONS OF ARTS AND ARTIFACTS
 
@@ -83,7 +83,7 @@
 
 ----------
 
-[Previous](./../../../..//us/usc/t20/ch26/schII/m__us_usc_t20_ch26_schII.md) | [Next](./../../../..//us/usc/t20/ch26A/m__us_usc_t20_s971.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fch26A)
+[Previous](./../../../..//us/usc/t20/ch26/schII/m__us_usc_t20_s961...969.md) | [Next](./../../../..//us/usc/t20/ch26A/m__us_usc_t20_s971.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fch26A)
 
 ----------
 ----------

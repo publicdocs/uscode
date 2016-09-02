@@ -11,23 +11,23 @@
 ----------
 ----------
 
-[Previous](./../../../../../..//us/usc/t20/ch55/schI/ptA/m__us_usc_t20_s4305.md) | [Next](./../../../../../..//us/usc/t20/ch55/schI/ptB/m__us_usc_t20_s4331.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fch55%2FschI%2FptB)
+[Previous](./../../../../../..//us/usc/t20/ch55/schI/ptA/m__us_usc_t20_s4311 _us_usc_t20_s4321 _us_usc_t20_s4322.md) | [Next](./../../../../../..//us/usc/t20/ch55/schI/ptB/m__us_usc_t20_s4331.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fch55%2FschI%2FptB)
 
 #### Part B—National Technical Institute for the Deaf
 
  __Prior Provisions__ 
 
-    A prior part B of subchapter I of this chapter, consisted of [section 4311 of this title][/us/usc/t20/s4311], prior to repeal by [Pub. L. 102–421, title I][/us/pl/102/421], §§ 101(a)(1), Oct. 16, 1992, [106 Stat. 2151][/us/stat/106/2151].
+    A prior part B of subchapter I of this chapter, consisted of [section 4311 of this title][/us/usc/t20/s4311], prior to repeal by [Pub. L. 102–421, title I][/us/pl/102/421/tI], §§ 101(a)(1), Oct. 16, 1992, [106 Stat. 2151][/us/stat/106/2151].
 
 ----------
 
-[Previous](./../../../../../..//us/usc/t20/ch55/schI/ptA/m__us_usc_t20_s4305.md) | [Next](./../../../../../..//us/usc/t20/ch55/schI/ptB/m__us_usc_t20_s4331.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fch55%2FschI%2FptB)
+[Previous](./../../../../../..//us/usc/t20/ch55/schI/ptA/m__us_usc_t20_s4311 _us_usc_t20_s4321 _us_usc_t20_s4322.md) | [Next](./../../../../../..//us/usc/t20/ch55/schI/ptB/m__us_usc_t20_s4331.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fch55%2FschI%2FptB)
 
 ----------
 ----------
 
 [/us/usc/t20/s4311]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs4311
-[/us/pl/102/421]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F421
+[/us/pl/102/421/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F421%2FtI
 [/us/stat/106/2151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2151
 
 

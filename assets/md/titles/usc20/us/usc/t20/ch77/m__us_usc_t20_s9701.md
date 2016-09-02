@@ -21,7 +21,7 @@
 
     (2) the term “Commission” means the Financial Literacy and Education Commission established under [section 9702 of this title][/us/usc/t20/s9702].
 
-([Pub. L. 108–159, title V, § 512][/us/pl/108/159/s512], Dec. 4, 2003, [117 Stat. 2003][/us/stat/117/2003].)
+([Pub. L. 108–159, title V][/us/pl/108/159/tV], § 512, Dec. 4, 2003, [117 Stat. 2003][/us/stat/117/2003].)
 
  __Effective Date__ 
 
@@ -29,7 +29,7 @@
 
  __Short Title__ 
 
-[Pub. L. 108–159, title V, § 511][/us/pl/108/159/s511], Dec. 4, 2003, [117 Stat. 2003][/us/stat/117/2003], provided that: 
+[Pub. L. 108–159, title V][/us/pl/108/159/tV], § 511, Dec. 4, 2003, [117 Stat. 2003][/us/stat/117/2003], provided that: 
 
 > “This title \[enacting this chapter\] may be cited as the ‘Financial Literacy and Education Improvement Act’.”
 
@@ -317,11 +317,11 @@
 ----------
 
 [/us/usc/t20/s9702]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs9702
-[/us/pl/108/159/s512]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F159%2Fs512
+[/us/pl/108/159/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F159%2FtV
 [/us/stat/117/2003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2003
 [/us/pl/108/159/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F159%2Fs3
 [/us/usc/t15/s1681]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1681
-[/us/pl/108/159/s511]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F159%2Fs511
+[/us/pl/108/159/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F159%2FtV
 [/us/stat/117/2003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2003
 [/us/usc/t5/s5701–570]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5701%E2%80%93570
 [/us/pl/108/159]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F159

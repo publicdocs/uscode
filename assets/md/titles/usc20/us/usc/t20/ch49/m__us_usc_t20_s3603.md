@@ -47,11 +47,11 @@
 
         Not later than six months after the submission of the plan described in subsection (a) of this section, and each six months thereafter during the two-year period beginning on June 14, 1980, the State agency or unit designated under paragraph (4) of subsection (a) of this section shall submit to the Secretary a report which describes the actions taken by the State in accordance with its plan under such subsection.
 
-([Pub. L. 96–270, § 4][/us/pl/96/270/s4], June 14, 1980, [94 Stat. 490][/us/stat/94/490].)
+([Pub. L. 96–270][/us/pl/96/270], § 4, June 14, 1980, [94 Stat. 490][/us/stat/94/490].)
 
  __References in Text__ 
 
-    [Section 1221 of this title][/us/usc/t20/s1221], referred to in subsec. (a), was amended generally by [Pub. L. 103–382, title II, § 211][/us/pl/103/382/s211], Oct. 20, 1994, [108 Stat. 3912][/us/stat/108/3912], and, as so amended, no longer contains a subsec. (c)(1)(A). However, the term “applicable program” is defined in subsec. (c)(1) of that section.
+    [Section 1221 of this title][/us/usc/t20/s1221], referred to in subsec. (a), was amended generally by [Pub. L. 103–382, title II][/us/pl/103/382/tII], § 211, Oct. 20, 1994, [108 Stat. 3912][/us/stat/108/3912], and, as so amended, no longer contains a subsec. (c)(1)(A). However, the term “applicable program” is defined in subsec. (c)(1) of that section.
 
 ----------
 
@@ -61,10 +61,10 @@
 ----------
 
 [/us/usc/t20/s3606]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs3606
-[/us/pl/96/270/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F270%2Fs4
+[/us/pl/96/270]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F270
 [/us/stat/94/490]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F490
 [/us/usc/t20/s1221]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1221
-[/us/pl/103/382/s211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F382%2Fs211
+[/us/pl/103/382/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F382%2FtII
 [/us/stat/108/3912]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3912
 
 

@@ -53,15 +53,15 @@
 
         (5) assure that no employee of any local educational agency suffers any disciplinary action as a result of calling attention to potential asbestos hazards which may exist in schools.
 
-([Pub. L. 96–270, § 2][/us/pl/96/270/s2], June 14, 1980, [94 Stat. 487][/us/stat/94/487].)
+([Pub. L. 96–270][/us/pl/96/270], § 2, June 14, 1980, [94 Stat. 487][/us/stat/94/487].)
 
  __References in Text__ 
 
-    [Section 1221 of this title][/us/usc/t20/s1221], referred to in subsec. (b)(2), was amended generally by [Pub. L. 103–382, title II, § 211][/us/pl/103/382/s211], Oct. 20, 1994, [108 Stat. 3912][/us/stat/108/3912], and, as so amended, no longer contains a subsec. (c)(1)(A). However, the term “applicable program” is defined in subsec. (c)(1) of that section.
+    [Section 1221 of this title][/us/usc/t20/s1221], referred to in subsec. (b)(2), was amended generally by [Pub. L. 103–382, title II][/us/pl/103/382/tII], § 211, Oct. 20, 1994, [108 Stat. 3912][/us/stat/108/3912], and, as so amended, no longer contains a subsec. (c)(1)(A). However, the term “applicable program” is defined in subsec. (c)(1) of that section.
 
  __Short Title__ 
 
-[Pub. L. 96–270, § 1][/us/pl/96/270/s1], June 14, 1980, [94 Stat. 487][/us/stat/94/487], provided that: 
+[Pub. L. 96–270][/us/pl/96/270], § 1, June 14, 1980, [94 Stat. 487][/us/stat/94/487], provided that: 
 
 > “This Act \[enacting this chapter and amending [section 1411 of this title][/us/usc/t20/s1411]\] may be cited as the ‘Asbestos School Hazard Detection and Control Act of 1980’.”
 
@@ -72,12 +72,12 @@
 ----------
 ----------
 
-[/us/pl/96/270/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F270%2Fs2
+[/us/pl/96/270]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F270
 [/us/stat/94/487]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F487
 [/us/usc/t20/s1221]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1221
-[/us/pl/103/382/s211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F382%2Fs211
+[/us/pl/103/382/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F382%2FtII
 [/us/stat/108/3912]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3912
-[/us/pl/96/270/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F270%2Fs1
+[/us/pl/96/270]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F270
 [/us/stat/94/487]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F487
 [/us/usc/t20/s1411]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1411
 

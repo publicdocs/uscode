@@ -63,21 +63,21 @@
 
             The term “voluntary consensus standard” means a standard developed or used by a standard setting organization described in paragraph (2).
 
-([Pub. L. 89–329, title I, § 143][/us/pl/89/329/s143], as added [Pub. L. 105–244, title I, § 101(a)][/us/pl/105/244/s101/a], Oct. 7, 1998, [112 Stat. 1615][/us/stat/112/1615].)
+([Pub. L. 89–329, title I][/us/pl/89/329/tI], § 143, as added [Pub. L. 105–244, title I][/us/pl/105/244/tI], § 101(a), Oct. 7, 1998, [112 Stat. 1615][/us/stat/112/1615].)
 
  __Prior Provisions__ 
 
     Prior sections 1018b to 1018f were omitted in the general amendment of this subchapter by [Pub. L. 102–325][/us/pl/102/325].
 
-    Section 1018b, [Pub. L. 89–329, title I, § 143][/us/pl/89/329/s143], as added [Pub. L. 100–418, title VI, § 6201][/us/pl/100/418/s6201], Aug. 23, 1988, [102 Stat. 1515][/us/stat/102/1515], related to use of funds.
+    Section 1018b, [Pub. L. 89–329, title I][/us/pl/89/329/tI], § 143, as added [Pub. L. 100–418, title VI][/us/pl/100/418/tVI], § 6201, Aug. 23, 1988, [102 Stat. 1515][/us/stat/102/1515], related to use of funds.
 
-    Section 1018c, [Pub. L. 89–329, title I, § 144][/us/pl/89/329/s144], as added [Pub. L. 100–418, title VI, § 6201][/us/pl/100/418/s6201], Aug. 23, 1988, [102 Stat. 1515][/us/stat/102/1515]; [Pub. L. 101–610, title II, § 221(a)][/us/pl/101/610/s221/a], (b), Nov. 16, 1990, [104 Stat. 3180][/us/stat/104/3180], related to applications.
+    Section 1018c, [Pub. L. 89–329, title I][/us/pl/89/329/tI], § 144, as added [Pub. L. 100–418, title VI][/us/pl/100/418/tVI], § 6201, Aug. 23, 1988, [102 Stat. 1515][/us/stat/102/1515]; [Pub. L. 101–610, title II][/us/pl/101/610/tII], § 221(a), (b), Nov. 16, 1990, [104 Stat. 3180][/us/stat/104/3180], related to applications.
 
-    Section 1018d, [Pub. L. 89–329, title I, § 145][/us/pl/89/329/s145], as added [Pub. L. 100–418, title VI, § 6201][/us/pl/100/418/s6201], Aug. 23, 1988, [102 Stat. 1516][/us/stat/102/1516], related to technical assistance and coordination contracts.
+    Section 1018d, [Pub. L. 89–329, title I][/us/pl/89/329/tI], § 145, as added [Pub. L. 100–418, title VI][/us/pl/100/418/tVI], § 6201, Aug. 23, 1988, [102 Stat. 1516][/us/stat/102/1516], related to technical assistance and coordination contracts.
 
-    Section 1018e, [Pub. L. 89–329, title I, § 146][/us/pl/89/329/s146], as added [Pub. L. 100–418, title VI, § 6201][/us/pl/100/418/s6201], Aug. 23, 1988, [102 Stat. 1516][/us/stat/102/1516]; [Pub. L. 101–305, § 5][/us/pl/101/305/s5], May 30, 1990, [104 Stat. 258][/us/stat/104/258]; [Pub. L. 101–610, title II, § 221(c)][/us/pl/101/610/s221/c], Nov. 16, 1990, [104 Stat. 3180][/us/stat/104/3180], related to authorization of appropriations.
+    Section 1018e, [Pub. L. 89–329, title I][/us/pl/89/329/tI], § 146, as added [Pub. L. 100–418, title VI][/us/pl/100/418/tVI], § 6201, Aug. 23, 1988, [102 Stat. 1516][/us/stat/102/1516]; [Pub. L. 101–305][/us/pl/101/305], § 5, May 30, 1990, [104 Stat. 258][/us/stat/104/258]; [Pub. L. 101–610, title II][/us/pl/101/610/tII], § 221(c), Nov. 16, 1990, [104 Stat. 3180][/us/stat/104/3180], related to authorization of appropriations.
 
-    Section 1018f, [Pub. L. 89–329, title I, § 147][/us/pl/89/329/s147], as added [Pub. L. 100–418, title VI, § 6201][/us/pl/100/418/s6201], Aug. 23, 1988, [102 Stat. 1516][/us/stat/102/1516], defined “public community agency”, “institution of higher education” and “Secretary”.
+    Section 1018f, [Pub. L. 89–329, title I][/us/pl/89/329/tI], § 147, as added [Pub. L. 100–418, title VI][/us/pl/100/418/tVI], § 6201, Aug. 23, 1988, [102 Stat. 1516][/us/stat/102/1516], defined “public community agency”, “institution of higher education” and “Secretary”.
 
 ----------
 
@@ -87,30 +87,30 @@
 ----------
 
 [/us/usc/t20/s1090/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1090%2Fa
-[/us/pl/89/329/s143]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2Fs143
-[/us/pl/105/244/s101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2Fs101%2Fa
+[/us/pl/89/329/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2FtI
+[/us/pl/105/244/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2FtI
 [/us/stat/112/1615]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F1615
 [/us/pl/102/325]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325
-[/us/pl/89/329/s143]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2Fs143
-[/us/pl/100/418/s6201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2Fs6201
+[/us/pl/89/329/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2FtI
+[/us/pl/100/418/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2FtVI
 [/us/stat/102/1515]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1515
-[/us/pl/89/329/s144]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2Fs144
-[/us/pl/100/418/s6201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2Fs6201
+[/us/pl/89/329/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2FtI
+[/us/pl/100/418/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2FtVI
 [/us/stat/102/1515]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1515
-[/us/pl/101/610/s221/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F610%2Fs221%2Fa
+[/us/pl/101/610/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F610%2FtII
 [/us/stat/104/3180]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3180
-[/us/pl/89/329/s145]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2Fs145
-[/us/pl/100/418/s6201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2Fs6201
+[/us/pl/89/329/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2FtI
+[/us/pl/100/418/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2FtVI
 [/us/stat/102/1516]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1516
-[/us/pl/89/329/s146]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2Fs146
-[/us/pl/100/418/s6201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2Fs6201
+[/us/pl/89/329/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2FtI
+[/us/pl/100/418/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2FtVI
 [/us/stat/102/1516]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1516
-[/us/pl/101/305/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F305%2Fs5
+[/us/pl/101/305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F305
 [/us/stat/104/258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F258
-[/us/pl/101/610/s221/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F610%2Fs221%2Fc
+[/us/pl/101/610/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F610%2FtII
 [/us/stat/104/3180]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3180
-[/us/pl/89/329/s147]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2Fs147
-[/us/pl/100/418/s6201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2Fs6201
+[/us/pl/89/329/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2FtI
+[/us/pl/100/418/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2FtVI
 [/us/stat/102/1516]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1516
 
 

@@ -49,7 +49,7 @@
 
         On request of the Chairman of the Foundation, the head of a Federal agency may detail personnel of the agency to the Foundation to assist the Foundation in carrying out this chapter.1 Details under this subsection shall be without reimbursement by the Foundation to the agency from which personnel are detailed.
 
-([Pub. L. 99–500, § 101(b)][/us/pl/99/500/s101/b] \[title VIII, § 814\], Oct. 18, 1986, [100 Stat. 1783–39][/us/stat/100/1783-39], 1783–80, and [Pub. L. 99–591, § 101(b)][/us/pl/99/591/s101/b] \[title VIII, § 814\], Oct. 30, 1986, [100 Stat. 3341–39][/us/stat/100/3341-39], 3341–80; [Pub. L. 101–208, § 3][/us/pl/101/208/s3], Dec. 7, 1989, [103 Stat. 1837][/us/stat/103/1837].)
+([Pub. L. 99–500][/us/pl/99/500], § 101(b) \[title VIII, § 814\], Oct. 18, 1986, [100 Stat. 1783–39][/us/stat/100/1783-39], 1783–80, and [Pub. L. 99–591][/us/pl/99/591], § 101(b) \[title VIII, § 814\], Oct. 30, 1986, [100 Stat. 3341–39][/us/stat/100/3341-39], 3341–80; [Pub. L. 101–208][/us/pl/101/208], § 3, Dec. 7, 1989, [103 Stat. 1837][/us/stat/103/1837].)
 
  __References in Text__ 
 
@@ -59,21 +59,21 @@
 
  __Codification__ 
 
-    In subsec. (a)(6), “[section 6101 of title 41][/us/usc/t41/s6101]” substituted for “[section 5 of title 41][/us/usc/t41/s5]” on authority of [Pub. L. 111–350, § 6(c)][/us/pl/111/350/s6/c], Jan. 4, 2011, [124 Stat. 3854][/us/stat/124/3854], which Act enacted Title 41, Public Contracts.
+    In subsec. (a)(6), “[section 6101 of title 41][/us/usc/t41/s6101]” substituted for “[section 5 of title 41][/us/usc/t41/s5]” on authority of [Pub. L. 111–350][/us/pl/111/350], § 6(c), Jan. 4, 2011, [124 Stat. 3854][/us/stat/124/3854], which Act enacted Title 41, Public Contracts.
 
-    In subsec. (a)(7), “section 3324(a) and (b) of title 31” substituted for “[section 529 of title 31][/us/usc/t31/s529]” on authority of [Pub. L. 97–258, § 4(b)][/us/pl/97/258/s4/b], Sept. 13, 1982, [96 Stat. 1067][/us/stat/96/1067], the first section of which enacted Title 31, Money and Finance.
+    In subsec. (a)(7), “section 3324(a) and (b) of title 31” substituted for “[section 529 of title 31][/us/usc/t31/s529]” on authority of [Pub. L. 97–258][/us/pl/97/258], § 4(b), Sept. 13, 1982, [96 Stat. 1067][/us/stat/96/1067], the first section of which enacted Title 31, Money and Finance.
 
     [Pub. L. 99–591][/us/pl/99/591] is a corrected version of [Pub. L. 99–500][/us/pl/99/500].
 
  __Amendments__ 
 
-    1989—Subsec. (a)(1). [Pub. L. 101–208, § 3(1)(A)][/us/pl/101/208/s3/1/A], amended par. (1) generally. Prior to amendment, par. (1) read as follows: “to appoint and fix the compensation of such personnel as may be necessary to carry out the provisions of this chapter, except that in no case shall employees other than the Executive Secretary be compensated at a rate to exceed the rate provided for employees in grade GS–15 of the General Schedule set forth in [section 5332 of title 5][/us/usc/t5/s5332];”.
+    1989—Subsec. (a)(1). [Pub. L. 101–208][/us/pl/101/208], § 3(1)(A), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “to appoint and fix the compensation of such personnel as may be necessary to carry out the provisions of this chapter, except that in no case shall employees other than the Executive Secretary be compensated at a rate to exceed the rate provided for employees in grade GS–15 of the General Schedule set forth in [section 5332 of title 5][/us/usc/t5/s5332];”.
 
-    Subsec. (a)(8). [Pub. L. 101–208, § 3(1)(B)][/us/pl/101/208/s3/1/B], amended par. (8) generally. Prior to amendment, par. (8) read as follows: “to rent office space;”.
+    Subsec. (a)(8). [Pub. L. 101–208][/us/pl/101/208], § 3(1)(B), amended par. (8) generally. Prior to amendment, par. (8) read as follows: “to rent office space;”.
 
-    Subsec. (a)(10), (11). [Pub. L. 101–208, § 3(1)(C)][/us/pl/101/208/s3/1/C]–(E), added par. (10) and redesignated former par. (10) as (11).
+    Subsec. (a)(10), (11). [Pub. L. 101–208][/us/pl/101/208], § 3(1)(C)–(E), added par. (10) and redesignated former par. (10) as (11).
 
-    Subsec. (c). [Pub. L. 101–208, § 3(2)][/us/pl/101/208/s3/2], added subsec. (c).
+    Subsec. (c). [Pub. L. 101–208][/us/pl/101/208], § 3(2), added subsec. (c).
 
  __Termination of Reporting Requirements__ 
 
@@ -89,11 +89,11 @@
 [/us/usc/t5/s3109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs3109
 [/us/usc/t5/s5703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5703
 [/us/usc/t41/s6101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs6101
-[/us/pl/99/500/s101/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F500%2Fs101%2Fb
+[/us/pl/99/500]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F500
 [/us/stat/100/1783-39]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1783-39
-[/us/pl/99/591/s101/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F591%2Fs101%2Fb
+[/us/pl/99/591]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F591
 [/us/stat/100/3341-39]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3341-39
-[/us/pl/101/208/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F208%2Fs3
+[/us/pl/101/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F208
 [/us/stat/103/1837]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1837
 [/us/pl/99/500/s101/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F500%2Fs101%2Fb
 [/us/pl/99/591]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F591
@@ -101,18 +101,18 @@
 [/us/pl/99/591]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F591
 [/us/usc/t41/s6101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs6101
 [/us/usc/t41/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs5
-[/us/pl/111/350/s6/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350%2Fs6%2Fc
+[/us/pl/111/350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350
 [/us/stat/124/3854]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3854
 [/us/usc/t31/s529]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs529
-[/us/pl/97/258/s4/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258%2Fs4%2Fb
+[/us/pl/97/258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258
 [/us/stat/96/1067]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1067
 [/us/pl/99/591]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F591
 [/us/pl/99/500]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F500
-[/us/pl/101/208/s3/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F208%2Fs3%2F1%2FA
+[/us/pl/101/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F208
 [/us/usc/t5/s5332]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5332
-[/us/pl/101/208/s3/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F208%2Fs3%2F1%2FB
-[/us/pl/101/208/s3/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F208%2Fs3%2F1%2FC
-[/us/pl/101/208/s3/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F208%2Fs3%2F2
+[/us/pl/101/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F208
+[/us/pl/101/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F208
+[/us/pl/101/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F208
 [/us/pl/104/66/s3003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F66%2Fs3003
 [/us/usc/t31/s1113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1113
 

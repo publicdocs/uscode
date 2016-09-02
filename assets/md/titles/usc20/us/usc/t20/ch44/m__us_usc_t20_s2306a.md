@@ -33,13 +33,21 @@
 
     (e) __Coherent and rigorous content__ 
 
-        For the purposes of this chapter, coherent and rigorous content shall be determined by the State consistent with [section 6311(b)(1)(D) of this title][/us/usc/t20/s6311/b/1/D].
+        For the purposes of this chapter, coherent and rigorous content shall be determined by the State consistent with [section 6311(b)(1) of this title][/us/usc/t20/s6311/b/1].
 
-([Pub. L. 88–210, § 8][/us/pl/88/210/s8], as added [Pub. L. 109–270, § 1(b)][/us/pl/109/270/s1/b], Aug. 12, 2006, [120 Stat. 690][/us/stat/120/690].)
+([Pub. L. 88–210][/us/pl/88/210], § 8, as added [Pub. L. 109–270][/us/pl/109/270], § 1(b), Aug. 12, 2006, [120 Stat. 690][/us/stat/120/690]; amended [Pub. L. 114–95, title IX][/us/pl/114/95/tIX], § 9215(n)(2), Dec. 10, 2015, [129 Stat. 2169][/us/stat/129/2169].)
 
  __Prior Provisions__ 
 
     A prior [section 8 of Pub. L. 88–210][/us/pl/88/210/s8] was classified to [section 2307 of this title][/us/usc/t20/s2307] prior to the general amendment of this chapter by [Pub. L. 109–270][/us/pl/109/270].
+
+ __Amendments__ 
+
+    2015—Subsec. (e). [Pub. L. 114–95][/us/pl/114/95] substituted “[section 6311(b)(1) of this title][/us/usc/t20/s6311/b/1]” for “[section 6311(b)(1)(D) of this title][/us/usc/t20/s6311/b/1/D]”.
+
+ __Effective Date of 2015 Amendment__ 
+
+    Amendment by [Pub. L. 114–95][/us/pl/114/95] effective Dec. 10, 2015, except with respect to certain noncompetitive programs and competitive programs, see [section 5 of Pub. L. 114–95][/us/pl/114/95/s5], set out as a note under [section 6301 of this title][/us/usc/t20/s6301].
 
 ----------
 
@@ -49,12 +57,20 @@
 ----------
 
 [/us/usc/t20/s2323]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs2323
-[/us/usc/t20/s6311/b/1/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs6311%2Fb%2F1%2FD
-[/us/pl/88/210/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F210%2Fs8
-[/us/pl/109/270/s1/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F270%2Fs1%2Fb
+[/us/usc/t20/s6311/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs6311%2Fb%2F1
+[/us/pl/88/210]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F210
+[/us/pl/109/270]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F270
 [/us/stat/120/690]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F690
+[/us/pl/114/95/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F95%2FtIX
+[/us/stat/129/2169]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F2169
 [/us/pl/88/210/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F210%2Fs8
 [/us/usc/t20/s2307]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs2307
 [/us/pl/109/270]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F270
+[/us/pl/114/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F95
+[/us/usc/t20/s6311/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs6311%2Fb%2F1
+[/us/usc/t20/s6311/b/1/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs6311%2Fb%2F1%2FD
+[/us/pl/114/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F95
+[/us/pl/114/95/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F95%2Fs5
+[/us/usc/t20/s6301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs6301
 
 

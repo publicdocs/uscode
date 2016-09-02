@@ -21,7 +21,7 @@
 
  __Codification__ 
 
-    R.S. § 5587 derived from [act Aug. 10, 1846, ch. 178, § 8][/us/act/1846-08-10/ch178/s8], [9 Stat. 105][/us/stat/9/105].
+    R.S. § 5587 derived from [act Aug. 10, 1846, ch. 178][/us/act/1846-08-10/ch178], § 8, [9 Stat. 105][/us/stat/9/105].
 
  __Public Use of Research and Study Facilities of Certain Institutions__ 
 
@@ -34,7 +34,7 @@
 ----------
 ----------
 
-[/us/act/1846-08-10/ch178/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1846-08-10%2Fch178%2Fs8
+[/us/act/1846-08-10/ch178]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1846-08-10%2Fch178
 [/us/stat/9/105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F9%2F105
 [/us/act/1875-03-03/ch179]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1875-03-03%2Fch179
 [/us/stat/18/512]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F18%2F512

@@ -17,7 +17,7 @@
 
     Notwithstanding any other provision of this chapter, the Director shall establish one account to be used to pay the Federal administrative costs of carrying out this chapter, and not more than a total of 7 percent of the funds appropriated under sections 9108(f), 9123, and 9176 of this title shall be placed in such account.
 
-([Pub. L. 94–462, title II, § 210C][/us/pl/94/462/s210C], as added [Pub. L. 111–340, title I, § 108][/us/pl/111/340/s108], Dec. 22, 2010, [124 Stat. 3599][/us/stat/124/3599].)
+([Pub. L. 94–462, title II][/us/pl/94/462/tII], § 210C, as added [Pub. L. 111–340, title I][/us/pl/111/340/tI], § 108, Dec. 22, 2010, [124 Stat. 3599][/us/stat/124/3599].)
 
  __References in Text__ 
 
@@ -30,8 +30,8 @@
 ----------
 ----------
 
-[/us/pl/94/462/s210C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F462%2Fs210C
-[/us/pl/111/340/s108]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F340%2Fs108
+[/us/pl/94/462/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F462%2FtII
+[/us/pl/111/340/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F340%2FtI
 [/us/stat/124/3599]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3599
 [/us/pl/94/462]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F462
 

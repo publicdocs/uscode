@@ -175,7 +175,7 @@
 
             (B) 50 percent is authorized to carry out the grant program under subsection (d).
 
-([Pub. L. 89–329, title VIII, § 891][/us/pl/89/329/s891], as added [Pub. L. 110–315, title VIII, § 801][/us/pl/110/315/s801], Aug. 14, 2008, [122 Stat. 3432][/us/stat/122/3432].)
+([Pub. L. 89–329, title VIII][/us/pl/89/329/tVIII], § 891, as added [Pub. L. 110–315, title VIII][/us/pl/110/315/tVIII], § 801, Aug. 14, 2008, [122 Stat. 3432][/us/stat/122/3432].)
 
 ----------
 
@@ -184,8 +184,8 @@
 ----------
 ----------
 
-[/us/pl/89/329/s891]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2Fs891
-[/us/pl/110/315/s801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2Fs801
+[/us/pl/89/329/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2FtVIII
+[/us/pl/110/315/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2FtVIII
 [/us/stat/122/3432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3432
 
 

@@ -51,7 +51,7 @@
 
         For the purpose of this section, the term “disposable pay” means that part of the compensation of any individual from an employer remaining after the deduction of any amounts required by law to be withheld.
 
-([Pub. L. 89–329, title IV, § 488A][/us/pl/89/329/s488A], as added [Pub. L. 102–164, title VI, § 605(a)][/us/pl/102/164/s605/a], Nov. 15, 1991, [105 Stat. 1066][/us/stat/105/1066]; amended [Pub. L. 105–244, title IV, § 490A][/us/pl/105/244/s490A], Oct. 7, 1998, [112 Stat. 1753][/us/stat/112/1753]; [Pub. L. 109–171, title VIII, § 8024][/us/pl/109/171/s8024], Feb. 8, 2006, [120 Stat. 180][/us/stat/120/180].)
+([Pub. L. 89–329, title IV][/us/pl/89/329/tIV], § 488A, as added [Pub. L. 102–164, title VI][/us/pl/102/164/tVI], § 605(a), Nov. 15, 1991, [105 Stat. 1066][/us/stat/105/1066]; amended [Pub. L. 105–244, title IV][/us/pl/105/244/tIV], § 490A, Oct. 7, 1998, [112 Stat. 1753][/us/stat/112/1753]; [Pub. L. 109–171, title VIII][/us/pl/109/171/tVIII], § 8024, Feb. 8, 2006, [120 Stat. 180][/us/stat/120/180].)
 
  __Amendments__ 
 
@@ -75,12 +75,12 @@
 ----------
 
 [/us/usc/t20/s1078/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1078%2Fc
-[/us/pl/89/329/s488A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2Fs488A
-[/us/pl/102/164/s605/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F164%2Fs605%2Fa
+[/us/pl/89/329/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2FtIV
+[/us/pl/102/164/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F164%2FtVI
 [/us/stat/105/1066]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1066
-[/us/pl/105/244/s490A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2Fs490A
+[/us/pl/105/244/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2FtIV
 [/us/stat/112/1753]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F1753
-[/us/pl/109/171/s8024]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F171%2Fs8024
+[/us/pl/109/171/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F171%2FtVIII
 [/us/stat/120/180]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F180
 [/us/pl/109/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F171
 [/us/pl/105/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244

@@ -17,7 +17,7 @@
 
     If any provision of this subchapter or the application thereof to any person or circumstances is judicially determined to be invalid, the provisions of the remainder of the subchapter and the application to other persons or circumstances shall not be affected thereby.
 
-([Pub. L. 98–377, title VIII, § 804][/us/pl/98/377/s804], Aug. 11, 1984, [98 Stat. 1304][/us/stat/98/1304].)
+([Pub. L. 98–377, title VIII][/us/pl/98/377/tVIII], § 804, Aug. 11, 1984, [98 Stat. 1304][/us/stat/98/1304].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/98/377/s804]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F377%2Fs804
+[/us/pl/98/377/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F377%2FtVIII
 [/us/stat/98/1304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F1304
 
 

@@ -17,7 +17,7 @@
 
     When a court of competent jurisdiction determines that a school system is desegregated, or that it meets the constitutional requirements, or that it is a unitary system, or that it has no vestiges of a dual system, and thereafter residential shifts in population occur which result in school population changes in any school within such a desegregated school system, such school population changes so occurring shall not, per se, constitute a cause for civil action for a new plan of desegregation or for modification of the court approved plan.
 
-([Pub. L. 93–380, title II, § 208][/us/pl/93/380/s208], Aug. 21, 1974, [88 Stat. 516][/us/stat/88/516].)
+([Pub. L. 93–380, title II][/us/pl/93/380/tII], § 208, Aug. 21, 1974, [88 Stat. 516][/us/stat/88/516].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/93/380/s208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F380%2Fs208
+[/us/pl/93/380/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F380%2FtII
 [/us/stat/88/516]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F516
 
 

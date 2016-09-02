@@ -277,7 +277,7 @@
 
             (B) with respect to such a State that has failed to meet the non-Federal share requirement of subsection (b), a philanthropic organization awarded the proportionate reduction amount of such a grant under subsection (b)(3).
 
-([Pub. L. 89–329, title VII, § 781][/us/pl/89/329/s781], formerly § 771, as added [Pub. L. 110–84, title VIII, § 801][/us/pl/110/84/s801], Sept. 27, 2007, [121 Stat. 812][/us/stat/121/812]; renumbered § 781 and amended [Pub. L. 110–315, title VII][/us/pl/110/315], §§ 709(1), 710, Aug. 14, 2008, [122 Stat. 3361][/us/stat/122/3361], 3377; [Pub. L. 111–39, title VII, § 701(6)][/us/pl/111/39/s701/6], July 1, 2009, [123 Stat. 1955][/us/stat/123/1955]; [Pub. L. 111–152, title II, § 2102][/us/pl/111/152/s2102], Mar. 30, 2010, [124 Stat. 1073][/us/stat/124/1073].)
+([Pub. L. 89–329, title VII][/us/pl/89/329/tVII], § 781, formerly § 771, as added [Pub. L. 110–84, title VIII][/us/pl/110/84/tVIII], § 801, Sept. 27, 2007, [121 Stat. 812][/us/stat/121/812]; renumbered § 781 and amended [Pub. L. 110–315, title VII][/us/pl/110/315/tVII], §§ 709(1), 710, Aug. 14, 2008, [122 Stat. 3361][/us/stat/122/3361], 3377; [Pub. L. 111–39, title VII][/us/pl/111/39/tVII], § 701(6), July 1, 2009, [123 Stat. 1955][/us/stat/123/1955]; [Pub. L. 111–152, title II][/us/pl/111/152/tII], § 2102, Mar. 30, 2010, [124 Stat. 1073][/us/stat/124/1073].)
 
  __References in Text__ 
 
@@ -287,89 +287,89 @@
 
  __Prior Provisions__ 
 
-    A prior section 1141, [Pub. L. 89–329, title XII, § 1201][/us/pl/89/329/s1201], formerly title VIII, § 801, Nov. 8, 1965, [79 Stat. 1269][/us/stat/79/1269]; renumbered title XII, § 1201, and amended [Pub. L. 90–575, title II][/us/pl/90/575], §§ 251, 293, 294, Oct. 16, 1968, [82 Stat. 1042][/us/stat/82/1042], 1050, 1051; [Pub. L. 91–230, title VIII, § 806(b)][/us/pl/91/230/s806/b], Apr. 13, 1970, [84 Stat. 192][/us/stat/84/192]; [Pub. L. 92–318, title I, § 131(d)(1)][/us/pl/92/318/s131/d/1], June 23, 1972, [86 Stat. 260][/us/stat/86/260]; [Pub. L. 94–482, title I, § 181(a)][/us/pl/94/482/s181/a], formerly § 181, Oct. 12, 1976, [90 Stat. 2167][/us/stat/90/2167], renumbered [Pub. L. 95–43, § 1(b)(7)][/us/pl/95/43/s1/b/7], June 15, 1977, [91 Stat. 218][/us/stat/91/218]; [Pub. L. 95–180, § 1(a)][/us/pl/95/180/s1/a], Nov. 15, 1977, [91 Stat. 1372][/us/stat/91/1372]; [Pub. L. 96–374, title XIII, § 1391(a)(1)][/us/pl/96/374/s1391/a/1], (b), Oct. 3, 1980, [94 Stat. 1503][/us/stat/94/1503]; [Pub. L. 100–50, § 21(a)][/us/pl/100/50/s21/a], June 3, 1987, [101 Stat. 360][/us/stat/101/360]; [Pub. L. 102–26, § 2(a)(4)][/us/pl/102/26/s2/a/4], Apr. 9, 1991, [105 Stat. 123][/us/stat/105/123]; [Pub. L. 102–325, title XII, § 1201][/us/pl/102/325/s1201], July 23, 1992, [106 Stat. 792][/us/stat/106/792]; [Pub. L. 102–394, title III, § 308(a)][/us/pl/102/394/s308/a], Oct. 6, 1992, [106 Stat. 1820][/us/stat/106/1820]; [Pub. L. 103–82, title I, § 111(b)(5)][/us/pl/103/82/s111/b/5], Sept. 21, 1993, [107 Stat. 861][/us/stat/107/861]; [Pub. L. 103–208, § 2(j)(48)][/us/pl/103/208/s2/j/48], Dec. 20, 1993, [107 Stat. 2485][/us/stat/107/2485], defined terms for purposes of this chapter, prior to repeal by [Pub. L. 105–244, § 3][/us/pl/105/244/s3], title I, § 101(b), title VII, § 702, Oct. 7, 1998, [112 Stat. 1585][/us/stat/112/1585], 1616, 1803, effective Oct. 1, 1998.
+    A prior section 1141, [Pub. L. 89–329, title XII][/us/pl/89/329/tXII], § 1201, formerly title VIII, § 801, Nov. 8, 1965, [79 Stat. 1269][/us/stat/79/1269]; renumbered title XII, § 1201, and amended [Pub. L. 90–575, title II][/us/pl/90/575/tII], §§ 251, 293, 294, Oct. 16, 1968, [82 Stat. 1042][/us/stat/82/1042], 1050, 1051; [Pub. L. 91–230, title VIII][/us/pl/91/230/tVIII], § 806(b), Apr. 13, 1970, [84 Stat. 192][/us/stat/84/192]; [Pub. L. 92–318, title I][/us/pl/92/318/tI], § 131(d)(1), June 23, 1972, [86 Stat. 260][/us/stat/86/260]; [Pub. L. 94–482, title I][/us/pl/94/482/tI], § 181(a), formerly § 181, Oct. 12, 1976, [90 Stat. 2167][/us/stat/90/2167], renumbered [Pub. L. 95–43][/us/pl/95/43], § 1(b)(7), June 15, 1977, [91 Stat. 218][/us/stat/91/218]; [Pub. L. 95–180][/us/pl/95/180], § 1(a), Nov. 15, 1977, [91 Stat. 1372][/us/stat/91/1372]; [Pub. L. 96–374, title XIII][/us/pl/96/374/tXIII], § 1391(a)(1), (b), Oct. 3, 1980, [94 Stat. 1503][/us/stat/94/1503]; [Pub. L. 100–50][/us/pl/100/50], § 21(a), June 3, 1987, [101 Stat. 360][/us/stat/101/360]; [Pub. L. 102–26][/us/pl/102/26], § 2(a)(4), Apr. 9, 1991, [105 Stat. 123][/us/stat/105/123]; [Pub. L. 102–325, title XII][/us/pl/102/325/tXII], § 1201, July 23, 1992, [106 Stat. 792][/us/stat/106/792]; [Pub. L. 102–394, title III][/us/pl/102/394/tIII], § 308(a), Oct. 6, 1992, [106 Stat. 1820][/us/stat/106/1820]; [Pub. L. 103–82, title I][/us/pl/103/82/tI], § 111(b)(5), Sept. 21, 1993, [107 Stat. 861][/us/stat/107/861]; [Pub. L. 103–208][/us/pl/103/208], § 2(j)(48), Dec. 20, 1993, [107 Stat. 2485][/us/stat/107/2485], defined terms for purposes of this chapter, prior to repeal by [Pub. L. 105–244][/us/pl/105/244], § 3, title I, § 101(b), title VII, § 702, Oct. 7, 1998, [112 Stat. 1585][/us/stat/112/1585], 1616, 1803, effective Oct. 1, 1998.
 
     A prior [section 781 of Pub. L. 89–329][/us/pl/89/329/s781] was classified to [section 1132i of this title][/us/usc/t20/s1132i], prior to the general amendment of this subchapter by [Pub. L. 105–244][/us/pl/105/244].
 
-    Section 1142, [Pub. L. 89–329, title XII, § 1202][/us/pl/89/329/s1202], formerly § 1207, as added [Pub. L. 94–482, title I, § 182][/us/pl/94/482/s182], Oct. 12, 1976, [90 Stat. 2167][/us/stat/90/2167]; renumbered § 1202, [Pub. L. 96–374, title XII, § 1201][/us/pl/96/374/s1201], Oct. 3, 1980, [94 Stat. 1493][/us/stat/94/1493]; amended [Pub. L. 102–325, title XII, § 1202][/us/pl/102/325/s1202], July 23, 1992, [106 Stat. 793][/us/stat/106/793], related to antidiscrimination requirements for institutions of higher education receiving Federal assistance, prior to repeal by [Pub. L. 105–244, § 3][/us/pl/105/244/s3], title I, § 101(b), title VII, § 702, Oct. 7, 1998, [112 Stat. 1585][/us/stat/112/1585], 1616, 1803, effective Oct. 1, 1998.
+    Section 1142, [Pub. L. 89–329, title XII][/us/pl/89/329/tXII], § 1202, formerly § 1207, as added [Pub. L. 94–482, title I][/us/pl/94/482/tI], § 182, Oct. 12, 1976, [90 Stat. 2167][/us/stat/90/2167]; renumbered § 1202, [Pub. L. 96–374, title XII][/us/pl/96/374/tXII], § 1201, Oct. 3, 1980, [94 Stat. 1493][/us/stat/94/1493]; amended [Pub. L. 102–325, title XII][/us/pl/102/325/tXII], § 1202, July 23, 1992, [106 Stat. 793][/us/stat/106/793], related to antidiscrimination requirements for institutions of higher education receiving Federal assistance, prior to repeal by [Pub. L. 105–244][/us/pl/105/244], § 3, title I, § 101(b), title VII, § 702, Oct. 7, 1998, [112 Stat. 1585][/us/stat/112/1585], 1616, 1803, effective Oct. 1, 1998.
 
-    Another prior section 1142, [Pub. L. 89–329, title XII, § 1202][/us/pl/89/329/s1202], formerly title VIII, § 802, Nov. 8, 1965, [79 Stat. 1270][/us/stat/79/1270]; renumbered title XII, § 1202, [Pub. L. 90–575, title II, § 251][/us/pl/90/575/s251], Oct. 16, 1968, [82 Stat. 1042][/us/stat/82/1042], related to method of payment pursuant to grants, loans, or contracts under this chapter, prior to repeal by [section 1201 of Pub. L. 96–374][/us/pl/96/374/s1201].
+    Another prior section 1142, [Pub. L. 89–329, title XII][/us/pl/89/329/tXII], § 1202, formerly title VIII, § 802, Nov. 8, 1965, [79 Stat. 1270][/us/stat/79/1270]; renumbered title XII, § 1202, [Pub. L. 90–575, title II][/us/pl/90/575/tII], § 251, Oct. 16, 1968, [82 Stat. 1042][/us/stat/82/1042], related to method of payment pursuant to grants, loans, or contracts under this chapter, prior to repeal by [section 1201 of Pub. L. 96–374][/us/pl/96/374/s1201].
 
-    Prior sections 1142a and 1142b were repealed by [Pub. L. 96–374, title XII, § 1201][/us/pl/96/374/s1201], title XIII, § 1393(a), Oct. 3, 1980, [94 Stat. 1493][/us/stat/94/1493], 1504, effective Oct. 1, 1980.
+    Prior sections 1142a and 1142b were repealed by [Pub. L. 96–374, title XII][/us/pl/96/374/tXII], § 1201, title XIII, § 1393(a), Oct. 3, 1980, [94 Stat. 1493][/us/stat/94/1493], 1504, effective Oct. 1, 1980.
 
-    Section 1142a, [Pub. L. 89–329, title XII, § 1202][/us/pl/89/329/s1202], as added [Pub. L. 92–318, title I, § 196][/us/pl/92/318/s196], June 23, 1972, [86 Stat. 324][/us/stat/86/324], related to designation of a State postsecondary education commission.
+    Section 1142a, [Pub. L. 89–329, title XII][/us/pl/89/329/tXII], § 1202, as added [Pub. L. 92–318, title I][/us/pl/92/318/tI], § 196, June 23, 1972, [86 Stat. 324][/us/stat/86/324], related to designation of a State postsecondary education commission.
 
-    Section 1142b, [Pub. L. 89–329, title XII, § 1203][/us/pl/89/329/s1203], as added [Pub. L. 92–318, title I, § 196][/us/pl/92/318/s196], June 23, 1972, [86 Stat. 325][/us/stat/86/325]; amended [Pub. L. 94–482, title I, § 179][/us/pl/94/482/s179], Oct. 12, 1976, [90 Stat. 2166][/us/stat/90/2166]; [Pub. L. 96–49, § 12][/us/pl/96/49/s12], Aug. 13, 1979, [93 Stat. 354][/us/stat/93/354], related to comprehensive statewide planning.
+    Section 1142b, [Pub. L. 89–329, title XII][/us/pl/89/329/tXII], § 1203, as added [Pub. L. 92–318, title I][/us/pl/92/318/tI], § 196, June 23, 1972, [86 Stat. 325][/us/stat/86/325]; amended [Pub. L. 94–482, title I][/us/pl/94/482/tI], § 179, Oct. 12, 1976, [90 Stat. 2166][/us/stat/90/2166]; [Pub. L. 96–49][/us/pl/96/49], § 12, Aug. 13, 1979, [93 Stat. 354][/us/stat/93/354], related to comprehensive statewide planning.
 
-    Prior sections 1143 to 1145g were repealed by [Pub. L. 105–244, § 3][/us/pl/105/244/s3], title I, § 101(b), title VII, § 702, Oct. 7, 1998, [112 Stat. 1585][/us/stat/112/1585], 1616, 1803, effective Oct. 1, 1998.
+    Prior sections 1143 to 1145g were repealed by [Pub. L. 105–244][/us/pl/105/244], § 3, title I, § 101(b), title VII, § 702, Oct. 7, 1998, [112 Stat. 1585][/us/stat/112/1585], 1616, 1803, effective Oct. 1, 1998.
 
-    Section 1143, [Pub. L. 89–329, title XII, § 1203][/us/pl/89/329/s1203], as added [Pub. L. 96–374, title XII, § 1201][/us/pl/96/374/s1201], Oct. 3, 1980, [94 Stat. 1493][/us/stat/94/1493], related to State agreements.
+    Section 1143, [Pub. L. 89–329, title XII][/us/pl/89/329/tXII], § 1203, as added [Pub. L. 96–374, title XII][/us/pl/96/374/tXII], § 1201, Oct. 3, 1980, [94 Stat. 1493][/us/stat/94/1493], related to State agreements.
 
-    Another prior section 1143, [Pub. L. 89–329, title XII, § 1203][/us/pl/89/329/s1203], formerly title VIII, § 803, Nov. 8, 1965, [79 Stat. 1270][/us/stat/79/1270]; renumbered title XII, § 1203, [Pub. L. 90–575, title II, § 251][/us/pl/90/575/s251], Oct. 16, 1968, [82 Stat. 1042][/us/stat/82/1042], provided for delegation of functions by Commissioner of Education and utilization of services and facilities of other agencies, prior to repeal by [Pub. L. 91–230, title IV, § 401(c)(5)][/us/pl/91/230/s401/c/5], Apr. 13, 1970, [84 Stat. 173][/us/stat/84/173].
+    Another prior section 1143, [Pub. L. 89–329, title XII][/us/pl/89/329/tXII], § 1203, formerly title VIII, § 803, Nov. 8, 1965, [79 Stat. 1270][/us/stat/79/1270]; renumbered title XII, § 1203, [Pub. L. 90–575, title II][/us/pl/90/575/tII], § 251, Oct. 16, 1968, [82 Stat. 1042][/us/stat/82/1042], provided for delegation of functions by Commissioner of Education and utilization of services and facilities of other agencies, prior to repeal by [Pub. L. 91–230, title IV][/us/pl/91/230/tIV], § 401(c)(5), Apr. 13, 1970, [84 Stat. 173][/us/stat/84/173].
 
-    Section 1144, [Pub. L. 89–329, title XII, § 1204][/us/pl/89/329/s1204], formerly title VIII, § 804, Nov. 8, 1965, [79 Stat. 1270][/us/stat/79/1270]; renumbered title XII, § 1204, [Pub. L. 90–575, title II, § 251][/us/pl/90/575/s251], Oct. 16, 1968, [82 Stat. 1042][/us/stat/82/1042]; amended [Pub. L. 91–230, title IV, § 401(f)(6)][/us/pl/91/230/s401/f/6], Apr. 13, 1970, [84 Stat. 173][/us/stat/84/173], prohibited Federal control over education.
+    Section 1144, [Pub. L. 89–329, title XII][/us/pl/89/329/tXII], § 1204, formerly title VIII, § 804, Nov. 8, 1965, [79 Stat. 1270][/us/stat/79/1270]; renumbered title XII, § 1204, [Pub. L. 90–575, title II][/us/pl/90/575/tII], § 251, Oct. 16, 1968, [82 Stat. 1042][/us/stat/82/1042]; amended [Pub. L. 91–230, title IV][/us/pl/91/230/tIV], § 401(f)(6), Apr. 13, 1970, [84 Stat. 173][/us/stat/84/173], prohibited Federal control over education.
 
-    Section 1144a, [Pub. L. 89–329, title XII, § 1204][/us/pl/89/329/s1204], as added [Pub. L. 96–374, title XII, § 1201][/us/pl/96/374/s1201], Oct. 3, 1980, [94 Stat. 1495][/us/stat/94/1495]; amended [Pub. L. 99–498, title XII, § 1201][/us/pl/99/498/s1201], Oct. 17, 1986, [100 Stat. 1573][/us/stat/100/1573]; [Pub. L. 102–73, title VIII, § 801(c)][/us/pl/102/73/s801/c], July 25, 1991, [105 Stat. 360][/us/stat/105/360]; [Pub. L. 103–208, § 2(j)(49)][/us/pl/103/208/s2/j/49], Dec. 20, 1993, [107 Stat. 2485][/us/stat/107/2485], related to treatment of territories and territorial student assistance.
+    Section 1144a, [Pub. L. 89–329, title XII][/us/pl/89/329/tXII], § 1204, as added [Pub. L. 96–374, title XII][/us/pl/96/374/tXII], § 1201, Oct. 3, 1980, [94 Stat. 1495][/us/stat/94/1495]; amended [Pub. L. 99–498, title XII][/us/pl/99/498/tXII], § 1201, Oct. 17, 1986, [100 Stat. 1573][/us/stat/100/1573]; [Pub. L. 102–73, title VIII][/us/pl/102/73/tVIII], § 801(c), July 25, 1991, [105 Stat. 360][/us/stat/105/360]; [Pub. L. 103–208][/us/pl/103/208], § 2(j)(49), Dec. 20, 1993, [107 Stat. 2485][/us/stat/107/2485], related to treatment of territories and territorial student assistance.
 
-    Another prior section 1144a, [Pub. L. 92–318, title V, § 510][/us/pl/92/318/s510], June 23, 1972, [86 Stat. 353][/us/stat/86/353], set forth sense of Congress that governing boards of institutions of higher education give consideration to student participation on such boards, prior to being omitted from the Code.
+    Another prior section 1144a, [Pub. L. 92–318, title V][/us/pl/92/318/tV], § 510, June 23, 1972, [86 Stat. 353][/us/stat/86/353], set forth sense of Congress that governing boards of institutions of higher education give consideration to student participation on such boards, prior to being omitted from the Code.
 
-    Section 1145, [Pub. L. 89–329, title XII, § 1205][/us/pl/89/329/s1205], as added [Pub. L. 96–374, title XII, § 1201][/us/pl/96/374/s1201], Oct. 3, 1980, [94 Stat. 1495][/us/stat/94/1495]; amended [Pub. L. 99–498, title XII, § 1202][/us/pl/99/498/s1202], Oct. 17, 1986, [100 Stat. 1573][/us/stat/100/1573]; [Pub. L. 102–325, title XII, § 1203][/us/pl/102/325/s1203], July 23, 1992, [106 Stat. 793][/us/stat/106/793]; [Pub. L. 103–208, § 2(j)(50)][/us/pl/103/208/s2/j/50]–(53), Dec. 20, 1993, [107 Stat. 2485][/us/stat/107/2485], related to National Advisory Committee on Institutional Quality and Integrity.
+    Section 1145, [Pub. L. 89–329, title XII][/us/pl/89/329/tXII], § 1205, as added [Pub. L. 96–374, title XII][/us/pl/96/374/tXII], § 1201, Oct. 3, 1980, [94 Stat. 1495][/us/stat/94/1495]; amended [Pub. L. 99–498, title XII][/us/pl/99/498/tXII], § 1202, Oct. 17, 1986, [100 Stat. 1573][/us/stat/100/1573]; [Pub. L. 102–325, title XII][/us/pl/102/325/tXII], § 1203, July 23, 1992, [106 Stat. 793][/us/stat/106/793]; [Pub. L. 103–208][/us/pl/103/208], § 2(j)(50)–(53), Dec. 20, 1993, [107 Stat. 2485][/us/stat/107/2485], related to National Advisory Committee on Institutional Quality and Integrity.
 
-    Another prior section 1145, [Pub. L. 89–329, title XII, § 1205][/us/pl/89/329/s1205], as added [Pub. L. 90–575, title II, § 291(a)][/us/pl/90/575/s291/a], Oct. 16, 1968, [82 Stat. 1049][/us/stat/82/1049]; amended [Pub. L. 91–230, title IV, § 401(h)(4)][/us/pl/91/230/s401/h/4], Apr. 13, 1970, [84 Stat. 174][/us/stat/84/174], established an Advisory Council on Graduate Education in the Office of Education, prior to repeal by [section 1201 of Pub. L. 96–374][/us/pl/96/374/s1201].
+    Another prior section 1145, [Pub. L. 89–329, title XII][/us/pl/89/329/tXII], § 1205, as added [Pub. L. 90–575, title II][/us/pl/90/575/tII], § 291(a), Oct. 16, 1968, [82 Stat. 1049][/us/stat/82/1049]; amended [Pub. L. 91–230, title IV][/us/pl/91/230/tIV], § 401(h)(4), Apr. 13, 1970, [84 Stat. 174][/us/stat/84/174], established an Advisory Council on Graduate Education in the Office of Education, prior to repeal by [section 1201 of Pub. L. 96–374][/us/pl/96/374/s1201].
 
-    Section 1145a, [Pub. L. 89–329, title XII, § 1206][/us/pl/89/329/s1206], as added [Pub. L. 99–498, title XII, § 1203][/us/pl/99/498/s1203], Oct. 17, 1986, [100 Stat. 1573][/us/stat/100/1573], related to Commission to study postsecondary institutional and programmatic recognition process.
+    Section 1145a, [Pub. L. 89–329, title XII][/us/pl/89/329/tXII], § 1206, as added [Pub. L. 99–498, title XII][/us/pl/99/498/tXII], § 1203, Oct. 17, 1986, [100 Stat. 1573][/us/stat/100/1573], related to Commission to study postsecondary institutional and programmatic recognition process.
 
-    Another prior section 1145a, [Pub. L. 89–329, title XII, § 1206][/us/pl/89/329/s1206], as added [Pub. L. 92–318, title I, § 197][/us/pl/92/318/s197], June 23, 1972, [86 Stat. 325][/us/stat/86/325], related to supplying cost-of-education data by institutions of higher education, prior to repeal by [Pub. L. 96–374, title XII, § 1201][/us/pl/96/374/s1201], Oct. 3, 1980, [94 Stat. 1493][/us/stat/94/1493], eff. Oct. 1, 1980.
+    Another prior section 1145a, [Pub. L. 89–329, title XII][/us/pl/89/329/tXII], § 1206, as added [Pub. L. 92–318, title I][/us/pl/92/318/tI], § 197, June 23, 1972, [86 Stat. 325][/us/stat/86/325], related to supplying cost-of-education data by institutions of higher education, prior to repeal by [Pub. L. 96–374, title XII][/us/pl/96/374/tXII], § 1201, Oct. 3, 1980, [94 Stat. 1493][/us/stat/94/1493], eff. Oct. 1, 1980.
 
-    Section 1145b, [Pub. L. 89–329, title XII, § 1207][/us/pl/89/329/s1207], as added [Pub. L. 99–498, title XII, § 1204][/us/pl/99/498/s1204], Oct. 17, 1986, [100 Stat. 1576][/us/stat/100/1576], related to student representation in connection with administration of this chapter.
+    Section 1145b, [Pub. L. 89–329, title XII][/us/pl/89/329/tXII], § 1207, as added [Pub. L. 99–498, title XII][/us/pl/99/498/tXII], § 1204, Oct. 17, 1986, [100 Stat. 1576][/us/stat/100/1576], related to student representation in connection with administration of this chapter.
 
-    Another prior section 1145b, [Pub. L. 89–329, title XII, § 1202][/us/pl/89/329/s1202], formerly § 1207, as added [Pub. L. 94–482, title I, § 182][/us/pl/94/482/s182], Oct. 12, 1976, [90 Stat. 2167][/us/stat/90/2167]; renumbered title XII, § 1202, [Pub. L. 96–374, title XII, § 1201][/us/pl/96/374/s1201], Oct. 3, 1980, [94 Stat. 1493][/us/stat/94/1493], which related to antidiscrimination requirements for institutions of higher education receiving Federal assistance, was transferred to [section 1142 of this title][/us/usc/t20/s1142] and subsequently repealed by [Pub. L. 105–244][/us/pl/105/244].
+    Another prior section 1145b, [Pub. L. 89–329, title XII][/us/pl/89/329/tXII], § 1202, formerly § 1207, as added [Pub. L. 94–482, title I][/us/pl/94/482/tI], § 182, Oct. 12, 1976, [90 Stat. 2167][/us/stat/90/2167]; renumbered title XII, § 1202, [Pub. L. 96–374, title XII][/us/pl/96/374/tXII], § 1201, Oct. 3, 1980, [94 Stat. 1493][/us/stat/94/1493], which related to antidiscrimination requirements for institutions of higher education receiving Federal assistance, was transferred to [section 1142 of this title][/us/usc/t20/s1142] and subsequently repealed by [Pub. L. 105–244][/us/pl/105/244].
 
-    Section 1145c, [Pub. L. 89–329, title XII, § 1208][/us/pl/89/329/s1208], as added [Pub. L. 99–498, title XII, § 1205][/us/pl/99/498/s1205], Oct. 17, 1986, [100 Stat. 1577][/us/stat/100/1577], related to financial responsibility of foreign students.
+    Section 1145c, [Pub. L. 89–329, title XII][/us/pl/89/329/tXII], § 1208, as added [Pub. L. 99–498, title XII][/us/pl/99/498/tXII], § 1205, Oct. 17, 1986, [100 Stat. 1577][/us/stat/100/1577], related to financial responsibility of foreign students.
 
-    Another prior section 1145c, [Pub. L. 89–329, title XII, § 1208][/us/pl/89/329/s1208], as added [Pub. L. 94–482, title I, § 183][/us/pl/94/482/s183], Oct. 12, 1976, [90 Stat. 2167][/us/stat/90/2167], related to availability of appropriations, prior to repeal by [Pub. L. 96–374, title XII, § 1201][/us/pl/96/374/s1201], Oct. 3, 1980, [94 Stat. 1493][/us/stat/94/1493], eff. Oct. 1, 1980.
+    Another prior section 1145c, [Pub. L. 89–329, title XII][/us/pl/89/329/tXII], § 1208, as added [Pub. L. 94–482, title I][/us/pl/94/482/tI], § 183, Oct. 12, 1976, [90 Stat. 2167][/us/stat/90/2167], related to availability of appropriations, prior to repeal by [Pub. L. 96–374, title XII][/us/pl/96/374/tXII], § 1201, Oct. 3, 1980, [94 Stat. 1493][/us/stat/94/1493], eff. Oct. 1, 1980.
 
-    Section 1145d, [Pub. L. 89–329, title XII, § 1209][/us/pl/89/329/s1209], as added [Pub. L. 102–325, title XII, § 1204][/us/pl/102/325/s1204], July 23, 1992, [106 Stat. 794][/us/stat/106/794]; amended [Pub. L. 103–208, § 2(j)(54)][/us/pl/103/208/s2/j/54], Dec. 20, 1993, [107 Stat. 2485][/us/stat/107/2485], related to disclosures of foreign gifts.
+    Section 1145d, [Pub. L. 89–329, title XII][/us/pl/89/329/tXII], § 1209, as added [Pub. L. 102–325, title XII][/us/pl/102/325/tXII], § 1204, July 23, 1992, [106 Stat. 794][/us/stat/106/794]; amended [Pub. L. 103–208][/us/pl/103/208], § 2(j)(54), Dec. 20, 1993, [107 Stat. 2485][/us/stat/107/2485], related to disclosures of foreign gifts.
 
-    Another prior section 1145d, [Pub. L. 89–329, title XII, § 1209][/us/pl/89/329/s1209], as added [Pub. L. 99–498, title XII, § 1206(a)][/us/pl/99/498/s1206/a], Oct. 17, 1986, [100 Stat. 1577][/us/stat/100/1577], related to disclosures of foreign gifts, prior to repeal by [Pub. L. 99–498, title XII, § 1206(b)][/us/pl/99/498/s1206/b], Oct. 17, 1986, [100 Stat. 1579][/us/stat/100/1579], as amended by [Pub. L. 100–50, § 22(f)][/us/pl/100/50/s22/f], June 3, 1987, [101 Stat. 362][/us/stat/101/362], effective Aug. 1, 1989.
+    Another prior section 1145d, [Pub. L. 89–329, title XII][/us/pl/89/329/tXII], § 1209, as added [Pub. L. 99–498, title XII][/us/pl/99/498/tXII], § 1206(a), Oct. 17, 1986, [100 Stat. 1577][/us/stat/100/1577], related to disclosures of foreign gifts, prior to repeal by [Pub. L. 99–498, title XII][/us/pl/99/498/tXII], § 1206(b), Oct. 17, 1986, [100 Stat. 1579][/us/stat/100/1579], as amended by [Pub. L. 100–50][/us/pl/100/50], § 22(f), June 3, 1987, [101 Stat. 362][/us/stat/101/362], effective Aug. 1, 1989.
 
-    Section 1145d–1, [Pub. L. 89–329, title XII, § 1210][/us/pl/89/329/s1210], as added [Pub. L. 100–50, § 21(b)][/us/pl/100/50/s21/b], June 3, 1987, [101 Stat. 360][/us/stat/101/360], related to application of peer review process.
+    Section 1145d–1, [Pub. L. 89–329, title XII][/us/pl/89/329/tXII], § 1210, as added [Pub. L. 100–50][/us/pl/100/50], § 21(b), June 3, 1987, [101 Stat. 360][/us/stat/101/360], related to application of peer review process.
 
-    Section 1145e, [Pub. L. 89–329, title XII, § 1211][/us/pl/89/329/s1211], formerly § 1210, as added [Pub. L. 99–498, title XII, § 1207][/us/pl/99/498/s1207], Oct. 17, 1986, [100 Stat. 1579][/us/stat/100/1579]; renumbered § 1211, [Pub. L. 100–50, § 21(b)][/us/pl/100/50/s21/b], June 3, 1987, [101 Stat. 360][/us/stat/101/360], related to aggregate limit of authorization of appropriations.
+    Section 1145e, [Pub. L. 89–329, title XII][/us/pl/89/329/tXII], § 1211, formerly § 1210, as added [Pub. L. 99–498, title XII][/us/pl/99/498/tXII], § 1207, Oct. 17, 1986, [100 Stat. 1579][/us/stat/100/1579]; renumbered § 1211, [Pub. L. 100–50][/us/pl/100/50], § 21(b), June 3, 1987, [101 Stat. 360][/us/stat/101/360], related to aggregate limit of authorization of appropriations.
 
-    Section 1145f, [Pub. L. 89–329, title XII, § 1212][/us/pl/89/329/s1212], formerly § 1211, as added [Pub. L. 100–418, title VI, § 6231][/us/pl/100/418/s6231], Aug. 23, 1988, [102 Stat. 1518][/us/stat/102/1518]; renumbered § 1212 and amended [Pub. L. 103–208, § 2(j)(55)][/us/pl/103/208/s2/j/55], (56), Dec. 20, 1993, [107 Stat. 2485][/us/stat/107/2485], related to technology transfer centers.
+    Section 1145f, [Pub. L. 89–329, title XII][/us/pl/89/329/tXII], § 1212, formerly § 1211, as added [Pub. L. 100–418, title VI][/us/pl/100/418/tVI], § 6231, Aug. 23, 1988, [102 Stat. 1518][/us/stat/102/1518]; renumbered § 1212 and amended [Pub. L. 103–208][/us/pl/103/208], § 2(j)(55), (56), Dec. 20, 1993, [107 Stat. 2485][/us/stat/107/2485], related to technology transfer centers.
 
-    Section 1145g, [Pub. L. 89–329, title XII, § 1213][/us/pl/89/329/s1213], as added [Pub. L. 101–226, § 22(a)(1)][/us/pl/101/226/s22/a/1], Dec. 12, 1989, [103 Stat. 1938][/us/stat/103/1938], related to drug and alcohol abuse prevention.
+    Section 1145g, [Pub. L. 89–329, title XII][/us/pl/89/329/tXII], § 1213, as added [Pub. L. 101–226][/us/pl/101/226], § 22(a)(1), Dec. 12, 1989, [103 Stat. 1938][/us/stat/103/1938], related to drug and alcohol abuse prevention.
 
-    A prior section 1145h, [Pub. L. 102–325, title XV, § 1541][/us/pl/102/325/s1541], July 23, 1992, [106 Stat. 834][/us/stat/106/834]; [Pub. L. 103–208, § 2(k)(13)][/us/pl/103/208/s2/k/13], Dec. 20, 1993, [107 Stat. 2486][/us/stat/107/2486], authorized grants for campus sexual offense education, prior to repeal by [Pub. L. 105–332, § 6(b)(3)][/us/pl/105/332/s6/b/3], Oct. 31, 1998, [112 Stat. 3128][/us/stat/112/3128].
+    A prior section 1145h, [Pub. L. 102–325, title XV][/us/pl/102/325/tXV], § 1541, July 23, 1992, [106 Stat. 834][/us/stat/106/834]; [Pub. L. 103–208][/us/pl/103/208], § 2(k)(13), Dec. 20, 1993, [107 Stat. 2486][/us/stat/107/2486], authorized grants for campus sexual offense education, prior to repeal by [Pub. L. 105–332][/us/pl/105/332], § 6(b)(3), Oct. 31, 1998, [112 Stat. 3128][/us/stat/112/3128].
 
-    A prior section 1146, [Pub. L. 96–374, title XIII, § 1392][/us/pl/96/374/s1392], Oct. 3, 1980, [94 Stat. 1504][/us/stat/94/1504], which related to contract authority, was transferred to [section 1154 of this title][/us/usc/t20/s1154].
+    A prior section 1146, [Pub. L. 96–374, title XIII][/us/pl/96/374/tXIII], § 1392, Oct. 3, 1980, [94 Stat. 1504][/us/stat/94/1504], which related to contract authority, was transferred to [section 1154 of this title][/us/usc/t20/s1154].
 
-    Another prior section 1146, [Pub. L. 89–329, title XII, § 1206][/us/pl/89/329/s1206], as added [Pub. L. 90–575, title II, § 292][/us/pl/90/575/s292], Oct. 16, 1968, [82 Stat. 1050][/us/stat/82/1050], provided for dissemination of information and authorization of $2,000,000 for fiscal year ending June 30, 1970, and such amount as Congress might authorize for fiscal year ending June 30, 1971, prior to repeal by [Pub. L. 91–230, title IV, § 401(d)(5)][/us/pl/91/230/s401/d/5], Apr. 13, 1970, [84 Stat. 173][/us/stat/84/173].
+    Another prior section 1146, [Pub. L. 89–329, title XII][/us/pl/89/329/tXII], § 1206, as added [Pub. L. 90–575, title II][/us/pl/90/575/tII], § 292, Oct. 16, 1968, [82 Stat. 1050][/us/stat/82/1050], provided for dissemination of information and authorization of $2,000,000 for fiscal year ending June 30, 1970, and such amount as Congress might authorize for fiscal year ending June 30, 1971, prior to repeal by [Pub. L. 91–230, title IV][/us/pl/91/230/tIV], § 401(d)(5), Apr. 13, 1970, [84 Stat. 173][/us/stat/84/173].
 
-    A prior section 1146a, [Pub. L. 99–498, § 3][/us/pl/99/498/s3], Oct. 17, 1986, [100 Stat. 1278][/us/stat/100/1278], which provided that contracting authority be subject to appropriations, was transferred, and is set out as a Contracting Authority Subject to Appropriations note under [section 1154 of this title][/us/usc/t20/s1154].
+    A prior section 1146a, [Pub. L. 99–498][/us/pl/99/498], § 3, Oct. 17, 1986, [100 Stat. 1278][/us/stat/100/1278], which provided that contracting authority be subject to appropriations, was transferred, and is set out as a Contracting Authority Subject to Appropriations note under [section 1154 of this title][/us/usc/t20/s1154].
 
-    Prior sections 1147 to 1150, [Pub. L. 89–329, title XII][/us/pl/89/329], §§ 1207–1210, as added [Pub. L. 90–575, title II, § 295][/us/pl/90/575/s295], Oct. 16, 1968, [82 Stat. 1051][/us/stat/82/1051], 1052, provided for program planning and evaluation for higher education programs; advance funding; evaluation reports and Congressional review; and availability of appropriations on academic or school year basis, prior to repeal by [Pub. L. 91–230, title IV, § 401(b)][/us/pl/91/230/s401/b], Apr. 13, 1970, [84 Stat. 172][/us/stat/84/172].
+    Prior sections 1147 to 1150, [Pub. L. 89–329, title XII][/us/pl/89/329/tXII], §§ 1207–1210, as added [Pub. L. 90–575, title II][/us/pl/90/575/tII], § 295, Oct. 16, 1968, [82 Stat. 1051][/us/stat/82/1051], 1052, provided for program planning and evaluation for higher education programs; advance funding; evaluation reports and Congressional review; and availability of appropriations on academic or school year basis, prior to repeal by [Pub. L. 91–230, title IV][/us/pl/91/230/tIV], § 401(b), Apr. 13, 1970, [84 Stat. 172][/us/stat/84/172].
 
  __Amendments__ 
 
-    2010—Subsec. (a). [Pub. L. 111–152, § 2102(1)][/us/pl/111/152/s2102/1], substituted “$150,000,000 for each of the fiscal years 2010 through 2014. The authority to award grants under this section shall expire at the end of fiscal year 2014.” for “$66,000,000 for each of the fiscal years 2008 and 2009.”
+    2010—Subsec. (a). [Pub. L. 111–152][/us/pl/111/152], § 2102(1), substituted “$150,000,000 for each of the fiscal years 2010 through 2014. The authority to award grants under this section shall expire at the end of fiscal year 2014.” for “$66,000,000 for each of the fiscal years 2008 and 2009.”
 
-    Subsec. (c)(2). [Pub. L. 111–152, § 2102(2)][/us/pl/111/152/s2102/2], substituted “1.0 percent” for “0.5 percent”.
+    Subsec. (c)(2). [Pub. L. 111–152][/us/pl/111/152], § 2102(2), substituted “1.0 percent” for “0.5 percent”.
 
-    2009—Subsec. (c)(1). [Pub. L. 111–39, § 701(6)(A)][/us/pl/111/39/s701/6/A], made technical amendment to reference in original act which appears in two places in text as reference to [section 9902(2) of title 42][/us/usc/t42/s9902/2].
+    2009—Subsec. (c)(1). [Pub. L. 111–39][/us/pl/111/39], § 701(6)(A), made technical amendment to reference in original act which appears in two places in text as reference to [section 9902(2) of title 42][/us/usc/t42/s9902/2].
 
-    Subsec. (e). [Pub. L. 111–39, § 701(6)(B)][/us/pl/111/39/s701/6/B], substituted “(as described in [section 1085(p) of this title][/us/usc/t20/s1085/p])” for “(as defined in [section 1085(p) of this title][/us/usc/t20/s1085/p], as amended by section 303 of this Act)” and “1078(b)” for “1085(j)” in introductory provisions.
+    Subsec. (e). [Pub. L. 111–39][/us/pl/111/39], § 701(6)(B), substituted “(as described in [section 1085(p) of this title][/us/usc/t20/s1085/p])” for “(as defined in [section 1085(p) of this title][/us/usc/t20/s1085/p], as amended by section 303 of this Act)” and “1078(b)” for “1085(j)” in introductory provisions.
 
-    Subsec. (g)(2). [Pub. L. 111–39, § 701(6)(C)][/us/pl/111/39/s701/6/C], made technical amendment to reference in original act which appears in text as reference to [section 9902(2) of title 42][/us/usc/t42/s9902/2].
+    Subsec. (g)(2). [Pub. L. 111–39][/us/pl/111/39], § 701(6)(C), made technical amendment to reference in original act which appears in text as reference to [section 9902(2) of title 42][/us/usc/t42/s9902/2].
 
-    Subsec. (i). [Pub. L. 111–39, § 701(6)(D)][/us/pl/111/39/s701/6/D], substituted “consortium” for “consortia” in par. (1)(D) and in par. (2) in heading and wherever appearing in text.
+    Subsec. (i). [Pub. L. 111–39][/us/pl/111/39], § 701(6)(D), substituted “consortium” for “consortia” in par. (1)(D) and in par. (2) in heading and wherever appearing in text.
 
-    2008—Subsec. (a). [Pub. L. 110–315, § 710(1)][/us/pl/110/315/s710/1], substituted “In addition to the amount authorized and appropriated under the preceding sentence, there are authorized to be appropriated to carry out this section such sums as may be necessary for fiscal year 2009 and each of the five succeeding fiscal years.” for “The authority to award grants under this section shall expire at the end of fiscal year 2009.”
+    2008—Subsec. (a). [Pub. L. 110–315][/us/pl/110/315], § 710(1), substituted “In addition to the amount authorized and appropriated under the preceding sentence, there are authorized to be appropriated to carry out this section such sums as may be necessary for fiscal year 2009 and each of the five succeeding fiscal years.” for “The authority to award grants under this section shall expire at the end of fiscal year 2009.”
 
-    Subsec. (b)(1). [Pub. L. 110–315, § 710(2)][/us/pl/110/315/s710/2], inserted “, subject to the availability of appropriations,” after “the Secretary shall”.
+    Subsec. (b)(1). [Pub. L. 110–315][/us/pl/110/315], § 710(2), inserted “, subject to the availability of appropriations,” after “the Secretary shall”.
 
-    Subsec. (e). [Pub. L. 110–315, § 710(3)][/us/pl/110/315/s710/3], inserted “, or those nonprofit organizations that have agreements with the Secretary under [section 1085(j) of this title][/us/usc/t20/s1085/j]” before “, or a partnership”.
+    Subsec. (e). [Pub. L. 110–315][/us/pl/110/315], § 710(3), inserted “, or those nonprofit organizations that have agreements with the Secretary under [section 1085(j) of this title][/us/usc/t20/s1085/j]” before “, or a partnership”.
 
  __Effective Date of 2009 Amendment__ 
 
@@ -394,210 +394,210 @@
 [/us/usc/t20/s1070a–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1070a%E2%80%931
 [/us/usc/t42/s9902/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs9902%2F2
 [/us/usc/t20/s6301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs6301
-[/us/pl/89/329/s781]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2Fs781
-[/us/pl/110/84/s801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F84%2Fs801
+[/us/pl/89/329/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2FtVII
+[/us/pl/110/84/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F84%2FtVIII
 [/us/stat/121/812]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F812
-[/us/pl/110/315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315
+[/us/pl/110/315/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2FtVII
 [/us/stat/122/3361]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3361
-[/us/pl/111/39/s701/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F39%2Fs701%2F6
+[/us/pl/111/39/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F39%2FtVII
 [/us/stat/123/1955]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1955
-[/us/pl/111/152/s2102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F152%2Fs2102
+[/us/pl/111/152/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F152%2FtII
 [/us/stat/124/1073]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1073
 [/us/pl/110/84]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F84
 [/us/pl/89/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F10
 [/us/stat/79/27]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F27
 [/us/usc/t20/s6301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs6301
-[/us/pl/89/329/s1201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2Fs1201
+[/us/pl/89/329/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2FtXII
 [/us/stat/79/1269]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F1269
-[/us/pl/90/575]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F575
+[/us/pl/90/575/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F575%2FtII
 [/us/stat/82/1042]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F1042
-[/us/pl/91/230/s806/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F230%2Fs806%2Fb
+[/us/pl/91/230/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F230%2FtVIII
 [/us/stat/84/192]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F192
-[/us/pl/92/318/s131/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F318%2Fs131%2Fd%2F1
+[/us/pl/92/318/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F318%2FtI
 [/us/stat/86/260]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F260
-[/us/pl/94/482/s181/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F482%2Fs181%2Fa
+[/us/pl/94/482/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F482%2FtI
 [/us/stat/90/2167]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2167
-[/us/pl/95/43/s1/b/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F43%2Fs1%2Fb%2F7
+[/us/pl/95/43]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F43
 [/us/stat/91/218]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F218
-[/us/pl/95/180/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F180%2Fs1%2Fa
+[/us/pl/95/180]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F180
 [/us/stat/91/1372]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F1372
-[/us/pl/96/374/s1391/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F374%2Fs1391%2Fa%2F1
+[/us/pl/96/374/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F374%2FtXIII
 [/us/stat/94/1503]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F1503
-[/us/pl/100/50/s21/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F50%2Fs21%2Fa
+[/us/pl/100/50]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F50
 [/us/stat/101/360]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F360
-[/us/pl/102/26/s2/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F26%2Fs2%2Fa%2F4
+[/us/pl/102/26]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F26
 [/us/stat/105/123]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F123
-[/us/pl/102/325/s1201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325%2Fs1201
+[/us/pl/102/325/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325%2FtXII
 [/us/stat/106/792]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F792
-[/us/pl/102/394/s308/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F394%2Fs308%2Fa
+[/us/pl/102/394/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F394%2FtIII
 [/us/stat/106/1820]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F1820
-[/us/pl/103/82/s111/b/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F82%2Fs111%2Fb%2F5
+[/us/pl/103/82/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F82%2FtI
 [/us/stat/107/861]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F861
-[/us/pl/103/208/s2/j/48]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F208%2Fs2%2Fj%2F48
+[/us/pl/103/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F208
 [/us/stat/107/2485]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F2485
-[/us/pl/105/244/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2Fs3
+[/us/pl/105/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244
 [/us/stat/112/1585]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F1585
 [/us/pl/89/329/s781]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2Fs781
 [/us/usc/t20/s1132i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1132i
 [/us/pl/105/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244
-[/us/pl/89/329/s1202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2Fs1202
-[/us/pl/94/482/s182]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F482%2Fs182
+[/us/pl/89/329/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2FtXII
+[/us/pl/94/482/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F482%2FtI
 [/us/stat/90/2167]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2167
-[/us/pl/96/374/s1201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F374%2Fs1201
+[/us/pl/96/374/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F374%2FtXII
 [/us/stat/94/1493]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F1493
-[/us/pl/102/325/s1202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325%2Fs1202
+[/us/pl/102/325/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325%2FtXII
 [/us/stat/106/793]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F793
-[/us/pl/105/244/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2Fs3
+[/us/pl/105/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244
 [/us/stat/112/1585]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F1585
-[/us/pl/89/329/s1202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2Fs1202
+[/us/pl/89/329/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2FtXII
 [/us/stat/79/1270]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F1270
-[/us/pl/90/575/s251]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F575%2Fs251
+[/us/pl/90/575/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F575%2FtII
 [/us/stat/82/1042]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F1042
 [/us/pl/96/374/s1201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F374%2Fs1201
-[/us/pl/96/374/s1201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F374%2Fs1201
+[/us/pl/96/374/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F374%2FtXII
 [/us/stat/94/1493]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F1493
-[/us/pl/89/329/s1202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2Fs1202
-[/us/pl/92/318/s196]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F318%2Fs196
+[/us/pl/89/329/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2FtXII
+[/us/pl/92/318/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F318%2FtI
 [/us/stat/86/324]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F324
-[/us/pl/89/329/s1203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2Fs1203
-[/us/pl/92/318/s196]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F318%2Fs196
+[/us/pl/89/329/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2FtXII
+[/us/pl/92/318/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F318%2FtI
 [/us/stat/86/325]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F325
-[/us/pl/94/482/s179]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F482%2Fs179
+[/us/pl/94/482/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F482%2FtI
 [/us/stat/90/2166]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2166
-[/us/pl/96/49/s12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F49%2Fs12
+[/us/pl/96/49]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F49
 [/us/stat/93/354]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F354
-[/us/pl/105/244/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2Fs3
+[/us/pl/105/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244
 [/us/stat/112/1585]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F1585
-[/us/pl/89/329/s1203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2Fs1203
-[/us/pl/96/374/s1201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F374%2Fs1201
+[/us/pl/89/329/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2FtXII
+[/us/pl/96/374/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F374%2FtXII
 [/us/stat/94/1493]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F1493
-[/us/pl/89/329/s1203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2Fs1203
+[/us/pl/89/329/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2FtXII
 [/us/stat/79/1270]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F1270
-[/us/pl/90/575/s251]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F575%2Fs251
+[/us/pl/90/575/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F575%2FtII
 [/us/stat/82/1042]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F1042
-[/us/pl/91/230/s401/c/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F230%2Fs401%2Fc%2F5
+[/us/pl/91/230/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F230%2FtIV
 [/us/stat/84/173]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F173
-[/us/pl/89/329/s1204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2Fs1204
+[/us/pl/89/329/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2FtXII
 [/us/stat/79/1270]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F1270
-[/us/pl/90/575/s251]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F575%2Fs251
+[/us/pl/90/575/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F575%2FtII
 [/us/stat/82/1042]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F1042
-[/us/pl/91/230/s401/f/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F230%2Fs401%2Ff%2F6
+[/us/pl/91/230/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F230%2FtIV
 [/us/stat/84/173]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F173
-[/us/pl/89/329/s1204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2Fs1204
-[/us/pl/96/374/s1201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F374%2Fs1201
+[/us/pl/89/329/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2FtXII
+[/us/pl/96/374/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F374%2FtXII
 [/us/stat/94/1495]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F1495
-[/us/pl/99/498/s1201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F498%2Fs1201
+[/us/pl/99/498/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F498%2FtXII
 [/us/stat/100/1573]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1573
-[/us/pl/102/73/s801/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F73%2Fs801%2Fc
+[/us/pl/102/73/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F73%2FtVIII
 [/us/stat/105/360]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F360
-[/us/pl/103/208/s2/j/49]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F208%2Fs2%2Fj%2F49
+[/us/pl/103/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F208
 [/us/stat/107/2485]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F2485
-[/us/pl/92/318/s510]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F318%2Fs510
+[/us/pl/92/318/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F318%2FtV
 [/us/stat/86/353]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F353
-[/us/pl/89/329/s1205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2Fs1205
-[/us/pl/96/374/s1201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F374%2Fs1201
+[/us/pl/89/329/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2FtXII
+[/us/pl/96/374/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F374%2FtXII
 [/us/stat/94/1495]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F1495
-[/us/pl/99/498/s1202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F498%2Fs1202
+[/us/pl/99/498/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F498%2FtXII
 [/us/stat/100/1573]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1573
-[/us/pl/102/325/s1203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325%2Fs1203
+[/us/pl/102/325/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325%2FtXII
 [/us/stat/106/793]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F793
-[/us/pl/103/208/s2/j/50]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F208%2Fs2%2Fj%2F50
+[/us/pl/103/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F208
 [/us/stat/107/2485]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F2485
-[/us/pl/89/329/s1205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2Fs1205
-[/us/pl/90/575/s291/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F575%2Fs291%2Fa
+[/us/pl/89/329/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2FtXII
+[/us/pl/90/575/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F575%2FtII
 [/us/stat/82/1049]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F1049
-[/us/pl/91/230/s401/h/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F230%2Fs401%2Fh%2F4
+[/us/pl/91/230/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F230%2FtIV
 [/us/stat/84/174]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F174
 [/us/pl/96/374/s1201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F374%2Fs1201
-[/us/pl/89/329/s1206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2Fs1206
-[/us/pl/99/498/s1203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F498%2Fs1203
+[/us/pl/89/329/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2FtXII
+[/us/pl/99/498/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F498%2FtXII
 [/us/stat/100/1573]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1573
-[/us/pl/89/329/s1206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2Fs1206
-[/us/pl/92/318/s197]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F318%2Fs197
+[/us/pl/89/329/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2FtXII
+[/us/pl/92/318/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F318%2FtI
 [/us/stat/86/325]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F325
-[/us/pl/96/374/s1201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F374%2Fs1201
+[/us/pl/96/374/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F374%2FtXII
 [/us/stat/94/1493]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F1493
-[/us/pl/89/329/s1207]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2Fs1207
-[/us/pl/99/498/s1204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F498%2Fs1204
+[/us/pl/89/329/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2FtXII
+[/us/pl/99/498/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F498%2FtXII
 [/us/stat/100/1576]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1576
-[/us/pl/89/329/s1202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2Fs1202
-[/us/pl/94/482/s182]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F482%2Fs182
+[/us/pl/89/329/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2FtXII
+[/us/pl/94/482/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F482%2FtI
 [/us/stat/90/2167]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2167
-[/us/pl/96/374/s1201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F374%2Fs1201
+[/us/pl/96/374/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F374%2FtXII
 [/us/stat/94/1493]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F1493
 [/us/usc/t20/s1142]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1142
 [/us/pl/105/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244
-[/us/pl/89/329/s1208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2Fs1208
-[/us/pl/99/498/s1205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F498%2Fs1205
+[/us/pl/89/329/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2FtXII
+[/us/pl/99/498/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F498%2FtXII
 [/us/stat/100/1577]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1577
-[/us/pl/89/329/s1208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2Fs1208
-[/us/pl/94/482/s183]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F482%2Fs183
+[/us/pl/89/329/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2FtXII
+[/us/pl/94/482/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F482%2FtI
 [/us/stat/90/2167]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2167
-[/us/pl/96/374/s1201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F374%2Fs1201
+[/us/pl/96/374/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F374%2FtXII
 [/us/stat/94/1493]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F1493
-[/us/pl/89/329/s1209]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2Fs1209
-[/us/pl/102/325/s1204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325%2Fs1204
+[/us/pl/89/329/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2FtXII
+[/us/pl/102/325/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325%2FtXII
 [/us/stat/106/794]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F794
-[/us/pl/103/208/s2/j/54]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F208%2Fs2%2Fj%2F54
+[/us/pl/103/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F208
 [/us/stat/107/2485]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F2485
-[/us/pl/89/329/s1209]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2Fs1209
-[/us/pl/99/498/s1206/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F498%2Fs1206%2Fa
+[/us/pl/89/329/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2FtXII
+[/us/pl/99/498/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F498%2FtXII
 [/us/stat/100/1577]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1577
-[/us/pl/99/498/s1206/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F498%2Fs1206%2Fb
+[/us/pl/99/498/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F498%2FtXII
 [/us/stat/100/1579]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1579
-[/us/pl/100/50/s22/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F50%2Fs22%2Ff
+[/us/pl/100/50]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F50
 [/us/stat/101/362]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F362
-[/us/pl/89/329/s1210]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2Fs1210
-[/us/pl/100/50/s21/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F50%2Fs21%2Fb
+[/us/pl/89/329/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2FtXII
+[/us/pl/100/50]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F50
 [/us/stat/101/360]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F360
-[/us/pl/89/329/s1211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2Fs1211
-[/us/pl/99/498/s1207]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F498%2Fs1207
+[/us/pl/89/329/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2FtXII
+[/us/pl/99/498/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F498%2FtXII
 [/us/stat/100/1579]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1579
-[/us/pl/100/50/s21/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F50%2Fs21%2Fb
+[/us/pl/100/50]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F50
 [/us/stat/101/360]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F360
-[/us/pl/89/329/s1212]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2Fs1212
-[/us/pl/100/418/s6231]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2Fs6231
+[/us/pl/89/329/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2FtXII
+[/us/pl/100/418/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2FtVI
 [/us/stat/102/1518]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1518
-[/us/pl/103/208/s2/j/55]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F208%2Fs2%2Fj%2F55
+[/us/pl/103/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F208
 [/us/stat/107/2485]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F2485
-[/us/pl/89/329/s1213]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2Fs1213
-[/us/pl/101/226/s22/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F226%2Fs22%2Fa%2F1
+[/us/pl/89/329/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2FtXII
+[/us/pl/101/226]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F226
 [/us/stat/103/1938]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1938
-[/us/pl/102/325/s1541]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325%2Fs1541
+[/us/pl/102/325/tXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325%2FtXV
 [/us/stat/106/834]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F834
-[/us/pl/103/208/s2/k/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F208%2Fs2%2Fk%2F13
+[/us/pl/103/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F208
 [/us/stat/107/2486]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F2486
-[/us/pl/105/332/s6/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F332%2Fs6%2Fb%2F3
+[/us/pl/105/332]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F332
 [/us/stat/112/3128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F3128
-[/us/pl/96/374/s1392]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F374%2Fs1392
+[/us/pl/96/374/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F374%2FtXIII
 [/us/stat/94/1504]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F1504
 [/us/usc/t20/s1154]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1154
-[/us/pl/89/329/s1206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2Fs1206
-[/us/pl/90/575/s292]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F575%2Fs292
+[/us/pl/89/329/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2FtXII
+[/us/pl/90/575/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F575%2FtII
 [/us/stat/82/1050]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F1050
-[/us/pl/91/230/s401/d/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F230%2Fs401%2Fd%2F5
+[/us/pl/91/230/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F230%2FtIV
 [/us/stat/84/173]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F173
-[/us/pl/99/498/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F498%2Fs3
+[/us/pl/99/498]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F498
 [/us/stat/100/1278]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1278
 [/us/usc/t20/s1154]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1154
-[/us/pl/89/329]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329
-[/us/pl/90/575/s295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F575%2Fs295
+[/us/pl/89/329/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2FtXII
+[/us/pl/90/575/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F575%2FtII
 [/us/stat/82/1051]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F1051
-[/us/pl/91/230/s401/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F230%2Fs401%2Fb
+[/us/pl/91/230/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F230%2FtIV
 [/us/stat/84/172]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F172
-[/us/pl/111/152/s2102/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F152%2Fs2102%2F1
-[/us/pl/111/152/s2102/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F152%2Fs2102%2F2
-[/us/pl/111/39/s701/6/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F39%2Fs701%2F6%2FA
+[/us/pl/111/152]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F152
+[/us/pl/111/152]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F152
+[/us/pl/111/39]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F39
 [/us/usc/t42/s9902/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs9902%2F2
-[/us/pl/111/39/s701/6/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F39%2Fs701%2F6%2FB
+[/us/pl/111/39]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F39
 [/us/usc/t20/s1085/p]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1085%2Fp
 [/us/usc/t20/s1085/p]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1085%2Fp
-[/us/pl/111/39/s701/6/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F39%2Fs701%2F6%2FC
+[/us/pl/111/39]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F39
 [/us/usc/t42/s9902/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs9902%2F2
-[/us/pl/111/39/s701/6/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F39%2Fs701%2F6%2FD
-[/us/pl/110/315/s710/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2Fs710%2F1
-[/us/pl/110/315/s710/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2Fs710%2F2
-[/us/pl/110/315/s710/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2Fs710%2F3
+[/us/pl/111/39]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F39
+[/us/pl/110/315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315
+[/us/pl/110/315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315
+[/us/pl/110/315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315
 [/us/usc/t20/s1085/j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1085%2Fj
 [/us/pl/111/39]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F39
 [/us/pl/110/315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315

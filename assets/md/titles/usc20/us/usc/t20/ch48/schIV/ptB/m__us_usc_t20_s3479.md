@@ -31,11 +31,11 @@
 
         Any interest in real property acquired pursuant to this chapter shall be acquired in the name of the United States Government.
 
-([Pub. L. 96–88, title IV, § 419][/us/pl/96/88/s419], Oct. 17, 1979, [93 Stat. 686][/us/stat/93/686]; [Pub. L. 99–145, title XII, § 1204(a)(2)][/us/pl/99/145/s1204/a/2], Nov. 8, 1985, [99 Stat. 720][/us/stat/99/720].)
+([Pub. L. 96–88, title IV][/us/pl/96/88/tIV], § 419, Oct. 17, 1979, [93 Stat. 686][/us/stat/93/686]; [Pub. L. 99–145, title XII][/us/pl/99/145/tXII], § 1204(a)(2), Nov. 8, 1985, [99 Stat. 720][/us/stat/99/720].)
 
  __Codification__ 
 
-    “[Section 102(3) of title 40][/us/usc/t40/s102/3]” substituted in subsec. (b) for “section 3(e) of the Federal Property and Administrative Services Act of 1949” on authority of [Pub. L. 107–217, § 5(c)][/us/pl/107/217/s5/c], Aug. 21, 2002, [116 Stat. 1303][/us/stat/116/1303], the first section of which enacted Title 40, Public Buildings, Property, and Works.
+    “[Section 102(3) of title 40][/us/usc/t40/s102/3]” substituted in subsec. (b) for “section 3(e) of the Federal Property and Administrative Services Act of 1949” on authority of [Pub. L. 107–217][/us/pl/107/217], § 5(c), Aug. 21, 2002, [116 Stat. 1303][/us/stat/116/1303], the first section of which enacted Title 40, Public Buildings, Property, and Works.
 
  __Amendments__ 
 
@@ -49,12 +49,12 @@
 ----------
 
 [/us/usc/t40/s102/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft40%2Fs102%2F3
-[/us/pl/96/88/s419]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F88%2Fs419
+[/us/pl/96/88/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F88%2FtIV
 [/us/stat/93/686]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F686
-[/us/pl/99/145/s1204/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F145%2Fs1204%2Fa%2F2
+[/us/pl/99/145/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F145%2FtXII
 [/us/stat/99/720]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F720
 [/us/usc/t40/s102/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft40%2Fs102%2F3
-[/us/pl/107/217/s5/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F217%2Fs5%2Fc
+[/us/pl/107/217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F217
 [/us/stat/116/1303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1303
 [/us/pl/99/145]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F145
 

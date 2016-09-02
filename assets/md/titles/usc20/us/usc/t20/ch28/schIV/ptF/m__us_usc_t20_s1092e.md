@@ -51,7 +51,7 @@
 
             Not later than 270 days after February 8, 2006, the Secretary and guaranty agencies shall publicize the availability of the information required by this section, with special emphasis on ensuring that populations that are traditionally underrepresented in postsecondary education are made aware of the availability of such information.
 
-([Pub. L. 89–329, title IV, § 485D][/us/pl/89/329/s485D], as added [Pub. L. 109–171, title VIII, § 8023][/us/pl/109/171/s8023], Feb. 8, 2006, [120 Stat. 179][/us/stat/120/179].)
+([Pub. L. 89–329, title IV][/us/pl/89/329/tIV], § 485D, as added [Pub. L. 109–171, title VIII][/us/pl/109/171/tVIII], § 8023, Feb. 8, 2006, [120 Stat. 179][/us/stat/120/179].)
 
  __Effective Date__ 
 
@@ -68,8 +68,8 @@
 [/us/usc/t20/s1078/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1078%2Fc
 [/us/usc/t20/s1072b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1072b
 [/us/usc/t20/s1072/h/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1072%2Fh%2F4
-[/us/pl/89/329/s485D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2Fs485D
-[/us/pl/109/171/s8023]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F171%2Fs8023
+[/us/pl/89/329/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2FtIV
+[/us/pl/109/171/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F171%2FtVIII
 [/us/stat/120/179]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F179
 [/us/pl/109/171/s8001/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F171%2Fs8001%2Fc
 [/us/usc/t20/s1002]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1002

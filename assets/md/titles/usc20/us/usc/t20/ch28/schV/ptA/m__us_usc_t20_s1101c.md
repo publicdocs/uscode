@@ -23,7 +23,7 @@
 
         Notwithstanding subsection (a) of this section, the Secretary may award a grant to a Hispanic-serving institution under this subchapter for a period of 1 year for the purpose of preparation of plans and applications for a grant under this subchapter.
 
-([Pub. L. 89–329, title V, § 504][/us/pl/89/329/s504], as added [Pub. L. 105–244, title V, § 501][/us/pl/105/244/s501], Oct. 7, 1998, [112 Stat. 1769][/us/stat/112/1769]; amended [Pub. L. 109–292, § 4(b)][/us/pl/109/292/s4/b], Sept. 30, 2006, [120 Stat. 1341][/us/stat/120/1341].)
+([Pub. L. 89–329, title V][/us/pl/89/329/tV], § 504, as added [Pub. L. 105–244, title V][/us/pl/105/244/tV], § 501, Oct. 7, 1998, [112 Stat. 1769][/us/stat/112/1769]; amended [Pub. L. 109–292][/us/pl/109/292], § 4(b), Sept. 30, 2006, [120 Stat. 1341][/us/stat/120/1341].)
 
  __Prior Provisions__ 
 
@@ -46,10 +46,10 @@
 ----------
 ----------
 
-[/us/pl/89/329/s504]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2Fs504
-[/us/pl/105/244/s501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2Fs501
+[/us/pl/89/329/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2FtV
+[/us/pl/105/244/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2FtV
 [/us/stat/112/1769]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F1769
-[/us/pl/109/292/s4/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F292%2Fs4%2Fb
+[/us/pl/109/292]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F292
 [/us/stat/120/1341]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1341
 [/us/pl/89/329/s504]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2Fs504
 [/us/usc/t20/s1102c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1102c

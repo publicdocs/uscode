@@ -31,7 +31,7 @@
 
         Any funds paid to an institution and not expended or used for the purposes for which the funds were paid during the five-year period following the date of the initial grant award, may be carried over and expended during the succeeding five-year period, if such funds were obligated for a purpose for which the funds were paid during the five-year period following the date of the initial grant award.
 
-([Pub. L. 89–329, title III, § 327][/us/pl/89/329/s327], as added [Pub. L. 99–498, title III, § 301(a)][/us/pl/99/498/s301/a], Oct. 17, 1986, [100 Stat. 1298][/us/stat/100/1298]; amended [Pub. L. 100–50, § 2(a)(11)][/us/pl/100/50/s2/a/11], June 3, 1987, [101 Stat. 335][/us/stat/101/335]; [Pub. L. 110–315, title III, § 312][/us/pl/110/315/s312], Aug. 14, 2008, [122 Stat. 3180][/us/stat/122/3180].)
+([Pub. L. 89–329, title III][/us/pl/89/329/tIII], § 327, as added [Pub. L. 99–498, title III][/us/pl/99/498/tIII], § 301(a), Oct. 17, 1986, [100 Stat. 1298][/us/stat/100/1298]; amended [Pub. L. 100–50][/us/pl/100/50], § 2(a)(11), June 3, 1987, [101 Stat. 335][/us/stat/101/335]; [Pub. L. 110–315, title III][/us/pl/110/315/tIII], § 312, Aug. 14, 2008, [122 Stat. 3180][/us/stat/122/3180].)
 
  __Amendments__ 
 
@@ -50,12 +50,12 @@
 ----------
 ----------
 
-[/us/pl/89/329/s327]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2Fs327
-[/us/pl/99/498/s301/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F498%2Fs301%2Fa
+[/us/pl/89/329/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2FtIII
+[/us/pl/99/498/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F498%2FtIII
 [/us/stat/100/1298]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1298
-[/us/pl/100/50/s2/a/11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F50%2Fs2%2Fa%2F11
+[/us/pl/100/50]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F50
 [/us/stat/101/335]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F335
-[/us/pl/110/315/s312]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2Fs312
+[/us/pl/110/315/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2FtIII
 [/us/stat/122/3180]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3180
 [/us/pl/110/315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315
 [/us/pl/100/50]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F50

@@ -25,11 +25,11 @@
 
         (2) the boards or commissions of the National Gallery of Art, the John F. Kennedy Center for the Performing Arts, and the Woodrow Wilson International Center for Scholars.
 
-(R.S. § 5580; [Mar. 12, 1894, ch. 36][/us/act/1894-03-12/ch36], [28 Stat. 41][/us/stat/28/41]; [Pub. L. 91–551, § 1(a)][/us/pl/91/551/s1/a], Dec. 15, 1970, [84 Stat. 1439][/us/stat/84/1439]; [Pub. L. 105–277, div. A, § 101(e)][/us/pl/105/277/s101/e] \[title III, § 355\], Oct. 21, 1998, [112 Stat. 2681–231][/us/stat/112/2681-231], 2681–303.)
+(R.S. § 5580; [Mar. 12, 1894, ch. 36][/us/act/1894-03-12/ch36], [28 Stat. 41][/us/stat/28/41]; [Pub. L. 91–551][/us/pl/91/551], § 1(a), Dec. 15, 1970, [84 Stat. 1439][/us/stat/84/1439]; [Pub. L. 105–277, div. A][/us/pl/105/277/dA], § 101(e) \[title III, § 355\], Oct. 21, 1998, [112 Stat. 2681–231][/us/stat/112/2681-231], 2681–303.)
 
  __Codification__ 
 
-    R.S. § 5580 derived from acts [Aug. 10, 1846, ch. 178, § 3][/us/act/1846-08-10/ch178/s3], [9 Stat. 103][/us/stat/9/103]; [Jan. 10, 1865, ch. 11][/us/act/1865-01-10/ch11], [13 Stat. 420][/us/stat/13/420]; [Mar. 20, 1871, ch. 1][/us/act/1871-03-20/ch1], [17 Stat. 1][/us/stat/17/1].
+    R.S. § 5580 derived from acts [Aug. 10, 1846, ch. 178][/us/act/1846-08-10/ch178], § 3, [9 Stat. 103][/us/stat/9/103]; [Jan. 10, 1865, ch. 11][/us/act/1865-01-10/ch11], [13 Stat. 420][/us/stat/13/420]; [Mar. 20, 1871, ch. 1][/us/act/1871-03-20/ch1], [17 Stat. 1][/us/stat/17/1].
 
  __Amendments__ 
 
@@ -48,11 +48,11 @@
 
 [/us/act/1894-03-12/ch36]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1894-03-12%2Fch36
 [/us/stat/28/41]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F28%2F41
-[/us/pl/91/551/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F551%2Fs1%2Fa
+[/us/pl/91/551]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F551
 [/us/stat/84/1439]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1439
-[/us/pl/105/277/s101/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs101%2Fe
+[/us/pl/105/277/dA]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2FdA
 [/us/stat/112/2681-231]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681-231
-[/us/act/1846-08-10/ch178/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1846-08-10%2Fch178%2Fs3
+[/us/act/1846-08-10/ch178]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1846-08-10%2Fch178
 [/us/stat/9/103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F9%2F103
 [/us/act/1865-01-10/ch11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1865-01-10%2Fch11
 [/us/stat/13/420]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F13%2F420

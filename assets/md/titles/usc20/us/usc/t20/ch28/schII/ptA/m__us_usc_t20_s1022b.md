@@ -61,7 +61,7 @@
 
         An eligible partnership that receives a grant under this part may use not more than two percent of the funds provided to administer the grant.
 
-([Pub. L. 89–329, title II, § 203][/us/pl/89/329/s203], as added [Pub. L. 110–315, title II, § 201(2)][/us/pl/110/315/s201/2], Aug. 14, 2008, [122 Stat. 3145][/us/stat/122/3145].)
+([Pub. L. 89–329, title II][/us/pl/89/329/tII], § 203, as added [Pub. L. 110–315, title II][/us/pl/110/315/tII], § 201(2), Aug. 14, 2008, [122 Stat. 3145][/us/stat/122/3145].)
 
  __Prior Provisions__ 
 
@@ -78,8 +78,8 @@
 ----------
 ----------
 
-[/us/pl/89/329/s203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2Fs203
-[/us/pl/110/315/s201/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2Fs201%2F2
+[/us/pl/89/329/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2FtII
+[/us/pl/110/315/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2FtII
 [/us/stat/122/3145]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3145
 [/us/pl/89/329/s203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2Fs203
 [/us/usc/t20/s1023]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1023

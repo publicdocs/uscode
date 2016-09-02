@@ -17,7 +17,7 @@
 
     The Secretary, as a member of the Coordinating Council on Juvenile Justice and Delinquency Prevention of the Department of Justice, shall coordinate the programs and activities carried out under this subchapter with the programs and activities carried out by the departments and offices represented within the Council that provide assistance under other Federal law for purposes that are determined by the Secretary to be similar to the purpose of this subchapter, in order to avoid redundancy and coordinate Federal assistance, research, and programs for youth violence prevention.
 
-([Pub. L. 103–227, title VII, § 709][/us/pl/103/227/s709], Mar. 31, 1994, [108 Stat. 209][/us/stat/108/209].)
+([Pub. L. 103–227, title VII][/us/pl/103/227/tVII], § 709, Mar. 31, 1994, [108 Stat. 209][/us/stat/108/209].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/103/227/s709]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F227%2Fs709
+[/us/pl/103/227/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F227%2FtVII
 [/us/stat/108/209]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F209
 
 

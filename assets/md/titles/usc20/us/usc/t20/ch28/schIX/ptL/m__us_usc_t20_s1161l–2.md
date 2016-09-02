@@ -17,7 +17,7 @@
 
     The Secretary shall continue to coordinate with the Secretary of Homeland Security and other appropriate agencies to develop and maintain procedures to address the preparedness, response, and recovery needs of institutions of higher education in the event of a natural or manmade disaster with respect to which the President has declared a major disaster or emergency (as such terms are defined in section 1161l–3 of this title).
 
-([Pub. L. 89–329, title VIII, § 823][/us/pl/89/329/s823], as added [Pub. L. 110–315, title VIII, § 801][/us/pl/110/315/s801], Aug. 14, 2008, [122 Stat. 3410][/us/stat/122/3410].)
+([Pub. L. 89–329, title VIII][/us/pl/89/329/tVIII], § 823, as added [Pub. L. 110–315, title VIII][/us/pl/110/315/tVIII], § 801, Aug. 14, 2008, [122 Stat. 3410][/us/stat/122/3410].)
 
 ----------
 
@@ -26,8 +26,8 @@
 ----------
 ----------
 
-[/us/pl/89/329/s823]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2Fs823
-[/us/pl/110/315/s801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2Fs801
+[/us/pl/89/329/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2FtVIII
+[/us/pl/110/315/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2FtVIII
 [/us/stat/122/3410]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3410
 
 

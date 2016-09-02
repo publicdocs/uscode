@@ -33,7 +33,7 @@
 
         Provided, That the Administrator determines that such funds will be used to carry out the statutory purposes of the Foundation in a manner consistent with the goals, objectives and programs of this chapter.
 
-([Pub. L. 101–619, § 11][/us/pl/101/619/s11], Nov. 16, 1990, [104 Stat. 3339][/us/stat/104/3339].)
+([Pub. L. 101–619][/us/pl/101/619], § 11, Nov. 16, 1990, [104 Stat. 3339][/us/stat/104/3339].)
 
 ----------
 
@@ -44,7 +44,7 @@
 
 [/us/usc/t20/s5507/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs5507%2Fe
 [/us/usc/t20/s5509/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs5509%2Fd
-[/us/pl/101/619/s11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F619%2Fs11
+[/us/pl/101/619]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F619
 [/us/stat/104/3339]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3339
 
 

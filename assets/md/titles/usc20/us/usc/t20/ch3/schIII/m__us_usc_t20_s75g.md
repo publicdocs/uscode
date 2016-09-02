@@ -17,7 +17,7 @@
 
     There are authorized to be appropriated such sums as may be necessary to carry out the purposes of this subchapter.
 
-([Pub. L. 87–443, § 8][/us/pl/87/443/s8], Apr. 27, 1962, [76 Stat. 63][/us/stat/76/63].)
+([Pub. L. 87–443][/us/pl/87/443], § 8, Apr. 27, 1962, [76 Stat. 63][/us/stat/76/63].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/87/443/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F443%2Fs8
+[/us/pl/87/443]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F443
 [/us/stat/76/63]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F63
 
 

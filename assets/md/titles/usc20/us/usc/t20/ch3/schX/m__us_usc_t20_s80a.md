@@ -23,7 +23,7 @@
 
         The provisions of this subchapter in no way rescind subchapter VII of this chapter, which established the National Air and Space Museum of the Smithsonian Institution, or any other authority of the Smithsonian Institution.
 
-([Pub. L. 87–186, § 2][/us/pl/87/186/s2], Aug. 30, 1961, [75 Stat. 414][/us/stat/75/414]; [Pub. L. 89–509][/us/pl/89/509], pt. I, § 2, July 19, 1966, [80 Stat. 310][/us/stat/80/310].)
+([Pub. L. 87–186][/us/pl/87/186], § 2, Aug. 30, 1961, [75 Stat. 414][/us/stat/75/414]; [Pub. L. 89–509][/us/pl/89/509], pt. I, § 2, July 19, 1966, [80 Stat. 310][/us/stat/80/310].)
 
  __Change of Name__ 
 
@@ -36,7 +36,7 @@
 ----------
 ----------
 
-[/us/pl/87/186/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F186%2Fs2
+[/us/pl/87/186]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F186
 [/us/stat/75/414]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F75%2F414
 [/us/pl/89/509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F509
 [/us/stat/80/310]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F310

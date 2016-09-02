@@ -23,7 +23,7 @@
 
         Buildings acquired pursuant to recommendations made under subsection (a) of this section shall be used to house public exhibits and study collections that are not appropriate for the military exhibits of the Smithsonian Institution on the Mall in the District of Columbia. Facilities shall be provided for the display of large military objects and for the reconstruction, in an appropriate way, on lands acquired pursuant to recommendations made under subsection (a) of this section, of exhibits showing the nature of fortifications, trenches, and other military and naval facilities characteristic of the American colonial period, the War of the Revolution, and subsequent American military and naval operations.
 
-([Pub. L. 87–186, § 3][/us/pl/87/186/s3], Aug. 30, 1961, [75 Stat. 415][/us/stat/75/415].)
+([Pub. L. 87–186][/us/pl/87/186], § 3, Aug. 30, 1961, [75 Stat. 415][/us/stat/75/415].)
 
 ----------
 
@@ -32,7 +32,7 @@
 ----------
 ----------
 
-[/us/pl/87/186/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F186%2Fs3
+[/us/pl/87/186]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F186
 [/us/stat/75/415]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F75%2F415
 
 

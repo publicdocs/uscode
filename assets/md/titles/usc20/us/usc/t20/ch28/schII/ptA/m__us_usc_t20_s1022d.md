@@ -103,7 +103,7 @@
 
             (B) The standards and criteria that prospective teachers must meet to attain initial teacher certification or licensure and to be certified or licensed to teach particular academic subjects, areas, or grades within the State.
 
-            (C) A description of how the assessments and requirements described in subparagraph (A) are aligned with the State’s challenging academic content standards required under [section 6311(b)(1) of this title][/us/usc/t20/s6311/b/1] and, as applicable, State early learning standards for early childhood education programs.
+            (C) A description of how the assessments and requirements described in subparagraph (A) are aligned with the challenging State academic standards required under [section 6311(b)(1) of this title][/us/usc/t20/s6311/b/1] and, as applicable, State early learning standards for early childhood education programs.
 
             (D)
 
@@ -149,7 +149,7 @@
 
                 (iii) subject area for which the teacher has been prepared to teach.
 
-            (I) A description of the extent to which teacher preparation programs are addressing shortages of highly qualified teachers, by area of certification or licensure, subject, and specialty, in the State’s public schools.
+            (I) A description of the extent to which teacher preparation programs are addressing shortages of teachers who meet the applicable State certification and licensure requirements, including any requirements for certification obtained through alternative routes to certification, or, with regard to special education teachers, the qualifications described in [section 1412(a)(14)(C) of this title][/us/usc/t20/s1412/a/14/C], by area of certification or licensure, subject, and specialty, in the State’s public schools.
 
             (J) The extent to which teacher preparation programs prepare teachers, including general education and special education teachers, to teach students with disabilities effectively, including training related to participation as a member of individualized education program teams, as defined in [section 1414(d)(1)(B) of this title][/us/usc/t20/s1414/d/1/B].
 
@@ -195,13 +195,23 @@
 
         The Secretary, to the extent practicable, shall coordinate the information collected and published under this part among States for individuals who took State teacher certification or licensure assessments in a State other than the State in which the individual received the individual’s most recent degree.
 
-([Pub. L. 89–329, title II, § 205][/us/pl/89/329/s205], as added [Pub. L. 110–315, title II, § 201(2)][/us/pl/110/315/s201/2], Aug. 14, 2008, [122 Stat. 3147][/us/stat/122/3147].)
+([Pub. L. 89–329, title II][/us/pl/89/329/tII], § 205, as added [Pub. L. 110–315, title II][/us/pl/110/315/tII], § 201(2), Aug. 14, 2008, [122 Stat. 3147][/us/stat/122/3147]; amended [Pub. L. 114–95, title IX][/us/pl/114/95/tIX], §§ 9214(c)(5), 9215(oo)(4), Dec. 10, 2015, [129 Stat. 2163][/us/stat/129/2163], 2179.)
 
  __Prior Provisions__ 
 
     A prior [section 205 of Pub. L. 89–329][/us/pl/89/329/s205] was classified to [section 1025 of this title][/us/usc/t20/s1025], prior to repeal by [Pub. L. 110–315][/us/pl/110/315].
 
     Another prior [section 205 of Pub. L. 89–329][/us/pl/89/329/s205] was classified to [section 1025 of this title][/us/usc/t20/s1025], prior to the general amendment of this subchapter by [Pub. L. 96–374][/us/pl/96/374].
+
+ __Amendments__ 
+
+    2015—Subsec. (b)(1)(C). [Pub. L. 114–95][/us/pl/114/95], § 9215(oo)(4), substituted “are aligned with the challenging State academic standards required under [section 6311(b)(1) of this title][/us/usc/t20/s6311/b/1]” for “are aligned with the State’s challenging academic content standards required under [section 6311(b)(1) of this title][/us/usc/t20/s6311/b/1]”.
+
+    Subsec. (b)(1)(I). [Pub. L. 114–95][/us/pl/114/95], § 9214(c)(5), substituted “teachers who meet the applicable State certification and licensure requirements, including any requirements for certification obtained through alternative routes to certification, or, with regard to special education teachers, the qualifications described in [section 1412(a)(14)(C) of this title][/us/usc/t20/s1412/a/14/C]” for “highly qualified teachers”.
+
+ __Effective Date of 2015 Amendment__ 
+
+    Amendment by [Pub. L. 114–95][/us/pl/114/95] effective Dec. 10, 2015, except with respect to certain noncompetitive programs and competitive programs, see [section 5 of Pub. L. 114–95][/us/pl/114/95/s5], set out as a note under [section 6301 of this title][/us/usc/t20/s6301].
 
 ----------
 
@@ -218,15 +228,26 @@
 [/us/usc/t20/s1022a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1022a
 [/us/usc/t20/s1022c/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1022c%2Fa
 [/us/usc/t20/s6311/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs6311%2Fb%2F1
+[/us/usc/t20/s1412/a/14/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1412%2Fa%2F14%2FC
 [/us/usc/t20/s1414/d/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1414%2Fd%2F1%2FB
-[/us/pl/89/329/s205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2Fs205
-[/us/pl/110/315/s201/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2Fs201%2F2
+[/us/pl/89/329/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2FtII
+[/us/pl/110/315/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2FtII
 [/us/stat/122/3147]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3147
+[/us/pl/114/95/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F95%2FtIX
+[/us/stat/129/2163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F2163
 [/us/pl/89/329/s205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2Fs205
 [/us/usc/t20/s1025]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1025
 [/us/pl/110/315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315
 [/us/pl/89/329/s205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2Fs205
 [/us/usc/t20/s1025]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1025
 [/us/pl/96/374]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F374
+[/us/pl/114/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F95
+[/us/usc/t20/s6311/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs6311%2Fb%2F1
+[/us/usc/t20/s6311/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs6311%2Fb%2F1
+[/us/pl/114/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F95
+[/us/usc/t20/s1412/a/14/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1412%2Fa%2F14%2FC
+[/us/pl/114/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F95
+[/us/pl/114/95/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F95%2Fs5
+[/us/usc/t20/s6301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs6301
 
 

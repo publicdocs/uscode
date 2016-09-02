@@ -17,7 +17,7 @@
 
  __Codification__ 
 
-    [Pub. L. 105–244, title IV, § 492(a)(1)][/us/pl/105/244/s492/a/1], Oct. 7, 1998, [112 Stat. 1759][/us/stat/112/1759], substituted “recognition” for “approval” in heading.
+    [Pub. L. 105–244, title IV][/us/pl/105/244/tIV], § 492(a)(1), Oct. 7, 1998, [112 Stat. 1759][/us/stat/112/1759], substituted “recognition” for “approval” in heading.
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/105/244/s492/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2Fs492%2Fa%2F1
+[/us/pl/105/244/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2FtIV
 [/us/stat/112/1759]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F1759
 
 

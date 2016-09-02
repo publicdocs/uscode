@@ -39,19 +39,19 @@
 
         (4) the review of applications for financial assistance, and the approval or disapproval of such applications, in accordance with the provisions of [section 4014 of this title][/us/usc/t20/s4014].
 
-([Pub. L. 98–377, title V, § 503][/us/pl/98/377/s503], Aug. 11, 1984, [98 Stat. 1288][/us/stat/98/1288]; [Pub. L. 101–637][/us/pl/101/637], §§ 4, 14(a)(3), (b)(3), (4), Nov. 28, 1990, [104 Stat. 4590][/us/stat/104/4590], 4594, 4595.)
+([Pub. L. 98–377, title V][/us/pl/98/377/tV], § 503, Aug. 11, 1984, [98 Stat. 1288][/us/stat/98/1288]; [Pub. L. 101–637][/us/pl/101/637], §§ 4, 14(a)(3), (b)(3), (4), Nov. 28, 1990, [104 Stat. 4590][/us/stat/104/4590], 4594, 4595.)
 
  __Amendments__ 
 
-    1990—[Pub. L. 101–637, § 14(a)(3)][/us/pl/101/637/s14/a/3], made technical amendment to section catchline.
+    1990—[Pub. L. 101–637][/us/pl/101/637], § 14(a)(3), made technical amendment to section catchline.
 
-    Subsec. (a). [Pub. L. 101–637, § 14(b)(3)][/us/pl/101/637/s14/b/3], inserted heading and struck out par. (1) designation before “There is hereby established”.
+    Subsec. (a). [Pub. L. 101–637][/us/pl/101/637], § 14(b)(3), inserted heading and struck out par. (1) designation before “There is hereby established”.
 
-    Subsec. (b). [Pub. L. 101–637, § 14(b)(4)][/us/pl/101/637/s14/b/4], inserted heading.
+    Subsec. (b). [Pub. L. 101–637][/us/pl/101/637], § 14(b)(4), inserted heading.
 
-    Subsec. (b)(2). [Pub. L. 101–637, § 4(1)][/us/pl/101/637/s4/1], (2), substituted “educational agencies” for “agencies” and “institutions, including parent and employee organizations,” for “institutions”.
+    Subsec. (b)(2). [Pub. L. 101–637][/us/pl/101/637], § 4(1), (2), substituted “educational agencies” for “agencies” and “institutions, including parent and employee organizations,” for “institutions”.
 
-    Subsec. (b)(3). [Pub. L. 101–637, § 4(3)][/us/pl/101/637/s4/3], amended par. (3) generally. Prior to amendment, par. (3) read as follows: “the development within forty-five days of August 11, 1984, of an interim or final application form, which shall be distributed promptly to local educational agencies; and”.
+    Subsec. (b)(3). [Pub. L. 101–637][/us/pl/101/637], § 4(3), amended par. (3) generally. Prior to amendment, par. (3) read as follows: “the development within forty-five days of August 11, 1984, of an interim or final application form, which shall be distributed promptly to local educational agencies; and”.
 
 ----------
 
@@ -61,14 +61,14 @@
 ----------
 
 [/us/usc/t20/s4014]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs4014
-[/us/pl/98/377/s503]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F377%2Fs503
+[/us/pl/98/377/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F377%2FtV
 [/us/stat/98/1288]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F1288
 [/us/pl/101/637]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F637
 [/us/stat/104/4590]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4590
-[/us/pl/101/637/s14/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F637%2Fs14%2Fa%2F3
-[/us/pl/101/637/s14/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F637%2Fs14%2Fb%2F3
-[/us/pl/101/637/s14/b/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F637%2Fs14%2Fb%2F4
-[/us/pl/101/637/s4/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F637%2Fs4%2F1
-[/us/pl/101/637/s4/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F637%2Fs4%2F3
+[/us/pl/101/637]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F637
+[/us/pl/101/637]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F637
+[/us/pl/101/637]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F637
+[/us/pl/101/637]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F637
+[/us/pl/101/637]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F637
 
 

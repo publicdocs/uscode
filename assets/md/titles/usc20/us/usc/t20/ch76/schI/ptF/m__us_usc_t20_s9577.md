@@ -17,7 +17,7 @@
 
     Any member appointed to fill a vacancy on the Board occurring before the expiration of the term for which the member’s predecessor was appointed shall be appointed only for the remainder of that term. A vacancy in an office, board, committee, or center of the Institute shall be filled in the manner in which the original appointment was made. This section does not apply to employees appointed under [section 9578 of this title][/us/usc/t20/s9578].
 
-([Pub. L. 107–279, title I, § 187][/us/pl/107/279/s187], Nov. 5, 2002, [116 Stat. 1973][/us/stat/116/1973].)
+([Pub. L. 107–279, title I][/us/pl/107/279/tI], § 187, Nov. 5, 2002, [116 Stat. 1973][/us/stat/116/1973].)
 
 ----------
 
@@ -27,7 +27,7 @@
 ----------
 
 [/us/usc/t20/s9578]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs9578
-[/us/pl/107/279/s187]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F279%2Fs187
+[/us/pl/107/279/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F279%2FtI
 [/us/stat/116/1973]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1973
 
 

@@ -31,7 +31,7 @@
 
         The board shall submit to the Smithsonian Institution an annual report of its operations under this subchapter, including a detailed statement of all acquisitions and loans of works of art and of all public and private moneys received and disbursed.
 
-([Mar. 24, 1937, ch. 50, § 5][/us/act/1937-03-24/ch50/s5], [50 Stat. 53][/us/stat/50/53].)
+([Mar. 24, 1937, ch. 50][/us/act/1937-03-24/ch50], § 5, [50 Stat. 53][/us/stat/50/53].)
 
 ----------
 
@@ -40,7 +40,7 @@
 ----------
 ----------
 
-[/us/act/1937-03-24/ch50/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1937-03-24%2Fch50%2Fs5
+[/us/act/1937-03-24/ch50]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1937-03-24%2Fch50
 [/us/stat/50/53]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F50%2F53
 
 

@@ -31,7 +31,7 @@
 
         The percentage limitation under subsection (a) of this section shall not apply to any local educational agency that receives less than $50,000 under this subpart for any fiscal year.
 
-([Pub. L. 89–10, title I, § 1127][/us/pl/89/10/s1127], as added [Pub. L. 107–110, title I, § 101][/us/pl/107/110/s101], Jan. 8, 2002, [115 Stat. 1534][/us/stat/115/1534].)
+([Pub. L. 89–10, title I][/us/pl/89/10/tI], § 1127, as added [Pub. L. 107–110, title I][/us/pl/107/110/tI], § 101, Jan. 8, 2002, [115 Stat. 1534][/us/stat/115/1534].)
 
  __Prior Provisions__ 
 
@@ -45,8 +45,8 @@
 ----------
 
 [/us/usc/t20/s1225/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1225%2Fb
-[/us/pl/89/10/s1127]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F10%2Fs1127
-[/us/pl/107/110/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F110%2Fs101
+[/us/pl/89/10/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F10%2FtI
+[/us/pl/107/110/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F110%2FtI
 [/us/stat/115/1534]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F1534
 [/us/pl/89/10/s1127]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F10%2Fs1127
 [/us/usc/t20/s6338]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs6338

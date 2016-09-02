@@ -11,13 +11,13 @@
 ----------
 ----------
 
-[Previous](./../../../../../../..//us/usc/t20/ch70/schVI/ptA/m__us_usc_t20_ch70_schVI_ptA.md) | [Next](./../../../../../../..//us/usc/t20/ch70/schVI/ptA/spt1/m__us_usc_t20_s7301.md) | [Root of Title](./../../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fch70%2FschVI%2FptA%2Fspt1)
+[Previous](./../../../../../../..//us/usc/t20/ch70/schVI/ptA/m__us_usc_t20_s7402.md) | [Next](./../../../../../../..//us/usc/t20/ch70/schVI/ptA/spt1/m__us_usc_t20_s7421.md) | [Root of Title](./../../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fch70%2FschVI%2FptA%2Fspt1)
 
-##### subpart 1—accountability
+##### subpart 1—formula grants to local educational agencies
 
 ----------
 
-[Previous](./../../../../../../..//us/usc/t20/ch70/schVI/ptA/m__us_usc_t20_ch70_schVI_ptA.md) | [Next](./../../../../../../..//us/usc/t20/ch70/schVI/ptA/spt1/m__us_usc_t20_s7301.md) | [Root of Title](./../../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fch70%2FschVI%2FptA%2Fspt1)
+[Previous](./../../../../../../..//us/usc/t20/ch70/schVI/ptA/m__us_usc_t20_s7402.md) | [Next](./../../../../../../..//us/usc/t20/ch70/schVI/ptA/spt1/m__us_usc_t20_s7421.md) | [Root of Title](./../../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fch70%2FschVI%2FptA%2Fspt1)
 
 ----------
 ----------

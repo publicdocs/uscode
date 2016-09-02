@@ -113,7 +113,7 @@
 
             may continue to teach in such school and shall be eligible for loan cancellation pursuant to subsection (a)(1) of this section such  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be “in such”. </sup></sup>  subsequent years.
 
-([Pub. L. 89–329, title IV, § 465][/us/pl/89/329/s465], as added [Pub. L. 99–498, title IV, § 405(a)][/us/pl/99/498/s405/a], Oct. 17, 1986, [100 Stat. 1451][/us/stat/100/1451]; amended [Pub. L. 100–50, § 13(j)][/us/pl/100/50/s13/j], June 3, 1987, [101 Stat. 349][/us/stat/101/349]; [Pub. L. 100–369, § 7(c)][/us/pl/100/369/s7/c], July 18, 1988, [102 Stat. 837][/us/stat/102/837]; [Pub. L. 101–476, title IX, § 901(e)][/us/pl/101/476/s901/e], Oct. 30, 1990, [104 Stat. 1151][/us/stat/104/1151]; [Pub. L. 101–647, title XXI, § 2101(a)][/us/pl/101/647/s2101/a], (b), Nov. 29, 1990, [104 Stat. 4856][/us/stat/104/4856]; [Pub. L. 102–119, § 26(h)][/us/pl/102/119/s26/h], Oct. 7, 1991, [105 Stat. 607][/us/stat/105/607]; [Pub. L. 102–325, title IV, § 465(a)][/us/pl/102/325/s465/a]–(c), July 23, 1992, [106 Stat. 582][/us/stat/106/582], 583; [Pub. L. 103–82, title I, § 102(c)(3)][/us/pl/103/82/s102/c/3], Sept. 21, 1993, [107 Stat. 824][/us/stat/107/824]; [Pub. L. 103–208, § 2(f)(12)][/us/pl/103/208/s2/f/12]–(14), (k)(7), Dec. 20, 1993, [107 Stat. 2471][/us/stat/107/2471], 2486; [Pub. L. 103–382, title III, § 391(e)(3)][/us/pl/103/382/s391/e/3], Oct. 20, 1994, [108 Stat. 4022][/us/stat/108/4022]; [Pub. L. 105–244, title IV, § 465][/us/pl/105/244/s465], Oct. 7, 1998, [112 Stat. 1728][/us/stat/112/1728]; [Pub. L. 108–446, title III, § 305(c)(1)][/us/pl/108/446/s305/c/1], Dec. 3, 2004, [118 Stat. 2805][/us/stat/118/2805]; [Pub. L. 110–315, title IV, § 465][/us/pl/110/315/s465], Aug. 14, 2008, [122 Stat. 3267][/us/stat/122/3267]; [Pub. L. 111–39, title IV, § 405(5)][/us/pl/111/39/s405/5], July 1, 2009, [123 Stat. 1947][/us/stat/123/1947].)
+([Pub. L. 89–329, title IV][/us/pl/89/329/tIV], § 465, as added [Pub. L. 99–498, title IV][/us/pl/99/498/tIV], § 405(a), Oct. 17, 1986, [100 Stat. 1451][/us/stat/100/1451]; amended [Pub. L. 100–50][/us/pl/100/50], § 13(j), June 3, 1987, [101 Stat. 349][/us/stat/101/349]; [Pub. L. 100–369][/us/pl/100/369], § 7(c), July 18, 1988, [102 Stat. 837][/us/stat/102/837]; [Pub. L. 101–476, title IX][/us/pl/101/476/tIX], § 901(e), Oct. 30, 1990, [104 Stat. 1151][/us/stat/104/1151]; [Pub. L. 101–647, title XXI][/us/pl/101/647/tXXI], § 2101(a), (b), Nov. 29, 1990, [104 Stat. 4856][/us/stat/104/4856]; [Pub. L. 102–119][/us/pl/102/119], § 26(h), Oct. 7, 1991, [105 Stat. 607][/us/stat/105/607]; [Pub. L. 102–325, title IV][/us/pl/102/325/tIV], § 465(a)–(c), July 23, 1992, [106 Stat. 582][/us/stat/106/582], 583; [Pub. L. 103–82, title I][/us/pl/103/82/tI], § 102(c)(3), Sept. 21, 1993, [107 Stat. 824][/us/stat/107/824]; [Pub. L. 103–208][/us/pl/103/208], § 2(f)(12)–(14), (k)(7), Dec. 20, 1993, [107 Stat. 2471][/us/stat/107/2471], 2486; [Pub. L. 103–382, title III][/us/pl/103/382/tIII], § 391(e)(3), Oct. 20, 1994, [108 Stat. 4022][/us/stat/108/4022]; [Pub. L. 105–244, title IV][/us/pl/105/244/tIV], § 465, Oct. 7, 1998, [112 Stat. 1728][/us/stat/112/1728]; [Pub. L. 108–446, title III][/us/pl/108/446/tIII], § 305(c)(1), Dec. 3, 2004, [118 Stat. 2805][/us/stat/118/2805]; [Pub. L. 110–315, title IV][/us/pl/110/315/tIV], § 465, Aug. 14, 2008, [122 Stat. 3267][/us/stat/122/3267]; [Pub. L. 111–39, title IV][/us/pl/111/39/tIV], § 405(5), July 1, 2009, [123 Stat. 1947][/us/stat/123/1947].)
 
  __References in Text__ 
 
@@ -133,71 +133,71 @@
 
  __Prior Provisions__ 
 
-    A prior section 1087ee, [Pub. L. 89–329, title IV, § 465][/us/pl/89/329/s465], as added [Pub. L. 92–318, title I, § 137(b)][/us/pl/92/318/s137/b], June 23, 1972, [86 Stat. 277][/us/stat/86/277]; amended [Pub. L. 95–561, title XIII, § 1323][/us/pl/95/561/s1323], Nov. 1, 1978, [92 Stat. 2363][/us/stat/92/2363]; [Pub. L. 96–374, title IV][/us/pl/96/374], §§ 442(b)(6), 448(d), (e), title XIII, § 1391(a)(1), Oct. 3, 1980, [94 Stat. 1440][/us/stat/94/1440], 1443, 1503, related to cancellation of loans for certain public service, prior to the general revision of this part by [Pub. L. 99–498][/us/pl/99/498].
+    A prior section 1087ee, [Pub. L. 89–329, title IV][/us/pl/89/329/tIV], § 465, as added [Pub. L. 92–318, title I][/us/pl/92/318/tI], § 137(b), June 23, 1972, [86 Stat. 277][/us/stat/86/277]; amended [Pub. L. 95–561, title XIII][/us/pl/95/561/tXIII], § 1323, Nov. 1, 1978, [92 Stat. 2363][/us/stat/92/2363]; [Pub. L. 96–374, title IV][/us/pl/96/374/tIV], §§ 442(b)(6), 448(d), (e), title XIII, § 1391(a)(1), Oct. 3, 1980, [94 Stat. 1440][/us/stat/94/1440], 1443, 1503, related to cancellation of loans for certain public service, prior to the general revision of this part by [Pub. L. 99–498][/us/pl/99/498].
 
  __Amendments__ 
 
     2009—Subsec. (a)(6). [Pub. L. 111–39][/us/pl/111/39] substituted “12601” for “12571”.
 
-    2008—Subsec. (a)(2)(A). [Pub. L. 110–315, § 465(1)(A)][/us/pl/110/315/s465/1/A], added subpar. (A) and struck out former subpar. (A) which read as follows: “as a full-time teacher for service in an academic year in a public or other nonprofit private elementary or secondary school which is in the school district of a local educational agency which is eligible in such year for assistance pursuant to title I of the Elementary and Secondary Education Act of 1965, and which for the purpose of this paragraph and for that year has been determined by the Secretary (pursuant to regulations and after consultation with the State educational agency of the State in which the school is located) to be a school in which the enrollment of children counted under section 111(c) of the Elementary and Secondary Education Act of 1965 exceeds 30 percent of the total enrollment of that school;”.
+    2008—Subsec. (a)(2)(A). [Pub. L. 110–315][/us/pl/110/315], § 465(1)(A), added subpar. (A) and struck out former subpar. (A) which read as follows: “as a full-time teacher for service in an academic year in a public or other nonprofit private elementary or secondary school which is in the school district of a local educational agency which is eligible in such year for assistance pursuant to title I of the Elementary and Secondary Education Act of 1965, and which for the purpose of this paragraph and for that year has been determined by the Secretary (pursuant to regulations and after consultation with the State educational agency of the State in which the school is located) to be a school in which the enrollment of children counted under section 111(c) of the Elementary and Secondary Education Act of 1965 exceeds 30 percent of the total enrollment of that school;”.
 
-    Subsec. (a)(2)(B). [Pub. L. 110–315, § 465(1)(B)][/us/pl/110/315/s465/1/B], substituted “Head Start Act, or in a prekindergarten or child care program that is licensed or regulated by the State, that” for “Head Start Act which”.
+    Subsec. (a)(2)(B). [Pub. L. 110–315][/us/pl/110/315], § 465(1)(B), substituted “Head Start Act, or in a prekindergarten or child care program that is licensed or regulated by the State, that” for “Head Start Act which”.
 
-    Subsec. (a)(2)(C). [Pub. L. 110–315, § 465(1)(C)][/us/pl/110/315/s465/1/C], inserted “, including a system administered by an educational service agency” after “secondary school system”.
+    Subsec. (a)(2)(C). [Pub. L. 110–315][/us/pl/110/315], § 465(1)(C), inserted “, including a system administered by an educational service agency” after “secondary school system”.
 
-    Subsec. (a)(2)(F). [Pub. L. 110–315, § 465(1)(D)][/us/pl/110/315/s465/1/D], added subpar. (F) and struck out former subpar. (F) which read as follows: “as a full-time law enforcement officer or corrections officer for service to local, State, or Federal law enforcement or corrections agencies;”.
+    Subsec. (a)(2)(F). [Pub. L. 110–315][/us/pl/110/315], § 465(1)(D), added subpar. (F) and struck out former subpar. (F) which read as follows: “as a full-time law enforcement officer or corrections officer for service to local, State, or Federal law enforcement or corrections agencies;”.
 
-    Subsec. (a)(2)(J) to (M). [Pub. L. 110–315, § 465(1)(E)][/us/pl/110/315/s465/1/E]–(G), added subpars. (J) to (M).
+    Subsec. (a)(2)(J) to (M). [Pub. L. 110–315][/us/pl/110/315], § 465(1)(E)–(G), added subpars. (J) to (M).
 
-    Subsec. (a)(3)(A)(i). [Pub. L. 110–315, § 465(2)(A)][/us/pl/110/315/s465/2/A], inserted “(D),” after “(C),” and substituted “(I), (J), (K), (L), or (M)” for “or (I)”.
+    Subsec. (a)(3)(A)(i). [Pub. L. 110–315][/us/pl/110/315], § 465(2)(A), inserted “(D),” after “(C),” and substituted “(I), (J), (K), (L), or (M)” for “or (I)”.
 
-    Subsec. (a)(3)(A)(iii), (iv). [Pub. L. 110–315, § 465(2)(B)][/us/pl/110/315/s465/2/B]–(D), redesignated cl. (iv) as (iii) and struck out former cl. (iii) which read as follows: “in the case of service described in subparagraph (D) of paragraph (2), not to exceed a total of 50 percent of such loan at the rate of 12½ percent for each year of qualifying service; or”.
+    Subsec. (a)(3)(A)(iii), (iv). [Pub. L. 110–315][/us/pl/110/315], § 465(2)(B)–(D), redesignated cl. (iv) as (iii) and struck out former cl. (iii) which read as follows: “in the case of service described in subparagraph (D) of paragraph (2), not to exceed a total of 50 percent of such loan at the rate of 12½ percent for each year of qualifying service; or”.
 
     2004—Subsec. (a)(2)(C). [Pub. L. 108–446][/us/pl/108/446] made technical amendment to reference in original act which appears in text as reference to [section 1435(a)(10) of this title][/us/usc/t20/s1435/a/10].
 
-    1998—Subsec. (a)(2). [Pub. L. 105–244, § 465(1)(B)][/us/pl/105/244/s465/1/B], substituted “section 1401” for “section 1401(a)(1)” in concluding provisions.
+    1998—Subsec. (a)(2). [Pub. L. 105–244][/us/pl/105/244], § 465(1)(B), substituted “section 1401” for “section 1401(a)(1)” in concluding provisions.
 
-    Subsec. (a)(2)(C). [Pub. L. 105–244, § 465(1)(A)][/us/pl/105/244/s465/1/A], substituted “section 1435(a)(10)” for “section 1476(b)(9)”.
+    Subsec. (a)(2)(C). [Pub. L. 105–244][/us/pl/105/244], § 465(1)(A), substituted “section 1435(a)(10)” for “section 1476(b)(9)”.
 
-    Subsec. (a)(7). [Pub. L. 105–244, § 465(1)(C)][/us/pl/105/244/s465/1/C], added par. (7).
+    Subsec. (a)(7). [Pub. L. 105–244][/us/pl/105/244], § 465(1)(C), added par. (7).
 
-    Subsec. (b). [Pub. L. 105–244, § 465(2)][/us/pl/105/244/s465/2], inserted at end “To the extent feasible, the Secretary shall pay the amounts for which any institution qualifies under this subsection not later than 3 months after the institution files an institutional application for campus-based funds.”
+    Subsec. (b). [Pub. L. 105–244][/us/pl/105/244], § 465(2), inserted at end “To the extent feasible, the Secretary shall pay the amounts for which any institution qualifies under this subsection not later than 3 months after the institution files an institutional application for campus-based funds.”
 
     1994—Subsec. (a)(2)(A). [Pub. L. 103–382][/us/pl/103/382] substituted “title I of the Elementary and Secondary Education Act of 1965” for “chapter 1 of the Education Consolidation and Improvement Act of 1981”.
 
-    1993—Subsec. (a)(2)(A). [Pub. L. 103–208, § 2(k)(7)][/us/pl/103/208/s2/k/7], amended [Pub. L. 102–325, § 465(a)(1)][/us/pl/102/325/s465/a/1]. See 1992 Amendment note below.
+    1993—Subsec. (a)(2)(A). [Pub. L. 103–208][/us/pl/103/208], § 2(k)(7), amended [Pub. L. 102–325][/us/pl/102/325], § 465(a)(1). See 1992 Amendment note below.
 
-    Subsec. (a)(2)(D). [Pub. L. 103–208, § 2(f)(12)][/us/pl/103/208/s2/f/12], substituted “service” for “services”.
+    Subsec. (a)(2)(D). [Pub. L. 103–208][/us/pl/103/208], § 2(f)(12), substituted “service” for “services”.
 
-    Subsec. (a)(2)(F). [Pub. L. 103–208, § 2(f)(13)][/us/pl/103/208/s2/f/13], struck out “or” after semicolon at end.
+    Subsec. (a)(2)(F). [Pub. L. 103–208][/us/pl/103/208], § 2(f)(13), struck out “or” after semicolon at end.
 
-    Subsec. (a)(6). [Pub. L. 103–208, § 2(f)(14)][/us/pl/103/208/s2/f/14], realigned margin. See Codification note above.
+    Subsec. (a)(6). [Pub. L. 103–208][/us/pl/103/208], § 2(f)(14), realigned margin. See Codification note above.
 
     [Pub. L. 103–82][/us/pl/103/82] added par. (6).
 
-    1992—Subsec. (a)(2)(A). [Pub. L. 102–325, § 465(a)(1)][/us/pl/102/325/s465/a/1], as amended by [Pub. L. 103–208, § 2(k)(7)][/us/pl/103/208/s2/k/7], struck out before semicolon at end “and such determination shall not be made with respect to more than 50 percent of the total number of schools in the State receiving assistance under such chapter 1”.
+    1992—Subsec. (a)(2)(A). [Pub. L. 102–325][/us/pl/102/325], § 465(a)(1), as amended by [Pub. L. 103–208][/us/pl/103/208], § 2(k)(7), struck out before semicolon at end “and such determination shall not be made with respect to more than 50 percent of the total number of schools in the State receiving assistance under such chapter 1”.
 
-    Subsec. (a)(2)(C). [Pub. L. 102–325, § 465(a)(2)][/us/pl/102/325/s465/a/2], amended subpar. (C) generally. Prior to amendment, subpar. (C) read as follows: “as a full-time teacher of children with disabilities in a public or other nonprofit elementary or secondary school system;”.
+    Subsec. (a)(2)(C). [Pub. L. 102–325][/us/pl/102/325], § 465(a)(2), amended subpar. (C) generally. Prior to amendment, subpar. (C) read as follows: “as a full-time teacher of children with disabilities in a public or other nonprofit elementary or secondary school system;”.
 
-    Subsec. (a)(2)(G) to (I). [Pub. L. 102–325, § 465(a)(3)][/us/pl/102/325/s465/a/3]–(5), added subpars. (G) to (I).
+    Subsec. (a)(2)(G) to (I). [Pub. L. 102–325][/us/pl/102/325], § 465(a)(3)–(5), added subpars. (G) to (I).
 
-    Subsec. (a)(3)(A)(i). [Pub. L. 102–325, § 465(b)][/us/pl/102/325/s465/b], substituted “(A), (C), (F), (G), (H), or (I)” for “(A), (C), or (F)”.
+    Subsec. (a)(3)(A)(i). [Pub. L. 102–325][/us/pl/102/325], § 465(b), substituted “(A), (C), (F), (G), (H), or (I)” for “(A), (C), or (F)”.
 
-    Subsec. (c). [Pub. L. 102–325, § 465(c)][/us/pl/102/325/s465/c], added subsec. (c).
+    Subsec. (c). [Pub. L. 102–325][/us/pl/102/325], § 465(c), added subsec. (c).
 
     1991—Subsec. (a)(2). [Pub. L. 102–119][/us/pl/102/119] substituted “1401(a)(1)” for “1401(1)” in last sentence. The references to section 1401 include the substitution of “Individuals with Disabilities Education Act” for “Education of the Handicapped Act” in the original.
 
-    1990—Subsec. (a)(2). [Pub. L. 101–476, § 901(e)][/us/pl/101/476/s901/e], substituted “children with disabilities” for “handicapped children” in two places.
+    1990—Subsec. (a)(2). [Pub. L. 101–476][/us/pl/101/476], § 901(e), substituted “children with disabilities” for “handicapped children” in two places.
 
-    Subsec. (a)(2)(F). [Pub. L. 101–647, § 2101(a)][/us/pl/101/647/s2101/a], which directed amendment of subsec. (a)(2) by adding at the end a new subpar. (F), was executed by adding subpar. (F) after subpar. (E) and before last sentence to reflect the probable intent of Congress.
+    Subsec. (a)(2)(F). [Pub. L. 101–647][/us/pl/101/647], § 2101(a), which directed amendment of subsec. (a)(2) by adding at the end a new subpar. (F), was executed by adding subpar. (F) after subpar. (E) and before last sentence to reflect the probable intent of Congress.
 
-    Subsec. (a)(3)(A)(i). [Pub. L. 101–647, § 2101(b)][/us/pl/101/647/s2101/b], which directed amendment of subsec. (a)(3)(i) by substituting “(A), (C), or (F)” for “(A) or (C)”, was executed by making the substitution in subsec. (a)(3)(A)(i) to reflect the probable intent of Congress.
+    Subsec. (a)(3)(A)(i). [Pub. L. 101–647][/us/pl/101/647], § 2101(b), which directed amendment of subsec. (a)(3)(i) by substituting “(A), (C), or (F)” for “(A) or (C)”, was executed by making the substitution in subsec. (a)(3)(A)(i) to reflect the probable intent of Congress.
 
     1988—Subsec. (a)(5). [Pub. L. 100–369][/us/pl/100/369] substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”, which for purposes of codification was translated as “title 26” thus requiring no change in text.
 
-    1987—Subsec. (a)(2)(A). [Pub. L. 100–50, § 13(j)(1)][/us/pl/100/50/s13/j/1], (2), substituted “chapter 1 of the Education Consolidation and Improvement Act of 1981” for “title I of the Elementary and Secondary Education Act of 1965” and “such chapter 1” for “such title I”.
+    1987—Subsec. (a)(2)(A). [Pub. L. 100–50][/us/pl/100/50], § 13(j)(1), (2), substituted “chapter 1 of the Education Consolidation and Improvement Act of 1981” for “title I of the Elementary and Secondary Education Act of 1965” and “such chapter 1” for “such title I”.
 
-    Subsec. (a)(2)(B). [Pub. L. 100–50, § 13(j)(3)][/us/pl/100/50/s13/j/3], substituted “the Head Start Act” for “[section 2809(a)(1) of title 42][/us/usc/t42/s2809/a/1]”.
+    Subsec. (a)(2)(B). [Pub. L. 100–50][/us/pl/100/50], § 13(j)(3), substituted “the Head Start Act” for “[section 2809(a)(1) of title 42][/us/usc/t42/s2809/a/1]”.
 
  __Effective Date of 2009 Amendment__ 
 
@@ -215,11 +215,11 @@
 
  __Effective Date of 1990 Amendments__ 
 
-[Pub. L. 101–647, title XXI, § 2101(c)][/us/pl/101/647/s2101/c], Nov. 29, 1990, [104 Stat. 4856][/us/stat/104/4856], provided that: 
+[Pub. L. 101–647, title XXI][/us/pl/101/647/tXXI], § 2101(c), Nov. 29, 1990, [104 Stat. 4856][/us/stat/104/4856], provided that: 
 
 > “The amendments made by this section \[amending this section\] shall apply only to loans made on or after the date of enactment of this Act \[Nov. 29, 1990\] under part E of title IV of the Higher Education Act of 1965 \[this part\].”
 
-[Pub. L. 101–476, title X, § 1001][/us/pl/101/476/s1001], Oct. 30, 1990, [104 Stat. 1151][/us/stat/104/1151], provided that: 
+[Pub. L. 101–476, title X][/us/pl/101/476/tX], § 1001, Oct. 30, 1990, [104 Stat. 1151][/us/stat/104/1151], provided that: 
 
 > “The amendments made by this Act \[see Short Title of 1990 Amendment note set out under [section 1400 of this title][/us/usc/t20/s1400]\] shall take effect October 1, 1990.”
 
@@ -256,34 +256,34 @@
 [/us/usc/t42/s12601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs12601
 [/us/usc/t20/s1087hh]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1087hh
 [/us/usc/t20/s1087aa/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1087aa%2Fb
-[/us/pl/89/329/s465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2Fs465
-[/us/pl/99/498/s405/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F498%2Fs405%2Fa
+[/us/pl/89/329/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2FtIV
+[/us/pl/99/498/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F498%2FtIV
 [/us/stat/100/1451]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1451
-[/us/pl/100/50/s13/j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F50%2Fs13%2Fj
+[/us/pl/100/50]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F50
 [/us/stat/101/349]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F349
-[/us/pl/100/369/s7/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F369%2Fs7%2Fc
+[/us/pl/100/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F369
 [/us/stat/102/837]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F837
-[/us/pl/101/476/s901/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F476%2Fs901%2Fe
+[/us/pl/101/476/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F476%2FtIX
 [/us/stat/104/1151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1151
-[/us/pl/101/647/s2101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647%2Fs2101%2Fa
+[/us/pl/101/647/tXXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647%2FtXXI
 [/us/stat/104/4856]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4856
-[/us/pl/102/119/s26/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F119%2Fs26%2Fh
+[/us/pl/102/119]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F119
 [/us/stat/105/607]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F607
-[/us/pl/102/325/s465/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325%2Fs465%2Fa
+[/us/pl/102/325/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325%2FtIV
 [/us/stat/106/582]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F582
-[/us/pl/103/82/s102/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F82%2Fs102%2Fc%2F3
+[/us/pl/103/82/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F82%2FtI
 [/us/stat/107/824]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F824
-[/us/pl/103/208/s2/f/12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F208%2Fs2%2Ff%2F12
+[/us/pl/103/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F208
 [/us/stat/107/2471]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F2471
-[/us/pl/103/382/s391/e/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F382%2Fs391%2Fe%2F3
+[/us/pl/103/382/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F382%2FtIII
 [/us/stat/108/4022]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4022
-[/us/pl/105/244/s465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2Fs465
+[/us/pl/105/244/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2FtIV
 [/us/stat/112/1728]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F1728
-[/us/pl/108/446/s305/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F446%2Fs305%2Fc%2F1
+[/us/pl/108/446/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F446%2FtIII
 [/us/stat/118/2805]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F2805
-[/us/pl/110/315/s465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2Fs465
+[/us/pl/110/315/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2FtIV
 [/us/stat/122/3267]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3267
-[/us/pl/111/39/s405/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F39%2Fs405%2F5
+[/us/pl/111/39/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F39%2FtIV
 [/us/stat/123/1947]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1947
 [/us/pl/89/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F10
 [/us/stat/79/27]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F27
@@ -304,48 +304,48 @@
 [/us/pl/102/325]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325
 [/us/pl/102/325]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325
 [/us/pl/103/82]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F82
-[/us/pl/89/329/s465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2Fs465
-[/us/pl/92/318/s137/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F318%2Fs137%2Fb
+[/us/pl/89/329/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2FtIV
+[/us/pl/92/318/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F318%2FtI
 [/us/stat/86/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F277
-[/us/pl/95/561/s1323]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F561%2Fs1323
+[/us/pl/95/561/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F561%2FtXIII
 [/us/stat/92/2363]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2363
-[/us/pl/96/374]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F374
+[/us/pl/96/374/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F374%2FtIV
 [/us/stat/94/1440]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F1440
 [/us/pl/99/498]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F498
 [/us/pl/111/39]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F39
-[/us/pl/110/315/s465/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2Fs465%2F1%2FA
-[/us/pl/110/315/s465/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2Fs465%2F1%2FB
-[/us/pl/110/315/s465/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2Fs465%2F1%2FC
-[/us/pl/110/315/s465/1/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2Fs465%2F1%2FD
-[/us/pl/110/315/s465/1/E]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2Fs465%2F1%2FE
-[/us/pl/110/315/s465/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2Fs465%2F2%2FA
-[/us/pl/110/315/s465/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2Fs465%2F2%2FB
+[/us/pl/110/315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315
+[/us/pl/110/315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315
+[/us/pl/110/315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315
+[/us/pl/110/315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315
+[/us/pl/110/315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315
+[/us/pl/110/315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315
+[/us/pl/110/315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315
 [/us/pl/108/446]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F446
 [/us/usc/t20/s1435/a/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1435%2Fa%2F10
-[/us/pl/105/244/s465/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2Fs465%2F1%2FB
-[/us/pl/105/244/s465/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2Fs465%2F1%2FA
-[/us/pl/105/244/s465/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2Fs465%2F1%2FC
-[/us/pl/105/244/s465/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2Fs465%2F2
+[/us/pl/105/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244
+[/us/pl/105/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244
+[/us/pl/105/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244
+[/us/pl/105/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244
 [/us/pl/103/382]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F382
-[/us/pl/103/208/s2/k/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F208%2Fs2%2Fk%2F7
-[/us/pl/102/325/s465/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325%2Fs465%2Fa%2F1
-[/us/pl/103/208/s2/f/12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F208%2Fs2%2Ff%2F12
-[/us/pl/103/208/s2/f/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F208%2Fs2%2Ff%2F13
-[/us/pl/103/208/s2/f/14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F208%2Fs2%2Ff%2F14
+[/us/pl/103/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F208
+[/us/pl/102/325]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325
+[/us/pl/103/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F208
+[/us/pl/103/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F208
+[/us/pl/103/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F208
 [/us/pl/103/82]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F82
-[/us/pl/102/325/s465/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325%2Fs465%2Fa%2F1
-[/us/pl/103/208/s2/k/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F208%2Fs2%2Fk%2F7
-[/us/pl/102/325/s465/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325%2Fs465%2Fa%2F2
-[/us/pl/102/325/s465/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325%2Fs465%2Fa%2F3
-[/us/pl/102/325/s465/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325%2Fs465%2Fb
-[/us/pl/102/325/s465/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325%2Fs465%2Fc
+[/us/pl/102/325]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325
+[/us/pl/103/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F208
+[/us/pl/102/325]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325
+[/us/pl/102/325]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325
+[/us/pl/102/325]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325
+[/us/pl/102/325]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325
 [/us/pl/102/119]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F119
-[/us/pl/101/476/s901/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F476%2Fs901%2Fe
-[/us/pl/101/647/s2101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647%2Fs2101%2Fa
-[/us/pl/101/647/s2101/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647%2Fs2101%2Fb
+[/us/pl/101/476]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F476
+[/us/pl/101/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647
+[/us/pl/101/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647
 [/us/pl/100/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F369
-[/us/pl/100/50/s13/j/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F50%2Fs13%2Fj%2F1
-[/us/pl/100/50/s13/j/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F50%2Fs13%2Fj%2F3
+[/us/pl/100/50]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F50
+[/us/pl/100/50]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F50
 [/us/usc/t42/s2809/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2809%2Fa%2F1
 [/us/pl/111/39]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F39
 [/us/pl/110/315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315
@@ -362,9 +362,9 @@
 [/us/pl/103/82]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F82
 [/us/pl/103/82/s123]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F82%2Fs123
 [/us/usc/t16/s1701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1701
-[/us/pl/101/647/s2101/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647%2Fs2101%2Fc
+[/us/pl/101/647/tXXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647%2FtXXI
 [/us/stat/104/4856]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4856
-[/us/pl/101/476/s1001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F476%2Fs1001
+[/us/pl/101/476/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F476%2FtX
 [/us/stat/104/1151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1151
 [/us/usc/t20/s1400]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1400
 [/us/pl/100/50]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F50

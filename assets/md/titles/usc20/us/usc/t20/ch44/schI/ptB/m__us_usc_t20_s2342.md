@@ -119,7 +119,7 @@
 
              how funds will be used to improve or develop new career and technical education courses—
 
-                (i) at the secondary level that are aligned with rigorous and challenging academic content standards and student academic achievement standards adopted by the State under section 1111(b)(1) of the Elementary and Secondary Education Act of 1965 \[[20 U.S.C. 6311(b)(1)][/us/usc/t20/s6311/b/1]\];
+                (i) at the secondary level that are aligned with challenging State academic standards adopted by the State under section 1111(b)(1) of the Elementary and Secondary Education Act of 1965 \[[20 U.S.C. 6311(b)(1)][/us/usc/t20/s6311/b/1]\];
 
                 (ii) at the postsecondary level that are relevant and challenging; and
 
@@ -177,7 +177,7 @@
 
              improve the academic and technical skills of students participating in career and technical education programs, including strengthening the academic and career and technical components of career and technical education programs through the integration of academics with career and technical education to ensure learning in—
 
-                (i) the core academic subjects (as defined in section 9101 of the Elementary and Secondary Education Act of 1965 \[[20 U.S.C. 7801][/us/usc/t20/s7801]\]); and
+                (i) a well-rounded education (as defined in section 8101 of the Elementary and Secondary Education Act of 1965 \[[20 U.S.C. 7801][/us/usc/t20/s7801]\]); and
 
                 (ii) career and technical education subjects;
 
@@ -257,7 +257,7 @@
 
             A State plan shall be deemed approved by the Secretary if the Secretary has not responded to the eligible agency regarding the State plan within 90 days of the date the Secretary receives the State plan.
 
-([Pub. L. 88–210, title I, § 122][/us/pl/88/210/s122], as added [Pub. L. 109–270, § 1(b)][/us/pl/109/270/s1/b], Aug. 12, 2006, [120 Stat. 715][/us/stat/120/715]; amended [Pub. L. 113–128, title V, § 512(e)(3)][/us/pl/113/128/s512/e/3], July 22, 2014, [128 Stat. 1706][/us/stat/128/1706].)
+([Pub. L. 88–210, title I][/us/pl/88/210/tI], § 122, as added [Pub. L. 109–270][/us/pl/109/270], § 1(b), Aug. 12, 2006, [120 Stat. 715][/us/stat/120/715]; amended [Pub. L. 113–128, title V][/us/pl/113/128/tV], § 512(e)(3), July 22, 2014, [128 Stat. 1706][/us/stat/128/1706]; [Pub. L. 114–95, title IX][/us/pl/114/95/tIX], § 9215(n)(6), Dec. 10, 2015, [129 Stat. 2169][/us/stat/129/2169].)
 
  __References in Text__ 
 
@@ -267,19 +267,27 @@
 
  __Prior Provisions__ 
 
-    A prior section 2342, [Pub. L. 88–210, title I, § 122][/us/pl/88/210/s122], as added [Pub. L. 105–332, § 1(b)][/us/pl/105/332/s1/b], Oct. 31, 1998, [112 Stat. 3102][/us/stat/112/3102], related to State plan, prior to the general amendment of this chapter by [Pub. L. 109–270][/us/pl/109/270].
+    A prior section 2342, [Pub. L. 88–210, title I][/us/pl/88/210/tI], § 122, as added [Pub. L. 105–332][/us/pl/105/332], § 1(b), Oct. 31, 1998, [112 Stat. 3102][/us/stat/112/3102], related to State plan, prior to the general amendment of this chapter by [Pub. L. 109–270][/us/pl/109/270].
 
-    Another prior section 2342, [Pub. L. 88–210, title II, § 235][/us/pl/88/210/s235], as added [Pub. L. 101–392, title II, § 201][/us/pl/101/392/s201], Sept. 25, 1990, [104 Stat. 783][/us/stat/104/783], related to uses of funds, prior to the general amendment of this chapter by [Pub. L. 105–332][/us/pl/105/332].
+    Another prior section 2342, [Pub. L. 88–210, title II][/us/pl/88/210/tII], § 235, as added [Pub. L. 101–392, title II][/us/pl/101/392/tII], § 201, Sept. 25, 1990, [104 Stat. 783][/us/stat/104/783], related to uses of funds, prior to the general amendment of this chapter by [Pub. L. 105–332][/us/pl/105/332].
 
-    Another prior section 2342, [Pub. L. 88–210, title II, § 252][/us/pl/88/210/s252], as added [Pub. L. 98–524, § 1][/us/pl/98/524/s1], Oct. 19, 1984, [98 Stat. 2457][/us/stat/98/2457], related to criteria for program improvement, innovation, and expansion, prior to the general amendment of former subchapter II of this chapter by [Pub. L. 101–392][/us/pl/101/392].
+    Another prior section 2342, [Pub. L. 88–210, title II][/us/pl/88/210/tII], § 252, as added [Pub. L. 98–524][/us/pl/98/524], § 1, Oct. 19, 1984, [98 Stat. 2457][/us/stat/98/2457], related to criteria for program improvement, innovation, and expansion, prior to the general amendment of former subchapter II of this chapter by [Pub. L. 101–392][/us/pl/101/392].
 
  __Amendments__ 
 
-    2014—Subsec. (b)(1)(A)(viii). [Pub. L. 113–128, § 512(e)(3)(A)][/us/pl/113/128/s512/e/3/A], substituted “entities participating in activities described in [section 3111 of title 29][/us/usc/t29/s3111]” for “entities participating in activities described in [section 2821 of title 29][/us/usc/t29/s2821]”.
+    2015—Subsec. (c)(1)(I)(i). [Pub. L. 114–95][/us/pl/114/95], § 9215(n)(6)(A), substituted “aligned with challenging State academic standards adopted by the State under section 1111(b)(1) of the Elementary and Secondary Education Act of 1965” for “aligned with rigorous and challenging academic content standards and student academic achievement standards adopted by the State under section 1111(b)(1) of the Elementary and Secondary Education Act of 1965”.
 
-    Subsec. (c)(20). [Pub. L. 113–128, § 512(e)(3)(B)][/us/pl/113/128/s512/e/3/B], substituted “the description and information specified in subparagraphs (B) and (C)(iii) of section 3112(b)(2), and, as appropriate, section 3113(b)(3)(A), and section 3151(c), of title 29 concerning the provision of services only for postsecondary students and school dropouts” for “the description and information specified in sections 2822(b)(8) and 2841(c) of title 29 concerning the provision of services only for postsecondary students and school dropouts”.
+    Subsec. (c)(7)(A)(i). [Pub. L. 114–95][/us/pl/114/95], § 9215(n)(6)(B), substituted “a well-rounded education (as defined in section 8101 of the Elementary and Secondary Education Act of 1965)” for “the core academic subjects (as defined in section 9101 of the Elementary and Secondary Education Act of 1965)”.
 
-    Subsec. (d)(2). [Pub. L. 113–128, § 512(e)(3)(C)][/us/pl/113/128/s512/e/3/C], substituted “combined plan” for “501 plan” in heading and “as part of the plan submitted under [section 3113 of title 29][/us/usc/t29/s3113]” for “as part of the plan submitted under [section 501 of Public Law 105–220][/us/pl/105/220/s501]” in text.
+    2014—Subsec. (b)(1)(A)(viii). [Pub. L. 113–128][/us/pl/113/128], § 512(e)(3)(A), substituted “entities participating in activities described in [section 3111 of title 29][/us/usc/t29/s3111]” for “entities participating in activities described in [section 2821 of title 29][/us/usc/t29/s2821]”.
+
+    Subsec. (c)(20). [Pub. L. 113–128][/us/pl/113/128], § 512(e)(3)(B), substituted “the description and information specified in subparagraphs (B) and (C)(iii) of section 3112(b)(2), and, as appropriate, section 3113(b)(3)(A), and section 3151(c), of title 29 concerning the provision of services only for postsecondary students and school dropouts” for “the description and information specified in sections 2822(b)(8) and 2841(c) of title 29 concerning the provision of services only for postsecondary students and school dropouts”.
+
+    Subsec. (d)(2). [Pub. L. 113–128][/us/pl/113/128], § 512(e)(3)(C), substituted “combined plan” for “501 plan” in heading and “as part of the plan submitted under [section 3113 of title 29][/us/usc/t29/s3113]” for “as part of the plan submitted under [section 501 of Public Law 105–220][/us/pl/105/220/s501]” in text.
+
+ __Effective Date of 2015 Amendment__ 
+
+    Amendment by [Pub. L. 114–95][/us/pl/114/95] effective Dec. 10, 2015, except with respect to certain noncompetitive programs and competitive programs, see [section 5 of Pub. L. 114–95][/us/pl/114/95/s5], set out as a note under [section 6301 of this title][/us/usc/t20/s6301].
 
  __Effective Date of 2014 Amendment__ 
 
@@ -309,36 +317,43 @@
 [/us/usc/t20/s2374]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs2374
 [/us/usc/t29/s3113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3113
 [/us/usc/t20/s2323]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs2323
-[/us/pl/88/210/s122]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F210%2Fs122
-[/us/pl/109/270/s1/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F270%2Fs1%2Fb
+[/us/pl/88/210/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F210%2FtI
+[/us/pl/109/270]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F270
 [/us/stat/120/715]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F715
-[/us/pl/113/128/s512/e/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs512%2Fe%2F3
+[/us/pl/113/128/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2FtV
 [/us/stat/128/1706]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1706
+[/us/pl/114/95/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F95%2FtIX
+[/us/stat/129/2169]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F2169
 [/us/pl/89/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F10
 [/us/stat/79/27]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F27
 [/us/usc/t20/s6301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs6301
 [/us/pl/89/329]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329
 [/us/stat/79/1219]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F1219
 [/us/usc/t20/s1001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1001
-[/us/pl/88/210/s122]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F210%2Fs122
-[/us/pl/105/332/s1/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F332%2Fs1%2Fb
+[/us/pl/88/210/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F210%2FtI
+[/us/pl/105/332]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F332
 [/us/stat/112/3102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F3102
 [/us/pl/109/270]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F270
-[/us/pl/88/210/s235]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F210%2Fs235
-[/us/pl/101/392/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F392%2Fs201
+[/us/pl/88/210/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F210%2FtII
+[/us/pl/101/392/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F392%2FtII
 [/us/stat/104/783]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F783
 [/us/pl/105/332]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F332
-[/us/pl/88/210/s252]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F210%2Fs252
-[/us/pl/98/524/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F524%2Fs1
+[/us/pl/88/210/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F210%2FtII
+[/us/pl/98/524]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F524
 [/us/stat/98/2457]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2457
 [/us/pl/101/392]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F392
-[/us/pl/113/128/s512/e/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs512%2Fe%2F3%2FA
+[/us/pl/114/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F95
+[/us/pl/114/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F95
+[/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
 [/us/usc/t29/s3111]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3111
 [/us/usc/t29/s2821]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs2821
-[/us/pl/113/128/s512/e/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs512%2Fe%2F3%2FB
-[/us/pl/113/128/s512/e/3/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs512%2Fe%2F3%2FC
+[/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
+[/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
 [/us/usc/t29/s3113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3113
 [/us/pl/105/220/s501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F220%2Fs501
+[/us/pl/114/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F95
+[/us/pl/114/95/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F95%2Fs5
+[/us/usc/t20/s6301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs6301
 [/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
 [/us/pl/113/128/s506]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs506
 [/us/usc/t29/s3101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3101

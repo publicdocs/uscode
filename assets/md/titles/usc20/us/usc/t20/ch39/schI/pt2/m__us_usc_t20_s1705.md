@@ -17,7 +17,7 @@
 
     Subject to the other provisions of this subchapter, the assignment by an educational agency of a student to the school nearest his place of residence which provides the appropriate grade level and type of education for such student is not a denial of equal educational opportunity or of equal protection of the laws unless such assignment is for the purpose of segregating students on the basis of race, color, sex, or national origin, or the school to which such student is assigned was located on its site for the purpose of segregating students on such basis.
 
-([Pub. L. 93–380, title II, § 206][/us/pl/93/380/s206], Aug. 21, 1974, [88 Stat. 515][/us/stat/88/515].)
+([Pub. L. 93–380, title II][/us/pl/93/380/tII], § 206, Aug. 21, 1974, [88 Stat. 515][/us/stat/88/515].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/93/380/s206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F380%2Fs206
+[/us/pl/93/380/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F380%2FtII
 [/us/stat/88/515]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F515
 
 

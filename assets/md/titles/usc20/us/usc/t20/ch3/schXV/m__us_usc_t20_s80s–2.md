@@ -29,7 +29,7 @@
 
         (3) the Librarian of Congress may not deposit into such account any funds donated to the Librarian which are not donated for the exclusive purpose of supporting such activities.
 
-([Pub. L. 111–19, § 4][/us/pl/111/19/s4], May 12, 2009, [123 Stat. 1614][/us/stat/123/1614].)
+([Pub. L. 111–19][/us/pl/111/19], § 4, May 12, 2009, [123 Stat. 1614][/us/stat/123/1614].)
 
 ----------
 
@@ -40,7 +40,7 @@
 
 [/us/usc/t20/s80s–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs80s%E2%80%931
 [/us/usc/t20/s80s–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs80s%E2%80%931
-[/us/pl/111/19/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F19%2Fs4
+[/us/pl/111/19]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F19
 [/us/stat/123/1614]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1614
 
 

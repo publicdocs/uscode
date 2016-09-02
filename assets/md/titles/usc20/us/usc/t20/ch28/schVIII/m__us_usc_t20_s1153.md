@@ -57,7 +57,7 @@
 
         There are authorized to be appropriated to carry out this section $3,000,000 for fiscal year 2009 and each of the five succeeding fiscal years.
 
-([Pub. L. 105–244, title VIII, § 841][/us/pl/105/244/s841], Oct. 7, 1998, [112 Stat. 1820][/us/stat/112/1820]; [Pub. L. 110–315, title IX, § 933][/us/pl/110/315/s933], Aug. 14, 2008, [122 Stat. 3459][/us/stat/122/3459]; [Pub. L. 111–39, title VIII, § 802(a)(2)][/us/pl/111/39/s802/a/2], July 1, 2009, [123 Stat. 1957][/us/stat/123/1957].)
+([Pub. L. 105–244, title VIII][/us/pl/105/244/tVIII], § 841, Oct. 7, 1998, [112 Stat. 1820][/us/stat/112/1820]; [Pub. L. 110–315, title IX][/us/pl/110/315/tIX], § 933, Aug. 14, 2008, [122 Stat. 3459][/us/stat/122/3459]; [Pub. L. 111–39, title VIII][/us/pl/111/39/tVIII], § 802(a)(2), July 1, 2009, [123 Stat. 1957][/us/stat/123/1957].)
 
  __Codification__ 
 
@@ -67,19 +67,19 @@
 
     2009—Subsec. (c). [Pub. L. 111–39][/us/pl/111/39] inserted “this section” after “to carry out”.
 
-    2008—Subsec. (a). [Pub. L. 110–315, § 933(1)][/us/pl/110/315/s933/1], inserted “, including the lessons to be drawn from such history” after “Underground Railroad”.
+    2008—Subsec. (a). [Pub. L. 110–315][/us/pl/110/315], § 933(1), inserted “, including the lessons to be drawn from such history” after “Underground Railroad”.
 
-    Subsec. (b)(1), (2). [Pub. L. 110–315, § 933(2)(A)][/us/pl/110/315/s933/2/A], added pars. (1) and (2) and struck out former pars. (1) and (2) which read as follows:
+    Subsec. (b)(1), (2). [Pub. L. 110–315][/us/pl/110/315], § 933(2)(A), added pars. (1) and (2) and struck out former pars. (1) and (2) which read as follows:
 
     “(1) to establish a facility to house, display, and interpret the artifacts related to the history of the Underground Railroad, and to make the interpretive efforts available to institutions of higher education that award a baccalaureate or graduate degree;
 
     “(2) to demonstrate substantial private support for the facility through the implementation of a public-private partnership between a State or local public entity and a private entity for the support of the facility, which private entity shall provide matching funds for the support of the facility in an amount equal to 4 times the amount of the contribution of the State or local public entity, except that not more than 20 percent of the matching funds may be provided by the Federal Government;”.
 
-    Subsec. (b)(4). [Pub. L. 110–315, § 933(2)(B)][/us/pl/110/315/s933/2/B], inserted “and maintain” after “establish” in two places and “including the lessons to be drawn from the history of the Underground Railroad,” after “United States,”.
+    Subsec. (b)(4). [Pub. L. 110–315][/us/pl/110/315], § 933(2)(B), inserted “and maintain” after “establish” in two places and “including the lessons to be drawn from the history of the Underground Railroad,” after “United States,”.
 
-    Subsec. (b)(5). [Pub. L. 110–315, § 933(2)(C)][/us/pl/110/315/s933/2/C], inserted “and maintain” after “establish” and “, including the lessons to be drawn from such history” after “Underground Railroad”.
+    Subsec. (b)(5). [Pub. L. 110–315][/us/pl/110/315], § 933(2)(C), inserted “and maintain” after “establish” and “, including the lessons to be drawn from such history” after “Underground Railroad”.
 
-    Subsec. (c). [Pub. L. 110–315, § 933(3)][/us/pl/110/315/s933/3], substituted “$3,000,000 for fiscal year 2009 and each of the five succeeding fiscal years” for “this section $6,000,000 for fiscal year 1999, $6,000,000 for fiscal year 2000, $6,000,000 for fiscal year 2001, $3,000,000 for fiscal year 2002, and $3,000,000 for fiscal year 2003”.
+    Subsec. (c). [Pub. L. 110–315][/us/pl/110/315], § 933(3), substituted “$3,000,000 for fiscal year 2009 and each of the five succeeding fiscal years” for “this section $6,000,000 for fiscal year 1999, $6,000,000 for fiscal year 2000, $6,000,000 for fiscal year 2001, $3,000,000 for fiscal year 2002, and $3,000,000 for fiscal year 2003”.
 
  __Effective Date of 2009 Amendment__ 
 
@@ -92,18 +92,18 @@
 ----------
 ----------
 
-[/us/pl/105/244/s841]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2Fs841
+[/us/pl/105/244/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2FtVIII
 [/us/stat/112/1820]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F1820
-[/us/pl/110/315/s933]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2Fs933
+[/us/pl/110/315/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2FtIX
 [/us/stat/122/3459]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3459
-[/us/pl/111/39/s802/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F39%2Fs802%2Fa%2F2
+[/us/pl/111/39/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F39%2FtVIII
 [/us/stat/123/1957]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1957
 [/us/pl/111/39]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F39
-[/us/pl/110/315/s933/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2Fs933%2F1
-[/us/pl/110/315/s933/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2Fs933%2F2%2FA
-[/us/pl/110/315/s933/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2Fs933%2F2%2FB
-[/us/pl/110/315/s933/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2Fs933%2F2%2FC
-[/us/pl/110/315/s933/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2Fs933%2F3
+[/us/pl/110/315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315
+[/us/pl/110/315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315
+[/us/pl/110/315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315
+[/us/pl/110/315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315
+[/us/pl/110/315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315
 [/us/pl/111/39]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F39
 [/us/pl/110/315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315
 [/us/pl/111/39/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F39%2Fs3

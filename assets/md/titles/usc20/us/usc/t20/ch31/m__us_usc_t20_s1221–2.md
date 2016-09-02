@@ -25,7 +25,7 @@
 
     declares that it is the sense of the Congress that museums be considered educational institutions and that the cost of their educational services be more frequently borne by educational agencies and institutions benefiting from those services.
 
-([Pub. L. 93–380, title VIII, § 803][/us/pl/93/380/s803], Aug. 21, 1974, [88 Stat. 597][/us/stat/88/597].)
+([Pub. L. 93–380, title VIII][/us/pl/93/380/tVIII], § 803, Aug. 21, 1974, [88 Stat. 597][/us/stat/88/597].)
 
  __Codification__ 
 
@@ -42,7 +42,7 @@
 ----------
 ----------
 
-[/us/pl/93/380/s803]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F380%2Fs803
+[/us/pl/93/380/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F380%2FtVIII
 [/us/stat/88/597]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F597
 [/us/pl/93/380/s2/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F380%2Fs2%2Fc
 [/us/usc/t20/s1221–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1221%E2%80%931

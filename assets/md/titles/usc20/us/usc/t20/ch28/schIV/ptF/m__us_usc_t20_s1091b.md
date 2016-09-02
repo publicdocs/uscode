@@ -207,7 +207,7 @@
 
         The provisions of this section shall take effect 2 years after October 7, 1998. An institution of higher education may choose to implement such provisions prior to that date.
 
-([Pub. L. 89–329, title IV, § 484B][/us/pl/89/329/s484B], as added [Pub. L. 102–325, title IV, § 485(a)][/us/pl/102/325/s485/a], July 23, 1992, [106 Stat. 619][/us/stat/106/619]; amended [Pub. L. 103–208, § 2(h)(26)][/us/pl/103/208/s2/h/26], (27), Dec. 20, 1993, [107 Stat. 2477][/us/stat/107/2477]; [Pub. L. 105–244, title IV, § 485][/us/pl/105/244/s485], Oct. 7, 1998, [112 Stat. 1737][/us/stat/112/1737]; [Pub. L. 109–66, § 2][/us/pl/109/66/s2], Sept. 21, 2005, [119 Stat. 1999][/us/stat/119/1999]; [Pub. L. 109–67, § 2][/us/pl/109/67/s2], Sept. 21, 2005, [119 Stat. 2001][/us/stat/119/2001]; [Pub. L. 109–171, title VIII, § 8022][/us/pl/109/171/s8022], Feb. 8, 2006, [120 Stat. 178][/us/stat/120/178].)
+([Pub. L. 89–329, title IV][/us/pl/89/329/tIV], § 484B, as added [Pub. L. 102–325, title IV][/us/pl/102/325/tIV], § 485(a), July 23, 1992, [106 Stat. 619][/us/stat/106/619]; amended [Pub. L. 103–208][/us/pl/103/208], § 2(h)(26), (27), Dec. 20, 1993, [107 Stat. 2477][/us/stat/107/2477]; [Pub. L. 105–244, title IV][/us/pl/105/244/tIV], § 485, Oct. 7, 1998, [112 Stat. 1737][/us/stat/112/1737]; [Pub. L. 109–66][/us/pl/109/66], § 2, Sept. 21, 2005, [119 Stat. 1999][/us/stat/119/1999]; [Pub. L. 109–67][/us/pl/109/67], § 2, Sept. 21, 2005, [119 Stat. 2001][/us/stat/119/2001]; [Pub. L. 109–171, title VIII][/us/pl/109/171/tVIII], § 8022, Feb. 8, 2006, [120 Stat. 178][/us/stat/120/178].)
 
  __References in Text__ 
 
@@ -215,23 +215,23 @@
 
  __Prior Provisions__ 
 
-    A prior section 1091b, [Pub. L. 89–329, title V, § 503][/us/pl/89/329/s503], as added [Pub. L. 90–35, § 2(c)][/us/pl/90/35/s2/c], June 29, 1967, [81 Stat. 83][/us/stat/81/83]; amended [Pub. L. 92–318, title IV, § 451(a)][/us/pl/92/318/s451/a], June 23, 1972, [86 Stat. 344][/us/stat/86/344], authorized the Commissioner to appraise and annually report on existing and future education personnel needs, prior to repeal, effective Sept. 30, 1976, by [Pub. L. 94–482, title I, § 151(a)(2)][/us/pl/94/482/s151/a/2], (b), Oct. 12, 1976, [90 Stat. 2151][/us/stat/90/2151].
+    A prior section 1091b, [Pub. L. 89–329, title V][/us/pl/89/329/tV], § 503, as added [Pub. L. 90–35][/us/pl/90/35], § 2(c), June 29, 1967, [81 Stat. 83][/us/stat/81/83]; amended [Pub. L. 92–318, title IV][/us/pl/92/318/tIV], § 451(a), June 23, 1972, [86 Stat. 344][/us/stat/86/344], authorized the Commissioner to appraise and annually report on existing and future education personnel needs, prior to repeal, effective Sept. 30, 1976, by [Pub. L. 94–482, title I][/us/pl/94/482/tI], § 151(a)(2), (b), Oct. 12, 1976, [90 Stat. 2151][/us/stat/90/2151].
 
  __Amendments__ 
 
-    2006—Subsec. (a)(2)(A). [Pub. L. 109–171, § 8022(1)][/us/pl/109/171/s8022/1], substituted “1 or more leaves of” for “a leave of” in introductory provisions.
+    2006—Subsec. (a)(2)(A). [Pub. L. 109–171][/us/pl/109/171], § 8022(1), substituted “1 or more leaves of” for “a leave of” in introductory provisions.
 
-    Subsec. (a)(3)(B)(ii). [Pub. L. 109–171, § 8022(2)][/us/pl/109/171/s8022/2], inserted “(as determined in accordance with subsection (d))” after “student has completed”.
+    Subsec. (a)(3)(B)(ii). [Pub. L. 109–171][/us/pl/109/171], § 8022(2), inserted “(as determined in accordance with subsection (d))” after “student has completed”.
 
-    Subsec. (a)(3)(C)(i). [Pub. L. 109–171, § 8022(3)][/us/pl/109/171/s8022/3], substituted “grant assistance under subparts 1 and 3 of part A, or loan assistance under parts B, C, and D,” for “grant or loan assistance under this subchapter and part C of subchapter I of chapter 34 of title 42”.
+    Subsec. (a)(3)(C)(i). [Pub. L. 109–171][/us/pl/109/171], § 8022(3), substituted “grant assistance under subparts 1 and 3 of part A, or loan assistance under parts B, C, and D,” for “grant or loan assistance under this subchapter and part C of subchapter I of chapter 34 of title 42”.
 
-    Subsec. (a)(4)(A). [Pub. L. 109–171, § 8022(4)][/us/pl/109/171/s8022/4], amended heading and text of subpar. (A) generally. Prior to amendment, text read as follows: “If the student has received less grant or loan assistance than the amount earned as calculated under subparagraph (A) of paragraph (3), the institution of higher education shall comply with the procedures for late disbursement specified by the Secretary in regulations.”
+    Subsec. (a)(4)(A). [Pub. L. 109–171][/us/pl/109/171], § 8022(4), amended heading and text of subpar. (A) generally. Prior to amendment, text read as follows: “If the student has received less grant or loan assistance than the amount earned as calculated under subparagraph (A) of paragraph (3), the institution of higher education shall comply with the procedures for late disbursement specified by the Secretary in regulations.”
 
-    Subsec. (b)(1). [Pub. L. 109–171, § 8022(5)][/us/pl/109/171/s8022/5], inserted “not later than 45 days from the determination of withdrawal” after “return” in introductory provisions.
+    Subsec. (b)(1). [Pub. L. 109–171][/us/pl/109/171], § 8022(5), inserted “not later than 45 days from the determination of withdrawal” after “return” in introductory provisions.
 
-    Subsec. (b)(2)(C). [Pub. L. 109–171, § 8022(6)][/us/pl/109/171/s8022/6], amended heading and text of subpar. (C) generally. Prior to amendment, text read as follows: “Notwithstanding subparagraphs (A) and (B), a student shall not be required to return 50 percent of the grant assistance received by the student under this subchapter and part C of subchapter I of chapter 34 of title 42, for a payment period or period of enrollment, that is the responsibility of the student to repay under this section.”
+    Subsec. (b)(2)(C). [Pub. L. 109–171][/us/pl/109/171], § 8022(6), amended heading and text of subpar. (C) generally. Prior to amendment, text read as follows: “Notwithstanding subparagraphs (A) and (B), a student shall not be required to return 50 percent of the grant assistance received by the student under this subchapter and part C of subchapter I of chapter 34 of title 42, for a payment period or period of enrollment, that is the responsibility of the student to repay under this section.”
 
-    Subsec. (d). [Pub. L. 109–171, § 8022(7)][/us/pl/109/171/s8022/7], (8), in introductory provisions, substituted “(a)(3)(B)” for “(a)(3)(B)(i)” and, in par. (2), substituted “clock hours scheduled to be completed by the student in that period as of the day the student withdrew.” for “clock hours—
+    Subsec. (d). [Pub. L. 109–171][/us/pl/109/171], § 8022(7), (8), in introductory provisions, substituted “(a)(3)(B)” for “(a)(3)(B)(i)” and, in par. (2), substituted “clock hours scheduled to be completed by the student in that period as of the day the student withdrew.” for “clock hours—
 
     “(A) completed by the student in that period as of the day the student withdrew; or
 
@@ -243,9 +243,9 @@
 
     1998—[Pub. L. 105–244][/us/pl/105/244] amended section catchline and text generally. Prior to amendment, section consisted of subsecs. (a) to (c) requiring each institution of higher education participating in a program under this subchapter and part C of subchapter I of chapter 34 of title 42 to have in effect a fair and equitable refund policy for refunding unearned tuition, fees, room and board, and other charges to students or parents who received grant or loan assistance under this subchapter or part C of subchapter I of chapter 34 of title 42.
 
-    1993—Subsec. (a). [Pub. L. 103–208, § 2(h)(26)][/us/pl/103/208/s2/h/26], substituted “grant or loan assistance” for “grant, loan, or work assistance” in introductory provisions.
+    1993—Subsec. (a). [Pub. L. 103–208][/us/pl/103/208], § 2(h)(26), substituted “grant or loan assistance” for “grant, loan, or work assistance” in introductory provisions.
 
-    Subsec. (b)(3). [Pub. L. 103–208, § 2(h)(27)][/us/pl/103/208/s2/h/27], substituted “subsection (c) of this section” for “subsection (d) of this section”.
+    Subsec. (b)(3). [Pub. L. 103–208][/us/pl/103/208], § 2(h)(27), substituted “subsection (c) of this section” for “subsection (d) of this section”.
 
  __Effective Date of 2006 Amendment__ 
 
@@ -271,39 +271,39 @@
 [/us/usc/t20/s1078–8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1078%E2%80%938
 [/us/usc/t20/s1078]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1078
 [/us/usc/t20/s1078–2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1078%E2%80%932
-[/us/pl/89/329/s484B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2Fs484B
-[/us/pl/102/325/s485/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325%2Fs485%2Fa
+[/us/pl/89/329/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2FtIV
+[/us/pl/102/325/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325%2FtIV
 [/us/stat/106/619]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F619
-[/us/pl/103/208/s2/h/26]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F208%2Fs2%2Fh%2F26
+[/us/pl/103/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F208
 [/us/stat/107/2477]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F2477
-[/us/pl/105/244/s485]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2Fs485
+[/us/pl/105/244/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2FtIV
 [/us/stat/112/1737]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F1737
-[/us/pl/109/66/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F66%2Fs2
+[/us/pl/109/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F66
 [/us/stat/119/1999]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F1999
-[/us/pl/109/67/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F67%2Fs2
+[/us/pl/109/67]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F67
 [/us/stat/119/2001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F2001
-[/us/pl/109/171/s8022]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F171%2Fs8022
+[/us/pl/109/171/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F171%2FtVIII
 [/us/stat/120/178]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F178
 [/us/pl/89/329]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329
-[/us/pl/89/329/s503]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2Fs503
-[/us/pl/90/35/s2/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F35%2Fs2%2Fc
+[/us/pl/89/329/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2FtV
+[/us/pl/90/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F35
 [/us/stat/81/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F83
-[/us/pl/92/318/s451/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F318%2Fs451%2Fa
+[/us/pl/92/318/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F318%2FtIV
 [/us/stat/86/344]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F344
-[/us/pl/94/482/s151/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F482%2Fs151%2Fa%2F2
+[/us/pl/94/482/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F482%2FtI
 [/us/stat/90/2151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2151
-[/us/pl/109/171/s8022/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F171%2Fs8022%2F1
-[/us/pl/109/171/s8022/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F171%2Fs8022%2F2
-[/us/pl/109/171/s8022/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F171%2Fs8022%2F3
-[/us/pl/109/171/s8022/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F171%2Fs8022%2F4
-[/us/pl/109/171/s8022/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F171%2Fs8022%2F5
-[/us/pl/109/171/s8022/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F171%2Fs8022%2F6
-[/us/pl/109/171/s8022/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F171%2Fs8022%2F7
+[/us/pl/109/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F171
+[/us/pl/109/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F171
+[/us/pl/109/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F171
+[/us/pl/109/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F171
+[/us/pl/109/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F171
+[/us/pl/109/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F171
+[/us/pl/109/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F171
 [/us/pl/109/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F66
 [/us/pl/109/67]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F67
 [/us/pl/105/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244
-[/us/pl/103/208/s2/h/26]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F208%2Fs2%2Fh%2F26
-[/us/pl/103/208/s2/h/27]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F208%2Fs2%2Fh%2F27
+[/us/pl/103/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F208
+[/us/pl/103/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F208
 [/us/pl/109/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F171
 [/us/pl/109/171/s8001/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F171%2Fs8001%2Fc
 [/us/usc/t20/s1002]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1002

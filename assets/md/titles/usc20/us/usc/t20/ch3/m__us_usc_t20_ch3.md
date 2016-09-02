@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../..//us/usc/t20/ch2/m__us_usc_t20_s29.md) | [Next](./../../../..//us/usc/t20/ch3/schI/m__us_usc_t20_ch3_schI.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fch3)
+[Previous](./../../../..//us/usc/t20/ch2/m__us_usc_t20_s35...35n.md) | [Next](./../../../..//us/usc/t20/ch3/schI/m__us_usc_t20_ch3_schI.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fch3)
 
 ## CHAPTER 3—SMITHSONIAN INSTITUTION, NATIONAL MUSEUMS AND ART GALLERIES
 
@@ -513,7 +513,7 @@ SUBCHAPTER V—JOHN F. KENNEDY CENTER FOR THE PERFORMING ARTS  </td>
 
   <tr>
 
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs76" data-uslm-ref="/us/usc/t20/s76">76</a>l.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs76l" data-uslm-ref="/us/usc/t20/s76l">76l.</a>  </td>
 
     <td> Official seal, Board vacancies and quorum, trustee powers and obligations, reports, support services, and review and audit.  </td>
 
@@ -537,7 +537,7 @@ SUBCHAPTER V—JOHN F. KENNEDY CENTER FOR THE PERFORMING ARTS  </td>
 
   <tr>
 
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs76" data-uslm-ref="/us/usc/t20/s76">76</a>o.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs76o" data-uslm-ref="/us/usc/t20/s76o">76o.</a>  </td>
 
     <td> Borrowing authority to finance parking facilities.  </td>
 
@@ -889,7 +889,7 @@ SUBCHAPTER XII—MUSEUM OF AFRICAN ART  </td>
 
   <tr>
 
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs80" data-uslm-ref="/us/usc/t20/s80">80</a>l.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs80l" data-uslm-ref="/us/usc/t20/s80l">80l.</a>  </td>
 
     <td> Establishment of Museum of African Art; functions.  </td>
 
@@ -913,7 +913,7 @@ SUBCHAPTER XII—MUSEUM OF AFRICAN ART  </td>
 
   <tr>
 
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs80" data-uslm-ref="/us/usc/t20/s80">80</a>o.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs80o" data-uslm-ref="/us/usc/t20/s80o">80o.</a>  </td>
 
     <td> Director, officers, and employees; appointment, compensation, and duties.  </td>
 
@@ -1203,7 +1203,7 @@ SUBCHAPTER XV—CIVIL RIGHTS HISTORY PROJECT  </td>
 
 ----------
 
-[Previous](./../../../..//us/usc/t20/ch2/m__us_usc_t20_s29.md) | [Next](./../../../..//us/usc/t20/ch3/schI/m__us_usc_t20_ch3_schI.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fch3)
+[Previous](./../../../..//us/usc/t20/ch2/m__us_usc_t20_s35...35n.md) | [Next](./../../../..//us/usc/t20/ch3/schI/m__us_usc_t20_ch3_schI.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fch3)
 
 ----------
 ----------

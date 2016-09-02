@@ -103,15 +103,15 @@
 
         (3) For purposes of this subsection, testimonials and benefit performances shall not be construed to be memorials.
 
-([Pub. L. 85–874, § 4][/us/pl/85/874/s4], Sept. 2, 1958, [72 Stat. 1699][/us/stat/72/1699]; [Pub. L. 88–260, § 1(3)][/us/pl/88/260/s1/3], Jan. 23, 1964, [78 Stat. 4][/us/stat/78/4]; [Pub. L. 98–205, § 4][/us/pl/98/205/s4], Dec. 2, 1983, [97 Stat. 1388][/us/stat/97/1388]; [Pub. L. 103–279, § 3][/us/pl/103/279/s3], July 21, 1994, [108 Stat. 1411][/us/stat/108/1411]; [Pub. L. 105–95, § 3(a)][/us/pl/105/95/s3/a], Nov. 19, 1997, [111 Stat. 2149][/us/stat/111/2149]; [Pub. L. 105–226][/us/pl/105/226], §§ 2, 3, Aug. 12, 1998, [112 Stat. 1513][/us/stat/112/1513]; [Pub. L. 107–224, § 4(a)][/us/pl/107/224/s4/a], Sept. 18, 2002, [116 Stat. 1343][/us/stat/116/1343].)
+([Pub. L. 85–874][/us/pl/85/874], § 4, Sept. 2, 1958, [72 Stat. 1699][/us/stat/72/1699]; [Pub. L. 88–260][/us/pl/88/260], § 1(3), Jan. 23, 1964, [78 Stat. 4][/us/stat/78/4]; [Pub. L. 98–205][/us/pl/98/205], § 4, Dec. 2, 1983, [97 Stat. 1388][/us/stat/97/1388]; [Pub. L. 103–279][/us/pl/103/279], § 3, July 21, 1994, [108 Stat. 1411][/us/stat/108/1411]; [Pub. L. 105–95][/us/pl/105/95], § 3(a), Nov. 19, 1997, [111 Stat. 2149][/us/stat/111/2149]; [Pub. L. 105–226][/us/pl/105/226], §§ 2, 3, Aug. 12, 1998, [112 Stat. 1513][/us/stat/112/1513]; [Pub. L. 107–224][/us/pl/107/224], § 4(a), Sept. 18, 2002, [116 Stat. 1343][/us/stat/116/1343].)
 
  __Amendments__ 
 
     2002—Subsec. (a)(2)(D). [Pub. L. 107–224][/us/pl/107/224] amended heading and text of subpar. (D) generally. Prior to amendment, text read as follows: “In carrying out the duties of the Board under this subchapter, the Board may negotiate any contract for an environmental system for, a protection system for, or a repair to, maintenance of, or restoration of the John F. Kennedy Center for the Performing Arts with selected contractors and award the contract on the basis of contractor qualifications as well as price.”
 
-    1998—Subsec. (a)(1)(G). [Pub. L. 105–226, § 2][/us/pl/105/226/s2], amended subpar. (G) generally. Prior to amendment, subpar. (G) read as follows: “with respect to each feature of the building and site of the John F. Kennedy Center for the Performing Arts that is in existence on July 21, 1994 (including a theater, the garage, the plaza, or a building walkway), plan, design, and construct each capital repair, replacement, improvement, rehabilitation, alteration, or modification necessary for the feature;”.
+    1998—Subsec. (a)(1)(G). [Pub. L. 105–226][/us/pl/105/226], § 2, amended subpar. (G) generally. Prior to amendment, subpar. (G) read as follows: “with respect to each feature of the building and site of the John F. Kennedy Center for the Performing Arts that is in existence on July 21, 1994 (including a theater, the garage, the plaza, or a building walkway), plan, design, and construct each capital repair, replacement, improvement, rehabilitation, alteration, or modification necessary for the feature;”.
 
-    Subsec. (a)(1)(H)(ii). [Pub. L. 105–226, § 3][/us/pl/105/226/s3], amended cl. (ii) generally. Prior to amendment, cl. (ii) read as follows: “with respect to each feature of the building and site of the John F. Kennedy Center for the Performing Arts that is in existence on July 21, 1994 (including a theater, the garage, the plaza, or a building walkway), all necessary maintenance, repair, and alteration of, and all janitorial, security, and other services and equipment necessary for the operation of, the feature, in a manner consistent with requirements for high quality operations; and”.
+    Subsec. (a)(1)(H)(ii). [Pub. L. 105–226][/us/pl/105/226], § 3, amended cl. (ii) generally. Prior to amendment, cl. (ii) read as follows: “with respect to each feature of the building and site of the John F. Kennedy Center for the Performing Arts that is in existence on July 21, 1994 (including a theater, the garage, the plaza, or a building walkway), all necessary maintenance, repair, and alteration of, and all janitorial, security, and other services and equipment necessary for the operation of, the feature, in a manner consistent with requirements for high quality operations; and”.
 
     1997—Subsec. (a)(1)(I). [Pub. L. 105–95][/us/pl/105/95] added subpar. (I).
 
@@ -133,7 +133,7 @@
 
  __Access to John F. Kennedy Center for the Performing Arts__ 
 
-[Pub. L. 105–178, title I, § 1214(a)][/us/pl/105/178/s1214/a], June 9, 1998, [112 Stat. 204][/us/stat/112/204], provided that:
+[Pub. L. 105–178, title I][/us/pl/105/178/tI], § 1214(a), June 9, 1998, [112 Stat. 204][/us/stat/112/204], provided that:
 
 >     “(1)  __Study__  __.—__ 
 
@@ -159,28 +159,28 @@
 ----------
 
 [/us/usc/t20/s76q–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs76q%E2%80%931
-[/us/pl/85/874/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F874%2Fs4
+[/us/pl/85/874]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F874
 [/us/stat/72/1699]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F1699
-[/us/pl/88/260/s1/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F260%2Fs1%2F3
+[/us/pl/88/260]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F260
 [/us/stat/78/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F4
-[/us/pl/98/205/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F205%2Fs4
+[/us/pl/98/205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F205
 [/us/stat/97/1388]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F1388
-[/us/pl/103/279/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F279%2Fs3
+[/us/pl/103/279]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F279
 [/us/stat/108/1411]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1411
-[/us/pl/105/95/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F95%2Fs3%2Fa
+[/us/pl/105/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F95
 [/us/stat/111/2149]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F2149
 [/us/pl/105/226]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F226
 [/us/stat/112/1513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F1513
-[/us/pl/107/224/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F224%2Fs4%2Fa
+[/us/pl/107/224]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F224
 [/us/stat/116/1343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1343
 [/us/pl/107/224]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F224
-[/us/pl/105/226/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F226%2Fs2
-[/us/pl/105/226/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F226%2Fs3
+[/us/pl/105/226]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F226
+[/us/pl/105/226]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F226
 [/us/pl/105/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F95
 [/us/pl/103/279]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F279
 [/us/pl/98/205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F205
 [/us/pl/88/260]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F260
-[/us/pl/105/178/s1214/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178%2Fs1214%2Fa
+[/us/pl/105/178/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178%2FtI
 [/us/stat/112/204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F204
 
 

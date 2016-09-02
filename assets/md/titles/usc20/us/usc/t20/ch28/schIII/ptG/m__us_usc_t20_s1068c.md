@@ -33,7 +33,7 @@
 
         Grants to institutions having a cooperative arrangement may be made under this section for a period as determined under [section 1059 of this title][/us/usc/t20/s1059] or [section 1062 of this title][/us/usc/t20/s1062].
 
-([Pub. L. 89–329, title III, § 394][/us/pl/89/329/s394], formerly § 354, as added [Pub. L. 99–498, title III, § 301(a)][/us/pl/99/498/s301/a], Oct. 17, 1986, [100 Stat. 1305][/us/stat/100/1305]; renumbered § 394, [Pub. L. 105–244, title III, § 301(a)(2)][/us/pl/105/244/s301/a/2], Oct. 7, 1998, [112 Stat. 1636][/us/stat/112/1636].)
+([Pub. L. 89–329, title III][/us/pl/89/329/tIII], § 394, formerly § 354, as added [Pub. L. 99–498, title III][/us/pl/99/498/tIII], § 301(a), Oct. 17, 1986, [100 Stat. 1305][/us/stat/100/1305]; renumbered § 394, [Pub. L. 105–244, title III][/us/pl/105/244/tIII], § 301(a)(2), Oct. 7, 1998, [112 Stat. 1636][/us/stat/112/1636].)
 
  __Codification__ 
 
@@ -50,10 +50,10 @@
 [/us/usc/t20/s1062]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1062
 [/us/usc/t20/s1059]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1059
 [/us/usc/t20/s1062]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1062
-[/us/pl/89/329/s394]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2Fs394
-[/us/pl/99/498/s301/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F498%2Fs301%2Fa
+[/us/pl/89/329/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2FtIII
+[/us/pl/99/498/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F498%2FtIII
 [/us/stat/100/1305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1305
-[/us/pl/105/244/s301/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2Fs301%2Fa%2F2
+[/us/pl/105/244/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2FtIII
 [/us/stat/112/1636]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F1636
 [/us/usc/t20/s1069]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1069
 [/us/pl/105/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244

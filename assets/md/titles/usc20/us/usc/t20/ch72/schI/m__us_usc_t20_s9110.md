@@ -17,7 +17,7 @@
 
     The Director is authorized to conduct hearings at such times and places as the Director determines appropriate for carrying out the purposes of this subchapter.
 
-([Pub. L. 94–462, title II, § 210B][/us/pl/94/462/s210B], as added [Pub. L. 111–340, title I, § 107][/us/pl/111/340/s107], Dec. 22, 2010, [124 Stat. 3599][/us/stat/124/3599].)
+([Pub. L. 94–462, title II][/us/pl/94/462/tII], § 210B, as added [Pub. L. 111–340, title I][/us/pl/111/340/tI], § 107, Dec. 22, 2010, [124 Stat. 3599][/us/stat/124/3599].)
 
 ----------
 
@@ -26,8 +26,8 @@
 ----------
 ----------
 
-[/us/pl/94/462/s210B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F462%2Fs210B
-[/us/pl/111/340/s107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F340%2Fs107
+[/us/pl/94/462/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F462%2FtII
+[/us/pl/111/340/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F340%2FtI
 [/us/stat/124/3599]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3599
 
 

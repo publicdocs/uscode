@@ -109,33 +109,33 @@
 
             The full faith and credit of the United States is pledged to the payment of all amounts which may be required to be paid under the provisions of section 1080 or 1087 of this title.
 
-([Pub. L. 89–329, title IV, § 425][/us/pl/89/329/s425], as added [Pub. L. 99–498, title IV, § 402(a)][/us/pl/99/498/s402/a], Oct. 17, 1986, [100 Stat. 1359][/us/stat/100/1359]; amended [Pub. L. 100–50, § 10(a)][/us/pl/100/50/s10/a], June 3, 1987, [101 Stat. 341][/us/stat/101/341]; [Pub. L. 102–325, title IV, § 413][/us/pl/102/325/s413], July 23, 1992, [106 Stat. 512][/us/stat/106/512]; [Pub. L. 103–208, § 2(c)(2)][/us/pl/103/208/s2/c/2], (3), Dec. 20, 1993, [107 Stat. 2460][/us/stat/107/2460], 2461; [Pub. L. 105–244, title IV, § 415][/us/pl/105/244/s415], Oct. 7, 1998, [112 Stat. 1679][/us/stat/112/1679]; [Pub. L. 109–171, title VIII, § 8005(a)][/us/pl/109/171/s8005/a], Feb. 8, 2006, [120 Stat. 158][/us/stat/120/158].)
+([Pub. L. 89–329, title IV][/us/pl/89/329/tIV], § 425, as added [Pub. L. 99–498, title IV][/us/pl/99/498/tIV], § 402(a), Oct. 17, 1986, [100 Stat. 1359][/us/stat/100/1359]; amended [Pub. L. 100–50][/us/pl/100/50], § 10(a), June 3, 1987, [101 Stat. 341][/us/stat/101/341]; [Pub. L. 102–325, title IV][/us/pl/102/325/tIV], § 413, July 23, 1992, [106 Stat. 512][/us/stat/106/512]; [Pub. L. 103–208][/us/pl/103/208], § 2(c)(2), (3), Dec. 20, 1993, [107 Stat. 2460][/us/stat/107/2460], 2461; [Pub. L. 105–244, title IV][/us/pl/105/244/tIV], § 415, Oct. 7, 1998, [112 Stat. 1679][/us/stat/112/1679]; [Pub. L. 109–171, title VIII][/us/pl/109/171/tVIII], § 8005(a), Feb. 8, 2006, [120 Stat. 158][/us/stat/120/158].)
 
  __References in Text__ 
 
-    [Section 1078–1 of this title][/us/usc/t20/s1078–1], referred to in subsec. (a)(2)(A), was repealed by [Pub. L. 103–66, title IV, § 4047(b)][/us/pl/103/66/s4047/b]–(d), Aug. 10, 1993, [107 Stat. 364][/us/stat/107/364], eff. July 1, 1994, except with respect to loans provided under that section as it existed prior to Aug. 10, 1993. Subsequently, a new section 1078–1, relating to voluntary flexible agreements with guaranty agencies, was enacted by [Pub. L. 105–244, title IV, § 418][/us/pl/105/244/s418], Oct. 7, 1998, [112 Stat. 1691][/us/stat/112/1691].
+    [Section 1078–1 of this title][/us/usc/t20/s1078–1], referred to in subsec. (a)(2)(A), was repealed by [Pub. L. 103–66, title IV][/us/pl/103/66/tIV], § 4047(b)–(d), Aug. 10, 1993, [107 Stat. 364][/us/stat/107/364], eff. July 1, 1994, except with respect to loans provided under that section as it existed prior to Aug. 10, 1993. Subsequently, a new section 1078–1, relating to voluntary flexible agreements with guaranty agencies, was enacted by [Pub. L. 105–244, title IV][/us/pl/105/244/tIV], § 418, Oct. 7, 1998, [112 Stat. 1691][/us/stat/112/1691].
 
  __Prior Provisions__ 
 
-    A prior section 1075, [Pub. L. 89–329, title IV, § 425][/us/pl/89/329/s425], Nov. 8, 1965, [79 Stat. 1238][/us/stat/79/1238]; [Pub. L. 90–575, title I][/us/pl/90/575], §§ 116(b)(1), 120(a)(2), Oct. 16, 1968, [82 Stat. 1023][/us/stat/82/1023], 1027; [Pub. L. 92–318, title I][/us/pl/92/318], §§ 132A(a), 132B(a), June 23, 1972, [86 Stat. 261][/us/stat/86/261], 262; [Pub. L. 94–482, title I, § 127(a)][/us/pl/94/482/s127/a], Oct. 12, 1976, [90 Stat. 2104][/us/stat/90/2104]; [Pub. L. 95–43, § 1(a)(15)][/us/pl/95/43/s1/a/15]–(17), June 15, 1977, [91 Stat. 214][/us/stat/91/214]; [Pub. L. 95–566, § 5(b)(2)][/us/pl/95/566/s5/b/2], Nov. 1, 1978, [92 Stat. 2403][/us/stat/92/2403]; [Pub. L. 96–374, title IV, § 412(a)][/us/pl/96/374/s412/a], (b), (f), title XIII, § 1391(a)(1), Oct. 3, 1980, [94 Stat. 1416][/us/stat/94/1416], 1417, 1503; [Pub. L. 97–35, title V, § 535(a)][/us/pl/97/35/s535/a], (b), Aug. 13, 1981, [95 Stat. 455][/us/stat/95/455]; [Pub. L. 99–272, title XVI, § 16013(e)(1)][/us/pl/99/272/s16013/e/1], Apr. 7, 1986, [100 Stat. 341][/us/stat/100/341], limited Federal loan insurance, prior to the general revision of this part by [Pub. L. 99–498][/us/pl/99/498].
+    A prior section 1075, [Pub. L. 89–329, title IV][/us/pl/89/329/tIV], § 425, Nov. 8, 1965, [79 Stat. 1238][/us/stat/79/1238]; [Pub. L. 90–575, title I][/us/pl/90/575/tI], §§ 116(b)(1), 120(a)(2), Oct. 16, 1968, [82 Stat. 1023][/us/stat/82/1023], 1027; [Pub. L. 92–318, title I][/us/pl/92/318/tI], §§ 132A(a), 132B(a), June 23, 1972, [86 Stat. 261][/us/stat/86/261], 262; [Pub. L. 94–482, title I][/us/pl/94/482/tI], § 127(a), Oct. 12, 1976, [90 Stat. 2104][/us/stat/90/2104]; [Pub. L. 95–43][/us/pl/95/43], § 1(a)(15)–(17), June 15, 1977, [91 Stat. 214][/us/stat/91/214]; [Pub. L. 95–566][/us/pl/95/566], § 5(b)(2), Nov. 1, 1978, [92 Stat. 2403][/us/stat/92/2403]; [Pub. L. 96–374, title IV][/us/pl/96/374/tIV], § 412(a), (b), (f), title XIII, § 1391(a)(1), Oct. 3, 1980, [94 Stat. 1416][/us/stat/94/1416], 1417, 1503; [Pub. L. 97–35, title V][/us/pl/97/35/tV], § 535(a), (b), Aug. 13, 1981, [95 Stat. 455][/us/stat/95/455]; [Pub. L. 99–272, title XVI][/us/pl/99/272/tXVI], § 16013(e)(1), Apr. 7, 1986, [100 Stat. 341][/us/stat/100/341], limited Federal loan insurance, prior to the general revision of this part by [Pub. L. 99–498][/us/pl/99/498].
 
  __Amendments__ 
 
-    2006—Subsec. (a)(1)(A)(i)(I). [Pub. L. 109–171, § 8005(a)(1)][/us/pl/109/171/s8005/a/1], substituted “$3,500” for “$2,625”.
+    2006—Subsec. (a)(1)(A)(i)(I). [Pub. L. 109–171][/us/pl/109/171], § 8005(a)(1), substituted “$3,500” for “$2,625”.
 
-    Subsec. (a)(1)(A)(ii)(I). [Pub. L. 109–171, § 8005(a)(2)][/us/pl/109/171/s8005/a/2], substituted “$4,500” for “$3,500”.
+    Subsec. (a)(1)(A)(ii)(I). [Pub. L. 109–171][/us/pl/109/171], § 8005(a)(2), substituted “$4,500” for “$3,500”.
 
-    1998—Subsec. (a)(1)(A)(i)(I). [Pub. L. 105–244, § 415(1)(A)][/us/pl/105/244/s415/1/A], inserted “and” after semicolon.
+    1998—Subsec. (a)(1)(A)(i)(I). [Pub. L. 105–244][/us/pl/105/244], § 415(1)(A), inserted “and” after semicolon.
 
-    Subsec. (a)(1)(A)(i)(II), (III). [Pub. L. 105–244, § 415(1)(B)][/us/pl/105/244/s415/1/B], added subcl. (II) and struck out former subcls. (II) and (III) which read as follows:
+    Subsec. (a)(1)(A)(i)(II), (III). [Pub. L. 105–244][/us/pl/105/244], § 415(1)(B), added subcl. (II) and struck out former subcls. (II) and (III) which read as follows:
 
     “(II) $1,750, if such student is enrolled in a program whose length is less than one academic year, but at least ⅔ of such an academic year; and
 
     “(III) $875, if such student is enrolled in a program whose length is less than ⅔, but at least ⅓, of such an academic year;”.
 
-    Subsec. (a)(1)(A)(iii)(II). [Pub. L. 105–244, § 415(2)][/us/pl/105/244/s415/2], inserted “and” after semicolon at end.
+    Subsec. (a)(1)(A)(iii)(II). [Pub. L. 105–244][/us/pl/105/244], § 415(2), inserted “and” after semicolon at end.
 
-    1993—Subsec. (a)(1)(A)(ii), (iii). [Pub. L. 103–208, § 2(c)(2)(A)][/us/pl/103/208/s2/c/2/A], added cls. (ii) and (iii) and struck out former cls. (ii) and (iii) which read as follows:
+    1993—Subsec. (a)(1)(A)(ii), (iii). [Pub. L. 103–208][/us/pl/103/208], § 2(c)(2)(A), added cls. (ii) and (iii) and struck out former cls. (ii) and (iii) which read as follows:
 
     “(ii) the case of a student who has successfully completed such first year but has not successfully completed the remainder of a program of undergraduate study—
 
@@ -153,11 +153,11 @@
 
     “(III) $1,825, if such student is enrolled in a program whose length is less than ⅔, but at least ⅓, of such an academic year; and”.
 
-    Subsec. (a)(1)(A)(iv). [Pub. L. 103–208, § 2(c)(2)(B)][/us/pl/103/208/s2/c/2/B], substituted a period for semicolon at end.
+    Subsec. (a)(1)(A)(iv). [Pub. L. 103–208][/us/pl/103/208], § 2(c)(2)(B), substituted a period for semicolon at end.
 
-    Subsec. (a)(1)(C). [Pub. L. 103–208, § 2(c)(3)][/us/pl/103/208/s2/c/3], added subpar. (C).
+    Subsec. (a)(1)(C). [Pub. L. 103–208][/us/pl/103/208], § 2(c)(3), added subpar. (C).
 
-    1992—Subsec. (a)(1)(A). [Pub. L. 102–325, § 413(1)][/us/pl/102/325/s413/1], added cls. (i) to (iv) and struck out former cls. (i) to (iii) which read as follows:
+    1992—Subsec. (a)(1)(A). [Pub. L. 102–325][/us/pl/102/325], § 413(1), added cls. (i) to (iv) and struck out former cls. (i) to (iii) which read as follows:
 
     “(i) $2,625, in the case of a student who has not successfully completed the first and second year of a program of undergraduate education;
 
@@ -165,19 +165,19 @@
 
     “(iii) $7,500, in the case of a graduate or professional student (as defined in regulations of the Secretary).”
 
-    Subsec. (a)(2)(A). [Pub. L. 102–325, § 413(2)][/us/pl/102/325/s413/2], added cls. (i) and (ii) and concluding provision and struck out former cls. (i) and (ii) which read as follows:
+    Subsec. (a)(2)(A). [Pub. L. 102–325][/us/pl/102/325], § 413(2), added cls. (i) and (ii) and concluding provision and struck out former cls. (i) and (ii) which read as follows:
 
     “(i) $17,250, in the case of any student who has not successfully completed a program of undergraduate education, excluding loans made under section 1078–1 or 1078–2 of this title; and
 
     “(ii) $54,750, in the case of any graduate or professional student (as defined by regulations of the Secretary and including any loans which are insured by the Secretary under this part, or by a guaranty agency, made to such person before he or she became a graduate or professional student), excluding loans made under section 1078–1 or 1078–2 of this title.”
 
-    1987—Subsec. (a)(2)(A)(i). [Pub. L. 100–50, § 10(a)(1)][/us/pl/100/50/s10/a/1], inserted “, excluding loans made under section 1078–1 or 1078–2 of this title” after “undergraduate education”.
+    1987—Subsec. (a)(2)(A)(i). [Pub. L. 100–50][/us/pl/100/50], § 10(a)(1), inserted “, excluding loans made under section 1078–1 or 1078–2 of this title” after “undergraduate education”.
 
-    Subsec. (a)(2)(A)(ii). [Pub. L. 100–50, § 10(a)(2)][/us/pl/100/50/s10/a/2], inserted “, excluding loans made under section 1078–1 or 1078–2 of this title” after “graduate or professional student)”.
+    Subsec. (a)(2)(A)(ii). [Pub. L. 100–50][/us/pl/100/50], § 10(a)(2), inserted “, excluding loans made under section 1078–1 or 1078–2 of this title” after “graduate or professional student)”.
 
  __Effective Date of 2006 Amendment__ 
 
-[Pub. L. 109–171, title VIII, § 8005(e)][/us/pl/109/171/s8005/e], Feb. 8, 2006, [120 Stat. 159][/us/stat/120/159], provided that: 
+[Pub. L. 109–171, title VIII][/us/pl/109/171/tVIII], § 8005(e), Feb. 8, 2006, [120 Stat. 159][/us/stat/120/159], provided that: 
 
 > “The amendments made by subsections (a), (b), and (d) \[amending this section and sections 1078 and 1078–8 of this title\] shall be effective July 1, 2007.”
 
@@ -217,58 +217,58 @@
 [/us/usc/t20/s1077/a/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1077%2Fa%2F2%2FC
 [/us/usc/t20/s1087]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1087
 [/us/usc/t20/s1080]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1080
-[/us/pl/89/329/s425]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2Fs425
-[/us/pl/99/498/s402/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F498%2Fs402%2Fa
+[/us/pl/89/329/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2FtIV
+[/us/pl/99/498/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F498%2FtIV
 [/us/stat/100/1359]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1359
-[/us/pl/100/50/s10/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F50%2Fs10%2Fa
+[/us/pl/100/50]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F50
 [/us/stat/101/341]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F341
-[/us/pl/102/325/s413]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325%2Fs413
+[/us/pl/102/325/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325%2FtIV
 [/us/stat/106/512]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F512
-[/us/pl/103/208/s2/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F208%2Fs2%2Fc%2F2
+[/us/pl/103/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F208
 [/us/stat/107/2460]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F2460
-[/us/pl/105/244/s415]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2Fs415
+[/us/pl/105/244/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2FtIV
 [/us/stat/112/1679]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F1679
-[/us/pl/109/171/s8005/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F171%2Fs8005%2Fa
+[/us/pl/109/171/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F171%2FtVIII
 [/us/stat/120/158]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F158
 [/us/usc/t20/s1078–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1078%E2%80%931
-[/us/pl/103/66/s4047/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66%2Fs4047%2Fb
+[/us/pl/103/66/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66%2FtIV
 [/us/stat/107/364]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F364
-[/us/pl/105/244/s418]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2Fs418
+[/us/pl/105/244/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2FtIV
 [/us/stat/112/1691]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F1691
-[/us/pl/89/329/s425]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2Fs425
+[/us/pl/89/329/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2FtIV
 [/us/stat/79/1238]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F1238
-[/us/pl/90/575]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F575
+[/us/pl/90/575/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F575%2FtI
 [/us/stat/82/1023]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F1023
-[/us/pl/92/318]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F318
+[/us/pl/92/318/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F318%2FtI
 [/us/stat/86/261]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F261
-[/us/pl/94/482/s127/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F482%2Fs127%2Fa
+[/us/pl/94/482/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F482%2FtI
 [/us/stat/90/2104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2104
-[/us/pl/95/43/s1/a/15]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F43%2Fs1%2Fa%2F15
+[/us/pl/95/43]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F43
 [/us/stat/91/214]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F214
-[/us/pl/95/566/s5/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F566%2Fs5%2Fb%2F2
+[/us/pl/95/566]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F566
 [/us/stat/92/2403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2403
-[/us/pl/96/374/s412/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F374%2Fs412%2Fa
+[/us/pl/96/374/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F374%2FtIV
 [/us/stat/94/1416]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F1416
-[/us/pl/97/35/s535/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs535%2Fa
+[/us/pl/97/35/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2FtV
 [/us/stat/95/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F455
-[/us/pl/99/272/s16013/e/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F272%2Fs16013%2Fe%2F1
+[/us/pl/99/272/tXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F272%2FtXVI
 [/us/stat/100/341]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F341
 [/us/pl/99/498]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F498
-[/us/pl/109/171/s8005/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F171%2Fs8005%2Fa%2F1
-[/us/pl/109/171/s8005/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F171%2Fs8005%2Fa%2F2
-[/us/pl/105/244/s415/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2Fs415%2F1%2FA
-[/us/pl/105/244/s415/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2Fs415%2F1%2FB
-[/us/pl/105/244/s415/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2Fs415%2F2
-[/us/pl/103/208/s2/c/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F208%2Fs2%2Fc%2F2%2FA
+[/us/pl/109/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F171
+[/us/pl/109/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F171
+[/us/pl/105/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244
+[/us/pl/105/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244
+[/us/pl/105/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244
+[/us/pl/103/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F208
 [/us/usc/t20/s1088]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1088
 [/us/usc/t20/s1088]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1088
-[/us/pl/103/208/s2/c/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F208%2Fs2%2Fc%2F2%2FB
-[/us/pl/103/208/s2/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F208%2Fs2%2Fc%2F3
-[/us/pl/102/325/s413/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325%2Fs413%2F1
-[/us/pl/102/325/s413/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325%2Fs413%2F2
-[/us/pl/100/50/s10/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F50%2Fs10%2Fa%2F1
-[/us/pl/100/50/s10/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F50%2Fs10%2Fa%2F2
-[/us/pl/109/171/s8005/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F171%2Fs8005%2Fe
+[/us/pl/103/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F208
+[/us/pl/103/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F208
+[/us/pl/102/325]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325
+[/us/pl/102/325]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325
+[/us/pl/100/50]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F50
+[/us/pl/100/50]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F50
+[/us/pl/109/171/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F171%2FtVIII
 [/us/stat/120/159]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F159
 [/us/pl/105/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244
 [/us/pl/105/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244

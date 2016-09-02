@@ -23,7 +23,7 @@
 
         The Secretary shall, in accordance with the provisions of this subpart, carry out a program of making grants to institutions of higher education that are designed to effect long-range improvement in science and engineering education at predominantly minority institutions and to increase the participation of underrepresented ethnic minorities, particularly minority women, in scientific and technological careers.
 
-([Pub. L. 89–329, title III, § 351][/us/pl/89/329/s351], formerly title X, § 1021, as added [Pub. L. 99–498, title X, § 1002][/us/pl/99/498/s1002], Oct. 17, 1986, [100 Stat. 1561][/us/stat/100/1561]; amended [Pub. L. 102–325, title X, § 1002(a)][/us/pl/102/325/s1002/a], July 23, 1992, [106 Stat. 780][/us/stat/106/780]; renumbered title III, § 351, [Pub. L. 105–244, title III, § 301(a)(5)][/us/pl/105/244/s301/a/5], (7), Oct. 7, 1998, [112 Stat. 1636][/us/stat/112/1636]; [Pub. L. 111–39, title III, § 301(5)][/us/pl/111/39/s301/5], July 1, 2009, [123 Stat. 1937][/us/stat/123/1937].)
+([Pub. L. 89–329, title III][/us/pl/89/329/tIII], § 351, formerly title X, § 1021, as added [Pub. L. 99–498, title X][/us/pl/99/498/tX], § 1002, Oct. 17, 1986, [100 Stat. 1561][/us/stat/100/1561]; amended [Pub. L. 102–325, title X][/us/pl/102/325/tX], § 1002(a), July 23, 1992, [106 Stat. 780][/us/stat/106/780]; renumbered title III, § 351, [Pub. L. 105–244, title III][/us/pl/105/244/tIII], § 301(a)(5), (7), Oct. 7, 1998, [112 Stat. 1636][/us/stat/112/1636]; [Pub. L. 111–39, title III][/us/pl/111/39/tIII], § 301(5), July 1, 2009, [123 Stat. 1937][/us/stat/123/1937].)
 
  __Codification__ 
 
@@ -56,14 +56,14 @@
 
 [/us/usc/t42/s1862/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1862%2Fa%2F1
 [/us/usc/t20/s3444/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs3444%2Fa%2F1
-[/us/pl/89/329/s351]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2Fs351
-[/us/pl/99/498/s1002]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F498%2Fs1002
+[/us/pl/89/329/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2FtIII
+[/us/pl/99/498/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F498%2FtX
 [/us/stat/100/1561]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1561
-[/us/pl/102/325/s1002/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325%2Fs1002%2Fa
+[/us/pl/102/325/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325%2FtX
 [/us/stat/106/780]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F780
-[/us/pl/105/244/s301/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2Fs301%2Fa%2F5
+[/us/pl/105/244/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2FtIII
 [/us/stat/112/1636]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F1636
-[/us/pl/111/39/s301/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F39%2Fs301%2F5
+[/us/pl/111/39/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F39%2FtIII
 [/us/stat/123/1937]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1937
 [/us/usc/t20/s1135b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1135b
 [/us/pl/105/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244

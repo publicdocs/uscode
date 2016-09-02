@@ -61,11 +61,11 @@
 
         In awarding grants under this subchapter, the eligible agency shall ensure an equitable distribution of assistance between or among urban and rural participants in the consortium.
 
-([Pub. L. 88–210, title II, § 204][/us/pl/88/210/s204], as added [Pub. L. 109–270, § 1(b)][/us/pl/109/270/s1/b], Aug. 12, 2006, [120 Stat. 741][/us/stat/120/741].)
+([Pub. L. 88–210, title II][/us/pl/88/210/tII], § 204, as added [Pub. L. 109–270][/us/pl/109/270], § 1(b), Aug. 12, 2006, [120 Stat. 741][/us/stat/120/741].)
 
  __Prior Provisions__ 
 
-    A prior section 2374, [Pub. L. 88–210, title II, § 205][/us/pl/88/210/s205], as added [Pub. L. 105–332, § 1(b)][/us/pl/105/332/s1/b], Oct. 31, 1998, [112 Stat. 3120][/us/stat/112/3120], related to consortium applications, prior to the general amendment of this chapter by [Pub. L. 109–270][/us/pl/109/270].
+    A prior section 2374, [Pub. L. 88–210, title II][/us/pl/88/210/tII], § 205, as added [Pub. L. 105–332][/us/pl/105/332], § 1(b), Oct. 31, 1998, [112 Stat. 3120][/us/stat/112/3120], related to consortium applications, prior to the general amendment of this chapter by [Pub. L. 109–270][/us/pl/109/270].
 
     A prior [section 204 of Pub. L. 88–210][/us/pl/88/210/s204] was classified to [section 2373 of this title][/us/usc/t20/s2373], prior to the general amendment of this chapter by [Pub. L. 109–270][/us/pl/109/270].
 
@@ -79,11 +79,11 @@
 ----------
 
 [/us/usc/t20/s2328]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs2328
-[/us/pl/88/210/s204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F210%2Fs204
-[/us/pl/109/270/s1/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F270%2Fs1%2Fb
+[/us/pl/88/210/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F210%2FtII
+[/us/pl/109/270]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F270
 [/us/stat/120/741]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F741
-[/us/pl/88/210/s205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F210%2Fs205
-[/us/pl/105/332/s1/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F332%2Fs1%2Fb
+[/us/pl/88/210/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F210%2FtII
+[/us/pl/105/332]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F332
 [/us/stat/112/3120]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F3120
 [/us/pl/109/270]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F270
 [/us/pl/88/210/s204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F210%2Fs204

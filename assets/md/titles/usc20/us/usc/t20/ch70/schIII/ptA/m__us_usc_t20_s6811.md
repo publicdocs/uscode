@@ -17,11 +17,11 @@
 
     This part may be cited as the “English Language Acquisition, Language Enhancement, and Academic Achievement Act”.
 
-([Pub. L. 89–10, title III, § 3101][/us/pl/89/10/s3101], as added [Pub. L. 107–110, title III, § 301][/us/pl/107/110/s301], Jan. 8, 2002, [115 Stat. 1690][/us/stat/115/1690].)
+([Pub. L. 89–10, title III][/us/pl/89/10/tIII], § 3101, as added [Pub. L. 107–110, title III][/us/pl/107/110/tIII], § 301, Jan. 8, 2002, [115 Stat. 1690][/us/stat/115/1690].)
 
  __Prior Provisions__ 
 
-    A prior section 6811, [Pub. L. 89–10, title III, § 3111][/us/pl/89/10/s3111], as added [Pub. L. 103–382, title I, § 101][/us/pl/103/382/s101], Oct. 20, 1994, [108 Stat. 3637][/us/stat/108/3637], set forth findings, prior to the general amendment of this subchapter by [Pub. L. 107–110][/us/pl/107/110].
+    A prior section 6811, [Pub. L. 89–10, title III][/us/pl/89/10/tIII], § 3111, as added [Pub. L. 103–382, title I][/us/pl/103/382/tI], § 101, Oct. 20, 1994, [108 Stat. 3637][/us/stat/108/3637], set forth findings, prior to the general amendment of this subchapter by [Pub. L. 107–110][/us/pl/107/110].
 
     A prior [section 3101 of Pub. L. 89–10][/us/pl/89/10/s3101] was classified to [section 6801 of this title][/us/usc/t20/s6801], prior to the general amendment of this subchapter by [Pub. L. 107–110][/us/pl/107/110].
 
@@ -32,11 +32,11 @@
 ----------
 ----------
 
-[/us/pl/89/10/s3101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F10%2Fs3101
-[/us/pl/107/110/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F110%2Fs301
+[/us/pl/89/10/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F10%2FtIII
+[/us/pl/107/110/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F110%2FtIII
 [/us/stat/115/1690]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F1690
-[/us/pl/89/10/s3111]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F10%2Fs3111
-[/us/pl/103/382/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F382%2Fs101
+[/us/pl/89/10/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F10%2FtIII
+[/us/pl/103/382/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F382%2FtI
 [/us/stat/108/3637]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3637
 [/us/pl/107/110]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F110
 [/us/pl/89/10/s3101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F10%2Fs3101

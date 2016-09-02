@@ -17,7 +17,7 @@
 
     Santa Fe, New Mexico, shall be maintained as the location for the Institute of Indian and Alaska Native Culture and Arts Development. To facilitate this action and the continuity of programs being provided at the Institute of American Indian Arts, the Board may enter into negotiations with State and local governments for such exchanges or transfers of lands and such other assistance as may be required.
 
-([Pub. L. 99–498, title XV, § 1516][/us/pl/99/498/s1516], Oct. 17, 1986, [100 Stat. 1609][/us/stat/100/1609]; [Pub. L. 102–325, title XIII, § 1331(h)][/us/pl/102/325/s1331/h], July 23, 1992, [106 Stat. 807][/us/stat/106/807].)
+([Pub. L. 99–498, title XV][/us/pl/99/498/tXV], § 1516, Oct. 17, 1986, [100 Stat. 1609][/us/stat/100/1609]; [Pub. L. 102–325, title XIII][/us/pl/102/325/tXIII], § 1331(h), July 23, 1992, [106 Stat. 807][/us/stat/106/807].)
 
  __Amendments__ 
 
@@ -34,9 +34,9 @@
 ----------
 ----------
 
-[/us/pl/99/498/s1516]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F498%2Fs1516
+[/us/pl/99/498/tXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F498%2FtXV
 [/us/stat/100/1609]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1609
-[/us/pl/102/325/s1331/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325%2Fs1331%2Fh
+[/us/pl/102/325/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325%2FtXIII
 [/us/stat/106/807]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F807
 [/us/pl/102/325]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325
 [/us/pl/102/325]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325

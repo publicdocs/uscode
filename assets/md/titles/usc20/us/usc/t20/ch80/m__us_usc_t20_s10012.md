@@ -35,7 +35,7 @@
 
         Notwithstanding (d), <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be “subsection (d),”. </sup></sup>  the level of effort required by a State or local educational agency for the following fiscal year shall not be reduced.
 
-([Pub. L. 111–5, div. A, title XIV, § 14012][/us/pl/111/5/s14012], Feb. 17, 2009, [123 Stat. 285][/us/stat/123/285]; [Pub. L. 111–8, div. F, title V, § 523(h)][/us/pl/111/8/s523/h], Mar. 11, 2009, [123 Stat. 806][/us/stat/123/806].)
+([Pub. L. 111–5, div. A, title XIV][/us/pl/111/5/dA/tXIV], § 14012, Feb. 17, 2009, [123 Stat. 285][/us/stat/123/285]; [Pub. L. 111–8, div. F, title V][/us/pl/111/8/dF/tV], § 523(h), Mar. 11, 2009, [123 Stat. 806][/us/stat/123/806].)
 
  __References in Text__ 
 
@@ -53,9 +53,9 @@
 ----------
 
 [/us/usc/t20/s1431]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1431
-[/us/pl/111/5/s14012]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5%2Fs14012
+[/us/pl/111/5/dA/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5%2FdA%2FtXIV
 [/us/stat/123/285]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F285
-[/us/pl/111/8/s523/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F8%2Fs523%2Fh
+[/us/pl/111/8/dF/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F8%2FdF%2FtV
 [/us/stat/123/806]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F806
 [/us/pl/91/230]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F230
 [/us/stat/84/175]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F175

@@ -13,9 +13,9 @@
 
 [Previous](./../../../../../..//us/usc/t20/ch64/schII/ptA/m__us_usc_t20_ch64_schII_ptA.md) | [Next](./../../../../../..//us/usc/t20/ch64/schII/ptB/m__us_usc_t20_ch64_schII_ptB.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs5311)
 
-## § 5311. Repealed. [Pub. L. 103–382, title III, § 391(l)][/us/pl/103/382/s391/l], Oct. 20, 1994, [108 Stat. 4023][/us/stat/108/4023]
+## § 5311. Repealed. [Pub. L. 103–382, title III][/us/pl/103/382/tIII], § 391(l), Oct. 20, 1994, [108 Stat. 4023][/us/stat/108/4023]
 
-    Section, [Pub. L. 101–589, title II, § 221][/us/pl/101/589/s221], Nov. 16, 1990, [104 Stat. 2891][/us/stat/104/2891], related to expanding uses of innovative technologies for mathematics and science instruction.
+    Section, [Pub. L. 101–589, title II][/us/pl/101/589/tII], § 221, Nov. 16, 1990, [104 Stat. 2891][/us/stat/104/2891], related to expanding uses of innovative technologies for mathematics and science instruction.
 
 ----------
 
@@ -24,9 +24,9 @@
 ----------
 ----------
 
-[/us/pl/103/382/s391/l]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F382%2Fs391%2Fl
+[/us/pl/103/382/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F382%2FtIII
 [/us/stat/108/4023]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4023
-[/us/pl/101/589/s221]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F589%2Fs221
+[/us/pl/101/589/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F589%2FtII
 [/us/stat/104/2891]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F2891
 
 

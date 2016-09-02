@@ -157,7 +157,7 @@
 
         The Commission shall terminate on the date that is 90 days after the date on which the Commission submits the report under subsection (b)(2) to the Secretary and the authorizing committees.
 
-([Pub. L. 89–329, title VII, § 772][/us/pl/89/329/s772], as added [Pub. L. 110–315, title VII, § 709(2)][/us/pl/110/315/s709/2], Aug. 14, 2008, [122 Stat. 3368][/us/stat/122/3368]; amended [Pub. L. 111–39, title VII, § 701(5)][/us/pl/111/39/s701/5], July 1, 2009, [123 Stat. 1955][/us/stat/123/1955].)
+([Pub. L. 89–329, title VII][/us/pl/89/329/tVII], § 772, as added [Pub. L. 110–315, title VII][/us/pl/110/315/tVII], § 709(2), Aug. 14, 2008, [122 Stat. 3368][/us/stat/122/3368]; amended [Pub. L. 111–39, title VII][/us/pl/111/39/tVII], § 701(5), July 1, 2009, [123 Stat. 1955][/us/stat/123/1955].)
 
  __Prior Provisions__ 
 
@@ -165,9 +165,9 @@
 
  __Amendments__ 
 
-    2009—Subsec. (a)(2)(A). [Pub. L. 111–39, § 701(5)(A)][/us/pl/111/39/s701/5/A], substituted “with” for “with in”.
+    2009—Subsec. (a)(2)(A). [Pub. L. 111–39][/us/pl/111/39], § 701(5)(A), substituted “with” for “with in”.
 
-    Subsec. (b)(1)(C)(ii). [Pub. L. 111–39, § 701(5)(B)][/us/pl/111/39/s701/5/B], substituted “clause (i)” for “subparagraph (C)” in introductory provisions.
+    Subsec. (b)(1)(C)(ii). [Pub. L. 111–39][/us/pl/111/39], § 701(5)(B), substituted “clause (i)” for “subparagraph (C)” in introductory provisions.
 
  __Effective Date of 2009 Amendment__ 
 
@@ -182,16 +182,16 @@
 
 [/us/usc/t20/s1140m]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1140m
 [/us/usc/t20/s1474/e/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1474%2Fe%2F3
-[/us/pl/89/329/s772]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2Fs772
-[/us/pl/110/315/s709/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2Fs709%2F2
+[/us/pl/89/329/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2FtVII
+[/us/pl/110/315/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2FtVII
 [/us/stat/122/3368]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3368
-[/us/pl/111/39/s701/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F39%2Fs701%2F5
+[/us/pl/111/39/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F39%2FtVII
 [/us/stat/123/1955]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1955
 [/us/pl/89/329/s772]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2Fs772
 [/us/usc/t20/s1132h–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1132h%E2%80%931
 [/us/pl/102/325]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325
-[/us/pl/111/39/s701/5/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F39%2Fs701%2F5%2FA
-[/us/pl/111/39/s701/5/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F39%2Fs701%2F5%2FB
+[/us/pl/111/39]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F39
+[/us/pl/111/39]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F39
 [/us/pl/111/39]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F39
 [/us/pl/110/315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315
 [/us/pl/111/39/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F39%2Fs3

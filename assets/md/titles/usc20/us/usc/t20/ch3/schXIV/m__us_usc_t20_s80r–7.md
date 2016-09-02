@@ -17,7 +17,7 @@
 
     Authority under this subchapter to enter into contracts or to make payments shall be effective in any fiscal year only to the extent provided in advance in an appropriations Act, except as provided under [section 80r–9(b) of this title][/us/usc/t20/s80r–9/b].
 
-([Pub. L. 108–184, § 9][/us/pl/108/184/s9], Dec. 16, 2003, [117 Stat. 2682][/us/stat/117/2682].)
+([Pub. L. 108–184][/us/pl/108/184], § 9, Dec. 16, 2003, [117 Stat. 2682][/us/stat/117/2682].)
 
  __References in Text__ 
 
@@ -31,7 +31,7 @@
 ----------
 
 [/us/usc/t20/s80r–9/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs80r%E2%80%939%2Fb
-[/us/pl/108/184/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F184%2Fs9
+[/us/pl/108/184]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F184
 [/us/stat/117/2682]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2682
 [/us/pl/93/344]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F344
 [/us/stat/88/297]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F297

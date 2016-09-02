@@ -275,9 +275,9 @@
 
                 (ix) Alternative programming for children with disabilities who have been expelled from school, and services for children with disabilities in correctional facilities, children enrolled in State-operated or State-supported schools, and children with disabilities in charter schools.
 
-                (x) To support the development and provision of appropriate accommodations for children with disabilities, or the development and provision of alternate assessments that are valid and reliable for assessing the performance of children with disabilities, in accordance with sections 6311(b) and 7301 of this title.
+                (x) To support the development and provision of appropriate accommodations for children with disabilities, or the development and provision of alternate assessments that are valid and reliable for assessing the performance of children with disabilities, in accordance with sections 6311(b) and 6361 of this title.
 
-                (xi) To provide technical assistance to schools and local educational agencies, and direct services, including supplemental educational services as defined in 6316(e) of this title to children with disabilities, in schools or local educational agencies identified for improvement under [section 6316 of this title][/us/usc/t20/s6316] on the sole basis of the assessment results of the disaggregated subgroup of children with disabilities, including providing professional development to special and regular education teachers, who teach children with disabilities, based on scientifically based research to improve educational instruction, in order to improve academic achievement to meet or exceed the objectives established by the State under [section 6311(b)(2)(G) of this title][/us/usc/t20/s6311/b/2/G].
+                (xi) To provide technical assistance to schools and local educational agencies, and direct services, including direct student services described in [section 6303b(c)(3) of this title][/us/usc/t20/s6303b/c/3] to children with disabilities, to schools or local educational agencies implementing comprehensive support and improvement activities or targeted support and improvement activities under [section 6311(d) of this title][/us/usc/t20/s6311/d] on the basis of consistent underperformance of the disaggregated subgroup of children with disabilities, including providing professional development to special and regular education teachers, who teach children with disabilities, based on scientifically based research to improve educational instruction, in order to improve academic achievement based on the challenging academic standards described in [section 6311(b)(1) of this title][/us/usc/t20/s6311/b/1].
 
         (3) __Local educational agency risk pool__ 
 
@@ -557,7 +557,7 @@
 
         (8) such sums as may be necessary for fiscal year 2012 and each succeeding fiscal year.
 
-([Pub. L. 91–230, title VI, § 611][/us/pl/91/230/s611], as added [Pub. L. 108–446, title I, § 101][/us/pl/108/446/s101], Dec. 3, 2004, [118 Stat. 2662][/us/stat/118/2662].)
+([Pub. L. 91–230, title VI][/us/pl/91/230/tVI], § 611, as added [Pub. L. 108–446, title I][/us/pl/108/446/tI], § 101, Dec. 3, 2004, [118 Stat. 2662][/us/stat/118/2662]; amended [Pub. L. 114–95, title IX][/us/pl/114/95/tIX], § 9215(ss)(2), Dec. 10, 2015, [129 Stat. 2181][/us/stat/129/2181].)
 
  __References in Text__ 
 
@@ -567,9 +567,21 @@
 
  __Prior Provisions__ 
 
-    A prior section 1411, [Pub. L. 91–230, title VI, § 611][/us/pl/91/230/s611], as added [Pub. L. 105–17, title I, § 101][/us/pl/105/17/s101], June 4, 1997, [111 Stat. 49][/us/stat/111/49], related to authorization, allotment, use of funds, and authorization of appropriations, prior to the general amendment of subchapters I to IV of this chapter by [Pub. L. 108–446][/us/pl/108/446].
+    A prior section 1411, [Pub. L. 91–230, title VI][/us/pl/91/230/tVI], § 611, as added [Pub. L. 105–17, title I][/us/pl/105/17/tI], § 101, June 4, 1997, [111 Stat. 49][/us/stat/111/49], related to authorization, allotment, use of funds, and authorization of appropriations, prior to the general amendment of subchapters I to IV of this chapter by [Pub. L. 108–446][/us/pl/108/446].
 
-    Another prior section 1411, [Pub. L. 91–230, title VI, § 611][/us/pl/91/230/s611], Apr. 13, 1970, [84 Stat. 178][/us/stat/84/178]; [Pub. L. 93–380, title VI, § 614(a)][/us/pl/93/380/s614/a], (e)(1), (2), Aug. 21, 1974, [88 Stat. 580][/us/stat/88/580], 582; [Pub. L. 94–142][/us/pl/94/142], §§ 2(a)(1)–(3), 5(a), (c), Nov. 29, 1975, [89 Stat. 773][/us/stat/89/773], 776, 794; [Pub. L. 95–561, title XIII, § 1341(a)][/us/pl/95/561/s1341/a], Nov. 1, 1978, [92 Stat. 2364][/us/stat/92/2364]; [Pub. L. 96–270, § 13][/us/pl/96/270/s13], June 14, 1980, [94 Stat. 498][/us/stat/94/498]; [Pub. L. 98–199][/us/pl/98/199], §§ 3(b), 15, Dec. 2, 1983, [97 Stat. 1358][/us/stat/97/1358], 1374; [Pub. L. 99–159, title VI, § 601][/us/pl/99/159/s601], Nov. 22, 1985, [99 Stat. 904][/us/stat/99/904]; [Pub. L. 99–362, § 2][/us/pl/99/362/s2], July 9, 1986, [100 Stat. 769][/us/stat/100/769]; [Pub. L. 99–457, title II, § 201(b)][/us/pl/99/457/s201/b], title IV, §§ 403, 404, Oct. 8, 1986, [100 Stat. 1158][/us/stat/100/1158], 1173; [Pub. L. 100–630, title I, § 102(a)][/us/pl/100/630/s102/a], Nov. 7, 1988, [102 Stat. 3290][/us/stat/102/3290]; [Pub. L. 101–476, title II, § 201][/us/pl/101/476/s201], title IX, § 901(b)(25)–(32), Oct. 30, 1990, [104 Stat. 1111][/us/stat/104/1111], 1143; [Pub. L. 102–73, title VIII, § 802(d)(2)][/us/pl/102/73/s802/d/2], (3), July 25, 1991, [105 Stat. 361][/us/stat/105/361]; [Pub. L. 102–119][/us/pl/102/119], §§ 4, 25(a)(4), (19), (b), Oct. 7, 1991, [105 Stat. 587][/us/stat/105/587], 606, 607; [Pub. L. 103–382, title III, § 311][/us/pl/103/382/s311], Oct. 20, 1994, [108 Stat. 3931][/us/stat/108/3931], related to entitlements and allocations, prior to the general amendment of subchapters I to IV of this chapter by [Pub. L. 105–17][/us/pl/105/17].
+    Another prior section 1411, [Pub. L. 91–230, title VI][/us/pl/91/230/tVI], § 611, Apr. 13, 1970, [84 Stat. 178][/us/stat/84/178]; [Pub. L. 93–380, title VI][/us/pl/93/380/tVI], § 614(a), (e)(1), (2), Aug. 21, 1974, [88 Stat. 580][/us/stat/88/580], 582; [Pub. L. 94–142][/us/pl/94/142], §§ 2(a)(1)–(3), 5(a), (c), Nov. 29, 1975, [89 Stat. 773][/us/stat/89/773], 776, 794; [Pub. L. 95–561, title XIII][/us/pl/95/561/tXIII], § 1341(a), Nov. 1, 1978, [92 Stat. 2364][/us/stat/92/2364]; [Pub. L. 96–270][/us/pl/96/270], § 13, June 14, 1980, [94 Stat. 498][/us/stat/94/498]; [Pub. L. 98–199][/us/pl/98/199], §§ 3(b), 15, Dec. 2, 1983, [97 Stat. 1358][/us/stat/97/1358], 1374; [Pub. L. 99–159, title VI][/us/pl/99/159/tVI], § 601, Nov. 22, 1985, [99 Stat. 904][/us/stat/99/904]; [Pub. L. 99–362][/us/pl/99/362], § 2, July 9, 1986, [100 Stat. 769][/us/stat/100/769]; [Pub. L. 99–457, title II][/us/pl/99/457/tII], § 201(b), title IV, §§ 403, 404, Oct. 8, 1986, [100 Stat. 1158][/us/stat/100/1158], 1173; [Pub. L. 100–630, title I][/us/pl/100/630/tI], § 102(a), Nov. 7, 1988, [102 Stat. 3290][/us/stat/102/3290]; [Pub. L. 101–476, title II][/us/pl/101/476/tII], § 201, title IX, § 901(b)(25)–(32), Oct. 30, 1990, [104 Stat. 1111][/us/stat/104/1111], 1143; [Pub. L. 102–73, title VIII][/us/pl/102/73/tVIII], § 802(d)(2), (3), July 25, 1991, [105 Stat. 361][/us/stat/105/361]; [Pub. L. 102–119][/us/pl/102/119], §§ 4, 25(a)(4), (19), (b), Oct. 7, 1991, [105 Stat. 587][/us/stat/105/587], 606, 607; [Pub. L. 103–382, title III][/us/pl/103/382/tIII], § 311, Oct. 20, 1994, [108 Stat. 3931][/us/stat/108/3931], related to entitlements and allocations, prior to the general amendment of subchapters I to IV of this chapter by [Pub. L. 105–17][/us/pl/105/17].
+
+ __Amendments__ 
+
+    2015—Subsec. (e)(2)(C)(x). [Pub. L. 114–95][/us/pl/114/95], § 9215(ss)(2)(A)(i), substituted “6361 of this title” for “7301 of this title”.
+
+    Subsec. (e)(2)(C)(xi). [Pub. L. 114–95][/us/pl/114/95], § 9215(ss)(2)(A)(ii), substituted “including direct student services described in [section 6303b(c)(3) of this title][/us/usc/t20/s6303b/c/3] to children with disabilities, to schools or local educational agencies implementing comprehensive support and improvement activities or targeted support and improvement activities under [section 6311(d) of this title][/us/usc/t20/s6311/d] on the basis of consistent underperformance of the disaggregated subgroup of children with disabilities” for “including supplemental educational services as defined in 6316(e) of this title to children with disabilities, in schools or local educational agencies identified for improvement under [section 6316 of this title][/us/usc/t20/s6316] on the sole basis of the assessment results of the disaggregated subgroup of children with disabilities” and “based on the challenging academic standards described in [section 6311(b)(1) of this title][/us/usc/t20/s6311/b/1]” for “to meet or exceed the objectives established by the State under [section 6311(b)(2)(G) of this title][/us/usc/t20/s6311/b/2/G]”.
+
+    Subsec. (e)(3)(C)(ii)(I)(bb). [Pub. L. 114–95][/us/pl/114/95], § 9215(ss)(2)(B), made technical amendment to reference in original act which appears in text as reference to [section 7801 of this title][/us/usc/t20/s7801].
+
+ __Effective Date of 2015 Amendment__ 
+
+    Amendment by [Pub. L. 114–95][/us/pl/114/95] effective Dec. 10, 2015, except with respect to certain noncompetitive programs and competitive programs, see [section 5 of Pub. L. 114–95][/us/pl/114/95/s5], set out as a note under [section 6301 of this title][/us/usc/t20/s6301].
 
  __Effective Date__ 
 
@@ -577,19 +589,19 @@
 
  __Effect of Reduction__ 
 
-[Pub. L. 114–113, div. H, title III][/us/pl/114/113], Dec. 18, 2015, [129 Stat. 2633][/us/stat/129/2633], provided in part: 
+[Pub. L. 114–113, div. H, title III][/us/pl/114/113/dH/tIII], Dec. 18, 2015, [129 Stat. 2633][/us/stat/129/2633], provided in part: 
 
 > “That the Secretary may, in any fiscal year in which a State’s allocation under section 611 \[[20 U.S.C. 1411][/us/usc/t20/s1411]\] is reduced in accordance with section 612(a)(18)(B) \[[20 U.S.C. 1412(a)(18)(B)][/us/usc/t20/s1412/a/18/B]\], reduce the amount a State may reserve under section 611(e)(1) \[[20 U.S.C. 1411(e)(1)][/us/usc/t20/s1411/e/1]\] by an amount that bears the same relation to the maximum amount described in that paragraph as the reduction under section 612(a)(18)(B) bears to the total allocation the State would have received in that fiscal year under section 611(d) \[[20 U.S.C. 1411(d)][/us/usc/t20/s1411/d]\] in the absence of the reduction: Provided further, That the Secretary shall either reduce the allocation of funds under section 611 for any fiscal year following the fiscal year for which the State fails to comply with the requirement of section 612(a)(18)(A) \[[20 U.S.C. 1412(a)(18)(A)][/us/usc/t20/s1412/a/18/A]\] as authorized by section 612(a)(18)(B), or seek to recover funds under section 452 of the General Education Provisions Act ([20 U.S.C. 1234a][/us/usc/t20/s1234a])”.
 
-[Pub. L. 114–113, div. H, title III][/us/pl/114/113], Dec. 18, 2015, [129 Stat. 2633][/us/stat/129/2633], provided in part: 
+[Pub. L. 114–113, div. H, title III][/us/pl/114/113/dH/tIII], Dec. 18, 2015, [129 Stat. 2633][/us/stat/129/2633], provided in part: 
 
 > “That the amount by which a State’s allocation under section 611(d) of the IDEA \[Individuals with Disabilities Education Act, [20 U.S.C. 1411(d)][/us/usc/t20/s1411/d]\] is reduced under section 612(a)(18)(B) \[[20 U.S.C. 1412(a)(18)(B)][/us/usc/t20/s1412/a/18/B]\] and the amounts distributed to States under the previous provisos in fiscal year 2012 or any subsequent year shall not be considered in calculating the awards under section 611(d) for fiscal year 2013 or for any subsequent fiscal years”.
 
 Similar provisions were contained in the following prior appropriation acts:
 
-    [Pub. L. 113–235, div. G, title III][/us/pl/113/235], Dec. 16, 2014, [128 Stat. 2499][/us/stat/128/2499].
+    [Pub. L. 113–235, div. G, title III][/us/pl/113/235/dG/tIII], Dec. 16, 2014, [128 Stat. 2499][/us/stat/128/2499].
 
-    [Pub. L. 113–76, div. H, title III][/us/pl/113/76], Jan. 17, 2014, [128 Stat. 394][/us/stat/128/394].
+    [Pub. L. 113–76, div. H, title III][/us/pl/113/76/dH/tIII], Jan. 17, 2014, [128 Stat. 394][/us/stat/128/394].
 
 ----------
 
@@ -606,8 +618,9 @@ Similar provisions were contained in the following prior appropriation acts:
 [/us/usc/t20/s1419]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1419
 [/us/usc/t20/s1412/a/12/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1412%2Fa%2F12%2FA
 [/us/usc/t20/s1415/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1415%2Fe
-[/us/usc/t20/s6316]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs6316
-[/us/usc/t20/s6311/b/2/G]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs6311%2Fb%2F2%2FG
+[/us/usc/t20/s6303b/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs6303b%2Fc%2F3
+[/us/usc/t20/s6311/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs6311%2Fd
+[/us/usc/t20/s6311/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs6311%2Fb%2F1
 [/us/usc/t20/s7801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs7801
 [/us/usc/t20/s1412/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1412%2Fa%2F1
 [/us/usc/t20/s1412/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1412%2Fa%2F5
@@ -626,9 +639,11 @@ Similar provisions were contained in the following prior appropriation acts:
 [/us/usc/t20/s1412/a/21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1412%2Fa%2F21
 [/us/usc/t20/s1441]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1441
 [/us/usc/t20/s1419]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1419
-[/us/pl/91/230/s611]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F230%2Fs611
-[/us/pl/108/446/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F446%2Fs101
+[/us/pl/91/230/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F230%2FtVI
+[/us/pl/108/446/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F446%2FtI
 [/us/stat/118/2662]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F2662
+[/us/pl/114/95/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F95%2FtIX
+[/us/stat/129/2181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F2181
 [/us/pl/95/134]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F134
 [/us/pl/95/134]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F134
 [/us/stat/91/1159]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F1159
@@ -637,42 +652,54 @@ Similar provisions were contained in the following prior appropriation acts:
 [/us/act/1935-08-14/ch531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531
 [/us/stat/49/620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F620
 [/us/usc/t42/s1305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1305
-[/us/pl/91/230/s611]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F230%2Fs611
-[/us/pl/105/17/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F17%2Fs101
+[/us/pl/91/230/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F230%2FtVI
+[/us/pl/105/17/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F17%2FtI
 [/us/stat/111/49]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F49
 [/us/pl/108/446]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F446
-[/us/pl/91/230/s611]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F230%2Fs611
+[/us/pl/91/230/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F230%2FtVI
 [/us/stat/84/178]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F178
-[/us/pl/93/380/s614/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F380%2Fs614%2Fa
+[/us/pl/93/380/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F380%2FtVI
 [/us/stat/88/580]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F580
 [/us/pl/94/142]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F142
 [/us/stat/89/773]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F773
-[/us/pl/95/561/s1341/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F561%2Fs1341%2Fa
+[/us/pl/95/561/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F561%2FtXIII
 [/us/stat/92/2364]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2364
-[/us/pl/96/270/s13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F270%2Fs13
+[/us/pl/96/270]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F270
 [/us/stat/94/498]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F498
 [/us/pl/98/199]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F199
 [/us/stat/97/1358]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F1358
-[/us/pl/99/159/s601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F159%2Fs601
+[/us/pl/99/159/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F159%2FtVI
 [/us/stat/99/904]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F904
-[/us/pl/99/362/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F362%2Fs2
+[/us/pl/99/362]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F362
 [/us/stat/100/769]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F769
-[/us/pl/99/457/s201/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F457%2Fs201%2Fb
+[/us/pl/99/457/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F457%2FtII
 [/us/stat/100/1158]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1158
-[/us/pl/100/630/s102/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F630%2Fs102%2Fa
+[/us/pl/100/630/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F630%2FtI
 [/us/stat/102/3290]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3290
-[/us/pl/101/476/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F476%2Fs201
+[/us/pl/101/476/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F476%2FtII
 [/us/stat/104/1111]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1111
-[/us/pl/102/73/s802/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F73%2Fs802%2Fd%2F2
+[/us/pl/102/73/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F73%2FtVIII
 [/us/stat/105/361]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F361
 [/us/pl/102/119]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F119
 [/us/stat/105/587]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F587
-[/us/pl/103/382/s311]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F382%2Fs311
+[/us/pl/103/382/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F382%2FtIII
 [/us/stat/108/3931]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3931
 [/us/pl/105/17]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F17
+[/us/pl/114/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F95
+[/us/pl/114/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F95
+[/us/usc/t20/s6303b/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs6303b%2Fc%2F3
+[/us/usc/t20/s6311/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs6311%2Fd
+[/us/usc/t20/s6316]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs6316
+[/us/usc/t20/s6311/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs6311%2Fb%2F1
+[/us/usc/t20/s6311/b/2/G]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs6311%2Fb%2F2%2FG
+[/us/pl/114/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F95
+[/us/usc/t20/s7801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs7801
+[/us/pl/114/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F95
+[/us/pl/114/95/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F95%2Fs5
+[/us/usc/t20/s6301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs6301
 [/us/pl/108/446/s302/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F446%2Fs302%2Fa
 [/us/usc/t20/s1400]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1400
-[/us/pl/114/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113
+[/us/pl/114/113/dH/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2FdH%2FtIII
 [/us/stat/129/2633]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F2633
 [/us/usc/t20/s1411]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1411
 [/us/usc/t20/s1412/a/18/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1412%2Fa%2F18%2FB
@@ -680,13 +707,13 @@ Similar provisions were contained in the following prior appropriation acts:
 [/us/usc/t20/s1411/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1411%2Fd
 [/us/usc/t20/s1412/a/18/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1412%2Fa%2F18%2FA
 [/us/usc/t20/s1234a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1234a
-[/us/pl/114/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113
+[/us/pl/114/113/dH/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2FdH%2FtIII
 [/us/stat/129/2633]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F2633
 [/us/usc/t20/s1411/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1411%2Fd
 [/us/usc/t20/s1412/a/18/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1412%2Fa%2F18%2FB
-[/us/pl/113/235]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235
+[/us/pl/113/235/dG/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2FdG%2FtIII
 [/us/stat/128/2499]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2499
-[/us/pl/113/76]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F76
+[/us/pl/113/76/dH/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F76%2FdH%2FtIII
 [/us/stat/128/394]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F394
 
 

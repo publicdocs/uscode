@@ -17,7 +17,7 @@
 
  __Codification__ 
 
-    This part was added as part I of title IV of [Pub. L. 89–329][/us/pl/89/329] by [Pub. L. 110–84, title VII, § 701][/us/pl/110/84/s701], Sept. 27, 2007, [121 Stat. 808][/us/stat/121/808]. The letter designation of this part was changed from “I” to “H” for codification purposes. See Codification note preceding [section 1087a of this title][/us/usc/t20/s1087a].
+    This part was added as part I of title IV of [Pub. L. 89–329][/us/pl/89/329] by [Pub. L. 110–84, title VII][/us/pl/110/84/tVII], § 701, Sept. 27, 2007, [121 Stat. 808][/us/stat/121/808]. The letter designation of this part was changed from “I” to “H” for codification purposes. See Codification note preceding [section 1087a of this title][/us/usc/t20/s1087a].
 
 ----------
 
@@ -27,7 +27,7 @@
 ----------
 
 [/us/pl/89/329]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329
-[/us/pl/110/84/s701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F84%2Fs701
+[/us/pl/110/84/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F84%2FtVII
 [/us/stat/121/808]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F808
 [/us/usc/t20/s1087a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1087a
 

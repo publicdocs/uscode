@@ -27,7 +27,7 @@
 
     (e) The term “portraiture” includes portraits and reproductions thereof made by any means or process, whether invented or developed heretofore or hereafter.
 
-([Pub. L. 87–443, § 2][/us/pl/87/443/s2], Apr. 27, 1962, [76 Stat. 62][/us/stat/76/62]; [Pub. L. 94–209][/us/pl/94/209], Feb. 5, 1976, [90 Stat. 30][/us/stat/90/30].)
+([Pub. L. 87–443][/us/pl/87/443], § 2, Apr. 27, 1962, [76 Stat. 62][/us/stat/76/62]; [Pub. L. 94–209][/us/pl/94/209], Feb. 5, 1976, [90 Stat. 30][/us/stat/90/30].)
 
  __Amendments__ 
 
@@ -35,7 +35,7 @@
 
  __Short Title__ 
 
-[Pub. L. 87–443, § 1][/us/pl/87/443/s1], Apr. 27, 1962, [76 Stat. 62][/us/stat/76/62], provided: 
+[Pub. L. 87–443][/us/pl/87/443], § 1, Apr. 27, 1962, [76 Stat. 62][/us/stat/76/62], provided: 
 
 > “That this Act \[enacting this subchapter\] may be cited as the ‘National Portrait Gallery Act’.”
 
@@ -46,12 +46,12 @@
 ----------
 ----------
 
-[/us/pl/87/443/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F443%2Fs2
+[/us/pl/87/443]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F443
 [/us/stat/76/62]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F62
 [/us/pl/94/209]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F209
 [/us/stat/90/30]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F30
 [/us/pl/94/209]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F209
-[/us/pl/87/443/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F443%2Fs1
+[/us/pl/87/443]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F443
 [/us/stat/76/62]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F62
 
 

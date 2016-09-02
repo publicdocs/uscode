@@ -39,15 +39,15 @@
 
         The Secretary may obtain the services of experts and consultants in accordance with [section 3109 of title 5][/us/usc/t5/s3109].
 
-([Pub. L. 96–88, title II, § 218][/us/pl/96/88/s218], formerly § 216, as added [Pub. L. 103–227, title II, § 233(a)][/us/pl/103/227/s233/a], Mar. 31, 1994, [108 Stat. 154][/us/stat/108/154]; renumbered § 218, [Pub. L. 107–110, title X, § 1072(e)(3)][/us/pl/107/110/s1072/e/3], Jan. 8, 2002, [115 Stat. 2090][/us/stat/115/2090].)
+([Pub. L. 96–88, title II][/us/pl/96/88/tII], § 218, formerly § 216, as added [Pub. L. 103–227, title II][/us/pl/103/227/tII], § 233(a), Mar. 31, 1994, [108 Stat. 154][/us/stat/108/154]; renumbered § 218, [Pub. L. 107–110, title X][/us/pl/107/110/tX], § 1072(e)(3), Jan. 8, 2002, [115 Stat. 2090][/us/stat/115/2090].)
 
  __References in Text__ 
 
-    [Section 5862 of this title][/us/usc/t20/s5862], referred to in subsec. (b)(3), was repealed by [Pub. L. 103–382, title III, § 361(a)][/us/pl/103/382/s361/a], Oct. 20, 1994, [108 Stat. 3974][/us/stat/108/3974].
+    [Section 5862 of this title][/us/usc/t20/s5862], referred to in subsec. (b)(3), was repealed by [Pub. L. 103–382, title III][/us/pl/103/382/tIII], § 361(a), Oct. 20, 1994, [108 Stat. 3974][/us/stat/108/3974].
 
  __Transfer of Office of Training Technology Transfer__ 
 
-[Pub. L. 103–227, title II, § 236(a)(1)][/us/pl/103/227/s236/a/1], Mar. 31, 1994, [108 Stat. 156][/us/stat/108/156], provided that: 
+[Pub. L. 103–227, title II][/us/pl/103/227/tII], § 236(a)(1), Mar. 31, 1994, [108 Stat. 156][/us/stat/108/156], provided that: 
 
 > “The Office of Training Technology Transfer as established under section 6103 of the Training Technology Transfer Act of 1988 (\[former\] [20 U.S.C. 5093][/us/usc/t20/s5093]) is transferred to and established in the Office of Educational Technology.”
 
@@ -59,15 +59,15 @@
 ----------
 
 [/us/usc/t5/s3109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs3109
-[/us/pl/96/88/s218]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F88%2Fs218
-[/us/pl/103/227/s233/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F227%2Fs233%2Fa
+[/us/pl/96/88/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F88%2FtII
+[/us/pl/103/227/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F227%2FtII
 [/us/stat/108/154]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F154
-[/us/pl/107/110/s1072/e/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F110%2Fs1072%2Fe%2F3
+[/us/pl/107/110/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F110%2FtX
 [/us/stat/115/2090]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F2090
 [/us/usc/t20/s5862]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs5862
-[/us/pl/103/382/s361/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F382%2Fs361%2Fa
+[/us/pl/103/382/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F382%2FtIII
 [/us/stat/108/3974]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3974
-[/us/pl/103/227/s236/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F227%2Fs236%2Fa%2F1
+[/us/pl/103/227/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F227%2FtII
 [/us/stat/108/156]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F156
 [/us/usc/t20/s5093]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs5093
 

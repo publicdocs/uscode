@@ -13,9 +13,9 @@
 
 [Previous](./../../../../../../..//us/usc/t20/ch28/schIII/ptE/spt1/m__us_usc_t20_s1067c.md) | [Next](./../../../../../../..//us/usc/t20/ch28/schIII/ptE/spt2/m__us_usc_t20_ch28_schIII_ptE_spt2.md) | [Root of Title](./../../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1067d)
 
-## § 1067d. Repealed. [Pub. L. 111–39, title III, § 302][/us/pl/111/39/s302], July 1, 2009, [123 Stat. 1938][/us/stat/123/1938]
+## § 1067d. Repealed. [Pub. L. 111–39, title III][/us/pl/111/39/tIII], § 302, July 1, 2009, [123 Stat. 1938][/us/stat/123/1938]
 
-    Section, [Pub. L. 89–329, title III][/us/pl/89/329], formerly title X, § 1024, as added [Pub. L. 99–498, title X, § 1002][/us/pl/99/498/s1002], Oct. 17, 1986, [100 Stat. 1562][/us/stat/100/1562]; amended [Pub. L. 102–325, title X, § 1002(b)][/us/pl/102/325/s1002/b], July 23, 1992, [106 Stat. 780][/us/stat/106/780]; renumbered title III, [Pub. L. 105–244, title III, § 301(a)(5)][/us/pl/105/244/s301/a/5], Oct. 7, 1998, [112 Stat. 1636][/us/stat/112/1636], required Secretary to submit to President and Congress a report by Jan. 1, 1996, summarizing and evaluating Federal programs to increase minority participation and representation in scientific fields.
+    Section, [Pub. L. 89–329, title III][/us/pl/89/329/tIII], formerly title X, § 1024, as added [Pub. L. 99–498, title X][/us/pl/99/498/tX], § 1002, Oct. 17, 1986, [100 Stat. 1562][/us/stat/100/1562]; amended [Pub. L. 102–325, title X][/us/pl/102/325/tX], § 1002(b), July 23, 1992, [106 Stat. 780][/us/stat/106/780]; renumbered title III, [Pub. L. 105–244, title III][/us/pl/105/244/tIII], § 301(a)(5), Oct. 7, 1998, [112 Stat. 1636][/us/stat/112/1636], required Secretary to submit to President and Congress a report by Jan. 1, 1996, summarizing and evaluating Federal programs to increase minority participation and representation in scientific fields.
 
     Section was formerly classified to [section 1135b–3 of this title][/us/usc/t20/s1135b–3] prior to renumbering by [Pub. L. 105–244][/us/pl/105/244].
 
@@ -30,14 +30,14 @@
 ----------
 ----------
 
-[/us/pl/111/39/s302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F39%2Fs302
+[/us/pl/111/39/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F39%2FtIII
 [/us/stat/123/1938]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1938
-[/us/pl/89/329]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329
-[/us/pl/99/498/s1002]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F498%2Fs1002
+[/us/pl/89/329/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2FtIII
+[/us/pl/99/498/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F498%2FtX
 [/us/stat/100/1562]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1562
-[/us/pl/102/325/s1002/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325%2Fs1002%2Fb
+[/us/pl/102/325/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325%2FtX
 [/us/stat/106/780]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F780
-[/us/pl/105/244/s301/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2Fs301%2Fa%2F5
+[/us/pl/105/244/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2FtIII
 [/us/stat/112/1636]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F1636
 [/us/usc/t20/s1135b–3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1135b%E2%80%933
 [/us/pl/105/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244

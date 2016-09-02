@@ -63,11 +63,11 @@
 
     (9) the term “State educational agency” has the same meaning given such term by section 198(a)(17) 1 of the Elementary and Secondary Education Act of 1965.
 
-([Pub. L. 96–270, § 11][/us/pl/96/270/s11], June 14, 1980, [94 Stat. 496][/us/stat/94/496].)
+([Pub. L. 96–270][/us/pl/96/270], § 11, June 14, 1980, [94 Stat. 496][/us/stat/94/496].)
 
  __References in Text__ 
 
-    Section 198 of the Elementary and Secondary Education Act of 1965, referred to in pars. (4)(A), (5)(A), and (9), is [section 198 of Pub. L. 89–10][/us/pl/89/10/s198], title I, as added by [Pub. L. 95–561, title I, § 101(a)][/us/pl/95/561/s101/a], Nov. 1, 1978, [92 Stat. 2198][/us/stat/92/2198], which was classified to [section 2854 of this title][/us/usc/t20/s2854] prior to the general amendment of [Pub. L. 89–10][/us/pl/89/10] by [Pub. L. 100–297][/us/pl/100/297], Apr. 28, 1988, [102 Stat. 140][/us/stat/102/140]. For definitions, see [section 7801 of this title][/us/usc/t20/s7801].
+    Section 198 of the Elementary and Secondary Education Act of 1965, referred to in pars. (4)(A), (5)(A), and (9), is [section 198 of Pub. L. 89–10][/us/pl/89/10/s198], title I, as added by [Pub. L. 95–561, title I][/us/pl/95/561/tI], § 101(a), Nov. 1, 1978, [92 Stat. 2198][/us/stat/92/2198], which was classified to [section 2854 of this title][/us/usc/t20/s2854] prior to the general amendment of [Pub. L. 89–10][/us/pl/89/10] by [Pub. L. 100–297][/us/pl/100/297], Apr. 28, 1988, [102 Stat. 140][/us/stat/102/140]. For definitions, see [section 7801 of this title][/us/usc/t20/s7801].
 
  __Termination of Trust Territory of the Pacific Islands__ 
 
@@ -81,10 +81,10 @@
 ----------
 
 [/us/usc/t20/s3605]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs3605
-[/us/pl/96/270/s11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F270%2Fs11
+[/us/pl/96/270]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F270
 [/us/stat/94/496]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F496
 [/us/pl/89/10/s198]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F10%2Fs198
-[/us/pl/95/561/s101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F561%2Fs101%2Fa
+[/us/pl/95/561/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F561%2FtI
 [/us/stat/92/2198]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2198
 [/us/usc/t20/s2854]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs2854
 [/us/pl/89/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F10

@@ -37,7 +37,7 @@
 
         No loan may be made to an institution under this part if the institution discriminates on account of race, color, religion, national origin, sex (to the extent provided in title IX of the Education Amendments of 1972 \[[20 U.S.C. 1681][/us/usc/t20/s1681] et seq.\]), or disabling condition; except that the prohibition with respect to religion shall not apply to an institution which is controlled by or which is closely identified with the tenets of a particular religious organization if the application of this section would not be consistent with the religious tenets of such organization.
 
-([Pub. L. 89–329, title III, § 344][/us/pl/89/329/s344], formerly title VII, § 724, as added [Pub. L. 102–325, title VII, § 704][/us/pl/102/325/s704], July 23, 1992, [106 Stat. 745][/us/stat/106/745]; renumbered title III, § 344, [Pub. L. 105–244, title III, § 301(a)(3)][/us/pl/105/244/s301/a/3], (4), Oct. 7, 1998, [112 Stat. 1636][/us/stat/112/1636]; [Pub. L. 110–315, title III, § 314(c)][/us/pl/110/315/s314/c], Aug. 14, 2008, [122 Stat. 3181][/us/stat/122/3181].)
+([Pub. L. 89–329, title III][/us/pl/89/329/tIII], § 344, formerly title VII, § 724, as added [Pub. L. 102–325, title VII][/us/pl/102/325/tVII], § 704, July 23, 1992, [106 Stat. 745][/us/stat/106/745]; renumbered title III, § 344, [Pub. L. 105–244, title III][/us/pl/105/244/tIII], § 301(a)(3), (4), Oct. 7, 1998, [112 Stat. 1636][/us/stat/112/1636]; [Pub. L. 110–315, title III][/us/pl/110/315/tIII], § 314(c), Aug. 14, 2008, [122 Stat. 3181][/us/stat/122/3181].)
 
  __References in Text__ 
 
@@ -53,11 +53,11 @@
 
  __Amendments__ 
 
-    2008—Subsec. (a). [Pub. L. 110–315, § 314(c)(1)][/us/pl/110/315/s314/c/1], substituted “$1,100,000,000” for “$375,000,000” in introductory provisions.
+    2008—Subsec. (a). [Pub. L. 110–315][/us/pl/110/315], § 314(c)(1), substituted “$1,100,000,000” for “$375,000,000” in introductory provisions.
 
-    Subsec. (a)(1). [Pub. L. 110–315, § 314(c)(2)][/us/pl/110/315/s314/c/2], substituted “$733,333,333” for “$250,000,000”.
+    Subsec. (a)(1). [Pub. L. 110–315][/us/pl/110/315], § 314(c)(2), substituted “$733,333,333” for “$250,000,000”.
 
-    Subsec. (a)(2). [Pub. L. 110–315, § 314(c)(3)][/us/pl/110/315/s314/c/3], substituted “$366,666,667” for “$125,000,000”.
+    Subsec. (a)(2). [Pub. L. 110–315][/us/pl/110/315], § 314(c)(3), substituted “$366,666,667” for “$125,000,000”.
 
 ----------
 
@@ -68,12 +68,12 @@
 
 [/us/usc/t20/s123]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs123
 [/us/usc/t20/s1681]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1681
-[/us/pl/89/329/s344]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2Fs344
-[/us/pl/102/325/s704]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325%2Fs704
+[/us/pl/89/329/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2FtIII
+[/us/pl/102/325/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325%2FtVII
 [/us/stat/106/745]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F745
-[/us/pl/105/244/s301/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2Fs301%2Fa%2F3
+[/us/pl/105/244/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2FtIII
 [/us/stat/112/1636]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F1636
-[/us/pl/110/315/s314/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2Fs314%2Fc
+[/us/pl/110/315/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2FtIII
 [/us/stat/122/3181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3181
 [/us/pl/92/318]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F318
 [/us/stat/86/235]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F235
@@ -83,8 +83,8 @@
 [/us/pl/89/329/s344]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2Fs344
 [/us/usc/t20/s1069]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1069
 [/us/pl/99/498]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F498
-[/us/pl/110/315/s314/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2Fs314%2Fc%2F1
-[/us/pl/110/315/s314/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2Fs314%2Fc%2F2
-[/us/pl/110/315/s314/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2Fs314%2Fc%2F3
+[/us/pl/110/315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315
+[/us/pl/110/315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315
+[/us/pl/110/315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315
 
 

@@ -169,13 +169,13 @@
 
         The Congress expressly reserves the right to repeal or amend this section at any time.
 
-([Pub. L. 101–619, § 10][/us/pl/101/619/s10], Nov. 16, 1990, [104 Stat. 3335][/us/stat/104/3335].)
+([Pub. L. 101–619][/us/pl/101/619], § 10, Nov. 16, 1990, [104 Stat. 3335][/us/stat/104/3335].)
 
  __Codification__ 
 
     Subsec. (f) of this section, which required the Foundation, as soon as practicable after the end of each fiscal year, to transmit to Congress a report of its proceedings and activities, including a full and complete statement of its receipts, expenditures, and investments, terminated, effective May 15, 2000, pursuant to [section 3003 of Pub. L. 104–66][/us/pl/104/66/s3003], set out as a note under [section 1113 of Title 31][/us/usc/t31/s1113], Money and Finance. See, also, page 183 of House Document No. 103–7.
 
-    In subsec. (h), “[section 10101 of title 36][/us/usc/t36/s10101]” substituted for “the Act entitled ‘An Act for audit of accounts of private corporations established under Federal law’, approved August 30, 1964 ([Public Law 88–504][/us/pl/88/504]; [36 U.S.C. 1101–110][/us/usc/t36/s1101–110]3)” and “a corporation in part B of subtitle II of title 36” substituted for “a private corporation established under Federal law” on authority of [Pub. L. 105–225, § 5(b)][/us/pl/105/225/s5/b], Aug. 12, 1998, [112 Stat. 1499][/us/stat/112/1499], the first section of which enacted Title 36, Patriotic and National Observances, Ceremonies, and Organizations.
+    In subsec. (h), “[section 10101 of title 36][/us/usc/t36/s10101]” substituted for “the Act entitled ‘An Act for audit of accounts of private corporations established under Federal law’, approved August 30, 1964 ([Public Law 88–504][/us/pl/88/504]; [36 U.S.C. 1101–110][/us/usc/t36/s1101–110]3)” and “a corporation in part B of subtitle II of title 36” substituted for “a private corporation established under Federal law” on authority of [Pub. L. 105–225][/us/pl/105/225], § 5(b), Aug. 12, 1998, [112 Stat. 1499][/us/stat/112/1499], the first section of which enacted Title 36, Patriotic and National Observances, Ceremonies, and Organizations.
 
  __Change of Name__ 
 
@@ -197,14 +197,14 @@
 [/us/usc/t26/s501/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs501%2Fc
 [/us/usc/t20/s5502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs5502
 [/us/usc/t36/s10101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft36%2Fs10101
-[/us/pl/101/619/s10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F619%2Fs10
+[/us/pl/101/619]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F619
 [/us/stat/104/3335]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3335
 [/us/pl/104/66/s3003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F66%2Fs3003
 [/us/usc/t31/s1113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1113
 [/us/usc/t36/s10101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft36%2Fs10101
 [/us/pl/88/504]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F504
 [/us/usc/t36/s1101–110]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft36%2Fs1101%E2%80%93110
-[/us/pl/105/225/s5/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F225%2Fs5%2Fb
+[/us/pl/105/225]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F225
 [/us/stat/112/1499]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F1499
 [/us/pl/104/14/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F14%2Fs1%2Fa
 [/us/usc/t2/s21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs21

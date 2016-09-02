@@ -11,48 +11,16 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t20/ch20B/schI/m__us_usc_t20_ch20B_schI.md) | [Next](./../../../../..//us/usc/t20/ch20B/schIII/m__us_usc_t20_ch20B_schIII.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fch20B%2FschII)
+[Previous](./../../../../..//us/usc/t20/ch20B/schI/m__us_usc_t20_s691h _us_usc_t20_s691i.md) | [Next](./../../../../..//us/usc/t20/ch20B/schII/m__us_usc_t20_s693...693b.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fch20B%2FschII)
 
 ### SUBCHAPTER II—MODEL SECONDARY SCHOOL FOR THE DEAF
 
-§§ 693 to 693b. __Repealed.__  __[__  __Pub. L. 99–371, title II, § 210(c)__  __][/us/pl/99/371/s210/c]__  __, formerly title IV, § 410(c),__  __Aug. 4, 1986__  __,__  __[__  __100 Stat. 794__  __][/us/stat/100/794]__  __; renumbered title II, § 210(c),__  __[__  __Pub. L. 102–421, title I, § 101(b)(5)__  __][/us/pl/102/421/s101/b/5]__  __, (6),__  __Oct. 16, 1992__  __,__  __[__  __106 Stat. 2151__  __][/us/stat/106/2151]__ 
-
-    Section 693, [Pub. L. 89–694, § 2][/us/pl/89/694/s2], Oct. 15, 1966, [80 Stat. 1027][/us/stat/80/1027], authorized appropriations for a model secondary school for the deaf.
-
-    Section 693a, [Pub. L. 89–694, § 3][/us/pl/89/694/s3], Oct. 15, 1966, [80 Stat. 1027][/us/stat/80/1027]; [Pub. L. 96–88, title III, § 301(a)(2)(N)][/us/pl/96/88/s301/a/2/N], title V, § 507, Oct. 17, 1979, [93 Stat. 677][/us/stat/93/677], 695, defined “Secretary”, “construction”, and “secondary school”. See [section 4351 of this title][/us/usc/t20/s4351].
-
-    Section 693b, [Pub. L. 89–694, § 4][/us/pl/89/694/s4], Oct. 15, 1966, [80 Stat. 1027][/us/stat/80/1027], related to an agreement with Gallaudet College to establish a model secondary school. See [section 4322 of this title][/us/usc/t20/s4322].
-
- __Short Title__ 
-
-    [Pub. L. 89–694, § 1][/us/pl/89/694/s1], Oct. 15, 1966, [80 Stat. 1027][/us/stat/80/1027], which provided that this subchapter be cited as the “Model Secondary School for the Deaf Act”, was repealed by [Pub. L. 99–371, title II, § 210(c)][/us/pl/99/371/s210/c], formerly title IV, § 410(c), Aug. 4, 1986, [100 Stat. 794][/us/stat/100/794]; renumbered title II, § 210(c), [Pub. L. 102–421, title I, § 101(b)(5)][/us/pl/102/421/s101/b/5], (6), Oct. 16, 1992, [106 Stat. 2151][/us/stat/106/2151].
-
 ----------
 
-[Previous](./../../../../..//us/usc/t20/ch20B/schI/m__us_usc_t20_ch20B_schI.md) | [Next](./../../../../..//us/usc/t20/ch20B/schIII/m__us_usc_t20_ch20B_schIII.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fch20B%2FschII)
+[Previous](./../../../../..//us/usc/t20/ch20B/schI/m__us_usc_t20_s691h _us_usc_t20_s691i.md) | [Next](./../../../../..//us/usc/t20/ch20B/schII/m__us_usc_t20_s693...693b.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fch20B%2FschII)
 
 ----------
 ----------
 
-[/us/pl/99/371/s210/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F371%2Fs210%2Fc
-[/us/stat/100/794]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F794
-[/us/pl/102/421/s101/b/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F421%2Fs101%2Fb%2F5
-[/us/stat/106/2151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2151
-[/us/pl/89/694/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F694%2Fs2
-[/us/stat/80/1027]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F1027
-[/us/pl/89/694/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F694%2Fs3
-[/us/stat/80/1027]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F1027
-[/us/pl/96/88/s301/a/2/N]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F88%2Fs301%2Fa%2F2%2FN
-[/us/stat/93/677]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F677
-[/us/usc/t20/s4351]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs4351
-[/us/pl/89/694/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F694%2Fs4
-[/us/stat/80/1027]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F1027
-[/us/usc/t20/s4322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs4322
-[/us/pl/89/694/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F694%2Fs1
-[/us/stat/80/1027]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F1027
-[/us/pl/99/371/s210/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F371%2Fs210%2Fc
-[/us/stat/100/794]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F794
-[/us/pl/102/421/s101/b/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F421%2Fs101%2Fb%2F5
-[/us/stat/106/2151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2151
 
 

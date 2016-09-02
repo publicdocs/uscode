@@ -151,13 +151,13 @@
 
                 Nothing in this subsection shall be construed to require a provider of services under this subchapter to provide a child served under this subchapter with a free appropriate public education.
 
-([Pub. L. 91–230, title VI, § 635][/us/pl/91/230/s635], as added [Pub. L. 108–446, title I, § 101][/us/pl/108/446/s101], Dec. 3, 2004, [118 Stat. 2747][/us/stat/118/2747]; amended [Pub. L. 111–320, title II, § 202(b)][/us/pl/111/320/s202/b], Dec. 20, 2010, [124 Stat. 3509][/us/stat/124/3509].)
+([Pub. L. 91–230, title VI][/us/pl/91/230/tVI], § 635, as added [Pub. L. 108–446, title I][/us/pl/108/446/tI], § 101, Dec. 3, 2004, [118 Stat. 2747][/us/stat/118/2747]; amended [Pub. L. 111–320, title II][/us/pl/111/320/tII], § 202(b), Dec. 20, 2010, [124 Stat. 3509][/us/stat/124/3509].)
 
  __Prior Provisions__ 
 
-    A prior section 1435, [Pub. L. 91–230, title VI, § 635][/us/pl/91/230/s635], as added [Pub. L. 105–17, title I, § 101][/us/pl/105/17/s101], June 4, 1997, [111 Stat. 108][/us/stat/111/108], related to requirements for statewide system, prior to the general amendment of subchapters I to IV of this chapter by [Pub. L. 108–446][/us/pl/108/446].
+    A prior section 1435, [Pub. L. 91–230, title VI][/us/pl/91/230/tVI], § 635, as added [Pub. L. 105–17, title I][/us/pl/105/17/tI], § 101, June 4, 1997, [111 Stat. 108][/us/stat/111/108], related to requirements for statewide system, prior to the general amendment of subchapters I to IV of this chapter by [Pub. L. 108–446][/us/pl/108/446].
 
-    Another prior section 1435, [Pub. L. 91–230, title VI, § 635][/us/pl/91/230/s635], Apr. 13, 1970, [84 Stat. 185][/us/stat/84/185]; [Pub. L. 98–199][/us/pl/98/199], §§ 3(b), 11, Dec. 2, 1983, [97 Stat. 1358][/us/stat/97/1358], 1372; [Pub. L. 99–457, title III, § 311][/us/pl/99/457/s311], Oct. 8, 1986, [100 Stat. 1169][/us/stat/100/1169]; [Pub. L. 101–476, title IV, § 405][/us/pl/101/476/s405], Oct. 30, 1990, [104 Stat. 1135][/us/stat/104/1135]; [Pub. L. 102–119][/us/pl/102/119], §§ 9(c)(2), 10, 25(a)(13), Oct. 7, 1991, [105 Stat. 595][/us/stat/105/595], 606, authorized appropriations, prior to the general amendment of subchapters I to IV of this chapter by [Pub. L. 105–17][/us/pl/105/17].
+    Another prior section 1435, [Pub. L. 91–230, title VI][/us/pl/91/230/tVI], § 635, Apr. 13, 1970, [84 Stat. 185][/us/stat/84/185]; [Pub. L. 98–199][/us/pl/98/199], §§ 3(b), 11, Dec. 2, 1983, [97 Stat. 1358][/us/stat/97/1358], 1372; [Pub. L. 99–457, title III][/us/pl/99/457/tIII], § 311, Oct. 8, 1986, [100 Stat. 1169][/us/stat/100/1169]; [Pub. L. 101–476, title IV][/us/pl/101/476/tIV], § 405, Oct. 30, 1990, [104 Stat. 1135][/us/stat/104/1135]; [Pub. L. 102–119][/us/pl/102/119], §§ 9(c)(2), 10, 25(a)(13), Oct. 7, 1991, [105 Stat. 595][/us/stat/105/595], 606, authorized appropriations, prior to the general amendment of subchapters I to IV of this chapter by [Pub. L. 105–17][/us/pl/105/17].
 
  __Amendments__ 
 
@@ -194,22 +194,22 @@
 [/us/usc/t20/s1419]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1419
 [/us/usc/t20/s1432/4/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1432%2F4%2FB
 [/us/usc/t20/s1419]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1419
-[/us/pl/91/230/s635]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F230%2Fs635
-[/us/pl/108/446/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F446%2Fs101
+[/us/pl/91/230/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F230%2FtVI
+[/us/pl/108/446/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F446%2FtI
 [/us/stat/118/2747]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F2747
-[/us/pl/111/320/s202/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F320%2Fs202%2Fb
+[/us/pl/111/320/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F320%2FtII
 [/us/stat/124/3509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3509
-[/us/pl/91/230/s635]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F230%2Fs635
-[/us/pl/105/17/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F17%2Fs101
+[/us/pl/91/230/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F230%2FtVI
+[/us/pl/105/17/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F17%2FtI
 [/us/stat/111/108]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F108
 [/us/pl/108/446]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F446
-[/us/pl/91/230/s635]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F230%2Fs635
+[/us/pl/91/230/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F230%2FtVI
 [/us/stat/84/185]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F185
 [/us/pl/98/199]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F199
 [/us/stat/97/1358]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F1358
-[/us/pl/99/457/s311]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F457%2Fs311
+[/us/pl/99/457/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F457%2FtIII
 [/us/stat/100/1169]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1169
-[/us/pl/101/476/s405]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F476%2Fs405
+[/us/pl/101/476/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F476%2FtIV
 [/us/stat/104/1135]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1135
 [/us/pl/102/119]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F119
 [/us/stat/105/595]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F595

@@ -11,45 +11,16 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t20/ch40/schI/ptC/m__us_usc_t20_ch40_schI_ptC.md) | [Next](./../../../../..//us/usc/t20/ch40/schIII/m__us_usc_t20_ch40_schIII.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fch40%2FschII)
+[Previous](./../../../../..//us/usc/t20/ch40/schI/ptC/m__us_usc_t20_s1831 _us_usc_t20_s1832.md) | [Next](./../../../../..//us/usc/t20/ch40/schII/m__us_usc_t20_s1851...1853.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fch40%2FschII)
 
 ### SUBCHAPTER II—SPECIAL PROJECTS
 
-§§ 1851 to 1853. __Repealed.__  __[__  __Pub. L. 95–561, title III, § 301(b)(2)__  __][/us/pl/95/561/s301/b/2]__  __,__  __Nov. 1, 1978__  __,__  __[__  __92 Stat. 2228__  __][/us/stat/92/2228]__ 
-
-    Section 1851, [act July 26, 1954, ch. 576, § 2][/us/act/1954-07-26/ch576/s2], as added Aug. 21, 1974, [Pub. L. 93–380, title IV, § 402(a)(1)][/us/pl/93/380/s402/a/1], [88 Stat. 544][/us/stat/88/544], set out Congressional statement of purpose in making provision for special projects to experiment with new educational and administrative methods, techniques, and practices, to meet special or unique educational needs or problems, and to place special emphasis on national education priorities.
-
-    Section 1852, [act July 26, 1954, ch. 576, § 3][/us/act/1954-07-26/ch576/s3], as added Aug. 21, 1974, [Pub. L. 93–380, title IV, § 402(a)(1)][/us/pl/93/380/s402/a/1], [88 Stat. 544][/us/stat/88/544]; amended Apr. 21, 1976, [Pub. L. 94–273, § 2(14)][/us/pl/94/273/s2/14], [90 Stat. 375][/us/stat/90/375], authorized Commissioner to contract with public and private groups in carrying out special projects.
-
-    Section 1853, [act July 26, 1954, ch. 576, § 4][/us/act/1954-07-26/ch576/s4], as added Aug. 21, 1974, [Pub. L. 93–380, title IV, § 402(a)(1)][/us/pl/93/380/s402/a/1], [88 Stat. 545][/us/stat/88/545]; amended Oct. 12, 1976, [Pub. L. 94–482, title IV, § 409(c)][/us/pl/94/482/s409/c], [90 Stat. 2233][/us/stat/90/2233]; S. Res. 4, Feb. 4, 1977, authorized appropriations for section 1852 contracts and development of plans for succeeding year.
-
- __Effective Date of Repeal__ 
-
-    [Pub. L. 95–561, title III, § 301(b)(2)][/us/pl/95/561/s301/b/2], Nov. 1, 1978, [92 Stat. 2228][/us/stat/92/2228], provided that the repeal is effective Sept. 30, 1979.
-
 ----------
 
-[Previous](./../../../../..//us/usc/t20/ch40/schI/ptC/m__us_usc_t20_ch40_schI_ptC.md) | [Next](./../../../../..//us/usc/t20/ch40/schIII/m__us_usc_t20_ch40_schIII.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fch40%2FschII)
+[Previous](./../../../../..//us/usc/t20/ch40/schI/ptC/m__us_usc_t20_s1831 _us_usc_t20_s1832.md) | [Next](./../../../../..//us/usc/t20/ch40/schII/m__us_usc_t20_s1851...1853.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fch40%2FschII)
 
 ----------
 ----------
 
-[/us/pl/95/561/s301/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F561%2Fs301%2Fb%2F2
-[/us/stat/92/2228]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2228
-[/us/act/1954-07-26/ch576/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-07-26%2Fch576%2Fs2
-[/us/pl/93/380/s402/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F380%2Fs402%2Fa%2F1
-[/us/stat/88/544]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F544
-[/us/act/1954-07-26/ch576/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-07-26%2Fch576%2Fs3
-[/us/pl/93/380/s402/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F380%2Fs402%2Fa%2F1
-[/us/stat/88/544]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F544
-[/us/pl/94/273/s2/14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F273%2Fs2%2F14
-[/us/stat/90/375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F375
-[/us/act/1954-07-26/ch576/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-07-26%2Fch576%2Fs4
-[/us/pl/93/380/s402/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F380%2Fs402%2Fa%2F1
-[/us/stat/88/545]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F545
-[/us/pl/94/482/s409/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F482%2Fs409%2Fc
-[/us/stat/90/2233]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2233
-[/us/pl/95/561/s301/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F561%2Fs301%2Fb%2F2
-[/us/stat/92/2228]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2228
 
 

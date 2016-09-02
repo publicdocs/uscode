@@ -11,16 +11,28 @@
 ----------
 ----------
 
-[Previous](./../../../../../..//us/usc/t20/ch70/schIII/ptA/spt4/m__us_usc_t20_s6871.md) | [Next](./../../../../../..//us/usc/t20/ch70/schIII/ptB/m__us_usc_t20_s6891.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fch70%2FschIII%2FptB)
+[Previous](./../../../../../..//us/usc/t20/ch70/schIII/ptA/spt4/m__us_usc_t20_s6871.md) | [Next](./../../../../../..//us/usc/t20/ch70/schIII/ptB/m__us_usc_t20_s7011.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fch70%2FschIII%2FptB)
 
-#### Part B—Improving Language Instruction Educational Programs
+#### Part B—General Provisions
+
+ __Codification__ 
+
+    [Pub. L. 114–95, title III][/us/pl/114/95/tIII], § 3001(4), Dec. 10, 2015, [129 Stat. 1953][/us/stat/129/1953], redesignated part C (§ 7011 et seq.) of this subchapter as part B of this subchapter.
+
+ __Prior Provisions__ 
+
+    A prior part B, consisting of sections 6891 to 6894, 6911 to 6918, 6931 to 6935, 6951, 6961 to 6968, and 6981 to 6983 of this title, related to improving language instruction educational programs, prior to repeal by [Pub. L. 114–95, title III][/us/pl/114/95/tIII], § 3001(3), Dec. 10, 2015, [129 Stat. 1953][/us/stat/129/1953].
 
 ----------
 
-[Previous](./../../../../../..//us/usc/t20/ch70/schIII/ptA/spt4/m__us_usc_t20_s6871.md) | [Next](./../../../../../..//us/usc/t20/ch70/schIII/ptB/m__us_usc_t20_s6891.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fch70%2FschIII%2FptB)
+[Previous](./../../../../../..//us/usc/t20/ch70/schIII/ptA/spt4/m__us_usc_t20_s6871.md) | [Next](./../../../../../..//us/usc/t20/ch70/schIII/ptB/m__us_usc_t20_s7011.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fch70%2FschIII%2FptB)
 
 ----------
 ----------
 
+[/us/pl/114/95/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F95%2FtIII
+[/us/stat/129/1953]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1953
+[/us/pl/114/95/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F95%2FtIII
+[/us/stat/129/1953]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1953
 
 

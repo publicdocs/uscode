@@ -17,7 +17,7 @@
 
     The appropriate district court of the United States shall have and exercise jurisdiction of proceedings instituted under [section 1706 of this title][/us/usc/t20/s1706].
 
-([Pub. L. 93–380, title II, § 209][/us/pl/93/380/s209], Aug. 21, 1974, [88 Stat. 516][/us/stat/88/516].)
+([Pub. L. 93–380, title II][/us/pl/93/380/tII], § 209, Aug. 21, 1974, [88 Stat. 516][/us/stat/88/516].)
 
 ----------
 
@@ -27,7 +27,7 @@
 ----------
 
 [/us/usc/t20/s1706]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1706
-[/us/pl/93/380/s209]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F380%2Fs209
+[/us/pl/93/380/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F380%2FtII
 [/us/stat/88/516]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F516
 
 

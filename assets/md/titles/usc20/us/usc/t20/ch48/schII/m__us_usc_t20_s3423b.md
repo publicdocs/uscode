@@ -17,7 +17,7 @@
 
     There shall be in the Department an Office of Non-Public Education to ensure the maximum potential participation of non-public school students in all Federal educational programs for which such students are eligible.
 
-([Pub. L. 96–88, title II, § 214][/us/pl/96/88/s214], as added [Pub. L. 103–382, title II, § 271(c)][/us/pl/103/382/s271/c], Oct. 20, 1994, [108 Stat. 3929][/us/stat/108/3929].)
+([Pub. L. 96–88, title II][/us/pl/96/88/tII], § 214, as added [Pub. L. 103–382, title II][/us/pl/103/382/tII], § 271(c), Oct. 20, 1994, [108 Stat. 3929][/us/stat/108/3929].)
 
  __Prior Provisions__ 
 
@@ -32,8 +32,8 @@
 ----------
 ----------
 
-[/us/pl/96/88/s214]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F88%2Fs214
-[/us/pl/103/382/s271/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F382%2Fs271%2Fc
+[/us/pl/96/88/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F88%2FtII
+[/us/pl/103/382/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F382%2FtII
 [/us/stat/108/3929]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3929
 [/us/pl/96/88/s214]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F88%2Fs214
 [/us/usc/t20/s3423a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs3423a

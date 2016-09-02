@@ -39,7 +39,7 @@
 
         For the purposes of this section, the term “additional funds” does not include funds used as matching funds.
 
-([Pub. L. 88–210, title III, § 321][/us/pl/88/210/s321], as added [Pub. L. 109–270, § 1(b)][/us/pl/109/270/s1/b], Aug. 12, 2006, [120 Stat. 745][/us/stat/120/745]; amended [Pub. L. 113–128, title V, § 512(e)(7)][/us/pl/113/128/s512/e/7], July 22, 2014, [128 Stat. 1707][/us/stat/128/1707].)
+([Pub. L. 88–210, title III][/us/pl/88/210/tIII], § 321, as added [Pub. L. 109–270][/us/pl/109/270], § 1(b), Aug. 12, 2006, [120 Stat. 745][/us/stat/120/745]; amended [Pub. L. 113–128, title V][/us/pl/113/128/tV], § 512(e)(7), July 22, 2014, [128 Stat. 1707][/us/stat/128/1707].)
 
  __References in Text__ 
 
@@ -49,11 +49,11 @@
 
  __Prior Provisions__ 
 
-    A prior section 2411, [Pub. L. 88–210, title III, § 321][/us/pl/88/210/s321], as added [Pub. L. 105–332, § 1(b)][/us/pl/105/332/s1/b], Oct. 31, 1998, [112 Stat. 3123][/us/stat/112/3123], related to joint funding, prior to the general amendment of this chapter by [Pub. L. 109–270][/us/pl/109/270].
+    A prior section 2411, [Pub. L. 88–210, title III][/us/pl/88/210/tIII], § 321, as added [Pub. L. 105–332][/us/pl/105/332], § 1(b), Oct. 31, 1998, [112 Stat. 3123][/us/stat/112/3123], related to joint funding, prior to the general amendment of this chapter by [Pub. L. 109–270][/us/pl/109/270].
 
-    Another prior section 2411, [Pub. L. 88–210, title IV, § 411][/us/pl/88/210/s411], as added [Pub. L. 101–392, title IV, § 406(a)][/us/pl/101/392/s406/a], Sept. 25, 1990, [104 Stat. 812][/us/stat/104/812], authorized grants for demonstration programs, prior to the general amendment of this chapter by [Pub. L. 105–332][/us/pl/105/332].
+    Another prior section 2411, [Pub. L. 88–210, title IV][/us/pl/88/210/tIV], § 411, as added [Pub. L. 101–392, title IV][/us/pl/101/392/tIV], § 406(a), Sept. 25, 1990, [104 Stat. 812][/us/stat/104/812], authorized grants for demonstration programs, prior to the general amendment of this chapter by [Pub. L. 105–332][/us/pl/105/332].
 
-    Another prior section 2411, [Pub. L. 88–210, title IV, § 411][/us/pl/88/210/s411], as added [Pub. L. 98–524, § 1][/us/pl/98/524/s1], Oct. 19, 1984, [98 Stat. 2470][/us/stat/98/2470], related to programs and projects Secretary was authorized to carry out from available funds, prior to the general amendment of part B of former subchapter IV of this chapter by [Pub. L. 101–392][/us/pl/101/392].
+    Another prior section 2411, [Pub. L. 88–210, title IV][/us/pl/88/210/tIV], § 411, as added [Pub. L. 98–524][/us/pl/98/524], § 1, Oct. 19, 1984, [98 Stat. 2470][/us/stat/98/2470], related to programs and projects Secretary was authorized to carry out from available funds, prior to the general amendment of part B of former subchapter IV of this chapter by [Pub. L. 101–392][/us/pl/101/392].
 
     A prior [section 321 of Pub. L. 88–210][/us/pl/88/210/s321] was classified to [section 2381 of this title][/us/usc/t20/s2381], prior to the general amendment of this chapter by [Pub. L. 105–332][/us/pl/105/332].
 
@@ -76,10 +76,10 @@
 
 [/us/usc/t29/s3161]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3161
 [/us/usc/t29/s49]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs49
-[/us/pl/88/210/s321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F210%2Fs321
-[/us/pl/109/270/s1/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F270%2Fs1%2Fb
+[/us/pl/88/210/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F210%2FtIII
+[/us/pl/109/270]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F270
 [/us/stat/120/745]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F745
-[/us/pl/113/128/s512/e/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs512%2Fe%2F7
+[/us/pl/113/128/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2FtV
 [/us/stat/128/1707]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1707
 [/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
 [/us/stat/128/1425]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1425
@@ -87,16 +87,16 @@
 [/us/act/1933-06-06/ch49]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1933-06-06%2Fch49
 [/us/stat/48/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F113
 [/us/usc/t29/s49]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs49
-[/us/pl/88/210/s321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F210%2Fs321
-[/us/pl/105/332/s1/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F332%2Fs1%2Fb
+[/us/pl/88/210/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F210%2FtIII
+[/us/pl/105/332]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F332
 [/us/stat/112/3123]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F3123
 [/us/pl/109/270]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F270
-[/us/pl/88/210/s411]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F210%2Fs411
-[/us/pl/101/392/s406/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F392%2Fs406%2Fa
+[/us/pl/88/210/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F210%2FtIV
+[/us/pl/101/392/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F392%2FtIV
 [/us/stat/104/812]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F812
 [/us/pl/105/332]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F332
-[/us/pl/88/210/s411]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F210%2Fs411
-[/us/pl/98/524/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F524%2Fs1
+[/us/pl/88/210/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F210%2FtIV
+[/us/pl/98/524]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F524
 [/us/stat/98/2470]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2470
 [/us/pl/101/392]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F392
 [/us/pl/88/210/s321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F210%2Fs321

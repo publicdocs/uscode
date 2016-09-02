@@ -23,7 +23,7 @@
 
         Each Commissioner appointed by the Director pursuant to [section 9517 of this title][/us/usc/t20/s9517] may be removed by the Director prior to the expiration of the term of each such Commissioner.
 
-([Pub. L. 107–279, title I, § 193][/us/pl/107/279/s193], Nov. 5, 2002, [116 Stat. 1974][/us/stat/116/1974].)
+([Pub. L. 107–279, title I][/us/pl/107/279/tI], § 193, Nov. 5, 2002, [116 Stat. 1974][/us/stat/116/1974].)
 
 ----------
 
@@ -33,7 +33,7 @@
 ----------
 
 [/us/usc/t20/s9517]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs9517
-[/us/pl/107/279/s193]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F279%2Fs193
+[/us/pl/107/279/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F279%2FtI
 [/us/stat/116/1974]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1974
 
 

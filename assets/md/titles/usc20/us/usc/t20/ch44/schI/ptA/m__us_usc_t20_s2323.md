@@ -37,7 +37,7 @@
 
             Each eligible agency shall identify in the State plan core indicators of performance for career and technical education students at the secondary level that are valid and reliable, and that include, at a minimum, measures of each of the following:
 
-                (i) Student attainment of challenging academic content standards and student academic achievement standards, as adopted by a State in accordance with [section 6311(b)(1) of this title][/us/usc/t20/s6311/b/1] and measured by the State determined proficient levels on the academic assessments described in [section 6311(b)(3) of this title][/us/usc/t20/s6311/b/3].
+                (i) Student attainment of the challenging State academic standards, as adopted by a State in accordance with [section 6311(b)(1) of this title][/us/usc/t20/s6311/b/1] and measured by the State determined levels of achievement on the academic assessments described in [section 6311(b)(2) of this title][/us/usc/t20/s6311/b/2].
 
                 (ii) Student attainment of career and technical skill proficiencies, including student achievement on technical assessments, that are aligned with industry-recognized standards, if available and appropriate.
 
@@ -51,7 +51,7 @@
 
                     (III) A proficiency credential, certificate, or degree, in conjunction with a secondary school diploma (if such credential, certificate, or degree is offered by the State in conjunction with a secondary school diploma).
 
-                (iv) Student graduation rates (as described in [section 6311(b)(2)(C)(vi) of this title][/us/usc/t20/s6311/b/2/C/vi]).
+                (iv) Student graduation rates (as described in [section 6311(c)(4)(A)(i)(I)(bb) of this title][/us/usc/t20/s6311/c/4/A/i/I/bb]).
 
                 (v) Student placement in postsecondary education or advanced training, in military service, or in employment.
 
@@ -181,7 +181,7 @@
 
                 Except as provided in clauses (iii) and (iv), each eligible recipient that receives an allocation described in [section 2322 of this title][/us/usc/t20/s2322] shall—
 
-                    (I) disaggregate data for each of the indicators of performance under paragraph (2) for the categories of students described in [section 6311(h)(1)(C)(i) of this title][/us/usc/t20/s6311/h/1/C/i] and [section 2302(29) of this title][/us/usc/t20/s2302/29] that are served under this chapter; and
+                    (I) disaggregate data for each of the indicators of performance under paragraph (2) for the subgroups of students described in [section 6311(h)(1)(C)(i) of this title][/us/usc/t20/s6311/h/1/C/i] and [section 2302(29) of this title][/us/usc/t20/s2302/29] that are served under this chapter; and
 
                     (II) identify and quantify any disparities or gaps in performance between any such category of students and the performance of all students served by the eligible recipient under this chapter.
 
@@ -233,7 +233,7 @@
 
             (C) shall provide the appropriate committees of Congress with copies of such reports.
 
-([Pub. L. 88–210, title I, § 113][/us/pl/88/210/s113], as added [Pub. L. 109–270, § 1(b)][/us/pl/109/270/s1/b], Aug. 12, 2006, [120 Stat. 696][/us/stat/120/696].)
+([Pub. L. 88–210, title I][/us/pl/88/210/tI], § 113, as added [Pub. L. 109–270][/us/pl/109/270], § 1(b), Aug. 12, 2006, [120 Stat. 696][/us/stat/120/696]; amended [Pub. L. 114–95, title IX][/us/pl/114/95/tIX], § 9215(n)(3), Dec. 10, 2015, [129 Stat. 2169][/us/stat/129/2169].)
 
  __References in Text__ 
 
@@ -241,9 +241,21 @@
 
  __Prior Provisions__ 
 
-    A prior section 2323, [Pub. L. 88–210, title I, § 113][/us/pl/88/210/s113], as added [Pub. L. 105–332, § 1(b)][/us/pl/105/332/s1/b], Oct. 31, 1998, [112 Stat. 3087][/us/stat/112/3087], related to accountability, prior to the general amendment of this chapter by [Pub. L. 109–270][/us/pl/109/270].
+    A prior section 2323, [Pub. L. 88–210, title I][/us/pl/88/210/tI], § 113, as added [Pub. L. 105–332][/us/pl/105/332], § 1(b), Oct. 31, 1998, [112 Stat. 3087][/us/stat/112/3087], related to accountability, prior to the general amendment of this chapter by [Pub. L. 109–270][/us/pl/109/270].
 
-    Another prior section 2323, [Pub. L. 88–210, title I, § 113][/us/pl/88/210/s113], as added [Pub. L. 98–524, § 1][/us/pl/98/524/s1], Oct. 19, 1984, [98 Stat. 2445][/us/stat/98/2445]; amended [Pub. L. 99–159, title VII][/us/pl/99/159], §§ 704, 713(a)(1), (2), Nov. 22, 1985, [99 Stat. 905][/us/stat/99/905], 907; [Pub. L. 101–392, title I, § 113][/us/pl/101/392/s113], Sept. 25, 1990, [104 Stat. 766][/us/stat/104/766]; [Pub. L. 101–476, title IX, § 901(a)(2)][/us/pl/101/476/s901/a/2], Oct. 30, 1990, [104 Stat. 1142][/us/stat/104/1142]; [Pub. L. 103–382, title III, § 391(s)(2)][/us/pl/103/382/s391/s/2], Oct. 20, 1994, [108 Stat. 4024][/us/stat/108/4024], required submission of State plans, prior to the general amendment of this chapter by [Pub. L. 105–332][/us/pl/105/332].
+    Another prior section 2323, [Pub. L. 88–210, title I][/us/pl/88/210/tI], § 113, as added [Pub. L. 98–524][/us/pl/98/524], § 1, Oct. 19, 1984, [98 Stat. 2445][/us/stat/98/2445]; amended [Pub. L. 99–159, title VII][/us/pl/99/159/tVII], §§ 704, 713(a)(1), (2), Nov. 22, 1985, [99 Stat. 905][/us/stat/99/905], 907; [Pub. L. 101–392, title I][/us/pl/101/392/tI], § 113, Sept. 25, 1990, [104 Stat. 766][/us/stat/104/766]; [Pub. L. 101–476, title IX][/us/pl/101/476/tIX], § 901(a)(2), Oct. 30, 1990, [104 Stat. 1142][/us/stat/104/1142]; [Pub. L. 103–382, title III][/us/pl/103/382/tIII], § 391(s)(2), Oct. 20, 1994, [108 Stat. 4024][/us/stat/108/4024], required submission of State plans, prior to the general amendment of this chapter by [Pub. L. 105–332][/us/pl/105/332].
+
+ __Amendments__ 
+
+    2015—Subsec. (b)(2)(A)(i). [Pub. L. 114–95][/us/pl/114/95], § 9215(n)(3)(A)(i), added cl. (i) and struck out former cl. (i) which read as follows: “Student attainment of challenging academic content standards and student academic achievement standards, as adopted by a State in accordance with [section 6311(b)(1) of this title][/us/usc/t20/s6311/b/1] and measured by the State determined proficient levels on the academic assessments described in [section 6311(b)(3) of this title][/us/usc/t20/s6311/b/3].”
+
+    Subsec. (b)(2)(A)(iv). [Pub. L. 114–95][/us/pl/114/95], § 9215(n)(3)(A)(ii), substituted “(as described in [section 6311(c)(4)(A)(i)(I)(bb) of this title][/us/usc/t20/s6311/c/4/A/i/I/bb])” for “(as described in [section 6311(b)(2)(C)(vi) of this title][/us/usc/t20/s6311/b/2/C/vi])”.
+
+    Subsec. (b)(4)(C)(ii)(I). [Pub. L. 114–95][/us/pl/114/95], § 9215(n)(3)(B), substituted “subgroups” for “categories”.
+
+ __Effective Date of 2015 Amendment__ 
+
+    Amendment by [Pub. L. 114–95][/us/pl/114/95] effective Dec. 10, 2015, except with respect to certain noncompetitive programs and competitive programs, see [section 5 of Pub. L. 114–95][/us/pl/114/95/s5], set out as a note under [section 6301 of this title][/us/usc/t20/s6301].
 
 ----------
 
@@ -253,8 +265,8 @@
 ----------
 
 [/us/usc/t20/s6311/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs6311%2Fb%2F1
-[/us/usc/t20/s6311/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs6311%2Fb%2F3
-[/us/usc/t20/s6311/b/2/C/vi]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs6311%2Fb%2F2%2FC%2Fvi
+[/us/usc/t20/s6311/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs6311%2Fb%2F2
+[/us/usc/t20/s6311/c/4/A/i/I/bb]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs6311%2Fc%2F4%2FA%2Fi%2FI%2Fbb
 [/us/usc/t20/s2342]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs2342
 [/us/usc/t20/s2303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs2303
 [/us/usc/t20/s2342]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs2342
@@ -266,25 +278,37 @@
 [/us/usc/t20/s2321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs2321
 [/us/usc/t20/s6311/h/1/C/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs6311%2Fh%2F1%2FC%2Fi
 [/us/usc/t20/s2302/29]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs2302%2F29
-[/us/pl/88/210/s113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F210%2Fs113
-[/us/pl/109/270/s1/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F270%2Fs1%2Fb
-[/us/stat/120/696]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F696
+[/us/pl/88/210/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F210%2FtI
 [/us/pl/109/270]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F270
-[/us/pl/88/210/s113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F210%2Fs113
-[/us/pl/105/332/s1/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F332%2Fs1%2Fb
+[/us/stat/120/696]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F696
+[/us/pl/114/95/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F95%2FtIX
+[/us/stat/129/2169]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F2169
+[/us/pl/109/270]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F270
+[/us/pl/88/210/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F210%2FtI
+[/us/pl/105/332]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F332
 [/us/stat/112/3087]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F3087
 [/us/pl/109/270]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F270
-[/us/pl/88/210/s113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F210%2Fs113
-[/us/pl/98/524/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F524%2Fs1
+[/us/pl/88/210/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F210%2FtI
+[/us/pl/98/524]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F524
 [/us/stat/98/2445]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2445
-[/us/pl/99/159]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F159
+[/us/pl/99/159/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F159%2FtVII
 [/us/stat/99/905]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F905
-[/us/pl/101/392/s113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F392%2Fs113
+[/us/pl/101/392/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F392%2FtI
 [/us/stat/104/766]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F766
-[/us/pl/101/476/s901/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F476%2Fs901%2Fa%2F2
+[/us/pl/101/476/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F476%2FtIX
 [/us/stat/104/1142]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1142
-[/us/pl/103/382/s391/s/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F382%2Fs391%2Fs%2F2
+[/us/pl/103/382/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F382%2FtIII
 [/us/stat/108/4024]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4024
 [/us/pl/105/332]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F332
+[/us/pl/114/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F95
+[/us/usc/t20/s6311/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs6311%2Fb%2F1
+[/us/usc/t20/s6311/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs6311%2Fb%2F3
+[/us/pl/114/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F95
+[/us/usc/t20/s6311/c/4/A/i/I/bb]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs6311%2Fc%2F4%2FA%2Fi%2FI%2Fbb
+[/us/usc/t20/s6311/b/2/C/vi]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs6311%2Fb%2F2%2FC%2Fvi
+[/us/pl/114/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F95
+[/us/pl/114/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F95
+[/us/pl/114/95/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F95%2Fs5
+[/us/usc/t20/s6301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs6301
 
 

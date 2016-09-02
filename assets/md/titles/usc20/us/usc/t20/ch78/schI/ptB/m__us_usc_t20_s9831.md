@@ -31,7 +31,7 @@
 
     (4) to support statewide efforts to increase the availability of, and enrollment in, Advanced Placement or International Baccalaureate courses in mathematics, science, and critical foreign languages, and pre-Advanced Placement or pre-International Baccalaureate courses in such subjects, in high-need schools.
 
-([Pub. L. 110–69, title VI, § 6121][/us/pl/110/69/s6121], Aug. 9, 2007, [121 Stat. 634][/us/stat/121/634].)
+([Pub. L. 110–69, title VI][/us/pl/110/69/tVI], § 6121, Aug. 9, 2007, [121 Stat. 634][/us/stat/121/634].)
 
 ----------
 
@@ -40,7 +40,7 @@
 ----------
 ----------
 
-[/us/pl/110/69/s6121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F69%2Fs6121
+[/us/pl/110/69/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F69%2FtVI
 [/us/stat/121/634]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F634
 
 

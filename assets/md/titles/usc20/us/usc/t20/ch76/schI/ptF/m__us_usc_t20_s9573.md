@@ -107,15 +107,15 @@
 
             An officer or employee of the Department who, in good faith, produces information in accordance with an order issued under this subsection does not violate subsection (b)(2)  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably means subsection (d)(2). </sup></sup>  of this section and shall not be liable to any person for that production.
 
-([Pub. L. 107–279, title I, § 183][/us/pl/107/279/s183], title IV, § 401(a)(6), Nov. 5, 2002, [116 Stat. 1972][/us/stat/116/1972], 1983.)
+([Pub. L. 107–279, title I][/us/pl/107/279/tI], § 183, title IV, § 401(a)(6), Nov. 5, 2002, [116 Stat. 1972][/us/stat/116/1972], 1983.)
 
  __Codification__ 
 
-    Subsecs. (a) to (c) of [section 9007 of this title][/us/usc/t20/s9007], which were transferred to this section and redesignated subsecs. (c) to (e) by [Pub. L. 107–279, § 401(a)(6)][/us/pl/107/279/s401/a/6], were based on [Pub. L. 103–382, title IV, § 408(a)][/us/pl/103/382/s408/a] to (c), Oct. 20, 1994, [108 Stat. 4034][/us/stat/108/4034]; [Pub. L. 107–56, title V, § 508][/us/pl/107/56/s508], Oct. 26, 2001, [115 Stat. 368][/us/stat/115/368]; [Pub. L. 107–279, title IV, § 401(a)(1)][/us/pl/107/279/s401/a/1]–(5), Nov. 5, 2002, [116 Stat. 1983][/us/stat/116/1983].
+    Subsecs. (a) to (c) of [section 9007 of this title][/us/usc/t20/s9007], which were transferred to this section and redesignated subsecs. (c) to (e) by [Pub. L. 107–279][/us/pl/107/279], § 401(a)(6), were based on [Pub. L. 103–382, title IV][/us/pl/103/382/tIV], § 408(a) to (c), Oct. 20, 1994, [108 Stat. 4034][/us/stat/108/4034]; [Pub. L. 107–56, title V][/us/pl/107/56/tV], § 508, Oct. 26, 2001, [115 Stat. 368][/us/stat/115/368]; [Pub. L. 107–279, title IV][/us/pl/107/279/tIV], § 401(a)(1)–(5), Nov. 5, 2002, [116 Stat. 1983][/us/stat/116/1983].
 
  __Amendments__ 
 
-    2002—Subsecs. (c) to (e). [Pub. L. 107–279, § 401(a)(6)][/us/pl/107/279/s401/a/6], transferred subsecs. (a) to (c) of [section 9007 of this title][/us/usc/t20/s9007] to this section and redesignated them as subsecs. (c) to (e), respectively. See Codification note above.
+    2002—Subsecs. (c) to (e). [Pub. L. 107–279][/us/pl/107/279], § 401(a)(6), transferred subsecs. (a) to (c) of [section 9007 of this title][/us/usc/t20/s9007] to this section and redesignated them as subsecs. (c) to (e), respectively. See Codification note above.
 
 ----------
 
@@ -129,17 +129,17 @@
 [/us/usc/t18/s3571]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs3571
 [/us/usc/t18/s3571]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs3571
 [/us/usc/t18/s2332b/g/5/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs2332b%2Fg%2F5%2FB
-[/us/pl/107/279/s183]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F279%2Fs183
+[/us/pl/107/279/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F279%2FtI
 [/us/stat/116/1972]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1972
 [/us/usc/t20/s9007]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs9007
-[/us/pl/107/279/s401/a/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F279%2Fs401%2Fa%2F6
-[/us/pl/103/382/s408/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F382%2Fs408%2Fa
+[/us/pl/107/279]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F279
+[/us/pl/103/382/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F382%2FtIV
 [/us/stat/108/4034]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4034
-[/us/pl/107/56/s508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56%2Fs508
+[/us/pl/107/56/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56%2FtV
 [/us/stat/115/368]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F368
-[/us/pl/107/279/s401/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F279%2Fs401%2Fa%2F1
+[/us/pl/107/279/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F279%2FtIV
 [/us/stat/116/1983]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1983
-[/us/pl/107/279/s401/a/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F279%2Fs401%2Fa%2F6
+[/us/pl/107/279]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F279
 [/us/usc/t20/s9007]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs9007
 
 

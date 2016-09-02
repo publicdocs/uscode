@@ -17,7 +17,7 @@
 
     The Comptroller General of the United States shall conduct evaluations of the programs under sections 10006 and 10007 of this title which shall include, but not be limited to, the criteria used for the awards made, the States selected for awards, award amounts, how each State used the award received, and the impact of this funding on the progress made toward closing achievement gaps.
 
-([Pub. L. 111–5, div. A, title XIV, § 14009][/us/pl/111/5/s14009], Feb. 17, 2009, [123 Stat. 285][/us/stat/123/285].)
+([Pub. L. 111–5, div. A, title XIV][/us/pl/111/5/dA/tXIV], § 14009, Feb. 17, 2009, [123 Stat. 285][/us/stat/123/285].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/111/5/s14009]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5%2Fs14009
+[/us/pl/111/5/dA/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5%2FdA%2FtXIV
 [/us/stat/123/285]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F285
 
 

@@ -27,7 +27,7 @@
 
          strengthen the academic and career and technical skills of students participating in career and technical education programs, by strengthening the academic and career and technical education components of such programs through the integration of academics with career and technical education programs through a coherent sequence of courses, such as career and technical programs of study described in [section 2342(c)(1)(A) of this title][/us/usc/t20/s2342/c/1/A], to ensure learning in—
 
-            (A) the core academic subjects (as defined in [section 7801 of this title][/us/usc/t20/s7801]); and
+            (A) a well-rounded education (as defined in [section 7801 of this title][/us/usc/t20/s7801]); and
 
             (B) career and technical education subjects;
 
@@ -169,23 +169,29 @@
 
         Each eligible recipient receiving funds under this part shall not use more than 5 percent of the funds for administrative costs associated with the administration of activities assisted under this section.
 
-([Pub. L. 88–210, title I, § 135][/us/pl/88/210/s135], as added [Pub. L. 109–270, § 1(b)][/us/pl/109/270/s1/b], Aug. 12, 2006, [120 Stat. 734][/us/stat/120/734]; amended [Pub. L. 113–128, title V, § 512(e)(6)][/us/pl/113/128/s512/e/6], July 22, 2014, [128 Stat. 1707][/us/stat/128/1707].)
+([Pub. L. 88–210, title I][/us/pl/88/210/tI], § 135, as added [Pub. L. 109–270][/us/pl/109/270], § 1(b), Aug. 12, 2006, [120 Stat. 734][/us/stat/120/734]; amended [Pub. L. 113–128, title V][/us/pl/113/128/tV], § 512(e)(6), July 22, 2014, [128 Stat. 1707][/us/stat/128/1707]; [Pub. L. 114–95, title IX][/us/pl/114/95/tIX], § 9215(n)(9), Dec. 10, 2015, [129 Stat. 2170][/us/stat/129/2170].)
 
  __Prior Provisions__ 
 
-    A prior section 2355, [Pub. L. 88–210, title I, § 135][/us/pl/88/210/s135], as added [Pub. L. 105–332, § 1(b)][/us/pl/105/332/s1/b], Oct. 31, 1998, [112 Stat. 3115][/us/stat/112/3115], related to local uses of funds, prior to the general amendment of this chapter by [Pub. L. 109–270][/us/pl/109/270].
+    A prior section 2355, [Pub. L. 88–210, title I][/us/pl/88/210/tI], § 135, as added [Pub. L. 105–332][/us/pl/105/332], § 1(b), Oct. 31, 1998, [112 Stat. 3115][/us/stat/112/3115], related to local uses of funds, prior to the general amendment of this chapter by [Pub. L. 109–270][/us/pl/109/270].
 
     Prior sections 2361 to 2363 were omitted in the general amendment of this chapter by [Pub. L. 105–332][/us/pl/105/332].
 
-    Section 2361, [Pub. L. 88–210, title III, § 311][/us/pl/88/210/s311], as added [Pub. L. 98–524, § 1][/us/pl/98/524/s1], Oct. 19, 1984, [98 Stat. 2458][/us/stat/98/2458]; amended [Pub. L. 99–159, title VII, § 706(b)][/us/pl/99/159/s706/b], Nov. 22, 1985, [99 Stat. 906][/us/stat/99/906]; [Pub. L. 101–392, title III, § 302][/us/pl/101/392/s302], Sept. 25, 1990, [104 Stat. 786][/us/stat/104/786], related to consumer and homemaking education grants.
+    Section 2361, [Pub. L. 88–210, title III][/us/pl/88/210/tIII], § 311, as added [Pub. L. 98–524][/us/pl/98/524], § 1, Oct. 19, 1984, [98 Stat. 2458][/us/stat/98/2458]; amended [Pub. L. 99–159, title VII][/us/pl/99/159/tVII], § 706(b), Nov. 22, 1985, [99 Stat. 906][/us/stat/99/906]; [Pub. L. 101–392, title III][/us/pl/101/392/tIII], § 302, Sept. 25, 1990, [104 Stat. 786][/us/stat/104/786], related to consumer and homemaking education grants.
 
-    Section 2362, [Pub. L. 88–210, title III, § 312][/us/pl/88/210/s312], as added [Pub. L. 98–524, § 1][/us/pl/98/524/s1], Oct. 19, 1984, [98 Stat. 2458][/us/stat/98/2458]; amended [Pub. L. 99–159, title VII, § 706(c)][/us/pl/99/159/s706/c], Nov. 22, 1985, [99 Stat. 906][/us/stat/99/906]; [Pub. L. 101–392, title III, § 303][/us/pl/101/392/s303], Sept. 25, 1990, [104 Stat. 786][/us/stat/104/786], related to use of funds from consumer and homemaking education grants.
+    Section 2362, [Pub. L. 88–210, title III][/us/pl/88/210/tIII], § 312, as added [Pub. L. 98–524][/us/pl/98/524], § 1, Oct. 19, 1984, [98 Stat. 2458][/us/stat/98/2458]; amended [Pub. L. 99–159, title VII][/us/pl/99/159/tVII], § 706(c), Nov. 22, 1985, [99 Stat. 906][/us/stat/99/906]; [Pub. L. 101–392, title III][/us/pl/101/392/tIII], § 303, Sept. 25, 1990, [104 Stat. 786][/us/stat/104/786], related to use of funds from consumer and homemaking education grants.
 
-    Section 2363, [Pub. L. 88–210, title III, § 313][/us/pl/88/210/s313], as added [Pub. L. 98–524, § 1][/us/pl/98/524/s1], Oct. 19, 1984, [98 Stat. 2459][/us/stat/98/2459]; amended [Pub. L. 99–159, title VII, § 707][/us/pl/99/159/s707], Nov. 22, 1985, [99 Stat. 906][/us/stat/99/906]; [Pub. L. 101–392, title III, § 304][/us/pl/101/392/s304], Sept. 25, 1990, [104 Stat. 786][/us/stat/104/786], related to information dissemination and leadership.
+    Section 2363, [Pub. L. 88–210, title III][/us/pl/88/210/tIII], § 313, as added [Pub. L. 98–524][/us/pl/98/524], § 1, Oct. 19, 1984, [98 Stat. 2459][/us/stat/98/2459]; amended [Pub. L. 99–159, title VII][/us/pl/99/159/tVII], § 707, Nov. 22, 1985, [99 Stat. 906][/us/stat/99/906]; [Pub. L. 101–392, title III][/us/pl/101/392/tIII], § 304, Sept. 25, 1990, [104 Stat. 786][/us/stat/104/786], related to information dissemination and leadership.
 
  __Amendments__ 
 
+    2015—Subsec. (b)(1)(A). [Pub. L. 114–95][/us/pl/114/95] substituted “a well-rounded education (as defined in [section 7801 of this title][/us/usc/t20/s7801])” for “the core academic subjects (as defined in [section 7801 of this title][/us/usc/t20/s7801])”.
+
     2014—Subsec. (c)(16). [Pub. L. 113–128][/us/pl/113/128] substituted “such as through referral to the system established under [section 3151 of title 29][/us/usc/t29/s3151]” for “such as through referral to the system established under [section 2841 of title 29][/us/usc/t29/s2841]”.
+
+ __Effective Date of 2015 Amendment__ 
+
+    Amendment by [Pub. L. 114–95][/us/pl/114/95] effective Dec. 10, 2015, except with respect to certain noncompetitive programs and competitive programs, see [section 5 of Pub. L. 114–95][/us/pl/114/95/s5], set out as a note under [section 6301 of this title][/us/usc/t20/s6301].
 
  __Effective Date of 2014 Amendment__ 
 
@@ -205,40 +211,48 @@
 [/us/usc/t20/s2328]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs2328
 [/us/usc/t29/s3151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3151
 [/us/usc/t20/s2342/c/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs2342%2Fc%2F1%2FA
-[/us/pl/88/210/s135]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F210%2Fs135
-[/us/pl/109/270/s1/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F270%2Fs1%2Fb
+[/us/pl/88/210/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F210%2FtI
+[/us/pl/109/270]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F270
 [/us/stat/120/734]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F734
-[/us/pl/113/128/s512/e/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs512%2Fe%2F6
+[/us/pl/113/128/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2FtV
 [/us/stat/128/1707]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1707
-[/us/pl/88/210/s135]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F210%2Fs135
-[/us/pl/105/332/s1/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F332%2Fs1%2Fb
+[/us/pl/114/95/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F95%2FtIX
+[/us/stat/129/2170]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F2170
+[/us/pl/88/210/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F210%2FtI
+[/us/pl/105/332]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F332
 [/us/stat/112/3115]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F3115
 [/us/pl/109/270]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F270
 [/us/pl/105/332]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F332
-[/us/pl/88/210/s311]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F210%2Fs311
-[/us/pl/98/524/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F524%2Fs1
+[/us/pl/88/210/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F210%2FtIII
+[/us/pl/98/524]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F524
 [/us/stat/98/2458]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2458
-[/us/pl/99/159/s706/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F159%2Fs706%2Fb
+[/us/pl/99/159/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F159%2FtVII
 [/us/stat/99/906]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F906
-[/us/pl/101/392/s302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F392%2Fs302
+[/us/pl/101/392/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F392%2FtIII
 [/us/stat/104/786]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F786
-[/us/pl/88/210/s312]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F210%2Fs312
-[/us/pl/98/524/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F524%2Fs1
+[/us/pl/88/210/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F210%2FtIII
+[/us/pl/98/524]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F524
 [/us/stat/98/2458]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2458
-[/us/pl/99/159/s706/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F159%2Fs706%2Fc
+[/us/pl/99/159/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F159%2FtVII
 [/us/stat/99/906]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F906
-[/us/pl/101/392/s303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F392%2Fs303
+[/us/pl/101/392/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F392%2FtIII
 [/us/stat/104/786]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F786
-[/us/pl/88/210/s313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F210%2Fs313
-[/us/pl/98/524/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F524%2Fs1
+[/us/pl/88/210/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F210%2FtIII
+[/us/pl/98/524]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F524
 [/us/stat/98/2459]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2459
-[/us/pl/99/159/s707]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F159%2Fs707
+[/us/pl/99/159/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F159%2FtVII
 [/us/stat/99/906]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F906
-[/us/pl/101/392/s304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F392%2Fs304
+[/us/pl/101/392/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F392%2FtIII
 [/us/stat/104/786]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F786
+[/us/pl/114/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F95
+[/us/usc/t20/s7801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs7801
+[/us/usc/t20/s7801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs7801
 [/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
 [/us/usc/t29/s3151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3151
 [/us/usc/t29/s2841]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs2841
+[/us/pl/114/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F95
+[/us/pl/114/95/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F95%2Fs5
+[/us/usc/t20/s6301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs6301
 [/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
 [/us/pl/113/128/s506]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs506
 [/us/usc/t29/s3101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3101

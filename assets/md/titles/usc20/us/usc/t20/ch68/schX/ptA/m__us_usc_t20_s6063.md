@@ -51,7 +51,7 @@
 
         From funds appropriated to the Secretary for research related to individuals with disabilities the Secretary shall make available $600,000 for fiscal year 1994, and such sums as may be necessary for fiscal year 1995, to carry out this section. Amounts made available under this subsection shall remain available until expended.
 
-([Pub. L. 103–227, title X, § 1015][/us/pl/103/227/s1015], Mar. 31, 1994, [108 Stat. 266][/us/stat/108/266].)
+([Pub. L. 103–227, title X][/us/pl/103/227/tX], § 1015, Mar. 31, 1994, [108 Stat. 266][/us/stat/108/266].)
 
  __References in Text__ 
 
@@ -67,7 +67,7 @@
 [/us/usc/t20/s5801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs5801
 [/us/usc/t20/s1401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1401
 [/us/usc/t20/s5801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs5801
-[/us/pl/103/227/s1015]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F227%2Fs1015
+[/us/pl/103/227/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F227%2FtX
 [/us/stat/108/266]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F266
 [/us/pl/103/227]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F227
 [/us/stat/108/125]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F125

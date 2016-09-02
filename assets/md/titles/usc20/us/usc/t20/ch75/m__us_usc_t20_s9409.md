@@ -79,7 +79,7 @@
 
                 (vi) ensure that training and research is made available to Local Councils and that such training and research reflects the latest available brain development and early childhood development research related to early learning.
 
-([Pub. L. 106–554, § 1(a)(1)][/us/pl/106/554/s1/a/1] \[title VIII, § 810\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–85; [Pub. L. 110–134, § 29(b)][/us/pl/110/134/s29/b], Dec. 12, 2007, [121 Stat. 1449][/us/stat/121/1449].)
+([Pub. L. 106–554][/us/pl/106/554], § 1(a)(1) \[title VIII, § 810\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–85; [Pub. L. 110–134][/us/pl/110/134], § 29(b), Dec. 12, 2007, [121 Stat. 1449][/us/stat/121/1449].)
 
  __Amendments__ 
 
@@ -96,9 +96,9 @@
 [/us/usc/t42/s9835/a/2/B/vi]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs9835%2Fa%2F2%2FB%2Fvi
 [/us/usc/t20/s9411]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs9411
 [/us/usc/t20/s9412]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs9412
-[/us/pl/106/554/s1/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F1
+[/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
 [/us/stat/114/2763]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2763
-[/us/pl/110/134/s29/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F134%2Fs29%2Fb
+[/us/pl/110/134]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F134
 [/us/stat/121/1449]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F1449
 [/us/pl/110/134]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F134
 [/us/usc/t42/s9835/a/2/B/vi]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs9835%2Fa%2F2%2FB%2Fvi

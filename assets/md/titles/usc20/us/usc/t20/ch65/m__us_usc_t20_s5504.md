@@ -81,7 +81,7 @@
 
         (4) Individuals selected for participation in the program may be provided with a stipend to cover travel and accommodations from grant funds awarded pursuant to this section in such amounts as the Administrator determines to be appropriate.
 
-([Pub. L. 101–619, § 5][/us/pl/101/619/s5], Nov. 16, 1990, [104 Stat. 3328][/us/stat/104/3328].)
+([Pub. L. 101–619][/us/pl/101/619], § 5, Nov. 16, 1990, [104 Stat. 3328][/us/stat/104/3328].)
 
 ----------
 
@@ -90,7 +90,7 @@
 ----------
 ----------
 
-[/us/pl/101/619/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F619%2Fs5
+[/us/pl/101/619]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F619
 [/us/stat/104/3328]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3328
 
 

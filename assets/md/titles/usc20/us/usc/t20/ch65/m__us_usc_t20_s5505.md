@@ -69,7 +69,7 @@
 
         Grants under this section shall not exceed $250,000. In addition, 25 percent of all funds obligated under this section in a fiscal year shall be for grants of not more than $5,000.
 
-([Pub. L. 101–619, § 6][/us/pl/101/619/s6], Nov. 16, 1990, [104 Stat. 3330][/us/stat/104/3330].)
+([Pub. L. 101–619][/us/pl/101/619], § 6, Nov. 16, 1990, [104 Stat. 3330][/us/stat/104/3330].)
 
 ----------
 
@@ -79,7 +79,7 @@
 ----------
 
 [/us/usc/t20/s5508/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs5508%2Fd
-[/us/pl/101/619/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F619%2Fs6
+[/us/pl/101/619]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F619
 [/us/stat/104/3330]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3330
 
 

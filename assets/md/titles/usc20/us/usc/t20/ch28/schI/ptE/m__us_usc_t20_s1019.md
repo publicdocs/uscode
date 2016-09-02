@@ -99,11 +99,11 @@
 
         The term “private education loan” has the meaning given the term in [section 1650 of title 15][/us/usc/t15/s1650].
 
-([Pub. L. 89–329, title I, § 151][/us/pl/89/329/s151], as added [Pub. L. 110–315, title I, § 120][/us/pl/110/315/s120], Aug. 14, 2008, [122 Stat. 3117][/us/stat/122/3117].)
+([Pub. L. 89–329, title I][/us/pl/89/329/tI], § 151, as added [Pub. L. 110–315, title I][/us/pl/110/315/tI], § 120, Aug. 14, 2008, [122 Stat. 3117][/us/stat/122/3117].)
 
  __Prior Provisions__ 
 
-    A prior section 1019, [Pub. L. 89–329, title I, § 119][/us/pl/89/329/s119], as added [Pub. L. 96–374, title I, § 101(a)][/us/pl/96/374/s101/a], Oct. 3, 1980, [94 Stat. 1383][/us/stat/94/1383], authorized appropriations for education outreach programs, prior to the general amendment of this subchapter by [Pub. L. 99–498][/us/pl/99/498].
+    A prior section 1019, [Pub. L. 89–329, title I][/us/pl/89/329/tI], § 119, as added [Pub. L. 96–374, title I][/us/pl/96/374/tI], § 101(a), Oct. 3, 1980, [94 Stat. 1383][/us/stat/94/1383], authorized appropriations for education outreach programs, prior to the general amendment of this subchapter by [Pub. L. 99–498][/us/pl/99/498].
 
 ----------
 
@@ -117,11 +117,11 @@
 [/us/usc/t15/s1650]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1650
 [/us/usc/t20/s1099d/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1099d%2Fb
 [/us/usc/t15/s1650]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1650
-[/us/pl/89/329/s151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2Fs151
-[/us/pl/110/315/s120]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2Fs120
+[/us/pl/89/329/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2FtI
+[/us/pl/110/315/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2FtI
 [/us/stat/122/3117]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3117
-[/us/pl/89/329/s119]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2Fs119
-[/us/pl/96/374/s101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F374%2Fs101%2Fa
+[/us/pl/89/329/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2FtI
+[/us/pl/96/374/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F374%2FtI
 [/us/stat/94/1383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F1383
 [/us/pl/99/498]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F498
 

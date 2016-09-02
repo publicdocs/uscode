@@ -35,15 +35,15 @@
 
     (9) to promote library services that provide users with access to information through national, State, local, regional, and international collaborations and networks.
 
-([Pub. L. 94–462, title II, § 212][/us/pl/94/462/s212], as added [Pub. L. 104–208, div. A, title I, § 101(e)][/us/pl/104/208/s101/e] \[title VII, § 702\], Sept. 30, 1996, [110 Stat. 3009–233][/us/stat/110/3009-233], 3009–295; amended [Pub. L. 108–81, title II, § 201][/us/pl/108/81/s201], Sept. 25, 2003, [117 Stat. 997][/us/stat/117/997]; [Pub. L. 111–340, title II, § 201][/us/pl/111/340/s201], Dec. 22, 2010, [124 Stat. 3599][/us/stat/124/3599].)
+([Pub. L. 94–462, title II][/us/pl/94/462/tII], § 212, as added [Pub. L. 104–208, div. A, title I][/us/pl/104/208/dA/tI], § 101(e) \[title VII, § 702\], Sept. 30, 1996, [110 Stat. 3009–233][/us/stat/110/3009-233], 3009–295; amended [Pub. L. 108–81, title II][/us/pl/108/81/tII], § 201, Sept. 25, 2003, [117 Stat. 997][/us/stat/117/997]; [Pub. L. 111–340, title II][/us/pl/111/340/tII], § 201, Dec. 22, 2010, [124 Stat. 3599][/us/stat/124/3599].)
 
  __Amendments__ 
 
-    2010—Par. (1). [Pub. L. 111–340, § 201(1)][/us/pl/111/340/s201/1], added par. (1) and struck out former par. (1) which read as follows: “to consolidate Federal library service programs;”.
+    2010—Par. (1). [Pub. L. 111–340][/us/pl/111/340], § 201(1), added par. (1) and struck out former par. (1) which read as follows: “to consolidate Federal library service programs;”.
 
-    Par. (2). [Pub. L. 111–340, § 201(2)][/us/pl/111/340/s201/2], inserted “continuous” after “promote”.
+    Par. (2). [Pub. L. 111–340][/us/pl/111/340], § 201(2), inserted “continuous” after “promote”.
 
-    Pars. (5) to (9). [Pub. L. 111–340, § 201(3)][/us/pl/111/340/s201/3]–(5), added pars. (5) to (9).
+    Pars. (5) to (9). [Pub. L. 111–340][/us/pl/111/340], § 201(3)–(5), added pars. (5) to (9).
 
     2003—Pars. (2) to (5). [Pub. L. 108–81][/us/pl/108/81] added pars. (2) to (4) and struck out former pars. (2) to (5) which read as follows:
 
@@ -62,16 +62,16 @@
 ----------
 ----------
 
-[/us/pl/94/462/s212]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F462%2Fs212
-[/us/pl/104/208/s101/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs101%2Fe
+[/us/pl/94/462/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F462%2FtII
+[/us/pl/104/208/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2FdA%2FtI
 [/us/stat/110/3009-233]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3009-233
-[/us/pl/108/81/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F81%2Fs201
+[/us/pl/108/81/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F81%2FtII
 [/us/stat/117/997]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F997
-[/us/pl/111/340/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F340%2Fs201
+[/us/pl/111/340/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F340%2FtII
 [/us/stat/124/3599]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3599
-[/us/pl/111/340/s201/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F340%2Fs201%2F1
-[/us/pl/111/340/s201/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F340%2Fs201%2F2
-[/us/pl/111/340/s201/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F340%2Fs201%2F3
+[/us/pl/111/340]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F340
+[/us/pl/111/340]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F340
+[/us/pl/111/340]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F340
 [/us/pl/108/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F81
 
 

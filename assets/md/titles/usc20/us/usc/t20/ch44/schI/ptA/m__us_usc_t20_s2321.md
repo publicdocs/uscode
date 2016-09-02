@@ -181,19 +181,19 @@
 
         For the purpose of this section, the term “State” means each of the several States of the United States, the District of Columbia, the Commonwealth of Puerto Rico, and the United States Virgin Islands.
 
-([Pub. L. 88–210, title I, § 111][/us/pl/88/210/s111], as added [Pub. L. 109–270, § 1(b)][/us/pl/109/270/s1/b], Aug. 12, 2006, [120 Stat. 691][/us/stat/120/691].)
+([Pub. L. 88–210, title I][/us/pl/88/210/tI], § 111, as added [Pub. L. 109–270][/us/pl/109/270], § 1(b), Aug. 12, 2006, [120 Stat. 691][/us/stat/120/691].)
 
  __References in Text__ 
 
-    Paragraphs (1)(C) and (2), as such paragraphs were in effect on the day before August 12, 2006, referred to in subsec. (a)(4)(B)(ii)(I), (C)(i), (D)(i)(II)(aa), (bb), mean paragraphs (1)(C) and (2) of [section 2321(a) of this title][/us/usc/t20/s2321/a], as added by [Pub. L. 105–332, § 1(b)][/us/pl/105/332/s1/b], Oct. 31, 1998, [112 Stat. 3083][/us/stat/112/3083], as amended, prior to the general amendment of this chapter by [Pub. L. 109–270, § 1(b)][/us/pl/109/270/s1/b], Aug. 12, 2006, [120 Stat. 691][/us/stat/120/691]. See Prior Provisions note below.
+    Paragraphs (1)(C) and (2), as such paragraphs were in effect on the day before August 12, 2006, referred to in subsec. (a)(4)(B)(ii)(I), (C)(i), (D)(i)(II)(aa), (bb), mean paragraphs (1)(C) and (2) of [section 2321(a) of this title][/us/usc/t20/s2321/a], as added by [Pub. L. 105–332][/us/pl/105/332], § 1(b), Oct. 31, 1998, [112 Stat. 3083][/us/stat/112/3083], as amended, prior to the general amendment of this chapter by [Pub. L. 109–270][/us/pl/109/270], § 1(b), Aug. 12, 2006, [120 Stat. 691][/us/stat/120/691]. See Prior Provisions note below.
 
-    Part A of title I of the Carl D. Perkins Vocational and Applied Technology Education Act, as such part was in effect on the day before October 31, 1998, referred to in subsec. (a)(5)(A), means part A of title I of [Pub. L. 88–210][/us/pl/88/210], as added by [Pub. L. 98–524, § 1][/us/pl/98/524/s1], Oct. 19, 1984, [98 Stat. 2438][/us/stat/98/2438], as amended, which was classified to part A (§ 2311 et seq.) of subchapter I of this chapter prior to the general amendment of this chapter by [Pub. L. 105–332, § 1(b)][/us/pl/105/332/s1/b], Oct. 31, 1998, [112 Stat. 3076][/us/stat/112/3076].
+    Part A of title I of the Carl D. Perkins Vocational and Applied Technology Education Act, as such part was in effect on the day before October 31, 1998, referred to in subsec. (a)(5)(A), means part A of title I of [Pub. L. 88–210][/us/pl/88/210], as added by [Pub. L. 98–524][/us/pl/98/524], § 1, Oct. 19, 1984, [98 Stat. 2438][/us/stat/98/2438], as amended, which was classified to part A (§ 2311 et seq.) of subchapter I of this chapter prior to the general amendment of this chapter by [Pub. L. 105–332][/us/pl/105/332], § 1(b), Oct. 31, 1998, [112 Stat. 3076][/us/stat/112/3076].
 
  __Prior Provisions__ 
 
-    A prior section 2321, [Pub. L. 88–210, title I, § 111][/us/pl/88/210/s111], as added [Pub. L. 105–332, § 1(b)][/us/pl/105/332/s1/b], Oct. 31, 1998, [112 Stat. 3083][/us/stat/112/3083]; amended [Pub. L. 106–246, div. B, title II, § 2403(b)][/us/pl/106/246/s2403/b], July 13, 2000, [114 Stat. 555][/us/stat/114/555], related to reservations and State allotment, prior to the general amendment of this chapter by [Pub. L. 109–270][/us/pl/109/270].
+    A prior section 2321, [Pub. L. 88–210, title I][/us/pl/88/210/tI], § 111, as added [Pub. L. 105–332][/us/pl/105/332], § 1(b), Oct. 31, 1998, [112 Stat. 3083][/us/stat/112/3083]; amended [Pub. L. 106–246, div. B, title II][/us/pl/106/246/dB/tII], § 2403(b), July 13, 2000, [114 Stat. 555][/us/stat/114/555], related to reservations and State allotment, prior to the general amendment of this chapter by [Pub. L. 109–270][/us/pl/109/270].
 
-    Another prior section 2321, [Pub. L. 88–210, title I, § 111][/us/pl/88/210/s111], as added [Pub. L. 98–524, § 1][/us/pl/98/524/s1], Oct. 19, 1984, [98 Stat. 2441][/us/stat/98/2441]; amended [Pub. L. 101–392, title I, § 111][/us/pl/101/392/s111], Sept. 25, 1990, [104 Stat. 763][/us/stat/104/763]; [Pub. L. 103–382, title III, § 391(s)(1)][/us/pl/103/382/s391/s/1], Oct. 20, 1994, [108 Stat. 4024][/us/stat/108/4024], related to State administration, prior to the general amendment of this chapter by [Pub. L. 105–332][/us/pl/105/332].
+    Another prior section 2321, [Pub. L. 88–210, title I][/us/pl/88/210/tI], § 111, as added [Pub. L. 98–524][/us/pl/98/524], § 1, Oct. 19, 1984, [98 Stat. 2441][/us/stat/98/2441]; amended [Pub. L. 101–392, title I][/us/pl/101/392/tI], § 111, Sept. 25, 1990, [104 Stat. 763][/us/stat/104/763]; [Pub. L. 103–382, title III][/us/pl/103/382/tIII], § 391(s)(1), Oct. 20, 1994, [108 Stat. 4024][/us/stat/108/4024], related to State administration, prior to the general amendment of this chapter by [Pub. L. 105–332][/us/pl/105/332].
 
 ----------
 
@@ -214,31 +214,31 @@
 [/us/usc/t20/s2307]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs2307
 [/us/usc/t20/s2307]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs2307
 [/us/usc/t20/s2311]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs2311
-[/us/pl/88/210/s111]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F210%2Fs111
-[/us/pl/109/270/s1/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F270%2Fs1%2Fb
+[/us/pl/88/210/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F210%2FtI
+[/us/pl/109/270]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F270
 [/us/stat/120/691]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F691
 [/us/usc/t20/s2321/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs2321%2Fa
-[/us/pl/105/332/s1/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F332%2Fs1%2Fb
+[/us/pl/105/332]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F332
 [/us/stat/112/3083]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F3083
-[/us/pl/109/270/s1/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F270%2Fs1%2Fb
+[/us/pl/109/270]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F270
 [/us/stat/120/691]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F691
 [/us/pl/88/210]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F210
-[/us/pl/98/524/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F524%2Fs1
+[/us/pl/98/524]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F524
 [/us/stat/98/2438]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2438
-[/us/pl/105/332/s1/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F332%2Fs1%2Fb
+[/us/pl/105/332]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F332
 [/us/stat/112/3076]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F3076
-[/us/pl/88/210/s111]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F210%2Fs111
-[/us/pl/105/332/s1/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F332%2Fs1%2Fb
+[/us/pl/88/210/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F210%2FtI
+[/us/pl/105/332]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F332
 [/us/stat/112/3083]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F3083
-[/us/pl/106/246/s2403/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F246%2Fs2403%2Fb
+[/us/pl/106/246/dB/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F246%2FdB%2FtII
 [/us/stat/114/555]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F555
 [/us/pl/109/270]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F270
-[/us/pl/88/210/s111]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F210%2Fs111
-[/us/pl/98/524/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F524%2Fs1
+[/us/pl/88/210/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F210%2FtI
+[/us/pl/98/524]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F524
 [/us/stat/98/2441]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2441
-[/us/pl/101/392/s111]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F392%2Fs111
+[/us/pl/101/392/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F392%2FtI
 [/us/stat/104/763]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F763
-[/us/pl/103/382/s391/s/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F382%2Fs391%2Fs%2F1
+[/us/pl/103/382/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F382%2FtIII
 [/us/stat/108/4024]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4024
 [/us/pl/105/332]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F332
 

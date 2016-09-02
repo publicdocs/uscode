@@ -37,17 +37,17 @@
 
         (B) a program for Native Hawaiian culture and arts development.
 
-([Pub. L. 99–498, title XV, § 1502][/us/pl/99/498/s1502], Oct. 17, 1986, [100 Stat. 1600][/us/stat/100/1600].)
+([Pub. L. 99–498, title XV][/us/pl/99/498/tXV], § 1502, Oct. 17, 1986, [100 Stat. 1600][/us/stat/100/1600].)
 
  __Short Title of 1994 Amendment__ 
 
-[Pub. L. 103–239, title VII, § 721][/us/pl/103/239/s721], May 4, 1994, [108 Stat. 606][/us/stat/108/606], provided that: 
+[Pub. L. 103–239, title VII][/us/pl/103/239/tVII], § 721, May 4, 1994, [108 Stat. 606][/us/stat/108/606], provided that: 
 
 > “This title \[probably should be “subtitle” meaning subtitle C \[§§ 721, 722\] of title VII of [Pub. L. 103–239][/us/pl/103/239], amending [section 4441 of this title][/us/usc/t20/s4441]\] may be cited as the ‘Alaska Native Culture and Arts Development Act’.”
 
  __Short Title__ 
 
-[Pub. L. 99–498, title XV, § 1501][/us/pl/99/498/s1501], Oct. 17, 1986, [100 Stat. 1600][/us/stat/100/1600], provided that: 
+[Pub. L. 99–498, title XV][/us/pl/99/498/tXV], § 1501, Oct. 17, 1986, [100 Stat. 1600][/us/stat/100/1600], provided that: 
 
 > “This title \[enacting this chapter\] may be cited as the ‘American Indian, Alaska Native, and Native Hawaiian Culture and Art Development Act’.”
 
@@ -58,13 +58,13 @@
 ----------
 ----------
 
-[/us/pl/99/498/s1502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F498%2Fs1502
+[/us/pl/99/498/tXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F498%2FtXV
 [/us/stat/100/1600]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1600
-[/us/pl/103/239/s721]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F239%2Fs721
+[/us/pl/103/239/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F239%2FtVII
 [/us/stat/108/606]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F606
 [/us/pl/103/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F239
 [/us/usc/t20/s4441]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs4441
-[/us/pl/99/498/s1501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F498%2Fs1501
+[/us/pl/99/498/tXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F498%2FtXV
 [/us/stat/100/1600]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1600
 
 

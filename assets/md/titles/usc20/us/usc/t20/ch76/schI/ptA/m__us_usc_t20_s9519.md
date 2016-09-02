@@ -25,7 +25,7 @@
 
     (4) Such additional comments, recommendations, and materials as the Director considers appropriate.
 
-([Pub. L. 107–279, title I, § 119][/us/pl/107/279/s119], Nov. 5, 2002, [116 Stat. 1953][/us/stat/116/1953].)
+([Pub. L. 107–279, title I][/us/pl/107/279/tI], § 119, Nov. 5, 2002, [116 Stat. 1953][/us/stat/116/1953].)
 
 ----------
 
@@ -34,7 +34,7 @@
 ----------
 ----------
 
-[/us/pl/107/279/s119]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F279%2Fs119
+[/us/pl/107/279/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F279%2FtI
 [/us/stat/116/1953]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1953
 
 

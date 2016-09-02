@@ -17,7 +17,7 @@
 
     There is authorized to be appropriated $2,000,000 for the purposes authorized under [section 130aa–1 of this title][/us/usc/t20/s130aa–1]. Funds appropriated under this section shall remain available until expended.
 
-([Pub. L. 98–480, title II, § 207][/us/pl/98/480/s207], Oct. 17, 1984, [98 Stat. 2247][/us/stat/98/2247].)
+([Pub. L. 98–480, title II][/us/pl/98/480/tII], § 207, Oct. 17, 1984, [98 Stat. 2247][/us/stat/98/2247].)
 
 ----------
 
@@ -27,7 +27,7 @@
 ----------
 
 [/us/usc/t20/s130aa–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs130aa%E2%80%931
-[/us/pl/98/480/s207]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F480%2Fs207
+[/us/pl/98/480/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F480%2FtII
 [/us/stat/98/2247]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2247
 
 

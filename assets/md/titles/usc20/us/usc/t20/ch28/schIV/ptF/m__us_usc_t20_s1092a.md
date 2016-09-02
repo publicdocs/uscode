@@ -61,25 +61,25 @@
 
         Repayment of a combined payment plan shall commence within 60 days after the later of the date of acceptance of the lender’s offer to administer a combined payment plan, the making of the consolidation loan or the reissuance of any Health Education Assistance Loans pursuant to subsection (e) of this section.
 
-([Pub. L. 89–329, title IV, § 485A][/us/pl/89/329/s485A], as added [Pub. L. 99–498, title IV, § 407(a)][/us/pl/99/498/s407/a], Oct. 17, 1986, [100 Stat. 1484][/us/stat/100/1484]; amended [Pub. L. 100–50, § 15(12)][/us/pl/100/50/s15/12], June 3, 1987, [101 Stat. 357][/us/stat/101/357]; [Pub. L. 111–39, title IV, § 407(b)(6)][/us/pl/111/39/s407/b/6], July 1, 2009, [123 Stat. 1951][/us/stat/123/1951].)
+([Pub. L. 89–329, title IV][/us/pl/89/329/tIV], § 485A, as added [Pub. L. 99–498, title IV][/us/pl/99/498/tIV], § 407(a), Oct. 17, 1986, [100 Stat. 1484][/us/stat/100/1484]; amended [Pub. L. 100–50][/us/pl/100/50], § 15(12), June 3, 1987, [101 Stat. 357][/us/stat/101/357]; [Pub. L. 111–39, title IV][/us/pl/111/39/tIV], § 407(b)(6), July 1, 2009, [123 Stat. 1951][/us/stat/123/1951].)
 
  __References in Text__ 
 
-    The Public Health Service Act, referred to in subsecs. (a), (b), (e), and (f), is [act July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], [58 Stat. 682][/us/stat/58/682], which is classified generally to chapter 6A (§ 201 et seq.) of Title 42, The Public Health and Welfare. Part A of title VII of the Act is classified generally to part A (§ 292 et seq.) of subchapter V of chapter 6A of Title 42. Section 729 of the Act was classified to [section 294b of Title 42][/us/usc/t42/s294b] and was omitted in the general revision of subchapter V of chapter 6A by [Pub. L. 102–408, title I, § 102][/us/pl/102/408/s102], Oct. 13, 1992, [106 Stat. 1994][/us/stat/106/1994]. For complete classification of this Act to the Code, see Short Title note set out under [section 201 of Title 42][/us/usc/t42/s201] and Tables.
+    The Public Health Service Act, referred to in subsecs. (a), (b), (e), and (f), is [act July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], [58 Stat. 682][/us/stat/58/682], which is classified generally to chapter 6A (§ 201 et seq.) of Title 42, The Public Health and Welfare. Part A of title VII of the Act is classified generally to part A (§ 292 et seq.) of subchapter V of chapter 6A of Title 42. Section 729 of the Act was classified to [section 294b of Title 42][/us/usc/t42/s294b] and was omitted in the general revision of subchapter V of chapter 6A by [Pub. L. 102–408, title I][/us/pl/102/408/tI], § 102, Oct. 13, 1992, [106 Stat. 1994][/us/stat/106/1994]. For complete classification of this Act to the Code, see Short Title note set out under [section 201 of Title 42][/us/usc/t42/s201] and Tables.
 
  __Amendments__ 
 
-    2009—Subsec. (a). [Pub. L. 111–39, § 407(b)(6)(A)][/us/pl/111/39/s407/b/6/A], substituted “or an eligible lender as defined in section 719 of the Public Health Service Act ([42 U.S.C. 292][/us/usc/t42/s292]o)” for “or defined in subpart I of part C of title VII of the Public Health Service Act” and “under part A of title VII of the Public Health Service Act ([42 U.S.C. 292][/us/usc/t42/s292] et seq.)” for “under subpart I of part C of title VII of the Public Health Service Act (known as Health Education Assistance Loans)”.
+    2009—Subsec. (a). [Pub. L. 111–39][/us/pl/111/39], § 407(b)(6)(A), substituted “or an eligible lender as defined in section 719 of the Public Health Service Act ([42 U.S.C. 292][/us/usc/t42/s292]o)” for “or defined in subpart I of part C of title VII of the Public Health Service Act” and “under part A of title VII of the Public Health Service Act ([42 U.S.C. 292][/us/usc/t42/s292] et seq.)” for “under subpart I of part C of title VII of the Public Health Service Act (known as Health Education Assistance Loans)”.
 
-    Subsec. (b). [Pub. L. 111–39, § 407(b)(6)(B)][/us/pl/111/39/s407/b/6/B], substituted “part A of title VII of the Public Health Service Act ([42 U.S.C. 292][/us/usc/t42/s292] et seq.)” for “subpart I of part C of title VII of the Public Health Service Act”.
+    Subsec. (b). [Pub. L. 111–39][/us/pl/111/39], § 407(b)(6)(B), substituted “part A of title VII of the Public Health Service Act ([42 U.S.C. 292][/us/usc/t42/s292] et seq.)” for “subpart I of part C of title VII of the Public Health Service Act”.
 
-    Subsec. (e). [Pub. L. 111–39, § 407(b)(6)(C)(i)][/us/pl/111/39/s407/b/6/C/i], substituted “loan under part A of title VII of the Public Health Service Act ([42 U.S.C. 292][/us/usc/t42/s292] et seq.)” for “Health Education Assistance Loan” in introductory provisions.
+    Subsec. (e). [Pub. L. 111–39][/us/pl/111/39], § 407(b)(6)(C)(i), substituted “loan under part A of title VII of the Public Health Service Act ([42 U.S.C. 292][/us/usc/t42/s292] et seq.)” for “Health Education Assistance Loan” in introductory provisions.
 
-    Subsec. (e)(2). [Pub. L. 111–39, § 407(b)(6)(C)(ii)][/us/pl/111/39/s407/b/6/C/ii], substituted “707(e)(3)” for “733(e)(3)”.
+    Subsec. (e)(2). [Pub. L. 111–39][/us/pl/111/39], § 407(b)(6)(C)(ii), substituted “707(e)(3)” for “733(e)(3)”.
 
-    Subsec. (f)(1). [Pub. L. 111–39, § 407(b)(6)(D)(i)][/us/pl/111/39/s407/b/6/D/i], substituted “part A of title VII of the Public Health Service Act ([42 U.S.C. 292][/us/usc/t42/s292] et seq.)” for “subpart I of part C of title VII of the Public Health Service Act” and “710” for “728(a)”.
+    Subsec. (f)(1). [Pub. L. 111–39][/us/pl/111/39], § 407(b)(6)(D)(i), substituted “part A of title VII of the Public Health Service Act ([42 U.S.C. 292][/us/usc/t42/s292] et seq.)” for “subpart I of part C of title VII of the Public Health Service Act” and “710” for “728(a)”.
 
-    Subsec. (f)(2). [Pub. L. 111–39, § 407(b)(6)(D)(ii)][/us/pl/111/39/s407/b/6/D/ii], substituted “part A of title VII of the Public Health Service Act ([42 U.S.C. 292][/us/usc/t42/s292] et seq.)” for “subpart I of part C of title VII of the Public Health Service Act”.
+    Subsec. (f)(2). [Pub. L. 111–39][/us/pl/111/39], § 407(b)(6)(D)(ii), substituted “part A of title VII of the Public Health Service Act ([42 U.S.C. 292][/us/usc/t42/s292] et seq.)” for “subpart I of part C of title VII of the Public Health Service Act”.
 
     1987—Subsec. (a). [Pub. L. 100–50][/us/pl/100/50] substituted “subparagraph (A), (B), or (C)” for “clause (i), (ii), or (iii)”.
 
@@ -112,30 +112,30 @@
 [/us/usc/t42/s292i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs292i
 [/us/usc/t42/s292]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs292
 [/us/usc/t42/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs201
-[/us/pl/89/329/s485A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2Fs485A
-[/us/pl/99/498/s407/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F498%2Fs407%2Fa
+[/us/pl/89/329/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2FtIV
+[/us/pl/99/498/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F498%2FtIV
 [/us/stat/100/1484]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1484
-[/us/pl/100/50/s15/12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F50%2Fs15%2F12
+[/us/pl/100/50]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F50
 [/us/stat/101/357]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F357
-[/us/pl/111/39/s407/b/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F39%2Fs407%2Fb%2F6
+[/us/pl/111/39/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F39%2FtIV
 [/us/stat/123/1951]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1951
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
 [/us/stat/58/682]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F58%2F682
 [/us/usc/t42/s294b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs294b
-[/us/pl/102/408/s102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F408%2Fs102
+[/us/pl/102/408/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F408%2FtI
 [/us/stat/106/1994]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F1994
 [/us/usc/t42/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs201
-[/us/pl/111/39/s407/b/6/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F39%2Fs407%2Fb%2F6%2FA
+[/us/pl/111/39]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F39
 [/us/usc/t42/s292]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs292
 [/us/usc/t42/s292]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs292
-[/us/pl/111/39/s407/b/6/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F39%2Fs407%2Fb%2F6%2FB
+[/us/pl/111/39]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F39
 [/us/usc/t42/s292]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs292
-[/us/pl/111/39/s407/b/6/C/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F39%2Fs407%2Fb%2F6%2FC%2Fi
+[/us/pl/111/39]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F39
 [/us/usc/t42/s292]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs292
-[/us/pl/111/39/s407/b/6/C/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F39%2Fs407%2Fb%2F6%2FC%2Fii
-[/us/pl/111/39/s407/b/6/D/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F39%2Fs407%2Fb%2F6%2FD%2Fi
+[/us/pl/111/39]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F39
+[/us/pl/111/39]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F39
 [/us/usc/t42/s292]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs292
-[/us/pl/111/39/s407/b/6/D/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F39%2Fs407%2Fb%2F6%2FD%2Fii
+[/us/pl/111/39]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F39
 [/us/usc/t42/s292]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs292
 [/us/pl/100/50]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F50
 [/us/pl/111/39]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F39

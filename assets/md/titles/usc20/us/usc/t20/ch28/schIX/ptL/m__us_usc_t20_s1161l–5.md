@@ -23,11 +23,11 @@
 
     (3) to affect [section 1232g of this title][/us/usc/t20/s1232g] (commonly known as the “Family Educational Rights and Privacy Act of 1974”) or the regulations issued under section 264 of the Health Insurance Portability and Accountability Act of 1996 ([42 U.S.C. 1320d–2][/us/usc/t42/s1320d–2] note).
 
-([Pub. L. 89–329, title VIII, § 826][/us/pl/89/329/s826], as added [Pub. L. 110–315, title VIII, § 801][/us/pl/110/315/s801], Aug. 14, 2008, [122 Stat. 3412][/us/stat/122/3412]; amended [Pub. L. 111–39, title VIII, § 801(9)][/us/pl/111/39/s801/9], July 1, 2009, [123 Stat. 1956][/us/stat/123/1956].)
+([Pub. L. 89–329, title VIII][/us/pl/89/329/tVIII], § 826, as added [Pub. L. 110–315, title VIII][/us/pl/110/315/tVIII], § 801, Aug. 14, 2008, [122 Stat. 3412][/us/stat/122/3412]; amended [Pub. L. 111–39, title VIII][/us/pl/111/39/tVIII], § 801(9), July 1, 2009, [123 Stat. 1956][/us/stat/123/1956].)
 
  __References in Text__ 
 
-    Section 264 of the Health Insurance Portability and Accountability Act of 1996, referred to in par. (3), is [section 264 of title II of Pub. L. 104–191][/us/pl/104/191/s264], Aug. 21, 1996, [110 Stat. 2033][/us/stat/110/2033], which is set out as a note under [section 1320d–2 of Title 42][/us/usc/t42/s1320d–2], The Public Health and Welfare.
+    Section 264 of the Health Insurance Portability and Accountability Act of 1996, referred to in par. (3), is [section 264 of title II of Pub. L. 104–191][/us/pl/104/191/tII/s264], Aug. 21, 1996, [110 Stat. 2033][/us/stat/110/2033], which is set out as a note under [section 1320d–2 of Title 42][/us/usc/t42/s1320d–2], The Public Health and Welfare.
 
  __Amendments__ 
 
@@ -46,12 +46,12 @@
 
 [/us/usc/t20/s1232g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1232g
 [/us/usc/t42/s1320d–2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1320d%E2%80%932
-[/us/pl/89/329/s826]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2Fs826
-[/us/pl/110/315/s801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2Fs801
+[/us/pl/89/329/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2FtVIII
+[/us/pl/110/315/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2FtVIII
 [/us/stat/122/3412]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3412
-[/us/pl/111/39/s801/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F39%2Fs801%2F9
+[/us/pl/111/39/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F39%2FtVIII
 [/us/stat/123/1956]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1956
-[/us/pl/104/191/s264]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F191%2Fs264
+[/us/pl/104/191/tII/s264]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F191%2FtII%2Fs264
 [/us/stat/110/2033]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2033
 [/us/usc/t42/s1320d–2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1320d%E2%80%932
 [/us/pl/111/39]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F39

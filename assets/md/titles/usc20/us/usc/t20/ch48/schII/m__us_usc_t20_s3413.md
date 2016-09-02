@@ -37,7 +37,7 @@
 
         (4) notwithstanding any other provision of this chapter, to obtain services as authorized by [section 3109 of title 5][/us/usc/t5/s3109] at a rate not to exceed the equivalent daily rate payable for grade GS–18 of the General Schedule under section 5332 of such title.
 
-([Pub. L. 96–88, title II, § 203][/us/pl/96/88/s203], Oct. 17, 1979, [93 Stat. 673][/us/stat/93/673].)
+([Pub. L. 96–88, title II][/us/pl/96/88/tII], § 203, Oct. 17, 1979, [93 Stat. 673][/us/stat/93/673].)
 
  __Termination of Reporting Requirements__ 
 
@@ -58,7 +58,7 @@
 [/us/usc/t20/s3472]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs3472
 [/us/usc/t20/s3441/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs3441%2Fa%2F3
 [/us/usc/t5/s3109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs3109
-[/us/pl/96/88/s203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F88%2Fs203
+[/us/pl/96/88/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F88%2FtII
 [/us/stat/93/673]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F673
 [/us/pl/104/66/s3003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F66%2Fs3003
 [/us/usc/t31/s1113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1113

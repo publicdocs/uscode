@@ -41,7 +41,7 @@
 
         Funds made available to the National Endowment for the Arts shall be used to carry out this section.
 
-([Pub. L. 98–306, § 13][/us/pl/98/306/s13], May 31, 1984, [98 Stat. 225][/us/stat/98/225].)
+([Pub. L. 98–306][/us/pl/98/306], § 13, May 31, 1984, [98 Stat. 225][/us/stat/98/225].)
 
  __Codification__ 
 
@@ -55,7 +55,7 @@
 ----------
 
 [/us/usc/t8/s1445]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1445
-[/us/pl/98/306/s13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F306%2Fs13
+[/us/pl/98/306]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F306
 [/us/stat/98/225]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F225
 
 

@@ -29,7 +29,7 @@
 
         The Secretary shall not waive, under subsection (b) of this section, the non-Federal share requirement for any program for applications which, if approved, would require the expenditure of more than 10 percent of the appropriations for the program for any fiscal year.
 
-([Pub. L. 89–329, title III, § 395][/us/pl/89/329/s395], formerly § 356, as added [Pub. L. 99–498, title III, § 301(a)][/us/pl/99/498/s301/a], Oct. 17, 1986, [100 Stat. 1306][/us/stat/100/1306]; amended [Pub. L. 102–325, title III, § 305(d)][/us/pl/102/325/s305/d], July 23, 1992, [106 Stat. 478][/us/stat/106/478]; [Pub. L. 104–208, div. A, title I, § 101(e)][/us/pl/104/208/s101/e] \[title VII, § 709(d)\], Sept. 30, 1996, [110 Stat. 3009–233][/us/stat/110/3009-233], 3009–314; renumbered § 395 and amended [Pub. L. 105–244, title III][/us/pl/105/244], §§ 301(a)(2), 308(f), Oct. 7, 1998, [112 Stat. 1636][/us/stat/112/1636], 1649.)
+([Pub. L. 89–329, title III][/us/pl/89/329/tIII], § 395, formerly § 356, as added [Pub. L. 99–498, title III][/us/pl/99/498/tIII], § 301(a), Oct. 17, 1986, [100 Stat. 1306][/us/stat/100/1306]; amended [Pub. L. 102–325, title III][/us/pl/102/325/tIII], § 305(d), July 23, 1992, [106 Stat. 478][/us/stat/106/478]; [Pub. L. 104–208, div. A, title I][/us/pl/104/208/dA/tI], § 101(e) \[title VII, § 709(d)\], Sept. 30, 1996, [110 Stat. 3009–233][/us/stat/110/3009-233], 3009–314; renumbered § 395 and amended [Pub. L. 105–244, title III][/us/pl/105/244/tIII], §§ 301(a)(2), 308(f), Oct. 7, 1998, [112 Stat. 1636][/us/stat/112/1636], 1649.)
 
  __Codification__ 
 
@@ -37,7 +37,7 @@
 
  __Amendments__ 
 
-    1998—Subsec. (b)(2). [Pub. L. 105–244, § 308(f)][/us/pl/105/244/s308/f], substituted “part D of this subchapter or subchapter IV of this chapter” for “subchapter IV, VII, or VIII of this chapter”.
+    1998—Subsec. (b)(2). [Pub. L. 105–244][/us/pl/105/244], § 308(f), substituted “part D of this subchapter or subchapter IV of this chapter” for “subchapter IV, VII, or VIII of this chapter”.
 
     1996—Subsec. (b)(2). [Pub. L. 104–208][/us/pl/104/208] struck out “II,” after “authorized by subchapter”.
 
@@ -58,18 +58,18 @@
 ----------
 ----------
 
-[/us/pl/89/329/s395]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2Fs395
-[/us/pl/99/498/s301/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F498%2Fs301%2Fa
+[/us/pl/89/329/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2FtIII
+[/us/pl/99/498/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F498%2FtIII
 [/us/stat/100/1306]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1306
-[/us/pl/102/325/s305/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325%2Fs305%2Fd
+[/us/pl/102/325/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325%2FtIII
 [/us/stat/106/478]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F478
-[/us/pl/104/208/s101/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs101%2Fe
+[/us/pl/104/208/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2FdA%2FtI
 [/us/stat/110/3009-233]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3009-233
-[/us/pl/105/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244
+[/us/pl/105/244/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2FtIII
 [/us/stat/112/1636]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F1636
 [/us/usc/t20/s1069b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1069b
 [/us/pl/105/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244
-[/us/pl/105/244/s308/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2Fs308%2Ff
+[/us/pl/105/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244
 [/us/pl/104/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208
 [/us/pl/102/325]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325
 [/us/pl/105/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244

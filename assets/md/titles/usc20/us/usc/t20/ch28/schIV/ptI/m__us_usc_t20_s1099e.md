@@ -17,7 +17,7 @@
 
  __Codification__ 
 
-    Section, [Pub. L. 89–329, title IV, § 499A][/us/pl/89/329/s499A], as added [Pub. L. 110–84, title VIII, § 802][/us/pl/110/84/s802], Sept. 27, 2007, [121 Stat. 817][/us/stat/121/817], which related to investment in historically Black colleges and universities and other minority-serving institutions, was transferred to [section 1067q of this title][/us/usc/t20/s1067q].
+    Section, [Pub. L. 89–329, title IV][/us/pl/89/329/tIV], § 499A, as added [Pub. L. 110–84, title VIII][/us/pl/110/84/tVIII], § 802, Sept. 27, 2007, [121 Stat. 817][/us/stat/121/817], which related to investment in historically Black colleges and universities and other minority-serving institutions, was transferred to [section 1067q of this title][/us/usc/t20/s1067q].
 
 ----------
 
@@ -26,8 +26,8 @@
 ----------
 ----------
 
-[/us/pl/89/329/s499A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2Fs499A
-[/us/pl/110/84/s802]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F84%2Fs802
+[/us/pl/89/329/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2FtIV
+[/us/pl/110/84/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F84%2FtVIII
 [/us/stat/121/817]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F817
 [/us/usc/t20/s1067q]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1067q
 

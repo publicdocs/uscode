@@ -11,44 +11,16 @@
 ----------
 ----------
 
-[Previous](./../../../../../../..//us/usc/t20/ch62/schI/ptC/spt1/m__us_usc_t20_ch62_schI_ptC_spt1.md) | [Next](./../../../../../../..//us/usc/t20/ch62/schI/ptC/spt3/m__us_usc_t20_ch62_schI_ptC_spt3.md) | [Root of Title](./../../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fch62%2FschI%2FptC%2Fspt2)
+[Previous](./../../../../../../..//us/usc/t20/ch62/schI/ptC/spt1/m__us_usc_t20_s5051...5057.md) | [Next](./../../../../../../..//us/usc/t20/ch62/schI/ptC/spt2/m__us_usc_t20_s5061...5066.md) | [Root of Title](./../../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fch62%2FschI%2FptC%2Fspt2)
 
 ##### subpart 2—assistance to provide basic skills improvement
 
-§§ 5061 to 5066. __Repealed.__  __[__  __Pub. L. 103–382, title III, § 391(i)__  __][/us/pl/103/382/s391/i]__  __, (k),__  __Oct. 20, 1994__  __,__  __[__  __108 Stat. 4023__  __][/us/stat/108/4023]__ 
-
-    Section 5061, [Pub. L. 100–418, title VI, § 6071][/us/pl/100/418/s6071], Aug. 23, 1988, [102 Stat. 1496][/us/stat/102/1496], provided that this subpart could be cited as the “Secondary Schools Basic Skills Demonstration Assistance Act of 1988”.
-
-    Section 5062, [Pub. L. 100–418, title VI, § 6072][/us/pl/100/418/s6072], Aug. 23, 1988, [102 Stat. 1496][/us/stat/102/1496], stated purpose of this subpart.
-
-    Section 5063, [Pub. L. 100–418, title VI, § 6073][/us/pl/100/418/s6073], Aug. 23, 1988, [102 Stat. 1496][/us/stat/102/1496], authorized appropriations.
-
-    Section 5064, [Pub. L. 100–418, title VI, § 6074][/us/pl/100/418/s6074], Aug. 23, 1988, [102 Stat. 1496][/us/stat/102/1496], authorized grants to local educational agencies.
-
-    Section 5065, [Pub. L. 100–418, title VI, § 6075][/us/pl/100/418/s6075], Aug. 23, 1988, [102 Stat. 1496][/us/stat/102/1496], related to activities for which grants could be used.
-
-    Section 5066, [Pub. L. 100–418, title VI, § 6076][/us/pl/100/418/s6076], Aug. 23, 1988, [102 Stat. 1497][/us/stat/102/1497], related to applications for grants.
-
 ----------
 
-[Previous](./../../../../../../..//us/usc/t20/ch62/schI/ptC/spt1/m__us_usc_t20_ch62_schI_ptC_spt1.md) | [Next](./../../../../../../..//us/usc/t20/ch62/schI/ptC/spt3/m__us_usc_t20_ch62_schI_ptC_spt3.md) | [Root of Title](./../../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fch62%2FschI%2FptC%2Fspt2)
+[Previous](./../../../../../../..//us/usc/t20/ch62/schI/ptC/spt1/m__us_usc_t20_s5051...5057.md) | [Next](./../../../../../../..//us/usc/t20/ch62/schI/ptC/spt2/m__us_usc_t20_s5061...5066.md) | [Root of Title](./../../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fch62%2FschI%2FptC%2Fspt2)
 
 ----------
 ----------
 
-[/us/pl/103/382/s391/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F382%2Fs391%2Fi
-[/us/stat/108/4023]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4023
-[/us/pl/100/418/s6071]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2Fs6071
-[/us/stat/102/1496]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1496
-[/us/pl/100/418/s6072]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2Fs6072
-[/us/stat/102/1496]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1496
-[/us/pl/100/418/s6073]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2Fs6073
-[/us/stat/102/1496]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1496
-[/us/pl/100/418/s6074]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2Fs6074
-[/us/stat/102/1496]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1496
-[/us/pl/100/418/s6075]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2Fs6075
-[/us/stat/102/1496]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1496
-[/us/pl/100/418/s6076]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2Fs6076
-[/us/stat/102/1497]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1497
 
 

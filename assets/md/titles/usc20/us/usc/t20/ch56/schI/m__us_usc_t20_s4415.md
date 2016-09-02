@@ -23,7 +23,7 @@
 
         The President of the Institute shall be paid at a rate not to exceed the maximum rate of basic pay payable for grade GS–18 of the General Schedule.
 
-([Pub. L. 99–498, title XV, § 1508][/us/pl/99/498/s1508], Oct. 17, 1986, [100 Stat. 1604][/us/stat/100/1604].)
+([Pub. L. 99–498, title XV][/us/pl/99/498/tXV], § 1508, Oct. 17, 1986, [100 Stat. 1604][/us/stat/100/1604].)
 
  __References in Other Laws to GS–16, 17, or 18 Pay Rates__ 
 
@@ -36,7 +36,7 @@
 ----------
 ----------
 
-[/us/pl/99/498/s1508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F498%2Fs1508
+[/us/pl/99/498/tXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F498%2FtXV
 [/us/stat/100/1604]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1604
 [/us/pl/101/509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F509
 [/us/usc/t5/s5376]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5376

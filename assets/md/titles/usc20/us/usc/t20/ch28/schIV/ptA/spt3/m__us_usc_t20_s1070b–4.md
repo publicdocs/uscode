@@ -29,7 +29,7 @@
 
             An eligible institution may make grants to students after the end of the academic year, but prior to the beginning of the succeeding fiscal year, from such succeeding fiscal year’s appropriations.
 
-([Pub. L. 89–329, title IV, § 413E][/us/pl/89/329/s413E], as added [Pub. L. 105–244, title IV, § 406(d)][/us/pl/105/244/s406/d], Oct. 7, 1998, [112 Stat. 1665][/us/stat/112/1665].)
+([Pub. L. 89–329, title IV][/us/pl/89/329/tIV], § 413E, as added [Pub. L. 105–244, title IV][/us/pl/105/244/tIV], § 406(d), Oct. 7, 1998, [112 Stat. 1665][/us/stat/112/1665].)
 
  __Effective Date__ 
 
@@ -42,8 +42,8 @@
 ----------
 ----------
 
-[/us/pl/89/329/s413E]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2Fs413E
-[/us/pl/105/244/s406/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2Fs406%2Fd
+[/us/pl/89/329/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2FtIV
+[/us/pl/105/244/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2FtIV
 [/us/stat/112/1665]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F1665
 [/us/pl/105/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244
 [/us/pl/105/244/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2Fs3

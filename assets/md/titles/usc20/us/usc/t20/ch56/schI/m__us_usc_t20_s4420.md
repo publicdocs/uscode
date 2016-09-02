@@ -27,7 +27,7 @@
 
         (3) For purposes of chapter 171 of title 28, the President of the Institute shall be deemed the head of the Agency.
 
-([Pub. L. 99–498, title XV, § 1513][/us/pl/99/498/s1513], Oct. 17, 1986, [100 Stat. 1608][/us/stat/100/1608]; [Pub. L. 100–446, title II][/us/pl/100/446], Sept. 27, 1988, [102 Stat. 1818][/us/stat/102/1818].)
+([Pub. L. 99–498, title XV][/us/pl/99/498/tXV], § 1513, Oct. 17, 1986, [100 Stat. 1608][/us/stat/100/1608]; [Pub. L. 100–446, title II][/us/pl/100/446/tII], Sept. 27, 1988, [102 Stat. 1818][/us/stat/102/1818].)
 
  __Amendments__ 
 
@@ -40,9 +40,9 @@
 ----------
 ----------
 
-[/us/pl/99/498/s1513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F498%2Fs1513
+[/us/pl/99/498/tXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F498%2FtXV
 [/us/stat/100/1608]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1608
-[/us/pl/100/446]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F446
+[/us/pl/100/446/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F446%2FtII
 [/us/stat/102/1818]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1818
 [/us/pl/100/446]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F446
 

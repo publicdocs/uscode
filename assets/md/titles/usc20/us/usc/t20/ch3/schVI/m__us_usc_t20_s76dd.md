@@ -17,11 +17,11 @@
 
     The Board of Regents of the Smithsonian Institution may appoint and fix the compensation and duties of a director and, subject to his supervision, an administrator and two curators of the Joseph H. Hirshhorn Museum and Sculpture Garden, none of whose appointment, compensation, or duties shall be subject to the civil service laws or chapter 51 and subchapter III of chapter 53 of title 5. The Board of Regents may employ such other officers and employees as may be necessary for the efficient administration, operation, and maintenance of the Joseph H. Hirshhorn Museum and Sculpture Garden.
 
-([Pub. L. 89–788, § 4][/us/pl/89/788/s4], Nov. 7, 1966, [80 Stat. 1404][/us/stat/80/1404].)
+([Pub. L. 89–788][/us/pl/89/788], § 4, Nov. 7, 1966, [80 Stat. 1404][/us/stat/80/1404].)
 
  __Codification__ 
 
-    “Chapter 51 and subchapter III of chapter 53 of title 5” substituted in text for “the Classification Act of 1949, as amended” on authority of [Pub. L. 89–554, § 7(b)][/us/pl/89/554/s7/b], Sept. 6, 1966, [80 Stat. 631][/us/stat/80/631], the first section of which enacted Title 5, Government Organization and Employees.
+    “Chapter 51 and subchapter III of chapter 53 of title 5” substituted in text for “the Classification Act of 1949, as amended” on authority of [Pub. L. 89–554][/us/pl/89/554], § 7(b), Sept. 6, 1966, [80 Stat. 631][/us/stat/80/631], the first section of which enacted Title 5, Government Organization and Employees.
 
 ----------
 
@@ -30,9 +30,9 @@
 ----------
 ----------
 
-[/us/pl/89/788/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F788%2Fs4
+[/us/pl/89/788]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F788
 [/us/stat/80/1404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F1404
-[/us/pl/89/554/s7/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554%2Fs7%2Fb
+[/us/pl/89/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554
 [/us/stat/80/631]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F631
 
 

@@ -39,7 +39,7 @@
 
             (B) in which a substantial portion of the functions of the facilities are subsumed in a religious mission.
 
-([Pub. L. 111–5, div. A, title XIV, § 14004][/us/pl/111/5/s14004], Feb. 17, 2009, [123 Stat. 281][/us/stat/123/281].)
+([Pub. L. 111–5, div. A, title XIV][/us/pl/111/5/dA/tXIV], § 14004, Feb. 17, 2009, [123 Stat. 281][/us/stat/123/281].)
 
 ----------
 
@@ -48,7 +48,7 @@
 ----------
 ----------
 
-[/us/pl/111/5/s14004]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5%2Fs14004
+[/us/pl/111/5/dA/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5%2FdA%2FtXIV
 [/us/stat/123/281]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F281
 
 

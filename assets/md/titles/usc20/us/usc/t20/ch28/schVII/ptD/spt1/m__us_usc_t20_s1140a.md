@@ -17,11 +17,11 @@
 
     It is the purpose of this subpart to support model demonstration projects to provide technical assistance or professional development for postsecondary faculty, staff, and administrators in institutions of higher education to enable such faculty, staff, and administrators to provide students with disabilities with a quality postsecondary education.
 
-([Pub. L. 89–329, title VII, § 761][/us/pl/89/329/s761], as added [Pub. L. 110–315, title VII, § 709(2)][/us/pl/110/315/s709/2], Aug. 14, 2008, [122 Stat. 3362][/us/stat/122/3362].)
+([Pub. L. 89–329, title VII][/us/pl/89/329/tVII], § 761, as added [Pub. L. 110–315, title VII][/us/pl/110/315/tVII], § 709(2), Aug. 14, 2008, [122 Stat. 3362][/us/stat/122/3362].)
 
  __Prior Provisions__ 
 
-    A prior section 1140a, [Pub. L. 89–329, title VII, § 762][/us/pl/89/329/s762], as added [Pub. L. 105–244, title VII, § 701][/us/pl/105/244/s701], Oct. 7, 1998, [112 Stat. 1801][/us/stat/112/1801], related to authorization of competitive grants, prior to repeal by [Pub. L. 110–315, title VII, § 709(2)][/us/pl/110/315/s709/2], Aug. 14, 2008, [122 Stat. 3361][/us/stat/122/3361].
+    A prior section 1140a, [Pub. L. 89–329, title VII][/us/pl/89/329/tVII], § 762, as added [Pub. L. 105–244, title VII][/us/pl/105/244/tVII], § 701, Oct. 7, 1998, [112 Stat. 1801][/us/stat/112/1801], related to authorization of competitive grants, prior to repeal by [Pub. L. 110–315, title VII][/us/pl/110/315/tVII], § 709(2), Aug. 14, 2008, [122 Stat. 3361][/us/stat/122/3361].
 
     A prior [section 761 of Pub. L. 89–329][/us/pl/89/329/s761] was classified to [section 1140 of this title][/us/usc/t20/s1140], prior to repeal by [Pub. L. 110–315][/us/pl/110/315].
 
@@ -36,13 +36,13 @@
 ----------
 ----------
 
-[/us/pl/89/329/s761]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2Fs761
-[/us/pl/110/315/s709/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2Fs709%2F2
+[/us/pl/89/329/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2FtVII
+[/us/pl/110/315/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2FtVII
 [/us/stat/122/3362]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3362
-[/us/pl/89/329/s762]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2Fs762
-[/us/pl/105/244/s701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2Fs701
+[/us/pl/89/329/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2FtVII
+[/us/pl/105/244/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2FtVII
 [/us/stat/112/1801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F1801
-[/us/pl/110/315/s709/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2Fs709%2F2
+[/us/pl/110/315/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2FtVII
 [/us/stat/122/3361]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3361
 [/us/pl/89/329/s761]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2Fs761
 [/us/usc/t20/s1140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1140

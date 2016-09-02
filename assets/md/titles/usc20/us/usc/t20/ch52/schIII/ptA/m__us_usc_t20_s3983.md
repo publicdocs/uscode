@@ -23,7 +23,7 @@
 
         There are authorized to be appropriated $50,000,000 for each of the fiscal years 1986 and 1987. There are authorized to be appropriated to carry out the provisions of this part $15,000,000 for fiscal year 1989 and such sums as may be necessary for each of the fiscal years 1990, 1991, 1992, and 1993.
 
-([Pub. L. 98–377, title III, § 304][/us/pl/98/377/s304], Aug. 11, 1984, [98 Stat. 1284][/us/stat/98/1284]; [Pub. L. 99–159, title II][/us/pl/99/159], §§ 231, 233, Nov. 22, 1985, [99 Stat. 900][/us/stat/99/900], 901; [Pub. L. 100–297, title II, § 2301][/us/pl/100/297/s2301], Apr. 28, 1988, [102 Stat. 319][/us/stat/102/319]; [Pub. L. 100–418, title VI, § 6031(b)(2)][/us/pl/100/418/s6031/b/2], Aug. 23, 1988, [102 Stat. 1483][/us/stat/102/1483].)
+([Pub. L. 98–377, title III][/us/pl/98/377/tIII], § 304, Aug. 11, 1984, [98 Stat. 1284][/us/stat/98/1284]; [Pub. L. 99–159, title II][/us/pl/99/159/tII], §§ 231, 233, Nov. 22, 1985, [99 Stat. 900][/us/stat/99/900], 901; [Pub. L. 100–297, title II][/us/pl/100/297/tII], § 2301, Apr. 28, 1988, [102 Stat. 319][/us/stat/102/319]; [Pub. L. 100–418, title VI][/us/pl/100/418/tVI], § 6031(b)(2), Aug. 23, 1988, [102 Stat. 1483][/us/stat/102/1483].)
 
  __Amendments__ 
 
@@ -31,9 +31,9 @@
 
     Subsec. (b). [Pub. L. 100–297][/us/pl/100/297] substituted “1986 and 1987” for “1986, 1987, and 1988, to carry out the provisions of this subchapter” and inserted provision authorizing appropriations to carry out provisions of this part of $15,000,000 for fiscal year 1989 and such sums as may be necessary for each of the fiscal years 1990, 1991, 1992, and 1993.
 
-    1985—Subsec. (a). [Pub. L. 99–159, § 231][/us/pl/99/159/s231], substituted “Secretary” for “Foundation”.
+    1985—Subsec. (a). [Pub. L. 99–159][/us/pl/99/159], § 231, substituted “Secretary” for “Foundation”.
 
-    Subsec. (b). [Pub. L. 99–159, § 233][/us/pl/99/159/s233], amended subsec. (b) generally, substituting authorizations of $50,000,000 for each of the fiscal years 1986, 1987, and 1988, for authorizations of $30,000,000 for fiscal year 1984 and $60,000,000 for fiscal year 1985.
+    Subsec. (b). [Pub. L. 99–159][/us/pl/99/159], § 233, amended subsec. (b) generally, substituting authorizations of $50,000,000 for each of the fiscal years 1986, 1987, and 1988, for authorizations of $30,000,000 for fiscal year 1984 and $60,000,000 for fiscal year 1985.
 
  __Effective Date of 1988 Amendment__ 
 
@@ -47,18 +47,18 @@
 ----------
 
 [/us/usc/t20/s3984]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs3984
-[/us/pl/98/377/s304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F377%2Fs304
+[/us/pl/98/377/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F377%2FtIII
 [/us/stat/98/1284]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F1284
-[/us/pl/99/159]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F159
+[/us/pl/99/159/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F159%2FtII
 [/us/stat/99/900]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F900
-[/us/pl/100/297/s2301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F297%2Fs2301
+[/us/pl/100/297/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F297%2FtII
 [/us/stat/102/319]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F319
-[/us/pl/100/418/s6031/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2Fs6031%2Fb%2F2
+[/us/pl/100/418/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2FtVI
 [/us/stat/102/1483]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1483
 [/us/pl/100/418]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418
 [/us/pl/100/297]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F297
-[/us/pl/99/159/s231]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F159%2Fs231
-[/us/pl/99/159/s233]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F159%2Fs233
+[/us/pl/99/159]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F159
+[/us/pl/99/159]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F159
 [/us/pl/100/297]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F297
 [/us/pl/100/297/s6303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F297%2Fs6303
 [/us/usc/t20/s1071]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1071

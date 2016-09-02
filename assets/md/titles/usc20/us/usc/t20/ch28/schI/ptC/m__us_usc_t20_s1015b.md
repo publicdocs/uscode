@@ -159,23 +159,23 @@
 
         The Secretary shall not promulgate regulations with respect to this section.
 
-([Pub. L. 89–329, title I, § 133][/us/pl/89/329/s133], as added [Pub. L. 110–315, title I, § 112(a)][/us/pl/110/315/s112/a], Aug. 14, 2008, [122 Stat. 3107][/us/stat/122/3107].)
+([Pub. L. 89–329, title I][/us/pl/89/329/tI], § 133, as added [Pub. L. 110–315, title I][/us/pl/110/315/tI], § 112(a), Aug. 14, 2008, [122 Stat. 3107][/us/stat/122/3107].)
 
  __Prior Provisions__ 
 
-    A prior section 1015b, [Pub. L. 89–329, title I, § 133][/us/pl/89/329/s133], as added [Pub. L. 102–325, title I, § 101][/us/pl/102/325/s101], July 23, 1992, [106 Stat. 466][/us/stat/106/466], related to activities for which grants could be used, prior to the general amendment of this subchapter by [Pub. L. 105–244][/us/pl/105/244].
+    A prior section 1015b, [Pub. L. 89–329, title I][/us/pl/89/329/tI], § 133, as added [Pub. L. 102–325, title I][/us/pl/102/325/tI], § 101, July 23, 1992, [106 Stat. 466][/us/stat/106/466], related to activities for which grants could be used, prior to the general amendment of this subchapter by [Pub. L. 105–244][/us/pl/105/244].
 
-    Another prior section 1015b, [Pub. L. 89–329, title I, § 133][/us/pl/89/329/s133], as added [Pub. L. 94–482, title I, § 101(g)(3)][/us/pl/94/482/s101/g/3], Oct. 12, 1976, [90 Stat. 2087][/us/stat/90/2087]; amended [Pub. L. 95–43, § 1(a)(4)][/us/pl/95/43/s1/a/4], June 15, 1977, [91 Stat. 213][/us/stat/91/213], related to implementation of lifelong learning program by Assistant Secretary, prior to the general amendment of this subchapter by [Pub. L. 96–374][/us/pl/96/374].
+    Another prior section 1015b, [Pub. L. 89–329, title I][/us/pl/89/329/tI], § 133, as added [Pub. L. 94–482, title I][/us/pl/94/482/tI], § 101(g)(3), Oct. 12, 1976, [90 Stat. 2087][/us/stat/90/2087]; amended [Pub. L. 95–43][/us/pl/95/43], § 1(a)(4), June 15, 1977, [91 Stat. 213][/us/stat/91/213], related to implementation of lifelong learning program by Assistant Secretary, prior to the general amendment of this subchapter by [Pub. L. 96–374][/us/pl/96/374].
 
  __Effective Date__ 
 
-[Pub. L. 110–315, title I, § 112(b)][/us/pl/110/315/s112/b], Aug. 14, 2008, [122 Stat. 3110][/us/stat/122/3110], provided that: 
+[Pub. L. 110–315, title I][/us/pl/110/315/tI], § 112(b), Aug. 14, 2008, [122 Stat. 3110][/us/stat/122/3110], provided that: 
 
 > “The amendment made by subsection (a) \[enacting this section\] shall take effect on July 1, 2010.”
 
  __Establishment of Pilot Program for Course Material Rental__ 
 
-[Pub. L. 110–315, title VIII, § 803][/us/pl/110/315/s803], Aug. 14, 2008, [122 Stat. 3449][/us/stat/122/3449], provided that:
+[Pub. L. 110–315, title VIII][/us/pl/110/315/tVIII], § 803, Aug. 14, 2008, [122 Stat. 3449][/us/stat/122/3449], provided that:
 
 >     “(a)  __Pilot Grant Program__  __.—__ 
 
@@ -219,22 +219,22 @@
 ----------
 
 [/us/usc/t20/s1002]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1002
-[/us/pl/89/329/s133]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2Fs133
-[/us/pl/110/315/s112/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2Fs112%2Fa
+[/us/pl/89/329/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2FtI
+[/us/pl/110/315/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2FtI
 [/us/stat/122/3107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3107
-[/us/pl/89/329/s133]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2Fs133
-[/us/pl/102/325/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325%2Fs101
+[/us/pl/89/329/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2FtI
+[/us/pl/102/325/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325%2FtI
 [/us/stat/106/466]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F466
 [/us/pl/105/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244
-[/us/pl/89/329/s133]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2Fs133
-[/us/pl/94/482/s101/g/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F482%2Fs101%2Fg%2F3
+[/us/pl/89/329/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2FtI
+[/us/pl/94/482/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F482%2FtI
 [/us/stat/90/2087]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2087
-[/us/pl/95/43/s1/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F43%2Fs1%2Fa%2F4
+[/us/pl/95/43]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F43
 [/us/stat/91/213]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F213
 [/us/pl/96/374]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F374
-[/us/pl/110/315/s112/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2Fs112%2Fb
+[/us/pl/110/315/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2FtI
 [/us/stat/122/3110]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3110
-[/us/pl/110/315/s803]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2Fs803
+[/us/pl/110/315/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2FtVIII
 [/us/stat/122/3449]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3449
 
 

@@ -31,7 +31,7 @@
 
         In carrying out the purposes of this subchapter, the Board shall consider the recommendations of the Commission established pursuant to [section 80n of this title][/us/usc/t20/s80n].
 
-([Pub. L. 95–414, § 3][/us/pl/95/414/s3], Oct. 5, 1978, [92 Stat. 911][/us/stat/92/911].)
+([Pub. L. 95–414][/us/pl/95/414], § 3, Oct. 5, 1978, [92 Stat. 911][/us/stat/92/911].)
 
 ----------
 
@@ -43,7 +43,7 @@
 [/us/usc/t20/s80k]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs80k
 [/us/usc/t20/s80k]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs80k
 [/us/usc/t20/s80n]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs80n
-[/us/pl/95/414/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F414%2Fs3
+[/us/pl/95/414]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F414
 [/us/stat/92/911]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F911
 
 

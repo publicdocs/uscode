@@ -39,7 +39,7 @@
 
         (3) is committed to making a good faith effort to respond to community cultural interests in such operation.
 
-([Pub. L. 101–185, § 9][/us/pl/101/185/s9], Nov. 28, 1989, [103 Stat. 1342][/us/stat/103/1342].)
+([Pub. L. 101–185][/us/pl/101/185], § 9, Nov. 28, 1989, [103 Stat. 1342][/us/stat/103/1342].)
 
 ----------
 
@@ -50,7 +50,7 @@
 
 [/us/usc/t26/s501/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs501%2Fc%2F3
 [/us/usc/t26/s501/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs501%2Fa
-[/us/pl/101/185/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F185%2Fs9
+[/us/pl/101/185]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F185
 [/us/stat/103/1342]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1342
 
 

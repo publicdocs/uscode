@@ -67,27 +67,27 @@
 
         (4) The President of the Institute shall provide for such other provisions governing the trust funds established under this section as may be necessary to protect the financial interest of the United States and to promote the purpose of this chapter as agreed to by the Secretary of the Treasury and the Board or its designee, including recordkeeping procedures for the investment of funds received under the trust fund established under subsection (b) of this section and such other recordkeeping procedures for the expenditure of accumulated interest for the trust fund under subsection (a) of this section as will allow the Secretary of the Treasury to audit and monitor activities under this section.
 
-([Pub. L. 99–498, title XV, § 1518][/us/pl/99/498/s1518], Oct. 17, 1986, [100 Stat. 1609][/us/stat/100/1609]; [Pub. L. 100–297, title V, § 5406(b)][/us/pl/100/297/s5406/b], Apr. 28, 1988, [102 Stat. 417][/us/stat/102/417]; [Pub. L. 101–644, title V, § 505][/us/pl/101/644/s505], Nov. 29, 1990, [104 Stat. 4669][/us/stat/104/4669]; [Pub. L. 102–325, title XIII, § 1331(j)][/us/pl/102/325/s1331/j], July 23, 1992, [106 Stat. 808][/us/stat/106/808]; [Pub. L. 103–382, title III, § 386(b)][/us/pl/103/382/s386/b], Oct. 20, 1994, [108 Stat. 4020][/us/stat/108/4020].)
+([Pub. L. 99–498, title XV][/us/pl/99/498/tXV], § 1518, Oct. 17, 1986, [100 Stat. 1609][/us/stat/100/1609]; [Pub. L. 100–297, title V][/us/pl/100/297/tV], § 5406(b), Apr. 28, 1988, [102 Stat. 417][/us/stat/102/417]; [Pub. L. 101–644, title V][/us/pl/101/644/tV], § 505, Nov. 29, 1990, [104 Stat. 4669][/us/stat/104/4669]; [Pub. L. 102–325, title XIII][/us/pl/102/325/tXIII], § 1331(j), July 23, 1992, [106 Stat. 808][/us/stat/106/808]; [Pub. L. 103–382, title III][/us/pl/103/382/tIII], § 386(b), Oct. 20, 1994, [108 Stat. 4020][/us/stat/108/4020].)
 
  __Amendments__ 
 
-    1994—Subsec. (b)(6). [Pub. L. 103–382, § 386(b)(1)][/us/pl/103/382/s386/b/1], added par. (6).
+    1994—Subsec. (b)(6). [Pub. L. 103–382][/us/pl/103/382], § 386(b)(1), added par. (6).
 
-    Subsec. (c)(1). [Pub. L. 103–382, § 386(b)(2)][/us/pl/103/382/s386/b/2], amended par. (1) generally. Prior to amendment, par. (1) read as follows: “Funds in the trust funds described in subsections (a) and (b) of this section shall be invested at a rate not less than that generally available for similar funds deposited at the same banking institution for the same period or periods of time.”
+    Subsec. (c)(1). [Pub. L. 103–382][/us/pl/103/382], § 386(b)(2), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “Funds in the trust funds described in subsections (a) and (b) of this section shall be invested at a rate not less than that generally available for similar funds deposited at the same banking institution for the same period or periods of time.”
 
-    1992—Subsec. (a)(3). [Pub. L. 102–325, § 1331(j)(1)(A)][/us/pl/102/325/s1331/j/1/A], substituted “November 29, 1990” for “the date of enactment of this Act”.
+    1992—Subsec. (a)(3). [Pub. L. 102–325][/us/pl/102/325], § 1331(j)(1)(A), substituted “November 29, 1990” for “the date of enactment of this Act”.
 
-    [Pub. L. 102–325, § 1331(j)(1)(B)][/us/pl/102/325/s1331/j/1/B], inserted at end “All funds transferred to the Institute by the Secretary of the Treasury after June 2, 1988, shall be deemed to have been properly transferred as of July 23, 1992.”
+    [Pub. L. 102–325][/us/pl/102/325], § 1331(j)(1)(B), inserted at end “All funds transferred to the Institute by the Secretary of the Treasury after June 2, 1988, shall be deemed to have been properly transferred as of July 23, 1992.”
 
-    Subsec. (b)(4). [Pub. L. 102–325, § 1331(j)(2)][/us/pl/102/325/s1331/j/2], inserted “, non-Federal governmental,” after “any private”.
+    Subsec. (b)(4). [Pub. L. 102–325][/us/pl/102/325], § 1331(j)(2), inserted “, non-Federal governmental,” after “any private”.
 
-    Subsec. (c)(3), (4). [Pub. L. 102–325, § 1331(j)(3)][/us/pl/102/325/s1331/j/3], added par. (3) and redesignated former par. (3) as (4).
+    Subsec. (c)(3), (4). [Pub. L. 102–325][/us/pl/102/325], § 1331(j)(3), added par. (3) and redesignated former par. (3) as (4).
 
     1990—[Pub. L. 101–644][/us/pl/101/644] amended section generally, substituting present provisions consisting of subsecs. (a) to (c) for former text which provided: in subsec. (a), establishment of program; in subsec. (b), use of funds; in subsec. (c), compliance with matching requirement; and in subsec. (d), payment of Federal contribution.
 
-    1988—Subsec. (a)(1). [Pub. L. 100–297, § 5406(b)(1)][/us/pl/100/297/s5406/b/1], substituted “From amounts appropriated under [section 4451(a) of this title][/us/usc/t20/s4451/a], not more than $500,000” for “From the amount appropriated pursuant to [section 4441(a) of this title][/us/usc/t20/s4441/a], the Secretary shall make available to the Institute not more than $500,000 which”.
+    1988—Subsec. (a)(1). [Pub. L. 100–297][/us/pl/100/297], § 5406(b)(1), substituted “From amounts appropriated under [section 4451(a) of this title][/us/usc/t20/s4451/a], not more than $500,000” for “From the amount appropriated pursuant to [section 4441(a) of this title][/us/usc/t20/s4441/a], the Secretary shall make available to the Institute not more than $500,000 which”.
 
-    Subsec. (d). [Pub. L. 100–297, § 5406(b)(2)][/us/pl/100/297/s5406/b/2], in subsec. heading substituted “Payment of Federal contribution” for “Allocation of funds”, and in text substituted “Amounts appropriated under [section 4451(a) of this title][/us/usc/t20/s4451/a] for use under this section shall be paid by the Secretary of the Treasury to the Institute as” for “From the amount appropriated pursuant to [section 4441(a) of this title][/us/usc/t20/s4441/a], the Secretary shall allocate to the Institute an amount for”.
+    Subsec. (d). [Pub. L. 100–297][/us/pl/100/297], § 5406(b)(2), in subsec. heading substituted “Payment of Federal contribution” for “Allocation of funds”, and in text substituted “Amounts appropriated under [section 4451(a) of this title][/us/usc/t20/s4451/a] for use under this section shall be paid by the Secretary of the Treasury to the Institute as” for “From the amount appropriated pursuant to [section 4441(a) of this title][/us/usc/t20/s4441/a], the Secretary shall allocate to the Institute an amount for”.
 
  __Effective Date of 1992 Amendment__ 
 
@@ -109,27 +109,27 @@
 [/us/usc/t20/s4451/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs4451%2Fa
 [/us/usc/t20/s4451/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs4451%2Fa
 [/us/usc/t20/s1065/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1065%2Fc%2F2
-[/us/pl/99/498/s1518]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F498%2Fs1518
+[/us/pl/99/498/tXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F498%2FtXV
 [/us/stat/100/1609]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1609
-[/us/pl/100/297/s5406/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F297%2Fs5406%2Fb
+[/us/pl/100/297/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F297%2FtV
 [/us/stat/102/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F417
-[/us/pl/101/644/s505]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F644%2Fs505
+[/us/pl/101/644/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F644%2FtV
 [/us/stat/104/4669]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4669
-[/us/pl/102/325/s1331/j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325%2Fs1331%2Fj
+[/us/pl/102/325/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325%2FtXIII
 [/us/stat/106/808]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F808
-[/us/pl/103/382/s386/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F382%2Fs386%2Fb
+[/us/pl/103/382/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F382%2FtIII
 [/us/stat/108/4020]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4020
-[/us/pl/103/382/s386/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F382%2Fs386%2Fb%2F1
-[/us/pl/103/382/s386/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F382%2Fs386%2Fb%2F2
-[/us/pl/102/325/s1331/j/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325%2Fs1331%2Fj%2F1%2FA
-[/us/pl/102/325/s1331/j/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325%2Fs1331%2Fj%2F1%2FB
-[/us/pl/102/325/s1331/j/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325%2Fs1331%2Fj%2F2
-[/us/pl/102/325/s1331/j/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325%2Fs1331%2Fj%2F3
+[/us/pl/103/382]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F382
+[/us/pl/103/382]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F382
+[/us/pl/102/325]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325
+[/us/pl/102/325]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325
+[/us/pl/102/325]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325
+[/us/pl/102/325]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325
 [/us/pl/101/644]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F644
-[/us/pl/100/297/s5406/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F297%2Fs5406%2Fb%2F1
+[/us/pl/100/297]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F297
 [/us/usc/t20/s4451/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs4451%2Fa
 [/us/usc/t20/s4441/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs4441%2Fa
-[/us/pl/100/297/s5406/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F297%2Fs5406%2Fb%2F2
+[/us/pl/100/297]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F297
 [/us/usc/t20/s4451/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs4451%2Fa
 [/us/usc/t20/s4441/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs4441%2Fa
 [/us/pl/102/325]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325

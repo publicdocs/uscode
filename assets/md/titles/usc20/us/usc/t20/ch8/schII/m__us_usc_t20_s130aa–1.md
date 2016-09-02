@@ -25,7 +25,7 @@
 
         (3) The period of any grant under this section shall not exceed twenty years, and during such period the University shall not withdraw or expend any of its endowment fund corpus. Upon the expiration of any grant period, the University may use the endowment fund corpus plus any endowment fund income for any educational purpose.
 
-([Pub. L. 98–480, title II, § 203][/us/pl/98/480/s203], Oct. 17, 1984, [98 Stat. 2245][/us/stat/98/2245].)
+([Pub. L. 98–480, title II][/us/pl/98/480/tII], § 203, Oct. 17, 1984, [98 Stat. 2245][/us/stat/98/2245].)
 
 ----------
 
@@ -34,7 +34,7 @@
 ----------
 ----------
 
-[/us/pl/98/480/s203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F480%2Fs203
+[/us/pl/98/480/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F480%2FtII
 [/us/stat/98/2245]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2245
 
 

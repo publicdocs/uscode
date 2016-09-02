@@ -25,7 +25,7 @@
 
         (2) for grants to local educational agencies of that State in accordance with section 405 of the Civil Rights Act of 1964 \[[42 U.S.C. 2000c–4][/us/usc/t42/s2000c–4]\], or for any other program administered by the Department that is designed to enhance equity in education or redress discrimination on the basis of race, color, national origin, sex, age, or disability.
 
-([Pub. L. 90–247, title IV, § 435][/us/pl/90/247/s435], formerly § 416, as added [Pub. L. 91–230, title IV, § 401(a)(10)][/us/pl/91/230/s401/a/10], Apr. 13, 1970, [84 Stat. 168][/us/stat/84/168]; renumbered § 426, [Pub. L. 92–318, title III, § 301(a)(1)][/us/pl/92/318/s301/a/1], June 23, 1972, [86 Stat. 326][/us/stat/86/326]; renumbered § 428, [Pub. L. 93–380, title V, § 508(a)][/us/pl/93/380/s508/a], Aug. 21, 1974, [88 Stat. 565][/us/stat/88/565]; renumbered § 435 and amended [Pub. L. 103–382, title II][/us/pl/103/382], §§ 212(b)(1), 245, Oct. 20, 1994, [108 Stat. 3913][/us/stat/108/3913], 3922.)
+([Pub. L. 90–247, title IV][/us/pl/90/247/tIV], § 435, formerly § 416, as added [Pub. L. 91–230, title IV][/us/pl/91/230/tIV], § 401(a)(10), Apr. 13, 1970, [84 Stat. 168][/us/stat/84/168]; renumbered § 426, [Pub. L. 92–318, title III][/us/pl/92/318/tIII], § 301(a)(1), June 23, 1972, [86 Stat. 326][/us/stat/86/326]; renumbered § 428, [Pub. L. 93–380, title V][/us/pl/93/380/tV], § 508(a), Aug. 21, 1974, [88 Stat. 565][/us/stat/88/565]; renumbered § 435 and amended [Pub. L. 103–382, title II][/us/pl/103/382/tII], §§ 212(b)(1), 245, Oct. 20, 1994, [108 Stat. 3913][/us/stat/108/3913], 3922.)
 
  __References in Text__ 
 
@@ -45,7 +45,7 @@
 
  __Amendments__ 
 
-    1994—[Pub. L. 103–382, § 245][/us/pl/103/382/s245], amended section generally. Prior to amendment, section consisted of single par. relating to use of funds withheld for failure to comply with title VI of the Civil Rights Act of 1964.
+    1994—[Pub. L. 103–382][/us/pl/103/382], § 245, amended section generally. Prior to amendment, section consisted of single par. relating to use of funds withheld for failure to comply with title VI of the Civil Rights Act of 1964.
 
 ----------
 
@@ -59,14 +59,14 @@
 [/us/usc/t29/s794]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs794
 [/us/usc/t42/s6101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6101
 [/us/usc/t42/s2000c–4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2000c%E2%80%934
-[/us/pl/90/247/s435]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F247%2Fs435
-[/us/pl/91/230/s401/a/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F230%2Fs401%2Fa%2F10
+[/us/pl/90/247/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F247%2FtIV
+[/us/pl/91/230/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F230%2FtIV
 [/us/stat/84/168]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F168
-[/us/pl/92/318/s301/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F318%2Fs301%2Fa%2F1
+[/us/pl/92/318/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F318%2FtIII
 [/us/stat/86/326]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F326
-[/us/pl/93/380/s508/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F380%2Fs508%2Fa
+[/us/pl/93/380/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F380%2FtV
 [/us/stat/88/565]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F565
-[/us/pl/103/382]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F382
+[/us/pl/103/382/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F382%2FtII
 [/us/stat/108/3913]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3913
 [/us/pl/88/352]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F352
 [/us/stat/78/241]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F241
@@ -84,6 +84,6 @@
 [/us/pl/90/247/s435]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F247%2Fs435
 [/us/usc/t20/s1233d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1233d
 [/us/pl/103/382]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F382
-[/us/pl/103/382/s245]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F382%2Fs245
+[/us/pl/103/382]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F382
 
 

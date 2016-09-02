@@ -17,7 +17,7 @@
 
     There are authorized to be appropriated to the Director to carry out this chapter $10,000,000 for each of fiscal years 2011 through 2013.
 
-([Pub. L. 111–358, title V, § 556][/us/pl/111/358/s556], Jan. 4, 2011, [124 Stat. 4026][/us/stat/124/4026].)
+([Pub. L. 111–358, title V][/us/pl/111/358/tV], § 556, Jan. 4, 2011, [124 Stat. 4026][/us/stat/124/4026].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/111/358/s556]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F358%2Fs556
+[/us/pl/111/358/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F358%2FtV
 [/us/stat/124/4026]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F4026
 
 

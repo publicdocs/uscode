@@ -365,7 +365,7 @@
 
             The Secretary may waive the service requirements in subparagraph (A), (B), or (C) of paragraph (5) if the Secretary determines the application of the service requirements to a veteran will defeat the purpose of a program under this division.
 
-([Pub. L. 89–329, title IV, § 402A][/us/pl/89/329/s402A], as added [Pub. L. 102–325, title IV, § 402(a)(4)][/us/pl/102/325/s402/a/4], July 23, 1992, [106 Stat. 482][/us/stat/106/482]; amended [Pub. L. 103–208, § 2(b)(6)][/us/pl/103/208/s2/b/6]–(9), Dec. 20, 1993, [107 Stat. 2458][/us/stat/107/2458]; [Pub. L. 105–244, title I, § 102(b)(1)][/us/pl/105/244/s102/b/1], title IV, § 402(a), Oct. 7, 1998, [112 Stat. 1622][/us/stat/112/1622], 1652; [Pub. L. 110–315, title IV, § 403(a)][/us/pl/110/315/s403/a], Aug. 14, 2008, [122 Stat. 3191][/us/stat/122/3191]; [Pub. L. 111–39, title IV, § 401(a)(4)][/us/pl/111/39/s401/a/4], July 1, 2009, [123 Stat. 1938][/us/stat/123/1938].)
+([Pub. L. 89–329, title IV][/us/pl/89/329/tIV], § 402A, as added [Pub. L. 102–325, title IV][/us/pl/102/325/tIV], § 402(a)(4), July 23, 1992, [106 Stat. 482][/us/stat/106/482]; amended [Pub. L. 103–208][/us/pl/103/208], § 2(b)(6)–(9), Dec. 20, 1993, [107 Stat. 2458][/us/stat/107/2458]; [Pub. L. 105–244, title I][/us/pl/105/244/tI], § 102(b)(1), title IV, § 402(a), Oct. 7, 1998, [112 Stat. 1622][/us/stat/112/1622], 1652; [Pub. L. 110–315, title IV][/us/pl/110/315/tIV], § 403(a), Aug. 14, 2008, [122 Stat. 3191][/us/stat/122/3191]; [Pub. L. 111–39, title IV][/us/pl/111/39/tIV], § 401(a)(4), July 1, 2009, [123 Stat. 1938][/us/stat/123/1938].)
 
  __References in Text__ 
 
@@ -381,21 +381,21 @@
 
  __Codification__ 
 
-    In subsec. (b)(1), “[section 6101 of title 41][/us/usc/t41/s6101]” substituted for “section 3709 of the Revised Statutes ([41 U.S.C. 5][/us/usc/t41/s5])” on authority of [Pub. L. 111–350, § 6(c)][/us/pl/111/350/s6/c], Jan. 4, 2011, [124 Stat. 3854][/us/stat/124/3854], which Act enacted Title 41, Public Contracts.
+    In subsec. (b)(1), “[section 6101 of title 41][/us/usc/t41/s6101]” substituted for “section 3709 of the Revised Statutes ([41 U.S.C. 5][/us/usc/t41/s5])” on authority of [Pub. L. 111–350][/us/pl/111/350], § 6(c), Jan. 4, 2011, [124 Stat. 3854][/us/stat/124/3854], which Act enacted Title 41, Public Contracts.
 
  __Amendments__ 
 
-    2009—Subsec. (b)(1). [Pub. L. 111–39, § 401(a)(4)(A)][/us/pl/111/39/s401/a/4/A], substituted “organizations, including” for “organizations including”.
+    2009—Subsec. (b)(1). [Pub. L. 111–39][/us/pl/111/39], § 401(a)(4)(A), substituted “organizations, including” for “organizations including”.
 
-    Subsec. (c)(8)(C)(iv)(I). [Pub. L. 111–39, § 401(a)(4)(B)][/us/pl/111/39/s401/a/4/B], inserted “to be” after “determined”.
+    Subsec. (c)(8)(C)(iv)(I). [Pub. L. 111–39][/us/pl/111/39], § 401(a)(4)(B), inserted “to be” after “determined”.
 
-    2008—Subsec. (b)(1). [Pub. L. 110–315, § 403(a)(1)(A)][/us/pl/110/315/s403/a/1/A], inserted “including community-based organizations with experience in serving disadvantaged youth” after “private agencies and organizations” and substituted “, as appropriate to the purposes of the program” for “in exceptional circumstances”.
+    2008—Subsec. (b)(1). [Pub. L. 110–315][/us/pl/110/315], § 403(a)(1)(A), inserted “including community-based organizations with experience in serving disadvantaged youth” after “private agencies and organizations” and substituted “, as appropriate to the purposes of the program” for “in exceptional circumstances”.
 
-    Subsec. (b)(2). [Pub. L. 110–315, § 403(a)(1)(B)(i)][/us/pl/110/315/s403/a/1/B/i], substituted “5 years” for “4 years” in introductory provisions.
+    Subsec. (b)(2). [Pub. L. 110–315][/us/pl/110/315], § 403(a)(1)(B)(i), substituted “5 years” for “4 years” in introductory provisions.
 
-    Subsec. (b)(2)(A). [Pub. L. 110–315, § 403(a)(1)(B)(ii)][/us/pl/110/315/s403/a/1/B/ii], amended subpar. (A) generally. Prior to amendment subpar. (A) read as follows: “the Secretary shall award such grants or contracts for 5 years to applicants whose peer review scores were in the highest 10 percent of scores of all applicants receiving grants or contracts in each program competition for the same award year;”.
+    Subsec. (b)(2)(A). [Pub. L. 110–315][/us/pl/110/315], § 403(a)(1)(B)(ii), amended subpar. (A) generally. Prior to amendment subpar. (A) read as follows: “the Secretary shall award such grants or contracts for 5 years to applicants whose peer review scores were in the highest 10 percent of scores of all applicants receiving grants or contracts in each program competition for the same award year;”.
 
-    Subsec. (b)(3). [Pub. L. 110–315, § 403(a)(1)(C)][/us/pl/110/315/s403/a/1/C], added par. (3) and struck out former par. (3). Prior to amendment, text read as follows: “Unless the institution or agency requests a smaller amount, individual grants under this division shall be no less than—
+    Subsec. (b)(3). [Pub. L. 110–315][/us/pl/110/315], § 403(a)(1)(C), added par. (3) and struck out former par. (3). Prior to amendment, text read as follows: “Unless the institution or agency requests a smaller amount, individual grants under this division shall be no less than—
 
     “(A) $170,000 for programs authorized by sections 1070a–14 and 1070a–17 of this title;
 
@@ -403,57 +403,57 @@
 
     “(C) $190,000 for programs authorized by sections 1070a–13 and 1070a–15 of this title.”
 
-    Subsec. (c)(2). [Pub. L. 110–315, § 403(a)(2)(A)][/us/pl/110/315/s403/a/2/A], inserted par. heading, designated former par. heading as subpar. (A) heading and existing provisions as subpar. (A), substituted “high quality service delivery, as determined under subsection (f),” for “service delivery”, and added subpar. (B).
+    Subsec. (c)(2). [Pub. L. 110–315][/us/pl/110/315], § 403(a)(2)(A), inserted par. heading, designated former par. heading as subpar. (A) heading and existing provisions as subpar. (A), substituted “high quality service delivery, as determined under subsection (f),” for “service delivery”, and added subpar. (B).
 
-    Subsec. (c)(3)(B). [Pub. L. 110–315, § 403(a)(2)(B)][/us/pl/110/315/s403/a/2/B], substituted “shall not” for “is not required to”.
+    Subsec. (c)(3)(B). [Pub. L. 110–315][/us/pl/110/315], § 403(a)(2)(B), substituted “shall not” for “is not required to”.
 
-    Subsec. (c)(5). [Pub. L. 110–315, § 403(a)(2)(C)][/us/pl/110/315/s403/a/2/C], substituted “different campuses” for “campuses”.
+    Subsec. (c)(5). [Pub. L. 110–315][/us/pl/110/315], § 403(a)(2)(C), substituted “different campuses” for “campuses”.
 
-    Subsec. (c)(6). [Pub. L. 110–315, § 403(a)(2)(D)][/us/pl/110/315/s403/a/2/D], inserted at end “The Secretary shall, as appropriate, require each applicant for funds under the programs authorized by this division to identify and make available services under such program, including mentoring, tutoring, and other services provided by such program, to foster care youth (including youth in foster care and youth who have left foster care after reaching age 13) or to homeless children and youths as defined in [section 11434a of title 42][/us/usc/t42/s11434a].”
+    Subsec. (c)(6). [Pub. L. 110–315][/us/pl/110/315], § 403(a)(2)(D), inserted at end “The Secretary shall, as appropriate, require each applicant for funds under the programs authorized by this division to identify and make available services under such program, including mentoring, tutoring, and other services provided by such program, to foster care youth (including youth in foster care and youth who have left foster care after reaching age 13) or to homeless children and youths as defined in [section 11434a of title 42][/us/usc/t42/s11434a].”
 
-    Subsec. (c)(8). [Pub. L. 110–315, § 403(a)(2)(E)][/us/pl/110/315/s403/a/2/E], added par. (8).
+    Subsec. (c)(8). [Pub. L. 110–315][/us/pl/110/315], § 403(a)(2)(E), added par. (8).
 
-    Subsec. (e)(1), (2). [Pub. L. 110–315, § 403(a)(3)(A)][/us/pl/110/315/s403/a/3/A], substituted “subsection (h)(4)” for “subsection (g)(2)” in introductory provisions.
+    Subsec. (e)(1), (2). [Pub. L. 110–315][/us/pl/110/315], § 403(a)(3)(A), substituted “subsection (h)(4)” for “subsection (g)(2)” in introductory provisions.
 
-    Subsec. (e)(3). [Pub. L. 110–315, § 403(a)(3)(B)][/us/pl/110/315/s403/a/3/B], added par. (3).
+    Subsec. (e)(3). [Pub. L. 110–315][/us/pl/110/315], § 403(a)(3)(B), added par. (3).
 
-    Subsec. (f). [Pub. L. 110–315, § 403(a)(5)][/us/pl/110/315/s403/a/5], added subsec. (f). Former subsec. (f) redesignated (g).
+    Subsec. (f). [Pub. L. 110–315][/us/pl/110/315], § 403(a)(5), added subsec. (f). Former subsec. (f) redesignated (g).
 
-    Subsec. (g). [Pub. L. 110–315, § 403(a)(6)][/us/pl/110/315/s403/a/6], substituted “$900,000,000 for fiscal year 2009 and such sums as may be necessary for each of the five succeeding fiscal years” for “$700,000,000 for fiscal year 1999, and such sums as may be necessary for each of the 4 succeeding fiscal years” and struck out last sentence which read as follows: “The Secretary shall report to Congress by October 1, 1994, on the use of these funds.”
+    Subsec. (g). [Pub. L. 110–315][/us/pl/110/315], § 403(a)(6), substituted “$900,000,000 for fiscal year 2009 and such sums as may be necessary for each of the five succeeding fiscal years” for “$700,000,000 for fiscal year 1999, and such sums as may be necessary for each of the 4 succeeding fiscal years” and struck out last sentence which read as follows: “The Secretary shall report to Congress by October 1, 1994, on the use of these funds.”
 
-    [Pub. L. 110–315, § 403(a)(4)][/us/pl/110/315/s403/a/4], redesignated subsec. (f) as (g). Former subsec. (g) redesignated (h).
+    [Pub. L. 110–315][/us/pl/110/315], § 403(a)(4), redesignated subsec. (f) as (g). Former subsec. (g) redesignated (h).
 
-    Subsec. (h). [Pub. L. 110–315, § 403(a)(7)(A)][/us/pl/110/315/s403/a/7/A], (B), added pars. (1) and (2) and redesignated former pars. (1) to (4) as (3) to (6), respectively.
+    Subsec. (h). [Pub. L. 110–315][/us/pl/110/315], § 403(a)(7)(A), (B), added pars. (1) and (2) and redesignated former pars. (1) to (4) as (3) to (6), respectively.
 
-    [Pub. L. 110–315, § 403(a)(4)][/us/pl/110/315/s403/a/4], redesignated subsec. (g) as (h).
+    [Pub. L. 110–315][/us/pl/110/315], § 403(a)(4), redesignated subsec. (g) as (h).
 
-    Subsec. (h)(5)(A). [Pub. L. 110–315, § 403(a)(7)(C)(i)][/us/pl/110/315/s403/a/7/C/i], struck out “, any part of which occurred after January 31, 1955,” after “more than 180 days” and “or” after semicolon.
+    Subsec. (h)(5)(A). [Pub. L. 110–315][/us/pl/110/315], § 403(a)(7)(C)(i), struck out “, any part of which occurred after January 31, 1955,” after “more than 180 days” and “or” after semicolon.
 
-    Subsec. (h)(5)(B). [Pub. L. 110–315, § 403(a)(7)(C)(ii)][/us/pl/110/315/s403/a/7/C/ii], struck out “after January 31, 1955,” after “active duty” and substituted a semicolon for period at end.
+    Subsec. (h)(5)(B). [Pub. L. 110–315][/us/pl/110/315], § 403(a)(7)(C)(ii), struck out “after January 31, 1955,” after “active duty” and substituted a semicolon for period at end.
 
-    Subsec. (h)(5)(C), (D). [Pub. L. 110–315, § 403(a)(7)(C)(iii)][/us/pl/110/315/s403/a/7/C/iii], added subpars. (C) and (D).
+    Subsec. (h)(5)(C), (D). [Pub. L. 110–315][/us/pl/110/315], § 403(a)(7)(C)(iii), added subpars. (C) and (D).
 
-    Subsec. (h)(6). [Pub. L. 110–315, § 403(a)(7)(D)][/us/pl/110/315/s403/a/7/D], substituted “subparagraph (A), (B), or (C) of paragraph (5)” for “subparagraph (A) or (B) of paragraph (3)”.
+    Subsec. (h)(6). [Pub. L. 110–315][/us/pl/110/315], § 403(a)(7)(D), substituted “subparagraph (A), (B), or (C) of paragraph (5)” for “subparagraph (A) or (B) of paragraph (3)”.
 
-    1998—Subsec. (b)(2)(C). [Pub. L. 105–244, § 402(a)(1)][/us/pl/105/244/s402/a/1], added subpar. (C).
+    1998—Subsec. (b)(2)(C). [Pub. L. 105–244][/us/pl/105/244], § 402(a)(1), added subpar. (C).
 
-    Subsec. (b)(3). [Pub. L. 105–244, § 402(a)(2)][/us/pl/105/244/s402/a/2], amended heading and text of par. (3) generally. Prior to amendment, text read as follows: “In any year in which the appropriations authorized under this division exceed the prior year appropriation as adjusted for inflation, the Secretary shall use 80 percent of the amount appropriated above the current services level to bring each award up to the minimum grant level or the amount requested by the institution or agency, whichever is less. The minimum grant level (A) for programs authorized under section 1070a–14 or 1070a–17 of this title, shall not be less than $170,000 for fiscal year 1993; (B) for programs authorized under section 1070a–12 or 1070a–16 of this title shall not be less than $180,000 for fiscal year 1994; and (C) for programs authorized under section 1070a–13 or 1070a–15 of this title shall not be less than $190,000 for fiscal year 1995.”
+    Subsec. (b)(3). [Pub. L. 105–244][/us/pl/105/244], § 402(a)(2), amended heading and text of par. (3) generally. Prior to amendment, text read as follows: “In any year in which the appropriations authorized under this division exceed the prior year appropriation as adjusted for inflation, the Secretary shall use 80 percent of the amount appropriated above the current services level to bring each award up to the minimum grant level or the amount requested by the institution or agency, whichever is less. The minimum grant level (A) for programs authorized under section 1070a–14 or 1070a–17 of this title, shall not be less than $170,000 for fiscal year 1993; (B) for programs authorized under section 1070a–12 or 1070a–16 of this title shall not be less than $180,000 for fiscal year 1994; and (C) for programs authorized under section 1070a–13 or 1070a–15 of this title shall not be less than $190,000 for fiscal year 1995.”
 
-    Subsec. (c). [Pub. L. 105–244, § 402(a)(3)][/us/pl/105/244/s402/a/3], amended subsec. (c) generally, revising and restating former pars. (1) to (6), relating to procedures for awarding grants and contracts, as pars. (1) to (7).
+    Subsec. (c). [Pub. L. 105–244][/us/pl/105/244], § 402(a)(3), amended subsec. (c) generally, revising and restating former pars. (1) to (6), relating to procedures for awarding grants and contracts, as pars. (1) to (7).
 
-    Subsec. (c)(2). [Pub. L. 105–244, § 102(b)(1)][/us/pl/105/244/s102/b/1], substituted “section 1011g” for “section 1145d–1”.
+    Subsec. (c)(2). [Pub. L. 105–244][/us/pl/105/244], § 102(b)(1), substituted “section 1011g” for “section 1145d–1”.
 
-    Subsec. (f). [Pub. L. 105–244, § 402(a)(4)][/us/pl/105/244/s402/a/4], substituted “$700,000,000 for fiscal year 1999” for “$650,000,000 for fiscal year 1993”.
+    Subsec. (f). [Pub. L. 105–244][/us/pl/105/244], § 402(a)(4), substituted “$700,000,000 for fiscal year 1999” for “$650,000,000 for fiscal year 1993”.
 
-    Subsec. (g)(4). [Pub. L. 105–244, § 402(a)(5)][/us/pl/105/244/s402/a/5], added par. (4).
+    Subsec. (g)(4). [Pub. L. 105–244][/us/pl/105/244], § 402(a)(5), added par. (4).
 
-    1993—Subsec. (b)(2). [Pub. L. 103–208, § 2(b)(6)][/us/pl/103/208/s2/b/6], added par. (2) and struck out former par. (2) which read as follows: “Grants or contracts made under this division shall be awarded for a period of 4 years, except that the Secretary shall award such grants or contracts for 5 years to applicants whose peer review scores were in the highest 10 percent of scores of all applicants receiving grants or contracts in each program competition for the same award year.”
+    1993—Subsec. (b)(2). [Pub. L. 103–208][/us/pl/103/208], § 2(b)(6), added par. (2) and struck out former par. (2) which read as follows: “Grants or contracts made under this division shall be awarded for a period of 4 years, except that the Secretary shall award such grants or contracts for 5 years to applicants whose peer review scores were in the highest 10 percent of scores of all applicants receiving grants or contracts in each program competition for the same award year.”
 
-    Subsec. (c)(1). [Pub. L. 103–208, § 2(b)(7)][/us/pl/103/208/s2/b/7], inserted before period at end of second sentence “, except that in the case of the programs authorized in sections 1070a–15 and 1070a–17 of this title, the level of consideration given to prior experience shall be the same as the level of consideration given this factor in the other programs authorized in this division”.
+    Subsec. (c)(1). [Pub. L. 103–208][/us/pl/103/208], § 2(b)(7), inserted before period at end of second sentence “, except that in the case of the programs authorized in sections 1070a–15 and 1070a–17 of this title, the level of consideration given to prior experience shall be the same as the level of consideration given this factor in the other programs authorized in this division”.
 
-    Subsec. (c)(2)(A). [Pub. L. 103–208, § 2(b)(8)][/us/pl/103/208/s2/b/8], inserted “with respect to grants made under [section 1070a–17 of this title][/us/usc/t20/s1070a–17], and” after “Except”.
+    Subsec. (c)(2)(A). [Pub. L. 103–208][/us/pl/103/208], § 2(b)(8), inserted “with respect to grants made under [section 1070a–17 of this title][/us/usc/t20/s1070a–17], and” after “Except”.
 
-    Subsec. (e). [Pub. L. 103–208, § 2(b)(9)][/us/pl/103/208/s2/b/9], amended subsec. (e) generally. Prior to amendment, subsec. (e) read as follows: “Documentation of an individual’s status pursuant to subsection (g)(2) of this section shall be made—
+    Subsec. (e). [Pub. L. 103–208][/us/pl/103/208], § 2(b)(9), amended subsec. (e) generally. Prior to amendment, subsec. (e) read as follows: “Documentation of an individual’s status pursuant to subsection (g)(2) of this section shall be made—
 
     “(1) in the case of an individual who is eighteen years of age or younger or a dependent student by providing the Secretary with a signed statement from the parent or legal guardian, verification from another governmental source, a signed financial aid application, or a signed United States or Puerto Rican income tax return; and
 
@@ -473,9 +473,9 @@
 
  __Advanced Placement Fee Payment Program__ 
 
-    [Pub. L. 105–244, title VIII, § 810][/us/pl/105/244/s810], Oct. 7, 1998, [112 Stat. 1808][/us/stat/112/1808], which authorized grants to States to enable States to reimburse low-income individuals to cover part or all of the cost of advanced placement test fees, required dissemination of information regarding availability of payments, set forth requirements for approval of applications and funding rules, authorized regulations, required annual report, defined terms, and authorized appropriations, was repealed by [Pub. L. 107–110, title X, § 1011(2)][/us/pl/107/110/s1011/2], Jan. 8, 2002, [115 Stat. 1986][/us/stat/115/1986].
+    [Pub. L. 105–244, title VIII][/us/pl/105/244/tVIII], § 810, Oct. 7, 1998, [112 Stat. 1808][/us/stat/112/1808], which authorized grants to States to enable States to reimburse low-income individuals to cover part or all of the cost of advanced placement test fees, required dissemination of information regarding availability of payments, set forth requirements for approval of applications and funding rules, authorized regulations, required annual report, defined terms, and authorized appropriations, was repealed by [Pub. L. 107–110, title X][/us/pl/107/110/tX], § 1011(2), Jan. 8, 2002, [115 Stat. 1986][/us/stat/115/1986].
 
-    Similar provisions were contained in [Pub. L. 102–325, title XV, § 1545][/us/pl/102/325/s1545], July 23, 1992, [106 Stat. 837][/us/stat/106/837], which was repealed by [Pub. L. 107–110, title X, § 1011(1)][/us/pl/107/110/s1011/1], Jan. 8, 2002, [115 Stat. 1986][/us/stat/115/1986].
+    Similar provisions were contained in [Pub. L. 102–325, title XV][/us/pl/102/325/tXV], § 1545, July 23, 1992, [106 Stat. 837][/us/stat/106/837], which was repealed by [Pub. L. 107–110, title X][/us/pl/107/110/tX], § 1011(1), Jan. 8, 2002, [115 Stat. 1986][/us/stat/115/1986].
 
 ----------
 
@@ -500,16 +500,16 @@
 [/us/usc/t20/s1070a–15]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1070a%E2%80%9315
 [/us/usc/t20/s1070a–16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1070a%E2%80%9316
 [/us/usc/t10/s101/a/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs101%2Fa%2F13
-[/us/pl/89/329/s402A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2Fs402A
-[/us/pl/102/325/s402/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325%2Fs402%2Fa%2F4
+[/us/pl/89/329/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2FtIV
+[/us/pl/102/325/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325%2FtIV
 [/us/stat/106/482]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F482
-[/us/pl/103/208/s2/b/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F208%2Fs2%2Fb%2F6
+[/us/pl/103/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F208
 [/us/stat/107/2458]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F2458
-[/us/pl/105/244/s102/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2Fs102%2Fb%2F1
+[/us/pl/105/244/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2FtI
 [/us/stat/112/1622]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F1622
-[/us/pl/110/315/s403/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2Fs403%2Fa
+[/us/pl/110/315/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2FtIV
 [/us/stat/122/3191]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3191
-[/us/pl/111/39/s401/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F39%2Fs401%2Fa%2F4
+[/us/pl/111/39/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F39%2FtIV
 [/us/stat/123/1938]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1938
 [/us/pl/90/247]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F247
 [/us/stat/81/814]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F814
@@ -524,42 +524,42 @@
 [/us/usc/t20/s1070a–11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1070a%E2%80%9311
 [/us/usc/t41/s6101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs6101
 [/us/usc/t41/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs5
-[/us/pl/111/350/s6/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350%2Fs6%2Fc
+[/us/pl/111/350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350
 [/us/stat/124/3854]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3854
-[/us/pl/111/39/s401/a/4/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F39%2Fs401%2Fa%2F4%2FA
-[/us/pl/111/39/s401/a/4/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F39%2Fs401%2Fa%2F4%2FB
-[/us/pl/110/315/s403/a/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2Fs403%2Fa%2F1%2FA
-[/us/pl/110/315/s403/a/1/B/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2Fs403%2Fa%2F1%2FB%2Fi
-[/us/pl/110/315/s403/a/1/B/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2Fs403%2Fa%2F1%2FB%2Fii
-[/us/pl/110/315/s403/a/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2Fs403%2Fa%2F1%2FC
-[/us/pl/110/315/s403/a/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2Fs403%2Fa%2F2%2FA
-[/us/pl/110/315/s403/a/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2Fs403%2Fa%2F2%2FB
-[/us/pl/110/315/s403/a/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2Fs403%2Fa%2F2%2FC
-[/us/pl/110/315/s403/a/2/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2Fs403%2Fa%2F2%2FD
+[/us/pl/111/39]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F39
+[/us/pl/111/39]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F39
+[/us/pl/110/315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315
+[/us/pl/110/315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315
+[/us/pl/110/315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315
+[/us/pl/110/315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315
+[/us/pl/110/315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315
+[/us/pl/110/315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315
+[/us/pl/110/315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315
+[/us/pl/110/315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315
 [/us/usc/t42/s11434a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs11434a
-[/us/pl/110/315/s403/a/2/E]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2Fs403%2Fa%2F2%2FE
-[/us/pl/110/315/s403/a/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2Fs403%2Fa%2F3%2FA
-[/us/pl/110/315/s403/a/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2Fs403%2Fa%2F3%2FB
-[/us/pl/110/315/s403/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2Fs403%2Fa%2F5
-[/us/pl/110/315/s403/a/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2Fs403%2Fa%2F6
-[/us/pl/110/315/s403/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2Fs403%2Fa%2F4
-[/us/pl/110/315/s403/a/7/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2Fs403%2Fa%2F7%2FA
-[/us/pl/110/315/s403/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2Fs403%2Fa%2F4
-[/us/pl/110/315/s403/a/7/C/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2Fs403%2Fa%2F7%2FC%2Fi
-[/us/pl/110/315/s403/a/7/C/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2Fs403%2Fa%2F7%2FC%2Fii
-[/us/pl/110/315/s403/a/7/C/iii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2Fs403%2Fa%2F7%2FC%2Fiii
-[/us/pl/110/315/s403/a/7/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2Fs403%2Fa%2F7%2FD
-[/us/pl/105/244/s402/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2Fs402%2Fa%2F1
-[/us/pl/105/244/s402/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2Fs402%2Fa%2F2
-[/us/pl/105/244/s402/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2Fs402%2Fa%2F3
-[/us/pl/105/244/s102/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2Fs102%2Fb%2F1
-[/us/pl/105/244/s402/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2Fs402%2Fa%2F4
-[/us/pl/105/244/s402/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2Fs402%2Fa%2F5
-[/us/pl/103/208/s2/b/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F208%2Fs2%2Fb%2F6
-[/us/pl/103/208/s2/b/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F208%2Fs2%2Fb%2F7
-[/us/pl/103/208/s2/b/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F208%2Fs2%2Fb%2F8
+[/us/pl/110/315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315
+[/us/pl/110/315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315
+[/us/pl/110/315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315
+[/us/pl/110/315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315
+[/us/pl/110/315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315
+[/us/pl/110/315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315
+[/us/pl/110/315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315
+[/us/pl/110/315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315
+[/us/pl/110/315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315
+[/us/pl/110/315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315
+[/us/pl/110/315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315
+[/us/pl/110/315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315
+[/us/pl/105/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244
+[/us/pl/105/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244
+[/us/pl/105/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244
+[/us/pl/105/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244
+[/us/pl/105/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244
+[/us/pl/105/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244
+[/us/pl/103/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F208
+[/us/pl/103/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F208
+[/us/pl/103/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F208
 [/us/usc/t20/s1070a–17]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1070a%E2%80%9317
-[/us/pl/103/208/s2/b/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F208%2Fs2%2Fb%2F9
+[/us/pl/103/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F208
 [/us/pl/111/39]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F39
 [/us/pl/110/315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315
 [/us/pl/111/39/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F39%2Fs3
@@ -573,13 +573,13 @@
 [/us/pl/103/208/s2/b/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F208%2Fs2%2Fb%2F7
 [/us/pl/103/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F208
 [/us/usc/t20/s1051]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1051
-[/us/pl/105/244/s810]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2Fs810
+[/us/pl/105/244/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2FtVIII
 [/us/stat/112/1808]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F1808
-[/us/pl/107/110/s1011/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F110%2Fs1011%2F2
+[/us/pl/107/110/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F110%2FtX
 [/us/stat/115/1986]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F1986
-[/us/pl/102/325/s1545]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325%2Fs1545
+[/us/pl/102/325/tXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325%2FtXV
 [/us/stat/106/837]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F837
-[/us/pl/107/110/s1011/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F110%2Fs1011%2F1
+[/us/pl/107/110/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F110%2FtX
 [/us/stat/115/1986]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F1986
 
 

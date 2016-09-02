@@ -17,7 +17,7 @@
 
  __Codification__ 
 
-    [Pub. L. 105–244, title IV, § 401(g)(2)][/us/pl/105/244/s401/g/2], Oct. 7, 1998, [112 Stat. 1652][/us/stat/112/1652], amended subpart heading generally.
+    [Pub. L. 105–244, title IV][/us/pl/105/244/tIV], § 401(g)(2), Oct. 7, 1998, [112 Stat. 1652][/us/stat/112/1652], amended subpart heading generally.
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/105/244/s401/g/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2Fs401%2Fg%2F2
+[/us/pl/105/244/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2FtIV
 [/us/stat/112/1652]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F1652
 
 

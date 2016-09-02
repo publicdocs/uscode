@@ -111,17 +111,17 @@
 
         (3) This subsection shall not be construed to permit less than 7 members of the Board to be Indians. If an extension of a term under paragraph (2) would result in less than 7 members being Indians, the term of the member covered by paragraph (2) shall be deemed to expire 60 days after the date upon which it would have been deemed to expire without the operation of this subsection, except that the provisions of subsection (b)(4) of this section, relating to continuation of service pending replacement, shall continue to apply.
 
-([Pub. L. 99–498, title XV, § 1505][/us/pl/99/498/s1505], Oct. 17, 1986, [100 Stat. 1601][/us/stat/100/1601]; [Pub. L. 102–325, title XIII, § 1331(a)][/us/pl/102/325/s1331/a], July 23, 1992, [106 Stat. 805][/us/stat/106/805]; [Pub. L. 112–166, § 2(ee)][/us/pl/112/166/s2/ee], Aug. 10, 2012, [126 Stat. 1290][/us/stat/126/1290].)
+([Pub. L. 99–498, title XV][/us/pl/99/498/tXV], § 1505, Oct. 17, 1986, [100 Stat. 1601][/us/stat/100/1601]; [Pub. L. 102–325, title XIII][/us/pl/102/325/tXIII], § 1331(a), July 23, 1992, [106 Stat. 805][/us/stat/106/805]; [Pub. L. 112–166][/us/pl/112/166], § 2(ee), Aug. 10, 2012, [126 Stat. 1290][/us/stat/126/1290].)
 
  __Amendments__ 
 
     2012—Subsec. (a)(1)(A). [Pub. L. 112–166][/us/pl/112/166] struck out “by and with the advice and consent of the Senate” after “United States”.
 
-    1992—Subsec. (a)(1)(A). [Pub. L. 102–325, § 1331(a)(1)][/us/pl/102/325/s1331/a/1], substituted “Subject to the provisions of subsection (i) of this section, the voting” for “The voting” and inserted before period at end “, and diverse fields of expertise, including finance, law, fine arts, and higher education administration”.
+    1992—Subsec. (a)(1)(A). [Pub. L. 102–325][/us/pl/102/325], § 1331(a)(1), substituted “Subject to the provisions of subsection (i) of this section, the voting” for “The voting” and inserted before period at end “, and diverse fields of expertise, including finance, law, fine arts, and higher education administration”.
 
-    Subsec. (a)(3), (4). [Pub. L. 102–325, § 1331(a)(2)][/us/pl/102/325/s1331/a/2], (3), added par. (3) and redesignated former par. (3) as (4).
+    Subsec. (a)(3), (4). [Pub. L. 102–325][/us/pl/102/325], § 1331(a)(2), (3), added par. (3) and redesignated former par. (3) as (4).
 
-    Subsec. (i). [Pub. L. 102–325, § 1331(a)(4)][/us/pl/102/325/s1331/a/4], added subsec. (i) and struck out former subsec. (i) which read as follows: “(i) Review by Secretary of the Interior.—For so long as any employee of the Institute is covered under title 5, the Board (acting by majority vote) shall submit final decisions relating to personnel to the Secretary of the Interior. Each such decision shall become final 30 days after the date of its receipt by the Secretary unless the Secretary disapproves of such decision. The Secretary may only disapprove a decision of the Board for just cause.”
+    Subsec. (i). [Pub. L. 102–325][/us/pl/102/325], § 1331(a)(4), added subsec. (i) and struck out former subsec. (i) which read as follows: “(i) Review by Secretary of the Interior.—For so long as any employee of the Institute is covered under title 5, the Board (acting by majority vote) shall submit final decisions relating to personnel to the Secretary of the Interior. Each such decision shall become final 30 days after the date of its receipt by the Secretary unless the Secretary disapproves of such decision. The Secretary may only disapprove a decision of the Board for just cause.”
 
  __Effective Date of 2012 Amendment__ 
 
@@ -153,16 +153,16 @@
 ----------
 
 [/us/usc/t5/s5703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5703
-[/us/pl/99/498/s1505]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F498%2Fs1505
+[/us/pl/99/498/tXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F498%2FtXV
 [/us/stat/100/1601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1601
-[/us/pl/102/325/s1331/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325%2Fs1331%2Fa
+[/us/pl/102/325/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325%2FtXIII
 [/us/stat/106/805]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F805
-[/us/pl/112/166/s2/ee]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F166%2Fs2%2Fee
+[/us/pl/112/166]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F166
 [/us/stat/126/1290]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1290
 [/us/pl/112/166]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F166
-[/us/pl/102/325/s1331/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325%2Fs1331%2Fa%2F1
-[/us/pl/102/325/s1331/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325%2Fs1331%2Fa%2F2
-[/us/pl/102/325/s1331/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325%2Fs1331%2Fa%2F4
+[/us/pl/102/325]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325
+[/us/pl/102/325]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325
+[/us/pl/102/325]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325
 [/us/pl/112/166]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F166
 [/us/pl/112/166/s6/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F166%2Fs6%2Fa
 [/us/usc/t6/s113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs113

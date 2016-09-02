@@ -55,21 +55,21 @@
 
         The eligible recipient of a grant under this section shall contribute to the conduct of the program supported by the grant an amount from non-Federal sources equal to at least one-half the amount of the grant, which contribution may be in cash or in kind.
 
-([Pub. L. 89–329, title VI, § 621][/us/pl/89/329/s621], as added [Pub. L. 102–325, title VI, § 601][/us/pl/102/325/s601], July 23, 1992, [106 Stat. 734][/us/stat/106/734]; amended [Pub. L. 105–244, title VI, § 603(a)][/us/pl/105/244/s603/a], Oct. 7, 1998, [112 Stat. 1783][/us/stat/112/1783]; [Pub. L. 110–315, title VI, § 612][/us/pl/110/315/s612], Aug. 14, 2008, [122 Stat. 3339][/us/stat/122/3339].)
+([Pub. L. 89–329, title VI][/us/pl/89/329/tVI], § 621, as added [Pub. L. 102–325, title VI][/us/pl/102/325/tVI], § 601, July 23, 1992, [106 Stat. 734][/us/stat/106/734]; amended [Pub. L. 105–244, title VI][/us/pl/105/244/tVI], § 603(a), Oct. 7, 1998, [112 Stat. 1783][/us/stat/112/1783]; [Pub. L. 110–315, title VI][/us/pl/110/315/tVI], § 612, Aug. 14, 2008, [122 Stat. 3339][/us/stat/122/3339].)
 
  __Prior Provisions__ 
 
-    A prior section 1131, [Pub. L. 89–329, title VI, § 621][/us/pl/89/329/s621], as added [Pub. L. 96–374, title VI, § 601(a)][/us/pl/96/374/s601/a], Oct. 3, 1980, [94 Stat. 1469][/us/stat/94/1469]; amended [Pub. L. 97–241, title III, § 303(b)][/us/pl/97/241/s303/b], Aug. 24, 1982, [96 Stat. 291][/us/stat/96/291]; [Pub. L. 99–498, title VI, § 613][/us/pl/99/498/s613], Oct. 17, 1986, [100 Stat. 1519][/us/stat/100/1519], related to advisory board on the conduct of programs under this subchapter, prior to repeal by [Pub. L. 101–392, title VI][/us/pl/101/392], §§ 612, 702(a), Sept. 25, 1990, [104 Stat. 842][/us/stat/104/842], 843, effective July 1, 1991.
+    A prior section 1131, [Pub. L. 89–329, title VI][/us/pl/89/329/tVI], § 621, as added [Pub. L. 96–374, title VI][/us/pl/96/374/tVI], § 601(a), Oct. 3, 1980, [94 Stat. 1469][/us/stat/94/1469]; amended [Pub. L. 97–241, title III][/us/pl/97/241/tIII], § 303(b), Aug. 24, 1982, [96 Stat. 291][/us/stat/96/291]; [Pub. L. 99–498, title VI][/us/pl/99/498/tVI], § 613, Oct. 17, 1986, [100 Stat. 1519][/us/stat/100/1519], related to advisory board on the conduct of programs under this subchapter, prior to repeal by [Pub. L. 101–392, title VI][/us/pl/101/392/tVI], §§ 612, 702(a), Sept. 25, 1990, [104 Stat. 842][/us/stat/104/842], 843, effective July 1, 1991.
 
-    Another prior section 1131, [Pub. L. 89–329, title VI, § 621][/us/pl/89/329/s621], Nov. 8, 1965, [79 Stat. 1266][/us/stat/79/1266], related to grants for operating faculty development program workshops and institutes, prior to the general revision of this subchapter by [Pub. L. 96–374][/us/pl/96/374].
+    Another prior section 1131, [Pub. L. 89–329, title VI][/us/pl/89/329/tVI], § 621, Nov. 8, 1965, [79 Stat. 1266][/us/stat/79/1266], related to grants for operating faculty development program workshops and institutes, prior to the general revision of this subchapter by [Pub. L. 96–374][/us/pl/96/374].
 
  __Amendments__ 
 
-    2008—Subsec. (a). [Pub. L. 110–315, § 612(1)][/us/pl/110/315/s612/1], substituted “The Institute shall conduct a program to enhance the international competitiveness of the United States by increasing the participation of underrepresented populations in the international service, including private international voluntary organizations and the foreign service of the United States.” for “The Institute shall conduct a program to significantly increase the numbers of African Americans and other underrepresented minorities in the international service, including private international voluntary organizations and the foreign service of the United States.”
+    2008—Subsec. (a). [Pub. L. 110–315][/us/pl/110/315], § 612(1), substituted “The Institute shall conduct a program to enhance the international competitiveness of the United States by increasing the participation of underrepresented populations in the international service, including private international voluntary organizations and the foreign service of the United States.” for “The Institute shall conduct a program to significantly increase the numbers of African Americans and other underrepresented minorities in the international service, including private international voluntary organizations and the foreign service of the United States.”
 
-    Subsec. (b)(1)(B) to (D). [Pub. L. 110–315, § 612(2)][/us/pl/110/315/s612/2], added subpars. (B) and (C), redesignated former subpar. (C) as (D), and struck out former subpar. (B) which read as follows: “An institution of higher education which serves substantial numbers of African American or other underrepresented minority students.”
+    Subsec. (b)(1)(B) to (D). [Pub. L. 110–315][/us/pl/110/315], § 612(2), added subpars. (B) and (C), redesignated former subpar. (C) as (D), and struck out former subpar. (B) which read as follows: “An institution of higher education which serves substantial numbers of African American or other underrepresented minority students.”
 
-    Subsec. (c). [Pub. L. 110–315, § 612(3)][/us/pl/110/315/s612/3], designated existing provisions as par. (1), inserted heading, and added par. (2).
+    Subsec. (c). [Pub. L. 110–315][/us/pl/110/315], § 612(3), designated existing provisions as par. (1), inserted heading, and added par. (2).
 
     1998—Subsec. (e). [Pub. L. 105–244][/us/pl/105/244] substituted “one-half” for “one-fourth”.
 
@@ -88,28 +88,28 @@
 ----------
 ----------
 
-[/us/pl/89/329/s621]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2Fs621
-[/us/pl/102/325/s601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325%2Fs601
+[/us/pl/89/329/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2FtVI
+[/us/pl/102/325/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325%2FtVI
 [/us/stat/106/734]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F734
-[/us/pl/105/244/s603/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2Fs603%2Fa
+[/us/pl/105/244/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2FtVI
 [/us/stat/112/1783]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F1783
-[/us/pl/110/315/s612]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2Fs612
+[/us/pl/110/315/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2FtVI
 [/us/stat/122/3339]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3339
-[/us/pl/89/329/s621]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2Fs621
-[/us/pl/96/374/s601/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F374%2Fs601%2Fa
+[/us/pl/89/329/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2FtVI
+[/us/pl/96/374/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F374%2FtVI
 [/us/stat/94/1469]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F1469
-[/us/pl/97/241/s303/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F241%2Fs303%2Fb
+[/us/pl/97/241/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F241%2FtIII
 [/us/stat/96/291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F291
-[/us/pl/99/498/s613]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F498%2Fs613
+[/us/pl/99/498/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F498%2FtVI
 [/us/stat/100/1519]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1519
-[/us/pl/101/392]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F392
+[/us/pl/101/392/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F392%2FtVI
 [/us/stat/104/842]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F842
-[/us/pl/89/329/s621]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2Fs621
+[/us/pl/89/329/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2FtVI
 [/us/stat/79/1266]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F1266
 [/us/pl/96/374]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F374
-[/us/pl/110/315/s612/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2Fs612%2F1
-[/us/pl/110/315/s612/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2Fs612%2F2
-[/us/pl/110/315/s612/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2Fs612%2F3
+[/us/pl/110/315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315
+[/us/pl/110/315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315
+[/us/pl/110/315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315
 [/us/pl/105/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244
 [/us/pl/105/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244
 [/us/pl/105/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244

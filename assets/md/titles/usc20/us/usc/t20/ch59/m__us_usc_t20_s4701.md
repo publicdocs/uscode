@@ -25,11 +25,11 @@
 
     (4) It would, therefore, be a fitting tribute to the leadership, courage, and vision of Senator Goldwater to establish in his name a scholarship program to foster and encourage excellence in science and mathematics.
 
-([Pub. L. 99–661, div. A, title XIV, § 1402][/us/pl/99/661/s1402], Nov. 14, 1986, [100 Stat. 4008][/us/stat/100/4008].)
+([Pub. L. 99–661, div. A, title XIV][/us/pl/99/661/dA/tXIV], § 1402, Nov. 14, 1986, [100 Stat. 4008][/us/stat/100/4008].)
 
  __Short Title__ 
 
-[Pub. L. 99–661, div. A, title XIV, § 1401][/us/pl/99/661/s1401], Nov. 14, 1986, [100 Stat. 4007][/us/stat/100/4007], provided that: 
+[Pub. L. 99–661, div. A, title XIV][/us/pl/99/661/dA/tXIV], § 1401, Nov. 14, 1986, [100 Stat. 4007][/us/stat/100/4007], provided that: 
 
 > “This title \[enacting this chapter\] may be cited as the ‘Barry Goldwater Scholarship and Excellence in Education Act’.”
 
@@ -40,9 +40,9 @@
 ----------
 ----------
 
-[/us/pl/99/661/s1402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F661%2Fs1402
+[/us/pl/99/661/dA/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F661%2FdA%2FtXIV
 [/us/stat/100/4008]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F4008
-[/us/pl/99/661/s1401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F661%2Fs1401
+[/us/pl/99/661/dA/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F661%2FdA%2FtXIV
 [/us/stat/100/4007]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F4007
 
 

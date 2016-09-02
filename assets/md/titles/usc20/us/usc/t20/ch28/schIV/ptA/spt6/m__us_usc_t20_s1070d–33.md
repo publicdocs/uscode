@@ -35,11 +35,11 @@
 
         Individuals awarded scholarships under this subpart shall be known as “Byrd Scholars”.
 
-([Pub. L. 89–329, title IV, § 419C][/us/pl/89/329/s419C], as added [Pub. L. 99–498, title IV, § 401(a)][/us/pl/99/498/s401/a], Oct. 17, 1986, [100 Stat. 1344][/us/stat/100/1344]; amended [Pub. L. 102–325, title IV, § 406(b)][/us/pl/102/325/s406/b], July 23, 1992, [106 Stat. 508][/us/stat/106/508]; [Pub. L. 103–208, § 2(b)(28)][/us/pl/103/208/s2/b/28], Dec. 20, 1993, [107 Stat. 2459][/us/stat/107/2459]; [Pub. L. 111–39, title IV, § 401(a)(7)][/us/pl/111/39/s401/a/7], July 1, 2009, [123 Stat. 1939][/us/stat/123/1939].)
+([Pub. L. 89–329, title IV][/us/pl/89/329/tIV], § 419C, as added [Pub. L. 99–498, title IV][/us/pl/99/498/tIV], § 401(a), Oct. 17, 1986, [100 Stat. 1344][/us/stat/100/1344]; amended [Pub. L. 102–325, title IV][/us/pl/102/325/tIV], § 406(b), July 23, 1992, [106 Stat. 508][/us/stat/106/508]; [Pub. L. 103–208][/us/pl/103/208], § 2(b)(28), Dec. 20, 1993, [107 Stat. 2459][/us/stat/107/2459]; [Pub. L. 111–39, title IV][/us/pl/111/39/tIV], § 401(a)(7), July 1, 2009, [123 Stat. 1939][/us/stat/123/1939].)
 
  __Prior Provisions__ 
 
-    A prior section 1070d–33, [Pub. L. 89–329, title IV, § 419C][/us/pl/89/329/s419C], as added [Pub. L. 98–558, title VIII, § 801(a)][/us/pl/98/558/s801/a], Oct. 30, 1984, [98 Stat. 2900][/us/stat/98/2900]; amended [Pub. L. 99–145, title XVI, § 1627(b)][/us/pl/99/145/s1627/b], Nov. 8, 1985, [99 Stat. 779][/us/stat/99/779], authorized the award of scholarships under Robert C. Byrd Honors Scholarship Program, prior to the general revision of this part by [Pub. L. 99–498][/us/pl/99/498].
+    A prior section 1070d–33, [Pub. L. 89–329, title IV][/us/pl/89/329/tIV], § 419C, as added [Pub. L. 98–558, title VIII][/us/pl/98/558/tVIII], § 801(a), Oct. 30, 1984, [98 Stat. 2900][/us/stat/98/2900]; amended [Pub. L. 99–145, title XVI][/us/pl/99/145/tXVI], § 1627(b), Nov. 8, 1985, [99 Stat. 779][/us/stat/99/779], authorized the award of scholarships under Robert C. Byrd Honors Scholarship Program, prior to the general revision of this part by [Pub. L. 99–498][/us/pl/99/498].
 
  __Amendments__ 
 
@@ -69,19 +69,19 @@
 ----------
 
 [/us/usc/t20/s1070d–34/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1070d%E2%80%9334%2Fb
-[/us/pl/89/329/s419C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2Fs419C
-[/us/pl/99/498/s401/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F498%2Fs401%2Fa
+[/us/pl/89/329/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2FtIV
+[/us/pl/99/498/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F498%2FtIV
 [/us/stat/100/1344]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1344
-[/us/pl/102/325/s406/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325%2Fs406%2Fb
+[/us/pl/102/325/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325%2FtIV
 [/us/stat/106/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F508
-[/us/pl/103/208/s2/b/28]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F208%2Fs2%2Fb%2F28
+[/us/pl/103/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F208
 [/us/stat/107/2459]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F2459
-[/us/pl/111/39/s401/a/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F39%2Fs401%2Fa%2F7
+[/us/pl/111/39/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F39%2FtIV
 [/us/stat/123/1939]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1939
-[/us/pl/89/329/s419C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2Fs419C
-[/us/pl/98/558/s801/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F558%2Fs801%2Fa
+[/us/pl/89/329/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2FtIV
+[/us/pl/98/558/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F558%2FtVIII
 [/us/stat/98/2900]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2900
-[/us/pl/99/145/s1627/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F145%2Fs1627%2Fb
+[/us/pl/99/145/tXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F145%2FtXVI
 [/us/stat/99/779]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F779
 [/us/pl/99/498]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F498
 [/us/pl/111/39]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F39

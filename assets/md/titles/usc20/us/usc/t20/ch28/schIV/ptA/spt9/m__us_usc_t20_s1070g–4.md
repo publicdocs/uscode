@@ -27,7 +27,7 @@
 
     (5) any other data necessary to conduct such evaluation.
 
-([Pub. L. 89–329, title IV, § 420P][/us/pl/89/329/s420P], as added [Pub. L. 110–315, title IV, § 412(a)(2)][/us/pl/110/315/s412/a/2], Aug. 14, 2008, [122 Stat. 3227][/us/stat/122/3227].)
+([Pub. L. 89–329, title IV][/us/pl/89/329/tIV], § 420P, as added [Pub. L. 110–315, title IV][/us/pl/110/315/tIV], § 412(a)(2), Aug. 14, 2008, [122 Stat. 3227][/us/stat/122/3227].)
 
 ----------
 
@@ -37,8 +37,8 @@
 ----------
 
 [/us/usc/t20/s1070g–2/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1070g%E2%80%932%2Fb
-[/us/pl/89/329/s420P]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2Fs420P
-[/us/pl/110/315/s412/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2Fs412%2Fa%2F2
+[/us/pl/89/329/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2FtIV
+[/us/pl/110/315/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2FtIV
 [/us/stat/122/3227]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3227
 
 

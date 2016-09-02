@@ -33,7 +33,7 @@
 
         The term “Secretary” means the Secretary of the Smithsonian Institution.
 
-([Pub. L. 108–184, § 3][/us/pl/108/184/s3], Dec. 16, 2003, [117 Stat. 2676][/us/stat/117/2676].)
+([Pub. L. 108–184][/us/pl/108/184], § 3, Dec. 16, 2003, [117 Stat. 2676][/us/stat/117/2676].)
 
 ----------
 
@@ -44,7 +44,7 @@
 
 [/us/usc/t20/s80r–3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs80r%E2%80%933
 [/us/usc/t20/s80r–2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs80r%E2%80%932
-[/us/pl/108/184/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F184%2Fs3
+[/us/pl/108/184]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F184
 [/us/stat/117/2676]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2676
 
 

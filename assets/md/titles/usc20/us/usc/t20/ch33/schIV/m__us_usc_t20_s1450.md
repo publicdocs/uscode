@@ -75,11 +75,11 @@
 
     (12) Support is needed to improve technological resources and integrate technology, including universally designed technologies, into the lives of children with disabilities, parents of children with disabilities, school personnel, and others through curricula, services, and assistive technologies.
 
-([Pub. L. 91–230, title VI, § 650][/us/pl/91/230/s650], as added [Pub. L. 108–446, title I, § 101][/us/pl/108/446/s101], Dec. 3, 2004, [118 Stat. 2763][/us/stat/118/2763].)
+([Pub. L. 91–230, title VI][/us/pl/91/230/tVI], § 650, as added [Pub. L. 108–446, title I][/us/pl/108/446/tI], § 101, Dec. 3, 2004, [118 Stat. 2763][/us/stat/118/2763].)
 
  __Transition Provisions__ 
 
-[Pub. L. 105–17, title II, § 202][/us/pl/105/17/s202], June 4, 1997, [111 Stat. 156][/us/stat/111/156], provided that: 
+[Pub. L. 105–17, title II][/us/pl/105/17/tII], § 202, June 4, 1997, [111 Stat. 156][/us/stat/111/156], provided that: 
 
 > “Notwithstanding any other provision of law, beginning on October 1, 1997, the Secretary of Education may use funds appropriated under part D of the Individuals with Disabilities Education Act \[this subchapter\] to make continuation awards for projects that were funded under section 618 \[former [20 U.S.C. 1418][/us/usc/t20/s1418]\] and parts C through G of such Act \[former subchapters III to VII of this chapter\] (as in effect on September 30, 1997).”
 
@@ -91,10 +91,10 @@
 ----------
 
 [/us/usc/t20/s1473/b/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1473%2Fb%2F6
-[/us/pl/91/230/s650]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F230%2Fs650
-[/us/pl/108/446/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F446%2Fs101
+[/us/pl/91/230/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F230%2FtVI
+[/us/pl/108/446/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F446%2FtI
 [/us/stat/118/2763]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F2763
-[/us/pl/105/17/s202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F17%2Fs202
+[/us/pl/105/17/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F17%2FtII
 [/us/stat/111/156]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F156
 [/us/usc/t20/s1418]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1418
 

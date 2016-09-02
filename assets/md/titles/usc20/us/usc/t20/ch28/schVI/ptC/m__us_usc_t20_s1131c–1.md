@@ -43,7 +43,7 @@
 
             A Ralph Bunche scholarship awarded to a student under this section shall not exceed $5,000 per academic year.
 
-([Pub. L. 89–329, title VI, § 626][/us/pl/89/329/s626], as added [Pub. L. 110–315, title VI, § 617(2)][/us/pl/110/315/s617/2], Aug. 14, 2008, [122 Stat. 3341][/us/stat/122/3341].)
+([Pub. L. 89–329, title VI][/us/pl/89/329/tVI], § 626, as added [Pub. L. 110–315, title VI][/us/pl/110/315/tVI], § 617(2), Aug. 14, 2008, [122 Stat. 3341][/us/stat/122/3341].)
 
  __Prior Provisions__ 
 
@@ -58,8 +58,8 @@
 ----------
 ----------
 
-[/us/pl/89/329/s626]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2Fs626
-[/us/pl/110/315/s617/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2Fs617%2F2
+[/us/pl/89/329/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2FtVI
+[/us/pl/110/315/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2FtVI
 [/us/stat/122/3341]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3341
 [/us/pl/89/329/s626]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2Fs626
 [/us/usc/t20/s1131d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1131d

@@ -13,121 +13,71 @@
 
 [Previous](./../../../../../../..//us/usc/t20/ch70/schIV/ptA/spt1/m__us_usc_t20_s7112.md) | [Next](./../../../../../../..//us/usc/t20/ch70/schIV/ptA/spt1/m__us_usc_t20_s7114.md) | [Root of Title](./../../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs7113)
 
-## § 7113. State application
+## § 7113. Formula grants to States
 
-    (a) __In general__ 
+    (a) __Reservations__ 
 
-    In order to receive an allotment under [section 7111(b) of this title][/us/usc/t20/s7111/b] for any fiscal year, a State shall submit to the Secretary, at such time as the Secretary may require, an application that—
+    From the total amount appropriated under [section 7122 of this title][/us/usc/t20/s7122] for a fiscal year, the Secretary shall reserve—
 
-        (1) contains a comprehensive plan for the use of funds by the State educational agency and the chief executive officer of the State to provide safe, orderly, and drug-free schools and communities through programs and activities that complement and support activities of local educational agencies under [section 7115(b) of this title][/us/usc/t20/s7115/b], that comply with the principles of effectiveness under [section 7115(a) of this title][/us/usc/t20/s7115/a], and that otherwise are in accordance with the purpose of this part;
+        (1) one-half of 1 percent for allotments for payments to the outlying areas, to be distributed among those outlying areas on the basis of their relative need, as determined by the Secretary, in accordance with the purpose of this subpart;
 
-        (2) describes how activities funded under this subpart will foster a safe and drug-free learning environment that supports academic achievement;
+        (2) one-half of 1 percent for the Secretary of the Interior for programs under this subpart in schools operated or funded by the Bureau of Indian Education; and
 
-        (3) provides an assurance that the application was developed in consultation and coordination with appropriate State officials and others, including the chief executive officer, the chief State school officer, the head of the State alcohol and drug abuse agency, the heads of the State health and mental health agencies, the head of the State criminal justice planning agency, the head of the State child welfare agency, the head of the State board of education, or their designees, and representatives of parents, students, and community-based organizations;
+        (3) 2 percent for technical assistance and capacity building.
 
-        (4) describes how the State educational agency will coordinate such agency’s activities under this subpart with the chief executive officer’s drug and violence prevention programs under this subpart and with the prevention efforts of other State agencies and other programs, as appropriate, in accordance with the provisions in [section 7846 of this title][/us/usc/t20/s7846];
+    (b) __State allotments__ 
 
-        (5) provides an assurance that funds reserved under [section 7112(a) of this title][/us/usc/t20/s7112/a] will not duplicate the efforts of the State educational agency and local educational agencies with regard to the provision of school-based drug and violence prevention activities and that those funds will be used to serve populations not normally served by the State educational agencies and local educational agencies and populations that need special services, such as school dropouts, suspended and expelled students, youth in detention centers, runaway or homeless children and youth, and pregnant and parenting youth;
+        (1) __Allotment__ 
 
-        (6) provides an assurance that the State will cooperate with, and assist, the Secretary in conducting data collection as required by [section 7132 of this title][/us/usc/t20/s7132];
+            (A) __In general__ 
 
-        (7) provides an assurance that the local educational agencies in the State will comply with the provisions of [section 7881 of this title][/us/usc/t20/s7881] pertaining to the participation of private school children and teachers in the programs and activities under this subpart;
+                Subject to subparagraphs (B) and (C), from the amount appropriated to carry out this subpart that remains after the Secretary makes the reservations under subsection (a), the Secretary shall allot to each State having a plan approved under subsection (c), an amount that bears the same relationship to the remainder as the amount the State received under subpart 2 of part A of subchapter I for the preceding fiscal year bears to the amount all States received under that subpart for the preceding fiscal year.
 
-        (8) provides an assurance that funds under this subpart will be used to increase the level of State, local, and other non-Federal funds that would, in the absence of funds under this subpart, be made available for programs and activities authorized under this subpart, and in no case supplant such State, local, and other non-Federal funds;
+            (B) __Small State minimum__ 
 
-        (9)
+        No State receiving an allotment under this paragraph shall receive less than one-half of 1 percent of the total amount allotted under this paragraph.
 
-         contains the results of a needs assessment conducted by the State for drug and violence prevention programs, which shall be based on ongoing State evaluation activities, including data on—
+        (C) __Puerto Rico__ 
 
-            (A) the incidence and prevalence of illegal drug use and violence among youth in schools and communities, including the age of onset, the perception of health risks, and the perception of social disapproval among such youth;
+        The amount allotted under this paragraph to the Commonwealth of Puerto Rico for a fiscal year may not exceed one-half of 1 percent of the total amount allotted under this paragraph.    (2) __Reallotment__ 
 
-            (B) the prevalence of risk factors, including high or increasing rates of reported cases of child abuse or domestic violence;
+                If a State does not receive an allotment under this subpart for a fiscal year, the Secretary shall reallot the amount of the State’s allotment to the remaining States in accordance with this subsection.
 
-            (C) the prevalence of protective factors, buffers, or assets; and
+    (c) __State plan__ 
 
-            (D) other variables in the school and community identified through scientifically based research;
+        (1) __In general__ 
 
-        (10)
+            In order to receive an allotment under this section for any fiscal year, a State shall submit a plan to the Secretary, at such time and in such manner as the Secretary may reasonably require.
 
-         provides a statement of the State’s performance measures for drug and violence prevention programs and activities to be funded under this subpart that will be focused on student behavior and attitudes, derived from the needs assessment described in paragraph (9), and be developed in consultation between the State and local officials, and that consist of—
+        (2) __Contents__ 
 
-            (A) performance indicators for drug and violence prevention programs and activities; and
+        Each plan submitted by a State under this section shall include the following:
 
-            (B) levels of performance for each performance indicator;
+            (A) A description of how the State educational agency will use funds received under this subpart for State-level activities.
 
-        (11) describes the procedures the State will use for assessing and publicly reporting progress toward meeting the performance measures described in paragraph (10);
+            (B) A description of how the State educational agency will ensure that awards made to local educational agencies under this subpart are in amounts that are consistent with [section 7115(a)(2) of this title][/us/usc/t20/s7115/a/2].
 
-        (12) provides an assurance that the State application will be available for public review after submission of the application;
+            (C)
 
-        (13) describes the special outreach activities that will be carried out by the State educational agency and the chief executive officer of the State to maximize the participation of community-based organizations of demonstrated effectiveness that provide services such as mentoring programs in low-income communities;
+             Assurances that the State educational agency will—
 
-        (14) describes how funds will be used by the State educational agency and the chief executive officer of the State to support, develop, and implement community-wide comprehensive drug and violence prevention planning and organizing activities;
+                (i) review existing resources and programs across the State and will coordinate any new plans and resources under this subpart with such existing resources and programs;
 
-        (15) describes how input from parents will be sought regarding the use of funds by the State educational agency and the chief executive officer of the State;
+                (ii) monitor the implementation of activities under this subpart and provide technical assistance to local educational agencies in carrying out such activities; and
 
-        (16) describes how the State educational agency will review applications from local educational agencies, including how the agency will receive input from parents in such review;
+                (iii) provide for equitable access for all students to the activities supported under this subpart, including aligning those activities with the requirements of other Federal laws.
 
-        (17) describes how the State educational agency will monitor the implementation of activities under this subpart, and provide technical assistance for local educational agencies, community-based organizations, other public entities, and private organizations;
-
-        (18) describes how the chief executive officer of the State will award funds under [section 7112(a) of this title][/us/usc/t20/s7112/a] and implement a plan for monitoring the performance of, and providing technical assistance to, recipients of such funds; and
-
-        (19) includes any other information the Secretary may require.
-
-    (b) __Interim application__ 
-
-        (1) __Authority__ 
-
-            Notwithstanding any other provision of this section, a State may submit for fiscal year 2002 a 1-year interim application and plan for the use of funds under this subpart that is consistent with the requirements of this section and contains such information as the Secretary may specify in regulations.
-
-        (2) __Purpose__ 
-
-            The purpose of such interim application and plan shall be to afford the State the opportunity to fully develop and review such State’s application and comprehensive plan otherwise required by this section.
-
-        (3) __Exception__ 
-
-            A State may not receive a grant under this subpart for a fiscal year after fiscal year 2002 unless the Secretary has approved such State’s application and comprehensive plan as described in subsection (a) of this section.
-
-    (c) __Approval process__ 
-
-        (1) __Deemed approval__ 
-
-            An application submitted by a State pursuant to this section shall undergo peer review by the Secretary and shall be deemed to be approved by the Secretary unless the Secretary makes a written determination, prior to the expiration of the 120-day period beginning on the date on which the Secretary received the application, that the application is not in compliance with this subpart.
-
-        (2) __Disapproval__ 
-
-            The Secretary shall not finally disapprove the application, except after giving the State educational agency and the chief executive officer of the State notice and an opportunity for a hearing.
-
-        (3) __Notification__ 
-
-        If the Secretary finds that the application is not in compliance, in whole or in part, with this subpart, the Secretary shall—
-
-            (A) give the State educational agency and the chief executive officer of the State notice and an opportunity for a hearing; and
-
-            (B)
-
-             notify the State educational agency and the chief executive officer of the State of the finding of noncompliance, and in such notification, shall—
-
-                (i) cite the specific provisions in the application that are not in compliance; and
-
-                (ii) request additional information, only as to the noncompliant provisions, needed to make the application compliant.
-
-        (4) __Response__ 
-
-        If the State educational agency and the chief executive officer of the State respond to the Secretary’s notification described in paragraph (3)(B) during the 45-day period beginning on the date on which the agency received the notification, and resubmit the application with the requested information described in paragraph (3)(B)(ii), the Secretary shall approve or disapprove such application prior to the later of—
-
-            (A) the expiration of the 45-day period beginning on the date on which the application is resubmitted; or
-
-            (B) the expiration of the 120-day period described in paragraph (1).
-
-        (5) __Failure to respond__ 
-
-            If the State educational agency and the chief executive officer of the State do not respond to the Secretary’s notification described in paragraph (3)(B) during the 45-day period beginning on the date on which the agency received the notification, such application shall be deemed to be disapproved.
-
-([Pub. L. 89–10, title IV, § 4113][/us/pl/89/10/s4113], as added [Pub. L. 107–110, title IV, § 401][/us/pl/107/110/s401], Jan. 8, 2002, [115 Stat. 1739][/us/stat/115/1739].)
+([Pub. L. 89–10, title IV][/us/pl/89/10/tIV], § 4103, as added [Pub. L. 114–95, title IV][/us/pl/114/95/tIV], § 4101, Dec. 10, 2015, [129 Stat. 1970][/us/stat/129/1970].)
 
  __Prior Provisions__ 
 
-    A prior section 7113, [Pub. L. 89–10, title IV, § 4113][/us/pl/89/10/s4113], as added [Pub. L. 103–382, title I, § 101][/us/pl/103/382/s101], Oct. 20, 1994, [108 Stat. 3677][/us/stat/108/3677], related to State and local educational agency programs, prior to the general amendment of this subchapter by [Pub. L. 107–110][/us/pl/107/110]. See [section 7114 of this title][/us/usc/t20/s7114].
+    A prior section 7113, [Pub. L. 89–10, title IV][/us/pl/89/10/tIV], § 4113, as added [Pub. L. 107–110, title IV][/us/pl/107/110/tIV], § 401, Jan. 8, 2002, [115 Stat. 1739][/us/stat/115/1739], related to State application to receive allotment, prior to the general amendment of this subpart by [Pub. L. 114–95][/us/pl/114/95].
+
+    Another prior section 7113, [Pub. L. 89–10, title IV][/us/pl/89/10/tIV], § 4113, as added [Pub. L. 103–382, title I][/us/pl/103/382/tI], § 101, Oct. 20, 1994, [108 Stat. 3677][/us/stat/108/3677], related to State and local educational agency programs, prior to the general amendment of this subchapter by [Pub. L. 107–110][/us/pl/107/110].
+
+ __Effective Date__ 
+
+    Section effective Dec. 10, 2015, except with respect to certain noncompetitive programs and competitive programs, see [section 5 of Pub. L. 114–95][/us/pl/114/95/s5], set out as an Effective Date of 2015 Amendment note under [section 6301 of this title][/us/usc/t20/s6301].
 
 ----------
 
@@ -136,21 +86,20 @@
 ----------
 ----------
 
-[/us/usc/t20/s7111/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs7111%2Fb
-[/us/usc/t20/s7115/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs7115%2Fb
-[/us/usc/t20/s7115/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs7115%2Fa
-[/us/usc/t20/s7846]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs7846
-[/us/usc/t20/s7112/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs7112%2Fa
-[/us/usc/t20/s7132]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs7132
-[/us/usc/t20/s7881]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs7881
-[/us/usc/t20/s7112/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs7112%2Fa
-[/us/pl/89/10/s4113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F10%2Fs4113
-[/us/pl/107/110/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F110%2Fs401
+[/us/usc/t20/s7122]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs7122
+[/us/usc/t20/s7115/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs7115%2Fa%2F2
+[/us/pl/89/10/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F10%2FtIV
+[/us/pl/114/95/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F95%2FtIV
+[/us/stat/129/1970]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1970
+[/us/pl/89/10/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F10%2FtIV
+[/us/pl/107/110/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F110%2FtIV
 [/us/stat/115/1739]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F1739
-[/us/pl/89/10/s4113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F10%2Fs4113
-[/us/pl/103/382/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F382%2Fs101
+[/us/pl/114/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F95
+[/us/pl/89/10/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F10%2FtIV
+[/us/pl/103/382/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F382%2FtI
 [/us/stat/108/3677]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3677
 [/us/pl/107/110]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F110
-[/us/usc/t20/s7114]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs7114
+[/us/pl/114/95/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F95%2Fs5
+[/us/usc/t20/s6301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs6301
 
 

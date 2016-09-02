@@ -17,7 +17,7 @@
 
     In the formulation of remedies under section 1712 or 1713 of this title the lines drawn by a State, subdividing its territory into separate school districts, shall not be ignored or altered except where it is established that the lines were drawn for the purpose, and had the effect, of segregating children among public schools on the basis of race, color, sex, or national origin.
 
-([Pub. L. 93–380, title II, § 216][/us/pl/93/380/s216], Aug. 21, 1974, [88 Stat. 518][/us/stat/88/518].)
+([Pub. L. 93–380, title II][/us/pl/93/380/tII], § 216, Aug. 21, 1974, [88 Stat. 518][/us/stat/88/518].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/93/380/s216]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F380%2Fs216
+[/us/pl/93/380/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F380%2FtII
 [/us/stat/88/518]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F518
 
 

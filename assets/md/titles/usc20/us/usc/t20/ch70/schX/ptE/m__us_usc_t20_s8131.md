@@ -13,9 +13,9 @@
 
 [Previous](./../../../../../..//us/usc/t20/ch70/schX/ptE/m__us_usc_t20_ch70_schX_ptE.md) | [Next](./../../../../../..//us/usc/t20/ch70/schX/ptF/m__us_usc_t20_ch70_schX_ptF.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs8131)
 
-## § 8131. Repealed. [Pub. L. 107–110, title X, § 1011(5)(A)][/us/pl/107/110/s1011/5/A], Jan. 8, 2002, [115 Stat. 1986][/us/stat/115/1986]
+## § 8131. Repealed. [Pub. L. 107–110, title X][/us/pl/107/110/tX], § 1011(5)(A), Jan. 8, 2002, [115 Stat. 1986][/us/stat/115/1986]
 
-    Section, [Pub. L. 89–10, title X, § 10501][/us/pl/89/10/s10501], as added [Pub. L. 103–382, title I, § 101][/us/pl/103/382/s101], Oct. 20, 1994, [108 Stat. 3837][/us/stat/108/3837], related to inexpensive book distribution program for reading motivation. See [section 7251 of this title][/us/usc/t20/s7251].
+    Section, [Pub. L. 89–10, title X][/us/pl/89/10/tX], § 10501, as added [Pub. L. 103–382, title I][/us/pl/103/382/tI], § 101, Oct. 20, 1994, [108 Stat. 3837][/us/stat/108/3837], related to inexpensive book distribution program for reading motivation.
 
 ----------
 
@@ -24,11 +24,10 @@
 ----------
 ----------
 
-[/us/pl/107/110/s1011/5/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F110%2Fs1011%2F5%2FA
+[/us/pl/107/110/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F110%2FtX
 [/us/stat/115/1986]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F1986
-[/us/pl/89/10/s10501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F10%2Fs10501
-[/us/pl/103/382/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F382%2Fs101
+[/us/pl/89/10/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F10%2FtX
+[/us/pl/103/382/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F382%2FtI
 [/us/stat/108/3837]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3837
-[/us/usc/t20/s7251]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs7251
 
 

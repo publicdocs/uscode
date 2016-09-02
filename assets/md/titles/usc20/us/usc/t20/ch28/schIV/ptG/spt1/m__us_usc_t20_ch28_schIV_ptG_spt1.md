@@ -17,7 +17,7 @@
 
  __Codification__ 
 
-    Subpart 1 of part H of title IV of the Higher Education Act of 1965, comprising this subpart, was originally added to [Pub. L. 89–329, title IV][/us/pl/89/329], by [Pub. L. 102–325, title IV, § 499][/us/pl/102/325/s499], July 23, 1992, [106 Stat. 635][/us/stat/106/635], and amended by [Pub. L. 103–208][/us/pl/103/208], Dec. 20, 1993, [107 Stat. 2457][/us/stat/107/2457]. Subpart 1 is shown herein, however, as having been added by [Pub. L. 105–244, title IV, § 491(2)][/us/pl/105/244/s491/2], Oct. 7, 1998, [112 Stat. 1759][/us/stat/112/1759], without reference to those intervening amendments because of the extensive revision of subpart 1 by [Pub. L. 105–244][/us/pl/105/244].
+    Subpart 1 of part H of title IV of the Higher Education Act of 1965, comprising this subpart, was originally added to [Pub. L. 89–329, title IV][/us/pl/89/329/tIV], by [Pub. L. 102–325, title IV][/us/pl/102/325/tIV], § 499, July 23, 1992, [106 Stat. 635][/us/stat/106/635], and amended by [Pub. L. 103–208][/us/pl/103/208], Dec. 20, 1993, [107 Stat. 2457][/us/stat/107/2457]. Subpart 1 is shown herein, however, as having been added by [Pub. L. 105–244, title IV][/us/pl/105/244/tIV], § 491(2), Oct. 7, 1998, [112 Stat. 1759][/us/stat/112/1759], without reference to those intervening amendments because of the extensive revision of subpart 1 by [Pub. L. 105–244][/us/pl/105/244].
 
 ----------
 
@@ -26,12 +26,12 @@
 ----------
 ----------
 
-[/us/pl/89/329]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329
-[/us/pl/102/325/s499]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325%2Fs499
+[/us/pl/89/329/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2FtIV
+[/us/pl/102/325/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325%2FtIV
 [/us/stat/106/635]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F635
 [/us/pl/103/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F208
 [/us/stat/107/2457]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F2457
-[/us/pl/105/244/s491/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2Fs491%2F2
+[/us/pl/105/244/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2FtIV
 [/us/stat/112/1759]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F1759
 [/us/pl/105/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244
 

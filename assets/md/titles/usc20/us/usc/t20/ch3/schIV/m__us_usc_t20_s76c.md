@@ -23,7 +23,7 @@
 
         In order to encourage the development of contemporary art and to effect the widest distribution and cultivation in matters of such art, the Regents are authorized to solicit and receive funds from private sources, to acquire (by purchase or otherwise) and sell contemporary works of art or copies thereof, to employ artists and other personnel, award scholarships, conduct exhibitions, and generally to do such things and have such other powers as will effectuate the purposes of this subsection. Funds received by the Regents under this subsection shall be placed in a special deposit account with the Treasurer of the United States and may be expended by the Regents for the purposes enumerated in this subsection and for no other purposes: Provided, That the Regents shall not incur any obligations under this subsection in excess of the funds available therefor.
 
-([May 17, 1938, ch. 238, § 4][/us/act/1938-05-17/ch238/s4], [52 Stat. 400][/us/stat/52/400].)
+([May 17, 1938, ch. 238][/us/act/1938-05-17/ch238], § 4, [52 Stat. 400][/us/stat/52/400].)
 
 ----------
 
@@ -32,7 +32,7 @@
 ----------
 ----------
 
-[/us/act/1938-05-17/ch238/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-05-17%2Fch238%2Fs4
+[/us/act/1938-05-17/ch238]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-05-17%2Fch238
 [/us/stat/52/400]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F52%2F400
 
 

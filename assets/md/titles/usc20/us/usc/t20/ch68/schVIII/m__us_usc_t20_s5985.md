@@ -75,7 +75,7 @@
 
         (5) the applicant will coordinate or conduct seminars that offer a combination of academic instruction in American government, exposure to the practical workings of the political system, and training in appropriate pedagogical techniques for working with minority and Native American students.
 
-([Pub. L. 103–227, title VIII, § 805][/us/pl/103/227/s805], Mar. 31, 1994, [108 Stat. 210][/us/stat/108/210].)
+([Pub. L. 103–227, title VIII][/us/pl/103/227/tVIII], § 805, Mar. 31, 1994, [108 Stat. 210][/us/stat/108/210].)
 
 ----------
 
@@ -84,7 +84,7 @@
 ----------
 ----------
 
-[/us/pl/103/227/s805]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F227%2Fs805
+[/us/pl/103/227/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F227%2FtVIII
 [/us/stat/108/210]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F210
 
 

@@ -39,11 +39,11 @@
 
         (9) development of science, engineering, and education networks to aid in the development and dissemination of successful curricula, methods, and materials.
 
-([Pub. L. 98–377, title I, § 102][/us/pl/98/377/s102], as added [Pub. L. 99–159, title II, § 201][/us/pl/99/159/s201], Nov. 22, 1985, [99 Stat. 894][/us/stat/99/894].)
+([Pub. L. 98–377, title I][/us/pl/98/377/tI], § 102, as added [Pub. L. 99–159, title II][/us/pl/99/159/tII], § 201, Nov. 22, 1985, [99 Stat. 894][/us/stat/99/894].)
 
  __Prior Provisions__ 
 
-    A prior section 3912, [Pub. L. 98–377, title I, § 102][/us/pl/98/377/s102], Aug. 11, 1984, [98 Stat. 1268][/us/stat/98/1268], related to submission, contents, etc., of applications, prior to the general revision of this subchapter by [section 201 of Pub. L. 99–159][/us/pl/99/159/s201].
+    A prior section 3912, [Pub. L. 98–377, title I][/us/pl/98/377/tI], § 102, Aug. 11, 1984, [98 Stat. 1268][/us/stat/98/1268], related to submission, contents, etc., of applications, prior to the general revision of this subchapter by [section 201 of Pub. L. 99–159][/us/pl/99/159/s201].
 
 ----------
 
@@ -52,10 +52,10 @@
 ----------
 ----------
 
-[/us/pl/98/377/s102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F377%2Fs102
-[/us/pl/99/159/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F159%2Fs201
+[/us/pl/98/377/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F377%2FtI
+[/us/pl/99/159/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F159%2FtII
 [/us/stat/99/894]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F894
-[/us/pl/98/377/s102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F377%2Fs102
+[/us/pl/98/377/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F377%2FtI
 [/us/stat/98/1268]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F1268
 [/us/pl/99/159/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F159%2Fs201
 

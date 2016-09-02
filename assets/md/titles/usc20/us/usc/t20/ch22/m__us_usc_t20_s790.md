@@ -13,9 +13,9 @@
 
 [Previous](./../../../..//us/usc/t20/ch22/m__us_usc_t20_s789.md) | [Next](./../../../..//us/usc/t20/ch23/m__us_usc_t20_ch23.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs790)
 
-## § 790. Repealed. [Pub. L. 91–346, § 5(d)(3)(B)][/us/pl/91/346/s5/d/3/B], July 20, 1970, [84 Stat. 445][/us/stat/84/445]
+## § 790. Repealed. [Pub. L. 91–346][/us/pl/91/346], § 5(d)(3)(B), July 20, 1970, [84 Stat. 445][/us/stat/84/445]
 
-    Section, [Pub. L. 88–579, § 11][/us/pl/88/579/s11], Sept. 3, 1964, [78 Stat. 907][/us/stat/78/907], provided that this chapter would not invalidate any act of Congress or Executive order vesting authority in the Commission of Fine Arts or any other Federal advisory body nor would this chapter authorize the National Council on the Arts to undertake any duty or responsibility which belongs to any other Federal advisory body established as of Sept. 3, 1964.
+    Section, [Pub. L. 88–579][/us/pl/88/579], § 11, Sept. 3, 1964, [78 Stat. 907][/us/stat/78/907], provided that this chapter would not invalidate any act of Congress or Executive order vesting authority in the Commission of Fine Arts or any other Federal advisory body nor would this chapter authorize the National Council on the Arts to undertake any duty or responsibility which belongs to any other Federal advisory body established as of Sept. 3, 1964.
 
  __Effective Date of Repeal__ 
 
@@ -28,9 +28,9 @@
 ----------
 ----------
 
-[/us/pl/91/346/s5/d/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F346%2Fs5%2Fd%2F3%2FB
+[/us/pl/91/346]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F346
 [/us/stat/84/445]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F445
-[/us/pl/88/579/s11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F579%2Fs11
+[/us/pl/88/579]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F579
 [/us/stat/78/907]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F907
 [/us/pl/91/346/s5/d/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F346%2Fs5%2Fd%2F3%2FB
 

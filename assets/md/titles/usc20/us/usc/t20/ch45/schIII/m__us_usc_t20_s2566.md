@@ -17,17 +17,17 @@
 
     In recognition of the public service of Senator Hubert H. Humphrey, the Secretary of Education (hereafter in sections 2566 to 2569 of this title referred to as the “Secretary”) is authorized to make grants in accordance with the provisions of sections 2566 to 2569 of this title to assist in the development of the Hubert H. Humphrey Institute of Public Affairs, located at the University of Minnesota, Minneapolis-Saint Paul.
 
-([Pub. L. 95–270, § 2(a)][/us/pl/95/270/s2/a], Apr. 27, 1978, [92 Stat. 220][/us/stat/92/220]; [Pub. L. 96–88, title III, § 301(a)(1)][/us/pl/96/88/s301/a/1], title V, § 507, Oct. 17, 1979, [93 Stat. 677][/us/stat/93/677], 692.)
+([Pub. L. 95–270][/us/pl/95/270], § 2(a), Apr. 27, 1978, [92 Stat. 220][/us/stat/92/220]; [Pub. L. 96–88, title III][/us/pl/96/88/tIII], § 301(a)(1), title V, § 507, Oct. 17, 1979, [93 Stat. 677][/us/stat/93/677], 692.)
 
  __Effective Date__ 
 
-[Pub. L. 95–270, § 4(d)][/us/pl/95/270/s4/d], Apr. 27, 1978, [92 Stat. 220][/us/stat/92/220], provided that: 
+[Pub. L. 95–270][/us/pl/95/270], § 4(d), Apr. 27, 1978, [92 Stat. 220][/us/stat/92/220], provided that: 
 
 > “This Act \[enacting this section, sections 2567 to 2569 of this title, and provisions set out as a note below\] shall take effect October 1, 1978.”
 
  __Short Title__ 
 
-[Pub. L. 95–270, § 1][/us/pl/95/270/s1], Apr. 27, 1978, [92 Stat. 220][/us/stat/92/220], provided: 
+[Pub. L. 95–270][/us/pl/95/270], § 1, Apr. 27, 1978, [92 Stat. 220][/us/stat/92/220], provided: 
 
 > “That this Act \[enacting this section, sections 2567 to 2569 of this title, and provisions set out as a note above\] may be cited as the ‘Hubert H. Humphrey Institute of Public Affairs and the Everett McKinley Dirksen Congressional Leadership Research Center Assistance Act’.”
 
@@ -42,13 +42,13 @@
 ----------
 ----------
 
-[/us/pl/95/270/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F270%2Fs2%2Fa
+[/us/pl/95/270]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F270
 [/us/stat/92/220]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F220
-[/us/pl/96/88/s301/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F88%2Fs301%2Fa%2F1
+[/us/pl/96/88/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F88%2FtIII
 [/us/stat/93/677]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F677
-[/us/pl/95/270/s4/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F270%2Fs4%2Fd
+[/us/pl/95/270]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F270
 [/us/stat/92/220]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F220
-[/us/pl/95/270/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F270%2Fs1
+[/us/pl/95/270]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F270
 [/us/stat/92/220]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F220
 [/us/pl/96/88]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F88
 

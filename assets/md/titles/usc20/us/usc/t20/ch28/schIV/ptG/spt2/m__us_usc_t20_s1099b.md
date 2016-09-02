@@ -281,17 +281,17 @@
 
         The Secretary shall require a review, at the next available meeting of the National Advisory Committee on Institutional Quality and Integrity, of any change in scope undertaken by an agency or association under subsection (a)(4)(B)(i)(II) if the enrollment of an institution that offers distance education or correspondence education that is accredited by such agency or association increases by 50 percent or more within any one institutional fiscal year.
 
-([Pub. L. 89–329, title IV, § 496][/us/pl/89/329/s496], as added [Pub. L. 102–325, title IV, § 499][/us/pl/102/325/s499], July 23, 1992, [106 Stat. 641][/us/stat/106/641]; amended [Pub. L. 103–208, § 2(i)(3)][/us/pl/103/208/s2/i/3]–(8), Dec. 20, 1993, [107 Stat. 2478][/us/stat/107/2478], 2479; [Pub. L. 105–244, title I, § 102(b)(5)][/us/pl/105/244/s102/b/5], title IV, § 492(a)(2)–(d), Oct. 7, 1998, [112 Stat. 1622][/us/stat/112/1622], 1759, 1760; [Pub. L. 110–315, title IV, § 495][/us/pl/110/315/s495], Aug. 14, 2008, [122 Stat. 3324][/us/stat/122/3324]; [Pub. L. 111–39, title IV, § 408(1)][/us/pl/111/39/s408/1], July 1, 2009, [123 Stat. 1953][/us/stat/123/1953].)
+([Pub. L. 89–329, title IV][/us/pl/89/329/tIV], § 496, as added [Pub. L. 102–325, title IV][/us/pl/102/325/tIV], § 499, July 23, 1992, [106 Stat. 641][/us/stat/106/641]; amended [Pub. L. 103–208][/us/pl/103/208], § 2(i)(3)–(8), Dec. 20, 1993, [107 Stat. 2478][/us/stat/107/2478], 2479; [Pub. L. 105–244, title I][/us/pl/105/244/tI], § 102(b)(5), title IV, § 492(a)(2)–(d), Oct. 7, 1998, [112 Stat. 1622][/us/stat/112/1622], 1759, 1760; [Pub. L. 110–315, title IV][/us/pl/110/315/tIV], § 495, Aug. 14, 2008, [122 Stat. 3324][/us/stat/122/3324]; [Pub. L. 111–39, title IV][/us/pl/111/39/tIV], § 408(1), July 1, 2009, [123 Stat. 1953][/us/stat/123/1953].)
 
  __Amendments__ 
 
     2009—Subsec. (a)(6)(G). [Pub. L. 111–39][/us/pl/111/39] substituted semicolon for period at end.
 
-    2008—Subsec. (a)(4). [Pub. L. 110–315, § 495(1)(A)][/us/pl/110/315/s495/1/A], added par. (4) and struck out former par. (4) which read as follows: “such agency or association consistently applies and enforces standards that ensure that the courses or programs of instruction, training, or study offered by the institution of higher education, including distance education courses or programs, are of sufficient quality to achieve, for the duration of the accreditation period, the stated objective for which the courses or the programs are offered;”.
+    2008—Subsec. (a)(4). [Pub. L. 110–315][/us/pl/110/315], § 495(1)(A), added par. (4) and struck out former par. (4) which read as follows: “such agency or association consistently applies and enforces standards that ensure that the courses or programs of instruction, training, or study offered by the institution of higher education, including distance education courses or programs, are of sufficient quality to achieve, for the duration of the accreditation period, the stated objective for which the courses or the programs are offered;”.
 
-    Subsec. (a)(5)(A). [Pub. L. 110–315, § 495(1)(B)][/us/pl/110/315/s495/1/B], amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “success with respect to student achievement in relation to the institution’s mission, including, as appropriate, consideration of course completion, State licensing examinations, and job placement rates;”.
+    Subsec. (a)(5)(A). [Pub. L. 110–315][/us/pl/110/315], § 495(1)(B), amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “success with respect to student achievement in relation to the institution’s mission, including, as appropriate, consideration of course completion, State licensing examinations, and job placement rates;”.
 
-    Subsec. (a)(6). [Pub. L. 110–315, § 495(1)(C)][/us/pl/110/315/s495/1/C], added par. (6) and struck out former par. (6) which read as follows: “such agency or association shall apply procedures throughout the accrediting process, including evaluation and withdrawal proceedings, that comply with due process, including—
+    Subsec. (a)(6). [Pub. L. 110–315][/us/pl/110/315], § 495(1)(C), added par. (6) and struck out former par. (6) which read as follows: “such agency or association shall apply procedures throughout the accrediting process, including evaluation and withdrawal proceedings, that comply with due process, including—
 
     “(A) adequate specification of requirements and deficiencies at the institution of higher education or program being examined;
 
@@ -301,81 +301,81 @@
 
     “(D) the right to representation by counsel for any such institution;”.
 
-    Subsec. (c)(1). [Pub. L. 110–315, § 495(2)(A)][/us/pl/110/315/s495/2/A], inserted “, including those regarding distance education” after “their responsibilities”.
+    Subsec. (c)(1). [Pub. L. 110–315][/us/pl/110/315], § 495(2)(A), inserted “, including those regarding distance education” after “their responsibilities”.
 
-    Subsec. (c)(2) to (8). [Pub. L. 110–315, § 495(2)(B)][/us/pl/110/315/s495/2/B]–(D), added pars. (2), (3), and (7), redesignated former pars. (2) to (6) as (4) to (8), respectively, and struck out former par. (7) which read as follows: “maintains and makes publicly available written materials regarding standards and procedures for accreditation, appeal procedures, and the accreditation status of each institution subject to its jurisdiction; and”.
+    Subsec. (c)(2) to (8). [Pub. L. 110–315][/us/pl/110/315], § 495(2)(B)–(D), added pars. (2), (3), and (7), redesignated former pars. (2) to (6) as (4) to (8), respectively, and struck out former par. (7) which read as follows: “maintains and makes publicly available written materials regarding standards and procedures for accreditation, appeal procedures, and the accreditation status of each institution subject to its jurisdiction; and”.
 
-    Subsec. (c)(9). [Pub. L. 110–315, § 495(2)(E)][/us/pl/110/315/s495/2/E], (F), added par. (9).
+    Subsec. (c)(9). [Pub. L. 110–315][/us/pl/110/315], § 495(2)(E), (F), added par. (9).
 
-    Subsec. (g). [Pub. L. 110–315, § 495(3)][/us/pl/110/315/s495/3], inserted at end “Nothing in this section shall be construed to permit the Secretary to establish any criteria that specifies, defines, or prescribes the standards that accrediting agencies or associations shall use to assess any institution’s success with respect to student achievement.”
+    Subsec. (g). [Pub. L. 110–315][/us/pl/110/315], § 495(3), inserted at end “Nothing in this section shall be construed to permit the Secretary to establish any criteria that specifies, defines, or prescribes the standards that accrediting agencies or associations shall use to assess any institution’s success with respect to student achievement.”
 
-    Subsec. (o). [Pub. L. 110–315, § 495(4)][/us/pl/110/315/s495/4], inserted at end “Notwithstanding any other provision of law, the Secretary shall not promulgate any regulation with respect to the standards of an accreditation agency or association described in subsection (a)(5).”
+    Subsec. (o). [Pub. L. 110–315][/us/pl/110/315], § 495(4), inserted at end “Notwithstanding any other provision of law, the Secretary shall not promulgate any regulation with respect to the standards of an accreditation agency or association described in subsection (a)(5).”
 
-    Subsecs. (p), (q). [Pub. L. 110–315, § 495(5)][/us/pl/110/315/s495/5], added subsecs. (p) and (q).
+    Subsecs. (p), (q). [Pub. L. 110–315][/us/pl/110/315], § 495(5), added subsecs. (p) and (q).
 
-    1998—[Pub. L. 105–244, § 492(a)(2)][/us/pl/105/244/s492/a/2], substituted “Recognition” for “Approval” in section catchline.
+    1998—[Pub. L. 105–244][/us/pl/105/244], § 492(a)(2), substituted “Recognition” for “Approval” in section catchline.
 
-    Subsec. (a). [Pub. L. 105–244, § 492(b)(1)][/us/pl/105/244/s492/b/1], (2), substituted “Criteria” for “Standards” in heading and “criteria” for “standards” wherever appearing in introductory provisions.
+    Subsec. (a). [Pub. L. 105–244][/us/pl/105/244], § 492(b)(1), (2), substituted “Criteria” for “Standards” in heading and “criteria” for “standards” wherever appearing in introductory provisions.
 
-    Subsec. (a)(4). [Pub. L. 105–244, § 492(b)(3)][/us/pl/105/244/s492/b/3], substituted “offered by the institution” for “at the institution” and inserted “, including distance education courses or programs,” after “higher education”.
+    Subsec. (a)(4). [Pub. L. 105–244][/us/pl/105/244], § 492(b)(3), substituted “offered by the institution” for “at the institution” and inserted “, including distance education courses or programs,” after “higher education”.
 
-    Subsec. (a)(5). [Pub. L. 105–244, § 492(b)(4)(A)][/us/pl/105/244/s492/b/4/A], (H), substituted “for accreditation” for “of accreditation” in introductory provisions and “(A), (H), and (J)” for “(G), (H), (I), (J), and (L)” in concluding provisions.
+    Subsec. (a)(5). [Pub. L. 105–244][/us/pl/105/244], § 492(b)(4)(A), (H), substituted “for accreditation” for “of accreditation” in introductory provisions and “(A), (H), and (J)” for “(G), (H), (I), (J), and (L)” in concluding provisions.
 
-    Subsec. (a)(5)(A) to (G). [Pub. L. 105–244, § 492(b)(4)(C)][/us/pl/105/244/s492/b/4/C], (E), added subpar. (A) and redesignated former subpars. (A) to (F) as (B) to (G), respectively. Former subpar. (G) redesignated (H).
+    Subsec. (a)(5)(A) to (G). [Pub. L. 105–244][/us/pl/105/244], § 492(b)(4)(C), (E), added subpar. (A) and redesignated former subpars. (A) to (F) as (B) to (G), respectively. Former subpar. (G) redesignated (H).
 
-    Subsec. (a)(5)(H). [Pub. L. 105–244, § 492(b)(4)(F)][/us/pl/105/244/s492/b/4/F], substituted “measures of program length” for “program length and tuition and fees in relation to the subject matters taught”.
+    Subsec. (a)(5)(H). [Pub. L. 105–244][/us/pl/105/244], § 492(b)(4)(F), substituted “measures of program length” for “program length and tuition and fees in relation to the subject matters taught”.
 
-    [Pub. L. 105–244, § 492(b)(4)(C)][/us/pl/105/244/s492/b/4/C], redesignated subpar. (G) as (H).
+    [Pub. L. 105–244][/us/pl/105/244], § 492(b)(4)(C), redesignated subpar. (G) as (H).
 
-    [Pub. L. 105–244, § 492(b)(4)(B)][/us/pl/105/244/s492/b/4/B], struck out subpar. (H) which read as follows: “measures of program length in clock hours or credit hours;”.
+    [Pub. L. 105–244][/us/pl/105/244], § 492(b)(4)(B), struck out subpar. (H) which read as follows: “measures of program length in clock hours or credit hours;”.
 
-    Subsec. (a)(5)(I). [Pub. L. 105–244, § 492(b)(4)(B)][/us/pl/105/244/s492/b/4/B], (D), redesignated subpar. (K) as (I) and struck out former subpar. (I) which read as follows: “success with respect to student achievement in relation to its mission, including, as appropriate, consideration of course completion, State licensing examination, and job placement rates;”.
+    Subsec. (a)(5)(I). [Pub. L. 105–244][/us/pl/105/244], § 492(b)(4)(B), (D), redesignated subpar. (K) as (I) and struck out former subpar. (I) which read as follows: “success with respect to student achievement in relation to its mission, including, as appropriate, consideration of course completion, State licensing examination, and job placement rates;”.
 
-    Subsec. (a)(5)(J). [Pub. L. 105–244, § 492(b)(4)(G)][/us/pl/105/244/s492/b/4/G], inserted “record of” before “compliance”, substituted “based on the most recent student loan default rate data provided by the Secretary, the” for “, including any”, and inserted “any” after “reviews, and”.
+    Subsec. (a)(5)(J). [Pub. L. 105–244][/us/pl/105/244], § 492(b)(4)(G), inserted “record of” before “compliance”, substituted “based on the most recent student loan default rate data provided by the Secretary, the” for “, including any”, and inserted “any” after “reviews, and”.
 
-    [Pub. L. 105–244, § 492(b)(4)(B)][/us/pl/105/244/s492/b/4/B], (D), redesignated subpar. (L) as (J) and struck out former subpar. (J) which read as follows: “default rates in the student loan programs under this subchapter and part C of subchapter I of chapter 34 of title 42, based on the most recent data provided by the Secretary;”.
+    [Pub. L. 105–244][/us/pl/105/244], § 492(b)(4)(B), (D), redesignated subpar. (L) as (J) and struck out former subpar. (J) which read as follows: “default rates in the student loan programs under this subchapter and part C of subchapter I of chapter 34 of title 42, based on the most recent data provided by the Secretary;”.
 
-    Subsec. (a)(5)(K), (L). [Pub. L. 105–244, § 492(b)(4)(D)][/us/pl/105/244/s492/b/4/D], redesignated subpars. (K) and (L) as (I) and (J), respectively.
+    Subsec. (a)(5)(K), (L). [Pub. L. 105–244][/us/pl/105/244], § 492(b)(4)(D), redesignated subpars. (K) and (L) as (I) and (J), respectively.
 
-    Subsec. (a)(7). [Pub. L. 105–244, § 492(b)(5)][/us/pl/105/244/s492/b/5], substituted “State licensing or authorizing agency” for “State postsecondary review entity”.
+    Subsec. (a)(7). [Pub. L. 105–244][/us/pl/105/244], § 492(b)(5), substituted “State licensing or authorizing agency” for “State postsecondary review entity”.
 
-    Subsec. (a)(8). [Pub. L. 105–244, § 492(b)(6)][/us/pl/105/244/s492/b/6], substituted “State licensing or authorizing agency” for “State postsecondary review entity of the State in which the institution of higher education is located”.
+    Subsec. (a)(8). [Pub. L. 105–244][/us/pl/105/244], § 492(b)(6), substituted “State licensing or authorizing agency” for “State postsecondary review entity of the State in which the institution of higher education is located”.
 
-    Subsec. (c). [Pub. L. 105–244, § 492(c)(1)][/us/pl/105/244/s492/c/1], substituted “recognized by the Secretary” for “approved by the Secretary” in introductory provisions.
+    Subsec. (c). [Pub. L. 105–244][/us/pl/105/244], § 492(c)(1), substituted “recognized by the Secretary” for “approved by the Secretary” in introductory provisions.
 
-    Subsec. (c)(1). [Pub. L. 105–244, § 492(c)(2)][/us/pl/105/244/s492/c/2], substituted “(which may include unannounced site visits)” for “(at least one of which inspections at each institution that provides vocational education and training shall be unannounced),”.
+    Subsec. (c)(1). [Pub. L. 105–244][/us/pl/105/244], § 492(c)(2), substituted “(which may include unannounced site visits)” for “(at least one of which inspections at each institution that provides vocational education and training shall be unannounced),”.
 
-    Subsec. (d). [Pub. L. 105–244, § 492(d)(1)][/us/pl/105/244/s492/d/1], substituted “recognition” for “approval” in heading and “recognized” for “approved” in text.
+    Subsec. (d). [Pub. L. 105–244][/us/pl/105/244], § 492(d)(1), substituted “recognition” for “approval” in heading and “recognized” for “approved” in text.
 
-    Subsec. (f). [Pub. L. 105–244, § 492(d)(2)][/us/pl/105/244/s492/d/2], substituted “recognized” for “approved”.
+    Subsec. (f). [Pub. L. 105–244][/us/pl/105/244], § 492(d)(2), substituted “recognized” for “approved”.
 
-    Subsec. (g). [Pub. L. 105–244, § 492(d)(3)][/us/pl/105/244/s492/d/3], substituted “criteria” for “standards” in heading and “establish criteria” for “establish standards” in text.
+    Subsec. (g). [Pub. L. 105–244][/us/pl/105/244], § 492(d)(3), substituted “criteria” for “standards” in heading and “establish criteria” for “establish standards” in text.
 
-    Subsec. (j). [Pub. L. 105–244, § 102(b)(5)][/us/pl/105/244/s102/b/5], substituted “section 1002” for “section 1088” in introductory provisions.
+    Subsec. (j). [Pub. L. 105–244][/us/pl/105/244], § 102(b)(5), substituted “section 1002” for “section 1088” in introductory provisions.
 
     Subsec. (k). [Pub. L. 105–244][/us/pl/105/244], §§ 102(b)(5), 492(d)(4)(A), amended subsec. (k) identically, substituting “section 1002” for “section 1088” in introductory provisions.
 
-    Subsec. (k)(2). [Pub. L. 105–244, § 492(d)(4)(B)][/us/pl/105/244/s492/d/4/B], substituted “criteria” for “standards”.
+    Subsec. (k)(2). [Pub. L. 105–244][/us/pl/105/244], § 492(d)(4)(B), substituted “criteria” for “standards”.
 
-    Subsec. (l). [Pub. L. 105–244, § 492(d)(5)][/us/pl/105/244/s492/d/5], substituted “recognition” for “approval” in heading, added par. (1), and struck out former par. (1) which read as follows: “The Secretary shall limit, suspend, or terminate the approval of an accrediting agency or association if the Secretary determines, after notice and opportunity for a hearing, that the accrediting agency or association has failed to apply effectively the standards or operate according to the procedures provided in this section.”
+    Subsec. (l). [Pub. L. 105–244][/us/pl/105/244], § 492(d)(5), substituted “recognition” for “approval” in heading, added par. (1), and struck out former par. (1) which read as follows: “The Secretary shall limit, suspend, or terminate the approval of an accrediting agency or association if the Secretary determines, after notice and opportunity for a hearing, that the accrediting agency or association has failed to apply effectively the standards or operate according to the procedures provided in this section.”
 
-    Subsec. (n)(1). [Pub. L. 105–244, § 492(d)(6)(A)][/us/pl/105/244/s492/d/6/A], substituted “criteria” for “standards” in introductory provisions.
+    Subsec. (n)(1). [Pub. L. 105–244][/us/pl/105/244], § 492(d)(6)(A), substituted “criteria” for “standards” in introductory provisions.
 
-    Subsec. (n)(3). [Pub. L. 105–244, § 492(d)(6)(A)][/us/pl/105/244/s492/d/6/A], (B), substituted “criteria” for “standards” in two places, “recognition process” for “approval process”, and “recognition or denial of recognition” for “approval or disapproval”, and inserted at end “When the Secretary decides to recognize an accrediting agency or association, the Secretary shall determine the agency or association’s scope of recognition. If the agency or association reviews institutions offering distance education courses or programs and the Secretary determines that the agency or association meets the requirements of this section, then the agency shall be recognized and the scope of recognition shall include accreditation of institutions offering distance education courses or programs.”
+    Subsec. (n)(3). [Pub. L. 105–244][/us/pl/105/244], § 492(d)(6)(A), (B), substituted “criteria” for “standards” in two places, “recognition process” for “approval process”, and “recognition or denial of recognition” for “approval or disapproval”, and inserted at end “When the Secretary decides to recognize an accrediting agency or association, the Secretary shall determine the agency or association’s scope of recognition. If the agency or association reviews institutions offering distance education courses or programs and the Secretary determines that the agency or association meets the requirements of this section, then the agency shall be recognized and the scope of recognition shall include accreditation of institutions offering distance education courses or programs.”
 
-    Subsec. (n)(4). [Pub. L. 105–244, § 492(d)(6)(C)][/us/pl/105/244/s492/d/6/C], added par. (4) and struck out former par. (4) which read as follows: “The Secretary shall maintain sufficient documentation to support the conclusions reached in the approval process, and, upon disapproval of any accreditation agency or association, shall make publicly available the reason for such disapproval, including reference to the specific standards under this section which have not been fulfilled.”
+    Subsec. (n)(4). [Pub. L. 105–244][/us/pl/105/244], § 492(d)(6)(C), added par. (4) and struck out former par. (4) which read as follows: “The Secretary shall maintain sufficient documentation to support the conclusions reached in the approval process, and, upon disapproval of any accreditation agency or association, shall make publicly available the reason for such disapproval, including reference to the specific standards under this section which have not been fulfilled.”
 
-    1993—Subsec. (a)(2)(A)(i). [Pub. L. 103–208, § 2(i)(3)][/us/pl/103/208/s2/i/3], inserted “of institutions of higher education” after “membership”.
+    1993—Subsec. (a)(2)(A)(i). [Pub. L. 103–208][/us/pl/103/208], § 2(i)(3), inserted “of institutions of higher education” after “membership”.
 
-    Subsec. (a)(3)(A). [Pub. L. 103–208, § 2(i)(4)][/us/pl/103/208/s2/i/4], substituted “subparagraph (A)(i)” for “subparagraph (A)”.
+    Subsec. (a)(3)(A). [Pub. L. 103–208][/us/pl/103/208], § 2(i)(4), substituted “subparagraph (A)(i)” for “subparagraph (A)”.
 
-    Subsec. (a)(5). [Pub. L. 103–208, § 2(i)(5)][/us/pl/103/208/s2/i/5], substituted a semicolon for the period at end of subpar. (L) and inserted after subpar. (L) the following: “except that subparagraphs (G), (H), (I), (J), and (L) shall not apply to agencies or associations described in paragraph (2)(A)(ii) of this subsection;”.
+    Subsec. (a)(5). [Pub. L. 103–208][/us/pl/103/208], § 2(i)(5), substituted a semicolon for the period at end of subpar. (L) and inserted after subpar. (L) the following: “except that subparagraphs (G), (H), (I), (J), and (L) shall not apply to agencies or associations described in paragraph (2)(A)(ii) of this subsection;”.
 
-    Subsec. (c). [Pub. L. 103–208, § 2(i)(6)][/us/pl/103/208/s2/i/6], substituted “as a reliable authority as to the quality of education or training offered by an institution seeking to participate in the programs authorized under this subchapter and part C of subchapter I of chapter 34 of title 42” for “for the purpose of this subchapter and part C of subchapter I of chapter 34 of title 42”.
+    Subsec. (c). [Pub. L. 103–208][/us/pl/103/208], § 2(i)(6), substituted “as a reliable authority as to the quality of education or training offered by an institution seeking to participate in the programs authorized under this subchapter and part C of subchapter I of chapter 34 of title 42” for “for the purpose of this subchapter and part C of subchapter I of chapter 34 of title 42”.
 
-    Subsec. (l)(2). [Pub. L. 103–208, § 2(i)(7)][/us/pl/103/208/s2/i/7], substituted “institution” for “institutution” and “association, described in paragraph (2)(A)(i), (2)(B), or (2)(C) of subsection (a) of this section, leading to the suspension” for “association leading to the suspension”.
+    Subsec. (l)(2). [Pub. L. 103–208][/us/pl/103/208], § 2(i)(7), substituted “institution” for “institutution” and “association, described in paragraph (2)(A)(i), (2)(B), or (2)(C) of subsection (a) of this section, leading to the suspension” for “association leading to the suspension”.
 
-    Subsec. (n)(1)(B). [Pub. L. 103–208, § 2(i)(8)][/us/pl/103/208/s2/i/8], amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “site visits at both the accrediting agency or association and member institutions, including unannounced visits where appropriate.”
+    Subsec. (n)(1)(B). [Pub. L. 103–208][/us/pl/103/208], § 2(i)(8), amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “site visits at both the accrediting agency or association and member institutions, including unannounced visits where appropriate.”
 
  __Effective Date of 2009 Amendment__ 
 
@@ -395,7 +395,7 @@
 
  __Study of Transfer of Credits__ 
 
-    [Pub. L. 105–244, title VIII, § 804][/us/pl/105/244/s804], Oct. 7, 1998, [112 Stat. 1806][/us/stat/112/1806], which directed the Secretary of Education to conduct a study regarding the treatment of the transfer of credits from one institution of higher education to another and to report to Congress, not later than one year after Oct. 7, 1998, was repealed by [Pub. L. 110–315, title IX, § 931(1)][/us/pl/110/315/s931/1], Aug. 14, 2008, [122 Stat. 3456][/us/stat/122/3456].
+    [Pub. L. 105–244, title VIII][/us/pl/105/244/tVIII], § 804, Oct. 7, 1998, [112 Stat. 1806][/us/stat/112/1806], which directed the Secretary of Education to conduct a study regarding the treatment of the transfer of credits from one institution of higher education to another and to report to Congress, not later than one year after Oct. 7, 1998, was repealed by [Pub. L. 110–315, title IX][/us/pl/110/315/tIX], § 931(1), Aug. 14, 2008, [122 Stat. 3456][/us/stat/122/3456].
 
 ----------
 
@@ -407,59 +407,59 @@
 [/us/usc/t20/s1094/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1094%2Ff
 [/us/usc/t20/s1002]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1002
 [/us/usc/t20/s1002]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1002
-[/us/pl/89/329/s496]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2Fs496
-[/us/pl/102/325/s499]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325%2Fs499
+[/us/pl/89/329/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2FtIV
+[/us/pl/102/325/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325%2FtIV
 [/us/stat/106/641]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F641
-[/us/pl/103/208/s2/i/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F208%2Fs2%2Fi%2F3
+[/us/pl/103/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F208
 [/us/stat/107/2478]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F2478
-[/us/pl/105/244/s102/b/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2Fs102%2Fb%2F5
+[/us/pl/105/244/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2FtI
 [/us/stat/112/1622]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F1622
-[/us/pl/110/315/s495]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2Fs495
+[/us/pl/110/315/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2FtIV
 [/us/stat/122/3324]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3324
-[/us/pl/111/39/s408/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F39%2Fs408%2F1
+[/us/pl/111/39/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F39%2FtIV
 [/us/stat/123/1953]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1953
 [/us/pl/111/39]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F39
-[/us/pl/110/315/s495/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2Fs495%2F1%2FA
-[/us/pl/110/315/s495/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2Fs495%2F1%2FB
-[/us/pl/110/315/s495/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2Fs495%2F1%2FC
-[/us/pl/110/315/s495/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2Fs495%2F2%2FA
-[/us/pl/110/315/s495/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2Fs495%2F2%2FB
-[/us/pl/110/315/s495/2/E]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2Fs495%2F2%2FE
-[/us/pl/110/315/s495/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2Fs495%2F3
-[/us/pl/110/315/s495/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2Fs495%2F4
-[/us/pl/110/315/s495/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2Fs495%2F5
-[/us/pl/105/244/s492/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2Fs492%2Fa%2F2
-[/us/pl/105/244/s492/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2Fs492%2Fb%2F1
-[/us/pl/105/244/s492/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2Fs492%2Fb%2F3
-[/us/pl/105/244/s492/b/4/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2Fs492%2Fb%2F4%2FA
-[/us/pl/105/244/s492/b/4/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2Fs492%2Fb%2F4%2FC
-[/us/pl/105/244/s492/b/4/F]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2Fs492%2Fb%2F4%2FF
-[/us/pl/105/244/s492/b/4/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2Fs492%2Fb%2F4%2FC
-[/us/pl/105/244/s492/b/4/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2Fs492%2Fb%2F4%2FB
-[/us/pl/105/244/s492/b/4/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2Fs492%2Fb%2F4%2FB
-[/us/pl/105/244/s492/b/4/G]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2Fs492%2Fb%2F4%2FG
-[/us/pl/105/244/s492/b/4/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2Fs492%2Fb%2F4%2FB
-[/us/pl/105/244/s492/b/4/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2Fs492%2Fb%2F4%2FD
-[/us/pl/105/244/s492/b/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2Fs492%2Fb%2F5
-[/us/pl/105/244/s492/b/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2Fs492%2Fb%2F6
-[/us/pl/105/244/s492/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2Fs492%2Fc%2F1
-[/us/pl/105/244/s492/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2Fs492%2Fc%2F2
-[/us/pl/105/244/s492/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2Fs492%2Fd%2F1
-[/us/pl/105/244/s492/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2Fs492%2Fd%2F2
-[/us/pl/105/244/s492/d/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2Fs492%2Fd%2F3
-[/us/pl/105/244/s102/b/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2Fs102%2Fb%2F5
+[/us/pl/110/315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315
+[/us/pl/110/315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315
+[/us/pl/110/315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315
+[/us/pl/110/315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315
+[/us/pl/110/315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315
+[/us/pl/110/315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315
+[/us/pl/110/315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315
+[/us/pl/110/315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315
+[/us/pl/110/315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315
 [/us/pl/105/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244
-[/us/pl/105/244/s492/d/4/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2Fs492%2Fd%2F4%2FB
-[/us/pl/105/244/s492/d/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2Fs492%2Fd%2F5
-[/us/pl/105/244/s492/d/6/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2Fs492%2Fd%2F6%2FA
-[/us/pl/105/244/s492/d/6/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2Fs492%2Fd%2F6%2FA
-[/us/pl/105/244/s492/d/6/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2Fs492%2Fd%2F6%2FC
-[/us/pl/103/208/s2/i/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F208%2Fs2%2Fi%2F3
-[/us/pl/103/208/s2/i/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F208%2Fs2%2Fi%2F4
-[/us/pl/103/208/s2/i/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F208%2Fs2%2Fi%2F5
-[/us/pl/103/208/s2/i/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F208%2Fs2%2Fi%2F6
-[/us/pl/103/208/s2/i/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F208%2Fs2%2Fi%2F7
-[/us/pl/103/208/s2/i/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F208%2Fs2%2Fi%2F8
+[/us/pl/105/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244
+[/us/pl/105/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244
+[/us/pl/105/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244
+[/us/pl/105/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244
+[/us/pl/105/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244
+[/us/pl/105/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244
+[/us/pl/105/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244
+[/us/pl/105/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244
+[/us/pl/105/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244
+[/us/pl/105/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244
+[/us/pl/105/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244
+[/us/pl/105/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244
+[/us/pl/105/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244
+[/us/pl/105/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244
+[/us/pl/105/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244
+[/us/pl/105/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244
+[/us/pl/105/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244
+[/us/pl/105/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244
+[/us/pl/105/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244
+[/us/pl/105/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244
+[/us/pl/105/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244
+[/us/pl/105/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244
+[/us/pl/105/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244
+[/us/pl/105/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244
+[/us/pl/105/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244
+[/us/pl/103/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F208
+[/us/pl/103/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F208
+[/us/pl/103/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F208
+[/us/pl/103/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F208
+[/us/pl/103/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F208
+[/us/pl/103/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F208
 [/us/pl/111/39]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F39
 [/us/pl/110/315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315
 [/us/pl/111/39/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F39%2Fs3
@@ -474,9 +474,9 @@
 [/us/usc/t20/s1051]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1051
 [/us/pl/102/325/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325%2Fs2
 [/us/usc/t20/s1001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1001
-[/us/pl/105/244/s804]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2Fs804
+[/us/pl/105/244/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2FtVIII
 [/us/stat/112/1806]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F1806
-[/us/pl/110/315/s931/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2Fs931%2F1
+[/us/pl/110/315/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2FtIX
 [/us/stat/122/3456]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3456
 
 

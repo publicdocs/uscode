@@ -99,15 +99,15 @@
 
         In order to improve overall program or project effectiveness, the results of evaluations and grants described in this section shall be disseminated by the Secretary to similar programs or projects assisted under this subpart, as well as other individuals concerned with postsecondary access for and retention of low-income individuals and first-generation college students.
 
-([Pub. L. 89–329, title IV, § 402H][/us/pl/89/329/s402H], as added [Pub. L. 102–325, title IV, § 402(a)(4)][/us/pl/102/325/s402/a/4], July 23, 1992, [106 Stat. 491][/us/stat/106/491]; amended [Pub. L. 105–244, title IV, § 402(g)][/us/pl/105/244/s402/g], Oct. 7, 1998, [112 Stat. 1655][/us/stat/112/1655]; [Pub. L. 110–315, title IV, § 403(h)][/us/pl/110/315/s403/h], Aug. 14, 2008, [122 Stat. 3204][/us/stat/122/3204].)
+([Pub. L. 89–329, title IV][/us/pl/89/329/tIV], § 402H, as added [Pub. L. 102–325, title IV][/us/pl/102/325/tIV], § 402(a)(4), July 23, 1992, [106 Stat. 491][/us/stat/106/491]; amended [Pub. L. 105–244, title IV][/us/pl/105/244/tIV], § 402(g), Oct. 7, 1998, [112 Stat. 1655][/us/stat/112/1655]; [Pub. L. 110–315, title IV][/us/pl/110/315/tIV], § 403(h), Aug. 14, 2008, [122 Stat. 3204][/us/stat/122/3204].)
 
  __Amendments__ 
 
-    2008—[Pub. L. 110–315, § 403(h)(1)][/us/pl/110/315/s403/h/1], substituted “Reports, evaluations, and grants for project improvement and dissemination” for “Evaluations and grants for project improvement and dissemination partnership projects” in section catchline.
+    2008—[Pub. L. 110–315][/us/pl/110/315], § 403(h)(1), substituted “Reports, evaluations, and grants for project improvement and dissemination” for “Evaluations and grants for project improvement and dissemination partnership projects” in section catchline.
 
-    Subsec. (a). [Pub. L. 110–315, § 403(h)(3)][/us/pl/110/315/s403/h/3], added subsec. (a). Former subsec. (a) redesignated (b).
+    Subsec. (a). [Pub. L. 110–315][/us/pl/110/315], § 403(h)(3), added subsec. (a). Former subsec. (a) redesignated (b).
 
-    Subsec. (b). [Pub. L. 110–315, § 403(h)(2)][/us/pl/110/315/s403/h/2], (4), redesignated subsec. (a) as (b), added pars. (1) to (4), and struck out former pars. (1) and (2) which read as follows:
+    Subsec. (b). [Pub. L. 110–315][/us/pl/110/315], § 403(h)(2), (4), redesignated subsec. (a) as (b), added pars. (1) to (4), and struck out former pars. (1) and (2) which read as follows:
 
     “(1) In general.—For the purpose of improving the effectiveness of the programs and projects assisted under this division, the Secretary may make grants to or enter into contracts with institutions of higher education and other public and private institutions and organizations to evaluate the effectiveness of the programs and projects assisted under this division.
 
@@ -115,7 +115,7 @@
 
     Former subsec. (b) redesignated (c).
 
-    Subsecs. (c), (d). [Pub. L. 110–315, § 403(h)(2)][/us/pl/110/315/s403/h/2], redesignated subsecs. (b) and (c) as (c) and (d), respectively.
+    Subsecs. (c), (d). [Pub. L. 110–315][/us/pl/110/315], § 403(h)(2), redesignated subsecs. (b) and (c) as (c) and (d), respectively.
 
     1998—[Pub. L. 105–244][/us/pl/105/244] amended section generally, revising and restating former subsecs. (a) to (c) relating to evaluation for project improvement.
 
@@ -137,17 +137,17 @@
 [/us/usc/t20/s1070a–13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1070a%E2%80%9313
 [/us/usc/t20/s1070a–13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1070a%E2%80%9313
 [/us/usc/t20/s1070a–11/f/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1070a%E2%80%9311%2Ff%2F4
-[/us/pl/89/329/s402H]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2Fs402H
-[/us/pl/102/325/s402/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325%2Fs402%2Fa%2F4
+[/us/pl/89/329/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2FtIV
+[/us/pl/102/325/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325%2FtIV
 [/us/stat/106/491]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F491
-[/us/pl/105/244/s402/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2Fs402%2Fg
+[/us/pl/105/244/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2FtIV
 [/us/stat/112/1655]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F1655
-[/us/pl/110/315/s403/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2Fs403%2Fh
+[/us/pl/110/315/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2FtIV
 [/us/stat/122/3204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3204
-[/us/pl/110/315/s403/h/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2Fs403%2Fh%2F1
-[/us/pl/110/315/s403/h/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2Fs403%2Fh%2F3
-[/us/pl/110/315/s403/h/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2Fs403%2Fh%2F2
-[/us/pl/110/315/s403/h/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2Fs403%2Fh%2F2
+[/us/pl/110/315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315
+[/us/pl/110/315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315
+[/us/pl/110/315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315
+[/us/pl/110/315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315
 [/us/pl/105/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244
 [/us/pl/105/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244
 [/us/pl/105/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244

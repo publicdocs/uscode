@@ -37,15 +37,15 @@
 
         The Secretary shall make available to the Board such information and assistance as may be necessary to enable the Board to carry out its functions.
 
-([Pub. L. 89–329, title VII, § 742][/us/pl/89/329/s742], as added [Pub. L. 105–244, title VII, § 701][/us/pl/105/244/s701], Oct. 7, 1998, [112 Stat. 1797][/us/stat/112/1797]; amended [Pub. L. 110–315, title VII, § 707(h)(1)][/us/pl/110/315/s707/h/1], Aug. 14, 2008, [122 Stat. 3360][/us/stat/122/3360].)
+([Pub. L. 89–329, title VII][/us/pl/89/329/tVII], § 742, as added [Pub. L. 105–244, title VII][/us/pl/105/244/tVII], § 701, Oct. 7, 1998, [112 Stat. 1797][/us/stat/112/1797]; amended [Pub. L. 110–315, title VII][/us/pl/110/315/tVII], § 707(h)(1), Aug. 14, 2008, [122 Stat. 3360][/us/stat/122/3360].)
 
  __Prior Provisions__ 
 
     Provisions similar to this section were contained in [section 1135a of this title][/us/usc/t20/s1135a], prior to repeal by [Pub. L. 105–244][/us/pl/105/244].
 
-    A prior section 1138a, [Pub. L. 89–329, title XI, § 1142][/us/pl/89/329/s1142], as added [Pub. L. 102–325, title XI, § 1101][/us/pl/102/325/s1101], July 23, 1992, [106 Stat. 789][/us/stat/106/789]; amended [Pub. L. 103–208, § 2(j)(47)][/us/pl/103/208/s2/j/47], Dec. 20, 1993, [107 Stat. 2485][/us/stat/107/2485], authorized grants for student literacy corps and student mentoring corps programs, prior to repeal by [Pub. L. 105–244, § 3][/us/pl/105/244/s3], title VII, § 702, Oct. 7, 1998, [112 Stat. 1585][/us/stat/112/1585], 1803, effective Oct. 1, 1998.
+    A prior section 1138a, [Pub. L. 89–329, title XI][/us/pl/89/329/tXI], § 1142, as added [Pub. L. 102–325, title XI][/us/pl/102/325/tXI], § 1101, July 23, 1992, [106 Stat. 789][/us/stat/106/789]; amended [Pub. L. 103–208][/us/pl/103/208], § 2(j)(47), Dec. 20, 1993, [107 Stat. 2485][/us/stat/107/2485], authorized grants for student literacy corps and student mentoring corps programs, prior to repeal by [Pub. L. 105–244][/us/pl/105/244], § 3, title VII, § 702, Oct. 7, 1998, [112 Stat. 1585][/us/stat/112/1585], 1803, effective Oct. 1, 1998.
 
-    Another prior section 1138a, [Pub. L. 89–329, title XI, § 1122][/us/pl/89/329/s1122], as added [Pub. L. 99–498, title XI, § 1101][/us/pl/99/498/s1101], Oct. 17, 1986, [100 Stat. 1571][/us/stat/100/1571], authorized appropriations to carry out parts A and B of subchapter XI of this chapter, prior to the general amendment of such subchapter by [Pub. L. 102–325][/us/pl/102/325].
+    Another prior section 1138a, [Pub. L. 89–329, title XI][/us/pl/89/329/tXI], § 1122, as added [Pub. L. 99–498, title XI][/us/pl/99/498/tXI], § 1101, Oct. 17, 1986, [100 Stat. 1571][/us/stat/100/1571], authorized appropriations to carry out parts A and B of subchapter XI of this chapter, prior to the general amendment of such subchapter by [Pub. L. 102–325][/us/pl/102/325].
 
     A prior [section 742 of Pub. L. 89–329][/us/pl/89/329/s742] was classified to [section 1132e–1 of this title][/us/usc/t20/s1132e–1], prior to the general amendment of this subchapter by [Pub. L. 99–498][/us/pl/99/498].
 
@@ -53,11 +53,11 @@
 
  __Amendments__ 
 
-    2008—Subsec. (b). [Pub. L. 110–315, § 707(h)(1)(A)][/us/pl/110/315/s707/h/1/A], struck out par. (1) designation before “The Secretary shall designate” and struck out par. (2). Prior to amendment, text of par. (2) read as follows: “The Secretary shall appoint the Director of the Fund for the Improvement of Postsecondary Education (hereafter in this part referred to as the ‘Director’).”
+    2008—Subsec. (b). [Pub. L. 110–315][/us/pl/110/315], § 707(h)(1)(A), struck out par. (1) designation before “The Secretary shall designate” and struck out par. (2). Prior to amendment, text of par. (2) read as follows: “The Secretary shall appoint the Director of the Fund for the Improvement of Postsecondary Education (hereafter in this part referred to as the ‘Director’).”
 
-    Subsec. (c)(1), (2). [Pub. L. 110–315, § 707(h)(1)(B)][/us/pl/110/315/s707/h/1/B], struck out “and the Director” after “Secretary”.
+    Subsec. (c)(1), (2). [Pub. L. 110–315][/us/pl/110/315], § 707(h)(1)(B), struck out “and the Director” after “Secretary”.
 
-    Subsec. (d). [Pub. L. 110–315, § 707(h)(1)(C)][/us/pl/110/315/s707/h/1/C], substituted “Secretary” for “Director”.
+    Subsec. (d). [Pub. L. 110–315][/us/pl/110/315], § 707(h)(1)(C), substituted “Secretary” for “Director”.
 
 ----------
 
@@ -66,22 +66,22 @@
 ----------
 ----------
 
-[/us/pl/89/329/s742]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2Fs742
-[/us/pl/105/244/s701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2Fs701
+[/us/pl/89/329/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2FtVII
+[/us/pl/105/244/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2FtVII
 [/us/stat/112/1797]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F1797
-[/us/pl/110/315/s707/h/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2Fs707%2Fh%2F1
+[/us/pl/110/315/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2FtVII
 [/us/stat/122/3360]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3360
 [/us/usc/t20/s1135a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1135a
 [/us/pl/105/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244
-[/us/pl/89/329/s1142]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2Fs1142
-[/us/pl/102/325/s1101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325%2Fs1101
+[/us/pl/89/329/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2FtXI
+[/us/pl/102/325/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325%2FtXI
 [/us/stat/106/789]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F789
-[/us/pl/103/208/s2/j/47]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F208%2Fs2%2Fj%2F47
+[/us/pl/103/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F208
 [/us/stat/107/2485]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F2485
-[/us/pl/105/244/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2Fs3
+[/us/pl/105/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244
 [/us/stat/112/1585]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F1585
-[/us/pl/89/329/s1122]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2Fs1122
-[/us/pl/99/498/s1101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F498%2Fs1101
+[/us/pl/89/329/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2FtXI
+[/us/pl/99/498/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F498%2FtXI
 [/us/stat/100/1571]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1571
 [/us/pl/102/325]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325
 [/us/pl/89/329/s742]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2Fs742
@@ -90,8 +90,8 @@
 [/us/pl/89/329/s742]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2Fs742
 [/us/usc/t20/s1132c–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1132c%E2%80%931
 [/us/pl/96/374]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F374
-[/us/pl/110/315/s707/h/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2Fs707%2Fh%2F1%2FA
-[/us/pl/110/315/s707/h/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2Fs707%2Fh%2F1%2FB
-[/us/pl/110/315/s707/h/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2Fs707%2Fh%2F1%2FC
+[/us/pl/110/315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315
+[/us/pl/110/315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315
+[/us/pl/110/315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315
 
 

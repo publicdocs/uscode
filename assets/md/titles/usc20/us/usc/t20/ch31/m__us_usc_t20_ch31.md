@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../..//us/usc/t20/ch30/schIV/m__us_usc_t20_ch30_schIV.md) | [Next](./../../../..//us/usc/t20/ch31/m__us_usc_t20_s1221.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fch31)
+[Previous](./../../../..//us/usc/t20/ch30/schIV/m__us_usc_t20_s1213...1213d.md) | [Next](./../../../..//us/usc/t20/ch31/m__us_usc_t20_s1221.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fch31)
 
 ## CHAPTER 31—GENERAL PROVISIONS CONCERNING EDUCATION
 
@@ -595,16 +595,16 @@ SUBCHAPTER V—READY TO LEARN TELEVISION  </td>
 
  __Amendments__ 
 
-    1970—[Pub. L. 91–230, title IV, § 401(a)(1)][/us/pl/91/230/s401/a/1], Apr. 13, 1970, [84 Stat. 164][/us/stat/84/164], substituted as chapter heading “GENERAL PROVISIONS CONCERNING EDUCATION” for “LEADTIME AND PLANNING AND EVALUATION IN ELEMENTARY AND SECONDARY EDUCATION PROGRAMS”.
+    1970—[Pub. L. 91–230, title IV][/us/pl/91/230/tIV], § 401(a)(1), Apr. 13, 1970, [84 Stat. 164][/us/stat/84/164], substituted as chapter heading “GENERAL PROVISIONS CONCERNING EDUCATION” for “LEADTIME AND PLANNING AND EVALUATION IN ELEMENTARY AND SECONDARY EDUCATION PROGRAMS”.
 
 ----------
 
-[Previous](./../../../..//us/usc/t20/ch30/schIV/m__us_usc_t20_ch30_schIV.md) | [Next](./../../../..//us/usc/t20/ch31/m__us_usc_t20_s1221.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fch31)
+[Previous](./../../../..//us/usc/t20/ch30/schIV/m__us_usc_t20_s1213...1213d.md) | [Next](./../../../..//us/usc/t20/ch31/m__us_usc_t20_s1221.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fch31)
 
 ----------
 ----------
 
-[/us/pl/91/230/s401/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F230%2Fs401%2Fa%2F1
+[/us/pl/91/230/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F230%2FtIV
 [/us/stat/84/164]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F164
 
 

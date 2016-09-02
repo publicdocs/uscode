@@ -53,11 +53,11 @@
 
         For purposes of this section, the eligible agency shall provide funds to charter schools offering career and technical education programs in the same manner as the eligible agency provides those funds to other schools. Such career and technical education programs within a charter school shall be of sufficient size, scope, and quality to be effective.
 
-([Pub. L. 88–210, title I, § 133][/us/pl/88/210/s133], as added [Pub. L. 109–270, § 1(b)][/us/pl/109/270/s1/b], Aug. 12, 2006, [120 Stat. 731][/us/stat/120/731].)
+([Pub. L. 88–210, title I][/us/pl/88/210/tI], § 133, as added [Pub. L. 109–270][/us/pl/109/270], § 1(b), Aug. 12, 2006, [120 Stat. 731][/us/stat/120/731].)
 
  __Prior Provisions__ 
 
-    A prior section 2353, [Pub. L. 88–210, title I, § 133][/us/pl/88/210/s133], as added [Pub. L. 105–332, § 1(b)][/us/pl/105/332/s1/b], Oct. 31, 1998, [112 Stat. 3113][/us/stat/112/3113], related to special rules for vocational and technical education, prior to the general amendment of this chapter by [Pub. L. 109–270][/us/pl/109/270].
+    A prior section 2353, [Pub. L. 88–210, title I][/us/pl/88/210/tI], § 133, as added [Pub. L. 105–332][/us/pl/105/332], § 1(b), Oct. 31, 1998, [112 Stat. 3113][/us/stat/112/3113], related to special rules for vocational and technical education, prior to the general amendment of this chapter by [Pub. L. 109–270][/us/pl/109/270].
 
 ----------
 
@@ -72,11 +72,11 @@
 [/us/usc/t20/s2352]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs2352
 [/us/usc/t20/s2352]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs2352
 [/us/usc/t20/s2351]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs2351
-[/us/pl/88/210/s133]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F210%2Fs133
-[/us/pl/109/270/s1/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F270%2Fs1%2Fb
+[/us/pl/88/210/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F210%2FtI
+[/us/pl/109/270]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F270
 [/us/stat/120/731]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F731
-[/us/pl/88/210/s133]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F210%2Fs133
-[/us/pl/105/332/s1/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F332%2Fs1%2Fb
+[/us/pl/88/210/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F210%2FtI
+[/us/pl/105/332]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F332
 [/us/stat/112/3113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F3113
 [/us/pl/109/270]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F270
 

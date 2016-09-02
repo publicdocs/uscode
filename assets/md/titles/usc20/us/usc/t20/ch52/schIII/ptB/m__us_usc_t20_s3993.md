@@ -33,11 +33,11 @@
 
         (3) an assurance that the State will, to the extent possible, assist local school districts in economically depressed areas to obtain matching funds from business concerns.
 
-([Pub. L. 98–377, title III, § 323][/us/pl/98/377/s323], as added [Pub. L. 100–418, title VI, § 6031(a)(2)][/us/pl/100/418/s6031/a/2], Aug. 23, 1988, [102 Stat. 1480][/us/stat/102/1480].)
+([Pub. L. 98–377, title III][/us/pl/98/377/tIII], § 323, as added [Pub. L. 100–418, title VI][/us/pl/100/418/tVI], § 6031(a)(2), Aug. 23, 1988, [102 Stat. 1480][/us/stat/102/1480].)
 
  __References in Text__ 
 
-    Section 209, referred to in subsec. (a)(1), is [section 209 of Pub. L. 98–377][/us/pl/98/377/s209], title II, Aug. 11, 1984, [98 Stat. 1279][/us/stat/98/1279], as amended, which was classified to [section 3969 of this title][/us/usc/t20/s3969] prior to repeal by [Pub. L. 100–297, title II, § 2303][/us/pl/100/297/s2303], Apr. 28, 1988, [102 Stat. 324][/us/stat/102/324].
+    Section 209, referred to in subsec. (a)(1), is [section 209 of Pub. L. 98–377][/us/pl/98/377/s209], title II, Aug. 11, 1984, [98 Stat. 1279][/us/stat/98/1279], as amended, which was classified to [section 3969 of this title][/us/usc/t20/s3969] prior to repeal by [Pub. L. 100–297, title II][/us/pl/100/297/tII], § 2303, Apr. 28, 1988, [102 Stat. 324][/us/stat/102/324].
 
 ----------
 
@@ -46,13 +46,13 @@
 ----------
 ----------
 
-[/us/pl/98/377/s323]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F377%2Fs323
-[/us/pl/100/418/s6031/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2Fs6031%2Fa%2F2
+[/us/pl/98/377/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F377%2FtIII
+[/us/pl/100/418/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2FtVI
 [/us/stat/102/1480]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1480
 [/us/pl/98/377/s209]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F377%2Fs209
 [/us/stat/98/1279]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F1279
 [/us/usc/t20/s3969]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs3969
-[/us/pl/100/297/s2303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F297%2Fs2303
+[/us/pl/100/297/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F297%2FtII
 [/us/stat/102/324]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F324
 
 

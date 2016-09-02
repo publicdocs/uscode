@@ -23,7 +23,7 @@
 
     (3) estimated financial assistance not received under this subchapter and part C of subchapter I of chapter 34 of title 42 (as defined in [section 1087vv(j) of this title][/us/usc/t20/s1087vv/j]).
 
-([Pub. L. 89–329, title IV, § 471][/us/pl/89/329/s471], as added [Pub. L. 99–498, title IV, § 406(a)][/us/pl/99/498/s406/a], Oct. 17, 1986, [100 Stat. 1454][/us/stat/100/1454]; amended [Pub. L. 102–325, title IV, § 471(a)][/us/pl/102/325/s471/a], July 23, 1992, [106 Stat. 585][/us/stat/106/585]; [Pub. L. 105–244, title IV, § 480(a)][/us/pl/105/244/s480/a], Oct. 7, 1998, [112 Stat. 1732][/us/stat/112/1732].)
+([Pub. L. 89–329, title IV][/us/pl/89/329/tIV], § 471, as added [Pub. L. 99–498, title IV][/us/pl/99/498/tIV], § 406(a), Oct. 17, 1986, [100 Stat. 1454][/us/stat/100/1454]; amended [Pub. L. 102–325, title IV][/us/pl/102/325/tIV], § 471(a), July 23, 1992, [106 Stat. 585][/us/stat/106/585]; [Pub. L. 105–244, title IV][/us/pl/105/244/tIV], § 480(a), Oct. 7, 1998, [112 Stat. 1732][/us/stat/112/1732].)
 
  __Amendments__ 
 
@@ -33,7 +33,7 @@
 
  __Effective Date of 1998 Amendment__ 
 
-[Pub. L. 105–244, title IV, § 480A][/us/pl/105/244/s480A], Oct. 7, 1998, [112 Stat. 1732][/us/stat/112/1732], provided that:
+[Pub. L. 105–244, title IV][/us/pl/105/244/tIV], § 480A, Oct. 7, 1998, [112 Stat. 1732][/us/stat/112/1732], provided that:
 
 >     “(a)  __In General__  __.—__ 
 
@@ -45,13 +45,13 @@
 
  __Effective Date of 1992 Amendment__ 
 
-[Pub. L. 102–325, title IV, § 471(b)][/us/pl/102/325/s471/b], July 23, 1992, [106 Stat. 609][/us/stat/106/609], provided that: 
+[Pub. L. 102–325, title IV][/us/pl/102/325/tIV], § 471(b), July 23, 1992, [106 Stat. 609][/us/stat/106/609], provided that: 
 
 > “The changes made in part F of title IV of the Act \[this part\] by the amendment made by this section \[amending sections 1087kk to 1087vv of this title\] shall apply with respect to determinations of need under such part F for award years beginning on or after July 1, 1993.”
 
  __Effective Date__ 
 
-[Pub. L. 99–498, title IV, § 406(b)(1)][/us/pl/99/498/s406/b/1]–(3), Oct. 17, 1986, [100 Stat. 1475][/us/stat/100/1475], as amended by [Pub. L. 100–50, § 22(e)(1)][/us/pl/100/50/s22/e/1], (3), June 3, 1987, [101 Stat. 361][/us/stat/101/361], provided that:
+[Pub. L. 99–498, title IV][/us/pl/99/498/tIV], § 406(b)(1)–(3), Oct. 17, 1986, [100 Stat. 1475][/us/stat/100/1475], as amended by [Pub. L. 100–50][/us/pl/100/50], § 22(e)(1), (3), June 3, 1987, [101 Stat. 361][/us/stat/101/361], provided that:
 
 >     “(1)
 
@@ -71,7 +71,7 @@
 
  __Special Study of Simplification of Need Analysis and Application for Title IV Aid__ 
 
-[Pub. L. 108–199, div. E, title III, § 305][/us/pl/108/199/s305], Jan. 23, 2004, [118 Stat. 263][/us/stat/118/263], provided that:
+[Pub. L. 108–199, div. E, title III][/us/pl/108/199/dE/tIII], § 305, Jan. 23, 2004, [118 Stat. 263][/us/stat/118/263], provided that:
 
 >     “(a)  __Study Required__  __.—__ 
 
@@ -147,23 +147,23 @@
 ----------
 
 [/us/usc/t20/s1087vv/j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1087vv%2Fj
-[/us/pl/89/329/s471]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2Fs471
-[/us/pl/99/498/s406/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F498%2Fs406%2Fa
+[/us/pl/89/329/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2FtIV
+[/us/pl/99/498/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F498%2FtIV
 [/us/stat/100/1454]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1454
-[/us/pl/102/325/s471/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325%2Fs471%2Fa
+[/us/pl/102/325/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325%2FtIV
 [/us/stat/106/585]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F585
-[/us/pl/105/244/s480/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2Fs480%2Fa
+[/us/pl/105/244/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2FtIV
 [/us/stat/112/1732]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F1732
 [/us/pl/105/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244
 [/us/pl/102/325]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325
-[/us/pl/105/244/s480A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2Fs480A
+[/us/pl/105/244/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2FtIV
 [/us/stat/112/1732]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F1732
 [/us/pl/105/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244
-[/us/pl/102/325/s471/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325%2Fs471%2Fb
+[/us/pl/102/325/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325%2FtIV
 [/us/stat/106/609]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F609
-[/us/pl/99/498/s406/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F498%2Fs406%2Fb%2F1
+[/us/pl/99/498/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F498%2FtIV
 [/us/stat/100/1475]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1475
-[/us/pl/100/50/s22/e/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F50%2Fs22%2Fe%2F1
+[/us/pl/100/50]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F50
 [/us/stat/101/361]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F361
 [/us/pl/97/301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F301
 [/us/usc/t20/s1001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1001
@@ -174,7 +174,7 @@
 [/us/pl/89/329]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329
 [/us/pl/102/325/s402/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325%2Fs402%2Fb
 [/us/usc/t20/s1070a–11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1070a%E2%80%9311
-[/us/pl/108/199/s305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F199%2Fs305
+[/us/pl/108/199/dE/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F199%2FdE%2FtIII
 [/us/stat/118/263]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F263
 [/us/usc/t20/s1098]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1098
 [/us/usc/t20/s1090/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1090%2Fa%2F1

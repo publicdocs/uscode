@@ -37,11 +37,11 @@
 
             Subsection (a) of this section shall not apply to international comparative assessments developed under the authority of [section 9543(a)(6) of this title][/us/usc/t20/s9543/a/6] or [section 9003(a)(6) of this title][/us/usc/t20/s9003/a/6] (as such section was in effect on the day before November 5, 2002) and administered to only a representative sample of pupils in the United States and in foreign nations.
 
-([Pub. L. 107–279, title I, § 182][/us/pl/107/279/s182], Nov. 5, 2002, [116 Stat. 1971][/us/stat/116/1971].)
+([Pub. L. 107–279, title I][/us/pl/107/279/tI], § 182, Nov. 5, 2002, [116 Stat. 1971][/us/stat/116/1971].)
 
  __References in Text__ 
 
-    [Section 9003 of this title][/us/usc/t20/s9003], referred to in subsec. (d)(2), was repealed by [Pub. L. 107–279, title IV, § 403(1)][/us/pl/107/279/s403/1], Nov. 5, 2002, [116 Stat. 1985][/us/stat/116/1985].
+    [Section 9003 of this title][/us/usc/t20/s9003], referred to in subsec. (d)(2), was repealed by [Pub. L. 107–279, title IV][/us/pl/107/279/tIV], § 403(1), Nov. 5, 2002, [116 Stat. 1985][/us/stat/116/1985].
 
 ----------
 
@@ -52,10 +52,10 @@
 
 [/us/usc/t20/s9543/a/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs9543%2Fa%2F6
 [/us/usc/t20/s9003/a/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs9003%2Fa%2F6
-[/us/pl/107/279/s182]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F279%2Fs182
+[/us/pl/107/279/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F279%2FtI
 [/us/stat/116/1971]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1971
 [/us/usc/t20/s9003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs9003
-[/us/pl/107/279/s403/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F279%2Fs403%2F1
+[/us/pl/107/279/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F279%2FtIV
 [/us/stat/116/1985]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1985
 
 

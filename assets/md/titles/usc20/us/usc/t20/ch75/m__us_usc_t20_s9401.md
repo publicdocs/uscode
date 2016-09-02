@@ -27,11 +27,11 @@
 
     (5) to facilitate the development of community-based systems of collaborative service delivery models characterized by resource sharing, linkages between appropriate supports, and local planning for services.
 
-([Pub. L. 106–554, § 1(a)(1)][/us/pl/106/554/s1/a/1] \[title VIII, § 802\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–80.)
+([Pub. L. 106–554][/us/pl/106/554], § 1(a)(1) \[title VIII, § 802\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–80.)
 
  __Short Title; Findings__ 
 
-[Pub. L. 106–554, § 1(a)(1)][/us/pl/106/554/s1/a/1] \[title VIII, § 801\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–79, provided that:
+[Pub. L. 106–554][/us/pl/106/554], § 1(a)(1) \[title VIII, § 801\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–79, provided that:
 
 >     “(a)  __Short Title__  __.—__ 
 
@@ -82,9 +82,9 @@
 ----------
 ----------
 
-[/us/pl/106/554/s1/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F1
+[/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
 [/us/stat/114/2763]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2763
-[/us/pl/106/554/s1/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F1
+[/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
 [/us/stat/114/2763]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2763
 [/us/usc/t42/s9831]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs9831
 [/us/usc/t42/s9857]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs9857

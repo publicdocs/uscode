@@ -45,7 +45,7 @@
 
         The Director shall establish procedures for reviewing and evaluating projects supported under this part.
 
-([Pub. L. 94–462, title II, § 264][/us/pl/94/462/s264], as added [Pub. L. 111–340, title II, § 207][/us/pl/111/340/s207], Dec. 22, 2010, [124 Stat. 3602][/us/stat/124/3602].)
+([Pub. L. 94–462, title II][/us/pl/94/462/tII], § 264, as added [Pub. L. 111–340, title II][/us/pl/111/340/tII], § 207, Dec. 22, 2010, [124 Stat. 3602][/us/stat/124/3602].)
 
 ----------
 
@@ -56,8 +56,8 @@
 
 [/us/usc/t20/s9123/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs9123%2Fa%2F2
 [/us/usc/t20/s1001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1001
-[/us/pl/94/462/s264]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F462%2Fs264
-[/us/pl/111/340/s207]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F340%2Fs207
+[/us/pl/94/462/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F462%2FtII
+[/us/pl/111/340/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F340%2FtII
 [/us/stat/124/3602]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3602
 
 

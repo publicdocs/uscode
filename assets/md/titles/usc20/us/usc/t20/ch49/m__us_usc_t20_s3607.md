@@ -37,7 +37,7 @@
 
         If the Attorney General determines in the report under subsection (b) of this section that the United States should seek to recover the amounts expended by the United States to carry out this chapter, the Attorney General shall proceed in an expeditious manner to recover such amounts from the persons referred to in subsection (b) of this section.
 
-([Pub. L. 96–270, § 8][/us/pl/96/270/s8], June 14, 1980, [94 Stat. 495][/us/stat/94/495].)
+([Pub. L. 96–270][/us/pl/96/270], § 8, June 14, 1980, [94 Stat. 495][/us/stat/94/495].)
 
 ----------
 
@@ -50,7 +50,7 @@
 [/us/usc/t20/s3605]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs3605
 [/us/usc/t20/s3604]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs3604
 [/us/usc/t20/s3605]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs3605
-[/us/pl/96/270/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F270%2Fs8
+[/us/pl/96/270]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F270
 [/us/stat/94/495]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F495
 
 

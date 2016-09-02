@@ -87,7 +87,7 @@
 
         There are authorized to be appropriated to carry out this section such sums as may be necessary for fiscal year 2009 and each of the five succeeding fiscal years.
 
-([Pub. L. 89–329, title I, § 136][/us/pl/89/329/s136], as added [Pub. L. 110–315, title I, § 115][/us/pl/110/315/s115], Aug. 14, 2008, [122 Stat. 3111][/us/stat/122/3111]; amended [Pub. L. 111–39, title I, § 101(b)(4)][/us/pl/111/39/s101/b/4], July 1, 2009, [123 Stat. 1935][/us/stat/123/1935].)
+([Pub. L. 89–329, title I][/us/pl/89/329/tI], § 136, as added [Pub. L. 110–315, title I][/us/pl/110/315/tI], § 115, Aug. 14, 2008, [122 Stat. 3111][/us/stat/122/3111]; amended [Pub. L. 111–39, title I][/us/pl/111/39/tI], § 101(b)(4), July 1, 2009, [123 Stat. 1935][/us/stat/123/1935].)
 
  __Amendments__ 
 
@@ -105,10 +105,10 @@
 ----------
 
 [/us/usc/t20/s1232g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1232g
-[/us/pl/89/329/s136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2Fs136
-[/us/pl/110/315/s115]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2Fs115
+[/us/pl/89/329/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2FtI
+[/us/pl/110/315/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2FtI
 [/us/stat/122/3111]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3111
-[/us/pl/111/39/s101/b/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F39%2Fs101%2Fb%2F4
+[/us/pl/111/39/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F39%2FtI
 [/us/stat/123/1935]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1935
 [/us/pl/111/39]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F39
 [/us/pl/111/39]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F39

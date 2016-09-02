@@ -45,7 +45,7 @@
 
     (4) __Highly qualified__ 
 
-        The term “highly qualified” has the meaning given such term in [section 7801 of this title][/us/usc/t20/s7801] and, with respect to special education teachers, in [section 1401 of this title][/us/usc/t20/s1401].
+        The term “highly qualified” has the meaning given such term in 9101  <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  of the Elementary and Secondary Education Act of 1965 ([20 U.S.C. 7801][/us/usc/t20/s7801]) and, with respect to special education teachers, in [section 1401 of this title][/us/usc/t20/s1401].
 
     (5) __Partnership__ 
 
@@ -95,7 +95,11 @@
 
         (F) communicate and work with parents and guardians, and involve parents and guardians in their children’s education.
 
-([Pub. L. 110–69, title VI, § 6112][/us/pl/110/69/s6112], Aug. 9, 2007, [121 Stat. 626][/us/stat/121/626].)
+([Pub. L. 110–69, title VI][/us/pl/110/69/tVI], § 6112, Aug. 9, 2007, [121 Stat. 626][/us/stat/121/626].)
+
+ __References in Text__ 
+
+    Section 9101 of the Elementary and Secondary Education Act of 1965, referred to in par. (4), was amended by [Pub. L. 114–95][/us/pl/114/95] and, as so amended, is now section 8101 of the Act and no longer defines “highly qualified”. For reference to such term as defined in section 9101 of the Act to mean section 9101 as in effect on the day before the date of enactment of [Pub. L. 114–95][/us/pl/114/95], see [section 9214(a)(2) of Pub. L. 114–95][/us/pl/114/95/s9214/a/2], set out as a Use of the Term “Highly Qualified” in Other Laws note under [section 1070g–2 of this title][/us/usc/t20/s1070g–2].
 
 ----------
 
@@ -107,7 +111,11 @@
 [/us/usc/t20/s6333/c/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs6333%2Fc%2F1%2FA
 [/us/usc/t20/s7801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs7801
 [/us/usc/t20/s1401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1401
-[/us/pl/110/69/s6112]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F69%2Fs6112
+[/us/pl/110/69/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F69%2FtVI
 [/us/stat/121/626]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F626
+[/us/pl/114/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F95
+[/us/pl/114/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F95
+[/us/pl/114/95/s9214/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F95%2Fs9214%2Fa%2F2
+[/us/usc/t20/s1070g–2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1070g%E2%80%932
 
 

@@ -65,17 +65,17 @@
 
             To the extent that appropriations under this subpart are insufficient to comply with paragraph (1), available funds shall be distributed by ratably reducing the amounts required to be awarded under subsection (b)(2)(A) of this section.
 
-([Pub. L. 89–329, title VII, § 711][/us/pl/89/329/s711], as added [Pub. L. 105–244, title VII, § 701][/us/pl/105/244/s701], Oct. 7, 1998, [112 Stat. 1790][/us/stat/112/1790]; amended [Pub. L. 110–315, title VII, § 703(e)(1)][/us/pl/110/315/s703/e/1], Aug. 14, 2008, [122 Stat. 3347][/us/stat/122/3347].)
+([Pub. L. 89–329, title VII][/us/pl/89/329/tVII], § 711, as added [Pub. L. 105–244, title VII][/us/pl/105/244/tVII], § 701, Oct. 7, 1998, [112 Stat. 1790][/us/stat/112/1790]; amended [Pub. L. 110–315, title VII][/us/pl/110/315/tVII], § 703(e)(1), Aug. 14, 2008, [122 Stat. 3347][/us/stat/122/3347].)
 
  __Prior Provisions__ 
 
     Provisions similar to this section were contained in [section 1134m of this title][/us/usc/t20/s1134m], prior to repeal by [Pub. L. 105–244][/us/pl/105/244].
 
-    A prior section 1135, [Pub. L. 89–329, title X, § 1001][/us/pl/89/329/s1001], as added [Pub. L. 96–374, title X, § 1001(a)][/us/pl/96/374/s1001/a], Oct. 3, 1980, [94 Stat. 1489][/us/stat/94/1489]; amended [Pub. L. 102–325, title X, § 1001][/us/pl/102/325/s1001], July 23, 1992, [106 Stat. 778][/us/stat/106/778], related to Fund for the Improvement of Postsecondary Education, prior to repeal by [Pub. L. 105–244, § 3][/us/pl/105/244/s3], title VII, § 702, Oct. 7, 1998, [112 Stat. 1585][/us/stat/112/1585], 1803, effective Oct. 1, 1998. See [section 1138 of this title][/us/usc/t20/s1138].
+    A prior section 1135, [Pub. L. 89–329, title X][/us/pl/89/329/tX], § 1001, as added [Pub. L. 96–374, title X][/us/pl/96/374/tX], § 1001(a), Oct. 3, 1980, [94 Stat. 1489][/us/stat/94/1489]; amended [Pub. L. 102–325, title X][/us/pl/102/325/tX], § 1001, July 23, 1992, [106 Stat. 778][/us/stat/106/778], related to Fund for the Improvement of Postsecondary Education, prior to repeal by [Pub. L. 105–244][/us/pl/105/244], § 3, title VII, § 702, Oct. 7, 1998, [112 Stat. 1585][/us/stat/112/1585], 1803, effective Oct. 1, 1998. See [section 1138 of this title][/us/usc/t20/s1138].
 
-    Another prior section 1135, [Pub. L. 89–329, title X, § 1001][/us/pl/89/329/s1001], as added [Pub. L. 92–318, title I, § 186(a)(1)][/us/pl/92/318/s186/a/1], June 23, 1972, [86 Stat. 312][/us/stat/86/312]; amended [Pub. L. 93–380, title VIII, § 837][/us/pl/93/380/s837], Aug. 21, 1974, [88 Stat. 606][/us/stat/88/606]; [Pub. L. 94–482, title I, § 176(a)(3)][/us/pl/94/482/s176/a/3]–(5), title V, § 501(a)(20), Oct. 12, 1976, [90 Stat. 2165][/us/stat/90/2165], 2236; [Pub. L. 95–180, § 1(c)][/us/pl/95/180/s1/c], Nov. 15, 1977, [91 Stat. 1372][/us/stat/91/1372]; [Pub. L. 96–49, § 53(a)][/us/pl/96/49/s53/a], Aug. 13, 1979, [93 Stat. 354][/us/stat/93/354], related to development plans for expansion or improvement of postsecondary education programs in community colleges, prior to repeal by [section 1001(a) of Pub. L. 96–374][/us/pl/96/374/s1001/a].
+    Another prior section 1135, [Pub. L. 89–329, title X][/us/pl/89/329/tX], § 1001, as added [Pub. L. 92–318, title I][/us/pl/92/318/tI], § 186(a)(1), June 23, 1972, [86 Stat. 312][/us/stat/86/312]; amended [Pub. L. 93–380, title VIII][/us/pl/93/380/tVIII], § 837, Aug. 21, 1974, [88 Stat. 606][/us/stat/88/606]; [Pub. L. 94–482, title I][/us/pl/94/482/tI], § 176(a)(3)–(5), title V, § 501(a)(20), Oct. 12, 1976, [90 Stat. 2165][/us/stat/90/2165], 2236; [Pub. L. 95–180][/us/pl/95/180], § 1(c), Nov. 15, 1977, [91 Stat. 1372][/us/stat/91/1372]; [Pub. L. 96–49][/us/pl/96/49], § 53(a), Aug. 13, 1979, [93 Stat. 354][/us/stat/93/354], related to development plans for expansion or improvement of postsecondary education programs in community colleges, prior to repeal by [section 1001(a) of Pub. L. 96–374][/us/pl/96/374/s1001/a].
 
-    Another prior section 1135, [Pub. L. 89–329, title X, § 1001][/us/pl/89/329/s1001], as added [Pub. L. 90–575, title II, § 271][/us/pl/90/575/s271], Oct. 16, 1968, [82 Stat. 1047][/us/stat/82/1047], contained Congressional statement of purpose respecting improvement of graduate programs, prior to the general amendment of subchapter X of this chapter by [Pub. L. 92–318][/us/pl/92/318].
+    Another prior section 1135, [Pub. L. 89–329, title X][/us/pl/89/329/tX], § 1001, as added [Pub. L. 90–575, title II][/us/pl/90/575/tII], § 271, Oct. 16, 1968, [82 Stat. 1047][/us/stat/82/1047], contained Congressional statement of purpose respecting improvement of graduate programs, prior to the general amendment of subchapter X of this chapter by [Pub. L. 92–318][/us/pl/92/318].
 
     A prior [section 711 of Pub. L. 89–329][/us/pl/89/329/s711] was classified to [section 1132b of this title][/us/usc/t20/s1132b], prior to the general amendment of this subchapter by [Pub. L. 105–244][/us/pl/105/244].
 
@@ -95,35 +95,35 @@
 ----------
 
 [/us/usc/t26/s501/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs501%2Fc%2F3
-[/us/pl/89/329/s711]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2Fs711
-[/us/pl/105/244/s701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2Fs701
+[/us/pl/89/329/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2FtVII
+[/us/pl/105/244/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2FtVII
 [/us/stat/112/1790]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F1790
-[/us/pl/110/315/s703/e/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2Fs703%2Fe%2F1
+[/us/pl/110/315/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2FtVII
 [/us/stat/122/3347]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3347
 [/us/usc/t20/s1134m]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1134m
 [/us/pl/105/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244
-[/us/pl/89/329/s1001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2Fs1001
-[/us/pl/96/374/s1001/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F374%2Fs1001%2Fa
+[/us/pl/89/329/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2FtX
+[/us/pl/96/374/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F374%2FtX
 [/us/stat/94/1489]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F1489
-[/us/pl/102/325/s1001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325%2Fs1001
+[/us/pl/102/325/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325%2FtX
 [/us/stat/106/778]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F778
-[/us/pl/105/244/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2Fs3
+[/us/pl/105/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244
 [/us/stat/112/1585]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F1585
 [/us/usc/t20/s1138]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1138
-[/us/pl/89/329/s1001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2Fs1001
-[/us/pl/92/318/s186/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F318%2Fs186%2Fa%2F1
+[/us/pl/89/329/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2FtX
+[/us/pl/92/318/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F318%2FtI
 [/us/stat/86/312]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F312
-[/us/pl/93/380/s837]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F380%2Fs837
+[/us/pl/93/380/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F380%2FtVIII
 [/us/stat/88/606]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F606
-[/us/pl/94/482/s176/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F482%2Fs176%2Fa%2F3
+[/us/pl/94/482/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F482%2FtI
 [/us/stat/90/2165]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2165
-[/us/pl/95/180/s1/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F180%2Fs1%2Fc
+[/us/pl/95/180]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F180
 [/us/stat/91/1372]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F1372
-[/us/pl/96/49/s53/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F49%2Fs53%2Fa
+[/us/pl/96/49]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F49
 [/us/stat/93/354]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F354
 [/us/pl/96/374/s1001/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F374%2Fs1001%2Fa
-[/us/pl/89/329/s1001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2Fs1001
-[/us/pl/90/575/s271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F575%2Fs271
+[/us/pl/89/329/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2FtX
+[/us/pl/90/575/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F575%2FtII
 [/us/stat/82/1047]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F1047
 [/us/pl/92/318]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F318
 [/us/pl/89/329/s711]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2Fs711

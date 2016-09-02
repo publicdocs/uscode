@@ -13,9 +13,9 @@
 
 [Previous](./../../../../../..//us/usc/t20/ch68/schIX/ptE/m__us_usc_t20_ch68_schIX_ptE.md) | [Next](./../../../../../..//us/usc/t20/ch68/schIX/ptF/m__us_usc_t20_ch68_schIX_ptF.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs6051)
 
-## § 6051. Repealed. [Pub. L. 107–279, title IV, § 403(2)][/us/pl/107/279/s403/2], Nov. 5, 2002, [116 Stat. 1985][/us/stat/116/1985]
+## § 6051. Repealed. [Pub. L. 107–279, title IV][/us/pl/107/279/tIV], § 403(2), Nov. 5, 2002, [116 Stat. 1985][/us/stat/116/1985]
 
-    Section, [Pub. L. 103–227, title IX, § 951][/us/pl/103/227/s951], Mar. 31, 1994, [108 Stat. 260][/us/stat/108/260], established within the Department of Education a National Library of Education.
+    Section, [Pub. L. 103–227, title IX][/us/pl/103/227/tIX], § 951, Mar. 31, 1994, [108 Stat. 260][/us/stat/108/260], established within the Department of Education a National Library of Education.
 
 ----------
 
@@ -24,9 +24,9 @@
 ----------
 ----------
 
-[/us/pl/107/279/s403/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F279%2Fs403%2F2
+[/us/pl/107/279/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F279%2FtIV
 [/us/stat/116/1985]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1985
-[/us/pl/103/227/s951]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F227%2Fs951
+[/us/pl/103/227/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F227%2FtIX
 [/us/stat/108/260]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F260
 
 

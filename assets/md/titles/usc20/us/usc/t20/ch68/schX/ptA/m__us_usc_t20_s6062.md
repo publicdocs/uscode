@@ -29,7 +29,7 @@
 
         It is the sense of the Congress that the Federal Government should provide States and communities with adequate resources under the Individuals with Disabilities Education Act \[[20 U.S.C. 1400][/us/usc/t20/s1400] et seq.\] as soon as reasonably possible, through the reallocation of noneducation funds within the current budget monetary constraints.
 
-([Pub. L. 103–227, title X, § 1012][/us/pl/103/227/s1012], Mar. 31, 1994, [108 Stat. 265][/us/stat/108/265].)
+([Pub. L. 103–227, title X][/us/pl/103/227/tX], § 1012, Mar. 31, 1994, [108 Stat. 265][/us/stat/108/265].)
 
  __References in Text__ 
 
@@ -48,7 +48,7 @@
 
 [/us/usc/t20/s1400]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1400
 [/us/usc/t20/s1400]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1400
-[/us/pl/103/227/s1012]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F227%2Fs1012
+[/us/pl/103/227/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F227%2FtX
 [/us/stat/108/265]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F265
 [/us/pl/91/230]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F230
 [/us/stat/84/175]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F175

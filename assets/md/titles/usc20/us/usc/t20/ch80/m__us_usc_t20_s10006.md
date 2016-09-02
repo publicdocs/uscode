@@ -39,7 +39,7 @@
 
             Paragraph (1) does not apply to grants made by the Secretary to consortia of States to develop academic assessments that are aligned with academic standards, or to a State or States for improving early childhood care and education except that such a State may use its grant funds to make subgrants to public or private agencies and organizations for activities consistent with the purposes of the grant.
 
-([Pub. L. 111–5, div. A, title XIV, § 14006][/us/pl/111/5/s14006], Feb. 17, 2009, [123 Stat. 283][/us/stat/123/283]; [Pub. L. 111–117, div. D, title III, § 310][/us/pl/111/117/s310], Dec. 16, 2009, [123 Stat. 3272][/us/stat/123/3272]; [Pub. L. 112–10, div. B, title VIII, § 1832(b)(2)][/us/pl/112/10/s1832/b/2], Apr. 15, 2011, [125 Stat. 164][/us/stat/125/164]; [Pub. L. 112–74, div. F, title III, § 308][/us/pl/112/74/s308], Dec. 23, 2011, [125 Stat. 1100][/us/stat/125/1100].)
+([Pub. L. 111–5, div. A, title XIV][/us/pl/111/5/dA/tXIV], § 14006, Feb. 17, 2009, [123 Stat. 283][/us/stat/123/283]; [Pub. L. 111–117, div. D, title III][/us/pl/111/117/dD/tIII], § 310, Dec. 16, 2009, [123 Stat. 3272][/us/stat/123/3272]; [Pub. L. 112–10, div. B, title VIII][/us/pl/112/10/dB/tVIII], § 1832(b)(2), Apr. 15, 2011, [125 Stat. 164][/us/stat/125/164]; [Pub. L. 112–74, div. F, title III][/us/pl/112/74/dF/tIII], § 308, Dec. 23, 2011, [125 Stat. 1100][/us/stat/125/1100].)
 
  __References in Text__ 
 
@@ -47,11 +47,11 @@
 
  __Amendments__ 
 
-    2011—Subsec. (b). [Pub. L. 112–10, § 1832(b)(2)(A)][/us/pl/112/10/s1832/b/2/A], substituted “(5), or (6)” for “and (5)”.
+    2011—Subsec. (b). [Pub. L. 112–10][/us/pl/112/10], § 1832(b)(2)(A), substituted “(5), or (6)” for “and (5)”.
 
     Subsec. (c)(2). [Pub. L. 112–74][/us/pl/112/74] inserted before period at end “except that such a State may use its grant funds to make subgrants to public or private agencies and organizations for activities consistent with the purposes of the grant”.
 
-    [Pub. L. 112–10, § 1832(b)(2)(B)][/us/pl/112/10/s1832/b/2/B], inserted before period at end “, or to a State or States for improving early childhood care and education”.
+    [Pub. L. 112–10][/us/pl/112/10], § 1832(b)(2)(B), inserted before period at end “, or to a State or States for improving early childhood care and education”.
 
     2009—Subsec. (c). [Pub. L. 111–117][/us/pl/111/117] designated existing provisions as par. (1), inserted heading, and added par. (2).
 
@@ -69,20 +69,20 @@
 [/us/usc/t20/s10005]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs10005
 [/us/usc/t20/s10005/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs10005%2Fd
 [/us/usc/t20/s6311]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs6311
-[/us/pl/111/5/s14006]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5%2Fs14006
+[/us/pl/111/5/dA/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5%2FdA%2FtXIV
 [/us/stat/123/283]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F283
-[/us/pl/111/117/s310]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F117%2Fs310
+[/us/pl/111/117/dD/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F117%2FdD%2FtIII
 [/us/stat/123/3272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F3272
-[/us/pl/112/10/s1832/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F10%2Fs1832%2Fb%2F2
+[/us/pl/112/10/dB/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F10%2FdB%2FtVIII
 [/us/stat/125/164]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F164
-[/us/pl/112/74/s308]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F74%2Fs308
+[/us/pl/112/74/dF/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F74%2FdF%2FtIII
 [/us/stat/125/1100]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1100
 [/us/pl/89/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F10
 [/us/stat/79/27]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F27
 [/us/usc/t20/s6301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs6301
-[/us/pl/112/10/s1832/b/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F10%2Fs1832%2Fb%2F2%2FA
+[/us/pl/112/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F10
 [/us/pl/112/74]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F74
-[/us/pl/112/10/s1832/b/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F10%2Fs1832%2Fb%2F2%2FB
+[/us/pl/112/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F10
 [/us/pl/111/117]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F117
 
 

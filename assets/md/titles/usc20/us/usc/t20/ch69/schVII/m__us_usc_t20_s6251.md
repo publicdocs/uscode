@@ -17,7 +17,7 @@
 
  __Codification__ 
 
-    Section, [Pub. L. 103–239, title VIII, § 802][/us/pl/103/239/s802], May 4, 1994, [108 Stat. 608][/us/stat/108/608], provided that the authority under this chapter terminated on Oct. 1, 2001.
+    Section, [Pub. L. 103–239, title VIII][/us/pl/103/239/tVIII], § 802, May 4, 1994, [108 Stat. 608][/us/stat/108/608], provided that the authority under this chapter terminated on Oct. 1, 2001.
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/103/239/s802]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F239%2Fs802
+[/us/pl/103/239/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F239%2FtVIII
 [/us/stat/108/608]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F608
 
 

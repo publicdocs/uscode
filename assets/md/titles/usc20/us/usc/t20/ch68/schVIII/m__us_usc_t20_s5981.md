@@ -17,7 +17,7 @@
 
     This subchapter may be cited as the “Minority-Focused Civics Education Act of 1994”.
 
-([Pub. L. 103–227, title VIII, § 801][/us/pl/103/227/s801], Mar. 31, 1994, [108 Stat. 209][/us/stat/108/209].)
+([Pub. L. 103–227, title VIII][/us/pl/103/227/tVIII], § 801, Mar. 31, 1994, [108 Stat. 209][/us/stat/108/209].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/103/227/s801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F227%2Fs801
+[/us/pl/103/227/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F227%2FtVIII
 [/us/stat/108/209]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F209
 
 

@@ -275,21 +275,21 @@
 
             The term “subsidiary” means one or more direct or indirect subsidiaries.
 
-([Pub. L. 89–329, title IV, § 440][/us/pl/89/329/s440], as added [Pub. L. 104–208, div. A, title I, § 101(e)][/us/pl/104/208/s101/e] \[title VI, § 602(a)\], Sept. 30, 1996, [110 Stat. 3009–233][/us/stat/110/3009-233], 3009–275.)
+([Pub. L. 89–329, title IV][/us/pl/89/329/tIV], § 440, as added [Pub. L. 104–208, div. A, title I][/us/pl/104/208/dA/tI], § 101(e) \[title VI, § 602(a)\], Sept. 30, 1996, [110 Stat. 3009–233][/us/stat/110/3009-233], 3009–275.)
 
  __Repeal of Section__ 
 
-    [Pub. L. 104–208, div. A, title I, § 101(e)][/us/pl/104/208/s101/e] \[title VI, § 602(d)\], Sept. 30, 1996, [110 Stat. 3009–233][/us/stat/110/3009-233], 3009–289, provided that this section is repealed effective one year after date on which all obligations of trust established under subsec. (d)(1) of this section have been extinguished, if reorganization occurs in accordance with this section, or date on which all obligations of trust established under [section 1087–2(s)(3)(A) of this title][/us/usc/t20/s1087–2/s/3/A] have been extinguished, if reorganization does not occur in accordance with this section.
+    [Pub. L. 104–208, div. A, title I][/us/pl/104/208/dA/tI], § 101(e) \[title VI, § 602(d)\], Sept. 30, 1996, [110 Stat. 3009–233][/us/stat/110/3009-233], 3009–289, provided that this section is repealed effective one year after date on which all obligations of trust established under subsec. (d)(1) of this section have been extinguished, if reorganization occurs in accordance with this section, or date on which all obligations of trust established under [section 1087–2(s)(3)(A) of this title][/us/usc/t20/s1087–2/s/3/A] have been extinguished, if reorganization does not occur in accordance with this section.
 
  __References in Text__ 
 
-    [Section 1155(e) of this title][/us/usc/t20/s1155/e], referred to in subsecs. (c)(9)(B) and (e)(3), was in the original a reference to section 3(e) of the Student Loan Marketing Association Reorganization Act of 1996, and was translated as reading section 603(e) of that Act, which is [Pub. L. 104–208, div. A, title I, § 101(e)][/us/pl/104/208/s101/e] \[title VI, § 603(e)\], Sept. 30, 1996, [110 Stat. 3009–233][/us/stat/110/3009-233], 3009–293, to reflect the probable intent of Congress, because that Act does not contain a section 3(e), but does contain a section 603(e) which establishes the account referred to in text.
+    [Section 1155(e) of this title][/us/usc/t20/s1155/e], referred to in subsecs. (c)(9)(B) and (e)(3), was in the original a reference to section 3(e) of the Student Loan Marketing Association Reorganization Act of 1996, and was translated as reading section 603(e) of that Act, which is [Pub. L. 104–208, div. A, title I][/us/pl/104/208/dA/tI], § 101(e) \[title VI, § 603(e)\], Sept. 30, 1996, [110 Stat. 3009–233][/us/stat/110/3009-233], 3009–293, to reflect the probable intent of Congress, because that Act does not contain a section 3(e), but does contain a section 603(e) which establishes the account referred to in text.
 
  __Prior Provisions__ 
 
-    A prior section 1087–3, [Pub. L. 89–329, title IV, § 439A][/us/pl/89/329/s439A], as added [Pub. L. 94–482, title I, § 127(a)][/us/pl/94/482/s127/a], Oct. 12, 1976, [90 Stat. 2141][/us/stat/90/2141], related to a five-year nondischargeability of certain loan debts, prior to repeal by [Pub. L. 95–598, title III, § 317][/us/pl/95/598/s317], Nov. 6, 1978, [92 Stat. 2678][/us/stat/92/2678], eff. Nov. 6, 1978.
+    A prior section 1087–3, [Pub. L. 89–329, title IV][/us/pl/89/329/tIV], § 439A, as added [Pub. L. 94–482, title I][/us/pl/94/482/tI], § 127(a), Oct. 12, 1976, [90 Stat. 2141][/us/stat/90/2141], related to a five-year nondischargeability of certain loan debts, prior to repeal by [Pub. L. 95–598, title III][/us/pl/95/598/tIII], § 317, Nov. 6, 1978, [92 Stat. 2678][/us/stat/92/2678], eff. Nov. 6, 1978.
 
-    A prior section 1087–3a, [Pub. L. 89–329, title IV, § 439B][/us/pl/89/329/s439B], as added [Pub. L. 95–566, § 8][/us/pl/95/566/s8], Nov. 1, 1978, [92 Stat. 2404][/us/stat/92/2404], authorized any loan under this part to be counted as part of the expected family contribution in the determination of need, prior to repeal by [Pub. L. 97–35, title V, § 532(b)(2)][/us/pl/97/35/s532/b/2], Aug. 13, 1981, [95 Stat. 452][/us/stat/95/452], applicable to loans for the statement required by [section 1078(a)(2)(A) of this title][/us/usc/t20/s1078/a/2/A] is completed on or after Oct. 1, 1981.
+    A prior section 1087–3a, [Pub. L. 89–329, title IV][/us/pl/89/329/tIV], § 439B, as added [Pub. L. 95–566][/us/pl/95/566], § 8, Nov. 1, 1978, [92 Stat. 2404][/us/stat/92/2404], authorized any loan under this part to be counted as part of the expected family contribution in the determination of need, prior to repeal by [Pub. L. 97–35, title V][/us/pl/97/35/tV], § 532(b)(2), Aug. 13, 1981, [95 Stat. 452][/us/stat/95/452], applicable to loans for the statement required by [section 1078(a)(2)(A) of this title][/us/usc/t20/s1078/a/2/A] is completed on or after Oct. 1, 1981.
 
 ----------
 
@@ -312,24 +312,24 @@
 [/us/usc/t20/s1087–2/q]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1087%E2%80%932%2Fq
 [/us/usc/t20/s1087–2/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1087%E2%80%932%2Fd
 [/us/usc/t20/s1087–2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1087%E2%80%932
-[/us/pl/89/329/s440]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2Fs440
-[/us/pl/104/208/s101/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs101%2Fe
+[/us/pl/89/329/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2FtIV
+[/us/pl/104/208/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2FdA%2FtI
 [/us/stat/110/3009-233]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3009-233
-[/us/pl/104/208/s101/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs101%2Fe
+[/us/pl/104/208/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2FdA%2FtI
 [/us/stat/110/3009-233]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3009-233
 [/us/usc/t20/s1087–2/s/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1087%E2%80%932%2Fs%2F3%2FA
 [/us/usc/t20/s1155/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1155%2Fe
-[/us/pl/104/208/s101/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs101%2Fe
+[/us/pl/104/208/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2FdA%2FtI
 [/us/stat/110/3009-233]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3009-233
-[/us/pl/89/329/s439A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2Fs439A
-[/us/pl/94/482/s127/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F482%2Fs127%2Fa
+[/us/pl/89/329/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2FtIV
+[/us/pl/94/482/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F482%2FtI
 [/us/stat/90/2141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2141
-[/us/pl/95/598/s317]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F598%2Fs317
+[/us/pl/95/598/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F598%2FtIII
 [/us/stat/92/2678]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2678
-[/us/pl/89/329/s439B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2Fs439B
-[/us/pl/95/566/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F566%2Fs8
+[/us/pl/89/329/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2FtIV
+[/us/pl/95/566]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F566
 [/us/stat/92/2404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2404
-[/us/pl/97/35/s532/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs532%2Fb%2F2
+[/us/pl/97/35/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2FtV
 [/us/stat/95/452]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F452
 [/us/usc/t20/s1078/a/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1078%2Fa%2F2%2FA
 

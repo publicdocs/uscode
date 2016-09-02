@@ -25,7 +25,7 @@
 
     (4) financial assistance to establish or strengthen the physical plants, financial management, academic resources, and endowments of the historically Black colleges and universities are appropriate methods to enhance these institutions and facilitate a decrease in reliance on governmental financial support and to encourage reliance on endowments and private sources.
 
-([Pub. L. 89–329, title III, § 321][/us/pl/89/329/s321], as added [Pub. L. 99–498, title III, § 301(a)][/us/pl/99/498/s301/a], Oct. 17, 1986, [100 Stat. 1294][/us/stat/100/1294].)
+([Pub. L. 89–329, title III][/us/pl/89/329/tIII], § 321, as added [Pub. L. 99–498, title III][/us/pl/99/498/tIII], § 301(a), Oct. 17, 1986, [100 Stat. 1294][/us/stat/100/1294].)
 
  __References in Text__ 
 
@@ -33,9 +33,9 @@
 
  __Prior Provisions__ 
 
-    A prior section 1060, [Pub. L. 89–329, title III, § 321][/us/pl/89/329/s321], as added [Pub. L. 96–374, title III, § 301][/us/pl/96/374/s301], Oct. 3, 1980, [94 Stat. 1393][/us/stat/94/1393], set out purpose and grant authority for program of aiding institutions with special needs, prior to the general revision of this subchapter by [Pub. L. 99–498][/us/pl/99/498].
+    A prior section 1060, [Pub. L. 89–329, title III][/us/pl/89/329/tIII], § 321, as added [Pub. L. 96–374, title III][/us/pl/96/374/tIII], § 301, Oct. 3, 1980, [94 Stat. 1393][/us/stat/94/1393], set out purpose and grant authority for program of aiding institutions with special needs, prior to the general revision of this subchapter by [Pub. L. 99–498][/us/pl/99/498].
 
-    Another prior section 1060, [Pub. L. 90–575, title V, § 504][/us/pl/90/575/s504], Oct. 16, 1968, [82 Stat. 1062][/us/stat/82/1062], related to eligibility for student assistance because of conviction of crimes involving force, disruption, or seizure of property of educational institution; refusal to obey regulations or orders and disruption of administration of institution; other misconduct, disciplinary proceedings, and freedom of expression; and description of programs covered by such disqualification, prior to repeal by [Pub. L. 92–318, title I, § 139B(b)][/us/pl/92/318/s139B/b], June 23, 1972, [86 Stat. 282][/us/stat/86/282].
+    Another prior section 1060, [Pub. L. 90–575, title V][/us/pl/90/575/tV], § 504, Oct. 16, 1968, [82 Stat. 1062][/us/stat/82/1062], related to eligibility for student assistance because of conviction of crimes involving force, disruption, or seizure of property of educational institution; refusal to obey regulations or orders and disruption of administration of institution; other misconduct, disciplinary proceedings, and freedom of expression; and description of programs covered by such disqualification, prior to repeal by [Pub. L. 92–318, title I][/us/pl/92/318/tI], § 139B(b), June 23, 1972, [86 Stat. 282][/us/stat/86/282].
 
  __Executive Order No. 12320__ 
 
@@ -179,19 +179,19 @@
 ----------
 
 [/us/usc/t7/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs301
-[/us/pl/89/329/s321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2Fs321
-[/us/pl/99/498/s301/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F498%2Fs301%2Fa
+[/us/pl/89/329/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2FtIII
+[/us/pl/99/498/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F498%2FtIII
 [/us/stat/100/1294]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1294
 [/us/act/1862-07-02/ch130]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1862-07-02%2Fch130
 [/us/stat/12/503]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F12%2F503
 [/us/usc/t7/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs301
-[/us/pl/89/329/s321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2Fs321
-[/us/pl/96/374/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F374%2Fs301
+[/us/pl/89/329/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2FtIII
+[/us/pl/96/374/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F374%2FtIII
 [/us/stat/94/1393]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F1393
 [/us/pl/99/498]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F498
-[/us/pl/90/575/s504]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F575%2Fs504
+[/us/pl/90/575/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F575%2FtV
 [/us/stat/82/1062]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F1062
-[/us/pl/92/318/s139B/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F318%2Fs139B%2Fb
+[/us/pl/92/318/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F318%2FtI
 [/us/stat/86/282]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F282
 [/us/usc/t18/s208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs208
 [/us/usc/t3/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft3%2Fs301

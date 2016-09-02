@@ -29,13 +29,21 @@
 
     (d) __Transitional and academic services__ 
 
-        Transitional and supportive programs operated in local educational agencies under this subpart shall be designed primarily to meet the transitional and academic needs of students returning to local educational agencies or alternative education programs from correctional facilities. Services to students at-risk of dropping out of school shall not have a negative impact on meeting the transitional and academic needs of the students returning from correctional facilities.
+        Transitional and supportive programs operated in local educational agencies under this subpart shall be designed primarily to meet the transitional and academic needs of students returning to local educational agencies or alternative education programs from correctional facilities. Services to students at-risk of dropping out of school shall not have a negative impact on meeting such transitional and academic needs of the students returning from correctional facilities.
 
-([Pub. L. 89–10, title I, § 1422][/us/pl/89/10/s1422], as added [Pub. L. 107–110, title I, § 101][/us/pl/107/110/s101], Jan. 8, 2002, [115 Stat. 1587][/us/stat/115/1587].)
+([Pub. L. 89–10, title I][/us/pl/89/10/tI], § 1422, as added [Pub. L. 107–110, title I][/us/pl/107/110/tI], § 101, Jan. 8, 2002, [115 Stat. 1587][/us/stat/115/1587]; amended [Pub. L. 114–95, title I][/us/pl/114/95/tI], § 1401(9), Dec. 10, 2015, [129 Stat. 1903][/us/stat/129/1903].)
 
  __Prior Provisions__ 
 
-    A prior section 6452, [Pub. L. 89–10, title I, § 1422][/us/pl/89/10/s1422], as added [Pub. L. 103–382, title I, § 101][/us/pl/103/382/s101], Oct. 20, 1994, [108 Stat. 3598][/us/stat/108/3598], related to programs operated by local educational agencies, prior to the general amendment of this subchapter by [Pub. L. 107–110][/us/pl/107/110].
+    A prior section 6452, [Pub. L. 89–10, title I][/us/pl/89/10/tI], § 1422, as added [Pub. L. 103–382, title I][/us/pl/103/382/tI], § 101, Oct. 20, 1994, [108 Stat. 3598][/us/stat/108/3598], related to programs operated by local educational agencies, prior to the general amendment of this subchapter by [Pub. L. 107–110][/us/pl/107/110].
+
+ __Amendments__ 
+
+    2015—Subsec. (d). [Pub. L. 114–95][/us/pl/114/95] substituted “impact on meeting such transitional” for “impact on meeting the transitional”.
+
+ __Effective Date of 2015 Amendment__ 
+
+    Amendment by [Pub. L. 114–95][/us/pl/114/95] effective Dec. 10, 2015, except with respect to certain noncompetitive programs and competitive programs, see [section 5 of Pub. L. 114–95][/us/pl/114/95/s5], set out as a note under [section 6301 of this title][/us/usc/t20/s6301].
 
 ----------
 
@@ -45,12 +53,18 @@
 ----------
 
 [/us/usc/t20/s6422/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs6422%2Fb
-[/us/pl/89/10/s1422]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F10%2Fs1422
-[/us/pl/107/110/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F110%2Fs101
+[/us/pl/89/10/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F10%2FtI
+[/us/pl/107/110/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F110%2FtI
 [/us/stat/115/1587]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F1587
-[/us/pl/89/10/s1422]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F10%2Fs1422
-[/us/pl/103/382/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F382%2Fs101
+[/us/pl/114/95/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F95%2FtI
+[/us/stat/129/1903]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1903
+[/us/pl/89/10/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F10%2FtI
+[/us/pl/103/382/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F382%2FtI
 [/us/stat/108/3598]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3598
 [/us/pl/107/110]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F110
+[/us/pl/114/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F95
+[/us/pl/114/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F95
+[/us/pl/114/95/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F95%2Fs5
+[/us/usc/t20/s6301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs6301
 
 

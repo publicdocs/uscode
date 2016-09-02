@@ -17,7 +17,7 @@
 
  __Codification__ 
 
-    Section, [Pub. L. 98–146, title II][/us/pl/98/146], Nov. 4, 1983, [97 Stat. 949][/us/stat/97/949], which directed that persons serving on National Council on the Humanities continue until their successors are qualified for office, was omitted as superseded. See [section 957(c) of this title][/us/usc/t20/s957/c], as amended by [Pub. L. 98–306][/us/pl/98/306]. Similar provisions were contained in [Pub. L. 97–394, title II][/us/pl/97/394], Dec. 30, 1982, [96 Stat. 1994][/us/stat/96/1994].
+    Section, [Pub. L. 98–146, title II][/us/pl/98/146/tII], Nov. 4, 1983, [97 Stat. 949][/us/stat/97/949], which directed that persons serving on National Council on the Humanities continue until their successors are qualified for office, was omitted as superseded. See [section 957(c) of this title][/us/usc/t20/s957/c], as amended by [Pub. L. 98–306][/us/pl/98/306]. Similar provisions were contained in [Pub. L. 97–394, title II][/us/pl/97/394/tII], Dec. 30, 1982, [96 Stat. 1994][/us/stat/96/1994].
 
 ----------
 
@@ -26,11 +26,11 @@
 ----------
 ----------
 
-[/us/pl/98/146]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F146
+[/us/pl/98/146/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F146%2FtII
 [/us/stat/97/949]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F949
 [/us/usc/t20/s957/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs957%2Fc
 [/us/pl/98/306]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F306
-[/us/pl/97/394]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F394
+[/us/pl/97/394/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F394%2FtII
 [/us/stat/96/1994]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1994
 
 

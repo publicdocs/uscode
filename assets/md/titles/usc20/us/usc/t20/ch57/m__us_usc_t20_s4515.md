@@ -17,7 +17,7 @@
 
     There are appropriated to the James Madison Memorial Trust Fund $20,000,000 to carry out the provisions of this chapter, $10,000,000 of which shall be available on November 1, 1987, and to remain available until expended; and $10,000,000 of which shall be available on November 1, 1988, and to remain available until expended.
 
-([Pub. L. 99–500, § 101(b)][/us/pl/99/500/s101/b] \[title VIII, § 816\], Oct. 18, 1986, [100 Stat. 1783–39][/us/stat/100/1783-39], 1783–81, and [Pub. L. 99–591, § 101(b)][/us/pl/99/591/s101/b] \[title VIII, § 816\], Oct. 30, 1986, [100 Stat. 3341–39][/us/stat/100/3341-39], 3341–81.)
+([Pub. L. 99–500][/us/pl/99/500], § 101(b) \[title VIII, § 816\], Oct. 18, 1986, [100 Stat. 1783–39][/us/stat/100/1783-39], 1783–81, and [Pub. L. 99–591][/us/pl/99/591], § 101(b) \[title VIII, § 816\], Oct. 30, 1986, [100 Stat. 3341–39][/us/stat/100/3341-39], 3341–81.)
 
  __Codification__ 
 
@@ -30,9 +30,9 @@
 ----------
 ----------
 
-[/us/pl/99/500/s101/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F500%2Fs101%2Fb
+[/us/pl/99/500]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F500
 [/us/stat/100/1783-39]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1783-39
-[/us/pl/99/591/s101/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F591%2Fs101%2Fb
+[/us/pl/99/591]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F591
 [/us/stat/100/3341-39]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3341-39
 [/us/pl/99/591]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F591
 [/us/pl/99/500]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F500

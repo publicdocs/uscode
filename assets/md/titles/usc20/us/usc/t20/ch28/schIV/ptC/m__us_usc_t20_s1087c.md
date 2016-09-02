@@ -65,7 +65,7 @@
 
         Subject to such requirements as the Secretary may prescribe, eligible institutions of higher education (as determined under subsection (d) of this section) with agreements under [section 1087d(a) of this title][/us/usc/t20/s1087d/a] may apply to the Secretary as consortia to originate loans under this part for students in attendance at such institutions. Each such institution shall be required to meet the requirements of subsection (c) of this section with respect to loan origination.
 
-([Pub. L. 89–329, title IV, § 453][/us/pl/89/329/s453], as added [Pub. L. 99–498, title IV, § 404][/us/pl/99/498/s404], Oct. 17, 1986, [100 Stat. 1438][/us/stat/100/1438]; amended [Pub. L. 102–325, title IV, § 451][/us/pl/102/325/s451], July 23, 1992, [106 Stat. 569][/us/stat/106/569]; [Pub. L. 103–66, title IV, § 4021][/us/pl/103/66/s4021], Aug. 10, 1993, [107 Stat. 342][/us/stat/107/342]; [Pub. L. 103–208, § 2(e)][/us/pl/103/208/s2/e], Dec. 20, 1993, [107 Stat. 2470][/us/stat/107/2470]; [Pub. L. 105–244, title IV, § 451][/us/pl/105/244/s451], Oct. 7, 1998, [112 Stat. 1715][/us/stat/112/1715]; [Pub. L. 111–39, title IV, § 404(b)(1)][/us/pl/111/39/s404/b/1], July 1, 2009, [123 Stat. 1946][/us/stat/123/1946].)
+([Pub. L. 89–329, title IV][/us/pl/89/329/tIV], § 453, as added [Pub. L. 99–498, title IV][/us/pl/99/498/tIV], § 404, Oct. 17, 1986, [100 Stat. 1438][/us/stat/100/1438]; amended [Pub. L. 102–325, title IV][/us/pl/102/325/tIV], § 451, July 23, 1992, [106 Stat. 569][/us/stat/106/569]; [Pub. L. 103–66, title IV][/us/pl/103/66/tIV], § 4021, Aug. 10, 1993, [107 Stat. 342][/us/stat/107/342]; [Pub. L. 103–208][/us/pl/103/208], § 2(e), Dec. 20, 1993, [107 Stat. 2470][/us/stat/107/2470]; [Pub. L. 105–244, title IV][/us/pl/105/244/tIV], § 451, Oct. 7, 1998, [112 Stat. 1715][/us/stat/112/1715]; [Pub. L. 111–39, title IV][/us/pl/111/39/tIV], § 404(b)(1), July 1, 2009, [123 Stat. 1946][/us/stat/123/1946].)
 
  __Codification__ 
 
@@ -73,15 +73,15 @@
 
  __Prior Provisions__ 
 
-    A prior section 1087c, [Pub. L. 89–329, title IV, § 453][/us/pl/89/329/s453], as added [Pub. L. 90–575, title I, § 141][/us/pl/90/575/s141], Oct. 16, 1968, [82 Stat. 1032][/us/stat/82/1032]; amended [Pub. L. 92–318, title I, § 136(b)(2)][/us/pl/92/318/s136/b/2], June 23, 1972, [86 Stat. 272][/us/stat/86/272], authorized grants and contracts for training and research in cooperative education programs, prior to repeal by [Pub. L. 94–482, title I, § 129(a)][/us/pl/94/482/s129/a], Oct. 12, 1976, [90 Stat. 2144][/us/stat/90/2144], eff. 30 days after Oct. 12, 1976.
+    A prior section 1087c, [Pub. L. 89–329, title IV][/us/pl/89/329/tIV], § 453, as added [Pub. L. 90–575, title I][/us/pl/90/575/tI], § 141, Oct. 16, 1968, [82 Stat. 1032][/us/stat/82/1032]; amended [Pub. L. 92–318, title I][/us/pl/92/318/tI], § 136(b)(2), June 23, 1972, [86 Stat. 272][/us/stat/86/272], authorized grants and contracts for training and research in cooperative education programs, prior to repeal by [Pub. L. 94–482, title I][/us/pl/94/482/tI], § 129(a), Oct. 12, 1976, [90 Stat. 2144][/us/stat/90/2144], eff. 30 days after Oct. 12, 1976.
 
  __Amendments__ 
 
     2009—Subsec. (c)(3). [Pub. L. 111–39][/us/pl/111/39] struck out par. (3). Text read as follows: “The Secretary shall promulgate and publish in the Federal Register regulations governing the approval of institutions to originate loans under this part in accordance with [section 1087g(a)(2) of this title][/us/usc/t20/s1087g/a/2].”
 
-    1998—Subsec. (a). [Pub. L. 105–244, § 451(a)][/us/pl/105/244/s451/a], amended heading, redesignated par. (1) as entire subsec., and struck out pars. (2) to (4) which provided for transition from loan programs under part B of this subchapter to direct student loan program under this part and defined term “new student loan volume”.
+    1998—Subsec. (a). [Pub. L. 105–244][/us/pl/105/244], § 451(a), amended heading, redesignated par. (1) as entire subsec., and struck out pars. (2) to (4) which provided for transition from loan programs under part B of this subchapter to direct student loan program under this part and defined term “new student loan volume”.
 
-    Subsec. (b)(2). [Pub. L. 105–244, § 451(b)][/us/pl/105/244/s451/b], substituted “prescribe.” for “prescribe, by, to the extent possible—
+    Subsec. (b)(2). [Pub. L. 105–244][/us/pl/105/244], § 451(b), substituted “prescribe.” for “prescribe, by, to the extent possible—
 
     “(A)(i) categorizing such institutions according to anticipated loan volume, length of academic program, control of the institution, highest degree offered, size of student enrollment, geographic location, annual loan volume, and default experience; and
 
@@ -89,21 +89,21 @@
 
     “(B) if the Secretary determines it necessary in order to carry out the purposes of subparagraph (A) and attain such reasonable representation (as required by subparagraph (A)), selecting additional institutions.”
 
-    Subsec. (c)(2). [Pub. L. 105–244, § 451(c)(1)(A)][/us/pl/105/244/s451/c/1/A], (B), substituted “Selection criteria” for “Transition selection criteria” in heading and “The Secretary” for “For academic year 1994–1995, the Secretary” in introductory provisions.
+    Subsec. (c)(2). [Pub. L. 105–244][/us/pl/105/244], § 451(c)(1)(A), (B), substituted “Selection criteria” for “Transition selection criteria” in heading and “The Secretary” for “For academic year 1994–1995, the Secretary” in introductory provisions.
 
-    Subsec. (c)(2)(A). [Pub. L. 105–244, § 451(c)(1)(E)][/us/pl/105/244/s451/c/1/E], redesignated subpar. (B) as (A).
+    Subsec. (c)(2)(A). [Pub. L. 105–244][/us/pl/105/244], § 451(c)(1)(E), redesignated subpar. (B) as (A).
 
-    [Pub. L. 105–244, § 451(c)(1)(C)][/us/pl/105/244/s451/c/1/C], struck out subpar. (A) which read as follows: “made loans under part D of this subchapter in academic year 1993–1994 and did not exceed the applicable maximum default rate under [section 1087bb(g) of this title][/us/usc/t20/s1087bb/g] for the most recent fiscal year for which data are available;”.
+    [Pub. L. 105–244][/us/pl/105/244], § 451(c)(1)(C), struck out subpar. (A) which read as follows: “made loans under part D of this subchapter in academic year 1993–1994 and did not exceed the applicable maximum default rate under [section 1087bb(g) of this title][/us/usc/t20/s1087bb/g] for the most recent fiscal year for which data are available;”.
 
-    Subsec. (c)(2)(B) to (D). [Pub. L. 105–244, § 451(c)(1)(E)][/us/pl/105/244/s451/c/1/E], redesignated subpars. (C), (D), and (F) as (B) to (D), respectively. Former subpar. (B) redesignated (A).
+    Subsec. (c)(2)(B) to (D). [Pub. L. 105–244][/us/pl/105/244], § 451(c)(1)(E), redesignated subpars. (C), (D), and (F) as (B) to (D), respectively. Former subpar. (B) redesignated (A).
 
-    Subsec. (c)(2)(E). [Pub. L. 105–244, § 451(c)(1)(E)][/us/pl/105/244/s451/c/1/E], redesignated subpar. (G) as (E).
+    Subsec. (c)(2)(E). [Pub. L. 105–244][/us/pl/105/244], § 451(c)(1)(E), redesignated subpar. (G) as (E).
 
-    [Pub. L. 105–244, § 451(c)(1)(D)][/us/pl/105/244/s451/c/1/D], struck out subpar. (E) which read as follows: “in the opinion of the Secretary, has not had significant deficiencies identified by a State postsecondary review entity under subpart 1 of part G of this subchapter;”.
+    [Pub. L. 105–244][/us/pl/105/244], § 451(c)(1)(D), struck out subpar. (E) which read as follows: “in the opinion of the Secretary, has not had significant deficiencies identified by a State postsecondary review entity under subpart 1 of part G of this subchapter;”.
 
-    Subsec. (c)(2)(F) to (H). [Pub. L. 105–244, § 451(c)(1)(E)][/us/pl/105/244/s451/c/1/E], redesignated subpars. (G) and (H) as (E) and (F), respectively. Former subpar. (F) redesignated (D).
+    Subsec. (c)(2)(F) to (H). [Pub. L. 105–244][/us/pl/105/244], § 451(c)(1)(E), redesignated subpars. (G) and (H) as (E) and (F), respectively. Former subpar. (F) redesignated (D).
 
-    Subsec. (c)(3). [Pub. L. 105–244, § 451(c)(2)][/us/pl/105/244/s451/c/2], struck out “after transition” after “approval” in heading and substituted “The Secretary” for “For academic year 1995–1996 and subsequent academic years, the Secretary” in text.
+    Subsec. (c)(3). [Pub. L. 105–244][/us/pl/105/244], § 451(c)(2), struck out “after transition” after “approval” in heading and substituted “The Secretary” for “For academic year 1995–1996 and subsequent academic years, the Secretary” in text.
 
     1993—[Pub. L. 103–66][/us/pl/103/66] amended section generally, substituting provisions relating to selection of institutions for participation and origination for former provisions relating to selection by Secretary.
 
@@ -140,43 +140,43 @@
 [/us/usc/t20/s1087d/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1087d%2Fa
 [/us/usc/t20/s1085/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1085%2Fa
 [/us/usc/t20/s1087d/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1087d%2Fa
-[/us/pl/89/329/s453]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2Fs453
-[/us/pl/99/498/s404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F498%2Fs404
+[/us/pl/89/329/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2FtIV
+[/us/pl/99/498/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F498%2FtIV
 [/us/stat/100/1438]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1438
-[/us/pl/102/325/s451]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325%2Fs451
+[/us/pl/102/325/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325%2FtIV
 [/us/stat/106/569]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F569
-[/us/pl/103/66/s4021]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66%2Fs4021
+[/us/pl/103/66/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66%2FtIV
 [/us/stat/107/342]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F342
-[/us/pl/103/208/s2/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F208%2Fs2%2Fe
+[/us/pl/103/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F208
 [/us/stat/107/2470]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F2470
-[/us/pl/105/244/s451]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2Fs451
+[/us/pl/105/244/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2FtIV
 [/us/stat/112/1715]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F1715
-[/us/pl/111/39/s404/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F39%2Fs404%2Fb%2F1
+[/us/pl/111/39/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F39%2FtIV
 [/us/stat/123/1946]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1946
 [/us/pl/103/208/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F208%2Fs2
 [/us/pl/102/325]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325
 [/us/pl/102/325]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325
 [/us/pl/103/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66
-[/us/pl/89/329/s453]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2Fs453
-[/us/pl/90/575/s141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F575%2Fs141
+[/us/pl/89/329/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2FtIV
+[/us/pl/90/575/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F575%2FtI
 [/us/stat/82/1032]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F1032
-[/us/pl/92/318/s136/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F318%2Fs136%2Fb%2F2
+[/us/pl/92/318/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F318%2FtI
 [/us/stat/86/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F272
-[/us/pl/94/482/s129/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F482%2Fs129%2Fa
+[/us/pl/94/482/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F482%2FtI
 [/us/stat/90/2144]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2144
 [/us/pl/111/39]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F39
 [/us/usc/t20/s1087g/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1087g%2Fa%2F2
-[/us/pl/105/244/s451/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2Fs451%2Fa
-[/us/pl/105/244/s451/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2Fs451%2Fb
-[/us/pl/105/244/s451/c/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2Fs451%2Fc%2F1%2FA
-[/us/pl/105/244/s451/c/1/E]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2Fs451%2Fc%2F1%2FE
-[/us/pl/105/244/s451/c/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2Fs451%2Fc%2F1%2FC
+[/us/pl/105/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244
+[/us/pl/105/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244
+[/us/pl/105/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244
+[/us/pl/105/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244
+[/us/pl/105/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244
 [/us/usc/t20/s1087bb/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1087bb%2Fg
-[/us/pl/105/244/s451/c/1/E]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2Fs451%2Fc%2F1%2FE
-[/us/pl/105/244/s451/c/1/E]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2Fs451%2Fc%2F1%2FE
-[/us/pl/105/244/s451/c/1/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2Fs451%2Fc%2F1%2FD
-[/us/pl/105/244/s451/c/1/E]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2Fs451%2Fc%2F1%2FE
-[/us/pl/105/244/s451/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2Fs451%2Fc%2F2
+[/us/pl/105/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244
+[/us/pl/105/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244
+[/us/pl/105/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244
+[/us/pl/105/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244
+[/us/pl/105/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244
 [/us/pl/103/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66
 [/us/pl/103/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F208
 [/us/pl/102/325]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325

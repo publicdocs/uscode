@@ -37,11 +37,11 @@
 
         Any application for a grant under this part shall describe measurable goals for the institution’s financial management and academic programs and include a plan of how the applicant intends to achieve those goals.
 
-([Pub. L. 89–329, title III, § 325][/us/pl/89/329/s325], as added [Pub. L. 99–498, title III, § 301(a)][/us/pl/99/498/s301/a], Oct. 17, 1986, [100 Stat. 1296][/us/stat/100/1296]; amended [Pub. L. 100–50, § 2(a)(8)][/us/pl/100/50/s2/a/8], June 3, 1987, [101 Stat. 335][/us/stat/101/335]; [Pub. L. 102–325, title III, § 303(e)][/us/pl/102/325/s303/e], July 23, 1992, [106 Stat. 475][/us/stat/106/475].)
+([Pub. L. 89–329, title III][/us/pl/89/329/tIII], § 325, as added [Pub. L. 99–498, title III][/us/pl/99/498/tIII], § 301(a), Oct. 17, 1986, [100 Stat. 1296][/us/stat/100/1296]; amended [Pub. L. 100–50][/us/pl/100/50], § 2(a)(8), June 3, 1987, [101 Stat. 335][/us/stat/101/335]; [Pub. L. 102–325, title III][/us/pl/102/325/tIII], § 303(e), July 23, 1992, [106 Stat. 475][/us/stat/106/475].)
 
  __References in Text__ 
 
-    [Section 1058(b)(1)(E) of this title][/us/usc/t20/s1058/b/1/E], referred to in subsec. (a), was repealed and section 1058(b)(1)(F) was redesignated section 1058(b)(1)(E) by [Pub. L. 102–325, title III, § 302(a)(1)(B)][/us/pl/102/325/s302/a/1/B], (C), July 23, 1992, [106 Stat. 472][/us/stat/106/472].
+    [Section 1058(b)(1)(E) of this title][/us/usc/t20/s1058/b/1/E], referred to in subsec. (a), was repealed and section 1058(b)(1)(F) was redesignated section 1058(b)(1)(E) by [Pub. L. 102–325, title III][/us/pl/102/325/tIII], § 302(a)(1)(B), (C), July 23, 1992, [106 Stat. 472][/us/stat/106/472].
 
  __Amendments__ 
 
@@ -67,15 +67,15 @@
 [/us/usc/t20/s1063]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1063
 [/us/usc/t20/s1058/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1058%2Fb%2F1
 [/us/usc/t20/s1062]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1062
-[/us/pl/89/329/s325]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2Fs325
-[/us/pl/99/498/s301/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F498%2Fs301%2Fa
+[/us/pl/89/329/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2FtIII
+[/us/pl/99/498/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F498%2FtIII
 [/us/stat/100/1296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1296
-[/us/pl/100/50/s2/a/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F50%2Fs2%2Fa%2F8
+[/us/pl/100/50]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F50
 [/us/stat/101/335]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F335
-[/us/pl/102/325/s303/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325%2Fs303%2Fe
+[/us/pl/102/325/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325%2FtIII
 [/us/stat/106/475]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F475
 [/us/usc/t20/s1058/b/1/E]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1058%2Fb%2F1%2FE
-[/us/pl/102/325/s302/a/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325%2Fs302%2Fa%2F1%2FB
+[/us/pl/102/325/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325%2FtIII
 [/us/stat/106/472]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F472
 [/us/pl/102/325]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325
 [/us/pl/100/50]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F50

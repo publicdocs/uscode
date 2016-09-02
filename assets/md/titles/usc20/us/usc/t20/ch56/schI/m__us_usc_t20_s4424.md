@@ -35,7 +35,7 @@
 
         (2) The Institute shall not be subject to any provision of law requiring that non-Federal funds or other moneys be used in part to fund any grant, contract, cooperative agreement, or project as a condition to the application for, or receipt of, Federal assistance. This subsection shall not be construed to effect  <sup>\[3\]</sup>  <sup><sup> 3 So in original. Probably should be “affect”. </sup></sup>  in a negative fashion the review, prioritization, or acceptance of any application or proposal for such a program, solicited or unsolicited.
 
-([Pub. L. 99–498, title XV, § 1517][/us/pl/99/498/s1517], Oct. 17, 1986, [100 Stat. 1609][/us/stat/100/1609]; [Pub. L. 101–644, title V, § 504][/us/pl/101/644/s504], Nov. 29, 1990, [104 Stat. 4669][/us/stat/104/4669]; [Pub. L. 102–325, title XIII, § 1331(i)][/us/pl/102/325/s1331/i], July 23, 1992, [106 Stat. 808][/us/stat/106/808]; [Pub. L. 113–287, § 5(e)(2)][/us/pl/113/287/s5/e/2], Dec. 19, 2014, [128 Stat. 3268][/us/stat/128/3268].)
+([Pub. L. 99–498, title XV][/us/pl/99/498/tXV], § 1517, Oct. 17, 1986, [100 Stat. 1609][/us/stat/100/1609]; [Pub. L. 101–644, title V][/us/pl/101/644/tV], § 504, Nov. 29, 1990, [104 Stat. 4669][/us/stat/104/4669]; [Pub. L. 102–325, title XIII][/us/pl/102/325/tXIII], § 1331(i), July 23, 1992, [106 Stat. 808][/us/stat/106/808]; [Pub. L. 113–287][/us/pl/113/287], § 5(e)(2), Dec. 19, 2014, [128 Stat. 3268][/us/stat/128/3268].)
 
  __References in Text__ 
 
@@ -67,13 +67,13 @@
 [/us/pl/95/341]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F341
 [/us/usc/t42/s1996]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1996
 [/us/usc/t16/s470aa]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs470aa
-[/us/pl/99/498/s1517]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F498%2Fs1517
+[/us/pl/99/498/tXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F498%2FtXV
 [/us/stat/100/1609]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1609
-[/us/pl/101/644/s504]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F644%2Fs504
+[/us/pl/101/644/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F644%2FtV
 [/us/stat/104/4669]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4669
-[/us/pl/102/325/s1331/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325%2Fs1331%2Fi
+[/us/pl/102/325/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325%2FtXIII
 [/us/stat/106/808]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F808
-[/us/pl/113/287/s5/e/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F287%2Fs5%2Fe%2F2
+[/us/pl/113/287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F287
 [/us/stat/128/3268]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3268
 [/us/pl/95/341]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F341
 [/us/pl/95/341]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F341

@@ -49,7 +49,7 @@
 
             The Secretary shall, upon request, provide testimony before the Committee on Banking, Housing, and Urban Affairs of the Senate and the Committee on Financial Services of the House of Representatives concerning the report required by this subsection.
 
-([Pub. L. 110–315, title X, § 1042][/us/pl/110/315/s1042], Aug. 14, 2008, [122 Stat. 3489][/us/stat/122/3489].)
+([Pub. L. 110–315, title X][/us/pl/110/315/tX], § 1042, Aug. 14, 2008, [122 Stat. 3489][/us/stat/122/3489].)
 
  __References in Text__ 
 
@@ -65,7 +65,7 @@
 
  __Definitions__ 
 
-[Pub. L. 110–315, title X, § 1041][/us/pl/110/315/s1041], Aug. 14, 2008, [122 Stat. 3489][/us/stat/122/3489], provided that: 
+[Pub. L. 110–315, title X][/us/pl/110/315/tX], § 1041, Aug. 14, 2008, [122 Stat. 3489][/us/stat/122/3489], provided that: 
 
 > “As used in this subtitle \[subtitle D (§§ 1041, 1042) of title X of [Pub. L. 110–315][/us/pl/110/315], enacting this section\]—
 
@@ -83,12 +83,12 @@
 ----------
 
 [/us/usc/t20/s9701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs9701
-[/us/pl/110/315/s1042]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2Fs1042
+[/us/pl/110/315/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2FtX
 [/us/stat/122/3489]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3489
 [/us/pl/108/159]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F159
 [/us/stat/117/2003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2003
 [/us/usc/t20/s9701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs9701
-[/us/pl/110/315/s1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2Fs1041
+[/us/pl/110/315/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2FtX
 [/us/stat/122/3489]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3489
 [/us/pl/110/315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315
 [/us/usc/t15/s1650]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1650

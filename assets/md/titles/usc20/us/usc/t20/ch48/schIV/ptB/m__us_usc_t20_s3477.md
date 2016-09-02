@@ -45,7 +45,7 @@
 
         The authority granted by subsection (a) of this section shall be available only with respect to facilities of a special purpose nature that cannot readily be reassigned from similar Federal activities and are not otherwise available for assignment to the Department by the Administrator of General Services.
 
-([Pub. L. 96–88, title IV, § 417][/us/pl/96/88/s417], Oct. 17, 1979, [93 Stat. 685][/us/stat/93/685].)
+([Pub. L. 96–88, title IV][/us/pl/96/88/tIV], § 417, Oct. 17, 1979, [93 Stat. 685][/us/stat/93/685].)
 
 ----------
 
@@ -55,7 +55,7 @@
 ----------
 
 [/us/usc/t20/s2564]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs2564
-[/us/pl/96/88/s417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F88%2Fs417
+[/us/pl/96/88/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F88%2FtIV
 [/us/stat/93/685]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F685
 
 

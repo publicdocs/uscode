@@ -31,7 +31,7 @@
 
         No funds provided under this chapter shall be used to carry out an activity funded under another provision of law providing for Federal child care or early learning programs, unless an expansion of such activity is identified in the local needs assessment and performance goals under this chapter.
 
-([Pub. L. 106–554, § 1(a)(1)][/us/pl/106/554/s1/a/1] \[title VIII, § 804\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–82.)
+([Pub. L. 106–554][/us/pl/106/554], § 1(a)(1) \[title VIII, § 804\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–82.)
 
 ----------
 
@@ -40,7 +40,7 @@
 ----------
 ----------
 
-[/us/pl/106/554/s1/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F1
+[/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
 [/us/stat/114/2763]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2763
 
 

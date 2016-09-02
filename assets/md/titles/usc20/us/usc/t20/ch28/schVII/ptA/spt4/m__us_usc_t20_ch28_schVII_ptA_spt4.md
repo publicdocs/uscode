@@ -17,7 +17,7 @@
 
  __Prior Provisions__ 
 
-    A prior subpart 4 consisting of section 1137 was redesignated subpart 5 by [Pub. L. 110–315, title VII, § 706(a)(1)][/us/pl/110/315/s706/a/1], Aug. 14, 2008, [122 Stat. 3349][/us/stat/122/3349].
+    A prior subpart 4 consisting of section 1137 was redesignated subpart 5 by [Pub. L. 110–315, title VII][/us/pl/110/315/tVII], § 706(a)(1), Aug. 14, 2008, [122 Stat. 3349][/us/stat/122/3349].
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/110/315/s706/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2Fs706%2Fa%2F1
+[/us/pl/110/315/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2FtVII
 [/us/stat/122/3349]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3349
 
 

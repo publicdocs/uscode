@@ -91,7 +91,7 @@
 
         Use of the Foundation or Institute to provide independent and impartial assessment, mediation, or other dispute or conflict resolution under this section shall not be considered to be the establishment or use of an advisory committee within the meaning of the Federal Advisory Committee Act (5 U.S.C. App.).
 
-([Pub. L. 102–259, § 11][/us/pl/102/259/s11], as added [Pub. L. 105–156, § 7][/us/pl/105/156/s7], Feb. 11, 1998, [112 Stat. 10][/us/stat/112/10]; amended [Pub. L. 105–277, div. A, § 101(h)][/us/pl/105/277/s101/h] \[title V, § 517(a)\], Oct. 21, 1998, [112 Stat. 2681–480][/us/stat/112/2681-480], 2681–512; [Pub. L. 111–90, § 9][/us/pl/111/90/s9], Nov. 3, 2009, [123 Stat. 2978][/us/stat/123/2978].)
+([Pub. L. 102–259][/us/pl/102/259], § 11, as added [Pub. L. 105–156][/us/pl/105/156], § 7, Feb. 11, 1998, [112 Stat. 10][/us/stat/112/10]; amended [Pub. L. 105–277, div. A][/us/pl/105/277/dA], § 101(h) \[title V, § 517(a)\], Oct. 21, 1998, [112 Stat. 2681–480][/us/stat/112/2681-480], 2681–512; [Pub. L. 111–90][/us/pl/111/90], § 9, Nov. 3, 2009, [123 Stat. 2978][/us/stat/123/2978].)
 
  __References in Text__ 
 
@@ -105,9 +105,9 @@
 
     2009—Subsec. (f). [Pub. L. 111–90][/us/pl/111/90] added subsec. (f).
 
-    1998—[Pub. L. 105–277, § 101(h)][/us/pl/105/277/s101/h] \[title V, § 517(a)(1)\], inserted “or other entity” after “Federal agency” in section catchline.
+    1998—[Pub. L. 105–277][/us/pl/105/277], § 101(h) \[title V, § 517(a)(1)\], inserted “or other entity” after “Federal agency” in section catchline.
 
-    Subsec. (e). [Pub. L. 105–277, § 101(h)][/us/pl/105/277/s101/h] \[title V, § 517(a)(2)\], added subsec. (e).
+    Subsec. (e). [Pub. L. 105–277][/us/pl/105/277], § 101(h) \[title V, § 517(a)(2)\], added subsec. (e).
 
 ----------
 
@@ -119,19 +119,19 @@
 [/us/usc/t20/s5607a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs5607a
 [/us/usc/t1/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft1%2Fs1
 [/us/usc/t20/s5607a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs5607a
-[/us/pl/102/259/s11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F259%2Fs11
-[/us/pl/105/156/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F156%2Fs7
+[/us/pl/102/259]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F259
+[/us/pl/105/156]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F156
 [/us/stat/112/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F10
-[/us/pl/105/277/s101/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs101%2Fh
+[/us/pl/105/277/dA]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2FdA
 [/us/stat/112/2681-480]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681-480
-[/us/pl/111/90/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F90%2Fs9
+[/us/pl/111/90]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F90
 [/us/stat/123/2978]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F2978
 [/us/pl/92/463]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F463
 [/us/stat/86/770]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F770
 [/us/pl/102/259/s11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F259%2Fs11
 [/us/usc/t20/s5609]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs5609
 [/us/pl/111/90]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F90
-[/us/pl/105/277/s101/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs101%2Fh
-[/us/pl/105/277/s101/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs101%2Fh
+[/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
+[/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
 
 

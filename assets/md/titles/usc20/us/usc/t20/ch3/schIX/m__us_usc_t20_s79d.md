@@ -17,7 +17,7 @@
 
     All moneys received by donation, subscription, fees, or otherwise, except the moneys appropriated pursuant to [section 79e of this title][/us/usc/t20/s79e], for carrying out the purposes of this subchapter shall be deposited into the Treasury as trust funds and are appropriated for such purposes. Disbursements of such funds shall be made by the Secretary of the Treasury through the Fiscal Service on requisitions or vouchers signed by or on authority of the Smithsonian Institution.
 
-([July 2, 1940, ch. 516, § 6][/us/act/1940-07-02/ch516/s6], [54 Stat. 725][/us/stat/54/725]; 1940 Reorg. Plan No. III, § 1(a)(1), eff. June 30, 1940, 5 F.R. 2107, [54 Stat. 1231][/us/stat/54/1231]; 1946 Reorg. Plan No. 3, § 801, eff. July 16, 1946, 11 F.R. 7877, [60 Stat. 1101][/us/stat/60/1101].)
+([July 2, 1940, ch. 516][/us/act/1940-07-02/ch516], § 6, [54 Stat. 725][/us/stat/54/725]; 1940 Reorg. Plan No. III, § 1(a)(1), eff. June 30, 1940, 5 F.R. 2107, [54 Stat. 1231][/us/stat/54/1231]; 1946 Reorg. Plan No. 3, § 801, eff. July 16, 1946, 11 F.R. 7877, [60 Stat. 1101][/us/stat/60/1101].)
 
  __Codification__ 
 
@@ -39,7 +39,7 @@
 ----------
 
 [/us/usc/t20/s79e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs79e
-[/us/act/1940-07-02/ch516/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1940-07-02%2Fch516%2Fs6
+[/us/act/1940-07-02/ch516]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1940-07-02%2Fch516
 [/us/stat/54/725]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F54%2F725
 [/us/stat/54/1231]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F54%2F1231
 [/us/stat/60/1101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F60%2F1101

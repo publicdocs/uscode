@@ -17,7 +17,7 @@
 
     The area bounded by Seventh Street, Constitution Avenue, Fourth Street, and North Mall Drive, Northwest, in the District of Columbia, is appropriated to the Smithsonian Institution as a site for a National Gallery of Art. The Smithsonian Institution is authorized to permit the A. W. Mellon Educational and Charitable Trust (hereinafter referred to as the donor) to construct on said site for the Smithsonian Institution a building to be designated the National Gallery of Art, and to remove any existing structure and landscape the grounds within said area. The adjoining area bounded by Fourth Street, Pennsylvania Avenue, Third Street, and North Mall Drive, Northwest, in the District of Columbia, is reserved as a site for future additions to the National Gallery of Art. The project shall be in accordance with plans and specifications approved by the Commission of Fine Arts.
 
-([Mar. 24, 1937, ch. 50, § 1][/us/act/1937-03-24/ch50/s1], [50 Stat. 51][/us/stat/50/51].)
+([Mar. 24, 1937, ch. 50][/us/act/1937-03-24/ch50], § 1, [50 Stat. 51][/us/stat/50/51].)
 
  __Smithsonian American Art Museum__ 
 
@@ -74,7 +74,7 @@
 ----------
 ----------
 
-[/us/act/1937-03-24/ch50/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1937-03-24%2Fch50%2Fs1
+[/us/act/1937-03-24/ch50]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1937-03-24%2Fch50
 [/us/stat/50/51]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F50%2F51
 [/us/pl/106/385]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F385
 [/us/stat/114/1463]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1463

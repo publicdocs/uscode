@@ -17,7 +17,7 @@
 
     The Research Center shall be headed by a Commissioner for Education Research (in this part referred to as the “Research Commissioner”) who shall have substantial knowledge of the activities of the Research Center, including a high level of expertise in the fields of research and research management.
 
-([Pub. L. 107–279, title I, § 132][/us/pl/107/279/s132], Nov. 5, 2002, [116 Stat. 1954][/us/stat/116/1954].)
+([Pub. L. 107–279, title I][/us/pl/107/279/tI], § 132, Nov. 5, 2002, [116 Stat. 1954][/us/stat/116/1954].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/107/279/s132]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F279%2Fs132
+[/us/pl/107/279/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F279%2FtI
 [/us/stat/116/1954]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1954
 
 

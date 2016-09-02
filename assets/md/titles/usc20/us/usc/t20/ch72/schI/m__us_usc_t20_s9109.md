@@ -17,7 +17,7 @@
 
     No funds appropriated to carry out this chapter, subchapter II of this chapter, or subchapter III of this chapter may be used for construction expenses.
 
-([Pub. L. 94–462, title II, § 210A][/us/pl/94/462/s210A], as added [Pub. L. 108–81, title I, § 105][/us/pl/108/81/s105], Sept. 25, 2003, [117 Stat. 997][/us/stat/117/997].)
+([Pub. L. 94–462, title II][/us/pl/94/462/tII], § 210A, as added [Pub. L. 108–81, title I][/us/pl/108/81/tI], § 105, Sept. 25, 2003, [117 Stat. 997][/us/stat/117/997].)
 
 ----------
 
@@ -26,8 +26,8 @@
 ----------
 ----------
 
-[/us/pl/94/462/s210A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F462%2Fs210A
-[/us/pl/108/81/s105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F81%2Fs105
+[/us/pl/94/462/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F462%2FtII
+[/us/pl/108/81/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F81%2FtI
 [/us/stat/117/997]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F997
 
 

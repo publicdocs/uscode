@@ -49,7 +49,7 @@
 
         (4) subject to paragraph (1), the Secretary shall assume the responsibilities of the Lead State Agency under this chapter, as appropriate.
 
-([Pub. L. 106–554, § 1(a)(1)][/us/pl/106/554/s1/a/1] \[title VIII, § 807\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–82.)
+([Pub. L. 106–554][/us/pl/106/554], § 1(a)(1) \[title VIII, § 807\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–82.)
 
 ----------
 
@@ -62,7 +62,7 @@
 [/us/usc/t20/s9409]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs9409
 [/us/usc/t20/s9410/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs9410%2Fa
 [/us/usc/t20/s9410/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs9410%2Fd
-[/us/pl/106/554/s1/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F1
+[/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
 [/us/stat/114/2763]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2763
 
 

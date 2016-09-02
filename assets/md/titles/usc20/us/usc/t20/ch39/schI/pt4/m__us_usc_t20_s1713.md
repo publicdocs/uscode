@@ -31,7 +31,7 @@
 
     (g) the development and implementation of any other plan which is educationally sound and administratively feasible, subject to the provisions of sections 1714 and 1715 of this title.
 
-([Pub. L. 93–380, title II, § 214][/us/pl/93/380/s214], Aug. 21, 1974, [88 Stat. 517][/us/stat/88/517].)
+([Pub. L. 93–380, title II][/us/pl/93/380/tII], § 214, Aug. 21, 1974, [88 Stat. 517][/us/stat/88/517].)
 
 ----------
 
@@ -41,7 +41,7 @@
 ----------
 
 [/us/usc/t20/s1714]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1714
-[/us/pl/93/380/s214]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F380%2Fs214
+[/us/pl/93/380/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F380%2FtII
 [/us/stat/88/517]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F517
 
 

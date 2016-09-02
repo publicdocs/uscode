@@ -169,7 +169,7 @@
 
             (D) __Funding__ 
 
-                A State educational agency or local educational agency may use funds provided under part A of title V of the Elementary and Secondary Education Act of 1965 \[[20 U.S.C. 7201][/us/usc/t20/s7201] et seq.\] to enhance parental involvement in areas affecting the in-school privacy of students.
+                A State educational agency or local educational agency may use funds provided under part A of title IV of the Elementary and Secondary Education Act of 1965 \[[20 U.S.C. 7101][/us/usc/t20/s7101] et seq.\] to enhance parental involvement in areas affecting the in-school privacy of students.
 
         (6) __Definitions__ 
 
@@ -227,13 +227,13 @@
 
         The Secretary shall establish or designate an office and review board within the Department of Education to investigate, process, review, and adjudicate violations of the rights established under this section.
 
-([Pub. L. 90–247, title IV, § 445][/us/pl/90/247/s445], formerly § 439, as added [Pub. L. 93–380, title V, § 514(a)][/us/pl/93/380/s514/a], Aug. 21, 1974, [88 Stat. 574][/us/stat/88/574]; amended [Pub. L. 95–561, title XII, § 1250][/us/pl/95/561/s1250], Nov. 1, 1978, [92 Stat. 2355][/us/stat/92/2355]; [Pub. L. 103–227, title X, § 1017][/us/pl/103/227/s1017], Mar. 31, 1994, [108 Stat. 268][/us/stat/108/268]; renumbered § 445, [Pub. L. 103–382, title II, § 212(b)(1)][/us/pl/103/382/s212/b/1], Oct. 20, 1994, [108 Stat. 3913][/us/stat/108/3913]; amended [Pub. L. 107–110, title X, § 1061][/us/pl/107/110/s1061], Jan. 8, 2002, [115 Stat. 2083][/us/stat/115/2083].)
+([Pub. L. 90–247, title IV][/us/pl/90/247/tIV], § 445, formerly § 439, as added [Pub. L. 93–380, title V][/us/pl/93/380/tV], § 514(a), Aug. 21, 1974, [88 Stat. 574][/us/stat/88/574]; amended [Pub. L. 95–561, title XII][/us/pl/95/561/tXII], § 1250, Nov. 1, 1978, [92 Stat. 2355][/us/stat/92/2355]; [Pub. L. 103–227, title X][/us/pl/103/227/tX], § 1017, Mar. 31, 1994, [108 Stat. 268][/us/stat/108/268]; renumbered § 445, [Pub. L. 103–382, title II][/us/pl/103/382/tII], § 212(b)(1), Oct. 20, 1994, [108 Stat. 3913][/us/stat/108/3913]; amended [Pub. L. 107–110, title X][/us/pl/107/110/tX], § 1061, Jan. 8, 2002, [115 Stat. 2083][/us/stat/115/2083]; [Pub. L. 114–95, title IX][/us/pl/114/95/tIX], § 9215(mm)(5), Dec. 10, 2015, [129 Stat. 2176][/us/stat/129/2176].)
 
  __References in Text__ 
 
     The Individuals with Disabilities Education Act, referred to in subsec. (c)(5)(A)(ii), is title VI of [Pub. L. 91–230][/us/pl/91/230], Apr. 13, 1970, [84 Stat. 175][/us/stat/84/175], as amended, which is classified generally to chapter 33 (§ 1400 et seq.) of this title. For complete classification of this Act to the Code, see [section 1400 of this title][/us/usc/t20/s1400] and Tables.
 
-    The Elementary and Secondary Education Act of 1965, referred to in subsec. (c)(5)(D), is [Pub. L. 89–10][/us/pl/89/10], Apr. 11, 1965, [79 Stat. 27][/us/stat/79/27], as amended. Part A of title V of the Act is classified generally to part A (§ 7201 et seq.) of subchapter V of chapter 70 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 6301 of this title][/us/usc/t20/s6301] and Tables.
+    The Elementary and Secondary Education Act of 1965, referred to in subsec. (c)(5)(D), is [Pub. L. 89–10][/us/pl/89/10], Apr. 11, 1965, [79 Stat. 27][/us/stat/79/27]. Part A of title IV of the Act is classified generally to part A (§ 7101 et seq.) of subchapter IV of chapter 70 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 6301 of this title][/us/usc/t20/s6301] and Tables.
 
  __Prior Provisions__ 
 
@@ -241,7 +241,9 @@
 
  __Amendments__ 
 
-    2002—Subsec. (b)(1) to (8). [Pub. L. 107–110, § 1061(1)][/us/pl/107/110/s1061/1], added pars. (1) to (8) and struck out former pars. (1) to (7) which read as follows:
+    2015—Subsec. (c)(5)(D). [Pub. L. 114–95][/us/pl/114/95] substituted “part A of title IV” for “part A of title V”.
+
+    2002—Subsec. (b)(1) to (8). [Pub. L. 107–110][/us/pl/107/110], § 1061(1), added pars. (1) to (8) and struck out former pars. (1) to (7) which read as follows:
 
     “(1) political affiliations;
 
@@ -257,11 +259,15 @@
 
     “(7) income (other than that required by law to determine eligibility for participation in a program or for receiving financial assistance under such program),”.
 
-    Subsec. (c) to (f). [Pub. L. 107–110, § 1061(2)][/us/pl/107/110/s1061/2], (3), added subsec. (c) and redesignated former subsecs. (c) to (e) as (d) to (f), respectively.
+    Subsec. (c) to (f). [Pub. L. 107–110][/us/pl/107/110], § 1061(2), (3), added subsec. (c) and redesignated former subsecs. (c) to (e) as (d) to (f), respectively.
 
     1994—[Pub. L. 103–227][/us/pl/103/227] amended section generally, substituting in subsec. (a), provisions relating to inspection of instructional materials by parents or guardians for similar provisions, in subsec. (b), provisions relating to limits on survey, analysis, or evaluations for provisions relating to psychiatric or psychological examinations, testing, or treatment, and adding subsecs. (c) to (e).
 
     1978—[Pub. L. 95–561][/us/pl/95/561] designated existing provisions as subsec. (a) and added subsec. (b).
+
+ __Effective Date of 2015 Amendment__ 
+
+    Amendment by [Pub. L. 114–95][/us/pl/114/95] effective Dec. 10, 2015, except with respect to certain noncompetitive programs and competitive programs, see [section 5 of Pub. L. 114–95][/us/pl/114/95/s5], set out as a note under [section 6301 of this title][/us/usc/t20/s6301].
 
  __Effective Date of 2002 Amendment__ 
 
@@ -273,7 +279,7 @@
 
  __Effective Date__ 
 
-[Pub. L. 93–380, title V, § 514(b)][/us/pl/93/380/s514/b], Aug. 21, 1974, [88 Stat. 574][/us/stat/88/574], provided that: 
+[Pub. L. 93–380, title V][/us/pl/93/380/tV], § 514(b), Aug. 21, 1974, [88 Stat. 574][/us/stat/88/574], provided that: 
 
 > “The amendment made by subsection (a) \[enacting this section\] shall be effective upon enactment of this Act \[Aug. 21, 1974\].”
 
@@ -287,18 +293,20 @@
 [/us/usc/t20/s1232g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1232g
 [/us/usc/t20/s1400]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1400
 [/us/usc/t20/s1232g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1232g
-[/us/usc/t20/s7201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs7201
-[/us/pl/90/247/s445]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F247%2Fs445
-[/us/pl/93/380/s514/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F380%2Fs514%2Fa
+[/us/usc/t20/s7101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs7101
+[/us/pl/90/247/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F247%2FtIV
+[/us/pl/93/380/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F380%2FtV
 [/us/stat/88/574]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F574
-[/us/pl/95/561/s1250]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F561%2Fs1250
+[/us/pl/95/561/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F561%2FtXII
 [/us/stat/92/2355]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2355
-[/us/pl/103/227/s1017]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F227%2Fs1017
+[/us/pl/103/227/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F227%2FtX
 [/us/stat/108/268]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F268
-[/us/pl/103/382/s212/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F382%2Fs212%2Fb%2F1
+[/us/pl/103/382/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F382%2FtII
 [/us/stat/108/3913]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3913
-[/us/pl/107/110/s1061]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F110%2Fs1061
+[/us/pl/107/110/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F110%2FtX
 [/us/stat/115/2083]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F2083
+[/us/pl/114/95/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F95%2FtIX
+[/us/stat/129/2176]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F2176
 [/us/pl/91/230]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F230
 [/us/stat/84/175]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F175
 [/us/usc/t20/s1400]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1400
@@ -308,17 +316,21 @@
 [/us/pl/90/247/s445]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F247%2Fs445
 [/us/usc/t20/s1233d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1233d
 [/us/pl/103/382]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F382
-[/us/pl/107/110/s1061/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F110%2Fs1061%2F1
-[/us/pl/107/110/s1061/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F110%2Fs1061%2F2
+[/us/pl/114/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F95
+[/us/pl/107/110]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F110
+[/us/pl/107/110]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F110
 [/us/pl/103/227]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F227
 [/us/pl/95/561]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F561
+[/us/pl/114/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F95
+[/us/pl/114/95/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F95%2Fs5
+[/us/usc/t20/s6301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs6301
 [/us/pl/107/110]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F110
 [/us/pl/107/110/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F110%2Fs5
 [/us/usc/t20/s6301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs6301
 [/us/pl/95/561]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F561
 [/us/pl/95/561/s1530/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F561%2Fs1530%2Fa
 [/us/usc/t20/s1221e–3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1221e%E2%80%933
-[/us/pl/93/380/s514/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F380%2Fs514%2Fb
+[/us/pl/93/380/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F380%2FtV
 [/us/stat/88/574]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F574
 
 

@@ -45,7 +45,7 @@
 
         The Board shall select officers from among its members biennially and shall make such bylaws, rules, and regulations as it deems necessary for the furtherance of its business.
 
-([Pub. L. 87–186, § 1][/us/pl/87/186/s1], Aug. 30, 1961, [75 Stat. 414][/us/stat/75/414].)
+([Pub. L. 87–186][/us/pl/87/186], § 1, Aug. 30, 1961, [75 Stat. 414][/us/stat/75/414].)
 
 ----------
 
@@ -54,7 +54,7 @@
 ----------
 ----------
 
-[/us/pl/87/186/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F186%2Fs1
+[/us/pl/87/186]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F186
 [/us/stat/75/414]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F75%2F414
 
 

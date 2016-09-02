@@ -31,7 +31,7 @@
 
         Amounts made available under this section shall remain available until expended.
 
-([Pub. L. 107–279, title I, § 194][/us/pl/107/279/s194], Nov. 5, 2002, [116 Stat. 1975][/us/stat/116/1975].)
+([Pub. L. 107–279, title I][/us/pl/107/279/tI], § 194, Nov. 5, 2002, [116 Stat. 1975][/us/stat/116/1975].)
 
 ----------
 
@@ -43,7 +43,7 @@
 [/us/usc/t20/s9564]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs9564
 [/us/usc/t20/s9516]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs9516
 [/us/usc/t20/s9564]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs9564
-[/us/pl/107/279/s194]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F279%2Fs194
+[/us/pl/107/279/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F279%2FtI
 [/us/stat/116/1975]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1975
 
 

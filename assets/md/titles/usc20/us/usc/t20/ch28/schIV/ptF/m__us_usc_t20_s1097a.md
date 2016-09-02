@@ -23,7 +23,7 @@
 
         In case of contumacy by, or refusal to obey a subpoena issued to, any person, the Secretary may request the Attorney General to invoke the aid of any court of the United States where such person resides or transacts business for a court order for the enforcement of this section.
 
-([Pub. L. 89–329, title IV, § 490A][/us/pl/89/329/s490A], as added [Pub. L. 105–244, title IV, § 490B][/us/pl/105/244/s490B], Oct. 7, 1998, [112 Stat. 1754][/us/stat/112/1754].)
+([Pub. L. 89–329, title IV][/us/pl/89/329/tIV], § 490A, as added [Pub. L. 105–244, title IV][/us/pl/105/244/tIV], § 490B, Oct. 7, 1998, [112 Stat. 1754][/us/stat/112/1754].)
 
  __Effective Date__ 
 
@@ -36,8 +36,8 @@
 ----------
 ----------
 
-[/us/pl/89/329/s490A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2Fs490A
-[/us/pl/105/244/s490B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2Fs490B
+[/us/pl/89/329/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2FtIV
+[/us/pl/105/244/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2FtIV
 [/us/stat/112/1754]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F1754
 [/us/pl/105/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244
 [/us/pl/105/244/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2Fs3

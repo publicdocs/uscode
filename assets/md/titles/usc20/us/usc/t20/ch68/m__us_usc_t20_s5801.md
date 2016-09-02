@@ -53,7 +53,7 @@
 
     (8) assisting every elementary and secondary school that receives funds under this chapter to actively involve parents and families in supporting the academic work of their children at home and in providing parents with skills to advocate for their children at school.
 
-([Pub. L. 103–227, § 2][/us/pl/103/227/s2], Mar. 31, 1994, [108 Stat. 128][/us/stat/108/128]; [Pub. L. 104–134, title I, § 101(d)][/us/pl/104/134/s101/d] \[title VII, § 703(a)(2)\], Apr. 26, 1996, [110 Stat. 1321–211][/us/stat/110/1321-211], 1321–252; renumbered title I, [Pub. L. 104–140, § 1(a)][/us/pl/104/140/s1/a], May 2, 1996, [110 Stat. 1327][/us/stat/110/1327].)
+([Pub. L. 103–227][/us/pl/103/227], § 2, Mar. 31, 1994, [108 Stat. 128][/us/stat/108/128]; [Pub. L. 104–134, title I][/us/pl/104/134/tI], § 101(d) \[title VII, § 703(a)(2)\], Apr. 26, 1996, [110 Stat. 1321–211][/us/stat/110/1321-211], 1321–252; renumbered title I, [Pub. L. 104–140][/us/pl/104/140], § 1(a), May 2, 1996, [110 Stat. 1327][/us/stat/110/1327].)
 
  __References in Text__ 
 
@@ -61,19 +61,19 @@
 
  __Amendments__ 
 
-    1996—Par. (4)(B) to (D). [Pub. L. 104–134, § 101(d)][/us/pl/104/134/s101/d] \[title VII, § 703(a)(2)(A)\], inserted “and” at end of subpar. (B), redesignated subpar. (D) as (C), and struck out former subpar. (C) which read as follows: “assisting in the development and certification of opportunity-to-learn standards; and”.
+    1996—Par. (4)(B) to (D). [Pub. L. 104–134][/us/pl/104/134], § 101(d) \[title VII, § 703(a)(2)(A)\], inserted “and” at end of subpar. (B), redesignated subpar. (D) as (C), and struck out former subpar. (C) which read as follows: “assisting in the development and certification of opportunity-to-learn standards; and”.
 
-    Par. (6)(C) to (F). [Pub. L. 104–134, § 101(d)][/us/pl/104/134/s101/d] \[title VII, § 703(a)(2)(B)\], redesignated subpars. (D) to (F) as (C) to (E), respectively, and struck out former subpar. (C) which read as follows: “providing for the establishment of high-quality, internationally competitive opportunity-to-learn standards that all States, local educational agencies, and schools should achieve;”.
+    Par. (6)(C) to (F). [Pub. L. 104–134][/us/pl/104/134], § 101(d) \[title VII, § 703(a)(2)(B)\], redesignated subpars. (D) to (F) as (C) to (E), respectively, and struck out former subpar. (C) which read as follows: “providing for the establishment of high-quality, internationally competitive opportunity-to-learn standards that all States, local educational agencies, and schools should achieve;”.
 
  __Short Title of 1999 Amendment__ 
 
-[Pub. L. 106–25, § 1][/us/pl/106/25/s1], Apr. 29, 1999, [113 Stat. 41][/us/stat/113/41], provided that: 
+[Pub. L. 106–25][/us/pl/106/25], § 1, Apr. 29, 1999, [113 Stat. 41][/us/stat/113/41], provided that: 
 
 > “This Act \[enacting sections 5891a and 5891b of this title, amending [section 1415 of this title][/us/usc/t20/s1415], and enacting provisions set out as notes under sections 1415 and 5891a of this title\] may be cited as the ‘Education Flexibility Partnership Act of 1999’.”
 
  __Short Title__ 
 
-[Pub. L. 103–227, § 1(a)][/us/pl/103/227/s1/a], Mar. 31, 1994, [108 Stat. 125][/us/stat/108/125], provided that: 
+[Pub. L. 103–227][/us/pl/103/227], § 1(a), Mar. 31, 1994, [108 Stat. 125][/us/stat/108/125], provided that: 
 
 > “This Act (other than titles V and IX) \[enacting this chapter (other than subchapters V and IX) and sections 3351 and 3425 of this title, amending sections 1107, 1221e–1, 1232h, 2421, 3381 to 3384, 3386, and 5093 of this title, [section 5315 of Title 5][/us/usc/t5/s5315], Government Organization and Employees, sections 1632, 1633, and 1635 of Title 29, Labor, and [section 11903a of Title 42][/us/usc/t42/s11903a], The Public Health and Welfare, and enacting provisions set out as notes under sections 5093 and 6301 of this title and [section 11901 of Title 42][/us/usc/t42/s11901]\] may be cited as the ‘Goals 2000: Educate America Act’.”
 
@@ -84,20 +84,20 @@
 ----------
 ----------
 
-[/us/pl/103/227/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F227%2Fs2
+[/us/pl/103/227]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F227
 [/us/stat/108/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F128
-[/us/pl/104/134/s101/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F134%2Fs101%2Fd
+[/us/pl/104/134/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F134%2FtI
 [/us/stat/110/1321-211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1321-211
-[/us/pl/104/140/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F140%2Fs1%2Fa
+[/us/pl/104/140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F140
 [/us/stat/110/1327]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1327
 [/us/pl/103/227]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F227
 [/us/stat/108/125]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F125
-[/us/pl/104/134/s101/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F134%2Fs101%2Fd
-[/us/pl/104/134/s101/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F134%2Fs101%2Fd
-[/us/pl/106/25/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F25%2Fs1
+[/us/pl/104/134]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F134
+[/us/pl/104/134]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F134
+[/us/pl/106/25]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F25
 [/us/stat/113/41]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F41
 [/us/usc/t20/s1415]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1415
-[/us/pl/103/227/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F227%2Fs1%2Fa
+[/us/pl/103/227]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F227
 [/us/stat/108/125]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F125
 [/us/usc/t5/s5315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5315
 [/us/usc/t42/s11903a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs11903a

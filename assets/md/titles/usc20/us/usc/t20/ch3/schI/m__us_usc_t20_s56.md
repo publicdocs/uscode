@@ -21,7 +21,7 @@
 
  __Codification__ 
 
-    R.S. § 5592 derived from [act Aug. 10, 1846, ch. 178, § 9][/us/act/1846-08-10/ch178/s9], [9 Stat. 105][/us/stat/9/105].
+    R.S. § 5592 derived from [act Aug. 10, 1846, ch. 178][/us/act/1846-08-10/ch178], § 9, [9 Stat. 105][/us/stat/9/105].
 
 ----------
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/act/1846-08-10/ch178/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1846-08-10%2Fch178%2Fs9
+[/us/act/1846-08-10/ch178]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1846-08-10%2Fch178
 [/us/stat/9/105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F9%2F105
 
 

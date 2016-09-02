@@ -33,7 +33,7 @@
 
         (2) the term “Office of Hawaiian Affairs” means the Office of Hawaiian Affairs established by the Constitution of the State of Hawaii.
 
-([Pub. L. 101–185, § 13][/us/pl/101/185/s13], Nov. 28, 1989, [103 Stat. 1345][/us/stat/103/1345].)
+([Pub. L. 101–185][/us/pl/101/185], § 13, Nov. 28, 1989, [103 Stat. 1345][/us/stat/103/1345].)
 
 ----------
 
@@ -43,7 +43,7 @@
 ----------
 
 [/us/usc/t20/s80q–9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs80q%E2%80%939
-[/us/pl/101/185/s13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F185%2Fs13
+[/us/pl/101/185]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F185
 [/us/stat/103/1345]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1345
 
 

@@ -109,7 +109,7 @@
 
                 (ii) give priority consideration to institutions for which not less than 10 percent of such institution’s Asian American and Native American Pacific Islander students are low-income individuals.
 
-([Pub. L. 89–329, title III, § 320][/us/pl/89/329/s320], as added [Pub. L. 110–315, title III, § 307][/us/pl/110/315/s307], Aug. 14, 2008, [122 Stat. 3175][/us/stat/122/3175].)
+([Pub. L. 89–329, title III][/us/pl/89/329/tIII], § 320, as added [Pub. L. 110–315, title III][/us/pl/110/315/tIII], § 307, Aug. 14, 2008, [122 Stat. 3175][/us/stat/122/3175].)
 
 ----------
 
@@ -120,8 +120,8 @@
 
 [/us/usc/t20/s1058/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1058%2Fb
 [/us/usc/t20/s1059/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1059%2Fd
-[/us/pl/89/329/s320]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2Fs320
-[/us/pl/110/315/s307]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2Fs307
+[/us/pl/89/329/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2FtIII
+[/us/pl/110/315/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2FtIII
 [/us/stat/122/3175]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3175
 
 

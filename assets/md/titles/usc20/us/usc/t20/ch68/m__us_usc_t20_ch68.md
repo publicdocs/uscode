@@ -147,7 +147,7 @@ SUBCHAPTER III—STATE AND LOCAL EDUCATION SYSTEMIC IMPROVEMENT  </td>
 
     <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs5891b" data-uslm-ref="/us/usc/t20/s5891b">5891b.</a>  </td>
 
-    <td> Education flexibility partnership.  </td>
+    <td> Educational flexibility program.  </td>
 
   </tr>
 

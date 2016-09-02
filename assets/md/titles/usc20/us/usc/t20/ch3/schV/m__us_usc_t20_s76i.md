@@ -93,7 +93,7 @@
 
             (C) will become part of the existing (as of June 8, 2012) structure of the Center.
 
-([Pub. L. 85–874, § 3][/us/pl/85/874/s3], Sept. 2, 1958, [72 Stat. 1699][/us/stat/72/1699]; [Pub. L. 88–260, § 1(2)][/us/pl/88/260/s1/2], Jan. 23, 1964, [78 Stat. 4][/us/stat/78/4]; [Pub. L. 105–95, § 2][/us/pl/105/95/s2], Nov. 19, 1997, [111 Stat. 2148][/us/stat/111/2148]; [Pub. L. 112–131, § 2][/us/pl/112/131/s2], June 8, 2012, [126 Stat. 377][/us/stat/126/377].)
+([Pub. L. 85–874][/us/pl/85/874], § 3, Sept. 2, 1958, [72 Stat. 1699][/us/stat/72/1699]; [Pub. L. 88–260][/us/pl/88/260], § 1(2), Jan. 23, 1964, [78 Stat. 4][/us/stat/78/4]; [Pub. L. 105–95][/us/pl/105/95], § 2, Nov. 19, 1997, [111 Stat. 2148][/us/stat/111/2148]; [Pub. L. 112–131][/us/pl/112/131], § 2, June 8, 2012, [126 Stat. 377][/us/stat/126/377].)
 
  __Amendments__ 
 
@@ -111,13 +111,13 @@
 ----------
 
 [/us/usc/t20/s76j/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs76j%2Fb
-[/us/pl/85/874/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F874%2Fs3
+[/us/pl/85/874]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F874
 [/us/stat/72/1699]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F1699
-[/us/pl/88/260/s1/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F260%2Fs1%2F2
+[/us/pl/88/260]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F260
 [/us/stat/78/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F4
-[/us/pl/105/95/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F95%2Fs2
+[/us/pl/105/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F95
 [/us/stat/111/2148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F2148
-[/us/pl/112/131/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F131%2Fs2
+[/us/pl/112/131]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F131
 [/us/stat/126/377]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F377
 [/us/pl/112/131]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F131
 [/us/pl/105/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F95

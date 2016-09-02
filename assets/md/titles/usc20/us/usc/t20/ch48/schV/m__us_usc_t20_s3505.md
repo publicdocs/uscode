@@ -51,7 +51,7 @@
 
         Orders and actions of the Secretary in the exercise of functions transferred under this chapter shall be subject to judicial review to the same extent and in the same manner as if such orders and actions had been by the agency or office, or part thereof, exercising such functions immediately preceding their transfer. Any statutory requirements relating to notice, hearings, action upon the record, or administrative review that apply to any function transferred by this chapter shall apply to the exercise of such function by the Secretary.
 
-([Pub. L. 96–88, title V, § 505][/us/pl/96/88/s505], Oct. 17, 1979, [93 Stat. 691][/us/stat/93/691].)
+([Pub. L. 96–88, title V][/us/pl/96/88/tV], § 505, Oct. 17, 1979, [93 Stat. 691][/us/stat/93/691].)
 
  __Codification__ 
 
@@ -64,7 +64,7 @@
 ----------
 ----------
 
-[/us/pl/96/88/s505]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F88%2Fs505
+[/us/pl/96/88/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F88%2FtV
 [/us/stat/93/691]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F691
 [/us/pl/96/88/s601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F88%2Fs601
 [/us/usc/t20/s3401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs3401

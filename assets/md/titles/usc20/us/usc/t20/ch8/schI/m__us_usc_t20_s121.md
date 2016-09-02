@@ -17,7 +17,7 @@
 
     The president and directors of Howard University shall report to the Secretary of Education the condition of the institution on the 1st of July of each year, embracing therein the number of pupils received and discharged or leaving the same for any cause during the preceding year, and the number remaining; also, the branches of knowledge and industry taught and the progress made therein together with a statement showing the receipts of the institution and from what sources, and its disbursements, and for what objects.
 
-([July 1, 1898, ch. 546, § 1][/us/act/1898-07-01/ch546/s1], [30 Stat. 624][/us/stat/30/624]; 1940 Reorg. Plan No. IV, § 11(c), eff. June 30, 1940, 5 F.R. 2422, [54 Stat. 1237][/us/stat/54/1237]; 1953 Reorg. Plan No. 1, §§ 5, 8, eff. Apr. 11, 1953, 18 F.R. 2053, [67 Stat. 631][/us/stat/67/631]; [Pub. L. 96–88, title III, § 301(a)(2)(M)][/us/pl/96/88/s301/a/2/M], title V, § 507, Oct. 17, 1979, [93 Stat. 678][/us/stat/93/678], 692.)
+([July 1, 1898, ch. 546][/us/act/1898-07-01/ch546], § 1, [30 Stat. 624][/us/stat/30/624]; 1940 Reorg. Plan No. IV, § 11(c), eff. June 30, 1940, 5 F.R. 2422, [54 Stat. 1237][/us/stat/54/1237]; 1953 Reorg. Plan No. 1, §§ 5, 8, eff. Apr. 11, 1953, 18 F.R. 2053, [67 Stat. 631][/us/stat/67/631]; [Pub. L. 96–88, title III][/us/pl/96/88/tIII], § 301(a)(2)(M), title V, § 507, Oct. 17, 1979, [93 Stat. 678][/us/stat/93/678], 692.)
 
  __Transfer of Functions__ 
 
@@ -44,11 +44,11 @@ A similar requirement of a report of the expenditures of the University accompan
 ----------
 ----------
 
-[/us/act/1898-07-01/ch546/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1898-07-01%2Fch546%2Fs1
+[/us/act/1898-07-01/ch546]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1898-07-01%2Fch546
 [/us/stat/30/624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F30%2F624
 [/us/stat/54/1237]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F54%2F1237
 [/us/stat/67/631]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F67%2F631
-[/us/pl/96/88/s301/a/2/M]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F88%2Fs301%2Fa%2F2%2FM
+[/us/pl/96/88/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F88%2FtIII
 [/us/stat/93/678]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F678
 [/us/pl/96/88]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F88
 [/us/act/1893-03-03/ch208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1893-03-03%2Fch208

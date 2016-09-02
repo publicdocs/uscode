@@ -17,7 +17,7 @@
 
     There are authorized to be appropriated to carry out this subchapter $80,000,000 for fiscal year 2003 and such sums as may be necessary for each of the 5 succeeding fiscal years.
 
-([Pub. L. 107–279, title II, § 209][/us/pl/107/279/s209], Nov. 5, 2002, [116 Stat. 1982][/us/stat/116/1982].)
+([Pub. L. 107–279, title II][/us/pl/107/279/tII], § 209, Nov. 5, 2002, [116 Stat. 1982][/us/stat/116/1982].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/107/279/s209]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F279%2Fs209
+[/us/pl/107/279/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F279%2FtII
 [/us/stat/116/1982]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1982
 
 

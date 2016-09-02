@@ -17,11 +17,11 @@
 
     Notwithstanding any other provision of law, student financial assistance received under this subchapter and part C of subchapter I of chapter 34 of title 42, or under Bureau of Indian Affairs student assistance programs, shall not be taken into account in determining the need or eligibility of any person for benefits or assistance, or the amount of such benefits or assistance, under any Federal, State, or local program financed in whole or in part with Federal funds.
 
-([Pub. L. 89–329, title IV, § 479B][/us/pl/89/329/s479B], as added [Pub. L. 100–50, § 14(27)][/us/pl/100/50/s14/27], June 3, 1987, [101 Stat. 353][/us/stat/101/353]; amended [Pub. L. 102–325, title IV, § 471(a)][/us/pl/102/325/s471/a], July 23, 1992, [106 Stat. 606][/us/stat/106/606].)
+([Pub. L. 89–329, title IV][/us/pl/89/329/tIV], § 479B, as added [Pub. L. 100–50][/us/pl/100/50], § 14(27), June 3, 1987, [101 Stat. 353][/us/stat/101/353]; amended [Pub. L. 102–325, title IV][/us/pl/102/325/tIV], § 471(a), July 23, 1992, [106 Stat. 606][/us/stat/106/606].)
 
  __Prior Provisions__ 
 
-    A prior section 1087uu, [Pub. L. 89–329, title IV, § 479B][/us/pl/89/329/s479B], as added [Pub. L. 99–498, title IV, § 406(a)][/us/pl/99/498/s406/a], Oct. 17, 1986, [100 Stat. 1472][/us/stat/100/1472], related to exclusion of student financial assistance for attendance costs in determining student eligibility for assistance under any other program funded in whole or part with Federal funds, prior to repeal by [section 14(27) of Pub. L. 100–50][/us/pl/100/50/s14/27].
+    A prior section 1087uu, [Pub. L. 89–329, title IV][/us/pl/89/329/tIV], § 479B, as added [Pub. L. 99–498, title IV][/us/pl/99/498/tIV], § 406(a), Oct. 17, 1986, [100 Stat. 1472][/us/stat/100/1472], related to exclusion of student financial assistance for attendance costs in determining student eligibility for assistance under any other program funded in whole or part with Federal funds, prior to repeal by [section 14(27) of Pub. L. 100–50][/us/pl/100/50/s14/27].
 
  __Amendments__ 
 
@@ -44,13 +44,13 @@
 ----------
 ----------
 
-[/us/pl/89/329/s479B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2Fs479B
-[/us/pl/100/50/s14/27]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F50%2Fs14%2F27
+[/us/pl/89/329/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2FtIV
+[/us/pl/100/50]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F50
 [/us/stat/101/353]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F353
-[/us/pl/102/325/s471/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325%2Fs471%2Fa
+[/us/pl/102/325/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325%2FtIV
 [/us/stat/106/606]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F606
-[/us/pl/89/329/s479B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2Fs479B
-[/us/pl/99/498/s406/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F498%2Fs406%2Fa
+[/us/pl/89/329/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2FtIV
+[/us/pl/99/498/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F498%2FtIV
 [/us/stat/100/1472]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1472
 [/us/pl/100/50/s14/27]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F50%2Fs14%2F27
 [/us/pl/102/325]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325

@@ -45,7 +45,7 @@
 
             (C) education programs located in, and involving, rural areas.
 
-([Pub. L. 96–88, title II, § 219][/us/pl/96/88/s219], as added [Pub. L. 105–244, title IX, § 961][/us/pl/105/244/s961], Oct. 7, 1998, [112 Stat. 1836][/us/stat/112/1836].)
+([Pub. L. 96–88, title II][/us/pl/96/88/tII], § 219, as added [Pub. L. 105–244, title IX][/us/pl/105/244/tIX], § 961, Oct. 7, 1998, [112 Stat. 1836][/us/stat/112/1836].)
 
  __Effective Date__ 
 
@@ -58,8 +58,8 @@
 ----------
 ----------
 
-[/us/pl/96/88/s219]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F88%2Fs219
-[/us/pl/105/244/s961]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2Fs961
+[/us/pl/96/88/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F88%2FtII
+[/us/pl/105/244/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2FtIX
 [/us/stat/112/1836]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F1836
 [/us/pl/105/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244
 [/us/pl/105/244/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2Fs3

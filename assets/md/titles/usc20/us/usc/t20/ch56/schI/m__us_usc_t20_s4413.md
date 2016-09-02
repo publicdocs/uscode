@@ -45,7 +45,7 @@
 
         The Executive Board may hold and use all the powers of the Board, subject to the approval of the Board.
 
-([Pub. L. 99–498, title XV, § 1506][/us/pl/99/498/s1506], Oct. 17, 1986, [100 Stat. 1603][/us/stat/100/1603].)
+([Pub. L. 99–498, title XV][/us/pl/99/498/tXV], § 1506, Oct. 17, 1986, [100 Stat. 1603][/us/stat/100/1603].)
 
 ----------
 
@@ -54,7 +54,7 @@
 ----------
 ----------
 
-[/us/pl/99/498/s1506]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F498%2Fs1506
+[/us/pl/99/498/tXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F498%2FtXV
 [/us/stat/100/1603]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1603
 
 

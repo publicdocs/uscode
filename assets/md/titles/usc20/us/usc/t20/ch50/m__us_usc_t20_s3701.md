@@ -59,11 +59,11 @@
 
         (3) sell, exchange, or otherwise dispose of any property acquired under this subsection and designate any proceeds from such disposal for the benefit of the center.
 
-([Pub. L. 96–430, title II, § 202][/us/pl/96/430/s202], Oct. 10, 1980, [94 Stat. 1846][/us/stat/94/1846].)
+([Pub. L. 96–430, title II][/us/pl/96/430/tII], § 202, Oct. 10, 1980, [94 Stat. 1846][/us/stat/94/1846].)
 
  __Short Title__ 
 
-[Pub. L. 96–430, title II, § 201][/us/pl/96/430/s201], Oct. 10, 1980, [94 Stat. 1846][/us/stat/94/1846], provided that: 
+[Pub. L. 96–430, title II][/us/pl/96/430/tII], § 201, Oct. 10, 1980, [94 Stat. 1846][/us/stat/94/1846], provided that: 
 
 > “This title \[enacting this chapter\] may be cited as the ‘National Center for the Study of Afro-American History and Culture Act’.”
 
@@ -76,9 +76,9 @@
 
 [/us/usc/t20/s3702]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs3702
 [/us/usc/t5/s5703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5703
-[/us/pl/96/430/s202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F430%2Fs202
+[/us/pl/96/430/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F430%2FtII
 [/us/stat/94/1846]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F1846
-[/us/pl/96/430/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F430%2Fs201
+[/us/pl/96/430/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F430%2FtII
 [/us/stat/94/1846]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F1846
 
 

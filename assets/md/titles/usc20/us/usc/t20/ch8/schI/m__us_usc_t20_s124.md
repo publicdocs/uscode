@@ -27,7 +27,7 @@
 
         The Secretary of Health, Education, and Welfare shall report to the Congress the terms of the agreement for such transfer.
 
-([Pub. L. 87–262, § 1][/us/pl/87/262/s1], Sept. 21, 1961, [75 Stat. 542][/us/stat/75/542].)
+([Pub. L. 87–262][/us/pl/87/262], § 1, Sept. 21, 1961, [75 Stat. 542][/us/stat/75/542].)
 
  __Transfer of Functions__ 
 
@@ -35,13 +35,13 @@
 
  __Repeal of Laws Applicable to Freedmen’s Hospital__ 
 
-[Pub. L. 87–262, § 7][/us/pl/87/262/s7], Sept. 21, 1961, [75 Stat. 544][/us/stat/75/544], provided that: 
+[Pub. L. 87–262][/us/pl/87/262], § 7, Sept. 21, 1961, [75 Stat. 544][/us/stat/75/544], provided that: 
 
 > “All laws heretofore applicable specifically to Freedmen’s Hospital are, to the extent of such applicability, repealed, effective with the transfer of Freedmen’s Hospital pursuant to section 1 \[this section\].”
 
  __Transfer of Funds__ 
 
-[Pub. L. 87–262, § 8][/us/pl/87/262/s8], Sept. 21, 1961, [75 Stat. 544][/us/stat/75/544], provided that: 
+[Pub. L. 87–262][/us/pl/87/262], § 8, Sept. 21, 1961, [75 Stat. 544][/us/stat/75/544], provided that: 
 
 > “All unexpended balances of appropriations, allocations, and other funds, available or to be made available, of Freedmen’s Hospital are, effective with the transfer of Freedmen’s Hospital pursuant to section 1 \[this section\], transferred to Howard University for use in the operation of the Howard University Hospital facilities, except to the extent (determined by the Director of the Bureau of the Budget \[Director of the Office of Management and Budget\]) required to meet obligations already incurred and not assumed by the university.”
 
@@ -52,12 +52,12 @@
 ----------
 ----------
 
-[/us/pl/87/262/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F262%2Fs1
+[/us/pl/87/262]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F262
 [/us/stat/75/542]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F75%2F542
 [/us/usc/t20/s3441/a/2/M]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs3441%2Fa%2F2%2FM
-[/us/pl/87/262/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F262%2Fs7
+[/us/pl/87/262]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F262
 [/us/stat/75/544]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F75%2F544
-[/us/pl/87/262/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F262%2Fs8
+[/us/pl/87/262]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F262
 [/us/stat/75/544]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F75%2F544
 
 

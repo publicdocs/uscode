@@ -49,7 +49,7 @@
 
         The Director may use experts and consultants, including panels of experts, who may be employed as authorized under [section 3109 of title 5][/us/usc/t5/s3109].
 
-([Pub. L. 94–462, title II, § 206][/us/pl/94/462/s206], as added [Pub. L. 104–208, div. A, title I, § 101(e)][/us/pl/104/208/s101/e] \[title VII, § 702\], Sept. 30, 1996, [110 Stat. 3009–233][/us/stat/110/3009-233], 3009–295; amended [Pub. L. 105–128, § 2][/us/pl/105/128/s2], Dec. 1, 1997, [111 Stat. 2548][/us/stat/111/2548]; [Pub. L. 111–340, title I, § 103][/us/pl/111/340/s103], Dec. 22, 2010, [124 Stat. 3596][/us/stat/124/3596].)
+([Pub. L. 94–462, title II][/us/pl/94/462/tII], § 206, as added [Pub. L. 104–208, div. A, title I][/us/pl/104/208/dA/tI], § 101(e) \[title VII, § 702\], Sept. 30, 1996, [110 Stat. 3009–233][/us/stat/110/3009-233], 3009–295; amended [Pub. L. 105–128][/us/pl/105/128], § 2, Dec. 1, 1997, [111 Stat. 2548][/us/stat/111/2548]; [Pub. L. 111–340, title I][/us/pl/111/340/tI], § 103, Dec. 22, 2010, [124 Stat. 3596][/us/stat/124/3596].)
 
  __Prior Provisions__ 
 
@@ -57,15 +57,15 @@
 
  __Amendments__ 
 
-    2010—Subsec. (b)(2). [Pub. L. 111–340, § 103(1)][/us/pl/111/340/s103/1], added par.(2) and struck out heading and text of former par. (2). Prior to amendment, text read as follows: “The number of employees appointed and compensated under paragraph (1) shall not exceed ⅕ of the number of full-time regular or professional employees of the Institute. The rate of basic compensation for the employees appointed and compensated under paragraph (1) may not exceed the rate prescribed for level GS–15 of the General Schedule under [section 5332 of title 5][/us/usc/t5/s5332].”
+    2010—Subsec. (b)(2). [Pub. L. 111–340][/us/pl/111/340], § 103(1), added par.(2) and struck out heading and text of former par. (2). Prior to amendment, text read as follows: “The number of employees appointed and compensated under paragraph (1) shall not exceed ⅕ of the number of full-time regular or professional employees of the Institute. The rate of basic compensation for the employees appointed and compensated under paragraph (1) may not exceed the rate prescribed for level GS–15 of the General Schedule under [section 5332 of title 5][/us/usc/t5/s5332].”
 
-    Subsec. (d). [Pub. L. 111–340, § 103(2)][/us/pl/111/340/s103/2], added subsec. (d).
+    Subsec. (d). [Pub. L. 111–340][/us/pl/111/340], § 103(2), added subsec. (d).
 
     1997—Subsecs. (b), (c). [Pub. L. 105–128][/us/pl/105/128] added subsec. (b) and redesignated former subsec. (b) as (c).
 
  __Consideration Given to Individuals With Experience__ 
 
-    [Pub. L. 104–208, div. A, title I, § 101(e)][/us/pl/104/208/s101/e] \[title VII, § 706\], Sept. 30, 1996, [110 Stat. 3009–233][/us/stat/110/3009-233], 3009–311, required Director of the Institute of Museum and Library Services to give strong consideration to individuals with experience in administering State-based and national library and information services programs when appointing employees of the Office of Library Services, prior to repeal by [Pub. L. 108–81, title V, § 505(b)][/us/pl/108/81/s505/b], Sept. 25, 2003, [117 Stat. 1004][/us/stat/117/1004].
+    [Pub. L. 104–208, div. A, title I][/us/pl/104/208/dA/tI], § 101(e) \[title VII, § 706\], Sept. 30, 1996, [110 Stat. 3009–233][/us/stat/110/3009-233], 3009–311, required Director of the Institute of Museum and Library Services to give strong consideration to individuals with experience in administering State-based and national library and information services programs when appointing employees of the Office of Library Services, prior to repeal by [Pub. L. 108–81, title V][/us/pl/108/81/tV], § 505(b), Sept. 25, 2003, [117 Stat. 1004][/us/stat/117/1004].
 
 ----------
 
@@ -78,24 +78,24 @@
 [/us/usc/t5/s5315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5315
 [/us/usc/t5/s5703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5703
 [/us/usc/t5/s3109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs3109
-[/us/pl/94/462/s206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F462%2Fs206
-[/us/pl/104/208/s101/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs101%2Fe
+[/us/pl/94/462/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F462%2FtII
+[/us/pl/104/208/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2FdA%2FtI
 [/us/stat/110/3009-233]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3009-233
-[/us/pl/105/128/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F128%2Fs2
+[/us/pl/105/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F128
 [/us/stat/111/2548]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F2548
-[/us/pl/111/340/s103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F340%2Fs103
+[/us/pl/111/340/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F340%2FtI
 [/us/stat/124/3596]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3596
 [/us/pl/94/462/s206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F462%2Fs206
 [/us/usc/t20/s965]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs965
 [/us/pl/94/462]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F462
 [/us/pl/104/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208
-[/us/pl/111/340/s103/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F340%2Fs103%2F1
+[/us/pl/111/340]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F340
 [/us/usc/t5/s5332]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5332
-[/us/pl/111/340/s103/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F340%2Fs103%2F2
+[/us/pl/111/340]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F340
 [/us/pl/105/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F128
-[/us/pl/104/208/s101/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs101%2Fe
+[/us/pl/104/208/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2FdA%2FtI
 [/us/stat/110/3009-233]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3009-233
-[/us/pl/108/81/s505/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F81%2Fs505%2Fb
+[/us/pl/108/81/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F81%2FtV
 [/us/stat/117/1004]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1004
 
 

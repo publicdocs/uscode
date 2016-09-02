@@ -11,32 +11,16 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t20/ch64/schIV/m__us_usc_t20_ch64_schIV.md) | [Next](./../../../../..//us/usc/t20/ch64/schVI/m__us_usc_t20_ch64_schVI.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fch64%2FschV)
+[Previous](./../../../../..//us/usc/t20/ch64/schIV/m__us_usc_t20_s5361...5364.md) | [Next](./../../../../..//us/usc/t20/ch64/schV/m__us_usc_t20_s5371...5373.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fch64%2FschV)
 
 ### SUBCHAPTER V—EDUCATION COORDINATION AND DEPARTMENT OF ENERGY PROGRAMS
 
-§§ 5371 to 5373. __Repealed.__  __[__  __Pub. L. 103–382, title III, § 391(l)__  __][/us/pl/103/382/s391/l]__  __,__  __Oct. 20, 1994__  __,__  __[__  __108 Stat. 4023__  __][/us/stat/108/4023]__ 
-
-    Section 5371, [Pub. L. 101–589, title V, § 501][/us/pl/101/589/s501], Nov. 16, 1990, [104 Stat. 2898][/us/stat/104/2898], required science education report.
-
-    Section 5372, [Pub. L. 101–589, title V, § 502][/us/pl/101/589/s502], Nov. 16, 1990, [104 Stat. 2898][/us/stat/104/2898], required general education reports.
-
-    Section 5373, [Pub. L. 101–589, title V, § 503][/us/pl/101/589/s503], Nov. 16, 1990, [104 Stat. 2899][/us/stat/104/2899], related to Department of Energy programs.
-
 ----------
 
-[Previous](./../../../../..//us/usc/t20/ch64/schIV/m__us_usc_t20_ch64_schIV.md) | [Next](./../../../../..//us/usc/t20/ch64/schVI/m__us_usc_t20_ch64_schVI.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fch64%2FschV)
+[Previous](./../../../../..//us/usc/t20/ch64/schIV/m__us_usc_t20_s5361...5364.md) | [Next](./../../../../..//us/usc/t20/ch64/schV/m__us_usc_t20_s5371...5373.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fch64%2FschV)
 
 ----------
 ----------
 
-[/us/pl/103/382/s391/l]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F382%2Fs391%2Fl
-[/us/stat/108/4023]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4023
-[/us/pl/101/589/s501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F589%2Fs501
-[/us/stat/104/2898]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F2898
-[/us/pl/101/589/s502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F589%2Fs502
-[/us/stat/104/2898]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F2898
-[/us/pl/101/589/s503]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F589%2Fs503
-[/us/stat/104/2899]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F2899
 
 

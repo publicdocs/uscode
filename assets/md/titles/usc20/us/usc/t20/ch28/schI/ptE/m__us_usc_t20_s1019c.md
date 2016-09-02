@@ -33,7 +33,7 @@
 
             In providing the information required under paragraph (1), an institution of higher education may use a comparable form designed by the institution instead of the model disclosure form developed under [section 1019b(a)(2)(B) of this title][/us/usc/t20/s1019b/a/2/B].
 
-([Pub. L. 89–329, title I, § 154][/us/pl/89/329/s154], as added [Pub. L. 110–315, title I, § 120][/us/pl/110/315/s120], Aug. 14, 2008, [122 Stat. 3125][/us/stat/122/3125].)
+([Pub. L. 89–329, title I][/us/pl/89/329/tI], § 154, as added [Pub. L. 110–315, title I][/us/pl/110/315/tI], § 120, Aug. 14, 2008, [122 Stat. 3125][/us/stat/122/3125].)
 
 ----------
 
@@ -45,8 +45,8 @@
 [/us/usc/t20/s1019b/a/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1019b%2Fa%2F2%2FB
 [/us/usc/t20/s1019/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1019%2F3%2FA
 [/us/usc/t20/s1019b/a/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1019b%2Fa%2F2%2FB
-[/us/pl/89/329/s154]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2Fs154
-[/us/pl/110/315/s120]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2Fs120
+[/us/pl/89/329/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2FtI
+[/us/pl/110/315/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2FtI
 [/us/stat/122/3125]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3125
 
 

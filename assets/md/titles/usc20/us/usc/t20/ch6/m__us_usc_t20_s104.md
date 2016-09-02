@@ -17,7 +17,7 @@
 
     The trustees of said American Printing House for the Blind shall annually make to the Secretary of Education a report of the items of their expenditure of the appropriation aforesaid during the year preceding their report, and shall annually furnish him with a voucher from each public or private nonprofit institution for the education of the blind, showing that the amount of books and tangible apparatus due has been received.
 
-([Mar. 3, 1879, ch. 186, § 4][/us/act/1879-03-03/ch186/s4], [20 Stat. 469][/us/stat/20/469]; [June 25, 1906, ch. 3536][/us/act/1906-06-25/ch3536], [34 Stat. 460][/us/stat/34/460]; 1939 Reorg. Plan No. II, § 201(b), eff. July 1, 1939, 4 F.R. 2732, [53 Stat. 1434][/us/stat/53/1434]; 1953 Reorg. Plan No. 1, § 5, eff. Apr. 11, 1953, 18 F.R. 2053, [67 Stat. 631][/us/stat/67/631]; [Pub. L. 91–230, title VIII, § 811(c)][/us/pl/91/230/s811/c], Apr. 13, 1970, [84 Stat. 195][/us/stat/84/195]; [Pub. L. 96–88, title III, § 301(a)(2)(M)][/us/pl/96/88/s301/a/2/M], title V, § 507, Oct. 17, 1979, [93 Stat. 678][/us/stat/93/678], 692.)
+([Mar. 3, 1879, ch. 186][/us/act/1879-03-03/ch186], § 4, [20 Stat. 469][/us/stat/20/469]; [June 25, 1906, ch. 3536][/us/act/1906-06-25/ch3536], [34 Stat. 460][/us/stat/34/460]; 1939 Reorg. Plan No. II, § 201(b), eff. July 1, 1939, 4 F.R. 2732, [53 Stat. 1434][/us/stat/53/1434]; 1953 Reorg. Plan No. 1, § 5, eff. Apr. 11, 1953, 18 F.R. 2053, [67 Stat. 631][/us/stat/67/631]; [Pub. L. 91–230, title VIII][/us/pl/91/230/tVIII], § 811(c), Apr. 13, 1970, [84 Stat. 195][/us/stat/84/195]; [Pub. L. 96–88, title III][/us/pl/96/88/tIII], § 301(a)(2)(M), title V, § 507, Oct. 17, 1979, [93 Stat. 678][/us/stat/93/678], 692.)
 
  __Codification__ 
 
@@ -42,15 +42,15 @@
 ----------
 ----------
 
-[/us/act/1879-03-03/ch186/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1879-03-03%2Fch186%2Fs4
+[/us/act/1879-03-03/ch186]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1879-03-03%2Fch186
 [/us/stat/20/469]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F20%2F469
 [/us/act/1906-06-25/ch3536]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1906-06-25%2Fch3536
 [/us/stat/34/460]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F34%2F460
 [/us/stat/53/1434]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F53%2F1434
 [/us/stat/67/631]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F67%2F631
-[/us/pl/91/230/s811/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F230%2Fs811%2Fc
+[/us/pl/91/230/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F230%2FtVIII
 [/us/stat/84/195]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F195
-[/us/pl/96/88/s301/a/2/M]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F88%2Fs301%2Fa%2F2%2FM
+[/us/pl/96/88/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F88%2FtIII
 [/us/stat/93/678]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F678
 [/us/usc/t20/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs101
 [/us/pl/91/230]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F230

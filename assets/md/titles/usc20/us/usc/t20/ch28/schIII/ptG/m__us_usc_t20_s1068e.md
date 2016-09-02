@@ -25,7 +25,7 @@
 
     (4) for purposes other than the purposes set forth in the approved application under which the funds were made available to the institution.
 
-([Pub. L. 89–329, title III, § 396][/us/pl/89/329/s396], formerly § 357, as added [Pub. L. 99–498, title III, § 301(a)][/us/pl/99/498/s301/a], Oct. 17, 1986, [100 Stat. 1307][/us/stat/100/1307]; renumbered § 396, [Pub. L. 105–244, title III, § 301(a)(2)][/us/pl/105/244/s301/a/2], Oct. 7, 1998, [112 Stat. 1636][/us/stat/112/1636]; amended [Pub. L. 110–315, title III, § 320(6)][/us/pl/110/315/s320/6], Aug. 14, 2008, [122 Stat. 3188][/us/stat/122/3188].)
+([Pub. L. 89–329, title III][/us/pl/89/329/tIII], § 396, formerly § 357, as added [Pub. L. 99–498, title III][/us/pl/99/498/tIII], § 301(a), Oct. 17, 1986, [100 Stat. 1307][/us/stat/100/1307]; renumbered § 396, [Pub. L. 105–244, title III][/us/pl/105/244/tIII], § 301(a)(2), Oct. 7, 1998, [112 Stat. 1636][/us/stat/112/1636]; amended [Pub. L. 110–315, title III][/us/pl/110/315/tIII], § 320(6), Aug. 14, 2008, [122 Stat. 3188][/us/stat/122/3188].)
 
  __Codification__ 
 
@@ -43,12 +43,12 @@
 ----------
 
 [/us/usc/t20/s1068h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1068h
-[/us/pl/89/329/s396]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2Fs396
-[/us/pl/99/498/s301/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F498%2Fs301%2Fa
+[/us/pl/89/329/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2FtIII
+[/us/pl/99/498/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F498%2FtIII
 [/us/stat/100/1307]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1307
-[/us/pl/105/244/s301/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2Fs301%2Fa%2F2
+[/us/pl/105/244/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2FtIII
 [/us/stat/112/1636]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F1636
-[/us/pl/110/315/s320/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2Fs320%2F6
+[/us/pl/110/315/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2FtIII
 [/us/stat/122/3188]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3188
 [/us/usc/t20/s1069c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1069c
 [/us/pl/105/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244

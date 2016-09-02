@@ -113,7 +113,7 @@
 
                 Amounts under a grant provided under paragraph (1) that are not obligated and expended prior to the beginning of the second fiscal year succeeding the fiscal year for which such amounts were appropriated shall be returned to the Secretary and used to make grants to States under [section 1433 of this title][/us/usc/t20/s1433] (from their allotments under this section) during such second succeeding fiscal year.
 
-([Pub. L. 91–230, title VI, § 643][/us/pl/91/230/s643], as added [Pub. L. 108–446, title I, § 101][/us/pl/108/446/s101], Dec. 3, 2004, [118 Stat. 2760][/us/stat/118/2760].)
+([Pub. L. 91–230, title VI][/us/pl/91/230/tVI], § 643, as added [Pub. L. 108–446, title I][/us/pl/108/446/tI], § 101, Dec. 3, 2004, [118 Stat. 2760][/us/stat/118/2760].)
 
  __References in Text__ 
 
@@ -121,9 +121,9 @@
 
  __Prior Provisions__ 
 
-    A prior section 1443, [Pub. L. 91–230, title VI, § 643][/us/pl/91/230/s643], as added [Pub. L. 105–17, title I, § 101][/us/pl/105/17/s101], June 4, 1997, [111 Stat. 118][/us/stat/111/118], related to allocation of funds, prior to the general amendment of subchapters I to IV of this chapter by [Pub. L. 108–446][/us/pl/108/446].
+    A prior section 1443, [Pub. L. 91–230, title VI][/us/pl/91/230/tVI], § 643, as added [Pub. L. 105–17, title I][/us/pl/105/17/tI], § 101, June 4, 1997, [111 Stat. 118][/us/stat/111/118], related to allocation of funds, prior to the general amendment of subchapters I to IV of this chapter by [Pub. L. 108–446][/us/pl/108/446].
 
-    Another prior section 1443, [Pub. L. 91–230, title VI, § 643][/us/pl/91/230/s643], Apr. 13, 1970, [84 Stat. 185][/us/stat/84/185]; [Pub. L. 98–199][/us/pl/98/199], §§ 3(b), 12, Dec. 2, 1983, [97 Stat. 1358][/us/stat/97/1358], 1373; [Pub. L. 99–457, title III, § 313][/us/pl/99/457/s313], Oct. 8, 1986, [100 Stat. 1170][/us/stat/100/1170]; [Pub. L. 100–630, title I, § 105(c)][/us/pl/100/630/s105/c], Nov. 7, 1988, [102 Stat. 3299][/us/stat/102/3299]; [Pub. L. 101–476, title IX, § 901(b)(145)][/us/pl/101/476/s901/b/145], (146), Oct. 30, 1990, [104 Stat. 1149][/us/stat/104/1149]; [Pub. L. 102–119, § 25(b)][/us/pl/102/119/s25/b], Oct. 7, 1991, [105 Stat. 607][/us/stat/105/607], related to requirement of the Secretary to convene panels of experts to evaluate proposals for projects, prior to repeal by [Pub. L. 101–476, title V][/us/pl/101/476], §§ 503, 1001, Oct. 30, 1990, [104 Stat. 1138][/us/stat/104/1138], 1151, effective Oct. 1, 1990.
+    Another prior section 1443, [Pub. L. 91–230, title VI][/us/pl/91/230/tVI], § 643, Apr. 13, 1970, [84 Stat. 185][/us/stat/84/185]; [Pub. L. 98–199][/us/pl/98/199], §§ 3(b), 12, Dec. 2, 1983, [97 Stat. 1358][/us/stat/97/1358], 1373; [Pub. L. 99–457, title III][/us/pl/99/457/tIII], § 313, Oct. 8, 1986, [100 Stat. 1170][/us/stat/100/1170]; [Pub. L. 100–630, title I][/us/pl/100/630/tI], § 105(c), Nov. 7, 1988, [102 Stat. 3299][/us/stat/102/3299]; [Pub. L. 101–476, title IX][/us/pl/101/476/tIX], § 901(b)(145), (146), Oct. 30, 1990, [104 Stat. 1149][/us/stat/104/1149]; [Pub. L. 102–119][/us/pl/102/119], § 25(b), Oct. 7, 1991, [105 Stat. 607][/us/stat/105/607], related to requirement of the Secretary to convene panels of experts to evaluate proposals for projects, prior to repeal by [Pub. L. 101–476, title V][/us/pl/101/476/tV], §§ 503, 1001, Oct. 30, 1990, [104 Stat. 1138][/us/stat/104/1138], 1151, effective Oct. 1, 1990.
 
 ----------
 
@@ -139,31 +139,31 @@
 [/us/usc/t20/s1435/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1435%2Fc
 [/us/usc/t20/s1225/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1225%2Fb
 [/us/usc/t20/s1433]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1433
-[/us/pl/91/230/s643]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F230%2Fs643
-[/us/pl/108/446/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F446%2Fs101
+[/us/pl/91/230/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F230%2FtVI
+[/us/pl/108/446/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F446%2FtI
 [/us/stat/118/2760]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F2760
 [/us/pl/95/134]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F134
 [/us/pl/95/134]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F134
 [/us/stat/91/1159]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F1159
 [/us/pl/95/134/s501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F134%2Fs501
 [/us/usc/t48/s1469a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft48%2Fs1469a
-[/us/pl/91/230/s643]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F230%2Fs643
-[/us/pl/105/17/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F17%2Fs101
+[/us/pl/91/230/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F230%2FtVI
+[/us/pl/105/17/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F17%2FtI
 [/us/stat/111/118]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F118
 [/us/pl/108/446]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F446
-[/us/pl/91/230/s643]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F230%2Fs643
+[/us/pl/91/230/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F230%2FtVI
 [/us/stat/84/185]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F185
 [/us/pl/98/199]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F199
 [/us/stat/97/1358]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F1358
-[/us/pl/99/457/s313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F457%2Fs313
+[/us/pl/99/457/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F457%2FtIII
 [/us/stat/100/1170]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1170
-[/us/pl/100/630/s105/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F630%2Fs105%2Fc
+[/us/pl/100/630/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F630%2FtI
 [/us/stat/102/3299]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3299
-[/us/pl/101/476/s901/b/145]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F476%2Fs901%2Fb%2F145
+[/us/pl/101/476/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F476%2FtIX
 [/us/stat/104/1149]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1149
-[/us/pl/102/119/s25/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F119%2Fs25%2Fb
+[/us/pl/102/119]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F119
 [/us/stat/105/607]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F607
-[/us/pl/101/476]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F476
+[/us/pl/101/476/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F476%2FtV
 [/us/stat/104/1138]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1138
 
 

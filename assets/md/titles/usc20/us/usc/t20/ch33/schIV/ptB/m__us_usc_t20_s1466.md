@@ -23,7 +23,7 @@
 
         From amounts appropriated under subsection (a) for fiscal year 2005, the Secretary shall reserve $1,000,000 to carry out the study authorized in [section 1464(c) of this title][/us/usc/t20/s1464/c]. From amounts appropriated under subsection (a) for a succeeding fiscal year, the Secretary may reserve an additional amount to carry out such study if the Secretary determines the additional amount is necessary.
 
-([Pub. L. 91–230, title VI, § 667][/us/pl/91/230/s667], as added [Pub. L. 108–446, title I, § 101][/us/pl/108/446/s101], Dec. 3, 2004, [118 Stat. 2787][/us/stat/118/2787].)
+([Pub. L. 91–230, title VI][/us/pl/91/230/tVI], § 667, as added [Pub. L. 108–446, title I][/us/pl/108/446/tI], § 101, Dec. 3, 2004, [118 Stat. 2787][/us/stat/118/2787].)
 
 ----------
 
@@ -34,8 +34,8 @@
 
 [/us/usc/t20/s1462]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1462
 [/us/usc/t20/s1464/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1464%2Fc
-[/us/pl/91/230/s667]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F230%2Fs667
-[/us/pl/108/446/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F446%2Fs101
+[/us/pl/91/230/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F230%2FtVI
+[/us/pl/108/446/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F446%2FtI
 [/us/stat/118/2787]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F2787
 
 

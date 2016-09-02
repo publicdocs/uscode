@@ -195,7 +195,7 @@
 
             The term “Director” means the Director of the Center appointed under subsection (e)(1).
 
-([Pub. L. 110–315, title VIII, § 802][/us/pl/110/315/s802], Aug. 14, 2008, [122 Stat. 3446][/us/stat/122/3446]; [Pub. L. 112–239, div. A, title X, § 1076(c)(2)(A)(vii)][/us/pl/112/239/s1076/c/2/A/vii], Jan. 2, 2013, [126 Stat. 1950][/us/stat/126/1950].)
+([Pub. L. 110–315, title VIII][/us/pl/110/315/tVIII], § 802, Aug. 14, 2008, [122 Stat. 3446][/us/stat/122/3446]; [Pub. L. 112–239, div. A, title X][/us/pl/112/239/dA/tX], § 1076(c)(2)(A)(vii), Jan. 2, 2013, [126 Stat. 1950][/us/stat/126/1950].)
 
  __References in Text__ 
 
@@ -218,9 +218,9 @@
 
 [/us/usc/t5/s5313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5313
 [/us/usc/t20/s1003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1003
-[/us/pl/110/315/s802]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2Fs802
+[/us/pl/110/315/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2FtVIII
 [/us/stat/122/3446]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3446
-[/us/pl/112/239/s1076/c/2/A/vii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs1076%2Fc%2F2%2FA%2Fvii
+[/us/pl/112/239/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2FdA%2FtX
 [/us/stat/126/1950]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1950
 [/us/pl/87/569]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F569
 [/us/stat/76/265]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F265

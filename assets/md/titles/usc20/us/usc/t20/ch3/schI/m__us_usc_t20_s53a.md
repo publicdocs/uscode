@@ -17,7 +17,7 @@
 
     Appropriations are authorized for the maintenance of the Astrophysical Observatory and the making of solar observations at high altitudes; for repairs and alterations of buildings and grounds occupied by the Smithsonian Institution in the District of Columbia and elsewhere; and for preparation of manuscripts, drawings, and illustrations for publications.
 
-([Aug. 22, 1949, ch. 494, § 2][/us/act/1949-08-22/ch494/s2], [63 Stat. 623][/us/stat/63/623].)
+([Aug. 22, 1949, ch. 494][/us/act/1949-08-22/ch494], § 2, [63 Stat. 623][/us/stat/63/623].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/act/1949-08-22/ch494/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-08-22%2Fch494%2Fs2
+[/us/act/1949-08-22/ch494]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-08-22%2Fch494
 [/us/stat/63/623]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F63%2F623
 
 

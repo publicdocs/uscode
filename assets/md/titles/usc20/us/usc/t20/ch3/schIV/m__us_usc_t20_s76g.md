@@ -17,7 +17,7 @@
 
     There are authorized to be appropriated annually such sums as may be necessary to maintain and administer the Gallery, including the salaries of the Director and of other necessary officers and employees, and for special public exhibitions at Washington and elsewhere.
 
-([May 17, 1938, ch. 238, § 8][/us/act/1938-05-17/ch238/s8], [52 Stat. 401][/us/stat/52/401].)
+([May 17, 1938, ch. 238][/us/act/1938-05-17/ch238], § 8, [52 Stat. 401][/us/stat/52/401].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/act/1938-05-17/ch238/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-05-17%2Fch238%2Fs8
+[/us/act/1938-05-17/ch238]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-05-17%2Fch238
 [/us/stat/52/401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F52%2F401
 
 

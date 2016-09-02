@@ -103,11 +103,11 @@
 
                 (ii) developed by the Department, other Federal agencies, or entities (including entities supported under subchapter II of this chapter and the Educational Resources Information Center Clearinghouses (established under section 941(f) of the Educational Research, Development, Dissemination, and Improvement Act of 1994 ([20 U.S.C. 6041(f)][/us/usc/t20/s6041/f]) (as such provision was in effect on the day before November 5, 2002))). <sup>\[1\]</sup>  <sup><sup> 1 So in original. The third closing parenthesis probably should not appear. </sup></sup> 
 
-([Pub. L. 107–279, title I, § 172][/us/pl/107/279/s172], Nov. 5, 2002, [116 Stat. 1962][/us/stat/116/1962].)
+([Pub. L. 107–279, title I][/us/pl/107/279/tI], § 172, Nov. 5, 2002, [116 Stat. 1962][/us/stat/116/1962].)
 
  __References in Text__ 
 
-    The Educational Research, Development, Dissemination, and Improvement Act of 1994 (as such Act existed on the day before November 5, 2002), referred to in subsecs. (a)(1)(E), (b)(1), (c), and (d)(2)(B)(ii), is title IX of [Pub. L. 103–227][/us/pl/103/227], Mar. 31, 1994, [108 Stat. 212][/us/stat/108/212], as amended, which was classified principally to subchapter IX (§ 6001 et seq.) of chapter 68 of this title and was substantially repealed by [Pub. L. 107–279, title IV, § 403(2)][/us/pl/107/279/s403/2], Nov. 5, 2002, [116 Stat. 1985][/us/stat/116/1985]. Section 941 of the Act was classified to [section 6041 of this title][/us/usc/t20/s6041] prior to repeal. For complete classification of this Act to the Code, see [section 6001 of this title][/us/usc/t20/s6001] and Tables.
+    The Educational Research, Development, Dissemination, and Improvement Act of 1994 (as such Act existed on the day before November 5, 2002), referred to in subsecs. (a)(1)(E), (b)(1), (c), and (d)(2)(B)(ii), is title IX of [Pub. L. 103–227][/us/pl/103/227], Mar. 31, 1994, [108 Stat. 212][/us/stat/108/212], as amended, which was classified principally to subchapter IX (§ 6001 et seq.) of chapter 68 of this title and was substantially repealed by [Pub. L. 107–279, title IV][/us/pl/107/279/tIV], § 403(2), Nov. 5, 2002, [116 Stat. 1985][/us/stat/116/1985]. Section 941 of the Act was classified to [section 6041 of this title][/us/usc/t20/s6041] prior to repeal. For complete classification of this Act to the Code, see [section 6001 of this title][/us/usc/t20/s6001] and Tables.
 
 ----------
 
@@ -122,11 +122,11 @@
 [/us/usc/t20/s6001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs6001
 [/us/usc/t20/s6041/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs6041%2Ff
 [/us/usc/t20/s6041/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs6041%2Ff
-[/us/pl/107/279/s172]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F279%2Fs172
+[/us/pl/107/279/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F279%2FtI
 [/us/stat/116/1962]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1962
 [/us/pl/103/227]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F227
 [/us/stat/108/212]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F212
-[/us/pl/107/279/s403/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F279%2Fs403%2F2
+[/us/pl/107/279/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F279%2FtIV
 [/us/stat/116/1985]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1985
 [/us/usc/t20/s6041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs6041
 [/us/usc/t20/s6001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs6001

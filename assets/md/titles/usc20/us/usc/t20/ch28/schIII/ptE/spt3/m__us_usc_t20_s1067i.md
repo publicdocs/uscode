@@ -17,7 +17,7 @@
 
     The Minority Science and Engineering Improvement Programs shall cooperate and consult with other programs within the Department and within Federal, State, and private agencies which carry out programs to improve the quality of science, mathematics, and engineering education.
 
-([Pub. L. 89–329, title III, § 363][/us/pl/89/329/s363], formerly title X, § 1043, as added [Pub. L. 99–498, title X, § 1002][/us/pl/99/498/s1002], Oct. 17, 1986, [100 Stat. 1564][/us/stat/100/1564]; amended [Pub. L. 102–325, title X, § 1002(d)][/us/pl/102/325/s1002/d], July 23, 1992, [106 Stat. 780][/us/stat/106/780]; renumbered title III, § 363, [Pub. L. 105–244, title III, § 301(a)(5)][/us/pl/105/244/s301/a/5], (7), Oct. 7, 1998, [112 Stat. 1636][/us/stat/112/1636].)
+([Pub. L. 89–329, title III][/us/pl/89/329/tIII], § 363, formerly title X, § 1043, as added [Pub. L. 99–498, title X][/us/pl/99/498/tX], § 1002, Oct. 17, 1986, [100 Stat. 1564][/us/stat/100/1564]; amended [Pub. L. 102–325, title X][/us/pl/102/325/tX], § 1002(d), July 23, 1992, [106 Stat. 780][/us/stat/106/780]; renumbered title III, § 363, [Pub. L. 105–244, title III][/us/pl/105/244/tIII], § 301(a)(5), (7), Oct. 7, 1998, [112 Stat. 1636][/us/stat/112/1636].)
 
  __Codification__ 
 
@@ -38,12 +38,12 @@
 ----------
 ----------
 
-[/us/pl/89/329/s363]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2Fs363
-[/us/pl/99/498/s1002]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F498%2Fs1002
+[/us/pl/89/329/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2FtIII
+[/us/pl/99/498/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F498%2FtX
 [/us/stat/100/1564]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1564
-[/us/pl/102/325/s1002/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325%2Fs1002%2Fd
+[/us/pl/102/325/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325%2FtX
 [/us/stat/106/780]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F780
-[/us/pl/105/244/s301/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2Fs301%2Fa%2F5
+[/us/pl/105/244/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2FtIII
 [/us/stat/112/1636]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F1636
 [/us/usc/t20/s1135d–2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1135d%E2%80%932
 [/us/pl/105/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244

@@ -17,7 +17,7 @@
 
     The Secretary may use not more than one percent of the funds made available under this subchapter to carry out program evaluation, national outreach, and information dissemination activities relating to the programs authorized under this subchapter.
 
-([Pub. L. 89–329, title VI, § 635][/us/pl/89/329/s635], as added [Pub. L. 110–315, title VI, § 622][/us/pl/110/315/s622], Aug. 14, 2008, [122 Stat. 3343][/us/stat/122/3343].)
+([Pub. L. 89–329, title VI][/us/pl/89/329/tVI], § 635, as added [Pub. L. 110–315, title VI][/us/pl/110/315/tVI], § 622, Aug. 14, 2008, [122 Stat. 3343][/us/stat/122/3343].)
 
 ----------
 
@@ -26,8 +26,8 @@
 ----------
 ----------
 
-[/us/pl/89/329/s635]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2Fs635
-[/us/pl/110/315/s622]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2Fs622
+[/us/pl/89/329/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2FtVI
+[/us/pl/110/315/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2FtVI
 [/us/stat/122/3343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3343
 
 

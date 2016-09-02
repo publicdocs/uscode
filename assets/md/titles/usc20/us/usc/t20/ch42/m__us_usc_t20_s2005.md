@@ -31,7 +31,7 @@
 
         Each student awarded a scholarship under this chapter must have indicated a serious intent to enter the public service upon the completion of his or her educational program. Each institution of higher education at which such a student is in attendance will make reasonable continuing efforts to encourage such a student to enter the public service upon completing his or her educational program.
 
-([Pub. L. 93–642, § 6][/us/pl/93/642/s6], Jan. 4, 1975, [88 Stat. 2278][/us/stat/88/2278].)
+([Pub. L. 93–642][/us/pl/93/642], § 6, Jan. 4, 1975, [88 Stat. 2278][/us/stat/88/2278].)
 
 ----------
 
@@ -40,7 +40,7 @@
 ----------
 ----------
 
-[/us/pl/93/642/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F642%2Fs6
+[/us/pl/93/642]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F642
 [/us/stat/88/2278]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F2278
 
 

@@ -69,21 +69,21 @@
 
         Only leave described in the last sentence of subsection (c) of this section (relating to leave that may be used by a teacher for any purpose) may be transferred under any program established under this subsection.
 
-([Pub. L. 86–91, § 6][/us/pl/86/91/s6], July 17, 1959, [73 Stat. 214][/us/stat/73/214]; 1978 Reorg. Plan No. 2, § 102, eff. Jan. 1, 1979, 43 F.R. 36037, [92 Stat. 3783][/us/stat/92/3783]; [Pub. L. 98–369, div. B, title II, § 2204][/us/pl/98/369/s2204], July 18, 1984, [98 Stat. 1059][/us/stat/98/1059]; [Pub. L. 103–425, § 1][/us/pl/103/425/s1], Oct. 31, 1994, [108 Stat. 4369][/us/stat/108/4369].)
+([Pub. L. 86–91][/us/pl/86/91], § 6, July 17, 1959, [73 Stat. 214][/us/stat/73/214]; 1978 Reorg. Plan No. 2, § 102, eff. Jan. 1, 1979, 43 F.R. 36037, [92 Stat. 3783][/us/stat/92/3783]; [Pub. L. 98–369, div. B, title II][/us/pl/98/369/dB/tII], § 2204, July 18, 1984, [98 Stat. 1059][/us/stat/98/1059]; [Pub. L. 103–425][/us/pl/103/425], § 1, Oct. 31, 1994, [108 Stat. 4369][/us/stat/108/4369].)
 
  __Codification__ 
 
-    In subsec. (f), “[section 5551 of title 5][/us/usc/t5/s5551]” substituted for “the Act of December 21, 1944 ([5 U.S.C. 61b][/us/usc/t5/s61b] and the following)” on authority of [Pub. L. 89–554, § 7(b)][/us/pl/89/554/s7/b], Sept. 6, 1966, [80 Stat. 631][/us/stat/80/631], the first section of which enacted Title 5, Government Organization and Employees.
+    In subsec. (f), “[section 5551 of title 5][/us/usc/t5/s5551]” substituted for “the Act of December 21, 1944 ([5 U.S.C. 61b][/us/usc/t5/s61b] and the following)” on authority of [Pub. L. 89–554][/us/pl/89/554], § 7(b), Sept. 6, 1966, [80 Stat. 631][/us/stat/80/631], the first section of which enacted Title 5, Government Organization and Employees.
 
-    Section was formerly classified to [section 2354 of Title 5][/us/usc/t5/s2354] prior to the general revision and enactment of Title 5 by [Pub. L. 89–554, § 1][/us/pl/89/554/s1], Sept. 6, 1966, [80 Stat. 378][/us/stat/80/378].
+    Section was formerly classified to [section 2354 of Title 5][/us/usc/t5/s2354] prior to the general revision and enactment of Title 5 by [Pub. L. 89–554][/us/pl/89/554], § 1, Sept. 6, 1966, [80 Stat. 378][/us/stat/80/378].
 
  __Amendments__ 
 
-    1994—Subsec. (a). [Pub. L. 103–425, § 1(1)][/us/pl/103/425/s1/1], inserted “(or, if such teacher is employed in a supervisory position or higher, not less than ten and not more than thirteen)” after “ten”.
+    1994—Subsec. (a). [Pub. L. 103–425][/us/pl/103/425], § 1(1), inserted “(or, if such teacher is employed in a supervisory position or higher, not less than ten and not more than thirteen)” after “ten”.
 
-    Subsec. (d). [Pub. L. 103–425, § 1(2)][/us/pl/103/425/s1/2], substituted “Secretary of Defense” for “Secretary of the military department concerned” in concluding provisions.
+    Subsec. (d). [Pub. L. 103–425][/us/pl/103/425], § 1(2), substituted “Secretary of Defense” for “Secretary of the military department concerned” in concluding provisions.
 
-    Subsec. (h). [Pub. L. 103–425, § 1(3)][/us/pl/103/425/s1/3], added subsec. (h).
+    Subsec. (h). [Pub. L. 103–425][/us/pl/103/425], § 1(3), added subsec. (h).
 
     1984—Subsec. (a). [Pub. L. 98–369][/us/pl/98/369] struck out provisions which had directed that not more than seventy-five days of leave could be accumulated to the credit of a teacher at any one time under this subsection.
 
@@ -100,23 +100,23 @@
 
 [/us/usc/t20/s902]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs902
 [/us/usc/t5/s5551]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5551
-[/us/pl/86/91/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F91%2Fs6
+[/us/pl/86/91]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F91
 [/us/stat/73/214]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F73%2F214
 [/us/stat/92/3783]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3783
-[/us/pl/98/369/s2204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs2204
+[/us/pl/98/369/dB/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2FdB%2FtII
 [/us/stat/98/1059]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F1059
-[/us/pl/103/425/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F425%2Fs1
+[/us/pl/103/425]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F425
 [/us/stat/108/4369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4369
 [/us/usc/t5/s5551]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5551
 [/us/usc/t5/s61b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs61b
-[/us/pl/89/554/s7/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554%2Fs7%2Fb
+[/us/pl/89/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554
 [/us/stat/80/631]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F631
 [/us/usc/t5/s2354]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs2354
-[/us/pl/89/554/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554%2Fs1
+[/us/pl/89/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554
 [/us/stat/80/378]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F378
-[/us/pl/103/425/s1/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F425%2Fs1%2F1
-[/us/pl/103/425/s1/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F425%2Fs1%2F2
-[/us/pl/103/425/s1/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F425%2Fs1%2F3
+[/us/pl/103/425]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F425
+[/us/pl/103/425]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F425
+[/us/pl/103/425]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F425
 [/us/pl/98/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369
 [/us/stat/92/3783]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3783
 [/us/usc/t5/s1101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs1101

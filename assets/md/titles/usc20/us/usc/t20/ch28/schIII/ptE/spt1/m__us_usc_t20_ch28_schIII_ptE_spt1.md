@@ -17,7 +17,7 @@
 
  __Codification__ 
 
-    [Pub. L. 105–244, title III][/us/pl/105/244], §§ 301(a)(5), 307(d), Oct. 7, 1998, [112 Stat. 1636][/us/stat/112/1636], 1648, redesignated subpart 1 (§ 1135b et seq.) of part B of subchapter X of this chapter as subpart 1 of part E of subchapter III of this chapter and inserted “and engineering” before “improvement program” in heading.
+    [Pub. L. 105–244, title III][/us/pl/105/244/tIII], §§ 301(a)(5), 307(d), Oct. 7, 1998, [112 Stat. 1636][/us/stat/112/1636], 1648, redesignated subpart 1 (§ 1135b et seq.) of part B of subchapter X of this chapter as subpart 1 of part E of subchapter III of this chapter and inserted “and engineering” before “improvement program” in heading.
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/105/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244
+[/us/pl/105/244/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2FtIII
 [/us/stat/112/1636]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F1636
 
 

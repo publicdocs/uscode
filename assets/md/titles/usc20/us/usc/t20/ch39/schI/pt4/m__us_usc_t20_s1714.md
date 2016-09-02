@@ -27,7 +27,7 @@
 
         When a court of competent jurisdiction determines that a school system is desegregated, or that it meets the constitutional requirements, or that it is a unitary system, or that it has no vestiges of a dual system, and thereafter residential shifts in population occur which result in school population changes in any school within such a desegregated school system, no educational agency because of such shifts shall be required by any court, department, or agency of the United States to formulate, or implement any new desegregation plan, or modify or implement any modification of the court approved desegregation plan, which would require transportation of students to compensate wholly or in part for such shifts in school population so occurring.
 
-([Pub. L. 93–380, title II, § 215][/us/pl/93/380/s215], Aug. 21, 1974, [88 Stat. 517][/us/stat/88/517].)
+([Pub. L. 93–380, title II][/us/pl/93/380/tII], § 215, Aug. 21, 1974, [88 Stat. 517][/us/stat/88/517].)
 
 ----------
 
@@ -37,7 +37,7 @@
 ----------
 
 [/us/usc/t20/s1713]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1713
-[/us/pl/93/380/s215]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F380%2Fs215
+[/us/pl/93/380/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F380%2FtII
 [/us/stat/88/517]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F517
 
 

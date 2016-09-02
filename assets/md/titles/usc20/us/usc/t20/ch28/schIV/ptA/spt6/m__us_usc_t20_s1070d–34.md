@@ -45,11 +45,11 @@
 
             A student from the Freely Associated States shall not be eligible to receive a scholarship under this subpart after September 30, 2004.
 
-([Pub. L. 89–329, title IV, § 419D][/us/pl/89/329/s419D], as added [Pub. L. 99–498, title IV, § 401(a)][/us/pl/99/498/s401/a], Oct. 17, 1986, [100 Stat. 1344][/us/stat/100/1344]; amended [Pub. L. 102–325, title IV, § 406(c)][/us/pl/102/325/s406/c], July 23, 1992, [106 Stat. 509][/us/stat/106/509]; [Pub. L. 103–208, § 2(b)(29)][/us/pl/103/208/s2/b/29], Dec. 20, 1993, [107 Stat. 2460][/us/stat/107/2460]; [Pub. L. 105–244, title IV, § 409(a)][/us/pl/105/244/s409/a], Oct. 7, 1998, [112 Stat. 1668][/us/stat/112/1668]; [Pub. L. 111–39, title IV, § 401(a)(8)][/us/pl/111/39/s401/a/8], July 1, 2009, [123 Stat. 1939][/us/stat/123/1939].)
+([Pub. L. 89–329, title IV][/us/pl/89/329/tIV], § 419D, as added [Pub. L. 99–498, title IV][/us/pl/99/498/tIV], § 401(a), Oct. 17, 1986, [100 Stat. 1344][/us/stat/100/1344]; amended [Pub. L. 102–325, title IV][/us/pl/102/325/tIV], § 406(c), July 23, 1992, [106 Stat. 509][/us/stat/106/509]; [Pub. L. 103–208][/us/pl/103/208], § 2(b)(29), Dec. 20, 1993, [107 Stat. 2460][/us/stat/107/2460]; [Pub. L. 105–244, title IV][/us/pl/105/244/tIV], § 409(a), Oct. 7, 1998, [112 Stat. 1668][/us/stat/112/1668]; [Pub. L. 111–39, title IV][/us/pl/111/39/tIV], § 401(a)(8), July 1, 2009, [123 Stat. 1939][/us/stat/123/1939].)
 
  __Prior Provisions__ 
 
-    A prior section 1070d–34, [Pub. L. 89–329, title IV, § 419D][/us/pl/89/329/s419D], as added [Pub. L. 98–558, title VIII, § 801(a)][/us/pl/98/558/s801/a], Oct. 30, 1984, [98 Stat. 2901][/us/stat/98/2901], related to allocation among States of amounts for Robert C. Byrd Honors Scholarship Program, prior to the general revision of this part by [Pub. L. 99–498][/us/pl/99/498].
+    A prior section 1070d–34, [Pub. L. 89–329, title IV][/us/pl/89/329/tIV], § 419D, as added [Pub. L. 98–558, title VIII][/us/pl/98/558/tVIII], § 801(a), Oct. 30, 1984, [98 Stat. 2901][/us/stat/98/2901], related to allocation among States of amounts for Robert C. Byrd Honors Scholarship Program, prior to the general revision of this part by [Pub. L. 99–498][/us/pl/99/498].
 
  __Amendments__ 
 
@@ -87,19 +87,19 @@
 [/us/usc/t20/s1070d–41]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1070d%E2%80%9341
 [/us/usc/t20/s1070d–35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1070d%E2%80%9335
 [/us/usc/t48/s1469a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft48%2Fs1469a
-[/us/pl/89/329/s419D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2Fs419D
-[/us/pl/99/498/s401/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F498%2Fs401%2Fa
+[/us/pl/89/329/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2FtIV
+[/us/pl/99/498/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F498%2FtIV
 [/us/stat/100/1344]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1344
-[/us/pl/102/325/s406/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325%2Fs406%2Fc
+[/us/pl/102/325/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325%2FtIV
 [/us/stat/106/509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F509
-[/us/pl/103/208/s2/b/29]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F208%2Fs2%2Fb%2F29
+[/us/pl/103/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F208
 [/us/stat/107/2460]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F2460
-[/us/pl/105/244/s409/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2Fs409%2Fa
+[/us/pl/105/244/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2FtIV
 [/us/stat/112/1668]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F1668
-[/us/pl/111/39/s401/a/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F39%2Fs401%2Fa%2F8
+[/us/pl/111/39/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F39%2FtIV
 [/us/stat/123/1939]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1939
-[/us/pl/89/329/s419D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2Fs419D
-[/us/pl/98/558/s801/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F558%2Fs801%2Fa
+[/us/pl/89/329/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2FtIV
+[/us/pl/98/558/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F558%2FtVIII
 [/us/stat/98/2901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2901
 [/us/pl/99/498]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F498
 [/us/pl/111/39]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F39

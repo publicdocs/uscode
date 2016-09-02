@@ -43,7 +43,7 @@
 
             The Secretary is authorized in each fiscal year to reserve not more than 10 percent of the amount appropriated pursuant to the authority of paragraph (1) to carry out national activities described in [section 5966 of this title][/us/usc/t20/s5966], of which 50 percent of such amount shall be available in such fiscal year to carry out the program described in [section 5966(b) of this title][/us/usc/t20/s5966/b].
 
-([Pub. L. 103–227, title VII, § 702][/us/pl/103/227/s702], Mar. 31, 1994, [108 Stat. 204][/us/stat/108/204].)
+([Pub. L. 103–227, title VII][/us/pl/103/227/tVII], § 702, Mar. 31, 1994, [108 Stat. 204][/us/stat/108/204].)
 
 ----------
 
@@ -54,7 +54,7 @@
 
 [/us/usc/t20/s5966]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs5966
 [/us/usc/t20/s5966/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs5966%2Fb
-[/us/pl/103/227/s702]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F227%2Fs702
+[/us/pl/103/227/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F227%2FtVII
 [/us/stat/108/204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F204
 
 

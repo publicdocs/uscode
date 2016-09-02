@@ -17,7 +17,7 @@
 
     For the purpose specified in [section 124 of this title][/us/usc/t20/s124], there are authorized to be appropriated such sums as may be necessary for the construction of a building or buildings and facilities, including equipment, and for remodeling of existing buildings (including repair and replacement of equipment) which are to be combined with the building or buildings and facilities so constructed, to provide a hospital with a capacity of not to exceed five hundred beds.
 
-([Pub. L. 87–262, § 3][/us/pl/87/262/s3], Sept. 21, 1961, [75 Stat. 543][/us/stat/75/543].)
+([Pub. L. 87–262][/us/pl/87/262], § 3, Sept. 21, 1961, [75 Stat. 543][/us/stat/75/543].)
 
 ----------
 
@@ -27,7 +27,7 @@
 ----------
 
 [/us/usc/t20/s124]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs124
-[/us/pl/87/262/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F262%2Fs3
+[/us/pl/87/262]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F262
 [/us/stat/75/543]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F75%2F543
 
 

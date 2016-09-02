@@ -17,7 +17,7 @@
 
  __Prior Provisions__ 
 
-    A prior part B consisting of sections 1103 to 1103g was redesignated part C by [Pub. L. 110–315, title V, § 502(a)(1)][/us/pl/110/315/s502/a/1], Aug. 14, 2008, [122 Stat. 3331][/us/stat/122/3331].
+    A prior part B consisting of sections 1103 to 1103g was redesignated part C by [Pub. L. 110–315, title V][/us/pl/110/315/tV], § 502(a)(1), Aug. 14, 2008, [122 Stat. 3331][/us/stat/122/3331].
 
     Another prior part B consisted of sections 1103 to 1103g and related to National Teacher Academies prior to the general amendment of this subchapter by [Pub. L. 105–244][/us/pl/105/244].
 
@@ -28,7 +28,7 @@
 ----------
 ----------
 
-[/us/pl/110/315/s502/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2Fs502%2Fa%2F1
+[/us/pl/110/315/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2FtV
 [/us/stat/122/3331]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3331
 [/us/pl/105/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244
 

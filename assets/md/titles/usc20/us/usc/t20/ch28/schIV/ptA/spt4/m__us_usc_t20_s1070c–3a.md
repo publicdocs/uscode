@@ -341,7 +341,7 @@
 
         Not later than three years after August 14, 2008, and annually thereafter, the Secretary shall submit a report describing the activities and the impact of the partnerships under this section to the authorizing committees.
 
-([Pub. L. 89–329, title IV, § 415E][/us/pl/89/329/s415E], as added [Pub. L. 105–244, title IV, § 407(c)(2)][/us/pl/105/244/s407/c/2], Oct. 7, 1998, [112 Stat. 1666][/us/stat/112/1666]; amended [Pub. L. 106–554, § 1(a)(1)][/us/pl/106/554/s1/a/1] \[title III, § 316(2), (3)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–47; [Pub. L. 110–315, title IV, § 407(c)][/us/pl/110/315/s407/c], Aug. 14, 2008, [122 Stat. 3216][/us/stat/122/3216]; [Pub. L. 111–39, title IV, § 401(a)(6)][/us/pl/111/39/s401/a/6], July 1, 2009, [123 Stat. 1938][/us/stat/123/1938].)
+([Pub. L. 89–329, title IV][/us/pl/89/329/tIV], § 415E, as added [Pub. L. 105–244, title IV][/us/pl/105/244/tIV], § 407(c)(2), Oct. 7, 1998, [112 Stat. 1666][/us/stat/112/1666]; amended [Pub. L. 106–554][/us/pl/106/554], § 1(a)(1) \[title III, § 316(2), (3)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–47; [Pub. L. 110–315, title IV][/us/pl/110/315/tIV], § 407(c), Aug. 14, 2008, [122 Stat. 3216][/us/stat/122/3216]; [Pub. L. 111–39, title IV][/us/pl/111/39/tIV], § 401(a)(6), July 1, 2009, [123 Stat. 1938][/us/stat/123/1938].)
 
  __Prior Provisions__ 
 
@@ -355,9 +355,9 @@
 
     2008—[Pub. L. 110–315][/us/pl/110/315] amended section generally. Prior to amendment, section consisted of subsecs. (a) to (g) relating to a special leveraging educational assistance partnership program.
 
-    2000—Subsec. (c). [Pub. L. 106–554, § 1(a)(1)][/us/pl/106/554/s1/a/1] \[title III, § 316(2)\], which directed amendment of section 415 of the Higher Education Act of 1965 in section 415E by adding subsec. (c) and striking out former subsec. (c), was executed to this section, which is section 415E of the Higher Education Act of 1965, to reflect the probable intent of Congress. Prior to amendment, subsec. (c) listed the activities for which States receiving a grant under this section were authorized to use the grant funds.
+    2000—Subsec. (c). [Pub. L. 106–554][/us/pl/106/554], § 1(a)(1) \[title III, § 316(2)\], which directed amendment of section 415 of the Higher Education Act of 1965 in section 415E by adding subsec. (c) and striking out former subsec. (c), was executed to this section, which is section 415E of the Higher Education Act of 1965, to reflect the probable intent of Congress. Prior to amendment, subsec. (c) listed the activities for which States receiving a grant under this section were authorized to use the grant funds.
 
-    Subsecs. (f), (g). [Pub. L. 106–554, § 1(a)(1)][/us/pl/106/554/s1/a/1] \[title III, § 316(3)\], which directed amendment of section 415 of the Higher Education Act of 1965 in section 415E by adding subsecs. (f) and (g), was executed by adding subsecs. (f) and (g) to this section, which is section 415E of the Higher Education Act of 1965, to reflect the probable intent of Congress.
+    Subsecs. (f), (g). [Pub. L. 106–554][/us/pl/106/554], § 1(a)(1) \[title III, § 316(3)\], which directed amendment of section 415 of the Higher Education Act of 1965 in section 415E by adding subsecs. (f) and (g), was executed by adding subsecs. (f) and (g) to this section, which is section 415E of the Higher Education Act of 1965, to reflect the probable intent of Congress.
 
  __Effective Date of 2009 Amendment__ 
 
@@ -382,14 +382,14 @@
 [/us/usc/t20/s1070c–2/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1070c%E2%80%932%2Fb
 [/us/usc/t20/s1091/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1091%2Fc
 [/us/usc/t20/s1070c–3a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1070c%E2%80%933a
-[/us/pl/89/329/s415E]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2Fs415E
-[/us/pl/105/244/s407/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2Fs407%2Fc%2F2
+[/us/pl/89/329/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2FtIV
+[/us/pl/105/244/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2FtIV
 [/us/stat/112/1666]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F1666
-[/us/pl/106/554/s1/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F1
+[/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
 [/us/stat/114/2763]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2763
-[/us/pl/110/315/s407/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2Fs407%2Fc
+[/us/pl/110/315/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2FtIV
 [/us/stat/122/3216]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3216
-[/us/pl/111/39/s401/a/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F39%2Fs401%2Fa%2F6
+[/us/pl/111/39/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F39%2FtIV
 [/us/stat/123/1938]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1938
 [/us/pl/89/329/s415E]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2Fs415E
 [/us/usc/t20/s1070c–4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1070c%E2%80%934
@@ -398,8 +398,8 @@
 [/us/pl/96/374]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F374
 [/us/pl/111/39]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F39
 [/us/pl/110/315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315
-[/us/pl/106/554/s1/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F1
-[/us/pl/106/554/s1/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F1
+[/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
+[/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
 [/us/pl/111/39]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F39
 [/us/pl/110/315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315
 [/us/pl/111/39/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F39%2Fs3

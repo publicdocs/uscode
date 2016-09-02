@@ -21,11 +21,11 @@
 
     (2) have submitted a grant application under this section that demonstrates a need for a waiver or reduction, as determined by the Secretary.
 
-([Pub. L. 89–329, title VI, § 632][/us/pl/89/329/s632], as added [Pub. L. 110–315, title VI, § 622][/us/pl/110/315/s622], Aug. 14, 2008, [122 Stat. 3343][/us/stat/122/3343].)
+([Pub. L. 89–329, title VI][/us/pl/89/329/tVI], § 632, as added [Pub. L. 110–315, title VI][/us/pl/110/315/tVI], § 622, Aug. 14, 2008, [122 Stat. 3343][/us/stat/122/3343].)
 
  __Prior Provisions__ 
 
-    A prior section 1132–1, [Pub. L. 89–329, title VI, § 632][/us/pl/89/329/s632], as added [Pub. L. 102–325, title VI, § 601][/us/pl/102/325/s601], July 23, 1992, [106 Stat. 737][/us/stat/106/737], related to preservation of pre-1992 programs, prior to repeal by [Pub. L. 105–244, § 3][/us/pl/105/244/s3], title VI, § 604(b), Oct. 7, 1998, [112 Stat. 1585][/us/stat/112/1585], 1786, effective Oct. 1, 1998.
+    A prior section 1132–1, [Pub. L. 89–329, title VI][/us/pl/89/329/tVI], § 632, as added [Pub. L. 102–325, title VI][/us/pl/102/325/tVI], § 601, July 23, 1992, [106 Stat. 737][/us/stat/106/737], related to preservation of pre-1992 programs, prior to repeal by [Pub. L. 105–244][/us/pl/105/244], § 3, title VI, § 604(b), Oct. 7, 1998, [112 Stat. 1585][/us/stat/112/1585], 1786, effective Oct. 1, 1998.
 
 ----------
 
@@ -34,13 +34,13 @@
 ----------
 ----------
 
-[/us/pl/89/329/s632]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2Fs632
-[/us/pl/110/315/s622]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2Fs622
+[/us/pl/89/329/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2FtVI
+[/us/pl/110/315/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2FtVI
 [/us/stat/122/3343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3343
-[/us/pl/89/329/s632]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2Fs632
-[/us/pl/102/325/s601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325%2Fs601
+[/us/pl/89/329/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2FtVI
+[/us/pl/102/325/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325%2FtVI
 [/us/stat/106/737]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F737
-[/us/pl/105/244/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2Fs3
+[/us/pl/105/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244
 [/us/stat/112/1585]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F1585
 
 

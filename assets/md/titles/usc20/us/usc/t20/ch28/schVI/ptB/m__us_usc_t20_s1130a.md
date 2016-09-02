@@ -55,7 +55,7 @@
 
         The Federal share under this part for each fiscal year shall not exceed 50 percent of the cost of such program.
 
-([Pub. L. 89–329, title VI, § 613][/us/pl/89/329/s613], formerly § 612, as added [Pub. L. 96–374, title VI, § 601(a)][/us/pl/96/374/s601/a], Oct. 3, 1980, [94 Stat. 1468][/us/stat/94/1468]; amended [Pub. L. 99–498, title VI, § 611][/us/pl/99/498/s611], Oct. 17, 1986, [100 Stat. 1519][/us/stat/100/1519]; renumbered § 613 and amended [Pub. L. 100–418, title VI][/us/pl/100/418], §§ 6261(1), 6263, Aug. 23, 1988, [102 Stat. 1520][/us/stat/102/1520], 1523; [Pub. L. 102–325, title VI, § 601][/us/pl/102/325/s601], July 23, 1992, [106 Stat. 732][/us/stat/106/732]; [Pub. L. 110–315, title VI, § 611(b)][/us/pl/110/315/s611/b], Aug. 14, 2008, [122 Stat. 3339][/us/stat/122/3339].)
+([Pub. L. 89–329, title VI][/us/pl/89/329/tVI], § 613, formerly § 612, as added [Pub. L. 96–374, title VI][/us/pl/96/374/tVI], § 601(a), Oct. 3, 1980, [94 Stat. 1468][/us/stat/94/1468]; amended [Pub. L. 99–498, title VI][/us/pl/99/498/tVI], § 611, Oct. 17, 1986, [100 Stat. 1519][/us/stat/100/1519]; renumbered § 613 and amended [Pub. L. 100–418, title VI][/us/pl/100/418/tVI], §§ 6261(1), 6263, Aug. 23, 1988, [102 Stat. 1520][/us/stat/102/1520], 1523; [Pub. L. 102–325, title VI][/us/pl/102/325/tVI], § 601, July 23, 1992, [106 Stat. 732][/us/stat/106/732]; [Pub. L. 110–315, title VI][/us/pl/110/315/tVI], § 611(b), Aug. 14, 2008, [122 Stat. 3339][/us/stat/122/3339].)
 
  __Prior Provisions__ 
 
@@ -82,16 +82,16 @@
 ----------
 ----------
 
-[/us/pl/89/329/s613]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2Fs613
-[/us/pl/96/374/s601/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F374%2Fs601%2Fa
+[/us/pl/89/329/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2FtVI
+[/us/pl/96/374/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F374%2FtVI
 [/us/stat/94/1468]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F1468
-[/us/pl/99/498/s611]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F498%2Fs611
+[/us/pl/99/498/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F498%2FtVI
 [/us/stat/100/1519]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1519
-[/us/pl/100/418]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418
+[/us/pl/100/418/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2FtVI
 [/us/stat/102/1520]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1520
-[/us/pl/102/325/s601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325%2Fs601
+[/us/pl/102/325/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325%2FtVI
 [/us/stat/106/732]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F732
-[/us/pl/110/315/s611/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2Fs611%2Fb
+[/us/pl/110/315/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2FtVI
 [/us/stat/122/3339]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3339
 [/us/pl/89/329/s613]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2Fs613
 [/us/usc/t20/s1130b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1130b

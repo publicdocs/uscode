@@ -65,13 +65,13 @@
 
         The Secretary shall establish procedures by which institutions or consortia may withdraw or be terminated from the program under this part.
 
-([Pub. L. 89–329, title IV, § 454][/us/pl/89/329/s454], as added [Pub. L. 99–498, title IV, § 404][/us/pl/99/498/s404], Oct. 17, 1986, [100 Stat. 1438][/us/stat/100/1438]; amended [Pub. L. 100–50, § 12][/us/pl/100/50/s12], June 3, 1987, [101 Stat. 348][/us/stat/101/348]; [Pub. L. 102–325, title IV, § 451][/us/pl/102/325/s451], July 23, 1992, [106 Stat. 571][/us/stat/106/571]; [Pub. L. 103–66, title IV, § 4021][/us/pl/103/66/s4021], Aug. 10, 1993, [107 Stat. 345][/us/stat/107/345]; [Pub. L. 111–152, title II, § 2210(a)][/us/pl/111/152/s2210/a], Mar. 30, 2010, [124 Stat. 1078][/us/stat/124/1078].)
+([Pub. L. 89–329, title IV][/us/pl/89/329/tIV], § 454, as added [Pub. L. 99–498, title IV][/us/pl/99/498/tIV], § 404, Oct. 17, 1986, [100 Stat. 1438][/us/stat/100/1438]; amended [Pub. L. 100–50][/us/pl/100/50], § 12, June 3, 1987, [101 Stat. 348][/us/stat/101/348]; [Pub. L. 102–325, title IV][/us/pl/102/325/tIV], § 451, July 23, 1992, [106 Stat. 571][/us/stat/106/571]; [Pub. L. 103–66, title IV][/us/pl/103/66/tIV], § 4021, Aug. 10, 1993, [107 Stat. 345][/us/stat/107/345]; [Pub. L. 111–152, title II][/us/pl/111/152/tII], § 2210(a), Mar. 30, 2010, [124 Stat. 1078][/us/stat/124/1078].)
 
  __Amendments__ 
 
-    2010—Subsec. (a)(4) to (7). [Pub. L. 111–152, § 2210(a)(1)][/us/pl/111/152/s2210/a/1], redesignated pars. (5) to (7) as (4) to (6), respectively, and struck out former par. (4), which read as follows: “provide that students at the institution and their parents (with respect to such students) will be eligible to participate in the programs under part B of this subchapter at the discretion of the Secretary for the period during which such institution participates in the direct student loan program under this part, except that a student or parent may not receive loans under both this part and part B of this subchapter for the same period of enrollment;”.
+    2010—Subsec. (a)(4) to (7). [Pub. L. 111–152][/us/pl/111/152], § 2210(a)(1), redesignated pars. (5) to (7) as (4) to (6), respectively, and struck out former par. (4), which read as follows: “provide that students at the institution and their parents (with respect to such students) will be eligible to participate in the programs under part B of this subchapter at the discretion of the Secretary for the period during which such institution participates in the direct student loan program under this part, except that a student or parent may not receive loans under both this part and part B of this subchapter for the same period of enrollment;”.
 
-    Subsec. (b)(2). [Pub. L. 111–152, § 2210(a)(2)][/us/pl/111/152/s2210/a/2], substituted “(5), and (6)” for “(5), (6), and (7)”.
+    Subsec. (b)(2). [Pub. L. 111–152][/us/pl/111/152], § 2210(a)(2), substituted “(5), and (6)” for “(5), (6), and (7)”.
 
     1993—[Pub. L. 103–66][/us/pl/103/66] amended section generally, substituting provisions relating to agreements with institutions, consisting of subsecs. (a) to (c), for former provisions relating to requirements of agreements, consisting of pars. (1) to (7).
 
@@ -81,7 +81,7 @@
 
  __Effective Date of 2010 Amendment__ 
 
-[Pub. L. 111–152, title II, § 2210(b)][/us/pl/111/152/s2210/b], Mar. 30, 2010, [124 Stat. 1078][/us/stat/124/1078], provided that: 
+[Pub. L. 111–152, title II][/us/pl/111/152/tII], § 2210(b), Mar. 30, 2010, [124 Stat. 1078][/us/stat/124/1078], provided that: 
 
 > “The amendments made by subsection (a) \[amending this section\] shall take effect on July 1, 2010.”
 
@@ -104,23 +104,23 @@
 [/us/usc/t20/s1078–8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1078%E2%80%938
 [/us/usc/t20/s1078–2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1078%E2%80%932
 [/us/usc/t20/s1078–7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1078%E2%80%937
-[/us/pl/89/329/s454]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2Fs454
-[/us/pl/99/498/s404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F498%2Fs404
+[/us/pl/89/329/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2FtIV
+[/us/pl/99/498/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F498%2FtIV
 [/us/stat/100/1438]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1438
-[/us/pl/100/50/s12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F50%2Fs12
+[/us/pl/100/50]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F50
 [/us/stat/101/348]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F348
-[/us/pl/102/325/s451]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325%2Fs451
+[/us/pl/102/325/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325%2FtIV
 [/us/stat/106/571]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F571
-[/us/pl/103/66/s4021]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66%2Fs4021
+[/us/pl/103/66/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66%2FtIV
 [/us/stat/107/345]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F345
-[/us/pl/111/152/s2210/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F152%2Fs2210%2Fa
+[/us/pl/111/152/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F152%2FtII
 [/us/stat/124/1078]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1078
-[/us/pl/111/152/s2210/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F152%2Fs2210%2Fa%2F1
-[/us/pl/111/152/s2210/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F152%2Fs2210%2Fa%2F2
+[/us/pl/111/152]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F152
+[/us/pl/111/152]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F152
 [/us/pl/103/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66
 [/us/pl/102/325]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325
 [/us/pl/100/50]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F50
-[/us/pl/111/152/s2210/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F152%2Fs2210%2Fb
+[/us/pl/111/152/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F152%2FtII
 [/us/stat/124/1078]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1078
 [/us/pl/102/325]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325
 [/us/pl/102/325/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325%2Fs2

@@ -399,61 +399,61 @@
 
         All officers and directors, and those employees and paid consultants of eligible institutions, eligible lenders, guaranty agencies, loan servicing agencies, accrediting agencies or associations, State licensing agencies or boards, and entities acting as secondary markets (including the Student Loan Marketing Association), who are engaged in making decisions as to the administration of any program or funds under this subchapter and part C of subchapter I of chapter 34 of title 42 or as to the eligibility of any entity or individual to participate under this subchapter and part C of subchapter I of chapter 34 of title 42, shall report to the Secretary, in such manner and at such time as the Secretary shall require, on any financial interest which such individual may hold in any other entity participating in any program assisted under this subchapter and part C of subchapter I of chapter 34 of title 42.
 
-([Pub. L. 89–329, title IV, § 432][/us/pl/89/329/s432], as added [Pub. L. 99–498, title IV, § 402(a)][/us/pl/99/498/s402/a], Oct. 17, 1986, [100 Stat. 1401][/us/stat/100/1401]; amended [Pub. L. 100–50, § 10(x)][/us/pl/100/50/s10/x], (y), June 3, 1987, [101 Stat. 346][/us/stat/101/346]; [Pub. L. 101–239, title II, § 2006(a)][/us/pl/101/239/s2006/a], Dec. 19, 1989, [103 Stat. 2118][/us/stat/103/2118]; [Pub. L. 102–325, title IV, § 425][/us/pl/102/325/s425], July 23, 1992, [106 Stat. 543][/us/stat/106/543]; [Pub. L. 103–208, § 2(k)(2)][/us/pl/103/208/s2/k/2], (3), Dec. 20, 1993, [107 Stat. 2485][/us/stat/107/2485]; [Pub. L. 104–66, title I, § 1042(e)][/us/pl/104/66/s1042/e], Dec. 21, 1995, [109 Stat. 716][/us/stat/109/716]; [Pub. L. 105–244, title IV, § 427][/us/pl/105/244/s427], Oct. 7, 1998, [112 Stat. 1702][/us/stat/112/1702]; [Pub. L. 106–554, § 1(a)(1)][/us/pl/106/554/s1/a/1] \[title III, § 311\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–46; [Pub. L. 109–171, title VIII, § 8014(j)][/us/pl/109/171/s8014/j], Feb. 8, 2006, [120 Stat. 171][/us/stat/120/171]; [Pub. L. 110–315, title I, § 103(b)(6)][/us/pl/110/315/s103/b/6], title IV, § 433, Aug. 14, 2008, [122 Stat. 3089][/us/stat/122/3089], 3247; [Pub. L. 111–39, title IV, § 402(f)(9)][/us/pl/111/39/s402/f/9], July 1, 2009, [123 Stat. 1944][/us/stat/123/1944].)
+([Pub. L. 89–329, title IV][/us/pl/89/329/tIV], § 432, as added [Pub. L. 99–498, title IV][/us/pl/99/498/tIV], § 402(a), Oct. 17, 1986, [100 Stat. 1401][/us/stat/100/1401]; amended [Pub. L. 100–50][/us/pl/100/50], § 10(x), (y), June 3, 1987, [101 Stat. 346][/us/stat/101/346]; [Pub. L. 101–239, title II][/us/pl/101/239/tII], § 2006(a), Dec. 19, 1989, [103 Stat. 2118][/us/stat/103/2118]; [Pub. L. 102–325, title IV][/us/pl/102/325/tIV], § 425, July 23, 1992, [106 Stat. 543][/us/stat/106/543]; [Pub. L. 103–208][/us/pl/103/208], § 2(k)(2), (3), Dec. 20, 1993, [107 Stat. 2485][/us/stat/107/2485]; [Pub. L. 104–66, title I][/us/pl/104/66/tI], § 1042(e), Dec. 21, 1995, [109 Stat. 716][/us/stat/109/716]; [Pub. L. 105–244, title IV][/us/pl/105/244/tIV], § 427, Oct. 7, 1998, [112 Stat. 1702][/us/stat/112/1702]; [Pub. L. 106–554][/us/pl/106/554], § 1(a)(1) \[title III, § 311\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–46; [Pub. L. 109–171, title VIII][/us/pl/109/171/tVIII], § 8014(j), Feb. 8, 2006, [120 Stat. 171][/us/stat/120/171]; [Pub. L. 110–315, title I][/us/pl/110/315/tI], § 103(b)(6), title IV, § 433, Aug. 14, 2008, [122 Stat. 3089][/us/stat/122/3089], 3247; [Pub. L. 111–39, title IV][/us/pl/111/39/tIV], § 402(f)(9), July 1, 2009, [123 Stat. 1944][/us/stat/123/1944].)
 
  __References in Text__ 
 
-    Subparagraph (D) of paragraph (1) of subsec. (f), referred to in subsec. (f)(2), was repealed by [Pub. L. 105–244, title IV, § 427(a)(3)][/us/pl/105/244/s427/a/3], Oct. 7, 1998, [112 Stat. 1702][/us/stat/112/1702].
+    Subparagraph (D) of paragraph (1) of subsec. (f), referred to in subsec. (f)(2), was repealed by [Pub. L. 105–244, title IV][/us/pl/105/244/tIV], § 427(a)(3), Oct. 7, 1998, [112 Stat. 1702][/us/stat/112/1702].
 
     The Inspector General Act of 1978, referred to in subsec. (f)(2), is [Pub. L. 95–452][/us/pl/95/452], Oct. 12, 1978, [92 Stat. 1101][/us/stat/92/1101], as amended, which is set out in the Appendix to Title 5, Government Organization and Employees.
 
  __Prior Provisions__ 
 
-    A prior section 1082, [Pub. L. 89–329, title IV, § 432][/us/pl/89/329/s432], Nov. 8, 1965, [79 Stat. 1246][/us/stat/79/1246]; [Pub. L. 90–460, § 3(d)][/us/pl/90/460/s3/d], Aug. 3, 1968, [82 Stat. 638][/us/stat/82/638]; [Pub. L. 93–604, title VII, § 705(a)][/us/pl/93/604/s705/a], Jan. 2, 1975, [88 Stat. 1964][/us/stat/88/1964]; [Pub. L. 94–482, title I, § 127(a)][/us/pl/94/482/s127/a], Oct. 12, 1976, [90 Stat. 2127][/us/stat/90/2127]; [Pub. L. 96–88, title III, § 301(b)(2)][/us/pl/96/88/s301/b/2], Oct. 17, 1979, [93 Stat. 678][/us/stat/93/678]; [Pub. L. 96–374, title IV, § 416(c)][/us/pl/96/374/s416/c], title XIII, § 1391(a)(1), Oct. 3, 1980, [94 Stat. 1421][/us/stat/94/1421], 1503; [Pub. L. 99–272, title XVI, § 16024][/us/pl/99/272/s16024], Apr. 7, 1986, [100 Stat. 351][/us/stat/100/351], related to functions, powers, and duties of Secretary, prior to the general revision of this part by [Pub. L. 99–498][/us/pl/99/498].
+    A prior section 1082, [Pub. L. 89–329, title IV][/us/pl/89/329/tIV], § 432, Nov. 8, 1965, [79 Stat. 1246][/us/stat/79/1246]; [Pub. L. 90–460][/us/pl/90/460], § 3(d), Aug. 3, 1968, [82 Stat. 638][/us/stat/82/638]; [Pub. L. 93–604, title VII][/us/pl/93/604/tVII], § 705(a), Jan. 2, 1975, [88 Stat. 1964][/us/stat/88/1964]; [Pub. L. 94–482, title I][/us/pl/94/482/tI], § 127(a), Oct. 12, 1976, [90 Stat. 2127][/us/stat/90/2127]; [Pub. L. 96–88, title III][/us/pl/96/88/tIII], § 301(b)(2), Oct. 17, 1979, [93 Stat. 678][/us/stat/93/678]; [Pub. L. 96–374, title IV][/us/pl/96/374/tIV], § 416(c), title XIII, § 1391(a)(1), Oct. 3, 1980, [94 Stat. 1421][/us/stat/94/1421], 1503; [Pub. L. 99–272, title XVI][/us/pl/99/272/tXVI], § 16024, Apr. 7, 1986, [100 Stat. 351][/us/stat/100/351], related to functions, powers, and duties of Secretary, prior to the general revision of this part by [Pub. L. 99–498][/us/pl/99/498].
 
  __Amendments__ 
 
-    2009—Subsec. (b). [Pub. L. 111–39, § 402(f)(9)(A)][/us/pl/111/39/s402/f/9/A], made technical amendment to reference in original act which appears in text as reference to [section 1078 of this title][/us/usc/t20/s1078].
+    2009—Subsec. (b). [Pub. L. 111–39][/us/pl/111/39], § 402(f)(9)(A), made technical amendment to reference in original act which appears in text as reference to [section 1078 of this title][/us/usc/t20/s1078].
 
-    Subsec. (m)(1)(B). [Pub. L. 111–39, § 402(f)(9)(B)][/us/pl/111/39/s402/f/9/B], in cl. (i), inserted “and” at end and, in cl. (ii), substituted period for “; and”.
+    Subsec. (m)(1)(B). [Pub. L. 111–39][/us/pl/111/39], § 402(f)(9)(B), in cl. (i), inserted “and” at end and, in cl. (ii), substituted period for “; and”.
 
-    2008—Subsec. (b). [Pub. L. 110–315, § 433(a)][/us/pl/110/315/s433/a], inserted at end “The Secretary may not enter into any settlement of any claim under this subchapter and part C of subchapter I of chapter 34 of title 42 that exceeds $1,000,000 unless—” and pars. (1) and (2).
+    2008—Subsec. (b). [Pub. L. 110–315][/us/pl/110/315], § 433(a), inserted at end “The Secretary may not enter into any settlement of any claim under this subchapter and part C of subchapter I of chapter 34 of title 42 that exceeds $1,000,000 unless—” and pars. (1) and (2).
 
-    Subsec. (f)(1)(C). [Pub. L. 110–315, § 103(b)(6)(A)][/us/pl/110/315/s103/b/6/A], substituted “either of the authorizing committees” for “the Committee on Education and the Workforce of the House of Representatives or the Committee on Labor and Human Resources of the Senate”.
+    Subsec. (f)(1)(C). [Pub. L. 110–315][/us/pl/110/315], § 103(b)(6)(A), substituted “either of the authorizing committees” for “the Committee on Education and the Workforce of the House of Representatives or the Committee on Labor and Human Resources of the Senate”.
 
-    Subsec. (m)(1)(D)(i). [Pub. L. 110–315, § 433(b)][/us/pl/110/315/s433/b], inserted at end “Unless otherwise notified by the Secretary, each institution of higher education that participates in the program under this part or part C may use a master promissory note for loans under this part and part C.”
+    Subsec. (m)(1)(D)(i). [Pub. L. 110–315][/us/pl/110/315], § 433(b), inserted at end “Unless otherwise notified by the Secretary, each institution of higher education that participates in the program under this part or part C may use a master promissory note for loans under this part and part C.”
 
-    Subsec. (n)(3). [Pub. L. 110–315, § 103(b)(6)(B)][/us/pl/110/315/s103/b/6/B], substituted “authorizing committees” for “Committee on Education and the Workforce of the House of Representatives and the Committee on Labor and Human Resources of the Senate” in concluding provisions.
+    Subsec. (n)(3). [Pub. L. 110–315][/us/pl/110/315], § 103(b)(6)(B), substituted “authorizing committees” for “Committee on Education and the Workforce of the House of Representatives and the Committee on Labor and Human Resources of the Senate” in concluding provisions.
 
     2006—Subsec. (l)(1)(H). [Pub. L. 109–171][/us/pl/109/171] inserted “and anticipated graduation date” after “status change”.
 
-    2000—Subsec. (m)(1)(D)(iv). [Pub. L. 106–554, § 1(a)(1)][/us/pl/106/554/s1/a/1] \[title III, § 311(1)\], struck out heading and text of cl. (iv). Text read as follows: “Notwithstanding the provisions of any State law to the contrary, including the Uniform Commercial Code as in effect in any State, a security interest in loans made under this part created on behalf of any eligible lender as defined in [section 1085(d) of this title][/us/usc/t20/s1085/d] may be perfected either through the taking of possession of such loans (which can be through taking possession of an original or copy of the master promissory note) or by the filing of notice of such security interest in such loans in the manner provided by such State law for perfection of security interests in accounts.”
+    2000—Subsec. (m)(1)(D)(iv). [Pub. L. 106–554][/us/pl/106/554], § 1(a)(1) \[title III, § 311(1)\], struck out heading and text of cl. (iv). Text read as follows: “Notwithstanding the provisions of any State law to the contrary, including the Uniform Commercial Code as in effect in any State, a security interest in loans made under this part created on behalf of any eligible lender as defined in [section 1085(d) of this title][/us/usc/t20/s1085/d] may be perfected either through the taking of possession of such loans (which can be through taking possession of an original or copy of the master promissory note) or by the filing of notice of such security interest in such loans in the manner provided by such State law for perfection of security interests in accounts.”
 
-    Subsec. (m)(1)(E). [Pub. L. 106–554, § 1(a)(1)][/us/pl/106/554/s1/a/1] \[title III, § 311(2)\], added subpar. (E).
+    Subsec. (m)(1)(E). [Pub. L. 106–554][/us/pl/106/554], § 1(a)(1) \[title III, § 311(2)\], added subpar. (E).
 
-    1998—Subsec. (f)(1)(B). [Pub. L. 105–244, § 427(a)(1)][/us/pl/105/244/s427/a/1], substituted “section 1085(d)(1)” for “section 1085(d)(1)(D), (F), or (H)”.
+    1998—Subsec. (f)(1)(B). [Pub. L. 105–244][/us/pl/105/244], § 427(a)(1), substituted “section 1085(d)(1)” for “section 1085(d)(1)(D), (F), or (H)”.
 
-    Subsec. (f)(1)(C). [Pub. L. 105–244, § 427(a)(2)][/us/pl/105/244/s427/a/2], substituted “and the Workforce” for “and Labor” and a period for “; and” at end.
+    Subsec. (f)(1)(C). [Pub. L. 105–244][/us/pl/105/244], § 427(a)(2), substituted “and the Workforce” for “and Labor” and a period for “; and” at end.
 
-    Subsec. (f)(1)(D). [Pub. L. 105–244, § 427(a)(3)][/us/pl/105/244/s427/a/3], struck out subpar. (D) which read as follows: “any Authority required to file a plan for doing business under [section 1087–1(d) of this title][/us/usc/t20/s1087–1/d].”
+    Subsec. (f)(1)(D). [Pub. L. 105–244][/us/pl/105/244], § 427(a)(3), struck out subpar. (D) which read as follows: “any Authority required to file a plan for doing business under [section 1087–1(d) of this title][/us/usc/t20/s1087–1/d].”
 
-    Subsec. (k)(3). [Pub. L. 105–244, § 427(b)][/us/pl/105/244/s427/b], substituted “The Secretary” for “Within 1 year after July 23, 1992, the Secretary”.
+    Subsec. (k)(3). [Pub. L. 105–244][/us/pl/105/244], § 427(b), substituted “The Secretary” for “Within 1 year after July 23, 1992, the Secretary”.
 
-    Subsec. (m)(1)(A). [Pub. L. 105–244, § 427(c)(1)(A)][/us/pl/105/244/s427/c/1/A], substituted “common application forms and promissory notes, or master promissory notes,” for “a common application form and promissory note”.
+    Subsec. (m)(1)(A). [Pub. L. 105–244][/us/pl/105/244], § 427(c)(1)(A), substituted “common application forms and promissory notes, or master promissory notes,” for “a common application form and promissory note”.
 
-    Subsec. (m)(1)(B). [Pub. L. 105–244, § 427(c)(1)(B)][/us/pl/105/244/s427/c/1/B], substituted “The forms” for “The form” in introductory provisions and struck out cl. (iii) which read as follows: “permit, to the maximum extent practicable, application for any loan under this part.”
+    Subsec. (m)(1)(B). [Pub. L. 105–244][/us/pl/105/244], § 427(c)(1)(B), substituted “The forms” for “The form” in introductory provisions and struck out cl. (iii) which read as follows: “permit, to the maximum extent practicable, application for any loan under this part.”
 
-    Subsec. (m)(1)(C). [Pub. L. 105–244, § 427(c)(1)(C)][/us/pl/105/244/s427/c/1/C], amended heading and text of subpar. (C) generally. Prior to amendment, text read as follows: “The Secretary shall approve a form for use not later than 360 days after July 23, 1992.”
+    Subsec. (m)(1)(C). [Pub. L. 105–244][/us/pl/105/244], § 427(c)(1)(C), amended heading and text of subpar. (C) generally. Prior to amendment, text read as follows: “The Secretary shall approve a form for use not later than 360 days after July 23, 1992.”
 
-    Subsec. (m)(1)(D). [Pub. L. 105–244, § 427(c)(1)(D)][/us/pl/105/244/s427/c/1/D], amended heading and text of subpar. (D) generally. Prior to amendment, text read as follows: “Nothing in this section shall be construed to limit the development of electronic forms and procedures.”
+    Subsec. (m)(1)(D). [Pub. L. 105–244][/us/pl/105/244], § 427(c)(1)(D), amended heading and text of subpar. (D) generally. Prior to amendment, text read as follows: “Nothing in this section shall be construed to limit the development of electronic forms and procedures.”
 
-    Subsec. (m)(4). [Pub. L. 105–244, § 427(c)(2)][/us/pl/105/244/s427/c/2], added par. (4).
+    Subsec. (m)(4). [Pub. L. 105–244][/us/pl/105/244], § 427(c)(2), added par. (4).
 
-    Subsec. (n)(1). [Pub. L. 105–244, § 427(d)(1)][/us/pl/105/244/s427/d/1], substituted “1999” for “1993”.
+    Subsec. (n)(1). [Pub. L. 105–244][/us/pl/105/244], § 427(d)(1), substituted “1999” for “1993”.
 
-    Subsec. (n)(3). [Pub. L. 105–244, § 427(d)(2)][/us/pl/105/244/s427/d/2], substituted “and the Workforce” for “and Labor” in concluding provisions.
+    Subsec. (n)(3). [Pub. L. 105–244][/us/pl/105/244], § 427(d)(2), substituted “and the Workforce” for “and Labor” in concluding provisions.
 
-    Subsec. (p). [Pub. L. 105–244, § 427(e)][/us/pl/105/244/s427/e], struck out “State postsecondary reviewing entities designated under subpart 1 of part G of this subchapter,” after “agencies or boards,”.
+    Subsec. (p). [Pub. L. 105–244][/us/pl/105/244], § 427(e), struck out “State postsecondary reviewing entities designated under subpart 1 of part G of this subchapter,” after “agencies or boards,”.
 
     1995—Subsec. (b). [Pub. L. 104–66][/us/pl/104/66] amended heading and text of subsec. (b) generally. Prior to amendment, text read as follows: “The Secretary shall, with respect to the financial operations arising by reason of this part—
 
@@ -461,13 +461,13 @@
 
     “(2) maintain with respect to insurance under this part an integral set of accounts and prepare financial statements in accordance with generally accepted accounting principles, which shall be audited annually by the General Accounting Office in conformity with generally accepted Government auditing standards except that the transactions of the Secretary, including the settlement of insurance claims and of claims for payments pursuant to [section 1078 of this title][/us/usc/t20/s1078], and transactions related thereto and vouchers approved by the Secretary in connection with such transactions, shall be final and conclusive upon all accounting and other officers of the Government.”
 
-    1993—Subsec. (h)(2)(A), (3)(A). [Pub. L. 103–208][/us/pl/103/208] amended directory language of [Pub. L. 102–325, § 425(d)(1)][/us/pl/102/325/s425/d/1]. See 1992 Amendment notes below.
+    1993—Subsec. (h)(2)(A), (3)(A). [Pub. L. 103–208][/us/pl/103/208] amended directory language of [Pub. L. 102–325][/us/pl/102/325], § 425(d)(1). See 1992 Amendment notes below.
 
-    1992—Subsec. (a)(1). [Pub. L. 102–325, § 425(a)][/us/pl/102/325/s425/a], inserted before semicolon at end “, including regulations applicable to third party servicers (including regulations concerning financial responsibility standards for, and the assessment of liabilities for program violations against, such servicers) to establish minimum standards with respect to sound management and accountability of programs under this part, except that in no case shall damages be assessed against the United States for the actions or inactions of such servicers”.
+    1992—Subsec. (a)(1). [Pub. L. 102–325][/us/pl/102/325], § 425(a), inserted before semicolon at end “, including regulations applicable to third party servicers (including regulations concerning financial responsibility standards for, and the assessment of liabilities for program violations against, such servicers) to establish minimum standards with respect to sound management and accountability of programs under this part, except that in no case shall damages be assessed against the United States for the actions or inactions of such servicers”.
 
-    Subsecs. (a)(3), (g)(1). [Pub. L. 102–325, § 425(b)(1)][/us/pl/102/325/s425/b/1], (2), struck out “on the record” after “for a hearing”.
+    Subsecs. (a)(3), (g)(1). [Pub. L. 102–325][/us/pl/102/325], § 425(b)(1), (2), struck out “on the record” after “for a hearing”.
 
-    Subsec. (g)(2). [Pub. L. 102–325, § 425(c)(1)][/us/pl/102/325/s425/c/1], amended par. (2) generally. Prior to amendment, par. (2) read as follows: “No civil penalty may be imposed under paragraph (1) of this subsection unless it is determined that the violation, failure, or substantial misrepresentation referred to in that paragraph resulted from—
+    Subsec. (g)(2). [Pub. L. 102–325][/us/pl/102/325], § 425(c)(1), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “No civil penalty may be imposed under paragraph (1) of this subsection unless it is determined that the violation, failure, or substantial misrepresentation referred to in that paragraph resulted from—
 
     “(A)(i) a clear and consistent pattern or practice of violations, failures, or substantial misrepresentations in which the lender or guaranty agency did not maintain procedures reasonably adapted to avoid the violation, failure, or substantial misrepresentation;
 
@@ -477,29 +477,29 @@
 
     “(B) the violation, failure, or substantial misrepresentation is material.”
 
-    Subsec. (g)(3). [Pub. L. 102–325, § 425(c)(2)][/us/pl/102/325/s425/c/2], substituted “notification by the Secretary under that paragraph” for “the institution of an action under that paragraph”.
+    Subsec. (g)(3). [Pub. L. 102–325][/us/pl/102/325], § 425(c)(2), substituted “notification by the Secretary under that paragraph” for “the institution of an action under that paragraph”.
 
-    Subsec. (g)(4). [Pub. L. 102–325, § 425(c)(3)][/us/pl/102/325/s425/c/3], inserted “, and occurring prior to notification by the Secretary under that paragraph,” after “guaranty agency” and substituted “or both. The” for “or both, and the”.
+    Subsec. (g)(4). [Pub. L. 102–325][/us/pl/102/325], § 425(c)(3), inserted “, and occurring prior to notification by the Secretary under that paragraph,” after “guaranty agency” and substituted “or both. The” for “or both, and the”.
 
-    Subsec. (h)(2)(A). [Pub. L. 102–325, § 425(d)(1)][/us/pl/102/325/s425/d/1], as amended by [Pub. L. 103–208, § 2(k)(2)][/us/pl/103/208/s2/k/2], in second sentence substituted “The Secretary shall uphold the imposition of such limitation, suspension, or termination in the student loan insurance program of each of the guaranty agencies under this part, and shall notify such guaranty agencies of such sanction” for “The Secretary shall disqualify such lender from participation in the student loan insurance program of each of the guaranty agencies under this part, and notify such guaranty agencies of such disqualification”.
+    Subsec. (h)(2)(A). [Pub. L. 102–325][/us/pl/102/325], § 425(d)(1), as amended by [Pub. L. 103–208][/us/pl/103/208], § 2(k)(2), in second sentence substituted “The Secretary shall uphold the imposition of such limitation, suspension, or termination in the student loan insurance program of each of the guaranty agencies under this part, and shall notify such guaranty agencies of such sanction” for “The Secretary shall disqualify such lender from participation in the student loan insurance program of each of the guaranty agencies under this part, and notify such guaranty agencies of such disqualification”.
 
-    [Pub. L. 102–325, § 425(b)(3)][/us/pl/102/325/s425/b/3], in first sentence struck out “, in accordance with sections 556 and 557 of title 5,” after “The Secretary shall”.
+    [Pub. L. 102–325][/us/pl/102/325], § 425(b)(3), in first sentence struck out “, in accordance with sections 556 and 557 of title 5,” after “The Secretary shall”.
 
-    Subsec. (h)(2)(B), (C). [Pub. L. 102–325, § 425(d)(2)][/us/pl/102/325/s425/d/2], (3), added subpar. (B), redesignated former subpar. (B) as (C), and substituted “sanction” for “disqualification” in two places.
+    Subsec. (h)(2)(B), (C). [Pub. L. 102–325][/us/pl/102/325], § 425(d)(2), (3), added subpar. (B), redesignated former subpar. (B) as (C), and substituted “sanction” for “disqualification” in two places.
 
-    Subsec. (h)(3)(A). [Pub. L. 102–325, § 425(d)(4)][/us/pl/102/325/s425/d/4], as amended by [Pub. L. 103–208, § 2(k)(3)][/us/pl/103/208/s2/k/3], in second sentence substituted “The Secretary shall uphold the imposition of such limitation, suspension, or termination in the student loan insurance program of each of the guaranty agencies under this part, and shall notify such guaranty agencies of such sanctions” for “The Secretary shall disqualify such institution from participation in the student loan insurance program of each of the guaranty agencies under this part, and notify such guaranty agencies of such disqualification”.
+    Subsec. (h)(3)(A). [Pub. L. 102–325][/us/pl/102/325], § 425(d)(4), as amended by [Pub. L. 103–208][/us/pl/103/208], § 2(k)(3), in second sentence substituted “The Secretary shall uphold the imposition of such limitation, suspension, or termination in the student loan insurance program of each of the guaranty agencies under this part, and shall notify such guaranty agencies of such sanctions” for “The Secretary shall disqualify such institution from participation in the student loan insurance program of each of the guaranty agencies under this part, and notify such guaranty agencies of such disqualification”.
 
-    [Pub. L. 102–325, § 425(b)(4)][/us/pl/102/325/s425/b/4], in first sentence struck out “, in accordance with sections 556 and 557 of title 5,” after “The Secretary shall”.
+    [Pub. L. 102–325][/us/pl/102/325], § 425(b)(4), in first sentence struck out “, in accordance with sections 556 and 557 of title 5,” after “The Secretary shall”.
 
-    Subsec. (h)(3)(B), (C). [Pub. L. 102–325, § 425(d)(5)][/us/pl/102/325/s425/d/5], (6), added subpar. (B), redesignated former subpar. (B) as (C), and substituted “sanction” for “disqualification” in two places.
+    Subsec. (h)(3)(B), (C). [Pub. L. 102–325][/us/pl/102/325], § 425(d)(5), (6), added subpar. (B), redesignated former subpar. (B) as (C), and substituted “sanction” for “disqualification” in two places.
 
-    Subsecs. (k) to (p). [Pub. L. 102–325, § 425(e)][/us/pl/102/325/s425/e], added subsecs. (k) to (p).
+    Subsecs. (k) to (p). [Pub. L. 102–325][/us/pl/102/325], § 425(e), added subsecs. (k) to (p).
 
     1989—Subsec. (j). [Pub. L. 101–239][/us/pl/101/239] added subsec. (j).
 
-    1987—Subsec. (f)(4). [Pub. L. 100–50, § 10(x)][/us/pl/100/50/s10/x], added par. (4).
+    1987—Subsec. (f)(4). [Pub. L. 100–50][/us/pl/100/50], § 10(x), added par. (4).
 
-    Subsec. (g)(2)(A)(i), (B). [Pub. L. 100–50, § 10(y)][/us/pl/100/50/s10/y], substituted “misrepresentation” for “representation”.
+    Subsec. (g)(2)(A)(i), (B). [Pub. L. 100–50][/us/pl/100/50], § 10(y), substituted “misrepresentation” for “representation”.
 
  __Effective Date of 2009 Amendment__ 
 
@@ -547,93 +547,93 @@
 [/us/usc/t20/s1078/b/1/T]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1078%2Fb%2F1%2FT
 [/us/usc/t20/s1090]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1090
 [/us/usc/t20/s1085/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1085%2Fd
-[/us/pl/89/329/s432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2Fs432
-[/us/pl/99/498/s402/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F498%2Fs402%2Fa
+[/us/pl/89/329/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2FtIV
+[/us/pl/99/498/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F498%2FtIV
 [/us/stat/100/1401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1401
-[/us/pl/100/50/s10/x]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F50%2Fs10%2Fx
+[/us/pl/100/50]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F50
 [/us/stat/101/346]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F346
-[/us/pl/101/239/s2006/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2Fs2006%2Fa
+[/us/pl/101/239/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2FtII
 [/us/stat/103/2118]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F2118
-[/us/pl/102/325/s425]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325%2Fs425
+[/us/pl/102/325/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325%2FtIV
 [/us/stat/106/543]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F543
-[/us/pl/103/208/s2/k/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F208%2Fs2%2Fk%2F2
+[/us/pl/103/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F208
 [/us/stat/107/2485]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F2485
-[/us/pl/104/66/s1042/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F66%2Fs1042%2Fe
+[/us/pl/104/66/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F66%2FtI
 [/us/stat/109/716]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F716
-[/us/pl/105/244/s427]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2Fs427
+[/us/pl/105/244/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2FtIV
 [/us/stat/112/1702]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F1702
-[/us/pl/106/554/s1/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F1
+[/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
 [/us/stat/114/2763]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2763
-[/us/pl/109/171/s8014/j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F171%2Fs8014%2Fj
+[/us/pl/109/171/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F171%2FtVIII
 [/us/stat/120/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F171
-[/us/pl/110/315/s103/b/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2Fs103%2Fb%2F6
+[/us/pl/110/315/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2FtI
 [/us/stat/122/3089]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3089
-[/us/pl/111/39/s402/f/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F39%2Fs402%2Ff%2F9
+[/us/pl/111/39/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F39%2FtIV
 [/us/stat/123/1944]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1944
-[/us/pl/105/244/s427/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2Fs427%2Fa%2F3
+[/us/pl/105/244/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2FtIV
 [/us/stat/112/1702]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F1702
 [/us/pl/95/452]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F452
 [/us/stat/92/1101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1101
-[/us/pl/89/329/s432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2Fs432
+[/us/pl/89/329/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2FtIV
 [/us/stat/79/1246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F1246
-[/us/pl/90/460/s3/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F460%2Fs3%2Fd
+[/us/pl/90/460]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F460
 [/us/stat/82/638]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F638
-[/us/pl/93/604/s705/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F604%2Fs705%2Fa
+[/us/pl/93/604/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F604%2FtVII
 [/us/stat/88/1964]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1964
-[/us/pl/94/482/s127/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F482%2Fs127%2Fa
+[/us/pl/94/482/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F482%2FtI
 [/us/stat/90/2127]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2127
-[/us/pl/96/88/s301/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F88%2Fs301%2Fb%2F2
+[/us/pl/96/88/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F88%2FtIII
 [/us/stat/93/678]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F678
-[/us/pl/96/374/s416/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F374%2Fs416%2Fc
+[/us/pl/96/374/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F374%2FtIV
 [/us/stat/94/1421]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F1421
-[/us/pl/99/272/s16024]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F272%2Fs16024
+[/us/pl/99/272/tXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F272%2FtXVI
 [/us/stat/100/351]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F351
 [/us/pl/99/498]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F498
-[/us/pl/111/39/s402/f/9/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F39%2Fs402%2Ff%2F9%2FA
+[/us/pl/111/39]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F39
 [/us/usc/t20/s1078]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1078
-[/us/pl/111/39/s402/f/9/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F39%2Fs402%2Ff%2F9%2FB
-[/us/pl/110/315/s433/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2Fs433%2Fa
-[/us/pl/110/315/s103/b/6/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2Fs103%2Fb%2F6%2FA
-[/us/pl/110/315/s433/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2Fs433%2Fb
-[/us/pl/110/315/s103/b/6/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2Fs103%2Fb%2F6%2FB
+[/us/pl/111/39]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F39
+[/us/pl/110/315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315
+[/us/pl/110/315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315
+[/us/pl/110/315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315
+[/us/pl/110/315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315
 [/us/pl/109/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F171
-[/us/pl/106/554/s1/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F1
+[/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
 [/us/usc/t20/s1085/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1085%2Fd
-[/us/pl/106/554/s1/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F1
-[/us/pl/105/244/s427/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2Fs427%2Fa%2F1
-[/us/pl/105/244/s427/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2Fs427%2Fa%2F2
-[/us/pl/105/244/s427/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2Fs427%2Fa%2F3
+[/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
+[/us/pl/105/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244
+[/us/pl/105/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244
+[/us/pl/105/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244
 [/us/usc/t20/s1087–1/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1087%E2%80%931%2Fd
-[/us/pl/105/244/s427/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2Fs427%2Fb
-[/us/pl/105/244/s427/c/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2Fs427%2Fc%2F1%2FA
-[/us/pl/105/244/s427/c/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2Fs427%2Fc%2F1%2FB
-[/us/pl/105/244/s427/c/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2Fs427%2Fc%2F1%2FC
-[/us/pl/105/244/s427/c/1/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2Fs427%2Fc%2F1%2FD
-[/us/pl/105/244/s427/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2Fs427%2Fc%2F2
-[/us/pl/105/244/s427/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2Fs427%2Fd%2F1
-[/us/pl/105/244/s427/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2Fs427%2Fd%2F2
-[/us/pl/105/244/s427/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2Fs427%2Fe
+[/us/pl/105/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244
+[/us/pl/105/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244
+[/us/pl/105/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244
+[/us/pl/105/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244
+[/us/pl/105/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244
+[/us/pl/105/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244
+[/us/pl/105/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244
+[/us/pl/105/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244
+[/us/pl/105/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244
 [/us/pl/104/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F66
 [/us/usc/t20/s1078]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1078
 [/us/pl/103/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F208
-[/us/pl/102/325/s425/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325%2Fs425%2Fd%2F1
-[/us/pl/102/325/s425/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325%2Fs425%2Fa
-[/us/pl/102/325/s425/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325%2Fs425%2Fb%2F1
-[/us/pl/102/325/s425/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325%2Fs425%2Fc%2F1
-[/us/pl/102/325/s425/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325%2Fs425%2Fc%2F2
-[/us/pl/102/325/s425/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325%2Fs425%2Fc%2F3
-[/us/pl/102/325/s425/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325%2Fs425%2Fd%2F1
-[/us/pl/103/208/s2/k/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F208%2Fs2%2Fk%2F2
-[/us/pl/102/325/s425/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325%2Fs425%2Fb%2F3
-[/us/pl/102/325/s425/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325%2Fs425%2Fd%2F2
-[/us/pl/102/325/s425/d/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325%2Fs425%2Fd%2F4
-[/us/pl/103/208/s2/k/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F208%2Fs2%2Fk%2F3
-[/us/pl/102/325/s425/b/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325%2Fs425%2Fb%2F4
-[/us/pl/102/325/s425/d/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325%2Fs425%2Fd%2F5
-[/us/pl/102/325/s425/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325%2Fs425%2Fe
+[/us/pl/102/325]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325
+[/us/pl/102/325]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325
+[/us/pl/102/325]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325
+[/us/pl/102/325]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325
+[/us/pl/102/325]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325
+[/us/pl/102/325]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325
+[/us/pl/102/325]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325
+[/us/pl/103/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F208
+[/us/pl/102/325]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325
+[/us/pl/102/325]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325
+[/us/pl/102/325]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325
+[/us/pl/103/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F208
+[/us/pl/102/325]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325
+[/us/pl/102/325]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325
+[/us/pl/102/325]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325
 [/us/pl/101/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239
-[/us/pl/100/50/s10/x]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F50%2Fs10%2Fx
-[/us/pl/100/50/s10/y]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F50%2Fs10%2Fy
+[/us/pl/100/50]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F50
+[/us/pl/100/50]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F50
 [/us/pl/111/39]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F39
 [/us/pl/110/315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315
 [/us/pl/111/39/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F39%2Fs3

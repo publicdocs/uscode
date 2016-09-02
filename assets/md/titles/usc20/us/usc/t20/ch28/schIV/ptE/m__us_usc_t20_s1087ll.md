@@ -67,25 +67,25 @@
 
     (13) at the option of the institution, for a student in a program requiring professional licensure or certification, the one-time cost of obtaining the first professional credentials (as determined by the institution).
 
-([Pub. L. 89–329, title IV, § 472][/us/pl/89/329/s472], as added [Pub. L. 99–498, title IV, § 406(a)][/us/pl/99/498/s406/a], Oct. 17, 1986, [100 Stat. 1454][/us/stat/100/1454]; amended [Pub. L. 102–325, title IV, § 471(a)][/us/pl/102/325/s471/a], July 23, 1992, [106 Stat. 585][/us/stat/106/585]; [Pub. L. 103–208, § 2(g)(1)][/us/pl/103/208/s2/g/1], Dec. 20, 1993, [107 Stat. 2471][/us/stat/107/2471]; [Pub. L. 105–244, title IV, § 471][/us/pl/105/244/s471], Oct. 7, 1998, [112 Stat. 1729][/us/stat/112/1729]; [Pub. L. 109–171, title VIII, § 8016][/us/pl/109/171/s8016], Feb. 8, 2006, [120 Stat. 172][/us/stat/120/172]; [Pub. L. 110–315, title IV, § 471(a)][/us/pl/110/315/s471/a], Aug. 14, 2008, [122 Stat. 3269][/us/stat/122/3269].)
+([Pub. L. 89–329, title IV][/us/pl/89/329/tIV], § 472, as added [Pub. L. 99–498, title IV][/us/pl/99/498/tIV], § 406(a), Oct. 17, 1986, [100 Stat. 1454][/us/stat/100/1454]; amended [Pub. L. 102–325, title IV][/us/pl/102/325/tIV], § 471(a), July 23, 1992, [106 Stat. 585][/us/stat/106/585]; [Pub. L. 103–208][/us/pl/103/208], § 2(g)(1), Dec. 20, 1993, [107 Stat. 2471][/us/stat/107/2471]; [Pub. L. 105–244, title IV][/us/pl/105/244/tIV], § 471, Oct. 7, 1998, [112 Stat. 1729][/us/stat/112/1729]; [Pub. L. 109–171, title VIII][/us/pl/109/171/tVIII], § 8016, Feb. 8, 2006, [120 Stat. 172][/us/stat/120/172]; [Pub. L. 110–315, title IV][/us/pl/110/315/tIV], § 471(a), Aug. 14, 2008, [122 Stat. 3269][/us/stat/122/3269].)
 
  __Amendments__ 
 
     2008—Par. (3)(C), (D). [Pub. L. 110–315][/us/pl/110/315] added subpar. (C) and redesignated former subpar. (C) as (D).
 
-    2006—Par. (4). [Pub. L. 109–171, § 8016(1)][/us/pl/109/171/s8016/1], added par. (4) and struck out former par. (4), which read as follows: “for less than half-time students (as determined by the institution) tuition and fees and an allowance for only books, supplies, and transportation (as determined by the institution) and dependent care expenses (in accordance with paragraph (8));”.
+    2006—Par. (4). [Pub. L. 109–171][/us/pl/109/171], § 8016(1), added par. (4) and struck out former par. (4), which read as follows: “for less than half-time students (as determined by the institution) tuition and fees and an allowance for only books, supplies, and transportation (as determined by the institution) and dependent care expenses (in accordance with paragraph (8));”.
 
-    Par. (13). [Pub. L. 109–171, § 8016(2)][/us/pl/109/171/s8016/2]–(4), added par. (13).
+    Par. (13). [Pub. L. 109–171][/us/pl/109/171], § 8016(2)–(4), added par. (13).
 
-    1998—Par. (2). [Pub. L. 105–244, § 471(1)][/us/pl/105/244/s471/1], inserted “, including a reasonable allowance for the documented rental or purchase of a personal computer,” after “personal expenses”.
+    1998—Par. (2). [Pub. L. 105–244][/us/pl/105/244], § 471(1), inserted “, including a reasonable allowance for the documented rental or purchase of a personal computer,” after “personal expenses”.
 
-    Par. (3)(A). [Pub. L. 105–244, § 471(2)(A)][/us/pl/105/244/s471/2/A], substituted “determined by the institution” for “of not less than $1,500”.
+    Par. (3)(A). [Pub. L. 105–244][/us/pl/105/244], § 471(2)(A), substituted “determined by the institution” for “of not less than $1,500”.
 
-    Par. (3)(C). [Pub. L. 105–244, § 471(2)(B)][/us/pl/105/244/s471/2/B], struck out “, except that the amount may not be less than $2,500” after “room and board”.
+    Par. (3)(C). [Pub. L. 105–244][/us/pl/105/244], § 471(2)(B), struck out “, except that the amount may not be less than $2,500” after “room and board”.
 
-    Par. (10). [Pub. L. 105–244, § 471(3)][/us/pl/105/244/s471/3], substituted a semicolon for “, but this paragraph shall not be construed to permit including the cost of rental or purchase of equipment;”.
+    Par. (10). [Pub. L. 105–244][/us/pl/105/244], § 471(3), substituted a semicolon for “, but this paragraph shall not be construed to permit including the cost of rental or purchase of equipment;”.
 
-    Par. (11). [Pub. L. 105–244, § 471(4)][/us/pl/105/244/s471/4], substituted “engaged” for “placed”.
+    Par. (11). [Pub. L. 105–244][/us/pl/105/244], § 471(4), substituted “engaged” for “placed”.
 
     1993—Par. (12). [Pub. L. 103–208][/us/pl/103/208] added par. (12).
 
@@ -93,7 +93,7 @@
 
  __Effective Date of 2008 Amendment__ 
 
-[Pub. L. 110–315, title IV, § 471(b)][/us/pl/110/315/s471/b], Aug. 14, 2008, [122 Stat. 3269][/us/stat/122/3269], provided that: 
+[Pub. L. 110–315, title IV][/us/pl/110/315/tIV], § 471(b), Aug. 14, 2008, [122 Stat. 3269][/us/stat/122/3269], provided that: 
 
 > “The amendments made by subsection (a) \[amending this section\] shall take effect on July 1, 2010.”
 
@@ -121,30 +121,30 @@
 ----------
 
 [/us/usc/t37/s403/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft37%2Fs403%2Fb
-[/us/pl/89/329/s472]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2Fs472
-[/us/pl/99/498/s406/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F498%2Fs406%2Fa
+[/us/pl/89/329/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2FtIV
+[/us/pl/99/498/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F498%2FtIV
 [/us/stat/100/1454]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1454
-[/us/pl/102/325/s471/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325%2Fs471%2Fa
+[/us/pl/102/325/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325%2FtIV
 [/us/stat/106/585]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F585
-[/us/pl/103/208/s2/g/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F208%2Fs2%2Fg%2F1
+[/us/pl/103/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F208
 [/us/stat/107/2471]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F2471
-[/us/pl/105/244/s471]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2Fs471
+[/us/pl/105/244/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2FtIV
 [/us/stat/112/1729]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F1729
-[/us/pl/109/171/s8016]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F171%2Fs8016
+[/us/pl/109/171/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F171%2FtVIII
 [/us/stat/120/172]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F172
-[/us/pl/110/315/s471/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2Fs471%2Fa
+[/us/pl/110/315/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2FtIV
 [/us/stat/122/3269]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3269
 [/us/pl/110/315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315
-[/us/pl/109/171/s8016/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F171%2Fs8016%2F1
-[/us/pl/109/171/s8016/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F171%2Fs8016%2F2
-[/us/pl/105/244/s471/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2Fs471%2F1
-[/us/pl/105/244/s471/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2Fs471%2F2%2FA
-[/us/pl/105/244/s471/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2Fs471%2F2%2FB
-[/us/pl/105/244/s471/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2Fs471%2F3
-[/us/pl/105/244/s471/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2Fs471%2F4
+[/us/pl/109/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F171
+[/us/pl/109/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F171
+[/us/pl/105/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244
+[/us/pl/105/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244
+[/us/pl/105/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244
+[/us/pl/105/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244
+[/us/pl/105/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244
 [/us/pl/103/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F208
 [/us/pl/102/325]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325
-[/us/pl/110/315/s471/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2Fs471%2Fb
+[/us/pl/110/315/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2FtIV
 [/us/stat/122/3269]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3269
 [/us/pl/109/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F171
 [/us/pl/109/171/s8001/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F171%2Fs8001%2Fc

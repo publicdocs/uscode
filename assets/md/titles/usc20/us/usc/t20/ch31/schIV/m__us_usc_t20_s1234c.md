@@ -29,7 +29,7 @@
 
     (b) Any action, or failure to take action, by the Secretary under this section shall not preclude the Secretary from seeking a recovery of funds under [section 1234a of this title][/us/usc/t20/s1234a].
 
-([Pub. L. 90–247, title IV, § 454][/us/pl/90/247/s454], as added [Pub. L. 95–561, title XII, § 1232][/us/pl/95/561/s1232], Nov. 1, 1978, [92 Stat. 2349][/us/stat/92/2349]; amended [Pub. L. 100–297, title III, § 3501(a)][/us/pl/100/297/s3501/a], Apr. 28, 1988, [102 Stat. 354][/us/stat/102/354].)
+([Pub. L. 90–247, title IV][/us/pl/90/247/tIV], § 454, as added [Pub. L. 95–561, title XII][/us/pl/95/561/tXII], § 1232, Nov. 1, 1978, [92 Stat. 2349][/us/stat/92/2349]; amended [Pub. L. 100–297, title III][/us/pl/100/297/tIII], § 3501(a), Apr. 28, 1988, [102 Stat. 354][/us/stat/102/354].)
 
  __Amendments__ 
 
@@ -50,10 +50,10 @@
 [/us/usc/t20/s1234e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1234e
 [/us/usc/t20/s1234f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1234f
 [/us/usc/t20/s1234a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1234a
-[/us/pl/90/247/s454]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F247%2Fs454
-[/us/pl/95/561/s1232]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F561%2Fs1232
+[/us/pl/90/247/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F247%2FtIV
+[/us/pl/95/561/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F561%2FtXII
 [/us/stat/92/2349]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2349
-[/us/pl/100/297/s3501/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F297%2Fs3501%2Fa
+[/us/pl/100/297/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F297%2FtIII
 [/us/stat/102/354]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F354
 [/us/pl/100/297]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F297
 [/us/usc/t20/s1234e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1234e

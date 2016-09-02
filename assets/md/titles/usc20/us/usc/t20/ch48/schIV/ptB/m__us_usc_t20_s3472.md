@@ -17,7 +17,7 @@
 
     Except as otherwise provided in this chapter, the Secretary may delegate any function to such officers and employees of the Department as the Secretary may designate, and may authorize such successive redelegations of such functions within the Department as may be necessary or appropriate. No delegation of functions by the Secretary under this section or under any other provision of this chapter shall relieve the Secretary of responsibility for the administration of such functions.
 
-([Pub. L. 96–88, title IV, § 412][/us/pl/96/88/s412], Oct. 17, 1979, [93 Stat. 684][/us/stat/93/684].)
+([Pub. L. 96–88, title IV][/us/pl/96/88/tIV], § 412, Oct. 17, 1979, [93 Stat. 684][/us/stat/93/684].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/96/88/s412]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F88%2Fs412
+[/us/pl/96/88/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F88%2FtIV
 [/us/stat/93/684]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F684
 
 

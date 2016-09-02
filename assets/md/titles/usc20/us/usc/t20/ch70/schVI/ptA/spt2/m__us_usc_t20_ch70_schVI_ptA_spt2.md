@@ -11,13 +11,13 @@
 ----------
 ----------
 
-[Previous](./../../../../../../..//us/usc/t20/ch70/schVI/ptA/spt1/m__us_usc_t20_s7301b.md) | [Next](./../../../../../../..//us/usc/t20/ch70/schVI/ptA/spt2/m__us_usc_t20_s7305.md) | [Root of Title](./../../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fch70%2FschVI%2FptA%2Fspt2)
+[Previous](./../../../../../../..//us/usc/t20/ch70/schVI/ptA/spt1/m__us_usc_t20_s7429.md) | [Next](./../../../../../../..//us/usc/t20/ch70/schVI/ptA/spt2/m__us_usc_t20_s7441.md) | [Root of Title](./../../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fch70%2FschVI%2FptA%2Fspt2)
 
-##### subpart 2—funding transferability for state and local educational agencies
+##### subpart 2—special programs and projects to improve educational opportunities for indian children
 
 ----------
 
-[Previous](./../../../../../../..//us/usc/t20/ch70/schVI/ptA/spt1/m__us_usc_t20_s7301b.md) | [Next](./../../../../../../..//us/usc/t20/ch70/schVI/ptA/spt2/m__us_usc_t20_s7305.md) | [Root of Title](./../../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fch70%2FschVI%2FptA%2Fspt2)
+[Previous](./../../../../../../..//us/usc/t20/ch70/schVI/ptA/spt1/m__us_usc_t20_s7429.md) | [Next](./../../../../../../..//us/usc/t20/ch70/schVI/ptA/spt2/m__us_usc_t20_s7441.md) | [Root of Title](./../../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fch70%2FschVI%2FptA%2Fspt2)
 
 ----------
 ----------

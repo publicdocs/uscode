@@ -21,7 +21,7 @@
 
     (2) $2,000,000 shall be available to carry out [section 9814 of this title][/us/usc/t20/s9814] for each of fiscal years 2011 through 2013.
 
-([Pub. L. 110–69, title VI, § 6116][/us/pl/110/69/s6116], Aug. 9, 2007, [121 Stat. 634][/us/stat/121/634]; [Pub. L. 111–358, title X, § 1003(a)][/us/pl/111/358/s1003/a], Jan. 4, 2011, [124 Stat. 4048][/us/stat/124/4048].)
+([Pub. L. 110–69, title VI][/us/pl/110/69/tVI], § 6116, Aug. 9, 2007, [121 Stat. 634][/us/stat/121/634]; [Pub. L. 111–358, title X][/us/pl/111/358/tX], § 1003(a), Jan. 4, 2011, [124 Stat. 4048][/us/stat/124/4048].)
 
  __Amendments__ 
 
@@ -40,9 +40,9 @@
 
 [/us/usc/t20/s9813]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs9813
 [/us/usc/t20/s9814]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs9814
-[/us/pl/110/69/s6116]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F69%2Fs6116
+[/us/pl/110/69/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F69%2FtVI
 [/us/stat/121/634]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F634
-[/us/pl/111/358/s1003/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F358%2Fs1003%2Fa
+[/us/pl/111/358/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F358%2FtX
 [/us/stat/124/4048]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F4048
 [/us/pl/111/358]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F358
 [/us/usc/t20/s9813]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs9813

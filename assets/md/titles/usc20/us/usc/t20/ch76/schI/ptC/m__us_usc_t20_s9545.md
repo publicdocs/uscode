@@ -27,7 +27,7 @@
 
         The Statistics Commissioner shall issue regular and, as necessary, special statistical reports on education topics, particularly in the core academic areas of reading, mathematics, and science, consistent with the priorities and the mission of the Statistics Center.
 
-([Pub. L. 107–279, title I, § 155][/us/pl/107/279/s155], Nov. 5, 2002, [116 Stat. 1960][/us/stat/116/1960].)
+([Pub. L. 107–279, title I][/us/pl/107/279/tI], § 155, Nov. 5, 2002, [116 Stat. 1960][/us/stat/116/1960].)
 
 ----------
 
@@ -37,7 +37,7 @@
 ----------
 
 [/us/usc/t20/s9576]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs9576
-[/us/pl/107/279/s155]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F279%2Fs155
+[/us/pl/107/279/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F279%2FtI
 [/us/stat/116/1960]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1960
 
 

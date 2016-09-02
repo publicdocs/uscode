@@ -53,7 +53,7 @@
 
     (8) it is fitting that the leadership and vision of Stewart L. Udall in the areas of environmental and Native American policy be jointly honored with that of Morris K. Udall through the foundation bearing the Udall name.
 
-([Pub. L. 102–259, § 3][/us/pl/102/259/s3], Mar. 19, 1992, [106 Stat. 78][/us/stat/106/78]; [Pub. L. 111–90, § 3][/us/pl/111/90/s3], Nov. 3, 2009, [123 Stat. 2976][/us/stat/123/2976].)
+([Pub. L. 102–259][/us/pl/102/259], § 3, Mar. 19, 1992, [106 Stat. 78][/us/stat/106/78]; [Pub. L. 111–90][/us/pl/111/90], § 3, Nov. 3, 2009, [123 Stat. 2976][/us/stat/123/2976].)
 
  __Amendments__ 
 
@@ -61,31 +61,31 @@
 
  __Short Title of 2009 Amendment__ 
 
-[Pub. L. 111–90, § 1][/us/pl/111/90/s1], Nov. 3, 2009, [123 Stat. 2976][/us/stat/123/2976], provided that: 
+[Pub. L. 111–90][/us/pl/111/90], § 1, Nov. 3, 2009, [123 Stat. 2976][/us/stat/123/2976], provided that: 
 
 > “This Act \[amending this section, sections 5602, 5603, 5605 to 5607, 5607b, and 5608 of this title, and provisions set out as note under this section\] may be cited as the ‘Morris K. Udall Scholarship and Excellence in National Environmental Policy Amendments Act of 2009’.”
 
  __Short Title of 2003 Amendment__ 
 
-[Pub. L. 108–160, § 1][/us/pl/108/160/s1], Dec. 6, 2003, [117 Stat. 2013][/us/stat/117/2013], provided that: 
+[Pub. L. 108–160][/us/pl/108/160], § 1, Dec. 6, 2003, [117 Stat. 2013][/us/stat/117/2013], provided that: 
 
 > “This Act \[amending [section 5609 of this title][/us/usc/t20/s5609]\] may be cited as the ‘Environmental Policy and Conflict Resolution Advancement Act of 2003’.”
 
  __Short Title of 1998 Amendment__ 
 
-[Pub. L. 105–156, § 1][/us/pl/105/156/s1], Feb. 11, 1998, [112 Stat. 8][/us/stat/112/8], provided that: 
+[Pub. L. 105–156][/us/pl/105/156], § 1, Feb. 11, 1998, [112 Stat. 8][/us/stat/112/8], provided that: 
 
 > “This Act \[enacting sections 5607a and 5607b of this title and amending sections 5602 to 5607, 5608, and 5609 of this title\] may be cited as the ‘Environmental Policy and Conflict Resolution Act of 1998’.”
 
  __Short Title__ 
 
-[Pub. L. 102–259, § 1][/us/pl/102/259/s1], Mar. 19, 1992, [106 Stat. 78][/us/stat/106/78], as amended by [Pub. L. 111–90, § 2][/us/pl/111/90/s2], Nov. 3, 2009, [123 Stat. 2976][/us/stat/123/2976], provided that: 
+[Pub. L. 102–259][/us/pl/102/259], § 1, Mar. 19, 1992, [106 Stat. 78][/us/stat/106/78], as amended by [Pub. L. 111–90][/us/pl/111/90], § 2, Nov. 3, 2009, [123 Stat. 2976][/us/stat/123/2976], provided that: 
 
 > “This Act \[enacting this chapter\] may be cited as the ‘Morris K. Udall and Stewart L. Udall Foundation Act’.”
 
  __Repeal of Previous Legislation__ 
 
-[Pub. L. 102–259, § 2][/us/pl/102/259/s2], Mar. 19, 1992, [106 Stat. 78][/us/stat/106/78], provided that: 
+[Pub. L. 102–259][/us/pl/102/259], § 2, Mar. 19, 1992, [106 Stat. 78][/us/stat/106/78], provided that: 
 
 > “The Morris K. Udall Scholarship and Excellence in National Environmental Policy Act, S. 1176, One Hundred Second Congress, is hereby repealed.”
 
@@ -98,23 +98,23 @@
 ----------
 ----------
 
-[/us/pl/102/259/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F259%2Fs3
+[/us/pl/102/259]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F259
 [/us/stat/106/78]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F78
-[/us/pl/111/90/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F90%2Fs3
+[/us/pl/111/90]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F90
 [/us/stat/123/2976]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F2976
 [/us/pl/111/90]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F90
-[/us/pl/111/90/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F90%2Fs1
+[/us/pl/111/90]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F90
 [/us/stat/123/2976]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F2976
-[/us/pl/108/160/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F160%2Fs1
+[/us/pl/108/160]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F160
 [/us/stat/117/2013]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2013
 [/us/usc/t20/s5609]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs5609
-[/us/pl/105/156/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F156%2Fs1
+[/us/pl/105/156]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F156
 [/us/stat/112/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F8
-[/us/pl/102/259/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F259%2Fs1
+[/us/pl/102/259]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F259
 [/us/stat/106/78]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F78
-[/us/pl/111/90/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F90%2Fs2
+[/us/pl/111/90]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F90
 [/us/stat/123/2976]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F2976
-[/us/pl/102/259/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F259%2Fs2
+[/us/pl/102/259]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F259
 [/us/stat/106/78]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F78
 
 

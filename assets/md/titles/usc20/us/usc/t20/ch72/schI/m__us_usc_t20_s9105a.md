@@ -137,7 +137,7 @@
 
         The Director, with the advice of the Museum and Library Services Board, shall coordinate the development and implementation of policies and activities as described in subsections (f) and (g) of [section 9103 of this title][/us/usc/t20/s9103].
 
-([Pub. L. 94–462, title II, § 207][/us/pl/94/462/s207], as added [Pub. L. 108–81, title I, § 104(2)][/us/pl/108/81/s104/2], Sept. 25, 2003, [117 Stat. 993][/us/stat/117/993]; amended [Pub. L. 111–340, title I, § 104][/us/pl/111/340/s104], Dec. 22, 2010, [124 Stat. 3597][/us/stat/124/3597]; [Pub. L. 112–166, § 2(r)][/us/pl/112/166/s2/r], Aug. 10, 2012, [126 Stat. 1288][/us/stat/126/1288].)
+([Pub. L. 94–462, title II][/us/pl/94/462/tII], § 207, as added [Pub. L. 108–81, title I][/us/pl/108/81/tI], § 104(2), Sept. 25, 2003, [117 Stat. 993][/us/stat/117/993]; amended [Pub. L. 111–340, title I][/us/pl/111/340/tI], § 104, Dec. 22, 2010, [124 Stat. 3597][/us/stat/124/3597]; [Pub. L. 112–166][/us/pl/112/166], § 2(r), Aug. 10, 2012, [126 Stat. 1288][/us/stat/126/1288].)
 
  __Prior Provisions__ 
 
@@ -149,23 +149,23 @@
 
     2012—Subsec. (b)(1)(D), (E). [Pub. L. 112–166][/us/pl/112/166] struck out “, by and with the advice and consent of the Senate” after “President”.
 
-    2010—Subsec. (b)(1)(D) to (F). [Pub. L. 111–340, § 104(1)(A)][/us/pl/111/340/s104/1/A], redesignated subpars. (E) and (F) as (D) and (E), respectively, and struck out former subpar. (D) which read as follows: “The Chairman of the National Commission on Libraries and Information Science.”
+    2010—Subsec. (b)(1)(D) to (F). [Pub. L. 111–340][/us/pl/111/340], § 104(1)(A), redesignated subpars. (E) and (F) as (D) and (E), respectively, and struck out former subpar. (D) which read as follows: “The Chairman of the National Commission on Libraries and Information Science.”
 
-    Subsec. (b)(2)(A). [Pub. L. 111–340, § 104(1)(B)(i)][/us/pl/111/340/s104/1/B/i], substituted “(1)(D)” for “(1)(E)” in introductory provisions.
+    Subsec. (b)(2)(A). [Pub. L. 111–340][/us/pl/111/340], § 104(1)(B)(i), substituted “(1)(D)” for “(1)(E)” in introductory provisions.
 
-    Subsec. (b)(2)(B). [Pub. L. 111–340, § 104(1)(B)(ii)][/us/pl/111/340/s104/1/B/ii], substituted “(1)(E)” for “(1)(F)” in introductory provisions.
+    Subsec. (b)(2)(B). [Pub. L. 111–340][/us/pl/111/340], § 104(1)(B)(ii), substituted “(1)(E)” for “(1)(F)” in introductory provisions.
 
-    Subsec. (b)(4). [Pub. L. 111–340, § 104(1)(C)][/us/pl/111/340/s104/1/C], inserted “and” after “Library Services,” and struck out “, and the Chairman of the National Commission on Library and Information Science” before “shall”.
+    Subsec. (b)(4). [Pub. L. 111–340][/us/pl/111/340], § 104(1)(C), inserted “and” after “Library Services,” and struck out “, and the Chairman of the National Commission on Library and Information Science” before “shall”.
 
-    Subsec. (c)(1). [Pub. L. 111–340, § 104(2)(A)][/us/pl/111/340/s104/2/A], substituted “Each” for “Except as otherwise provided in this subsection, each” and “(D) or (E)” for “(E) or (F)”.
+    Subsec. (c)(1). [Pub. L. 111–340][/us/pl/111/340], § 104(2)(A), substituted “Each” for “Except as otherwise provided in this subsection, each” and “(D) or (E)” for “(E) or (F)”.
 
-    Subsec. (c)(2). [Pub. L. 111–340, § 104(2)(B)][/us/pl/111/340/s104/2/B], substituted “Authority to adjust terms” for “Initial Board appointments” in heading, struck out subpars. (A) and (B) related to treatment of members serving on effective date and first appointments and subpar. (C) designation and heading, and substituted “The terms of the members” for “The terms of the first members”.
+    Subsec. (c)(2). [Pub. L. 111–340][/us/pl/111/340], § 104(2)(B), substituted “Authority to adjust terms” for “Initial Board appointments” in heading, struck out subpars. (A) and (B) related to treatment of members serving on effective date and first appointments and subpar. (C) designation and heading, and substituted “The terms of the members” for “The terms of the first members”.
 
-    Subsec. (d)(1). [Pub. L. 111–340, § 104(3)(A)][/us/pl/111/340/s104/3/A], substituted “relating to museum, library, and information services” for “relating to museum and library services, including financial assistance awarded under this chapter”.
+    Subsec. (d)(1). [Pub. L. 111–340][/us/pl/111/340], § 104(3)(A), substituted “relating to museum, library, and information services” for “relating to museum and library services, including financial assistance awarded under this chapter”.
 
-    Subsec. (d)(2). [Pub. L. 111–340, § 104(3)(B)][/us/pl/111/340/s104/3/B], added par. (2) and struck out former par. (2). Prior to amendment, text read as follows: “The Museum and Library Services Board shall advise the Director in making awards under [section 9107 of this title][/us/usc/t20/s9107].”
+    Subsec. (d)(2). [Pub. L. 111–340][/us/pl/111/340], § 104(3)(B), added par. (2) and struck out former par. (2). Prior to amendment, text read as follows: “The Museum and Library Services Board shall advise the Director in making awards under [section 9107 of this title][/us/usc/t20/s9107].”
 
-    Subsec. (i). [Pub. L. 111–340, § 104(4)][/us/pl/111/340/s104/4], substituted “coordinate the development and implementation of policies and activities as described in subsections (f) and (g) of [section 9103 of this title][/us/usc/t20/s9103]” for “take steps to ensure that the policies and activities of the Institute are coordinated with other activities of the Federal Government”.
+    Subsec. (i). [Pub. L. 111–340][/us/pl/111/340], § 104(4), substituted “coordinate the development and implementation of policies and activities as described in subsections (f) and (g) of [section 9103 of this title][/us/usc/t20/s9103]” for “take steps to ensure that the policies and activities of the Institute are coordinated with other activities of the Federal Government”.
 
  __Effective Date of 2012 Amendment__ 
 
@@ -181,12 +181,12 @@
 [/us/usc/t20/s9107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs9107
 [/us/usc/t5/s5108]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5108
 [/us/usc/t20/s9103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs9103
-[/us/pl/94/462/s207]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F462%2Fs207
-[/us/pl/108/81/s104/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F81%2Fs104%2F2
+[/us/pl/94/462/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F462%2FtII
+[/us/pl/108/81/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F81%2FtI
 [/us/stat/117/993]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F993
-[/us/pl/111/340/s104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F340%2Fs104
+[/us/pl/111/340/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F340%2FtI
 [/us/stat/124/3597]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3597
-[/us/pl/112/166/s2/r]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F166%2Fs2%2Fr
+[/us/pl/112/166]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F166
 [/us/stat/126/1288]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1288
 [/us/pl/94/462/s207]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F462%2Fs207
 [/us/usc/t20/s9106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs9106
@@ -195,16 +195,16 @@
 [/us/pl/94/462]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F462
 [/us/pl/104/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208
 [/us/pl/112/166]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F166
-[/us/pl/111/340/s104/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F340%2Fs104%2F1%2FA
-[/us/pl/111/340/s104/1/B/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F340%2Fs104%2F1%2FB%2Fi
-[/us/pl/111/340/s104/1/B/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F340%2Fs104%2F1%2FB%2Fii
-[/us/pl/111/340/s104/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F340%2Fs104%2F1%2FC
-[/us/pl/111/340/s104/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F340%2Fs104%2F2%2FA
-[/us/pl/111/340/s104/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F340%2Fs104%2F2%2FB
-[/us/pl/111/340/s104/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F340%2Fs104%2F3%2FA
-[/us/pl/111/340/s104/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F340%2Fs104%2F3%2FB
+[/us/pl/111/340]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F340
+[/us/pl/111/340]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F340
+[/us/pl/111/340]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F340
+[/us/pl/111/340]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F340
+[/us/pl/111/340]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F340
+[/us/pl/111/340]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F340
+[/us/pl/111/340]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F340
+[/us/pl/111/340]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F340
 [/us/usc/t20/s9107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs9107
-[/us/pl/111/340/s104/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F340%2Fs104%2F4
+[/us/pl/111/340]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F340
 [/us/usc/t20/s9103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs9103
 [/us/pl/112/166]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F166
 [/us/pl/112/166/s6/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F166%2Fs6%2Fa

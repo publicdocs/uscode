@@ -549,87 +549,87 @@
 
         (2) additional information regarding the steps a student or family member may take in order to seek an adjustment under [section 1087tt of this title][/us/usc/t20/s1087tt].
 
-([Pub. L. 89–329, title IV, § 483][/us/pl/89/329/s483], as added [Pub. L. 99–498, title IV, § 407(a)][/us/pl/99/498/s407/a], Oct. 17, 1986, [100 Stat. 1478][/us/stat/100/1478]; amended [Pub. L. 100–50, § 15(3)][/us/pl/100/50/s15/3]–(6), June 3, 1987, [101 Stat. 356][/us/stat/101/356]; [Pub. L. 102–325, title IV, § 483][/us/pl/102/325/s483], July 23, 1992, [106 Stat. 612][/us/stat/106/612]; [Pub. L. 103–208, § 2(h)(8)][/us/pl/103/208/s2/h/8]–(12), Dec. 20, 1993, [107 Stat. 2476][/us/stat/107/2476]; [Pub. L. 105–244, title IV, § 482][/us/pl/105/244/s482], Oct. 7, 1998, [112 Stat. 1733][/us/stat/112/1733]; [Pub. L. 110–315, title I, § 103(b)(10)][/us/pl/110/315/s103/b/10], title IV, § 483(a), Aug. 14, 2008, [122 Stat. 3090][/us/stat/122/3090], 3272; [Pub. L. 111–39, title IV, § 407(b)(3)][/us/pl/111/39/s407/b/3], July 1, 2009, [123 Stat. 1950][/us/stat/123/1950]; [Pub. L. 111–152, title II, § 2101(b)(4)][/us/pl/111/152/s2101/b/4], Mar. 30, 2010, [124 Stat. 1073][/us/stat/124/1073].)
+([Pub. L. 89–329, title IV][/us/pl/89/329/tIV], § 483, as added [Pub. L. 99–498, title IV][/us/pl/99/498/tIV], § 407(a), Oct. 17, 1986, [100 Stat. 1478][/us/stat/100/1478]; amended [Pub. L. 100–50][/us/pl/100/50], § 15(3)–(6), June 3, 1987, [101 Stat. 356][/us/stat/101/356]; [Pub. L. 102–325, title IV][/us/pl/102/325/tIV], § 483, July 23, 1992, [106 Stat. 612][/us/stat/106/612]; [Pub. L. 103–208][/us/pl/103/208], § 2(h)(8)–(12), Dec. 20, 1993, [107 Stat. 2476][/us/stat/107/2476]; [Pub. L. 105–244, title IV][/us/pl/105/244/tIV], § 482, Oct. 7, 1998, [112 Stat. 1733][/us/stat/112/1733]; [Pub. L. 110–315, title I][/us/pl/110/315/tI], § 103(b)(10), title IV, § 483(a), Aug. 14, 2008, [122 Stat. 3090][/us/stat/122/3090], 3272; [Pub. L. 111–39, title IV][/us/pl/111/39/tIV], § 407(b)(3), July 1, 2009, [123 Stat. 1950][/us/stat/123/1950]; [Pub. L. 111–152, title II][/us/pl/111/152/tII], § 2101(b)(4), Mar. 30, 2010, [124 Stat. 1073][/us/stat/124/1073].)
 
  __Prior Provisions__ 
 
-    A prior section 1090, [Pub. L. 89–329, title IV, § 483][/us/pl/89/329/s483], as added [Pub. L. 96–374, title IV, § 451(a)][/us/pl/96/374/s451/a], Oct. 3, 1980, [94 Stat. 1448][/us/stat/94/1448], related to forms and regulations for student assistance programs, prior to the general revision of this part by [Pub. L. 99–498][/us/pl/99/498].
+    A prior section 1090, [Pub. L. 89–329, title IV][/us/pl/89/329/tIV], § 483, as added [Pub. L. 96–374, title IV][/us/pl/96/374/tIV], § 451(a), Oct. 3, 1980, [94 Stat. 1448][/us/stat/94/1448], related to forms and regulations for student assistance programs, prior to the general revision of this part by [Pub. L. 99–498][/us/pl/99/498].
 
  __Amendments__ 
 
     2010—Subsec. (e)(3)(A)(ii). [Pub. L. 111–152][/us/pl/111/152] substituted “based on the Federal Pell Grant amount, determined under [section 1070a(b)(2)(A) of this title][/us/usc/t20/s1070a/b/2/A], for which a student is eligible at the time of application” for “based on the maximum Federal Pell Grant award at the time of application”.
 
-    2009—Subsec. (a)(3)(C). [Pub. L. 111–39, § 407(b)(3)(A)][/us/pl/111/39/s407/b/3/A], inserted “that” after “except”.
+    2009—Subsec. (a)(3)(C). [Pub. L. 111–39][/us/pl/111/39], § 407(b)(3)(A), inserted “that” after “except”.
 
-    Subsec. (e)(8)(A). [Pub. L. 111–39, § 407(b)(3)(B)][/us/pl/111/39/s407/b/3/B], substituted “determine” for “identify”.
+    Subsec. (e)(8)(A). [Pub. L. 111–39][/us/pl/111/39], § 407(b)(3)(B), substituted “determine” for “identify”.
 
-    2008—Subsec. (a). [Pub. L. 110–315, § 483(a)(1)][/us/pl/110/315/s483/a/1], added pars. (1) to (12) and struck out former pars. (1) to (7), which related to forms required, charges for forms, distribution of data, contracts for collection and processing, electronic forms, third party servicers and private software providers, and parents’ social security numbers and birth dates.
+    2008—Subsec. (a). [Pub. L. 110–315][/us/pl/110/315], § 483(a)(1), added pars. (1) to (12) and struck out former pars. (1) to (7), which related to forms required, charges for forms, distribution of data, contracts for collection and processing, electronic forms, third party servicers and private software providers, and parents’ social security numbers and birth dates.
 
-    Subsec. (b). [Pub. L. 110–315, § 483(a)(2)][/us/pl/110/315/s483/a/2], (3), redesignated subsec. (c) as (b) and struck out former subsec. (b) which related to streamlined reapplication process.
+    Subsec. (b). [Pub. L. 110–315][/us/pl/110/315], § 483(a)(2), (3), redesignated subsec. (c) as (b) and struck out former subsec. (b) which related to streamlined reapplication process.
 
-    Subsec. (c). [Pub. L. 110–315, § 483(a)(4)][/us/pl/110/315/s483/a/4], substituted “or other appropriate provider of technical assistance and information on postsecondary educational services for individuals with disabilities, including the National Technical Assistance Center under [section 1140q of this title][/us/usc/t20/s1140q]. The Secretary shall continue to implement, to the extent practicable, a toll-free telephone based system to permit applicants who meet the requirements of subsection (b) or (c) of [section 1087ss of this title][/us/usc/t20/s1087ss] to submit an application over such system” for “that is authorized under [section 1485(d)(2)(C) of this title][/us/usc/t20/s1485/d/2/C]”.
+    Subsec. (c). [Pub. L. 110–315][/us/pl/110/315], § 483(a)(4), substituted “or other appropriate provider of technical assistance and information on postsecondary educational services for individuals with disabilities, including the National Technical Assistance Center under [section 1140q of this title][/us/usc/t20/s1140q]. The Secretary shall continue to implement, to the extent practicable, a toll-free telephone based system to permit applicants who meet the requirements of subsection (b) or (c) of [section 1087ss of this title][/us/usc/t20/s1087ss] to submit an application over such system” for “that is authorized under [section 1485(d)(2)(C) of this title][/us/usc/t20/s1485/d/2/C]”.
 
-    [Pub. L. 110–315, § 483(a)(3)][/us/pl/110/315/s483/a/3], redesignated subsec. (d) as (c). Former subsec. (c) redesignated (b).
+    [Pub. L. 110–315][/us/pl/110/315], § 483(a)(3), redesignated subsec. (d) as (c). Former subsec. (c) redesignated (b).
 
-    [Pub. L. 110–315, § 103(b)(10)][/us/pl/110/315/s103/b/10], substituted “authorizing committees” for “Committee on Labor and Human Resources of the Senate and the Committee on Education and the Workforce of the House of Representatives”.
+    [Pub. L. 110–315][/us/pl/110/315], § 103(b)(10), substituted “authorizing committees” for “Committee on Labor and Human Resources of the Senate and the Committee on Education and the Workforce of the House of Representatives”.
 
-    Subsec. (d). [Pub. L. 110–315, § 483(a)(5)][/us/pl/110/315/s483/a/5], added subsec. (d). Former subsec. (d) redesignated (c).
+    Subsec. (d). [Pub. L. 110–315][/us/pl/110/315], § 483(a)(5), added subsec. (d). Former subsec. (d) redesignated (c).
 
-    Subsec. (e). [Pub. L. 110–315, § 483(a)(2)][/us/pl/110/315/s483/a/2], (5), added subsec. (e) and struck out former subsec. (e). Prior to amendment, text read as follows: “Any financial aid application required to be made under this subchapter and part C of subchapter I of chapter 34 of title 42 shall include the name, signature, address or employer’s address, social security number or employer identification number, and organizational affiliation of the preparer of such financial aid application.”
+    Subsec. (e). [Pub. L. 110–315][/us/pl/110/315], § 483(a)(2), (5), added subsec. (e) and struck out former subsec. (e). Prior to amendment, text read as follows: “Any financial aid application required to be made under this subchapter and part C of subchapter I of chapter 34 of title 42 shall include the name, signature, address or employer’s address, social security number or employer identification number, and organizational affiliation of the preparer of such financial aid application.”
 
-    Subsecs. (f) to (h). [Pub. L. 110–315, § 483(a)(5)][/us/pl/110/315/s483/a/5], added subsecs. (f) to (h).
+    Subsecs. (f) to (h). [Pub. L. 110–315][/us/pl/110/315], § 483(a)(5), added subsecs. (f) to (h).
 
-    1998—Subsec. (a). [Pub. L. 105–244, § 482(a)(1)][/us/pl/105/244/s482/a/1], substituted “form development” for “form” in heading.
+    1998—Subsec. (a). [Pub. L. 105–244][/us/pl/105/244], § 482(a)(1), substituted “form development” for “form” in heading.
 
-    Subsec. (a)(1). [Pub. L. 105–244, § 482(a)(2)(D)][/us/pl/105/244/s482/a/2/D], struck out at end “For the purpose of collecting eligibility and other data for the purpose of part B of this subchapter, the Secretary shall develop a separate, identifiable loan application document (pursuant to [section 1082(m) of this title][/us/usc/t20/s1082/m]) that applicants or institutions in which the students are enrolled or accepted for enrollment shall submit directly to eligible lenders and on which the applicant shall clearly indicate a choice of a lender.”
+    Subsec. (a)(1). [Pub. L. 105–244][/us/pl/105/244], § 482(a)(2)(D), struck out at end “For the purpose of collecting eligibility and other data for the purpose of part B of this subchapter, the Secretary shall develop a separate, identifiable loan application document (pursuant to [section 1082(m) of this title][/us/usc/t20/s1082/m]) that applicants or institutions in which the students are enrolled or accepted for enrollment shall submit directly to eligible lenders and on which the applicant shall clearly indicate a choice of a lender.”
 
-    [Pub. L. 105–244, § 482(a)(2)(C)][/us/pl/105/244/s482/a/2/C], substituted “The Secretary shall include on the form developed under this subsection such data items as the Secretary determines are appropriate for inclusion. Such items shall be selected in consultation with States to assist in the awarding of State financial assistance. In no case shall the number of such data items be less than the number included on the form on October 7, 1998.” for “The Secretary may include on the form developed pursuant to this paragraph not more than eight nonfinancial data items selected in consultation with the States to assist the States in awarding State student financial assistance.”
+    [Pub. L. 105–244][/us/pl/105/244], § 482(a)(2)(C), substituted “The Secretary shall include on the form developed under this subsection such data items as the Secretary determines are appropriate for inclusion. Such items shall be selected in consultation with States to assist in the awarding of State financial assistance. In no case shall the number of such data items be less than the number included on the form on October 7, 1998.” for “The Secretary may include on the form developed pursuant to this paragraph not more than eight nonfinancial data items selected in consultation with the States to assist the States in awarding State student financial assistance.”
 
-    [Pub. L. 105–244, § 482(a)(2)(A)][/us/pl/105/244/s482/a/2/A], (B), substituted “A through D” for “A, C, and D” and struck out “and to determine the need of a student for the purpose of part B of this subchapter” after “part A of this subchapter)”.
+    [Pub. L. 105–244][/us/pl/105/244], § 482(a)(2)(A), (B), substituted “A through D” for “A, C, and D” and struck out “and to determine the need of a student for the purpose of part B of this subchapter” after “part A of this subchapter)”.
 
-    Subsec. (a)(2). [Pub. L. 105–244, § 482(a)(3)][/us/pl/105/244/s482/a/3], substituted “A through D” for “A, C, and D” in two places and struck out “and the need of a student for the purpose of part B of this subchapter,” before “may only be determined” and “or have the student’s need established for the purpose of part B of this subchapter” before “, except by use of”.
+    Subsec. (a)(2). [Pub. L. 105–244][/us/pl/105/244], § 482(a)(3), substituted “A through D” for “A, C, and D” in two places and struck out “and the need of a student for the purpose of part B of this subchapter,” before “may only be determined” and “or have the student’s need established for the purpose of part B of this subchapter” before “, except by use of”.
 
-    Subsec. (a)(3). [Pub. L. 105–244, § 482(a)(4)][/us/pl/105/244/s482/a/4], amended heading and text of par. (3) generally. Prior to amendment, text read as follows: “Institutions of higher education and States shall receive, without charge, the data collected by the Secretary using the form developed pursuant to this section for the purposes of determining need and eligibility for institutional and State financial aid awards. Entities designated by institutions of higher education or States to receive such data shall be subject to all requirements of this section, unless such requirements are waived by the Secretary.”
+    Subsec. (a)(3). [Pub. L. 105–244][/us/pl/105/244], § 482(a)(4), amended heading and text of par. (3) generally. Prior to amendment, text read as follows: “Institutions of higher education and States shall receive, without charge, the data collected by the Secretary using the form developed pursuant to this section for the purposes of determining need and eligibility for institutional and State financial aid awards. Entities designated by institutions of higher education or States to receive such data shall be subject to all requirements of this section, unless such requirements are waived by the Secretary.”
 
-    Subsec. (a)(5) to (7). [Pub. L. 105–244, § 482(a)(5)][/us/pl/105/244/s482/a/5], added pars. (5) to (7).
+    Subsec. (a)(5) to (7). [Pub. L. 105–244][/us/pl/105/244], § 482(a)(5), added pars. (5) to (7).
 
-    Subsec. (b)(1). [Pub. L. 105–244, § 482(b)][/us/pl/105/244/s482/b], struck out “, within 240 days after July 23, 1992,” after “The Secretary shall”.
+    Subsec. (b)(1). [Pub. L. 105–244][/us/pl/105/244], § 482(b), struck out “, within 240 days after July 23, 1992,” after “The Secretary shall”.
 
-    Subsec. (c). [Pub. L. 105–244, § 482(c)][/us/pl/105/244/s482/c], substituted “and the Workforce” for “and Labor”.
+    Subsec. (c). [Pub. L. 105–244][/us/pl/105/244], § 482(c), substituted “and the Workforce” for “and Labor”.
 
-    Subsec. (d). [Pub. L. 105–244, § 482(d)][/us/pl/105/244/s482/d], substituted “section 1485(d)(2)(C)” for “section 1433(c)”.
+    Subsec. (d). [Pub. L. 105–244][/us/pl/105/244], § 482(d), substituted “section 1485(d)(2)(C)” for “section 1433(c)”.
 
-    Subsec. (f). [Pub. L. 105–244, § 482(e)][/us/pl/105/244/s482/e], struck out heading and text of subsec. (f). Text read as follows: “Nothing in section 1544 of the Higher Education Amendments of 1992 shall relieve processors or institutions of higher education of any or all obligations under this section.”
+    Subsec. (f). [Pub. L. 105–244][/us/pl/105/244], § 482(e), struck out heading and text of subsec. (f). Text read as follows: “Nothing in section 1544 of the Higher Education Amendments of 1992 shall relieve processors or institutions of higher education of any or all obligations under this section.”
 
-    1993—Subsec. (a)(1). [Pub. L. 103–208, § 2(h)(8)][/us/pl/103/208/s2/h/8], made technical amendment to reference to [section 1070a(d) of this title][/us/usc/t20/s1070a/d] to correct reference to corresponding section of original act.
+    1993—Subsec. (a)(1). [Pub. L. 103–208][/us/pl/103/208], § 2(h)(8), made technical amendment to reference to [section 1070a(d) of this title][/us/usc/t20/s1070a/d] to correct reference to corresponding section of original act.
 
-    Subsec. (a)(2). [Pub. L. 103–208, § 2(h)(9)][/us/pl/103/208/s2/h/9], inserted at end “No data collected on a form for which a fee is charged shall be used to complete the form prescribed under paragraph (1).”
+    Subsec. (a)(2). [Pub. L. 103–208][/us/pl/103/208], § 2(h)(9), inserted at end “No data collected on a form for which a fee is charged shall be used to complete the form prescribed under paragraph (1).”
 
-    Subsec. (a)(3). [Pub. L. 103–208, § 2(h)(10)][/us/pl/103/208/s2/h/10], inserted at end “Entities designated by institutions of higher education or States to receive such data shall be subject to all requirements of this section, unless such requirements are waived by the Secretary.”
+    Subsec. (a)(3). [Pub. L. 103–208][/us/pl/103/208], § 2(h)(10), inserted at end “Entities designated by institutions of higher education or States to receive such data shall be subject to all requirements of this section, unless such requirements are waived by the Secretary.”
 
-    Subsecs. (d), (e). [Pub. L. 103–208, § 2(h)(12)][/us/pl/103/208/s2/h/12], redesignated subsecs. (e) and (f) as (d) and (e), respectively.
+    Subsecs. (d), (e). [Pub. L. 103–208][/us/pl/103/208], § 2(h)(12), redesignated subsecs. (e) and (f) as (d) and (e), respectively.
 
-    Subsec. (f). [Pub. L. 103–208, § 2(h)(12)][/us/pl/103/208/s2/h/12], redesignated subsec. (g) as (f). Former subsec. (f) redesignated (e).
+    Subsec. (f). [Pub. L. 103–208][/us/pl/103/208], § 2(h)(12), redesignated subsec. (g) as (f). Former subsec. (f) redesignated (e).
 
-    [Pub. L. 103–208, § 2(h)(11)][/us/pl/103/208/s2/h/11], substituted “address or employer’s address, social security number or employer identification number,” for “address, social security number,”.
+    [Pub. L. 103–208][/us/pl/103/208], § 2(h)(11), substituted “address or employer’s address, social security number or employer identification number,” for “address, social security number,”.
 
-    Subsec. (g). [Pub. L. 103–208, § 2(h)(12)][/us/pl/103/208/s2/h/12], redesignated subsec. (g) as (f).
+    Subsec. (g). [Pub. L. 103–208][/us/pl/103/208], § 2(h)(12), redesignated subsec. (g) as (f).
 
-    1992—Subsec. (a). [Pub. L. 102–325, § 483(a)][/us/pl/102/325/s483/a], added subsec. (a) and struck out former subsec. (a) which contained pars. (1) to (5) relating to a common financial aid form and processing of financial aid applications.
+    1992—Subsec. (a). [Pub. L. 102–325][/us/pl/102/325], § 483(a), added subsec. (a) and struck out former subsec. (a) which contained pars. (1) to (5) relating to a common financial aid form and processing of financial aid applications.
 
-    Subsec. (b). [Pub. L. 102–325, § 483(a)][/us/pl/102/325/s483/a], added subsec. (b) and struck out former subsec. (b) which related to certifications of capability of systems for determining expected family contributions.
+    Subsec. (b). [Pub. L. 102–325][/us/pl/102/325], § 483(a), added subsec. (b) and struck out former subsec. (b) which related to certifications of capability of systems for determining expected family contributions.
 
-    Subsec. (d). [Pub. L. 102–325, § 483(b)(1)][/us/pl/102/325/s483/b/1], struck out subsec. (d) which related to provision of early notice to students of their potential eligibility for financial aid.
+    Subsec. (d). [Pub. L. 102–325][/us/pl/102/325], § 483(b)(1), struck out subsec. (d) which related to provision of early notice to students of their potential eligibility for financial aid.
 
-    Subsec. (e). [Pub. L. 102–325, § 483(b)(2)][/us/pl/102/325/s483/b/2], amended subsec. (e) generally. Prior to amendment, subsec. (e) read as follows: “The Secretary shall contract for, or establish, and publicize a toll-free telephone number to provide timely and accurate information to the general public. The information provided shall include specific instructions on completing application forms for assistance under this subchapter and part C of subchapter I of chapter 34 of title 42.”
+    Subsec. (e). [Pub. L. 102–325][/us/pl/102/325], § 483(b)(2), amended subsec. (e) generally. Prior to amendment, subsec. (e) read as follows: “The Secretary shall contract for, or establish, and publicize a toll-free telephone number to provide timely and accurate information to the general public. The information provided shall include specific instructions on completing application forms for assistance under this subchapter and part C of subchapter I of chapter 34 of title 42.”
 
-    Subsecs. (f), (g). [Pub. L. 102–325, § 483(b)(1)][/us/pl/102/325/s483/b/1], (3), added subsecs. (f) and (g) and struck out former subsec. (f) which related to notice of student aid receipt.
+    Subsecs. (f), (g). [Pub. L. 102–325][/us/pl/102/325], § 483(b)(1), (3), added subsecs. (f) and (g) and struck out former subsec. (f) which related to notice of student aid receipt.
 
-    1987—Subsec. (a)(1). [Pub. L. 100–50, § 15(3)][/us/pl/100/50/s15/3], (4), inserted in second sentence “or institutions in which the students are enrolled or accepted for enrollment” after “that applicants” and “and on which the applicant shall clearly indicate a choice of lender” before period at end.
+    1987—Subsec. (a)(1). [Pub. L. 100–50][/us/pl/100/50], § 15(3), (4), inserted in second sentence “or institutions in which the students are enrolled or accepted for enrollment” after “that applicants” and “and on which the applicant shall clearly indicate a choice of lender” before period at end.
 
-    Subsec. (a)(2). [Pub. L. 100–50, § 15(5)][/us/pl/100/50/s15/5], substituted “not less than 5” for “not less than 3” and inserted sentence at end providing that the Secretary not select new multiple data entry processors until certain examinations and recommendations are made by the Advisory Commission on Student Financial Assistance.
+    Subsec. (a)(2). [Pub. L. 100–50][/us/pl/100/50], § 15(5), substituted “not less than 5” for “not less than 3” and inserted sentence at end providing that the Secretary not select new multiple data entry processors until certain examinations and recommendations are made by the Advisory Commission on Student Financial Assistance.
 
-    Subsecs. (b) to (f). [Pub. L. 100–50, § 15(6)][/us/pl/100/50/s15/6], added subsec. (b) and redesignated former subsecs. (b) to (e) as (c) to (f), respectively.
+    Subsecs. (b) to (f). [Pub. L. 100–50][/us/pl/100/50], § 15(6), added subsec. (b) and redesignated former subsecs. (b) to (e) as (c) to (f), respectively.
 
  __Effective Date of 2010 Amendment__ 
 
@@ -659,7 +659,7 @@
 
  __Identification of Foster Youth on FAFSA__ 
 
-[Pub. L. 113–235, div. G, title III, § 308][/us/pl/113/235/s308], Dec. 16, 2014, [128 Stat. 2504][/us/stat/128/2504], provided that: 
+[Pub. L. 113–235, div. G, title III][/us/pl/113/235/dG/tIII], § 308, Dec. 16, 2014, [128 Stat. 2504][/us/stat/128/2504], provided that: 
 
 > “The Secretary of Education shall—
 
@@ -669,11 +669,11 @@
 
     Similar provisions were contained in the following prior appropriation act:
 
-    [Pub. L. 113–76, div. H, title III, § 310][/us/pl/113/76/s310], Jan. 17, 2014, [128 Stat. 400][/us/stat/128/400].
+    [Pub. L. 113–76, div. H, title III][/us/pl/113/76/dH/tIII], § 310, Jan. 17, 2014, [128 Stat. 400][/us/stat/128/400].
 
  __Delayed Implementation of EZ FAFSA__ 
 
-[Pub. L. 111–39, title IV, § 407(a)][/us/pl/111/39/s407/a], July 1, 2009, [123 Stat. 1950][/us/stat/123/1950], provided that: 
+[Pub. L. 111–39, title IV][/us/pl/111/39/tIV], § 407(a), July 1, 2009, [123 Stat. 1950][/us/stat/123/1950], provided that: 
 
 > “Notwithstanding any other provision of law, the Secretary of Education shall be required to carry out the requirements under the following provisions of section 483 of the Higher Education Act of 1965 ([20 U.S.C. 1090][/us/usc/t20/s1090]) only for academic year 2010–2011 and subsequent academic years:
 
@@ -724,70 +724,70 @@
 [/us/usc/t20/s1087ss]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1087ss
 [/us/usc/t20/s1087tt]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1087tt
 [/us/usc/t20/s1087tt]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1087tt
-[/us/pl/89/329/s483]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2Fs483
-[/us/pl/99/498/s407/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F498%2Fs407%2Fa
+[/us/pl/89/329/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2FtIV
+[/us/pl/99/498/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F498%2FtIV
 [/us/stat/100/1478]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1478
-[/us/pl/100/50/s15/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F50%2Fs15%2F3
+[/us/pl/100/50]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F50
 [/us/stat/101/356]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F356
-[/us/pl/102/325/s483]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325%2Fs483
+[/us/pl/102/325/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325%2FtIV
 [/us/stat/106/612]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F612
-[/us/pl/103/208/s2/h/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F208%2Fs2%2Fh%2F8
+[/us/pl/103/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F208
 [/us/stat/107/2476]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F2476
-[/us/pl/105/244/s482]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2Fs482
+[/us/pl/105/244/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2FtIV
 [/us/stat/112/1733]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F1733
-[/us/pl/110/315/s103/b/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2Fs103%2Fb%2F10
+[/us/pl/110/315/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2FtI
 [/us/stat/122/3090]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3090
-[/us/pl/111/39/s407/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F39%2Fs407%2Fb%2F3
+[/us/pl/111/39/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F39%2FtIV
 [/us/stat/123/1950]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1950
-[/us/pl/111/152/s2101/b/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F152%2Fs2101%2Fb%2F4
+[/us/pl/111/152/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F152%2FtII
 [/us/stat/124/1073]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1073
-[/us/pl/89/329/s483]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2Fs483
-[/us/pl/96/374/s451/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F374%2Fs451%2Fa
+[/us/pl/89/329/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2FtIV
+[/us/pl/96/374/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F374%2FtIV
 [/us/stat/94/1448]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F1448
 [/us/pl/99/498]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F498
 [/us/pl/111/152]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F152
 [/us/usc/t20/s1070a/b/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1070a%2Fb%2F2%2FA
-[/us/pl/111/39/s407/b/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F39%2Fs407%2Fb%2F3%2FA
-[/us/pl/111/39/s407/b/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F39%2Fs407%2Fb%2F3%2FB
-[/us/pl/110/315/s483/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2Fs483%2Fa%2F1
-[/us/pl/110/315/s483/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2Fs483%2Fa%2F2
-[/us/pl/110/315/s483/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2Fs483%2Fa%2F4
+[/us/pl/111/39]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F39
+[/us/pl/111/39]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F39
+[/us/pl/110/315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315
+[/us/pl/110/315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315
+[/us/pl/110/315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315
 [/us/usc/t20/s1140q]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1140q
 [/us/usc/t20/s1087ss]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1087ss
 [/us/usc/t20/s1485/d/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1485%2Fd%2F2%2FC
-[/us/pl/110/315/s483/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2Fs483%2Fa%2F3
-[/us/pl/110/315/s103/b/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2Fs103%2Fb%2F10
-[/us/pl/110/315/s483/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2Fs483%2Fa%2F5
-[/us/pl/110/315/s483/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2Fs483%2Fa%2F2
-[/us/pl/110/315/s483/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2Fs483%2Fa%2F5
-[/us/pl/105/244/s482/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2Fs482%2Fa%2F1
-[/us/pl/105/244/s482/a/2/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2Fs482%2Fa%2F2%2FD
+[/us/pl/110/315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315
+[/us/pl/110/315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315
+[/us/pl/110/315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315
+[/us/pl/110/315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315
+[/us/pl/110/315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315
+[/us/pl/105/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244
+[/us/pl/105/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244
 [/us/usc/t20/s1082/m]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1082%2Fm
-[/us/pl/105/244/s482/a/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2Fs482%2Fa%2F2%2FC
-[/us/pl/105/244/s482/a/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2Fs482%2Fa%2F2%2FA
-[/us/pl/105/244/s482/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2Fs482%2Fa%2F3
-[/us/pl/105/244/s482/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2Fs482%2Fa%2F4
-[/us/pl/105/244/s482/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2Fs482%2Fa%2F5
-[/us/pl/105/244/s482/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2Fs482%2Fb
-[/us/pl/105/244/s482/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2Fs482%2Fc
-[/us/pl/105/244/s482/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2Fs482%2Fd
-[/us/pl/105/244/s482/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2Fs482%2Fe
-[/us/pl/103/208/s2/h/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F208%2Fs2%2Fh%2F8
+[/us/pl/105/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244
+[/us/pl/105/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244
+[/us/pl/105/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244
+[/us/pl/105/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244
+[/us/pl/105/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244
+[/us/pl/105/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244
+[/us/pl/105/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244
+[/us/pl/105/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244
+[/us/pl/105/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244
+[/us/pl/103/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F208
 [/us/usc/t20/s1070a/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1070a%2Fd
-[/us/pl/103/208/s2/h/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F208%2Fs2%2Fh%2F9
-[/us/pl/103/208/s2/h/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F208%2Fs2%2Fh%2F10
-[/us/pl/103/208/s2/h/12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F208%2Fs2%2Fh%2F12
-[/us/pl/103/208/s2/h/12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F208%2Fs2%2Fh%2F12
-[/us/pl/103/208/s2/h/11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F208%2Fs2%2Fh%2F11
-[/us/pl/103/208/s2/h/12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F208%2Fs2%2Fh%2F12
-[/us/pl/102/325/s483/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325%2Fs483%2Fa
-[/us/pl/102/325/s483/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325%2Fs483%2Fa
-[/us/pl/102/325/s483/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325%2Fs483%2Fb%2F1
-[/us/pl/102/325/s483/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325%2Fs483%2Fb%2F2
-[/us/pl/102/325/s483/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325%2Fs483%2Fb%2F1
-[/us/pl/100/50/s15/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F50%2Fs15%2F3
-[/us/pl/100/50/s15/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F50%2Fs15%2F5
-[/us/pl/100/50/s15/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F50%2Fs15%2F6
+[/us/pl/103/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F208
+[/us/pl/103/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F208
+[/us/pl/103/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F208
+[/us/pl/103/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F208
+[/us/pl/103/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F208
+[/us/pl/103/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F208
+[/us/pl/102/325]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325
+[/us/pl/102/325]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325
+[/us/pl/102/325]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325
+[/us/pl/102/325]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325
+[/us/pl/102/325]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325
+[/us/pl/100/50]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F50
+[/us/pl/100/50]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F50
+[/us/pl/100/50]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F50
 [/us/pl/111/152]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F152
 [/us/pl/111/152/s2101/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F152%2Fs2101%2Fc
 [/us/usc/t20/s1070a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1070a
@@ -811,12 +811,12 @@
 [/us/usc/t20/s1001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1001
 [/us/pl/99/498/s407/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F498%2Fs407%2Fb
 [/us/usc/t20/s1091]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1091
-[/us/pl/113/235/s308]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs308
+[/us/pl/113/235/dG/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2FdG%2FtIII
 [/us/stat/128/2504]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2504
 [/us/usc/t20/s1090]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1090
-[/us/pl/113/76/s310]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F76%2Fs310
+[/us/pl/113/76/dH/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F76%2FdH%2FtIII
 [/us/stat/128/400]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F400
-[/us/pl/111/39/s407/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F39%2Fs407%2Fa
+[/us/pl/111/39/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F39%2FtIV
 [/us/stat/123/1950]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1950
 [/us/usc/t20/s1090]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1090
 

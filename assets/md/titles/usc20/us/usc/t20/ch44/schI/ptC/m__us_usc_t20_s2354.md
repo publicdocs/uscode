@@ -37,7 +37,7 @@
 
              improve the academic and technical skills of students participating in career and technical education programs by strengthening the academic and career and technical education components of such programs through the integration of coherent and rigorous content aligned with challenging academic standards and relevant career and technical education programs to ensure learning in—
 
-                (i) the core academic subjects (as defined in [section 7801 of this title][/us/usc/t20/s7801]); and
+                (i) a well-rounded education (as defined in [section 7801 of this title][/us/usc/t20/s7801]); and
 
                 (ii) career and technical education subjects;
 
@@ -45,7 +45,7 @@
 
             (D) ensure that students who participate in such career and technical education programs are taught to the same coherent and rigorous content aligned with challenging academic standards as are taught to all other students; and
 
-            (E) encourage career and technical education students at the secondary level to enroll in rigorous and challenging courses in core academic subjects (as defined in [section 7801 of this title][/us/usc/t20/s7801]);
+            (E) encourage career and technical education students at the secondary level to enroll in rigorous and challenging courses in order to provide a well-rounded education (as defined in [section 7801 of this title][/us/usc/t20/s7801]);
 
         (4) describe how comprehensive professional development (including initial teacher preparation) for career and technical education, academic, guidance, and administrative personnel will be provided that promotes the integration of coherent and rigorous content aligned with challenging academic standards and relevant career and technical education (including curriculum development);
 
@@ -79,15 +79,23 @@
 
             (B) the transition to teaching from business and industry.
 
-([Pub. L. 88–210, title I, § 134][/us/pl/88/210/s134], as added [Pub. L. 109–270, § 1(b)][/us/pl/109/270/s1/b], Aug. 12, 2006, [120 Stat. 732][/us/stat/120/732]; amended [Pub. L. 113–128, title V, § 512(e)(5)][/us/pl/113/128/s512/e/5], July 22, 2014, [128 Stat. 1707][/us/stat/128/1707].)
+([Pub. L. 88–210, title I][/us/pl/88/210/tI], § 134, as added [Pub. L. 109–270][/us/pl/109/270], § 1(b), Aug. 12, 2006, [120 Stat. 732][/us/stat/120/732]; amended [Pub. L. 113–128, title V][/us/pl/113/128/tV], § 512(e)(5), July 22, 2014, [128 Stat. 1707][/us/stat/128/1707]; [Pub. L. 114–95, title IX][/us/pl/114/95/tIX], § 9215(n)(8), Dec. 10, 2015, [129 Stat. 2170][/us/stat/129/2170].)
 
  __Prior Provisions__ 
 
-    A prior section 2354, [Pub. L. 88–210, title I, § 134][/us/pl/88/210/s134], as added [Pub. L. 105–332, § 1(b)][/us/pl/105/332/s1/b], Oct. 31, 1998, [112 Stat. 3114][/us/stat/112/3114], related to local plan for vocational and technical education programs, prior to the general amendment of this chapter by [Pub. L. 109–270][/us/pl/109/270].
+    A prior section 2354, [Pub. L. 88–210, title I][/us/pl/88/210/tI], § 134, as added [Pub. L. 105–332][/us/pl/105/332], § 1(b), Oct. 31, 1998, [112 Stat. 3114][/us/stat/112/3114], related to local plan for vocational and technical education programs, prior to the general amendment of this chapter by [Pub. L. 109–270][/us/pl/109/270].
 
  __Amendments__ 
 
+    2015—Subsec. (b)(3)(B)(i). [Pub. L. 114–95][/us/pl/114/95], § 9215(n)(8)(A), substituted “a well-rounded education (as defined in [section 7801 of this title][/us/usc/t20/s7801])” for “the core academic subjects (as defined in [section 7801 of this title][/us/usc/t20/s7801])”.
+
+    Subsec. (b)(3)(E). [Pub. L. 114–95][/us/pl/114/95], § 9215(n)(8)(B), substituted “in order to provide a well-rounded education (as defined in [section 7801 of this title][/us/usc/t20/s7801])” for “in core academic subjects (as defined in [section 7801 of this title][/us/usc/t20/s7801])”.
+
     2014—Subsec. (b)(5). [Pub. L. 113–128][/us/pl/113/128] substituted “entities participating in activities described in [section 3122 of title 29][/us/usc/t29/s3122] (if applicable)” for “entities participating in activities described in [section 2832 of title 29][/us/usc/t29/s2832] (if applicable)”.
+
+ __Effective Date of 2015 Amendment__ 
+
+    Amendment by [Pub. L. 114–95][/us/pl/114/95] effective Dec. 10, 2015, except with respect to certain noncompetitive programs and competitive programs, see [section 5 of Pub. L. 114–95][/us/pl/114/95/s5], set out as a note under [section 6301 of this title][/us/usc/t20/s6301].
 
  __Effective Date of 2014 Amendment__ 
 
@@ -107,18 +115,29 @@
 [/us/usc/t20/s7801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs7801
 [/us/usc/t20/s7801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs7801
 [/us/usc/t29/s3122]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3122
-[/us/pl/88/210/s134]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F210%2Fs134
-[/us/pl/109/270/s1/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F270%2Fs1%2Fb
+[/us/pl/88/210/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F210%2FtI
+[/us/pl/109/270]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F270
 [/us/stat/120/732]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F732
-[/us/pl/113/128/s512/e/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs512%2Fe%2F5
+[/us/pl/113/128/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2FtV
 [/us/stat/128/1707]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1707
-[/us/pl/88/210/s134]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F210%2Fs134
-[/us/pl/105/332/s1/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F332%2Fs1%2Fb
+[/us/pl/114/95/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F95%2FtIX
+[/us/stat/129/2170]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F2170
+[/us/pl/88/210/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F210%2FtI
+[/us/pl/105/332]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F332
 [/us/stat/112/3114]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F3114
 [/us/pl/109/270]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F270
+[/us/pl/114/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F95
+[/us/usc/t20/s7801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs7801
+[/us/usc/t20/s7801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs7801
+[/us/pl/114/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F95
+[/us/usc/t20/s7801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs7801
+[/us/usc/t20/s7801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs7801
 [/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
 [/us/usc/t29/s3122]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3122
 [/us/usc/t29/s2832]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs2832
+[/us/pl/114/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F95
+[/us/pl/114/95/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F95%2Fs5
+[/us/usc/t20/s6301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs6301
 [/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
 [/us/pl/113/128/s506]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs506
 [/us/usc/t29/s3101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3101

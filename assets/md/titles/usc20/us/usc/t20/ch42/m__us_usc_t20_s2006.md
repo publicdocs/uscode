@@ -23,7 +23,7 @@
 
         The Foundation shall adopt selection procedures which shall assure that at least one Truman scholar shall be selected each year from each State in which there is at least one resident applicant who meets the minimum criteria established by the Foundation.
 
-([Pub. L. 93–642, § 7][/us/pl/93/642/s7], Jan. 4, 1975, [88 Stat. 2278][/us/stat/88/2278].)
+([Pub. L. 93–642][/us/pl/93/642], § 7, Jan. 4, 1975, [88 Stat. 2278][/us/stat/88/2278].)
 
 ----------
 
@@ -32,7 +32,7 @@
 ----------
 ----------
 
-[/us/pl/93/642/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F642%2Fs7
+[/us/pl/93/642]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F642
 [/us/stat/88/2278]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F2278
 
 

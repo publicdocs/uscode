@@ -17,15 +17,15 @@
 
     The purpose of this chapter is to establish the Christopher Columbus Fellowship Program to encourage and support research, study, and labor designed to produce new discoveries in all fields of endeavor for the benefit of mankind.
 
-([Pub. L. 102–281, title IV, § 422][/us/pl/102/281/s422], May 13, 1992, [106 Stat. 142][/us/stat/106/142].)
+([Pub. L. 102–281, title IV][/us/pl/102/281/tIV], § 422, May 13, 1992, [106 Stat. 142][/us/stat/106/142].)
 
  __Short Title__ 
 
-[Pub. L. 102–281, title IV, § 400][/us/pl/102/281/s400], May 13, 1992, [106 Stat. 139][/us/stat/106/139], provided that: 
+[Pub. L. 102–281, title IV][/us/pl/102/281/tIV], § 400, May 13, 1992, [106 Stat. 139][/us/stat/106/139], provided that: 
 
 > “This title \[enacting this chapter and provisions set out as a note under [section 5112 of Title 31][/us/usc/t31/s5112], Money and Finance\] may be cited as the ‘Frank Annunzio Act’.”
 
-[Pub. L. 102–281, title IV, § 421][/us/pl/102/281/s421], May 13, 1992, [106 Stat. 142][/us/stat/106/142], provided that: 
+[Pub. L. 102–281, title IV][/us/pl/102/281/tIV], § 421, May 13, 1992, [106 Stat. 142][/us/stat/106/142], provided that: 
 
 > “This subtitle \[subtitle B (§§ 421–430) of title IV of [Pub. L. 102–281][/us/pl/102/281], enacting this chapter\] may be cited as the ‘Christopher Columbus Fellowship Act’.”
 
@@ -36,12 +36,12 @@
 ----------
 ----------
 
-[/us/pl/102/281/s422]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F281%2Fs422
+[/us/pl/102/281/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F281%2FtIV
 [/us/stat/106/142]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F142
-[/us/pl/102/281/s400]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F281%2Fs400
+[/us/pl/102/281/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F281%2FtIV
 [/us/stat/106/139]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F139
 [/us/usc/t31/s5112]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs5112
-[/us/pl/102/281/s421]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F281%2Fs421
+[/us/pl/102/281/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F281%2FtIV
 [/us/stat/106/142]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F142
 [/us/pl/102/281]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F281
 

@@ -33,7 +33,7 @@
 
             Any Federal Government employee may be detailed to the Commission without reimbursement, and such detail shall be without interruption or loss of civil service status or privilege.
 
-([Pub. L. 108–159, title V, § 516][/us/pl/108/159/s516], Dec. 4, 2003, [117 Stat. 2008][/us/stat/117/2008].)
+([Pub. L. 108–159, title V][/us/pl/108/159/tV], § 516, Dec. 4, 2003, [117 Stat. 2008][/us/stat/117/2008].)
 
 ----------
 
@@ -42,7 +42,7 @@
 ----------
 ----------
 
-[/us/pl/108/159/s516]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F159%2Fs516
+[/us/pl/108/159/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F159%2FtV
 [/us/stat/117/2008]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2008
 
 

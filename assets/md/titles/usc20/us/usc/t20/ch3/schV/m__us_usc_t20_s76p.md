@@ -17,7 +17,7 @@
 
     The Secretary of the Treasury is authorized to accept on behalf of the United States any gift to the United States which the Secretary finds has been contributed in honor of or in memory of the late President John F. Kennedy and to pay the money to such appropriation or other accounts, including the appropriation accounts established pursuant to appropriations authorized by this subchapter, as in the judgment of the Secretary will best effectuate the intent of the donor.
 
-([Pub. L. 85–874, § 10][/us/pl/85/874/s10], as added [Pub. L. 88–260, § 1(6)][/us/pl/88/260/s1/6], Jan. 23, 1964, [78 Stat. 5][/us/stat/78/5]; amended [Pub. L. 103–279, § 6][/us/pl/103/279/s6], July 21, 1994, [108 Stat. 1415][/us/stat/108/1415].)
+([Pub. L. 85–874][/us/pl/85/874], § 10, as added [Pub. L. 88–260][/us/pl/88/260], § 1(6), Jan. 23, 1964, [78 Stat. 5][/us/stat/78/5]; amended [Pub. L. 103–279][/us/pl/103/279], § 6, July 21, 1994, [108 Stat. 1415][/us/stat/108/1415].)
 
  __Amendments__ 
 
@@ -30,10 +30,10 @@
 ----------
 ----------
 
-[/us/pl/85/874/s10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F874%2Fs10
-[/us/pl/88/260/s1/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F260%2Fs1%2F6
+[/us/pl/85/874]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F874
+[/us/pl/88/260]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F260
 [/us/stat/78/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F5
-[/us/pl/103/279/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F279%2Fs6
+[/us/pl/103/279]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F279
 [/us/stat/108/1415]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1415
 [/us/pl/103/279]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F279
 

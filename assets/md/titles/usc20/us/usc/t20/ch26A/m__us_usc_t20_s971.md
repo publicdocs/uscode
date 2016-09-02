@@ -29,7 +29,7 @@
 
         (2) For purposes of this chapter, the Secretary of the Smithsonian Institution, the Director of the National Gallery of Art, the member designated by the Chairman of the Senate Commission of Art and Antiquities and the member designated by the Speaker of the House of Representatives shall not serve as members of the Council.
 
-([Pub. L. 94–158, § 2][/us/pl/94/158/s2], Dec. 20, 1975, [89 Stat. 844][/us/stat/89/844]; [Pub. L. 99–194, title III, § 301][/us/pl/99/194/s301], Dec. 20, 1985, [99 Stat. 1345][/us/stat/99/1345].)
+([Pub. L. 94–158][/us/pl/94/158], § 2, Dec. 20, 1975, [89 Stat. 844][/us/stat/89/844]; [Pub. L. 99–194, title III][/us/pl/99/194/tIII], § 301, Dec. 20, 1985, [99 Stat. 1345][/us/stat/99/1345].)
 
  __Amendments__ 
 
@@ -37,13 +37,13 @@
 
  __Effective Date__ 
 
-[Pub. L. 94–158, § 9][/us/pl/94/158/s9], Dec. 20, 1975, [89 Stat. 846][/us/stat/89/846], provided that: 
+[Pub. L. 94–158][/us/pl/94/158], § 9, Dec. 20, 1975, [89 Stat. 846][/us/stat/89/846], provided that: 
 
 > “This Act \[see Short Title note below\] shall become effective 30 days after the date of the enactment of this Act \[Dec. 20, 1975\].”
 
  __Short Title__ 
 
-[Pub. L. 94–158, § 1][/us/pl/94/158/s1], Dec. 20, 1975, [89 Stat. 844][/us/stat/89/844], provided that: 
+[Pub. L. 94–158][/us/pl/94/158], § 1, Dec. 20, 1975, [89 Stat. 844][/us/stat/89/844], provided that: 
 
 > “This Act \[enacting this chapter and provisions set out as a note under this section\] may be cited as the ‘Arts and Artifacts Indemnity Act’.”
 
@@ -56,14 +56,14 @@
 
 [/us/usc/t20/s958]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs958
 [/us/usc/t20/s972]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs972
-[/us/pl/94/158/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F158%2Fs2
+[/us/pl/94/158]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F158
 [/us/stat/89/844]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F844
-[/us/pl/99/194/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F194%2Fs301
+[/us/pl/99/194/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F194%2FtIII
 [/us/stat/99/1345]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F1345
 [/us/pl/99/194]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F194
-[/us/pl/94/158/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F158%2Fs9
+[/us/pl/94/158]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F158
 [/us/stat/89/846]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F846
-[/us/pl/94/158/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F158%2Fs1
+[/us/pl/94/158]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F158
 [/us/stat/89/844]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F844
 
 

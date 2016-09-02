@@ -23,15 +23,15 @@
 
         If at any time the moneys in the fund are insufficient to make payments in connection with the default of any loan insured by the Secretary under this part, or in connection with any guaranty agreement made under [section 1078(c) of this title][/us/usc/t20/s1078/c], the Secretary is authorized, to the extent provided in advance by appropriations Acts, to issue to the Secretary of the Treasury notes or other obligations in such forms and denominations, bearing such maturities, and subject to such terms and conditions as may be prescribed by the Secretary with the approval of the Secretary of the Treasury. Such notes or other obligations shall bear interest at a rate determined by the Secretary of the Treasury, taking into consideration the current average market yield on outstanding marketable obligations of the United States of comparable maturities during the month preceding the issuance of the notes or other obligations. The Secretary of the Treasury is authorized and directed to purchase any notes and other obligations issued hereunder and for that purpose is authorized to use as a public debt transaction the proceeds from the sale of any securities issued under chapter 31 of title 31, and the purposes for which securities may be issued under that chapter, are extended to include any purchase of such notes and obligations. The Secretary of the Treasury may at any time sell any of the notes or other obligations acquired under this subsection. All redemptions, purchases, and sales by the Secretary of the Treasury of such notes or other obligations shall be treated as public debt transactions of the United States. Sums borrowed under the subsection shall be deposited in the fund and redemption of such notes and obligations shall be made by the Secretary from such fund.
 
-([Pub. L. 89–329, title IV, § 431][/us/pl/89/329/s431], as added [Pub. L. 99–498, title IV, § 402(a)][/us/pl/99/498/s402/a], Oct. 17, 1986, [100 Stat. 1400][/us/stat/100/1400]; amended [Pub. L. 100–50, § 10(w)][/us/pl/100/50/s10/w], June 3, 1987, [101 Stat. 346][/us/stat/101/346].)
+([Pub. L. 89–329, title IV][/us/pl/89/329/tIV], § 431, as added [Pub. L. 99–498, title IV][/us/pl/99/498/tIV], § 402(a), Oct. 17, 1986, [100 Stat. 1400][/us/stat/100/1400]; amended [Pub. L. 100–50][/us/pl/100/50], § 10(w), June 3, 1987, [101 Stat. 346][/us/stat/101/346].)
 
  __Codification__ 
 
-    In subsec. (b), “chapter 31 of title 31” and “that chapter” substituted for “the Second Liberty Bond Act, as amended” and “that Act, as amended”, respectively, on authority of [Pub. L. 97–258, § 4(b)][/us/pl/97/258/s4/b], Sept. 13, 1982, [96 Stat. 1067][/us/stat/96/1067], the first section of which enacted Title 31, Money and Finance.
+    In subsec. (b), “chapter 31 of title 31” and “that chapter” substituted for “the Second Liberty Bond Act, as amended” and “that Act, as amended”, respectively, on authority of [Pub. L. 97–258][/us/pl/97/258], § 4(b), Sept. 13, 1982, [96 Stat. 1067][/us/stat/96/1067], the first section of which enacted Title 31, Money and Finance.
 
  __Prior Provisions__ 
 
-    A prior section 1081, [Pub. L. 89–329, title IV, § 431][/us/pl/89/329/s431], Nov. 8, 1965, [79 Stat. 1245][/us/stat/79/1245]; [Pub. L. 90–460, § 3(c)][/us/pl/90/460/s3/c], Aug. 3, 1968, [82 Stat. 638][/us/stat/82/638]; [Pub. L. 94–482, title I, § 127(a)][/us/pl/94/482/s127/a], Oct. 12, 1976, [90 Stat. 2126][/us/stat/90/2126]; [Pub. L. 96–374, title XIII, § 1391(a)(1)][/us/pl/96/374/s1391/a/1], Oct. 3, 1980, [94 Stat. 1503][/us/stat/94/1503], related to a student loan insurance fund, prior to the general revision of this part by [Pub. L. 99–498][/us/pl/99/498].
+    A prior section 1081, [Pub. L. 89–329, title IV][/us/pl/89/329/tIV], § 431, Nov. 8, 1965, [79 Stat. 1245][/us/stat/79/1245]; [Pub. L. 90–460][/us/pl/90/460], § 3(c), Aug. 3, 1968, [82 Stat. 638][/us/stat/82/638]; [Pub. L. 94–482, title I][/us/pl/94/482/tI], § 127(a), Oct. 12, 1976, [90 Stat. 2126][/us/stat/90/2126]; [Pub. L. 96–374, title XIII][/us/pl/96/374/tXIII], § 1391(a)(1), Oct. 3, 1980, [94 Stat. 1503][/us/stat/94/1503], related to a student loan insurance fund, prior to the general revision of this part by [Pub. L. 99–498][/us/pl/99/498].
 
  __Amendments__ 
 
@@ -43,7 +43,7 @@
 
  __Federal Family Education Loan Insurance Fund__ 
 
-[Pub. L. 105–244, title IV, § 434][/us/pl/105/244/s434], Oct. 7, 1998, [112 Stat. 1711][/us/stat/112/1711], provided that: 
+[Pub. L. 105–244, title IV][/us/pl/105/244/tIV], § 434, Oct. 7, 1998, [112 Stat. 1711][/us/stat/112/1711], provided that: 
 
 > “Any funds in the insurance fund, as established under section 431 of the Higher Education Act of 1965 ([20 U.S.C. 1081][/us/usc/t20/s1081]), on the date of enactment of this Act \[Oct. 7, 1998\] shall be transferred to and deposited in the Treasury. All funds received by the Secretary of Education under subsection (a) of such section after the date of enactment of this Act shall be deposited into the fund in accordance with such subsection.”
 
@@ -61,20 +61,20 @@
 [/us/usc/t20/s1078/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1078%2Fc
 [/us/usc/t20/s1072]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1072
 [/us/usc/t20/s1078/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1078%2Fc
-[/us/pl/89/329/s431]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2Fs431
-[/us/pl/99/498/s402/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F498%2Fs402%2Fa
+[/us/pl/89/329/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2FtIV
+[/us/pl/99/498/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F498%2FtIV
 [/us/stat/100/1400]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1400
-[/us/pl/100/50/s10/w]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F50%2Fs10%2Fw
+[/us/pl/100/50]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F50
 [/us/stat/101/346]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F346
-[/us/pl/97/258/s4/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258%2Fs4%2Fb
+[/us/pl/97/258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258
 [/us/stat/96/1067]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1067
-[/us/pl/89/329/s431]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2Fs431
+[/us/pl/89/329/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2FtIV
 [/us/stat/79/1245]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F1245
-[/us/pl/90/460/s3/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F460%2Fs3%2Fc
+[/us/pl/90/460]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F460
 [/us/stat/82/638]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F638
-[/us/pl/94/482/s127/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F482%2Fs127%2Fa
+[/us/pl/94/482/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F482%2FtI
 [/us/stat/90/2126]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2126
-[/us/pl/96/374/s1391/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F374%2Fs1391%2Fa%2F1
+[/us/pl/96/374/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F374%2FtXIII
 [/us/stat/94/1503]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F1503
 [/us/pl/99/498]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F498
 [/us/pl/100/50]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F50
@@ -84,7 +84,7 @@
 [/us/pl/99/498]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F498
 [/us/pl/100/50/s27]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F50%2Fs27
 [/us/usc/t20/s1001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1001
-[/us/pl/105/244/s434]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2Fs434
+[/us/pl/105/244/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2FtIV
 [/us/stat/112/1711]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F1711
 [/us/usc/t20/s1081]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1081
 [/us/pl/90/575/s116/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F575%2Fs116%2Fc%2F2

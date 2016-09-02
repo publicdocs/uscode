@@ -27,7 +27,7 @@
 
         The Foundation may provide, directly or by contract, for the conduct of a nationwide competition for the selection of fellowship recipients.
 
-([Pub. L. 102–281, title IV, § 424][/us/pl/102/281/s424], May 13, 1992, [106 Stat. 143][/us/stat/106/143].)
+([Pub. L. 102–281, title IV][/us/pl/102/281/tIV], § 424, May 13, 1992, [106 Stat. 143][/us/stat/106/143].)
 
 ----------
 
@@ -36,7 +36,7 @@
 ----------
 ----------
 
-[/us/pl/102/281/s424]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F281%2Fs424
+[/us/pl/102/281/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F281%2FtIV
 [/us/stat/106/143]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F143
 
 

@@ -33,7 +33,7 @@
 
         Parts A and F of this subchapter, and the standards for peer review of applications and for the conduct and evaluation of research under sections 9533(a) and 9534 of this title, respectively, shall apply to the Secretary, the Director, and the Commissioner in carrying out this part.
 
-([Pub. L. 107–279, title I, § 175][/us/pl/107/279/s175], as added [Pub. L. 108–446, title II, § 201(a)(2)][/us/pl/108/446/s201/a/2], Dec. 3, 2004, [118 Stat. 2799][/us/stat/118/2799].)
+([Pub. L. 107–279, title I][/us/pl/107/279/tI], § 175, as added [Pub. L. 108–446, title II][/us/pl/108/446/tII], § 201(a)(2), Dec. 3, 2004, [118 Stat. 2799][/us/stat/118/2799].)
 
  __References in Text__ 
 
@@ -47,8 +47,8 @@
 ----------
 
 [/us/usc/t20/s1400]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1400
-[/us/pl/107/279/s175]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F279%2Fs175
-[/us/pl/108/446/s201/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F446%2Fs201%2Fa%2F2
+[/us/pl/107/279/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F279%2FtI
+[/us/pl/108/446/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F446%2FtII
 [/us/stat/118/2799]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F2799
 [/us/pl/91/230]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F230
 [/us/stat/84/175]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F175

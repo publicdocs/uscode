@@ -17,7 +17,7 @@
 
     Any evaluation report or data or information collected in preparation of such report, which is paid for with appropriated funds, shall be made available, upon request, within 4 days to the chairman and ranking minority member of the Committee on Education and Labor of the House of Representatives and of the Committee on Labor and Human Resources of the Senate.
 
-([Pub. L. 95–561, title XV, § 1523][/us/pl/95/561/s1523], Nov. 1, 1978, [92 Stat. 2378][/us/stat/92/2378]; [Pub. L. 103–437, § 7(b)][/us/pl/103/437/s7/b], Nov. 2, 1994, [108 Stat. 4587][/us/stat/108/4587].)
+([Pub. L. 95–561, title XV][/us/pl/95/561/tXV], § 1523, Nov. 1, 1978, [92 Stat. 2378][/us/stat/92/2378]; [Pub. L. 103–437][/us/pl/103/437], § 7(b), Nov. 2, 1994, [108 Stat. 4587][/us/stat/108/4587].)
 
  __Codification__ 
 
@@ -44,9 +44,9 @@
 ----------
 ----------
 
-[/us/pl/95/561/s1523]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F561%2Fs1523
+[/us/pl/95/561/tXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F561%2FtXV
 [/us/stat/92/2378]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2378
-[/us/pl/103/437/s7/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F437%2Fs7%2Fb
+[/us/pl/103/437]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F437
 [/us/stat/108/4587]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4587
 [/us/pl/103/437]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F437
 [/us/pl/95/561/s1530/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F561%2Fs1530%2Fa

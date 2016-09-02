@@ -43,11 +43,11 @@
 
         If sums appropriated to carry out this part are not sufficient to permit the Secretary to pay in full the grants which States may receive under subsection (b) of this section, the amount of such grants shall be ratably reduced.
 
-([Pub. L. 98–377, title III, § 328][/us/pl/98/377/s328], as added [Pub. L. 100–418, title VI, § 6031(a)(2)][/us/pl/100/418/s6031/a/2], Aug. 23, 1988, [102 Stat. 1482][/us/stat/102/1482].)
+([Pub. L. 98–377, title III][/us/pl/98/377/tIII], § 328, as added [Pub. L. 100–418, title VI][/us/pl/100/418/tVI], § 6031(a)(2), Aug. 23, 1988, [102 Stat. 1482][/us/stat/102/1482].)
 
  __References in Text__ 
 
-    The Education Consolidation and Improvement Act, referred to in subsec. (b)(1), probably means the Education Consolidation and Improvement Act of 1981, which is subtitle D \[§§ 551 to 596\] of title V of [Pub. L. 97–35][/us/pl/97/35], Aug. 13, 1981, [95 Stat. 463][/us/stat/95/463], as amended. Chapter 1 of the Act was classified generally to subchapter I (§ 3801 et seq.) of chapter 51 of this title, prior to repeal by [Pub. L. 100–297, title I, § 1003(a)][/us/pl/100/297/s1003/a], Apr. 28, 1988, [102 Stat. 293][/us/stat/102/293]. For complete classification of this Act to the Code, see Tables.
+    The Education Consolidation and Improvement Act, referred to in subsec. (b)(1), probably means the Education Consolidation and Improvement Act of 1981, which is subtitle D \[§§ 551 to 596\] of title V of [Pub. L. 97–35][/us/pl/97/35], Aug. 13, 1981, [95 Stat. 463][/us/stat/95/463], as amended. Chapter 1 of the Act was classified generally to subchapter I (§ 3801 et seq.) of chapter 51 of this title, prior to repeal by [Pub. L. 100–297, title I][/us/pl/100/297/tI], § 1003(a), Apr. 28, 1988, [102 Stat. 293][/us/stat/102/293]. For complete classification of this Act to the Code, see Tables.
 
 ----------
 
@@ -58,12 +58,12 @@
 
 [/us/usc/t20/s3997]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs3997
 [/us/usc/t20/s3995/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs3995%2Fc
-[/us/pl/98/377/s328]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F377%2Fs328
-[/us/pl/100/418/s6031/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2Fs6031%2Fa%2F2
+[/us/pl/98/377/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F377%2FtIII
+[/us/pl/100/418/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2FtVI
 [/us/stat/102/1482]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1482
 [/us/pl/97/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35
 [/us/stat/95/463]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F463
-[/us/pl/100/297/s1003/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F297%2Fs1003%2Fa
+[/us/pl/100/297/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F297%2FtI
 [/us/stat/102/293]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F293
 
 

@@ -17,7 +17,7 @@
 
     The Board is authorized to adopt an official seal which shall be judicially noticed and to make such bylaws, rules, and regulations as it deems necessary for the administration of its functions under this subchapter, including, among other matters, bylaws, rules, and regulations relating to the administration of its trust funds and the organization and procedure of the Board. A majority of the members of the Board shall constitute a quorum for the transaction of business.
 
-([Pub. L. 90–637, § 6][/us/pl/90/637/s6], formerly § 5, Oct. 24, 1968, [82 Stat. 1359][/us/stat/82/1359], renumbered [Pub. L. 95–286, § 1(1)][/us/pl/95/286/s1/1], May 26, 1978, [92 Stat. 278][/us/stat/92/278].)
+([Pub. L. 90–637][/us/pl/90/637], § 6, formerly § 5, Oct. 24, 1968, [82 Stat. 1359][/us/stat/82/1359], renumbered [Pub. L. 95–286][/us/pl/95/286], § 1(1), May 26, 1978, [92 Stat. 278][/us/stat/92/278].)
 
 ----------
 
@@ -26,9 +26,9 @@
 ----------
 ----------
 
-[/us/pl/90/637/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F637%2Fs6
+[/us/pl/90/637]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F637
 [/us/stat/82/1359]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F1359
-[/us/pl/95/286/s1/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F286%2Fs1%2F1
+[/us/pl/95/286]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F286
 [/us/stat/92/278]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F278
 
 

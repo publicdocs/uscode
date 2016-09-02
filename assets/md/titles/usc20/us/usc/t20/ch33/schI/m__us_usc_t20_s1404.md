@@ -27,13 +27,13 @@
 
         (2) appendix A of subpart 101–19.6 of title 41, Code of Federal Regulations (commonly known as the “Uniform Federal Accessibility Standards”).
 
-([Pub. L. 91–230, title VI, § 605][/us/pl/91/230/s605], as added [Pub. L. 108–446, title I, § 101][/us/pl/108/446/s101], Dec. 3, 2004, [118 Stat. 2659][/us/stat/118/2659].)
+([Pub. L. 91–230, title VI][/us/pl/91/230/tVI], § 605, as added [Pub. L. 108–446, title I][/us/pl/108/446/tI], § 101, Dec. 3, 2004, [118 Stat. 2659][/us/stat/118/2659].)
 
  __Prior Provisions__ 
 
-    A prior section 1404, [Pub. L. 91–230, title VI, § 605][/us/pl/91/230/s605], as added [Pub. L. 105–17, title I, § 101][/us/pl/105/17/s101], June 4, 1997, [111 Stat. 47][/us/stat/111/47], related to the acquisition of equipment and construction or alteration of facilities, prior to the general amendment of subchapters I to IV of this chapter by [Pub. L. 108–446][/us/pl/108/446].
+    A prior section 1404, [Pub. L. 91–230, title VI][/us/pl/91/230/tVI], § 605, as added [Pub. L. 105–17, title I][/us/pl/105/17/tI], § 101, June 4, 1997, [111 Stat. 47][/us/stat/111/47], related to the acquisition of equipment and construction or alteration of facilities, prior to the general amendment of subchapters I to IV of this chapter by [Pub. L. 108–446][/us/pl/108/446].
 
-    Another prior section 1404, [Pub. L. 91–230, title VI, § 605][/us/pl/91/230/s605], Apr. 13, 1970, [84 Stat. 177][/us/stat/84/177]; [Pub. L. 98–199, § 3(b)][/us/pl/98/199/s3/b], Dec. 2, 1983, [97 Stat. 1358][/us/stat/97/1358]; [Pub. L. 100–630, title I, § 101(b)][/us/pl/100/630/s101/b], Nov. 7, 1988, [102 Stat. 3290][/us/stat/102/3290]; [Pub. L. 102–119, § 25(a)(2)][/us/pl/102/119/s25/a/2], Oct. 7, 1991, [105 Stat. 605][/us/stat/105/605], related to acquisition of equipment and construction of necessary facilities, prior to the general amendment of subchapters I to IV of this chapter by [Pub. L. 105–17][/us/pl/105/17].
+    Another prior section 1404, [Pub. L. 91–230, title VI][/us/pl/91/230/tVI], § 605, Apr. 13, 1970, [84 Stat. 177][/us/stat/84/177]; [Pub. L. 98–199][/us/pl/98/199], § 3(b), Dec. 2, 1983, [97 Stat. 1358][/us/stat/97/1358]; [Pub. L. 100–630, title I][/us/pl/100/630/tI], § 101(b), Nov. 7, 1988, [102 Stat. 3290][/us/stat/102/3290]; [Pub. L. 102–119][/us/pl/102/119], § 25(a)(2), Oct. 7, 1991, [105 Stat. 605][/us/stat/105/605], related to acquisition of equipment and construction of necessary facilities, prior to the general amendment of subchapters I to IV of this chapter by [Pub. L. 105–17][/us/pl/105/17].
 
 ----------
 
@@ -42,20 +42,20 @@
 ----------
 ----------
 
-[/us/pl/91/230/s605]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F230%2Fs605
-[/us/pl/108/446/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F446%2Fs101
+[/us/pl/91/230/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F230%2FtVI
+[/us/pl/108/446/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F446%2FtI
 [/us/stat/118/2659]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F2659
-[/us/pl/91/230/s605]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F230%2Fs605
-[/us/pl/105/17/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F17%2Fs101
+[/us/pl/91/230/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F230%2FtVI
+[/us/pl/105/17/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F17%2FtI
 [/us/stat/111/47]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F47
 [/us/pl/108/446]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F446
-[/us/pl/91/230/s605]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F230%2Fs605
+[/us/pl/91/230/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F230%2FtVI
 [/us/stat/84/177]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F177
-[/us/pl/98/199/s3/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F199%2Fs3%2Fb
+[/us/pl/98/199]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F199
 [/us/stat/97/1358]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F1358
-[/us/pl/100/630/s101/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F630%2Fs101%2Fb
+[/us/pl/100/630/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F630%2FtI
 [/us/stat/102/3290]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3290
-[/us/pl/102/119/s25/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F119%2Fs25%2Fa%2F2
+[/us/pl/102/119]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F119
 [/us/stat/105/605]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F605
 [/us/pl/105/17]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F17
 

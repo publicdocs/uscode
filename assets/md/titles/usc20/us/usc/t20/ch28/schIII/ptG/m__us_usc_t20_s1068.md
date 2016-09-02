@@ -75,7 +75,7 @@
 
         The Secretary, directly or by grant or contract, may provide technical assistance to eligible institutions to prepare the institutions to qualify, apply for, and maintain a grant, under this subchapter.
 
-([Pub. L. 89–329, title III, § 391][/us/pl/89/329/s391], formerly § 351, as added [Pub. L. 99–498, title III, § 301(a)][/us/pl/99/498/s301/a], Oct. 17, 1986, [100 Stat. 1302][/us/stat/100/1302]; amended [Pub. L. 100–50, § 2(a)(13)][/us/pl/100/50/s2/a/13], June 3, 1987, [101 Stat. 336][/us/stat/101/336]; [Pub. L. 102–325, title III, § 305(a)][/us/pl/102/325/s305/a], July 23, 1992, [106 Stat. 478][/us/stat/106/478]; renumbered § 391 and amended [Pub. L. 105–244, title III][/us/pl/105/244], §§ 301(a)(2), (c)(11), 308(a)–(c), Oct. 7, 1998, [112 Stat. 1636][/us/stat/112/1636], 1637, 1648, 1649; [Pub. L. 110–315, title III][/us/pl/110/315], §§ 317, 320(4), Aug. 14, 2008, [122 Stat. 3185][/us/stat/122/3185], 3188.)
+([Pub. L. 89–329, title III][/us/pl/89/329/tIII], § 391, formerly § 351, as added [Pub. L. 99–498, title III][/us/pl/99/498/tIII], § 301(a), Oct. 17, 1986, [100 Stat. 1302][/us/stat/100/1302]; amended [Pub. L. 100–50][/us/pl/100/50], § 2(a)(13), June 3, 1987, [101 Stat. 336][/us/stat/101/336]; [Pub. L. 102–325, title III][/us/pl/102/325/tIII], § 305(a), July 23, 1992, [106 Stat. 478][/us/stat/106/478]; renumbered § 391 and amended [Pub. L. 105–244, title III][/us/pl/105/244/tIII], §§ 301(a)(2), (c)(11), 308(a)–(c), Oct. 7, 1998, [112 Stat. 1636][/us/stat/112/1636], 1637, 1648, 1649; [Pub. L. 110–315, title III][/us/pl/110/315/tIII], §§ 317, 320(4), Aug. 14, 2008, [122 Stat. 3185][/us/stat/122/3185], 3188.)
 
  __References in Text__ 
 
@@ -87,21 +87,21 @@
 
  __Prior Provisions__ 
 
-    A prior section 1068, [Pub. L. 89–329, title III, § 353][/us/pl/89/329/s353], as added [Pub. L. 99–498, title III, § 301(a)][/us/pl/99/498/s301/a], Oct. 17, 1986, [100 Stat. 1305][/us/stat/100/1305], which related to application review process, was renumbered [section 393 of Pub. L. 89–329][/us/pl/89/329/s393] by [Pub. L. 105–244, title III, § 301(a)(2)][/us/pl/105/244/s301/a/2], Oct. 7, 1998, [112 Stat. 1636][/us/stat/112/1636], and transferred to [section 1068b of this title][/us/usc/t20/s1068b].
+    A prior section 1068, [Pub. L. 89–329, title III][/us/pl/89/329/tIII], § 353, as added [Pub. L. 99–498, title III][/us/pl/99/498/tIII], § 301(a), Oct. 17, 1986, [100 Stat. 1305][/us/stat/100/1305], which related to application review process, was renumbered [section 393 of Pub. L. 89–329][/us/pl/89/329/s393] by [Pub. L. 105–244, title III][/us/pl/105/244/tIII], § 301(a)(2), Oct. 7, 1998, [112 Stat. 1636][/us/stat/112/1636], and transferred to [section 1068b of this title][/us/usc/t20/s1068b].
 
-    Another prior section 1068, [Pub. L. 89–329, title III, § 343][/us/pl/89/329/s343], as added [Pub. L. 96–374, title III, § 301][/us/pl/96/374/s301], Oct. 3, 1980, [94 Stat. 1398][/us/stat/94/1398], related to application review process and provided for reader panels, recommendation of such panels, and notification to institutions, prior to the general amendment of this subchapter by [Pub. L. 99–498][/us/pl/99/498].
+    Another prior section 1068, [Pub. L. 89–329, title III][/us/pl/89/329/tIII], § 343, as added [Pub. L. 96–374, title III][/us/pl/96/374/tIII], § 301, Oct. 3, 1980, [94 Stat. 1398][/us/stat/94/1398], related to application review process and provided for reader panels, recommendation of such panels, and notification to institutions, prior to the general amendment of this subchapter by [Pub. L. 99–498][/us/pl/99/498].
 
-    Another prior section 1068, [Pub. L. 89–329, title IV, § 408][/us/pl/89/329/s408], Nov. 8, 1965, [79 Stat. 1235][/us/stat/79/1235]; [Pub. L. 90–575, title I, § 105(a)][/us/pl/90/575/s105/a], Oct. 16, 1968, [82 Stat. 1018][/us/stat/82/1018]; [Pub. L. 91–230, title VIII, § 801][/us/pl/91/230/s801], Apr. 13, 1970, [84 Stat. 190][/us/stat/84/190]; [Pub. L. 92–318, title I, § 131(a)(1)(B)][/us/pl/92/318/s131/a/1/B], June 23, 1972, [86 Stat. 247][/us/stat/86/247], related to programs for identifying qualified low-income students and preparing them for post secondary education, grants or contracts for planning, developing or carrying out programs, “Talent Search” program, “Upward Bound” program, “Special Services for Disadvantaged Students” program, nature of programs, waiver of matching requirement in the “Upward Bound” program and authorization of appropriations, prior to the general amendment of part A of subchapter IV of this chapter by [Pub. L. 92–318, title I, § 131(b)(1)][/us/pl/92/318/s131/b/1], June 23, 1972, [86 Stat. 247][/us/stat/86/247].
+    Another prior section 1068, [Pub. L. 89–329, title IV][/us/pl/89/329/tIV], § 408, Nov. 8, 1965, [79 Stat. 1235][/us/stat/79/1235]; [Pub. L. 90–575, title I][/us/pl/90/575/tI], § 105(a), Oct. 16, 1968, [82 Stat. 1018][/us/stat/82/1018]; [Pub. L. 91–230, title VIII][/us/pl/91/230/tVIII], § 801, Apr. 13, 1970, [84 Stat. 190][/us/stat/84/190]; [Pub. L. 92–318, title I][/us/pl/92/318/tI], § 131(a)(1)(B), June 23, 1972, [86 Stat. 247][/us/stat/86/247], related to programs for identifying qualified low-income students and preparing them for post secondary education, grants or contracts for planning, developing or carrying out programs, “Talent Search” program, “Upward Bound” program, “Special Services for Disadvantaged Students” program, nature of programs, waiver of matching requirement in the “Upward Bound” program and authorization of appropriations, prior to the general amendment of part A of subchapter IV of this chapter by [Pub. L. 92–318, title I][/us/pl/92/318/tI], § 131(b)(1), June 23, 1972, [86 Stat. 247][/us/stat/86/247].
 
  __Amendments__ 
 
-    2008—Subsec. (b)(7)(E). [Pub. L. 110–315, § 320(4)][/us/pl/110/315/s320/4], substituted “subparagraph (D)” for “subparagraph (E)”.
+    2008—Subsec. (b)(7)(E). [Pub. L. 110–315][/us/pl/110/315], § 320(4), substituted “subparagraph (D)” for “subparagraph (E)”.
 
-    Subsec. (e). [Pub. L. 110–315, § 317][/us/pl/110/315/s317], added subsec. (e).
+    Subsec. (e). [Pub. L. 110–315][/us/pl/110/315], § 317, added subsec. (e).
 
-    1998—Subsec. (a). [Pub. L. 105–244, § 308(a)][/us/pl/105/244/s308/a], amended heading and text of subsec. (a) generally. Prior to amendment, text read as follows: “Any institution which is eligible for assistance under this subchapter shall submit to the Secretary an application for assistance at such time, in such form, and containing such information, as may be necessary to enable the Secretary to evaluate its need for assistance. Subject to the availability of appropriations to carry out this subchapter, the Secretary may approve an application for a grant under this subchapter if the application meets the requirements of subsection (b) of this section and shows that the applicant is eligible for assistance in accordance with the part of this subchapter under which the assistance is sought.”
+    1998—Subsec. (a). [Pub. L. 105–244][/us/pl/105/244], § 308(a), amended heading and text of subsec. (a) generally. Prior to amendment, text read as follows: “Any institution which is eligible for assistance under this subchapter shall submit to the Secretary an application for assistance at such time, in such form, and containing such information, as may be necessary to enable the Secretary to evaluate its need for assistance. Subject to the availability of appropriations to carry out this subchapter, the Secretary may approve an application for a grant under this subchapter if the application meets the requirements of subsection (b) of this section and shows that the applicant is eligible for assistance in accordance with the part of this subchapter under which the assistance is sought.”
 
-    Subsec. (b)(1). [Pub. L. 105–244, § 308(b)][/us/pl/105/244/s308/b], inserted “, D or E” after “part C”.
+    Subsec. (b)(1). [Pub. L. 105–244][/us/pl/105/244], § 308(b), inserted “, D or E” after “part C”.
 
     Subsec. (b)(6). [Pub. L. 105–244][/us/pl/105/244], §§ 301(c)(11), 308(c), substituted “section 1068e” for “section 1069c” and inserted “, except that for purposes of [section 1059c of this title][/us/usc/t20/s1059c], paragraphs (2) and (3) of [section 1068e of this title][/us/usc/t20/s1068e] shall not apply” before semicolon.
 
@@ -132,16 +132,16 @@
 [/us/usc/t20/s1059c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1059c
 [/us/usc/t20/s1068e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1068e
 [/us/usc/t20/s1058]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1058
-[/us/pl/89/329/s391]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2Fs391
-[/us/pl/99/498/s301/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F498%2Fs301%2Fa
+[/us/pl/89/329/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2FtIII
+[/us/pl/99/498/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F498%2FtIII
 [/us/stat/100/1302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1302
-[/us/pl/100/50/s2/a/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F50%2Fs2%2Fa%2F13
+[/us/pl/100/50]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F50
 [/us/stat/101/336]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F336
-[/us/pl/102/325/s305/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325%2Fs305%2Fa
+[/us/pl/102/325/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325%2FtIII
 [/us/stat/106/478]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F478
-[/us/pl/105/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244
+[/us/pl/105/244/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2FtIII
 [/us/stat/112/1636]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F1636
-[/us/pl/110/315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315
+[/us/pl/110/315/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2FtIII
 [/us/stat/122/3185]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3185
 [/us/pl/103/62]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F62
 [/us/stat/107/285]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F285
@@ -150,31 +150,31 @@
 [/us/usc/t31/s1101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1101
 [/us/usc/t20/s1066]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1066
 [/us/pl/105/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244
-[/us/pl/89/329/s353]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2Fs353
-[/us/pl/99/498/s301/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F498%2Fs301%2Fa
+[/us/pl/89/329/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2FtIII
+[/us/pl/99/498/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F498%2FtIII
 [/us/stat/100/1305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1305
 [/us/pl/89/329/s393]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2Fs393
-[/us/pl/105/244/s301/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2Fs301%2Fa%2F2
+[/us/pl/105/244/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2FtIII
 [/us/stat/112/1636]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F1636
 [/us/usc/t20/s1068b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1068b
-[/us/pl/89/329/s343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2Fs343
-[/us/pl/96/374/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F374%2Fs301
+[/us/pl/89/329/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2FtIII
+[/us/pl/96/374/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F374%2FtIII
 [/us/stat/94/1398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F1398
 [/us/pl/99/498]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F498
-[/us/pl/89/329/s408]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2Fs408
+[/us/pl/89/329/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2FtIV
 [/us/stat/79/1235]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F1235
-[/us/pl/90/575/s105/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F575%2Fs105%2Fa
+[/us/pl/90/575/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F575%2FtI
 [/us/stat/82/1018]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F1018
-[/us/pl/91/230/s801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F230%2Fs801
+[/us/pl/91/230/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F230%2FtVIII
 [/us/stat/84/190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F190
-[/us/pl/92/318/s131/a/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F318%2Fs131%2Fa%2F1%2FB
+[/us/pl/92/318/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F318%2FtI
 [/us/stat/86/247]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F247
-[/us/pl/92/318/s131/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F318%2Fs131%2Fb%2F1
+[/us/pl/92/318/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F318%2FtI
 [/us/stat/86/247]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F247
-[/us/pl/110/315/s320/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2Fs320%2F4
-[/us/pl/110/315/s317]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2Fs317
-[/us/pl/105/244/s308/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2Fs308%2Fa
-[/us/pl/105/244/s308/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2Fs308%2Fb
+[/us/pl/110/315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315
+[/us/pl/110/315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315
+[/us/pl/105/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244
+[/us/pl/105/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244
 [/us/pl/105/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244
 [/us/usc/t20/s1059c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1059c
 [/us/usc/t20/s1068e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1068e

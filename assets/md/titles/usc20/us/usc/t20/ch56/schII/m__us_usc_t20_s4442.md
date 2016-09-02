@@ -55,7 +55,7 @@
 
         shall be fined not more than $1,000 or imprisoned for not more than one year, or both.
 
-([Pub. L. 99–498, title XV, § 1522][/us/pl/99/498/s1522], Oct. 17, 1986, [100 Stat. 1611][/us/stat/100/1611].)
+([Pub. L. 99–498, title XV][/us/pl/99/498/tXV], § 1522, Oct. 17, 1986, [100 Stat. 1611][/us/stat/100/1611].)
 
 ----------
 
@@ -64,7 +64,7 @@
 ----------
 ----------
 
-[/us/pl/99/498/s1522]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F498%2Fs1522
+[/us/pl/99/498/tXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F498%2FtXV
 [/us/stat/100/1611]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1611
 
 

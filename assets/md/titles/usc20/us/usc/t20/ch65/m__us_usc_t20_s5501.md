@@ -43,11 +43,11 @@
 
         It is the policy of the United States to establish and support a program of education on the environment, for students and personnel working with students, through activities in schools, institutions of higher education, and related educational activities, and to encourage postsecondary students to pursue careers related to the environment.
 
-([Pub. L. 101–619, § 2][/us/pl/101/619/s2], Nov. 16, 1990, [104 Stat. 3325][/us/stat/104/3325].)
+([Pub. L. 101–619][/us/pl/101/619], § 2, Nov. 16, 1990, [104 Stat. 3325][/us/stat/104/3325].)
 
  __Short Title__ 
 
-[Pub. L. 101–619, § 1(a)][/us/pl/101/619/s1/a], Nov. 16, 1990, [104 Stat. 3325][/us/stat/104/3325], provided that: 
+[Pub. L. 101–619][/us/pl/101/619], § 1(a), Nov. 16, 1990, [104 Stat. 3325][/us/stat/104/3325], provided that: 
 
 > “This Act \[enacting this chapter\] may be cited as the ‘National Environmental Education Act’.”
 
@@ -58,9 +58,9 @@
 ----------
 ----------
 
-[/us/pl/101/619/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F619%2Fs2
+[/us/pl/101/619]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F619
 [/us/stat/104/3325]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3325
-[/us/pl/101/619/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F619%2Fs1%2Fa
+[/us/pl/101/619]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F619
 [/us/stat/104/3325]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3325
 
 

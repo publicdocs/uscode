@@ -17,7 +17,7 @@
 
     With the consent of the appropriate department or agency head concerned, the Secretary is authorized to utilize the services of such officers, employees, and other personnel of the departments and agencies from which functions or offices have been transferred to the Secretary or the Department, and funds appropriated to such functions or offices for such period of time as may reasonably be needed to facilitate the orderly implementation of this chapter.
 
-([Pub. L. 96–88, title V, § 511][/us/pl/96/88/s511], Oct. 17, 1979, [93 Stat. 695][/us/stat/93/695].)
+([Pub. L. 96–88, title V][/us/pl/96/88/tV], § 511, Oct. 17, 1979, [93 Stat. 695][/us/stat/93/695].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/96/88/s511]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F88%2Fs511
+[/us/pl/96/88/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F88%2FtV
 [/us/stat/93/695]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F695
 
 

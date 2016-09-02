@@ -35,7 +35,7 @@
 
         (2) to prepare and submit an annual report on the results of the evaluation described in paragraph (1) to the Committee on Health, Education, Labor, and Pensions of the Senate, the Committee on Education and Labor of the House of Representatives, and the Committees on Appropriations of the Senate and House of Representatives.
 
-([Pub. L. 110–69, title VI, § 6115][/us/pl/110/69/s6115], Aug. 9, 2007, [121 Stat. 634][/us/stat/121/634].)
+([Pub. L. 110–69, title VI][/us/pl/110/69/tVI], § 6115, Aug. 9, 2007, [121 Stat. 634][/us/stat/121/634].)
 
  __Change of Name__ 
 
@@ -49,7 +49,7 @@
 ----------
 
 [/us/usc/t20/s9816]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs9816
-[/us/pl/110/69/s6115]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F69%2Fs6115
+[/us/pl/110/69/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F69%2FtVI
 [/us/stat/121/634]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F634
 
 

@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../..//us/usc/t20/ch27/m__us_usc_t20_ch27.md) | [Next](./../../../..//us/usc/t20/ch28/schI/m__us_usc_t20_ch28_schI.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fch28)
+[Previous](./../../../..//us/usc/t20/ch27/m__us_usc_t20_s981...996.md) | [Next](./../../../..//us/usc/t20/ch28/schI/m__us_usc_t20_ch28_schI.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fch28)
 
 ## CHAPTER 28—HIGHER EDUCATION RESOURCES AND STUDENT ASSISTANCE
 
@@ -169,7 +169,7 @@ Part B—Additional General Provisions  </td>
 
   <tr>
 
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs1011" data-uslm-ref="/us/usc/t20/s1011">1011</a>l.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs1011l" data-uslm-ref="/us/usc/t20/s1011l">1011l</a>.  </td>
 
     <td> Diploma mills.  </td>
 
@@ -969,7 +969,7 @@ subpart 3—administrative and general provisions  </td>
 
   <tr>
 
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs1067" data-uslm-ref="/us/usc/t20/s1067">1067</a>l.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs1067l" data-uslm-ref="/us/usc/t20/s1067l">1067l</a>.  </td>
 
     <td> Repealed.  </td>
 
@@ -2225,7 +2225,7 @@ Part E—Need Analysis  </td>
 
   <tr>
 
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs1087" data-uslm-ref="/us/usc/t20/s1087">1087</a>ll.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs1087ll" data-uslm-ref="/us/usc/t20/s1087ll">1087ll.</a>  </td>
 
     <td> Cost of attendance.  </td>
 
@@ -2249,7 +2249,7 @@ Part E—Need Analysis  </td>
 
   <tr>
 
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs1087" data-uslm-ref="/us/usc/t20/s1087">1087</a>oo.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs1087oo" data-uslm-ref="/us/usc/t20/s1087oo">1087oo.</a>  </td>
 
     <td> Family contribution for dependent students.  </td>
 
@@ -3593,7 +3593,7 @@ subpart 3—commission on accessible materials; programs to support improved acc
 
   <tr>
 
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs1140" data-uslm-ref="/us/usc/t20/s1140">1140</a>l.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs1140l" data-uslm-ref="/us/usc/t20/s1140l">1140l.</a>  </td>
 
     <td> Establishment of Advisory Commission on Accessible Instructional Materials in Postsecondary Education for Students with Disabilities.  </td>
 
@@ -3617,7 +3617,7 @@ subpart 3—commission on accessible materials; programs to support improved acc
 
   <tr>
 
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs1140" data-uslm-ref="/us/usc/t20/s1140">1140</a>o.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs1140o" data-uslm-ref="/us/usc/t20/s1140o">1140o.</a>  </td>
 
     <td> Authorization of appropriations.  </td>
 
@@ -3969,7 +3969,7 @@ Part L—Student Safety and Campus Emergency Management  </td>
 
   <tr>
 
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs1161" data-uslm-ref="/us/usc/t20/s1161">1161</a>l.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs1161l" data-uslm-ref="/us/usc/t20/s1161l">1161l.</a>  </td>
 
     <td> Student safety and campus emergency management.  </td>
 
@@ -3977,7 +3977,7 @@ Part L—Student Safety and Campus Emergency Management  </td>
 
   <tr>
 
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs1161" data-uslm-ref="/us/usc/t20/s1161">1161</a>l–1.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs1161l" data-uslm-ref="/us/usc/t20/s1161l">1161l</a>–1.  </td>
 
     <td> Model emergency response policies, procedures, and practices.  </td>
 
@@ -3985,7 +3985,7 @@ Part L—Student Safety and Campus Emergency Management  </td>
 
   <tr>
 
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs1161" data-uslm-ref="/us/usc/t20/s1161">1161</a>l–2.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs1161l" data-uslm-ref="/us/usc/t20/s1161l">1161l</a>–2.  </td>
 
     <td> Preparation for future disasters plan by the Secretary.  </td>
 
@@ -3993,7 +3993,7 @@ Part L—Student Safety and Campus Emergency Management  </td>
 
   <tr>
 
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs1161" data-uslm-ref="/us/usc/t20/s1161">1161</a>l–3.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs1161l" data-uslm-ref="/us/usc/t20/s1161l">1161l</a>–3.  </td>
 
     <td> Education Disaster and Emergency Relief Loan Program.  </td>
 
@@ -4001,7 +4001,7 @@ Part L—Student Safety and Campus Emergency Management  </td>
 
   <tr>
 
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs1161" data-uslm-ref="/us/usc/t20/s1161">1161</a>l–4.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs1161l" data-uslm-ref="/us/usc/t20/s1161l">1161l</a>–4.  </td>
 
     <td> Guidance on mental health disclosures for student safety.  </td>
 
@@ -4009,7 +4009,7 @@ Part L—Student Safety and Campus Emergency Management  </td>
 
   <tr>
 
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs1161" data-uslm-ref="/us/usc/t20/s1161">1161</a>l–5.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs1161l" data-uslm-ref="/us/usc/t20/s1161l">1161l</a>–5.  </td>
 
     <td> Rule of construction.  </td>
 
@@ -4089,7 +4089,7 @@ Part O—College Partnership Grants  </td>
 
   <tr>
 
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs1161" data-uslm-ref="/us/usc/t20/s1161">1161</a>o.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs1161o" data-uslm-ref="/us/usc/t20/s1161o">1161o.</a>  </td>
 
     <td> College partnership grants authorized.  </td>
 
@@ -4299,7 +4299,7 @@ Part AA—Masters and Postbaccalaureate Program  </td>
 
 ----------
 
-[Previous](./../../../..//us/usc/t20/ch27/m__us_usc_t20_ch27.md) | [Next](./../../../..//us/usc/t20/ch28/schI/m__us_usc_t20_ch28_schI.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fch28)
+[Previous](./../../../..//us/usc/t20/ch27/m__us_usc_t20_s981...996.md) | [Next](./../../../..//us/usc/t20/ch28/schI/m__us_usc_t20_ch28_schI.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fch28)
 
 ----------
 ----------

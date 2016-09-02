@@ -31,7 +31,7 @@
 
         The court shall have jurisdiction to affirm the action of the Office or the Secretary or to set it aside, in whole or in part. The judgment of the court shall be subject to review by the Supreme Court of the United States upon certiorari or certification as provided in [section 1254 of title 28][/us/usc/t28/s1254].
 
-([Pub. L. 90–247, title IV, § 458][/us/pl/90/247/s458], as added [Pub. L. 100–297, title III, § 3501(a)][/us/pl/100/297/s3501/a], Apr. 28, 1988, [102 Stat. 356][/us/stat/102/356]; amended [Pub. L. 103–382, title II, § 212(b)(3)(D)][/us/pl/103/382/s212/b/3/D], Oct. 20, 1994, [108 Stat. 3913][/us/stat/108/3913].)
+([Pub. L. 90–247, title IV][/us/pl/90/247/tIV], § 458, as added [Pub. L. 100–297, title III][/us/pl/100/297/tIII], § 3501(a), Apr. 28, 1988, [102 Stat. 356][/us/stat/102/356]; amended [Pub. L. 103–382, title II][/us/pl/103/382/tII], § 212(b)(3)(D), Oct. 20, 1994, [108 Stat. 3913][/us/stat/108/3913].)
 
  __Amendments__ 
 
@@ -51,10 +51,10 @@
 [/us/usc/t20/s1232d/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1232d%2Fa
 [/us/usc/t28/s2112]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs2112
 [/us/usc/t28/s1254]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs1254
-[/us/pl/90/247/s458]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F247%2Fs458
-[/us/pl/100/297/s3501/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F297%2Fs3501%2Fa
+[/us/pl/90/247/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F247%2FtIV
+[/us/pl/100/297/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F297%2FtIII
 [/us/stat/102/356]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F356
-[/us/pl/103/382/s212/b/3/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F382%2Fs212%2Fb%2F3%2FD
+[/us/pl/103/382/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F382%2FtII
 [/us/stat/108/3913]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3913
 [/us/pl/103/382]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F382
 [/us/usc/t20/s1232d/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1232d%2Fa

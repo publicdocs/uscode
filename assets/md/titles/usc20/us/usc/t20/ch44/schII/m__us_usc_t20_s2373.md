@@ -85,7 +85,7 @@
 
             (C) provides technical preparation in a career field, including high skill, high wage, or high demand occupations;
 
-            (D) builds student competence in technical skills and in core academic subjects (as defined in [section 7801 of this title][/us/usc/t20/s7801]), as appropriate, through applied, contextual, and integrated instruction, in a coherent sequence of courses;
+            (D) builds student competence in technical skills and as part of a well-rounded education (as defined in [section 7801 of this title][/us/usc/t20/s7801]), as appropriate, through applied, contextual, and integrated instruction, in a coherent sequence of courses;
 
             (E) leads to technical skill proficiency, an industry-recognized credential, a certificate, or a degree, in a specific career field;
 
@@ -203,7 +203,7 @@
 
             For purposes of subparagraphs (B) and (C) of paragraph (1), the numbers and percentages shall be determined separately with respect to each clause of each such subparagraph.
 
-([Pub. L. 88–210, title II, § 203][/us/pl/88/210/s203], as added [Pub. L. 109–270, § 1(b)][/us/pl/109/270/s1/b], Aug. 12, 2006, [120 Stat. 738][/us/stat/120/738]; amended [Pub. L. 110–315, title IX, § 941(k)(2)(D)(iii)][/us/pl/110/315/s941/k/2/D/iii], Aug. 14, 2008, [122 Stat. 3466][/us/stat/122/3466].)
+([Pub. L. 88–210, title II][/us/pl/88/210/tII], § 203, as added [Pub. L. 109–270][/us/pl/109/270], § 1(b), Aug. 12, 2006, [120 Stat. 738][/us/stat/120/738]; amended [Pub. L. 110–315, title IX][/us/pl/110/315/tIX], § 941(k)(2)(D)(iii), Aug. 14, 2008, [122 Stat. 3466][/us/stat/122/3466]; [Pub. L. 114–95, title IX][/us/pl/114/95/tIX], § 9215(n)(10), Dec. 10, 2015, [129 Stat. 2170][/us/stat/129/2170].)
 
  __References in Text__ 
 
@@ -213,9 +213,9 @@
 
  __Prior Provisions__ 
 
-    A prior section 2373, [Pub. L. 88–210, title II, § 204][/us/pl/88/210/s204], as added [Pub. L. 105–332, § 1(b)][/us/pl/105/332/s1/b], Oct. 31, 1998, [112 Stat. 3118][/us/stat/112/3118], related to tech-prep education, prior to the general amendment of this chapter by [Pub. L. 109–270][/us/pl/109/270].
+    A prior section 2373, [Pub. L. 88–210, title II][/us/pl/88/210/tII], § 204, as added [Pub. L. 105–332][/us/pl/105/332], § 1(b), Oct. 31, 1998, [112 Stat. 3118][/us/stat/112/3118], related to tech-prep education, prior to the general amendment of this chapter by [Pub. L. 109–270][/us/pl/109/270].
 
-    Another prior section 2373, [Pub. L. 88–210, title III, § 323][/us/pl/88/210/s323], as added [Pub. L. 98–524, § 1][/us/pl/98/524/s1], Oct. 19, 1984, [98 Stat. 2461][/us/stat/98/2461]; amended [Pub. L. 100–418, title VI, § 6131(a)(2)][/us/pl/100/418/s6131/a/2], Aug. 23, 1988, [102 Stat. 1509][/us/stat/102/1509], provided for coordination of program with Job Training Partnership Act, prior to repeal by [Pub. L. 101–392, title III, § 305][/us/pl/101/392/s305], title VII, § 702(a), Sept. 25, 1990, [104 Stat. 786][/us/stat/104/786], 843, effective July 1, 1991.
+    Another prior section 2373, [Pub. L. 88–210, title III][/us/pl/88/210/tIII], § 323, as added [Pub. L. 98–524][/us/pl/98/524], § 1, Oct. 19, 1984, [98 Stat. 2461][/us/stat/98/2461]; amended [Pub. L. 100–418, title VI][/us/pl/100/418/tVI], § 6131(a)(2), Aug. 23, 1988, [102 Stat. 1509][/us/stat/102/1509], provided for coordination of program with Job Training Partnership Act, prior to repeal by [Pub. L. 101–392, title III][/us/pl/101/392/tIII], § 305, title VII, § 702(a), Sept. 25, 1990, [104 Stat. 786][/us/stat/104/786], 843, effective July 1, 1991.
 
     A prior [section 203 of Pub. L. 88–210][/us/pl/88/210/s203] was classified to [section 2372 of this title][/us/usc/t20/s2372], prior to the general amendment of this chapter by [Pub. L. 109–270][/us/pl/109/270].
 
@@ -223,7 +223,13 @@
 
  __Amendments__ 
 
+    2015—Subsec. (c)(2)(D). [Pub. L. 114–95][/us/pl/114/95] substituted “as part of a well-rounded education (as defined in [section 7801 of this title][/us/usc/t20/s7801])” for “in core academic subjects (as defined in [section 7801 of this title][/us/usc/t20/s7801])”.
+
     2008—Subsec. (a)(1)(B)(i)(I)(bb)(AA). [Pub. L. 110–315][/us/pl/110/315] substituted “the Tribally Controlled Colleges and Universities Assistance Act of 1978” for “the Tribally Controlled College or University Assistance Act of 1978”.
+
+ __Effective Date of 2015 Amendment__ 
+
+    Amendment by [Pub. L. 114–95][/us/pl/114/95] effective Dec. 10, 2015, except with respect to certain noncompetitive programs and competitive programs, see [section 5 of Pub. L. 114–95][/us/pl/114/95/s5], set out as a note under [section 6301 of this title][/us/usc/t20/s6301].
 
 ----------
 
@@ -240,27 +246,29 @@
 [/us/usc/t20/s1002]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1002
 [/us/usc/t20/s7801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs7801
 [/us/usc/t20/s2328]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs2328
-[/us/pl/88/210/s203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F210%2Fs203
-[/us/pl/109/270/s1/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F270%2Fs1%2Fb
+[/us/pl/88/210/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F210%2FtII
+[/us/pl/109/270]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F270
 [/us/stat/120/738]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F738
-[/us/pl/110/315/s941/k/2/D/iii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2Fs941%2Fk%2F2%2FD%2Fiii
+[/us/pl/110/315/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2FtIX
 [/us/stat/122/3466]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3466
+[/us/pl/114/95/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F95%2FtIX
+[/us/stat/129/2170]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F2170
 [/us/pl/95/471]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F471
 [/us/stat/92/1325]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1325
 [/us/usc/t25/s1801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs1801
 [/us/pl/89/329]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329
 [/us/stat/79/1219]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F1219
 [/us/usc/t20/s1001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1001
-[/us/pl/88/210/s204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F210%2Fs204
-[/us/pl/105/332/s1/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F332%2Fs1%2Fb
+[/us/pl/88/210/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F210%2FtII
+[/us/pl/105/332]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F332
 [/us/stat/112/3118]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F3118
 [/us/pl/109/270]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F270
-[/us/pl/88/210/s323]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F210%2Fs323
-[/us/pl/98/524/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F524%2Fs1
+[/us/pl/88/210/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F210%2FtIII
+[/us/pl/98/524]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F524
 [/us/stat/98/2461]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2461
-[/us/pl/100/418/s6131/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2Fs6131%2Fa%2F2
+[/us/pl/100/418/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2FtVI
 [/us/stat/102/1509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1509
-[/us/pl/101/392/s305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F392%2Fs305
+[/us/pl/101/392/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F392%2FtIII
 [/us/stat/104/786]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F786
 [/us/pl/88/210/s203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F210%2Fs203
 [/us/usc/t20/s2372]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs2372
@@ -268,6 +276,12 @@
 [/us/pl/88/210/s203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F210%2Fs203
 [/us/usc/t20/s2333]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs2333
 [/us/pl/101/392]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F392
+[/us/pl/114/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F95
+[/us/usc/t20/s7801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs7801
+[/us/usc/t20/s7801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs7801
 [/us/pl/110/315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315
+[/us/pl/114/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F95
+[/us/pl/114/95/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F95%2Fs5
+[/us/usc/t20/s6301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs6301
 
 

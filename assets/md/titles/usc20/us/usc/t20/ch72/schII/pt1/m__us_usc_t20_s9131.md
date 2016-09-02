@@ -67,13 +67,13 @@
 
             The population of each State and of all the States shall be determined by the Director on the basis of the most recent data available from the Bureau of the Census.
 
-([Pub. L. 94–462, title II, § 221][/us/pl/94/462/s221], as added [Pub. L. 104–208, div. A, title I, § 101(e)][/us/pl/104/208/s101/e] \[title VII, § 702\], Sept. 30, 1996, [110 Stat. 3009–233][/us/stat/110/3009-233], 3009–297; amended [Pub. L. 105–128, § 4][/us/pl/105/128/s4], Dec. 1, 1997, [111 Stat. 2548][/us/stat/111/2548]; [Pub. L. 108–81, title II, § 204][/us/pl/108/81/s204], Sept. 25, 2003, [117 Stat. 997][/us/stat/117/997]; [Pub. L. 111–340, title II, § 203][/us/pl/111/340/s203], Dec. 22, 2010, [124 Stat. 3600][/us/stat/124/3600].)
+([Pub. L. 94–462, title II][/us/pl/94/462/tII], § 221, as added [Pub. L. 104–208, div. A, title I][/us/pl/104/208/dA/tI], § 101(e) \[title VII, § 702\], Sept. 30, 1996, [110 Stat. 3009–233][/us/stat/110/3009-233], 3009–297; amended [Pub. L. 105–128][/us/pl/105/128], § 4, Dec. 1, 1997, [111 Stat. 2548][/us/stat/111/2548]; [Pub. L. 108–81, title II][/us/pl/108/81/tII], § 204, Sept. 25, 2003, [117 Stat. 997][/us/stat/117/997]; [Pub. L. 111–340, title II][/us/pl/111/340/tII], § 203, Dec. 22, 2010, [124 Stat. 3600][/us/stat/124/3600].)
 
  __Amendments__ 
 
-    2010—Subsec. (b)(3)(A). [Pub. L. 111–340, § 203(1)][/us/pl/111/340/s203/1], substituted “$680,000” for “$340,000” and “$60,000” for “$40,000”.
+    2010—Subsec. (b)(3)(A). [Pub. L. 111–340][/us/pl/111/340], § 203(1), substituted “$680,000” for “$340,000” and “$60,000” for “$40,000”.
 
-    Subsec. (b)(3)(C), (D). [Pub. L. 111–340, § 203(2)][/us/pl/111/340/s203/2], (3), redesignated subpar. (D) as (C) and struck out former subpar. (C), which related to the minimum allotments for States when the appropriated sums exceed the aggregate of allotments for all States for fiscal year 2003.
+    Subsec. (b)(3)(C), (D). [Pub. L. 111–340][/us/pl/111/340], § 203(2), (3), redesignated subpar. (D) as (C) and struck out former subpar. (C), which related to the minimum allotments for States when the appropriated sums exceed the aggregate of allotments for all States for fiscal year 2003.
 
     2003—Subsec. (b)(3). [Pub. L. 108–81][/us/pl/108/81] amended heading and text of par. (3) generally. Prior to amendment, text read as follows:
 
@@ -91,9 +91,9 @@
 
     “(iv) Administrative costs.—The Director may provide not more than 5 percent of the funds made available for grants under this subparagraph to pay the administrative costs of the Pacific Region Educational Laboratory regarding activities assisted under this subparagraph.”
 
-    1997—Subsec. (a)(1)(A). [Pub. L. 105–128, § 4(1)][/us/pl/105/128/s4/1], substituted “1.75 percent” for “1½ percent”.
+    1997—Subsec. (a)(1)(A). [Pub. L. 105–128][/us/pl/105/128], § 4(1), substituted “1.75 percent” for “1½ percent”.
 
-    Subsec. (a)(1)(B). [Pub. L. 105–128, § 4(2)][/us/pl/105/128/s4/2], substituted “3.75 percent” for “4 percent”.
+    Subsec. (a)(1)(B). [Pub. L. 105–128][/us/pl/105/128], § 4(2), substituted “3.75 percent” for “4 percent”.
 
  __Effective Date of 2003 Amendment__ 
 
@@ -112,21 +112,21 @@
 [/us/usc/t20/s9123]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs9123
 [/us/usc/t20/s9123]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs9123
 [/us/usc/t20/s9123]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs9123
-[/us/pl/94/462/s221]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F462%2Fs221
-[/us/pl/104/208/s101/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs101%2Fe
+[/us/pl/94/462/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F462%2FtII
+[/us/pl/104/208/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2FdA%2FtI
 [/us/stat/110/3009-233]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3009-233
-[/us/pl/105/128/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F128%2Fs4
+[/us/pl/105/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F128
 [/us/stat/111/2548]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F2548
-[/us/pl/108/81/s204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F81%2Fs204
+[/us/pl/108/81/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F81%2FtII
 [/us/stat/117/997]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F997
-[/us/pl/111/340/s203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F340%2Fs203
+[/us/pl/111/340/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F340%2FtII
 [/us/stat/124/3600]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3600
-[/us/pl/111/340/s203/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F340%2Fs203%2F1
-[/us/pl/111/340/s203/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F340%2Fs203%2F2
+[/us/pl/111/340]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F340
+[/us/pl/111/340]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F340
 [/us/pl/108/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F81
 [/us/usc/t20/s9123]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs9123
-[/us/pl/105/128/s4/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F128%2Fs4%2F1
-[/us/pl/105/128/s4/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F128%2Fs4%2F2
+[/us/pl/105/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F128
+[/us/pl/105/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F128
 [/us/pl/108/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F81
 [/us/pl/108/81/s506]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F81%2Fs506
 [/us/usc/t20/s9101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs9101

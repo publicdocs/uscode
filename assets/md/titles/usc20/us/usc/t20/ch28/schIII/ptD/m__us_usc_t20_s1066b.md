@@ -99,11 +99,11 @@
 
         Notwithstanding any other provision of law, a qualified bond guaranteed under this part may be sold to any party that offers terms that the Secretary determines are in the best interest of the eligible institution.
 
-([Pub. L. 89–329, title III, § 343][/us/pl/89/329/s343], formerly title VII, § 723, as added [Pub. L. 102–325, title VII, § 704][/us/pl/102/325/s704], July 23, 1992, [106 Stat. 743][/us/stat/106/743]; amended [Pub. L. 103–382, title III, § 360C][/us/pl/103/382/s360C], Oct. 20, 1994, [108 Stat. 3972][/us/stat/108/3972]; renumbered title III, § 343, and amended [Pub. L. 105–244, title III][/us/pl/105/244], §§ 301(a)(3), (4), (c)(5), 306(b), Oct. 7, 1998, [112 Stat. 1636][/us/stat/112/1636], 1637, 1646; [Pub. L. 110–315, title III][/us/pl/110/315], §§ 314(b), 320(2), Aug. 14, 2008, [122 Stat. 3181][/us/stat/122/3181], 3187.)
+([Pub. L. 89–329, title III][/us/pl/89/329/tIII], § 343, formerly title VII, § 723, as added [Pub. L. 102–325, title VII][/us/pl/102/325/tVII], § 704, July 23, 1992, [106 Stat. 743][/us/stat/106/743]; amended [Pub. L. 103–382, title III][/us/pl/103/382/tIII], § 360C, Oct. 20, 1994, [108 Stat. 3972][/us/stat/108/3972]; renumbered title III, § 343, and amended [Pub. L. 105–244, title III][/us/pl/105/244/tIII], §§ 301(a)(3), (4), (c)(5), 306(b), Oct. 7, 1998, [112 Stat. 1636][/us/stat/112/1636], 1637, 1646; [Pub. L. 110–315, title III][/us/pl/110/315/tIII], §§ 314(b), 320(2), Aug. 14, 2008, [122 Stat. 3181][/us/stat/122/3181], 3187.)
 
  __References in Text__ 
 
-    [Section 1066e of this title][/us/usc/t20/s1066e], referred to in subsec. (b), was repealed by [Pub. L. 105–244, title III, § 306(d)][/us/pl/105/244/s306/d], Oct. 7, 1998, [112 Stat. 1647][/us/stat/112/1647].
+    [Section 1066e of this title][/us/usc/t20/s1066e], referred to in subsec. (b), was repealed by [Pub. L. 105–244, title III][/us/pl/105/244/tIII], § 306(d), Oct. 7, 1998, [112 Stat. 1647][/us/stat/112/1647].
 
  __Codification__ 
 
@@ -115,31 +115,31 @@
 
  __Amendments__ 
 
-    2008—Subsec. (b)(8)(B)(ii). [Pub. L. 110–315, § 314(b)(1)(B)][/us/pl/110/315/s314/b/1/B], inserted “within 120 days” after “loan proceeds”.
+    2008—Subsec. (b)(8)(B)(ii). [Pub. L. 110–315][/us/pl/110/315], § 314(b)(1)(B), inserted “within 120 days” after “loan proceeds”.
 
-    [Pub. L. 110–315, § 314(b)(1)(A)][/us/pl/110/315/s314/b/1/A], which directed the substitution of “5” for “10”, could not be executed because “10” did not appear subsequent to amendment by [Pub. L. 105–244, § 306(b)(1)][/us/pl/105/244/s306/b/1]. See 1998 Amendment note below.
+    [Pub. L. 110–315][/us/pl/110/315], § 314(b)(1)(A), which directed the substitution of “5” for “10”, could not be executed because “10” did not appear subsequent to amendment by [Pub. L. 105–244][/us/pl/105/244], § 306(b)(1). See 1998 Amendment note below.
 
-    Subsec. (b)(12). [Pub. L. 110–315, § 314(b)(2)][/us/pl/110/315/s314/b/2]–(4), added par. (12).
+    Subsec. (b)(12). [Pub. L. 110–315][/us/pl/110/315], § 314(b)(2)–(4), added par. (12).
 
-    Subsec. (e). [Pub. L. 110–315, § 320(2)][/us/pl/110/315/s320/2], inserted heading.
+    Subsec. (e). [Pub. L. 110–315][/us/pl/110/315], § 320(2), inserted heading.
 
-    1998—Subsec. (a). [Pub. L. 105–244, § 301(c)(5)(A)][/us/pl/105/244/s301/c/5/A], substituted “section 1066c” for “section 1132c–3”.
+    1998—Subsec. (a). [Pub. L. 105–244][/us/pl/105/244], § 301(c)(5)(A), substituted “section 1066c” for “section 1132c–3”.
 
-    Subsec. (b). [Pub. L. 105–244, § 301(c)(5)(B)(i)][/us/pl/105/244/s301/c/5/B/i], substituted “sections 1066d(1) and 1066e” for “sections 1132c–4(1) and 1132c–5” in introductory provisions.
+    Subsec. (b). [Pub. L. 105–244][/us/pl/105/244], § 301(c)(5)(B)(i), substituted “sections 1066d(1) and 1066e” for “sections 1132c–4(1) and 1132c–5” in introductory provisions.
 
-    Subsec. (b)(8). [Pub. L. 105–244, § 306(b)(1)][/us/pl/105/244/s306/b/1], substituted “5 percent” for “10 percent” wherever appearing.
+    Subsec. (b)(8). [Pub. L. 105–244][/us/pl/105/244], § 306(b)(1), substituted “5 percent” for “10 percent” wherever appearing.
 
-    Subsec. (b)(10). [Pub. L. 105–244, § 301(c)(5)(B)(ii)][/us/pl/105/244/s301/c/5/B/ii], substituted “section 1066c” for “section 1132c–3”.
+    Subsec. (b)(10). [Pub. L. 105–244][/us/pl/105/244], § 301(c)(5)(B)(ii), substituted “section 1066c” for “section 1132c–3”.
 
-    Subsec. (d). [Pub. L. 105–244, § 301(c)(5)(B)(iii)][/us/pl/105/244/s301/c/5/B/iii], made technical amendment to reference in original act which appears in text as reference to subsection (c)(1) of this section.
+    Subsec. (d). [Pub. L. 105–244][/us/pl/105/244], § 301(c)(5)(B)(iii), made technical amendment to reference in original act which appears in text as reference to subsection (c)(1) of this section.
 
-    Subsec. (e). [Pub. L. 105–244, § 306(b)(2)][/us/pl/105/244/s306/b/2], added subsec. (e).
+    Subsec. (e). [Pub. L. 105–244][/us/pl/105/244], § 306(b)(2), added subsec. (e).
 
-    1994—Subsec. (b)(8)(A). [Pub. L. 103–382, § 360C(1)(A)][/us/pl/103/382/s360C/1/A], inserted before semicolon “, with each eligible institution required to maintain in the escrow account an amount equal to 10 percent of the outstanding principal of all loans made to such institution under this part”.
+    1994—Subsec. (b)(8)(A). [Pub. L. 103–382][/us/pl/103/382], § 360C(1)(A), inserted before semicolon “, with each eligible institution required to maintain in the escrow account an amount equal to 10 percent of the outstanding principal of all loans made to such institution under this part”.
 
-    Subsec. (b)(8)(B)(ii). [Pub. L. 103–382, § 360C(1)(B)][/us/pl/103/382/s360C/1/B], amended cl. (ii) generally. Prior to amendment, cl. (ii) read as follows: “when all bonds under this part are retired or canceled, shall be divided among the eligible institutions making deposits into such account on the basis of the amount of each such institution’s deposit;”.
+    Subsec. (b)(8)(B)(ii). [Pub. L. 103–382][/us/pl/103/382], § 360C(1)(B), amended cl. (ii) generally. Prior to amendment, cl. (ii) read as follows: “when all bonds under this part are retired or canceled, shall be divided among the eligible institutions making deposits into such account on the basis of the amount of each such institution’s deposit;”.
 
-    Subsec. (b)(11). [Pub. L. 103–382, § 360C(2)][/us/pl/103/382/s360C/2], substituted “conditions” for “regulations”.
+    Subsec. (b)(11). [Pub. L. 103–382][/us/pl/103/382], § 360C(2), substituted “conditions” for “regulations”.
 
  __Effective Date of 1998 Amendment__ 
 
@@ -154,37 +154,37 @@
 
 [/us/usc/t20/s1066c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1066c
 [/us/usc/t20/s1066c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1066c
-[/us/pl/89/329/s343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2Fs343
-[/us/pl/102/325/s704]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325%2Fs704
+[/us/pl/89/329/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2FtIII
+[/us/pl/102/325/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325%2FtVII
 [/us/stat/106/743]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F743
-[/us/pl/103/382/s360C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F382%2Fs360C
+[/us/pl/103/382/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F382%2FtIII
 [/us/stat/108/3972]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3972
-[/us/pl/105/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244
+[/us/pl/105/244/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2FtIII
 [/us/stat/112/1636]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F1636
-[/us/pl/110/315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315
+[/us/pl/110/315/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2FtIII
 [/us/stat/122/3181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3181
 [/us/usc/t20/s1066e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1066e
-[/us/pl/105/244/s306/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2Fs306%2Fd
+[/us/pl/105/244/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2FtIII
 [/us/stat/112/1647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F1647
 [/us/usc/t20/s1132c–2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1132c%E2%80%932
 [/us/pl/105/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244
 [/us/pl/89/329/s343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2Fs343
 [/us/usc/t20/s1068]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1068
 [/us/pl/99/498]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F498
-[/us/pl/110/315/s314/b/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2Fs314%2Fb%2F1%2FB
-[/us/pl/110/315/s314/b/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2Fs314%2Fb%2F1%2FA
-[/us/pl/105/244/s306/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2Fs306%2Fb%2F1
-[/us/pl/110/315/s314/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2Fs314%2Fb%2F2
-[/us/pl/110/315/s320/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2Fs320%2F2
-[/us/pl/105/244/s301/c/5/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2Fs301%2Fc%2F5%2FA
-[/us/pl/105/244/s301/c/5/B/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2Fs301%2Fc%2F5%2FB%2Fi
-[/us/pl/105/244/s306/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2Fs306%2Fb%2F1
-[/us/pl/105/244/s301/c/5/B/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2Fs301%2Fc%2F5%2FB%2Fii
-[/us/pl/105/244/s301/c/5/B/iii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2Fs301%2Fc%2F5%2FB%2Fiii
-[/us/pl/105/244/s306/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2Fs306%2Fb%2F2
-[/us/pl/103/382/s360C/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F382%2Fs360C%2F1%2FA
-[/us/pl/103/382/s360C/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F382%2Fs360C%2F1%2FB
-[/us/pl/103/382/s360C/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F382%2Fs360C%2F2
+[/us/pl/110/315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315
+[/us/pl/110/315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315
+[/us/pl/105/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244
+[/us/pl/110/315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315
+[/us/pl/110/315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315
+[/us/pl/105/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244
+[/us/pl/105/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244
+[/us/pl/105/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244
+[/us/pl/105/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244
+[/us/pl/105/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244
+[/us/pl/105/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244
+[/us/pl/103/382]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F382
+[/us/pl/103/382]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F382
+[/us/pl/103/382]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F382
 [/us/pl/105/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244
 [/us/pl/105/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244
 [/us/pl/105/244/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2Fs3

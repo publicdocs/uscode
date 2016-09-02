@@ -63,19 +63,19 @@
 
         The Council shall continue in existence until terminated by law.
 
-([Pub. L. 95–561, title XIV, § 1411][/us/pl/95/561/s1411], Nov. 1, 1978, [92 Stat. 2370][/us/stat/92/2370]; [Pub. L. 96–88, title V, § 508(j)(3)][/us/pl/96/88/s508/j/3]–(8), Oct. 17, 1979, [93 Stat. 693][/us/stat/93/693], 694; [Pub. L. 99–145, title XII, § 1204(b)(3)][/us/pl/99/145/s1204/b/3]–(5), Nov. 8, 1985, [99 Stat. 720][/us/stat/99/720], 721; [Pub. L. 106–65, div. A, title III, § 354(4)][/us/pl/106/65/s354/4], Oct. 5, 1999, [113 Stat. 573][/us/stat/113/573]; [Pub. L. 113–291, div. A, title V, § 565][/us/pl/113/291/s565], Dec. 19, 2014, [128 Stat. 3384][/us/stat/128/3384].)
+([Pub. L. 95–561, title XIV][/us/pl/95/561/tXIV], § 1411, Nov. 1, 1978, [92 Stat. 2370][/us/stat/92/2370]; [Pub. L. 96–88, title V][/us/pl/96/88/tV], § 508(j)(3)–(8), Oct. 17, 1979, [93 Stat. 693][/us/stat/93/693], 694; [Pub. L. 99–145, title XII][/us/pl/99/145/tXII], § 1204(b)(3)–(5), Nov. 8, 1985, [99 Stat. 720][/us/stat/99/720], 721; [Pub. L. 106–65, div. A, title III][/us/pl/106/65/dA/tIII], § 354(4), Oct. 5, 1999, [113 Stat. 573][/us/stat/113/573]; [Pub. L. 113–291, div. A, title V][/us/pl/113/291/dA/tV], § 565, Dec. 19, 2014, [128 Stat. 3384][/us/stat/128/3384].)
 
  __Amendments__ 
 
-    2014—Subsec. (a)(1)(B). [Pub. L. 113–291, § 565(b)][/us/pl/113/291/s565/b], inserted “and the domestic dependent elementary and secondary schools established under [section 2164 of title 10][/us/usc/t10/s2164]” after “the defense dependents’ education system” and “either” after “one student enrolled in”.
+    2014—Subsec. (a)(1)(B). [Pub. L. 113–291][/us/pl/113/291], § 565(b), inserted “and the domestic dependent elementary and secondary schools established under [section 2164 of title 10][/us/usc/t10/s2164]” after “the defense dependents’ education system” and “either” after “one student enrolled in”.
 
-    Subsec. (c)(1). [Pub. L. 113–291, § 565(a)(1)][/us/pl/113/291/s565/a/1], inserted “, and of the domestic dependent elementary and secondary school system established under [section 2164 of title 10][/us/usc/t10/s2164],” after “of the defense dependents’ education system”.
+    Subsec. (c)(1). [Pub. L. 113–291][/us/pl/113/291], § 565(a)(1), inserted “, and of the domestic dependent elementary and secondary school system established under [section 2164 of title 10][/us/usc/t10/s2164],” after “of the defense dependents’ education system”.
 
-    Subsec. (c)(2). [Pub. L. 113–291, § 565(a)(2)][/us/pl/113/291/s565/a/2], inserted “and in the domestic dependent elementary and secondary school system” before comma at end.
+    Subsec. (c)(2). [Pub. L. 113–291][/us/pl/113/291], § 565(a)(2), inserted “and in the domestic dependent elementary and secondary school system” before comma at end.
 
     1999—Subsec. (d). [Pub. L. 106–65][/us/pl/106/65] substituted “level IV of the Executive Schedule under [section 5315 of title 5][/us/usc/t5/s5315]” for “grade GS–18 in [section 5332 of title 5][/us/usc/t5/s5332]”.
 
-    1985—Subsec. (a). [Pub. L. 99–145, § 1204(b)(3)(A)][/us/pl/99/145/s1204/b/3/A], amended subsec. (a) generally. Prior to amendment subsec. (a) read as follows: “There is established in the Department of Education an Advisory Council on Dependents’ Education (hereinafter in this section referred to as the ‘Council’). The Council shall be composed of—
+    1985—Subsec. (a). [Pub. L. 99–145][/us/pl/99/145], § 1204(b)(3)(A), amended subsec. (a) generally. Prior to amendment subsec. (a) read as follows: “There is established in the Department of Education an Advisory Council on Dependents’ Education (hereinafter in this section referred to as the ‘Council’). The Council shall be composed of—
 
     “(1) the Assistant Secretary of Defense for Manpower, Reserve Affairs, and Logistics, and the Administrator of Education for Overseas Dependents of such department, who shall be co-chairman of the Council;
 
@@ -85,25 +85,25 @@
 
     The Director shall be the Executive Secretary of the Council.”
 
-    Subsec. (b)(1). [Pub. L. 99–145, § 1204(b)(4)][/us/pl/99/145/s1204/b/4], inserted reference to Secretary of Defense.
+    Subsec. (b)(1). [Pub. L. 99–145][/us/pl/99/145], § 1204(b)(4), inserted reference to Secretary of Defense.
 
-    Subsec. (c). [Pub. L. 99–145, § 1204(b)(5)(A)][/us/pl/99/145/s1204/b/5/A], substituted “two times each year” for “four times each year” in provisions before par. (1).
+    Subsec. (c). [Pub. L. 99–145][/us/pl/99/145], § 1204(b)(5)(A), substituted “two times each year” for “four times each year” in provisions before par. (1).
 
-    Subsec. (c)(2), (3). [Pub. L. 99–145, § 1204(b)(5)(B)][/us/pl/99/145/s1204/b/5/B], (C), redesignated par. (3) as (2), and struck out par. (2) which required the Council to make recommendations to the Director and to the Secretary of Education on the orderly transfer of the functions under this chapter to the Secretary and Department of Education.
+    Subsec. (c)(2), (3). [Pub. L. 99–145][/us/pl/99/145], § 1204(b)(5)(B), (C), redesignated par. (3) as (2), and struck out par. (2) which required the Council to make recommendations to the Director and to the Secretary of Education on the orderly transfer of the functions under this chapter to the Secretary and Department of Education.
 
-    Subsec. (c)(4), (5). [Pub. L. 99–145, § 1204(b)(5)(C)][/us/pl/99/145/s1204/b/5/C], (D), redesignated par. (5) as (4), and substituted Secretary of Defense for Secretary of Education. Former par. (4) redesignated (3).
+    Subsec. (c)(4), (5). [Pub. L. 99–145][/us/pl/99/145], § 1204(b)(5)(C), (D), redesignated par. (5) as (4), and substituted Secretary of Defense for Secretary of Education. Former par. (4) redesignated (3).
 
-    1979—Subsec. (a). [Pub. L. 96–88, § 508(j)(3)][/us/pl/96/88/s508/j/3], substituted “Department of Education” for “Department of Defense” in text preceding par. (1).
+    1979—Subsec. (a). [Pub. L. 96–88][/us/pl/96/88], § 508(j)(3), substituted “Department of Education” for “Department of Defense” in text preceding par. (1).
 
-    Subsec. (a)(1). [Pub. L. 96–88, § 508(j)(4)][/us/pl/96/88/s508/j/4], provided that the Administrator of Education for Overseas Dependents of the Department of Education was to be a member of the council and its co-chairman.
+    Subsec. (a)(1). [Pub. L. 96–88][/us/pl/96/88], § 508(j)(4), provided that the Administrator of Education for Overseas Dependents of the Department of Education was to be a member of the council and its co-chairman.
 
-    Subsec. (a)(2). [Pub. L. 96–88, § 508(j)(5)][/us/pl/96/88/s508/j/5], substituted “Secretary of Education” for “Assistant Secretary”, “demonstrated an interest” for “versed by training or experience”, “parents of dependents” for “sponsors of students”, and “dependents’ education system” for “defense dependents’ education system”.
+    Subsec. (a)(2). [Pub. L. 96–88][/us/pl/96/88], § 508(j)(5), substituted “Secretary of Education” for “Assistant Secretary”, “demonstrated an interest” for “versed by training or experience”, “parents of dependents” for “sponsors of students”, and “dependents’ education system” for “defense dependents’ education system”.
 
-    Subsec. (a)(3). [Pub. L. 96–88, § 508(j)(5)][/us/pl/96/88/s508/j/5], required membership on the Council for representatives of the Secretaries of Education and Defense and struck out requirements for representation of the Commissioner of Education, Director of the National Institute of Education, Director of the Educational Directorate of the National Science Foundation, Chairman of the National Endowment for the Arts, Chairman of the National Endowment for the Humanities, and the Secretaries of the military departments.
+    Subsec. (a)(3). [Pub. L. 96–88][/us/pl/96/88], § 508(j)(5), required membership on the Council for representatives of the Secretaries of Education and Defense and struck out requirements for representation of the Commissioner of Education, Director of the National Institute of Education, Director of the Educational Directorate of the National Science Foundation, Chairman of the National Endowment for the Arts, Chairman of the National Endowment for the Humanities, and the Secretaries of the military departments.
 
-    Subsec. (b)(1). [Pub. L. 96–88, § 508(j)(6)][/us/pl/96/88/s508/j/6], substituted “Secretary of Education” for “Assistant Secretary”.
+    Subsec. (b)(1). [Pub. L. 96–88][/us/pl/96/88], § 508(j)(6), substituted “Secretary of Education” for “Assistant Secretary”.
 
-    Subsec. (c)(2) to (5). [Pub. L. 96–88, § 508(j)(7)][/us/pl/96/88/s508/j/7], (8), added par. (2), redesignated former pars. (2), (3), and (4) as (3), (4), and (5), respectively, and in par. (5), as so redesignated, substituted “Secretary of Education” for “Assistant Secretary”.
+    Subsec. (c)(2) to (5). [Pub. L. 96–88][/us/pl/96/88], § 508(j)(7), (8), added par. (2), redesignated former pars. (2), (3), and (4) as (3), (4), and (5), respectively, and in par. (5), as so redesignated, substituted “Secretary of Education” for “Assistant Secretary”.
 
  __Effective Date of 1979 Amendment__ 
 
@@ -121,35 +121,35 @@
 [/us/usc/t20/s930/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs930%2Fa%2F2
 [/us/usc/t5/s5315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5315
 [/us/usc/t5/s5703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5703
-[/us/pl/95/561/s1411]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F561%2Fs1411
+[/us/pl/95/561/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F561%2FtXIV
 [/us/stat/92/2370]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2370
-[/us/pl/96/88/s508/j/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F88%2Fs508%2Fj%2F3
+[/us/pl/96/88/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F88%2FtV
 [/us/stat/93/693]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F693
-[/us/pl/99/145/s1204/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F145%2Fs1204%2Fb%2F3
+[/us/pl/99/145/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F145%2FtXII
 [/us/stat/99/720]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F720
-[/us/pl/106/65/s354/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2Fs354%2F4
+[/us/pl/106/65/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2FdA%2FtIII
 [/us/stat/113/573]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F573
-[/us/pl/113/291/s565]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs565
+[/us/pl/113/291/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2FdA%2FtV
 [/us/stat/128/3384]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3384
-[/us/pl/113/291/s565/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs565%2Fb
+[/us/pl/113/291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291
 [/us/usc/t10/s2164]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2164
-[/us/pl/113/291/s565/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs565%2Fa%2F1
+[/us/pl/113/291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291
 [/us/usc/t10/s2164]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2164
-[/us/pl/113/291/s565/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs565%2Fa%2F2
+[/us/pl/113/291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291
 [/us/pl/106/65]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65
 [/us/usc/t5/s5315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5315
 [/us/usc/t5/s5332]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5332
-[/us/pl/99/145/s1204/b/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F145%2Fs1204%2Fb%2F3%2FA
-[/us/pl/99/145/s1204/b/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F145%2Fs1204%2Fb%2F4
-[/us/pl/99/145/s1204/b/5/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F145%2Fs1204%2Fb%2F5%2FA
-[/us/pl/99/145/s1204/b/5/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F145%2Fs1204%2Fb%2F5%2FB
-[/us/pl/99/145/s1204/b/5/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F145%2Fs1204%2Fb%2F5%2FC
-[/us/pl/96/88/s508/j/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F88%2Fs508%2Fj%2F3
-[/us/pl/96/88/s508/j/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F88%2Fs508%2Fj%2F4
-[/us/pl/96/88/s508/j/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F88%2Fs508%2Fj%2F5
-[/us/pl/96/88/s508/j/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F88%2Fs508%2Fj%2F5
-[/us/pl/96/88/s508/j/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F88%2Fs508%2Fj%2F6
-[/us/pl/96/88/s508/j/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F88%2Fs508%2Fj%2F7
+[/us/pl/99/145]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F145
+[/us/pl/99/145]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F145
+[/us/pl/99/145]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F145
+[/us/pl/99/145]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F145
+[/us/pl/99/145]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F145
+[/us/pl/96/88]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F88
+[/us/pl/96/88]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F88
+[/us/pl/96/88]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F88
+[/us/pl/96/88]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F88
+[/us/pl/96/88]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F88
+[/us/pl/96/88]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F88
 [/us/pl/96/88]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F88
 [/us/pl/96/88/s601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F88%2Fs601
 [/us/usc/t20/s3401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs3401

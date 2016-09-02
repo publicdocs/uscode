@@ -25,7 +25,7 @@
 
             (A) provide teacher mentoring, team teaching, reduced class schedules and case loads, and intensive professional development;
 
-            (B) use standards or assessments for guiding beginning teachers that are consistent with challenging State student academic achievement and functional standards and with the requirements for professional development, as defined in [section 7801 of this title][/us/usc/t20/s7801]; and
+            (B) use standards or assessments for guiding beginning teachers that are consistent with challenging State academic achievement standards and with the requirements for professional development, as defined in [section 7801 of this title][/us/usc/t20/s7801]; and
 
             (C) encourage collaborative and consultative models of providing early intervention, special education, and related services.
 
@@ -87,7 +87,7 @@
 
         (4)
 
-         Developing and implementing initiatives to promote the recruitment and retention of highly qualified special education teachers, particularly initiatives that have been proven effective in recruiting and retaining highly qualified teachers, including programs that provide—
+         Developing and implementing initiatives to promote the recruitment and retention of special education teachers who meet the qualifications described in [section 1412(a)(14)(C) of this title][/us/usc/t20/s1412/a/14/C], particularly initiatives that have been proven effective in recruiting and retaining teachers, including programs that provide—
 
             (A) teacher mentoring from exemplary special education teachers, principals, or superintendents;
 
@@ -133,11 +133,11 @@
 
             (C) special education and regular education teachers have the subject matter knowledge and teaching skills, including technology literacy, necessary to help students with disabilities meet challenging State student academic achievement and functional standards.
 
-        (2) Programs that establish, expand, or improve alternative routes for State certification of special education teachers for highly qualified individuals with a baccalaureate or master’s degree, including mid-career professionals from other occupations, paraprofessionals, and recent college or university graduates with records of academic distinction who demonstrate the potential to become highly effective special education teachers.
+        (2) Programs that establish, expand, or improve alternative routes for State certification of special education teachers for individuals with a baccalaureate or master’s degree who meet the qualifications described in [section 1412(a)(14)(C) of this title][/us/usc/t20/s1412/a/14/C], including mid-career professionals from other occupations, paraprofessionals, and recent college or university graduates with records of academic distinction who demonstrate the potential to become highly effective special education teachers.
 
         (3) Teacher advancement initiatives for special education teachers that promote professional growth and emphasize multiple career paths (such as paths to becoming a career teacher, mentor teacher, or exemplary teacher) and pay differentiation.
 
-        (4) Developing and implementing mechanisms to assist local educational agencies and schools in effectively recruiting and retaining highly qualified special education teachers.
+        (4) Developing and implementing mechanisms to assist local educational agencies and schools in effectively recruiting and retaining special education teachers who meet the qualifications described in section 1412(a)(14)(C).
 
         (5) Reforming tenure systems, implementing teacher testing for subject matter knowledge, and implementing teacher testing for State certification or licensing, consistent with title II of the Higher Education Act of 1965 \[[20 U.S.C. 1021][/us/usc/t20/s1021] et seq.\].
 
@@ -149,7 +149,7 @@
 
         (9) Supporting activities that ensure that teachers are able to use challenging State academic content standards and student academic achievement and functional standards, and State assessments for all children with disabilities, to improve instructional practices and improve the academic achievement of children with disabilities.
 
-        (10) When applicable, coordinating with, and expanding centers established under, [section 6613(c)(18) of this title][/us/usc/t20/s6613/c/18] to benefit special education teachers.
+        (10) When applicable, coordinating with, and expanding centers established under, [section 6613(c)(18) of this title][/us/usc/t20/s6613/c/18] (as such section was in effect on the day before December 10, 2015) to benefit special education teachers.
 
     (c) __Contracts and subgrants__ 
 
@@ -171,9 +171,11 @@
 
         [Public Law 95–134][/us/pl/95/134], permitting the consolidation of grants to the outlying areas, shall not apply to funds received under this part.
 
-([Pub. L. 91–230, title VI, § 654][/us/pl/91/230/s654], as added [Pub. L. 108–446, title I, § 101][/us/pl/108/446/s101], Dec. 3, 2004, [118 Stat. 2770][/us/stat/118/2770].)
+([Pub. L. 91–230, title VI][/us/pl/91/230/tVI], § 654, as added [Pub. L. 108–446, title I][/us/pl/108/446/tI], § 101, Dec. 3, 2004, [118 Stat. 2770][/us/stat/118/2770]; amended [Pub. L. 114–95, title IX][/us/pl/114/95/tIX], §§ 9214(d)(4)(A), (B), 9215(ss)(8), Dec. 10, 2015, [129 Stat. 2165][/us/stat/129/2165], 2183.)
 
  __References in Text__ 
+
+    [Section 7801 of this title][/us/usc/t20/s7801], referred to in subsec. (a)(1)(B), was in the original “section 8101 of such Act”, which was translated as meaning section 8101 of the Elementary and Secondary Education Act of 1965, to reflect the probable intent of Congress.
 
     The Higher Education Act of 1965, referred to in subsec. (b)(5), is [Pub. L. 89–329][/us/pl/89/329], Nov. 8, 1965, [79 Stat. 1219][/us/stat/79/1219], as amended. Title II of the Act is classified generally to subchapter II (§ 1021 et seq.) of chapter 28 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1001 of this title][/us/usc/t20/s1001] and Tables.
 
@@ -181,9 +183,27 @@
 
  __Prior Provisions__ 
 
-    A prior section 1454, [Pub. L. 91–230, title VI, § 654][/us/pl/91/230/s654], as added [Pub. L. 105–17, title I, § 101][/us/pl/105/17/s101], June 4, 1997, [111 Stat. 128][/us/stat/111/128], related to use of funds, prior to the general amendment of subchapters I to IV of this chapter by [Pub. L. 108–446][/us/pl/108/446].
+    A prior section 1454, [Pub. L. 91–230, title VI][/us/pl/91/230/tVI], § 654, as added [Pub. L. 105–17, title I][/us/pl/105/17/tI], § 101, June 4, 1997, [111 Stat. 128][/us/stat/111/128], related to use of funds, prior to the general amendment of subchapters I to IV of this chapter by [Pub. L. 108–446][/us/pl/108/446].
 
-    Another prior section 1454, [Pub. L. 91–230, title VI, § 653][/us/pl/91/230/s653], formerly § 654, Apr. 13, 1970, [84 Stat. 187][/us/stat/84/187]; [Pub. L. 93–380, title VI, § 620(2)][/us/pl/93/380/s620/2], Aug. 21, 1974, [88 Stat. 585][/us/stat/88/585]; [Pub. L. 95–49, § 6][/us/pl/95/49/s6], June 17, 1977, [91 Stat. 231][/us/stat/91/231]; [Pub. L. 98–199, § 13][/us/pl/98/199/s13], Dec. 2, 1983, [97 Stat. 1374][/us/stat/97/1374]; renumbered § 653 and amended [Pub. L. 99–457, title III, § 316][/us/pl/99/457/s316], Oct. 8, 1986, [100 Stat. 1171][/us/stat/100/1171]; [Pub. L. 101–476, title VI, § 603][/us/pl/101/476/s603], Oct. 30, 1990, [104 Stat. 1140][/us/stat/104/1140], authorized appropriations, prior to repeal by [Pub. L. 105–17, title II, § 203(c)][/us/pl/105/17/s203/c], June 4, 1997, [111 Stat. 157][/us/stat/111/157], effective Oct. 1, 1997.
+    Another prior section 1454, [Pub. L. 91–230, title VI][/us/pl/91/230/tVI], § 653, formerly § 654, Apr. 13, 1970, [84 Stat. 187][/us/stat/84/187]; [Pub. L. 93–380, title VI][/us/pl/93/380/tVI], § 620(2), Aug. 21, 1974, [88 Stat. 585][/us/stat/88/585]; [Pub. L. 95–49][/us/pl/95/49], § 6, June 17, 1977, [91 Stat. 231][/us/stat/91/231]; [Pub. L. 98–199][/us/pl/98/199], § 13, Dec. 2, 1983, [97 Stat. 1374][/us/stat/97/1374]; renumbered § 653 and amended [Pub. L. 99–457, title III][/us/pl/99/457/tIII], § 316, Oct. 8, 1986, [100 Stat. 1171][/us/stat/100/1171]; [Pub. L. 101–476, title VI][/us/pl/101/476/tVI], § 603, Oct. 30, 1990, [104 Stat. 1140][/us/stat/104/1140], authorized appropriations, prior to repeal by [Pub. L. 105–17, title II][/us/pl/105/17/tII], § 203(c), June 4, 1997, [111 Stat. 157][/us/stat/111/157], effective Oct. 1, 1997.
+
+ __Amendments__ 
+
+    2015—Subsec. (a)(1)(B). [Pub. L. 114–95][/us/pl/114/95], § 9215(ss)(8)(A)(i), substituted “challenging State academic achievement standards and with the requirements for professional development, as defined in [section 7801 of this title][/us/usc/t20/s7801]” for “challenging State student academic achievement and functional standards and with the requirements for professional development, as defined in [section 7801 of this title][/us/usc/t20/s7801]”.
+
+    Subsec. (a)(4). [Pub. L. 114–95][/us/pl/114/95], § 9214(d)(4)(A), substituted “special education teachers who meet the qualifications described in [section 1412(a)(14)(C) of this title][/us/usc/t20/s1412/a/14/C], particularly initiatives that have been proven effective in recruiting and retaining teachers” for “highly qualified special education teachers, particularly initiatives that have been proven effective in recruiting and retaining highly qualified teachers” in introductory provisions.
+
+    Subsec. (a)(5)(A). [Pub. L. 114–95][/us/pl/114/95], § 9215(ss)(8)(A)(ii), made technical amendment to reference in original act which appears in text as reference to [section 7801 of this title][/us/usc/t20/s7801].
+
+    Subsec. (b)(2). [Pub. L. 114–95][/us/pl/114/95], § 9214(d)(4)(B)(i), substituted “certification of special education teachers for individuals with a baccalaureate or master’s degree who meet the qualifications described in [section 1412(a)(14)(C) of this title][/us/usc/t20/s1412/a/14/C]” for “certification of special education teachers for highly qualified individuals with a baccalaureate or master’s degree”.
+
+    Subsec. (b)(4). [Pub. L. 114–95][/us/pl/114/95], § 9214(d)(4)(B)(ii), substituted “special education teachers who meet the qualifications described in section 1412(a)(14)(C)” for “highly qualified special education teachers”.
+
+    Subsec. (b)(10). [Pub. L. 114–95][/us/pl/114/95], § 9215(ss)(8)(B), inserted “(as such section was in effect on the day before December 10, 2015)” after “of this title”.
+
+ __Effective Date of 2015 Amendment__ 
+
+    Amendment by [Pub. L. 114–95][/us/pl/114/95] effective Dec. 10, 2015, except with respect to certain noncompetitive programs and competitive programs, see [section 5 of Pub. L. 114–95][/us/pl/114/95/s5], set out as a note under [section 6301 of this title][/us/usc/t20/s6301].
 
 ----------
 
@@ -194,14 +214,19 @@
 
 [/us/usc/t20/s1453]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1453
 [/us/usc/t20/s7801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs7801
+[/us/usc/t20/s1412/a/14/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1412%2Fa%2F14%2FC
 [/us/usc/t20/s7801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs7801
 [/us/usc/t20/s1453]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1453
+[/us/usc/t20/s1412/a/14/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1412%2Fa%2F14%2FC
 [/us/usc/t20/s1021]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1021
 [/us/usc/t20/s6613/c/18]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs6613%2Fc%2F18
 [/us/pl/95/134]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F134
-[/us/pl/91/230/s654]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F230%2Fs654
-[/us/pl/108/446/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F446%2Fs101
+[/us/pl/91/230/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F230%2FtVI
+[/us/pl/108/446/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F446%2FtI
 [/us/stat/118/2770]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F2770
+[/us/pl/114/95/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F95%2FtIX
+[/us/stat/129/2165]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F2165
+[/us/usc/t20/s7801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs7801
 [/us/pl/89/329]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329
 [/us/stat/79/1219]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F1219
 [/us/usc/t20/s1001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1001
@@ -210,23 +235,37 @@
 [/us/stat/91/1159]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F1159
 [/us/pl/95/134/s501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F134%2Fs501
 [/us/usc/t48/s1469a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft48%2Fs1469a
-[/us/pl/91/230/s654]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F230%2Fs654
-[/us/pl/105/17/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F17%2Fs101
+[/us/pl/91/230/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F230%2FtVI
+[/us/pl/105/17/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F17%2FtI
 [/us/stat/111/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F128
 [/us/pl/108/446]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F446
-[/us/pl/91/230/s653]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F230%2Fs653
+[/us/pl/91/230/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F230%2FtVI
 [/us/stat/84/187]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F187
-[/us/pl/93/380/s620/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F380%2Fs620%2F2
+[/us/pl/93/380/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F380%2FtVI
 [/us/stat/88/585]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F585
-[/us/pl/95/49/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F49%2Fs6
+[/us/pl/95/49]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F49
 [/us/stat/91/231]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F231
-[/us/pl/98/199/s13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F199%2Fs13
+[/us/pl/98/199]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F199
 [/us/stat/97/1374]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F1374
-[/us/pl/99/457/s316]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F457%2Fs316
+[/us/pl/99/457/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F457%2FtIII
 [/us/stat/100/1171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1171
-[/us/pl/101/476/s603]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F476%2Fs603
+[/us/pl/101/476/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F476%2FtVI
 [/us/stat/104/1140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1140
-[/us/pl/105/17/s203/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F17%2Fs203%2Fc
+[/us/pl/105/17/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F17%2FtII
 [/us/stat/111/157]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F157
+[/us/pl/114/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F95
+[/us/usc/t20/s7801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs7801
+[/us/usc/t20/s7801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs7801
+[/us/pl/114/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F95
+[/us/usc/t20/s1412/a/14/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1412%2Fa%2F14%2FC
+[/us/pl/114/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F95
+[/us/usc/t20/s7801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs7801
+[/us/pl/114/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F95
+[/us/usc/t20/s1412/a/14/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1412%2Fa%2F14%2FC
+[/us/pl/114/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F95
+[/us/pl/114/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F95
+[/us/pl/114/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F95
+[/us/pl/114/95/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F95%2Fs5
+[/us/usc/t20/s6301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs6301
 
 

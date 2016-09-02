@@ -31,19 +31,19 @@
 
         Each eligible institution that received a grant under this part for a 5-year period shall not be eligible to receive an additional grant under this part until 2 years after the date on which the 5-year grant period terminates.
 
-([Pub. L. 89–329, title III, § 313][/us/pl/89/329/s313], as added [Pub. L. 99–498, title III, § 301(a)][/us/pl/99/498/s301/a], Oct. 17, 1986, [100 Stat. 1294][/us/stat/100/1294]; amended [Pub. L. 102–325, title III, § 302(c)][/us/pl/102/325/s302/c], July 23, 1992, [106 Stat. 472][/us/stat/106/472]; [Pub. L. 103–208, § 2(a)(6)][/us/pl/103/208/s2/a/6], Dec. 20, 1993, [107 Stat. 2457][/us/stat/107/2457]; [Pub. L. 105–244, title III][/us/pl/105/244], §§ 301(c)(3), 303(c), Oct. 7, 1998, [112 Stat. 1637][/us/stat/112/1637], 1639.)
+([Pub. L. 89–329, title III][/us/pl/89/329/tIII], § 313, as added [Pub. L. 99–498, title III][/us/pl/99/498/tIII], § 301(a), Oct. 17, 1986, [100 Stat. 1294][/us/stat/100/1294]; amended [Pub. L. 102–325, title III][/us/pl/102/325/tIII], § 302(c), July 23, 1992, [106 Stat. 472][/us/stat/106/472]; [Pub. L. 103–208][/us/pl/103/208], § 2(a)(6), Dec. 20, 1993, [107 Stat. 2457][/us/stat/107/2457]; [Pub. L. 105–244, title III][/us/pl/105/244/tIII], §§ 301(c)(3), 303(c), Oct. 7, 1998, [112 Stat. 1637][/us/stat/112/1637], 1639.)
 
  __Prior Provisions__ 
 
-    A prior section 1059, [Pub. L. 89–329, title III, § 313][/us/pl/89/329/s313], as added [Pub. L. 96–374, title III, § 301][/us/pl/96/374/s301], Oct. 3, 1980, [94 Stat. 1392][/us/stat/94/1392], provided for duration of grants under this part, prior to the general revision of this subchapter by [Pub. L. 99–498][/us/pl/99/498].
+    A prior section 1059, [Pub. L. 89–329, title III][/us/pl/89/329/tIII], § 313, as added [Pub. L. 96–374, title III][/us/pl/96/374/tIII], § 301, Oct. 3, 1980, [94 Stat. 1392][/us/stat/94/1392], provided for duration of grants under this part, prior to the general revision of this subchapter by [Pub. L. 99–498][/us/pl/99/498].
 
  __Amendments__ 
 
-    1998—Subsec. (b). [Pub. L. 105–244, § 303(c)(1)][/us/pl/105/244/s303/c/1], inserted “subsection (c) of this section and a grant under” after “this subsection a grant under”.
+    1998—Subsec. (b). [Pub. L. 105–244][/us/pl/105/244], § 303(c)(1), inserted “subsection (c) of this section and a grant under” after “this subsection a grant under”.
 
-    [Pub. L. 105–244, § 301(c)(3)][/us/pl/105/244/s301/c/3], substituted “section 1068c(a)(1)” for “section 1069(a)(1)”.
+    [Pub. L. 105–244][/us/pl/105/244], § 301(c)(3), substituted “section 1068c(a)(1)” for “section 1069(a)(1)”.
 
-    Subsec. (d). [Pub. L. 105–244, § 303(c)(2)][/us/pl/105/244/s303/c/2], added subsec. (d).
+    Subsec. (d). [Pub. L. 105–244][/us/pl/105/244], § 303(c)(2), added subsec. (d).
 
     1993—Subsec. (b). [Pub. L. 103–208][/us/pl/103/208] inserted before period at end “, except that for the purpose of this subsection a grant under [section 1069(a)(1) of this title][/us/usc/t20/s1069/a/1] shall not be considered a grant under this part”.
 
@@ -69,22 +69,22 @@
 ----------
 
 [/us/usc/t20/s1068c/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1068c%2Fa%2F1
-[/us/pl/89/329/s313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2Fs313
-[/us/pl/99/498/s301/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F498%2Fs301%2Fa
+[/us/pl/89/329/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2FtIII
+[/us/pl/99/498/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F498%2FtIII
 [/us/stat/100/1294]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1294
-[/us/pl/102/325/s302/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325%2Fs302%2Fc
+[/us/pl/102/325/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325%2FtIII
 [/us/stat/106/472]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F472
-[/us/pl/103/208/s2/a/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F208%2Fs2%2Fa%2F6
+[/us/pl/103/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F208
 [/us/stat/107/2457]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F2457
-[/us/pl/105/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244
+[/us/pl/105/244/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2FtIII
 [/us/stat/112/1637]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F1637
-[/us/pl/89/329/s313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2Fs313
-[/us/pl/96/374/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F374%2Fs301
+[/us/pl/89/329/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2FtIII
+[/us/pl/96/374/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F374%2FtIII
 [/us/stat/94/1392]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F1392
 [/us/pl/99/498]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F498
-[/us/pl/105/244/s303/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2Fs303%2Fc%2F1
-[/us/pl/105/244/s301/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2Fs301%2Fc%2F3
-[/us/pl/105/244/s303/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2Fs303%2Fc%2F2
+[/us/pl/105/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244
+[/us/pl/105/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244
+[/us/pl/105/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244
 [/us/pl/103/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F208
 [/us/usc/t20/s1069/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1069%2Fa%2F1
 [/us/pl/102/325]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325

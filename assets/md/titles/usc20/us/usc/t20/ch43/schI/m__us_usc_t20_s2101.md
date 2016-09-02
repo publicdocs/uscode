@@ -33,21 +33,21 @@
 
     (b) It is therefore the purpose of this subchapter to establish in the Library of Congress an American Folklife Center to preserve and pre­sent American folklife.
 
-([Pub. L. 94–201, § 2][/us/pl/94/201/s2], Jan. 2, 1976, [89 Stat. 1129][/us/stat/89/1129].)
+([Pub. L. 94–201][/us/pl/94/201], § 2, Jan. 2, 1976, [89 Stat. 1129][/us/stat/89/1129].)
 
  __Short Title__ 
 
-[Pub. L. 94–201, § 1][/us/pl/94/201/s1], Jan. 2, 1976, [89 Stat. 1129][/us/stat/89/1129], provided: 
+[Pub. L. 94–201][/us/pl/94/201], § 1, Jan. 2, 1976, [89 Stat. 1129][/us/stat/89/1129], provided: 
 
 > “That this Act \[enacting this subchapter\] may be cited as the ‘American Folklife Preservation Act’.”
 
-[Pub. L. 106–380, § 1][/us/pl/106/380/s1], Oct. 27, 2000, [114 Stat. 1447][/us/stat/114/1447], provided that: 
+[Pub. L. 106–380][/us/pl/106/380], § 1, Oct. 27, 2000, [114 Stat. 1447][/us/stat/114/1447], provided that: 
 
 > “This Act \[enacting subchapter II of this chapter\] may be cited as the ‘Veterans’ Oral History Project Act’.”
 
  __Findings and Purpose of 1998 Amendment__ 
 
-[Pub. L. 105–275, title III, § 312(a)][/us/pl/105/275/s312/a], Oct. 21, 1998, [112 Stat. 2457][/us/stat/112/2457], provided that:
+[Pub. L. 105–275, title III][/us/pl/105/275/tIII], § 312(a), Oct. 21, 1998, [112 Stat. 2457][/us/stat/112/2457], provided that:
 
 >     “(1)  __Findings__  __.—__ 
 
@@ -88,13 +88,13 @@
 ----------
 ----------
 
-[/us/pl/94/201/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F201%2Fs2
+[/us/pl/94/201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F201
 [/us/stat/89/1129]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F1129
-[/us/pl/94/201/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F201%2Fs1
+[/us/pl/94/201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F201
 [/us/stat/89/1129]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F1129
-[/us/pl/106/380/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F380%2Fs1
+[/us/pl/106/380]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F380
 [/us/stat/114/1447]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1447
-[/us/pl/105/275/s312/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F275%2Fs312%2Fa
+[/us/pl/105/275/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F275%2FtIII
 [/us/stat/112/2457]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2457
 [/us/usc/t20/s2103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs2103
 

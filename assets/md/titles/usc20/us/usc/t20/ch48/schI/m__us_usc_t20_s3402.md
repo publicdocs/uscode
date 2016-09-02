@@ -31,7 +31,7 @@
 
     (7) to increase the accountability of Federal education programs to the President, the Congress, and the public.
 
-([Pub. L. 96–88, title I, § 102][/us/pl/96/88/s102], Oct. 17, 1979, [93 Stat. 670][/us/stat/93/670].)
+([Pub. L. 96–88, title I][/us/pl/96/88/tI], § 102, Oct. 17, 1979, [93 Stat. 670][/us/stat/93/670].)
 
  __References in Text__ 
 
@@ -44,7 +44,7 @@
 ----------
 ----------
 
-[/us/pl/96/88/s102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F88%2Fs102
+[/us/pl/96/88/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F88%2FtI
 [/us/stat/93/670]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F670
 [/us/pl/96/88]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F88
 [/us/stat/93/668]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F668

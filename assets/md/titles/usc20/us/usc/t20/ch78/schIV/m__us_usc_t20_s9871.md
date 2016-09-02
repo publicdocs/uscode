@@ -233,7 +233,7 @@
 
                 With respect to preschool through grade 12 education—
 
-                    (I) yearly test records of individual students with respect to assessments under [section 6311(b) of this title][/us/usc/t20/s6311/b];
+                    (I) yearly test records of individual students with respect to assessments under [section 6311(b)(2) of this title][/us/usc/t20/s6311/b/2];
 
                     (II) information on students not tested by grade and subject;
 
@@ -307,7 +307,7 @@
 
         There are authorized to be appropriated to carry out this section $120,000,000 for each of fiscal years 2011 and 2012.
 
-([Pub. L. 110–69, title VI, § 6201][/us/pl/110/69/s6201], formerly § 6401, Aug. 9, 2007, [121 Stat. 668][/us/stat/121/668]; renumbered § 6201 and amended [Pub. L. 111–358, title X][/us/pl/111/358], §§ 1002(b)(3), 1003(c), Jan. 4, 2011, [124 Stat. 4048][/us/stat/124/4048], 4049.)
+([Pub. L. 110–69, title VI][/us/pl/110/69/tVI], § 6201, formerly § 6401, Aug. 9, 2007, [121 Stat. 668][/us/stat/121/668]; renumbered § 6201 and amended [Pub. L. 111–358, title X][/us/pl/111/358/tX], §§ 1002(b)(3), 1003(c), Jan. 4, 2011, [124 Stat. 4048][/us/stat/124/4048], 4049; [Pub. L. 114–95, title IX][/us/pl/114/95/tIX], § 9215(i)(4), Dec. 10, 2015, [129 Stat. 2168][/us/stat/129/2168].)
 
  __References in Text__ 
 
@@ -319,7 +319,13 @@
 
  __Amendments__ 
 
-    2011—Subsec. (j). [Pub. L. 111–358, § 1003(c)][/us/pl/111/358/s1003/c], amended subsec. (j) generally. Prior to amendment, text read as follows: “There are authorized to be appropriated to carry out this section $120,000,000 for fiscal year 2008 and such sums as may be necessary for fiscal year 2009.”
+    2015—Subsec. (e)(2)(D)(ii)(I). [Pub. L. 114–95][/us/pl/114/95], which directed amendment of [section 6401(e)(2)(D)(ii)(I) of Pub. L. 110–69][/us/pl/110/69/s6401/e/2/D/ii/I] by substituting “yearly test records of individual students with respect to assessments under [section 6311(b)(2) of this title][/us/usc/t20/s6311/b/2]” for “yearly test records of individual students with respect to assessments under [section 6311(b) of this title][/us/usc/t20/s6311/b]”, was executed to this section to reflect the probable intent of Congress and the renumbering of [section 6401 of Pub. L. 110–69][/us/pl/110/69/s6401] as this section.
+
+    2011—Subsec. (j). [Pub. L. 111–358][/us/pl/111/358], § 1003(c), amended subsec. (j) generally. Prior to amendment, text read as follows: “There are authorized to be appropriated to carry out this section $120,000,000 for fiscal year 2008 and such sums as may be necessary for fiscal year 2009.”
+
+ __Effective Date of 2015 Amendment__ 
+
+    Amendment by [Pub. L. 114–95][/us/pl/114/95] effective Dec. 10, 2015, except with respect to certain noncompetitive programs and competitive programs, see [section 5 of Pub. L. 114–95][/us/pl/114/95/s5], set out as a note under [section 6301 of this title][/us/usc/t20/s6301].
 
 ----------
 
@@ -331,17 +337,27 @@
 [/us/usc/t20/s1232g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1232g
 [/us/usc/t20/s1232g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1232g
 [/us/usc/t20/s1232g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1232g
-[/us/usc/t20/s6311/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs6311%2Fb
-[/us/pl/110/69/s6201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F69%2Fs6201
+[/us/usc/t20/s6311/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs6311%2Fb%2F2
+[/us/pl/110/69/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F69%2FtVI
 [/us/stat/121/668]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F668
-[/us/pl/111/358]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F358
+[/us/pl/111/358/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F358%2FtX
 [/us/stat/124/4048]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F4048
+[/us/pl/114/95/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F95%2FtIX
+[/us/stat/129/2168]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F2168
 [/us/pl/110/69]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F69
 [/us/stat/121/572]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F572
 [/us/usc/t20/s9801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs9801
 [/us/pl/110/69/s6201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F69%2Fs6201
 [/us/usc/t20/s9851]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs9851
 [/us/pl/111/358]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F358
-[/us/pl/111/358/s1003/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F358%2Fs1003%2Fc
+[/us/pl/114/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F95
+[/us/pl/110/69/s6401/e/2/D/ii/I]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F69%2Fs6401%2Fe%2F2%2FD%2Fii%2FI
+[/us/usc/t20/s6311/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs6311%2Fb%2F2
+[/us/usc/t20/s6311/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs6311%2Fb
+[/us/pl/110/69/s6401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F69%2Fs6401
+[/us/pl/111/358]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F358
+[/us/pl/114/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F95
+[/us/pl/114/95/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F95%2Fs5
+[/us/usc/t20/s6301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs6301
 
 

@@ -127,7 +127,7 @@
 
         (2) subsection (b)(7)(B) shall be applied by substituting “20 years” for “25 years”.
 
-([Pub. L. 89–329, title IV, § 493C][/us/pl/89/329/s493C], as added [Pub. L. 110–84, title II, § 203(a)][/us/pl/110/84/s203/a], Sept. 27, 2007, [121 Stat. 792][/us/stat/121/792]; amended [Pub. L. 110–153, § 2][/us/pl/110/153/s2], Dec. 21, 2007, [121 Stat. 1824][/us/stat/121/1824]; [Pub. L. 110–315, title IV, § 494F][/us/pl/110/315/s494F], Aug. 14, 2008, [122 Stat. 3324][/us/stat/122/3324]; [Pub. L. 111–152, title II, § 2213][/us/pl/111/152/s2213], Mar. 30, 2010, [124 Stat. 1081][/us/stat/124/1081].)
+([Pub. L. 89–329, title IV][/us/pl/89/329/tIV], § 493C, as added [Pub. L. 110–84, title II][/us/pl/110/84/tII], § 203(a), Sept. 27, 2007, [121 Stat. 792][/us/stat/121/792]; amended [Pub. L. 110–153][/us/pl/110/153], § 2, Dec. 21, 2007, [121 Stat. 1824][/us/stat/121/1824]; [Pub. L. 110–315, title IV][/us/pl/110/315/tIV], § 494F, Aug. 14, 2008, [122 Stat. 3324][/us/stat/122/3324]; [Pub. L. 111–152, title II][/us/pl/111/152/tII], § 2213, Mar. 30, 2010, [124 Stat. 1081][/us/stat/124/1081].)
 
  __Amendments__ 
 
@@ -155,14 +155,14 @@
 [/us/usc/t20/s1087e/d/1/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1087e%2Fd%2F1%2FD
 [/us/usc/t20/s1087–1/b/2/I]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1087%E2%80%931%2Fb%2F2%2FI
 [/us/usc/t20/s1087e/e/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1087e%2Fe%2F1
-[/us/pl/89/329/s493C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2Fs493C
-[/us/pl/110/84/s203/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F84%2Fs203%2Fa
+[/us/pl/89/329/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2FtIV
+[/us/pl/110/84/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F84%2FtII
 [/us/stat/121/792]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F792
-[/us/pl/110/153/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F153%2Fs2
+[/us/pl/110/153]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F153
 [/us/stat/121/1824]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F1824
-[/us/pl/110/315/s494F]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2Fs494F
+[/us/pl/110/315/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2FtIV
 [/us/stat/122/3324]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3324
-[/us/pl/111/152/s2213]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F152%2Fs2213
+[/us/pl/111/152/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F152%2FtII
 [/us/stat/124/1081]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1081
 [/us/pl/111/152]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F152
 [/us/pl/110/315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315

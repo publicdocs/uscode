@@ -11,30 +11,16 @@
 ----------
 ----------
 
-[Previous](./../../../../../..//us/usc/t20/ch70/schX/ptI/m__us_usc_t20_ch70_schX_ptI.md) | [Next](./../../../../../..//us/usc/t20/ch70/schX/ptJ/spt1/m__us_usc_t20_ch70_schX_ptJ_spt1.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fch70%2FschX%2FptJ)
+[Previous](./../../../../../..//us/usc/t20/ch70/schX/ptI/m__us_usc_t20_s8241...8247.md) | [Next](./../../../../../..//us/usc/t20/ch70/schX/ptJ/m__us_usc_t20_s8271 _us_usc_t20_s8272.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fch70%2FschX%2FptJ)
 
 #### Part J—Urban and Rural Education Assistance
 
-§§ 8271, 8272. __Repealed.__  __[__  __Pub. L. 107–110, title X, § 1011(5)(A)__  __][/us/pl/107/110/s1011/5/A]__  __,__  __Jan. 8, 2002__  __,__  __[__  __115 Stat. 1986__  __][/us/stat/115/1986]__ 
-
-    Section 8271, [Pub. L. 89–10, title X, § 10951][/us/pl/89/10/s10951], as added [Pub. L. 103–382, title I, § 101][/us/pl/103/382/s101], Oct. 20, 1994, [108 Stat. 3847][/us/stat/108/3847], authorized appropriations.
-
-    Section 8272, [Pub. L. 89–10, title X, § 10952][/us/pl/89/10/s10952], as added [Pub. L. 103–382, title I, § 101][/us/pl/103/382/s101], Oct. 20, 1994, [108 Stat. 3847][/us/stat/108/3847], defined terms.
-
 ----------
 
-[Previous](./../../../../../..//us/usc/t20/ch70/schX/ptI/m__us_usc_t20_ch70_schX_ptI.md) | [Next](./../../../../../..//us/usc/t20/ch70/schX/ptJ/spt1/m__us_usc_t20_ch70_schX_ptJ_spt1.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fch70%2FschX%2FptJ)
+[Previous](./../../../../../..//us/usc/t20/ch70/schX/ptI/m__us_usc_t20_s8241...8247.md) | [Next](./../../../../../..//us/usc/t20/ch70/schX/ptJ/m__us_usc_t20_s8271 _us_usc_t20_s8272.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fch70%2FschX%2FptJ)
 
 ----------
 ----------
 
-[/us/pl/107/110/s1011/5/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F110%2Fs1011%2F5%2FA
-[/us/stat/115/1986]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F1986
-[/us/pl/89/10/s10951]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F10%2Fs10951
-[/us/pl/103/382/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F382%2Fs101
-[/us/stat/108/3847]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3847
-[/us/pl/89/10/s10952]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F10%2Fs10952
-[/us/pl/103/382/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F382%2Fs101
-[/us/stat/108/3847]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3847
 
 

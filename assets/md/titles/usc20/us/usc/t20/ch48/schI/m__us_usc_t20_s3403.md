@@ -27,7 +27,7 @@
 
         The Secretary shall not, during the period within eight months after May 4, 1980, take any action to withhold, suspend, or terminate funds under any program transferred by this chapter by reason of the failure of any State to comply with any applicable law requiring the administration of such a program through a single organizational unit.
 
-([Pub. L. 96–88, title I, § 103][/us/pl/96/88/s103], Oct. 17, 1979, [93 Stat. 670][/us/stat/93/670].)
+([Pub. L. 96–88, title I][/us/pl/96/88/tI], § 103, Oct. 17, 1979, [93 Stat. 670][/us/stat/93/670].)
 
  __Codification__ 
 
@@ -40,7 +40,7 @@
 ----------
 ----------
 
-[/us/pl/96/88/s103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F88%2Fs103
+[/us/pl/96/88/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F88%2FtI
 [/us/stat/93/670]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F670
 [/us/pl/96/88/s601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F88%2Fs601
 [/us/usc/t20/s3401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs3401

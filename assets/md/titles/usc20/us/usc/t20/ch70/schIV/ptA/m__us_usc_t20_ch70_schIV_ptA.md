@@ -13,7 +13,11 @@
 
 [Previous](./../../../../../..//us/usc/t20/ch70/schIV/m__us_usc_t20_ch70_schIV.md) | [Next](./../../../../../..//us/usc/t20/ch70/schIV/ptA/m__us_usc_t20_s7101.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fch70%2FschIV%2FptA)
 
-#### Part A—Safe and Drug-Free Schools and Communities
+#### Part A—Student Support and Academic Enrichment Grants
+
+ __Codification__ 
+
+    [Pub. L. 114–95, title IV][/us/pl/114/95/tIV], § 4001(a)(5)(A), Dec. 10, 2015, [129 Stat. 1966][/us/stat/129/1966], substituted “STUDENT SUPPORT AND ACADEMIC ENRICHMENT GRANTS” for “SAFE AND DRUG-FREE SCHOOLS AND COMMUNITIES” in part heading.
 
 ----------
 
@@ -22,5 +26,7 @@
 ----------
 ----------
 
+[/us/pl/114/95/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F95%2FtIV
+[/us/stat/129/1966]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1966
 
 

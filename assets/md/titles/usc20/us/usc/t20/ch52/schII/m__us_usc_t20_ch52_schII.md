@@ -11,102 +11,16 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t20/ch52/schI/m__us_usc_t20_s3922.md) | [Next](./../../../../..//us/usc/t20/ch52/schIII/m__us_usc_t20_ch52_schIII.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fch52%2FschII)
+[Previous](./../../../../..//us/usc/t20/ch52/schI/m__us_usc_t20_s3922.md) | [Next](./../../../../..//us/usc/t20/ch52/schII/m__us_usc_t20_s3961...3973.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fch52%2FschII)
 
 ### SUBCHAPTER II—EDUCATION FOR ECONOMIC SECURITY
 
-§§ 3961 to 3973. __Repealed.__  __[__  __Pub. L. 100–297, title II, § 2303__  __][/us/pl/100/297/s2303]__  __,__  __Apr. 28, 1988__  __,__  __[__  __102 Stat. 324__  __][/us/stat/102/324]__ 
-
-    Section 3961, [Pub. L. 98–377, title II, § 201][/us/pl/98/377/s201], Aug. 11, 1984, [98 Stat. 1273][/us/stat/98/1273], related to purpose of subchapter.
-
-    Section 3962, [Pub. L. 98–377, title II, § 202][/us/pl/98/377/s202], Aug. 11, 1984, [98 Stat. 1274][/us/stat/98/1274], defined “junior or community college”.
-
-    Section 3963, [Pub. L. 98–377, title II, § 203][/us/pl/98/377/s203], Aug. 11, 1984, [98 Stat. 1274][/us/stat/98/1274]; [Pub. L. 99–159, title II, § 222(a)][/us/pl/99/159/s222/a], Nov. 22, 1985, [99 Stat. 897][/us/stat/99/897]; [Pub. L. 100–418, title VI, § 6005][/us/pl/100/418/s6005], Aug. 23, 1988, [102 Stat. 1471][/us/stat/102/1471], related to program authorized.
-
-    Section 3964, [Pub. L. 98–377, title II, § 204][/us/pl/98/377/s204], Aug. 11, 1984, [98 Stat. 1274][/us/stat/98/1274]; [Pub. L. 99–159, title II, § 223][/us/pl/99/159/s223], Nov. 22, 1985, [99 Stat. 897][/us/stat/99/897], related to allotment to States.
-
-    Section 3965, [Pub. L. 98–377, title II, § 205][/us/pl/98/377/s205], Aug. 11, 1984, [98 Stat. 1275][/us/stat/98/1275]; [Pub. L. 99–159, title II, § 222(b)][/us/pl/99/159/s222/b], Nov. 22, 1985, [99 Stat. 897][/us/stat/99/897], related to in-State apportionment.
-
-    Section 3966, [Pub. L. 98–377, title II, § 206][/us/pl/98/377/s206], Aug. 11, 1984, [98 Stat. 1275][/us/stat/98/1275]; [Pub. L. 99–159, title II, § 224][/us/pl/99/159/s224], Nov. 22, 1985, [99 Stat. 898][/us/stat/99/898], related to elementary and secondary education programs.
-
-    Section 3967, [Pub. L. 98–377, title II, § 207][/us/pl/98/377/s207], Aug. 11, 1984, [98 Stat. 1277][/us/stat/98/1277]; [Pub. L. 99–159, title II, § 225][/us/pl/99/159/s225], Nov. 22, 1985, [99 Stat. 899][/us/stat/99/899], related to higher education programs.
-
-    Section 3968, [Pub. L. 98–377, title II, § 208][/us/pl/98/377/s208], Aug. 11, 1984, [98 Stat. 1278][/us/stat/98/1278]; [Pub. L. 99–159, title II, § 226][/us/pl/99/159/s226], Nov. 22, 1985, [99 Stat. 899][/us/stat/99/899], related to State assessments of mathematics, science, foreign languages, and computer learning.
-
-    Section 3969, [Pub. L. 98–377, title II, § 209][/us/pl/98/377/s209], Aug. 11, 1984, [98 Stat. 1279][/us/stat/98/1279]; [Pub. L. 99–159, title II, § 227][/us/pl/99/159/s227], Nov. 22, 1985, [99 Stat. 899][/us/stat/99/899], related to State applications.
-
-    Section 3970, [Pub. L. 98–377, title II, § 210][/us/pl/98/377/s210], Aug. 11, 1984, [98 Stat. 1280][/us/stat/98/1280]; [Pub. L. 99–159, title II, § 228][/us/pl/99/159/s228], Nov. 22, 1985, [99 Stat. 900][/us/stat/99/900], related to local educational agency assessments.
-
-    Section 3971, [Pub. L. 98–377, title II, § 211][/us/pl/98/377/s211], Aug. 11, 1984, [98 Stat. 1281][/us/stat/98/1281]; [Pub. L. 99–159, title II, § 228A][/us/pl/99/159/s228A], Nov. 22, 1985, [99 Stat. 900][/us/stat/99/900], related to participation of children and teachers from private nonprofit schools.
-
-    Section 3972, [Pub. L. 98–377, title II, § 212][/us/pl/98/377/s212], Aug. 11, 1984, [98 Stat. 1281][/us/stat/98/1281]; [Pub. L. 99–159, title II, § 229][/us/pl/99/159/s229], Nov. 22, 1985, [99 Stat. 900][/us/stat/99/900], related to Secretary’s discretionary fund for programs of national significance.
-
-    Section 3973, [Pub. L. 98–377, title II, § 213][/us/pl/98/377/s213], Aug. 11, 1984, [98 Stat. 1282][/us/stat/98/1282]; [Pub. L. 99–159, title II, § 230][/us/pl/99/159/s230], Nov. 22, 1985, [99 Stat. 900][/us/stat/99/900], related to payments.
-
- __Effective Date of Repeal__ 
-
-    Repeal effective July 1, 1988, see [section 6303 of Pub. L. 100–297][/us/pl/100/297/s6303], set out as an Effective Date of 1988 Amendment note under [section 1071 of this title][/us/usc/t20/s1071].
-
 ----------
 
-[Previous](./../../../../..//us/usc/t20/ch52/schI/m__us_usc_t20_s3922.md) | [Next](./../../../../..//us/usc/t20/ch52/schIII/m__us_usc_t20_ch52_schIII.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fch52%2FschII)
+[Previous](./../../../../..//us/usc/t20/ch52/schI/m__us_usc_t20_s3922.md) | [Next](./../../../../..//us/usc/t20/ch52/schII/m__us_usc_t20_s3961...3973.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fch52%2FschII)
 
 ----------
 ----------
 
-[/us/pl/100/297/s2303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F297%2Fs2303
-[/us/stat/102/324]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F324
-[/us/pl/98/377/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F377%2Fs201
-[/us/stat/98/1273]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F1273
-[/us/pl/98/377/s202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F377%2Fs202
-[/us/stat/98/1274]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F1274
-[/us/pl/98/377/s203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F377%2Fs203
-[/us/stat/98/1274]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F1274
-[/us/pl/99/159/s222/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F159%2Fs222%2Fa
-[/us/stat/99/897]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F897
-[/us/pl/100/418/s6005]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2Fs6005
-[/us/stat/102/1471]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1471
-[/us/pl/98/377/s204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F377%2Fs204
-[/us/stat/98/1274]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F1274
-[/us/pl/99/159/s223]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F159%2Fs223
-[/us/stat/99/897]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F897
-[/us/pl/98/377/s205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F377%2Fs205
-[/us/stat/98/1275]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F1275
-[/us/pl/99/159/s222/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F159%2Fs222%2Fb
-[/us/stat/99/897]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F897
-[/us/pl/98/377/s206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F377%2Fs206
-[/us/stat/98/1275]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F1275
-[/us/pl/99/159/s224]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F159%2Fs224
-[/us/stat/99/898]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F898
-[/us/pl/98/377/s207]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F377%2Fs207
-[/us/stat/98/1277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F1277
-[/us/pl/99/159/s225]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F159%2Fs225
-[/us/stat/99/899]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F899
-[/us/pl/98/377/s208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F377%2Fs208
-[/us/stat/98/1278]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F1278
-[/us/pl/99/159/s226]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F159%2Fs226
-[/us/stat/99/899]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F899
-[/us/pl/98/377/s209]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F377%2Fs209
-[/us/stat/98/1279]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F1279
-[/us/pl/99/159/s227]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F159%2Fs227
-[/us/stat/99/899]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F899
-[/us/pl/98/377/s210]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F377%2Fs210
-[/us/stat/98/1280]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F1280
-[/us/pl/99/159/s228]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F159%2Fs228
-[/us/stat/99/900]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F900
-[/us/pl/98/377/s211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F377%2Fs211
-[/us/stat/98/1281]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F1281
-[/us/pl/99/159/s228A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F159%2Fs228A
-[/us/stat/99/900]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F900
-[/us/pl/98/377/s212]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F377%2Fs212
-[/us/stat/98/1281]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F1281
-[/us/pl/99/159/s229]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F159%2Fs229
-[/us/stat/99/900]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F900
-[/us/pl/98/377/s213]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F377%2Fs213
-[/us/stat/98/1282]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F1282
-[/us/pl/99/159/s230]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F159%2Fs230
-[/us/stat/99/900]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F900
-[/us/pl/100/297/s6303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F297%2Fs6303
-[/us/usc/t20/s1071]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1071
 
 

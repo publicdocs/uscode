@@ -45,7 +45,7 @@
 
         Nothing in this section is intended to repeal or limit the authority of the National Science Foundation or the Director of the National Science Foundation to initiate and conduct programs under the National Science Foundation Act of 1950 \[[42 U.S.C. 1861][/us/usc/t42/s1861] et seq.\].
 
-([Pub. L. 96–88, title III, § 303][/us/pl/96/88/s303], formerly § 304, Oct. 17, 1979, [93 Stat. 680][/us/stat/93/680]; renumbered § 303, [Pub. L. 103–382, title II, § 271(a)(2)][/us/pl/103/382/s271/a/2], Oct. 20, 1994, [108 Stat. 3929][/us/stat/108/3929].)
+([Pub. L. 96–88, title III][/us/pl/96/88/tIII], § 303, formerly § 304, Oct. 17, 1979, [93 Stat. 680][/us/stat/93/680]; renumbered § 303, [Pub. L. 103–382, title II][/us/pl/103/382/tII], § 271(a)(2), Oct. 20, 1994, [108 Stat. 3929][/us/stat/108/3929].)
 
  __References in Text__ 
 
@@ -69,9 +69,9 @@
 [/us/usc/t42/s1861]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1861
 [/us/usc/t20/s3486]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs3486
 [/us/usc/t42/s1861]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1861
-[/us/pl/96/88/s303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F88%2Fs303
+[/us/pl/96/88/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F88%2FtIII
 [/us/stat/93/680]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F680
-[/us/pl/103/382/s271/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F382%2Fs271%2Fa%2F2
+[/us/pl/103/382/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F382%2FtII
 [/us/stat/108/3929]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3929
 [/us/act/1950-05-10/ch171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-05-10%2Fch171
 [/us/stat/64/149]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F149

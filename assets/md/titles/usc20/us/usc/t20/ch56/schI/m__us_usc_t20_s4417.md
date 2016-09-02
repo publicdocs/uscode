@@ -49,7 +49,7 @@
 
         (3) coordinate efforts to preserve, support, revitalize, and develop evolving forms of Indian art and culture.
 
-([Pub. L. 99–498, title XV, § 1510][/us/pl/99/498/s1510], Oct. 17, 1986, [100 Stat. 1606][/us/stat/100/1606]; [Pub. L. 101–644, title V, § 502][/us/pl/101/644/s502], Nov. 29, 1990, [104 Stat. 4668][/us/stat/104/4668]; [Pub. L. 102–325, title XIII, § 1331(d)][/us/pl/102/325/s1331/d], July 23, 1992, [106 Stat. 807][/us/stat/106/807].)
+([Pub. L. 99–498, title XV][/us/pl/99/498/tXV], § 1510, Oct. 17, 1986, [100 Stat. 1606][/us/stat/100/1606]; [Pub. L. 101–644, title V][/us/pl/101/644/tV], § 502, Nov. 29, 1990, [104 Stat. 4668][/us/stat/104/4668]; [Pub. L. 102–325, title XIII][/us/pl/102/325/tXIII], § 1331(d), July 23, 1992, [106 Stat. 807][/us/stat/106/807].)
 
  __Amendments__ 
 
@@ -77,9 +77,9 @@
 
     “(3) a Museum of American Indian and Alaska Native Arts, which shall be under the direction of the President of the Institute.”
 
-    1990—Subsec. (b)(2). [Pub. L. 101–644, § 502(1)][/us/pl/101/644/s502/1], redesignated subpars. (B) to (I) as (A) to (H), respectively, and struck out former subpar. (A) which related to a museum of Indian arts.
+    1990—Subsec. (b)(2). [Pub. L. 101–644][/us/pl/101/644], § 502(1), redesignated subpars. (B) to (I) as (A) to (H), respectively, and struck out former subpar. (A) which related to a museum of Indian arts.
 
-    Subsec. (b)(3). [Pub. L. 101–644, § 502(2)][/us/pl/101/644/s502/2]–(4), added par. (3).
+    Subsec. (b)(3). [Pub. L. 101–644][/us/pl/101/644], § 502(2)–(4), added par. (3).
 
  __Effective Date of 1992 Amendment__ 
 
@@ -92,15 +92,15 @@
 ----------
 ----------
 
-[/us/pl/99/498/s1510]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F498%2Fs1510
+[/us/pl/99/498/tXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F498%2FtXV
 [/us/stat/100/1606]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1606
-[/us/pl/101/644/s502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F644%2Fs502
+[/us/pl/101/644/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F644%2FtV
 [/us/stat/104/4668]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4668
-[/us/pl/102/325/s1331/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325%2Fs1331%2Fd
+[/us/pl/102/325/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325%2FtXIII
 [/us/stat/106/807]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F807
 [/us/pl/102/325]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325
-[/us/pl/101/644/s502/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F644%2Fs502%2F1
-[/us/pl/101/644/s502/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F644%2Fs502%2F2
+[/us/pl/101/644]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F644
+[/us/pl/101/644]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F644
 [/us/pl/102/325]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325
 [/us/pl/102/325/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325%2Fs2
 [/us/usc/t20/s1001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1001

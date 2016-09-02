@@ -17,7 +17,7 @@
 
     The Institute shall provide, in cooperation with the other members participating in the eligible recipient consortium, a program of study leading to an advanced degree in international relations, international affairs, international economics, or other academic areas related to the Institute fellow’s career objectives. The advanced degree study program shall be designed by the consortia, consistent with the fellow’s career objectives, and shall be reviewed and approved by the Secretary. The Institute may grant fellowships in an amount not to exceed the level of support comparable to that provided by the National Science Foundation graduate fellowships, except such amount shall be adjusted as necessary so as not to exceed the fellow’s demonstrated level of need according to measurement of need approved by the Secretary. A fellowship recipient shall agree to undertake full-time study and to enter the international service (including work with private international voluntary organizations) or foreign service of the United States.
 
-([Pub. L. 89–329, title VI, § 624][/us/pl/89/329/s624], formerly § 623, as added [Pub. L. 102–325, title VI, § 601][/us/pl/102/325/s601], July 23, 1992, [106 Stat. 735][/us/stat/106/735]; renumbered § 624, [Pub. L. 105–244, title VI, § 603(b)(1)][/us/pl/105/244/s603/b/1], Oct. 7, 1998, [112 Stat. 1783][/us/stat/112/1783]; amended [Pub. L. 110–315, title VI, § 615][/us/pl/110/315/s615], Aug. 14, 2008, [122 Stat. 3341][/us/stat/122/3341].)
+([Pub. L. 89–329, title VI][/us/pl/89/329/tVI], § 624, formerly § 623, as added [Pub. L. 102–325, title VI][/us/pl/102/325/tVI], § 601, July 23, 1992, [106 Stat. 735][/us/stat/106/735]; renumbered § 624, [Pub. L. 105–244, title VI][/us/pl/105/244/tVI], § 603(b)(1), Oct. 7, 1998, [112 Stat. 1783][/us/stat/112/1783]; amended [Pub. L. 110–315, title VI][/us/pl/110/315/tVI], § 615, Aug. 14, 2008, [122 Stat. 3341][/us/stat/122/3341].)
 
  __Prior Provisions__ 
 
@@ -34,12 +34,12 @@
 ----------
 ----------
 
-[/us/pl/89/329/s624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2Fs624
-[/us/pl/102/325/s601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325%2Fs601
+[/us/pl/89/329/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2FtVI
+[/us/pl/102/325/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325%2FtVI
 [/us/stat/106/735]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F735
-[/us/pl/105/244/s603/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2Fs603%2Fb%2F1
+[/us/pl/105/244/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2FtVI
 [/us/stat/112/1783]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F1783
-[/us/pl/110/315/s615]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2Fs615
+[/us/pl/110/315/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2FtVI
 [/us/stat/122/3341]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3341
 [/us/pl/89/329/s624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2Fs624
 [/us/usc/t20/s1131c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1131c

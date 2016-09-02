@@ -223,7 +223,7 @@
 
                 (iii) an annual authorization of appropriations under the Act of March 2, 1867 ([14 Stat. 438][/us/stat/14/438]; [20 U.S.C. 123][/us/usc/t20/s123]).
 
-([Pub. L. 89–329, title III, § 371][/us/pl/89/329/s371], formerly title IV, § 499A, as added [Pub. L. 110–84, title VIII, § 802][/us/pl/110/84/s802], Sept. 27, 2007, [121 Stat. 817][/us/stat/121/817]; renumbered title III, § 371, and amended [Pub. L. 110–315, title III, § 316(a)(3)][/us/pl/110/315/s316/a/3], (b), (c), Aug. 14, 2008, [122 Stat. 3185][/us/stat/122/3185]; [Pub. L. 111–39, title III, § 301(7)][/us/pl/111/39/s301/7], July 1, 2009, [123 Stat. 1937][/us/stat/123/1937]; [Pub. L. 111–152, title II, § 2103][/us/pl/111/152/s2103], Mar. 30, 2010, [124 Stat. 1074][/us/stat/124/1074].)
+([Pub. L. 89–329, title III][/us/pl/89/329/tIII], § 371, formerly title IV, § 499A, as added [Pub. L. 110–84, title VIII][/us/pl/110/84/tVIII], § 802, Sept. 27, 2007, [121 Stat. 817][/us/stat/121/817]; renumbered title III, § 371, and amended [Pub. L. 110–315, title III][/us/pl/110/315/tIII], § 316(a)(3), (b), (c), Aug. 14, 2008, [122 Stat. 3185][/us/stat/122/3185]; [Pub. L. 111–39, title III][/us/pl/111/39/tIII], § 301(7), July 1, 2009, [123 Stat. 1937][/us/stat/123/1937]; [Pub. L. 111–152, title II][/us/pl/111/152/tII], § 2103, Mar. 30, 2010, [124 Stat. 1074][/us/stat/124/1074].)
 
  __References in Text__ 
 
@@ -239,15 +239,15 @@
 
     2010—Subsec. (b)(1)(A). [Pub. L. 111–152][/us/pl/111/152] substituted “through 2019. The authority to award grants under this section shall expire at the end of fiscal year 2019.” for “and 2009. The authority to award grants under this section shall expire at the end of fiscal year 2009.”
 
-    2009—Subsec. (c)(3)(D), (4), (9)(C)(iii). [Pub. L. 111–39, § 301(7)(A)][/us/pl/111/39/s301/7/A]–(C)(i), substituted “1070a–11(h)” for “1070a–11(g)”.
+    2009—Subsec. (c)(3)(D), (4), (9)(C)(iii). [Pub. L. 111–39][/us/pl/111/39], § 301(7)(A)–(C)(i), substituted “1070a–11(h)” for “1070a–11(g)”.
 
-    Subsec. (c)(9)(F). [Pub. L. 111–39, § 301(7)(C)(ii)][/us/pl/111/39/s301/7/C/ii], amended subpar. (F) generally. Prior to amendment, subpar. (F) read as follows: “is not receiving assistance under part B of this subchapter.”
+    Subsec. (c)(9)(F). [Pub. L. 111–39][/us/pl/111/39], § 301(7)(C)(ii), amended subpar. (F) generally. Prior to amendment, subpar. (F) read as follows: “is not receiving assistance under part B of this subchapter.”
 
-    2008—Subsec. (b)(1). [Pub. L. 110–315, § 316(c)][/us/pl/110/315/s316/c], amended par. (1) generally. Prior to amendment, text read as follows: “There shall be available to the Secretary to carry out this section, from funds not otherwise appropriated, $255,000,000 for each of the fiscal years 2008 and 2009. The authority to award grants under this section shall expire at the end of fiscal year 2009.”
+    2008—Subsec. (b)(1). [Pub. L. 110–315][/us/pl/110/315], § 316(c), amended par. (1) generally. Prior to amendment, text read as follows: “There shall be available to the Secretary to carry out this section, from funds not otherwise appropriated, $255,000,000 for each of the fiscal years 2008 and 2009. The authority to award grants under this section shall expire at the end of fiscal year 2009.”
 
-    Subsec. (b)(2)(C)(i). [Pub. L. 110–315, § 316(b)(1)][/us/pl/110/315/s316/b/1], substituted “this subchapter” for “subchapter III” in two places.
+    Subsec. (b)(2)(C)(i). [Pub. L. 110–315][/us/pl/110/315], § 316(b)(1), substituted “this subchapter” for “subchapter III” in two places.
 
-    Subsec. (c)(9)(F). [Pub. L. 110–315, § 316(b)(2)][/us/pl/110/315/s316/b/2], substituted “this subchapter” for “subchapter III”.
+    Subsec. (c)(9)(F). [Pub. L. 110–315][/us/pl/110/315], § 316(b)(2), substituted “this subchapter” for “subchapter III”.
 
  __Effective Date of 2009 Amendment__ 
 
@@ -287,14 +287,14 @@
 [/us/usc/t20/s1070a–11/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1070a%E2%80%9311%2Fh
 [/us/stat/14/438]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F14%2F438
 [/us/usc/t20/s123]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs123
-[/us/pl/89/329/s371]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2Fs371
-[/us/pl/110/84/s802]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F84%2Fs802
+[/us/pl/89/329/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2FtIII
+[/us/pl/110/84/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F84%2FtVIII
 [/us/stat/121/817]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F817
-[/us/pl/110/315/s316/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2Fs316%2Fa%2F3
+[/us/pl/110/315/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2FtIII
 [/us/stat/122/3185]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3185
-[/us/pl/111/39/s301/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F39%2Fs301%2F7
+[/us/pl/111/39/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F39%2FtIII
 [/us/stat/123/1937]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1937
-[/us/pl/111/152/s2103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F152%2Fs2103
+[/us/pl/111/152/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F152%2FtII
 [/us/stat/124/1074]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1074
 [/us/pl/89/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F10
 [/us/stat/79/27]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F27
@@ -305,11 +305,11 @@
 [/us/usc/t20/s1099e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1099e
 [/us/pl/110/315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315
 [/us/pl/111/152]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F152
-[/us/pl/111/39/s301/7/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F39%2Fs301%2F7%2FA
-[/us/pl/111/39/s301/7/C/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F39%2Fs301%2F7%2FC%2Fii
-[/us/pl/110/315/s316/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2Fs316%2Fc
-[/us/pl/110/315/s316/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2Fs316%2Fb%2F1
-[/us/pl/110/315/s316/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2Fs316%2Fb%2F2
+[/us/pl/111/39]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F39
+[/us/pl/111/39]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F39
+[/us/pl/110/315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315
+[/us/pl/110/315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315
+[/us/pl/110/315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315
 [/us/pl/111/39]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F39
 [/us/pl/110/315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315
 [/us/pl/111/39/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F39%2Fs3

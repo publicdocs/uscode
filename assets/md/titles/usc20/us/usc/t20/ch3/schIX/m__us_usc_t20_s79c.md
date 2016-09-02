@@ -17,7 +17,7 @@
 
     The Smithsonian Institution may select and designate a resident manager to assist in carrying out the policy, conditions, and regulations approved by it in compliance with the purposes of this subchapter. The resident manager shall receive such compensation for his services as may be allowed by the Smithsonian Institution.
 
-([July 2, 1940, ch. 516, § 5][/us/act/1940-07-02/ch516/s5], [54 Stat. 725][/us/stat/54/725]; 1946 Reorg. Plan No. 3, § 801, eff. July 16, 1946, 11 F.R. 7877, [60 Stat. 1101][/us/stat/60/1101].)
+([July 2, 1940, ch. 516][/us/act/1940-07-02/ch516], § 5, [54 Stat. 725][/us/stat/54/725]; 1946 Reorg. Plan No. 3, § 801, eff. July 16, 1946, 11 F.R. 7877, [60 Stat. 1101][/us/stat/60/1101].)
 
  __Codification__ 
 
@@ -34,7 +34,7 @@
 ----------
 ----------
 
-[/us/act/1940-07-02/ch516/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1940-07-02%2Fch516%2Fs5
+[/us/act/1940-07-02/ch516]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1940-07-02%2Fch516
 [/us/stat/54/725]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F54%2F725
 [/us/stat/60/1101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F60%2F1101
 [/us/usc/t48/s1385]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft48%2Fs1385

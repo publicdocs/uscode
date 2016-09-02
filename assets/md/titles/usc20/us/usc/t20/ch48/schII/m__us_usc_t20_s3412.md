@@ -115,7 +115,7 @@
 
                 (iii) education programs located in, and regarding, rural areas.
 
-([Pub. L. 96–88, title II, § 202][/us/pl/96/88/s202], Oct. 17, 1979, [93 Stat. 671][/us/stat/93/671]; [Pub. L. 99–145, title XII, § 1204(a)(1)][/us/pl/99/145/s1204/a/1], Nov. 8, 1985, [99 Stat. 720][/us/stat/99/720]; [Pub. L. 101–509, title V, § 529][/us/pl/101/509/s529] \[title I, § 112(a)(3)(B)\], Nov. 5, 1990, [104 Stat. 1427][/us/stat/104/1427], 1454; [Pub. L. 102–73, title I, § 101][/us/pl/102/73/s101], July 25, 1991, [105 Stat. 334][/us/stat/105/334]; [Pub. L. 102–103, title II, § 201][/us/pl/102/103/s201], Aug. 17, 1991, [105 Stat. 498][/us/stat/105/498]; [Pub. L. 102–325, title XV, § 1553(a)][/us/pl/102/325/s1553/a], July 23, 1992, [106 Stat. 838][/us/stat/106/838]; [Pub. L. 103–227, title IX, § 913][/us/pl/103/227/s913], Mar. 31, 1994, [108 Stat. 223][/us/stat/108/223]; [Pub. L. 103–382, title II, § 271(b)][/us/pl/103/382/s271/b], Oct. 20, 1994, [108 Stat. 3929][/us/stat/108/3929]; [Pub. L. 107–110, title X, § 1072(e)(2)][/us/pl/107/110/s1072/e/2], Jan. 8, 2002, [115 Stat. 2089][/us/stat/115/2089]; [Pub. L. 107–279, title IV, § 402(1)][/us/pl/107/279/s402/1], Nov. 5, 2002, [116 Stat. 1984][/us/stat/116/1984]; [Pub. L. 112–166, § 2(d)(1)][/us/pl/112/166/s2/d/1], Aug. 10, 2012, [126 Stat. 1284][/us/stat/126/1284]; [Pub. L. 113–76, div. H, title III, § 307(b)][/us/pl/113/76/s307/b], Jan. 17, 2014, [128 Stat. 399][/us/stat/128/399].)
+([Pub. L. 96–88, title II][/us/pl/96/88/tII], § 202, Oct. 17, 1979, [93 Stat. 671][/us/stat/93/671]; [Pub. L. 99–145, title XII][/us/pl/99/145/tXII], § 1204(a)(1), Nov. 8, 1985, [99 Stat. 720][/us/stat/99/720]; [Pub. L. 101–509, title V][/us/pl/101/509/tV], § 529 \[title I, § 112(a)(3)(B)\], Nov. 5, 1990, [104 Stat. 1427][/us/stat/104/1427], 1454; [Pub. L. 102–73, title I][/us/pl/102/73/tI], § 101, July 25, 1991, [105 Stat. 334][/us/stat/105/334]; [Pub. L. 102–103, title II][/us/pl/102/103/tII], § 201, Aug. 17, 1991, [105 Stat. 498][/us/stat/105/498]; [Pub. L. 102–325, title XV][/us/pl/102/325/tXV], § 1553(a), July 23, 1992, [106 Stat. 838][/us/stat/106/838]; [Pub. L. 103–227, title IX][/us/pl/103/227/tIX], § 913, Mar. 31, 1994, [108 Stat. 223][/us/stat/108/223]; [Pub. L. 103–382, title II][/us/pl/103/382/tII], § 271(b), Oct. 20, 1994, [108 Stat. 3929][/us/stat/108/3929]; [Pub. L. 107–110, title X][/us/pl/107/110/tX], § 1072(e)(2), Jan. 8, 2002, [115 Stat. 2089][/us/stat/115/2089]; [Pub. L. 107–279, title IV][/us/pl/107/279/tIV], § 402(1), Nov. 5, 2002, [116 Stat. 1984][/us/stat/116/1984]; [Pub. L. 112–166][/us/pl/112/166], § 2(d)(1), Aug. 10, 2012, [126 Stat. 1284][/us/stat/126/1284]; [Pub. L. 113–76, div. H, title III][/us/pl/113/76/dH/tIII], § 307(b), Jan. 17, 2014, [128 Stat. 399][/us/stat/128/399].)
 
  __References in Text__ 
 
@@ -125,9 +125,9 @@
 
  __Amendments__ 
 
-    2014—Subsec. (b)(1)(C). [Pub. L. 113–76, § 307(b)(1)][/us/pl/113/76/s307/b/1], substituted “Assistant Secretary for Career, Technical, and Adult Education” for “Assistant Secretary for Vocational and Adult Education”.
+    2014—Subsec. (b)(1)(C). [Pub. L. 113–76][/us/pl/113/76], § 307(b)(1), substituted “Assistant Secretary for Career, Technical, and Adult Education” for “Assistant Secretary for Vocational and Adult Education”.
 
-    Subsec. (h). [Pub. L. 113–76, § 307(b)(2)][/us/pl/113/76/s307/b/2], substituted “Assistant Secretary for Career, Technical, and Adult Education” for “Assistant Secretary for Vocational and Adult Education” in two places.
+    Subsec. (h). [Pub. L. 113–76][/us/pl/113/76], § 307(b)(2), substituted “Assistant Secretary for Career, Technical, and Adult Education” for “Assistant Secretary for Vocational and Adult Education” in two places.
 
     2012—Subsec. (e). [Pub. L. 112–166][/us/pl/112/166], in introductory provisions, inserted “Notwithstanding the previous sentence, the appointments of individuals to serve as the Assistant Secretary for Management shall not be subject to the advice and consent of the Senate.”
 
@@ -145,11 +145,11 @@
 
     Subsec. (b)(3), (4). [Pub. L. 107–110][/us/pl/107/110] redesignated par. (3), relating to Assistant Secretary for Educational Research and Improvement, as (4).
 
-    1994—Subsec. (b)(1)(E) to (G). [Pub. L. 103–227, § 913(1)][/us/pl/103/227/s913/1], redesignated subpars. (F) and (G) as (E) and (F), respectively, and struck out former subpar. (E) which read as follows: “an Assistant Secretary for Educational Research and Improvement;”.
+    1994—Subsec. (b)(1)(E) to (G). [Pub. L. 103–227][/us/pl/103/227], § 913(1), redesignated subpars. (F) and (G) as (E) and (F), respectively, and struck out former subpar. (E) which read as follows: “an Assistant Secretary for Educational Research and Improvement;”.
 
     Subsec. (b)(3). [Pub. L. 103–382][/us/pl/103/382] added par. (3) relating to Special Assistant for Gender Equity.
 
-    [Pub. L. 103–227, § 913(2)][/us/pl/103/227/s913/2], added par. (3) relating to Assistant Secretary for Educational Research and Improvement.
+    [Pub. L. 103–227][/us/pl/103/227], § 913(2), added par. (3) relating to Assistant Secretary for Educational Research and Improvement.
 
     1992—Subsec. (i). [Pub. L. 102–325][/us/pl/102/325] added subsec. (i).
 
@@ -175,7 +175,7 @@
 
  __Effective Date of 1991 Amendment__ 
 
-[Pub. L. 102–103, title II, § 203][/us/pl/102/103/s203], Aug. 17, 1991, [105 Stat. 499][/us/stat/105/499], provided that:
+[Pub. L. 102–103, title II][/us/pl/102/103/tII], § 203, Aug. 17, 1991, [105 Stat. 499][/us/stat/105/499], provided that:
 
 >     “(a)  __In General__  __.—__ 
 
@@ -198,43 +198,43 @@
 
 [/us/usc/t20/s9514/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs9514%2Fa
 [/us/usc/t20/s9501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs9501
-[/us/pl/96/88/s202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F88%2Fs202
+[/us/pl/96/88/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F88%2FtII
 [/us/stat/93/671]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F671
-[/us/pl/99/145/s1204/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F145%2Fs1204%2Fa%2F1
+[/us/pl/99/145/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F145%2FtXII
 [/us/stat/99/720]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F720
-[/us/pl/101/509/s529]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F509%2Fs529
+[/us/pl/101/509/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F509%2FtV
 [/us/stat/104/1427]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1427
-[/us/pl/102/73/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F73%2Fs101
+[/us/pl/102/73/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F73%2FtI
 [/us/stat/105/334]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F334
-[/us/pl/102/103/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F103%2Fs201
+[/us/pl/102/103/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F103%2FtII
 [/us/stat/105/498]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F498
-[/us/pl/102/325/s1553/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325%2Fs1553%2Fa
+[/us/pl/102/325/tXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325%2FtXV
 [/us/stat/106/838]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F838
-[/us/pl/103/227/s913]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F227%2Fs913
+[/us/pl/103/227/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F227%2FtIX
 [/us/stat/108/223]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F223
-[/us/pl/103/382/s271/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F382%2Fs271%2Fb
+[/us/pl/103/382/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F382%2FtII
 [/us/stat/108/3929]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3929
-[/us/pl/107/110/s1072/e/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F110%2Fs1072%2Fe%2F2
+[/us/pl/107/110/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F110%2FtX
 [/us/stat/115/2089]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F2089
-[/us/pl/107/279/s402/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F279%2Fs402%2F1
+[/us/pl/107/279/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F279%2FtIV
 [/us/stat/116/1984]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1984
-[/us/pl/112/166/s2/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F166%2Fs2%2Fd%2F1
+[/us/pl/112/166]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F166
 [/us/stat/126/1284]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1284
-[/us/pl/113/76/s307/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F76%2Fs307%2Fb
+[/us/pl/113/76/dH/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F76%2FdH%2FtIII
 [/us/stat/128/399]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F399
 [/us/pl/107/279]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F279
 [/us/stat/116/1941]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1941
 [/us/usc/t20/s9501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs9501
 [/us/pl/95/452]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F452
 [/us/stat/92/1101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1101
-[/us/pl/113/76/s307/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F76%2Fs307%2Fb%2F1
-[/us/pl/113/76/s307/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F76%2Fs307%2Fb%2F2
+[/us/pl/113/76]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F76
+[/us/pl/113/76]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F76
 [/us/pl/112/166]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F166
 [/us/pl/107/279]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F279
 [/us/pl/107/110]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F110
-[/us/pl/103/227/s913/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F227%2Fs913%2F1
+[/us/pl/103/227]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F227
 [/us/pl/103/382]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F382
-[/us/pl/103/227/s913/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F227%2Fs913%2F2
+[/us/pl/103/227]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F227
 [/us/pl/102/325]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325
 [/us/pl/102/103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F103
 [/us/pl/102/73]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F73
@@ -249,7 +249,7 @@
 [/us/pl/102/325]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325
 [/us/pl/102/325/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325%2Fs2
 [/us/usc/t20/s1001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1001
-[/us/pl/102/103/s203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F103%2Fs203
+[/us/pl/102/103/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F103%2FtII
 [/us/stat/105/499]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F499
 [/us/pl/102/103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F103
 [/us/usc/t5/s5314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5314

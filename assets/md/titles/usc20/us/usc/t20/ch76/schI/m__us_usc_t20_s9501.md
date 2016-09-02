@@ -17,9 +17,19 @@
 
     In this subchapter:
 
-    (1) __In general__ 
+    (1)
 
-        The terms “elementary school”, “secondary school”, “local educational agency”, and “State educational agency” have the meanings given those terms in [section 7801 of this title][/us/usc/t20/s7801] and the terms “freely associated states” and “outlying area” have the meanings given those terms in [section 6331(c) of this title][/us/usc/t20/s6331/c].
+        (A) __In general__ 
+
+            The terms “elementary school”, “secondary school”, “local educational agency”, and “State educational agency” have the meanings given those terms in [section 7801 of this title][/us/usc/t20/s7801].
+
+        (B) __Outlying areas__ 
+
+            The term “outlying areas” has the meaning given such term in [section 6331(c) of this title][/us/usc/t20/s6331/c].
+
+        (C) __Freely associated states__ 
+
+            The term “freely associated states” means the Republic of the Marshall Islands, the Federated States of Micronesia, and the Republic of Palau.
 
     (2) __Applied research__ 
 
@@ -173,31 +183,39 @@
 
         (C) other assistance necessary to encourage the improvement of teaching and learning through the applications of techniques supported by scientifically valid research.
 
-([Pub. L. 107–279, title I, § 102][/us/pl/107/279/s102], Nov. 5, 2002, [116 Stat. 1941][/us/stat/116/1941].)
+([Pub. L. 107–279, title I][/us/pl/107/279/tI], § 102, Nov. 5, 2002, [116 Stat. 1941][/us/stat/116/1941]; [Pub. L. 114–95, title IX][/us/pl/114/95/tIX], § 9215(ff)(1), Dec. 10, 2015, [129 Stat. 2174][/us/stat/129/2174].)
 
  __References in Text__ 
 
     The Head Start Act, referred to in par. (17)(B), is subchapter B (§§ 635–657) of chapter 8 of subtitle A of title VI of [Pub. L. 97–35][/us/pl/97/35], Aug. 13, 1981, [95 Stat. 499][/us/stat/95/499], as amended, which is classified generally to subchapter II (§ 9831 et seq.) of chapter 105 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 9801 of this Title][/us/usc/t20/s9801] 42 and Tables.
 
+ __Amendments__ 
+
+    2015—Par. (1). [Pub. L. 114–95][/us/pl/114/95] amended par. (1) generally. Prior to amendment, text read as follows: “The terms ‘elementary school’, ‘secondary school’, ‘local educational agency’, and ‘State educational agency’ have the meanings given those terms in [section 7801 of this title][/us/usc/t20/s7801] and the terms ‘freely associated states’ and ‘outlying area’ have the meanings given those terms in [section 6331(c) of this title][/us/usc/t20/s6331/c].”
+
+ __Effective Date of 2015 Amendment__ 
+
+    Amendment by [Pub. L. 114–95][/us/pl/114/95] effective Dec. 10, 2015, except with respect to certain noncompetitive programs and competitive programs, see [section 5 of Pub. L. 114–95][/us/pl/114/95/s5], set out as a note under [section 6301 of this title][/us/usc/t20/s6301].
+
  __Short Title__ 
 
-[Pub. L. 107–279, title I, § 101][/us/pl/107/279/s101], Nov. 5, 2002, [116 Stat. 1941][/us/stat/116/1941], provided that: 
+[Pub. L. 107–279, title I][/us/pl/107/279/tI], § 101, Nov. 5, 2002, [116 Stat. 1941][/us/stat/116/1941], provided that: 
 
 > “This title \[enacting this subchapter\] may be cited as the ‘Education Sciences Reform Act of 2002’.”
 
-[Pub. L. 107–279, title II, § 201][/us/pl/107/279/s201], Nov. 5, 2002, [116 Stat. 1975][/us/stat/116/1975], provided that: 
+[Pub. L. 107–279, title II][/us/pl/107/279/tII], § 201, Nov. 5, 2002, [116 Stat. 1975][/us/stat/116/1975], provided that: 
 
 > “This title \[enacting subchapter II of this chapter\] may be cited as the ‘Educational Technical Assistance Act of 2002’.”
 
-[Pub. L. 107–279, title III, § 301][/us/pl/107/279/s301], Nov. 5, 2002, [116 Stat. 1982][/us/stat/116/1982], provided that: 
+[Pub. L. 107–279, title III][/us/pl/107/279/tIII], § 301, Nov. 5, 2002, [116 Stat. 1982][/us/stat/116/1982], provided that: 
 
 > “This title \[enacting subchapter III of this chapter\] may be referred to as the ‘National Assessment of Educational Progress Authorization Act’.”
 
  __Orderly Transition__ 
 
-[Pub. L. 107–279, title IV, § 405][/us/pl/107/279/s405], Nov. 5, 2002, [116 Stat. 1986][/us/stat/116/1986], provided that: 
+[Pub. L. 107–279, title IV][/us/pl/107/279/tIV], § 405, Nov. 5, 2002, [116 Stat. 1986][/us/stat/116/1986], provided that: 
 
-> “The Secretary of Education shall take such steps as are necessary to provide for the orderly transition to, and implementation of, the offices, boards, committees, and centers (and their various functions and responsibilities) established or authorized by this Act \[enacting this chapter and [section 3419 of this title][/us/usc/t20/s3419], amending sections 1232j, 3412, 3461, 6194, 6311, 6312, 6317, 6491, 6932, 7013, 7253c, 7283b, 7283d, 7451, 7703, 7909, 9007, 9010, 9011, 9573, 9623, and 9624 of this title and [section 5315 of Title 5][/us/usc/t5/s5315], Government Organization and Employees, transferring sections 9010 and 9011 of this title to sections 9622 and 9621 of this title, respectively, repealing sections 3419, 6011, 6021, 6031, 6041, 6051, 6053 to 6053e, 6054 to 6054b, 6055 to 6055h, 6056, 6056a, 9001 to 9009, and 9012 of this title, enacting provisions set out as notes under this section and [section 7703 of this title][/us/usc/t20/s7703], and repealing provisions set out as notes under sections 1221e and 9001 of this title\], and by the amendments made by this Act, from those established or authorized by the Educational Research, Development, Dissemination, and Improvement Act of 1994 ([20 U.S.C. 6001][/us/usc/t20/s6001] et seq.) and the National Education Statistics Act of 1994 ([20 U.S.C. 9001][/us/usc/t20/s9001] et seq.).”
+> “The Secretary of Education shall take such steps as are necessary to provide for the orderly transition to, and implementation of, the offices, boards, committees, and centers (and their various functions and responsibilities) established or authorized by this Act \[enacting this chapter and [section 3419 of this title][/us/usc/t20/s3419], amending sections 1232j, 3412, 3461, 6194, 6311, 6312, \[former\] 6317, 6491, 6932, 7013, \[former\] 7253c, \[former\] 7283b, \[former\] 7283d, 7451, 7703, 7909, 9007, 9010, 9011, 9573, 9623, and 9624 of this title and [section 5315 of Title 5][/us/usc/t5/s5315], Government Organization and Employees, transferring sections 9010 and 9011 of this title to sections 9622 and 9621 of this title, respectively, repealing sections 3419, 6011, 6021, 6031, 6041, 6051, 6053 to 6053e, 6054 to 6054b, 6055 to 6055h, 6056, 6056a, 9001 to 9009, and 9012 of this title, enacting provisions set out as notes under this section and [section 7703 of this title][/us/usc/t20/s7703], and repealing provisions set out as notes under sections 1221e and 9001 of this title\], and by the amendments made by this Act, from those established or authorized by the Educational Research, Development, Dissemination, and Improvement Act of 1994 ([20 U.S.C. 6001][/us/usc/t20/s6001] et seq.) and the National Education Statistics Act of 1994 ([20 U.S.C. 9001][/us/usc/t20/s9001] et seq.).”
 
 ----------
 
@@ -216,18 +234,26 @@
 [/us/usc/t20/s9533/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs9533%2Fc
 [/us/usc/t42/s9831]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs9831
 [/us/usc/t20/s9548]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs9548
-[/us/pl/107/279/s102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F279%2Fs102
+[/us/pl/107/279/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F279%2FtI
 [/us/stat/116/1941]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1941
+[/us/pl/114/95/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F95%2FtIX
+[/us/stat/129/2174]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F2174
 [/us/pl/97/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35
 [/us/stat/95/499]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F499
 [/us/usc/t20/s9801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs9801
-[/us/pl/107/279/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F279%2Fs101
+[/us/pl/114/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F95
+[/us/usc/t20/s7801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs7801
+[/us/usc/t20/s6331/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs6331%2Fc
+[/us/pl/114/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F95
+[/us/pl/114/95/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F95%2Fs5
+[/us/usc/t20/s6301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs6301
+[/us/pl/107/279/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F279%2FtI
 [/us/stat/116/1941]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1941
-[/us/pl/107/279/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F279%2Fs201
+[/us/pl/107/279/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F279%2FtII
 [/us/stat/116/1975]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1975
-[/us/pl/107/279/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F279%2Fs301
+[/us/pl/107/279/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F279%2FtIII
 [/us/stat/116/1982]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1982
-[/us/pl/107/279/s405]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F279%2Fs405
+[/us/pl/107/279/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F279%2FtIV
 [/us/stat/116/1986]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1986
 [/us/usc/t20/s3419]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs3419
 [/us/usc/t5/s5315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5315

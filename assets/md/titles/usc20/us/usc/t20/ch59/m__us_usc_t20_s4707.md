@@ -31,21 +31,21 @@
 
         The interest on, and the proceeds from the sale or redemption of, any obligations held in the fund shall be credited to and form a part of the fund.
 
-([Pub. L. 99–661, div. A, title XIV, § 1408][/us/pl/99/661/s1408], Nov. 14, 1986, [100 Stat. 4010][/us/stat/100/4010]; [Pub. L. 102–190, div. A, title X, § 1089(2)][/us/pl/102/190/s1089/2], Dec. 5, 1991, [105 Stat. 1485][/us/stat/105/1485]; [Pub. L. 102–484, div. A, title X, § 1054(h)][/us/pl/102/484/s1054/h], Oct. 23, 1992, [106 Stat. 2503][/us/stat/106/2503].)
+([Pub. L. 99–661, div. A, title XIV][/us/pl/99/661/dA/tXIV], § 1408, Nov. 14, 1986, [100 Stat. 4010][/us/stat/100/4010]; [Pub. L. 102–190, div. A, title X][/us/pl/102/190/dA/tX], § 1089(2), Dec. 5, 1991, [105 Stat. 1485][/us/stat/105/1485]; [Pub. L. 102–484, div. A, title X][/us/pl/102/484/dA/tX], § 1054(h), Oct. 23, 1992, [106 Stat. 2503][/us/stat/106/2503].)
 
  __Codification__ 
 
-    In subsec. (b), “chapter 31 of title 31” substituted for “the Second Liberty Bond Act” on authority of [Pub. L. 97–258, § 4(b)][/us/pl/97/258/s4/b], Sept. 13, 1982, [96 Stat. 1067][/us/stat/96/1067], the first section of which enacted Title 31, Money and Finance.
+    In subsec. (b), “chapter 31 of title 31” substituted for “the Second Liberty Bond Act” on authority of [Pub. L. 97–258][/us/pl/97/258], § 4(b), Sept. 13, 1982, [96 Stat. 1067][/us/stat/96/1067], the first section of which enacted Title 31, Money and Finance.
 
  __Amendments__ 
 
     1992—Subsec. (c). [Pub. L. 102–484][/us/pl/102/484] struck out “(except special obligations issued exclusively to the fund)” after “by the fund”.
 
-    1991—Subsec. (b). [Pub. L. 102–190, § 1089(2)(A)][/us/pl/102/190/s1089/2/A], substituted “public debt securities of the United States with maturities suitable to the fund.” for “interest-bearing obligations of the United States or in obligations guaranteed as to both principal and interest by the United States.”
+    1991—Subsec. (b). [Pub. L. 102–190][/us/pl/102/190], § 1089(2)(A), substituted “public debt securities of the United States with maturities suitable to the fund.” for “interest-bearing obligations of the United States or in obligations guaranteed as to both principal and interest by the United States.”
 
-    Subsec. (c). [Pub. L. 102–190, § 1089(2)(B)(ii)][/us/pl/102/190/s1089/2/B/ii], struck out “, and such special obligations may be redeemed at par plus accrued interest” after “market price”.
+    Subsec. (c). [Pub. L. 102–190][/us/pl/102/190], § 1089(2)(B)(ii), struck out “, and such special obligations may be redeemed at par plus accrued interest” after “market price”.
 
-    [Pub. L. 102–190, § 1089(2)(B)(i)][/us/pl/102/190/s1089/2/B/i], which directed striking out of “(exceptional special obligations issued exclusively to the fund)”, could not be executed because those words did not appear. See 1992 Amendment note above.
+    [Pub. L. 102–190][/us/pl/102/190], § 1089(2)(B)(i), which directed striking out of “(exceptional special obligations issued exclusively to the fund)”, could not be executed because those words did not appear. See 1992 Amendment note above.
 
 ----------
 
@@ -55,17 +55,17 @@
 ----------
 
 [/us/usc/t20/s4711]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs4711
-[/us/pl/99/661/s1408]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F661%2Fs1408
+[/us/pl/99/661/dA/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F661%2FdA%2FtXIV
 [/us/stat/100/4010]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F4010
-[/us/pl/102/190/s1089/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F190%2Fs1089%2F2
+[/us/pl/102/190/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F190%2FdA%2FtX
 [/us/stat/105/1485]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1485
-[/us/pl/102/484/s1054/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2Fs1054%2Fh
+[/us/pl/102/484/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2FdA%2FtX
 [/us/stat/106/2503]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2503
-[/us/pl/97/258/s4/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258%2Fs4%2Fb
+[/us/pl/97/258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258
 [/us/stat/96/1067]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1067
 [/us/pl/102/484]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484
-[/us/pl/102/190/s1089/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F190%2Fs1089%2F2%2FA
-[/us/pl/102/190/s1089/2/B/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F190%2Fs1089%2F2%2FB%2Fii
-[/us/pl/102/190/s1089/2/B/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F190%2Fs1089%2F2%2FB%2Fi
+[/us/pl/102/190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F190
+[/us/pl/102/190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F190
+[/us/pl/102/190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F190
 
 

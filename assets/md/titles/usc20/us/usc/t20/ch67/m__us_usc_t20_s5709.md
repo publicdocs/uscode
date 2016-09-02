@@ -17,7 +17,7 @@
 
     There are authorized to be appropriated to the Foundation, such sums as may be necessary to carry out this chapter.
 
-([Pub. L. 102–281, title IV, § 430][/us/pl/102/281/s430], as added [Pub. L. 111–8, div. D, title VI, § 623(2)][/us/pl/111/8/s623/2], Mar. 11, 2009, [123 Stat. 678][/us/stat/123/678].)
+([Pub. L. 102–281, title IV][/us/pl/102/281/tIV], § 430, as added [Pub. L. 111–8, div. D, title VI][/us/pl/111/8/dD/tVI], § 623(2), Mar. 11, 2009, [123 Stat. 678][/us/stat/123/678].)
 
 ----------
 
@@ -26,8 +26,8 @@
 ----------
 ----------
 
-[/us/pl/102/281/s430]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F281%2Fs430
-[/us/pl/111/8/s623/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F8%2Fs623%2F2
+[/us/pl/102/281/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F281%2FtIV
+[/us/pl/111/8/dD/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F8%2FdD%2FtVI
 [/us/stat/123/678]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F678
 
 

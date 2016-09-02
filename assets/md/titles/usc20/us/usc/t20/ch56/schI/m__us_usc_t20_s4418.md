@@ -29,7 +29,7 @@
 
         In carrying out [section 4416(b)(1) of this title][/us/usc/t20/s4416/b/1], the President of the Institute shall, to the maximum extent practicable, give preference in hiring to Indians.
 
-([Pub. L. 99–498, title XV, § 1511][/us/pl/99/498/s1511], Oct. 17, 1986, [100 Stat. 1607][/us/stat/100/1607]; [Pub. L. 102–325, title XIII, § 1331(e)][/us/pl/102/325/s1331/e], July 23, 1992, [106 Stat. 807][/us/stat/106/807].)
+([Pub. L. 99–498, title XV][/us/pl/99/498/tXV], § 1511, Oct. 17, 1986, [100 Stat. 1607][/us/stat/100/1607]; [Pub. L. 102–325, title XIII][/us/pl/102/325/tXIII], § 1331(e), July 23, 1992, [106 Stat. 807][/us/stat/106/807].)
 
  __Amendments__ 
 
@@ -47,9 +47,9 @@
 ----------
 
 [/us/usc/t20/s4416/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs4416%2Fb%2F1
-[/us/pl/99/498/s1511]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F498%2Fs1511
+[/us/pl/99/498/tXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F498%2FtXV
 [/us/stat/100/1607]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1607
-[/us/pl/102/325/s1331/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325%2Fs1331%2Fe
+[/us/pl/102/325/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325%2FtXIII
 [/us/stat/106/807]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F807
 [/us/pl/102/325]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325
 [/us/pl/102/325]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325

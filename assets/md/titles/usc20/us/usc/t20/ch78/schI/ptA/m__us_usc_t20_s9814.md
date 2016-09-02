@@ -105,7 +105,7 @@
 
         (3) Retaining teachers who participate in the program.
 
-([Pub. L. 110–69, title VI, § 6114][/us/pl/110/69/s6114], Aug. 9, 2007, [121 Stat. 631][/us/stat/121/631].)
+([Pub. L. 110–69, title VI][/us/pl/110/69/tVI], § 6114, Aug. 9, 2007, [121 Stat. 631][/us/stat/121/631].)
 
 ----------
 
@@ -116,7 +116,7 @@
 
 [/us/usc/t20/s9816/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs9816%2F2
 [/us/usc/t20/s9815/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs9815%2Fd
-[/us/pl/110/69/s6114]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F69%2Fs6114
+[/us/pl/110/69/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F69%2FtVI
 [/us/stat/121/631]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F631
 
 

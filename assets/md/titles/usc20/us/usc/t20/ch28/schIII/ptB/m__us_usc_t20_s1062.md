@@ -75,39 +75,39 @@
 
         (2) Not more than 50 percent of the allotment of any institution may be available for the purpose of constructing or maintaining a classroom, library, laboratory, or other instructional facility.
 
-([Pub. L. 89–329, title III, § 323][/us/pl/89/329/s323], as added [Pub. L. 99–498, title III, § 301(a)][/us/pl/99/498/s301/a], Oct. 17, 1986, [100 Stat. 1295][/us/stat/100/1295]; amended [Pub. L. 100–50, § 2(a)(7)][/us/pl/100/50/s2/a/7], June 3, 1987, [101 Stat. 335][/us/stat/101/335]; [Pub. L. 100–369, § 10(b)][/us/pl/100/369/s10/b], July 18, 1988, [102 Stat. 838][/us/stat/102/838]; [Pub. L. 102–325, title III, § 303(a)][/us/pl/102/325/s303/a], (b), July 23, 1992, [106 Stat. 474][/us/stat/106/474], 475; [Pub. L. 103–208, § 2(a)(8)][/us/pl/103/208/s2/a/8], Dec. 20, 1993, [107 Stat. 2457][/us/stat/107/2457]; [Pub. L. 105–244, title III, § 304(a)][/us/pl/105/244/s304/a], Oct. 7, 1998, [112 Stat. 1642][/us/stat/112/1642]; [Pub. L. 110–315, title III, § 309][/us/pl/110/315/s309], Aug. 14, 2008, [122 Stat. 3177][/us/stat/122/3177]; [Pub. L. 111–39, title III, § 301(3)][/us/pl/111/39/s301/3], July 1, 2009, [123 Stat. 1937][/us/stat/123/1937].)
+([Pub. L. 89–329, title III][/us/pl/89/329/tIII], § 323, as added [Pub. L. 99–498, title III][/us/pl/99/498/tIII], § 301(a), Oct. 17, 1986, [100 Stat. 1295][/us/stat/100/1295]; amended [Pub. L. 100–50][/us/pl/100/50], § 2(a)(7), June 3, 1987, [101 Stat. 335][/us/stat/101/335]; [Pub. L. 100–369][/us/pl/100/369], § 10(b), July 18, 1988, [102 Stat. 838][/us/stat/102/838]; [Pub. L. 102–325, title III][/us/pl/102/325/tIII], § 303(a), (b), July 23, 1992, [106 Stat. 474][/us/stat/106/474], 475; [Pub. L. 103–208][/us/pl/103/208], § 2(a)(8), Dec. 20, 1993, [107 Stat. 2457][/us/stat/107/2457]; [Pub. L. 105–244, title III][/us/pl/105/244/tIII], § 304(a), Oct. 7, 1998, [112 Stat. 1642][/us/stat/112/1642]; [Pub. L. 110–315, title III][/us/pl/110/315/tIII], § 309, Aug. 14, 2008, [122 Stat. 3177][/us/stat/122/3177]; [Pub. L. 111–39, title III][/us/pl/111/39/tIII], § 301(3), July 1, 2009, [123 Stat. 1937][/us/stat/123/1937].)
 
  __Prior Provisions__ 
 
-    A prior section 1062, [Pub. L. 89–329, title III, § 323][/us/pl/89/329/s323], as added [Pub. L. 96–374, title III, § 301][/us/pl/96/374/s301], Oct. 3, 1980, [94 Stat. 1395][/us/stat/94/1395], provided for duration of grants to institutions with special needs, prior to the general revision of this subchapter by [Pub. L. 99–498][/us/pl/99/498].
+    A prior section 1062, [Pub. L. 89–329, title III][/us/pl/89/329/tIII], § 323, as added [Pub. L. 96–374, title III][/us/pl/96/374/tIII], § 301, Oct. 3, 1980, [94 Stat. 1395][/us/stat/94/1395], provided for duration of grants to institutions with special needs, prior to the general revision of this subchapter by [Pub. L. 99–498][/us/pl/99/498].
 
-    Another prior section 1062, [Pub. L. 89–329, title IV, § 402][/us/pl/89/329/s402], Nov. 8, 1965, [79 Stat. 1232][/us/stat/79/1232]; [Pub. L. 90–575, title I, § 102][/us/pl/90/575/s102], Oct. 16, 1968, [82 Stat. 1017][/us/stat/82/1017], related to determination of amount of grant and establishment of basic criteria or schedules, prior to the general revision of part A of subchapter IV of this chapter by [Pub. L. 92–318, title I, § 131(b)(1)][/us/pl/92/318/s131/b/1], June 23, 1972, [86 Stat. 247][/us/stat/86/247].
+    Another prior section 1062, [Pub. L. 89–329, title IV][/us/pl/89/329/tIV], § 402, Nov. 8, 1965, [79 Stat. 1232][/us/stat/79/1232]; [Pub. L. 90–575, title I][/us/pl/90/575/tI], § 102, Oct. 16, 1968, [82 Stat. 1017][/us/stat/82/1017], related to determination of amount of grant and establishment of basic criteria or schedules, prior to the general revision of part A of subchapter IV of this chapter by [Pub. L. 92–318, title I][/us/pl/92/318/tI], § 131(b)(1), June 23, 1972, [86 Stat. 247][/us/stat/86/247].
 
  __Amendments__ 
 
     2009—Subsec. (a). [Pub. L. 111–39][/us/pl/111/39] substituted “for any fiscal year,” for “in any fiscal year” in introductory provisions.
 
-    2008—Subsec. (a). [Pub. L. 110–315, § 309(1)][/us/pl/110/315/s309/1], substituted “section 1068h(a)(2)” for “section 1069f(a)(2)” in introductory provisions.
+    2008—Subsec. (a). [Pub. L. 110–315][/us/pl/110/315], § 309(1), substituted “section 1068h(a)(2)” for “section 1069f(a)(2)” in introductory provisions.
 
-    Subsec. (a)(12) to (15). [Pub. L. 110–315, § 309(2)][/us/pl/110/315/s309/2], (3), added pars. (12) to (14) and redesignated former par. (12) as (15).
+    Subsec. (a)(12) to (15). [Pub. L. 110–315][/us/pl/110/315], § 309(2), (3), added pars. (12) to (14) and redesignated former par. (12) as (15).
 
-    1998—Subsecs. (b), (c). [Pub. L. 105–244, § 304(a)(1)][/us/pl/105/244/s304/a/1], (2), added subsec. (b) and redesignated former subsec. (b) as (c).
+    1998—Subsecs. (b), (c). [Pub. L. 105–244][/us/pl/105/244], § 304(a)(1), (2), added subsec. (b) and redesignated former subsec. (b) as (c).
 
-    Subsec. (c)(3). [Pub. L. 105–244, § 304(a)(3)][/us/pl/105/244/s304/a/3], struck out par. (3) which read as follows: “The Secretary shall not award a grant under this part for telecommunications technology equipment, facilities or services, if such equipment, facilities or services are available pursuant to [section 396(k) of title 47][/us/usc/t47/s396/k].”
+    Subsec. (c)(3). [Pub. L. 105–244][/us/pl/105/244], § 304(a)(3), struck out par. (3) which read as follows: “The Secretary shall not award a grant under this part for telecommunications technology equipment, facilities or services, if such equipment, facilities or services are available pursuant to [section 396(k) of title 47][/us/usc/t47/s396/k].”
 
     1993—Subsec. (b)(3). [Pub. L. 103–208][/us/pl/103/208] realigned margin.
 
-    1992—Subsec. (a)(2). [Pub. L. 102–325, § 303(a)(1)][/us/pl/102/325/s303/a/1], inserted “, including purchase or rental of telecommunications technology equipment or services” after “facilities”.
+    1992—Subsec. (a)(2). [Pub. L. 102–325][/us/pl/102/325], § 303(a)(1), inserted “, including purchase or rental of telecommunications technology equipment or services” after “facilities”.
 
-    Subsec. (a)(5). [Pub. L. 102–325, § 303(a)(2)][/us/pl/102/325/s303/a/2], inserted “, including telecommunications program materials” after “materials”.
+    Subsec. (a)(5). [Pub. L. 102–325][/us/pl/102/325], § 303(a)(2), inserted “, including telecommunications program materials” after “materials”.
 
-    Subsec. (a)(9) to (12). [Pub. L. 102–325, § 303(a)(3)][/us/pl/102/325/s303/a/3], added pars. (9) to (12).
+    Subsec. (a)(9) to (12). [Pub. L. 102–325][/us/pl/102/325], § 303(a)(3), added pars. (9) to (12).
 
-    Subsec. (b)(3). [Pub. L. 102–325, § 303(b)][/us/pl/102/325/s303/b], added par. (3).
+    Subsec. (b)(3). [Pub. L. 102–325][/us/pl/102/325], § 303(b), added par. (3).
 
-    1988—Subsec. (a)(3). [Pub. L. 100–369, § 10(b)(1)][/us/pl/100/369/s10/b/1], inserted “, and faculty development” after “exchanges”.
+    1988—Subsec. (a)(3). [Pub. L. 100–369][/us/pl/100/369], § 10(b)(1), inserted “, and faculty development” after “exchanges”.
 
-    Subsec. (a)(7), (8). [Pub. L. 100–369, § 10(b)(2)][/us/pl/100/369/s10/b/2], added pars. (7) and (8).
+    Subsec. (a)(7), (8). [Pub. L. 100–369][/us/pl/100/369], § 10(b)(2), added pars. (7) and (8).
 
     1987—Subsec. (a). [Pub. L. 100–50][/us/pl/100/50] substituted “[section 1069f(a)(2) of this title][/us/usc/t20/s1069f/a/2]” for “[section 1069d(a)(2) of this title][/us/usc/t20/s1069d/a/2]”.
 
@@ -142,46 +142,46 @@
 [/us/usc/t20/s1063]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1063
 [/us/usc/t20/s1063a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1063a
 [/us/usc/t20/s1063a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1063a
-[/us/pl/89/329/s323]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2Fs323
-[/us/pl/99/498/s301/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F498%2Fs301%2Fa
+[/us/pl/89/329/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2FtIII
+[/us/pl/99/498/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F498%2FtIII
 [/us/stat/100/1295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1295
-[/us/pl/100/50/s2/a/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F50%2Fs2%2Fa%2F7
+[/us/pl/100/50]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F50
 [/us/stat/101/335]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F335
-[/us/pl/100/369/s10/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F369%2Fs10%2Fb
+[/us/pl/100/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F369
 [/us/stat/102/838]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F838
-[/us/pl/102/325/s303/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325%2Fs303%2Fa
+[/us/pl/102/325/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325%2FtIII
 [/us/stat/106/474]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F474
-[/us/pl/103/208/s2/a/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F208%2Fs2%2Fa%2F8
+[/us/pl/103/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F208
 [/us/stat/107/2457]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F2457
-[/us/pl/105/244/s304/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2Fs304%2Fa
+[/us/pl/105/244/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2FtIII
 [/us/stat/112/1642]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F1642
-[/us/pl/110/315/s309]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2Fs309
+[/us/pl/110/315/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2FtIII
 [/us/stat/122/3177]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3177
-[/us/pl/111/39/s301/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F39%2Fs301%2F3
+[/us/pl/111/39/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F39%2FtIII
 [/us/stat/123/1937]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1937
-[/us/pl/89/329/s323]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2Fs323
-[/us/pl/96/374/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F374%2Fs301
+[/us/pl/89/329/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2FtIII
+[/us/pl/96/374/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F374%2FtIII
 [/us/stat/94/1395]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F1395
 [/us/pl/99/498]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F498
-[/us/pl/89/329/s402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2Fs402
+[/us/pl/89/329/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2FtIV
 [/us/stat/79/1232]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F1232
-[/us/pl/90/575/s102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F575%2Fs102
+[/us/pl/90/575/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F575%2FtI
 [/us/stat/82/1017]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F1017
-[/us/pl/92/318/s131/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F318%2Fs131%2Fb%2F1
+[/us/pl/92/318/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F318%2FtI
 [/us/stat/86/247]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F247
 [/us/pl/111/39]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F39
-[/us/pl/110/315/s309/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2Fs309%2F1
-[/us/pl/110/315/s309/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2Fs309%2F2
-[/us/pl/105/244/s304/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2Fs304%2Fa%2F1
-[/us/pl/105/244/s304/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2Fs304%2Fa%2F3
+[/us/pl/110/315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315
+[/us/pl/110/315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315
+[/us/pl/105/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244
+[/us/pl/105/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244
 [/us/usc/t47/s396/k]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs396%2Fk
 [/us/pl/103/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F208
-[/us/pl/102/325/s303/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325%2Fs303%2Fa%2F1
-[/us/pl/102/325/s303/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325%2Fs303%2Fa%2F2
-[/us/pl/102/325/s303/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325%2Fs303%2Fa%2F3
-[/us/pl/102/325/s303/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325%2Fs303%2Fb
-[/us/pl/100/369/s10/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F369%2Fs10%2Fb%2F1
-[/us/pl/100/369/s10/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F369%2Fs10%2Fb%2F2
+[/us/pl/102/325]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325
+[/us/pl/102/325]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325
+[/us/pl/102/325]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325
+[/us/pl/102/325]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325
+[/us/pl/100/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F369
+[/us/pl/100/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F369
 [/us/pl/100/50]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F50
 [/us/usc/t20/s1069f/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1069f%2Fa%2F2
 [/us/usc/t20/s1069d/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1069d%2Fa%2F2

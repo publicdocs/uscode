@@ -69,7 +69,7 @@
 
             Not later than six months after August 14, 2008, the Advisory Board shall prepare and submit a report to the authorizing committees regarding the historically Black colleges and universities described in paragraph (1)(A) that includes administrative and legislative recommendations for addressing the issues related to construction financing facing such historically Black colleges and universities.
 
-([Pub. L. 89–329, title III, § 347][/us/pl/89/329/s347], formerly title VII, § 727, as added [Pub. L. 102–325, title VII, § 704][/us/pl/102/325/s704], July 23, 1992, [106 Stat. 746][/us/stat/106/746]; renumbered title III, § 347, and amended [Pub. L. 105–244, title III][/us/pl/105/244], §§ 301(a)(3), (4), 306(e), Oct. 7, 1998, [112 Stat. 1636][/us/stat/112/1636], 1647; [Pub. L. 110–315, title III, § 314(e)][/us/pl/110/315/s314/e], Aug. 14, 2008, [122 Stat. 3182][/us/stat/122/3182].)
+([Pub. L. 89–329, title III][/us/pl/89/329/tIII], § 347, formerly title VII, § 727, as added [Pub. L. 102–325, title VII][/us/pl/102/325/tVII], § 704, July 23, 1992, [106 Stat. 746][/us/stat/106/746]; renumbered title III, § 347, and amended [Pub. L. 105–244, title III][/us/pl/105/244/tIII], §§ 301(a)(3), (4), 306(e), Oct. 7, 1998, [112 Stat. 1636][/us/stat/112/1636], 1647; [Pub. L. 110–315, title III][/us/pl/110/315/tIII], § 314(e), Aug. 14, 2008, [122 Stat. 3182][/us/stat/122/3182].)
 
  __Codification__ 
 
@@ -81,19 +81,19 @@
 
  __Amendments__ 
 
-    2008—Subsec. (b)(1). [Pub. L. 110–315, § 314(e)(1)(A)][/us/pl/110/315/s314/e/1/A], substituted “11 members” for “9 members” in introductory provisions.
+    2008—Subsec. (b)(1). [Pub. L. 110–315][/us/pl/110/315], § 314(e)(1)(A), substituted “11 members” for “9 members” in introductory provisions.
 
-    Subsec. (b)(1)(C). [Pub. L. 110–315, § 314(e)(1)(B)][/us/pl/110/315/s314/e/1/B], substituted “Three members” for “Two members”.
+    Subsec. (b)(1)(C). [Pub. L. 110–315][/us/pl/110/315], § 314(e)(1)(B), substituted “Three members” for “Two members”.
 
-    Subsec. (b)(1)(G). [Pub. L. 110–315, § 314(e)(1)(C)][/us/pl/110/315/s314/e/1/C], added subpar. (G).
+    Subsec. (b)(1)(G). [Pub. L. 110–315][/us/pl/110/315], § 314(e)(1)(C), added subpar. (G).
 
-    Subsec. (c). [Pub. L. 110–315, § 314(e)(2)][/us/pl/110/315/s314/e/2], added subsec. (c).
+    Subsec. (c). [Pub. L. 110–315][/us/pl/110/315], § 314(e)(2), added subsec. (c).
 
-    1998—Subsec. (b)(1)(D). [Pub. L. 105–244, § 306(e)(1)(A)][/us/pl/105/244/s306/e/1/A], inserted “, or the president’s designee.” after “Fund, Inc.”
+    1998—Subsec. (b)(1)(D). [Pub. L. 105–244][/us/pl/105/244], § 306(e)(1)(A), inserted “, or the president’s designee.” after “Fund, Inc.”
 
-    Subsec. (b)(1)(E). [Pub. L. 105–244, § 306(e)(1)(B)][/us/pl/105/244/s306/e/1/B], inserted “, or the designee of the Association” before the period.
+    Subsec. (b)(1)(E). [Pub. L. 105–244][/us/pl/105/244], § 306(e)(1)(B), inserted “, or the designee of the Association” before the period.
 
-    Subsec. (c). [Pub. L. 105–244, § 306(e)(2)][/us/pl/105/244/s306/e/2], struck out heading and text of subsec. (c). Text read as follows: “There are authorized to be appropriated $50,000 for fiscal year 1993 and each of the 4 succeeding fiscal years to carry out this section.”
+    Subsec. (c). [Pub. L. 105–244][/us/pl/105/244], § 306(e)(2), struck out heading and text of subsec. (c). Text read as follows: “There are authorized to be appropriated $50,000 for fiscal year 1993 and each of the 4 succeeding fiscal years to carry out this section.”
 
  __Effective Date of 1998 Amendment__ 
 
@@ -110,25 +110,25 @@
 ----------
 ----------
 
-[/us/pl/89/329/s347]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2Fs347
-[/us/pl/102/325/s704]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325%2Fs704
+[/us/pl/89/329/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2FtIII
+[/us/pl/102/325/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325%2FtVII
 [/us/stat/106/746]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F746
-[/us/pl/105/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244
+[/us/pl/105/244/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2FtIII
 [/us/stat/112/1636]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F1636
-[/us/pl/110/315/s314/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2Fs314%2Fe
+[/us/pl/110/315/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2FtIII
 [/us/stat/122/3182]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3182
 [/us/usc/t20/s1132c–6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1132c%E2%80%936
 [/us/pl/105/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244
 [/us/pl/89/329/s347]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2Fs347
 [/us/usc/t20/s1069c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1069c
 [/us/pl/99/498]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F498
-[/us/pl/110/315/s314/e/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2Fs314%2Fe%2F1%2FA
-[/us/pl/110/315/s314/e/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2Fs314%2Fe%2F1%2FB
-[/us/pl/110/315/s314/e/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2Fs314%2Fe%2F1%2FC
-[/us/pl/110/315/s314/e/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2Fs314%2Fe%2F2
-[/us/pl/105/244/s306/e/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2Fs306%2Fe%2F1%2FA
-[/us/pl/105/244/s306/e/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2Fs306%2Fe%2F1%2FB
-[/us/pl/105/244/s306/e/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2Fs306%2Fe%2F2
+[/us/pl/110/315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315
+[/us/pl/110/315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315
+[/us/pl/110/315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315
+[/us/pl/110/315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315
+[/us/pl/105/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244
+[/us/pl/105/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244
+[/us/pl/105/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244
 [/us/pl/105/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244
 [/us/pl/105/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244
 [/us/pl/105/244/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2Fs3

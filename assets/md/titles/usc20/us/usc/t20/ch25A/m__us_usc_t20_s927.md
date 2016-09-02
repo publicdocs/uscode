@@ -53,7 +53,7 @@
 
             In carrying out paragraph (2), the Secretary shall have in effect a comprehensive, coordinated, multidisciplinary program of early intervention services for infants and toddlers with disabilities among Department of Defense entities involved in the provision of such services to such individuals.
 
-([Pub. L. 95–561, title XIV, § 1409][/us/pl/95/561/s1409], Nov. 1, 1978, [92 Stat. 2369][/us/stat/92/2369]; [Pub. L. 102–119, § 24][/us/pl/102/119/s24], Oct. 7, 1991, [105 Stat. 605][/us/stat/105/605]; [Pub. L. 106–65, div. A, title III, § 354(3)][/us/pl/106/65/s354/3], Oct. 5, 1999, [113 Stat. 573][/us/stat/113/573]; [Pub. L. 108–446, title III, § 305(b)][/us/pl/108/446/s305/b], Dec. 3, 2004, [118 Stat. 2804][/us/stat/118/2804].)
+([Pub. L. 95–561, title XIV][/us/pl/95/561/tXIV], § 1409, Nov. 1, 1978, [92 Stat. 2369][/us/stat/92/2369]; [Pub. L. 102–119][/us/pl/102/119], § 24, Oct. 7, 1991, [105 Stat. 605][/us/stat/105/605]; [Pub. L. 106–65, div. A, title III][/us/pl/106/65/dA/tIII], § 354(3), Oct. 5, 1999, [113 Stat. 573][/us/stat/113/573]; [Pub. L. 108–446, title III][/us/pl/108/446/tIII], § 305(b), Dec. 3, 2004, [118 Stat. 2804][/us/stat/118/2804].)
 
  __References in Text__ 
 
@@ -63,17 +63,17 @@
 
     2004—Subsec. (c)(2). [Pub. L. 108–446][/us/pl/108/446] substituted “section 636” for “section 677” and “part C” for “part H”.
 
-    1999—Subsec. (b). [Pub. L. 106–65, § 354(3)(A)][/us/pl/106/65/s354/3/A], substituted “Secretary of Education” for “Department of Health, Education, and Welfare” and made technical amendment to reference in original act which appears in text as reference to [section 1232 of this title][/us/usc/t20/s1232].
+    1999—Subsec. (b). [Pub. L. 106–65][/us/pl/106/65], § 354(3)(A), substituted “Secretary of Education” for “Department of Health, Education, and Welfare” and made technical amendment to reference in original act which appears in text as reference to [section 1232 of this title][/us/usc/t20/s1232].
 
-    Subsec. (c)(1). [Pub. L. 106–65, § 354(3)(B)][/us/pl/106/65/s354/3/B], struck out “by academic year 1993–1994” after “public education”.
+    Subsec. (c)(1). [Pub. L. 106–65][/us/pl/106/65], § 354(3)(B), struck out “by academic year 1993–1994” after “public education”.
 
-    Subsec. (c)(3). [Pub. L. 106–65, § 354(3)(C)][/us/pl/106/65/s354/3/C], substituted “Implementation” for “Implementation timelines” in heading, substituted “In carrying out paragraph (2), the Secretary shall have in effect a comprehensive” for “In carrying out the provisions of paragraph (2), the Secretary shall—”, struck out the subpar. (A) designation and “in academic year 1991–1992 and the 2 succeeding academic years, plan and develop a comprehensive” before “, coordinated”, substituted a period for the semicolon after “such individuals”, and struck out subpars. (B) and (C) which related to implementation in academic years 1994–1995, 1995–1996, and succeeding academic years.
+    Subsec. (c)(3). [Pub. L. 106–65][/us/pl/106/65], § 354(3)(C), substituted “Implementation” for “Implementation timelines” in heading, substituted “In carrying out paragraph (2), the Secretary shall have in effect a comprehensive” for “In carrying out the provisions of paragraph (2), the Secretary shall—”, struck out the subpar. (A) designation and “in academic year 1991–1992 and the 2 succeeding academic years, plan and develop a comprehensive” before “, coordinated”, substituted a period for the semicolon after “such individuals”, and struck out subpars. (B) and (C) which related to implementation in academic years 1994–1995, 1995–1996, and succeeding academic years.
 
     1991—Subsec. (c). [Pub. L. 102–119][/us/pl/102/119] amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: “The provisions of the Education for All Handicapped Children Act of 1975 shall apply with respect to all schools operated by the Department of Defense under this chapter.”
 
  __Effective Date of 1991 Amendment__ 
 
-[Pub. L. 102–119, § 27][/us/pl/102/119/s27], Oct. 7, 1991, [105 Stat. 608][/us/stat/105/608], provided that:
+[Pub. L. 102–119][/us/pl/102/119], § 27, Oct. 7, 1991, [105 Stat. 608][/us/stat/105/608], provided that:
 
 >     “(a)  __Sections__  __8, 9,__  __and__  __10.—__ 
 
@@ -100,24 +100,24 @@
 [/us/usc/t20/s1411]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1411
 [/us/usc/t20/s1436]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1436
 [/us/usc/t20/s1431]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1431
-[/us/pl/95/561/s1409]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F561%2Fs1409
+[/us/pl/95/561/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F561%2FtXIV
 [/us/stat/92/2369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2369
-[/us/pl/102/119/s24]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F119%2Fs24
+[/us/pl/102/119]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F119
 [/us/stat/105/605]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F605
-[/us/pl/106/65/s354/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2Fs354%2F3
+[/us/pl/106/65/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2FdA%2FtIII
 [/us/stat/113/573]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F573
-[/us/pl/108/446/s305/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F446%2Fs305%2Fb
+[/us/pl/108/446/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F446%2FtIII
 [/us/stat/118/2804]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F2804
 [/us/pl/91/230]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F230
 [/us/stat/84/175]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F175
 [/us/usc/t20/s1400]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1400
 [/us/pl/108/446]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F446
-[/us/pl/106/65/s354/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2Fs354%2F3%2FA
+[/us/pl/106/65]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65
 [/us/usc/t20/s1232]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1232
-[/us/pl/106/65/s354/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2Fs354%2F3%2FB
-[/us/pl/106/65/s354/3/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2Fs354%2F3%2FC
+[/us/pl/106/65]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65
+[/us/pl/106/65]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65
 [/us/pl/102/119]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F119
-[/us/pl/102/119/s27]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F119%2Fs27
+[/us/pl/102/119]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F119
 [/us/stat/105/608]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F608
 [/us/usc/t20/s1484a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1484a
 

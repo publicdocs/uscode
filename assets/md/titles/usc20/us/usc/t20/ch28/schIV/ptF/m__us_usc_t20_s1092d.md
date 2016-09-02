@@ -43,7 +43,7 @@
 
         (7) Information on means of communicating with the Federal Student Aid Information Center, including telephone and Internet contact information.
 
-([Pub. L. 106–420, § 5][/us/pl/106/420/s5], Nov. 1, 2000, [114 Stat. 1868][/us/stat/114/1868].)
+([Pub. L. 106–420][/us/pl/106/420], § 5, Nov. 1, 2000, [114 Stat. 1868][/us/stat/114/1868].)
 
  __Codification__ 
 
@@ -51,7 +51,7 @@
 
  __Findings__ 
 
-[Pub. L. 106–420, § 2][/us/pl/106/420/s2], Nov. 1, 2000, [114 Stat. 1867][/us/stat/114/1867], provided that: 
+[Pub. L. 106–420][/us/pl/106/420], § 2, Nov. 1, 2000, [114 Stat. 1867][/us/stat/114/1867], provided that: 
 
 > “Congress makes the following findings:
 
@@ -84,9 +84,9 @@
 ----------
 ----------
 
-[/us/pl/106/420/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F420%2Fs5
+[/us/pl/106/420]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F420
 [/us/stat/114/1868]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1868
-[/us/pl/106/420/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F420%2Fs2
+[/us/pl/106/420]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F420
 [/us/stat/114/1867]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1867
 
 

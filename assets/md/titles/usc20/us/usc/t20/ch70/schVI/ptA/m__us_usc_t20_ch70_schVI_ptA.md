@@ -11,13 +11,13 @@
 ----------
 ----------
 
-[Previous](./../../../../../..//us/usc/t20/ch70/schVI/m__us_usc_t20_ch70_schVI.md) | [Next](./../../../../../..//us/usc/t20/ch70/schVI/ptA/spt1/m__us_usc_t20_ch70_schVI_ptA_spt1.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fch70%2FschVI%2FptA)
+[Previous](./../../../../../..//us/usc/t20/ch70/schVI/m__us_usc_t20_ch70_schVI.md) | [Next](./../../../../../..//us/usc/t20/ch70/schVI/ptA/m__us_usc_t20_s7401.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fch70%2FschVI%2FptA)
 
-#### Part A—Improving Academic Achievement
+#### Part A—Indian Education
 
 ----------
 
-[Previous](./../../../../../..//us/usc/t20/ch70/schVI/m__us_usc_t20_ch70_schVI.md) | [Next](./../../../../../..//us/usc/t20/ch70/schVI/ptA/spt1/m__us_usc_t20_ch70_schVI_ptA_spt1.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fch70%2FschVI%2FptA)
+[Previous](./../../../../../..//us/usc/t20/ch70/schVI/m__us_usc_t20_ch70_schVI.md) | [Next](./../../../../../..//us/usc/t20/ch70/schVI/ptA/m__us_usc_t20_s7401.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fch70%2FschVI%2FptA)
 
 ----------
 ----------

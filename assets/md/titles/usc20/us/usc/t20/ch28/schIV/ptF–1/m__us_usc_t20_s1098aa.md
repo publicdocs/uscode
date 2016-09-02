@@ -39,7 +39,7 @@
 
         References in this part to “the Act” are references to the Higher Education Act of 1965 ([20 U.S.C. 1001][/us/usc/t20/s1001] et seq.).
 
-([Pub. L. 108–76, § 1][/us/pl/108/76/s1], Aug. 18, 2003, [117 Stat. 904][/us/stat/117/904].)
+([Pub. L. 108–76][/us/pl/108/76], § 1, Aug. 18, 2003, [117 Stat. 904][/us/stat/117/904].)
 
  __References in Text__ 
 
@@ -53,7 +53,7 @@
 
  __Sense of Congress__ 
 
-[Pub. L. 110–93, § 1][/us/pl/110/93/s1], Sept. 30, 2007, [121 Stat. 999][/us/stat/121/999], provided that: 
+[Pub. L. 110–93][/us/pl/110/93], § 1, Sept. 30, 2007, [121 Stat. 999][/us/stat/121/999], provided that: 
 
 > “It is the sense of Congress that—
 
@@ -69,13 +69,13 @@
 ----------
 
 [/us/usc/t20/s1001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1001
-[/us/pl/108/76/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F76%2Fs1
+[/us/pl/108/76]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F76
 [/us/stat/117/904]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F904
 [/us/pl/89/329]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329
 [/us/stat/79/1219]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F1219
 [/us/usc/t20/s1001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1001
 [/us/usc/t20/s1070]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1070
-[/us/pl/110/93/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F93%2Fs1
+[/us/pl/110/93]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F93
 [/us/stat/121/999]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F999
 
 

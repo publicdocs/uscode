@@ -47,7 +47,7 @@
 
         The Librarian shall carry out his functions under this subchapter through the Center.
 
-([Pub. L. 94–201, § 5][/us/pl/94/201/s5], Jan. 2, 1976, [89 Stat. 1131][/us/stat/89/1131].)
+([Pub. L. 94–201][/us/pl/94/201], § 5, Jan. 2, 1976, [89 Stat. 1131][/us/stat/89/1131].)
 
  __References in Text__ 
 
@@ -61,7 +61,7 @@
 ----------
 
 [/us/usc/t20/s951]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs951
-[/us/pl/94/201/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F201%2Fs5
+[/us/pl/94/201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F201
 [/us/stat/89/1131]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F1131
 [/us/pl/89/209]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F209
 [/us/stat/79/845]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F845

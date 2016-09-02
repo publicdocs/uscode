@@ -17,7 +17,7 @@
 
     There are authorized to be appropriated to the Smithsonian Institution such sums as may be necessary for the purposes of this subchapter.
 
-([Pub. L. 87–186, § 5][/us/pl/87/186/s5], Aug. 30, 1961, [75 Stat. 415][/us/stat/75/415].)
+([Pub. L. 87–186][/us/pl/87/186], § 5, Aug. 30, 1961, [75 Stat. 415][/us/stat/75/415].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/87/186/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F186%2Fs5
+[/us/pl/87/186]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F186
 [/us/stat/75/415]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F75%2F415
 
 

@@ -49,23 +49,23 @@
 
     (10) an extraordinary site on the National Mall in the District of Columbia (U.S. Government Reservation No. 6) is reserved for the use of the Smithsonian Institution and is available for construction of the National Museum of the American Indian.
 
-([Pub. L. 101–185, § 2][/us/pl/101/185/s2], Nov. 28, 1989, [103 Stat. 1336][/us/stat/103/1336].)
+([Pub. L. 101–185][/us/pl/101/185], § 2, Nov. 28, 1989, [103 Stat. 1336][/us/stat/103/1336].)
 
  __Short Title of 2013 Amendment__ 
 
-[Pub. L. 113–70, § 1][/us/pl/113/70/s1], Dec. 26, 2013, [127 Stat. 1208][/us/stat/127/1208], provided that: 
+[Pub. L. 113–70][/us/pl/113/70], § 1, Dec. 26, 2013, [127 Stat. 1208][/us/stat/127/1208], provided that: 
 
 > “This Act \[amending provisions set out as a note under [section 80q–5 of this title][/us/usc/t20/s80q–5]\] may be cited as the ‘Native American Veterans’ Memorial Amendments Act of 2013’.”
 
  __Short Title of 1996 Amendment__ 
 
-[Pub. L. 104–278, § 1(a)][/us/pl/104/278/s1/a], Oct. 9, 1996, [110 Stat. 3355][/us/stat/110/3355], provided that: 
+[Pub. L. 104–278][/us/pl/104/278], § 1(a), Oct. 9, 1996, [110 Stat. 3355][/us/stat/110/3355], provided that: 
 
 > “This Act \[enacting [section 80q–9a of this title][/us/usc/t20/s80q–9a] and amending sections 80q–3, 80q–9, and 80q–10 of this title\] may be cited as the ‘National Museum of the American Indian Act Amendments of 1996’.”
 
  __Short Title__ 
 
-[Pub. L. 101–185, § 1][/us/pl/101/185/s1], Nov. 28, 1989, [103 Stat. 1336][/us/stat/103/1336], provided that: 
+[Pub. L. 101–185][/us/pl/101/185], § 1, Nov. 28, 1989, [103 Stat. 1336][/us/stat/103/1336], provided that: 
 
 > “This Act \[enacting this subchapter\] may be cited as the ‘National Museum of the American Indian Act’.”
 
@@ -76,15 +76,15 @@
 ----------
 ----------
 
-[/us/pl/101/185/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F185%2Fs2
+[/us/pl/101/185]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F185
 [/us/stat/103/1336]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1336
-[/us/pl/113/70/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F70%2Fs1
+[/us/pl/113/70]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F70
 [/us/stat/127/1208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F1208
 [/us/usc/t20/s80q–5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs80q%E2%80%935
-[/us/pl/104/278/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F278%2Fs1%2Fa
+[/us/pl/104/278]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F278
 [/us/stat/110/3355]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3355
 [/us/usc/t20/s80q–9a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs80q%E2%80%939a
-[/us/pl/101/185/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F185%2Fs1
+[/us/pl/101/185]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F185
 [/us/stat/103/1336]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1336
 
 

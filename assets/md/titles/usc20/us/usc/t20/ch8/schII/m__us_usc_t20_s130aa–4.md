@@ -27,7 +27,7 @@
 
     (b) If the Secretary terminates a grant under subsection (a) of this section, the University shall return to the Treasury of the United States an amount equal to the sum of the original grant or grants under this subchapter  <sup>\[1\]</sup>  <sup><sup> 1 See Codification note below. </sup></sup>  plus any income earned thereon. The Secretary may direct the University to take such other appropriate measures to remedy any violation of this subchapter and to protect the financial interest of the United States.
 
-([Pub. L. 98–480, title II, § 206][/us/pl/98/480/s206], Oct. 17, 1984, [98 Stat. 2247][/us/stat/98/2247].)
+([Pub. L. 98–480, title II][/us/pl/98/480/tII], § 206, Oct. 17, 1984, [98 Stat. 2247][/us/stat/98/2247].)
 
  __Codification__ 
 
@@ -42,7 +42,7 @@
 
 [/us/usc/t20/s130aa–3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs130aa%E2%80%933
 [/us/usc/t20/s130aa–2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs130aa%E2%80%932
-[/us/pl/98/480/s206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F480%2Fs206
+[/us/pl/98/480/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F480%2FtII
 [/us/stat/98/2247]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2247
 [/us/pl/98/480]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F480
 [/us/stat/98/2236]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2236

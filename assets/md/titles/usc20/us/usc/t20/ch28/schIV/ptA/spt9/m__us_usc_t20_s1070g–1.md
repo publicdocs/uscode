@@ -67,13 +67,13 @@
 
             Nothing in this section shall be construed to exclude from eligibility courses of study which are noncredit or remedial in nature (including courses in English language acquisition) which are determined by the eligible institution to be necessary to help the teacher candidate be prepared for the pursuit of a first undergraduate baccalaureate or post-baccalaureate degree or certificate or, in the case of courses in English language instruction, to be necessary to enable the teacher candidate to utilize already existing knowledge, training, or skills. Nothing in this section shall be construed to exclude from eligibility programs of study abroad that are approved for credit by the home institution at which the teacher candidate is enrolled.
 
-([Pub. L. 89–329, title IV, § 420M][/us/pl/89/329/s420M], as added [Pub. L. 110–84, title I, § 104][/us/pl/110/84/s104], Sept. 27, 2007, [121 Stat. 787][/us/stat/121/787]; amended [Pub. L. 110–153, § 3(2)][/us/pl/110/153/s3/2], Dec. 21, 2007, [121 Stat. 1824][/us/stat/121/1824].)
+([Pub. L. 89–329, title IV][/us/pl/89/329/tIV], § 420M, as added [Pub. L. 110–84, title I][/us/pl/110/84/tI], § 104, Sept. 27, 2007, [121 Stat. 787][/us/stat/121/787]; amended [Pub. L. 110–153][/us/pl/110/153], § 3(2), Dec. 21, 2007, [121 Stat. 1824][/us/stat/121/1824].)
 
  __Amendments__ 
 
-    2007—Subsecs. (a)(1), (c)(1). [Pub. L. 110–153, § 3(2)(A)][/us/pl/110/153/s3/2/A], substituted “year” for “academic year”.
+    2007—Subsecs. (a)(1), (c)(1). [Pub. L. 110–153][/us/pl/110/153], § 3(2)(A), substituted “year” for “academic year”.
 
-    Subsec. (c)(2). [Pub. L. 110–153, § 3(2)(B)][/us/pl/110/153/s3/2/B], substituted “other assistance the student may receive” for “other student assistance” and struck out at end “If, with respect to any teacher candidate for any academic year, it is determined that the amount of a TEACH Grant exceeds the cost of attendance for that year, the amount of the TEACH Grant shall be reduced until such grant does not exceed the cost of attendance at the eligible institution.”
+    Subsec. (c)(2). [Pub. L. 110–153][/us/pl/110/153], § 3(2)(B), substituted “other assistance the student may receive” for “other student assistance” and struck out at end “If, with respect to any teacher candidate for any academic year, it is determined that the amount of a TEACH Grant exceeds the cost of attendance for that year, the amount of the TEACH Grant shall be reduced until such grant does not exceed the cost of attendance at the eligible institution.”
 
 ----------
 
@@ -85,12 +85,12 @@
 [/us/usc/t20/s1070g–2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1070g%E2%80%932
 [/us/usc/t20/s1070g–2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1070g%E2%80%932%2Fa
 [/us/usc/t20/s1089]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1089
-[/us/pl/89/329/s420M]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2Fs420M
-[/us/pl/110/84/s104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F84%2Fs104
+[/us/pl/89/329/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2FtIV
+[/us/pl/110/84/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F84%2FtI
 [/us/stat/121/787]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F787
-[/us/pl/110/153/s3/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F153%2Fs3%2F2
+[/us/pl/110/153]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F153
 [/us/stat/121/1824]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F1824
-[/us/pl/110/153/s3/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F153%2Fs3%2F2%2FA
-[/us/pl/110/153/s3/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F153%2Fs3%2F2%2FB
+[/us/pl/110/153]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F153
+[/us/pl/110/153]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F153
 
 

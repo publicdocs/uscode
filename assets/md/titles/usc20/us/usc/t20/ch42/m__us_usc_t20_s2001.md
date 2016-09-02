@@ -23,11 +23,11 @@
 
     because of the desirability of encouraging young people to recognize and provide service in the highest and best traditions of the American political system at all levels of government, it is especially appropriate to honor former President Harry S Truman through the creation of a perpetual education scholarship program to develop increased opportunities for young Americans to prepare and pursue careers in public service.
 
-([Pub. L. 93–642, § 2][/us/pl/93/642/s2], Jan. 4, 1975, [88 Stat. 2276][/us/stat/88/2276].)
+([Pub. L. 93–642][/us/pl/93/642], § 2, Jan. 4, 1975, [88 Stat. 2276][/us/stat/88/2276].)
 
  __Short Title__ 
 
-[Pub. L. 93–642, § 1][/us/pl/93/642/s1], Jan. 4, 1975, [88 Stat. 2276][/us/stat/88/2276], provided: 
+[Pub. L. 93–642][/us/pl/93/642], § 1, Jan. 4, 1975, [88 Stat. 2276][/us/stat/88/2276], provided: 
 
 > “That this Act \[enacting this chapter\] may be cited as the ‘Harry S Truman Memorial Scholarship Act’.”
 
@@ -38,9 +38,9 @@
 ----------
 ----------
 
-[/us/pl/93/642/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F642%2Fs2
+[/us/pl/93/642]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F642
 [/us/stat/88/2276]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F2276
-[/us/pl/93/642/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F642%2Fs1
+[/us/pl/93/642]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F642
 [/us/stat/88/2276]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F2276
 
 

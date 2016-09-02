@@ -45,7 +45,7 @@
 
     Fourteen. Of the Government Publishing Office.
 
-(Apr. 12, 1892, No. 8, [27 Stat. 395][/us/stat/27/395]; [Mar. 3, 1901, ch. 831, § 1][/us/act/1901-03-03/ch831/s1], [31 Stat. 1039][/us/stat/31/1039]; [May 14, 1928, ch. 551, § 1][/us/act/1928-05-14/ch551/s1], [45 Stat. 531][/us/stat/45/531]; 1939 Reorg. Plan No. II, § 4(e), eff. July 1, 1939, 4 F.R. 2731, [53 Stat. 1433][/us/stat/53/1433]; 1940 Reorg. Plan No. III, § 3, eff. June 30, 1940, 5 F.R. 2108, [54 Stat. 1232][/us/stat/54/1232]; [Aug. 8, 1956, ch. 1036, § 3][/us/act/1956-08-08/ch1036/s3], [70 Stat. 1120][/us/stat/70/1120]; 1965 Reorg. Plan No. 2, eff. July 13, 1965, 30 F.R. 8819, [79 Stat. 1318][/us/stat/79/1318]; 1970 Reorg. Plan No. 4, eff. Oct. 3, 1970, 35 F.R. 15627, [84 Stat. 2090][/us/stat/84/2090]; [Pub. L. 96–88, title III, § 301(b)(2)][/us/pl/96/88/s301/b/2], title V, § 507, Oct. 17, 1979, [93 Stat. 678][/us/stat/93/678], 692; [Pub. L. 102–154, title I][/us/pl/102/154], Nov. 13, 1991, [105 Stat. 1000][/us/stat/105/1000]; [Pub. L. 106–113, div. B, § 1000(a)(9)][/us/pl/106/113/s1000/a/9] \[title IV, § 4732(b)(10)\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–584; [Pub. L. 113–235, div. H, title I, § 1301(b)][/us/pl/113/235/s1301/b], Dec. 16, 2014, [128 Stat. 2537][/us/stat/128/2537].)
+(Apr. 12, 1892, No. 8, [27 Stat. 395][/us/stat/27/395]; [Mar. 3, 1901, ch. 831][/us/act/1901-03-03/ch831], § 1, [31 Stat. 1039][/us/stat/31/1039]; [May 14, 1928, ch. 551][/us/act/1928-05-14/ch551], § 1, [45 Stat. 531][/us/stat/45/531]; 1939 Reorg. Plan No. II, § 4(e), eff. July 1, 1939, 4 F.R. 2731, [53 Stat. 1433][/us/stat/53/1433]; 1940 Reorg. Plan No. III, § 3, eff. June 30, 1940, 5 F.R. 2108, [54 Stat. 1232][/us/stat/54/1232]; [Aug. 8, 1956, ch. 1036][/us/act/1956-08-08/ch1036], § 3, [70 Stat. 1120][/us/stat/70/1120]; 1965 Reorg. Plan No. 2, eff. July 13, 1965, 30 F.R. 8819, [79 Stat. 1318][/us/stat/79/1318]; 1970 Reorg. Plan No. 4, eff. Oct. 3, 1970, 35 F.R. 15627, [84 Stat. 2090][/us/stat/84/2090]; [Pub. L. 96–88, title III][/us/pl/96/88/tIII], § 301(b)(2), title V, § 507, Oct. 17, 1979, [93 Stat. 678][/us/stat/93/678], 692; [Pub. L. 102–154, title I][/us/pl/102/154/tI], Nov. 13, 1991, [105 Stat. 1000][/us/stat/105/1000]; [Pub. L. 106–113, div. B][/us/pl/106/113/dB], § 1000(a)(9) \[title IV, § 4732(b)(10)\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–584; [Pub. L. 113–235, div. H, title I][/us/pl/113/235/dH/tI], § 1301(b), Dec. 16, 2014, [128 Stat. 2537][/us/stat/128/2537].)
 
  __Codification__ 
 
@@ -73,7 +73,7 @@
 
     Functions of all other officers of Department of the Interior and functions of all agencies and employees of such Department, with two exceptions, transferred to Secretary of the Interior, with power vested in him to authorize their performance or performance of any of his functions by any of such officers, agencies, and employees, by Reorg. Plan No. 3 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3174, [64 Stat. 1262][/us/stat/64/1262], set out in the Appendix to Title 5.
 
-    Fish and Wildlife Service, created by Reorg. Plan No. III of 1940, eff. June 30, 1940, 5 F.R. 2107, [54 Stat. 1231][/us/stat/54/1231], succeeded by United States Fish and Wildlife Service established by [act Aug. 8, 1956, ch. 1036, § 3][/us/act/1956-08-08/ch1036/s3], [70 Stat. 1120][/us/stat/70/1120], which is classified to [section 742b of Title 16][/us/usc/t16/s742b], Conservation.
+    Fish and Wildlife Service, created by Reorg. Plan No. III of 1940, eff. June 30, 1940, 5 F.R. 2107, [54 Stat. 1231][/us/stat/54/1231], succeeded by United States Fish and Wildlife Service established by [act Aug. 8, 1956, ch. 1036][/us/act/1956-08-08/ch1036], § 3, [70 Stat. 1120][/us/stat/70/1120], which is classified to [section 742b of Title 16][/us/usc/t16/s742b], Conservation.
 
     Bureau of Fisheries consolidated with Bureau of Biological Survey into Fish and Wildlife Service in Department of the Interior by Reorg. Plan No. III of 1940, set out in the Appendix to Title 5, Government Organization and Employees. The Bureau had been previously transferred to Department of the Interior by Reorg. Plan No. II of 1939, § 4(e), also set out in the Appendix to Title 5.
 
@@ -89,7 +89,7 @@
 
  __National Museum__ 
 
-    National Museum was not created by any express statutory provision for that purpose. It was first mentioned in an appropriation for postage for “the National Museum in the Smithsonian Institution,” contained in [act June 20, 1874, ch. 328, § 1][/us/act/1874-06-20/ch328/s1], [18 Stat. 103][/us/stat/18/103]. An appropriation for a building for the use of the National Museum was made by [act Mar. 3, 1879, ch. 182, § 1][/us/act/1879-03-03/ch182/s1], [20 Stat. 397][/us/stat/20/397], and annual appropriations have continuously been made for expenses of heating, etc., such building.
+    National Museum was not created by any express statutory provision for that purpose. It was first mentioned in an appropriation for postage for “the National Museum in the Smithsonian Institution,” contained in [act June 20, 1874, ch. 328][/us/act/1874-06-20/ch328], § 1, [18 Stat. 103][/us/stat/18/103]. An appropriation for a building for the use of the National Museum was made by [act Mar. 3, 1879, ch. 182][/us/act/1879-03-03/ch182], § 1, [20 Stat. 397][/us/stat/20/397], and annual appropriations have continuously been made for expenses of heating, etc., such building.
 
 ----------
 
@@ -99,23 +99,23 @@
 ----------
 
 [/us/stat/27/395]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F27%2F395
-[/us/act/1901-03-03/ch831/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1901-03-03%2Fch831%2Fs1
+[/us/act/1901-03-03/ch831]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1901-03-03%2Fch831
 [/us/stat/31/1039]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F31%2F1039
-[/us/act/1928-05-14/ch551/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1928-05-14%2Fch551%2Fs1
+[/us/act/1928-05-14/ch551]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1928-05-14%2Fch551
 [/us/stat/45/531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F45%2F531
 [/us/stat/53/1433]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F53%2F1433
 [/us/stat/54/1232]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F54%2F1232
-[/us/act/1956-08-08/ch1036/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-08%2Fch1036%2Fs3
+[/us/act/1956-08-08/ch1036]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-08%2Fch1036
 [/us/stat/70/1120]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70%2F1120
 [/us/stat/79/1318]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F1318
 [/us/stat/84/2090]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F2090
-[/us/pl/96/88/s301/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F88%2Fs301%2Fb%2F2
+[/us/pl/96/88/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F88%2FtIII
 [/us/stat/93/678]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F678
-[/us/pl/102/154]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F154
+[/us/pl/102/154/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F154%2FtI
 [/us/stat/105/1000]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1000
-[/us/pl/106/113/s1000/a/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2Fs1000%2Fa%2F9
+[/us/pl/106/113/dB]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2FdB
 [/us/stat/113/1536]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1536
-[/us/pl/113/235/s1301/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs1301%2Fb
+[/us/pl/113/235/dH/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2FdH%2FtI
 [/us/stat/128/2537]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2537
 [/us/pl/106/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113
 [/us/pl/113/235/s1301/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs1301%2Fb
@@ -131,7 +131,7 @@
 [/us/stat/64/1263]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F1263
 [/us/stat/64/1262]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F1262
 [/us/stat/54/1231]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F54%2F1231
-[/us/act/1956-08-08/ch1036/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-08%2Fch1036%2Fs3
+[/us/act/1956-08-08/ch1036]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-08%2Fch1036
 [/us/stat/70/1120]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70%2F1120
 [/us/usc/t16/s742b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs742b
 [/us/pl/96/88]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F88
@@ -143,9 +143,9 @@
 [/us/stat/16/242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F16%2F242
 [/us/act/1930-05-14/ch273]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1930-05-14%2Fch273
 [/us/stat/46/281]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F46%2F281
-[/us/act/1874-06-20/ch328/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1874-06-20%2Fch328%2Fs1
+[/us/act/1874-06-20/ch328]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1874-06-20%2Fch328
 [/us/stat/18/103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F18%2F103
-[/us/act/1879-03-03/ch182/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1879-03-03%2Fch182%2Fs1
+[/us/act/1879-03-03/ch182]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1879-03-03%2Fch182
 [/us/stat/20/397]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F20%2F397
 
 

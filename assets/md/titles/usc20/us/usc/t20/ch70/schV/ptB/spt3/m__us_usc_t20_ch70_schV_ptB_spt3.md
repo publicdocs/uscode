@@ -11,13 +11,13 @@
 ----------
 ----------
 
-[Previous](./../../../../../../..//us/usc/t20/ch70/schV/ptB/spt2/m__us_usc_t20_s7223j.md) | [Next](./../../../../../../..//us/usc/t20/ch70/schV/ptB/spt3/m__us_usc_t20_s7225.md) | [Root of Title](./../../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fch70%2FschV%2FptB%2Fspt3)
+[Previous](./../../../../../../..//us/usc/t20/ch70/schV/ptB/spt2/m__us_usc_t20_s7351d.md) | [Next](./../../../../../../..//us/usc/t20/ch70/schV/ptB/spt3/m__us_usc_t20_s7355.md) | [Root of Title](./../../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fch70%2FschV%2FptB%2Fspt3)
 
-##### subpart 3—voluntary public school choice programs
+##### subpart 3—general provisions
 
 ----------
 
-[Previous](./../../../../../../..//us/usc/t20/ch70/schV/ptB/spt2/m__us_usc_t20_s7223j.md) | [Next](./../../../../../../..//us/usc/t20/ch70/schV/ptB/spt3/m__us_usc_t20_s7225.md) | [Root of Title](./../../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fch70%2FschV%2FptB%2Fspt3)
+[Previous](./../../../../../../..//us/usc/t20/ch70/schV/ptB/spt2/m__us_usc_t20_s7351d.md) | [Next](./../../../../../../..//us/usc/t20/ch70/schV/ptB/spt3/m__us_usc_t20_s7355.md) | [Root of Title](./../../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fch70%2FschV%2FptB%2Fspt3)
 
 ----------
 ----------

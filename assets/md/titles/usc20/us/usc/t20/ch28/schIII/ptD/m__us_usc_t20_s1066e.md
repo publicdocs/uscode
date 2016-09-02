@@ -13,9 +13,9 @@
 
 [Previous](./../../../../../..//us/usc/t20/ch28/schIII/ptD/m__us_usc_t20_s1066d.md) | [Next](./../../../../../..//us/usc/t20/ch28/schIII/ptD/m__us_usc_t20_s1066f.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1066e)
 
-## § 1066e. Repealed. [Pub. L. 105–244, title III, § 306(d)][/us/pl/105/244/s306/d], Oct. 7, 1998, [112 Stat. 1647][/us/stat/112/1647]
+## § 1066e. Repealed. [Pub. L. 105–244, title III][/us/pl/105/244/tIII], § 306(d), Oct. 7, 1998, [112 Stat. 1647][/us/stat/112/1647]
 
-    Section, [Pub. L. 89–329, title III, § 346][/us/pl/89/329/s346], formerly title VII, § 726, as added [Pub. L. 102–325, title VII, § 704][/us/pl/102/325/s704], July 23, 1992, [106 Stat. 746][/us/stat/106/746]; amended [Pub. L. 103–208, § 2(j)(17)][/us/pl/103/208/s2/j/17], Dec. 20, 1993, [107 Stat. 2481][/us/stat/107/2481]; renumbered title III, § 346, [Pub. L. 105–244, title III, § 301(a)(3)][/us/pl/105/244/s301/a/3], (4), Oct. 7, 1998, [112 Stat. 1636][/us/stat/112/1636], prohibited institution receiving a loan under this part from receiving grant under former part A of subchapter VII of this chapter.
+    Section, [Pub. L. 89–329, title III][/us/pl/89/329/tIII], § 346, formerly title VII, § 726, as added [Pub. L. 102–325, title VII][/us/pl/102/325/tVII], § 704, July 23, 1992, [106 Stat. 746][/us/stat/106/746]; amended [Pub. L. 103–208][/us/pl/103/208], § 2(j)(17), Dec. 20, 1993, [107 Stat. 2481][/us/stat/107/2481]; renumbered title III, § 346, [Pub. L. 105–244, title III][/us/pl/105/244/tIII], § 301(a)(3), (4), Oct. 7, 1998, [112 Stat. 1636][/us/stat/112/1636], prohibited institution receiving a loan under this part from receiving grant under former part A of subchapter VII of this chapter.
 
  __Codification__ 
 
@@ -32,14 +32,14 @@
 ----------
 ----------
 
-[/us/pl/105/244/s306/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2Fs306%2Fd
+[/us/pl/105/244/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2FtIII
 [/us/stat/112/1647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F1647
-[/us/pl/89/329/s346]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2Fs346
-[/us/pl/102/325/s704]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325%2Fs704
+[/us/pl/89/329/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2FtIII
+[/us/pl/102/325/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325%2FtVII
 [/us/stat/106/746]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F746
-[/us/pl/103/208/s2/j/17]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F208%2Fs2%2Fj%2F17
+[/us/pl/103/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F208
 [/us/stat/107/2481]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F2481
-[/us/pl/105/244/s301/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2Fs301%2Fa%2F3
+[/us/pl/105/244/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2FtIII
 [/us/stat/112/1636]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F1636
 [/us/usc/t20/s1132c–5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1132c%E2%80%935
 [/us/pl/105/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244

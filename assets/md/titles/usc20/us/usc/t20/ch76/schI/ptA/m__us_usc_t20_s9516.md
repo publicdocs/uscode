@@ -195,21 +195,21 @@
 
         The Board shall submit to the Director, the Secretary, and the appropriate congressional committees a report that includes any recommendations regarding any actions that may be taken to enhance the ability of the Institute to carry out its priorities and mission. The Board shall submit an interim report not later than 3 years after November 5, 2002, and a final report not later than 5 years after such date.
 
-([Pub. L. 107–279, title I, § 116][/us/pl/107/279/s116], Nov. 5, 2002, [116 Stat. 1948][/us/stat/116/1948]; [Pub. L. 108–446, title II][/us/pl/108/446], §§ 201(b)(2)(D), 202, Dec. 3, 2004, [118 Stat. 2802][/us/stat/118/2802]; [Pub. L. 110–154, § 1(d)][/us/pl/110/154/s1/d], Dec. 21, 2007, [121 Stat. 1828][/us/stat/121/1828]; [Pub. L. 112–166, § 2(cc)][/us/pl/112/166/s2/cc], Aug. 10, 2012, [126 Stat. 1290][/us/stat/126/1290].)
+([Pub. L. 107–279, title I][/us/pl/107/279/tI], § 116, Nov. 5, 2002, [116 Stat. 1948][/us/stat/116/1948]; [Pub. L. 108–446, title II][/us/pl/108/446/tII], §§ 201(b)(2)(D), 202, Dec. 3, 2004, [118 Stat. 2802][/us/stat/118/2802]; [Pub. L. 110–154][/us/pl/110/154], § 1(d), Dec. 21, 2007, [121 Stat. 1828][/us/stat/121/1828]; [Pub. L. 112–166][/us/pl/112/166], § 2(cc), Aug. 10, 2012, [126 Stat. 1290][/us/stat/126/1290].)
 
  __References in Text__ 
 
     The Ethics in Government Act of 1978, referred to in subsec. (c)(4)(D), is [Pub. L. 95–521][/us/pl/95/521], Oct. 26, 1978, [92 Stat. 1824][/us/stat/92/1824], as amended. For complete classification of this Act to the Code, see Short Title note set out under [section 101 of Pub. L. 95–521][/us/pl/95/521/s101] in the Appendix to Title 5, Government Organization and Employees, and Tables.
 
-    This Act, referred to in subsec. (c)(8)(C), means [Pub. L. 107–279][/us/pl/107/279], Nov. 5, 2002, [116 Stat. 1940][/us/stat/116/1940], which enacted this chapter and [section 3419 of this title][/us/usc/t20/s3419], amended sections 1232j, 3412, 3461, 6194, 6311, 6312, 6317, 6491, 6932, 7013, 7253c, 7283b, 7283d, 7451, 7703, 7909, 9007, 9010, 9011, 9573, 9623, and 9624 of this title and [section 5315 of Title 5][/us/usc/t5/s5315], Government Organization and Employees, transferred sections 9010 and 9011 of this title to sections 9621 and 9622 of this title, respectively, repealed sections 3419, 6011, 6021, 6031, 6041, 6051, 6053 to 6053e, 6054 to 6054b, 6055 to 6055h, 6056, 6056a, 9001 to 9009, and 9012 of this title, enacted provisions set out as notes under section 7703 and 9501 of this title, and repealed provisions set out as notes under sections 1221e and 9001 of this title. For complete classification of this Act to the Code, see Tables.
+    This Act, referred to in subsec. (c)(8)(C), means [Pub. L. 107–279][/us/pl/107/279], Nov. 5, 2002, [116 Stat. 1940][/us/stat/116/1940], which enacted this chapter and [section 3419 of this title][/us/usc/t20/s3419], amended sections 1232j, 3412, 3461, 6194, 6311, 6312, 6317, 6491, 6932, 7013, \[former\] 7253c, \[former\] 7283b, \[former\] 7283d, 7451, 7703, 7909, 9007, 9010, 9011, 9573, 9623, and 9624 of this title and [section 5315 of Title 5][/us/usc/t5/s5315], Government Organization and Employees, transferred sections 9010 and 9011 of this title to sections 9621 and 9622 of this title, respectively, repealed sections 3419, 6011, 6021, 6031, 6041, 6051, 6053 to 6053e, 6054 to 6054b, 6055 to 6055h, 6056, 6056a, 9001 to 9009, and 9012 of this title, enacted provisions set out as notes under section 7703 and 9501 of this title, and repealed provisions set out as notes under sections 1221e and 9001 of this title. For complete classification of this Act to the Code, see Tables.
 
  __Amendments__ 
 
     2012—Subsec. (c)(1). [Pub. L. 112–166][/us/pl/112/166] struck out “, by and with the advice and consent of the Senate” before period at end.
 
-    2004—Subsec. (c)(4)(A)(ii). [Pub. L. 108–446, § 201(b)(2)(D)][/us/pl/108/446/s201/b/2/D], inserted “special education experts,” after “early childhood experts,”.
+    2004—Subsec. (c)(4)(A)(ii). [Pub. L. 108–446][/us/pl/108/446], § 201(b)(2)(D), inserted “special education experts,” after “early childhood experts,”.
 
-    Subsec. (c)(9). [Pub. L. 108–446, § 202][/us/pl/108/446/s202], substituted “Meetings of the Board are subject to [section 552b of title 5][/us/usc/t5/s552b] (commonly referred to as the Government in the Sunshine Act).” for “Meetings of the Board shall be open to the public.”
+    Subsec. (c)(9). [Pub. L. 108–446][/us/pl/108/446], § 202, substituted “Meetings of the Board are subject to [section 552b of title 5][/us/usc/t5/s552b] (commonly referred to as the Government in the Sunshine Act).” for “Meetings of the Board shall be open to the public.”
 
  __Change of Name__ 
 
@@ -228,13 +228,13 @@
 
 [/us/usc/t20/s9515]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs9515
 [/us/usc/t5/s552b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs552b
-[/us/pl/107/279/s116]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F279%2Fs116
+[/us/pl/107/279/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F279%2FtI
 [/us/stat/116/1948]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1948
-[/us/pl/108/446]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F446
+[/us/pl/108/446/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F446%2FtII
 [/us/stat/118/2802]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F2802
-[/us/pl/110/154/s1/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F154%2Fs1%2Fd
+[/us/pl/110/154]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F154
 [/us/stat/121/1828]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F1828
-[/us/pl/112/166/s2/cc]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F166%2Fs2%2Fcc
+[/us/pl/112/166]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F166
 [/us/stat/126/1290]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1290
 [/us/pl/95/521]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F521
 [/us/stat/92/1824]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1824
@@ -244,8 +244,8 @@
 [/us/usc/t20/s3419]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs3419
 [/us/usc/t5/s5315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5315
 [/us/pl/112/166]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F166
-[/us/pl/108/446/s201/b/2/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F446%2Fs201%2Fb%2F2%2FD
-[/us/pl/108/446/s202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F446%2Fs202
+[/us/pl/108/446]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F446
+[/us/pl/108/446]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F446
 [/us/usc/t5/s552b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs552b
 [/us/pl/110/154/s1/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F154%2Fs1%2Fd
 [/us/usc/t42/s285g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs285g

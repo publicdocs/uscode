@@ -17,7 +17,7 @@
 
     Each person awarded a scholarship or fellowship under this chapter shall receive a stipend which shall not exceed the cost to such person for tuition, fees, books, room and board, or such lesser amount as may be prescribed by the Board.
 
-([Pub. L. 99–661, div. A, title XIV, § 1406][/us/pl/99/661/s1406], Nov. 14, 1986, [100 Stat. 4010][/us/stat/100/4010].)
+([Pub. L. 99–661, div. A, title XIV][/us/pl/99/661/dA/tXIV], § 1406, Nov. 14, 1986, [100 Stat. 4010][/us/stat/100/4010].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/99/661/s1406]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F661%2Fs1406
+[/us/pl/99/661/dA/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F661%2FdA%2FtXIV
 [/us/stat/100/4010]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F4010
 
 

@@ -17,7 +17,7 @@
 
     The Secretary shall establish priorities for the regional educational laboratories (established under [section 9564 of this title][/us/usc/t20/s9564]) and comprehensive centers (established under [section 9602 of this title][/us/usc/t20/s9602]) to address, taking onto account the regional assessments conducted under [section 9605 of this title][/us/usc/t20/s9605] and other relevant regional surveys of educational needs, to the extent the Secretary deems appropriate.
 
-([Pub. L. 107–279, title II, § 207][/us/pl/107/279/s207], Nov. 5, 2002, [116 Stat. 1981][/us/stat/116/1981].)
+([Pub. L. 107–279, title II][/us/pl/107/279/tII], § 207, Nov. 5, 2002, [116 Stat. 1981][/us/stat/116/1981].)
 
 ----------
 
@@ -29,7 +29,7 @@
 [/us/usc/t20/s9564]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs9564
 [/us/usc/t20/s9602]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs9602
 [/us/usc/t20/s9605]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs9605
-[/us/pl/107/279/s207]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F279%2Fs207
+[/us/pl/107/279/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F279%2FtII
 [/us/stat/116/1981]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1981
 
 

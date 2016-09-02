@@ -31,7 +31,7 @@
 
         All employees described in subsection (a) of this section shall work on activities of the Institute or the office, board, committee, or center, and shall not be reassigned to other duties outside the Institute or the office, board, committee, or center during their term.
 
-([Pub. L. 107–279, title I, § 188][/us/pl/107/279/s188], Nov. 5, 2002, [116 Stat. 1973][/us/stat/116/1973].)
+([Pub. L. 107–279, title I][/us/pl/107/279/tI], § 188, Nov. 5, 2002, [116 Stat. 1973][/us/stat/116/1973].)
 
  __References in Text__ 
 
@@ -51,7 +51,7 @@
 ----------
 
 [/us/usc/t5/s5376]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5376
-[/us/pl/107/279/s188]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F279%2Fs188
+[/us/pl/107/279/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F279%2FtI
 [/us/stat/116/1973]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1973
 [/us/usc/t5/s5332]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5332
 [/us/usc/t5/s5314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5314

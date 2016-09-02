@@ -23,7 +23,7 @@
 
         After consultation with the Director of the Office of Personnel Management, the Director of the Office of Management and Budget is authorized, at such time as the Director of the Office of Management and Budget provides, to make such determinations as may be necessary with regard to the transfer of positions within the Senior Executive Service in connection with functions and offices transferred by this chapter.
 
-([Pub. L. 96–88, title V, § 504][/us/pl/96/88/s504], Oct. 17, 1979, [93 Stat. 690][/us/stat/93/690].)
+([Pub. L. 96–88, title V][/us/pl/96/88/tV], § 504, Oct. 17, 1979, [93 Stat. 690][/us/stat/93/690].)
 
 ----------
 
@@ -32,7 +32,7 @@
 ----------
 ----------
 
-[/us/pl/96/88/s504]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F88%2Fs504
+[/us/pl/96/88/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F88%2FtV
 [/us/stat/93/690]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F690
 
 

@@ -61,9 +61,7 @@
 
             (ii) who, by reason thereof, needs special education and related services.
 
-    (4) __Core academic subjects__ 
-
-        The term “core academic subjects” has the meaning given the term in section 9101 of the Elementary and Secondary Education Act of 1965 \[[20 U.S.C. 7801][/us/usc/t20/s7801]\].
+    (4) __Repealed.__  __[__  __Pub. L. 114–95, title IX__  __][/us/pl/114/95/tIX]__  __, § 9215(ss)(1)(A),__  __Dec. 10, 2015__  __,__  __[__  __129 Stat. 2181__  __][/us/stat/129/2181]__ 
 
     (5) __Educational service agency__ 
 
@@ -103,7 +101,7 @@
 
             (ii) under part A of title I of the Elementary and Secondary Education Act of 1965 \[[20 U.S.C. 6311][/us/usc/t20/s6311] et seq.\]; and
 
-            (iii) under parts A and B of title III of that Act \[[20 U.S.C. 6811][/us/usc/t20/s6811] et seq., 6891 et seq.\]; and
+            (iii) under part A of title III of that Act \[[20 U.S.C. 6811][/us/usc/t20/s6811] et seq.\]; and
 
         (B) any State or local funds expended for programs that would qualify for assistance under any of those parts.
 
@@ -119,51 +117,7 @@
 
         (D) are provided in conformity with the individualized education program required under [section 1414(d) of this title][/us/usc/t20/s1414/d].
 
-    (10) __Highly qualified__ 
-
-        (A) __In general__ 
-
-        For any special education teacher, the term “highly qualified” has the meaning given the term in section 9101 of the Elementary and Secondary Education Act of 1965 \[[20 U.S.C. 7801][/us/usc/t20/s7801]\], except that such term also—
-
-            (i) includes the requirements described in subparagraph (B); and
-
-            (ii) includes the option for teachers to meet the requirements of section 9101 of such Act by meeting the requirements of subparagraph (C) or (D).
-
-        (B) __Requirements for special education teachers__ 
-
-        When used with respect to any public elementary school or secondary school special education teacher teaching in a State, such term means that—
-
-            (i) the teacher has obtained full State certification as a special education teacher (including certification obtained through alternative routes to certification), or passed the State special education teacher licensing examination, and holds a license to teach in the State as a special education teacher, except that when used with respect to any teacher teaching in a public charter school, the term means that the teacher meets the requirements set forth in the State’s public charter school law;
-
-            (ii) the teacher has not had special education certification or licensure requirements waived on an emergency, temporary, or provisional basis; and
-
-            (iii) the teacher holds at least a bachelor’s degree.
-
-        (C) __Special education teachers teaching to alternate achievement standards__ 
-
-        When used with respect to a special education teacher who teaches core academic subjects exclusively to children who are assessed against alternate achievement standards established under the regulations promulgated under section 1111(b)(1) of the Elementary and Secondary Education Act of 1965 \[[20 U.S.C. 6311(b)(1)][/us/usc/t20/s6311/b/1]\], such term means the teacher, whether new or not new to the profession, may either—
-
-            (i) meet the applicable requirements of section 9101 of such Act \[[20 U.S.C. 7801][/us/usc/t20/s7801]\] for any elementary, middle, or secondary school teacher who is new or not new to the profession; or
-
-            (ii) meet the requirements of subparagraph (B) or (C) of section 9101(23) of such Act as applied to an elementary school teacher, or, in the case of instruction above the elementary level, has subject matter knowledge appropriate to the level of instruction being provided, as determined by the State, needed to effectively teach to those standards.
-
-        (D) __Special education teachers teaching multiple subjects__ 
-
-        When used with respect to a special education teacher who teaches 2 or more core academic subjects exclusively to children with disabilities, such term means that the teacher may either—
-
-            (i) meet the applicable requirements of section 9101 of the Elementary and Secondary Education Act of 1965 \[[20 U.S.C. 7801][/us/usc/t20/s7801]\] for any elementary, middle, or secondary school teacher who is new or not new to the profession;
-
-            (ii) in the case of a teacher who is not new to the profession, demonstrate competence in all the core academic subjects in which the teacher teaches in the same manner as is required for an elementary, middle, or secondary school teacher who is not new to the profession under section 9101(23)(C)(ii) of such Act, which may include a single, high objective uniform State standard of evaluation covering multiple subjects; or
-
-            (iii) in the case of a new special education teacher who teaches multiple subjects and who is highly qualified in mathematics, language arts, or science, demonstrate competence in the other core academic subjects in which the teacher teaches in the same manner as is required for an elementary, middle, or secondary school teacher under section 9101(23)(C)(ii) of such Act, which may include a single, high objective uniform State standard of evaluation covering multiple subjects, not later than 2 years after the date of employment.
-
-        (E) __Rule of construction__ 
-
-            Notwithstanding any other individual right of action that a parent or student may maintain under this subchapter, nothing in this section or subchapter shall be construed to create a right of action on behalf of an individual student or class of students for the failure of a particular State educational agency or local educational agency employee to be highly qualified.
-
-        (F) __Definition for purposes of the ESEA__ 
-
-            A teacher who is highly qualified under this paragraph shall be considered highly qualified for purposes of the Elementary and Secondary Education Act of 1965 \[[20 U.S.C. 6301][/us/usc/t20/s6301] et seq.\].
+    (10) __Repealed.__  __[__  __Pub. L. 114–95, title IX__  __][/us/pl/114/95/tIX]__  __, § 9214(d)(1),__  __Dec. 10, 2015__  __,__  __[__  __129 Stat. 2164__  __][/us/stat/129/2164]__ 
 
     (11) __Homeless children__ 
 
@@ -199,7 +153,7 @@
 
     (18) __Limited English proficient__ 
 
-        The term “limited English proficient” has the meaning given the term in section 9101 of the Elementary and Secondary Education Act of 1965 \[[20 U.S.C. 7801][/us/usc/t20/s7801]\].
+        The term “limited English proficient” has the meaning given the term “English learner” in section 8101 of the Elementary and Secondary Education Act of 1965 \[[20 U.S.C. 7801][/us/usc/t20/s7801]\].
 
     (19) __Local educational agency__ 
 
@@ -327,11 +281,11 @@
 
             The term does not include a foster child who has a foster parent who meets the definition of a parent in paragraph (23).
 
-([Pub. L. 91–230, title VI, § 602][/us/pl/91/230/s602], as added [Pub. L. 108–446, title I, § 101][/us/pl/108/446/s101], Dec. 3, 2004, [118 Stat. 2652][/us/stat/118/2652]; amended [Pub. L. 110–315, title IX, § 941(k)(2)(C)][/us/pl/110/315/s941/k/2/C], Aug. 14, 2008, [122 Stat. 3466][/us/stat/122/3466]; [Pub. L. 111–256, § 2(b)(2)][/us/pl/111/256/s2/b/2], Oct. 5, 2010, [124 Stat. 2643][/us/stat/124/2643].)
+([Pub. L. 91–230, title VI][/us/pl/91/230/tVI], § 602, as added [Pub. L. 108–446, title I][/us/pl/108/446/tI], § 101, Dec. 3, 2004, [118 Stat. 2652][/us/stat/118/2652]; amended [Pub. L. 110–315, title IX][/us/pl/110/315/tIX], § 941(k)(2)(C), Aug. 14, 2008, [122 Stat. 3466][/us/stat/122/3466]; [Pub. L. 111–256][/us/pl/111/256], § 2(b)(2), Oct. 5, 2010, [124 Stat. 2643][/us/stat/124/2643]; [Pub. L. 114–95, title IX][/us/pl/114/95/tIX], §§ 9214(d)(1), 9215(ss)(1), Dec. 10, 2015, [129 Stat. 2164][/us/stat/129/2164], 2181.)
 
  __References in Text__ 
 
-    The Elementary and Secondary Education Act of 1965, referred to in pars. (8)(A)(ii), (iii) and (10)(F), is [Pub. L. 89–10][/us/pl/89/10], Apr. 11, 1965, [79 Stat. 27][/us/stat/79/27], which is classified generally to chapter 70 (§ 6301 et seq.) of this title. Part A of title I of the Act is classified generally to part A (§ 6311 et seq.) of subchapter I of chapter 70 of this title. Parts A and B of title III of the Act are classified generally to parts A (§ 6811 et seq.) and B (§ 6891 et seq.), respectively, of subchapter III of chapter 70 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 6301 of this title][/us/usc/t20/s6301] and Tables.
+    The Elementary and Secondary Education Act of 1965, referred to in par. (8)(A)(ii), (iii), is [Pub. L. 89–10][/us/pl/89/10], Apr. 11, 1965, [79 Stat. 27][/us/stat/79/27]. Part A of title I of the Act is classified generally to part A (§ 6311 et seq.) of subchapter I of chapter 70 of this title. Part A of title III of the Act is classified generally to part A (§ 6811 et seq.) of subchapter III of chapter 70 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 6301 of this title][/us/usc/t20/s6301] and Tables.
 
     The Alaska Native Claims Settlement Act, referred to in par. (13), is [Pub. L. 92–203][/us/pl/92/203], Dec. 18, 1971, [85 Stat. 688][/us/stat/85/688], which is classified generally to chapter 33 (§ 1601 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under [section 1601 of Title 43][/us/usc/t43/s1601] and Tables.
 
@@ -339,21 +293,33 @@
 
  __Prior Provisions__ 
 
-    A prior section 1401, [Pub. L. 91–230, title VI, § 602][/us/pl/91/230/s602], as added [Pub. L. 105–17, title I, § 101][/us/pl/105/17/s101], June 4, 1997, [111 Stat. 42][/us/stat/111/42]; amended [Pub. L. 105–244, title IX, § 901(d)][/us/pl/105/244/s901/d], Oct. 7, 1998, [112 Stat. 1828][/us/stat/112/1828], related to definitions of terms used in this chapter, prior to the general amendment of subchapters I to IV of this chapter by [Pub. L. 108–446][/us/pl/108/446].
+    A prior section 1401, [Pub. L. 91–230, title VI][/us/pl/91/230/tVI], § 602, as added [Pub. L. 105–17, title I][/us/pl/105/17/tI], § 101, June 4, 1997, [111 Stat. 42][/us/stat/111/42]; amended [Pub. L. 105–244, title IX][/us/pl/105/244/tIX], § 901(d), Oct. 7, 1998, [112 Stat. 1828][/us/stat/112/1828], related to definitions of terms used in this chapter, prior to the general amendment of subchapters I to IV of this chapter by [Pub. L. 108–446][/us/pl/108/446].
 
-    Another prior section 1401, [Pub. L. 91–230, title VI, § 602][/us/pl/91/230/s602], Apr. 13, 1970, [84 Stat. 175][/us/stat/84/175]; [Pub. L. 94–142, § 4(a)][/us/pl/94/142/s4/a], Nov. 29, 1975, [89 Stat. 775][/us/stat/89/775]; [Pub. L. 98–199][/us/pl/98/199], §§ 2, 3(b), Dec. 2, 1983, [97 Stat. 1357][/us/stat/97/1357], 1358; [Pub. L. 99–457, title IV, § 402][/us/pl/99/457/s402], Oct. 8, 1986, [100 Stat. 1172][/us/stat/100/1172]; [Pub. L. 100–630, title I, § 101(a)][/us/pl/100/630/s101/a], Nov. 7, 1988, [102 Stat. 3289][/us/stat/102/3289]; [Pub. L. 101–476, title I, § 101][/us/pl/101/476/s101], title IX, § 901(b)(10)–(20), Oct. 30, 1990, [104 Stat. 1103][/us/stat/104/1103], 1142, 1143; [Pub. L. 102–73, title VIII, § 802(d)(1)][/us/pl/102/73/s802/d/1], July 25, 1991, [105 Stat. 361][/us/stat/105/361]; [Pub. L. 102–119][/us/pl/102/119], §§ 3, 25(a)(1), (b), Oct. 7, 1991, [105 Stat. 587][/us/stat/105/587], 605, 607; [Pub. L. 103–382, title III, § 391(f)(1)][/us/pl/103/382/s391/f/1], Oct. 20, 1994, [108 Stat. 4023][/us/stat/108/4023], related to definitions of terms used in this chapter, prior to the general amendment of subchapters I to IV of this chapter by [Pub. L. 105–17][/us/pl/105/17].
+    Another prior section 1401, [Pub. L. 91–230, title VI][/us/pl/91/230/tVI], § 602, Apr. 13, 1970, [84 Stat. 175][/us/stat/84/175]; [Pub. L. 94–142][/us/pl/94/142], § 4(a), Nov. 29, 1975, [89 Stat. 775][/us/stat/89/775]; [Pub. L. 98–199][/us/pl/98/199], §§ 2, 3(b), Dec. 2, 1983, [97 Stat. 1357][/us/stat/97/1357], 1358; [Pub. L. 99–457, title IV][/us/pl/99/457/tIV], § 402, Oct. 8, 1986, [100 Stat. 1172][/us/stat/100/1172]; [Pub. L. 100–630, title I][/us/pl/100/630/tI], § 101(a), Nov. 7, 1988, [102 Stat. 3289][/us/stat/102/3289]; [Pub. L. 101–476, title I][/us/pl/101/476/tI], § 101, title IX, § 901(b)(10)–(20), Oct. 30, 1990, [104 Stat. 1103][/us/stat/104/1103], 1142, 1143; [Pub. L. 102–73, title VIII][/us/pl/102/73/tVIII], § 802(d)(1), July 25, 1991, [105 Stat. 361][/us/stat/105/361]; [Pub. L. 102–119][/us/pl/102/119], §§ 3, 25(a)(1), (b), Oct. 7, 1991, [105 Stat. 587][/us/stat/105/587], 605, 607; [Pub. L. 103–382, title III][/us/pl/103/382/tIII], § 391(f)(1), Oct. 20, 1994, [108 Stat. 4023][/us/stat/108/4023], related to definitions of terms used in this chapter, prior to the general amendment of subchapters I to IV of this chapter by [Pub. L. 105–17][/us/pl/105/17].
 
  __Amendments__ 
 
-    2010—Par. (3)(A)(i). [Pub. L. 111–256, § 2(b)(2)(A)][/us/pl/111/256/s2/b/2/A], substituted “with intellectual disabilities” for “with mental retardation”.
+    2015—Par. (4). [Pub. L. 114–95][/us/pl/114/95], § 9215(ss)(1)(A), struck out par. (4). Text read as follows: “The term ‘core academic subjects’ has the meaning given the term in section 9101 of the Elementary and Secondary Education Act of 1965.”
 
-    Par. (30)(C). [Pub. L. 111–256, § 2(b)(2)(B)][/us/pl/111/256/s2/b/2/B], substituted “of intellectual disabilities” for “of mental retardation”.
+    Par. (8)(A)(iii). [Pub. L. 114–95][/us/pl/114/95], § 9215(ss)(1)(B), which directed substitution of “under part A of title III of that Act” for “under parts A and B of title III of that Act” in “paragraph (8)(a)(3)” was executed to par. (8)(A)(iii) to reflect the probable intent of Congress.
+
+    Par. (10). [Pub. L. 114–95][/us/pl/114/95], § 9214(d)(1), struck out par. (10) which related to definition of highly qualified.
+
+    Par. (18). [Pub. L. 114–95][/us/pl/114/95], § 9215(ss)(1)(C), added par. (18) and struck out former par. (18). Prior to amendment, text read as follows: “The term ‘limited English proficient’ has the meaning given the term in section 9101 of the Elementary and Secondary Education Act of 1965.”
+
+    2010—Par. (3)(A)(i). [Pub. L. 111–256][/us/pl/111/256], § 2(b)(2)(A), substituted “with intellectual disabilities” for “with mental retardation”.
+
+    Par. (30)(C). [Pub. L. 111–256][/us/pl/111/256], § 2(b)(2)(B), substituted “of intellectual disabilities” for “of mental retardation”.
 
     2008—Par. (17)(B). [Pub. L. 110–315][/us/pl/110/315] substituted “college or university” for “community college” and “the Tribally Controlled Colleges and Universities Assistance Act of 1978” for “the Tribally Controlled College or University Assistance Act of 1978”.
 
+ __Effective Date of 2015 Amendment__ 
+
+    Amendment by [Pub. L. 114–95][/us/pl/114/95] effective Dec. 10, 2015, except with respect to certain noncompetitive programs and competitive programs, see [section 5 of Pub. L. 114–95][/us/pl/114/95/s5], set out as a note under [section 6301 of this title][/us/usc/t20/s6301].
+
  __Effective Date__ 
 
-    Section effective July 1, 2005, except that subparagraphs (C) through (F) of par. (10) of this section are effective Dec. 3, 2004, for purposes of the Elementary and Secondary Education Act of 1965 ([20 U.S.C. 6301][/us/usc/t20/s6301] et seq.), see [section 302(a) of Pub. L. 108–446][/us/pl/108/446/s302/a], set out as a note under [section 1400 of this title][/us/usc/t20/s1400].
+    Section effective July 1, 2005, see [section 302(a) of Pub. L. 108–446][/us/pl/108/446/s302/a], set out as a note under [section 1400 of this title][/us/usc/t20/s1400].
 
  __Definitions__ 
 
@@ -366,15 +332,13 @@
 ----------
 ----------
 
-[/us/usc/t20/s7801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs7801
+[/us/pl/114/95/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F95%2FtIX
+[/us/stat/129/2181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F2181
 [/us/usc/t20/s6311]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs6311
 [/us/usc/t20/s6811]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs6811
 [/us/usc/t20/s1414/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1414%2Fd
-[/us/usc/t20/s7801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs7801
-[/us/usc/t20/s6311/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs6311%2Fb%2F1
-[/us/usc/t20/s7801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs7801
-[/us/usc/t20/s7801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs7801
-[/us/usc/t20/s6301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs6301
+[/us/pl/114/95/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F95%2FtIX
+[/us/stat/129/2164]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F2164
 [/us/usc/t42/s11434a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs11434a
 [/us/usc/t43/s1601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs1601
 [/us/usc/t20/s1414/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1414%2Fd
@@ -386,13 +350,15 @@
 [/us/usc/t20/s1471/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1471%2Fg
 [/us/usc/t20/s1412/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1412%2Fa%2F5
 [/us/usc/t29/s3002]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3002
-[/us/pl/91/230/s602]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F230%2Fs602
-[/us/pl/108/446/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F446%2Fs101
+[/us/pl/91/230/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F230%2FtVI
+[/us/pl/108/446/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F446%2FtI
 [/us/stat/118/2652]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F2652
-[/us/pl/110/315/s941/k/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2Fs941%2Fk%2F2%2FC
+[/us/pl/110/315/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2FtIX
 [/us/stat/122/3466]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3466
-[/us/pl/111/256/s2/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F256%2Fs2%2Fb%2F2
+[/us/pl/111/256]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F256
 [/us/stat/124/2643]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2643
+[/us/pl/114/95/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F95%2FtIX
+[/us/stat/129/2164]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F2164
 [/us/pl/89/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F10
 [/us/stat/79/27]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F27
 [/us/usc/t20/s6301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs6301
@@ -402,34 +368,40 @@
 [/us/pl/95/471]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F471
 [/us/stat/92/1325]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1325
 [/us/usc/t25/s1801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs1801
-[/us/pl/91/230/s602]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F230%2Fs602
-[/us/pl/105/17/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F17%2Fs101
+[/us/pl/91/230/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F230%2FtVI
+[/us/pl/105/17/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F17%2FtI
 [/us/stat/111/42]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F42
-[/us/pl/105/244/s901/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2Fs901%2Fd
+[/us/pl/105/244/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2FtIX
 [/us/stat/112/1828]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F1828
 [/us/pl/108/446]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F446
-[/us/pl/91/230/s602]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F230%2Fs602
+[/us/pl/91/230/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F230%2FtVI
 [/us/stat/84/175]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F175
-[/us/pl/94/142/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F142%2Fs4%2Fa
+[/us/pl/94/142]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F142
 [/us/stat/89/775]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F775
 [/us/pl/98/199]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F199
 [/us/stat/97/1357]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F1357
-[/us/pl/99/457/s402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F457%2Fs402
+[/us/pl/99/457/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F457%2FtIV
 [/us/stat/100/1172]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1172
-[/us/pl/100/630/s101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F630%2Fs101%2Fa
+[/us/pl/100/630/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F630%2FtI
 [/us/stat/102/3289]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3289
-[/us/pl/101/476/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F476%2Fs101
+[/us/pl/101/476/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F476%2FtI
 [/us/stat/104/1103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1103
-[/us/pl/102/73/s802/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F73%2Fs802%2Fd%2F1
+[/us/pl/102/73/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F73%2FtVIII
 [/us/stat/105/361]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F361
 [/us/pl/102/119]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F119
 [/us/stat/105/587]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F587
-[/us/pl/103/382/s391/f/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F382%2Fs391%2Ff%2F1
+[/us/pl/103/382/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F382%2FtIII
 [/us/stat/108/4023]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4023
 [/us/pl/105/17]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F17
-[/us/pl/111/256/s2/b/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F256%2Fs2%2Fb%2F2%2FA
-[/us/pl/111/256/s2/b/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F256%2Fs2%2Fb%2F2%2FB
+[/us/pl/114/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F95
+[/us/pl/114/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F95
+[/us/pl/114/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F95
+[/us/pl/114/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F95
+[/us/pl/111/256]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F256
+[/us/pl/111/256]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F256
 [/us/pl/110/315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315
+[/us/pl/114/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F95
+[/us/pl/114/95/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F95%2Fs5
 [/us/usc/t20/s6301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs6301
 [/us/pl/108/446/s302/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F446%2Fs302%2Fa
 [/us/usc/t20/s1400]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1400

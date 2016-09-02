@@ -69,7 +69,7 @@
 
         The State—
 
-            (A) will enhance the quality of the academic assessments it administers pursuant to section 1111(b)(3) of the ESEA ([20 U.S.C. 6311(b)(3)][/us/usc/t20/s6311/b/3]) through activities such as those described in section 6112(a) of such Act ([20 U.S.C. 7301a(a)][/us/usc/t20/s7301a/a]);
+            (A) will enhance the quality of the academic assessments it administers pursuant to section 1111(b)(3) of the ESEA ([20 U.S.C. 6311(b)(3)][/us/usc/t20/s6311/b/3]) through activities such as those described in section 6112(a)  <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  of such Act ([20 U.S.C. 7301a(a)][/us/usc/t20/s7301a/a]);
 
             (B) will comply with the requirements of paragraphs (3)(C)(ix) and (6) of section 1111(b) of the ESEA ([20 U.S.C. 6311(b)][/us/usc/t20/s6311/b]) and section 612(a)(16) of the IDEA ([20 U.S.C. 1412(a)(16)][/us/usc/t20/s1412/a/16]) related to the inclusion of children with disabilities and limited English proficient students in State assessments, the development of valid and reliable assessments for those students, and the provision of accommodations that enable their participation in State assessments; and
 
@@ -77,7 +77,7 @@
 
         (5) __Supporting struggling schools__ 
 
-            The State will ensure compliance with the requirements of section 1116(b)(7)(C)(iv) \[[20 U.S.C. 6316(b)(7)(C)(iv)][/us/usc/t20/s6316/b/7/C/iv]\] and section 1116(b)(8)(B) \[[20 U.S.C. 6316(b)(8)(B)][/us/usc/t20/s6316/b/8/B]\] of the ESEA with respect to schools identified under such sections.
+            The State will ensure compliance with the requirements of section 1116(b)(7)(C)(iv) 1 and section 1116(b)(8)(B) 1 of the ESEA with respect to schools identified under such sections.
 
         (6) __Improving early childhood care and education__ 
 
@@ -89,25 +89,31 @@
 
             (C) ensure that any use of assessments conforms with the recommendations of the National Research Council’s reports on early childhood.
 
-([Pub. L. 111–5, div. A, title XIV, § 14005][/us/pl/111/5/s14005], Feb. 17, 2009, [123 Stat. 282][/us/stat/123/282]; [Pub. L. 111–8, div. F, title V, § 523(d)][/us/pl/111/8/s523/d]–(f), Mar. 11, 2009, [123 Stat. 806][/us/stat/123/806]; [Pub. L. 112–10, div. B, title VIII, § 1832(b)(1)][/us/pl/112/10/s1832/b/1], Apr. 15, 2011, [125 Stat. 164][/us/stat/125/164].)
+([Pub. L. 111–5, div. A, title XIV][/us/pl/111/5/dA/tXIV], § 14005, Feb. 17, 2009, [123 Stat. 282][/us/stat/123/282]; [Pub. L. 111–8, div. F, title V][/us/pl/111/8/dF/tV], § 523(d)–(f), Mar. 11, 2009, [123 Stat. 806][/us/stat/123/806]; [Pub. L. 112–10, div. B, title VIII][/us/pl/112/10/dB/tVIII], § 1832(b)(1), Apr. 15, 2011, [125 Stat. 164][/us/stat/125/164].)
 
  __References in Text__ 
 
     ESEA, referred to in subsec. (b)(3), is the Elementary and Secondary Education Act of 1965, [Pub. L. 89–10][/us/pl/89/10], Apr. 11, 1965, [79 Stat. 27][/us/stat/79/27], which is classified generally to chapter 70 (§ 6301 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 6301 of this title][/us/usc/t20/s6301] and Tables.
 
-    IDEA, referred to in subsec. (b)(3), is the Individuals with Disabilities Education Act, [Pub. L. 91–230, title VI][/us/pl/91/230], Apr. 13, 1970, [84 Stat. 175][/us/stat/84/175], which is classified generally to chapter 33 (§ 1400 et seq.) of this title. For complete classification of this Act to the Code, see [section 1400 of this title][/us/usc/t20/s1400] and Tables.
+    IDEA, referred to in subsec. (b)(3), is the Individuals with Disabilities Education Act, [Pub. L. 91–230, title VI][/us/pl/91/230/tVI], Apr. 13, 1970, [84 Stat. 175][/us/stat/84/175], which is classified generally to chapter 33 (§ 1400 et seq.) of this title. For complete classification of this Act to the Code, see [section 1400 of this title][/us/usc/t20/s1400] and Tables.
 
-    [Section 9871 of this title][/us/usc/t20/s9871], referred to in subsec. (d)(3), (4)(C), was in the original “section 6401”, and was translated as meaning [section 6201 of Pub. L. 110–69][/us/pl/110/69/s6201] to reflect the probable intent of Congress and the renumbering of [section 6401 of Pub. L. 110–69][/us/pl/110/69/s6401] as section 6201 by [Pub. L. 111–358, title X, § 1002(b)(3)][/us/pl/111/358/s1002/b/3], Jan. 4, 2011, [124 Stat. 4048][/us/stat/124/4048].
+    Section 1111 of the ESEA, referred to in subsecs. (c)(2), (3) and (d)(2), (4)(A), (B), is [section 1111 of Pub. L. 89–10][/us/pl/89/10/s1111], which is classified to [section 6311 of this title][/us/usc/t20/s6311] and was amended generally by [Pub. L. 114–95, title I][/us/pl/114/95/tI], § 1005, Dec. 10, 2015, [129 Stat. 1820][/us/stat/129/1820].
+
+    [Section 9871 of this title][/us/usc/t20/s9871], referred to in subsec. (d)(3), (4)(C), was in the original “section 6401”, and was translated as meaning [section 6201 of Pub. L. 110–69][/us/pl/110/69/s6201] to reflect the probable intent of Congress and the renumbering of [section 6401 of Pub. L. 110–69][/us/pl/110/69/s6401] as section 6201 by [Pub. L. 111–358, title X][/us/pl/111/358/tX], § 1002(b)(3), Jan. 4, 2011, [124 Stat. 4048][/us/stat/124/4048].
+
+    Section 6112 of the ESEA, referred to in subsec. (d)(4)(A), is [section 6112 of Pub. L. 89–10][/us/pl/89/10/s6112], which was classified to [section 7301a of this title][/us/usc/t20/s7301a], prior to repeal by [Pub. L. 114–95, title V][/us/pl/114/95/tV], § 5001(b)(1), Dec. 10, 2015, [129 Stat. 2040][/us/stat/129/2040], effective Dec. 10, 2015, except with respect to certain noncompetitive programs and competitive programs.
+
+    Section 1116 of the ESEA, referred to in subsec. (d)(5), is [section 1116 of Pub. L. 89–10][/us/pl/89/10/s1116], which was classified to [section 6316 of this title][/us/usc/t20/s6316], prior to repeal by [Pub. L. 114–95, title I][/us/pl/114/95/tI], § 1000(1), Dec. 10, 2015, [129 Stat. 1814][/us/stat/129/1814], effective Dec. 10, 2015, except with respect to certain noncompetitive programs and competitive programs.
 
  __Amendments__ 
 
     2011—Subsec. (d)(6). [Pub. L. 112–10][/us/pl/112/10] added par. (6).
 
-    2009—Subsec. (a). [Pub. L. 111–8, § 523(d)][/us/pl/111/8/s523/d], substituted “10001(d)” for “10001”.
+    2009—Subsec. (a). [Pub. L. 111–8][/us/pl/111/8], § 523(d), substituted “10001(d)” for “10001”.
 
-    Subsec. (d)(4)(C). [Pub. L. 111–8, § 523(e)][/us/pl/111/8/s523/e], substituted “9871(e)(1)(A)(ii)” for “9871(e)(1)(9)(A)(ii)”.
+    Subsec. (d)(4)(C). [Pub. L. 111–8][/us/pl/111/8], § 523(e), substituted “9871(e)(1)(A)(ii)” for “9871(e)(1)(9)(A)(ii)”.
 
-    Subsec. (d)(5). [Pub. L. 111–8, § 523(f)][/us/pl/111/8/s523/f], substituted “1116(b)(7)(C)(iv)” for “1116(a)(7)(C)(iv)” and “1116(b)(8)(B)” for “1116(a)(8)(B)”.
+    Subsec. (d)(5). [Pub. L. 111–8][/us/pl/111/8], § 523(f), substituted “1116(b)(7)(C)(iv)” for “1116(a)(7)(C)(iv)” and “1116(b)(8)(B)” for “1116(a)(8)(B)”.
 
 ----------
 
@@ -128,28 +134,38 @@
 [/us/usc/t20/s6311/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs6311%2Fb
 [/us/usc/t20/s1412/a/16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1412%2Fa%2F16
 [/us/usc/t20/s9871/e/1/A/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs9871%2Fe%2F1%2FA%2Fii
-[/us/usc/t20/s6316/b/7/C/iv]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs6316%2Fb%2F7%2FC%2Fiv
-[/us/usc/t20/s6316/b/8/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs6316%2Fb%2F8%2FB
-[/us/pl/111/5/s14005]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5%2Fs14005
+[/us/pl/111/5/dA/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5%2FdA%2FtXIV
 [/us/stat/123/282]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F282
-[/us/pl/111/8/s523/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F8%2Fs523%2Fd
+[/us/pl/111/8/dF/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F8%2FdF%2FtV
 [/us/stat/123/806]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F806
-[/us/pl/112/10/s1832/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F10%2Fs1832%2Fb%2F1
+[/us/pl/112/10/dB/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F10%2FdB%2FtVIII
 [/us/stat/125/164]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F164
 [/us/pl/89/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F10
 [/us/stat/79/27]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F27
 [/us/usc/t20/s6301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs6301
-[/us/pl/91/230]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F230
+[/us/pl/91/230/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F230%2FtVI
 [/us/stat/84/175]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F175
 [/us/usc/t20/s1400]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1400
+[/us/pl/89/10/s1111]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F10%2Fs1111
+[/us/usc/t20/s6311]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs6311
+[/us/pl/114/95/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F95%2FtI
+[/us/stat/129/1820]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1820
 [/us/usc/t20/s9871]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs9871
 [/us/pl/110/69/s6201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F69%2Fs6201
 [/us/pl/110/69/s6401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F69%2Fs6401
-[/us/pl/111/358/s1002/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F358%2Fs1002%2Fb%2F3
+[/us/pl/111/358/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F358%2FtX
 [/us/stat/124/4048]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F4048
+[/us/pl/89/10/s6112]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F10%2Fs6112
+[/us/usc/t20/s7301a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs7301a
+[/us/pl/114/95/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F95%2FtV
+[/us/stat/129/2040]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F2040
+[/us/pl/89/10/s1116]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F10%2Fs1116
+[/us/usc/t20/s6316]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs6316
+[/us/pl/114/95/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F95%2FtI
+[/us/stat/129/1814]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1814
 [/us/pl/112/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F10
-[/us/pl/111/8/s523/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F8%2Fs523%2Fd
-[/us/pl/111/8/s523/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F8%2Fs523%2Fe
-[/us/pl/111/8/s523/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F8%2Fs523%2Ff
+[/us/pl/111/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F8
+[/us/pl/111/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F8
+[/us/pl/111/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F8
 
 

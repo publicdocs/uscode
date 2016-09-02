@@ -17,7 +17,7 @@
 
     Any department or agency action taken pursuant to [section 1682 of this title][/us/usc/t20/s1682] shall be subject to such judicial review as may otherwise be provided by law for similar action taken by such department or agency on other grounds. In the case of action, not otherwise subject to judicial review, terminating or refusing to grant or to continue financial assistance upon a finding of failure to comply with any requirement imposed pursuant to [section 1682 of this title][/us/usc/t20/s1682], any person aggrieved (including any State or political subdivision thereof and any agency of either) may obtain judicial review of such action in accordance with chapter 7 of title 5, and such action shall not be deemed committed to unreviewable agency discretion within the meaning of section 701 of that title.
 
-([Pub. L. 92–318, title IX, § 903][/us/pl/92/318/s903], June 23, 1972, [86 Stat. 374][/us/stat/86/374].)
+([Pub. L. 92–318, title IX][/us/pl/92/318/tIX], § 903, June 23, 1972, [86 Stat. 374][/us/stat/86/374].)
 
  __Codification__ 
 
@@ -32,7 +32,7 @@
 
 [/us/usc/t20/s1682]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1682
 [/us/usc/t20/s1682]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1682
-[/us/pl/92/318/s903]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F318%2Fs903
+[/us/pl/92/318/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F318%2FtIX
 [/us/stat/86/374]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F374
 [/us/usc/t20/s1682]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1682
 [/us/pl/92/318]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F318

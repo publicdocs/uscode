@@ -37,7 +37,7 @@
 
         (3) meet such other requirements as the Secretary may from time to time, by regulation, reasonably require.
 
-([Pub. L. 89–329, title VI, § 623][/us/pl/89/329/s623], formerly § 622, as added [Pub. L. 102–325, title VI, § 601][/us/pl/102/325/s601], July 23, 1992, [106 Stat. 734][/us/stat/106/734]; renumbered § 623 and amended [Pub. L. 105–244, title VI, § 603(b)(1)][/us/pl/105/244/s603/b/1], (c), Oct. 7, 1998, [112 Stat. 1783][/us/stat/112/1783], 1784; [Pub. L. 110–315, title VI, § 614][/us/pl/110/315/s614], Aug. 14, 2008, [122 Stat. 3340][/us/stat/122/3340].)
+([Pub. L. 89–329, title VI][/us/pl/89/329/tVI], § 623, formerly § 622, as added [Pub. L. 102–325, title VI][/us/pl/102/325/tVI], § 601, July 23, 1992, [106 Stat. 734][/us/stat/106/734]; renumbered § 623 and amended [Pub. L. 105–244, title VI][/us/pl/105/244/tVI], § 603(b)(1), (c), Oct. 7, 1998, [112 Stat. 1783][/us/stat/112/1783], 1784; [Pub. L. 110–315, title VI][/us/pl/110/315/tVI], § 614, Aug. 14, 2008, [122 Stat. 3340][/us/stat/122/3340].)
 
  __Prior Provisions__ 
 
@@ -47,15 +47,15 @@
 
     2008—Subsec. (a). [Pub. L. 110–315][/us/pl/110/315] struck out “as defined in [section 1061 of this title][/us/usc/t20/s1061]” after “Black colleges and universities” and substituted “tribally controlled colleges or universities, Alaska Native-serving, Native Hawaiian-serving, and Hispanic-serving institutions” for “tribally controlled Indian community colleges as defined in the Tribally Controlled Community College Assistance Act of 1978”.
 
-    1998—[Pub. L. 105–244, § 603(c)(1)][/us/pl/105/244/s603/c/1], substituted “Study” for “Junior year” in section catchline.
+    1998—[Pub. L. 105–244][/us/pl/105/244], § 603(c)(1), substituted “Study” for “Junior year” in section catchline.
 
-    Subsec. (b)(2). [Pub. L. 105–244, § 603(c)(2)][/us/pl/105/244/s603/c/2], inserted “, or completing the third year of study in the case of a summer abroad program,” after “year of study” and substituted “study abroad” for “junior year abroad”.
+    Subsec. (b)(2). [Pub. L. 105–244][/us/pl/105/244], § 603(c)(2), inserted “, or completing the third year of study in the case of a summer abroad program,” after “year of study” and substituted “study abroad” for “junior year abroad”.
 
-    Subsec. (c). [Pub. L. 105–244, § 603(c)(3)(A)][/us/pl/105/244/s603/c/3/A], substituted “study abroad” for “junior year abroad” in introductory provisions.
+    Subsec. (c). [Pub. L. 105–244][/us/pl/105/244], § 603(c)(3)(A), substituted “study abroad” for “junior year abroad” in introductory provisions.
 
-    Subsec. (c)(1). [Pub. L. 105–244, § 603(c)(3)(B)][/us/pl/105/244/s603/c/3/B], substituted “study abroad” for “junior year abroad”.
+    Subsec. (c)(1). [Pub. L. 105–244][/us/pl/105/244], § 603(c)(3)(B), substituted “study abroad” for “junior year abroad”.
 
-    Subsec. (c)(2). [Pub. L. 105–244, § 603(c)(3)(C)][/us/pl/105/244/s603/c/3/C], substituted “one-third” for “one-half” and “study abroad” for “junior year abroad”.
+    Subsec. (c)(2). [Pub. L. 105–244][/us/pl/105/244], § 603(c)(3)(C), substituted “one-third” for “one-half” and “study abroad” for “junior year abroad”.
 
  __Effective Date of 1998 Amendment__ 
 
@@ -68,22 +68,22 @@
 ----------
 ----------
 
-[/us/pl/89/329/s623]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2Fs623
-[/us/pl/102/325/s601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325%2Fs601
+[/us/pl/89/329/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2FtVI
+[/us/pl/102/325/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325%2FtVI
 [/us/stat/106/734]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F734
-[/us/pl/105/244/s603/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2Fs603%2Fb%2F1
+[/us/pl/105/244/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2FtVI
 [/us/stat/112/1783]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F1783
-[/us/pl/110/315/s614]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2Fs614
+[/us/pl/110/315/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2FtVI
 [/us/stat/122/3340]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3340
 [/us/pl/89/329/s623]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2Fs623
 [/us/usc/t20/s1131b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1131b
 [/us/pl/110/315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315
 [/us/usc/t20/s1061]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1061
-[/us/pl/105/244/s603/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2Fs603%2Fc%2F1
-[/us/pl/105/244/s603/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2Fs603%2Fc%2F2
-[/us/pl/105/244/s603/c/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2Fs603%2Fc%2F3%2FA
-[/us/pl/105/244/s603/c/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2Fs603%2Fc%2F3%2FB
-[/us/pl/105/244/s603/c/3/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2Fs603%2Fc%2F3%2FC
+[/us/pl/105/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244
+[/us/pl/105/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244
+[/us/pl/105/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244
+[/us/pl/105/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244
+[/us/pl/105/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244
 [/us/pl/105/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244
 [/us/pl/105/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244
 [/us/pl/105/244/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2Fs3

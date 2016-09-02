@@ -25,7 +25,7 @@
 
         (2) The Secretary is authorized to delegate reporting requirements vested in the Secretary by paragraph (1) to any officer or employee of the Department.
 
-([Pub. L. 96–88, title IV, § 411][/us/pl/96/88/s411], Oct. 17, 1979, [93 Stat. 683][/us/stat/93/683].)
+([Pub. L. 96–88, title IV][/us/pl/96/88/tIV], § 411, Oct. 17, 1979, [93 Stat. 683][/us/stat/93/683].)
 
  __Codification__ 
 
@@ -38,7 +38,7 @@
 ----------
 ----------
 
-[/us/pl/96/88/s411]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F88%2Fs411
+[/us/pl/96/88/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F88%2FtIV
 [/us/stat/93/683]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F683
 [/us/pl/96/88/s601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F88%2Fs601
 [/us/usc/t20/s3401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs3401

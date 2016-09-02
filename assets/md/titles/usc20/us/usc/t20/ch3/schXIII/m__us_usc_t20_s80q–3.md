@@ -115,7 +115,7 @@
 
         Members of the Board shall be entitled (to the same extent as provided in [section 5703 of title 5][/us/usc/t5/s5703] with respect to employees serving intermittently in the Government service) to per diem, travel, and transportation expenses for each day (including travel time) during which they are engaged in the performance of their duties.
 
-([Pub. L. 101–185, § 5][/us/pl/101/185/s5], Nov. 28, 1989, [103 Stat. 1337][/us/stat/103/1337]; [Pub. L. 104–278, § 2][/us/pl/104/278/s2], Oct. 9, 1996, [110 Stat. 3355][/us/stat/110/3355].)
+([Pub. L. 101–185][/us/pl/101/185], § 5, Nov. 28, 1989, [103 Stat. 1337][/us/stat/103/1337]; [Pub. L. 104–278][/us/pl/104/278], § 2, Oct. 9, 1996, [110 Stat. 3355][/us/stat/110/3355].)
 
  __Amendments__ 
 
@@ -129,9 +129,9 @@
 ----------
 
 [/us/usc/t5/s5703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5703
-[/us/pl/101/185/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F185%2Fs5
+[/us/pl/101/185]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F185
 [/us/stat/103/1337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1337
-[/us/pl/104/278/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F278%2Fs2
+[/us/pl/104/278]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F278
 [/us/stat/110/3355]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3355
 [/us/pl/104/278]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F278
 

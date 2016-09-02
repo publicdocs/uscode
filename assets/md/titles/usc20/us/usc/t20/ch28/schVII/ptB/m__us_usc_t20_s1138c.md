@@ -55,13 +55,13 @@
 
             (C) improve patient care and outcomes, as recommended by the Institute of Medicine of the National Academies.
 
-([Pub. L. 89–329, title VII, § 744][/us/pl/89/329/s744], as added [Pub. L. 105–244, title VII, § 701][/us/pl/105/244/s701], Oct. 7, 1998, [112 Stat. 1798][/us/stat/112/1798]; amended [Pub. L. 110–315, title VII, § 707(f)][/us/pl/110/315/s707/f], (h)(3), Aug. 14, 2008, [122 Stat. 3359][/us/stat/122/3359], 3361; [Pub. L. 111–39, title VII, § 701(3)][/us/pl/111/39/s701/3], July 1, 2009, [123 Stat. 1954][/us/stat/123/1954].)
+([Pub. L. 89–329, title VII][/us/pl/89/329/tVII], § 744, as added [Pub. L. 105–244, title VII][/us/pl/105/244/tVII], § 701, Oct. 7, 1998, [112 Stat. 1798][/us/stat/112/1798]; amended [Pub. L. 110–315, title VII][/us/pl/110/315/tVII], § 707(f), (h)(3), Aug. 14, 2008, [122 Stat. 3359][/us/stat/122/3359], 3361; [Pub. L. 111–39, title VII][/us/pl/111/39/tVII], § 701(3), July 1, 2009, [123 Stat. 1954][/us/stat/123/1954].)
 
  __Prior Provisions__ 
 
     Provisions similar to this section were contained in [section 1135a–11 of this title][/us/usc/t20/s1135a–11], prior to repeal by [Pub. L. 105–244][/us/pl/105/244].
 
-    A prior section 1138c, [Pub. L. 89–329, title XI, § 1144][/us/pl/89/329/s1144], as added [Pub. L. 102–325, title XI, § 1101][/us/pl/102/325/s1101], July 23, 1992, [106 Stat. 789][/us/stat/106/789]; amended [Pub. L. 103–382, title III, § 391(e)(10)][/us/pl/103/382/s391/e/10], Oct. 20, 1994, [108 Stat. 4023][/us/stat/108/4023], related to applications for grants, prior to repeal by [Pub. L. 105–244, § 3][/us/pl/105/244/s3], title VII, § 702, Oct. 7, 1998, [112 Stat. 1585][/us/stat/112/1585], 1803, effective Oct. 1, 1998.
+    A prior section 1138c, [Pub. L. 89–329, title XI][/us/pl/89/329/tXI], § 1144, as added [Pub. L. 102–325, title XI][/us/pl/102/325/tXI], § 1101, July 23, 1992, [106 Stat. 789][/us/stat/106/789]; amended [Pub. L. 103–382, title III][/us/pl/103/382/tIII], § 391(e)(10), Oct. 20, 1994, [108 Stat. 4023][/us/stat/108/4023], related to applications for grants, prior to repeal by [Pub. L. 105–244][/us/pl/105/244], § 3, title VII, § 702, Oct. 7, 1998, [112 Stat. 1585][/us/stat/112/1585], 1803, effective Oct. 1, 1998.
 
     A prior [section 744 of Pub. L. 89–329][/us/pl/89/329/s744] was classified to [section 1132c–3 of this title][/us/usc/t20/s1132c–3], prior to the general amendment of this subchapter by [Pub. L. 96–374][/us/pl/96/374].
 
@@ -69,9 +69,9 @@
 
     2009—Subsec. (c)(6)(C). [Pub. L. 111–39][/us/pl/111/39] inserted “of the National Academies” after “Institute of Medicine”.
 
-    2008—Subsec. (a). [Pub. L. 110–315, § 707(h)(3)][/us/pl/110/315/s707/h/3], substituted “Secretary” for “Director” wherever appearing.
+    2008—Subsec. (a). [Pub. L. 110–315][/us/pl/110/315], § 707(h)(3), substituted “Secretary” for “Director” wherever appearing.
 
-    Subsec. (c). [Pub. L. 110–315, § 707(f)][/us/pl/110/315/s707/f], amended subsec. (c) generally. Prior to amendment, text read as follows: “Areas of national need shall initially include, but shall not be limited to, the following:
+    Subsec. (c). [Pub. L. 110–315][/us/pl/110/315], § 707(f), amended subsec. (c) generally. Prior to amendment, text read as follows: “Areas of national need shall initially include, but shall not be limited to, the following:
 
     “(1) Institutional restructuring to improve learning and promote productivity, efficiency, quality improvement, and cost and price control.
 
@@ -92,28 +92,28 @@
 ----------
 ----------
 
-[/us/pl/89/329/s744]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2Fs744
-[/us/pl/105/244/s701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2Fs701
+[/us/pl/89/329/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2FtVII
+[/us/pl/105/244/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2FtVII
 [/us/stat/112/1798]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F1798
-[/us/pl/110/315/s707/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2Fs707%2Ff
+[/us/pl/110/315/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2FtVII
 [/us/stat/122/3359]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3359
-[/us/pl/111/39/s701/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F39%2Fs701%2F3
+[/us/pl/111/39/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F39%2FtVII
 [/us/stat/123/1954]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1954
 [/us/usc/t20/s1135a–11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1135a%E2%80%9311
 [/us/pl/105/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244
-[/us/pl/89/329/s1144]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2Fs1144
-[/us/pl/102/325/s1101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325%2Fs1101
+[/us/pl/89/329/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2FtXI
+[/us/pl/102/325/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325%2FtXI
 [/us/stat/106/789]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F789
-[/us/pl/103/382/s391/e/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F382%2Fs391%2Fe%2F10
+[/us/pl/103/382/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F382%2FtIII
 [/us/stat/108/4023]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4023
-[/us/pl/105/244/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2Fs3
+[/us/pl/105/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244
 [/us/stat/112/1585]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F1585
 [/us/pl/89/329/s744]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2Fs744
 [/us/usc/t20/s1132c–3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1132c%E2%80%933
 [/us/pl/96/374]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F374
 [/us/pl/111/39]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F39
-[/us/pl/110/315/s707/h/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2Fs707%2Fh%2F3
-[/us/pl/110/315/s707/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2Fs707%2Ff
+[/us/pl/110/315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315
+[/us/pl/110/315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315
 [/us/pl/111/39]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F39
 [/us/pl/110/315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315
 [/us/pl/111/39/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F39%2Fs3

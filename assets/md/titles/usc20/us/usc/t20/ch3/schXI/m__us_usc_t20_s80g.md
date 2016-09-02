@@ -37,7 +37,7 @@
 
         The Board shall, in connection with acquisition of any site authorized by Congress, as provided for in paragraph (4) of subsection (a) of this section, provide, to businesses and residents displaced from any such site, relocation assistance, including payments and other benefits, equivalent to that authorized to displace businesses and residents under the Housing Act of 1949, as amended \[[42 U.S.C. 1441][/us/usc/t42/s1441] et seq.\]. The Board shall develop a relocation program for existing businesses and residents within the site and submit such program to the government of the District of Columbia for a determination as to its adequacy and feasibility. In providing such relocation assistance and developing such relocation program the Board shall utilize to the maximum extent the services and facilities of the appropriate Federal and local agencies.
 
-([Pub. L. 90–637, § 4][/us/pl/90/637/s4], Oct. 24, 1968, [82 Stat. 1358][/us/stat/82/1358]; [Pub. L. 95–286, § 2][/us/pl/95/286/s2], May 26, 1978, [92 Stat. 279][/us/stat/92/279].)
+([Pub. L. 90–637][/us/pl/90/637], § 4, Oct. 24, 1968, [82 Stat. 1358][/us/stat/82/1358]; [Pub. L. 95–286][/us/pl/95/286], § 2, May 26, 1978, [92 Stat. 279][/us/stat/92/279].)
 
  __References in Text__ 
 
@@ -55,9 +55,9 @@
 ----------
 
 [/us/usc/t42/s1441]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1441
-[/us/pl/90/637/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F637%2Fs4
+[/us/pl/90/637]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F637
 [/us/stat/82/1358]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F1358
-[/us/pl/95/286/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F286%2Fs2
+[/us/pl/95/286]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F286
 [/us/stat/92/279]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F279
 [/us/act/1949-07-15/ch338]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-07-15%2Fch338
 [/us/stat/63/413]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F63%2F413

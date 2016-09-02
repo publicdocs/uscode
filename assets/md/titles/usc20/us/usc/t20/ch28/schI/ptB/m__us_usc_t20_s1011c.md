@@ -149,7 +149,7 @@
 
         The Committee shall terminate on September 30, 2016.
 
-([Pub. L. 89–329, title I, § 114][/us/pl/89/329/s114], as added [Pub. L. 105–244, title I, § 101(a)][/us/pl/105/244/s101/a], Oct. 7, 1998, [112 Stat. 1592][/us/stat/112/1592]; amended [Pub. L. 110–315, title I, § 106(a)][/us/pl/110/315/s106/a], Aug. 14, 2008, [122 Stat. 3090][/us/stat/122/3090]; [Pub. L. 113–174, § 1][/us/pl/113/174/s1], Sept. 26, 2014, [128 Stat. 1900][/us/stat/128/1900]; [Pub. L. 114–113, div. H, title III, § 309][/us/pl/114/113/s309], Dec. 18, 2015, [129 Stat. 2638][/us/stat/129/2638].)
+([Pub. L. 89–329, title I][/us/pl/89/329/tI], § 114, as added [Pub. L. 105–244, title I][/us/pl/105/244/tI], § 101(a), Oct. 7, 1998, [112 Stat. 1592][/us/stat/112/1592]; amended [Pub. L. 110–315, title I][/us/pl/110/315/tI], § 106(a), Aug. 14, 2008, [122 Stat. 3090][/us/stat/122/3090]; [Pub. L. 113–174][/us/pl/113/174], § 1, Sept. 26, 2014, [128 Stat. 1900][/us/stat/128/1900]; [Pub. L. 114–113, div. H, title III][/us/pl/114/113/dH/tIII], § 309, Dec. 18, 2015, [129 Stat. 2638][/us/stat/129/2638].)
 
  __References in Text__ 
 
@@ -159,7 +159,7 @@
 
     Provisions similar to this section were contained in [section 1145 of this title][/us/usc/t20/s1145] prior to repeal by [Pub. L. 105–244][/us/pl/105/244].
 
-    A prior section 1011c, [Pub. L. 89–329, title I, § 124][/us/pl/89/329/s124], as added [Pub. L. 102–325, title I, § 101][/us/pl/102/325/s101], July 23, 1992, [106 Stat. 463][/us/stat/106/463], related to local applications for grants, prior to the general amendment of this subchapter by [Pub. L. 105–244][/us/pl/105/244].
+    A prior section 1011c, [Pub. L. 89–329, title I][/us/pl/89/329/tI], § 124, as added [Pub. L. 102–325, title I][/us/pl/102/325/tI], § 101, July 23, 1992, [106 Stat. 463][/us/stat/106/463], related to local applications for grants, prior to the general amendment of this subchapter by [Pub. L. 105–244][/us/pl/105/244].
 
  __Amendments__ 
 
@@ -171,13 +171,13 @@
 
  __Effective Date of 2008 Amendment__ 
 
-[Pub. L. 110–315, title I, § 106(c)][/us/pl/110/315/s106/c], Aug. 14, 2008, [122 Stat. 3093][/us/stat/122/3093], provided that: 
+[Pub. L. 110–315, title I][/us/pl/110/315/tI], § 106(c), Aug. 14, 2008, [122 Stat. 3093][/us/stat/122/3093], provided that: 
 
 > “The amendment made by subsection (a) \[amending this section\] shall take effect on January 1, 2009.”
 
  __Transition__ 
 
-[Pub. L. 110–315, title I, § 106(b)][/us/pl/110/315/s106/b], Aug. 14, 2008, [122 Stat. 3093][/us/stat/122/3093], provided that: 
+[Pub. L. 110–315, title I][/us/pl/110/315/tI], § 106(b), Aug. 14, 2008, [122 Stat. 3093][/us/stat/122/3093], provided that: 
 
 > “Notwithstanding section 114 of the Higher Education Act of 1965 ([20 U.S.C. 1011c][/us/usc/t20/s1011c]) (as in effect before, during, and after the date of enactment of this Act \[Aug. 14, 2008\])—
 
@@ -196,29 +196,29 @@
 
 [/us/usc/t20/s1002]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1002
 [/us/usc/t20/s1002]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1002
-[/us/pl/89/329/s114]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2Fs114
-[/us/pl/105/244/s101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2Fs101%2Fa
+[/us/pl/89/329/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2FtI
+[/us/pl/105/244/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2FtI
 [/us/stat/112/1592]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F1592
-[/us/pl/110/315/s106/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2Fs106%2Fa
+[/us/pl/110/315/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2FtI
 [/us/stat/122/3090]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3090
-[/us/pl/113/174/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F174%2Fs1
+[/us/pl/113/174]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F174
 [/us/stat/128/1900]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1900
-[/us/pl/114/113/s309]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs309
+[/us/pl/114/113/dH/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2FdH%2FtIII
 [/us/stat/129/2638]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F2638
 [/us/pl/92/463]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F463
 [/us/stat/86/770]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F770
 [/us/usc/t20/s1145]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1145
 [/us/pl/105/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244
-[/us/pl/89/329/s124]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2Fs124
-[/us/pl/102/325/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325%2Fs101
+[/us/pl/89/329/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2FtI
+[/us/pl/102/325/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325%2FtI
 [/us/stat/106/463]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F463
 [/us/pl/105/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244
 [/us/pl/114/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113
 [/us/pl/113/174]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F174
 [/us/pl/110/315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315
-[/us/pl/110/315/s106/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2Fs106%2Fc
+[/us/pl/110/315/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2FtI
 [/us/stat/122/3093]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3093
-[/us/pl/110/315/s106/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2Fs106%2Fb
+[/us/pl/110/315/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2FtI
 [/us/stat/122/3093]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3093
 [/us/usc/t20/s1011c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1011c
 

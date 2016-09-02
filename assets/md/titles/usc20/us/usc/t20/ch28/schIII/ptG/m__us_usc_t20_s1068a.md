@@ -101,13 +101,13 @@
 
                 The terms “area affected by a Gulf hurricane disaster” and “Gulf hurricane disaster” have the meanings given such terms in section 209 of the Higher Education Hurricane Relief Act of 2005 ([Public Law 109–148][/us/pl/109/148], [119 Stat. 2809][/us/stat/119/2809]).
 
-([Pub. L. 89–329, title III, § 392][/us/pl/89/329/s392], formerly § 352, as added [Pub. L. 99–498, title III, § 301(a)][/us/pl/99/498/s301/a], Oct. 17, 1986, [100 Stat. 1304][/us/stat/100/1304]; amended [Pub. L. 100–50, § 2(a)(14)][/us/pl/100/50/s2/a/14], (15), June 3, 1987, [101 Stat. 336][/us/stat/101/336]; [Pub. L. 102–325, title III, § 305(b)][/us/pl/102/325/s305/b], July 23, 1992, [106 Stat. 478][/us/stat/106/478]; renumbered § 392 and amended [Pub. L. 105–244, title III][/us/pl/105/244], §§ 301(a)(2), 308(d), Oct. 7, 1998, [112 Stat. 1636][/us/stat/112/1636], 1649; [Pub. L. 110–315, title III][/us/pl/110/315], §§ 318, 320(5), Aug. 14, 2008, [122 Stat. 3185][/us/stat/122/3185], 3188; [Pub. L. 111–39, title III, § 301(8)][/us/pl/111/39/s301/8], July 1, 2009, [123 Stat. 1938][/us/stat/123/1938].)
+([Pub. L. 89–329, title III][/us/pl/89/329/tIII], § 392, formerly § 352, as added [Pub. L. 99–498, title III][/us/pl/99/498/tIII], § 301(a), Oct. 17, 1986, [100 Stat. 1304][/us/stat/100/1304]; amended [Pub. L. 100–50][/us/pl/100/50], § 2(a)(14), (15), June 3, 1987, [101 Stat. 336][/us/stat/101/336]; [Pub. L. 102–325, title III][/us/pl/102/325/tIII], § 305(b), July 23, 1992, [106 Stat. 478][/us/stat/106/478]; renumbered § 392 and amended [Pub. L. 105–244, title III][/us/pl/105/244/tIII], §§ 301(a)(2), 308(d), Oct. 7, 1998, [112 Stat. 1636][/us/stat/112/1636], 1649; [Pub. L. 110–315, title III][/us/pl/110/315/tIII], §§ 318, 320(5), Aug. 14, 2008, [122 Stat. 3185][/us/stat/122/3185], 3188; [Pub. L. 111–39, title III][/us/pl/111/39/tIII], § 301(8), July 1, 2009, [123 Stat. 1938][/us/stat/123/1938].)
 
  __References in Text__ 
 
-    [Section 1058(b)(1)(E) of this title][/us/usc/t20/s1058/b/1/E], referred to in subsec. (b)(3), was repealed and section 1058(b)(1)(F) was redesignated section 1058(b)(1)(E) by [Pub. L. 102–325, title III, § 302(a)(1)(B)][/us/pl/102/325/s302/a/1/B], (C), July 23, 1992, [106 Stat. 472][/us/stat/106/472].
+    [Section 1058(b)(1)(E) of this title][/us/usc/t20/s1058/b/1/E], referred to in subsec. (b)(3), was repealed and section 1058(b)(1)(F) was redesignated section 1058(b)(1)(E) by [Pub. L. 102–325, title III][/us/pl/102/325/tIII], § 302(a)(1)(B), (C), July 23, 1992, [106 Stat. 472][/us/stat/106/472].
 
-    Section 209 of the Higher Education Hurricane Relief Act of 2005, referred to in subsec. (c)(2)(B), is [section 209 of title IV of div. B of Pub. L. 109–148][/us/pl/109/148/s209], Dec. 30, 2005, [119 Stat. 2808][/us/stat/119/2808], which is not classified to the Code.
+    Section 209 of the Higher Education Hurricane Relief Act of 2005, referred to in subsec. (c)(2)(B), is [section 209 of title IV of div. B of Pub. L. 109–148][/us/pl/109/148/dB/tIV/s209], Dec. 30, 2005, [119 Stat. 2808][/us/stat/119/2808], which is not classified to the Code.
 
  __Codification__ 
 
@@ -117,17 +117,17 @@
 
     2009—Subsec. (a)(6). [Pub. L. 111–39][/us/pl/111/39] made technical amendment to reference in original act which appears in text as reference to [section 1801 of title 25][/us/usc/t25/s1801].
 
-    2008—Subsec. (b)(2). [Pub. L. 110–315, § 320(5)][/us/pl/110/315/s320/5], substituted “eligible institutions under part A” for “eligible institutions under part A institutions” in introductory provisions. See Codification note above.
+    2008—Subsec. (b)(2). [Pub. L. 110–315][/us/pl/110/315], § 320(5), substituted “eligible institutions under part A” for “eligible institutions under part A institutions” in introductory provisions. See Codification note above.
 
-    Subsec. (c). [Pub. L. 110–315, § 318][/us/pl/110/315/s318], added subsec. (c).
+    Subsec. (c). [Pub. L. 110–315][/us/pl/110/315], § 318, added subsec. (c).
 
     1998—Subsec. (a)(5) to (7). [Pub. L. 105–244][/us/pl/105/244] struck out “or” at end of par. (5), added par. (6), and redesignated former par. (6) as (7).
 
     1992—Subsec. (a). [Pub. L. 102–325][/us/pl/102/325] substituted “Secretary may waive” for “Secretary shall waive”.
 
-    1987—Subsec. (a)(2). [Pub. L. 100–50, § 2(a)(14)][/us/pl/100/50/s2/a/14], substituted “low-income” for “low- and middle-income”.
+    1987—Subsec. (a)(2). [Pub. L. 100–50][/us/pl/100/50], § 2(a)(14), substituted “low-income” for “low- and middle-income”.
 
-    Subsec. (b)(3). [Pub. L. 100–50, § 2(a)(15)][/us/pl/100/50/s2/a/15], added par. (3).
+    Subsec. (b)(3). [Pub. L. 100–50][/us/pl/100/50], § 2(a)(15), added par. (3).
 
  __Effective Date of 2009 Amendment__ 
 
@@ -170,34 +170,34 @@
 [/us/usc/t20/s1063b/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1063b%2Fe
 [/us/pl/109/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F148
 [/us/stat/119/2809]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F2809
-[/us/pl/89/329/s392]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2Fs392
-[/us/pl/99/498/s301/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F498%2Fs301%2Fa
+[/us/pl/89/329/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2FtIII
+[/us/pl/99/498/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F498%2FtIII
 [/us/stat/100/1304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1304
-[/us/pl/100/50/s2/a/14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F50%2Fs2%2Fa%2F14
+[/us/pl/100/50]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F50
 [/us/stat/101/336]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F336
-[/us/pl/102/325/s305/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325%2Fs305%2Fb
+[/us/pl/102/325/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325%2FtIII
 [/us/stat/106/478]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F478
-[/us/pl/105/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244
+[/us/pl/105/244/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2FtIII
 [/us/stat/112/1636]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F1636
-[/us/pl/110/315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315
+[/us/pl/110/315/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2FtIII
 [/us/stat/122/3185]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3185
-[/us/pl/111/39/s301/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F39%2Fs301%2F8
+[/us/pl/111/39/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F39%2FtIII
 [/us/stat/123/1938]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1938
 [/us/usc/t20/s1058/b/1/E]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1058%2Fb%2F1%2FE
-[/us/pl/102/325/s302/a/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325%2Fs302%2Fa%2F1%2FB
+[/us/pl/102/325/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325%2FtIII
 [/us/stat/106/472]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F472
-[/us/pl/109/148/s209]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F148%2Fs209
+[/us/pl/109/148/dB/tIV/s209]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F148%2FdB%2FtIV%2Fs209
 [/us/stat/119/2808]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F2808
 [/us/usc/t20/s1067]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1067
 [/us/pl/105/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244
 [/us/pl/111/39]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F39
 [/us/usc/t25/s1801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs1801
-[/us/pl/110/315/s320/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2Fs320%2F5
-[/us/pl/110/315/s318]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2Fs318
+[/us/pl/110/315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315
+[/us/pl/110/315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315
 [/us/pl/105/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244
 [/us/pl/102/325]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325
-[/us/pl/100/50/s2/a/14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F50%2Fs2%2Fa%2F14
-[/us/pl/100/50/s2/a/15]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F50%2Fs2%2Fa%2F15
+[/us/pl/100/50]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F50
+[/us/pl/100/50]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F50
 [/us/pl/111/39]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F39
 [/us/pl/110/315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315
 [/us/pl/111/39/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F39%2Fs3

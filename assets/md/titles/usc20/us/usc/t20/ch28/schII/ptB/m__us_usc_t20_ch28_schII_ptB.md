@@ -17,7 +17,7 @@
 
  __Prior Provisions__ 
 
-    A prior part B, consisting of sections 1041 to 1044, related to preparing tomorrow’s teachers to use technology, prior to repeal by [Pub. L. 110–315, title II, § 201(3)][/us/pl/110/315/s201/3], Aug. 14, 2008, [122 Stat. 3154][/us/stat/122/3154].
+    A prior part B, consisting of sections 1041 to 1044, related to preparing tomorrow’s teachers to use technology, prior to repeal by [Pub. L. 110–315, title II][/us/pl/110/315/tII], § 201(3), Aug. 14, 2008, [122 Stat. 3154][/us/stat/122/3154].
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/110/315/s201/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2Fs201%2F3
+[/us/pl/110/315/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2FtII
 [/us/stat/122/3154]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3154
 
 

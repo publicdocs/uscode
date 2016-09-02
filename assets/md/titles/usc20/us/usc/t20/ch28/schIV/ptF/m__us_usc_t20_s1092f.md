@@ -47,7 +47,7 @@
 
             Not later than two years after August 14, 2008, the Secretary, in coordination with States, institutions of higher education, early intervention and outreach programs under this subchapter and part C of subchapter I of chapter 34 of title 42, other agencies and organizations involved in college access and student financial aid, secondary schools, organizations that provide services to individuals that are or were homeless, to individuals in foster care, or to other disconnected individuals, local educational agencies, public libraries, community centers, businesses, employers, employment services, workforce investment boards, and movie theaters, shall implement a public awareness campaign in order to increase national awareness regarding the availability of financial aid under this title. The public awareness campaign shall disseminate accurate information regarding the availability of financial aid under this subchapter and part C of subchapter I of chapter 34 of title 42 and shall be implemented, to the extent practicable, using a variety of media, including print, television, radio, and the Internet. The Secretary shall design and implement the public awareness campaign based upon relevant independent research and the information and dissemination strategies found most effective in implementing paragraphs (1) through (3).
 
-([Pub. L. 89–329, title IV, § 485E][/us/pl/89/329/s485E], as added [Pub. L. 110–315, title IV, § 490][/us/pl/110/315/s490], Aug. 14, 2008, [122 Stat. 3305][/us/stat/122/3305]; amended [Pub. L. 111–152, title II, § 2101(b)(5)][/us/pl/111/152/s2101/b/5], Mar. 30, 2010, [124 Stat. 1073][/us/stat/124/1073].)
+([Pub. L. 89–329, title IV][/us/pl/89/329/tIV], § 485E, as added [Pub. L. 110–315, title IV][/us/pl/110/315/tIV], § 490, Aug. 14, 2008, [122 Stat. 3305][/us/stat/122/3305]; amended [Pub. L. 111–152, title II][/us/pl/111/152/tII], § 2101(b)(5), Mar. 30, 2010, [124 Stat. 1073][/us/stat/124/1073].)
 
  __References in Text__ 
 
@@ -74,10 +74,10 @@
 [/us/usc/t20/s1087vv/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1087vv%2Fd
 [/us/usc/t20/s1090/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1090%2Fa
 [/us/usc/t20/s1087vv/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1087vv%2Fd
-[/us/pl/89/329/s485E]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2Fs485E
-[/us/pl/110/315/s490]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2Fs490
+[/us/pl/89/329/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2FtIV
+[/us/pl/110/315/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2FtIV
 [/us/stat/122/3305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3305
-[/us/pl/111/152/s2101/b/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F152%2Fs2101%2Fb%2F5
+[/us/pl/111/152/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F152%2FtII
 [/us/stat/124/1073]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1073
 [/us/pl/88/525]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F525
 [/us/stat/78/703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F703

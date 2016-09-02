@@ -79,23 +79,23 @@
 
         The Secretary shall assist grantees in developing a survey to administer to students who have completed programs under this subchapter to determine postgraduate employment, education, or training. All grantees, where applicable, shall administer such survey once every two years and report survey results to the Secretary.
 
-([Pub. L. 89–329, title VI, § 601][/us/pl/89/329/s601], as added [Pub. L. 105–244, title VI, § 601][/us/pl/105/244/s601], Oct. 7, 1998, [112 Stat. 1774][/us/stat/112/1774]; amended [Pub. L. 110–315, title VI, § 601][/us/pl/110/315/s601], Aug. 14, 2008, [122 Stat. 3333][/us/stat/122/3333].)
+([Pub. L. 89–329, title VI][/us/pl/89/329/tVI], § 601, as added [Pub. L. 105–244, title VI][/us/pl/105/244/tVI], § 601, Oct. 7, 1998, [112 Stat. 1774][/us/stat/112/1774]; amended [Pub. L. 110–315, title VI][/us/pl/110/315/tVI], § 601, Aug. 14, 2008, [122 Stat. 3333][/us/stat/122/3333].)
 
  __Prior Provisions__ 
 
-    A prior section 1121, [Pub. L. 89–329, title VI, § 601][/us/pl/89/329/s601], as added [Pub. L. 96–374, title VI, § 601(a)][/us/pl/96/374/s601/a], Oct. 3, 1980, [94 Stat. 1464][/us/stat/94/1464]; amended [Pub. L. 99–498, title VI, § 601][/us/pl/99/498/s601], Oct. 17, 1986, [100 Stat. 1514][/us/stat/100/1514]; [Pub. L. 102–325, title VI, § 601][/us/pl/102/325/s601], July 23, 1992, [106 Stat. 720][/us/stat/106/720], set out findings of Congress and purpose of this part, prior to the general amendment of this part by [Pub. L. 105–244][/us/pl/105/244].
+    A prior section 1121, [Pub. L. 89–329, title VI][/us/pl/89/329/tVI], § 601, as added [Pub. L. 96–374, title VI][/us/pl/96/374/tVI], § 601(a), Oct. 3, 1980, [94 Stat. 1464][/us/stat/94/1464]; amended [Pub. L. 99–498, title VI][/us/pl/99/498/tVI], § 601, Oct. 17, 1986, [100 Stat. 1514][/us/stat/100/1514]; [Pub. L. 102–325, title VI][/us/pl/102/325/tVI], § 601, July 23, 1992, [106 Stat. 720][/us/stat/106/720], set out findings of Congress and purpose of this part, prior to the general amendment of this part by [Pub. L. 105–244][/us/pl/105/244].
 
-    Another prior section 1121, [Pub. L. 89–329, title VI, § 601][/us/pl/89/329/s601], Nov. 8, 1965, [79 Stat. 1261][/us/stat/79/1261]; [Pub. L. 89–752, § 3(b)][/us/pl/89/752/s3/b], Nov. 3, 1966, [80 Stat. 1241][/us/stat/80/1241]; [Pub. L. 90–575, title II][/us/pl/90/575], §§ 241, 242(a), Oct. 16, 1968, [82 Stat. 1041][/us/stat/82/1041]; [Pub. L. 92–318, title I, § 151(a)][/us/pl/92/318/s151/a], June 23, 1972, [86 Stat. 288][/us/stat/86/288]; [Pub. L. 94–482, title I, § 156][/us/pl/94/482/s156], Oct. 12, 1976, [90 Stat. 2155][/us/stat/90/2155]; [Pub. L. 96–49, § 7][/us/pl/96/49/s7], Aug. 13, 1979, [93 Stat. 353][/us/stat/93/353], set out the Congressional statement of purpose and the authorization of appropriations for the program of equipment grants to institutions of higher education, prior to the general amendment of this subchapter by [Pub. L. 96–374][/us/pl/96/374].
+    Another prior section 1121, [Pub. L. 89–329, title VI][/us/pl/89/329/tVI], § 601, Nov. 8, 1965, [79 Stat. 1261][/us/stat/79/1261]; [Pub. L. 89–752][/us/pl/89/752], § 3(b), Nov. 3, 1966, [80 Stat. 1241][/us/stat/80/1241]; [Pub. L. 90–575, title II][/us/pl/90/575/tII], §§ 241, 242(a), Oct. 16, 1968, [82 Stat. 1041][/us/stat/82/1041]; [Pub. L. 92–318, title I][/us/pl/92/318/tI], § 151(a), June 23, 1972, [86 Stat. 288][/us/stat/86/288]; [Pub. L. 94–482, title I][/us/pl/94/482/tI], § 156, Oct. 12, 1976, [90 Stat. 2155][/us/stat/90/2155]; [Pub. L. 96–49][/us/pl/96/49], § 7, Aug. 13, 1979, [93 Stat. 353][/us/stat/93/353], set out the Congressional statement of purpose and the authorization of appropriations for the program of equipment grants to institutions of higher education, prior to the general amendment of this subchapter by [Pub. L. 96–374][/us/pl/96/374].
 
  __Amendments__ 
 
-    2008—[Pub. L. 110–315, § 601(1)][/us/pl/110/315/s601/1], substituted “; purposes; consultation; survey” for “and purposes” in section catchline.
+    2008—[Pub. L. 110–315][/us/pl/110/315], § 601(1), substituted “; purposes; consultation; survey” for “and purposes” in section catchline.
 
-    Subsec. (a)(3). [Pub. L. 110–315, § 601(2)][/us/pl/110/315/s601/2], struck out “post-Cold War” after “Dramatic”.
+    Subsec. (a)(3). [Pub. L. 110–315][/us/pl/110/315], § 601(2), struck out “post-Cold War” after “Dramatic”.
 
-    Subsec. (b)(1)(D). [Pub. L. 110–315, § 601(3)][/us/pl/110/315/s601/3], inserted “, including through linkages with overseas institutions” before semicolon.
+    Subsec. (b)(1)(D). [Pub. L. 110–315][/us/pl/110/315], § 601(3), inserted “, including through linkages with overseas institutions” before semicolon.
 
-    Subsecs. (c), (d). [Pub. L. 110–315, § 601(4)][/us/pl/110/315/s601/4], added subsecs. (c) and (d).
+    Subsecs. (c), (d). [Pub. L. 110–315][/us/pl/110/315], § 601(4), added subsecs. (c) and (d).
 
  __Effective Date__ 
 
@@ -103,7 +103,7 @@
 
  __National Endowment for International Studies__ 
 
-    [Pub. L. 99–498, title XIII, § 1302][/us/pl/99/498/s1302], Oct. 17, 1986, [100 Stat. 1580][/us/stat/100/1580], as amended by [Pub. L. 100–50, § 23(2)][/us/pl/100/50/s23/2], June 3, 1987, [101 Stat. 362][/us/stat/101/362], required Secretary of Education, in consultation with Director of United States Information Agency, Director of the Agency for International Development, Secretary of State, and Secretary of Defense, to conduct a study on establishment of a National Endowment for International Studies, such study to develop a program, a funding plan, and priorities for such an Endowment, with the Secretary to prepare and submit to Congress, not later than one year after Oct. 17, 1986, a report on the study, together with such recommendations, including recommendations for legislation, as the Secretary deemed appropriate, prior to repeal by [Pub. L. 105–332, § 6(a)][/us/pl/105/332/s6/a], Oct. 31, 1998, [112 Stat. 3127][/us/stat/112/3127].
+    [Pub. L. 99–498, title XIII][/us/pl/99/498/tXIII], § 1302, Oct. 17, 1986, [100 Stat. 1580][/us/stat/100/1580], as amended by [Pub. L. 100–50][/us/pl/100/50], § 23(2), June 3, 1987, [101 Stat. 362][/us/stat/101/362], required Secretary of Education, in consultation with Director of United States Information Agency, Director of the Agency for International Development, Secretary of State, and Secretary of Defense, to conduct a study on establishment of a National Endowment for International Studies, such study to develop a program, a funding plan, and priorities for such an Endowment, with the Secretary to prepare and submit to Congress, not later than one year after Oct. 17, 1986, a report on the study, together with such recommendations, including recommendations for legislation, as the Secretary deemed appropriate, prior to repeal by [Pub. L. 105–332][/us/pl/105/332], § 6(a), Oct. 31, 1998, [112 Stat. 3127][/us/stat/112/3127].
 
 ----------
 
@@ -112,44 +112,44 @@
 ----------
 ----------
 
-[/us/pl/89/329/s601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2Fs601
-[/us/pl/105/244/s601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2Fs601
+[/us/pl/89/329/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2FtVI
+[/us/pl/105/244/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2FtVI
 [/us/stat/112/1774]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F1774
-[/us/pl/110/315/s601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2Fs601
+[/us/pl/110/315/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2FtVI
 [/us/stat/122/3333]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3333
-[/us/pl/89/329/s601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2Fs601
-[/us/pl/96/374/s601/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F374%2Fs601%2Fa
+[/us/pl/89/329/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2FtVI
+[/us/pl/96/374/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F374%2FtVI
 [/us/stat/94/1464]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F1464
-[/us/pl/99/498/s601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F498%2Fs601
+[/us/pl/99/498/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F498%2FtVI
 [/us/stat/100/1514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1514
-[/us/pl/102/325/s601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325%2Fs601
+[/us/pl/102/325/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325%2FtVI
 [/us/stat/106/720]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F720
 [/us/pl/105/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244
-[/us/pl/89/329/s601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2Fs601
+[/us/pl/89/329/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2FtVI
 [/us/stat/79/1261]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F1261
-[/us/pl/89/752/s3/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F752%2Fs3%2Fb
+[/us/pl/89/752]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F752
 [/us/stat/80/1241]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F1241
-[/us/pl/90/575]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F575
+[/us/pl/90/575/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F575%2FtII
 [/us/stat/82/1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F1041
-[/us/pl/92/318/s151/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F318%2Fs151%2Fa
+[/us/pl/92/318/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F318%2FtI
 [/us/stat/86/288]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F288
-[/us/pl/94/482/s156]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F482%2Fs156
+[/us/pl/94/482/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F482%2FtI
 [/us/stat/90/2155]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2155
-[/us/pl/96/49/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F49%2Fs7
+[/us/pl/96/49]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F49
 [/us/stat/93/353]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F353
 [/us/pl/96/374]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F374
-[/us/pl/110/315/s601/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2Fs601%2F1
-[/us/pl/110/315/s601/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2Fs601%2F2
-[/us/pl/110/315/s601/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2Fs601%2F3
-[/us/pl/110/315/s601/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2Fs601%2F4
+[/us/pl/110/315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315
+[/us/pl/110/315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315
+[/us/pl/110/315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315
+[/us/pl/110/315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315
 [/us/pl/105/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244
 [/us/pl/105/244/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2Fs3
 [/us/usc/t20/s1001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1001
-[/us/pl/99/498/s1302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F498%2Fs1302
+[/us/pl/99/498/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F498%2FtXIII
 [/us/stat/100/1580]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1580
-[/us/pl/100/50/s23/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F50%2Fs23%2F2
+[/us/pl/100/50]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F50
 [/us/stat/101/362]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F362
-[/us/pl/105/332/s6/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F332%2Fs6%2Fa
+[/us/pl/105/332]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F332
 [/us/stat/112/3127]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F3127
 
 

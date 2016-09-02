@@ -17,7 +17,7 @@
 
     The Secretary of Health and Human Services shall identify, assess, coordinate, and eliminate conflict, duplication, and inconsistencies among programs significantly affecting handicapped individuals carried out by or under the Department of Health and Human Services, shall promote efficiency among such programs, and shall seek to coordinate, to the maximum extent feasible, such programs with programs significantly affecting handicapped individuals carried out by or under the Department of Education.
 
-([Pub. L. 96–88, title V, § 510][/us/pl/96/88/s510], Oct. 17, 1979, [93 Stat. 695][/us/stat/93/695].)
+([Pub. L. 96–88, title V][/us/pl/96/88/tV], § 510, Oct. 17, 1979, [93 Stat. 695][/us/stat/93/695].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/96/88/s510]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F88%2Fs510
+[/us/pl/96/88/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F88%2FtV
 [/us/stat/93/695]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F695
 
 

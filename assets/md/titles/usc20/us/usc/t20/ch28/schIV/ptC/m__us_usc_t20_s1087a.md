@@ -29,11 +29,11 @@
 
             Notwithstanding any other provision of this part, loans made to borrowers under this part that, except as otherwise specified in this part, have the same terms, conditions, and benefits as loans made to borrowers under [section 1078 of this title][/us/usc/t20/s1078], shall be known as “Federal Direct Stafford/Ford Loans”.
 
-([Pub. L. 89–329, title IV, § 451][/us/pl/89/329/s451], as added [Pub. L. 99–498, title IV, § 404][/us/pl/99/498/s404], Oct. 17, 1986, [100 Stat. 1437][/us/stat/100/1437]; amended [Pub. L. 102–325, title IV, § 451][/us/pl/102/325/s451], July 23, 1992, [106 Stat. 569][/us/stat/106/569]; [Pub. L. 103–66, title IV, § 4021][/us/pl/103/66/s4021], Aug. 10, 1993, [107 Stat. 341][/us/stat/107/341]; [Pub. L. 103–382, title III, § 358A][/us/pl/103/382/s358A], Oct. 20, 1994, [108 Stat. 3968][/us/stat/108/3968]; [Pub. L. 110–227, § 7(a)][/us/pl/110/227/s7/a], May 7, 2008, [122 Stat. 746][/us/stat/122/746].)
+([Pub. L. 89–329, title IV][/us/pl/89/329/tIV], § 451, as added [Pub. L. 99–498, title IV][/us/pl/99/498/tIV], § 404, Oct. 17, 1986, [100 Stat. 1437][/us/stat/100/1437]; amended [Pub. L. 102–325, title IV][/us/pl/102/325/tIV], § 451, July 23, 1992, [106 Stat. 569][/us/stat/106/569]; [Pub. L. 103–66, title IV][/us/pl/103/66/tIV], § 4021, Aug. 10, 1993, [107 Stat. 341][/us/stat/107/341]; [Pub. L. 103–382, title III][/us/pl/103/382/tIII], § 358A, Oct. 20, 1994, [108 Stat. 3968][/us/stat/108/3968]; [Pub. L. 110–227][/us/pl/110/227], § 7(a), May 7, 2008, [122 Stat. 746][/us/stat/122/746].)
 
  __Prior Provisions__ 
 
-    A prior section 1087a, [Pub. L. 89–329, title IV, § 451][/us/pl/89/329/s451], as added [Pub. L. 90–575, title I, § 141][/us/pl/90/575/s141], Oct. 16, 1968, [82 Stat. 1031][/us/stat/82/1031]; amended [Pub. L. 92–318, title I, § 136(a)][/us/pl/92/318/s136/a], (b)(1), June 23, 1972, [86 Stat. 272][/us/stat/86/272], authorized appropriations for cooperative education programs from the fiscal year ending June 30, 1969, through the fiscal year ending prior to July 1, 1975, prior to repeal by [Pub. L. 94–482, title I, § 129(a)][/us/pl/94/482/s129/a], Oct. 12, 1976, [90 Stat. 2144][/us/stat/90/2144], eff. 30 days after Oct. 12, 1976.
+    A prior section 1087a, [Pub. L. 89–329, title IV][/us/pl/89/329/tIV], § 451, as added [Pub. L. 90–575, title I][/us/pl/90/575/tI], § 141, Oct. 16, 1968, [82 Stat. 1031][/us/stat/82/1031]; amended [Pub. L. 92–318, title I][/us/pl/92/318/tI], § 136(a), (b)(1), June 23, 1972, [86 Stat. 272][/us/stat/86/272], authorized appropriations for cooperative education programs from the fiscal year ending June 30, 1969, through the fiscal year ending prior to July 1, 1975, prior to repeal by [Pub. L. 94–482, title I][/us/pl/94/482/tI], § 129(a), Oct. 12, 1976, [90 Stat. 2144][/us/stat/90/2144], eff. 30 days after Oct. 12, 1976.
 
  __Amendments__ 
 
@@ -51,7 +51,7 @@
 
  __Income Contingent Loan Distribution of Funds__ 
 
-[Pub. L. 102–325, title IV, § 452][/us/pl/102/325/s452], July 23, 1992, [106 Stat. 575][/us/stat/106/575], provided that:
+[Pub. L. 102–325, title IV][/us/pl/102/325/tIV], § 452, July 23, 1992, [106 Stat. 575][/us/stat/106/575], provided that:
 
 >     “(a)  __In General__  __.—__ 
 
@@ -76,23 +76,23 @@
 
 [/us/usc/t20/s1087i–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1087i%E2%80%931
 [/us/usc/t20/s1078]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1078
-[/us/pl/89/329/s451]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2Fs451
-[/us/pl/99/498/s404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F498%2Fs404
+[/us/pl/89/329/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2FtIV
+[/us/pl/99/498/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F498%2FtIV
 [/us/stat/100/1437]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1437
-[/us/pl/102/325/s451]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325%2Fs451
+[/us/pl/102/325/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325%2FtIV
 [/us/stat/106/569]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F569
-[/us/pl/103/66/s4021]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66%2Fs4021
+[/us/pl/103/66/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66%2FtIV
 [/us/stat/107/341]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F341
-[/us/pl/103/382/s358A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F382%2Fs358A
+[/us/pl/103/382/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F382%2FtIII
 [/us/stat/108/3968]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3968
-[/us/pl/110/227/s7/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F227%2Fs7%2Fa
+[/us/pl/110/227]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F227
 [/us/stat/122/746]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F746
-[/us/pl/89/329/s451]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2Fs451
-[/us/pl/90/575/s141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F575%2Fs141
+[/us/pl/89/329/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2FtIV
+[/us/pl/90/575/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F575%2FtI
 [/us/stat/82/1031]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F1031
-[/us/pl/92/318/s136/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F318%2Fs136%2Fa
+[/us/pl/92/318/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F318%2FtI
 [/us/stat/86/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F272
-[/us/pl/94/482/s129/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F482%2Fs129%2Fa
+[/us/pl/94/482/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F482%2FtI
 [/us/stat/90/2144]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2144
 [/us/pl/110/227]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F227
 [/us/usc/t20/s1087i–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1087i%E2%80%931
@@ -102,7 +102,7 @@
 [/us/pl/102/325]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325
 [/us/pl/102/325/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325%2Fs2
 [/us/usc/t20/s1001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1001
-[/us/pl/102/325/s452]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325%2Fs452
+[/us/pl/102/325/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325%2FtIV
 [/us/stat/106/575]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F575
 [/us/usc/t20/s1087a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1087a
 [/us/usc/t20/s1087aa]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1087aa

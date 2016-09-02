@@ -45,33 +45,33 @@
 
         The Director shall make every effort to ensure that activities assisted under this section are administered by appropriate library and museum professionals or experts.
 
-([Pub. L. 94–462, title II, § 262][/us/pl/94/462/s262], as added [Pub. L. 104–208, div. A, title I, § 101(e)][/us/pl/104/208/s101/e] \[title VII, § 702\], Sept. 30, 1996, [110 Stat. 3009–233][/us/stat/110/3009-233], 3009–302; amended [Pub. L. 105–128][/us/pl/105/128], §§ 7, 8, Dec. 1, 1997, [111 Stat. 2549][/us/stat/111/2549], 2550; [Pub. L. 108–81, title II, § 207][/us/pl/108/81/s207], title V, § 504(g), Sept. 25, 2003, [117 Stat. 1000][/us/stat/117/1000], 1004; [Pub. L. 111–340, title II, § 206][/us/pl/111/340/s206], Dec. 22, 2010, [124 Stat. 3601][/us/stat/124/3601].)
+([Pub. L. 94–462, title II][/us/pl/94/462/tII], § 262, as added [Pub. L. 104–208, div. A, title I][/us/pl/104/208/dA/tI], § 101(e) \[title VII, § 702\], Sept. 30, 1996, [110 Stat. 3009–233][/us/stat/110/3009-233], 3009–302; amended [Pub. L. 105–128][/us/pl/105/128], §§ 7, 8, Dec. 1, 1997, [111 Stat. 2549][/us/stat/111/2549], 2550; [Pub. L. 108–81, title II][/us/pl/108/81/tII], § 207, title V, § 504(g), Sept. 25, 2003, [117 Stat. 1000][/us/stat/117/1000], 1004; [Pub. L. 111–340, title II][/us/pl/111/340/tII], § 206, Dec. 22, 2010, [124 Stat. 3601][/us/stat/124/3601].)
 
  __Amendments__ 
 
-    2010—Subsec. (a)(1), (2). [Pub. L. 111–340, § 206(1)][/us/pl/111/340/s206/1], added pars. (1) and (2) and struck out former pars. (1) and (2) which read as follows:
+    2010—Subsec. (a)(1), (2). [Pub. L. 111–340][/us/pl/111/340], § 206(1), added pars. (1) and (2) and struck out former pars. (1) and (2) which read as follows:
 
     “(1) education, recruitment, and training of persons in library and information science, particularly in areas of new technology and other critical needs, including graduate fellowships, traineeships, institutes, or other programs;
 
     “(2) research and demonstration projects related to the improvement of libraries, education in library and information science, enhancement of library services through effective and efficient use of new technologies, and dissemination of information derived from such projects;”.
 
-    Subsec. (a)(3). [Pub. L. 111–340, § 206(2)][/us/pl/111/340/s206/2], substituted “digitizing” for “digitization” and inserted “, including the development of national, regional, statewide, or local emergency plans that would ensure the preservation of knowledge and library collections in the event of a disaster” before “; and”.
+    Subsec. (a)(3). [Pub. L. 111–340][/us/pl/111/340], § 206(2), substituted “digitizing” for “digitization” and inserted “, including the development of national, regional, statewide, or local emergency plans that would ensure the preservation of knowledge and library collections in the event of a disaster” before “; and”.
 
-    2003—Subsec. (a)(1). [Pub. L. 108–81, § 207][/us/pl/108/81/s207], substituted “education, recruitment, and training” for “education and training”.
+    2003—Subsec. (a)(1). [Pub. L. 108–81][/us/pl/108/81], § 207, substituted “education, recruitment, and training” for “education and training”.
 
-    Subsec. (b)(1). [Pub. L. 108–81, § 504(g)][/us/pl/108/81/s504/g], substituted “cooperative agreements with,” for “cooperative agreements, with,”.
+    Subsec. (b)(1). [Pub. L. 108–81][/us/pl/108/81], § 504(g), substituted “cooperative agreements with,” for “cooperative agreements, with,”.
 
-    1997—[Pub. L. 105–128, § 7(1)][/us/pl/105/128/s7/1], substituted section catchline for former catchline which read as follows: “National leadership grants or contracts”.
+    1997—[Pub. L. 105–128][/us/pl/105/128], § 7(1), substituted section catchline for former catchline which read as follows: “National leadership grants or contracts”.
 
-    Subsec. (a). [Pub. L. 105–128, § 7(2)][/us/pl/105/128/s7/2], in introductory provisions, substituted “program of awarding grants or entering into contracts or cooperative agreements” for “program awarding national leadership grants or contracts” and “Such grants, contracts, and cooperative agreements” for “Such grants or contracts”.
+    Subsec. (a). [Pub. L. 105–128][/us/pl/105/128], § 7(2), in introductory provisions, substituted “program of awarding grants or entering into contracts or cooperative agreements” for “program awarding national leadership grants or contracts” and “Such grants, contracts, and cooperative agreements” for “Such grants or contracts”.
 
-    Subsec. (a)(3). [Pub. L. 105–128, § 8][/us/pl/105/128/s8], substituted “preserving or digitization” for “preservation of digitization”.
+    Subsec. (a)(3). [Pub. L. 105–128][/us/pl/105/128], § 8, substituted “preserving or digitization” for “preservation of digitization”.
 
-    Subsec. (b). [Pub. L. 105–128, § 7(3)(A)][/us/pl/105/128/s7/3/A], substituted heading for former heading which read as follows: “Grants or contracts”.
+    Subsec. (b). [Pub. L. 105–128][/us/pl/105/128], § 7(3)(A), substituted heading for former heading which read as follows: “Grants or contracts”.
 
-    Subsec. (b)(1). [Pub. L. 105–128, § 7(3)(B)][/us/pl/105/128/s7/3/B], inserted “or cooperative agreements,” after “contracts”.
+    Subsec. (b)(1). [Pub. L. 105–128][/us/pl/105/128], § 7(3)(B), inserted “or cooperative agreements,” after “contracts”.
 
-    Subsec. (b)(2). [Pub. L. 105–128, § 7(3)(C)][/us/pl/105/128/s7/3/C], substituted “Grants, contracts, and cooperative agreements” for “Grants and contracts”.
+    Subsec. (b)(2). [Pub. L. 105–128][/us/pl/105/128], § 7(3)(C), substituted “Grants, contracts, and cooperative agreements” for “Grants and contracts”.
 
 ----------
 
@@ -81,24 +81,24 @@
 ----------
 
 [/us/usc/t20/s9131/a/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs9131%2Fa%2F1%2FB
-[/us/pl/94/462/s262]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F462%2Fs262
-[/us/pl/104/208/s101/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs101%2Fe
+[/us/pl/94/462/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F462%2FtII
+[/us/pl/104/208/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2FdA%2FtI
 [/us/stat/110/3009-233]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3009-233
 [/us/pl/105/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F128
 [/us/stat/111/2549]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F2549
-[/us/pl/108/81/s207]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F81%2Fs207
+[/us/pl/108/81/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F81%2FtII
 [/us/stat/117/1000]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1000
-[/us/pl/111/340/s206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F340%2Fs206
+[/us/pl/111/340/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F340%2FtII
 [/us/stat/124/3601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3601
-[/us/pl/111/340/s206/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F340%2Fs206%2F1
-[/us/pl/111/340/s206/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F340%2Fs206%2F2
-[/us/pl/108/81/s207]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F81%2Fs207
-[/us/pl/108/81/s504/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F81%2Fs504%2Fg
-[/us/pl/105/128/s7/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F128%2Fs7%2F1
-[/us/pl/105/128/s7/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F128%2Fs7%2F2
-[/us/pl/105/128/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F128%2Fs8
-[/us/pl/105/128/s7/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F128%2Fs7%2F3%2FA
-[/us/pl/105/128/s7/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F128%2Fs7%2F3%2FB
-[/us/pl/105/128/s7/3/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F128%2Fs7%2F3%2FC
+[/us/pl/111/340]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F340
+[/us/pl/111/340]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F340
+[/us/pl/108/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F81
+[/us/pl/108/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F81
+[/us/pl/105/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F128
+[/us/pl/105/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F128
+[/us/pl/105/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F128
+[/us/pl/105/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F128
+[/us/pl/105/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F128
+[/us/pl/105/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F128
 
 

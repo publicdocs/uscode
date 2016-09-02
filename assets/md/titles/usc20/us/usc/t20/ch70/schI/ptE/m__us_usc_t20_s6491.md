@@ -11,278 +11,453 @@
 ----------
 ----------
 
-[Previous](./../../../../../..//us/usc/t20/ch70/schI/ptE/m__us_usc_t20_ch70_schI_ptE.md) | [Next](./../../../../../..//us/usc/t20/ch70/schI/ptE/m__us_usc_t20_s6492.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs6491)
+[Previous](./../../../../../..//us/usc/t20/ch70/schI/ptE/m__us_usc_t20_ch70_schI_ptE.md) | [Next](./../../../../../..//us/usc/t20/ch70/schI/ptF/m__us_usc_t20_ch70_schI_ptF.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs6491)
 
-## § 6491. Evaluations
+## § 6491. Flexibility for equitable per-pupil funding
 
-    (a) __National assessment of subchapter I__ 
+    (a) __Purpose__ 
 
-        (1) __In general__ 
+        The purpose of the program under this section is to provide local educational agencies with flexibility to consolidate eligible Federal funds and State and local education funding in order to create a single school funding system based on weighted per-pupil allocations for low-income and otherwise disadvantaged students.
 
-            The Secretary shall conduct a national assessment of the programs assisted under this subchapter and the impact of this subchapter on States, local educational agencies, schools, and students.
-
-        (2) __Issues to be examined__ 
-
-        In conducting the assessment under this subsection, the Secretary shall examine, at a minimum, the following:
-
-            (A) The implementation of programs assisted under this subchapter and the impact of such implementation on increasing student academic achievement (particularly in schools with high concentrations of children living in poverty), relative to the goal of all students reaching the proficient level of achievement based on State academic assessments, challenging State academic content standards, and challenging State student academic achievement standards under [section 6311 of this title][/us/usc/t20/s6311].
-
-            (B) The types of programs and services that have demonstrated the greatest likelihood of helping students reach the proficient and advanced levels of achievement based on State student academic achievement standards and State academic content standards.
-
-            (C)
-
-             The implementation of State academic standards, assessments, and accountability systems developed under this subchapter, including—
-
-                (i) the time and cost required for the development of academic assessments for students in grades 3 through 8;
-
-                (ii) how well such State assessments meet the requirements for assessments described in this subchapter; and
-
-                (iii) the impact of such standards, assessments, and accountability systems on educational programs and instruction at the local level.
-
-            (D)
-
-             Each State’s definition of adequate yearly progress, including—
-
-                (i) the impact of applying this definition to schools, local educational agencies, and the State;
-
-                (ii) the number of schools and local educational agencies not meeting this definition; and
-
-                (iii) the changes in the identification of schools in need of improvement as a result of such definition.
-
-            (E)
-
-             How schools, local educational agencies, and States have—
-
-                (i) publicized and disseminated the local educational agency report cards required under [section 6311(h)(2) of this title][/us/usc/t20/s6311/h/2] to teachers, school staff, students, parents, and the community;
-
-                (ii) used funds made available under this subchapter to provide preschool and family literacy services and the impact of these services on students’ school readiness;
-
-                (iii) implemented the provisions of [section 6318 of this title][/us/usc/t20/s6318] and afforded parents meaningful opportunities to be involved in the education of their children;
-
-                (iv) used Federal, State, and local educational agency funds and resources to support schools and provide technical assistance to improve the achievement of students in low-performing schools, including the impact of the technical assistance on such achievement; and
-
-                (v) used State educational agency and local educational agency funds and resources to help schools in which 50 percent or more of the students are from families with incomes below the poverty line meet the requirement described in [section 6319 of this title][/us/usc/t20/s6319] of having all teachers highly qualified not later than the end of the 2005–2006 school year.
-
-            (F) The implementation of schoolwide programs and targeted assistance programs under this subchapter and the impact of such programs on improving student academic achievement, including the extent to which schools meet the requirements of such programs.
-
-            (G) The extent to which varying models of comprehensive school reform are funded and implemented under this subchapter, and the effect of the implementation of such models on improving achievement of disadvantaged students.
-
-            (H) The costs as compared to the benefits of the activities assisted under this subchapter.
-
-            (I)
-
-             The extent to which actions authorized under [section 6316 of this title][/us/usc/t20/s6316] are implemented by State educational agencies and local educational agencies to improve the academic achievement of students in low-performing schools, and the effectiveness of the implementation of such actions, including the following:
-
-                (i) The number of schools identified for school improvement and how many years the schools remain in this status.
-
-                (ii) The types of support provided by the State educational agencies and local educational agencies to schools and local educational agencies respectively identified as in need of improvement, and the impact of such support on student achievement.
-
-                (iii) The number of parents who take advantage of the public school choice provisions of this subchapter, the costs (including transportation costs) associated with implementing these provisions, the implementation of these provisions, and the impact of these provisions (including the impact of attending another school) on student achievement.
-
-                (iv) The number of parents who choose to take advantage of the supplemental educational services option, the criteria used by the States to determine the quality of providers, the kinds of services that are available and utilized, the costs associated with implementing this option, and the impact of receiving supplemental educational services on student achievement.
-
-                (v) The implementation and impact of actions that are taken with regard to schools and local educational agencies identified for corrective action and restructuring.
-
-            (J) The extent to which State and local fiscal accounting requirements under this subchapter affect the flexibility of schoolwide programs.
-
-            (K) The implementation and impact of the professional development activities assisted under this subchapter and subchapter II of this chapter on instruction, student academic achievement, and teacher qualifications.
-
-            (L) The extent to which the assistance made available under this subchapter, including funds under [section 6302 of this title][/us/usc/t20/s6302], is targeted to disadvantaged students, schools, and local educational agencies with the greatest need.
-
-            (M) The effectiveness of Federal administration assistance made available under this subchapter, including monitoring and technical assistance.
-
-            (N) The academic achievement of the groups of students described in [section 6311(b)(2)(C)(v)(II) of this title][/us/usc/t20/s6311/b/2/C/v/II].
-
-            (O) Such other issues as the Secretary considers appropriate.
-
-        (3) __Sources of information__ 
-
-            In conducting the assessment under this subsection, the Secretary shall use information from a variety of sources, including the National Assessment of Educational Progress (carried out under [section 9622 of this title][/us/usc/t20/s9622]), State evaluations, and other research studies.
-
-        (4) __Coordination__ 
-
-        In carrying out this subsection, the Secretary shall—
-
-            (A) coordinate the national assessment under this subsection with the longitudinal study described in subsection (c) of this section; and
-
-            (B) ensure that the independent review panel described in subsection (d) of this section participates in conducting the national assessment under this subsection, including planning for and reviewing the assessment.
-
-        (5) __Developmentally appropriate measures__ 
-
-            In conducting the national assessment under this subsection, the Secretary shall use developmentally appropriate measures to assess student academic achievement.
-
-        (6) __Reports__ 
-
-            (A) __Interim report__ 
-
-                Not later than 3 years after January 8, 2002, the Secretary shall transmit to the President, the Committee on Education and the Workforce of the House of Representatives, and the Committee on Health, Education, Labor, and Pensions of the Senate an interim report on the national assessment conducted under this subsection.
-
-            (B) __Final report__ 
-
-                Not later than 5 years after January 8, 2002, the Secretary shall transmit to the President, the Committee on Education and the Workforce of the House of Representatives, and the Committee on Health, Education, Labor, and Pensions of the Senate a final report on the national assessment conducted under this subsection.
-
-    (b) __Studies and data collection__ 
+    (b) __Authority__ 
 
         (1) __In general__ 
 
-        In addition to other activities described in this section, the Secretary may, directly or through awarding grants to or entering into contracts with appropriate entities—
+        The Secretary is authorized to enter into local flexibility demonstration agreements—
 
-            (A) assess the implementation and effectiveness of programs under this subchapter;
+            (A) for not more than 3 years with local educational agencies that are selected under subsection (c) and submit proposed agreements that meet the requirements of subsection (d); and
 
-            (B) collect the data necessary to comply with the Government Performance and Results Act of 1993; and
+            (B) under which such agencies may consolidate and use funds in accordance with subsection (d) in order to develop and implement a school funding system based on weighted per-pupil allocations for low-income and otherwise disadvantaged students.
 
-            (C) provide guidance and technical assistance to State educational agencies and local educational agencies in developing and maintaining management information systems through which such agencies may develop program performance indicators to improve services and performance.
+        (2) __Flexibility__ 
 
-        (2) __Minimum information__ 
+            Except as described in subsection (d)(1)(I), the Secretary is authorized to waive, for local educational agencies entering into agreements under this section, any provision of this chapter that would otherwise prevent such agency from using eligible Federal funds as part of such agreement.
 
-            In carrying out this subsection, the Secretary shall collect, at a minimum, trend information on the effect of each program authorized under this subchapter, which shall complement the data collected and reported under subsections (a) and (c) of this section.
-
-    (c) __National longitudinal study__ 
+    (c) __Selection of local educational agencies__ 
 
         (1) __In general__ 
 
-            The Secretary shall conduct a longitudinal study of schools receiving assistance under part A of this subchapter.
+            The Secretary may enter into local flexibility demonstration agreements with not more than 50 local educational agencies with an approved application under subsection (d).
 
-        (2) __Issues to be examined__ 
+        (2) __Selection__ 
 
-        In carrying out this subsection, the Secretary shall ensure that the study referred to in paragraph (1) provides Congress and educators with each of the following:
+        Each local educational agency shall be selected based on such agency—
 
-            (A) An accurate description and analysis of the short- and long-term effect of the assistance made available under this subchapter on academic achievement.
+            (A) submitting a proposed local flexibility demonstration agreement under subsection (d);
 
-            (B) Information that can be used to improve the effectiveness of the assistance made available under this subchapter in enabling students to meet challenging academic achievement standards.
+            (B) demonstrating that the agreement meets the requirements of such subsection; and
 
-            (C) An analysis of educational practices or model programs that are effective in improving the achievement of disadvantaged children.
+            (C) agreeing to meet the continued demonstration requirements under subsection (e).
 
-            (D) An analysis of the costs as compared to the benefits of the assistance made available under this subchapter in improving the achievement of disadvantaged children.
+        (3) __Expansion__ 
 
-            (E) An analysis of the effects of the availability of school choice options under [section 6316 of this title][/us/usc/t20/s6316] on the academic achievement of disadvantaged students, on schools in school improvement, and on schools from which students have transferred under such options.
+            Beginning with the 2019–2020 academic year, the Secretary may extend funding flexibility authorized under this section to any local educational agency that submits and has approved an application under subsection (d), as long as a significant majority of the demonstration agreements with local educational agencies described in paragraph (1) meet the requirements of subsection (d)(2) and subsection (e)(1) as of the end of the 2018–2019 academic year.
 
-            (F) Such other information as the Secretary considers appropriate.
+    (d) __Required terms of local flexibility demonstration agreement__ 
 
-        (3) __Scope__ 
+        (1) __Application__ 
 
-        In conducting the study referred to in paragraph (1), the Secretary shall ensure that the study—
-
-            (A) bases its analysis on a nationally representative sample of schools participating in programs under this subchapter;
-
-            (B) to the extent practicable, includes in its analysis students who transfer to different schools during the course of the study; and
-
-            (C)
-
-             analyzes varying models or strategies for delivering school services, including—
-
-                (i) schoolwide and targeted services; and
-
-                (ii) comprehensive school reform models.
-
-    (d) __Independent Review Panel__ 
-
-        (1) __In general__ 
-
-            The Secretary shall establish an independent review panel (in this subsection referred to as the “Review Panel”) to advise the Secretary on methodological and other issues that arise in carrying out subsections (a) and (c) of this section.
-
-        (2) __Appointment of members__ 
-
-            (A) __In general__ 
-
-            Subject to subparagraph (B), the Secretary shall appoint members of the Review Panel from among qualified individuals who are—
-
-                (i) specialists in statistics, evaluation, research, and assessment;
-
-                (ii) education practitioners, including teachers, principals, and local and State superintendents;
-
-                (iii) parents and members of local school boards or other organizations involved with the implementation and operation of programs under this subchapter; and
-
-                (iv) other individuals with technical expertise who will contribute to the overall rigor and quality of the program evaluation.
-
-            (B) __Limitations__ 
-
-            In appointing members of the Review Panel, the Secretary shall ensure that—
-
-                (i) in order to ensure diversity, the Review Panel includes individuals appointed under subparagraph (A)(i) who represent disciplines or programs outside the field of education; and
-
-                (ii) the total number of the individuals appointed under subparagraph (A)(ii) or (A)(iv) does not exceed one-fourth of the total number of the individuals appointed under this paragraph.
-
-        (3) __Functions__ 
-
-        The Review Panel shall consult with and advise the Secretary—
+        Each local educational agency that desires to participate in the program under this section shall submit, at such time and in such form as the Secretary may prescribe, an application to enter into a local flexibility demonstration agreement with the Secretary in order to develop and implement a school funding system based on weighted per-pupil allocations that meets the requirements of this section. The application shall include—
 
             (A)
 
-             to ensure that the assessment conducted under subsection (a) of this section and the study conducted under subsection (c) of this section—
+             a description of the school funding system based on weighted per-pupil allocations, including—
 
-                (i) adhere to the highest possible standards of quality with respect to research design, statistical analysis, and the dissemination of findings; and
+                (i) the weights used to allocate funds within such system;
 
-                (ii) use valid and reliable measures to document program implementation and impacts; and
+                (ii) the local educational agency’s legal authority to use State and local education funds consistent with this section;
 
-            (B)
+                (iii) how such system will meet the requirements of paragraph (2); and
 
-             to ensure—
+                (iv) how such system will support the academic achievement of students, including low-income students, the lowest-achieving students, English learners, and children with disabilities;
 
-                (i) that the final report described in subsection (a)(6)(B) of this section is reviewed not later than 120 days after its completion by not less than two independent experts in program evaluation (who may be from among the members of the Review Panel appointed under paragraph (2));
+            (B) a list of funding sources, including eligible Federal funds, the local educational agency will include in such system;
 
-                (ii) that such experts evaluate and comment on the degree to which the report complies with subsection (a) of this section; and
+            (C) a description of the amount and percentage of total local educational agency funding, including State and local education funds and eligible Federal funds, that will be allocated through such system;
 
-                (iii) that the comments of such experts are transmitted with the report under subsection (a)(6)(B) of this section.
+            (D) the per-pupil expenditures (which shall include actual personnel expenditures, including staff salary differentials for years of employment, and actual nonpersonnel expenditures) of State and local education funds for each school served by the agency for the preceding fiscal year;
 
-([Pub. L. 89–10, title I, § 1501][/us/pl/89/10/s1501], as added [Pub. L. 107–110, title I, § 101][/us/pl/107/110/s101], Jan. 8, 2002, [115 Stat. 1592][/us/stat/115/1592]; amended [Pub. L. 107–279, title IV, § 404(d)(4)][/us/pl/107/279/s404/d/4], Nov. 5, 2002, [116 Stat. 1986][/us/stat/116/1986].)
+            (E) the per-pupil amount of eligible Federal funds each school served by the agency received in the preceding fiscal year, disaggregated by the programs supported by the eligible Federal funds;
 
- __References in Text__ 
+            (F) a description of how such system will ensure that any eligible Federal funds allocated through the system will meet the purposes of each Federal program supported by such funds, including serving students from low-income families, English learners, migratory children, and children who are neglected, delinquent, or at risk, as applicable;
 
-    The Government Performance and Results Act of 1993, referred to in subsec. (b)(1)(B), is [Pub. L. 103–62][/us/pl/103/62], Aug. 3, 1993, [107 Stat. 285][/us/stat/107/285], which enacted [section 306 of Title 5][/us/usc/t5/s306], Government Organization and Employees, sections 1115 to 1119, 9703, and 9704 of Title 31, Money and Finance, and sections 2801 to 2805 of Title 39, Postal Service, amended [section 1105 of Title 31][/us/usc/t31/s1105], and enacted provisions set out as notes under sections 1101 and 1115 of Title 31. For complete classification of this Act to the Code, see Short Title of 1993 Amendment note set out under [section 1101 of Title 31][/us/usc/t31/s1101] and Tables.
+            (G) an assurance that the local educational agency developed and will implement the local flexibility demonstration agreement in consultation with teachers, principals, other school leaders (including charter school leaders in a local educational agency that has charter schools), administrators of Federal programs impacted by the agreement, parents, community leaders, and other relevant stakeholders;
+
+            (H) an assurance that the local educational agency will use fiscal control and sound accounting procedures that ensure proper disbursement of, and accounting for, eligible Federal funds consolidated and used under such system;
+
+            (I) an assurance that the local educational agency will continue to meet the requirements of sections 6320, 6321, and 7881 of this title; and
+
+            (J) an assurance that the local educational agency will meet the requirements of all applicable Federal civil rights laws in carrying out the agreement and in consolidating and using funds under the agreement.
+
+        (2) __Requirements of the system__ 
+
+            (A) __In general__ 
+
+            A local educational agency’s school funding system based on weighted per-pupil allocations shall—
+
+                (i) except as allowed under clause (iv), allocate a significant portion of funds, including State and local education funds and eligible Federal funds, to the school level based on the number of students in a school and a formula developed by the agency under this section that determines per-pupil weighted amounts;
+
+                (ii) use weights or allocation amounts that allocate substantially more funding to English learners, students from low-income families, and students with any other characteristics associated with educational disadvantage chosen by the local educational agency, than to other students;
+
+                (iii)
+
+                 ensure that each high-poverty school receives, in the first year of the demonstration agreement—
+
+                    (I) more per-pupil funding, including from Federal, State, and local sources, for low-income students than such funding received for low-income students in the year prior to entering into a demonstration agreement under this section; and
+
+                    (II) at least as much per-pupil funding, including from Federal, State, and local sources, for English learners as such funding received for English learners in the year prior to entering into a demonstration agreement under this section;
+
+                (iv) be used to allocate to schools a significant percentage, which shall be a percentage agreed upon during the application process, of all the local educational agency’s State and local education funds and eligible Federal funds; and
+
+                (v) include all school-level actual personnel expenditures for instructional staff (including staff salary differentials for years of employment) and actual nonpersonnel expenditures in the calculation of the local educational agency’s State and local education funds and eligible Federal funds to be allocated under clause (i).
+
+            (B) __Percentage__ 
+
+            In establishing the percentage described in subparagraph (A)(iv) for the system, the local educational agency shall demonstrate that the percentage—
+
+                (i) under such subparagraph is sufficient to carry out the purposes of the demonstration agreement under this section and to meet each of the requirements of this subsection; and
+
+                (ii) of State and local education funds and eligible Federal funds that are not allocated through the local educational agency’s school funding system based on weighted per-pupil allocations, does not undermine or conflict with the requirements of the demonstration agreement under this section.
+
+            (C) __Expenditures__ 
+
+                After allocating funds through the system, the local educational agency shall charge schools for the per-pupil expenditures of State and local education funds and eligible Federal funds, including actual personnel expenditures (including staff salary differentials for years of employment) for instructional staff and actual nonpersonnel expenditures.
+
+    (e) __Continued demonstration__ 
+
+    Each local educational agency with an approved application under subsection (d) shall annually—
+
+        (1)
+
+         demonstrate to the Secretary that, as compared to the previous year, no high-poverty school served by the agency received—
+
+            (A) less per-pupil funding, including from Federal, State, and local sources, for low-income students; or
+
+            (B) less per-pupil funding, including from Federal, State, and local sources, for English learners;
+
+        (2) make public and report to the Secretary the per-pupil expenditures (including actual personnel expenditures that include staff salary differentials for years of employment, and actual non-personnel expenditures) of State and local education funds and eligible Federal funds for each school served by the agency, disaggregated by each quartile of students attending the school based on student level of poverty and by each major racial or ethnic group in the school, for the preceding fiscal year;
+
+        (3) make public the total number of students enrolled in each school served by the agency and the number of students enrolled in each such school disaggregated by each of the subgroups of students, as defined in [section 6311(c)(2) of this title][/us/usc/t20/s6311/c/2]; and
+
+        (4) notwithstanding paragraph (1), (2), or (3), ensure that any information to be reported or made public under this subsection is only reported or made public if such information does not reveal personally identifiable information.
+
+    (f) __Limitations on administrative expenditures__ 
+
+    Each local educational agency that has entered into a local flexibility demonstration agreement with the Secretary under this section may use, for administrative purposes, an amount of eligible Federal funds that is not more than the percentage of funds allowed for such purposes under any of the following:
+
+        (1) This subchapter.
+
+        (2) Subchapter II.
+
+        (3) Subchapter III.
+
+        (4) Part A of subchapter IV.
+
+        (5) Part B of subchapter V.
+
+    (g) __Peer review__ 
+
+        The Secretary may establish a peer-review process to assist in the review of a proposed local flexibility demonstration agreement.
+
+    (h) __Noncompliance__ 
+
+        The Secretary may, after providing notice and an opportunity for a hearing (including the opportunity to provide supporting evidence as provided for in subsection (i)), terminate a local flexibility demonstration agreement under this section if there is evidence that the local educational agency has failed to comply with the terms of the agreement and the requirements under subsections (d) and (e).
+
+    (i) __Evidence__ 
+
+        If a local educational agency believes that the Secretary’s determination under subsection (h) is in error for statistical or other substantive reasons, the local educational agency may provide supporting evidence to the Secretary, and the Secretary shall consider that evidence before making a final determination.
+
+    (j) __Program evaluation__ 
+
+    From the amount reserved for evaluation activities under [section 7981 of this title][/us/usc/t20/s7981], the Secretary, acting through the Director of the Institute of Education Sciences, shall, in consultation with the relevant program office at the Department, evaluate—
+
+        (1) the implementation of the local flexibility demonstration agreements under this section; and
+
+        (2) the impact of such agreements on improving the equitable distribution of State and local funding and increasing student achievement.
+
+    (k) __Renewal of local flexibility demonstration agreement__ 
+
+    The Secretary may renew for additional 3-year terms a local flexibility demonstration agreement under this section if—
+
+        (1) the local educational agency has met the requirements under subsections (d)(2) and (e) and agrees to, and has a high likelihood of, continuing to meet such requirements; and
+
+        (2) the Secretary determines that renewing the local flexibility demonstration agreement is in the interest of students served under this subchapter and subchapter III.
+
+    (l) __Definitions__ 
+
+    In this section:
+
+        (1) __Eligible Federal funds__ 
+
+        The term “eligible Federal funds” means funds received by a local educational agency under—
+
+            (A) this subchapter;
+
+            (B) subchapter II;
+
+            (C) subchapter III;
+
+            (D) part A of subchapter IV; and
+
+            (E) part B of subchapter V.
+
+        (2) __High-poverty school__ 
+
+            The term “high-poverty school” means a school that is in the highest 2 quartiles of schools served by a local educational agency, based on the percentage of enrolled students from low-income families.
+
+([Pub. L. 89–10, title I][/us/pl/89/10/tI], § 1501, as added [Pub. L. 114–95, title I][/us/pl/114/95/tI], § 1501(b), Dec. 10, 2015, [129 Stat. 1906][/us/stat/129/1906].)
 
  __Prior Provisions__ 
 
-    A prior section 6491, [Pub. L. 89–10, title I, § 1501][/us/pl/89/10/s1501], as added [Pub. L. 103–382, title I, § 101][/us/pl/103/382/s101], Oct. 20, 1994, [108 Stat. 3601][/us/stat/108/3601]; amended [Pub. L. 104–134, title I, § 101(d)][/us/pl/104/134/s101/d] \[title VII, § 703(b)(3)\], Apr. 26, 1996, [110 Stat. 1321–211][/us/stat/110/1321-211], 1321–255; renumbered title I, [Pub. L. 104–140, § 1(a)][/us/pl/104/140/s1/a], May 2, 1996, [110 Stat. 1327][/us/stat/110/1327]; [Pub. L. 105–18, title VI, § 60002][/us/pl/105/18/s60002], June 12, 1997, [111 Stat. 214][/us/stat/111/214], related to evaluations, prior to the general amendment of this subchapter by [Pub. L. 107–110][/us/pl/107/110].
+    Prior sections 6491 to 6494, 6511 to 6518, 6531 to 6537, 6551 to 6553, 6555, and 6561 to 6561i were repealed by [Pub. L. 114–95, title I][/us/pl/114/95/tI], § 1501(a)(1), Dec. 10, 2015, [129 Stat. 1905][/us/stat/129/1905], effective Dec. 10, 2015, except with respect to certain noncompetitive programs and competitive programs.
+
+    Section 6491, [Pub. L. 89–10, title I][/us/pl/89/10/tI], § 1501, as added [Pub. L. 107–110, title I][/us/pl/107/110/tI], § 101, Jan. 8, 2002, [115 Stat. 1592][/us/stat/115/1592]; amended [Pub. L. 107–279, title IV][/us/pl/107/279/tIV], § 404(d)(4), Nov. 5, 2002, [116 Stat. 1986][/us/stat/116/1986], related to evaluations. See [section 7981 of this title][/us/usc/t20/s7981].
+
+    Another prior section 6491, [Pub. L. 89–10, title I][/us/pl/89/10/tI], § 1501, as added [Pub. L. 103–382, title I][/us/pl/103/382/tI], § 101, Oct. 20, 1994, [108 Stat. 3601][/us/stat/108/3601]; amended [Pub. L. 104–134, title I][/us/pl/104/134/tI], § 101(d) \[title VII, § 703(b)(3)\], Apr. 26, 1996, [110 Stat. 1321–211][/us/stat/110/1321-211], 1321–255; renumbered title I, [Pub. L. 104–140][/us/pl/104/140], § 1(a), May 2, 1996, [110 Stat. 1327][/us/stat/110/1327]; [Pub. L. 105–18, title VI][/us/pl/105/18/tVI], § 60002, June 12, 1997, [111 Stat. 214][/us/stat/111/214], related to evaluations, prior to the general amendment of this subchapter by [Pub. L. 107–110][/us/pl/107/110].
 
     A prior [section 1501 of Pub. L. 89–10][/us/pl/89/10/s1501] was classified to [section 2911 of this title][/us/usc/t20/s2911], prior to the general amendment of [Pub. L. 89–10][/us/pl/89/10] by [Pub. L. 103–382][/us/pl/103/382].
 
- __Amendments__ 
+    Section 6492, [Pub. L. 89–10, title I][/us/pl/89/10/tI], § 1502, as added [Pub. L. 107–110, title I][/us/pl/107/110/tI], § 101, Jan. 8, 2002, [115 Stat. 1597][/us/stat/115/1597], related to demonstrations of innovative practices.
 
-    2002—Subsec. (a)(3). [Pub. L. 107–279][/us/pl/107/279] substituted “[section 9622 of this title][/us/usc/t20/s9622]” for “[section 9010 of this title][/us/usc/t20/s9010]”.
+    Another prior section 6492, [Pub. L. 89–10, title I][/us/pl/89/10/tI], § 1502, as added [Pub. L. 103–382, title I][/us/pl/103/382/tI], § 101, Oct. 20, 1994, [108 Stat. 3604][/us/stat/108/3604], related to demonstrations of innovative practices, prior to the general amendment of this subchapter by [Pub. L. 107–110][/us/pl/107/110].
+
+    Section 6493, [Pub. L. 89–10, title I][/us/pl/89/10/tI], § 1503, as added [Pub. L. 107–110, title I][/us/pl/107/110/tI], § 101, Jan. 8, 2002, [115 Stat. 1597][/us/stat/115/1597], related to assessment evaluation.
+
+    Another prior section 6493, [Pub. L. 89–10, title I][/us/pl/89/10/tI], § 1503, as added [Pub. L. 103–382, title I][/us/pl/103/382/tI], § 101, Oct. 20, 1994, [108 Stat. 3605][/us/stat/108/3605], related to innovative elementary school transition projects, prior to repeal by [Pub. L. 105–277, div. A][/us/pl/105/277/dA], § 101(f) \[title VIII, § 301(c)(1)\], Oct. 21, 1998, [112 Stat. 2681–337][/us/stat/112/2681-337], 2681–410.
+
+    Section 6494, [Pub. L. 89–10, title I][/us/pl/89/10/tI], § 1504, as added [Pub. L. 107–110, title I][/us/pl/107/110/tI], § 101, Jan. 8, 2002, [115 Stat. 1598][/us/stat/115/1598], related to Close Up fellowship program.
+
+    Section 6511, [Pub. L. 89–10, title I][/us/pl/89/10/tI], § 1601, as added [Pub. L. 107–110, title I][/us/pl/107/110/tI], § 101, Jan. 8, 2002, [115 Stat. 1601][/us/stat/115/1601], stated purpose of former part F of this subchapter.
+
+    Another prior section 6511, [Pub. L. 89–10, title I][/us/pl/89/10/tI], § 1601, as added [Pub. L. 103–382, title I][/us/pl/103/382/tI], § 101, Oct. 20, 1994, [108 Stat. 3609][/us/stat/108/3609], related to Federal regulations, prior to the general amendment of this subchapter by [Pub. L. 107–110][/us/pl/107/110]. See [section 6571 of this title][/us/usc/t20/s6571].
+
+    Section 6512, [Pub. L. 89–10, title I][/us/pl/89/10/tI], § 1602, as added [Pub. L. 107–110, title I][/us/pl/107/110/tI], § 101, Jan. 8, 2002, [115 Stat. 1601][/us/stat/115/1601], related to program authorization.
+
+    Another prior section 6512, [Pub. L. 89–10, title I][/us/pl/89/10/tI], § 1602, as added [Pub. L. 103–382, title I][/us/pl/103/382/tI], § 101, Oct. 20, 1994, [108 Stat. 3610][/us/stat/108/3610], related to coordination of Federal, State, and local administration, prior to the general amendment of this subchapter by [Pub. L. 107–110][/us/pl/107/110].
+
+    Section 6513, [Pub. L. 89–10, title I][/us/pl/89/10/tI], § 1603, as added [Pub. L. 107–110, title I][/us/pl/107/110/tI], § 101, Jan. 8, 2002, [115 Stat. 1602][/us/stat/115/1602], related to application by State educational agency.
+
+    Another prior section 6513, [Pub. L. 89–10, title I][/us/pl/89/10/tI], § 1603, as added [Pub. L. 103–382, title I][/us/pl/103/382/tI], § 101, Oct. 20, 1994, [108 Stat. 3611][/us/stat/108/3611], related to State administration, prior to the general amendment of this subchapter by [Pub. L. 107–110][/us/pl/107/110]. See [section 6573 of this title][/us/usc/t20/s6573].
+
+    Section 6514, [Pub. L. 89–10, title I][/us/pl/89/10/tI], § 1604, as added [Pub. L. 107–110, title I][/us/pl/107/110/tI], § 101, Jan. 8, 2002, [115 Stat. 1603][/us/stat/115/1603], related to use of funds by State educational agency.
+
+    Another prior section 6514, [Pub. L. 89–10, title I][/us/pl/89/10/tI], § 1604, as added [Pub. L. 103–382, title I][/us/pl/103/382/tI], § 101, Oct. 20, 1994, [108 Stat. 3612][/us/stat/108/3612], related to construction of provisions, prior to the general amendment of this subchapter by [Pub. L. 107–110][/us/pl/107/110]. See [section 6576 of this title][/us/usc/t20/s6576].
+
+    Section 6515, [Pub. L. 89–10, title I][/us/pl/89/10/tI], § 1605, as added [Pub. L. 107–110, title I][/us/pl/107/110/tI], § 101, Jan. 8, 2002, [115 Stat. 1604][/us/stat/115/1604], related to application by local educational agency.
+
+    Section 6516, [Pub. L. 89–10, title I][/us/pl/89/10/tI], § 1606, as added [Pub. L. 107–110, title I][/us/pl/107/110/tI], § 101, Jan. 8, 2002, [115 Stat. 1604][/us/stat/115/1604], related to use of funds by local educational agency.
+
+    Section 6517, [Pub. L. 89–10, title I][/us/pl/89/10/tI], § 1607, as added [Pub. L. 107–110, title I][/us/pl/107/110/tI], § 101, Jan. 8, 2002, [115 Stat. 1605][/us/stat/115/1605], related to evaluation of programs and reports.
+
+    Section 6518, [Pub. L. 89–10, title I][/us/pl/89/10/tI], § 1608, as added [Pub. L. 107–110, title I][/us/pl/107/110/tI], § 101, Jan. 8, 2002, [115 Stat. 1605][/us/stat/115/1605], related to quality initiatives.
+
+    Section 6531, [Pub. L. 89–10, title I][/us/pl/89/10/tI], § 1701, as added [Pub. L. 107–110, title I][/us/pl/107/110/tI], § 101, Jan. 8, 2002, [115 Stat. 1606][/us/stat/115/1606], provided that former part G of this subchapter could be cited as the “Access to High Standards Act”.
+
+    Section 6532, [Pub. L. 89–10, title I][/us/pl/89/10/tI], § 1702, as added [Pub. L. 107–110, title I][/us/pl/107/110/tI], § 101, Jan. 8, 2002, [115 Stat. 1606][/us/stat/115/1606], stated purposes of former part G of this subchapter.
+
+    Section 6533, [Pub. L. 89–10, title I][/us/pl/89/10/tI], § 1703, as added [Pub. L. 107–110, title I][/us/pl/107/110/tI], § 101, Jan. 8, 2002, [115 Stat. 1606][/us/stat/115/1606], set forth funding distribution rule.
+
+    Section 6534, [Pub. L. 89–10, title I][/us/pl/89/10/tI], § 1704, as added [Pub. L. 107–110, title I][/us/pl/107/110/tI], § 101, Jan. 8, 2002, [115 Stat. 1606][/us/stat/115/1606], related to reimbursement of advanced placement test fees.
+
+    Section 6535, [Pub. L. 89–10, title I][/us/pl/89/10/tI], § 1705, as added [Pub. L. 107–110, title I][/us/pl/107/110/tI], § 101, Jan. 8, 2002, [115 Stat. 1608][/us/stat/115/1608], related to grants to expand access to advanced placement incentive programs.
+
+    Section 6536, [Pub. L. 89–10, title I][/us/pl/89/10/tI], § 1706, as added [Pub. L. 107–110, title I][/us/pl/107/110/tI], § 101, Jan. 8, 2002, [115 Stat. 1609][/us/stat/115/1609], related to use of grants to supplement, not supplant other non-Federal funds.
+
+    Section 6537, [Pub. L. 89–10, title I][/us/pl/89/10/tI], § 1707, as added [Pub. L. 107–110, title I][/us/pl/107/110/tI], § 101, Jan. 8, 2002, [115 Stat. 1609][/us/stat/115/1609]; amended [Pub. L. 108–11, title II][/us/pl/108/11/tII], § 2503, Apr. 16, 2003, [117 Stat. 599][/us/stat/117/599], defined terms in former part G of this subchapter.
+
+    Section 6551, [Pub. L. 89–10, title I][/us/pl/89/10/tI], § 1801, as added [Pub. L. 107–110, title I][/us/pl/107/110/tI], § 101, Jan. 8, 2002, [115 Stat. 1610][/us/stat/115/1610], provided that former part H of this subchapter could be cited as the “Dropout Prevention Act”.
+
+    Section 6552, [Pub. L. 89–10, title I][/us/pl/89/10/tI], § 1802, as added [Pub. L. 107–110, title I][/us/pl/107/110/tI], § 101, Jan. 8, 2002, [115 Stat. 1610][/us/stat/115/1610], stated purposes of former part H of this subchapter.
+
+    Section 6553, [Pub. L. 89–10, title I][/us/pl/89/10/tI], § 1803, as added [Pub. L. 107–110, title I][/us/pl/107/110/tI], § 101, Jan. 8, 2002, [115 Stat. 1610][/us/stat/115/1610], authorized appropriations.
+
+    Section 6555, [Pub. L. 89–10, title I][/us/pl/89/10/tI], § 1811, as added [Pub. L. 107–110, title I][/us/pl/107/110/tI], § 101, Jan. 8, 2002, [115 Stat. 1610][/us/stat/115/1610], described national activities relating to dropout prevention.
+
+    Section 6561, [Pub. L. 89–10, title I][/us/pl/89/10/tI], § 1821, as added [Pub. L. 107–110, title I][/us/pl/107/110/tI], § 101, Jan. 8, 2002, [115 Stat. 1612][/us/stat/115/1612], defined terms in subpart 2 of former part H of this subchapter.
+
+    Section 6561a, [Pub. L. 89–10, title I][/us/pl/89/10/tI], § 1822, as added [Pub. L. 107–110, title I][/us/pl/107/110/tI], § 101, Jan. 8, 2002, [115 Stat. 1612][/us/stat/115/1612], authorized grants for school dropout prevention and reentry programs.
+
+    Section 6561b, [Pub. L. 89–10, title I][/us/pl/89/10/tI], § 1823, as added [Pub. L. 107–110, title I][/us/pl/107/110/tI], § 101, Jan. 8, 2002, [115 Stat. 1614][/us/stat/115/1614], related to applications for grants.
+
+    Section 6561c, [Pub. L. 89–10, title I][/us/pl/89/10/tI], § 1824, as added [Pub. L. 107–110, title I][/us/pl/107/110/tI], § 101, Jan. 8, 2002, [115 Stat. 1615][/us/stat/115/1615], related to reservation of funds for administrative costs and State activities.
+
+    Section 6561d, [Pub. L. 89–10, title I][/us/pl/89/10/tI], § 1825, as added [Pub. L. 107–110, title I][/us/pl/107/110/tI], § 101, Jan. 8, 2002, [115 Stat. 1615][/us/stat/115/1615], related to strategies and capacity building.
+
+    Section 6561e, [Pub. L. 89–10, title I][/us/pl/89/10/tI], § 1826, as added [Pub. L. 107–110, title I][/us/pl/107/110/tI], § 101, Jan. 8, 2002, [115 Stat. 1616][/us/stat/115/1616], related to selection of local educational agencies for subgrants.
+
+    Section 6561f, [Pub. L. 89–10, title I][/us/pl/89/10/tI], § 1827, as added [Pub. L. 107–110, title I][/us/pl/107/110/tI], § 101, Jan. 8, 2002, [115 Stat. 1616][/us/stat/115/1616], related to use of funds by community-based organizations.
+
+    Section 6561g, [Pub. L. 89–10, title I][/us/pl/89/10/tI], § 1828, as added [Pub. L. 107–110, title I][/us/pl/107/110/tI], § 101, Jan. 8, 2002, [115 Stat. 1616][/us/stat/115/1616], related to technical assistance to secondary schools.
+
+    Section 6561h, [Pub. L. 89–10, title I][/us/pl/89/10/tI], § 1829, as added [Pub. L. 107–110, title I][/us/pl/107/110/tI], § 101, Jan. 8, 2002, [115 Stat. 1616][/us/stat/115/1616], related to calculation of annual school dropout rate.
+
+    Section 6561i, [Pub. L. 89–10, title I][/us/pl/89/10/tI], § 1830, as added [Pub. L. 107–110, title I][/us/pl/107/110/tI], § 101, Jan. 8, 2002, [115 Stat. 1616][/us/stat/115/1616], related to reporting and accountability.
+
+ __Effective Date__ 
+
+    Section effective Dec. 10, 2015, except with respect to certain noncompetitive programs and competitive programs, see [section 5 of Pub. L. 114–95][/us/pl/114/95/s5], set out as an Effective Date of 2015 Amendment note under [section 6301 of this title][/us/usc/t20/s6301].
 
 ----------
 
-[Previous](./../../../../../..//us/usc/t20/ch70/schI/ptE/m__us_usc_t20_ch70_schI_ptE.md) | [Next](./../../../../../..//us/usc/t20/ch70/schI/ptE/m__us_usc_t20_s6492.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs6491)
+[Previous](./../../../../../..//us/usc/t20/ch70/schI/ptE/m__us_usc_t20_ch70_schI_ptE.md) | [Next](./../../../../../..//us/usc/t20/ch70/schI/ptF/m__us_usc_t20_ch70_schI_ptF.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs6491)
 
 ----------
 ----------
 
-[/us/usc/t20/s6311]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs6311
-[/us/usc/t20/s6311/h/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs6311%2Fh%2F2
-[/us/usc/t20/s6318]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs6318
-[/us/usc/t20/s6319]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs6319
-[/us/usc/t20/s6316]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs6316
-[/us/usc/t20/s6302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs6302
-[/us/usc/t20/s6311/b/2/C/v/II]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs6311%2Fb%2F2%2FC%2Fv%2FII
-[/us/usc/t20/s9622]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs9622
-[/us/usc/t20/s6316]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs6316
-[/us/pl/89/10/s1501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F10%2Fs1501
-[/us/pl/107/110/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F110%2Fs101
+[/us/usc/t20/s6311/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs6311%2Fc%2F2
+[/us/usc/t20/s7981]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs7981
+[/us/pl/89/10/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F10%2FtI
+[/us/pl/114/95/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F95%2FtI
+[/us/stat/129/1906]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1906
+[/us/pl/114/95/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F95%2FtI
+[/us/stat/129/1905]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1905
+[/us/pl/89/10/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F10%2FtI
+[/us/pl/107/110/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F110%2FtI
 [/us/stat/115/1592]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F1592
-[/us/pl/107/279/s404/d/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F279%2Fs404%2Fd%2F4
+[/us/pl/107/279/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F279%2FtIV
 [/us/stat/116/1986]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1986
-[/us/pl/103/62]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F62
-[/us/stat/107/285]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F285
-[/us/usc/t5/s306]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs306
-[/us/usc/t31/s1105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1105
-[/us/usc/t31/s1101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1101
-[/us/pl/89/10/s1501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F10%2Fs1501
-[/us/pl/103/382/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F382%2Fs101
+[/us/usc/t20/s7981]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs7981
+[/us/pl/89/10/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F10%2FtI
+[/us/pl/103/382/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F382%2FtI
 [/us/stat/108/3601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3601
-[/us/pl/104/134/s101/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F134%2Fs101%2Fd
+[/us/pl/104/134/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F134%2FtI
 [/us/stat/110/1321-211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1321-211
-[/us/pl/104/140/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F140%2Fs1%2Fa
+[/us/pl/104/140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F140
 [/us/stat/110/1327]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1327
-[/us/pl/105/18/s60002]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F18%2Fs60002
+[/us/pl/105/18/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F18%2FtVI
 [/us/stat/111/214]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F214
 [/us/pl/107/110]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F110
 [/us/pl/89/10/s1501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F10%2Fs1501
 [/us/usc/t20/s2911]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs2911
 [/us/pl/89/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F10
 [/us/pl/103/382]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F382
-[/us/pl/107/279]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F279
-[/us/usc/t20/s9622]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs9622
-[/us/usc/t20/s9010]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs9010
+[/us/pl/89/10/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F10%2FtI
+[/us/pl/107/110/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F110%2FtI
+[/us/stat/115/1597]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F1597
+[/us/pl/89/10/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F10%2FtI
+[/us/pl/103/382/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F382%2FtI
+[/us/stat/108/3604]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3604
+[/us/pl/107/110]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F110
+[/us/pl/89/10/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F10%2FtI
+[/us/pl/107/110/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F110%2FtI
+[/us/stat/115/1597]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F1597
+[/us/pl/89/10/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F10%2FtI
+[/us/pl/103/382/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F382%2FtI
+[/us/stat/108/3605]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3605
+[/us/pl/105/277/dA]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2FdA
+[/us/stat/112/2681-337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681-337
+[/us/pl/89/10/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F10%2FtI
+[/us/pl/107/110/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F110%2FtI
+[/us/stat/115/1598]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F1598
+[/us/pl/89/10/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F10%2FtI
+[/us/pl/107/110/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F110%2FtI
+[/us/stat/115/1601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F1601
+[/us/pl/89/10/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F10%2FtI
+[/us/pl/103/382/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F382%2FtI
+[/us/stat/108/3609]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3609
+[/us/pl/107/110]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F110
+[/us/usc/t20/s6571]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs6571
+[/us/pl/89/10/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F10%2FtI
+[/us/pl/107/110/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F110%2FtI
+[/us/stat/115/1601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F1601
+[/us/pl/89/10/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F10%2FtI
+[/us/pl/103/382/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F382%2FtI
+[/us/stat/108/3610]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3610
+[/us/pl/107/110]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F110
+[/us/pl/89/10/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F10%2FtI
+[/us/pl/107/110/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F110%2FtI
+[/us/stat/115/1602]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F1602
+[/us/pl/89/10/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F10%2FtI
+[/us/pl/103/382/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F382%2FtI
+[/us/stat/108/3611]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3611
+[/us/pl/107/110]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F110
+[/us/usc/t20/s6573]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs6573
+[/us/pl/89/10/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F10%2FtI
+[/us/pl/107/110/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F110%2FtI
+[/us/stat/115/1603]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F1603
+[/us/pl/89/10/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F10%2FtI
+[/us/pl/103/382/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F382%2FtI
+[/us/stat/108/3612]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3612
+[/us/pl/107/110]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F110
+[/us/usc/t20/s6576]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs6576
+[/us/pl/89/10/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F10%2FtI
+[/us/pl/107/110/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F110%2FtI
+[/us/stat/115/1604]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F1604
+[/us/pl/89/10/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F10%2FtI
+[/us/pl/107/110/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F110%2FtI
+[/us/stat/115/1604]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F1604
+[/us/pl/89/10/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F10%2FtI
+[/us/pl/107/110/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F110%2FtI
+[/us/stat/115/1605]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F1605
+[/us/pl/89/10/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F10%2FtI
+[/us/pl/107/110/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F110%2FtI
+[/us/stat/115/1605]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F1605
+[/us/pl/89/10/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F10%2FtI
+[/us/pl/107/110/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F110%2FtI
+[/us/stat/115/1606]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F1606
+[/us/pl/89/10/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F10%2FtI
+[/us/pl/107/110/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F110%2FtI
+[/us/stat/115/1606]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F1606
+[/us/pl/89/10/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F10%2FtI
+[/us/pl/107/110/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F110%2FtI
+[/us/stat/115/1606]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F1606
+[/us/pl/89/10/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F10%2FtI
+[/us/pl/107/110/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F110%2FtI
+[/us/stat/115/1606]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F1606
+[/us/pl/89/10/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F10%2FtI
+[/us/pl/107/110/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F110%2FtI
+[/us/stat/115/1608]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F1608
+[/us/pl/89/10/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F10%2FtI
+[/us/pl/107/110/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F110%2FtI
+[/us/stat/115/1609]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F1609
+[/us/pl/89/10/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F10%2FtI
+[/us/pl/107/110/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F110%2FtI
+[/us/stat/115/1609]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F1609
+[/us/pl/108/11/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F11%2FtII
+[/us/stat/117/599]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F599
+[/us/pl/89/10/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F10%2FtI
+[/us/pl/107/110/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F110%2FtI
+[/us/stat/115/1610]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F1610
+[/us/pl/89/10/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F10%2FtI
+[/us/pl/107/110/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F110%2FtI
+[/us/stat/115/1610]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F1610
+[/us/pl/89/10/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F10%2FtI
+[/us/pl/107/110/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F110%2FtI
+[/us/stat/115/1610]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F1610
+[/us/pl/89/10/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F10%2FtI
+[/us/pl/107/110/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F110%2FtI
+[/us/stat/115/1610]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F1610
+[/us/pl/89/10/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F10%2FtI
+[/us/pl/107/110/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F110%2FtI
+[/us/stat/115/1612]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F1612
+[/us/pl/89/10/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F10%2FtI
+[/us/pl/107/110/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F110%2FtI
+[/us/stat/115/1612]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F1612
+[/us/pl/89/10/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F10%2FtI
+[/us/pl/107/110/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F110%2FtI
+[/us/stat/115/1614]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F1614
+[/us/pl/89/10/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F10%2FtI
+[/us/pl/107/110/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F110%2FtI
+[/us/stat/115/1615]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F1615
+[/us/pl/89/10/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F10%2FtI
+[/us/pl/107/110/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F110%2FtI
+[/us/stat/115/1615]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F1615
+[/us/pl/89/10/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F10%2FtI
+[/us/pl/107/110/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F110%2FtI
+[/us/stat/115/1616]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F1616
+[/us/pl/89/10/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F10%2FtI
+[/us/pl/107/110/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F110%2FtI
+[/us/stat/115/1616]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F1616
+[/us/pl/89/10/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F10%2FtI
+[/us/pl/107/110/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F110%2FtI
+[/us/stat/115/1616]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F1616
+[/us/pl/89/10/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F10%2FtI
+[/us/pl/107/110/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F110%2FtI
+[/us/stat/115/1616]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F1616
+[/us/pl/89/10/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F10%2FtI
+[/us/pl/107/110/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F110%2FtI
+[/us/stat/115/1616]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F1616
+[/us/pl/114/95/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F95%2Fs5
+[/us/usc/t20/s6301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs6301
 
 

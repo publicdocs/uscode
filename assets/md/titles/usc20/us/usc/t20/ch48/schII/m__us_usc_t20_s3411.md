@@ -17,7 +17,7 @@
 
     There is established an executive department to be known as the Department of Education. The Department shall be administered, in accordance with the provisions of this chapter, under the supervision and direction of a Secretary of Education. The Secretary shall be appointed by the President, by and with the advice and consent of the Senate.
 
-([Pub. L. 96–88, title II, § 201][/us/pl/96/88/s201], Oct. 17, 1979, [93 Stat. 671][/us/stat/93/671].)
+([Pub. L. 96–88, title II][/us/pl/96/88/tII], § 201, Oct. 17, 1979, [93 Stat. 671][/us/stat/93/671].)
 
  __Emergency Preparedness Functions__ 
 
@@ -388,7 +388,7 @@
 ----------
 ----------
 
-[/us/pl/96/88/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F88%2Fs201
+[/us/pl/96/88/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F88%2FtII
 [/us/stat/93/671]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F671
 [/us/usc/t42/s5195]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5195
 [/us/usc/t5/s5701–570]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5701%E2%80%93570

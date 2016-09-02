@@ -241,13 +241,13 @@
 
         Nothing in this section shall be construed to require any modifications in a regional educational laboratory contract in effect on the day before November 5, 2002.
 
-([Pub. L. 107–279, title I, § 174][/us/pl/107/279/s174], Nov. 5, 2002, [116 Stat. 1965][/us/stat/116/1965].)
+([Pub. L. 107–279, title I][/us/pl/107/279/tI], § 174, Nov. 5, 2002, [116 Stat. 1965][/us/stat/116/1965].)
 
  __References in Text__ 
 
-    The Educational Research, Development, Dissemination, and Improvement Act of 1994 (as such Act existed on the day before November 5, 2002), referred to in subsecs. (b) and (c), is title IX of [Pub. L. 103–227][/us/pl/103/227], Mar. 31, 1994, [108 Stat. 212][/us/stat/108/212], as amended, which was classified principally to subchapter IX (§ 6001 et seq.) of chapter 68 of this title and was substantially repealed by [Pub. L. 107–279, title IV, § 403(2)][/us/pl/107/279/s403/2], Nov. 5, 2002, [116 Stat. 1985][/us/stat/116/1985]. Section 941 of the Act was classified to [section 6041 of this title][/us/usc/t20/s6041] prior to repeal. For complete classification of this Act to the Code, see [section 6001 of this title][/us/usc/t20/s6001] and Tables.
+    The Educational Research, Development, Dissemination, and Improvement Act of 1994 (as such Act existed on the day before November 5, 2002), referred to in subsecs. (b) and (c), is title IX of [Pub. L. 103–227][/us/pl/103/227], Mar. 31, 1994, [108 Stat. 212][/us/stat/108/212], as amended, which was classified principally to subchapter IX (§ 6001 et seq.) of chapter 68 of this title and was substantially repealed by [Pub. L. 107–279, title IV][/us/pl/107/279/tIV], § 403(2), Nov. 5, 2002, [116 Stat. 1985][/us/stat/116/1985]. Section 941 of the Act was classified to [section 6041 of this title][/us/usc/t20/s6041] prior to repeal. For complete classification of this Act to the Code, see [section 6001 of this title][/us/usc/t20/s6001] and Tables.
 
-    Title XIII of the Elementary and Secondary Education Act of 1965 (as such title existed on the day before January 8, 2002), referred to in subsec. (c), means title XIII of [Pub. L. 89–10][/us/pl/89/10], as added by [Pub. L. 103–382, title I, § 101][/us/pl/103/382/s101], Oct. 20, 1994, [108 Stat. 3876][/us/stat/108/3876], which was classified generally to subchapter XIII (§ 8601 et seq.) of chapter 70 of this title, prior to amendment by [Pub. L. 107–110][/us/pl/107/110]. Parts A to D of title XIII of [Pub. L. 89–10][/us/pl/89/10], were classified to parts A (§ 8621 et seq.), B (§ 8651 et seq.), C (§ 8671 et seq.), and D (§ 8701 et seq.), respectively, of subchapter XIII of chapter 70 of this title, and were redesignated as parts K to N of title IX of [Pub. L. 103–227][/us/pl/103/227], by [Pub. L. 107–110, title X][/us/pl/107/110], §§ 1021(a), 1022(a), 1023(a), 1024(a), Jan. 8, 2002, [115 Stat. 1987][/us/stat/115/1987], transferred to parts G (§ 6053 et seq.), H (§ 6054 et seq.), I (§ 6055 et seq.), and J (§ 6056 et seq.), respectively, of subchapter IX of chapter 68 of this title, and subsequently repealed by [Pub. L. 107–279, title IV, § 403(2)][/us/pl/107/279/s403/2], Nov. 5, 2002, [116 Stat. 1985][/us/stat/116/1985].
+    Title XIII of the Elementary and Secondary Education Act of 1965 (as such title existed on the day before January 8, 2002), referred to in subsec. (c), means title XIII of [Pub. L. 89–10][/us/pl/89/10], as added by [Pub. L. 103–382, title I][/us/pl/103/382/tI], § 101, Oct. 20, 1994, [108 Stat. 3876][/us/stat/108/3876], which was classified generally to subchapter XIII (§ 8601 et seq.) of chapter 70 of this title, prior to amendment by [Pub. L. 107–110][/us/pl/107/110]. Parts A to D of title XIII of [Pub. L. 89–10][/us/pl/89/10], were classified to parts A (§ 8621 et seq.), B (§ 8651 et seq.), C (§ 8671 et seq.), and D (§ 8701 et seq.), respectively, of subchapter XIII of chapter 70 of this title, and were redesignated as parts K to N of title IX of [Pub. L. 103–227][/us/pl/103/227], by [Pub. L. 107–110, title X][/us/pl/107/110/tX], §§ 1021(a), 1022(a), 1023(a), 1024(a), Jan. 8, 2002, [115 Stat. 1987][/us/stat/115/1987], transferred to parts G (§ 6053 et seq.), H (§ 6054 et seq.), I (§ 6055 et seq.), and J (§ 6056 et seq.), respectively, of subchapter IX of chapter 68 of this title, and subsequently repealed by [Pub. L. 107–279, title IV][/us/pl/107/279/tIV], § 403(2), Nov. 5, 2002, [116 Stat. 1985][/us/stat/116/1985].
 
     The Elementary and Secondary Education Act of 1965, referred to in subsec. (f)(1)(A), is [Pub. L. 89–10][/us/pl/89/10], Apr. 11, 1965, [79 Stat. 27][/us/stat/79/27], as amended, which is classified generally to chapter 70 (§ 6301 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 6301 of this title][/us/usc/t20/s6301] and Tables.
 
@@ -262,23 +262,23 @@
 [/us/usc/t20/s9534]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs9534
 [/us/usc/t20/s9563/a/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs9563%2Fa%2F2%2FA
 [/us/usc/t20/s6301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs6301
-[/us/pl/107/279/s174]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F279%2Fs174
+[/us/pl/107/279/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F279%2FtI
 [/us/stat/116/1965]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1965
 [/us/pl/103/227]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F227
 [/us/stat/108/212]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F212
-[/us/pl/107/279/s403/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F279%2Fs403%2F2
+[/us/pl/107/279/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F279%2FtIV
 [/us/stat/116/1985]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1985
 [/us/usc/t20/s6041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs6041
 [/us/usc/t20/s6001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs6001
 [/us/pl/89/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F10
-[/us/pl/103/382/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F382%2Fs101
+[/us/pl/103/382/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F382%2FtI
 [/us/stat/108/3876]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3876
 [/us/pl/107/110]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F110
 [/us/pl/89/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F10
 [/us/pl/103/227]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F227
-[/us/pl/107/110]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F110
+[/us/pl/107/110/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F110%2FtX
 [/us/stat/115/1987]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F1987
-[/us/pl/107/279/s403/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F279%2Fs403%2F2
+[/us/pl/107/279/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F279%2FtIV
 [/us/stat/116/1985]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1985
 [/us/pl/89/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F10
 [/us/stat/79/27]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F27

@@ -17,7 +17,7 @@
 
     This subchapter may be cited as the “Educational Research, Development, Dissemination, and Improvement Act of 1994”.
 
-([Pub. L. 103–227, title IX, § 901][/us/pl/103/227/s901], Mar. 31, 1994, [108 Stat. 212][/us/stat/108/212].)
+([Pub. L. 103–227, title IX][/us/pl/103/227/tIX], § 901, Mar. 31, 1994, [108 Stat. 212][/us/stat/108/212].)
 
  __References in Text__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/pl/103/227/s901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F227%2Fs901
+[/us/pl/103/227/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F227%2FtIX
 [/us/stat/108/212]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F212
 [/us/pl/103/227]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F227
 [/us/stat/108/212]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F212

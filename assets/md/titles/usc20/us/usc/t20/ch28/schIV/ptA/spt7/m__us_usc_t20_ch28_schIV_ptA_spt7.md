@@ -17,7 +17,7 @@
 
  __Prior Provisions__ 
 
-    A prior subpart 7, consisted of sections 1070e and 1070e–1 and related to assistance to institutions of higher education, prior to the repeal of sections 1070e and 1070e–1 by [Pub. L. 102–325, title IV][/us/pl/102/325], §§ 407, 408, July 23, 1992, [106 Stat. 510][/us/stat/106/510].
+    A prior subpart 7, consisted of sections 1070e and 1070e–1 and related to assistance to institutions of higher education, prior to the repeal of sections 1070e and 1070e–1 by [Pub. L. 102–325, title IV][/us/pl/102/325/tIV], §§ 407, 408, July 23, 1992, [106 Stat. 510][/us/stat/106/510].
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/102/325]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325
+[/us/pl/102/325/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325%2FtIV
 [/us/stat/106/510]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F510
 
 

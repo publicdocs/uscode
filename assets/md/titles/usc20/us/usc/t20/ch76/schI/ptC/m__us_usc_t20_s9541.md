@@ -35,7 +35,7 @@
 
             (B) is relevant and useful to practitioners, researchers, policymakers, and the public.
 
-([Pub. L. 107–279, title I, § 151][/us/pl/107/279/s151], Nov. 5, 2002, [116 Stat. 1957][/us/stat/116/1957].)
+([Pub. L. 107–279, title I][/us/pl/107/279/tI], § 151, Nov. 5, 2002, [116 Stat. 1957][/us/stat/116/1957].)
 
 ----------
 
@@ -44,7 +44,7 @@
 ----------
 ----------
 
-[/us/pl/107/279/s151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F279%2Fs151
+[/us/pl/107/279/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F279%2FtI
 [/us/stat/116/1957]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1957
 
 

@@ -17,7 +17,7 @@
 
     The Statistics Center may establish 1 or more national cooperative education statistics systems for the purpose of producing and maintaining, with the cooperation of the States, comparable and uniform information and data on early childhood education, elementary and secondary education, postsecondary education, adult education, and libraries, that are useful for policymaking at the Federal, State, and local levels.
 
-([Pub. L. 107–279, title I, § 157][/us/pl/107/279/s157], Nov. 5, 2002, [116 Stat. 1962][/us/stat/116/1962].)
+([Pub. L. 107–279, title I][/us/pl/107/279/tI], § 157, Nov. 5, 2002, [116 Stat. 1962][/us/stat/116/1962].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/107/279/s157]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F279%2Fs157
+[/us/pl/107/279/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F279%2FtI
 [/us/stat/116/1962]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1962
 
 

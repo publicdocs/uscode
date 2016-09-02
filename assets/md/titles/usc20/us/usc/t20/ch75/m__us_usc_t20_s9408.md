@@ -43,7 +43,7 @@
 
         The Secretary shall make allotments under this chapter on the basis of the most recent data available to the Secretary.
 
-([Pub. L. 106–554, § 1(a)(1)][/us/pl/106/554/s1/a/1] \[title VIII, § 809\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–84.)
+([Pub. L. 106–554][/us/pl/106/554], § 1(a)(1) \[title VIII, § 809\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–84.)
 
 ----------
 
@@ -53,7 +53,7 @@
 ----------
 
 [/us/usc/t20/s9404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs9404
-[/us/pl/106/554/s1/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F1
+[/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
 [/us/stat/114/2763]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2763
 
 

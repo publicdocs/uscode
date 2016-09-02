@@ -37,21 +37,21 @@
 
         There are authorized to be appropriated to carry out this section such sums as may be necessary for fiscal year 2009 and each of the five succeeding fiscal years.
 
-([Pub. L. 99–371, title I, § 121][/us/pl/99/371/s121], as added [Pub. L. 110–315, title IX, § 904(a)][/us/pl/110/315/s904/a], Aug. 14, 2008, [122 Stat. 3452][/us/stat/122/3452].)
+([Pub. L. 99–371, title I][/us/pl/99/371/tI], § 121, as added [Pub. L. 110–315, title IX][/us/pl/110/315/tIX], § 904(a), Aug. 14, 2008, [122 Stat. 3452][/us/stat/122/3452].)
 
  __Prior Provisions__ 
 
-    A prior section 4341, [Pub. L. 99–371, title III, § 301][/us/pl/99/371/s301], Aug. 4, 1986, [100 Stat. 786][/us/stat/100/786], established Commission on Education of the Deaf, prior to repeal by [Pub. L. 102–421, title I][/us/pl/102/421], §§ 101(a)(2), 161, Oct. 16, 1992, [106 Stat. 2151][/us/stat/106/2151], 2164, effective Oct. 1, 1992.
+    A prior section 4341, [Pub. L. 99–371, title III][/us/pl/99/371/tIII], § 301, Aug. 4, 1986, [100 Stat. 786][/us/stat/100/786], established Commission on Education of the Deaf, prior to repeal by [Pub. L. 102–421, title I][/us/pl/102/421/tI], §§ 101(a)(2), 161, Oct. 16, 1992, [106 Stat. 2151][/us/stat/106/2151], 2164, effective Oct. 1, 1992.
 
     A prior [section 121 of Pub. L. 99–371][/us/pl/99/371/s121] was classified to [section 4321 of this title][/us/usc/t20/s4321], prior to repeal by [Pub. L. 102–421][/us/pl/102/421].
 
-    Prior sections 4342 to 4344 were repealed by [Pub. L. 102–421, title I][/us/pl/102/421], §§ 101(a)(2), 161, Oct. 16, 1992, [106 Stat. 2151][/us/stat/106/2151], 2164, effective Oct. 1, 1992.
+    Prior sections 4342 to 4344 were repealed by [Pub. L. 102–421, title I][/us/pl/102/421/tI], §§ 101(a)(2), 161, Oct. 16, 1992, [106 Stat. 2151][/us/stat/106/2151], 2164, effective Oct. 1, 1992.
 
-    Section 4342, [Pub. L. 99–371, title III, § 302][/us/pl/99/371/s302], Aug. 4, 1986, [100 Stat. 786][/us/stat/100/786]; [Pub. L. 101–476, title IX, § 901(a)(2)][/us/pl/101/476/s901/a/2], Oct. 30, 1990, [104 Stat. 1142][/us/stat/104/1142], outlined duties of Commission and provided for reports to Congress.
+    Section 4342, [Pub. L. 99–371, title III][/us/pl/99/371/tIII], § 302, Aug. 4, 1986, [100 Stat. 786][/us/stat/100/786]; [Pub. L. 101–476, title IX][/us/pl/101/476/tIX], § 901(a)(2), Oct. 30, 1990, [104 Stat. 1142][/us/stat/104/1142], outlined duties of Commission and provided for reports to Congress.
 
-    Section 4343, [Pub. L. 99–371, title III, § 303][/us/pl/99/371/s303], Aug. 4, 1986, [100 Stat. 787][/us/stat/100/787], related to personnel of Commission, hearings, quorums, consultation with other entities, information and statistics, and agency cooperation.
+    Section 4343, [Pub. L. 99–371, title III][/us/pl/99/371/tIII], § 303, Aug. 4, 1986, [100 Stat. 787][/us/stat/100/787], related to personnel of Commission, hearings, quorums, consultation with other entities, information and statistics, and agency cooperation.
 
-    Section 4344, [Pub. L. 99–371, title III, § 304][/us/pl/99/371/s304], Aug. 4, 1986, [100 Stat. 788][/us/stat/100/788], provided for compensation of members of Commission.
+    Section 4344, [Pub. L. 99–371, title III][/us/pl/99/371/tIII], § 304, Aug. 4, 1986, [100 Stat. 788][/us/stat/100/788], provided for compensation of members of Commission.
 
 ----------
 
@@ -60,25 +60,25 @@
 ----------
 ----------
 
-[/us/pl/99/371/s121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F371%2Fs121
-[/us/pl/110/315/s904/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2Fs904%2Fa
+[/us/pl/99/371/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F371%2FtI
+[/us/pl/110/315/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2FtIX
 [/us/stat/122/3452]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3452
-[/us/pl/99/371/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F371%2Fs301
+[/us/pl/99/371/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F371%2FtIII
 [/us/stat/100/786]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F786
-[/us/pl/102/421]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F421
+[/us/pl/102/421/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F421%2FtI
 [/us/stat/106/2151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2151
 [/us/pl/99/371/s121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F371%2Fs121
 [/us/usc/t20/s4321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs4321
 [/us/pl/102/421]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F421
-[/us/pl/102/421]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F421
+[/us/pl/102/421/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F421%2FtI
 [/us/stat/106/2151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2151
-[/us/pl/99/371/s302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F371%2Fs302
+[/us/pl/99/371/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F371%2FtIII
 [/us/stat/100/786]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F786
-[/us/pl/101/476/s901/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F476%2Fs901%2Fa%2F2
+[/us/pl/101/476/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F476%2FtIX
 [/us/stat/104/1142]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1142
-[/us/pl/99/371/s303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F371%2Fs303
+[/us/pl/99/371/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F371%2FtIII
 [/us/stat/100/787]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F787
-[/us/pl/99/371/s304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F371%2Fs304
+[/us/pl/99/371/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F371%2FtIII
 [/us/stat/100/788]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F788
 
 

@@ -17,7 +17,7 @@
 
     On and after September 8, 1978, Gallaudet University and the National Technical Institute for the Deaf are authorized to make purchases through the General Services Administration.
 
-([Pub. L. 95–355, title I, § 100][/us/pl/95/355/s100], Sept. 8, 1978, [92 Stat. 531][/us/stat/92/531]; [Pub. L. 99–371, title I, § 101(a)][/us/pl/99/371/s101/a], Aug. 4, 1986, [100 Stat. 781][/us/stat/100/781].)
+([Pub. L. 95–355, title I][/us/pl/95/355/tI], § 100, Sept. 8, 1978, [92 Stat. 531][/us/stat/92/531]; [Pub. L. 99–371, title I][/us/pl/99/371/tI], § 101(a), Aug. 4, 1986, [100 Stat. 781][/us/stat/100/781].)
 
  __Codification__ 
 
@@ -36,9 +36,9 @@
 ----------
 ----------
 
-[/us/pl/95/355/s100]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F355%2Fs100
+[/us/pl/95/355/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F355%2FtI
 [/us/stat/92/531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F531
-[/us/pl/99/371/s101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F371%2Fs101%2Fa
+[/us/pl/99/371/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F371%2FtI
 [/us/stat/100/781]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F781
 [/us/usc/t20/s691i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs691i
 [/us/usc/t20/s686]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs686

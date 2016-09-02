@@ -33,17 +33,17 @@
 
     (8) “vending machine income” means receipts (other than those of a blind licensee) from vending machine operations on Federal property, after cost of goods sold (including reasonable service and maintenance costs), where the machines are operated, serviced, or maintained by, or with the approval of, a department, agency, or instrumentality of the United States, or commissions paid (other than to a blind licensee) by a commercial vending concern which operates, services, and maintains vending machines on Federal property for, or with the approval of, a department, agency, or instrumentality of the United States.
 
-([June 20, 1936, ch. 638, § 9][/us/act/1936-06-20/ch638/s9], formerly § 6, [49 Stat. 1560][/us/stat/49/1560]; [Aug. 3, 1954, ch. 655, § 4(f)][/us/act/1954-08-03/ch655/s4/f], [68 Stat. 664][/us/stat/68/664]; renumbered § 9 and amended [Pub. L. 93–516, title II][/us/pl/93/516], §§ 206, 207, Dec. 7, 1974, [88 Stat. 1626][/us/stat/88/1626], 1628; [Pub. L. 93–651, title II][/us/pl/93/651], §§ 206, 207, Nov. 21, 1974, [89 Stat. 2–11][/us/stat/89/2-11], 2–13; [Pub. L. 96–88, title III, § 301(a)(4)(B)][/us/pl/96/88/s301/a/4/B], title V, § 507, Oct. 17, 1979, [93 Stat. 678][/us/stat/93/678], 692.)
+([June 20, 1936, ch. 638][/us/act/1936-06-20/ch638], § 9, formerly § 6, [49 Stat. 1560][/us/stat/49/1560]; [Aug. 3, 1954, ch. 655][/us/act/1954-08-03/ch655], § 4(f), [68 Stat. 664][/us/stat/68/664]; renumbered § 9 and amended [Pub. L. 93–516, title II][/us/pl/93/516/tII], §§ 206, 207, Dec. 7, 1974, [88 Stat. 1626][/us/stat/88/1626], 1628; [Pub. L. 93–651, title II][/us/pl/93/651/tII], §§ 206, 207, Nov. 21, 1974, [89 Stat. 2–11][/us/stat/89/2-11], 2–13; [Pub. L. 96–88, title III][/us/pl/96/88/tIII], § 301(a)(4)(B), title V, § 507, Oct. 17, 1979, [93 Stat. 678][/us/stat/93/678], 692.)
 
  __Codification__ 
 
     The content of [Pub. L. 93–516][/us/pl/93/516], including provisions of sections 206 and 207 thereof which amended and renumbered this section, were originally contained in H.R. 14225, 93rd Congress, Second Session, which was pocket-vetoed during the 31-day intrasession adjournment of the 93rd Congress for the Congressional elections in November, 1974. See 1974 Amendment note below.
 
-    Pursuant to an order of the United States District Court for the District of Columbia (Kennedy v. Jones, D.C.D.C. 1976, 412 F.Supp. 353) H.R. 14225 was deemed to have become law without the approval of the President on Nov. 21, 1974, and was given the designation [Pub. L. 93–651][/us/pl/93/651]. Therefore, for purposes of codification, this section should be deemed to have been amended and renumbered by [Pub. L. 93–651, title II][/us/pl/93/651], §§ 206, 207, Nov. 21, 1974, [89 Stat. 2–11][/us/stat/89/2-11], 2–13, in exactly the same manner as it was amended and renumbered by [Pub. L. 93–516][/us/pl/93/516].
+    Pursuant to an order of the United States District Court for the District of Columbia (Kennedy v. Jones, D.C.D.C. 1976, 412 F.Supp. 353) H.R. 14225 was deemed to have become law without the approval of the President on Nov. 21, 1974, and was given the designation [Pub. L. 93–651][/us/pl/93/651]. Therefore, for purposes of codification, this section should be deemed to have been amended and renumbered by [Pub. L. 93–651, title II][/us/pl/93/651/tII], §§ 206, 207, Nov. 21, 1974, [89 Stat. 2–11][/us/stat/89/2-11], 2–13, in exactly the same manner as it was amended and renumbered by [Pub. L. 93–516][/us/pl/93/516].
 
  __Amendments__ 
 
-    1974—[Pub. L. 93–516, § 207][/us/pl/93/516/s207], replaced letter designations with number designations, inserted definitions of “Commissioner”, “vending facility”, and “vending machine income”, and in definition of “blind person” substituted provisions that such person meant a person whose central visual acuity does not exceed 20/200 in the better eye with correcting lenses or whose visual acuity, if better than 20/200, is accompanied by a limit to the field of vision in the better eye to such a degree that its widest diameter subtends an angle of no greater than twenty degrees, and that in determining whether a person is blind, there shall be an examination by a physician skilled in diseases of the eye, or by an optometrist, whichever the individual shall select, for provisions that such person meant a person having not more than 10 per centum visual acuity in the better eye with correction and that such blindness shall be certified by a duly licensed ophthalmologist, in definition of “United States” inserted reference to Puerto Rico, in definition of “State” inserted reference to Puerto Rico, and in definition of “Federal property” inserted reference to Department of Defense and United States Postal Service. An identical amendment was made by [Pub. L. 93–651][/us/pl/93/651]. See Codification note above.
+    1974—[Pub. L. 93–516][/us/pl/93/516], § 207, replaced letter designations with number designations, inserted definitions of “Commissioner”, “vending facility”, and “vending machine income”, and in definition of “blind person” substituted provisions that such person meant a person whose central visual acuity does not exceed 20/200 in the better eye with correcting lenses or whose visual acuity, if better than 20/200, is accompanied by a limit to the field of vision in the better eye to such a degree that its widest diameter subtends an angle of no greater than twenty degrees, and that in determining whether a person is blind, there shall be an examination by a physician skilled in diseases of the eye, or by an optometrist, whichever the individual shall select, for provisions that such person meant a person having not more than 10 per centum visual acuity in the better eye with correction and that such blindness shall be certified by a duly licensed ophthalmologist, in definition of “United States” inserted reference to Puerto Rico, in definition of “State” inserted reference to Puerto Rico, and in definition of “Federal property” inserted reference to Department of Defense and United States Postal Service. An identical amendment was made by [Pub. L. 93–651][/us/pl/93/651]. See Codification note above.
 
     1954—Subsecs. (d), (e). Act Aug. 3, 1954, added subsecs. (d) and (e).
 
@@ -65,22 +65,22 @@
 ----------
 
 [/us/usc/t20/s107a/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs107a%2Fa%2F5
-[/us/act/1936-06-20/ch638/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1936-06-20%2Fch638%2Fs9
+[/us/act/1936-06-20/ch638]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1936-06-20%2Fch638
 [/us/stat/49/1560]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F1560
-[/us/act/1954-08-03/ch655/s4/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-03%2Fch655%2Fs4%2Ff
+[/us/act/1954-08-03/ch655]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-03%2Fch655
 [/us/stat/68/664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68%2F664
-[/us/pl/93/516]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F516
+[/us/pl/93/516/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F516%2FtII
 [/us/stat/88/1626]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1626
-[/us/pl/93/651]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F651
+[/us/pl/93/651/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F651%2FtII
 [/us/stat/89/2-11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F2-11
-[/us/pl/96/88/s301/a/4/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F88%2Fs301%2Fa%2F4%2FB
+[/us/pl/96/88/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F88%2FtIII
 [/us/stat/93/678]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F678
 [/us/pl/93/516]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F516
 [/us/pl/93/651]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F651
-[/us/pl/93/651]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F651
+[/us/pl/93/651/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F651%2FtII
 [/us/stat/89/2-11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F2-11
 [/us/pl/93/516]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F516
-[/us/pl/93/516/s207]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F516%2Fs207
+[/us/pl/93/516]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F516
 [/us/pl/93/651]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F651
 [/us/usc/t29/s49b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs49b
 [/us/pl/96/88]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F88

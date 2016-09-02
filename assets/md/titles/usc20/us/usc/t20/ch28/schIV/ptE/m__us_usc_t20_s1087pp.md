@@ -1079,7 +1079,7 @@
 
         In the case of a student who is divorced or separated, or whose spouse has died, the spouse’s income and assets shall not be considered in determining the family’s contribution from income or assets.
 
-([Pub. L. 89–329, title IV, § 476][/us/pl/89/329/s476], as added [Pub. L. 99–498, title IV, § 406(a)][/us/pl/99/498/s406/a], Oct. 17, 1986, [100 Stat. 1463][/us/stat/100/1463]; amended [Pub. L. 100–50, § 14(1)][/us/pl/100/50/s14/1], (3), (4), (13)–(17), June 3, 1987, [101 Stat. 349][/us/stat/101/349], 351; [Pub. L. 102–325, title IV, § 471(a)][/us/pl/102/325/s471/a], July 23, 1992, [106 Stat. 594][/us/stat/106/594]; [Pub. L. 103–208, § 2(g)(6)][/us/pl/103/208/s2/g/6], Dec. 20, 1993, [107 Stat. 2472][/us/stat/107/2472]; [Pub. L. 105–78, title VI, § 609(h)][/us/pl/105/78/s609/h], Nov. 13, 1997, [111 Stat. 1524][/us/stat/111/1524]; [Pub. L. 105–244, title IV, § 474][/us/pl/105/244/s474], Oct. 7, 1998, [112 Stat. 1730][/us/stat/112/1730]; [Pub. L. 109–171, title VIII, § 8017(b)(1)][/us/pl/109/171/s8017/b/1], Feb. 8, 2006, [120 Stat. 173][/us/stat/120/173]; [Pub. L. 110–84, title VI, § 601(b)][/us/pl/110/84/s601/b], Sept. 27, 2007, [121 Stat. 801][/us/stat/121/801].)
+([Pub. L. 89–329, title IV][/us/pl/89/329/tIV], § 476, as added [Pub. L. 99–498, title IV][/us/pl/99/498/tIV], § 406(a), Oct. 17, 1986, [100 Stat. 1463][/us/stat/100/1463]; amended [Pub. L. 100–50][/us/pl/100/50], § 14(1), (3), (4), (13)–(17), June 3, 1987, [101 Stat. 349][/us/stat/101/349], 351; [Pub. L. 102–325, title IV][/us/pl/102/325/tIV], § 471(a), July 23, 1992, [106 Stat. 594][/us/stat/106/594]; [Pub. L. 103–208][/us/pl/103/208], § 2(g)(6), Dec. 20, 1993, [107 Stat. 2472][/us/stat/107/2472]; [Pub. L. 105–78, title VI][/us/pl/105/78/tVI], § 609(h), Nov. 13, 1997, [111 Stat. 1524][/us/stat/111/1524]; [Pub. L. 105–244, title IV][/us/pl/105/244/tIV], § 474, Oct. 7, 1998, [112 Stat. 1730][/us/stat/112/1730]; [Pub. L. 109–171, title VIII][/us/pl/109/171/tVIII], § 8017(b)(1), Feb. 8, 2006, [120 Stat. 173][/us/stat/120/173]; [Pub. L. 110–84, title VI][/us/pl/110/84/tVI], § 601(b), Sept. 27, 2007, [121 Stat. 801][/us/stat/121/801].)
 
  __Amendments__ 
 
@@ -1091,17 +1091,17 @@
 
     “(III) $9,700 for married students where one is enrolled pursuant to subsection (a)(2) of this section;”.
 
-    2006—Subsec. (b)(1)(A)(iv). [Pub. L. 109–171, § 8017(b)(1)(A)][/us/pl/109/171/s8017/b/1/A], substituted “$6,050” for “$5,000” in subcls. (I) and (II) and “$9,700” for “$8,000” in subcl. (III).
+    2006—Subsec. (b)(1)(A)(iv). [Pub. L. 109–171][/us/pl/109/171], § 8017(b)(1)(A), substituted “$6,050” for “$5,000” in subcls. (I) and (II) and “$9,700” for “$8,000” in subcl. (III).
 
-    Subsec. (c)(4). [Pub. L. 109–171, § 8017(b)(1)(B)][/us/pl/109/171/s8017/b/1/B], substituted “20” for “35”.
+    Subsec. (c)(4). [Pub. L. 109–171][/us/pl/109/171], § 8017(b)(1)(B), substituted “20” for “35”.
 
-    1998—Subsec. (a)(3). [Pub. L. 105–244, § 474(a)][/us/pl/105/244/s474/a], added par. (3).
+    1998—Subsec. (a)(3). [Pub. L. 105–244][/us/pl/105/244], § 474(a), added par. (3).
 
-    Subsec. (b)(1)(A)(iv). [Pub. L. 105–244, § 474(b)(1)][/us/pl/105/244/s474/b/1], in introductory provisions, substituted “allowance of the following amount (or a successor amount prescribed by the Secretary under [section 1087rr of this title][/us/usc/t20/s1087rr])—” for “allowance of—”.
+    Subsec. (b)(1)(A)(iv). [Pub. L. 105–244][/us/pl/105/244], § 474(b)(1), in introductory provisions, substituted “allowance of the following amount (or a successor amount prescribed by the Secretary under [section 1087rr of this title][/us/usc/t20/s1087rr])—” for “allowance of—”.
 
-    Subsec. (b)(1)(A)(iv)(I), (II). [Pub. L. 105–244, § 474(b)(2)][/us/pl/105/244/s474/b/2], substituted “$5,000” for “$3,000”.
+    Subsec. (b)(1)(A)(iv)(I), (II). [Pub. L. 105–244][/us/pl/105/244], § 474(b)(2), substituted “$5,000” for “$3,000”.
 
-    Subsec. (b)(1)(A)(iv)(III). [Pub. L. 105–244, § 474(b)(3)][/us/pl/105/244/s474/b/3], substituted “$8,000” for “$6,000”.
+    Subsec. (b)(1)(A)(iv)(III). [Pub. L. 105–244][/us/pl/105/244], § 474(b)(3), substituted “$8,000” for “$6,000”.
 
     1997—Subsec. (b)(1)(A)(vi). [Pub. L. 105–78][/us/pl/105/78] added cl. (vi).
 
@@ -1109,25 +1109,25 @@
 
     1992—[Pub. L. 102–325][/us/pl/102/325] amended section generally, substituting provisions relating to family contribution for independent students without dependents other than a spouse for provisions relating to family contribution for independent students without dependents (including a spouse).
 
-    1987—Subsec. (b)(1)(A), (B). [Pub. L. 100–50, § 14(13)(B)][/us/pl/100/50/s14/13/B], (C), substituted subpar. (A) and introductory provisions of subpar. (B) for introductory provisions of former subpar. (A) which read as follows: “computing the student’s available taxable income by deducting from the student’s adjusted gross income—”. Former subpar. (B) redesignated (C).
+    1987—Subsec. (b)(1)(A), (B). [Pub. L. 100–50][/us/pl/100/50], § 14(13)(B), (C), substituted subpar. (A) and introductory provisions of subpar. (B) for introductory provisions of former subpar. (A) which read as follows: “computing the student’s available taxable income by deducting from the student’s adjusted gross income—”. Former subpar. (B) redesignated (C).
 
-    Subsec. (b)(1)(C). [Pub. L. 100–50, § 14(13)(B)][/us/pl/100/50/s14/13/B], redesignated subpar. (B) as (C). Former subpar. (C) redesignated (D).
+    Subsec. (b)(1)(C). [Pub. L. 100–50][/us/pl/100/50], § 14(13)(B), redesignated subpar. (B) as (C). Former subpar. (C) redesignated (D).
 
-    Subsec. (b)(1)(D). [Pub. L. 100–50, § 14(15)][/us/pl/100/50/s14/15], which directed that subsec. (b)(1)(C) be amended by inserting “plus the amount of veterans’ benefits paid during the award period under chapters 32, 34, and 35 of title 28”, was executed to subpar. (D) to reflect the probable intent of Congress and the intervening redesignation of subpar. (C) as (D) by [section 14(13)(B) of Pub. L. 100–50][/us/pl/100/50/s14/13/B].
+    Subsec. (b)(1)(D). [Pub. L. 100–50][/us/pl/100/50], § 14(15), which directed that subsec. (b)(1)(C) be amended by inserting “plus the amount of veterans’ benefits paid during the award period under chapters 32, 34, and 35 of title 28”, was executed to subpar. (D) to reflect the probable intent of Congress and the intervening redesignation of subpar. (C) as (D) by [section 14(13)(B) of Pub. L. 100–50][/us/pl/100/50/s14/13/B].
 
-    [Pub. L. 100–50, § 14(13)(A)][/us/pl/100/50/s14/13/A], (B), redesignated subpar. (C) as (D) and substituted “subparagraph (C)” for “subparagraph (B)”.
+    [Pub. L. 100–50][/us/pl/100/50], § 14(13)(A), (B), redesignated subpar. (C) as (D) and substituted “subparagraph (C)” for “subparagraph (B)”.
 
-    Subsec. (b)(2). [Pub. L. 100–50, § 14(1)][/us/pl/100/50/s14/1], (14), substituted “total income” for “total taxable income” and “[section 1087rr of this title][/us/usc/t20/s1087rr]” for “[section 1087ss of this title][/us/usc/t20/s1087ss]”.
+    Subsec. (b)(2). [Pub. L. 100–50][/us/pl/100/50], § 14(1), (14), substituted “total income” for “total taxable income” and “[section 1087rr of this title][/us/usc/t20/s1087rr]” for “[section 1087ss of this title][/us/usc/t20/s1087ss]”.
 
-    Subsec. (b)(4)(A). [Pub. L. 100–50, § 14(16)(A)][/us/pl/100/50/s14/16/A], substituted “$8,600” for “$8,900”.
+    Subsec. (b)(4)(A). [Pub. L. 100–50][/us/pl/100/50], § 14(16)(A), substituted “$8,600” for “$8,900”.
 
-    Subsec. (b)(4)(B). [Pub. L. 100–50, § 14(16)][/us/pl/100/50/s14/16], substituted “$8,600” for “$8,900” in two places and “$6,020” for “$6,230”.
+    Subsec. (b)(4)(B). [Pub. L. 100–50][/us/pl/100/50], § 14(16), substituted “$8,600” for “$8,900” in two places and “$6,020” for “$6,230”.
 
-    Subsec. (c)(1). [Pub. L. 100–50, § 14(17)][/us/pl/100/50/s14/17], substituted a semicolon for a period at end of subpar. (C) and inserted, after subpar. (C), provision that the student’s income supplemental amount from assets not be less than zero.
+    Subsec. (c)(1). [Pub. L. 100–50][/us/pl/100/50], § 14(17), substituted a semicolon for a period at end of subpar. (C) and inserted, after subpar. (C), provision that the student’s income supplemental amount from assets not be less than zero.
 
-    Subsec. (c)(2)(B). [Pub. L. 100–50, § 14(3)][/us/pl/100/50/s14/3], substituted “displaced homemaker” for “dislocated homemaker”.
+    Subsec. (c)(2)(B). [Pub. L. 100–50][/us/pl/100/50], § 14(3), substituted “displaced homemaker” for “dislocated homemaker”.
 
-    Subsec. (c)(2)(C). [Pub. L. 100–50, § 14(4)][/us/pl/100/50/s14/4], added table and struck out former table which read as follows:
+    Subsec. (c)(2)(C). [Pub. L. 100–50][/us/pl/100/50], § 14(4), added table and struck out former table which read as follows:
 
 <table>
 
@@ -1213,7 +1213,7 @@ $169,000 plus 100 percent of NW over $325,000”.  </td>
 
 </table>
 
-    [Pub. L. 100–50, § 14(1)][/us/pl/100/50/s14/1], substituted “[section 1087rr of this title][/us/usc/t20/s1087rr]” for “[section 1087ss of this title][/us/usc/t20/s1087ss]”.
+    [Pub. L. 100–50][/us/pl/100/50], § 14(1), substituted “[section 1087rr of this title][/us/usc/t20/s1087rr]” for “[section 1087ss of this title][/us/usc/t20/s1087ss]”.
 
  __Effective Date of 2007 Amendment__ 
 
@@ -1223,7 +1223,7 @@ $169,000 plus 100 percent of NW over $325,000”.  </td>
 
     Amendment by [Pub. L. 109–171][/us/pl/109/171] effective July 1, 2006, except as otherwise provided, see [section 8001(c) of Pub. L. 109–171][/us/pl/109/171/s8001/c], set out as a note under [section 1002 of this title][/us/usc/t20/s1002].
 
-[Pub. L. 109–171, title VIII, § 8017(b)(2)][/us/pl/109/171/s8017/b/2], Feb. 8, 2006, [120 Stat. 173][/us/stat/120/173], provided that: 
+[Pub. L. 109–171, title VIII][/us/pl/109/171/tVIII], § 8017(b)(2), Feb. 8, 2006, [120 Stat. 173][/us/stat/120/173], provided that: 
 
 > “The amendments made by paragraph (1) \[amending this section\] shall apply with respect to determinations of need for periods of enrollment beginning on or after July 1, 2007.”
 
@@ -1260,49 +1260,49 @@ $169,000 plus 100 percent of NW over $325,000”.  </td>
 [/us/usc/t20/s1087rr]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1087rr
 [/us/usc/t20/s1087vv/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1087vv%2Ff
 [/us/usc/t20/s1087rr]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1087rr
-[/us/pl/89/329/s476]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2Fs476
-[/us/pl/99/498/s406/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F498%2Fs406%2Fa
+[/us/pl/89/329/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2FtIV
+[/us/pl/99/498/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F498%2FtIV
 [/us/stat/100/1463]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1463
-[/us/pl/100/50/s14/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F50%2Fs14%2F1
+[/us/pl/100/50]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F50
 [/us/stat/101/349]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F349
-[/us/pl/102/325/s471/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325%2Fs471%2Fa
+[/us/pl/102/325/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325%2FtIV
 [/us/stat/106/594]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F594
-[/us/pl/103/208/s2/g/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F208%2Fs2%2Fg%2F6
+[/us/pl/103/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F208
 [/us/stat/107/2472]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F2472
-[/us/pl/105/78/s609/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F78%2Fs609%2Fh
+[/us/pl/105/78/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F78%2FtVI
 [/us/stat/111/1524]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1524
-[/us/pl/105/244/s474]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2Fs474
+[/us/pl/105/244/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2FtIV
 [/us/stat/112/1730]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F1730
-[/us/pl/109/171/s8017/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F171%2Fs8017%2Fb%2F1
+[/us/pl/109/171/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F171%2FtVIII
 [/us/stat/120/173]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F173
-[/us/pl/110/84/s601/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F84%2Fs601%2Fb
+[/us/pl/110/84/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F84%2FtVI
 [/us/stat/121/801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F801
 [/us/pl/110/84]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F84
 [/us/usc/t20/s1087rr]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1087rr
-[/us/pl/109/171/s8017/b/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F171%2Fs8017%2Fb%2F1%2FA
-[/us/pl/109/171/s8017/b/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F171%2Fs8017%2Fb%2F1%2FB
-[/us/pl/105/244/s474/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2Fs474%2Fa
-[/us/pl/105/244/s474/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2Fs474%2Fb%2F1
+[/us/pl/109/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F171
+[/us/pl/109/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F171
+[/us/pl/105/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244
+[/us/pl/105/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244
 [/us/usc/t20/s1087rr]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1087rr
-[/us/pl/105/244/s474/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2Fs474%2Fb%2F2
-[/us/pl/105/244/s474/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2Fs474%2Fb%2F3
+[/us/pl/105/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244
+[/us/pl/105/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244
 [/us/pl/105/78]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F78
 [/us/pl/103/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F208
 [/us/pl/102/325]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325
+[/us/pl/100/50]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F50
+[/us/pl/100/50]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F50
+[/us/pl/100/50]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F50
 [/us/pl/100/50/s14/13/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F50%2Fs14%2F13%2FB
-[/us/pl/100/50/s14/13/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F50%2Fs14%2F13%2FB
-[/us/pl/100/50/s14/15]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F50%2Fs14%2F15
-[/us/pl/100/50/s14/13/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F50%2Fs14%2F13%2FB
-[/us/pl/100/50/s14/13/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F50%2Fs14%2F13%2FA
-[/us/pl/100/50/s14/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F50%2Fs14%2F1
+[/us/pl/100/50]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F50
+[/us/pl/100/50]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F50
 [/us/usc/t20/s1087rr]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1087rr
 [/us/usc/t20/s1087ss]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1087ss
-[/us/pl/100/50/s14/16/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F50%2Fs14%2F16%2FA
-[/us/pl/100/50/s14/16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F50%2Fs14%2F16
-[/us/pl/100/50/s14/17]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F50%2Fs14%2F17
-[/us/pl/100/50/s14/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F50%2Fs14%2F3
-[/us/pl/100/50/s14/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F50%2Fs14%2F4
-[/us/pl/100/50/s14/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F50%2Fs14%2F1
+[/us/pl/100/50]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F50
+[/us/pl/100/50]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F50
+[/us/pl/100/50]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F50
+[/us/pl/100/50]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F50
+[/us/pl/100/50]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F50
+[/us/pl/100/50]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F50
 [/us/usc/t20/s1087rr]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1087rr
 [/us/usc/t20/s1087ss]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1087ss
 [/us/pl/110/84]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F84
@@ -1310,7 +1310,7 @@ $169,000 plus 100 percent of NW over $325,000”.  </td>
 [/us/pl/109/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F171
 [/us/pl/109/171/s8001/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F171%2Fs8001%2Fc
 [/us/usc/t20/s1002]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1002
-[/us/pl/109/171/s8017/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F171%2Fs8017%2Fb%2F2
+[/us/pl/109/171/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F171%2FtVIII
 [/us/stat/120/173]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F173
 [/us/pl/105/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244
 [/us/pl/105/244/s480A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2Fs480A

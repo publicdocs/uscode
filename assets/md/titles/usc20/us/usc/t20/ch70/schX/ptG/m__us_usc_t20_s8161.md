@@ -13,9 +13,9 @@
 
 [Previous](./../../../../../..//us/usc/t20/ch70/schX/ptG/m__us_usc_t20_ch70_schX_ptG.md) | [Next](./../../../../../..//us/usc/t20/ch70/schX/ptG/spt1/m__us_usc_t20_ch70_schX_ptG_spt1.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs8161)
 
-## § 8161. Repealed. [Pub. L. 107–110, title X, § 1011(5)(A)][/us/pl/107/110/s1011/5/A], Jan. 8, 2002, [115 Stat. 1986][/us/stat/115/1986]
+## § 8161. Repealed. [Pub. L. 107–110, title X][/us/pl/107/110/tX], § 1011(5)(A), Jan. 8, 2002, [115 Stat. 1986][/us/stat/115/1986]
 
-    Section, [Pub. L. 89–10, title X, § 10701][/us/pl/89/10/s10701], as added [Pub. L. 103–382, title I, § 101][/us/pl/103/382/s101], Oct. 20, 1994, [108 Stat. 3841][/us/stat/108/3841], set forth findings.
+    Section, [Pub. L. 89–10, title X][/us/pl/89/10/tX], § 10701, as added [Pub. L. 103–382, title I][/us/pl/103/382/tI], § 101, Oct. 20, 1994, [108 Stat. 3841][/us/stat/108/3841], set forth findings.
 
 ----------
 
@@ -24,10 +24,10 @@
 ----------
 ----------
 
-[/us/pl/107/110/s1011/5/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F110%2Fs1011%2F5%2FA
+[/us/pl/107/110/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F110%2FtX
 [/us/stat/115/1986]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F1986
-[/us/pl/89/10/s10701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F10%2Fs10701
-[/us/pl/103/382/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F382%2Fs101
+[/us/pl/89/10/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F10%2FtX
+[/us/pl/103/382/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F382%2FtI
 [/us/stat/108/3841]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3841
 
 

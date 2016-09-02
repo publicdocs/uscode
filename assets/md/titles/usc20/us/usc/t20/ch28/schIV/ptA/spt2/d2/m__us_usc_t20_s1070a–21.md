@@ -77,15 +77,15 @@
 
             (B) which may include not less than two other community organizations or entities, such as businesses, professional organizations, State agencies, institutions or agencies sponsoring programs authorized under subpart 4, or other public or private agencies or organizations.
 
-([Pub. L. 89–329, title IV, § 404A][/us/pl/89/329/s404A], as added [Pub. L. 105–244, title IV, § 403][/us/pl/105/244/s403], Oct. 7, 1998, [112 Stat. 1656][/us/stat/112/1656]; amended [Pub. L. 110–315, title IV, § 404(a)][/us/pl/110/315/s404/a], Aug. 14, 2008, [122 Stat. 3206][/us/stat/122/3206].)
+([Pub. L. 89–329, title IV][/us/pl/89/329/tIV], § 404A, as added [Pub. L. 105–244, title IV][/us/pl/105/244/tIV], § 403, Oct. 7, 1998, [112 Stat. 1656][/us/stat/112/1656]; amended [Pub. L. 110–315, title IV][/us/pl/110/315/tIV], § 404(a), Aug. 14, 2008, [122 Stat. 3206][/us/stat/122/3206].)
 
  __Prior Provisions__ 
 
-    A prior section 1070a–21, [Pub. L. 89–329, title IV, § 404A][/us/pl/89/329/s404A], as added [Pub. L. 102–325, title IV, § 402(a)(4)][/us/pl/102/325/s402/a/4], July 23, 1992, [106 Stat. 492][/us/stat/106/492]; amended [Pub. L. 103–208, § 2(b)(12)][/us/pl/103/208/s2/b/12], Dec. 20, 1993, [107 Stat. 2459][/us/stat/107/2459], authorized establishment of early intervention program, prior to the general amendment of this division by [Pub. L. 105–244][/us/pl/105/244].
+    A prior section 1070a–21, [Pub. L. 89–329, title IV][/us/pl/89/329/tIV], § 404A, as added [Pub. L. 102–325, title IV][/us/pl/102/325/tIV], § 402(a)(4), July 23, 1992, [106 Stat. 492][/us/stat/106/492]; amended [Pub. L. 103–208][/us/pl/103/208], § 2(b)(12), Dec. 20, 1993, [107 Stat. 2459][/us/stat/107/2459], authorized establishment of early intervention program, prior to the general amendment of this division by [Pub. L. 105–244][/us/pl/105/244].
 
  __Amendments__ 
 
-    2008—Subsec. (a). [Pub. L. 110–315, § 404(a)(1)][/us/pl/110/315/s404/a/1], added subsec. (a) and struck out former subsec. (a). Prior to amendment, text read as follows: “The Secretary is authorized, in accordance with the requirements of this division, to establish a program that—
+    2008—Subsec. (a). [Pub. L. 110–315][/us/pl/110/315], § 404(a)(1), added subsec. (a) and struck out former subsec. (a). Prior to amendment, text read as follows: “The Secretary is authorized, in accordance with the requirements of this division, to establish a program that—
 
     “(1) encourages eligible entities to provide or maintain a guarantee to eligible low-income students who obtain a secondary school diploma (or its recognized equivalent), of the financial assistance necessary to permit the students to attend an institution of higher education; and
 
@@ -95,9 +95,9 @@
 
     “(B) information to students and their parents about the advantages of obtaining a postsecondary education and the college financing options for the students and their parents.”
 
-    Subsec. (b)(2), (3). [Pub. L. 110–315, § 404(a)(2)][/us/pl/110/315/s404/a/2], added pars. (2) and (3) and struck out former par. (2) which related to priority in making awards to eligible entities.
+    Subsec. (b)(2), (3). [Pub. L. 110–315][/us/pl/110/315], § 404(a)(2), added pars. (2) and (3) and struck out former par. (2) which related to priority in making awards to eligible entities.
 
-    Subsec. (c)(2). [Pub. L. 110–315, § 404(a)(3)][/us/pl/110/315/s404/a/3], added par. (2) and struck out former par. (2). Prior to amendment, text read as follows: “a partnership consisting of—
+    Subsec. (c)(2). [Pub. L. 110–315][/us/pl/110/315], § 404(a)(3), added par. (2) and struck out former par. (2). Prior to amendment, text read as follows: “a partnership consisting of—
 
     “(A) one or more local educational agencies acting on behalf of—
 
@@ -115,7 +115,7 @@
 
  __Evaluation of Tuition Guaranty Programs__ 
 
-    [Pub. L. 102–325, title XIV, § 1407][/us/pl/102/325/s1407], July 23, 1992, [106 Stat. 819][/us/stat/106/819], directed Secretary of Education to conduct study of effectiveness of programs for disadvantaged children that promise the child financial resources needed to pursue postsecondary education in exchange for child’s commitment to achieve satisfactory elementary and secondary education, and to submit reports regarding study by June 30, 1996, and by Jan. 1, 1997, to committees of Congress, prior to repeal by [Pub. L. 105–332, § 6(b)(2)][/us/pl/105/332/s6/b/2], Oct. 31, 1998, [112 Stat. 3128][/us/stat/112/3128].
+    [Pub. L. 102–325, title XIV][/us/pl/102/325/tXIV], § 1407, July 23, 1992, [106 Stat. 819][/us/stat/106/819], directed Secretary of Education to conduct study of effectiveness of programs for disadvantaged children that promise the child financial resources needed to pursue postsecondary education in exchange for child’s commitment to achieve satisfactory elementary and secondary education, and to submit reports regarding study by June 30, 1996, and by Jan. 1, 1997, to committees of Congress, prior to repeal by [Pub. L. 105–332][/us/pl/105/332], § 6(b)(2), Oct. 31, 1998, [112 Stat. 3128][/us/stat/112/3128].
 
 ----------
 
@@ -125,26 +125,26 @@
 ----------
 
 [/us/usc/t20/s1070a–28]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1070a%E2%80%9328
-[/us/pl/89/329/s404A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2Fs404A
-[/us/pl/105/244/s403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2Fs403
+[/us/pl/89/329/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2FtIV
+[/us/pl/105/244/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2FtIV
 [/us/stat/112/1656]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F1656
-[/us/pl/110/315/s404/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2Fs404%2Fa
+[/us/pl/110/315/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2FtIV
 [/us/stat/122/3206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3206
-[/us/pl/89/329/s404A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2Fs404A
-[/us/pl/102/325/s402/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325%2Fs402%2Fa%2F4
+[/us/pl/89/329/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2FtIV
+[/us/pl/102/325/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325%2FtIV
 [/us/stat/106/492]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F492
-[/us/pl/103/208/s2/b/12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F208%2Fs2%2Fb%2F12
+[/us/pl/103/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F208
 [/us/stat/107/2459]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F2459
 [/us/pl/105/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244
-[/us/pl/110/315/s404/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2Fs404%2Fa%2F1
-[/us/pl/110/315/s404/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2Fs404%2Fa%2F2
-[/us/pl/110/315/s404/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2Fs404%2Fa%2F3
+[/us/pl/110/315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315
+[/us/pl/110/315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315
+[/us/pl/110/315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315
 [/us/pl/105/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244
 [/us/pl/105/244/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2Fs3
 [/us/usc/t20/s1001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1001
-[/us/pl/102/325/s1407]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325%2Fs1407
+[/us/pl/102/325/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325%2FtXIV
 [/us/stat/106/819]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F819
-[/us/pl/105/332/s6/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F332%2Fs6%2Fb%2F2
+[/us/pl/105/332]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F332
 [/us/stat/112/3128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F3128
 
 

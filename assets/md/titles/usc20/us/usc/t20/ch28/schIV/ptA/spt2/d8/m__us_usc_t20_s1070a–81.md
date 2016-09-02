@@ -13,9 +13,9 @@
 
 [Previous](./../../../../../../../..//us/usc/t20/ch28/schIV/ptA/spt2/d8/m__us_usc_t20_ch28_schIV_ptA_spt2_d8.md) | [Next](./../../../../../../../..//us/usc/t20/ch28/schIV/ptA/spt3/m__us_usc_t20_ch28_schIV_ptA_spt3.md) | [Root of Title](./../../../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1070a%E2%80%9381)
 
-## § 1070a–81. Repealed. [Pub. L. 105–244, title IV, § 405][/us/pl/105/244/s405], Oct. 7, 1998, [112 Stat. 1664][/us/stat/112/1664]
+## § 1070a–81. Repealed. [Pub. L. 105–244, title IV][/us/pl/105/244/tIV], § 405, Oct. 7, 1998, [112 Stat. 1664][/us/stat/112/1664]
 
-    Section, [Pub. L. 89–329, title IV, § 410C][/us/pl/89/329/s410C], as added [Pub. L. 102–325, title IV, § 402(a)(4)][/us/pl/102/325/s402/a/4], July 23, 1992, [106 Stat. 504][/us/stat/106/504], related to technical assistance grants.
+    Section, [Pub. L. 89–329, title IV][/us/pl/89/329/tIV], § 410C, as added [Pub. L. 102–325, title IV][/us/pl/102/325/tIV], § 402(a)(4), July 23, 1992, [106 Stat. 504][/us/stat/106/504], related to technical assistance grants.
 
  __Effective Date of Repeal__ 
 
@@ -28,10 +28,10 @@
 ----------
 ----------
 
-[/us/pl/105/244/s405]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2Fs405
+[/us/pl/105/244/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2FtIV
 [/us/stat/112/1664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F1664
-[/us/pl/89/329/s410C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2Fs410C
-[/us/pl/102/325/s402/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325%2Fs402%2Fa%2F4
+[/us/pl/89/329/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2FtIV
+[/us/pl/102/325/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325%2FtIV
 [/us/stat/106/504]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F504
 [/us/pl/105/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244
 [/us/pl/105/244/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2Fs3

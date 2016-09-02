@@ -23,7 +23,7 @@
 
     (3) encourage partnerships in education between the business community, institutions of higher education, and elementary and secondary schools in the community.
 
-([Pub. L. 98–377, title III, § 302][/us/pl/98/377/s302], Aug. 11, 1984, [98 Stat. 1283][/us/stat/98/1283]; [Pub. L. 100–418, title VI, § 6031(b)(2)][/us/pl/100/418/s6031/b/2], Aug. 23, 1988, [102 Stat. 1483][/us/stat/102/1483].)
+([Pub. L. 98–377, title III][/us/pl/98/377/tIII], § 302, Aug. 11, 1984, [98 Stat. 1283][/us/stat/98/1283]; [Pub. L. 100–418, title VI][/us/pl/100/418/tVI], § 6031(b)(2), Aug. 23, 1988, [102 Stat. 1483][/us/stat/102/1483].)
 
  __Amendments__ 
 
@@ -31,7 +31,7 @@
 
  __Short Title__ 
 
-[Pub. L. 98–377, title III, § 301][/us/pl/98/377/s301], Aug. 11, 1984, [98 Stat. 1283][/us/stat/98/1283], as amended by [Pub. L. 100–418, title VI, § 6031(b)(2)][/us/pl/100/418/s6031/b/2], Aug. 23, 1988, [102 Stat. 1483][/us/stat/102/1483], provided that: 
+[Pub. L. 98–377, title III][/us/pl/98/377/tIII], § 301, Aug. 11, 1984, [98 Stat. 1283][/us/stat/98/1283], as amended by [Pub. L. 100–418, title VI][/us/pl/100/418/tVI], § 6031(b)(2), Aug. 23, 1988, [102 Stat. 1483][/us/stat/102/1483], provided that: 
 
 > “This part \[part A (§§ 301–309) of title III of [Pub. L. 98–377][/us/pl/98/377] enacting this part\] may be cited as the ‘Partnerships in Education for Mathematics, Science, and Engineering Act’.”
 
@@ -42,14 +42,14 @@
 ----------
 ----------
 
-[/us/pl/98/377/s302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F377%2Fs302
+[/us/pl/98/377/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F377%2FtIII
 [/us/stat/98/1283]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F1283
-[/us/pl/100/418/s6031/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2Fs6031%2Fb%2F2
+[/us/pl/100/418/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2FtVI
 [/us/stat/102/1483]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1483
 [/us/pl/100/418]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418
-[/us/pl/98/377/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F377%2Fs301
+[/us/pl/98/377/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F377%2FtIII
 [/us/stat/98/1283]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F1283
-[/us/pl/100/418/s6031/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2Fs6031%2Fb%2F2
+[/us/pl/100/418/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2FtVI
 [/us/stat/102/1483]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1483
 [/us/pl/98/377]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F377
 

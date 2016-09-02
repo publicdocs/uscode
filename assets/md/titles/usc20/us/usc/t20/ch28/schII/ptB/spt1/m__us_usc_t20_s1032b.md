@@ -49,7 +49,7 @@
 
     (7) A plan for the evaluation of the project, which shall include benchmarks to monitor progress toward specific project objectives.
 
-([Pub. L. 89–329, title II, § 233][/us/pl/89/329/s233], as added [Pub. L. 110–315, title II, § 201(3)][/us/pl/110/315/s201/3], Aug. 14, 2008, [122 Stat. 3157][/us/stat/122/3157].)
+([Pub. L. 89–329, title II][/us/pl/89/329/tII], § 233, as added [Pub. L. 110–315, title II][/us/pl/110/315/tII], § 201(3), Aug. 14, 2008, [122 Stat. 3157][/us/stat/122/3157].)
 
  __Prior Provisions__ 
 
@@ -62,8 +62,8 @@
 ----------
 ----------
 
-[/us/pl/89/329/s233]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2Fs233
-[/us/pl/110/315/s201/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2Fs201%2F3
+[/us/pl/89/329/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2FtII
+[/us/pl/110/315/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2FtII
 [/us/stat/122/3157]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3157
 [/us/pl/89/329/s233]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2Fs233
 [/us/usc/t20/s1043]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1043

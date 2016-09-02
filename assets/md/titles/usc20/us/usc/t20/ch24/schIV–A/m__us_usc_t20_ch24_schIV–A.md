@@ -11,13 +11,13 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t20/ch24/schIV/m__us_usc_t20_ch24_schIV.md) | [Next](./../../../../..//us/usc/t20/ch24/schIV–A/m__us_usc_t20_s880b.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fch24%2FschIV%E2%80%93A)
+[Previous](./../../../../..//us/usc/t20/ch24/schIV/m__us_usc_t20_s871...880a.md) | [Next](./../../../../..//us/usc/t20/ch24/schIV–A/m__us_usc_t20_s880b.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fch24%2FschIV%E2%80%93A)
 
 ### SUBCHAPTER IV–A—BILINGUAL EDUCATION
 
 ----------
 
-[Previous](./../../../../..//us/usc/t20/ch24/schIV/m__us_usc_t20_ch24_schIV.md) | [Next](./../../../../..//us/usc/t20/ch24/schIV–A/m__us_usc_t20_s880b.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fch24%2FschIV%E2%80%93A)
+[Previous](./../../../../..//us/usc/t20/ch24/schIV/m__us_usc_t20_s871...880a.md) | [Next](./../../../../..//us/usc/t20/ch24/schIV–A/m__us_usc_t20_s880b.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fch24%2FschIV%E2%80%93A)
 
 ----------
 ----------

@@ -23,7 +23,7 @@
 
         The Board of Regents of the Smithsonian Institution is authorized to remove any existing structure, to prepare architectural and engineering designs, plans, and specifications, and to construct a suitable museum within said area lying south of Jefferson Drive and to provide a sculpture garden for the use of the Smithsonian Institution within the areas designated in subsection (a) of this section.
 
-([Pub. L. 89–788, § 1][/us/pl/89/788/s1], Nov. 7, 1966, [80 Stat. 1403][/us/stat/80/1403].)
+([Pub. L. 89–788][/us/pl/89/788], § 1, Nov. 7, 1966, [80 Stat. 1403][/us/stat/80/1403].)
 
 ----------
 
@@ -32,7 +32,7 @@
 ----------
 ----------
 
-[/us/pl/89/788/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F788%2Fs1
+[/us/pl/89/788]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F788
 [/us/stat/80/1403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F1403
 
 

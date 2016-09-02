@@ -39,7 +39,7 @@
 
                 (i) data on in-service professional development, including a comparison of courses taken in the core academic areas of reading, mathematics, and science with courses in noncore academic areas, including technology courses; and
 
-                (ii) the percentage of teachers who are highly qualified (as such term is defined in section 9101 of the Elementary and Secondary Education Act of 1965 ([20 U.S.C. 7801][/us/usc/t20/s7801])) in each State and, where feasible, in each local educational agency and school;
+                (ii) the percentage of teachers who meet the applicable State certification and licensure requirements, including any requirements for certification obtained through alternative routes to certification, or, with regard to special education teachers, the qualifications described in section 612(a)(14)(C) of the Individuals with Disabilities Education Act ([20 U.S.C. 1412(a)(14)(C)][/us/usc/t20/s1412/a/14/C].  <sup>\[1\]</sup>  <sup><sup> 1 So in original. The period probably should be another closing parenthesis. </sup></sup>  in each State and, where feasible, in each local educational agency and school;
 
             (G) instruction, the conditions of the education workplace, and the supply of, and demand for, teachers;
 
@@ -87,15 +87,23 @@
 
         The Statistics Commissioner may establish a program to train employees of public and private educational agencies, organizations, and institutions in the use of standard statistical procedures and concepts, and may establish a fellowship program to appoint such employees as temporary fellows at the Statistics Center, in order to assist the Statistics Center in carrying out its duties.
 
-([Pub. L. 107–279, title I, § 153][/us/pl/107/279/s153], Nov. 5, 2002, [116 Stat. 1958][/us/stat/116/1958].)
+([Pub. L. 107–279, title I][/us/pl/107/279/tI], § 153, Nov. 5, 2002, [116 Stat. 1958][/us/stat/116/1958]; [Pub. L. 114–95, title IX][/us/pl/114/95/tIX], § 9214(b), Dec. 10, 2015, [129 Stat. 2161][/us/stat/129/2161].)
 
  __References in Text__ 
 
-    The Elementary and Secondary Education Act of 1965, referred to in subsec. (a)(5), is [Pub. L. 89–10][/us/pl/89/10], Apr. 11, 1965, [79 Stat. 27][/us/stat/79/27], as amended, which is classified generally to chapter 70 (§ 6301 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 6301 of this title][/us/usc/t20/s6301] and Tables.
+    The Elementary and Secondary Education Act of 1965, referred to in subsec. (a)(5), is [Pub. L. 89–10][/us/pl/89/10], Apr. 11, 1965, [79 Stat. 27][/us/stat/79/27], which is classified generally to chapter 70 (§ 6301 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 6301 of this title][/us/usc/t20/s6301] and Tables.
+
+ __Amendments__ 
+
+    2015—Subsec. (a)(1)(F)(ii). [Pub. L. 114–95][/us/pl/114/95] substituted “teachers who meet the applicable State certification and licensure requirements, including any requirements for certification obtained through alternative routes to certification, or, with regard to special education teachers, the qualifications described in section 612(a)(14)(C) of the Individuals with Disabilities Education Act ([20 U.S.C. 1412(a)(14)(C)][/us/usc/t20/s1412/a/14/C].” for “teachers who are highly qualified (as such term is defined in section 9101 of the Elementary and Secondary Education Act of 1965 ([20 U.S.C. 7801][/us/usc/t20/s7801]))”.
+
+ __Effective Date of 2015 Amendment__ 
+
+    Amendment by [Pub. L. 114–95][/us/pl/114/95] effective Dec. 10, 2015, except with respect to certain noncompetitive programs and competitive programs, see [section 5 of Pub. L. 114–95][/us/pl/114/95/s5], set out as a note under [section 6301 of this title][/us/usc/t20/s6301].
 
  __Study by National Center for Education Statistics Respecting Condition of Education for Hispanic Americans__ 
 
-[Pub. L. 98–211, § 24(b)][/us/pl/98/211/s24/b], Dec. 8, 1983, [97 Stat. 1419][/us/stat/97/1419], provided that: 
+[Pub. L. 98–211][/us/pl/98/211], § 24(b), Dec. 8, 1983, [97 Stat. 1419][/us/stat/97/1419], provided that: 
 
 > “The National Center for Education Statistics shall not terminate the study of the condition of education for Hispanic Americans unless specifically required or authorized to do so by law.”
 
@@ -106,16 +114,24 @@
 ----------
 ----------
 
-[/us/usc/t20/s7801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs7801
+[/us/usc/t20/s1412/a/14/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1412%2Fa%2F14%2FC
 [/us/usc/t20/s6301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs6301
 [/us/usc/t20/s9573]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs9573
 [/us/usc/t20/s9519]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs9519
-[/us/pl/107/279/s153]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F279%2Fs153
+[/us/pl/107/279/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F279%2FtI
 [/us/stat/116/1958]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1958
+[/us/pl/114/95/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F95%2FtIX
+[/us/stat/129/2161]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F2161
 [/us/pl/89/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F10
 [/us/stat/79/27]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F27
 [/us/usc/t20/s6301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs6301
-[/us/pl/98/211/s24/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F211%2Fs24%2Fb
+[/us/pl/114/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F95
+[/us/usc/t20/s1412/a/14/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1412%2Fa%2F14%2FC
+[/us/usc/t20/s7801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs7801
+[/us/pl/114/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F95
+[/us/pl/114/95/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F95%2Fs5
+[/us/usc/t20/s6301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs6301
+[/us/pl/98/211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F211
 [/us/stat/97/1419]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F1419
 
 

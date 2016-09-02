@@ -51,29 +51,29 @@
 
         (4) assure that no employee of any local educational agency suffers any disciplinary action as a result of calling attention to potential asbestos hazards which may exist in schools.
 
-([Pub. L. 98–377, title V, § 502][/us/pl/98/377/s502], Aug. 11, 1984, [98 Stat. 1287][/us/stat/98/1287]; [Pub. L. 101–637, § 14(a)(2)][/us/pl/101/637/s14/a/2], (b)(1), (2), Nov. 28, 1990, [104 Stat. 4594][/us/stat/104/4594], 4595.)
+([Pub. L. 98–377, title V][/us/pl/98/377/tV], § 502, Aug. 11, 1984, [98 Stat. 1287][/us/stat/98/1287]; [Pub. L. 101–637][/us/pl/101/637], § 14(a)(2), (b)(1), (2), Nov. 28, 1990, [104 Stat. 4594][/us/stat/104/4594], 4595.)
 
  __Amendments__ 
 
-    1990—[Pub. L. 101–637, § 14(a)(2)][/us/pl/101/637/s14/a/2], made technical amendment to section catchline.
+    1990—[Pub. L. 101–637][/us/pl/101/637], § 14(a)(2), made technical amendment to section catchline.
 
-    Subsecs. (a), (b). [Pub. L. 101–637, § 14(b)(1)][/us/pl/101/637/s14/b/1], (2), inserted headings.
+    Subsecs. (a), (b). [Pub. L. 101–637][/us/pl/101/637], § 14(b)(1), (2), inserted headings.
 
  __Short Title of 1990 Amendment__ 
 
-[Pub. L. 101–637, § 1][/us/pl/101/637/s1], Nov. 28, 1990, [104 Stat. 4589][/us/stat/104/4589], provided that: 
+[Pub. L. 101–637][/us/pl/101/637], § 1, Nov. 28, 1990, [104 Stat. 4589][/us/stat/104/4589], provided that: 
 
 > “This Act \[enacting [section 2656 of Title 15][/us/usc/t15/s2656], Commerce and Trade, amending this section, sections 4012 to 4022 of this title, and sections 2643, 2646, and 2647 of Title 15, enacting provisions set out as notes under this section and sections 2646 and 2656 of Title 15, and amending provisions set out as a note under this section\] may be cited as the ‘Asbestos School Hazard Abatement Reauthorization Act of 1990’.”
 
  __Short Title__ 
 
-SPub. L. 98–377, title V, § 501, Aug. 11, 1984, [98 Stat. 1287][/us/stat/98/1287], as amended by [Pub. L. 101–637, § 14(a)(1)][/us/pl/101/637/s14/a/1], Nov. 28, 1990, [104 Stat. 4594][/us/stat/104/4594], provided that: 
+SPub. L. 98–377, title V, § 501, Aug. 11, 1984, [98 Stat. 1287][/us/stat/98/1287], as amended by [Pub. L. 101–637][/us/pl/101/637], § 14(a)(1), Nov. 28, 1990, [104 Stat. 4594][/us/stat/104/4594], provided that: 
 
 > “This title \[enacting this subchapter\] may be cited as the ‘Asbestos School Hazard Abatement Act of 1984’.”
 
  __Findings and Purposes__ 
 
-[Pub. L. 101–637, § 2][/us/pl/101/637/s2], Nov. 28, 1990, [104 Stat. 4589][/us/stat/104/4589], provided that:
+[Pub. L. 101–637][/us/pl/101/637], § 2, Nov. 28, 1990, [104 Stat. 4589][/us/stat/104/4589], provided that:
 
 >     “(a)  __Findings__  __.—__ 
 
@@ -110,19 +110,19 @@ SPub. L. 98–377, title V, § 501, Aug. 11, 1984, [98 Stat. 1287][/us/stat/98
 ----------
 ----------
 
-[/us/pl/98/377/s502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F377%2Fs502
+[/us/pl/98/377/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F377%2FtV
 [/us/stat/98/1287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F1287
-[/us/pl/101/637/s14/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F637%2Fs14%2Fa%2F2
+[/us/pl/101/637]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F637
 [/us/stat/104/4594]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4594
-[/us/pl/101/637/s14/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F637%2Fs14%2Fa%2F2
-[/us/pl/101/637/s14/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F637%2Fs14%2Fb%2F1
-[/us/pl/101/637/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F637%2Fs1
+[/us/pl/101/637]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F637
+[/us/pl/101/637]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F637
+[/us/pl/101/637]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F637
 [/us/stat/104/4589]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4589
 [/us/usc/t15/s2656]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs2656
 [/us/stat/98/1287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F1287
-[/us/pl/101/637/s14/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F637%2Fs14%2Fa%2F1
+[/us/pl/101/637]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F637
 [/us/stat/104/4594]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4594
-[/us/pl/101/637/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F637%2Fs2
+[/us/pl/101/637]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F637
 [/us/stat/104/4589]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4589
 [/us/usc/t15/s2601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs2601
 

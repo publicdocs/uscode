@@ -31,15 +31,15 @@
 
     (b) In exercising its responsibilities to strengthen scientific and engineering research potential and science and engineering education programs at all levels, the Foundation shall avoid undue concentration of support for research and education activities.
 
-([Pub. L. 98–377, title I, § 101][/us/pl/98/377/s101], as added [Pub. L. 99–159, title II, § 201][/us/pl/99/159/s201], Nov. 22, 1985, [99 Stat. 893][/us/stat/99/893].)
+([Pub. L. 98–377, title I][/us/pl/98/377/tI], § 101, as added [Pub. L. 99–159, title II][/us/pl/99/159/tII], § 201, Nov. 22, 1985, [99 Stat. 893][/us/stat/99/893].)
 
  __Prior Provisions__ 
 
-    A prior section 3911, [Pub. L. 98–377, title I, § 101][/us/pl/98/377/s101], Aug. 11, 1984, [98 Stat. 1268][/us/stat/98/1268], related to grants for teacher institutes, prior to the general revision of this subchapter by [section 201 of Pub. L. 99–159][/us/pl/99/159/s201]. See [section 3913 of this title][/us/usc/t20/s3913].
+    A prior section 3911, [Pub. L. 98–377, title I][/us/pl/98/377/tI], § 101, Aug. 11, 1984, [98 Stat. 1268][/us/stat/98/1268], related to grants for teacher institutes, prior to the general revision of this subchapter by [section 201 of Pub. L. 99–159][/us/pl/99/159/s201]. See [section 3913 of this title][/us/usc/t20/s3913].
 
  __Undergraduate Science Improvement__ 
 
-[Pub. L. 100–570, title I, § 112][/us/pl/100/570/s112], Oct. 31, 1988, [102 Stat. 2870][/us/stat/102/2870], provided that:
+[Pub. L. 100–570, title I][/us/pl/100/570/tI], § 112, Oct. 31, 1988, [102 Stat. 2870][/us/stat/102/2870], provided that:
 
 >     “(a) The Congress finds that the support of undergraduate science and engineering education is a critical component in a comprehensive national policy intended to ensure the Nation’s future supply of scientists and engineers.
 
@@ -54,14 +54,14 @@
 ----------
 ----------
 
-[/us/pl/98/377/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F377%2Fs101
-[/us/pl/99/159/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F159%2Fs201
+[/us/pl/98/377/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F377%2FtI
+[/us/pl/99/159/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F159%2FtII
 [/us/stat/99/893]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F893
-[/us/pl/98/377/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F377%2Fs101
+[/us/pl/98/377/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F377%2FtI
 [/us/stat/98/1268]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F1268
 [/us/pl/99/159/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F159%2Fs201
 [/us/usc/t20/s3913]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs3913
-[/us/pl/100/570/s112]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F570%2Fs112
+[/us/pl/100/570/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F570%2FtI
 [/us/stat/102/2870]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2870
 
 

@@ -67,23 +67,23 @@
 
         (3) require an assurance that individuals participating in the project proposed in the application do not have access to services from another project funded under this section or under [section 1070a–12 of this title][/us/usc/t20/s1070a–12].
 
-([Pub. L. 89–329, title IV, § 402F][/us/pl/89/329/s402F], as added [Pub. L. 102–325, title IV, § 402(a)(4)][/us/pl/102/325/s402/a/4], July 23, 1992, [106 Stat. 490][/us/stat/106/490]; amended [Pub. L. 110–315, title IV, § 403(f)][/us/pl/110/315/s403/f], Aug. 14, 2008, [122 Stat. 3203][/us/stat/122/3203].)
+([Pub. L. 89–329, title IV][/us/pl/89/329/tIV], § 402F, as added [Pub. L. 102–325, title IV][/us/pl/102/325/tIV], § 402(a)(4), July 23, 1992, [106 Stat. 490][/us/stat/106/490]; amended [Pub. L. 110–315, title IV][/us/pl/110/315/tIV], § 403(f), Aug. 14, 2008, [122 Stat. 3203][/us/stat/122/3203].)
 
  __Amendments__ 
 
-    2008—Subsec. (a)(3). [Pub. L. 110–315, § 403(f)(1)][/us/pl/110/315/s403/f/1], added par. (3).
+    2008—Subsec. (a)(3). [Pub. L. 110–315][/us/pl/110/315], § 403(f)(1), added par. (3).
 
-    Subsec. (b)(5), (6). [Pub. L. 110–315, § 403(f)(2)(A)][/us/pl/110/315/s403/f/2/A], (B), added par. (5) and redesignated former par. (5) as (6). Former par. (6) redesignated (7).
+    Subsec. (b)(5), (6). [Pub. L. 110–315][/us/pl/110/315], § 403(f)(2)(A), (B), added par. (5) and redesignated former par. (5) as (6). Former par. (6) redesignated (7).
 
-    Subsec. (b)(7). [Pub. L. 110–315, § 403(f)(2)(C)][/us/pl/110/315/s403/f/2/C], added par. (7) and struck out former par. (7) which read as follows: “personal counseling;”.
+    Subsec. (b)(7). [Pub. L. 110–315][/us/pl/110/315], § 403(f)(2)(C), added par. (7) and struck out former par. (7) which read as follows: “personal counseling;”.
 
-    [Pub. L. 110–315, § 403(f)(2)(A)][/us/pl/110/315/s403/f/2/A], redesignated former par. (6) as (7). Former par. (7) redesignated (8).
+    [Pub. L. 110–315][/us/pl/110/315], § 403(f)(2)(A), redesignated former par. (6) as (7). Former par. (7) redesignated (8).
 
-    Subsec. (b)(8) to (10). [Pub. L. 110–315, § 403(f)(2)(A)][/us/pl/110/315/s403/f/2/A], redesignated pars. (7) to (9) as (8) to (10), respectively. Former par. (10) redesignated (11).
+    Subsec. (b)(8) to (10). [Pub. L. 110–315][/us/pl/110/315], § 403(f)(2)(A), redesignated pars. (7) to (9) as (8) to (10), respectively. Former par. (10) redesignated (11).
 
-    Subsec. (b)(11). [Pub. L. 110–315, § 403(f)(2)(D)][/us/pl/110/315/s403/f/2/D], added par. (11) and struck out former par. (11) which read as follows: “programs and activities as described in paragraphs (1) through (9) which are specially designed for students of limited English proficiency.”
+    Subsec. (b)(11). [Pub. L. 110–315][/us/pl/110/315], § 403(f)(2)(D), added par. (11) and struck out former par. (11) which read as follows: “programs and activities as described in paragraphs (1) through (9) which are specially designed for students of limited English proficiency.”
 
-    [Pub. L. 110–315, § 403(f)(2)(A)][/us/pl/110/315/s403/f/2/A], redesignated par. (10) as (11).
+    [Pub. L. 110–315][/us/pl/110/315], § 403(f)(2)(A), redesignated par. (10) as (11).
 
 ----------
 
@@ -95,17 +95,17 @@
 [/us/usc/t42/s11434a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs11434a
 [/us/usc/t20/s1070a–12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1070a%E2%80%9312
 [/us/usc/t20/s1070a–12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1070a%E2%80%9312
-[/us/pl/89/329/s402F]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2Fs402F
-[/us/pl/102/325/s402/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325%2Fs402%2Fa%2F4
+[/us/pl/89/329/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2FtIV
+[/us/pl/102/325/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325%2FtIV
 [/us/stat/106/490]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F490
-[/us/pl/110/315/s403/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2Fs403%2Ff
+[/us/pl/110/315/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2FtIV
 [/us/stat/122/3203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3203
-[/us/pl/110/315/s403/f/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2Fs403%2Ff%2F1
-[/us/pl/110/315/s403/f/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2Fs403%2Ff%2F2%2FA
-[/us/pl/110/315/s403/f/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2Fs403%2Ff%2F2%2FC
-[/us/pl/110/315/s403/f/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2Fs403%2Ff%2F2%2FA
-[/us/pl/110/315/s403/f/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2Fs403%2Ff%2F2%2FA
-[/us/pl/110/315/s403/f/2/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2Fs403%2Ff%2F2%2FD
-[/us/pl/110/315/s403/f/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2Fs403%2Ff%2F2%2FA
+[/us/pl/110/315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315
+[/us/pl/110/315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315
+[/us/pl/110/315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315
+[/us/pl/110/315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315
+[/us/pl/110/315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315
+[/us/pl/110/315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315
+[/us/pl/110/315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315
 
 

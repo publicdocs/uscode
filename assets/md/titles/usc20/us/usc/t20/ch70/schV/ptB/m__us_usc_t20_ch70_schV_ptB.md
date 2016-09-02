@@ -11,13 +11,13 @@
 ----------
 ----------
 
-[Previous](./../../../../../..//us/usc/t20/ch70/schV/ptA/spt4/m__us_usc_t20_s7217e.md) | [Next](./../../../../../..//us/usc/t20/ch70/schV/ptB/spt1/m__us_usc_t20_ch70_schV_ptB_spt1.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fch70%2FschV%2FptB)
+[Previous](./../../../../../..//us/usc/t20/ch70/schV/ptA/m__us_usc_t20_s7305b.md) | [Next](./../../../../../..//us/usc/t20/ch70/schV/ptB/m__us_usc_t20_s7341.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fch70%2FschV%2FptB)
 
-#### Part B—Public Charter Schools
+#### Part B—Rural Education Initiative
 
 ----------
 
-[Previous](./../../../../../..//us/usc/t20/ch70/schV/ptA/spt4/m__us_usc_t20_s7217e.md) | [Next](./../../../../../..//us/usc/t20/ch70/schV/ptB/spt1/m__us_usc_t20_ch70_schV_ptB_spt1.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fch70%2FschV%2FptB)
+[Previous](./../../../../../..//us/usc/t20/ch70/schV/ptA/m__us_usc_t20_s7305b.md) | [Next](./../../../../../..//us/usc/t20/ch70/schV/ptB/m__us_usc_t20_s7341.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fch70%2FschV%2FptB)
 
 ----------
 ----------

@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../..//us/usc/t20/ch16/schVIII/ptB/m__us_usc_t20_ch16_schVIII_ptB.md) | [Next](./../../../..//us/usc/t20/ch17/schI/m__us_usc_t20_ch17_schI.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fch17)
+[Previous](./../../../..//us/usc/t20/ch16/schVIII/ptB/m__us_usc_t20_s386...386g.md) | [Next](./../../../..//us/usc/t20/ch17/schI/m__us_usc_t20_ch17_schI.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fch17)
 
 ## CHAPTER 17—NATIONAL DEFENSE EDUCATION PROGRAM
 
@@ -307,7 +307,7 @@ Part II—International Affairs  </td>
 
 ----------
 
-[Previous](./../../../..//us/usc/t20/ch16/schVIII/ptB/m__us_usc_t20_ch16_schVIII_ptB.md) | [Next](./../../../..//us/usc/t20/ch17/schI/m__us_usc_t20_ch17_schI.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fch17)
+[Previous](./../../../..//us/usc/t20/ch16/schVIII/ptB/m__us_usc_t20_s386...386g.md) | [Next](./../../../..//us/usc/t20/ch17/schI/m__us_usc_t20_ch17_schI.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fch17)
 
 ----------
 ----------

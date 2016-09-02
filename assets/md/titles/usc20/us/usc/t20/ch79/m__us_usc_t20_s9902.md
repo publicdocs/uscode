@@ -31,7 +31,7 @@
 
     (7) require students participating in the program to successfully complete a final evaluation of their teaching proficiency, based on their classroom teaching performance, conducted by multiple trained observers, and a portfolio of their accomplishments.
 
-([Pub. L. 111–358, title V, § 552][/us/pl/111/358/s552], Jan. 4, 2011, [124 Stat. 4022][/us/stat/124/4022].)
+([Pub. L. 111–358, title V][/us/pl/111/358/tV], § 552, Jan. 4, 2011, [124 Stat. 4022][/us/stat/124/4022].)
 
 ----------
 
@@ -40,7 +40,7 @@
 ----------
 ----------
 
-[/us/pl/111/358/s552]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F358%2Fs552
+[/us/pl/111/358/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F358%2FtV
 [/us/stat/124/4022]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F4022
 
 

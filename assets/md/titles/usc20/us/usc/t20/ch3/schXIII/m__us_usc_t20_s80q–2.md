@@ -23,7 +23,7 @@
 
     The United States District Court for the Southern District of New York shall have original and exclusive jurisdiction over any cause of action arising under the agreement.
 
-([Pub. L. 101–185, § 4][/us/pl/101/185/s4], Nov. 28, 1989, [103 Stat. 1337][/us/stat/103/1337].)
+([Pub. L. 101–185][/us/pl/101/185], § 4, Nov. 28, 1989, [103 Stat. 1337][/us/stat/103/1337].)
 
 ----------
 
@@ -33,7 +33,7 @@
 ----------
 
 [/us/usc/t20/s80q–1/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs80q%E2%80%931%2Fb
-[/us/pl/101/185/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F185%2Fs4
+[/us/pl/101/185]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F185
 [/us/stat/103/1337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1337
 
 

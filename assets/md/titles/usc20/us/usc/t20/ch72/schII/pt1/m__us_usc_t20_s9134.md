@@ -47,7 +47,7 @@
 
          describe how the State library administrative agency will work with other State agencies and offices where appropriate to coordinate resources, programs, and activities and leverage, but not replace, the Federal and State investment in—
 
-            (A) elementary and secondary education, including coordination with the activities within the State that are supported by a grant under [section 6383 of this title][/us/usc/t20/s6383];
+            (A) elementary and secondary education, including coordination with the activities within the State that are supported by a grant under [section 6646 of this title][/us/usc/t20/s6646];
 
             (B)
 
@@ -225,7 +225,7 @@
 
                 The terms “sexual act” and “sexual contact” have the meanings given such terms in [section 2246 of title 18][/us/usc/t18/s2246].
 
-([Pub. L. 94–462, title II, § 224][/us/pl/94/462/s224], as added [Pub. L. 104–208, div. A, title I, § 101(e)][/us/pl/104/208/s101/e] \[title VII, § 702\], Sept. 30, 1996, [110 Stat. 3009–233][/us/stat/110/3009-233], 3009–300; amended [Pub. L. 106–554, § 1(a)(4)][/us/pl/106/554/s1/a/4] \[div. B, title XVII, § 1712(a)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–340; [Pub. L. 108–81, title II, § 205][/us/pl/108/81/s205], title V, § 504(f), Sept. 25, 2003, [117 Stat. 999][/us/stat/117/999], 1004; [Pub. L. 111–340, title II, § 204][/us/pl/111/340/s204], Dec. 22, 2010, [124 Stat. 3600][/us/stat/124/3600]; [Pub. L. 113–128, title V, § 512(t)(2)][/us/pl/113/128/s512/t/2], July 22, 2014, [128 Stat. 1712][/us/stat/128/1712].)
+([Pub. L. 94–462, title II][/us/pl/94/462/tII], § 224, as added [Pub. L. 104–208, div. A, title I][/us/pl/104/208/dA/tI], § 101(e) \[title VII, § 702\], Sept. 30, 1996, [110 Stat. 3009–233][/us/stat/110/3009-233], 3009–300; amended [Pub. L. 106–554][/us/pl/106/554], § 1(a)(4) \[div. B, title XVII, § 1712(a)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–340; [Pub. L. 108–81, title II][/us/pl/108/81/tII], § 205, title V, § 504(f), Sept. 25, 2003, [117 Stat. 999][/us/stat/117/999], 1004; [Pub. L. 111–340, title II][/us/pl/111/340/tII], § 204, Dec. 22, 2010, [124 Stat. 3600][/us/stat/124/3600]; [Pub. L. 113–128, title V][/us/pl/113/128/tV], § 512(t)(2), July 22, 2014, [128 Stat. 1712][/us/stat/128/1712]; [Pub. L. 114–95, title IX][/us/pl/114/95/tIX], § 9215(aaa)(2), Dec. 10, 2015, [129 Stat. 2184][/us/stat/129/2184].)
 
  __References in Text__ 
 
@@ -235,29 +235,35 @@
 
  __Amendments__ 
 
-    2014—Subsec. (b)(6)(C)(i). [Pub. L. 113–128, § 512(t)(2)(A)][/us/pl/113/128/s512/t/2/A], substituted “the activities carried out by the State workforce development board under [section 3111 of title 29][/us/usc/t29/s3111]” for “the activities carried out by the State workforce investment board under [section 2821(d) of title 29][/us/usc/t29/s2821/d]”.
+    2015—Subsec. (b)(6)(A). [Pub. L. 114–95][/us/pl/114/95] substituted “including coordination with the activities within the State that are supported by a grant under [section 6646 of this title][/us/usc/t20/s6646]” for “including coordination with the activities within the State that are supported by a grant under [section 6383 of this title][/us/usc/t20/s6383]”.
 
-    Subsec. (b)(6)(C)(ii). [Pub. L. 113–128, § 512(t)(2)(B)][/us/pl/113/128/s512/t/2/B], substituted “the State’s one-stop delivery system established under [section 3151(e) of title 29][/us/usc/t29/s3151/e]” for “the State’s one-stop delivery system established under [section 2864(c) of title 29][/us/usc/t29/s2864/c]”.
+    2014—Subsec. (b)(6)(C)(i). [Pub. L. 113–128][/us/pl/113/128], § 512(t)(2)(A), substituted “the activities carried out by the State workforce development board under [section 3111 of title 29][/us/usc/t29/s3111]” for “the activities carried out by the State workforce investment board under [section 2821(d) of title 29][/us/usc/t29/s2821/d]”.
 
-    2010—Subsec. (b)(6) to (8). [Pub. L. 111–340, § 204(1)][/us/pl/111/340/s204/1], added par. (6) and redesignated former pars. (6) and (7) as (7) and (8), respectively.
+    Subsec. (b)(6)(C)(ii). [Pub. L. 113–128][/us/pl/113/128], § 512(t)(2)(B), substituted “the State’s one-stop delivery system established under [section 3151(e) of title 29][/us/usc/t29/s3151/e]” for “the State’s one-stop delivery system established under [section 2864(c) of title 29][/us/usc/t29/s2864/c]”.
 
-    Subsec. (e)(2). [Pub. L. 111–340, § 204(2)][/us/pl/111/340/s204/2], inserted “, including through electronic means” before period at end.
+    2010—Subsec. (b)(6) to (8). [Pub. L. 111–340][/us/pl/111/340], § 204(1), added par. (6) and redesignated former pars. (6) and (7) as (7) and (8), respectively.
 
-    2003—Subsec. (a)(1). [Pub. L. 108–81, § 205(1)][/us/pl/108/81/s205/1], substituted “once every 5 years, as determined by the Director.” for “not later than April 1, 1997.”
+    Subsec. (e)(2). [Pub. L. 111–340][/us/pl/111/340], § 204(2), inserted “, including through electronic means” before period at end.
 
-    Subsec. (b)(5). [Pub. L. 108–81, § 504(f)][/us/pl/108/81/s504/f], struck out “and” at end.
+    2003—Subsec. (a)(1). [Pub. L. 108–81][/us/pl/108/81], § 205(1), substituted “once every 5 years, as determined by the Director.” for “not later than April 1, 1997.”
 
-    Subsec. (f). [Pub. L. 108–81, § 205(2)(A)][/us/pl/108/81/s205/2/A], substituted “this subchapter” for “this chapter” wherever appearing.
+    Subsec. (b)(5). [Pub. L. 108–81][/us/pl/108/81], § 504(f), struck out “and” at end.
 
-    Subsec. (f)(1). [Pub. L. 108–81, § 205(2)(B)][/us/pl/108/81/s205/2/B], substituted “section 9122(1)(A) or (B)” for “9122(2)(A) or (B)” and made technical amendment to reference in original act which appears in text as reference to [section 254(h)(6) of title 47][/us/usc/t47/s254/h/6].
+    Subsec. (f). [Pub. L. 108–81][/us/pl/108/81], § 205(2)(A), substituted “this subchapter” for “this chapter” wherever appearing.
 
-    Subsec. (f)(7). [Pub. L. 108–81, § 205(2)(C)(i)][/us/pl/108/81/s205/2/C/i], substituted “subsection:” for “section:” in introductory provisions.
+    Subsec. (f)(1). [Pub. L. 108–81][/us/pl/108/81], § 205(2)(B), substituted “section 9122(1)(A) or (B)” for “9122(2)(A) or (B)” and made technical amendment to reference in original act which appears in text as reference to [section 254(h)(6) of title 47][/us/usc/t47/s254/h/6].
 
-    Subsec. (f)(7)(D). [Pub. L. 108–81, § 205(2)(C)(ii)][/us/pl/108/81/s205/2/C/ii], substituted “applicable to” for “given”.
+    Subsec. (f)(7). [Pub. L. 108–81][/us/pl/108/81], § 205(2)(C)(i), substituted “subsection:” for “section:” in introductory provisions.
 
-    2000—Subsec. (b)(6), (7). [Pub. L. 106–554, § 1(a)(4)][/us/pl/106/554/s1/a/4] \[div. B, title XVII, § 1712(a)(1)\], added par. (6) and redesignated former par. (6) as (7).
+    Subsec. (f)(7)(D). [Pub. L. 108–81][/us/pl/108/81], § 205(2)(C)(ii), substituted “applicable to” for “given”.
 
-    Subsec. (f). [Pub. L. 106–554, § 1(a)(4)][/us/pl/106/554/s1/a/4] \[div. B, title XVII, § 1712(a)(2)\], added subsec. (f).
+    2000—Subsec. (b)(6), (7). [Pub. L. 106–554][/us/pl/106/554], § 1(a)(4) \[div. B, title XVII, § 1712(a)(1)\], added par. (6) and redesignated former par. (6) as (7).
+
+    Subsec. (f). [Pub. L. 106–554][/us/pl/106/554], § 1(a)(4) \[div. B, title XVII, § 1712(a)(2)\], added subsec. (f).
+
+ __Effective Date of 2015 Amendment__ 
+
+    Amendment by [Pub. L. 114–95][/us/pl/114/95] effective Dec. 10, 2015, except with respect to certain noncompetitive programs and competitive programs, see [section 5 of Pub. L. 114–95][/us/pl/114/95/s5], set out as a note under [section 6301 of this title][/us/usc/t20/s6301].
 
  __Effective Date of 2014 Amendment__ 
 
@@ -265,17 +271,17 @@
 
  __Effective Date of 2000 Amendment__ 
 
-[Pub. L. 106–554, § 1(a)(4)][/us/pl/106/554/s1/a/4] \[div. B, title XVII, § 1712(b)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–343, provided that: 
+[Pub. L. 106–554][/us/pl/106/554], § 1(a)(4) \[div. B, title XVII, § 1712(b)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–343, provided that: 
 
 > “The amendment made by this section \[amending this section\] shall take effect 120 days after the date of the enactment of this Act \[Dec. 21, 2000\].”
 
  __Availability of Certain Funds for Acquisition of Technology Protection Measures__ 
 
-[Pub. L. 106–554, § 1(a)(4)][/us/pl/106/554/s1/a/4] \[div. B, title XVII, § 1721(g)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–350, provided that:
+[Pub. L. 106–554][/us/pl/106/554], § 1(a)(4) \[div. B, title XVII, § 1721(g)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–350, as amended by [Pub. L. 114–95, title IX][/us/pl/114/95/tIX], § 9215(q), Dec. 10, 2015, [129 Stat. 2171][/us/stat/129/2171], provided that:
 
 >     “(1)  __In general__  __.—__ 
 
->     Notwithstanding any other provision of law, funds available under section 3134 \[former [20 U.S.C. 6844][/us/usc/t20/s6844]\] or part A of title VI of the Elementary and Secondary Education Act of 1965 \[former [20 U.S.C. 7311][/us/usc/t20/s7311] et seq.\], or under section 231 of the Library Services and Technology Act \[[20 U.S.C. 9141][/us/usc/t20/s9141]\], may be used for the purchase or acquisition of technology protection measures that are necessary to meet the requirements of this title \[see Short Title of 2000 Amendments note set out under [section 6301 of this title][/us/usc/t20/s6301]\] and the amendments made by this title. No other sources of funds for the purchase or acquisition of such measures are authorized by this title, or the amendments made by this title.
+>     Notwithstanding any other provision of law, funds available under part B of title I of the Elementary and Secondary Education Act of 1965 \[[20 U.S.C. 6361][/us/usc/t20/s6361] et seq.\], or under section 231 of the Library Services and Technology Act \[[20 U.S.C. 9141][/us/usc/t20/s9141]\], may be used for the purchase or acquisition of technology protection measures that are necessary to meet the requirements of this title \[see Short Title of 2000 Amendments note set out under [section 6301 of this title][/us/usc/t20/s6301]\] and the amendments made by this title. No other sources of funds for the purchase or acquisition of such measures are authorized by this title, or the amendments made by this title.
 
 >     “(2)  __Technology protection measure defined__  __.—__ 
 
@@ -289,7 +295,7 @@
 ----------
 
 [/us/usc/t20/s9141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs9141
-[/us/usc/t20/s6383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs6383
+[/us/usc/t20/s6646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs6646
 [/us/usc/t42/s9837]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs9837
 [/us/usc/t42/s9837b/a/4/B/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs9837b%2Fa%2F4%2FB%2Fi
 [/us/usc/t29/s3111]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3111
@@ -298,47 +304,56 @@
 [/us/usc/t18/s2256]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs2256
 [/us/usc/t18/s1460]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs1460
 [/us/usc/t18/s2246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs2246
-[/us/pl/94/462/s224]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F462%2Fs224
-[/us/pl/104/208/s101/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs101%2Fe
+[/us/pl/94/462/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F462%2FtII
+[/us/pl/104/208/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2FdA%2FtI
 [/us/stat/110/3009-233]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3009-233
-[/us/pl/106/554/s1/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F4
+[/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
 [/us/stat/114/2763]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2763
-[/us/pl/108/81/s205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F81%2Fs205
+[/us/pl/108/81/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F81%2FtII
 [/us/stat/117/999]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F999
-[/us/pl/111/340/s204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F340%2Fs204
+[/us/pl/111/340/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F340%2FtII
 [/us/stat/124/3600]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3600
-[/us/pl/113/128/s512/t/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs512%2Ft%2F2
+[/us/pl/113/128/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2FtV
 [/us/stat/128/1712]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1712
+[/us/pl/114/95/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F95%2FtIX
+[/us/stat/129/2184]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F2184
 [/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
 [/us/pl/90/247]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F247
 [/us/stat/81/814]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F814
 [/us/usc/t20/s1221]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1221
-[/us/pl/113/128/s512/t/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs512%2Ft%2F2%2FA
+[/us/pl/114/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F95
+[/us/usc/t20/s6646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs6646
+[/us/usc/t20/s6383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs6383
+[/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
 [/us/usc/t29/s3111]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3111
 [/us/usc/t29/s2821/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs2821%2Fd
-[/us/pl/113/128/s512/t/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs512%2Ft%2F2%2FB
+[/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
 [/us/usc/t29/s3151/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3151%2Fe
 [/us/usc/t29/s2864/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs2864%2Fc
-[/us/pl/111/340/s204/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F340%2Fs204%2F1
-[/us/pl/111/340/s204/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F340%2Fs204%2F2
-[/us/pl/108/81/s205/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F81%2Fs205%2F1
-[/us/pl/108/81/s504/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F81%2Fs504%2Ff
-[/us/pl/108/81/s205/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F81%2Fs205%2F2%2FA
-[/us/pl/108/81/s205/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F81%2Fs205%2F2%2FB
+[/us/pl/111/340]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F340
+[/us/pl/111/340]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F340
+[/us/pl/108/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F81
+[/us/pl/108/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F81
+[/us/pl/108/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F81
+[/us/pl/108/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F81
 [/us/usc/t47/s254/h/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs254%2Fh%2F6
-[/us/pl/108/81/s205/2/C/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F81%2Fs205%2F2%2FC%2Fi
-[/us/pl/108/81/s205/2/C/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F81%2Fs205%2F2%2FC%2Fii
-[/us/pl/106/554/s1/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F4
-[/us/pl/106/554/s1/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F4
+[/us/pl/108/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F81
+[/us/pl/108/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F81
+[/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
+[/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
+[/us/pl/114/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F95
+[/us/pl/114/95/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F95%2Fs5
+[/us/usc/t20/s6301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs6301
 [/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
 [/us/pl/113/128/s506]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs506
 [/us/usc/t29/s3101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3101
-[/us/pl/106/554/s1/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F4
+[/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
 [/us/stat/114/2763]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2763
-[/us/pl/106/554/s1/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F4
+[/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
 [/us/stat/114/2763]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2763
-[/us/usc/t20/s6844]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs6844
-[/us/usc/t20/s7311]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs7311
+[/us/pl/114/95/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F95%2FtIX
+[/us/stat/129/2171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F2171
+[/us/usc/t20/s6361]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs6361
 [/us/usc/t20/s9141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs9141
 [/us/usc/t20/s6301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs6301
 [/us/usc/t47/s902]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs902

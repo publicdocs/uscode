@@ -43,7 +43,7 @@
 
         The Governor shall return to the Secretary any funds received under subsection (e) that the Governor does not award as subgrants or otherwise commit within two years of receiving such funds, and the Secretary shall reallocate such funds to the remaining States in accordance with subsection (d).
 
-([Pub. L. 111–5, div. A, title XIV, § 14001][/us/pl/111/5/s14001], Feb. 17, 2009, [123 Stat. 279][/us/stat/123/279].)
+([Pub. L. 111–5, div. A, title XIV][/us/pl/111/5/dA/tXIV], § 14001, Feb. 17, 2009, [123 Stat. 279][/us/stat/123/279].)
 
 ----------
 
@@ -52,7 +52,7 @@
 ----------
 ----------
 
-[/us/pl/111/5/s14001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5%2Fs14001
+[/us/pl/111/5/dA/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5%2FdA%2FtXIV
 [/us/stat/123/279]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F279
 
 

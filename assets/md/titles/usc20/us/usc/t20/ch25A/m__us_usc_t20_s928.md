@@ -29,17 +29,17 @@
 
         Members of school advisory committees established under this section shall serve without pay.
 
-([Pub. L. 95–561, title XIV, § 1410][/us/pl/95/561/s1410], Nov. 1, 1978, [92 Stat. 2369][/us/stat/92/2369]; [Pub. L. 96–88, title V, § 508(j)(1)][/us/pl/96/88/s508/j/1], (2), Oct. 17, 1979, [93 Stat. 693][/us/stat/93/693]; [Pub. L. 99–145, title XII, § 1204(b)(2)][/us/pl/99/145/s1204/b/2], Nov. 8, 1985, [99 Stat. 720][/us/stat/99/720].)
+([Pub. L. 95–561, title XIV][/us/pl/95/561/tXIV], § 1410, Nov. 1, 1978, [92 Stat. 2369][/us/stat/92/2369]; [Pub. L. 96–88, title V][/us/pl/96/88/tV], § 508(j)(1), (2), Oct. 17, 1979, [93 Stat. 693][/us/stat/93/693]; [Pub. L. 99–145, title XII][/us/pl/99/145/tXII], § 1204(b)(2), Nov. 8, 1985, [99 Stat. 720][/us/stat/99/720].)
 
  __Amendments__ 
 
-    1985—Subsec. (a)(1). [Pub. L. 99–145, § 1204(b)(2)(A)][/us/pl/99/145/s1204/b/2/A], included as member of the advisory committee the designee of the exclusive bargaining representative of the employees.
+    1985—Subsec. (a)(1). [Pub. L. 99–145][/us/pl/99/145], § 1204(b)(2)(A), included as member of the advisory committee the designee of the exclusive bargaining representative of the employees.
 
-    Subsec. (b). [Pub. L. 99–145, § 1204(b)(2)(B)][/us/pl/99/145/s1204/b/2/B], (C), substituted “Except in the case of a nonvoting member designated under the last sentence of subsection (a)(1) of this section, members” for “Members” and “The Secretary of Defense” for “The Secretary of Education, in consultation with the Secretary of Defense,”.
+    Subsec. (b). [Pub. L. 99–145][/us/pl/99/145], § 1204(b)(2)(B), (C), substituted “Except in the case of a nonvoting member designated under the last sentence of subsection (a)(1) of this section, members” for “Members” and “The Secretary of Defense” for “The Secretary of Education, in consultation with the Secretary of Defense,”.
 
-    1979—Subsec. (a)(1). [Pub. L. 96–88, § 508(j)(1)][/us/pl/96/88/s508/j/1], substituted “parents” for “representatives of sponsors”.
+    1979—Subsec. (a)(1). [Pub. L. 96–88][/us/pl/96/88], § 508(j)(1), substituted “parents” for “representatives of sponsors”.
 
-    Subsec. (b). [Pub. L. 96–88, § 508(j)(2)][/us/pl/96/88/s508/j/2], empowered the Secretary of Education, in consultation with the Secretary of Defense, to prescribe election qualifications and procedures in regard to advisory committees rather than vesting such power in the Secretary of Defense exclusively.
+    Subsec. (b). [Pub. L. 96–88][/us/pl/96/88], § 508(j)(2), empowered the Secretary of Education, in consultation with the Secretary of Defense, to prescribe election qualifications and procedures in regard to advisory committees rather than vesting such power in the Secretary of Defense exclusively.
 
  __Effective Date of 1979 Amendment__ 
 
@@ -56,16 +56,16 @@
 ----------
 ----------
 
-[/us/pl/95/561/s1410]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F561%2Fs1410
+[/us/pl/95/561/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F561%2FtXIV
 [/us/stat/92/2369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2369
-[/us/pl/96/88/s508/j/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F88%2Fs508%2Fj%2F1
+[/us/pl/96/88/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F88%2FtV
 [/us/stat/93/693]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F693
-[/us/pl/99/145/s1204/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F145%2Fs1204%2Fb%2F2
+[/us/pl/99/145/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F145%2FtXII
 [/us/stat/99/720]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F720
-[/us/pl/99/145/s1204/b/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F145%2Fs1204%2Fb%2F2%2FA
-[/us/pl/99/145/s1204/b/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F145%2Fs1204%2Fb%2F2%2FB
-[/us/pl/96/88/s508/j/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F88%2Fs508%2Fj%2F1
-[/us/pl/96/88/s508/j/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F88%2Fs508%2Fj%2F2
+[/us/pl/99/145]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F145
+[/us/pl/99/145]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F145
+[/us/pl/96/88]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F88
+[/us/pl/96/88]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F88
 [/us/pl/96/88]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F88
 [/us/pl/96/88/s601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F88%2Fs601
 [/us/usc/t20/s3401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs3401

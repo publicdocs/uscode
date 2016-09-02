@@ -99,11 +99,11 @@
 
         (2) a substantial percentage of the students so enrolled are receiving Federal Pell Grants in the second fiscal year preceding the fiscal year for which the determination is made, compared to the percentage of students receiving Federal Pell Grants at all such institutions in the second fiscal year preceding the fiscal year for which the determination is made, unless the requirement of this paragraph is waived under [section 1103a(a) of this title][/us/usc/t20/s1103a/a].
 
-([Pub. L. 89–329, title V, § 502][/us/pl/89/329/s502], as added [Pub. L. 105–244, title V, § 501][/us/pl/105/244/s501], Oct. 7, 1998, [112 Stat. 1766][/us/stat/112/1766]; amended [Pub. L. 108–375, div. A, title X, § 1087][/us/pl/108/375/s1087], Oct. 28, 2004, [118 Stat. 2066][/us/stat/118/2066]; [Pub. L. 109–292, § 4(a)][/us/pl/109/292/s4/a], Sept. 30, 2006, [120 Stat. 1341][/us/stat/120/1341]; [Pub. L. 110–315, title V, § 502(b)(1)][/us/pl/110/315/s502/b/1], Aug. 14, 2008, [122 Stat. 3333][/us/stat/122/3333]; [Pub. L. 111–39, title V, § 501][/us/pl/111/39/s501], July 1, 2009, [123 Stat. 1953][/us/stat/123/1953].)
+([Pub. L. 89–329, title V][/us/pl/89/329/tV], § 502, as added [Pub. L. 105–244, title V][/us/pl/105/244/tV], § 501, Oct. 7, 1998, [112 Stat. 1766][/us/stat/112/1766]; amended [Pub. L. 108–375, div. A, title X][/us/pl/108/375/dA/tX], § 1087, Oct. 28, 2004, [118 Stat. 2066][/us/stat/118/2066]; [Pub. L. 109–292][/us/pl/109/292], § 4(a), Sept. 30, 2006, [120 Stat. 1341][/us/stat/120/1341]; [Pub. L. 110–315, title V][/us/pl/110/315/tV], § 502(b)(1), Aug. 14, 2008, [122 Stat. 3333][/us/stat/122/3333]; [Pub. L. 111–39, title V][/us/pl/111/39/tV], § 501, July 1, 2009, [123 Stat. 1953][/us/stat/123/1953].)
 
  __Prior Provisions__ 
 
-    A prior section 1101a, [Pub. L. 89–329, title V, § 502][/us/pl/89/329/s502], as added [Pub. L. 99–498, title V, § 501(a)][/us/pl/99/498/s501/a], Oct. 17, 1986, [100 Stat. 1496][/us/stat/100/1496], authorized appropriations for this subchapter, prior to the general amendment of this subchapter by [Pub. L. 102–325][/us/pl/102/325].
+    A prior section 1101a, [Pub. L. 89–329, title V][/us/pl/89/329/tV], § 502, as added [Pub. L. 99–498, title V][/us/pl/99/498/tV], § 501(a), Oct. 17, 1986, [100 Stat. 1496][/us/stat/100/1496], authorized appropriations for this subchapter, prior to the general amendment of this subchapter by [Pub. L. 102–325][/us/pl/102/325].
 
     A prior [section 502 of Pub. L. 89–329][/us/pl/89/329/s502] was classified to [section 1102a of this title][/us/usc/t20/s1102a], prior to the general amendment of this subchapter by [Pub. L. 105–244][/us/pl/105/244].
 
@@ -115,13 +115,13 @@
 
     2008—Subsecs. (a)(2)(A)(ii), (b)(2). [Pub. L. 110–315][/us/pl/110/315] made technical amendment to reference in original act which appears in text as reference to [section 1103a of this title][/us/usc/t20/s1103a].
 
-    2006—Subsec. (a)(5). [Pub. L. 109–292, § 4(a)(1)][/us/pl/109/292/s4/a/1], inserted “and” at end of subpar. (A), in subpar. (B), struck out “at the time of application,” before “has an enrollment”, substituted “at the end of the award year immediately preceding the date of application.” for “; and”, and struck out subpar. (C) which read as follows: “provides assurances that not less than 50 percent of the institution’s Hispanic students are low-income individuals, which assurances—
+    2006—Subsec. (a)(5). [Pub. L. 109–292][/us/pl/109/292], § 4(a)(1), inserted “and” at end of subpar. (A), in subpar. (B), struck out “at the time of application,” before “has an enrollment”, substituted “at the end of the award year immediately preceding the date of application.” for “; and”, and struck out subpar. (C) which read as follows: “provides assurances that not less than 50 percent of the institution’s Hispanic students are low-income individuals, which assurances—
 
     “(i) may employ statistical extrapolation using appropriate data from the Bureau of the Census or other appropriate Federal or State sources; and
 
     “(ii) the Secretary shall consider as meeting the requirements of this subparagraph, unless the Secretary determines, based on a preponderance of the evidence, that the assurances do not meet the requirements.”
 
-    Subsec. (a)(7). [Pub. L. 109–292, § 4(a)(2)][/us/pl/109/292/s4/a/2], struck out par. (7) which defined “low-income individual”.
+    Subsec. (a)(7). [Pub. L. 109–292][/us/pl/109/292], § 4(a)(2), struck out par. (7) which defined “low-income individual”.
 
     2004—Subsec. (a)(5)(C). [Pub. L. 108–375][/us/pl/108/375] inserted “, which assurances—” and cls. (i) and (ii) before period at end.
 
@@ -139,19 +139,19 @@
 [/us/usc/t20/s1103a/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1103a%2Fb
 [/us/usc/t20/s1078]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1078
 [/us/usc/t20/s1103a/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1103a%2Fa
-[/us/pl/89/329/s502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2Fs502
-[/us/pl/105/244/s501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2Fs501
+[/us/pl/89/329/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2FtV
+[/us/pl/105/244/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2FtV
 [/us/stat/112/1766]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F1766
-[/us/pl/108/375/s1087]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2Fs1087
+[/us/pl/108/375/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2FdA%2FtX
 [/us/stat/118/2066]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F2066
-[/us/pl/109/292/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F292%2Fs4%2Fa
+[/us/pl/109/292]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F292
 [/us/stat/120/1341]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1341
-[/us/pl/110/315/s502/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2Fs502%2Fb%2F1
+[/us/pl/110/315/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2FtV
 [/us/stat/122/3333]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3333
-[/us/pl/111/39/s501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F39%2Fs501
+[/us/pl/111/39/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F39%2FtV
 [/us/stat/123/1953]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1953
-[/us/pl/89/329/s502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2Fs502
-[/us/pl/99/498/s501/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F498%2Fs501%2Fa
+[/us/pl/89/329/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2FtV
+[/us/pl/99/498/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F498%2FtV
 [/us/stat/100/1496]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1496
 [/us/pl/102/325]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325
 [/us/pl/89/329/s502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2Fs502
@@ -163,8 +163,8 @@
 [/us/pl/111/39]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F39
 [/us/pl/110/315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315
 [/us/usc/t20/s1103a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1103a
-[/us/pl/109/292/s4/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F292%2Fs4%2Fa%2F1
-[/us/pl/109/292/s4/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F292%2Fs4%2Fa%2F2
+[/us/pl/109/292]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F292
+[/us/pl/109/292]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F292
 [/us/pl/108/375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375
 [/us/pl/111/39]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F39
 [/us/pl/110/315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315

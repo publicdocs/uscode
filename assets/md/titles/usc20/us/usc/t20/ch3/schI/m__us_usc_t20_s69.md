@@ -17,7 +17,7 @@
 
     The Secretary of the Smithsonian Institution is hereby authorized to cooperate with any State, educational institution, or scientific organization in the United States to continue independently or in cooperation anthropological researches among the American Indians and the natives of lands under the jurisdiction or protection of the United States and the excavation and preservation of archaeological remains.
 
-([Apr. 10, 1928, ch. 335, § 1][/us/act/1928-04-10/ch335/s1], [45 Stat. 413][/us/stat/45/413]; [Aug. 22, 1949, ch. 494, § 1][/us/act/1949-08-22/ch494/s1], [63 Stat. 623][/us/stat/63/623].)
+([Apr. 10, 1928, ch. 335][/us/act/1928-04-10/ch335], § 1, [45 Stat. 413][/us/stat/45/413]; [Aug. 22, 1949, ch. 494][/us/act/1949-08-22/ch494], § 1, [63 Stat. 623][/us/stat/63/623].)
 
  __Amendments__ 
 
@@ -30,9 +30,9 @@
 ----------
 ----------
 
-[/us/act/1928-04-10/ch335/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1928-04-10%2Fch335%2Fs1
+[/us/act/1928-04-10/ch335]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1928-04-10%2Fch335
 [/us/stat/45/413]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F45%2F413
-[/us/act/1949-08-22/ch494/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-08-22%2Fch494%2Fs1
+[/us/act/1949-08-22/ch494]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-08-22%2Fch494
 [/us/stat/63/623]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F63%2F623
 
 

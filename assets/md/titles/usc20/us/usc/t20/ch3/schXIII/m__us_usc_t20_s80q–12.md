@@ -27,7 +27,7 @@
 
         There is authorized to be appropriated $1,000,000 for fiscal year 1991 and such sums as may be necessary for succeeding fiscal years for grants under subsection (a) of this section.
 
-([Pub. L. 101–185, § 14][/us/pl/101/185/s14], Nov. 28, 1989, [103 Stat. 1345][/us/stat/103/1345].)
+([Pub. L. 101–185][/us/pl/101/185], § 14, Nov. 28, 1989, [103 Stat. 1345][/us/stat/103/1345].)
 
 ----------
 
@@ -37,7 +37,7 @@
 ----------
 
 [/us/usc/t20/s80q–9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs80q%E2%80%939
-[/us/pl/101/185/s14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F185%2Fs14
+[/us/pl/101/185]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F185
 [/us/stat/103/1345]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1345
 
 

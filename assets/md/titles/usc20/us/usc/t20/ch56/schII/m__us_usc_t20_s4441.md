@@ -61,7 +61,7 @@
 
             (C) serve for a fixed term.
 
-([Pub. L. 99–498, title XV, § 1521][/us/pl/99/498/s1521], Oct. 17, 1986, [100 Stat. 1610][/us/stat/100/1610]; [Pub. L. 103–239, title VII, § 722(2)][/us/pl/103/239/s722/2], May 4, 1994, [108 Stat. 606][/us/stat/108/606].)
+([Pub. L. 99–498, title XV][/us/pl/99/498/tXV], § 1521, Oct. 17, 1986, [100 Stat. 1610][/us/stat/100/1610]; [Pub. L. 103–239, title VII][/us/pl/103/239/tVII], § 722(2), May 4, 1994, [108 Stat. 606][/us/stat/108/606].)
 
  __Amendments__ 
 
@@ -69,7 +69,7 @@
 
  __Effective Date of 1994 Amendment__ 
 
-[Pub. L. 103–239, § 801][/us/pl/103/239/s801], May 4, 1994, [108 Stat. 607][/us/stat/108/607], provided that: 
+[Pub. L. 103–239][/us/pl/103/239], § 801, May 4, 1994, [108 Stat. 607][/us/stat/108/607], provided that: 
 
 > “This Act \[see Short Title note set out under [section 6101 of this title][/us/usc/t20/s6101]\] shall take effect on the date of enactment of this Act \[May 4, 1994\].”
 
@@ -81,12 +81,12 @@
 ----------
 
 [/us/usc/t20/s4417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs4417
-[/us/pl/99/498/s1521]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F498%2Fs1521
+[/us/pl/99/498/tXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F498%2FtXV
 [/us/stat/100/1610]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1610
-[/us/pl/103/239/s722/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F239%2Fs722%2F2
+[/us/pl/103/239/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F239%2FtVII
 [/us/stat/108/606]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F606
 [/us/pl/103/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F239
-[/us/pl/103/239/s801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F239%2Fs801
+[/us/pl/103/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F239
 [/us/stat/108/607]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F607
 [/us/usc/t20/s6101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs6101
 

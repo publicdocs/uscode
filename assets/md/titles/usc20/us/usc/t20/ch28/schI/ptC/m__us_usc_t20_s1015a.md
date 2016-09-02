@@ -429,7 +429,7 @@
 
         The Secretary is authorized to issue such regulations as may be necessary to carry out this section.
 
-([Pub. L. 89–329, title I, § 132][/us/pl/89/329/s132], as added [Pub. L. 110–315, title I, § 111][/us/pl/110/315/s111], Aug. 14, 2008, [122 Stat. 3098][/us/stat/122/3098].)
+([Pub. L. 89–329, title I][/us/pl/89/329/tI], § 132, as added [Pub. L. 110–315, title I][/us/pl/110/315/tI], § 111, Aug. 14, 2008, [122 Stat. 3098][/us/stat/122/3098].)
 
  __References in Text__ 
 
@@ -437,9 +437,9 @@
 
  __Prior Provisions__ 
 
-    A prior section 1015a, [Pub. L. 89–329, title I, § 132][/us/pl/89/329/s132], as added [Pub. L. 102–325, title I, § 101][/us/pl/102/325/s101], July 23, 1992, [106 Stat. 465][/us/stat/106/465], related to grant applications, prior to the general amendment of this subchapter by [Pub. L. 105–244][/us/pl/105/244].
+    A prior section 1015a, [Pub. L. 89–329, title I][/us/pl/89/329/tI], § 132, as added [Pub. L. 102–325, title I][/us/pl/102/325/tI], § 101, July 23, 1992, [106 Stat. 465][/us/stat/106/465], related to grant applications, prior to the general amendment of this subchapter by [Pub. L. 105–244][/us/pl/105/244].
 
-    Another prior section 1015a, [Pub. L. 89–329, title I, § 132][/us/pl/89/329/s132], as added [Pub. L. 94–482, title I, § 101(g)(3)][/us/pl/94/482/s101/g/3], Oct. 12, 1976, [90 Stat. 2087][/us/stat/90/2087], set out scope of lifelong learning program, prior to the general amendment of this subchapter by [Pub. L. 96–374][/us/pl/96/374].
+    Another prior section 1015a, [Pub. L. 89–329, title I][/us/pl/89/329/tI], § 132, as added [Pub. L. 94–482, title I][/us/pl/94/482/tI], § 101(g)(3), Oct. 12, 1976, [90 Stat. 2087][/us/stat/90/2087], set out scope of lifelong learning program, prior to the general amendment of this subchapter by [Pub. L. 96–374][/us/pl/96/374].
 
 ----------
 
@@ -454,16 +454,16 @@
 [/us/usc/t20/s1092/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1092%2Fi
 [/us/usc/t20/s1090]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1090
 [/us/usc/t20/s1090]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1090
-[/us/pl/89/329/s132]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2Fs132
-[/us/pl/110/315/s111]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2Fs111
+[/us/pl/89/329/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2FtI
+[/us/pl/110/315/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2FtI
 [/us/stat/122/3098]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3098
 [/us/pl/89/329]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329
-[/us/pl/89/329/s132]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2Fs132
-[/us/pl/102/325/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325%2Fs101
+[/us/pl/89/329/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2FtI
+[/us/pl/102/325/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325%2FtI
 [/us/stat/106/465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F465
 [/us/pl/105/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244
-[/us/pl/89/329/s132]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2Fs132
-[/us/pl/94/482/s101/g/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F482%2Fs101%2Fg%2F3
+[/us/pl/89/329/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2FtI
+[/us/pl/94/482/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F482%2FtI
 [/us/stat/90/2087]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2087
 [/us/pl/96/374]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F374
 

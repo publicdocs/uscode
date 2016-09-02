@@ -17,7 +17,7 @@
 
     For any fiscal year for which Eisenhower Exchange Fellowships, Incorporated, receive funds pursuant to [section 5203(a) of this title][/us/usc/t20/s5203/a], Eisenhower Exchange Fellowships, Incorporated, shall prepare and transmit to the President and the Congress a report of its activities for such fiscal year.
 
-([Pub. L. 101–454, § 7][/us/pl/101/454/s7], Oct. 24, 1990, [104 Stat. 1065][/us/stat/104/1065].)
+([Pub. L. 101–454][/us/pl/101/454], § 7, Oct. 24, 1990, [104 Stat. 1065][/us/stat/104/1065].)
 
 ----------
 
@@ -27,7 +27,7 @@
 ----------
 
 [/us/usc/t20/s5203/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs5203%2Fa
-[/us/pl/101/454/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F454%2Fs7
+[/us/pl/101/454]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F454
 [/us/stat/104/1065]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1065
 
 

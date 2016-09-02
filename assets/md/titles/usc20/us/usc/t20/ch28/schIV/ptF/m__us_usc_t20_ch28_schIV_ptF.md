@@ -17,9 +17,9 @@
 
  __Codification__ 
 
-    This part was originally added as part E of title IV of [Pub. L. 89–329][/us/pl/89/329] by [Pub. L. 90–575, title I, § 151][/us/pl/90/575/s151], Oct. 16, 1968, [82 Stat. 1032][/us/stat/82/1032], and subsequently redesignated part F of said title IV by [Pub. L. 92–318, title I, § 137(b)][/us/pl/92/318/s137/b], June 23, 1972, [86 Stat. 273][/us/stat/86/273], and then part G of said title IV by [Pub. L. 99–498, title IV, § 406(a)][/us/pl/99/498/s406/a], Oct. 17, 1986, [100 Stat. 1454][/us/stat/100/1454]. For codification purposes, the letter designation of this part was originally changed from “E” to “D.” It was subsequently rechanged to “E” when this part was redesignated “F”, and then to “F” when this part was redesignated “G”. See Codification notes preceding sections 1087a and 1087aa of this title.
+    This part was originally added as part E of title IV of [Pub. L. 89–329][/us/pl/89/329] by [Pub. L. 90–575, title I][/us/pl/90/575/tI], § 151, Oct. 16, 1968, [82 Stat. 1032][/us/stat/82/1032], and subsequently redesignated part F of said title IV by [Pub. L. 92–318, title I][/us/pl/92/318/tI], § 137(b), June 23, 1972, [86 Stat. 273][/us/stat/86/273], and then part G of said title IV by [Pub. L. 99–498, title IV][/us/pl/99/498/tIV], § 406(a), Oct. 17, 1986, [100 Stat. 1454][/us/stat/100/1454]. For codification purposes, the letter designation of this part was originally changed from “E” to “D.” It was subsequently rechanged to “E” when this part was redesignated “F”, and then to “F” when this part was redesignated “G”. See Codification notes preceding sections 1087a and 1087aa of this title.
 
-    Part G of title IV of the Higher Education Act of 1965, comprising this part which was editorially designated as part F of this subchapter, see Codification note above, was originally enacted by [Pub. L. 89–329, title IV][/us/pl/89/329], §§ 461 to 464 and 469, as added by [Pub. L. 90–575, title I][/us/pl/90/575], §§ 151, 152, Oct. 16, 1968, [82 Stat. 1032][/us/stat/82/1032], 1033; amended [Pub. L. 91–230][/us/pl/91/230], Apr. 13, 1970, [84 Stat. 121][/us/stat/84/121]; [Pub. L. 92–318][/us/pl/92/318], June 23, 1972, [86 Stat. 235][/us/stat/86/235]; [Pub. L. 94–482][/us/pl/94/482], Oct. 12, 1976, [90 Stat. 2081][/us/stat/90/2081]; [Pub. L. 95–43][/us/pl/95/43], June 15, 1977, [91 Stat. 213][/us/stat/91/213]; [Pub. L. 95–180][/us/pl/95/180], Nov. 15, 1977, [91 Stat. 1372][/us/stat/91/1372]; [Pub. L. 95–566][/us/pl/95/566], Nov. 1, 1978, [92 Stat. 2402][/us/stat/92/2402]; S. Res. 30, Mar. 7, 1979; [Pub. L. 96–49][/us/pl/96/49], Aug. 13, 1979, [93 Stat. 351][/us/stat/93/351]; [Pub. L. 96–374][/us/pl/96/374], Oct. 3, 1980, [94 Stat. 1367][/us/stat/94/1367]; [Pub. L. 97–35][/us/pl/97/35], Aug. 13, 1981, [95 Stat. 357][/us/stat/95/357]; [Pub. L. 98–79][/us/pl/98/79], Aug. 15, 1983, [97 Stat. 476][/us/stat/97/476]; [Pub. L. 99–272][/us/pl/99/272], Apr. 7, 1986, [100 Stat. 82][/us/stat/100/82]. Such part is shown herein, however, as having been added by [Pub. L. 99–498, title IV, § 407(a)][/us/pl/99/498/s407/a], Oct. 17, 1986, [100 Stat. 1475][/us/stat/100/1475], without reference to such intervening amendments because of the extensive revision of the part’s provisions by [Pub. L. 99–498][/us/pl/99/498].
+    Part G of title IV of the Higher Education Act of 1965, comprising this part which was editorially designated as part F of this subchapter, see Codification note above, was originally enacted by [Pub. L. 89–329, title IV][/us/pl/89/329/tIV], §§ 461 to 464 and 469, as added by [Pub. L. 90–575, title I][/us/pl/90/575/tI], §§ 151, 152, Oct. 16, 1968, [82 Stat. 1032][/us/stat/82/1032], 1033; amended [Pub. L. 91–230][/us/pl/91/230], Apr. 13, 1970, [84 Stat. 121][/us/stat/84/121]; [Pub. L. 92–318][/us/pl/92/318], June 23, 1972, [86 Stat. 235][/us/stat/86/235]; [Pub. L. 94–482][/us/pl/94/482], Oct. 12, 1976, [90 Stat. 2081][/us/stat/90/2081]; [Pub. L. 95–43][/us/pl/95/43], June 15, 1977, [91 Stat. 213][/us/stat/91/213]; [Pub. L. 95–180][/us/pl/95/180], Nov. 15, 1977, [91 Stat. 1372][/us/stat/91/1372]; [Pub. L. 95–566][/us/pl/95/566], Nov. 1, 1978, [92 Stat. 2402][/us/stat/92/2402]; S. Res. 30, Mar. 7, 1979; [Pub. L. 96–49][/us/pl/96/49], Aug. 13, 1979, [93 Stat. 351][/us/stat/93/351]; [Pub. L. 96–374][/us/pl/96/374], Oct. 3, 1980, [94 Stat. 1367][/us/stat/94/1367]; [Pub. L. 97–35][/us/pl/97/35], Aug. 13, 1981, [95 Stat. 357][/us/stat/95/357]; [Pub. L. 98–79][/us/pl/98/79], Aug. 15, 1983, [97 Stat. 476][/us/stat/97/476]; [Pub. L. 99–272][/us/pl/99/272], Apr. 7, 1986, [100 Stat. 82][/us/stat/100/82]. Such part is shown herein, however, as having been added by [Pub. L. 99–498, title IV][/us/pl/99/498/tIV], § 407(a), Oct. 17, 1986, [100 Stat. 1475][/us/stat/100/1475], without reference to such intervening amendments because of the extensive revision of the part’s provisions by [Pub. L. 99–498][/us/pl/99/498].
 
 ----------
 
@@ -29,14 +29,14 @@
 ----------
 
 [/us/pl/89/329]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329
-[/us/pl/90/575/s151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F575%2Fs151
+[/us/pl/90/575/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F575%2FtI
 [/us/stat/82/1032]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F1032
-[/us/pl/92/318/s137/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F318%2Fs137%2Fb
+[/us/pl/92/318/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F318%2FtI
 [/us/stat/86/273]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F273
-[/us/pl/99/498/s406/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F498%2Fs406%2Fa
+[/us/pl/99/498/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F498%2FtIV
 [/us/stat/100/1454]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1454
-[/us/pl/89/329]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329
-[/us/pl/90/575]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F575
+[/us/pl/89/329/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2FtIV
+[/us/pl/90/575/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F575%2FtI
 [/us/stat/82/1032]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F1032
 [/us/pl/91/230]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F230
 [/us/stat/84/121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F121
@@ -60,7 +60,7 @@
 [/us/stat/97/476]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F476
 [/us/pl/99/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F272
 [/us/stat/100/82]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F82
-[/us/pl/99/498/s407/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F498%2Fs407%2Fa
+[/us/pl/99/498/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F498%2FtIV
 [/us/stat/100/1475]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1475
 [/us/pl/99/498]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F498
 

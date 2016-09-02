@@ -11,13 +11,13 @@
 ----------
 ----------
 
-[Previous](./../../../../../..//us/usc/t20/ch70/schII/ptB/m__us_usc_t20_s6663.md) | [Next](./../../../../../..//us/usc/t20/ch70/schII/ptC/spt1/m__us_usc_t20_ch70_schII_ptC_spt1.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fch70%2FschII%2FptC)
+[Previous](./../../../../../..//us/usc/t20/ch70/schII/ptB/spt4/m__us_usc_t20_s6675.md) | [Next](./../../../../../..//us/usc/t20/ch70/schII/ptC/m__us_usc_t20_s6691.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fch70%2FschII%2FptC)
 
-#### Part C—Innovation for Teacher Quality
+#### Part C—General Provisions
 
 ----------
 
-[Previous](./../../../../../..//us/usc/t20/ch70/schII/ptB/m__us_usc_t20_s6663.md) | [Next](./../../../../../..//us/usc/t20/ch70/schII/ptC/spt1/m__us_usc_t20_ch70_schII_ptC_spt1.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fch70%2FschII%2FptC)
+[Previous](./../../../../../..//us/usc/t20/ch70/schII/ptB/spt4/m__us_usc_t20_s6675.md) | [Next](./../../../../../..//us/usc/t20/ch70/schII/ptC/m__us_usc_t20_s6691.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fch70%2FschII%2FptC)
 
 ----------
 ----------

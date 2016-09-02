@@ -57,13 +57,13 @@
 
         Each eligible entity receiving an award under subsection (a) shall develop collaborative agreements with the geographically appropriate regional resource center and, as appropriate, the regional educational laboratory supported under [section 9564 of this title][/us/usc/t20/s9564], to further parent and professional collaboration.
 
-([Pub. L. 91–230, title VI, § 673][/us/pl/91/230/s673], as added [Pub. L. 108–446, title I, § 101][/us/pl/108/446/s101], Dec. 3, 2004, [118 Stat. 2791][/us/stat/118/2791].)
+([Pub. L. 91–230, title VI][/us/pl/91/230/tVI], § 673, as added [Pub. L. 108–446, title I][/us/pl/108/446/tI], § 101, Dec. 3, 2004, [118 Stat. 2791][/us/stat/118/2791].)
 
  __Prior Provisions__ 
 
-    A prior section 1473, [Pub. L. 91–230, title VI, § 673][/us/pl/91/230/s673], as added [Pub. L. 105–17, title I, § 101][/us/pl/105/17/s101], June 4, 1997, [111 Stat. 139][/us/stat/111/139], related to personnel preparation to improve services and results for children with disabilities, prior to the general amendment of subchapters I to IV of this chapter by [Pub. L. 108–446][/us/pl/108/446].
+    A prior section 1473, [Pub. L. 91–230, title VI][/us/pl/91/230/tVI], § 673, as added [Pub. L. 105–17, title I][/us/pl/105/17/tI], § 101, June 4, 1997, [111 Stat. 139][/us/stat/111/139], related to personnel preparation to improve services and results for children with disabilities, prior to the general amendment of subchapters I to IV of this chapter by [Pub. L. 108–446][/us/pl/108/446].
 
-    Another prior section 1473, [Pub. L. 91–230, title VI, § 673][/us/pl/91/230/s673], as added [Pub. L. 99–457, title I, § 101(a)][/us/pl/99/457/s101/a], Oct. 8, 1986, [100 Stat. 1147][/us/stat/100/1147]; amended [Pub. L. 101–476, title IX, § 901(b)(164)][/us/pl/101/476/s901/b/164], Oct. 30, 1990, [104 Stat. 1150][/us/stat/104/1150]; [Pub. L. 102–119, § 25(b)][/us/pl/102/119/s25/b], Oct. 7, 1991, [105 Stat. 607][/us/stat/105/607], related to general authority of Secretary to make grants to States for development of system to provide early intervention services for infants and toddlers with disabilities and their families, prior to repeal by [Pub. L. 105–17, title II, § 203(b)][/us/pl/105/17/s203/b], June 4, 1997, [111 Stat. 157][/us/stat/111/157], effective July 1, 1998.
+    Another prior section 1473, [Pub. L. 91–230, title VI][/us/pl/91/230/tVI], § 673, as added [Pub. L. 99–457, title I][/us/pl/99/457/tI], § 101(a), Oct. 8, 1986, [100 Stat. 1147][/us/stat/100/1147]; amended [Pub. L. 101–476, title IX][/us/pl/101/476/tIX], § 901(b)(164), Oct. 30, 1990, [104 Stat. 1150][/us/stat/104/1150]; [Pub. L. 102–119][/us/pl/102/119], § 25(b), Oct. 7, 1991, [105 Stat. 607][/us/stat/105/607], related to general authority of Secretary to make grants to States for development of system to provide early intervention services for infants and toddlers with disabilities and their families, prior to repeal by [Pub. L. 105–17, title II][/us/pl/105/17/tII], § 203(b), June 4, 1997, [111 Stat. 157][/us/stat/111/157], effective July 1, 1998.
 
 ----------
 
@@ -76,21 +76,21 @@
 [/us/usc/t20/s1472]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1472
 [/us/usc/t20/s1461/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1461%2Fb
 [/us/usc/t20/s9564]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs9564
-[/us/pl/91/230/s673]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F230%2Fs673
-[/us/pl/108/446/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F446%2Fs101
+[/us/pl/91/230/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F230%2FtVI
+[/us/pl/108/446/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F446%2FtI
 [/us/stat/118/2791]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F2791
-[/us/pl/91/230/s673]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F230%2Fs673
-[/us/pl/105/17/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F17%2Fs101
+[/us/pl/91/230/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F230%2FtVI
+[/us/pl/105/17/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F17%2FtI
 [/us/stat/111/139]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F139
 [/us/pl/108/446]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F446
-[/us/pl/91/230/s673]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F230%2Fs673
-[/us/pl/99/457/s101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F457%2Fs101%2Fa
+[/us/pl/91/230/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F230%2FtVI
+[/us/pl/99/457/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F457%2FtI
 [/us/stat/100/1147]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1147
-[/us/pl/101/476/s901/b/164]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F476%2Fs901%2Fb%2F164
+[/us/pl/101/476/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F476%2FtIX
 [/us/stat/104/1150]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1150
-[/us/pl/102/119/s25/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F119%2Fs25%2Fb
+[/us/pl/102/119]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F119
 [/us/stat/105/607]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F607
-[/us/pl/105/17/s203/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F17%2Fs203%2Fb
+[/us/pl/105/17/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F17%2FtII
 [/us/stat/111/157]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F157
 
 

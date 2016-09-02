@@ -17,7 +17,7 @@
 
     Any building constructed under authority of [section 71a of this title][/us/usc/t20/s71a] shall, upon completion, be a part of the National Gallery of Art.
 
-([Pub. L. 90–376, § 2][/us/pl/90/376/s2], July 5, 1968, [82 Stat. 286][/us/stat/82/286].)
+([Pub. L. 90–376][/us/pl/90/376], § 2, July 5, 1968, [82 Stat. 286][/us/stat/82/286].)
 
  __Codification__ 
 
@@ -31,7 +31,7 @@
 ----------
 
 [/us/usc/t20/s71a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs71a
-[/us/pl/90/376/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F376%2Fs2
+[/us/pl/90/376]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F376
 [/us/stat/82/286]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F286
 [/us/act/1937-03-24/ch50]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1937-03-24%2Fch50
 [/us/stat/50/51]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F50%2F51

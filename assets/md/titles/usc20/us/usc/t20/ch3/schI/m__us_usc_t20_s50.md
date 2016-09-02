@@ -21,11 +21,11 @@
 
  __Codification__ 
 
-    R.S. § 5586 derived from [act Aug. 10, 1846, ch. 178, § 6][/us/act/1846-08-10/ch178/s6], [9 Stat. 105][/us/stat/9/105].
+    R.S. § 5586 derived from [act Aug. 10, 1846, ch. 178][/us/act/1846-08-10/ch178], § 6, [9 Stat. 105][/us/stat/9/105].
 
  __Laboratory Space, Gamboa, Panama__ 
 
-[Pub. L. 111–11, title XV, § 15102][/us/pl/111/11/s15102], Mar. 30, 2009, [123 Stat. 1456][/us/stat/123/1456], provided that:
+[Pub. L. 111–11, title XV][/us/pl/111/11/tXV], § 15102, Mar. 30, 2009, [123 Stat. 1456][/us/stat/123/1456], provided that:
 
 >     “(a)  __Authority To Construct__  __.—__ 
 
@@ -37,7 +37,7 @@
 
  __Veritas Astrophysical Observatory Project; Authorization of Construction and Appropriations__ 
 
-[Pub. L. 108–331][/us/pl/108/331], Oct. 16, 2004, [118 Stat. 1281][/us/stat/118/1281], as amended by [Pub. L. 110–341, § 1(2)][/us/pl/110/341/s1/2], Oct. 3, 2008, [122 Stat. 3738][/us/stat/122/3738], provided that:
+[Pub. L. 108–331][/us/pl/108/331], Oct. 16, 2004, [118 Stat. 1281][/us/stat/118/1281], as amended by [Pub. L. 110–341][/us/pl/110/341], § 1(2), Oct. 3, 2008, [122 Stat. 3738][/us/stat/122/3738], provided that:
 
 > “SECTION 1. __AUTHORIZING BOARD OF REGENTS OF SMITHSONIAN INSTITUTION TO CARRY OUT CONSTRUCTION AND RELATED ACTIVITIES IN SUPPORT OF VERITAS ASTROPHYSICAL OBSERVATORY PROJECT.__ 
 
@@ -49,7 +49,7 @@
 
  __Collection and Preservation of Artifacts Relating to September 11th Attacks__ 
 
-[Pub. L. 107–117, div. B, § 701][/us/pl/107/117/s701], Jan. 10, 2002, [115 Stat. 2311][/us/stat/115/2311], provided that:
+[Pub. L. 107–117, div. B][/us/pl/107/117/dB], § 701, Jan. 10, 2002, [115 Stat. 2311][/us/stat/115/2311], provided that:
 
 >     “(a)  __In General__  __.—__ 
 
@@ -85,7 +85,7 @@
 
  __Smithsonian Institution Transportation Program__ 
 
-[Pub. L. 105–178, title I, § 1214(b)][/us/pl/105/178/s1214/b], June 9, 1998, [112 Stat. 204][/us/stat/112/204], provided that:
+[Pub. L. 105–178, title I][/us/pl/105/178/tI], § 1214(b), June 9, 1998, [112 Stat. 204][/us/stat/112/204], provided that:
 
 >     “(1)  __In general__  __.—__ 
 
@@ -113,7 +113,7 @@
 
  __National Health Museum__ 
 
-    [Pub. L. 105–78, title VII][/us/pl/105/78], Nov. 13, 1997, [111 Stat. 1524][/us/stat/111/1524], known as the National Health Museum Development Act, which provided that the National Health Museum would be located on or near the Mall, established the National Health Museum Commission and its duties, including submission of a report to the President and Congress, provided that all Commission activities would be administered in accordance with the Federal Advisory Committee Act, provided for compensation of Commission members who were not officers or employees of the U.S., appropriated funds, and specified the Commission would terminate 60 days after submission of the report, was repealed, except for section 702, by [Pub. L. 107–303, title III, § 303][/us/pl/107/303/s303], Nov. 27, 2002, [116 Stat. 2361][/us/stat/116/2361]. [Section 702 of Pub. L. 105–78][/us/pl/105/78/s702] amended [section 1067 of Pub. L. 103–337][/us/pl/103/337/s1067], set out as a note under [section 176 of Title 10][/us/usc/t10/s176], Armed Forces.
+    [Pub. L. 105–78, title VII][/us/pl/105/78/tVII], Nov. 13, 1997, [111 Stat. 1524][/us/stat/111/1524], known as the National Health Museum Development Act, which provided that the National Health Museum would be located on or near the Mall, established the National Health Museum Commission and its duties, including submission of a report to the President and Congress, provided that all Commission activities would be administered in accordance with the Federal Advisory Committee Act, provided for compensation of Commission members who were not officers or employees of the U.S., appropriated funds, and specified the Commission would terminate 60 days after submission of the report, was repealed, except for section 702, by [Pub. L. 107–303, title III][/us/pl/107/303/tIII], § 303, Nov. 27, 2002, [116 Stat. 2361][/us/stat/116/2361]. [Section 702 of Pub. L. 105–78][/us/pl/105/78/s702] amended [section 1067 of Pub. L. 103–337][/us/pl/103/337/s1067], set out as a note under [section 176 of Title 10][/us/usc/t10/s176], Armed Forces.
 
  __West Court of National Museum of Natural History Building__ 
 
@@ -129,7 +129,7 @@
 
  __East Court of National Museum of Natural History Building__ 
 
-[Pub. L. 101–455][/us/pl/101/455], Oct. 24, 1990, [104 Stat. 1067][/us/stat/104/1067], as amended by [Pub. L. 103–98, § 1(a)][/us/pl/103/98/s1/a], Oct. 6, 1993, [107 Stat. 1015][/us/stat/107/1015], provided that:
+[Pub. L. 101–455][/us/pl/101/455], Oct. 24, 1990, [104 Stat. 1067][/us/stat/104/1067], as amended by [Pub. L. 103–98][/us/pl/103/98], § 1(a), Oct. 6, 1993, [107 Stat. 1015][/us/stat/107/1015], provided that:
 
 > “SECTION 1. __ADDITIONAL SPACE IN NATIONAL MUSEUM OF NATURAL HISTORY.__ 
 
@@ -147,7 +147,7 @@
 
  __Charles McC. Mathias, Jr. Laboratory for Environmental Research__ 
 
-[Pub. L. 111–11, title XV, § 15101][/us/pl/111/11/s15101], Mar. 30, 2009, [123 Stat. 1456][/us/stat/123/1456], provided that:
+[Pub. L. 111–11, title XV][/us/pl/111/11/tXV], § 15101, Mar. 30, 2009, [123 Stat. 1456][/us/stat/123/1456], provided that:
 
 >     “(a)  __Authority To Design and Construct__  __.—__ 
 
@@ -157,7 +157,7 @@
 
 >     There is authorized to be appropriated to carry out this section a total of $41,000,000 for fiscal years 2009 through 2011. Such sums shall remain available until expended.”
 
-[Pub. L. 99–617, § 1][/us/pl/99/617/s1], Nov. 6, 1986, [100 Stat. 3488][/us/stat/100/3488], provided that:
+[Pub. L. 99–617][/us/pl/99/617], § 1, Nov. 6, 1986, [100 Stat. 3488][/us/stat/100/3488], provided that:
 
 >     “(a)  __Construction Authorization__  __.—__ 
 
@@ -221,7 +221,7 @@
 
  __Smithsonian Institution Plans for and Construction of Museum Support Facilities; Approval of Plans and Specifications; Situs; Transfer of Land; Appropriations; Contracts by General Services Administration__ 
 
-[Pub. L. 111–11, title XV, § 15103][/us/pl/111/11/s15103], Mar. 30, 2009, [123 Stat. 1456][/us/stat/123/1456], provided that:
+[Pub. L. 111–11, title XV][/us/pl/111/11/tXV], § 15103, Mar. 30, 2009, [123 Stat. 1456][/us/stat/123/1456], provided that:
 
 >     “(a)  __In General__  __.—__ 
 
@@ -231,7 +231,7 @@
 
 >     There is authorized to be appropriated $12,000,000 to carry out this section. Such sums shall remain available until expended.”
 
-[Pub. L. 94–98][/us/pl/94/98], Sept. 19, 1975, [89 Stat. 480][/us/stat/89/480], as amended by [Pub. L. 95–569][/us/pl/95/569], Nov. 2, 1978, [92 Stat. 2444][/us/stat/92/2444]; [Pub. L. 108–72, § 2][/us/pl/108/72/s2], Aug. 15, 2003, [117 Stat. 888][/us/stat/117/888], provided that: 
+[Pub. L. 94–98][/us/pl/94/98], Sept. 19, 1975, [89 Stat. 480][/us/stat/89/480], as amended by [Pub. L. 95–569][/us/pl/95/569], Nov. 2, 1978, [92 Stat. 2444][/us/stat/92/2444]; [Pub. L. 108–72][/us/pl/108/72], § 2, Aug. 15, 2003, [117 Stat. 888][/us/stat/117/888], provided that: 
 
 > “The Regents of the Smithsonian Institution are authorized to prepare plans for, and to construct, museum support facilities to be used for (1) the care, curation, conservation, deposit, preparation, and study of the national collections of scientific, historic, and artistic objects, specimens, and artifacts; (2) the related documentation of such collections of the Smithsonian Institution; and (3) the training of museum conservators. No appropriation shall be made to construct the facilities authorized by this Act until the Committee on Public Works and Transportation of the House of Representatives and the Committee on Rules and Administration of the Senate, by resolution approve the final plans and specifications of such facilities.
 
@@ -261,7 +261,7 @@
 
  __National Museum__ 
 
-    The National Museum was not created by any express statutory provision for that purpose. It was first mentioned in an appropriation for postage for “the National Museum in the Smithsonian Institution,” contained in [act June 20, 1874, ch. 328, § 1][/us/act/1874-06-20/ch328/s1], [18 Stat. 103][/us/stat/18/103]. An appropriation for a building for the use of the National Museum was made by [act Mar. 3, 1879, ch. 182, § 1][/us/act/1879-03-03/ch182/s1], [20 Stat. 397][/us/stat/20/397], and annual appropriations have continuously been made for expenses of heating, etc., such building.
+    The National Museum was not created by any express statutory provision for that purpose. It was first mentioned in an appropriation for postage for “the National Museum in the Smithsonian Institution,” contained in [act June 20, 1874, ch. 328][/us/act/1874-06-20/ch328], § 1, [18 Stat. 103][/us/stat/18/103]. An appropriation for a building for the use of the National Museum was made by [act Mar. 3, 1879, ch. 182][/us/act/1879-03-03/ch182], § 1, [20 Stat. 397][/us/stat/20/397], and annual appropriations have continuously been made for expenses of heating, etc., such building.
 
  __National Museum Exhibit__ 
 
@@ -278,23 +278,23 @@
 ----------
 ----------
 
-[/us/act/1846-08-10/ch178/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1846-08-10%2Fch178%2Fs6
+[/us/act/1846-08-10/ch178]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1846-08-10%2Fch178
 [/us/stat/9/105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F9%2F105
-[/us/pl/111/11/s15102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F11%2Fs15102
+[/us/pl/111/11/tXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F11%2FtXV
 [/us/stat/123/1456]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1456
 [/us/pl/108/331]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F331
 [/us/stat/118/1281]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1281
-[/us/pl/110/341/s1/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F341%2Fs1%2F2
+[/us/pl/110/341]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F341
 [/us/stat/122/3738]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3738
-[/us/pl/107/117/s701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F117%2Fs701
+[/us/pl/107/117/dB]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F117%2FdB
 [/us/stat/115/2311]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F2311
 [/us/pl/106/383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F383
 [/us/stat/114/1459]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1459
-[/us/pl/105/178/s1214/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178%2Fs1214%2Fb
+[/us/pl/105/178/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178%2FtI
 [/us/stat/112/204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F204
-[/us/pl/105/78]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F78
+[/us/pl/105/78/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F78%2FtVII
 [/us/stat/111/1524]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1524
-[/us/pl/107/303/s303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F303%2Fs303
+[/us/pl/107/303/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F303%2FtIII
 [/us/stat/116/2361]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2361
 [/us/pl/105/78/s702]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F78%2Fs702
 [/us/pl/103/337/s1067]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs1067
@@ -303,13 +303,13 @@
 [/us/stat/107/1515]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F1515
 [/us/pl/101/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F455
 [/us/stat/104/1067]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1067
-[/us/pl/103/98/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F98%2Fs1%2Fa
+[/us/pl/103/98]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F98
 [/us/stat/107/1015]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F1015
 [/us/pl/103/98/s1/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F98%2Fs1%2Fb
 [/us/pl/101/455/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F455%2Fs2
-[/us/pl/111/11/s15101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F11%2Fs15101
+[/us/pl/111/11/tXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F11%2FtXV
 [/us/stat/123/1456]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1456
-[/us/pl/99/617/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F617%2Fs1
+[/us/pl/99/617]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F617
 [/us/stat/100/3488]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3488
 [/us/pl/99/423]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F423
 [/us/stat/100/963]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F963
@@ -319,18 +319,18 @@
 [/us/stat/96/129]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F129
 [/us/pl/96/36]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F36
 [/us/stat/93/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F94
-[/us/pl/111/11/s15103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F11%2Fs15103
+[/us/pl/111/11/tXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F11%2FtXV
 [/us/stat/123/1456]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1456
 [/us/pl/94/98]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F98
 [/us/stat/89/480]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F480
 [/us/pl/95/569]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F569
 [/us/stat/92/2444]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2444
-[/us/pl/108/72/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F72%2Fs2
+[/us/pl/108/72]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F72
 [/us/stat/117/888]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F888
 [/us/pl/95/569]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F569
-[/us/act/1874-06-20/ch328/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1874-06-20%2Fch328%2Fs1
+[/us/act/1874-06-20/ch328]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1874-06-20%2Fch328
 [/us/stat/18/103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F18%2F103
-[/us/act/1879-03-03/ch182/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1879-03-03%2Fch182%2Fs1
+[/us/act/1879-03-03/ch182]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1879-03-03%2Fch182
 [/us/stat/20/397]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F20%2F397
 [/us/act/1922-02-28/ch86]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1922-02-28%2Fch86
 [/us/stat/42/399]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F42%2F399

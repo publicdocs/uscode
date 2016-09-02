@@ -23,7 +23,7 @@
 
     (3) the term “State agency for higher education” means the State board of higher education or other agency or officer primarily responsible for the State supervision of higher education, or if there is no such officer or agency, an officer or agency designated by the Governor or by State law.
 
-([Pub. L. 98–377, title III, § 303][/us/pl/98/377/s303], Aug. 11, 1984, [98 Stat. 1283][/us/stat/98/1283]; [Pub. L. 99–159, title II, § 232][/us/pl/99/159/s232], Nov. 22, 1985, [99 Stat. 900][/us/stat/99/900]; [Pub. L. 100–418, title VI, § 6031(b)(2)][/us/pl/100/418/s6031/b/2], Aug. 23, 1988, [102 Stat. 1483][/us/stat/102/1483].)
+([Pub. L. 98–377, title III][/us/pl/98/377/tIII], § 303, Aug. 11, 1984, [98 Stat. 1283][/us/stat/98/1283]; [Pub. L. 99–159, title II][/us/pl/99/159/tII], § 232, Nov. 22, 1985, [99 Stat. 900][/us/stat/99/900]; [Pub. L. 100–418, title VI][/us/pl/100/418/tVI], § 6031(b)(2), Aug. 23, 1988, [102 Stat. 1483][/us/stat/102/1483].)
 
  __Amendments__ 
 
@@ -42,11 +42,11 @@
 [/us/usc/t20/s3984/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs3984%2Fa
 [/us/usc/t20/s3984/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs3984%2Fb
 [/us/usc/t20/s3984/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs3984%2Fb
-[/us/pl/98/377/s303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F377%2Fs303
+[/us/pl/98/377/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F377%2FtIII
 [/us/stat/98/1283]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F1283
-[/us/pl/99/159/s232]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F159%2Fs232
+[/us/pl/99/159/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F159%2FtII
 [/us/stat/99/900]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F900
-[/us/pl/100/418/s6031/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2Fs6031%2Fb%2F2
+[/us/pl/100/418/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2FtVI
 [/us/stat/102/1483]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1483
 [/us/pl/100/418]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418
 [/us/pl/99/159]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F159

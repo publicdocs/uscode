@@ -29,11 +29,11 @@
 
         (3) a lender or loan servicer from providing outreach or financial aid literacy information in accordance with subsection (a).
 
-([Pub. L. 89–329, title IV, § 433A][/us/pl/89/329/s433A], as added [Pub. L. 110–315, title IV, § 435][/us/pl/110/315/s435], Aug. 14, 2008, [122 Stat. 3252][/us/stat/122/3252].)
+([Pub. L. 89–329, title IV][/us/pl/89/329/tIV], § 433A, as added [Pub. L. 110–315, title IV][/us/pl/110/315/tIV], § 435, Aug. 14, 2008, [122 Stat. 3252][/us/stat/122/3252].)
 
  __Prior Provisions__ 
 
-    A prior section 1083a, [Pub. L. 89–329, title IV, § 433A][/us/pl/89/329/s433A], as added [Pub. L. 96–374, title IV, § 418][/us/pl/96/374/s418], Oct. 3, 1980, [94 Stat. 1423][/us/stat/94/1423]; amended [Pub. L. 97–301, § 13(a)][/us/pl/97/301/s13/a], Oct. 13, 1982, [96 Stat. 1404][/us/stat/96/1404]; [Pub. L. 98–79, § 3(a)][/us/pl/98/79/s3/a], Aug. 15, 1983, [97 Stat. 476][/us/stat/97/476]; [Pub. L. 99–272, title XVI, § 16012(c)][/us/pl/99/272/s16012/c], Apr. 7, 1986, [100 Stat. 340][/us/stat/100/340], related to student loan information to be provided by eligible lenders, prior to the general revision of this part by [Pub. L. 99–498][/us/pl/99/498]. See [section 1083 of this title][/us/usc/t20/s1083].
+    A prior section 1083a, [Pub. L. 89–329, title IV][/us/pl/89/329/tIV], § 433A, as added [Pub. L. 96–374, title IV][/us/pl/96/374/tIV], § 418, Oct. 3, 1980, [94 Stat. 1423][/us/stat/94/1423]; amended [Pub. L. 97–301][/us/pl/97/301], § 13(a), Oct. 13, 1982, [96 Stat. 1404][/us/stat/96/1404]; [Pub. L. 98–79][/us/pl/98/79], § 3(a), Aug. 15, 1983, [97 Stat. 476][/us/stat/97/476]; [Pub. L. 99–272, title XVI][/us/pl/99/272/tXVI], § 16012(c), Apr. 7, 1986, [100 Stat. 340][/us/stat/100/340], related to student loan information to be provided by eligible lenders, prior to the general revision of this part by [Pub. L. 99–498][/us/pl/99/498]. See [section 1083 of this title][/us/usc/t20/s1083].
 
 ----------
 
@@ -43,17 +43,17 @@
 ----------
 
 [/us/usc/t20/s1072]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1072
-[/us/pl/89/329/s433A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2Fs433A
-[/us/pl/110/315/s435]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2Fs435
+[/us/pl/89/329/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2FtIV
+[/us/pl/110/315/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2FtIV
 [/us/stat/122/3252]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3252
-[/us/pl/89/329/s433A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2Fs433A
-[/us/pl/96/374/s418]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F374%2Fs418
+[/us/pl/89/329/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2FtIV
+[/us/pl/96/374/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F374%2FtIV
 [/us/stat/94/1423]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F1423
-[/us/pl/97/301/s13/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F301%2Fs13%2Fa
+[/us/pl/97/301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F301
 [/us/stat/96/1404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1404
-[/us/pl/98/79/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F79%2Fs3%2Fa
+[/us/pl/98/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F79
 [/us/stat/97/476]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F476
-[/us/pl/99/272/s16012/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F272%2Fs16012%2Fc
+[/us/pl/99/272/tXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F272%2FtXVI
 [/us/stat/100/340]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F340
 [/us/pl/99/498]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F498
 [/us/usc/t20/s1083]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1083

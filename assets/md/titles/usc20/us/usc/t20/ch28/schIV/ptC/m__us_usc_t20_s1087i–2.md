@@ -49,7 +49,7 @@
 
             (B) in accordance with section 1077a(l)(3) of this title.
 
-([Pub. L. 89–329, title IV, § 459B][/us/pl/89/329/s459B], as added [Pub. L. 111–152, title II, § 2206(b)][/us/pl/111/152/s2206/b], Mar. 30, 2010, [124 Stat. 1075][/us/stat/124/1075].)
+([Pub. L. 89–329, title IV][/us/pl/89/329/tIV], § 459B, as added [Pub. L. 111–152, title II][/us/pl/111/152/tII], § 2206(b), Mar. 30, 2010, [124 Stat. 1075][/us/stat/124/1075].)
 
 ----------
 
@@ -61,8 +61,8 @@
 [/us/usc/t20/s1087i–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1087i%E2%80%931
 [/us/usc/t20/s1085/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1085%2Fd
 [/us/usc/t20/s1087e/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1087e%2Fg
-[/us/pl/89/329/s459B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2Fs459B
-[/us/pl/111/152/s2206/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F152%2Fs2206%2Fb
+[/us/pl/89/329/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2FtIV
+[/us/pl/111/152/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F152%2FtII
 [/us/stat/124/1075]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1075
 
 

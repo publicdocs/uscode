@@ -17,7 +17,7 @@
 
     The accounts of the Board shall be audited in accordance with the principles and procedures applicable to, and as part of, the audit of the other Federal and trust funds of the Smithsonian Institution.
 
-([Pub. L. 90–637, § 8][/us/pl/90/637/s8], formerly § 7, Oct. 24, 1968, [82 Stat. 1359][/us/stat/82/1359], renumbered [Pub. L. 95–286, § 1(1)][/us/pl/95/286/s1/1], May 26, 1978, [92 Stat. 278][/us/stat/92/278].)
+([Pub. L. 90–637][/us/pl/90/637], § 8, formerly § 7, Oct. 24, 1968, [82 Stat. 1359][/us/stat/82/1359], renumbered [Pub. L. 95–286][/us/pl/95/286], § 1(1), May 26, 1978, [92 Stat. 278][/us/stat/92/278].)
 
 ----------
 
@@ -26,9 +26,9 @@
 ----------
 ----------
 
-[/us/pl/90/637/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F637%2Fs8
+[/us/pl/90/637]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F637
 [/us/stat/82/1359]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F1359
-[/us/pl/95/286/s1/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F286%2Fs1%2F1
+[/us/pl/95/286]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F286
 [/us/stat/92/278]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F278
 
 

@@ -37,7 +37,7 @@
 
         It shall be unlawful for the Secretary to defer or limit any Federal financial assistance on the basis of any failure to comply with the imposition of quotas (or any other numerical requirements which have the effect of imposing quotas) on the student admission practices of an institution of higher education or community college receiving Federal financial assistance.
 
-([Pub. L. 90–247, title IV, § 446][/us/pl/90/247/s446], formerly § 440, as added [Pub. L. 93–380, title V, § 515(a)][/us/pl/93/380/s515/a], Aug. 21, 1974, [88 Stat. 574][/us/stat/88/574]; amended [Pub. L. 94–482, title IV][/us/pl/94/482], §§ 407, 408, Oct. 12, 1976, [90 Stat. 2232][/us/stat/90/2232], 2233; renumbered § 446 and amended [Pub. L. 103–382, title II, § 212(b)(1)][/us/pl/103/382/s212/b/1], (3)(C), Oct. 20, 1994, [108 Stat. 3913][/us/stat/108/3913].)
+([Pub. L. 90–247, title IV][/us/pl/90/247/tIV], § 446, formerly § 440, as added [Pub. L. 93–380, title V][/us/pl/93/380/tV], § 515(a), Aug. 21, 1974, [88 Stat. 574][/us/stat/88/574]; amended [Pub. L. 94–482, title IV][/us/pl/94/482/tIV], §§ 407, 408, Oct. 12, 1976, [90 Stat. 2232][/us/stat/90/2232], 2233; renumbered § 446 and amended [Pub. L. 103–382, title II][/us/pl/103/382/tII], § 212(b)(1), (3)(C), Oct. 20, 1994, [108 Stat. 3913][/us/stat/108/3913].)
 
  __References in Text__ 
 
@@ -49,7 +49,7 @@
 
  __Amendments__ 
 
-    1994—Subsec. (a). [Pub. L. 103–382, § 212(b)(3)(C)][/us/pl/103/382/s212/b/3/C], made technical amendment to reference to [section 1232g(b)(1)(D) of this title][/us/usc/t20/s1232g/b/1/D] to reflect renumbering of corresponding section of original act.
+    1994—Subsec. (a). [Pub. L. 103–382][/us/pl/103/382], § 212(b)(3)(C), made technical amendment to reference to [section 1232g(b)(1)(D) of this title][/us/usc/t20/s1232g/b/1/D] to reflect renumbering of corresponding section of original act.
 
     1976—[Pub. L. 94–482][/us/pl/94/482] designated existing provisions as subsec. (a) and added subsecs. (b) and (c).
 
@@ -59,7 +59,7 @@
 
  __Effective Date__ 
 
-[Pub. L. 93–380, title V, § 515(b)][/us/pl/93/380/s515/b], Aug. 21, 1974, [88 Stat. 574][/us/stat/88/574], provided that: 
+[Pub. L. 93–380, title V][/us/pl/93/380/tV], § 515(b), Aug. 21, 1974, [88 Stat. 574][/us/stat/88/574], provided that: 
 
 > “The amendment made by subsection (a) \[enacting this section\] shall be effective upon enactment of this Act \[Aug. 21, 1974\].”
 
@@ -72,12 +72,12 @@
 
 [/us/usc/t20/s1232g/b/1/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1232g%2Fb%2F1%2FD
 [/us/usc/t42/s2000d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2000d
-[/us/pl/90/247/s446]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F247%2Fs446
-[/us/pl/93/380/s515/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F380%2Fs515%2Fa
+[/us/pl/90/247/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F247%2FtIV
+[/us/pl/93/380/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F380%2FtV
 [/us/stat/88/574]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F574
-[/us/pl/94/482]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F482
+[/us/pl/94/482/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F482%2FtIV
 [/us/stat/90/2232]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2232
-[/us/pl/103/382/s212/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F382%2Fs212%2Fb%2F1
+[/us/pl/103/382/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F382%2FtII
 [/us/stat/108/3913]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3913
 [/us/pl/88/352]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F352
 [/us/stat/78/241]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F241
@@ -85,13 +85,13 @@
 [/us/pl/90/247/s446]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F247%2Fs446
 [/us/usc/t20/s1233e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1233e
 [/us/pl/103/382]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F382
-[/us/pl/103/382/s212/b/3/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F382%2Fs212%2Fb%2F3%2FC
+[/us/pl/103/382]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F382
 [/us/usc/t20/s1232g/b/1/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1232g%2Fb%2F1%2FD
 [/us/pl/94/482]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F482
 [/us/pl/94/482]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F482
 [/us/pl/94/482/s532]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F482%2Fs532
 [/us/usc/t20/s1001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1001
-[/us/pl/93/380/s515/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F380%2Fs515%2Fb
+[/us/pl/93/380/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F380%2FtV
 [/us/stat/88/574]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F574
 
 

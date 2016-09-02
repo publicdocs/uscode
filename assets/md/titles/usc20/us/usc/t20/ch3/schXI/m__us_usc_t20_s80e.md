@@ -25,11 +25,11 @@
 
     (4) that the establishment of such a center would be consonant with the purposes of the Smithsonian Institution, created by Congress in 1846 “for the increase and diffusion of knowledge among men.”
 
-([Pub. L. 90–637, § 2][/us/pl/90/637/s2], Oct. 24, 1968, [82 Stat. 1357][/us/stat/82/1357].)
+([Pub. L. 90–637][/us/pl/90/637], § 2, Oct. 24, 1968, [82 Stat. 1357][/us/stat/82/1357].)
 
  __Short Title__ 
 
-[Pub. L. 90–637, § 1][/us/pl/90/637/s1], Oct. 24, 1968, [82 Stat. 1356][/us/stat/82/1356], provided: 
+[Pub. L. 90–637][/us/pl/90/637], § 1, Oct. 24, 1968, [82 Stat. 1356][/us/stat/82/1356], provided: 
 
 > “That this Act \[enacting this subchapter\] may be cited as the ‘Woodrow Wilson Memorial Act of 1968’.”
 
@@ -40,9 +40,9 @@
 ----------
 ----------
 
-[/us/pl/90/637/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F637%2Fs2
+[/us/pl/90/637]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F637
 [/us/stat/82/1357]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F1357
-[/us/pl/90/637/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F637%2Fs1
+[/us/pl/90/637]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F637
 [/us/stat/82/1356]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F1356
 
 

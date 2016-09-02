@@ -13,9 +13,9 @@
 
 [Previous](./../../../../../..//us/usc/t20/ch28/schIV/ptB/m__us_usc_t20_s1078–8.md) | [Next](./../../../../../..//us/usc/t20/ch28/schIV/ptB/m__us_usc_t20_s1078–10.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1078%E2%80%939)
 
-## § 1078–9. Repealed. [Pub. L. 110–84, title III, § 302(a)][/us/pl/110/84/s302/a], Sept. 27, 2007, [121 Stat. 796][/us/stat/121/796]
+## § 1078–9. Repealed. [Pub. L. 110–84, title III][/us/pl/110/84/tIII], § 302(a), Sept. 27, 2007, [121 Stat. 796][/us/stat/121/796]
 
-    Section, [Pub. L. 89–329, title IV, § 428I][/us/pl/89/329/s428I], as added [Pub. L. 102–325, title IV, § 422][/us/pl/102/325/s422], July 23, 1992, [106 Stat. 536][/us/stat/106/536]; amended [Pub. L. 103–208, § 2(c)(46)][/us/pl/103/208/s2/c/46], Dec. 20, 1993, [107 Stat. 2467][/us/stat/107/2467]; [Pub. L. 109–171, title VIII, § 8014(i)][/us/pl/109/171/s8014/i], Feb. 8, 2006, [120 Stat. 171][/us/stat/120/171], related to special insurance and reinsurance rules.
+    Section, [Pub. L. 89–329, title IV][/us/pl/89/329/tIV], § 428I, as added [Pub. L. 102–325, title IV][/us/pl/102/325/tIV], § 422, July 23, 1992, [106 Stat. 536][/us/stat/106/536]; amended [Pub. L. 103–208][/us/pl/103/208], § 2(c)(46), Dec. 20, 1993, [107 Stat. 2467][/us/stat/107/2467]; [Pub. L. 109–171, title VIII][/us/pl/109/171/tVIII], § 8014(i), Feb. 8, 2006, [120 Stat. 171][/us/stat/120/171], related to special insurance and reinsurance rules.
 
  __Effective Date of Repeal__ 
 
@@ -28,14 +28,14 @@
 ----------
 ----------
 
-[/us/pl/110/84/s302/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F84%2Fs302%2Fa
+[/us/pl/110/84/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F84%2FtIII
 [/us/stat/121/796]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F796
-[/us/pl/89/329/s428I]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2Fs428I
-[/us/pl/102/325/s422]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325%2Fs422
+[/us/pl/89/329/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2FtIV
+[/us/pl/102/325/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325%2FtIV
 [/us/stat/106/536]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F536
-[/us/pl/103/208/s2/c/46]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F208%2Fs2%2Fc%2F46
+[/us/pl/103/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F208
 [/us/stat/107/2467]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F2467
-[/us/pl/109/171/s8014/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F171%2Fs8014%2Fi
+[/us/pl/109/171/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F171%2FtVIII
 [/us/stat/120/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F171
 [/us/pl/110/84/s302/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F84%2Fs302%2Fc
 [/us/usc/t20/s1078]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1078

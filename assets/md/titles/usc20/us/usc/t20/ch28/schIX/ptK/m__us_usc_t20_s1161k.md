@@ -235,15 +235,15 @@
 
         There are authorized to be appropriated to carry out this section such sums as may be necessary for fiscal year 2009 and each of the five succeeding fiscal years. The Secretary may use not more than two percent of the amounts appropriated to provide the technical assistance and conduct the evaluations required under subsection (f).
 
-([Pub. L. 89–329, title VIII, § 820][/us/pl/89/329/s820], as added [Pub. L. 110–315, title VIII, § 801][/us/pl/110/315/s801], Aug. 14, 2008, [122 Stat. 3404][/us/stat/122/3404]; amended [Pub. L. 111–39, title VIII, § 801(5)][/us/pl/111/39/s801/5], July 1, 2009, [123 Stat. 1955][/us/stat/123/1955].)
+([Pub. L. 89–329, title VIII][/us/pl/89/329/tVIII], § 820, as added [Pub. L. 110–315, title VIII][/us/pl/110/315/tVIII], § 801, Aug. 14, 2008, [122 Stat. 3404][/us/stat/122/3404]; amended [Pub. L. 111–39, title VIII][/us/pl/111/39/tVIII], § 801(5), July 1, 2009, [123 Stat. 1955][/us/stat/123/1955].)
 
  __Amendments__ 
 
-    2009—Subsec. (d)(5). [Pub. L. 111–39, § 801(5)(A)][/us/pl/111/39/s801/5/A], inserted “the” before “grant”.
+    2009—Subsec. (d)(5). [Pub. L. 111–39][/us/pl/111/39], § 801(5)(A), inserted “the” before “grant”.
 
-    Subsec. (f)(2). [Pub. L. 111–39, § 801(5)(B)][/us/pl/111/39/s801/5/B], substituted “section” for “subpart” in two places.
+    Subsec. (f)(2). [Pub. L. 111–39][/us/pl/111/39], § 801(5)(B), substituted “section” for “subpart” in two places.
 
-    Subsec. (h). [Pub. L. 111–39, § 801(5)(C)][/us/pl/111/39/s801/5/C], substituted “used” for “use”.
+    Subsec. (h). [Pub. L. 111–39][/us/pl/111/39], § 801(5)(C), substituted “used” for “use”.
 
  __Effective Date of 2009 Amendment__ 
 
@@ -259,14 +259,14 @@
 [/us/usc/t20/s1001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1001
 [/us/usc/t20/s1070a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1070a
 [/us/usc/t20/s1070a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1070a
-[/us/pl/89/329/s820]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2Fs820
-[/us/pl/110/315/s801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2Fs801
+[/us/pl/89/329/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2FtVIII
+[/us/pl/110/315/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2FtVIII
 [/us/stat/122/3404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3404
-[/us/pl/111/39/s801/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F39%2Fs801%2F5
+[/us/pl/111/39/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F39%2FtVIII
 [/us/stat/123/1955]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1955
-[/us/pl/111/39/s801/5/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F39%2Fs801%2F5%2FA
-[/us/pl/111/39/s801/5/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F39%2Fs801%2F5%2FB
-[/us/pl/111/39/s801/5/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F39%2Fs801%2F5%2FC
+[/us/pl/111/39]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F39
+[/us/pl/111/39]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F39
+[/us/pl/111/39]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F39
 [/us/pl/111/39]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F39
 [/us/pl/110/315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315
 [/us/pl/111/39/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F39%2Fs3

@@ -49,7 +49,7 @@
 
         Members of the Board shall serve without pay, but shall be entitled to reimbursement for travel, subsistence, and other necessary expenses incurred in the performance of their duties.
 
-([Pub. L. 99–661, div. A, title XIV, § 1404][/us/pl/99/661/s1404], Nov. 14, 1986, [100 Stat. 4008][/us/stat/100/4008]; [Pub. L. 100–26, § 3(10)][/us/pl/100/26/s3/10], Apr. 21, 1987, [101 Stat. 274][/us/stat/101/274]; [Pub. L. 102–190, div. A, title X, § 1089(1)][/us/pl/102/190/s1089/1], Dec. 5, 1991, [105 Stat. 1485][/us/stat/105/1485]; [Pub. L. 103–160, div. A, title XI, § 1179(a)][/us/pl/103/160/s1179/a], Nov. 30, 1993, [107 Stat. 1770][/us/stat/107/1770].)
+([Pub. L. 99–661, div. A, title XIV][/us/pl/99/661/dA/tXIV], § 1404, Nov. 14, 1986, [100 Stat. 4008][/us/stat/100/4008]; [Pub. L. 100–26][/us/pl/100/26], § 3(10), Apr. 21, 1987, [101 Stat. 274][/us/stat/101/274]; [Pub. L. 102–190, div. A, title X][/us/pl/102/190/dA/tX], § 1089(1), Dec. 5, 1991, [105 Stat. 1485][/us/stat/105/1485]; [Pub. L. 103–160, div. A, title XI][/us/pl/103/160/dA/tXI], § 1179(a), Nov. 30, 1993, [107 Stat. 1770][/us/stat/107/1770].)
 
  __Amendments__ 
 
@@ -70,13 +70,13 @@
 ----------
 ----------
 
-[/us/pl/99/661/s1404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F661%2Fs1404
+[/us/pl/99/661/dA/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F661%2FdA%2FtXIV
 [/us/stat/100/4008]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F4008
-[/us/pl/100/26/s3/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F26%2Fs3%2F10
+[/us/pl/100/26]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F26
 [/us/stat/101/274]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F274
-[/us/pl/102/190/s1089/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F190%2Fs1089%2F1
+[/us/pl/102/190/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F190%2FdA%2FtX
 [/us/stat/105/1485]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1485
-[/us/pl/103/160/s1179/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160%2Fs1179%2Fa
+[/us/pl/103/160/dA/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160%2FdA%2FtXI
 [/us/stat/107/1770]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F1770
 [/us/pl/103/160]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160
 [/us/pl/102/190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F190

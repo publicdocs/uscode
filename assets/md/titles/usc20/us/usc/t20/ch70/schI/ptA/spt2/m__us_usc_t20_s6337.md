@@ -17,7 +17,7 @@
 
     (a) __Grants__ 
 
-        From funds appropriated under subsection (f) of this section the Secretary is authorized to make grants to States, from allotments under subsection (b) of this section, to carry out the programs and activities of this part.
+        From funds made available under [section 6332(a) of this title][/us/usc/t20/s6332/a] the Secretary is authorized to make grants to States, from allotments under subsection (b) of this section, to carry out the programs and activities of this part.
 
     (b) __Distribution based upon fiscal effort and equity__ 
 
@@ -25,7 +25,7 @@
 
             (A) __In general__ 
 
-            Except as provided in subparagraph (B), funds appropriated pursuant to subsection (f) of this section shall be allotted to each State based upon the number of children counted under [section 6333(c) of this title][/us/usc/t20/s6333/c] in such State multiplied by the product of—
+            Except as provided in subparagraph (B), funds made available for any fiscal year to carry out this section shall be allotted to each State based upon the number of children counted under [section 6333(c) of this title][/us/usc/t20/s6333/c] in such State multiplied by the product of—
 
                 (i) the amount in [section 6333(a)(1)(B) of this title][/us/usc/t20/s6333/a/1/B] for all States other than the Commonwealth of Puerto Rico, except that the amount determined under that subparagraph shall not be less that 34 percent or more than 46 percent of the average per pupil expenditure in the United States, and the amount in [section 6333(a)(4) of this title][/us/usc/t20/s6333/a/4] for the Commonwealth of Puerto Rico, except that the amount in [section 6333(a)(4)(A)(ii) of this title][/us/usc/t20/s6333/a/4/A/ii] shall be 34 percent of the average per pupil expenditure in the United States; multiplied by
 
@@ -37,7 +37,7 @@
 
             Notwithstanding any other provision of this section or [section 6332 of this title][/us/usc/t20/s6332], from the total amount available for any fiscal year to carry out this section, each State shall be allotted at least the lesser of—
 
-                (i) 0.35 percent of total appropriations; or
+                (i) 0.35 percent of the total amount reserved under [section 6332(a) of this title][/us/usc/t20/s6332/a] to carry out this section; or
 
                 (ii)
 
@@ -91,9 +91,9 @@
 
     All funds awarded to each State under this section shall be allocated to local educational agencies under the following provisions. Within local educational agencies, funds allocated under this section shall be distributed to schools on a basis consistent with [section 6313 of this title][/us/usc/t20/s6313], and may only be used to carry out activities under this part. A local educational agency in a State is eligible to receive a targeted grant under this section for any fiscal year if—
 
-        (A) the number of children in the local educational agency counted under [section 6333(c) of this title][/us/usc/t20/s6333/c], before application of the weighted child count described in paragraph (3), is at least 10; and
+        (1) the number of children in the local educational agency counted under [section 6333(c) of this title][/us/usc/t20/s6333/c], before application of the weighted child count described in paragraph (3), is at least 10; and
 
-        (B) if the number of children counted for grants under [section 6333(c) of this title][/us/usc/t20/s6333/c], before application of the weighted child count described in paragraph (3), is at least 5 percent of the total number of children aged 5 to 17 years, inclusive, in the school district of the local educational agency.
+        (2) if the number of children counted for grants under [section 6333(c) of this title][/us/usc/t20/s6333/c], before application of the weighted child count described in paragraph (3), is at least 5 percent of the total number of children aged 5 to 17 years, inclusive, in the school district of the local educational agency.
 
         For any fiscal year for which the Secretary allocates funds under this section on the basis of counties, funds made available as a result of applying this subsection shall be reallocated by the State educational agency to other eligible local educational agencies in the State in proportion to the distribution of other funds under this section.
 
@@ -113,7 +113,7 @@
 
                 (ii) __By percentage of children__ 
 
-                The amount referred to in clause “(i)  <sup>\[1\]</sup>  <sup><sup> 1 So in original. The opening quotation marks probably should not appear. </sup></sup>  is determined by adding—
+                The amount referred to in clause (i) is determined by adding—
 
                     (I) the number of children determined under [section 6333(c) of this title][/us/usc/t20/s6333/c] for that county who constitute not more than 15.00 percent, inclusive, of the county’s total population aged 5 to 17, inclusive, multiplied by 1.0;
 
@@ -321,25 +321,31 @@
 
         (1) __In general__ 
 
-            Except as provided in paragraph (2), a State is entitled to receive its full allotment of funds under this section for any fiscal year if the Secretary finds that either the combined fiscal effort per student or the aggregate expenditures within the State with respect to the provision of free public education for the fiscal year preceding the fiscal year for which the determination is made was not less than 90 percent of such combined fiscal effort or aggregate expenditures for the second fiscal year preceding the fiscal year for which the determination is made.
+            A State is entitled to receive its full allotment of funds under this section for any fiscal year if the Secretary finds that the State’s fiscal effort per student or the aggregate expenditures of the State with respect to the provision of free public education by the State for the preceding fiscal year was not less than 90 percent of the fiscal effort or aggregate expenditures for the second preceding fiscal year, subject to the requirements of paragraph (2).
 
-        (2) __Reduction of funds__ 
+        (2) __Reduction in case of failure to meet__ 
 
-            The Secretary shall reduce the amount of funds awarded to any State under this section in any fiscal year in the exact proportion to which the State fails to meet the requirements of paragraph (1) by falling below 90 percent of both the fiscal effort per student and aggregate expenditures (using the measure most favorable to the State), and no such lesser amount shall be used for computing the effort required under paragraph (1) for subsequent years.
+            (A) __In general__ 
 
-        (3) __Waivers__ 
+                The Secretary shall reduce the amount of the allotment of funds under this section for any fiscal year in the exact proportion by which a State fails to meet the requirement of paragraph (1) by falling below 90 percent of both the fiscal effort per student and aggregate expenditures (using the measure most favorable to the State), if such State has also failed to meet such requirement (as determined using the measure most favorable to the State) for 1 or more of the 5 immediately preceding fiscal years.
 
-            The Secretary may waive, for 1 fiscal year only, the requirements of this subsection if the Secretary determines that such a waiver would be equitable due to exceptional or uncontrollable circumstances such as a natural disaster or a precipitous and unforeseen decline in the financial resources of the State.
+            (B) __Special rule__ 
 
-    (f) __Authorization of appropriations__ 
+                No such lesser amount shall be used for computing the effort required under paragraph (1) for subsequent years.
 
-        There are authorized to be appropriated to carry out this section such sums as may be necessary for fiscal year 2002 and for each of the 5 succeeding fiscal years.
+        (3) __Waiver__ 
 
-    (g) __Adjustments where necessitated by appropriations__ 
+        The Secretary may waive the requirements of this subsection if the Secretary determines that a waiver would be equitable due to—
+
+            (A) exceptional or uncontrollable circumstances, such as a natural disaster or a change in the organizational structure of the State; or
+
+            (B) a precipitous decline in the financial resources of the State.
+
+    (f) __Adjustments where necessitated by appropriations__ 
 
         (1) __In general__ 
 
-            If the sums available under this section for any fiscal year are insufficient to pay the full amounts that all local educational agencies in States are eligible to receive under this section for such year, the Secretary shall ratably reduce the allocations to such local educational agencies, subject to paragraphs (2) and (3).
+            If the sums available under this section for any fiscal year are insufficient to pay the full amounts that all local educational agencies in States are eligible to receive to carry out this section for such year, the Secretary shall ratably reduce the allocations to such local educational agencies, subject to paragraphs (2) and (3).
 
         (2) __Additional funds__ 
 
@@ -347,7 +353,7 @@
 
         (3) __Hold-harmless amounts__ 
 
-        For each fiscal year, if sufficient funds are available, the amount made available to each local educational agency under this section shall be
+        For each fiscal year, if sufficient funds are available, the amount made available to each local educational agency under this section shall be—
 
             (A) not less than 95 percent of the amount made available for the preceding fiscal year if the number of children counted for grants under [section 6333 of this title][/us/usc/t20/s6333] is not less than 30 percent of the total number of children aged 5 to 17 years, inclusive, in the local educational agency;
 
@@ -359,13 +365,39 @@
 
             Notwithstanding any other provision of law, the Secretary shall not take into consideration the hold-harmless provisions of this subsection for any fiscal year for purposes of calculating State or local allocations for the fiscal year under any program administered by the Secretary other than a program authorized under this part.
 
-([Pub. L. 89–10, title I, § 1125A][/us/pl/89/10/s1125A], as added [Pub. L. 107–110, title I, § 101][/us/pl/107/110/s101], Jan. 8, 2002, [115 Stat. 1525][/us/stat/115/1525].)
+([Pub. L. 89–10, title I][/us/pl/89/10/tI], § 1125A, as added [Pub. L. 107–110, title I][/us/pl/107/110/tI], § 101, Jan. 8, 2002, [115 Stat. 1525][/us/stat/115/1525]; amended [Pub. L. 114–95, title I][/us/pl/114/95/tI], § 1017, Dec. 10, 2015, [129 Stat. 1878][/us/stat/129/1878].)
 
  __Prior Provisions__ 
 
-    A prior section 6337, [Pub. L. 89–10, title I, § 1126][/us/pl/89/10/s1126], as added [Pub. L. 103–382, title I, § 101][/us/pl/103/382/s101], Oct. 20, 1994, [108 Stat. 3577][/us/stat/108/3577], related to special allocation procedures, prior to the general amendment of this subchapter by [Pub. L. 107–110][/us/pl/107/110]. See [section 6338 of this title][/us/usc/t20/s6338].
+    A prior section 6337, [Pub. L. 89–10, title I][/us/pl/89/10/tI], § 1126, as added [Pub. L. 103–382, title I][/us/pl/103/382/tI], § 101, Oct. 20, 1994, [108 Stat. 3577][/us/stat/108/3577], related to special allocation procedures, prior to the general amendment of this subchapter by [Pub. L. 107–110][/us/pl/107/110]. See [section 6338 of this title][/us/usc/t20/s6338].
 
     A prior [section 1125A of Pub. L. 89–10][/us/pl/89/10/s1125A] was classified to [section 6336 of this title][/us/usc/t20/s6336], prior to the general amendment of this subchapter by [Pub. L. 107–110][/us/pl/107/110].
+
+ __Amendments__ 
+
+    2015—Subsec. (a). [Pub. L. 114–95][/us/pl/114/95], § 1017(1), substituted “funds made available under [section 6332(a) of this title][/us/usc/t20/s6332/a]” for “funds appropriated under subsection (f) of this section”.
+
+    Subsec. (b)(1)(A). [Pub. L. 114–95][/us/pl/114/95], § 1017(2)(A), substituted “funds made available for any fiscal year to carry out this section” for “funds appropriated pursuant to subsection (f) of this section” in introductory provisions.
+
+    Subsec. (b)(1)(B)(i). [Pub. L. 114–95][/us/pl/114/95], § 1017(2)(B), substituted “the total amount reserved under [section 6332(a) of this title][/us/usc/t20/s6332/a] to carry out this section” for “total appropriations”.
+
+    Subsec. (c). [Pub. L. 114–95][/us/pl/114/95], § 1017(3), redesignated pars. (A) and (B) as (1) and (2), respectively.
+
+    Subsec. (d)(1)(A)(ii). [Pub. L. 114–95][/us/pl/114/95], § 1017(4), struck out opening quotation marks before “(i)” in introductory provisions.
+
+    Subsec. (e). [Pub. L. 114–95][/us/pl/114/95], § 1017(5), added subsec. (e) and struck out former subsec. (e) which related to general rule for full allotment of funds, reduction of funds in any fiscal year where State fails to meet requirements, and equitable waiver of requirements for 1 fiscal year only.
+
+    Subsec. (f). [Pub. L. 114–95][/us/pl/114/95], § 1017(6), (7), redesignated subsec. (g) as (f) and struck out former subsec. (f). Prior to amendment, text of subsec. (f) read as follows: “There are authorized to be appropriated to carry out this section such sums as may be necessary for fiscal year 2002 and for each of the 5 succeeding fiscal years.”
+
+    Subsec. (f)(1). [Pub. L. 114–95][/us/pl/114/95], § 1017(8)(A), substituted “to carry out this section” for “under this section”.
+
+    Subsec. (f)(3). [Pub. L. 114–95][/us/pl/114/95], § 1017(8)(B), substituted “shall be—” for “shall be” in introductory provisions.
+
+    Subsec. (g). [Pub. L. 114–95][/us/pl/114/95], § 1017(7), redesignated subsec. (g) as (f).
+
+ __Effective Date of 2015 Amendment__ 
+
+    Amendment by [Pub. L. 114–95][/us/pl/114/95] effective Dec. 10, 2015, except with respect to certain noncompetitive programs and competitive programs, see [section 5 of Pub. L. 114–95][/us/pl/114/95/s5], set out as a note under [section 6301 of this title][/us/usc/t20/s6301].
 
 ----------
 
@@ -374,11 +406,13 @@
 ----------
 ----------
 
+[/us/usc/t20/s6332/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs6332%2Fa
 [/us/usc/t20/s6333/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs6333%2Fc
 [/us/usc/t20/s6333/a/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs6333%2Fa%2F1%2FB
 [/us/usc/t20/s6333/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs6333%2Fa%2F4
 [/us/usc/t20/s6333/a/4/A/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs6333%2Fa%2F4%2FA%2Fii
 [/us/usc/t20/s6332]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs6332
+[/us/usc/t20/s6332/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs6332%2Fa
 [/us/usc/t20/s6333/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs6333%2Fc
 [/us/usc/t20/s6333/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs6333%2Fc
 [/us/usc/t20/s6333/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs6333%2Fc
@@ -398,16 +432,33 @@
 [/us/usc/t20/s6333/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs6333%2Fc
 [/us/usc/t20/s6333/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs6333%2Fc
 [/us/usc/t20/s6333]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs6333
-[/us/pl/89/10/s1125A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F10%2Fs1125A
-[/us/pl/107/110/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F110%2Fs101
+[/us/pl/89/10/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F10%2FtI
+[/us/pl/107/110/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F110%2FtI
 [/us/stat/115/1525]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F1525
-[/us/pl/89/10/s1126]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F10%2Fs1126
-[/us/pl/103/382/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F382%2Fs101
+[/us/pl/114/95/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F95%2FtI
+[/us/stat/129/1878]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1878
+[/us/pl/89/10/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F10%2FtI
+[/us/pl/103/382/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F382%2FtI
 [/us/stat/108/3577]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3577
 [/us/pl/107/110]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F110
 [/us/usc/t20/s6338]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs6338
 [/us/pl/89/10/s1125A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F10%2Fs1125A
 [/us/usc/t20/s6336]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs6336
 [/us/pl/107/110]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F110
+[/us/pl/114/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F95
+[/us/usc/t20/s6332/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs6332%2Fa
+[/us/pl/114/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F95
+[/us/pl/114/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F95
+[/us/usc/t20/s6332/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs6332%2Fa
+[/us/pl/114/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F95
+[/us/pl/114/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F95
+[/us/pl/114/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F95
+[/us/pl/114/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F95
+[/us/pl/114/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F95
+[/us/pl/114/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F95
+[/us/pl/114/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F95
+[/us/pl/114/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F95
+[/us/pl/114/95/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F95%2Fs5
+[/us/usc/t20/s6301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs6301
 
 

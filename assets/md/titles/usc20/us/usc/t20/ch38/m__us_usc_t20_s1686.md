@@ -17,7 +17,7 @@
 
     Notwithstanding anything to the contrary contained in this chapter, nothing contained herein shall be construed to prohibit any educational institution receiving funds under this Act, from maintaining separate living facilities for the different sexes.
 
-([Pub. L. 92–318, title IX, § 907][/us/pl/92/318/s907], June 23, 1972, [86 Stat. 375][/us/stat/86/375].)
+([Pub. L. 92–318, title IX][/us/pl/92/318/tIX], § 907, June 23, 1972, [86 Stat. 375][/us/stat/86/375].)
 
  __References in Text__ 
 
@@ -32,7 +32,7 @@
 ----------
 ----------
 
-[/us/pl/92/318/s907]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F318%2Fs907
+[/us/pl/92/318/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F318%2FtIX
 [/us/stat/86/375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F375
 [/us/pl/92/318]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F318
 [/us/usc/t20/s1681]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1681

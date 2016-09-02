@@ -17,7 +17,7 @@
 
     For payment to the Harry S Truman Scholarship Foundation Trust Fund, established by [section 2009 of this title][/us/usc/t20/s2009], $500,000, to remain available until expended: Provided, That on or after March 11, 2009, all requests of the Board of Trustees to the Secretary of the Treasury provided for in this section shall be binding on the Secretary, including requests for the issuance at par of special obligations exclusively to the fund as provided for in [section 2009(b) of this title][/us/usc/t20/s2009/b], which the Secretary shall implement without regard to the determination related to the public interest required by the last sentence of that section.
 
-([Pub. L. 111–8, div. D, title V][/us/pl/111/8], Mar. 11, 2009, [123 Stat. 665][/us/stat/123/665].)
+([Pub. L. 111–8, div. D, title V][/us/pl/111/8/dD/tV], Mar. 11, 2009, [123 Stat. 665][/us/stat/123/665].)
 
  __Codification__ 
 
@@ -32,7 +32,7 @@
 
 [/us/usc/t20/s2009]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs2009
 [/us/usc/t20/s2009/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs2009%2Fb
-[/us/pl/111/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F8
+[/us/pl/111/8/dD/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F8%2FdD%2FtV
 [/us/stat/123/665]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F665
 
 

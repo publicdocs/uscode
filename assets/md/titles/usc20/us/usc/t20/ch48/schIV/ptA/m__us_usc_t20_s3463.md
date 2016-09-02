@@ -49,7 +49,7 @@
 
         (6) such legislative and administrative recommendations for improvements in personnel management within the Department as the Director considers necessary.
 
-([Pub. L. 96–88, title IV, § 403][/us/pl/96/88/s403], Oct. 17, 1979, [93 Stat. 682][/us/stat/93/682]; [Pub. L. 104–66, title I, § 1041(a)][/us/pl/104/66/s1041/a], Dec. 21, 1995, [109 Stat. 714][/us/stat/109/714].)
+([Pub. L. 96–88, title IV][/us/pl/96/88/tIV], § 403, Oct. 17, 1979, [93 Stat. 682][/us/stat/93/682]; [Pub. L. 104–66, title I][/us/pl/104/66/tI], § 1041(a), Dec. 21, 1995, [109 Stat. 714][/us/stat/109/714].)
 
  __Codification__ 
 
@@ -67,9 +67,9 @@
 ----------
 
 [/us/usc/t5/s3109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs3109
-[/us/pl/96/88/s403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F88%2Fs403
+[/us/pl/96/88/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F88%2FtIV
 [/us/stat/93/682]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F682
-[/us/pl/104/66/s1041/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F66%2Fs1041%2Fa
+[/us/pl/104/66/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F66%2FtI
 [/us/stat/109/714]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F714
 [/us/pl/96/88/s601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F88%2Fs601
 [/us/usc/t20/s3401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs3401

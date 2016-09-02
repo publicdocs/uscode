@@ -149,7 +149,7 @@
 
             (iii) parents and families will help to ensure that schools are adequately supported and will hold schools and teachers to high standards of accountability.
 
-([Pub. L. 103–227, title I, § 102][/us/pl/103/227/s102], Mar. 31, 1994, [108 Stat. 130][/us/stat/108/130].)
+([Pub. L. 103–227, title I][/us/pl/103/227/tI], § 102, Mar. 31, 1994, [108 Stat. 130][/us/stat/108/130].)
 
 ----------
 
@@ -158,7 +158,7 @@
 ----------
 ----------
 
-[/us/pl/103/227/s102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F227%2Fs102
+[/us/pl/103/227/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F227%2FtI
 [/us/stat/108/130]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F130
 
 

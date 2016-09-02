@@ -11,13 +11,13 @@
 ----------
 ----------
 
-[Previous](./../../../../../..//us/usc/t20/ch70/schVI/ptA/spt4/m__us_usc_t20_s7325c.md) | [Next](./../../../../../..//us/usc/t20/ch70/schVI/ptB/m__us_usc_t20_s7341.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fch70%2FschVI%2FptB)
+[Previous](./../../../../../..//us/usc/t20/ch70/schVI/ptA/spt5/m__us_usc_t20_s7492.md) | [Next](./../../../../../..//us/usc/t20/ch70/schVI/ptB/m__us_usc_t20_s7511.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fch70%2FschVI%2FptB)
 
-#### Part B—Rural Education Initiative
+#### Part B—Native Hawaiian Education
 
 ----------
 
-[Previous](./../../../../../..//us/usc/t20/ch70/schVI/ptA/spt4/m__us_usc_t20_s7325c.md) | [Next](./../../../../../..//us/usc/t20/ch70/schVI/ptB/m__us_usc_t20_s7341.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fch70%2FschVI%2FptB)
+[Previous](./../../../../../..//us/usc/t20/ch70/schVI/ptA/spt5/m__us_usc_t20_s7492.md) | [Next](./../../../../../..//us/usc/t20/ch70/schVI/ptB/m__us_usc_t20_s7511.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fch70%2FschVI%2FptB)
 
 ----------
 ----------

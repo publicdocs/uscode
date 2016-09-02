@@ -47,7 +47,7 @@
 
         The Commission may take any action to develop and promote financial literacy and education materials in languages other than English, as the Commission deems appropriate, including for the website established under [section 9703(b) of this title][/us/usc/t20/s9703/b], at the toll-free number established under [section 9703(c) of this title][/us/usc/t20/s9703/c], and in the materials developed and disseminated under [section 9703(d) of this title][/us/usc/t20/s9703/d].
 
-([Pub. L. 108–159, title V, § 515][/us/pl/108/159/s515], Dec. 4, 2003, [117 Stat. 2007][/us/stat/117/2007].)
+([Pub. L. 108–159, title V][/us/pl/108/159/tV], § 515, Dec. 4, 2003, [117 Stat. 2007][/us/stat/117/2007].)
 
  __Definitions__ 
 
@@ -63,7 +63,7 @@
 [/us/usc/t20/s9703/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs9703%2Fb
 [/us/usc/t20/s9703/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs9703%2Fc
 [/us/usc/t20/s9703/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs9703%2Fd
-[/us/pl/108/159/s515]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F159%2Fs515
+[/us/pl/108/159/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F159%2FtV
 [/us/stat/117/2007]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2007
 [/us/pl/108/159/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F159%2Fs2
 [/us/usc/t15/s1681]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1681

@@ -17,7 +17,7 @@
 
     There shall be in the Department an Office of General Counsel, to be administered by the General Counsel appointed under [section 3412(b) of this title][/us/usc/t20/s3412/b]. The General Counsel shall provide legal assistance to the Secretary concerning the programs and policies of the Department.
 
-([Pub. L. 96–88, title II, § 210][/us/pl/96/88/s210], formerly § 211, Oct. 17, 1979, [93 Stat. 675][/us/stat/93/675]; renumbered § 210, [Pub. L. 103–382, title II, § 271(a)(2)][/us/pl/103/382/s271/a/2], Oct. 20, 1994, [108 Stat. 3929][/us/stat/108/3929].)
+([Pub. L. 96–88, title II][/us/pl/96/88/tII], § 210, formerly § 211, Oct. 17, 1979, [93 Stat. 675][/us/stat/93/675]; renumbered § 210, [Pub. L. 103–382, title II][/us/pl/103/382/tII], § 271(a)(2), Oct. 20, 1994, [108 Stat. 3929][/us/stat/108/3929].)
 
  __Prior Provisions__ 
 
@@ -31,9 +31,9 @@
 ----------
 
 [/us/usc/t20/s3412/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs3412%2Fb
-[/us/pl/96/88/s210]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F88%2Fs210
+[/us/pl/96/88/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F88%2FtII
 [/us/stat/93/675]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F675
-[/us/pl/103/382/s271/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F382%2Fs271%2Fa%2F2
+[/us/pl/103/382/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F382%2FtII
 [/us/stat/108/3929]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3929
 [/us/pl/96/88/s210]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F88%2Fs210
 [/us/usc/t20/s3420]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs3420

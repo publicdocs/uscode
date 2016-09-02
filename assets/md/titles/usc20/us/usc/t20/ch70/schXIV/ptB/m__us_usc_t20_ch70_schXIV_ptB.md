@@ -11,56 +11,16 @@
 ----------
 ----------
 
-[Previous](./../../../../../..//us/usc/t20/ch70/schXIV/ptA/m__us_usc_t20_ch70_schXIV_ptA.md) | [Next](./../../../../../..//us/usc/t20/ch70/schXIV/ptC/m__us_usc_t20_ch70_schXIV_ptC.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fch70%2FschXIV%2FptB)
+[Previous](./../../../../../..//us/usc/t20/ch70/schXIV/ptA/m__us_usc_t20_s8801...8803.md) | [Next](./../../../../../..//us/usc/t20/ch70/schXIV/ptB/m__us_usc_t20_s8821...8826.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fch70%2FschXIV%2FptB)
 
 #### Part B—Flexibility in the Use of Administrative and Other Funds
 
-§§ 8821 to 8826. __Repealed.__  __[__  __Pub. L. 107–110, title X, § 1011(5)(C)__  __][/us/pl/107/110/s1011/5/C]__  __,__  __Jan. 8, 2002__  __,__  __[__  __115 Stat. 1986__  __][/us/stat/115/1986]__ 
-
-    Section 8821, [Pub. L. 89–10, title XIV, § 14201][/us/pl/89/10/s14201], as added [Pub. L. 103–382, title I, § 101][/us/pl/103/382/s101], Oct. 20, 1994, [108 Stat. 3890][/us/stat/108/3890], related to consolidation of State administrative funds for elementary and secondary education programs. See [section 7821 of this title][/us/usc/t20/s7821].
-
-    Section 8822, [Pub. L. 89–10, title XIV, § 14202][/us/pl/89/10/s14202], as added [Pub. L. 103–382, title I, § 101][/us/pl/103/382/s101], Oct. 20, 1994, [108 Stat. 3891][/us/stat/108/3891], related to single local educational agency States. See [section 7822 of this title][/us/usc/t20/s7822].
-
-    Section 8823, [Pub. L. 89–10, title XIV, § 14203][/us/pl/89/10/s14203], as added [Pub. L. 103–382, title I, § 101][/us/pl/103/382/s101], Oct. 20, 1994, [108 Stat. 3892][/us/stat/108/3892], related to consolidation of funds for local administration. See [section 7823 of this title][/us/usc/t20/s7823].
-
-    Section 8824, [Pub. L. 89–10, title XIV, § 14204][/us/pl/89/10/s14204], as added [Pub. L. 103–382, title I, § 101][/us/pl/103/382/s101], Oct. 20, 1994, [108 Stat. 3892][/us/stat/108/3892], related to administrative funds studies.
-
-    Section 8825, [Pub. L. 89–10, title XIV, § 14205][/us/pl/89/10/s14205], as added [Pub. L. 103–382, title I, § 101][/us/pl/103/382/s101], Oct. 20, 1994, [108 Stat. 3893][/us/stat/108/3893]; amended [Pub. L. 106–400, § 2][/us/pl/106/400/s2], Oct. 30, 2000, [114 Stat. 1675][/us/stat/114/1675], related to consolidated set-aside for Department of the Interior funds. See [section 7824 of this title][/us/usc/t20/s7824].
-
-    Section 8826, [Pub. L. 89–10, title XIV, § 14206][/us/pl/89/10/s14206], as added [Pub. L. 103–382, title I, § 101][/us/pl/103/382/s101], Oct. 20, 1994, [108 Stat. 3894][/us/stat/108/3894], related to availability of unneeded program funds.
-
 ----------
 
-[Previous](./../../../../../..//us/usc/t20/ch70/schXIV/ptA/m__us_usc_t20_ch70_schXIV_ptA.md) | [Next](./../../../../../..//us/usc/t20/ch70/schXIV/ptC/m__us_usc_t20_ch70_schXIV_ptC.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fch70%2FschXIV%2FptB)
+[Previous](./../../../../../..//us/usc/t20/ch70/schXIV/ptA/m__us_usc_t20_s8801...8803.md) | [Next](./../../../../../..//us/usc/t20/ch70/schXIV/ptB/m__us_usc_t20_s8821...8826.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fch70%2FschXIV%2FptB)
 
 ----------
 ----------
 
-[/us/pl/107/110/s1011/5/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F110%2Fs1011%2F5%2FC
-[/us/stat/115/1986]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F1986
-[/us/pl/89/10/s14201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F10%2Fs14201
-[/us/pl/103/382/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F382%2Fs101
-[/us/stat/108/3890]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3890
-[/us/usc/t20/s7821]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs7821
-[/us/pl/89/10/s14202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F10%2Fs14202
-[/us/pl/103/382/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F382%2Fs101
-[/us/stat/108/3891]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3891
-[/us/usc/t20/s7822]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs7822
-[/us/pl/89/10/s14203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F10%2Fs14203
-[/us/pl/103/382/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F382%2Fs101
-[/us/stat/108/3892]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3892
-[/us/usc/t20/s7823]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs7823
-[/us/pl/89/10/s14204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F10%2Fs14204
-[/us/pl/103/382/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F382%2Fs101
-[/us/stat/108/3892]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3892
-[/us/pl/89/10/s14205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F10%2Fs14205
-[/us/pl/103/382/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F382%2Fs101
-[/us/stat/108/3893]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3893
-[/us/pl/106/400/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F400%2Fs2
-[/us/stat/114/1675]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1675
-[/us/usc/t20/s7824]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs7824
-[/us/pl/89/10/s14206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F10%2Fs14206
-[/us/pl/103/382/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F382%2Fs101
-[/us/stat/108/3894]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3894
 
 

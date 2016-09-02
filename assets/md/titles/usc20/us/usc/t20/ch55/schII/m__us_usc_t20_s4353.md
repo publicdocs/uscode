@@ -81,7 +81,7 @@
 
             (C) The Secretary is not authorized to add items to those specified in subparagraph (B).
 
-([Pub. L. 99–371, title II, § 203][/us/pl/99/371/s203], formerly title IV, § 403, Aug. 4, 1986, [100 Stat. 790][/us/stat/100/790]; renumbered title II, § 203, and amended [Pub. L. 102–421, title I][/us/pl/102/421], §§ 101(b)(5), (6), 133, Oct. 16, 1992, [106 Stat. 2151][/us/stat/106/2151], 2156; [Pub. L. 103–73, title II][/us/pl/103/73], §§ 202, 204(b), Aug. 11, 1993, [107 Stat. 732][/us/stat/107/732], 734; [Pub. L. 105–244, title IX, § 916][/us/pl/105/244/s916], Oct. 7, 1998, [112 Stat. 1830][/us/stat/112/1830]; [Pub. L. 108–271, § 8(b)][/us/pl/108/271/s8/b], July 7, 2004, [118 Stat. 814][/us/stat/118/814]; [Pub. L. 110–315, title IX, § 905][/us/pl/110/315/s905], Aug. 14, 2008, [122 Stat. 3452][/us/stat/122/3452]; [Pub. L. 111–39, title VIII, § 802(b)][/us/pl/111/39/s802/b], July 1, 2009, [123 Stat. 1957][/us/stat/123/1957].)
+([Pub. L. 99–371, title II][/us/pl/99/371/tII], § 203, formerly title IV, § 403, Aug. 4, 1986, [100 Stat. 790][/us/stat/100/790]; renumbered title II, § 203, and amended [Pub. L. 102–421, title I][/us/pl/102/421/tI], §§ 101(b)(5), (6), 133, Oct. 16, 1992, [106 Stat. 2151][/us/stat/106/2151], 2156; [Pub. L. 103–73, title II][/us/pl/103/73/tII], §§ 202, 204(b), Aug. 11, 1993, [107 Stat. 732][/us/stat/107/732], 734; [Pub. L. 105–244, title IX][/us/pl/105/244/tIX], § 916, Oct. 7, 1998, [112 Stat. 1830][/us/stat/112/1830]; [Pub. L. 108–271][/us/pl/108/271], § 8(b), July 7, 2004, [118 Stat. 814][/us/stat/118/814]; [Pub. L. 110–315, title IX][/us/pl/110/315/tIX], § 905, Aug. 14, 2008, [122 Stat. 3452][/us/stat/122/3452]; [Pub. L. 111–39, title VIII][/us/pl/111/39/tVIII], § 802(b), July 1, 2009, [123 Stat. 1957][/us/stat/123/1957].)
 
  __Prior Provisions__ 
 
@@ -91,21 +91,21 @@
 
     2009—Subsec. (b)(2). [Pub. L. 111–39][/us/pl/111/39] substituted “and subsections (a), (b), and (c) of [section 4359a of this title][/us/usc/t20/s4359a].” for “and subsections (b) and (c) of [section 4359a of this title][/us/usc/t20/s4359a].”
 
-    2008—Subsec. (b)(2). [Pub. L. 110–315, § 905(1)(A)][/us/pl/110/315/s905/1/A], substituted “sections 4302(b), 4305(b)(4), 4332(b)(5), 4353(c), 4357(b)(2) of this title, subsections (c) through (f) of [section 4357 of this title][/us/usc/t20/s4357], and subsections (b) and (c) of [section 4359a of this title][/us/usc/t20/s4359a]” for “sections 4302(b), 4305(b)(4), 4332(b)(5) of this title, and subsection (c) of this section, paragraphs (2) and (3) of [section 4357(b) of this title][/us/usc/t20/s4357/b], subsections (b)(2), (b)(3), and (c) through (f), of [section 4357 of this title][/us/usc/t20/s4357], and subsections (b) and (c) of [section 4359a of this title][/us/usc/t20/s4359a]”.
+    2008—Subsec. (b)(2). [Pub. L. 110–315][/us/pl/110/315], § 905(1)(A), substituted “sections 4302(b), 4305(b)(4), 4332(b)(5), 4353(c), 4357(b)(2) of this title, subsections (c) through (f) of [section 4357 of this title][/us/usc/t20/s4357], and subsections (b) and (c) of [section 4359a of this title][/us/usc/t20/s4359a]” for “sections 4302(b), 4305(b)(4), 4332(b)(5) of this title, and subsection (c) of this section, paragraphs (2) and (3) of [section 4357(b) of this title][/us/usc/t20/s4357/b], subsections (b)(2), (b)(3), and (c) through (f), of [section 4357 of this title][/us/usc/t20/s4357], and subsections (b) and (c) of [section 4359a of this title][/us/usc/t20/s4359a]”.
 
-    Subsec. (b)(3). [Pub. L. 110–315, § 905(1)(B)][/us/pl/110/315/s905/1/B], inserted “and the Committee on Education and Labor of the House of Representatives and the Committee on Health, Education, Labor, and Pensions of the Senate” after “Secretary”.
+    Subsec. (b)(3). [Pub. L. 110–315][/us/pl/110/315], § 905(1)(B), inserted “and the Committee on Education and Labor of the House of Representatives and the Committee on Health, Education, Labor, and Pensions of the Senate” after “Secretary”.
 
-    Subsec. (c)(2)(A). [Pub. L. 110–315, § 905(2)][/us/pl/110/315/s905/2], substituted “Committee on Health, Education, Labor, and Pensions of the Senate” for “Committee on Labor and Human Resources of the Senate”.
+    Subsec. (c)(2)(A). [Pub. L. 110–315][/us/pl/110/315], § 905(2), substituted “Committee on Health, Education, Labor, and Pensions of the Senate” for “Committee on Labor and Human Resources of the Senate”.
 
     2004—Subsec. (a). [Pub. L. 108–271][/us/pl/108/271] substituted “Government Accountability Office” for “General Accounting Office” in heading and text.
 
     1998—Subsec. (b). [Pub. L. 105–244][/us/pl/105/244] amended heading and text of subsec. (b) generally. Prior to amendment, text read as follows: “Gallaudet University shall have an annual independent financial audit made of the programs and activities of the University. The institution of higher education with which the Secretary has an agreement under [section 4332 of this title][/us/usc/t20/s4332] shall have an annual independent financial audit made of the programs and activities of such institution of higher education, including NTID, and containing specific schedules and analyses for all NTID funds, as determined by the Secretary.”
 
-    1993—Subsec. (b). [Pub. L. 103–73, § 204(b)][/us/pl/103/73/s204/b], amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “Gallaudet University and the institution of higher education operating the National Technical Institute for the Deaf shall have an annual independent audit made of the programs and activities of the University and of NTID, respectively.”
+    1993—Subsec. (b). [Pub. L. 103–73][/us/pl/103/73], § 204(b), amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “Gallaudet University and the institution of higher education operating the National Technical Institute for the Deaf shall have an annual independent audit made of the programs and activities of the University and of NTID, respectively.”
 
-    [Pub. L. 103–73, § 202][/us/pl/103/73/s202], substituted “NTID” for “the Institute”.
+    [Pub. L. 103–73][/us/pl/103/73], § 202, substituted “NTID” for “the Institute”.
 
-    1992—Subsec. (c). [Pub. L. 102–421, § 133][/us/pl/102/421/s133], added subsec. (c).
+    1992—Subsec. (c). [Pub. L. 102–421][/us/pl/102/421], § 133, added subsec. (c).
 
  __Change of Name__ 
 
@@ -134,39 +134,39 @@
 [/us/usc/t20/s4357]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs4357
 [/us/usc/t20/s4359a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs4359a
 [/us/usc/t20/s4332/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs4332%2Fa
-[/us/pl/99/371/s203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F371%2Fs203
+[/us/pl/99/371/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F371%2FtII
 [/us/stat/100/790]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F790
-[/us/pl/102/421]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F421
+[/us/pl/102/421/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F421%2FtI
 [/us/stat/106/2151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2151
-[/us/pl/103/73]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F73
+[/us/pl/103/73/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F73%2FtII
 [/us/stat/107/732]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F732
-[/us/pl/105/244/s916]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2Fs916
+[/us/pl/105/244/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2FtIX
 [/us/stat/112/1830]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F1830
-[/us/pl/108/271/s8/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F271%2Fs8%2Fb
+[/us/pl/108/271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F271
 [/us/stat/118/814]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F814
-[/us/pl/110/315/s905]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2Fs905
+[/us/pl/110/315/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2FtIX
 [/us/stat/122/3452]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3452
-[/us/pl/111/39/s802/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F39%2Fs802%2Fb
+[/us/pl/111/39/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F39%2FtVIII
 [/us/stat/123/1957]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1957
 [/us/usc/t20/s691f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs691f
 [/us/pl/99/371]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F371
 [/us/pl/111/39]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F39
 [/us/usc/t20/s4359a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs4359a
 [/us/usc/t20/s4359a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs4359a
-[/us/pl/110/315/s905/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2Fs905%2F1%2FA
+[/us/pl/110/315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315
 [/us/usc/t20/s4357]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs4357
 [/us/usc/t20/s4359a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs4359a
 [/us/usc/t20/s4357/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs4357%2Fb
 [/us/usc/t20/s4357]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs4357
 [/us/usc/t20/s4359a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs4359a
-[/us/pl/110/315/s905/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2Fs905%2F1%2FB
-[/us/pl/110/315/s905/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2Fs905%2F2
+[/us/pl/110/315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315
+[/us/pl/110/315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315
 [/us/pl/108/271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F271
 [/us/pl/105/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244
 [/us/usc/t20/s4332]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs4332
-[/us/pl/103/73/s204/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F73%2Fs204%2Fb
-[/us/pl/103/73/s202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F73%2Fs202
-[/us/pl/102/421/s133]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F421%2Fs133
+[/us/pl/103/73]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F73
+[/us/pl/103/73]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F73
+[/us/pl/102/421]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F421
 [/us/pl/111/39]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F39
 [/us/pl/110/315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315
 [/us/pl/111/39/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F39%2Fs3

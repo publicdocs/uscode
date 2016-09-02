@@ -23,7 +23,7 @@
 
         The Secretary and the Comptroller General of the United States, or any of their duly authorized representatives, shall have access, for the purpose of audit examination, to any rec­ords maintained by a recipient that may be related, or pertinent to, grants, subgrants, cooperative agreements, loans, or other arrangements to which reference is made in subsection (a) of this section, or which may relate to the compliance of the recipient with any requirement of an applicable program.
 
-([Pub. L. 90–247, title IV, § 443][/us/pl/90/247/s443], formerly § 437, as added [Pub. L. 95–561, title XII, § 1231(c)][/us/pl/95/561/s1231/c], Nov. 1, 1978, [92 Stat. 2346][/us/stat/92/2346]; renumbered § 443 and amended [Pub. L. 103–382, title II][/us/pl/103/382], §§ 212(b)(1), 248, Oct. 20, 1994, [108 Stat. 3913][/us/stat/108/3913], 3924.)
+([Pub. L. 90–247, title IV][/us/pl/90/247/tIV], § 443, formerly § 437, as added [Pub. L. 95–561, title XII][/us/pl/95/561/tXII], § 1231(c), Nov. 1, 1978, [92 Stat. 2346][/us/stat/92/2346]; renumbered § 443 and amended [Pub. L. 103–382, title II][/us/pl/103/382/tII], §§ 212(b)(1), 248, Oct. 20, 1994, [108 Stat. 3913][/us/stat/108/3913], 3924.)
 
  __Prior Provisions__ 
 
@@ -31,9 +31,9 @@
 
  __Amendments__ 
 
-    1994—Subsec. (a). [Pub. L. 103–382, § 248(1)][/us/pl/103/382/s248/1], substituted “grant, subgrant, cooperative agreement, loan, or other arrangement” for “grant, subgrant, contract, subcontract, loan, or other arrangement (other than procurement contracts awarded by an administrative head of an educational agency)”, inserted “financial or programmatic” before “audit.”, and substituted “three years” for “five years”.
+    1994—Subsec. (a). [Pub. L. 103–382][/us/pl/103/382], § 248(1), substituted “grant, subgrant, cooperative agreement, loan, or other arrangement” for “grant, subgrant, contract, subcontract, loan, or other arrangement (other than procurement contracts awarded by an administrative head of an educational agency)”, inserted “financial or programmatic” before “audit.”, and substituted “three years” for “five years”.
 
-    Subsec. (b). [Pub. L. 103–382, § 248(2)][/us/pl/103/382/s248/2], substituted “to any records maintained by a recipient that may be related, or pertinent to, grants, subgrants, cooperative agreements, loans, or other arrangements” for “to any records of a recipient which may be related, or pertinent to, the grants, subgrants, contracts, subcontracts, loans, or other arrangements”.
+    Subsec. (b). [Pub. L. 103–382][/us/pl/103/382], § 248(2), substituted “to any records maintained by a recipient that may be related, or pertinent to, grants, subgrants, cooperative agreements, loans, or other arrangements” for “to any records of a recipient which may be related, or pertinent to, the grants, subgrants, contracts, subcontracts, loans, or other arrangements”.
 
  __Effective Date__ 
 
@@ -46,16 +46,16 @@
 ----------
 ----------
 
-[/us/pl/90/247/s443]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F247%2Fs443
-[/us/pl/95/561/s1231/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F561%2Fs1231%2Fc
+[/us/pl/90/247/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F247%2FtIV
+[/us/pl/95/561/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F561%2FtXII
 [/us/stat/92/2346]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2346
-[/us/pl/103/382]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F382
+[/us/pl/103/382/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F382%2FtII
 [/us/stat/108/3913]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3913
 [/us/pl/90/247/s443]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F247%2Fs443
 [/us/usc/t20/s1233b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1233b
 [/us/pl/103/382]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F382
-[/us/pl/103/382/s248/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F382%2Fs248%2F1
-[/us/pl/103/382/s248/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F382%2Fs248%2F2
+[/us/pl/103/382]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F382
+[/us/pl/103/382]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F382
 [/us/pl/95/561/s1261]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F561%2Fs1261
 [/us/usc/t20/s1232c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1232c
 

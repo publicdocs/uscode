@@ -17,7 +17,7 @@
 
  __Codification__ 
 
-    Section, [Pub. L. 97–320, title VII, § 701(b)][/us/pl/97/320/s701/b], Oct. 15, 1982, [96 Stat. 1538][/us/stat/96/1538], which related to exemption from State disclosure requirements, was transferred to [section 1098g of this title][/us/usc/t20/s1098g].
+    Section, [Pub. L. 97–320, title VII][/us/pl/97/320/tVII], § 701(b), Oct. 15, 1982, [96 Stat. 1538][/us/stat/96/1538], which related to exemption from State disclosure requirements, was transferred to [section 1098g of this title][/us/usc/t20/s1098g].
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/97/320/s701/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F320%2Fs701%2Fb
+[/us/pl/97/320/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F320%2FtVII
 [/us/stat/96/1538]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1538
 [/us/usc/t20/s1098g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1098g
 

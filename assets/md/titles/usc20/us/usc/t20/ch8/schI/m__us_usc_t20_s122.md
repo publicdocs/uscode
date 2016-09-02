@@ -17,7 +17,7 @@
 
     No part of the appropriations made by Congress for the Howard University shall be used, directly or indirectly, for the support of the theological department of said university, nor for the support of any sectarian, denominational, or religious instruction therein; and no part thereof shall be paid to said university until it shall accord to the Secretary of Education, or to his designated agent or agents, authority to visit and inspect such university and to control and supervise the expenditure therein of all moneys paid under said appropriations.
 
-([Mar. 3, 1899, ch. 424][/us/act/1899-03-03/ch424], [30 Stat. 1101][/us/stat/30/1101]; 1940 Reorg. Plan No. IV, § 11(c), eff. June 30, 1940, 5 F.R. 2422, [54 Stat. 1237][/us/stat/54/1237]; 1953 Reorg. Plan No. 1, §§ 5, 8, eff. Apr. 11, 1953, 18 F.R. 2053, [67 Stat. 631][/us/stat/67/631]; [Pub. L. 96–88, title III, § 301(a)(2)(M)][/us/pl/96/88/s301/a/2/M], title V, § 507, Oct. 17, 1979, [93 Stat. 678][/us/stat/93/678], 692.)
+([Mar. 3, 1899, ch. 424][/us/act/1899-03-03/ch424], [30 Stat. 1101][/us/stat/30/1101]; 1940 Reorg. Plan No. IV, § 11(c), eff. June 30, 1940, 5 F.R. 2422, [54 Stat. 1237][/us/stat/54/1237]; 1953 Reorg. Plan No. 1, §§ 5, 8, eff. Apr. 11, 1953, 18 F.R. 2053, [67 Stat. 631][/us/stat/67/631]; [Pub. L. 96–88, title III][/us/pl/96/88/tIII], § 301(a)(2)(M), title V, § 507, Oct. 17, 1979, [93 Stat. 678][/us/stat/93/678], 692.)
 
  __Transfer of Functions__ 
 
@@ -42,7 +42,7 @@
 [/us/stat/30/1101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F30%2F1101
 [/us/stat/54/1237]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F54%2F1237
 [/us/stat/67/631]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F67%2F631
-[/us/pl/96/88/s301/a/2/M]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F88%2Fs301%2Fa%2F2%2FM
+[/us/pl/96/88/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F88%2FtIII
 [/us/stat/93/678]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F678
 [/us/pl/96/88]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F88
 [/us/act/1898-07-01/ch546]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1898-07-01%2Fch546

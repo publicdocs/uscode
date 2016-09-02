@@ -17,7 +17,7 @@
 
     No certificate shall be granted to any person to teach in the public schools of the District of Columbia or Territories who has not passed a satisfactory examination in physiology and hygiene, with special reference to the nature and the effects of alcoholic drinks and other narcotics upon the human system.
 
-([May 20, 1886, ch. 362, § 3][/us/act/1886-05-20/ch362/s3], [24 Stat. 69][/us/stat/24/69].)
+([May 20, 1886, ch. 362][/us/act/1886-05-20/ch362], § 3, [24 Stat. 69][/us/stat/24/69].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/act/1886-05-20/ch362/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1886-05-20%2Fch362%2Fs3
+[/us/act/1886-05-20/ch362]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1886-05-20%2Fch362
 [/us/stat/24/69]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F24%2F69
 
 

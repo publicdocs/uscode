@@ -13,9 +13,9 @@
 
 [Previous](./../../../../../..//us/usc/t20/ch64/schVI/ptB/m__us_usc_t20_ch64_schVI_ptB.md) | [Next](./../../../../../..//us/usc/t20/ch64/schVI/ptC/m__us_usc_t20_ch64_schVI_ptC.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs5401)
 
-## § 5401. Repealed. [Pub. L. 103–382, title III, § 391(l)][/us/pl/103/382/s391/l], Oct. 20, 1994, [108 Stat. 4023][/us/stat/108/4023]
+## § 5401. Repealed. [Pub. L. 103–382, title III][/us/pl/103/382/tIII], § 391(l), Oct. 20, 1994, [108 Stat. 4023][/us/stat/108/4023]
 
-    Section, [Pub. L. 101–589, title VI, § 611][/us/pl/101/589/s611], Nov. 16, 1990, [104 Stat. 2904][/us/stat/104/2904], established scholarship program for students in science, mathematics, and engineering programs.
+    Section, [Pub. L. 101–589, title VI][/us/pl/101/589/tVI], § 611, Nov. 16, 1990, [104 Stat. 2904][/us/stat/104/2904], established scholarship program for students in science, mathematics, and engineering programs.
 
 ----------
 
@@ -24,9 +24,9 @@
 ----------
 ----------
 
-[/us/pl/103/382/s391/l]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F382%2Fs391%2Fl
+[/us/pl/103/382/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F382%2FtIII
 [/us/stat/108/4023]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4023
-[/us/pl/101/589/s611]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F589%2Fs611
+[/us/pl/101/589/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F589%2FtVI
 [/us/stat/104/2904]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F2904
 
 

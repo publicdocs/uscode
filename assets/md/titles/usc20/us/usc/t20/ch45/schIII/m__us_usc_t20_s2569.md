@@ -27,7 +27,7 @@
 
         Funds appropriated pursuant to sections 2566 to 2569 of this title shall remain available until expended.
 
-([Pub. L. 95–270, § 4(a)][/us/pl/95/270/s4/a]–(c), Apr. 27, 1978, [92 Stat. 220][/us/stat/92/220].)
+([Pub. L. 95–270][/us/pl/95/270], § 4(a)–(c), Apr. 27, 1978, [92 Stat. 220][/us/stat/92/220].)
 
  __Effective Date__ 
 
@@ -42,7 +42,7 @@
 
 [/us/usc/t20/s2566]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs2566
 [/us/usc/t20/s2567]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs2567
-[/us/pl/95/270/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F270%2Fs4%2Fa
+[/us/pl/95/270]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F270
 [/us/stat/92/220]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F220
 [/us/pl/95/270/s4/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F270%2Fs4%2Fd
 [/us/usc/t20/s2566]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs2566

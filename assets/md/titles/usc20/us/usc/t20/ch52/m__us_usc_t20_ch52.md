@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../..//us/usc/t20/ch51/schIII/m__us_usc_t20_ch51_schIII.md) | [Next](./../../../..//us/usc/t20/ch52/m__us_usc_t20_s3901.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fch52)
+[Previous](./../../../..//us/usc/t20/ch51/schIII/m__us_usc_t20_s3871...3876.md) | [Next](./../../../..//us/usc/t20/ch52/m__us_usc_t20_s3901.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fch52)
 
 ## CHAPTER 52—EDUCATION FOR ECONOMIC SECURITY
 
@@ -523,7 +523,7 @@ SUBCHAPTER IX—STAR SCHOOLS PROGRAM  </td>
 
 ----------
 
-[Previous](./../../../..//us/usc/t20/ch51/schIII/m__us_usc_t20_ch51_schIII.md) | [Next](./../../../..//us/usc/t20/ch52/m__us_usc_t20_s3901.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fch52)
+[Previous](./../../../..//us/usc/t20/ch51/schIII/m__us_usc_t20_s3871...3876.md) | [Next](./../../../..//us/usc/t20/ch52/m__us_usc_t20_s3901.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fch52)
 
 ----------
 ----------

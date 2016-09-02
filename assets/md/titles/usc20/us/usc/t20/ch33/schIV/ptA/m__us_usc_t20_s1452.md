@@ -69,13 +69,13 @@
 
             (B) ensure that any activities the State educational agency will carry out under this part that are within that partner’s jurisdiction (which may include activities described in [section 1454(b) of this title][/us/usc/t20/s1454/b]) are carried out by that partner.
 
-([Pub. L. 91–230, title VI, § 652][/us/pl/91/230/s652], as added [Pub. L. 108–446, title I, § 101][/us/pl/108/446/s101], Dec. 3, 2004, [118 Stat. 2767][/us/stat/118/2767].)
+([Pub. L. 91–230, title VI][/us/pl/91/230/tVI], § 652, as added [Pub. L. 108–446, title I][/us/pl/108/446/tI], § 101, Dec. 3, 2004, [118 Stat. 2767][/us/stat/118/2767].)
 
  __Prior Provisions__ 
 
-    A prior section 1452, [Pub. L. 91–230, title VI, § 652][/us/pl/91/230/s652], as added [Pub. L. 105–17, title I, § 101][/us/pl/105/17/s101], June 4, 1997, [111 Stat. 124][/us/stat/111/124], related to eligibility and collaborative process, prior to the general amendment of subchapters I to IV of this chapter by [Pub. L. 108–446][/us/pl/108/446].
+    A prior section 1452, [Pub. L. 91–230, title VI][/us/pl/91/230/tVI], § 652, as added [Pub. L. 105–17, title I][/us/pl/105/17/tI], § 101, June 4, 1997, [111 Stat. 124][/us/stat/111/124], related to eligibility and collaborative process, prior to the general amendment of subchapters I to IV of this chapter by [Pub. L. 108–446][/us/pl/108/446].
 
-    Another prior section 1452, [Pub. L. 91–230, title VI, § 652][/us/pl/91/230/s652], Apr. 13, 1970, [84 Stat. 186][/us/stat/84/186]; [Pub. L. 93–380, title VI, § 620(1)][/us/pl/93/380/s620/1], Aug. 21, 1974, [88 Stat. 585][/us/stat/88/585]; [Pub. L. 94–482, title V, § 501(h)][/us/pl/94/482/s501/h], Oct. 12, 1976, [90 Stat. 2237][/us/stat/90/2237]; [Pub. L. 98–199, § 3(b)][/us/pl/98/199/s3/b], Dec. 2, 1983, [97 Stat. 1358][/us/stat/97/1358]; [Pub. L. 99–457, title III, § 315][/us/pl/99/457/s315], Oct. 8, 1986, [100 Stat. 1171][/us/stat/100/1171]; [Pub. L. 100–630, title I, § 106(c)][/us/pl/100/630/s106/c], Nov. 7, 1988, [102 Stat. 3300][/us/stat/102/3300]; [Pub. L. 101–476, title VI, § 602][/us/pl/101/476/s602], title IX, § 901(b)(151), (152), Oct. 30, 1990, [104 Stat. 1139][/us/stat/104/1139], 1149; [Pub. L. 102–119, § 25(b)][/us/pl/102/119/s25/b], Oct. 7, 1991, [105 Stat. 607][/us/stat/105/607], related to establishment of a loan service of captioned films, television, descriptive video, and educational media for individuals with disabilities, prior to repeal by [Pub. L. 105–17, title II, § 203(c)][/us/pl/105/17/s203/c], June 4, 1997, [111 Stat. 157][/us/stat/111/157], effective Oct. 1, 1997.
+    Another prior section 1452, [Pub. L. 91–230, title VI][/us/pl/91/230/tVI], § 652, Apr. 13, 1970, [84 Stat. 186][/us/stat/84/186]; [Pub. L. 93–380, title VI][/us/pl/93/380/tVI], § 620(1), Aug. 21, 1974, [88 Stat. 585][/us/stat/88/585]; [Pub. L. 94–482, title V][/us/pl/94/482/tV], § 501(h), Oct. 12, 1976, [90 Stat. 2237][/us/stat/90/2237]; [Pub. L. 98–199][/us/pl/98/199], § 3(b), Dec. 2, 1983, [97 Stat. 1358][/us/stat/97/1358]; [Pub. L. 99–457, title III][/us/pl/99/457/tIII], § 315, Oct. 8, 1986, [100 Stat. 1171][/us/stat/100/1171]; [Pub. L. 100–630, title I][/us/pl/100/630/tI], § 106(c), Nov. 7, 1988, [102 Stat. 3300][/us/stat/102/3300]; [Pub. L. 101–476, title VI][/us/pl/101/476/tVI], § 602, title IX, § 901(b)(151), (152), Oct. 30, 1990, [104 Stat. 1139][/us/stat/104/1139], 1149; [Pub. L. 102–119][/us/pl/102/119], § 25(b), Oct. 7, 1991, [105 Stat. 607][/us/stat/105/607], related to establishment of a loan service of captioned films, television, descriptive video, and educational media for individuals with disabilities, prior to repeal by [Pub. L. 105–17, title II][/us/pl/105/17/tII], § 203(c), June 4, 1997, [111 Stat. 157][/us/stat/111/157], effective Oct. 1, 1997.
 
 ----------
 
@@ -86,30 +86,30 @@
 
 [/us/usc/t20/s1451/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1451%2Fb
 [/us/usc/t20/s1454/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1454%2Fb
-[/us/pl/91/230/s652]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F230%2Fs652
-[/us/pl/108/446/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F446%2Fs101
+[/us/pl/91/230/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F230%2FtVI
+[/us/pl/108/446/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F446%2FtI
 [/us/stat/118/2767]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F2767
-[/us/pl/91/230/s652]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F230%2Fs652
-[/us/pl/105/17/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F17%2Fs101
+[/us/pl/91/230/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F230%2FtVI
+[/us/pl/105/17/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F17%2FtI
 [/us/stat/111/124]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F124
 [/us/pl/108/446]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F446
-[/us/pl/91/230/s652]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F230%2Fs652
+[/us/pl/91/230/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F230%2FtVI
 [/us/stat/84/186]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F186
-[/us/pl/93/380/s620/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F380%2Fs620%2F1
+[/us/pl/93/380/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F380%2FtVI
 [/us/stat/88/585]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F585
-[/us/pl/94/482/s501/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F482%2Fs501%2Fh
+[/us/pl/94/482/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F482%2FtV
 [/us/stat/90/2237]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2237
-[/us/pl/98/199/s3/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F199%2Fs3%2Fb
+[/us/pl/98/199]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F199
 [/us/stat/97/1358]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F1358
-[/us/pl/99/457/s315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F457%2Fs315
+[/us/pl/99/457/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F457%2FtIII
 [/us/stat/100/1171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1171
-[/us/pl/100/630/s106/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F630%2Fs106%2Fc
+[/us/pl/100/630/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F630%2FtI
 [/us/stat/102/3300]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3300
-[/us/pl/101/476/s602]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F476%2Fs602
+[/us/pl/101/476/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F476%2FtVI
 [/us/stat/104/1139]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1139
-[/us/pl/102/119/s25/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F119%2Fs25%2Fb
+[/us/pl/102/119]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F119
 [/us/stat/105/607]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F607
-[/us/pl/105/17/s203/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F17%2Fs203%2Fc
+[/us/pl/105/17/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F17%2FtII
 [/us/stat/111/157]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F157
 
 

@@ -43,13 +43,19 @@
 
     (13) “Board of Directors” means the Board of Directors of the National Environmental Education and Training Foundation.
 
-([Pub. L. 101–619, § 3][/us/pl/101/619/s3], Nov. 16, 1990, [104 Stat. 3326][/us/stat/104/3326]; [Pub. L. 103–382, title III, § 391(m)][/us/pl/103/382/s391/m], Oct. 20, 1994, [108 Stat. 4023][/us/stat/108/4023]; [Pub. L. 107–110, title X, § 1076(n)][/us/pl/107/110/s1076/n], Jan. 8, 2002, [115 Stat. 2092][/us/stat/115/2092].)
+([Pub. L. 101–619][/us/pl/101/619], § 3, Nov. 16, 1990, [104 Stat. 3326][/us/stat/104/3326]; [Pub. L. 103–382, title III][/us/pl/103/382/tIII], § 391(m), Oct. 20, 1994, [108 Stat. 4023][/us/stat/108/4023]; [Pub. L. 107–110, title X][/us/pl/107/110/tX], § 1076(n), Jan. 8, 2002, [115 Stat. 2092][/us/stat/115/2092]; [Pub. L. 114–95, title IX][/us/pl/114/95/tIX], § 9215(fff), Dec. 10, 2015, [129 Stat. 2186][/us/stat/129/2186].)
 
  __Amendments__ 
+
+    2015—Par. (5). [Pub. L. 114–95][/us/pl/114/95] made technical amendment to reference in original act which appears in text as reference to [section 7801 of this title][/us/usc/t20/s7801].
 
     2002—Par. (5). [Pub. L. 107–110][/us/pl/107/110] substituted “7801” for “8801”.
 
     1994—Par. (5). [Pub. L. 103–382][/us/pl/103/382] substituted “local educational agency” for “local education agency” and reference to [section 8801 of this title][/us/usc/t20/s8801] for reference to section 198 of the Elementary and Secondary Education Act of 1965.
+
+ __Effective Date of 2015 Amendment__ 
+
+    Amendment by [Pub. L. 114–95][/us/pl/114/95] effective Dec. 10, 2015, except with respect to certain noncompetitive programs and competitive programs, see [section 5 of Pub. L. 114–95][/us/pl/114/95/s5], set out as a note under [section 6301 of this title][/us/usc/t20/s6301].
 
  __Effective Date of 2002 Amendment__ 
 
@@ -66,15 +72,22 @@
 [/us/usc/t26/s501/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs501%2Fc%2F3
 [/us/usc/t26/s501/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs501%2Fa
 [/us/usc/t20/s5509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs5509
-[/us/pl/101/619/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F619%2Fs3
+[/us/pl/101/619]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F619
 [/us/stat/104/3326]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3326
-[/us/pl/103/382/s391/m]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F382%2Fs391%2Fm
+[/us/pl/103/382/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F382%2FtIII
 [/us/stat/108/4023]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4023
-[/us/pl/107/110/s1076/n]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F110%2Fs1076%2Fn
+[/us/pl/107/110/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F110%2FtX
 [/us/stat/115/2092]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F2092
+[/us/pl/114/95/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F95%2FtIX
+[/us/stat/129/2186]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F2186
+[/us/pl/114/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F95
+[/us/usc/t20/s7801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs7801
 [/us/pl/107/110]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F110
 [/us/pl/103/382]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F382
 [/us/usc/t20/s8801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs8801
+[/us/pl/114/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F95
+[/us/pl/114/95/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F95%2Fs5
+[/us/usc/t20/s6301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs6301
 [/us/pl/107/110]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F110
 [/us/pl/107/110/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F110%2Fs5
 [/us/usc/t20/s6301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs6301

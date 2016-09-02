@@ -23,11 +23,11 @@
 
         The Secretary may, if he or she finds it necessary to do so in order to assure an equitable distribution of the benefits of this part, assign, within the maximum amounts specified in subsection (a) of this section, Federal loan insurance quotas applicable to eligible lenders, or to States or areas, and may from time to time reassign unused portions of these quotas.
 
-([Pub. L. 89–329, title IV, § 424][/us/pl/89/329/s424], as added [Pub. L. 99–498, title IV, § 402(a)][/us/pl/99/498/s402/a], Oct. 17, 1986, [100 Stat. 1358][/us/stat/100/1358]; amended [Pub. L. 102–325, title IV, § 411(b)(1)][/us/pl/102/325/s411/b/1], July 23, 1992, [106 Stat. 510][/us/stat/106/510]; [Pub. L. 105–33, title VI, § 6104(1)][/us/pl/105/33/s6104/1], Aug. 5, 1997, [111 Stat. 652][/us/stat/111/652]; [Pub. L. 105–244, title IV, § 414][/us/pl/105/244/s414], Oct. 7, 1998, [112 Stat. 1679][/us/stat/112/1679]; [Pub. L. 109–171, title VIII, § 8004(b)(1)][/us/pl/109/171/s8004/b/1], Feb. 8, 2006, [120 Stat. 158][/us/stat/120/158]; [Pub. L. 110–315, title IV, § 421][/us/pl/110/315/s421], Aug. 14, 2008, [122 Stat. 3227][/us/stat/122/3227]; [Pub. L. 111–152, title II, § 2202][/us/pl/111/152/s2202], Mar. 30, 2010, [124 Stat. 1074][/us/stat/124/1074].)
+([Pub. L. 89–329, title IV][/us/pl/89/329/tIV], § 424, as added [Pub. L. 99–498, title IV][/us/pl/99/498/tIV], § 402(a), Oct. 17, 1986, [100 Stat. 1358][/us/stat/100/1358]; amended [Pub. L. 102–325, title IV][/us/pl/102/325/tIV], § 411(b)(1), July 23, 1992, [106 Stat. 510][/us/stat/106/510]; [Pub. L. 105–33, title VI][/us/pl/105/33/tVI], § 6104(1), Aug. 5, 1997, [111 Stat. 652][/us/stat/111/652]; [Pub. L. 105–244, title IV][/us/pl/105/244/tIV], § 414, Oct. 7, 1998, [112 Stat. 1679][/us/stat/112/1679]; [Pub. L. 109–171, title VIII][/us/pl/109/171/tVIII], § 8004(b)(1), Feb. 8, 2006, [120 Stat. 158][/us/stat/120/158]; [Pub. L. 110–315, title IV][/us/pl/110/315/tIV], § 421, Aug. 14, 2008, [122 Stat. 3227][/us/stat/122/3227]; [Pub. L. 111–152, title II][/us/pl/111/152/tII], § 2202, Mar. 30, 2010, [124 Stat. 1074][/us/stat/124/1074].)
 
  __Prior Provisions__ 
 
-    A prior section 1074, [Pub. L. 89–329, title IV, § 424][/us/pl/89/329/s424], Nov. 8, 1965, [79 Stat. 1237][/us/stat/79/1237]; [Pub. L. 90–460, § 1(a)(1)][/us/pl/90/460/s1/a/1], Aug. 3, 1968, [82 Stat. 634][/us/stat/82/634]; [Pub. L. 90–575, title I, § 112(a)][/us/pl/90/575/s112/a], Oct. 16, 1968, [82 Stat. 1020][/us/stat/82/1020]; [Pub. L. 92–318, title I, § 132(a)][/us/pl/92/318/s132/a], June 23, 1972, [86 Stat. 261][/us/stat/86/261]; [Pub. L. 94–328, § 2(a)][/us/pl/94/328/s2/a], June 30, 1976, [90 Stat. 727][/us/stat/90/727]; [Pub. L. 94–482, title I, § 127(a)][/us/pl/94/482/s127/a], Oct. 12, 1976, [90 Stat. 2103][/us/stat/90/2103]; [Pub. L. 96–374, title IV, § 411(a)][/us/pl/96/374/s411/a], title XIII, § 1391(a)(1), Oct. 3, 1980, [94 Stat. 1415][/us/stat/94/1415], 1503; [Pub. L. 99–272, title XVI, § 16018(a)(1)][/us/pl/99/272/s16018/a/1], Apr. 7, 1986, [100 Stat. 348][/us/stat/100/348], related to new loans under Federal loan insurance program, prior to the general revision of this part by [Pub. L. 99–498][/us/pl/99/498].
+    A prior section 1074, [Pub. L. 89–329, title IV][/us/pl/89/329/tIV], § 424, Nov. 8, 1965, [79 Stat. 1237][/us/stat/79/1237]; [Pub. L. 90–460][/us/pl/90/460], § 1(a)(1), Aug. 3, 1968, [82 Stat. 634][/us/stat/82/634]; [Pub. L. 90–575, title I][/us/pl/90/575/tI], § 112(a), Oct. 16, 1968, [82 Stat. 1020][/us/stat/82/1020]; [Pub. L. 92–318, title I][/us/pl/92/318/tI], § 132(a), June 23, 1972, [86 Stat. 261][/us/stat/86/261]; [Pub. L. 94–328][/us/pl/94/328], § 2(a), June 30, 1976, [90 Stat. 727][/us/stat/90/727]; [Pub. L. 94–482, title I][/us/pl/94/482/tI], § 127(a), Oct. 12, 1976, [90 Stat. 2103][/us/stat/90/2103]; [Pub. L. 96–374, title IV][/us/pl/96/374/tIV], § 411(a), title XIII, § 1391(a)(1), Oct. 3, 1980, [94 Stat. 1415][/us/stat/94/1415], 1503; [Pub. L. 99–272, title XVI][/us/pl/99/272/tXVI], § 16018(a)(1), Apr. 7, 1986, [100 Stat. 348][/us/stat/100/348], related to new loans under Federal loan insurance program, prior to the general revision of this part by [Pub. L. 99–498][/us/pl/99/498].
 
  __Amendments__ 
 
@@ -59,36 +59,36 @@
 ----------
 
 [/us/usc/t20/s1085]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1085
-[/us/pl/89/329/s424]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2Fs424
-[/us/pl/99/498/s402/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F498%2Fs402%2Fa
+[/us/pl/89/329/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2FtIV
+[/us/pl/99/498/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F498%2FtIV
 [/us/stat/100/1358]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1358
-[/us/pl/102/325/s411/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325%2Fs411%2Fb%2F1
+[/us/pl/102/325/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325%2FtIV
 [/us/stat/106/510]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F510
-[/us/pl/105/33/s6104/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2Fs6104%2F1
+[/us/pl/105/33/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2FtVI
 [/us/stat/111/652]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F652
-[/us/pl/105/244/s414]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2Fs414
+[/us/pl/105/244/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2FtIV
 [/us/stat/112/1679]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F1679
-[/us/pl/109/171/s8004/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F171%2Fs8004%2Fb%2F1
+[/us/pl/109/171/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F171%2FtVIII
 [/us/stat/120/158]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F158
-[/us/pl/110/315/s421]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2Fs421
+[/us/pl/110/315/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2FtIV
 [/us/stat/122/3227]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3227
-[/us/pl/111/152/s2202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F152%2Fs2202
+[/us/pl/111/152/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F152%2FtII
 [/us/stat/124/1074]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1074
-[/us/pl/89/329/s424]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2Fs424
+[/us/pl/89/329/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2FtIV
 [/us/stat/79/1237]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F1237
-[/us/pl/90/460/s1/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F460%2Fs1%2Fa%2F1
+[/us/pl/90/460]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F460
 [/us/stat/82/634]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F634
-[/us/pl/90/575/s112/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F575%2Fs112%2Fa
+[/us/pl/90/575/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F575%2FtI
 [/us/stat/82/1020]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F1020
-[/us/pl/92/318/s132/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F318%2Fs132%2Fa
+[/us/pl/92/318/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F318%2FtI
 [/us/stat/86/261]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F261
-[/us/pl/94/328/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F328%2Fs2%2Fa
+[/us/pl/94/328]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F328
 [/us/stat/90/727]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F727
-[/us/pl/94/482/s127/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F482%2Fs127%2Fa
+[/us/pl/94/482/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F482%2FtI
 [/us/stat/90/2103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2103
-[/us/pl/96/374/s411/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F374%2Fs411%2Fa
+[/us/pl/96/374/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F374%2FtIV
 [/us/stat/94/1415]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F1415
-[/us/pl/99/272/s16018/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F272%2Fs16018%2Fa%2F1
+[/us/pl/99/272/tXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F272%2FtXVI
 [/us/stat/100/348]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F348
 [/us/pl/99/498]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F498
 [/us/pl/111/152]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F152

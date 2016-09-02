@@ -23,7 +23,7 @@
 
     (3) increased and improved preparation of education professionals is needed in guidance and counseling, including administration of guidance and counseling programs at the State and local levels, with special emphasis on inservice training which takes educational professionals into the workplaces of business and industry, the professions, and other occupational pursuits, and that increased and improved use of individuals employed in such pursuits are needed for effective guidance and counseling programs, including (A) bringing persons employed in such pursuits into schools, and (B) bringing students into such workplaces for observation of, and participation in, such pursuits, in order to acquaint the students with the nature of the work.
 
-([Pub. L. 94–482, title III, § 341][/us/pl/94/482/s341], Oct. 12, 1976, [90 Stat. 2224][/us/stat/90/2224].)
+([Pub. L. 94–482, title III][/us/pl/94/482/tIII], § 341, Oct. 12, 1976, [90 Stat. 2224][/us/stat/90/2224].)
 
 ----------
 
@@ -32,7 +32,7 @@
 ----------
 ----------
 
-[/us/pl/94/482/s341]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F482%2Fs341
+[/us/pl/94/482/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F482%2FtIII
 [/us/stat/90/2224]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2224
 
 

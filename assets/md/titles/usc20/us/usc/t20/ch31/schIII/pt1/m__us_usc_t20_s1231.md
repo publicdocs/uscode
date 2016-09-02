@@ -47,7 +47,7 @@
 
             (C) the criteria developed to govern the award of contracts and grants.
 
-([Pub. L. 90–247, title IV, § 430][/us/pl/90/247/s430], formerly § 411, as added [Pub. L. 91–230, title IV, § 401(a)(10)][/us/pl/91/230/s401/a/10], Apr. 13, 1970, [84 Stat. 166][/us/stat/84/166]; renumbered § 421 and amended [Pub. L. 92–318, title III][/us/pl/92/318], §§ 301(a)(1), 302(a), June 23, 1972, [86 Stat. 326][/us/stat/86/326], 332; renumbered § 421A, [Pub. L. 93–380, title V, § 507(a)][/us/pl/93/380/s507/a], Aug. 21, 1974, [88 Stat. 565][/us/stat/88/565]; renumbered § 430 and amended [Pub. L. 103–382, title II][/us/pl/103/382], §§ 212(b)(1), 241, Oct. 20, 1994, [108 Stat. 3913][/us/stat/108/3913], 3921.)
+([Pub. L. 90–247, title IV][/us/pl/90/247/tIV], § 430, formerly § 411, as added [Pub. L. 91–230, title IV][/us/pl/91/230/tIV], § 401(a)(10), Apr. 13, 1970, [84 Stat. 166][/us/stat/84/166]; renumbered § 421 and amended [Pub. L. 92–318, title III][/us/pl/92/318/tIII], §§ 301(a)(1), 302(a), June 23, 1972, [86 Stat. 326][/us/stat/86/326], 332; renumbered § 421A, [Pub. L. 93–380, title V][/us/pl/93/380/tV], § 507(a), Aug. 21, 1974, [88 Stat. 565][/us/stat/88/565]; renumbered § 430 and amended [Pub. L. 103–382, title II][/us/pl/103/382/tII], §§ 212(b)(1), 241, Oct. 20, 1994, [108 Stat. 3913][/us/stat/108/3913], 3921.)
 
  __Prior Provisions__ 
 
@@ -55,9 +55,9 @@
 
  __Amendments__ 
 
-    1994—[Pub. L. 103–382, § 241][/us/pl/103/382/s241], amended section generally. Prior to amendment, section consisted of subsecs. (a) to (c) relating to administration of education programs, delegations of authority, utilization of services and facilities of other agencies, and consolidation of programs.
+    1994—[Pub. L. 103–382][/us/pl/103/382], § 241, amended section generally. Prior to amendment, section consisted of subsecs. (a) to (c) relating to administration of education programs, delegations of authority, utilization of services and facilities of other agencies, and consolidation of programs.
 
-    1972—Subsec. (c). [Pub. L. 92–318, § 302(a)][/us/pl/92/318/s302/a], added subsec. (c).
+    1972—Subsec. (c). [Pub. L. 92–318][/us/pl/92/318], § 302(a), added subsec. (c).
 
  __Change of Name__ 
 
@@ -67,7 +67,7 @@
 
  __Effective Date of 1972 Amendment; Inconsistent Provisions Ineffective__ 
 
-[Pub. L. 92–318, title III, § 302(c)][/us/pl/92/318/s302/c], June 23, 1972, [86 Stat. 333][/us/stat/86/333], provided that: 
+[Pub. L. 92–318, title III][/us/pl/92/318/tIII], § 302(c), June 23, 1972, [86 Stat. 333][/us/stat/86/333], provided that: 
 
 > “The provisions of section 421(c) \[now 430(c)\] of the General Education Provisions Act \[subsec. (c) of this section\] shall be effective upon the date of enactment of this Act \[June 23, 1972\]. No provision of any law which is inconsistent with such section 421(c) shall be effective nor shall any such provision control to the extent of such inconsistency, unless such a law is enacted after the date of enactment of this Act.”
 
@@ -78,20 +78,20 @@
 ----------
 ----------
 
-[/us/pl/90/247/s430]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F247%2Fs430
-[/us/pl/91/230/s401/a/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F230%2Fs401%2Fa%2F10
+[/us/pl/90/247/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F247%2FtIV
+[/us/pl/91/230/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F230%2FtIV
 [/us/stat/84/166]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F166
-[/us/pl/92/318]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F318
+[/us/pl/92/318/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F318%2FtIII
 [/us/stat/86/326]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F326
-[/us/pl/93/380/s507/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F380%2Fs507%2Fa
+[/us/pl/93/380/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F380%2FtV
 [/us/stat/88/565]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F565
-[/us/pl/103/382]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F382
+[/us/pl/103/382/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F382%2FtII
 [/us/stat/108/3913]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3913
 [/us/pl/90/247/s430]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F247%2Fs430
 [/us/usc/t20/s1231g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1231g
-[/us/pl/103/382/s241]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F382%2Fs241
-[/us/pl/92/318/s302/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F318%2Fs302%2Fa
-[/us/pl/92/318/s302/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F318%2Fs302%2Fc
+[/us/pl/103/382]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F382
+[/us/pl/92/318]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F318
+[/us/pl/92/318/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F318%2FtIII
 [/us/stat/86/333]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F333
 
 

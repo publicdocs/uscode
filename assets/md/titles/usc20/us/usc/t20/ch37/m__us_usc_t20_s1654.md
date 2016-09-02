@@ -17,7 +17,7 @@
 
     A parent or guardian of a child, or parents or guardians of children similarly situated, transported to a public school in accordance with a court order, may seek to reopen or intervene in the further implementation of such court order, currently in effect, if the time or distance of travel is so great as to risk the health of the student or significantly impinge on his or her educational process.
 
-([Pub. L. 92–318, title VIII, § 804][/us/pl/92/318/s804], June 23, 1972, [86 Stat. 372][/us/stat/86/372].)
+([Pub. L. 92–318, title VIII][/us/pl/92/318/tVIII], § 804, June 23, 1972, [86 Stat. 372][/us/stat/86/372].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/92/318/s804]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F318%2Fs804
+[/us/pl/92/318/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F318%2FtVIII
 [/us/stat/86/372]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F372
 
 

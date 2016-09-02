@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../..//us/usc/t20/ch24/schVI/m__us_usc_t20_ch24_schVI.md) | [Next](./../../../..//us/usc/t20/ch25/m__us_usc_t20_s901.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fch25)
+[Previous](./../../../..//us/usc/t20/ch24/schVI/m__us_usc_t20_s900...900a–5.md) | [Next](./../../../..//us/usc/t20/ch25/m__us_usc_t20_s901.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fch25)
 
 ## CHAPTER 25—PAY AND PERSONNEL PROGRAM FOR OVERSEAS TEACHERS
 
@@ -83,7 +83,7 @@
 
 ----------
 
-[Previous](./../../../..//us/usc/t20/ch24/schVI/m__us_usc_t20_ch24_schVI.md) | [Next](./../../../..//us/usc/t20/ch25/m__us_usc_t20_s901.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fch25)
+[Previous](./../../../..//us/usc/t20/ch24/schVI/m__us_usc_t20_s900...900a–5.md) | [Next](./../../../..//us/usc/t20/ch25/m__us_usc_t20_s901.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fch25)
 
 ----------
 ----------

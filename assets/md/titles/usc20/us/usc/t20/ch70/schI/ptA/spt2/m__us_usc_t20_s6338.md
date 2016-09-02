@@ -39,11 +39,11 @@
 
         If a State educational agency determines that the amount of a grant a local educational agency would receive under sections 6333, 6334, 6335, and 6337 of this title is more than such local educational agency will use, the State educational agency shall make the excess amount available to other local educational agencies in the State that need additional funds in accordance with criteria established by the State educational agency.
 
-([Pub. L. 89–10, title I, § 1126][/us/pl/89/10/s1126], as added [Pub. L. 107–110, title I, § 101][/us/pl/107/110/s101], Jan. 8, 2002, [115 Stat. 1534][/us/stat/115/1534].)
+([Pub. L. 89–10, title I][/us/pl/89/10/tI], § 1126, as added [Pub. L. 107–110, title I][/us/pl/107/110/tI], § 101, Jan. 8, 2002, [115 Stat. 1534][/us/stat/115/1534].)
 
  __Prior Provisions__ 
 
-    A prior section 6338, [Pub. L. 89–10, title I, § 1127][/us/pl/89/10/s1127], as added [Pub. L. 103–382, title I, § 101][/us/pl/103/382/s101], Oct. 20, 1994, [108 Stat. 3577][/us/stat/108/3577], related to carryover and waiver, prior to the general amendment of this subchapter by [Pub. L. 107–110][/us/pl/107/110]. See [section 6339 of this title][/us/usc/t20/s6339].
+    A prior section 6338, [Pub. L. 89–10, title I][/us/pl/89/10/tI], § 1127, as added [Pub. L. 103–382, title I][/us/pl/103/382/tI], § 101, Oct. 20, 1994, [108 Stat. 3577][/us/stat/108/3577], related to carryover and waiver, prior to the general amendment of this subchapter by [Pub. L. 107–110][/us/pl/107/110].
 
     A prior [section 1126 of Pub. L. 89–10][/us/pl/89/10/s1126] was classified to [section 6337 of this title][/us/usc/t20/s6337], prior to the general amendment of this subchapter by [Pub. L. 107–110][/us/pl/107/110].
 
@@ -55,14 +55,13 @@
 ----------
 
 [/us/usc/t20/s6333/c/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs6333%2Fc%2F1%2FB
-[/us/pl/89/10/s1126]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F10%2Fs1126
-[/us/pl/107/110/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F110%2Fs101
+[/us/pl/89/10/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F10%2FtI
+[/us/pl/107/110/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F110%2FtI
 [/us/stat/115/1534]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F1534
-[/us/pl/89/10/s1127]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F10%2Fs1127
-[/us/pl/103/382/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F382%2Fs101
+[/us/pl/89/10/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F10%2FtI
+[/us/pl/103/382/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F382%2FtI
 [/us/stat/108/3577]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3577
 [/us/pl/107/110]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F110
-[/us/usc/t20/s6339]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs6339
 [/us/pl/89/10/s1126]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F10%2Fs1126
 [/us/usc/t20/s6337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs6337
 [/us/pl/107/110]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F110

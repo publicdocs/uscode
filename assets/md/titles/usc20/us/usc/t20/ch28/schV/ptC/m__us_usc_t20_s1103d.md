@@ -33,13 +33,13 @@
 
         The Secretary shall not waive, under subsection (b) of this section, the non-Federal share requirement for any program for applications which, if approved, would require the expenditure of more than 10 percent of the appropriations for the program for any fiscal year.
 
-([Pub. L. 89–329, title V, § 525][/us/pl/89/329/s525], formerly § 515, as added [Pub. L. 105–244, title V, § 501][/us/pl/105/244/s501], Oct. 7, 1998, [112 Stat. 1773][/us/stat/112/1773]; renumbered § 525, [Pub. L. 110–315, title V, § 502(a)(2)][/us/pl/110/315/s502/a/2], Aug. 14, 2008, [122 Stat. 3331][/us/stat/122/3331].)
+([Pub. L. 89–329, title V][/us/pl/89/329/tV], § 525, formerly § 515, as added [Pub. L. 105–244, title V][/us/pl/105/244/tV], § 501, Oct. 7, 1998, [112 Stat. 1773][/us/stat/112/1773]; renumbered § 525, [Pub. L. 110–315, title V][/us/pl/110/315/tV], § 502(a)(2), Aug. 14, 2008, [122 Stat. 3331][/us/stat/122/3331].)
 
  __Prior Provisions__ 
 
-    A prior section 1103d, [Pub. L. 89–329, title V, § 515][/us/pl/89/329/s515], as added [Pub. L. 102–325, title V, § 501(a)][/us/pl/102/325/s501/a], July 23, 1992, [106 Stat. 676][/us/stat/106/676], related to State delegations to National Teacher Academies, prior to the general amendment of this subchapter by [Pub. L. 105–244][/us/pl/105/244].
+    A prior section 1103d, [Pub. L. 89–329, title V][/us/pl/89/329/tV], § 515, as added [Pub. L. 102–325, title V][/us/pl/102/325/tV], § 501(a), July 23, 1992, [106 Stat. 676][/us/stat/106/676], related to State delegations to National Teacher Academies, prior to the general amendment of this subchapter by [Pub. L. 105–244][/us/pl/105/244].
 
-    Another prior section 1103d, [Pub. L. 89–329, title V, § 515][/us/pl/89/329/s515], as added [Pub. L. 99–498, title V, § 501(a)][/us/pl/99/498/s501/a], Oct. 17, 1986, [100 Stat. 1497][/us/stat/100/1497], required reports to Secretary from institutions receiving grants, prior to the general amendment of this subchapter by [Pub. L. 102–325][/us/pl/102/325].
+    Another prior section 1103d, [Pub. L. 89–329, title V][/us/pl/89/329/tV], § 515, as added [Pub. L. 99–498, title V][/us/pl/99/498/tV], § 501(a), Oct. 17, 1986, [100 Stat. 1497][/us/stat/100/1497], required reports to Secretary from institutions receiving grants, prior to the general amendment of this subchapter by [Pub. L. 102–325][/us/pl/102/325].
 
     A prior [section 525 of Pub. L. 89–329][/us/pl/89/329/s525] was classified to [section 1104d of this title][/us/usc/t20/s1104d], prior to the general amendment of this subchapter by [Pub. L. 105–244][/us/pl/105/244].
 
@@ -55,17 +55,17 @@
 ----------
 
 [/us/usc/t20/s1124]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1124
-[/us/pl/89/329/s525]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2Fs525
-[/us/pl/105/244/s501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2Fs501
+[/us/pl/89/329/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2FtV
+[/us/pl/105/244/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2FtV
 [/us/stat/112/1773]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F1773
-[/us/pl/110/315/s502/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2Fs502%2Fa%2F2
+[/us/pl/110/315/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2FtV
 [/us/stat/122/3331]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3331
-[/us/pl/89/329/s515]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2Fs515
-[/us/pl/102/325/s501/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325%2Fs501%2Fa
+[/us/pl/89/329/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2FtV
+[/us/pl/102/325/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325%2FtV
 [/us/stat/106/676]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F676
 [/us/pl/105/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244
-[/us/pl/89/329/s515]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2Fs515
-[/us/pl/99/498/s501/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F498%2Fs501%2Fa
+[/us/pl/89/329/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2FtV
+[/us/pl/99/498/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F498%2FtV
 [/us/stat/100/1497]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1497
 [/us/pl/102/325]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325
 [/us/pl/89/329/s525]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2Fs525

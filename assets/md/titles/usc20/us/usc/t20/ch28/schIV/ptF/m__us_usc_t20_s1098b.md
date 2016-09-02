@@ -17,7 +17,7 @@
 
     There are authorized to be appropriated such sums as may be necessary for fiscal year 1993 and for each succeeding fiscal year thereafter for administrative expenses necessary for carrying out this subchapter and part C of subchapter I of chapter 34 of title 42, including expenses for staff personnel, program reviews, and compliance activities.
 
-([Pub. L. 89–329, title IV, § 493][/us/pl/89/329/s493], as added [Pub. L. 102–325, title IV, § 497][/us/pl/102/325/s497], July 23, 1992, [106 Stat. 634][/us/stat/106/634].)
+([Pub. L. 89–329, title IV][/us/pl/89/329/tIV], § 493, as added [Pub. L. 102–325, title IV][/us/pl/102/325/tIV], § 497, July 23, 1992, [106 Stat. 634][/us/stat/106/634].)
 
 ----------
 
@@ -26,8 +26,8 @@
 ----------
 ----------
 
-[/us/pl/89/329/s493]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2Fs493
-[/us/pl/102/325/s497]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325%2Fs497
+[/us/pl/89/329/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2FtIV
+[/us/pl/102/325/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325%2FtIV
 [/us/stat/106/634]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F634
 
 

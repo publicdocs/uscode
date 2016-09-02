@@ -35,7 +35,7 @@
 
         In carrying out the duties under this part, the Director may award grants, enter into contracts and cooperative agreements, and provide technical assistance.
 
-([Pub. L. 107–279, title I, § 171][/us/pl/107/279/s171], Nov. 5, 2002, [116 Stat. 1962][/us/stat/116/1962].)
+([Pub. L. 107–279, title I][/us/pl/107/279/tI], § 171, Nov. 5, 2002, [116 Stat. 1962][/us/stat/116/1962].)
 
 ----------
 
@@ -44,7 +44,7 @@
 ----------
 ----------
 
-[/us/pl/107/279/s171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F279%2Fs171
+[/us/pl/107/279/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F279%2FtI
 [/us/stat/116/1962]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1962
 
 

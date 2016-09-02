@@ -79,7 +79,7 @@
 
         (3) submit the assessment to the Secretary and to the Director of the Institute of Education Sciences, at such time, in such manner, and containing such information as the Secretary may require.
 
-([Pub. L. 107–279, title II, § 206][/us/pl/107/279/s206], Nov. 5, 2002, [116 Stat. 1979][/us/stat/116/1979]; [Pub. L. 108–446, title II, § 203][/us/pl/108/446/s203], Dec. 3, 2004, [118 Stat. 2803][/us/stat/118/2803].)
+([Pub. L. 107–279, title II][/us/pl/107/279/tII], § 206, Nov. 5, 2002, [116 Stat. 1979][/us/stat/116/1979]; [Pub. L. 108–446, title II][/us/pl/108/446/tII], § 203, Dec. 3, 2004, [118 Stat. 2803][/us/stat/118/2803].)
 
  __Amendments__ 
 
@@ -99,9 +99,9 @@
 [/us/usc/t20/s9564/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs9564%2Fb
 [/us/usc/t20/s9564]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs9564
 [/us/usc/t20/s9602]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs9602
-[/us/pl/107/279/s206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F279%2Fs206
+[/us/pl/107/279/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F279%2FtII
 [/us/stat/116/1979]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1979
-[/us/pl/108/446/s203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F446%2Fs203
+[/us/pl/108/446/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F446%2FtII
 [/us/stat/118/2803]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F2803
 [/us/pl/108/446]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F446
 [/us/pl/92/463/s14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F463%2Fs14

@@ -139,7 +139,7 @@
 
         There are authorized to be appropriated to carry out this section such sums as may be necessary for each of fiscal years 2007 through 2012.
 
-([Pub. L. 88–210, title I, § 117][/us/pl/88/210/s117], as added [Pub. L. 109–270, § 1(b)][/us/pl/109/270/s1/b], Aug. 12, 2006, [120 Stat. 710][/us/stat/120/710]; amended [Pub. L. 110–315, title IX, § 941(j)(2)][/us/pl/110/315/s941/j/2], (k)(2)(D)(ii), Aug. 14, 2008, [122 Stat. 3465][/us/stat/122/3465], 3466.)
+([Pub. L. 88–210, title I][/us/pl/88/210/tI], § 117, as added [Pub. L. 109–270][/us/pl/109/270], § 1(b), Aug. 12, 2006, [120 Stat. 710][/us/stat/120/710]; amended [Pub. L. 110–315, title IX][/us/pl/110/315/tIX], § 941(j)(2), (k)(2)(D)(ii), Aug. 14, 2008, [122 Stat. 3465][/us/stat/122/3465], 3466.)
 
  __References in Text__ 
 
@@ -153,17 +153,17 @@
 
  __Prior Provisions__ 
 
-    A prior section 2327, [Pub. L. 88–210, title I, § 117][/us/pl/88/210/s117], as added [Pub. L. 105–332, § 1(b)][/us/pl/105/332/s1/b], Oct. 31, 1998, [112 Stat. 3097][/us/stat/112/3097]; amended [Pub. L. 106–554, § 1(a)(1)][/us/pl/106/554/s1/a/1] \[title III, § 310\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–46; [Pub. L. 107–20, title II, § 2701(a)][/us/pl/107/20/s2701/a], July 24, 2001, [115 Stat. 181][/us/stat/115/181], related to tribally controlled postsecondary vocational and technical institutions, prior to the general amendment of this chapter by [Pub. L. 109–270][/us/pl/109/270].
+    A prior section 2327, [Pub. L. 88–210, title I][/us/pl/88/210/tI], § 117, as added [Pub. L. 105–332][/us/pl/105/332], § 1(b), Oct. 31, 1998, [112 Stat. 3097][/us/stat/112/3097]; amended [Pub. L. 106–554][/us/pl/106/554], § 1(a)(1) \[title III, § 310\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–46; [Pub. L. 107–20, title II][/us/pl/107/20/tII], § 2701(a), July 24, 2001, [115 Stat. 181][/us/stat/115/181], related to tribally controlled postsecondary vocational and technical institutions, prior to the general amendment of this chapter by [Pub. L. 109–270][/us/pl/109/270].
 
-    Another prior section 2327, [Pub. L. 88–210, title I, § 117][/us/pl/88/210/s117], as added [Pub. L. 101–392, title I, § 116][/us/pl/101/392/s116], Sept. 25, 1990, [104 Stat. 772][/us/stat/104/772], related to program evaluation and improvement, prior to the general amendment of this chapter by [Pub. L. 105–332][/us/pl/105/332].
+    Another prior section 2327, [Pub. L. 88–210, title I][/us/pl/88/210/tI], § 117, as added [Pub. L. 101–392, title I][/us/pl/101/392/tI], § 116, Sept. 25, 1990, [104 Stat. 772][/us/stat/104/772], related to program evaluation and improvement, prior to the general amendment of this chapter by [Pub. L. 105–332][/us/pl/105/332].
 
  __Amendments__ 
 
-    2008—Subsec. (a). [Pub. L. 110–315, § 941(j)(2)(A)][/us/pl/110/315/s941/j/2/A], added subsec. (a) and struck out former subsec. (a). Prior to amendment, text read as follows: “The Secretary shall, subject to the availability of appropriations, make grants pursuant to this section to tribally controlled postsecondary career and technical institutions that are not receiving Federal support under the Tribally Controlled College or University Assistance Act of 1978 ([25 U.S.C. 1801][/us/usc/t25/s1801] et seq.) or the Navajo Community College Act ([25 U.S.C. 640a][/us/usc/t25/s640a] et seq.) to provide basic support for the education and training of Indian students.”
+    2008—Subsec. (a). [Pub. L. 110–315][/us/pl/110/315], § 941(j)(2)(A), added subsec. (a) and struck out former subsec. (a). Prior to amendment, text read as follows: “The Secretary shall, subject to the availability of appropriations, make grants pursuant to this section to tribally controlled postsecondary career and technical institutions that are not receiving Federal support under the Tribally Controlled College or University Assistance Act of 1978 ([25 U.S.C. 1801][/us/usc/t25/s1801] et seq.) or the Navajo Community College Act ([25 U.S.C. 640a][/us/usc/t25/s640a] et seq.) to provide basic support for the education and training of Indian students.”
 
-    Subsec. (d). [Pub. L. 110–315, § 941(j)(2)(B)][/us/pl/110/315/s941/j/2/B], added subsec. (d) and struck out former subsec. (d). Prior to amendment, text read as follows: “Any tribally controlled postsecondary career and technical institution that is not receiving Federal support under the Tribally Controlled College or University Assistance Act of 1978 ([25 U.S.C. 1801][/us/usc/t25/s1801] et seq.) or the Navajo Community College Act ([25 U.S.C. 640a][/us/usc/t25/s640a] et seq.) that desires to receive a grant under this section shall submit an application to the Secretary in such manner and form as the Secretary may require.”
+    Subsec. (d). [Pub. L. 110–315][/us/pl/110/315], § 941(j)(2)(B), added subsec. (d) and struck out former subsec. (d). Prior to amendment, text read as follows: “Any tribally controlled postsecondary career and technical institution that is not receiving Federal support under the Tribally Controlled College or University Assistance Act of 1978 ([25 U.S.C. 1801][/us/usc/t25/s1801] et seq.) or the Navajo Community College Act ([25 U.S.C. 640a][/us/usc/t25/s640a] et seq.) that desires to receive a grant under this section shall submit an application to the Secretary in such manner and form as the Secretary may require.”
 
-    Subsec. (h)(1). [Pub. L. 110–315, § 941(k)(2)(D)(ii)][/us/pl/110/315/s941/k/2/D/ii], substituted “the Tribally Controlled Colleges and Universities Assistance Act of 1978” for “the Tribally Controlled College or University Assistance Act of 1978”.
+    Subsec. (h)(1). [Pub. L. 110–315][/us/pl/110/315], § 941(k)(2)(D)(ii), substituted “the Tribally Controlled Colleges and Universities Assistance Act of 1978” for “the Tribally Controlled College or University Assistance Act of 1978”.
 
 ----------
 
@@ -182,10 +182,10 @@
 [/us/usc/t25/s13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs13
 [/us/usc/t25/s450]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs450
 [/us/usc/t25/s1801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs1801
-[/us/pl/88/210/s117]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F210%2Fs117
-[/us/pl/109/270/s1/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F270%2Fs1%2Fb
+[/us/pl/88/210/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F210%2FtI
+[/us/pl/109/270]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F270
 [/us/stat/120/710]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F710
-[/us/pl/110/315/s941/j/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2Fs941%2Fj%2F2
+[/us/pl/110/315/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2FtIX
 [/us/stat/122/3465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3465
 [/us/pl/95/471]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F471
 [/us/stat/92/1325]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1325
@@ -199,24 +199,24 @@
 [/us/pl/93/638]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F638
 [/us/stat/88/2203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F2203
 [/us/usc/t25/s450]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs450
-[/us/pl/88/210/s117]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F210%2Fs117
-[/us/pl/105/332/s1/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F332%2Fs1%2Fb
+[/us/pl/88/210/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F210%2FtI
+[/us/pl/105/332]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F332
 [/us/stat/112/3097]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F3097
-[/us/pl/106/554/s1/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F1
+[/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
 [/us/stat/114/2763]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2763
-[/us/pl/107/20/s2701/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F20%2Fs2701%2Fa
+[/us/pl/107/20/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F20%2FtII
 [/us/stat/115/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F181
 [/us/pl/109/270]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F270
-[/us/pl/88/210/s117]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F210%2Fs117
-[/us/pl/101/392/s116]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F392%2Fs116
+[/us/pl/88/210/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F210%2FtI
+[/us/pl/101/392/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F392%2FtI
 [/us/stat/104/772]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F772
 [/us/pl/105/332]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F332
-[/us/pl/110/315/s941/j/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2Fs941%2Fj%2F2%2FA
+[/us/pl/110/315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315
 [/us/usc/t25/s1801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs1801
 [/us/usc/t25/s640a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs640a
-[/us/pl/110/315/s941/j/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2Fs941%2Fj%2F2%2FB
+[/us/pl/110/315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315
 [/us/usc/t25/s1801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs1801
 [/us/usc/t25/s640a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs640a
-[/us/pl/110/315/s941/k/2/D/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2Fs941%2Fk%2F2%2FD%2Fii
+[/us/pl/110/315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315
 
 

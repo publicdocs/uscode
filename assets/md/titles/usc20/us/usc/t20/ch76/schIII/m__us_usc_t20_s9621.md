@@ -175,7 +175,7 @@
 
         The Federal Advisory Committee Act (5 U.S.C. App.) shall not apply with respect to the Assessment Board, other than sections 10, 11, and 12 of such Act.
 
-([Pub. L. 107–279, title III, § 302][/us/pl/107/279/s302], formerly [Pub. L. 103–382, title IV, § 412][/us/pl/103/382/s412], Oct. 20, 1994, [108 Stat. 4039][/us/stat/108/4039]; [Pub. L. 106–554, § 1(a)(1)][/us/pl/106/554/s1/a/1] \[title III, § 307\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–44; [Pub. L. 107–110, title VI, § 602(b)][/us/pl/107/110/s602/b], Jan. 8, 2002, [115 Stat. 1904][/us/stat/115/1904]; renumbered [Pub. L. 107–279, title III, § 302][/us/pl/107/279/s302], and amended [Pub. L. 107–279, title IV, § 401(c)][/us/pl/107/279/s401/c], Nov. 5, 2002, [116 Stat. 1983][/us/stat/116/1983].)
+([Pub. L. 107–279, title III][/us/pl/107/279/tIII], § 302, formerly [Pub. L. 103–382, title IV][/us/pl/103/382/tIV], § 412, Oct. 20, 1994, [108 Stat. 4039][/us/stat/108/4039]; [Pub. L. 106–554][/us/pl/106/554], § 1(a)(1) \[title III, § 307\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–44; [Pub. L. 107–110, title VI][/us/pl/107/110/tVI], § 602(b), Jan. 8, 2002, [115 Stat. 1904][/us/stat/115/1904]; renumbered [Pub. L. 107–279, title III][/us/pl/107/279/tIII], § 302, and amended [Pub. L. 107–279, title IV][/us/pl/107/279/tIV], § 401(c), Nov. 5, 2002, [116 Stat. 1983][/us/stat/116/1983].)
 
  __References in Text__ 
 
@@ -193,51 +193,51 @@
 
     2002—[Pub. L. 107–110][/us/pl/107/110] amended section generally, restating and expanding provisions and inserting headings.
 
-    Subsec. (a). [Pub. L. 107–279, § 401(c)(1)][/us/pl/107/279/s401/c/1], substituted “referred to as the ‘Assessment Board’ ” for “referred to as the ‘Board’ ” and inserted “(carried out under [section 9622 of this title][/us/usc/t20/s9622])” after “for the National Assessment”.
+    Subsec. (a). [Pub. L. 107–279][/us/pl/107/279], § 401(c)(1), substituted “referred to as the ‘Assessment Board’ ” for “referred to as the ‘Board’ ” and inserted “(carried out under [section 9622 of this title][/us/usc/t20/s9622])” after “for the National Assessment”.
 
-    Subsec. (b)(1). [Pub. L. 107–279, § 401(c)(2)][/us/pl/107/279/s401/c/2], substituted “Assessment Board” for “Board” in introductory provisions.
+    Subsec. (b)(1). [Pub. L. 107–279][/us/pl/107/279], § 401(c)(2), substituted “Assessment Board” for “Board” in introductory provisions.
 
-    Subsec. (b)(2). [Pub. L. 107–279, § 401(c)(4)][/us/pl/107/279/s401/c/4], substituted “Director of the Institute of Education Sciences” for “Assistant Secretary for Educational Research” in heading and “Assistant Secretary for Educational Research and Improvement” in text.
+    Subsec. (b)(2). [Pub. L. 107–279][/us/pl/107/279], § 401(c)(4), substituted “Director of the Institute of Education Sciences” for “Assistant Secretary for Educational Research” in heading and “Assistant Secretary for Educational Research and Improvement” in text.
 
-    [Pub. L. 107–279, § 401(c)(2)][/us/pl/107/279/s401/c/2], substituted “Assessment Board” for “Board”.
+    [Pub. L. 107–279][/us/pl/107/279], § 401(c)(2), substituted “Assessment Board” for “Board”.
 
-    Subsecs. (b)(3) to (d)(1). [Pub. L. 107–279, § 401(c)(2)][/us/pl/107/279/s401/c/2], substituted “Assessment Board” for “Board” wherever appearing.
+    Subsecs. (b)(3) to (d)(1). [Pub. L. 107–279][/us/pl/107/279], § 401(c)(2), substituted “Assessment Board” for “Board” wherever appearing.
 
-    Subsec. (e)(1). [Pub. L. 107–279, § 401(c)(2)][/us/pl/107/279/s401/c/2], (5)(A)(vii), substituted “Assessment Board” for “Board” in introductory provisions and inserted concluding provisions.
+    Subsec. (e)(1). [Pub. L. 107–279][/us/pl/107/279], § 401(c)(2), (5)(A)(vii), substituted “Assessment Board” for “Board” in introductory provisions and inserted concluding provisions.
 
-    Subsec. (e)(1)(A). [Pub. L. 107–279, § 401(c)(5)(A)(i)][/us/pl/107/279/s401/c/5/A/i], substituted “section 9622(b)” for “section 9010(b)”.
+    Subsec. (e)(1)(A). [Pub. L. 107–279][/us/pl/107/279], § 401(c)(5)(A)(i), substituted “section 9622(b)” for “section 9010(b)”.
 
-    Subsec. (e)(1)(B). [Pub. L. 107–279, § 401(c)(5)(A)(ii)][/us/pl/107/279/s401/c/5/A/ii], substituted “section 9622(e)” for “section 9010(e)”.
+    Subsec. (e)(1)(B). [Pub. L. 107–279][/us/pl/107/279], § 401(c)(5)(A)(ii), substituted “section 9622(e)” for “section 9010(e)”.
 
-    Subsec. (e)(1)(E). [Pub. L. 107–279, § 401(c)(5)(A)(iii)][/us/pl/107/279/s401/c/5/A/iii], struck out “, including the Advisory Council established under [section 9006 of this title][/us/usc/t20/s9006]” before semicolon at end.
+    Subsec. (e)(1)(E). [Pub. L. 107–279][/us/pl/107/279], § 401(c)(5)(A)(iii), struck out “, including the Advisory Council established under [section 9006 of this title][/us/usc/t20/s9006]” before semicolon at end.
 
-    Subsec. (e)(1)(F), (I). [Pub. L. 107–279, § 401(c)(5)(A)(iv)][/us/pl/107/279/s401/c/5/A/iv], substituted “section 9622” for “section 9010” wherever appearing.
+    Subsec. (e)(1)(F), (I). [Pub. L. 107–279][/us/pl/107/279], § 401(c)(5)(A)(iv), substituted “section 9622” for “section 9010” wherever appearing.
 
-    Subsec. (e)(1)(J). [Pub. L. 107–279, § 401(c)(5)(A)(v)][/us/pl/107/279/s401/c/5/A/v]–(vii), added subpar. (J).
+    Subsec. (e)(1)(J). [Pub. L. 107–279][/us/pl/107/279], § 401(c)(5)(A)(v)–(vii), added subpar. (J).
 
-    Subsec. (e)(2) to (4). [Pub. L. 107–279, § 401(c)(2)][/us/pl/107/279/s401/c/2], substituted “Assessment Board” for “Board”.
+    Subsec. (e)(2) to (4). [Pub. L. 107–279][/us/pl/107/279], § 401(c)(2), substituted “Assessment Board” for “Board”.
 
-    Subsec. (e)(5). [Pub. L. 107–279, § 401(c)(5)(B)][/us/pl/107/279/s401/c/5/B], struck out “and the Advisory Council on Education Statistics” before “and other experts.”
+    Subsec. (e)(5). [Pub. L. 107–279][/us/pl/107/279], § 401(c)(5)(B), struck out “and the Advisory Council on Education Statistics” before “and other experts.”
 
-    [Pub. L. 107–279, § 401(c)(3)][/us/pl/107/279/s401/c/3], substituted “Commissioner for Education Statistics” for “Commissioner”.
+    [Pub. L. 107–279][/us/pl/107/279], § 401(c)(3), substituted “Commissioner for Education Statistics” for “Commissioner”.
 
-    [Pub. L. 107–279, § 401(c)(2)][/us/pl/107/279/s401/c/2], substituted “Assessment Board” for “Board”.
+    [Pub. L. 107–279][/us/pl/107/279], § 401(c)(2), substituted “Assessment Board” for “Board”.
 
-    Subsec. (e)(6). [Pub. L. 107–279, § 401(c)(5)(C)][/us/pl/107/279/s401/c/5/C], substituted “section 9622(e)” for “section 9010(e)”.
+    Subsec. (e)(6). [Pub. L. 107–279][/us/pl/107/279], § 401(c)(5)(C), substituted “section 9622(e)” for “section 9010(e)”.
 
-    [Pub. L. 107–279, § 401(c)(2)][/us/pl/107/279/s401/c/2], substituted “Assessment Board” for “Board” in two places.
+    [Pub. L. 107–279][/us/pl/107/279], § 401(c)(2), substituted “Assessment Board” for “Board” in two places.
 
-    Subsec. (f). [Pub. L. 107–279, § 401(c)(2)][/us/pl/107/279/s401/c/2], substituted “Assessment Board” for “Board” wherever appearing.
+    Subsec. (f). [Pub. L. 107–279][/us/pl/107/279], § 401(c)(2), substituted “Assessment Board” for “Board” wherever appearing.
 
-    Subsec. (g). [Pub. L. 107–279, § 401(c)(3)][/us/pl/107/279/s401/c/3], substituted “Commissioner for Education Statistics” for “Commissioner” in two places.
+    Subsec. (g). [Pub. L. 107–279][/us/pl/107/279], § 401(c)(3), substituted “Commissioner for Education Statistics” for “Commissioner” in two places.
 
-    [Pub. L. 107–279, § 401(c)(2)][/us/pl/107/279/s401/c/2], substituted “Assessment Board” for “Board” wherever appearing.
+    [Pub. L. 107–279][/us/pl/107/279], § 401(c)(2), substituted “Assessment Board” for “Board” wherever appearing.
 
-    Subsec. (h). [Pub. L. 107–279, § 401(c)(2)][/us/pl/107/279/s401/c/2], substituted “Assessment Board” for “Board”.
+    Subsec. (h). [Pub. L. 107–279][/us/pl/107/279], § 401(c)(2), substituted “Assessment Board” for “Board”.
 
-    2000—Subsec. (c)(1). [Pub. L. 106–554, § 1(a)(1)][/us/pl/106/554/s1/a/1] \[title III, § 307(1)\], substituted “4 years” for “3 years”.
+    2000—Subsec. (c)(1). [Pub. L. 106–554][/us/pl/106/554], § 1(a)(1) \[title III, § 307(1)\], substituted “4 years” for “3 years”.
 
-    Subsec. (c)(4). [Pub. L. 106–554, § 1(a)(1)][/us/pl/106/554/s1/a/1] \[title III, § 307(2)\], added par. (4).
+    Subsec. (c)(4). [Pub. L. 106–554][/us/pl/106/554], § 1(a)(1) \[title III, § 307(2)\], added par. (4).
 
  __Effective Date of 2002 Amendment__ 
 
@@ -261,15 +261,15 @@
 [/us/usc/t20/s9622]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs9622
 [/us/usc/t20/s9622]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs9622
 [/us/usc/t20/s9622/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs9622%2Fe
-[/us/pl/107/279/s302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F279%2Fs302
-[/us/pl/103/382/s412]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F382%2Fs412
+[/us/pl/107/279/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F279%2FtIII
+[/us/pl/103/382/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F382%2FtIV
 [/us/stat/108/4039]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4039
-[/us/pl/106/554/s1/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F1
+[/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
 [/us/stat/114/2763]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2763
-[/us/pl/107/110/s602/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F110%2Fs602%2Fb
+[/us/pl/107/110/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F110%2FtVI
 [/us/stat/115/1904]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F1904
-[/us/pl/107/279/s302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F279%2Fs302
-[/us/pl/107/279/s401/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F279%2Fs401%2Fc
+[/us/pl/107/279/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F279%2FtIII
+[/us/pl/107/279/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F279%2FtIV
 [/us/stat/116/1983]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1983
 [/us/pl/92/463]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F463
 [/us/stat/86/770]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F770
@@ -278,31 +278,31 @@
 [/us/pl/107/279/s302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F279%2Fs302
 [/us/usc/t20/s9623]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs9623
 [/us/pl/107/110]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F110
-[/us/pl/107/279/s401/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F279%2Fs401%2Fc%2F1
+[/us/pl/107/279]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F279
 [/us/usc/t20/s9622]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs9622
-[/us/pl/107/279/s401/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F279%2Fs401%2Fc%2F2
-[/us/pl/107/279/s401/c/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F279%2Fs401%2Fc%2F4
-[/us/pl/107/279/s401/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F279%2Fs401%2Fc%2F2
-[/us/pl/107/279/s401/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F279%2Fs401%2Fc%2F2
-[/us/pl/107/279/s401/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F279%2Fs401%2Fc%2F2
-[/us/pl/107/279/s401/c/5/A/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F279%2Fs401%2Fc%2F5%2FA%2Fi
-[/us/pl/107/279/s401/c/5/A/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F279%2Fs401%2Fc%2F5%2FA%2Fii
-[/us/pl/107/279/s401/c/5/A/iii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F279%2Fs401%2Fc%2F5%2FA%2Fiii
+[/us/pl/107/279]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F279
+[/us/pl/107/279]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F279
+[/us/pl/107/279]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F279
+[/us/pl/107/279]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F279
+[/us/pl/107/279]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F279
+[/us/pl/107/279]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F279
+[/us/pl/107/279]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F279
+[/us/pl/107/279]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F279
 [/us/usc/t20/s9006]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs9006
-[/us/pl/107/279/s401/c/5/A/iv]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F279%2Fs401%2Fc%2F5%2FA%2Fiv
-[/us/pl/107/279/s401/c/5/A/v]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F279%2Fs401%2Fc%2F5%2FA%2Fv
-[/us/pl/107/279/s401/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F279%2Fs401%2Fc%2F2
-[/us/pl/107/279/s401/c/5/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F279%2Fs401%2Fc%2F5%2FB
-[/us/pl/107/279/s401/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F279%2Fs401%2Fc%2F3
-[/us/pl/107/279/s401/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F279%2Fs401%2Fc%2F2
-[/us/pl/107/279/s401/c/5/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F279%2Fs401%2Fc%2F5%2FC
-[/us/pl/107/279/s401/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F279%2Fs401%2Fc%2F2
-[/us/pl/107/279/s401/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F279%2Fs401%2Fc%2F2
-[/us/pl/107/279/s401/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F279%2Fs401%2Fc%2F3
-[/us/pl/107/279/s401/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F279%2Fs401%2Fc%2F2
-[/us/pl/107/279/s401/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F279%2Fs401%2Fc%2F2
-[/us/pl/106/554/s1/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F1
-[/us/pl/106/554/s1/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F1
+[/us/pl/107/279]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F279
+[/us/pl/107/279]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F279
+[/us/pl/107/279]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F279
+[/us/pl/107/279]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F279
+[/us/pl/107/279]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F279
+[/us/pl/107/279]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F279
+[/us/pl/107/279]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F279
+[/us/pl/107/279]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F279
+[/us/pl/107/279]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F279
+[/us/pl/107/279]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F279
+[/us/pl/107/279]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F279
+[/us/pl/107/279]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F279
+[/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
+[/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
 [/us/pl/107/110]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F110
 [/us/pl/107/110/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F110%2Fs5
 [/us/usc/t20/s6301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs6301

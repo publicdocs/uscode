@@ -73,11 +73,11 @@
 
         (2) based on their respective concentrations and numbers of children counted under [section 6333(c) of this title][/us/usc/t20/s6333/c], except that only those local educational agencies with concentrations or numbers of children counted under [section 6333(c) of this title][/us/usc/t20/s6333/c] that exceed the statewide average percentage of such children or the statewide average number of such children shall receive any funds on the basis of this paragraph.
 
-([Pub. L. 89–10, title I, § 1124A][/us/pl/89/10/s1124A], as added [Pub. L. 107–110, title I, § 101][/us/pl/107/110/s101], Jan. 8, 2002, [115 Stat. 1521][/us/stat/115/1521].)
+([Pub. L. 89–10, title I][/us/pl/89/10/tI], § 1124A, as added [Pub. L. 107–110, title I][/us/pl/107/110/tI], § 101, Jan. 8, 2002, [115 Stat. 1521][/us/stat/115/1521].)
 
  __Prior Provisions__ 
 
-    A prior section 6334, [Pub. L. 89–10, title I, § 1124A][/us/pl/89/10/s1124A], as added [Pub. L. 103–382, title I, § 101][/us/pl/103/382/s101], Oct. 20, 1994, [108 Stat. 3569][/us/stat/108/3569], related to concentration grants to local educational agencies, prior to the general amendment of this subchapter by [Pub. L. 107–110][/us/pl/107/110].
+    A prior section 6334, [Pub. L. 89–10, title I][/us/pl/89/10/tI], § 1124A, as added [Pub. L. 103–382, title I][/us/pl/103/382/tI], § 101, Oct. 20, 1994, [108 Stat. 3569][/us/stat/108/3569], related to concentration grants to local educational agencies, prior to the general amendment of this subchapter by [Pub. L. 107–110][/us/pl/107/110].
 
 ----------
 
@@ -95,11 +95,11 @@
 [/us/usc/t20/s6333/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs6333%2Fc
 [/us/usc/t20/s6333/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs6333%2Fc
 [/us/usc/t20/s6333/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs6333%2Fc
-[/us/pl/89/10/s1124A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F10%2Fs1124A
-[/us/pl/107/110/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F110%2Fs101
+[/us/pl/89/10/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F10%2FtI
+[/us/pl/107/110/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F110%2FtI
 [/us/stat/115/1521]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F1521
-[/us/pl/89/10/s1124A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F10%2Fs1124A
-[/us/pl/103/382/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F382%2Fs101
+[/us/pl/89/10/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F10%2FtI
+[/us/pl/103/382/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F382%2FtI
 [/us/stat/108/3569]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3569
 [/us/pl/107/110]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F110
 

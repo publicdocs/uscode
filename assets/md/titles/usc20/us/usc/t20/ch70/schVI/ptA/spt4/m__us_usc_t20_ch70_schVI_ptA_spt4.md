@@ -11,13 +11,13 @@
 ----------
 ----------
 
-[Previous](./../../../../../../..//us/usc/t20/ch70/schVI/ptA/spt3/dB/m__us_usc_t20_s7321e.md) | [Next](./../../../../../../..//us/usc/t20/ch70/schVI/ptA/spt4/m__us_usc_t20_s7325.md) | [Root of Title](./../../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fch70%2FschVI%2FptA%2Fspt4)
+[Previous](./../../../../../../..//us/usc/t20/ch70/schVI/ptA/spt3/m__us_usc_t20_s7456.md) | [Next](./../../../../../../..//us/usc/t20/ch70/schVI/ptA/spt4/m__us_usc_t20_s7471.md) | [Root of Title](./../../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fch70%2FschVI%2FptA%2Fspt4)
 
-##### subpart 4—state accountability for adequate yearly progress
+##### subpart 4—federal administration
 
 ----------
 
-[Previous](./../../../../../../..//us/usc/t20/ch70/schVI/ptA/spt3/dB/m__us_usc_t20_s7321e.md) | [Next](./../../../../../../..//us/usc/t20/ch70/schVI/ptA/spt4/m__us_usc_t20_s7325.md) | [Root of Title](./../../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fch70%2FschVI%2FptA%2Fspt4)
+[Previous](./../../../../../../..//us/usc/t20/ch70/schVI/ptA/spt3/m__us_usc_t20_s7456.md) | [Next](./../../../../../../..//us/usc/t20/ch70/schVI/ptA/spt4/m__us_usc_t20_s7471.md) | [Root of Title](./../../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fch70%2FschVI%2FptA%2Fspt4)
 
 ----------
 ----------

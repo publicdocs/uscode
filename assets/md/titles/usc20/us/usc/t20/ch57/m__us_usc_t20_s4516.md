@@ -41,7 +41,7 @@
 
         The grants for each endowment shall be for $800,000 and shall be offered to Howard University School of Law in Washington, D.C., Drake University School of Law in Des Moines, Iowa, the University of Akron School of Law in Akron, Ohio, and the University of South Carolina School of Law at Columbia, South Carolina.
 
-([Pub. L. 99–500, § 101(b)][/us/pl/99/500/s101/b] \[title VIII, § 817\], Oct. 18, 1986, [100 Stat. 1783–39][/us/stat/100/1783-39], 1783–81, and [Pub. L. 99–591, § 101(b)][/us/pl/99/591/s101/b] \[title VIII, § 817\], Oct. 30, 1986, [100 Stat. 3341–39][/us/stat/100/3341-39], 3341–81; [Pub. L. 108–271, § 8(b)][/us/pl/108/271/s8/b], July 7, 2004, [118 Stat. 814][/us/stat/118/814].)
+([Pub. L. 99–500][/us/pl/99/500], § 101(b) \[title VIII, § 817\], Oct. 18, 1986, [100 Stat. 1783–39][/us/stat/100/1783-39], 1783–81, and [Pub. L. 99–591][/us/pl/99/591], § 101(b) \[title VIII, § 817\], Oct. 30, 1986, [100 Stat. 3341–39][/us/stat/100/3341-39], 3341–81; [Pub. L. 108–271][/us/pl/108/271], § 8(b), July 7, 2004, [118 Stat. 814][/us/stat/118/814].)
 
  __References in Text__ 
 
@@ -57,7 +57,7 @@
 
  __Temporary Authority To Receive, Review, and Certify for Payment Grant Applications__ 
 
-[Pub. L. 100–202, § 101(a)][/us/pl/100/202/s101/a] \[title V, § 501\], Dec. 22, 1987, [101 Stat. 1329][/us/stat/101/1329], 1329–29, provided in part: 
+[Pub. L. 100–202][/us/pl/100/202], § 101(a) \[title V, § 501\], Dec. 22, 1987, [101 Stat. 1329][/us/stat/101/1329], 1329–29, provided in part: 
 
 > “That until the Board of Trustees of the James Madison Memorial Fellowship Foundation is appointed, the Commission on the Bicentennial of the United States Constitution is authorized to receive, review and certify for payment the applications for grants of endowment funds for the establishment of Constitutional Law Resource Centers as provided and appropriated under the James Madison Memorial Fellowship Act, title VIII, sections 817 and 818, [Public Law 99–500][/us/pl/99/500] and [Public Law 99–591][/us/pl/99/591] \[[20 U.S.C. 4516][/us/usc/t20/s4516], 4517\]”.
 
@@ -68,18 +68,18 @@
 ----------
 ----------
 
-[/us/pl/99/500/s101/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F500%2Fs101%2Fb
+[/us/pl/99/500]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F500
 [/us/stat/100/1783-39]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1783-39
-[/us/pl/99/591/s101/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F591%2Fs101%2Fb
+[/us/pl/99/591]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F591
 [/us/stat/100/3341-39]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3341-39
-[/us/pl/108/271/s8/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F271%2Fs8%2Fb
+[/us/pl/108/271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F271
 [/us/stat/118/814]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F814
 [/us/pl/99/500/s101/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F500%2Fs101%2Fb
 [/us/pl/99/591]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F591
 [/us/pl/99/591]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F591
 [/us/pl/99/500]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F500
 [/us/pl/108/271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F271
-[/us/pl/100/202/s101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F202%2Fs101%2Fa
+[/us/pl/100/202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F202
 [/us/stat/101/1329]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1329
 [/us/pl/99/500]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F500
 [/us/pl/99/591]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F591

@@ -53,7 +53,7 @@
 
             (ii) provide in-service training for project directors, scientists, and engineers from eligible minority institutions.
 
-([Pub. L. 89–329, title III, § 365][/us/pl/89/329/s365], formerly title X, § 1046, as added [Pub. L. 99–498, title X, § 1002][/us/pl/99/498/s1002], Oct. 17, 1986, [100 Stat. 1566][/us/stat/100/1566]; renumbered title III, § 365, and amended [Pub. L. 105–244, title III][/us/pl/105/244], §§ 301(a)(5), (7), 307(c), Oct. 7, 1998, [112 Stat. 1636][/us/stat/112/1636], 1648; [Pub. L. 110–315, title III, § 320(3)][/us/pl/110/315/s320/3], Aug. 14, 2008, [122 Stat. 3187][/us/stat/122/3187].)
+([Pub. L. 89–329, title III][/us/pl/89/329/tIII], § 365, formerly title X, § 1046, as added [Pub. L. 99–498, title X][/us/pl/99/498/tX], § 1002, Oct. 17, 1986, [100 Stat. 1566][/us/stat/100/1566]; renumbered title III, § 365, and amended [Pub. L. 105–244, title III][/us/pl/105/244/tIII], §§ 301(a)(5), (7), 307(c), Oct. 7, 1998, [112 Stat. 1636][/us/stat/112/1636], 1648; [Pub. L. 110–315, title III][/us/pl/110/315/tIII], § 320(3), Aug. 14, 2008, [122 Stat. 3187][/us/stat/122/3187].)
 
  __Codification__ 
 
@@ -63,7 +63,7 @@
 
     2008—Par. (9)(A). [Pub. L. 110–315][/us/pl/110/315] substituted “supports” for “support” in introductory provisions.
 
-    1998—Par. (4). [Pub. L. 105–244, § 307(c)][/us/pl/105/244/s307/c], inserted “behavioral,” after “physical,”.
+    1998—Par. (4). [Pub. L. 105–244][/us/pl/105/244], § 307(c), inserted “behavioral,” after “physical,”.
 
  __Effective Date of 1998 Amendment__ 
 
@@ -76,17 +76,17 @@
 ----------
 ----------
 
-[/us/pl/89/329/s365]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2Fs365
-[/us/pl/99/498/s1002]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F498%2Fs1002
+[/us/pl/89/329/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2FtIII
+[/us/pl/99/498/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F498%2FtX
 [/us/stat/100/1566]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1566
-[/us/pl/105/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244
+[/us/pl/105/244/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2FtIII
 [/us/stat/112/1636]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F1636
-[/us/pl/110/315/s320/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2Fs320%2F3
+[/us/pl/110/315/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2FtIII
 [/us/stat/122/3187]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3187
 [/us/usc/t20/s1135d–5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1135d%E2%80%935
 [/us/pl/105/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244
 [/us/pl/110/315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315
-[/us/pl/105/244/s307/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2Fs307%2Fc
+[/us/pl/105/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244
 [/us/pl/105/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244
 [/us/pl/105/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244
 [/us/pl/105/244/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2Fs3

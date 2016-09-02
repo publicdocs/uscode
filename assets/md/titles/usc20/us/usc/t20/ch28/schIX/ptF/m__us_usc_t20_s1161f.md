@@ -23,9 +23,7 @@
 
             The term “grantee” means Teach For America, Inc.
 
-        (2) __Highly qualified__ 
-
-            The term “highly qualified” has the meaning given the term in [section 7801 of this title][/us/usc/t20/s7801] or [section 1401 of this title][/us/usc/t20/s1401].
+        (2) __Repealed.__  __[__  __Pub. L. 114–95, title IX__  __][/us/pl/114/95/tIX]__  __, § 9214(c)(12)(A),__  __Dec. 10, 2015__  __,__  __[__  __129 Stat. 2164__  __][/us/stat/129/2164]__ 
 
         (3) __High-need local educational agency__ 
 
@@ -39,7 +37,7 @@
 
     In carrying out the grant program under subsection (b), the Secretary shall enter into an agreement with the grantee under which the grantee agrees to use the grant funds provided under this section to—
 
-        (1) provide highly qualified teachers to high-need local educational agencies in urban and rural communities;
+        (1) provide teachers who meet the applicable State certification and licensure requirements, including any requirements for certification obtained through alternative routes to certification, or, with regard to special education teachers, the qualifications described in [section 1412(a)(14)(C) of this title][/us/usc/t20/s1412/a/14/C], to high-need local educational agencies in urban and rural communities;
 
         (2) pay the costs of recruiting, selecting, training, and supporting new teachers; and
 
@@ -129,7 +127,17 @@
 
             The grantee shall not use more than 5 percent of Federal funds made available under this section for non-programmatic costs to carry out this section.
 
-([Pub. L. 89–329, title VIII, § 806][/us/pl/89/329/s806], as added [Pub. L. 110–315, title VIII, § 801][/us/pl/110/315/s801], Aug. 14, 2008, [122 Stat. 3390][/us/stat/122/3390].)
+([Pub. L. 89–329, title VIII][/us/pl/89/329/tVIII], § 806, as added [Pub. L. 110–315, title VIII][/us/pl/110/315/tVIII], § 801, Aug. 14, 2008, [122 Stat. 3390][/us/stat/122/3390]; amended [Pub. L. 114–95, title IX][/us/pl/114/95/tIX], § 9214(c)(12), Dec. 10, 2015, [129 Stat. 2164][/us/stat/129/2164].)
+
+ __Amendments__ 
+
+    2015—Subsec. (a)(2). [Pub. L. 114–95][/us/pl/114/95], § 9214(c)(12)(A), struck out par. (2). Text read as follows: “The term ‘highly qualified’ has the meaning given the term in [section 7801 of this title][/us/usc/t20/s7801] or [section 1401 of this title][/us/usc/t20/s1401].”
+
+    Subsec. (c)(1). [Pub. L. 114–95][/us/pl/114/95], § 9214(c)(12)(B), substituted “teachers who meet the applicable State certification and licensure requirements, including any requirements for certification obtained through alternative routes to certification, or, with regard to special education teachers, the qualifications described in [section 1412(a)(14)(C) of this title][/us/usc/t20/s1412/a/14/C],” for “highly qualified teachers”.
+
+ __Effective Date of 2015 Amendment__ 
+
+    Amendment by [Pub. L. 114–95][/us/pl/114/95] effective Dec. 10, 2015, except with respect to certain noncompetitive programs and competitive programs, see [section 5 of Pub. L. 114–95][/us/pl/114/95/s5], set out as a note under [section 6301 of this title][/us/usc/t20/s6301].
 
 ----------
 
@@ -138,11 +146,22 @@
 ----------
 ----------
 
+[/us/pl/114/95/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F95%2FtIX
+[/us/stat/129/2164]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F2164
+[/us/usc/t20/s1021]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1021
+[/us/usc/t20/s1412/a/14/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1412%2Fa%2F14%2FC
+[/us/pl/89/329/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2FtVIII
+[/us/pl/110/315/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2FtVIII
+[/us/stat/122/3390]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3390
+[/us/pl/114/95/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F95%2FtIX
+[/us/stat/129/2164]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F2164
+[/us/pl/114/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F95
 [/us/usc/t20/s7801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs7801
 [/us/usc/t20/s1401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1401
-[/us/usc/t20/s1021]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1021
-[/us/pl/89/329/s806]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2Fs806
-[/us/pl/110/315/s801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2Fs801
-[/us/stat/122/3390]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3390
+[/us/pl/114/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F95
+[/us/usc/t20/s1412/a/14/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1412%2Fa%2F14%2FC
+[/us/pl/114/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F95
+[/us/pl/114/95/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F95%2Fs5
+[/us/usc/t20/s6301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs6301
 
 

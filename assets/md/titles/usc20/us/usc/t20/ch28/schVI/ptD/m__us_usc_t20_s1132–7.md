@@ -27,7 +27,7 @@
 
         The Secretary shall require an institution of higher education referred to in subsection (a) to report information listed in subsection (a) to the Secretary consistent with the requirements of [section 1011f of this title][/us/usc/t20/s1011f].
 
-([Pub. L. 89–329, title VI, § 638][/us/pl/89/329/s638], as added [Pub. L. 110–315, title VI, § 622][/us/pl/110/315/s622], Aug. 14, 2008, [122 Stat. 3345][/us/stat/122/3345].)
+([Pub. L. 89–329, title VI][/us/pl/89/329/tVI], § 638, as added [Pub. L. 110–315, title VI][/us/pl/110/315/tVI], § 622, Aug. 14, 2008, [122 Stat. 3345][/us/stat/122/3345].)
 
 ----------
 
@@ -37,8 +37,8 @@
 ----------
 
 [/us/usc/t20/s1011f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1011f
-[/us/pl/89/329/s638]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2Fs638
-[/us/pl/110/315/s622]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2Fs622
+[/us/pl/89/329/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2FtVI
+[/us/pl/110/315/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2FtVI
 [/us/stat/122/3345]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3345
 
 

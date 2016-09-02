@@ -17,7 +17,7 @@
 
     The failure of an educational agency to attain a balance, on the basis of race, color, sex, or national origin, of students among its schools shall not constitute a denial of equal educational opportunity, or equal protection of the laws.
 
-([Pub. L. 93–380, title II, § 205][/us/pl/93/380/s205], Aug. 21, 1974, [88 Stat. 515][/us/stat/88/515].)
+([Pub. L. 93–380, title II][/us/pl/93/380/tII], § 205, Aug. 21, 1974, [88 Stat. 515][/us/stat/88/515].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/93/380/s205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F380%2Fs205
+[/us/pl/93/380/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F380%2FtII
 [/us/stat/88/515]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F515
 
 

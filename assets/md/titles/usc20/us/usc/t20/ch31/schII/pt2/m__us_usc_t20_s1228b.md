@@ -17,7 +17,7 @@
 
     The National Assessment Governing Board, the Advisory Council on Education Statistics, the National Education Goals Panel, and any other board established to analyze, address, or approve education content or student performance standards and assessments shall coordinate and interact with one another in order to ensure that each such entity does not duplicate activities to assist the States in reforming their educational systems.
 
-([Pub. L. 90–247, title IV, § 428][/us/pl/90/247/s428], as added [Pub. L. 103–382, title II, § 237][/us/pl/103/382/s237], Oct. 20, 1994, [108 Stat. 3917][/us/stat/108/3917]; amended [Pub. L. 104–134, title I, § 101(d)][/us/pl/104/134/s101/d] \[title VII, § 703(c)\], Apr. 26, 1996, [110 Stat. 1321–211][/us/stat/110/1321-211], 1321–255; renumbered title I, [Pub. L. 104–140, § 1(a)][/us/pl/104/140/s1/a], May 2, 1996, [110 Stat. 1327][/us/stat/110/1327].)
+([Pub. L. 90–247, title IV][/us/pl/90/247/tIV], § 428, as added [Pub. L. 103–382, title II][/us/pl/103/382/tII], § 237, Oct. 20, 1994, [108 Stat. 3917][/us/stat/108/3917]; amended [Pub. L. 104–134, title I][/us/pl/104/134/tI], § 101(d) \[title VII, § 703(c)\], Apr. 26, 1996, [110 Stat. 1321–211][/us/stat/110/1321-211], 1321–255; renumbered title I, [Pub. L. 104–140][/us/pl/104/140], § 1(a), May 2, 1996, [110 Stat. 1327][/us/stat/110/1327].)
 
  __Prior Provisions__ 
 
@@ -34,12 +34,12 @@
 ----------
 ----------
 
-[/us/pl/90/247/s428]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F247%2Fs428
-[/us/pl/103/382/s237]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F382%2Fs237
+[/us/pl/90/247/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F247%2FtIV
+[/us/pl/103/382/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F382%2FtII
 [/us/stat/108/3917]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3917
-[/us/pl/104/134/s101/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F134%2Fs101%2Fd
+[/us/pl/104/134/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F134%2FtI
 [/us/stat/110/1321-211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1321-211
-[/us/pl/104/140/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F140%2Fs1%2Fa
+[/us/pl/104/140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F140
 [/us/stat/110/1327]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1327
 [/us/pl/90/247/s428]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F247%2Fs428
 [/us/usc/t20/s1231e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1231e

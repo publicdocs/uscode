@@ -47,7 +47,7 @@
 
         (3) The Chairman is also authorized to provide a cash award of up to $2,500 to the local education agency employing any teacher selected to receive an award pursuant to this section, which shall be used to fund environmental educational activities and programs. Such awards may not be used for construction costs, general expenses, salaries, bonuses, or other administrative expenses.
 
-([Pub. L. 101–619, § 8][/us/pl/101/619/s8], Nov. 16, 1990, [104 Stat. 3332][/us/stat/104/3332].)
+([Pub. L. 101–619][/us/pl/101/619], § 8, Nov. 16, 1990, [104 Stat. 3332][/us/stat/104/3332].)
 
 ----------
 
@@ -57,7 +57,7 @@
 ----------
 
 [/us/usc/t20/s5508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs5508
-[/us/pl/101/619/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F619%2Fs8
+[/us/pl/101/619]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F619
 [/us/stat/104/3332]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3332
 
 

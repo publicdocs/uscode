@@ -13,9 +13,9 @@
 
 [Previous](./../../../../../..//us/usc/t20/ch78/schI/ptC/m__us_usc_t20_ch78_schI_ptC.md) | [Next](./../../../../../..//us/usc/t20/ch78/schII/m__us_usc_t20_ch78_schII.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs9841)
 
-## § 9841. Repealed. [Pub. L. 111–358, title X, § 1002(a)(2)][/us/pl/111/358/s1002/a/2], Jan. 4, 2011, [124 Stat. 4048][/us/stat/124/4048]
+## § 9841. Repealed. [Pub. L. 111–358, title X][/us/pl/111/358/tX], § 1002(a)(2), Jan. 4, 2011, [124 Stat. 4048][/us/stat/124/4048]
 
-    Section, [Pub. L. 110–69, title VI, § 6131][/us/pl/110/69/s6131], Aug. 9, 2007, [121 Stat. 640][/us/stat/121/640], related to promising practices in K–12 STEM teaching and learning.
+    Section, [Pub. L. 110–69, title VI][/us/pl/110/69/tVI], § 6131, Aug. 9, 2007, [121 Stat. 640][/us/stat/121/640], related to promising practices in K–12 STEM teaching and learning.
 
 ----------
 
@@ -24,9 +24,9 @@
 ----------
 ----------
 
-[/us/pl/111/358/s1002/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F358%2Fs1002%2Fa%2F2
+[/us/pl/111/358/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F358%2FtX
 [/us/stat/124/4048]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F4048
-[/us/pl/110/69/s6131]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F69%2Fs6131
+[/us/pl/110/69/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F69%2FtVI
 [/us/stat/121/640]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F640
 
 

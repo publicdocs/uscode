@@ -93,19 +93,19 @@
 
         The Foundation shall determine the priority of the programs to be carried out under this chapter and the amount of funds to be allocated for such programs. However, not less than 50 percent shall be utilized for the programs set forth in [section 5604(a)(2) of this title][/us/usc/t20/s5604/a/2], [section 5604(a)(3) of this title][/us/usc/t20/s5604/a/3], and [section 5604(a)(4) of this title][/us/usc/t20/s5604/a/4], not more than 15 percent shall be used for salaries and other administrative purposes, and not less than 20 percent shall be appropriated to the Center for [section 5604(a)(5) of this title][/us/usc/t20/s5604/a/5], [section 5604(a)(6) of this title][/us/usc/t20/s5604/a/6], and [section 5604(a)(7) of this title][/us/usc/t20/s5604/a/7] conditioned on a 25-percent match from other sources and further conditioned on adequate space at the Center being made available for the Executive Director and other appropriate staff of the Foundation by the Center.
 
-([Pub. L. 102–259, § 7][/us/pl/102/259/s7], Mar. 19, 1992, [106 Stat. 81][/us/stat/106/81]; [Pub. L. 105–156][/us/pl/105/156], §§ 5, 9(b), Feb. 11, 1998, [112 Stat. 9][/us/stat/112/9], 12; [Pub. L. 111–90, § 6][/us/pl/111/90/s6], Nov. 3, 2009, [123 Stat. 2977][/us/stat/123/2977].)
+([Pub. L. 102–259][/us/pl/102/259], § 7, Mar. 19, 1992, [106 Stat. 81][/us/stat/106/81]; [Pub. L. 105–156][/us/pl/105/156], §§ 5, 9(b), Feb. 11, 1998, [112 Stat. 9][/us/stat/112/9], 12; [Pub. L. 111–90][/us/pl/111/90], § 6, Nov. 3, 2009, [123 Stat. 2977][/us/stat/123/2977].)
 
  __Amendments__ 
 
-    2009—Subsec. (a)(5)(E). [Pub. L. 111–90, § 6(1)][/us/pl/111/90/s6/1], added subpar. (E).
+    2009—Subsec. (a)(5)(E). [Pub. L. 111–90][/us/pl/111/90], § 6(1), added subpar. (E).
 
-    Subsec. (b). [Pub. L. 111–90, § 6(2)][/us/pl/111/90/s6/2], added subsec. (b) and struck out former subsec. (b). Prior to amendment, text read as follows: “Recipients of scholarships, fellowships, internships, and grants under this chapter shall be known as ‘Morris K. Udall Scholars’.”
+    Subsec. (b). [Pub. L. 111–90][/us/pl/111/90], § 6(2), added subsec. (b) and struck out former subsec. (b). Prior to amendment, text read as follows: “Recipients of scholarships, fellowships, internships, and grants under this chapter shall be known as ‘Morris K. Udall Scholars’.”
 
-    1998—Subsec. (a)(1)(D). [Pub. L. 105–156, § 5(1)][/us/pl/105/156/s5/1], added subpar. (D).
+    1998—Subsec. (a)(1)(D). [Pub. L. 105–156][/us/pl/105/156], § 5(1), added subpar. (D).
 
-    Subsec. (a)(6). [Pub. L. 105–156, § 9(b)][/us/pl/105/156/s9/b], substituted “Trust Fund” for “Fund”.
+    Subsec. (a)(6). [Pub. L. 105–156][/us/pl/105/156], § 9(b), substituted “Trust Fund” for “Fund”.
 
-    Subsec. (a)(7). [Pub. L. 105–156, § 5(2)][/us/pl/105/156/s5/2], inserted “and Training” after “Conflict Resolution”.
+    Subsec. (a)(7). [Pub. L. 105–156][/us/pl/105/156], § 5(2), inserted “and Training” after “Conflict Resolution”.
 
 ----------
 
@@ -124,16 +124,16 @@
 [/us/usc/t20/s5604/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs5604%2Fa%2F5
 [/us/usc/t20/s5604/a/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs5604%2Fa%2F6
 [/us/usc/t20/s5604/a/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs5604%2Fa%2F7
-[/us/pl/102/259/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F259%2Fs7
+[/us/pl/102/259]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F259
 [/us/stat/106/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F81
 [/us/pl/105/156]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F156
 [/us/stat/112/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F9
-[/us/pl/111/90/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F90%2Fs6
+[/us/pl/111/90]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F90
 [/us/stat/123/2977]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F2977
-[/us/pl/111/90/s6/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F90%2Fs6%2F1
-[/us/pl/111/90/s6/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F90%2Fs6%2F2
-[/us/pl/105/156/s5/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F156%2Fs5%2F1
-[/us/pl/105/156/s9/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F156%2Fs9%2Fb
-[/us/pl/105/156/s5/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F156%2Fs5%2F2
+[/us/pl/111/90]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F90
+[/us/pl/111/90]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F90
+[/us/pl/105/156]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F156
+[/us/pl/105/156]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F156
+[/us/pl/105/156]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F156
 
 

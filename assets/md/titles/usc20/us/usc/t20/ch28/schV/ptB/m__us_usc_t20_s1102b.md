@@ -39,11 +39,11 @@
 
         (B) are approved by the Secretary as part of the review and acceptance of such application.
 
-([Pub. L. 89–329, title V, § 513][/us/pl/89/329/s513], as added [Pub. L. 110–315, title V, § 502(a)(3)][/us/pl/110/315/s502/a/3], Aug. 14, 2008, [122 Stat. 3332][/us/stat/122/3332].)
+([Pub. L. 89–329, title V][/us/pl/89/329/tV], § 513, as added [Pub. L. 110–315, title V][/us/pl/110/315/tV], § 502(a)(3), Aug. 14, 2008, [122 Stat. 3332][/us/stat/122/3332].)
 
  __Prior Provisions__ 
 
-    A prior section 1102b, [Pub. L. 89–329, title V, § 503][/us/pl/89/329/s503], as added [Pub. L. 102–325, title V, § 501(a)][/us/pl/102/325/s501/a], July 23, 1992, [106 Stat. 658][/us/stat/106/658], related to local applications and use of funds, prior to the general amendment of this subchapter by [Pub. L. 105–244][/us/pl/105/244].
+    A prior section 1102b, [Pub. L. 89–329, title V][/us/pl/89/329/tV], § 503, as added [Pub. L. 102–325, title V][/us/pl/102/325/tV], § 501(a), July 23, 1992, [106 Stat. 658][/us/stat/106/658], related to local applications and use of funds, prior to the general amendment of this subchapter by [Pub. L. 105–244][/us/pl/105/244].
 
     A prior [section 513 of Pub. L. 89–329][/us/pl/89/329/s513] was renumbered section 523, and is classified to [section 1103b of this title][/us/usc/t20/s1103b].
 
@@ -61,11 +61,11 @@
 ----------
 
 [/us/usc/t20/s1102c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1102c
-[/us/pl/89/329/s513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2Fs513
-[/us/pl/110/315/s502/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2Fs502%2Fa%2F3
+[/us/pl/89/329/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2FtV
+[/us/pl/110/315/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2FtV
 [/us/stat/122/3332]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3332
-[/us/pl/89/329/s503]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2Fs503
-[/us/pl/102/325/s501/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325%2Fs501%2Fa
+[/us/pl/89/329/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2FtV
+[/us/pl/102/325/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325%2FtV
 [/us/stat/106/658]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F658
 [/us/pl/105/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244
 [/us/pl/89/329/s513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2Fs513

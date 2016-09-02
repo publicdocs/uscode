@@ -41,13 +41,13 @@
 
         (3) the reasons for the decision of the Secretary in awarding or refusing to award a grant under this subchapter, and any modifications, if any, in the recommendations of the panel made by the Secretary.
 
-([Pub. L. 89–329, title V, § 523][/us/pl/89/329/s523], formerly § 513, as added [Pub. L. 105–244, title V, § 501][/us/pl/105/244/s501], Oct. 7, 1998, [112 Stat. 1772][/us/stat/112/1772]; renumbered § 523, [Pub. L. 110–315, title V, § 502(a)(2)][/us/pl/110/315/s502/a/2], Aug. 14, 2008, [122 Stat. 3331][/us/stat/122/3331].)
+([Pub. L. 89–329, title V][/us/pl/89/329/tV], § 523, formerly § 513, as added [Pub. L. 105–244, title V][/us/pl/105/244/tV], § 501, Oct. 7, 1998, [112 Stat. 1772][/us/stat/112/1772]; renumbered § 523, [Pub. L. 110–315, title V][/us/pl/110/315/tV], § 502(a)(2), Aug. 14, 2008, [122 Stat. 3331][/us/stat/122/3331].)
 
  __Prior Provisions__ 
 
-    A prior section 1103b, [Pub. L. 89–329, title V, § 513][/us/pl/89/329/s513], as added [Pub. L. 102–325, title V, § 501(a)][/us/pl/102/325/s501/a], July 23, 1992, [106 Stat. 674][/us/stat/106/674], related to use of funds, prior to the general amendment of this subchapter by [Pub. L. 105–244][/us/pl/105/244].
+    A prior section 1103b, [Pub. L. 89–329, title V][/us/pl/89/329/tV], § 513, as added [Pub. L. 102–325, title V][/us/pl/102/325/tV], § 501(a), July 23, 1992, [106 Stat. 674][/us/stat/106/674], related to use of funds, prior to the general amendment of this subchapter by [Pub. L. 105–244][/us/pl/105/244].
 
-    Another prior section 1103b, [Pub. L. 89–329, title V, § 513][/us/pl/89/329/s513], as added [Pub. L. 99–498, title V, § 501(a)][/us/pl/99/498/s501/a], Oct. 17, 1986, [100 Stat. 1497][/us/stat/100/1497], related to review of applications for grants, prior to the general amendment of this subchapter by [Pub. L. 102–325][/us/pl/102/325].
+    Another prior section 1103b, [Pub. L. 89–329, title V][/us/pl/89/329/tV], § 513, as added [Pub. L. 99–498, title V][/us/pl/99/498/tV], § 501(a), Oct. 17, 1986, [100 Stat. 1497][/us/stat/100/1497], related to review of applications for grants, prior to the general amendment of this subchapter by [Pub. L. 102–325][/us/pl/102/325].
 
     A prior [section 523 of Pub. L. 89–329][/us/pl/89/329/s523] was classified to [section 1104b of this title][/us/usc/t20/s1104b], prior to the general amendment of this subchapter by [Pub. L. 105–244][/us/pl/105/244].
 
@@ -62,17 +62,17 @@
 ----------
 ----------
 
-[/us/pl/89/329/s523]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2Fs523
-[/us/pl/105/244/s501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2Fs501
+[/us/pl/89/329/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2FtV
+[/us/pl/105/244/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2FtV
 [/us/stat/112/1772]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F1772
-[/us/pl/110/315/s502/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2Fs502%2Fa%2F2
+[/us/pl/110/315/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2FtV
 [/us/stat/122/3331]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3331
-[/us/pl/89/329/s513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2Fs513
-[/us/pl/102/325/s501/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325%2Fs501%2Fa
+[/us/pl/89/329/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2FtV
+[/us/pl/102/325/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325%2FtV
 [/us/stat/106/674]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F674
 [/us/pl/105/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244
-[/us/pl/89/329/s513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2Fs513
-[/us/pl/99/498/s501/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F498%2Fs501%2Fa
+[/us/pl/89/329/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2FtV
+[/us/pl/99/498/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F498%2FtV
 [/us/stat/100/1497]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1497
 [/us/pl/102/325]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325
 [/us/pl/89/329/s523]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2Fs523

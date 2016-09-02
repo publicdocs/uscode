@@ -51,7 +51,7 @@
 
         (9) control the expenditure and investment of any moneys or funds or property which Gallaudet University may have or may receive from sources other than appropriations by Congress.
 
-([Pub. L. 99–371, title I, § 103][/us/pl/99/371/s103], Aug. 4, 1986, [100 Stat. 782][/us/stat/100/782]; [Pub. L. 102–421, title I][/us/pl/102/421], §§ 101(c), 111, Oct. 16, 1992, [106 Stat. 2152][/us/stat/106/2152]; [Pub. L. 103–73, title II, § 203(c)][/us/pl/103/73/s203/c], Aug. 11, 1993, [107 Stat. 733][/us/stat/107/733].)
+([Pub. L. 99–371, title I][/us/pl/99/371/tI], § 103, Aug. 4, 1986, [100 Stat. 782][/us/stat/100/782]; [Pub. L. 102–421, title I][/us/pl/102/421/tI], §§ 101(c), 111, Oct. 16, 1992, [106 Stat. 2152][/us/stat/106/2152]; [Pub. L. 103–73, title II][/us/pl/103/73/tII], § 203(c), Aug. 11, 1993, [107 Stat. 733][/us/stat/107/733].)
 
  __Prior Provisions__ 
 
@@ -59,21 +59,21 @@
 
  __Amendments__ 
 
-    1993—Subsec. (a). [Pub. L. 103–73, § 203(c)(1)][/us/pl/103/73/s203/c/1], in par. (1) substituted “members who shall include—” for “members selected as follows:” in introductory provisions and inserted comma after “Association” in subpar. (B), redesignated second sentence of par. (1) as par. (2), and redesignated former par. (2) as (3).
+    1993—Subsec. (a). [Pub. L. 103–73][/us/pl/103/73], § 203(c)(1), in par. (1) substituted “members who shall include—” for “members selected as follows:” in introductory provisions and inserted comma after “Association” in subpar. (B), redesignated second sentence of par. (1) as par. (2), and redesignated former par. (2) as (3).
 
-    Subsec. (b). [Pub. L. 103–73, § 203(c)(2)][/us/pl/103/73/s203/c/2], inserted comma after “facilities)” in par. (1), substituted “or hard of hearing;” for “or individuals who are hard of hearing.” in par. (4), and struck out “the provisions of” before “section 4353” in par. (8).
+    Subsec. (b). [Pub. L. 103–73][/us/pl/103/73], § 203(c)(2), inserted comma after “facilities)” in par. (1), substituted “or hard of hearing;” for “or individuals who are hard of hearing.” in par. (4), and struck out “the provisions of” before “section 4353” in par. (8).
 
-    1992—Subsec. (a)(1)(B). [Pub. L. 102–421, § 111(1)][/us/pl/102/421/s111/1], struck out “, who on August 4, 1986, shall include those individuals serving as nonpublic members of the Board of Trustees of Gallaudet College immediately prior to August 4, 1986,” after “elected by the Board of Trustees”.
+    1992—Subsec. (a)(1)(B). [Pub. L. 102–421][/us/pl/102/421], § 111(1), struck out “, who on August 4, 1986, shall include those individuals serving as nonpublic members of the Board of Trustees of Gallaudet College immediately prior to August 4, 1986,” after “elected by the Board of Trustees”.
 
-    Subsec. (b)(1). [Pub. L. 102–421, § 111(2)(A)][/us/pl/102/421/s111/2/A], inserted “(including the construction of buildings and other facilities)” after “corporation”.
+    Subsec. (b)(1). [Pub. L. 102–421][/us/pl/102/421], § 111(2)(A), inserted “(including the construction of buildings and other facilities)” after “corporation”.
 
-    Subsec. (b)(4), (6). [Pub. L. 102–421, § 111(2)(B)][/us/pl/102/421/s111/2/B], (C), amended pars. (4) and (6) generally. Prior to amendment, pars. (4) and (6) read as follows:
+    Subsec. (b)(4), (6). [Pub. L. 102–421][/us/pl/102/421], § 111(2)(B), (C), amended pars. (4) and (6) generally. Prior to amendment, pars. (4) and (6) read as follows:
 
     “(4) appoint a president, professors, instructors, and other necessary employees for Gallaudet University, delegate to them such duties as it may deem advisable, fix their compensation, and remove them when, in their judgment, the interest of Gallaudet University shall require it;
 
     “(6) establish such departments and other units, including a department of higher learning for the deaf, a department of elementary education for the instruction of deaf children, a graduate department, and a research department, as the Board deems necessary to carry out the purpose of Gallaudet University;”.
 
-    Subsec. (b)(8). [Pub. L. 102–421, § 101(c)][/us/pl/102/421/s101/c], made technical amendment to reference to [section 4353 of this title][/us/usc/t20/s4353] to reflect change in reference to corresponding section of original act.
+    Subsec. (b)(8). [Pub. L. 102–421][/us/pl/102/421], § 101(c), made technical amendment to reference to [section 4353 of this title][/us/usc/t20/s4353] to reflect change in reference to corresponding section of original act.
 
  __Effective Date of 1992 Amendment__ 
 
@@ -87,19 +87,19 @@
 ----------
 
 [/us/usc/t20/s4353]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs4353
-[/us/pl/99/371/s103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F371%2Fs103
+[/us/pl/99/371/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F371%2FtI
 [/us/stat/100/782]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F782
-[/us/pl/102/421]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F421
+[/us/pl/102/421/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F421%2FtI
 [/us/stat/106/2152]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2152
-[/us/pl/103/73/s203/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F73%2Fs203%2Fc
+[/us/pl/103/73/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F73%2FtII
 [/us/stat/107/733]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F733
 [/us/pl/99/371]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F371
-[/us/pl/103/73/s203/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F73%2Fs203%2Fc%2F1
-[/us/pl/103/73/s203/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F73%2Fs203%2Fc%2F2
-[/us/pl/102/421/s111/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F421%2Fs111%2F1
-[/us/pl/102/421/s111/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F421%2Fs111%2F2%2FA
-[/us/pl/102/421/s111/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F421%2Fs111%2F2%2FB
-[/us/pl/102/421/s101/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F421%2Fs101%2Fc
+[/us/pl/103/73]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F73
+[/us/pl/103/73]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F73
+[/us/pl/102/421]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F421
+[/us/pl/102/421]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F421
+[/us/pl/102/421]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F421
+[/us/pl/102/421]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F421
 [/us/usc/t20/s4353]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs4353
 [/us/pl/102/421]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F421
 [/us/pl/102/421/s161]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F421%2Fs161

@@ -99,21 +99,29 @@
 
                 In awarding grants under this section, the Secretary shall, to the extent possible and consistent with the competitive process under which such grants are awarded, ensure maximum and equitable distribution among all eligible institutions.
 
-([Pub. L. 89–329, title III, § 317][/us/pl/89/329/s317], as added [Pub. L. 105–244, title III, § 303(f)][/us/pl/105/244/s303/f], Oct. 7, 1998, [112 Stat. 1641][/us/stat/112/1641]; amended [Pub. L. 106–211, § 1(a)][/us/pl/106/211/s1/a], (b)(2), May 26, 2000, [114 Stat. 330][/us/stat/114/330]; [Pub. L. 107–110, title VII, § 702(a)][/us/pl/107/110/s702/a], Jan. 8, 2002, [115 Stat. 1946][/us/stat/115/1946]; [Pub. L. 110–315, title III, § 304][/us/pl/110/315/s304], Aug. 14, 2008, [122 Stat. 3169][/us/stat/122/3169].)
+([Pub. L. 89–329, title III][/us/pl/89/329/tIII], § 317, as added [Pub. L. 105–244, title III][/us/pl/105/244/tIII], § 303(f), Oct. 7, 1998, [112 Stat. 1641][/us/stat/112/1641]; amended [Pub. L. 106–211][/us/pl/106/211], § 1(a), (b)(2), May 26, 2000, [114 Stat. 330][/us/stat/114/330]; [Pub. L. 107–110, title VII][/us/pl/107/110/tVII], § 702(a), Jan. 8, 2002, [115 Stat. 1946][/us/stat/115/1946]; [Pub. L. 110–315, title III][/us/pl/110/315/tIII], § 304, Aug. 14, 2008, [122 Stat. 3169][/us/stat/122/3169]; [Pub. L. 114–95, title IX][/us/pl/114/95/tIX], § 9215(oo)(6), Dec. 10, 2015, [129 Stat. 2179][/us/stat/129/2179].)
 
  __Amendments__ 
 
+    2015—Subsec. (b)(1). [Pub. L. 114–95][/us/pl/114/95], § 9215(oo)(6)(A), made technical amendment to reference in original act which appears in text as reference to [section 7546 of this title][/us/usc/t20/s7546].
+
+    Subsec. (b)(3). [Pub. L. 114–95][/us/pl/114/95], § 9215(oo)(6)(B), made technical amendment to reference in original act which appears in text as reference to [section 7517 of this title][/us/usc/t20/s7517].
+
     2008—Subsec. (c)(2)(I). [Pub. L. 110–315][/us/pl/110/315] added subpar. (I).
 
-    2002—Subsec. (b)(1). [Pub. L. 107–110, § 702(a)(1)][/us/pl/107/110/s702/a/1], substituted “section 7546” for “section 7938”.
+    2002—Subsec. (b)(1). [Pub. L. 107–110][/us/pl/107/110], § 702(a)(1), substituted “section 7546” for “section 7938”.
 
-    Subsec. (b)(3). [Pub. L. 107–110, § 702(a)(2)][/us/pl/107/110/s702/a/2], substituted “section 7517” for “section 7912”.
+    Subsec. (b)(3). [Pub. L. 107–110][/us/pl/107/110], § 702(a)(2), substituted “section 7517” for “section 7912”.
 
-    2000—Subsec. (d)(2). [Pub. L. 106–211, § 1(a)][/us/pl/106/211/s1/a], inserted after first sentence “The Secretary shall, to the extent possible, prescribe a simplified and streamlined format for such applications that takes into account the limited number of institutions that are eligible for assistance under this section.”
+    2000—Subsec. (d)(2). [Pub. L. 106–211][/us/pl/106/211], § 1(a), inserted after first sentence “The Secretary shall, to the extent possible, prescribe a simplified and streamlined format for such applications that takes into account the limited number of institutions that are eligible for assistance under this section.”
 
-    Subsec. (d)(3). [Pub. L. 106–211, § 1(b)(2)][/us/pl/106/211/s1/b/2], added par. (3).
+    Subsec. (d)(3). [Pub. L. 106–211][/us/pl/106/211], § 1(b)(2), added par. (3).
 
-    Subsec. (e). [Pub. L. 106–211, § 1(b)(2)][/us/pl/106/211/s1/b/2], struck out heading and text of subsec. (e). Text read as follows: “For the purposes of this section, no Alaska Native-serving institution or Native Hawaiian-serving institution which is eligible for and receives funds under this section may concurrently receive other funds under this part or part B of this subchapter.”
+    Subsec. (e). [Pub. L. 106–211][/us/pl/106/211], § 1(b)(2), struck out heading and text of subsec. (e). Text read as follows: “For the purposes of this section, no Alaska Native-serving institution or Native Hawaiian-serving institution which is eligible for and receives funds under this section may concurrently receive other funds under this part or part B of this subchapter.”
+
+ __Effective Date of 2015 Amendment__ 
+
+    Amendment by [Pub. L. 114–95][/us/pl/114/95] effective Dec. 10, 2015, except with respect to certain noncompetitive programs and competitive programs, see [section 5 of Pub. L. 114–95][/us/pl/114/95/s5], set out as a note under [section 6301 of this title][/us/usc/t20/s6301].
 
  __Effective Date of 2002 Amendment__ 
 
@@ -135,21 +143,30 @@
 [/us/usc/t20/s7517]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs7517
 [/us/usc/t20/s1058/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1058%2Fb
 [/us/usc/t20/s1059/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1059%2Fd
-[/us/pl/89/329/s317]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2Fs317
-[/us/pl/105/244/s303/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2Fs303%2Ff
+[/us/pl/89/329/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2FtIII
+[/us/pl/105/244/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2FtIII
 [/us/stat/112/1641]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F1641
-[/us/pl/106/211/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F211%2Fs1%2Fa
+[/us/pl/106/211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F211
 [/us/stat/114/330]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F330
-[/us/pl/107/110/s702/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F110%2Fs702%2Fa
+[/us/pl/107/110/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F110%2FtVII
 [/us/stat/115/1946]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F1946
-[/us/pl/110/315/s304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2Fs304
+[/us/pl/110/315/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2FtIII
 [/us/stat/122/3169]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3169
+[/us/pl/114/95/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F95%2FtIX
+[/us/stat/129/2179]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F2179
+[/us/pl/114/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F95
+[/us/usc/t20/s7546]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs7546
+[/us/pl/114/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F95
+[/us/usc/t20/s7517]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs7517
 [/us/pl/110/315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315
-[/us/pl/107/110/s702/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F110%2Fs702%2Fa%2F1
-[/us/pl/107/110/s702/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F110%2Fs702%2Fa%2F2
-[/us/pl/106/211/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F211%2Fs1%2Fa
-[/us/pl/106/211/s1/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F211%2Fs1%2Fb%2F2
-[/us/pl/106/211/s1/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F211%2Fs1%2Fb%2F2
+[/us/pl/107/110]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F110
+[/us/pl/107/110]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F110
+[/us/pl/106/211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F211
+[/us/pl/106/211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F211
+[/us/pl/106/211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F211
+[/us/pl/114/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F95
+[/us/pl/114/95/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F95%2Fs5
+[/us/usc/t20/s6301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs6301
 [/us/pl/107/110]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F110
 [/us/pl/107/110/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F110%2Fs5
 [/us/usc/t20/s6301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs6301

@@ -23,11 +23,11 @@
 
         Each student awarded a scholarship under this subpart must demonstrate outstanding academic achievement and show promise of continued academic achievement.
 
-([Pub. L. 89–329, title IV, § 419F][/us/pl/89/329/s419F], as added [Pub. L. 99–498, title IV, § 401(a)][/us/pl/99/498/s401/a], Oct. 17, 1986, [100 Stat. 1344][/us/stat/100/1344]; amended [Pub. L. 110–315, title IV, § 409(a)][/us/pl/110/315/s409/a], Aug. 14, 2008, [122 Stat. 3225][/us/stat/122/3225].)
+([Pub. L. 89–329, title IV][/us/pl/89/329/tIV], § 419F, as added [Pub. L. 99–498, title IV][/us/pl/99/498/tIV], § 401(a), Oct. 17, 1986, [100 Stat. 1344][/us/stat/100/1344]; amended [Pub. L. 110–315, title IV][/us/pl/110/315/tIV], § 409(a), Aug. 14, 2008, [122 Stat. 3225][/us/stat/122/3225].)
 
  __Prior Provisions__ 
 
-    A prior section 1070d–36, [Pub. L. 89–329, title IV, § 419F][/us/pl/89/329/s419F], as added [Pub. L. 98–558, title VIII, § 801(a)][/us/pl/98/558/s801/a], Oct. 30, 1984, [98 Stat. 2901][/us/stat/98/2901], related to eligibility of students for scholarships under Robert C. Byrd Honors Scholarship Program, prior to the general revision of this part by [Pub. L. 99–498][/us/pl/99/498].
+    A prior section 1070d–36, [Pub. L. 89–329, title IV][/us/pl/89/329/tIV], § 419F, as added [Pub. L. 98–558, title VIII][/us/pl/98/558/tVIII], § 801(a), Oct. 30, 1984, [98 Stat. 2901][/us/stat/98/2901], related to eligibility of students for scholarships under Robert C. Byrd Honors Scholarship Program, prior to the general revision of this part by [Pub. L. 99–498][/us/pl/99/498].
 
  __Amendments__ 
 
@@ -40,13 +40,13 @@
 ----------
 ----------
 
-[/us/pl/89/329/s419F]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2Fs419F
-[/us/pl/99/498/s401/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F498%2Fs401%2Fa
+[/us/pl/89/329/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2FtIV
+[/us/pl/99/498/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F498%2FtIV
 [/us/stat/100/1344]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1344
-[/us/pl/110/315/s409/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2Fs409%2Fa
+[/us/pl/110/315/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2FtIV
 [/us/stat/122/3225]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3225
-[/us/pl/89/329/s419F]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2Fs419F
-[/us/pl/98/558/s801/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F558%2Fs801%2Fa
+[/us/pl/89/329/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2FtIV
+[/us/pl/98/558/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F558%2FtVIII
 [/us/stat/98/2901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2901
 [/us/pl/99/498]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F498
 [/us/pl/110/315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315

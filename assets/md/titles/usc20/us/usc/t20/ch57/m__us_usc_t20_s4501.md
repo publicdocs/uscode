@@ -17,7 +17,7 @@
 
     It is the purpose of this chapter to establish the James Madison Fellowship Program which is designed to encourage graduate study of the American Constitution, its roots, its formation, its principles, and its development.
 
-([Pub. L. 99–500, § 101(b)][/us/pl/99/500/s101/b] \[title VIII, § 802\], Oct. 18, 1986, [100 Stat. 1783–39][/us/stat/100/1783-39], 1783–76, and [Pub. L. 99–591, § 101(b)][/us/pl/99/591/s101/b] \[title VIII, § 802\], Oct. 30, 1986, [100 Stat. 3341–39][/us/stat/100/3341-39], 3341–76.)
+([Pub. L. 99–500][/us/pl/99/500], § 101(b) \[title VIII, § 802\], Oct. 18, 1986, [100 Stat. 1783–39][/us/stat/100/1783-39], 1783–76, and [Pub. L. 99–591][/us/pl/99/591], § 101(b) \[title VIII, § 802\], Oct. 30, 1986, [100 Stat. 3341–39][/us/stat/100/3341-39], 3341–76.)
 
  __Codification__ 
 
@@ -25,7 +25,7 @@
 
  __Short Title__ 
 
-[Pub. L. 99–500, § 101(b)][/us/pl/99/500/s101/b] \[title VIII, § 801\], Oct. 18, 1986, [100 Stat. 1783–39][/us/stat/100/1783-39], 1783–76, and [Pub. L. 99–591, § 101(b)][/us/pl/99/591/s101/b] \[title VIII, § 801\], Oct. 30, 1986, [100 Stat. 3341–39][/us/stat/100/3341-39], 3341–76, provided that: 
+[Pub. L. 99–500][/us/pl/99/500], § 101(b) \[title VIII, § 801\], Oct. 18, 1986, [100 Stat. 1783–39][/us/stat/100/1783-39], 1783–76, and [Pub. L. 99–591][/us/pl/99/591], § 101(b) \[title VIII, § 801\], Oct. 30, 1986, [100 Stat. 3341–39][/us/stat/100/3341-39], 3341–76, provided that: 
 
 > “This title \[enacting this chapter\] may be cited as the ‘James Madison Memorial Fellowship Act’.”
 
@@ -36,15 +36,15 @@
 ----------
 ----------
 
-[/us/pl/99/500/s101/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F500%2Fs101%2Fb
+[/us/pl/99/500]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F500
 [/us/stat/100/1783-39]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1783-39
-[/us/pl/99/591/s101/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F591%2Fs101%2Fb
+[/us/pl/99/591]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F591
 [/us/stat/100/3341-39]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3341-39
 [/us/pl/99/591]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F591
 [/us/pl/99/500]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F500
-[/us/pl/99/500/s101/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F500%2Fs101%2Fb
+[/us/pl/99/500]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F500
 [/us/stat/100/1783-39]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1783-39
-[/us/pl/99/591/s101/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F591%2Fs101%2Fb
+[/us/pl/99/591]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F591
 [/us/stat/100/3341-39]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3341-39
 
 

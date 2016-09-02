@@ -35,7 +35,7 @@
 
         Nothing in this section shall be construed to alter in any way the rights or responsibilities established under the laws cited in [section 1221(d) of this title][/us/usc/t20/s1221/d].
 
-([Pub. L. 90–247, title IV, § 427][/us/pl/90/247/s427], as added [Pub. L. 103–382, title II, § 236][/us/pl/103/382/s236], Oct. 20, 1994, [108 Stat. 3917][/us/stat/108/3917].)
+([Pub. L. 90–247, title IV][/us/pl/90/247/tIV], § 427, as added [Pub. L. 103–382, title II][/us/pl/103/382/tII], § 236, Oct. 20, 1994, [108 Stat. 3917][/us/stat/108/3917].)
 
  __Prior Provisions__ 
 
@@ -55,8 +55,8 @@
 ----------
 
 [/us/usc/t20/s1221/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1221%2Fd
-[/us/pl/90/247/s427]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F247%2Fs427
-[/us/pl/103/382/s236]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F382%2Fs236
+[/us/pl/90/247/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F247%2FtIV
+[/us/pl/103/382/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F382%2FtII
 [/us/stat/108/3917]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3917
 [/us/pl/90/247/s427]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F247%2Fs427
 [/us/usc/t20/s1231d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1231d

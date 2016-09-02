@@ -17,7 +17,7 @@
 
     Nothing in this part is intended to preempt any provision of law of a State or political subdivision of a State that is more restrictive than a provision of this part.
 
-([Pub. L. 103–227, title X, § 1044][/us/pl/103/227/s1044], Mar. 31, 1994, [108 Stat. 274][/us/stat/108/274].)
+([Pub. L. 103–227, title X][/us/pl/103/227/tX], § 1044, Mar. 31, 1994, [108 Stat. 274][/us/stat/108/274].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/103/227/s1044]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F227%2Fs1044
+[/us/pl/103/227/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F227%2FtX
 [/us/stat/108/274]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F274
 
 

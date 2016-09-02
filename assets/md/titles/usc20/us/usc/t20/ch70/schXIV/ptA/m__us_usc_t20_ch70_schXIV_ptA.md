@@ -11,46 +11,16 @@
 ----------
 ----------
 
-[Previous](./../../../../../..//us/usc/t20/ch70/schXIV/m__us_usc_t20_ch70_schXIV.md) | [Next](./../../../../../..//us/usc/t20/ch70/schXIV/ptB/m__us_usc_t20_ch70_schXIV_ptB.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fch70%2FschXIV%2FptA)
+[Previous](./../../../../../..//us/usc/t20/ch70/schXIV/m__us_usc_t20_ch70_schXIV.md) | [Next](./../../../../../..//us/usc/t20/ch70/schXIV/ptA/m__us_usc_t20_s8801...8803.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fch70%2FschXIV%2FptA)
 
 #### Part A—Definitions
 
-§§ 8801 to 8803. __Repealed.__  __[__  __Pub. L. 107–110, title X, § 1011(5)(C)__  __][/us/pl/107/110/s1011/5/C]__  __,__  __Jan. 8, 2002__  __,__  __[__  __115 Stat. 1986__  __][/us/stat/115/1986]__ 
-
-    Section 8801, [Pub. L. 89–10, title XIV, § 14101][/us/pl/89/10/s14101], as added [Pub. L. 103–382, title I, § 101][/us/pl/103/382/s101], Oct. 20, 1994, [108 Stat. 3887][/us/stat/108/3887]; amended [Pub. L. 105–244, title I, § 102(a)(6)(K)][/us/pl/105/244/s102/a/6/K], Oct. 7, 1998, [112 Stat. 1619][/us/stat/112/1619]; [Pub. L. 105–277, div. A, § 101(f)][/us/pl/105/277/s101/f] \[title VIII, § 101(b)(5)\], Oct. 21, 1998, [112 Stat. 2681–337][/us/stat/112/2681-337], 2681–407; [Pub. L. 105–278, § 3(j)][/us/pl/105/278/s3/j], Oct. 22, 1998, [112 Stat. 2688][/us/stat/112/2688]; [Pub. L. 106–554, § 1(a)(4)][/us/pl/106/554/s1/a/4] \[div. B, title XVI, § 1606(a)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–334, defined terms. See [section 7801 of this title][/us/usc/t20/s7801].
-
-    Section 8802, [Pub. L. 89–10, title XIV, § 14102][/us/pl/89/10/s14102], as added [Pub. L. 103–382, title I, § 101][/us/pl/103/382/s101], Oct. 20, 1994, [108 Stat. 3890][/us/stat/108/3890], related to applicability of subchapter. See [section 7802 of this title][/us/usc/t20/s7802].
-
-    Section 8803, [Pub. L. 89–10, title XIV, § 14103][/us/pl/89/10/s14103], as added [Pub. L. 103–382, title I, § 101][/us/pl/103/382/s101], Oct. 20, 1994, [108 Stat. 3890][/us/stat/108/3890], related to applicability of chapter to Bureau of Indian Affairs operated schools. See [section 7803 of this title][/us/usc/t20/s7803].
-
 ----------
 
-[Previous](./../../../../../..//us/usc/t20/ch70/schXIV/m__us_usc_t20_ch70_schXIV.md) | [Next](./../../../../../..//us/usc/t20/ch70/schXIV/ptB/m__us_usc_t20_ch70_schXIV_ptB.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fch70%2FschXIV%2FptA)
+[Previous](./../../../../../..//us/usc/t20/ch70/schXIV/m__us_usc_t20_ch70_schXIV.md) | [Next](./../../../../../..//us/usc/t20/ch70/schXIV/ptA/m__us_usc_t20_s8801...8803.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fch70%2FschXIV%2FptA)
 
 ----------
 ----------
 
-[/us/pl/107/110/s1011/5/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F110%2Fs1011%2F5%2FC
-[/us/stat/115/1986]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F1986
-[/us/pl/89/10/s14101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F10%2Fs14101
-[/us/pl/103/382/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F382%2Fs101
-[/us/stat/108/3887]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3887
-[/us/pl/105/244/s102/a/6/K]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2Fs102%2Fa%2F6%2FK
-[/us/stat/112/1619]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F1619
-[/us/pl/105/277/s101/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs101%2Ff
-[/us/stat/112/2681-337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681-337
-[/us/pl/105/278/s3/j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F278%2Fs3%2Fj
-[/us/stat/112/2688]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2688
-[/us/pl/106/554/s1/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F4
-[/us/stat/114/2763]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2763
-[/us/usc/t20/s7801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs7801
-[/us/pl/89/10/s14102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F10%2Fs14102
-[/us/pl/103/382/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F382%2Fs101
-[/us/stat/108/3890]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3890
-[/us/usc/t20/s7802]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs7802
-[/us/pl/89/10/s14103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F10%2Fs14103
-[/us/pl/103/382/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F382%2Fs101
-[/us/stat/108/3890]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3890
-[/us/usc/t20/s7803]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs7803
 
 

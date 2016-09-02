@@ -13,13 +13,13 @@
 
 [Previous](./../../../..//us/usc/t20/ch6A/m__us_usc_t20_s107e.md) | [Next](./../../../..//us/usc/t20/ch6A/m__us_usc_t20_s107f.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs107e%E2%80%931)
 
-## § 107e–1. Repealed. [Pub. L. 93–516, title II, § 205][/us/pl/93/516/s205], Dec. 7, 1974, [88 Stat. 1626][/us/stat/88/1626]
+## § 107e–1. Repealed. [Pub. L. 93–516, title II][/us/pl/93/516/tII], § 205, Dec. 7, 1974, [88 Stat. 1626][/us/stat/88/1626]
 
-    Section, [act June 20, 1936, ch. 638, § 7][/us/act/1936-06-20/ch638/s7], as added [Aug. 3, 1954, ch. 655, § 4(g)][/us/act/1954-08-03/ch655/s4/g], [68 Stat. 664][/us/stat/68/664], related to designation and status of states acting as licensing agents before July 1, 1954.
+    Section, [act June 20, 1936, ch. 638][/us/act/1936-06-20/ch638], § 7, as added [Aug. 3, 1954, ch. 655][/us/act/1954-08-03/ch655], § 4(g), [68 Stat. 664][/us/stat/68/664], related to designation and status of states acting as licensing agents before July 1, 1954.
 
     The content of [Pub. L. 93–516][/us/pl/93/516], including provisions of section 205 thereof which repealed this section, were originally contained in H.R. 14225, 93rd Congress, Second Session, which was pocket-vetoed during the 31-day intrasession adjournment of the 93rd Congress for the Congressional elections in November, 1974.
 
-    Pursuant to an order of the United States District Court for the District of Columbia (Kennedy v. Jones, D.C.D.C. 1976, 412 F.Supp. 353) H.R. 14225 was deemed to have become law without the approval of the President on Nov. 21, 1974, and was given the designation [Pub. L. 93–651][/us/pl/93/651]. Therefore, for purposes of codification, this section should be deemed to have been repealed by [Pub. L. 93–651, title II, § 205][/us/pl/93/651/s205], Nov. 21, 1974, [89 Stat. 2–11][/us/stat/89/2-11], in exactly the same manner as it was repealed by [Pub. L. 93–516][/us/pl/93/516].
+    Pursuant to an order of the United States District Court for the District of Columbia (Kennedy v. Jones, D.C.D.C. 1976, 412 F.Supp. 353) H.R. 14225 was deemed to have become law without the approval of the President on Nov. 21, 1974, and was given the designation [Pub. L. 93–651][/us/pl/93/651]. Therefore, for purposes of codification, this section should be deemed to have been repealed by [Pub. L. 93–651, title II][/us/pl/93/651/tII], § 205, Nov. 21, 1974, [89 Stat. 2–11][/us/stat/89/2-11], in exactly the same manner as it was repealed by [Pub. L. 93–516][/us/pl/93/516].
 
 ----------
 
@@ -28,14 +28,14 @@
 ----------
 ----------
 
-[/us/pl/93/516/s205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F516%2Fs205
+[/us/pl/93/516/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F516%2FtII
 [/us/stat/88/1626]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1626
-[/us/act/1936-06-20/ch638/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1936-06-20%2Fch638%2Fs7
-[/us/act/1954-08-03/ch655/s4/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-03%2Fch655%2Fs4%2Fg
+[/us/act/1936-06-20/ch638]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1936-06-20%2Fch638
+[/us/act/1954-08-03/ch655]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-03%2Fch655
 [/us/stat/68/664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68%2F664
 [/us/pl/93/516]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F516
 [/us/pl/93/651]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F651
-[/us/pl/93/651/s205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F651%2Fs205
+[/us/pl/93/651/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F651%2FtII
 [/us/stat/89/2-11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F2-11
 [/us/pl/93/516]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F516
 

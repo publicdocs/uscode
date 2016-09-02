@@ -41,7 +41,7 @@
 
         (3) fix the pay of the employees under subsection (b) of this section in accordance with the provisions of chapter 51 and subchapter III of chapter 53 of such title, relating to classification and General Schedule pay rates, subject to subsection (b)(2) of this section.
 
-([Pub. L. 101–185, § 6][/us/pl/101/185/s6], Nov. 28, 1989, [103 Stat. 1339][/us/stat/103/1339].)
+([Pub. L. 101–185][/us/pl/101/185], § 6, Nov. 28, 1989, [103 Stat. 1339][/us/stat/103/1339].)
 
 ----------
 
@@ -50,7 +50,7 @@
 ----------
 ----------
 
-[/us/pl/101/185/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F185%2Fs6
+[/us/pl/101/185]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F185
 [/us/stat/103/1339]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1339
 
 

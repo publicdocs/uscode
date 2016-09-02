@@ -75,7 +75,7 @@
 
             (C) where appropriate, the percentage of students who, within 5 years of graduation from the part B institution, were admitted to and in attendance at a graduate or professional school in a degree program in disciplines in which Blacks are underrepresented in the academic year preceding such fiscal year.
 
-([Pub. L. 89–329, title III, § 324][/us/pl/89/329/s324], as added [Pub. L. 99–498, title III, § 301(a)][/us/pl/99/498/s301/a], Oct. 17, 1986, [100 Stat. 1296][/us/stat/100/1296]; amended [Pub. L. 99–509, title VII, § 7007][/us/pl/99/509/s7007], Oct. 21, 1986, [100 Stat. 1950][/us/stat/100/1950]; [Pub. L. 102–325, title III, § 303(c)][/us/pl/102/325/s303/c], (d), July 23, 1992, [106 Stat. 475][/us/stat/106/475]; [Pub. L. 105–33, title XI, § 11717(b)][/us/pl/105/33/s11717/b], Aug. 5, 1997, [111 Stat. 786][/us/stat/111/786]; [Pub. L. 110–315, title III, § 310][/us/pl/110/315/s310], Aug. 14, 2008, [122 Stat. 3177][/us/stat/122/3177]; [Pub. L. 111–39, title III, § 301(4)][/us/pl/111/39/s301/4], July 1, 2009, [123 Stat. 1937][/us/stat/123/1937].)
+([Pub. L. 89–329, title III][/us/pl/89/329/tIII], § 324, as added [Pub. L. 99–498, title III][/us/pl/99/498/tIII], § 301(a), Oct. 17, 1986, [100 Stat. 1296][/us/stat/100/1296]; amended [Pub. L. 99–509, title VII][/us/pl/99/509/tVII], § 7007, Oct. 21, 1986, [100 Stat. 1950][/us/stat/100/1950]; [Pub. L. 102–325, title III][/us/pl/102/325/tIII], § 303(c), (d), July 23, 1992, [106 Stat. 475][/us/stat/106/475]; [Pub. L. 105–33, title XI][/us/pl/105/33/tXI], § 11717(b), Aug. 5, 1997, [111 Stat. 786][/us/stat/111/786]; [Pub. L. 110–315, title III][/us/pl/110/315/tIII], § 310, Aug. 14, 2008, [122 Stat. 3177][/us/stat/122/3177]; [Pub. L. 111–39, title III][/us/pl/111/39/tIII], § 301(4), July 1, 2009, [123 Stat. 1937][/us/stat/123/1937].)
 
  __References in Text__ 
 
@@ -85,35 +85,35 @@
 
  __Prior Provisions__ 
 
-    A prior section 1063, [Pub. L. 89–329, title III, § 324][/us/pl/89/329/s324], as added [Pub. L. 96–374, title III, § 301][/us/pl/96/374/s301], Oct. 3, 1980, [94 Stat. 1395][/us/stat/94/1395], related to Federal share of grants to institutions with special needs, prior to the general revision of this subchapter by [Pub. L. 99–498][/us/pl/99/498].
+    A prior section 1063, [Pub. L. 89–329, title III][/us/pl/89/329/tIII], § 324, as added [Pub. L. 96–374, title III][/us/pl/96/374/tIII], § 301, Oct. 3, 1980, [94 Stat. 1395][/us/stat/94/1395], related to Federal share of grants to institutions with special needs, prior to the general revision of this subchapter by [Pub. L. 99–498][/us/pl/99/498].
 
-    Another prior section 1063, [Pub. L. 89–329, title IV, § 403][/us/pl/89/329/s403], Nov. 8, 1965, [79 Stat. 1233][/us/stat/79/1233], related to duration of grant and eligibility for payments, prior to the general revision of part A of subchapter IV of this chapter by [Pub. L. 92–318, title I, § 131(b)(1)][/us/pl/92/318/s131/b/1], June 23, 1972, [86 Stat. 247][/us/stat/86/247].
+    Another prior section 1063, [Pub. L. 89–329, title IV][/us/pl/89/329/tIV], § 403, Nov. 8, 1965, [79 Stat. 1233][/us/stat/79/1233], related to duration of grant and eligibility for payments, prior to the general revision of part A of subchapter IV of this chapter by [Pub. L. 92–318, title I][/us/pl/92/318/tI], § 131(b)(1), June 23, 1972, [86 Stat. 247][/us/stat/86/247].
 
  __Amendments__ 
 
     2009—Subsec. (d). [Pub. L. 111–39][/us/pl/111/39] designated existing provisions as par. (1), redesignated former pars. (1) and (2) as subpars. (A) and (B), respectively, of par. (1), and added par. (2).
 
-    2008—Subsec. (d). [Pub. L. 110–315, § 310(a)][/us/pl/110/315/s310/a], amended subsec. (d) generally. Prior to amendment, text read as follows:
+    2008—Subsec. (d). [Pub. L. 110–315][/us/pl/110/315], § 310(a), amended subsec. (d) generally. Prior to amendment, text read as follows:
 
     “(1) Notwithstanding subsections (a), (b), and (c) of this section, the amount allotted to each part B institution under this section shall not be less than $500,000.
 
     “(2) If the amount appropriated pursuant to [section 1069f(a)(2)(A) of this title][/us/usc/t20/s1069f/a/2/A] for any fiscal year is not sufficient to pay the minimum allotment required by paragraph (1) of this subsection to all part B institutions, the amount of such minimum allotments shall be ratably reduced. If additional sums become available for such fiscal year, such reduced allocation shall be increased on the same basis as they were reduced (until the amount allotted equals the minimum allotment required by paragraph (1)).”
 
-    Subsec. (h). [Pub. L. 110–315, § 310(b)][/us/pl/110/315/s310/b], added subsec. (h).
+    Subsec. (h). [Pub. L. 110–315][/us/pl/110/315], § 310(b), added subsec. (h).
 
     1997—Subsec. (g). [Pub. L. 105–33][/us/pl/105/33] substituted “District of Columbia Home Rule Act” for “District of Columbia Self-Government and Governmental Reorganization Act”.
 
-    1992—Subsec. (c). [Pub. L. 102–325, § 303(c)][/us/pl/102/325/s303/c], inserted “, within 5 years of graduation with a baccalaureate degree,” after “in attendance at”.
+    1992—Subsec. (c). [Pub. L. 102–325][/us/pl/102/325], § 303(c), inserted “, within 5 years of graduation with a baccalaureate degree,” after “in attendance at”.
 
-    Subsec. (d)(1). [Pub. L. 102–325, § 303(d)][/us/pl/102/325/s303/d], substituted “$500,000” for “$350,000”.
+    Subsec. (d)(1). [Pub. L. 102–325][/us/pl/102/325], § 303(d), substituted “$500,000” for “$350,000”.
 
-    1986—Subsec. (c). [Pub. L. 99–509, § 7007(4)][/us/pl/99/509/s7007/4], amended subsec. generally, substituting “percentage of graduates per institution” for “number of graduates” and “percentage of such graduates per institution” for “number of such graduates”.
+    1986—Subsec. (c). [Pub. L. 99–509][/us/pl/99/509], § 7007(4), amended subsec. generally, substituting “percentage of graduates per institution” for “number of graduates” and “percentage of such graduates per institution” for “number of such graduates”.
 
-    Subsec. (d). [Pub. L. 99–509, § 7007(1)][/us/pl/99/509/s7007/1], (2), added subsec. (d). Former subsec. (d) redesignated (e).
+    Subsec. (d). [Pub. L. 99–509][/us/pl/99/509], § 7007(1), (2), added subsec. (d). Former subsec. (d) redesignated (e).
 
-    Subsec. (e). [Pub. L. 99–509, § 7007(1)][/us/pl/99/509/s7007/1], (3), redesignated former subsec. (d) as (e), and substituted “subsection (a), (b), (c), or (d) of this section” for “subsection (a), (b), or (c) of this section”. Former subsec. (e) redesignated (f).
+    Subsec. (e). [Pub. L. 99–509][/us/pl/99/509], § 7007(1), (3), redesignated former subsec. (d) as (e), and substituted “subsection (a), (b), (c), or (d) of this section” for “subsection (a), (b), or (c) of this section”. Former subsec. (e) redesignated (f).
 
-    Subsecs. (f), (g). [Pub. L. 99–509, § 7007(1)][/us/pl/99/509/s7007/1], redesignated subsecs. (e) and (f) as (f) and (g), respectively.
+    Subsecs. (f), (g). [Pub. L. 99–509][/us/pl/99/509], § 7007(1), redesignated subsecs. (e) and (f) as (f) and (g), respectively.
 
  __Effective Date of 2009 Amendment__ 
 
@@ -138,43 +138,43 @@
 [/us/stat/14/438]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F14%2F438
 [/us/usc/t20/s123]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs123
 [/us/stat/87/774]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F774
-[/us/pl/89/329/s324]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2Fs324
-[/us/pl/99/498/s301/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F498%2Fs301%2Fa
+[/us/pl/89/329/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2FtIII
+[/us/pl/99/498/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F498%2FtIII
 [/us/stat/100/1296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1296
-[/us/pl/99/509/s7007]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F509%2Fs7007
+[/us/pl/99/509/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F509%2FtVII
 [/us/stat/100/1950]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1950
-[/us/pl/102/325/s303/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325%2Fs303%2Fc
+[/us/pl/102/325/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325%2FtIII
 [/us/stat/106/475]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F475
-[/us/pl/105/33/s11717/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2Fs11717%2Fb
+[/us/pl/105/33/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2FtXI
 [/us/stat/111/786]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F786
-[/us/pl/110/315/s310]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2Fs310
+[/us/pl/110/315/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2FtIII
 [/us/stat/122/3177]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3177
-[/us/pl/111/39/s301/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F39%2Fs301%2F4
+[/us/pl/111/39/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F39%2FtIII
 [/us/stat/123/1937]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1937
 [/us/act/1867-03-02/ch162]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1867-03-02%2Fch162
 [/us/stat/14/438]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F14%2F438
 [/us/usc/t20/s123]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs123
 [/us/pl/93/198]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F198
 [/us/stat/87/774]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F774
-[/us/pl/89/329/s324]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2Fs324
-[/us/pl/96/374/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F374%2Fs301
+[/us/pl/89/329/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2FtIII
+[/us/pl/96/374/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F374%2FtIII
 [/us/stat/94/1395]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F1395
 [/us/pl/99/498]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F498
-[/us/pl/89/329/s403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2Fs403
+[/us/pl/89/329/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2FtIV
 [/us/stat/79/1233]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F1233
-[/us/pl/92/318/s131/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F318%2Fs131%2Fb%2F1
+[/us/pl/92/318/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F318%2FtI
 [/us/stat/86/247]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F247
 [/us/pl/111/39]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F39
-[/us/pl/110/315/s310/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2Fs310%2Fa
+[/us/pl/110/315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315
 [/us/usc/t20/s1069f/a/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1069f%2Fa%2F2%2FA
-[/us/pl/110/315/s310/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2Fs310%2Fb
+[/us/pl/110/315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315
 [/us/pl/105/33]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33
-[/us/pl/102/325/s303/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325%2Fs303%2Fc
-[/us/pl/102/325/s303/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325%2Fs303%2Fd
-[/us/pl/99/509/s7007/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F509%2Fs7007%2F4
-[/us/pl/99/509/s7007/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F509%2Fs7007%2F1
-[/us/pl/99/509/s7007/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F509%2Fs7007%2F1
-[/us/pl/99/509/s7007/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F509%2Fs7007%2F1
+[/us/pl/102/325]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325
+[/us/pl/102/325]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325
+[/us/pl/99/509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F509
+[/us/pl/99/509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F509
+[/us/pl/99/509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F509
+[/us/pl/99/509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F509
 [/us/pl/111/39]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F39
 [/us/pl/110/315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315
 [/us/pl/111/39/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F39%2Fs3

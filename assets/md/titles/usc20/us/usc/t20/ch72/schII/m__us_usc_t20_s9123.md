@@ -33,15 +33,15 @@
 
             In order to effect a transition to the timing of appropriation action authorized by subsection (a) of this section, the application of this section may result in the enactment, in a fiscal year, of separate appropriations for a program under this subchapter (whether in the same appropriations Act or otherwise) for two consecutive fiscal years.
 
-([Pub. L. 94–462, title II, § 214][/us/pl/94/462/s214], as added [Pub. L. 104–208, div. A, title I, § 101(e)][/us/pl/104/208/s101/e] \[title VII, § 702\], Sept. 30, 1996, [110 Stat. 3009–233][/us/stat/110/3009-233], 3009–296; amended [Pub. L. 108–81, title II, § 203][/us/pl/108/81/s203], Sept. 25, 2003, [117 Stat. 997][/us/stat/117/997]; [Pub. L. 111–340, title II, § 202][/us/pl/111/340/s202], Dec. 22, 2010, [124 Stat. 3599][/us/stat/124/3599].)
+([Pub. L. 94–462, title II][/us/pl/94/462/tII], § 214, as added [Pub. L. 104–208, div. A, title I][/us/pl/104/208/dA/tI], § 101(e) \[title VII, § 702\], Sept. 30, 1996, [110 Stat. 3009–233][/us/stat/110/3009-233], 3009–296; amended [Pub. L. 108–81, title II][/us/pl/108/81/tII], § 203, Sept. 25, 2003, [117 Stat. 997][/us/stat/117/997]; [Pub. L. 111–340, title II][/us/pl/111/340/tII], § 202, Dec. 22, 2010, [124 Stat. 3599][/us/stat/124/3599].)
 
  __Amendments__ 
 
-    2010—Subsec. (a). [Pub. L. 111–340, § 202(a)][/us/pl/111/340/s202/a], added subsec. (a) and struck out heading and text of former subsec. (a). Prior to amendment, text read as follows: “There are authorized to be appropriated to carry out this subchapter $232,000,000 for fiscal year 2004 and such sums as may be necessary for fiscal years 2005 through 2009.”
+    2010—Subsec. (a). [Pub. L. 111–340][/us/pl/111/340], § 202(a), added subsec. (a) and struck out heading and text of former subsec. (a). Prior to amendment, text read as follows: “There are authorized to be appropriated to carry out this subchapter $232,000,000 for fiscal year 2004 and such sums as may be necessary for fiscal years 2005 through 2009.”
 
-    Subsec. (c). [Pub. L. 111–340, § 202(b)][/us/pl/111/340/s202/b], struck out heading and text of subsec. (c). Text read as follows: “Not more than 3.5 percent of the funds appropriated under this section for a fiscal year may be used to pay for the Federal administrative costs of carrying out this subchapter.”
+    Subsec. (c). [Pub. L. 111–340][/us/pl/111/340], § 202(b), struck out heading and text of subsec. (c). Text read as follows: “Not more than 3.5 percent of the funds appropriated under this section for a fiscal year may be used to pay for the Federal administrative costs of carrying out this subchapter.”
 
-    2003—Subsec. (a). [Pub. L. 108–81, § 203(1)][/us/pl/108/81/s203/1], added subsec. (a) and struck out heading and text of former subsec. (a). Text read as follows:
+    2003—Subsec. (a). [Pub. L. 108–81][/us/pl/108/81], § 203(1), added subsec. (a) and struck out heading and text of former subsec. (a). Text read as follows:
 
     “(1) In general.—There are authorized to be appropriated $150,000,000 for fiscal year 1997 and such sums as may be necessary for each of the fiscal years 1998 through 2002 to carry out this subchapter.
 
@@ -51,7 +51,7 @@
 
     “(B) not exercise any authority concerning the administration of this chapter other than the transfer described in subparagraph (A).”
 
-    Subsec. (c). [Pub. L. 108–81, § 203(2)][/us/pl/108/81/s203/2], substituted “3.5 percent” for “3 percent”.
+    Subsec. (c). [Pub. L. 108–81][/us/pl/108/81], § 203(2), substituted “3.5 percent” for “3 percent”.
 
  __Effective Date of 2003 Amendment__ 
 
@@ -64,17 +64,17 @@
 ----------
 ----------
 
-[/us/pl/94/462/s214]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F462%2Fs214
-[/us/pl/104/208/s101/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs101%2Fe
+[/us/pl/94/462/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F462%2FtII
+[/us/pl/104/208/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2FdA%2FtI
 [/us/stat/110/3009-233]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3009-233
-[/us/pl/108/81/s203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F81%2Fs203
+[/us/pl/108/81/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F81%2FtII
 [/us/stat/117/997]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F997
-[/us/pl/111/340/s202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F340%2Fs202
+[/us/pl/111/340/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F340%2FtII
 [/us/stat/124/3599]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3599
-[/us/pl/111/340/s202/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F340%2Fs202%2Fa
-[/us/pl/111/340/s202/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F340%2Fs202%2Fb
-[/us/pl/108/81/s203/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F81%2Fs203%2F1
-[/us/pl/108/81/s203/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F81%2Fs203%2F2
+[/us/pl/111/340]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F340
+[/us/pl/111/340]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F340
+[/us/pl/108/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F81
+[/us/pl/108/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F81
 [/us/pl/108/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F81
 [/us/pl/108/81/s506]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F81%2Fs506
 [/us/usc/t20/s9101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs9101

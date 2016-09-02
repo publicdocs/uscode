@@ -79,7 +79,7 @@
 
         During the period in which grants may be made under this section, not more than 20 percent of the funds appropriated to carry out this section may be made available by the Secretary to the Task Force to conduct education and technical assistance programs related to the detection of asbestos hazards in school buildings and the implementation of appropriate actions to mitigate such hazards.
 
-([Pub. L. 96–270, § 5][/us/pl/96/270/s5], June 14, 1980, [94 Stat. 491][/us/stat/94/491].)
+([Pub. L. 96–270][/us/pl/96/270], § 5, June 14, 1980, [94 Stat. 491][/us/stat/94/491].)
 
 ----------
 
@@ -92,7 +92,7 @@
 [/us/usc/t20/s3606/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs3606%2Fa%2F1
 [/us/usc/t20/s3606/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs3606%2Fa%2F1
 [/us/usc/t20/s3606/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs3606%2Fa%2F1
-[/us/pl/96/270/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F270%2Fs5
+[/us/pl/96/270]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F270
 [/us/stat/94/491]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F491
 
 

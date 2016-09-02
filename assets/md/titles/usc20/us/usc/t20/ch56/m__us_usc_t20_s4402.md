@@ -33,7 +33,7 @@
 
     (8) The term “Board” means the Board of Trustees of the Institute established under this chapter.
 
-([Pub. L. 99–498, title XV, § 1503][/us/pl/99/498/s1503], Oct. 17, 1986, [100 Stat. 1600][/us/stat/100/1600].)
+([Pub. L. 99–498, title XV][/us/pl/99/498/tXV], § 1503, Oct. 17, 1986, [100 Stat. 1600][/us/stat/100/1600].)
 
  __References in Text__ 
 
@@ -47,7 +47,7 @@
 ----------
 
 [/us/usc/t43/s1601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs1601
-[/us/pl/99/498/s1503]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F498%2Fs1503
+[/us/pl/99/498/tXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F498%2FtXV
 [/us/stat/100/1600]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1600
 [/us/pl/92/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F203
 [/us/stat/85/688]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F85%2F688

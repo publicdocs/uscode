@@ -17,7 +17,7 @@
 
     The rules of evidence required to prove that State or local authorities are practicing racial discrimination in assigning students to public schools shall be uniform throughout the United States.
 
-([Pub. L. 93–380, title II, § 254][/us/pl/93/380/s254], Aug. 21, 1974, [88 Stat. 520][/us/stat/88/520].)
+([Pub. L. 93–380, title II][/us/pl/93/380/tII], § 254, Aug. 21, 1974, [88 Stat. 520][/us/stat/88/520].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/93/380/s254]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F380%2Fs254
+[/us/pl/93/380/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F380%2FtII
 [/us/stat/88/520]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F520
 
 

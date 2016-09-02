@@ -17,7 +17,7 @@
 
     In order to carry out the purpose of this chapter, the Secretary is authorized to provide technical assistance to State and local governmental or public bodies and to undertake such studies and publish and distribute such information, either directly or by contract, as he shall determine to be desirable. Nothing contained in this chapter shall limit any authority of the Secretary under any other provision of law.
 
-([Pub. L. 88–560, title VIII, § 806][/us/pl/88/560/s806], formerly § 805, Sept. 2, 1964, [78 Stat. 803][/us/stat/78/803]; [Pub. L. 90–19, § 21(e)][/us/pl/90/19/s21/e], May 25, 1967, [81 Stat. 26][/us/stat/81/26]; [Pub. L. 90–448, title XVII, § 1707(b)][/us/pl/90/448/s1707/b], Aug. 1, 1968, [82 Stat. 606][/us/stat/82/606]; [Pub. L. 91–152, title III, § 307][/us/pl/91/152/s307], Dec. 24, 1969, [83 Stat. 394][/us/stat/83/394]; renumbered § 806, [Pub. L. 93–383, title IV, § 402(c)(1)][/us/pl/93/383/s402/c/1], Aug. 22, 1974, [88 Stat. 692][/us/stat/88/692].)
+([Pub. L. 88–560, title VIII][/us/pl/88/560/tVIII], § 806, formerly § 805, Sept. 2, 1964, [78 Stat. 803][/us/stat/78/803]; [Pub. L. 90–19][/us/pl/90/19], § 21(e), May 25, 1967, [81 Stat. 26][/us/stat/81/26]; [Pub. L. 90–448, title XVII][/us/pl/90/448/tXVII], § 1707(b), Aug. 1, 1968, [82 Stat. 606][/us/stat/82/606]; [Pub. L. 91–152, title III][/us/pl/91/152/tIII], § 307, Dec. 24, 1969, [83 Stat. 394][/us/stat/83/394]; renumbered § 806, [Pub. L. 93–383, title IV][/us/pl/93/383/tIV], § 402(c)(1), Aug. 22, 1974, [88 Stat. 692][/us/stat/88/692].)
 
  __Amendments__ 
 
@@ -34,15 +34,15 @@
 ----------
 ----------
 
-[/us/pl/88/560/s806]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F560%2Fs806
+[/us/pl/88/560/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F560%2FtVIII
 [/us/stat/78/803]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F803
-[/us/pl/90/19/s21/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F19%2Fs21%2Fe
+[/us/pl/90/19]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F19
 [/us/stat/81/26]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F26
-[/us/pl/90/448/s1707/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F448%2Fs1707%2Fb
+[/us/pl/90/448/tXVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F448%2FtXVII
 [/us/stat/82/606]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F606
-[/us/pl/91/152/s307]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F152%2Fs307
+[/us/pl/91/152/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F152%2FtIII
 [/us/stat/83/394]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F83%2F394
-[/us/pl/93/383/s402/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F383%2Fs402%2Fc%2F1
+[/us/pl/93/383/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F383%2FtIV
 [/us/stat/88/692]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F692
 [/us/pl/91/152]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F152
 [/us/usc/t20/s807]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs807

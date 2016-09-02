@@ -17,7 +17,7 @@
 
     The John F. Kennedy Center for the Performing Arts, designated by this subchapter, shall be the sole national memorial to the late John Fitzgerald Kennedy within the city of Washington and its environs.
 
-([Pub. L. 85–874, § 11][/us/pl/85/874/s11], as added [Pub. L. 88–260, § 1(6)][/us/pl/88/260/s1/6], Jan. 23, 1964, [78 Stat. 5][/us/stat/78/5].)
+([Pub. L. 85–874][/us/pl/85/874], § 11, as added [Pub. L. 88–260][/us/pl/88/260], § 1(6), Jan. 23, 1964, [78 Stat. 5][/us/stat/78/5].)
 
 ----------
 
@@ -26,8 +26,8 @@
 ----------
 ----------
 
-[/us/pl/85/874/s11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F874%2Fs11
-[/us/pl/88/260/s1/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F260%2Fs1%2F6
+[/us/pl/85/874]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F874
+[/us/pl/88/260]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F260
 [/us/stat/78/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F5
 
 

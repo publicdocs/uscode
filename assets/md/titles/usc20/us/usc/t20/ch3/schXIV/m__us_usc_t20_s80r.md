@@ -41,11 +41,11 @@
 
     (3) a National Museum of African American History and Culture would be dedicated to the collection, preservation, research, and exhibition of African American historical and cultural material reflecting the breadth and depth of the experiences of individuals of African descent living in the United States.
 
-([Pub. L. 108–184, § 2][/us/pl/108/184/s2], Dec. 16, 2003, [117 Stat. 2676][/us/stat/117/2676].)
+([Pub. L. 108–184][/us/pl/108/184], § 2, Dec. 16, 2003, [117 Stat. 2676][/us/stat/117/2676].)
 
  __Short Title__ 
 
-[Pub. L. 108–184, § 1][/us/pl/108/184/s1], Dec. 16, 2003, [117 Stat. 2676][/us/stat/117/2676], provided that: 
+[Pub. L. 108–184][/us/pl/108/184], § 1, Dec. 16, 2003, [117 Stat. 2676][/us/stat/117/2676], provided that: 
 
 > “This Act \[enacting this subchapter\] may be cited as the ‘National Museum of African American History and Culture Act’.”
 
@@ -56,9 +56,9 @@
 ----------
 ----------
 
-[/us/pl/108/184/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F184%2Fs2
+[/us/pl/108/184]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F184
 [/us/stat/117/2676]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2676
-[/us/pl/108/184/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F184%2Fs1
+[/us/pl/108/184]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F184
 [/us/stat/117/2676]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2676
 
 

@@ -23,7 +23,7 @@
 
     (3) encourage partnerships in science and mathematics education between the business community, museums, libraries, professional mathematics and scientific associations, private nonprofit organizations, appropriate State agencies and elementary and secondary schools.
 
-([Pub. L. 98–377, title III, § 321][/us/pl/98/377/s321], as added [Pub. L. 100–418, title VI, § 6031(a)(2)][/us/pl/100/418/s6031/a/2], Aug. 23, 1988, [102 Stat. 1479][/us/stat/102/1479].)
+([Pub. L. 98–377, title III][/us/pl/98/377/tIII], § 321, as added [Pub. L. 100–418, title VI][/us/pl/100/418/tVI], § 6031(a)(2), Aug. 23, 1988, [102 Stat. 1479][/us/stat/102/1479].)
 
  __Clubs for Boys and Girls Interested in Science; Authorization of Appropriations; Purposes; Personnel and Facilities__ 
 
@@ -54,8 +54,8 @@
 ----------
 ----------
 
-[/us/pl/98/377/s321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F377%2Fs321
-[/us/pl/100/418/s6031/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2Fs6031%2Fa%2F2
+[/us/pl/98/377/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F377%2FtIII
+[/us/pl/100/418/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2FtVI
 [/us/stat/102/1479]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1479
 [/us/pl/85/875]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F875
 [/us/stat/72/1700]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F1700

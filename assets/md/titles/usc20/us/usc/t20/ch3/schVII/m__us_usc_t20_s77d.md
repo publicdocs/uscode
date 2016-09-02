@@ -17,7 +17,7 @@
 
     The heads of executive departments and independent agencies of the Government are authorized to transfer or loan to said national air and space museum without charge therefor, aircraft, spacecraft, aircraft and spacecraft parts, instruments, engines, or other aeronautical and space flight equipment or records for exhibition, historical, or educational purposes.
 
-([Aug. 12, 1946, ch. 955, § 5(a)][/us/act/1946-08-12/ch955/s5/a], [60 Stat. 998][/us/stat/60/998]; [Pub. L. 89–509][/us/pl/89/509], pt. I, § 8, July 19, 1966, [80 Stat. 311][/us/stat/80/311].)
+([Aug. 12, 1946, ch. 955][/us/act/1946-08-12/ch955], § 5(a), [60 Stat. 998][/us/stat/60/998]; [Pub. L. 89–509][/us/pl/89/509], pt. I, § 8, July 19, 1966, [80 Stat. 311][/us/stat/80/311].)
 
  __Codification__ 
 
@@ -29,7 +29,7 @@
 
  __Acceptance of Statue of General Mitchell__ 
 
-[Act Aug. 12, 1946, ch. 955, § 5(b)][/us/act/1946-08-12/ch955/s5/b], [60 Stat. 998][/us/stat/60/998], as amended by [Pub. L. 89–509][/us/pl/89/509], pt. I, § 9, July 19, 1966, [80 Stat. 311][/us/stat/80/311], provided that: 
+[Act Aug. 12, 1946, ch. 955][/us/act/1946-08-12/ch955], § 5(b), [60 Stat. 998][/us/stat/60/998], as amended by [Pub. L. 89–509][/us/pl/89/509], pt. I, § 9, July 19, 1966, [80 Stat. 311][/us/stat/80/311], provided that: 
 
 > “The Secretary of the Smithsonian Institution, with the advice of the Commission of Fine Arts, is authorized (1) to accept as a gift to the Smithsonian Institution from George H. Stephenson, of Philadelphia, Pennsylvania, a statue of Brigadier General William L. Mitchell of such character as may be deemed appropriate, and (2) without expense to the United States, to cause such statue to be erected at a suitable location on the grounds of the national air and space museum.”
 
@@ -40,12 +40,12 @@
 ----------
 ----------
 
-[/us/act/1946-08-12/ch955/s5/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-08-12%2Fch955%2Fs5%2Fa
+[/us/act/1946-08-12/ch955]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-08-12%2Fch955
 [/us/stat/60/998]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F60%2F998
 [/us/pl/89/509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F509
 [/us/stat/80/311]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F311
 [/us/pl/89/509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F509
-[/us/act/1946-08-12/ch955/s5/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-08-12%2Fch955%2Fs5%2Fb
+[/us/act/1946-08-12/ch955]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-08-12%2Fch955
 [/us/stat/60/998]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F60%2F998
 [/us/pl/89/509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F509
 [/us/stat/80/311]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F311

@@ -17,7 +17,7 @@
 
     The heads of executive departments and independent agencies of the Government are authorized to transfer or loan to the Smithsonian Institution for its use without charge therefor military, naval, aeronautical, and space objects, equipment and records for exhibition, historical, or other appropriate purposes.
 
-([Pub. L. 87–186, § 4][/us/pl/87/186/s4], Aug. 30, 1961, [75 Stat. 415][/us/stat/75/415].)
+([Pub. L. 87–186][/us/pl/87/186], § 4, Aug. 30, 1961, [75 Stat. 415][/us/stat/75/415].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/87/186/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F186%2Fs4
+[/us/pl/87/186]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F186
 [/us/stat/75/415]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F75%2F415
 
 

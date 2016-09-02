@@ -61,7 +61,7 @@
 
             (D) the alignment of proposed activities with [section 1412(a)(14) of this title][/us/usc/t20/s1412/a/14];
 
-            (E) the alignment of proposed activities with the State plans and applications submitted under sections 6311 and 6612, respectively, of this title; and
+            (E) the alignment of proposed activities with the State plans and applications submitted under sections 6311 and 6611(d)  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be followed by a comma. </sup></sup>  respectively, of this title; and
 
             (F) the use, as appropriate, of scientifically based research activities.
 
@@ -103,13 +103,21 @@
 
             A State educational agency that receives a continuation award under paragraph (1) for any fiscal year may not receive any other award under this part for that fiscal year.
 
-([Pub. L. 91–230, title VI, § 651][/us/pl/91/230/s651], as added [Pub. L. 108–446, title I, § 101][/us/pl/108/446/s101], Dec. 3, 2004, [118 Stat. 2765][/us/stat/118/2765].)
+([Pub. L. 91–230, title VI][/us/pl/91/230/tVI], § 651, as added [Pub. L. 108–446, title I][/us/pl/108/446/tI], § 101, Dec. 3, 2004, [118 Stat. 2765][/us/stat/118/2765]; amended [Pub. L. 114–95, title IX][/us/pl/114/95/tIX], § 9215(ss)(6), Dec. 10, 2015, [129 Stat. 2183][/us/stat/129/2183].)
 
  __Prior Provisions__ 
 
-    A prior section 1451, [Pub. L. 91–230, title VI, § 651][/us/pl/91/230/s651], as added [Pub. L. 105–17, title I, § 101][/us/pl/105/17/s101], June 4, 1997, [111 Stat. 123][/us/stat/111/123], related to the findings and purposes of part A of former subchapter IV of this chapter, prior to the general amendment of subchapters I to IV of this chapter by [Pub. L. 108–446][/us/pl/108/446].
+    A prior section 1451, [Pub. L. 91–230, title VI][/us/pl/91/230/tVI], § 651, as added [Pub. L. 105–17, title I][/us/pl/105/17/tI], § 101, June 4, 1997, [111 Stat. 123][/us/stat/111/123], related to the findings and purposes of part A of former subchapter IV of this chapter, prior to the general amendment of subchapters I to IV of this chapter by [Pub. L. 108–446][/us/pl/108/446].
 
-    Another prior section 1451, [Pub. L. 91–230, title VI, § 651][/us/pl/91/230/s651], Apr. 13, 1970, [84 Stat. 186][/us/stat/84/186]; [Pub. L. 100–630, title I, § 106(b)][/us/pl/100/630/s106/b], Nov. 7, 1988, [102 Stat. 3300][/us/stat/102/3300]; [Pub. L. 101–476, title VI, § 601][/us/pl/101/476/s601], title IX, § 901(b)(150), Oct. 30, 1990, [104 Stat. 1138][/us/stat/104/1138], 1149; [Pub. L. 102–119, § 25(b)][/us/pl/102/119/s25/b], Oct. 7, 1991, [105 Stat. 607][/us/stat/105/607], related to the purposes of former subchapter VI of this chapter, which included promoting general welfare of deaf and hard of hearing individuals and visually impaired individuals and educational advancement of individuals with disabilities, prior to repeal by [Pub. L. 105–17, title II, § 203(c)][/us/pl/105/17/s203/c], June 4, 1997, [111 Stat. 157][/us/stat/111/157], effective Oct. 1, 1997.
+    Another prior section 1451, [Pub. L. 91–230, title VI][/us/pl/91/230/tVI], § 651, Apr. 13, 1970, [84 Stat. 186][/us/stat/84/186]; [Pub. L. 100–630, title I][/us/pl/100/630/tI], § 106(b), Nov. 7, 1988, [102 Stat. 3300][/us/stat/102/3300]; [Pub. L. 101–476, title VI][/us/pl/101/476/tVI], § 601, title IX, § 901(b)(150), Oct. 30, 1990, [104 Stat. 1138][/us/stat/104/1138], 1149; [Pub. L. 102–119][/us/pl/102/119], § 25(b), Oct. 7, 1991, [105 Stat. 607][/us/stat/105/607], related to the purposes of former subchapter VI of this chapter, which included promoting general welfare of deaf and hard of hearing individuals and visually impaired individuals and educational advancement of individuals with disabilities, prior to repeal by [Pub. L. 105–17, title II][/us/pl/105/17/tII], § 203(c), June 4, 1997, [111 Stat. 157][/us/stat/111/157], effective Oct. 1, 1997.
+
+ __Amendments__ 
+
+    2015—Subsec. (c)(5)(E). [Pub. L. 114–95][/us/pl/114/95] substituted “and 6611(d)” for “and 6612,”.
+
+ __Effective Date of 2015 Amendment__ 
+
+    Amendment by [Pub. L. 114–95][/us/pl/114/95] effective Dec. 10, 2015, except with respect to certain noncompetitive programs and competitive programs, see [section 5 of Pub. L. 114–95][/us/pl/114/95/s5], set out as a note under [section 6301 of this title][/us/usc/t20/s6301].
 
  __Effective Date__ 
 
@@ -130,23 +138,29 @@
 [/us/usc/t20/s1411/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1411%2Fd
 [/us/usc/t20/s1411/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1411%2Fd
 [/us/usc/t20/s1455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1455
-[/us/pl/91/230/s651]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F230%2Fs651
-[/us/pl/108/446/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F446%2Fs101
+[/us/pl/91/230/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F230%2FtVI
+[/us/pl/108/446/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F446%2FtI
 [/us/stat/118/2765]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F2765
-[/us/pl/91/230/s651]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F230%2Fs651
-[/us/pl/105/17/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F17%2Fs101
+[/us/pl/114/95/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F95%2FtIX
+[/us/stat/129/2183]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F2183
+[/us/pl/91/230/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F230%2FtVI
+[/us/pl/105/17/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F17%2FtI
 [/us/stat/111/123]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F123
 [/us/pl/108/446]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F446
-[/us/pl/91/230/s651]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F230%2Fs651
+[/us/pl/91/230/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F230%2FtVI
 [/us/stat/84/186]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F186
-[/us/pl/100/630/s106/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F630%2Fs106%2Fb
+[/us/pl/100/630/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F630%2FtI
 [/us/stat/102/3300]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3300
-[/us/pl/101/476/s601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F476%2Fs601
+[/us/pl/101/476/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F476%2FtVI
 [/us/stat/104/1138]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1138
-[/us/pl/102/119/s25/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F119%2Fs25%2Fb
+[/us/pl/102/119]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F119
 [/us/stat/105/607]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F607
-[/us/pl/105/17/s203/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F17%2Fs203%2Fc
+[/us/pl/105/17/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F17%2FtII
 [/us/stat/111/157]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F157
+[/us/pl/114/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F95
+[/us/pl/114/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F95
+[/us/pl/114/95/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F95%2Fs5
+[/us/usc/t20/s6301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs6301
 [/us/pl/108/446/s302/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F446%2Fs302%2Fa
 [/us/usc/t20/s1400]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1400
 

@@ -11,46 +11,16 @@
 ----------
 ----------
 
-[Previous](./../../../../../../..//us/usc/t20/ch62/schI/ptA/m__us_usc_t20_ch62_schI_ptA.md) | [Next](./../../../../../../..//us/usc/t20/ch62/schI/ptA/spt2/m__us_usc_t20_ch62_schI_ptA_spt2.md) | [Root of Title](./../../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fch62%2FschI%2FptA%2Fspt1)
+[Previous](./../../../../../../..//us/usc/t20/ch62/schI/ptA/m__us_usc_t20_ch62_schI_ptA.md) | [Next](./../../../../../../..//us/usc/t20/ch62/schI/ptA/spt1/m__us_usc_t20_s5011...5016.md) | [Root of Title](./../../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fch62%2FschI%2FptA%2Fspt1)
 
 ##### subpart 1—foreign language assistance
 
-§§ 5011 to 5016. __Repealed.__  __[__  __Pub. L. 103–382, title III, § 391(i)__  __][/us/pl/103/382/s391/i]__  __,__  __Oct. 20, 1994__  __,__  __[__  __108 Stat. 4023__  __][/us/stat/108/4023]__ 
-
-    Section 5011, [Pub. L. 100–418, title VI, § 6021][/us/pl/100/418/s6021], Aug. 23, 1988, [102 Stat. 1476][/us/stat/102/1476], provided that this subpart could be cited as the “Foreign Language Assistance Act of 1988”.
-
-    Section 5012, [Pub. L. 100–418, title VI, § 6022][/us/pl/100/418/s6022], Aug. 23, 1988, [102 Stat. 1476][/us/stat/102/1476], stated findings of Congress.
-
-    Section 5013, [Pub. L. 100–418, title VI, § 6023][/us/pl/100/418/s6023], Aug. 23, 1988, [102 Stat. 1477][/us/stat/102/1477], authorized grants for model programs for commencement, improvement, and expansion of foreign language study.
-
-    Section 5014, [Pub. L. 100–418, title VI, § 6024][/us/pl/100/418/s6024], Aug. 23, 1988, [102 Stat. 1478][/us/stat/102/1478], related to allotment of funds.
-
-    Section 5015, [Pub. L. 100–418, title VI, § 6025][/us/pl/100/418/s6025], Aug. 23, 1988, [102 Stat. 1478][/us/stat/102/1478], defined terms used in this subpart.
-
-    Section 5016, [Pub. L. 100–418, title VI, § 6026][/us/pl/100/418/s6026], Aug. 23, 1988, [102 Stat. 1478][/us/stat/102/1478], authorized appropriations.
-
-    For similar provisions, see section 7511 et seq. of this title.
-
 ----------
 
-[Previous](./../../../../../../..//us/usc/t20/ch62/schI/ptA/m__us_usc_t20_ch62_schI_ptA.md) | [Next](./../../../../../../..//us/usc/t20/ch62/schI/ptA/spt2/m__us_usc_t20_ch62_schI_ptA_spt2.md) | [Root of Title](./../../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fch62%2FschI%2FptA%2Fspt1)
+[Previous](./../../../../../../..//us/usc/t20/ch62/schI/ptA/m__us_usc_t20_ch62_schI_ptA.md) | [Next](./../../../../../../..//us/usc/t20/ch62/schI/ptA/spt1/m__us_usc_t20_s5011...5016.md) | [Root of Title](./../../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fch62%2FschI%2FptA%2Fspt1)
 
 ----------
 ----------
 
-[/us/pl/103/382/s391/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F382%2Fs391%2Fi
-[/us/stat/108/4023]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4023
-[/us/pl/100/418/s6021]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2Fs6021
-[/us/stat/102/1476]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1476
-[/us/pl/100/418/s6022]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2Fs6022
-[/us/stat/102/1476]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1476
-[/us/pl/100/418/s6023]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2Fs6023
-[/us/stat/102/1477]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1477
-[/us/pl/100/418/s6024]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2Fs6024
-[/us/stat/102/1478]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1478
-[/us/pl/100/418/s6025]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2Fs6025
-[/us/stat/102/1478]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1478
-[/us/pl/100/418/s6026]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2Fs6026
-[/us/stat/102/1478]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1478
 
 

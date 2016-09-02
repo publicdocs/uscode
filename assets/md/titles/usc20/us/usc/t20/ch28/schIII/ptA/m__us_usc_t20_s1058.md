@@ -97,43 +97,43 @@
 
         For the purposes of this section, no historically black college or university which is eligible for and receives funds under part B of this subchapter is eligible for or may receive funds under this part.
 
-([Pub. L. 89–329, title III, § 312][/us/pl/89/329/s312], as added [Pub. L. 99–498, title III, § 301(a)][/us/pl/99/498/s301/a], Oct. 17, 1986, [100 Stat. 1292][/us/stat/100/1292]; amended [Pub. L. 100–50, § 2(a)(2)][/us/pl/100/50/s2/a/2]–(6), June 3, 1987, [101 Stat. 335][/us/stat/101/335]; [Pub. L. 100–369, § 10(a)][/us/pl/100/369/s10/a], July 18, 1988, [102 Stat. 837][/us/stat/102/837]; [Pub. L. 102–325, title III, § 302(a)][/us/pl/102/325/s302/a], (b), July 23, 1992, [106 Stat. 472][/us/stat/106/472]; [Pub. L. 103–208, § 2(a)(5)][/us/pl/103/208/s2/a/5], Dec. 20, 1993, [107 Stat. 2457][/us/stat/107/2457]; [Pub. L. 103–382, title III, § 353][/us/pl/103/382/s353], Oct. 20, 1994, [108 Stat. 3966][/us/stat/108/3966]; [Pub. L. 105–244, title III][/us/pl/105/244], §§ 301(c)(2), 303(b), Oct. 7, 1998, [112 Stat. 1636][/us/stat/112/1636], 1639; [Pub. L. 110–315, title III][/us/pl/110/315], §§ 302, 305(b), Aug. 14, 2008, [122 Stat. 3167][/us/stat/122/3167], 3173.)
+([Pub. L. 89–329, title III][/us/pl/89/329/tIII], § 312, as added [Pub. L. 99–498, title III][/us/pl/99/498/tIII], § 301(a), Oct. 17, 1986, [100 Stat. 1292][/us/stat/100/1292]; amended [Pub. L. 100–50][/us/pl/100/50], § 2(a)(2)–(6), June 3, 1987, [101 Stat. 335][/us/stat/101/335]; [Pub. L. 100–369][/us/pl/100/369], § 10(a), July 18, 1988, [102 Stat. 837][/us/stat/102/837]; [Pub. L. 102–325, title III][/us/pl/102/325/tIII], § 302(a), (b), July 23, 1992, [106 Stat. 472][/us/stat/106/472]; [Pub. L. 103–208][/us/pl/103/208], § 2(a)(5), Dec. 20, 1993, [107 Stat. 2457][/us/stat/107/2457]; [Pub. L. 103–382, title III][/us/pl/103/382/tIII], § 353, Oct. 20, 1994, [108 Stat. 3966][/us/stat/108/3966]; [Pub. L. 105–244, title III][/us/pl/105/244/tIII], §§ 301(c)(2), 303(b), Oct. 7, 1998, [112 Stat. 1636][/us/stat/112/1636], 1639; [Pub. L. 110–315, title III][/us/pl/110/315/tIII], §§ 302, 305(b), Aug. 14, 2008, [122 Stat. 3167][/us/stat/122/3167], 3173.)
 
  __Prior Provisions__ 
 
-    A prior section 1058, [Pub. L. 89–329, title III, § 312][/us/pl/89/329/s312], as added [Pub. L. 96–374, title III, § 301][/us/pl/96/374/s301], Oct. 3, 1980, [94 Stat. 1391][/us/stat/94/1391], defined terms used in this subchapter, prior to the general revision of this subchapter by [Pub. L. 99–498][/us/pl/99/498].
+    A prior section 1058, [Pub. L. 89–329, title III][/us/pl/89/329/tIII], § 312, as added [Pub. L. 96–374, title III][/us/pl/96/374/tIII], § 301, Oct. 3, 1980, [94 Stat. 1391][/us/stat/94/1391], defined terms used in this subchapter, prior to the general revision of this subchapter by [Pub. L. 99–498][/us/pl/99/498].
 
  __Amendments__ 
 
-    2008—Subsec. (b)(1)(A). [Pub. L. 110–315, § 302(1)][/us/pl/110/315/s302/1], substituted “subsection (d)” for “subsection (c) of this section”.
+    2008—Subsec. (b)(1)(A). [Pub. L. 110–315][/us/pl/110/315], § 302(1), substituted “subsection (d)” for “subsection (c) of this section”.
 
-    Subsec. (d). [Pub. L. 110–315, § 305(b)][/us/pl/110/315/s305/b], substituted “Except as provided in [section 1059e(b) of this title][/us/usc/t20/s1059e/b], for the purpose” for “For the purpose” in introductory provisions.
+    Subsec. (d). [Pub. L. 110–315][/us/pl/110/315], § 305(b), substituted “Except as provided in [section 1059e(b) of this title][/us/usc/t20/s1059e/b], for the purpose” for “For the purpose” in introductory provisions.
 
-    Subsec. (d)(2). [Pub. L. 110–315, § 302(2)][/us/pl/110/315/s302/2], substituted “paragraph” for “subdivision”.
+    Subsec. (d)(2). [Pub. L. 110–315][/us/pl/110/315], § 302(2), substituted “paragraph” for “subdivision”.
 
-    Subsecs. (g), (h). [Pub. L. 110–315, § 302(3)][/us/pl/110/315/s302/3], (4), added subsec. (g) and redesignated former subsec. (g) as (h).
+    Subsecs. (g), (h). [Pub. L. 110–315][/us/pl/110/315], § 302(3), (4), added subsec. (g) and redesignated former subsec. (g) as (h).
 
-    1998—Subsec. (b)(1)(B). [Pub. L. 105–244, § 301(c)(2)(A)][/us/pl/105/244/s301/c/2/A], substituted “section 1068a(b)” for “section 1067(b)”.
+    1998—Subsec. (b)(1)(B). [Pub. L. 105–244][/us/pl/105/244], § 301(c)(2)(A), substituted “section 1068a(b)” for “section 1067(b)”.
 
-    Subsec. (c). [Pub. L. 105–244, § 303(b)(2)][/us/pl/105/244/s303/b/2], added subsec. (c). Former subsec. (c) redesignated (d).
+    Subsec. (c). [Pub. L. 105–244][/us/pl/105/244], § 303(b)(2), added subsec. (c). Former subsec. (c) redesignated (d).
 
-    Subsec. (c)(2). [Pub. L. 105–244, § 301(c)(2)(B)][/us/pl/105/244/s301/c/2/B], substituted “section 1068a(a)” for “section 1067(a)”.
+    Subsec. (c)(2). [Pub. L. 105–244][/us/pl/105/244], § 301(c)(2)(B), substituted “section 1068a(a)” for “section 1067(a)”.
 
-    Subsecs. (d) to (g). [Pub. L. 105–244, § 303(b)(1)][/us/pl/105/244/s303/b/1], redesignated subsecs. (c) to (f) as (d) to (g), respectively.
+    Subsecs. (d) to (g). [Pub. L. 105–244][/us/pl/105/244], § 303(b)(1), redesignated subsecs. (c) to (f) as (d) to (g), respectively.
 
-    1994—Subsec. (b)(1)(C). [Pub. L. 103–382, § 353(1)][/us/pl/103/382/s353/1], amended subpar. (C) generally. Prior to amendment, subpar. (C) read as follows: “(C)(i) which is legally authorized to provide, and provides within the State, an educational program for which it awards a bachelor’s degree, or (ii) which is a junior or community college;”.
+    1994—Subsec. (b)(1)(C). [Pub. L. 103–382][/us/pl/103/382], § 353(1), amended subpar. (C) generally. Prior to amendment, subpar. (C) read as follows: “(C)(i) which is legally authorized to provide, and provides within the State, an educational program for which it awards a bachelor’s degree, or (ii) which is a junior or community college;”.
 
-    Subsec. (b)(1)(F). [Pub. L. 103–382, § 353(2)][/us/pl/103/382/s353/2], (3), added subpar. (F).
+    Subsec. (b)(1)(F). [Pub. L. 103–382][/us/pl/103/382], § 353(2), (3), added subpar. (F).
 
     1993—Subsec. (c)(2). [Pub. L. 103–208][/us/pl/103/208] inserted “the” after “such institutions in”.
 
-    1992—Subsec. (b)(1), (2). [Pub. L. 102–325, § 302(a)(1)][/us/pl/102/325/s302/a/1], (2), inserted “and” at end of subpar. (D), struck out subpar. (E), redesignated subpar. (F) as (E) and inserted “and” at end, and substituted period for semicolon at end of par. (2). Prior to amendment, subpar. (E) of par. (1) read as follows: “except as provided in [section 1067(b) of this title][/us/usc/t20/s1067/b] which has, during the 5 academic years preceding the academic year for which it seeks assistance under this part—
+    1992—Subsec. (b)(1), (2). [Pub. L. 102–325][/us/pl/102/325], § 302(a)(1), (2), inserted “and” at end of subpar. (D), struck out subpar. (E), redesignated subpar. (F) as (E) and inserted “and” at end, and substituted period for semicolon at end of par. (2). Prior to amendment, subpar. (E) of par. (1) read as follows: “except as provided in [section 1067(b) of this title][/us/usc/t20/s1067/b] which has, during the 5 academic years preceding the academic year for which it seeks assistance under this part—
 
     “(i) met the requirement of either subparagraph (C)(i) or (C)(ii), or of both such subparagraphs (simultaneously or consecutively); and
 
     “(ii) met the requirement of subparagraph (D); and”.
 
-    Subsec. (b)(3) to (5). [Pub. L. 102–325, § 302(a)(3)][/us/pl/102/325/s302/a/3], struck out pars. (3) to (5) which read as follows:
+    Subsec. (b)(3) to (5). [Pub. L. 102–325][/us/pl/102/325], § 302(a)(3), struck out pars. (3) to (5) which read as follows:
 
     “(3) any institution of higher education which has an enrollment of which at least 20 percent are Mexican American, Puerto Rican, Cuban, or other Hispanic students, or combination thereof, and which also satisfies the requirements of subparagraphs (A), (B), (C), and (D) of paragraph (1);
 
@@ -141,21 +141,21 @@
 
     “(5) any institution of higher education which has an enrollment of which at least 5 percent are Native Hawaiian, Asian American, American Samoan, Micronesian, Guamian (Chamorro), and Northern Marianian, or any combination thereof, and which also satisfies the requirements of subparagraphs (A), (B), (C), and (D) of paragraph (1).”
 
-    Subsec. (c)(2). [Pub. L. 102–325, § 302(b)][/us/pl/102/325/s302/b], substituted “second fiscal year preceding the fiscal year for which the determination is made, unless the requirement” for “second preceding fiscal year, unless the requirement”.
+    Subsec. (c)(2). [Pub. L. 102–325][/us/pl/102/325], § 302(b), substituted “second fiscal year preceding the fiscal year for which the determination is made, unless the requirement” for “second preceding fiscal year, unless the requirement”.
 
     1988—Subsec. (f). [Pub. L. 100–369][/us/pl/100/369] added subsec. (f).
 
-    1987—Subsec. (b)(1)(C), (D). [Pub. L. 100–50, § 2(a)(2)(A)][/us/pl/100/50/s2/a/2/A], inserted “which” before “is” wherever appearing.
+    1987—Subsec. (b)(1)(C), (D). [Pub. L. 100–50][/us/pl/100/50], § 2(a)(2)(A), inserted “which” before “is” wherever appearing.
 
-    Subsec. (b)(1)(E). [Pub. L. 100–50, § 2(a)(2)(B)][/us/pl/100/50/s2/a/2/B], inserted “which” before “has”.
+    Subsec. (b)(1)(E). [Pub. L. 100–50][/us/pl/100/50], § 2(a)(2)(B), inserted “which” before “has”.
 
-    Subsec. (b)(1)(F). [Pub. L. 100–50, § 2(a)(2)(C)][/us/pl/100/50/s2/a/2/C], inserted “which” before “meets”.
+    Subsec. (b)(1)(F). [Pub. L. 100–50][/us/pl/100/50], § 2(a)(2)(C), inserted “which” before “meets”.
 
-    Subsec. (b)(3), (5). [Pub. L. 100–50, § 2(a)(3)][/us/pl/100/50/s2/a/3], (4), substituted “subparagraphs (A), (B), (C), and (D)” for “subparagraphs (A) and (B)”.
+    Subsec. (b)(3), (5). [Pub. L. 100–50][/us/pl/100/50], § 2(a)(3), (4), substituted “subparagraphs (A), (B), (C), and (D)” for “subparagraphs (A) and (B)”.
 
-    Subsec. (c)(1). [Pub. L. 100–50, § 2(a)(5)][/us/pl/100/50/s2/a/5], inserted “in the second fiscal year preceding the fiscal year for which the determination is being made” after “chapter 34 of title 42”.
+    Subsec. (c)(1). [Pub. L. 100–50][/us/pl/100/50], § 2(a)(5), inserted “in the second fiscal year preceding the fiscal year for which the determination is being made” after “chapter 34 of title 42”.
 
-    Subsec. (c)(2). [Pub. L. 100–50, § 2(a)(6)][/us/pl/100/50/s2/a/6], substituted “fiscal year preceding the fiscal year for which determination is being made” for “preceding fiscal year” and “second preceding fiscal year” for “such fiscal year”.
+    Subsec. (c)(2). [Pub. L. 100–50][/us/pl/100/50], § 2(a)(6), substituted “fiscal year preceding the fiscal year for which determination is being made” for “preceding fiscal year” and “second preceding fiscal year” for “such fiscal year”.
 
  __Effective Date of 1998 Amendment__ 
 
@@ -184,50 +184,50 @@
 [/us/usc/t20/s1059e/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1059e%2Fb
 [/us/usc/t20/s1078]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1078
 [/us/usc/t20/s1068a/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1068a%2Fa
-[/us/pl/89/329/s312]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2Fs312
-[/us/pl/99/498/s301/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F498%2Fs301%2Fa
+[/us/pl/89/329/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2FtIII
+[/us/pl/99/498/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F498%2FtIII
 [/us/stat/100/1292]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1292
-[/us/pl/100/50/s2/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F50%2Fs2%2Fa%2F2
+[/us/pl/100/50]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F50
 [/us/stat/101/335]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F335
-[/us/pl/100/369/s10/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F369%2Fs10%2Fa
+[/us/pl/100/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F369
 [/us/stat/102/837]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F837
-[/us/pl/102/325/s302/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325%2Fs302%2Fa
+[/us/pl/102/325/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325%2FtIII
 [/us/stat/106/472]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F472
-[/us/pl/103/208/s2/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F208%2Fs2%2Fa%2F5
+[/us/pl/103/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F208
 [/us/stat/107/2457]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F2457
-[/us/pl/103/382/s353]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F382%2Fs353
+[/us/pl/103/382/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F382%2FtIII
 [/us/stat/108/3966]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3966
-[/us/pl/105/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244
+[/us/pl/105/244/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2FtIII
 [/us/stat/112/1636]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F1636
-[/us/pl/110/315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315
+[/us/pl/110/315/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2FtIII
 [/us/stat/122/3167]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3167
-[/us/pl/89/329/s312]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2Fs312
-[/us/pl/96/374/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F374%2Fs301
+[/us/pl/89/329/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2FtIII
+[/us/pl/96/374/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F374%2FtIII
 [/us/stat/94/1391]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F1391
 [/us/pl/99/498]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F498
-[/us/pl/110/315/s302/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2Fs302%2F1
-[/us/pl/110/315/s305/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2Fs305%2Fb
+[/us/pl/110/315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315
+[/us/pl/110/315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315
 [/us/usc/t20/s1059e/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1059e%2Fb
-[/us/pl/110/315/s302/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2Fs302%2F2
-[/us/pl/110/315/s302/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2Fs302%2F3
-[/us/pl/105/244/s301/c/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2Fs301%2Fc%2F2%2FA
-[/us/pl/105/244/s303/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2Fs303%2Fb%2F2
-[/us/pl/105/244/s301/c/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2Fs301%2Fc%2F2%2FB
-[/us/pl/105/244/s303/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2Fs303%2Fb%2F1
-[/us/pl/103/382/s353/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F382%2Fs353%2F1
-[/us/pl/103/382/s353/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F382%2Fs353%2F2
+[/us/pl/110/315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315
+[/us/pl/110/315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315
+[/us/pl/105/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244
+[/us/pl/105/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244
+[/us/pl/105/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244
+[/us/pl/105/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244
+[/us/pl/103/382]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F382
+[/us/pl/103/382]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F382
 [/us/pl/103/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F208
-[/us/pl/102/325/s302/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325%2Fs302%2Fa%2F1
+[/us/pl/102/325]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325
 [/us/usc/t20/s1067/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1067%2Fb
-[/us/pl/102/325/s302/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325%2Fs302%2Fa%2F3
-[/us/pl/102/325/s302/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325%2Fs302%2Fb
+[/us/pl/102/325]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325
+[/us/pl/102/325]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325
 [/us/pl/100/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F369
-[/us/pl/100/50/s2/a/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F50%2Fs2%2Fa%2F2%2FA
-[/us/pl/100/50/s2/a/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F50%2Fs2%2Fa%2F2%2FB
-[/us/pl/100/50/s2/a/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F50%2Fs2%2Fa%2F2%2FC
-[/us/pl/100/50/s2/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F50%2Fs2%2Fa%2F3
-[/us/pl/100/50/s2/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F50%2Fs2%2Fa%2F5
-[/us/pl/100/50/s2/a/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F50%2Fs2%2Fa%2F6
+[/us/pl/100/50]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F50
+[/us/pl/100/50]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F50
+[/us/pl/100/50]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F50
+[/us/pl/100/50]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F50
+[/us/pl/100/50]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F50
+[/us/pl/100/50]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F50
 [/us/pl/105/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244
 [/us/pl/105/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244
 [/us/pl/105/244/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2Fs3

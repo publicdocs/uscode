@@ -149,7 +149,7 @@
 
         (4) assurance that the institution of higher education, or consortium of such institutions, will use the assistance provided under this section to supplement and not to supplant activities conducted by institutions of higher education described in subsection (c)(1) of this section.
 
-([Pub. L. 89–329, title VI, § 612][/us/pl/89/329/s612], as added [Pub. L. 100–418, title VI, § 6261(2)][/us/pl/100/418/s6261/2], Aug. 23, 1988, [102 Stat. 1520][/us/stat/102/1520]; amended [Pub. L. 102–325, title VI, § 601][/us/pl/102/325/s601], July 23, 1992, [106 Stat. 729][/us/stat/106/729]; [Pub. L. 105–244, title VI, § 602(b)][/us/pl/105/244/s602/b], Oct. 7, 1998, [112 Stat. 1783][/us/stat/112/1783]; [Pub. L. 110–315, title VI][/us/pl/110/315], §§ 610, 611(a), Aug. 14, 2008, [122 Stat. 3338][/us/stat/122/3338], 3339.)
+([Pub. L. 89–329, title VI][/us/pl/89/329/tVI], § 612, as added [Pub. L. 100–418, title VI][/us/pl/100/418/tVI], § 6261(2), Aug. 23, 1988, [102 Stat. 1520][/us/stat/102/1520]; amended [Pub. L. 102–325, title VI][/us/pl/102/325/tVI], § 601, July 23, 1992, [106 Stat. 729][/us/stat/106/729]; [Pub. L. 105–244, title VI][/us/pl/105/244/tVI], § 602(b), Oct. 7, 1998, [112 Stat. 1783][/us/stat/112/1783]; [Pub. L. 110–315, title VI][/us/pl/110/315/tVI], §§ 610, 611(a), Aug. 14, 2008, [122 Stat. 3338][/us/stat/122/3338], 3339.)
 
  __Prior Provisions__ 
 
@@ -157,31 +157,31 @@
 
  __Amendments__ 
 
-    2008—Subsec. (a). [Pub. L. 110–315, § 611(a)(1)][/us/pl/110/315/s611/a/1], added par. (1) and redesignated former pars. (1) and (2) as (2) and (3), respectively.
+    2008—Subsec. (a). [Pub. L. 110–315][/us/pl/110/315], § 611(a)(1), added par. (1) and redesignated former pars. (1) and (2) as (2) and (3), respectively.
 
-    Subsec. (a)(1). [Pub. L. 110–315, § 610(a)][/us/pl/110/315/s610/a], substituted “consortia” for “combinations” in introductory provisions.
+    Subsec. (a)(1). [Pub. L. 110–315][/us/pl/110/315], § 610(a), substituted “consortia” for “combinations” in introductory provisions.
 
-    Subsec. (c)(1)(D). [Pub. L. 110–315, § 610(a)][/us/pl/110/315/s610/a], substituted “consortia” for “combinations”.
+    Subsec. (c)(1)(D). [Pub. L. 110–315][/us/pl/110/315], § 610(a), substituted “consortia” for “combinations”.
 
-    Subsec. (c)(2)(E). [Pub. L. 110–315, § 611(a)(2)(A)][/us/pl/110/315/s611/a/2/A], inserted “(including those that are eligible to receive assistance under part A or B of subchapter III or under subchapter V)” after “other institutions of higher education”.
+    Subsec. (c)(2)(E). [Pub. L. 110–315][/us/pl/110/315], § 611(a)(2)(A), inserted “(including those that are eligible to receive assistance under part A or B of subchapter III or under subchapter V)” after “other institutions of higher education”.
 
-    Subsec. (c)(2)(F), (G). [Pub. L. 110–315, § 611(a)(2)(B)][/us/pl/110/315/s611/a/2/B]–(D), added subpar. (F) and redesignated former subpar. (F) as (G).
+    Subsec. (c)(2)(F), (G). [Pub. L. 110–315][/us/pl/110/315], § 611(a)(2)(B)–(D), added subpar. (F) and redesignated former subpar. (F) as (G).
 
-    Subsec. (d)(1). [Pub. L. 110–315, § 610(b)][/us/pl/110/315/s610/b], substituted “consortium” for “combination”.
+    Subsec. (d)(1). [Pub. L. 110–315][/us/pl/110/315], § 610(b), substituted “consortium” for “combination”.
 
-    Subsec. (f)(1). [Pub. L. 110–315, § 610(b)][/us/pl/110/315/s610/b], substituted “consortium” for “combination”.
+    Subsec. (f)(1). [Pub. L. 110–315][/us/pl/110/315], § 610(b), substituted “consortium” for “combination”.
 
-    Subsec. (f)(3). [Pub. L. 110–315, § 611(a)(3)][/us/pl/110/315/s611/a/3], inserted “, and that diverse perspectives will be made available to students in programs under this section” before semicolon.
+    Subsec. (f)(3). [Pub. L. 110–315][/us/pl/110/315], § 611(a)(3), inserted “, and that diverse perspectives will be made available to students in programs under this section” before semicolon.
 
-    Subsec. (f)(4). [Pub. L. 110–315, § 610(b)][/us/pl/110/315/s610/b], substituted “consortium” for “combination”.
+    Subsec. (f)(4). [Pub. L. 110–315][/us/pl/110/315], § 610(b), substituted “consortium” for “combination”.
 
-    1998—Subsec. (c)(1)(B). [Pub. L. 105–244, § 602(b)(1)(A)(i)][/us/pl/105/244/s602/b/1/A/i], struck out “advanced” after “faculty and”.
+    1998—Subsec. (c)(1)(B). [Pub. L. 105–244][/us/pl/105/244], § 602(b)(1)(A)(i), struck out “advanced” after “faculty and”.
 
-    Subsec. (c)(1)(C). [Pub. L. 105–244, § 602(b)(1)(A)(ii)][/us/pl/105/244/s602/b/1/A/ii], struck out “evening or summer” before “programs, such”.
+    Subsec. (c)(1)(C). [Pub. L. 105–244][/us/pl/105/244], § 602(b)(1)(A)(ii), struck out “evening or summer” before “programs, such”.
 
-    Subsec. (c)(2)(C). [Pub. L. 105–244, § 602(b)(1)(B)][/us/pl/105/244/s602/b/1/B], inserted “foreign language studies,” after “area studies,”.
+    Subsec. (c)(2)(C). [Pub. L. 105–244][/us/pl/105/244], § 602(b)(1)(B), inserted “foreign language studies,” after “area studies,”.
 
-    Subsec. (d)(2)(G). [Pub. L. 105–244, § 602(b)(2)][/us/pl/105/244/s602/b/2], inserted “, such as a representative of a community college in the region served by the center” before the period.
+    Subsec. (d)(2)(G). [Pub. L. 105–244][/us/pl/105/244], § 602(b)(2), inserted “, such as a representative of a community college in the region served by the center” before the period.
 
     1992—[Pub. L. 102–325][/us/pl/102/325] amended section generally, substituting present provisions for provisions relating to grants for establishing and operating international business education centers in subsec. (a), costs to be covered by Federal funds in subsec. (b), scope of programs and activities in subsec. (c), center advisory council in subsec. (d), duration of grants and allotment of Federal and non-Federal shares in subsec. (e), and conditions for grants in subsec. (f).
 
@@ -200,30 +200,30 @@
 ----------
 ----------
 
-[/us/pl/89/329/s612]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2Fs612
-[/us/pl/100/418/s6261/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2Fs6261%2F2
+[/us/pl/89/329/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2FtVI
+[/us/pl/100/418/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2FtVI
 [/us/stat/102/1520]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1520
-[/us/pl/102/325/s601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325%2Fs601
+[/us/pl/102/325/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325%2FtVI
 [/us/stat/106/729]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F729
-[/us/pl/105/244/s602/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2Fs602%2Fb
+[/us/pl/105/244/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2FtVI
 [/us/stat/112/1783]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F1783
-[/us/pl/110/315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315
+[/us/pl/110/315/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2FtVI
 [/us/stat/122/3338]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3338
 [/us/pl/89/329/s612]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2Fs612
 [/us/usc/t20/s1130a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1130a
-[/us/pl/110/315/s611/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2Fs611%2Fa%2F1
-[/us/pl/110/315/s610/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2Fs610%2Fa
-[/us/pl/110/315/s610/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2Fs610%2Fa
-[/us/pl/110/315/s611/a/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2Fs611%2Fa%2F2%2FA
-[/us/pl/110/315/s611/a/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2Fs611%2Fa%2F2%2FB
-[/us/pl/110/315/s610/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2Fs610%2Fb
-[/us/pl/110/315/s610/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2Fs610%2Fb
-[/us/pl/110/315/s611/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2Fs611%2Fa%2F3
-[/us/pl/110/315/s610/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2Fs610%2Fb
-[/us/pl/105/244/s602/b/1/A/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2Fs602%2Fb%2F1%2FA%2Fi
-[/us/pl/105/244/s602/b/1/A/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2Fs602%2Fb%2F1%2FA%2Fii
-[/us/pl/105/244/s602/b/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2Fs602%2Fb%2F1%2FB
-[/us/pl/105/244/s602/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2Fs602%2Fb%2F2
+[/us/pl/110/315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315
+[/us/pl/110/315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315
+[/us/pl/110/315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315
+[/us/pl/110/315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315
+[/us/pl/110/315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315
+[/us/pl/110/315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315
+[/us/pl/110/315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315
+[/us/pl/110/315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315
+[/us/pl/110/315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315
+[/us/pl/105/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244
+[/us/pl/105/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244
+[/us/pl/105/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244
+[/us/pl/105/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244
 [/us/pl/102/325]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325
 [/us/pl/105/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244
 [/us/pl/105/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244

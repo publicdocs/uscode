@@ -35,19 +35,19 @@
 
         Each institution of higher education shall provide evidence to the Secretary that the institution has authority to operate within a State at the time the institution is certified under subpart 3 of this part.
 
-([Pub. L. 89–329, title IV, § 495][/us/pl/89/329/s495], as added [Pub. L. 105–244, title IV, § 491(2)][/us/pl/105/244/s491/2], Oct. 7, 1998, [112 Stat. 1758][/us/stat/112/1758].)
+([Pub. L. 89–329, title IV][/us/pl/89/329/tIV], § 495, as added [Pub. L. 105–244, title IV][/us/pl/105/244/tIV], § 491(2), Oct. 7, 1998, [112 Stat. 1758][/us/stat/112/1758].)
 
  __Prior Provisions__ 
 
     Prior sections 1099a to 1099a–3 were omitted in the general amendment of this subpart by [Pub. L. 105–244][/us/pl/105/244].
 
-    Section 1099a, [Pub. L. 89–329, title IV, § 494][/us/pl/89/329/s494], as added [Pub. L. 102–325, title IV, § 499][/us/pl/102/325/s499], July 23, 1992, [106 Stat. 635][/us/stat/106/635], authorized State postsecondary review program.
+    Section 1099a, [Pub. L. 89–329, title IV][/us/pl/89/329/tIV], § 494, as added [Pub. L. 102–325, title IV][/us/pl/102/325/tIV], § 499, July 23, 1992, [106 Stat. 635][/us/stat/106/635], authorized State postsecondary review program.
 
-    Section 1099a–1, [Pub. L. 89–329, title IV, § 494A][/us/pl/89/329/s494A], as added [Pub. L. 102–325, title IV, § 499][/us/pl/102/325/s499], July 23, 1992, [106 Stat. 635][/us/stat/106/635], related to State postsecondary review entity agreements.
+    Section 1099a–1, [Pub. L. 89–329, title IV][/us/pl/89/329/tIV], § 494A, as added [Pub. L. 102–325, title IV][/us/pl/102/325/tIV], § 499, July 23, 1992, [106 Stat. 635][/us/stat/106/635], related to State postsecondary review entity agreements.
 
-    Section 1099a–2, [Pub. L. 89–329, title IV, § 494B][/us/pl/89/329/s494B], as added [Pub. L. 102–325, title IV, § 499][/us/pl/102/325/s499], July 23, 1992, [106 Stat. 637][/us/stat/106/637], related to Federal reimbursement of State postsecondary review costs.
+    Section 1099a–2, [Pub. L. 89–329, title IV][/us/pl/89/329/tIV], § 494B, as added [Pub. L. 102–325, title IV][/us/pl/102/325/tIV], § 499, July 23, 1992, [106 Stat. 637][/us/stat/106/637], related to Federal reimbursement of State postsecondary review costs.
 
-    Section 1099a–3, [Pub. L. 89–329, title IV, § 494C][/us/pl/89/329/s494C], as added [Pub. L. 102–325, title IV, § 499][/us/pl/102/325/s499], July 23, 1992, [106 Stat. 637][/us/stat/106/637]; amended [Pub. L. 103–208, § 2(i)(1)][/us/pl/103/208/s2/i/1], (2), Dec. 20, 1993, [107 Stat. 2478][/us/stat/107/2478], related to functions of State review entities.
+    Section 1099a–3, [Pub. L. 89–329, title IV][/us/pl/89/329/tIV], § 494C, as added [Pub. L. 102–325, title IV][/us/pl/102/325/tIV], § 499, July 23, 1992, [106 Stat. 637][/us/stat/106/637]; amended [Pub. L. 103–208][/us/pl/103/208], § 2(i)(1), (2), Dec. 20, 1993, [107 Stat. 2478][/us/stat/107/2478], related to functions of State review entities.
 
 ----------
 
@@ -56,23 +56,23 @@
 ----------
 ----------
 
-[/us/pl/89/329/s495]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2Fs495
-[/us/pl/105/244/s491/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2Fs491%2F2
+[/us/pl/89/329/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2FtIV
+[/us/pl/105/244/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2FtIV
 [/us/stat/112/1758]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F1758
 [/us/pl/105/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244
-[/us/pl/89/329/s494]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2Fs494
-[/us/pl/102/325/s499]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325%2Fs499
+[/us/pl/89/329/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2FtIV
+[/us/pl/102/325/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325%2FtIV
 [/us/stat/106/635]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F635
-[/us/pl/89/329/s494A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2Fs494A
-[/us/pl/102/325/s499]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325%2Fs499
+[/us/pl/89/329/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2FtIV
+[/us/pl/102/325/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325%2FtIV
 [/us/stat/106/635]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F635
-[/us/pl/89/329/s494B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2Fs494B
-[/us/pl/102/325/s499]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325%2Fs499
+[/us/pl/89/329/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2FtIV
+[/us/pl/102/325/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325%2FtIV
 [/us/stat/106/637]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F637
-[/us/pl/89/329/s494C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2Fs494C
-[/us/pl/102/325/s499]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325%2Fs499
+[/us/pl/89/329/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2FtIV
+[/us/pl/102/325/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325%2FtIV
 [/us/stat/106/637]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F637
-[/us/pl/103/208/s2/i/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F208%2Fs2%2Fi%2F1
+[/us/pl/103/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F208
 [/us/stat/107/2478]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F2478
 
 

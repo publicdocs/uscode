@@ -45,7 +45,7 @@
 
         (2) a high level of youth participation in such projects or activities.
 
-([Pub. L. 103–227, title VII, § 703][/us/pl/103/227/s703], Mar. 31, 1994, [108 Stat. 205][/us/stat/108/205].)
+([Pub. L. 103–227, title VII][/us/pl/103/227/tVII], § 703, Mar. 31, 1994, [108 Stat. 205][/us/stat/108/205].)
 
 ----------
 
@@ -55,7 +55,7 @@
 ----------
 
 [/us/usc/t20/s5964/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs5964%2Fa
-[/us/pl/103/227/s703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F227%2Fs703
+[/us/pl/103/227/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F227%2FtVII
 [/us/stat/108/205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F205
 
 

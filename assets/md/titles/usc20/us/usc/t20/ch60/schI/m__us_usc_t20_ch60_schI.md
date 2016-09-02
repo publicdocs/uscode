@@ -11,28 +11,16 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t20/ch60/m__us_usc_t20_s4801.md) | [Next](./../../../../..//us/usc/t20/ch60/schII/m__us_usc_t20_ch60_schII.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fch60%2FschI)
+[Previous](./../../../../..//us/usc/t20/ch60/m__us_usc_t20_s4801.md) | [Next](./../../../../..//us/usc/t20/ch60/schI/m__us_usc_t20_s4811 _us_usc_t20_s4812.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fch60%2FschI)
 
 ### SUBCHAPTER I—GRANTS FOR SCHOOLS AND TEACHERS
 
-§§ 4811, 4812. __Repealed.__  __[__  __Pub. L. 103–382, title III, § 365__  __][/us/pl/103/382/s365]__  __,__  __Oct. 20, 1994__  __,__  __[__  __108 Stat. 3975__  __][/us/stat/108/3975]__ 
-
-    Section 4811, [Pub. L. 100–297, title III, § 3211][/us/pl/100/297/s3211], Apr. 28, 1988, [102 Stat. 338][/us/stat/102/338], authorized grants and contracts to improve educational opportunities for, and the performance of, elementary and secondary school students and teachers.
-
-    Section 4812, [Pub. L. 100–297, title III, § 3212][/us/pl/100/297/s3212], Apr. 28, 1988, [102 Stat. 339][/us/stat/102/339], related to applications for grants.
-
 ----------
 
-[Previous](./../../../../..//us/usc/t20/ch60/m__us_usc_t20_s4801.md) | [Next](./../../../../..//us/usc/t20/ch60/schII/m__us_usc_t20_ch60_schII.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fch60%2FschI)
+[Previous](./../../../../..//us/usc/t20/ch60/m__us_usc_t20_s4801.md) | [Next](./../../../../..//us/usc/t20/ch60/schI/m__us_usc_t20_s4811 _us_usc_t20_s4812.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fch60%2FschI)
 
 ----------
 ----------
 
-[/us/pl/103/382/s365]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F382%2Fs365
-[/us/stat/108/3975]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3975
-[/us/pl/100/297/s3211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F297%2Fs3211
-[/us/stat/102/338]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F338
-[/us/pl/100/297/s3212]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F297%2Fs3212
-[/us/stat/102/339]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F339
 
 

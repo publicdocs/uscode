@@ -33,11 +33,11 @@
 
         As soon as practicable after October 27, 2000, the Director shall begin collecting video and audio recordings under subsection (a)(1) of this section, and shall attempt to collect the first such recordings from the oldest veterans.
 
-([Pub. L. 106–380, § 3][/us/pl/106/380/s3], Oct. 27, 2000, [114 Stat. 1448][/us/stat/114/1448].)
+([Pub. L. 106–380][/us/pl/106/380], § 3, Oct. 27, 2000, [114 Stat. 1448][/us/stat/114/1448].)
 
  __National Public Awareness and Participation Campaign for Veterans’ History Project of American Folklife Center__ 
 
-[Pub. L. 112–239, div. A, title V, § 594][/us/pl/112/239/s594], Jan. 2, 2013, [126 Stat. 1771][/us/stat/126/1771], provided that:
+[Pub. L. 112–239, div. A, title V][/us/pl/112/239/dA/tV], § 594, Jan. 2, 2013, [126 Stat. 1771][/us/stat/126/1771], provided that:
 
 >     “(a)  __In General__  __.—__ 
 
@@ -66,9 +66,9 @@
 ----------
 ----------
 
-[/us/pl/106/380/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F380%2Fs3
+[/us/pl/106/380]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F380
 [/us/stat/114/1448]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1448
-[/us/pl/112/239/s594]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs594
+[/us/pl/112/239/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2FdA%2FtV
 [/us/stat/126/1771]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1771
 [/us/usc/t20/s2142/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs2142%2Fa
 [/us/usc/t38/s5902]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs5902

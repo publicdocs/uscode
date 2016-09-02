@@ -17,7 +17,7 @@
 
     The transfer of a function or office from an officer or agency to the Secretary or to the Department includes any aspects of such function or office vested in a subordinate of such officer or in a component of such agency.
 
-([Pub. L. 96–88, title III, § 306][/us/pl/96/88/s306], formerly § 307, Oct. 17, 1979, [93 Stat. 681][/us/stat/93/681]; renumbered § 306, [Pub. L. 103–382, title II, § 271(a)(2)][/us/pl/103/382/s271/a/2], Oct. 20, 1994, [108 Stat. 3929][/us/stat/108/3929].)
+([Pub. L. 96–88, title III][/us/pl/96/88/tIII], § 306, formerly § 307, Oct. 17, 1979, [93 Stat. 681][/us/stat/93/681]; renumbered § 306, [Pub. L. 103–382, title II][/us/pl/103/382/tII], § 271(a)(2), Oct. 20, 1994, [108 Stat. 3929][/us/stat/108/3929].)
 
  __Prior Provisions__ 
 
@@ -30,9 +30,9 @@
 ----------
 ----------
 
-[/us/pl/96/88/s306]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F88%2Fs306
+[/us/pl/96/88/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F88%2FtIII
 [/us/stat/93/681]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F681
-[/us/pl/103/382/s271/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F382%2Fs271%2Fa%2F2
+[/us/pl/103/382/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F382%2FtII
 [/us/stat/108/3929]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3929
 [/us/pl/96/88/s306]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F88%2Fs306
 [/us/usc/t20/s3446]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs3446

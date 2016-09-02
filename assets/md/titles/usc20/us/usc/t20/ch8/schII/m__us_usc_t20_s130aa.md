@@ -27,7 +27,7 @@
 
     (5) the term “University” means the Howard University established by the Act of March 2, 1867.
 
-([Pub. L. 98–480, title II, § 202][/us/pl/98/480/s202], Oct. 17, 1984, [98 Stat. 2245][/us/stat/98/2245].)
+([Pub. L. 98–480, title II][/us/pl/98/480/tII], § 202, Oct. 17, 1984, [98 Stat. 2245][/us/stat/98/2245].)
 
  __References in Text__ 
 
@@ -35,13 +35,13 @@
 
  __Effective Date__ 
 
-[Pub. L. 98–480, title II, § 209][/us/pl/98/480/s209], Oct. 17, 1984, [98 Stat. 2247][/us/stat/98/2247], provided that: 
+[Pub. L. 98–480, title II][/us/pl/98/480/tII], § 209, Oct. 17, 1984, [98 Stat. 2247][/us/stat/98/2247], provided that: 
 
 > “This title \[see Short Title note below\] shall take effect on October 1, 1984.”
 
  __Short Title__ 
 
-[Pub. L. 98–480, title II, § 201][/us/pl/98/480/s201], Oct. 17, 1984, [98 Stat. 2245][/us/stat/98/2245], provided that: 
+[Pub. L. 98–480, title II][/us/pl/98/480/tII], § 201, Oct. 17, 1984, [98 Stat. 2245][/us/stat/98/2245], provided that: 
 
 > “This title \[enacting this subchapter, amending [section 123 of this title][/us/usc/t20/s123], and enacting provisions set out as a note above\] may be cited as the ‘Howard University Endowment Act’.”
 
@@ -52,14 +52,14 @@
 ----------
 ----------
 
-[/us/pl/98/480/s202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F480%2Fs202
+[/us/pl/98/480/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F480%2FtII
 [/us/stat/98/2245]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2245
 [/us/act/1867-03-02/ch162]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1867-03-02%2Fch162
 [/us/stat/14/438]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F14%2F438
 [/us/usc/t20/s123]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs123
-[/us/pl/98/480/s209]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F480%2Fs209
+[/us/pl/98/480/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F480%2FtII
 [/us/stat/98/2247]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2247
-[/us/pl/98/480/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F480%2Fs201
+[/us/pl/98/480/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F480%2FtII
 [/us/stat/98/2245]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2245
 [/us/usc/t20/s123]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs123
 

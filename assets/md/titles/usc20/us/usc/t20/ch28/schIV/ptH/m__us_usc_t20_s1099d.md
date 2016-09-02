@@ -231,13 +231,13 @@
 
             (B) improving the operation and administration of other loan programs under part B.
 
-([Pub. L. 89–329, title IV, § 499][/us/pl/89/329/s499], as added [Pub. L. 110–84, title VII, § 701][/us/pl/110/84/s701], Sept. 27, 2007, [121 Stat. 808][/us/stat/121/808]; amended [Pub. L. 110–315, title IV, § 499][/us/pl/110/315/s499], Aug. 14, 2008, [122 Stat. 3328][/us/stat/122/3328].)
+([Pub. L. 89–329, title IV][/us/pl/89/329/tIV], § 499, as added [Pub. L. 110–84, title VII][/us/pl/110/84/tVII], § 701, Sept. 27, 2007, [121 Stat. 808][/us/stat/121/808]; amended [Pub. L. 110–315, title IV][/us/pl/110/315/tIV], § 499, Aug. 14, 2008, [122 Stat. 3328][/us/stat/122/3328].)
 
  __Amendments__ 
 
-    2008—Subsec. (b)(3)(B)(iii). [Pub. L. 110–315, § 499(1)(A)][/us/pl/110/315/s499/1/A], added cl. (iii).
+    2008—Subsec. (b)(3)(B)(iii). [Pub. L. 110–315][/us/pl/110/315], § 499(1)(A), added cl. (iii).
 
-    Subsec. (b)(3)(G). [Pub. L. 110–315, § 499(1)(B)][/us/pl/110/315/s499/1/B], added subpar. (G) and struck out former subpar. (G). Text of former subpar. (G) read as follows: “Each eligible lender having a winning bid under subparagraph (F) enters into an agreement with the Secretary under which the eligible lender—
+    Subsec. (b)(3)(G). [Pub. L. 110–315][/us/pl/110/315], § 499(1)(B), added subpar. (G) and struck out former subpar. (G). Text of former subpar. (G) read as follows: “Each eligible lender having a winning bid under subparagraph (F) enters into an agreement with the Secretary under which the eligible lender—
 
     “(i) agrees to originate eligible Federal PLUS Loans under this paragraph to each borrower who—
 
@@ -249,9 +249,9 @@
 
     “(ii) agrees to accept a special allowance payment (after the application of [section 1087–1(b)(2)(I)(v) of this title][/us/usc/t20/s1087–1/b/2/I/v]) from the Secretary with respect to the eligible Federal PLUS Loans originated under clause (i) in the amount proposed in the second lowest winning bid described in subparagraph (F) for the applicable State auction.”
 
-    Subsec. (b)(3)(J). [Pub. L. 110–315, § 499(1)(C)][/us/pl/110/315/s499/1/C], added subpar. (J) and struck out former subpar. (J). Text of former subpar. (J) read as follows: “The Secretary guarantees the eligible Federal PLUS Loans made under this paragraph against losses resulting from the default of a parent borrower in an amount equal to 99 percent of the unpaid principal and interest due on the loan.”
+    Subsec. (b)(3)(J). [Pub. L. 110–315][/us/pl/110/315], § 499(1)(C), added subpar. (J) and struck out former subpar. (J). Text of former subpar. (J) read as follows: “The Secretary guarantees the eligible Federal PLUS Loans made under this paragraph against losses resulting from the default of a parent borrower in an amount equal to 99 percent of the unpaid principal and interest due on the loan.”
 
-    Subsecs. (c), (d). [Pub. L. 110–315, § 499(2)][/us/pl/110/315/s499/2], added subsecs. (c) and (d).
+    Subsecs. (c), (d). [Pub. L. 110–315][/us/pl/110/315], § 499(2), added subsecs. (c) and (d).
 
  __Effective Date__ 
 
@@ -281,16 +281,16 @@
 [/us/usc/t20/s1078–3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1078%E2%80%933
 [/us/usc/t20/s1078–3/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1078%E2%80%933%2Ff
 [/us/usc/t20/s1078–2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1078%E2%80%932
-[/us/pl/89/329/s499]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2Fs499
-[/us/pl/110/84/s701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F84%2Fs701
+[/us/pl/89/329/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2FtIV
+[/us/pl/110/84/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F84%2FtVII
 [/us/stat/121/808]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F808
-[/us/pl/110/315/s499]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2Fs499
+[/us/pl/110/315/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2FtIV
 [/us/stat/122/3328]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3328
-[/us/pl/110/315/s499/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2Fs499%2F1%2FA
-[/us/pl/110/315/s499/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2Fs499%2F1%2FB
+[/us/pl/110/315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315
+[/us/pl/110/315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315
 [/us/usc/t20/s1087–1/b/2/I/v]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1087%E2%80%931%2Fb%2F2%2FI%2Fv
-[/us/pl/110/315/s499/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2Fs499%2F1%2FC
-[/us/pl/110/315/s499/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2Fs499%2F2
+[/us/pl/110/315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315
+[/us/pl/110/315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315
 [/us/pl/110/84/s1/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F84%2Fs1%2Fc
 [/us/usc/t20/s1070a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1070a
 

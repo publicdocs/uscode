@@ -149,7 +149,7 @@
 
         A majority of the voting members of the Council holding office shall constitute a quorum for the purpose of conducting business, but a lesser number may receive information on behalf of the Council.
 
-([Pub. L. 108–184, § 5][/us/pl/108/184/s5], Dec. 16, 2003, [117 Stat. 2677][/us/stat/117/2677].)
+([Pub. L. 108–184][/us/pl/108/184], § 5, Dec. 16, 2003, [117 Stat. 2677][/us/stat/117/2677].)
 
 ----------
 
@@ -158,7 +158,7 @@
 ----------
 ----------
 
-[/us/pl/108/184/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F184%2Fs5
+[/us/pl/108/184]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F184
 [/us/stat/117/2677]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2677
 
 

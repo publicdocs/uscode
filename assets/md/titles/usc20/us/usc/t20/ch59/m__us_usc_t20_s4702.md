@@ -29,7 +29,7 @@
 
     (6) The term “eligible person” means a citizen or national of the United States or a permanent resident alien of the United States.
 
-([Pub. L. 99–661, div. A, title XIV, § 1403][/us/pl/99/661/s1403], Nov. 14, 1986, [100 Stat. 4008][/us/stat/100/4008]; [Pub. L. 105–244, title I, § 102(a)(6)(H)][/us/pl/105/244/s102/a/6/H], Oct. 7, 1998, [112 Stat. 1618][/us/stat/112/1618].)
+([Pub. L. 99–661, div. A, title XIV][/us/pl/99/661/dA/tXIV], § 1403, Nov. 14, 1986, [100 Stat. 4008][/us/stat/100/4008]; [Pub. L. 105–244, title I][/us/pl/105/244/tI], § 102(a)(6)(H), Oct. 7, 1998, [112 Stat. 1618][/us/stat/112/1618].)
 
  __Amendments__ 
 
@@ -54,9 +54,9 @@
 [/us/usc/t20/s4703/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs4703%2Fb
 [/us/usc/t20/s4707]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs4707
 [/us/usc/t20/s1001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1001
-[/us/pl/99/661/s1403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F661%2Fs1403
+[/us/pl/99/661/dA/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F661%2FdA%2FtXIV
 [/us/stat/100/4008]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F4008
-[/us/pl/105/244/s102/a/6/H]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2Fs102%2Fa%2F6%2FH
+[/us/pl/105/244/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2FtI
 [/us/stat/112/1618]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F1618
 [/us/pl/105/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244
 [/us/pl/105/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244

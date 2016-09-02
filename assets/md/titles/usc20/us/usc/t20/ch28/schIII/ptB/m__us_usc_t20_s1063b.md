@@ -169,43 +169,43 @@
 
         No institution that is eligible for and receives an award under section 1102a, 1136a, or 1136b of this title for a fiscal year shall be eligible to apply for a grant, or receive grant funds, under this section for the same fiscal year.
 
-([Pub. L. 89–329, title III, § 326][/us/pl/89/329/s326], as added [Pub. L. 99–498, title III, § 301(a)][/us/pl/99/498/s301/a], Oct. 17, 1986, [100 Stat. 1297][/us/stat/100/1297]; amended [Pub. L. 100–50, § 2(a)(9)][/us/pl/100/50/s2/a/9], (10), June 3, 1987, [101 Stat. 335][/us/stat/101/335]; [Pub. L. 102–325, title III, § 303(f)(1)][/us/pl/102/325/s303/f/1], (g), July 23, 1992, [106 Stat. 475][/us/stat/106/475], 476; [Pub. L. 103–208, § 2(a)(9)][/us/pl/103/208/s2/a/9], Dec. 20, 1993, [107 Stat. 2457][/us/stat/107/2457]; [Pub. L. 104–141, § 2][/us/pl/104/141/s2], May 6, 1996, [110 Stat. 1328][/us/stat/110/1328]; [Pub. L. 105–244, title III, § 304(b)][/us/pl/105/244/s304/b], Oct. 7, 1998, [112 Stat. 1643][/us/stat/112/1643]; [Pub. L. 110–315, title III, § 311][/us/pl/110/315/s311], Aug. 14, 2008, [122 Stat. 3178][/us/stat/122/3178].)
+([Pub. L. 89–329, title III][/us/pl/89/329/tIII], § 326, as added [Pub. L. 99–498, title III][/us/pl/99/498/tIII], § 301(a), Oct. 17, 1986, [100 Stat. 1297][/us/stat/100/1297]; amended [Pub. L. 100–50][/us/pl/100/50], § 2(a)(9), (10), June 3, 1987, [101 Stat. 335][/us/stat/101/335]; [Pub. L. 102–325, title III][/us/pl/102/325/tIII], § 303(f)(1), (g), July 23, 1992, [106 Stat. 475][/us/stat/106/475], 476; [Pub. L. 103–208][/us/pl/103/208], § 2(a)(9), Dec. 20, 1993, [107 Stat. 2457][/us/stat/107/2457]; [Pub. L. 104–141][/us/pl/104/141], § 2, May 6, 1996, [110 Stat. 1328][/us/stat/110/1328]; [Pub. L. 105–244, title III][/us/pl/105/244/tIII], § 304(b), Oct. 7, 1998, [112 Stat. 1643][/us/stat/112/1643]; [Pub. L. 110–315, title III][/us/pl/110/315/tIII], § 311, Aug. 14, 2008, [122 Stat. 3178][/us/stat/122/3178].)
 
  __Amendments__ 
 
-    2008—Subsec. (b). [Pub. L. 110–315, § 311(a)][/us/pl/110/315/s311/a], inserted at end “Any funds awarded for such five-year grant period that are obligated during such five-year period may be expended during the 10-year period beginning on the first day of such five-year period.”
+    2008—Subsec. (b). [Pub. L. 110–315][/us/pl/110/315], § 311(a), inserted at end “Any funds awarded for such five-year grant period that are obligated during such five-year period may be expended during the 10-year period beginning on the first day of such five-year period.”
 
-    Subsec. (c)(5). [Pub. L. 110–315, § 311(b)(1)][/us/pl/110/315/s311/b/1], substituted “establishing or improving” for “establish or improve”.
+    Subsec. (c)(5). [Pub. L. 110–315][/us/pl/110/315], § 311(b)(1), substituted “establishing or improving” for “establish or improve”.
 
-    Subsec. (c)(6). [Pub. L. 110–315, § 311(b)(2)][/us/pl/110/315/s311/b/2], substituted “assisting” for “assist” and struck out “and” after semicolon.
+    Subsec. (c)(6). [Pub. L. 110–315][/us/pl/110/315], § 311(b)(2), substituted “assisting” for “assist” and struck out “and” after semicolon.
 
-    Subsec. (c)(8) to (12). [Pub. L. 110–315, § 311(b)(3)][/us/pl/110/315/s311/b/3], (4), added pars. (8) to (12).
+    Subsec. (c)(8) to (12). [Pub. L. 110–315][/us/pl/110/315], § 311(b)(3), (4), added pars. (8) to (12).
 
-    Subsec. (e)(1). [Pub. L. 110–315, § 311(c)(1)(A)][/us/pl/110/315/s311/c/1/A], inserted a colon after “the following” in introductory provisions.
+    Subsec. (e)(1). [Pub. L. 110–315][/us/pl/110/315], § 311(c)(1)(A), inserted a colon after “the following” in introductory provisions.
 
-    Subsec. (e)(1)(S) to (X). [Pub. L. 110–315, § 311(c)(1)(B)][/us/pl/110/315/s311/c/1/B]–(D), added subpars. (S) to (X).
+    Subsec. (e)(1)(S) to (X). [Pub. L. 110–315][/us/pl/110/315], § 311(c)(1)(B)–(D), added subpars. (S) to (X).
 
-    Subsec. (e)(2)(A). [Pub. L. 110–315, § 311(c)(3)][/us/pl/110/315/s311/c/3], inserted “in law or” after “instruction” and substituted “mathematics, psychometrics, or” for “mathematics, or”.
+    Subsec. (e)(2)(A). [Pub. L. 110–315][/us/pl/110/315], § 311(c)(3), inserted “in law or” after “instruction” and substituted “mathematics, psychometrics, or” for “mathematics, or”.
 
-    Subsec. (e)(3). [Pub. L. 110–315, § 311(c)(2)][/us/pl/110/315/s311/c/2], substituted “2008” for “1998” and “subparagraphs (S) through (X)” for “subparagraphs (Q) and (R)”.
+    Subsec. (e)(3). [Pub. L. 110–315][/us/pl/110/315], § 311(c)(2), substituted “2008” for “1998” and “subparagraphs (S) through (X)” for “subparagraphs (Q) and (R)”.
 
-    Subsec. (e)(4). [Pub. L. 110–315, § 311(c)(4)][/us/pl/110/315/s311/c/4], struck out “or university system” after “higher education”.
+    Subsec. (e)(4). [Pub. L. 110–315][/us/pl/110/315], § 311(c)(4), struck out “or university system” after “higher education”.
 
-    Subsec. (f)(1). [Pub. L. 110–315, § 311(d)(1)][/us/pl/110/315/s311/d/1], substituted “$56,900,000” for “$26,600,000” and “through (R)” for “through (P)”.
+    Subsec. (f)(1). [Pub. L. 110–315][/us/pl/110/315], § 311(d)(1), substituted “$56,900,000” for “$26,600,000” and “through (R)” for “through (P)”.
 
-    Subsec. (f)(2). [Pub. L. 110–315, § 311(d)(2)][/us/pl/110/315/s311/d/2], substituted “$56,900,000, but not in excess of $62,900,000” for “$26,600,000, but not in excess of $28,600,000” and “subparagraphs (S) through (X)” for “subparagraphs (Q) and (R)”.
+    Subsec. (f)(2). [Pub. L. 110–315][/us/pl/110/315], § 311(d)(2), substituted “$56,900,000, but not in excess of $62,900,000” for “$26,600,000, but not in excess of $28,600,000” and “subparagraphs (S) through (X)” for “subparagraphs (Q) and (R)”.
 
-    Subsec. (f)(3). [Pub. L. 110–315, § 311(d)(3)][/us/pl/110/315/s311/d/3], in introductory provisions, substituted “$62,900,000” for “$28,600,000” and “through (X)” for “through (R)”.
+    Subsec. (f)(3). [Pub. L. 110–315][/us/pl/110/315], § 311(d)(3), in introductory provisions, substituted “$62,900,000” for “$28,600,000” and “through (X)” for “through (R)”.
 
-    Subsec. (g). [Pub. L. 110–315, § 311(e)][/us/pl/110/315/s311/e], substituted “2008” for “1998” in two places.
+    Subsec. (g). [Pub. L. 110–315][/us/pl/110/315], § 311(e), substituted “2008” for “1998” in two places.
 
-    Subsec. (h). [Pub. L. 110–315, § 311(f)][/us/pl/110/315/s311/f], added subsec. (h).
+    Subsec. (h). [Pub. L. 110–315][/us/pl/110/315], § 311(f), added subsec. (h).
 
-    1998—Subsec. (a)(1). [Pub. L. 105–244, § 304(b)(1)(A)(i)][/us/pl/105/244/s304/b/1/A/i], inserted “in mathematics, engineering, or the physical or natural sciences” after “graduate education opportunities”.
+    1998—Subsec. (a)(1). [Pub. L. 105–244][/us/pl/105/244], § 304(b)(1)(A)(i), inserted “in mathematics, engineering, or the physical or natural sciences” after “graduate education opportunities”.
 
-    Subsec. (a)(2). [Pub. L. 105–244, § 304(b)(1)(A)(ii)][/us/pl/105/244/s304/b/1/A/ii], substituted “$1,000,000 may” for “$500,000 may” and “, except that no institution shall be required to match any portion of the first $1,000,000 of the institution’s award from the Secretary. After funds are made available to each eligible institution under the funding rules described in subsection (f) of this section, the Secretary shall distribute, on a pro rata basis, any amounts which were not so made available (by reason of the failure of an institution to comply with the matching requirements of this paragraph) among the institutions that have complied with such matching requirement.” for “except that the Morehouse School of Medicine shall receive at least $3,000,000.”
+    Subsec. (a)(2). [Pub. L. 105–244][/us/pl/105/244], § 304(b)(1)(A)(ii), substituted “$1,000,000 may” for “$500,000 may” and “, except that no institution shall be required to match any portion of the first $1,000,000 of the institution’s award from the Secretary. After funds are made available to each eligible institution under the funding rules described in subsection (f) of this section, the Secretary shall distribute, on a pro rata basis, any amounts which were not so made available (by reason of the failure of an institution to comply with the matching requirements of this paragraph) among the institutions that have complied with such matching requirement.” for “except that the Morehouse School of Medicine shall receive at least $3,000,000.”
 
-    Subsec. (c). [Pub. L. 105–244, § 304(b)(2)][/us/pl/105/244/s304/b/2], added pars. (1) to (7) and struck out former pars. (1) to (3) which read as follows:
+    Subsec. (c). [Pub. L. 105–244][/us/pl/105/244], § 304(b)(2), added pars. (1) to (7) and struck out former pars. (1) to (3) which read as follows:
 
     “(1) any of the purposes enumerated under [section 1062 of this title][/us/usc/t20/s1062];
 
@@ -213,43 +213,43 @@
 
     “(3) to assist in the establishment or maintenance of an institutional endowment to facilitate financial independence pursuant to [section 1065 of this title][/us/usc/t20/s1065].”
 
-    Subsec. (d)(2). [Pub. L. 105–244, § 304(b)(1)(B)][/us/pl/105/244/s304/b/1/B], substituted “$1,000,000” for “$500,000”.
+    Subsec. (d)(2). [Pub. L. 105–244][/us/pl/105/244], § 304(b)(1)(B), substituted “$1,000,000” for “$500,000”.
 
-    Subsec. (e)(1). [Pub. L. 105–244, § 304(b)(3)(A)(i)][/us/pl/105/244/s304/b/3/A/i], substituted “are the following” for “include—” in introductory provisions.
+    Subsec. (e)(1). [Pub. L. 105–244][/us/pl/105/244], § 304(b)(3)(A)(i), substituted “are the following” for “include—” in introductory provisions.
 
-    Subsec. (e)(1)(E) to (J). [Pub. L. 105–244, § 304(b)(3)(A)(ii)][/us/pl/105/244/s304/b/3/A/ii], inserted “and other qualified graduate programs” before semicolon at end.
+    Subsec. (e)(1)(E) to (J). [Pub. L. 105–244][/us/pl/105/244], § 304(b)(3)(A)(ii), inserted “and other qualified graduate programs” before semicolon at end.
 
-    Subsec. (e)(1)(P). [Pub. L. 105–244, § 304(b)(3)(A)(iv)(I)][/us/pl/105/244/s304/b/3/A/iv/I], inserted “University” after “State”.
+    Subsec. (e)(1)(P). [Pub. L. 105–244][/us/pl/105/244], § 304(b)(3)(A)(iv)(I), inserted “University” after “State”.
 
-    Subsec. (e)(1)(Q), (R). [Pub. L. 105–244, § 304(b)(3)(A)(iii)][/us/pl/105/244/s304/b/3/A/iii], (iv)(II), (III), added subpars. (Q) and (R).
+    Subsec. (e)(1)(Q), (R). [Pub. L. 105–244][/us/pl/105/244], § 304(b)(3)(A)(iii), (iv)(II), (III), added subpars. (Q) and (R).
 
-    Subsec. (e)(2). [Pub. L. 105–244, § 304(b)(3)(B)][/us/pl/105/244/s304/b/3/B], added par. (2) and struck out heading and text of former par. (2). Text read as follows: “For the purposes of this section, the term ‘qualified graduate program’ means a graduate or professional program that—
+    Subsec. (e)(2). [Pub. L. 105–244][/us/pl/105/244], § 304(b)(3)(B), added par. (2) and struck out heading and text of former par. (2). Text read as follows: “For the purposes of this section, the term ‘qualified graduate program’ means a graduate or professional program that—
 
     “(A) provides a program of instruction in the physical or natural sciences, engineering, mathematics, or other scientific discipline in which African Americans are underrepresented; and
 
     “(B) has students enrolled in such program at the time of application for a grant under this section.”
 
-    Subsec. (e)(3). [Pub. L. 105–244, § 304(b)(3)(B)][/us/pl/105/244/s304/b/3/B], added par. (3) and struck out heading and text of former par. (3). Text read as follows: “Graduate institutions that were awarded grants under this section prior to October 1, 1992 shall continue to receive such grant payments, regardless of the eligibility of the graduate institutions described in subparagraphs (F) through (P), until such grant period has expired or September 30, 1993, whichever is later.”
+    Subsec. (e)(3). [Pub. L. 105–244][/us/pl/105/244], § 304(b)(3)(B), added par. (3) and struck out heading and text of former par. (3). Text read as follows: “Graduate institutions that were awarded grants under this section prior to October 1, 1992 shall continue to receive such grant payments, regardless of the eligibility of the graduate institutions described in subparagraphs (F) through (P), until such grant period has expired or September 30, 1993, whichever is later.”
 
-    Subsec. (e)(5). [Pub. L. 105–244, § 304(b)(3)(C)][/us/pl/105/244/s304/b/3/C], added par. (5).
+    Subsec. (e)(5). [Pub. L. 105–244][/us/pl/105/244], § 304(b)(3)(C), added par. (5).
 
-    Subsec. (f). [Pub. L. 105–244, § 304(b)(4)(A)][/us/pl/105/244/s304/b/4/A], substituted “Subject to subsection (g), of the amount appropriated” for “Of the amount appropriated” in introductory provisions.
+    Subsec. (f). [Pub. L. 105–244][/us/pl/105/244], § 304(b)(4)(A), substituted “Subject to subsection (g), of the amount appropriated” for “Of the amount appropriated” in introductory provisions.
 
-    Subsec. (f)(1). [Pub. L. 105–244, § 304(b)(4)(B)][/us/pl/105/244/s304/b/4/B], substituted “$26,600,000” for “$12,000,000” and “(A) through (P)” for “(A) through (E)”.
+    Subsec. (f)(1). [Pub. L. 105–244][/us/pl/105/244], § 304(b)(4)(B), substituted “$26,600,000” for “$12,000,000” and “(A) through (P)” for “(A) through (E)”.
 
-    Subsec. (f)(2), (3). [Pub. L. 105–244, § 304(b)(4)(C)][/us/pl/105/244/s304/b/4/C], added pars. (2) and (3) and struck out former par. (2) which read as follows: “any amount appropriated in excess of $12,000,000 shall be available—
+    Subsec. (f)(2), (3). [Pub. L. 105–244][/us/pl/105/244], § 304(b)(4)(C), added pars. (2) and (3) and struck out former par. (2) which read as follows: “any amount appropriated in excess of $12,000,000 shall be available—
 
     “(A) for the purposes of making grants, in equal amounts not to exceed $500,000, to institutions or programs described in subparagraphs (F) through (P) of subsection (e)(1) of this section; and
 
     “(B) secondly for the purposes of making grants to institutions or programs described in subparagraphs (A) through (P) of subsection (e)(1) of this section.”
 
-    Subsec. (g). [Pub. L. 105–244, § 304(b)(5)][/us/pl/105/244/s304/b/5], added subsec. (g).
+    Subsec. (g). [Pub. L. 105–244][/us/pl/105/244], § 304(b)(5), added subsec. (g).
 
     1996—Subsec. (b). [Pub. L. 104–141][/us/pl/104/141] struck out at end “No more than two 5-year grants (for a period of not more than 10 years) may be made to any one undergraduate or postgraduate institution.”
 
     1993—Subsec. (e)(2). [Pub. L. 103–208][/us/pl/103/208] redesignated subpar. (C) as (B) and struck out former subpar. (B) which read as follows: “has been accredited by a nationally recognized accrediting agency or association or has been approved by a nationally recognized approving agency; and”.
 
-    1992—Subsec. (e). [Pub. L. 102–325, § 303(f)(1)][/us/pl/102/325/s303/f/1], substituted “Eligibility” for “Eligible professional or graduate institutions” in heading and amended text generally. Prior to amendment, text read as follows: “Independent professional or graduate institutions eligible for grants under subsection (a) of this section include—
+    1992—Subsec. (e). [Pub. L. 102–325][/us/pl/102/325], § 303(f)(1), substituted “Eligibility” for “Eligible professional or graduate institutions” in heading and amended text generally. Prior to amendment, text read as follows: “Independent professional or graduate institutions eligible for grants under subsection (a) of this section include—
 
     “(1) Morehouse School of Medicine;
 
@@ -261,11 +261,11 @@
 
     “(5) Tuskegee Institute School of Veterinary Medicine.”
 
-    Subsec. (f). [Pub. L. 102–325, § 303(g)][/us/pl/102/325/s303/g], added subsec. (f).
+    Subsec. (f). [Pub. L. 102–325][/us/pl/102/325], § 303(g), added subsec. (f).
 
-    1987—Subsec. (a)(2). [Pub. L. 100–50, § 2(a)(9)][/us/pl/100/50/s2/a/9], inserted “except that the Morehouse School of Medicine shall receive at least $3,000,000”.
+    1987—Subsec. (a)(2). [Pub. L. 100–50][/us/pl/100/50], § 2(a)(9), inserted “except that the Morehouse School of Medicine shall receive at least $3,000,000”.
 
-    Subsec. (c)(3). [Pub. L. 100–50, § 2(a)(10)][/us/pl/100/50/s2/a/10], made technical amendment to reference to [section 1065 of this title][/us/usc/t20/s1065] to correct reference to corresponding section of original act.
+    Subsec. (c)(3). [Pub. L. 100–50][/us/pl/100/50], § 2(a)(10), made technical amendment to reference to [section 1065 of this title][/us/usc/t20/s1065] to correct reference to corresponding section of original act.
 
  __Effective Date of 1998 Amendment__ 
 
@@ -285,7 +285,7 @@
 
  __Congressional Findings__ 
 
-[Pub. L. 104–141, § 1][/us/pl/104/141/s1], May 6, 1996, [110 Stat. 1328][/us/stat/110/1328], provided that: 
+[Pub. L. 104–141][/us/pl/104/141], § 1, May 6, 1996, [110 Stat. 1328][/us/stat/110/1328], provided that: 
 
 > “The Congress finds the following:
 
@@ -305,58 +305,58 @@
 ----------
 
 [/us/usc/t20/s1065]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1065
-[/us/pl/89/329/s326]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2Fs326
-[/us/pl/99/498/s301/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F498%2Fs301%2Fa
+[/us/pl/89/329/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2FtIII
+[/us/pl/99/498/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F498%2FtIII
 [/us/stat/100/1297]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1297
-[/us/pl/100/50/s2/a/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F50%2Fs2%2Fa%2F9
+[/us/pl/100/50]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F50
 [/us/stat/101/335]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F335
-[/us/pl/102/325/s303/f/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325%2Fs303%2Ff%2F1
+[/us/pl/102/325/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325%2FtIII
 [/us/stat/106/475]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F475
-[/us/pl/103/208/s2/a/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F208%2Fs2%2Fa%2F9
+[/us/pl/103/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F208
 [/us/stat/107/2457]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F2457
-[/us/pl/104/141/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F141%2Fs2
+[/us/pl/104/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F141
 [/us/stat/110/1328]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1328
-[/us/pl/105/244/s304/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2Fs304%2Fb
+[/us/pl/105/244/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2FtIII
 [/us/stat/112/1643]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F1643
-[/us/pl/110/315/s311]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2Fs311
+[/us/pl/110/315/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2FtIII
 [/us/stat/122/3178]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3178
-[/us/pl/110/315/s311/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2Fs311%2Fa
-[/us/pl/110/315/s311/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2Fs311%2Fb%2F1
-[/us/pl/110/315/s311/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2Fs311%2Fb%2F2
-[/us/pl/110/315/s311/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2Fs311%2Fb%2F3
-[/us/pl/110/315/s311/c/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2Fs311%2Fc%2F1%2FA
-[/us/pl/110/315/s311/c/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2Fs311%2Fc%2F1%2FB
-[/us/pl/110/315/s311/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2Fs311%2Fc%2F3
-[/us/pl/110/315/s311/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2Fs311%2Fc%2F2
-[/us/pl/110/315/s311/c/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2Fs311%2Fc%2F4
-[/us/pl/110/315/s311/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2Fs311%2Fd%2F1
-[/us/pl/110/315/s311/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2Fs311%2Fd%2F2
-[/us/pl/110/315/s311/d/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2Fs311%2Fd%2F3
-[/us/pl/110/315/s311/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2Fs311%2Fe
-[/us/pl/110/315/s311/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2Fs311%2Ff
-[/us/pl/105/244/s304/b/1/A/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2Fs304%2Fb%2F1%2FA%2Fi
-[/us/pl/105/244/s304/b/1/A/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2Fs304%2Fb%2F1%2FA%2Fii
-[/us/pl/105/244/s304/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2Fs304%2Fb%2F2
+[/us/pl/110/315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315
+[/us/pl/110/315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315
+[/us/pl/110/315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315
+[/us/pl/110/315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315
+[/us/pl/110/315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315
+[/us/pl/110/315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315
+[/us/pl/110/315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315
+[/us/pl/110/315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315
+[/us/pl/110/315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315
+[/us/pl/110/315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315
+[/us/pl/110/315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315
+[/us/pl/110/315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315
+[/us/pl/110/315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315
+[/us/pl/110/315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315
+[/us/pl/105/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244
+[/us/pl/105/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244
+[/us/pl/105/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244
 [/us/usc/t20/s1062]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1062
 [/us/usc/t20/s1065]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1065
-[/us/pl/105/244/s304/b/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2Fs304%2Fb%2F1%2FB
-[/us/pl/105/244/s304/b/3/A/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2Fs304%2Fb%2F3%2FA%2Fi
-[/us/pl/105/244/s304/b/3/A/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2Fs304%2Fb%2F3%2FA%2Fii
-[/us/pl/105/244/s304/b/3/A/iv/I]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2Fs304%2Fb%2F3%2FA%2Fiv%2FI
-[/us/pl/105/244/s304/b/3/A/iii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2Fs304%2Fb%2F3%2FA%2Fiii
-[/us/pl/105/244/s304/b/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2Fs304%2Fb%2F3%2FB
-[/us/pl/105/244/s304/b/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2Fs304%2Fb%2F3%2FB
-[/us/pl/105/244/s304/b/3/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2Fs304%2Fb%2F3%2FC
-[/us/pl/105/244/s304/b/4/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2Fs304%2Fb%2F4%2FA
-[/us/pl/105/244/s304/b/4/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2Fs304%2Fb%2F4%2FB
-[/us/pl/105/244/s304/b/4/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2Fs304%2Fb%2F4%2FC
-[/us/pl/105/244/s304/b/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2Fs304%2Fb%2F5
+[/us/pl/105/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244
+[/us/pl/105/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244
+[/us/pl/105/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244
+[/us/pl/105/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244
+[/us/pl/105/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244
+[/us/pl/105/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244
+[/us/pl/105/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244
+[/us/pl/105/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244
+[/us/pl/105/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244
+[/us/pl/105/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244
+[/us/pl/105/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244
+[/us/pl/105/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244
 [/us/pl/104/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F141
 [/us/pl/103/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F208
-[/us/pl/102/325/s303/f/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325%2Fs303%2Ff%2F1
-[/us/pl/102/325/s303/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325%2Fs303%2Fg
-[/us/pl/100/50/s2/a/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F50%2Fs2%2Fa%2F9
-[/us/pl/100/50/s2/a/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F50%2Fs2%2Fa%2F10
+[/us/pl/102/325]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325
+[/us/pl/102/325]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325
+[/us/pl/100/50]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F50
+[/us/pl/100/50]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F50
 [/us/usc/t20/s1065]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1065
 [/us/pl/105/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244
 [/us/pl/105/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244
@@ -373,7 +373,7 @@
 [/us/pl/99/498]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F498
 [/us/pl/100/50/s27]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F50%2Fs27
 [/us/usc/t20/s1001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1001
-[/us/pl/104/141/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F141%2Fs1
+[/us/pl/104/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F141
 [/us/stat/110/1328]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1328
 [/us/usc/t20/s1063b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1063b
 

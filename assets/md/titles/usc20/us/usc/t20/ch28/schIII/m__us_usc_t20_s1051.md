@@ -39,25 +39,25 @@
 
         It is the purpose of this subchapter to assist such institutions in equalizing educational opportunity through a program of Federal assistance.
 
-([Pub. L. 89–329, title III, § 301][/us/pl/89/329/s301], as added [Pub. L. 99–498, title III, § 301(a)][/us/pl/99/498/s301/a], Oct. 17, 1986, [100 Stat. 1290][/us/stat/100/1290]; amended [Pub. L. 102–325, title III, § 301][/us/pl/102/325/s301], July 23, 1992, [106 Stat. 472][/us/stat/106/472]; [Pub. L. 103–208, § 2(a)(4)][/us/pl/103/208/s2/a/4], Dec. 20, 1993, [107 Stat. 2457][/us/stat/107/2457]; [Pub. L. 105–244, title III, § 302][/us/pl/105/244/s302], Oct. 7, 1998, [112 Stat. 1637][/us/stat/112/1637].)
+([Pub. L. 89–329, title III][/us/pl/89/329/tIII], § 301, as added [Pub. L. 99–498, title III][/us/pl/99/498/tIII], § 301(a), Oct. 17, 1986, [100 Stat. 1290][/us/stat/100/1290]; amended [Pub. L. 102–325, title III][/us/pl/102/325/tIII], § 301, July 23, 1992, [106 Stat. 472][/us/stat/106/472]; [Pub. L. 103–208][/us/pl/103/208], § 2(a)(4), Dec. 20, 1993, [107 Stat. 2457][/us/stat/107/2457]; [Pub. L. 105–244, title III][/us/pl/105/244/tIII], § 302, Oct. 7, 1998, [112 Stat. 1637][/us/stat/112/1637].)
 
  __Prior Provisions__ 
 
-    A prior section 1051, [Pub. L. 89–329, title III, § 301][/us/pl/89/329/s301], as added [Pub. L. 96–374, title III, § 301][/us/pl/96/374/s301], Oct. 3, 1980, [94 Stat. 1390][/us/stat/94/1390], stated Congressional findings and purposes for program of providing Federal assistance to institutions of higher education, prior to the general revision of this subchapter by [Pub. L. 99–498][/us/pl/99/498].
+    A prior section 1051, [Pub. L. 89–329, title III][/us/pl/89/329/tIII], § 301, as added [Pub. L. 96–374, title III][/us/pl/96/374/tIII], § 301, Oct. 3, 1980, [94 Stat. 1390][/us/stat/94/1390], stated Congressional findings and purposes for program of providing Federal assistance to institutions of higher education, prior to the general revision of this subchapter by [Pub. L. 99–498][/us/pl/99/498].
 
-    Another prior section 1051, [Pub. L. 89–329, title III, § 301][/us/pl/89/329/s301], Nov. 8, 1965, [79 Stat. 1229][/us/stat/79/1229]; [Pub. L. 89–752, § 10][/us/pl/89/752/s10], Nov. 3, 1966, [80 Stat. 1243][/us/stat/80/1243]; [Pub. L. 90–575, title II][/us/pl/90/575], §§ 221, 222, Oct. 16, 1968, [82 Stat. 1038][/us/stat/82/1038]; [Pub. L. 92–318, title I, § 121(a)][/us/pl/92/318/s121/a], June 23, 1972, [86 Stat. 241][/us/stat/86/241]; [Pub. L. 94–482, title I, § 111][/us/pl/94/482/s111], Oct. 12, 1976, [90 Stat. 2091][/us/stat/90/2091]; [Pub. L. 96–49, § 4][/us/pl/96/49/s4], Aug. 13, 1979, [93 Stat. 351][/us/stat/93/351], related to a program of special assistance to strengthen the academic quality of developing institutions, prior to the general revision of this subchapter by [Pub. L. 96–374][/us/pl/96/374].
+    Another prior section 1051, [Pub. L. 89–329, title III][/us/pl/89/329/tIII], § 301, Nov. 8, 1965, [79 Stat. 1229][/us/stat/79/1229]; [Pub. L. 89–752][/us/pl/89/752], § 10, Nov. 3, 1966, [80 Stat. 1243][/us/stat/80/1243]; [Pub. L. 90–575, title II][/us/pl/90/575/tII], §§ 221, 222, Oct. 16, 1968, [82 Stat. 1038][/us/stat/82/1038]; [Pub. L. 92–318, title I][/us/pl/92/318/tI], § 121(a), June 23, 1972, [86 Stat. 241][/us/stat/86/241]; [Pub. L. 94–482, title I][/us/pl/94/482/tI], § 111, Oct. 12, 1976, [90 Stat. 2091][/us/stat/90/2091]; [Pub. L. 96–49][/us/pl/96/49], § 4, Aug. 13, 1979, [93 Stat. 351][/us/stat/93/351], related to a program of special assistance to strengthen the academic quality of developing institutions, prior to the general revision of this subchapter by [Pub. L. 96–374][/us/pl/96/374].
 
     Prior sections 1052 to 1056 were omitted in the general revision of this subchapter by [Pub. L. 96–374][/us/pl/96/374].
 
-    Section 1052, [Pub. L. 89–329, title III, § 302][/us/pl/89/329/s302], Nov. 8, 1965, [79 Stat. 1229][/us/stat/79/1229]; [Pub. L. 92–318, title I, § 121(a)][/us/pl/92/318/s121/a], June 23, 1972, [86 Stat. 241][/us/stat/86/241]; [Pub. L. 93–380, title VIII, § 832][/us/pl/93/380/s832], Aug. 21, 1974, [88 Stat. 603][/us/stat/88/603]; [Pub. L. 94–482, title I, § 112][/us/pl/94/482/s112], Oct. 12, 1976, [90 Stat. 2091][/us/stat/90/2091], related to eligibility for special assistance.
+    Section 1052, [Pub. L. 89–329, title III][/us/pl/89/329/tIII], § 302, Nov. 8, 1965, [79 Stat. 1229][/us/stat/79/1229]; [Pub. L. 92–318, title I][/us/pl/92/318/tI], § 121(a), June 23, 1972, [86 Stat. 241][/us/stat/86/241]; [Pub. L. 93–380, title VIII][/us/pl/93/380/tVIII], § 832, Aug. 21, 1974, [88 Stat. 603][/us/stat/88/603]; [Pub. L. 94–482, title I][/us/pl/94/482/tI], § 112, Oct. 12, 1976, [90 Stat. 2091][/us/stat/90/2091], related to eligibility for special assistance.
 
-    Section 1053, [Pub. L. 89–329, title III, § 303][/us/pl/89/329/s303], Nov. 8, 1965, [79 Stat. 1230][/us/stat/79/1230]; [Pub. L. 91–230, title IV, § 401(h)(4)][/us/pl/91/230/s401/h/4], Apr. 13, 1970, [84 Stat. 174][/us/stat/84/174]; [Pub. L. 92–318, title I, § 121(a)][/us/pl/92/318/s121/a], title III, § 301(a)(1), June 23, 1972, [86 Stat. 242][/us/stat/86/242], 326, provided for the establishment of an Advisory Council on Developing Institutions.
+    Section 1053, [Pub. L. 89–329, title III][/us/pl/89/329/tIII], § 303, Nov. 8, 1965, [79 Stat. 1230][/us/stat/79/1230]; [Pub. L. 91–230, title IV][/us/pl/91/230/tIV], § 401(h)(4), Apr. 13, 1970, [84 Stat. 174][/us/stat/84/174]; [Pub. L. 92–318, title I][/us/pl/92/318/tI], § 121(a), title III, § 301(a)(1), June 23, 1972, [86 Stat. 242][/us/stat/86/242], 326, provided for the establishment of an Advisory Council on Developing Institutions.
 
-    Section 1054, [Pub. L. 89–329, title III, § 304][/us/pl/89/329/s304], Nov. 8, 1965, [79 Stat. 1230][/us/stat/79/1230]; [Pub. L. 92–318, title I, § 121(a)][/us/pl/92/318/s121/a], June 23, 1972, [86 Stat. 243][/us/stat/86/243], authorized the Commissioner of Education to make grants and awards.
+    Section 1054, [Pub. L. 89–329, title III][/us/pl/89/329/tIII], § 304, Nov. 8, 1965, [79 Stat. 1230][/us/stat/79/1230]; [Pub. L. 92–318, title I][/us/pl/92/318/tI], § 121(a), June 23, 1972, [86 Stat. 243][/us/stat/86/243], authorized the Commissioner of Education to make grants and awards.
 
-    Section 1055, [Pub. L. 89–329, title III, § 305][/us/pl/89/329/s305], Nov. 8, 1965, [79 Stat. 1231][/us/stat/79/1231]; [Pub. L. 92–318, title I, § 121(a)][/us/pl/92/318/s121/a], June 23, 1972, [86 Stat. 244][/us/stat/86/244], related to assistance to developing institutions under other programs.
+    Section 1055, [Pub. L. 89–329, title III][/us/pl/89/329/tIII], § 305, Nov. 8, 1965, [79 Stat. 1231][/us/stat/79/1231]; [Pub. L. 92–318, title I][/us/pl/92/318/tI], § 121(a), June 23, 1972, [86 Stat. 244][/us/stat/86/244], related to assistance to developing institutions under other programs.
 
-    Section 1056, [Pub. L. 89–329, title III, § 306][/us/pl/89/329/s306], as added Pub L. 90–575, title II, § 223(a), Oct. 16, 1968, [82 Stat. 1038][/us/stat/82/1038]; amended [Pub. L. 92–318, title I, § 121(a)][/us/pl/92/318/s121/a], June 23, 1972, [86 Stat. 245][/us/stat/86/245], prohibited the use of funds for religious activities.
+    Section 1056, [Pub. L. 89–329, title III][/us/pl/89/329/tIII], § 306, as added Pub L. 90–575, title II, § 223(a), Oct. 16, 1968, [82 Stat. 1038][/us/stat/82/1038]; amended [Pub. L. 92–318, title I][/us/pl/92/318/tI], § 121(a), June 23, 1972, [86 Stat. 245][/us/stat/86/245], prohibited the use of funds for religious activities.
 
  __Amendments__ 
 
@@ -65,11 +65,11 @@
 
     1993—Subsec. (a)(2). [Pub. L. 103–208][/us/pl/103/208] struck out the comma after “planning”.
 
-    1992—Subsec. (a)(1). [Pub. L. 102–325, § 301(1)][/us/pl/102/325/s301/1], amended par. (1) generally. Prior to amendment, par. (1) read as follows: “many institutions of higher education in this era of declining enrollments and scarce resources face problems which threaten their ability to survive;”.
+    1992—Subsec. (a)(1). [Pub. L. 102–325][/us/pl/102/325], § 301(1), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “many institutions of higher education in this era of declining enrollments and scarce resources face problems which threaten their ability to survive;”.
 
-    Subsec. (a)(2). [Pub. L. 102–325, § 301(2)][/us/pl/102/325/s301/2], struck out “recruitment activities,” after “long-range planning,”.
+    Subsec. (a)(2). [Pub. L. 102–325][/us/pl/102/325], § 301(2), struck out “recruitment activities,” after “long-range planning,”.
 
-    Subsec. (a)(5). [Pub. L. 102–325, § 301(3)][/us/pl/102/325/s301/3], amended par. (5) generally. Prior to amendment, par. (5) read as follows: “providing a minimum level of assistance to all categories of eligible institutions will assure the continued participation of the institutions in the program established in this subchapter and enhance their role in providing access and quality education to low-income and minority students;”.
+    Subsec. (a)(5). [Pub. L. 102–325][/us/pl/102/325], § 301(3), amended par. (5) generally. Prior to amendment, par. (5) read as follows: “providing a minimum level of assistance to all categories of eligible institutions will assure the continued participation of the institutions in the program established in this subchapter and enhance their role in providing access and quality education to low-income and minority students;”.
 
  __Effective Date of 1998 Amendment__ 
 
@@ -77,7 +77,7 @@
 
  __Effective Date of 1993 Amendment__ 
 
-[Pub. L. 103–208, § 5][/us/pl/103/208/s5], Dec. 20, 1993, [107 Stat. 2488][/us/stat/107/2488], provided that:
+[Pub. L. 103–208][/us/pl/103/208], § 5, Dec. 20, 1993, [107 Stat. 2488][/us/stat/107/2488], provided that:
 
 >     “(a)  __In general__  __.—__ 
 
@@ -123,7 +123,7 @@
 
  __Effective Date__ 
 
-[Pub. L. 99–498, title III, § 301(b)][/us/pl/99/498/s301/b], Oct. 17, 1986, [100 Stat. 1308][/us/stat/100/1308], provided that: 
+[Pub. L. 99–498, title III][/us/pl/99/498/tIII], § 301(b), Oct. 17, 1986, [100 Stat. 1308][/us/stat/100/1308], provided that: 
 
 > “The amendment made by subsection (a) \[enacting this subchapter\] shall take effect July 1, 1987.”
 
@@ -134,69 +134,69 @@
 ----------
 ----------
 
-[/us/pl/89/329/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2Fs301
-[/us/pl/99/498/s301/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F498%2Fs301%2Fa
+[/us/pl/89/329/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2FtIII
+[/us/pl/99/498/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F498%2FtIII
 [/us/stat/100/1290]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1290
-[/us/pl/102/325/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325%2Fs301
+[/us/pl/102/325/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325%2FtIII
 [/us/stat/106/472]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F472
-[/us/pl/103/208/s2/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F208%2Fs2%2Fa%2F4
+[/us/pl/103/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F208
 [/us/stat/107/2457]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F2457
-[/us/pl/105/244/s302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2Fs302
+[/us/pl/105/244/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2FtIII
 [/us/stat/112/1637]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F1637
-[/us/pl/89/329/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2Fs301
-[/us/pl/96/374/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F374%2Fs301
+[/us/pl/89/329/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2FtIII
+[/us/pl/96/374/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F374%2FtIII
 [/us/stat/94/1390]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F1390
 [/us/pl/99/498]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F498
-[/us/pl/89/329/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2Fs301
+[/us/pl/89/329/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2FtIII
 [/us/stat/79/1229]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F1229
-[/us/pl/89/752/s10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F752%2Fs10
+[/us/pl/89/752]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F752
 [/us/stat/80/1243]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F1243
-[/us/pl/90/575]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F575
+[/us/pl/90/575/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F575%2FtII
 [/us/stat/82/1038]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F1038
-[/us/pl/92/318/s121/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F318%2Fs121%2Fa
+[/us/pl/92/318/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F318%2FtI
 [/us/stat/86/241]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F241
-[/us/pl/94/482/s111]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F482%2Fs111
+[/us/pl/94/482/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F482%2FtI
 [/us/stat/90/2091]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2091
-[/us/pl/96/49/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F49%2Fs4
+[/us/pl/96/49]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F49
 [/us/stat/93/351]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F351
 [/us/pl/96/374]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F374
 [/us/pl/96/374]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F374
-[/us/pl/89/329/s302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2Fs302
+[/us/pl/89/329/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2FtIII
 [/us/stat/79/1229]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F1229
-[/us/pl/92/318/s121/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F318%2Fs121%2Fa
+[/us/pl/92/318/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F318%2FtI
 [/us/stat/86/241]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F241
-[/us/pl/93/380/s832]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F380%2Fs832
+[/us/pl/93/380/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F380%2FtVIII
 [/us/stat/88/603]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F603
-[/us/pl/94/482/s112]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F482%2Fs112
+[/us/pl/94/482/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F482%2FtI
 [/us/stat/90/2091]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2091
-[/us/pl/89/329/s303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2Fs303
+[/us/pl/89/329/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2FtIII
 [/us/stat/79/1230]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F1230
-[/us/pl/91/230/s401/h/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F230%2Fs401%2Fh%2F4
+[/us/pl/91/230/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F230%2FtIV
 [/us/stat/84/174]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F174
-[/us/pl/92/318/s121/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F318%2Fs121%2Fa
+[/us/pl/92/318/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F318%2FtI
 [/us/stat/86/242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F242
-[/us/pl/89/329/s304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2Fs304
+[/us/pl/89/329/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2FtIII
 [/us/stat/79/1230]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F1230
-[/us/pl/92/318/s121/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F318%2Fs121%2Fa
+[/us/pl/92/318/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F318%2FtI
 [/us/stat/86/243]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F243
-[/us/pl/89/329/s305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2Fs305
+[/us/pl/89/329/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2FtIII
 [/us/stat/79/1231]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F1231
-[/us/pl/92/318/s121/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F318%2Fs121%2Fa
+[/us/pl/92/318/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F318%2FtI
 [/us/stat/86/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F244
-[/us/pl/89/329/s306]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2Fs306
+[/us/pl/89/329/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2FtIII
 [/us/stat/82/1038]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F1038
-[/us/pl/92/318/s121/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F318%2Fs121%2Fa
+[/us/pl/92/318/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F318%2FtI
 [/us/stat/86/245]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F245
 [/us/pl/105/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244
 [/us/pl/103/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F208
-[/us/pl/102/325/s301/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325%2Fs301%2F1
-[/us/pl/102/325/s301/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325%2Fs301%2F2
-[/us/pl/102/325/s301/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325%2Fs301%2F3
+[/us/pl/102/325]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325
+[/us/pl/102/325]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325
+[/us/pl/102/325]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325
 [/us/pl/105/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244
 [/us/pl/105/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244
 [/us/pl/105/244/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2Fs3
 [/us/usc/t20/s1001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1001
-[/us/pl/103/208/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F208%2Fs5
+[/us/pl/103/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F208
 [/us/stat/107/2488]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F2488
 [/us/pl/102/325]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325
 [/us/usc/t20/s1098a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1098a
@@ -205,7 +205,7 @@
 [/us/pl/102/325]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325
 [/us/pl/102/325/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325%2Fs2
 [/us/usc/t20/s1001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1001
-[/us/pl/99/498/s301/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F498%2Fs301%2Fb
+[/us/pl/99/498/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F498%2FtIII
 [/us/stat/100/1308]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1308
 
 

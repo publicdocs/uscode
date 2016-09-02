@@ -41,7 +41,7 @@
 
             Nothing in this subsection shall be construed to authorize the Secretary to require particular policies, procedures, or practices by institutions of higher education with respect to articulation agreements.
 
-([Pub. L. 89–329, title IV, § 486A][/us/pl/89/329/s486A], as added [Pub. L. 110–315, title IV, § 492][/us/pl/110/315/s492], Aug. 14, 2008, [122 Stat. 3307][/us/stat/122/3307].)
+([Pub. L. 89–329, title IV][/us/pl/89/329/tIV], § 486A, as added [Pub. L. 110–315, title IV][/us/pl/110/315/tIV], § 492, Aug. 14, 2008, [122 Stat. 3307][/us/stat/122/3307].)
 
 ----------
 
@@ -50,8 +50,8 @@
 ----------
 ----------
 
-[/us/pl/89/329/s486A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2Fs486A
-[/us/pl/110/315/s492]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2Fs492
+[/us/pl/89/329/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2FtIV
+[/us/pl/110/315/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2FtIV
 [/us/stat/122/3307]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3307
 
 

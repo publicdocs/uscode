@@ -65,6 +65,14 @@ SUBCHAPTER I—IMPROVING THE ACADEMIC ACHIEVEMENT OF THE DISADVANTAGED  </td>
 
   <tr>
 
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs6303b" data-uslm-ref="/us/usc/t20/s6303b">6303b.</a>  </td>
+
+    <td> Direct student services.  </td>
+
+  </tr>
+
+  <tr>
+
     <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs6304" data-uslm-ref="/us/usc/t20/s6304">6304.</a>  </td>
 
     <td> State administration.  </td>
@@ -129,17 +137,9 @@ subpart 1—basic program requirements  </td>
 
   <tr>
 
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs6316" data-uslm-ref="/us/usc/t20/s6316">6316.</a>  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs6316" data-uslm-ref="/us/usc/t20/s6316">6316</a>, <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs6317" data-uslm-ref="/us/usc/t20/s6317">6317.</a>  </td>
 
-    <td> Academic assessment and local educational agency and school improvement.  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs6317" data-uslm-ref="/us/usc/t20/s6317">6317.</a>  </td>
-
-    <td> School support and recognition.  </td>
+    <td> Repealed.  </td>
 
   </tr>
 
@@ -147,7 +147,7 @@ subpart 1—basic program requirements  </td>
 
     <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs6318" data-uslm-ref="/us/usc/t20/s6318">6318.</a>  </td>
 
-    <td> Parental involvement.  </td>
+    <td> Parent and family engagement.  </td>
 
   </tr>
 
@@ -155,7 +155,7 @@ subpart 1—basic program requirements  </td>
 
     <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs6319" data-uslm-ref="/us/usc/t20/s6319">6319.</a>  </td>
 
-    <td> Qualifications for teachers and paraprofessionals.  </td>
+    <td> Repealed.  </td>
 
   </tr>
 
@@ -235,7 +235,7 @@ subpart 2—allocations  </td>
 
     <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs6336" data-uslm-ref="/us/usc/t20/s6336">6336.</a>  </td>
 
-    <td> Adequacy of funding of targeted grants to local educational agencies in fiscal years after fiscal year 2001.  </td>
+    <td> Adequacy of funding to local educational agencies in fiscal years after fiscal year 2001.  </td>
 
   </tr>
 
@@ -267,15 +267,7 @@ subpart 2—allocations  </td>
 
     <td> 
 
-Part B—Student Reading Skills Improvement Grants  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> 
-
-subpart 1—reading first  </td>
+Part B—State Assessment Grants  </td>
 
   </tr>
 
@@ -283,7 +275,7 @@ subpart 1—reading first  </td>
 
     <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs6361" data-uslm-ref="/us/usc/t20/s6361">6361.</a>  </td>
 
-    <td> Purposes.  </td>
+    <td> Grants for State assessments and related activities.  </td>
 
   </tr>
 
@@ -291,7 +283,7 @@ subpart 1—reading first  </td>
 
     <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs6362" data-uslm-ref="/us/usc/t20/s6362">6362.</a>  </td>
 
-    <td> Formula grants to State educational agencies.  </td>
+    <td> State option to conduct assessment system audit.  </td>
 
   </tr>
 
@@ -299,7 +291,7 @@ subpart 1—reading first  </td>
 
     <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs6363" data-uslm-ref="/us/usc/t20/s6363">6363.</a>  </td>
 
-    <td> State formula grant applications.  </td>
+    <td> Allotment of appropriated funds.  </td>
 
   </tr>
 
@@ -307,215 +299,7 @@ subpart 1—reading first  </td>
 
     <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs6364" data-uslm-ref="/us/usc/t20/s6364">6364.</a>  </td>
 
-    <td> Targeted assistance grants.  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs6365" data-uslm-ref="/us/usc/t20/s6365">6365.</a>  </td>
-
-    <td> External evaluation.  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs6366" data-uslm-ref="/us/usc/t20/s6366">6366.</a>  </td>
-
-    <td> National activities.  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs6367" data-uslm-ref="/us/usc/t20/s6367">6367.</a>  </td>
-
-    <td> Information dissemination.  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs6368" data-uslm-ref="/us/usc/t20/s6368">6368.</a>  </td>
-
-    <td> Definitions.  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> 
-
-subpart 2—early reading first  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs6371" data-uslm-ref="/us/usc/t20/s6371">6371.</a>  </td>
-
-    <td> Purposes; definitions.  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs6372" data-uslm-ref="/us/usc/t20/s6372">6372.</a>  </td>
-
-    <td> Local Early Reading First grants.  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs6373" data-uslm-ref="/us/usc/t20/s6373">6373.</a>  </td>
-
-    <td> Federal administration.  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs6374" data-uslm-ref="/us/usc/t20/s6374">6374.</a>  </td>
-
-    <td> Information dissemination.  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs6375" data-uslm-ref="/us/usc/t20/s6375">6375.</a>  </td>
-
-    <td> Reporting requirements.  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs6376" data-uslm-ref="/us/usc/t20/s6376">6376.</a>  </td>
-
-    <td> Evaluation.  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> 
-
-subpart 3—william f. goodling even start family literacy programs  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs6381" data-uslm-ref="/us/usc/t20/s6381">6381.</a>  </td>
-
-    <td> Statement of purpose.  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs6381a" data-uslm-ref="/us/usc/t20/s6381a">6381a.</a>  </td>
-
-    <td> Program authorized.  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs6381b" data-uslm-ref="/us/usc/t20/s6381b">6381b.</a>  </td>
-
-    <td> State educational agency programs.  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs6381c" data-uslm-ref="/us/usc/t20/s6381c">6381c.</a>  </td>
-
-    <td> Uses of funds.  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs6381d" data-uslm-ref="/us/usc/t20/s6381d">6381d.</a>  </td>
-
-    <td> Program elements.  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs6381e" data-uslm-ref="/us/usc/t20/s6381e">6381e.</a>  </td>
-
-    <td> Eligible participants.  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs6381f" data-uslm-ref="/us/usc/t20/s6381f">6381f.</a>  </td>
-
-    <td> Applications.  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs6381g" data-uslm-ref="/us/usc/t20/s6381g">6381g.</a>  </td>
-
-    <td> Award of subgrants.  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs6381h" data-uslm-ref="/us/usc/t20/s6381h">6381h.</a>  </td>
-
-    <td> Evaluation.  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs6381i" data-uslm-ref="/us/usc/t20/s6381i">6381i.</a>  </td>
-
-    <td> Indicators of program quality.  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs6381j" data-uslm-ref="/us/usc/t20/s6381j">6381j.</a>  </td>
-
-    <td> Research.  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs6381k" data-uslm-ref="/us/usc/t20/s6381k">6381k.</a>  </td>
-
-    <td> Construction.  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> 
-
-subpart 4—improving literacy through school libraries  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs6383" data-uslm-ref="/us/usc/t20/s6383">6383.</a>  </td>
-
-    <td> Improving literacy through school libraries.  </td>
+    <td> Innovative assessment and accountability demonstration authority.  </td>
 
   </tr>
 
@@ -531,7 +315,7 @@ Part C—Education of Migratory Children  </td>
 
     <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs6391" data-uslm-ref="/us/usc/t20/s6391">6391.</a>  </td>
 
-    <td> Program purpose.  </td>
+    <td> Program purposes.  </td>
 
   </tr>
 
@@ -699,7 +483,7 @@ subpart 1—state agency programs  </td>
 
     <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs6439" data-uslm-ref="/us/usc/t20/s6439">6439.</a>  </td>
 
-    <td> Evaluation; technical assistance; annual model program.  </td>
+    <td> Technical assistance.  </td>
 
   </tr>
 
@@ -787,7 +571,7 @@ subpart 3—general provisions  </td>
 
     <td> 
 
-Part E—National Assessment of Subchapter I  </td>
+Part E—Flexibility for Equitable Per-Pupil Funding  </td>
 
   </tr>
 
@@ -795,31 +579,7 @@ Part E—National Assessment of Subchapter I  </td>
 
     <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs6491" data-uslm-ref="/us/usc/t20/s6491">6491.</a>  </td>
 
-    <td> Evaluations.  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs6492" data-uslm-ref="/us/usc/t20/s6492">6492.</a>  </td>
-
-    <td> Demonstrations of innovative practices.  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs6493" data-uslm-ref="/us/usc/t20/s6493">6493.</a>  </td>
-
-    <td> Assessment evaluation.  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs6494" data-uslm-ref="/us/usc/t20/s6494">6494.</a>  </td>
-
-    <td> Close Up fellowship program.  </td>
+    <td> Flexibility for equitable per-pupil funding.  </td>
 
   </tr>
 
@@ -827,279 +587,7 @@ Part E—National Assessment of Subchapter I  </td>
 
     <td> 
 
-Part F—Comprehensive School Reform  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs6511" data-uslm-ref="/us/usc/t20/s6511">6511.</a>  </td>
-
-    <td> Purpose.  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs6512" data-uslm-ref="/us/usc/t20/s6512">6512.</a>  </td>
-
-    <td> Program authorization.  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs6513" data-uslm-ref="/us/usc/t20/s6513">6513.</a>  </td>
-
-    <td> State applications.  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs6514" data-uslm-ref="/us/usc/t20/s6514">6514.</a>  </td>
-
-    <td> State use of funds.  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs6515" data-uslm-ref="/us/usc/t20/s6515">6515.</a>  </td>
-
-    <td> Local applications.  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs6516" data-uslm-ref="/us/usc/t20/s6516">6516.</a>  </td>
-
-    <td> Local use of funds.  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs6517" data-uslm-ref="/us/usc/t20/s6517">6517.</a>  </td>
-
-    <td> Evaluation and reports.  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs6518" data-uslm-ref="/us/usc/t20/s6518">6518.</a>  </td>
-
-    <td> Quality initiatives.  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> 
-
-Part G—Advanced Placement Programs  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs6531" data-uslm-ref="/us/usc/t20/s6531">6531.</a>  </td>
-
-    <td> Short title.  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs6532" data-uslm-ref="/us/usc/t20/s6532">6532.</a>  </td>
-
-    <td> Purposes.  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs6533" data-uslm-ref="/us/usc/t20/s6533">6533.</a>  </td>
-
-    <td> Funding distribution rule.  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs6534" data-uslm-ref="/us/usc/t20/s6534">6534.</a>  </td>
-
-    <td> Advanced placement test fee program.  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs6535" data-uslm-ref="/us/usc/t20/s6535">6535.</a>  </td>
-
-    <td> Advanced placement incentive program grants.  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs6536" data-uslm-ref="/us/usc/t20/s6536">6536.</a>  </td>
-
-    <td> Supplement, not supplant.  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs6537" data-uslm-ref="/us/usc/t20/s6537">6537.</a>  </td>
-
-    <td> Definitions.  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> 
-
-Part H—School Dropout Prevention  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs6551" data-uslm-ref="/us/usc/t20/s6551">6551.</a>  </td>
-
-    <td> Short title.  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs6552" data-uslm-ref="/us/usc/t20/s6552">6552.</a>  </td>
-
-    <td> Purpose.  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs6553" data-uslm-ref="/us/usc/t20/s6553">6553.</a>  </td>
-
-    <td> Authorization of appropriations.  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> 
-
-subpart 1—coordinated national strategy  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs6555" data-uslm-ref="/us/usc/t20/s6555">6555.</a>  </td>
-
-    <td> National activities.  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> 
-
-subpart 2—school dropout prevention initiative  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs6561" data-uslm-ref="/us/usc/t20/s6561">6561.</a>  </td>
-
-    <td> Definitions.  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs6561a" data-uslm-ref="/us/usc/t20/s6561a">6561a.</a>  </td>
-
-    <td> Program authorized.  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs6561b" data-uslm-ref="/us/usc/t20/s6561b">6561b.</a>  </td>
-
-    <td> Applications.  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs6561c" data-uslm-ref="/us/usc/t20/s6561c">6561c.</a>  </td>
-
-    <td> State reservation.  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs6561d" data-uslm-ref="/us/usc/t20/s6561d">6561d.</a>  </td>
-
-    <td> Strategies and capacity building.  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs6561e" data-uslm-ref="/us/usc/t20/s6561e">6561e.</a>  </td>
-
-    <td> Selection of local educational agencies for subgrants.  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs6561f" data-uslm-ref="/us/usc/t20/s6561f">6561f.</a>  </td>
-
-    <td> Community based organizations.  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs6561g" data-uslm-ref="/us/usc/t20/s6561g">6561g.</a>  </td>
-
-    <td> Technical assistance.  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs6561h" data-uslm-ref="/us/usc/t20/s6561h">6561h.</a>  </td>
-
-    <td> School dropout rate calculation.  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs6561i" data-uslm-ref="/us/usc/t20/s6561i">6561i.</a>  </td>
-
-    <td> Reporting and accountability.  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> 
-
-Part I—General Provisions  </td>
+Part F—General Provisions  </td>
 
   </tr>
 
@@ -1153,17 +641,9 @@ Part I—General Provisions  </td>
 
   <tr>
 
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs6577" data-uslm-ref="/us/usc/t20/s6577">6577.</a>  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs6577" data-uslm-ref="/us/usc/t20/s6577">6577</a>, <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs6578" data-uslm-ref="/us/usc/t20/s6578">6578.</a>  </td>
 
-    <td> State report on dropout data.  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs6578" data-uslm-ref="/us/usc/t20/s6578">6578.</a>  </td>
-
-    <td> Regulations for sections 6311 and 6316.  </td>
+    <td> Repealed.  </td>
 
   </tr>
 
@@ -1171,15 +651,7 @@ Part I—General Provisions  </td>
 
     <td> 
 
-SUBCHAPTER II—PREPARING, TRAINING, AND RECRUITING HIGH QUALITY TEACHERS AND PRINCIPALS  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> 
-
-Part A—Teacher and Principal Training and Recruiting Fund  </td>
+SUBCHAPTER II—PREPARING, TRAINING, AND RECRUITING HIGH-QUALITY TEACHERS, PRINCIPALS, OR OTHER SCHOOL LEADERS  </td>
 
   </tr>
 
@@ -1211,7 +683,7 @@ Part A—Teacher and Principal Training and Recruiting Fund  </td>
 
     <td> 
 
-subpart 1—grants to states  </td>
+Part A—Supporting Effective Instruction  </td>
 
   </tr>
 
@@ -1219,7 +691,7 @@ subpart 1—grants to states  </td>
 
     <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs6611" data-uslm-ref="/us/usc/t20/s6611">6611.</a>  </td>
 
-    <td> Allotments to States.  </td>
+    <td> Formula grants to States.  </td>
 
   </tr>
 
@@ -1227,7 +699,7 @@ subpart 1—grants to states  </td>
 
     <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs6612" data-uslm-ref="/us/usc/t20/s6612">6612.</a>  </td>
 
-    <td> State applications.  </td>
+    <td> Subgrants to local educational agencies.  </td>
 
   </tr>
 
@@ -1235,7 +707,15 @@ subpart 1—grants to states  </td>
 
     <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs6613" data-uslm-ref="/us/usc/t20/s6613">6613.</a>  </td>
 
-    <td> State use of funds.  </td>
+    <td> Local uses of funds.  </td>
+
+  </tr>
+
+  <tr>
+
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs6614" data-uslm-ref="/us/usc/t20/s6614">6614.</a>  </td>
+
+    <td> Reporting.  </td>
 
   </tr>
 
@@ -1243,7 +723,7 @@ subpart 1—grants to states  </td>
 
     <td> 
 
-subpart 2—subgrants to local educational agencies  </td>
+Part B—National Activities  </td>
 
   </tr>
 
@@ -1251,23 +731,7 @@ subpart 2—subgrants to local educational agencies  </td>
 
     <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs6621" data-uslm-ref="/us/usc/t20/s6621">6621.</a>  </td>
 
-    <td> Allocations to local educational agencies.  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs6622" data-uslm-ref="/us/usc/t20/s6622">6622.</a>  </td>
-
-    <td> Local applications and needs assessment.  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs6623" data-uslm-ref="/us/usc/t20/s6623">6623.</a>  </td>
-
-    <td> Local use of funds.  </td>
+    <td> Reservations.  </td>
 
   </tr>
 
@@ -1275,7 +739,7 @@ subpart 2—subgrants to local educational agencies  </td>
 
     <td> 
 
-subpart 3—subgrants to eligible partnerships  </td>
+subpart 1—teacher and school leader incentive program  </td>
 
   </tr>
 
@@ -1283,7 +747,7 @@ subpart 3—subgrants to eligible partnerships  </td>
 
     <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs6631" data-uslm-ref="/us/usc/t20/s6631">6631.</a>  </td>
 
-    <td> Definitions.  </td>
+    <td> Purposes; definitions.  </td>
 
   </tr>
 
@@ -1291,7 +755,7 @@ subpart 3—subgrants to eligible partnerships  </td>
 
     <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs6632" data-uslm-ref="/us/usc/t20/s6632">6632.</a>  </td>
 
-    <td> Subgrants.  </td>
+    <td> Teacher and school leader incentive fund grants.  </td>
 
   </tr>
 
@@ -1299,15 +763,7 @@ subpart 3—subgrants to eligible partnerships  </td>
 
     <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs6633" data-uslm-ref="/us/usc/t20/s6633">6633.</a>  </td>
 
-    <td> Applications.  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs6634" data-uslm-ref="/us/usc/t20/s6634">6634.</a>  </td>
-
-    <td> Use of funds.  </td>
+    <td> Reports.  </td>
 
   </tr>
 
@@ -1315,7 +771,7 @@ subpart 3—subgrants to eligible partnerships  </td>
 
     <td> 
 
-subpart 4—accountability  </td>
+subpart 2—literacy education for all, results for the nation  </td>
 
   </tr>
 
@@ -1323,7 +779,47 @@ subpart 4—accountability  </td>
 
     <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs6641" data-uslm-ref="/us/usc/t20/s6641">6641.</a>  </td>
 
-    <td> Technical assistance and accountability.  </td>
+    <td> Purposes; definitions.  </td>
+
+  </tr>
+
+  <tr>
+
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs6642" data-uslm-ref="/us/usc/t20/s6642">6642.</a>  </td>
+
+    <td> Comprehensive literacy State development grants.  </td>
+
+  </tr>
+
+  <tr>
+
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs6643" data-uslm-ref="/us/usc/t20/s6643">6643.</a>  </td>
+
+    <td> Subgrants to eligible entities in support of birth through kindergarten entry literacy.  </td>
+
+  </tr>
+
+  <tr>
+
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs6644" data-uslm-ref="/us/usc/t20/s6644">6644.</a>  </td>
+
+    <td> Subgrants to eligible entities in support of kindergarten through grade 12 literacy.  </td>
+
+  </tr>
+
+  <tr>
+
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs6645" data-uslm-ref="/us/usc/t20/s6645">6645.</a>  </td>
+
+    <td> National evaluation and information dissemination.  </td>
+
+  </tr>
+
+  <tr>
+
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs6646" data-uslm-ref="/us/usc/t20/s6646">6646.</a>  </td>
+
+    <td> Innovative approaches to literacy.  </td>
 
   </tr>
 
@@ -1331,23 +827,7 @@ subpart 4—accountability  </td>
 
     <td> 
 
-subpart 5—national activities  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs6651" data-uslm-ref="/us/usc/t20/s6651">6651.</a>  </td>
-
-    <td> National activities of demonstrated effectiveness.  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> 
-
-Part B—Mathematics and Science Partnerships  </td>
+subpart 3—american history and civics education  </td>
 
   </tr>
 
@@ -1355,7 +835,7 @@ Part B—Mathematics and Science Partnerships  </td>
 
     <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs6661" data-uslm-ref="/us/usc/t20/s6661">6661.</a>  </td>
 
-    <td> Purpose; definitions.  </td>
+    <td> Program authorized.  </td>
 
   </tr>
 
@@ -1363,7 +843,7 @@ Part B—Mathematics and Science Partnerships  </td>
 
     <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs6662" data-uslm-ref="/us/usc/t20/s6662">6662.</a>  </td>
 
-    <td> Grants for mathematics and science partnerships.  </td>
+    <td> Presidential and Congressional Academies for American History and Civics.  </td>
 
   </tr>
 
@@ -1371,7 +851,7 @@ Part B—Mathematics and Science Partnerships  </td>
 
     <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs6663" data-uslm-ref="/us/usc/t20/s6663">6663.</a>  </td>
 
-    <td> Authorization of appropriations.  </td>
+    <td> National activities.  </td>
 
   </tr>
 
@@ -1379,7 +859,47 @@ Part B—Mathematics and Science Partnerships  </td>
 
     <td> 
 
-Part C—Innovation for Teacher Quality  </td>
+subpart 4—programs of national significance  </td>
+
+  </tr>
+
+  <tr>
+
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs6671" data-uslm-ref="/us/usc/t20/s6671">6671.</a>  </td>
+
+    <td> Funding allotment.  </td>
+
+  </tr>
+
+  <tr>
+
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs6672" data-uslm-ref="/us/usc/t20/s6672">6672.</a>  </td>
+
+    <td> Supporting effective educator development.  </td>
+
+  </tr>
+
+  <tr>
+
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs6673" data-uslm-ref="/us/usc/t20/s6673">6673.</a>  </td>
+
+    <td> School leader recruitment and support.  </td>
+
+  </tr>
+
+  <tr>
+
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs6674" data-uslm-ref="/us/usc/t20/s6674">6674.</a>  </td>
+
+    <td> Technical assistance and national evaluation.  </td>
+
+  </tr>
+
+  <tr>
+
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs6675" data-uslm-ref="/us/usc/t20/s6675">6675.</a>  </td>
+
+    <td> STEM master teacher corps.  </td>
 
   </tr>
 
@@ -1387,71 +907,7 @@ Part C—Innovation for Teacher Quality  </td>
 
     <td> 
 
-subpart 1—transitions to teaching  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> 
-
-Division A—Troops-to-Teachers Program  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs6671" data-uslm-ref="/us/usc/t20/s6671">6671</a> to <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs6677" data-uslm-ref="/us/usc/t20/s6677">6677.</a>  </td>
-
-    <td> Repealed.  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> 
-
-Division B—Transition to Teaching Program  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs6681" data-uslm-ref="/us/usc/t20/s6681">6681.</a>  </td>
-
-    <td> Purposes.  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs6682" data-uslm-ref="/us/usc/t20/s6682">6682.</a>  </td>
-
-    <td> Definitions.  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs6683" data-uslm-ref="/us/usc/t20/s6683">6683.</a>  </td>
-
-    <td> Grant program.  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs6684" data-uslm-ref="/us/usc/t20/s6684">6684.</a>  </td>
-
-    <td> Evaluation and accountability for recruiting and retaining teachers.  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> 
-
-Division C—General Provisions  </td>
+Part C—General Provisions  </td>
 
   </tr>
 
@@ -1459,7 +915,15 @@ Division C—General Provisions  </td>
 
     <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs6691" data-uslm-ref="/us/usc/t20/s6691">6691.</a>  </td>
 
-    <td> Authorization of appropriations.  </td>
+    <td> Supplement, not supplant.  </td>
+
+  </tr>
+
+  <tr>
+
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs6692" data-uslm-ref="/us/usc/t20/s6692">6692.</a>  </td>
+
+    <td> Rules of construction.  </td>
 
   </tr>
 
@@ -1467,335 +931,7 @@ Division C—General Provisions  </td>
 
     <td> 
 
-subpart 2—national writing project  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs6701" data-uslm-ref="/us/usc/t20/s6701">6701.</a>  </td>
-
-    <td> Purposes.  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs6702" data-uslm-ref="/us/usc/t20/s6702">6702.</a>  </td>
-
-    <td> National Writing Project.  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> 
-
-subpart 3—civic education  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs6711" data-uslm-ref="/us/usc/t20/s6711">6711.</a>  </td>
-
-    <td> Short title.  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs6712" data-uslm-ref="/us/usc/t20/s6712">6712.</a>  </td>
-
-    <td> Purpose.  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs6713" data-uslm-ref="/us/usc/t20/s6713">6713.</a>  </td>
-
-    <td> General authority.  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs6714" data-uslm-ref="/us/usc/t20/s6714">6714.</a>  </td>
-
-    <td> We the People program.  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs6715" data-uslm-ref="/us/usc/t20/s6715">6715.</a>  </td>
-
-    <td> Cooperative civic education and economic education exchange programs.  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs6716" data-uslm-ref="/us/usc/t20/s6716">6716.</a>  </td>
-
-    <td> Authorization of appropriations.  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> 
-
-subpart 4—teaching of traditional american history  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs6721" data-uslm-ref="/us/usc/t20/s6721">6721.</a>  </td>
-
-    <td> Establishment of program.  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs6722" data-uslm-ref="/us/usc/t20/s6722">6722.</a>  </td>
-
-    <td> Authorization of appropriations.  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> 
-
-subpart 5—teacher liability protection  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs6731" data-uslm-ref="/us/usc/t20/s6731">6731.</a>  </td>
-
-    <td> Short title.  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs6732" data-uslm-ref="/us/usc/t20/s6732">6732.</a>  </td>
-
-    <td> Purpose.  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs6733" data-uslm-ref="/us/usc/t20/s6733">6733.</a>  </td>
-
-    <td> Definitions.  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs6734" data-uslm-ref="/us/usc/t20/s6734">6734.</a>  </td>
-
-    <td> Applicability.  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs6735" data-uslm-ref="/us/usc/t20/s6735">6735.</a>  </td>
-
-    <td> Preemption and election of State nonapplicability.  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs6736" data-uslm-ref="/us/usc/t20/s6736">6736.</a>  </td>
-
-    <td> Limitation on liability for teachers.  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs6737" data-uslm-ref="/us/usc/t20/s6737">6737.</a>  </td>
-
-    <td> Allocation of responsibility for noneconomic loss.  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs6738" data-uslm-ref="/us/usc/t20/s6738">6738.</a>  </td>
-
-    <td> Effective date.  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> 
-
-Part D—Enhancing Education Through Technology  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs6751" data-uslm-ref="/us/usc/t20/s6751">6751.</a>  </td>
-
-    <td> Short title.  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs6752" data-uslm-ref="/us/usc/t20/s6752">6752.</a>  </td>
-
-    <td> Purposes and goals.  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs6753" data-uslm-ref="/us/usc/t20/s6753">6753.</a>  </td>
-
-    <td> Definitions.  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs6754" data-uslm-ref="/us/usc/t20/s6754">6754.</a>  </td>
-
-    <td> Authorization of appropriations.  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> 
-
-subpart 1—state and local technology grants  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs6761" data-uslm-ref="/us/usc/t20/s6761">6761.</a>  </td>
-
-    <td> Allotment and reallotment.  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs6762" data-uslm-ref="/us/usc/t20/s6762">6762.</a>  </td>
-
-    <td> Use of allotment by State.  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs6763" data-uslm-ref="/us/usc/t20/s6763">6763.</a>  </td>
-
-    <td> State applications.  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs6764" data-uslm-ref="/us/usc/t20/s6764">6764.</a>  </td>
-
-    <td> Local applications.  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs6765" data-uslm-ref="/us/usc/t20/s6765">6765.</a>  </td>
-
-    <td> State activities.  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs6766" data-uslm-ref="/us/usc/t20/s6766">6766.</a>  </td>
-
-    <td> Local activities.  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> 
-
-subpart 2—national technology activities  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs6771" data-uslm-ref="/us/usc/t20/s6771">6771.</a>  </td>
-
-    <td> National activities.  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs6772" data-uslm-ref="/us/usc/t20/s6772">6772.</a>  </td>
-
-    <td> National education technology plan.  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> 
-
-subpart 3—ready-to-learn television  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs6775" data-uslm-ref="/us/usc/t20/s6775">6775.</a>  </td>
-
-    <td> Ready-to-Learn Television.  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> 
-
-subpart 4—limitation on availability of certain funds for schools  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs6777" data-uslm-ref="/us/usc/t20/s6777">6777.</a>  </td>
-
-    <td> Internet safety.  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> 
-
-SUBCHAPTER III—LANGUAGE INSTRUCTION FOR LIMITED ENGLISH PROFICIENT AND IMMIGRANT STUDENTS  </td>
+SUBCHAPTER III—LANGUAGE INSTRUCTION FOR ENGLISH LEARNERS AND IMMIGRANT STUDENTS  </td>
 
   </tr>
 
@@ -1803,7 +939,7 @@ SUBCHAPTER III—LANGUAGE INSTRUCTION FOR LIMITED ENGLISH PROFICIENT AND IMMIGRA
 
     <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs6801" data-uslm-ref="/us/usc/t20/s6801">6801.</a>  </td>
 
-    <td> Authorizations of appropriations; condition on effectiveness of parts.  </td>
+    <td> Authorization of appropriations.  </td>
 
   </tr>
 
@@ -1899,7 +1035,7 @@ subpart 2—accountability and administration  </td>
 
     <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs6841" data-uslm-ref="/us/usc/t20/s6841">6841.</a>  </td>
 
-    <td> Evaluations.  </td>
+    <td> Reporting.  </td>
 
   </tr>
 
@@ -1907,7 +1043,7 @@ subpart 2—accountability and administration  </td>
 
     <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs6842" data-uslm-ref="/us/usc/t20/s6842">6842.</a>  </td>
 
-    <td> Achievement objectives and accountability.  </td>
+    <td> Repealed.  </td>
 
   </tr>
 
@@ -1915,7 +1051,7 @@ subpart 2—accountability and administration  </td>
 
     <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs6843" data-uslm-ref="/us/usc/t20/s6843">6843.</a>  </td>
 
-    <td> Reporting requirements.  </td>
+    <td> Biennial reports.  </td>
 
   </tr>
 
@@ -1995,7 +1131,7 @@ subpart 4—definitions  </td>
 
     <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs6871" data-uslm-ref="/us/usc/t20/s6871">6871.</a>  </td>
 
-    <td> Eligible entity.  </td>
+    <td> Repealed.  </td>
 
   </tr>
 
@@ -2003,287 +1139,7 @@ subpart 4—definitions  </td>
 
     <td> 
 
-Part B—Improving Language Instruction Educational Programs  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs6891" data-uslm-ref="/us/usc/t20/s6891">6891.</a>  </td>
-
-    <td> Short title.  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs6892" data-uslm-ref="/us/usc/t20/s6892">6892.</a>  </td>
-
-    <td> Purpose.  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs6893" data-uslm-ref="/us/usc/t20/s6893">6893.</a>  </td>
-
-    <td> Native American children in school.  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs6894" data-uslm-ref="/us/usc/t20/s6894">6894.</a>  </td>
-
-    <td> Residents of the territories and freely associated states  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> 
-
-subpart 1—program development and enhancement  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs6911" data-uslm-ref="/us/usc/t20/s6911">6911.</a>  </td>
-
-    <td> Financial assistance for language instruction educational programs.  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs6912" data-uslm-ref="/us/usc/t20/s6912">6912.</a>  </td>
-
-    <td> Program enhancement activities.  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs6913" data-uslm-ref="/us/usc/t20/s6913">6913.</a>  </td>
-
-    <td> Comprehensive school and systemwide improvement activities.  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs6914" data-uslm-ref="/us/usc/t20/s6914">6914.</a>  </td>
-
-    <td> Applications.  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs6915" data-uslm-ref="/us/usc/t20/s6915">6915.</a>  </td>
-
-    <td> Capacity building.  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs6916" data-uslm-ref="/us/usc/t20/s6916">6916.</a>  </td>
-
-    <td> Programs for Native Americans and Puerto Rico.  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs6917" data-uslm-ref="/us/usc/t20/s6917">6917.</a>  </td>
-
-    <td> Evaluations.  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs6918" data-uslm-ref="/us/usc/t20/s6918">6918.</a>  </td>
-
-    <td> Construction.  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> 
-
-subpart 2—research, evaluation, and dissemination  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs6931" data-uslm-ref="/us/usc/t20/s6931">6931.</a>  </td>
-
-    <td> Authority.  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs6932" data-uslm-ref="/us/usc/t20/s6932">6932.</a>  </td>
-
-    <td> Research.  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs6933" data-uslm-ref="/us/usc/t20/s6933">6933.</a>  </td>
-
-    <td> Academic excellence awards.  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs6934" data-uslm-ref="/us/usc/t20/s6934">6934.</a>  </td>
-
-    <td> State grant program.  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs6935" data-uslm-ref="/us/usc/t20/s6935">6935.</a>  </td>
-
-    <td> Instruction materials development.  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> 
-
-subpart 3—professional development  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs6951" data-uslm-ref="/us/usc/t20/s6951">6951.</a>  </td>
-
-    <td> Professional development grants.  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> 
-
-subpart 4—emergency immigrant education program  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs6961" data-uslm-ref="/us/usc/t20/s6961">6961.</a>  </td>
-
-    <td> Purpose.  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs6962" data-uslm-ref="/us/usc/t20/s6962">6962.</a>  </td>
-
-    <td> State administrative costs.  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs6963" data-uslm-ref="/us/usc/t20/s6963">6963.</a>  </td>
-
-    <td> Withholding.  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs6964" data-uslm-ref="/us/usc/t20/s6964">6964.</a>  </td>
-
-    <td> State allotments.  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs6965" data-uslm-ref="/us/usc/t20/s6965">6965.</a>  </td>
-
-    <td> State applications.  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs6966" data-uslm-ref="/us/usc/t20/s6966">6966.</a>  </td>
-
-    <td> Administrative provisions.  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs6967" data-uslm-ref="/us/usc/t20/s6967">6967.</a>  </td>
-
-    <td> Uses of funds.  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs6968" data-uslm-ref="/us/usc/t20/s6968">6968.</a>  </td>
-
-    <td> Reports.  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> 
-
-subpart 5—administration  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs6981" data-uslm-ref="/us/usc/t20/s6981">6981.</a>  </td>
-
-    <td> Release time.  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs6982" data-uslm-ref="/us/usc/t20/s6982">6982.</a>  </td>
-
-    <td> Notification.  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs6983" data-uslm-ref="/us/usc/t20/s6983">6983.</a>  </td>
-
-    <td> Coordination and reporting requirements.  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> 
-
-Part C—General Provisions  </td>
+Part B—General Provisions  </td>
 
   </tr>
 
@@ -2299,7 +1155,7 @@ Part C—General Provisions  </td>
 
     <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs7012" data-uslm-ref="/us/usc/t20/s7012">7012.</a>  </td>
 
-    <td> Parental notification.  </td>
+    <td> Repealed.  </td>
 
   </tr>
 
@@ -2331,7 +1187,7 @@ SUBCHAPTER IV—21ST CENTURY SCHOOLS  </td>
 
     <td> 
 
-Part A—Safe and Drug-Free Schools and Communities  </td>
+Part A—Student Support and Academic Enrichment Grants  </td>
 
   </tr>
 
@@ -2339,13 +1195,29 @@ Part A—Safe and Drug-Free Schools and Communities  </td>
 
     <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs7101" data-uslm-ref="/us/usc/t20/s7101">7101.</a>  </td>
 
-    <td> Short title.  </td>
+    <td> General provisions.  </td>
 
   </tr>
 
   <tr>
 
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs7102" data-uslm-ref="/us/usc/t20/s7102">7102.</a>  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs7102" data-uslm-ref="/us/usc/t20/s7102">7102</a>, <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs7103" data-uslm-ref="/us/usc/t20/s7103">7103.</a>  </td>
+
+    <td> Repealed.  </td>
+
+  </tr>
+
+  <tr>
+
+    <td> 
+
+subpart 1—student support and academic enrichment grants  </td>
+
+  </tr>
+
+  <tr>
+
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs7111" data-uslm-ref="/us/usc/t20/s7111">7111.</a>  </td>
 
     <td> Purpose.  </td>
 
@@ -2353,7 +1225,87 @@ Part A—Safe and Drug-Free Schools and Communities  </td>
 
   <tr>
 
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs7103" data-uslm-ref="/us/usc/t20/s7103">7103.</a>  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs7112" data-uslm-ref="/us/usc/t20/s7112">7112.</a>  </td>
+
+    <td> Definitions.  </td>
+
+  </tr>
+
+  <tr>
+
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs7113" data-uslm-ref="/us/usc/t20/s7113">7113.</a>  </td>
+
+    <td> Formula grants to States.  </td>
+
+  </tr>
+
+  <tr>
+
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs7114" data-uslm-ref="/us/usc/t20/s7114">7114.</a>  </td>
+
+    <td> State use of funds.  </td>
+
+  </tr>
+
+  <tr>
+
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs7115" data-uslm-ref="/us/usc/t20/s7115">7115.</a>  </td>
+
+    <td> Allocations to local educational agencies.  </td>
+
+  </tr>
+
+  <tr>
+
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs7116" data-uslm-ref="/us/usc/t20/s7116">7116.</a>  </td>
+
+    <td> Local educational agency applications.  </td>
+
+  </tr>
+
+  <tr>
+
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs7117" data-uslm-ref="/us/usc/t20/s7117">7117.</a>  </td>
+
+    <td> Activities to support well-rounded educational opportunities.  </td>
+
+  </tr>
+
+  <tr>
+
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs7118" data-uslm-ref="/us/usc/t20/s7118">7118.</a>  </td>
+
+    <td> Activities to support safe and healthy students.  </td>
+
+  </tr>
+
+  <tr>
+
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs7119" data-uslm-ref="/us/usc/t20/s7119">7119.</a>  </td>
+
+    <td> Activities to support the effective use of technology.  </td>
+
+  </tr>
+
+  <tr>
+
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs7120" data-uslm-ref="/us/usc/t20/s7120">7120.</a>  </td>
+
+    <td> Supplement, not supplant.  </td>
+
+  </tr>
+
+  <tr>
+
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs7121" data-uslm-ref="/us/usc/t20/s7121">7121.</a>  </td>
+
+    <td> Rule of construction.  </td>
+
+  </tr>
+
+  <tr>
+
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs7122" data-uslm-ref="/us/usc/t20/s7122">7122.</a>  </td>
 
     <td> Authorization of appropriations.  </td>
 
@@ -2363,71 +1315,7 @@ Part A—Safe and Drug-Free Schools and Communities  </td>
 
     <td> 
 
-subpart 1—state grants  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs7111" data-uslm-ref="/us/usc/t20/s7111">7111.</a>  </td>
-
-    <td> Reservations and allotments.  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs7112" data-uslm-ref="/us/usc/t20/s7112">7112.</a>  </td>
-
-    <td> Reservation of State funds for safe and drug-free schools.  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs7113" data-uslm-ref="/us/usc/t20/s7113">7113.</a>  </td>
-
-    <td> State application.  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs7114" data-uslm-ref="/us/usc/t20/s7114">7114.</a>  </td>
-
-    <td> Local educational agency program.  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs7115" data-uslm-ref="/us/usc/t20/s7115">7115.</a>  </td>
-
-    <td> Authorized activities.  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs7116" data-uslm-ref="/us/usc/t20/s7116">7116.</a>  </td>
-
-    <td> Reporting.  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs7117" data-uslm-ref="/us/usc/t20/s7117">7117.</a>  </td>
-
-    <td> Programs for Native Hawaiians.  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> 
-
-subpart 2—national programs  </td>
+subpart 2—internet safety  </td>
 
   </tr>
 
@@ -2435,79 +1323,7 @@ subpart 2—national programs  </td>
 
     <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs7131" data-uslm-ref="/us/usc/t20/s7131">7131.</a>  </td>
 
-    <td> Federal activities.  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs7132" data-uslm-ref="/us/usc/t20/s7132">7132.</a>  </td>
-
-    <td> Impact evaluation.  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs7133" data-uslm-ref="/us/usc/t20/s7133">7133.</a>  </td>
-
-    <td> Hate crime prevention.  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs7134" data-uslm-ref="/us/usc/t20/s7134">7134.</a>  </td>
-
-    <td> Safe and Drug-Free Schools and Communities Advisory Committee.  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs7135" data-uslm-ref="/us/usc/t20/s7135">7135.</a>  </td>
-
-    <td> National Coordinator Program.  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs7136" data-uslm-ref="/us/usc/t20/s7136">7136.</a>  </td>
-
-    <td> Community service grant program.  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs7137" data-uslm-ref="/us/usc/t20/s7137">7137.</a>  </td>
-
-    <td> School Security Technology and Resource Center.  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs7138" data-uslm-ref="/us/usc/t20/s7138">7138.</a>  </td>
-
-    <td> National Center for School and Youth Safety.  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs7139" data-uslm-ref="/us/usc/t20/s7139">7139.</a>  </td>
-
-    <td> Grants to reduce alcohol abuse.  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs7140" data-uslm-ref="/us/usc/t20/s7140">7140.</a>  </td>
-
-    <td> Mentoring programs.  </td>
+    <td> Internet safety.  </td>
 
   </tr>
 
@@ -2523,7 +1339,7 @@ subpart 3—gun possession  </td>
 
     <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs7151" data-uslm-ref="/us/usc/t20/s7151">7151.</a>  </td>
 
-    <td> Gun-free requirements.  </td>
+    <td> Transferred.  </td>
 
   </tr>
 
@@ -2537,33 +1353,9 @@ subpart 4—general provisions  </td>
 
   <tr>
 
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs7161" data-uslm-ref="/us/usc/t20/s7161">7161.</a>  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs7161" data-uslm-ref="/us/usc/t20/s7161">7161</a> to <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs7164" data-uslm-ref="/us/usc/t20/s7164">7164.</a>  </td>
 
-    <td> Definitions.  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs7162" data-uslm-ref="/us/usc/t20/s7162">7162.</a>  </td>
-
-    <td> Message and materials.  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs7163" data-uslm-ref="/us/usc/t20/s7163">7163.</a>  </td>
-
-    <td> Parental consent.  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs7164" data-uslm-ref="/us/usc/t20/s7164">7164.</a>  </td>
-
-    <td> Prohibited uses of funds.  </td>
+    <td> Repealed.  </td>
 
   </tr>
 
@@ -2571,7 +1363,7 @@ subpart 4—general provisions  </td>
 
     <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs7165" data-uslm-ref="/us/usc/t20/s7165">7165.</a>  </td>
 
-    <td> Transfer of school disciplinary records.  </td>
+    <td> Transferred.  </td>
 
   </tr>
 
@@ -2611,7 +1403,7 @@ Part B—21st Century Community Learning Centers  </td>
 
     <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs7174" data-uslm-ref="/us/usc/t20/s7174">7174.</a>  </td>
 
-    <td> Local competitive grant program.  </td>
+    <td> Local competitive subgrant program.  </td>
 
   </tr>
 
@@ -2635,215 +1427,7 @@ Part B—21st Century Community Learning Centers  </td>
 
     <td> 
 
-Part C—Environmental Tobacco Smoke  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs7181" data-uslm-ref="/us/usc/t20/s7181">7181.</a>  </td>
-
-    <td> Short title.  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs7182" data-uslm-ref="/us/usc/t20/s7182">7182.</a>  </td>
-
-    <td> Definitions.  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs7183" data-uslm-ref="/us/usc/t20/s7183">7183.</a>  </td>
-
-    <td> Nonsmoking policy for children’s services.  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs7184" data-uslm-ref="/us/usc/t20/s7184">7184.</a>  </td>
-
-    <td> Preemption.  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> 
-
-SUBCHAPTER V—PROMOTING INFORMED PARENTAL CHOICE AND INNOVATIVE PROGRAMS  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> 
-
-Part A—Innovative Programs  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs7201" data-uslm-ref="/us/usc/t20/s7201">7201.</a>  </td>
-
-    <td> Purposes, State and local responsibility.  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> 
-
-subpart 1—state and local programs  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs7211" data-uslm-ref="/us/usc/t20/s7211">7211.</a>  </td>
-
-    <td> Allotment to States.  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs7211a" data-uslm-ref="/us/usc/t20/s7211a">7211a.</a>  </td>
-
-    <td> Allocation to local educational agencies.  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> 
-
-subpart 2—state programs  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs7213" data-uslm-ref="/us/usc/t20/s7213">7213.</a>  </td>
-
-    <td> State uses of funds.  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs7213a" data-uslm-ref="/us/usc/t20/s7213a">7213a.</a>  </td>
-
-    <td> State applications.  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> 
-
-subpart 3—local innovative education programs  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs7215" data-uslm-ref="/us/usc/t20/s7215">7215.</a>  </td>
-
-    <td> Local uses of funds.  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs7215a" data-uslm-ref="/us/usc/t20/s7215a">7215a.</a>  </td>
-
-    <td> Administrative authority.  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs7215b" data-uslm-ref="/us/usc/t20/s7215b">7215b.</a>  </td>
-
-    <td> Local applications.  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> 
-
-subpart 4—general provisions  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs7217" data-uslm-ref="/us/usc/t20/s7217">7217.</a>  </td>
-
-    <td> Maintenance of effort.  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs7217a" data-uslm-ref="/us/usc/t20/s7217a">7217a.</a>  </td>
-
-    <td> Participation of children enrolled in private schools.  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs7217b" data-uslm-ref="/us/usc/t20/s7217b">7217b.</a>  </td>
-
-    <td> Federal administration.  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs7217c" data-uslm-ref="/us/usc/t20/s7217c">7217c.</a>  </td>
-
-    <td> Supplement, not supplant.  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs7217d" data-uslm-ref="/us/usc/t20/s7217d">7217d.</a>  </td>
-
-    <td> Definitions.  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs7217e" data-uslm-ref="/us/usc/t20/s7217e">7217e.</a>  </td>
-
-    <td> Authorization of appropriations.  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> 
-
-Part B—Public Charter Schools  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> 
-
-subpart 1—charter school programs  </td>
+Part C—Expanding Opportunity Through Quality Charter Schools  </td>
 
   </tr>
 
@@ -2867,7 +1451,7 @@ subpart 1—charter school programs  </td>
 
     <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs7221b" data-uslm-ref="/us/usc/t20/s7221b">7221b.</a>  </td>
 
-    <td> Applications.  </td>
+    <td> Grants to support high-quality charter schools.  </td>
 
   </tr>
 
@@ -2875,7 +1459,7 @@ subpart 1—charter school programs  </td>
 
     <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs7221c" data-uslm-ref="/us/usc/t20/s7221c">7221c.</a>  </td>
 
-    <td> Administration.  </td>
+    <td> Facilities financing assistance.  </td>
 
   </tr>
 
@@ -2939,175 +1523,7 @@ subpart 1—charter school programs  </td>
 
     <td> 
 
-subpart 2—credit enhancement initiatives to assist charter school facility acquisition, construction, and renovation  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs7223" data-uslm-ref="/us/usc/t20/s7223">7223.</a>  </td>
-
-    <td> Purpose.  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs7223a" data-uslm-ref="/us/usc/t20/s7223a">7223a.</a>  </td>
-
-    <td> Grants to eligible entities.  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs7223b" data-uslm-ref="/us/usc/t20/s7223b">7223b.</a>  </td>
-
-    <td> Applications.  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs7223c" data-uslm-ref="/us/usc/t20/s7223c">7223c.</a>  </td>
-
-    <td> Charter school objectives.  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs7223d" data-uslm-ref="/us/usc/t20/s7223d">7223d.</a>  </td>
-
-    <td> Reserve account.  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs7223e" data-uslm-ref="/us/usc/t20/s7223e">7223e.</a>  </td>
-
-    <td> Limitation on administrative costs.  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs7223f" data-uslm-ref="/us/usc/t20/s7223f">7223f.</a>  </td>
-
-    <td> Audits and reports.  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs7223g" data-uslm-ref="/us/usc/t20/s7223g">7223g.</a>  </td>
-
-    <td> No full faith and credit for grantee obligations.  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs7223h" data-uslm-ref="/us/usc/t20/s7223h">7223h.</a>  </td>
-
-    <td> Recovery of funds.  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs7223i" data-uslm-ref="/us/usc/t20/s7223i">7223i.</a>  </td>
-
-    <td> Definitions.  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs7223j" data-uslm-ref="/us/usc/t20/s7223j">7223j.</a>  </td>
-
-    <td> Authorization of appropriations.  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> 
-
-subpart 3—voluntary public school choice programs  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs7225" data-uslm-ref="/us/usc/t20/s7225">7225.</a>  </td>
-
-    <td> Grants.  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs7225a" data-uslm-ref="/us/usc/t20/s7225a">7225a.</a>  </td>
-
-    <td> Uses of funds.  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs7225b" data-uslm-ref="/us/usc/t20/s7225b">7225b.</a>  </td>
-
-    <td> Applications.  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs7225c" data-uslm-ref="/us/usc/t20/s7225c">7225c.</a>  </td>
-
-    <td> Priorities.  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs7225d" data-uslm-ref="/us/usc/t20/s7225d">7225d.</a>  </td>
-
-    <td> Requirements and voluntary participation.  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs7225e" data-uslm-ref="/us/usc/t20/s7225e">7225e.</a>  </td>
-
-    <td> Evaluations.  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs7225f" data-uslm-ref="/us/usc/t20/s7225f">7225f.</a>  </td>
-
-    <td> Definitions.  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs7225g" data-uslm-ref="/us/usc/t20/s7225g">7225g.</a>  </td>
-
-    <td> Authorization of appropriations.  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> 
-
-Part C—Magnet Schools Assistance  </td>
+Part D—Magnet Schools Assistance  </td>
 
   </tr>
 
@@ -3171,7 +1587,7 @@ Part C—Magnet Schools Assistance  </td>
 
     <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs7231g" data-uslm-ref="/us/usc/t20/s7231g">7231g.</a>  </td>
 
-    <td> Prohibition.  </td>
+    <td> Repealed.  </td>
 
   </tr>
 
@@ -3187,7 +1603,7 @@ Part C—Magnet Schools Assistance  </td>
 
     <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs7231i" data-uslm-ref="/us/usc/t20/s7231i">7231i.</a>  </td>
 
-    <td> Evaluations.  </td>
+    <td> Repealed.  </td>
 
   </tr>
 
@@ -3203,13 +1619,53 @@ Part C—Magnet Schools Assistance  </td>
 
     <td> 
 
-Part D—Fund for the Improvement of Education  </td>
+Part E—Family Engagement in Education Programs  </td>
 
   </tr>
 
   <tr>
 
     <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs7241" data-uslm-ref="/us/usc/t20/s7241">7241.</a>  </td>
+
+    <td> Purposes.  </td>
+
+  </tr>
+
+  <tr>
+
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs7242" data-uslm-ref="/us/usc/t20/s7242">7242.</a>  </td>
+
+    <td> Grants authorized.  </td>
+
+  </tr>
+
+  <tr>
+
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs7243" data-uslm-ref="/us/usc/t20/s7243">7243.</a>  </td>
+
+    <td> Applications.  </td>
+
+  </tr>
+
+  <tr>
+
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs7244" data-uslm-ref="/us/usc/t20/s7244">7244.</a>  </td>
+
+    <td> Uses of funds.  </td>
+
+  </tr>
+
+  <tr>
+
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs7245" data-uslm-ref="/us/usc/t20/s7245">7245.</a>  </td>
+
+    <td> Family engagement in Indian schools.  </td>
+
+  </tr>
+
+  <tr>
+
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs7246" data-uslm-ref="/us/usc/t20/s7246">7246.</a>  </td>
 
     <td> Authorization of appropriations.  </td>
 
@@ -3219,95 +1675,7 @@ Part D—Fund for the Improvement of Education  </td>
 
     <td> 
 
-subpart 1—fund for the improvement of education  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs7243" data-uslm-ref="/us/usc/t20/s7243">7243.</a>  </td>
-
-    <td> Programs authorized.  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs7243a" data-uslm-ref="/us/usc/t20/s7243a">7243a.</a>  </td>
-
-    <td> Applications.  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs7243b" data-uslm-ref="/us/usc/t20/s7243b">7243b.</a>  </td>
-
-    <td> Program requirements.  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs7243c" data-uslm-ref="/us/usc/t20/s7243c">7243c.</a>  </td>
-
-    <td> Studies of national significance.  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> 
-
-subpart 2—elementary and secondary school counseling programs  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs7245" data-uslm-ref="/us/usc/t20/s7245">7245.</a>  </td>
-
-    <td> Elementary and secondary school counseling programs.  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> 
-
-subpart 3—partnerships in character education  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs7247" data-uslm-ref="/us/usc/t20/s7247">7247.</a>  </td>
-
-    <td> Partnerships in character education program.  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> 
-
-subpart 4—smaller learning communities  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs7249" data-uslm-ref="/us/usc/t20/s7249">7249.</a>  </td>
-
-    <td> Smaller learning communities.  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> 
-
-subpart 5—reading is fundamental—inexpensive book distribution program  </td>
+Part F—National Activities  </td>
 
   </tr>
 
@@ -3315,7 +1683,7 @@ subpart 5—reading is fundamental—inexpensive book distribution program  </td
 
     <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs7251" data-uslm-ref="/us/usc/t20/s7251">7251.</a>  </td>
 
-    <td> Inexpensive book distribution program for reading motivation.  </td>
+    <td> Authorization of appropriations; reservations.  </td>
 
   </tr>
 
@@ -3323,215 +1691,7 @@ subpart 5—reading is fundamental—inexpensive book distribution program  </td
 
     <td> 
 
-subpart 6—gifted and talented students  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs7253" data-uslm-ref="/us/usc/t20/s7253">7253.</a>  </td>
-
-    <td> Short title.  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs7253a" data-uslm-ref="/us/usc/t20/s7253a">7253a.</a>  </td>
-
-    <td> Purpose.  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs7253b" data-uslm-ref="/us/usc/t20/s7253b">7253b.</a>  </td>
-
-    <td> Rule of construction.  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs7253c" data-uslm-ref="/us/usc/t20/s7253c">7253c.</a>  </td>
-
-    <td> Authorized programs.  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs7253d" data-uslm-ref="/us/usc/t20/s7253d">7253d.</a>  </td>
-
-    <td> Program priorities.  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs7253e" data-uslm-ref="/us/usc/t20/s7253e">7253e.</a>  </td>
-
-    <td> General provisions.  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> 
-
-subpart 7—star schools program  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs7255" data-uslm-ref="/us/usc/t20/s7255">7255.</a>  </td>
-
-    <td> Short title.  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs7255a" data-uslm-ref="/us/usc/t20/s7255a">7255a.</a>  </td>
-
-    <td> Purposes.  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs7255b" data-uslm-ref="/us/usc/t20/s7255b">7255b.</a>  </td>
-
-    <td> Grant program authorized.  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs7255c" data-uslm-ref="/us/usc/t20/s7255c">7255c.</a>  </td>
-
-    <td> Applications.  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs7255d" data-uslm-ref="/us/usc/t20/s7255d">7255d.</a>  </td>
-
-    <td> Other grant assistance.  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs7255e" data-uslm-ref="/us/usc/t20/s7255e">7255e.</a>  </td>
-
-    <td> Administrative provisions.  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs7255f" data-uslm-ref="/us/usc/t20/s7255f">7255f.</a>  </td>
-
-    <td> Definitions.  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> 
-
-subpart 8—ready to teach  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs7257" data-uslm-ref="/us/usc/t20/s7257">7257.</a>  </td>
-
-    <td> Grants.  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs7257a" data-uslm-ref="/us/usc/t20/s7257a">7257a.</a>  </td>
-
-    <td> Application required.  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs7257b" data-uslm-ref="/us/usc/t20/s7257b">7257b.</a>  </td>
-
-    <td> Reports and evaluation.  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs7257c" data-uslm-ref="/us/usc/t20/s7257c">7257c.</a>  </td>
-
-    <td> Digital educational programming grants.  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs7257d" data-uslm-ref="/us/usc/t20/s7257d">7257d.</a>  </td>
-
-    <td> Administrative costs.  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> 
-
-subpart 9—foreign language assistance program  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs7259" data-uslm-ref="/us/usc/t20/s7259">7259.</a>  </td>
-
-    <td> Short title.  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs7259a" data-uslm-ref="/us/usc/t20/s7259a">7259a.</a>  </td>
-
-    <td> Program authorized.  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs7259b" data-uslm-ref="/us/usc/t20/s7259b">7259b.</a>  </td>
-
-    <td> Applications.  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs7259c" data-uslm-ref="/us/usc/t20/s7259c">7259c.</a>  </td>
-
-    <td> Elementary school foreign language incentive program.  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> 
-
-subpart 10—physical education  </td>
+subpart 1—education innovation and research  </td>
 
   </tr>
 
@@ -3539,55 +1699,7 @@ subpart 10—physical education  </td>
 
     <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs7261" data-uslm-ref="/us/usc/t20/s7261">7261.</a>  </td>
 
-    <td> Short title.  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs7261a" data-uslm-ref="/us/usc/t20/s7261a">7261a.</a>  </td>
-
-    <td> Purpose.  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs7261b" data-uslm-ref="/us/usc/t20/s7261b">7261b.</a>  </td>
-
-    <td> Program authorized.  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs7261c" data-uslm-ref="/us/usc/t20/s7261c">7261c.</a>  </td>
-
-    <td> Applications.  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs7261d" data-uslm-ref="/us/usc/t20/s7261d">7261d.</a>  </td>
-
-    <td> Requirements.  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs7261e" data-uslm-ref="/us/usc/t20/s7261e">7261e.</a>  </td>
-
-    <td> Administrative provisions.  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs7261f" data-uslm-ref="/us/usc/t20/s7261f">7261f.</a>  </td>
-
-    <td> Supplement, not supplant.  </td>
+    <td> Grants for education innovation and research.  </td>
 
   </tr>
 
@@ -3595,183 +1707,7 @@ subpart 10—physical education  </td>
 
     <td> 
 
-subpart 11—community technology centers  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs7263" data-uslm-ref="/us/usc/t20/s7263">7263.</a>  </td>
-
-    <td> Purpose and program authorization.  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs7263a" data-uslm-ref="/us/usc/t20/s7263a">7263a.</a>  </td>
-
-    <td> Eligibility and application requirements.  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs7263b" data-uslm-ref="/us/usc/t20/s7263b">7263b.</a>  </td>
-
-    <td> Uses of funds.  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> 
-
-subpart 12—educational, cultural, apprenticeship, and exchange programs for alaska natives, native hawaiians, and their historical whaling and trading partners in massachusetts  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs7265" data-uslm-ref="/us/usc/t20/s7265">7265.</a>  </td>
-
-    <td> Short title.  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs7265a" data-uslm-ref="/us/usc/t20/s7265a">7265a.</a>  </td>
-
-    <td> Findings and purposes.  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs7265b" data-uslm-ref="/us/usc/t20/s7265b">7265b.</a>  </td>
-
-    <td> Program authorization.  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs7265c" data-uslm-ref="/us/usc/t20/s7265c">7265c.</a>  </td>
-
-    <td> Administrative provisions.  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs7265d" data-uslm-ref="/us/usc/t20/s7265d">7265d.</a>  </td>
-
-    <td> Availability of funds.  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs7265e" data-uslm-ref="/us/usc/t20/s7265e">7265e.</a>  </td>
-
-    <td> Definitions.  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> 
-
-subpart 13—excellence in economic education  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs7267" data-uslm-ref="/us/usc/t20/s7267">7267.</a>  </td>
-
-    <td> Short title.  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs7267a" data-uslm-ref="/us/usc/t20/s7267a">7267a.</a>  </td>
-
-    <td> Purpose and goals.  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs7267b" data-uslm-ref="/us/usc/t20/s7267b">7267b.</a>  </td>
-
-    <td> Grant program authorized.  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs7267c" data-uslm-ref="/us/usc/t20/s7267c">7267c.</a>  </td>
-
-    <td> Applications.  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs7267d" data-uslm-ref="/us/usc/t20/s7267d">7267d.</a>  </td>
-
-    <td> Requirements.  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs7267e" data-uslm-ref="/us/usc/t20/s7267e">7267e.</a>  </td>
-
-    <td> Administrative provisions.  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs7267f" data-uslm-ref="/us/usc/t20/s7267f">7267f.</a>  </td>
-
-    <td> Supplement, not supplant.  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> 
-
-subpart 14—grants to improve the mental health of children  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs7269" data-uslm-ref="/us/usc/t20/s7269">7269.</a>  </td>
-
-    <td> Grants for the integration of schools and mental health systems.  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs7269a" data-uslm-ref="/us/usc/t20/s7269a">7269a.</a>  </td>
-
-    <td> Promotion of school readiness through early childhood emotional and social development.  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> 
-
-subpart 15—arts in education  </td>
+subpart 2—community support for school success  </td>
 
   </tr>
 
@@ -3779,15 +1715,15 @@ subpart 15—arts in education  </td>
 
     <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs7271" data-uslm-ref="/us/usc/t20/s7271">7271.</a>  </td>
 
-    <td> Assistance for arts education.  </td>
+    <td> Purposes.  </td>
 
   </tr>
 
   <tr>
 
-    <td> 
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs7272" data-uslm-ref="/us/usc/t20/s7272">7272.</a>  </td>
 
-subpart 16—parental assistance and local family information centers  </td>
+    <td> Definitions.  </td>
 
   </tr>
 
@@ -3795,55 +1731,15 @@ subpart 16—parental assistance and local family information centers  </td>
 
     <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs7273" data-uslm-ref="/us/usc/t20/s7273">7273.</a>  </td>
 
-    <td> Purposes.  </td>
+    <td> Program authorized.  </td>
 
   </tr>
 
   <tr>
 
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs7273a" data-uslm-ref="/us/usc/t20/s7273a">7273a.</a>  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs7274" data-uslm-ref="/us/usc/t20/s7274">7274.</a>  </td>
 
-    <td> Grants authorized.  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs7273b" data-uslm-ref="/us/usc/t20/s7273b">7273b.</a>  </td>
-
-    <td> Applications.  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs7273c" data-uslm-ref="/us/usc/t20/s7273c">7273c.</a>  </td>
-
-    <td> Uses of funds.  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs7273d" data-uslm-ref="/us/usc/t20/s7273d">7273d.</a>  </td>
-
-    <td> Administrative provisions.  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs7273e" data-uslm-ref="/us/usc/t20/s7273e">7273e.</a>  </td>
-
-    <td> Local family information centers.  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> 
-
-subpart 17—combatting domestic violence  </td>
+    <td> Promise neighborhoods.  </td>
 
   </tr>
 
@@ -3851,7 +1747,7 @@ subpart 17—combatting domestic violence  </td>
 
     <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs7275" data-uslm-ref="/us/usc/t20/s7275">7275.</a>  </td>
 
-    <td> Grants to combat the impact of experiencing or witnessing domestic violence on elementary and secondary school children.  </td>
+    <td> Full-service community schools.  </td>
 
   </tr>
 
@@ -3859,119 +1755,7 @@ subpart 17—combatting domestic violence  </td>
 
     <td> 
 
-subpart 18—healthy, high-performance schools  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs7277" data-uslm-ref="/us/usc/t20/s7277">7277.</a>  </td>
-
-    <td> Grant program authorized.  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs7277a" data-uslm-ref="/us/usc/t20/s7277a">7277a.</a>  </td>
-
-    <td> State uses of funds.  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs7277b" data-uslm-ref="/us/usc/t20/s7277b">7277b.</a>  </td>
-
-    <td> Local uses of funds.  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs7277c" data-uslm-ref="/us/usc/t20/s7277c">7277c.</a>  </td>
-
-    <td> Report to Congress.  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs7277d" data-uslm-ref="/us/usc/t20/s7277d">7277d.</a>  </td>
-
-    <td> Limitations.  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs7277e" data-uslm-ref="/us/usc/t20/s7277e">7277e.</a>  </td>
-
-    <td> Healthy, high-performance school building defined.  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> 
-
-subpart 19—grants for capital expenses of providing equitable services for private school students  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs7279" data-uslm-ref="/us/usc/t20/s7279">7279.</a>  </td>
-
-    <td> Grant program authorized.  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs7279a" data-uslm-ref="/us/usc/t20/s7279a">7279a.</a>  </td>
-
-    <td> Uses of funds.  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs7279b" data-uslm-ref="/us/usc/t20/s7279b">7279b.</a>  </td>
-
-    <td> Allotments to States.  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs7279c" data-uslm-ref="/us/usc/t20/s7279c">7279c.</a>  </td>
-
-    <td> Subgrants to local educational agencies.  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs7279d" data-uslm-ref="/us/usc/t20/s7279d">7279d.</a>  </td>
-
-    <td> Capital expenses defined.  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs7279e" data-uslm-ref="/us/usc/t20/s7279e">7279e.</a>  </td>
-
-    <td> Termination.  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> 
-
-subpart 20—additional assistance for certain local educational agencies impacted by federal property acquisition  </td>
+subpart 3—national activities for school safety  </td>
 
   </tr>
 
@@ -3979,23 +1763,7 @@ subpart 20—additional assistance for certain local educational agencies impact
 
     <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs7281" data-uslm-ref="/us/usc/t20/s7281">7281.</a>  </td>
 
-    <td> Reservation.  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs7281a" data-uslm-ref="/us/usc/t20/s7281a">7281a.</a>  </td>
-
-    <td> Eligibility.  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs7281b" data-uslm-ref="/us/usc/t20/s7281b">7281b.</a>  </td>
-
-    <td> Maximum amount.  </td>
+    <td> National activities for school safety.  </td>
 
   </tr>
 
@@ -4003,71 +1771,39 @@ subpart 20—additional assistance for certain local educational agencies impact
 
     <td> 
 
-subpart 21—women’s educational equity act  </td>
+subpart 4—academic enrichment  </td>
 
   </tr>
 
   <tr>
 
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs7283" data-uslm-ref="/us/usc/t20/s7283">7283.</a>  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs7291" data-uslm-ref="/us/usc/t20/s7291">7291.</a>  </td>
 
-    <td> Short title and findings.  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs7283a" data-uslm-ref="/us/usc/t20/s7283a">7283a.</a>  </td>
-
-    <td> Statement of purpose.  </td>
+    <td> Awards for academic enrichment.  </td>
 
   </tr>
 
   <tr>
 
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs7283b" data-uslm-ref="/us/usc/t20/s7283b">7283b.</a>  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs7292" data-uslm-ref="/us/usc/t20/s7292">7292.</a>  </td>
 
-    <td> Programs authorized.  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs7283c" data-uslm-ref="/us/usc/t20/s7283c">7283c.</a>  </td>
-
-    <td> Applications.  </td>
+    <td> Assistance for arts education.  </td>
 
   </tr>
 
   <tr>
 
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs7283d" data-uslm-ref="/us/usc/t20/s7283d">7283d.</a>  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs7293" data-uslm-ref="/us/usc/t20/s7293">7293.</a>  </td>
 
-    <td> Criteria and priorities.  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs7283e" data-uslm-ref="/us/usc/t20/s7283e">7283e.</a>  </td>
-
-    <td> Report.  </td>
+    <td> Ready to learn programming.  </td>
 
   </tr>
 
   <tr>
 
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs7283f" data-uslm-ref="/us/usc/t20/s7283f">7283f.</a>  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs7294" data-uslm-ref="/us/usc/t20/s7294">7294.</a>  </td>
 
-    <td> Administration.  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs7283g" data-uslm-ref="/us/usc/t20/s7283g">7283g.</a>  </td>
-
-    <td> Amount.  </td>
+    <td> Supporting high-ability learners and learning.  </td>
 
   </tr>
 
@@ -4075,7 +1811,7 @@ subpart 21—women’s educational equity act  </td>
 
     <td> 
 
-SUBCHAPTER VI—FLEXIBILITY AND ACCOUNTABILITY  </td>
+SUBCHAPTER V—FLEXIBILITY AND ACCOUNTABILITY  </td>
 
   </tr>
 
@@ -4083,47 +1819,7 @@ SUBCHAPTER VI—FLEXIBILITY AND ACCOUNTABILITY  </td>
 
     <td> 
 
-Part A—Improving Academic Achievement  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> 
-
-subpart 1—accountability  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs7301" data-uslm-ref="/us/usc/t20/s7301">7301.</a>  </td>
-
-    <td> Grants for State assessments and related activities.  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs7301a" data-uslm-ref="/us/usc/t20/s7301a">7301a.</a>  </td>
-
-    <td> Grants for enhanced assessment instruments.  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs7301b" data-uslm-ref="/us/usc/t20/s7301b">7301b.</a>  </td>
-
-    <td> Funding.  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> 
-
-subpart 2—funding transferability for state and local educational agencies  </td>
+Part A—Funding Transferability for State and Local Educational Agencies  </td>
 
   </tr>
 
@@ -4148,174 +1844,6 @@ subpart 2—funding transferability for state and local educational agencies  </
     <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs7305b" data-uslm-ref="/us/usc/t20/s7305b">7305b.</a>  </td>
 
     <td> Transferability of funds.  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> 
-
-subpart 3—state and local flexibility demonstration  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs7311" data-uslm-ref="/us/usc/t20/s7311">7311.</a>  </td>
-
-    <td> Short title.  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs7311a" data-uslm-ref="/us/usc/t20/s7311a">7311a.</a>  </td>
-
-    <td> Purpose.  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs7311b" data-uslm-ref="/us/usc/t20/s7311b">7311b.</a>  </td>
-
-    <td> General provision.  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> 
-
-Division A—State Flexibility Authority  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs7315" data-uslm-ref="/us/usc/t20/s7315">7315.</a>  </td>
-
-    <td> State flexibility.  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs7315a" data-uslm-ref="/us/usc/t20/s7315a">7315a.</a>  </td>
-
-    <td> Consolidation and use of funds.  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs7315b" data-uslm-ref="/us/usc/t20/s7315b">7315b.</a>  </td>
-
-    <td> Performance review and penalties.  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs7315c" data-uslm-ref="/us/usc/t20/s7315c">7315c.</a>  </td>
-
-    <td> Renewal of grant of flexibility authority.  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> 
-
-Division B—Local Flexibility Demonstration  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs7321" data-uslm-ref="/us/usc/t20/s7321">7321.</a>  </td>
-
-    <td> Local flexibility demonstration agreements.  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs7321a" data-uslm-ref="/us/usc/t20/s7321a">7321a.</a>  </td>
-
-    <td> Consolidation and use of funds.  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs7321b" data-uslm-ref="/us/usc/t20/s7321b">7321b.</a>  </td>
-
-    <td> Limitations on administrative expenditures.  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs7321c" data-uslm-ref="/us/usc/t20/s7321c">7321c.</a>  </td>
-
-    <td> Performance review and penalties.  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs7321d" data-uslm-ref="/us/usc/t20/s7321d">7321d.</a>  </td>
-
-    <td> Renewal of local flexibility demonstration agreement.  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs7321e" data-uslm-ref="/us/usc/t20/s7321e">7321e.</a>  </td>
-
-    <td> Reports.  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> 
-
-subpart 4—state accountability for adequate yearly progress  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs7325" data-uslm-ref="/us/usc/t20/s7325">7325.</a>  </td>
-
-    <td> Accountability for adequate yearly progress.  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs7325a" data-uslm-ref="/us/usc/t20/s7325a">7325a.</a>  </td>
-
-    <td> Peer review.  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs7325b" data-uslm-ref="/us/usc/t20/s7325b">7325b.</a>  </td>
-
-    <td> Technical assistance.  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs7325c" data-uslm-ref="/us/usc/t20/s7325c">7325c.</a>  </td>
-
-    <td> Report to Congress.  </td>
 
   </tr>
 
@@ -4371,7 +1899,7 @@ subpart 1—small, rural school achievement program  </td>
 
     <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs7345b" data-uslm-ref="/us/usc/t20/s7345b">7345b.</a>  </td>
 
-    <td> Accountability.  </td>
+    <td> Repealed.  </td>
 
   </tr>
 
@@ -4411,7 +1939,15 @@ subpart 2—rural and low-income school program  </td>
 
     <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs7351c" data-uslm-ref="/us/usc/t20/s7351c">7351c.</a>  </td>
 
-    <td> Accountability.  </td>
+    <td> Report.  </td>
+
+  </tr>
+
+  <tr>
+
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs7351d" data-uslm-ref="/us/usc/t20/s7351d">7351d.</a>  </td>
+
+    <td> Choice of participation.  </td>
 
   </tr>
 
@@ -4483,7 +2019,7 @@ Part C—General Provisions  </td>
 
     <td> 
 
-SUBCHAPTER VII—INDIAN, NATIVE HAWAIIAN, AND ALASKA NATIVE EDUCATION  </td>
+SUBCHAPTER VI—INDIAN, NATIVE HAWAIIAN, AND ALASKA NATIVE EDUCATION  </td>
 
   </tr>
 
@@ -4603,7 +2139,7 @@ subpart 2—special programs and projects to improve educational opportunities f
 
     <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs7441" data-uslm-ref="/us/usc/t20/s7441">7441.</a>  </td>
 
-    <td> Improvement of educational opportunities for Indian children.  </td>
+    <td> Improvement of educational opportunities for Indian children and youth.  </td>
 
   </tr>
 
@@ -4635,7 +2171,7 @@ subpart 3—national activities  </td>
 
     <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs7452" data-uslm-ref="/us/usc/t20/s7452">7452.</a>  </td>
 
-    <td> In-service training for teachers of Indian children.  </td>
+    <td> Grants to tribes for education administrative planning, development, and coordination.  </td>
 
   </tr>
 
@@ -4643,31 +2179,15 @@ subpart 3—national activities  </td>
 
     <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs7453" data-uslm-ref="/us/usc/t20/s7453">7453.</a>  </td>
 
-    <td> Fellowships for Indian students.  </td>
+    <td> Native American and Alaska Native language immersion schools and programs.  </td>
 
   </tr>
 
   <tr>
 
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs7454" data-uslm-ref="/us/usc/t20/s7454">7454.</a>  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs7454" data-uslm-ref="/us/usc/t20/s7454">7454</a> to <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs7456" data-uslm-ref="/us/usc/t20/s7456">7456.</a>  </td>
 
-    <td> Gifted and talented Indian students.  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs7455" data-uslm-ref="/us/usc/t20/s7455">7455.</a>  </td>
-
-    <td> Grants to tribes for education administrative planning and development.  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs7456" data-uslm-ref="/us/usc/t20/s7456">7456.</a>  </td>
-
-    <td> Improvement of educational opportunities for adult Indians.  </td>
+    <td> Repealed.  </td>
 
   </tr>
 
@@ -4771,7 +2291,7 @@ Part B—Native Hawaiian Education  </td>
 
     <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs7514" data-uslm-ref="/us/usc/t20/s7514">7514.</a>  </td>
 
-    <td> Native Hawaiian Education Council and island councils.  </td>
+    <td> Native Hawaiian Education Council.  </td>
 
   </tr>
 
@@ -4859,7 +2379,7 @@ Part C—Alaska Native Education  </td>
 
     <td> 
 
-SUBCHAPTER VIII—IMPACT AID  </td>
+SUBCHAPTER VII—IMPACT AID  </td>
 
   </tr>
 
@@ -4916,14 +2436,6 @@ SUBCHAPTER VIII—IMPACT AID  </td>
     <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs7705" data-uslm-ref="/us/usc/t20/s7705">7705.</a>  </td>
 
     <td> Application for payments under sections 7702 and 7703 of this title.  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs7706" data-uslm-ref="/us/usc/t20/s7706">7706.</a>  </td>
-
-    <td> Repealed.  </td>
 
   </tr>
 
@@ -5003,7 +2515,7 @@ SUBCHAPTER VIII—IMPACT AID  </td>
 
     <td> 
 
-SUBCHAPTER IX—GENERAL PROVISIONS  </td>
+SUBCHAPTER VIII—GENERAL PROVISIONS  </td>
 
   </tr>
 
@@ -5035,7 +2547,7 @@ Part A—Definitions  </td>
 
     <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs7803" data-uslm-ref="/us/usc/t20/s7803">7803.</a>  </td>
 
-    <td> Applicability to Bureau of Indian Affairs operated schools.  </td>
+    <td> Applicability to Bureau of Indian Education operated schools.  </td>
 
   </tr>
 
@@ -5076,6 +2588,14 @@ Part B—Flexibility in the Use of Administrative and Other Funds  </td>
     <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs7824" data-uslm-ref="/us/usc/t20/s7824">7824.</a>  </td>
 
     <td> Consolidated set-aside for Department of the Interior funds.  </td>
+
+  </tr>
+
+  <tr>
+
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs7825" data-uslm-ref="/us/usc/t20/s7825">7825.</a>  </td>
+
+    <td> Department staff.  </td>
 
   </tr>
 
@@ -5155,7 +2675,31 @@ Part D—Waivers  </td>
 
     <td> 
 
-Part E—Uniform Provisions  </td>
+Part E—Approval and Disapproval of State Plans and Local Applications  </td>
+
+  </tr>
+
+  <tr>
+
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs7871" data-uslm-ref="/us/usc/t20/s7871">7871.</a>  </td>
+
+    <td> Approval and disapproval of State plans.  </td>
+
+  </tr>
+
+  <tr>
+
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs7872" data-uslm-ref="/us/usc/t20/s7872">7872.</a>  </td>
+
+    <td> Approval and disapproval of local educational agency applications.  </td>
+
+  </tr>
+
+  <tr>
+
+    <td> 
+
+Part F—Uniform Provisions  </td>
 
   </tr>
 
@@ -5267,7 +2811,15 @@ subpart 2—other provisions  </td>
 
     <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs7906" data-uslm-ref="/us/usc/t20/s7906">7906.</a>  </td>
 
-    <td> General prohibitions.  </td>
+    <td> Prohibited uses of funds.  </td>
+
+  </tr>
+
+  <tr>
+
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs7906a" data-uslm-ref="/us/usc/t20/s7906a">7906a.</a>  </td>
+
+    <td> Prohibition against Federal mandates, direction, or control.  </td>
 
   </tr>
 
@@ -5299,7 +2851,15 @@ subpart 2—other provisions  </td>
 
     <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs7910" data-uslm-ref="/us/usc/t20/s7910">7910.</a>  </td>
 
-    <td> Limitations on national testing or certification for teachers.  </td>
+    <td> Limitations on national testing or certification for teachers, principals, or other school leaders.  </td>
+
+  </tr>
+
+  <tr>
+
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs7910a" data-uslm-ref="/us/usc/t20/s7910a">7910a.</a>  </td>
+
+    <td> Prohibition on requiring State participation.  </td>
 
   </tr>
 
@@ -5353,15 +2913,287 @@ subpart 2—other provisions  </td>
 
   <tr>
 
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs7917" data-uslm-ref="/us/usc/t20/s7917">7917.</a>  </td>
+
+    <td> Transfer of school disciplinary records.  </td>
+
+  </tr>
+
+  <tr>
+
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs7918" data-uslm-ref="/us/usc/t20/s7918">7918.</a>  </td>
+
+    <td> Consultation with Indian tribes and tribal organizations.  </td>
+
+  </tr>
+
+  <tr>
+
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs7919" data-uslm-ref="/us/usc/t20/s7919">7919.</a>  </td>
+
+    <td> Outreach and technical assistance for rural local educational agencies.  </td>
+
+  </tr>
+
+  <tr>
+
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs7920" data-uslm-ref="/us/usc/t20/s7920">7920.</a>  </td>
+
+    <td> Consultation with the Governor.  </td>
+
+  </tr>
+
+  <tr>
+
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs7921" data-uslm-ref="/us/usc/t20/s7921">7921.</a>  </td>
+
+    <td> Local governance.  </td>
+
+  </tr>
+
+  <tr>
+
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs7922" data-uslm-ref="/us/usc/t20/s7922">7922.</a>  </td>
+
+    <td> Rule of construction regarding travel to and from school.  </td>
+
+  </tr>
+
+  <tr>
+
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs7923" data-uslm-ref="/us/usc/t20/s7923">7923.</a>  </td>
+
+    <td> Limitations on school-based health centers.  </td>
+
+  </tr>
+
+  <tr>
+
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs7924" data-uslm-ref="/us/usc/t20/s7924">7924.</a>  </td>
+
+    <td> State control over standards.  </td>
+
+  </tr>
+
+  <tr>
+
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs7925" data-uslm-ref="/us/usc/t20/s7925">7925.</a>  </td>
+
+    <td> Sense of Congress on protecting student privacy.  </td>
+
+  </tr>
+
+  <tr>
+
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs7926" data-uslm-ref="/us/usc/t20/s7926">7926.</a>  </td>
+
+    <td> Prohibition on aiding and abetting sexual abuse.  </td>
+
+  </tr>
+
+  <tr>
+
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs7927" data-uslm-ref="/us/usc/t20/s7927">7927.</a>  </td>
+
+    <td> Sense of Congress on restoration of State sovereignty over public education.  </td>
+
+  </tr>
+
+  <tr>
+
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs7928" data-uslm-ref="/us/usc/t20/s7928">7928.</a>  </td>
+
+    <td> Privacy.  </td>
+
+  </tr>
+
+  <tr>
+
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs7929" data-uslm-ref="/us/usc/t20/s7929">7929.</a>  </td>
+
+    <td> Analysis and periodic review of departmental guidance.  </td>
+
+  </tr>
+
+  <tr>
+
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs7930" data-uslm-ref="/us/usc/t20/s7930">7930.</a>  </td>
+
+    <td> Sense of Congress.  </td>
+
+  </tr>
+
+  <tr>
+
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs7931" data-uslm-ref="/us/usc/t20/s7931">7931.</a>  </td>
+
+    <td> Sense of Congress on early learning and child care.  </td>
+
+  </tr>
+
+  <tr>
+
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs7932" data-uslm-ref="/us/usc/t20/s7932">7932.</a>  </td>
+
+    <td> Technical assistance.  </td>
+
+  </tr>
+
+  <tr>
+
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs7933" data-uslm-ref="/us/usc/t20/s7933">7933.</a>  </td>
+
+    <td> Preventing improper use of taxpayer funds.  </td>
+
+  </tr>
+
+  <tr>
+
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs7934" data-uslm-ref="/us/usc/t20/s7934">7934.</a>  </td>
+
+    <td> Accountability to taxpayers through monitoring and oversight.  </td>
+
+  </tr>
+
+  <tr>
+
     <td> 
 
-Part F—Evaluations  </td>
+subpart 3—teacher liability protection  </td>
 
   </tr>
 
   <tr>
 
     <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs7941" data-uslm-ref="/us/usc/t20/s7941">7941.</a>  </td>
+
+    <td> Short title.  </td>
+
+  </tr>
+
+  <tr>
+
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs7942" data-uslm-ref="/us/usc/t20/s7942">7942.</a>  </td>
+
+    <td> Purpose.  </td>
+
+  </tr>
+
+  <tr>
+
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs7943" data-uslm-ref="/us/usc/t20/s7943">7943.</a>  </td>
+
+    <td> Definitions.  </td>
+
+  </tr>
+
+  <tr>
+
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs7944" data-uslm-ref="/us/usc/t20/s7944">7944.</a>  </td>
+
+    <td> Applicability.  </td>
+
+  </tr>
+
+  <tr>
+
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs7945" data-uslm-ref="/us/usc/t20/s7945">7945.</a>  </td>
+
+    <td> Preemption and election of State nonapplicability.  </td>
+
+  </tr>
+
+  <tr>
+
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs7946" data-uslm-ref="/us/usc/t20/s7946">7946.</a>  </td>
+
+    <td> Limitation on liability for teachers.  </td>
+
+  </tr>
+
+  <tr>
+
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs7947" data-uslm-ref="/us/usc/t20/s7947">7947.</a>  </td>
+
+    <td> Allocation of responsibility for noneconomic loss.  </td>
+
+  </tr>
+
+  <tr>
+
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs7948" data-uslm-ref="/us/usc/t20/s7948">7948.</a>  </td>
+
+    <td> Effective date.  </td>
+
+  </tr>
+
+  <tr>
+
+    <td> 
+
+subpart 4—gun possession  </td>
+
+  </tr>
+
+  <tr>
+
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs7961" data-uslm-ref="/us/usc/t20/s7961">7961.</a>  </td>
+
+    <td> Gun-free requirements.  </td>
+
+  </tr>
+
+  <tr>
+
+    <td> 
+
+subpart 5—environmental tobacco smoke  </td>
+
+  </tr>
+
+  <tr>
+
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs7971" data-uslm-ref="/us/usc/t20/s7971">7971.</a>  </td>
+
+    <td> Short title.  </td>
+
+  </tr>
+
+  <tr>
+
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs7972" data-uslm-ref="/us/usc/t20/s7972">7972.</a>  </td>
+
+    <td> Definitions.  </td>
+
+  </tr>
+
+  <tr>
+
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs7973" data-uslm-ref="/us/usc/t20/s7973">7973.</a>  </td>
+
+    <td> Nonsmoking policy for children’s services.  </td>
+
+  </tr>
+
+  <tr>
+
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs7974" data-uslm-ref="/us/usc/t20/s7974">7974.</a>  </td>
+
+    <td> Preemption.  </td>
+
+  </tr>
+
+  <tr>
+
+    <td> 
+
+Part G—Evaluations  </td>
+
+  </tr>
+
+  <tr>
+
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft20%2Fs7981" data-uslm-ref="/us/usc/t20/s7981">7981.</a>  </td>
 
     <td> Evaluations.  </td>
 
@@ -5995,7 +3827,7 @@ Part H—Sense of Congress  </td>
 
  __Codification__ 
 
-    The Elementary and Secondary Education Act of 1965, comprising this chapter, was originally enacted as [Pub. L. 89–10][/us/pl/89/10], Apr. 11, 1965, [79 Stat. 27][/us/stat/79/27], and amended by [Pub. L. 89–750][/us/pl/89/750], Nov. 3, 1966, [80 Stat. 1191][/us/stat/80/1191]; [Pub. L. 90–247][/us/pl/90/247], Jan. 2, 1968, [81 Stat. 783][/us/stat/81/783]; [Pub. L. 90–576, title III, § 307][/us/pl/90/576/s307], Oct. 16, 1968, [82 Stat. 1097][/us/stat/82/1097]; [Pub. L. 91–230][/us/pl/91/230], Apr. 13, 1970, [84 Stat. 121][/us/stat/84/121]; [Pub. L. 92–318][/us/pl/92/318], June 23, 1972, [86 Stat. 235][/us/stat/86/235]; [Pub. L. 93–380][/us/pl/93/380], Aug. 21, 1974, [88 Stat. 484][/us/stat/88/484]; [Pub. L. 94–193, § 1(c)][/us/pl/94/193/s1/c], Dec. 31, 1975, [89 Stat. 1102][/us/stat/89/1102]; [Pub. L. 94–273][/us/pl/94/273], §§ 2(12), 3(8), 49(a)–(c), Apr. 21, 1976, [90 Stat. 375][/us/stat/90/375], 376, 382; [Pub. L. 94–482][/us/pl/94/482], Oct. 12, 1976, [90 Stat. 2081][/us/stat/90/2081]; [Pub. L. 95–112][/us/pl/95/112], Aug. 24, 1977, [91 Stat. 911][/us/stat/91/911], and was classified to sections 241a et seq., 242 et seq., 331 et seq., 821 et seq., and 1801 et seq. of this title. The Act was subsequently extensively revised and restated by [Pub. L. 95–561][/us/pl/95/561], Nov. 1, 1978, [92 Stat. 2143][/us/stat/92/2143], and amended by [Pub. L. 96–46][/us/pl/96/46], Aug. 6, 1979, [93 Stat. 338][/us/stat/93/338]; [Pub. L. 96–88][/us/pl/96/88], Oct. 17, 1979, [93 Stat. 668][/us/stat/93/668]; [Pub. L. 96–374][/us/pl/96/374], Oct. 3, 1980, [94 Stat. 1367][/us/stat/94/1367]; [Pub. L. 96–470][/us/pl/96/470], Oct. 19, 1980, [94 Stat. 2237][/us/stat/94/2237]; [Pub. L. 97–35][/us/pl/97/35], Aug. 13, 1981, [95 Stat. 357][/us/stat/95/357]; [Pub. L. 98–211][/us/pl/98/211], Dec. 8, 1983, [97 Stat. 1412][/us/stat/97/1412]; [Pub. L. 98–511][/us/pl/98/511], Oct. 19, 1984, [98 Stat. 2366][/us/stat/98/2366]; [Pub. L. 98–524][/us/pl/98/524], Oct. 19, 1984, [98 Stat. 2435][/us/stat/98/2435]; [Pub. L. 99–159][/us/pl/99/159], Nov. 22, 1985, [99 Stat. 887][/us/stat/99/887], and was classified to section 2701 et seq. of this title. The Act was subsequently extensively revised and restated by [Pub. L. 100–297][/us/pl/100/297], Apr. 28, 1988, [102 Stat. 130][/us/stat/102/130], and amended by [Pub. L. 100–569][/us/pl/100/569], Oct. 31, 1988, [102 Stat. 2862][/us/stat/102/2862]; [Pub. L. 100–570][/us/pl/100/570], Oct. 31, 1988, [102 Stat. 2865][/us/stat/102/2865]; [Pub. L. 100–690][/us/pl/100/690], Nov. 18, 1988, [102 Stat. 4181][/us/stat/102/4181]; [Pub. L. 101–226][/us/pl/101/226], Dec. 12, 1989, [103 Stat. 1928][/us/stat/103/1928]; [Pub. L. 101–250][/us/pl/101/250], Mar. 6, 1990, [104 Stat. 96][/us/stat/104/96]; [Pub. L. 101–476][/us/pl/101/476], Oct. 30, 1990, [104 Stat. 1103][/us/stat/104/1103]; [Pub. L. 101–589][/us/pl/101/589], Nov. 16, 1990, [104 Stat. 2881][/us/stat/104/2881]; [Pub. L. 101–600][/us/pl/101/600], Nov. 16, 1990, [104 Stat. 3042][/us/stat/104/3042]; [Pub. L. 101–647][/us/pl/101/647], Nov. 29, 1990, [104 Stat. 4789][/us/stat/104/4789]; [Pub. L. 102–62][/us/pl/102/62], June 27, 1991, [105 Stat. 305][/us/stat/105/305]; [Pub. L. 102–73][/us/pl/102/73], July 25, 1991, [105 Stat. 333][/us/stat/105/333]; [Pub. L. 102–103][/us/pl/102/103], Aug. 17, 1991, [105 Stat. 497][/us/stat/105/497]; [Pub. L. 102–325][/us/pl/102/325], July 23, 1992, [106 Stat. 448][/us/stat/106/448]; [Pub. L. 102–359][/us/pl/102/359], Aug. 26, 1992, [106 Stat. 962][/us/stat/106/962]; [Pub. L. 102–545][/us/pl/102/545], Oct. 27, 1992, [106 Stat. 3586][/us/stat/106/3586]; [Pub. L. 103–227][/us/pl/103/227], Mar. 31, 1994, [108 Stat. 125][/us/stat/108/125]; [Pub. L. 103–252][/us/pl/103/252], May 18, 1994, [108 Stat. 623][/us/stat/108/623], and was classified to section 2701 et seq. of this title. The Act was subsequently extensively revised and restated by [Pub. L. 103–382][/us/pl/103/382], Oct. 20, 1994, [108 Stat. 3518][/us/stat/108/3518], and amended by [Pub. L. 104–5][/us/pl/104/5], Mar. 23, 1995, [109 Stat. 72][/us/stat/109/72]; [Pub. L. 104–106][/us/pl/104/106], Feb. 10, 1996, [110 Stat. 186][/us/stat/110/186]; [Pub. L. 104–134][/us/pl/104/134], Apr. 26, 1996, [110 Stat. 1321][/us/stat/110/1321]; [Pub. L. 104–140][/us/pl/104/140], May 2, 1996, [110 Stat. 1327][/us/stat/110/1327]; [Pub. L. 104–193][/us/pl/104/193], Aug. 22, 1996, [110 Stat. 2105][/us/stat/110/2105]; [Pub. L. 104–195][/us/pl/104/195], Sept. 16, 1996, [110 Stat. 2379][/us/stat/110/2379]; [Pub. L. 104–201][/us/pl/104/201], Sept. 23, 1996, [110 Stat. 2422][/us/stat/110/2422]; [Pub. L. 104–208][/us/pl/104/208], Sept. 30, 1996, [110 Stat. 3009][/us/stat/110/3009]; [Pub. L. 105–18][/us/pl/105/18], June 12, 1997, [111 Stat. 158][/us/stat/111/158]; [Pub. L. 105–78][/us/pl/105/78], Nov. 13, 1997, [111 Stat. 1467][/us/stat/111/1467]; [Pub. L. 105–220][/us/pl/105/220], Aug. 7, 1998, [112 Stat. 936][/us/stat/112/936]; [Pub. L. 105–244][/us/pl/105/244], Oct. 7, 1998, [112 Stat. 1581][/us/stat/112/1581]; [Pub. L. 105–277][/us/pl/105/277], Oct. 21, 1998, [112 Stat. 2681][/us/stat/112/2681]; [Pub. L. 105–278][/us/pl/105/278], Oct. 22, 1998, [112 Stat. 2682][/us/stat/112/2682]; [Pub. L. 105–332][/us/pl/105/332], Oct. 31, 1998, [112 Stat. 3076][/us/stat/112/3076]; [Pub. L. 106–78][/us/pl/106/78], Oct. 22, 1999, [113 Stat. 1135][/us/stat/113/1135]; [Pub. L. 106–113][/us/pl/106/113], Nov. 29, 1999, [113 Stat. 1501][/us/stat/113/1501]; [Pub. L. 106–398][/us/pl/106/398], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654]; [Pub. L. 106–400][/us/pl/106/400], Oct. 30, 2000, [114 Stat. 1675][/us/stat/114/1675]; [Pub. L. 106–554][/us/pl/106/554], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763]; [Pub. L. 107–20][/us/pl/107/20], July 24, 2001, [115 Stat. 155][/us/stat/115/155], and is classified to section 6301 et seq. of this title. Titles I to VII and IX of the Act are shown, herein, however, as having been added by [Pub. L. 107–110][/us/pl/107/110] without reference to such intervening amendments because of the extensive amendments, renumbering, and reorganization of these provisions by [Pub. L. 107–110][/us/pl/107/110].
+    The Elementary and Secondary Education Act of 1965, comprising this chapter, was originally enacted as [Pub. L. 89–10][/us/pl/89/10], Apr. 11, 1965, [79 Stat. 27][/us/stat/79/27], and amended by [Pub. L. 89–750][/us/pl/89/750], Nov. 3, 1966, [80 Stat. 1191][/us/stat/80/1191]; [Pub. L. 90–247][/us/pl/90/247], Jan. 2, 1968, [81 Stat. 783][/us/stat/81/783]; [Pub. L. 90–576, title III][/us/pl/90/576/tIII], § 307, Oct. 16, 1968, [82 Stat. 1097][/us/stat/82/1097]; [Pub. L. 91–230][/us/pl/91/230], Apr. 13, 1970, [84 Stat. 121][/us/stat/84/121]; [Pub. L. 92–318][/us/pl/92/318], June 23, 1972, [86 Stat. 235][/us/stat/86/235]; [Pub. L. 93–380][/us/pl/93/380], Aug. 21, 1974, [88 Stat. 484][/us/stat/88/484]; [Pub. L. 94–193][/us/pl/94/193], § 1(c), Dec. 31, 1975, [89 Stat. 1102][/us/stat/89/1102]; [Pub. L. 94–273][/us/pl/94/273], §§ 2(12), 3(8), 49(a)–(c), Apr. 21, 1976, [90 Stat. 375][/us/stat/90/375], 376, 382; [Pub. L. 94–482][/us/pl/94/482], Oct. 12, 1976, [90 Stat. 2081][/us/stat/90/2081]; [Pub. L. 95–112][/us/pl/95/112], Aug. 24, 1977, [91 Stat. 911][/us/stat/91/911], and was classified to sections 241a et seq., 242 et seq., 331 et seq., 821 et seq., and 1801 et seq. of this title. The Act was subsequently extensively revised and restated by [Pub. L. 95–561][/us/pl/95/561], Nov. 1, 1978, [92 Stat. 2143][/us/stat/92/2143], and amended by [Pub. L. 96–46][/us/pl/96/46], Aug. 6, 1979, [93 Stat. 338][/us/stat/93/338]; [Pub. L. 96–88][/us/pl/96/88], Oct. 17, 1979, [93 Stat. 668][/us/stat/93/668]; [Pub. L. 96–374][/us/pl/96/374], Oct. 3, 1980, [94 Stat. 1367][/us/stat/94/1367]; [Pub. L. 96–470][/us/pl/96/470], Oct. 19, 1980, [94 Stat. 2237][/us/stat/94/2237]; [Pub. L. 97–35][/us/pl/97/35], Aug. 13, 1981, [95 Stat. 357][/us/stat/95/357]; [Pub. L. 98–211][/us/pl/98/211], Dec. 8, 1983, [97 Stat. 1412][/us/stat/97/1412]; [Pub. L. 98–511][/us/pl/98/511], Oct. 19, 1984, [98 Stat. 2366][/us/stat/98/2366]; [Pub. L. 98–524][/us/pl/98/524], Oct. 19, 1984, [98 Stat. 2435][/us/stat/98/2435]; [Pub. L. 99–159][/us/pl/99/159], Nov. 22, 1985, [99 Stat. 887][/us/stat/99/887], and was classified to section 2701 et seq. of this title. The Act was subsequently extensively revised and restated by [Pub. L. 100–297][/us/pl/100/297], Apr. 28, 1988, [102 Stat. 130][/us/stat/102/130], and amended by [Pub. L. 100–569][/us/pl/100/569], Oct. 31, 1988, [102 Stat. 2862][/us/stat/102/2862]; [Pub. L. 100–570][/us/pl/100/570], Oct. 31, 1988, [102 Stat. 2865][/us/stat/102/2865]; [Pub. L. 100–690][/us/pl/100/690], Nov. 18, 1988, [102 Stat. 4181][/us/stat/102/4181]; [Pub. L. 101–226][/us/pl/101/226], Dec. 12, 1989, [103 Stat. 1928][/us/stat/103/1928]; [Pub. L. 101–250][/us/pl/101/250], Mar. 6, 1990, [104 Stat. 96][/us/stat/104/96]; [Pub. L. 101–476][/us/pl/101/476], Oct. 30, 1990, [104 Stat. 1103][/us/stat/104/1103]; [Pub. L. 101–589][/us/pl/101/589], Nov. 16, 1990, [104 Stat. 2881][/us/stat/104/2881]; [Pub. L. 101–600][/us/pl/101/600], Nov. 16, 1990, [104 Stat. 3042][/us/stat/104/3042]; [Pub. L. 101–647][/us/pl/101/647], Nov. 29, 1990, [104 Stat. 4789][/us/stat/104/4789]; [Pub. L. 102–62][/us/pl/102/62], June 27, 1991, [105 Stat. 305][/us/stat/105/305]; [Pub. L. 102–73][/us/pl/102/73], July 25, 1991, [105 Stat. 333][/us/stat/105/333]; [Pub. L. 102–103][/us/pl/102/103], Aug. 17, 1991, [105 Stat. 497][/us/stat/105/497]; [Pub. L. 102–325][/us/pl/102/325], July 23, 1992, [106 Stat. 448][/us/stat/106/448]; [Pub. L. 102–359][/us/pl/102/359], Aug. 26, 1992, [106 Stat. 962][/us/stat/106/962]; [Pub. L. 102–545][/us/pl/102/545], Oct. 27, 1992, [106 Stat. 3586][/us/stat/106/3586]; [Pub. L. 103–227][/us/pl/103/227], Mar. 31, 1994, [108 Stat. 125][/us/stat/108/125]; [Pub. L. 103–252][/us/pl/103/252], May 18, 1994, [108 Stat. 623][/us/stat/108/623], and was classified to section 2701 et seq. of this title. The Act was subsequently extensively revised and restated by [Pub. L. 103–382][/us/pl/103/382], Oct. 20, 1994, [108 Stat. 3518][/us/stat/108/3518], and amended by [Pub. L. 104–5][/us/pl/104/5], Mar. 23, 1995, [109 Stat. 72][/us/stat/109/72]; [Pub. L. 104–106][/us/pl/104/106], Feb. 10, 1996, [110 Stat. 186][/us/stat/110/186]; [Pub. L. 104–134][/us/pl/104/134], Apr. 26, 1996, [110 Stat. 1321][/us/stat/110/1321]; [Pub. L. 104–140][/us/pl/104/140], May 2, 1996, [110 Stat. 1327][/us/stat/110/1327]; [Pub. L. 104–193][/us/pl/104/193], Aug. 22, 1996, [110 Stat. 2105][/us/stat/110/2105]; [Pub. L. 104–195][/us/pl/104/195], Sept. 16, 1996, [110 Stat. 2379][/us/stat/110/2379]; [Pub. L. 104–201][/us/pl/104/201], Sept. 23, 1996, [110 Stat. 2422][/us/stat/110/2422]; [Pub. L. 104–208][/us/pl/104/208], Sept. 30, 1996, [110 Stat. 3009][/us/stat/110/3009]; [Pub. L. 105–18][/us/pl/105/18], June 12, 1997, [111 Stat. 158][/us/stat/111/158]; [Pub. L. 105–78][/us/pl/105/78], Nov. 13, 1997, [111 Stat. 1467][/us/stat/111/1467]; [Pub. L. 105–220][/us/pl/105/220], Aug. 7, 1998, [112 Stat. 936][/us/stat/112/936]; [Pub. L. 105–244][/us/pl/105/244], Oct. 7, 1998, [112 Stat. 1581][/us/stat/112/1581]; [Pub. L. 105–277][/us/pl/105/277], Oct. 21, 1998, [112 Stat. 2681][/us/stat/112/2681]; [Pub. L. 105–278][/us/pl/105/278], Oct. 22, 1998, [112 Stat. 2682][/us/stat/112/2682]; [Pub. L. 105–332][/us/pl/105/332], Oct. 31, 1998, [112 Stat. 3076][/us/stat/112/3076]; [Pub. L. 106–78][/us/pl/106/78], Oct. 22, 1999, [113 Stat. 1135][/us/stat/113/1135]; [Pub. L. 106–113][/us/pl/106/113], Nov. 29, 1999, [113 Stat. 1501][/us/stat/113/1501]; [Pub. L. 106–398][/us/pl/106/398], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654]; [Pub. L. 106–400][/us/pl/106/400], Oct. 30, 2000, [114 Stat. 1675][/us/stat/114/1675]; [Pub. L. 106–554][/us/pl/106/554], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763]; [Pub. L. 107–20][/us/pl/107/20], July 24, 2001, [115 Stat. 155][/us/stat/115/155], and is classified to section 6301 et seq. of this title. Certain titles and parts of titles of the Act are shown, herein, however, as having been added by [Pub. L. 107–110][/us/pl/107/110] without reference to such intervening amendments because of the extensive amendments, renumbering, and reorganization of these provisions by [Pub. L. 107–110][/us/pl/107/110].
 
 ----------
 
@@ -6010,7 +3842,7 @@ Part H—Sense of Congress  </td>
 [/us/stat/80/1191]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F1191
 [/us/pl/90/247]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F247
 [/us/stat/81/783]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F783
-[/us/pl/90/576/s307]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F576%2Fs307
+[/us/pl/90/576/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F576%2FtIII
 [/us/stat/82/1097]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F1097
 [/us/pl/91/230]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F230
 [/us/stat/84/121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F121
@@ -6018,7 +3850,7 @@ Part H—Sense of Congress  </td>
 [/us/stat/86/235]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F235
 [/us/pl/93/380]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F380
 [/us/stat/88/484]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F484
-[/us/pl/94/193/s1/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F193%2Fs1%2Fc
+[/us/pl/94/193]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F193
 [/us/stat/89/1102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F1102
 [/us/pl/94/273]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F273
 [/us/stat/90/375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F375

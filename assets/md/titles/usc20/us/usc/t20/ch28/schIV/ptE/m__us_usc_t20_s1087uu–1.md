@@ -21,7 +21,7 @@
 
     (2) any income received by the student (and spouse) and student’s parents under the Alaska Native Claims Settlement Act ([43 U.S.C. 1601][/us/usc/t43/s1601] et seq.) or the Maine Indian Claims Settlement Act of 1980 ([25 U.S.C. 1721][/us/usc/t25/s1721] et seq.).
 
-([Pub. L. 89–329, title IV, § 479C][/us/pl/89/329/s479C], as added [Pub. L. 100–50, § 14(27)][/us/pl/100/50/s14/27], June 3, 1987, [101 Stat. 353][/us/stat/101/353]; amended [Pub. L. 102–325, title IV, § 471(a)][/us/pl/102/325/s471/a], July 23, 1992, [106 Stat. 606][/us/stat/106/606]; [Pub. L. 111–39, title IV, § 406(a)(5)][/us/pl/111/39/s406/a/5], July 1, 2009, [123 Stat. 1949][/us/stat/123/1949].)
+([Pub. L. 89–329, title IV][/us/pl/89/329/tIV], § 479C, as added [Pub. L. 100–50][/us/pl/100/50], § 14(27), June 3, 1987, [101 Stat. 353][/us/stat/101/353]; amended [Pub. L. 102–325, title IV][/us/pl/102/325/tIV], § 471(a), July 23, 1992, [106 Stat. 606][/us/stat/106/606]; [Pub. L. 111–39, title IV][/us/pl/111/39/tIV], § 406(a)(5), July 1, 2009, [123 Stat. 1949][/us/stat/123/1949].)
 
  __References in Text__ 
 
@@ -35,9 +35,9 @@
 
  __Amendments__ 
 
-    2009—Par. (1). [Pub. L. 111–39, § 406(a)(5)(A)][/us/pl/111/39/s406/a/5/A], substituted “under [Public Law 98–64][/us/pl/98/64] ([25 U.S.C. 117a][/us/usc/t25/s117a] et seq.; [97 Stat. 365][/us/stat/97/365]) (commonly known as the ‘Per Capita Act’) or the Indian Tribal Judgment Funds Use or Distribution Act ([25 U.S.C. 1401][/us/usc/t25/s1401] et seq.); and” for “under the Per Capita Act or the Distribution of Judgment Funds Act; and”.
+    2009—Par. (1). [Pub. L. 111–39][/us/pl/111/39], § 406(a)(5)(A), substituted “under [Public Law 98–64][/us/pl/98/64] ([25 U.S.C. 117a][/us/usc/t25/s117a] et seq.; [97 Stat. 365][/us/stat/97/365]) (commonly known as the ‘Per Capita Act’) or the Indian Tribal Judgment Funds Use or Distribution Act ([25 U.S.C. 1401][/us/usc/t25/s1401] et seq.); and” for “under the Per Capita Act or the Distribution of Judgment Funds Act; and”.
 
-    Par. (2). [Pub. L. 111–39, § 406(a)(5)(B)][/us/pl/111/39/s406/a/5/B], substituted “Alaska” for “Alaskan” and inserted “([43 U.S.C. 1601][/us/usc/t43/s1601] et seq.)” after “Native Claims Settlement Act” and “of 1980 ([25 U.S.C. 1721][/us/usc/t25/s1721] et seq.)” after “Maine Indian Claims Settlement Act”.
+    Par. (2). [Pub. L. 111–39][/us/pl/111/39], § 406(a)(5)(B), substituted “Alaska” for “Alaskan” and inserted “([43 U.S.C. 1601][/us/usc/t43/s1601] et seq.)” after “Native Claims Settlement Act” and “of 1980 ([25 U.S.C. 1721][/us/usc/t25/s1721] et seq.)” after “Maine Indian Claims Settlement Act”.
 
     1992—[Pub. L. 102–325][/us/pl/102/325] amended section generally, reenacting provisions without change.
 
@@ -66,12 +66,12 @@
 [/us/usc/t25/s1401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs1401
 [/us/usc/t43/s1601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs1601
 [/us/usc/t25/s1721]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs1721
-[/us/pl/89/329/s479C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2Fs479C
-[/us/pl/100/50/s14/27]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F50%2Fs14%2F27
+[/us/pl/89/329/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2FtIV
+[/us/pl/100/50]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F50
 [/us/stat/101/353]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F353
-[/us/pl/102/325/s471/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325%2Fs471%2Fa
+[/us/pl/102/325/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325%2FtIV
 [/us/stat/106/606]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F606
-[/us/pl/111/39/s406/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F39%2Fs406%2Fa%2F5
+[/us/pl/111/39/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F39%2FtIV
 [/us/stat/123/1949]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1949
 [/us/pl/98/64]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F64
 [/us/pl/98/64]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F64
@@ -86,12 +86,12 @@
 [/us/pl/96/420]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F420
 [/us/stat/94/1785]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F1785
 [/us/usc/t25/s1721]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs1721
-[/us/pl/111/39/s406/a/5/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F39%2Fs406%2Fa%2F5%2FA
+[/us/pl/111/39]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F39
 [/us/pl/98/64]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F64
 [/us/usc/t25/s117a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs117a
 [/us/stat/97/365]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F365
 [/us/usc/t25/s1401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs1401
-[/us/pl/111/39/s406/a/5/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F39%2Fs406%2Fa%2F5%2FB
+[/us/pl/111/39]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F39
 [/us/usc/t43/s1601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs1601
 [/us/usc/t25/s1721]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs1721
 [/us/pl/102/325]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325

@@ -27,11 +27,11 @@
 
         (2) offers a postbaccalaureate certificate or postbaccalaureate degree granting program.
 
-([Pub. L. 89–329, title V, § 512][/us/pl/89/329/s512], as added [Pub. L. 110–315, title V, § 502(a)(3)][/us/pl/110/315/s502/a/3], Aug. 14, 2008, [122 Stat. 3332][/us/stat/122/3332].)
+([Pub. L. 89–329, title V][/us/pl/89/329/tV], § 512, as added [Pub. L. 110–315, title V][/us/pl/110/315/tV], § 502(a)(3), Aug. 14, 2008, [122 Stat. 3332][/us/stat/122/3332].)
 
  __Prior Provisions__ 
 
-    A prior section 1102a, [Pub. L. 89–329, title V, § 502][/us/pl/89/329/s502], as added [Pub. L. 102–325, title V, § 501(a)][/us/pl/102/325/s501/a], July 23, 1992, [106 Stat. 656][/us/stat/106/656], related to State applications for allotments, prior to the general amendment of this subchapter by [Pub. L. 105–244][/us/pl/105/244].
+    A prior section 1102a, [Pub. L. 89–329, title V][/us/pl/89/329/tV], § 502, as added [Pub. L. 102–325, title V][/us/pl/102/325/tV], § 501(a), July 23, 1992, [106 Stat. 656][/us/stat/106/656], related to State applications for allotments, prior to the general amendment of this subchapter by [Pub. L. 105–244][/us/pl/105/244].
 
     A prior [section 512 of Pub. L. 89–329][/us/pl/89/329/s512] was renumbered section 522, and is classified to [section 1103a of this title][/us/usc/t20/s1103a].
 
@@ -50,11 +50,11 @@
 
 [/us/usc/t20/s1102b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1102b
 [/us/usc/t20/s1101a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1101a
-[/us/pl/89/329/s512]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2Fs512
-[/us/pl/110/315/s502/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2Fs502%2Fa%2F3
+[/us/pl/89/329/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2FtV
+[/us/pl/110/315/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2FtV
 [/us/stat/122/3332]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3332
-[/us/pl/89/329/s502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2Fs502
-[/us/pl/102/325/s501/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325%2Fs501%2Fa
+[/us/pl/89/329/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2FtV
+[/us/pl/102/325/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325%2FtV
 [/us/stat/106/656]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F656
 [/us/pl/105/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244
 [/us/pl/89/329/s512]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2Fs512

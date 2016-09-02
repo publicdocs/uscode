@@ -165,17 +165,17 @@
 
         (4) correspondence.
 
-([Pub. L. 89–329, title IV, § 486][/us/pl/89/329/s486], as added [Pub. L. 99–498, title IV, § 407(a)][/us/pl/99/498/s407/a], Oct. 17, 1986, [100 Stat. 1487][/us/stat/100/1487]; amended [Pub. L. 102–325, title IV, § 489][/us/pl/102/325/s489], July 23, 1992, [106 Stat. 624][/us/stat/106/624]; [Pub. L. 105–244, title IV, § 488][/us/pl/105/244/s488], Oct. 7, 1998, [112 Stat. 1746][/us/stat/112/1746]; [Pub. L. 110–315, title I, § 103(b)(12)][/us/pl/110/315/s103/b/12], title IV, § 491, Aug. 14, 2008, [122 Stat. 3090][/us/stat/122/3090], 3307.)
+([Pub. L. 89–329, title IV][/us/pl/89/329/tIV], § 486, as added [Pub. L. 99–498, title IV][/us/pl/99/498/tIV], § 407(a), Oct. 17, 1986, [100 Stat. 1487][/us/stat/100/1487]; amended [Pub. L. 102–325, title IV][/us/pl/102/325/tIV], § 489, July 23, 1992, [106 Stat. 624][/us/stat/106/624]; [Pub. L. 105–244, title IV][/us/pl/105/244/tIV], § 488, Oct. 7, 1998, [112 Stat. 1746][/us/stat/112/1746]; [Pub. L. 110–315, title I][/us/pl/110/315/tI], § 103(b)(12), title IV, § 491, Aug. 14, 2008, [122 Stat. 3090][/us/stat/122/3090], 3307.)
 
  __Prior Provisions__ 
 
-    A prior section 1093, [Pub. L. 89–329, title IV, § 486][/us/pl/89/329/s486], as added [Pub. L. 96–374, title IV, § 451(a)][/us/pl/96/374/s451/a], Oct. 3, 1980, [94 Stat. 1450][/us/stat/94/1450], related to training in financial aid and student support services, prior to the general revision of this part by [Pub. L. 99–498][/us/pl/99/498].
+    A prior section 1093, [Pub. L. 89–329, title IV][/us/pl/89/329/tIV], § 486, as added [Pub. L. 96–374, title IV][/us/pl/96/374/tIV], § 451(a), Oct. 3, 1980, [94 Stat. 1450][/us/stat/94/1450], related to training in financial aid and student support services, prior to the general revision of this part by [Pub. L. 99–498][/us/pl/99/498].
 
  __Amendments__ 
 
-    2008—Subsec. (e). [Pub. L. 110–315, § 103(b)(12)][/us/pl/110/315/s103/b/12], substituted “authorizing committees” for “Committee on Labor and Human Resources of the Senate and the Committee on Education and the Workforce of the House of Representatives”.
+    2008—Subsec. (e). [Pub. L. 110–315][/us/pl/110/315], § 103(b)(12), substituted “authorizing committees” for “Committee on Labor and Human Resources of the Senate and the Committee on Education and the Workforce of the House of Representatives”.
 
-    Subsec. (f)(3). [Pub. L. 110–315, § 491][/us/pl/110/315/s491], substituted “Annual reports” for “Reports” in heading, in subpar. (B) redesignated cls. (i) and (ii) as subpars. (A) and (B), respectively, and adjusted their margins, and substituted “The Secretary shall provide reports to the authorizing committees on an annual basis” for former subpar. (A) which required Secretary to report to congressional committees on evaluations of demonstration programs and for introductory provisions of former subpar. (B) which related to additional annual reports.
+    Subsec. (f)(3). [Pub. L. 110–315][/us/pl/110/315], § 491, substituted “Annual reports” for “Reports” in heading, in subpar. (B) redesignated cls. (i) and (ii) as subpars. (A) and (B), respectively, and adjusted their margins, and substituted “The Secretary shall provide reports to the authorizing committees on an annual basis” for former subpar. (A) which required Secretary to report to congressional committees on evaluations of demonstration programs and for introductory provisions of former subpar. (B) which related to additional annual reports.
 
     1998—[Pub. L. 105–244][/us/pl/105/244] amended section catchline and text generally. Prior to amendment, section authorized Secretary to make grants to nonprofit private organizations to provide training for student financial aid administrators and TRIO personnel.
 
@@ -194,21 +194,21 @@
 
 [/us/usc/t20/s1002/a/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1002%2Fa%2F1%2FC
 [/us/usc/t20/s1002]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1002
-[/us/pl/89/329/s486]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2Fs486
-[/us/pl/99/498/s407/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F498%2Fs407%2Fa
+[/us/pl/89/329/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2FtIV
+[/us/pl/99/498/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F498%2FtIV
 [/us/stat/100/1487]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1487
-[/us/pl/102/325/s489]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325%2Fs489
+[/us/pl/102/325/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325%2FtIV
 [/us/stat/106/624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F624
-[/us/pl/105/244/s488]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2Fs488
+[/us/pl/105/244/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2FtIV
 [/us/stat/112/1746]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F1746
-[/us/pl/110/315/s103/b/12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2Fs103%2Fb%2F12
+[/us/pl/110/315/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2FtI
 [/us/stat/122/3090]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3090
-[/us/pl/89/329/s486]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2Fs486
-[/us/pl/96/374/s451/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F374%2Fs451%2Fa
+[/us/pl/89/329/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2FtIV
+[/us/pl/96/374/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F374%2FtIV
 [/us/stat/94/1450]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F1450
 [/us/pl/99/498]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F498
-[/us/pl/110/315/s103/b/12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2Fs103%2Fb%2F12
-[/us/pl/110/315/s491]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2Fs491
+[/us/pl/110/315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315
+[/us/pl/110/315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315
 [/us/pl/105/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244
 [/us/pl/102/325]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325
 [/us/pl/105/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244

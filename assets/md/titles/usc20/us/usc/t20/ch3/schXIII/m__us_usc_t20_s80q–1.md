@@ -31,7 +31,7 @@
 
         (4) provide for the means of carrying out paragraphs (1), (2), and (3) in the District of Columbia, the State of New York, and other appropriate locations.
 
-([Pub. L. 101–185, § 3][/us/pl/101/185/s3], Nov. 28, 1989, [103 Stat. 1337][/us/stat/103/1337].)
+([Pub. L. 101–185][/us/pl/101/185], § 3, Nov. 28, 1989, [103 Stat. 1337][/us/stat/103/1337].)
 
 ----------
 
@@ -40,7 +40,7 @@
 ----------
 ----------
 
-[/us/pl/101/185/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F185%2Fs3
+[/us/pl/101/185]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F185
 [/us/stat/103/1337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1337
 
 

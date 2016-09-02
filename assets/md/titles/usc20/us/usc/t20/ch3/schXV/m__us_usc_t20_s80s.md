@@ -35,11 +35,11 @@
 
         It is the purpose of this subchapter to create a new federally sponsored, authorized, and funded project that will coordinate at a national level the collection of video and audio recordings of personal histories and testimonials of individuals who participated in the American Civil Rights movement that will build upon and complement previous and ongoing documentary work on this subject, and to assist and encourage local efforts to preserve the memories of such individuals so that Americans of all current and future generations may hear from them directly and better appreciate the sacrifices they made.
 
-([Pub. L. 111–19, § 2][/us/pl/111/19/s2], May 12, 2009, [123 Stat. 1612][/us/stat/123/1612].)
+([Pub. L. 111–19][/us/pl/111/19], § 2, May 12, 2009, [123 Stat. 1612][/us/stat/123/1612].)
 
  __Short Title__ 
 
-[Pub. L. 111–19, § 1][/us/pl/111/19/s1], May 12, 2009, [123 Stat. 1612][/us/stat/123/1612], provided that: 
+[Pub. L. 111–19][/us/pl/111/19], § 1, May 12, 2009, [123 Stat. 1612][/us/stat/123/1612], provided that: 
 
 > “This Act \[enacting this subchapter\] may be cited as the ‘Civil Rights History Project Act of 2009’.”
 
@@ -50,9 +50,9 @@
 ----------
 ----------
 
-[/us/pl/111/19/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F19%2Fs2
+[/us/pl/111/19]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F19
 [/us/stat/123/1612]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1612
-[/us/pl/111/19/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F19%2Fs1
+[/us/pl/111/19]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F19
 [/us/stat/123/1612]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1612
 
 

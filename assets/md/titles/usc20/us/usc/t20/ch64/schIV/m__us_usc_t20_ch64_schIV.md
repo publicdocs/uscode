@@ -11,36 +11,16 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t20/ch64/schIII/ptB/m__us_usc_t20_s5351.md) | [Next](./../../../../..//us/usc/t20/ch64/schV/m__us_usc_t20_ch64_schV.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fch64%2FschIV)
+[Previous](./../../../../..//us/usc/t20/ch64/schIII/ptB/m__us_usc_t20_s5351.md) | [Next](./../../../../..//us/usc/t20/ch64/schIV/m__us_usc_t20_s5361...5364.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fch64%2FschIV)
 
 ### SUBCHAPTER IV—WOMEN AND MINORITIES IN MATHEMATICS, SCIENCE AND ENGINEERING
 
-§§ 5361 to 5364. __Repealed.__  __[__  __Pub. L. 103–382, title III, § 391(l)__  __][/us/pl/103/382/s391/l]__  __,__  __Oct. 20, 1994__  __,__  __[__  __108 Stat. 4023__  __][/us/stat/108/4023]__ 
-
-    Section 5361, [Pub. L. 101–589, title IV, § 401][/us/pl/101/589/s401], Nov. 16, 1990, [104 Stat. 2897][/us/stat/104/2897], stated purpose of this subchapter to increase participation of women and minorities in mathematics, science, and engineering.
-
-    Section 5362, [Pub. L. 101–589, title IV, § 402][/us/pl/101/589/s402], Nov. 16, 1990, [104 Stat. 2897][/us/stat/104/2897], related to Distinguished Visiting Professors.
-
-    Section 5363, [Pub. L. 101–589, title IV, § 403][/us/pl/101/589/s403], Nov. 16, 1990, [104 Stat. 2897][/us/stat/104/2897], related to faculty awards for women and minorities.
-
-    Section 5364, [Pub. L. 101–589, title IV, § 404][/us/pl/101/589/s404], Nov. 16, 1990, [104 Stat. 2897][/us/stat/104/2897], related to alliances for minority participation.
-
 ----------
 
-[Previous](./../../../../..//us/usc/t20/ch64/schIII/ptB/m__us_usc_t20_s5351.md) | [Next](./../../../../..//us/usc/t20/ch64/schV/m__us_usc_t20_ch64_schV.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fch64%2FschIV)
+[Previous](./../../../../..//us/usc/t20/ch64/schIII/ptB/m__us_usc_t20_s5351.md) | [Next](./../../../../..//us/usc/t20/ch64/schIV/m__us_usc_t20_s5361...5364.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fch64%2FschIV)
 
 ----------
 ----------
 
-[/us/pl/103/382/s391/l]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F382%2Fs391%2Fl
-[/us/stat/108/4023]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4023
-[/us/pl/101/589/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F589%2Fs401
-[/us/stat/104/2897]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F2897
-[/us/pl/101/589/s402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F589%2Fs402
-[/us/stat/104/2897]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F2897
-[/us/pl/101/589/s403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F589%2Fs403
-[/us/stat/104/2897]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F2897
-[/us/pl/101/589/s404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F589%2Fs404
-[/us/stat/104/2897]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F2897
 
 

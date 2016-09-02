@@ -53,7 +53,7 @@
 
         The term “qualifying National Guard duty during a war or other military operation or national emergency” means service as a member of the National Guard on full-time National Guard duty (as defined in [section 101(d)(5) of title 10][/us/usc/t10/s101/d/5]) under a call to active service authorized by the President or the Secretary of Defense for a period of more than 30 consecutive days under [section 502(f) of title 32][/us/usc/t32/s502/f], in connection with a war, another military operation, or a national emergency declared by the President and supported by Federal funds.
 
-([Pub. L. 108–76, § 5][/us/pl/108/76/s5], Aug. 18, 2003, [117 Stat. 906][/us/stat/117/906].)
+([Pub. L. 108–76][/us/pl/108/76], § 5, Aug. 18, 2003, [117 Stat. 906][/us/stat/117/906].)
 
  __Codification__ 
 
@@ -72,7 +72,7 @@
 [/us/usc/t10/s101/a/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs101%2Fa%2F13
 [/us/usc/t10/s101/d/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs101%2Fd%2F5
 [/us/usc/t32/s502/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft32%2Fs502%2Ff
-[/us/pl/108/76/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F76%2Fs5
+[/us/pl/108/76]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F76
 [/us/stat/117/906]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F906
 [/us/usc/t20/s1070]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1070
 

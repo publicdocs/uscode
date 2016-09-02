@@ -111,7 +111,7 @@
 
         There are authorized to be appropriated to carry out this part such sums as may be necessary for each of fiscal years 2005 through 2010.
 
-([Pub. L. 107–279, title I, § 177][/us/pl/107/279/s177], as added [Pub. L. 108–446, title II, § 201(a)(2)][/us/pl/108/446/s201/a/2], Dec. 3, 2004, [118 Stat. 2800][/us/stat/118/2800].)
+([Pub. L. 107–279, title I][/us/pl/107/279/tI], § 177, as added [Pub. L. 108–446, title II][/us/pl/108/446/tII], § 201(a)(2), Dec. 3, 2004, [118 Stat. 2800][/us/stat/118/2800].)
 
  __References in Text__ 
 
@@ -119,7 +119,7 @@
 
  __Effective Date__ 
 
-[Pub. L. 108–446, title III, § 302(c)][/us/pl/108/446/s302/c], Dec. 3, 2004, [118 Stat. 2803][/us/stat/118/2803], provided that:
+[Pub. L. 108–446, title III][/us/pl/108/446/tIII], § 302(c), Dec. 3, 2004, [118 Stat. 2803][/us/stat/118/2803], provided that:
 
 >     “(1)  __National center for special education research__  __.—__ 
 
@@ -142,13 +142,13 @@
 [/us/usc/t20/s1400]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1400
 [/us/usc/t20/s1481]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1481
 [/us/usc/t20/s9519]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs9519
-[/us/pl/107/279/s177]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F279%2Fs177
-[/us/pl/108/446/s201/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F446%2Fs201%2Fa%2F2
+[/us/pl/107/279/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F279%2FtI
+[/us/pl/108/446/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F446%2FtII
 [/us/stat/118/2800]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F2800
 [/us/pl/91/230]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F230
 [/us/stat/84/175]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F175
 [/us/usc/t20/s1400]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1400
-[/us/pl/108/446/s302/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F446%2Fs302%2Fc
+[/us/pl/108/446/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F446%2FtIII
 [/us/stat/118/2803]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F2803
 [/us/usc/t20/s9567]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs9567
 [/us/usc/t20/s9567b/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs9567b%2Fc

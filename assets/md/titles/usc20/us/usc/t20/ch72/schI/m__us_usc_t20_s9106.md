@@ -17,11 +17,11 @@
 
     The Institute is authorized to solicit, accept, receive, and invest in the name of the United States, gifts, bequests, or devises of money and other property or services and to use such property or services in furtherance of the functions of the Institute. Any proceeds from such gifts, bequests, or devises, after acceptance by the Institute, shall be paid by the donor or the representative of the donor to the Director. The Director shall enter the proceeds in a special-interest bearing account to the credit of the Institute for the purposes specified in each case.
 
-([Pub. L. 94–462, title II, § 208][/us/pl/94/462/s208], formerly § 207, as added [Pub. L. 104–208, div. A, title I, § 101(e)][/us/pl/104/208/s101/e] \[title VII, § 702\], Sept. 30, 1996, [110 Stat. 3009–233][/us/stat/110/3009-233], 3009–295; renumbered § 208 and amended [Pub. L. 108–81, title I, § 104(1)][/us/pl/108/81/s104/1], title V, § 504(e), Sept. 25, 2003, [117 Stat. 993][/us/stat/117/993], 1004.)
+([Pub. L. 94–462, title II][/us/pl/94/462/tII], § 208, formerly § 207, as added [Pub. L. 104–208, div. A, title I][/us/pl/104/208/dA/tI], § 101(e) \[title VII, § 702\], Sept. 30, 1996, [110 Stat. 3009–233][/us/stat/110/3009-233], 3009–295; renumbered § 208 and amended [Pub. L. 108–81, title I][/us/pl/108/81/tI], § 104(1), title V, § 504(e), Sept. 25, 2003, [117 Stat. 993][/us/stat/117/993], 1004.)
 
  __Amendments__ 
 
-    2003—[Pub. L. 108–81, § 504(e)][/us/pl/108/81/s504/e], which directed substitution of “property or services” for “property of services”, could not be executed because the words “property of services” did not appear in text.
+    2003—[Pub. L. 108–81][/us/pl/108/81], § 504(e), which directed substitution of “property or services” for “property of services”, could not be executed because the words “property of services” did not appear in text.
 
 ----------
 
@@ -30,11 +30,11 @@
 ----------
 ----------
 
-[/us/pl/94/462/s208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F462%2Fs208
-[/us/pl/104/208/s101/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs101%2Fe
+[/us/pl/94/462/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F462%2FtII
+[/us/pl/104/208/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2FdA%2FtI
 [/us/stat/110/3009-233]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3009-233
-[/us/pl/108/81/s104/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F81%2Fs104%2F1
+[/us/pl/108/81/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F81%2FtI
 [/us/stat/117/993]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F993
-[/us/pl/108/81/s504/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F81%2Fs504%2Fe
+[/us/pl/108/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F81
 
 

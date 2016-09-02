@@ -17,7 +17,7 @@
 
  __Codification__ 
 
-    Section, [Pub. L. 89–10, title IV, § 421][/us/pl/89/10/s421], as added [Pub. L. 93–380, title IV, § 401][/us/pl/93/380/s401], Aug. 21, 1974, [88 Stat. 542][/us/stat/88/542], which authorized a program of grants relating to libraries and learning resources, was omitted in the general revision of the Elementary and Secondary Education Act of 1965, titles I to IX of [Pub. L. 89–10][/us/pl/89/10], Apr. 11, 1965, [79 Stat. 27][/us/stat/79/27], by [Pub. L. 95–561][/us/pl/95/561], Nov. 1, 1978, [92 Stat. 2143][/us/stat/92/2143].
+    Section, [Pub. L. 89–10, title IV][/us/pl/89/10/tIV], § 421, as added [Pub. L. 93–380, title IV][/us/pl/93/380/tIV], § 401, Aug. 21, 1974, [88 Stat. 542][/us/stat/88/542], which authorized a program of grants relating to libraries and learning resources, was omitted in the general revision of the Elementary and Secondary Education Act of 1965, titles I to IX of [Pub. L. 89–10][/us/pl/89/10], Apr. 11, 1965, [79 Stat. 27][/us/stat/79/27], by [Pub. L. 95–561][/us/pl/95/561], Nov. 1, 1978, [92 Stat. 2143][/us/stat/92/2143].
 
 ----------
 
@@ -26,8 +26,8 @@
 ----------
 ----------
 
-[/us/pl/89/10/s421]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F10%2Fs421
-[/us/pl/93/380/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F380%2Fs401
+[/us/pl/89/10/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F10%2FtIV
+[/us/pl/93/380/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F380%2FtIV
 [/us/stat/88/542]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F542
 [/us/pl/89/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F10
 [/us/stat/79/27]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F27

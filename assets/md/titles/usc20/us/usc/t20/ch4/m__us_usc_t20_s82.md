@@ -17,7 +17,7 @@
 
     The heads of executive departments of the Government are authorized and directed to cause to be rendered all necessary and practicable aid to the said Regents in the acquisition of collections for the Zoological Park.
 
-([Apr. 30, 1890, ch. 173, § 3][/us/act/1890-04-30/ch173/s3], [26 Stat. 78][/us/stat/26/78].)
+([Apr. 30, 1890, ch. 173][/us/act/1890-04-30/ch173], § 3, [26 Stat. 78][/us/stat/26/78].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/act/1890-04-30/ch173/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1890-04-30%2Fch173%2Fs3
+[/us/act/1890-04-30/ch173]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1890-04-30%2Fch173
 [/us/stat/26/78]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F26%2F78
 
 

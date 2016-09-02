@@ -11,62 +11,16 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t20/ch51/schI/m__us_usc_t20_ch51_schI.md) | [Next](./../../../../..//us/usc/t20/ch51/schII/ptA/m__us_usc_t20_ch51_schII_ptA.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fch51%2FschII)
+[Previous](./../../../../..//us/usc/t20/ch51/schI/m__us_usc_t20_s3801...3808.md) | [Next](./../../../../..//us/usc/t20/ch51/schII/m__us_usc_t20_s3811...3816.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fch51%2FschII)
 
 ### SUBCHAPTER II—CONSOLIDATION OF FEDERAL PROGRAMS FOR ELEMENTARY AND SECONDARY EDUCATION
 
-§§ 3811 to 3816. __Repealed.__  __[__  __Pub. L. 100–297, title I, § 1003(a)__  __][/us/pl/100/297/s1003/a]__  __,__  __Apr. 28, 1988__  __,__  __[__  __102 Stat. 293__  __][/us/stat/102/293]__ 
-
-    Section 3811, [Pub. L. 97–35, title V, § 561][/us/pl/97/35/s561], Aug. 13, 1981, [95 Stat. 469][/us/stat/95/469]; [Pub. L. 98–211, § 9(a)][/us/pl/98/211/s9/a], Dec. 8, 1983, [97 Stat. 1415][/us/stat/97/1415], related to statement of purpose of program of consolidating various Federal programs for elementary and secondary education.
-
-    Section 3812, [Pub. L. 97–35, title V, § 562][/us/pl/97/35/s562], Aug. 13, 1981, [95 Stat. 469][/us/stat/95/469]; [Pub. L. 98–211, § 10][/us/pl/98/211/s10], Dec. 8, 1983, [97 Stat. 1416][/us/stat/97/1416], related to authorization of appropriations.
-
-    Section 3813, [Pub. L. 97–35, title V, § 563][/us/pl/97/35/s563], Aug. 13, 1981, [95 Stat. 470][/us/stat/95/470]; [Pub. L. 98–211, § 11][/us/pl/98/211/s11], Dec. 8, 1983, [97 Stat. 1416][/us/stat/97/1416], related to allotment of funds to States.
-
-    Section 3814, [Pub. L. 97–35, title V, § 564][/us/pl/97/35/s564], Aug. 13, 1981, [95 Stat. 470][/us/stat/95/470]; [Pub. L. 98–211][/us/pl/98/211], §§ 9(b), 12, Dec. 8, 1983, [97 Stat. 1415][/us/stat/97/1415], 1416, related to State applications.
-
-    Section 3815, [Pub. L. 97–35, title V, § 565][/us/pl/97/35/s565], Aug. 13, 1981, [95 Stat. 471][/us/stat/95/471]; [Pub. L. 98–211, § 21(a)][/us/pl/98/211/s21/a], Dec. 8, 1983, [97 Stat. 1418][/us/stat/97/1418], related to allocation of funds to local educational agencies.
-
-    Section 3816, [Pub. L. 97–35, title V, § 566][/us/pl/97/35/s566], Aug. 13, 1981, [95 Stat. 471][/us/stat/95/471]; [Pub. L. 98–211][/us/pl/98/211], §§ 9(c), 13, Dec. 8, 1983, [97 Stat. 1416][/us/stat/97/1416], related to local applications.
-
- __Effective Date of Repeal__ 
-
-    Repeal effective July 1, 1988, see [section 6303 of Pub. L. 100–297][/us/pl/100/297/s6303], set out as an Effective Date of 1988 Amendment note under [section 1071 of this title][/us/usc/t20/s1071].
-
 ----------
 
-[Previous](./../../../../..//us/usc/t20/ch51/schI/m__us_usc_t20_ch51_schI.md) | [Next](./../../../../..//us/usc/t20/ch51/schII/ptA/m__us_usc_t20_ch51_schII_ptA.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fch51%2FschII)
+[Previous](./../../../../..//us/usc/t20/ch51/schI/m__us_usc_t20_s3801...3808.md) | [Next](./../../../../..//us/usc/t20/ch51/schII/m__us_usc_t20_s3811...3816.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fch51%2FschII)
 
 ----------
 ----------
 
-[/us/pl/100/297/s1003/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F297%2Fs1003%2Fa
-[/us/stat/102/293]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F293
-[/us/pl/97/35/s561]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs561
-[/us/stat/95/469]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F469
-[/us/pl/98/211/s9/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F211%2Fs9%2Fa
-[/us/stat/97/1415]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F1415
-[/us/pl/97/35/s562]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs562
-[/us/stat/95/469]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F469
-[/us/pl/98/211/s10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F211%2Fs10
-[/us/stat/97/1416]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F1416
-[/us/pl/97/35/s563]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs563
-[/us/stat/95/470]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F470
-[/us/pl/98/211/s11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F211%2Fs11
-[/us/stat/97/1416]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F1416
-[/us/pl/97/35/s564]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs564
-[/us/stat/95/470]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F470
-[/us/pl/98/211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F211
-[/us/stat/97/1415]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F1415
-[/us/pl/97/35/s565]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs565
-[/us/stat/95/471]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F471
-[/us/pl/98/211/s21/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F211%2Fs21%2Fa
-[/us/stat/97/1418]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F1418
-[/us/pl/97/35/s566]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs566
-[/us/stat/95/471]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F471
-[/us/pl/98/211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F211
-[/us/stat/97/1416]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F1416
-[/us/pl/100/297/s6303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F297%2Fs6303
-[/us/usc/t20/s1071]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1071
 
 

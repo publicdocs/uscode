@@ -53,7 +53,7 @@
 
             The interest on, and the proceeds from the sale or redemption of, any obligations held in the Fund shall be credited to and form a part of the Fund.
 
-([Pub. L. 102–259, § 10][/us/pl/102/259/s10], as added [Pub. L. 105–156, § 6(b)][/us/pl/105/156/s6/b], Feb. 11, 1998, [112 Stat. 10][/us/stat/112/10]; amended [Pub. L. 105–277, div. A, § 101(h)][/us/pl/105/277/s101/h] \[title V, § 517(c)\], Oct. 21, 1998, [112 Stat. 2681–480][/us/stat/112/2681-480], 2681–512.)
+([Pub. L. 102–259][/us/pl/102/259], § 10, as added [Pub. L. 105–156][/us/pl/105/156], § 6(b), Feb. 11, 1998, [112 Stat. 10][/us/stat/112/10]; amended [Pub. L. 105–277, div. A][/us/pl/105/277/dA], § 101(h) \[title V, § 517(c)\], Oct. 21, 1998, [112 Stat. 2681–480][/us/stat/112/2681-480], 2681–512.)
 
  __Prior Provisions__ 
 
@@ -73,10 +73,10 @@
 [/us/usc/t20/s5609/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs5609%2Fb
 [/us/usc/t20/s5607b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs5607b
 [/us/usc/t20/s5606]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs5606
-[/us/pl/102/259/s10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F259%2Fs10
-[/us/pl/105/156/s6/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F156%2Fs6%2Fb
+[/us/pl/102/259]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F259
+[/us/pl/105/156]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F156
 [/us/stat/112/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F10
-[/us/pl/105/277/s101/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs101%2Fh
+[/us/pl/105/277/dA]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2FdA
 [/us/stat/112/2681-480]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681-480
 [/us/pl/102/259/s10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F259%2Fs10
 [/us/usc/t20/s5608]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs5608

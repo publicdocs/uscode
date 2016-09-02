@@ -25,7 +25,7 @@
 
         The term “State” means each of the 50 States of the United States, the District of Columbia, the Commonwealth of Puerto Rico, the United States Virgin Islands, Guam, American Samoa, the Commonwealth of the Northern Mariana Islands, the Republic of the Marshall Islands, the Federated States of Micronesia, and the Republic of Palau.
 
-([Pub. L. 94–462, title II, § 273][/us/pl/94/462/s273], formerly § 272, as added [Pub. L. 104–208, div. A, title I, § 101(e)][/us/pl/104/208/s101/e] \[title VII, § 702\], Sept. 30, 1996, [110 Stat. 3009–233][/us/stat/110/3009-233], 3009–303; renumbered § 273 and amended [Pub. L. 108–81, title III][/us/pl/108/81], §§ 302, 306(1), Sept. 25, 2003, [117 Stat. 1000][/us/stat/117/1000], 1002; [Pub. L. 111–340, title III, § 302][/us/pl/111/340/s302], Dec. 22, 2010, [124 Stat. 3603][/us/stat/124/3603].)
+([Pub. L. 94–462, title II][/us/pl/94/462/tII], § 273, formerly § 272, as added [Pub. L. 104–208, div. A, title I][/us/pl/104/208/dA/tI], § 101(e) \[title VII, § 702\], Sept. 30, 1996, [110 Stat. 3009–233][/us/stat/110/3009-233], 3009–303; renumbered § 273 and amended [Pub. L. 108–81, title III][/us/pl/108/81/tIII], §§ 302, 306(1), Sept. 25, 2003, [117 Stat. 1000][/us/stat/117/1000], 1002; [Pub. L. 111–340, title III][/us/pl/111/340/tIII], § 302, Dec. 22, 2010, [124 Stat. 3603][/us/stat/124/3603].)
 
  __Prior Provisions__ 
 
@@ -35,7 +35,7 @@
 
     2010—Par. (1). [Pub. L. 111–340][/us/pl/111/340] inserted “includes museums that have tangible and digital collections and” after “Such term”.
 
-    2003—Par. (1). [Pub. L. 108–81, § 302][/us/pl/108/81/s302], inserted at end: “Such term includes aquariums, arboretums, botanical gardens, art museums, children’s museums, general museums, historic houses and sites, history museums, nature centers, natural history and anthropology museums, planetariums, science and technology centers, specialized museums, and zoological parks.”
+    2003—Par. (1). [Pub. L. 108–81][/us/pl/108/81], § 302, inserted at end: “Such term includes aquariums, arboretums, botanical gardens, art museums, children’s museums, general museums, historic houses and sites, history museums, nature centers, natural history and anthropology museums, planetariums, science and technology centers, specialized museums, and zoological parks.”(4) Section 274(d) ([20 U.S.C. 9173(d)][/us/usc/t20/s9173/d]) is amended by striking “represent Native Hawaiians (as defined in [section 7517 of this title][/us/usc/t20/s7517]),” and inserting “represent Native Hawaiians (as defined in [section 7517 of this title][/us/usc/t20/s7517]),”.
 
 ----------
 
@@ -44,16 +44,19 @@
 ----------
 ----------
 
-[/us/pl/94/462/s273]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F462%2Fs273
-[/us/pl/104/208/s101/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs101%2Fe
+[/us/pl/94/462/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F462%2FtII
+[/us/pl/104/208/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2FdA%2FtI
 [/us/stat/110/3009-233]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3009-233
-[/us/pl/108/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F81
+[/us/pl/108/81/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F81%2FtIII
 [/us/stat/117/1000]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1000
-[/us/pl/111/340/s302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F340%2Fs302
+[/us/pl/111/340/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F340%2FtIII
 [/us/stat/124/3603]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3603
 [/us/pl/94/462/s273]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F462%2Fs273
 [/us/usc/t20/s9173]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs9173
 [/us/pl/111/340]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F340
-[/us/pl/108/81/s302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F81%2Fs302
+[/us/pl/108/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F81
+[/us/usc/t20/s9173/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs9173%2Fd
+[/us/usc/t20/s7517]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs7517
+[/us/usc/t20/s7517]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs7517
 
 

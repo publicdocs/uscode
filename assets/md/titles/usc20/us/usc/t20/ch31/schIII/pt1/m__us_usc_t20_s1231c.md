@@ -45,7 +45,7 @@
 
         The Secretary’s annual report shall contain a statement of the Secretary’s activities under this section.
 
-([Pub. L. 90–247, title IV, § 433][/us/pl/90/247/s433], formerly § 414, as added [Pub. L. 91–230, title IV, § 401(a)(10)][/us/pl/91/230/s401/a/10], Apr. 13, 1970, [84 Stat. 167][/us/stat/84/167]; renumbered § 424, [Pub. L. 92–318, title III, § 301(a)(1)][/us/pl/92/318/s301/a/1], June 23, 1972, [86 Stat. 326][/us/stat/86/326]; renumbered § 426, [Pub. L. 93–380, title V, § 508(a)][/us/pl/93/380/s508/a], Aug. 21, 1974, [88 Stat. 565][/us/stat/88/565]; amended [Pub. L. 95–561, title XII, § 1248][/us/pl/95/561/s1248], Nov. 1, 1978, [92 Stat. 2354][/us/stat/92/2354]; [Pub. L. 96–88, title III, § 301(a)(1)][/us/pl/96/88/s301/a/1], title V, § 507, Oct. 17, 1979, [93 Stat. 677][/us/stat/93/677], 692; renumbered § 433, [Pub. L. 103–382, title II, § 212(b)(1)][/us/pl/103/382/s212/b/1], Oct. 20, 1994, [108 Stat. 3913][/us/stat/108/3913].)
+([Pub. L. 90–247, title IV][/us/pl/90/247/tIV], § 433, formerly § 414, as added [Pub. L. 91–230, title IV][/us/pl/91/230/tIV], § 401(a)(10), Apr. 13, 1970, [84 Stat. 167][/us/stat/84/167]; renumbered § 424, [Pub. L. 92–318, title III][/us/pl/92/318/tIII], § 301(a)(1), June 23, 1972, [86 Stat. 326][/us/stat/86/326]; renumbered § 426, [Pub. L. 93–380, title V][/us/pl/93/380/tV], § 508(a), Aug. 21, 1974, [88 Stat. 565][/us/stat/88/565]; amended [Pub. L. 95–561, title XII][/us/pl/95/561/tXII], § 1248, Nov. 1, 1978, [92 Stat. 2354][/us/stat/92/2354]; [Pub. L. 96–88, title III][/us/pl/96/88/tIII], § 301(a)(1), title V, § 507, Oct. 17, 1979, [93 Stat. 677][/us/stat/93/677], 692; renumbered § 433, [Pub. L. 103–382, title II][/us/pl/103/382/tII], § 212(b)(1), Oct. 20, 1994, [108 Stat. 3913][/us/stat/108/3913].)
 
  __Prior Provisions__ 
 
@@ -67,7 +67,7 @@
 
  __National Institute of Education__ 
 
-    The National Institute of Education consisting of a National Council on Educational Research and a Director of the Institute was established by [section 1221e of this title][/us/usc/t20/s1221e] which, as amended generally by [Pub. L. 99–498, title XIV, § 1401(a)][/us/pl/99/498/s1401/a], Oct. 17, 1986, [100 Stat. 1589][/us/stat/100/1589], provided objectives and duties for the Office of Educational Research and Improvement and established the National Advisory Council on Educational Research and Improvement, and [section 1401(b) of Pub. L. 99–498][/us/pl/99/498/s1401/b] transferred the property and records of the National Institute of Education to the Office of Educational Research and Improvement.
+    The National Institute of Education consisting of a National Council on Educational Research and a Director of the Institute was established by [section 1221e of this title][/us/usc/t20/s1221e] which, as amended generally by [Pub. L. 99–498, title XIV][/us/pl/99/498/tXIV], § 1401(a), Oct. 17, 1986, [100 Stat. 1589][/us/stat/100/1589], provided objectives and duties for the Office of Educational Research and Improvement and established the National Advisory Council on Educational Research and Improvement, and [section 1401(b) of Pub. L. 99–498][/us/pl/99/498/s1401/b] transferred the property and records of the National Institute of Education to the Office of Educational Research and Improvement.
 
 ----------
 
@@ -76,18 +76,18 @@
 ----------
 ----------
 
-[/us/pl/90/247/s433]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F247%2Fs433
-[/us/pl/91/230/s401/a/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F230%2Fs401%2Fa%2F10
+[/us/pl/90/247/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F247%2FtIV
+[/us/pl/91/230/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F230%2FtIV
 [/us/stat/84/167]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F167
-[/us/pl/92/318/s301/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F318%2Fs301%2Fa%2F1
+[/us/pl/92/318/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F318%2FtIII
 [/us/stat/86/326]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F326
-[/us/pl/93/380/s508/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F380%2Fs508%2Fa
+[/us/pl/93/380/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F380%2FtV
 [/us/stat/88/565]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F565
-[/us/pl/95/561/s1248]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F561%2Fs1248
+[/us/pl/95/561/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F561%2FtXII
 [/us/stat/92/2354]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2354
-[/us/pl/96/88/s301/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F88%2Fs301%2Fa%2F1
+[/us/pl/96/88/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F88%2FtIII
 [/us/stat/93/677]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F677
-[/us/pl/103/382/s212/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F382%2Fs212%2Fb%2F1
+[/us/pl/103/382/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F382%2FtII
 [/us/stat/108/3913]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3913
 [/us/pl/90/247/s433]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F247%2Fs433
 [/us/usc/t20/s1232b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1232b
@@ -100,7 +100,7 @@
 [/us/usc/t20/s1221e–3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1221e%E2%80%933
 [/us/pl/96/88]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F88
 [/us/usc/t20/s1221e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1221e
-[/us/pl/99/498/s1401/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F498%2Fs1401%2Fa
+[/us/pl/99/498/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F498%2FtXIV
 [/us/stat/100/1589]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1589
 [/us/pl/99/498/s1401/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F498%2Fs1401%2Fb
 

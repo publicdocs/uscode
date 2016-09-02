@@ -17,11 +17,11 @@
 
     There are authorized to be appropriated for this subpart such sums as may be necessary for fiscal year 2009 and each of the five succeeding fiscal years.
 
-([Pub. L. 89–329, title IV, § 419K][/us/pl/89/329/s419K], as added [Pub. L. 99–498, title IV, § 401(a)][/us/pl/99/498/s401/a], Oct. 17, 1986, [100 Stat. 1346][/us/stat/100/1346]; amended [Pub. L. 102–325, title IV, § 406(h)][/us/pl/102/325/s406/h], July 23, 1992, [106 Stat. 509][/us/stat/106/509]; [Pub. L. 105–244, title IV, § 409(b)][/us/pl/105/244/s409/b], Oct. 7, 1998, [112 Stat. 1668][/us/stat/112/1668]; [Pub. L. 110–315, title IV, § 409(b)][/us/pl/110/315/s409/b], Aug. 14, 2008, [122 Stat. 3225][/us/stat/122/3225].)
+([Pub. L. 89–329, title IV][/us/pl/89/329/tIV], § 419K, as added [Pub. L. 99–498, title IV][/us/pl/99/498/tIV], § 401(a), Oct. 17, 1986, [100 Stat. 1346][/us/stat/100/1346]; amended [Pub. L. 102–325, title IV][/us/pl/102/325/tIV], § 406(h), July 23, 1992, [106 Stat. 509][/us/stat/106/509]; [Pub. L. 105–244, title IV][/us/pl/105/244/tIV], § 409(b), Oct. 7, 1998, [112 Stat. 1668][/us/stat/112/1668]; [Pub. L. 110–315, title IV][/us/pl/110/315/tIV], § 409(b), Aug. 14, 2008, [122 Stat. 3225][/us/stat/122/3225].)
 
  __Prior Provisions__ 
 
-    A prior section 1070d–41, [Pub. L. 89–329, title IV, § 419K][/us/pl/89/329/s419K], as added [Pub. L. 98–558, title VIII, § 801(a)][/us/pl/98/558/s801/a], Oct. 30, 1984, [98 Stat. 2902][/us/stat/98/2902], authorized appropriations for fiscal years 1986 to 1988 to carry out Robert C. Byrd Honors Scholarship Program, prior to the general revision of this part by [Pub. L. 99–498][/us/pl/99/498].
+    A prior section 1070d–41, [Pub. L. 89–329, title IV][/us/pl/89/329/tIV], § 419K, as added [Pub. L. 98–558, title VIII][/us/pl/98/558/tVIII], § 801(a), Oct. 30, 1984, [98 Stat. 2902][/us/stat/98/2902], authorized appropriations for fiscal years 1986 to 1988 to carry out Robert C. Byrd Honors Scholarship Program, prior to the general revision of this part by [Pub. L. 99–498][/us/pl/99/498].
 
  __Amendments__ 
 
@@ -42,17 +42,17 @@
 ----------
 ----------
 
-[/us/pl/89/329/s419K]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2Fs419K
-[/us/pl/99/498/s401/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F498%2Fs401%2Fa
+[/us/pl/89/329/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2FtIV
+[/us/pl/99/498/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F498%2FtIV
 [/us/stat/100/1346]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1346
-[/us/pl/102/325/s406/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325%2Fs406%2Fh
+[/us/pl/102/325/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325%2FtIV
 [/us/stat/106/509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F509
-[/us/pl/105/244/s409/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2Fs409%2Fb
+[/us/pl/105/244/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2FtIV
 [/us/stat/112/1668]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F1668
-[/us/pl/110/315/s409/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2Fs409%2Fb
+[/us/pl/110/315/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2FtIV
 [/us/stat/122/3225]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3225
-[/us/pl/89/329/s419K]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2Fs419K
-[/us/pl/98/558/s801/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F558%2Fs801%2Fa
+[/us/pl/89/329/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2FtIV
+[/us/pl/98/558/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F558%2FtVIII
 [/us/stat/98/2902]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2902
 [/us/pl/99/498]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F498
 [/us/pl/110/315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315

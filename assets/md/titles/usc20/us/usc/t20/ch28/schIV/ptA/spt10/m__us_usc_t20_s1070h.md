@@ -67,7 +67,7 @@
 
         There are authorized to be appropriated, and there are appropriated, out of any money in the Treasury not otherwise appropriated, for the Secretary to carry out this section, such sums as may be necessary for fiscal year 2010 and each succeeding fiscal year.
 
-([Pub. L. 89–329, title IV, § 420R][/us/pl/89/329/s420R], as added [Pub. L. 111–39, title IV, § 401(a)(9)][/us/pl/111/39/s401/a/9], July 1, 2009, [123 Stat. 1939][/us/stat/123/1939].)
+([Pub. L. 89–329, title IV][/us/pl/89/329/tIV], § 420R, as added [Pub. L. 111–39, title IV][/us/pl/111/39/tIV], § 401(a)(9), July 1, 2009, [123 Stat. 1939][/us/stat/123/1939].)
 
  __References in Text__ 
 
@@ -75,7 +75,7 @@
 
  __Effective Date__ 
 
-[Pub. L. 111–39, title IV, § 401(b)][/us/pl/111/39/s401/b], July 1, 2009, [123 Stat. 1940][/us/stat/123/1940], provided that: 
+[Pub. L. 111–39, title IV][/us/pl/111/39/tIV], § 401(b), July 1, 2009, [123 Stat. 1940][/us/stat/123/1940], provided that: 
 
 > “The amendment made by subsection (a)(9) \[enacting this subpart\] shall take effect on July 1, 2010.”
 
@@ -90,13 +90,13 @@
 [/us/usc/t20/s1070a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1070a
 [/us/usc/t20/s1070a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1070a
 [/us/usc/t20/s1070a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1070a
-[/us/pl/89/329/s420R]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2Fs420R
-[/us/pl/111/39/s401/a/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F39%2Fs401%2Fa%2F9
+[/us/pl/89/329/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2FtIV
+[/us/pl/111/39/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F39%2FtIV
 [/us/stat/123/1939]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1939
 [/us/usc/t20/s1070a/b/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1070a%2Fb%2F2%2FA
 [/us/usc/t20/s1070a/b/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1070a%2Fb%2F2%2FA
 [/us/pl/111/152/s2101/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F152%2Fs2101%2Fa%2F1
-[/us/pl/111/39/s401/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F39%2Fs401%2Fb
+[/us/pl/111/39/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F39%2FtIV
 [/us/stat/123/1940]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1940
 
 

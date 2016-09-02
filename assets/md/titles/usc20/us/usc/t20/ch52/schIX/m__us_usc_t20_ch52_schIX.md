@@ -11,96 +11,16 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t20/ch52/schVIII/m__us_usc_t20_s4074.md) | [Next](./../../../../..//us/usc/t20/ch53/m__us_usc_t20_ch53.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fch52%2FschIX)
+[Previous](./../../../../..//us/usc/t20/ch52/schVIII/m__us_usc_t20_s4074.md) | [Next](./../../../../..//us/usc/t20/ch52/schIX/m__us_usc_t20_s4081...4086.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fch52%2FschIX)
 
 ### SUBCHAPTER IX—STAR SCHOOLS PROGRAM
 
-§§ 4081 to 4086. __Repealed.__  __[__  __Pub. L. 103–382, title III, § 364__  __][/us/pl/103/382/s364]__  __,__  __Oct. 20, 1994__  __,__  __[__  __108 Stat. 3975__  __][/us/stat/108/3975]__ 
-
-    Section 4081, [Pub. L. 98–377, title IX, § 902][/us/pl/98/377/s902], as added [Pub. L. 100–297, title II, § 2302][/us/pl/100/297/s2302], Apr. 28, 1988, [102 Stat. 320][/us/stat/102/320]; amended [Pub. L. 102–103, title III, § 301][/us/pl/102/103/s301], Aug. 17, 1991, [105 Stat. 499][/us/stat/105/499], related to purpose of star schools program.
-
-    Section 4082, [Pub. L. 98–377, title IX, § 903][/us/pl/98/377/s903], as added [Pub. L. 100–297, title II, § 2302][/us/pl/100/297/s2302], Apr. 28, 1988, [102 Stat. 320][/us/stat/102/320]; amended [Pub. L. 102–103, title III, § 302][/us/pl/102/103/s302], Aug. 17, 1991, [105 Stat. 499][/us/stat/105/499], authorized grants for telecommunications facilities and equipment, instructional programming, and technical assistance.
-
-    Section 4083, [Pub. L. 98–377, title IX, § 904][/us/pl/98/377/s904], as added [Pub. L. 100–297, title II, § 2302][/us/pl/100/297/s2302], Apr. 28, 1988, [102 Stat. 321][/us/stat/102/321]; amended [Pub. L. 102–103, title III, § 303][/us/pl/102/103/s303], Aug. 17, 1991, [105 Stat. 500][/us/stat/105/500], related to eligibility of telecommunications partnerships for grants.
-
-    Section 4084, [Pub. L. 98–377, title IX, § 905][/us/pl/98/377/s905], as added [Pub. L. 100–297, title II, § 2302][/us/pl/100/297/s2302], Apr. 28, 1988, [102 Stat. 321][/us/stat/102/321]; amended [Pub. L. 102–103, title III, § 304][/us/pl/102/103/s304], Aug. 17, 1991, [105 Stat. 501][/us/stat/105/501], related to applications for grants.
-
-    Section 4085, [Pub. L. 98–377, title IX, § 906][/us/pl/98/377/s906], as added [Pub. L. 100–297, title II, § 2302][/us/pl/100/297/s2302], Apr. 28, 1988, [102 Stat. 323][/us/stat/102/323], related to dissemination of courses and materials under star schools program.
-
-    Section 4085a, [Pub. L. 98–377, title IX, § 907][/us/pl/98/377/s907], as added [Pub. L. 102–103, title III, § 305(2)][/us/pl/102/103/s305/2], Aug. 17, 1991, [105 Stat. 502][/us/stat/105/502], related to continuing eligibility for grants.
-
-    Section 4085b, [Pub. L. 98–377, title IX, § 908][/us/pl/98/377/s908], as added [Pub. L. 102–103, title III, § 305(2)][/us/pl/102/103/s305/2], Aug. 17, 1991, [105 Stat. 503][/us/stat/105/503]; amended [Pub. L. 103–227, title IX, § 961][/us/pl/103/227/s961], Mar. 31, 1994, [108 Stat. 263][/us/stat/108/263], required independent evaluation of the star schools program.
-
-    Section 4085c, [Pub. L. 98–377, title IX, § 909][/us/pl/98/377/s909], as added [Pub. L. 102–103, title III, § 305(2)][/us/pl/102/103/s305/2], Aug. 17, 1991, [105 Stat. 504][/us/stat/105/504], authorized assistance for acquiring satellite time.
-
-    Section 4085d, [Pub. L. 98–377, title IX, § 910][/us/pl/98/377/s910], as added [Pub. L. 102–103, title III, § 305(2)][/us/pl/102/103/s305/2], Aug. 17, 1991, [105 Stat. 504][/us/stat/105/504], authorized grants for dissemination and technical assistance to State and local educational agencies.
-
-    Section 4086, [Pub. L. 98–377, title IX, § 911][/us/pl/98/377/s911], formerly § 907, as added [Pub. L. 100–297, title II, § 2302][/us/pl/100/297/s2302], Apr. 28, 1988, [102 Stat. 324][/us/stat/102/324]; amended [Pub. L. 102–73, title VIII, § 802(c)][/us/pl/102/73/s802/c], July 25, 1991, [105 Stat. 361][/us/stat/105/361]; renumbered § 911, [Pub. L. 102–103, title III, § 305(1)][/us/pl/102/103/s305/1], Aug. 17, 1991, [105 Stat. 502][/us/stat/105/502], defined terms used in this subchapter.
-
-    For similar provisions, see section 6891 et seq. of this title.
-
- __Short Title__ 
-
-    [Section 901 of title IX of Pub. L. 98–377][/us/pl/98/377/s901], as added by [Pub. L. 100–297, title II, § 2302][/us/pl/100/297/s2302], Apr. 28, 1988, [102 Stat. 320][/us/stat/102/320], provided that title IX of [Pub. L. 98–377][/us/pl/98/377] \[enacting this subchapter\] could be cited as the “Star Schools Program Assistance Act”, prior to repeal by [Pub. L. 103–382, title III, § 364][/us/pl/103/382/s364], Oct. 20, 1994, [108 Stat. 3975][/us/stat/108/3975].
-
 ----------
 
-[Previous](./../../../../..//us/usc/t20/ch52/schVIII/m__us_usc_t20_s4074.md) | [Next](./../../../../..//us/usc/t20/ch53/m__us_usc_t20_ch53.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fch52%2FschIX)
+[Previous](./../../../../..//us/usc/t20/ch52/schVIII/m__us_usc_t20_s4074.md) | [Next](./../../../../..//us/usc/t20/ch52/schIX/m__us_usc_t20_s4081...4086.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fch52%2FschIX)
 
 ----------
 ----------
 
-[/us/pl/103/382/s364]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F382%2Fs364
-[/us/stat/108/3975]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3975
-[/us/pl/98/377/s902]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F377%2Fs902
-[/us/pl/100/297/s2302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F297%2Fs2302
-[/us/stat/102/320]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F320
-[/us/pl/102/103/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F103%2Fs301
-[/us/stat/105/499]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F499
-[/us/pl/98/377/s903]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F377%2Fs903
-[/us/pl/100/297/s2302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F297%2Fs2302
-[/us/stat/102/320]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F320
-[/us/pl/102/103/s302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F103%2Fs302
-[/us/stat/105/499]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F499
-[/us/pl/98/377/s904]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F377%2Fs904
-[/us/pl/100/297/s2302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F297%2Fs2302
-[/us/stat/102/321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F321
-[/us/pl/102/103/s303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F103%2Fs303
-[/us/stat/105/500]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F500
-[/us/pl/98/377/s905]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F377%2Fs905
-[/us/pl/100/297/s2302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F297%2Fs2302
-[/us/stat/102/321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F321
-[/us/pl/102/103/s304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F103%2Fs304
-[/us/stat/105/501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F501
-[/us/pl/98/377/s906]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F377%2Fs906
-[/us/pl/100/297/s2302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F297%2Fs2302
-[/us/stat/102/323]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F323
-[/us/pl/98/377/s907]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F377%2Fs907
-[/us/pl/102/103/s305/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F103%2Fs305%2F2
-[/us/stat/105/502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F502
-[/us/pl/98/377/s908]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F377%2Fs908
-[/us/pl/102/103/s305/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F103%2Fs305%2F2
-[/us/stat/105/503]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F503
-[/us/pl/103/227/s961]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F227%2Fs961
-[/us/stat/108/263]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F263
-[/us/pl/98/377/s909]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F377%2Fs909
-[/us/pl/102/103/s305/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F103%2Fs305%2F2
-[/us/stat/105/504]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F504
-[/us/pl/98/377/s910]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F377%2Fs910
-[/us/pl/102/103/s305/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F103%2Fs305%2F2
-[/us/stat/105/504]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F504
-[/us/pl/98/377/s911]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F377%2Fs911
-[/us/pl/100/297/s2302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F297%2Fs2302
-[/us/stat/102/324]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F324
-[/us/pl/102/73/s802/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F73%2Fs802%2Fc
-[/us/stat/105/361]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F361
-[/us/pl/102/103/s305/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F103%2Fs305%2F1
-[/us/stat/105/502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F502
-[/us/pl/98/377/s901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F377%2Fs901
-[/us/pl/100/297/s2302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F297%2Fs2302
-[/us/stat/102/320]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F320
-[/us/pl/98/377]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F377
-[/us/pl/103/382/s364]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F382%2Fs364
-[/us/stat/108/3975]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3975
 
 

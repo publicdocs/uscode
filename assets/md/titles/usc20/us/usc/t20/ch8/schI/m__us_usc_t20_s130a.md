@@ -17,7 +17,7 @@
 
     Funds appropriated in this Act or subsequent Departments of Labor, Health and Human Services, and Education, and Related Agencies Appropriations Acts to Howard University shall be subject to financial and program audit by the Secretary of Education and the Secretary may withhold all or any portion of these appropriations if he determines that an institution has not cooperated fully in the conduct of such audits.
 
-([Pub. L. 102–394, title III, § 301][/us/pl/102/394/s301], Oct. 6, 1992, [106 Stat. 1819][/us/stat/106/1819].)
+([Pub. L. 102–394, title III][/us/pl/102/394/tIII], § 301, Oct. 6, 1992, [106 Stat. 1819][/us/stat/106/1819].)
 
  __Codification__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/pl/102/394/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F394%2Fs301
+[/us/pl/102/394/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F394%2FtIII
 [/us/stat/106/1819]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F1819
 
 

@@ -89,15 +89,15 @@
 
         No interest shall be charged arising from a claim during the administrative review of the preliminary departmental decision.
 
-([Pub. L. 90–247, title IV, § 452][/us/pl/90/247/s452], as added [Pub. L. 95–561, title XII, § 1232][/us/pl/95/561/s1232], Nov. 1, 1978, [92 Stat. 2347][/us/stat/92/2347]; amended [Pub. L. 100–297, title III, § 3501(a)][/us/pl/100/297/s3501/a], Apr. 28, 1988, [102 Stat. 350][/us/stat/102/350]; [Pub. L. 103–382, title II, § 250(a)][/us/pl/103/382/s250/a], Oct. 20, 1994, [108 Stat. 3926][/us/stat/108/3926].)
+([Pub. L. 90–247, title IV][/us/pl/90/247/tIV], § 452, as added [Pub. L. 95–561, title XII][/us/pl/95/561/tXII], § 1232, Nov. 1, 1978, [92 Stat. 2347][/us/stat/92/2347]; amended [Pub. L. 100–297, title III][/us/pl/100/297/tIII], § 3501(a), Apr. 28, 1988, [102 Stat. 350][/us/stat/102/350]; [Pub. L. 103–382, title II][/us/pl/103/382/tII], § 250(a), Oct. 20, 1994, [108 Stat. 3926][/us/stat/108/3926].)
 
  __Amendments__ 
 
-    1994—Subsec. (a)(2). [Pub. L. 103–382, § 250(a)(1)][/us/pl/103/382/s250/a/1], substituted “establishing a prima facie case for the recovery of funds, including an analysis reflecting the value of the program services actually obtained in a determination of harm to the Federal interest.” for “stating a prima facie case for the recovery of funds.”
+    1994—Subsec. (a)(2). [Pub. L. 103–382][/us/pl/103/382], § 250(a)(1), substituted “establishing a prima facie case for the recovery of funds, including an analysis reflecting the value of the program services actually obtained in a determination of harm to the Federal interest.” for “stating a prima facie case for the recovery of funds.”
 
-    Subsec. (b)(1). [Pub. L. 103–382, § 250(a)(2)][/us/pl/103/382/s250/a/2], substituted “60 days” for “30 days”.
+    Subsec. (b)(1). [Pub. L. 103–382][/us/pl/103/382], § 250(a)(2), substituted “60 days” for “30 days”.
 
-    Subsec. (d). [Pub. L. 103–382, § 250(a)(3)][/us/pl/103/382/s250/a/3], designated existing provisions as par. (1) and added par. (2).
+    Subsec. (d). [Pub. L. 103–382][/us/pl/103/382], § 250(a)(3), designated existing provisions as par. (1) and added par. (2).
 
     1988—[Pub. L. 100–297][/us/pl/100/297] amended section generally, substituting provisions relating to recovery of funds for provisions relating to audit determinations.
 
@@ -114,16 +114,16 @@
 
 [/us/usc/t20/s1234b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1234b
 [/us/usc/t20/s1234g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1234g
-[/us/pl/90/247/s452]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F247%2Fs452
-[/us/pl/95/561/s1232]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F561%2Fs1232
+[/us/pl/90/247/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F247%2FtIV
+[/us/pl/95/561/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F561%2FtXII
 [/us/stat/92/2347]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2347
-[/us/pl/100/297/s3501/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F297%2Fs3501%2Fa
+[/us/pl/100/297/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F297%2FtIII
 [/us/stat/102/350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F350
-[/us/pl/103/382/s250/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F382%2Fs250%2Fa
+[/us/pl/103/382/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F382%2FtII
 [/us/stat/108/3926]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3926
-[/us/pl/103/382/s250/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F382%2Fs250%2Fa%2F1
-[/us/pl/103/382/s250/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F382%2Fs250%2Fa%2F2
-[/us/pl/103/382/s250/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F382%2Fs250%2Fa%2F3
+[/us/pl/103/382]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F382
+[/us/pl/103/382]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F382
+[/us/pl/103/382]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F382
 [/us/pl/100/297]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F297
 [/us/pl/100/297]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F297
 [/us/pl/100/297/s3501/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F297%2Fs3501%2Fb

@@ -37,11 +37,11 @@
 
     (10) there is no single, full-time, Federal education official directly accountable to the President, the Congress, and the people.
 
-([Pub. L. 96–88, title I, § 101][/us/pl/96/88/s101], Oct. 17, 1979, [93 Stat. 669][/us/stat/93/669].)
+([Pub. L. 96–88, title I][/us/pl/96/88/tI], § 101, Oct. 17, 1979, [93 Stat. 669][/us/stat/93/669].)
 
  __Effective Date__ 
 
-[Pub. L. 96–88, title VI, § 601][/us/pl/96/88/s601], Oct. 17, 1979, [93 Stat. 696][/us/stat/93/696], provided that:
+[Pub. L. 96–88, title VI][/us/pl/96/88/tVI], § 601, Oct. 17, 1979, [93 Stat. 696][/us/stat/93/696], provided that:
 
 >     “(a)
 
@@ -55,19 +55,19 @@
 
  __Short Title of 1990 Amendment__ 
 
-[Pub. L. 101–392, title VI, § 601][/us/pl/101/392/s601], Sept. 25, 1990, [104 Stat. 840][/us/stat/104/840], provided that: 
+[Pub. L. 101–392, title VI][/us/pl/101/392/tVI], § 601, Sept. 25, 1990, [104 Stat. 840][/us/stat/104/840], provided that: 
 
 > “This title \[enacting [section 3423a of this title][/us/usc/t20/s3423a], amending [section 3424 of this title][/us/usc/t20/s3424], repealing sections 1131 and 3423 of this title, and enacting provisions set out as a note under [section 2403 of this title][/us/usc/t20/s2403]\] may be cited as the ‘Office of Correctional Education Act of 1990’.”
 
  __Short Title__ 
 
-[Pub. L. 96–88, § 1][/us/pl/96/88/s1], Oct. 17, 1979, [93 Stat. 668][/us/stat/93/668], provided in part: 
+[Pub. L. 96–88][/us/pl/96/88], § 1, Oct. 17, 1979, [93 Stat. 668][/us/stat/93/668], provided in part: 
 
 > “This Act \[enacting this chapter, amending sections 928, 929, 1102, 2390, 2711, and 3012 of this title, [section 19 of Title 3][/us/usc/t3/s19], The President, sections 101, 5312, and 5314 to 5316 of Title 5, Government Organization and Employees, sections 2, 9, and 11 of the Inspector General Act of 1978, set out in the Appendix to Title 5, [section 1004 of Title 21][/us/usc/t21/s1004], Food and Drugs, and sections 761b, 794c, 821, 829, 873, 879, 882, 914, and 952 of Title 29, Labor, and enacting provisions set out as notes under this section and [section 1102 of this title][/us/usc/t20/s1102]\] may be cited as the ‘Department of Education Organization Act’.”
 
  __Interim Appointments__ 
 
-[Pub. L. 96–88, title VI, § 602][/us/pl/96/88/s602], Oct. 17, 1979, [93 Stat. 696][/us/stat/93/696], provided that:
+[Pub. L. 96–88, title VI][/us/pl/96/88/tVI], § 602, Oct. 17, 1979, [93 Stat. 696][/us/stat/93/696], provided that:
 
 >     “(a) In the event that one or more officers required by this Act \[see Short Title note above\] to be appointed by and with the advice and consent of the Senate shall not have entered upon office on the effective date of this Act \[May 4, 1980\] and notwithstanding any other provisions of law, the President may designate an officer in the executive branch to act in such office for one hundred and twenty days or until the office is filled as provided in this Act, whichever occurs first.
 
@@ -84,23 +84,23 @@
 ----------
 ----------
 
-[/us/pl/96/88/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F88%2Fs101
+[/us/pl/96/88/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F88%2FtI
 [/us/stat/93/669]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F669
-[/us/pl/96/88/s601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F88%2Fs601
+[/us/pl/96/88/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F88%2FtVI
 [/us/stat/93/696]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F696
 [/us/usc/t20/s3505/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs3505%2Fb%2F2
 [/us/pl/96/88/s602]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F88%2Fs602
-[/us/pl/101/392/s601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F392%2Fs601
+[/us/pl/101/392/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F392%2FtVI
 [/us/stat/104/840]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F840
 [/us/usc/t20/s3423a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs3423a
 [/us/usc/t20/s3424]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs3424
 [/us/usc/t20/s2403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs2403
-[/us/pl/96/88/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F88%2Fs1
+[/us/pl/96/88]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F88
 [/us/stat/93/668]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F668
 [/us/usc/t3/s19]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft3%2Fs19
 [/us/usc/t21/s1004]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs1004
 [/us/usc/t20/s1102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1102
-[/us/pl/96/88/s602]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F88%2Fs602
+[/us/pl/96/88/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F88%2FtVI
 [/us/stat/93/696]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F696
 
 

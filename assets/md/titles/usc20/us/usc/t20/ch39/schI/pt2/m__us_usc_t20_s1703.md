@@ -29,7 +29,7 @@
 
     (f) the failure by an educational agency to take appropriate action to overcome language barriers that impede equal participation by its students in its instructional programs.
 
-([Pub. L. 93–380, title II, § 204][/us/pl/93/380/s204], Aug. 21, 1974, [88 Stat. 515][/us/stat/88/515].)
+([Pub. L. 93–380, title II][/us/pl/93/380/tII], § 204, Aug. 21, 1974, [88 Stat. 515][/us/stat/88/515].)
 
 ----------
 
@@ -38,7 +38,7 @@
 ----------
 ----------
 
-[/us/pl/93/380/s204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F380%2Fs204
+[/us/pl/93/380/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F380%2FtII
 [/us/stat/88/515]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F515
 
 

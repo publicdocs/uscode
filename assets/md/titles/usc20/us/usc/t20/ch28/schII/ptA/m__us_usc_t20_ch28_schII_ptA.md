@@ -17,7 +17,7 @@
 
  __Prior Provisions__ 
 
-    A prior part A, consisted of sections 1021 to 1030, related to teacher quality enhancement grants for States and partnerships, prior to repeal by [Pub. L. 110–315, title II, § 201(2)][/us/pl/110/315/s201/2], Aug. 14, 2008, [122 Stat. 3133][/us/stat/122/3133].
+    A prior part A, consisted of sections 1021 to 1030, related to teacher quality enhancement grants for States and partnerships, prior to repeal by [Pub. L. 110–315, title II][/us/pl/110/315/tII], § 201(2), Aug. 14, 2008, [122 Stat. 3133][/us/stat/122/3133].
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/110/315/s201/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2Fs201%2F2
+[/us/pl/110/315/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2FtII
 [/us/stat/122/3133]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3133
 
 

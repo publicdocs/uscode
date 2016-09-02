@@ -17,7 +17,7 @@
 
     No State or local educational agency receiving assistance under this subchapter may discharge any employee or otherwise discriminate against any employee with respect to the employee’s compensation, terms, conditions, or privileges of employment because the employee has brought to the attention of the public information concerning any asbestos problem in the school buildings within the jurisdiction of such agency.
 
-([Pub. L. 98–377, title V, § 509][/us/pl/98/377/s509], Aug. 11, 1984, [98 Stat. 1294][/us/stat/98/1294]; [Pub. L. 101–637, § 14(a)(9)][/us/pl/101/637/s14/a/9], Nov. 28, 1990, [104 Stat. 4594][/us/stat/104/4594].)
+([Pub. L. 98–377, title V][/us/pl/98/377/tV], § 509, Aug. 11, 1984, [98 Stat. 1294][/us/stat/98/1294]; [Pub. L. 101–637][/us/pl/101/637], § 14(a)(9), Nov. 28, 1990, [104 Stat. 4594][/us/stat/104/4594].)
 
  __Amendments__ 
 
@@ -30,9 +30,9 @@
 ----------
 ----------
 
-[/us/pl/98/377/s509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F377%2Fs509
+[/us/pl/98/377/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F377%2FtV
 [/us/stat/98/1294]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F1294
-[/us/pl/101/637/s14/a/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F637%2Fs14%2Fa%2F9
+[/us/pl/101/637]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F637
 [/us/stat/104/4594]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4594
 [/us/pl/101/637]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F637
 

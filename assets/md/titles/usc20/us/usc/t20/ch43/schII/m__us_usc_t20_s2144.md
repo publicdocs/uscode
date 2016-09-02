@@ -21,7 +21,7 @@
 
     (2) such sums as may be necessary for each succeeding fiscal year.
 
-([Pub. L. 106–380, § 5][/us/pl/106/380/s5], Oct. 27, 2000, [114 Stat. 1449][/us/stat/114/1449].)
+([Pub. L. 106–380][/us/pl/106/380], § 5, Oct. 27, 2000, [114 Stat. 1449][/us/stat/114/1449].)
 
 ----------
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/pl/106/380/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F380%2Fs5
+[/us/pl/106/380]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F380
 [/us/stat/114/1449]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1449
 
 

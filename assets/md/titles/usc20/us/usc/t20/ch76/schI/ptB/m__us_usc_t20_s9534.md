@@ -45,11 +45,11 @@
 
         The Research Commissioner shall ensure that not less than 50 percent of the funds made available for research for each fiscal year shall be used to fund long-term research programs of not less than 5 years, which support the priorities and mission of the Institute and the mission of the Research Center.
 
-([Pub. L. 107–279, title I, § 134][/us/pl/107/279/s134], Nov. 5, 2002, [116 Stat. 1957][/us/stat/116/1957].)
+([Pub. L. 107–279, title I][/us/pl/107/279/tI], § 134, Nov. 5, 2002, [116 Stat. 1957][/us/stat/116/1957].)
 
  __References in Text__ 
 
-    This Act, referred to in subsec. (b)(1), means [Pub. L. 107–279][/us/pl/107/279], Nov. 5, 2002, [116 Stat. 1940][/us/stat/116/1940], which enacted this chapter and [section 3419 of this title][/us/usc/t20/s3419], amended sections 1232j, 3412, 3461, 6194, 6311, 6312, 6317, 6491, 6932, 7013, 7253c, 7283b, 7283d, 7451, 7703, 7909, 9007, 9010, 9011, 9573, 9623, and 9624 of this title and [section 5315 of Title 5][/us/usc/t5/s5315], Government Organization and Employees, transferred sections 9010 and 9011 of this title to sections 9621 and 9622 of this title, respectively, repealed sections 3419, 6011, 6021, 6031, 6041, 6051, 6053 to 6053e, 6054 to 6054b, 6055 to 6055h, 6056, 6056a, 9001 to 9009, and 9012 of this title, enacted provisions set out as notes under section 7703 and 9501 of this title, and repealed provisions set out as notes under sections 1221e and 9001 of this title. For complete classification of this Act to the Code, see Tables.
+    This Act, referred to in subsec. (b)(1), means [Pub. L. 107–279][/us/pl/107/279], Nov. 5, 2002, [116 Stat. 1940][/us/stat/116/1940], which enacted this chapter and [section 3419 of this title][/us/usc/t20/s3419], amended sections 1232j, 3412, 3461, 6194, 6311, 6312, 6317, 6491, 6932, 7013, \[former\] 7253c, \[former\] 7283b, \[former\] 7283d, 7451, 7703, 7909, 9007, 9010, 9011, 9573, 9623, and 9624 of this title and [section 5315 of Title 5][/us/usc/t5/s5315], Government Organization and Employees, transferred sections 9010 and 9011 of this title to sections 9621 and 9622 of this title, respectively, repealed sections 3419, 6011, 6021, 6031, 6041, 6051, 6053 to 6053e, 6054 to 6054b, 6055 to 6055h, 6056, 6056a, 9001 to 9009, and 9012 of this title, enacted provisions set out as notes under section 7703 and 9501 of this title, and repealed provisions set out as notes under sections 1221e and 9001 of this title. For complete classification of this Act to the Code, see Tables.
 
 ----------
 
@@ -58,7 +58,7 @@
 ----------
 ----------
 
-[/us/pl/107/279/s134]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F279%2Fs134
+[/us/pl/107/279/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F279%2FtI
 [/us/stat/116/1957]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1957
 [/us/pl/107/279]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F279
 [/us/stat/116/1940]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1940

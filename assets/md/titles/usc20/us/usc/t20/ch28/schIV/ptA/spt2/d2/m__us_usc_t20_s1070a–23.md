@@ -99,35 +99,35 @@
 
         The Secretary shall convene peer review panels to assist in making determinations regarding the awarding of grants under this division.
 
-([Pub. L. 89–329, title IV, § 404C][/us/pl/89/329/s404C], as added [Pub. L. 105–244, title IV, § 403][/us/pl/105/244/s403], Oct. 7, 1998, [112 Stat. 1658][/us/stat/112/1658]; amended [Pub. L. 110–315, title IV, § 404(c)][/us/pl/110/315/s404/c], Aug. 14, 2008, [122 Stat. 3208][/us/stat/122/3208].)
+([Pub. L. 89–329, title IV][/us/pl/89/329/tIV], § 404C, as added [Pub. L. 105–244, title IV][/us/pl/105/244/tIV], § 403, Oct. 7, 1998, [112 Stat. 1658][/us/stat/112/1658]; amended [Pub. L. 110–315, title IV][/us/pl/110/315/tIV], § 404(c), Aug. 14, 2008, [122 Stat. 3208][/us/stat/122/3208].)
 
  __Prior Provisions__ 
 
-    A prior section 1070a–23, [Pub. L. 89–329, title IV, § 404C][/us/pl/89/329/s404C], as added [Pub. L. 102–325, title IV, § 402(a)(4)][/us/pl/102/325/s402/a/4], July 23, 1992, [106 Stat. 493][/us/stat/106/493]; amended [Pub. L. 103–208, § 2(b)(15)][/us/pl/103/208/s2/b/15]–(17), Dec. 20, 1993, [107 Stat. 2459][/us/stat/107/2459]; [Pub. L. 104–193, title I, § 110(h)(1)][/us/pl/104/193/s110/h/1], Aug. 22, 1996, [110 Stat. 2172][/us/stat/110/2172], related to early intervention, prior to the general amendment of this division by [Pub. L. 105–244][/us/pl/105/244]. See [section 1070a–24 of this title][/us/usc/t20/s1070a–24].
+    A prior section 1070a–23, [Pub. L. 89–329, title IV][/us/pl/89/329/tIV], § 404C, as added [Pub. L. 102–325, title IV][/us/pl/102/325/tIV], § 402(a)(4), July 23, 1992, [106 Stat. 493][/us/stat/106/493]; amended [Pub. L. 103–208][/us/pl/103/208], § 2(b)(15)–(17), Dec. 20, 1993, [107 Stat. 2459][/us/stat/107/2459]; [Pub. L. 104–193, title I][/us/pl/104/193/tI], § 110(h)(1), Aug. 22, 1996, [110 Stat. 2172][/us/stat/110/2172], related to early intervention, prior to the general amendment of this division by [Pub. L. 105–244][/us/pl/105/244]. See [section 1070a–24 of this title][/us/usc/t20/s1070a–24].
 
  __Amendments__ 
 
-    2008—[Pub. L. 110–315, § 404(c)(1)][/us/pl/110/315/s404/c/1], substituted “Applications” for “Eligible entity plans” in section catchline.
+    2008—[Pub. L. 110–315][/us/pl/110/315], § 404(c)(1), substituted “Applications” for “Eligible entity plans” in section catchline.
 
-    Subsec. (a). [Pub. L. 110–315, § 404(c)(2)(A)][/us/pl/110/315/s404/c/2/A], substituted “Application” for “Plan” in heading.
+    Subsec. (a). [Pub. L. 110–315][/us/pl/110/315], § 404(c)(2)(A), substituted “Application” for “Plan” in heading.
 
-    Subsec. (a)(1). [Pub. L. 110–315, § 404(c)(2)(B)][/us/pl/110/315/s404/c/2/B], substituted “an application” for “a plan” and struck out at end “Such plan shall provide for the conduct of a scholarship component if required or undertaken pursuant to [section 1070a–25 of this title][/us/usc/t20/s1070a–25] and an early intervention component required pursuant to [section 1070a–24 of this title][/us/usc/t20/s1070a–24].”
+    Subsec. (a)(1). [Pub. L. 110–315][/us/pl/110/315], § 404(c)(2)(B), substituted “an application” for “a plan” and struck out at end “Such plan shall provide for the conduct of a scholarship component if required or undertaken pursuant to [section 1070a–25 of this title][/us/usc/t20/s1070a–25] and an early intervention component required pursuant to [section 1070a–24 of this title][/us/usc/t20/s1070a–24].”
 
-    Subsec. (a)(2). [Pub. L. 110–315, § 404(c)(2)(C)][/us/pl/110/315/s404/c/2/C], added par. (2) and struck out former par. (2). Prior to amendment, text read as follows: “Each plan submitted pursuant to paragraph (1) shall be in such form, contain or be accompanied by such information or assurances, and be submitted at such time as the Secretary may require by regulation. Each such plan shall—
+    Subsec. (a)(2). [Pub. L. 110–315][/us/pl/110/315], § 404(c)(2)(C), added par. (2) and struck out former par. (2). Prior to amendment, text read as follows: “Each plan submitted pursuant to paragraph (1) shall be in such form, contain or be accompanied by such information or assurances, and be submitted at such time as the Secretary may require by regulation. Each such plan shall—
 
     “(A) describe the activities for which assistance under this division is sought; and
 
     “(B) provide such additional assurances as the Secretary determines necessary to ensure compliance with the requirements of this division.”
 
-    Subsec. (b)(1). [Pub. L. 110–315, § 404(c)(3)(A)][/us/pl/110/315/s404/c/3/A], substituted “an application” for “a plan” and “such application” for “such plan” in introductory provisions.
+    Subsec. (b)(1). [Pub. L. 110–315][/us/pl/110/315], § 404(c)(3)(A), substituted “an application” for “a plan” and “such application” for “such plan” in introductory provisions.
 
-    Subsec. (b)(1)(A). [Pub. L. 110–315, § 404(c)(3)(B)][/us/pl/110/315/s404/c/3/B], which directed insertion of “and may be accrued over the full duration of the grant award period, except that the eligible entity shall make substantial progress towards meeting the matching requirement in each year of the grant award period” after “in cash or in-kind”, was executed by making the insertion after “in cash or in kind” to reflect the probable intent of Congress.
+    Subsec. (b)(1)(A). [Pub. L. 110–315][/us/pl/110/315], § 404(c)(3)(B), which directed insertion of “and may be accrued over the full duration of the grant award period, except that the eligible entity shall make substantial progress towards meeting the matching requirement in each year of the grant award period” after “in cash or in-kind”, was executed by making the insertion after “in cash or in kind” to reflect the probable intent of Congress.
 
-    Subsec. (b)(2). [Pub. L. 110–315, § 404(c)(3)(C)][/us/pl/110/315/s404/c/3/C], inserted at end “The Secretary may approve an eligible entity’s request for a reduced match percentage—” and subpars. (A) and (B).
+    Subsec. (b)(2). [Pub. L. 110–315][/us/pl/110/315], § 404(c)(3)(C), inserted at end “The Secretary may approve an eligible entity’s request for a reduced match percentage—” and subpars. (A) and (B).
 
-    Subsec. (c)(1). [Pub. L. 110–315, § 404(c)(4)(A)][/us/pl/110/315/s404/c/4/A], substituted “obligated to students from State, local, institutional, or private funds under this division, including pre-existing non-Federal financial assistance programs, including—” and subpars. (A) and (B) for “paid to students from State, local, institutional, or private funds under this division;”.
+    Subsec. (c)(1). [Pub. L. 110–315][/us/pl/110/315], § 404(c)(4)(A), substituted “obligated to students from State, local, institutional, or private funds under this division, including pre-existing non-Federal financial assistance programs, including—” and subpars. (A) and (B) for “paid to students from State, local, institutional, or private funds under this division;”.
 
-    Subsec. (c)(4). [Pub. L. 110–315, § 404(c)(4)(B)][/us/pl/110/315/s404/c/4/B]–(D), added par. (4).
+    Subsec. (c)(4). [Pub. L. 110–315][/us/pl/110/315], § 404(c)(4)(B)–(D), added par. (4).
 
 ----------
 
@@ -150,30 +150,30 @@
 [/us/usc/t20/s1070a–25]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1070a%E2%80%9325
 [/us/usc/t20/s1070a–25]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1070a%E2%80%9325
 [/us/usc/t20/s1070a–25]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1070a%E2%80%9325
-[/us/pl/89/329/s404C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2Fs404C
-[/us/pl/105/244/s403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2Fs403
+[/us/pl/89/329/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2FtIV
+[/us/pl/105/244/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2FtIV
 [/us/stat/112/1658]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F1658
-[/us/pl/110/315/s404/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2Fs404%2Fc
+[/us/pl/110/315/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2FtIV
 [/us/stat/122/3208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3208
-[/us/pl/89/329/s404C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2Fs404C
-[/us/pl/102/325/s402/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325%2Fs402%2Fa%2F4
+[/us/pl/89/329/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2FtIV
+[/us/pl/102/325/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325%2FtIV
 [/us/stat/106/493]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F493
-[/us/pl/103/208/s2/b/15]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F208%2Fs2%2Fb%2F15
+[/us/pl/103/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F208
 [/us/stat/107/2459]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F2459
-[/us/pl/104/193/s110/h/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193%2Fs110%2Fh%2F1
+[/us/pl/104/193/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193%2FtI
 [/us/stat/110/2172]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2172
 [/us/pl/105/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244
 [/us/usc/t20/s1070a–24]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1070a%E2%80%9324
-[/us/pl/110/315/s404/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2Fs404%2Fc%2F1
-[/us/pl/110/315/s404/c/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2Fs404%2Fc%2F2%2FA
-[/us/pl/110/315/s404/c/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2Fs404%2Fc%2F2%2FB
+[/us/pl/110/315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315
+[/us/pl/110/315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315
+[/us/pl/110/315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315
 [/us/usc/t20/s1070a–25]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1070a%E2%80%9325
 [/us/usc/t20/s1070a–24]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1070a%E2%80%9324
-[/us/pl/110/315/s404/c/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2Fs404%2Fc%2F2%2FC
-[/us/pl/110/315/s404/c/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2Fs404%2Fc%2F3%2FA
-[/us/pl/110/315/s404/c/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2Fs404%2Fc%2F3%2FB
-[/us/pl/110/315/s404/c/3/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2Fs404%2Fc%2F3%2FC
-[/us/pl/110/315/s404/c/4/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2Fs404%2Fc%2F4%2FA
-[/us/pl/110/315/s404/c/4/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2Fs404%2Fc%2F4%2FB
+[/us/pl/110/315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315
+[/us/pl/110/315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315
+[/us/pl/110/315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315
+[/us/pl/110/315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315
+[/us/pl/110/315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315
+[/us/pl/110/315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315
 
 

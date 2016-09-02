@@ -17,7 +17,7 @@
 
     The Secretary, in consultation with the Secretary of Veterans Affairs, shall develop and implement a procedure to permit Department of Veterans Affairs physicians to provide the certifications and affidavits needed to enable disabled veterans enrolled in the Department of Veterans Affairs health care system to document such veterans’ eligibility for deferments or cancellations of student loans made, insured, or guaranteed under this subchapter and part C of subchapter I of chapter 34 of title 42. Not later than 6 months after October 7, 1998, the Secretary and the Secretary of Veterans Affairs jointly shall report to Congress on the progress made in developing and implementing the procedure.
 
-([Pub. L. 89–329, title IV, § 493B][/us/pl/89/329/s493B], as added [Pub. L. 105–244, title IV, § 490F][/us/pl/105/244/s490F], Oct. 7, 1998, [112 Stat. 1758][/us/stat/112/1758].)
+([Pub. L. 89–329, title IV][/us/pl/89/329/tIV], § 493B, as added [Pub. L. 105–244, title IV][/us/pl/105/244/tIV], § 490F, Oct. 7, 1998, [112 Stat. 1758][/us/stat/112/1758].)
 
  __Effective Date__ 
 
@@ -30,8 +30,8 @@
 ----------
 ----------
 
-[/us/pl/89/329/s493B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2Fs493B
-[/us/pl/105/244/s490F]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2Fs490F
+[/us/pl/89/329/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2FtIV
+[/us/pl/105/244/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2FtIV
 [/us/stat/112/1758]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F1758
 [/us/pl/105/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244
 [/us/pl/105/244/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2Fs3

@@ -27,7 +27,7 @@
 
         (2) includes, in the case of members of the National Guard, active State duty.
 
-([Pub. L. 89–329, title IV, § 493D][/us/pl/89/329/s493D], as added [Pub. L. 110–84, title II, § 204][/us/pl/110/84/s204], Sept. 27, 2007, [121 Stat. 795][/us/stat/121/795].)
+([Pub. L. 89–329, title IV][/us/pl/89/329/tIV], § 493D, as added [Pub. L. 110–84, title II][/us/pl/110/84/tII], § 204, Sept. 27, 2007, [121 Stat. 795][/us/stat/121/795].)
 
  __Effective Date__ 
 
@@ -42,8 +42,8 @@
 
 [/us/usc/t20/s1088/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1088%2Fd
 [/us/usc/t10/s101/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs101%2Fd%2F1
-[/us/pl/89/329/s493D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2Fs493D
-[/us/pl/110/84/s204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F84%2Fs204
+[/us/pl/89/329/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2FtIV
+[/us/pl/110/84/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F84%2FtII
 [/us/stat/121/795]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F795
 [/us/pl/110/84/s1/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F84%2Fs1%2Fc
 [/us/usc/t20/s1070a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1070a

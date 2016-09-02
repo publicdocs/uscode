@@ -81,7 +81,7 @@
 
             (I) any other activities designed to address specific barriers to the entry of minorities into science.
 
-([Pub. L. 89–329, title III, § 353][/us/pl/89/329/s353], formerly title X, § 1023, as added [Pub. L. 99–498, title X, § 1002][/us/pl/99/498/s1002], Oct. 17, 1986, [100 Stat. 1562][/us/stat/100/1562]; renumbered title III, § 353, and amended [Pub. L. 105–244, title III, § 301(a)(5)][/us/pl/105/244/s301/a/5], (7), (c)(8), Oct. 7, 1998, [112 Stat. 1636][/us/stat/112/1636], 1637.)
+([Pub. L. 89–329, title III][/us/pl/89/329/tIII], § 353, formerly title X, § 1023, as added [Pub. L. 99–498, title X][/us/pl/99/498/tX], § 1002, Oct. 17, 1986, [100 Stat. 1562][/us/stat/100/1562]; renumbered title III, § 353, and amended [Pub. L. 105–244, title III][/us/pl/105/244/tIII], § 301(a)(5), (7), (c)(8), Oct. 7, 1998, [112 Stat. 1636][/us/stat/112/1636], 1637.)
 
  __Codification__ 
 
@@ -93,13 +93,13 @@
 
  __Amendments__ 
 
-    1998—Subsec. (a)(1). [Pub. L. 105–244, § 301(c)(8)(A)][/us/pl/105/244/s301/c/8/A], substituted “section 1067k(6)” for “section 1135d–5(6)”.
+    1998—Subsec. (a)(1). [Pub. L. 105–244][/us/pl/105/244], § 301(c)(8)(A), substituted “section 1067k(6)” for “section 1135d–5(6)”.
 
-    Subsec. (a)(2). [Pub. L. 105–244, § 301(c)(8)(B)][/us/pl/105/244/s301/c/8/B], substituted “section 1067k(7)” for “section 1135d–5(7)”.
+    Subsec. (a)(2). [Pub. L. 105–244][/us/pl/105/244], § 301(c)(8)(B), substituted “section 1067k(7)” for “section 1135d–5(7)”.
 
-    Subsec. (a)(3). [Pub. L. 105–244, § 301(c)(8)(C)][/us/pl/105/244/s301/c/8/C], substituted “section 1067k(8)” for “section 1135d–5(8)”.
+    Subsec. (a)(3). [Pub. L. 105–244][/us/pl/105/244], § 301(c)(8)(C), substituted “section 1067k(8)” for “section 1135d–5(8)”.
 
-    Subsec. (a)(4). [Pub. L. 105–244, § 301(c)(8)(D)][/us/pl/105/244/s301/c/8/D], substituted “section 1067k(9)” for “section 1135d–5(9)”.
+    Subsec. (a)(4). [Pub. L. 105–244][/us/pl/105/244], § 301(c)(8)(D), substituted “section 1067k(9)” for “section 1135d–5(9)”.
 
  __Effective Date of 1998 Amendment__ 
 
@@ -116,19 +116,19 @@
 [/us/usc/t20/s1067k/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1067k%2F7
 [/us/usc/t20/s1067k/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1067k%2F8
 [/us/usc/t20/s1067k/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1067k%2F9
-[/us/pl/89/329/s353]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2Fs353
-[/us/pl/99/498/s1002]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F498%2Fs1002
+[/us/pl/89/329/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2FtIII
+[/us/pl/99/498/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F498%2FtX
 [/us/stat/100/1562]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1562
-[/us/pl/105/244/s301/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2Fs301%2Fa%2F5
+[/us/pl/105/244/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2FtIII
 [/us/stat/112/1636]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F1636
 [/us/usc/t20/s1135b–2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1135b%E2%80%932
 [/us/pl/105/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244
 [/us/pl/89/329/s353]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2Fs353
 [/us/usc/t20/s1068b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1068b
-[/us/pl/105/244/s301/c/8/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2Fs301%2Fc%2F8%2FA
-[/us/pl/105/244/s301/c/8/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2Fs301%2Fc%2F8%2FB
-[/us/pl/105/244/s301/c/8/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2Fs301%2Fc%2F8%2FC
-[/us/pl/105/244/s301/c/8/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2Fs301%2Fc%2F8%2FD
+[/us/pl/105/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244
+[/us/pl/105/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244
+[/us/pl/105/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244
+[/us/pl/105/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244
 [/us/pl/105/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244
 [/us/pl/105/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244
 [/us/pl/105/244/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2Fs3

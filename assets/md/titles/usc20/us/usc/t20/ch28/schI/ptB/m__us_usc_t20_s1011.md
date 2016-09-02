@@ -23,7 +23,7 @@
 
         Nothing in this chapter and part C of subchapter I of chapter 34 of title 42 shall be construed to limit the rights or responsibilities of any individual under the Americans with Disabilities Act of 1990 \[[42 U.S.C. 12101][/us/usc/t42/s12101] et seq.\], the Rehabilitation Act of 1973 \[[29 U.S.C. 701][/us/usc/t29/s701] et seq.\], or any other law.
 
-([Pub. L. 89–329, title I, § 111][/us/pl/89/329/s111], as added [Pub. L. 105–244, title I, § 101(a)][/us/pl/105/244/s101/a], Oct. 7, 1998, [112 Stat. 1590][/us/stat/112/1590]; amended [Pub. L. 111–39, title I, § 101(b)(2)][/us/pl/111/39/s101/b/2], July 1, 2009, [123 Stat. 1935][/us/stat/123/1935].)
+([Pub. L. 89–329, title I][/us/pl/89/329/tI], § 111, as added [Pub. L. 105–244, title I][/us/pl/105/244/tI], § 101(a), Oct. 7, 1998, [112 Stat. 1590][/us/stat/112/1590]; amended [Pub. L. 111–39, title I][/us/pl/111/39/tI], § 101(b)(2), July 1, 2009, [123 Stat. 1935][/us/stat/123/1935].)
 
  __References in Text__ 
 
@@ -35,13 +35,13 @@
 
     Provisions similar to this section were contained in [section 1142 of this title][/us/usc/t20/s1142] prior to repeal by [Pub. L. 105–244][/us/pl/105/244].
 
-    A prior section 1011, [Pub. L. 89–329, title I, § 121][/us/pl/89/329/s121], as added [Pub. L. 102–325, title I, § 101][/us/pl/102/325/s101], July 23, 1992, [106 Stat. 461][/us/stat/106/461], stated congressional findings and purposes of articulation agreements grant program, prior to the general amendment of this subchapter by [Pub. L. 105–244][/us/pl/105/244].
+    A prior section 1011, [Pub. L. 89–329, title I][/us/pl/89/329/tI], § 121, as added [Pub. L. 102–325, title I][/us/pl/102/325/tI], § 101, July 23, 1992, [106 Stat. 461][/us/stat/106/461], stated congressional findings and purposes of articulation agreements grant program, prior to the general amendment of this subchapter by [Pub. L. 105–244][/us/pl/105/244].
 
-    Another prior section 1011, [Pub. L. 89–329, title I, § 111][/us/pl/89/329/s111], as added [Pub. L. 99–498, title I, § 101][/us/pl/99/498/s101], Oct. 17, 1986, [100 Stat. 1279][/us/stat/100/1279], related to institutional development, prior to the general amendment of this subchapter by [Pub. L. 102–325][/us/pl/102/325].
+    Another prior section 1011, [Pub. L. 89–329, title I][/us/pl/89/329/tI], § 111, as added [Pub. L. 99–498, title I][/us/pl/99/498/tI], § 101, Oct. 17, 1986, [100 Stat. 1279][/us/stat/100/1279], related to institutional development, prior to the general amendment of this subchapter by [Pub. L. 102–325][/us/pl/102/325].
 
-    Another prior section 1011, [Pub. L. 89–329, title I, § 111][/us/pl/89/329/s111], as added [Pub. L. 96–374, title I, § 101(a)][/us/pl/96/374/s101/a], Oct. 3, 1980, [94 Stat. 1377][/us/stat/94/1377], stated Congressional findings with respect to education outreach programs, prior to the general amendment of this subchapter by [Pub. L. 99–498][/us/pl/99/498].
+    Another prior section 1011, [Pub. L. 89–329, title I][/us/pl/89/329/tI], § 111, as added [Pub. L. 96–374, title I][/us/pl/96/374/tI], § 101(a), Oct. 3, 1980, [94 Stat. 1377][/us/stat/94/1377], stated Congressional findings with respect to education outreach programs, prior to the general amendment of this subchapter by [Pub. L. 99–498][/us/pl/99/498].
 
-    Another prior section 1011, [Pub. L. 89–329, title I, § 114][/us/pl/89/329/s114], formerly § 111, Nov. 8, 1965, [79 Stat. 1224][/us/stat/79/1224], renumbered § 112 and amended [Pub. L. 92–318, title I][/us/pl/92/318], §§ 102(a)(1), 131(d)(2)(A), June 23, 1972, [86 Stat. 236][/us/stat/86/236], 260, renumbered § 113, [Pub. L. 93–29, title VIII, § 803][/us/pl/93/29/s803], May 3, 1973, [87 Stat. 59][/us/stat/87/59], renumbered § 114, [Pub. L. 94–482, title I, § 101(e)][/us/pl/94/482/s101/e], Oct. 12, 1976, [90 Stat. 2085][/us/stat/90/2085], prohibited the giving of grants for programs relating to sectarian instruction or worship, prior to the general amendment of this subchapter by [Pub. L. 96–374][/us/pl/96/374].
+    Another prior section 1011, [Pub. L. 89–329, title I][/us/pl/89/329/tI], § 114, formerly § 111, Nov. 8, 1965, [79 Stat. 1224][/us/stat/79/1224], renumbered § 112 and amended [Pub. L. 92–318, title I][/us/pl/92/318/tI], §§ 102(a)(1), 131(d)(2)(A), June 23, 1972, [86 Stat. 236][/us/stat/86/236], 260, renumbered § 113, [Pub. L. 93–29, title VIII][/us/pl/93/29/tVIII], § 803, May 3, 1973, [87 Stat. 59][/us/stat/87/59], renumbered § 114, [Pub. L. 94–482, title I][/us/pl/94/482/tI], § 101(e), Oct. 12, 1976, [90 Stat. 2085][/us/stat/90/2085], prohibited the giving of grants for programs relating to sectarian instruction or worship, prior to the general amendment of this subchapter by [Pub. L. 96–374][/us/pl/96/374].
 
  __Amendments__ 
 
@@ -60,10 +60,10 @@
 
 [/us/usc/t42/s12101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs12101
 [/us/usc/t29/s701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs701
-[/us/pl/89/329/s111]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2Fs111
-[/us/pl/105/244/s101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2Fs101%2Fa
+[/us/pl/89/329/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2FtI
+[/us/pl/105/244/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2FtI
 [/us/stat/112/1590]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F1590
-[/us/pl/111/39/s101/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F39%2Fs101%2Fb%2F2
+[/us/pl/111/39/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F39%2FtI
 [/us/stat/123/1935]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1935
 [/us/pl/101/336]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F336
 [/us/stat/104/327]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F327
@@ -73,25 +73,25 @@
 [/us/usc/t29/s701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs701
 [/us/usc/t20/s1142]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1142
 [/us/pl/105/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244
-[/us/pl/89/329/s121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2Fs121
-[/us/pl/102/325/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325%2Fs101
+[/us/pl/89/329/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2FtI
+[/us/pl/102/325/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325%2FtI
 [/us/stat/106/461]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F461
 [/us/pl/105/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244
-[/us/pl/89/329/s111]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2Fs111
-[/us/pl/99/498/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F498%2Fs101
+[/us/pl/89/329/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2FtI
+[/us/pl/99/498/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F498%2FtI
 [/us/stat/100/1279]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1279
 [/us/pl/102/325]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325
-[/us/pl/89/329/s111]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2Fs111
-[/us/pl/96/374/s101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F374%2Fs101%2Fa
+[/us/pl/89/329/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2FtI
+[/us/pl/96/374/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F374%2FtI
 [/us/stat/94/1377]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F1377
 [/us/pl/99/498]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F498
-[/us/pl/89/329/s114]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2Fs114
+[/us/pl/89/329/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2FtI
 [/us/stat/79/1224]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F1224
-[/us/pl/92/318]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F318
+[/us/pl/92/318/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F318%2FtI
 [/us/stat/86/236]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F236
-[/us/pl/93/29/s803]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F29%2Fs803
+[/us/pl/93/29/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F29%2FtVIII
 [/us/stat/87/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F59
-[/us/pl/94/482/s101/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F482%2Fs101%2Fe
+[/us/pl/94/482/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F482%2FtI
 [/us/stat/90/2085]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2085
 [/us/pl/96/374]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F374
 [/us/pl/111/39]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F39

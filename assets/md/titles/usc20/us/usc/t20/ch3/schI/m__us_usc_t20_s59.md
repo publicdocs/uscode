@@ -17,7 +17,7 @@
 
     All collections of rocks, minerals, soils, fossils, and objects of natural history, archaeology, and ethnology, made by the National Ocean Survey, the United States Geological Survey, or by any other parties for the Government of the United States, when no longer needed for investigations in progress shall be deposited in the National Museum.
 
-([Mar. 3, 1879, ch. 182, § 1][/us/act/1879-03-03/ch182/s1], [20 Stat. 394][/us/stat/20/394]; 1965 Reorg. Plan No. 2, eff. July 13, 1965, 30 F.R. 8819, [79 Stat. 1318][/us/stat/79/1318]; 1970 Reorg. Plan No. 4, eff. Oct. 3, 1970, 35 F.R. 15627, [84 Stat. 2090][/us/stat/84/2090]; [Pub. L. 102–154, title I][/us/pl/102/154], Nov. 13, 1991, [105 Stat. 1000][/us/stat/105/1000].)
+([Mar. 3, 1879, ch. 182][/us/act/1879-03-03/ch182], § 1, [20 Stat. 394][/us/stat/20/394]; 1965 Reorg. Plan No. 2, eff. July 13, 1965, 30 F.R. 8819, [79 Stat. 1318][/us/stat/79/1318]; 1970 Reorg. Plan No. 4, eff. Oct. 3, 1970, 35 F.R. 15627, [84 Stat. 2090][/us/stat/84/2090]; [Pub. L. 102–154, title I][/us/pl/102/154/tI], Nov. 13, 1991, [105 Stat. 1000][/us/stat/105/1000].)
 
  __Codification__ 
 
@@ -35,7 +35,7 @@
 
  __National Museum of American History__ 
 
-[Pub. L. 96–441, § 2][/us/pl/96/441/s2], Oct. 13, 1980, [94 Stat. 1884][/us/stat/94/1884], provided that: 
+[Pub. L. 96–441][/us/pl/96/441], § 2, Oct. 13, 1980, [94 Stat. 1884][/us/stat/94/1884], provided that: 
 
 > “The bureau of the Smithsonian Institution known as the Museum of History and Technology and so referred to in the Act entitled ‘An Act to authorize the construction of a building for a Museum of History and Technology for the Smithsonian Institution, including the preparation of plans and specifications, and all other work incidental thereto’, approved June 28, 1955 ([20 U.S.C. 59][/us/usc/t20/s59] note), shall be known as the ‘National Museum of American History’.”
 
@@ -52,11 +52,11 @@
 ----------
 ----------
 
-[/us/act/1879-03-03/ch182/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1879-03-03%2Fch182%2Fs1
+[/us/act/1879-03-03/ch182]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1879-03-03%2Fch182
 [/us/stat/20/394]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F20%2F394
 [/us/stat/79/1318]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F1318
 [/us/stat/84/2090]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F2090
-[/us/pl/102/154]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F154
+[/us/pl/102/154/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F154%2FtI
 [/us/stat/105/1000]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1000
 [/us/stat/79/1318]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F1318
 [/us/stat/84/2090]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F2090
@@ -64,7 +64,7 @@
 [/us/pl/102/154]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F154
 [/us/usc/t43/s31]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs31
 [/us/usc/t20/s50]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs50
-[/us/pl/96/441/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F441%2Fs2
+[/us/pl/96/441]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F441
 [/us/stat/94/1884]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F1884
 [/us/usc/t20/s59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs59
 [/us/pl/96/441]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F441

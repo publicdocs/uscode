@@ -131,7 +131,7 @@
 
              The definition in subparagraph (A) shall not include—
 
-                (i) a local educational agency, State educational agency, a State department of education, or an elementary or secondary school as defined by the Elementary and Secondary Education Act of 1965 \[[20 U.S.C. 6301][/us/usc/t20/s6301] et seq.\];
+                (i) a local educational agency, State educational agency, a State department of education, or an elementary or secondary school (as defined by the terms “elementary school” and “secondary school” in [section 7801 of this title][/us/usc/t20/s7801]);
 
                 (ii) an institution of higher education as defined by [section 1001 of this title][/us/usc/t20/s1001]; or
 
@@ -183,11 +183,7 @@
 
             The term “recreational program” includes any activity or service that is intended as an entertainment pastime.
 
-([Pub. L. 90–247, title IV, § 429][/us/pl/90/247/s429], as added [Pub. L. 103–382, title II, § 238][/us/pl/103/382/s238], Oct. 20, 1994, [108 Stat. 3918][/us/stat/108/3918]; amended [Pub. L. 105–244, title I, § 102(a)(6)(C)][/us/pl/105/244/s102/a/6/C], Oct. 7, 1998, [112 Stat. 1618][/us/stat/112/1618].)
-
- __References in Text__ 
-
-    The Elementary and Secondary Education Act of 1965, referred to in subsec. (d)(2)(B)(i), is [Pub. L. 89–10][/us/pl/89/10], Apr. 11, 1965, [79 Stat. 27][/us/stat/79/27], as amended, which is classified generally to chapter 70 (§ 6301 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 6301 of this title][/us/usc/t20/s6301] and Tables.
+([Pub. L. 90–247, title IV][/us/pl/90/247/tIV], § 429, as added [Pub. L. 103–382, title II][/us/pl/103/382/tII], § 238, Oct. 20, 1994, [108 Stat. 3918][/us/stat/108/3918]; amended [Pub. L. 105–244, title I][/us/pl/105/244/tI], § 102(a)(6)(C), Oct. 7, 1998, [112 Stat. 1618][/us/stat/112/1618]; [Pub. L. 114–95, title IX][/us/pl/114/95/tIX], § 9215(mm)(3), Dec. 10, 2015, [129 Stat. 2176][/us/stat/129/2176].)
 
  __Prior Provisions__ 
 
@@ -195,7 +191,13 @@
 
  __Amendments__ 
 
+    2015—Subsec. (d)(2)(B)(i). [Pub. L. 114–95][/us/pl/114/95] substituted “an elementary or secondary school (as defined by the terms ‘elementary school’ and ‘secondary school’ in [section 7801 of this title][/us/usc/t20/s7801])” for “an elementary or secondary school as defined by the Elementary and Secondary Education Act of 1965”.
+
     1998—Subsec. (d)(2)(B)(ii). [Pub. L. 105–244][/us/pl/105/244] substituted “section 1001” for “section 1141(a)”.
+
+ __Effective Date of 2015 Amendment__ 
+
+    Amendment by [Pub. L. 114–95][/us/pl/114/95] effective Dec. 10, 2015, except with respect to certain noncompetitive programs and competitive programs, see [section 5 of Pub. L. 114–95][/us/pl/114/95/s5], set out as a note under [section 6301 of this title][/us/usc/t20/s6301].
 
  __Effective Date of 1998 Amendment__ 
 
@@ -209,20 +211,24 @@
 ----------
 
 [/us/usc/t42/s12102/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs12102%2F2
-[/us/usc/t20/s6301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs6301
+[/us/usc/t20/s7801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs7801
 [/us/usc/t20/s1001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1001
-[/us/pl/90/247/s429]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F247%2Fs429
-[/us/pl/103/382/s238]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F382%2Fs238
+[/us/pl/90/247/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F247%2FtIV
+[/us/pl/103/382/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F382%2FtII
 [/us/stat/108/3918]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3918
-[/us/pl/105/244/s102/a/6/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2Fs102%2Fa%2F6%2FC
+[/us/pl/105/244/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2FtI
 [/us/stat/112/1618]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F1618
-[/us/pl/89/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F10
-[/us/stat/79/27]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F27
-[/us/usc/t20/s6301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs6301
+[/us/pl/114/95/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F95%2FtIX
+[/us/stat/129/2176]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F2176
 [/us/pl/90/247/s429]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F247%2Fs429
 [/us/usc/t20/s1231f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1231f
 [/us/pl/103/382]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F382
+[/us/pl/114/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F95
+[/us/usc/t20/s7801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs7801
 [/us/pl/105/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244
+[/us/pl/114/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F95
+[/us/pl/114/95/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F95%2Fs5
+[/us/usc/t20/s6301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs6301
 [/us/pl/105/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244
 [/us/pl/105/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244
 [/us/pl/105/244/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2Fs3

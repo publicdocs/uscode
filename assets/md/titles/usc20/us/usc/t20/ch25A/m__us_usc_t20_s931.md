@@ -29,7 +29,7 @@
 
     (6) provide for such other matters as may be necessary to ensure the efficient organization and operation of the defense dependents’ education system.
 
-([Pub. L. 95–561, title XIV, § 1413][/us/pl/95/561/s1413], Nov. 1, 1978, [92 Stat. 2372][/us/stat/92/2372]; [Pub. L. 106–65, div. A, title III, § 354(6)][/us/pl/106/65/s354/6], Oct. 5, 1999, [113 Stat. 574][/us/stat/113/574].)
+([Pub. L. 95–561, title XIV][/us/pl/95/561/tXIV], § 1413, Nov. 1, 1978, [92 Stat. 2372][/us/stat/92/2372]; [Pub. L. 106–65, div. A, title III][/us/pl/106/65/dA/tIII], § 354(6), Oct. 5, 1999, [113 Stat. 574][/us/stat/113/574].)
 
  __Amendments__ 
 
@@ -42,9 +42,9 @@
 ----------
 ----------
 
-[/us/pl/95/561/s1413]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F561%2Fs1413
+[/us/pl/95/561/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F561%2FtXIV
 [/us/stat/92/2372]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2372
-[/us/pl/106/65/s354/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2Fs354%2F6
+[/us/pl/106/65/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2FdA%2FtIII
 [/us/stat/113/574]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F574
 [/us/pl/106/65]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65
 

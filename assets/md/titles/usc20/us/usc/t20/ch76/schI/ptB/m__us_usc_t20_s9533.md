@@ -125,7 +125,7 @@
 
             To the extent feasible, research conducted under this subsection shall be disaggregated by age, race, gender, and socioeconomic background.
 
-([Pub. L. 107–279, title I, § 133][/us/pl/107/279/s133], Nov. 5, 2002, [116 Stat. 1954][/us/stat/116/1954].)
+([Pub. L. 107–279, title I][/us/pl/107/279/tI], § 133, Nov. 5, 2002, [116 Stat. 1954][/us/stat/116/1954].)
 
  __References in Text__ 
 
@@ -145,7 +145,7 @@
 [/us/usc/t20/s6301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs6301
 [/us/usc/t20/s9534/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs9534%2Fb
 [/us/usc/t20/s9534]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs9534
-[/us/pl/107/279/s133]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F279%2Fs133
+[/us/pl/107/279/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F279%2FtI
 [/us/stat/116/1954]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1954
 [/us/pl/89/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F10
 [/us/stat/79/27]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F27

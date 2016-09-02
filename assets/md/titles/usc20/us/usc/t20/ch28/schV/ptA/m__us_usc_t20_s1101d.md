@@ -17,7 +17,7 @@
 
     No Hispanic-serving institution that is eligible for and receives funds under this subchapter may receive funds under part A or B of subchapter III of this chapter during the period for which funds under this subchapter are awarded.
 
-([Pub. L. 89–329, title V, § 505][/us/pl/89/329/s505], as added [Pub. L. 105–244, title V, § 501][/us/pl/105/244/s501], Oct. 7, 1998, [112 Stat. 1770][/us/stat/112/1770].)
+([Pub. L. 89–329, title V][/us/pl/89/329/tV], § 505, as added [Pub. L. 105–244, title V][/us/pl/105/244/tV], § 501, Oct. 7, 1998, [112 Stat. 1770][/us/stat/112/1770].)
 
  __Prior Provisions__ 
 
@@ -32,8 +32,8 @@
 ----------
 ----------
 
-[/us/pl/89/329/s505]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2Fs505
-[/us/pl/105/244/s501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2Fs501
+[/us/pl/89/329/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2FtV
+[/us/pl/105/244/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2FtV
 [/us/stat/112/1770]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F1770
 [/us/pl/89/329/s505]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2Fs505
 [/us/usc/t20/s1102d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1102d

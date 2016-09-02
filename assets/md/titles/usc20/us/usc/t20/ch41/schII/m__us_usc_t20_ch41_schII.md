@@ -11,44 +11,16 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t20/ch41/schI/m__us_usc_t20_s1921.md) | [Next](./../../../../..//us/usc/t20/ch41/schIII/m__us_usc_t20_ch41_schIII.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fch41%2FschII)
+[Previous](./../../../../..//us/usc/t20/ch41/schI/m__us_usc_t20_s1921.md) | [Next](./../../../../..//us/usc/t20/ch41/schII/m__us_usc_t20_s1941...1944.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fch41%2FschII)
 
 ### SUBCHAPTER II—STATE READING IMPROVEMENT PROGRAMS
 
-§§ 1941 to 1944. __Repealed.__  __[__  __Pub. L. 95–561, title XV, § 1529__  __][/us/pl/95/561/s1529]__  __,__  __Nov. 1, 1978__  __,__  __[__  __92 Stat. 2380__  __][/us/stat/92/2380]__ 
-
-    Section 1941, [Pub. L. 93–380, title VII, § 711][/us/pl/93/380/s711], Aug. 21, 1974, [88 Stat. 591][/us/stat/88/591], set forth provisions respecting statement of purpose for State reading improvement programs.
-
-    Section 1942, [Pub. L. 93–380, title VII, § 712][/us/pl/93/380/s712], Aug. 21, 1974, [88 Stat. 591][/us/stat/88/591], set forth applicability and effective date of provisions respecting State reading improvement programs.
-
-    Section 1943, [Pub. L. 93–380, title VII, § 713][/us/pl/93/380/s713], Aug. 21, 1974, [88 Stat. 591][/us/stat/88/591], set forth requirements for allotments and reallotments for States.
-
-    Section 1944, [Pub. L. 93–380, title VII, § 714][/us/pl/93/380/s714], Aug. 21, 1974, [88 Stat. 592][/us/stat/88/592]; [Pub. L. 94–194, § 4][/us/pl/94/194/s4], Dec. 31, 1975, [89 Stat. 1104][/us/stat/89/1104], set forth provisions respecting requirements for grants for State reading improvement programs.
-
- __Effective Date of Repeal__ 
-
-    Repeal effective Oct. 1, 1978, see [section 1530(a) of Pub. L. 95–561][/us/pl/95/561/s1530/a], set out as an Effective Date of 1978 Amendment note under [section 1221e–3 of this title][/us/usc/t20/s1221e–3].
-
 ----------
 
-[Previous](./../../../../..//us/usc/t20/ch41/schI/m__us_usc_t20_s1921.md) | [Next](./../../../../..//us/usc/t20/ch41/schIII/m__us_usc_t20_ch41_schIII.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fch41%2FschII)
+[Previous](./../../../../..//us/usc/t20/ch41/schI/m__us_usc_t20_s1921.md) | [Next](./../../../../..//us/usc/t20/ch41/schII/m__us_usc_t20_s1941...1944.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fch41%2FschII)
 
 ----------
 ----------
 
-[/us/pl/95/561/s1529]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F561%2Fs1529
-[/us/stat/92/2380]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2380
-[/us/pl/93/380/s711]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F380%2Fs711
-[/us/stat/88/591]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F591
-[/us/pl/93/380/s712]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F380%2Fs712
-[/us/stat/88/591]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F591
-[/us/pl/93/380/s713]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F380%2Fs713
-[/us/stat/88/591]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F591
-[/us/pl/93/380/s714]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F380%2Fs714
-[/us/stat/88/592]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F592
-[/us/pl/94/194/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F194%2Fs4
-[/us/stat/89/1104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F1104
-[/us/pl/95/561/s1530/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F561%2Fs1530%2Fa
-[/us/usc/t20/s1221e–3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1221e%E2%80%933
 
 

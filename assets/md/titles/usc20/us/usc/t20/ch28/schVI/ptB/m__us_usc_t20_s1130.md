@@ -35,7 +35,7 @@
 
         (2) to promote institutional and noninstitutional educational and training activities that will contribute to the ability of United States business to prosper in an international economy.
 
-([Pub. L. 89–329, title VI, § 611][/us/pl/89/329/s611], as added [Pub. L. 96–374, title VI, § 601(a)][/us/pl/96/374/s601/a], Oct. 3, 1980, [94 Stat. 1467][/us/stat/94/1467]; amended [Pub. L. 99–498, title VI, § 610][/us/pl/99/498/s610], Oct. 17, 1986, [100 Stat. 1519][/us/stat/100/1519]; [Pub. L. 102–325, title VI, § 601][/us/pl/102/325/s601], July 23, 1992, [106 Stat. 728][/us/stat/106/728]; [Pub. L. 105–244, title VI, § 602(a)][/us/pl/105/244/s602/a], Oct. 7, 1998, [112 Stat. 1783][/us/stat/112/1783].)
+([Pub. L. 89–329, title VI][/us/pl/89/329/tVI], § 611, as added [Pub. L. 96–374, title VI][/us/pl/96/374/tVI], § 601(a), Oct. 3, 1980, [94 Stat. 1467][/us/stat/94/1467]; amended [Pub. L. 99–498, title VI][/us/pl/99/498/tVI], § 610, Oct. 17, 1986, [100 Stat. 1519][/us/stat/100/1519]; [Pub. L. 102–325, title VI][/us/pl/102/325/tVI], § 601, July 23, 1992, [106 Stat. 728][/us/stat/106/728]; [Pub. L. 105–244, title VI][/us/pl/105/244/tVI], § 602(a), Oct. 7, 1998, [112 Stat. 1783][/us/stat/112/1783].)
 
  __Amendments__ 
 
@@ -60,14 +60,14 @@
 ----------
 ----------
 
-[/us/pl/89/329/s611]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2Fs611
-[/us/pl/96/374/s601/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F374%2Fs601%2Fa
+[/us/pl/89/329/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2FtVI
+[/us/pl/96/374/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F374%2FtVI
 [/us/stat/94/1467]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F1467
-[/us/pl/99/498/s610]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F498%2Fs610
+[/us/pl/99/498/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F498%2FtVI
 [/us/stat/100/1519]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1519
-[/us/pl/102/325/s601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325%2Fs601
+[/us/pl/102/325/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325%2FtVI
 [/us/stat/106/728]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F728
-[/us/pl/105/244/s602/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2Fs602%2Fa
+[/us/pl/105/244/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2FtVI
 [/us/stat/112/1783]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F1783
 [/us/pl/105/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244
 [/us/pl/102/325]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325

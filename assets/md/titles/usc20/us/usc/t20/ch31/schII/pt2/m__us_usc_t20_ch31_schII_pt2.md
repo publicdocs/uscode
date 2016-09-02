@@ -17,7 +17,7 @@
 
  __Amendments__ 
 
-    1974—[Pub. L. 93–380, title V, § 506(a)(3)(C)][/us/pl/93/380/s506/a/3/C], Aug. 21, 1974, [88 Stat. 563][/us/stat/88/563], added part 2 heading.
+    1974—[Pub. L. 93–380, title V][/us/pl/93/380/tV], § 506(a)(3)(C), Aug. 21, 1974, [88 Stat. 563][/us/stat/88/563], added part 2 heading.
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/93/380/s506/a/3/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F380%2Fs506%2Fa%2F3%2FC
+[/us/pl/93/380/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F380%2FtV
 [/us/stat/88/563]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F563
 
 

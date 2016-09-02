@@ -77,7 +77,7 @@
 
         For purposes of this chapter an educational institution means any public or private preschool, elementary, or secondary school, or any institution of vocational, professional, or higher education, except that in the case of an educational institution composed of more than one school, college, or department which are administratively separate units, such term means each such school, college, or department.
 
-([Pub. L. 92–318, title IX, § 901][/us/pl/92/318/s901], June 23, 1972, [86 Stat. 373][/us/stat/86/373]; [Pub. L. 93–568, § 3(a)][/us/pl/93/568/s3/a], Dec. 31, 1974, [88 Stat. 1862][/us/stat/88/1862]; [Pub. L. 94–482, title IV, § 412(a)][/us/pl/94/482/s412/a], Oct. 12, 1976, [90 Stat. 2234][/us/stat/90/2234]; [Pub. L. 96–88, title III, § 301(a)(1)][/us/pl/96/88/s301/a/1], title V, § 507, Oct. 17, 1979, [93 Stat. 677][/us/stat/93/677], 692; [Pub. L. 99–514, § 2][/us/pl/99/514/s2], Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095].)
+([Pub. L. 92–318, title IX][/us/pl/92/318/tIX], § 901, June 23, 1972, [86 Stat. 373][/us/stat/86/373]; [Pub. L. 93–568][/us/pl/93/568], § 3(a), Dec. 31, 1974, [88 Stat. 1862][/us/stat/88/1862]; [Pub. L. 94–482, title IV][/us/pl/94/482/tIV], § 412(a), Oct. 12, 1976, [90 Stat. 2234][/us/stat/90/2234]; [Pub. L. 96–88, title III][/us/pl/96/88/tIII], § 301(a)(1), title V, § 507, Oct. 17, 1979, [93 Stat. 677][/us/stat/93/677], 692; [Pub. L. 99–514][/us/pl/99/514], § 2, Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095].)
 
  __References in Text__ 
 
@@ -93,19 +93,19 @@
 
  __Effective Date of 1976 Amendment__ 
 
-[Pub. L. 94–482, title IV, § 412(b)][/us/pl/94/482/s412/b], Oct. 12, 1976, [90 Stat. 2234][/us/stat/90/2234], provided that: 
+[Pub. L. 94–482, title IV][/us/pl/94/482/tIV], § 412(b), Oct. 12, 1976, [90 Stat. 2234][/us/stat/90/2234], provided that: 
 
 > “The amendment made by subsection (a) \[amending this section\] shall take effect upon the date of enactment of this Act \[Oct. 12, 1976\].”
 
  __Effective Date of 1974 Amendment__ 
 
-[Pub. L. 93–568, § 3(b)][/us/pl/93/568/s3/b], Dec. 31, 1974, [88 Stat. 1862][/us/stat/88/1862], provided that: 
+[Pub. L. 93–568][/us/pl/93/568], § 3(b), Dec. 31, 1974, [88 Stat. 1862][/us/stat/88/1862], provided that: 
 
 > “The provisions of the amendment made by subsection (a) \[amending this section\] shall be effective on, and retroactive to, July 1, 1972.”
 
  __Short Title of 1988 Amendment__ 
 
-[Pub. L. 100–259, § 1][/us/pl/100/259/s1], Mar. 22, 1988, [102 Stat. 28][/us/stat/102/28], provided that: 
+[Pub. L. 100–259][/us/pl/100/259], § 1, Mar. 22, 1988, [102 Stat. 28][/us/stat/102/28], provided that: 
 
 > “This Act \[enacting sections 1687 and 1688 of this title and [section 2000d–4a of Title 42][/us/usc/t42/s2000d–4a], The Public Health and Welfare, amending sections 706 and 794 of Title 29, Labor, and [section 6107 of Title 42][/us/usc/t42/s6107], and enacting provisions set out as notes under sections 1687 and 1688 of this title\] may be cited as the ‘Civil Rights Restoration Act of 1987’.”
 
@@ -123,7 +123,7 @@
 
  __Regulations; Nature of Particular Sports: Intercollegiate Athletic Activities__ 
 
-    [Pub. L. 93–380, title VIII, § 844][/us/pl/93/380/s844], Aug. 21, 1974, [88 Stat. 612][/us/stat/88/612], directed Secretary to prepare and publish, not more than 30 days after Aug. 21, 1974, proposed regulations implementing the provisions of this chapter regarding prohibition of sex discrimination in federally assisted programs, including reasonable regulations for intercollegiate athletic activities considering the nature of the particular sports.
+    [Pub. L. 93–380, title VIII][/us/pl/93/380/tVIII], § 844, Aug. 21, 1974, [88 Stat. 612][/us/stat/88/612], directed Secretary to prepare and publish, not more than 30 days after Aug. 21, 1974, proposed regulations implementing the provisions of this chapter regarding prohibition of sex discrimination in federally assisted programs, including reasonable regulations for intercollegiate athletic activities considering the nature of the particular sports.
 
 ----------
 
@@ -133,25 +133,25 @@
 ----------
 
 [/us/usc/t26/s501/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs501%2Fa
-[/us/pl/92/318/s901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F318%2Fs901
+[/us/pl/92/318/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F318%2FtIX
 [/us/stat/86/373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F373
-[/us/pl/93/568/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F568%2Fs3%2Fa
+[/us/pl/93/568]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F568
 [/us/stat/88/1862]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1862
-[/us/pl/94/482/s412/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F482%2Fs412%2Fa
+[/us/pl/94/482/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F482%2FtIV
 [/us/stat/90/2234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2234
-[/us/pl/96/88/s301/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F88%2Fs301%2Fa%2F1
+[/us/pl/96/88/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F88%2FtIII
 [/us/stat/93/677]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F677
-[/us/pl/99/514/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs2
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
 [/us/stat/100/2095]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2095
 [/us/pl/92/318]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F318
 [/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
 [/us/pl/94/482]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F482
 [/us/pl/93/568]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F568
-[/us/pl/94/482/s412/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F482%2Fs412%2Fb
+[/us/pl/94/482/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F482%2FtIV
 [/us/stat/90/2234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2234
-[/us/pl/93/568/s3/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F568%2Fs3%2Fb
+[/us/pl/93/568]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F568
 [/us/stat/88/1862]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1862
-[/us/pl/100/259/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F259%2Fs1
+[/us/pl/100/259]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F259
 [/us/stat/102/28]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F28
 [/us/usc/t42/s2000d–4a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2000d%E2%80%934a
 [/us/usc/t42/s6107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6107
@@ -162,7 +162,7 @@
 [/us/pl/92/318]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F318
 [/us/pl/96/88]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F88
 [/us/usc/t42/s2000d–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2000d%E2%80%931
-[/us/pl/93/380/s844]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F380%2Fs844
+[/us/pl/93/380/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F380%2FtVIII
 [/us/stat/88/612]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F612
 
 

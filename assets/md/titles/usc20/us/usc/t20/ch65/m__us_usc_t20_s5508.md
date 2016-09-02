@@ -85,7 +85,7 @@
 
         (2) The Federal Task Force on Environmental Education shall review and comment on a draft of the report to Congress.
 
-([Pub. L. 101–619, § 9][/us/pl/101/619/s9], Nov. 16, 1990, [104 Stat. 3333][/us/stat/104/3333].)
+([Pub. L. 101–619][/us/pl/101/619], § 9, Nov. 16, 1990, [104 Stat. 3333][/us/stat/104/3333].)
 
  __References in Text__ 
 
@@ -105,7 +105,7 @@
 ----------
 
 [/us/usc/t18/s208/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs208%2Fa
-[/us/pl/101/619/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F619%2Fs9
+[/us/pl/101/619]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F619
 [/us/stat/104/3333]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3333
 [/us/usc/t5/s5703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5703
 [/us/pl/94/22]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F22

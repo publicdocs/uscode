@@ -11,62 +11,38 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t20/ch17/schII/m__us_usc_t20_ch17_schII.md) | [Next](./../../../../..//us/usc/t20/ch17/schIII/m__us_usc_t20_ch17_schIII.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs426)
+[Previous](./../../../../..//us/usc/t20/ch17/schII/m__us_usc_t20_s421...425.md) | [Next](./../../../../..//us/usc/t20/ch17/schII/m__us_usc_t20_s427...429.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs426)
 
-## § 426. Repealed. [Pub. L. 92–318, title I, § 137(d)(2)][/us/pl/92/318/s137/d/2], June 23, 1972, [86 Stat. 280][/us/stat/86/280]
+## § 426. Repealed. [Pub. L. 92–318, title I][/us/pl/92/318/tI], § 137(d)(2), June 23, 1972, [86 Stat. 280][/us/stat/86/280]
 
-    Section, [Pub. L. 85–864, title II, § 206][/us/pl/85/864/s206], Sept. 2, 1958, [72 Stat. 1586][/us/stat/72/1586]; [Pub. L. 87–344, title II, § 201(c)][/us/pl/87/344/s201/c], Oct. 3, 1961, [75 Stat. 759][/us/stat/75/759]; [Pub. L. 88–210, title II, § 202(e)][/us/pl/88/210/s202/e], formerly § 22(e), Dec. 18, 1963, [77 Stat. 416][/us/stat/77/416], renumbered [Pub. L. 90–576, title I, § 101(a)(1)][/us/pl/90/576/s101/a/1], Oct. 16, 1968, [82 Stat. 1064][/us/stat/82/1064]; [Pub. L. 88–665, title II, § 206][/us/pl/88/665/s206], Oct. 16, 1964, [78 Stat. 1102][/us/stat/78/1102]; [Pub. L. 90–575, title I, § 171(c)][/us/pl/90/575/s171/c], Oct. 16, 1968, [82 Stat. 1034][/us/stat/82/1034], provided for distributions of assets from student loan funds. See [section 1087ff of this title][/us/usc/t20/s1087ff].
+    Section, [Pub. L. 85–864, title II][/us/pl/85/864/tII], § 206, Sept. 2, 1958, [72 Stat. 1586][/us/stat/72/1586]; [Pub. L. 87–344, title II][/us/pl/87/344/tII], § 201(c), Oct. 3, 1961, [75 Stat. 759][/us/stat/75/759]; [Pub. L. 88–210, title II][/us/pl/88/210/tII], § 202(e), formerly § 22(e), Dec. 18, 1963, [77 Stat. 416][/us/stat/77/416], renumbered [Pub. L. 90–576, title I][/us/pl/90/576/tI], § 101(a)(1), Oct. 16, 1968, [82 Stat. 1064][/us/stat/82/1064]; [Pub. L. 88–665, title II][/us/pl/88/665/tII], § 206, Oct. 16, 1964, [78 Stat. 1102][/us/stat/78/1102]; [Pub. L. 90–575, title I][/us/pl/90/575/tI], § 171(c), Oct. 16, 1968, [82 Stat. 1034][/us/stat/82/1034], provided for distributions of assets from student loan funds. See [section 1087ff of this title][/us/usc/t20/s1087ff].
 
  __Effective Date of Repeal__ 
 
     Repeal effective June 23, 1972, see [section 137(d)(2) of Pub. L. 92–318][/us/pl/92/318/s137/d/2].
 
-§§ 427 to 429. __Omitted__ 
-
- __Codification__ 
-
-    This subchapter has not been funded since fiscal year 1975.
-
-    Section 427, [Pub. L. 85–864, title II, § 207][/us/pl/85/864/s207], Sept. 2, 1958, [72 Stat. 1587][/us/stat/72/1587]; [Pub. L. 96–88, title III, § 301(a)(1)][/us/pl/96/88/s301/a/1], title V, § 507, Oct. 17, 1979, [93 Stat. 677][/us/stat/93/677], 692, related to loans to help finance an institution’s capital contribution to a student loan fund.
-
-    Section 428, [Pub. L. 85–864, title II, § 208][/us/pl/85/864/s208], Sept. 2, 1958, [72 Stat. 1587][/us/stat/72/1587]; [Pub. L. 96–88, title III, § 301(a)(1)][/us/pl/96/88/s301/a/1], title V, § 507, Oct. 17, 1979, [93 Stat. 677][/us/stat/93/677], 692, related to payments to cover reductions in amounts of student loans.
-
-    Section 429, [Pub. L. 85–864, title II, § 209][/us/pl/85/864/s209], Sept. 2, 1958, [72 Stat. 1587][/us/stat/72/1587]; [Pub. L. 96–88, title III, § 301(a)(1)][/us/pl/96/88/s301/a/1], title V, § 507, Oct. 17, 1979, [93 Stat. 677][/us/stat/93/677], 692, contained administrative provisions relating to modification of agreements and loans, compromise, waiver, or release of rights, and finality and conclusiveness of financial transactions and vouchers of the Secretary.
-
 ----------
 
-[Previous](./../../../../..//us/usc/t20/ch17/schII/m__us_usc_t20_ch17_schII.md) | [Next](./../../../../..//us/usc/t20/ch17/schIII/m__us_usc_t20_ch17_schIII.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs426)
+[Previous](./../../../../..//us/usc/t20/ch17/schII/m__us_usc_t20_s421...425.md) | [Next](./../../../../..//us/usc/t20/ch17/schII/m__us_usc_t20_s427...429.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs426)
 
 ----------
 ----------
 
-[/us/pl/92/318/s137/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F318%2Fs137%2Fd%2F2
+[/us/pl/92/318/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F318%2FtI
 [/us/stat/86/280]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F280
-[/us/pl/85/864/s206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F864%2Fs206
+[/us/pl/85/864/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F864%2FtII
 [/us/stat/72/1586]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F1586
-[/us/pl/87/344/s201/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F344%2Fs201%2Fc
+[/us/pl/87/344/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F344%2FtII
 [/us/stat/75/759]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F75%2F759
-[/us/pl/88/210/s202/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F210%2Fs202%2Fe
+[/us/pl/88/210/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F210%2FtII
 [/us/stat/77/416]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F77%2F416
-[/us/pl/90/576/s101/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F576%2Fs101%2Fa%2F1
+[/us/pl/90/576/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F576%2FtI
 [/us/stat/82/1064]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F1064
-[/us/pl/88/665/s206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F665%2Fs206
+[/us/pl/88/665/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F665%2FtII
 [/us/stat/78/1102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F1102
-[/us/pl/90/575/s171/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F575%2Fs171%2Fc
+[/us/pl/90/575/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F575%2FtI
 [/us/stat/82/1034]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F1034
 [/us/usc/t20/s1087ff]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1087ff
 [/us/pl/92/318/s137/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F318%2Fs137%2Fd%2F2
-[/us/pl/85/864/s207]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F864%2Fs207
-[/us/stat/72/1587]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F1587
-[/us/pl/96/88/s301/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F88%2Fs301%2Fa%2F1
-[/us/stat/93/677]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F677
-[/us/pl/85/864/s208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F864%2Fs208
-[/us/stat/72/1587]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F1587
-[/us/pl/96/88/s301/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F88%2Fs301%2Fa%2F1
-[/us/stat/93/677]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F677
-[/us/pl/85/864/s209]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F864%2Fs209
-[/us/stat/72/1587]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F1587
-[/us/pl/96/88/s301/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F88%2Fs301%2Fa%2F1
-[/us/stat/93/677]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F677
 
 

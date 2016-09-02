@@ -51,13 +51,13 @@
 
         (4) be designed to meet the specific needs of families who experience significant isolation from available sources of information and support.
 
-([Pub. L. 91–230, title VI, § 672][/us/pl/91/230/s672], as added [Pub. L. 108–446, title I, § 101][/us/pl/108/446/s101], Dec. 3, 2004, [118 Stat. 2791][/us/stat/118/2791].)
+([Pub. L. 91–230, title VI][/us/pl/91/230/tVI], § 672, as added [Pub. L. 108–446, title I][/us/pl/108/446/tI], § 101, Dec. 3, 2004, [118 Stat. 2791][/us/stat/118/2791].)
 
  __Prior Provisions__ 
 
-    A prior section 1472, [Pub. L. 91–230, title VI, § 672][/us/pl/91/230/s672], as added [Pub. L. 105–17, title I, § 101][/us/pl/105/17/s101], June 4, 1997, [111 Stat. 136][/us/stat/111/136], related to research and innovation to improve services and results for children with disabilities, prior to the general amendment of subchapters I to IV of this chapter by [Pub. L. 108–446][/us/pl/108/446].
+    A prior section 1472, [Pub. L. 91–230, title VI][/us/pl/91/230/tVI], § 672, as added [Pub. L. 105–17, title I][/us/pl/105/17/tI], § 101, June 4, 1997, [111 Stat. 136][/us/stat/111/136], related to research and innovation to improve services and results for children with disabilities, prior to the general amendment of subchapters I to IV of this chapter by [Pub. L. 108–446][/us/pl/108/446].
 
-    Another prior section 1472, [Pub. L. 91–230, title VI, § 672][/us/pl/91/230/s672], as added [Pub. L. 99–457, title I, § 101(a)][/us/pl/99/457/s101/a], Oct. 8, 1986, [100 Stat. 1146][/us/stat/100/1146]; amended [Pub. L. 100–630, title I, § 108(b)][/us/pl/100/630/s108/b], Nov. 7, 1988, [102 Stat. 3301][/us/stat/102/3301]; [Pub. L. 101–476, title VIII, § 801][/us/pl/101/476/s801], title IX, § 901(b)(162), (163), Oct. 30, 1990, [104 Stat. 1141][/us/stat/104/1141], 1149; [Pub. L. 102–119][/us/pl/102/119], §§ 12, 25(b), Oct. 7, 1991, [105 Stat. 595][/us/stat/105/595], 607, related to definitions, prior to repeal by [Pub. L. 105–17, title II, § 203(b)][/us/pl/105/17/s203/b], June 4, 1997, [111 Stat. 157][/us/stat/111/157], effective July 1, 1998.
+    Another prior section 1472, [Pub. L. 91–230, title VI][/us/pl/91/230/tVI], § 672, as added [Pub. L. 99–457, title I][/us/pl/99/457/tI], § 101(a), Oct. 8, 1986, [100 Stat. 1146][/us/stat/100/1146]; amended [Pub. L. 100–630, title I][/us/pl/100/630/tI], § 108(b), Nov. 7, 1988, [102 Stat. 3301][/us/stat/102/3301]; [Pub. L. 101–476, title VIII][/us/pl/101/476/tVIII], § 801, title IX, § 901(b)(162), (163), Oct. 30, 1990, [104 Stat. 1141][/us/stat/104/1141], 1149; [Pub. L. 102–119][/us/pl/102/119], §§ 12, 25(b), Oct. 7, 1991, [105 Stat. 595][/us/stat/105/595], 607, related to definitions, prior to repeal by [Pub. L. 105–17, title II][/us/pl/105/17/tII], § 203(b), June 4, 1997, [111 Stat. 157][/us/stat/111/157], effective July 1, 1998.
 
 ----------
 
@@ -70,23 +70,23 @@
 [/us/usc/t20/s1401/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1401%2F3
 [/us/usc/t20/s1471/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1471%2Fb
 [/us/usc/t20/s1471]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1471
-[/us/pl/91/230/s672]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F230%2Fs672
-[/us/pl/108/446/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F446%2Fs101
+[/us/pl/91/230/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F230%2FtVI
+[/us/pl/108/446/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F446%2FtI
 [/us/stat/118/2791]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F2791
-[/us/pl/91/230/s672]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F230%2Fs672
-[/us/pl/105/17/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F17%2Fs101
+[/us/pl/91/230/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F230%2FtVI
+[/us/pl/105/17/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F17%2FtI
 [/us/stat/111/136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F136
 [/us/pl/108/446]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F446
-[/us/pl/91/230/s672]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F230%2Fs672
-[/us/pl/99/457/s101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F457%2Fs101%2Fa
+[/us/pl/91/230/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F230%2FtVI
+[/us/pl/99/457/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F457%2FtI
 [/us/stat/100/1146]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1146
-[/us/pl/100/630/s108/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F630%2Fs108%2Fb
+[/us/pl/100/630/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F630%2FtI
 [/us/stat/102/3301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3301
-[/us/pl/101/476/s801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F476%2Fs801
+[/us/pl/101/476/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F476%2FtVIII
 [/us/stat/104/1141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1141
 [/us/pl/102/119]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F119
 [/us/stat/105/595]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F595
-[/us/pl/105/17/s203/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F17%2Fs203%2Fb
+[/us/pl/105/17/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F17%2FtII
 [/us/stat/111/157]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F157
 
 

@@ -91,37 +91,37 @@
 
         For each award year after award year 1993–1994, the Secretary shall publish in the Federal Register a revised table of employment expense allowances for the purpose of sections 1087oo(c)(5), 1087pp(b)(4), and 1087qq(b)(5) of this title. Such revised table shall be developed by increasing the dollar amount specified in sections 1087oo(c)(5)(A), 1087oo(c)(5)(B), 1087pp(b)(4)(A), 1087qq (b)(5)(A), and 1087qq(b)(5)(B) of this title to reflect increases in the amount and percent of the Bureau of Labor Statistics budget of the marginal costs for food away from home, apparel, transportation, and household furnishings and operations for a two-worker versus one-worker family.
 
-([Pub. L. 89–329, title IV, § 478][/us/pl/89/329/s478], as added [Pub. L. 99–498, title IV, § 406(a)][/us/pl/99/498/s406/a], Oct. 17, 1986, [100 Stat. 1470][/us/stat/100/1470]; amended [Pub. L. 100–50, § 14(20)][/us/pl/100/50/s14/20]–(22), June 3, 1987, [101 Stat. 351][/us/stat/101/351], 352; [Pub. L. 102–325, title IV, § 471(a)][/us/pl/102/325/s471/a], July 23, 1992, [106 Stat. 602][/us/stat/106/602]; [Pub. L. 103–208, § 2(g)(8)][/us/pl/103/208/s2/g/8], (9), Dec. 20, 1993, [107 Stat. 2472][/us/stat/107/2472]; [Pub. L. 105–244, title IV, § 476][/us/pl/105/244/s476], Oct. 7, 1998, [112 Stat. 1730][/us/stat/112/1730]; [Pub. L. 109–171, title VIII, § 8017(d)][/us/pl/109/171/s8017/d], (e), Feb. 8, 2006, [120 Stat. 173][/us/stat/120/173], 174; [Pub. L. 110–84, title VI, § 601(d)][/us/pl/110/84/s601/d], Sept. 27, 2007, [121 Stat. 803][/us/stat/121/803].)
+([Pub. L. 89–329, title IV][/us/pl/89/329/tIV], § 478, as added [Pub. L. 99–498, title IV][/us/pl/99/498/tIV], § 406(a), Oct. 17, 1986, [100 Stat. 1470][/us/stat/100/1470]; amended [Pub. L. 100–50][/us/pl/100/50], § 14(20)–(22), June 3, 1987, [101 Stat. 351][/us/stat/101/351], 352; [Pub. L. 102–325, title IV][/us/pl/102/325/tIV], § 471(a), July 23, 1992, [106 Stat. 602][/us/stat/106/602]; [Pub. L. 103–208][/us/pl/103/208], § 2(g)(8), (9), Dec. 20, 1993, [107 Stat. 2472][/us/stat/107/2472]; [Pub. L. 105–244, title IV][/us/pl/105/244/tIV], § 476, Oct. 7, 1998, [112 Stat. 1730][/us/stat/112/1730]; [Pub. L. 109–171, title VIII][/us/pl/109/171/tVIII], § 8017(d), (e), Feb. 8, 2006, [120 Stat. 173][/us/stat/120/173], 174; [Pub. L. 110–84, title VI][/us/pl/110/84/tVI], § 601(d), Sept. 27, 2007, [121 Stat. 803][/us/stat/121/803].)
 
  __Amendments__ 
 
-    2007—Subsec. (b)(1). [Pub. L. 110–84, § 601(d)(1)][/us/pl/110/84/s601/d/1], added par. (1) and struck out former par. (1). Prior to amendment, par. (1) required the Secretary to publish in the Federal Register, for each academic year after academic year 1993–1994, a revised table of income protection allowances for the purpose of sections 1087oo(c)(4) and 1087qq(b)(4) of this title.
+    2007—Subsec. (b)(1). [Pub. L. 110–84][/us/pl/110/84], § 601(d)(1), added par. (1) and struck out former par. (1). Prior to amendment, par. (1) required the Secretary to publish in the Federal Register, for each academic year after academic year 1993–1994, a revised table of income protection allowances for the purpose of sections 1087oo(c)(4) and 1087qq(b)(4) of this title.
 
-    Subsec. (b)(2). [Pub. L. 110–84, § 601(d)(2)][/us/pl/110/84/s601/d/2], substituted “shall be developed for each academic year after academic year 2012–2013, by increasing each of the dollar amounts contained in such section for academic year 2012–2013 by a percentage equal to the estimated percentage increase in the Consumer Price Index (as determined by the Secretary) between December 2011 and the December next preceding the beginning of such academic year, and rounding the result to the nearest $10.” for “shall be developed by increasing each of the dollar amounts contained in such section by a percentage equal to the estimated percentage increase in the Consumer Price Index (as determined by the Secretary) between December 2006 and the December next preceding the beginning of such academic year, and rounding the result to the nearest $10.”
+    Subsec. (b)(2). [Pub. L. 110–84][/us/pl/110/84], § 601(d)(2), substituted “shall be developed for each academic year after academic year 2012–2013, by increasing each of the dollar amounts contained in such section for academic year 2012–2013 by a percentage equal to the estimated percentage increase in the Consumer Price Index (as determined by the Secretary) between December 2011 and the December next preceding the beginning of such academic year, and rounding the result to the nearest $10.” for “shall be developed by increasing each of the dollar amounts contained in such section by a percentage equal to the estimated percentage increase in the Consumer Price Index (as determined by the Secretary) between December 2006 and the December next preceding the beginning of such academic year, and rounding the result to the nearest $10.”
 
-    2006—Subsec. (b)(1). [Pub. L. 109–171, § 8017(d)(1)][/us/pl/109/171/s8017/d/1], inserted at end “For the 2007–2008 academic year, the Secretary shall revise the tables in accordance with this paragraph, except that the Secretary shall increase the amounts contained in the table in [section 1087qq(b)(4) of this title][/us/usc/t20/s1087qq/b/4] by a percentage equal to the greater of the estimated percentage increase in the Consumer Price Index (as determined under the preceding sentence) or 5 percent.”
+    2006—Subsec. (b)(1). [Pub. L. 109–171][/us/pl/109/171], § 8017(d)(1), inserted at end “For the 2007–2008 academic year, the Secretary shall revise the tables in accordance with this paragraph, except that the Secretary shall increase the amounts contained in the table in [section 1087qq(b)(4) of this title][/us/usc/t20/s1087qq/b/4] by a percentage equal to the greater of the estimated percentage increase in the Consumer Price Index (as determined under the preceding sentence) or 5 percent.”
 
-    Subsec. (b)(2). [Pub. L. 109–171, § 8017(d)(2)][/us/pl/109/171/s8017/d/2], substituted “2007–2008” for “2000–2001” and “2006” for “1999”.
+    Subsec. (b)(2). [Pub. L. 109–171][/us/pl/109/171], § 8017(d)(2), substituted “2007–2008” for “2000–2001” and “2006” for “1999”.
 
-    Subsec. (h). [Pub. L. 109–171, § 8017(e)][/us/pl/109/171/s8017/e], struck out “1087pp(b)(4)(B),” after “1087pp(b)(4)(A),” and substituted “food away from home, apparel, transportation, and household furnishings and operations” for “meals away from home, apparel and upkeep, transportation, and housekeeping services”.
+    Subsec. (h). [Pub. L. 109–171][/us/pl/109/171], § 8017(e), struck out “1087pp(b)(4)(B),” after “1087pp(b)(4)(A),” and substituted “food away from home, apparel, transportation, and household furnishings and operations” for “meals away from home, apparel and upkeep, transportation, and housekeeping services”.
 
     1998—Subsec. (b). [Pub. L. 105–244][/us/pl/105/244] designated existing provisions as par. (1), inserted heading, and added par. (2).
 
-    1993—Subsec. (b). [Pub. L. 103–208, § 2(g)(8)(A)][/us/pl/103/208/s2/g/8/A], substituted “1993–1994” for “1992–1993”.
+    1993—Subsec. (b). [Pub. L. 103–208][/us/pl/103/208], § 2(g)(8)(A), substituted “1993–1994” for “1992–1993”.
 
-    Subsec. (c). [Pub. L. 103–208, § 2(g)(8)][/us/pl/103/208/s2/g/8], substituted “1993–1994” for “1992–1993” in introductory provisions and inserted “December” before “1992” in par. (1).
+    Subsec. (c). [Pub. L. 103–208][/us/pl/103/208], § 2(g)(8), substituted “1993–1994” for “1992–1993” in introductory provisions and inserted “December” before “1992” in par. (1).
 
-    Subsecs. (d), (e), (g). [Pub. L. 103–208, § 2(g)(8)(A)][/us/pl/103/208/s2/g/8/A], substituted “1993–1994” for “1992–1993”.
+    Subsecs. (d), (e), (g). [Pub. L. 103–208][/us/pl/103/208], § 2(g)(8)(A), substituted “1993–1994” for “1992–1993”.
 
-    Subsec. (h). [Pub. L. 103–208, § 2(g)(8)(A)][/us/pl/103/208/s2/g/8/A], (9), substituted “1993–1994” for “1992–1993” and “Bureau of Labor Statistics” for “Bureau of Labor Standards”.
+    Subsec. (h). [Pub. L. 103–208][/us/pl/103/208], § 2(g)(8)(A), (9), substituted “1993–1994” for “1992–1993” and “Bureau of Labor Statistics” for “Bureau of Labor Standards”.
 
     1992—[Pub. L. 102–325][/us/pl/102/325] amended section generally, revising and restating as subsecs. (a) to (h) provisions formerly contained in subsecs. (a) to (f).
 
-    1987—Subsec. (c)(2). [Pub. L. 100–50, § 14(21)][/us/pl/100/50/s14/21], substituted “ ‘$24,000’, ‘$84,000’, and ‘$156,000’ ” for “ ‘$26,000’, ‘$91,000’, and ‘$169,000’ ”.
+    1987—Subsec. (c)(2). [Pub. L. 100–50][/us/pl/100/50], § 14(21), substituted “ ‘$24,000’, ‘$84,000’, and ‘$156,000’ ” for “ ‘$26,000’, ‘$91,000’, and ‘$169,000’ ”.
 
-    Subsec. (d). [Pub. L. 100–50, § 14(20)][/us/pl/100/50/s14/20], inserted “, rounded to the nearest $100,” after “present value cost” and “of 40 and above” after “each age cohort” in second sentence and, after second sentence, inserted “For each age cohort below 40, the asset protection allowance shall be computed by decreasing the asset protection allowance for age 40, as updated, by one-fifteenth for each year of age below age 40 and rounding the result to the nearest $100.”
+    Subsec. (d). [Pub. L. 100–50][/us/pl/100/50], § 14(20), inserted “, rounded to the nearest $100,” after “present value cost” and “of 40 and above” after “each age cohort” in second sentence and, after second sentence, inserted “For each age cohort below 40, the asset protection allowance shall be computed by decreasing the asset protection allowance for age 40, as updated, by one-fifteenth for each year of age below age 40 and rounding the result to the nearest $100.”
 
-    Subsec. (f). [Pub. L. 100–50, § 14(22)][/us/pl/100/50/s14/22], substituted “Consumer Price Index for All Urban Consumers” for “Consumer Price Index for Wage Earners and Clerical Workers”.
+    Subsec. (f). [Pub. L. 100–50][/us/pl/100/50], § 14(22), substituted “Consumer Price Index for All Urban Consumers” for “Consumer Price Index for Wage Earners and Clerical Workers”.
 
  __Effective Date of 2007 Amendment__ 
 
@@ -158,36 +158,36 @@
 [/us/usc/t20/s1089]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1089
 [/us/usc/t20/s1087qq/b/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1087qq%2Fb%2F4
 [/us/usc/t20/s1087qq/b/4/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1087qq%2Fb%2F4%2FD
-[/us/pl/89/329/s478]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2Fs478
-[/us/pl/99/498/s406/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F498%2Fs406%2Fa
+[/us/pl/89/329/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2FtIV
+[/us/pl/99/498/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F498%2FtIV
 [/us/stat/100/1470]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1470
-[/us/pl/100/50/s14/20]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F50%2Fs14%2F20
+[/us/pl/100/50]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F50
 [/us/stat/101/351]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F351
-[/us/pl/102/325/s471/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325%2Fs471%2Fa
+[/us/pl/102/325/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325%2FtIV
 [/us/stat/106/602]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F602
-[/us/pl/103/208/s2/g/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F208%2Fs2%2Fg%2F8
+[/us/pl/103/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F208
 [/us/stat/107/2472]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F2472
-[/us/pl/105/244/s476]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2Fs476
+[/us/pl/105/244/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2FtIV
 [/us/stat/112/1730]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F1730
-[/us/pl/109/171/s8017/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F171%2Fs8017%2Fd
+[/us/pl/109/171/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F171%2FtVIII
 [/us/stat/120/173]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F173
-[/us/pl/110/84/s601/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F84%2Fs601%2Fd
+[/us/pl/110/84/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F84%2FtVI
 [/us/stat/121/803]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F803
-[/us/pl/110/84/s601/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F84%2Fs601%2Fd%2F1
-[/us/pl/110/84/s601/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F84%2Fs601%2Fd%2F2
-[/us/pl/109/171/s8017/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F171%2Fs8017%2Fd%2F1
+[/us/pl/110/84]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F84
+[/us/pl/110/84]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F84
+[/us/pl/109/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F171
 [/us/usc/t20/s1087qq/b/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1087qq%2Fb%2F4
-[/us/pl/109/171/s8017/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F171%2Fs8017%2Fd%2F2
-[/us/pl/109/171/s8017/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F171%2Fs8017%2Fe
+[/us/pl/109/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F171
+[/us/pl/109/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F171
 [/us/pl/105/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244
-[/us/pl/103/208/s2/g/8/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F208%2Fs2%2Fg%2F8%2FA
-[/us/pl/103/208/s2/g/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F208%2Fs2%2Fg%2F8
-[/us/pl/103/208/s2/g/8/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F208%2Fs2%2Fg%2F8%2FA
-[/us/pl/103/208/s2/g/8/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F208%2Fs2%2Fg%2F8%2FA
+[/us/pl/103/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F208
+[/us/pl/103/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F208
+[/us/pl/103/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F208
+[/us/pl/103/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F208
 [/us/pl/102/325]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325
-[/us/pl/100/50/s14/21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F50%2Fs14%2F21
-[/us/pl/100/50/s14/20]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F50%2Fs14%2F20
-[/us/pl/100/50/s14/22]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F50%2Fs14%2F22
+[/us/pl/100/50]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F50
+[/us/pl/100/50]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F50
+[/us/pl/100/50]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F50
 [/us/pl/110/84]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F84
 [/us/pl/110/84/s601/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F84%2Fs601%2Fe
 [/us/pl/109/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F171

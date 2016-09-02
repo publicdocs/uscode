@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../../..//us/usc/t20/ch55/schI/ptA/m__us_usc_t20_s4304.md) | [Next](./../../../../../..//us/usc/t20/ch55/schI/ptB/m__us_usc_t20_ch55_schI_ptB.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs4305)
+[Previous](./../../../../../..//us/usc/t20/ch55/schI/ptA/m__us_usc_t20_s4304.md) | [Next](./../../../../../..//us/usc/t20/ch55/schI/ptA/m__us_usc_t20_s4311 _us_usc_t20_s4321 _us_usc_t20_s4322.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs4305)
 
 ## § 4305. Agreement with Gallaudet University
 
@@ -33,7 +33,7 @@
 
         (5) include such other conditions as the Secretary or the University considers necessary to carry out the purposes of this part.
 
-([Pub. L. 99–371, title I, § 105][/us/pl/99/371/s105], as added [Pub. L. 102–421, title I, § 113][/us/pl/102/421/s113], Oct. 16, 1992, [106 Stat. 2154][/us/stat/106/2154]; amended [Pub. L. 103–73, title II, § 203(e)][/us/pl/103/73/s203/e], Aug. 11, 1993, [107 Stat. 734][/us/stat/107/734]; [Pub. L. 105–244, title IX, § 913][/us/pl/105/244/s913], Oct. 7, 1998, [112 Stat. 1830][/us/stat/112/1830]; [Pub. L. 110–315, title IX, § 902][/us/pl/110/315/s902], Aug. 14, 2008, [122 Stat. 3451][/us/stat/122/3451].)
+([Pub. L. 99–371, title I][/us/pl/99/371/tI], § 105, as added [Pub. L. 102–421, title I][/us/pl/102/421/tI], § 113, Oct. 16, 1992, [106 Stat. 2154][/us/stat/106/2154]; amended [Pub. L. 103–73, title II][/us/pl/103/73/tII], § 203(e), Aug. 11, 1993, [107 Stat. 734][/us/stat/107/734]; [Pub. L. 105–244, title IX][/us/pl/105/244/tIX], § 913, Oct. 7, 1998, [112 Stat. 1830][/us/stat/112/1830]; [Pub. L. 110–315, title IX][/us/pl/110/315/tIX], § 902, Aug. 14, 2008, [122 Stat. 3451][/us/stat/122/3451].)
 
  __References in Text__ 
 
@@ -45,9 +45,9 @@
 
     1998—Subsec. (a). [Pub. L. 105–244][/us/pl/105/244] substituted “and periodically update, an” for “within 1 year after October 16, 1992, a new” and “The Secretary or the University shall determine the necessity for the periodic update described in the preceding sentence.” for “The Secretary and the University shall periodically update the agreement as determined to be necessary by the Secretary or the University.”
 
-    1993—Subsec. (b)(2). [Pub. L. 103–73, § 203(e)(1)][/us/pl/103/73/s203/e/1], substituted “will” for “shall”.
+    1993—Subsec. (b)(2). [Pub. L. 103–73][/us/pl/103/73], § 203(e)(1), substituted “will” for “shall”.
 
-    Subsec. (b)(4). [Pub. L. 103–73, § 203(e)(2)][/us/pl/103/73/s203/e/2], substituted “Elementary School or the Model” for “Elementary School and the Model” and “except that the Secretary” for “and the Secretary”.
+    Subsec. (b)(4). [Pub. L. 103–73][/us/pl/103/73], § 203(e)(2), substituted “Elementary School or the Model” for “Elementary School and the Model” and “except that the Secretary” for “and the Secretary”.
 
  __Effective Date of 1998 Amendment__ 
 
@@ -57,35 +57,23 @@
 
     Section effective Oct. 1, 1992, see [section 161 of Pub. L. 102–421][/us/pl/102/421/s161], set out as an Effective Date of 1992 Amendment note under [section 4301 of this title][/us/usc/t20/s4301].
 
-§§ 4311, 4321, 4322. __Repealed.__  __[__  __Pub. L. 102–421, title I, § 101(a)(1)__  __][/us/pl/102/421/s101/a/1]__  __,__  __Oct. 16, 1992__  __,__  __[__  __106 Stat. 2151__  __][/us/stat/106/2151]__ 
-
-    Section 4311, [Pub. L. 99–371, title I, § 111][/us/pl/99/371/s111], Aug. 4, 1986, [100 Stat. 783][/us/stat/100/783]; [Pub. L. 101–476, title IX, § 901(a)(2)][/us/pl/101/476/s901/a/2], Oct. 30, 1990, [104 Stat. 1142][/us/stat/104/1142], related to authority of Gallaudet University to maintain and operate the Kendall Demonstration Elementary School.
-
-    Section 4321, [Pub. L. 99–371, title I, § 121][/us/pl/99/371/s121], Aug. 4, 1986, [100 Stat. 783][/us/stat/100/783]; [Pub. L. 101–476, title IX, § 901(a)(2)][/us/pl/101/476/s901/a/2], Oct. 30, 1990, [104 Stat. 1142][/us/stat/104/1142], related to authority of Gallaudet University to maintain and operate a model secondary school for the deaf.
-
-    Section 4322, [Pub. L. 99–371, title I, § 122][/us/pl/99/371/s122], Aug. 4, 1986, [100 Stat. 784][/us/stat/100/784], authorized continuation of agreement with Gallaudet University for model secondary school.
-
- __Effective Date of Repeal__ 
-
-    Repeal effective Oct. 1, 1992, see [section 161 of Pub. L. 102–421][/us/pl/102/421/s161], set out as an Effective Date of 1992 Amendment note under [section 4301 of this title][/us/usc/t20/s4301].
-
 ----------
 
-[Previous](./../../../../../..//us/usc/t20/ch55/schI/ptA/m__us_usc_t20_s4304.md) | [Next](./../../../../../..//us/usc/t20/ch55/schI/ptB/m__us_usc_t20_ch55_schI_ptB.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs4305)
+[Previous](./../../../../../..//us/usc/t20/ch55/schI/ptA/m__us_usc_t20_s4304.md) | [Next](./../../../../../..//us/usc/t20/ch55/schI/ptA/m__us_usc_t20_s4311 _us_usc_t20_s4321 _us_usc_t20_s4322.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs4305)
 
 ----------
 ----------
 
 [/us/usc/t20/s4354]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs4354
 [/us/usc/t40/s3145]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft40%2Fs3145
-[/us/pl/99/371/s105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F371%2Fs105
-[/us/pl/102/421/s113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F421%2Fs113
+[/us/pl/99/371/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F371%2FtI
+[/us/pl/102/421/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F421%2FtI
 [/us/stat/106/2154]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2154
-[/us/pl/103/73/s203/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F73%2Fs203%2Fe
+[/us/pl/103/73/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F73%2FtII
 [/us/stat/107/734]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F734
-[/us/pl/105/244/s913]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2Fs913
+[/us/pl/105/244/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2FtIX
 [/us/stat/112/1830]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F1830
-[/us/pl/110/315/s902]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2Fs902
+[/us/pl/110/315/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2FtIX
 [/us/stat/122/3451]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3451
 [/us/pl/110/315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315
 [/us/usc/t40/s276a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft40%2Fs276a
@@ -93,26 +81,12 @@
 [/us/act/1934-06-13/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-13%2Fs2
 [/us/usc/t40/s276c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft40%2Fs276c
 [/us/pl/105/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244
-[/us/pl/103/73/s203/e/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F73%2Fs203%2Fe%2F1
-[/us/pl/103/73/s203/e/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F73%2Fs203%2Fe%2F2
+[/us/pl/103/73]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F73
+[/us/pl/103/73]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F73
 [/us/pl/105/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244
 [/us/pl/105/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244
 [/us/pl/105/244/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2Fs3
 [/us/usc/t20/s1001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1001
-[/us/pl/102/421/s161]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F421%2Fs161
-[/us/usc/t20/s4301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs4301
-[/us/pl/102/421/s101/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F421%2Fs101%2Fa%2F1
-[/us/stat/106/2151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2151
-[/us/pl/99/371/s111]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F371%2Fs111
-[/us/stat/100/783]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F783
-[/us/pl/101/476/s901/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F476%2Fs901%2Fa%2F2
-[/us/stat/104/1142]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1142
-[/us/pl/99/371/s121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F371%2Fs121
-[/us/stat/100/783]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F783
-[/us/pl/101/476/s901/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F476%2Fs901%2Fa%2F2
-[/us/stat/104/1142]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1142
-[/us/pl/99/371/s122]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F371%2Fs122
-[/us/stat/100/784]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F784
 [/us/pl/102/421/s161]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F421%2Fs161
 [/us/usc/t20/s4301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs4301
 

@@ -11,13 +11,13 @@
 ----------
 ----------
 
-[Previous](./../../../../../..//us/usc/t20/ch17/schVII/ptA/m__us_usc_t20_ch17_schVII_ptA.md) | [Next](./../../../../../..//us/usc/t20/ch17/schVII/ptB/m__us_usc_t20_s551.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fch17%2FschVII%2FptB)
+[Previous](./../../../../../..//us/usc/t20/ch17/schVII/ptA/m__us_usc_t20_s541 _us_usc_t20_s542.md) | [Next](./../../../../../..//us/usc/t20/ch17/schVII/ptB/m__us_usc_t20_s551.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fch17%2FschVII%2FptB)
 
 #### Part B—Dissemination of Information on New Educational Media
 
 ----------
 
-[Previous](./../../../../../..//us/usc/t20/ch17/schVII/ptA/m__us_usc_t20_ch17_schVII_ptA.md) | [Next](./../../../../../..//us/usc/t20/ch17/schVII/ptB/m__us_usc_t20_s551.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fch17%2FschVII%2FptB)
+[Previous](./../../../../../..//us/usc/t20/ch17/schVII/ptA/m__us_usc_t20_s541 _us_usc_t20_s542.md) | [Next](./../../../../../..//us/usc/t20/ch17/schVII/ptB/m__us_usc_t20_s551.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fch17%2FschVII%2FptB)
 
 ----------
 ----------

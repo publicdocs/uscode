@@ -21,7 +21,7 @@
 
  __Codification__ 
 
-    R.S. § 5591 derived from [act Feb. 5, 1867, ch. 34, § 1][/us/act/1867-02-05/ch34/s1], [14 Stat. 391][/us/stat/14/391].
+    R.S. § 5591 derived from [act Feb. 5, 1867, ch. 34][/us/act/1867-02-05/ch34], § 1, [14 Stat. 391][/us/stat/14/391].
 
  __Amendments__ 
 
@@ -36,7 +36,7 @@
 
 [/us/act/1894-03-12/ch36]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1894-03-12%2Fch36
 [/us/stat/28/41]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F28%2F41
-[/us/act/1867-02-05/ch34/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1867-02-05%2Fch34%2Fs1
+[/us/act/1867-02-05/ch34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1867-02-05%2Fch34
 [/us/stat/14/391]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F14%2F391
 
 

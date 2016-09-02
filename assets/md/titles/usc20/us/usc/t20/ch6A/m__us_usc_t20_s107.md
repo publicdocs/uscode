@@ -29,7 +29,7 @@
 
         Any limitation on the placement or operation of a vending facility based on a finding that such placement or operation would adversely affect the interests of the United States shall be fully justified in writing to the Secretary, who shall determine whether such limitation is justified. A determination made by the Secretary pursuant to this provision shall be binding on any department, agency, or instrumentality of the United States affected by such determination. The Secretary shall publish such determination, along with supporting documentation, in the Federal Register.
 
-([June 20, 1936, ch. 638, § 1][/us/act/1936-06-20/ch638/s1], [49 Stat. 1559][/us/stat/49/1559]; [Aug. 3, 1954, ch. 655, § 4(a)][/us/act/1954-08-03/ch655/s4/a], [68 Stat. 663][/us/stat/68/663]; [Pub. L. 93–516, title II, § 202][/us/pl/93/516/s202], Dec. 7, 1974, [88 Stat. 1623][/us/stat/88/1623]; [Pub. L. 93–651, title II, § 202][/us/pl/93/651/s202], Nov. 21, 1974, [89 Stat. 2–8][/us/stat/89/2-8].)
+([June 20, 1936, ch. 638][/us/act/1936-06-20/ch638], § 1, [49 Stat. 1559][/us/stat/49/1559]; [Aug. 3, 1954, ch. 655][/us/act/1954-08-03/ch655], § 4(a), [68 Stat. 663][/us/stat/68/663]; [Pub. L. 93–516, title II][/us/pl/93/516/tII], § 202, Dec. 7, 1974, [88 Stat. 1623][/us/stat/88/1623]; [Pub. L. 93–651, title II][/us/pl/93/651/tII], § 202, Nov. 21, 1974, [89 Stat. 2–8][/us/stat/89/2-8].)
 
  __Codification__ 
 
@@ -51,7 +51,7 @@
 
  __Short Title of 1974 Amendment__ 
 
-[Pub. L. 93–516, title II, § 200][/us/pl/93/516/s200], Dec. 7, 1974, [88 Stat. 1622][/us/stat/88/1622], provided that: 
+[Pub. L. 93–516, title II][/us/pl/93/516/tII], § 200, Dec. 7, 1974, [88 Stat. 1622][/us/stat/88/1622], provided that: 
 
 > “This title \[enacting sections 107b–1 to 107b–3 and 107d–1 to 107d–4 of this title, amending this section, sections 107a, 107b, 107d, 107e of this title, and [section 5108 of Title 5][/us/usc/t5/s5108], Government Organization and Employees, repealing sections 107c and 107e–1 of this title, and enacting provisions set out as notes under this section and [section 702 of Title 29][/us/usc/t29/s702], Labor\] may be cited as the ‘Randolph-Sheppard Act Amendments of 1974’.”
 
@@ -59,13 +59,13 @@
 
  __Short Title of 1954 Amendment__ 
 
-[Act Aug. 3, 1954, ch. 655, § 1][/us/act/1954-08-03/ch655/s1], [68 Stat. 652][/us/stat/68/652], provided that: 
+[Act Aug. 3, 1954, ch. 655][/us/act/1954-08-03/ch655], § 1, [68 Stat. 652][/us/stat/68/652], provided that: 
 
 > “This Act \[enacting [section 107e–1 of this title][/us/usc/t20/s107e–1] and amending this section and sections 107a, 107b, 107e, and 107f of this title and sections 31 to 41, 42, 49b, and 49g of Title 29, Labor\] may be cited as the ‘Vocational Rehabilitation Amendments of 1954’.”
 
  __Short Title__ 
 
-[Act June 20, 1936, ch. 638, § 11][/us/act/1936-06-20/ch638/s11], as added by [Pub. L. 108–136, div. A, title VIII, § 852(c)][/us/pl/108/136/s852/c], Nov. 24, 2003, [117 Stat. 1556][/us/stat/117/1556], provided that: 
+[Act June 20, 1936, ch. 638][/us/act/1936-06-20/ch638], § 11, as added by [Pub. L. 108–136, div. A, title VIII][/us/pl/108/136/dA/tVIII], § 852(c), Nov. 24, 2003, [117 Stat. 1556][/us/stat/117/1556], provided that: 
 
 > “This Act \[enacting this chapter\] may be cited as the ‘Randolph-Sheppard Act’.”
 
@@ -73,7 +73,7 @@
 
  __Congressional Findings__ 
 
-[Pub. L. 93–516, title II, § 201][/us/pl/93/516/s201], Dec. 7, 1974, [88 Stat. 1622][/us/stat/88/1622], provided that: 
+[Pub. L. 93–516, title II][/us/pl/93/516/tII], § 201, Dec. 7, 1974, [88 Stat. 1622][/us/stat/88/1622], provided that: 
 
 > “The Congress finds—
 
@@ -109,13 +109,13 @@
 ----------
 
 [/us/usc/t20/s107d–3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs107d%E2%80%933
-[/us/act/1936-06-20/ch638/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1936-06-20%2Fch638%2Fs1
+[/us/act/1936-06-20/ch638]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1936-06-20%2Fch638
 [/us/stat/49/1559]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F1559
-[/us/act/1954-08-03/ch655/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-03%2Fch655%2Fs4%2Fa
+[/us/act/1954-08-03/ch655]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-03%2Fch655
 [/us/stat/68/663]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68%2F663
-[/us/pl/93/516/s202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F516%2Fs202
+[/us/pl/93/516/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F516%2FtII
 [/us/stat/88/1623]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1623
-[/us/pl/93/651/s202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F651%2Fs202
+[/us/pl/93/651/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F651%2FtII
 [/us/stat/89/2-8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F2-8
 [/us/pl/93/516]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F516
 [/us/pl/93/651]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F651
@@ -127,18 +127,18 @@
 [/us/pl/93/516]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F516
 [/us/pl/93/651]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F651
 [/us/usc/t29/s49b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs49b
-[/us/pl/93/516/s200]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F516%2Fs200
+[/us/pl/93/516/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F516%2FtII
 [/us/stat/88/1622]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1622
 [/us/usc/t5/s5108]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5108
 [/us/usc/t29/s702]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs702
 [/us/pl/93/651/s200]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F651%2Fs200
-[/us/act/1954-08-03/ch655/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-03%2Fch655%2Fs1
+[/us/act/1954-08-03/ch655]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-03%2Fch655
 [/us/stat/68/652]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68%2F652
 [/us/usc/t20/s107e–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs107e%E2%80%931
-[/us/act/1936-06-20/ch638/s11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1936-06-20%2Fch638%2Fs11
-[/us/pl/108/136/s852/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs852%2Fc
+[/us/act/1936-06-20/ch638]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1936-06-20%2Fch638
+[/us/pl/108/136/dA/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2FdA%2FtVIII
 [/us/stat/117/1556]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1556
-[/us/pl/93/516/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F516%2Fs201
+[/us/pl/93/516/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F516%2FtII
 [/us/stat/88/1622]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1622
 [/us/pl/93/651/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F651%2Fs201
 

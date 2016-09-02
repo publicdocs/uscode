@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../../../..//us/usc/t20/ch28/schIV/ptA/spt1/m__us_usc_t20_s1070a.md) | [Next](./../../../../../../..//us/usc/t20/ch28/schIV/ptA/spt2/m__us_usc_t20_ch28_schIV_ptA_spt2.md) | [Root of Title](./../../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1070a%E2%80%931)
+[Previous](./../../../../../../..//us/usc/t20/ch28/schIV/ptA/spt1/m__us_usc_t20_s1070a.md) | [Next](./../../../../../../..//us/usc/t20/ch28/schIV/ptA/spt1/m__us_usc_t20_s1070a–2...1070a–6.md) | [Root of Title](./../../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1070a%E2%80%931)
 
 ## § 1070a–1. Academic competitiveness grants
 
@@ -191,35 +191,35 @@
 
         The authority to make grants under this section shall expire at the end of award year 2010–2011.
 
-([Pub. L. 89–329, title IV, § 401A][/us/pl/89/329/s401A], as added [Pub. L. 109–171, title VIII, § 8003][/us/pl/109/171/s8003], Feb. 8, 2006, [120 Stat. 155][/us/stat/120/155]; amended [Pub. L. 110–227, § 10(a)][/us/pl/110/227/s10/a], May 7, 2008, [122 Stat. 748][/us/stat/122/748]; [Pub. L. 110–315, title IV, § 402(a)(1)][/us/pl/110/315/s402/a/1], Aug. 14, 2008, [122 Stat. 3190][/us/stat/122/3190].)
+([Pub. L. 89–329, title IV][/us/pl/89/329/tIV], § 401A, as added [Pub. L. 109–171, title VIII][/us/pl/109/171/tVIII], § 8003, Feb. 8, 2006, [120 Stat. 155][/us/stat/120/155]; amended [Pub. L. 110–227][/us/pl/110/227], § 10(a), May 7, 2008, [122 Stat. 748][/us/stat/122/748]; [Pub. L. 110–315, title IV][/us/pl/110/315/tIV], § 402(a)(1), Aug. 14, 2008, [122 Stat. 3190][/us/stat/122/3190].)
 
  __Prior Provisions__ 
 
-    A prior section 1070a–1, [Pub. L. 89–329, title IV, § 411A][/us/pl/89/329/s411A], as added [Pub. L. 99–498, title IV, § 401(a)][/us/pl/99/498/s401/a], Oct. 17, 1986, [100 Stat. 1312][/us/stat/100/1312]; amended [Pub. L. 100–50, § 3(b)(1)][/us/pl/100/50/s3/b/1], June 3, 1987, [101 Stat. 337][/us/stat/101/337]; [Pub. L. 100–369, § 7(c)][/us/pl/100/369/s7/c], July 18, 1988, [102 Stat. 837][/us/stat/102/837], related to family contribution schedule for Pell Grants and data elements, prior to repeal by [Pub. L. 102–325, title IV, § 401(i)][/us/pl/102/325/s401/i], July 23, 1992, [106 Stat. 482][/us/stat/106/482].
+    A prior section 1070a–1, [Pub. L. 89–329, title IV][/us/pl/89/329/tIV], § 411A, as added [Pub. L. 99–498, title IV][/us/pl/99/498/tIV], § 401(a), Oct. 17, 1986, [100 Stat. 1312][/us/stat/100/1312]; amended [Pub. L. 100–50][/us/pl/100/50], § 3(b)(1), June 3, 1987, [101 Stat. 337][/us/stat/101/337]; [Pub. L. 100–369][/us/pl/100/369], § 7(c), July 18, 1988, [102 Stat. 837][/us/stat/102/837], related to family contribution schedule for Pell Grants and data elements, prior to repeal by [Pub. L. 102–325, title IV][/us/pl/102/325/tIV], § 401(i), July 23, 1992, [106 Stat. 482][/us/stat/106/482].
 
  __Amendments__ 
 
-    2008—Subsec. (a). [Pub. L. 110–227, § 10(a)(1)][/us/pl/110/227/s10/a/1], added subsec. (a) and struck out former subsec. (a) which established Academic Competitiveness Grants and Academic Competitiveness Council and required report to Congress.
+    2008—Subsec. (a). [Pub. L. 110–227][/us/pl/110/227], § 10(a)(1), added subsec. (a) and struck out former subsec. (a) which established Academic Competitiveness Grants and Academic Competitiveness Council and required report to Congress.
 
-    Subsec. (b)(1). [Pub. L. 110–227, § 10(a)(2)(A)][/us/pl/110/227/s10/a/2/A], substituted “year” for “academic year”.
+    Subsec. (b)(1). [Pub. L. 110–227][/us/pl/110/227], § 10(a)(2)(A), substituted “year” for “academic year”.
 
-    Subsec. (b)(2). [Pub. L. 110–227, § 10(a)(2)][/us/pl/110/227/s10/a/2], substituted “third, fourth, or fifth” for “third or fourth” and “year” for “academic year”.
+    Subsec. (b)(2). [Pub. L. 110–227][/us/pl/110/227], § 10(a)(2), substituted “third, fourth, or fifth” for “third or fourth” and “year” for “academic year”.
 
-    Subsec. (c). [Pub. L. 110–227, § 10(a)(3)(A)][/us/pl/110/227/s10/a/3/A], in introductory provisions, struck out “full-time” before “student who, for the” and substituted “award” for “academic” and “is made for a grant under this section” for “is made”.
+    Subsec. (c). [Pub. L. 110–227][/us/pl/110/227], § 10(a)(3)(A), in introductory provisions, struck out “full-time” before “student who, for the” and substituted “award” for “academic” and “is made for a grant under this section” for “is made”.
 
-    Subsec. (c)(1), (2). [Pub. L. 110–227, § 10(a)(3)(B)][/us/pl/110/227/s10/a/3/B], added pars. (1) and (2) and struck out former pars. (1) and (2) which read as follows:
+    Subsec. (c)(1), (2). [Pub. L. 110–227][/us/pl/110/227], § 10(a)(3)(B), added pars. (1) and (2) and struck out former pars. (1) and (2) which read as follows:
 
     “(1) is a citizen of the United States;
 
     “(2) is eligible for a Federal Pell Grant; and”.
 
-    Subsec. (c)(3). [Pub. L. 110–227, § 10(a)(3)(C)(i)][/us/pl/110/227/s10/a/3/C/i], struck out “academic” before “year of” wherever appearing.
+    Subsec. (c)(3). [Pub. L. 110–227][/us/pl/110/227], § 10(a)(3)(C)(i), struck out “academic” before “year of” wherever appearing.
 
-    Subsec. (c)(3)(A). [Pub. L. 110–227, § 10(a)(3)(C)(ii)(I)][/us/pl/110/227/s10/a/3/C/ii/I], substituted, in introductory provisions, “the first year of a program of undergraduate education at a two- or four-year degree-granting institution of higher education (including a program of not less than one year for which the institution awards a certificate)—” for “the first year of a program of undergraduate education at a two- or four-year degree-granting institution of higher education—”.
+    Subsec. (c)(3)(A). [Pub. L. 110–227][/us/pl/110/227], § 10(a)(3)(C)(ii)(I), substituted, in introductory provisions, “the first year of a program of undergraduate education at a two- or four-year degree-granting institution of higher education (including a program of not less than one year for which the institution awards a certificate)—” for “the first year of a program of undergraduate education at a two- or four-year degree-granting institution of higher education—”.
 
-    Subsec. (c)(3)(A)(i). [Pub. L. 110–315, § 402(a)(1)(A)(i)][/us/pl/110/315/s402/a/1/A/i], added cl. (i) and struck out former cl. (i) which read as follows: “has successfully completed, after January 1, 2006, a rigorous secondary school program of study established by a State or local educational agency and recognized as such by the Secretary; and”. See Effective Date of 2008 Amendment notes below.
+    Subsec. (c)(3)(A)(i). [Pub. L. 110–315][/us/pl/110/315], § 402(a)(1)(A)(i), added cl. (i) and struck out former cl. (i) which read as follows: “has successfully completed, after January 1, 2006, a rigorous secondary school program of study established by a State or local educational agency and recognized as such by the Secretary; and”. See Effective Date of 2008 Amendment notes below.
 
-    [Pub. L. 110–227, § 10(a)(3)(C)(ii)(II)][/us/pl/110/227/s10/a/3/C/ii/II], added cl. (i) and struck out former cl. (i), as amended by [Pub. L. 110–315, § 402(a)(1)(A)(i)][/us/pl/110/315/s402/a/1/A/i], which read as follows:
+    [Pub. L. 110–227][/us/pl/110/227], § 10(a)(3)(C)(ii)(II), added cl. (i) and struck out former cl. (i), as amended by [Pub. L. 110–315][/us/pl/110/315], § 402(a)(1)(A)(i), which read as follows:
 
     “(I) successfully completes, after January 1, 2006, but before July 1, 2009, a rigorous secondary school program of study established by a State or local educational agency and recognized as such by the Secretary; or
 
@@ -233,23 +233,23 @@
 
     See Effective Date of 2008 Amendment notes below.
 
-    Subsec. (c)(3)(A)(ii). [Pub. L. 110–227, § 10(a)(3)(C)(ii)(III)][/us/pl/110/227/s10/a/3/C/ii/III], inserted “, except as part of a secondary school program of study” before semicolon.
+    Subsec. (c)(3)(A)(ii). [Pub. L. 110–227][/us/pl/110/227], § 10(a)(3)(C)(ii)(III), inserted “, except as part of a secondary school program of study” before semicolon.
 
-    Subsec. (c)(3)(B). [Pub. L. 110–227, § 10(a)(3)(C)(iii)(I)][/us/pl/110/227/s10/a/3/C/iii/I], in introductory provisions, substituted “year of a program of undergraduate education at a two- or four-year degree-granting institution of higher education (including a program of not less than two years for which the institution awards a certificate)” for “year of a program of undergraduate education at a two- or four-year degree-granting institution of higher education”.
+    Subsec. (c)(3)(B). [Pub. L. 110–227][/us/pl/110/227], § 10(a)(3)(C)(iii)(I), in introductory provisions, substituted “year of a program of undergraduate education at a two- or four-year degree-granting institution of higher education (including a program of not less than two years for which the institution awards a certificate)” for “year of a program of undergraduate education at a two- or four-year degree-granting institution of higher education”.
 
-    Subsec. (c)(3)(B)(i). [Pub. L. 110–315, § 402(a)(1)(A)(ii)][/us/pl/110/315/s402/a/1/A/ii], added cl. (i) and struck out former cl. (i) which read as follows: “has successfully completed, after January 1, 2005, a rigorous secondary school program of study established by a State or local educational agency and recognized as such by the Secretary; and”.
+    Subsec. (c)(3)(B)(i). [Pub. L. 110–315][/us/pl/110/315], § 402(a)(1)(A)(ii), added cl. (i) and struck out former cl. (i) which read as follows: “has successfully completed, after January 1, 2005, a rigorous secondary school program of study established by a State or local educational agency and recognized as such by the Secretary; and”.
 
-    Subsec. (c)(3)(C)(i). [Pub. L. 110–227, § 10(a)(3)(C)(iv)(I)][/us/pl/110/227/s10/a/3/C/iv/I], inserted “certified by the institution to be” after “is” in introductory provisions.
+    Subsec. (c)(3)(C)(i). [Pub. L. 110–227][/us/pl/110/227], § 10(a)(3)(C)(iv)(I), inserted “certified by the institution to be” after “is” in introductory provisions.
 
-    Subsec. (c)(3)(C)(i)(II). [Pub. L. 110–227, § 10(a)(3)(C)(iv)(II)][/us/pl/110/227/s10/a/3/C/iv/II], added subcl. (II) and struck out former subcl. (II) which read as follows: “a foreign language that the Secretary, in consultation with the Director of National Intelligence, determines is critical to the national security of the United States; and”.
+    Subsec. (c)(3)(C)(i)(II). [Pub. L. 110–227][/us/pl/110/227], § 10(a)(3)(C)(iv)(II), added subcl. (II) and struck out former subcl. (II) which read as follows: “a foreign language that the Secretary, in consultation with the Director of National Intelligence, determines is critical to the national security of the United States; and”.
 
-    Subsec. (c)(3)(D), (E). [Pub. L. 110–227, § 10(a)(3)(C)(iii)(II)][/us/pl/110/227/s10/a/3/C/iii/II], (iv)(III), (v), added subpars. (D) and (E).
+    Subsec. (c)(3)(D), (E). [Pub. L. 110–227][/us/pl/110/227], § 10(a)(3)(C)(iii)(II), (iv)(III), (v), added subpars. (D) and (E).
 
-    Subsec. (d)(1)(A). [Pub. L. 110–227, § 10(a)(4)(A)(i)][/us/pl/110/227/s10/a/4/A/i], inserted heading, substituted “subparagraph (C) or (D) of subsection (c)(3), for each of the two years described in such subparagraphs; or” for “subsection (c)(3)(C).” in cl. (iii), and added cl. (iv).
+    Subsec. (d)(1)(A). [Pub. L. 110–227][/us/pl/110/227], § 10(a)(4)(A)(i), inserted heading, substituted “subparagraph (C) or (D) of subsection (c)(3), for each of the two years described in such subparagraphs; or” for “subsection (c)(3)(C).” in cl. (iii), and added cl. (iv).
 
-    Subsec. (d)(1)(B). [Pub. L. 110–227, § 10(a)(4)(A)(ii)][/us/pl/110/227/s10/a/4/A/ii], inserted heading, added cl. (i), and redesignated former cls. (i) to (iii) as (ii) to (iv), respectively.
+    Subsec. (d)(1)(B). [Pub. L. 110–227][/us/pl/110/227], § 10(a)(4)(A)(ii), inserted heading, added cl. (i), and redesignated former cls. (i) to (iii) as (ii) to (iv), respectively.
 
-    Subsec. (d)(2), (3). [Pub. L. 110–227, § 10(a)(4)(B)][/us/pl/110/227/s10/a/4/B], (C), added pars. (2) and (3) and struck out former par. (2). Prior to amendment, text read as follows: “The Secretary shall not award a grant under this section—
+    Subsec. (d)(2), (3). [Pub. L. 110–227][/us/pl/110/227], § 10(a)(4)(B), (C), added pars. (2) and (3) and struck out former par. (2). Prior to amendment, text read as follows: “The Secretary shall not award a grant under this section—
 
     “(A) to any student for an academic year of a program of undergraduate education described in subparagraph (A), (B), or (C) of subsection (c)(3) for which the student received credit before February 8, 2006; or
 
@@ -261,21 +261,21 @@
 
     “(iii) two academic years under subsection (c)(3)(C).”
 
-    Subsec. (e)(2). [Pub. L. 110–315, § 402(a)(1)(B)][/us/pl/110/315/s402/a/1/B], amended par. (2) generally. Prior to amendment, text read as follows: “If, at the end of a fiscal year, the funds available for awarding grants under this section exceed the amount necessary to make such grants in the amounts authorized by subsection (d), then all of the excess funds shall remain available for awarding grants under this section during the subsequent fiscal year.” See Effective Date of 2008 Amendment notes below.
+    Subsec. (e)(2). [Pub. L. 110–315][/us/pl/110/315], § 402(a)(1)(B), amended par. (2) generally. Prior to amendment, text read as follows: “If, at the end of a fiscal year, the funds available for awarding grants under this section exceed the amount necessary to make such grants in the amounts authorized by subsection (d), then all of the excess funds shall remain available for awarding grants under this section during the subsequent fiscal year.” See Effective Date of 2008 Amendment notes below.
 
-    [Pub. L. 110–227, § 10(a)(5)][/us/pl/110/227/s10/a/5], added par. (2) and struck out former par. (2), as amended by [Pub. L. 110–315, § 402(a)(1)(B)][/us/pl/110/315/s402/a/1/B]. Prior to amendment, text read as follows: “The amounts made available by paragraph (1) for any fiscal year shall be available from October 1 of that fiscal year and remain available through September 30 of the succeeding fiscal year.” See Effective Date of 2008 Amendment notes below.
+    [Pub. L. 110–227][/us/pl/110/227], § 10(a)(5), added par. (2) and struck out former par. (2), as amended by [Pub. L. 110–315][/us/pl/110/315], § 402(a)(1)(B). Prior to amendment, text read as follows: “The amounts made available by paragraph (1) for any fiscal year shall be available from October 1 of that fiscal year and remain available through September 30 of the succeeding fiscal year.” See Effective Date of 2008 Amendment notes below.
 
-    Subsec. (f). [Pub. L. 110–227, § 10(a)(6)][/us/pl/110/227/s10/a/6], substituted “not less than one” for “at least one” and “subparagraphs (A) and (B) of subsection (c)(3)” for “subsection (c)(3)(A) and (B)”.
+    Subsec. (f). [Pub. L. 110–227][/us/pl/110/227], § 10(a)(6), substituted “not less than one” for “at least one” and “subparagraphs (A) and (B) of subsection (c)(3)” for “subsection (c)(3)(A) and (B)”.
 
-    Subsec. (g). [Pub. L. 110–227, § 10(a)(7)][/us/pl/110/227/s10/a/7], substituted “award” for “academic”.
+    Subsec. (g). [Pub. L. 110–227][/us/pl/110/227], § 10(a)(7), substituted “award” for “academic”.
 
  __Effective Date of 2008 Amendment__ 
 
-[Pub. L. 110–315, title IV, § 402(a)(2)][/us/pl/110/315/s402/a/2], Aug. 14, 2008, [122 Stat. 3191][/us/stat/122/3191], provided that: 
+[Pub. L. 110–315, title IV][/us/pl/110/315/tIV], § 402(a)(2), Aug. 14, 2008, [122 Stat. 3191][/us/stat/122/3191], provided that: 
 
 > “The amendment made by paragraph (1)(B) \[amending this section\] shall take effect on October 1, 2008.”
 
-[Pub. L. 110–227, § 10(b)][/us/pl/110/227/s10/b], May 7, 2008, [122 Stat. 752][/us/stat/122/752], as amended by [Pub. L. 110–315, title IV, § 402(a)(3)][/us/pl/110/315/s402/a/3], Aug. 14, 2008, [122 Stat. 3191][/us/stat/122/3191], provided that: 
+[Pub. L. 110–227][/us/pl/110/227], § 10(b), May 7, 2008, [122 Stat. 752][/us/stat/122/752], as amended by [Pub. L. 110–315, title IV][/us/pl/110/315/tIV], § 402(a)(3), Aug. 14, 2008, [122 Stat. 3191][/us/stat/122/3191], provided that: 
 
 > “The amendments made by subsection (a) \[amending this section\] shall take effect on July 1, 2009.”
 
@@ -283,21 +283,9 @@
 
     Section effective July 1, 2006, except as otherwise provided, see [section 8001(c) of Pub. L. 109–171][/us/pl/109/171/s8001/c], set out as an Effective Date of 2006 Amendment note under [section 1002 of this title][/us/usc/t20/s1002].
 
-§§ 1070a–2 to 1070a–6. __Repealed.__  __[__  __Pub. L. 102–325, title IV, § 401(i)__  __][/us/pl/102/325/s401/i]__  __,__  __July 23, 1992__  __,__  __[__  __106 Stat. 482__  __][/us/stat/106/482]__ 
-
-    Section 1070a–2, [Pub. L. 89–329, title IV, § 411B][/us/pl/89/329/s411B], as added [Pub. L. 99–498, title IV, § 401(a)][/us/pl/99/498/s401/a], Oct. 17, 1986, [100 Stat. 1313][/us/stat/100/1313]; amended [Pub. L. 100–50, § 3(b)(2)][/us/pl/100/50/s3/b/2], (c)–(f)(1), (4), (5), (g), June 3, 1987, [101 Stat. 337][/us/stat/101/337], 338; [Pub. L. 102–54, § 13(g)(1)(B)][/us/pl/102/54/s13/g/1/B], June 13, 1991, [105 Stat. 275][/us/stat/105/275], related to eligibility determination for dependent students.
-
-    Section 1070a–3, [Pub. L. 89–329, title IV, § 411C][/us/pl/89/329/s411C], as added [Pub. L. 99–498, title IV, § 401(a)][/us/pl/99/498/s401/a], Oct. 17, 1986, [100 Stat. 1316][/us/stat/100/1316]; amended [Pub. L. 100–50, § 3(b)(3)][/us/pl/100/50/s3/b/3], (c)(1), (f)(2), (4), (5), (g), (h)(2), June 3, 1987, [101 Stat. 337][/us/stat/101/337], 338; [Pub. L. 100–369, § 7(c)][/us/pl/100/369/s7/c], July 18, 1988, [102 Stat. 837][/us/stat/102/837]; [Pub. L. 102–54, § 13(g)(1)(C)][/us/pl/102/54/s13/g/1/C], June 13, 1991, [105 Stat. 275][/us/stat/105/275], related to eligibility determination for independent students with dependents other than a spouse.
-
-    Section 1070a–4, [Pub. L. 89–329, title IV, § 411D][/us/pl/89/329/s411D], as added [Pub. L. 99–498, title IV, § 401(a)][/us/pl/99/498/s401/a], Oct. 17, 1986, [100 Stat. 1319][/us/stat/100/1319]; amended [Pub. L. 100–50, § 3(b)(4)][/us/pl/100/50/s3/b/4], (c)(1), (f)(3), (4), (g), June 3, 1987, [101 Stat. 337][/us/stat/101/337], 338; [Pub. L. 100–369, § 7(c)][/us/pl/100/369/s7/c], July 18, 1988, [102 Stat. 837][/us/stat/102/837]; [Pub. L. 102–54, § 13(g)(1)(D)][/us/pl/102/54/s13/g/1/D], June 13, 1991, [105 Stat. 275][/us/stat/105/275], related to eligibility determination for single independent students or for married independent students without other dependents.
-
-    Section 1070a–5, [Pub. L. 89–329, title IV, § 411E][/us/pl/89/329/s411E], as added [Pub. L. 99–498, title IV, § 401(a)][/us/pl/99/498/s401/a], Oct. 17, 1986, [100 Stat. 1322][/us/stat/100/1322], related to regulations and updated tables.
-
-    Section 1070a–6, [Pub. L. 89–329, title IV, § 411F][/us/pl/89/329/s411F], as added [Pub. L. 99–498, title IV, § 401(a)][/us/pl/99/498/s401/a], Oct. 17, 1986, [100 Stat. 1323][/us/stat/100/1323]; amended [Pub. L. 100–50, § 3(h)(1)][/us/pl/100/50/s3/h/1], (i)–(m), June 3, 1987, [101 Stat. 338][/us/stat/101/338], 339; [Pub. L. 100–369, § 7(a)][/us/pl/100/369/s7/a], (c), July 18, 1988, [102 Stat. 836][/us/stat/102/836], 837; [Pub. L. 101–610, title I, § 185(1)][/us/pl/101/610/s185/1], (2), Nov. 16, 1990, [104 Stat. 3167][/us/stat/104/3167], related to definitions and determinations.
-
 ----------
 
-[Previous](./../../../../../../..//us/usc/t20/ch28/schIV/ptA/spt1/m__us_usc_t20_s1070a.md) | [Next](./../../../../../../..//us/usc/t20/ch28/schIV/ptA/spt2/m__us_usc_t20_ch28_schIV_ptA_spt2.md) | [Root of Title](./../../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1070a%E2%80%931)
+[Previous](./../../../../../../..//us/usc/t20/ch28/schIV/ptA/spt1/m__us_usc_t20_s1070a.md) | [Next](./../../../../../../..//us/usc/t20/ch28/schIV/ptA/spt1/m__us_usc_t20_s1070a–2...1070a–6.md) | [Root of Title](./../../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1070a%E2%80%931)
 
 ----------
 ----------
@@ -305,92 +293,53 @@
 [/us/usc/t20/s1001/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1001%2Fa
 [/us/usc/t20/s1070a/b/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1070a%2Fb%2F2%2FB
 [/us/usc/t20/s1070a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1070a
-[/us/pl/89/329/s401A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2Fs401A
-[/us/pl/109/171/s8003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F171%2Fs8003
+[/us/pl/89/329/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2FtIV
+[/us/pl/109/171/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F171%2FtVIII
 [/us/stat/120/155]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F155
-[/us/pl/110/227/s10/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F227%2Fs10%2Fa
+[/us/pl/110/227]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F227
 [/us/stat/122/748]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F748
-[/us/pl/110/315/s402/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2Fs402%2Fa%2F1
+[/us/pl/110/315/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2FtIV
 [/us/stat/122/3190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3190
-[/us/pl/89/329/s411A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2Fs411A
-[/us/pl/99/498/s401/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F498%2Fs401%2Fa
+[/us/pl/89/329/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2FtIV
+[/us/pl/99/498/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F498%2FtIV
 [/us/stat/100/1312]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1312
-[/us/pl/100/50/s3/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F50%2Fs3%2Fb%2F1
+[/us/pl/100/50]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F50
 [/us/stat/101/337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F337
-[/us/pl/100/369/s7/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F369%2Fs7%2Fc
+[/us/pl/100/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F369
 [/us/stat/102/837]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F837
-[/us/pl/102/325/s401/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325%2Fs401%2Fi
+[/us/pl/102/325/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325%2FtIV
 [/us/stat/106/482]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F482
-[/us/pl/110/227/s10/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F227%2Fs10%2Fa%2F1
-[/us/pl/110/227/s10/a/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F227%2Fs10%2Fa%2F2%2FA
-[/us/pl/110/227/s10/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F227%2Fs10%2Fa%2F2
-[/us/pl/110/227/s10/a/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F227%2Fs10%2Fa%2F3%2FA
-[/us/pl/110/227/s10/a/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F227%2Fs10%2Fa%2F3%2FB
-[/us/pl/110/227/s10/a/3/C/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F227%2Fs10%2Fa%2F3%2FC%2Fi
-[/us/pl/110/227/s10/a/3/C/ii/I]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F227%2Fs10%2Fa%2F3%2FC%2Fii%2FI
-[/us/pl/110/315/s402/a/1/A/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2Fs402%2Fa%2F1%2FA%2Fi
-[/us/pl/110/227/s10/a/3/C/ii/II]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F227%2Fs10%2Fa%2F3%2FC%2Fii%2FII
-[/us/pl/110/315/s402/a/1/A/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2Fs402%2Fa%2F1%2FA%2Fi
-[/us/pl/110/227/s10/a/3/C/ii/III]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F227%2Fs10%2Fa%2F3%2FC%2Fii%2FIII
-[/us/pl/110/227/s10/a/3/C/iii/I]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F227%2Fs10%2Fa%2F3%2FC%2Fiii%2FI
-[/us/pl/110/315/s402/a/1/A/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2Fs402%2Fa%2F1%2FA%2Fii
-[/us/pl/110/227/s10/a/3/C/iv/I]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F227%2Fs10%2Fa%2F3%2FC%2Fiv%2FI
-[/us/pl/110/227/s10/a/3/C/iv/II]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F227%2Fs10%2Fa%2F3%2FC%2Fiv%2FII
-[/us/pl/110/227/s10/a/3/C/iii/II]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F227%2Fs10%2Fa%2F3%2FC%2Fiii%2FII
-[/us/pl/110/227/s10/a/4/A/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F227%2Fs10%2Fa%2F4%2FA%2Fi
-[/us/pl/110/227/s10/a/4/A/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F227%2Fs10%2Fa%2F4%2FA%2Fii
-[/us/pl/110/227/s10/a/4/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F227%2Fs10%2Fa%2F4%2FB
-[/us/pl/110/315/s402/a/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2Fs402%2Fa%2F1%2FB
-[/us/pl/110/227/s10/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F227%2Fs10%2Fa%2F5
-[/us/pl/110/315/s402/a/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2Fs402%2Fa%2F1%2FB
-[/us/pl/110/227/s10/a/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F227%2Fs10%2Fa%2F6
-[/us/pl/110/227/s10/a/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F227%2Fs10%2Fa%2F7
-[/us/pl/110/315/s402/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2Fs402%2Fa%2F2
+[/us/pl/110/227]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F227
+[/us/pl/110/227]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F227
+[/us/pl/110/227]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F227
+[/us/pl/110/227]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F227
+[/us/pl/110/227]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F227
+[/us/pl/110/227]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F227
+[/us/pl/110/227]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F227
+[/us/pl/110/315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315
+[/us/pl/110/227]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F227
+[/us/pl/110/315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315
+[/us/pl/110/227]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F227
+[/us/pl/110/227]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F227
+[/us/pl/110/315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315
+[/us/pl/110/227]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F227
+[/us/pl/110/227]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F227
+[/us/pl/110/227]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F227
+[/us/pl/110/227]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F227
+[/us/pl/110/227]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F227
+[/us/pl/110/227]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F227
+[/us/pl/110/315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315
+[/us/pl/110/227]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F227
+[/us/pl/110/315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315
+[/us/pl/110/227]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F227
+[/us/pl/110/227]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F227
+[/us/pl/110/315/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2FtIV
 [/us/stat/122/3191]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3191
-[/us/pl/110/227/s10/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F227%2Fs10%2Fb
+[/us/pl/110/227]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F227
 [/us/stat/122/752]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F752
-[/us/pl/110/315/s402/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2Fs402%2Fa%2F3
+[/us/pl/110/315/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2FtIV
 [/us/stat/122/3191]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3191
 [/us/pl/109/171/s8001/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F171%2Fs8001%2Fc
 [/us/usc/t20/s1002]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1002
-[/us/pl/102/325/s401/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325%2Fs401%2Fi
-[/us/stat/106/482]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F482
-[/us/pl/89/329/s411B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2Fs411B
-[/us/pl/99/498/s401/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F498%2Fs401%2Fa
-[/us/stat/100/1313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1313
-[/us/pl/100/50/s3/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F50%2Fs3%2Fb%2F2
-[/us/stat/101/337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F337
-[/us/pl/102/54/s13/g/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F54%2Fs13%2Fg%2F1%2FB
-[/us/stat/105/275]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F275
-[/us/pl/89/329/s411C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2Fs411C
-[/us/pl/99/498/s401/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F498%2Fs401%2Fa
-[/us/stat/100/1316]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1316
-[/us/pl/100/50/s3/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F50%2Fs3%2Fb%2F3
-[/us/stat/101/337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F337
-[/us/pl/100/369/s7/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F369%2Fs7%2Fc
-[/us/stat/102/837]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F837
-[/us/pl/102/54/s13/g/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F54%2Fs13%2Fg%2F1%2FC
-[/us/stat/105/275]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F275
-[/us/pl/89/329/s411D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2Fs411D
-[/us/pl/99/498/s401/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F498%2Fs401%2Fa
-[/us/stat/100/1319]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1319
-[/us/pl/100/50/s3/b/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F50%2Fs3%2Fb%2F4
-[/us/stat/101/337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F337
-[/us/pl/100/369/s7/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F369%2Fs7%2Fc
-[/us/stat/102/837]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F837
-[/us/pl/102/54/s13/g/1/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F54%2Fs13%2Fg%2F1%2FD
-[/us/stat/105/275]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F275
-[/us/pl/89/329/s411E]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2Fs411E
-[/us/pl/99/498/s401/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F498%2Fs401%2Fa
-[/us/stat/100/1322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1322
-[/us/pl/89/329/s411F]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2Fs411F
-[/us/pl/99/498/s401/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F498%2Fs401%2Fa
-[/us/stat/100/1323]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1323
-[/us/pl/100/50/s3/h/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F50%2Fs3%2Fh%2F1
-[/us/stat/101/338]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F338
-[/us/pl/100/369/s7/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F369%2Fs7%2Fa
-[/us/stat/102/836]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F836
-[/us/pl/101/610/s185/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F610%2Fs185%2F1
-[/us/stat/104/3167]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3167
 
 

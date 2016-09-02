@@ -29,7 +29,7 @@
 
     (6) promote the use and application of research and development to improve practice in the classroom.
 
-([Pub. L. 107–279, title I, § 112][/us/pl/107/279/s112], Nov. 5, 2002, [116 Stat. 1945][/us/stat/116/1945].)
+([Pub. L. 107–279, title I][/us/pl/107/279/tI], § 112, Nov. 5, 2002, [116 Stat. 1945][/us/stat/116/1945].)
 
 ----------
 
@@ -39,7 +39,7 @@
 ----------
 
 [/us/usc/t20/s9584]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs9584
-[/us/pl/107/279/s112]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F279%2Fs112
+[/us/pl/107/279/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F279%2FtI
 [/us/stat/116/1945]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1945
 
 

@@ -37,7 +37,7 @@
 
         The term “teacher candidate” means a student or teacher described in subparagraph (A) or (B) of [section 1070g–2(a)(2) of this title][/us/usc/t20/s1070g–2/a/2].
 
-([Pub. L. 89–329, title IV, § 420L][/us/pl/89/329/s420L], as added [Pub. L. 110–84, title I, § 104][/us/pl/110/84/s104], Sept. 27, 2007, [121 Stat. 786][/us/stat/121/786]; amended [Pub. L. 110–153, § 3(1)][/us/pl/110/153/s3/1], Dec. 21, 2007, [121 Stat. 1824][/us/stat/121/1824].)
+([Pub. L. 89–329, title IV][/us/pl/89/329/tIV], § 420L, as added [Pub. L. 110–84, title I][/us/pl/110/84/tI], § 104, Sept. 27, 2007, [121 Stat. 786][/us/stat/121/786]; amended [Pub. L. 110–153][/us/pl/110/153], § 3(1), Dec. 21, 2007, [121 Stat. 1824][/us/stat/121/1824].)
 
  __Amendments__ 
 
@@ -56,10 +56,10 @@
 
 [/us/usc/t20/s1002]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1002
 [/us/usc/t20/s1070g–2/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1070g%E2%80%932%2Fa%2F2
-[/us/pl/89/329/s420L]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2Fs420L
-[/us/pl/110/84/s104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F84%2Fs104
+[/us/pl/89/329/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2FtIV
+[/us/pl/110/84/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F84%2FtI
 [/us/stat/121/786]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F786
-[/us/pl/110/153/s3/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F153%2Fs3%2F1
+[/us/pl/110/153]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F153
 [/us/stat/121/1824]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F1824
 [/us/pl/110/153]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F153
 [/us/pl/110/84/s1/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F84%2Fs1%2Fc

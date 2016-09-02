@@ -17,7 +17,7 @@
 
     There are authorized to be appropriated to the Commission such sums as may be necessary to carry out this chapter, including administrative expenses of the Commission.
 
-([Pub. L. 108–159, title V, § 519][/us/pl/108/159/s519], Dec. 4, 2003, [117 Stat. 2010][/us/stat/117/2010].)
+([Pub. L. 108–159, title V][/us/pl/108/159/tV], § 519, Dec. 4, 2003, [117 Stat. 2010][/us/stat/117/2010].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/108/159/s519]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F159%2Fs519
+[/us/pl/108/159/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F159%2FtV
 [/us/stat/117/2010]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2010
 
 

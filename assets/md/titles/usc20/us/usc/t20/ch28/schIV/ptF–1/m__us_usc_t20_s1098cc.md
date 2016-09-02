@@ -27,7 +27,7 @@
 
         For purposes of this section, a full refund includes a refund of required tuition and fees, or a credit in a comparable amount against future tuition and fees.
 
-([Pub. L. 108–76, § 3][/us/pl/108/76/s3], Aug. 18, 2003, [117 Stat. 906][/us/stat/117/906].)
+([Pub. L. 108–76][/us/pl/108/76], § 3, Aug. 18, 2003, [117 Stat. 906][/us/stat/117/906].)
 
  __Codification__ 
 
@@ -42,7 +42,7 @@
 ----------
 ----------
 
-[/us/pl/108/76/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F76%2Fs3
+[/us/pl/108/76]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F76
 [/us/stat/117/906]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F906
 [/us/usc/t20/s1070]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1070
 

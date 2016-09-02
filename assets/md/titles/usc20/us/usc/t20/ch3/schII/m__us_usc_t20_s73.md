@@ -17,7 +17,7 @@
 
     Upon completion of the National Gallery of Art, the board shall accept for the Smithsonian Institution as a gift from the donor a collection of works of art which shall be housed and exhibited in the National Gallery of Art.
 
-([Mar. 24, 1937, ch. 50, § 3][/us/act/1937-03-24/ch50/s3], [50 Stat. 52][/us/stat/50/52].)
+([Mar. 24, 1937, ch. 50][/us/act/1937-03-24/ch50], § 3, [50 Stat. 52][/us/stat/50/52].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/act/1937-03-24/ch50/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1937-03-24%2Fch50%2Fs3
+[/us/act/1937-03-24/ch50]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1937-03-24%2Fch50
 [/us/stat/50/52]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F50%2F52
 
 

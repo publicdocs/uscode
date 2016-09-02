@@ -31,11 +31,11 @@
 
         In this section, the terms “armed forces” and “active duty for a period of more than 30 days” have the meanings given those terms in [section 101 of title 10][/us/usc/t10/s101].
 
-([Pub. L. 89–329, title I, § 135][/us/pl/89/329/s135], as added [Pub. L. 110–315, title I, § 114][/us/pl/110/315/s114], Aug. 14, 2008, [122 Stat. 3111][/us/stat/122/3111].)
+([Pub. L. 89–329, title I][/us/pl/89/329/tI], § 135, as added [Pub. L. 110–315, title I][/us/pl/110/315/tI], § 114, Aug. 14, 2008, [122 Stat. 3111][/us/stat/122/3111].)
 
  __Prior Provisions__ 
 
-    A prior section 1015d, [Pub. L. 89–329, title I, § 135][/us/pl/89/329/s135], as added [Pub. L. 102–325, title I, § 101][/us/pl/102/325/s101], July 23, 1992, [106 Stat. 466][/us/stat/106/466], required grant recipients to submit reports, prior to the general amendment of this subchapter by [Pub. L. 105–244][/us/pl/105/244].
+    A prior section 1015d, [Pub. L. 89–329, title I][/us/pl/89/329/tI], § 135, as added [Pub. L. 102–325, title I][/us/pl/102/325/tI], § 101, July 23, 1992, [106 Stat. 466][/us/stat/106/466], required grant recipients to submit reports, prior to the general amendment of this subchapter by [Pub. L. 105–244][/us/pl/105/244].
 
 ----------
 
@@ -45,11 +45,11 @@
 ----------
 
 [/us/usc/t10/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs101
-[/us/pl/89/329/s135]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2Fs135
-[/us/pl/110/315/s114]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2Fs114
+[/us/pl/89/329/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2FtI
+[/us/pl/110/315/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2FtI
 [/us/stat/122/3111]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3111
-[/us/pl/89/329/s135]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2Fs135
-[/us/pl/102/325/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325%2Fs101
+[/us/pl/89/329/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2FtI
+[/us/pl/102/325/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325%2FtI
 [/us/stat/106/466]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F466
 [/us/pl/105/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244
 

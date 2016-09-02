@@ -21,7 +21,7 @@
 
     (2) such sums as may be necessary for each of the fiscal years 2011 through 2014.
 
-([Pub. L. 111–19, § 5][/us/pl/111/19/s5], May 12, 2009, [123 Stat. 1615][/us/stat/123/1615].)
+([Pub. L. 111–19][/us/pl/111/19], § 5, May 12, 2009, [123 Stat. 1615][/us/stat/123/1615].)
 
 ----------
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/pl/111/19/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F19%2Fs5
+[/us/pl/111/19]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F19
 [/us/stat/123/1615]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1615
 
 

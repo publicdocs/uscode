@@ -29,7 +29,7 @@
 
     (6) developing State and local plans for implementing programs designed to ensure that every person has the opportunity to gain the knowledge and skills necessary for gainful or maximum employment and for full participation in our society according to his or her ability.
 
-([Pub. L. 94–482, title III, § 331][/us/pl/94/482/s331], Oct. 12, 1976, [90 Stat. 2221][/us/stat/90/2221].)
+([Pub. L. 94–482, title III][/us/pl/94/482/tIII], § 331, Oct. 12, 1976, [90 Stat. 2221][/us/stat/90/2221].)
 
  __Effective Date__ 
 
@@ -46,7 +46,7 @@
 ----------
 ----------
 
-[/us/pl/94/482/s331]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F482%2Fs331
+[/us/pl/94/482/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F482%2FtIII
 [/us/stat/90/2221]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2221
 [/us/pl/94/482/s532]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F482%2Fs532
 [/us/usc/t20/s1001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1001

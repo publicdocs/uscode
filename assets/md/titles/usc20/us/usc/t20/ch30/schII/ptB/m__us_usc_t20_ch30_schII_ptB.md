@@ -11,13 +11,13 @@
 ----------
 ----------
 
-[Previous](./../../../../../..//us/usc/t20/ch30/schII/ptA/m__us_usc_t20_ch30_schII_ptA.md) | [Next](./../../../../../..//us/usc/t20/ch30/schII/ptB/m__us_usc_t20_s1204.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fch30%2FschII%2FptB)
+[Previous](./../../../../../..//us/usc/t20/ch30/schII/ptA/m__us_usc_t20_s1203...1203b.md) | [Next](./../../../../../..//us/usc/t20/ch30/schII/ptB/m__us_usc_t20_s1204.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fch30%2FschII%2FptB)
 
 #### Part B—Programs for Corrections Education and Education for Other Institutionalized Individuals
 
 ----------
 
-[Previous](./../../../../../..//us/usc/t20/ch30/schII/ptA/m__us_usc_t20_ch30_schII_ptA.md) | [Next](./../../../../../..//us/usc/t20/ch30/schII/ptB/m__us_usc_t20_s1204.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fch30%2FschII%2FptB)
+[Previous](./../../../../../..//us/usc/t20/ch30/schII/ptA/m__us_usc_t20_s1203...1203b.md) | [Next](./../../../../../..//us/usc/t20/ch30/schII/ptB/m__us_usc_t20_s1204.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fch30%2FschII%2FptB)
 
 ----------
 ----------

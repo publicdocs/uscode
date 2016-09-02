@@ -11,51 +11,16 @@
 ----------
 ----------
 
-[Previous](./../../../../../..//us/usc/t20/ch47/schII/m__us_usc_t20_ch47_schII.md) | [Next](./../../../../../..//us/usc/t20/ch47/schII/ptA/spt1/m__us_usc_t20_ch47_schII_ptA_spt1.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fch47%2FschII%2FptA)
+[Previous](./../../../../../..//us/usc/t20/ch47/schII/m__us_usc_t20_ch47_schII.md) | [Next](./../../../../../..//us/usc/t20/ch47/schII/ptA/m__us_usc_t20_s2981 _us_usc_t20_s2982.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fch47%2FschII%2FptA)
 
 #### Part A—Dwight D. Eisenhower Mathematics and Science Education Act
 
-§§ 2981, 2982. __Omitted__ 
-
- __Codification__ 
-
-    Sections were omitted in the general amendment of the Elementary and Secondary Education Act of 1965, [Pub. L. 89–10][/us/pl/89/10], by [Pub. L. 103–382, title I, § 101][/us/pl/103/382/s101], Oct. 20, 1994, [108 Stat. 3519][/us/stat/108/3519].
-
-    Section 2981, [Pub. L. 89–10, title II, § 2001][/us/pl/89/10/s2001], as added [Pub. L. 100–297, title I, § 1001][/us/pl/100/297/s1001], Apr. 28, 1988, [102 Stat. 219][/us/stat/102/219], provided that this part could be cited as the “Dwight D. Eisenhower Mathematics and Science Education Act”.
-
-    A prior section 2981, [Pub. L. 89–10, title III, § 331][/us/pl/89/10/s331], as added [Pub. L. 95–561, title III, § 301(a)][/us/pl/95/561/s301/a], Nov. 1, 1978, [92 Stat. 2214][/us/stat/92/2214], set out the short title and statement of findings for program of consumer education, prior to repeal by [Pub. L. 97–35, title V, § 587(a)(1)][/us/pl/97/35/s587/a/1], Aug. 13, 1981, [95 Stat. 480][/us/stat/95/480], eff. Oct. 1, 1982.
-
-    Section 2982, [Pub. L. 89–10, title II, § 2002][/us/pl/89/10/s2002], as added [Pub. L. 100–297, title I, § 1001][/us/pl/100/297/s1001], Apr. 28, 1988, [102 Stat. 219][/us/stat/102/219], stated purpose of this part.
-
-    A prior section 2982, [Pub. L. 89–10, title III, § 332][/us/pl/89/10/s332], as added [Pub. L. 95–561, title III, § 301(a)][/us/pl/95/561/s301/a], Nov. 1, 1978, [92 Stat. 2214][/us/stat/92/2214]; amended [Pub. L. 96–88, title III, § 301(a)(1)][/us/pl/96/88/s301/a/1], (b)(2), title V, § 507, Oct. 17, 1979, [93 Stat. 677][/us/stat/93/677], 678, 692, established an Office of Consumers’ Education and provided for the appointment of a Director thereof, prior to repeal by [Pub. L. 97–35, title V, § 587(a)(1)][/us/pl/97/35/s587/a/1], Aug. 13, 1981, [95 Stat. 480][/us/stat/95/480], eff. Oct. 1, 1982.
-
 ----------
 
-[Previous](./../../../../../..//us/usc/t20/ch47/schII/m__us_usc_t20_ch47_schII.md) | [Next](./../../../../../..//us/usc/t20/ch47/schII/ptA/spt1/m__us_usc_t20_ch47_schII_ptA_spt1.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fch47%2FschII%2FptA)
+[Previous](./../../../../../..//us/usc/t20/ch47/schII/m__us_usc_t20_ch47_schII.md) | [Next](./../../../../../..//us/usc/t20/ch47/schII/ptA/m__us_usc_t20_s2981 _us_usc_t20_s2982.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fch47%2FschII%2FptA)
 
 ----------
 ----------
 
-[/us/pl/89/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F10
-[/us/pl/103/382/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F382%2Fs101
-[/us/stat/108/3519]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3519
-[/us/pl/89/10/s2001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F10%2Fs2001
-[/us/pl/100/297/s1001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F297%2Fs1001
-[/us/stat/102/219]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F219
-[/us/pl/89/10/s331]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F10%2Fs331
-[/us/pl/95/561/s301/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F561%2Fs301%2Fa
-[/us/stat/92/2214]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2214
-[/us/pl/97/35/s587/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs587%2Fa%2F1
-[/us/stat/95/480]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F480
-[/us/pl/89/10/s2002]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F10%2Fs2002
-[/us/pl/100/297/s1001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F297%2Fs1001
-[/us/stat/102/219]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F219
-[/us/pl/89/10/s332]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F10%2Fs332
-[/us/pl/95/561/s301/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F561%2Fs301%2Fa
-[/us/stat/92/2214]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2214
-[/us/pl/96/88/s301/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F88%2Fs301%2Fa%2F1
-[/us/stat/93/677]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F677
-[/us/pl/97/35/s587/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs587%2Fa%2F1
-[/us/stat/95/480]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F480
 
 

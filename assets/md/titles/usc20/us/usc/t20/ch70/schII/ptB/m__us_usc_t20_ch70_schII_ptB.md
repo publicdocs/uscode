@@ -11,13 +11,13 @@
 ----------
 ----------
 
-[Previous](./../../../../../..//us/usc/t20/ch70/schII/ptA/spt5/m__us_usc_t20_s6651.md) | [Next](./../../../../../..//us/usc/t20/ch70/schII/ptB/m__us_usc_t20_s6661.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fch70%2FschII%2FptB)
+[Previous](./../../../../../..//us/usc/t20/ch70/schII/ptA/m__us_usc_t20_s6614.md) | [Next](./../../../../../..//us/usc/t20/ch70/schII/ptB/m__us_usc_t20_s6621.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fch70%2FschII%2FptB)
 
-#### Part B—Mathematics and Science Partnerships
+#### Part B—National Activities
 
 ----------
 
-[Previous](./../../../../../..//us/usc/t20/ch70/schII/ptA/spt5/m__us_usc_t20_s6651.md) | [Next](./../../../../../..//us/usc/t20/ch70/schII/ptB/m__us_usc_t20_s6661.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fch70%2FschII%2FptB)
+[Previous](./../../../../../..//us/usc/t20/ch70/schII/ptA/m__us_usc_t20_s6614.md) | [Next](./../../../../../..//us/usc/t20/ch70/schII/ptB/m__us_usc_t20_s6621.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fch70%2FschII%2FptB)
 
 ----------
 ----------

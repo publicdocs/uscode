@@ -27,7 +27,7 @@
 
         (B) an amount equal to contributions to Eisenhower Exchange Fellowships, Incorporated, from private sector sources during the 4-year period beginning on October 24, 1990.
 
-([Pub. L. 101–454, § 5][/us/pl/101/454/s5], Oct. 24, 1990, [104 Stat. 1064][/us/stat/104/1064].)
+([Pub. L. 101–454][/us/pl/101/454], § 5, Oct. 24, 1990, [104 Stat. 1064][/us/stat/104/1064].)
 
 ----------
 
@@ -36,7 +36,7 @@
 ----------
 ----------
 
-[/us/pl/101/454/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F454%2Fs5
+[/us/pl/101/454]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F454
 [/us/stat/104/1064]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1064
 
 

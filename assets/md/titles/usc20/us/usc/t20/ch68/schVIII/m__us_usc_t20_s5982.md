@@ -27,7 +27,7 @@
 
     (2) through such improved instruction to improve minority and Native American student knowledge and understanding of the American system of government.
 
-([Pub. L. 103–227, title VIII, § 802][/us/pl/103/227/s802], Mar. 31, 1994, [108 Stat. 209][/us/stat/108/209].)
+([Pub. L. 103–227, title VIII][/us/pl/103/227/tVIII], § 802, Mar. 31, 1994, [108 Stat. 209][/us/stat/108/209].)
 
 ----------
 
@@ -36,7 +36,7 @@
 ----------
 ----------
 
-[/us/pl/103/227/s802]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F227%2Fs802
+[/us/pl/103/227/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F227%2FtVIII
 [/us/stat/108/209]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F209
 
 

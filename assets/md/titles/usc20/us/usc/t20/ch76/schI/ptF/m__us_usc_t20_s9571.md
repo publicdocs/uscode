@@ -17,7 +17,7 @@
 
     The Secretary, in consultation with the Director, shall ensure that the Department and the Institute use common sources of data in standardized formats.
 
-([Pub. L. 107–279, title I, § 181][/us/pl/107/279/s181], Nov. 5, 2002, [116 Stat. 1971][/us/stat/116/1971].)
+([Pub. L. 107–279, title I][/us/pl/107/279/tI], § 181, Nov. 5, 2002, [116 Stat. 1971][/us/stat/116/1971].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/107/279/s181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F279%2Fs181
+[/us/pl/107/279/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F279%2FtI
 [/us/stat/116/1971]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1971
 
 

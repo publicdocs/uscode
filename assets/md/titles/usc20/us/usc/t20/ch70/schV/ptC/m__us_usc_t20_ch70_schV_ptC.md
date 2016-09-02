@@ -11,13 +11,13 @@
 ----------
 ----------
 
-[Previous](./../../../../../..//us/usc/t20/ch70/schV/ptB/spt3/m__us_usc_t20_s7225g.md) | [Next](./../../../../../..//us/usc/t20/ch70/schV/ptC/m__us_usc_t20_s7231.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fch70%2FschV%2FptC)
+[Previous](./../../../../../..//us/usc/t20/ch70/schV/ptB/spt3/m__us_usc_t20_s7355c.md) | [Next](./../../../../../..//us/usc/t20/ch70/schV/ptC/m__us_usc_t20_s7371.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fch70%2FschV%2FptC)
 
-#### Part C—Magnet Schools Assistance
+#### Part C—General Provisions
 
 ----------
 
-[Previous](./../../../../../..//us/usc/t20/ch70/schV/ptB/spt3/m__us_usc_t20_s7225g.md) | [Next](./../../../../../..//us/usc/t20/ch70/schV/ptC/m__us_usc_t20_s7231.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fch70%2FschV%2FptC)
+[Previous](./../../../../../..//us/usc/t20/ch70/schV/ptB/spt3/m__us_usc_t20_s7355c.md) | [Next](./../../../../../..//us/usc/t20/ch70/schV/ptC/m__us_usc_t20_s7371.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fch70%2FschV%2FptC)
 
 ----------
 ----------

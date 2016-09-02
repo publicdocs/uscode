@@ -15,7 +15,7 @@
 
 ## § 5205. Use of income on endowment
 
-    (a) __, (b) Repealed.__  __[__  __Pub. L. 104–134, title I, § 101__  __][/us/pl/104/134/s101]__  __\[(a)\] \[title IV, § 407\],__  __Apr. 26, 1996__  __,__  __[__  __110 Stat. 1321__  __][/us/stat/110/1321]__  __, 1321–45; renumbered title I,__  __[__  __Pub. L. 104–140, § 1(a)__  __][/us/pl/104/140/s1/a]__  __,__  __May 2, 1996__  __,__  __[__  __110 Stat. 1327__  __][/us/stat/110/1327]__ 
+    (a) __, (b) Repealed.__  __[__  __Pub. L. 104–134, title I__  __][/us/pl/104/134/tI]__  __, § 101\[(a)\] \[title IV, § 407\],__  __Apr. 26, 1996__  __,__  __[__  __110 Stat. 1321__  __][/us/stat/110/1321]__  __, 1321–45; renumbered title I,__  __[__  __Pub. L. 104–140__  __][/us/pl/104/140]__  __, § 1(a),__  __May 2, 1996__  __,__  __[__  __110 Stat. 1327__  __][/us/stat/110/1327]__ 
 
     (c) __Agricultural exchange program__ 
 
@@ -25,7 +25,7 @@
 
         In order to ensure that the United States fellows participating in programs of the Eisenhower Exchange Fellowships, Incorporated, are representative of the cultural, ethnic, and racial diversity of the American people, of the amounts made available to Eisenhower Exchange Fellowships, Incorporated, pursuant to [section 5203(a) of this title][/us/usc/t20/s5203/a] which are obligated and expended for United States fellowship programs, not less than 10 percent shall be available only for participation by individuals who are representative of United States minority populations.
 
-([Pub. L. 101–454, § 6][/us/pl/101/454/s6], Oct. 24, 1990, [104 Stat. 1065][/us/stat/104/1065]; [Pub. L. 104–134, title I, § 101][/us/pl/104/134/s101]\[(a)\] \[title IV, § 407\], Apr. 26, 1996, [110 Stat. 1321][/us/stat/110/1321], 1321–45; renumbered title I, [Pub. L. 104–140, § 1(a)][/us/pl/104/140/s1/a], May 2, 1996, [110 Stat. 1327][/us/stat/110/1327].)
+([Pub. L. 101–454][/us/pl/101/454], § 6, Oct. 24, 1990, [104 Stat. 1065][/us/stat/104/1065]; [Pub. L. 104–134, title I][/us/pl/104/134/tI], § 101\[(a)\] \[title IV, § 407\], Apr. 26, 1996, [110 Stat. 1321][/us/stat/110/1321], 1321–45; renumbered title I, [Pub. L. 104–140][/us/pl/104/140], § 1(a), May 2, 1996, [110 Stat. 1327][/us/stat/110/1327].)
 
  __Amendments__ 
 
@@ -40,17 +40,17 @@
 ----------
 ----------
 
-[/us/pl/104/134/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F134%2Fs101
+[/us/pl/104/134/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F134%2FtI
 [/us/stat/110/1321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1321
-[/us/pl/104/140/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F140%2Fs1%2Fa
+[/us/pl/104/140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F140
 [/us/stat/110/1327]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1327
 [/us/usc/t20/s5203/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs5203%2Fa
 [/us/usc/t20/s5203/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs5203%2Fa
-[/us/pl/101/454/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F454%2Fs6
+[/us/pl/101/454]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F454
 [/us/stat/104/1065]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1065
-[/us/pl/104/134/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F134%2Fs101
+[/us/pl/104/134/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F134%2FtI
 [/us/stat/110/1321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1321
-[/us/pl/104/140/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F140%2Fs1%2Fa
+[/us/pl/104/140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F140
 [/us/stat/110/1327]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1327
 [/us/pl/104/134]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F134
 [/us/usc/t20/s5203/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs5203%2Fa

@@ -17,7 +17,7 @@
 
     No recipient of funds under this chapter shall use such funds to provide financial assistance to students to attend private elementary or secondary schools, unless such funds are used to provide special education and related services to children with disabilities, as authorized by the Individuals with Disabilities Education Act ([20 U.S.C. 1400][/us/usc/t20/s1400] et seq.).
 
-([Pub. L. 111–5, div. A, title XIV, § 14011][/us/pl/111/5/s14011], Feb. 17, 2009, [123 Stat. 285][/us/stat/123/285]; [Pub. L. 111–8, div. F, title V, § 523(g)][/us/pl/111/8/s523/g], Mar. 11, 2009, [123 Stat. 806][/us/stat/123/806].)
+([Pub. L. 111–5, div. A, title XIV][/us/pl/111/5/dA/tXIV], § 14011, Feb. 17, 2009, [123 Stat. 285][/us/stat/123/285]; [Pub. L. 111–8, div. F, title V][/us/pl/111/8/dF/tV], § 523(g), Mar. 11, 2009, [123 Stat. 806][/us/stat/123/806].)
 
  __References in Text__ 
 
@@ -35,9 +35,9 @@
 ----------
 
 [/us/usc/t20/s1400]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1400
-[/us/pl/111/5/s14011]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5%2Fs14011
+[/us/pl/111/5/dA/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5%2FdA%2FtXIV
 [/us/stat/123/285]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F285
-[/us/pl/111/8/s523/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F8%2Fs523%2Fg
+[/us/pl/111/8/dF/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F8%2FdF%2FtV
 [/us/stat/123/806]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F806
 [/us/pl/91/230]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F230
 [/us/stat/84/175]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F175

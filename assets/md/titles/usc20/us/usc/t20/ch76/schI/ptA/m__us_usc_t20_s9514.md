@@ -85,7 +85,7 @@
 
         The Director may, when requested by other officers of the Department, and shall, when directed by the Secretary, review the products and publications of other offices of the Department to certify that evidence-based claims about those products and publications are scientifically valid.
 
-([Pub. L. 107–279, title I, § 114][/us/pl/107/279/s114], Nov. 5, 2002, [116 Stat. 1946][/us/stat/116/1946].)
+([Pub. L. 107–279, title I][/us/pl/107/279/tI], § 114, Nov. 5, 2002, [116 Stat. 1946][/us/stat/116/1946].)
 
  __References in Text__ 
 
@@ -104,7 +104,7 @@
 [/us/usc/t20/s9516/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs9516%2Fb%2F3
 [/us/usc/t20/s9573]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs9573
 [/us/usc/t5/s552a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs552a
-[/us/pl/107/279/s114]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F279%2Fs114
+[/us/pl/107/279/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F279%2FtI
 [/us/stat/116/1946]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1946
 [/us/usc/t5/s5313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5313
 [/us/pl/92/463]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F463

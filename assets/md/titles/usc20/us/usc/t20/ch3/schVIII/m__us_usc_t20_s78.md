@@ -17,7 +17,7 @@
 
     The Secretary of the Smithsonian Institution is authorized to cooperate with any State, educational institution, or scientific organization in the United States for continuing paleontological investigations, and the excavation and preservation of fossil remains, in areas which will be flooded by the construction of Government dams or otherwise be made unavailable for such investigations because of such construction: Provided, That such investigations and activities shall not duplicate nor affect adversely similar operations being conducted by the Department of Interior in cooperation with the Smithsonian Institution.
 
-([Aug. 15, 1949, ch. 427, § 1][/us/act/1949-08-15/ch427/s1], [63 Stat. 606][/us/stat/63/606].)
+([Aug. 15, 1949, ch. 427][/us/act/1949-08-15/ch427], § 1, [63 Stat. 606][/us/stat/63/606].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/act/1949-08-15/ch427/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-08-15%2Fch427%2Fs1
+[/us/act/1949-08-15/ch427]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-08-15%2Fch427
 [/us/stat/63/606]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F63%2F606
 
 

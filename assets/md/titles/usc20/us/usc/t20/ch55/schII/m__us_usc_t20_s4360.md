@@ -53,23 +53,23 @@
 
         There are authorized to be appropriated such sums as may be necessary for each of the fiscal years 2009 and 2010 to carry out the provisions of this section.
 
-([Pub. L. 99–371, title II, § 211][/us/pl/99/371/s211], as added [Pub. L. 105–244, title IX, § 924][/us/pl/105/244/s924], Oct. 7, 1998, [112 Stat. 1832][/us/stat/112/1832]; amended [Pub. L. 110–315, title IX, § 913][/us/pl/110/315/s913], Aug. 14, 2008, [122 Stat. 3455][/us/stat/122/3455].)
+([Pub. L. 99–371, title II][/us/pl/99/371/tII], § 211, as added [Pub. L. 105–244, title IX][/us/pl/105/244/tIX], § 924, Oct. 7, 1998, [112 Stat. 1832][/us/stat/112/1832]; amended [Pub. L. 110–315, title IX][/us/pl/110/315/tIX], § 913, Aug. 14, 2008, [122 Stat. 3455][/us/stat/122/3455].)
 
  __Prior Provisions__ 
 
-    A prior section 4360, [Pub. L. 99–371, title II, § 211][/us/pl/99/371/s211], formerly title IV, § 411, Aug. 4, 1986, [100 Stat. 794][/us/stat/100/794]; renumbered title II, § 211, and amended [Pub. L. 102–421, title I][/us/pl/102/421], §§ 101(b)(5), (6), 140, 151(a)(4), Oct. 16, 1992, [106 Stat. 2151][/us/stat/106/2151], 2163, 2164; [Pub. L. 103–73, title II, § 204(i)][/us/pl/103/73/s204/i], Aug. 11, 1993, [107 Stat. 735][/us/stat/107/735], authorized appropriations for this chapter, prior to repeal by [Pub. L. 105–244, § 3][/us/pl/105/244/s3], title IX, § 923, Oct. 7, 1998, [112 Stat. 1585][/us/stat/112/1585], 1832, effective Oct. 1, 1998. See [section 4360a of this title][/us/usc/t20/s4360a].
+    A prior section 4360, [Pub. L. 99–371, title II][/us/pl/99/371/tII], § 211, formerly title IV, § 411, Aug. 4, 1986, [100 Stat. 794][/us/stat/100/794]; renumbered title II, § 211, and amended [Pub. L. 102–421, title I][/us/pl/102/421/tI], §§ 101(b)(5), (6), 140, 151(a)(4), Oct. 16, 1992, [106 Stat. 2151][/us/stat/106/2151], 2163, 2164; [Pub. L. 103–73, title II][/us/pl/103/73/tII], § 204(i), Aug. 11, 1993, [107 Stat. 735][/us/stat/107/735], authorized appropriations for this chapter, prior to repeal by [Pub. L. 105–244][/us/pl/105/244], § 3, title IX, § 923, Oct. 7, 1998, [112 Stat. 1585][/us/stat/112/1585], 1832, effective Oct. 1, 1998. See [section 4360a of this title][/us/usc/t20/s4360a].
 
  __Amendments__ 
 
-    2008—Subsec. (a)(1). [Pub. L. 110–315, § 913(a)][/us/pl/110/315/s913/a], inserted “establish a commission on the education of the deaf (in this section referred to as the ‘commission’) to” after “The Secretary shall”.
+    2008—Subsec. (a)(1). [Pub. L. 110–315][/us/pl/110/315], § 913(a), inserted “establish a commission on the education of the deaf (in this section referred to as the ‘commission’) to” after “The Secretary shall”.
 
-    Subsec. (b). [Pub. L. 110–315, § 913(b)][/us/pl/110/315/s913/b], substituted “commission” for “Secretary” wherever appearing.
+    Subsec. (b). [Pub. L. 110–315][/us/pl/110/315], § 913(b), substituted “commission” for “Secretary” wherever appearing.
 
-    Subsec. (c). [Pub. L. 110–315, § 913(c)(1)][/us/pl/110/315/s913/c/1], in introductory provisions, substituted “commission shall report to the Secretary and Congress not later than 18 months after August 14, 2008” for “Secretary shall report to Congress not later than 18 months after October 7, 1998”.
+    Subsec. (c). [Pub. L. 110–315][/us/pl/110/315], § 913(c)(1), in introductory provisions, substituted “commission shall report to the Secretary and Congress not later than 18 months after August 14, 2008” for “Secretary shall report to Congress not later than 18 months after October 7, 1998”.
 
-    Subsec. (c)(1). [Pub. L. 110–315, § 913(c)(2)][/us/pl/110/315/s913/c/2], substituted “recommendations relating to educated-related factors that contribute to successful postsecondary education experiences and employment for individuals who are deaf, including” for “recommendations, including” and “commission” for “Secretary”.
+    Subsec. (c)(1). [Pub. L. 110–315][/us/pl/110/315], § 913(c)(2), substituted “recommendations relating to educated-related factors that contribute to successful postsecondary education experiences and employment for individuals who are deaf, including” for “recommendations, including” and “commission” for “Secretary”.
 
-    Subsec. (d). [Pub. L. 110–315, § 913(d)][/us/pl/110/315/s913/d], substituted “such sums as may be necessary for each of the fiscal years 2009 and 2010” for “$1,000,000 for each of the fiscal years 1999 and 2000”.
+    Subsec. (d). [Pub. L. 110–315][/us/pl/110/315], § 913(d), substituted “such sums as may be necessary for each of the fiscal years 2009 and 2010” for “$1,000,000 for each of the fiscal years 1999 and 2000”.
 
  __Effective Date__ 
 
@@ -82,25 +82,25 @@
 ----------
 ----------
 
-[/us/pl/99/371/s211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F371%2Fs211
-[/us/pl/105/244/s924]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2Fs924
+[/us/pl/99/371/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F371%2FtII
+[/us/pl/105/244/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2FtIX
 [/us/stat/112/1832]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F1832
-[/us/pl/110/315/s913]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2Fs913
+[/us/pl/110/315/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2FtIX
 [/us/stat/122/3455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3455
-[/us/pl/99/371/s211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F371%2Fs211
+[/us/pl/99/371/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F371%2FtII
 [/us/stat/100/794]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F794
-[/us/pl/102/421]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F421
+[/us/pl/102/421/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F421%2FtI
 [/us/stat/106/2151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2151
-[/us/pl/103/73/s204/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F73%2Fs204%2Fi
+[/us/pl/103/73/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F73%2FtII
 [/us/stat/107/735]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F735
-[/us/pl/105/244/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2Fs3
+[/us/pl/105/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244
 [/us/stat/112/1585]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F1585
 [/us/usc/t20/s4360a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs4360a
-[/us/pl/110/315/s913/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2Fs913%2Fa
-[/us/pl/110/315/s913/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2Fs913%2Fb
-[/us/pl/110/315/s913/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2Fs913%2Fc%2F1
-[/us/pl/110/315/s913/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2Fs913%2Fc%2F2
-[/us/pl/110/315/s913/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2Fs913%2Fd
+[/us/pl/110/315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315
+[/us/pl/110/315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315
+[/us/pl/110/315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315
+[/us/pl/110/315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315
+[/us/pl/110/315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315
 [/us/pl/105/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244
 [/us/pl/105/244/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2Fs3
 [/us/usc/t20/s1001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1001

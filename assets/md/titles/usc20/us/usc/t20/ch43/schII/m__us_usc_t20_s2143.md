@@ -33,7 +33,7 @@
 
         (3) the Librarian of Congress may not deposit into such account any funds donated to the Librarian which are not donated for the exclusive purpose of carrying out the oral history program under [section 2142 of this title][/us/usc/t20/s2142].
 
-([Pub. L. 106–380, § 4][/us/pl/106/380/s4], Oct. 27, 2000, [114 Stat. 1448][/us/stat/114/1448].)
+([Pub. L. 106–380][/us/pl/106/380], § 4, Oct. 27, 2000, [114 Stat. 1448][/us/stat/114/1448].)
 
 ----------
 
@@ -47,7 +47,7 @@
 [/us/usc/t20/s2142]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs2142
 [/us/usc/t20/s2142]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs2142
 [/us/usc/t20/s2142]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs2142
-[/us/pl/106/380/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F380%2Fs4
+[/us/pl/106/380]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F380
 [/us/stat/114/1448]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1448
 
 

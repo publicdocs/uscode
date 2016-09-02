@@ -31,11 +31,11 @@
 
         In carrying out the provisions of this subchapter, and to the extent practicable, the Secretary of Education shall (1) make use of existing offices, centers, clearinghouses, and research capabilities, (2) coordinate among the offices, centers, clearinghouses, and research capabilities in carrying out his career information responsibilities, and (3) use the career information capabilities of the Department of Education.
 
-([Pub. L. 94–482, title III, § 335][/us/pl/94/482/s335], Oct. 12, 1976, [90 Stat. 2223][/us/stat/90/2223]; [Pub. L. 96–88, title III, § 301(a)(1)][/us/pl/96/88/s301/a/1], (b)(2), title V, § 507, Oct. 17, 1979, [93 Stat. 677][/us/stat/93/677], 678, 692.)
+([Pub. L. 94–482, title III][/us/pl/94/482/tIII], § 335, Oct. 12, 1976, [90 Stat. 2223][/us/stat/90/2223]; [Pub. L. 96–88, title III][/us/pl/96/88/tIII], § 301(a)(1), (b)(2), title V, § 507, Oct. 17, 1979, [93 Stat. 677][/us/stat/93/677], 678, 692.)
 
  __Change of Name__ 
 
-    “United States International Trade Commission” substituted for “Unites States Tariff Commission” in subsec. (a)(2) pursuant to [Pub. L. 93–618, § 171(a)][/us/pl/93/618/s171/a], Jan. 3, 1975, [88 Stat. 2009][/us/stat/88/2009], which is classified to [section 2231(a) of Title 19][/us/usc/t19/s2231/a], Customs Duties.
+    “United States International Trade Commission” substituted for “Unites States Tariff Commission” in subsec. (a)(2) pursuant to [Pub. L. 93–618][/us/pl/93/618], § 171(a), Jan. 3, 1975, [88 Stat. 2009][/us/stat/88/2009], which is classified to [section 2231(a) of Title 19][/us/usc/t19/s2231/a], Customs Duties.
 
  __Transfer of Functions__ 
 
@@ -48,11 +48,11 @@
 ----------
 ----------
 
-[/us/pl/94/482/s335]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F482%2Fs335
+[/us/pl/94/482/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F482%2FtIII
 [/us/stat/90/2223]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2223
-[/us/pl/96/88/s301/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F88%2Fs301%2Fa%2F1
+[/us/pl/96/88/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F88%2FtIII
 [/us/stat/93/677]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F677
-[/us/pl/93/618/s171/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F618%2Fs171%2Fa
+[/us/pl/93/618]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F618
 [/us/stat/88/2009]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F2009
 [/us/usc/t19/s2231/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2231%2Fa
 [/us/pl/96/88]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F88

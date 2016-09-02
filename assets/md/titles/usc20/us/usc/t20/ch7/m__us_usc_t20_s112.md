@@ -17,7 +17,7 @@
 
     It shall be the duty of the proper officers in control of any school described in [section 111 of this title][/us/usc/t20/s111] to enforce the provisions of this chapter; and any such officer, school director, committee, superintendent, or teacher who shall refuse or neglect to comply with the requirements of this chapter, or shall neglect or fail to make proper provisions for the instruction required and in the manner specified by [section 111 of this title][/us/usc/t20/s111], for all pupils in each and every school under his jurisdiction, shall be removed from office, and the vacancy filled as in other cases.
 
-([May 20, 1886, ch. 362, § 2][/us/act/1886-05-20/ch362/s2], [24 Stat. 69][/us/stat/24/69].)
+([May 20, 1886, ch. 362][/us/act/1886-05-20/ch362], § 2, [24 Stat. 69][/us/stat/24/69].)
 
 ----------
 
@@ -28,7 +28,7 @@
 
 [/us/usc/t20/s111]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs111
 [/us/usc/t20/s111]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs111
-[/us/act/1886-05-20/ch362/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1886-05-20%2Fch362%2Fs2
+[/us/act/1886-05-20/ch362]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1886-05-20%2Fch362
 [/us/stat/24/69]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F24%2F69
 
 

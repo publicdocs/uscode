@@ -23,7 +23,7 @@
 
         The Secretary shall provide an update to the authorizing committees on the Secretary’s activities under subsection (a) not later than 180 days after August 14, 2008.
 
-([Pub. L. 89–329, title VIII, § 825][/us/pl/89/329/s825], as added [Pub. L. 110–315, title VIII, § 801][/us/pl/110/315/s801], Aug. 14, 2008, [122 Stat. 3412][/us/stat/122/3412]; amended [Pub. L. 111–39, title VIII, § 801(8)][/us/pl/111/39/s801/8], July 1, 2009, [123 Stat. 1956][/us/stat/123/1956].)
+([Pub. L. 89–329, title VIII][/us/pl/89/329/tVIII], § 825, as added [Pub. L. 110–315, title VIII][/us/pl/110/315/tVIII], § 801, Aug. 14, 2008, [122 Stat. 3412][/us/stat/122/3412]; amended [Pub. L. 111–39, title VIII][/us/pl/111/39/tVIII], § 801(8), July 1, 2009, [123 Stat. 1956][/us/stat/123/1956].)
 
  __Amendments__ 
 
@@ -41,10 +41,10 @@
 ----------
 
 [/us/usc/t20/s1232g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1232g
-[/us/pl/89/329/s825]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2Fs825
-[/us/pl/110/315/s801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2Fs801
+[/us/pl/89/329/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2FtVIII
+[/us/pl/110/315/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2FtVIII
 [/us/stat/122/3412]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3412
-[/us/pl/111/39/s801/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F39%2Fs801%2F8
+[/us/pl/111/39/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F39%2FtVIII
 [/us/stat/123/1956]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1956
 [/us/pl/111/39]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F39
 [/us/pl/111/39]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F39

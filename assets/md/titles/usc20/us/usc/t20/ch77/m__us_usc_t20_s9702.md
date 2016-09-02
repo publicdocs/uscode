@@ -57,13 +57,13 @@
 
         The Commission shall hold its first meeting not later than 60 days after December 4, 2003.
 
-([Pub. L. 108–159, title V, § 513][/us/pl/108/159/s513], Dec. 4, 2003, [117 Stat. 2003][/us/stat/117/2003]; [Pub. L. 111–203, title X, § 1013(d)(5)][/us/pl/111/203/s1013/d/5], (6), July 21, 2010, [124 Stat. 1971][/us/stat/124/1971].)
+([Pub. L. 108–159, title V][/us/pl/108/159/tV], § 513, Dec. 4, 2003, [117 Stat. 2003][/us/stat/117/2003]; [Pub. L. 111–203, title X][/us/pl/111/203/tX], § 1013(d)(5), (6), July 21, 2010, [124 Stat. 1971][/us/stat/124/1971].)
 
  __Amendments__ 
 
-    2010—Subsec. (c)(1)(C), (D). [Pub. L. 111–203, § 1013(d)(5)][/us/pl/111/203/s1013/d/5], added subpar. (C) and redesignated former subpar. (C) as (D).
+    2010—Subsec. (c)(1)(C), (D). [Pub. L. 111–203][/us/pl/111/203], § 1013(d)(5), added subpar. (C) and redesignated former subpar. (C) as (D).
 
-    Subsec. (d). [Pub. L. 111–203, § 1013(d)(6)][/us/pl/111/203/s1013/d/6], inserted at end “The Director of the Bureau of Consumer Financial Protection shall serve as the Vice Chairman.”
+    Subsec. (d). [Pub. L. 111–203][/us/pl/111/203], § 1013(d)(6), inserted at end “The Director of the Bureau of Consumer Financial Protection shall serve as the Vice Chairman.”
 
 ----------
 
@@ -73,11 +73,11 @@
 ----------
 
 [/us/usc/t12/s1813]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1813
-[/us/pl/108/159/s513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F159%2Fs513
+[/us/pl/108/159/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F159%2FtV
 [/us/stat/117/2003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2003
-[/us/pl/111/203/s1013/d/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1013%2Fd%2F5
+[/us/pl/111/203/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtX
 [/us/stat/124/1971]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1971
-[/us/pl/111/203/s1013/d/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1013%2Fd%2F5
-[/us/pl/111/203/s1013/d/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1013%2Fd%2F6
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
 
 

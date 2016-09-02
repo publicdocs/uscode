@@ -127,7 +127,7 @@
 
             (B) if an audit of a lender is required pursuant to [section 1078(b)(1)(U)(iii) of this title][/us/usc/t20/s1078/b/1/U/iii], the lender’s compliance with the requirements under this section shall be reported on and attested to annually by the auditor of such lender.
 
-([Pub. L. 89–329, title I, § 152][/us/pl/89/329/s152], as added [Pub. L. 110–315, title I, § 120][/us/pl/110/315/s120], Aug. 14, 2008, [122 Stat. 3119][/us/stat/122/3119].)
+([Pub. L. 89–329, title I][/us/pl/89/329/tI], § 152, as added [Pub. L. 110–315, title I][/us/pl/110/315/tI], § 120, Aug. 14, 2008, [122 Stat. 3119][/us/stat/122/3119].)
 
 ----------
 
@@ -148,8 +148,8 @@
 [/us/usc/t20/s1085/d/5/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1085%2Fd%2F5%2FD
 [/us/usc/t20/s1094/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1094%2Fe
 [/us/usc/t20/s1078/b/1/U/iii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1078%2Fb%2F1%2FU%2Fiii
-[/us/pl/89/329/s152]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2Fs152
-[/us/pl/110/315/s120]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2Fs120
+[/us/pl/89/329/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2FtI
+[/us/pl/110/315/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2FtI
 [/us/stat/122/3119]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3119
 
 

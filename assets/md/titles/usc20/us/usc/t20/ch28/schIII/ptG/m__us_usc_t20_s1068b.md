@@ -49,7 +49,7 @@
 
         The provisions of this section shall not apply to applications submitted under part D of this subchapter.
 
-([Pub. L. 89–329, title III, § 393][/us/pl/89/329/s393], formerly § 353, as added [Pub. L. 99–498, title III, § 301(a)][/us/pl/99/498/s301/a], Oct. 17, 1986, [100 Stat. 1305][/us/stat/100/1305]; renumbered § 393 and amended [Pub. L. 105–244, title III][/us/pl/105/244], §§ 301(a)(2), 308(e), Oct. 7, 1998, [112 Stat. 1636][/us/stat/112/1636], 1649.)
+([Pub. L. 89–329, title III][/us/pl/89/329/tIII], § 393, formerly § 353, as added [Pub. L. 99–498, title III][/us/pl/99/498/tIII], § 301(a), Oct. 17, 1986, [100 Stat. 1305][/us/stat/100/1305]; renumbered § 393 and amended [Pub. L. 105–244, title III][/us/pl/105/244/tIII], §§ 301(a)(2), 308(e), Oct. 7, 1998, [112 Stat. 1636][/us/stat/112/1636], 1649.)
 
  __Codification__ 
 
@@ -57,9 +57,9 @@
 
  __Amendments__ 
 
-    1998—Subsec. (a)(2). [Pub. L. 105–244, § 308(e)(1)][/us/pl/105/244/s308/e/1], substituted “Tribal Colleges and Universities” for “Native American colleges and universities”.
+    1998—Subsec. (a)(2). [Pub. L. 105–244][/us/pl/105/244], § 308(e)(1), substituted “Tribal Colleges and Universities” for “Native American colleges and universities”.
 
-    Subsec. (d). [Pub. L. 105–244, § 308(e)(2)][/us/pl/105/244/s308/e/2], added subsec. (d).
+    Subsec. (d). [Pub. L. 105–244][/us/pl/105/244], § 308(e)(2), added subsec. (d).
 
  __Effective Date of 1998 Amendment__ 
 
@@ -74,15 +74,15 @@
 
 [/us/usc/t20/s1057/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1057%2Fb
 [/us/usc/t20/s1062]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1062
-[/us/pl/89/329/s393]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2Fs393
-[/us/pl/99/498/s301/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F498%2Fs301%2Fa
+[/us/pl/89/329/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2FtIII
+[/us/pl/99/498/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F498%2FtIII
 [/us/stat/100/1305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1305
-[/us/pl/105/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244
+[/us/pl/105/244/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2FtIII
 [/us/stat/112/1636]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F1636
 [/us/usc/t20/s1068]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1068
 [/us/pl/105/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244
-[/us/pl/105/244/s308/e/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2Fs308%2Fe%2F1
-[/us/pl/105/244/s308/e/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2Fs308%2Fe%2F2
+[/us/pl/105/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244
+[/us/pl/105/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244
 [/us/pl/105/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244
 [/us/pl/105/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244
 [/us/pl/105/244/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2Fs3

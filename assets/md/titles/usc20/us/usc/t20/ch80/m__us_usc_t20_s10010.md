@@ -17,7 +17,7 @@
 
     The Secretary shall submit a report to the Committee on Education and Labor of the House of Representatives, the Committee on Health, Education, Labor, and Pensions of the Senate, and the Committees on Appropriations of the House of Representatives and of the Senate, not less than 6 months following the submission of State reports, that evaluates the information provided in the State reports under [section 10008 of this title][/us/usc/t20/s10008] and the information required by [section 10005(b)(3) of this title][/us/usc/t20/s10005/b/3] including State-by-State information.
 
-([Pub. L. 111–5, div. A, title XIV, § 14010][/us/pl/111/5/s14010], Feb. 17, 2009, [123 Stat. 285][/us/stat/123/285].)
+([Pub. L. 111–5, div. A, title XIV][/us/pl/111/5/dA/tXIV], § 14010, Feb. 17, 2009, [123 Stat. 285][/us/stat/123/285].)
 
  __Change of Name__ 
 
@@ -32,7 +32,7 @@
 
 [/us/usc/t20/s10008]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs10008
 [/us/usc/t20/s10005/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs10005%2Fb%2F3
-[/us/pl/111/5/s14010]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5%2Fs14010
+[/us/pl/111/5/dA/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5%2FdA%2FtXIV
 [/us/stat/123/285]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F285
 
 

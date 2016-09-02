@@ -179,15 +179,15 @@
 
             All of the amounts appropriated to carry out this subsection for a fiscal year shall be used for scholarships awarded under this subsection, except that the nonprofit organization receiving a contract under this subsection may use not more than one percent of such amounts for the administrative costs of the contract.
 
-([Pub. L. 89–329, title VII, § 741][/us/pl/89/329/s741], as added [Pub. L. 105–244, title VII, § 701][/us/pl/105/244/s701], Oct. 7, 1998, [112 Stat. 1796][/us/stat/112/1796]; amended [Pub. L. 110–315, title VII, § 707(a)][/us/pl/110/315/s707/a]–(e), Aug. 14, 2008, [122 Stat. 3356–3358][/us/stat/122/3356-3358].)
+([Pub. L. 89–329, title VII][/us/pl/89/329/tVII], § 741, as added [Pub. L. 105–244, title VII][/us/pl/105/244/tVII], § 701, Oct. 7, 1998, [112 Stat. 1796][/us/stat/112/1796]; amended [Pub. L. 110–315, title VII][/us/pl/110/315/tVII], § 707(a)–(e), Aug. 14, 2008, [122 Stat. 3356–3358][/us/stat/122/3356-3358].)
 
  __Prior Provisions__ 
 
     Provisions similar to this section were contained in [section 1135 of this title][/us/usc/t20/s1135], prior to repeal by [Pub. L. 105–244][/us/pl/105/244].
 
-    A prior section 1138, [Pub. L. 89–329, title XI, § 1141][/us/pl/89/329/s1141], as added [Pub. L. 102–325, title XI, § 1101][/us/pl/102/325/s1101], July 23, 1992, [106 Stat. 788][/us/stat/106/788], related to purpose to assist development of student literacy corps and student mentoring corps programs, prior to repeal by [Pub. L. 105–244, § 3][/us/pl/105/244/s3], title VII, § 702, Oct. 7, 1998, [112 Stat. 1585][/us/stat/112/1585], 1803, effective Oct. 1, 1998.
+    A prior section 1138, [Pub. L. 89–329, title XI][/us/pl/89/329/tXI], § 1141, as added [Pub. L. 102–325, title XI][/us/pl/102/325/tXI], § 1101, July 23, 1992, [106 Stat. 788][/us/stat/106/788], related to purpose to assist development of student literacy corps and student mentoring corps programs, prior to repeal by [Pub. L. 105–244][/us/pl/105/244], § 3, title VII, § 702, Oct. 7, 1998, [112 Stat. 1585][/us/stat/112/1585], 1803, effective Oct. 1, 1998.
 
-    Another prior section 1138, [Pub. L. 89–329, title XI, § 1121][/us/pl/89/329/s1121], as added [Pub. L. 99–498, title XI, § 1101][/us/pl/99/498/s1101], Oct. 17, 1986, [100 Stat. 1571][/us/stat/100/1571], related to administrative provisions, prior to the general amendment of subchapter XI of this chapter by [Pub. L. 102–325][/us/pl/102/325].
+    Another prior section 1138, [Pub. L. 89–329, title XI][/us/pl/89/329/tXI], § 1121, as added [Pub. L. 99–498, title XI][/us/pl/99/498/tXI], § 1101, Oct. 17, 1986, [100 Stat. 1571][/us/stat/100/1571], related to administrative provisions, prior to the general amendment of subchapter XI of this chapter by [Pub. L. 102–325][/us/pl/102/325].
 
     A prior [section 741 of Pub. L. 89–329][/us/pl/89/329/s741] was classified to [section 1132e of this title][/us/usc/t20/s1132e], prior to repeal by [Pub. L. 102–325][/us/pl/102/325].
 
@@ -197,7 +197,7 @@
 
  __Amendments__ 
 
-    2008—Subsec. (a)(1) to (3). [Pub. L. 110–315, § 707(a)(1)][/us/pl/110/315/s707/a/1], added pars. (1) to (3) and struck out former pars. (1) to (3) which read as follows:
+    2008—Subsec. (a)(1) to (3). [Pub. L. 110–315][/us/pl/110/315], § 707(a)(1), added pars. (1) to (3) and struck out former pars. (1) to (3) which read as follows:
 
     “(1) encouraging the reform, innovation, and improvement of postsecondary education, and providing equal educational opportunity for all;
 
@@ -205,17 +205,17 @@
 
     “(3) the establishment of institutions and programs based on the technology of communications;”
 
-    Subsec. (a)(6). [Pub. L. 110–315, § 707(a)(2)][/us/pl/110/315/s707/a/2], added par. (6) and struck out former par. (6) which read as follows: “the introduction of institutional reforms designed to expand individual opportunities for entering and reentering institutions and pursuing programs of study tailored to individual needs;”.
+    Subsec. (a)(6). [Pub. L. 110–315][/us/pl/110/315], § 707(a)(2), added par. (6) and struck out former par. (6) which read as follows: “the introduction of institutional reforms designed to expand individual opportunities for entering and reentering institutions and pursuing programs of study tailored to individual needs;”.
 
-    Subsec. (a)(9) to (13). [Pub. L. 110–315, § 707(a)(3)][/us/pl/110/315/s707/a/3]–(5), added pars. (9) to (13).
+    Subsec. (a)(9) to (13). [Pub. L. 110–315][/us/pl/110/315], § 707(a)(3)–(5), added pars. (9) to (13).
 
-    Subsec. (c). [Pub. L. 110–315, § 707(b)][/us/pl/110/315/s707/b], added subsec. (c).
+    Subsec. (c). [Pub. L. 110–315][/us/pl/110/315], § 707(b), added subsec. (c).
 
-    Subsec. (d). [Pub. L. 110–315, § 707(c)][/us/pl/110/315/s707/c], added subsec. (d).
+    Subsec. (d). [Pub. L. 110–315][/us/pl/110/315], § 707(c), added subsec. (d).
 
-    Subsec. (e). [Pub. L. 110–315, § 707(d)][/us/pl/110/315/s707/d], added subsec. (e).
+    Subsec. (e). [Pub. L. 110–315][/us/pl/110/315], § 707(d), added subsec. (e).
 
-    Subsec. (f). [Pub. L. 110–315, § 707(e)][/us/pl/110/315/s707/e], added subsec. (f).
+    Subsec. (f). [Pub. L. 110–315][/us/pl/110/315], § 707(e), added subsec. (f).
 
 ----------
 
@@ -232,20 +232,20 @@
 [/us/usc/t20/s1088]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1088
 [/us/usc/t20/s1088]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1088
 [/us/usc/t20/s1088]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1088
-[/us/pl/89/329/s741]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2Fs741
-[/us/pl/105/244/s701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2Fs701
+[/us/pl/89/329/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2FtVII
+[/us/pl/105/244/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2FtVII
 [/us/stat/112/1796]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F1796
-[/us/pl/110/315/s707/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2Fs707%2Fa
+[/us/pl/110/315/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2FtVII
 [/us/stat/122/3356-3358]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3356-3358
 [/us/usc/t20/s1135]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1135
 [/us/pl/105/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244
-[/us/pl/89/329/s1141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2Fs1141
-[/us/pl/102/325/s1101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325%2Fs1101
+[/us/pl/89/329/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2FtXI
+[/us/pl/102/325/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325%2FtXI
 [/us/stat/106/788]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F788
-[/us/pl/105/244/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2Fs3
+[/us/pl/105/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244
 [/us/stat/112/1585]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F1585
-[/us/pl/89/329/s1121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2Fs1121
-[/us/pl/99/498/s1101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F498%2Fs1101
+[/us/pl/89/329/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2FtXI
+[/us/pl/99/498/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F498%2FtXI
 [/us/stat/100/1571]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1571
 [/us/pl/102/325]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325
 [/us/pl/89/329/s741]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2Fs741
@@ -257,12 +257,12 @@
 [/us/pl/89/329/s741]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2Fs741
 [/us/usc/t20/s1132c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1132c
 [/us/pl/96/374]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F374
-[/us/pl/110/315/s707/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2Fs707%2Fa%2F1
-[/us/pl/110/315/s707/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2Fs707%2Fa%2F2
-[/us/pl/110/315/s707/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2Fs707%2Fa%2F3
-[/us/pl/110/315/s707/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2Fs707%2Fb
-[/us/pl/110/315/s707/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2Fs707%2Fc
-[/us/pl/110/315/s707/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2Fs707%2Fd
-[/us/pl/110/315/s707/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2Fs707%2Fe
+[/us/pl/110/315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315
+[/us/pl/110/315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315
+[/us/pl/110/315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315
+[/us/pl/110/315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315
+[/us/pl/110/315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315
+[/us/pl/110/315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315
+[/us/pl/110/315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315
 
 

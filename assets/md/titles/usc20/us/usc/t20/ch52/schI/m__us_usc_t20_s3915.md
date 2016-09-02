@@ -17,11 +17,11 @@
 
     The Foundation is authorized, in accordance with the provisions of this subchapter, to establish and carry out a program of graduate fellowships for the purpose of encouraging and assisting promising students to continue their education and research in mathematics, science, and engineering.
 
-([Pub. L. 98–377, title I, § 105][/us/pl/98/377/s105], as added [Pub. L. 99–159, title II, § 201][/us/pl/99/159/s201], Nov. 22, 1985, [99 Stat. 896][/us/stat/99/896].)
+([Pub. L. 98–377, title I][/us/pl/98/377/tI], § 105, as added [Pub. L. 99–159, title II][/us/pl/99/159/tII], § 201, Nov. 22, 1985, [99 Stat. 896][/us/stat/99/896].)
 
  __Prior Provisions__ 
 
-    A prior section 3915, [Pub. L. 98–377, title I, § 115][/us/pl/98/377/s115], Aug. 11, 1984, [98 Stat. 1269][/us/stat/98/1269], related to special consideration for applications meeting the needs of under­represented and underserved populations, prior to the general revision of this subchapter by [section 201 of Pub. L. 99–159][/us/pl/99/159/s201]. See [section 3919 of this title][/us/usc/t20/s3919].
+    A prior section 3915, [Pub. L. 98–377, title I][/us/pl/98/377/tI], § 115, Aug. 11, 1984, [98 Stat. 1269][/us/stat/98/1269], related to special consideration for applications meeting the needs of under­represented and underserved populations, prior to the general revision of this subchapter by [section 201 of Pub. L. 99–159][/us/pl/99/159/s201]. See [section 3919 of this title][/us/usc/t20/s3919].
 
 ----------
 
@@ -30,10 +30,10 @@
 ----------
 ----------
 
-[/us/pl/98/377/s105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F377%2Fs105
-[/us/pl/99/159/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F159%2Fs201
+[/us/pl/98/377/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F377%2FtI
+[/us/pl/99/159/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F159%2FtII
 [/us/stat/99/896]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F896
-[/us/pl/98/377/s115]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F377%2Fs115
+[/us/pl/98/377/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F377%2FtI
 [/us/stat/98/1269]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F1269
 [/us/pl/99/159/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F159%2Fs201
 [/us/usc/t20/s3919]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs3919

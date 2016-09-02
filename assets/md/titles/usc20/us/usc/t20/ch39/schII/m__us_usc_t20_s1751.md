@@ -17,7 +17,7 @@
 
     No provision of this Act shall be construed to require the assignment or transportation of students or teachers in order to overcome racial imbalance.
 
-([Pub. L. 93–380, title II, § 251][/us/pl/93/380/s251], Aug. 21, 1974, [88 Stat. 519][/us/stat/88/519].)
+([Pub. L. 93–380, title II][/us/pl/93/380/tII], § 251, Aug. 21, 1974, [88 Stat. 519][/us/stat/88/519].)
 
  __References in Text__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/pl/93/380/s251]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F380%2Fs251
+[/us/pl/93/380/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F380%2FtII
 [/us/stat/88/519]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F519
 [/us/pl/93/380]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F380
 [/us/stat/88/484]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F484

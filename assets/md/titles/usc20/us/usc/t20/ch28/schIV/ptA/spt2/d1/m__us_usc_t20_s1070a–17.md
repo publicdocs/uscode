@@ -37,15 +37,15 @@
 
         Grants for the purposes of this section shall be made only after consultation with regional and State professional associations of persons having special knowledge with respect to the needs and problems of such programs and projects.
 
-([Pub. L. 89–329, title IV, § 402G][/us/pl/89/329/s402G], as added [Pub. L. 102–325, title IV, § 402(a)(4)][/us/pl/102/325/s402/a/4], July 23, 1992, [106 Stat. 491][/us/stat/106/491]; amended [Pub. L. 105–244, title IV, § 402(f)][/us/pl/105/244/s402/f], Oct. 7, 1998, [112 Stat. 1655][/us/stat/112/1655]; [Pub. L. 110–315, title IV, § 403(g)][/us/pl/110/315/s403/g], Aug. 14, 2008, [122 Stat. 3204][/us/stat/122/3204].)
+([Pub. L. 89–329, title IV][/us/pl/89/329/tIV], § 402G, as added [Pub. L. 102–325, title IV][/us/pl/102/325/tIV], § 402(a)(4), July 23, 1992, [106 Stat. 491][/us/stat/106/491]; amended [Pub. L. 105–244, title IV][/us/pl/105/244/tIV], § 402(f), Oct. 7, 1998, [112 Stat. 1655][/us/stat/112/1655]; [Pub. L. 110–315, title IV][/us/pl/110/315/tIV], § 403(g), Aug. 14, 2008, [122 Stat. 3204][/us/stat/122/3204].)
 
  __Amendments__ 
 
     2008—Subsec. (b)(5). [Pub. L. 110–315][/us/pl/110/315] added par. (5).
 
-    1998—Subsec. (a). [Pub. L. 105–244, § 402(f)(1)][/us/pl/105/244/s402/f/1], inserted “participating in,” after “leadership personnel employed in,”.
+    1998—Subsec. (a). [Pub. L. 105–244][/us/pl/105/244], § 402(f)(1), inserted “participating in,” after “leadership personnel employed in,”.
 
-    Subsec. (b)(4). [Pub. L. 105–244, § 402(f)(2)][/us/pl/105/244/s402/f/2], added par. (4).
+    Subsec. (b)(4). [Pub. L. 105–244][/us/pl/105/244], § 402(f)(2), added par. (4).
 
  __Effective Date of 1998 Amendment__ 
 
@@ -59,16 +59,16 @@
 ----------
 
 [/us/usc/t42/s11434a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs11434a
-[/us/pl/89/329/s402G]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2Fs402G
-[/us/pl/102/325/s402/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325%2Fs402%2Fa%2F4
+[/us/pl/89/329/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2FtIV
+[/us/pl/102/325/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325%2FtIV
 [/us/stat/106/491]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F491
-[/us/pl/105/244/s402/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2Fs402%2Ff
+[/us/pl/105/244/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2FtIV
 [/us/stat/112/1655]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F1655
-[/us/pl/110/315/s403/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2Fs403%2Fg
+[/us/pl/110/315/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2FtIV
 [/us/stat/122/3204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3204
 [/us/pl/110/315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315
-[/us/pl/105/244/s402/f/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2Fs402%2Ff%2F1
-[/us/pl/105/244/s402/f/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2Fs402%2Ff%2F2
+[/us/pl/105/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244
+[/us/pl/105/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244
 [/us/pl/105/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244
 [/us/pl/105/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244
 [/us/pl/105/244/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2Fs3

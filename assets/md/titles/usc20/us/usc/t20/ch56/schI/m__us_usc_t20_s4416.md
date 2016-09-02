@@ -105,7 +105,7 @@
 
         Employees of the Institute shall receive compensation for work injuries and illnesses in accordance with chapter 81 of title 5.
 
-([Pub. L. 99–498, title XV, § 1509][/us/pl/99/498/s1509], Oct. 17, 1986, [100 Stat. 1604][/us/stat/100/1604]; [Pub. L. 100–297, title V, § 5406(a)][/us/pl/100/297/s5406/a], Apr. 28, 1988, [102 Stat. 417][/us/stat/102/417]; [Pub. L. 102–325, title XIII, § 1331(c)][/us/pl/102/325/s1331/c], July 23, 1992, [106 Stat. 806][/us/stat/106/806]; [Pub. L. 103–382, title III, § 386(a)][/us/pl/103/382/s386/a], Oct. 20, 1994, [108 Stat. 4020][/us/stat/108/4020].)
+([Pub. L. 99–498, title XV][/us/pl/99/498/tXV], § 1509, Oct. 17, 1986, [100 Stat. 1604][/us/stat/100/1604]; [Pub. L. 100–297, title V][/us/pl/100/297/tV], § 5406(a), Apr. 28, 1988, [102 Stat. 417][/us/stat/102/417]; [Pub. L. 102–325, title XIII][/us/pl/102/325/tXIII], § 1331(c), July 23, 1992, [106 Stat. 806][/us/stat/106/806]; [Pub. L. 103–382, title III][/us/pl/103/382/tIII], § 386(a), Oct. 20, 1994, [108 Stat. 4020][/us/stat/108/4020].)
 
  __References in Text__ 
 
@@ -138,13 +138,13 @@
 ----------
 ----------
 
-[/us/pl/99/498/s1509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F498%2Fs1509
+[/us/pl/99/498/tXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F498%2FtXV
 [/us/stat/100/1604]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1604
-[/us/pl/100/297/s5406/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F297%2Fs5406%2Fa
+[/us/pl/100/297/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F297%2FtV
 [/us/stat/102/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F417
-[/us/pl/102/325/s1331/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325%2Fs1331%2Fc
+[/us/pl/102/325/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325%2FtXIII
 [/us/stat/106/806]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F806
-[/us/pl/103/382/s386/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F382%2Fs386%2Fa
+[/us/pl/103/382/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F382%2FtIII
 [/us/stat/108/4020]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4020
 [/us/usc/t5/s5332]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5332
 [/us/pl/103/382]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F382

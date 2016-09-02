@@ -103,17 +103,17 @@
 
         There are authorized to be appropriated to carry out this section such sums as may be necessary for fiscal year 2009 and each of the five succeeding fiscal years.
 
-([Pub. L. 89–329, title VIII, § 824][/us/pl/89/329/s824], as added [Pub. L. 110–315, title VIII, § 801][/us/pl/110/315/s801], Aug. 14, 2008, [122 Stat. 3410][/us/stat/122/3410]; amended [Pub. L. 111–39, title VIII, § 801(7)][/us/pl/111/39/s801/7], July 1, 2009, [123 Stat. 1956][/us/stat/123/1956].)
+([Pub. L. 89–329, title VIII][/us/pl/89/329/tVIII], § 824, as added [Pub. L. 110–315, title VIII][/us/pl/110/315/tVIII], § 801, Aug. 14, 2008, [122 Stat. 3410][/us/stat/122/3410]; amended [Pub. L. 111–39, title VIII][/us/pl/111/39/tVIII], § 801(7), July 1, 2009, [123 Stat. 1956][/us/stat/123/1956].)
 
  __References in Text__ 
 
-    Section 209 of the Higher Education Hurricane Relief Act of 2005, referred to in subsec. (g)(2), is [section 209 of title IV of div. B of Pub. L. 109–148][/us/pl/109/148/s209], [119 Stat. 2808][/us/stat/119/2808], which is not classified to the Code.
+    Section 209 of the Higher Education Hurricane Relief Act of 2005, referred to in subsec. (g)(2), is [section 209 of title IV of div. B of Pub. L. 109–148][/us/pl/109/148/dB/tIV/s209], [119 Stat. 2808][/us/stat/119/2808], which is not classified to the Code.
 
  __Amendments__ 
 
-    2009—Subsec. (f)(3)(A). [Pub. L. 111–39, § 801(7)(A)][/us/pl/111/39/s801/7/A], inserted “a” after “submitting”.
+    2009—Subsec. (f)(3)(A). [Pub. L. 111–39][/us/pl/111/39], § 801(7)(A), inserted “a” after “submitting”.
 
-    Subsec. (f)(3)(C). [Pub. L. 111–39, § 801(7)(B)][/us/pl/111/39/s801/7/B], substituted “pursuing” for “pursing”.
+    Subsec. (f)(3)(C). [Pub. L. 111–39][/us/pl/111/39], § 801(7)(B), substituted “pursuing” for “pursing”.
 
  __Effective Date of 2009 Amendment__ 
 
@@ -131,15 +131,15 @@
 [/us/usc/t42/s5122/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5122%2F1
 [/us/usc/t20/s1001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1001
 [/us/usc/t42/s5122/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5122%2F2
-[/us/pl/89/329/s824]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2Fs824
-[/us/pl/110/315/s801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2Fs801
+[/us/pl/89/329/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2FtVIII
+[/us/pl/110/315/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2FtVIII
 [/us/stat/122/3410]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3410
-[/us/pl/111/39/s801/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F39%2Fs801%2F7
+[/us/pl/111/39/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F39%2FtVIII
 [/us/stat/123/1956]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1956
-[/us/pl/109/148/s209]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F148%2Fs209
+[/us/pl/109/148/dB/tIV/s209]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F148%2FdB%2FtIV%2Fs209
 [/us/stat/119/2808]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F2808
-[/us/pl/111/39/s801/7/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F39%2Fs801%2F7%2FA
-[/us/pl/111/39/s801/7/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F39%2Fs801%2F7%2FB
+[/us/pl/111/39]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F39
+[/us/pl/111/39]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F39
 [/us/pl/111/39]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F39
 [/us/pl/110/315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315
 [/us/pl/111/39/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F39%2Fs3

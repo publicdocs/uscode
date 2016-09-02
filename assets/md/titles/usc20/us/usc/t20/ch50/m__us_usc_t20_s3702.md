@@ -89,7 +89,7 @@
 
         The Administrator of the General Services Administration shall provide to the Commission on a reimbursable basis such administrative support services as the Commission may request to carry out its duties under this chapter.
 
-([Pub. L. 96–430, title II, § 203][/us/pl/96/430/s203], Oct. 10, 1980, [94 Stat. 1847][/us/stat/94/1847].)
+([Pub. L. 96–430, title II][/us/pl/96/430/tII], § 203, Oct. 10, 1980, [94 Stat. 1847][/us/stat/94/1847].)
 
 ----------
 
@@ -99,7 +99,7 @@
 ----------
 
 [/us/usc/t5/s3109/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs3109%2Fb
-[/us/pl/96/430/s203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F430%2Fs203
+[/us/pl/96/430/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F430%2FtII
 [/us/stat/94/1847]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F1847
 
 

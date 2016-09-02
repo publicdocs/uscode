@@ -31,19 +31,19 @@
 
         The Attorney General shall, where appropriate, proceed in an expeditious manner to recover the amounts expended by the United States to carry out this subchapter from the persons identified by the Attorney General as being liable for such costs.
 
-([Pub. L. 98–377, title V, § 508][/us/pl/98/377/s508], Aug. 11, 1984, [98 Stat. 1293][/us/stat/98/1293]; [Pub. L. 101–637][/us/pl/101/637], §§ 9, 14(a)(8), (b)(10), (11), (c)(5), Nov. 28, 1990, [104 Stat. 4592][/us/stat/104/4592], 4594–4596.)
+([Pub. L. 98–377, title V][/us/pl/98/377/tV], § 508, Aug. 11, 1984, [98 Stat. 1293][/us/stat/98/1293]; [Pub. L. 101–637][/us/pl/101/637], §§ 9, 14(a)(8), (b)(10), (11), (c)(5), Nov. 28, 1990, [104 Stat. 4592][/us/stat/104/4592], 4594–4596.)
 
  __Amendments__ 
 
-    1990—[Pub. L. 101–637, § 14(a)(8)][/us/pl/101/637/s14/a/8], inserted section catchline.
+    1990—[Pub. L. 101–637][/us/pl/101/637], § 14(a)(8), inserted section catchline.
 
-    Subsec. (a). [Pub. L. 101–637, § 14(b)(10)][/us/pl/101/637/s14/b/10], inserted heading.
+    Subsec. (a). [Pub. L. 101–637][/us/pl/101/637], § 14(b)(10), inserted heading.
 
-    Subsec. (a)(1). [Pub. L. 101–637, § 14(c)(5)][/us/pl/101/637/s14/c/5], substituted “section” for “sections” after “such”.
+    Subsec. (a)(1). [Pub. L. 101–637][/us/pl/101/637], § 14(c)(5), substituted “section” for “sections” after “such”.
 
-    Subsec. (a)(2). [Pub. L. 101–637, § 9][/us/pl/101/637/s9], inserted “by deposit in the Asbestos Trust Fund established by [section 4022 of this title][/us/usc/t20/s4022],” after “repay to the United States,”.
+    Subsec. (a)(2). [Pub. L. 101–637][/us/pl/101/637], § 9, inserted “by deposit in the Asbestos Trust Fund established by [section 4022 of this title][/us/usc/t20/s4022],” after “repay to the United States,”.
 
-    Subsec. (b). [Pub. L. 101–637, § 14(b)(11)][/us/pl/101/637/s14/b/11], inserted heading.
+    Subsec. (b). [Pub. L. 101–637][/us/pl/101/637], § 14(b)(11), inserted heading.
 
 ----------
 
@@ -54,15 +54,15 @@
 
 [/us/usc/t20/s4014]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs4014
 [/us/usc/t20/s4022]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs4022
-[/us/pl/98/377/s508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F377%2Fs508
+[/us/pl/98/377/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F377%2FtV
 [/us/stat/98/1293]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F1293
 [/us/pl/101/637]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F637
 [/us/stat/104/4592]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4592
-[/us/pl/101/637/s14/a/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F637%2Fs14%2Fa%2F8
-[/us/pl/101/637/s14/b/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F637%2Fs14%2Fb%2F10
-[/us/pl/101/637/s14/c/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F637%2Fs14%2Fc%2F5
-[/us/pl/101/637/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F637%2Fs9
+[/us/pl/101/637]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F637
+[/us/pl/101/637]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F637
+[/us/pl/101/637]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F637
+[/us/pl/101/637]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F637
 [/us/usc/t20/s4022]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs4022
-[/us/pl/101/637/s14/b/11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F637%2Fs14%2Fb%2F11
+[/us/pl/101/637]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F637
 
 

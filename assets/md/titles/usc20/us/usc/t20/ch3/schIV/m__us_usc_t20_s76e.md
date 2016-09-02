@@ -17,7 +17,7 @@
 
     Such objects of art as the Government or the Smithsonian Institution now possess, or such as may hereafter be acquired, may be housed or exhibited in the Gallery, with the approval of and under such regulations as the Regents and Secretary of the Smithsonian Institution may prescribe.
 
-([May 17, 1938, ch. 238, § 6][/us/act/1938-05-17/ch238/s6], [52 Stat. 401][/us/stat/52/401].)
+([May 17, 1938, ch. 238][/us/act/1938-05-17/ch238], § 6, [52 Stat. 401][/us/stat/52/401].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/act/1938-05-17/ch238/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-05-17%2Fch238%2Fs6
+[/us/act/1938-05-17/ch238]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-05-17%2Fch238
 [/us/stat/52/401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F52%2F401
 
 

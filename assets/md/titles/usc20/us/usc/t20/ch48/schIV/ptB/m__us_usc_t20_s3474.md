@@ -17,7 +17,7 @@
 
     The Secretary is authorized to prescribe such rules and regulations as the Secretary determines necessary or appropriate to administer and manage the functions of the Secretary or the Department.
 
-([Pub. L. 96–88, title IV, § 414][/us/pl/96/88/s414], Oct. 17, 1979, [93 Stat. 685][/us/stat/93/685]; [Pub. L. 99–145, title XII, § 1204(a)(5)][/us/pl/99/145/s1204/a/5], Nov. 8, 1985, [99 Stat. 720][/us/stat/99/720]; [Pub. L. 103–382, title II, § 271(d)(1)][/us/pl/103/382/s271/d/1], Oct. 20, 1994, [108 Stat. 3930][/us/stat/108/3930].)
+([Pub. L. 96–88, title IV][/us/pl/96/88/tIV], § 414, Oct. 17, 1979, [93 Stat. 685][/us/stat/93/685]; [Pub. L. 99–145, title XII][/us/pl/99/145/tXII], § 1204(a)(5), Nov. 8, 1985, [99 Stat. 720][/us/stat/99/720]; [Pub. L. 103–382, title II][/us/pl/103/382/tII], § 271(d)(1), Oct. 20, 1994, [108 Stat. 3930][/us/stat/108/3930].)
 
  __Amendments__ 
 
@@ -32,11 +32,11 @@
 ----------
 ----------
 
-[/us/pl/96/88/s414]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F88%2Fs414
+[/us/pl/96/88/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F88%2FtIV
 [/us/stat/93/685]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F685
-[/us/pl/99/145/s1204/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F145%2Fs1204%2Fa%2F5
+[/us/pl/99/145/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F145%2FtXII
 [/us/stat/99/720]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F720
-[/us/pl/103/382/s271/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F382%2Fs271%2Fd%2F1
+[/us/pl/103/382/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F382%2FtII
 [/us/stat/108/3930]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3930
 [/us/pl/103/382]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F382
 [/us/usc/t20/s1232]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1232

@@ -17,7 +17,7 @@
 
     A financial aid administrator shall be considered to be making a necessary adjustment in accordance with [section 1087tt(a) of this title][/us/usc/t20/s1087tt/a] if the administrator makes adjustments with respect to the calculation of the expected student or parent contribution (or both) of an affected individual, and adequately documents the need for the adjustment.
 
-([Pub. L. 108–76, § 4][/us/pl/108/76/s4], Aug. 18, 2003, [117 Stat. 906][/us/stat/117/906].)
+([Pub. L. 108–76][/us/pl/108/76], § 4, Aug. 18, 2003, [117 Stat. 906][/us/stat/117/906].)
 
  __Codification__ 
 
@@ -33,7 +33,7 @@
 ----------
 
 [/us/usc/t20/s1087tt/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1087tt%2Fa
-[/us/pl/108/76/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F76%2Fs4
+[/us/pl/108/76]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F76
 [/us/stat/117/906]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F906
 [/us/usc/t20/s1070]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1070
 

@@ -17,7 +17,7 @@
 
  __Amendments__ 
 
-    2004—[Pub. L. 108–446, title II, § 201(a)(1)][/us/pl/108/446/s201/a/1], Dec. 3, 2004, [118 Stat. 2799][/us/stat/118/2799], redesignated part E as F.
+    2004—[Pub. L. 108–446, title II][/us/pl/108/446/tII], § 201(a)(1), Dec. 3, 2004, [118 Stat. 2799][/us/stat/118/2799], redesignated part E as F.
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/108/446/s201/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F446%2Fs201%2Fa%2F1
+[/us/pl/108/446/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F446%2FtII
 [/us/stat/118/2799]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F2799
 
 

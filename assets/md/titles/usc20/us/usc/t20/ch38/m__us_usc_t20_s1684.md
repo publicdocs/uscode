@@ -17,7 +17,7 @@
 
     No person in the United States shall, on the ground of blindness or severely impaired vision, be denied admission in any course of study by a recipient of Federal financial assistance for any education program or activity, but nothing herein shall be construed to require any such institution to provide any special services to such person because of his blindness or visual impairment.
 
-([Pub. L. 92–318, title IX, § 904][/us/pl/92/318/s904], June 23, 1972, [86 Stat. 375][/us/stat/86/375].)
+([Pub. L. 92–318, title IX][/us/pl/92/318/tIX], § 904, June 23, 1972, [86 Stat. 375][/us/stat/86/375].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/92/318/s904]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F318%2Fs904
+[/us/pl/92/318/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F318%2FtIX
 [/us/stat/86/375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F375
 
 

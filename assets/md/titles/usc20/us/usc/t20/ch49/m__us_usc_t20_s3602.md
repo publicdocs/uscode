@@ -91,7 +91,7 @@
 
         The Task Force shall cease to exist at the end of the 180-day period beginning on the date that the authority of the Secretary to make loans under [section 3605 of this title][/us/usc/t20/s3605] has expired.
 
-([Pub. L. 96–270, § 3][/us/pl/96/270/s3], June 14, 1980, [94 Stat. 488][/us/stat/94/488].)
+([Pub. L. 96–270][/us/pl/96/270], § 3, June 14, 1980, [94 Stat. 488][/us/stat/94/488].)
 
  __References in Other Laws to GS–16, 17, or 18 Pay Rates__ 
 
@@ -107,7 +107,7 @@
 [/us/usc/t5/s5703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5703
 [/us/usc/t20/s3606]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs3606
 [/us/usc/t20/s3605]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs3605
-[/us/pl/96/270/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F270%2Fs3
+[/us/pl/96/270]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F270
 [/us/stat/94/488]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F488
 [/us/pl/101/509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F509
 [/us/usc/t5/s5376]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5376

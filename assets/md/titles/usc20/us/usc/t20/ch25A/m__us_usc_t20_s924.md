@@ -23,7 +23,7 @@
 
         The results of each annual assessment under subsection (a) of this section with respect to an individual enrolled in the defense dependents’ education system shall be made available to the sponsor of such individual, and summary results of each such annual assessment shall be made available to Members of Congress and to professional employees in the system.
 
-([Pub. L. 95–561, title XIV, § 1405][/us/pl/95/561/s1405], Nov. 1, 1978, [92 Stat. 2366][/us/stat/92/2366].)
+([Pub. L. 95–561, title XIV][/us/pl/95/561/tXIV], § 1405, Nov. 1, 1978, [92 Stat. 2366][/us/stat/92/2366].)
 
 ----------
 
@@ -32,7 +32,7 @@
 ----------
 ----------
 
-[/us/pl/95/561/s1405]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F561%2Fs1405
+[/us/pl/95/561/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F561%2FtXIV
 [/us/stat/92/2366]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2366
 
 

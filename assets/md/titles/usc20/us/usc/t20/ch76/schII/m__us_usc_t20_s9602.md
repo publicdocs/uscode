@@ -27,7 +27,7 @@
 
             (A) shall ensure that not less than 1 comprehensive center is established in each of the 10 geographic regions served by the regional educational laboratories established under section 941(h) of the Educational Research, Development, Dissemination, and Improvement Act of 1994 (as such provision existed on the day before November 5, 2002); and
 
-            (B) after meeting the requirements of subparagraph (A), shall consider, in awarding the remainder of the grants, the school-age population, proportion of economically disadvantaged students, the increased cost burdens of service delivery in areas of sparse population, and the number of schools identified for school improvement (as described in section 1116(b) of the Elementary and Secondary Education Act of 1965 ([20 U.S.C. 6316(b)][/us/usc/t20/s6316/b])  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be followed by a third closing parenthesis. </sup></sup>  in the population served by the local entity or consortium of such entities.
+            (B) after meeting the requirements of subparagraph (A), shall consider, in awarding the remainder of the grants, the school-age population, proportion of economically disadvantaged students, the increased cost burdens of service delivery in areas of sparse population, and the number of schools implementing comprehensive support and improvement activities and targeted support and improvement activities under section 1111(d) of the Elementary and Secondary Education Act of 1965 \[[20 U.S.C. 6311(d)][/us/usc/t20/s6311/d]\] in the population served by the local entity or consortium of such entities.
 
     (b) __Eligible applicants__ 
 
@@ -65,7 +65,7 @@
 
         (2) local educational agencies in the region in which high percentages or numbers of school-age children are from low-income families, as determined under section 1124(c)(1)(A) of the Elementary and Secondary Education Act of 1965 ([20 U.S.C. 6333(c)(1)(A)][/us/usc/t20/s6333/c/1/A]), including such local educational agencies in rural and urban areas; and
 
-        (3) schools in the region that have been identified for school improvement under section 1116(b) of the Elementary and Secondary Education Act of 1965 ([20 U.S.C. 6316(b)][/us/usc/t20/s6316/b]).
+        (3) schools in the region that are implementing comprehensive support and improvement activities or targeted support and improvement activities under section 1111(d) of the Elementary and Secondary Education Act of 1965 \[[20 U.S.C. 6311(d)][/us/usc/t20/s6311/d]\].
 
     (f) __Activities__ 
 
@@ -91,7 +91,7 @@
 
                 (iii) the facilitation of communication between education experts, school officials, teachers, parents, and librarians, as appropriate; and
 
-            (B) disseminating and providing information, reports, and publications that are usable for improving academic achievement, closing achievement gaps, and encouraging and sustaining school improvement (as described in section 1116(b) of the Elementary and Secondary Education Act of 1965 ([20 U.S.C. 6316(b)][/us/usc/t20/s6316/b])), to schools, educators, parents, and policymakers within the region in which the center is located; and
+            (B) disseminating and providing information, reports, and publications that are usable for improving academic achievement, closing achievement gaps,,  <sup>\[1\]</sup>  <sup><sup> 1 So in original. </sup></sup>  and particularly assisting those schools implementing comprehensive support and improvement and targeted support and improvement activities under section 1111(d) of the Elementary and Secondary Education Act of 1965 \[[20 U.S.C. 6311(d)][/us/usc/t20/s6311/d]\],,  <sup>\[1\]</sup>  to schools, educators, parents, and policymakers within the region in which the center is located; and
 
             (C) developing teacher and school leader inservice and preservice training models that illustrate best practices in the use of technology in different content areas.
 
@@ -153,15 +153,27 @@
 
         (2) A listing of the States, local educational agencies, and schools the comprehensive center assisted during the preceding year.
 
-([Pub. L. 107–279, title II, § 203][/us/pl/107/279/s203], Nov. 5, 2002, [116 Stat. 1975][/us/stat/116/1975].)
+([Pub. L. 107–279, title II][/us/pl/107/279/tII], § 203, Nov. 5, 2002, [116 Stat. 1975][/us/stat/116/1975]; [Pub. L. 114–95, title IX][/us/pl/114/95/tIX], § 9215(gg)(2), Dec. 10, 2015, [129 Stat. 2174][/us/stat/129/2174].)
 
  __References in Text__ 
 
-    The Educational Research, Development, Dissemination, and Improvement Act of 1994 (as such Act existed on the day before November 5, 2002), referred to in subsecs. (a)(2)(A) and (b)(1), is title IX of [Pub. L. 103–227][/us/pl/103/227], Mar. 31, 1994, [108 Stat. 212][/us/stat/108/212], as amended, which was classified principally to subchapter IX (§ 6001 et seq.) of chapter 68 of this title and was substantially repealed by [Pub. L. 107–279, title IV, § 403(2)][/us/pl/107/279/s403/2], Nov. 5, 2002, [116 Stat. 1985][/us/stat/116/1985]. Section 941(h) of the Act was classified to [section 6041(h) of this title][/us/usc/t20/s6041/h] prior to repeal. For complete classification of this Act to the Code, see [section 6001 of this title][/us/usc/t20/s6001] and Tables.
+    The Educational Research, Development, Dissemination, and Improvement Act of 1994 (as such Act existed on the day before November 5, 2002), referred to in subsecs. (a)(2)(A) and (b)(1), is title IX of [Pub. L. 103–227][/us/pl/103/227], Mar. 31, 1994, [108 Stat. 212][/us/stat/108/212], as amended, which was classified principally to subchapter IX (§ 6001 et seq.) of chapter 68 of this title and was substantially repealed by [Pub. L. 107–279, title IV][/us/pl/107/279/tIV], § 403(2), Nov. 5, 2002, [116 Stat. 1985][/us/stat/116/1985]. Section 941(h) of the Act was classified to [section 6041(h) of this title][/us/usc/t20/s6041/h] prior to repeal. For complete classification of this Act to the Code, see [section 6001 of this title][/us/usc/t20/s6001] and Tables.
 
-    Title XIII of the Elementary and Secondary Education Act of 1965 (as such title existed on the day before January 8, 2002), referred to in subsec. (b)(1), means title XIII of [Pub. L. 89–10][/us/pl/89/10], as added by [Pub. L. 103–382, title I, § 101][/us/pl/103/382/s101], Oct. 20, 1994, [108 Stat. 3876][/us/stat/108/3876], which was classified generally to subchapter XIII (§ 8601 et seq.) of chapter 70 of this title, prior to amendment by [Pub. L. 107–110][/us/pl/107/110]. Parts A to D of title XIII of [Pub. L. 89–10][/us/pl/89/10], were classified to parts A (§ 8621 et seq.), B (§ 8651 et seq.), C (§ 8671 et seq.), and D (§ 8701 et seq.), respectively, of subchapter XIII of chapter 70 of this title, and were redesignated as parts K to N of title IX of [Pub. L. 103–227][/us/pl/103/227], by [Pub. L. 107–110, title X][/us/pl/107/110], §§ 1021(a), 1022(a), 1023(a), 1024(a), Jan. 8, 2002, [115 Stat. 1987][/us/stat/115/1987], transferred to parts G (§ 6053 et seq.), H (§ 6054 et seq.), I (§ 6055 et seq.), and J (§ 6056 et seq.), respectively, of subchapter IX of chapter 68 of this title, and subsequently repealed by [Pub. L. 107–279, title IV, § 403(2)][/us/pl/107/279/s403/2], Nov. 5, 2002, [116 Stat. 1985][/us/stat/116/1985].
+    Title XIII of the Elementary and Secondary Education Act of 1965 (as such title existed on the day before January 8, 2002), referred to in subsec. (b)(1), means title XIII of [Pub. L. 89–10][/us/pl/89/10], as added by [Pub. L. 103–382, title I][/us/pl/103/382/tI], § 101, Oct. 20, 1994, [108 Stat. 3876][/us/stat/108/3876], which was classified generally to subchapter XIII (§ 8601 et seq.) of chapter 70 of this title, prior to amendment by [Pub. L. 107–110][/us/pl/107/110]. Parts A to D of title XIII of [Pub. L. 89–10][/us/pl/89/10], were classified to parts A (§ 8621 et seq.), B (§ 8651 et seq.), C (§ 8671 et seq.), and D (§ 8701 et seq.), respectively, of subchapter XIII of chapter 70 of this title, and were redesignated as parts K to N of title IX of [Pub. L. 103–227][/us/pl/103/227], by [Pub. L. 107–110, title X][/us/pl/107/110/tX], §§ 1021(a), 1022(a), 1023(a), 1024(a), Jan. 8, 2002, [115 Stat. 1987][/us/stat/115/1987], transferred to parts G (§ 6053 et seq.), H (§ 6054 et seq.), I (§ 6055 et seq.), and J (§ 6056 et seq.), respectively, of subchapter IX of chapter 68 of this title, and subsequently repealed by [Pub. L. 107–279, title IV][/us/pl/107/279/tIV], § 403(2), Nov. 5, 2002, [116 Stat. 1985][/us/stat/116/1985].
 
-    The Elementary and Secondary Education Act of 1965, referred to in subsecs. (e)(1) and (f)(1)(A)(i), is [Pub. L. 89–10][/us/pl/89/10], Apr. 11, 1965, [79 Stat. 27][/us/stat/79/27], as amended, which is classified generally to chapter 70 (§ 6301 et seq.) of this title. Title I of the Act is classified generally to subchapter I (§ 6301 et seq.) of chapter 70 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 6301 of this title][/us/usc/t20/s6301] and Tables.
+    The Elementary and Secondary Education Act of 1965, referred to in subsecs. (e)(1) and (f)(1)(A)(i), is [Pub. L. 89–10][/us/pl/89/10], Apr. 11, 1965, [79 Stat. 27][/us/stat/79/27], which is classified generally to chapter 70 (§ 6301 et seq.) of this title. Title I of the Act is classified generally to subchapter I (§ 6301 et seq.) of chapter 70 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 6301 of this title][/us/usc/t20/s6301] and Tables.
+
+ __Amendments__ 
+
+    2015—Subsec. (a)(2)(B). [Pub. L. 114–95][/us/pl/114/95], § 9215(gg)(2)(A), substituted “the number of schools implementing comprehensive support and improvement activities and targeted support and improvement activities under section 1111(d) of the Elementary and Secondary Education Act of 1965” for “the number of schools identified for school improvement (as described in section 1116(b) of the Elementary and Secondary Education Act of 1965 ([20 U.S.C. 6316(b)][/us/usc/t20/s6316/b])”.
+
+    Subsec. (e)(3). [Pub. L. 114–95][/us/pl/114/95], § 9215(gg)(2)(B), substituted “schools in the region that are implementing comprehensive support and improvement activities or targeted support and improvement activities under section 1111(d) of the Elementary and Secondary Education Act of 1965” for “schools in the region that have been identified for school improvement under section 1116(b) of the Elementary and Secondary Education Act of 1965 ([20 U.S.C. 6316(b)][/us/usc/t20/s6316/b])”.
+
+    Subsec. (f)(1)(B). [Pub. L. 114–95][/us/pl/114/95], § 9215(gg)(2)(C), substituted “, and particularly assisting those schools implementing comprehensive support and improvement and targeted support and improvement activities under section 1111(d) of the Elementary and Secondary Education Act of 1965,” for “and encouraging and sustaining school improvement (as described in section 1116(b) of the Elementary and Secondary Education Act of 1965 ([20 U.S.C. 6316(b)][/us/usc/t20/s6316/b]))”.
+
+ __Effective Date of 2015 Amendment__ 
+
+    Amendment by [Pub. L. 114–95][/us/pl/114/95] effective Dec. 10, 2015, except with respect to certain noncompetitive programs and competitive programs, see [section 5 of Pub. L. 114–95][/us/pl/114/95/s5], set out as a note under [section 6301 of this title][/us/usc/t20/s6301].
 
  __Termination of Advisory Boards__ 
 
@@ -174,35 +186,46 @@
 ----------
 ----------
 
-[/us/usc/t20/s6316/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs6316%2Fb
+[/us/usc/t20/s6311/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs6311%2Fd
 [/us/usc/t20/s9605]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs9605
 [/us/usc/t20/s9606]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs9606
 [/us/usc/t20/s6313/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs6313%2Fa%2F5
 [/us/usc/t20/s6301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs6301
 [/us/usc/t20/s6333/c/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs6333%2Fc%2F1%2FA
-[/us/usc/t20/s6316/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs6316%2Fb
+[/us/usc/t20/s6311/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs6311%2Fd
 [/us/usc/t20/s6301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs6301
-[/us/usc/t20/s6316/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs6316%2Fb
-[/us/pl/107/279/s203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F279%2Fs203
+[/us/usc/t20/s6311/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs6311%2Fd
+[/us/pl/107/279/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F279%2FtII
 [/us/stat/116/1975]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1975
+[/us/pl/114/95/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F95%2FtIX
+[/us/stat/129/2174]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F2174
 [/us/pl/103/227]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F227
 [/us/stat/108/212]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F212
-[/us/pl/107/279/s403/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F279%2Fs403%2F2
+[/us/pl/107/279/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F279%2FtIV
 [/us/stat/116/1985]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1985
 [/us/usc/t20/s6041/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs6041%2Fh
 [/us/usc/t20/s6001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs6001
 [/us/pl/89/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F10
-[/us/pl/103/382/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F382%2Fs101
+[/us/pl/103/382/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F382%2FtI
 [/us/stat/108/3876]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3876
 [/us/pl/107/110]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F110
 [/us/pl/89/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F10
 [/us/pl/103/227]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F227
-[/us/pl/107/110]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F110
+[/us/pl/107/110/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F110%2FtX
 [/us/stat/115/1987]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F1987
-[/us/pl/107/279/s403/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F279%2Fs403%2F2
+[/us/pl/107/279/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F279%2FtIV
 [/us/stat/116/1985]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1985
 [/us/pl/89/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F10
 [/us/stat/79/27]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F27
+[/us/usc/t20/s6301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs6301
+[/us/pl/114/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F95
+[/us/usc/t20/s6316/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs6316%2Fb
+[/us/pl/114/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F95
+[/us/usc/t20/s6316/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs6316%2Fb
+[/us/pl/114/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F95
+[/us/usc/t20/s6316/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs6316%2Fb
+[/us/pl/114/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F95
+[/us/pl/114/95/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F95%2Fs5
 [/us/usc/t20/s6301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs6301
 [/us/pl/92/463]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F463
 [/us/stat/86/770]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F770

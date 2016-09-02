@@ -43,11 +43,11 @@
 
         The regulations prescribed and issued by the Secretary of Defense under subsection (a) of this section shall become effective on such date as the Secretary of Defense shall prescribe but not later than the ninetieth day following the date of issuance of such regulations.
 
-([Pub. L. 86–91, § 4][/us/pl/86/91/s4], July 17, 1959, [73 Stat. 214][/us/stat/73/214]; [Pub. L. 89–391, § 1(a)][/us/pl/89/391/s1/a], Apr. 14, 1966, [80 Stat. 117][/us/stat/80/117].)
+([Pub. L. 86–91][/us/pl/86/91], § 4, July 17, 1959, [73 Stat. 214][/us/stat/73/214]; [Pub. L. 89–391][/us/pl/89/391], § 1(a), Apr. 14, 1966, [80 Stat. 117][/us/stat/80/117].)
 
  __Codification__ 
 
-    Section was formerly classified to [section 2352 of Title 5][/us/usc/t5/s2352] prior to the general revision and enactment of Title 5, Government Organization and Employees, by [Pub. L. 89–554, § 1][/us/pl/89/554/s1], Sept. 6, 1966, [80 Stat. 378][/us/stat/80/378].
+    Section was formerly classified to [section 2352 of Title 5][/us/usc/t5/s2352] prior to the general revision and enactment of Title 5, Government Organization and Employees, by [Pub. L. 89–554][/us/pl/89/554], § 1, Sept. 6, 1966, [80 Stat. 378][/us/stat/80/378].
 
  __Amendments__ 
 
@@ -55,7 +55,7 @@
 
  __Effective Date of 1966 Amendment__ 
 
-[Pub. L. 89–391, § 2][/us/pl/89/391/s2], Apr. 14, 1966, [80 Stat. 118][/us/stat/80/118], provided that: 
+[Pub. L. 89–391][/us/pl/89/391], § 2, Apr. 14, 1966, [80 Stat. 118][/us/stat/80/118], provided that: 
 
 > “The amendments made by the first section of this Act \[amending this section and [section 903 of this title][/us/usc/t20/s903]\] shall become effective on the first day of the first pay period which begins after the date of enactment of this Act \[Apr. 14, 1966\].”
 
@@ -66,15 +66,15 @@
 ----------
 ----------
 
-[/us/pl/86/91/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F91%2Fs4
+[/us/pl/86/91]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F91
 [/us/stat/73/214]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F73%2F214
-[/us/pl/89/391/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F391%2Fs1%2Fa
+[/us/pl/89/391]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F391
 [/us/stat/80/117]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F117
 [/us/usc/t5/s2352]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs2352
-[/us/pl/89/554/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554%2Fs1
+[/us/pl/89/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554
 [/us/stat/80/378]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F378
 [/us/pl/89/391]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F391
-[/us/pl/89/391/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F391%2Fs2
+[/us/pl/89/391]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F391
 [/us/stat/80/118]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F118
 [/us/usc/t20/s903]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs903
 

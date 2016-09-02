@@ -45,11 +45,11 @@
 
             The Secretary shall establish a cohort default rate for lenders, holders, and guaranty agencies (determined consistent with [section 1085(m) of this title][/us/usc/t20/s1085/m]), except that the rate for lenders, holders, and guaranty agencies shall not reflect any loans issued in accordance with [section 1078(j) of this title][/us/usc/t20/s1078/j]. The Secretary shall allow institutions, lenders, holders, and guaranty agencies the opportunity to correct such cohort default rate information.
 
-([Pub. L. 89–329, title IV, § 430][/us/pl/89/329/s430], as added [Pub. L. 99–498, title IV, § 402(a)][/us/pl/99/498/s402/a], Oct. 17, 1986, [100 Stat. 1397][/us/stat/100/1397]; amended [Pub. L. 102–325, title IV, § 423][/us/pl/102/325/s423], July 23, 1992, [106 Stat. 543][/us/stat/106/543]; [Pub. L. 105–244, title IV, § 426][/us/pl/105/244/s426], Oct. 7, 1998, [112 Stat. 1702][/us/stat/112/1702].)
+([Pub. L. 89–329, title IV][/us/pl/89/329/tIV], § 430, as added [Pub. L. 99–498, title IV][/us/pl/99/498/tIV], § 402(a), Oct. 17, 1986, [100 Stat. 1397][/us/stat/100/1397]; amended [Pub. L. 102–325, title IV][/us/pl/102/325/tIV], § 423, July 23, 1992, [106 Stat. 543][/us/stat/106/543]; [Pub. L. 105–244, title IV][/us/pl/105/244/tIV], § 426, Oct. 7, 1998, [112 Stat. 1702][/us/stat/112/1702].)
 
  __Prior Provisions__ 
 
-    A prior section 1080, [Pub. L. 89–329, title IV, § 430][/us/pl/89/329/s430], Nov. 8, 1965, [79 Stat. 1244][/us/stat/79/1244]; [Pub. L. 90–575, title I, § 113(b)(5)][/us/pl/90/575/s113/b/5], Oct. 16, 1968, [82 Stat. 1021][/us/stat/82/1021]; [Pub. L. 92–318, title I, § 132B(c)][/us/pl/92/318/s132B/c], June 23, 1972, [86 Stat. 262][/us/stat/86/262]; [Pub. L. 94–482, title I, § 127(a)][/us/pl/94/482/s127/a], Oct. 12, 1976, [90 Stat. 2125][/us/stat/90/2125]; [Pub. L. 95–43, § 1(a)(33)][/us/pl/95/43/s1/a/33], June 15, 1977, [91 Stat. 216][/us/stat/91/216]; [Pub. L. 96–374, title IV][/us/pl/96/374], §§ 416(a)(1), (b), 422, title XIII, § 1391(a)(1), Oct. 3, 1980, [94 Stat. 1420][/us/stat/94/1420], 1421, 1432, 1503; [Pub. L. 99–272, title XVI][/us/pl/99/272], §§ 16014(a)(2), 16022, Apr. 7, 1986, [100 Stat. 341][/us/stat/100/341], 349, related to default of student borrowers under Federal loan insurance program, prior to the general revision of this part by [Pub. L. 99–498][/us/pl/99/498].
+    A prior section 1080, [Pub. L. 89–329, title IV][/us/pl/89/329/tIV], § 430, Nov. 8, 1965, [79 Stat. 1244][/us/stat/79/1244]; [Pub. L. 90–575, title I][/us/pl/90/575/tI], § 113(b)(5), Oct. 16, 1968, [82 Stat. 1021][/us/stat/82/1021]; [Pub. L. 92–318, title I][/us/pl/92/318/tI], § 132B(c), June 23, 1972, [86 Stat. 262][/us/stat/86/262]; [Pub. L. 94–482, title I][/us/pl/94/482/tI], § 127(a), Oct. 12, 1976, [90 Stat. 2125][/us/stat/90/2125]; [Pub. L. 95–43][/us/pl/95/43], § 1(a)(33), June 15, 1977, [91 Stat. 216][/us/stat/91/216]; [Pub. L. 96–374, title IV][/us/pl/96/374/tIV], §§ 416(a)(1), (b), 422, title XIII, § 1391(a)(1), Oct. 3, 1980, [94 Stat. 1420][/us/stat/94/1420], 1421, 1432, 1503; [Pub. L. 99–272, title XVI][/us/pl/99/272/tXVI], §§ 16014(a)(2), 16022, Apr. 7, 1986, [100 Stat. 341][/us/stat/100/341], 349, related to default of student borrowers under Federal loan insurance program, prior to the general revision of this part by [Pub. L. 99–498][/us/pl/99/498].
 
  __Amendments__ 
 
@@ -63,7 +63,7 @@
 
  __Study of Fraud-Based Defenses__ 
 
-    [Pub. L. 102–325, title XIV, § 1403][/us/pl/102/325/s1403], July 23, 1992, [106 Stat. 817][/us/stat/106/817], directed Secretary of Education to conduct a study of impact of fraud-based defenses on Federal Family Education Loan Program and to submit a report to Congress on the study not later than 19 months after July 23, 1992, prior to repeal by [Pub. L. 105–332, § 6(b)(2)][/us/pl/105/332/s6/b/2], Oct. 31, 1998, [112 Stat. 3128][/us/stat/112/3128].
+    [Pub. L. 102–325, title XIV][/us/pl/102/325/tXIV], § 1403, July 23, 1992, [106 Stat. 817][/us/stat/106/817], directed Secretary of Education to conduct a study of impact of fraud-based defenses on Federal Family Education Loan Program and to submit a report to Congress on the study not later than 19 months after July 23, 1992, prior to repeal by [Pub. L. 105–332][/us/pl/105/332], § 6(b)(2), Oct. 31, 1998, [112 Stat. 3128][/us/stat/112/3128].
 
 ----------
 
@@ -78,26 +78,26 @@
 [/us/usc/t20/s1085/m]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1085%2Fm
 [/us/usc/t20/s1085/m]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1085%2Fm
 [/us/usc/t20/s1078/j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1078%2Fj
-[/us/pl/89/329/s430]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2Fs430
-[/us/pl/99/498/s402/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F498%2Fs402%2Fa
+[/us/pl/89/329/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2FtIV
+[/us/pl/99/498/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F498%2FtIV
 [/us/stat/100/1397]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1397
-[/us/pl/102/325/s423]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325%2Fs423
+[/us/pl/102/325/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325%2FtIV
 [/us/stat/106/543]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F543
-[/us/pl/105/244/s426]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2Fs426
+[/us/pl/105/244/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2FtIV
 [/us/stat/112/1702]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F1702
-[/us/pl/89/329/s430]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2Fs430
+[/us/pl/89/329/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2FtIV
 [/us/stat/79/1244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F1244
-[/us/pl/90/575/s113/b/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F575%2Fs113%2Fb%2F5
+[/us/pl/90/575/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F575%2FtI
 [/us/stat/82/1021]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F1021
-[/us/pl/92/318/s132B/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F318%2Fs132B%2Fc
+[/us/pl/92/318/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F318%2FtI
 [/us/stat/86/262]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F262
-[/us/pl/94/482/s127/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F482%2Fs127%2Fa
+[/us/pl/94/482/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F482%2FtI
 [/us/stat/90/2125]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2125
-[/us/pl/95/43/s1/a/33]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F43%2Fs1%2Fa%2F33
+[/us/pl/95/43]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F43
 [/us/stat/91/216]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F216
-[/us/pl/96/374]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F374
+[/us/pl/96/374/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F374%2FtIV
 [/us/stat/94/1420]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F1420
-[/us/pl/99/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F272
+[/us/pl/99/272/tXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F272%2FtXVI
 [/us/stat/100/341]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F341
 [/us/pl/99/498]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F498
 [/us/pl/105/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244
@@ -106,9 +106,9 @@
 [/us/pl/105/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244
 [/us/pl/105/244/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2Fs3
 [/us/usc/t20/s1001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1001
-[/us/pl/102/325/s1403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325%2Fs1403
+[/us/pl/102/325/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325%2FtXIV
 [/us/stat/106/817]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F817
-[/us/pl/105/332/s6/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F332%2Fs6%2Fb%2F2
+[/us/pl/105/332]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F332
 [/us/stat/112/3128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F3128
 
 

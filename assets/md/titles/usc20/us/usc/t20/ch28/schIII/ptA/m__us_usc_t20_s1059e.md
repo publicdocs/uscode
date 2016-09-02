@@ -195,7 +195,7 @@
 
         No Predominantly Black Institution that receives funds under this section shall concurrently receive funds under any other provision of this part, part B, or part A of subchapter V.
 
-([Pub. L. 89–329, title III, § 318][/us/pl/89/329/s318], as added [Pub. L. 110–315, title III, § 305(a)][/us/pl/110/315/s305/a], Aug. 14, 2008, [122 Stat. 3169][/us/stat/122/3169]; amended [Pub. L. 111–39, title III, § 301(2)][/us/pl/111/39/s301/2], July 1, 2009, [123 Stat. 1937][/us/stat/123/1937].)
+([Pub. L. 89–329, title III][/us/pl/89/329/tIII], § 318, as added [Pub. L. 110–315, title III][/us/pl/110/315/tIII], § 305(a), Aug. 14, 2008, [122 Stat. 3169][/us/stat/122/3169]; amended [Pub. L. 111–39, title III][/us/pl/111/39/tIII], § 301(2), July 1, 2009, [123 Stat. 1937][/us/stat/123/1937].)
 
  __References in Text__ 
 
@@ -229,10 +229,10 @@
 [/us/usc/t20/s1001/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1001%2Fa
 [/us/usc/t20/s1057/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1057%2Fc
 [/us/usc/t20/s1068b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1068b
-[/us/pl/89/329/s318]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2Fs318
-[/us/pl/110/315/s305/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2Fs305%2Fa
+[/us/pl/89/329/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2FtIII
+[/us/pl/110/315/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2FtIII
 [/us/stat/122/3169]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3169
-[/us/pl/111/39/s301/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F39%2Fs301%2F2
+[/us/pl/111/39/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F39%2FtIII
 [/us/stat/123/1937]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1937
 [/us/act/1867-03-02/ch162]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1867-03-02%2Fch162
 [/us/stat/14/438]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F14%2F438

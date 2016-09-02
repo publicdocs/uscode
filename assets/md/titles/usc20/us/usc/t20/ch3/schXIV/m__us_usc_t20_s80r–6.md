@@ -91,11 +91,11 @@
 
         There are authorized to be appropriated such sums as are necessary to carry out this section.
 
-([Pub. L. 108–184, § 8][/us/pl/108/184/s8], Dec. 16, 2003, [117 Stat. 2680][/us/stat/117/2680].)
+([Pub. L. 108–184][/us/pl/108/184], § 8, Dec. 16, 2003, [117 Stat. 2680][/us/stat/117/2680].)
 
  __Procurement for Construction__ 
 
-[Pub. L. 112–74, div. E, title III][/us/pl/112/74], Dec. 23, 2011, [125 Stat. 1033][/us/stat/125/1033], provided in part: 
+[Pub. L. 112–74, div. E, title III][/us/pl/112/74/dE/tIII], Dec. 23, 2011, [125 Stat. 1033][/us/stat/125/1033], provided in part: 
 
 > “That during fiscal year 2012 and any succeeding fiscal year, a single procurement for construction of the National Museum of African American History and Culture, as authorized under section 8 of the National Museum of African American History and Culture Act ([20 U.S.C. 80r–6][/us/usc/t20/s80r–6]), may be issued that includes the full scope of the project”.
 
@@ -108,9 +108,9 @@
 
 [/us/usc/t20/s80r–8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs80r%E2%80%938
 [/us/usc/t20/s80r–8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs80r%E2%80%938
-[/us/pl/108/184/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F184%2Fs8
+[/us/pl/108/184]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F184
 [/us/stat/117/2680]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2680
-[/us/pl/112/74]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F74
+[/us/pl/112/74/dE/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F74%2FdE%2FtIII
 [/us/stat/125/1033]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1033
 [/us/usc/t20/s80r–6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs80r%E2%80%936
 

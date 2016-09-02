@@ -15,7 +15,7 @@
 
 ## § 77b. Repealed. [Pub. L. 89–509][/us/pl/89/509], pt. I, § 5, July 19, 1966, [80 Stat. 310][/us/stat/80/310]
 
-    Section, [act Aug. 12, 1946, ch. 955, § 3][/us/act/1946-08-12/ch955/s3], [60 Stat. 998][/us/stat/60/998], directed Secretary of Smithsonian Institution to investigate and survey suitable lands and buildings for selection as a site for national air museum and to make recommendations to Congress.
+    Section, [act Aug. 12, 1946, ch. 955][/us/act/1946-08-12/ch955], § 3, [60 Stat. 998][/us/stat/60/998], directed Secretary of Smithsonian Institution to investigate and survey suitable lands and buildings for selection as a site for national air museum and to make recommendations to Congress.
 
  __Construction Plans; Location; Design; Supervision of Drawings and Specifications; Construction; Authorization and Transfer of Appropriations__ 
 
@@ -30,7 +30,7 @@
 
 [/us/pl/89/509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F509
 [/us/stat/80/310]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F310
-[/us/act/1946-08-12/ch955/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-08-12%2Fch955%2Fs3
+[/us/act/1946-08-12/ch955]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-08-12%2Fch955
 [/us/stat/60/998]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F60%2F998
 [/us/pl/85/935]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F935
 [/us/stat/72/1794]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F1794

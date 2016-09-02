@@ -83,11 +83,11 @@
 
         (5) ensuring satisfaction of family members.
 
-([Pub. L. 91–230, title VI, § 609][/us/pl/91/230/s609], as added [Pub. L. 108–446, title I, § 101][/us/pl/108/446/s101], Dec. 3, 2004, [118 Stat. 2661][/us/stat/118/2661].)
+([Pub. L. 91–230, title VI][/us/pl/91/230/tVI], § 609, as added [Pub. L. 108–446, title I][/us/pl/108/446/tI], § 101, Dec. 3, 2004, [118 Stat. 2661][/us/stat/118/2661].)
 
  __Prior Provisions__ 
 
-    A prior section 1408, [Pub. L. 91–230, title VI, § 609][/us/pl/91/230/s609], as added [Pub. L. 99–457, title II, § 202][/us/pl/99/457/s202], Oct. 8, 1986, [100 Stat. 1158][/us/stat/100/1158], related to eligibility for financial assistance, prior to the general amendment of subchapters I to IV of this chapter by [Pub. L. 105–17][/us/pl/105/17].
+    A prior section 1408, [Pub. L. 91–230, title VI][/us/pl/91/230/tVI], § 609, as added [Pub. L. 99–457, title II][/us/pl/99/457/tII], § 202, Oct. 8, 1986, [100 Stat. 1158][/us/stat/100/1158], related to eligibility for financial assistance, prior to the general amendment of subchapters I to IV of this chapter by [Pub. L. 105–17][/us/pl/105/17].
 
 ----------
 
@@ -101,11 +101,11 @@
 [/us/usc/t20/s1416/d/2/A/iii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1416%2Fd%2F2%2FA%2Fiii
 [/us/usc/t20/s1416/d/2/A/iv]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1416%2Fd%2F2%2FA%2Fiv
 [/us/usc/t20/s3486]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs3486
-[/us/pl/91/230/s609]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F230%2Fs609
-[/us/pl/108/446/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F446%2Fs101
+[/us/pl/91/230/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F230%2FtVI
+[/us/pl/108/446/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F446%2FtI
 [/us/stat/118/2661]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F2661
-[/us/pl/91/230/s609]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F230%2Fs609
-[/us/pl/99/457/s202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F457%2Fs202
+[/us/pl/91/230/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F230%2FtVI
+[/us/pl/99/457/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F457%2FtII
 [/us/stat/100/1158]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1158
 [/us/pl/105/17]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F17
 

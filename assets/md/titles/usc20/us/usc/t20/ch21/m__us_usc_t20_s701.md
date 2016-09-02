@@ -17,7 +17,7 @@
 
  __Codification__ 
 
-    Section, [Pub. L. 88–204, § 2][/us/pl/88/204/s2], Dec. 16, 1963, [77 Stat. 363][/us/stat/77/363], related to congressional findings and declaration of policy.
+    Section, [Pub. L. 88–204][/us/pl/88/204], § 2, Dec. 16, 1963, [77 Stat. 363][/us/stat/77/363], related to congressional findings and declaration of policy.
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/88/204/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F204%2Fs2
+[/us/pl/88/204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F204
 [/us/stat/77/363]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F77%2F363
 
 

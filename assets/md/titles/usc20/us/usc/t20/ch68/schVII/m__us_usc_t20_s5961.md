@@ -23,7 +23,7 @@
 
         It is the purpose of this subchapter to help local school systems achieve Goal Six  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be “Goal Seven”. </sup></sup>  of the National Education Goals, which provides that by the year 2000, every school in America will be free of drugs and violence and will offer a disciplined environment conducive to learning, by ensuring that all schools are safe and free of violence.
 
-([Pub. L. 103–227, title VII, § 701][/us/pl/103/227/s701], Mar. 31, 1994, [108 Stat. 204][/us/stat/108/204].)
+([Pub. L. 103–227, title VII][/us/pl/103/227/tVII], § 701, Mar. 31, 1994, [108 Stat. 204][/us/stat/108/204].)
 
  __References in Text__ 
 
@@ -36,7 +36,7 @@
 ----------
 ----------
 
-[/us/pl/103/227/s701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F227%2Fs701
+[/us/pl/103/227/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F227%2FtVII
 [/us/stat/108/204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F204
 [/us/pl/103/227]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F227
 [/us/stat/108/204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F204

@@ -19,7 +19,7 @@
 
     The Secretary, on a competitive basis, shall award grants to, or enter into contracts or cooperative agreements with, eligible entities to carry out 1 or more of the following objectives:
 
-        (1) To help address the needs identified in the State plan described in [section 1453(a)(2) of this title][/us/usc/t20/s1453/a/2] for highly qualified personnel, as defined in [section 1451(b) of this title][/us/usc/t20/s1451/b], to work with infants or toddlers with disabilities, or children with disabilities, consistent with the qualifications described in [section 1412(a)(14) of this title][/us/usc/t20/s1412/a/14].
+        (1) To help address the needs identified in the State plan described in [section 1453(a)(2) of this title][/us/usc/t20/s1453/a/2] for personnel, as defined in [section 1451(b) of this title][/us/usc/t20/s1451/b], who meet the applicable requirements described in [section 1412(a)(14) of this title][/us/usc/t20/s1412/a/14], to work with infants or toddlers with disabilities, or children with disabilities, consistent with the qualifications described in [section 1412(a)(14) of this title][/us/usc/t20/s1412/a/14].
 
         (2) To ensure that those personnel have the necessary skills and knowledge, derived from practices that have been determined, through scientifically based research, to be successful in serving those children.
 
@@ -27,7 +27,7 @@
 
         (4) To ensure that regular education teachers have the necessary skills and knowledge to provide instruction to students with disabilities in the regular education classroom.
 
-        (5) To ensure that all special education teachers are highly qualified.
+        (5) To ensure that all special education teachers meet the qualifications described in [section 1412(a)(14)(C) of this title][/us/usc/t20/s1412/a/14/C].
 
         (6)
 
@@ -91,9 +91,9 @@
 
                 (vii) preparing children with disabilities to participate in statewide assessments (with or without accommodations) and alternate assessments, as appropriate, and to ensure that all children with disabilities are a part of all accountability systems under the Elementary and Secondary Education Act of 1965 \[[20 U.S.C. 6301][/us/usc/t20/s6301] et seq.\]; and
 
-                (viii) working in high need elementary schools and secondary schools, including urban schools, rural schools, and schools operated by an entity described in section 7113(d)(1)(A)(ii) of the Elementary and Secondary Education Act of 1965 \[[20 U.S.C. 7423(d)(1)(A)(ii)][/us/usc/t20/s7423/d/1/A/ii]\], and schools that serve high numbers or percentages of limited English proficient children.
+                (viii) working in high need elementary schools and secondary schools, including urban schools, rural schools, and schools operated by an entity described in section 6113(d)(1)(A)(ii) of the Elementary and Secondary Education Act of 1965 \[[20 U.S.C. 7423(d)(1)(A)(ii)][/us/usc/t20/s7423/d/1/A/ii]\], and schools that serve high numbers or percentages of limited English proficient children.
 
-            (B) Developing, evaluating, and disseminating innovative models for the recruitment, induction, retention, and assessment of new, highly qualified teachers to reduce teacher shortages, especially from groups that are underrepresented in the teaching profession, including individuals with disabilities.
+            (B) Developing, evaluating, and disseminating innovative models for the recruitment, induction, retention, and assessment of new, special education teachers who meet the qualifications described in [section 1412(a)(14)(C) of this title][/us/usc/t20/s1412/a/14/C] to reduce teacher shortages, especially from groups that are underrepresented in the teaching profession, including individuals with disabilities.
 
             (C) Providing continuous personnel preparation, training, and professional development designed to provide support and ensure retention of special education and general education teachers and personnel who teach and provide related services to children with disabilities.
 
@@ -189,7 +189,7 @@
 
             (A) A proposal to prepare personnel in more than 1 low incidence disability, such as deafness and blindness.
 
-            (B) A demonstration of an effective collaboration between an eligible entity and a local educational agency that promotes recruitment and subsequent retention of highly qualified personnel to serve children with low incidence disabilities.
+            (B) A demonstration of an effective collaboration between an eligible entity and a local educational agency that promotes recruitment and subsequent retention of personnel who meet the applicable requirements described in [section 1412(a)(14) of this title][/us/usc/t20/s1412/a/14] to serve children with low incidence disabilities.
 
         (5) __Preparation in use of braille__ 
 
@@ -275,7 +275,7 @@
 
         There are authorized to be appropriated to carry out this section such sums as may be necessary for each of the fiscal years 2005 through 2010.
 
-([Pub. L. 91–230, title VI, § 662][/us/pl/91/230/s662], as added [Pub. L. 108–446, title I, § 101][/us/pl/108/446/s101], Dec. 3, 2004, [118 Stat. 2774][/us/stat/118/2774].)
+([Pub. L. 91–230, title VI][/us/pl/91/230/tVI], § 662, as added [Pub. L. 108–446, title I][/us/pl/108/446/tI], § 101, Dec. 3, 2004, [118 Stat. 2774][/us/stat/118/2774]; amended [Pub. L. 114–95, title IX][/us/pl/114/95/tIX], §§ 9214(d)(4)(C), 9215(ss)(9), Dec. 10, 2015, [129 Stat. 2165][/us/stat/129/2165], 2183.)
 
  __References in Text__ 
 
@@ -283,9 +283,25 @@
 
  __Prior Provisions__ 
 
-    A prior section 1462, [Pub. L. 91–230, title VI, § 662][/us/pl/91/230/s662], as added [Pub. L. 99–457, title III, § 317][/us/pl/99/457/s317], Oct. 8, 1986, [100 Stat. 1172][/us/stat/100/1172]; amended [Pub. L. 101–476, title VII, § 702][/us/pl/101/476/s702], Oct. 30, 1990, [104 Stat. 1141][/us/stat/104/1141], authorized appropriations, prior to repeal by [Pub. L. 105–17, title II, § 203(c)][/us/pl/105/17/s203/c], June 4, 1997, [111 Stat. 157][/us/stat/111/157], effective Oct. 1, 1997.
+    A prior section 1462, [Pub. L. 91–230, title VI][/us/pl/91/230/tVI], § 662, as added [Pub. L. 99–457, title III][/us/pl/99/457/tIII], § 317, Oct. 8, 1986, [100 Stat. 1172][/us/stat/100/1172]; amended [Pub. L. 101–476, title VII][/us/pl/101/476/tVII], § 702, Oct. 30, 1990, [104 Stat. 1141][/us/stat/104/1141], authorized appropriations, prior to repeal by [Pub. L. 105–17, title II][/us/pl/105/17/tII], § 203(c), June 4, 1997, [111 Stat. 157][/us/stat/111/157], effective Oct. 1, 1997.
 
-    A prior [section 662 of Pub. L. 91–230][/us/pl/91/230/s662], title VI, Apr. 13, 1970, [84 Stat. 188][/us/stat/84/188], eff. July 1, 1971, repealed sections 611 to 618, 621 to 624, and 871 to 880a of this title, and sections 2491 to 2494 and 2698 to 2698b of Title 42, The Public Health and Welfare, and amended [section 676 of this title][/us/usc/t20/s676], prior to repeal by [Pub. L. 98–199, § 14][/us/pl/98/199/s14], Dec. 2, 1983, [97 Stat. 1374][/us/stat/97/1374].
+    A prior [section 662 of Pub. L. 91–230][/us/pl/91/230/s662], title VI, Apr. 13, 1970, [84 Stat. 188][/us/stat/84/188], eff. July 1, 1971, repealed sections 611 to 618, 621 to 624, and 871 to 880a of this title, and sections 2491 to 2494 and 2698 to 2698b of Title 42, The Public Health and Welfare, and amended [section 676 of this title][/us/usc/t20/s676], prior to repeal by [Pub. L. 98–199][/us/pl/98/199], § 14, Dec. 2, 1983, [97 Stat. 1374][/us/stat/97/1374].
+
+ __Amendments__ 
+
+    2015—Subsec. (a)(1). [Pub. L. 114–95][/us/pl/114/95], § 9214(d)(4)(C)(i)(I), substituted “personnel, as defined in [section 1451(b) of this title][/us/usc/t20/s1451/b], who meet the applicable requirements described in [section 1412(a)(14) of this title][/us/usc/t20/s1412/a/14]” for “highly qualified personnel, as defined in [section 1451(b) of this title][/us/usc/t20/s1451/b]”.
+
+    Subsec. (a)(5). [Pub. L. 114–95][/us/pl/114/95], § 9214(d)(4)(C)(i)(II), substituted “special education teachers meet the qualifications described in [section 1412(a)(14)(C) of this title][/us/usc/t20/s1412/a/14/C]” for “special education teachers are highly qualified”.
+
+    Subsec. (b)(2)(A)(viii). [Pub. L. 114–95][/us/pl/114/95], § 9215(ss)(9), substituted “section 6113(d)(1)(A)(ii)” for “section 7113(d)(1)(A)(ii)”.
+
+    Subsec. (b)(2)(B). [Pub. L. 114–95][/us/pl/114/95], § 9214(d)(4)(C)(ii), substituted “special education teachers who meet the qualifications described in [section 1412(a)(14)(C) of this title][/us/usc/t20/s1412/a/14/C]” for “highly qualified teachers”.
+
+    Subsec. (c)(4)(B). [Pub. L. 114–95][/us/pl/114/95], § 9214(d)(4)(C)(iii), substituted “personnel who meet the applicable requirements described in [section 1412(a)(14) of this title][/us/usc/t20/s1412/a/14]” for “highly qualified personnel”.
+
+ __Effective Date of 2015 Amendment__ 
+
+    Amendment by [Pub. L. 114–95][/us/pl/114/95] effective Dec. 10, 2015, except with respect to certain noncompetitive programs and competitive programs, see [section 5 of Pub. L. 114–95][/us/pl/114/95/s5], set out as a note under [section 6301 of this title][/us/usc/t20/s6301].
 
 ----------
 
@@ -297,27 +313,47 @@
 [/us/usc/t20/s1453/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1453%2Fa%2F2
 [/us/usc/t20/s1451/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1451%2Fb
 [/us/usc/t20/s1412/a/14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1412%2Fa%2F14
+[/us/usc/t20/s1412/a/14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1412%2Fa%2F14
+[/us/usc/t20/s1412/a/14/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1412%2Fa%2F14%2FC
 [/us/usc/t20/s6301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs6301
 [/us/usc/t20/s7423/d/1/A/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs7423%2Fd%2F1%2FA%2Fii
+[/us/usc/t20/s1412/a/14/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1412%2Fa%2F14%2FC
 [/us/usc/t20/s1414/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1414%2Fd
 [/us/usc/t20/s1436]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1436
-[/us/pl/91/230/s662]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F230%2Fs662
-[/us/pl/108/446/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F446%2Fs101
+[/us/usc/t20/s1412/a/14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1412%2Fa%2F14
+[/us/pl/91/230/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F230%2FtVI
+[/us/pl/108/446/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F446%2FtI
 [/us/stat/118/2774]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F2774
+[/us/pl/114/95/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F95%2FtIX
+[/us/stat/129/2165]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F2165
 [/us/pl/89/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F10
 [/us/stat/79/27]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F27
 [/us/usc/t20/s6301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs6301
-[/us/pl/91/230/s662]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F230%2Fs662
-[/us/pl/99/457/s317]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F457%2Fs317
+[/us/pl/91/230/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F230%2FtVI
+[/us/pl/99/457/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F457%2FtIII
 [/us/stat/100/1172]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1172
-[/us/pl/101/476/s702]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F476%2Fs702
+[/us/pl/101/476/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F476%2FtVII
 [/us/stat/104/1141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1141
-[/us/pl/105/17/s203/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F17%2Fs203%2Fc
+[/us/pl/105/17/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F17%2FtII
 [/us/stat/111/157]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F157
 [/us/pl/91/230/s662]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F230%2Fs662
 [/us/stat/84/188]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F188
 [/us/usc/t20/s676]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs676
-[/us/pl/98/199/s14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F199%2Fs14
+[/us/pl/98/199]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F199
 [/us/stat/97/1374]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F1374
+[/us/pl/114/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F95
+[/us/usc/t20/s1451/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1451%2Fb
+[/us/usc/t20/s1412/a/14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1412%2Fa%2F14
+[/us/usc/t20/s1451/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1451%2Fb
+[/us/pl/114/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F95
+[/us/usc/t20/s1412/a/14/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1412%2Fa%2F14%2FC
+[/us/pl/114/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F95
+[/us/pl/114/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F95
+[/us/usc/t20/s1412/a/14/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1412%2Fa%2F14%2FC
+[/us/pl/114/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F95
+[/us/usc/t20/s1412/a/14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1412%2Fa%2F14
+[/us/pl/114/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F95
+[/us/pl/114/95/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F95%2Fs5
+[/us/usc/t20/s6301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs6301
 
 

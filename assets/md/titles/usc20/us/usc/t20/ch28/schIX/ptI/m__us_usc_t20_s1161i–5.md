@@ -39,7 +39,7 @@
 
         (3) the ways in which the State Task Force will use funds provided under this part and carry out the activities described in [section 1161i–4 of this title][/us/usc/t20/s1161i–4].
 
-([Pub. L. 89–329, title VIII, § 816][/us/pl/89/329/s816], as added [Pub. L. 110–315, title VIII, § 801][/us/pl/110/315/s801], Aug. 14, 2008, [122 Stat. 3401][/us/stat/122/3401].)
+([Pub. L. 89–329, title VIII][/us/pl/89/329/tVIII], § 816, as added [Pub. L. 110–315, title VIII][/us/pl/110/315/tVIII], § 801, Aug. 14, 2008, [122 Stat. 3401][/us/stat/122/3401].)
 
 ----------
 
@@ -50,8 +50,8 @@
 
 [/us/usc/t20/s1161i–4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1161i%E2%80%934
 [/us/usc/t20/s1161i–4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1161i%E2%80%934
-[/us/pl/89/329/s816]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2Fs816
-[/us/pl/110/315/s801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2Fs801
+[/us/pl/89/329/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2FtVIII
+[/us/pl/110/315/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2FtVIII
 [/us/stat/122/3401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3401
 
 

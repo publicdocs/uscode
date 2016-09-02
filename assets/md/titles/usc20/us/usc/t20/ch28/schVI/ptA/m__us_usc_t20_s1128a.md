@@ -57,13 +57,13 @@
 
         Each center desiring to receive a grant or contract under this section shall submit an application to the Secretary at such time, in such manner, and accompanied by such information and assurances as the Secretary may require.
 
-([Pub. L. 89–329, title VI, § 609][/us/pl/89/329/s609], as added [Pub. L. 105–244, title VI, § 601][/us/pl/105/244/s601], Oct. 7, 1998, [112 Stat. 1782][/us/stat/112/1782]; amended [Pub. L. 110–315, title VI, § 608][/us/pl/110/315/s608], Aug. 14, 2008, [122 Stat. 3338][/us/stat/122/3338].)
+([Pub. L. 89–329, title VI][/us/pl/89/329/tVI], § 609, as added [Pub. L. 105–244, title VI][/us/pl/105/244/tVI], § 601, Oct. 7, 1998, [112 Stat. 1782][/us/stat/112/1782]; amended [Pub. L. 110–315, title VI][/us/pl/110/315/tVI], § 608, Aug. 14, 2008, [122 Stat. 3338][/us/stat/122/3338].)
 
  __Prior Provisions__ 
 
     A prior [section 609 of Pub. L. 89–329][/us/pl/89/329/s609] was classified to [section 1126 of this title][/us/usc/t20/s1126], prior to the general amendment of this part by [Pub. L. 105–244][/us/pl/105/244].
 
-    Another prior [section 609 of Pub. L. 89–329][/us/pl/89/329/s609], title VI, Nov. 8, 1965, [79 Stat. 1266][/us/stat/79/1266]; [Pub. L. 92–318, title I, § 131(d)(2)(D)][/us/pl/92/318/s131/d/2/D], June 23, 1972, [86 Stat. 260][/us/stat/86/260], prohibited equipment grants for sectarian instruction or religious worship and was classified to [section 1129 of this title][/us/usc/t20/s1129], prior to the general amendment of this subchapter by [Pub. L. 96–374][/us/pl/96/374].
+    Another prior [section 609 of Pub. L. 89–329][/us/pl/89/329/s609], title VI, Nov. 8, 1965, [79 Stat. 1266][/us/stat/79/1266]; [Pub. L. 92–318, title I][/us/pl/92/318/tI], § 131(d)(2)(D), June 23, 1972, [86 Stat. 260][/us/stat/86/260], prohibited equipment grants for sectarian instruction or religious worship and was classified to [section 1129 of this title][/us/usc/t20/s1129], prior to the general amendment of this subchapter by [Pub. L. 96–374][/us/pl/96/374].
 
  __Amendments__ 
 
@@ -77,17 +77,17 @@
 ----------
 
 [/us/usc/t26/s501/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs501%2Fc%2F3
-[/us/pl/89/329/s609]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2Fs609
-[/us/pl/105/244/s601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2Fs601
+[/us/pl/89/329/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2FtVI
+[/us/pl/105/244/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2FtVI
 [/us/stat/112/1782]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F1782
-[/us/pl/110/315/s608]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2Fs608
+[/us/pl/110/315/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2FtVI
 [/us/stat/122/3338]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3338
 [/us/pl/89/329/s609]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2Fs609
 [/us/usc/t20/s1126]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1126
 [/us/pl/105/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244
 [/us/pl/89/329/s609]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2Fs609
 [/us/stat/79/1266]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F1266
-[/us/pl/92/318/s131/d/2/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F318%2Fs131%2Fd%2F2%2FD
+[/us/pl/92/318/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F318%2FtI
 [/us/stat/86/260]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F260
 [/us/usc/t20/s1129]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1129
 [/us/pl/96/374]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F374

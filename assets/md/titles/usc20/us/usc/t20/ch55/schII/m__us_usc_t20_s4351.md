@@ -39,7 +39,7 @@
 
     (7) The term “University” means Gallaudet University.
 
-([Pub. L. 99–371, title II, § 201][/us/pl/99/371/s201], formerly title IV, § 401, Aug. 4, 1986, [100 Stat. 789][/us/stat/100/789]; renumbered title II, § 201, and amended [Pub. L. 102–421, title I][/us/pl/102/421], §§ 101(b)(5), (6), 131, 151(a)(3), (b), Oct. 16, 1992, [106 Stat. 2151][/us/stat/106/2151], 2155, 2164; [Pub. L. 103–73, title II, § 204(a)][/us/pl/103/73/s204/a], Aug. 11, 1993, [107 Stat. 734][/us/stat/107/734]; [Pub. L. 105–244, title IX, § 915][/us/pl/105/244/s915], Oct. 7, 1998, [112 Stat. 1830][/us/stat/112/1830].)
+([Pub. L. 99–371, title II][/us/pl/99/371/tII], § 201, formerly title IV, § 401, Aug. 4, 1986, [100 Stat. 789][/us/stat/100/789]; renumbered title II, § 201, and amended [Pub. L. 102–421, title I][/us/pl/102/421/tI], §§ 101(b)(5), (6), 131, 151(a)(3), (b), Oct. 16, 1992, [106 Stat. 2151][/us/stat/106/2151], 2155, 2164; [Pub. L. 103–73, title II][/us/pl/103/73/tII], § 204(a), Aug. 11, 1993, [107 Stat. 734][/us/stat/107/734]; [Pub. L. 105–244, title IX][/us/pl/105/244/tIX], § 915, Oct. 7, 1998, [112 Stat. 1830][/us/stat/112/1830].)
 
  __Prior Provisions__ 
 
@@ -49,27 +49,27 @@
 
  __Amendments__ 
 
-    1998—Par. (1)(C). [Pub. L. 105–244, § 915(1)][/us/pl/105/244/s915/1], struck out “Palau (but only until the Compact of Free Association with Palau takes effect),” after “Guam,”.
+    1998—Par. (1)(C). [Pub. L. 105–244][/us/pl/105/244], § 915(1), struck out “Palau (but only until the Compact of Free Association with Palau takes effect),” after “Guam,”.
 
-    Par. (5). [Pub. L. 105–244, § 915(2)][/us/pl/105/244/s915/2], inserted “and” after “Virgin Islands,” and struck out “, and Palau (but only until the Compact of Free Association with Palau takes effect)” after “Mariana Islands”.
+    Par. (5). [Pub. L. 105–244][/us/pl/105/244], § 915(2), inserted “and” after “Virgin Islands,” and struck out “, and Palau (but only until the Compact of Free Association with Palau takes effect)” after “Mariana Islands”.
 
     1993—[Pub. L. 103–73][/us/pl/103/73] substituted “and” for “or” at end of par. (1)(B), redesignated pars. (4) and (6) to (9) as (3) to (7), respectively, and struck out former pars. (3) and (5) which defined “elementary school” and “secondary school”, respectively.
 
-    1992—Par. (1). [Pub. L. 102–421, § 131(1)][/us/pl/102/421/s131/1], added par. (1) and struck out former par. (1) which read as follows: “The term ‘Board of Trustees’ means (unless the context requires otherwise) the Board of Trustees of Gallaudet University established under [section 4303 of this title][/us/usc/t20/s4303].”
+    1992—Par. (1). [Pub. L. 102–421][/us/pl/102/421], § 131(1), added par. (1) and struck out former par. (1) which read as follows: “The term ‘Board of Trustees’ means (unless the context requires otherwise) the Board of Trustees of Gallaudet University established under [section 4303 of this title][/us/usc/t20/s4303].”
 
-    Par. (2). [Pub. L. 102–421, § 151(b)(1)][/us/pl/102/421/s151/b/1], substituted “therein” for “thereof”.
+    Par. (2). [Pub. L. 102–421][/us/pl/102/421], § 151(b)(1), substituted “therein” for “thereof”.
 
-    Par. (3). [Pub. L. 102–421, § 151(a)(3)][/us/pl/102/421/s151/a/3], (b)(2), substituted “children who are deaf or hard-of-hearing” for “deaf children”.
+    Par. (3). [Pub. L. 102–421][/us/pl/102/421], § 151(a)(3), (b)(2), substituted “children who are deaf or hard-of-hearing” for “deaf children”.
 
-    Par. (4). [Pub. L. 102–421, § 151(b)(3)][/us/pl/102/421/s151/b/3], substituted a semicolon for last comma in subpars. (A) to (E) of first sentence and “subparagraph” for “clause” in second sentence.
+    Par. (4). [Pub. L. 102–421][/us/pl/102/421], § 151(b)(3), substituted a semicolon for last comma in subpars. (A) to (E) of first sentence and “subparagraph” for “clause” in second sentence.
 
-    [Pub. L. 102–421, § 131(2)][/us/pl/102/421/s131/2], redesignated par. (5) as (4) and struck out former par. (4) which read as follows: “The term ‘Institute’ means the National Technical Institute for the Deaf.”
+    [Pub. L. 102–421][/us/pl/102/421], § 131(2), redesignated par. (5) as (4) and struck out former par. (4) which read as follows: “The term ‘Institute’ means the National Technical Institute for the Deaf.”
 
-    Pars. (5), (6). [Pub. L. 102–421, § 131(2)(B)][/us/pl/102/421/s131/2/B], redesignated pars. (6) and (7) as (5) and (6), respectively. Former par. (5) redesignated (4).
+    Pars. (5), (6). [Pub. L. 102–421][/us/pl/102/421], § 131(2)(B), redesignated pars. (6) and (7) as (5) and (6), respectively. Former par. (5) redesignated (4).
 
-    Par. (7). [Pub. L. 102–421, § 131(2)(B)][/us/pl/102/421/s131/2/B], (3), redesignated par. (8) as (7) and substituted “the Commonwealth of the Northern Mariana Islands, and Palau (but only until the Compact of Free Association with Palau takes effect).” for “the Northern Mariana Islands and the Trust Territory of the Pacific Islands.”. Former par. (7) redesignated (6).
+    Par. (7). [Pub. L. 102–421][/us/pl/102/421], § 131(2)(B), (3), redesignated par. (8) as (7) and substituted “the Commonwealth of the Northern Mariana Islands, and Palau (but only until the Compact of Free Association with Palau takes effect).” for “the Northern Mariana Islands and the Trust Territory of the Pacific Islands.”. Former par. (7) redesignated (6).
 
-    Pars. (8), (9). [Pub. L. 102–421, § 131(2)(B)][/us/pl/102/421/s131/2/B], (4), added pars. (8) and (9) and redesignated former par. (8) as (7).
+    Pars. (8), (9). [Pub. L. 102–421][/us/pl/102/421], § 131(2)(B), (4), added pars. (8) and (9) and redesignated former par. (8) as (7).
 
  __Effective Date of 1998 Amendment__ 
 
@@ -90,29 +90,29 @@
 ----------
 ----------
 
-[/us/pl/99/371/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F371%2Fs201
+[/us/pl/99/371/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F371%2FtII
 [/us/stat/100/789]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F789
-[/us/pl/102/421]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F421
+[/us/pl/102/421/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F421%2FtI
 [/us/stat/106/2151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2151
-[/us/pl/103/73/s204/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F73%2Fs204%2Fa
+[/us/pl/103/73/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F73%2FtII
 [/us/stat/107/734]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F734
-[/us/pl/105/244/s915]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2Fs915
+[/us/pl/105/244/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2FtIX
 [/us/stat/112/1830]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F1830
 [/us/pl/99/371/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F371%2Fs201
 [/us/usc/t20/s4331]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs4331
 [/us/pl/99/371]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F371
-[/us/pl/105/244/s915/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2Fs915%2F1
-[/us/pl/105/244/s915/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2Fs915%2F2
+[/us/pl/105/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244
+[/us/pl/105/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244
 [/us/pl/103/73]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F73
-[/us/pl/102/421/s131/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F421%2Fs131%2F1
+[/us/pl/102/421]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F421
 [/us/usc/t20/s4303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs4303
-[/us/pl/102/421/s151/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F421%2Fs151%2Fb%2F1
-[/us/pl/102/421/s151/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F421%2Fs151%2Fa%2F3
-[/us/pl/102/421/s151/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F421%2Fs151%2Fb%2F3
-[/us/pl/102/421/s131/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F421%2Fs131%2F2
-[/us/pl/102/421/s131/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F421%2Fs131%2F2%2FB
-[/us/pl/102/421/s131/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F421%2Fs131%2F2%2FB
-[/us/pl/102/421/s131/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F421%2Fs131%2F2%2FB
+[/us/pl/102/421]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F421
+[/us/pl/102/421]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F421
+[/us/pl/102/421]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F421
+[/us/pl/102/421]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F421
+[/us/pl/102/421]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F421
+[/us/pl/102/421]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F421
+[/us/pl/102/421]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F421
 [/us/pl/105/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244
 [/us/pl/105/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244
 [/us/pl/105/244/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2Fs3

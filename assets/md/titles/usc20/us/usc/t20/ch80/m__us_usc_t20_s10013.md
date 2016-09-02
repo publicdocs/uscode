@@ -33,9 +33,13 @@
 
     (5) the term “State” means each of the 50 States, the District of Columbia, and the Commonwealth of Puerto Rico; and
 
-    (6) any other term used that is defined in [section 7801 of this title][/us/usc/t20/s7801] shall have the meaning given the term in such section.
+    (6) any other term used that is defined in section 7801 1 of this title shall have the meaning given the term in such section.
 
-([Pub. L. 111–5, div. A, title XIV, § 14013][/us/pl/111/5/s14013], Feb. 17, 2009, [123 Stat. 286][/us/stat/123/286].)
+([Pub. L. 111–5, div. A, title XIV][/us/pl/111/5/dA/tXIV], § 14013, Feb. 17, 2009, [123 Stat. 286][/us/stat/123/286].)
+
+ __References in Text__ 
+
+    [Section 7801 of this title][/us/usc/t20/s7801], referred to in par. (6), was in the original a reference to [section 9101 of Pub. L. 89–10][/us/pl/89/10/s9101], which was renumbered section 8101 by [Pub. L. 114–95, title VIII][/us/pl/114/95/tVIII], § 8001(a)(1), Dec. 10, 2015, [129 Stat. 2089][/us/stat/129/2089].
 
 ----------
 
@@ -45,8 +49,11 @@
 ----------
 
 [/us/usc/t20/s1001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1001
-[/us/usc/t20/s7801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs7801
-[/us/pl/111/5/s14013]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5%2Fs14013
+[/us/pl/111/5/dA/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5%2FdA%2FtXIV
 [/us/stat/123/286]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F286
+[/us/usc/t20/s7801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs7801
+[/us/pl/89/10/s9101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F10%2Fs9101
+[/us/pl/114/95/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F95%2FtVIII
+[/us/stat/129/2089]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F2089
 
 

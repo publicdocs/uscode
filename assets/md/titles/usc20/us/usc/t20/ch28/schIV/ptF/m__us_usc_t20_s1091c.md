@@ -113,19 +113,19 @@
 
         (3) A dropping of such person from the rolls pursuant to [section 1161(b) of title 10][/us/usc/t10/s1161/b].
 
-([Pub. L. 89–329, title IV, § 484C][/us/pl/89/329/s484C], as added [Pub. L. 110–315, title IV, § 487][/us/pl/110/315/s487], Aug. 14, 2008, [122 Stat. 3290][/us/stat/122/3290].)
+([Pub. L. 89–329, title IV][/us/pl/89/329/tIV], § 484C, as added [Pub. L. 110–315, title IV][/us/pl/110/315/tIV], § 487, Aug. 14, 2008, [122 Stat. 3290][/us/stat/122/3290].)
 
  __Prior Provisions__ 
 
-    Prior sections 1091c to 1091f were repealed, effective Sept. 30, 1976, by [Pub. L. 94–482, title I, § 151(a)(2)][/us/pl/94/482/s151/a/2], (b), Oct. 12, 1976, [90 Stat. 2151][/us/stat/90/2151].
+    Prior sections 1091c to 1091f were repealed, effective Sept. 30, 1976, by [Pub. L. 94–482, title I][/us/pl/94/482/tI], § 151(a)(2), (b), Oct. 12, 1976, [90 Stat. 2151][/us/stat/90/2151].
 
-    Section 1091c, [Pub. L. 89–329, title V, § 504][/us/pl/89/329/s504], as added [Pub. L. 90–35, § 2(c)][/us/pl/90/35/s2/c], June 29, 1967, [81 Stat. 83][/us/stat/81/83]; amended [Pub. L. 90–575, title II, § 231(a)][/us/pl/90/575/s231/a], Oct. 16, 1968, [82 Stat. 1039][/us/stat/82/1039]; [Pub. L. 92–318, title I, § 141(a)(1)(B)][/us/pl/92/318/s141/a/1/B], (c)(1)(B), June 23, 1972, [86 Stat. 284][/us/stat/86/284], 285, authorized the Commissioner to make grants or contracts with State or local educational agencies for attracting qualified persons to the field of education.
+    Section 1091c, [Pub. L. 89–329, title V][/us/pl/89/329/tV], § 504, as added [Pub. L. 90–35][/us/pl/90/35], § 2(c), June 29, 1967, [81 Stat. 83][/us/stat/81/83]; amended [Pub. L. 90–575, title II][/us/pl/90/575/tII], § 231(a), Oct. 16, 1968, [82 Stat. 1039][/us/stat/82/1039]; [Pub. L. 92–318, title I][/us/pl/92/318/tI], § 141(a)(1)(B), (c)(1)(B), June 23, 1972, [86 Stat. 284][/us/stat/86/284], 285, authorized the Commissioner to make grants or contracts with State or local educational agencies for attracting qualified persons to the field of education.
 
-    Section 1091d, [Pub. L. 89–329, title V, § 505][/us/pl/89/329/s505], as added [Pub. L. 90–35, § 2(c)][/us/pl/90/35/s2/c], June 29, 1967, [81 Stat. 84][/us/stat/81/84], required the Commissioner to consult with the National Science Foundation and the National Foundation on the Arts and the Humanities in development and review of programs.
+    Section 1091d, [Pub. L. 89–329, title V][/us/pl/89/329/tV], § 505, as added [Pub. L. 90–35][/us/pl/90/35], § 2(c), June 29, 1967, [81 Stat. 84][/us/stat/81/84], required the Commissioner to consult with the National Science Foundation and the National Foundation on the Arts and the Humanities in development and review of programs.
 
-    Section 1091e, [Pub. L. 89–329, title V, § 506][/us/pl/89/329/s506], as added [Pub. L. 90–35, § 2(c)][/us/pl/90/35/s2/c], June 29, 1967, [81 Stat. 84][/us/stat/81/84], authorized transfer of funds for programs for education professions development.
+    Section 1091e, [Pub. L. 89–329, title V][/us/pl/89/329/tV], § 506, as added [Pub. L. 90–35][/us/pl/90/35], § 2(c), June 29, 1967, [81 Stat. 84][/us/stat/81/84], authorized transfer of funds for programs for education professions development.
 
-    Section 1091f, [Pub. L. 89–329, title V, § 507][/us/pl/89/329/s507], as added [Pub. L. 90–35, § 2(c)][/us/pl/90/35/s2/c], June 29, 1967, [81 Stat. 84][/us/stat/81/84], authorized employment of experts and consultants and set forth provisions for compensation and travel expenses.
+    Section 1091f, [Pub. L. 89–329, title V][/us/pl/89/329/tV], § 507, as added [Pub. L. 90–35][/us/pl/90/35], § 2(c), June 29, 1967, [81 Stat. 84][/us/stat/81/84], authorized employment of experts and consultants and set forth provisions for compensation and travel expenses.
 
 ----------
 
@@ -138,26 +138,26 @@
 [/us/usc/t10/s12406]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs12406
 [/us/usc/t10/s1161/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1161%2Fa
 [/us/usc/t10/s1161/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1161%2Fb
-[/us/pl/89/329/s484C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2Fs484C
-[/us/pl/110/315/s487]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2Fs487
+[/us/pl/89/329/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2FtIV
+[/us/pl/110/315/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2FtIV
 [/us/stat/122/3290]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3290
-[/us/pl/94/482/s151/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F482%2Fs151%2Fa%2F2
+[/us/pl/94/482/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F482%2FtI
 [/us/stat/90/2151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2151
-[/us/pl/89/329/s504]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2Fs504
-[/us/pl/90/35/s2/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F35%2Fs2%2Fc
+[/us/pl/89/329/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2FtV
+[/us/pl/90/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F35
 [/us/stat/81/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F83
-[/us/pl/90/575/s231/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F575%2Fs231%2Fa
+[/us/pl/90/575/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F575%2FtII
 [/us/stat/82/1039]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F1039
-[/us/pl/92/318/s141/a/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F318%2Fs141%2Fa%2F1%2FB
+[/us/pl/92/318/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F318%2FtI
 [/us/stat/86/284]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F284
-[/us/pl/89/329/s505]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2Fs505
-[/us/pl/90/35/s2/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F35%2Fs2%2Fc
+[/us/pl/89/329/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2FtV
+[/us/pl/90/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F35
 [/us/stat/81/84]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F84
-[/us/pl/89/329/s506]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2Fs506
-[/us/pl/90/35/s2/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F35%2Fs2%2Fc
+[/us/pl/89/329/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2FtV
+[/us/pl/90/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F35
 [/us/stat/81/84]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F84
-[/us/pl/89/329/s507]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2Fs507
-[/us/pl/90/35/s2/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F35%2Fs2%2Fc
+[/us/pl/89/329/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2FtV
+[/us/pl/90/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F35
 [/us/stat/81/84]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F84
 
 

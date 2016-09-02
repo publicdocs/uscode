@@ -25,7 +25,7 @@
 
     (4) The term “noninstructional time” means time set aside by the school before actual classroom instruction begins or after actual classroom instruction ends.
 
-([Pub. L. 98–377, title VIII, § 803][/us/pl/98/377/s803], Aug. 11, 1984, [98 Stat. 1303][/us/stat/98/1303].)
+([Pub. L. 98–377, title VIII][/us/pl/98/377/tVIII], § 803, Aug. 11, 1984, [98 Stat. 1303][/us/stat/98/1303].)
 
 ----------
 
@@ -34,7 +34,7 @@
 ----------
 ----------
 
-[/us/pl/98/377/s803]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F377%2Fs803
+[/us/pl/98/377/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F377%2FtVIII
 [/us/stat/98/1303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F1303
 
 

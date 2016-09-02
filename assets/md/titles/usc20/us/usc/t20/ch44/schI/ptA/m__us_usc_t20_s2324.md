@@ -183,7 +183,7 @@
 
                      effective in-service and preservice teacher and faculty education that assists career and technical education programs in—
 
-                        (aa) integrating those programs with academic content standards and student academic achievement standards, as adopted by States under [section 6311(b)(1) of this title][/us/usc/t20/s6311/b/1]; and
+                        (aa) integrating those programs with challenging State academic standards, as adopted by States under [section 6311(b)(1) of this title][/us/usc/t20/s6311/b/1]; and
 
                         (bb) coordinating technical education with industry-recognized certification requirements;
 
@@ -209,7 +209,7 @@
 
         There are authorized to be appropriated to carry out this section such sums as may be necessary for each of fiscal years 2007 through 2012.
 
-([Pub. L. 88–210, title I, § 114][/us/pl/88/210/s114], as added [Pub. L. 109–270, § 1(b)][/us/pl/109/270/s1/b], Aug. 12, 2006, [120 Stat. 702][/us/stat/120/702]; amended [Pub. L. 113–76, div. H, title III, § 307(d)][/us/pl/113/76/s307/d], Jan. 17, 2014, [128 Stat. 399][/us/stat/128/399].)
+([Pub. L. 88–210, title I][/us/pl/88/210/tI], § 114, as added [Pub. L. 109–270][/us/pl/109/270], § 1(b), Aug. 12, 2006, [120 Stat. 702][/us/stat/120/702]; amended [Pub. L. 113–76, div. H, title III][/us/pl/113/76/dH/tIII], § 307(d), Jan. 17, 2014, [128 Stat. 399][/us/stat/128/399]; [Pub. L. 114–95, title IX][/us/pl/114/95/tIX], § 9215(n)(4), Dec. 10, 2015, [129 Stat. 2169][/us/stat/129/2169].)
 
  __References in Text__ 
 
@@ -219,13 +219,19 @@
 
  __Prior Provisions__ 
 
-    A prior section 2324, [Pub. L. 88–210, title I, § 114][/us/pl/88/210/s114], as added [Pub. L. 105–332, § 1(b)][/us/pl/105/332/s1/b], Oct. 31, 1998, [112 Stat. 3089][/us/stat/112/3089], related to national activities, prior to the general amendment of this chapter by [Pub. L. 109–270][/us/pl/109/270].
+    A prior section 2324, [Pub. L. 88–210, title I][/us/pl/88/210/tI], § 114, as added [Pub. L. 105–332][/us/pl/105/332], § 1(b), Oct. 31, 1998, [112 Stat. 3089][/us/stat/112/3089], related to national activities, prior to the general amendment of this chapter by [Pub. L. 109–270][/us/pl/109/270].
 
-    Another prior section 2324, [Pub. L. 88–210, title I, § 114][/us/pl/88/210/s114], as added [Pub. L. 98–524, § 1][/us/pl/98/524/s1], Oct. 19, 1984, [98 Stat. 2449][/us/stat/98/2449]; amended [Pub. L. 101–392, title I, § 114][/us/pl/101/392/s114], Sept. 25, 1990, [104 Stat. 769][/us/stat/104/769], related to development and approval of State plans, prior to the general amendment of this chapter by [Pub. L. 105–332][/us/pl/105/332].
+    Another prior section 2324, [Pub. L. 88–210, title I][/us/pl/88/210/tI], § 114, as added [Pub. L. 98–524][/us/pl/98/524], § 1, Oct. 19, 1984, [98 Stat. 2449][/us/stat/98/2449]; amended [Pub. L. 101–392, title I][/us/pl/101/392/tI], § 114, Sept. 25, 1990, [104 Stat. 769][/us/stat/104/769], related to development and approval of State plans, prior to the general amendment of this chapter by [Pub. L. 105–332][/us/pl/105/332].
 
  __Amendments__ 
 
+    2015—Subsec. (d)(4)(A)(iii)(I)(aa). [Pub. L. 114–95][/us/pl/114/95] substituted “integrating those programs with challenging State academic standards, as adopted by States under [section 6311(b)(1) of this title][/us/usc/t20/s6311/b/1];” for “integrating those programs with academic content standards and student academic achievement standards, as adopted by States under [section 6311(b)(1) of this title][/us/usc/t20/s6311/b/1];”.
+
     2014—Subsec. (b)(1). [Pub. L. 113–76][/us/pl/113/76] substituted “Office of Career, Technical, and Adult Education” for “Office of Vocational and Adult Education”.
+
+ __Effective Date of 2015 Amendment__ 
+
+    Amendment by [Pub. L. 114–95][/us/pl/114/95] effective Dec. 10, 2015, except with respect to certain noncompetitive programs and competitive programs, see [section 5 of Pub. L. 114–95][/us/pl/114/95/s5], set out as a note under [section 6301 of this title][/us/usc/t20/s6301].
 
 ----------
 
@@ -238,26 +244,34 @@
 [/us/usc/t20/s2323]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs2323
 [/us/usc/t20/s2323/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs2323%2Fb
 [/us/usc/t20/s6311/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs6311%2Fb%2F1
-[/us/pl/88/210/s114]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F210%2Fs114
-[/us/pl/109/270/s1/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F270%2Fs1%2Fb
+[/us/pl/88/210/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F210%2FtI
+[/us/pl/109/270]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F270
 [/us/stat/120/702]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F702
-[/us/pl/113/76/s307/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F76%2Fs307%2Fd
+[/us/pl/113/76/dH/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F76%2FdH%2FtIII
 [/us/stat/128/399]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F399
+[/us/pl/114/95/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F95%2FtIX
+[/us/stat/129/2169]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F2169
 [/us/pl/92/463]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F463
 [/us/stat/86/770]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F770
 [/us/pl/109/270]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F270
 [/us/stat/120/683]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F683
 [/us/usc/t20/s2301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs2301
-[/us/pl/88/210/s114]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F210%2Fs114
-[/us/pl/105/332/s1/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F332%2Fs1%2Fb
+[/us/pl/88/210/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F210%2FtI
+[/us/pl/105/332]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F332
 [/us/stat/112/3089]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F3089
 [/us/pl/109/270]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F270
-[/us/pl/88/210/s114]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F210%2Fs114
-[/us/pl/98/524/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F524%2Fs1
+[/us/pl/88/210/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F210%2FtI
+[/us/pl/98/524]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F524
 [/us/stat/98/2449]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2449
-[/us/pl/101/392/s114]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F392%2Fs114
+[/us/pl/101/392/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F392%2FtI
 [/us/stat/104/769]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F769
 [/us/pl/105/332]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F332
+[/us/pl/114/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F95
+[/us/usc/t20/s6311/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs6311%2Fb%2F1
+[/us/usc/t20/s6311/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs6311%2Fb%2F1
 [/us/pl/113/76]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F76
+[/us/pl/114/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F95
+[/us/pl/114/95/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F95%2Fs5
+[/us/usc/t20/s6301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs6301
 
 

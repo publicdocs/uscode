@@ -29,17 +29,17 @@
 
         The Secretary shall make payments for continuing incentive grants only to States which continue to meet the requirements of [section 1070c–2(b) of this title][/us/usc/t20/s1070c–2/b].
 
-([Pub. L. 89–329, title IV, § 415B][/us/pl/89/329/s415B], as added [Pub. L. 99–498, title IV, § 401(a)][/us/pl/99/498/s401/a], Oct. 17, 1986, [100 Stat. 1333][/us/stat/100/1333]; amended [Pub. L. 105–244, title IV, § 407(a)(2)(A)][/us/pl/105/244/s407/a/2/A], (c)(2), Oct. 7, 1998, [112 Stat. 1666][/us/stat/112/1666], 1667.)
+([Pub. L. 89–329, title IV][/us/pl/89/329/tIV], § 415B, as added [Pub. L. 99–498, title IV][/us/pl/99/498/tIV], § 401(a), Oct. 17, 1986, [100 Stat. 1333][/us/stat/100/1333]; amended [Pub. L. 105–244, title IV][/us/pl/105/244/tIV], § 407(a)(2)(A), (c)(2), Oct. 7, 1998, [112 Stat. 1666][/us/stat/112/1666], 1667.)
 
  __Prior Provisions__ 
 
-    A prior section 1070c–1, [Pub. L. 89–329, title IV, § 415B][/us/pl/89/329/s415B], as added [Pub. L. 92–318, title I, § 131(b)(1)][/us/pl/92/318/s131/b/1], June 23, 1972, [86 Stat. 256][/us/stat/86/256]; amended [Pub. L. 94–482, title I, § 123(c)(2)][/us/pl/94/482/s123/c/2], Oct. 12, 1976, [90 Stat. 2094][/us/stat/90/2094]; [Pub. L. 96–374, title IV, § 404(b)][/us/pl/96/374/s404/b], title XIII, § 1391(a)(1), Oct. 3, 1980, [94 Stat. 1407][/us/stat/94/1407], 1503, related to allotment among States of amounts for grants to States for State student incentives, prior to the general revision of this part by [Pub. L. 99–498][/us/pl/99/498].
+    A prior section 1070c–1, [Pub. L. 89–329, title IV][/us/pl/89/329/tIV], § 415B, as added [Pub. L. 92–318, title I][/us/pl/92/318/tI], § 131(b)(1), June 23, 1972, [86 Stat. 256][/us/stat/86/256]; amended [Pub. L. 94–482, title I][/us/pl/94/482/tI], § 123(c)(2), Oct. 12, 1976, [90 Stat. 2094][/us/stat/90/2094]; [Pub. L. 96–374, title IV][/us/pl/96/374/tIV], § 404(b), title XIII, § 1391(a)(1), Oct. 3, 1980, [94 Stat. 1407][/us/stat/94/1407], 1503, related to allotment among States of amounts for grants to States for State student incentives, prior to the general revision of this part by [Pub. L. 99–498][/us/pl/99/498].
 
  __Amendments__ 
 
-    1998—Subsec. (a)(1). [Pub. L. 105–244, § 407(c)(2)][/us/pl/105/244/s407/c/2], inserted “and not reserved under [section 1070c(b)(2) of this title][/us/usc/t20/s1070c/b/2]” after “1070c(b)(1) of this title”.
+    1998—Subsec. (a)(1). [Pub. L. 105–244][/us/pl/105/244], § 407(c)(2), inserted “and not reserved under [section 1070c(b)(2) of this title][/us/usc/t20/s1070c/b/2]” after “1070c(b)(1) of this title”.
 
-    Subsec. (b). [Pub. L. 105–244, § 407(a)(2)(A)][/us/pl/105/244/s407/a/2/A], substituted “leveraging educational assistance partnership” for “State student grant incentive”.
+    Subsec. (b). [Pub. L. 105–244][/us/pl/105/244], § 407(a)(2)(A), substituted “leveraging educational assistance partnership” for “State student grant incentive”.
 
  __Effective Date of 1998 Amendment__ 
 
@@ -56,22 +56,22 @@
 [/us/usc/t20/s1070c/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1070c%2Fb%2F2
 [/us/usc/t20/s1070c/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1070c%2Fb%2F1
 [/us/usc/t20/s1070c–2/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1070c%E2%80%932%2Fb
-[/us/pl/89/329/s415B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2Fs415B
-[/us/pl/99/498/s401/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F498%2Fs401%2Fa
+[/us/pl/89/329/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2FtIV
+[/us/pl/99/498/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F498%2FtIV
 [/us/stat/100/1333]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1333
-[/us/pl/105/244/s407/a/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2Fs407%2Fa%2F2%2FA
+[/us/pl/105/244/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2FtIV
 [/us/stat/112/1666]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F1666
-[/us/pl/89/329/s415B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2Fs415B
-[/us/pl/92/318/s131/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F318%2Fs131%2Fb%2F1
+[/us/pl/89/329/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2FtIV
+[/us/pl/92/318/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F318%2FtI
 [/us/stat/86/256]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F256
-[/us/pl/94/482/s123/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F482%2Fs123%2Fc%2F2
+[/us/pl/94/482/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F482%2FtI
 [/us/stat/90/2094]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2094
-[/us/pl/96/374/s404/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F374%2Fs404%2Fb
+[/us/pl/96/374/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F374%2FtIV
 [/us/stat/94/1407]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F1407
 [/us/pl/99/498]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F498
-[/us/pl/105/244/s407/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2Fs407%2Fc%2F2
+[/us/pl/105/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244
 [/us/usc/t20/s1070c/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1070c%2Fb%2F2
-[/us/pl/105/244/s407/a/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2Fs407%2Fa%2F2%2FA
+[/us/pl/105/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244
 [/us/pl/105/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244
 [/us/pl/105/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244
 [/us/pl/105/244/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2Fs3

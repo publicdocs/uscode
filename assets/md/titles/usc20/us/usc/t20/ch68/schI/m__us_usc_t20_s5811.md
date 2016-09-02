@@ -17,7 +17,7 @@
 
     The purpose of this subchapter is to establish National Education Goals.
 
-([Pub. L. 103–227, title I, § 101][/us/pl/103/227/s101], Mar. 31, 1994, [108 Stat. 130][/us/stat/108/130].)
+([Pub. L. 103–227, title I][/us/pl/103/227/tI], § 101, Mar. 31, 1994, [108 Stat. 130][/us/stat/108/130].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/103/227/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F227%2Fs101
+[/us/pl/103/227/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F227%2FtI
 [/us/stat/108/130]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F130
 
 

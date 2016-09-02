@@ -39,11 +39,11 @@
 
         Notwithstanding any other provision of this chapter, the authority of the Secretary to enter into agreements, or to make payments, under this chapter shall be effective for any fiscal year only to the extent or in such amounts as are provided in appropriation Acts.
 
-([Pub. L. 96–270, § 12][/us/pl/96/270/s12], June 14, 1980, [94 Stat. 497][/us/stat/94/497].)
+([Pub. L. 96–270][/us/pl/96/270], § 12, June 14, 1980, [94 Stat. 497][/us/stat/94/497].)
 
  __References in Text__ 
 
-    [Section 1226a of this title][/us/usc/t20/s1226a], referred to in subsec. (b), was in the original a reference to section 414 of the General Education Provisions Act. Section 414 of that Act was renumbered as section 422 by [Pub. L. 103–382, title II, § 212(b)(1)][/us/pl/103/382/s212/b/1], Oct. 20, 1994, [108 Stat. 3913][/us/stat/108/3913], and is classified to [section 1226a of this title][/us/usc/t20/s1226a].
+    [Section 1226a of this title][/us/usc/t20/s1226a], referred to in subsec. (b), was in the original a reference to section 414 of the General Education Provisions Act. Section 414 of that Act was renumbered as section 422 by [Pub. L. 103–382, title II][/us/pl/103/382/tII], § 212(b)(1), Oct. 20, 1994, [108 Stat. 3913][/us/stat/108/3913], and is classified to [section 1226a of this title][/us/usc/t20/s1226a].
 
 ----------
 
@@ -54,10 +54,10 @@
 
 [/us/usc/t20/s3604]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs3604
 [/us/usc/t20/s3605]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs3605
-[/us/pl/96/270/s12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F270%2Fs12
+[/us/pl/96/270]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F270
 [/us/stat/94/497]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F497
 [/us/usc/t20/s1226a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1226a
-[/us/pl/103/382/s212/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F382%2Fs212%2Fb%2F1
+[/us/pl/103/382/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F382%2FtII
 [/us/stat/108/3913]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3913
 [/us/usc/t20/s1226a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1226a
 

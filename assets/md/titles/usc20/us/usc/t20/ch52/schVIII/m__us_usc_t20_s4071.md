@@ -63,11 +63,11 @@
 
         Nothing in this subchapter shall be construed to limit the authority of the school, its agents or employees, to maintain order and discipline on school premises, to protect the well-being of students and faculty, and to assure that attendance of students at meetings is voluntary.
 
-([Pub. L. 98–377, title VIII, § 802][/us/pl/98/377/s802], Aug. 11, 1984, [98 Stat. 1302][/us/stat/98/1302].)
+([Pub. L. 98–377, title VIII][/us/pl/98/377/tVIII], § 802, Aug. 11, 1984, [98 Stat. 1302][/us/stat/98/1302].)
 
  __Short Title__ 
 
-[Pub. L. 98–377, title VIII, § 801][/us/pl/98/377/s801], Aug. 11, 1984, [98 Stat. 1302][/us/stat/98/1302], provided that: 
+[Pub. L. 98–377, title VIII][/us/pl/98/377/tVIII], § 801, Aug. 11, 1984, [98 Stat. 1302][/us/stat/98/1302], provided that: 
 
 > “This title \[enacting this subchapter\] may be cited as ‘The Equal Access Act’.”
 
@@ -78,9 +78,9 @@
 ----------
 ----------
 
-[/us/pl/98/377/s802]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F377%2Fs802
+[/us/pl/98/377/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F377%2FtVIII
 [/us/stat/98/1302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F1302
-[/us/pl/98/377/s801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F377%2Fs801
+[/us/pl/98/377/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F377%2FtVIII
 [/us/stat/98/1302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F1302
 
 

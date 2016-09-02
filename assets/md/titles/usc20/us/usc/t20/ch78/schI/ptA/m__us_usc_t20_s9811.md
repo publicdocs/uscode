@@ -23,7 +23,7 @@
 
     (3) to develop programs for professionals in science, technology, engineering, mathematics, or critical foreign language education that lead to a master’s degree in teaching that results in teacher certification.
 
-([Pub. L. 110–69, title VI, § 6111][/us/pl/110/69/s6111], Aug. 9, 2007, [121 Stat. 626][/us/stat/121/626].)
+([Pub. L. 110–69, title VI][/us/pl/110/69/tVI], § 6111, Aug. 9, 2007, [121 Stat. 626][/us/stat/121/626].)
 
 ----------
 
@@ -32,7 +32,7 @@
 ----------
 ----------
 
-[/us/pl/110/69/s6111]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F69%2Fs6111
+[/us/pl/110/69/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F69%2FtVI
 [/us/stat/121/626]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F626
 
 

@@ -47,7 +47,7 @@
 
         (2) certifying the facts to the Attorney General who shall cause an appropriate proceeding to be brought for the enforcement of the order.
 
-([Pub. L. 90–247, title IV, § 456][/us/pl/90/247/s456], as added [Pub. L. 95–561, title XII, § 1232][/us/pl/95/561/s1232], Nov. 1, 1978, [92 Stat. 2351][/us/stat/92/2351]; amended [Pub. L. 100–297, title III, § 3501(a)][/us/pl/100/297/s3501/a], Apr. 28, 1988, [102 Stat. 355][/us/stat/102/355].)
+([Pub. L. 90–247, title IV][/us/pl/90/247/tIV], § 456, as added [Pub. L. 95–561, title XII][/us/pl/95/561/tXII], § 1232, Nov. 1, 1978, [92 Stat. 2351][/us/stat/92/2351]; amended [Pub. L. 100–297, title III][/us/pl/100/297/tIII], § 3501(a), Apr. 28, 1988, [102 Stat. 355][/us/stat/102/355].)
 
  __Amendments__ 
 
@@ -65,10 +65,10 @@
 ----------
 
 [/us/usc/t20/s1234c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1234c
-[/us/pl/90/247/s456]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F247%2Fs456
-[/us/pl/95/561/s1232]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F561%2Fs1232
+[/us/pl/90/247/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F247%2FtIV
+[/us/pl/95/561/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F561%2FtXII
 [/us/stat/92/2351]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2351
-[/us/pl/100/297/s3501/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F297%2Fs3501%2Fa
+[/us/pl/100/297/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F297%2FtIII
 [/us/stat/102/355]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F355
 [/us/pl/100/297]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F297
 [/us/usc/t20/s1234h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1234h

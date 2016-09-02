@@ -17,9 +17,9 @@
 
  __Codification__ 
 
-    [Pub. L. 110–315, title III, § 315(a)(1)][/us/pl/110/315/s315/a/1], Aug. 14, 2008, [122 Stat. 3182][/us/stat/122/3182], redesignated subpart 2 (§ 1067 et seq.) of this part as subpart 3 of this part.
+    [Pub. L. 110–315, title III][/us/pl/110/315/tIII], § 315(a)(1), Aug. 14, 2008, [122 Stat. 3182][/us/stat/122/3182], redesignated subpart 2 (§ 1067 et seq.) of this part as subpart 3 of this part.
 
-    [Pub. L. 105–244, title III, § 301(a)(5)][/us/pl/105/244/s301/a/5], Oct. 7, 1998, [112 Stat. 1636][/us/stat/112/1636], redesignated subpart 3 (§ 1135d et seq.) of part B of subchapter X of this chapter as subpart 2 of this part.
+    [Pub. L. 105–244, title III][/us/pl/105/244/tIII], § 301(a)(5), Oct. 7, 1998, [112 Stat. 1636][/us/stat/112/1636], redesignated subpart 3 (§ 1135d et seq.) of part B of subchapter X of this chapter as subpart 2 of this part.
 
 ----------
 
@@ -28,9 +28,9 @@
 ----------
 ----------
 
-[/us/pl/110/315/s315/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2Fs315%2Fa%2F1
+[/us/pl/110/315/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2FtIII
 [/us/stat/122/3182]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3182
-[/us/pl/105/244/s301/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2Fs301%2Fa%2F5
+[/us/pl/105/244/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2FtIII
 [/us/stat/112/1636]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F1636
 
 

@@ -17,7 +17,7 @@
 
  __Codification__ 
 
-    Part J of title IV of [Pub. L. 89–329][/us/pl/89/329], comprising this part, was redesignated part F of title III of [Pub. L. 89–329][/us/pl/89/329] by [Pub. L. 110–315, title III, § 316(a)(2)][/us/pl/110/315/s316/a/2], Aug. 14, 2008, [122 Stat. 3185][/us/stat/122/3185], and transferred to part F (§ 1067q) of subchapter III of this chapter.
+    Part J of title IV of [Pub. L. 89–329][/us/pl/89/329], comprising this part, was redesignated part F of title III of [Pub. L. 89–329][/us/pl/89/329] by [Pub. L. 110–315, title III][/us/pl/110/315/tIII], § 316(a)(2), Aug. 14, 2008, [122 Stat. 3185][/us/stat/122/3185], and transferred to part F (§ 1067q) of subchapter III of this chapter.
 
 ----------
 
@@ -28,7 +28,7 @@
 
 [/us/pl/89/329]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329
 [/us/pl/89/329]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329
-[/us/pl/110/315/s316/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2Fs316%2Fa%2F2
+[/us/pl/110/315/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2FtIII
 [/us/stat/122/3185]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3185
 
 

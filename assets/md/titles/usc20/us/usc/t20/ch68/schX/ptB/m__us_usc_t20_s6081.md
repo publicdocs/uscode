@@ -17,7 +17,7 @@
 
     This part may be cited as the “Pro-Children Act of 1994”.
 
-([Pub. L. 103–227, title X, § 1041][/us/pl/103/227/s1041], Mar. 31, 1994, [108 Stat. 271][/us/stat/108/271].)
+([Pub. L. 103–227, title X][/us/pl/103/227/tX], § 1041, Mar. 31, 1994, [108 Stat. 271][/us/stat/108/271].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/103/227/s1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F227%2Fs1041
+[/us/pl/103/227/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F227%2FtX
 [/us/stat/108/271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F271
 
 

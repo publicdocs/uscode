@@ -73,7 +73,7 @@
 
         The Secretary shall employ, assign, or transfer sufficient professional personnel, including judges of the Office, to ensure that all matters brought before the Office may be dealt with in a timely manner.
 
-([Pub. L. 90–247, title IV, § 451][/us/pl/90/247/s451], as added [Pub. L. 95–561, title XII, § 1232][/us/pl/95/561/s1232], Nov. 1, 1978, [92 Stat. 2346][/us/stat/92/2346]; amended [Pub. L. 100–297, title III, § 3501(a)][/us/pl/100/297/s3501/a], Apr. 28, 1988, [102 Stat. 349][/us/stat/102/349].)
+([Pub. L. 90–247, title IV][/us/pl/90/247/tIV], § 451, as added [Pub. L. 95–561, title XII][/us/pl/95/561/tXII], § 1232, Nov. 1, 1978, [92 Stat. 2346][/us/stat/92/2346]; amended [Pub. L. 100–297, title III][/us/pl/100/297/tIII], § 3501(a), Apr. 28, 1988, [102 Stat. 349][/us/stat/102/349].)
 
  __References in Text__ 
 
@@ -85,7 +85,7 @@
 
  __Effective Date of 1988 Amendment__ 
 
-[Pub. L. 100–297, title III, § 3501(b)][/us/pl/100/297/s3501/b], Apr. 28, 1988, [102 Stat. 357][/us/stat/102/357], provided that:
+[Pub. L. 100–297, title III][/us/pl/100/297/tIII], § 3501(b), Apr. 28, 1988, [102 Stat. 357][/us/stat/102/357], provided that:
 
 >     “(1) Except as provided in paragraph (2), the amendments made by this section \[enacting sections 1234f to 1234i of this title and amending this section and sections 1232d and 1234a to 1234e of this title\] shall be effective 180 days after the date of enactment of this Act \[Apr. 28, 1988\].
 
@@ -109,13 +109,13 @@
 [/us/usc/t5/s3105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs3105
 [/us/usc/t20/s1234a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1234a
 [/us/usc/t20/s1234b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1234b
-[/us/pl/90/247/s451]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F247%2Fs451
-[/us/pl/95/561/s1232]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F561%2Fs1232
+[/us/pl/90/247/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F247%2FtIV
+[/us/pl/95/561/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F561%2FtXII
 [/us/stat/92/2346]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2346
-[/us/pl/100/297/s3501/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F297%2Fs3501%2Fa
+[/us/pl/100/297/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F297%2FtIII
 [/us/stat/102/349]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F349
 [/us/pl/100/297]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F297
-[/us/pl/100/297/s3501/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F297%2Fs3501%2Fb
+[/us/pl/100/297/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F297%2FtIII
 [/us/stat/102/357]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F357
 [/us/pl/100/297]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F297
 [/us/pl/95/561/s1261]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F561%2Fs1261

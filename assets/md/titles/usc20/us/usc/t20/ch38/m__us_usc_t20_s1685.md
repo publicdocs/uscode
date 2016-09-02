@@ -17,7 +17,7 @@
 
     Nothing in this chapter shall add to or detract from any existing authority with respect to any program or activity under which Federal financial assistance is extended by way of a contract of insurance or guaranty.
 
-([Pub. L. 92–318, title IX, § 905][/us/pl/92/318/s905], June 23, 1972, [86 Stat. 375][/us/stat/86/375].)
+([Pub. L. 92–318, title IX][/us/pl/92/318/tIX], § 905, June 23, 1972, [86 Stat. 375][/us/stat/86/375].)
 
  __References in Text__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/pl/92/318/s905]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F318%2Fs905
+[/us/pl/92/318/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F318%2FtIX
 [/us/stat/86/375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F375
 [/us/pl/92/318]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F318
 [/us/usc/t20/s1681]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1681

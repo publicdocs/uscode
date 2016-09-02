@@ -27,13 +27,13 @@
 
         The cost-of-living allowances and additional compensation provided under subsection (a) of this section for any teacher shall be based on the teaching position in which he rendered services on a school-year basis, except that, if such teacher is employed in another position during any recess period between two school years, such allowances and compensation for such recess period shall be based on the position in which he is employed during such recess period.
 
-([Pub. L. 86–91, § 8][/us/pl/86/91/s8], July 17, 1959, [73 Stat. 216][/us/stat/73/216]; [Pub. L. 96–465, title II, § 2206(d)][/us/pl/96/465/s2206/d], Oct. 17, 1980, [94 Stat. 2162][/us/stat/94/2162].)
+([Pub. L. 86–91][/us/pl/86/91], § 8, July 17, 1959, [73 Stat. 216][/us/stat/73/216]; [Pub. L. 96–465, title II][/us/pl/96/465/tII], § 2206(d), Oct. 17, 1980, [94 Stat. 2162][/us/stat/94/2162].)
 
  __Codification__ 
 
-    In subsec. (a)(2), “[section 5941 of title 5][/us/usc/t5/s5941]” substituted for “section 207 of the Independent Offices Appropriation Act, 1949 ([5 U.S.C. 118h][/us/usc/t5/s118h])” on authority of [Pub. L. 89–554, § 7(b)][/us/pl/89/554/s7/b], Sept. 6, 1966, [80 Stat. 631][/us/stat/80/631], the first section of which enacted Title 5, Government Organization and Employees.
+    In subsec. (a)(2), “[section 5941 of title 5][/us/usc/t5/s5941]” substituted for “section 207 of the Independent Offices Appropriation Act, 1949 ([5 U.S.C. 118h][/us/usc/t5/s118h])” on authority of [Pub. L. 89–554][/us/pl/89/554], § 7(b), Sept. 6, 1966, [80 Stat. 631][/us/stat/80/631], the first section of which enacted Title 5, Government Organization and Employees.
 
-    Section was formerly classified to [section 2356 of Title 5][/us/usc/t5/s2356] prior to the general revision and enactment of Title 5 by [Pub. L. 89–554, § 1][/us/pl/89/554/s1], Sept. 6, 1966, [80 Stat. 378][/us/stat/80/378].
+    Section was formerly classified to [section 2356 of Title 5][/us/usc/t5/s2356] prior to the general revision and enactment of Title 5 by [Pub. L. 89–554][/us/pl/89/554], § 1, Sept. 6, 1966, [80 Stat. 378][/us/stat/80/378].
 
  __Amendments__ 
 
@@ -64,16 +64,16 @@
 
 [/us/usc/t5/s5924]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5924
 [/us/usc/t5/s5941]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5941
-[/us/pl/86/91/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F91%2Fs8
+[/us/pl/86/91]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F91
 [/us/stat/73/216]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F73%2F216
-[/us/pl/96/465/s2206/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F465%2Fs2206%2Fd
+[/us/pl/96/465/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F465%2FtII
 [/us/stat/94/2162]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2162
 [/us/usc/t5/s5941]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5941
 [/us/usc/t5/s118h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs118h
-[/us/pl/89/554/s7/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554%2Fs7%2Fb
+[/us/pl/89/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554
 [/us/stat/80/631]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F631
 [/us/usc/t5/s2356]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs2356
-[/us/pl/89/554/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554%2Fs1
+[/us/pl/89/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554
 [/us/stat/80/378]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F378
 [/us/pl/96/465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F465
 [/us/usc/t5/s5924]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5924

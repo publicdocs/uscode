@@ -27,7 +27,7 @@
 
         The Institute may not contribute to, or otherwise support, any political party or candidate for elective public office.
 
-([Pub. L. 99–498, title XV, § 1512][/us/pl/99/498/s1512], Oct. 17, 1986, [100 Stat. 1607][/us/stat/100/1607].)
+([Pub. L. 99–498, title XV][/us/pl/99/498/tXV], § 1512, Oct. 17, 1986, [100 Stat. 1607][/us/stat/100/1607].)
 
 ----------
 
@@ -36,7 +36,7 @@
 ----------
 ----------
 
-[/us/pl/99/498/s1512]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F498%2Fs1512
+[/us/pl/99/498/tXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F498%2FtXV
 [/us/stat/100/1607]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1607
 
 

@@ -135,7 +135,7 @@
 
             Subsections (a) through (d) shall not apply to this subsection.
 
-([Pub. L. 91–230, title VI, § 674][/us/pl/91/230/s674], as added [Pub. L. 108–446, title I, § 101][/us/pl/108/446/s101], Dec. 3, 2004, [118 Stat. 2792][/us/stat/118/2792].)
+([Pub. L. 91–230, title VI][/us/pl/91/230/tVI], § 674, as added [Pub. L. 108–446, title I][/us/pl/108/446/tI], § 101, Dec. 3, 2004, [118 Stat. 2792][/us/stat/118/2792].)
 
  __References in Text__ 
 
@@ -145,9 +145,9 @@
 
  __Prior Provisions__ 
 
-    A prior section 1474, [Pub. L. 91–230, title VI, § 674][/us/pl/91/230/s674], as added [Pub. L. 105–17, title I, § 101][/us/pl/105/17/s101], June 4, 1997, [111 Stat. 143][/us/stat/111/143], related to studies and evaluations, prior to the general amendment of subchapters I to IV of this chapter by [Pub. L. 108–446][/us/pl/108/446].
+    A prior section 1474, [Pub. L. 91–230, title VI][/us/pl/91/230/tVI], § 674, as added [Pub. L. 105–17, title I][/us/pl/105/17/tI], § 101, June 4, 1997, [111 Stat. 143][/us/stat/111/143], related to studies and evaluations, prior to the general amendment of subchapters I to IV of this chapter by [Pub. L. 108–446][/us/pl/108/446].
 
-    Another prior section 1474, [Pub. L. 91–230, title VI, § 674][/us/pl/91/230/s674], as added [Pub. L. 99–457, title I, § 101(a)][/us/pl/99/457/s101/a], Oct. 8, 1986, [100 Stat. 1147][/us/stat/100/1147], related to general eligibility, prior to repeal by [Pub. L. 105–17, title II, § 203(b)][/us/pl/105/17/s203/b], June 4, 1997, [111 Stat. 157][/us/stat/111/157], effective July 1, 1998.
+    Another prior section 1474, [Pub. L. 91–230, title VI][/us/pl/91/230/tVI], § 674, as added [Pub. L. 99–457, title I][/us/pl/99/457/tI], § 101(a), Oct. 8, 1986, [100 Stat. 1147][/us/stat/100/1147], related to general eligibility, prior to repeal by [Pub. L. 105–17, title II][/us/pl/105/17/tII], § 203(b), June 4, 1997, [111 Stat. 157][/us/stat/111/157], effective July 1, 1998.
 
 ----------
 
@@ -160,20 +160,20 @@
 [/us/usc/t2/s135a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs135a
 [/us/stat/46/1487]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F46%2F1487
 [/us/usc/t17/s121/d/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft17%2Fs121%2Fd%2F3
-[/us/pl/91/230/s674]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F230%2Fs674
-[/us/pl/108/446/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F446%2Fs101
+[/us/pl/91/230/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F230%2FtVI
+[/us/pl/108/446/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F446%2FtI
 [/us/stat/118/2792]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F2792
 [/us/pl/91/230]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F230
 [/us/act/1931-03-03/ch400]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1931-03-03%2Fch400
 [/us/stat/46/1487]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F46%2F1487
-[/us/pl/91/230/s674]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F230%2Fs674
-[/us/pl/105/17/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F17%2Fs101
+[/us/pl/91/230/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F230%2FtVI
+[/us/pl/105/17/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F17%2FtI
 [/us/stat/111/143]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F143
 [/us/pl/108/446]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F446
-[/us/pl/91/230/s674]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F230%2Fs674
-[/us/pl/99/457/s101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F457%2Fs101%2Fa
+[/us/pl/91/230/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F230%2FtVI
+[/us/pl/99/457/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F457%2FtI
 [/us/stat/100/1147]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1147
-[/us/pl/105/17/s203/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F17%2Fs203%2Fb
+[/us/pl/105/17/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F17%2FtII
 [/us/stat/111/157]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F157
 
 

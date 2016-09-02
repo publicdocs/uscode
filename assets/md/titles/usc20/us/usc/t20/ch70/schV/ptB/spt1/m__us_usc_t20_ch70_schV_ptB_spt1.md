@@ -11,13 +11,13 @@
 ----------
 ----------
 
-[Previous](./../../../../../../..//us/usc/t20/ch70/schV/ptB/m__us_usc_t20_ch70_schV_ptB.md) | [Next](./../../../../../../..//us/usc/t20/ch70/schV/ptB/spt1/m__us_usc_t20_s7221.md) | [Root of Title](./../../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fch70%2FschV%2FptB%2Fspt1)
+[Previous](./../../../../../../..//us/usc/t20/ch70/schV/ptB/m__us_usc_t20_s7341a.md) | [Next](./../../../../../../..//us/usc/t20/ch70/schV/ptB/spt1/m__us_usc_t20_s7345.md) | [Root of Title](./../../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fch70%2FschV%2FptB%2Fspt1)
 
-##### subpart 1—charter school programs
+##### subpart 1—small, rural school achievement program
 
 ----------
 
-[Previous](./../../../../../../..//us/usc/t20/ch70/schV/ptB/m__us_usc_t20_ch70_schV_ptB.md) | [Next](./../../../../../../..//us/usc/t20/ch70/schV/ptB/spt1/m__us_usc_t20_s7221.md) | [Root of Title](./../../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fch70%2FschV%2FptB%2Fspt1)
+[Previous](./../../../../../../..//us/usc/t20/ch70/schV/ptB/m__us_usc_t20_s7341a.md) | [Next](./../../../../../../..//us/usc/t20/ch70/schV/ptB/spt1/m__us_usc_t20_s7345.md) | [Root of Title](./../../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fch70%2FschV%2FptB%2Fspt1)
 
 ----------
 ----------

@@ -83,13 +83,13 @@
 
             The eligible agency shall use funds withheld under paragraph (4) from an eligible recipient to provide (through alternative arrangements) services and activities to students within the area served by such recipient to meet the purposes of this chapter.
 
-([Pub. L. 88–210, title I, § 123][/us/pl/88/210/s123], as added [Pub. L. 109–270, § 1(b)][/us/pl/109/270/s1/b], Aug. 12, 2006, [120 Stat. 721][/us/stat/120/721].)
+([Pub. L. 88–210, title I][/us/pl/88/210/tI], § 123, as added [Pub. L. 109–270][/us/pl/109/270], § 1(b), Aug. 12, 2006, [120 Stat. 721][/us/stat/120/721].)
 
  __Prior Provisions__ 
 
-    A prior section 2343, [Pub. L. 88–210, title I, § 123][/us/pl/88/210/s123], as added [Pub. L. 105–332, § 1(b)][/us/pl/105/332/s1/b], Oct. 31, 1998, [112 Stat. 3106][/us/stat/112/3106], related to improvement plans, prior to the general amendment of this chapter by [Pub. L. 109–270][/us/pl/109/270].
+    A prior section 2343, [Pub. L. 88–210, title I][/us/pl/88/210/tI], § 123, as added [Pub. L. 105–332][/us/pl/105/332], § 1(b), Oct. 31, 1998, [112 Stat. 3106][/us/stat/112/3106], related to improvement plans, prior to the general amendment of this chapter by [Pub. L. 109–270][/us/pl/109/270].
 
-    Another prior section 2343, [Pub. L. 88–210, title II, § 240][/us/pl/88/210/s240], as added [Pub. L. 101–392, title II, § 201][/us/pl/101/392/s201], Sept. 25, 1990, [104 Stat. 784][/us/stat/104/784], related to local applications, prior to the general amendment of this chapter by [Pub. L. 105–332][/us/pl/105/332].
+    Another prior section 2343, [Pub. L. 88–210, title II][/us/pl/88/210/tII], § 240, as added [Pub. L. 101–392, title II][/us/pl/101/392/tII], § 201, Sept. 25, 1990, [104 Stat. 784][/us/stat/104/784], related to local applications, prior to the general amendment of this chapter by [Pub. L. 105–332][/us/pl/105/332].
 
 ----------
 
@@ -106,15 +106,15 @@
 [/us/usc/t20/s2323/b/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs2323%2Fb%2F4
 [/us/usc/t20/s2323/b/4/C/ii/II]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs2323%2Fb%2F4%2FC%2Fii%2FII
 [/us/usc/t20/s2354]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs2354
-[/us/pl/88/210/s123]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F210%2Fs123
-[/us/pl/109/270/s1/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F270%2Fs1%2Fb
+[/us/pl/88/210/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F210%2FtI
+[/us/pl/109/270]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F270
 [/us/stat/120/721]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F721
-[/us/pl/88/210/s123]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F210%2Fs123
-[/us/pl/105/332/s1/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F332%2Fs1%2Fb
+[/us/pl/88/210/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F210%2FtI
+[/us/pl/105/332]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F332
 [/us/stat/112/3106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F3106
 [/us/pl/109/270]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F270
-[/us/pl/88/210/s240]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F210%2Fs240
-[/us/pl/101/392/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F392%2Fs201
+[/us/pl/88/210/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F210%2FtII
+[/us/pl/101/392/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F392%2FtII
 [/us/stat/104/784]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F784
 [/us/pl/105/332]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F332
 

@@ -33,7 +33,7 @@
 
     (8) a description of each modernization, renovation and repair project funded, which shall include the amounts awarded and project costs.
 
-([Pub. L. 111–5, div. A, title XIV, § 14008][/us/pl/111/5/s14008], Feb. 17, 2009, [123 Stat. 285][/us/stat/123/285].)
+([Pub. L. 111–5, div. A, title XIV][/us/pl/111/5/dA/tXIV], § 14008, Feb. 17, 2009, [123 Stat. 285][/us/stat/123/285].)
 
 ----------
 
@@ -42,7 +42,7 @@
 ----------
 ----------
 
-[/us/pl/111/5/s14008]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5%2Fs14008
+[/us/pl/111/5/dA/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5%2FdA%2FtXIV
 [/us/stat/123/285]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F285
 
 

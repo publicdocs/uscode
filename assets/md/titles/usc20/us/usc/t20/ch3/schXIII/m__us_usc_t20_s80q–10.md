@@ -69,7 +69,7 @@
 
         There is authorized to be appropriated $250,000 for fiscal year 1991 and such sums as may be necessary for succeeding fiscal years to carry out this section.
 
-([Pub. L. 101–185, § 12][/us/pl/101/185/s12], Nov. 28, 1989, [103 Stat. 1344][/us/stat/103/1344]; [Pub. L. 104–278, § 5][/us/pl/104/278/s5], Oct. 9, 1996, [110 Stat. 3357][/us/stat/110/3357].)
+([Pub. L. 101–185][/us/pl/101/185], § 12, Nov. 28, 1989, [103 Stat. 1344][/us/stat/103/1344]; [Pub. L. 104–278][/us/pl/104/278], § 5, Oct. 9, 1996, [110 Stat. 3357][/us/stat/110/3357].)
 
  __References in Text__ 
 
@@ -77,13 +77,13 @@
 
  __Amendments__ 
 
-    1996—Subsec. (a). [Pub. L. 104–278, § 5(1)][/us/pl/104/278/s5/1], in first sentence, inserted “and unassociated funerary objects, sacred objects, and objects of cultural patrimony under [section 80q–9a of this title][/us/usc/t20/s80q–9a]” before period.
+    1996—Subsec. (a). [Pub. L. 104–278][/us/pl/104/278], § 5(1), in first sentence, inserted “and unassociated funerary objects, sacred objects, and objects of cultural patrimony under [section 80q–9a of this title][/us/usc/t20/s80q–9a]” before period.
 
-    Subsec. (b). [Pub. L. 104–278, § 5(2)(A)][/us/pl/104/278/s5/2/A], substituted “7 members” for “five members” in introductory provisions.
+    Subsec. (b). [Pub. L. 104–278][/us/pl/104/278], § 5(2)(A), substituted “7 members” for “five members” in introductory provisions.
 
-    Subsec. (b)(1). [Pub. L. 104–278, § 5(2)(B)][/us/pl/104/278/s5/2/B], substituted “4 members” for “three members” and struck out “and” at end.
+    Subsec. (b)(1). [Pub. L. 104–278][/us/pl/104/278], § 5(2)(B), substituted “4 members” for “three members” and struck out “and” at end.
 
-    Subsec. (b)(2), (3). [Pub. L. 104–278, § 5(2)(C)][/us/pl/104/278/s5/2/C], (D), added par. (2) and redesignated former par. (2) as (3).
+    Subsec. (b)(2), (3). [Pub. L. 104–278][/us/pl/104/278], § 5(2)(C), (D), added par. (2) and redesignated former par. (2) as (3).
 
  __References in Other Laws to GS–16, 17, or 18 Pay Rates__ 
 
@@ -100,17 +100,17 @@
 [/us/usc/t20/s80q–9a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs80q%E2%80%939a
 [/us/usc/t20/s80q–9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs80q%E2%80%939
 [/us/usc/t5/s5332]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5332
-[/us/pl/101/185/s12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F185%2Fs12
+[/us/pl/101/185]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F185
 [/us/stat/103/1344]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1344
-[/us/pl/104/278/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F278%2Fs5
+[/us/pl/104/278]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F278
 [/us/stat/110/3357]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3357
 [/us/pl/92/463]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F463
 [/us/stat/86/770]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F770
-[/us/pl/104/278/s5/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F278%2Fs5%2F1
+[/us/pl/104/278]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F278
 [/us/usc/t20/s80q–9a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs80q%E2%80%939a
-[/us/pl/104/278/s5/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F278%2Fs5%2F2%2FA
-[/us/pl/104/278/s5/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F278%2Fs5%2F2%2FB
-[/us/pl/104/278/s5/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F278%2Fs5%2F2%2FC
+[/us/pl/104/278]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F278
+[/us/pl/104/278]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F278
+[/us/pl/104/278]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F278
 [/us/pl/101/509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F509
 [/us/usc/t5/s5376]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5376
 

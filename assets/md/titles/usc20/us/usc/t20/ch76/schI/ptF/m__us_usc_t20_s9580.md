@@ -17,7 +17,7 @@
 
     The Director may accept voluntary and uncompensated services to carry out and support activities that are consistent with the priorities and mission of the Institute.
 
-([Pub. L. 107–279, title I, § 190][/us/pl/107/279/s190], Nov. 5, 2002, [116 Stat. 1974][/us/stat/116/1974].)
+([Pub. L. 107–279, title I][/us/pl/107/279/tI], § 190, Nov. 5, 2002, [116 Stat. 1974][/us/stat/116/1974].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/107/279/s190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F279%2Fs190
+[/us/pl/107/279/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F279%2FtI
 [/us/stat/116/1974]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1974
 
 

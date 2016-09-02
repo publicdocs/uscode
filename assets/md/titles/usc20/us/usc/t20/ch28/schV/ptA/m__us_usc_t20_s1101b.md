@@ -75,7 +75,7 @@
 
             The provisions of part C of subchapter III of this chapter regarding the establishment or increase of an endowment fund, that the Secretary determines are not inconsistent with this subsection, shall apply to funds used under paragraph (1).
 
-([Pub. L. 89–329, title V, § 503][/us/pl/89/329/s503], as added [Pub. L. 105–244, title V, § 501][/us/pl/105/244/s501], Oct. 7, 1998, [112 Stat. 1768][/us/stat/112/1768]; amended [Pub. L. 110–315, title V, § 501][/us/pl/110/315/s501], Aug. 14, 2008, [122 Stat. 3331][/us/stat/122/3331].)
+([Pub. L. 89–329, title V][/us/pl/89/329/tV], § 503, as added [Pub. L. 105–244, title V][/us/pl/105/244/tV], § 501, Oct. 7, 1998, [112 Stat. 1768][/us/stat/112/1768]; amended [Pub. L. 110–315, title V][/us/pl/110/315/tV], § 501, Aug. 14, 2008, [122 Stat. 3331][/us/stat/122/3331].)
 
  __Prior Provisions__ 
 
@@ -85,9 +85,9 @@
 
  __Amendments__ 
 
-    2008—Subsec. (b)(5). [Pub. L. 110–315, § 501(2)][/us/pl/110/315/s501/2], inserted “, including innovative and customized instruction courses (which may include remedial education and English language instruction) designed to help retain students and move the students rapidly into core courses and through program completion” before period at end.
+    2008—Subsec. (b)(5). [Pub. L. 110–315][/us/pl/110/315], § 501(2), inserted “, including innovative and customized instruction courses (which may include remedial education and English language instruction) designed to help retain students and move the students rapidly into core courses and through program completion” before period at end.
 
-    Subsec. (b)(6) to (16). [Pub. L. 110–315, § 501(1)][/us/pl/110/315/s501/1], (3)–(5), added pars. (6) and (15), redesignated former pars. (6), (7), (8), (9), (10), (11), (12), (13), and (14) as pars. (7), (8), (9), (10), (11), (12), (13), (14), and (16), respectively, and in par. (11), substituted “distance education technologies” for “distance learning academic instruction capabilities”.
+    Subsec. (b)(6) to (16). [Pub. L. 110–315][/us/pl/110/315], § 501(1), (3)–(5), added pars. (6) and (15), redesignated former pars. (6), (7), (8), (9), (10), (11), (12), (13), and (14) as pars. (7), (8), (9), (10), (11), (12), (13), (14), and (16), respectively, and in par. (11), substituted “distance education technologies” for “distance learning academic instruction capabilities”.
 
 ----------
 
@@ -97,10 +97,10 @@
 ----------
 
 [/us/usc/t20/s1101c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1101c
-[/us/pl/89/329/s503]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2Fs503
-[/us/pl/105/244/s501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2Fs501
+[/us/pl/89/329/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2FtV
+[/us/pl/105/244/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2FtV
 [/us/stat/112/1768]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F1768
-[/us/pl/110/315/s501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2Fs501
+[/us/pl/110/315/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2FtV
 [/us/stat/122/3331]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3331
 [/us/pl/89/329/s503]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2Fs503
 [/us/usc/t20/s1102b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1102b
@@ -108,7 +108,7 @@
 [/us/pl/89/329/s503]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2Fs503
 [/us/usc/t20/s1091b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1091b
 [/us/pl/94/482]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F482
-[/us/pl/110/315/s501/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2Fs501%2F2
-[/us/pl/110/315/s501/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2Fs501%2F1
+[/us/pl/110/315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315
+[/us/pl/110/315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315
 
 

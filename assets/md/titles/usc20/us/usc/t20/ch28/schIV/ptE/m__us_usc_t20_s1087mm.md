@@ -45,7 +45,7 @@
 
             Notwithstanding any other provision of law, the Secretary of Veterans Affairs and the Secretary of Defense, as appropriate, shall provide the Secretary of Education with information necessary to determine which students meet the requirements of paragraph (2).
 
-([Pub. L. 89–329, title IV, § 473][/us/pl/89/329/s473], as added [Pub. L. 99–498, title IV, § 406(a)][/us/pl/99/498/s406/a], Oct. 17, 1986, [100 Stat. 1455][/us/stat/100/1455]; amended [Pub. L. 102–325, title IV, § 471(a)][/us/pl/102/325/s471/a], July 23, 1992, [106 Stat. 586][/us/stat/106/586]; [Pub. L. 105–244, title IV, § 480(b)][/us/pl/105/244/s480/b], Oct. 7, 1998, [112 Stat. 1732][/us/stat/112/1732]; [Pub. L. 111–39, title IV, § 406(a)(1)][/us/pl/111/39/s406/a/1], July 1, 2009, [123 Stat. 1948][/us/stat/123/1948].)
+([Pub. L. 89–329, title IV][/us/pl/89/329/tIV], § 473, as added [Pub. L. 99–498, title IV][/us/pl/99/498/tIV], § 406(a), Oct. 17, 1986, [100 Stat. 1455][/us/stat/100/1455]; amended [Pub. L. 102–325, title IV][/us/pl/102/325/tIV], § 471(a), July 23, 1992, [106 Stat. 586][/us/stat/106/586]; [Pub. L. 105–244, title IV][/us/pl/105/244/tIV], § 480(b), Oct. 7, 1998, [112 Stat. 1732][/us/stat/112/1732]; [Pub. L. 111–39, title IV][/us/pl/111/39/tIV], § 406(a)(1), July 1, 2009, [123 Stat. 1948][/us/stat/123/1948].)
 
  __Amendments__ 
 
@@ -57,7 +57,7 @@
 
  __Effective Date of 2009 Amendment__ 
 
-[Pub. L. 111–39, title IV, § 406(b)][/us/pl/111/39/s406/b], July 1, 2009, [123 Stat. 1950][/us/stat/123/1950], provided that: 
+[Pub. L. 111–39, title IV][/us/pl/111/39/tIV], § 406(b), July 1, 2009, [123 Stat. 1950][/us/stat/123/1950], provided that: 
 
 > “The amendments made by—
 
@@ -80,19 +80,19 @@
 ----------
 ----------
 
-[/us/pl/89/329/s473]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2Fs473
-[/us/pl/99/498/s406/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F498%2Fs406%2Fa
+[/us/pl/89/329/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2FtIV
+[/us/pl/99/498/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F498%2FtIV
 [/us/stat/100/1455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1455
-[/us/pl/102/325/s471/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325%2Fs471%2Fa
+[/us/pl/102/325/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325%2FtIV
 [/us/stat/106/586]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F586
-[/us/pl/105/244/s480/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2Fs480%2Fb
+[/us/pl/105/244/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2FtIV
 [/us/stat/112/1732]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F1732
-[/us/pl/111/39/s406/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F39%2Fs406%2Fa%2F1
+[/us/pl/111/39/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F39%2FtIV
 [/us/stat/123/1948]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1948
 [/us/pl/111/39]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F39
 [/us/pl/105/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244
 [/us/pl/102/325]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325
-[/us/pl/111/39/s406/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F39%2Fs406%2Fb
+[/us/pl/111/39/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F39%2FtIV
 [/us/stat/123/1950]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1950
 [/us/usc/t20/s1087ss]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1087ss
 [/us/pl/110/84]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F84

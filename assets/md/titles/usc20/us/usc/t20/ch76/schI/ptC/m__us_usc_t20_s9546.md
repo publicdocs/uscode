@@ -53,7 +53,7 @@
 
             The Statistics Center shall, in accordance with such terms and conditions as the Center may prescribe, provide all interested parties, including public and private agencies, parents, and other individuals, direct access, in the most appropriate form (including, where possible, electronically), to data collected by the Statistics Center for the purposes of research and acquiring statistical information.
 
-([Pub. L. 107–279, title I, § 156][/us/pl/107/279/s156], Nov. 5, 2002, [116 Stat. 1961][/us/stat/116/1961].)
+([Pub. L. 107–279, title I][/us/pl/107/279/tI], § 156, Nov. 5, 2002, [116 Stat. 1961][/us/stat/116/1961].)
 
 ----------
 
@@ -63,7 +63,7 @@
 ----------
 
 [/us/usc/t20/s9573]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs9573
-[/us/pl/107/279/s156]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F279%2Fs156
+[/us/pl/107/279/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F279%2FtI
 [/us/stat/116/1961]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1961
 
 

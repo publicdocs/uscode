@@ -37,7 +37,7 @@
 
         (3) review by officers of the United States in order to prevent the unauthorized disclosure of information described in paragraph (1) or (2).
 
-([Pub. L. 107–279, title I, § 186][/us/pl/107/279/s186], Nov. 5, 2002, [116 Stat. 1973][/us/stat/116/1973].)
+([Pub. L. 107–279, title I][/us/pl/107/279/tI], § 186, Nov. 5, 2002, [116 Stat. 1973][/us/stat/116/1973].)
 
 ----------
 
@@ -47,7 +47,7 @@
 ----------
 
 [/us/usc/t5/s552/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs552%2Fb
-[/us/pl/107/279/s186]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F279%2Fs186
+[/us/pl/107/279/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F279%2FtI
 [/us/stat/116/1973]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1973
 
 

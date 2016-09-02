@@ -27,7 +27,7 @@
 
         (3) coordinate with related international and foreign language education programs of other Federal agencies.
 
-([Pub. L. 96–88, title II, § 205][/us/pl/96/88/s205], Oct. 17, 1979, [93 Stat. 674][/us/stat/93/674]; [Pub. L. 110–315, title IX, § 935][/us/pl/110/315/s935], Aug. 14, 2008, [122 Stat. 3460][/us/stat/122/3460].)
+([Pub. L. 96–88, title II][/us/pl/96/88/tII], § 205, Oct. 17, 1979, [93 Stat. 674][/us/stat/93/674]; [Pub. L. 110–315, title IX][/us/pl/110/315/tIX], § 935, Aug. 14, 2008, [122 Stat. 3460][/us/stat/122/3460].)
 
  __Amendments__ 
 
@@ -41,9 +41,9 @@
 ----------
 
 [/us/usc/t20/s3412/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs3412%2Fb
-[/us/pl/96/88/s205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F88%2Fs205
+[/us/pl/96/88/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F88%2FtII
 [/us/stat/93/674]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F674
-[/us/pl/110/315/s935]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2Fs935
+[/us/pl/110/315/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2FtIX
 [/us/stat/122/3460]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3460
 [/us/pl/110/315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315
 [/us/usc/t20/s3412/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs3412%2Fb

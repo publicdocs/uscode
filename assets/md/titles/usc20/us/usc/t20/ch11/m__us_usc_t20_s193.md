@@ -17,7 +17,7 @@
 
     In order to stimulate research and discovery the national arboretum established by the Secretary of Agriculture in accordance with the provisions of this chapter shall be under competent scientific direction. The arboretum shall be administered by the Secretary of Agriculture separately from the agricultural, horticultural, and forestry stations of the Department of Agriculture, but it shall be so correlated with them as to bring about the most effective utilization of its facilities and discoveries.
 
-([Mar. 4, 1927, ch. 505, § 3][/us/act/1927-03-04/ch505/s3], [44 Stat. 1422][/us/stat/44/1422].)
+([Mar. 4, 1927, ch. 505][/us/act/1927-03-04/ch505], § 3, [44 Stat. 1422][/us/stat/44/1422].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/act/1927-03-04/ch505/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1927-03-04%2Fch505%2Fs3
+[/us/act/1927-03-04/ch505]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1927-03-04%2Fch505
 [/us/stat/44/1422]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F44%2F1422
 
 

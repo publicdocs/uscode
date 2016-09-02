@@ -17,7 +17,7 @@
 
     Loans made, insured, or guaranteed pursuant to a program authorized by title IV of the Higher Education Act of 1965 ([20 U.S.C. 1070][/us/usc/t20/s1070] et seq.) \[and [42 U.S.C. 2751][/us/usc/t42/s2751] et seq.\] shall not be subject to any disclosure requirements of any State law.
 
-([Pub. L. 97–320, title VII, § 701(b)][/us/pl/97/320/s701/b], Oct. 15, 1982, [96 Stat. 1538][/us/stat/96/1538].)
+([Pub. L. 97–320, title VII][/us/pl/97/320/tVII], § 701(b), Oct. 15, 1982, [96 Stat. 1538][/us/stat/96/1538].)
 
  __References in Text__ 
 
@@ -42,7 +42,7 @@
 
 [/us/usc/t20/s1070]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1070
 [/us/usc/t42/s2751]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2751
-[/us/pl/97/320/s701/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F320%2Fs701%2Fb
+[/us/pl/97/320/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F320%2FtVII
 [/us/stat/96/1538]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1538
 [/us/pl/89/329]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329
 [/us/stat/79/1219]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F1219

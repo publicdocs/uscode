@@ -55,7 +55,7 @@
 
                 The interest on, and the proceeds from the sale or redemption of, any obligations held in the Asbestos Trust Fund shall be credited to and form a part of the Trust Fund.
 
-        (2) __Repealed.__  __[__  __Pub. L. 104–66, title I, § 1131(c)__  __][/us/pl/104/66/s1131/c]__  __,__  __Dec. 21, 1995__  __,__  __[__  __109 Stat. 725__  __][/us/stat/109/725]__ 
+        (2) __Repealed.__  __[__  __Pub. L. 104–66, title I__  __][/us/pl/104/66/tI]__  __, § 1131(c),__  __Dec. 21, 1995__  __,__  __[__  __109 Stat. 725__  __][/us/stat/109/725]__ 
 
     (d) __Expenditures from Asbestos Trust Fund__ 
 
@@ -81,7 +81,7 @@
 
         The amendments made by this section shall take effect on January 1, 1986.
 
-([Pub. L. 99–519, § 5][/us/pl/99/519/s5], Oct. 22, 1986, [100 Stat. 2990][/us/stat/100/2990]; [Pub. L. 101–637, § 12][/us/pl/101/637/s12], Nov. 28, 1990, [104 Stat. 4593][/us/stat/104/4593]; [Pub. L. 104–66, title I, § 1131(c)][/us/pl/104/66/s1131/c], Dec. 21, 1995, [109 Stat. 725][/us/stat/109/725].)
+([Pub. L. 99–519][/us/pl/99/519], § 5, Oct. 22, 1986, [100 Stat. 2990][/us/stat/100/2990]; [Pub. L. 101–637][/us/pl/101/637], § 12, Nov. 28, 1990, [104 Stat. 4593][/us/stat/104/4593]; [Pub. L. 104–66, title I][/us/pl/104/66/tI], § 1131(c), Dec. 21, 1995, [109 Stat. 725][/us/stat/109/725].)
 
  __Codification__ 
 
@@ -91,9 +91,9 @@
 
     1995—Subsec. (c)(2). [Pub. L. 104–66][/us/pl/104/66] struck out heading and text of par. (2). Text read as follows: “It shall be the duty of the Secretary of the Treasury to hold the Asbestos Trust Fund and to report to the Congress each year on the financial condition and the results of the operations of the Trust Fund during the preceding fiscal year and on its expected condition and operations during the next 5 fiscal years.”
 
-    1990—Subsec. (b)(1). [Pub. L. 101–637, § 12(a)][/us/pl/101/637/s12/a], substituted a comma for “as in effect on October 22, 1986, and” in subpar. (A) and “, and” for period at end of subpar. (B), and added subpar. (C).
+    1990—Subsec. (b)(1). [Pub. L. 101–637][/us/pl/101/637], § 12(a), substituted a comma for “as in effect on October 22, 1986, and” in subpar. (A) and “, and” for period at end of subpar. (B), and added subpar. (C).
 
-    Subsec. (d). [Pub. L. 101–637, § 12(b)][/us/pl/101/637/s12/b], struck out before period at end “as in effect on October 22, 1986”.
+    Subsec. (d). [Pub. L. 101–637][/us/pl/101/637], § 12(b), struck out before period at end “as in effect on October 22, 1986”.
 
 ----------
 
@@ -105,17 +105,17 @@
 [/us/usc/t20/s4014]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs4014
 [/us/usc/t15/s2647/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs2647%2Fa
 [/us/usc/t20/s4017/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs4017%2Fa%2F1
-[/us/pl/104/66/s1131/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F66%2Fs1131%2Fc
+[/us/pl/104/66/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F66%2FtI
 [/us/stat/109/725]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F725
 [/us/usc/t20/s4014]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs4014
-[/us/pl/99/519/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F519%2Fs5
+[/us/pl/99/519]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F519
 [/us/stat/100/2990]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2990
-[/us/pl/101/637/s12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F637%2Fs12
+[/us/pl/101/637]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F637
 [/us/stat/104/4593]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4593
-[/us/pl/104/66/s1131/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F66%2Fs1131%2Fc
+[/us/pl/104/66/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F66%2FtI
 [/us/stat/109/725]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F725
 [/us/pl/104/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F66
-[/us/pl/101/637/s12/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F637%2Fs12%2Fa
-[/us/pl/101/637/s12/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F637%2Fs12%2Fb
+[/us/pl/101/637]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F637
+[/us/pl/101/637]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F637
 
 

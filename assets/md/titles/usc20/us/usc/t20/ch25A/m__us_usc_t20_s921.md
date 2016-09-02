@@ -51,7 +51,7 @@
 
         (3) The amounts received by the Secretary in payment of the fees shall be available to the Department of Defense for defraying the costs of conducting summer school programs under this subsection.
 
-([Pub. L. 95–561, title XIV, § 1402][/us/pl/95/561/s1402], Nov. 1, 1978, [92 Stat. 2365][/us/stat/92/2365]; [Pub. L. 99–145, title XII, § 1204(b)(1)][/us/pl/99/145/s1204/b/1], Nov. 8, 1985, [99 Stat. 720][/us/stat/99/720]; [Pub. L. 102–484, div. A, title III, § 382][/us/pl/102/484/s382], Oct. 23, 1992, [106 Stat. 2392][/us/stat/106/2392]; [Pub. L. 106–65, div. A, title III, § 354(1)][/us/pl/106/65/s354/1], Oct. 5, 1999, [113 Stat. 572][/us/stat/113/572]; [Pub. L. 107–314, div. A, title III, § 343][/us/pl/107/314/s343], Dec. 2, 2002, [116 Stat. 2515][/us/stat/116/2515].)
+([Pub. L. 95–561, title XIV][/us/pl/95/561/tXIV], § 1402, Nov. 1, 1978, [92 Stat. 2365][/us/stat/92/2365]; [Pub. L. 99–145, title XII][/us/pl/99/145/tXII], § 1204(b)(1), Nov. 8, 1985, [99 Stat. 720][/us/stat/99/720]; [Pub. L. 102–484, div. A, title III][/us/pl/102/484/dA/tIII], § 382, Oct. 23, 1992, [106 Stat. 2392][/us/stat/106/2392]; [Pub. L. 106–65, div. A, title III][/us/pl/106/65/dA/tIII], § 354(1), Oct. 5, 1999, [113 Stat. 572][/us/stat/113/572]; [Pub. L. 107–314, div. A, title III][/us/pl/107/314/dA/tIII], § 343, Dec. 2, 2002, [116 Stat. 2515][/us/stat/116/2515].)
 
  __References in Text__ 
 
@@ -69,7 +69,7 @@
 
  __Effective Date__ 
 
-[Pub. L. 95–561, title XIV, § 1415][/us/pl/95/561/s1415], Nov. 1, 1978, [92 Stat. 2373][/us/stat/92/2373], provided that:
+[Pub. L. 95–561, title XIV][/us/pl/95/561/tXIV], § 1415, Nov. 1, 1978, [92 Stat. 2373][/us/stat/92/2373], provided that:
 
 >     “(a)
 
@@ -81,13 +81,13 @@
 
  __Short Title__ 
 
-[Pub. L. 95–561, title XIV, § 1401][/us/pl/95/561/s1401], Nov. 1, 1978, [92 Stat. 2365][/us/stat/92/2365], provided that: 
+[Pub. L. 95–561, title XIV][/us/pl/95/561/tXIV], § 1401, Nov. 1, 1978, [92 Stat. 2365][/us/stat/92/2365], provided that: 
 
 > “This title \[enacting this chapter, [section 429 of Title 37][/us/usc/t37/s429], Pay and Allowances of the Uniformed Services, and [section 1769b of Title 42][/us/usc/t42/s1769b], The Public Health and Welfare, amending sections 1773 and 1789 of Title 42, and enacting provisions set out as a note under this section\] may be cited as the ‘Defense Dependents’ Education Act of 1978’.”
 
  __Report on Condition of Schools Under Jurisdiction of Department of Defense Education Activity__ 
 
-[Pub. L. 110–181, div. B, title XXVIII, § 2879][/us/pl/110/181/s2879], Jan. 28, 2008, [122 Stat. 564][/us/stat/122/564], provided that:
+[Pub. L. 110–181, div. B, title XXVIII][/us/pl/110/181/dB/tXXVIII], § 2879, Jan. 28, 2008, [122 Stat. 564][/us/stat/122/564], provided that:
 
 >     “(a)  __Report Required__  __.—__ 
 
@@ -113,7 +113,7 @@
 
  __Pilot Program on Private Operation of Defense Dependents’ Schools__ 
 
-[Pub. L. 104–106, div. A, title III, § 355][/us/pl/104/106/s355], Feb. 10, 1996, [110 Stat. 269][/us/stat/110/269], provided that:
+[Pub. L. 104–106, div. A, title III][/us/pl/104/106/dA/tIII], § 355, Feb. 10, 1996, [110 Stat. 269][/us/stat/110/269], provided that:
 
 >     “(a)  __Pilot Program__  __.—__ 
 
@@ -134,15 +134,15 @@
 ----------
 ----------
 
-[/us/pl/95/561/s1402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F561%2Fs1402
+[/us/pl/95/561/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F561%2FtXIV
 [/us/stat/92/2365]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2365
-[/us/pl/99/145/s1204/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F145%2Fs1204%2Fb%2F1
+[/us/pl/99/145/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F145%2FtXII
 [/us/stat/99/720]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F720
-[/us/pl/102/484/s382]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2Fs382
+[/us/pl/102/484/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2FdA%2FtIII
 [/us/stat/106/2392]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2392
-[/us/pl/106/65/s354/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2Fs354%2F1
+[/us/pl/106/65/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2FdA%2FtIII
 [/us/stat/113/572]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F572
-[/us/pl/107/314/s343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2Fs343
+[/us/pl/107/314/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2FdA%2FtIII
 [/us/stat/116/2515]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2515
 [/us/pl/95/561]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F561
 [/us/stat/92/2365]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2365
@@ -152,18 +152,18 @@
 [/us/pl/106/65]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65
 [/us/pl/102/484]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484
 [/us/pl/99/145]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F145
-[/us/pl/95/561/s1415]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F561%2Fs1415
+[/us/pl/95/561/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F561%2FtXIV
 [/us/stat/92/2373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2373
 [/us/usc/t20/s926/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs926%2Fb
 [/us/usc/t37/s429]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft37%2Fs429
 [/us/usc/t42/s1769b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1769b
-[/us/pl/95/561/s1401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F561%2Fs1401
+[/us/pl/95/561/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F561%2FtXIV
 [/us/stat/92/2365]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2365
 [/us/usc/t37/s429]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft37%2Fs429
 [/us/usc/t42/s1769b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1769b
-[/us/pl/110/181/s2879]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs2879
+[/us/pl/110/181/dB/tXXVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2FdB%2FtXXVIII
 [/us/stat/122/564]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F564
-[/us/pl/104/106/s355]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs355
+[/us/pl/104/106/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2FdA%2FtIII
 [/us/stat/110/269]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F269
 [/us/usc/t20/s921/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs921%2Fa
 

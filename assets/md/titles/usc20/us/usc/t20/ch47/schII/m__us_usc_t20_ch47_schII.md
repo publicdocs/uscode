@@ -11,13 +11,13 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t20/ch47/schI/d2/ptC/m__us_usc_t20_ch47_schI_d2_ptC.md) | [Next](./../../../../..//us/usc/t20/ch47/schII/ptA/m__us_usc_t20_ch47_schII_ptA.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fch47%2FschII)
+[Previous](./../../../../..//us/usc/t20/ch47/schI/d2/ptC/m__us_usc_t20_s2971...2976.md) | [Next](./../../../../..//us/usc/t20/ch47/schII/ptA/m__us_usc_t20_ch47_schII_ptA.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fch47%2FschII)
 
 ### SUBCHAPTER II—CRITICAL SKILLS IMPROVEMENT
 
 ----------
 
-[Previous](./../../../../..//us/usc/t20/ch47/schI/d2/ptC/m__us_usc_t20_ch47_schI_d2_ptC.md) | [Next](./../../../../..//us/usc/t20/ch47/schII/ptA/m__us_usc_t20_ch47_schII_ptA.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fch47%2FschII)
+[Previous](./../../../../..//us/usc/t20/ch47/schI/d2/ptC/m__us_usc_t20_s2971...2976.md) | [Next](./../../../../..//us/usc/t20/ch47/schII/ptA/m__us_usc_t20_ch47_schII_ptA.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fch47%2FschII)
 
 ----------
 ----------

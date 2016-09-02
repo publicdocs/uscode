@@ -91,29 +91,29 @@
 
         The provisions of [section 3403(b) of this title][/us/usc/t20/s3403/b] shall not apply to Secretarial determinations made regarding the appropriate length of instruction for programs measured in clock hours.
 
-([Pub. L. 89–329, title IV, § 498A][/us/pl/89/329/s498A], as added [Pub. L. 102–325, title IV, § 499][/us/pl/102/325/s499], July 23, 1992, [106 Stat. 652][/us/stat/106/652]; amended [Pub. L. 103–208, § 2(i)(15)][/us/pl/103/208/s2/i/15], Dec. 20, 1993, [107 Stat. 2480][/us/stat/107/2480]; [Pub. L. 105–244, title IV, § 494][/us/pl/105/244/s494], Oct. 7, 1998, [112 Stat. 1763][/us/stat/112/1763]; [Pub. L. 110–315, title IV, § 497][/us/pl/110/315/s497], Aug. 14, 2008, [122 Stat. 3328][/us/stat/122/3328].)
+([Pub. L. 89–329, title IV][/us/pl/89/329/tIV], § 498A, as added [Pub. L. 102–325, title IV][/us/pl/102/325/tIV], § 499, July 23, 1992, [106 Stat. 652][/us/stat/106/652]; amended [Pub. L. 103–208][/us/pl/103/208], § 2(i)(15), Dec. 20, 1993, [107 Stat. 2480][/us/stat/107/2480]; [Pub. L. 105–244, title IV][/us/pl/105/244/tIV], § 494, Oct. 7, 1998, [112 Stat. 1763][/us/stat/112/1763]; [Pub. L. 110–315, title IV][/us/pl/110/315/tIV], § 497, Aug. 14, 2008, [122 Stat. 3328][/us/stat/122/3328].)
 
  __Amendments__ 
 
     2008—Subsec. (b)(6) to (8). [Pub. L. 110–315][/us/pl/110/315] added pars. (6) to (8).
 
-    1998—Subsec. (a)(2). [Pub. L. 105–244, § 494(1)(A)(i)][/us/pl/105/244/s494/1/A/i], substituted “shall” for “may” in introductory provisions.
+    1998—Subsec. (a)(2). [Pub. L. 105–244][/us/pl/105/244], § 494(1)(A)(i), substituted “shall” for “may” in introductory provisions.
 
-    Subsec. (a)(2)(C). [Pub. L. 105–244, § 494(1)(A)(ii)][/us/pl/105/244/s494/1/A/ii], amended subpar. (C) generally. Prior to amendment, subpar. (C) read as follows: “institutions with a significant fluctuation in Federal Stafford Loan volume or Federal Pell Grant awards, or both, in the year for which the determination is made compared to the year prior to such year;”.
+    Subsec. (a)(2)(C). [Pub. L. 105–244][/us/pl/105/244], § 494(1)(A)(ii), amended subpar. (C) generally. Prior to amendment, subpar. (C) read as follows: “institutions with a significant fluctuation in Federal Stafford Loan volume or Federal Pell Grant awards, or both, in the year for which the determination is made compared to the year prior to such year;”.
 
-    Subsec. (a)(2)(D). [Pub. L. 105–244, § 494(1)(A)(iii)][/us/pl/105/244/s494/1/A/iii], amended subpar. (D) generally. Prior to amendment, subpar. (D) read as follows: “institutions reported to have deficiencies or financial aid problems by the appropriate State postsecondary review entity designated under subpart 1 of this part or by the appropriate accrediting agency or association;”.
+    Subsec. (a)(2)(D). [Pub. L. 105–244][/us/pl/105/244], § 494(1)(A)(iii), amended subpar. (D) generally. Prior to amendment, subpar. (D) read as follows: “institutions reported to have deficiencies or financial aid problems by the appropriate State postsecondary review entity designated under subpart 1 of this part or by the appropriate accrediting agency or association;”.
 
-    Subsec. (a)(2)(E). [Pub. L. 105–244, § 494(1)(A)(iv)][/us/pl/105/244/s494/1/A/iv], inserted “and” after the semicolon.
+    Subsec. (a)(2)(E). [Pub. L. 105–244][/us/pl/105/244], § 494(1)(A)(iv), inserted “and” after the semicolon.
 
-    Subsec. (a)(2)(F), (G). [Pub. L. 105–244, § 494(1)(A)(v)][/us/pl/105/244/s494/1/A/v], added subpar. (F) and struck out former subpars. (F) and (G) which read as follows:
+    Subsec. (a)(2)(F), (G). [Pub. L. 105–244][/us/pl/105/244], § 494(1)(A)(v), added subpar. (F) and struck out former subpars. (F) and (G) which read as follows:
 
     “(F) any institution which is required to be reviewed by a State postsecondary review entity pursuant to subpart 1 of this part under [section 1099a–3(b) of this title][/us/usc/t20/s1099a–3/b]; and
 
     “(G) such other institutions as the Secretary deems necessary; and”.
 
-    Subsec. (a)(3)(A). [Pub. L. 105–244, § 494(1)(B)][/us/pl/105/244/s494/1/B], inserted “relevant” after “all”.
+    Subsec. (a)(3)(A). [Pub. L. 105–244][/us/pl/105/244], § 494(1)(B), inserted “relevant” after “all”.
 
-    Subsec. (b). [Pub. L. 105–244, § 494(2)][/us/pl/105/244/s494/2], amended heading and text of subsec. (b). Prior to amendment, text read as follows:
+    Subsec. (b). [Pub. L. 105–244][/us/pl/105/244], § 494(2), amended heading and text of subsec. (b). Prior to amendment, text read as follows:
 
     “(1) In carrying out paragraphs (1) and (2) of subsection (a) of this section, the Secretary shall establish guidelines designed to ensure uniformity of practice in the conduct of program reviews of institutions of higher education.
 
@@ -139,24 +139,24 @@
 [/us/usc/t20/s1099c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1099c
 [/us/usc/t20/s1082]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1082
 [/us/usc/t20/s3403/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs3403%2Fb
-[/us/pl/89/329/s498A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2Fs498A
-[/us/pl/102/325/s499]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325%2Fs499
+[/us/pl/89/329/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2FtIV
+[/us/pl/102/325/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325%2FtIV
 [/us/stat/106/652]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F652
-[/us/pl/103/208/s2/i/15]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F208%2Fs2%2Fi%2F15
+[/us/pl/103/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F208
 [/us/stat/107/2480]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F2480
-[/us/pl/105/244/s494]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2Fs494
+[/us/pl/105/244/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2FtIV
 [/us/stat/112/1763]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F1763
-[/us/pl/110/315/s497]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2Fs497
+[/us/pl/110/315/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2FtIV
 [/us/stat/122/3328]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3328
 [/us/pl/110/315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315
-[/us/pl/105/244/s494/1/A/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2Fs494%2F1%2FA%2Fi
-[/us/pl/105/244/s494/1/A/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2Fs494%2F1%2FA%2Fii
-[/us/pl/105/244/s494/1/A/iii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2Fs494%2F1%2FA%2Fiii
-[/us/pl/105/244/s494/1/A/iv]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2Fs494%2F1%2FA%2Fiv
-[/us/pl/105/244/s494/1/A/v]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2Fs494%2F1%2FA%2Fv
+[/us/pl/105/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244
+[/us/pl/105/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244
+[/us/pl/105/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244
+[/us/pl/105/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244
+[/us/pl/105/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244
 [/us/usc/t20/s1099a–3/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1099a%E2%80%933%2Fb
-[/us/pl/105/244/s494/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2Fs494%2F1%2FB
-[/us/pl/105/244/s494/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2Fs494%2F2
+[/us/pl/105/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244
+[/us/pl/105/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244
 [/us/pl/103/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F208
 [/us/pl/105/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244
 [/us/pl/105/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244

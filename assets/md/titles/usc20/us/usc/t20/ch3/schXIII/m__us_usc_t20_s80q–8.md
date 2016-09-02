@@ -43,7 +43,7 @@
 
         There is authorized to be appropriated $2,000,000 for each fiscal year, beginning with fiscal year 1991, to carry out subsections (b) and (c) of this section.
 
-([Pub. L. 101–185, § 10][/us/pl/101/185/s10], Nov. 28, 1989, [103 Stat. 1342][/us/stat/103/1342]; [Pub. L. 105–244, title IX, § 901(d)][/us/pl/105/244/s901/d], Oct. 7, 1998, [112 Stat. 1828][/us/stat/112/1828]; [Pub. L. 110–315, title IX, § 941(k)(2)(B)][/us/pl/110/315/s941/k/2/B], Aug. 14, 2008, [122 Stat. 3465][/us/stat/122/3465].)
+([Pub. L. 101–185][/us/pl/101/185], § 10, Nov. 28, 1989, [103 Stat. 1342][/us/stat/103/1342]; [Pub. L. 105–244, title IX][/us/pl/105/244/tIX], § 901(d), Oct. 7, 1998, [112 Stat. 1828][/us/stat/112/1828]; [Pub. L. 110–315, title IX][/us/pl/110/315/tIX], § 941(k)(2)(B), Aug. 14, 2008, [122 Stat. 3465][/us/stat/122/3465].)
 
  __Amendments__ 
 
@@ -63,11 +63,11 @@
 ----------
 
 [/us/usc/t25/s1801/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs1801%2Fa
-[/us/pl/101/185/s10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F185%2Fs10
+[/us/pl/101/185]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F185
 [/us/stat/103/1342]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1342
-[/us/pl/105/244/s901/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2Fs901%2Fd
+[/us/pl/105/244/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2FtIX
 [/us/stat/112/1828]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F1828
-[/us/pl/110/315/s941/k/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2Fs941%2Fk%2F2%2FB
+[/us/pl/110/315/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2FtIX
 [/us/stat/122/3465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3465
 [/us/pl/110/315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315
 [/us/usc/t25/s1801/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs1801%2Fa

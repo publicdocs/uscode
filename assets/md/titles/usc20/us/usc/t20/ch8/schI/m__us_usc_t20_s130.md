@@ -17,7 +17,7 @@
 
     On and after September 8, 1978, Howard University is authorized to make purchases through the General Services Administration.
 
-([Pub. L. 95–355, title I, § 100][/us/pl/95/355/s100], Sept. 8, 1978, [92 Stat. 531][/us/stat/92/531].)
+([Pub. L. 95–355, title I][/us/pl/95/355/tI], § 100, Sept. 8, 1978, [92 Stat. 531][/us/stat/92/531].)
 
  __Codification__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/pl/95/355/s100]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F355%2Fs100
+[/us/pl/95/355/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F355%2FtI
 [/us/stat/92/531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F531
 
 

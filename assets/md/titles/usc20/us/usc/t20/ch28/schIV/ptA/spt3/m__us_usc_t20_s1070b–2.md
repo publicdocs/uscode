@@ -67,11 +67,11 @@
 
         An agreement entered into pursuant to this section shall provide that funds granted to an institution of higher education may be used only to make payments to students participating in a grant program authorized under this subpart, except that an institution may use a portion of the sums allocated to it under this subpart to meet administrative expenses in accordance with [section 1096 of this title][/us/usc/t20/s1096].
 
-([Pub. L. 89–329, title IV, § 413C][/us/pl/89/329/s413C], as added [Pub. L. 99–498, title IV, § 401(a)][/us/pl/99/498/s401/a], Oct. 17, 1986, [100 Stat. 1329][/us/stat/100/1329]; amended [Pub. L. 102–325, title IV, § 403(d)][/us/pl/102/325/s403/d]–(f), July 23, 1992, [106 Stat. 506][/us/stat/106/506]; [Pub. L. 103–208, § 2(b)(25)][/us/pl/103/208/s2/b/25], Dec. 20, 1993, [107 Stat. 2459][/us/stat/107/2459]; [Pub. L. 105–244, title IV, § 406(b)][/us/pl/105/244/s406/b], Oct. 7, 1998, [112 Stat. 1665][/us/stat/112/1665].)
+([Pub. L. 89–329, title IV][/us/pl/89/329/tIV], § 413C, as added [Pub. L. 99–498, title IV][/us/pl/99/498/tIV], § 401(a), Oct. 17, 1986, [100 Stat. 1329][/us/stat/100/1329]; amended [Pub. L. 102–325, title IV][/us/pl/102/325/tIV], § 403(d)–(f), July 23, 1992, [106 Stat. 506][/us/stat/106/506]; [Pub. L. 103–208][/us/pl/103/208], § 2(b)(25), Dec. 20, 1993, [107 Stat. 2459][/us/stat/107/2459]; [Pub. L. 105–244, title IV][/us/pl/105/244/tIV], § 406(b), Oct. 7, 1998, [112 Stat. 1665][/us/stat/112/1665].)
 
  __Prior Provisions__ 
 
-    A prior section 1070b–2, [Pub. L. 89–329, title IV, § 413C][/us/pl/89/329/s413C], as added [Pub. L. 92–318, title I, § 131(b)(1)][/us/pl/92/318/s131/b/1], June 23, 1972, [86 Stat. 253][/us/stat/86/253]; amended [Pub. L. 94–482, title I, § 122(b)][/us/pl/94/482/s122/b], Oct. 12, 1976, [90 Stat. 2094][/us/stat/90/2094]; [Pub. L. 96–374, title IV, § 403(d)][/us/pl/96/374/s403/d], Oct. 3, 1980, [94 Stat. 1405][/us/stat/94/1405], related to selection of recipients of supplemental educational opportunity grants and agreements with institutions, prior to the general revision of this part by [Pub. L. 99–498][/us/pl/99/498].
+    A prior section 1070b–2, [Pub. L. 89–329, title IV][/us/pl/89/329/tIV], § 413C, as added [Pub. L. 92–318, title I][/us/pl/92/318/tI], § 131(b)(1), June 23, 1972, [86 Stat. 253][/us/stat/86/253]; amended [Pub. L. 94–482, title I][/us/pl/94/482/tI], § 122(b), Oct. 12, 1976, [90 Stat. 2094][/us/stat/90/2094]; [Pub. L. 96–374, title IV][/us/pl/96/374/tIV], § 403(d), Oct. 3, 1980, [94 Stat. 1405][/us/stat/94/1405], related to selection of recipients of supplemental educational opportunity grants and agreements with institutions, prior to the general revision of this part by [Pub. L. 99–498][/us/pl/99/498].
 
  __Amendments__ 
 
@@ -79,7 +79,7 @@
 
     1993—Subsec. (d). [Pub. L. 103–208][/us/pl/103/208] substituted “and” for “, a reasonable proportion of the institution’s allocation shall be made available to such students, except that” and “5 percent of the total financial need” for “5 percent of the need”.
 
-    1992—Subsec. (a)(2). [Pub. L. 102–325, § 403(d)][/us/pl/102/325/s403/d], amended par. (2) generally. Prior to amendment, par. (2) read as follows: “agrees that the Federal share of awards under this subpart will not exceed—
+    1992—Subsec. (a)(2). [Pub. L. 102–325][/us/pl/102/325], § 403(d), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “agrees that the Federal share of awards under this subpart will not exceed—
 
     “(A) 95 percent of such awards in fiscal year 1989,
 
@@ -89,9 +89,9 @@
 
     except that the Federal share may be exceeded if the Secretary determines, pursuant to regulations establishing objective criteria for such determinations, that a larger Federal share is required to further the purpose of this subpart; and”.
 
-    Subsec. (d). [Pub. L. 102–325, § 403(e)][/us/pl/102/325/s403/e], inserted “who are independent students or” after “demonstrated by students” and inserted before period at end “, except that if the total financial need of all such students attending the institution exceeds 5 percent of the need of all students attending such institution, then at least 5 percent of such allotment shall be made available to such students”.
+    Subsec. (d). [Pub. L. 102–325][/us/pl/102/325], § 403(e), inserted “who are independent students or” after “demonstrated by students” and inserted before period at end “, except that if the total financial need of all such students attending the institution exceeds 5 percent of the need of all students attending such institution, then at least 5 percent of such allotment shall be made available to such students”.
 
-    Subsec. (e). [Pub. L. 102–325, § 403(f)][/us/pl/102/325/s403/f], struck out before period at end “, and may transfer such funds in accordance with the provisions of [section 1095 of this title][/us/usc/t20/s1095]”.
+    Subsec. (e). [Pub. L. 102–325][/us/pl/102/325], § 403(f), struck out before period at end “, and may transfer such funds in accordance with the provisions of [section 1095 of this title][/us/usc/t20/s1095]”.
 
  __Effective Date of 1998 Amendment__ 
 
@@ -109,7 +109,7 @@
 
     Section effective Oct. 17, 1986, except as otherwise provided, see [section 2 of Pub. L. 99–498][/us/pl/99/498/s2], set out as a note under [section 1001 of this title][/us/usc/t20/s1001].
 
-[Pub. L. 99–498, title IV, § 401(b)(5)][/us/pl/99/498/s401/b/5], Oct. 17, 1986, [100 Stat. 1353][/us/stat/100/1353], provided that: 
+[Pub. L. 99–498, title IV][/us/pl/99/498/tIV], § 401(b)(5), Oct. 17, 1986, [100 Stat. 1353][/us/stat/100/1353], provided that: 
 
 > “Section 413C(c)(2) of the Act \[[20 U.S.C. 1070b–2(c)(2)][/us/usc/t20/s1070b–2/c/2]\] as amended by this section shall apply to the awarding of grants under subpart 2 of part A of title IV of the Act \[this subpart\] for periods of enrollment beginning on or after July 1, 1987.”
 
@@ -128,28 +128,28 @@
 [/us/usc/t20/s1094]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1094
 [/us/usc/t20/s1091]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1091
 [/us/usc/t20/s1096]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1096
-[/us/pl/89/329/s413C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2Fs413C
-[/us/pl/99/498/s401/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F498%2Fs401%2Fa
+[/us/pl/89/329/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2FtIV
+[/us/pl/99/498/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F498%2FtIV
 [/us/stat/100/1329]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1329
-[/us/pl/102/325/s403/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325%2Fs403%2Fd
+[/us/pl/102/325/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325%2FtIV
 [/us/stat/106/506]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F506
-[/us/pl/103/208/s2/b/25]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F208%2Fs2%2Fb%2F25
+[/us/pl/103/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F208
 [/us/stat/107/2459]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F2459
-[/us/pl/105/244/s406/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2Fs406%2Fb
+[/us/pl/105/244/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2FtIV
 [/us/stat/112/1665]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F1665
-[/us/pl/89/329/s413C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2Fs413C
-[/us/pl/92/318/s131/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F318%2Fs131%2Fb%2F1
+[/us/pl/89/329/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2FtIV
+[/us/pl/92/318/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F318%2FtI
 [/us/stat/86/253]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F253
-[/us/pl/94/482/s122/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F482%2Fs122%2Fb
+[/us/pl/94/482/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F482%2FtI
 [/us/stat/90/2094]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2094
-[/us/pl/96/374/s403/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F374%2Fs403%2Fd
+[/us/pl/96/374/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F374%2FtIV
 [/us/stat/94/1405]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F1405
 [/us/pl/99/498]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F498
 [/us/pl/105/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244
 [/us/pl/103/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F208
-[/us/pl/102/325/s403/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325%2Fs403%2Fd
-[/us/pl/102/325/s403/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325%2Fs403%2Fe
-[/us/pl/102/325/s403/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325%2Fs403%2Ff
+[/us/pl/102/325]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325
+[/us/pl/102/325]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325
+[/us/pl/102/325]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325
 [/us/usc/t20/s1095]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1095
 [/us/pl/105/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244
 [/us/pl/105/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244
@@ -163,7 +163,7 @@
 [/us/usc/t20/s1070a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1070a
 [/us/pl/99/498/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F498%2Fs2
 [/us/usc/t20/s1001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1001
-[/us/pl/99/498/s401/b/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F498%2Fs401%2Fb%2F5
+[/us/pl/99/498/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F498%2FtIV
 [/us/stat/100/1353]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1353
 [/us/usc/t20/s1070b–2/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1070b%E2%80%932%2Fc%2F2
 

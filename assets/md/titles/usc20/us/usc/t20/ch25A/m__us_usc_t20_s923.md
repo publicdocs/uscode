@@ -67,13 +67,13 @@
 
         (2) Notwithstanding subsection (c) of this section, the Secretary may not waive the tuition requirements of subsection (b)(1) of this section with respect to children referred to in paragraph (1).
 
-([Pub. L. 95–561, title XIV, § 1404][/us/pl/95/561/s1404], Nov. 1, 1978, [92 Stat. 2366][/us/stat/92/2366]; [Pub. L. 99–145, title XII, § 1205][/us/pl/99/145/s1205], Nov. 8, 1985, [99 Stat. 721][/us/stat/99/721]; [Pub. L. 101–189, div. A, title III, § 325(b)][/us/pl/101/189/s325/b], Nov. 29, 1989, [103 Stat. 1415][/us/stat/103/1415]; [Pub. L. 108–136, div. A, title V, § 563][/us/pl/108/136/s563], Nov. 24, 2003, [117 Stat. 1483][/us/stat/117/1483].)
+([Pub. L. 95–561, title XIV][/us/pl/95/561/tXIV], § 1404, Nov. 1, 1978, [92 Stat. 2366][/us/stat/92/2366]; [Pub. L. 99–145, title XII][/us/pl/99/145/tXII], § 1205, Nov. 8, 1985, [99 Stat. 721][/us/stat/99/721]; [Pub. L. 101–189, div. A, title III][/us/pl/101/189/dA/tIII], § 325(b), Nov. 29, 1989, [103 Stat. 1415][/us/stat/103/1415]; [Pub. L. 108–136, div. A, title V][/us/pl/108/136/dA/tV], § 563, Nov. 24, 2003, [117 Stat. 1483][/us/stat/117/1483].)
 
  __Amendments__ 
 
-    2003—[Pub. L. 108–136, § 563(b)][/us/pl/108/136/s563/b], substituted “Space-available enrollment of students; tuition” for “Tuition-paying students” in section catchline.
+    2003—[Pub. L. 108–136][/us/pl/108/136], § 563(b), substituted “Space-available enrollment of students; tuition” for “Tuition-paying students” in section catchline.
 
-    Subsec. (c). [Pub. L. 108–136, § 563(a)][/us/pl/108/136/s563/a], designated existing provisions as par. (1) and added par. (2).
+    Subsec. (c). [Pub. L. 108–136][/us/pl/108/136], § 563(a), designated existing provisions as par. (1) and added par. (2).
 
     1989—Subsec. (d)(1)(A). [Pub. L. 101–189][/us/pl/101/189] substituted “(other than civilian officers and employees who are sponsors under [section 932(2) of this title][/us/usc/t20/s932/2])” for “(including employees of nonappropriated fund activities of the Department of Defense)”.
 
@@ -81,7 +81,7 @@
 
  __Effective Date of 1989 Amendment__ 
 
-[Pub. L. 101–189, div. A, title III, § 325(c)][/us/pl/101/189/s325/c], Nov. 29, 1989, [103 Stat. 1415][/us/stat/103/1415], provided that: 
+[Pub. L. 101–189, div. A, title III][/us/pl/101/189/dA/tIII], § 325(c), Nov. 29, 1989, [103 Stat. 1415][/us/stat/103/1415], provided that: 
 
 > “The amendments made by this section \[amending this section and [section 932 of this title][/us/usc/t20/s932]\] shall apply with respect to periods of enrollment in schools of the defense dependents’ education system beginning after September 30, 1989.”
 
@@ -93,20 +93,20 @@
 ----------
 
 [/us/usc/t20/s932/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs932%2F2
-[/us/pl/95/561/s1404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F561%2Fs1404
+[/us/pl/95/561/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F561%2FtXIV
 [/us/stat/92/2366]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2366
-[/us/pl/99/145/s1205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F145%2Fs1205
+[/us/pl/99/145/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F145%2FtXII
 [/us/stat/99/721]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F721
-[/us/pl/101/189/s325/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189%2Fs325%2Fb
+[/us/pl/101/189/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189%2FdA%2FtIII
 [/us/stat/103/1415]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1415
-[/us/pl/108/136/s563]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs563
+[/us/pl/108/136/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2FdA%2FtV
 [/us/stat/117/1483]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1483
-[/us/pl/108/136/s563/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs563%2Fb
-[/us/pl/108/136/s563/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs563%2Fa
+[/us/pl/108/136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136
+[/us/pl/108/136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136
 [/us/pl/101/189]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189
 [/us/usc/t20/s932/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs932%2F2
 [/us/pl/99/145]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F145
-[/us/pl/101/189/s325/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189%2Fs325%2Fc
+[/us/pl/101/189/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189%2FdA%2FtIII
 [/us/stat/103/1415]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1415
 [/us/usc/t20/s932]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs932
 

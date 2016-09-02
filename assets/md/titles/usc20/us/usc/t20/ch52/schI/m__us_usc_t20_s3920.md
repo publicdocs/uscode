@@ -17,7 +17,7 @@
 
     Funds to carry out this subchapter for any fiscal year shall be made available from amounts appropriated pursuant to annual authorizations of appropriations for the National Science Foundation for Science and Engineering Education. For fiscal year 1986, funds to carry out this subchapter shall be available from amounts authorized by section 102(a)(8) of the National Science Foundation Authorization Act for fiscal year 1986.
 
-([Pub. L. 98–377, title I, § 110][/us/pl/98/377/s110], as added [Pub. L. 99–159, title II, § 201][/us/pl/99/159/s201], Nov. 22, 1985, [99 Stat. 897][/us/stat/99/897].)
+([Pub. L. 98–377, title I][/us/pl/98/377/tI], § 110, as added [Pub. L. 99–159, title II][/us/pl/99/159/tII], § 201, Nov. 22, 1985, [99 Stat. 897][/us/stat/99/897].)
 
  __References in Text__ 
 
@@ -30,8 +30,8 @@
 ----------
 ----------
 
-[/us/pl/98/377/s110]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F377%2Fs110
-[/us/pl/99/159/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F159%2Fs201
+[/us/pl/98/377/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F377%2FtI
+[/us/pl/99/159/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F159%2FtII
 [/us/stat/99/897]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F897
 [/us/pl/99/159/s102/a/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F159%2Fs102%2Fa%2F8
 [/us/stat/99/887]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F887

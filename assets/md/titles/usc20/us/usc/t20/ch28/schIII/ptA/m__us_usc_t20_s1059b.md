@@ -23,7 +23,7 @@
 
         Any continuation application shall demonstrate the progress made toward achievement of the goals described pursuant to subsection (a) of this section.
 
-([Pub. L. 89–329, title III, § 315][/us/pl/89/329/s315], as added [Pub. L. 102–325, title III, § 302(d)(1)][/us/pl/102/325/s302/d/1], July 23, 1992, [106 Stat. 472][/us/stat/106/472].)
+([Pub. L. 89–329, title III][/us/pl/89/329/tIII], § 315, as added [Pub. L. 102–325, title III][/us/pl/102/325/tIII], § 302(d)(1), July 23, 1992, [106 Stat. 472][/us/stat/106/472].)
 
  __Effective Date__ 
 
@@ -36,8 +36,8 @@
 ----------
 ----------
 
-[/us/pl/89/329/s315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2Fs315
-[/us/pl/102/325/s302/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325%2Fs302%2Fd%2F1
+[/us/pl/89/329/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2FtIII
+[/us/pl/102/325/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325%2FtIII
 [/us/stat/106/472]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F472
 [/us/pl/102/325/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325%2Fs2
 [/us/usc/t20/s1001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1001

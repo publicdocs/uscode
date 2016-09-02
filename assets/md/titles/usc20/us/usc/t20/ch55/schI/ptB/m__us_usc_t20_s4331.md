@@ -17,7 +17,7 @@
 
     For the purpose of providing a residential facility for postsecondary technical training and education for individuals who are deaf in order to prepare them for successful employment, the institution of higher education with which the Secretary has an agreement under this part is authorized to operate and maintain a National Technical Institute for the Deaf.
 
-([Pub. L. 99–371, title I, § 111][/us/pl/99/371/s111], formerly title II, § 201, Aug. 4, 1986, [100 Stat. 784][/us/stat/100/784]; renumbered title I, § 111, [Pub. L. 102–421, title I, § 101(b)(3)][/us/pl/102/421/s101/b/3], (4), Oct. 16, 1992, [106 Stat. 2151][/us/stat/106/2151]; [Pub. L. 103–73, title II, § 203(f)][/us/pl/103/73/s203/f], Aug. 11, 1993, [107 Stat. 734][/us/stat/107/734].)
+([Pub. L. 99–371, title I][/us/pl/99/371/tI], § 111, formerly title II, § 201, Aug. 4, 1986, [100 Stat. 784][/us/stat/100/784]; renumbered title I, § 111, [Pub. L. 102–421, title I][/us/pl/102/421/tI], § 101(b)(3), (4), Oct. 16, 1992, [106 Stat. 2151][/us/stat/106/2151]; [Pub. L. 103–73, title II][/us/pl/103/73/tII], § 203(f), Aug. 11, 1993, [107 Stat. 734][/us/stat/107/734].)
 
  __Amendments__ 
 
@@ -36,11 +36,11 @@
 ----------
 ----------
 
-[/us/pl/99/371/s111]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F371%2Fs111
+[/us/pl/99/371/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F371%2FtI
 [/us/stat/100/784]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F784
-[/us/pl/102/421/s101/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F421%2Fs101%2Fb%2F3
+[/us/pl/102/421/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F421%2FtI
 [/us/stat/106/2151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2151
-[/us/pl/103/73/s203/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F73%2Fs203%2Ff
+[/us/pl/103/73/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F73%2FtII
 [/us/stat/107/734]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F734
 [/us/pl/103/73]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F73
 [/us/pl/99/371/s111]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F371%2Fs111

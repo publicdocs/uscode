@@ -153,33 +153,33 @@
 
         At the expiration or early termination of an agreement under this section, the Secretary shall reinstate the guaranty agency’s prior agreements under subsections (b) and (c) of [section 1078 of this title][/us/usc/t20/s1078], subject only to such additional requirements as the Secretary determines to be necessary in order to ensure the efficient transfer of responsibilities between the agreement under this section and the agreements under subsections (b) and (c) of [section 1078 of this title][/us/usc/t20/s1078], and including the guaranty agency’s compliance with reserve requirements under sections 1072 and 1078 of this title.
 
-([Pub. L. 89–329, title IV, § 428A][/us/pl/89/329/s428A], as added [Pub. L. 105–244, title IV, § 418][/us/pl/105/244/s418], Oct. 7, 1998, [112 Stat. 1691][/us/stat/112/1691]; amended [Pub. L. 109–171, title VIII, § 8014(b)(3)][/us/pl/109/171/s8014/b/3], (f), Feb. 8, 2006, [120 Stat. 169][/us/stat/120/169], 170; [Pub. L. 110–315, title I, § 103(b)(5)][/us/pl/110/315/s103/b/5], title IV, § 423, Aug. 14, 2008, [122 Stat. 3089][/us/stat/122/3089], 3231.)
+([Pub. L. 89–329, title IV][/us/pl/89/329/tIV], § 428A, as added [Pub. L. 105–244, title IV][/us/pl/105/244/tIV], § 418, Oct. 7, 1998, [112 Stat. 1691][/us/stat/112/1691]; amended [Pub. L. 109–171, title VIII][/us/pl/109/171/tVIII], § 8014(b)(3), (f), Feb. 8, 2006, [120 Stat. 169][/us/stat/120/169], 170; [Pub. L. 110–315, title I][/us/pl/110/315/tI], § 103(b)(5), title IV, § 423, Aug. 14, 2008, [122 Stat. 3089][/us/stat/122/3089], 3231.)
 
  __References in Text__ 
 
-    Paragraph (2) of subsec. (a) of this section, referred to in subsecs. (a)(1) and (c)(3), was struck out by [Pub. L. 109–171, § 8014(f)(2)][/us/pl/109/171/s8014/f/2], and par. (3) was redesignated (2). See 2006 Amendment note below.
+    Paragraph (2) of subsec. (a) of this section, referred to in subsecs. (a)(1) and (c)(3), was struck out by [Pub. L. 109–171][/us/pl/109/171], § 8014(f)(2), and par. (3) was redesignated (2). See 2006 Amendment note below.
 
  __Prior Provisions__ 
 
-    A prior section 1078–1, [Pub. L. 89–329, title IV, § 428A][/us/pl/89/329/s428A], as added [Pub. L. 99–498, title IV, § 402(a)][/us/pl/99/498/s402/a], Oct. 17, 1986, [100 Stat. 1384][/us/stat/100/1384]; amended [Pub. L. 100–50, § 10(n)][/us/pl/100/50/s10/n], (o)(1), (p)(1), (q), (r)(1), June 3, 1987, [101 Stat. 343][/us/stat/101/343], 344; [Pub. L. 100–369][/us/pl/100/369], §§ 3–5(a), (b)(3), July 18, 1988, [102 Stat. 835][/us/stat/102/835], 836; [Pub. L. 101–239, title II, § 2003(a)(1)][/us/pl/101/239/s2003/a/1], (b)(1), (c)(1), Dec. 19, 1989, [103 Stat. 2112][/us/stat/103/2112], 2114; [Pub. L. 101–508, title III, § 3006(b)][/us/pl/101/508/s3006/b], Nov. 5, 1990, [104 Stat. 1388–28][/us/stat/104/1388-28]; [Pub. L. 102–26, § 2(c)(1)][/us/pl/102/26/s2/c/1], Apr. 9, 1991, [105 Stat. 123][/us/stat/105/123]; [Pub. L. 102–325, title IV, § 417][/us/pl/102/325/s417], July 23, 1992, [106 Stat. 529][/us/stat/106/529]; [Pub. L. 103–208, § 2(c)(29)][/us/pl/103/208/s2/c/29]–(32), Dec. 20, 1993, [107 Stat. 2465][/us/stat/107/2465], 2466, related to Federal supplemental loans for students, prior to repeal by [Pub. L. 103–66, title IV, § 4047(b)][/us/pl/103/66/s4047/b], (d), Aug. 10, 1993, [107 Stat. 364][/us/stat/107/364], effective July 1, 1994.
+    A prior section 1078–1, [Pub. L. 89–329, title IV][/us/pl/89/329/tIV], § 428A, as added [Pub. L. 99–498, title IV][/us/pl/99/498/tIV], § 402(a), Oct. 17, 1986, [100 Stat. 1384][/us/stat/100/1384]; amended [Pub. L. 100–50][/us/pl/100/50], § 10(n), (o)(1), (p)(1), (q), (r)(1), June 3, 1987, [101 Stat. 343][/us/stat/101/343], 344; [Pub. L. 100–369][/us/pl/100/369], §§ 3–5(a), (b)(3), July 18, 1988, [102 Stat. 835][/us/stat/102/835], 836; [Pub. L. 101–239, title II][/us/pl/101/239/tII], § 2003(a)(1), (b)(1), (c)(1), Dec. 19, 1989, [103 Stat. 2112][/us/stat/103/2112], 2114; [Pub. L. 101–508, title III][/us/pl/101/508/tIII], § 3006(b), Nov. 5, 1990, [104 Stat. 1388–28][/us/stat/104/1388-28]; [Pub. L. 102–26][/us/pl/102/26], § 2(c)(1), Apr. 9, 1991, [105 Stat. 123][/us/stat/105/123]; [Pub. L. 102–325, title IV][/us/pl/102/325/tIV], § 417, July 23, 1992, [106 Stat. 529][/us/stat/106/529]; [Pub. L. 103–208][/us/pl/103/208], § 2(c)(29)–(32), Dec. 20, 1993, [107 Stat. 2465][/us/stat/107/2465], 2466, related to Federal supplemental loans for students, prior to repeal by [Pub. L. 103–66, title IV][/us/pl/103/66/tIV], § 4047(b), (d), Aug. 10, 1993, [107 Stat. 364][/us/stat/107/364], effective July 1, 1994.
 
-    Another prior section 1078–1, [Pub. L. 89–329, title IV, § 428A][/us/pl/89/329/s428A], as added [Pub. L. 94–482, title I, § 127(a)][/us/pl/94/482/s127/a], Oct. 12, 1976, [90 Stat. 2120][/us/stat/90/2120]; amended [Pub. L. 95–43, § 1(a)(30)][/us/pl/95/43/s1/a/30]–(32), June 15, 1977, [91 Stat. 216][/us/stat/91/216]; [Pub. L. 96–374, title IV, § 412(e)][/us/pl/96/374/s412/e], (f), title XIII, § 1391(a)(1), Oct. 3, 1980, [94 Stat. 1416][/us/stat/94/1416], 1417, 1503; [Pub. L. 97–35, title V, § 535(e)][/us/pl/97/35/s535/e], Aug. 13, 1981, [95 Stat. 455][/us/stat/95/455], related to student loan insurance programs, prior to the general amendment of this part by [Pub. L. 99–498][/us/pl/99/498].
+    Another prior section 1078–1, [Pub. L. 89–329, title IV][/us/pl/89/329/tIV], § 428A, as added [Pub. L. 94–482, title I][/us/pl/94/482/tI], § 127(a), Oct. 12, 1976, [90 Stat. 2120][/us/stat/90/2120]; amended [Pub. L. 95–43][/us/pl/95/43], § 1(a)(30)–(32), June 15, 1977, [91 Stat. 216][/us/stat/91/216]; [Pub. L. 96–374, title IV][/us/pl/96/374/tIV], § 412(e), (f), title XIII, § 1391(a)(1), Oct. 3, 1980, [94 Stat. 1416][/us/stat/94/1416], 1417, 1503; [Pub. L. 97–35, title V][/us/pl/97/35/tV], § 535(e), Aug. 13, 1981, [95 Stat. 455][/us/stat/95/455], related to student loan insurance programs, prior to the general amendment of this part by [Pub. L. 99–498][/us/pl/99/498].
 
  __Amendments__ 
 
-    2008—Subsec. (a)(3). [Pub. L. 110–315, § 423][/us/pl/110/315/s423], added par. (3).
+    2008—Subsec. (a)(3). [Pub. L. 110–315][/us/pl/110/315], § 423, added par. (3).
 
-    Subsec. (c)(2), (3). [Pub. L. 110–315, § 103(b)(5)(A)][/us/pl/110/315/s103/b/5/A], (B), substituted “members of the authorizing committees” for “Chairperson and the Ranking Minority Member of the Committee on Labor and Human Resources of the Senate and the Committee on Education and the Workforce of the House of Representatives”.
+    Subsec. (c)(2), (3). [Pub. L. 110–315][/us/pl/110/315], § 103(b)(5)(A), (B), substituted “members of the authorizing committees” for “Chairperson and the Ranking Minority Member of the Committee on Labor and Human Resources of the Senate and the Committee on Education and the Workforce of the House of Representatives”.
 
-    Subsec. (c)(5). [Pub. L. 110–315, § 103(b)(5)(C)][/us/pl/110/315/s103/b/5/C], substituted “members of the authorizing committees” for “Chairperson and the Ranking Minority Members of the Committee on Labor and Human Resources of the Senate and the Committee on Education and the Workforce of the House of Representatives”.
+    Subsec. (c)(5). [Pub. L. 110–315][/us/pl/110/315], § 103(b)(5)(C), substituted “members of the authorizing committees” for “Chairperson and the Ranking Minority Members of the Committee on Labor and Human Resources of the Senate and the Committee on Education and the Workforce of the House of Representatives”.
 
-    2006—Subsec. (a)(1)(B). [Pub. L. 109–171, § 8014(f)(1)][/us/pl/109/171/s8014/f/1], struck out “unless the Secretary determines that such a waiver is consistent with the purposes of this section and is limited to activities of the guaranty agency within the State or States for which the guaranty agency serves as the designated guarantor” before “; or”.
+    2006—Subsec. (a)(1)(B). [Pub. L. 109–171][/us/pl/109/171], § 8014(f)(1), struck out “unless the Secretary determines that such a waiver is consistent with the purposes of this section and is limited to activities of the guaranty agency within the State or States for which the guaranty agency serves as the designated guarantor” before “; or”.
 
-    Subsec. (a)(1)(C). [Pub. L. 109–171, § 8014(b)(3)][/us/pl/109/171/s8014/b/3], added subpar. (C).
+    Subsec. (a)(1)(C). [Pub. L. 109–171][/us/pl/109/171], § 8014(b)(3), added subpar. (C).
 
-    Subsec. (a)(2), (3). [Pub. L. 109–171, § 8014(f)(2)][/us/pl/109/171/s8014/f/2], (3), redesignated par. (3) as (2) and struck out heading and text of former par. (2). Text read as follows: “If the Secretary grants a waiver pursuant to paragraph (1)(B), any guaranty agency doing business within the affected State or States may request, and the Secretary shall grant, an identical waiver to such guaranty agency under the same terms and conditions (including service area limitations) as govern the original waiver.”
+    Subsec. (a)(2), (3). [Pub. L. 109–171][/us/pl/109/171], § 8014(f)(2), (3), redesignated par. (3) as (2) and struck out heading and text of former par. (2). Text read as follows: “If the Secretary grants a waiver pursuant to paragraph (1)(B), any guaranty agency doing business within the affected State or States may request, and the Secretary shall grant, an identical waiver to such guaranty agency under the same terms and conditions (including service area limitations) as govern the original waiver.”
 
-    Subsec. (a)(4). [Pub. L. 109–171, § 8014(f)(4)][/us/pl/109/171/s8014/f/4], struck out par. (4), which required the Secretary to report to congressional committees regarding the impact that the voluntary flexible agreements had on program integrity, program and cost efficiencies, and the availability and delivery of student financial aid.
+    Subsec. (a)(4). [Pub. L. 109–171][/us/pl/109/171], § 8014(f)(4), struck out par. (4), which required the Secretary to report to congressional committees regarding the impact that the voluntary flexible agreements had on program integrity, program and cost efficiencies, and the availability and delivery of student financial aid.
 
  __Effective Date of 2006 Amendment__ 
 
@@ -206,50 +206,50 @@
 [/us/usc/t20/s1078/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1078%2Fb%2F3
 [/us/usc/t20/s1078]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1078
 [/us/usc/t20/s1078]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1078
-[/us/pl/89/329/s428A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2Fs428A
-[/us/pl/105/244/s418]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2Fs418
+[/us/pl/89/329/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2FtIV
+[/us/pl/105/244/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2FtIV
 [/us/stat/112/1691]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F1691
-[/us/pl/109/171/s8014/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F171%2Fs8014%2Fb%2F3
+[/us/pl/109/171/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F171%2FtVIII
 [/us/stat/120/169]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F169
-[/us/pl/110/315/s103/b/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2Fs103%2Fb%2F5
+[/us/pl/110/315/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2FtI
 [/us/stat/122/3089]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3089
-[/us/pl/109/171/s8014/f/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F171%2Fs8014%2Ff%2F2
-[/us/pl/89/329/s428A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2Fs428A
-[/us/pl/99/498/s402/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F498%2Fs402%2Fa
+[/us/pl/109/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F171
+[/us/pl/89/329/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2FtIV
+[/us/pl/99/498/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F498%2FtIV
 [/us/stat/100/1384]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1384
-[/us/pl/100/50/s10/n]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F50%2Fs10%2Fn
+[/us/pl/100/50]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F50
 [/us/stat/101/343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F343
 [/us/pl/100/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F369
 [/us/stat/102/835]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F835
-[/us/pl/101/239/s2003/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2Fs2003%2Fa%2F1
+[/us/pl/101/239/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2FtII
 [/us/stat/103/2112]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F2112
-[/us/pl/101/508/s3006/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs3006%2Fb
+[/us/pl/101/508/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2FtIII
 [/us/stat/104/1388-28]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1388-28
-[/us/pl/102/26/s2/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F26%2Fs2%2Fc%2F1
+[/us/pl/102/26]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F26
 [/us/stat/105/123]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F123
-[/us/pl/102/325/s417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325%2Fs417
+[/us/pl/102/325/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325%2FtIV
 [/us/stat/106/529]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F529
-[/us/pl/103/208/s2/c/29]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F208%2Fs2%2Fc%2F29
+[/us/pl/103/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F208
 [/us/stat/107/2465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F2465
-[/us/pl/103/66/s4047/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66%2Fs4047%2Fb
+[/us/pl/103/66/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66%2FtIV
 [/us/stat/107/364]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F364
-[/us/pl/89/329/s428A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2Fs428A
-[/us/pl/94/482/s127/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F482%2Fs127%2Fa
+[/us/pl/89/329/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2FtIV
+[/us/pl/94/482/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F482%2FtI
 [/us/stat/90/2120]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2120
-[/us/pl/95/43/s1/a/30]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F43%2Fs1%2Fa%2F30
+[/us/pl/95/43]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F43
 [/us/stat/91/216]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F216
-[/us/pl/96/374/s412/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F374%2Fs412%2Fe
+[/us/pl/96/374/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F374%2FtIV
 [/us/stat/94/1416]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F1416
-[/us/pl/97/35/s535/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs535%2Fe
+[/us/pl/97/35/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2FtV
 [/us/stat/95/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F455
 [/us/pl/99/498]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F498
-[/us/pl/110/315/s423]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2Fs423
-[/us/pl/110/315/s103/b/5/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2Fs103%2Fb%2F5%2FA
-[/us/pl/110/315/s103/b/5/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2Fs103%2Fb%2F5%2FC
-[/us/pl/109/171/s8014/f/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F171%2Fs8014%2Ff%2F1
-[/us/pl/109/171/s8014/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F171%2Fs8014%2Fb%2F3
-[/us/pl/109/171/s8014/f/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F171%2Fs8014%2Ff%2F2
-[/us/pl/109/171/s8014/f/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F171%2Fs8014%2Ff%2F4
+[/us/pl/110/315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315
+[/us/pl/110/315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315
+[/us/pl/110/315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315
+[/us/pl/109/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F171
+[/us/pl/109/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F171
+[/us/pl/109/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F171
+[/us/pl/109/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F171
 [/us/pl/109/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F171
 [/us/pl/109/171/s8001/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F171%2Fs8001%2Fc
 [/us/usc/t20/s1002]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1002

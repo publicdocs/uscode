@@ -59,7 +59,7 @@
 
         Members of the Board shall serve without pay, but shall be entitled to reimbursement for travel, subsistence, and other necessary expenses incurred in the performance of their duties as members of the Board.
 
-([Pub. L. 102–281, title IV, § 423][/us/pl/102/281/s423], May 13, 1992, [106 Stat. 142][/us/stat/106/142].)
+([Pub. L. 102–281, title IV][/us/pl/102/281/tIV], § 423, May 13, 1992, [106 Stat. 142][/us/stat/106/142].)
 
 ----------
 
@@ -68,7 +68,7 @@
 ----------
 ----------
 
-[/us/pl/102/281/s423]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F281%2Fs423
+[/us/pl/102/281/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F281%2FtIV
 [/us/stat/106/142]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F142
 
 

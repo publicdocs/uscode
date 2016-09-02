@@ -121,13 +121,13 @@
 
         No member of the council shall cast a vote on any matter that is likely to provide a direct financial benefit to that member or otherwise give the appearance of a conflict of interest under State law.
 
-([Pub. L. 91–230, title VI, § 641][/us/pl/91/230/s641], as added [Pub. L. 108–446, title I, § 101][/us/pl/108/446/s101], Dec. 3, 2004, [118 Stat. 2758][/us/stat/118/2758].)
+([Pub. L. 91–230, title VI][/us/pl/91/230/tVI], § 641, as added [Pub. L. 108–446, title I][/us/pl/108/446/tI], § 101, Dec. 3, 2004, [118 Stat. 2758][/us/stat/118/2758].)
 
  __Prior Provisions__ 
 
-    A prior section 1441, [Pub. L. 91–230, title VI, § 641][/us/pl/91/230/s641], as added [Pub. L. 105–17, title I, § 101][/us/pl/105/17/s101], June 4, 1997, [111 Stat. 116][/us/stat/111/116], related to State interagency coordinating councils, prior to the general amendment of subchapters I to IV of this chapter by [Pub. L. 108–446][/us/pl/108/446].
+    A prior section 1441, [Pub. L. 91–230, title VI][/us/pl/91/230/tVI], § 641, as added [Pub. L. 105–17, title I][/us/pl/105/17/tI], § 101, June 4, 1997, [111 Stat. 116][/us/stat/111/116], related to State interagency coordinating councils, prior to the general amendment of subchapters I to IV of this chapter by [Pub. L. 108–446][/us/pl/108/446].
 
-    Another prior section 1441, [Pub. L. 91–230, title VI, § 641][/us/pl/91/230/s641], Apr. 13, 1970, [84 Stat. 185][/us/stat/84/185]; [Pub. L. 95–49, § 4][/us/pl/95/49/s4], June 17, 1977, [91 Stat. 230][/us/stat/91/230]; [Pub. L. 98–199][/us/pl/98/199], §§ 3(b), 12, Dec. 2, 1983, [97 Stat. 1358][/us/stat/97/1358], 1372; [Pub. L. 99–457, title III, § 312][/us/pl/99/457/s312], Oct. 8, 1986, [100 Stat. 1169][/us/stat/100/1169]; [Pub. L. 100–630, title I, § 105(b)][/us/pl/100/630/s105/b], Nov. 7, 1988, [102 Stat. 3299][/us/stat/102/3299]; [Pub. L. 101–476, title V, § 501][/us/pl/101/476/s501], Oct. 30, 1990, [104 Stat. 1135][/us/stat/104/1135]; [Pub. L. 102–421, title II, § 203][/us/pl/102/421/s203], Oct. 16, 1992, [106 Stat. 2165][/us/stat/106/2165], related to grants, contracts, and cooperative agreements for research and related activities, attention deficit disorder centers, and model demonstration programs, prior to repeal by [Pub. L. 105–17, title II, § 203(c)][/us/pl/105/17/s203/c], June 4, 1997, [111 Stat. 157][/us/stat/111/157], effective Oct. 1, 1997.
+    Another prior section 1441, [Pub. L. 91–230, title VI][/us/pl/91/230/tVI], § 641, Apr. 13, 1970, [84 Stat. 185][/us/stat/84/185]; [Pub. L. 95–49][/us/pl/95/49], § 4, June 17, 1977, [91 Stat. 230][/us/stat/91/230]; [Pub. L. 98–199][/us/pl/98/199], §§ 3(b), 12, Dec. 2, 1983, [97 Stat. 1358][/us/stat/97/1358], 1372; [Pub. L. 99–457, title III][/us/pl/99/457/tIII], § 312, Oct. 8, 1986, [100 Stat. 1169][/us/stat/100/1169]; [Pub. L. 100–630, title I][/us/pl/100/630/tI], § 105(b), Nov. 7, 1988, [102 Stat. 3299][/us/stat/102/3299]; [Pub. L. 101–476, title V][/us/pl/101/476/tV], § 501, Oct. 30, 1990, [104 Stat. 1135][/us/stat/104/1135]; [Pub. L. 102–421, title II][/us/pl/102/421/tII], § 203, Oct. 16, 1992, [106 Stat. 2165][/us/stat/106/2165], related to grants, contracts, and cooperative agreements for research and related activities, attention deficit disorder centers, and model demonstration programs, prior to repeal by [Pub. L. 105–17, title II][/us/pl/105/17/tII], § 203(c), June 4, 1997, [111 Stat. 157][/us/stat/111/157], effective Oct. 1, 1997.
 
 ----------
 
@@ -138,28 +138,28 @@
 
 [/us/usc/t20/s1435/a/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1435%2Fa%2F10
 [/us/usc/t20/s1435/a/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1435%2Fa%2F10
-[/us/pl/91/230/s641]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F230%2Fs641
-[/us/pl/108/446/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F446%2Fs101
+[/us/pl/91/230/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F230%2FtVI
+[/us/pl/108/446/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F446%2FtI
 [/us/stat/118/2758]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F2758
-[/us/pl/91/230/s641]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F230%2Fs641
-[/us/pl/105/17/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F17%2Fs101
+[/us/pl/91/230/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F230%2FtVI
+[/us/pl/105/17/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F17%2FtI
 [/us/stat/111/116]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F116
 [/us/pl/108/446]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F446
-[/us/pl/91/230/s641]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F230%2Fs641
+[/us/pl/91/230/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F230%2FtVI
 [/us/stat/84/185]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F185
-[/us/pl/95/49/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F49%2Fs4
+[/us/pl/95/49]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F49
 [/us/stat/91/230]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F230
 [/us/pl/98/199]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F199
 [/us/stat/97/1358]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F1358
-[/us/pl/99/457/s312]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F457%2Fs312
+[/us/pl/99/457/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F457%2FtIII
 [/us/stat/100/1169]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1169
-[/us/pl/100/630/s105/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F630%2Fs105%2Fb
+[/us/pl/100/630/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F630%2FtI
 [/us/stat/102/3299]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3299
-[/us/pl/101/476/s501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F476%2Fs501
+[/us/pl/101/476/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F476%2FtV
 [/us/stat/104/1135]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1135
-[/us/pl/102/421/s203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F421%2Fs203
+[/us/pl/102/421/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F421%2FtII
 [/us/stat/106/2165]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2165
-[/us/pl/105/17/s203/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F17%2Fs203%2Fc
+[/us/pl/105/17/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F17%2FtII
 [/us/stat/111/157]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F157
 
 

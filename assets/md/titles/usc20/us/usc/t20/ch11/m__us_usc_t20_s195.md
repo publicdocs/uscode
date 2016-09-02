@@ -17,7 +17,7 @@
 
     Notwithstanding any other provision of law, the Secretary of Agriculture is authorized to solicit, accept, receive, hold, utilize, and administer on behalf of the United States gifts, bequests, or devises of real and personal property made for the benefit of the National Arboretum or for the carrying out of any of its functions. For the purposes of the Federal income, estate, and gift tax laws, property accepted under the authority of this section shall be considered as a gift, bequest, or devise to the United States. Any gift of money accepted pursuant to the authority granted in this section, or the net proceeds from the liquidation of any property so accepted, or the proceeds of any insurance on any gift property not used for its restoration shall be deposited in the Treasury of the United States for credit to a separate fund and shall be disbursed upon order of the Secretary of Agriculture.
 
-([Mar. 4, 1927, ch. 505, § 5][/us/act/1927-03-04/ch505/s5], as added [Pub. L. 94–129][/us/pl/94/129], Nov. 13, 1975, [89 Stat. 683][/us/stat/89/683]; amended [Pub. L. 104–127, title VIII, § 890(a)][/us/pl/104/127/s890/a], Apr. 4, 1996, [110 Stat. 1181][/us/stat/110/1181].)
+([Mar. 4, 1927, ch. 505][/us/act/1927-03-04/ch505], § 5, as added [Pub. L. 94–129][/us/pl/94/129], Nov. 13, 1975, [89 Stat. 683][/us/stat/89/683]; amended [Pub. L. 104–127, title VIII][/us/pl/104/127/tVIII], § 890(a), Apr. 4, 1996, [110 Stat. 1181][/us/stat/110/1181].)
 
  __Amendments__ 
 
@@ -30,10 +30,10 @@
 ----------
 ----------
 
-[/us/act/1927-03-04/ch505/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1927-03-04%2Fch505%2Fs5
+[/us/act/1927-03-04/ch505]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1927-03-04%2Fch505
 [/us/pl/94/129]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F129
 [/us/stat/89/683]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F683
-[/us/pl/104/127/s890/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2Fs890%2Fa
+[/us/pl/104/127/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2FtVIII
 [/us/stat/110/1181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1181
 [/us/pl/104/127]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127
 

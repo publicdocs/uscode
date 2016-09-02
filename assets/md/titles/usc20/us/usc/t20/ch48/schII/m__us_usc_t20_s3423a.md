@@ -71,7 +71,7 @@
 
         (3) the term “State educational agency” means the State board of education or other agency or officer primarily responsible for the State supervision of public elementary and secondary schools, or, if there is no such officer or agency, an officer or agency designated by the Governor or by State law.
 
-([Pub. L. 96–88, title II, § 212][/us/pl/96/88/s212], formerly § 214, as added [Pub. L. 101–392, title VI, § 602(a)(3)][/us/pl/101/392/s602/a/3], Sept. 25, 1990, [104 Stat. 840][/us/stat/104/840]; amended [Pub. L. 103–322, title II, § 20408(a)][/us/pl/103/322/s20408/a], Sept. 13, 1994, [108 Stat. 1827][/us/stat/108/1827]; renumbered § 212, [Pub. L. 103–382, title II, § 271(a)(2)][/us/pl/103/382/s271/a/2], Oct. 20, 1994, [108 Stat. 3929][/us/stat/108/3929].)
+([Pub. L. 96–88, title II][/us/pl/96/88/tII], § 212, formerly § 214, as added [Pub. L. 101–392, title VI][/us/pl/101/392/tVI], § 602(a)(3), Sept. 25, 1990, [104 Stat. 840][/us/stat/104/840]; amended [Pub. L. 103–322, title II][/us/pl/103/322/tII], § 20408(a), Sept. 13, 1994, [108 Stat. 1827][/us/stat/108/1827]; renumbered § 212, [Pub. L. 103–382, title II][/us/pl/103/382/tII], § 271(a)(2), Oct. 20, 1994, [108 Stat. 3929][/us/stat/108/3929].)
 
  __Prior Provisions__ 
 
@@ -83,7 +83,7 @@
 
  __Effective Date__ 
 
-[Pub. L. 101–392, title VII, § 702][/us/pl/101/392/s702], Sept. 25, 1990, [104 Stat. 843][/us/stat/104/843], provided that:
+[Pub. L. 101–392, title VII][/us/pl/101/392/tVII], § 702, Sept. 25, 1990, [104 Stat. 843][/us/stat/104/843], provided that:
 
 >     “(a)  __In General__  __.—__ 
 
@@ -100,17 +100,17 @@
 ----------
 ----------
 
-[/us/pl/96/88/s212]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F88%2Fs212
-[/us/pl/101/392/s602/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F392%2Fs602%2Fa%2F3
+[/us/pl/96/88/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F88%2FtII
+[/us/pl/101/392/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F392%2FtVI
 [/us/stat/104/840]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F840
-[/us/pl/103/322/s20408/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs20408%2Fa
+[/us/pl/103/322/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2FtII
 [/us/stat/108/1827]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1827
-[/us/pl/103/382/s271/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F382%2Fs271%2Fa%2F2
+[/us/pl/103/382/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F382%2FtII
 [/us/stat/108/3929]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3929
 [/us/pl/96/88/s212]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F88%2Fs212
 [/us/usc/t20/s3422]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs3422
 [/us/pl/103/322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322
-[/us/pl/101/392/s702]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F392%2Fs702
+[/us/pl/101/392/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F392%2FtVII
 [/us/stat/104/843]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F843
 [/us/usc/t25/s1812]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs1812
 [/us/usc/t20/s2301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs2301

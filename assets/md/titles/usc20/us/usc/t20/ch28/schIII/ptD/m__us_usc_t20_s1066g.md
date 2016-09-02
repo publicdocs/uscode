@@ -17,7 +17,7 @@
 
     In the performance of and with respect to the Secretary’s effectuation of his responsibilities under [section 1066d(1) of this title][/us/usc/t20/s1066d/1] and to the maximum extent feasible in the implementation of the purposes of this part, minority business persons, including bond underwriters and credit enhancers, bond counsel, marketers, accountants, advisors, construction contractors, and managers should be utilized.
 
-([Pub. L. 89–329, title III, § 348][/us/pl/89/329/s348], formerly title VII, § 728, as added [Pub. L. 102–325, title VII, § 704][/us/pl/102/325/s704], July 23, 1992, [106 Stat. 747][/us/stat/106/747]; renumbered title III, § 348, and amended [Pub. L. 105–244, title III, § 301(a)(3)][/us/pl/105/244/s301/a/3], (4), (c)(7), Oct. 7, 1998, [112 Stat. 1636][/us/stat/112/1636], 1637.)
+([Pub. L. 89–329, title III][/us/pl/89/329/tIII], § 348, formerly title VII, § 728, as added [Pub. L. 102–325, title VII][/us/pl/102/325/tVII], § 704, July 23, 1992, [106 Stat. 747][/us/stat/106/747]; renumbered title III, § 348, and amended [Pub. L. 105–244, title III][/us/pl/105/244/tIII], § 301(a)(3), (4), (c)(7), Oct. 7, 1998, [112 Stat. 1636][/us/stat/112/1636], 1637.)
 
  __Codification__ 
 
@@ -25,7 +25,7 @@
 
  __Amendments__ 
 
-    1998—[Pub. L. 105–244, § 301(c)(7)][/us/pl/105/244/s301/c/7], substituted “section 1066d(1)” for “section 1132c–4(1)”.
+    1998—[Pub. L. 105–244][/us/pl/105/244], § 301(c)(7), substituted “section 1066d(1)” for “section 1132c–4(1)”.
 
  __Effective Date of 1998 Amendment__ 
 
@@ -39,14 +39,14 @@
 ----------
 
 [/us/usc/t20/s1066d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1066d%2F1
-[/us/pl/89/329/s348]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2Fs348
-[/us/pl/102/325/s704]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325%2Fs704
+[/us/pl/89/329/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2FtIII
+[/us/pl/102/325/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325%2FtVII
 [/us/stat/106/747]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F747
-[/us/pl/105/244/s301/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2Fs301%2Fa%2F3
+[/us/pl/105/244/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2FtIII
 [/us/stat/112/1636]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F1636
 [/us/usc/t20/s1132c–7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1132c%E2%80%937
 [/us/pl/105/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244
-[/us/pl/105/244/s301/c/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2Fs301%2Fc%2F7
+[/us/pl/105/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244
 [/us/pl/105/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244
 [/us/pl/105/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244
 [/us/pl/105/244/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2Fs3

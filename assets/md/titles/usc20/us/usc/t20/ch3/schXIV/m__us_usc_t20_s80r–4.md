@@ -33,7 +33,7 @@
 
         The employees appointed by the Secretary under subsection (b) of this section may be paid without regard to the provisions of chapter 51 and subchapter III of chapter 53 of title 5 relating to classification of positions and General Schedule pay rates.
 
-([Pub. L. 108–184, § 6][/us/pl/108/184/s6], Dec. 16, 2003, [117 Stat. 2679][/us/stat/117/2679].)
+([Pub. L. 108–184][/us/pl/108/184], § 6, Dec. 16, 2003, [117 Stat. 2679][/us/stat/117/2679].)
 
 ----------
 
@@ -42,7 +42,7 @@
 ----------
 ----------
 
-[/us/pl/108/184/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F184%2Fs6
+[/us/pl/108/184]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F184
 [/us/stat/117/2679]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2679
 
 

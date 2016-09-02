@@ -87,15 +87,15 @@
 
         Notwithstanding any other provision of this subchapter, funds appropriated for carrying out this section may not be obligated for actual construction of any facility under this section until the 60th day after the date on which the Board of Regents transmits to Congress a written analysis of the total estimated cost of the construction and a cost-sharing plan projecting the amount for Federal appropriations and for non-Federal contributions for the construction on a fiscal year basis.
 
-([Pub. L. 101–185, § 7][/us/pl/101/185/s7], Nov. 28, 1989, [103 Stat. 1339][/us/stat/103/1339].)
+([Pub. L. 101–185][/us/pl/101/185], § 7, Nov. 28, 1989, [103 Stat. 1339][/us/stat/103/1339].)
 
  __Codification__ 
 
-    “Section 586(a) and (b) of title 40” substituted in subsec. (b)(1)(A) for “section 210(j) of the Federal Property and Administrative Services Act of 1949 ([40 U.S.C. 490(j)][/us/usc/t40/s490/j])”, “[section 592 of title 40][/us/usc/t40/s592]” substituted in subsec. (b)(1)(B) for “section 210(f) of the Federal Property and Administrative Services Act of 1949 ([40 U.S.C. 490(f)][/us/usc/t40/s490/f])”, and “section 586(a) and (b) of title 40” substituted in subsec. (b)(1)(B) for “section 210(j) of such Act” on authority of [Pub. L. 107–217, § 5(c)][/us/pl/107/217/s5/c], Aug. 21, 2002, [116 Stat. 1303][/us/stat/116/1303], the first section of which enacted Title 40, Public Buildings, Property, and Works.
+    “Section 586(a) and (b) of title 40” substituted in subsec. (b)(1)(A) for “section 210(j) of the Federal Property and Administrative Services Act of 1949 ([40 U.S.C. 490(j)][/us/usc/t40/s490/j])”, “[section 592 of title 40][/us/usc/t40/s592]” substituted in subsec. (b)(1)(B) for “section 210(f) of the Federal Property and Administrative Services Act of 1949 ([40 U.S.C. 490(f)][/us/usc/t40/s490/f])”, and “section 586(a) and (b) of title 40” substituted in subsec. (b)(1)(B) for “section 210(j) of such Act” on authority of [Pub. L. 107–217][/us/pl/107/217], § 5(c), Aug. 21, 2002, [116 Stat. 1303][/us/stat/116/1303], the first section of which enacted Title 40, Public Buildings, Property, and Works.
 
  __National Native American Veterans’ Memorial__ 
 
-[Pub. L. 103–384][/us/pl/103/384], Oct. 22, 1994, [108 Stat. 4067][/us/stat/108/4067], as amended by [Pub. L. 113–70, § 2][/us/pl/113/70/s2], Dec. 26, 2013, [127 Stat. 1208][/us/stat/127/1208], provided that:
+[Pub. L. 103–384][/us/pl/103/384], Oct. 22, 1994, [108 Stat. 4067][/us/stat/108/4067], as amended by [Pub. L. 113–70][/us/pl/113/70], § 2, Dec. 26, 2013, [127 Stat. 1208][/us/stat/127/1208], provided that:
 
 > “SECTION 1. __SHORT TITLE.__ 
 
@@ -153,16 +153,16 @@
 ----------
 
 [/us/usc/t40/s592]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft40%2Fs592
-[/us/pl/101/185/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F185%2Fs7
+[/us/pl/101/185]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F185
 [/us/stat/103/1339]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1339
 [/us/usc/t40/s490/j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft40%2Fs490%2Fj
 [/us/usc/t40/s592]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft40%2Fs592
 [/us/usc/t40/s490/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft40%2Fs490%2Ff
-[/us/pl/107/217/s5/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F217%2Fs5%2Fc
+[/us/pl/107/217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F217
 [/us/stat/116/1303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1303
 [/us/pl/103/384]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F384
 [/us/stat/108/4067]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4067
-[/us/pl/113/70/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F70%2Fs2
+[/us/pl/113/70]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F70
 [/us/stat/127/1208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F1208
 [/us/usc/t20/s80q]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs80q
 [/us/usc/t20/s80q–5/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs80q%E2%80%935%2Fa

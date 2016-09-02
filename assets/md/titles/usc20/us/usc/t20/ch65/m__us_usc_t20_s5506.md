@@ -49,7 +49,7 @@
 
         In selecting individuals for internships and fellowships, the Administrator shall provide for wide geographic, cultural, and minority representation.
 
-([Pub. L. 101–619, § 7][/us/pl/101/619/s7], Nov. 16, 1990, [104 Stat. 3331][/us/stat/104/3331].)
+([Pub. L. 101–619][/us/pl/101/619], § 7, Nov. 16, 1990, [104 Stat. 3331][/us/stat/104/3331].)
 
 ----------
 
@@ -58,7 +58,7 @@
 ----------
 ----------
 
-[/us/pl/101/619/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F619%2Fs7
+[/us/pl/101/619]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F619
 [/us/stat/104/3331]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3331
 
 

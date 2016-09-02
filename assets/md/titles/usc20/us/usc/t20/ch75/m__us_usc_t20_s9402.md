@@ -85,7 +85,7 @@
 
         The term “young child” means any child from birth to the age of mandatory school attendance in the State where the child resides.
 
-([Pub. L. 106–554, § 1(a)(1)][/us/pl/106/554/s1/a/1] \[title VIII, § 803\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–81.)
+([Pub. L. 106–554][/us/pl/106/554], § 1(a)(1) \[title VIII, § 803\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–81.)
 
 ----------
 
@@ -98,7 +98,7 @@
 [/us/usc/t20/s9413/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs9413%2Fa
 [/us/usc/t42/s9902/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs9902%2F2
 [/us/usc/t42/s619/4/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs619%2F4%2FB
-[/us/pl/106/554/s1/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F1
+[/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
 [/us/stat/114/2763]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2763
 
 

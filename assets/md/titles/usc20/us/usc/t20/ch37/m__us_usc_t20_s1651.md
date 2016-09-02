@@ -17,7 +17,7 @@
 
     No provision of this Act shall be construed to require the assignment or transportation of students or teachers in order to overcome racial imbalance.
 
-([Pub. L. 92–318, title VIII, § 801][/us/pl/92/318/s801], June 23, 1972, [86 Stat. 371][/us/stat/86/371].)
+([Pub. L. 92–318, title VIII][/us/pl/92/318/tVIII], § 801, June 23, 1972, [86 Stat. 371][/us/stat/86/371].)
 
  __References in Text__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/pl/92/318/s801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F318%2Fs801
+[/us/pl/92/318/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F318%2FtVIII
 [/us/stat/86/371]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F371
 [/us/pl/92/318]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F318
 [/us/stat/86/235]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F235

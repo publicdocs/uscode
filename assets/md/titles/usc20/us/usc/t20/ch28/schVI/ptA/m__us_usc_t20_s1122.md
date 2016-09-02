@@ -143,41 +143,41 @@
 
         (2) a description of how the applicant will encourage government service in areas of national need, as identified by the Secretary, as well as in areas of need in the education, business, and nonprofit sectors.
 
-([Pub. L. 89–329, title VI, § 602][/us/pl/89/329/s602], as added [Pub. L. 105–244, title VI, § 601][/us/pl/105/244/s601], Oct. 7, 1998, [112 Stat. 1775][/us/stat/112/1775]; amended [Pub. L. 110–315, title VI, § 602][/us/pl/110/315/s602], Aug. 14, 2008, [122 Stat. 3334][/us/stat/122/3334].)
+([Pub. L. 89–329, title VI][/us/pl/89/329/tVI], § 602, as added [Pub. L. 105–244, title VI][/us/pl/105/244/tVI], § 601, Oct. 7, 1998, [112 Stat. 1775][/us/stat/112/1775]; amended [Pub. L. 110–315, title VI][/us/pl/110/315/tVI], § 602, Aug. 14, 2008, [122 Stat. 3334][/us/stat/122/3334].)
 
  __Prior Provisions__ 
 
-    A prior section 1122, [Pub. L. 89–329, title VI, § 602][/us/pl/89/329/s602], as added [Pub. L. 96–374, title VI, § 601(a)][/us/pl/96/374/s601/a], Oct. 3, 1980, [94 Stat. 1465][/us/stat/94/1465]; amended [Pub. L. 99–498, title VI, § 602][/us/pl/99/498/s602], Oct. 17, 1986, [100 Stat. 1514][/us/stat/100/1514]; [Pub. L. 100–50, § 18][/us/pl/100/50/s18], June 3, 1987, [101 Stat. 360][/us/stat/101/360]; [Pub. L. 102–325, title VI, § 601][/us/pl/102/325/s601], July 23, 1992, [106 Stat. 720][/us/stat/106/720]; [Pub. L. 103–208, § 2(j)(10)][/us/pl/103/208/s2/j/10], (11), Dec. 20, 1993, [107 Stat. 2481][/us/stat/107/2481], authorized grants for graduate and undergraduate language and area centers and programs, prior to the general amendment of this part by [Pub. L. 105–244][/us/pl/105/244].
+    A prior section 1122, [Pub. L. 89–329, title VI][/us/pl/89/329/tVI], § 602, as added [Pub. L. 96–374, title VI][/us/pl/96/374/tVI], § 601(a), Oct. 3, 1980, [94 Stat. 1465][/us/stat/94/1465]; amended [Pub. L. 99–498, title VI][/us/pl/99/498/tVI], § 602, Oct. 17, 1986, [100 Stat. 1514][/us/stat/100/1514]; [Pub. L. 100–50][/us/pl/100/50], § 18, June 3, 1987, [101 Stat. 360][/us/stat/101/360]; [Pub. L. 102–325, title VI][/us/pl/102/325/tVI], § 601, July 23, 1992, [106 Stat. 720][/us/stat/106/720]; [Pub. L. 103–208][/us/pl/103/208], § 2(j)(10), (11), Dec. 20, 1993, [107 Stat. 2481][/us/stat/107/2481], authorized grants for graduate and undergraduate language and area centers and programs, prior to the general amendment of this part by [Pub. L. 105–244][/us/pl/105/244].
 
-    Another prior section 1122, [Pub. L. 89–329, title VI, § 602][/us/pl/89/329/s602], Nov. 8, 1965, [79 Stat. 1261][/us/stat/79/1261]; [Pub. L. 95–180, § 1(c)][/us/pl/95/180/s1/c], Nov. 15, 1977, [91 Stat. 1372][/us/stat/91/1372], related to the allotment to States of funds under the program of equipment grants to institutions of higher education, prior to the general amendment of this subchapter by [Pub. L. 96–374][/us/pl/96/374].
+    Another prior section 1122, [Pub. L. 89–329, title VI][/us/pl/89/329/tVI], § 602, Nov. 8, 1965, [79 Stat. 1261][/us/stat/79/1261]; [Pub. L. 95–180][/us/pl/95/180], § 1(c), Nov. 15, 1977, [91 Stat. 1372][/us/stat/91/1372], related to the allotment to States of funds under the program of equipment grants to institutions of higher education, prior to the general amendment of this subchapter by [Pub. L. 96–374][/us/pl/96/374].
 
  __Amendments__ 
 
-    2008—Subsec. (a)(1)(A). [Pub. L. 110–315, § 602(1)(A)][/us/pl/110/315/s602/1/A], added subpar. (A) and struck out former subpar. (A). Prior to amendment, text read as follows: “The Secretary is authorized—
+    2008—Subsec. (a)(1)(A). [Pub. L. 110–315][/us/pl/110/315], § 602(1)(A), added subpar. (A) and struck out former subpar. (A). Prior to amendment, text read as follows: “The Secretary is authorized—
 
     “(i) to make grants to institutions of higher education, or combinations thereof, for the purpose of establishing, strengthening, and operating comprehensive foreign language and area or international studies centers and programs; and
 
     “(ii) to make grants to such institutions or combinations for the purpose of establishing, strengthening, and operating a diverse network of undergraduate foreign language and area or international studies centers and programs.”
 
-    Subsec. (a)(2)(I), (J). [Pub. L. 110–315, § 602(1)(B)][/us/pl/110/315/s602/1/B], added subpars. (I) and (J).
+    Subsec. (a)(2)(I), (J). [Pub. L. 110–315][/us/pl/110/315], § 602(1)(B), added subpars. (I) and (J).
 
-    Subsec. (a)(4)(C). [Pub. L. 110–315, § 602(1)(C)(iv)][/us/pl/110/315/s602/1/C/iv], added subpar. (C). Former subpar. (C) redesignated (D).
+    Subsec. (a)(4)(C). [Pub. L. 110–315][/us/pl/110/315], § 602(1)(C)(iv), added subpar. (C). Former subpar. (C) redesignated (D).
 
-    [Pub. L. 110–315, § 602(1)(C)(i)][/us/pl/110/315/s602/1/C/i], substituted “Partnerships or programs of linkage and outreach” for “Programs of linkage or outreach” and inserted “, including Federal or State scholarship programs for students in related areas” before period at end.
+    [Pub. L. 110–315][/us/pl/110/315], § 602(1)(C)(i), substituted “Partnerships or programs of linkage and outreach” for “Programs of linkage or outreach” and inserted “, including Federal or State scholarship programs for students in related areas” before period at end.
 
-    Subsec. (a)(4)(D). [Pub. L. 110–315, § 602(1)(C)(iii)][/us/pl/110/315/s602/1/C/iii], redesignated subpar. (C) as (D). Former subpar. (D) redesignated (E).
+    Subsec. (a)(4)(D). [Pub. L. 110–315][/us/pl/110/315], § 602(1)(C)(iii), redesignated subpar. (C) as (D). Former subpar. (D) redesignated (E).
 
-    Subsec. (a)(4)(E). [Pub. L. 110–315, § 602(1)(C)(iii)][/us/pl/110/315/s602/1/C/iii], redesignated subpar. (D) as (E). Former subpar. (E) redesignated (F).
+    Subsec. (a)(4)(E). [Pub. L. 110–315][/us/pl/110/315], § 602(1)(C)(iii), redesignated subpar. (D) as (E). Former subpar. (E) redesignated (F).
 
-    [Pub. L. 110–315, § 602(1)(C)(ii)][/us/pl/110/315/s602/1/C/ii], substituted “area studies” for “foreign area” and “(D), and (E)” for “(C), and (D)” and struck out “of linkage and outreach” after “programs”.
+    [Pub. L. 110–315][/us/pl/110/315], § 602(1)(C)(ii), substituted “area studies” for “foreign area” and “(D), and (E)” for “(C), and (D)” and struck out “of linkage and outreach” after “programs”.
 
-    Subsec. (a)(4)(F). [Pub. L. 110–315, § 602(1)(C)(iii)][/us/pl/110/315/s602/1/C/iii], redesignated subpar. (E) as (F).
+    Subsec. (a)(4)(F). [Pub. L. 110–315][/us/pl/110/315], § 602(1)(C)(iii), redesignated subpar. (E) as (F).
 
-    Subsec. (b). [Pub. L. 110–315, § 602(2)(A)][/us/pl/110/315/s602/2/A], struck out “Graduate” before “fellowships” in heading.
+    Subsec. (b). [Pub. L. 110–315][/us/pl/110/315], § 602(2)(A), struck out “Graduate” before “fellowships” in heading.
 
-    Subsec. (b)(2). [Pub. L. 110–315, § 602(2)(B)][/us/pl/110/315/s602/2/B], added par. (2) and struck out former par. (2). Prior to amendment, text read as follows: “Students receiving stipends described in paragraph (1) shall be individuals who are engaged in an instructional program with stated performance goals for functional foreign language use or in a program developing such performance goals, in combination with area studies, international studies, or the international aspects of a professional studies program, including predissertation level studies, preparation for dissertation research, dissertation research abroad, and dissertation writing.”
+    Subsec. (b)(2). [Pub. L. 110–315][/us/pl/110/315], § 602(2)(B), added par. (2) and struck out former par. (2). Prior to amendment, text read as follows: “Students receiving stipends described in paragraph (1) shall be individuals who are engaged in an instructional program with stated performance goals for functional foreign language use or in a program developing such performance goals, in combination with area studies, international studies, or the international aspects of a professional studies program, including predissertation level studies, preparation for dissertation research, dissertation research abroad, and dissertation writing.”
 
-    Subsecs. (d), (e). [Pub. L. 110–315, § 602(3)][/us/pl/110/315/s602/3], added subsecs. (d) and (e) and struck out former subsec. (d). Prior to amendment, text read as follows: “Stipends awarded to graduate level recipients may include allowances for dependents and for travel for research and study in the United States and abroad.”
+    Subsecs. (d), (e). [Pub. L. 110–315][/us/pl/110/315], § 602(3), added subsecs. (d) and (e) and struck out former subsec. (d). Prior to amendment, text read as follows: “Stipends awarded to graduate level recipients may include allowances for dependents and for travel for research and study in the United States and abroad.”
 
 ----------
 
@@ -186,38 +186,38 @@
 ----------
 ----------
 
-[/us/pl/89/329/s602]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2Fs602
-[/us/pl/105/244/s601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2Fs601
+[/us/pl/89/329/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2FtVI
+[/us/pl/105/244/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2FtVI
 [/us/stat/112/1775]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F1775
-[/us/pl/110/315/s602]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2Fs602
+[/us/pl/110/315/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2FtVI
 [/us/stat/122/3334]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3334
-[/us/pl/89/329/s602]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2Fs602
-[/us/pl/96/374/s601/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F374%2Fs601%2Fa
+[/us/pl/89/329/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2FtVI
+[/us/pl/96/374/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F374%2FtVI
 [/us/stat/94/1465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F1465
-[/us/pl/99/498/s602]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F498%2Fs602
+[/us/pl/99/498/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F498%2FtVI
 [/us/stat/100/1514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1514
-[/us/pl/100/50/s18]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F50%2Fs18
+[/us/pl/100/50]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F50
 [/us/stat/101/360]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F360
-[/us/pl/102/325/s601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325%2Fs601
+[/us/pl/102/325/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325%2FtVI
 [/us/stat/106/720]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F720
-[/us/pl/103/208/s2/j/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F208%2Fs2%2Fj%2F10
+[/us/pl/103/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F208
 [/us/stat/107/2481]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F2481
 [/us/pl/105/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244
-[/us/pl/89/329/s602]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2Fs602
+[/us/pl/89/329/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2FtVI
 [/us/stat/79/1261]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F1261
-[/us/pl/95/180/s1/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F180%2Fs1%2Fc
+[/us/pl/95/180]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F180
 [/us/stat/91/1372]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F1372
 [/us/pl/96/374]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F374
-[/us/pl/110/315/s602/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2Fs602%2F1%2FA
-[/us/pl/110/315/s602/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2Fs602%2F1%2FB
-[/us/pl/110/315/s602/1/C/iv]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2Fs602%2F1%2FC%2Fiv
-[/us/pl/110/315/s602/1/C/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2Fs602%2F1%2FC%2Fi
-[/us/pl/110/315/s602/1/C/iii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2Fs602%2F1%2FC%2Fiii
-[/us/pl/110/315/s602/1/C/iii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2Fs602%2F1%2FC%2Fiii
-[/us/pl/110/315/s602/1/C/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2Fs602%2F1%2FC%2Fii
-[/us/pl/110/315/s602/1/C/iii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2Fs602%2F1%2FC%2Fiii
-[/us/pl/110/315/s602/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2Fs602%2F2%2FA
-[/us/pl/110/315/s602/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2Fs602%2F2%2FB
-[/us/pl/110/315/s602/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2Fs602%2F3
+[/us/pl/110/315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315
+[/us/pl/110/315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315
+[/us/pl/110/315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315
+[/us/pl/110/315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315
+[/us/pl/110/315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315
+[/us/pl/110/315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315
+[/us/pl/110/315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315
+[/us/pl/110/315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315
+[/us/pl/110/315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315
+[/us/pl/110/315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315
+[/us/pl/110/315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315
 
 

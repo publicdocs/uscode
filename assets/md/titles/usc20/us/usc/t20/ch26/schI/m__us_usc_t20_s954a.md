@@ -51,7 +51,7 @@
 
         In order to provide advice and counsel concerning arts education, the Chairperson shall appoint an advisory council on arts education.
 
-([Pub. L. 89–209, § 5A][/us/pl/89/209/s5A], as added [Pub. L. 101–512, title III, § 318][/us/pl/101/512/s318] \[title I, § 105\], Nov. 5, 1990, [104 Stat. 1960][/us/stat/104/1960], 1967.)
+([Pub. L. 89–209][/us/pl/89/209], § 5A, as added [Pub. L. 101–512, title III][/us/pl/101/512/tIII], § 318 \[title I, § 105\], Nov. 5, 1990, [104 Stat. 1960][/us/stat/104/1960], 1967.)
 
  __Effective Date__ 
 
@@ -64,8 +64,8 @@
 ----------
 ----------
 
-[/us/pl/89/209/s5A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F209%2Fs5A
-[/us/pl/101/512/s318]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F512%2Fs318
+[/us/pl/89/209]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F209
+[/us/pl/101/512/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F512%2FtIII
 [/us/stat/104/1960]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1960
 [/us/pl/101/512]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F512
 [/us/usc/t20/s951]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs951

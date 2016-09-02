@@ -11,13 +11,13 @@
 ----------
 ----------
 
-[Previous](./../../../../../../..//us/usc/t20/ch70/schV/ptB/spt1/m__us_usc_t20_s7221j.md) | [Next](./../../../../../../..//us/usc/t20/ch70/schV/ptB/spt2/m__us_usc_t20_s7223.md) | [Root of Title](./../../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fch70%2FschV%2FptB%2Fspt2)
+[Previous](./../../../../../../..//us/usc/t20/ch70/schV/ptB/spt1/m__us_usc_t20_s7345b.md) | [Next](./../../../../../../..//us/usc/t20/ch70/schV/ptB/spt2/m__us_usc_t20_s7351.md) | [Root of Title](./../../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fch70%2FschV%2FptB%2Fspt2)
 
-##### subpart 2—credit enhancement initiatives to assist charter school facility acquisition, construction, and renovation
+##### subpart 2—rural and low-income school program
 
 ----------
 
-[Previous](./../../../../../../..//us/usc/t20/ch70/schV/ptB/spt1/m__us_usc_t20_s7221j.md) | [Next](./../../../../../../..//us/usc/t20/ch70/schV/ptB/spt2/m__us_usc_t20_s7223.md) | [Root of Title](./../../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fch70%2FschV%2FptB%2Fspt2)
+[Previous](./../../../../../../..//us/usc/t20/ch70/schV/ptB/spt1/m__us_usc_t20_s7345b.md) | [Next](./../../../../../../..//us/usc/t20/ch70/schV/ptB/spt2/m__us_usc_t20_s7351.md) | [Root of Title](./../../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fch70%2FschV%2FptB%2Fspt2)
 
 ----------
 ----------

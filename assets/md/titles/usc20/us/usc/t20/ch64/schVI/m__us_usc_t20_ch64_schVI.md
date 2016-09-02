@@ -11,13 +11,13 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t20/ch64/schV/m__us_usc_t20_ch64_schV.md) | [Next](./../../../../..//us/usc/t20/ch64/schVI/ptA/m__us_usc_t20_ch64_schVI_ptA.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fch64%2FschVI)
+[Previous](./../../../../..//us/usc/t20/ch64/schV/m__us_usc_t20_s5371...5373.md) | [Next](./../../../../..//us/usc/t20/ch64/schVI/ptA/m__us_usc_t20_ch64_schVI_ptA.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fch64%2FschVI)
 
 ### SUBCHAPTER VI—SCIENCE SCHOLARSHIPS
 
 ----------
 
-[Previous](./../../../../..//us/usc/t20/ch64/schV/m__us_usc_t20_ch64_schV.md) | [Next](./../../../../..//us/usc/t20/ch64/schVI/ptA/m__us_usc_t20_ch64_schVI_ptA.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fch64%2FschVI)
+[Previous](./../../../../..//us/usc/t20/ch64/schV/m__us_usc_t20_s5371...5373.md) | [Next](./../../../../..//us/usc/t20/ch64/schVI/ptA/m__us_usc_t20_ch64_schVI_ptA.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fch64%2FschVI)
 
 ----------
 ----------

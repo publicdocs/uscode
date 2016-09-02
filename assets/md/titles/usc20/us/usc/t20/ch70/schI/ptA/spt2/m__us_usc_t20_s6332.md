@@ -17,13 +17,13 @@
 
     (a) __Allocation formula__ 
 
-    Of the amount appropriated under [section 6302(a) of this title][/us/usc/t20/s6302/a] to carry out this part for each of fiscal years 2002–2007 (referred to in this subsection as the current fiscal year)—
+    Of the amount appropriated under [section 6302(a) of this title][/us/usc/t20/s6302/a] to carry out this part for each of fiscal years 2017–2020 (referred to in this subsection as the current fiscal year)—
 
         (1) an amount equal to the amount made available to carry out [section 6333 of this title][/us/usc/t20/s6333] for fiscal year 2001 shall be allocated in accordance with [section 6333 of this title][/us/usc/t20/s6333];
 
         (2) an amount equal to the amount made available to carry out [section 6334 of this title][/us/usc/t20/s6334] for fiscal year 2001 shall be allocated in accordance with [section 6334 of this title][/us/usc/t20/s6334]; and
 
-        (3) an amount equal to 100 percent of the amount, if any, by which the amount made available to carry out sections 6333, 6334, and 6335 of this title for the current fiscal year for which the determination is made exceeds the amount available to carry out sections 6333 and 6334 of this title for fiscal year 2001 shall be allocated in accordance with [section 6335 of this title][/us/usc/t20/s6335].
+        (3) an amount equal to 100 percent of the amount, if any, by which the total amount made available under this subsection for the current fiscal year for which the determination is made exceeds the total amount available to carry out sections 6333 and 6334 of this title for fiscal year 2001 shall be used to carry out sections 6335 and 6337 of this title and such amount shall be divided equally between sections 6335 and 6337 of this title.
 
     (b) __Adjustments where necessitated by appropriations__ 
 
@@ -73,11 +73,21 @@
 
         For the purpose of this section and sections 6333, 6334, 6335, and 6337 of this title, the term “State” means each of the 50 States, the District of Columbia, and the Commonwealth of Puerto Rico.
 
-([Pub. L. 89–10, title I, § 1122][/us/pl/89/10/s1122], as added [Pub. L. 107–110, title I, § 101][/us/pl/107/110/s101], Jan. 8, 2002, [115 Stat. 1515][/us/stat/115/1515].)
+([Pub. L. 89–10, title I][/us/pl/89/10/tI], § 1122, as added [Pub. L. 107–110, title I][/us/pl/107/110/tI], § 101, Jan. 8, 2002, [115 Stat. 1515][/us/stat/115/1515]; amended [Pub. L. 114–95, title I][/us/pl/114/95/tI], § 1015, Dec. 10, 2015, [129 Stat. 1878][/us/stat/129/1878].)
 
  __Prior Provisions__ 
 
-    A prior section 6332, [Pub. L. 89–10, title I, § 1122][/us/pl/89/10/s1122], as added [Pub. L. 103–382, title I, § 101][/us/pl/103/382/s101], Oct. 20, 1994, [108 Stat. 3562][/us/stat/108/3562], related to allocations to States, prior to the general amendment of this subchapter by [Pub. L. 107–110][/us/pl/107/110].
+    A prior section 6332, [Pub. L. 89–10, title I][/us/pl/89/10/tI], § 1122, as added [Pub. L. 103–382, title I][/us/pl/103/382/tI], § 101, Oct. 20, 1994, [108 Stat. 3562][/us/stat/108/3562], related to allocations to States, prior to the general amendment of this subchapter by [Pub. L. 107–110][/us/pl/107/110].
+
+ __Amendments__ 
+
+    2015—Subsec. (a). [Pub. L. 114–95][/us/pl/114/95], § 1015(1), substituted “2017–2020” for “2002–2007” in introductory provisions.
+
+    Subsec. (a)(3). [Pub. L. 114–95][/us/pl/114/95], § 1015(2), added par. (3) and struck out former par. (3) which read as follows: “an amount equal to 100 percent of the amount, if any, by which the amount made available to carry out sections 6333, 6334, and 6335 of this title for the current fiscal year for which the determination is made exceeds the amount available to carry out sections 6333 and 6334 of this title for fiscal year 2001 shall be allocated in accordance with [section 6335 of this title][/us/usc/t20/s6335].”
+
+ __Effective Date of 2015 Amendment__ 
+
+    Amendment by [Pub. L. 114–95][/us/pl/114/95] effective Dec. 10, 2015, except with respect to certain noncompetitive programs and competitive programs, see [section 5 of Pub. L. 114–95][/us/pl/114/95/s5], set out as a note under [section 6301 of this title][/us/usc/t20/s6301].
 
 ----------
 
@@ -91,16 +101,23 @@
 [/us/usc/t20/s6333]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs6333
 [/us/usc/t20/s6334]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs6334
 [/us/usc/t20/s6334]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs6334
-[/us/usc/t20/s6335]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs6335
 [/us/usc/t20/s6333]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs6333
 [/us/usc/t20/s6334]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs6334
 [/us/usc/t20/s6334/a/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs6334%2Fa%2F1%2FA
-[/us/pl/89/10/s1122]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F10%2Fs1122
-[/us/pl/107/110/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F110%2Fs101
+[/us/pl/89/10/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F10%2FtI
+[/us/pl/107/110/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F110%2FtI
 [/us/stat/115/1515]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F1515
-[/us/pl/89/10/s1122]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F10%2Fs1122
-[/us/pl/103/382/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F382%2Fs101
+[/us/pl/114/95/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F95%2FtI
+[/us/stat/129/1878]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1878
+[/us/pl/89/10/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F10%2FtI
+[/us/pl/103/382/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F382%2FtI
 [/us/stat/108/3562]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3562
 [/us/pl/107/110]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F110
+[/us/pl/114/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F95
+[/us/pl/114/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F95
+[/us/usc/t20/s6335]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs6335
+[/us/pl/114/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F95
+[/us/pl/114/95/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F95%2Fs5
+[/us/usc/t20/s6301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs6301
 
 

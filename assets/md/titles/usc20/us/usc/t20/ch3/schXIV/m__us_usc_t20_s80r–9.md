@@ -31,7 +31,7 @@
 
         Amounts appropriated pursuant to the authorization under this section may be used to conduct fundraising in support of the Museum from private sources.
 
-([Pub. L. 108–184, § 11][/us/pl/108/184/s11], Dec. 16, 2003, [117 Stat. 2682][/us/stat/117/2682].)
+([Pub. L. 108–184][/us/pl/108/184], § 11, Dec. 16, 2003, [117 Stat. 2682][/us/stat/117/2682].)
 
 ----------
 
@@ -40,7 +40,7 @@
 ----------
 ----------
 
-[/us/pl/108/184/s11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F184%2Fs11
+[/us/pl/108/184]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F184
 [/us/stat/117/2682]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2682
 
 

@@ -161,7 +161,7 @@
 
         In the case of eligible entities described in [section 1070a–21(c)(1) of this title][/us/usc/t20/s1070a–21/c/1], the activities required by this section may be provided by service providers such as community-based organizations, schools, institutions of higher education, public and private agencies, nonprofit and philanthropic organizations, businesses, institutions and agencies sponsoring programs authorized under subpart 4, and other organizations the State determines appropriate.
 
-([Pub. L. 89–329, title IV, § 404D][/us/pl/89/329/s404D], as added [Pub. L. 105–244, title IV, § 403][/us/pl/105/244/s403], Oct. 7, 1998, [112 Stat. 1659][/us/stat/112/1659]; amended [Pub. L. 106–78, title VII, § 752(b)(8)][/us/pl/106/78/s752/b/8], Oct. 22, 1999, [113 Stat. 1169][/us/stat/113/1169]; [Pub. L. 110–315, title IV, § 404(d)][/us/pl/110/315/s404/d], Aug. 14, 2008, [122 Stat. 3210][/us/stat/122/3210].)
+([Pub. L. 89–329, title IV][/us/pl/89/329/tIV], § 404D, as added [Pub. L. 105–244, title IV][/us/pl/105/244/tIV], § 403, Oct. 7, 1998, [112 Stat. 1659][/us/stat/112/1659]; amended [Pub. L. 106–78, title VII][/us/pl/106/78/tVII], § 752(b)(8), Oct. 22, 1999, [113 Stat. 1169][/us/stat/113/1169]; [Pub. L. 110–315, title IV][/us/pl/110/315/tIV], § 404(d), Aug. 14, 2008, [122 Stat. 3210][/us/stat/122/3210].)
 
  __References in Text__ 
 
@@ -171,7 +171,7 @@
 
  __Prior Provisions__ 
 
-    A prior section 1070a–24, [Pub. L. 89–329, title IV, § 404D][/us/pl/89/329/s404D], as added [Pub. L. 102–325, title IV, § 402(a)(4)][/us/pl/102/325/s402/a/4], July 23, 1992, [106 Stat. 495][/us/stat/106/495]; amended [Pub. L. 103–208, § 2(b)(18)][/us/pl/103/208/s2/b/18], (19), Dec. 20, 1993, [107 Stat. 2459][/us/stat/107/2459], related to scholarship component, prior to the general amendment of this division by [Pub. L. 105–244][/us/pl/105/244]. See [section 1070a–25 of this title][/us/usc/t20/s1070a–25].
+    A prior section 1070a–24, [Pub. L. 89–329, title IV][/us/pl/89/329/tIV], § 404D, as added [Pub. L. 102–325, title IV][/us/pl/102/325/tIV], § 402(a)(4), July 23, 1992, [106 Stat. 495][/us/stat/106/495]; amended [Pub. L. 103–208][/us/pl/103/208], § 2(b)(18), (19), Dec. 20, 1993, [107 Stat. 2459][/us/stat/107/2459], related to scholarship component, prior to the general amendment of this division by [Pub. L. 105–244][/us/pl/105/244]. See [section 1070a–25 of this title][/us/usc/t20/s1070a–25].
 
  __Amendments__ 
 
@@ -202,12 +202,12 @@
 [/us/usc/t42/s601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs601
 [/us/usc/t42/s11431]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs11431
 [/us/usc/t20/s1070a–21/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1070a%E2%80%9321%2Fc%2F1
-[/us/pl/89/329/s404D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2Fs404D
-[/us/pl/105/244/s403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2Fs403
+[/us/pl/89/329/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2FtIV
+[/us/pl/105/244/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2FtIV
 [/us/stat/112/1659]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F1659
-[/us/pl/106/78/s752/b/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F78%2Fs752%2Fb%2F8
+[/us/pl/106/78/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F78%2FtVII
 [/us/stat/113/1169]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1169
-[/us/pl/110/315/s404/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2Fs404%2Fd
+[/us/pl/110/315/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2FtIV
 [/us/stat/122/3210]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3210
 [/us/act/1935-08-14/ch531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531
 [/us/stat/49/620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F620
@@ -215,10 +215,10 @@
 [/us/pl/100/77]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F77
 [/us/stat/101/482]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F482
 [/us/usc/t42/s11301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs11301
-[/us/pl/89/329/s404D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2Fs404D
-[/us/pl/102/325/s402/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325%2Fs402%2Fa%2F4
+[/us/pl/89/329/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2FtIV
+[/us/pl/102/325/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325%2FtIV
 [/us/stat/106/495]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F495
-[/us/pl/103/208/s2/b/18]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F208%2Fs2%2Fb%2F18
+[/us/pl/103/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F208
 [/us/stat/107/2459]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F2459
 [/us/pl/105/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244
 [/us/usc/t20/s1070a–25]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1070a%E2%80%9325

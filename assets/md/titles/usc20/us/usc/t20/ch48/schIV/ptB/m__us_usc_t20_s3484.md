@@ -17,7 +17,7 @@
 
     The Secretary may, when authorized in an appropriation Act in any fiscal year, transfer funds from one appropriation to another within the Department, except that no appropriation for any fiscal year shall be either increased or decreased pursuant to this section by more than 5 percent and no such transfer shall result in increasing any such appropriation above the amount authorized to be appropriated therefor.
 
-([Pub. L. 96–88, title IV, § 424][/us/pl/96/88/s424], Oct. 17, 1979, [93 Stat. 688][/us/stat/93/688].)
+([Pub. L. 96–88, title IV][/us/pl/96/88/tIV], § 424, Oct. 17, 1979, [93 Stat. 688][/us/stat/93/688].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/96/88/s424]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F88%2Fs424
+[/us/pl/96/88/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F88%2FtIV
 [/us/stat/93/688]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F688
 
 

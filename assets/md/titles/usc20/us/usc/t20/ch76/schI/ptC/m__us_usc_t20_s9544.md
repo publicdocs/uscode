@@ -55,7 +55,7 @@
 
         Notwithstanding any other provision of law, the grants, contracts, and cooperative agreements under this section may be awarded, on a competitive basis, for a period of not more than 5 years, and may be renewed at the discretion of the Statistics Commissioner for an additional period of not more than 5 years.
 
-([Pub. L. 107–279, title I, § 154][/us/pl/107/279/s154], Nov. 5, 2002, [116 Stat. 1960][/us/stat/116/1960].)
+([Pub. L. 107–279, title I][/us/pl/107/279/tI], § 154, Nov. 5, 2002, [116 Stat. 1960][/us/stat/116/1960].)
 
 ----------
 
@@ -64,7 +64,7 @@
 ----------
 ----------
 
-[/us/pl/107/279/s154]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F279%2Fs154
+[/us/pl/107/279/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F279%2FtI
 [/us/stat/116/1960]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1960
 
 

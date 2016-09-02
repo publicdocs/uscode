@@ -37,7 +37,7 @@
 
         Nothing in this section shall be construed to require an institution to create a new teacher preparation area of concentration or degree program or adopt a specific curriculum in complying with this section.
 
-([Pub. L. 89–329, title II, § 206][/us/pl/89/329/s206], as added [Pub. L. 110–315, title II, § 201(2)][/us/pl/110/315/s201/2], Aug. 14, 2008, [122 Stat. 3152][/us/stat/122/3152].)
+([Pub. L. 89–329, title II][/us/pl/89/329/tII], § 206, as added [Pub. L. 110–315, title II][/us/pl/110/315/tII], § 201(2), Aug. 14, 2008, [122 Stat. 3152][/us/stat/122/3152].)
 
  __Prior Provisions__ 
 
@@ -52,8 +52,8 @@
 ----------
 ----------
 
-[/us/pl/89/329/s206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2Fs206
-[/us/pl/110/315/s201/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2Fs201%2F2
+[/us/pl/89/329/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2FtII
+[/us/pl/110/315/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2FtII
 [/us/stat/122/3152]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3152
 [/us/pl/89/329/s206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2Fs206
 [/us/usc/t20/s1026]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1026

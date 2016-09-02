@@ -65,7 +65,7 @@
 
             (B) such sums as are necessary for each fiscal year thereafter.
 
-([Pub. L. 108–184, § 7][/us/pl/108/184/s7], Dec. 16, 2003, [117 Stat. 2679][/us/stat/117/2679].)
+([Pub. L. 108–184][/us/pl/108/184], § 7, Dec. 16, 2003, [117 Stat. 2679][/us/stat/117/2679].)
 
 ----------
 
@@ -74,7 +74,7 @@
 ----------
 ----------
 
-[/us/pl/108/184/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F184%2Fs7
+[/us/pl/108/184]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F184
 [/us/stat/117/2679]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2679
 
 

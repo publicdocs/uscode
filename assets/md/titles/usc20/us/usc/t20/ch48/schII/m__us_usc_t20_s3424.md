@@ -53,7 +53,7 @@
 
         The Secretary and the head of each agency represented on the Committee under subsection (c) of this section shall furnish necessary assistance to the Committee.
 
-([Pub. L. 96–88, title II, § 217][/us/pl/96/88/s217], formerly § 214, Oct. 17, 1979, [93 Stat. 676][/us/stat/93/676]; renumbered § 215, [Pub. L. 101–392, title VI, § 602(a)(2)][/us/pl/101/392/s602/a/2], Sept. 25, 1990, [104 Stat. 840][/us/stat/104/840]; renumbered § 217, [Pub. L. 103–382, title III, § 372(1)][/us/pl/103/382/s372/1], Oct. 20, 1994, [108 Stat. 3977][/us/stat/108/3977].)
+([Pub. L. 96–88, title II][/us/pl/96/88/tII], § 217, formerly § 214, Oct. 17, 1979, [93 Stat. 676][/us/stat/93/676]; renumbered § 215, [Pub. L. 101–392, title VI][/us/pl/101/392/tVI], § 602(a)(2), Sept. 25, 1990, [104 Stat. 840][/us/stat/104/840]; renumbered § 217, [Pub. L. 103–382, title III][/us/pl/103/382/tIII], § 372(1), Oct. 20, 1994, [108 Stat. 3977][/us/stat/108/3977].)
 
  __Termination of Advisory Committees__ 
 
@@ -66,11 +66,11 @@
 ----------
 ----------
 
-[/us/pl/96/88/s217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F88%2Fs217
+[/us/pl/96/88/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F88%2FtII
 [/us/stat/93/676]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F676
-[/us/pl/101/392/s602/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F392%2Fs602%2Fa%2F2
+[/us/pl/101/392/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F392%2FtVI
 [/us/stat/104/840]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F840
-[/us/pl/103/382/s372/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F382%2Fs372%2F1
+[/us/pl/103/382/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F382%2FtIII
 [/us/stat/108/3977]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3977
 [/us/pl/92/463/s14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F463%2Fs14
 [/us/stat/86/776]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F776

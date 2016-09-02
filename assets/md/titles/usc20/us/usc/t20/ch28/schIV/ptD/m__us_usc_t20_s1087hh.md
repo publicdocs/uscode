@@ -25,13 +25,13 @@
 
     (4) to enter into a contract or other arrangement with State or nonprofit agencies and, on a competitive basis, with collection agencies for servicing and collection of loans under this part.
 
-([Pub. L. 89–329, title IV, § 468][/us/pl/89/329/s468], as added [Pub. L. 99–498, title IV, § 405(a)][/us/pl/99/498/s405/a], Oct. 17, 1986, [100 Stat. 1454][/us/stat/100/1454].)
+([Pub. L. 89–329, title IV][/us/pl/89/329/tIV], § 468, as added [Pub. L. 99–498, title IV][/us/pl/99/498/tIV], § 405(a), Oct. 17, 1986, [100 Stat. 1454][/us/stat/100/1454].)
 
  __Prior Provisions__ 
 
-    A prior section 1087hh, [Pub. L. 89–329, title IV, § 468][/us/pl/89/329/s468], as added [Pub. L. 96–374, title IV, § 442(a)][/us/pl/96/374/s442/a], Oct. 3, 1980, [94 Stat. 1437][/us/stat/94/1437], related to alternative source of funds, prior to the general revision of this part by [Pub. L. 99–498][/us/pl/99/498].
+    A prior section 1087hh, [Pub. L. 89–329, title IV][/us/pl/89/329/tIV], § 468, as added [Pub. L. 96–374, title IV][/us/pl/96/374/tIV], § 442(a), Oct. 3, 1980, [94 Stat. 1437][/us/stat/94/1437], related to alternative source of funds, prior to the general revision of this part by [Pub. L. 99–498][/us/pl/99/498].
 
-    A prior section 1087ii, [Pub. L. 89–329, title IV, § 469][/us/pl/89/329/s469], as added [Pub. L. 96–374, title IV, § 442(a)][/us/pl/96/374/s442/a], Oct. 3, 1980, [94 Stat. 1439][/us/stat/94/1439], related to recapture of current balance of student loan funds, prior to the general revision of this part by [Pub. L. 99–498][/us/pl/99/498].
+    A prior section 1087ii, [Pub. L. 89–329, title IV][/us/pl/89/329/tIV], § 469, as added [Pub. L. 96–374, title IV][/us/pl/96/374/tIV], § 442(a), Oct. 3, 1980, [94 Stat. 1439][/us/stat/94/1439], related to recapture of current balance of student loan funds, prior to the general revision of this part by [Pub. L. 99–498][/us/pl/99/498].
 
 ----------
 
@@ -41,15 +41,15 @@
 ----------
 
 [/us/usc/t20/s1082/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1082%2Fa%2F2
-[/us/pl/89/329/s468]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2Fs468
-[/us/pl/99/498/s405/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F498%2Fs405%2Fa
+[/us/pl/89/329/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2FtIV
+[/us/pl/99/498/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F498%2FtIV
 [/us/stat/100/1454]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1454
-[/us/pl/89/329/s468]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2Fs468
-[/us/pl/96/374/s442/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F374%2Fs442%2Fa
+[/us/pl/89/329/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2FtIV
+[/us/pl/96/374/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F374%2FtIV
 [/us/stat/94/1437]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F1437
 [/us/pl/99/498]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F498
-[/us/pl/89/329/s469]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2Fs469
-[/us/pl/96/374/s442/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F374%2Fs442%2Fa
+[/us/pl/89/329/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2FtIV
+[/us/pl/96/374/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F374%2FtIV
 [/us/stat/94/1439]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F1439
 [/us/pl/99/498]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F498
 

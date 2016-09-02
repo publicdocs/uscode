@@ -29,11 +29,11 @@
 
         The Secretary shall continue to attempt to collect any loan referred, transferred, or assigned under paragraph (4) or (5) of [section 1087cc(a) of this title][/us/usc/t20/s1087cc/a] until all appropriate collection efforts, as determined by the Secretary, have been expended.
 
-([Pub. L. 89–329, title IV, § 467][/us/pl/89/329/s467], as added [Pub. L. 99–498, title IV, § 405(a)][/us/pl/99/498/s405/a], Oct. 17, 1986, [100 Stat. 1453][/us/stat/100/1453]; amended [Pub. L. 102–325, title IV, § 467][/us/pl/102/325/s467], July 23, 1992, [106 Stat. 584][/us/stat/106/584]; [Pub. L. 105–244, title IV, § 467(a)][/us/pl/105/244/s467/a], Oct. 7, 1998, [112 Stat. 1728][/us/stat/112/1728]; [Pub. L. 111–39, title IV, § 405(6)][/us/pl/111/39/s405/6], July 1, 2009, [123 Stat. 1947][/us/stat/123/1947].)
+([Pub. L. 89–329, title IV][/us/pl/89/329/tIV], § 467, as added [Pub. L. 99–498, title IV][/us/pl/99/498/tIV], § 405(a), Oct. 17, 1986, [100 Stat. 1453][/us/stat/100/1453]; amended [Pub. L. 102–325, title IV][/us/pl/102/325/tIV], § 467, July 23, 1992, [106 Stat. 584][/us/stat/106/584]; [Pub. L. 105–244, title IV][/us/pl/105/244/tIV], § 467(a), Oct. 7, 1998, [112 Stat. 1728][/us/stat/112/1728]; [Pub. L. 111–39, title IV][/us/pl/111/39/tIV], § 405(6), July 1, 2009, [123 Stat. 1947][/us/stat/123/1947].)
 
  __Prior Provisions__ 
 
-    A prior section 1087gg, [Pub. L. 89–329, title IV, § 467][/us/pl/89/329/s467], as added [Pub. L. 96–49, § 5(d)(3)(A)][/us/pl/96/49/s5/d/3/A], Aug. 13, 1979, [93 Stat. 352][/us/stat/93/352]; amended [Pub. L. 96–374, title IV, § 445(c)][/us/pl/96/374/s445/c], title XIII, § 1391(a)(1), Oct. 3, 1980, [94 Stat. 1442][/us/stat/94/1442], 1503; [Pub. L. 99–272, title XVI, § 16029][/us/pl/99/272/s16029], Apr. 7, 1986, [100 Stat. 354][/us/stat/100/354], related to collection of defaulted loans, prior to the general revision of this part by [Pub. L. 99–498][/us/pl/99/498].
+    A prior section 1087gg, [Pub. L. 89–329, title IV][/us/pl/89/329/tIV], § 467, as added [Pub. L. 96–49][/us/pl/96/49], § 5(d)(3)(A), Aug. 13, 1979, [93 Stat. 352][/us/stat/93/352]; amended [Pub. L. 96–374, title IV][/us/pl/96/374/tIV], § 445(c), title XIII, § 1391(a)(1), Oct. 3, 1980, [94 Stat. 1442][/us/stat/94/1442], 1503; [Pub. L. 99–272, title XVI][/us/pl/99/272/tXVI], § 16029, Apr. 7, 1986, [100 Stat. 354][/us/stat/100/354], related to collection of defaulted loans, prior to the general revision of this part by [Pub. L. 99–498][/us/pl/99/498].
 
  __Amendments__ 
 
@@ -57,7 +57,7 @@
 
  __Transfer of Balance__ 
 
-[Pub. L. 105–244, title IV, § 467(b)][/us/pl/105/244/s467/b], Oct. 7, 1998, [112 Stat. 1728][/us/stat/112/1728], provided that: 
+[Pub. L. 105–244, title IV][/us/pl/105/244/tIV], § 467(b), Oct. 7, 1998, [112 Stat. 1728][/us/stat/112/1728], provided that: 
 
 > “Any funds in the Perkins Loan Revolving Fund on the date of enactment of this Act \[Oct. 7, 1998\] shall be transferred to and deposited in the Treasury.”
 
@@ -70,21 +70,21 @@
 
 [/us/usc/t20/s1087cc/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1087cc%2Fa
 [/us/usc/t20/s1087cc/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1087cc%2Fa
-[/us/pl/89/329/s467]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2Fs467
-[/us/pl/99/498/s405/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F498%2Fs405%2Fa
+[/us/pl/89/329/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2FtIV
+[/us/pl/99/498/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F498%2FtIV
 [/us/stat/100/1453]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1453
-[/us/pl/102/325/s467]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325%2Fs467
+[/us/pl/102/325/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325%2FtIV
 [/us/stat/106/584]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F584
-[/us/pl/105/244/s467/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2Fs467%2Fa
+[/us/pl/105/244/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2FtIV
 [/us/stat/112/1728]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F1728
-[/us/pl/111/39/s405/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F39%2Fs405%2F6
+[/us/pl/111/39/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F39%2FtIV
 [/us/stat/123/1947]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1947
-[/us/pl/89/329/s467]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2Fs467
-[/us/pl/96/49/s5/d/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F49%2Fs5%2Fd%2F3%2FA
+[/us/pl/89/329/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2FtIV
+[/us/pl/96/49]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F49
 [/us/stat/93/352]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F352
-[/us/pl/96/374/s445/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F374%2Fs445%2Fc
+[/us/pl/96/374/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F374%2FtIV
 [/us/stat/94/1442]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F1442
-[/us/pl/99/272/s16029]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F272%2Fs16029
+[/us/pl/99/272/tXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F272%2FtXVI
 [/us/stat/100/354]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F354
 [/us/pl/99/498]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F498
 [/us/pl/111/39]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F39
@@ -101,7 +101,7 @@
 [/us/pl/102/325]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325
 [/us/pl/102/325/s468/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325%2Fs468%2F4
 [/us/usc/t20/s1087dd]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1087dd
-[/us/pl/105/244/s467/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2Fs467%2Fb
+[/us/pl/105/244/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2FtIV
 [/us/stat/112/1728]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F1728
 
 

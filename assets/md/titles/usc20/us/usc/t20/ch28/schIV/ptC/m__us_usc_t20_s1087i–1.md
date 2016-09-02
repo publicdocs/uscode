@@ -117,29 +117,29 @@
 
         The Secretary’s authority to purchase loans under this section shall expire on July 1, 2010.
 
-([Pub. L. 89–329, title IV, § 459A][/us/pl/89/329/s459A], as added [Pub. L. 110–227, § 7(b)][/us/pl/110/227/s7/b], May 7, 2008, [122 Stat. 746][/us/stat/122/746]; amended [Pub. L. 110–315, title IV, § 453][/us/pl/110/315/s453], Aug. 14, 2008, [122 Stat. 3263][/us/stat/122/3263]; [Pub. L. 110–350, § 1][/us/pl/110/350/s1], Oct. 7, 2008, [122 Stat. 3947][/us/stat/122/3947]; [Pub. L. 111–39, title IV, § 404(a)][/us/pl/111/39/s404/a], July 1, 2009, [123 Stat. 1945][/us/stat/123/1945].)
+([Pub. L. 89–329, title IV][/us/pl/89/329/tIV], § 459A, as added [Pub. L. 110–227][/us/pl/110/227], § 7(b), May 7, 2008, [122 Stat. 746][/us/stat/122/746]; amended [Pub. L. 110–315, title IV][/us/pl/110/315/tIV], § 453, Aug. 14, 2008, [122 Stat. 3263][/us/stat/122/3263]; [Pub. L. 110–350][/us/pl/110/350], § 1, Oct. 7, 2008, [122 Stat. 3947][/us/stat/122/3947]; [Pub. L. 111–39, title IV][/us/pl/111/39/tIV], § 404(a), July 1, 2009, [123 Stat. 1945][/us/stat/123/1945].)
 
  __Amendments__ 
 
-    2009—Subsec. (a)(2). [Pub. L. 111–39, § 404(a)(1)(A)][/us/pl/111/39/s404/a/1/A], substituted “purchase of loans under paragraph (1)” for “purchase of loans under this section” in introductory provisions.
+    2009—Subsec. (a)(2). [Pub. L. 111–39][/us/pl/111/39], § 404(a)(1)(A), substituted “purchase of loans under paragraph (1)” for “purchase of loans under this section” in introductory provisions.
 
-    Subsec. (a)(3). [Pub. L. 111–39, § 404(a)(1)(B)][/us/pl/111/39/s404/a/1/B], added par. (3).
+    Subsec. (a)(3). [Pub. L. 111–39][/us/pl/111/39], § 404(a)(1)(B), added par. (3).
 
-    Subsec. (b). [Pub. L. 111–39, § 404(a)(2)][/us/pl/111/39/s404/a/2], amended subsec. (b) generally. Prior to amendment, text read as follows: “The Secretary shall require, as a condition of any purchase under subsection (a), that the funds paid by the Secretary to any eligible lender under this section shall be used: (1) to ensure continued participation of such lender in the Federal student loan programs authorized under part B of this subchapter; and (2) to originate new Federal loans to students, as authorized under part B of this subchapter.”
+    Subsec. (b). [Pub. L. 111–39][/us/pl/111/39], § 404(a)(2), amended subsec. (b) generally. Prior to amendment, text read as follows: “The Secretary shall require, as a condition of any purchase under subsection (a), that the funds paid by the Secretary to any eligible lender under this section shall be used: (1) to ensure continued participation of such lender in the Federal student loan programs authorized under part B of this subchapter; and (2) to originate new Federal loans to students, as authorized under part B of this subchapter.”
 
-    2008—Subsec. (a)(1). [Pub. L. 110–350, § 1(1)][/us/pl/110/350/s1/1], substituted “July 1, 2010” for “July 1, 2009”.
+    2008—Subsec. (a)(1). [Pub. L. 110–350][/us/pl/110/350], § 1(1), substituted “July 1, 2010” for “July 1, 2009”.
 
-    Subsecs. (d), (e). [Pub. L. 110–315, § 453(2)][/us/pl/110/315/s453/2], added subsecs. (d) and (e). Former subsec. (d) redesignated (f).
+    Subsecs. (d), (e). [Pub. L. 110–315][/us/pl/110/315], § 453(2), added subsecs. (d) and (e). Former subsec. (d) redesignated (f).
 
-    Subsec. (e)(1)(A). [Pub. L. 110–350, § 1(2)(A)][/us/pl/110/350/s1/2/A], substituted “September 30, 2010” for “September 30, 2009” in introductory provisions.
+    Subsec. (e)(1)(A). [Pub. L. 110–350][/us/pl/110/350], § 1(2)(A), substituted “September 30, 2010” for “September 30, 2009” in introductory provisions.
 
-    Subsec. (e)(2). [Pub. L. 110–350, § 1(2)(A)][/us/pl/110/350/s1/2/A], (B), substituted “February 15, 2011” for “February 15, 2010” and “September 30, 2010” for “September 30, 2009” in introductory provisions.
+    Subsec. (e)(2). [Pub. L. 110–350][/us/pl/110/350], § 1(2)(A), (B), substituted “February 15, 2011” for “February 15, 2010” and “September 30, 2010” for “September 30, 2009” in introductory provisions.
 
-    Subsec. (e)(3). [Pub. L. 110–350, § 1(2)(C)][/us/pl/110/350/s1/2/C], substituted “2009, 2010, and 2011” for “2009, and 2010”.
+    Subsec. (e)(3). [Pub. L. 110–350][/us/pl/110/350], § 1(2)(C), substituted “2009, 2010, and 2011” for “2009, and 2010”.
 
-    Subsec. (f). [Pub. L. 110–350, § 1(1)][/us/pl/110/350/s1/1], substituted “July 1, 2010” for “July 1, 2009”.
+    Subsec. (f). [Pub. L. 110–350][/us/pl/110/350], § 1(1), substituted “July 1, 2010” for “July 1, 2009”.
 
-    [Pub. L. 110–315, § 453(1)][/us/pl/110/315/s453/1], redesignated subsec. (d) as (f).
+    [Pub. L. 110–315][/us/pl/110/315], § 453(1), redesignated subsec. (d) as (f).
 
  __Effective Date of 2009 Amendment__ 
 
@@ -159,25 +159,25 @@
 [/us/usc/t20/s1078–6/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1078%E2%80%936%2Fa
 [/us/usc/t20/s1078/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1078%2Fb
 [/us/usc/t20/s1015a/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1015a%2Fd
-[/us/pl/89/329/s459A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2Fs459A
-[/us/pl/110/227/s7/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F227%2Fs7%2Fb
+[/us/pl/89/329/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2FtIV
+[/us/pl/110/227]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F227
 [/us/stat/122/746]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F746
-[/us/pl/110/315/s453]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2Fs453
+[/us/pl/110/315/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2FtIV
 [/us/stat/122/3263]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3263
-[/us/pl/110/350/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F350%2Fs1
+[/us/pl/110/350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F350
 [/us/stat/122/3947]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3947
-[/us/pl/111/39/s404/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F39%2Fs404%2Fa
+[/us/pl/111/39/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F39%2FtIV
 [/us/stat/123/1945]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1945
-[/us/pl/111/39/s404/a/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F39%2Fs404%2Fa%2F1%2FA
-[/us/pl/111/39/s404/a/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F39%2Fs404%2Fa%2F1%2FB
-[/us/pl/111/39/s404/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F39%2Fs404%2Fa%2F2
-[/us/pl/110/350/s1/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F350%2Fs1%2F1
-[/us/pl/110/315/s453/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2Fs453%2F2
-[/us/pl/110/350/s1/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F350%2Fs1%2F2%2FA
-[/us/pl/110/350/s1/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F350%2Fs1%2F2%2FA
-[/us/pl/110/350/s1/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F350%2Fs1%2F2%2FC
-[/us/pl/110/350/s1/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F350%2Fs1%2F1
-[/us/pl/110/315/s453/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2Fs453%2F1
+[/us/pl/111/39]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F39
+[/us/pl/111/39]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F39
+[/us/pl/111/39]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F39
+[/us/pl/110/350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F350
+[/us/pl/110/315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315
+[/us/pl/110/350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F350
+[/us/pl/110/350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F350
+[/us/pl/110/350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F350
+[/us/pl/110/350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F350
+[/us/pl/110/315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315
 [/us/pl/111/39]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F39
 [/us/pl/110/315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315
 [/us/pl/111/39/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F39%2Fs3

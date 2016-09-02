@@ -41,25 +41,25 @@
 
         (2) With respect to all programs of the Federal Government, in whatever form or from whatever source derived, the Institute shall only be held responsible for actions and requirements, either administrative, regulatory, or statutory in nature, for events which occurred after July 1, 1988, including the submission of reports, audits, and other required information. The United States may not seek any monetary damages or repayment for the commission of events, or omission to comply with either administrative or regulatory requirements, for any action which occurred prior to June 2, 1988.
 
-([Pub. L. 99–498, title XV, § 1514][/us/pl/99/498/s1514], Oct. 17, 1986, [100 Stat. 1608][/us/stat/100/1608]; [Pub. L. 100–153, § 8][/us/pl/100/153/s8], Nov. 5, 1987, [101 Stat. 887][/us/stat/101/887]; [Pub. L. 100–297, title V, § 5406(d)][/us/pl/100/297/s5406/d], Apr. 28, 1988, [102 Stat. 418][/us/stat/102/418]; [Pub. L. 101–644, title V, § 503][/us/pl/101/644/s503], Nov. 29, 1990, [104 Stat. 4669][/us/stat/104/4669]; [Pub. L. 102–325, title XIII, § 1331(f)][/us/pl/102/325/s1331/f], July 23, 1992, [106 Stat. 807][/us/stat/106/807].)
+([Pub. L. 99–498, title XV][/us/pl/99/498/tXV], § 1514, Oct. 17, 1986, [100 Stat. 1608][/us/stat/100/1608]; [Pub. L. 100–153][/us/pl/100/153], § 8, Nov. 5, 1987, [101 Stat. 887][/us/stat/101/887]; [Pub. L. 100–297, title V][/us/pl/100/297/tV], § 5406(d), Apr. 28, 1988, [102 Stat. 418][/us/stat/102/418]; [Pub. L. 101–644, title V][/us/pl/101/644/tV], § 503, Nov. 29, 1990, [104 Stat. 4669][/us/stat/104/4669]; [Pub. L. 102–325, title XIII][/us/pl/102/325/tXIII], § 1331(f), July 23, 1992, [106 Stat. 807][/us/stat/106/807].)
 
  __Amendments__ 
 
-    1992—Subsec. (b)(1). [Pub. L. 102–325, § 1331(f)(1)][/us/pl/102/325/s1331/f/1], substituted “Subject to subsection (d) of this section, all personnel” for “All personnel”.
+    1992—Subsec. (b)(1). [Pub. L. 102–325][/us/pl/102/325], § 1331(f)(1), substituted “Subject to subsection (d) of this section, all personnel” for “All personnel”.
 
-    Subsec. (d)(2). [Pub. L. 102–325, § 1331(f)(2)][/us/pl/102/325/s1331/f/2], substituted “monetary damages” for “monetary damage”.
+    Subsec. (d)(2). [Pub. L. 102–325][/us/pl/102/325], § 1331(f)(2), substituted “monetary damages” for “monetary damage”.
 
-    1990—Subsec. (d). [Pub. L. 101–644, § 503][/us/pl/101/644/s503], added subsec. (d) and struck out former subsec. (d) which read as follows: “Unless the Board provides otherwise, the Secretary of the Interior shall, until October 1, 1989, provide such technical and support assistance to the Institute as the Secretary determines reasonable or necessary to assist the Institute. Such assistance shall include audit, accounting, computer services, and building and maintenance services.”
+    1990—Subsec. (d). [Pub. L. 101–644][/us/pl/101/644], § 503, added subsec. (d) and struck out former subsec. (d) which read as follows: “Unless the Board provides otherwise, the Secretary of the Interior shall, until October 1, 1989, provide such technical and support assistance to the Institute as the Secretary determines reasonable or necessary to assist the Institute. Such assistance shall include audit, accounting, computer services, and building and maintenance services.”
 
-    Subsecs. (e), (f). [Pub. L. 101–644, § 503(1)][/us/pl/101/644/s503/1], struck out subsec. (e) which related to completion of transfers, final date of control of Institute by Secretary, payment of unexpended or unobligated funds, and responsibility for subsequently incurred obligations, and subsec. (f) which related to contract with University of New Mexico, terms of contract, and composition of advisory council.
+    Subsecs. (e), (f). [Pub. L. 101–644][/us/pl/101/644], § 503(1), struck out subsec. (e) which related to completion of transfers, final date of control of Institute by Secretary, payment of unexpended or unobligated funds, and responsibility for subsequently incurred obligations, and subsec. (f) which related to contract with University of New Mexico, terms of contract, and composition of advisory council.
 
     1988—Subsec. (e)(3), (4). [Pub. L. 100–297][/us/pl/100/297] added pars. (3) and (4).
 
-    1987—Subsec. (d). [Pub. L. 100–153, § 8(1)][/us/pl/100/153/s8/1], (2), substituted “Unless the Board provides otherwise” for “During the 2-year period beginning on the date referred to in subsection (f) of this section” and inserted “, until October 1, 1989,” after “Secretary of the Interior shall”.
+    1987—Subsec. (d). [Pub. L. 100–153][/us/pl/100/153], § 8(1), (2), substituted “Unless the Board provides otherwise” for “During the 2-year period beginning on the date referred to in subsection (f) of this section” and inserted “, until October 1, 1989,” after “Secretary of the Interior shall”.
 
-    Subsec. (e). [Pub. L. 100–153, § 8(3)][/us/pl/100/153/s8/3], added subsec. (e) and struck out former subsec. (e) which read as follows: “During the period beginning on October 17, 1986, and ending on the date referred to in subsection (f) of this section, the Advisory Board for Institute of American Indian Arts shall continue to act in an advisory role for the Board and the Institute of American Indian and Alaska Native Culture and Arts Development.”
+    Subsec. (e). [Pub. L. 100–153][/us/pl/100/153], § 8(3), added subsec. (e) and struck out former subsec. (e) which read as follows: “During the period beginning on October 17, 1986, and ending on the date referred to in subsection (f) of this section, the Advisory Board for Institute of American Indian Arts shall continue to act in an advisory role for the Board and the Institute of American Indian and Alaska Native Culture and Arts Development.”
 
-    Subsec. (f). [Pub. L. 100–153, § 8(3)][/us/pl/100/153/s8/3], added subsec. (f) and struck out former subsec. (f) which read as follows: “The provisions of this section (other than subsection (e) of this section) shall take effect on October 1, 1986.”
+    Subsec. (f). [Pub. L. 100–153][/us/pl/100/153], § 8(3), added subsec. (f) and struck out former subsec. (f) which read as follows: “The provisions of this section (other than subsection (e) of this section) shall take effect on October 1, 1986.”
 
  __Effective Date of 1992 Amendment__ 
 
@@ -76,24 +76,24 @@
 ----------
 ----------
 
-[/us/pl/99/498/s1514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F498%2Fs1514
+[/us/pl/99/498/tXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F498%2FtXV
 [/us/stat/100/1608]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1608
-[/us/pl/100/153/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F153%2Fs8
+[/us/pl/100/153]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F153
 [/us/stat/101/887]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F887
-[/us/pl/100/297/s5406/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F297%2Fs5406%2Fd
+[/us/pl/100/297/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F297%2FtV
 [/us/stat/102/418]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F418
-[/us/pl/101/644/s503]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F644%2Fs503
+[/us/pl/101/644/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F644%2FtV
 [/us/stat/104/4669]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4669
-[/us/pl/102/325/s1331/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325%2Fs1331%2Ff
+[/us/pl/102/325/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325%2FtXIII
 [/us/stat/106/807]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F807
-[/us/pl/102/325/s1331/f/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325%2Fs1331%2Ff%2F1
-[/us/pl/102/325/s1331/f/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325%2Fs1331%2Ff%2F2
-[/us/pl/101/644/s503]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F644%2Fs503
-[/us/pl/101/644/s503/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F644%2Fs503%2F1
+[/us/pl/102/325]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325
+[/us/pl/102/325]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325
+[/us/pl/101/644]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F644
+[/us/pl/101/644]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F644
 [/us/pl/100/297]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F297
-[/us/pl/100/153/s8/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F153%2Fs8%2F1
-[/us/pl/100/153/s8/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F153%2Fs8%2F3
-[/us/pl/100/153/s8/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F153%2Fs8%2F3
+[/us/pl/100/153]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F153
+[/us/pl/100/153]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F153
+[/us/pl/100/153]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F153
 [/us/pl/102/325]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325
 [/us/pl/102/325/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325%2Fs2
 [/us/usc/t20/s1001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1001

@@ -39,19 +39,19 @@
 
         The Council shall (1) advise the Chairperson with respect to policies, programs, and procedures for carrying out the Chairperson’s functions, and (2) shall review applications for financial support and make recommendations thereon to the Chairperson. The Chairperson shall not approve or disapprove any such application until the Chairperson has received the recommendation of the Council on such application, unless the Council fails to make a recommendation thereon within a reasonable time. In the case of any application involving $30,000, or less, the Chairperson may approve or disapprove such request if such action is taken pursuant to the terms of a delegation of authority from the Council to the Chairperson, and provided that each such action by the Chairperson shall be reviewed by the Council: Provided, That the terms of any such delegation of authority shall not permit obligations for expenditure of funds under such delegation for any fiscal year which exceed an amount equal to 10 per centum of the sums appropriated for that fiscal year pursuant to subparagraph (B) of paragraph (1) of [section 960(a) of this title][/us/usc/t20/s960/a].
 
-([Pub. L. 89–209, § 8][/us/pl/89/209/s8], Sept. 29, 1965, [79 Stat. 851][/us/stat/79/851]; [Pub. L. 90–348, § 4][/us/pl/90/348/s4], June 18, 1968, [82 Stat. 186][/us/stat/82/186]; [Pub. L. 91–346, § 5(c)][/us/pl/91/346/s5/c], July 20, 1970, [84 Stat. 444][/us/stat/84/444]; [Pub. L. 93–133, § 2(a)(7)][/us/pl/93/133/s2/a/7], Oct. 19, 1973, [87 Stat. 464][/us/stat/87/464]; [Pub. L. 94–462, title I, § 103(b)][/us/pl/94/462/s103/b], Oct. 8, 1976, [90 Stat. 1971][/us/stat/90/1971]; [Pub. L. 96–496, title I, § 105][/us/pl/96/496/s105], Dec. 4, 1980, [94 Stat. 2587][/us/stat/94/2587]; renumbered title I, § 8, and amended [Pub. L. 98–306][/us/pl/98/306], §§ 2, 5(b), May 31, 1984, [98 Stat. 223][/us/stat/98/223], 224; renumbered § 8 and amended [Pub. L. 99–194, title I][/us/pl/99/194], §§ 101(1), 108, Dec. 20, 1985, [99 Stat. 1332][/us/stat/99/1332], 1338.)
+([Pub. L. 89–209][/us/pl/89/209], § 8, Sept. 29, 1965, [79 Stat. 851][/us/stat/79/851]; [Pub. L. 90–348][/us/pl/90/348], § 4, June 18, 1968, [82 Stat. 186][/us/stat/82/186]; [Pub. L. 91–346][/us/pl/91/346], § 5(c), July 20, 1970, [84 Stat. 444][/us/stat/84/444]; [Pub. L. 93–133][/us/pl/93/133], § 2(a)(7), Oct. 19, 1973, [87 Stat. 464][/us/stat/87/464]; [Pub. L. 94–462, title I][/us/pl/94/462/tI], § 103(b), Oct. 8, 1976, [90 Stat. 1971][/us/stat/90/1971]; [Pub. L. 96–496, title I][/us/pl/96/496/tI], § 105, Dec. 4, 1980, [94 Stat. 2587][/us/stat/94/2587]; renumbered title I, § 8, and amended [Pub. L. 98–306][/us/pl/98/306], §§ 2, 5(b), May 31, 1984, [98 Stat. 223][/us/stat/98/223], 224; renumbered § 8 and amended [Pub. L. 99–194, title I][/us/pl/99/194/tI], §§ 101(1), 108, Dec. 20, 1985, [99 Stat. 1332][/us/stat/99/1332], 1338.)
 
  __Amendments__ 
 
-    1985—Subsec. (b). [Pub. L. 99–194, § 108(1)][/us/pl/99/194/s108/1], substituted “Chairperson” for “Chairman” in two places, substituted “individuals who (1) are selected from among private citizens of the United States who are recognized for their broad knowledge of, expertise in, or commitment to the humanities, and (2) have established records of” for “selected on the basis of”, and inserted provision that in making such appointments, the President shall give due regard to equitable representation of women, minorities, and individuals with disabilities who are involved in the humanities.
+    1985—Subsec. (b). [Pub. L. 99–194][/us/pl/99/194], § 108(1), substituted “Chairperson” for “Chairman” in two places, substituted “individuals who (1) are selected from among private citizens of the United States who are recognized for their broad knowledge of, expertise in, or commitment to the humanities, and (2) have established records of” for “selected on the basis of”, and inserted provision that in making such appointments, the President shall give due regard to equitable representation of women, minorities, and individuals with disabilities who are involved in the humanities.
 
-    Subsec. (c). [Pub. L. 99–194, § 108(2)][/us/pl/99/194/s108/2], substituted “such member’s” for “his” wherever appearing.
+    Subsec. (c). [Pub. L. 99–194][/us/pl/99/194], § 108(2), substituted “such member’s” for “his” wherever appearing.
 
-    Subsecs. (d), (e). [Pub. L. 99–194, § 108(3)][/us/pl/99/194/s108/3], substituted “Chairperson” for “Chairman” wherever appearing.
+    Subsecs. (d), (e). [Pub. L. 99–194][/us/pl/99/194], § 108(3), substituted “Chairperson” for “Chairman” wherever appearing.
 
-    Subsec. (f). [Pub. L. 99–194, § 108(3)][/us/pl/99/194/s108/3], (4), substituted “Chairperson” for “Chairman” wherever appearing, “the Chairperson’s” for “his”, and “until the Chairperson has received” for “until he has received”.
+    Subsec. (f). [Pub. L. 99–194][/us/pl/99/194], § 108(3), (4), substituted “Chairperson” for “Chairman” wherever appearing, “the Chairperson’s” for “his”, and “until the Chairperson has received” for “until he has received”.
 
-    1984—Subsec. (c). [Pub. L. 98–306, § 5(b)][/us/pl/98/306/s5/b], inserted “Notwithstanding any other provisions of this subsection, a member shall serve after the expiration of his term until his successor takes office.”
+    1984—Subsec. (c). [Pub. L. 98–306][/us/pl/98/306], § 5(b), inserted “Notwithstanding any other provisions of this subsection, a member shall serve after the expiration of his term until his successor takes office.”
 
     1980—Subsec. (f). [Pub. L. 96–496][/us/pl/96/496] substituted “$30,000” for “$17,500”.
 
@@ -81,27 +81,27 @@
 [/us/usc/t5/s5332]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5332
 [/us/usc/t5/s5703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5703
 [/us/usc/t20/s960/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs960%2Fa
-[/us/pl/89/209/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F209%2Fs8
+[/us/pl/89/209]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F209
 [/us/stat/79/851]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F851
-[/us/pl/90/348/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F348%2Fs4
+[/us/pl/90/348]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F348
 [/us/stat/82/186]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F186
-[/us/pl/91/346/s5/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F346%2Fs5%2Fc
+[/us/pl/91/346]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F346
 [/us/stat/84/444]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F444
-[/us/pl/93/133/s2/a/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F133%2Fs2%2Fa%2F7
+[/us/pl/93/133]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F133
 [/us/stat/87/464]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F464
-[/us/pl/94/462/s103/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F462%2Fs103%2Fb
+[/us/pl/94/462/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F462%2FtI
 [/us/stat/90/1971]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1971
-[/us/pl/96/496/s105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F496%2Fs105
+[/us/pl/96/496/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F496%2FtI
 [/us/stat/94/2587]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2587
 [/us/pl/98/306]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F306
 [/us/stat/98/223]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F223
-[/us/pl/99/194]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F194
+[/us/pl/99/194/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F194%2FtI
 [/us/stat/99/1332]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F1332
-[/us/pl/99/194/s108/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F194%2Fs108%2F1
-[/us/pl/99/194/s108/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F194%2Fs108%2F2
-[/us/pl/99/194/s108/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F194%2Fs108%2F3
-[/us/pl/99/194/s108/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F194%2Fs108%2F3
-[/us/pl/98/306/s5/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F306%2Fs5%2Fb
+[/us/pl/99/194]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F194
+[/us/pl/99/194]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F194
+[/us/pl/99/194]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F194
+[/us/pl/99/194]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F194
+[/us/pl/98/306]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F306
 [/us/pl/96/496]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F496
 [/us/pl/94/462]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F462
 [/us/pl/93/133]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F133

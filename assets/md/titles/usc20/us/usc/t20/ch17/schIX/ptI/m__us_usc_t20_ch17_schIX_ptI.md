@@ -11,42 +11,16 @@
 ----------
 ----------
 
-[Previous](./../../../../../..//us/usc/t20/ch17/schIX/m__us_usc_t20_ch17_schIX.md) | [Next](./../../../../../..//us/usc/t20/ch17/schIX/ptII/m__us_usc_t20_ch17_schIX_ptII.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fch17%2FschIX%2FptI)
+[Previous](./../../../../../..//us/usc/t20/ch17/schIX/m__us_usc_t20_ch17_schIX.md) | [Next](./../../../../../..//us/usc/t20/ch17/schIX/ptI/m__us_usc_t20_s591 _us_usc_t20_s592.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fch17%2FschIX%2FptI)
 
 #### Part I—General
 
-§§ 591, 592. __Omitted__ 
-
- __Codification__ 
-
-    This part has not been funded since the fiscal year ending June 30, 1968.
-
-    Section 591, [Pub. L. 85–864, title XI, § 1101][/us/pl/85/864/s1101], as added [Pub. L. 88–665, title IX, § 901(a)][/us/pl/88/665/s901/a], Oct. 16, 1964, [78 Stat. 1107][/us/stat/78/1107]; amended [Pub. L. 89–329, title II, § 225][/us/pl/89/329/s225], title IV, § 497(b), formerly § 467(b), Nov. 8, 1965, [79 Stat. 1228][/us/stat/79/1228], 1254, renumbered [Pub. L. 90–575, title I, § 141][/us/pl/90/575/s141], Oct. 16, 1968, [82 Stat. 1030][/us/stat/82/1030]; [Pub. L. 90–247, title VII, § 705][/us/pl/90/247/s705], Jan. 2, 1968, [81 Stat. 820][/us/stat/81/820]; [Pub. L. 96–88, title III, § 301(a)(1)][/us/pl/96/88/s301/a/1], title V, § 507, Oct. 17, 1979, [93 Stat. 677][/us/stat/93/677], 692, authorized appropriations for fiscal years ending June 30, 1965, to June 30, 1968, for grants to institutions of higher education for operation of institutes for advanced study.
-
-    Section 592, [Pub. L. 85–864, title XI, § 1102][/us/pl/85/864/s1102], as added [Pub. L. 88–665, title IX, § 901(a)][/us/pl/88/665/s901/a], Oct. 16, 1964, [78 Stat. 1108][/us/stat/78/1108]; amended [Pub. L. 89–698, title II, § 202(2)][/us/pl/89/698/s202/2], Oct. 29, 1966, [80 Stat. 1070][/us/stat/80/1070], related to receipt of stipends by individuals attending institutes for advanced study.
-
 ----------
 
-[Previous](./../../../../../..//us/usc/t20/ch17/schIX/m__us_usc_t20_ch17_schIX.md) | [Next](./../../../../../..//us/usc/t20/ch17/schIX/ptII/m__us_usc_t20_ch17_schIX_ptII.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fch17%2FschIX%2FptI)
+[Previous](./../../../../../..//us/usc/t20/ch17/schIX/m__us_usc_t20_ch17_schIX.md) | [Next](./../../../../../..//us/usc/t20/ch17/schIX/ptI/m__us_usc_t20_s591 _us_usc_t20_s592.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fch17%2FschIX%2FptI)
 
 ----------
 ----------
 
-[/us/pl/85/864/s1101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F864%2Fs1101
-[/us/pl/88/665/s901/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F665%2Fs901%2Fa
-[/us/stat/78/1107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F1107
-[/us/pl/89/329/s225]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2Fs225
-[/us/stat/79/1228]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F1228
-[/us/pl/90/575/s141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F575%2Fs141
-[/us/stat/82/1030]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F1030
-[/us/pl/90/247/s705]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F247%2Fs705
-[/us/stat/81/820]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F820
-[/us/pl/96/88/s301/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F88%2Fs301%2Fa%2F1
-[/us/stat/93/677]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F677
-[/us/pl/85/864/s1102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F864%2Fs1102
-[/us/pl/88/665/s901/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F665%2Fs901%2Fa
-[/us/stat/78/1108]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F1108
-[/us/pl/89/698/s202/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F698%2Fs202%2F2
-[/us/stat/80/1070]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F1070
 
 

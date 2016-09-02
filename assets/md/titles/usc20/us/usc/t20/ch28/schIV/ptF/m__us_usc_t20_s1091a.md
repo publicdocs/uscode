@@ -49,23 +49,23 @@
 
         This section shall not apply in the case of a student who is deceased, or to a deceased student’s estate or the estate of such student’s family. If a student is deceased, then the student’s estate or the estate of the student’s family shall not be required to repay any financial assistance under this subchapter and part C of subchapter I of chapter 34 of title 42, including interest paid on the student’s behalf, collection costs, or other charges specified in this subchapter and part C of subchapter I of chapter 34 of title 42.
 
-([Pub. L. 89–329, title IV, § 484A][/us/pl/89/329/s484A], as added [Pub. L. 99–498, title IV, § 407(a)][/us/pl/99/498/s407/a], Oct. 17, 1986, [100 Stat. 1482][/us/stat/100/1482]; amended [Pub. L. 102–26, § 3(a)][/us/pl/102/26/s3/a], Apr. 9, 1991, [105 Stat. 124][/us/stat/105/124]; [Pub. L. 105–244, title IV, § 484][/us/pl/105/244/s484], Oct. 7, 1998, [112 Stat. 1737][/us/stat/112/1737]; [Pub. L. 110–315, title IV, § 486][/us/pl/110/315/s486], Aug. 14, 2008, [122 Stat. 3290][/us/stat/122/3290].)
+([Pub. L. 89–329, title IV][/us/pl/89/329/tIV], § 484A, as added [Pub. L. 99–498, title IV][/us/pl/99/498/tIV], § 407(a), Oct. 17, 1986, [100 Stat. 1482][/us/stat/100/1482]; amended [Pub. L. 102–26][/us/pl/102/26], § 3(a), Apr. 9, 1991, [105 Stat. 124][/us/stat/105/124]; [Pub. L. 105–244, title IV][/us/pl/105/244/tIV], § 484, Oct. 7, 1998, [112 Stat. 1737][/us/stat/112/1737]; [Pub. L. 110–315, title IV][/us/pl/110/315/tIV], § 486, Aug. 14, 2008, [122 Stat. 3290][/us/stat/122/3290].)
 
  __Prior Provisions__ 
 
-    A prior section 1091a, [Pub. L. 89–329, title IV, § 484A][/us/pl/89/329/s484A], as added [Pub. L. 99–272, title XVI, § 16033][/us/pl/99/272/s16033], Apr. 7, 1986, [100 Stat. 355][/us/stat/100/355], related to statute of limitations, collection costs, and defense of infancy, prior to the general revision of this part by [Pub. L. 99–498][/us/pl/99/498].
+    A prior section 1091a, [Pub. L. 89–329, title IV][/us/pl/89/329/tIV], § 484A, as added [Pub. L. 99–272, title XVI][/us/pl/99/272/tXVI], § 16033, Apr. 7, 1986, [100 Stat. 355][/us/stat/100/355], related to statute of limitations, collection costs, and defense of infancy, prior to the general revision of this part by [Pub. L. 99–498][/us/pl/99/498].
 
-    Another prior section 1091a, [Pub. L. 89–329, title V, § 502][/us/pl/89/329/s502], as added [Pub. L. 90–35, § 2(c)][/us/pl/90/35/s2/c], June 29, 1967, [81 Stat. 82][/us/stat/81/82]; amended [Pub. L. 91–230, title IV, § 401(h)(4)][/us/pl/91/230/s401/h/4], title VIII, § 802, Apr. 13, 1970, [84 Stat. 174][/us/stat/84/174], 190; [Pub. L. 92–318, title I, § 141(c)(1)(A)][/us/pl/92/318/s141/c/1/A], June 23, 1972, [86 Stat. 285][/us/stat/86/285], established the National Advisory Council on Education Professions Development and set forth functions, composition, etc., of the Council, prior to repeal by [Pub. L. 94–482, title I, § 151(a)(2)][/us/pl/94/482/s151/a/2], (b), Oct. 12, 1976, [90 Stat. 2151][/us/stat/90/2151], effective Sept. 30, 1976.
+    Another prior section 1091a, [Pub. L. 89–329, title V][/us/pl/89/329/tV], § 502, as added [Pub. L. 90–35][/us/pl/90/35], § 2(c), June 29, 1967, [81 Stat. 82][/us/stat/81/82]; amended [Pub. L. 91–230, title IV][/us/pl/91/230/tIV], § 401(h)(4), title VIII, § 802, Apr. 13, 1970, [84 Stat. 174][/us/stat/84/174], 190; [Pub. L. 92–318, title I][/us/pl/92/318/tI], § 141(c)(1)(A), June 23, 1972, [86 Stat. 285][/us/stat/86/285], established the National Advisory Council on Education Professions Development and set forth functions, composition, etc., of the Council, prior to repeal by [Pub. L. 94–482, title I][/us/pl/94/482/tI], § 151(a)(2), (b), Oct. 12, 1976, [90 Stat. 2151][/us/stat/90/2151], effective Sept. 30, 1976.
 
  __Amendments__ 
 
-    2008—Subsec. (b)(3). [Pub. L. 110–315, § 486(1)][/us/pl/110/315/s486/1], added par. (3).
+    2008—Subsec. (b)(3). [Pub. L. 110–315][/us/pl/110/315], § 486(1), added par. (3).
 
-    Subsec. (d). [Pub. L. 110–315, § 486(2)][/us/pl/110/315/s486/2], added subsec. (d).
+    Subsec. (d). [Pub. L. 110–315][/us/pl/110/315], § 486(2), added subsec. (d).
 
-    1998—[Pub. L. 105–244, § 484(1)][/us/pl/105/244/s484/1], inserted “, and State court judgments” after “limitations” in section catchline.
+    1998—[Pub. L. 105–244][/us/pl/105/244], § 484(1), inserted “, and State court judgments” after “limitations” in section catchline.
 
-    Subsec. (c). [Pub. L. 105–244, § 484(2)][/us/pl/105/244/s484/2], added subsec. (c).
+    Subsec. (c). [Pub. L. 105–244][/us/pl/105/244], § 484(2), added subsec. (c).
 
     1991—Subsec. (a). [Pub. L. 102–26][/us/pl/102/26] amended subsec. (a) generally, substituting provisions eliminating statute of limitations for student loan collections for provisions establishing six year limitations period for collection of such loans.
 
@@ -75,7 +75,7 @@
 
  __Effective Date of 1991 Amendment__ 
 
-[Pub. L. 102–26, § 3(c)][/us/pl/102/26/s3/c], Apr. 9, 1991, [105 Stat. 125][/us/stat/105/125], as amended by [Pub. L. 102–325, title XV, § 1551][/us/pl/102/325/s1551], July 23, 1992, [105 Stat. 838][/us/stat/105/838], provided that: 
+[Pub. L. 102–26][/us/pl/102/26], § 3(c), Apr. 9, 1991, [105 Stat. 125][/us/stat/105/125], as amended by [Pub. L. 102–325, title XV][/us/pl/102/325/tXV], § 1551, July 23, 1992, [105 Stat. 838][/us/stat/105/838], provided that: 
 
 > “The amendments made by this section \[amending this section\] shall be effective as if enacted by the Consolidated Omnibus Budget Reconciliation Act of 1985 ([Public Law 99–272][/us/pl/99/272]), and shall apply to any actions pending on or after the date of enactment of the Higher Education Technical Amendments of 1991 \[Apr. 9, 1991\].”
 
@@ -88,40 +88,40 @@
 
 [/us/usc/t20/s1078/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1078%2Fc
 [/us/usc/t20/s1087cc/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1087cc%2Fa
-[/us/pl/89/329/s484A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2Fs484A
-[/us/pl/99/498/s407/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F498%2Fs407%2Fa
+[/us/pl/89/329/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2FtIV
+[/us/pl/99/498/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F498%2FtIV
 [/us/stat/100/1482]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1482
-[/us/pl/102/26/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F26%2Fs3%2Fa
+[/us/pl/102/26]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F26
 [/us/stat/105/124]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F124
-[/us/pl/105/244/s484]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2Fs484
+[/us/pl/105/244/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2FtIV
 [/us/stat/112/1737]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F1737
-[/us/pl/110/315/s486]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2Fs486
+[/us/pl/110/315/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2FtIV
 [/us/stat/122/3290]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3290
-[/us/pl/89/329/s484A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2Fs484A
-[/us/pl/99/272/s16033]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F272%2Fs16033
+[/us/pl/89/329/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2FtIV
+[/us/pl/99/272/tXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F272%2FtXVI
 [/us/stat/100/355]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F355
 [/us/pl/99/498]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F498
-[/us/pl/89/329/s502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2Fs502
-[/us/pl/90/35/s2/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F35%2Fs2%2Fc
+[/us/pl/89/329/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2FtV
+[/us/pl/90/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F35
 [/us/stat/81/82]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F82
-[/us/pl/91/230/s401/h/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F230%2Fs401%2Fh%2F4
+[/us/pl/91/230/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F230%2FtIV
 [/us/stat/84/174]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F174
-[/us/pl/92/318/s141/c/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F318%2Fs141%2Fc%2F1%2FA
+[/us/pl/92/318/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F318%2FtI
 [/us/stat/86/285]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F285
-[/us/pl/94/482/s151/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F482%2Fs151%2Fa%2F2
+[/us/pl/94/482/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F482%2FtI
 [/us/stat/90/2151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2151
-[/us/pl/110/315/s486/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2Fs486%2F1
-[/us/pl/110/315/s486/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2Fs486%2F2
-[/us/pl/105/244/s484/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2Fs484%2F1
-[/us/pl/105/244/s484/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2Fs484%2F2
+[/us/pl/110/315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315
+[/us/pl/110/315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315
+[/us/pl/105/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244
+[/us/pl/105/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244
 [/us/pl/102/26]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F26
 [/us/pl/105/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244
 [/us/pl/105/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244
 [/us/pl/105/244/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2Fs3
 [/us/usc/t20/s1001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1001
-[/us/pl/102/26/s3/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F26%2Fs3%2Fc
+[/us/pl/102/26]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F26
 [/us/stat/105/125]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F125
-[/us/pl/102/325/s1551]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325%2Fs1551
+[/us/pl/102/325/tXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325%2FtXV
 [/us/stat/105/838]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F838
 [/us/pl/99/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F272
 

@@ -25,15 +25,15 @@
 
     (4) There is a strong Federal interest in improving science and engineering programs at minority institutions as such programs lag behind in program offerings and in student enrollment compared to such programs at other institutions of higher education.
 
-([Pub. L. 89–329, title III, § 350][/us/pl/89/329/s350], as added [Pub. L. 105–244, title III, § 307(a)][/us/pl/105/244/s307/a], Oct. 7, 1998, [112 Stat. 1647][/us/stat/112/1647].)
+([Pub. L. 89–329, title III][/us/pl/89/329/tIII], § 350, as added [Pub. L. 105–244, title III][/us/pl/105/244/tIII], § 307(a), Oct. 7, 1998, [112 Stat. 1647][/us/stat/112/1647].)
 
  __Prior Provisions__ 
 
-    A prior section 1067, [Pub. L. 89–329, title III, § 352][/us/pl/89/329/s352], as added [Pub. L. 99–498, title III, § 301(a)][/us/pl/99/498/s301/a], Oct. 17, 1986, [100 Stat. 1304][/us/stat/100/1304], and amended, which related to waiver authority and reporting requirement, was renumbered [section 392 of Pub. L. 89–329][/us/pl/89/329/s392] by [Pub. L. 105–244, title III, § 301(a)(2)][/us/pl/105/244/s301/a/2], Oct. 7, 1998, [112 Stat. 1636][/us/stat/112/1636], and transferred to [section 1068a of this title][/us/usc/t20/s1068a].
+    A prior section 1067, [Pub. L. 89–329, title III][/us/pl/89/329/tIII], § 352, as added [Pub. L. 99–498, title III][/us/pl/99/498/tIII], § 301(a), Oct. 17, 1986, [100 Stat. 1304][/us/stat/100/1304], and amended, which related to waiver authority and reporting requirement, was renumbered [section 392 of Pub. L. 89–329][/us/pl/89/329/s392] by [Pub. L. 105–244, title III][/us/pl/105/244/tIII], § 301(a)(2), Oct. 7, 1998, [112 Stat. 1636][/us/stat/112/1636], and transferred to [section 1068a of this title][/us/usc/t20/s1068a].
 
-    Another prior section 1067, [Pub. L. 89–329, title III, § 342][/us/pl/89/329/s342], as added [Pub. L. 96–374, title III, § 301][/us/pl/96/374/s301], Oct. 3, 1980, [94 Stat. 1398][/us/stat/94/1398], set waiver authority and reporting requirements for this part, prior to the general amendment of this subchapter by [Pub. L. 99–498][/us/pl/99/498].
+    Another prior section 1067, [Pub. L. 89–329, title III][/us/pl/89/329/tIII], § 342, as added [Pub. L. 96–374, title III][/us/pl/96/374/tIII], § 301, Oct. 3, 1980, [94 Stat. 1398][/us/stat/94/1398], set waiver authority and reporting requirements for this part, prior to the general amendment of this subchapter by [Pub. L. 99–498][/us/pl/99/498].
 
-    Another prior section 1067, [Pub. L. 89–329, title IV, § 407][/us/pl/89/329/s407], Nov. 8, 1965, [79 Stat. 1234][/us/stat/79/1234]; [Pub. L. 90–575, title I][/us/pl/90/575], §§ 101(b)(2), 103, 104, Oct. 16, 1968, [82 Stat. 1017][/us/stat/82/1017], 1018, related to agreements with institutions, required provisions and use of funds as additional Federal capital contribution for student loan fund, prior to the general amendment of part A of subchapter IV of this chapter by [Pub. L. 92–318, title I, § 131(b)(1)][/us/pl/92/318/s131/b/1], June 23, 1972, [86 Stat. 247][/us/stat/86/247].
+    Another prior section 1067, [Pub. L. 89–329, title IV][/us/pl/89/329/tIV], § 407, Nov. 8, 1965, [79 Stat. 1234][/us/stat/79/1234]; [Pub. L. 90–575, title I][/us/pl/90/575/tI], §§ 101(b)(2), 103, 104, Oct. 16, 1968, [82 Stat. 1017][/us/stat/82/1017], 1018, related to agreements with institutions, required provisions and use of funds as additional Federal capital contribution for student loan fund, prior to the general amendment of part A of subchapter IV of this chapter by [Pub. L. 92–318, title I][/us/pl/92/318/tI], § 131(b)(1), June 23, 1972, [86 Stat. 247][/us/stat/86/247].
 
  __Effective Date__ 
 
@@ -46,25 +46,25 @@
 ----------
 ----------
 
-[/us/pl/89/329/s350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2Fs350
-[/us/pl/105/244/s307/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2Fs307%2Fa
+[/us/pl/89/329/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2FtIII
+[/us/pl/105/244/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2FtIII
 [/us/stat/112/1647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F1647
-[/us/pl/89/329/s352]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2Fs352
-[/us/pl/99/498/s301/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F498%2Fs301%2Fa
+[/us/pl/89/329/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2FtIII
+[/us/pl/99/498/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F498%2FtIII
 [/us/stat/100/1304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1304
 [/us/pl/89/329/s392]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2Fs392
-[/us/pl/105/244/s301/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2Fs301%2Fa%2F2
+[/us/pl/105/244/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2FtIII
 [/us/stat/112/1636]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F1636
 [/us/usc/t20/s1068a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1068a
-[/us/pl/89/329/s342]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2Fs342
-[/us/pl/96/374/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F374%2Fs301
+[/us/pl/89/329/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2FtIII
+[/us/pl/96/374/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F374%2FtIII
 [/us/stat/94/1398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F1398
 [/us/pl/99/498]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F498
-[/us/pl/89/329/s407]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2Fs407
+[/us/pl/89/329/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2FtIV
 [/us/stat/79/1234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F1234
-[/us/pl/90/575]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F575
+[/us/pl/90/575/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F575%2FtI
 [/us/stat/82/1017]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F1017
-[/us/pl/92/318/s131/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F318%2Fs131%2Fb%2F1
+[/us/pl/92/318/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F318%2FtI
 [/us/stat/86/247]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F247
 [/us/pl/105/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244
 [/us/pl/105/244/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2Fs3

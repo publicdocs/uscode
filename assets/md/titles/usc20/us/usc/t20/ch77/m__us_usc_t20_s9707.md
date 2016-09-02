@@ -49,7 +49,7 @@
 
         There are authorized to be appropriated to the Secretary, not to exceed $3,000,000 for fiscal years 2004, 2005, and 2006, for the development, production, and distribution of a pilot national public service multimedia campaign under this section.
 
-([Pub. L. 108–159, title V, § 518][/us/pl/108/159/s518], Dec. 4, 2003, [117 Stat. 2009][/us/stat/117/2009].)
+([Pub. L. 108–159, title V][/us/pl/108/159/tV], § 518, Dec. 4, 2003, [117 Stat. 2009][/us/stat/117/2009].)
 
 ----------
 
@@ -58,7 +58,7 @@
 ----------
 ----------
 
-[/us/pl/108/159/s518]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F159%2Fs518
+[/us/pl/108/159/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F159%2FtV
 [/us/stat/117/2009]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2009
 
 

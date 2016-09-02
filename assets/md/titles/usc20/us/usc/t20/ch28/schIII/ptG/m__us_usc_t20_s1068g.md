@@ -17,7 +17,7 @@
 
     The Secretary shall make continuation awards under this subchapter for the second and succeeding years of a grant only after determining that the recipient is making satisfactory progress in carrying out the grant.
 
-([Pub. L. 89–329, title III, § 398][/us/pl/89/329/s398], as added [Pub. L. 105–244, title III, § 308(g)][/us/pl/105/244/s308/g], Oct. 7, 1998, [112 Stat. 1649][/us/stat/112/1649].)
+([Pub. L. 89–329, title III][/us/pl/89/329/tIII], § 398, as added [Pub. L. 105–244, title III][/us/pl/105/244/tIII], § 308(g), Oct. 7, 1998, [112 Stat. 1649][/us/stat/112/1649].)
 
  __Effective Date__ 
 
@@ -30,8 +30,8 @@
 ----------
 ----------
 
-[/us/pl/89/329/s398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2Fs398
-[/us/pl/105/244/s308/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2Fs308%2Fg
+[/us/pl/89/329/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2FtIII
+[/us/pl/105/244/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2FtIII
 [/us/stat/112/1649]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F1649
 [/us/pl/105/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244
 [/us/pl/105/244/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2Fs3

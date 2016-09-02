@@ -11,15 +11,15 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t20/ch68/schIII/m__us_usc_t20_ch68_schIII.md) | [Next](./../../../../..//us/usc/t20/ch68/schIII/m__us_usc_t20_s5891b.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs5891a)
+[Previous](./../../../../..//us/usc/t20/ch68/schIII/m__us_usc_t20_s5881...5891.md) | [Next](./../../../../..//us/usc/t20/ch68/schIII/m__us_usc_t20_s5891b.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs5891a)
 
 ## § 5891a. Definitions
 
     In this Act:
 
-    (1) __Local educational agency; State educational agency; outlying area__ 
+    (1) __Educational service agency; local educational agency; State educational agency; outlying area__ 
 
-        The terms “local educational agency”, “State educational agency”, and “outlying area” have the meanings given the terms in [section 7801 of this title][/us/usc/t20/s7801].
+        The terms “educational service agency”, “local educational agency”, “State educational agency”, and “outlying area” have the meanings given the terms in [section 7801 of this title][/us/usc/t20/s7801].
 
     (2) __Eligible school attendance area; school attendance area__ 
 
@@ -33,7 +33,7 @@
 
         The term “State” means each of the 50 States, the District of Columbia, the Commonwealth of Puerto Rico, and each outlying area.
 
-([Pub. L. 106–25, § 3][/us/pl/106/25/s3], Apr. 29, 1999, [113 Stat. 42][/us/stat/113/42]; [Pub. L. 107–110, title X, § 1076][/us/pl/107/110/s1076](o), Jan. 8, 2002, [115 Stat. 2092][/us/stat/115/2092].)
+([Pub. L. 106–25][/us/pl/106/25], § 3, Apr. 29, 1999, [113 Stat. 42][/us/stat/113/42]; [Pub. L. 107–110, title X][/us/pl/107/110/tX], § 1076(o), Jan. 8, 2002, [115 Stat. 2092][/us/stat/115/2092]; [Pub. L. 114–95, title IX][/us/pl/114/95/tIX], § 9207(a), Dec. 10, 2015, [129 Stat. 2141][/us/stat/129/2141].)
 
  __References in Text__ 
 
@@ -45,7 +45,13 @@ Section was enacted as part of the Education Flexibility Partnership Act of 1999
 
  __Amendments__ 
 
+    2015—Par. (1). [Pub. L. 114–95][/us/pl/114/95] substituted “Educational service agency; local” for “Local” in heading and, in text, substituted “The terms ‘educational service agency’,” for “The terms” and made technical amendment to reference in original act which appears in text as reference to [section 7801 of this title][/us/usc/t20/s7801].
+
     2002—Par. (1). [Pub. L. 107–110][/us/pl/107/110] substituted “7801” for “8801”.
+
+ __Effective Date of 2015 Amendment__ 
+
+    Amendment by [Pub. L. 114–95][/us/pl/114/95] effective Dec. 10, 2015, except with respect to certain noncompetitive programs and competitive programs, see [section 5 of Pub. L. 114–95][/us/pl/114/95/s5], set out as a note under [section 6301 of this title][/us/usc/t20/s6301].
 
  __Effective Date of 2002 Amendment__ 
 
@@ -53,7 +59,7 @@ Section was enacted as part of the Education Flexibility Partnership Act of 1999
 
  __Findings__ 
 
-[Pub. L. 106–25, § 2][/us/pl/106/25/s2], Apr. 29, 1999, [113 Stat. 41][/us/stat/113/41], provided that: 
+[Pub. L. 106–25][/us/pl/106/25], § 2, Apr. 29, 1999, [113 Stat. 41][/us/stat/113/41], provided that: 
 
 > “Congress makes the following findings:
 
@@ -73,26 +79,33 @@ Section was enacted as part of the Education Flexibility Partnership Act of 1999
 
 ----------
 
-[Previous](./../../../../..//us/usc/t20/ch68/schIII/m__us_usc_t20_ch68_schIII.md) | [Next](./../../../../..//us/usc/t20/ch68/schIII/m__us_usc_t20_s5891b.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs5891a)
+[Previous](./../../../../..//us/usc/t20/ch68/schIII/m__us_usc_t20_s5881...5891.md) | [Next](./../../../../..//us/usc/t20/ch68/schIII/m__us_usc_t20_s5891b.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs5891a)
 
 ----------
 ----------
 
 [/us/usc/t20/s7801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs7801
 [/us/usc/t20/s6313/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs6313%2Fa%2F2
-[/us/pl/106/25/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F25%2Fs3
+[/us/pl/106/25]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F25
 [/us/stat/113/42]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F42
-[/us/pl/107/110/s1076]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F110%2Fs1076
+[/us/pl/107/110/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F110%2FtX
 [/us/stat/115/2092]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F2092
+[/us/pl/114/95/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F95%2FtIX
+[/us/stat/129/2141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F2141
 [/us/pl/106/25]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F25
 [/us/stat/113/41]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F41
 [/us/usc/t20/s1415]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1415
 [/us/usc/t20/s5801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs5801
+[/us/pl/114/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F95
+[/us/usc/t20/s7801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs7801
 [/us/pl/107/110]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F110
+[/us/pl/114/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F95
+[/us/pl/114/95/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F95%2Fs5
+[/us/usc/t20/s6301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs6301
 [/us/pl/107/110]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F110
 [/us/pl/107/110/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F110%2Fs5
 [/us/usc/t20/s6301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs6301
-[/us/pl/106/25/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F25%2Fs2
+[/us/pl/106/25]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F25
 [/us/stat/113/41]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F41
 [/us/usc/t20/s6301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs6301
 [/us/usc/t20/s5891/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs5891%2Fe

@@ -11,13 +11,13 @@
 ----------
 ----------
 
-[Previous](./../../../..//us/usc/t20/ch29/m__us_usc_t20_s1175.md) | [Next](./../../../..//us/usc/t20/ch30/schI/m__us_usc_t20_ch30_schI.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fch30)
+[Previous](./../../../..//us/usc/t20/ch29/m__us_usc_t20_s1176 _us_usc_t20_s1177.md) | [Next](./../../../..//us/usc/t20/ch30/schI/m__us_usc_t20_ch30_schI.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fch30)
 
 ## CHAPTER 30—BASIC EDUCATION FOR ADULTS
 
 ----------
 
-[Previous](./../../../..//us/usc/t20/ch29/m__us_usc_t20_s1175.md) | [Next](./../../../..//us/usc/t20/ch30/schI/m__us_usc_t20_ch30_schI.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fch30)
+[Previous](./../../../..//us/usc/t20/ch29/m__us_usc_t20_s1176 _us_usc_t20_s1177.md) | [Next](./../../../..//us/usc/t20/ch30/schI/m__us_usc_t20_ch30_schI.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fch30)
 
 ----------
 ----------

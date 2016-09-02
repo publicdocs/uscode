@@ -11,52 +11,16 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t20/ch58/schI/m__us_usc_t20_ch58_schI.md) | [Next](./../../../../..//us/usc/t20/ch58/schIII/m__us_usc_t20_ch58_schIII.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fch58%2FschII)
+[Previous](./../../../../..//us/usc/t20/ch58/schI/m__us_usc_t20_s4611 _us_usc_t20_s4612.md) | [Next](./../../../../..//us/usc/t20/ch58/schII/m__us_usc_t20_s4621...4626.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fch58%2FschII)
 
 ### SUBCHAPTER II—STATE AND LOCAL PROGRAMS
 
-§§ 4621 to 4626. __Repealed.__  __[__  __Pub. L. 100–297, title I, § 1003(e)__  __][/us/pl/100/297/s1003/e]__  __,__  __Apr. 28, 1988__  __,__  __[__  __102 Stat. 293__  __][/us/stat/102/293]__ 
-
-    Section 4621, [Pub. L. 99–570, title IV, § 4121][/us/pl/99/570/s4121], Oct. 27, 1986, [100 Stat. 3207–127][/us/stat/100/3207-127], related to use of allotments by States.
-
-    Section 4622, [Pub. L. 99–570, title IV, § 4122][/us/pl/99/570/s4122], Oct. 27, 1986, [100 Stat. 3207–127][/us/stat/100/3207-127], related to State programs.
-
-    Section 4623, [Pub. L. 99–570, title IV, § 4123][/us/pl/99/570/s4123], Oct. 27, 1986, [100 Stat. 3207–128][/us/stat/100/3207-128], related to State applications.
-
-    Section 4624, [Pub. L. 99–570, title IV, § 4124][/us/pl/99/570/s4124], Oct. 27, 1986, [100 Stat. 3207–128][/us/stat/100/3207-128]; [Pub. L. 100–418, title VI, § 6091(a)][/us/pl/100/418/s6091/a], Aug. 23, 1988, [102 Stat. 1499][/us/stat/102/1499], related to responsibilities of State educational agencies.
-
-    Section 4625, [Pub. L. 99–570, title IV, § 4125][/us/pl/99/570/s4125], Oct. 27, 1986, [100 Stat. 3207–129][/us/stat/100/3207-129], related to local drug abuse education and prevention programs.
-
-    Section 4626, [Pub. L. 99–570, title IV, § 4126][/us/pl/99/570/s4126], Oct. 27, 1986, [100 Stat. 3207–130][/us/stat/100/3207-130], related to local applications.
-
- __Effective Date of Repeal__ 
-
-    Repeal effective July 1, 1988, see [section 6303 of Pub. L. 100–297][/us/pl/100/297/s6303], set out as an Effective Date of 1988 Amendment note under [section 1071 of this title][/us/usc/t20/s1071].
-
 ----------
 
-[Previous](./../../../../..//us/usc/t20/ch58/schI/m__us_usc_t20_ch58_schI.md) | [Next](./../../../../..//us/usc/t20/ch58/schIII/m__us_usc_t20_ch58_schIII.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fch58%2FschII)
+[Previous](./../../../../..//us/usc/t20/ch58/schI/m__us_usc_t20_s4611 _us_usc_t20_s4612.md) | [Next](./../../../../..//us/usc/t20/ch58/schII/m__us_usc_t20_s4621...4626.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fch58%2FschII)
 
 ----------
 ----------
 
-[/us/pl/100/297/s1003/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F297%2Fs1003%2Fe
-[/us/stat/102/293]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F293
-[/us/pl/99/570/s4121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F570%2Fs4121
-[/us/stat/100/3207-127]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3207-127
-[/us/pl/99/570/s4122]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F570%2Fs4122
-[/us/stat/100/3207-127]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3207-127
-[/us/pl/99/570/s4123]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F570%2Fs4123
-[/us/stat/100/3207-128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3207-128
-[/us/pl/99/570/s4124]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F570%2Fs4124
-[/us/stat/100/3207-128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3207-128
-[/us/pl/100/418/s6091/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2Fs6091%2Fa
-[/us/stat/102/1499]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1499
-[/us/pl/99/570/s4125]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F570%2Fs4125
-[/us/stat/100/3207-129]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3207-129
-[/us/pl/99/570/s4126]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F570%2Fs4126
-[/us/stat/100/3207-130]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3207-130
-[/us/pl/100/297/s6303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F297%2Fs6303
-[/us/usc/t20/s1071]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1071
 
 

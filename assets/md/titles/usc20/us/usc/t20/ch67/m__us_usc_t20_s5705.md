@@ -69,7 +69,7 @@
 
         Disbursements from the fund shall be made on vouchers approved by the Foundation and signed by the Chairman.
 
-([Pub. L. 102–281, title IV, § 426][/us/pl/102/281/s426], May 13, 1992, [106 Stat. 143][/us/stat/106/143]; [Pub. L. 111–8, div. D, title VI, § 623(1)][/us/pl/111/8/s623/1], Mar. 11, 2009, [123 Stat. 678][/us/stat/123/678].)
+([Pub. L. 102–281, title IV][/us/pl/102/281/tIV], § 426, May 13, 1992, [106 Stat. 143][/us/stat/106/143]; [Pub. L. 111–8, div. D, title VI][/us/pl/111/8/dD/tVI], § 623(1), Mar. 11, 2009, [123 Stat. 678][/us/stat/123/678].)
 
  __References in Text__ 
 
@@ -88,9 +88,9 @@
 
 [/us/usc/t20/s5709]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs5709
 [/us/usc/t20/s5704]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs5704
-[/us/pl/102/281/s426]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F281%2Fs426
+[/us/pl/102/281/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F281%2FtIV
 [/us/stat/106/143]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F143
-[/us/pl/111/8/s623/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F8%2Fs623%2F1
+[/us/pl/111/8/dD/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F8%2FdD%2FtVI
 [/us/stat/123/678]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F678
 [/us/pl/102/281]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F281
 [/us/stat/106/139]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F139

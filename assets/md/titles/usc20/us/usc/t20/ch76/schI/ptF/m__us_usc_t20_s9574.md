@@ -17,7 +17,7 @@
 
     Subject to [section 9573 of this title][/us/usc/t20/s9573], data collected by the Institute, including any office, board, committee, or center of the Institute, in carrying out the priorities and mission of the Institute, shall be made available to the public, including through use of the Internet.
 
-([Pub. L. 107–279, title I, § 184][/us/pl/107/279/s184], Nov. 5, 2002, [116 Stat. 1972][/us/stat/116/1972].)
+([Pub. L. 107–279, title I][/us/pl/107/279/tI], § 184, Nov. 5, 2002, [116 Stat. 1972][/us/stat/116/1972].)
 
 ----------
 
@@ -27,7 +27,7 @@
 ----------
 
 [/us/usc/t20/s9573]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs9573
-[/us/pl/107/279/s184]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F279%2Fs184
+[/us/pl/107/279/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F279%2FtI
 [/us/stat/116/1972]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1972
 
 

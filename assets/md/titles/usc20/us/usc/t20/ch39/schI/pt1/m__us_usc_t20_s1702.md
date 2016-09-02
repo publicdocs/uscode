@@ -35,7 +35,7 @@
 
         For the foregoing reasons, it is necessary and proper that the Congress, pursuant to the powers granted to it by the Constitution of the United States, specify appropriate remedies for the elimination of the vestiges of dual school systems, except that the provisions of this chapter are not intended to modify or diminish the authority of the courts of the United States to enforce fully the fifth and fourteenth amendments to the Constitution of the United States.
 
-([Pub. L. 93–380, title II, § 203][/us/pl/93/380/s203], Aug. 21, 1974, [88 Stat. 514][/us/stat/88/514].)
+([Pub. L. 93–380, title II][/us/pl/93/380/tII], § 203, Aug. 21, 1974, [88 Stat. 514][/us/stat/88/514].)
 
 ----------
 
@@ -44,7 +44,7 @@
 ----------
 ----------
 
-[/us/pl/93/380/s203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F380%2Fs203
+[/us/pl/93/380/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F380%2FtII
 [/us/stat/88/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F514
 
 

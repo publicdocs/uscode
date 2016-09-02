@@ -11,13 +11,13 @@
 ----------
 ----------
 
-[Previous](./../../../../../../..//us/usc/t20/ch47/schII/ptA/spt2/m__us_usc_t20_ch47_schII_ptA_spt2.md) | [Next](./../../../../../../..//us/usc/t20/ch47/schII/ptA/spt3/m__us_usc_t20_s2996.md) | [Root of Title](./../../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fch47%2FschII%2FptA%2Fspt3)
+[Previous](./../../../../../../..//us/usc/t20/ch47/schII/ptA/spt2/m__us_usc_t20_s2994...2994g.md) | [Next](./../../../../../../..//us/usc/t20/ch47/schII/ptA/spt3/m__us_usc_t20_s2996.md) | [Root of Title](./../../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fch47%2FschII%2FptA%2Fspt3)
 
 ##### subpart 3—general provisions
 
 ----------
 
-[Previous](./../../../../../../..//us/usc/t20/ch47/schII/ptA/spt2/m__us_usc_t20_ch47_schII_ptA_spt2.md) | [Next](./../../../../../../..//us/usc/t20/ch47/schII/ptA/spt3/m__us_usc_t20_s2996.md) | [Root of Title](./../../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fch47%2FschII%2FptA%2Fspt3)
+[Previous](./../../../../../../..//us/usc/t20/ch47/schII/ptA/spt2/m__us_usc_t20_s2994...2994g.md) | [Next](./../../../../../../..//us/usc/t20/ch47/schII/ptA/spt3/m__us_usc_t20_s2996.md) | [Root of Title](./../../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fch47%2FschII%2FptA%2Fspt3)
 
 ----------
 ----------

@@ -17,7 +17,7 @@
 
     The Statistics Center shall be headed by a Commissioner for Education Statistics (in this part referred to as the “Statistics Commissioner”) who shall be highly qualified and have substantial knowledge of statistical methodologies and activities undertaken by the Statistics Center.
 
-([Pub. L. 107–279, title I, § 152][/us/pl/107/279/s152], Nov. 5, 2002, [116 Stat. 1958][/us/stat/116/1958].)
+([Pub. L. 107–279, title I][/us/pl/107/279/tI], § 152, Nov. 5, 2002, [116 Stat. 1958][/us/stat/116/1958].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/107/279/s152]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F279%2Fs152
+[/us/pl/107/279/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F279%2FtI
 [/us/stat/116/1958]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1958
 
 

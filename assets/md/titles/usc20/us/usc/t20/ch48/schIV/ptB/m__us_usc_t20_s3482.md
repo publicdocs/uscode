@@ -23,7 +23,7 @@
 
         The Secretary may permit the consolidation of applications for grants or contracts with respect to two or more functions of the Secretary or the Department, but such consolidation shall not alter the statutory criteria for approval of applications for funding with respect to such functions.
 
-([Pub. L. 96–88, title IV, § 422][/us/pl/96/88/s422], Oct. 17, 1979, [93 Stat. 687][/us/stat/93/687].)
+([Pub. L. 96–88, title IV][/us/pl/96/88/tIV], § 422, Oct. 17, 1979, [93 Stat. 687][/us/stat/93/687].)
 
 ----------
 
@@ -32,7 +32,7 @@
 ----------
 ----------
 
-[/us/pl/96/88/s422]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F88%2Fs422
+[/us/pl/96/88/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F88%2FtIV
 [/us/stat/93/687]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F687
 
 

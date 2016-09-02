@@ -45,13 +45,21 @@
 
     (b) __Administration of evaluations under title I of the Elementary and Secondary Education Act of 1965__ 
 
-        The Evaluation and Regional Assistance Commissioner, consistent with the mission of the National Center for Education Evaluation and Regional Assistance under [section 9561(b) of this title][/us/usc/t20/s9561/b], shall administer all operations and contracts associated with evaluations authorized by part E of title I of the Elementary and Secondary Education Act of 1965 ([20 U.S.C. 6491][/us/usc/t20/s6491] et seq.) and administered by the Department as of November 5, 2002.
+        The Evaluation and Regional Assistance Commissioner, consistent with the mission of the National Center for Education Evaluation and Regional Assistance under [section 9561(b) of this title][/us/usc/t20/s9561/b], shall administer all operations and contracts associated with evaluations authorized by section 8601 of the Elementary and Secondary Education Act of 1965 \[[20 U.S.C. 7981][/us/usc/t20/s7981]\] and administered by the Department as of November 5, 2002.
 
-([Pub. L. 107–279, title I, § 173][/us/pl/107/279/s173], Nov. 5, 2002, [116 Stat. 1964][/us/stat/116/1964].)
+([Pub. L. 107–279, title I][/us/pl/107/279/tI], § 173, Nov. 5, 2002, [116 Stat. 1964][/us/stat/116/1964]; [Pub. L. 114–95, title IX][/us/pl/114/95/tIX], § 9215(ff)(2), Dec. 10, 2015, [129 Stat. 2174][/us/stat/129/2174].)
 
  __References in Text__ 
 
-    The Elementary and Secondary Education Act of 1965, referred to in subsecs. (a)(1)(B) and (b), is [Pub. L. 89–10][/us/pl/89/10], Apr. 11, 1965, [79 Stat. 27][/us/stat/79/27], as amended. Title I of the Act is classified generally to subchapter I (§ 6301 et seq.) of chapter 70 of this title. Part E of title I of the Act is classified generally to part E (§ 6491 et seq.) of subchapter I of chapter 70 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 6301 of this title][/us/usc/t20/s6301] and Tables.
+    The Elementary and Secondary Education Act of 1965, referred to in subsec. (a)(1)(B), is [Pub. L. 89–10][/us/pl/89/10], Apr. 11, 1965, [79 Stat. 27][/us/stat/79/27]. Title I of the Act is classified generally to subchapter I (§ 6301 et seq.) of chapter 70 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 6301 of this title][/us/usc/t20/s6301] and Tables.
+
+ __Amendments__ 
+
+    2015—Subsec. (b). [Pub. L. 114–95][/us/pl/114/95] substituted “section 8601 of the Elementary and Secondary Education Act of 1965” for “part E of title I of the Elementary and Secondary Education Act of 1965 ([20 U.S.C. 6491][/us/usc/t20/s6491] et seq.)”.
+
+ __Effective Date of 2015 Amendment__ 
+
+    Amendment by [Pub. L. 114–95][/us/pl/114/95] effective Dec. 10, 2015, except with respect to certain noncompetitive programs and competitive programs, see [section 5 of Pub. L. 114–95][/us/pl/114/95/s5], set out as a note under [section 6301 of this title][/us/usc/t20/s6301].
 
 ----------
 
@@ -64,11 +72,18 @@
 [/us/usc/t20/s6301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs6301
 [/us/usc/t20/s9519]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs9519
 [/us/usc/t20/s9561/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs9561%2Fb
-[/us/usc/t20/s6491]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs6491
-[/us/pl/107/279/s173]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F279%2Fs173
+[/us/usc/t20/s7981]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs7981
+[/us/pl/107/279/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F279%2FtI
 [/us/stat/116/1964]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1964
+[/us/pl/114/95/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F95%2FtIX
+[/us/stat/129/2174]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F2174
 [/us/pl/89/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F10
 [/us/stat/79/27]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F27
+[/us/usc/t20/s6301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs6301
+[/us/pl/114/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F95
+[/us/usc/t20/s6491]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs6491
+[/us/pl/114/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F95
+[/us/pl/114/95/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F95%2Fs5
 [/us/usc/t20/s6301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs6301
 
 

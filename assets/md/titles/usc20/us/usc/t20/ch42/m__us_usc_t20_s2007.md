@@ -17,7 +17,7 @@
 
     Each student awarded a scholarship under this chapter shall receive a stipend which shall not exceed the cost to such student for tuition, fees, books, room and board, or $10,000 (adjusted annually to reflect increases, if any, in the Consumer Price Index for All Urban Consumers, published by the Bureau of Labor Statistics) whichever is less for each academic year of study.
 
-([Pub. L. 93–642, § 8][/us/pl/93/642/s8], Jan. 4, 1975, [88 Stat. 2278][/us/stat/88/2278]; [Pub. L. 99–159, title V, § 501][/us/pl/99/159/s501], Nov. 22, 1985, [99 Stat. 904][/us/stat/99/904].)
+([Pub. L. 93–642][/us/pl/93/642], § 8, Jan. 4, 1975, [88 Stat. 2278][/us/stat/88/2278]; [Pub. L. 99–159, title V][/us/pl/99/159/tV], § 501, Nov. 22, 1985, [99 Stat. 904][/us/stat/99/904].)
 
  __Amendments__ 
 
@@ -30,9 +30,9 @@
 ----------
 ----------
 
-[/us/pl/93/642/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F642%2Fs8
+[/us/pl/93/642]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F642
 [/us/stat/88/2278]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F2278
-[/us/pl/99/159/s501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F159%2Fs501
+[/us/pl/99/159/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F159%2FtV
 [/us/stat/99/904]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F904
 [/us/pl/99/159]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F159
 

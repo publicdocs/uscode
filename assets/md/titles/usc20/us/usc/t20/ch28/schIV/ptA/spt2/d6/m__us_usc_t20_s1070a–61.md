@@ -13,9 +13,9 @@
 
 [Previous](./../../../../../../../..//us/usc/t20/ch28/schIV/ptA/spt2/d6/m__us_usc_t20_ch28_schIV_ptA_spt2_d6.md) | [Next](./../../../../../../../..//us/usc/t20/ch28/schIV/ptA/spt2/d7/m__us_usc_t20_ch28_schIV_ptA_spt2_d7.md) | [Root of Title](./../../../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1070a%E2%80%9361)
 
-## § 1070a–61. Repealed. [Pub. L. 105–244, title IV, § 405][/us/pl/105/244/s405], Oct. 7, 1998, [112 Stat. 1664][/us/stat/112/1664]
+## § 1070a–61. Repealed. [Pub. L. 105–244, title IV][/us/pl/105/244/tIV], § 405, Oct. 7, 1998, [112 Stat. 1664][/us/stat/112/1664]
 
-    Section, [Pub. L. 89–329, title IV, § 410A][/us/pl/89/329/s410A], as added [Pub. L. 102–325, title IV, § 402(a)(4)][/us/pl/102/325/s402/a/4], July 23, 1992, [106 Stat. 502][/us/stat/106/502], related to national student savings demonstration program.
+    Section, [Pub. L. 89–329, title IV][/us/pl/89/329/tIV], § 410A, as added [Pub. L. 102–325, title IV][/us/pl/102/325/tIV], § 402(a)(4), July 23, 1992, [106 Stat. 502][/us/stat/106/502], related to national student savings demonstration program.
 
  __Effective Date of Repeal__ 
 
@@ -28,10 +28,10 @@
 ----------
 ----------
 
-[/us/pl/105/244/s405]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2Fs405
+[/us/pl/105/244/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2FtIV
 [/us/stat/112/1664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F1664
-[/us/pl/89/329/s410A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2Fs410A
-[/us/pl/102/325/s402/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325%2Fs402%2Fa%2F4
+[/us/pl/89/329/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2FtIV
+[/us/pl/102/325/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325%2FtIV
 [/us/stat/106/502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F502
 [/us/pl/105/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244
 [/us/pl/105/244/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2Fs3
