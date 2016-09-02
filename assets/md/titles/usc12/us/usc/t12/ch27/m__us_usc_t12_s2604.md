@@ -59,7 +59,7 @@
 
         (13) Notice that the Office of Housing of the Department of Housing and Urban Development has made publicly available a brochure regarding loan fraud and a World Wide Web address and toll-free telephone number for obtaining the brochure.
 
-        (14) An explanation of flood insurance and the availability of flood insurance under the National Flood Insurance Program or from a private insurance company, whether or not the real estate is located in an area having special flood hazards.
+        (14) An explanation of flood insurance and the availability of flood insurance under the National Flood Insurance Program or from a private insurance company, whether or not the real estate is located in an area having special flood hazards, and the following statement: “Although you may not be required to maintain flood insurance on all structures, you may still wish to do so, and your mortgage lender may still require you to do so to protect the collateral securing the mortgage. If you choose to not maintain flood insurance on a structure, and it floods, you are responsible for all flood losses relating to that structure.”.
 
         The booklet prepared pursuant to this section shall take into consideration differences in real estate settlement procedures that may exist among the several States and territories of the United States and among separate political subdivisions within the same State and territory.
 
@@ -75,7 +75,7 @@
 
         Booklets may be printed and distributed by lenders if their form and content are approved by the Bureau as meeting the requirements of subsection (b) of this section.
 
-([Pub. L. 93–533, § 5][/us/pl/93/533/s5], Dec. 22, 1974, [88 Stat. 1725][/us/stat/88/1725]; [Pub. L. 94–205, § 4][/us/pl/94/205/s4], Jan. 2, 1976, [89 Stat. 1158][/us/stat/89/1158]; [Pub. L. 102–550, title IX, § 951][/us/pl/102/550/s951], Oct. 28, 1992, [106 Stat. 3892][/us/stat/106/3892]; [Pub. L. 111–203, title X, § 1098(3)][/us/pl/111/203/s1098/3], title XIV, § 1450, July 21, 2010, [124 Stat. 2104][/us/stat/124/2104], 2174; [Pub. L. 112–141, div. F, title II, § 100222][/us/pl/112/141/s100222], July 6, 2012, [126 Stat. 934][/us/stat/126/934].)
+([Pub. L. 93–533, § 5][/us/pl/93/533/s5], Dec. 22, 1974, [88 Stat. 1725][/us/stat/88/1725]; [Pub. L. 94–205, § 4][/us/pl/94/205/s4], Jan. 2, 1976, [89 Stat. 1158][/us/stat/89/1158]; [Pub. L. 102–550, title IX, § 951][/us/pl/102/550/s951], Oct. 28, 1992, [106 Stat. 3892][/us/stat/106/3892]; [Pub. L. 111–203, title X, § 1098(3)][/us/pl/111/203/s1098/3], title XIV, § 1450, July 21, 2010, [124 Stat. 2104][/us/stat/124/2104], 2174; [Pub. L. 112–141, div. F, title II, § 100222][/us/pl/112/141/s100222], July 6, 2012, [126 Stat. 934][/us/stat/126/934]; [Pub. L. 113–89, § 13(b)][/us/pl/113/89/s13/b], Mar. 21, 2014, [128 Stat. 1026][/us/stat/128/1026].)
 
  __References in Text__ 
 
@@ -84,6 +84,8 @@
     The Truth in Lending Act, referred to in subsec. (b)(3), is title I of [Pub. L. 90–321][/us/pl/90/321], May 29, 1968, [82 Stat. 146][/us/stat/82/146], which is classified generally to subchapter I (§ 1601 et seq.) of chapter 41 of Title 15, Commerce and Trade. Two sections 129 of the Act have been enacted and are classified to sections 1639 and 1639a of Title 15. For complete classification of this Act to the Code, see Short Title note set out under [section 1601 of Title 15][/us/usc/t15/s1601] and Tables.
 
  __Amendments__ 
+
+    2014—Subsec. (b)(14). [Pub. L. 113–89][/us/pl/113/89] inserted before period at end “, and the following statement: ‘Although you may not be required to maintain flood insurance on all structures, you may still wish to do so, and your mortgage lender may still require you to do so to protect the collateral securing the mortgage. If you choose to not maintain flood insurance on a structure, and it floods, you are responsible for all flood losses relating to that structure.’ ” and transferred par. (14) to appear after par. (13).
 
     2012—Subsec. (b)(14). [Pub. L. 112–141][/us/pl/112/141] added par. (14).
 
@@ -139,11 +141,14 @@
 [/us/stat/124/2104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2104
 [/us/pl/112/141/s100222]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs100222
 [/us/stat/126/934]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F934
+[/us/pl/113/89/s13/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F89%2Fs13%2Fb
+[/us/stat/128/1026]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1026
 [/us/pl/93/533]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F533
 [/us/pl/93/533]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F533
 [/us/pl/90/321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F321
 [/us/stat/82/146]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F146
 [/us/usc/t15/s1601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1601
+[/us/pl/113/89]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F89
 [/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
 [/us/pl/111/203/s1450/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1450%2F1
 [/us/pl/111/203/s1098/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1098%2F3%2FA
