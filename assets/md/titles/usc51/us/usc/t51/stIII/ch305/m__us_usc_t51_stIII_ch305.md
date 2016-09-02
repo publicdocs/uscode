@@ -79,7 +79,7 @@
 
 >     To the extent practicable, the Administrator shall take all necessary steps to address any impediments identified in the assessment.”
 
- __Ex. Ord. No. 11374. Abolition of Missile Sites Labor Commission__ 
+ __Ex Ord. No. 11374. Abolition of Missile Sites Labor Commission__ 
 
     Ex. Ord. No. 11374, Oct. 11, 1967, 32 F.R. 14199, provided:
 

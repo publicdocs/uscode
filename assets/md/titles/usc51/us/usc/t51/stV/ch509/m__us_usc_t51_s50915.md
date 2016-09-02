@@ -113,9 +113,9 @@
 
     (f)  __Application__  __.—__ 
 
-    This section applies to a license issued or transferred under this chapter for which the Secretary receives a complete and valid application not later than December 31, 2016. This section does not apply to permits.
+    This section applies to a license issued or transferred under this chapter for which the Secretary receives a complete and valid application not later than December 31, 2013. This section does not apply to permits.
 
-([Pub. L. 103–272, § 1(e)][/us/pl/103/272/s1/e], July 5, 1994, [108 Stat. 1338][/us/stat/108/1338], [§ 70113 of title 49][/us/usc/t49/s70113]; [Pub. L. 104–287, § 5(94)][/us/pl/104/287/s5/94], Oct. 11, 1996, [110 Stat. 3398][/us/stat/110/3398]; [Pub. L. 105–303, title I, § 102(a)(13)][/us/pl/105/303/s102/a/13], Oct. 28, 1998, [112 Stat. 2850][/us/stat/112/2850]; [Pub. L. 106–74, title IV, § 433][/us/pl/106/74/s433], Oct. 20, 1999, [113 Stat. 1097][/us/stat/113/1097]; [Pub. L. 106–377, § 1(a)(1)][/us/pl/106/377/s1/a/1] \[title IV, § 429\], Oct. 27, 2000, [114 Stat. 1441][/us/stat/114/1441], 1441A–56; [Pub. L. 106–405][/us/pl/106/405], §§ 5(b), 6(a), Nov. 1, 2000, [114 Stat. 1752][/us/stat/114/1752]; [Pub. L. 108–428, § 1][/us/pl/108/428/s1], Nov. 30, 2004, [118 Stat. 2432][/us/stat/118/2432]; [Pub. L. 108–492, § 2(c)(22)][/us/pl/108/492/s2/c/22], (23), Dec. 23, 2004, [118 Stat. 3981][/us/stat/118/3981]; [Pub. L. 111–125, § 1][/us/pl/111/125/s1], Dec. 28, 2009, [123 Stat. 3486][/us/stat/123/3486]; renumbered § 70113 then [§ 50915 of title 51][/us/usc/t51/s50915] and amended [Pub. L. 111–314, § 4(d)(2)][/us/pl/111/314/s4/d/2], (3)(O), (5)(Q), (R), Dec. 18, 2010, [124 Stat. 3440–3442][/us/stat/124/3440-3442]; [Pub. L. 112–273, § 3][/us/pl/112/273/s3], Jan. 14, 2013, [126 Stat. 2454][/us/stat/126/2454]; [Pub. L. 113–76, § 8][/us/pl/113/76/s8], Jan. 17, 2014, [128 Stat. 7][/us/stat/128/7].)
+([Pub. L. 103–272, § 1(e)][/us/pl/103/272/s1/e], July 5, 1994, [108 Stat. 1338][/us/stat/108/1338], [§ 70113 of title 49][/us/usc/t49/s70113]; [Pub. L. 104–287, § 5(94)][/us/pl/104/287/s5/94], Oct. 11, 1996, [110 Stat. 3398][/us/stat/110/3398]; [Pub. L. 105–303, title I, § 102(a)(13)][/us/pl/105/303/s102/a/13], Oct. 28, 1998, [112 Stat. 2850][/us/stat/112/2850]; [Pub. L. 106–74, title IV, § 433][/us/pl/106/74/s433], Oct. 20, 1999, [113 Stat. 1097][/us/stat/113/1097]; [Pub. L. 106–377, § 1(a)(1)][/us/pl/106/377/s1/a/1] \[title IV, § 429\], Oct. 27, 2000, [114 Stat. 1441][/us/stat/114/1441], 1441A–56; [Pub. L. 106–405][/us/pl/106/405], §§ 5(b), 6(a), Nov. 1, 2000, [114 Stat. 1752][/us/stat/114/1752]; [Pub. L. 108–428, § 1][/us/pl/108/428/s1], Nov. 30, 2004, [118 Stat. 2432][/us/stat/118/2432]; [Pub. L. 108–492, § 2(c)(22)][/us/pl/108/492/s2/c/22], (23), Dec. 23, 2004, [118 Stat. 3981][/us/stat/118/3981]; [Pub. L. 111–125, § 1][/us/pl/111/125/s1], Dec. 28, 2009, [123 Stat. 3486][/us/stat/123/3486]; renumbered § 70113 then [§ 50915 of title 51][/us/usc/t51/s50915] and amended [Pub. L. 111–314, § 4(d)(2)][/us/pl/111/314/s4/d/2], (3)(O), (5)(Q), (R), Dec. 18, 2010, [124 Stat. 3440–3442][/us/stat/124/3440-3442]; [Pub. L. 112–273, § 3][/us/pl/112/273/s3], Jan. 14, 2013, [126 Stat. 2454][/us/stat/126/2454].)
 
 <table>
 
@@ -367,8 +367,6 @@ Oct. 30, 1984, Pub. L. 98–575, § 16(b)(5), 98 Stat. 3061; restated Nov. 15,
 
  __Amendments__ 
 
-    2014—Subsec. (f). [Pub. L. 113–76][/us/pl/113/76] substituted “December 31, 2016” for “December 31, 2013”.
-
     2013—Subsec. (f). [Pub. L. 112–273][/us/pl/112/273] substituted “December 31, 2013” for “December 31, 2012”.
 
     2010—[Pub. L. 111–314, § 4(d)(2)][/us/pl/111/314/s4/d/2], (3)(O), successively renumbered [section 70113 of title 49][/us/usc/t49/s70113] and [section 70113 of this title][/us/usc/t51/s70113] as this section.
@@ -436,13 +434,10 @@ Oct. 30, 1984, Pub. L. 98–575, § 16(b)(5), 98 Stat. 3061; restated Nov. 15,
 [/us/stat/124/3440-3442]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3440-3442
 [/us/pl/112/273/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F273%2Fs3
 [/us/stat/126/2454]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F2454
-[/us/pl/113/76/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F76%2Fs8
-[/us/stat/128/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F7
 [/us/pl/104/287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F287
 [/us/act/1994-07-05/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1994-07-05%2Fs1
 [/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/1340]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1340
-[/us/pl/113/76]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F76
 [/us/pl/112/273]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F273
 [/us/pl/111/314/s4/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F314%2Fs4%2Fd%2F2
 [/us/usc/t49/s70113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs70113
