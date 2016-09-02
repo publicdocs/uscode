@@ -99,7 +99,7 @@
 
         (2) the term “person” means an individual, partnership, association, joint stock company, trust, corporation, or State or local governmental entity.
 
-([June 19, 1934, ch. 652][/us/act/1934-06-19/ch652], title III, § 394, as added [Pub. L. 101–437, title II, § 203(a)(3)][/us/pl/101/437/s203/a/3], Oct. 17, 1990, [104 Stat. 998][/us/stat/104/998]; amended [Pub. L. 102–538, title I, § 152][/us/pl/102/538/s152], formerly § 132, Oct. 27, 1992, [106 Stat. 3540][/us/stat/106/3540], renumbered § 152, [Pub. L. 103–66, title VI, § 6001(a)(2)][/us/pl/103/66/s6001/a/2], Aug. 10, 1993, [107 Stat. 379][/us/stat/107/379].)
+([June 19, 1934, ch. 652][/us/act/1934-06-19/ch652], title III, § 394, as added [Pub. L. 101–437, title II][/us/pl/101/437/tII], § 203(a)(3), Oct. 17, 1990, [104 Stat. 998][/us/stat/104/998]; amended [Pub. L. 102–538, title I][/us/pl/102/538/tI], § 152, formerly § 132, Oct. 27, 1992, [106 Stat. 3540][/us/stat/106/3540], renumbered § 152, [Pub. L. 103–66, title VI][/us/pl/103/66/tVI], § 6001(a)(2), Aug. 10, 1993, [107 Stat. 379][/us/stat/107/379].)
 
  __Prior Provisions__ 
 
@@ -117,7 +117,7 @@
 
  __Congressional Findings__ 
 
-[Pub. L. 101–437, title II, § 202][/us/pl/101/437/s202], Oct. 17, 1990, [104 Stat. 997][/us/stat/104/997], provided that: 
+[Pub. L. 101–437, title II][/us/pl/101/437/tII], § 202, Oct. 17, 1990, [104 Stat. 997][/us/stat/104/997], provided that: 
 
 > “The Congress finds that—
 
@@ -142,11 +142,11 @@
 
 [/us/usc/t5/s5703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5703
 [/us/act/1934-06-19/ch652]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-19%2Fch652
-[/us/pl/101/437/s203/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F437%2Fs203%2Fa%2F3
+[/us/pl/101/437/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F437%2FtII
 [/us/stat/104/998]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F998
-[/us/pl/102/538/s152]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F538%2Fs152
+[/us/pl/102/538/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F538%2FtI
 [/us/stat/106/3540]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3540
-[/us/pl/103/66/s6001/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66%2Fs6001%2Fa%2F2
+[/us/pl/103/66/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66%2FtVI
 [/us/stat/107/379]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F379
 [/us/pl/101/437]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F437
 [/us/usc/t47/s393a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs393a
@@ -155,7 +155,7 @@
 [/us/pl/102/538]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F538
 [/us/pl/92/463]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F463
 [/us/stat/86/770]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F770
-[/us/pl/101/437/s202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F437%2Fs202
+[/us/pl/101/437/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F437%2FtII
 [/us/stat/104/997]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F997
 
 

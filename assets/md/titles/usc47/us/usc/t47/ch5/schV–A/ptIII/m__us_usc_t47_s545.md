@@ -67,7 +67,7 @@
 
         For purposes of this section, the term “commercially impracticable” means, with respect to any requirement applicable to a cable operator, that it is commercially impracticable for the operator to comply with such requirement as a result of a change in conditions which is beyond the control of the operator and the nonoccurrence of which was a basic assumption on which the requirement was based.
 
-([June 19, 1934, ch. 652][/us/act/1934-06-19/ch652], title VI, § 625, as added [Pub. L. 98–549, § 2][/us/pl/98/549/s2], Oct. 30, 1984, [98 Stat. 2790][/us/stat/98/2790].)
+([June 19, 1934, ch. 652][/us/act/1934-06-19/ch652], title VI, § 625, as added [Pub. L. 98–549][/us/pl/98/549], § 2, Oct. 30, 1984, [98 Stat. 2790][/us/stat/98/2790].)
 
  __Effective Date__ 
 
@@ -84,7 +84,7 @@
 [/us/usc/t17/s801/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft17%2Fs801%2Fb%2F2
 [/us/usc/t47/s543]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs543
 [/us/act/1934-06-19/ch652]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-19%2Fch652
-[/us/pl/98/549/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F549%2Fs2
+[/us/pl/98/549]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F549
 [/us/stat/98/2790]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2790
 [/us/pl/98/549/s9/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F549%2Fs9%2Fa
 [/us/usc/t47/s521]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs521

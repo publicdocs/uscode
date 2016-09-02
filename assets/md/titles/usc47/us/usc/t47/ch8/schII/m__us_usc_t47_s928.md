@@ -219,43 +219,43 @@
 
         (2) to pay relocation or sharing costs related to pre-auction estimates or research, in accordance with subsection (d)(3).
 
-([Pub. L. 102–538, title I, § 118][/us/pl/102/538/s118], as added [Pub. L. 108–494, title II, § 204][/us/pl/108/494/s204], Dec. 23, 2004, [118 Stat. 3994][/us/stat/118/3994]; amended [Pub. L. 111–8, div. G, title I, § 1301(a)][/us/pl/111/8/s1301/a], Mar. 11, 2009, [123 Stat. 829][/us/stat/123/829]; [Pub. L. 112–96, title VI, § 6702][/us/pl/112/96/s6702], Feb. 22, 2012, [126 Stat. 252][/us/stat/126/252]; [Pub. L. 114–74, title X, § 1005(a)][/us/pl/114/74/s1005/a], Nov. 2, 2015, [129 Stat. 622][/us/stat/129/622].)
+([Pub. L. 102–538, title I][/us/pl/102/538/tI], § 118, as added [Pub. L. 108–494, title II][/us/pl/108/494/tII], § 204, Dec. 23, 2004, [118 Stat. 3994][/us/stat/118/3994]; amended [Pub. L. 111–8, div. G, title I][/us/pl/111/8/dG/tI], § 1301(a), Mar. 11, 2009, [123 Stat. 829][/us/stat/123/829]; [Pub. L. 112–96, title VI][/us/pl/112/96/tVI], § 6702, Feb. 22, 2012, [126 Stat. 252][/us/stat/126/252]; [Pub. L. 114–74, title X][/us/pl/114/74/tX], § 1005(a), Nov. 2, 2015, [129 Stat. 622][/us/stat/129/622].)
 
  __Amendments__ 
 
     2015—Subsecs. (g) to (i). [Pub. L. 114–74][/us/pl/114/74] added subsecs. (g) and (h) and redesignated former subsec. (g) as (i).
 
-    2012—[Pub. L. 112–96, § 6702(1)][/us/pl/112/96/s6702/1], substituted “relocation or sharing costs” for “relocation costs” wherever appearing.
+    2012—[Pub. L. 112–96][/us/pl/112/96], § 6702(1), substituted “relocation or sharing costs” for “relocation costs” wherever appearing.
 
-    Subsec. (c). [Pub. L. 112–96, § 6702(2)][/us/pl/112/96/s6702/2], amended subsec. (c) generally. Prior to amendment, text read as follows: “The amounts in the Fund from auctions of eligible frequencies are authorized to be used to pay relocation or sharing costs, as defined in [section 923(g)(3) of this title][/us/usc/t47/s923/g/3], of an eligible Federal entity incurring such costs with respect to relocation from those frequencies.”
+    Subsec. (c). [Pub. L. 112–96][/us/pl/112/96], § 6702(2), amended subsec. (c) generally. Prior to amendment, text read as follows: “The amounts in the Fund from auctions of eligible frequencies are authorized to be used to pay relocation or sharing costs, as defined in [section 923(g)(3) of this title][/us/usc/t47/s923/g/3], of an eligible Federal entity incurring such costs with respect to relocation from those frequencies.”
 
-    Subsec. (d)(2)(A). [Pub. L. 112–96, § 6702(3)(A)(iv)][/us/pl/112/96/s6702/3/A/iv], added subpar. (A). Former subpar. (A) redesignated (B).
+    Subsec. (d)(2)(A). [Pub. L. 112–96][/us/pl/112/96], § 6702(3)(A)(iv), added subpar. (A). Former subpar. (A) redesignated (B).
 
-    [Pub. L. 112–96, § 6702(3)(A)(i)][/us/pl/112/96/s6702/3/A/i], inserted “or sharing” before the semicolon.
+    [Pub. L. 112–96][/us/pl/112/96], § 6702(3)(A)(i), inserted “or sharing” before the semicolon.
 
-    Subsec. (d)(2)(B). [Pub. L. 112–96, § 6702(3)(A)(iii)][/us/pl/112/96/s6702/3/A/iii], redesignated subpar. (A) as (B). Former subpar. (B) redesignated (C).
+    Subsec. (d)(2)(B). [Pub. L. 112–96][/us/pl/112/96], § 6702(3)(A)(iii), redesignated subpar. (A) as (B). Former subpar. (B) redesignated (C).
 
-    [Pub. L. 112–96, § 6702(3)(A)(ii)][/us/pl/112/96/s6702/3/A/ii], inserted “or sharing” before period at end.
+    [Pub. L. 112–96][/us/pl/112/96], § 6702(3)(A)(ii), inserted “or sharing” before period at end.
 
-    Subsec. (d)(2)(C). [Pub. L. 112–96, § 6702(3)(A)(iii)][/us/pl/112/96/s6702/3/A/iii], redesignated subpar. (B) as (C).
+    Subsec. (d)(2)(C). [Pub. L. 112–96][/us/pl/112/96], § 6702(3)(A)(iii), redesignated subpar. (B) as (C).
 
-    Subsec. (d)(3). [Pub. L. 112–96, § 6702(3)(B)][/us/pl/112/96/s6702/3/B], (C), added par. (3) and struck out former par. (3). Prior to amendment, text read as follows: “Any auction proceeds in the Fund that are remaining after the payment of the relocation or sharing costs that are payable from the Fund shall revert to and be deposited in the general fund of the Treasury not later than 8 years after the date of the deposit of such proceeds to the Fund.”
+    Subsec. (d)(3). [Pub. L. 112–96][/us/pl/112/96], § 6702(3)(B), (C), added par. (3) and struck out former par. (3). Prior to amendment, text read as follows: “Any auction proceeds in the Fund that are remaining after the payment of the relocation or sharing costs that are payable from the Fund shall revert to and be deposited in the general fund of the Treasury not later than 8 years after the date of the deposit of such proceeds to the Fund.”
 
-    Subsec. (d)(4). [Pub. L. 112–96, § 6702(3)(C)][/us/pl/112/96/s6702/3/C], added par. (4).
+    Subsec. (d)(4). [Pub. L. 112–96][/us/pl/112/96], § 6702(3)(C), added par. (4).
 
-    Subsec. (e)(1)(B)(i). [Pub. L. 112–96, § 6702(4)(A)(i)][/us/pl/112/96/s6702/4/A/i], substituted “subsection (d)(2)(B)” for “subsection (d)(2)(A)”.
+    Subsec. (e)(1)(B)(i). [Pub. L. 112–96][/us/pl/112/96], § 6702(4)(A)(i), substituted “subsection (d)(2)(B)” for “subsection (d)(2)(A)”.
 
-    Subsec. (e)(1)(B)(ii). [Pub. L. 112–96, § 6702(4)(A)(ii)][/us/pl/112/96/s6702/4/A/ii], substituted “subsection (d)(2)(C)” for “subsection (d)(2)(B)”.
+    Subsec. (e)(1)(B)(ii). [Pub. L. 112–96][/us/pl/112/96], § 6702(4)(A)(ii), substituted “subsection (d)(2)(C)” for “subsection (d)(2)(B)”.
 
-    Subsec. (e)(2). [Pub. L. 112–96, § 6702(4)(B)][/us/pl/112/96/s6702/4/B], substituted “relocation of the entity or implementation of the sharing arrangement by the entity” for “entity’s relocation” and “subsection (d)(2)(B)” for “subsection (d)(2)(A)” and inserted “or the implementation of such arrangement” after “such relocation”.
+    Subsec. (e)(2). [Pub. L. 112–96][/us/pl/112/96], § 6702(4)(B), substituted “relocation of the entity or implementation of the sharing arrangement by the entity” for “entity’s relocation” and “subsection (d)(2)(B)” for “subsection (d)(2)(A)” and inserted “or the implementation of such arrangement” after “such relocation”.
 
-    Subsecs. (f), (g). [Pub. L. 112–96, § 6702(5)][/us/pl/112/96/s6702/5], added subsecs. (f) and (g).
+    Subsecs. (f), (g). [Pub. L. 112–96][/us/pl/112/96], § 6702(5), added subsecs. (f) and (g).
 
     2009—Subsec. (e)(1)(B)(ii) to (iv). [Pub. L. 111–8][/us/pl/111/8] inserted “and” after semicolon in cl. (ii), substituted period for “; and” in cl. (iii), and struck out cl. (iv) which read as follows: “the Comptroller General shall, within 30 days after receiving such plan, review such plan and submit to such committees an assessment of the explanation for the subsequent transfer or transfers.”
 
  __Annual Report__ 
 
-[Pub. L. 108–494, title II, § 207][/us/pl/108/494/s207], Dec. 23, 2004, [118 Stat. 3996][/us/stat/118/3996], provided that: 
+[Pub. L. 108–494, title II][/us/pl/108/494/tII], § 207, Dec. 23, 2004, [118 Stat. 3996][/us/stat/118/3996], provided that: 
 
 > “The National Telecommunications and Information Administration shall submit an annual report to the Committees on Appropriations and Energy and Commerce of the House of Representatives, the Committees on Appropriations and Commerce, Science, and Transportation of the Senate, and the Comptroller General on—
 
@@ -280,32 +280,32 @@
 [/us/usc/t47/s923/g/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs923%2Fg%2F3%2FA
 [/us/usc/t47/s923/h/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs923%2Fh%2F3
 [/us/usc/t47/s923/h/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs923%2Fh%2F3
-[/us/pl/102/538/s118]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F538%2Fs118
-[/us/pl/108/494/s204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F494%2Fs204
+[/us/pl/102/538/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F538%2FtI
+[/us/pl/108/494/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F494%2FtII
 [/us/stat/118/3994]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F3994
-[/us/pl/111/8/s1301/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F8%2Fs1301%2Fa
+[/us/pl/111/8/dG/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F8%2FdG%2FtI
 [/us/stat/123/829]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F829
-[/us/pl/112/96/s6702]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F96%2Fs6702
+[/us/pl/112/96/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F96%2FtVI
 [/us/stat/126/252]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F252
-[/us/pl/114/74/s1005/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F74%2Fs1005%2Fa
+[/us/pl/114/74/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F74%2FtX
 [/us/stat/129/622]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F622
 [/us/pl/114/74]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F74
-[/us/pl/112/96/s6702/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F96%2Fs6702%2F1
-[/us/pl/112/96/s6702/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F96%2Fs6702%2F2
+[/us/pl/112/96]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F96
+[/us/pl/112/96]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F96
 [/us/usc/t47/s923/g/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs923%2Fg%2F3
-[/us/pl/112/96/s6702/3/A/iv]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F96%2Fs6702%2F3%2FA%2Fiv
-[/us/pl/112/96/s6702/3/A/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F96%2Fs6702%2F3%2FA%2Fi
-[/us/pl/112/96/s6702/3/A/iii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F96%2Fs6702%2F3%2FA%2Fiii
-[/us/pl/112/96/s6702/3/A/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F96%2Fs6702%2F3%2FA%2Fii
-[/us/pl/112/96/s6702/3/A/iii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F96%2Fs6702%2F3%2FA%2Fiii
-[/us/pl/112/96/s6702/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F96%2Fs6702%2F3%2FB
-[/us/pl/112/96/s6702/3/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F96%2Fs6702%2F3%2FC
-[/us/pl/112/96/s6702/4/A/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F96%2Fs6702%2F4%2FA%2Fi
-[/us/pl/112/96/s6702/4/A/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F96%2Fs6702%2F4%2FA%2Fii
-[/us/pl/112/96/s6702/4/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F96%2Fs6702%2F4%2FB
-[/us/pl/112/96/s6702/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F96%2Fs6702%2F5
+[/us/pl/112/96]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F96
+[/us/pl/112/96]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F96
+[/us/pl/112/96]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F96
+[/us/pl/112/96]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F96
+[/us/pl/112/96]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F96
+[/us/pl/112/96]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F96
+[/us/pl/112/96]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F96
+[/us/pl/112/96]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F96
+[/us/pl/112/96]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F96
+[/us/pl/112/96]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F96
+[/us/pl/112/96]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F96
 [/us/pl/111/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F8
-[/us/pl/108/494/s207]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F494%2Fs207
+[/us/pl/108/494/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F494%2FtII
 [/us/stat/118/3996]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F3996
 [/us/usc/t47/s928/d/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs928%2Fd%2F2%2FB
 [/us/usc/t47/s923/g/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs923%2Fg%2F4

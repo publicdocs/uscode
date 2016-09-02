@@ -147,7 +147,7 @@
 
             (C) the Commission was guilty of misconduct in refusing to hear evidence pertinent and material to the decision or of any other misbehavior by which the rights of any party have been prejudiced.
 
-([Pub. L. 112–96, title VI, § 6302][/us/pl/112/96/s6302], Feb. 22, 2012, [126 Stat. 219][/us/stat/126/219].)
+([Pub. L. 112–96, title VI][/us/pl/112/96/tVI], § 6302, Feb. 22, 2012, [126 Stat. 219][/us/stat/126/219].)
 
 ----------
 
@@ -157,7 +157,7 @@
 ----------
 
 [/us/usc/t47/s1423]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs1423
-[/us/pl/112/96/s6302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F96%2Fs6302
+[/us/pl/112/96/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F96%2FtVI
 [/us/stat/126/219]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F219
 
 

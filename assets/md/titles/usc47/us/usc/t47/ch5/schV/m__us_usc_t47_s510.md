@@ -41,7 +41,7 @@
 
         Whenever property is forfeited under this section, the Attorney General of the United States may forward it to the Commission or sell any forfeited property which is not harmful to the public. The proceeds from any such sale shall be deposited in the general fund of the Treasury of the United States.
 
-([June 19, 1934, ch. 652][/us/act/1934-06-19/ch652], title V, § 510, as added [Pub. L. 97–259, title I, § 125][/us/pl/97/259/s125], Sept. 13, 1982, [96 Stat. 1098][/us/stat/96/1098].)
+([June 19, 1934, ch. 652][/us/act/1934-06-19/ch652], title V, § 510, as added [Pub. L. 97–259, title I][/us/pl/97/259/tI], § 125, Sept. 13, 1982, [96 Stat. 1098][/us/stat/96/1098].)
 
  __References in Text__ 
 
@@ -49,7 +49,7 @@
 
  __Prior Provisions__ 
 
-    A prior section 510, [act June 19, 1934, ch. 652][/us/act/1934-06-19/ch652], title V, § 510, as added May 11, 1962, [Pub. L. 87–448, § 1][/us/pl/87/448/s1], [76 Stat. 68][/us/stat/76/68], related to forfeitures for violations of rules and regulations by radio stations operating in common carrier, safety and special radio fields, prior to repeal effective the thirtieth day after Feb. 21, 1978, by [Pub. L. 95–234][/us/pl/95/234], §§ 4, 7, Feb. 21, 1978, [92 Stat. 35][/us/stat/92/35].
+    A prior section 510, [act June 19, 1934, ch. 652, title V][/us/act/1934-06-19/ch652/tV], § 510, as added May 11, 1962, [Pub. L. 87–448][/us/pl/87/448], § 1, [76 Stat. 68][/us/stat/76/68], related to forfeitures for violations of rules and regulations by radio stations operating in common carrier, safety and special radio fields, prior to repeal effective the thirtieth day after Feb. 21, 1978, by [Pub. L. 95–234][/us/pl/95/234], §§ 4, 7, Feb. 21, 1978, [92 Stat. 35][/us/stat/92/35].
 
 ----------
 
@@ -59,10 +59,10 @@
 ----------
 
 [/us/act/1934-06-19/ch652]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-19%2Fch652
-[/us/pl/97/259/s125]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F259%2Fs125
+[/us/pl/97/259/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F259%2FtI
 [/us/stat/96/1098]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1098
-[/us/act/1934-06-19/ch652]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-19%2Fch652
-[/us/pl/87/448/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F448%2Fs1
+[/us/act/1934-06-19/ch652/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-19%2Fch652%2FtV
+[/us/pl/87/448]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F448
 [/us/stat/76/68]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F68
 [/us/pl/95/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F234
 [/us/stat/92/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F35

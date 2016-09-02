@@ -23,7 +23,7 @@
 
         (2) Any order issued under paragraph (1) shall be a final order and may be appealed under [section 402(a) of this title][/us/usc/t47/s402/a].
 
-([June 19, 1934, ch. 652][/us/act/1934-06-19/ch652], title IV, § 405, [48 Stat. 1095][/us/stat/48/1095]; [July 16, 1952, ch. 879, § 15][/us/act/1952-07-16/ch879/s15], [66 Stat. 720][/us/stat/66/720]; [Pub. L. 86–752, § 4(c)][/us/pl/86/752/s4/c], Sept. 13, 1960, [74 Stat. 892][/us/stat/74/892]; [Pub. L. 87–192, § 3][/us/pl/87/192/s3], Aug. 31, 1961, [75 Stat. 421][/us/stat/75/421]; [Pub. L. 97–259, title I][/us/pl/97/259], §§ 122, 127(c), Sept. 13, 1982, [96 Stat. 1097][/us/stat/96/1097], 1099; [Pub. L. 100–594, § 8(d)][/us/pl/100/594/s8/d], Nov. 3, 1988, [102 Stat. 3023][/us/stat/102/3023].)
+([June 19, 1934, ch. 652][/us/act/1934-06-19/ch652], title IV, § 405, [48 Stat. 1095][/us/stat/48/1095]; [July 16, 1952, ch. 879][/us/act/1952-07-16/ch879], § 15, [66 Stat. 720][/us/stat/66/720]; [Pub. L. 86–752][/us/pl/86/752], § 4(c), Sept. 13, 1960, [74 Stat. 892][/us/stat/74/892]; [Pub. L. 87–192][/us/pl/87/192], § 3, Aug. 31, 1961, [75 Stat. 421][/us/stat/75/421]; [Pub. L. 97–259, title I][/us/pl/97/259/tI], §§ 122, 127(c), Sept. 13, 1982, [96 Stat. 1097][/us/stat/96/1097], 1099; [Pub. L. 100–594][/us/pl/100/594], § 8(d), Nov. 3, 1988, [102 Stat. 3023][/us/stat/102/3023].)
 
  __Codification__ 
 
@@ -43,7 +43,7 @@
 
  __Effective Date of 1960 Amendment__ 
 
-[Pub. L. 86–752, § 4(d)(4)][/us/pl/86/752/s4/d/4], Sept. 13, 1960, [74 Stat. 892][/us/stat/74/892], provided that: 
+[Pub. L. 86–752][/us/pl/86/752], § 4(d)(4), Sept. 13, 1960, [74 Stat. 892][/us/stat/74/892], provided that: 
 
 > “The amendment made by paragraph (2) of subsection (c) of this section \[amending this section\] shall only apply to petitions for rehearing filed on or after the date of the enactment of this Act \[Sept. 13, 1960\].”
 
@@ -63,22 +63,22 @@
 [/us/usc/t47/s402/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs402%2Fa
 [/us/act/1934-06-19/ch652]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-19%2Fch652
 [/us/stat/48/1095]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F1095
-[/us/act/1952-07-16/ch879/s15]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1952-07-16%2Fch879%2Fs15
+[/us/act/1952-07-16/ch879]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1952-07-16%2Fch879
 [/us/stat/66/720]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F66%2F720
-[/us/pl/86/752/s4/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F752%2Fs4%2Fc
+[/us/pl/86/752]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F752
 [/us/stat/74/892]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F74%2F892
-[/us/pl/87/192/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F192%2Fs3
+[/us/pl/87/192]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F192
 [/us/stat/75/421]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F75%2F421
-[/us/pl/97/259]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F259
+[/us/pl/97/259/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F259%2FtI
 [/us/stat/96/1097]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1097
-[/us/pl/100/594/s8/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F594%2Fs8%2Fd
+[/us/pl/100/594]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F594
 [/us/stat/102/3023]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3023
 [/us/pl/97/259/s127/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F259%2Fs127%2Fc%2F1
 [/us/pl/100/594]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F594
 [/us/pl/97/259]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F259
 [/us/pl/87/192]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F192
 [/us/pl/86/752]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F752
-[/us/pl/86/752/s4/d/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F752%2Fs4%2Fd%2F4
+[/us/pl/86/752]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F752
 [/us/stat/74/892]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F74%2F892
 
 

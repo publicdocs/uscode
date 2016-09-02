@@ -25,7 +25,7 @@
 
     (4) to prescribe such additional equipment as may be determined to be necessary to supplement that specified herein for the proper functioning of the radio installation installed in accordance with this part or for the proper conduct of radio communication in time of emergency or distress.
 
-([June 19, 1934, ch. 652][/us/act/1934-06-19/ch652], title III, § 384, as added [Aug. 6, 1956, ch. 973, § 1][/us/act/1956-08-06/ch973/s1], [70 Stat. 1048][/us/stat/70/1048]; amended [Pub. L. 103–414, title III, § 303(a)(20)(D)][/us/pl/103/414/s303/a/20/D], Oct. 25, 1994, [108 Stat. 4295][/us/stat/108/4295].)
+([June 19, 1934, ch. 652][/us/act/1934-06-19/ch652], title III, § 384, as added [Aug. 6, 1956, ch. 973][/us/act/1956-08-06/ch973], § 1, [70 Stat. 1048][/us/stat/70/1048]; amended [Pub. L. 103–414, title III][/us/pl/103/414/tIII], § 303(a)(20)(D), Oct. 25, 1994, [108 Stat. 4295][/us/stat/108/4295].)
 
  __Amendments__ 
 
@@ -43,9 +43,9 @@
 ----------
 
 [/us/act/1934-06-19/ch652]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-19%2Fch652
-[/us/act/1956-08-06/ch973/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-06%2Fch973%2Fs1
+[/us/act/1956-08-06/ch973]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-06%2Fch973
 [/us/stat/70/1048]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70%2F1048
-[/us/pl/103/414/s303/a/20/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F414%2Fs303%2Fa%2F20%2FD
+[/us/pl/103/414/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F414%2FtIII
 [/us/stat/108/4295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4295
 [/us/pl/103/414]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F414
 [/us/usc/t47/s381]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs381

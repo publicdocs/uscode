@@ -17,7 +17,7 @@
 
  __Codification__ 
 
-    Section, [Pub. L. 95–567, title IV, § 402][/us/pl/95/567/s402], Nov. 2, 1978, [92 Stat. 2424][/us/stat/92/2424], which required the National Telecommunications and Information Administration to submit an annual report to Congress on activities of the Administration with respect to domestic communications, international communications, Federal Government communications, spectrum plans and policies, and other matters, terminated, effective May 15, 2000, pursuant to [section 3003 of Pub. L. 104–66][/us/pl/104/66/s3003], as amended, set out as a note under [section 1113 of Title 31][/us/usc/t31/s1113], Money and Finance. See, also, 1st item on page 55 of House Document No. 103–7.
+    Section, [Pub. L. 95–567, title IV][/us/pl/95/567/tIV], § 402, Nov. 2, 1978, [92 Stat. 2424][/us/stat/92/2424], which required the National Telecommunications and Information Administration to submit an annual report to Congress on activities of the Administration with respect to domestic communications, international communications, Federal Government communications, spectrum plans and policies, and other matters, terminated, effective May 15, 2000, pursuant to [section 3003 of Pub. L. 104–66][/us/pl/104/66/s3003], as amended, set out as a note under [section 1113 of Title 31][/us/usc/t31/s1113], Money and Finance. See, also, 1st item on page 55 of House Document No. 103–7.
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/95/567/s402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F567%2Fs402
+[/us/pl/95/567/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F567%2FtIV
 [/us/stat/92/2424]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2424
 [/us/pl/104/66/s3003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F66%2Fs3003
 [/us/usc/t31/s1113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1113

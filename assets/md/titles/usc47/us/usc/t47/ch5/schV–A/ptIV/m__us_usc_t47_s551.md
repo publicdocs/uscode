@@ -119,7 +119,7 @@
 
         (2) the subject of the information is afforded the opportunity to appear and contest such entity’s claim.
 
-([June 19, 1934, ch. 652][/us/act/1934-06-19/ch652], title VI, § 631, as added [Pub. L. 98–549, § 2][/us/pl/98/549/s2], Oct. 30, 1984, [98 Stat. 2794][/us/stat/98/2794]; amended [Pub. L. 102–385, § 20][/us/pl/102/385/s20], Oct. 5, 1992, [106 Stat. 1497][/us/stat/106/1497]; [Pub. L. 107–56, title II, § 211][/us/pl/107/56/s211], Oct. 26, 2001, [115 Stat. 283][/us/stat/115/283].)
+([June 19, 1934, ch. 652][/us/act/1934-06-19/ch652], title VI, § 631, as added [Pub. L. 98–549][/us/pl/98/549], § 2, Oct. 30, 1984, [98 Stat. 2794][/us/stat/98/2794]; amended [Pub. L. 102–385][/us/pl/102/385], § 20, Oct. 5, 1992, [106 Stat. 1497][/us/stat/106/1497]; [Pub. L. 107–56, title II][/us/pl/107/56/tII], § 211, Oct. 26, 2001, [115 Stat. 283][/us/stat/115/283].)
 
  __References in Text__ 
 
@@ -127,13 +127,13 @@
 
  __Amendments__ 
 
-    2001—Subsec. (c)(2)(D). [Pub. L. 107–56, § 211(1)][/us/pl/107/56/s211/1], added subpar. (D).
+    2001—Subsec. (c)(2)(D). [Pub. L. 107–56][/us/pl/107/56], § 211(1), added subpar. (D).
 
-    Subsec. (h). [Pub. L. 107–56, § 211(2)][/us/pl/107/56/s211/2], substituted “Except as provided in subsection (c)(2)(D) of this section, a governmental entity” for “A governmental entity” in introductory provisions.
+    Subsec. (h). [Pub. L. 107–56][/us/pl/107/56], § 211(2), substituted “Except as provided in subsection (c)(2)(D) of this section, a governmental entity” for “A governmental entity” in introductory provisions.
 
-    1992—Subsec. (a)(2). [Pub. L. 102–385, § 20(a)][/us/pl/102/385/s20/a], amended par. (2) generally. Prior to amendment, par. (2) read as follows: “For purposes of this section, the term ‘personally identifiable information’ does not include any record of aggregate data which does not identify particular persons.”
+    1992—Subsec. (a)(2). [Pub. L. 102–385][/us/pl/102/385], § 20(a), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “For purposes of this section, the term ‘personally identifiable information’ does not include any record of aggregate data which does not identify particular persons.”
 
-    Subsec. (c)(1). [Pub. L. 102–385, § 20(b)][/us/pl/102/385/s20/b], inserted before period at end “and shall take such actions as are necessary to prevent unauthorized access to such information by a person other than the subscriber or cable operator”.
+    Subsec. (c)(1). [Pub. L. 102–385][/us/pl/102/385], § 20(b), inserted before period at end “and shall take such actions as are necessary to prevent unauthorized access to such information by a person other than the subscriber or cable operator”.
 
  __Effective Date of 1992 Amendment__ 
 
@@ -152,18 +152,18 @@
 
 [/us/usc/t47/s522]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs522
 [/us/act/1934-06-19/ch652]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-19%2Fch652
-[/us/pl/98/549/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F549%2Fs2
+[/us/pl/98/549]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F549
 [/us/stat/98/2794]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2794
-[/us/pl/102/385/s20]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F385%2Fs20
+[/us/pl/102/385]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F385
 [/us/stat/106/1497]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F1497
-[/us/pl/107/56/s211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56%2Fs211
+[/us/pl/107/56/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56%2FtII
 [/us/stat/115/283]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F283
 [/us/pl/98/549/s9/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F549%2Fs9%2Fa
 [/us/usc/t47/s521]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs521
-[/us/pl/107/56/s211/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56%2Fs211%2F1
-[/us/pl/107/56/s211/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56%2Fs211%2F2
-[/us/pl/102/385/s20/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F385%2Fs20%2Fa
-[/us/pl/102/385/s20/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F385%2Fs20%2Fb
+[/us/pl/107/56]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56
+[/us/pl/107/56]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56
+[/us/pl/102/385]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F385
+[/us/pl/102/385]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F385
 [/us/pl/102/385]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F385
 [/us/pl/102/385/s28]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F385%2Fs28
 [/us/usc/t47/s325]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs325

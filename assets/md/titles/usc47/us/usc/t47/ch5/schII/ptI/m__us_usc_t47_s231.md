@@ -125,7 +125,7 @@
 
             The term “minor” means any person under 17 years of age.
 
-([June 19, 1934, ch. 652][/us/act/1934-06-19/ch652], title II, § 231, as added [Pub. L. 105–277, div. C, title XIV, § 1403][/us/pl/105/277/s1403], Oct. 21, 1998, [112 Stat. 2681–736][/us/stat/112/2681-736].)
+([June 19, 1934, ch. 652][/us/act/1934-06-19/ch652], title II, § 231, as added [Pub. L. 105–277, div. C, title XIV][/us/pl/105/277/dC/tXIV], § 1403, Oct. 21, 1998, [112 Stat. 2681–736][/us/stat/112/2681-736].)
 
  __Effective Date__ 
 
@@ -133,7 +133,7 @@
 
  __Congressional Findings__ 
 
-[Pub. L. 105–277, div. C, title XIV, § 1402][/us/pl/105/277/s1402], Oct. 21, 1998, [112 Stat. 2681–736][/us/stat/112/2681-736], provided that: 
+[Pub. L. 105–277, div. C, title XIV][/us/pl/105/277/dC/tXIV], § 1402, Oct. 21, 1998, [112 Stat. 2681–736][/us/stat/112/2681-736], provided that: 
 
 > “The Congress finds that—
 
@@ -149,7 +149,7 @@
 
  __Study by Commission on Online Child Protection__ 
 
-[Pub. L. 105–277, div. C, title XIV, § 1405][/us/pl/105/277/s1405], Oct. 21, 1998, [112 Stat. 2681–739][/us/stat/112/2681-739], as amended by [Pub. L. 106–113, div. B, § 1000(a)(9)][/us/pl/106/113/s1000/a/9] \[title V, § 5001(b)–(f), Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–591, 1501–592; [Pub. L. 106–229, title IV, § 401][/us/pl/106/229/s401], June 30, 2000, [114 Stat. 476][/us/stat/114/476], provided that:
+[Pub. L. 105–277, div. C, title XIV][/us/pl/105/277/dC/tXIV], § 1405, Oct. 21, 1998, [112 Stat. 2681–739][/us/stat/112/2681-739], as amended by [Pub. L. 106–113, div. B][/us/pl/106/113/dB], § 1000(a)(9) \[title V, § 5001(b)–(f), Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–591, 1501–592; [Pub. L. 106–229, title IV][/us/pl/106/229/tIV], § 401, June 30, 2000, [114 Stat. 476][/us/stat/114/476], provided that:
 
 >     “(a)  __Establishment__  __.—__ 
 
@@ -294,17 +294,17 @@
 
 [/us/usc/t47/s230]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs230
 [/us/act/1934-06-19/ch652]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-19%2Fch652
-[/us/pl/105/277/s1403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs1403
+[/us/pl/105/277/dC/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2FdC%2FtXIV
 [/us/stat/112/2681-736]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681-736
 [/us/pl/105/277/s1406]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs1406
 [/us/usc/t47/s223]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs223
-[/us/pl/105/277/s1402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs1402
+[/us/pl/105/277/dC/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2FdC%2FtXIV
 [/us/stat/112/2681-736]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681-736
-[/us/pl/105/277/s1405]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs1405
+[/us/pl/105/277/dC/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2FdC%2FtXIV
 [/us/stat/112/2681-739]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681-739
-[/us/pl/106/113/s1000/a/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2Fs1000%2Fa%2F9
+[/us/pl/106/113/dB]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2FdB
 [/us/stat/113/1536]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1536
-[/us/pl/106/229/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F229%2Fs401
+[/us/pl/106/229/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F229%2FtIV
 [/us/stat/114/476]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F476
 [/us/usc/t47/s231/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs231%2Fc
 [/us/usc/t47/s231/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs231%2Fc

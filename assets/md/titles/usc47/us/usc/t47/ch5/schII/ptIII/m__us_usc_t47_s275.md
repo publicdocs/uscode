@@ -51,7 +51,7 @@
 
         but does not include a service that uses a medical monitoring device attached to an individual for the automatic surveillance of an ongoing medical condition.
 
-([June 19, 1934, ch. 652][/us/act/1934-06-19/ch652], title II, § 275, as added [Pub. L. 104–104, title I, § 151(a)][/us/pl/104/104/s151/a], Feb. 8, 1996, [110 Stat. 105][/us/stat/110/105].)
+([June 19, 1934, ch. 652][/us/act/1934-06-19/ch652], title II, § 275, as added [Pub. L. 104–104, title I][/us/pl/104/104/tI], § 151(a), Feb. 8, 1996, [110 Stat. 105][/us/stat/110/105].)
 
 ----------
 
@@ -63,7 +63,7 @@
 [/us/usc/t47/s251/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs251%2Fh
 [/us/usc/t47/s251/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs251%2Fh
 [/us/act/1934-06-19/ch652]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-19%2Fch652
-[/us/pl/104/104/s151/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F104%2Fs151%2Fa
+[/us/pl/104/104/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F104%2FtI
 [/us/stat/110/105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F105
 
 

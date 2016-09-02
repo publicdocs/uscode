@@ -31,7 +31,7 @@
 
         Nothing in this section shall be construed as creating or authorizing liability of any kind, under any law, for any action or failure to act relating to cable service or the granting of a franchise by any franchising authority or other governmental entity, or any official, member, employee, or agent of such authority or entity.
 
-([June 19, 1934, ch. 652][/us/act/1934-06-19/ch652], title VI, § 635A, as added [Pub. L. 102–385, § 24(a)][/us/pl/102/385/s24/a], Oct. 5, 1992, [106 Stat. 1500][/us/stat/106/1500].)
+([June 19, 1934, ch. 652][/us/act/1934-06-19/ch652], title VI, § 635A, as added [Pub. L. 102–385][/us/pl/102/385], § 24(a), Oct. 5, 1992, [106 Stat. 1500][/us/stat/106/1500].)
 
  __Effective Date__ 
 
@@ -45,7 +45,7 @@
 ----------
 
 [/us/act/1934-06-19/ch652]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-19%2Fch652
-[/us/pl/102/385/s24/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F385%2Fs24%2Fa
+[/us/pl/102/385]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F385
 [/us/stat/106/1500]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F1500
 [/us/pl/102/385/s28]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F385%2Fs28
 [/us/usc/t47/s325]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs325

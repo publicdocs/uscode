@@ -17,7 +17,7 @@
 
     There are authorized to be appropriated $42,000,000 for each of the fiscal years 1992, 1993, and 1994, to be used by the Secretary of Commerce to assist in the planning and construction of public telecommunications facilities as provided in this subpart. Sums appropriated under this subpart for any fiscal year shall remain available until expended for payment of grants for projects for which applications approved by the Secretary pursuant to this subpart have been submitted within such fiscal year. Sums appropriated under this subpart may be used by the Secretary to cover the cost of administering the provisions of this subpart.
 
-([June 19, 1934, ch. 652][/us/act/1934-06-19/ch652], title III, § 391, as added [Pub. L. 87–447][/us/pl/87/447], May 1, 1962, [76 Stat. 65][/us/stat/76/65]; amended [Pub. L. 90–129, title I, § 101][/us/pl/90/129/s101], Nov. 7, 1967, [81 Stat. 365][/us/stat/81/365]; [Pub. L. 91–97, § 2][/us/pl/91/97/s2], Oct. 27, 1969, [83 Stat. 146][/us/stat/83/146]; [Pub. L. 92–411, § 2][/us/pl/92/411/s2], Aug. 29, 1972, [86 Stat. 643][/us/stat/86/643]; [Pub. L. 93–84, § 1(c)][/us/pl/93/84/s1/c], Aug. 6, 1973, [87 Stat. 219][/us/stat/87/219]; [Pub. L. 94–309, § 3][/us/pl/94/309/s3], June 5, 1976, [90 Stat. 683][/us/stat/90/683]; [Pub. L. 95–567, title I, § 102][/us/pl/95/567/s102], Nov. 2, 1978, [92 Stat. 2405][/us/stat/92/2405]; [Pub. L. 97–35, title XII, § 1222][/us/pl/97/35/s1222], Aug. 13, 1981, [95 Stat. 725][/us/stat/95/725]; [Pub. L. 99–272, title V, § 5001(a)][/us/pl/99/272/s5001/a], Apr. 7, 1986, [100 Stat. 117][/us/stat/100/117]; [Pub. L. 100–626, § 2][/us/pl/100/626/s2], Nov. 7, 1988, [102 Stat. 3207][/us/stat/102/3207]; [Pub. L. 102–356, § 2][/us/pl/102/356/s2], Aug. 26, 1992, [106 Stat. 949][/us/stat/106/949].)
+([June 19, 1934, ch. 652][/us/act/1934-06-19/ch652], title III, § 391, as added [Pub. L. 87–447][/us/pl/87/447], May 1, 1962, [76 Stat. 65][/us/stat/76/65]; amended [Pub. L. 90–129, title I][/us/pl/90/129/tI], § 101, Nov. 7, 1967, [81 Stat. 365][/us/stat/81/365]; [Pub. L. 91–97][/us/pl/91/97], § 2, Oct. 27, 1969, [83 Stat. 146][/us/stat/83/146]; [Pub. L. 92–411][/us/pl/92/411], § 2, Aug. 29, 1972, [86 Stat. 643][/us/stat/86/643]; [Pub. L. 93–84][/us/pl/93/84], § 1(c), Aug. 6, 1973, [87 Stat. 219][/us/stat/87/219]; [Pub. L. 94–309][/us/pl/94/309], § 3, June 5, 1976, [90 Stat. 683][/us/stat/90/683]; [Pub. L. 95–567, title I][/us/pl/95/567/tI], § 102, Nov. 2, 1978, [92 Stat. 2405][/us/stat/92/2405]; [Pub. L. 97–35, title XII][/us/pl/97/35/tXII], § 1222, Aug. 13, 1981, [95 Stat. 725][/us/stat/95/725]; [Pub. L. 99–272, title V][/us/pl/99/272/tV], § 5001(a), Apr. 7, 1986, [100 Stat. 117][/us/stat/100/117]; [Pub. L. 100–626][/us/pl/100/626], § 2, Nov. 7, 1988, [102 Stat. 3207][/us/stat/102/3207]; [Pub. L. 102–356][/us/pl/102/356], § 2, Aug. 26, 1992, [106 Stat. 949][/us/stat/106/949].)
 
  __Amendments__ 
 
@@ -43,7 +43,7 @@
 
  __Effective Date of 1988 Amendment__ 
 
-[Pub. L. 100–626, § 12][/us/pl/100/626/s12], Nov. 7, 1988, [102 Stat. 3212][/us/stat/102/3212], provided that: 
+[Pub. L. 100–626][/us/pl/100/626], § 12, Nov. 7, 1988, [102 Stat. 3212][/us/stat/102/3212], provided that: 
 
 > “This Act and the amendments made by this Act \[amending this section and sections 396, 398, 399, and 605 of this title and enacting provisions set out as notes under sections 396 and 609 of this title\] are effective on the date of enactment of this Act \[Nov. 7, 1988\], except that the amendments made by sections 6 and 7(d) \[amending [section 396 of this title][/us/usc/t47/s396]\] are effective on October 1, 1989.”
 
@@ -61,25 +61,25 @@
 [/us/act/1934-06-19/ch652]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-19%2Fch652
 [/us/pl/87/447]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F447
 [/us/stat/76/65]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F65
-[/us/pl/90/129/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F129%2Fs101
+[/us/pl/90/129/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F129%2FtI
 [/us/stat/81/365]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F365
-[/us/pl/91/97/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F97%2Fs2
+[/us/pl/91/97]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F97
 [/us/stat/83/146]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F83%2F146
-[/us/pl/92/411/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F411%2Fs2
+[/us/pl/92/411]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F411
 [/us/stat/86/643]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F643
-[/us/pl/93/84/s1/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F84%2Fs1%2Fc
+[/us/pl/93/84]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F84
 [/us/stat/87/219]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F219
-[/us/pl/94/309/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F309%2Fs3
+[/us/pl/94/309]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F309
 [/us/stat/90/683]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F683
-[/us/pl/95/567/s102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F567%2Fs102
+[/us/pl/95/567/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F567%2FtI
 [/us/stat/92/2405]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2405
-[/us/pl/97/35/s1222]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs1222
+[/us/pl/97/35/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2FtXII
 [/us/stat/95/725]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F725
-[/us/pl/99/272/s5001/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F272%2Fs5001%2Fa
+[/us/pl/99/272/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F272%2FtV
 [/us/stat/100/117]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F117
-[/us/pl/100/626/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F626%2Fs2
+[/us/pl/100/626]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F626
 [/us/stat/102/3207]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3207
-[/us/pl/102/356/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F356%2Fs2
+[/us/pl/102/356]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F356
 [/us/stat/106/949]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F949
 [/us/pl/102/356]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F356
 [/us/pl/100/626]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F626
@@ -94,7 +94,7 @@
 [/us/pl/92/411]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F411
 [/us/pl/91/97]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F97
 [/us/pl/90/129]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F129
-[/us/pl/100/626/s12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F626%2Fs12
+[/us/pl/100/626]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F626
 [/us/stat/102/3212]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3212
 [/us/usc/t47/s396]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs396
 [/us/pl/95/567]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F567

@@ -113,7 +113,7 @@
 
         The Interoperability Board shall terminate 15 days after the date on which the Commission transmits the recommendations to the First Responder Network Authority under subsection (c)(3)(A).
 
-([Pub. L. 112–96, title VI, § 6203][/us/pl/112/96/s6203], Feb. 22, 2012, [126 Stat. 207][/us/stat/126/207].)
+([Pub. L. 112–96, title VI][/us/pl/112/96/tVI], § 6203, Feb. 22, 2012, [126 Stat. 207][/us/stat/126/207].)
 
  __References in Text__ 
 
@@ -126,7 +126,7 @@
 ----------
 ----------
 
-[/us/pl/112/96/s6203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F96%2Fs6203
+[/us/pl/112/96/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F96%2FtVI
 [/us/stat/126/207]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F207
 [/us/pl/92/463]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F463
 [/us/stat/86/770]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F770

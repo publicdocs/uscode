@@ -171,7 +171,7 @@
 
         Nothing in this section shall be construed as giving any public or private entity established or affected by this chapter any regulatory jurisdiction or oversight authority over providers of broadband services or information technology.
 
-([Pub. L. 110–385, title I, § 106][/us/pl/110/385/s106], Oct. 10, 2008, [122 Stat. 4099][/us/stat/122/4099].)
+([Pub. L. 110–385, title I][/us/pl/110/385/tI], § 106, Oct. 10, 2008, [122 Stat. 4099][/us/stat/122/4099].)
 
 ----------
 
@@ -181,7 +181,7 @@
 ----------
 
 [/us/usc/t26/s501/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs501%2Fc%2F3
-[/us/pl/110/385/s106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F385%2Fs106
+[/us/pl/110/385/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F385%2FtI
 [/us/stat/122/4099]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4099
 
 

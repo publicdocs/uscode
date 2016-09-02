@@ -29,7 +29,7 @@
 
         (3) a list of any foreign nations in which legal or regulatory practices restrict access to the market for satellite services in such nation in a manner that undermines competition or favors a particular competitor or set of competitors.
 
-([Pub. L. 109–34, § 4][/us/pl/109/34/s4], July 12, 2005, [119 Stat. 377][/us/stat/119/377].)
+([Pub. L. 109–34][/us/pl/109/34], § 4, July 12, 2005, [119 Stat. 377][/us/stat/119/377].)
 
  __Codification__ 
 
@@ -42,7 +42,7 @@
 ----------
 ----------
 
-[/us/pl/109/34/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F34%2Fs4
+[/us/pl/109/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F34
 [/us/stat/119/377]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F377
 
 

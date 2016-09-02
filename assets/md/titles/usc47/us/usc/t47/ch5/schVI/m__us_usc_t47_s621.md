@@ -45,7 +45,7 @@
 
         (2) the terms “cable operator” and “multi-channel video programming distributor” have the meanings given such terms in section 602 of Communications Act of 1934 ([47 U.S.C. 522][/us/usc/t47/s522]).
 
-([Pub. L. 111–311, § 2][/us/pl/111/311/s2], Dec. 15, 2010, [124 Stat. 3294][/us/stat/124/3294].)
+([Pub. L. 111–311][/us/pl/111/311], § 2, Dec. 15, 2010, [124 Stat. 3294][/us/stat/124/3294].)
 
  __References in Text__ 
 
@@ -67,7 +67,7 @@
 [/us/usc/t47/s151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs151
 [/us/usc/t47/s325]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs325
 [/us/usc/t47/s522]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs522
-[/us/pl/111/311/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F311%2Fs2
+[/us/pl/111/311]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F311
 [/us/stat/124/3294]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3294
 [/us/act/1934-06-19/ch652]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-19%2Fch652
 [/us/stat/48/1064]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F1064

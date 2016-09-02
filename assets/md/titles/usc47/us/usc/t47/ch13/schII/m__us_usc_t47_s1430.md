@@ -37,7 +37,7 @@
 
         (3) any other matter which such committees may determine appropriate.
 
-([Pub. L. 112–96, title VI, § 6210][/us/pl/112/96/s6210], Feb. 22, 2012, [126 Stat. 217][/us/stat/126/217].)
+([Pub. L. 112–96, title VI][/us/pl/112/96/tVI], § 6210, Feb. 22, 2012, [126 Stat. 217][/us/stat/126/217].)
 
  __References in Text__ 
 
@@ -50,7 +50,7 @@
 ----------
 ----------
 
-[/us/pl/112/96/s6210]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F96%2Fs6210
+[/us/pl/112/96/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F96%2FtVI
 [/us/stat/126/217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F217
 [/us/usc/t47/s1429]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs1429
 [/us/pl/112/96/s6210]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F96%2Fs6210

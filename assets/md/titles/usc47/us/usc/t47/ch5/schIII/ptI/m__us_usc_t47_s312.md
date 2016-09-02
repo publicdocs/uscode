@@ -61,7 +61,7 @@
 
         If a broadcasting station fails to transmit broadcast signals for any consecutive 12-month period, then the station license granted for the operation of that broadcast station expires at the end of that period, notwithstanding any provision, term, or condition of the license to the contrary, except that the Commission may extend or reinstate such station license if the holder of the station license prevails in an administrative or judicial appeal, the applicable law changes, or for any other reason to promote equity and fairness. Any broadcast license revoked or terminated in Alaska in a proceeding related to broadcasting via translator, microwave, or other alternative signal delivery is reinstated.
 
-([June 19, 1934, ch. 652][/us/act/1934-06-19/ch652], title III, § 312, [48 Stat. 1086][/us/stat/48/1086]; [July 16, 1952, ch. 879, § 10][/us/act/1952-07-16/ch879/s10], [66 Stat. 716][/us/stat/66/716]; [Pub. L. 86–752, § 6][/us/pl/86/752/s6], Sept. 13, 1960, [74 Stat. 893][/us/stat/74/893]; [Pub. L. 92–225, title I, § 103(a)(2)(A)][/us/pl/92/225/s103/a/2/A], Feb. 7, 1972, [86 Stat. 4][/us/stat/86/4]; [Pub. L. 97–259, title I, § 117][/us/pl/97/259/s117], Sept. 13, 1982, [96 Stat. 1095][/us/stat/96/1095]; [Pub. L. 104–104, title IV, § 403][/us/pl/104/104/s403](l), Feb. 8, 1996, [110 Stat. 132][/us/stat/110/132]; [Pub. L. 106–554, § 1(a)(4)][/us/pl/106/554/s1/a/4] \[div. B, title I, § 148(a)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–251; [Pub. L. 108–447, div. J, title IX][/us/pl/108/447] \[title II, § 213(3)\], Dec. 8, 2004, [118 Stat. 3431][/us/stat/118/3431].)
+([June 19, 1934, ch. 652][/us/act/1934-06-19/ch652], title III, § 312, [48 Stat. 1086][/us/stat/48/1086]; [July 16, 1952, ch. 879][/us/act/1952-07-16/ch879], § 10, [66 Stat. 716][/us/stat/66/716]; [Pub. L. 86–752][/us/pl/86/752], § 6, Sept. 13, 1960, [74 Stat. 893][/us/stat/74/893]; [Pub. L. 92–225, title I][/us/pl/92/225/tI], § 103(a)(2)(A), Feb. 7, 1972, [86 Stat. 4][/us/stat/86/4]; [Pub. L. 97–259, title I][/us/pl/97/259/tI], § 117, Sept. 13, 1982, [96 Stat. 1095][/us/stat/96/1095]; [Pub. L. 104–104, title IV][/us/pl/104/104/tIV], § 403(l), Feb. 8, 1996, [110 Stat. 132][/us/stat/110/132]; [Pub. L. 106–554][/us/pl/106/554], § 1(a)(4) \[div. B, title I, § 148(a)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–251; [Pub. L. 108–447, div. J, title IX][/us/pl/108/447/dJ/tIX] \[title II, § 213(3)\], Dec. 8, 2004, [118 Stat. 3431][/us/stat/118/3431].)
 
  __References in Text__ 
 
@@ -69,7 +69,7 @@
 
  __Codification__ 
 
-    In subsec. (e), “[section 558(c) of title 5][/us/usc/t5/s558/c]” substituted for “[section 1008(b) of title 5][/us/usc/t5/s1008/b]” on authority of [Pub. L. 89–554, § 7(b)][/us/pl/89/554/s7/b], Sept. 6, 1966, [80 Stat. 631][/us/stat/80/631], the first section of which enacted Title 5, Government Organization and Employees.
+    In subsec. (e), “[section 558(c) of title 5][/us/usc/t5/s558/c]” substituted for “[section 1008(b) of title 5][/us/usc/t5/s1008/b]” on authority of [Pub. L. 89–554][/us/pl/89/554], § 7(b), Sept. 6, 1966, [80 Stat. 631][/us/stat/80/631], the first section of which enacted Title 5, Government Organization and Employees.
 
  __Amendments__ 
 
@@ -89,11 +89,11 @@
 
  __Repeals__ 
 
-    Repeal of title I of [Pub. L. 92–225][/us/pl/92/225], cited as a credit to this section, by [Pub. L. 93–443, title II, § 205(b)][/us/pl/93/443/s205/b], Oct. 15, 1974, [88 Stat. 1278][/us/stat/88/1278], has been construed as not repealing the amendment to this section made by section 103(a)(2)(A) of such title I.
+    Repeal of title I of [Pub. L. 92–225][/us/pl/92/225], cited as a credit to this section, by [Pub. L. 93–443, title II][/us/pl/93/443/tII], § 205(b), Oct. 15, 1974, [88 Stat. 1278][/us/stat/88/1278], has been construed as not repealing the amendment to this section made by section 103(a)(2)(A) of such title I.
 
  __Declination of Political Advertising by Educational Broadcast Stations__ 
 
-[Pub. L. 106–554, § 1(a)(4)][/us/pl/106/554/s1/a/4] \[div. B, title I, § 148(b)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–251, provided that: 
+[Pub. L. 106–554][/us/pl/106/554], § 1(a)(4) \[div. B, title I, § 148(b)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–251, provided that: 
 
 > “The Federal Communications Commission shall take no action against any non-commercial educational broadcast station which declines to carry a political advertisement.”
 
@@ -108,26 +108,26 @@
 [/us/usc/t5/s558/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs558%2Fc
 [/us/act/1934-06-19/ch652]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-19%2Fch652
 [/us/stat/48/1086]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F1086
-[/us/act/1952-07-16/ch879/s10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1952-07-16%2Fch879%2Fs10
+[/us/act/1952-07-16/ch879]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1952-07-16%2Fch879
 [/us/stat/66/716]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F66%2F716
-[/us/pl/86/752/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F752%2Fs6
+[/us/pl/86/752]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F752
 [/us/stat/74/893]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F74%2F893
-[/us/pl/92/225/s103/a/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F225%2Fs103%2Fa%2F2%2FA
+[/us/pl/92/225/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F225%2FtI
 [/us/stat/86/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F4
-[/us/pl/97/259/s117]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F259%2Fs117
+[/us/pl/97/259/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F259%2FtI
 [/us/stat/96/1095]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1095
-[/us/pl/104/104/s403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F104%2Fs403
+[/us/pl/104/104/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F104%2FtIV
 [/us/stat/110/132]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F132
-[/us/pl/106/554/s1/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F4
+[/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
 [/us/stat/114/2763]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2763
-[/us/pl/108/447]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447
+[/us/pl/108/447/dJ/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447%2FdJ%2FtIX
 [/us/stat/118/3431]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F3431
 [/us/act/1934-06-19/ch652]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-19%2Fch652
 [/us/stat/48/1064]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F1064
 [/us/usc/t47/s609]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs609
 [/us/usc/t5/s558/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs558%2Fc
 [/us/usc/t5/s1008/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs1008%2Fb
-[/us/pl/89/554/s7/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554%2Fs7%2Fb
+[/us/pl/89/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554
 [/us/stat/80/631]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F631
 [/us/pl/108/447]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447
 [/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
@@ -136,9 +136,9 @@
 [/us/pl/92/225]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F225
 [/us/pl/86/752]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F752
 [/us/pl/92/225]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F225
-[/us/pl/93/443/s205/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F443%2Fs205%2Fb
+[/us/pl/93/443/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F443%2FtII
 [/us/stat/88/1278]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1278
-[/us/pl/106/554/s1/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F4
+[/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
 [/us/stat/114/2763]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2763
 
 

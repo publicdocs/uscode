@@ -121,7 +121,7 @@
 
             (C) shall assign to the NTIA responsibility for providing for the establishment, and overseeing operation, of a second-level Internet domain within the United States country code domain in accordance with [section 941 of this title][/us/usc/t47/s941].
 
-([Pub. L. 102–538, title I, § 103][/us/pl/102/538/s103], Oct. 27, 1992, [106 Stat. 3534][/us/stat/106/3534]; [Pub. L. 107–317, § 3][/us/pl/107/317/s3], Dec. 4, 2002, [116 Stat. 2767][/us/stat/116/2767]; [Pub. L. 112–96, title VI, § 6410][/us/pl/112/96/s6410], Feb. 22, 2012, [126 Stat. 234][/us/stat/126/234].)
+([Pub. L. 102–538, title I][/us/pl/102/538/tI], § 103, Oct. 27, 1992, [106 Stat. 3534][/us/stat/106/3534]; [Pub. L. 107–317][/us/pl/107/317], § 3, Dec. 4, 2002, [116 Stat. 2767][/us/stat/116/2767]; [Pub. L. 112–96, title VI][/us/pl/112/96/tVI], § 6410, Feb. 22, 2012, [126 Stat. 234][/us/stat/126/234].)
 
  __References in Text__ 
 
@@ -143,7 +143,7 @@
 
  __Pilot Program for Digital and Wireless Networks for Online Educational Programs of Study__ 
 
-[Pub. L. 110–161, div. B, title V, § 536][/us/pl/110/161/s536], Dec. 26, 2007, [121 Stat. 1932][/us/stat/121/1932], as amended by [Pub. L. 110–315, title IX, § 941(k)(2)(N)][/us/pl/110/315/s941/k/2/N], Aug. 14, 2008, [122 Stat. 3468][/us/stat/122/3468], provided that: 
+[Pub. L. 110–161, div. B, title V][/us/pl/110/161/dB/tV], § 536, Dec. 26, 2007, [121 Stat. 1932][/us/stat/121/1932], as amended by [Pub. L. 110–315, title IX][/us/pl/110/315/tIX], § 941(k)(2)(N), Aug. 14, 2008, [122 Stat. 3468][/us/stat/122/3468], provided that: 
 
 > “This section may be cited as the ‘ED 1.0 Act’.
 
@@ -225,7 +225,7 @@
 
  __Study of Technology Protection Measures__ 
 
-[Pub. L. 106–554, § 1(a)(4)][/us/pl/106/554/s1/a/4] \[div. B, title XVII, § 1703\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–336, provided that:
+[Pub. L. 106–554][/us/pl/106/554], § 1(a)(4) \[div. B, title XVII, § 1703\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–336, provided that:
 
 >     “(a)  __In General__  __.—__ 
 
@@ -282,11 +282,11 @@
 [/us/usc/t47/s753/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs753%2Fa
 [/us/usc/t47/s394]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs394
 [/us/usc/t47/s941]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs941
-[/us/pl/102/538/s103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F538%2Fs103
+[/us/pl/102/538/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F538%2FtI
 [/us/stat/106/3534]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3534
-[/us/pl/107/317/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F317%2Fs3
+[/us/pl/107/317]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F317
 [/us/stat/116/2767]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2767
-[/us/pl/112/96/s6410]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F96%2Fs6410
+[/us/pl/112/96/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F96%2FtVI
 [/us/stat/126/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F234
 [/us/usc/t47/s305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs305
 [/us/pl/87/624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F624
@@ -297,16 +297,16 @@
 [/us/usc/t47/s305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs305
 [/us/pl/112/96]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F96
 [/us/pl/107/317]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F317
-[/us/pl/110/161/s536]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F161%2Fs536
+[/us/pl/110/161/dB/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F161%2FdB%2FtV
 [/us/stat/121/1932]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F1932
-[/us/pl/110/315/s941/k/2/N]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2Fs941%2Fk%2F2%2FN
+[/us/pl/110/315/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2FtIX
 [/us/stat/122/3468]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3468
 [/us/usc/t20/s1101a/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1101a%2Fa%2F5
 [/us/usc/t25/s1801/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs1801%2Fa%2F4
 [/us/usc/t20/s1059d/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1059d%2Fb%2F2
 [/us/usc/t20/s1059d/b/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1059d%2Fb%2F4
 [/us/usc/t20/s1061/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1061%2F2
-[/us/pl/106/554/s1/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F4
+[/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
 [/us/stat/114/2763]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2763
 [/us/usc/t18/s1460]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs1460
 [/us/usc/t18/s2256]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs2256

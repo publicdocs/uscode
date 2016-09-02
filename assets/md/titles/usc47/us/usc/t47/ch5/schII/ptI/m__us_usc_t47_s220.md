@@ -57,7 +57,7 @@
 
         The Commission shall investigate and report to Congress as to the need for legislation to define further or harmonize the powers of the Commission and of State commissions with respect to matters to which this section relates.
 
-([June 19, 1934, ch. 652][/us/act/1934-06-19/ch652], title II, § 220, [48 Stat. 1078][/us/stat/48/1078]; [Pub. L. 101–239, title III, § 3002(f)][/us/pl/101/239/s3002/f], Dec. 19, 1989, [103 Stat. 2131][/us/stat/103/2131]; [Pub. L. 103–414, title III][/us/pl/103/414], §§ 303(a)(7), (8), 304(a)(5), Oct. 25, 1994, [108 Stat. 4294][/us/stat/108/4294], 4296; [Pub. L. 104–104, title IV, § 403(d)][/us/pl/104/104/s403/d], (e), Feb. 8, 1996, [110 Stat. 130][/us/stat/110/130].)
+([June 19, 1934, ch. 652][/us/act/1934-06-19/ch652], title II, § 220, [48 Stat. 1078][/us/stat/48/1078]; [Pub. L. 101–239, title III][/us/pl/101/239/tIII], § 3002(f), Dec. 19, 1989, [103 Stat. 2131][/us/stat/103/2131]; [Pub. L. 103–414, title III][/us/pl/103/414/tIII], §§ 303(a)(7), (8), 304(a)(5), Oct. 25, 1994, [108 Stat. 4294][/us/stat/108/4294], 4296; [Pub. L. 104–104, title IV][/us/pl/104/104/tIV], § 403(d), (e), Feb. 8, 1996, [110 Stat. 130][/us/stat/110/130].)
 
  __References in Text__ 
 
@@ -65,15 +65,15 @@
 
  __Amendments__ 
 
-    1996—Subsec. (b). [Pub. L. 104–104, § 403(d)][/us/pl/104/104/s403/d], substituted “may prescribe, for such carriers as it determines to be appropriate,” for “shall prescribe for such carriers”.
+    1996—Subsec. (b). [Pub. L. 104–104][/us/pl/104/104], § 403(d), substituted “may prescribe, for such carriers as it determines to be appropriate,” for “shall prescribe for such carriers”.
 
-    Subsec. (c). [Pub. L. 104–104, § 403(e)][/us/pl/104/104/s403/e], inserted at end “The Commission may obtain the services of any person licensed to provide public accounting services under the law of any State to assist with, or conduct, audits under this section. While so employed or engaged in conducting an audit for the Commission under this section, any such person shall have the powers granted the Commission under this subsection and shall be subject to subsection (f) of this section in the same manner as if that person were an employee of the Commission.”
+    Subsec. (c). [Pub. L. 104–104][/us/pl/104/104], § 403(e), inserted at end “The Commission may obtain the services of any person licensed to provide public accounting services under the law of any State to assist with, or conduct, audits under this section. While so employed or engaged in conducting an audit for the Commission under this section, any such person shall have the powers granted the Commission under this subsection and shall be subject to subsection (f) of this section in the same manner as if that person were an employee of the Commission.”
 
-    1994—Subsec. (a). [Pub. L. 103–414, § 303(a)(7)][/us/pl/103/414/s303/a/7], designated existing provisions as par. (1) and added par. (2).
+    1994—Subsec. (a). [Pub. L. 103–414][/us/pl/103/414], § 303(a)(7), designated existing provisions as par. (1) and added par. (2).
 
-    Subsec. (b). [Pub. L. 103–414, § 304(a)(5)][/us/pl/103/414/s304/a/5], struck out “, as soon as practicable,” after “The Commission shall”.
+    Subsec. (b). [Pub. L. 103–414][/us/pl/103/414], § 304(a)(5), struck out “, as soon as practicable,” after “The Commission shall”.
 
-    [Pub. L. 103–414, § 303(a)(8)][/us/pl/103/414/s303/a/8], substituted “classes” for “clasess” after “prescribed the” in third sentence.
+    [Pub. L. 103–414][/us/pl/103/414], § 303(a)(8), substituted “classes” for “clasess” after “prescribed the” in third sentence.
 
     1989—Subsec. (d). [Pub. L. 101–239][/us/pl/101/239] substituted “$6,000” for “$500”.
 
@@ -86,20 +86,20 @@
 
 [/us/act/1934-06-19/ch652]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-19%2Fch652
 [/us/stat/48/1078]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F1078
-[/us/pl/101/239/s3002/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2Fs3002%2Ff
+[/us/pl/101/239/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2FtIII
 [/us/stat/103/2131]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F2131
-[/us/pl/103/414]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F414
+[/us/pl/103/414/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F414%2FtIII
 [/us/stat/108/4294]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4294
-[/us/pl/104/104/s403/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F104%2Fs403%2Fd
+[/us/pl/104/104/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F104%2FtIV
 [/us/stat/110/130]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F130
 [/us/act/1934-06-19/ch652]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-19%2Fch652
 [/us/stat/48/1064]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F1064
 [/us/usc/t47/s609]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs609
-[/us/pl/104/104/s403/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F104%2Fs403%2Fd
-[/us/pl/104/104/s403/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F104%2Fs403%2Fe
-[/us/pl/103/414/s303/a/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F414%2Fs303%2Fa%2F7
-[/us/pl/103/414/s304/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F414%2Fs304%2Fa%2F5
-[/us/pl/103/414/s303/a/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F414%2Fs303%2Fa%2F8
+[/us/pl/104/104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F104
+[/us/pl/104/104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F104
+[/us/pl/103/414]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F414
+[/us/pl/103/414]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F414
+[/us/pl/103/414]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F414
 [/us/pl/101/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239
 
 

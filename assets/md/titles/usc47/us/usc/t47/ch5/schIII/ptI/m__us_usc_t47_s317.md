@@ -37,7 +37,7 @@
 
         The Commission shall prescribe appropriate rules and regulations to carry out the provisions of this section.
 
-([June 19, 1934, ch. 652][/us/act/1934-06-19/ch652], title III, § 317, [48 Stat. 1089][/us/stat/48/1089]; [Pub. L. 86–752, § 8(a)][/us/pl/86/752/s8/a], Sept. 13, 1960, [74 Stat. 895][/us/stat/74/895]; [Pub. L. 96–507, § 2(a)][/us/pl/96/507/s2/a], Dec. 8, 1980, [94 Stat. 2747][/us/stat/94/2747].)
+([June 19, 1934, ch. 652][/us/act/1934-06-19/ch652], title III, § 317, [48 Stat. 1089][/us/stat/48/1089]; [Pub. L. 86–752][/us/pl/86/752], § 8(a), Sept. 13, 1960, [74 Stat. 895][/us/stat/74/895]; [Pub. L. 96–507][/us/pl/96/507], § 2(a), Dec. 8, 1980, [94 Stat. 2747][/us/stat/94/2747].)
 
  __Amendments__ 
 
@@ -55,9 +55,9 @@
 [/us/usc/t47/s508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs508
 [/us/act/1934-06-19/ch652]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-19%2Fch652
 [/us/stat/48/1089]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F1089
-[/us/pl/86/752/s8/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F752%2Fs8%2Fa
+[/us/pl/86/752]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F752
 [/us/stat/74/895]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F74%2F895
-[/us/pl/96/507/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F507%2Fs2%2Fa
+[/us/pl/96/507]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F507
 [/us/stat/94/2747]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2747
 [/us/pl/96/507]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F507
 [/us/usc/t47/s508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs508

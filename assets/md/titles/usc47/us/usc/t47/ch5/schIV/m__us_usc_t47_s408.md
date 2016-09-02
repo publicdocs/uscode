@@ -17,7 +17,7 @@
 
     Except as otherwise provided in this chapter, all orders of the Commission, other than orders for the payment of money, shall take effect thirty calendar days from the date upon which public notice of the order is given, unless the Commission designates a different effective date. All such orders shall continue in force for the period of time specified in the order or until the Commission or a court of competent jurisdiction issues a superseding order.
 
-([June 19, 1934, ch. 652][/us/act/1934-06-19/ch652], title IV, § 408, [48 Stat. 1096][/us/stat/48/1096]; [Pub. L. 97–259, title I, § 123][/us/pl/97/259/s123], Sept. 13, 1982, [96 Stat. 1098][/us/stat/96/1098].)
+([June 19, 1934, ch. 652][/us/act/1934-06-19/ch652], title IV, § 408, [48 Stat. 1096][/us/stat/48/1096]; [Pub. L. 97–259, title I][/us/pl/97/259/tI], § 123, Sept. 13, 1982, [96 Stat. 1098][/us/stat/96/1098].)
 
  __References in Text__ 
 
@@ -36,7 +36,7 @@
 
 [/us/act/1934-06-19/ch652]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-19%2Fch652
 [/us/stat/48/1096]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F1096
-[/us/pl/97/259/s123]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F259%2Fs123
+[/us/pl/97/259/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F259%2FtI
 [/us/stat/96/1098]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1098
 [/us/act/1934-06-19/ch652]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-19%2Fch652
 [/us/stat/48/1064]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F1064

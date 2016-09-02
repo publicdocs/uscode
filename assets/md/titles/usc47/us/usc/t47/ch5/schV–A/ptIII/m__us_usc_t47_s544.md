@@ -91,7 +91,7 @@
 
         Within 120 days after October 5, 1992, the Commission shall prescribe rules concerning the disposition, after a subscriber to a cable system terminates service, of any cable installed by the cable operator within the premises of such subscriber.
 
-([June 19, 1934, ch. 652][/us/act/1934-06-19/ch652], title VI, § 624, as added [Pub. L. 98–549, § 2][/us/pl/98/549/s2], Oct. 30, 1984, [98 Stat. 2789][/us/stat/98/2789]; amended [Pub. L. 102–385][/us/pl/102/385], §§ 15, 16, Oct. 5, 1992, [106 Stat. 1490][/us/stat/106/1490]; [Pub. L. 103–414, title III][/us/pl/103/414], §§ 303(a)(23), 304(a)(12), Oct. 25, 1994, [108 Stat. 4295][/us/stat/108/4295], 4297; [Pub. L. 104–104, title III, § 301(e)][/us/pl/104/104/s301/e], Feb. 8, 1996, [110 Stat. 116][/us/stat/110/116].)
+([June 19, 1934, ch. 652][/us/act/1934-06-19/ch652], title VI, § 624, as added [Pub. L. 98–549][/us/pl/98/549], § 2, Oct. 30, 1984, [98 Stat. 2789][/us/stat/98/2789]; amended [Pub. L. 102–385][/us/pl/102/385], §§ 15, 16, Oct. 5, 1992, [106 Stat. 1490][/us/stat/106/1490]; [Pub. L. 103–414, title III][/us/pl/103/414/tIII], §§ 303(a)(23), 304(a)(12), Oct. 25, 1994, [108 Stat. 4295][/us/stat/108/4295], 4297; [Pub. L. 104–104, title III][/us/pl/104/104/tIII], § 301(e), Feb. 8, 1996, [110 Stat. 116][/us/stat/110/116].)
 
  __References in Text__ 
 
@@ -101,21 +101,21 @@
 
     1996—Subsec. (e). [Pub. L. 104–104][/us/pl/104/104] substituted “No State or franchising authority may prohibit, condition, or restrict a cable system’s use of any type of subscriber equipment or any transmission technology.” for “A franchising authority may require as part of a franchise (including a modification, renewal, or transfer thereof) provisions for the enforcement of the standards prescribed under this subsection. A franchising authority may apply to the Commission for a waiver to impose standards that are more stringent than the standards prescribed by the Commission under this subsection.”
 
-    1994—Subsec. (d)(2). [Pub. L. 103–414, § 304(a)(12)][/us/pl/103/414/s304/a/12], struck out designation “(A)”, inserted “of” after “restrict the viewing”, and struck out subpar. (B) which read as follows: “Subparagraph (A) shall take effect 180 days after the effective date of this subchapter.”
+    1994—Subsec. (d)(2). [Pub. L. 103–414][/us/pl/103/414], § 304(a)(12), struck out designation “(A)”, inserted “of” after “restrict the viewing”, and struck out subpar. (B) which read as follows: “Subparagraph (A) shall take effect 180 days after the effective date of this subchapter.”
 
-    [Pub. L. 103–414, § 303(a)(23)][/us/pl/103/414/s303/a/23], inserted “of” after “restrict the viewing” in subpar. (A).
+    [Pub. L. 103–414][/us/pl/103/414], § 303(a)(23), inserted “of” after “restrict the viewing” in subpar. (A).
 
-    1992—Subsec. (b)(1). [Pub. L. 102–385, § 16(c)(1)][/us/pl/102/385/s16/c/1], inserted “, except as provided in subsection (h) of this section,” after “but may not”.
+    1992—Subsec. (b)(1). [Pub. L. 102–385][/us/pl/102/385], § 16(c)(1), inserted “, except as provided in subsection (h) of this section,” after “but may not”.
 
-    Subsec. (d)(3). [Pub. L. 102–385, § 15][/us/pl/102/385/s15], added par. (3).
+    Subsec. (d)(3). [Pub. L. 102–385][/us/pl/102/385], § 15, added par. (3).
 
-    Subsec. (e). [Pub. L. 102–385, § 16(a)][/us/pl/102/385/s16/a], amended subsec. (e) generally. Prior to amendment, subsec. (e) read as follows: “The Commission may establish technical standards relating to the facilities and equipment of cable systems which a franchising authority may require in the franchise.”
+    Subsec. (e). [Pub. L. 102–385][/us/pl/102/385], § 16(a), amended subsec. (e) generally. Prior to amendment, subsec. (e) read as follows: “The Commission may establish technical standards relating to the facilities and equipment of cable systems which a franchising authority may require in the franchise.”
 
-    Subsec. (g). [Pub. L. 102–385, § 16(b)][/us/pl/102/385/s16/b], added subsec. (g).
+    Subsec. (g). [Pub. L. 102–385][/us/pl/102/385], § 16(b), added subsec. (g).
 
-    Subsec. (h). [Pub. L. 102–385, § 16(c)(2)][/us/pl/102/385/s16/c/2], added subsec. (h).
+    Subsec. (h). [Pub. L. 102–385][/us/pl/102/385], § 16(c)(2), added subsec. (h).
 
-    Subsec. (i). [Pub. L. 102–385, § 16(d)][/us/pl/102/385/s16/d], added subsec. (i).
+    Subsec. (i). [Pub. L. 102–385][/us/pl/102/385], § 16(d), added subsec. (i).
 
  __Effective Date of 1992 Amendment__ 
 
@@ -140,25 +140,25 @@
 [/us/usc/t47/s545]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs545
 [/us/usc/t47/s545]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs545
 [/us/act/1934-06-19/ch652]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-19%2Fch652
-[/us/pl/98/549/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F549%2Fs2
+[/us/pl/98/549]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F549
 [/us/stat/98/2789]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2789
 [/us/pl/102/385]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F385
 [/us/stat/106/1490]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F1490
-[/us/pl/103/414]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F414
+[/us/pl/103/414/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F414%2FtIII
 [/us/stat/108/4295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4295
-[/us/pl/104/104/s301/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F104%2Fs301%2Fe
+[/us/pl/104/104/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F104%2FtIII
 [/us/stat/110/116]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F116
 [/us/pl/98/549/s9/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F549%2Fs9%2Fa
 [/us/usc/t47/s521]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs521
 [/us/pl/104/104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F104
-[/us/pl/103/414/s304/a/12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F414%2Fs304%2Fa%2F12
-[/us/pl/103/414/s303/a/23]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F414%2Fs303%2Fa%2F23
-[/us/pl/102/385/s16/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F385%2Fs16%2Fc%2F1
-[/us/pl/102/385/s15]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F385%2Fs15
-[/us/pl/102/385/s16/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F385%2Fs16%2Fa
-[/us/pl/102/385/s16/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F385%2Fs16%2Fb
-[/us/pl/102/385/s16/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F385%2Fs16%2Fc%2F2
-[/us/pl/102/385/s16/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F385%2Fs16%2Fd
+[/us/pl/103/414]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F414
+[/us/pl/103/414]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F414
+[/us/pl/102/385]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F385
+[/us/pl/102/385]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F385
+[/us/pl/102/385]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F385
+[/us/pl/102/385]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F385
+[/us/pl/102/385]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F385
+[/us/pl/102/385]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F385
 [/us/pl/102/385]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F385
 [/us/pl/102/385/s28]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F385%2Fs28
 [/us/usc/t47/s325]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs325

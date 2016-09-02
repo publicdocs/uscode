@@ -31,7 +31,7 @@
 
         (2) any special efforts by the licensee to produce or support programming broadcast by another station in the licensee’s marketplace which is specifically designed to serve the educational and informational needs of children.
 
-([Pub. L. 101–437, title I, § 103][/us/pl/101/437/s103], Oct. 17, 1990, [104 Stat. 997][/us/stat/104/997]; [Pub. L. 102–356, § 15][/us/pl/102/356/s15], Aug. 26, 1992, [106 Stat. 954][/us/stat/106/954]; [Pub. L. 103–414, title III, § 303(c)][/us/pl/103/414/s303/c], Oct. 25, 1994, [108 Stat. 4296][/us/stat/108/4296].)
+([Pub. L. 101–437, title I][/us/pl/101/437/tI], § 103, Oct. 17, 1990, [104 Stat. 997][/us/stat/104/997]; [Pub. L. 102–356][/us/pl/102/356], § 15, Aug. 26, 1992, [106 Stat. 954][/us/stat/106/954]; [Pub. L. 103–414, title III][/us/pl/103/414/tIII], § 303(c), Oct. 25, 1994, [108 Stat. 4296][/us/stat/108/4296].)
 
  __Codification__ 
 
@@ -51,11 +51,11 @@
 ----------
 
 [/us/usc/t47/s303a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs303a
-[/us/pl/101/437/s103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F437%2Fs103
+[/us/pl/101/437/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F437%2FtI
 [/us/stat/104/997]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F997
-[/us/pl/102/356/s15]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F356%2Fs15
+[/us/pl/102/356]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F356
 [/us/stat/106/954]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F954
-[/us/pl/103/414/s303/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F414%2Fs303%2Fc
+[/us/pl/103/414/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F414%2FtIII
 [/us/stat/108/4296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4296
 [/us/pl/103/414]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F414
 [/us/pl/102/356]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F356

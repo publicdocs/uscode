@@ -23,7 +23,7 @@
 
         As used in this section, the term “scramble” means to rearrange the content of the signal of the programming so that the programming cannot be viewed or heard in an understandable manner.
 
-([June 19, 1934, ch. 652][/us/act/1934-06-19/ch652], title VI, § 640, as added [Pub. L. 104–104, title V, § 504][/us/pl/104/104/s504], Feb. 8, 1996, [110 Stat. 136][/us/stat/110/136].)
+([June 19, 1934, ch. 652][/us/act/1934-06-19/ch652], title VI, § 640, as added [Pub. L. 104–104, title V][/us/pl/104/104/tV], § 504, Feb. 8, 1996, [110 Stat. 136][/us/stat/110/136].)
 
 ----------
 
@@ -33,7 +33,7 @@
 ----------
 
 [/us/act/1934-06-19/ch652]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-19%2Fch652
-[/us/pl/104/104/s504]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F104%2Fs504
+[/us/pl/104/104/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F104%2FtV
 [/us/stat/110/136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F136
 
 

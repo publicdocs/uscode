@@ -17,7 +17,7 @@
 
     The Federal Communications Commission shall encourage and support efforts by States to deploy comprehensive end-to-end emergency communications infrastructure and programs, based on coordinated statewide plans, including seamless, ubiquitous, reliable wireless telecommunications networks and enhanced wireless 9–1–1 service. In encouraging and supporting that deployment, the Commission shall consult and cooperate with State and local officials responsible for emergency services and public safety, the telecommunications industry (specifically including the cellular and other wireless telecommunications service providers), the motor vehicle manufacturing industry, emergency medical service providers and emergency dispatch providers, transportation officials, special 9–1–1 districts, public safety, fire service and law enforcement officials, consumer groups, and hospital emergency and trauma care personnel (including emergency physicians, trauma surgeons, and nurses). The Commission shall encourage each State to develop and implement coordinated statewide deployment plans, through an entity designated by the governor, and to include representatives of the foregoing organizations and entities in development and implementation of such plans. Nothing in this section shall be construed to authorize or require the Commission to impose obligations or costs on any person.
 
-([Pub. L. 106–81, § 3(b)][/us/pl/106/81/s3/b], Oct. 26, 1999, [113 Stat. 1287][/us/stat/113/1287].)
+([Pub. L. 106–81][/us/pl/106/81], § 3(b), Oct. 26, 1999, [113 Stat. 1287][/us/stat/113/1287].)
 
  __Codification__ 
 
@@ -25,7 +25,7 @@
 
  __Findings and Purpose__ 
 
-[Pub. L. 106–81, § 2][/us/pl/106/81/s2], Oct. 26, 1999, [113 Stat. 1286][/us/stat/113/1286], provided that:
+[Pub. L. 106–81][/us/pl/106/81], § 2, Oct. 26, 1999, [113 Stat. 1286][/us/stat/113/1286], provided that:
 
 >     “(a)  __Findings__  __.—__ 
 
@@ -54,9 +54,9 @@
 ----------
 ----------
 
-[/us/pl/106/81/s3/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F81%2Fs3%2Fb
+[/us/pl/106/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F81
 [/us/stat/113/1287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1287
-[/us/pl/106/81/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F81%2Fs2
+[/us/pl/106/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F81
 [/us/stat/113/1286]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1286
 [/us/usc/t47/s609]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs609
 

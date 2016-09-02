@@ -497,7 +497,7 @@
 
             (C) whether the recovery action resulted in collection of any amount, and if so, the amount collected.
 
-([June 19, 1934, ch. 652][/us/act/1934-06-19/ch652], title II, § 227, as added [Pub. L. 102–243, § 3(a)][/us/pl/102/243/s3/a], Dec. 20, 1991, [105 Stat. 2395][/us/stat/105/2395]; amended [Pub. L. 102–556, title IV, § 402][/us/pl/102/556/s402], Oct. 28, 1992, [106 Stat. 4194][/us/stat/106/4194]; [Pub. L. 103–414, title III, § 303(a)(11)][/us/pl/103/414/s303/a/11], (12), Oct. 25, 1994, [108 Stat. 4294][/us/stat/108/4294]; [Pub. L. 108–187, § 12][/us/pl/108/187/s12], Dec. 16, 2003, [117 Stat. 2717][/us/stat/117/2717]; [Pub. L. 109–21][/us/pl/109/21], §§ 2(a)–(g), 3, July 9, 2005, [119 Stat. 359–362][/us/stat/119/359-362]; [Pub. L. 111–331, § 2][/us/pl/111/331/s2], Dec. 22, 2010, [124 Stat. 3572][/us/stat/124/3572]; [Pub. L. 114–74, title III, § 301(a)][/us/pl/114/74/s301/a], Nov. 2, 2015, [129 Stat. 588][/us/stat/129/588].)
+([June 19, 1934, ch. 652][/us/act/1934-06-19/ch652], title II, § 227, as added [Pub. L. 102–243][/us/pl/102/243], § 3(a), Dec. 20, 1991, [105 Stat. 2395][/us/stat/105/2395]; amended [Pub. L. 102–556, title IV][/us/pl/102/556/tIV], § 402, Oct. 28, 1992, [106 Stat. 4194][/us/stat/106/4194]; [Pub. L. 103–414, title III][/us/pl/103/414/tIII], § 303(a)(11), (12), Oct. 25, 1994, [108 Stat. 4294][/us/stat/108/4294]; [Pub. L. 108–187][/us/pl/108/187], § 12, Dec. 16, 2003, [117 Stat. 2717][/us/stat/117/2717]; [Pub. L. 109–21][/us/pl/109/21], §§ 2(a)–(g), 3, July 9, 2005, [119 Stat. 359–362][/us/stat/119/359-362]; [Pub. L. 111–331][/us/pl/111/331], § 2, Dec. 22, 2010, [124 Stat. 3572][/us/stat/124/3572]; [Pub. L. 114–74, title III][/us/pl/114/74/tIII], § 301(a), Nov. 2, 2015, [129 Stat. 588][/us/stat/129/588].)
 
  __References in Text__ 
 
@@ -505,29 +505,29 @@
 
  __Amendments__ 
 
-    2015—Subsec. (b)(1)(A)(iii). [Pub. L. 114–74, § 301(a)(1)(A)][/us/pl/114/74/s301/a/1/A], inserted “, unless such call is made solely to collect a debt owed to or guaranteed by the United States” after “charged for the call”.
+    2015—Subsec. (b)(1)(A)(iii). [Pub. L. 114–74][/us/pl/114/74], § 301(a)(1)(A), inserted “, unless such call is made solely to collect a debt owed to or guaranteed by the United States” after “charged for the call”.
 
-    Subsec. (b)(1)(B). [Pub. L. 114–74, § 301(a)(1)(B)][/us/pl/114/74/s301/a/1/B], inserted “, is made solely pursuant to the collection of a debt owed to or guaranteed by the United States,” after “emergency purposes”.
+    Subsec. (b)(1)(B). [Pub. L. 114–74][/us/pl/114/74], § 301(a)(1)(B), inserted “, is made solely pursuant to the collection of a debt owed to or guaranteed by the United States,” after “emergency purposes”.
 
-    Subsec. (b)(2)(H). [Pub. L. 114–74, § 301(a)(2)][/us/pl/114/74/s301/a/2], added subpar. (H).
+    Subsec. (b)(2)(H). [Pub. L. 114–74][/us/pl/114/74], § 301(a)(2), added subpar. (H).
 
     2010—Subsecs. (e) to (h). [Pub. L. 111–331][/us/pl/111/331] added subsec. (e) and redesignated former subsecs. (e) to (g) as (f) to (h), respectively.
 
-    2005—Subsec. (a)(2) to (4). [Pub. L. 109–21, § 2(b)][/us/pl/109/21/s2/b], added par. (2) and redesignated former pars. (2) and (3) as (3) and (4), respectively. Former par. (4) redesignated (5).
+    2005—Subsec. (a)(2) to (4). [Pub. L. 109–21][/us/pl/109/21], § 2(b), added par. (2) and redesignated former pars. (2) and (3) as (3) and (4), respectively. Former par. (4) redesignated (5).
 
-    Subsec. (a)(5). [Pub. L. 109–21, § 2(b)(1)][/us/pl/109/21/s2/b/1], (g), redesignated par. (4) as (5) and inserted “, in writing or otherwise” before period at end.
+    Subsec. (a)(5). [Pub. L. 109–21][/us/pl/109/21], § 2(b)(1), (g), redesignated par. (4) as (5) and inserted “, in writing or otherwise” before period at end.
 
-    Subsec. (b)(1)(C). [Pub. L. 109–21, § 2(a)][/us/pl/109/21/s2/a], amended subpar. (C) generally. Prior to amendment, subpar. (C) read as follows: “to use any telephone facsimile machine, computer, or other device to send an unsolicited advertisement to a telephone facsimile machine; or”.
+    Subsec. (b)(1)(C). [Pub. L. 109–21][/us/pl/109/21], § 2(a), amended subpar. (C) generally. Prior to amendment, subpar. (C) read as follows: “to use any telephone facsimile machine, computer, or other device to send an unsolicited advertisement to a telephone facsimile machine; or”.
 
-    Subsec. (b)(2)(D) to (G). [Pub. L. 109–21, § 2(c)][/us/pl/109/21/s2/c]–(f), added subpars. (D) to (G).
+    Subsec. (b)(2)(D) to (G). [Pub. L. 109–21][/us/pl/109/21], § 2(c)–(f), added subpars. (D) to (G).
 
-    Subsec. (g). [Pub. L. 109–21, § 3][/us/pl/109/21/s3], added subsec. (g).
+    Subsec. (g). [Pub. L. 109–21][/us/pl/109/21], § 3, added subsec. (g).
 
     2003—Subsec. (b)(1). [Pub. L. 108–187][/us/pl/108/187] inserted “, or any person outside the United States if the recipient is within the United States” after “United States” in introductory provisions.
 
-    1994—Subsec. (b)(2)(C). [Pub. L. 103–414, § 303(a)(11)][/us/pl/103/414/s303/a/11], substituted “paragraph” for “paragraphs”.
+    1994—Subsec. (b)(2)(C). [Pub. L. 103–414][/us/pl/103/414], § 303(a)(11), substituted “paragraph” for “paragraphs”.
 
-    Subsec. (e)(2). [Pub. L. 103–414, § 303(a)(12)][/us/pl/103/414/s303/a/12], substituted “national database” for “national datebase” after “such single”.
+    Subsec. (e)(2). [Pub. L. 103–414][/us/pl/103/414], § 303(a)(12), substituted “national database” for “national datebase” after “such single”.
 
     1992—Subsec. (b)(2)(C). [Pub. L. 102–556][/us/pl/102/556] added subpar. (C).
 
@@ -537,7 +537,7 @@
 
  __Effective Date; Deadline for Regulations__ 
 
-[Pub. L. 102–243, § 3(c)][/us/pl/102/243/s3/c], Dec. 20, 1991, [105 Stat. 2402][/us/stat/105/2402], as amended by [Pub. L. 102–556, title I, § 102][/us/pl/102/556/s102], Oct. 28, 1992, [106 Stat. 4186][/us/stat/106/4186], provided that:
+[Pub. L. 102–243][/us/pl/102/243], § 3(c), Dec. 20, 1991, [105 Stat. 2402][/us/stat/105/2402], as amended by [Pub. L. 102–556, title I][/us/pl/102/556/tI], § 102, Oct. 28, 1992, [106 Stat. 4186][/us/stat/106/4186], provided that:
 
 >     “(1)  __Regulations__  __.—__ 
 
@@ -549,17 +549,17 @@
 
  __Regulations__ 
 
-[Pub. L. 114–74, title III, § 301(b)][/us/pl/114/74/s301/b], Nov. 2, 2015, [129 Stat. 588][/us/stat/129/588], provided that: 
+[Pub. L. 114–74, title III][/us/pl/114/74/tIII], § 301(b), Nov. 2, 2015, [129 Stat. 588][/us/stat/129/588], provided that: 
 
 > “Not later than 9 months after the date of enactment of this Act \[Nov. 2, 2015\], the Federal Communications Commission, in consultation with the Department of the Treasury, shall prescribe regulations to implement the amendments made by this section \[amending this secton\].”
 
-[Pub. L. 109–21, § 2(h)][/us/pl/109/21/s2/h], July 9, 2005, [119 Stat. 362][/us/stat/119/362], provided that: 
+[Pub. L. 109–21][/us/pl/109/21], § 2(h), July 9, 2005, [119 Stat. 362][/us/stat/119/362], provided that: 
 
 > “Except as provided in section 227(b)(2)(G)(ii) of the Communications Act of 1934 \[[47 U.S.C. 227(b)(2)(G)(ii)][/us/usc/t47/s227/b/2/G/ii]\] (as added by subsection (f)), not later than 270 days after the date of enactment of this Act \[July 9, 2005\], the Federal Communications Commission shall issue regulations to implement the amendments made by this section.”
 
  __Congressional Statement of Findings__ 
 
-[Pub. L. 102–243, § 2][/us/pl/102/243/s2], Dec. 20, 1991, [105 Stat. 2394][/us/stat/105/2394], provided that: 
+[Pub. L. 102–243][/us/pl/102/243], § 2, Dec. 20, 1991, [105 Stat. 2394][/us/stat/105/2394], provided that: 
 
 > “The Congress finds that:
 
@@ -611,50 +611,50 @@
 [/us/usc/t47/s503]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs503
 [/us/usc/t47/s503]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs503
 [/us/act/1934-06-19/ch652]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-19%2Fch652
-[/us/pl/102/243/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F243%2Fs3%2Fa
+[/us/pl/102/243]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F243
 [/us/stat/105/2395]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F2395
-[/us/pl/102/556/s402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F556%2Fs402
+[/us/pl/102/556/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F556%2FtIV
 [/us/stat/106/4194]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4194
-[/us/pl/103/414/s303/a/11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F414%2Fs303%2Fa%2F11
+[/us/pl/103/414/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F414%2FtIII
 [/us/stat/108/4294]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4294
-[/us/pl/108/187/s12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F187%2Fs12
+[/us/pl/108/187]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F187
 [/us/stat/117/2717]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2717
 [/us/pl/109/21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F21
 [/us/stat/119/359-362]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F359-362
-[/us/pl/111/331/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F331%2Fs2
+[/us/pl/111/331]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F331
 [/us/stat/124/3572]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3572
-[/us/pl/114/74/s301/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F74%2Fs301%2Fa
+[/us/pl/114/74/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F74%2FtIII
 [/us/stat/129/588]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F588
 [/us/act/1934-06-19/ch652]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-19%2Fch652
 [/us/stat/48/1064]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F1064
 [/us/usc/t47/s609]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs609
-[/us/pl/114/74/s301/a/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F74%2Fs301%2Fa%2F1%2FA
-[/us/pl/114/74/s301/a/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F74%2Fs301%2Fa%2F1%2FB
-[/us/pl/114/74/s301/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F74%2Fs301%2Fa%2F2
+[/us/pl/114/74]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F74
+[/us/pl/114/74]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F74
+[/us/pl/114/74]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F74
 [/us/pl/111/331]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F331
-[/us/pl/109/21/s2/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F21%2Fs2%2Fb
-[/us/pl/109/21/s2/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F21%2Fs2%2Fb%2F1
-[/us/pl/109/21/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F21%2Fs2%2Fa
-[/us/pl/109/21/s2/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F21%2Fs2%2Fc
-[/us/pl/109/21/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F21%2Fs3
+[/us/pl/109/21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F21
+[/us/pl/109/21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F21
+[/us/pl/109/21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F21
+[/us/pl/109/21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F21
+[/us/pl/109/21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F21
 [/us/pl/108/187]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F187
-[/us/pl/103/414/s303/a/11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F414%2Fs303%2Fa%2F11
-[/us/pl/103/414/s303/a/12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F414%2Fs303%2Fa%2F12
+[/us/pl/103/414]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F414
+[/us/pl/103/414]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F414
 [/us/pl/102/556]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F556
 [/us/pl/108/187]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F187
 [/us/pl/108/187/s16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F187%2Fs16
 [/us/usc/t15/s7701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs7701
-[/us/pl/102/243/s3/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F243%2Fs3%2Fc
+[/us/pl/102/243]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F243
 [/us/stat/105/2402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F2402
-[/us/pl/102/556/s102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F556%2Fs102
+[/us/pl/102/556/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F556%2FtI
 [/us/stat/106/4186]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4186
 [/us/usc/t47/s152]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs152
-[/us/pl/114/74/s301/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F74%2Fs301%2Fb
+[/us/pl/114/74/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F74%2FtIII
 [/us/stat/129/588]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F588
-[/us/pl/109/21/s2/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F21%2Fs2%2Fh
+[/us/pl/109/21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F21
 [/us/stat/119/362]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F362
 [/us/usc/t47/s227/b/2/G/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs227%2Fb%2F2%2FG%2Fii
-[/us/pl/102/243/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F243%2Fs2
+[/us/pl/102/243]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F243
 [/us/stat/105/2394]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F2394
 
 

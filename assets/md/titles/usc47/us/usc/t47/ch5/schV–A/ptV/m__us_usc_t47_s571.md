@@ -45,7 +45,7 @@
 
         A common carrier shall not be required to obtain a certificate under [section 214 of this title][/us/usc/t47/s214] with respect to the establishment or operation of a system for the delivery of video programming.
 
-([June 19, 1934, ch. 652][/us/act/1934-06-19/ch652], title VI, § 651, as added [Pub. L. 104–104, title III, § 302(a)][/us/pl/104/104/s302/a], Feb. 8, 1996, [110 Stat. 118][/us/stat/110/118].)
+([June 19, 1934, ch. 652][/us/act/1934-06-19/ch652], title VI, § 651, as added [Pub. L. 104–104, title III][/us/pl/104/104/tIII], § 302(a), Feb. 8, 1996, [110 Stat. 118][/us/stat/110/118].)
 
 ----------
 
@@ -63,7 +63,7 @@
 [/us/usc/t47/s573]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs573
 [/us/usc/t47/s214]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs214
 [/us/act/1934-06-19/ch652]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-19%2Fch652
-[/us/pl/104/104/s302/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F104%2Fs302%2Fa
+[/us/pl/104/104/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F104%2FtIII
 [/us/stat/110/118]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F118
 
 

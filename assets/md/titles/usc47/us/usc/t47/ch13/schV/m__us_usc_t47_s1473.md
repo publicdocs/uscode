@@ -43,7 +43,7 @@
 
         (3) provide for the imposition of fines under paragraphs (1) or (2) that vary depending upon whether the conduct leading to the violation was negligent, grossly negligent, reckless, or willful, and depending on whether the violation was a first or subsequent offence.
 
-([Pub. L. 112–96, title VI, § 6507][/us/pl/112/96/s6507], Feb. 22, 2012, [126 Stat. 243][/us/stat/126/243].)
+([Pub. L. 112–96, title VI][/us/pl/112/96/tVI], § 6507, Feb. 22, 2012, [126 Stat. 243][/us/stat/126/243].)
 
 ----------
 
@@ -52,7 +52,7 @@
 ----------
 ----------
 
-[/us/pl/112/96/s6507]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F96%2Fs6507
+[/us/pl/112/96/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F96%2FtVI
 [/us/stat/126/243]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F243
 
 

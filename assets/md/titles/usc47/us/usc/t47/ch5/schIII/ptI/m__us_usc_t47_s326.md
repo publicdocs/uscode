@@ -17,7 +17,7 @@
 
     Nothing in this chapter shall be understood or construed to give the Commission the power of censorship over the radio communications or signals transmitted by any radio station, and no regulation or condition shall be promulgated or fixed by the Commission which shall interfere with the right of free speech by means of radio communication.
 
-([June 19, 1934, ch. 652][/us/act/1934-06-19/ch652], title III, § 326, [48 Stat. 1091][/us/stat/48/1091]; [June 25, 1948, ch. 645, § 21][/us/act/1948-06-25/ch645/s21], [62 Stat. 862][/us/stat/62/862].)
+([June 19, 1934, ch. 652][/us/act/1934-06-19/ch652], title III, § 326, [48 Stat. 1091][/us/stat/48/1091]; [June 25, 1948, ch. 645][/us/act/1948-06-25/ch645], § 21, [62 Stat. 862][/us/stat/62/862].)
 
  __References in Text__ 
 
@@ -40,7 +40,7 @@
 
 [/us/act/1934-06-19/ch652]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-19%2Fch652
 [/us/stat/48/1091]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F1091
-[/us/act/1948-06-25/ch645/s21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch645%2Fs21
+[/us/act/1948-06-25/ch645]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch645
 [/us/stat/62/862]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F862
 [/us/act/1934-06-19/ch652]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-19%2Fch652
 [/us/stat/48/1064]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F1064

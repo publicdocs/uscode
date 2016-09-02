@@ -33,7 +33,7 @@
 
             (B) research on understanding and improving public response to warnings.
 
-([Pub. L. 109–347, title VI, § 604][/us/pl/109/347/s604], Oct. 13, 2006, [120 Stat. 1940][/us/stat/120/1940].)
+([Pub. L. 109–347, title VI][/us/pl/109/347/tVI], § 604, Oct. 13, 2006, [120 Stat. 1940][/us/stat/120/1940].)
 
 ----------
 
@@ -43,7 +43,7 @@
 ----------
 
 [/us/usc/t47/s1202/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs1202%2Fa
-[/us/pl/109/347/s604]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F347%2Fs604
+[/us/pl/109/347/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F347%2FtVI
 [/us/stat/120/1940]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1940
 
 

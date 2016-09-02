@@ -151,7 +151,7 @@
 
             (B) whose Grade B service contour, as defined in section 73.683(a) of such title (as in effect on March 29, 1990), or any successor regulations thereto, encompasses the principal headend of the cable system.
 
-([June 19, 1934, ch. 652][/us/act/1934-06-19/ch652], title VI, § 615, as added [Pub. L. 102–385, § 5][/us/pl/102/385/s5], Oct. 5, 1992, [106 Stat. 1477][/us/stat/106/1477].)
+([June 19, 1934, ch. 652][/us/act/1934-06-19/ch652], title VI, § 615, as added [Pub. L. 102–385][/us/pl/102/385], § 5, Oct. 5, 1992, [106 Stat. 1477][/us/stat/106/1477].)
 
  __Effective Date__ 
 
@@ -168,7 +168,7 @@
 [/us/usc/t47/s531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs531
 [/us/usc/t47/s396/k/6/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs396%2Fk%2F6%2FB
 [/us/act/1934-06-19/ch652]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-19%2Fch652
-[/us/pl/102/385/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F385%2Fs5
+[/us/pl/102/385]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F385
 [/us/stat/106/1477]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F1477
 [/us/pl/102/385/s28]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F385%2Fs28
 [/us/usc/t47/s325]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs325

@@ -31,13 +31,13 @@
 
     (b) Notwithstanding the provisions of subsection (a) of this section, the Commission may allow part of a charge, classification, regulation, or practice to go into effect, based upon a written showing by the carrier or carriers affected, and an opportunity for written comment thereon by affected persons, that such partial authorization is just, fair, and reasonable. Additionally, or in combination with a partial authorization, the Commission, upon a similar showing, may allow all or part of a charge, classification, regulation, or practice to go into effect on a temporary basis pending further order of the Commission. Authorizations of temporary new or increased charges may include an accounting order of the type provided for in subsection (a) of this section.
 
-([June 19, 1934, ch. 652][/us/act/1934-06-19/ch652], title II, § 204, [48 Stat. 1071][/us/stat/48/1071]; [Pub. L. 94–376, § 2][/us/pl/94/376/s2], Aug. 4, 1976, [90 Stat. 1080][/us/stat/90/1080]; [Pub. L. 100–594, § 8(b)][/us/pl/100/594/s8/b], Nov. 3, 1988, [102 Stat. 3023][/us/stat/102/3023]; [Pub. L. 102–538, title II, § 203][/us/pl/102/538/s203], Oct. 27, 1992, [106 Stat. 3542][/us/stat/106/3542]; [Pub. L. 104–104, title IV, § 402(b)(1)(A)][/us/pl/104/104/s402/b/1/A], Feb. 8, 1996, [110 Stat. 129][/us/stat/110/129].)
+([June 19, 1934, ch. 652][/us/act/1934-06-19/ch652], title II, § 204, [48 Stat. 1071][/us/stat/48/1071]; [Pub. L. 94–376][/us/pl/94/376], § 2, Aug. 4, 1976, [90 Stat. 1080][/us/stat/90/1080]; [Pub. L. 100–594][/us/pl/100/594], § 8(b), Nov. 3, 1988, [102 Stat. 3023][/us/stat/102/3023]; [Pub. L. 102–538, title II][/us/pl/102/538/tII], § 203, Oct. 27, 1992, [106 Stat. 3542][/us/stat/106/3542]; [Pub. L. 104–104, title IV][/us/pl/104/104/tIV], § 402(b)(1)(A), Feb. 8, 1996, [110 Stat. 129][/us/stat/110/129].)
 
  __Amendments__ 
 
-    1996—Subsec. (a)(2)(A). [Pub. L. 104–104, § 402(b)(1)(A)(i)][/us/pl/104/104/s402/b/1/A/i], (ii), substituted “such hearing within 5 months” for “such hearing within 12 months” and struck out before period at end “, or within 15 months after such date if the hearing raises questions of fact of such extraordinary complexity that the questions cannot be resolved within 12 months”.
+    1996—Subsec. (a)(2)(A). [Pub. L. 104–104][/us/pl/104/104], § 402(b)(1)(A)(i), (ii), substituted “such hearing within 5 months” for “such hearing within 12 months” and struck out before period at end “, or within 15 months after such date if the hearing raises questions of fact of such extraordinary complexity that the questions cannot be resolved within 12 months”.
 
-    Subsec. (a)(3). [Pub. L. 104–104, § 402(b)(1)(A)(iii)][/us/pl/104/104/s402/b/1/A/iii], added par. (3).
+    Subsec. (a)(3). [Pub. L. 104–104][/us/pl/104/104], § 402(b)(1)(A)(iii), added par. (3).
 
     1992—Subsec. (a)(1). [Pub. L. 102–538][/us/pl/102/538] substituted “a revised charge” for “an increased charge” after “a proposed charge for a new service or”, “or revised” for “or increased” before “charge, specifying by whom and in whose behalf”, “revised charges” for “increased charges” before “as by its decision shall be found not justified”, “new or revised charge, or a proposed new or revised charge” for “charge increased, or sought to be increased” before “, burden of proof to show”, and “new or revised charge” for “increased charge” before “, or proposed charge, is just and reasonable”.
 
@@ -49,13 +49,13 @@
 
  __Effective Date of 1996 Amendment__ 
 
-[Pub. L. 104–104, title IV, § 402(b)(4)][/us/pl/104/104/s402/b/4], Feb. 8, 1996, [110 Stat. 129][/us/stat/110/129], provided that: 
+[Pub. L. 104–104, title IV][/us/pl/104/104/tIV], § 402(b)(4), Feb. 8, 1996, [110 Stat. 129][/us/stat/110/129], provided that: 
 
 > “The amendments made by paragraph (1) of this subsection \[amending this section and [section 208 of this title][/us/usc/t47/s208]\] shall apply with respect to any charge, classification, regulation, or practice filed on or after one year after the date of enactment of this Act \[Feb. 8, 1996\].”
 
  __Forbearance Authority Not Limited__ 
 
-[Pub. L. 104–104, title IV, § 402(b)(3)][/us/pl/104/104/s402/b/3], Feb. 8, 1996, [110 Stat. 129][/us/stat/110/129], provided that: 
+[Pub. L. 104–104, title IV][/us/pl/104/104/tIV], § 402(b)(3), Feb. 8, 1996, [110 Stat. 129][/us/stat/110/129], provided that: 
 
 > “Nothing in this subsection \[amending this section and [section 208 of this title][/us/usc/t47/s208] and enacting provisions set out as notes under this section and [section 214 of this title][/us/usc/t47/s214]\] shall be construed to limit the authority of the Commission to waive, modify, or forbear from applying any of the requirements to which reference is made in paragraph (1) \[amending this section and [section 208 of this title][/us/usc/t47/s208]\] under any other provision of this Act \[see Short Title of 1996 Amendment note set out under [section 609 of this title][/us/usc/t47/s609]\] or other law.”
 
@@ -69,24 +69,24 @@
 [/us/usc/t47/s402/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs402%2Fa
 [/us/act/1934-06-19/ch652]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-19%2Fch652
 [/us/stat/48/1071]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F1071
-[/us/pl/94/376/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F376%2Fs2
+[/us/pl/94/376]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F376
 [/us/stat/90/1080]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1080
-[/us/pl/100/594/s8/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F594%2Fs8%2Fb
+[/us/pl/100/594]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F594
 [/us/stat/102/3023]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3023
-[/us/pl/102/538/s203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F538%2Fs203
+[/us/pl/102/538/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F538%2FtII
 [/us/stat/106/3542]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3542
-[/us/pl/104/104/s402/b/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F104%2Fs402%2Fb%2F1%2FA
+[/us/pl/104/104/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F104%2FtIV
 [/us/stat/110/129]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F129
-[/us/pl/104/104/s402/b/1/A/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F104%2Fs402%2Fb%2F1%2FA%2Fi
-[/us/pl/104/104/s402/b/1/A/iii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F104%2Fs402%2Fb%2F1%2FA%2Fiii
+[/us/pl/104/104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F104
+[/us/pl/104/104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F104
 [/us/pl/102/538]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F538
 [/us/pl/100/594]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F594
 [/us/pl/94/376]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F376
 [/us/pl/94/376]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F376
-[/us/pl/104/104/s402/b/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F104%2Fs402%2Fb%2F4
+[/us/pl/104/104/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F104%2FtIV
 [/us/stat/110/129]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F129
 [/us/usc/t47/s208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs208
-[/us/pl/104/104/s402/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F104%2Fs402%2Fb%2F3
+[/us/pl/104/104/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F104%2FtIV
 [/us/stat/110/129]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F129
 [/us/usc/t47/s208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs208
 [/us/usc/t47/s214]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs214

@@ -17,7 +17,7 @@
 
     Whoever knowingly commits, instigates, or assists in any act forbidden by [section 34 of this title][/us/usc/t47/s34] shall be guilty of a misdemeanor and shall be fined not more than $5,000, or imprisoned for not more than one year, or both.
 
-([May 27, 1921, ch. 12, § 4][/us/act/1921-05-27/ch12/s4], [42 Stat. 8][/us/stat/42/8].)
+([May 27, 1921, ch. 12][/us/act/1921-05-27/ch12], § 4, [42 Stat. 8][/us/stat/42/8].)
 
  __Codification__ 
 
@@ -31,7 +31,7 @@
 ----------
 
 [/us/usc/t47/s34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs34
-[/us/act/1921-05-27/ch12/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1921-05-27%2Fch12%2Fs4
+[/us/act/1921-05-27/ch12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1921-05-27%2Fch12
 [/us/stat/42/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F42%2F8
 
 

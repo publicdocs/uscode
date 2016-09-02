@@ -17,7 +17,7 @@
 
     The provisions of sections 21 and 22 of this title shall not apply to a person who breaks or injures a cable in an effort to save the life or limb of himself or of any other person, or to save his own or any other vessel: Provided, That he takes reasonable precautions to avoid such breaking or injury.
 
-([Feb. 29, 1888, ch. 17, § 3][/us/act/1888-02-29/ch17/s3], [25 Stat. 41][/us/stat/25/41].)
+([Feb. 29, 1888, ch. 17][/us/act/1888-02-29/ch17], § 3, [25 Stat. 41][/us/stat/25/41].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/act/1888-02-29/ch17/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1888-02-29%2Fch17%2Fs3
+[/us/act/1888-02-29/ch17]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1888-02-29%2Fch17
 [/us/stat/25/41]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F25%2F41
 
 

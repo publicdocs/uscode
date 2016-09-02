@@ -19,7 +19,7 @@
 
     (b) Each cargo ship of the United States which in accordance with this part is equipped with a radiotelephone station shall, while being navigated in the open sea outside of a harbor or port, maintain continuous watch whenever the station is not being used for authorized traffic.
 
-([June 19, 1934, ch. 652][/us/act/1934-06-19/ch652], title III, § 354, as added [Aug. 13, 1954, ch. 729, § 2(b)][/us/act/1954-08-13/ch729/s2/b], [68 Stat. 706][/us/stat/68/706]; amended [Pub. L. 89–121, § 5][/us/pl/89/121/s5], Aug. 13, 1965, [79 Stat. 514][/us/stat/79/514].)
+([June 19, 1934, ch. 652][/us/act/1934-06-19/ch652], title III, § 354, as added [Aug. 13, 1954, ch. 729][/us/act/1954-08-13/ch729], § 2(b), [68 Stat. 706][/us/stat/68/706]; amended [Pub. L. 89–121][/us/pl/89/121], § 5, Aug. 13, 1965, [79 Stat. 514][/us/stat/79/514].)
 
  __Amendments__ 
 
@@ -33,9 +33,9 @@
 ----------
 
 [/us/act/1934-06-19/ch652]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-19%2Fch652
-[/us/act/1954-08-13/ch729/s2/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-13%2Fch729%2Fs2%2Fb
+[/us/act/1954-08-13/ch729]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-13%2Fch729
 [/us/stat/68/706]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68%2F706
-[/us/pl/89/121/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F121%2Fs5
+[/us/pl/89/121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F121
 [/us/stat/79/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F514
 [/us/pl/89/121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F121
 

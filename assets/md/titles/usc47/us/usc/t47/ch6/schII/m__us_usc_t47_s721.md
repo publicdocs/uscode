@@ -33,7 +33,7 @@
 
         (11) make rules and regulations to carry out the provisions of this chapter.
 
-([Pub. L. 87–624, title II, § 201][/us/pl/87/624/s201], Aug. 31, 1962, [76 Stat. 421][/us/stat/76/421]; [Pub. L. 103–414, title III, § 304(b)(1)][/us/pl/103/414/s304/b/1], Oct. 25, 1994, [108 Stat. 4297][/us/stat/108/4297].)
+([Pub. L. 87–624, title II][/us/pl/87/624/tII], § 201, Aug. 31, 1962, [76 Stat. 421][/us/stat/76/421]; [Pub. L. 103–414, title III][/us/pl/103/414/tIII], § 304(b)(1), Oct. 25, 1994, [108 Stat. 4297][/us/stat/108/4297].)
 
  __References in Text__ 
 
@@ -61,9 +61,9 @@
 ----------
 
 [/us/usc/t47/s151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs151
-[/us/pl/87/624/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F624%2Fs201
+[/us/pl/87/624/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F624%2FtII
 [/us/stat/76/421]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F421
-[/us/pl/103/414/s304/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F414%2Fs304%2Fb%2F1
+[/us/pl/103/414/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F414%2FtIII
 [/us/stat/108/4297]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4297
 [/us/act/1934-06-19/ch652]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-19%2Fch652
 [/us/stat/48/1064]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F1064

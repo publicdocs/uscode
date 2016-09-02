@@ -31,7 +31,7 @@
 
         (4) Impact privatization has had on United States industry, United States jobs, and United States industry’s access to the global marketplace.
 
-([Pub. L. 87–624, title VI, § 646][/us/pl/87/624/s646], as added [Pub. L. 106–180, § 3][/us/pl/106/180/s3], Mar. 17, 2000, [114 Stat. 57][/us/stat/114/57].)
+([Pub. L. 87–624, title VI][/us/pl/87/624/tVI], § 646, as added [Pub. L. 106–180][/us/pl/106/180], § 3, Mar. 17, 2000, [114 Stat. 57][/us/stat/114/57].)
 
  __Change of Name__ 
 
@@ -58,8 +58,8 @@
 ----------
 ----------
 
-[/us/pl/87/624/s646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F624%2Fs646
-[/us/pl/106/180/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F180%2Fs3
+[/us/pl/87/624/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F624%2FtVI
+[/us/pl/106/180]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F180
 [/us/stat/114/57]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F57
 [/us/usc/t3/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft3%2Fs301
 [/us/pl/106/180]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F180

@@ -139,7 +139,7 @@
 
                 (ii) the social, emotional, or entertainment needs of minors.
 
-([Pub. L. 102–538, title I, § 157][/us/pl/102/538/s157], as added [Pub. L. 107–317, § 4][/us/pl/107/317/s4], Dec. 4, 2002, [116 Stat. 2767][/us/stat/116/2767].)
+([Pub. L. 102–538, title I][/us/pl/102/538/tI], § 157, as added [Pub. L. 107–317][/us/pl/107/317], § 4, Dec. 4, 2002, [116 Stat. 2767][/us/stat/116/2767].)
 
  __References in Text__ 
 
@@ -149,7 +149,7 @@
 
  __Findings and Purposes__ 
 
-[Pub. L. 107–317, § 2][/us/pl/107/317/s2], Dec. 4, 2002, [116 Stat. 2766][/us/stat/116/2766], provided that:
+[Pub. L. 107–317][/us/pl/107/317], § 2, Dec. 4, 2002, [116 Stat. 2766][/us/stat/116/2766], provided that:
 
 >     “(a)  __Findings__  __.—__ 
 
@@ -194,15 +194,15 @@
 
 [/us/usc/t47/s230/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs230%2Fc
 [/us/usc/t47/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs201
-[/us/pl/102/538/s157]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F538%2Fs157
-[/us/pl/107/317/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F317%2Fs4
+[/us/pl/102/538/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F538%2FtI
+[/us/pl/107/317]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F317
 [/us/stat/116/2767]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2767
 [/us/pl/102/538]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F538
 [/us/stat/106/3533]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3533
 [/us/act/1934-06-19/ch652]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-19%2Fch652
 [/us/stat/48/1064]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F1064
 [/us/usc/t47/s609]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs609
-[/us/pl/107/317/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F317%2Fs2
+[/us/pl/107/317]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F317
 [/us/stat/116/2766]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2766
 [/us/usc/t47/s901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs901
 

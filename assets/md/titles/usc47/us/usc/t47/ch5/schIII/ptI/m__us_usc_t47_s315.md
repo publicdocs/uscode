@@ -121,7 +121,7 @@
 
             The information required under this subsection shall be placed in a political file as soon as possible and shall be retained by the licensee for a period of not less than 2 years.
 
-([June 19, 1934, ch. 652][/us/act/1934-06-19/ch652], title III, § 315, [48 Stat. 1088][/us/stat/48/1088]; [July 16, 1952, ch. 879, § 11][/us/act/1952-07-16/ch879/s11], [66 Stat. 717][/us/stat/66/717]; [Pub. L. 86–274, § 1][/us/pl/86/274/s1], Sept. 14, 1959, [73 Stat. 557][/us/stat/73/557]; [Pub. L. 92–225, title I][/us/pl/92/225], §§ 103(a)(1), (2)(B), 104(c), Feb. 7, 1972, [86 Stat. 4][/us/stat/86/4], 7; [Pub. L. 93–443, title IV, § 402][/us/pl/93/443/s402], Oct. 15, 1974, [88 Stat. 1291][/us/stat/88/1291]; [Pub. L. 107–155, title III, § 305(a)][/us/pl/107/155/s305/a], (b), title V, § 504, Mar. 27, 2002, [116 Stat. 100][/us/stat/116/100], 101, 115.)
+([June 19, 1934, ch. 652][/us/act/1934-06-19/ch652], title III, § 315, [48 Stat. 1088][/us/stat/48/1088]; [July 16, 1952, ch. 879][/us/act/1952-07-16/ch879], § 11, [66 Stat. 717][/us/stat/66/717]; [Pub. L. 86–274][/us/pl/86/274], § 1, Sept. 14, 1959, [73 Stat. 557][/us/stat/73/557]; [Pub. L. 92–225, title I][/us/pl/92/225/tI], §§ 103(a)(1), (2)(B), 104(c), Feb. 7, 1972, [86 Stat. 4][/us/stat/86/4], 7; [Pub. L. 93–443, title IV][/us/pl/93/443/tIV], § 402, Oct. 15, 1974, [88 Stat. 1291][/us/stat/88/1291]; [Pub. L. 107–155, title III][/us/pl/107/155/tIII], § 305(a), (b), title V, § 504, Mar. 27, 2002, [116 Stat. 100][/us/stat/116/100], 101, 115.)
 
  __References in Text__ 
 
@@ -129,21 +129,21 @@
 
  __Amendments__ 
 
-    2002—Subsec. (b). [Pub. L. 107–155, § 305(a)][/us/pl/107/155/s305/a], (b), inserted subsec. heading, designated existing provisions as par. (1), inserted par. heading, redesignated former pars. (1) and (2) as subpars. (A) and (B), respectively, of par. (1), inserted “subject to paragraph (2),” before “during the forty-five days” in par. (1)(A), and added par. (2).
+    2002—Subsec. (b). [Pub. L. 107–155][/us/pl/107/155], § 305(a), (b), inserted subsec. heading, designated existing provisions as par. (1), inserted par. heading, redesignated former pars. (1) and (2) as subpars. (A) and (B), respectively, of par. (1), inserted “subject to paragraph (2),” before “during the forty-five days” in par. (1)(A), and added par. (2).
 
-    Subsec. (e). [Pub. L. 107–155, § 504][/us/pl/107/155/s504], which directed addition of subsec. (e) and redesignation of former subsecs. (e) and (f) as (f) and (g), respectively, was executed by adding subsec. (e) to reflect the probable intent of Congress. Section did not contain subsecs. (e) and (f).
+    Subsec. (e). [Pub. L. 107–155][/us/pl/107/155], § 504, which directed addition of subsec. (e) and redesignation of former subsecs. (e) and (f) as (f) and (g), respectively, was executed by adding subsec. (e) to reflect the probable intent of Congress. Section did not contain subsecs. (e) and (f).
 
-    1974—Subsec. (c). [Pub. L. 93–443, § 402][/us/pl/93/443/s402], struck out provisions respecting station use charges upon certification of nonviolation of Federal limitations of expenditures for use of communications media; redesignated former subsec. (f) as (c); incorporated former par. (1)(A) and (B) provisions in clauses designated (1) and (2) and struck out subpar. (C) definition of “Federal elective office” and par. (2) definition of “legally qualified candidate”.
+    1974—Subsec. (c). [Pub. L. 93–443][/us/pl/93/443], § 402, struck out provisions respecting station use charges upon certification of nonviolation of Federal limitations of expenditures for use of communications media; redesignated former subsec. (f) as (c); incorporated former par. (1)(A) and (B) provisions in clauses designated (1) and (2) and struck out subpar. (C) definition of “Federal elective office” and par. (2) definition of “legally qualified candidate”.
 
-    Subsec. (d). [Pub. L. 93–443, § 402(a)][/us/pl/93/443/s402/a], struck out provisions respecting station use charges upon certification of nonviolation of State limitations of expenditures for use of communications media and conditions for application of State limitations and redesignated former subsec. (g) as (d).
+    Subsec. (d). [Pub. L. 93–443][/us/pl/93/443], § 402(a), struck out provisions respecting station use charges upon certification of nonviolation of State limitations of expenditures for use of communications media and conditions for application of State limitations and redesignated former subsec. (g) as (d).
 
-    Subsecs. (e) to (g). [Pub. L. 93–443, § 402(a)][/us/pl/93/443/s402/a], struck out subsec. (e) provisions respecting penalties for violations and inapplicability of sections 501 through 503 of this title and redesignated former subsecs. (f) and (g) as (c) and (d).
+    Subsecs. (e) to (g). [Pub. L. 93–443][/us/pl/93/443], § 402(a), struck out subsec. (e) provisions respecting penalties for violations and inapplicability of sections 501 through 503 of this title and redesignated former subsecs. (f) and (g) as (c) and (d).
 
-    1972—Subsec. (a). [Pub. L. 92–225, § 103(a)(2)(B)][/us/pl/92/225/s103/a/2/B], inserted “under this subsection” after “No obligation is imposed”.
+    1972—Subsec. (a). [Pub. L. 92–225][/us/pl/92/225], § 103(a)(2)(B), inserted “under this subsection” after “No obligation is imposed”.
 
-    Subsec. (b). [Pub. L. 92–225, § 103(a)(1)][/us/pl/92/225/s103/a/1], substituted in introductory text “by any person who is a legally qualified candidate for any public office in connection with his campaign for nomination for election, or election, to such office”, for “for any of the purposes set forth in this section”, added par. (1), designated existing provisions as par. (2), inserted therein the opening words “at any other time,” and substituted “by other users thereof” for “for other purposes”.
+    Subsec. (b). [Pub. L. 92–225][/us/pl/92/225], § 103(a)(1), substituted in introductory text “by any person who is a legally qualified candidate for any public office in connection with his campaign for nomination for election, or election, to such office”, for “for any of the purposes set forth in this section”, added par. (1), designated existing provisions as par. (2), inserted therein the opening words “at any other time,” and substituted “by other users thereof” for “for other purposes”.
 
-    Subsecs. (c) to (g). [Pub. L. 92–225, § 104(c)][/us/pl/92/225/s104/c], added subsecs. (c) to (f) and redesignated former subsec. (c) as (g).
+    Subsecs. (c) to (g). [Pub. L. 92–225][/us/pl/92/225], § 104(c), added subsecs. (c) to (f) and redesignated former subsec. (c) as (g).
 
     1959—Subsec. (a). [Pub. L. 86–274][/us/pl/86/274] provided that appearances by legally qualified candidates on bona fide newscasts, interviews and documentaries and on on-the-spot coverage of bona fide news events shall not be deemed to be use of a broadcasting station within the meaning of this subsection.
 
@@ -151,7 +151,7 @@
 
  __Effective Date of 2002 Amendment__ 
 
-[Pub. L. 107–155, title III, § 305(c)][/us/pl/107/155/s305/c], Mar. 27, 2002, [116 Stat. 102][/us/stat/116/102], provided that: 
+[Pub. L. 107–155, title III][/us/pl/107/155/tIII], § 305(c), Mar. 27, 2002, [116 Stat. 102][/us/stat/116/102], provided that: 
 
 > “The amendments made by this section \[amending this section\] shall apply to broadcasts made after the effective date of this Act \[Nov. 6, 2002\].”
 
@@ -163,11 +163,11 @@
 
  __Repeals__ 
 
-    Repeal of title I of [Pub. L. 92–225][/us/pl/92/225], cited as a credit to this section, by [Pub. L. 93–443, title II, § 205(b)][/us/pl/93/443/s205/b], Oct. 15, 1974, [88 Stat. 1278][/us/stat/88/1278], has been construed as not repealing the amendments to this section made by sections 103(a)(1), (2)(B), and 104(c) of such title I.
+    Repeal of title I of [Pub. L. 92–225][/us/pl/92/225], cited as a credit to this section, by [Pub. L. 93–443, title II][/us/pl/93/443/tII], § 205(b), Oct. 15, 1974, [88 Stat. 1278][/us/stat/88/1278], has been construed as not repealing the amendments to this section made by sections 103(a)(1), (2)(B), and 104(c) of such title I.
 
  __Reexamination of 1959 Amendment; Declaration of Congressional Intent__ 
 
-[Pub. L. 86–274, § 2][/us/pl/86/274/s2], Sept. 14, 1959, [73 Stat. 557][/us/stat/73/557], provided that:
+[Pub. L. 86–274][/us/pl/86/274], § 2, Sept. 14, 1959, [73 Stat. 557][/us/stat/73/557], provided that:
 
 >     “(a) The Congress declares its intention to reexamine from time to time the amendment to section 315(a) of the Communications Act of 1934 \[subsec. (a) of this section\] made by the first section of this Act, to ascertain whether such amendment has proved to be effective and practicable.
 
@@ -187,29 +187,29 @@
 [/us/usc/t52/s30101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft52%2Fs30101
 [/us/act/1934-06-19/ch652]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-19%2Fch652
 [/us/stat/48/1088]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F1088
-[/us/act/1952-07-16/ch879/s11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1952-07-16%2Fch879%2Fs11
+[/us/act/1952-07-16/ch879]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1952-07-16%2Fch879
 [/us/stat/66/717]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F66%2F717
-[/us/pl/86/274/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F274%2Fs1
+[/us/pl/86/274]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F274
 [/us/stat/73/557]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F73%2F557
-[/us/pl/92/225]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F225
+[/us/pl/92/225/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F225%2FtI
 [/us/stat/86/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F4
-[/us/pl/93/443/s402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F443%2Fs402
+[/us/pl/93/443/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F443%2FtIV
 [/us/stat/88/1291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1291
-[/us/pl/107/155/s305/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F155%2Fs305%2Fa
+[/us/pl/107/155/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F155%2FtIII
 [/us/stat/116/100]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F100
 [/us/act/1934-06-19/ch652]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-19%2Fch652
 [/us/stat/48/1064]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F1064
 [/us/usc/t47/s609]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs609
-[/us/pl/107/155/s305/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F155%2Fs305%2Fa
-[/us/pl/107/155/s504]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F155%2Fs504
-[/us/pl/93/443/s402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F443%2Fs402
-[/us/pl/93/443/s402/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F443%2Fs402%2Fa
-[/us/pl/93/443/s402/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F443%2Fs402%2Fa
-[/us/pl/92/225/s103/a/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F225%2Fs103%2Fa%2F2%2FB
-[/us/pl/92/225/s103/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F225%2Fs103%2Fa%2F1
-[/us/pl/92/225/s104/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F225%2Fs104%2Fc
+[/us/pl/107/155]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F155
+[/us/pl/107/155]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F155
+[/us/pl/93/443]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F443
+[/us/pl/93/443]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F443
+[/us/pl/93/443]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F443
+[/us/pl/92/225]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F225
+[/us/pl/92/225]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F225
+[/us/pl/92/225]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F225
 [/us/pl/86/274]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F274
-[/us/pl/107/155/s305/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F155%2Fs305%2Fc
+[/us/pl/107/155/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F155%2FtIII
 [/us/stat/116/102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F102
 [/us/pl/107/155]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F155
 [/us/pl/107/155/s305/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F155%2Fs305%2Fc
@@ -219,9 +219,9 @@
 [/us/pl/93/443/s410/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F443%2Fs410%2Fa
 [/us/usc/t52/s30101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft52%2Fs30101
 [/us/pl/92/225]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F225
-[/us/pl/93/443/s205/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F443%2Fs205%2Fb
+[/us/pl/93/443/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F443%2FtII
 [/us/stat/88/1278]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1278
-[/us/pl/86/274/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F274%2Fs2
+[/us/pl/86/274]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F274
 [/us/stat/73/557]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F73%2F557
 [/us/pl/86/677]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F677
 [/us/stat/74/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F74%2F554

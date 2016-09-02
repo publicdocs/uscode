@@ -27,7 +27,7 @@
 
     (b) For purposes of subsection (a) of this section and other provisions of this subchapter, a franchise shall be considered in effect on the effective date of this subchapter if such franchise was granted on or before such effective date.
 
-([June 19, 1934, ch. 652][/us/act/1934-06-19/ch652], title VI, § 637, as added [Pub. L. 98–549, § 2][/us/pl/98/549/s2], Oct. 30, 1984, [98 Stat. 2800][/us/stat/98/2800]; amended [Pub. L. 104–104, § 3(d)(3)][/us/pl/104/104/s3/d/3], Feb. 8, 1996, [110 Stat. 61][/us/stat/110/61].)
+([June 19, 1934, ch. 652][/us/act/1934-06-19/ch652], title VI, § 637, as added [Pub. L. 98–549][/us/pl/98/549], § 2, Oct. 30, 1984, [98 Stat. 2800][/us/stat/98/2800]; amended [Pub. L. 104–104][/us/pl/104/104], § 3(d)(3), Feb. 8, 1996, [110 Stat. 61][/us/stat/110/61].)
 
  __References in Text__ 
 
@@ -50,9 +50,9 @@
 
 [/us/usc/t47/s153]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs153
 [/us/act/1934-06-19/ch652]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-19%2Fch652
-[/us/pl/98/549/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F549%2Fs2
+[/us/pl/98/549]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F549
 [/us/stat/98/2800]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2800
-[/us/pl/104/104/s3/d/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F104%2Fs3%2Fd%2F3
+[/us/pl/104/104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F104
 [/us/stat/110/61]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F61
 [/us/pl/98/549/s9/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F549%2Fs9%2Fa
 [/us/usc/t47/s521]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs521

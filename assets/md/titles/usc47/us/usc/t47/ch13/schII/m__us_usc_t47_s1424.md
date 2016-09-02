@@ -161,7 +161,7 @@
 
             A member of the Board appointed under subparagraphs (A) through (C) of subsection (b)(1) shall serve without additional pay, and shall not otherwise benefit, directly or indirectly, as a result of their service to the First Responder Network Authority, but shall be allowed a per diem allowance for travel expenses, at rates authorized for an employee of an agency under subchapter I of chapter 57 of title 5, while away from the home or regular place of business of the member in the performance of the duties of the First Responder Network Authority.
 
-([Pub. L. 112–96, title VI, § 6204][/us/pl/112/96/s6204], Feb. 22, 2012, [126 Stat. 208][/us/stat/126/208].)
+([Pub. L. 112–96, title VI][/us/pl/112/96/tVI], § 6204, Feb. 22, 2012, [126 Stat. 208][/us/stat/126/208].)
 
  __References in Text__ 
 
@@ -174,7 +174,7 @@
 ----------
 ----------
 
-[/us/pl/112/96/s6204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F96%2Fs6204
+[/us/pl/112/96/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F96%2FtVI
 [/us/stat/126/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F208
 [/us/usc/t5/s5315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5315
 

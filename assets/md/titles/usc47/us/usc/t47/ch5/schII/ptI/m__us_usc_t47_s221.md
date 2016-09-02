@@ -15,7 +15,7 @@
 
 ## § 221. Consolidations and mergers of telephone companies
 
-    (a) __Repealed.__  __[__  __Pub. L. 104–104, title VI, § 601(b)(2)__  __][/us/pl/104/104/s601/b/2]__  __,__  __Feb. 8, 1996__  __,__  __[__  __110 Stat. 143__  __][/us/stat/110/143]__ 
+    (a) __Repealed.__  __[__  __Pub. L. 104–104, title VI__  __][/us/pl/104/104/tVI]__  __, § 601(b)(2),__  __Feb. 8, 1996__  __,__  __[__  __110 Stat. 143__  __][/us/stat/110/143]__ 
 
     (b) __State jurisdiction over services__ 
 
@@ -29,7 +29,7 @@
 
         In making a valuation of the property of any wire telephone carrier the Commission, after making the classification authorized in this section, may in its discretion value only that part of the property of such carrier determined to be used in interstate or foreign telephone toll service.
 
-([June 19, 1934, ch. 652][/us/act/1934-06-19/ch652], title II, § 221, [48 Stat. 1080][/us/stat/48/1080]; [Apr. 27, 1954, ch. 175, § 4][/us/act/1954-04-27/ch175/s4], [68 Stat. 64][/us/stat/68/64]; [Aug. 2, 1956, ch. 874, § 3][/us/act/1956-08-02/ch874/s3], [70 Stat. 932][/us/stat/70/932]; [Pub. L. 101–336, title IV, § 401(b)(2)][/us/pl/101/336/s401/b/2], July 26, 1990, [104 Stat. 369][/us/stat/104/369]; [Pub. L. 104–104, title VI, § 601(b)(2)][/us/pl/104/104/s601/b/2], Feb. 8, 1996, [110 Stat. 143][/us/stat/110/143].)
+([June 19, 1934, ch. 652][/us/act/1934-06-19/ch652], title II, § 221, [48 Stat. 1080][/us/stat/48/1080]; [Apr. 27, 1954, ch. 175][/us/act/1954-04-27/ch175], § 4, [68 Stat. 64][/us/stat/68/64]; [Aug. 2, 1956, ch. 874][/us/act/1956-08-02/ch874], § 3, [70 Stat. 932][/us/stat/70/932]; [Pub. L. 101–336, title IV][/us/pl/101/336/tIV], § 401(b)(2), July 26, 1990, [104 Stat. 369][/us/stat/104/369]; [Pub. L. 104–104, title VI][/us/pl/104/104/tVI], § 601(b)(2), Feb. 8, 1996, [110 Stat. 143][/us/stat/110/143].)
 
  __References in Text__ 
 
@@ -52,17 +52,17 @@
 ----------
 ----------
 
-[/us/pl/104/104/s601/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F104%2Fs601%2Fb%2F2
+[/us/pl/104/104/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F104%2FtVI
 [/us/stat/110/143]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F143
 [/us/act/1934-06-19/ch652]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-19%2Fch652
 [/us/stat/48/1080]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F1080
-[/us/act/1954-04-27/ch175/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-04-27%2Fch175%2Fs4
+[/us/act/1954-04-27/ch175]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-04-27%2Fch175
 [/us/stat/68/64]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68%2F64
-[/us/act/1956-08-02/ch874/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-02%2Fch874%2Fs3
+[/us/act/1956-08-02/ch874]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-02%2Fch874
 [/us/stat/70/932]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70%2F932
-[/us/pl/101/336/s401/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F336%2Fs401%2Fb%2F2
+[/us/pl/101/336/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F336%2FtIV
 [/us/stat/104/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F369
-[/us/pl/104/104/s601/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F104%2Fs601%2Fb%2F2
+[/us/pl/104/104/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F104%2FtVI
 [/us/stat/110/143]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F143
 [/us/act/1934-06-19/ch652]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-19%2Fch652
 [/us/stat/48/1064]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F1064

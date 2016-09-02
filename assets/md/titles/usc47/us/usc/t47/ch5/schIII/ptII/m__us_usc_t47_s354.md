@@ -35,7 +35,7 @@
 
     (i) The radio direction finding apparatus shall be efficient and capable of receiving signals with the minimum of receiver noise and of taking bearings from which the true bearing and direction may be determined. It shall be capable of receiving signals on the radio­telegraph frequencies assigned by the radio regulations annexed to the International Telecommunication Convention in force for the purposes of distress, direction finding, and maritime radio beacons, and, in installations made after May 26, 1965, such other frequencies as the Commission may for safety purposes designate.
 
-([June 19, 1934, ch. 652][/us/act/1934-06-19/ch652], title III, § 355, formerly § 354, as added [May 20, 1937, ch. 229, § 10(b)][/us/act/1937-05-20/ch229/s10/b], [50 Stat. 193][/us/stat/50/193]; amended 1946 Reorg. Plan No. 3, §§ 101–104, eff. July 16, 1946, 11 F.R. 7875, [60 Stat. 1097][/us/stat/60/1097]; renumbered § 355 and amended [Aug. 13, 1954, ch. 729, § 2(a)(1)][/us/act/1954-08-13/ch729/s2/a/1], (c), [68 Stat. 706][/us/stat/68/706]; [Pub. L. 89–121, § 6][/us/pl/89/121/s6], Aug. 13, 1965, [79 Stat. 514][/us/stat/79/514].)
+([June 19, 1934, ch. 652][/us/act/1934-06-19/ch652], title III, § 355, formerly § 354, as added [May 20, 1937, ch. 229][/us/act/1937-05-20/ch229], § 10(b), [50 Stat. 193][/us/stat/50/193]; amended 1946 Reorg. Plan No. 3, §§ 101–104, eff. July 16, 1946, 11 F.R. 7875, [60 Stat. 1097][/us/stat/60/1097]; renumbered § 355 and amended [Aug. 13, 1954, ch. 729][/us/act/1954-08-13/ch729], § 2(a)(1), (c), [68 Stat. 706][/us/stat/68/706]; [Pub. L. 89–121][/us/pl/89/121], § 6, Aug. 13, 1965, [79 Stat. 514][/us/stat/79/514].)
 
  __Amendments__ 
 
@@ -71,7 +71,7 @@
 
     For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under [section 542 of Title 6][/us/usc/t6/s542].
 
-    Coast Guard transferred to Department of Transportation, and functions, powers, and duties relating to Coast Guard of Secretary of the Treasury and of all other officers and offices of Department of the Treasury transferred to Secretary of Transportation by [Pub. L. 89–670, § 6(b)(1)][/us/pl/89/670/s6/b/1], Oct. 15, 1966, [80 Stat. 938][/us/stat/80/938]. [Section 6(b)(2) of Pub. L. 89–670][/us/pl/89/670/s6/b/2], however, provided that notwithstanding such transfer of functions, Coast Guard shall operate as part of Navy in time of war or when President directs as provided in [section 3 of Title 14][/us/usc/t14/s3], Coast Guard. See [section 108 of Title 49][/us/usc/t49/s108], Transportation.
+    Coast Guard transferred to Department of Transportation, and functions, powers, and duties relating to Coast Guard of Secretary of the Treasury and of all other officers and offices of Department of the Treasury transferred to Secretary of Transportation by [Pub. L. 89–670][/us/pl/89/670], § 6(b)(1), Oct. 15, 1966, [80 Stat. 938][/us/stat/80/938]. [Section 6(b)(2) of Pub. L. 89–670][/us/pl/89/670/s6/b/2], however, provided that notwithstanding such transfer of functions, Coast Guard shall operate as part of Navy in time of war or when President directs as provided in [section 3 of Title 14][/us/usc/t14/s3], Coast Guard. See [section 108 of Title 49][/us/usc/t49/s108], Transportation.
 
     For transfer of functions of other officers, employees, and agencies of Department of the Treasury, with certain exceptions, to Secretary of the Treasury with power to delegate, see Reorg. Plan No. 26 of 1950, §§ 1, 2, eff. July 31, 1950, 15 F.R. 4935, [64 Stat. 1280][/us/stat/64/1280], 1281, set out in the Appendix to Title 5, Government Organization and Employees. Functions of Coast Guard, and Commandant of Coast Guard, excepted from transfer when Coast Guard is operating as part of Navy under sections 1 and 3 of Title 14.
 
@@ -86,12 +86,12 @@
 
 [/us/usc/t47/s351]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs351
 [/us/act/1934-06-19/ch652]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-19%2Fch652
-[/us/act/1937-05-20/ch229/s10/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1937-05-20%2Fch229%2Fs10%2Fb
+[/us/act/1937-05-20/ch229]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1937-05-20%2Fch229
 [/us/stat/50/193]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F50%2F193
 [/us/stat/60/1097]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F60%2F1097
-[/us/act/1954-08-13/ch729/s2/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-13%2Fch729%2Fs2%2Fa%2F1
+[/us/act/1954-08-13/ch729]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-13%2Fch729
 [/us/stat/68/706]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68%2F706
-[/us/pl/89/121/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F121%2Fs6
+[/us/pl/89/121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F121
 [/us/stat/79/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F514
 [/us/pl/89/121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F121
 [/us/pl/89/121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F121
@@ -105,7 +105,7 @@
 [/us/pl/89/121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F121
 [/us/usc/t47/s351]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs351
 [/us/usc/t6/s542]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs542
-[/us/pl/89/670/s6/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F670%2Fs6%2Fb%2F1
+[/us/pl/89/670]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F670
 [/us/stat/80/938]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F938
 [/us/pl/89/670/s6/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F670%2Fs6%2Fb%2F2
 [/us/usc/t14/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft14%2Fs3

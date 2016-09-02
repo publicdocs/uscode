@@ -147,7 +147,7 @@
 
                 (iii) __Public notice; hearing__ 
 
-                    An elementary or secondary school described in clause (i), or the school board, local educational agency, or other authority with responsibility for administration of the school, shall provide reasonable public notice and hold at least one public hearing or meeting to address the proposed Internet safety policy. In the case of an elementary or secondary school other than an elementary or secondary school as defined in section 8801  <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  of title 20, the notice and hearing required by this clause may be limited to those members of the public with a relationship to the school.
+                    An elementary or secondary school described in clause (i), or the school board, local educational agency, or other authority with responsibility for administration of the school, shall provide reasonable public notice and hold at least one public hearing or meeting to address the proposed Internet safety policy. In the case of an elementary or secondary school other than an elementary school or a secondary school as defined in [section 7801 of title 20][/us/usc/t20/s7801], the notice and hearing required by this clause may be limited to those members of the public with a relationship to the school.
 
             (B) __Certification with respect to minors__ 
 
@@ -453,15 +453,13 @@
 
             This subsection shall apply with respect to schools and libraries on or after the date that is 120 days after December 21, 2000.
 
-([June 19, 1934, ch. 652][/us/act/1934-06-19/ch652], title II, § 254, as added [Pub. L. 104–104, title I, § 101(a)][/us/pl/104/104/s101/a], Feb. 8, 1996, [110 Stat. 71][/us/stat/110/71]; amended [Pub. L. 104–208, div. A, title I, § 101(e)][/us/pl/104/208/s101/e] \[title VII, § 709(a)(8)\], Sept. 30, 1996, [110 Stat. 3009–233][/us/stat/110/3009-233], 3009–313; [Pub. L. 106–554, § 1(a)(4)][/us/pl/106/554/s1/a/4] \[div. B, title XVII, §§ 1721(a)–(d), 1732\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–343 to 2763A–350; [Pub. L. 107–110, title X, § 1076(hh)][/us/pl/107/110/s1076/hh], Jan. 8, 2002, [115 Stat. 2094][/us/stat/115/2094]; [Pub. L. 110–385, title II, § 215][/us/pl/110/385/s215], Oct. 10, 2008, [122 Stat. 4104][/us/stat/122/4104].)
+([June 19, 1934, ch. 652][/us/act/1934-06-19/ch652], title II, § 254, as added [Pub. L. 104–104, title I][/us/pl/104/104/tI], § 101(a), Feb. 8, 1996, [110 Stat. 71][/us/stat/110/71]; amended [Pub. L. 104–208, div. A, title I][/us/pl/104/208/dA/tI], § 101(e) \[title VII, § 709(a)(8)\], Sept. 30, 1996, [110 Stat. 3009–233][/us/stat/110/3009-233], 3009–313; [Pub. L. 106–554][/us/pl/106/554], § 1(a)(4) \[div. B, title XVII, §§ 1721(a)–(d), 1732\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–343 to 2763A–350; [Pub. L. 107–110, title X][/us/pl/107/110/tX], § 1076(hh), Jan. 8, 2002, [115 Stat. 2094][/us/stat/115/2094]; [Pub. L. 110–385, title II][/us/pl/110/385/tII], § 215, Oct. 10, 2008, [122 Stat. 4104][/us/stat/122/4104]; [Pub. L. 114–95, title IX][/us/pl/114/95/tIX], § 9215(s), Dec. 10, 2015, [129 Stat. 2171][/us/stat/129/2171].)
 
  __References in Text__ 
 
     This chapter, referred to in subsec. (b)(7), was in the original “this Act”, meaning [act June 19, 1934, ch. 652][/us/act/1934-06-19/ch652], [48 Stat. 1064][/us/stat/48/1064], known as the Communications Act of 1934, which is classified principally to this chapter. For complete classification of this Act to the Code, see [section 609 of this title][/us/usc/t47/s609] and Tables.
 
-    The Library Services and Technology Act, referred to in subsec. (h)(4), is subtitle B (§§ 211–263) of title II of [Pub. L. 94–462][/us/pl/94/462], as added by [Pub. L. 104–208, div. A, title I, § 101(e)][/us/pl/104/208/s101/e] \[title VII, § 702\], Sept. 30, 1996, [110 Stat. 3009–233][/us/stat/110/3009-233], 3009–295, which is classified generally to subchapter II (§ 9121 et seq.) of chapter 72 of Title 20, Education. For complete classification of this Act to the Code, see Short Title note set out under [section 9101 of Title 20][/us/usc/t20/s9101] and Tables.
-
-    [Section 8801 of title 20][/us/usc/t20/s8801], referred to in subsec. (h)(5)(A)(iii), was repealed by [Pub. L. 107–110, title X, § 1011(5)(C)][/us/pl/107/110/s1011/5/C], Jan. 8, 2002, [115 Stat. 1986][/us/stat/115/1986]. See [section 7801 of Title 20][/us/usc/t20/s7801], Education.
+    The Library Services and Technology Act, referred to in subsec. (h)(4), is subtitle B (§§ 211–263) of title II of [Pub. L. 94–462][/us/pl/94/462], as added by [Pub. L. 104–208, div. A, title I][/us/pl/104/208/dA/tI], § 101(e) \[title VII, § 702\], Sept. 30, 1996, [110 Stat. 3009–233][/us/stat/110/3009-233], 3009–295, which is classified generally to subchapter II (§ 9121 et seq.) of chapter 72 of Title 20, Education. For complete classification of this Act to the Code, see Short Title note set out under [section 9101 of Title 20][/us/usc/t20/s9101] and Tables.
 
     For the effective date of this paragraph under section 1721(h) of the Children’s Internet Protection Act, referred to in subsec. (h)(5)(E), (6)(E), as 120 days after Dec. 21, 2000, see § 1(a)(4) \[div. B, title VII, § 1721(h)\] of [Pub. L. 106–554][/us/pl/106/554], set out as an Effective Date of 2000 Amendment note below.
 
@@ -469,23 +467,31 @@
 
  __Amendments__ 
 
+    2015—Subsec. (h)(5)(A)(iii). [Pub. L. 114–95][/us/pl/114/95], § 9215(s)(1), substituted “an elementary school or a secondary school as defined in [section 7801 of title 20][/us/usc/t20/s7801]” for “an elementary or secondary school as defined in [section 8801 of title 20][/us/usc/t20/s8801]”.
+
+    Subsec. (h)(7)(A). [Pub. L. 114–95][/us/pl/114/95], § 9215(s)(2), made technical amendment to reference in original act which appears in text as reference to [section 7801 of title 20][/us/usc/t20/s7801].
+
     2008—Subsec. (h)(5)(B)(iii). [Pub. L. 110–385][/us/pl/110/385] added cl. (iii).
 
     2002—Subsec. (h)(7)(A). [Pub. L. 107–110][/us/pl/107/110] substituted “section 7801” for “paragraphs (14) and (25), respectively, of section 8801”.
 
-    2000—Subsec. (h)(4). [Pub. L. 106–554, § 1(a)(4)][/us/pl/106/554/s1/a/4] \[div. B, title XVII, § 1721(d)\], substituted “paragraph (7)(A)” for “paragraph (5)(A)”.
+    2000—Subsec. (h)(4). [Pub. L. 106–554][/us/pl/106/554], § 1(a)(4) \[div. B, title XVII, § 1721(d)\], substituted “paragraph (7)(A)” for “paragraph (5)(A)”.
 
-    Subsec. (h)(5). [Pub. L. 106–554, § 1(a)(4)][/us/pl/106/554/s1/a/4] \[div. B, title XVII, § 1721(a)(2)\], added par. (5). Former par. (5) redesignated (7).
+    Subsec. (h)(5). [Pub. L. 106–554][/us/pl/106/554], § 1(a)(4) \[div. B, title XVII, § 1721(a)(2)\], added par. (5). Former par. (5) redesignated (7).
 
-    Subsec. (h)(6). [Pub. L. 106–554, § 1(a)(4)][/us/pl/106/554/s1/a/4] \[div. B, title XVII, § 1721(b)\], added par. (6).
+    Subsec. (h)(6). [Pub. L. 106–554][/us/pl/106/554], § 1(a)(4) \[div. B, title XVII, § 1721(b)\], added par. (6).
 
-    Subsec. (h)(7). [Pub. L. 106–554, § 1(a)(4)][/us/pl/106/554/s1/a/4] \[div. B, title XVII, § 1721(a)(1)\], redesignated par. (5) as (7).
+    Subsec. (h)(7). [Pub. L. 106–554][/us/pl/106/554], § 1(a)(4) \[div. B, title XVII, § 1721(a)(1)\], redesignated par. (5) as (7).
 
-    Subsec. (h)(7)(D) to (I). [Pub. L. 106–554, § 1(a)(4)][/us/pl/106/554/s1/a/4] \[div. B, title XVII, § 1721(c)\], added subpars. (D) to (I).
+    Subsec. (h)(7)(D) to (I). [Pub. L. 106–554][/us/pl/106/554], § 1(a)(4) \[div. B, title XVII, § 1721(c)\], added subpars. (D) to (I).
 
-    Subsec. (l). [Pub. L. 106–554, § 1(a)(4)][/us/pl/106/554/s1/a/4] \[div. B, title XVII, § 1732\], added subsec. (l).
+    Subsec. (l). [Pub. L. 106–554][/us/pl/106/554], § 1(a)(4) \[div. B, title XVII, § 1732\], added subsec. (l).
 
     1996—Subsec. (h)(4). [Pub. L. 104–208][/us/pl/104/208] substituted “library or library consortium not eligible for assistance from a State library administrative agency under the Library Services and Technology Act” for “library not eligible for participation in State-based plans for funds under title III of the Library Services and Construction Act ([20 U.S.C. 335c][/us/usc/t20/s335c] et seq.)”.
+
+ __Effective Date of 2015 Amendment__ 
+
+    Amendment by [Pub. L. 114–95][/us/pl/114/95] effective Dec. 10, 2015, except with respect to certain noncompetitive programs and competitive programs, see [section 5 of Pub. L. 114–95][/us/pl/114/95/s5], set out as a note under [section 6301 of Title 20][/us/usc/t20/s6301], Education.
 
  __Effective Date of 2002 Amendment__ 
 
@@ -493,13 +499,13 @@
 
  __Effective Date of 2000 Amendment__ 
 
-[Pub. L. 106–554, § 1(a)(4)][/us/pl/106/554/s1/a/4] \[div. B, title XVII, § 1721(h)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–350, provided that: 
+[Pub. L. 106–554][/us/pl/106/554], § 1(a)(4) \[div. B, title XVII, § 1721(h)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–350, provided that: 
 
 > “The amendments made by this section \[amending this section and enacting provisions set out as notes under this section and [section 7001 of Title 20][/us/usc/t20/s7001], Education\] shall take effect 120 days after the date of the enactment of this Act \[Dec. 21, 2000\].”
 
  __Regulations__ 
 
-[Pub. L. 106–554, § 1(a)(4)][/us/pl/106/554/s1/a/4] \[div. B, title XVII, § 1721(f)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–350, provided that:
+[Pub. L. 106–554][/us/pl/106/554], § 1(a)(4) \[div. B, title XVII, § 1721(f)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–350, provided that:
 
 >     “(1)  __Requirement__  __.—__ 
 
@@ -509,19 +515,19 @@
 
 >     Notwithstanding any other provision of law, the Commission shall prescribe regulations under paragraph (1) so as to ensure that such regulations take effect 120 days after the date of the enactment of this Act \[Dec. 21, 2000\].”
 
-[Pub. L. 106–554, § 1(a)(4)][/us/pl/106/554/s1/a/4] \[div. B, title XVII, § 1733\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–351, provided that: 
+[Pub. L. 106–554][/us/pl/106/554], § 1(a)(4) \[div. B, title XVII, § 1733\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–351, provided that: 
 
 > “Not later than 120 days after the date of enactment of this Act \[Dec. 21, 2000\], the Federal Communications Commission shall prescribe regulations for purposes of section 254(l) of the Communications Act of 1934 \[[47 U.S.C. 254][/us/usc/t47/s254](l)\], as added by section 1732 of this Act.”
 
  __Separability__ 
 
-[Pub. L. 106–554, § 1(a)(4)][/us/pl/106/554/s1/a/4] \[div. B, title XVII, § 1721(e)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–350, provided that: 
+[Pub. L. 106–554][/us/pl/106/554], § 1(a)(4) \[div. B, title XVII, § 1721(e)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–350, provided that: 
 
 > “If any provision of paragraph (5) or (6) of section 254(h) of the Communications Act of 1934 \[[47 U.S.C. 254(h)][/us/usc/t47/s254/h]\], as amended by this section, or the application thereof to any person or circumstance is held invalid, the remainder of such paragraph and the application of such paragraph to other persons or circumstances shall not be affected thereby.”
 
  __Disclaimers Regarding Internet Access and Privacy__ 
 
-[Pub. L. 106–554, § 1(a)(4)][/us/pl/106/554/s1/a/4] \[div. B, title XVII, § 1702\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–336, provided that:
+[Pub. L. 106–554][/us/pl/106/554], § 1(a)(4) \[div. B, title XVII, § 1702\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–336, provided that:
 
 >     “(a)  __Disclaimer Regarding Content__  __.—__ 
 
@@ -533,7 +539,7 @@
 
  __Expedited Review__ 
 
-[Pub. L. 106–554, § 1(a)(4)][/us/pl/106/554/s1/a/4] \[div. B, title XVII, § 1741\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–351, provided that:
+[Pub. L. 106–554][/us/pl/106/554], § 1(a)(4) \[div. B, title XVII, § 1741\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–351, provided that:
 
 >     “(a)  __Three-Judge District Court Hearing__  __.—__ 
 
@@ -545,7 +551,7 @@
 
  __Universal Service Fund Payment Schedule__ 
 
-[Pub. L. 105–33, title III, § 3006][/us/pl/105/33/s3006], Aug. 5, 1997, [111 Stat. 269][/us/stat/111/269], related to appropriations to the Universal Service Fund in support of programs established pursuant to rules implementing this section and adjustment of payments by telecommunications carriers and other providers of interstate telecommunications prior to repeal by [Pub. L. 105–119, title VI, § 622][/us/pl/105/119/s622], Nov. 26, 1997, [111 Stat. 2521][/us/stat/111/2521]. [Section 622 of Pub. L. 105–119][/us/pl/105/119/s622] provided further that: 
+[Pub. L. 105–33, title III][/us/pl/105/33/tIII], § 3006, Aug. 5, 1997, [111 Stat. 269][/us/stat/111/269], related to appropriations to the Universal Service Fund in support of programs established pursuant to rules implementing this section and adjustment of payments by telecommunications carriers and other providers of interstate telecommunications prior to repeal by [Pub. L. 105–119, title VI][/us/pl/105/119/tVI], § 622, Nov. 26, 1997, [111 Stat. 2521][/us/stat/111/2521]. [Section 622 of Pub. L. 105–119][/us/pl/105/119/s622] provided further that: 
 
 > “This section shall be deemed a section of the Balanced Budget Act of 1997 \[[Pub. L. 105–33][/us/pl/105/33], see Tables for classification\] for the purposes of section 10213 of that Act ([111 Stat. 712][/us/stat/111/712]) \[[2 U.S.C. 902][/us/usc/t2/s902] note\], and shall be scored pursuant to paragraph (2) of such section.”
 
@@ -561,68 +567,75 @@
 [/us/usc/t47/s214/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs214%2Fe
 [/us/usc/t20/s9121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs9121
 [/us/usc/t20/s7801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs7801
+[/us/usc/t20/s7801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs7801
 [/us/usc/t18/s1460]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs1460
 [/us/usc/t18/s2256]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs2256
 [/us/usc/t18/s2246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs2246
 [/us/act/1934-06-19/ch652]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-19%2Fch652
-[/us/pl/104/104/s101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F104%2Fs101%2Fa
+[/us/pl/104/104/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F104%2FtI
 [/us/stat/110/71]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F71
-[/us/pl/104/208/s101/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs101%2Fe
+[/us/pl/104/208/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2FdA%2FtI
 [/us/stat/110/3009-233]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3009-233
-[/us/pl/106/554/s1/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F4
+[/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
 [/us/stat/114/2763]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2763
-[/us/pl/107/110/s1076/hh]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F110%2Fs1076%2Fhh
+[/us/pl/107/110/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F110%2FtX
 [/us/stat/115/2094]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F2094
-[/us/pl/110/385/s215]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F385%2Fs215
+[/us/pl/110/385/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F385%2FtII
 [/us/stat/122/4104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4104
+[/us/pl/114/95/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F95%2FtIX
+[/us/stat/129/2171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F2171
 [/us/act/1934-06-19/ch652]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-19%2Fch652
 [/us/stat/48/1064]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F1064
 [/us/usc/t47/s609]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs609
 [/us/pl/94/462]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F462
-[/us/pl/104/208/s101/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs101%2Fe
+[/us/pl/104/208/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2FdA%2FtI
 [/us/stat/110/3009-233]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3009-233
 [/us/usc/t20/s9101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs9101
-[/us/usc/t20/s8801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs8801
-[/us/pl/107/110/s1011/5/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F110%2Fs1011%2F5%2FC
-[/us/stat/115/1986]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F1986
+[/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
+[/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
+[/us/pl/114/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F95
 [/us/usc/t20/s7801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs7801
-[/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
-[/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
+[/us/usc/t20/s8801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs8801
+[/us/pl/114/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F95
+[/us/usc/t20/s7801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs7801
 [/us/pl/110/385]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F385
 [/us/pl/107/110]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F110
-[/us/pl/106/554/s1/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F4
-[/us/pl/106/554/s1/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F4
-[/us/pl/106/554/s1/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F4
-[/us/pl/106/554/s1/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F4
-[/us/pl/106/554/s1/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F4
-[/us/pl/106/554/s1/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F4
+[/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
+[/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
+[/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
+[/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
+[/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
+[/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
 [/us/pl/104/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208
 [/us/usc/t20/s335c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs335c
+[/us/pl/114/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F95
+[/us/pl/114/95/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F95%2Fs5
+[/us/usc/t20/s6301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs6301
 [/us/pl/107/110]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F110
 [/us/pl/107/110/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F110%2Fs5
 [/us/usc/t20/s6301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs6301
-[/us/pl/106/554/s1/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F4
+[/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
 [/us/stat/114/2763]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2763
 [/us/usc/t20/s7001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs7001
-[/us/pl/106/554/s1/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F4
+[/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
 [/us/stat/114/2763]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2763
 [/us/usc/t47/s254/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs254%2Fh
-[/us/pl/106/554/s1/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F4
+[/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
 [/us/stat/114/2763]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2763
 [/us/usc/t47/s254]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs254
-[/us/pl/106/554/s1/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F4
+[/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
 [/us/stat/114/2763]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2763
 [/us/usc/t47/s254/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs254%2Fh
-[/us/pl/106/554/s1/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F4
+[/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
 [/us/stat/114/2763]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2763
 [/us/usc/t20/s6301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs6301
-[/us/pl/106/554/s1/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F4
+[/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
 [/us/stat/114/2763]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2763
 [/us/usc/t20/s6301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs6301
 [/us/usc/t28/s2284]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs2284
-[/us/pl/105/33/s3006]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2Fs3006
+[/us/pl/105/33/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2FtIII
 [/us/stat/111/269]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F269
-[/us/pl/105/119/s622]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F119%2Fs622
+[/us/pl/105/119/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F119%2FtVI
 [/us/stat/111/2521]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F2521
 [/us/pl/105/119/s622]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F119%2Fs622
 [/us/pl/105/33]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33

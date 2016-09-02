@@ -43,7 +43,7 @@
 
         Nothing in this section shall impair or diminish the powers of any State commission.
 
-([June 19, 1934, ch. 652][/us/act/1934-06-19/ch652], title II, § 213, [48 Stat. 1074][/us/stat/48/1074]; [Pub. L. 103–414, title III, § 304(a)(3)][/us/pl/103/414/s304/a/3], Oct. 25, 1994, [108 Stat. 4296][/us/stat/108/4296].)
+([June 19, 1934, ch. 652][/us/act/1934-06-19/ch652], title II, § 213, [48 Stat. 1074][/us/stat/48/1074]; [Pub. L. 103–414, title III][/us/pl/103/414/tIII], § 304(a)(3), Oct. 25, 1994, [108 Stat. 4296][/us/stat/108/4296].)
 
  __References in Text__ 
 
@@ -62,7 +62,7 @@
 
 [/us/act/1934-06-19/ch652]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-19%2Fch652
 [/us/stat/48/1074]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F1074
-[/us/pl/103/414/s304/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F414%2Fs304%2Fa%2F3
+[/us/pl/103/414/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F414%2FtIII
 [/us/stat/108/4296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4296
 [/us/act/1934-06-19/ch652]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-19%2Fch652
 [/us/stat/48/1064]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F1064

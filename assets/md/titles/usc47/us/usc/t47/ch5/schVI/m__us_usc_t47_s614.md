@@ -119,15 +119,15 @@
 
             The term “telecommunications industry” means communications businesses using regulated or unregulated facilities or services and includes broadcasting, telecommunications, cable, computer, data transmission, software, programming, advanced messaging, and electronics businesses.
 
-([June 19, 1934, ch. 652][/us/act/1934-06-19/ch652], title VII, § 714, as added [Pub. L. 104–104, title VII, § 707(b)][/us/pl/104/104/s707/b], Feb. 8, 1996, [110 Stat. 154][/us/stat/110/154]; amended [Pub. L. 108–494, title II, § 205][/us/pl/108/494/s205], Dec. 23, 2004, [118 Stat. 3996][/us/stat/118/3996]; [Pub. L. 112–96, title VI, § 6602][/us/pl/112/96/s6602], Feb. 22, 2012, [126 Stat. 245][/us/stat/126/245].)
+([June 19, 1934, ch. 652][/us/act/1934-06-19/ch652], title VII, § 714, as added [Pub. L. 104–104, title VII][/us/pl/104/104/tVII], § 707(b), Feb. 8, 1996, [110 Stat. 154][/us/stat/110/154]; amended [Pub. L. 108–494, title II][/us/pl/108/494/tII], § 205, Dec. 23, 2004, [118 Stat. 3996][/us/stat/118/3996]; [Pub. L. 112–96, title VI][/us/pl/112/96/tVI], § 6602, Feb. 22, 2012, [126 Stat. 245][/us/stat/126/245].)
 
  __Amendments__ 
 
-    2012—Subsec. (c). [Pub. L. 112–96, § 6602(1)][/us/pl/112/96/s6602/1], added subsec. (c) and struck out former subsec. (c) which related to the Board of Directors of the Fund.
+    2012—Subsec. (c). [Pub. L. 112–96][/us/pl/112/96], § 6602(1), added subsec. (c) and struck out former subsec. (c) which related to the Board of Directors of the Fund.
 
-    Subsec. (d). [Pub. L. 112–96, § 6602(2)][/us/pl/112/96/s6602/2], struck out “(after consultation with the Commission and the Secretary of the Treasury)” after “Chairman of the Board ” in introductory provisions, redesignated pars. (2) to (4) as (1) to (3), respectively, and struck out former par. (1) which read as follows: “interest transferred pursuant to [section 309(j)(8)(C) of this title][/us/usc/t47/s309/j/8/C];”.
+    Subsec. (d). [Pub. L. 112–96][/us/pl/112/96], § 6602(2), struck out “(after consultation with the Commission and the Secretary of the Treasury)” after “Chairman of the Board ” in introductory provisions, redesignated pars. (2) to (4) as (1) to (3), respectively, and struck out former par. (1) which read as follows: “interest transferred pursuant to [section 309(j)(8)(C) of this title][/us/usc/t47/s309/j/8/C];”.
 
-    Subsec. (g). [Pub. L. 112–96, § 6602(3)][/us/pl/112/96/s6602/3], substituted “subsection (d)(1)” for “subsection (d)(2)”.
+    Subsec. (g). [Pub. L. 112–96][/us/pl/112/96], § 6602(3), substituted “subsection (d)(1)” for “subsection (d)(2)”.
 
     2004—Subsec. (f). [Pub. L. 108–494][/us/pl/108/494] reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “Loans or other extensions of credit from the Fund shall be made available in accordance with the requirements of the Federal Credit Reform Act of 1990 ([2 U.S.C. 661][/us/usc/t2/s661] et seq.) and any other applicable law to an eligible small business on the basis of—
 
@@ -147,16 +147,16 @@
 ----------
 
 [/us/act/1934-06-19/ch652]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-19%2Fch652
-[/us/pl/104/104/s707/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F104%2Fs707%2Fb
+[/us/pl/104/104/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F104%2FtVII
 [/us/stat/110/154]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F154
-[/us/pl/108/494/s205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F494%2Fs205
+[/us/pl/108/494/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F494%2FtII
 [/us/stat/118/3996]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F3996
-[/us/pl/112/96/s6602]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F96%2Fs6602
+[/us/pl/112/96/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F96%2FtVI
 [/us/stat/126/245]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F245
-[/us/pl/112/96/s6602/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F96%2Fs6602%2F1
-[/us/pl/112/96/s6602/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F96%2Fs6602%2F2
+[/us/pl/112/96]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F96
+[/us/pl/112/96]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F96
 [/us/usc/t47/s309/j/8/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs309%2Fj%2F8%2FC
-[/us/pl/112/96/s6602/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F96%2Fs6602%2F3
+[/us/pl/112/96]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F96
 [/us/pl/108/494]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F494
 [/us/usc/t2/s661]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs661
 

@@ -89,7 +89,7 @@
 
         Nothing in the New and Emerging Technologies 911 Improvement Act of 2008 shall be construed as altering, delaying, or otherwise limiting the ability of the Commission to enforce the Federal actions taken or rules adopted obligating an IP-enabled voice service provider to provide 9–1–1 or enhanced 9–1–1 service as of the date of enactment of the New and Emerging Technologies 911 Improvement Act of 2008.
 
-([Pub. L. 106–81, § 6][/us/pl/106/81/s6], as added [Pub. L. 110–283, title I, § 101(2)][/us/pl/110/283/s101/2], July 23, 2008, [122 Stat. 2620][/us/stat/122/2620]; amended [Pub. L. 110–368, § 1(a)][/us/pl/110/368/s1/a], Oct. 8, 2008, [122 Stat. 4027][/us/stat/122/4027].)
+([Pub. L. 106–81][/us/pl/106/81], § 6, as added [Pub. L. 110–283, title I][/us/pl/110/283/tI], § 101(2), July 23, 2008, [122 Stat. 2620][/us/stat/122/2620]; amended [Pub. L. 110–368][/us/pl/110/368], § 1(a), Oct. 8, 2008, [122 Stat. 4027][/us/stat/122/4027].)
 
  __References in Text__ 
 
@@ -117,7 +117,7 @@
 
  __Effective Date of 2008 Amendment__ 
 
-[Pub. L. 110–368, § 1(b)][/us/pl/110/368/s1/b], Oct. 8, 2008, [122 Stat. 4027][/us/stat/122/4027], provided that: 
+[Pub. L. 110–368][/us/pl/110/368], § 1(b), Oct. 8, 2008, [122 Stat. 4027][/us/stat/122/4027], provided that: 
 
 > “The amendment made by subsection (a) \[amending this section\] shall take effect as of July 23, 2008, immediately after the enactment of the NET 911 Improvement Act of 2008 ([Public Law 110–283][/us/pl/110/283]) \[approved July 23, 2008\].”
 
@@ -133,10 +133,10 @@
 [/us/usc/t47/s151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs151
 [/us/stat/85/688]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F85%2F688
 [/us/usc/t43/s1601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs1601
-[/us/pl/106/81/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F81%2Fs6
-[/us/pl/110/283/s101/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F283%2Fs101%2F2
+[/us/pl/106/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F81
+[/us/pl/110/283/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F283%2FtI
 [/us/stat/122/2620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F2620
-[/us/pl/110/368/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F368%2Fs1%2Fa
+[/us/pl/110/368]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F368
 [/us/stat/122/4027]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4027
 [/us/pl/110/283]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F283
 [/us/pl/110/283]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F283
@@ -154,7 +154,7 @@
 [/us/pl/106/81/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F81%2Fs6
 [/us/usc/t47/s615b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs615b
 [/us/pl/110/368]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F368
-[/us/pl/110/368/s1/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F368%2Fs1%2Fb
+[/us/pl/110/368]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F368
 [/us/stat/122/4027]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4027
 [/us/pl/110/283]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F283
 

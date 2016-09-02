@@ -25,7 +25,7 @@
 
     (4) actions necessary to promote the efficient use of the spectrum, including spectrum management techniques to promote increased shared use of the spectrum that does not cause harmful interference as a means of increasing commercial access.
 
-([Pub. L. 102–538, title I, § 112][/us/pl/102/538/s112], as added [Pub. L. 103–66, title VI, § 6001(a)(3)][/us/pl/103/66/s6001/a/3], Aug. 10, 1993, [107 Stat. 380][/us/stat/107/380].)
+([Pub. L. 102–538, title I][/us/pl/102/538/tI], § 112, as added [Pub. L. 103–66, title VI][/us/pl/103/66/tVI], § 6001(a)(3), Aug. 10, 1993, [107 Stat. 380][/us/stat/107/380].)
 
 ----------
 
@@ -35,8 +35,8 @@
 ----------
 
 [/us/usc/t47/s309/j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs309%2Fj
-[/us/pl/102/538/s112]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F538%2Fs112
-[/us/pl/103/66/s6001/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66%2Fs6001%2Fa%2F3
+[/us/pl/102/538/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F538%2FtI
+[/us/pl/103/66/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66%2FtVI
 [/us/stat/107/380]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F380
 
 

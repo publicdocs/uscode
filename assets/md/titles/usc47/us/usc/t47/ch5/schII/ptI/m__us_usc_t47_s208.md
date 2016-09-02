@@ -25,7 +25,7 @@
 
         (3) Any order concluding an investigation under paragraph (1) or (2) shall be a final order and may be appealed under [section 402(a) of this title][/us/usc/t47/s402/a].
 
-([June 19, 1934, ch. 652][/us/act/1934-06-19/ch652], title II, § 208, [48 Stat. 1073][/us/stat/48/1073]; [Pub. L. 100–594, § 8(c)][/us/pl/100/594/s8/c], Nov. 3, 1988, [102 Stat. 3023][/us/stat/102/3023]; [Pub. L. 104–104, title IV, § 402(b)(1)(B)][/us/pl/104/104/s402/b/1/B], Feb. 8, 1996, [110 Stat. 129][/us/stat/110/129].)
+([June 19, 1934, ch. 652][/us/act/1934-06-19/ch652], title II, § 208, [48 Stat. 1073][/us/stat/48/1073]; [Pub. L. 100–594][/us/pl/100/594], § 8(c), Nov. 3, 1988, [102 Stat. 3023][/us/stat/102/3023]; [Pub. L. 104–104, title IV][/us/pl/104/104/tIV], § 402(b)(1)(B), Feb. 8, 1996, [110 Stat. 129][/us/stat/110/129].)
 
  __References in Text__ 
 
@@ -55,9 +55,9 @@
 [/us/usc/t47/s402/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs402%2Fa
 [/us/act/1934-06-19/ch652]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-19%2Fch652
 [/us/stat/48/1073]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F1073
-[/us/pl/100/594/s8/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F594%2Fs8%2Fc
+[/us/pl/100/594]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F594
 [/us/stat/102/3023]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3023
-[/us/pl/104/104/s402/b/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F104%2Fs402%2Fb%2F1%2FB
+[/us/pl/104/104/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F104%2FtIV
 [/us/stat/110/129]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F129
 [/us/act/1934-06-19/ch652]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-19%2Fch652
 [/us/stat/48/1064]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F1064

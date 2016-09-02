@@ -31,7 +31,7 @@
 
         Each applicant for the renewal of a commercial or noncommercial television license shall attach as an exhibit to the application a summary of written comments and suggestions received from the public and maintained by the licensee (in accordance with Commission regulations) that comment on the applicant’s programming, if any, and that are characterized by the commentor as constituting violent programming.
 
-([June 19, 1934, ch. 652][/us/act/1934-06-19/ch652], title III, § 308, [48 Stat. 1084][/us/stat/48/1084]; [July 16, 1952, ch. 879, § 6][/us/act/1952-07-16/ch879/s6], [66 Stat. 714][/us/stat/66/714]; [Pub. L. 87–444, § 3][/us/pl/87/444/s3], Apr. 27, 1962, [76 Stat. 63][/us/stat/76/63]; [Pub. L. 102–538, title II, § 204(b)][/us/pl/102/538/s204/b], Oct. 27, 1992, [106 Stat. 3543][/us/stat/106/3543]; [Pub. L. 103–414, title III, § 303(a)(15)][/us/pl/103/414/s303/a/15], Oct. 25, 1994, [108 Stat. 4295][/us/stat/108/4295]; [Pub. L. 104–104, title II, § 204(b)][/us/pl/104/104/s204/b], Feb. 8, 1996, [110 Stat. 113][/us/stat/110/113].)
+([June 19, 1934, ch. 652][/us/act/1934-06-19/ch652], title III, § 308, [48 Stat. 1084][/us/stat/48/1084]; [July 16, 1952, ch. 879][/us/act/1952-07-16/ch879], § 6, [66 Stat. 714][/us/stat/66/714]; [Pub. L. 87–444][/us/pl/87/444], § 3, Apr. 27, 1962, [76 Stat. 63][/us/stat/76/63]; [Pub. L. 102–538, title II][/us/pl/102/538/tII], § 204(b), Oct. 27, 1992, [106 Stat. 3543][/us/stat/106/3543]; [Pub. L. 103–414, title III][/us/pl/103/414/tIII], § 303(a)(15), Oct. 25, 1994, [108 Stat. 4295][/us/stat/108/4295]; [Pub. L. 104–104, title II][/us/pl/104/104/tII], § 204(b), Feb. 8, 1996, [110 Stat. 113][/us/stat/110/113].)
 
  __Amendments__ 
 
@@ -49,7 +49,7 @@
 
  __Effective Date of 1996 Amendment__ 
 
-[Pub. L. 104–104, title II, § 204(c)][/us/pl/104/104/s204/c], Feb. 8, 1996, [110 Stat. 113][/us/stat/110/113], provided that: 
+[Pub. L. 104–104, title II][/us/pl/104/104/tII], § 204(c), Feb. 8, 1996, [110 Stat. 113][/us/stat/110/113], provided that: 
 
 > “The amendments made by this section \[amending this section and [section 309 of this title][/us/usc/t47/s309]\] apply to applications filed after May 1, 1995.”
 
@@ -63,22 +63,22 @@
 [/us/usc/t47/s35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs35
 [/us/act/1934-06-19/ch652]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-19%2Fch652
 [/us/stat/48/1084]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F1084
-[/us/act/1952-07-16/ch879/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1952-07-16%2Fch879%2Fs6
+[/us/act/1952-07-16/ch879]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1952-07-16%2Fch879
 [/us/stat/66/714]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F66%2F714
-[/us/pl/87/444/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F444%2Fs3
+[/us/pl/87/444]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F444
 [/us/stat/76/63]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F63
-[/us/pl/102/538/s204/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F538%2Fs204%2Fb
+[/us/pl/102/538/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F538%2FtII
 [/us/stat/106/3543]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3543
-[/us/pl/103/414/s303/a/15]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F414%2Fs303%2Fa%2F15
+[/us/pl/103/414/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F414%2FtIII
 [/us/stat/108/4295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4295
-[/us/pl/104/104/s204/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F104%2Fs204%2Fb
+[/us/pl/104/104/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F104%2FtII
 [/us/stat/110/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F113
 [/us/pl/104/104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F104
 [/us/pl/103/414]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F414
 [/us/usc/t47/s35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs35
 [/us/pl/102/538]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F538
 [/us/pl/87/444]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F444
-[/us/pl/104/104/s204/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F104%2Fs204%2Fc
+[/us/pl/104/104/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F104%2FtII
 [/us/stat/110/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F113
 [/us/usc/t47/s309]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs309
 

@@ -47,7 +47,7 @@
 
         Any person who willfully does or causes or suffers to be done any act prohibited pursuant to the exercise of the President’s authority under this section, or who willfully fails to do any act which he is required to do pursuant to the exercise of the President’s authority under this section, or who willfully causes or suffers such failure, shall, upon conviction thereof, be punished for such offense by a fine of not more than $1,000 or by imprisonment for not more than one year, or both, and, if a firm, partnership, association, or corporation, by fine of not more than $5,000, except that any person who commits such an offense with intent to injure the United States, or with intent to secure an advantage to any foreign nation, shall, upon conviction thereof, be punished by a fine of not more than $20,000 or by imprisonment for not more than 20 years, or both.
 
-([June 19, 1934, ch. 652][/us/act/1934-06-19/ch652], title VII, § 706, formerly title VI, § 606, [48 Stat. 1104][/us/stat/48/1104]; [Jan. 26, 1942, ch. 18][/us/act/1942-01-26/ch18], §§ 1, 2, [56 Stat. 18][/us/stat/56/18]; [Dec. 29, 1942, ch. 836][/us/act/1942-12-29/ch836], [56 Stat. 1096][/us/stat/56/1096]; [July 25, 1947, ch. 327, § 1][/us/act/1947-07-25/ch327/s1], [61 Stat. 449][/us/stat/61/449]; [Oct. 24, 1951, ch. 553][/us/act/1951-10-24/ch553], §§ 1, 2, [65 Stat. 611][/us/stat/65/611]; renumbered title VII, § 706, [Pub. L. 98–549, § 6(a)][/us/pl/98/549/s6/a], Oct. 30, 1984, [98 Stat. 2804][/us/stat/98/2804].)
+([June 19, 1934, ch. 652][/us/act/1934-06-19/ch652], title VII, § 706, formerly title VI, § 606, [48 Stat. 1104][/us/stat/48/1104]; [Jan. 26, 1942, ch. 18][/us/act/1942-01-26/ch18], §§ 1, 2, [56 Stat. 18][/us/stat/56/18]; [Dec. 29, 1942, ch. 836][/us/act/1942-12-29/ch836], [56 Stat. 1096][/us/stat/56/1096]; [July 25, 1947, ch. 327][/us/act/1947-07-25/ch327], § 1, [61 Stat. 449][/us/stat/61/449]; [Oct. 24, 1951, ch. 553][/us/act/1951-10-24/ch553], §§ 1, 2, [65 Stat. 611][/us/stat/65/611]; renumbered title VII, § 706, [Pub. L. 98–549][/us/pl/98/549], § 6(a), Oct. 30, 1984, [98 Stat. 2804][/us/stat/98/2804].)
 
  __References in Text__ 
 
@@ -75,7 +75,7 @@
 
  __Termination of War and Emergencies__ 
 
-    [Act July 25, 1947, ch. 327, § 3][/us/act/1947-07-25/ch327/s3], [61 Stat. 451][/us/stat/61/451], provided that in the interpretation of this section, the date July 25, 1947, shall be deemed to be the date of termination of any state of war theretofore declared by Congress and of the national emergencies proclaimed by the President on Sept. 8, 1939, and May 27, 1941.
+    [Act July 25, 1947, ch. 327][/us/act/1947-07-25/ch327], § 3, [61 Stat. 451][/us/stat/61/451], provided that in the interpretation of this section, the date July 25, 1947, shall be deemed to be the date of termination of any state of war theretofore declared by Congress and of the national emergencies proclaimed by the President on Sept. 8, 1939, and May 27, 1941.
 
  __Executive Order No. 8964__ 
 
@@ -117,11 +117,11 @@ By virtue of the authority vested in me by the Constitution and statutes, includ
 [/us/stat/56/18]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F56%2F18
 [/us/act/1942-12-29/ch836]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1942-12-29%2Fch836
 [/us/stat/56/1096]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F56%2F1096
-[/us/act/1947-07-25/ch327/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1947-07-25%2Fch327%2Fs1
+[/us/act/1947-07-25/ch327]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1947-07-25%2Fch327
 [/us/stat/61/449]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F61%2F449
 [/us/act/1951-10-24/ch553]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1951-10-24%2Fch553
 [/us/stat/65/611]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F65%2F611
-[/us/pl/98/549/s6/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F549%2Fs6%2Fa
+[/us/pl/98/549]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F549
 [/us/stat/98/2804]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2804
 [/us/act/1934-06-19/ch652]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-19%2Fch652
 [/us/stat/48/1064]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F1064
@@ -132,7 +132,7 @@ By virtue of the authority vested in me by the Constitution and statutes, includ
 [/us/stat/62/869]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F869
 [/us/usc/t28/s1346]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs1346
 [/us/usc/t28/s1491]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs1491
-[/us/act/1947-07-25/ch327/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1947-07-25%2Fch327%2Fs3
+[/us/act/1947-07-25/ch327]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1947-07-25%2Fch327
 [/us/stat/61/451]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F61%2F451
 [/us/stat/48/1104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F1104
 [/us/usc/t47/s606]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs606

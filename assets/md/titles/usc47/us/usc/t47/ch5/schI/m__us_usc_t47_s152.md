@@ -19,7 +19,7 @@
 
     (b) Except as provided in sections 223 through 227 of this title, inclusive, and [section 332 of this title][/us/usc/t47/s332], and subject to the provisions of [section 301 of this title][/us/usc/t47/s301] and subchapter V–A of this chapter, nothing in this chapter shall be construed to apply or to give the Commission jurisdiction with respect to (1) charges, classifications, practices, services, facilities, or regulations for or in connection with intrastate communication service by wire or radio of any carrier, or (2) any carrier engaged in interstate or foreign communication solely through physical connection with the facilities of another carrier not directly or indirectly controlling or controlled by, or under direct or indirect common control with such carrier, or (3) any carrier engaged in interstate or foreign communication solely through connection by radio, or by wire and radio, with facilities, located in an adjoining State or in Canada or Mexico (where they adjoin the State in which the carrier is doing business), of another carrier not directly or indirectly controlling or controlled by, or under direct or indirect common control with such carrier, or (4) any carrier to which clause (2) or clause (3) of this subsection would be applicable except for furnishing interstate mobile radio communication service or radio communication service to mobile stations on land vehicles in Canada or Mexico; except that sections 201 to 205 of this title shall, except as otherwise provided therein, apply to carriers described in clauses (2), (3), and (4) of this subsection.
 
-([June 19, 1934, ch. 652][/us/act/1934-06-19/ch652], title I, § 2, [48 Stat. 1064][/us/stat/48/1064]; Proc. No. 2695, eff. July 4, 1946, 11 F.R. 7517, [60 Stat. 1352][/us/stat/60/1352]; [Apr. 27, 1954, ch. 175, § 1][/us/act/1954-04-27/ch175/s1], [68 Stat. 63][/us/stat/68/63]; [Pub. L. 95–234, § 5][/us/pl/95/234/s5], Feb. 21, 1978, [92 Stat. 35][/us/stat/92/35]; [Pub. L. 98–549, § 3(a)][/us/pl/98/549/s3/a], Oct. 30, 1984, [98 Stat. 2801][/us/stat/98/2801]; [Pub. L. 101–166, title V, § 521(2)][/us/pl/101/166/s521/2], Nov. 21, 1989, [103 Stat. 1193][/us/stat/103/1193]; [Pub. L. 101–336, title IV, § 401(b)(1)][/us/pl/101/336/s401/b/1], July 26, 1990, [104 Stat. 369][/us/stat/104/369]; [Pub. L. 102–243, § 3(b)][/us/pl/102/243/s3/b], Dec. 20, 1991, [105 Stat. 2401][/us/stat/105/2401]; [Pub. L. 103–66, title VI, § 6002(b)(2)(B)(i)][/us/pl/103/66/s6002/b/2/B/i], Aug. 10, 1993, [107 Stat. 396][/us/stat/107/396].)
+([June 19, 1934, ch. 652][/us/act/1934-06-19/ch652], title I, § 2, [48 Stat. 1064][/us/stat/48/1064]; Proc. No. 2695, eff. July 4, 1946, 11 F.R. 7517, [60 Stat. 1352][/us/stat/60/1352]; [Apr. 27, 1954, ch. 175][/us/act/1954-04-27/ch175], § 1, [68 Stat. 63][/us/stat/68/63]; [Pub. L. 95–234][/us/pl/95/234], § 5, Feb. 21, 1978, [92 Stat. 35][/us/stat/92/35]; [Pub. L. 98–549][/us/pl/98/549], § 3(a), Oct. 30, 1984, [98 Stat. 2801][/us/stat/98/2801]; [Pub. L. 101–166, title V][/us/pl/101/166/tV], § 521(2), Nov. 21, 1989, [103 Stat. 1193][/us/stat/103/1193]; [Pub. L. 101–336, title IV][/us/pl/101/336/tIV], § 401(b)(1), July 26, 1990, [104 Stat. 369][/us/stat/104/369]; [Pub. L. 102–243][/us/pl/102/243], § 3(b), Dec. 20, 1991, [105 Stat. 2401][/us/stat/105/2401]; [Pub. L. 103–66, title VI][/us/pl/103/66/tVI], § 6002(b)(2)(B)(i), Aug. 10, 1993, [107 Stat. 396][/us/stat/107/396].)
 
  __References in Text__ 
 
@@ -41,9 +41,9 @@
 
     1989—Subsec. (b). [Pub. L. 101–166][/us/pl/101/166] substituted “section 223 or 224” for “section 224”.
 
-    1984—Subsec. (a). [Pub. L. 98–549, § 3(a)(1)][/us/pl/98/549/s3/a/1], inserted provision making this chapter applicable with respect to cable service, to all persons engaged within the United States in providing such service, and to the facilities of cable operators which relate to such service, as provided in subchapter V–A of this chapter.
+    1984—Subsec. (a). [Pub. L. 98–549][/us/pl/98/549], § 3(a)(1), inserted provision making this chapter applicable with respect to cable service, to all persons engaged within the United States in providing such service, and to the facilities of cable operators which relate to such service, as provided in subchapter V–A of this chapter.
 
-    Subsec. (b). [Pub. L. 98–549, § 3(a)(2)][/us/pl/98/549/s3/a/2], inserted “and subchapter V–A of this chapter” after “[section 301 of this title][/us/usc/t47/s301]”.
+    Subsec. (b). [Pub. L. 98–549][/us/pl/98/549], § 3(a)(2), inserted “and subchapter V–A of this chapter” after “[section 301 of this title][/us/usc/t47/s301]”.
 
     1978—Subsec. (b). [Pub. L. 95–234][/us/pl/95/234] substituted “Except as provided in [section 224 of this title][/us/usc/t47/s224] and subject” for “Subject”.
 
@@ -51,7 +51,7 @@
 
  __Effective Date of 1989 Amendment__ 
 
-[Pub. L. 101–166, title V, § 521(3)][/us/pl/101/166/s521/3], Nov. 21, 1989, [103 Stat. 1194][/us/stat/103/1194], provided that: 
+[Pub. L. 101–166, title V][/us/pl/101/166/tV], § 521(3), Nov. 21, 1989, [103 Stat. 1194][/us/stat/103/1194], provided that: 
 
 > “The amendments made by this subsection \[probably should be “section”, which amended this section and [section 223 of this title][/us/usc/t47/s223]\] shall take effect 120 days after the date of enactment of this Act \[Nov. 21, 1989\].”
 
@@ -61,13 +61,13 @@
 
  __Effective Date of 1978 Amendment__ 
 
-[Pub. L. 95–234, § 7][/us/pl/95/234/s7], Feb. 21, 1978, [92 Stat. 36][/us/stat/92/36], provided that: 
+[Pub. L. 95–234][/us/pl/95/234], § 7, Feb. 21, 1978, [92 Stat. 36][/us/stat/92/36], provided that: 
 
 > “The amendments made by this Act \[enacting [section 224 of this title][/us/usc/t47/s224], amending this section and sections 503 and 504 of this title, repealing sections 510 of this title, and enacting provisions set out as a note under [section 609 of this title][/us/usc/t47/s609]\] shall take effect on the thirtieth day after the date of enactment of this Act \[Feb. 21, 1978\]; except that the provisions of sections 503(b) and 510 of the Communications Act of 1934 \[sections 503(b) and 510 of this title\], as in effect on such date of enactment, shall continue to constitute the applicable law with the respect to any act or omission which occurs prior to such thirtieth day.”
 
  __Applicability of Consent Decrees and Other Law__ 
 
-[Pub. L. 104–104, title VI, § 601][/us/pl/104/104/s601], Feb. 8, 1996, [110 Stat. 143][/us/stat/110/143], provided that:
+[Pub. L. 104–104, title VI][/us/pl/104/104/tVI], § 601, Feb. 8, 1996, [110 Stat. 143][/us/stat/110/143], provided that:
 
 >     “(a) __Applicability of Amendments to Future Conduct.—__ 
 
@@ -133,7 +133,7 @@
 
  __Preemption of Local Taxation With Respect to Direct-to-Home Services__ 
 
-[Pub. L. 104–104, title VI, § 602][/us/pl/104/104/s602], Feb. 8, 1996, [110 Stat. 144][/us/stat/110/144], provided that:
+[Pub. L. 104–104, title VI][/us/pl/104/104/tVI], § 602, Feb. 8, 1996, [110 Stat. 144][/us/stat/110/144], provided that:
 
 >     “(a)  __Preemption__  __.—__ 
 
@@ -179,19 +179,19 @@
 [/us/act/1934-06-19/ch652]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-19%2Fch652
 [/us/stat/48/1064]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F1064
 [/us/stat/60/1352]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F60%2F1352
-[/us/act/1954-04-27/ch175/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-04-27%2Fch175%2Fs1
+[/us/act/1954-04-27/ch175]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-04-27%2Fch175
 [/us/stat/68/63]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68%2F63
-[/us/pl/95/234/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F234%2Fs5
+[/us/pl/95/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F234
 [/us/stat/92/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F35
-[/us/pl/98/549/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F549%2Fs3%2Fa
+[/us/pl/98/549]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F549
 [/us/stat/98/2801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2801
-[/us/pl/101/166/s521/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F166%2Fs521%2F2
+[/us/pl/101/166/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F166%2FtV
 [/us/stat/103/1193]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1193
-[/us/pl/101/336/s401/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F336%2Fs401%2Fb%2F1
+[/us/pl/101/336/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F336%2FtIV
 [/us/stat/104/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F369
-[/us/pl/102/243/s3/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F243%2Fs3%2Fb
+[/us/pl/102/243]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F243
 [/us/stat/105/2401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F2401
-[/us/pl/103/66/s6002/b/2/B/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66%2Fs6002%2Fb%2F2%2FB%2Fi
+[/us/pl/103/66/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66%2FtVI
 [/us/stat/107/396]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F396
 [/us/act/1934-06-19/ch652]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-19%2Fch652
 [/us/stat/48/1064]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F1064
@@ -205,22 +205,22 @@
 [/us/pl/101/336]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F336
 [/us/pl/101/166]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F166
 [/us/pl/101/166]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F166
-[/us/pl/98/549/s3/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F549%2Fs3%2Fa%2F1
-[/us/pl/98/549/s3/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F549%2Fs3%2Fa%2F2
+[/us/pl/98/549]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F549
+[/us/pl/98/549]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F549
 [/us/usc/t47/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs301
 [/us/pl/95/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F234
 [/us/usc/t47/s224]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs224
-[/us/pl/101/166/s521/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F166%2Fs521%2F3
+[/us/pl/101/166/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F166%2FtV
 [/us/stat/103/1194]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1194
 [/us/usc/t47/s223]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs223
 [/us/pl/98/549]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F549
 [/us/pl/98/549/s9/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F549%2Fs9%2Fa
 [/us/usc/t47/s521]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs521
-[/us/pl/95/234/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F234%2Fs7
+[/us/pl/95/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F234
 [/us/stat/92/36]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F36
 [/us/usc/t47/s224]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs224
 [/us/usc/t47/s609]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs609
-[/us/pl/104/104/s601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F104%2Fs601
+[/us/pl/104/104/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F104%2FtVI
 [/us/stat/110/143]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F143
 [/us/usc/t47/s151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs151
 [/us/usc/t47/s609]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs609
@@ -232,7 +232,7 @@
 [/us/stat/49/1526]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F1526
 [/us/usc/t15/s13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs13
 [/us/usc/t15/s45]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs45
-[/us/pl/104/104/s602]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F104%2Fs602
+[/us/pl/104/104/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F104%2FtVI
 [/us/stat/110/144]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F144
 
 

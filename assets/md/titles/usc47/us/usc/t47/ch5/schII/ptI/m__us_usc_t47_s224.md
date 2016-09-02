@@ -97,23 +97,23 @@
 
         An entity that obtains an attachment to a pole, conduit, or right-of-way shall not be required to bear any of the costs of rearranging or replacing its attachment, if such rearrangement or replacement is required as a result of an additional attachment or the modification of an existing attachment sought by any other entity (including the owner of such pole, duct, conduit, or right-of-way).
 
-([June 19, 1934, ch. 652][/us/act/1934-06-19/ch652], title II, § 224, as added [Pub. L. 95–234, § 6][/us/pl/95/234/s6], Feb. 21, 1978, [92 Stat. 35][/us/stat/92/35]; amended [Pub. L. 97–259, title I, § 106][/us/pl/97/259/s106], Sept. 13, 1982, [96 Stat. 1091][/us/stat/96/1091]; [Pub. L. 98–549, § 4][/us/pl/98/549/s4], Oct. 30, 1984, [98 Stat. 2801][/us/stat/98/2801]; [Pub. L. 103–414, title III, § 304(a)(7)][/us/pl/103/414/s304/a/7], Oct. 25, 1994, [108 Stat. 4297][/us/stat/108/4297]; [Pub. L. 104–104, title VII, § 703][/us/pl/104/104/s703], Feb. 8, 1996, [110 Stat. 149][/us/stat/110/149].)
+([June 19, 1934, ch. 652][/us/act/1934-06-19/ch652], title II, § 224, as added [Pub. L. 95–234][/us/pl/95/234], § 6, Feb. 21, 1978, [92 Stat. 35][/us/stat/92/35]; amended [Pub. L. 97–259, title I][/us/pl/97/259/tI], § 106, Sept. 13, 1982, [96 Stat. 1091][/us/stat/96/1091]; [Pub. L. 98–549][/us/pl/98/549], § 4, Oct. 30, 1984, [98 Stat. 2801][/us/stat/98/2801]; [Pub. L. 103–414, title III][/us/pl/103/414/tIII], § 304(a)(7), Oct. 25, 1994, [108 Stat. 4297][/us/stat/108/4297]; [Pub. L. 104–104, title VII][/us/pl/104/104/tVII], § 703, Feb. 8, 1996, [110 Stat. 149][/us/stat/110/149].)
 
  __Amendments__ 
 
-    1996—Subsec. (a)(1). [Pub. L. 104–104, § 703(1)][/us/pl/104/104/s703/1], inserted first sentence and struck out former first sentence which read as follows: “The term ‘utility’ means any person whose rates or charges are regulated by the Federal Government or a State and who owns or controls poles, ducts, conduits, or rights-of-way used, in whole or in part, for wire communication.”
+    1996—Subsec. (a)(1). [Pub. L. 104–104][/us/pl/104/104], § 703(1), inserted first sentence and struck out former first sentence which read as follows: “The term ‘utility’ means any person whose rates or charges are regulated by the Federal Government or a State and who owns or controls poles, ducts, conduits, or rights-of-way used, in whole or in part, for wire communication.”
 
-    Subsec. (a)(4). [Pub. L. 104–104, § 703(2)][/us/pl/104/104/s703/2], inserted “or provider of telecommunications service” after “system”.
+    Subsec. (a)(4). [Pub. L. 104–104][/us/pl/104/104], § 703(2), inserted “or provider of telecommunications service” after “system”.
 
-    Subsec. (a)(5). [Pub. L. 104–104, § 703(3)][/us/pl/104/104/s703/3], added par. (5).
+    Subsec. (a)(5). [Pub. L. 104–104][/us/pl/104/104], § 703(3), added par. (5).
 
-    Subsec. (c)(1). [Pub. L. 104–104, § 703(4)][/us/pl/104/104/s703/4], inserted “, or access to poles, ducts, conduits, and rights-of-way as provided in subsection (f) of this section,” after “conditions”.
+    Subsec. (c)(1). [Pub. L. 104–104][/us/pl/104/104], § 703(4), inserted “, or access to poles, ducts, conduits, and rights-of-way as provided in subsection (f) of this section,” after “conditions”.
 
-    Subsec. (c)(2)(B). [Pub. L. 104–104, § 703(5)][/us/pl/104/104/s703/5], substituted “the services offered via such attachments” for “cable television services”.
+    Subsec. (c)(2)(B). [Pub. L. 104–104][/us/pl/104/104], § 703(5), substituted “the services offered via such attachments” for “cable television services”.
 
-    Subsec. (d)(3). [Pub. L. 104–104, § 703(6)][/us/pl/104/104/s703/6], added par. (3).
+    Subsec. (d)(3). [Pub. L. 104–104][/us/pl/104/104], § 703(6), added par. (3).
 
-    Subsecs. (e) to (i). [Pub. L. 104–104, § 703(7)][/us/pl/104/104/s703/7], added subsecs. (e) to (i).
+    Subsecs. (e) to (i). [Pub. L. 104–104][/us/pl/104/104], § 703(7), added subsecs. (e) to (i).
 
     1994—Subsec. (b)(2). [Pub. L. 103–414][/us/pl/103/414] substituted “The Commission” for “Within 180 days from February 21, 1978, the Commission”.
 
@@ -140,23 +140,23 @@
 [/us/usc/t47/s251/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs251%2Fh
 [/us/usc/t47/s312/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs312%2Fb
 [/us/act/1934-06-19/ch652]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-19%2Fch652
-[/us/pl/95/234/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F234%2Fs6
+[/us/pl/95/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F234
 [/us/stat/92/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F35
-[/us/pl/97/259/s106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F259%2Fs106
+[/us/pl/97/259/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F259%2FtI
 [/us/stat/96/1091]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1091
-[/us/pl/98/549/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F549%2Fs4
+[/us/pl/98/549]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F549
 [/us/stat/98/2801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2801
-[/us/pl/103/414/s304/a/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F414%2Fs304%2Fa%2F7
+[/us/pl/103/414/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F414%2FtIII
 [/us/stat/108/4297]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4297
-[/us/pl/104/104/s703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F104%2Fs703
+[/us/pl/104/104/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F104%2FtVII
 [/us/stat/110/149]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F149
-[/us/pl/104/104/s703/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F104%2Fs703%2F1
-[/us/pl/104/104/s703/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F104%2Fs703%2F2
-[/us/pl/104/104/s703/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F104%2Fs703%2F3
-[/us/pl/104/104/s703/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F104%2Fs703%2F4
-[/us/pl/104/104/s703/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F104%2Fs703%2F5
-[/us/pl/104/104/s703/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F104%2Fs703%2F6
-[/us/pl/104/104/s703/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F104%2Fs703%2F7
+[/us/pl/104/104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F104
+[/us/pl/104/104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F104
+[/us/pl/104/104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F104
+[/us/pl/104/104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F104
+[/us/pl/104/104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F104
+[/us/pl/104/104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F104
+[/us/pl/104/104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F104
 [/us/pl/103/414]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F414
 [/us/pl/98/549]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F549
 [/us/pl/97/259]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F259

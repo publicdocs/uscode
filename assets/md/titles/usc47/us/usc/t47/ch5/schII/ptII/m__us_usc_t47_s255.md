@@ -47,11 +47,11 @@
 
         Nothing in this section shall be construed to authorize any private right of action to enforce any requirement of this section or any regulation thereunder. The Commission shall have exclusive jurisdiction with respect to any complaint under this section.
 
-([June 19, 1934, ch. 652][/us/act/1934-06-19/ch652], title II, § 255, as added [Pub. L. 104–104, title I, § 101(a)][/us/pl/104/104/s101/a], Feb. 8, 1996, [110 Stat. 75][/us/stat/110/75].)
+([June 19, 1934, ch. 652][/us/act/1934-06-19/ch652], title II, § 255, as added [Pub. L. 104–104, title I][/us/pl/104/104/tI], § 101(a), Feb. 8, 1996, [110 Stat. 75][/us/stat/110/75].)
 
  __References in Text__ 
 
-    [Section 12102 of title 42][/us/usc/t42/s12102], referred to in subsec. (a)(1), was amended generally by [Pub. L. 110–325, § 4(a)][/us/pl/110/325/s4/a], Sept. 25, 2008, [122 Stat. 3555][/us/stat/122/3555], and, as so amended, provisions formerly appearing in par. (2)(A) are now contained in par. (1)(A).
+    [Section 12102 of title 42][/us/usc/t42/s12102], referred to in subsec. (a)(1), was amended generally by [Pub. L. 110–325][/us/pl/110/325], § 4(a), Sept. 25, 2008, [122 Stat. 3555][/us/stat/122/3555], and, as so amended, provisions formerly appearing in par. (2)(A) are now contained in par. (1)(A).
 
 ----------
 
@@ -62,10 +62,10 @@
 
 [/us/usc/t42/s12181/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs12181%2F9
 [/us/act/1934-06-19/ch652]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-19%2Fch652
-[/us/pl/104/104/s101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F104%2Fs101%2Fa
+[/us/pl/104/104/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F104%2FtI
 [/us/stat/110/75]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F75
 [/us/usc/t42/s12102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs12102
-[/us/pl/110/325/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F325%2Fs4%2Fa
+[/us/pl/110/325]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F325
 [/us/stat/122/3555]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3555
 
 

@@ -17,7 +17,7 @@
 
     Notwithstanding any provision of this chapter or any other provision of law or regulation, a ship documented under the laws of the United States operating in accordance with the Global Maritime Distress and Safety System provisions of the Safety of Life at Sea Convention shall not be required to be equipped with a radio telegraphy station operated by one or more radio officers or operators. This section shall take effect for each vessel upon a determination by the United States Coast Guard that such vessel has the equipment required to implement the Global Maritime Distress and Safety System installed and operating in good working condition.
 
-([June 19, 1934, ch. 652][/us/act/1934-06-19/ch652], title III, § 365, as added [Pub. L. 104–104, title II, § 206][/us/pl/104/104/s206], Feb. 8, 1996, [110 Stat. 114][/us/stat/110/114].)
+([June 19, 1934, ch. 652][/us/act/1934-06-19/ch652], title III, § 365, as added [Pub. L. 104–104, title II][/us/pl/104/104/tII], § 206, Feb. 8, 1996, [110 Stat. 114][/us/stat/110/114].)
 
  __References in Text__ 
 
@@ -35,7 +35,7 @@
 ----------
 
 [/us/act/1934-06-19/ch652]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-19%2Fch652
-[/us/pl/104/104/s206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F104%2Fs206
+[/us/pl/104/104/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F104%2FtII
 [/us/stat/110/114]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F114
 [/us/act/1934-06-19/ch652]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-19%2Fch652
 [/us/stat/48/1064]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F1064

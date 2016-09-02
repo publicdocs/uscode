@@ -17,7 +17,7 @@
 
     A telecommunications carrier shall ensure that any interception of communications or access to call-identifying information effected within its switching premises can be activated only in accordance with a court order or other lawful authorization and with the affirmative intervention of an individual officer or employee of the carrier acting in accordance with regulations prescribed by the Commission.
 
-([Pub. L. 103–414, title I, § 105][/us/pl/103/414/s105], Oct. 25, 1994, [108 Stat. 4283][/us/stat/108/4283].)
+([Pub. L. 103–414, title I][/us/pl/103/414/tI], § 105, Oct. 25, 1994, [108 Stat. 4283][/us/stat/108/4283].)
 
  __Effective Date__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/pl/103/414/s105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F414%2Fs105
+[/us/pl/103/414/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F414%2FtI
 [/us/stat/108/4283]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4283
 [/us/pl/103/414/s111/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F414%2Fs111%2Fb
 [/us/usc/t47/s1001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs1001

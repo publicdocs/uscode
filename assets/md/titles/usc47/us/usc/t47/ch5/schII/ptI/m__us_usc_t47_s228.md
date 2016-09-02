@@ -289,7 +289,7 @@
 
         (2) Such term does not include directory services provided by a common carrier or its affiliate or by a local exchange carrier or its affiliate, or any service for which users are assessed charges only after entering into a presubscription or comparable arrangement with the provider of such service.
 
-([June 19, 1934, ch. 652][/us/act/1934-06-19/ch652], title II, § 228, as added [Pub. L. 102–556, title I, § 101][/us/pl/102/556/s101], Oct. 28, 1992, [106 Stat. 4182][/us/stat/106/4182]; amended [Pub. L. 103–414, title III, § 303(a)(13)][/us/pl/103/414/s303/a/13], (14), Oct. 25, 1994, [108 Stat. 4294][/us/stat/108/4294]; [Pub. L. 104–104, title VII, § 701(a)(1)][/us/pl/104/104/s701/a/1], (b)(2), Feb. 8, 1996, [110 Stat. 145][/us/stat/110/145], 148.)
+([June 19, 1934, ch. 652][/us/act/1934-06-19/ch652], title II, § 228, as added [Pub. L. 102–556, title I][/us/pl/102/556/tI], § 101, Oct. 28, 1992, [106 Stat. 4182][/us/stat/106/4182]; amended [Pub. L. 103–414, title III][/us/pl/103/414/tIII], § 303(a)(13), (14), Oct. 25, 1994, [108 Stat. 4294][/us/stat/108/4294]; [Pub. L. 104–104, title VII][/us/pl/104/104/tVII], § 701(a)(1), (b)(2), Feb. 8, 1996, [110 Stat. 145][/us/stat/110/145], 148.)
 
  __References in Text__ 
 
@@ -299,27 +299,27 @@
 
  __Amendments__ 
 
-    1996—Subsec. (c)(7)(C). [Pub. L. 104–104, § 701(a)(1)(A)][/us/pl/104/104/s701/a/1/A], added subpar. (C) and struck out former subpar. (C) which read as follows: “the calling party being charged for information conveyed during the call unless the calling party has a preexisting agreement to be charged for the information or discloses a credit or charge card number during the call; or”.
+    1996—Subsec. (c)(7)(C). [Pub. L. 104–104][/us/pl/104/104], § 701(a)(1)(A), added subpar. (C) and struck out former subpar. (C) which read as follows: “the calling party being charged for information conveyed during the call unless the calling party has a preexisting agreement to be charged for the information or discloses a credit or charge card number during the call; or”.
 
-    Subsec. (c)(7)(E). [Pub. L. 104–104, § 701(a)(1)(B)][/us/pl/104/104/s701/a/1/B], added subpar. (E).
+    Subsec. (c)(7)(E). [Pub. L. 104–104][/us/pl/104/104], § 701(a)(1)(B), added subpar. (E).
 
-    Subsec. (c)(8) to (11). [Pub. L. 104–104, § 701(a)(1)(C)][/us/pl/104/104/s701/a/1/C], added pars. (8) to (11).
+    Subsec. (c)(8) to (11). [Pub. L. 104–104][/us/pl/104/104], § 701(a)(1)(C), added pars. (8) to (11).
 
-    Subsec. (i)(2). [Pub. L. 104–104, § 701(b)(2)][/us/pl/104/104/s701/b/2], struck out “or any service the charge for which is tariffed,” after “local exchange carrier or its affiliate,”.
+    Subsec. (i)(2). [Pub. L. 104–104][/us/pl/104/104], § 701(b)(2), struck out “or any service the charge for which is tariffed,” after “local exchange carrier or its affiliate,”.
 
-    1994—Subsec. (c)(2) to (7). [Pub. L. 103–414, § 303(a)(13)][/us/pl/103/414/s303/a/13], redesignated par. (2), relating to compliance procedures, as (3) and pars. (3) to (6) as (4) to (7), respectively.
+    1994—Subsec. (c)(2) to (7). [Pub. L. 103–414][/us/pl/103/414], § 303(a)(13), redesignated par. (2), relating to compliance procedures, as (3) and pars. (3) to (6) as (4) to (7), respectively.
 
-    Subsec. (c)(7)(D). [Pub. L. 103–414, § 303(a)(14)][/us/pl/103/414/s303/a/14], which directed substitution of “conversation” for “conservation” in par. (6)(D), was executed by making the substitution in par. (7)(D) to reflect the probable intent of Congress and the redesignation of par. (6) as (7) by [Pub. L. 103–414, § 303(a)(13)][/us/pl/103/414/s303/a/13]. See above.
+    Subsec. (c)(7)(D). [Pub. L. 103–414][/us/pl/103/414], § 303(a)(14), which directed substitution of “conversation” for “conservation” in par. (6)(D), was executed by making the substitution in par. (7)(D) to reflect the probable intent of Congress and the redesignation of par. (6) as (7) by [Pub. L. 103–414][/us/pl/103/414], § 303(a)(13). See above.
 
  __Effective Date of 1996 Amendment__ 
 
-[Pub. L. 104–104, title VII, § 701(a)(3)][/us/pl/104/104/s701/a/3], Feb. 8, 1996, [110 Stat. 147][/us/stat/110/147], provided that: 
+[Pub. L. 104–104, title VII][/us/pl/104/104/tVII], § 701(a)(3), Feb. 8, 1996, [110 Stat. 147][/us/stat/110/147], provided that: 
 
 > “The amendments made by paragraph (1) \[amending this section\] shall take effect on the date of enactment of this Act \[Feb. 8, 1996\].”
 
  __Regulations__ 
 
-[Pub. L. 104–104, title VII, § 701(a)(2)][/us/pl/104/104/s701/a/2], Feb. 8, 1996, [110 Stat. 147][/us/stat/110/147], provided that: 
+[Pub. L. 104–104, title VII][/us/pl/104/104/tVII], § 701(a)(2), Feb. 8, 1996, [110 Stat. 147][/us/stat/110/147], provided that: 
 
 > “The Federal Communications Commission shall revise its regulations to comply with the amendment made by paragraph (1) \[amending this section\] not later than 180 days after the date of enactment of this Act \[Feb. 8, 1996\].”
 
@@ -338,11 +338,11 @@
 [/us/usc/t15/s5711]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs5711
 [/us/usc/t47/s223]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs223
 [/us/act/1934-06-19/ch652]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-19%2Fch652
-[/us/pl/102/556/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F556%2Fs101
+[/us/pl/102/556/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F556%2FtI
 [/us/stat/106/4182]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4182
-[/us/pl/103/414/s303/a/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F414%2Fs303%2Fa%2F13
+[/us/pl/103/414/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F414%2FtIII
 [/us/stat/108/4294]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4294
-[/us/pl/104/104/s701/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F104%2Fs701%2Fa%2F1
+[/us/pl/104/104/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F104%2FtVII
 [/us/stat/110/145]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F145
 [/us/act/1934-06-19/ch652]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-19%2Fch652
 [/us/stat/48/1064]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F1064
@@ -350,16 +350,16 @@
 [/us/pl/102/556]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F556
 [/us/stat/106/4181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4181
 [/us/usc/t15/s5701/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs5701%2Fa
-[/us/pl/104/104/s701/a/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F104%2Fs701%2Fa%2F1%2FA
-[/us/pl/104/104/s701/a/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F104%2Fs701%2Fa%2F1%2FB
-[/us/pl/104/104/s701/a/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F104%2Fs701%2Fa%2F1%2FC
-[/us/pl/104/104/s701/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F104%2Fs701%2Fb%2F2
-[/us/pl/103/414/s303/a/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F414%2Fs303%2Fa%2F13
-[/us/pl/103/414/s303/a/14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F414%2Fs303%2Fa%2F14
-[/us/pl/103/414/s303/a/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F414%2Fs303%2Fa%2F13
-[/us/pl/104/104/s701/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F104%2Fs701%2Fa%2F3
+[/us/pl/104/104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F104
+[/us/pl/104/104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F104
+[/us/pl/104/104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F104
+[/us/pl/104/104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F104
+[/us/pl/103/414]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F414
+[/us/pl/103/414]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F414
+[/us/pl/103/414]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F414
+[/us/pl/104/104/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F104%2FtVII
 [/us/stat/110/147]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F147
-[/us/pl/104/104/s701/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F104%2Fs701%2Fa%2F2
+[/us/pl/104/104/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F104%2FtVII
 [/us/stat/110/147]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F147
 
 

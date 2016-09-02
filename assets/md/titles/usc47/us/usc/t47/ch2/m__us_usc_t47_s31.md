@@ -17,7 +17,7 @@
 
     The provisions of sections 391–396 of title 33 shall extend to the trial of offenses against the provisions of sections 24 and 25 of this title.
 
-([Feb. 29, 1888, ch. 17, § 11][/us/act/1888-02-29/ch17/s11], [25 Stat. 42][/us/stat/25/42].)
+([Feb. 29, 1888, ch. 17][/us/act/1888-02-29/ch17], § 11, [25 Stat. 42][/us/stat/25/42].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/act/1888-02-29/ch17/s11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1888-02-29%2Fch17%2Fs11
+[/us/act/1888-02-29/ch17]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1888-02-29%2Fch17
 [/us/stat/25/42]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F25%2F42
 
 

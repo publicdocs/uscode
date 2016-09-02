@@ -135,7 +135,7 @@
 
             (B) the Commission determines that such State program is no longer qualified for certification under subsection (f) of this section.
 
-([June 19, 1934, ch. 652][/us/act/1934-06-19/ch652], title II, § 225, as added [Pub. L. 101–336, title IV, § 401(a)][/us/pl/101/336/s401/a], July 26, 1990, [104 Stat. 366][/us/stat/104/366]; amended [Pub. L. 104–104, § 3(d)(1)][/us/pl/104/104/s3/d/1], Feb. 8, 1996, [110 Stat. 61][/us/stat/110/61]; [Pub. L. 111–260, title I, § 103(a)][/us/pl/111/260/s103/a], Oct. 8, 2010, [124 Stat. 2755][/us/stat/124/2755].)
+([June 19, 1934, ch. 652][/us/act/1934-06-19/ch652], title II, § 225, as added [Pub. L. 101–336, title IV][/us/pl/101/336/tIV], § 401(a), July 26, 1990, [104 Stat. 366][/us/stat/104/366]; amended [Pub. L. 104–104][/us/pl/104/104], § 3(d)(1), Feb. 8, 1996, [110 Stat. 61][/us/stat/110/61]; [Pub. L. 111–260, title I][/us/pl/111/260/tI], § 103(a), Oct. 8, 2010, [124 Stat. 2755][/us/stat/124/2755].)
 
  __References in Text__ 
 
@@ -159,11 +159,11 @@
 [/us/usc/t47/s157/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs157%2Fa
 [/us/usc/t47/s410]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs410
 [/us/act/1934-06-19/ch652]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-19%2Fch652
-[/us/pl/101/336/s401/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F336%2Fs401%2Fa
+[/us/pl/101/336/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F336%2FtIV
 [/us/stat/104/366]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F366
-[/us/pl/104/104/s3/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F104%2Fs3%2Fd%2F1
+[/us/pl/104/104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F104
 [/us/stat/110/61]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F61
-[/us/pl/111/260/s103/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F260%2Fs103%2Fa
+[/us/pl/111/260/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F260%2FtI
 [/us/stat/124/2755]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2755
 [/us/act/1934-06-19/ch652]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-19%2Fch652
 [/us/stat/48/1064]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F1064

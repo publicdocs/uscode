@@ -113,7 +113,7 @@
 
         The Advisory Committee shall consult with the National Institute of Standards and Technology in its work on developing recommendations under paragraphs (2) and (3) of subsection (c).
 
-([Pub. L. 109–347, title VI, § 603][/us/pl/109/347/s603], Oct. 13, 2006, [120 Stat. 1938][/us/stat/120/1938].)
+([Pub. L. 109–347, title VI][/us/pl/109/347/tVI], § 603, Oct. 13, 2006, [120 Stat. 1938][/us/stat/120/1938].)
 
  __References in Text__ 
 
@@ -127,7 +127,7 @@
 ----------
 
 [/us/usc/t47/s1201/b/2/E]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs1201%2Fb%2F2%2FE
-[/us/pl/109/347/s603]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F347%2Fs603
+[/us/pl/109/347/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F347%2FtVI
 [/us/stat/120/1938]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1938
 [/us/pl/92/463]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F463
 [/us/stat/86/770]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F770

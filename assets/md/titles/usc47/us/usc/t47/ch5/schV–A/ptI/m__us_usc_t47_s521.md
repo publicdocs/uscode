@@ -29,11 +29,11 @@
 
     (6) promote competition in cable communications and minimize unnecessary regulation that would impose an undue economic burden on cable systems.
 
-([June 19, 1934, ch. 652][/us/act/1934-06-19/ch652], title VI, § 601, as added [Pub. L. 98–549, § 2][/us/pl/98/549/s2], Oct. 30, 1984, [98 Stat. 2780][/us/stat/98/2780].)
+([June 19, 1934, ch. 652][/us/act/1934-06-19/ch652], title VI, § 601, as added [Pub. L. 98–549][/us/pl/98/549], § 2, Oct. 30, 1984, [98 Stat. 2780][/us/stat/98/2780].)
 
  __Effective Date__ 
 
-[Pub. L. 98–549, § 9(a)][/us/pl/98/549/s9/a], Oct. 30, 1984, [98 Stat. 2806][/us/stat/98/2806], provided that: 
+[Pub. L. 98–549][/us/pl/98/549], § 9(a), Oct. 30, 1984, [98 Stat. 2806][/us/stat/98/2806], provided that: 
 
 > “Except where otherwise expressly provided, the provisions of this Act \[enacting this subchapter and [section 611 of this title][/us/usc/t47/s611], amending sections 152, 224, 309, and 605 of this title, [section 2511 of Title 18][/us/usc/t18/s2511], Crimes and Criminal Procedure, and [section 1805 of Title 50][/us/usc/t50/s1805], War and National Defense, and enacting provisions set out as notes under this section and sections 543, 605, and 609 of this title\] and the amendments made thereby shall take effect 60 days after the date of enactment of this Act \[Oct. 30, 1984\].”
 
@@ -43,7 +43,7 @@
 
  __Congressional Findings and Policy for__  __[__  __Pub. L. 102–385__  __][/us/pl/102/385]__ 
 
-[Pub. L. 102–385, § 2(a)][/us/pl/102/385/s2/a], (b), Oct. 5, 1992, [106 Stat. 1460][/us/stat/106/1460], 1463, provided that:
+[Pub. L. 102–385][/us/pl/102/385], § 2(a), (b), Oct. 5, 1992, [106 Stat. 1460][/us/stat/106/1460], 1463, provided that:
 
 >     “(a)  __Findings__  __.—__ 
 
@@ -117,17 +117,17 @@
 
  __Sports Programming Migration Study and Report__ 
 
-    [Pub. L. 102–385, § 26][/us/pl/102/385/s26], Oct. 5, 1992, [106 Stat. 1502][/us/stat/106/1502], directed Federal Communications Commission to investigate and analyze, on a sport-by-sport basis, trends in migration of local, regional, and national sports programming from carriage by broadcast stations to carriage over cable programming networks and pay-per-view systems, including economic causes and consequences of such trends, and further directed Commission to submit to Congress interim and final reports of such study, no later than July 1, 1993, and July 1, 1994, respectively, along with recommendations for legislative or regulatory activity.
+    [Pub. L. 102–385][/us/pl/102/385], § 26, Oct. 5, 1992, [106 Stat. 1502][/us/stat/106/1502], directed Federal Communications Commission to investigate and analyze, on a sport-by-sport basis, trends in migration of local, regional, and national sports programming from carriage by broadcast stations to carriage over cable programming networks and pay-per-view systems, including economic causes and consequences of such trends, and further directed Commission to submit to Congress interim and final reports of such study, no later than July 1, 1993, and July 1, 1994, respectively, along with recommendations for legislative or regulatory activity.
 
  __Applicability of Antitrust Laws to__  __[__  __Pub. L. 102–385__  __][/us/pl/102/385]__ 
 
-[Pub. L. 102–385, § 27][/us/pl/102/385/s27], Oct. 5, 1992, [106 Stat. 1503][/us/stat/106/1503], provided that: 
+[Pub. L. 102–385][/us/pl/102/385], § 27, Oct. 5, 1992, [106 Stat. 1503][/us/stat/106/1503], provided that: 
 
 > “Nothing in this Act \[enacting sections 334, 335, 534 to 537, 544a, 548, and 555a of this title, amending sections 325, 332, 522, 532, 533, 541 to 544, 546, 551 to 555, and 558 of this title, and enacting provisions set out as notes under this section and sections 325, 531, 543, and 554 of this title\] or the amendments made by this Act shall be construed to alter or restrict in any manner the applicability of any Federal or State antitrust law.”
 
  __Effect of Cable Communications Policy Act of 1984 on Jurisdiction of Federal Communications Commission Respecting Wire or Radio Communications Through Cable Systems__ 
 
-[Pub. L. 98–549, § 3(b)][/us/pl/98/549/s3/b], Oct. 30, 1984, [98 Stat. 2801][/us/stat/98/2801], provided that: 
+[Pub. L. 98–549][/us/pl/98/549], § 3(b), Oct. 30, 1984, [98 Stat. 2801][/us/stat/98/2801], provided that: 
 
 > “The provisions of this Act \[enacting this subchapter and [section 611 of this title][/us/usc/t47/s611], amending sections 152, 224, 309, and 605 of this title, [section 2511 of Title 18][/us/usc/t18/s2511], Crimes and Criminal Procedure, and [section 1805 of Title 50][/us/usc/t50/s1805], War and National Defense, and enacting provisions set out as notes under this section and sections 543, 605, and 609 of this title\] and amendments made by this Act shall not be construed to affect any jurisdiction the Federal Communications Commission may have under the Communications Act of 1934 \[this chapter\] with respect to any communication by wire or radio (other than cable service, as defined in section 602(5) of such Act \[[section 522(5) of this title][/us/usc/t47/s522/5]\]) which is provided through a cable system, or persons or facilities engaged in such communications.”
 
@@ -139,9 +139,9 @@
 ----------
 
 [/us/act/1934-06-19/ch652]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-19%2Fch652
-[/us/pl/98/549/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F549%2Fs2
+[/us/pl/98/549]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F549
 [/us/stat/98/2780]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2780
-[/us/pl/98/549/s9/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F549%2Fs9%2Fa
+[/us/pl/98/549]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F549
 [/us/stat/98/2806]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2806
 [/us/usc/t47/s611]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs611
 [/us/usc/t18/s2511]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs2511
@@ -150,7 +150,7 @@
 [/us/pl/98/549/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F549%2Fs1%2Fa
 [/us/usc/t47/s609]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs609
 [/us/pl/102/385]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F385
-[/us/pl/102/385/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F385%2Fs2%2Fa
+[/us/pl/102/385]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F385
 [/us/stat/106/1460]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F1460
 [/us/pl/98/549]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F549
 [/us/usc/t47/s611]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs611
@@ -159,12 +159,12 @@
 [/us/usc/t47/s396/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs396%2Fa%2F5
 [/us/usc/t47/s307/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs307%2Fb
 [/us/usc/t47/s151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs151
-[/us/pl/102/385/s26]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F385%2Fs26
+[/us/pl/102/385]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F385
 [/us/stat/106/1502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F1502
 [/us/pl/102/385]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F385
-[/us/pl/102/385/s27]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F385%2Fs27
+[/us/pl/102/385]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F385
 [/us/stat/106/1503]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F1503
-[/us/pl/98/549/s3/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F549%2Fs3%2Fb
+[/us/pl/98/549]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F549
 [/us/stat/98/2801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2801
 [/us/usc/t47/s611]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs611
 [/us/usc/t18/s2511]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs2511

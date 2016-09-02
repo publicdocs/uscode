@@ -183,7 +183,7 @@
 
         The Assistant Secretary shall have the authority to prescribe such rules as are necessary to carry out the purposes of this section.
 
-([Pub. L. 111–5, div. B, title VI, § 6001][/us/pl/111/5/s6001], Feb. 17, 2009, [123 Stat. 512][/us/stat/123/512].)
+([Pub. L. 111–5, div. B, title VI][/us/pl/111/5/dB/tVI], § 6001, Feb. 17, 2009, [123 Stat. 512][/us/stat/123/512].)
 
  __References in Text__ 
 
@@ -203,7 +203,7 @@
 [/us/usc/t25/s450b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs450b
 [/us/usc/t15/s637/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs637%2Fa
 [/us/usc/t47/s1301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs1301
-[/us/pl/111/5/s6001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5%2Fs6001
+[/us/pl/111/5/dB/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5%2FdB%2FtVI
 [/us/stat/123/512]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F512
 [/us/pl/110/385]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F385
 [/us/stat/122/4096]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4096

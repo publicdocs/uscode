@@ -17,7 +17,7 @@
 
     The penalties provided in this chapter for the breaking or injury of a submarine cable shall not be a bar to a suit for damages on account of such breaking or injury.
 
-([Feb. 29, 1888, ch. 17, § 8][/us/act/1888-02-29/ch17/s8], [25 Stat. 42][/us/stat/25/42].)
+([Feb. 29, 1888, ch. 17][/us/act/1888-02-29/ch17], § 8, [25 Stat. 42][/us/stat/25/42].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/act/1888-02-29/ch17/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1888-02-29%2Fch17%2Fs8
+[/us/act/1888-02-29/ch17]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1888-02-29%2Fch17
 [/us/stat/25/42]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F25%2F42
 
 

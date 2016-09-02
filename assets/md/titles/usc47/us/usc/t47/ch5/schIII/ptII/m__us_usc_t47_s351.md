@@ -31,7 +31,7 @@
 
     (b) A ship which is not subject to the provisions of this part at the time of its departure on a voyage shall not become subject to such provisions on account of any deviation from its intended voyage due to stress of weather or any other cause over which neither the master, the owner, nor the charterer (if any) has control.
 
-([June 19, 1934, ch. 652][/us/act/1934-06-19/ch652], title III, § 351, as added [May 20, 1937, ch. 229, § 10(b)][/us/act/1937-05-20/ch229/s10/b], [50 Stat. 192][/us/stat/50/192]; amended [Aug. 13, 1954, ch. 729, § 1(a)][/us/act/1954-08-13/ch729/s1/a], [68 Stat. 704][/us/stat/68/704]; [Pub. L. 89–121, § 2][/us/pl/89/121/s2], Aug. 13, 1965, [79 Stat. 512][/us/stat/79/512].)
+([June 19, 1934, ch. 652][/us/act/1934-06-19/ch652], title III, § 351, as added [May 20, 1937, ch. 229][/us/act/1937-05-20/ch229], § 10(b), [50 Stat. 192][/us/stat/50/192]; amended [Aug. 13, 1954, ch. 729][/us/act/1954-08-13/ch729], § 1(a), [68 Stat. 704][/us/stat/68/704]; [Pub. L. 89–121][/us/pl/89/121], § 2, Aug. 13, 1965, [79 Stat. 512][/us/stat/79/512].)
 
  __References in Text__ 
 
@@ -63,11 +63,11 @@ Section 16 of act May 20, 1937, provided that:
 ----------
 
 [/us/act/1934-06-19/ch652]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-19%2Fch652
-[/us/act/1937-05-20/ch229/s10/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1937-05-20%2Fch229%2Fs10%2Fb
+[/us/act/1937-05-20/ch229]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1937-05-20%2Fch229
 [/us/stat/50/192]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F50%2F192
-[/us/act/1954-08-13/ch729/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-13%2Fch729%2Fs1%2Fa
+[/us/act/1954-08-13/ch729]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-13%2Fch729
 [/us/stat/68/704]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68%2F704
-[/us/pl/89/121/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F121%2Fs2
+[/us/pl/89/121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F121
 [/us/stat/79/512]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F512
 [/us/act/1934-06-19/ch652]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-19%2Fch652
 [/us/stat/48/1064]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F1064

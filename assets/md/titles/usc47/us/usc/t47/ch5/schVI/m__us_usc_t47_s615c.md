@@ -113,11 +113,11 @@
 
         (3) except as otherwise expressly provided, other terms have the meanings given such terms in [section 153 of this title][/us/usc/t47/s153].
 
-([Pub. L. 111–260, title I, § 106][/us/pl/111/260/s106], Oct. 8, 2010, [124 Stat. 2762][/us/stat/124/2762].)
+([Pub. L. 111–260, title I][/us/pl/111/260/tI], § 106, Oct. 8, 2010, [124 Stat. 2762][/us/stat/124/2762].)
 
  __References in Text__ 
 
-    Section 158(e)(4) of the National Telecommunications and Information Administration Organization Act, referred to in subsec. (c)(7), probably means [section 158(f)(4) of title I of Pub. L. 102–538][/us/pl/102/538/s158/f/4], which was formerly classified to [section 942(f)(4) of this title][/us/usc/t47/s942/f/4] and was omitted from the Code.
+    Section 158(e)(4) of the National Telecommunications and Information Administration Organization Act, referred to in subsec. (c)(7), probably means [section 158(f)(4) of title I of Pub. L. 102–538][/us/pl/102/538/tI/s158/f/4], which was formerly classified to [section 942(f)(4) of this title][/us/usc/t47/s942/f/4] and was omitted from the Code.
 
     The Federal Advisory Committee Act, referred to in subsec. (f), is [Pub. L. 92–463][/us/pl/92/463], Oct. 6, 1972, [86 Stat. 770][/us/stat/86/770], which is set out in the Appendix to Title 5, Government Organization and Employees.
 
@@ -134,9 +134,9 @@
 
 [/us/usc/t47/s942/e/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs942%2Fe%2F4
 [/us/usc/t47/s153]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs153
-[/us/pl/111/260/s106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F260%2Fs106
+[/us/pl/111/260/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F260%2FtI
 [/us/stat/124/2762]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2762
-[/us/pl/102/538/s158/f/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F538%2Fs158%2Ff%2F4
+[/us/pl/102/538/tI/s158/f/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F538%2FtI%2Fs158%2Ff%2F4
 [/us/usc/t47/s942/f/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs942%2Ff%2F4
 [/us/pl/92/463]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F463
 [/us/stat/86/770]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F770

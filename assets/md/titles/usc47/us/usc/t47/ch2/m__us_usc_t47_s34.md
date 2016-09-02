@@ -17,7 +17,7 @@
 
     No person shall land or operate in the United States any submarine cable directly or indirectly connecting the United States with any foreign country, or connecting one portion of the United States with any other portion thereof, unless a written license to land or operate such cable has been issued by the President of the United States. The conditions of sections 34 to 39 of this title shall not apply to cables, all of which, including both terminals, lie wholly within the continental United States.
 
-([May 27, 1921, ch. 12, § 1][/us/act/1921-05-27/ch12/s1], [42 Stat. 8][/us/stat/42/8].)
+([May 27, 1921, ch. 12][/us/act/1921-05-27/ch12], § 1, [42 Stat. 8][/us/stat/42/8].)
 
  __Codification__ 
 
@@ -34,7 +34,7 @@
 ----------
 ----------
 
-[/us/act/1921-05-27/ch12/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1921-05-27%2Fch12%2Fs1
+[/us/act/1921-05-27/ch12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1921-05-27%2Fch12
 [/us/stat/42/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F42%2F8
 [/us/usc/t3/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft3%2Fs301
 

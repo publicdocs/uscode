@@ -25,7 +25,7 @@
 
         (3) shall not apply the requirements of this subsection to any cable operator in any franchise area in which a cable operator is subject to effective competition as determined under section 543(l) of this title.
 
-    (b) __Repealed.__  __[__  __Pub. L. 104–104, title III, § 302(b)(1)__  __][/us/pl/104/104/s302/b/1]__  __,__  __Feb. 8, 1996__  __,__  __[__  __110 Stat. 124__  __][/us/stat/110/124]__ 
+    (b) __Repealed.__  __[__  __Pub. L. 104–104, title III__  __][/us/pl/104/104/tIII]__  __, § 302(b)(1),__  __Feb. 8, 1996__  __,__  __[__  __110 Stat. 124__  __][/us/stat/110/124]__ 
 
     (c) __Promulgation of rules__ 
 
@@ -79,21 +79,21 @@
 
         For purposes of this section, the term “media of mass communications” shall have the meaning given such term under [section 309(i)(3)(C)(i) of this title][/us/usc/t47/s309/i/3/C/i].
 
-([June 19, 1934, ch. 652][/us/act/1934-06-19/ch652], title VI, § 613, as added [Pub. L. 98–549, § 2][/us/pl/98/549/s2], Oct. 30, 1984, [98 Stat. 2785][/us/stat/98/2785]; amended [Pub. L. 102–385, § 11][/us/pl/102/385/s11], Oct. 5, 1992, [106 Stat. 1486][/us/stat/106/1486]; [Pub. L. 103–414, title III, § 303(a)(22)][/us/pl/103/414/s303/a/22], Oct. 25, 1994, [108 Stat. 4295][/us/stat/108/4295]; [Pub. L. 104–104, title II, § 202(i)][/us/pl/104/104/s202/i], title III, §§ 302(b)(1), Feb. 8, 1996, [110 Stat. 112][/us/stat/110/112], 124.)
+([June 19, 1934, ch. 652][/us/act/1934-06-19/ch652], title VI, § 613, as added [Pub. L. 98–549][/us/pl/98/549], § 2, Oct. 30, 1984, [98 Stat. 2785][/us/stat/98/2785]; amended [Pub. L. 102–385][/us/pl/102/385], § 11, Oct. 5, 1992, [106 Stat. 1486][/us/stat/106/1486]; [Pub. L. 103–414, title III][/us/pl/103/414/tIII], § 303(a)(22), Oct. 25, 1994, [108 Stat. 4295][/us/stat/108/4295]; [Pub. L. 104–104, title II][/us/pl/104/104/tII], § 202(i), title III, §§ 302(b)(1), Feb. 8, 1996, [110 Stat. 112][/us/stat/110/112], 124.)
 
  __Amendments__ 
 
-    1996—Subsec. (a). [Pub. L. 104–104, § 202(i)][/us/pl/104/104/s202/i], redesignated par. (2) as subsec. (a) and subpars. (A) and (B) of par. (2) as pars. (1) and (2) of subsec. (a), respectively, added par. (3), and struck out former par. (1) which read as follows: “It shall be unlawful for any person to be a cable operator if such person, directly or through 1 or more affiliates, owns or controls, the licensee of a television broadcast station and the predicted grade B contour of such station covers any portion of the community served by such operator’s cable system.”
+    1996—Subsec. (a). [Pub. L. 104–104][/us/pl/104/104], § 202(i), redesignated par. (2) as subsec. (a) and subpars. (A) and (B) of par. (2) as pars. (1) and (2) of subsec. (a), respectively, added par. (3), and struck out former par. (1) which read as follows: “It shall be unlawful for any person to be a cable operator if such person, directly or through 1 or more affiliates, owns or controls, the licensee of a television broadcast station and the predicted grade B contour of such station covers any portion of the community served by such operator’s cable system.”
 
-    Subsec. (b). [Pub. L. 104–104, § 302(b)(1)][/us/pl/104/104/s302/b/1], struck out subsec. (b), which related to common carriers, direct video programming, an exception for rural areas, and waiver.
+    Subsec. (b). [Pub. L. 104–104][/us/pl/104/104], § 302(b)(1), struck out subsec. (b), which related to common carriers, direct video programming, an exception for rural areas, and waiver.
 
     1994—Subsec. (b)(2). [Pub. L. 103–414][/us/pl/103/414] substituted “pole, line, conduit space” for “pole line conduit space”.
 
-    1992—Subsec. (a). [Pub. L. 102–385, § 11(a)][/us/pl/102/385/s11/a], designated existing provisions as par. (1) and added par. (2).
+    1992—Subsec. (a). [Pub. L. 102–385][/us/pl/102/385], § 11(a), designated existing provisions as par. (1) and added par. (2).
 
-    Subsec. (d). [Pub. L. 102–385, § 11(b)][/us/pl/102/385/s11/b], substituted “any other media” for “any media” and inserted at end “Nothing in this section shall be construed to prevent any State or franchising authority from prohibiting the ownership or control of a cable system in a jurisdiction by any person (1) because of such person’s ownership or control of any other cable system in such jurisdiction; or (2) in circumstances in which the State or franchising authority determines that the acquisition of such a cable system may eliminate or reduce competition in the delivery of cable service in such jurisdiction.”
+    Subsec. (d). [Pub. L. 102–385][/us/pl/102/385], § 11(b), substituted “any other media” for “any media” and inserted at end “Nothing in this section shall be construed to prevent any State or franchising authority from prohibiting the ownership or control of a cable system in a jurisdiction by any person (1) because of such person’s ownership or control of any other cable system in such jurisdiction; or (2) in circumstances in which the State or franchising authority determines that the acquisition of such a cable system may eliminate or reduce competition in the delivery of cable service in such jurisdiction.”
 
-    Subsecs. (f) to (h). [Pub. L. 102–385, § 11(c)][/us/pl/102/385/s11/c], added subsec. (f) and redesignated former subsecs. (f) and (g) as (g) and (h), respectively.
+    Subsecs. (f) to (h). [Pub. L. 102–385][/us/pl/102/385], § 11(c), added subsec. (f) and redesignated former subsecs. (f) and (g) as (g) and (h), respectively.
 
  __Effective Date of 1992 Amendment__ 
 
@@ -110,24 +110,24 @@
 ----------
 ----------
 
-[/us/pl/104/104/s302/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F104%2Fs302%2Fb%2F1
+[/us/pl/104/104/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F104%2FtIII
 [/us/stat/110/124]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F124
 [/us/usc/t47/s309/i/3/C/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs309%2Fi%2F3%2FC%2Fi
 [/us/act/1934-06-19/ch652]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-19%2Fch652
-[/us/pl/98/549/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F549%2Fs2
+[/us/pl/98/549]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F549
 [/us/stat/98/2785]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2785
-[/us/pl/102/385/s11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F385%2Fs11
+[/us/pl/102/385]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F385
 [/us/stat/106/1486]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F1486
-[/us/pl/103/414/s303/a/22]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F414%2Fs303%2Fa%2F22
+[/us/pl/103/414/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F414%2FtIII
 [/us/stat/108/4295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4295
-[/us/pl/104/104/s202/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F104%2Fs202%2Fi
+[/us/pl/104/104/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F104%2FtII
 [/us/stat/110/112]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F112
-[/us/pl/104/104/s202/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F104%2Fs202%2Fi
-[/us/pl/104/104/s302/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F104%2Fs302%2Fb%2F1
+[/us/pl/104/104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F104
+[/us/pl/104/104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F104
 [/us/pl/103/414]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F414
-[/us/pl/102/385/s11/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F385%2Fs11%2Fa
-[/us/pl/102/385/s11/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F385%2Fs11%2Fb
-[/us/pl/102/385/s11/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F385%2Fs11%2Fc
+[/us/pl/102/385]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F385
+[/us/pl/102/385]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F385
+[/us/pl/102/385]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F385
 [/us/pl/102/385]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F385
 [/us/pl/102/385/s28]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F385%2Fs28
 [/us/usc/t47/s325]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs325

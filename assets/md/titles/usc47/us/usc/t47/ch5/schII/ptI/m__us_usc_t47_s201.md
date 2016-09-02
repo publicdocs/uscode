@@ -31,7 +31,7 @@
 
  __Telephone Rates for Members of Armed Forces Deployed Abroad__ 
 
-[Pub. L. 109–459, § 2][/us/pl/109/459/s2], Dec. 22, 2006, [120 Stat. 3399][/us/stat/120/3399], provided that:
+[Pub. L. 109–459][/us/pl/109/459], § 2, Dec. 22, 2006, [120 Stat. 3399][/us/stat/120/3399], provided that:
 
 >     “(a)  __In General__  __.—__ 
 
@@ -61,7 +61,7 @@
 
 >         The term ‘military base’ includes official duty stations to include vessels, whether such vessels are in port or underway outside of the United States.”
 
-    [Pub. L. 102–538, title II, § 213][/us/pl/102/538/s213], Oct. 27, 1992, [106 Stat. 3545][/us/stat/106/3545], which required the Federal Communications Commission to make efforts to reduce telephone rates for Armed Forces personnel in certain countries, was repealed by [Pub. L. 109–459, § 3][/us/pl/109/459/s3], Dec. 22, 2006, [120 Stat. 3400][/us/stat/120/3400].
+    [Pub. L. 102–538, title II][/us/pl/102/538/tII], § 213, Oct. 27, 1992, [106 Stat. 3545][/us/stat/106/3545], which required the Federal Communications Commission to make efforts to reduce telephone rates for Armed Forces personnel in certain countries, was repealed by [Pub. L. 109–459][/us/pl/109/459], § 3, Dec. 22, 2006, [120 Stat. 3400][/us/stat/120/3400].
 
 ----------
 
@@ -77,13 +77,13 @@
 [/us/act/1934-06-19/ch652]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-19%2Fch652
 [/us/stat/48/1064]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F1064
 [/us/usc/t47/s609]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs609
-[/us/pl/109/459/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F459%2Fs2
+[/us/pl/109/459]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F459
 [/us/stat/120/3399]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F3399
 [/us/usc/t47/s153/44]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs153%2F44
 [/us/usc/t5/s2101/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs2101%2F2
-[/us/pl/102/538/s213]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F538%2Fs213
+[/us/pl/102/538/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F538%2FtII
 [/us/stat/106/3545]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3545
-[/us/pl/109/459/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F459%2Fs3
+[/us/pl/109/459]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F459
 [/us/stat/120/3400]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F3400
 
 

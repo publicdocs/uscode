@@ -43,7 +43,7 @@
 
         A report under paragraph (1) shall include findings and conclusions on the costs to be incurred by telecommunications carriers to comply with the assistance capability requirements of [section 1002 of this title][/us/usc/t47/s1002] after the effective date of such [section 1002 of this title][/us/usc/t47/s1002], including projections of the amounts expected to be incurred and a description of the equipment, facilities, or services for which they are expected to be incurred.
 
-([Pub. L. 103–414, title I, § 112][/us/pl/103/414/s112], Oct. 25, 1994, [108 Stat. 4288][/us/stat/108/4288]; [Pub. L. 104–316, title I, § 126(b)][/us/pl/104/316/s126/b], Oct. 19, 1996, [110 Stat. 3840][/us/stat/110/3840].)
+([Pub. L. 103–414, title I][/us/pl/103/414/tI], § 112, Oct. 25, 1994, [108 Stat. 4288][/us/stat/108/4288]; [Pub. L. 104–316, title I][/us/pl/104/316/tI], § 126(b), Oct. 19, 1996, [110 Stat. 3840][/us/stat/110/3840].)
 
  __References in Text__ 
 
@@ -51,9 +51,9 @@
 
  __Amendments__ 
 
-    1996—Subsec. (b)(1). [Pub. L. 104–316, § 126(b)(1)][/us/pl/104/316/s126/b/1], inserted introductory provisions and struck out heading and text of former introductory provisions. Text read as follows: “On or before April 1, 1996, and every 2 years thereafter, the Comptroller General of the United States, after consultation with the Attorney General and the telecommunications industry, shall submit to the Congress a report—”.
+    1996—Subsec. (b)(1). [Pub. L. 104–316][/us/pl/104/316], § 126(b)(1), inserted introductory provisions and struck out heading and text of former introductory provisions. Text read as follows: “On or before April 1, 1996, and every 2 years thereafter, the Comptroller General of the United States, after consultation with the Attorney General and the telecommunications industry, shall submit to the Congress a report—”.
 
-    Subsec. (b)(2). [Pub. L. 104–316, § 126(b)(2)][/us/pl/104/316/s126/b/2], substituted “findings and conclusions” for “the findings and conclusions of the Comptroller General”.
+    Subsec. (b)(2). [Pub. L. 104–316][/us/pl/104/316], § 126(b)(2), substituted “findings and conclusions” for “the findings and conclusions of the Comptroller General”.
 
 ----------
 
@@ -64,14 +64,14 @@
 
 [/us/usc/t47/s1002]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs1002
 [/us/usc/t47/s1002]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs1002
-[/us/pl/103/414/s112]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F414%2Fs112
+[/us/pl/103/414/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F414%2FtI
 [/us/stat/108/4288]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4288
-[/us/pl/104/316/s126/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F316%2Fs126%2Fb
+[/us/pl/104/316/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F316%2FtI
 [/us/stat/110/3840]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3840
 [/us/usc/t47/s1002]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs1002
 [/us/pl/103/414/s111/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F414%2Fs111%2Fb
 [/us/usc/t47/s1001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs1001
-[/us/pl/104/316/s126/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F316%2Fs126%2Fb%2F1
-[/us/pl/104/316/s126/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F316%2Fs126%2Fb%2F2
+[/us/pl/104/316]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F316
+[/us/pl/104/316]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F316
 
 

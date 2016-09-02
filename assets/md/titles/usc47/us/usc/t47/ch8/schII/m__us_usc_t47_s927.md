@@ -27,7 +27,7 @@
 
         (2) the Commission shall make any allocation and licensing decisions with respect to such frequencies in a timely manner and in no event later than the date required by [section 157 of this title][/us/usc/t47/s157].
 
-([Pub. L. 102–538, title I, § 117][/us/pl/102/538/s117], as added [Pub. L. 103–66, title VI, § 6001(a)(3)][/us/pl/103/66/s6001/a/3], Aug. 10, 1993, [107 Stat. 386][/us/stat/107/386].)
+([Pub. L. 102–538, title I][/us/pl/102/538/tI], § 117, as added [Pub. L. 103–66, title VI][/us/pl/103/66/tVI], § 6001(a)(3), Aug. 10, 1993, [107 Stat. 386][/us/stat/107/386].)
 
 ----------
 
@@ -38,8 +38,8 @@
 
 [/us/usc/t47/s903/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs903%2Fe
 [/us/usc/t47/s157]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs157
-[/us/pl/102/538/s117]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F538%2Fs117
-[/us/pl/103/66/s6001/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66%2Fs6001%2Fa%2F3
+[/us/pl/102/538/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F538%2FtI
+[/us/pl/103/66/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66%2FtVI
 [/us/stat/107/386]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F386
 
 

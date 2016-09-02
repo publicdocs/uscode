@@ -17,7 +17,7 @@
 
     Each range of frequencies described in this chapter shall be construed to be inclusive of the upper and lower frequencies in the range.
 
-([Pub. L. 112–96, title VI, § 6002][/us/pl/112/96/s6002], Feb. 22, 2012, [126 Stat. 204][/us/stat/126/204].)
+([Pub. L. 112–96, title VI][/us/pl/112/96/tVI], § 6002, Feb. 22, 2012, [126 Stat. 204][/us/stat/126/204].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/112/96/s6002]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F96%2Fs6002
+[/us/pl/112/96/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F96%2FtVI
 [/us/stat/126/204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F204
 
 

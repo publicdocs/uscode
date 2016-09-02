@@ -69,11 +69,11 @@
 
         There are authorized to be appropriated $1,000,000 for each of the fiscal years 1979, 1980, and 1981, to be used by the Secretary to carry out the provisions of this subpart. Sums appropriated under this subsection for any fiscal year shall remain available for payment of grants or contracts for projects for which applications approved under this subpart have been submitted within one year after the last day of such fiscal year.
 
-([June 19, 1934, ch. 652][/us/act/1934-06-19/ch652], title III, § 395, as added [Pub. L. 95–567, title II, § 201][/us/pl/95/567/s201], Nov. 2, 1978, [92 Stat. 2409][/us/stat/92/2409].)
+([June 19, 1934, ch. 652][/us/act/1934-06-19/ch652], title III, § 395, as added [Pub. L. 95–567, title II][/us/pl/95/567/tII], § 201, Nov. 2, 1978, [92 Stat. 2409][/us/stat/92/2409].)
 
  __Prior Provisions__ 
 
-    A prior section 395, [act June 19, 1934, ch. 652][/us/act/1934-06-19/ch652], title III, § 395, as added May 1, 1962, [Pub. L. 87–447][/us/pl/87/447], [76 Stat. 67][/us/stat/76/67]; amended Nov. 7, 1967, [Pub. L. 90–129, title II, § 201(2)][/us/pl/90/129/s201/2], [81 Stat. 367][/us/stat/81/367]; June 5, 1976, [Pub. L. 94–309, § 5][/us/pl/94/309/s5], [90 Stat. 684][/us/stat/90/684], related to assistance of the Secretary by the Commission, prior to repeal by [Pub. L. 95–567, § 201][/us/pl/95/567/s201].
+    A prior section 395, [act June 19, 1934, ch. 652, title III][/us/act/1934-06-19/ch652/tIII], § 395, as added May 1, 1962, [Pub. L. 87–447][/us/pl/87/447], [76 Stat. 67][/us/stat/76/67]; amended Nov. 7, 1967, [Pub. L. 90–129, title II][/us/pl/90/129/tII], § 201(2), [81 Stat. 367][/us/stat/81/367]; June 5, 1976, [Pub. L. 94–309][/us/pl/94/309], § 5, [90 Stat. 684][/us/stat/90/684], related to assistance of the Secretary by the Commission, prior to repeal by [Pub. L. 95–567][/us/pl/95/567], § 201.
 
  __Effective Date__ 
 
@@ -87,16 +87,16 @@
 ----------
 
 [/us/act/1934-06-19/ch652]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-19%2Fch652
-[/us/pl/95/567/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F567%2Fs201
+[/us/pl/95/567/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F567%2FtII
 [/us/stat/92/2409]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2409
-[/us/act/1934-06-19/ch652]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-19%2Fch652
+[/us/act/1934-06-19/ch652/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-19%2Fch652%2FtIII
 [/us/pl/87/447]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F447
 [/us/stat/76/67]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F67
-[/us/pl/90/129/s201/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F129%2Fs201%2F2
+[/us/pl/90/129/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F129%2FtII
 [/us/stat/81/367]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F367
-[/us/pl/94/309/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F309%2Fs5
+[/us/pl/94/309]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F309
 [/us/stat/90/684]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F684
-[/us/pl/95/567/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F567%2Fs201
+[/us/pl/95/567]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F567
 [/us/pl/95/567/s403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F567%2Fs403
 [/us/usc/t47/s390]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs390
 

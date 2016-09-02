@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../..//us/usc/t47/ch4/m__us_usc_t47_s84.md) | [Next](./../../../..//us/usc/t47/ch5/schI/m__us_usc_t47_ch5_schI.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fch5)
+[Previous](./../../../..//us/usc/t47/ch4/m__us_usc_t47_s120 _us_usc_t47_s121.md) | [Next](./../../../..//us/usc/t47/ch5/schI/m__us_usc_t47_ch5_schI.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fch5)
 
 ## CHAPTER 5—WIRE OR RADIO COMMUNICATION
 
@@ -2035,7 +2035,7 @@ SUBCHAPTER VI—MISCELLANEOUS PROVISIONS  </td>
 
 ----------
 
-[Previous](./../../../..//us/usc/t47/ch4/m__us_usc_t47_s84.md) | [Next](./../../../..//us/usc/t47/ch5/schI/m__us_usc_t47_ch5_schI.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fch5)
+[Previous](./../../../..//us/usc/t47/ch4/m__us_usc_t47_s120 _us_usc_t47_s121.md) | [Next](./../../../..//us/usc/t47/ch5/schI/m__us_usc_t47_ch5_schI.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fch5)
 
 ----------
 ----------

@@ -35,7 +35,7 @@
 
         On all ships of the United States equipped with a radiotelegraph auto alarm, said apparatus shall be in operation at all times while the ship is being navigated in the open sea outside of a harbor or port when the radio officer is not on watch.
 
-([June 19, 1934, ch. 652][/us/act/1934-06-19/ch652], title III, § 353, as added [May 20, 1937, ch. 229, § 10(b)][/us/act/1937-05-20/ch229/s10/b], [50 Stat. 193][/us/stat/50/193]; amended [July 8, 1941, ch. 278][/us/act/1941-07-08/ch278], [55 Stat. 579][/us/stat/55/579]; [June 22, 1943, ch. 137][/us/act/1943-06-22/ch137], [57 Stat. 161][/us/stat/57/161]; [July 25, 1947, ch. 327, § 2(a)][/us/act/1947-07-25/ch327/s2/a], [61 Stat. 451][/us/stat/61/451]; [Aug. 13, 1954, ch. 729, § 1(d)][/us/act/1954-08-13/ch729/s1/d], [68 Stat. 705][/us/stat/68/705]; [Pub. L. 89–121, § 4][/us/pl/89/121/s4], Aug. 13, 1965, [79 Stat. 513][/us/stat/79/513].)
+([June 19, 1934, ch. 652][/us/act/1934-06-19/ch652], title III, § 353, as added [May 20, 1937, ch. 229][/us/act/1937-05-20/ch229], § 10(b), [50 Stat. 193][/us/stat/50/193]; amended [July 8, 1941, ch. 278][/us/act/1941-07-08/ch278], [55 Stat. 579][/us/stat/55/579]; [June 22, 1943, ch. 137][/us/act/1943-06-22/ch137], [57 Stat. 161][/us/stat/57/161]; [July 25, 1947, ch. 327][/us/act/1947-07-25/ch327], § 2(a), [61 Stat. 451][/us/stat/61/451]; [Aug. 13, 1954, ch. 729][/us/act/1954-08-13/ch729], § 1(d), [68 Stat. 705][/us/stat/68/705]; [Pub. L. 89–121][/us/pl/89/121], § 4, Aug. 13, 1965, [79 Stat. 513][/us/stat/79/513].)
 
  __Amendments__ 
 
@@ -57,7 +57,7 @@
 
  __Approval of Operators by Secretary of Navy During War__ 
 
-    [Act Dec. 17, 1941, ch. 588][/us/act/1941-12-17/ch588], [55 Stat. 808][/us/stat/55/808], as amended [June 28, 1943, ch. 174][/us/act/1943-06-28/ch174], [57 Stat. 244][/us/stat/57/244]; [June 13, 1945, ch. 190][/us/act/1945-06-13/ch190], [59 Stat. 259][/us/stat/59/259]; 1946 Reorg. Plan No. 3, § 101, eff. July 16, 1946, 11 F.R. 7875, [60 Stat. 1097][/us/stat/60/1097], prohibiting employment of radio operators who were disapproved by the Secretary of the Navy during World War II, was repealed by [act July 25, 1947, ch. 327, § 1][/us/act/1947-07-25/ch327/s1], [61 Stat. 449][/us/stat/61/449].
+    [Act Dec. 17, 1941, ch. 588][/us/act/1941-12-17/ch588], [55 Stat. 808][/us/stat/55/808], as amended [June 28, 1943, ch. 174][/us/act/1943-06-28/ch174], [57 Stat. 244][/us/stat/57/244]; [June 13, 1945, ch. 190][/us/act/1945-06-13/ch190], [59 Stat. 259][/us/stat/59/259]; 1946 Reorg. Plan No. 3, § 101, eff. July 16, 1946, 11 F.R. 7875, [60 Stat. 1097][/us/stat/60/1097], prohibiting employment of radio operators who were disapproved by the Secretary of the Navy during World War II, was repealed by [act July 25, 1947, ch. 327][/us/act/1947-07-25/ch327], § 1, [61 Stat. 449][/us/stat/61/449].
 
 ----------
 
@@ -67,17 +67,17 @@
 ----------
 
 [/us/act/1934-06-19/ch652]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-19%2Fch652
-[/us/act/1937-05-20/ch229/s10/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1937-05-20%2Fch229%2Fs10%2Fb
+[/us/act/1937-05-20/ch229]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1937-05-20%2Fch229
 [/us/stat/50/193]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F50%2F193
 [/us/act/1941-07-08/ch278]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1941-07-08%2Fch278
 [/us/stat/55/579]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F55%2F579
 [/us/act/1943-06-22/ch137]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1943-06-22%2Fch137
 [/us/stat/57/161]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F57%2F161
-[/us/act/1947-07-25/ch327/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1947-07-25%2Fch327%2Fs2%2Fa
+[/us/act/1947-07-25/ch327]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1947-07-25%2Fch327
 [/us/stat/61/451]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F61%2F451
-[/us/act/1954-08-13/ch729/s1/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-13%2Fch729%2Fs1%2Fd
+[/us/act/1954-08-13/ch729]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-13%2Fch729
 [/us/stat/68/705]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68%2F705
-[/us/pl/89/121/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F121%2Fs4
+[/us/pl/89/121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F121
 [/us/stat/79/513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F513
 [/us/pl/89/121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F121
 [/us/usc/t47/s351]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs351
@@ -88,7 +88,7 @@
 [/us/act/1945-06-13/ch190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1945-06-13%2Fch190
 [/us/stat/59/259]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F59%2F259
 [/us/stat/60/1097]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F60%2F1097
-[/us/act/1947-07-25/ch327/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1947-07-25%2Fch327%2Fs1
+[/us/act/1947-07-25/ch327]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1947-07-25%2Fch327
 [/us/stat/61/449]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F61%2F449
 
 

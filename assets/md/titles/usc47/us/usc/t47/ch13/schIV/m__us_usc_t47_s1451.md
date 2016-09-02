@@ -71,7 +71,7 @@
 
     (c) __Omitted__ 
 
-([Pub. L. 112–96, title VI, § 6401][/us/pl/112/96/s6401], Feb. 22, 2012, [126 Stat. 222][/us/stat/126/222].)
+([Pub. L. 112–96, title VI][/us/pl/112/96/tVI], § 6401, Feb. 22, 2012, [126 Stat. 222][/us/stat/126/222].)
 
  __Codification__ 
 
@@ -86,7 +86,7 @@
 
 [/us/usc/t47/s309/j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs309%2Fj
 [/us/usc/t47/s309/j/16/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs309%2Fj%2F16%2FB
-[/us/pl/112/96/s6401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F96%2Fs6401
+[/us/pl/112/96/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F96%2FtVI
 [/us/stat/126/222]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F222
 [/us/pl/112/96/s6401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F96%2Fs6401
 [/us/pl/112/96/s6401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F96%2Fs6401

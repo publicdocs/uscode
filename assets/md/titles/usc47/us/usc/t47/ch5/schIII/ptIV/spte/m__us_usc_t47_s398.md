@@ -53,7 +53,7 @@
 
         Nothing in this section shall be construed to authorize any department, agency, officer, or employee of the United States to exercise any direction, supervision, or control over the content or distribution of public telecommunications programs and services, or over the curriculum or program of instruction of any educational institution or school system.
 
-([June 19, 1934, ch. 652][/us/act/1934-06-19/ch652], title III, § 398, formerly § 397, as added [Pub. L. 87–447][/us/pl/87/447], May 1, 1962, [76 Stat. 67][/us/stat/76/67]; renumbered § 398 and amended [Pub. L. 90–129, title I, § 103(g)][/us/pl/90/129/s103/g], title II, § 201(3), (5), Nov. 7, 1967, [81 Stat. 367][/us/stat/81/367], 368; [Pub. L. 95–567, title III, § 309][/us/pl/95/567/s309], Nov. 2, 1978, [92 Stat. 2420][/us/stat/92/2420]; [Pub. L. 100–626, § 9(b)][/us/pl/100/626/s9/b], Nov. 7, 1988, [102 Stat. 3211][/us/stat/102/3211].)
+([June 19, 1934, ch. 652][/us/act/1934-06-19/ch652], title III, § 398, formerly § 397, as added [Pub. L. 87–447][/us/pl/87/447], May 1, 1962, [76 Stat. 67][/us/stat/76/67]; renumbered § 398 and amended [Pub. L. 90–129, title I][/us/pl/90/129/tI], § 103(g), title II, § 201(3), (5), Nov. 7, 1967, [81 Stat. 367][/us/stat/81/367], 368; [Pub. L. 95–567, title III][/us/pl/95/567/tIII], § 309, Nov. 2, 1978, [92 Stat. 2420][/us/stat/92/2420]; [Pub. L. 100–626][/us/pl/100/626], § 9(b), Nov. 7, 1988, [102 Stat. 3211][/us/stat/102/3211].)
 
  __References in Text__ 
 
@@ -61,11 +61,11 @@
 
     This chapter, referred to in subsec. (a), was in the original “this Act”, meaning [act June 19, 1934, ch. 652][/us/act/1934-06-19/ch652], [48 Stat. 1064][/us/stat/48/1064], known as the Communications Act of 1934, which is classified principally to this chapter. For complete classification of this Act to the Code, see [section 609 of this title][/us/usc/t47/s609] and Tables.
 
-    Subpart C, referred to in subsec. (b)(1), (3)(A), was redesignated subpart D by [Pub. L. 101–437, title II, § 203(a)(2)][/us/pl/101/437/s203/a/2], Oct. 17, 1990, [104 Stat. 998][/us/stat/104/998].
+    Subpart C, referred to in subsec. (b)(1), (3)(A), was redesignated subpart D by [Pub. L. 101–437, title II][/us/pl/101/437/tII], § 203(a)(2), Oct. 17, 1990, [104 Stat. 998][/us/stat/104/998].
 
  __Amendments__ 
 
-    1988—Subsec. (b)(1). [Pub. L. 100–626, § 9(b)][/us/pl/100/626/s9/b], inserted “in accordance with the equal employment opportunity regulations of the Commission,” before “and no person”.
+    1988—Subsec. (b)(1). [Pub. L. 100–626][/us/pl/100/626], § 9(b), inserted “in accordance with the equal employment opportunity regulations of the Commission,” before “and no person”.
 
     1978—[Pub. L. 95–567][/us/pl/95/567] designated existing provisions as subsec. (a), substituted “public telecommunications entity” and “public telecommunications” for “educational broadcasting station or system” and “educational television or radio broadcasting”, respectively, and added subsecs. (b) and (c).
 
@@ -86,19 +86,19 @@
 [/us/act/1934-06-19/ch652]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-19%2Fch652
 [/us/pl/87/447]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F447
 [/us/stat/76/67]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F67
-[/us/pl/90/129/s103/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F129%2Fs103%2Fg
+[/us/pl/90/129/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F129%2FtI
 [/us/stat/81/367]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F367
-[/us/pl/95/567/s309]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F567%2Fs309
+[/us/pl/95/567/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F567%2FtIII
 [/us/stat/92/2420]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2420
-[/us/pl/100/626/s9/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F626%2Fs9%2Fb
+[/us/pl/100/626]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F626
 [/us/stat/102/3211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3211
 [/us/usc/t47/s390]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs390
 [/us/act/1934-06-19/ch652]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-19%2Fch652
 [/us/stat/48/1064]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F1064
 [/us/usc/t47/s609]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs609
-[/us/pl/101/437/s203/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F437%2Fs203%2Fa%2F2
+[/us/pl/101/437/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F437%2FtII
 [/us/stat/104/998]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F998
-[/us/pl/100/626/s9/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F626%2Fs9%2Fb
+[/us/pl/100/626]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F626
 [/us/pl/95/567]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F567
 [/us/pl/90/129]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F129
 [/us/pl/95/567]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F567

@@ -129,7 +129,7 @@
 
         Upon establishment of the clearinghouse of information required under subsection (d), the Commission, in coordination with the National Telecommunications and Information Administration, shall conduct an informational and educational program designed to inform the public about the availability of the clearinghouse and the protections and remedies available under sections 255, 617, and 619 of this title.
 
-([June 19, 1934, ch. 652][/us/act/1934-06-19/ch652], title VII, § 717, as added [Pub. L. 111–260, title I, § 104(a)][/us/pl/111/260/s104/a], Oct. 8, 2010, [124 Stat. 2758][/us/stat/124/2758]; amended [Pub. L. 111–265, § 2(3)][/us/pl/111/265/s2/3], Oct. 8, 2010, [124 Stat. 2795][/us/stat/124/2795].)
+([June 19, 1934, ch. 652][/us/act/1934-06-19/ch652], title VII, § 717, as added [Pub. L. 111–260, title I][/us/pl/111/260/tI], § 104(a), Oct. 8, 2010, [124 Stat. 2758][/us/stat/124/2758]; amended [Pub. L. 111–265][/us/pl/111/265], § 2(3), Oct. 8, 2010, [124 Stat. 2795][/us/stat/124/2795].)
 
  __References in Text__ 
 
@@ -151,9 +151,9 @@
 [/us/usc/t47/s402/b/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs402%2Fb%2F10
 [/us/usc/t47/s402/b/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs402%2Fb%2F10
 [/us/act/1934-06-19/ch652]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-19%2Fch652
-[/us/pl/111/260/s104/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F260%2Fs104%2Fa
+[/us/pl/111/260/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F260%2FtI
 [/us/stat/124/2758]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2758
-[/us/pl/111/265/s2/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F265%2Fs2%2F3
+[/us/pl/111/265]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F265
 [/us/stat/124/2795]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2795
 [/us/act/1934-06-19/ch652]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-19%2Fch652
 [/us/stat/48/1064]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F1064

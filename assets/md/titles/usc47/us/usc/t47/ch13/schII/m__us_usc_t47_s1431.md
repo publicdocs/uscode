@@ -23,7 +23,7 @@
 
     (3) such access does not preempt or otherwise terminate or degrade all existing voice conversations or data sessions.
 
-([Pub. L. 112–96, title VI, § 6211][/us/pl/112/96/s6211], Feb. 22, 2012, [126 Stat. 218][/us/stat/126/218].)
+([Pub. L. 112–96, title VI][/us/pl/112/96/tVI], § 6211, Feb. 22, 2012, [126 Stat. 218][/us/stat/126/218].)
 
 ----------
 
@@ -32,7 +32,7 @@
 ----------
 ----------
 
-[/us/pl/112/96/s6211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F96%2Fs6211
+[/us/pl/112/96/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F96%2FtVI
 [/us/stat/126/218]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F218
 
 

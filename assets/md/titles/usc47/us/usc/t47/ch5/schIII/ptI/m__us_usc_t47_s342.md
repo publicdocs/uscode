@@ -97,7 +97,7 @@
 
                 For the purposes of subparagraph (A), the top 100 designated market areas shall be as determined by Nielsen Media Research and published in the Nielsen Station Index Directory and Nielsen Station Index United States Television Household Estimates or any successor publication as of the date of a satellite carrier’s application for certification under this section.
 
-([June 19, 1934, ch. 652][/us/act/1934-06-19/ch652], title III, § 342, as added [Pub. L. 111–175, title II, § 206][/us/pl/111/175/s206], May 27, 2010, [124 Stat. 1250][/us/stat/124/1250].)
+([June 19, 1934, ch. 652][/us/act/1934-06-19/ch652], title III, § 342, as added [Pub. L. 111–175, title II][/us/pl/111/175/tII], § 206, May 27, 2010, [124 Stat. 1250][/us/stat/124/1250].)
 
  __References in Text__ 
 
@@ -119,7 +119,7 @@
 [/us/usc/t17/s119/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft17%2Fs119%2Fg
 [/us/usc/t17/s122/j/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft17%2Fs122%2Fj%2F2%2FC
 [/us/act/1934-06-19/ch652]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-19%2Fch652
-[/us/pl/111/175/s206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F175%2Fs206
+[/us/pl/111/175/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F175%2FtII
 [/us/stat/124/1250]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1250
 [/us/pl/111/175]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F175
 [/us/pl/111/175/s307/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F175%2Fs307%2Fa

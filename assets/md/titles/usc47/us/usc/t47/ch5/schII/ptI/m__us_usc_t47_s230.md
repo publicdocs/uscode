@@ -105,7 +105,7 @@
 
             (C) transmit, receive, display, forward, cache, search, subset, organize, reorganize, or translate content.
 
-([June 19, 1934, ch. 652][/us/act/1934-06-19/ch652], title II, § 230, as added [Pub. L. 104–104, title V, § 509][/us/pl/104/104/s509], Feb. 8, 1996, [110 Stat. 137][/us/stat/110/137]; amended [Pub. L. 105–277, div. C, title XIV, § 1404(a)][/us/pl/105/277/s1404/a], Oct. 21, 1998, [112 Stat. 2681–739][/us/stat/112/2681-739].)
+([June 19, 1934, ch. 652][/us/act/1934-06-19/ch652], title II, § 230, as added [Pub. L. 104–104, title V][/us/pl/104/104/tV], § 509, Feb. 8, 1996, [110 Stat. 137][/us/stat/110/137]; amended [Pub. L. 105–277, div. C, title XIV][/us/pl/105/277/dC/tXIV], § 1404(a), Oct. 21, 1998, [112 Stat. 2681–739][/us/stat/112/2681-739].)
 
  __References in Text__ 
 
@@ -117,11 +117,11 @@
 
  __Amendments__ 
 
-    1998—Subsec. (d). [Pub. L. 105–277, § 1404(a)(3)][/us/pl/105/277/s1404/a/3], added subsec. (d). Former subsec. (d) redesignated (e).
+    1998—Subsec. (d). [Pub. L. 105–277][/us/pl/105/277], § 1404(a)(3), added subsec. (d). Former subsec. (d) redesignated (e).
 
-    Subsec. (d)(1). [Pub. L. 105–277, § 1404(a)(1)][/us/pl/105/277/s1404/a/1], inserted “or 231” after “section 223”.
+    Subsec. (d)(1). [Pub. L. 105–277][/us/pl/105/277], § 1404(a)(1), inserted “or 231” after “section 223”.
 
-    Subsecs. (e), (f). [Pub. L. 105–277, § 1404(a)(2)][/us/pl/105/277/s1404/a/2], redesignated subsecs. (d) and (e) as (e) and (f), respectively.
+    Subsecs. (e), (f). [Pub. L. 105–277][/us/pl/105/277], § 1404(a)(2), redesignated subsecs. (d) and (e) as (e) and (f), respectively.
 
  __Effective Date of 1998 Amendment__ 
 
@@ -135,9 +135,9 @@
 ----------
 
 [/us/act/1934-06-19/ch652]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-19%2Fch652
-[/us/pl/104/104/s509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F104%2Fs509
+[/us/pl/104/104/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F104%2FtV
 [/us/stat/110/137]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F137
-[/us/pl/105/277/s1404/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs1404%2Fa
+[/us/pl/105/277/dC/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2FdC%2FtXIV
 [/us/stat/112/2681-739]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681-739
 [/us/pl/99/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F508
 [/us/stat/100/1848]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1848
@@ -145,9 +145,9 @@
 [/us/pl/104/104/s509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F104%2Fs509
 [/us/usc/t47/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs201
 [/us/pl/104/104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F104
-[/us/pl/105/277/s1404/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs1404%2Fa%2F3
-[/us/pl/105/277/s1404/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs1404%2Fa%2F1
-[/us/pl/105/277/s1404/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs1404%2Fa%2F2
+[/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
+[/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
+[/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
 [/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
 [/us/pl/105/277/s1406]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs1406
 [/us/usc/t47/s223]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs223

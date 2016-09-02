@@ -17,7 +17,7 @@
 
     No noncommercial educational broadcasting station may support or oppose any candidate for political office.
 
-([June 19, 1934, ch. 652][/us/act/1934-06-19/ch652], title III, § 399, as added [Pub. L. 90–129, title II, § 201(8)][/us/pl/90/129/s201/8], Nov. 7, 1967, [81 Stat. 368][/us/stat/81/368]; amended [Pub. L. 93–84, § 2][/us/pl/93/84/s2], Aug. 6, 1973, [87 Stat. 219][/us/stat/87/219]; [Pub. L. 94–309, § 7][/us/pl/94/309/s7], June 5, 1976, [90 Stat. 685][/us/stat/90/685]; [Pub. L. 97–35, title XII, § 1229][/us/pl/97/35/s1229], Aug. 13, 1981, [95 Stat. 730][/us/stat/95/730]; [Pub. L. 100–626, § 10][/us/pl/100/626/s10], Nov. 7, 1988, [102 Stat. 3211][/us/stat/102/3211].)
+([June 19, 1934, ch. 652][/us/act/1934-06-19/ch652], title III, § 399, as added [Pub. L. 90–129, title II][/us/pl/90/129/tII], § 201(8), Nov. 7, 1967, [81 Stat. 368][/us/stat/81/368]; amended [Pub. L. 93–84][/us/pl/93/84], § 2, Aug. 6, 1973, [87 Stat. 219][/us/stat/87/219]; [Pub. L. 94–309][/us/pl/94/309], § 7, June 5, 1976, [90 Stat. 685][/us/stat/90/685]; [Pub. L. 97–35, title XII][/us/pl/97/35/tXII], § 1229, Aug. 13, 1981, [95 Stat. 730][/us/stat/95/730]; [Pub. L. 100–626][/us/pl/100/626], § 10, Nov. 7, 1988, [102 Stat. 3211][/us/stat/102/3211].)
 
  __Amendments__ 
 
@@ -37,15 +37,15 @@
 ----------
 
 [/us/act/1934-06-19/ch652]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-19%2Fch652
-[/us/pl/90/129/s201/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F129%2Fs201%2F8
+[/us/pl/90/129/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F129%2FtII
 [/us/stat/81/368]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F368
-[/us/pl/93/84/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F84%2Fs2
+[/us/pl/93/84]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F84
 [/us/stat/87/219]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F219
-[/us/pl/94/309/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F309%2Fs7
+[/us/pl/94/309]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F309
 [/us/stat/90/685]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F685
-[/us/pl/97/35/s1229]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs1229
+[/us/pl/97/35/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2FtXII
 [/us/stat/95/730]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F730
-[/us/pl/100/626/s10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F626%2Fs10
+[/us/pl/100/626]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F626
 [/us/stat/102/3211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3211
 [/us/pl/100/626]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F626
 [/us/pl/97/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35

@@ -27,7 +27,7 @@
 
         Nothing in this section shall be construed to permit the abrogation or modification of any contract.
 
-([Pub. L. 87–624, title VI, § 641][/us/pl/87/624/s641], as added [Pub. L. 106–180, § 3][/us/pl/106/180/s3], Mar. 17, 2000, [114 Stat. 55][/us/stat/114/55].)
+([Pub. L. 87–624, title VI][/us/pl/87/624/tVI], § 641, as added [Pub. L. 106–180][/us/pl/106/180], § 3, Mar. 17, 2000, [114 Stat. 55][/us/stat/114/55].)
 
  __References in Text__ 
 
@@ -41,8 +41,8 @@
 ----------
 
 [/us/usc/t47/s151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs151
-[/us/pl/87/624/s641]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F624%2Fs641
-[/us/pl/106/180/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F180%2Fs3
+[/us/pl/87/624/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F624%2FtVI
+[/us/pl/106/180]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F180
 [/us/stat/114/55]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F55
 [/us/act/1934-06-19/ch652]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-19%2Fch652
 [/us/stat/48/1064]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F1064

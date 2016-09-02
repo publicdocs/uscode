@@ -25,7 +25,7 @@
 
     (4) On the effective date of a Commission order determining under [section 761(b)(2) of this title][/us/usc/t47/s761/b/2] that INTELSAT privatization is consistent with criteria in sections 763 and 763a of this title: [Section 701 of this title][/us/usc/t47/s701]; [section 702(7) of this title][/us/usc/t47/s702/7]; paragraphs (2) through (4) and (7) of [section 721(a) of this title][/us/usc/t47/s721/a]; paragraphs (2), (6), and (7) of [section 721(c) of this title][/us/usc/t47/s721/c]; [section 731 of this title][/us/usc/t47/s731]; [section 732 of this title][/us/usc/t47/s732]; [section 741 of this title][/us/usc/t47/s741]; [section 742 of this title][/us/usc/t47/s742]; [section 743 of this title][/us/usc/t47/s743]; and [section 744 of this title][/us/usc/t47/s744].
 
-([Pub. L. 87–624, title VI, § 645][/us/pl/87/624/s645], as added [Pub. L. 106–180, § 3][/us/pl/106/180/s3], Mar. 17, 2000, [114 Stat. 56][/us/stat/114/56].)
+([Pub. L. 87–624, title VI][/us/pl/87/624/tVI], § 645, as added [Pub. L. 106–180][/us/pl/106/180], § 3, Mar. 17, 2000, [114 Stat. 56][/us/stat/114/56].)
 
  __References in Text__ 
 
@@ -33,7 +33,7 @@
 
     The effective date of the Commission order relating to Inmarsat privatization, referred to in par. (3), is June 14, 2005. See In the Matter of Inmarsat Group Holdings Limited Petition for Declaratory Ruling Pursuant to Section 621(5)(F) of the ORBIT Act, Memorandum Opinion and Order, IB Docket 04-439, FCC 05-126 (released June 14, 2005).
 
-    [Section 763c of this title][/us/usc/t47/s763c], referred to in par. (3), was amended generally by [Pub. L. 109–34, § 3][/us/pl/109/34/s3], July 12, 2005, [119 Stat. 377][/us/stat/119/377], and no longer relates to specific criteria for Inmarsat privatization.
+    [Section 763c of this title][/us/usc/t47/s763c], referred to in par. (3), was amended generally by [Pub. L. 109–34][/us/pl/109/34], § 3, July 12, 2005, [119 Stat. 377][/us/stat/119/377], and no longer relates to specific criteria for Inmarsat privatization.
 
     The effective date of the Commission order relating to INTELSAT privatization, referred to in par. (4), is Apr. 15, 2005. See In the Matter of Intelsat, Ltd. Petition for Declaratory Ruling that Intelsat, Ltd. Complies With Section 621(5)(F) of the ORBIT Act, Memorandum Opinion and Order, IB Docket 05-18, FCC 05-86 (released April 15, 2005).
 
@@ -66,11 +66,11 @@
 [/us/usc/t47/s742]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs742
 [/us/usc/t47/s743]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs743
 [/us/usc/t47/s744]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs744
-[/us/pl/87/624/s645]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F624%2Fs645
-[/us/pl/106/180/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F180%2Fs3
+[/us/pl/87/624/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F624%2FtVI
+[/us/pl/106/180]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F180
 [/us/stat/114/56]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F56
 [/us/usc/t47/s763c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs763c
-[/us/pl/109/34/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F34%2Fs3
+[/us/pl/109/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F34
 [/us/stat/119/377]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F377
 
 

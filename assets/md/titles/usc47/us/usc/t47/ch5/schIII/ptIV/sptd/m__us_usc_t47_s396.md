@@ -415,7 +415,7 @@
 
         (3) As soon as they have been prepared, each assessment and annual report required under paragraphs (1) and (2) shall be submitted to Congress.
 
-([June 19, 1934, ch. 652][/us/act/1934-06-19/ch652], title III, § 396, as added [Pub. L. 90–129, title II, § 201(9)][/us/pl/90/129/s201/9], Nov. 7, 1967, [81 Stat. 368][/us/stat/81/368]; amended [Pub. L. 90–294][/us/pl/90/294], Apr. 26, 1968, [82 Stat. 108][/us/stat/82/108]; [Pub. L. 91–97, § 3][/us/pl/91/97/s3], Oct. 27, 1969, [83 Stat. 146][/us/stat/83/146]; [Pub. L. 91–437, § 2][/us/pl/91/437/s2], Oct. 7, 1970, [84 Stat. 888][/us/stat/84/888]; [Pub. L. 92–411, § 1][/us/pl/92/411/s1], Aug. 29, 1972, [86 Stat. 643][/us/stat/86/643]; [Pub. L. 93–84, § 1(a)][/us/pl/93/84/s1/a], (b), Aug. 6, 1973, [87 Stat. 219][/us/stat/87/219]; [Pub. L. 94–192][/us/pl/94/192], §§ 2–4, Dec. 31, 1975, [89 Stat. 1099][/us/stat/89/1099], 1100; [Pub. L. 95–567, title III][/us/pl/95/567], §§ 301–303(a), 304–307(a), 308, Nov. 2, 1978, [92 Stat. 2411][/us/stat/92/2411], 2412, 2414, 2415, 2419; [Pub. L. 97–35, title XII][/us/pl/97/35], §§ 1224, 1225(a)(1), (b), (c), 1226, 1227(a)–(c)(3), (d)(1), (2), (e)–(g), 1228, 1234(a), Aug. 13, 1981, [95 Stat. 725–730][/us/stat/95/725-730], 736; [Pub. L. 98–214][/us/pl/98/214], §§ 3, 5, 6, Dec. 8, 1983, [97 Stat. 1467–1469][/us/stat/97/1467-1469]; [Pub. L. 99–272, title V, § 5001(c)][/us/pl/99/272/s5001/c], Apr. 7, 1986, [100 Stat. 117][/us/stat/100/117]; [Pub. L. 100–626][/us/pl/100/626], §§ 3, 4(a), 5–9(a), Nov. 7, 1988, [102 Stat. 3207–3211][/us/stat/102/3207-3211]; [Pub. L. 102–356][/us/pl/102/356], §§ 4, 5(a), (b), 6–14, Aug. 26, 1992, [106 Stat. 949–953][/us/stat/106/949-953]; [Pub. L. 105–277, div. A, § 101(f)][/us/pl/105/277/s101/f] \[title VII, § 701\], Oct. 21, 1998, [112 Stat. 2681–337][/us/stat/112/2681-337], 2681–389; [Pub. L. 106–113, div. B, § 1000(a)(9)][/us/pl/106/113/s1000/a/9] \[title V, § 5002(a)\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–592; [Pub. L. 107–20, title II, § 2702][/us/pl/107/20/s2702], July 24, 2001, [115 Stat. 182][/us/stat/115/182]; [Pub. L. 108–271, § 8(b)][/us/pl/108/271/s8/b], July 7, 2004, [118 Stat. 814][/us/stat/118/814].)
+([June 19, 1934, ch. 652][/us/act/1934-06-19/ch652], title III, § 396, as added [Pub. L. 90–129, title II][/us/pl/90/129/tII], § 201(9), Nov. 7, 1967, [81 Stat. 368][/us/stat/81/368]; amended [Pub. L. 90–294][/us/pl/90/294], Apr. 26, 1968, [82 Stat. 108][/us/stat/82/108]; [Pub. L. 91–97][/us/pl/91/97], § 3, Oct. 27, 1969, [83 Stat. 146][/us/stat/83/146]; [Pub. L. 91–437][/us/pl/91/437], § 2, Oct. 7, 1970, [84 Stat. 888][/us/stat/84/888]; [Pub. L. 92–411][/us/pl/92/411], § 1, Aug. 29, 1972, [86 Stat. 643][/us/stat/86/643]; [Pub. L. 93–84][/us/pl/93/84], § 1(a), (b), Aug. 6, 1973, [87 Stat. 219][/us/stat/87/219]; [Pub. L. 94–192][/us/pl/94/192], §§ 2–4, Dec. 31, 1975, [89 Stat. 1099][/us/stat/89/1099], 1100; [Pub. L. 95–567, title III][/us/pl/95/567/tIII], §§ 301–303(a), 304–307(a), 308, Nov. 2, 1978, [92 Stat. 2411][/us/stat/92/2411], 2412, 2414, 2415, 2419; [Pub. L. 97–35, title XII][/us/pl/97/35/tXII], §§ 1224, 1225(a)(1), (b), (c), 1226, 1227(a)–(c)(3), (d)(1), (2), (e)–(g), 1228, 1234(a), Aug. 13, 1981, [95 Stat. 725–730][/us/stat/95/725-730], 736; [Pub. L. 98–214][/us/pl/98/214], §§ 3, 5, 6, Dec. 8, 1983, [97 Stat. 1467–1469][/us/stat/97/1467-1469]; [Pub. L. 99–272, title V][/us/pl/99/272/tV], § 5001(c), Apr. 7, 1986, [100 Stat. 117][/us/stat/100/117]; [Pub. L. 100–626][/us/pl/100/626], §§ 3, 4(a), 5–9(a), Nov. 7, 1988, [102 Stat. 3207–3211][/us/stat/102/3207-3211]; [Pub. L. 102–356][/us/pl/102/356], §§ 4, 5(a), (b), 6–14, Aug. 26, 1992, [106 Stat. 949–953][/us/stat/106/949-953]; [Pub. L. 105–277, div. A][/us/pl/105/277/dA], § 101(f) \[title VII, § 701\], Oct. 21, 1998, [112 Stat. 2681–337][/us/stat/112/2681-337], 2681–389; [Pub. L. 106–113, div. B][/us/pl/106/113/dB], § 1000(a)(9) \[title V, § 5002(a)\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–592; [Pub. L. 107–20, title II][/us/pl/107/20/tII], § 2702, July 24, 2001, [115 Stat. 182][/us/stat/115/182]; [Pub. L. 108–271][/us/pl/108/271], § 8(b), July 7, 2004, [118 Stat. 814][/us/stat/118/814].)
 
  __References in Text__ 
 
@@ -427,7 +427,7 @@
 
  __Prior Provisions__ 
 
-    A prior section 396, [act June 19, 1934, ch. 652][/us/act/1934-06-19/ch652], title III, § 396, as added May 1, 1962, [Pub. L. 87–447][/us/pl/87/447], [76 Stat. 67][/us/stat/76/67], was renumbered section 394 by [Pub. L. 90–129][/us/pl/90/129], and subsequently renumbered section 393A by [Pub. L. 101–437][/us/pl/101/437], and is classified to [section 393a of this title][/us/usc/t47/s393a].
+    A prior section 396, [act June 19, 1934, ch. 652, title III][/us/act/1934-06-19/ch652/tIII], § 396, as added May 1, 1962, [Pub. L. 87–447][/us/pl/87/447], [76 Stat. 67][/us/stat/76/67], was renumbered section 394 by [Pub. L. 90–129][/us/pl/90/129], and subsequently renumbered section 393A by [Pub. L. 101–437][/us/pl/101/437], and is classified to [section 393a of this title][/us/usc/t47/s393a].
 
  __Amendments__ 
 
@@ -439,65 +439,65 @@
 
     1998—Subsec. (k)(9). [Pub. L. 105–277][/us/pl/105/277], which directed the amendment of [section 396(k)(9) of Title 47][/us/usc/t47/s396/k/9], United States Code, by substituting “in excess of reasonable compensation as determined pursuant to [Section 4958 of title 26][/us/usc/t26/s4958] for services that the officer or employee renders to organization” for “at an annual rate of pay which exceeds the rate of basic pay in effect from time to time for level I of the Executive Schedule under 5312 of title 5,”, was executed to subsec. (k)(9) of this section, which is section 396 of the Communications Act of 1934, by making the substitution for text which contained “under section 5312” rather than “under 5312”, to reflect the probable intent of Congress.
 
-    1992—Subsec. (a)(8) to (10). [Pub. L. 102–356, § 4][/us/pl/102/356/s4], added pars. (8) and (9) and redesignated former par. (8) as (10).
+    1992—Subsec. (a)(8) to (10). [Pub. L. 102–356][/us/pl/102/356], § 4, added pars. (8) and (9) and redesignated former par. (8) as (10).
 
-    Subsec. (c)(1). [Pub. L. 102–356, § 5(a)(1)][/us/pl/102/356/s5/a/1], substituted “9” for “10” and “5” for “6”.
+    Subsec. (c)(1). [Pub. L. 102–356][/us/pl/102/356], § 5(a)(1), substituted “9” for “10” and “5” for “6”.
 
-    Subsec. (c)(2). [Pub. L. 102–356, § 5(a)(2)][/us/pl/102/356/s5/a/2], substituted “9” for “10”.
+    Subsec. (c)(2). [Pub. L. 102–356][/us/pl/102/356], § 5(a)(2), substituted “9” for “10”.
 
-    Subsec. (c)(5). [Pub. L. 102–356, § 5(b)][/us/pl/102/356/s5/b], amended par. (5) generally. Prior to amendment, par. (5) read as follows: “The term of office of each member of the Board appointed by the President shall be 5 years, except that any member appointed to fill a vacancy occurring prior to the expiration of the term for which his predecessor was appointed shall be appointed for the remainder of such term. No member of the Board shall be eligible to serve in excess of 2 consecutive terms of 5 years each.”
+    Subsec. (c)(5). [Pub. L. 102–356][/us/pl/102/356], § 5(b), amended par. (5) generally. Prior to amendment, par. (5) read as follows: “The term of office of each member of the Board appointed by the President shall be 5 years, except that any member appointed to fill a vacancy occurring prior to the expiration of the term for which his predecessor was appointed shall be appointed for the remainder of such term. No member of the Board shall be eligible to serve in excess of 2 consecutive terms of 5 years each.”
 
-    Subsec. (e)(1). [Pub. L. 102–356, § 6][/us/pl/102/356/s6], inserted fourth sentence and struck out former fourth sentence which read as follows: “No officer of the Corporation, other than the Chairman or a Vice Chairman, may receive any salary or other compensation from any source other than the Corporation for services rendered during the period of his employment by the Corporation.”
+    Subsec. (e)(1). [Pub. L. 102–356][/us/pl/102/356], § 6, inserted fourth sentence and struck out former fourth sentence which read as follows: “No officer of the Corporation, other than the Chairman or a Vice Chairman, may receive any salary or other compensation from any source other than the Corporation for services rendered during the period of his employment by the Corporation.”
 
-    Subsec. (i)(1)(C), (D). [Pub. L. 102–356, § 7][/us/pl/102/356/s7], added subpar. (C) and redesignated former subpar. (C) as (D).
+    Subsec. (i)(1)(C), (D). [Pub. L. 102–356][/us/pl/102/356], § 7, added subpar. (C) and redesignated former subpar. (C) as (D).
 
-    Subsec. (k)(1)(C). [Pub. L. 102–356, § 8(a)][/us/pl/102/356/s8/a], inserted provisions authorizing appropriations of $310,000,000 for fiscal year 1994, $375,000,000 for fiscal year 1995, and $425,000,000 for fiscal year 1996, and struck out provisions authorizing appropriations of $180,000,000 for fiscal year 1981, $200,000,000 for fiscal year 1982, $220,000,000 for fiscal year 1983, $145,000,000 for fiscal year 1984, $153,000,000 for fiscal year 1985, $162,000,000 for fiscal year 1986, $200,000,000 for fiscal year 1987, $214,000,000 for fiscal year 1988, $238,000,000 for fiscal year 1989, $254,000,000 for fiscal year 1990, and $245,000,000 for fiscal year 1991.
+    Subsec. (k)(1)(C). [Pub. L. 102–356][/us/pl/102/356], § 8(a), inserted provisions authorizing appropriations of $310,000,000 for fiscal year 1994, $375,000,000 for fiscal year 1995, and $425,000,000 for fiscal year 1996, and struck out provisions authorizing appropriations of $180,000,000 for fiscal year 1981, $200,000,000 for fiscal year 1982, $220,000,000 for fiscal year 1983, $145,000,000 for fiscal year 1984, $153,000,000 for fiscal year 1985, $162,000,000 for fiscal year 1986, $200,000,000 for fiscal year 1987, $214,000,000 for fiscal year 1988, $238,000,000 for fiscal year 1989, $254,000,000 for fiscal year 1990, and $245,000,000 for fiscal year 1991.
 
-    Subsec. (k)(1)(E). [Pub. L. 102–356, § 8(b)][/us/pl/102/356/s8/b], added subpar. (E).
+    Subsec. (k)(1)(E). [Pub. L. 102–356][/us/pl/102/356], § 8(b), added subpar. (E).
 
-    Subsec. (k)(3)(A)(i)(II). [Pub. L. 102–356, § 9][/us/pl/102/356/s9], inserted “or for assistance in the provision of affordable training programs for employees at public broadcast stations” after “other than English”.
+    Subsec. (k)(3)(A)(i)(II). [Pub. L. 102–356][/us/pl/102/356], § 9, inserted “or for assistance in the provision of affordable training programs for employees at public broadcast stations” after “other than English”.
 
-    Subsec. (k)(3)(B)(iii)(V). [Pub. L. 102–356, § 10][/us/pl/102/356/s10], inserted before period at end of first sentence “, including carriage and viewing information for programs produced or acquired with funds provided pursuant to subclause (I)” and substituted “fiscal years 1992, 1993, 1994, and 1995” for “fiscal year 1992” in second sentence.
+    Subsec. (k)(3)(B)(iii)(V). [Pub. L. 102–356][/us/pl/102/356], § 10, inserted before period at end of first sentence “, including carriage and viewing information for programs produced or acquired with funds provided pursuant to subclause (I)” and substituted “fiscal years 1992, 1993, 1994, and 1995” for “fiscal year 1992” in second sentence.
 
-    Subsec. (k)(3)(B)(iii)(VI). [Pub. L. 102–356, § 14(b)][/us/pl/102/356/s14/b], added subcl. (VI).
+    Subsec. (k)(3)(B)(iii)(VI). [Pub. L. 102–356][/us/pl/102/356], § 14(b), added subcl. (VI).
 
-    Subsec. (k)(6)(B). [Pub. L. 102–356, § 11][/us/pl/102/356/s11], inserted “(which the Corporation shall review periodically in consultation with public radio and television licensees or permittees, or their designated representatives)” after “eligibility criteria”.
+    Subsec. (k)(6)(B). [Pub. L. 102–356][/us/pl/102/356], § 11, inserted “(which the Corporation shall review periodically in consultation with public radio and television licensees or permittees, or their designated representatives)” after “eligibility criteria”.
 
-    Subsec. (k)(11). [Pub. L. 102–356, § 12(a)][/us/pl/102/356/s12/a], added par. (11).
+    Subsec. (k)(11). [Pub. L. 102–356][/us/pl/102/356], § 12(a), added par. (11).
 
-    Subsec. (l)(3)(B)(ii). [Pub. L. 102–356, § 13(a)][/us/pl/102/356/s13/a], (b)(1), designated existing provisions as subcl. (I), substituted “biennial” for “biannual”, substituted “or” for “and” after semicolon, and added subcl. (II).
+    Subsec. (l)(3)(B)(ii). [Pub. L. 102–356][/us/pl/102/356], § 13(a), (b)(1), designated existing provisions as subcl. (I), substituted “biennial” for “biannual”, substituted “or” for “and” after semicolon, and added subcl. (II).
 
-    Subsec. (l)(3)(B)(iii). [Pub. L. 102–356, § 13(b)(2)][/us/pl/102/356/s13/b/2], substituted “biennially” for “biannually”.
+    Subsec. (l)(3)(B)(iii). [Pub. L. 102–356][/us/pl/102/356], § 13(b)(2), substituted “biennially” for “biannually”.
 
-    Subsec. (l)(4). [Pub. L. 102–356, § 14(a)][/us/pl/102/356/s14/a], added par. (4) and struck out former par. (4) which consisted of subpars. (A) to (C) relating to National Public Radio’s system of financial controls and budget and requiring Corporation to report to Congress not later than 15 days after Dec. 8, 1983, on actions taken by National Public Radio with respect to deficits it accumulated before Oct. 1, 1983.
+    Subsec. (l)(4). [Pub. L. 102–356][/us/pl/102/356], § 14(a), added par. (4) and struck out former par. (4) which consisted of subpars. (A) to (C) relating to National Public Radio’s system of financial controls and budget and requiring Corporation to report to Congress not later than 15 days after Dec. 8, 1983, on actions taken by National Public Radio with respect to deficits it accumulated before Oct. 1, 1983.
 
-    Subsec. (m)(2). [Pub. L. 102–356, § 12(b)][/us/pl/102/356/s12/b], inserted at end “Such report shall include a summary of the statistical reports received by the Corporation pursuant to subsection (k)(11), and a comparison of the information contained in those reports with the information submitted by the Corporation in the previous year’s annual report.”
+    Subsec. (m)(2). [Pub. L. 102–356][/us/pl/102/356], § 12(b), inserted at end “Such report shall include a summary of the statistical reports received by the Corporation pursuant to subsection (k)(11), and a comparison of the information contained in those reports with the information submitted by the Corporation in the previous year’s annual report.”
 
-    1988—Subsec. (a)(6) to (8). [Pub. L. 100–626, § 5][/us/pl/100/626/s5], added par. (6) and redesignated former pars. (6) and (7) as (7) and (8), respectively.
+    1988—Subsec. (a)(6) to (8). [Pub. L. 100–626][/us/pl/100/626], § 5, added par. (6) and redesignated former pars. (6) and (7) as (7) and (8), respectively.
 
-    Subsec. (g)(2)(B)(ii). [Pub. L. 100–626, § 6][/us/pl/100/626/s6], struck out “contract or” after “respect to any”.
+    Subsec. (g)(2)(B)(ii). [Pub. L. 100–626][/us/pl/100/626], § 6, struck out “contract or” after “respect to any”.
 
-    Subsec. (k)(1)(C). [Pub. L. 100–626, § 3][/us/pl/100/626/s3], substituted “1990, 1991, 1992, and 1993” for “and 1990” and “40 percent” for “50 percent”, struck out “and” after “fiscal year 1989,”, and inserted “, $245,000,000 for fiscal year 1991, $265,000,000 for fiscal year 1992, and $285,000,000 for fiscal year 1993” after “fiscal year 1990”.
+    Subsec. (k)(1)(C). [Pub. L. 100–626][/us/pl/100/626], § 3, substituted “1990, 1991, 1992, and 1993” for “and 1990” and “40 percent” for “50 percent”, struck out “and” after “fiscal year 1989,”, and inserted “, $245,000,000 for fiscal year 1991, $265,000,000 for fiscal year 1992, and $285,000,000 for fiscal year 1993” after “fiscal year 1990”.
 
-    Subsec. (k)(3)(A)(i)(I), (II). [Pub. L. 100–626, § 7(a)(1)][/us/pl/100/626/s7/a/1], (2), amended subcls. (I) and (II) generally. Prior to amendment, subcls. (I) and (II) read as follows:
+    Subsec. (k)(3)(A)(i)(I), (II). [Pub. L. 100–626][/us/pl/100/626], § 7(a)(1), (2), amended subcls. (I) and (II) generally. Prior to amendment, subcls. (I) and (II) read as follows:
 
     “(I) not more than 5 percent of such amounts shall be available for the administrative expenses of the Corporation;
 
     “(II) not less than 5 percent of such amounts shall be available for other expenses incurred by the Corporation, including capital costs relating to telecommunications satellites, the payment of programming royalties and other fees, and the costs of interconnection facilities and operations (as provided in clause (iv)(I)), except that the total amount available for obligation for any fiscal year under this subclause and subclause (I) shall not exceed 10 percent of the amounts appropriated into the Fund available for allocation for such fiscal year;”.
 
-    Subsec. (k)(3)(A)(i)(III). [Pub. L. 100–626, § 7(a)(3)][/us/pl/100/626/s7/a/3], substituted “clause (ii)” for “clause (ii)(I)”.
+    Subsec. (k)(3)(A)(i)(III). [Pub. L. 100–626][/us/pl/100/626], § 7(a)(3), substituted “clause (ii)” for “clause (ii)(I)”.
 
-    Subsec. (k)(3)(A)(ii)(II). [Pub. L. 100–626, § 7(b)][/us/pl/100/626/s7/b], substituted “, and in accordance with any plan implemented under paragraph (6)(A), for national public” for “for public”.
+    Subsec. (k)(3)(A)(ii)(II). [Pub. L. 100–626][/us/pl/100/626], § 7(b), substituted “, and in accordance with any plan implemented under paragraph (6)(A), for national public” for “for public”.
 
-    Subsec. (k)(3)(A)(iii). [Pub. L. 100–626, § 7(c)][/us/pl/100/626/s7/c], amended cl. (iii) generally. Prior to amendment, cl. (iii) read as follows: “Of the amounts allocated under clause (i)(IV) for any fiscal year—
+    Subsec. (k)(3)(A)(iii). [Pub. L. 100–626][/us/pl/100/626], § 7(c), amended cl. (iii) generally. Prior to amendment, cl. (iii) read as follows: “Of the amounts allocated under clause (i)(IV) for any fiscal year—
 
     “(I) not less than 50 percent of such amounts (as determined under paragraph (6)(A)) shall be available for distribution among the licensees and permittees of public radio stations pursuant to paragraph (6)(B); and
 
     “(II) not more than 50 percent of such amounts (as determined under paragraph (6)(A)) shall be available for distribution under subparagraph (B)(i) for public radio.”
 
-    Subsec. (k)(3)(A)(iv)(I). [Pub. L. 100–626, § 7(e)][/us/pl/100/626/s7/e], substituted “From the amount provided pursuant to clause (i)(II),” for “Subject to the provisions of clause (v),”.
+    Subsec. (k)(3)(A)(iv)(I). [Pub. L. 100–626][/us/pl/100/626], § 7(e), substituted “From the amount provided pursuant to clause (i)(II),” for “Subject to the provisions of clause (v),”.
 
-    Subsec. (k)(3)(A)(v). [Pub. L. 100–626, § 7(d)][/us/pl/100/626/s7/d], amended cl. (v) generally. Prior to amendment, cl. (v) read as follows: “If the expenses incurred by the Corporation under clause (i)(II) for any fiscal year for—
+    Subsec. (k)(3)(A)(v). [Pub. L. 100–626][/us/pl/100/626], § 7(d), amended cl. (v) generally. Prior to amendment, cl. (v) read as follows: “If the expenses incurred by the Corporation under clause (i)(II) for any fiscal year for—
 
     “(I) capital costs relating to telecommunications satellites;
 
@@ -507,103 +507,103 @@
 
     exceed 6 percent of the amounts appropriated into the Fund available for allocation for such fiscal year, then 75 percent of such excess costs shall be defrayed by the licensees and permittees of public television stations from amounts available to such licensees and permittees under clause (ii)(I) and 25 percent of such excess costs shall be defrayed by the licensees and permittees of public radio stations from amounts available to such licensees and permittees under clause (iii)(I).”
 
-    Subsec. (k)(3)(B)(i). [Pub. L. 100–626, § 7(f)][/us/pl/100/626/s7/f], amended cl. (i) generally. Prior to amendment, cl. (i) read as follows: “The Corporation shall utilize the funds allocated pursuant to subparagraph (A)(ii)(II) and subparagraph (A)(iii)(II), and a significant portion of such other funds as may be available to the Corporation, to make grants and contracts for production of public television or radio programs by independent producers and production entities and public telecommunications entities, and for acquisition of such programs by public telecommunications entities. Of the funds utilized pursuant to this clause, a substantial amount shall be reserved for distribution to independent producers and production entities for the production of programs.”
+    Subsec. (k)(3)(B)(i). [Pub. L. 100–626][/us/pl/100/626], § 7(f), amended cl. (i) generally. Prior to amendment, cl. (i) read as follows: “The Corporation shall utilize the funds allocated pursuant to subparagraph (A)(ii)(II) and subparagraph (A)(iii)(II), and a significant portion of such other funds as may be available to the Corporation, to make grants and contracts for production of public television or radio programs by independent producers and production entities and public telecommunications entities, and for acquisition of such programs by public telecommunications entities. Of the funds utilized pursuant to this clause, a substantial amount shall be reserved for distribution to independent producers and production entities for the production of programs.”
 
-    Subsec. (k)(3)(B)(iii). [Pub. L. 100–626, § 8][/us/pl/100/626/s8], added cl. (iii).
+    Subsec. (k)(3)(B)(iii). [Pub. L. 100–626][/us/pl/100/626], § 8, added cl. (iii).
 
-    Subsec. (k)(3)(C). [Pub. L. 100–626, § 7(g)][/us/pl/100/626/s7/g], struck out subpar. (C) which related to limit on expenditure by Corporation in fiscal year 1981 of an amount equal to not more than 5 percent of funds made available by Secretary of the Treasury.
+    Subsec. (k)(3)(C). [Pub. L. 100–626][/us/pl/100/626], § 7(g), struck out subpar. (C) which related to limit on expenditure by Corporation in fiscal year 1981 of an amount equal to not more than 5 percent of funds made available by Secretary of the Treasury.
 
-    Subsec. (k)(3)(D). [Pub. L. 100–626, § 7(g)][/us/pl/100/626/s7/g], struck out subpar. (D) which related to expenditure by Corporation of 105 percent of amount derived for preceding fiscal year, for activities authorized under subsection (g)(2) of this section, in fiscal years 1982 and 1983.
+    Subsec. (k)(3)(D). [Pub. L. 100–626][/us/pl/100/626], § 7(g), struck out subpar. (D) which related to expenditure by Corporation of 105 percent of amount derived for preceding fiscal year, for activities authorized under subsection (g)(2) of this section, in fiscal years 1982 and 1983.
 
-    Subsec. (k)(6)(A). [Pub. L. 100–626, § 7(h)][/us/pl/100/626/s7/h], amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “The Corporation, in consultation with public radio stations and with National Public Radio (or any successor organization), shall determine the percentage of funds allocated under subclause (I) and subclause (II) of paragraph (3)(A)(iii) for each fiscal year. The Corporation, in consultation with such organizations, also shall conduct an annual review of the criteria and conditions applicable to such allocations.”
+    Subsec. (k)(6)(A). [Pub. L. 100–626][/us/pl/100/626], § 7(h), amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “The Corporation, in consultation with public radio stations and with National Public Radio (or any successor organization), shall determine the percentage of funds allocated under subclause (I) and subclause (II) of paragraph (3)(A)(iii) for each fiscal year. The Corporation, in consultation with such organizations, also shall conduct an annual review of the criteria and conditions applicable to such allocations.”
 
-    Subsec. (k)(6)(B). [Pub. L. 100–626, § 7(i)][/us/pl/100/626/s7/i], inserted after first sentence “The Corporation shall assist radio stations to maintain and improve their service where public radio is the only broadcast service available.”
+    Subsec. (k)(6)(B). [Pub. L. 100–626][/us/pl/100/626], § 7(i), inserted after first sentence “The Corporation shall assist radio stations to maintain and improve their service where public radio is the only broadcast service available.”
 
-    Subsec. (k)(7). [Pub. L. 100–626, § 7(j)][/us/pl/100/626/s7/j], inserted “(ii)(I) and (iii)(I)” after “paragraph (3)(A)”.
+    Subsec. (k)(7). [Pub. L. 100–626][/us/pl/100/626], § 7(j), inserted “(ii)(I) and (iii)(I)” after “paragraph (3)(A)”.
 
-    Subsec. (k)(10). [Pub. L. 100–626, § 4(a)][/us/pl/100/626/s4/a], added par. (10).
+    Subsec. (k)(10). [Pub. L. 100–626][/us/pl/100/626], § 4(a), added par. (10).
 
-    Subsec. (m). [Pub. L. 100–626, § 9(a)][/us/pl/100/626/s9/a], added subsec. (m).
+    Subsec. (m). [Pub. L. 100–626][/us/pl/100/626], § 9(a), added subsec. (m).
 
-    1986—Subsec. (k)(1)(C). [Pub. L. 99–272, § 5001(c)(1)][/us/pl/99/272/s5001/c/1], substituted “1986, 1987, 1988, 1989, and 1990” for “and 1986”, struck out “and” after “fiscal year 1985,”, and inserted “, $200,000,000 for fiscal year 1987, $214,000,000 for fiscal year 1988, $238,000,000 for fiscal year 1989, and $254,000,000 for fiscal year 1990” before period at end.
+    1986—Subsec. (k)(1)(C). [Pub. L. 99–272][/us/pl/99/272], § 5001(c)(1), substituted “1986, 1987, 1988, 1989, and 1990” for “and 1986”, struck out “and” after “fiscal year 1985,”, and inserted “, $200,000,000 for fiscal year 1987, $214,000,000 for fiscal year 1988, $238,000,000 for fiscal year 1989, and $254,000,000 for fiscal year 1990” before period at end.
 
-    Subsec. (k)(3)(A)(i)(II). [Pub. L. 99–272, § 5001(c)(2)][/us/pl/99/272/s5001/c/2], struck out “research, training, technical assistance, engineering, instructional support, payment of interest on indebtedness,” after “Corporation, including”.
+    Subsec. (k)(3)(A)(i)(II). [Pub. L. 99–272][/us/pl/99/272], § 5001(c)(2), struck out “research, training, technical assistance, engineering, instructional support, payment of interest on indebtedness,” after “Corporation, including”.
 
-    Subsec. (k)(8) to (10). [Pub. L. 99–272, § 5001(c)(3)][/us/pl/99/272/s5001/c/3], redesignated paragraphs (9) and (10) as (8) and (9), respectively. Former subsec. (8), which related to refunding to the Corporation of an amount equal to the amount of unrelated business income tax, was struck out.
+    Subsec. (k)(8) to (10). [Pub. L. 99–272][/us/pl/99/272], § 5001(c)(3), redesignated paragraphs (9) and (10) as (8) and (9), respectively. Former subsec. (8), which related to refunding to the Corporation of an amount equal to the amount of unrelated business income tax, was struck out.
 
-    1983—Subsec. (c)(1). [Pub. L. 98–214, § 6(a)][/us/pl/98/214/s6/a], struck out “, and the President of the Corporation” after “advice and consent of the Senate” and provision directing that the President of the Corporation serve as the Chairman of the Board.
+    1983—Subsec. (c)(1). [Pub. L. 98–214][/us/pl/98/214], § 6(a), struck out “, and the President of the Corporation” after “advice and consent of the Senate” and provision directing that the President of the Corporation serve as the Chairman of the Board.
 
-    Subsec. (d)(1). [Pub. L. 98–214, § 6(b)(1)][/us/pl/98/214/s6/b/1], inserted “elect one of their members to be Chairman and” after “Members of the Board shall annually”.
+    Subsec. (d)(1). [Pub. L. 98–214][/us/pl/98/214], § 6(b)(1), inserted “elect one of their members to be Chairman and” after “Members of the Board shall annually”.
 
-    Subsec. (e)(1). [Pub. L. 98–214, § 6(c)][/us/pl/98/214/s6/c], substituted “No officer of the Corporation, other than the Chairman or a Vice Chairman” for “No officer of the Corporation, other than a Vice Chairman”.
+    Subsec. (e)(1). [Pub. L. 98–214][/us/pl/98/214], § 6(c), substituted “No officer of the Corporation, other than the Chairman or a Vice Chairman” for “No officer of the Corporation, other than a Vice Chairman”.
 
-    Subsec. (k)(1)(C). [Pub. L. 98–214, § 3(a)][/us/pl/98/214/s3/a], substituted “, $145,000,000 for fiscal year 1984, $153,000,000 for fiscal year 1985, and $162,000,000 for fiscal year 1986” for “, and $130,000,000 for each of the fiscal years 1984, 1985, and 1986”.
+    Subsec. (k)(1)(C). [Pub. L. 98–214][/us/pl/98/214], § 3(a), substituted “, $145,000,000 for fiscal year 1984, $153,000,000 for fiscal year 1985, and $162,000,000 for fiscal year 1986” for “, and $130,000,000 for each of the fiscal years 1984, 1985, and 1986”.
 
-    Subsec. (k)(10). [Pub. L. 98–214, § 3(b)][/us/pl/98/214/s3/b], inserted provision requiring assurances that no officer or employee of such entity will be loaned money by that entity on an interest-free basis.
+    Subsec. (k)(10). [Pub. L. 98–214][/us/pl/98/214], § 3(b), inserted provision requiring assurances that no officer or employee of such entity will be loaned money by that entity on an interest-free basis.
 
-    Subsec. (l)(4). [Pub. L. 98–214, § 5][/us/pl/98/214/s5], added par. (4).
+    Subsec. (l)(4). [Pub. L. 98–214][/us/pl/98/214], § 5, added par. (4).
 
-    1981—Subsec. (a)(5). [Pub. L. 97–35, § 1224][/us/pl/97/35/s1224], inserted provisions respecting alternative telecommunications services.
+    1981—Subsec. (a)(5). [Pub. L. 97–35][/us/pl/97/35], § 1224, inserted provisions respecting alternative telecommunications services.
 
-    Subsec. (c). [Pub. L. 97–35, § 1225(a)(1)][/us/pl/97/35/s1225/a/1], amended subsec. (c) generally, substituting provisions respecting appointment, selection, service, etc., of the ten members of the Board of Directors, for provisions respecting appointment, selection, service, etc., of the 15 members of the Board of Directors.
+    Subsec. (c). [Pub. L. 97–35][/us/pl/97/35], § 1225(a)(1), amended subsec. (c) generally, substituting provisions respecting appointment, selection, service, etc., of the ten members of the Board of Directors, for provisions respecting appointment, selection, service, etc., of the 15 members of the Board of Directors.
 
-    Subsec. (d). [Pub. L. 97–35, § 1225(b)][/us/pl/97/35/s1225/b], amended subsec. (d) generally, substituting in par. (1) provisions respecting election, status, compensation, etc., of Vice Chairman, for provisions respecting election, status, compensation, etc., of Chairman and Vice Chairman.
+    Subsec. (d). [Pub. L. 97–35][/us/pl/97/35], § 1225(b), amended subsec. (d) generally, substituting in par. (1) provisions respecting election, status, compensation, etc., of Vice Chairman, for provisions respecting election, status, compensation, etc., of Chairman and Vice Chairman.
 
-    Subsec. (e)(1). [Pub. L. 97–35, § 1225(c)][/us/pl/97/35/s1225/c], inserted reference to services rendered by a Vice Chairman, and struck out reference to the Chairman.
+    Subsec. (e)(1). [Pub. L. 97–35][/us/pl/97/35], § 1225(c), inserted reference to services rendered by a Vice Chairman, and struck out reference to the Chairman.
 
-    Subsec. (g). [Pub. L. 97–35, § 1234(a)][/us/pl/97/35/s1234/a], struck out par. (5) relating to study and report concerning manner of including personal services of volunteers in determining non-Federal financial support, and redesignated par. (6) as (5).
+    Subsec. (g). [Pub. L. 97–35][/us/pl/97/35], § 1234(a), struck out par. (5) relating to study and report concerning manner of including personal services of volunteers in determining non-Federal financial support, and redesignated par. (6) as (5).
 
-    Subsec. (i)(1). [Pub. L. 97–35, § 1226][/us/pl/97/35/s1226], substituted “May” for “February”.
+    Subsec. (i)(1). [Pub. L. 97–35][/us/pl/97/35], § 1226, substituted “May” for “February”.
 
-    Subsec. (k)(1)(C). [Pub. L. 97–35, § 1227(a)][/us/pl/97/35/s1227/a], extended authorization of appropriations through 1986.
+    Subsec. (k)(1)(C). [Pub. L. 97–35][/us/pl/97/35], § 1227(a), extended authorization of appropriations through 1986.
 
-    Subsec. (k)(2)(B). [Pub. L. 97–35, § 1227(b)][/us/pl/97/35/s1227/b], substituted fiscal year basis for disbursement for quarterly basis.
+    Subsec. (k)(2)(B). [Pub. L. 97–35][/us/pl/97/35], § 1227(b), substituted fiscal year basis for disbursement for quarterly basis.
 
-    Subsec. (k)(3)(A). [Pub. L. 97–35, § 1227(c)(1)][/us/pl/97/35/s1227/c/1], amended subpar. (A) generally, substituting provisions mandating the establishment by the Corporation of an annual budget for use in allocating amounts from the Fund, setting out the allocation and distribution formulae, and providing for interconnecting facilities and operations costs for making public television and radio programs available to public broadcast stations for former provisions which had directed the Corporation to reserve for distribution among the licensees and permittees of public television and radio stations an amount equal to (i) not less than 40 percent of the funds disbursed by the Corporation from the Fund under this section in each fiscal year in which the amount disbursed was $88,000,000 or more, but less than $121,000,000; (ii) not less than 45 percent of such funds in each fiscal year in which the amount disbursed was $121,000,000 or more, but less than $160,000,000; and (iii) not less than 50 percent of such funds in each fiscal year in which the amount disbursed was $160,000,000 or more.
+    Subsec. (k)(3)(A). [Pub. L. 97–35][/us/pl/97/35], § 1227(c)(1), amended subpar. (A) generally, substituting provisions mandating the establishment by the Corporation of an annual budget for use in allocating amounts from the Fund, setting out the allocation and distribution formulae, and providing for interconnecting facilities and operations costs for making public television and radio programs available to public broadcast stations for former provisions which had directed the Corporation to reserve for distribution among the licensees and permittees of public television and radio stations an amount equal to (i) not less than 40 percent of the funds disbursed by the Corporation from the Fund under this section in each fiscal year in which the amount disbursed was $88,000,000 or more, but less than $121,000,000; (ii) not less than 45 percent of such funds in each fiscal year in which the amount disbursed was $121,000,000 or more, but less than $160,000,000; and (iii) not less than 50 percent of such funds in each fiscal year in which the amount disbursed was $160,000,000 or more.
 
-    Subsec. (k)(3)(B)(i). [Pub. L. 97–35, § 1227(c)(2)][/us/pl/97/35/s1227/c/2], amended cl. (i) generally, substituting “The Corporation shall utilize the funds allocated pursuant to subparagraph (A)(ii)(II) and subparagraph (A)(iii)(II), and a significant portion of such other funds as may be available to the Corporation, to make grants and contracts for production of public television or radio programs by independent producers and production entities and public telecommunications entities, and for acquisition of such programs by public telecommunications entities. Of the funds utilized pursuant to this clause, a substantial amount shall be reserved for distribution to independent producers and production entities for the production of programs” for “The Corporation shall establish an annual budget according to which it shall made grants and contracts for production of public television or radio programs by independent producers and production entities and public telecommunications entities, for acquisition of such programs by public telecommunications entities, for interconnection facilities and operations, for distribution of funds among public telecommunications entities, and for engineering and program-related research. A significant portion of funds available under the budget established by the Corporation under this subparagraph shall be used for funding the production of television and radio programs. Of such portion, a substantial amount shall be reserved for distribution to independent producers and production entities for the production of programs”.
+    Subsec. (k)(3)(B)(i). [Pub. L. 97–35][/us/pl/97/35], § 1227(c)(2), amended cl. (i) generally, substituting “The Corporation shall utilize the funds allocated pursuant to subparagraph (A)(ii)(II) and subparagraph (A)(iii)(II), and a significant portion of such other funds as may be available to the Corporation, to make grants and contracts for production of public television or radio programs by independent producers and production entities and public telecommunications entities, and for acquisition of such programs by public telecommunications entities. Of the funds utilized pursuant to this clause, a substantial amount shall be reserved for distribution to independent producers and production entities for the production of programs” for “The Corporation shall establish an annual budget according to which it shall made grants and contracts for production of public television or radio programs by independent producers and production entities and public telecommunications entities, for acquisition of such programs by public telecommunications entities, for interconnection facilities and operations, for distribution of funds among public telecommunications entities, and for engineering and program-related research. A significant portion of funds available under the budget established by the Corporation under this subparagraph shall be used for funding the production of television and radio programs. Of such portion, a substantial amount shall be reserved for distribution to independent producers and production entities for the production of programs”.
 
-    Subsec. (k)(3)(B)(ii). [Pub. L. 97–35, § 1227(c)(3)(A)][/us/pl/97/35/s1227/c/3/A], amended cl. (ii) generally, substituting “available for distribution under clause (i)” for “contained in the annual budget established by the Corporation under clause (i)”.
+    Subsec. (k)(3)(B)(ii). [Pub. L. 97–35][/us/pl/97/35], § 1227(c)(3)(A), amended cl. (ii) generally, substituting “available for distribution under clause (i)” for “contained in the annual budget established by the Corporation under clause (i)”.
 
-    Subsec. (k)(3)(B)(iii), (iv). [Pub. L. 97–35, § 1227(c)(3)(B)][/us/pl/97/35/s1227/c/3/B], struck out cls. (iii) and (iv) which had provided, respectively, that “During each of the fiscal years 1981, 1982, and 1983, the annual budget established by the Corporation under clause (i) shall consist of not less than 95 percent of the funds made available by the Secretary of the Treasury to the Corporation pursuant to paragraph (2)(A)” and that “In determining the amount of funds which shall be made available for radio programming and operations under this subparagraph, the Corporation shall take into account the increased financial needs relating to radio programming and operations resulting from the expansion and development of noncommercial radio broadcast station facilities through the use of funds made available pursuant to [section 393(d) of this title][/us/usc/t47/s393/d]”.
+    Subsec. (k)(3)(B)(iii), (iv). [Pub. L. 97–35][/us/pl/97/35], § 1227(c)(3)(B), struck out cls. (iii) and (iv) which had provided, respectively, that “During each of the fiscal years 1981, 1982, and 1983, the annual budget established by the Corporation under clause (i) shall consist of not less than 95 percent of the funds made available by the Secretary of the Treasury to the Corporation pursuant to paragraph (2)(A)” and that “In determining the amount of funds which shall be made available for radio programming and operations under this subparagraph, the Corporation shall take into account the increased financial needs relating to radio programming and operations resulting from the expansion and development of noncommercial radio broadcast station facilities through the use of funds made available pursuant to [section 393(d) of this title][/us/usc/t47/s393/d]”.
 
-    Subsec. (k)(6)(A). [Pub. L. 97–35, § 1227(d)(1)][/us/pl/97/35/s1227/d/1], amended subpar. (A) generally, substituting “The Corporation, in consultation with public radio stations and with National Public Radio (or any successor organization), shall determine the percentage of funds allocated under subclause (I) and subclause (II) of paragraph (3)(A)(iii) for each fiscal year. The Corporation, in consultation with such organizations, also shall conduct an annual review of the criteria and conditions applicable to such allocations” for “The Corporation, in consultation with public television and radio licensees, shall review annually the percentage of funds reserved pursuant to paragraph (3)(A), and the criteria and conditions regarding the division and distribution of such funds among public television and radio stations”.
+    Subsec. (k)(6)(A). [Pub. L. 97–35][/us/pl/97/35], § 1227(d)(1), amended subpar. (A) generally, substituting “The Corporation, in consultation with public radio stations and with National Public Radio (or any successor organization), shall determine the percentage of funds allocated under subclause (I) and subclause (II) of paragraph (3)(A)(iii) for each fiscal year. The Corporation, in consultation with such organizations, also shall conduct an annual review of the criteria and conditions applicable to such allocations” for “The Corporation, in consultation with public television and radio licensees, shall review annually the percentage of funds reserved pursuant to paragraph (3)(A), and the criteria and conditions regarding the division and distribution of such funds among public television and radio stations”.
 
-    Subsec. (k)(6)(B). [Pub. L. 97–35, § 1227(d)(2)][/us/pl/97/35/s1227/d/2], amended subpar. (B) generally, striking out provision that the funds reserved for public broadcast stations pursuant to paragraph (3)(A) be divided into two portions, one to be distributed among radio stations and one to be distributed among television stations in the provisions preceding cl. (i) and inserting “under paragraph (3)(A)(ii)(I)” and “under paragraph (3)(A)(iii)(I)”.
+    Subsec. (k)(6)(B). [Pub. L. 97–35][/us/pl/97/35], § 1227(d)(2), amended subpar. (B) generally, striking out provision that the funds reserved for public broadcast stations pursuant to paragraph (3)(A) be divided into two portions, one to be distributed among radio stations and one to be distributed among television stations in the provisions preceding cl. (i) and inserting “under paragraph (3)(A)(ii)(I)” and “under paragraph (3)(A)(iii)(I)”.
 
-    Subsec. (k)(7). [Pub. L. 97–35, § 1227(e)][/us/pl/97/35/s1227/e], amended par. (7) generally, substituting provisions relating to use of funds distributed for provisions limiting amount of funds distributed.
+    Subsec. (k)(7). [Pub. L. 97–35][/us/pl/97/35], § 1227(e), amended par. (7) generally, substituting provisions relating to use of funds distributed for provisions limiting amount of funds distributed.
 
-    Subsec. (k)(8). [Pub. L. 97–35, § 1227(f)][/us/pl/97/35/s1227/f], amended par. (8) generally, substituting provisions relating to refunding funds to the Corporation for provisions relating to the use of funds distributed.
+    Subsec. (k)(8). [Pub. L. 97–35][/us/pl/97/35], § 1227(f), amended par. (8) generally, substituting provisions relating to refunding funds to the Corporation for provisions relating to the use of funds distributed.
 
-    Subsec. (k)(9). [Pub. L. 97–35, § 1227(g)][/us/pl/97/35/s1227/g], in subpar. (A) substituted “to assure that (i) its advisory board meets at regular intervals; (ii) the members of its advisory board regularly attend the meetings of the advisory board; and (iii) the composition of its advisory board are reasonably representative of the diverse needs” for “to assure that the composition of its advisory board reasonably reflects the diverse needs” and in subpars. (A), (D), and (E) inserted provisions respecting stations owned and operated by a State, a political or special purpose subdivision of a State or a public agency.
+    Subsec. (k)(9). [Pub. L. 97–35][/us/pl/97/35], § 1227(g), in subpar. (A) substituted “to assure that (i) its advisory board meets at regular intervals; (ii) the members of its advisory board regularly attend the meetings of the advisory board; and (iii) the composition of its advisory board are reasonably representative of the diverse needs” for “to assure that the composition of its advisory board reasonably reflects the diverse needs” and in subpars. (A), (D), and (E) inserted provisions respecting stations owned and operated by a State, a political or special purpose subdivision of a State or a public agency.
 
-    Subsec. (l). [Pub. L. 97–35, § 1228][/us/pl/97/35/s1228], inserted provisions in par. (1)(A) respecting shared auditing arrangements, and substituted in par. (3)(B)(ii) and (iii) provisions relating to biannual audits and accompanying report, for provisions relating to annual audits and accompanying report.
+    Subsec. (l). [Pub. L. 97–35][/us/pl/97/35], § 1228, inserted provisions in par. (1)(A) respecting shared auditing arrangements, and substituted in par. (3)(B)(ii) and (iii) provisions relating to biannual audits and accompanying report, for provisions relating to annual audits and accompanying report.
 
-    1978—Subsec. (a). [Pub. L. 95–567, § 301][/us/pl/95/567/s301], substituted “public” for “noncommercial educational” and “telecommunications” for “radio and television” wherever appearing and inserted provisions relating to the growth and development of nonbroadcast telecommunications technologies for the delivery of public telecommunications services.
+    1978—Subsec. (a). [Pub. L. 95–567][/us/pl/95/567], § 301, substituted “public” for “noncommercial educational” and “telecommunications” for “radio and television” wherever appearing and inserted provisions relating to the growth and development of nonbroadcast telecommunications technologies for the delivery of public telecommunications services.
 
-    Subsec. (d)(1). [Pub. L. 95–567, § 302][/us/pl/95/567/s302], struck out provision authorizing the President to designate one of the members first appointed to the Board as Chairman.
+    Subsec. (d)(1). [Pub. L. 95–567][/us/pl/95/567], § 302, struck out provision authorizing the President to designate one of the members first appointed to the Board as Chairman.
 
-    Subsec. (e)(1). [Pub. L. 95–567, § 303(a)][/us/pl/95/567/s303/a], inserted provision which regulated the rate of compensation an officer or employee of the Corporation could receive.
+    Subsec. (e)(1). [Pub. L. 95–567][/us/pl/95/567], § 303(a), inserted provision which regulated the rate of compensation an officer or employee of the Corporation could receive.
 
-    Subsec. (g). [Pub. L. 95–567, § 304][/us/pl/95/567/s304], amended subsec. (g) generally, substituting “public telecommunications” for “educational broadcasting”, “noncommercial educational television or radio”, or “program production” wherever appearing, authorizing panel of outside experts to evaluate programs, authorizing Corporation to use its own judgment when dealing with programming, and striking out provision dealing with the creation of new noncommercial educational broadcast stations.
+    Subsec. (g). [Pub. L. 95–567][/us/pl/95/567], § 304, amended subsec. (g) generally, substituting “public telecommunications” for “educational broadcasting”, “noncommercial educational television or radio”, or “program production” wherever appearing, authorizing panel of outside experts to evaluate programs, authorizing Corporation to use its own judgment when dealing with programming, and striking out provision dealing with the creation of new noncommercial educational broadcast stations.
 
-    Subsec. (h). [Pub. L. 95–567, § 305][/us/pl/95/567/s305], designated existing provisions as par. (1) and added par. (2).
+    Subsec. (h). [Pub. L. 95–567][/us/pl/95/567], § 305, designated existing provisions as par. (1) and added par. (2).
 
-    Subsec. (i). [Pub. L. 95–567, § 306][/us/pl/95/567/s306], revised and restructured subsection and, as so restructured, substituted “September 30” for “June 30”, “15th day of February” for “31st day of December”, and inserted provisions comprising pars. (1)(B) and (C).
+    Subsec. (i). [Pub. L. 95–567][/us/pl/95/567], § 306, revised and restructured subsection and, as so restructured, substituted “September 30” for “June 30”, “15th day of February” for “31st day of December”, and inserted provisions comprising pars. (1)(B) and (C).
 
-    Subsec. (k). [Pub. L. 95–567, § 307(a)][/us/pl/95/567/s307/a], completely revised and restructured subsec. (k) and, in so doing, inserted provisions establishing an annual budget, authorizing funds for the fiscal years 1978 to 1983, requiring funds be disbursed on a quarterly basis, requiring that all meetings of entities receiving funds be open to the public, and that the financial records of such entities be available for public examination.
+    Subsec. (k). [Pub. L. 95–567][/us/pl/95/567], § 307(a), completely revised and restructured subsec. (k) and, in so doing, inserted provisions establishing an annual budget, authorizing funds for the fiscal years 1978 to 1983, requiring funds be disbursed on a quarterly basis, requiring that all meetings of entities receiving funds be open to the public, and that the financial records of such entities be available for public examination.
 
-    Subsec. (l)(3). [Pub. L. 95–567, § 308][/us/pl/95/567/s308], completely revised and restructured par. (3) and, in so doing, inserted provisions requiring an annual audit, furnishing a copy of the audit report, and use of uniform accounting principals.
+    Subsec. (l)(3). [Pub. L. 95–567][/us/pl/95/567], § 308, completely revised and restructured par. (3) and, in so doing, inserted provisions requiring an annual audit, furnishing a copy of the audit report, and use of uniform accounting principals.
 
-    1975—Subsec. (g)(2)(H). [Pub. L. 94–192, § 3][/us/pl/94/192/s3], inserted “and the use of nonbroadcast communications technologies for the dissemination of educational television or radio programs” after “broadcasting”.
+    1975—Subsec. (g)(2)(H). [Pub. L. 94–192][/us/pl/94/192], § 3, inserted “and the use of nonbroadcast communications technologies for the dissemination of educational television or radio programs” after “broadcasting”.
 
-    Subsec. (i). [Pub. L. 94–192, § 4][/us/pl/94/192/s4], directed that officers and directors be available to testify before Congressional committees concerning the annual fiscal report, audit report, or any other matter.
+    Subsec. (i). [Pub. L. 94–192][/us/pl/94/192], § 4, directed that officers and directors be available to testify before Congressional committees concerning the annual fiscal report, audit report, or any other matter.
 
-    Subsec. (k)(3) to (7). [Pub. L. 94–192, § 2][/us/pl/94/192/s2], added pars. (3) to (7).
+    Subsec. (k)(3) to (7). [Pub. L. 94–192][/us/pl/94/192], § 2, added pars. (3) to (7).
 
-    1973—Subsec. (k)(1). [Pub. L. 93–84, § 1(a)][/us/pl/93/84/s1/a], substituted authorization of appropriation of $50,000,000 and $60,000,000 for the fiscal years ending June 30, 1974 and June 30, 1975, respectively, for authorization of appropriation of $40,000,000 for the fiscal year ending June 30, 1973.
+    1973—Subsec. (k)(1). [Pub. L. 93–84][/us/pl/93/84], § 1(a), substituted authorization of appropriation of $50,000,000 and $60,000,000 for the fiscal years ending June 30, 1974 and June 30, 1975, respectively, for authorization of appropriation of $40,000,000 for the fiscal year ending June 30, 1973.
 
-    Subsec. (k)(2). [Pub. L. 93–84, § 1(b)][/us/pl/93/84/s1/b], substituted “1975” for “1973”.
+    Subsec. (k)(2). [Pub. L. 93–84][/us/pl/93/84], § 1(b), substituted “1975” for “1973”.
 
     1972—Subsec. (k)(1). [Pub. L. 92–411][/us/pl/92/411] struck out authorization of appropriation for fiscal years ending June 30, 1969, June 30, 1970, and the two succeeding fiscal years and provided for an appropriation of $40,000 for fiscal year ending June 30, 1973.
 
@@ -611,21 +611,21 @@
 
     1970—Subsec. (k). [Pub. L. 91–437][/us/pl/91/437] authorized appropriations of $20,000,000 for the fiscal year ending June 30, 1970, and $30,000,000 for each of the two succeeding fiscal years, and further authorized appropriation of amounts equal to the amount of total grants, donations, bequests, or other contributions from non-Federal sources received by the Corporation during each fiscal year with a maximum limit of $5,000,000 for any fiscal year.
 
-    1969—Subsec. (k)(1). [Pub. L. 91–97, § 3(a)][/us/pl/91/97/s3/a], inserted “and for the next fiscal year the sum of $20,000,000” after “the sum of $9,000,000”.
+    1969—Subsec. (k)(1). [Pub. L. 91–97][/us/pl/91/97], § 3(a), inserted “and for the next fiscal year the sum of $20,000,000” after “the sum of $9,000,000”.
 
-    Subsec. (k)(2). [Pub. L. 91–97, § 3(b)][/us/pl/91/97/s3/b], inserted “or the next fiscal year” after “the fiscal year ending June 30, 1969,”.
+    Subsec. (k)(2). [Pub. L. 91–97][/us/pl/91/97], § 3(b), inserted “or the next fiscal year” after “the fiscal year ending June 30, 1969,”.
 
     1968—Subsec. (k). [Pub. L. 90–294][/us/pl/90/294] substituted “1969” for “1968”.
 
  __Effective Date of 1999 Amendment__ 
 
-[Pub. L. 106–113, div. B, § 1000(a)(9)][/us/pl/106/113/s1000/a/9] \[title V, § 5002(b)\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–593, provided that: 
+[Pub. L. 106–113, div. B][/us/pl/106/113/dB], § 1000(a)(9) \[title V, § 5002(b)\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–593, provided that: 
 
 > “The amendment made by subsection (a) \[amending this section\] shall apply with respect to funds distributed on or after 6 months after the date of the enactment of this Act \[Nov. 29, 1999\].”
 
  __Effective Date of 1992 Amendment__ 
 
-[Pub. L. 102–356, § 22][/us/pl/102/356/s22], Aug. 26, 1992, [106 Stat. 957][/us/stat/106/957], provided that: 
+[Pub. L. 102–356][/us/pl/102/356], § 22, Aug. 26, 1992, [106 Stat. 957][/us/stat/106/957], provided that: 
 
 > “Section 5(a) \[amending this section\] shall take effect on January 31, 1996. All other provisions of this Act \[amending this section and sections 303b, 391, and 393 of this title, enacting provisions set out as notes under this section and sections 303 and 609 of this title, and repealing provisions set out as a note under [section 303 of this title][/us/usc/t47/s303]\] are effective on its date of enactment \[Aug. 26, 1992\].”
 
@@ -635,11 +635,11 @@
 
  __Effective Date of 1981 Amendment__ 
 
-[Pub. L. 97–35, title XII, § 1227(c)(4)][/us/pl/97/35/s1227/c/4], Aug. 13, 1981, [95 Stat. 729][/us/stat/95/729], provided that: 
+[Pub. L. 97–35, title XII][/us/pl/97/35/tXII], § 1227(c)(4), Aug. 13, 1981, [95 Stat. 729][/us/stat/95/729], provided that: 
 
 > “The amendments made in this subsection \[amending this section\] shall apply to fiscal years beginning after September 30, 1983.”
 
-[Pub. L. 97–35, title XII, § 1227(d)(3)][/us/pl/97/35/s1227/d/3], Aug. 13, 1981, [95 Stat. 729][/us/stat/95/729], provided that: 
+[Pub. L. 97–35, title XII][/us/pl/97/35/tXII], § 1227(d)(3), Aug. 13, 1981, [95 Stat. 729][/us/stat/95/729], provided that: 
 
 > “The amendments made in this subsection \[amending this section\] shall apply to fiscal years beginning after September 30, 1983.”
 
@@ -653,7 +653,7 @@
 
  __Transition Rules Relating to Term of Office of Board of Directors of Corporation for Public Broadcasting__ 
 
-[Pub. L. 102–356, § 5(c)][/us/pl/102/356/s5/c], Aug. 26, 1992, [106 Stat. 950][/us/stat/106/950], provided that:
+[Pub. L. 102–356][/us/pl/102/356], § 5(c), Aug. 26, 1992, [106 Stat. 950][/us/stat/106/950], provided that:
 
 >     “(1) With respect to the three offices whose terms are prescribed by law to expire on March 26, 1992, the term for each such office immediately after that date shall expire on January 31, 1998.
 
@@ -673,7 +673,7 @@
 
  __Objectivity and Balance Policy, Procedures, and Report__ 
 
-[Pub. L. 102–356, § 19][/us/pl/102/356/s19], Aug. 26, 1992, [106 Stat. 955][/us/stat/106/955], provided that: 
+[Pub. L. 102–356][/us/pl/102/356], § 19, Aug. 26, 1992, [106 Stat. 955][/us/stat/106/955], provided that: 
 
 > “Pursuant to the existing responsibility of the Corporation for Public Broadcasting under section 396(g)(1)(A) of the Communications Act of 1934 ([47 U.S.C. 396(g)(1)(A)][/us/usc/t47/s396/g/1/A]) to facilitate the full development of public telecommunications in which programs of high quality, diversity, creativity, excellence, and innovation, which are obtained from diverse sources, will be made available to public telecommunications entities, with strict adherence to objectivity and balance in all programs or series of programs of a controversial nature, the Board of Directors of the Corporation shall—
 
@@ -695,23 +695,23 @@
 
  __Consumer Information; Disclosure of Funding__ 
 
-[Pub. L. 102–356, § 20][/us/pl/102/356/s20], Aug. 26, 1992, [106 Stat. 956][/us/stat/106/956], provided that: 
+[Pub. L. 102–356][/us/pl/102/356], § 20, Aug. 26, 1992, [106 Stat. 956][/us/stat/106/956], provided that: 
 
 > “Prior to the expiration of the 90-day period following the date of the enactment of this Act \[Aug. 26, 1992\], the Corporation for Public Broadcasting, in consultation with representatives of public broadcasting entities, shall develop guidelines to assure that program credits for public television programs that receive production funding directly from the Corporation for Public Broadcasting adequately disclose that all or a portion of the cost of producing such program was paid for by funding from the Corporation for Public Broadcasting, and that indicates in some manner that the Corporation for Public Broadcasting is partially funded from Federal tax revenues.”
 
  __Independent Production Service Funding__ 
 
-[Pub. L. 102–356, § 21][/us/pl/102/356/s21], Aug. 26, 1992, [106 Stat. 956][/us/stat/106/956], provided that: 
+[Pub. L. 102–356][/us/pl/102/356], § 21, Aug. 26, 1992, [106 Stat. 956][/us/stat/106/956], provided that: 
 
 > “In making available funding pursuant to authorizations under this Act \[see Short Title of 1992 Amendment note set out under [section 609 of this title][/us/usc/t47/s609]\], any independent production service established under section 396(k) of the Communications Act of 1934 ([47 U.S.C. 396(k)][/us/usc/t47/s396/k]) shall, to the maximum extent practicable and consistent with the provisions of the Communications Act of 1934 \[[47 U.S.C. 151][/us/usc/t47/s151] et seq.\], provide such funding to eligible recipients and projects representing the widest possible geographic distribution, with the objective of providing funding to eligible recipients and projects in each State from which qualified proposals are received over the course of such authorizations.”
 
  __Satellite Replacement Needs; Report to Congress__ 
 
-    [Pub. L. 100–626, § 4(b)][/us/pl/100/626/s4/b], Nov. 7, 1988, [102 Stat. 3208][/us/stat/102/3208], directed Corporation for Public Broadcasting, on behalf of the public radio and public television licensees and permittees (or their designated representatives), to submit to Congress on or before Mar. 1, 1990, a report by such licensees or permittees (or their representatives) detailing the satellite replacement needs of public radio and public television, the difference in cost between leasing satellite transponder capacity and buying such capacity, and the availability of private sector rather than Federal financing.
+    [Pub. L. 100–626][/us/pl/100/626], § 4(b), Nov. 7, 1988, [102 Stat. 3208][/us/stat/102/3208], directed Corporation for Public Broadcasting, on behalf of the public radio and public television licensees and permittees (or their designated representatives), to submit to Congress on or before Mar. 1, 1990, a report by such licensees or permittees (or their representatives) detailing the satellite replacement needs of public radio and public television, the difference in cost between leasing satellite transponder capacity and buying such capacity, and the availability of private sector rather than Federal financing.
 
  __Continuation of Individuals Serving on the Board of Directors; Reduction in Membership of Board; Political Affiliation of Board Appointees; Abolition of Five Offices on__  __March 1, 1984__ 
 
-[Pub. L. 97–35, title XII, § 1225(a)(2)][/us/pl/97/35/s1225/a/2], Aug. 13, 1981, [95 Stat. 726][/us/stat/95/726], as amended by [Pub. L. 97–410, § 4][/us/pl/97/410/s4], Jan. 3, 1983, [96 Stat. 2044][/us/stat/96/2044], provided that:
+[Pub. L. 97–35, title XII][/us/pl/97/35/tXII], § 1225(a)(2), Aug. 13, 1981, [95 Stat. 726][/us/stat/95/726], as amended by [Pub. L. 97–410][/us/pl/97/410], § 4, Jan. 3, 1983, [96 Stat. 2044][/us/stat/96/2044], provided that:
 
 >     “(A) The amendment made in paragraph (1) \[amending this section\] shall not affect the continuation in office of any individual serving on the Board of Directors of the Corporation for Public Broadcasting on the date of the enactment of this Act \[Aug. 13, 1981\].
 
@@ -719,15 +719,15 @@
 
  __Temporary Commission on Alternative Financing for Public Telecommunications; Composition; Personnel; Functions; Report; Demonstration Programs for Determining Feasibility of Permitting Public Television Stations and Public Radio Station Licensees To Broadcast Advertising Announcements__ 
 
-    [Pub. L. 97–35, title XII][/us/pl/97/35], §§ 1232, 1233, Aug. 13, 1981, [95 Stat. 731][/us/stat/95/731], 733, established a Temporary Commission on Alternative Financing for Public Telecommunications for the purpose of conducting a study, to be submitted to Congress not later than July 1, 1982, regarding options which may be available to public telecommunications entities, the Public Broadcasting Service, and National Public Radio with respect to development of sources of revenue in addition to sources available to such entities on Aug. 13, 1981, further provided for membership of the Temporary Commission as well as other administrative matters, further authorized the Temporary Commission to establish a demonstration program to allow broadcast advertising announcements on public radio and television stations, which would run from Jan. 1, 1982, to June 30, 1983, further directed the Temporary Commission to submit to Congress, not later than Oct. 1, 1983, a report on the demonstration program, and further provided for the termination of the Temporary Commission 90 days after the submission of this report to Congress.
+    [Pub. L. 97–35, title XII][/us/pl/97/35/tXII], §§ 1232, 1233, Aug. 13, 1981, [95 Stat. 731][/us/stat/95/731], 733, established a Temporary Commission on Alternative Financing for Public Telecommunications for the purpose of conducting a study, to be submitted to Congress not later than July 1, 1982, regarding options which may be available to public telecommunications entities, the Public Broadcasting Service, and National Public Radio with respect to development of sources of revenue in addition to sources available to such entities on Aug. 13, 1981, further provided for membership of the Temporary Commission as well as other administrative matters, further authorized the Temporary Commission to establish a demonstration program to allow broadcast advertising announcements on public radio and television stations, which would run from Jan. 1, 1982, to June 30, 1983, further directed the Temporary Commission to submit to Congress, not later than Oct. 1, 1983, a report on the demonstration program, and further provided for the termination of the Temporary Commission 90 days after the submission of this report to Congress.
 
  __Compensation of Officers and Employees__ 
 
-[Pub. L. 95–567, title III, § 303(b)][/us/pl/95/567/s303/b], Nov. 2, 1978, [92 Stat. 2412][/us/stat/92/2412], provided that: 
+[Pub. L. 95–567, title III][/us/pl/95/567/tIII], § 303(b), Nov. 2, 1978, [92 Stat. 2412][/us/stat/92/2412], provided that: 
 
 > “The amendment made by subsection (a) \[amending this section\] shall not be construed to reduce the annual rate of pay of any officer or employee of the Corporation for Public Broadcasting in any case in which (1) such officer or employee was appointed or named to any position in the Corporation before the date of the enactment of this Act \[Nov. 2, 1978\]; and (2) the annual rate of pay for such position, as in effect on such date of enactment, exceeds the maximum rate of pay established in section 396(e)(1) of the Communications Act of 1934 \[subsec. (e)(1) of this section\], as amended by subsection (a).”
 
-[Pub. L. 95–567, title III, § 307(b)][/us/pl/95/567/s307/b], Nov. 2, 1978, [92 Stat. 2419][/us/stat/92/2419], provided that: 
+[Pub. L. 95–567, title III][/us/pl/95/567/tIII], § 307(b), Nov. 2, 1978, [92 Stat. 2419][/us/stat/92/2419], provided that: 
 
 > “Section 396(k)(10) of the Communications Act of 1934 \[subsec. (k)(10) of this section\], as added by subsection (a), shall not be construed to reduce the annual rate of pay of any officer or employee of the Public Broadcasting Service or National Public Radio (or any successor organization) in any case in which (1) such officer or employee was appointed or named to any position in the Public Broadcasting Service or National Public Radio (or any successor organization) before the date of the enactment of this Act \[Nov. 2, 1978\]; and (2) the annual rate of pay for such position, as in effect on such date of enactment, exceeds the maximum rate of pay established in section 396(k)(10) of the Communications Act of 1934 \[subsec. (k)(10) of this section\], as added by subsection (a).”
 
@@ -741,39 +741,39 @@
 [/us/usc/t5/s5312]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5312
 [/us/usc/t47/s398/b/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs398%2Fb%2F4
 [/us/act/1934-06-19/ch652]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-19%2Fch652
-[/us/pl/90/129/s201/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F129%2Fs201%2F9
+[/us/pl/90/129/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F129%2FtII
 [/us/stat/81/368]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F368
 [/us/pl/90/294]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F294
 [/us/stat/82/108]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F108
-[/us/pl/91/97/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F97%2Fs3
+[/us/pl/91/97]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F97
 [/us/stat/83/146]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F83%2F146
-[/us/pl/91/437/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F437%2Fs2
+[/us/pl/91/437]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F437
 [/us/stat/84/888]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F888
-[/us/pl/92/411/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F411%2Fs1
+[/us/pl/92/411]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F411
 [/us/stat/86/643]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F643
-[/us/pl/93/84/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F84%2Fs1%2Fa
+[/us/pl/93/84]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F84
 [/us/stat/87/219]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F219
 [/us/pl/94/192]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F192
 [/us/stat/89/1099]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F1099
-[/us/pl/95/567]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F567
+[/us/pl/95/567/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F567%2FtIII
 [/us/stat/92/2411]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2411
-[/us/pl/97/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35
+[/us/pl/97/35/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2FtXII
 [/us/stat/95/725-730]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F725-730
 [/us/pl/98/214]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F214
 [/us/stat/97/1467-1469]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F1467-1469
-[/us/pl/99/272/s5001/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F272%2Fs5001%2Fc
+[/us/pl/99/272/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F272%2FtV
 [/us/stat/100/117]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F117
 [/us/pl/100/626]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F626
 [/us/stat/102/3207-3211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3207-3211
 [/us/pl/102/356]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F356
 [/us/stat/106/949-953]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F949-953
-[/us/pl/105/277/s101/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs101%2Ff
+[/us/pl/105/277/dA]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2FdA
 [/us/stat/112/2681-337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681-337
-[/us/pl/106/113/s1000/a/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2Fs1000%2Fa%2F9
+[/us/pl/106/113/dB]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2FdB
 [/us/stat/113/1536]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1536
-[/us/pl/107/20/s2702]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F20%2Fs2702
+[/us/pl/107/20/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F20%2FtII
 [/us/stat/115/182]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F182
-[/us/pl/108/271/s8/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F271%2Fs8%2Fb
+[/us/pl/108/271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F271
 [/us/stat/118/814]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F814
 [/us/pl/87/569]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F569
 [/us/stat/76/265]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F265
@@ -781,7 +781,7 @@
 [/us/act/1934-06-19/ch652]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-19%2Fch652
 [/us/stat/48/1064]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F1064
 [/us/usc/t47/s609]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs609
-[/us/act/1934-06-19/ch652]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-19%2Fch652
+[/us/act/1934-06-19/ch652/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-19%2Fch652%2FtIII
 [/us/pl/87/447]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F447
 [/us/stat/76/67]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F67
 [/us/pl/90/129]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F129
@@ -793,129 +793,129 @@
 [/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
 [/us/usc/t47/s396/k/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs396%2Fk%2F9
 [/us/usc/t26/s4958]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs4958
-[/us/pl/102/356/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F356%2Fs4
-[/us/pl/102/356/s5/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F356%2Fs5%2Fa%2F1
-[/us/pl/102/356/s5/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F356%2Fs5%2Fa%2F2
-[/us/pl/102/356/s5/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F356%2Fs5%2Fb
-[/us/pl/102/356/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F356%2Fs6
-[/us/pl/102/356/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F356%2Fs7
-[/us/pl/102/356/s8/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F356%2Fs8%2Fa
-[/us/pl/102/356/s8/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F356%2Fs8%2Fb
-[/us/pl/102/356/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F356%2Fs9
-[/us/pl/102/356/s10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F356%2Fs10
-[/us/pl/102/356/s14/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F356%2Fs14%2Fb
-[/us/pl/102/356/s11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F356%2Fs11
-[/us/pl/102/356/s12/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F356%2Fs12%2Fa
-[/us/pl/102/356/s13/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F356%2Fs13%2Fa
-[/us/pl/102/356/s13/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F356%2Fs13%2Fb%2F2
-[/us/pl/102/356/s14/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F356%2Fs14%2Fa
-[/us/pl/102/356/s12/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F356%2Fs12%2Fb
-[/us/pl/100/626/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F626%2Fs5
-[/us/pl/100/626/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F626%2Fs6
-[/us/pl/100/626/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F626%2Fs3
-[/us/pl/100/626/s7/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F626%2Fs7%2Fa%2F1
-[/us/pl/100/626/s7/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F626%2Fs7%2Fa%2F3
-[/us/pl/100/626/s7/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F626%2Fs7%2Fb
-[/us/pl/100/626/s7/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F626%2Fs7%2Fc
-[/us/pl/100/626/s7/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F626%2Fs7%2Fe
-[/us/pl/100/626/s7/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F626%2Fs7%2Fd
-[/us/pl/100/626/s7/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F626%2Fs7%2Ff
-[/us/pl/100/626/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F626%2Fs8
-[/us/pl/100/626/s7/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F626%2Fs7%2Fg
-[/us/pl/100/626/s7/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F626%2Fs7%2Fg
-[/us/pl/100/626/s7/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F626%2Fs7%2Fh
-[/us/pl/100/626/s7/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F626%2Fs7%2Fi
-[/us/pl/100/626/s7/j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F626%2Fs7%2Fj
-[/us/pl/100/626/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F626%2Fs4%2Fa
-[/us/pl/100/626/s9/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F626%2Fs9%2Fa
-[/us/pl/99/272/s5001/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F272%2Fs5001%2Fc%2F1
-[/us/pl/99/272/s5001/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F272%2Fs5001%2Fc%2F2
-[/us/pl/99/272/s5001/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F272%2Fs5001%2Fc%2F3
-[/us/pl/98/214/s6/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F214%2Fs6%2Fa
-[/us/pl/98/214/s6/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F214%2Fs6%2Fb%2F1
-[/us/pl/98/214/s6/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F214%2Fs6%2Fc
-[/us/pl/98/214/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F214%2Fs3%2Fa
-[/us/pl/98/214/s3/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F214%2Fs3%2Fb
-[/us/pl/98/214/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F214%2Fs5
-[/us/pl/97/35/s1224]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs1224
-[/us/pl/97/35/s1225/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs1225%2Fa%2F1
-[/us/pl/97/35/s1225/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs1225%2Fb
-[/us/pl/97/35/s1225/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs1225%2Fc
-[/us/pl/97/35/s1234/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs1234%2Fa
-[/us/pl/97/35/s1226]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs1226
-[/us/pl/97/35/s1227/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs1227%2Fa
-[/us/pl/97/35/s1227/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs1227%2Fb
-[/us/pl/97/35/s1227/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs1227%2Fc%2F1
-[/us/pl/97/35/s1227/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs1227%2Fc%2F2
-[/us/pl/97/35/s1227/c/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs1227%2Fc%2F3%2FA
-[/us/pl/97/35/s1227/c/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs1227%2Fc%2F3%2FB
+[/us/pl/102/356]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F356
+[/us/pl/102/356]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F356
+[/us/pl/102/356]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F356
+[/us/pl/102/356]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F356
+[/us/pl/102/356]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F356
+[/us/pl/102/356]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F356
+[/us/pl/102/356]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F356
+[/us/pl/102/356]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F356
+[/us/pl/102/356]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F356
+[/us/pl/102/356]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F356
+[/us/pl/102/356]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F356
+[/us/pl/102/356]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F356
+[/us/pl/102/356]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F356
+[/us/pl/102/356]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F356
+[/us/pl/102/356]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F356
+[/us/pl/102/356]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F356
+[/us/pl/102/356]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F356
+[/us/pl/100/626]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F626
+[/us/pl/100/626]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F626
+[/us/pl/100/626]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F626
+[/us/pl/100/626]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F626
+[/us/pl/100/626]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F626
+[/us/pl/100/626]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F626
+[/us/pl/100/626]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F626
+[/us/pl/100/626]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F626
+[/us/pl/100/626]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F626
+[/us/pl/100/626]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F626
+[/us/pl/100/626]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F626
+[/us/pl/100/626]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F626
+[/us/pl/100/626]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F626
+[/us/pl/100/626]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F626
+[/us/pl/100/626]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F626
+[/us/pl/100/626]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F626
+[/us/pl/100/626]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F626
+[/us/pl/100/626]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F626
+[/us/pl/99/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F272
+[/us/pl/99/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F272
+[/us/pl/99/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F272
+[/us/pl/98/214]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F214
+[/us/pl/98/214]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F214
+[/us/pl/98/214]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F214
+[/us/pl/98/214]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F214
+[/us/pl/98/214]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F214
+[/us/pl/98/214]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F214
+[/us/pl/97/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35
+[/us/pl/97/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35
+[/us/pl/97/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35
+[/us/pl/97/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35
+[/us/pl/97/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35
+[/us/pl/97/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35
+[/us/pl/97/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35
+[/us/pl/97/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35
+[/us/pl/97/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35
+[/us/pl/97/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35
+[/us/pl/97/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35
+[/us/pl/97/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35
 [/us/usc/t47/s393/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs393%2Fd
-[/us/pl/97/35/s1227/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs1227%2Fd%2F1
-[/us/pl/97/35/s1227/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs1227%2Fd%2F2
-[/us/pl/97/35/s1227/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs1227%2Fe
-[/us/pl/97/35/s1227/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs1227%2Ff
-[/us/pl/97/35/s1227/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs1227%2Fg
-[/us/pl/97/35/s1228]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs1228
-[/us/pl/95/567/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F567%2Fs301
-[/us/pl/95/567/s302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F567%2Fs302
-[/us/pl/95/567/s303/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F567%2Fs303%2Fa
-[/us/pl/95/567/s304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F567%2Fs304
-[/us/pl/95/567/s305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F567%2Fs305
-[/us/pl/95/567/s306]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F567%2Fs306
-[/us/pl/95/567/s307/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F567%2Fs307%2Fa
-[/us/pl/95/567/s308]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F567%2Fs308
-[/us/pl/94/192/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F192%2Fs3
-[/us/pl/94/192/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F192%2Fs4
-[/us/pl/94/192/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F192%2Fs2
-[/us/pl/93/84/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F84%2Fs1%2Fa
-[/us/pl/93/84/s1/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F84%2Fs1%2Fb
+[/us/pl/97/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35
+[/us/pl/97/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35
+[/us/pl/97/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35
+[/us/pl/97/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35
+[/us/pl/97/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35
+[/us/pl/97/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35
+[/us/pl/95/567]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F567
+[/us/pl/95/567]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F567
+[/us/pl/95/567]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F567
+[/us/pl/95/567]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F567
+[/us/pl/95/567]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F567
+[/us/pl/95/567]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F567
+[/us/pl/95/567]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F567
+[/us/pl/95/567]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F567
+[/us/pl/94/192]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F192
+[/us/pl/94/192]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F192
+[/us/pl/94/192]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F192
+[/us/pl/93/84]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F84
+[/us/pl/93/84]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F84
 [/us/pl/92/411]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F411
 [/us/pl/92/411]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F411
 [/us/pl/91/437]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F437
-[/us/pl/91/97/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F97%2Fs3%2Fa
-[/us/pl/91/97/s3/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F97%2Fs3%2Fb
+[/us/pl/91/97]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F97
+[/us/pl/91/97]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F97
 [/us/pl/90/294]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F294
-[/us/pl/106/113/s1000/a/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2Fs1000%2Fa%2F9
+[/us/pl/106/113/dB]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2FdB
 [/us/stat/113/1536]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1536
-[/us/pl/102/356/s22]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F356%2Fs22
+[/us/pl/102/356]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F356
 [/us/stat/106/957]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F957
 [/us/usc/t47/s303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs303
 [/us/pl/100/626]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F626
 [/us/pl/100/626/s12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F626%2Fs12
 [/us/usc/t47/s391]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs391
-[/us/pl/97/35/s1227/c/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs1227%2Fc%2F4
+[/us/pl/97/35/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2FtXII
 [/us/stat/95/729]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F729
-[/us/pl/97/35/s1227/d/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs1227%2Fd%2F3
+[/us/pl/97/35/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2FtXII
 [/us/stat/95/729]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F729
 [/us/pl/95/567]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F567
 [/us/pl/95/567/s403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F567%2Fs403
 [/us/usc/t47/s390]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs390
 [/us/pl/104/66/s3003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F66%2Fs3003
 [/us/usc/t31/s1113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1113
-[/us/pl/102/356/s5/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F356%2Fs5%2Fc
+[/us/pl/102/356]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F356
 [/us/stat/106/950]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F950
-[/us/pl/102/356/s19]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F356%2Fs19
+[/us/pl/102/356]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F356
 [/us/stat/106/955]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F955
 [/us/usc/t47/s396/g/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs396%2Fg%2F1%2FA
 [/us/usc/t47/s396/k/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs396%2Fk%2F3%2FA
-[/us/pl/102/356/s20]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F356%2Fs20
+[/us/pl/102/356]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F356
 [/us/stat/106/956]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F956
-[/us/pl/102/356/s21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F356%2Fs21
+[/us/pl/102/356]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F356
 [/us/stat/106/956]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F956
 [/us/usc/t47/s609]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs609
 [/us/usc/t47/s396/k]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs396%2Fk
 [/us/usc/t47/s151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs151
-[/us/pl/100/626/s4/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F626%2Fs4%2Fb
+[/us/pl/100/626]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F626
 [/us/stat/102/3208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3208
-[/us/pl/97/35/s1225/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs1225%2Fa%2F2
+[/us/pl/97/35/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2FtXII
 [/us/stat/95/726]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F726
-[/us/pl/97/410/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F410%2Fs4
+[/us/pl/97/410]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F410
 [/us/stat/96/2044]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F2044
-[/us/pl/97/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35
+[/us/pl/97/35/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2FtXII
 [/us/stat/95/731]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F731
-[/us/pl/95/567/s303/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F567%2Fs303%2Fb
+[/us/pl/95/567/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F567%2FtIII
 [/us/stat/92/2412]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2412
-[/us/pl/95/567/s307/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F567%2Fs307%2Fb
+[/us/pl/95/567/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F567%2FtIII
 [/us/stat/92/2419]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2419
 
 

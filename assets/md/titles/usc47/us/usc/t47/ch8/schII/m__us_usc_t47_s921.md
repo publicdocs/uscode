@@ -23,7 +23,7 @@
 
     (3) The term “the 1934 Act” means the Communications Act of 1934 ([47 U.S.C. 151][/us/usc/t47/s151] et seq.).
 
-([Pub. L. 102–538, title I, § 111][/us/pl/102/538/s111], as added [Pub. L. 103–66, title VI, § 6001(a)(3)][/us/pl/103/66/s6001/a/3], Aug. 10, 1993, [107 Stat. 379][/us/stat/107/379].)
+([Pub. L. 102–538, title I][/us/pl/102/538/tI], § 111, as added [Pub. L. 103–66, title VI][/us/pl/103/66/tVI], § 6001(a)(3), Aug. 10, 1993, [107 Stat. 379][/us/stat/107/379].)
 
  __References in Text__ 
 
@@ -31,7 +31,7 @@
 
  __Identification, Reallocation, and Auction of Federal Spectrum__ 
 
-[Pub. L. 114–74, title X][/us/pl/114/74], §§ 1002–1004, Nov. 2, 2015, [129 Stat. 621][/us/stat/129/621], provided that:
+[Pub. L. 114–74, title X][/us/pl/114/74/tX], §§ 1002–1004, Nov. 2, 2015, [129 Stat. 621][/us/stat/129/621], provided that:
 
 > “SEC. 1002. __DEFINITIONS.__ 
 
@@ -87,13 +87,13 @@
 
  __Study and Report on Current and Future Spectrum Use__ 
 
-[Pub. L. 106–553, § 1(a)(2)][/us/pl/106/553/s1/a/2] \[title II\], Dec. 21, 2000, [114 Stat. 2762][/us/stat/114/2762], 2762A–73, provided in part: 
+[Pub. L. 106–553][/us/pl/106/553], § 1(a)(2) \[title II\], Dec. 21, 2000, [114 Stat. 2762][/us/stat/114/2762], 2762A–73, provided in part: 
 
 > “That the Administrator shall, after consultation with other federal departments and agencies responsible for regulating the core operations of entities engaged in the provision of energy, water and railroad services, complete and submit to Congress, not later than twelve months after date of enactment of this subsection, a study of the current and future use of spectrum by these entities to protect and maintain the nation’s critical infrastructure: Provided further, That within six months after the release of this study, the Chairman of the Federal Communications Commission shall submit a report to Congress on the actions that could be taken by the Commission to address any needs identified in the Administrator’s study.”
 
  __Report on Progress on Spectrum Sharing__ 
 
-[Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[\[div. A\], title XVII, § 1705\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–366, provided that:
+[Pub. L. 106–398][/us/pl/106/398], § 1 \[\[div. A\], title XVII, § 1705\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–366, provided that:
 
 >     “(a)  __Study Required__  __.—__ 
 
@@ -115,7 +115,7 @@
 
  __Surrender of Department of Defense Spectrum__ 
 
-[Pub. L. 106–65, div. A, title X, § 1062(b)][/us/pl/106/65/s1062/b], Oct. 5, 1999, [113 Stat. 768][/us/stat/113/768], provided that:
+[Pub. L. 106–65, div. A, title X][/us/pl/106/65/dA/tX], § 1062(b), Oct. 5, 1999, [113 Stat. 768][/us/stat/113/768], provided that:
 
 >     “(1)  __In general__  __.—__ 
 
@@ -129,7 +129,7 @@
 
 >     Paragraph (1) shall not apply to a band of frequencies that has been identified for reallocation in accordance with title VI of the Omnibus Budget Reconciliation Act of 1993 ([Public Law 103–66][/us/pl/103/66]; [107 Stat. 379][/us/stat/107/379]) \[enacting sections 159 and 921 to 927 of this title and amending sections 152, 153, 156, 158, 309, 332, and 903 of this title\] and title III of the Balanced Budget Act of 1997 ([Public Law 105–33][/us/pl/105/33], [111 Stat. 258][/us/stat/111/258]) \[enacting [section 337 of this title][/us/usc/t47/s337], amending sections 153, 303, 309, and 923 to 925 of this title, and repealing provisions set out as a note under [section 309 of this title][/us/usc/t47/s309]\], other than a band of frequencies that is reclaimed pursuant to subsection (c) \[amending [section 923 of this title][/us/usc/t47/s923] and enacting provisions set out as a note below\].”
 
-\[[Pub. L. 108–494, title II, § 206][/us/pl/108/494/s206], Dec. 23, 2004, [118 Stat. 3996][/us/stat/118/3996], provided that: 
+\[[Pub. L. 108–494, title II][/us/pl/108/494/tII], § 206, Dec. 23, 2004, [118 Stat. 3996][/us/stat/118/3996], provided that: 
 
 > “Nothing in this title \[see Short Title of 2004 Amendment note set out under [section 901 of this title][/us/usc/t47/s901]\] is intended to modify section 1062(b) of the National Defense Authorization Act for Fiscal Year 2000 ([Public Law 106–65][/us/pl/106/65]) \[set out above\].”
 
@@ -137,7 +137,7 @@
 
  __Reassignment to Federal Government for Use by Department of Defense of Certain Frequency Spectrum Recommended for Reallocation__ 
 
-[Pub. L. 106–65, div. A, title X, § 1062(c)(1)][/us/pl/106/65/s1062/c/1], Oct. 5, 1999, [113 Stat. 768][/us/stat/113/768], provided that: 
+[Pub. L. 106–65, div. A, title X][/us/pl/106/65/dA/tX], § 1062(c)(1), Oct. 5, 1999, [113 Stat. 768][/us/stat/113/768], provided that: 
 
 > “Notwithstanding any provision of the National Telecommunications and Information Administration Organization Act \[[47 U.S.C. 901][/us/usc/t47/s901] et seq.\] or the Balanced Budget Act of 1997 \[[Pub. L. 105–33][/us/pl/105/33], see Tables for classification\], the President shall reclaim for exclusive Federal Government use on a primary basis by the Department of Defense—
 
@@ -147,7 +147,7 @@
 
  __Assessment of Electromagnetic Spectrum Reallocation__ 
 
-    [Pub. L. 102–538, title I, § 156][/us/pl/102/538/s156], as added by [Pub. L. 106–65, div. A, title X, § 1062(a)][/us/pl/106/65/s1062/a], Oct. 5, 1999, [113 Stat. 767][/us/stat/113/767], required the Secretary of Commerce to convene an interagency review and assessment of the progress made in implementation of national spectrum planning, the reallocation of Federal Government spectrum to non-Federal use, and the implications for such reallocations to the affected Federal executive agencies and to submit to the President and committees of Congress, not later than Oct. 1, 2000, a report on the assessment.
+    [Pub. L. 102–538, title I][/us/pl/102/538/tI], § 156, as added by [Pub. L. 106–65, div. A, title X][/us/pl/106/65/dA/tX], § 1062(a), Oct. 5, 1999, [113 Stat. 767][/us/stat/113/767], required the Secretary of Commerce to convene an interagency review and assessment of the progress made in implementation of national spectrum planning, the reallocation of Federal Government spectrum to non-Federal use, and the implications for such reallocations to the affected Federal executive agencies and to submit to the President and committees of Congress, not later than Oct. 1, 2000, a report on the assessment.
 
 ----------
 
@@ -157,23 +157,23 @@
 ----------
 
 [/us/usc/t47/s151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs151
-[/us/pl/102/538/s111]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F538%2Fs111
-[/us/pl/103/66/s6001/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66%2Fs6001%2Fa%2F3
+[/us/pl/102/538/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F538%2FtI
+[/us/pl/103/66/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66%2FtVI
 [/us/stat/107/379]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F379
 [/us/act/1934-06-19/ch652]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-19%2Fch652
 [/us/stat/48/1064]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F1064
 [/us/usc/t47/s609]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs609
-[/us/pl/114/74]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F74
+[/us/pl/114/74/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F74%2FtX
 [/us/stat/129/621]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F621
 [/us/usc/t47/s901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs901
 [/us/usc/t47/s923]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs923
 [/us/usc/t47/s309/j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs309%2Fj
 [/us/usc/t47/s309/j/16/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs309%2Fj%2F16%2FB
-[/us/pl/106/553/s1/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F553%2Fs1%2Fa%2F2
+[/us/pl/106/553]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F553
 [/us/stat/114/2762]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2762
-[/us/pl/106/398/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398%2Fs1
+[/us/pl/106/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398
 [/us/stat/114/1654]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1654
-[/us/pl/106/65/s1062/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2Fs1062%2Fb
+[/us/pl/106/65/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2FdA%2FtX
 [/us/stat/113/768]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F768
 [/us/pl/103/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66
 [/us/stat/107/379]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F379
@@ -182,17 +182,17 @@
 [/us/usc/t47/s337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs337
 [/us/usc/t47/s309]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs309
 [/us/usc/t47/s923]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs923
-[/us/pl/108/494/s206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F494%2Fs206
+[/us/pl/108/494/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F494%2FtII
 [/us/stat/118/3996]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F3996
 [/us/usc/t47/s901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs901
 [/us/pl/106/65]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65
-[/us/pl/106/65/s1062/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2Fs1062%2Fc%2F1
+[/us/pl/106/65/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2FdA%2FtX
 [/us/stat/113/768]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F768
 [/us/usc/t47/s901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs901
 [/us/pl/105/33]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33
 [/us/usc/t47/s923/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs923%2Fa
-[/us/pl/102/538/s156]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F538%2Fs156
-[/us/pl/106/65/s1062/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2Fs1062%2Fa
+[/us/pl/102/538/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F538%2FtI
+[/us/pl/106/65/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2FdA%2FtX
 [/us/stat/113/767]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F767
 
 

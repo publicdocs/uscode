@@ -127,7 +127,7 @@
 
         Except as otherwise provided in subsection (a) of this section, terms used in this subchapter that are defined in [section 153 of this title][/us/usc/t47/s153] have the meanings provided in such section.
 
-([Pub. L. 87–624, title VI, § 681][/us/pl/87/624/s681], as added [Pub. L. 106–180, § 3][/us/pl/106/180/s3], Mar. 17, 2000, [114 Stat. 58][/us/stat/114/58].)
+([Pub. L. 87–624, title VI][/us/pl/87/624/tVI], § 681, as added [Pub. L. 106–180][/us/pl/106/180], § 3, Mar. 17, 2000, [114 Stat. 58][/us/stat/114/58].)
 
  __Change of Name__ 
 
@@ -145,8 +145,8 @@
 ----------
 
 [/us/usc/t47/s153]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs153
-[/us/pl/87/624/s681]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F624%2Fs681
-[/us/pl/106/180/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F180%2Fs3
+[/us/pl/87/624/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F624%2FtVI
+[/us/pl/106/180]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F180
 [/us/stat/114/58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F58
 [/us/pl/108/458]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458
 [/us/usc/t50/s3001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3001

@@ -55,7 +55,7 @@
 
         Except for nuclear ships, and except for ships of five thousand gross tons and upward which are subject to the Safety Convention, the Commission may exempt from the requirements, for radio direction finding apparatus, of this part and of the Safety Convention, any ship which falls within the descriptions set forth in paragraphs (1), (2), (3), and (4) of subsection (b) of this section, if it considers that the route or conditions of the voyage or other circumstances are such as to render such apparatus unreasonable or unnecessary.
 
-([June 19, 1934, ch. 652][/us/act/1934-06-19/ch652], title III, § 352, as added [May 20, 1937, ch. 229, § 10(b)][/us/act/1937-05-20/ch229/s10/b], [50 Stat. 192][/us/stat/50/192]; amended [Sept. 26, 1950, ch. 1049, § 2(a)(2)][/us/act/1950-09-26/ch1049/s2/a/2], [64 Stat. 1038][/us/stat/64/1038]; [Aug. 13, 1954, ch. 729, § 1(b)][/us/act/1954-08-13/ch729/s1/b], (c), [68 Stat. 705][/us/stat/68/705]; [Pub. L. 89–121, § 3][/us/pl/89/121/s3], Aug. 13, 1965, [79 Stat. 512][/us/stat/79/512]; [Pub. L. 97–31, § 12(151)][/us/pl/97/31/s12/151], Aug. 6, 1981, [95 Stat. 167][/us/stat/95/167].)
+([June 19, 1934, ch. 652][/us/act/1934-06-19/ch652], title III, § 352, as added [May 20, 1937, ch. 229][/us/act/1937-05-20/ch229], § 10(b), [50 Stat. 192][/us/stat/50/192]; amended [Sept. 26, 1950, ch. 1049][/us/act/1950-09-26/ch1049], § 2(a)(2), [64 Stat. 1038][/us/stat/64/1038]; [Aug. 13, 1954, ch. 729][/us/act/1954-08-13/ch729], § 1(b), (c), [68 Stat. 705][/us/stat/68/705]; [Pub. L. 89–121][/us/pl/89/121], § 3, Aug. 13, 1965, [79 Stat. 512][/us/stat/79/512]; [Pub. L. 97–31][/us/pl/97/31], § 12(151), Aug. 6, 1981, [95 Stat. 167][/us/stat/95/167].)
 
  __References in Text__ 
 
@@ -65,11 +65,11 @@
 
     1981—Subsec. (a)(2). [Pub. L. 97–31][/us/pl/97/31] substituted “Maritime Administration of the Department of Transportation” for “United States Maritime Commission”. For prior transfers of functions, see Transfer of Functions note set out below.
 
-    1965—[Pub. L. 89–121, § 3(a)][/us/pl/89/121/s3/a], added pars. (6) to (8) and struck out former par. (6) which made the provisions of this part inapplicable to a vessel navigating solely on the Great Lakes, or on any bays, sounds, rivers, or protected waters within the jurisdiction of the United States, or to a vessel leaving or attempting to leave any harbor or port of the United States for a voyage solely on the Great Lakes, or on any bays, sounds, rivers, or protected waters within the jurisdiction of the United States.
+    1965—[Pub. L. 89–121][/us/pl/89/121], § 3(a), added pars. (6) to (8) and struck out former par. (6) which made the provisions of this part inapplicable to a vessel navigating solely on the Great Lakes, or on any bays, sounds, rivers, or protected waters within the jurisdiction of the United States, or to a vessel leaving or attempting to leave any harbor or port of the United States for a voyage solely on the Great Lakes, or on any bays, sounds, rivers, or protected waters within the jurisdiction of the United States.
 
-    Subsec. (b). [Pub. L. 89–121, § 3(b)][/us/pl/89/121/s3/b], excepted nuclear ships and substituted “or, alternatively, do not go more than two hundred nautical miles” for “or more than two hundred nautical miles”.
+    Subsec. (b). [Pub. L. 89–121][/us/pl/89/121], § 3(b), excepted nuclear ships and substituted “or, alternatively, do not go more than two hundred nautical miles” for “or more than two hundred nautical miles”.
 
-    Subsec. (d). [Pub. L. 89–121, § 3(c)][/us/pl/89/121/s3/c], added subsec. (d).
+    Subsec. (d). [Pub. L. 89–121][/us/pl/89/121], § 3(c), added subsec. (d).
 
     1954—Subsec. (a)(3). Act Aug. 13, 1954, § 1(b), substituted “any Safety Convention in force between the United States and that country” for “the Safety Convention and” and inserted at end “or which ship is not subject to the radio provisions of any such Convention”.
 
@@ -93,21 +93,21 @@
 ----------
 
 [/us/act/1934-06-19/ch652]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-19%2Fch652
-[/us/act/1937-05-20/ch229/s10/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1937-05-20%2Fch229%2Fs10%2Fb
+[/us/act/1937-05-20/ch229]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1937-05-20%2Fch229
 [/us/stat/50/192]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F50%2F192
-[/us/act/1950-09-26/ch1049/s2/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-09-26%2Fch1049%2Fs2%2Fa%2F2
+[/us/act/1950-09-26/ch1049]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-09-26%2Fch1049
 [/us/stat/64/1038]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F1038
-[/us/act/1954-08-13/ch729/s1/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-13%2Fch729%2Fs1%2Fb
+[/us/act/1954-08-13/ch729]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-13%2Fch729
 [/us/stat/68/705]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68%2F705
-[/us/pl/89/121/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F121%2Fs3
+[/us/pl/89/121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F121
 [/us/stat/79/512]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F512
-[/us/pl/97/31/s12/151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F31%2Fs12%2F151
+[/us/pl/97/31]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F31
 [/us/stat/95/167]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F167
 [/us/usc/t22/s3602/b/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs3602%2Fb%2F5
 [/us/pl/97/31]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F31
-[/us/pl/89/121/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F121%2Fs3%2Fa
-[/us/pl/89/121/s3/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F121%2Fs3%2Fb
-[/us/pl/89/121/s3/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F121%2Fs3%2Fc
+[/us/pl/89/121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F121
+[/us/pl/89/121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F121
+[/us/pl/89/121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F121
 [/us/usc/t47/s351]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs351
 
 

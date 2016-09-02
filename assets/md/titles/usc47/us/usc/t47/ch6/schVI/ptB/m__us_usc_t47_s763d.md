@@ -43,7 +43,7 @@
 
         The Commission shall, in exercising its authority to establish settlements rates for United States international common carriers, seek to advance United States policy in favor of cost-based settlements in all relevant fora on international telecommunications policy, including in meetings with parties and signatories of INTELSAT and Inmarsat.
 
-([Pub. L. 87–624, title VI, § 625][/us/pl/87/624/s625], as added [Pub. L. 106–180, § 3][/us/pl/106/180/s3], Mar. 17, 2000, [114 Stat. 54][/us/stat/114/54].)
+([Pub. L. 87–624, title VI][/us/pl/87/624/tVI], § 625, as added [Pub. L. 106–180][/us/pl/106/180], § 3, Mar. 17, 2000, [114 Stat. 54][/us/stat/114/54].)
 
 ----------
 
@@ -52,8 +52,8 @@
 ----------
 ----------
 
-[/us/pl/87/624/s625]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F624%2Fs625
-[/us/pl/106/180/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F180%2Fs3
+[/us/pl/87/624/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F624%2FtVI
+[/us/pl/106/180]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F180
 [/us/stat/114/54]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F54
 
 

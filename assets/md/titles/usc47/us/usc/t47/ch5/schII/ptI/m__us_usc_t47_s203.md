@@ -37,7 +37,7 @@
 
         In case of failure or refusal on the part of any carrier to comply with the provisions of this section or of any regulation or order made by the Commission thereunder, such carrier shall forfeit to the United States the sum of $6,000 for each such offense, and $300 for each and every day of the continuance of such offense.
 
-([June 19, 1934, ch. 652][/us/act/1934-06-19/ch652], title II, § 203, [48 Stat. 1070][/us/stat/48/1070]; [Pub. L. 94–376, § 1][/us/pl/94/376/s1], Aug. 4, 1976, [90 Stat. 1080][/us/stat/90/1080]; [Pub. L. 101–239, title III, § 3002(b)][/us/pl/101/239/s3002/b], Dec. 19, 1989, [103 Stat. 2131][/us/stat/103/2131]; [Pub. L. 101–396, § 7][/us/pl/101/396/s7], Sept. 28, 1990, [104 Stat. 850][/us/stat/104/850].)
+([June 19, 1934, ch. 652][/us/act/1934-06-19/ch652], title II, § 203, [48 Stat. 1070][/us/stat/48/1070]; [Pub. L. 94–376][/us/pl/94/376], § 1, Aug. 4, 1976, [90 Stat. 1080][/us/stat/90/1080]; [Pub. L. 101–239, title III][/us/pl/101/239/tIII], § 3002(b), Dec. 19, 1989, [103 Stat. 2131][/us/stat/103/2131]; [Pub. L. 101–396][/us/pl/101/396], § 7, Sept. 28, 1990, [104 Stat. 850][/us/stat/104/850].)
 
  __References in Text__ 
 
@@ -60,11 +60,11 @@
 
 [/us/act/1934-06-19/ch652]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-19%2Fch652
 [/us/stat/48/1070]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F1070
-[/us/pl/94/376/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F376%2Fs1
+[/us/pl/94/376]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F376
 [/us/stat/90/1080]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1080
-[/us/pl/101/239/s3002/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2Fs3002%2Fb
+[/us/pl/101/239/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2FtIII
 [/us/stat/103/2131]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F2131
-[/us/pl/101/396/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F396%2Fs7
+[/us/pl/101/396]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F396
 [/us/stat/104/850]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F850
 [/us/act/1934-06-19/ch652]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-19%2Fch652
 [/us/stat/48/1064]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F1064

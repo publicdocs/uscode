@@ -45,7 +45,7 @@
 
         (2) For purposes of this subsection, the term “regional concentration rules” means the provisions of sections 73.35, 73.240, and 73.636 of title 47, Code of Federal Regulations (as in effect June 1, 1983), which prohibit any party from directly or indirectly owning, operating, or controlling three broadcast stations in one or several services where any two of such stations are within 100 miles of the third (measured city-to-city), and where there is a primary service contour overlap of any of the stations.
 
-([June 19, 1934, ch. 652][/us/act/1934-06-19/ch652], title III, § 310, [48 Stat. 1086][/us/stat/48/1086]; [July 16, 1952, ch. 879, § 8][/us/act/1952-07-16/ch879/s8], [66 Stat. 716][/us/stat/66/716]; [Pub. L. 85–817, § 2][/us/pl/85/817/s2], Aug. 28, 1958, [72 Stat. 981][/us/stat/72/981]; [Pub. L. 88–313, § 2][/us/pl/88/313/s2], May 28, 1964, [78 Stat. 202][/us/stat/78/202]; [Pub. L. 92–81, § 2][/us/pl/92/81/s2], Aug. 10, 1971, [85 Stat. 302][/us/stat/85/302]; [Pub. L. 93–505, § 2][/us/pl/93/505/s2], Nov. 30, 1974, [88 Stat. 1576][/us/stat/88/1576]; [Pub. L. 98–214, § 7][/us/pl/98/214/s7], Dec. 8, 1983, [97 Stat. 1469][/us/stat/97/1469]; [Pub. L. 101–396, § 8(b)][/us/pl/101/396/s8/b], Sept. 28, 1990, [104 Stat. 850][/us/stat/104/850]; [Pub. L. 104–104, title IV, § 403(k)][/us/pl/104/104/s403/k], Feb. 8, 1996, [110 Stat. 131][/us/stat/110/131].)
+([June 19, 1934, ch. 652][/us/act/1934-06-19/ch652], title III, § 310, [48 Stat. 1086][/us/stat/48/1086]; [July 16, 1952, ch. 879][/us/act/1952-07-16/ch879], § 8, [66 Stat. 716][/us/stat/66/716]; [Pub. L. 85–817][/us/pl/85/817], § 2, Aug. 28, 1958, [72 Stat. 981][/us/stat/72/981]; [Pub. L. 88–313][/us/pl/88/313], § 2, May 28, 1964, [78 Stat. 202][/us/stat/78/202]; [Pub. L. 92–81][/us/pl/92/81], § 2, Aug. 10, 1971, [85 Stat. 302][/us/stat/85/302]; [Pub. L. 93–505][/us/pl/93/505], § 2, Nov. 30, 1974, [88 Stat. 1576][/us/stat/88/1576]; [Pub. L. 98–214][/us/pl/98/214], § 7, Dec. 8, 1983, [97 Stat. 1469][/us/stat/97/1469]; [Pub. L. 101–396][/us/pl/101/396], § 8(b), Sept. 28, 1990, [104 Stat. 850][/us/stat/104/850]; [Pub. L. 104–104, title IV][/us/pl/104/104/tIV], § 403(k), Feb. 8, 1996, [110 Stat. 131][/us/stat/110/131].)
 
  __References in Text__ 
 
@@ -53,13 +53,13 @@
 
  __Codification__ 
 
-    In subsec. (c), “subchapter II of chapter 5, and chapter 7, of title 5” substituted for “the Administrative Procedure Act” on authority of [Pub. L. 89–554, § 7(b)][/us/pl/89/554/s7/b], Sept. 6, 1966, [80 Stat. 631][/us/stat/80/631], the first section of which enacted Title 5, Government Organization and Employees.
+    In subsec. (c), “subchapter II of chapter 5, and chapter 7, of title 5” substituted for “the Administrative Procedure Act” on authority of [Pub. L. 89–554][/us/pl/89/554], § 7(b), Sept. 6, 1966, [80 Stat. 631][/us/stat/80/631], the first section of which enacted Title 5, Government Organization and Employees.
 
  __Amendments__ 
 
-    1996—Subsec. (b)(3). [Pub. L. 104–104, § 403(k)(1)][/us/pl/104/104/s403/k/1], struck out “of which any officer or director is an alien or” before “of which more”.
+    1996—Subsec. (b)(3). [Pub. L. 104–104][/us/pl/104/104], § 403(k)(1), struck out “of which any officer or director is an alien or” before “of which more”.
 
-    Subsec. (b)(4). [Pub. L. 104–104, § 403(k)(2)][/us/pl/104/104/s403/k/2], struck out “of which any officer or more than one-fourth of the directors are aliens, or” after “any other corporation”.
+    Subsec. (b)(4). [Pub. L. 104–104][/us/pl/104/104], § 403(k)(2), struck out “of which any officer or more than one-fourth of the directors are aliens, or” after “any other corporation”.
 
     1990—Subsec. (c). [Pub. L. 101–396][/us/pl/101/396] substituted “multilateral or bilateral agreement, to which the United States and the alien’s government are parties,” for “bilateral agreement between the United States and the alien’s government”.
 
@@ -87,29 +87,29 @@
 [/us/usc/t47/s308]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs308
 [/us/act/1934-06-19/ch652]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-19%2Fch652
 [/us/stat/48/1086]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F1086
-[/us/act/1952-07-16/ch879/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1952-07-16%2Fch879%2Fs8
+[/us/act/1952-07-16/ch879]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1952-07-16%2Fch879
 [/us/stat/66/716]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F66%2F716
-[/us/pl/85/817/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F817%2Fs2
+[/us/pl/85/817]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F817
 [/us/stat/72/981]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F981
-[/us/pl/88/313/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F313%2Fs2
+[/us/pl/88/313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F313
 [/us/stat/78/202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F202
-[/us/pl/92/81/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F81%2Fs2
+[/us/pl/92/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F81
 [/us/stat/85/302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F85%2F302
-[/us/pl/93/505/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F505%2Fs2
+[/us/pl/93/505]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F505
 [/us/stat/88/1576]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1576
-[/us/pl/98/214/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F214%2Fs7
+[/us/pl/98/214]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F214
 [/us/stat/97/1469]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F1469
-[/us/pl/101/396/s8/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F396%2Fs8%2Fb
+[/us/pl/101/396]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F396
 [/us/stat/104/850]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F850
-[/us/pl/104/104/s403/k]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F104%2Fs403%2Fk
+[/us/pl/104/104/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F104%2FtIV
 [/us/stat/110/131]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F131
 [/us/act/1934-06-19/ch652]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-19%2Fch652
 [/us/stat/48/1064]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F1064
 [/us/usc/t47/s609]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs609
-[/us/pl/89/554/s7/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554%2Fs7%2Fb
+[/us/pl/89/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554
 [/us/stat/80/631]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F631
-[/us/pl/104/104/s403/k/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F104%2Fs403%2Fk%2F1
-[/us/pl/104/104/s403/k/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F104%2Fs403%2Fk%2F2
+[/us/pl/104/104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F104
+[/us/pl/104/104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F104
 [/us/pl/101/396]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F396
 [/us/pl/98/214]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F214
 [/us/pl/93/505]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F505

@@ -19,7 +19,7 @@
 
     (b) Any carrier, any officer, representative, or agent of a carrier, or any receiver, trustee, lessee, or agent of either of them, who knowingly fails or neglects to obey any order made under the provisions of this section shall forfeit to the United States the sum of $12,000 for each offense. Every distinct violation shall be a separate offense, and in case of continuing violation each day shall be deemed a separate offense.
 
-([June 19, 1934, ch. 652][/us/act/1934-06-19/ch652], title II, § 205, [48 Stat. 1072][/us/stat/48/1072]; [Pub. L. 101–239, title III, § 3002(c)][/us/pl/101/239/s3002/c], Dec. 19, 1989, [103 Stat. 2131][/us/stat/103/2131].)
+([June 19, 1934, ch. 652][/us/act/1934-06-19/ch652], title II, § 205, [48 Stat. 1072][/us/stat/48/1072]; [Pub. L. 101–239, title III][/us/pl/101/239/tIII], § 3002(c), Dec. 19, 1989, [103 Stat. 2131][/us/stat/103/2131].)
 
  __References in Text__ 
 
@@ -38,7 +38,7 @@
 
 [/us/act/1934-06-19/ch652]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-19%2Fch652
 [/us/stat/48/1072]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F1072
-[/us/pl/101/239/s3002/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2Fs3002%2Fc
+[/us/pl/101/239/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2FtIII
 [/us/stat/103/2131]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F2131
 [/us/act/1934-06-19/ch652]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-19%2Fch652
 [/us/stat/48/1064]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F1064

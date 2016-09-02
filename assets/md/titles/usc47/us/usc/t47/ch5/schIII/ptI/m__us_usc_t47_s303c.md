@@ -45,7 +45,7 @@
 
         (2) The exemption provided in subsection (c) of this section shall apply only to any joint discussion, consideration, review, action, or agreement engaged in only during the 3-year period beginning on December 1, 1990.
 
-([Pub. L. 101–650, title V, § 501][/us/pl/101/650/s501], Dec. 1, 1990, [104 Stat. 5127][/us/stat/104/5127].)
+([Pub. L. 101–650, title V][/us/pl/101/650/tV], § 501, Dec. 1, 1990, [104 Stat. 5127][/us/stat/104/5127].)
 
  __Codification__ 
 
@@ -61,7 +61,7 @@
 [/us/usc/t15/s12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs12
 [/us/usc/t15/s45]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs45
 [/us/usc/t15/s45]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs45
-[/us/pl/101/650/s501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F650%2Fs501
+[/us/pl/101/650/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F650%2FtV
 [/us/stat/104/5127]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F5127
 
 

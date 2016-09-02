@@ -33,7 +33,7 @@
 
             If the selection of an agent, consultant, or expert satisfies the requirements under paragraph (1), the selection of that agent, consultant, or expert shall be final and binding.
 
-([Pub. L. 112–96, title VI, § 6205][/us/pl/112/96/s6205], Feb. 22, 2012, [126 Stat. 211][/us/stat/126/211].)
+([Pub. L. 112–96, title VI][/us/pl/112/96/tVI], § 6205, Feb. 22, 2012, [126 Stat. 211][/us/stat/126/211].)
 
 ----------
 
@@ -43,7 +43,7 @@
 ----------
 
 [/us/usc/t47/s1426]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs1426
-[/us/pl/112/96/s6205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F96%2Fs6205
+[/us/pl/112/96/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F96%2FtVI
 [/us/stat/126/211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F211
 
 

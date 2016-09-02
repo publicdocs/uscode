@@ -65,7 +65,7 @@
 
         The Attorney General shall review the statements submitted under subsection (d) of this section and may, subject to the availability of appropriations, agree to reimburse a telecommunications carrier for costs directly associated with modifications to attain such capacity requirement that are determined to be reasonable in accordance with [section 1008(e) of this title][/us/usc/t47/s1008/e]. Until the Attorney General agrees to reimburse such carrier for such modification, such carrier shall be considered to be in compliance with the capacity notices under subsection (a) or (c) of this section.
 
-([Pub. L. 103–414, title I, § 104][/us/pl/103/414/s104], Oct. 25, 1994, [108 Stat. 4282][/us/stat/108/4282].)
+([Pub. L. 103–414, title I][/us/pl/103/414/tI], § 104, Oct. 25, 1994, [108 Stat. 4282][/us/stat/108/4282].)
 
 ----------
 
@@ -75,7 +75,7 @@
 ----------
 
 [/us/usc/t47/s1008/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs1008%2Fe
-[/us/pl/103/414/s104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F414%2Fs104
+[/us/pl/103/414/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F414%2FtI
 [/us/stat/108/4282]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4282
 
 

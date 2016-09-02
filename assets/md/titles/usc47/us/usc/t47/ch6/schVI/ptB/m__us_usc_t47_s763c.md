@@ -17,7 +17,7 @@
 
     The United States shall preserve the space segment capacity of the GMDSS. This section is not intended to alter the status that the GMDSS would otherwise have under United States laws and regulations of the International Telecommunication Union with respect to spectrum, orbital locations, or other operational parameters, or to be a barrier to competition for the provision of GMDSS services.
 
-([Pub. L. 87–624, title VI, § 624][/us/pl/87/624/s624], as added [Pub. L. 106–180, § 3][/us/pl/106/180/s3], Mar. 17, 2000, [114 Stat. 54][/us/stat/114/54]; amended [Pub. L. 109–34, § 3][/us/pl/109/34/s3], July 12, 2005, [119 Stat. 377][/us/stat/119/377].)
+([Pub. L. 87–624, title VI][/us/pl/87/624/tVI], § 624, as added [Pub. L. 106–180][/us/pl/106/180], § 3, Mar. 17, 2000, [114 Stat. 54][/us/stat/114/54]; amended [Pub. L. 109–34][/us/pl/109/34], § 3, July 12, 2005, [119 Stat. 377][/us/stat/119/377].)
 
  __Amendments__ 
 
@@ -30,10 +30,10 @@
 ----------
 ----------
 
-[/us/pl/87/624/s624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F624%2Fs624
-[/us/pl/106/180/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F180%2Fs3
+[/us/pl/87/624/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F624%2FtVI
+[/us/pl/106/180]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F180
 [/us/stat/114/54]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F54
-[/us/pl/109/34/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F34%2Fs3
+[/us/pl/109/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F34
 [/us/stat/119/377]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F377
 [/us/pl/109/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F34
 

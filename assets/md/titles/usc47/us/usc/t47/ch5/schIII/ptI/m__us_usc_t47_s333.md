@@ -17,7 +17,7 @@
 
     No person shall willfully or maliciously interfere with or cause interference to any radio communications of any station licensed or authorized by or under this chapter or operated by the United States Government.
 
-([June 19, 1934, ch. 652][/us/act/1934-06-19/ch652], title III, § 333, as added [Pub. L. 101–396, § 9][/us/pl/101/396/s9], Sept. 28, 1990, [104 Stat. 850][/us/stat/104/850].)
+([June 19, 1934, ch. 652][/us/act/1934-06-19/ch652], title III, § 333, as added [Pub. L. 101–396][/us/pl/101/396], § 9, Sept. 28, 1990, [104 Stat. 850][/us/stat/104/850].)
 
  __References in Text__ 
 
@@ -31,7 +31,7 @@
 ----------
 
 [/us/act/1934-06-19/ch652]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-19%2Fch652
-[/us/pl/101/396/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F396%2Fs9
+[/us/pl/101/396]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F396
 [/us/stat/104/850]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F850
 [/us/act/1934-06-19/ch652]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-19%2Fch652
 [/us/stat/48/1064]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F1064

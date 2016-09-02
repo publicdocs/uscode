@@ -37,7 +37,7 @@
 
     (10) the term “Commission” means the Federal Communications Commission.
 
-([Pub. L. 87–624, title I, § 103][/us/pl/87/624/s103], Aug. 31, 1962, [76 Stat. 419][/us/stat/76/419].)
+([Pub. L. 87–624, title I][/us/pl/87/624/tI], § 103, Aug. 31, 1962, [76 Stat. 419][/us/stat/76/419].)
 
  __Codification__ 
 
@@ -50,7 +50,7 @@
 ----------
 ----------
 
-[/us/pl/87/624/s103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F624%2Fs103
+[/us/pl/87/624/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F624%2FtI
 [/us/stat/76/419]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F419
 [/us/usc/t47/s765d/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs765d%2F4
 

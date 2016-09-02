@@ -133,7 +133,7 @@
 
         Any provision that applies to a cable operator under this section shall apply to a common carrier or its affiliate that provides video programming by any means directly to subscribers. Any such provision that applies to a satellite cable programming vendor in which a cable operator has an attributable interest shall apply to any satellite cable programming vendor in which such common carrier has an attributable interest. For the purposes of this subsection, two or fewer common officers or directors shall not by itself establish an attributable interest by a common carrier in a satellite cable programming vendor (or its parent company).
 
-([June 19, 1934, ch. 652][/us/act/1934-06-19/ch652], title VI, § 628, as added [Pub. L. 102–385, § 19][/us/pl/102/385/s19], Oct. 5, 1992, [106 Stat. 1494][/us/stat/106/1494]; amended [Pub. L. 104–104, title III, § 301(h)][/us/pl/104/104/s301/h], Feb. 8, 1996, [110 Stat. 117][/us/stat/110/117].)
+([June 19, 1934, ch. 652][/us/act/1934-06-19/ch652], title VI, § 628, as added [Pub. L. 102–385][/us/pl/102/385], § 19, Oct. 5, 1992, [106 Stat. 1494][/us/stat/106/1494]; amended [Pub. L. 104–104, title III][/us/pl/104/104/tIII], § 301(h), Feb. 8, 1996, [110 Stat. 117][/us/stat/110/117].)
 
  __References in Text__ 
 
@@ -157,9 +157,9 @@
 [/us/usc/t47/s605]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs605
 [/us/usc/t17/s119]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft17%2Fs119
 [/us/act/1934-06-19/ch652]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-19%2Fch652
-[/us/pl/102/385/s19]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F385%2Fs19
+[/us/pl/102/385]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F385
 [/us/stat/106/1494]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F1494
-[/us/pl/104/104/s301/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F104%2Fs301%2Fh
+[/us/pl/104/104/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F104%2FtIII
 [/us/stat/110/117]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F117
 [/us/act/1934-06-19/ch652]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-19%2Fch652
 [/us/stat/48/1064]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F1064

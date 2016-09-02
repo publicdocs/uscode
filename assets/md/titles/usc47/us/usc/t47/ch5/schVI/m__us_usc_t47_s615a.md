@@ -31,7 +31,7 @@
 
         This section is enacted as an exercise of the enforcement power of the Congress under section 5 of the Fourteenth Amendment to the Constitution and the power of the Congress to regulate commerce with foreign nations, among the several States, and with Indian tribes.
 
-([Pub. L. 106–81, § 4][/us/pl/106/81/s4], Oct. 26, 1999, [113 Stat. 1288][/us/stat/113/1288]; [Pub. L. 110–283, title II, § 201(a)][/us/pl/110/283/s201/a], July 23, 2008, [122 Stat. 2624][/us/stat/122/2624].)
+([Pub. L. 106–81][/us/pl/106/81], § 4, Oct. 26, 1999, [113 Stat. 1288][/us/stat/113/1288]; [Pub. L. 110–283, title II][/us/pl/110/283/tII], § 201(a), July 23, 2008, [122 Stat. 2624][/us/stat/122/2624].)
 
  __Codification__ 
 
@@ -39,13 +39,13 @@
 
  __Amendments__ 
 
-    2008—[Pub. L. 110–283, § 201(a)(1)][/us/pl/110/283/s201/a/1], substituted “Service provider parity of protection” for “Parity of protection for provision or use of wireless service” in section catchline.
+    2008—[Pub. L. 110–283][/us/pl/110/283], § 201(a)(1), substituted “Service provider parity of protection” for “Parity of protection for provision or use of wireless service” in section catchline.
 
-    Subsec. (a). [Pub. L. 110–283, § 201(a)(2)][/us/pl/110/283/s201/a/2], substituted “wireless carrier, IP-enabled voice service provider, or other emergency communications provider, and their officers” for “wireless carrier, and its officers” and “emergency calls, emergency services, or other emergency communications services” for “emergency calls or emergency services”.
+    Subsec. (a). [Pub. L. 110–283][/us/pl/110/283], § 201(a)(2), substituted “wireless carrier, IP-enabled voice service provider, or other emergency communications provider, and their officers” for “wireless carrier, and its officers” and “emergency calls, emergency services, or other emergency communications services” for “emergency calls or emergency services”.
 
-    Subsec. (b). [Pub. L. 110–283, § 201(a)(3)][/us/pl/110/283/s201/a/3], substituted “using wireless 9–1–1 service, or making 9–1–1 communications via IP-enabled voice service or other emergency communications service, shall” for “using wireless 9–1–1 service shall” and “that is not via wireless 9–1–1 service, IP-enabled voice service, or other emergency communications service” for “that is not wireless”.
+    Subsec. (b). [Pub. L. 110–283][/us/pl/110/283], § 201(a)(3), substituted “using wireless 9–1–1 service, or making 9–1–1 communications via IP-enabled voice service or other emergency communications service, shall” for “using wireless 9–1–1 service shall” and “that is not via wireless 9–1–1 service, IP-enabled voice service, or other emergency communications service” for “that is not wireless”.
 
-    Subsec. (c). [Pub. L. 110–283, § 201(a)(4)][/us/pl/110/283/s201/a/4], substituted “9–1–1 communications via wireless 9–1–1 service, IP-enabled voice service, or other emergency communications service, a PSAP” for “wireless 9–1–1 communications, a PSAP” and “that are not via wireless 9–1–1 service, IP-enabled voice service, or other emergency communications service” for “that are not wireless”.
+    Subsec. (c). [Pub. L. 110–283][/us/pl/110/283], § 201(a)(4), substituted “9–1–1 communications via wireless 9–1–1 service, IP-enabled voice service, or other emergency communications service, a PSAP” for “wireless 9–1–1 communications, a PSAP” and “that are not via wireless 9–1–1 service, IP-enabled voice service, or other emergency communications service” for “that are not wireless”.
 
 ----------
 
@@ -54,13 +54,13 @@
 ----------
 ----------
 
-[/us/pl/106/81/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F81%2Fs4
+[/us/pl/106/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F81
 [/us/stat/113/1288]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1288
-[/us/pl/110/283/s201/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F283%2Fs201%2Fa
+[/us/pl/110/283/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F283%2FtII
 [/us/stat/122/2624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F2624
-[/us/pl/110/283/s201/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F283%2Fs201%2Fa%2F1
-[/us/pl/110/283/s201/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F283%2Fs201%2Fa%2F2
-[/us/pl/110/283/s201/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F283%2Fs201%2Fa%2F3
-[/us/pl/110/283/s201/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F283%2Fs201%2Fa%2F4
+[/us/pl/110/283]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F283
+[/us/pl/110/283]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F283
+[/us/pl/110/283]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F283
+[/us/pl/110/283]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F283
 
 

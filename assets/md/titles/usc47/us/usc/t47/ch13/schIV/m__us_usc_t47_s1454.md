@@ -35,7 +35,7 @@
 
         The Commission may not permit any use of a guard band that the Commission determines would cause harmful interference to licensed services.
 
-([Pub. L. 112–96, title VI, § 6407][/us/pl/112/96/s6407], Feb. 22, 2012, [126 Stat. 231][/us/stat/126/231].)
+([Pub. L. 112–96, title VI][/us/pl/112/96/tVI], § 6407, Feb. 22, 2012, [126 Stat. 231][/us/stat/126/231].)
 
 ----------
 
@@ -46,7 +46,7 @@
 
 [/us/usc/t47/s309/j/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs309%2Fj%2F8
 [/us/usc/t47/s1452]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs1452
-[/us/pl/112/96/s6407]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F96%2Fs6407
+[/us/pl/112/96/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F96%2FtVI
 [/us/stat/126/231]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F231
 
 

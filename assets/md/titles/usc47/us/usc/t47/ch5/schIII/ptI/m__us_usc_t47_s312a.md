@@ -17,7 +17,7 @@
 
     The Federal Communications Commission may revoke any private operator’s license issued to any person under the Communications Act of 1934 ([47 U.S.C. 151][/us/usc/t47/s151] et seq.) who is found to have willfully used said license for the purpose of distributing, or assisting in the distribution of, any controlled substance in violation of any provision of Federal law. In addition, the Federal Communications Commission may, upon the request of an appropriate Federal law enforcement agency, assist in the enforcement of Federal law prohibiting the use or distribution of any controlled substance where communications equipment within the jurisdiction of the Federal Communications Commission under the Communications Act of 1934 is willfully being used for purposes of distributing, or assisting in the distribution of, any such substance.
 
-([Pub. L. 99–570, title III, § 3451][/us/pl/99/570/s3451], Oct. 27, 1986, [100 Stat. 3207–103][/us/stat/100/3207-103].)
+([Pub. L. 99–570, title III][/us/pl/99/570/tIII], § 3451, Oct. 27, 1986, [100 Stat. 3207–103][/us/stat/100/3207-103].)
 
  __References in Text__ 
 
@@ -35,7 +35,7 @@
 ----------
 
 [/us/usc/t47/s151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs151
-[/us/pl/99/570/s3451]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F570%2Fs3451
+[/us/pl/99/570/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F570%2FtIII
 [/us/stat/100/3207-103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3207-103
 [/us/act/1934-06-19/ch652]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-19%2Fch652
 [/us/stat/48/1064]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F1064

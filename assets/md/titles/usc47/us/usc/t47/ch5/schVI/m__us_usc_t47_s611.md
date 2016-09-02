@@ -21,7 +21,7 @@
 
     (2) shall not be liable for broadcasting any such announcement without transmitting a closed caption unless the licensee intentionally fails to transmit the closed caption that was included with the announcement.
 
-([June 19, 1934, ch. 652][/us/act/1934-06-19/ch652], title VII, § 711, as added [Pub. L. 98–549, § 8][/us/pl/98/549/s8], Oct. 30, 1984, [98 Stat. 2804][/us/stat/98/2804]; amended [Pub. L. 101–336, title IV, § 402][/us/pl/101/336/s402], July 26, 1990, [104 Stat. 369][/us/stat/104/369].)
+([June 19, 1934, ch. 652][/us/act/1934-06-19/ch652], title VII, § 711, as added [Pub. L. 98–549][/us/pl/98/549], § 8, Oct. 30, 1984, [98 Stat. 2804][/us/stat/98/2804]; amended [Pub. L. 101–336, title IV][/us/pl/101/336/tIV], § 402, July 26, 1990, [104 Stat. 369][/us/stat/104/369].)
 
  __Amendments__ 
 
@@ -39,9 +39,9 @@
 ----------
 
 [/us/act/1934-06-19/ch652]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-19%2Fch652
-[/us/pl/98/549/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F549%2Fs8
+[/us/pl/98/549]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F549
 [/us/stat/98/2804]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2804
-[/us/pl/101/336/s402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F336%2Fs402
+[/us/pl/101/336/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F336%2FtIV
 [/us/stat/104/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F369
 [/us/pl/101/336]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F336
 [/us/pl/98/549/s9/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F549%2Fs9%2Fa

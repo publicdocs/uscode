@@ -191,7 +191,7 @@
 
         The term “very high frequency” means, with respect to a television channel, that the channel is located in the portion of the electromagnetic spectrum between the frequencies from 54 megahertz to 72 megahertz, from 76 megahertz to 88 megahertz, or from 174 megahertz to 216 megahertz.
 
-([Pub. L. 112–96, title VI, § 6001][/us/pl/112/96/s6001], Feb. 22, 2012, [126 Stat. 201][/us/stat/126/201].)
+([Pub. L. 112–96, title VI][/us/pl/112/96/tVI], § 6001, Feb. 22, 2012, [126 Stat. 201][/us/stat/126/201].)
 
  __References in Text__ 
 
@@ -199,7 +199,7 @@
 
  __Short Title__ 
 
-[Pub. L. 112–96, title VI, § 6501][/us/pl/112/96/s6501], Feb. 22, 2012, [126 Stat. 237][/us/stat/126/237], provided that: 
+[Pub. L. 112–96, title VI][/us/pl/112/96/tVI], § 6501, Feb. 22, 2012, [126 Stat. 237][/us/stat/126/237], provided that: 
 
 > “This subtitle \[subtitle E (§§ 6501–6509) of title VI of [Pub. L. 112–96][/us/pl/112/96], enacting sections 1471 to 1473 of this title and amending [section 942 of this title][/us/usc/t47/s942]\] may be cited as the ‘Next Generation 9–1–1 Advancement Act of 2012’.”
 
@@ -227,11 +227,11 @@
 [/us/usc/t47/s1422/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs1422%2Fb%2F2
 [/us/usc/t47/s1452/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs1452%2Fa
 [/us/usc/t47/s153]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs153
-[/us/pl/112/96/s6001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F96%2Fs6001
+[/us/pl/112/96/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F96%2FtVI
 [/us/stat/126/201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F201
 [/us/pl/112/96/s6402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F96%2Fs6402
 [/us/usc/t47/s309]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs309
-[/us/pl/112/96/s6501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F96%2Fs6501
+[/us/pl/112/96/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F96%2FtVI
 [/us/stat/126/237]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F237
 [/us/pl/112/96]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F96
 [/us/usc/t47/s942]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs942

@@ -47,7 +47,7 @@
 
         (2) The term “United States” means the several States, the District of Columbia, the Commonwealth of Puerto Rico, and the possessions of the United States, but does not include the Canal Zone.
 
-([June 19, 1934, ch. 652][/us/act/1934-06-19/ch652], title III, § 330, as added [Pub. L. 87–529, § 2][/us/pl/87/529/s2], July 10, 1962, [76 Stat. 151][/us/stat/76/151]; amended [Pub. L. 101–431, § 4][/us/pl/101/431/s4], Oct. 15, 1990, [104 Stat. 961][/us/stat/104/961]; [Pub. L. 104–104, title V, § 551(d)][/us/pl/104/104/s551/d], Feb. 8, 1996, [110 Stat. 141][/us/stat/110/141]; [Pub. L. 111–260, title II, § 203(c)][/us/pl/111/260/s203/c], Oct. 8, 2010, [124 Stat. 2773][/us/stat/124/2773].)
+([June 19, 1934, ch. 652][/us/act/1934-06-19/ch652], title III, § 330, as added [Pub. L. 87–529][/us/pl/87/529], § 2, July 10, 1962, [76 Stat. 151][/us/stat/76/151]; amended [Pub. L. 101–431][/us/pl/101/431], § 4, Oct. 15, 1990, [104 Stat. 961][/us/stat/104/961]; [Pub. L. 104–104, title V][/us/pl/104/104/tV], § 551(d), Feb. 8, 1996, [110 Stat. 141][/us/stat/110/141]; [Pub. L. 111–260, title II][/us/pl/111/260/tII], § 203(c), Oct. 8, 2010, [124 Stat. 2773][/us/stat/124/2773].)
 
  __References in Text__ 
 
@@ -57,11 +57,11 @@
 
     2010—Subsec. (b). [Pub. L. 111–260][/us/pl/111/260], in first sentence substituted “303(u) and (z)” for “303(u)”, in second sentence substituted “Such rules shall provide performance and display standards for such built-in decoder circuitry or capability designed to display closed captioned video programming, the transmission and delivery of video description services, and the conveyance of emergency information as required by [section 303 of this title][/us/usc/t47/s303].” for “Such rules shall provide performance and display standards for such built-in decoder circuitry.”, and in fourth sentence substituted “closed-captioning service and video description service continue” for “closed-captioning service continues”.
 
-    1996—Subsec. (c). [Pub. L. 104–104, § 551(d)(1)(B)][/us/pl/104/104/s551/d/1/B], added subsec. (c). Former subsec. (c) redesignated (d).
+    1996—Subsec. (c). [Pub. L. 104–104][/us/pl/104/104], § 551(d)(1)(B), added subsec. (c). Former subsec. (c) redesignated (d).
 
-    Subsec. (d). [Pub. L. 104–104, § 551(d)(2)][/us/pl/104/104/s551/d/2], in introductory provisions substituted “and sections 303(s), 303(u), and 303(x) of this title” for “[section 303(s) of this title][/us/usc/t47/s303/s], and [section 303(u) of this title][/us/usc/t47/s303/u]”.
+    Subsec. (d). [Pub. L. 104–104][/us/pl/104/104], § 551(d)(2), in introductory provisions substituted “and sections 303(s), 303(u), and 303(x) of this title” for “[section 303(s) of this title][/us/usc/t47/s303/s], and [section 303(u) of this title][/us/usc/t47/s303/u]”.
 
-    [Pub. L. 104–104, § 551(d)(1)(B)][/us/pl/104/104/s551/d/1/B], redesignated subsec. (c) as (d).
+    [Pub. L. 104–104][/us/pl/104/104], § 551(d)(1)(B), redesignated subsec. (c) as (d).
 
     1990—Subsecs. (b), (c). [Pub. L. 101–431][/us/pl/101/431] added subsec. (b), redesignated former subsec. (b) as (c), and substituted “, [section 303(s) of this title][/us/usc/t47/s303/s], and [section 303(u) of this title][/us/usc/t47/s303/u]” for “and [section 303(s) of this title][/us/usc/t47/s303/s]”.
 
@@ -81,22 +81,22 @@
 [/us/usc/t47/s303/x]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs303%2Fx
 [/us/usc/t47/s303/x]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs303%2Fx
 [/us/act/1934-06-19/ch652]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-19%2Fch652
-[/us/pl/87/529/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F529%2Fs2
+[/us/pl/87/529]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F529
 [/us/stat/76/151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F151
-[/us/pl/101/431/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F431%2Fs4
+[/us/pl/101/431]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F431
 [/us/stat/104/961]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F961
-[/us/pl/104/104/s551/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F104%2Fs551%2Fd
+[/us/pl/104/104/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F104%2FtV
 [/us/stat/110/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F141
-[/us/pl/111/260/s203/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F260%2Fs203%2Fc
+[/us/pl/111/260/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F260%2FtII
 [/us/stat/124/2773]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2773
 [/us/usc/t22/s3602/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs3602%2Fb
 [/us/pl/111/260]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F260
 [/us/usc/t47/s303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs303
-[/us/pl/104/104/s551/d/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F104%2Fs551%2Fd%2F1%2FB
-[/us/pl/104/104/s551/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F104%2Fs551%2Fd%2F2
+[/us/pl/104/104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F104
+[/us/pl/104/104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F104
 [/us/usc/t47/s303/s]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs303%2Fs
 [/us/usc/t47/s303/u]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs303%2Fu
-[/us/pl/104/104/s551/d/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F104%2Fs551%2Fd%2F1%2FB
+[/us/pl/104/104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F104
 [/us/pl/101/431]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F431
 [/us/usc/t47/s303/s]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs303%2Fs
 [/us/usc/t47/s303/u]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs303%2Fu

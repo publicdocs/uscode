@@ -45,7 +45,7 @@
 
         Nothing in this section shall be construed to limit or otherwise affect the authority of the President under section 706 of the 1934 Act ([47 U.S.C. 606][/us/usc/t47/s606]).
 
-([Pub. L. 102–538, title I, § 116][/us/pl/102/538/s116], as added [Pub. L. 103–66, title VI, § 6001(a)(3)][/us/pl/103/66/s6001/a/3], Aug. 10, 1993, [107 Stat. 386][/us/stat/107/386].)
+([Pub. L. 102–538, title I][/us/pl/102/538/tI], § 116, as added [Pub. L. 103–66, title VI][/us/pl/103/66/tVI], § 6001(a)(3), Aug. 10, 1993, [107 Stat. 386][/us/stat/107/386].)
 
  __References in Text__ 
 
@@ -65,8 +65,8 @@
 [/us/usc/t47/s924/b/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs924%2Fb%2F1%2FB
 [/us/usc/t47/s924/b/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs924%2Fb%2F1%2FB
 [/us/usc/t47/s606]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs606
-[/us/pl/102/538/s116]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F538%2Fs116
-[/us/pl/103/66/s6001/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66%2Fs6001%2Fa%2F3
+[/us/pl/102/538/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F538%2FtI
+[/us/pl/103/66/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66%2FtVI
 [/us/stat/107/386]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F386
 [/us/usc/t47/s921/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs921%2F3
 

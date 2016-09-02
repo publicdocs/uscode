@@ -27,7 +27,7 @@
 
         The provisions of this section shall not be construed to limit the authority of the Commission to prescribe regulations relating to the manner in which logograms may be used to identify corporations, companies, or other organizations.
 
-([June 19, 1934, ch. 652][/us/act/1934-06-19/ch652], title III, § 399A, as added [Pub. L. 97–35, title XII, § 1230][/us/pl/97/35/s1230], Aug. 13, 1981, [95 Stat. 730][/us/stat/95/730].)
+([June 19, 1934, ch. 652][/us/act/1934-06-19/ch652], title III, § 399A, as added [Pub. L. 97–35, title XII][/us/pl/97/35/tXII], § 1230, Aug. 13, 1981, [95 Stat. 730][/us/stat/95/730].)
 
 ----------
 
@@ -37,7 +37,7 @@
 ----------
 
 [/us/act/1934-06-19/ch652]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-19%2Fch652
-[/us/pl/97/35/s1230]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs1230
+[/us/pl/97/35/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2FtXII
 [/us/stat/95/730]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F730
 
 

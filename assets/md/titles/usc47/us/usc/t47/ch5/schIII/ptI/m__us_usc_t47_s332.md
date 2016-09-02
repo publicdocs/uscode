@@ -139,7 +139,7 @@
 
         (3) the term “private mobile service” means any mobile service (as defined in [section 153 of this title][/us/usc/t47/s153]) that is not a commercial mobile service or the functional equivalent of a commercial mobile service, as specified by regulation by the Commission.
 
-([June 19, 1934, ch. 652][/us/act/1934-06-19/ch652], title III, § 332, formerly § 331, as added [Pub. L. 97–259, title I, § 120(a)][/us/pl/97/259/s120/a], Sept. 13, 1982, [96 Stat. 1096][/us/stat/96/1096]; renumbered § 332, [Pub. L. 102–385, § 25(b)][/us/pl/102/385/s25/b], Oct. 5, 1992, [106 Stat. 1502][/us/stat/106/1502]; amended [Pub. L. 103–66, title VI, § 6002(b)(2)(A)][/us/pl/103/66/s6002/b/2/A], Aug. 10, 1993, [107 Stat. 392][/us/stat/107/392]; [Pub. L. 104–104, § 3(d)(2)][/us/pl/104/104/s3/d/2], title VII, §§ 704(a), 705, Feb. 8, 1996, [110 Stat. 61][/us/stat/110/61], 151, 153.)
+([June 19, 1934, ch. 652][/us/act/1934-06-19/ch652], title III, § 332, formerly § 331, as added [Pub. L. 97–259, title I][/us/pl/97/259/tI], § 120(a), Sept. 13, 1982, [96 Stat. 1096][/us/stat/96/1096]; renumbered § 332, [Pub. L. 102–385][/us/pl/102/385], § 25(b), Oct. 5, 1992, [106 Stat. 1502][/us/stat/106/1502]; amended [Pub. L. 103–66, title VI][/us/pl/103/66/tVI], § 6002(b)(2)(A), Aug. 10, 1993, [107 Stat. 392][/us/stat/107/392]; [Pub. L. 104–104][/us/pl/104/104], § 3(d)(2), title VII, §§ 704(a), 705, Feb. 8, 1996, [110 Stat. 61][/us/stat/110/61], 151, 153.)
 
  __References in Text__ 
 
@@ -155,21 +155,21 @@
 
  __Codification__ 
 
-    In subsec. (b)(2), “[section 1342 of title 31][/us/usc/t31/s1342]” substituted for “section 3679(b) of the Revised Statutes ([31 U.S.C. 665(b)][/us/usc/t31/s665/b])” on authority of [Pub. L. 97–258, § 4(b)][/us/pl/97/258/s4/b], Sept. 13, 1982, [96 Stat. 1067][/us/stat/96/1067], the first section of which enacted Title 31, Money and Finance.
+    In subsec. (b)(2), “[section 1342 of title 31][/us/usc/t31/s1342]” substituted for “section 3679(b) of the Revised Statutes ([31 U.S.C. 665(b)][/us/usc/t31/s665/b])” on authority of [Pub. L. 97–258][/us/pl/97/258], § 4(b), Sept. 13, 1982, [96 Stat. 1067][/us/stat/96/1067], the first section of which enacted Title 31, Money and Finance.
 
  __Amendments__ 
 
-    1996—Subsec. (c)(7). [Pub. L. 104–104, § 704(a)][/us/pl/104/104/s704/a], added par. (7).
+    1996—Subsec. (c)(7). [Pub. L. 104–104][/us/pl/104/104], § 704(a), added par. (7).
 
-    Subsec. (c)(8). [Pub. L. 104–104, § 705][/us/pl/104/104/s705], added par. (8).
+    Subsec. (c)(8). [Pub. L. 104–104][/us/pl/104/104], § 705, added par. (8).
 
-    Subsec. (d)(1), (3). [Pub. L. 104–104, § 3(d)(2)][/us/pl/104/104/s3/d/2], substituted “section 153” for “section 153(n)”.
+    Subsec. (d)(1), (3). [Pub. L. 104–104][/us/pl/104/104], § 3(d)(2), substituted “section 153” for “section 153(n)”.
 
     1993—[Pub. L. 103–66][/us/pl/103/66] struck out “Private land” before “mobile services” in section catchline, struck out “land” before “mobile services” wherever appearing in subsecs. (a) and (b), added subsecs. (c) and (d), and struck out former subsec. (c) which related to service provided by specialized mobile radio, multiple licensed radio dispatch systems, and other radio dispatch systems; common carriers; and rate or entry regulations.
 
  __Effective Date of 1993 Amendment__ 
 
-[Pub. L. 103–66, title VI, § 6002(c)][/us/pl/103/66/s6002/c], Aug. 10, 1993, [107 Stat. 396][/us/stat/107/396], provided that:
+[Pub. L. 103–66, title VI][/us/pl/103/66/tVI], § 6002(c), Aug. 10, 1993, [107 Stat. 396][/us/stat/107/396], provided that:
 
 >     “(1)  __In general__  __.—__ 
 
@@ -185,13 +185,13 @@
 
  __Availability of Property__ 
 
-[Pub. L. 104–104, title VII, § 704(c)][/us/pl/104/104/s704/c], Feb. 8, 1996, [110 Stat. 152][/us/stat/110/152], provided that: 
+[Pub. L. 104–104, title VII][/us/pl/104/104/tVII], § 704(c), Feb. 8, 1996, [110 Stat. 152][/us/stat/110/152], provided that: 
 
 > “Within 180 days of the enactment of this Act \[Feb. 8, 1996\], the President or his designee shall prescribe procedures by which Federal departments and agencies may make available on a fair, reasonable, and nondiscriminatory basis, property, rights-of-way, and easements under their control for the placement of new telecommunications services that are dependent, in whole or in part, upon the utilization of Federal spectrum rights for the transmission or reception of such services. These procedures may establish a presumption that requests for the use of property, rights-of-way, and easements by duly authorized providers should be granted absent unavoidable direct conflict with the department or agency’s mission, or the current or planned use of the property, rights-of-way, and easements in question. Reasonable fees may be charged to providers of such telecommunications services for use of property, rights-of-way, and easements. The Commission shall provide technical support to States to encourage them to make property, rights-of-way, and easements under their jurisdiction available for such purposes.”
 
  __Transitional Rulemaking for Mobile Service Providers__ 
 
-[Pub. L. 103–66, title VI, § 6002(d)(3)][/us/pl/103/66/s6002/d/3], Aug. 10, 1993, [107 Stat. 397][/us/stat/107/397], provided that: 
+[Pub. L. 103–66, title VI][/us/pl/103/66/tVI], § 6002(d)(3), Aug. 10, 1993, [107 Stat. 397][/us/stat/107/397], provided that: 
 
 > “Within 1 year after the date of enactment of this Act \[Aug. 10, 1993\], the Federal Communications Commission—
 
@@ -221,13 +221,13 @@
 [/us/usc/t47/s153]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs153
 [/us/usc/t47/s153]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs153
 [/us/act/1934-06-19/ch652]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-19%2Fch652
-[/us/pl/97/259/s120/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F259%2Fs120%2Fa
+[/us/pl/97/259/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F259%2FtI
 [/us/stat/96/1096]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1096
-[/us/pl/102/385/s25/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F385%2Fs25%2Fb
+[/us/pl/102/385]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F385
 [/us/stat/106/1502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F1502
-[/us/pl/103/66/s6002/b/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66%2Fs6002%2Fb%2F2%2FA
+[/us/pl/103/66/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66%2FtVI
 [/us/stat/107/392]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F392
-[/us/pl/104/104/s3/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F104%2Fs3%2Fd%2F2
+[/us/pl/104/104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F104
 [/us/stat/110/61]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F61
 [/us/pl/92/463]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F463
 [/us/stat/86/770]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F770
@@ -241,17 +241,17 @@
 [/us/stat/107/312]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F312
 [/us/usc/t31/s1342]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1342
 [/us/usc/t31/s665/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs665%2Fb
-[/us/pl/97/258/s4/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258%2Fs4%2Fb
+[/us/pl/97/258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258
 [/us/stat/96/1067]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1067
-[/us/pl/104/104/s704/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F104%2Fs704%2Fa
-[/us/pl/104/104/s705]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F104%2Fs705
-[/us/pl/104/104/s3/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F104%2Fs3%2Fd%2F2
+[/us/pl/104/104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F104
+[/us/pl/104/104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F104
+[/us/pl/104/104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F104
 [/us/pl/103/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66
-[/us/pl/103/66/s6002/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66%2Fs6002%2Fc
+[/us/pl/103/66/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66%2FtVI
 [/us/stat/107/396]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F396
-[/us/pl/104/104/s704/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F104%2Fs704%2Fc
+[/us/pl/104/104/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F104%2FtVII
 [/us/stat/110/152]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F152
-[/us/pl/103/66/s6002/d/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66%2Fs6002%2Fd%2F3
+[/us/pl/103/66/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66%2FtVI
 [/us/stat/107/397]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F397
 
 

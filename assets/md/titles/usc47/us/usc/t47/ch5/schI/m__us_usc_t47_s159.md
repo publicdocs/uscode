@@ -819,13 +819,13 @@
 
         The Commission shall develop accounting systems necessary to making the adjustments authorized by subsection (b)(3) of this section. In the Commission’s annual report, the Commission shall prepare an analysis of its progress in developing such systems and shall afford interested persons the opportunity to submit comments concerning the allocation of the costs of performing the functions described in subsection (a) of this section among the services in the Schedule.
 
-([June 19, 1934, ch. 652][/us/act/1934-06-19/ch652], title I, § 9, as added [Pub. L. 103–66, title VI, § 6003(a)(1)][/us/pl/103/66/s6003/a/1], Aug. 10, 1993, [107 Stat. 397][/us/stat/107/397]; amended [Pub. L. 103–121, title I][/us/pl/103/121], Oct. 27, 1993, [107 Stat. 1167][/us/stat/107/1167]; [Pub. L. 103–414, title III, § 303(a)(5)][/us/pl/103/414/s303/a/5], (6), Oct. 25, 1994, [108 Stat. 4294][/us/stat/108/4294].)
+([June 19, 1934, ch. 652][/us/act/1934-06-19/ch652], title I, § 9, as added [Pub. L. 103–66, title VI][/us/pl/103/66/tVI], § 6003(a)(1), Aug. 10, 1993, [107 Stat. 397][/us/stat/107/397]; amended [Pub. L. 103–121, title I][/us/pl/103/121/tI], Oct. 27, 1993, [107 Stat. 1167][/us/stat/107/1167]; [Pub. L. 103–414, title III][/us/pl/103/414/tIII], § 303(a)(5), (6), Oct. 25, 1994, [108 Stat. 4294][/us/stat/108/4294].)
 
  __Amendments__ 
 
-    1994—Subsec. (f). [Pub. L. 103–414, § 303(a)(5)][/us/pl/103/414/s303/a/5], designated second sentence of par. (1) as par. (2) and inserted par. (2) heading.
+    1994—Subsec. (f). [Pub. L. 103–414][/us/pl/103/414], § 303(a)(5), designated second sentence of par. (1) as par. (2) and inserted par. (2) heading.
 
-    Subsec. (g). [Pub. L. 103–414, § 303(a)(6)][/us/pl/103/414/s303/a/6], inserted “95” after “(47 C.F.R. Part” in item pertaining to Interactive Video Data Service under Private Radio Bureau in Schedule of Regulatory Fees.
+    Subsec. (g). [Pub. L. 103–414][/us/pl/103/414], § 303(a)(6), inserted “95” after “(47 C.F.R. Part” in item pertaining to Interactive Video Data Service under Private Radio Bureau in Schedule of Regulatory Fees.
 
     1993—Subsec. (a). [Pub. L. 103–121][/us/pl/103/121] designated existing provisions as par. (1), inserted heading, and added par. (2).
 
@@ -838,14 +838,14 @@
 
 [/us/usc/t47/s402/b/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs402%2Fb%2F5
 [/us/act/1934-06-19/ch652]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-19%2Fch652
-[/us/pl/103/66/s6003/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66%2Fs6003%2Fa%2F1
+[/us/pl/103/66/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66%2FtVI
 [/us/stat/107/397]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F397
-[/us/pl/103/121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F121
+[/us/pl/103/121/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F121%2FtI
 [/us/stat/107/1167]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F1167
-[/us/pl/103/414/s303/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F414%2Fs303%2Fa%2F5
+[/us/pl/103/414/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F414%2FtIII
 [/us/stat/108/4294]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4294
-[/us/pl/103/414/s303/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F414%2Fs303%2Fa%2F5
-[/us/pl/103/414/s303/a/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F414%2Fs303%2Fa%2F6
+[/us/pl/103/414]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F414
+[/us/pl/103/414]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F414
 [/us/pl/103/121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F121
 
 

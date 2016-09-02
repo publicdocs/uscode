@@ -17,7 +17,7 @@
 
     The Commission may provide technical assistance to the First Responder Network Authority and may take any action necessary to assist the First Responder Network Authority in effectuating its duties and responsibilities under this subchapter.
 
-([Pub. L. 112–96, title VI, § 6213][/us/pl/112/96/s6213], Feb. 22, 2012, [126 Stat. 218][/us/stat/126/218].)
+([Pub. L. 112–96, title VI][/us/pl/112/96/tVI], § 6213, Feb. 22, 2012, [126 Stat. 218][/us/stat/126/218].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/112/96/s6213]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F96%2Fs6213
+[/us/pl/112/96/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F96%2FtVI
 [/us/stat/126/218]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F218
 
 

@@ -35,7 +35,7 @@
 
         As used in this section, the term “video programming vendor” means a person engaged in the production, creation, or wholesale distribution of video programming for sale.
 
-([June 19, 1934, ch. 652][/us/act/1934-06-19/ch652], title VI, § 616, as added [Pub. L. 102–385, § 12][/us/pl/102/385/s12], Oct. 5, 1992, [106 Stat. 1488][/us/stat/106/1488].)
+([June 19, 1934, ch. 652][/us/act/1934-06-19/ch652], title VI, § 616, as added [Pub. L. 102–385][/us/pl/102/385], § 12, Oct. 5, 1992, [106 Stat. 1488][/us/stat/106/1488].)
 
  __Effective Date__ 
 
@@ -49,7 +49,7 @@
 ----------
 
 [/us/act/1934-06-19/ch652]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-19%2Fch652
-[/us/pl/102/385/s12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F385%2Fs12
+[/us/pl/102/385]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F385
 [/us/stat/106/1488]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F1488
 [/us/pl/102/385/s28]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F385%2Fs28
 [/us/usc/t47/s325]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs325

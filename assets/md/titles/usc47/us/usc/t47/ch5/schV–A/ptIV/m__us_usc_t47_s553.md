@@ -59,13 +59,13 @@
 
             (D) Nothing in this subchapter shall prevent any State or franchising authority from enacting or enforcing laws, consistent with this section, regarding the unauthorized interception or reception of any cable service or other communications service.
 
-([June 19, 1934, ch. 652][/us/act/1934-06-19/ch652], title VI, § 633, as added [Pub. L. 98–549, § 2][/us/pl/98/549/s2], Oct. 30, 1984, [98 Stat. 2796][/us/stat/98/2796]; amended [Pub. L. 102–385, § 21][/us/pl/102/385/s21], Oct. 5, 1992, [106 Stat. 1498][/us/stat/106/1498].)
+([June 19, 1934, ch. 652][/us/act/1934-06-19/ch652], title VI, § 633, as added [Pub. L. 98–549][/us/pl/98/549], § 2, Oct. 30, 1984, [98 Stat. 2796][/us/stat/98/2796]; amended [Pub. L. 102–385][/us/pl/102/385], § 21, Oct. 5, 1992, [106 Stat. 1498][/us/stat/106/1498].)
 
  __Amendments__ 
 
-    1992—Subsec. (b)(2). [Pub. L. 102–385, § 21(1)][/us/pl/102/385/s21/1], substituted “$50,000” for “$25,000”, “2 years” for “1 year”, “$100,000” for “$50,000”, and “5 years” for “2 years”.
+    1992—Subsec. (b)(2). [Pub. L. 102–385][/us/pl/102/385], § 21(1), substituted “$50,000” for “$25,000”, “2 years” for “1 year”, “$100,000” for “$50,000”, and “5 years” for “2 years”.
 
-    Subsec. (b)(3). [Pub. L. 102–385, § 21(2)][/us/pl/102/385/s21/2], added par. (3).
+    Subsec. (b)(3). [Pub. L. 102–385][/us/pl/102/385], § 21(2), added par. (3).
 
  __Effective Date of 1992 Amendment__ 
 
@@ -83,12 +83,12 @@
 ----------
 
 [/us/act/1934-06-19/ch652]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-19%2Fch652
-[/us/pl/98/549/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F549%2Fs2
+[/us/pl/98/549]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F549
 [/us/stat/98/2796]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2796
-[/us/pl/102/385/s21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F385%2Fs21
+[/us/pl/102/385]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F385
 [/us/stat/106/1498]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F1498
-[/us/pl/102/385/s21/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F385%2Fs21%2F1
-[/us/pl/102/385/s21/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F385%2Fs21%2F2
+[/us/pl/102/385]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F385
+[/us/pl/102/385]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F385
 [/us/pl/102/385]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F385
 [/us/pl/102/385/s28]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F385%2Fs28
 [/us/usc/t47/s325]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs325

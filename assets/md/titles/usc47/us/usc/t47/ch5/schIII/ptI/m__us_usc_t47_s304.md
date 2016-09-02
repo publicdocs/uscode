@@ -17,7 +17,7 @@
 
     No station license shall be granted by the Commission until the applicant therefor shall have waived any claim to the use of any particular frequency or of the electromagnetic spectrum as against the regulatory power of the United States because of the previous use of the same, whether by license or otherwise.
 
-([June 19, 1934, ch. 652][/us/act/1934-06-19/ch652], title III, § 304, [48 Stat. 1083][/us/stat/48/1083]; [Pub. L. 97–259, title I, § 127(a)][/us/pl/97/259/s127/a], Sept. 13, 1982, [96 Stat. 1099][/us/stat/96/1099]; [Pub. L. 102–538, title II, § 204(a)][/us/pl/102/538/s204/a], Oct. 27, 1992, [106 Stat. 3543][/us/stat/106/3543].)
+([June 19, 1934, ch. 652][/us/act/1934-06-19/ch652], title III, § 304, [48 Stat. 1083][/us/stat/48/1083]; [Pub. L. 97–259, title I][/us/pl/97/259/tI], § 127(a), Sept. 13, 1982, [96 Stat. 1099][/us/stat/96/1099]; [Pub. L. 102–538, title II][/us/pl/102/538/tII], § 204(a), Oct. 27, 1992, [106 Stat. 3543][/us/stat/106/3543].)
 
  __Amendments__ 
 
@@ -34,9 +34,9 @@
 
 [/us/act/1934-06-19/ch652]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-19%2Fch652
 [/us/stat/48/1083]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F1083
-[/us/pl/97/259/s127/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F259%2Fs127%2Fa
+[/us/pl/97/259/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F259%2FtI
 [/us/stat/96/1099]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1099
-[/us/pl/102/538/s204/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F538%2Fs204%2Fa
+[/us/pl/102/538/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F538%2FtII
 [/us/stat/106/3543]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3543
 [/us/pl/102/538]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F538
 [/us/pl/97/259]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F259

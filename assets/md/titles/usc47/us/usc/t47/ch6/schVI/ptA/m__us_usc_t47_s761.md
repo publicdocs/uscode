@@ -65,17 +65,17 @@
 
         Nothing in this section shall be construed as precluding COMSAT from investing in or owning satellites or other facilities independent from INTELSAT and Inmarsat, and successor or separated entities, or from providing services through reselling capacity over the facilities of satellite systems independent from INTELSAT and Inmarsat, and successor or separated entities. This subsection shall not be construed as restricting the types of contracts which can be executed or services which may be provided by COMSAT over the independent satellites or facilities described in this subsection.
 
-([Pub. L. 87–624, title VI, § 601][/us/pl/87/624/s601], as added [Pub. L. 106–180, § 3][/us/pl/106/180/s3], Mar. 17, 2000, [114 Stat. 48][/us/stat/114/48].)
+([Pub. L. 87–624, title VI][/us/pl/87/624/tVI], § 601, as added [Pub. L. 106–180][/us/pl/106/180], § 3, Mar. 17, 2000, [114 Stat. 48][/us/stat/114/48].)
 
  __References in Text__ 
 
-    [Section 763b of this title][/us/usc/t47/s763b], referred to in subsec. (a)(2), was repealed by [Pub. L. 109–34, § 2][/us/pl/109/34/s2], July 12, 2005, [119 Stat. 377][/us/stat/119/377].
+    [Section 763b of this title][/us/usc/t47/s763b], referred to in subsec. (a)(2), was repealed by [Pub. L. 109–34][/us/pl/109/34], § 2, July 12, 2005, [119 Stat. 377][/us/stat/119/377].
 
-    [Section 763c of this title][/us/usc/t47/s763c], referred to in subsec. (b)(2), was amended generally by [Pub. L. 109–34, § 3][/us/pl/109/34/s3], July 12, 2005, [119 Stat. 377][/us/stat/119/377], and no longer relates to specific criteria for Inmarsat privatization.
+    [Section 763c of this title][/us/usc/t47/s763c], referred to in subsec. (b)(2), was amended generally by [Pub. L. 109–34][/us/pl/109/34], § 3, July 12, 2005, [119 Stat. 377][/us/stat/119/377], and no longer relates to specific criteria for Inmarsat privatization.
 
  __Purpose__ 
 
-[Pub. L. 106–180, § 2][/us/pl/106/180/s2], Mar. 17, 2000, [114 Stat. 48][/us/stat/114/48], provided that: 
+[Pub. L. 106–180][/us/pl/106/180], § 2, Mar. 17, 2000, [114 Stat. 48][/us/stat/114/48], provided that: 
 
 > “It is the purpose of this Act \[see Short Title of 2000 Amendment note set out under [section 701 of this title][/us/usc/t47/s701]\] to promote a fully competitive global market for satellite communication services for the benefit of consumers and providers of satellite services and equipment by fully privatizing the intergovernmental satellite organizations, INTELSAT and Inmarsat.”
 
@@ -87,16 +87,16 @@
 ----------
 
 [/us/usc/t47/s763/5/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs763%2F5%2FA
-[/us/pl/87/624/s601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F624%2Fs601
-[/us/pl/106/180/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F180%2Fs3
+[/us/pl/87/624/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F624%2FtVI
+[/us/pl/106/180]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F180
 [/us/stat/114/48]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F48
 [/us/usc/t47/s763b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs763b
-[/us/pl/109/34/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F34%2Fs2
+[/us/pl/109/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F34
 [/us/stat/119/377]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F377
 [/us/usc/t47/s763c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs763c
-[/us/pl/109/34/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F34%2Fs3
+[/us/pl/109/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F34
 [/us/stat/119/377]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F377
-[/us/pl/106/180/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F180%2Fs2
+[/us/pl/106/180]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F180
 [/us/stat/114/48]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F48
 [/us/usc/t47/s701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs701
 

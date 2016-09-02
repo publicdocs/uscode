@@ -55,7 +55,7 @@
 
             The term “5850–5925 MHz band” means the portion of the electromagnetic spectrum between the frequencies from 5850 megahertz to 5925 megahertz.
 
-([Pub. L. 112–96, title VI, § 6406][/us/pl/112/96/s6406], Feb. 22, 2012, [126 Stat. 231][/us/stat/126/231].)
+([Pub. L. 112–96, title VI][/us/pl/112/96/tVI], § 6406, Feb. 22, 2012, [126 Stat. 231][/us/stat/126/231].)
 
 ----------
 
@@ -64,7 +64,7 @@
 ----------
 ----------
 
-[/us/pl/112/96/s6406]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F96%2Fs6406
+[/us/pl/112/96/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F96%2FtVI
 [/us/stat/126/231]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F231
 
 

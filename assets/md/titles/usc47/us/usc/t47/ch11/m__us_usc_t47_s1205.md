@@ -27,7 +27,7 @@
 
         The Assistant Secretary of Commerce for Communications and Information, in consultation with the Under Secretary of Homeland Security for Science and Technology and the Under Secretary of Commerce for Oceans and Atmosphere, may borrow from the Treasury beginning on October 1, 2006, such sums as may be necessary, but not to exceed $106,000,000, to implement this chapter. The Assistant Secretary of Commerce for Communications and Information shall ensure that the Under Secretary of Homeland Security for Science and Technology and the Under Secretary of Commerce for Oceans and Atmosphere are provided adequate funds to carry out their responsibilities under sections 1203 and 1204 of this title. The Treasury shall be reimbursed, without interest, from amounts in the Digital Television Transition and Public Safety Fund as funds are deposited into the Fund.
 
-([Pub. L. 109–347, title VI, § 606][/us/pl/109/347/s606], Oct. 13, 2006, [120 Stat. 1941][/us/stat/120/1941].)
+([Pub. L. 109–347, title VI][/us/pl/109/347/tVI], § 606, Oct. 13, 2006, [120 Stat. 1941][/us/stat/120/1941].)
 
  __References in Text__ 
 
@@ -44,7 +44,7 @@
 
 [/us/usc/t47/s309]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs309
 [/us/usc/t47/s1201/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs1201%2Fc
-[/us/pl/109/347/s606]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F347%2Fs606
+[/us/pl/109/347/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F347%2FtVI
 [/us/stat/120/1941]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1941
 [/us/pl/109/347]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F347
 [/us/stat/120/1936]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1936

@@ -141,7 +141,7 @@
 
         (3) The provisions of this section shall apply to any cable operator, whether operating pursuant to a franchise granted before, on, or after October 30, 1984.
 
-([June 19, 1934, ch. 652][/us/act/1934-06-19/ch652], title VI, § 634, as added [Pub. L. 98–549, § 2][/us/pl/98/549/s2], Oct. 30, 1984, [98 Stat. 2797][/us/stat/98/2797]; amended [Pub. L. 102–385, § 22(b)][/us/pl/102/385/s22/b]–(e), Oct. 5, 1992, [106 Stat. 1498][/us/stat/106/1498], 1499; [Pub. L. 103–414, title III, § 303(a)(24)][/us/pl/103/414/s303/a/24], Oct. 25, 1994, [108 Stat. 4295][/us/stat/108/4295].)
+([June 19, 1934, ch. 652][/us/act/1934-06-19/ch652], title VI, § 634, as added [Pub. L. 98–549][/us/pl/98/549], § 2, Oct. 30, 1984, [98 Stat. 2797][/us/stat/98/2797]; amended [Pub. L. 102–385][/us/pl/102/385], § 22(b)–(e), Oct. 5, 1992, [106 Stat. 1498][/us/stat/106/1498], 1499; [Pub. L. 103–414, title III][/us/pl/103/414/tIII], § 303(a)(24), Oct. 25, 1994, [108 Stat. 4295][/us/stat/108/4295].)
 
  __References in Text__ 
 
@@ -155,9 +155,9 @@
 
     1994—Subsec. (h)(1). [Pub. L. 103–414][/us/pl/103/414] substituted “section 522(7)(A)” for “section 522(6)(A)”.
 
-    1992—Subsec. (d)(1). [Pub. L. 102–385, § 22(b)][/us/pl/102/385/s22/b], amended par. (1) generally. Prior to amendment, par. (1) read as follows: “Not later than 270 days after the effective date of this section, and after notice and opportunity for hearing, the Commission shall prescribe rules to carry out this section.”
+    1992—Subsec. (d)(1). [Pub. L. 102–385][/us/pl/102/385], § 22(b), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “Not later than 270 days after the effective date of this section, and after notice and opportunity for hearing, the Commission shall prescribe rules to carry out this section.”
 
-    Subsec. (d)(3). [Pub. L. 102–385, § 22(c)][/us/pl/102/385/s22/c], amended par. (3) generally. Prior to amendment, par. (3) read as follows: “Such rules also shall require an entity specified in subsection (a) of this section with more than 5 full-time employees to file with the Commission an annual statistical report identifying by race and sex the number of employees in each of the following full-time and part-time job categories:
+    Subsec. (d)(3). [Pub. L. 102–385][/us/pl/102/385], § 22(c), amended par. (3) generally. Prior to amendment, par. (3) read as follows: “Such rules also shall require an entity specified in subsection (a) of this section with more than 5 full-time employees to file with the Commission an annual statistical report identifying by race and sex the number of employees in each of the following full-time and part-time job categories:
 
     “(A) officials and managers;
 
@@ -179,9 +179,9 @@
 
     The report shall include the number of minorities and women in the relevant labor market for each of the above categories. The statistical report shall be available to the public at the central office and at every location where more than 5 full-time employees are regularly assigned to work.”
 
-    Subsec. (f)(2). [Pub. L. 102–385, § 22(d)][/us/pl/102/385/s22/d], substituted “$500” for “$200”.
+    Subsec. (f)(2). [Pub. L. 102–385][/us/pl/102/385], § 22(d), substituted “$500” for “$200”.
 
-    Subsec. (h)(1). [Pub. L. 102–385, § 22(e)][/us/pl/102/385/s22/e], inserted before period at end “and any multichannel video programming distributor”.
+    Subsec. (h)(1). [Pub. L. 102–385][/us/pl/102/385], § 22(e), inserted before period at end “and any multichannel video programming distributor”.
 
  __Effective Date of 1992 Amendment__ 
 
@@ -193,7 +193,7 @@
 
  __Congressional Findings: Employment of Women and Minorities in Management Positions in Television Industry__ 
 
-[Pub. L. 102–385, § 22(a)][/us/pl/102/385/s22/a], Oct. 5, 1992, [106 Stat. 1498][/us/stat/106/1498], provided that: 
+[Pub. L. 102–385][/us/pl/102/385], § 22(a), Oct. 5, 1992, [106 Stat. 1498][/us/stat/106/1498], provided that: 
 
 > “The Congress finds and declares that—
 
@@ -205,7 +205,7 @@
 
  __Study and Report on Effect and Operation of Amendments by__  __[__  __Section 22 of Pub. L. 102–385__  __][/us/pl/102/385/s22]__ 
 
-[Pub. L. 102–385, § 22(g)][/us/pl/102/385/s22/g], Oct. 5, 1992, [106 Stat. 1500][/us/stat/106/1500], provided that: 
+[Pub. L. 102–385][/us/pl/102/385], § 22(g), Oct. 5, 1992, [106 Stat. 1500][/us/stat/106/1500], provided that: 
 
 > “Not later than 2 years after the date of enactment of this Act \[Oct. 5, 1992\], the Commission shall submit to the Congress a report pursuant to a proceeding to review and obtain public comment on the effect and operation of the amendments made by this section \[enacting [section 334 of this title][/us/usc/t47/s334] and amending this section\]. In conducting such review, the Commission shall consider the effectiveness of its procedures, regulations, policies, standards, and guidelines in promoting equality of employment opportunity and promotion opportunity, and particularly the effectiveness of its procedures, regulations, policies, standards, and guidelines in promoting the congressional policy favoring increased employment opportunity for women and minorities in positions of management authority. The Commission shall forward to the Congress such legislative recommendations to improve equal employment opportunity in the broadcasting and cable industries as it deems necessary.”
 
@@ -220,11 +220,11 @@
 [/us/usc/t47/s522/7/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs522%2F7%2FA
 [/us/usc/t47/s309/i/3/C/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs309%2Fi%2F3%2FC%2Fii
 [/us/act/1934-06-19/ch652]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-19%2Fch652
-[/us/pl/98/549/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F549%2Fs2
+[/us/pl/98/549]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F549
 [/us/stat/98/2797]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2797
-[/us/pl/102/385/s22/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F385%2Fs22%2Fb
+[/us/pl/102/385]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F385
 [/us/stat/106/1498]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F1498
-[/us/pl/103/414/s303/a/24]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F414%2Fs303%2Fa%2F24
+[/us/pl/103/414/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F414%2FtIII
 [/us/stat/108/4295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4295
 [/us/pl/102/385]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F385
 [/us/stat/106/1460]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F1460
@@ -235,19 +235,19 @@
 [/us/pl/98/549/s9/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F549%2Fs9%2Fa
 [/us/usc/t47/s521]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs521
 [/us/pl/103/414]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F414
-[/us/pl/102/385/s22/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F385%2Fs22%2Fb
-[/us/pl/102/385/s22/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F385%2Fs22%2Fc
-[/us/pl/102/385/s22/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F385%2Fs22%2Fd
-[/us/pl/102/385/s22/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F385%2Fs22%2Fe
+[/us/pl/102/385]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F385
+[/us/pl/102/385]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F385
+[/us/pl/102/385]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F385
+[/us/pl/102/385]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F385
 [/us/pl/102/385]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F385
 [/us/pl/102/385/s28]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F385%2Fs28
 [/us/usc/t47/s325]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs325
 [/us/pl/98/549/s9/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F549%2Fs9%2Fa
 [/us/usc/t47/s521]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs521
-[/us/pl/102/385/s22/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F385%2Fs22%2Fa
+[/us/pl/102/385]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F385
 [/us/stat/106/1498]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F1498
 [/us/pl/102/385/s22]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F385%2Fs22
-[/us/pl/102/385/s22/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F385%2Fs22%2Fg
+[/us/pl/102/385]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F385
 [/us/stat/106/1500]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F1500
 [/us/usc/t47/s334]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs334
 

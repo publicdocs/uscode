@@ -51,17 +51,17 @@
 
         The Attorney General shall submit to the Congress each year a report specifically detailing all deposits and expenditures made pursuant to subchapter I  <sup>\[2\]</sup>  <sup><sup> 2 See References in Text note below. </sup></sup>  of this chapter in each fiscal year. This report shall be submitted to each member of the Committees on the Judiciary and Appropriations of both the House of Representatives and the Senate, and to the Speaker and minority leader of the House of Representatives and to the majority and minority leaders of the Senate, no later than 60 days after the end of each fiscal year.
 
-([Pub. L. 103–414, title IV, § 401][/us/pl/103/414/s401], as added [Pub. L. 104–208, div. A, title I, § 101(a)][/us/pl/104/208/s101/a] \[title I, § 110\], Sept. 30, 1996, [110 Stat. 3009][/us/stat/110/3009], 3009–19.)
+([Pub. L. 103–414, title IV][/us/pl/103/414/tIV], § 401, as added [Pub. L. 104–208, div. A, title I][/us/pl/104/208/dA/tI], § 101(a) \[title I, § 110\], Sept. 30, 1996, [110 Stat. 3009][/us/stat/110/3009], 3009–19.)
 
  __References in Text__ 
 
-    Section 605 of the Department of Commerce, Justice, and State, the Judiciary, and Related Agencies Appropriations Act, 1997, referred to in subsec. (d), probably means section 605 of the Departments of Commerce, Justice, and State, the Judiciary, and Related Agencies Appropriations Act, 1997, [Pub. L. 104–208, div. A, title I, § 101(a)][/us/pl/104/208/s101/a] \[title VI\], Sept. 30, 1996, [110 Stat. 3009][/us/stat/110/3009], 3009–64, which is not classified to the Code.
+    Section 605 of the Department of Commerce, Justice, and State, the Judiciary, and Related Agencies Appropriations Act, 1997, referred to in subsec. (d), probably means section 605 of the Departments of Commerce, Justice, and State, the Judiciary, and Related Agencies Appropriations Act, 1997, [Pub. L. 104–208, div. A, title I][/us/pl/104/208/dA/tI], § 101(a) \[title VI\], Sept. 30, 1996, [110 Stat. 3009][/us/stat/110/3009], 3009–64, which is not classified to the Code.
 
     Subchapter I of this chapter, referred to in subsec. (f), was in the original “this Act” and was translated as reading “title I of this Act”, meaning title I of [Pub. L. 103–414][/us/pl/103/414], Oct. 25, 1994, [108 Stat. 4279][/us/stat/108/4279], which is classified to subchapter I of this chapter, to reflect the probable intent of Congress.
 
  __Direct Payments From Fund__ 
 
-[Pub. L. 106–246, div. B, title II][/us/pl/106/246], July 13, 2000, [114 Stat. 542][/us/stat/114/542], provided in part: 
+[Pub. L. 106–246, div. B, title II][/us/pl/106/246/dB/tII], July 13, 2000, [114 Stat. 542][/us/stat/114/542], provided in part: 
 
 > “That, hereafter, in the discretion of the Attorney General, any expenditures from the \[Telecommunications Carrier Compliance\] Fund to pay or reimburse pursuant to sections 104(e) and 109(a) of [Public Law 103–414][/us/pl/103/414] \[[47 U.S.C. 1003(e)][/us/usc/t47/s1003/e], 1008(a)\], may be made directly to any parties specified in section 401(a) thereof \[[47 U.S.C. 1021(a)][/us/usc/t47/s1021/a]\], and may be made either pursuant to the regulations promulgated under such section 109, or pursuant to firm fixed-price agreements, upon provision of such information as the Attorney General may require”.
 
@@ -73,14 +73,14 @@
 ----------
 
 [/us/usc/t47/s1008]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs1008
-[/us/pl/103/414/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F414%2Fs401
-[/us/pl/104/208/s101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs101%2Fa
+[/us/pl/103/414/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F414%2FtIV
+[/us/pl/104/208/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2FdA%2FtI
 [/us/stat/110/3009]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3009
-[/us/pl/104/208/s101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs101%2Fa
+[/us/pl/104/208/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2FdA%2FtI
 [/us/stat/110/3009]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3009
 [/us/pl/103/414]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F414
 [/us/stat/108/4279]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4279
-[/us/pl/106/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F246
+[/us/pl/106/246/dB/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F246%2FdB%2FtII
 [/us/stat/114/542]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F542
 [/us/pl/103/414]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F414
 [/us/usc/t47/s1003/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs1003%2Fe

@@ -19,7 +19,7 @@
 
     (b) All radio stations, including Government stations and stations on board foreign vessels when within the territorial waters of the United States, shall give absolute priority to radio communications or signals relating to ships in distress; shall cease all sending on frequencies which will interfere with hearing a radio communication or signal of distress, and, except when engaged in answering or aiding the ship in distress, shall refrain from sending any radio communications or signals until there is assurance that no interference will be caused with the radio communications or signals relating thereto, and shall assist the vessel in distress, so far as possible, by complying with its instructions.
 
-([June 19, 1934, ch. 652][/us/act/1934-06-19/ch652], title III, § 321, [48 Stat. 1090][/us/stat/48/1090]; [May 20, 1937, ch. 229, § 7][/us/act/1937-05-20/ch229/s7], [50 Stat. 191][/us/stat/50/191].)
+([June 19, 1934, ch. 652][/us/act/1934-06-19/ch652], title III, § 321, [48 Stat. 1090][/us/stat/48/1090]; [May 20, 1937, ch. 229][/us/act/1937-05-20/ch229], § 7, [50 Stat. 191][/us/stat/50/191].)
 
  __Amendments__ 
 
@@ -34,7 +34,7 @@
 
 [/us/act/1934-06-19/ch652]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-19%2Fch652
 [/us/stat/48/1090]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F1090
-[/us/act/1937-05-20/ch229/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1937-05-20%2Fch229%2Fs7
+[/us/act/1937-05-20/ch229]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1937-05-20%2Fch229
 [/us/stat/50/191]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F50%2F191
 
 

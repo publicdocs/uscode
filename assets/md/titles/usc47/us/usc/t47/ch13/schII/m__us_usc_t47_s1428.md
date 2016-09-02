@@ -53,7 +53,7 @@
 
         The First Responder Network Authority shall reinvest amounts received from the assessment of fees under this section in the nationwide public safety interoperable broadband network by using such funds only for constructing, maintaining, operating, or improving the network.
 
-([Pub. L. 112–96, title VI, § 6208][/us/pl/112/96/s6208], Feb. 22, 2012, [126 Stat. 215][/us/stat/126/215].)
+([Pub. L. 112–96, title VI][/us/pl/112/96/tVI], § 6208, Feb. 22, 2012, [126 Stat. 215][/us/stat/126/215].)
 
 ----------
 
@@ -63,7 +63,7 @@
 ----------
 
 [/us/usc/t47/s337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs337
-[/us/pl/112/96/s6208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F96%2Fs6208
+[/us/pl/112/96/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F96%2FtVI
 [/us/stat/126/215]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F215
 
 

@@ -47,7 +47,7 @@
 
     Notwithstanding any other provision of law, a satellite carrier may not carry the signal of a television station into an adjacent local market that is comprised of only a portion of a county, other than to unserved households located in that county.
 
-([June 19, 1934, ch. 652][/us/act/1934-06-19/ch652], title III, § 341, as added [Pub. L. 108–447, div. J, title IX][/us/pl/108/447] \[title II, § 211\], Dec. 8, 2004, [118 Stat. 3430][/us/stat/118/3430].)
+([June 19, 1934, ch. 652][/us/act/1934-06-19/ch652], title III, § 341, as added [Pub. L. 108–447, div. J, title IX][/us/pl/108/447/dJ/tIX] \[title II, § 211\], Dec. 8, 2004, [118 Stat. 3430][/us/stat/118/3430].)
 
 ----------
 
@@ -57,7 +57,7 @@
 ----------
 
 [/us/act/1934-06-19/ch652]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-19%2Fch652
-[/us/pl/108/447]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447
+[/us/pl/108/447/dJ/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447%2FdJ%2FtIX
 [/us/stat/118/3430]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F3430
 
 

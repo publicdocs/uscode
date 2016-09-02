@@ -43,7 +43,7 @@
 
             (B) the equipment, facility, or service has been replaced or significantly upgraded or otherwise undergoes major modification.
 
-([Pub. L. 103–414, title I, § 108][/us/pl/103/414/s108], Oct. 25, 1994, [108 Stat. 4285][/us/stat/108/4285].)
+([Pub. L. 103–414, title I][/us/pl/103/414/tI], § 108, Oct. 25, 1994, [108 Stat. 4285][/us/stat/108/4285].)
 
 ----------
 
@@ -58,7 +58,7 @@
 [/us/usc/t47/s1008/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs1008%2Fb%2F2
 [/us/usc/t47/s1008/b/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs1008%2Fb%2F2%2FA
 [/us/usc/t47/s1002]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs1002
-[/us/pl/103/414/s108]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F414%2Fs108
+[/us/pl/103/414/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F414%2FtI
 [/us/stat/108/4285]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4285
 
 

@@ -77,7 +77,7 @@
 
             (B) the requirements of subparagraphs (A) and (B) of such paragraph are being enforced.
 
-([Pub. L. 102–538, title I, § 104][/us/pl/102/538/s104], Oct. 27, 1992, [106 Stat. 3537][/us/stat/106/3537]; [Pub. L. 103–66, title VI, § 6001(b)][/us/pl/103/66/s6001/b], Aug. 10, 1993, [107 Stat. 387][/us/stat/107/387].)
+([Pub. L. 102–538, title I][/us/pl/102/538/tI], § 104, Oct. 27, 1992, [106 Stat. 3537][/us/stat/106/3537]; [Pub. L. 103–66, title VI][/us/pl/103/66/tVI], § 6001(b), Aug. 10, 1993, [107 Stat. 387][/us/stat/107/387].)
 
  __Amendments__ 
 
@@ -89,23 +89,23 @@
 
  __Authorization of Use of Spectrum By, and Provision of Spectrum Functions to, Federal Entity; Reimbursement__ 
 
-[Pub. L. 108–7, div. B, title II][/us/pl/108/7], Feb. 20, 2003, [117 Stat. 71][/us/stat/117/71], provided in part: 
+[Pub. L. 108–7, div. B, title II][/us/pl/108/7/dB/tII], Feb. 20, 2003, [117 Stat. 71][/us/stat/117/71], provided in part: 
 
 > “That hereafter, notwithstanding any other provision of law, NTIA \[National Telecommunications and Information Administration\] shall not authorize spectrum use or provide any spectrum functions pursuant to the National Telecommunications and Information Administration Organization Act, [47 U.S.C. 902–903][/us/usc/t47/s902–903] \[[47 U.S.C. 901][/us/usc/t47/s901] et seq.\], to any Federal entity without reimbursement as required by NTIA for such spectrum management costs, and Federal entities withholding payment of such cost shall not use spectrum”.
 
 Similar provisions were contained in the following prior appropriation acts:
 
-    [Pub. L. 107–77, title II][/us/pl/107/77], Nov. 28, 2001, [115 Stat. 772][/us/stat/115/772].
+    [Pub. L. 107–77, title II][/us/pl/107/77/tII], Nov. 28, 2001, [115 Stat. 772][/us/stat/115/772].
 
-    [Pub. L. 106–553, § 1(a)(2)][/us/pl/106/553/s1/a/2] \[title II\], Dec. 21, 2000, [114 Stat. 2762][/us/stat/114/2762], 2762A–72.
+    [Pub. L. 106–553][/us/pl/106/553], § 1(a)(2) \[title II\], Dec. 21, 2000, [114 Stat. 2762][/us/stat/114/2762], 2762A–72.
 
-    [Pub. L. 106–113, div. B, § 1000(a)(1)][/us/pl/106/113/s1000/a/1] \[title II\], Nov. 29, 1999, [113 Stat. 1535][/us/stat/113/1535], 1501A–26.
+    [Pub. L. 106–113, div. B][/us/pl/106/113/dB], § 1000(a)(1) \[title II\], Nov. 29, 1999, [113 Stat. 1535][/us/stat/113/1535], 1501A–26.
 
-    [Pub. L. 105–277, div. A, § 101(b)][/us/pl/105/277/s101/b] \[title II\], Oct. 21, 1998, [112 Stat. 2681–50][/us/stat/112/2681-50], 2681–80.
+    [Pub. L. 105–277, div. A][/us/pl/105/277/dA], § 101(b) \[title II\], Oct. 21, 1998, [112 Stat. 2681–50][/us/stat/112/2681-50], 2681–80.
 
-    [Pub. L. 105–119, title II][/us/pl/105/119], Nov. 26, 1997, [111 Stat. 2474][/us/stat/111/2474].
+    [Pub. L. 105–119, title II][/us/pl/105/119/tII], Nov. 26, 1997, [111 Stat. 2474][/us/stat/111/2474].
 
-    [Pub. L. 104–208, div. A, title I, § 101(a)][/us/pl/104/208/s101/a] \[title II\], Sept. 30, 1996, [110 Stat. 3009][/us/stat/110/3009], 3009–35.
+    [Pub. L. 104–208, div. A, title I][/us/pl/104/208/dA/tI], § 101(a) \[title II\], Sept. 30, 1996, [110 Stat. 3009][/us/stat/110/3009], 3009–35.
 
 ----------
 
@@ -115,28 +115,28 @@ Similar provisions were contained in the following prior appropriation acts:
 ----------
 
 [/us/usc/t47/s902/b/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs902%2Fb%2F2%2FA
-[/us/pl/102/538/s104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F538%2Fs104
+[/us/pl/102/538/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F538%2FtI
 [/us/stat/106/3537]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3537
-[/us/pl/103/66/s6001/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66%2Fs6001%2Fb
+[/us/pl/103/66/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66%2FtVI
 [/us/stat/107/387]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F387
 [/us/pl/103/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66
 [/us/pl/104/14/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F14%2Fs1%2Fa
 [/us/usc/t2/s21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs21
-[/us/pl/108/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F7
+[/us/pl/108/7/dB/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F7%2FdB%2FtII
 [/us/stat/117/71]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F71
 [/us/usc/t47/s902–903]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs902%E2%80%93903
 [/us/usc/t47/s901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs901
-[/us/pl/107/77]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F77
+[/us/pl/107/77/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F77%2FtII
 [/us/stat/115/772]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F772
-[/us/pl/106/553/s1/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F553%2Fs1%2Fa%2F2
+[/us/pl/106/553]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F553
 [/us/stat/114/2762]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2762
-[/us/pl/106/113/s1000/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2Fs1000%2Fa%2F1
+[/us/pl/106/113/dB]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2FdB
 [/us/stat/113/1535]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1535
-[/us/pl/105/277/s101/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs101%2Fb
+[/us/pl/105/277/dA]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2FdA
 [/us/stat/112/2681-50]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681-50
-[/us/pl/105/119]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F119
+[/us/pl/105/119/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F119%2FtII
 [/us/stat/111/2474]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F2474
-[/us/pl/104/208/s101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs101%2Fa
+[/us/pl/104/208/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2FdA%2FtI
 [/us/stat/110/3009]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3009
 
 

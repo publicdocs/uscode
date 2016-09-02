@@ -23,7 +23,7 @@
 
         Nothing in this section shall be construed to prohibit the First Responder Network Authority and a secondary user from entering into a covered leasing agreement pursuant to [section 1428(a)(2)(B) of this title][/us/usc/t47/s1428/a/2/B]. Nothing in this section shall be construed to limit the First Responder Network Authority from collecting lease fees related to network equipment and infrastructure pursuant to [section 1428(a)(3) of this title][/us/usc/t47/s1428/a/3].
 
-([Pub. L. 112–96, title VI, § 6212][/us/pl/112/96/s6212], Feb. 22, 2012, [126 Stat. 218][/us/stat/126/218].)
+([Pub. L. 112–96, title VI][/us/pl/112/96/tVI], § 6212, Feb. 22, 2012, [126 Stat. 218][/us/stat/126/218].)
 
 ----------
 
@@ -34,7 +34,7 @@
 
 [/us/usc/t47/s1428/a/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs1428%2Fa%2F2%2FB
 [/us/usc/t47/s1428/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs1428%2Fa%2F3
-[/us/pl/112/96/s6212]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F96%2Fs6212
+[/us/pl/112/96/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F96%2FtVI
 [/us/stat/126/218]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F218
 
 

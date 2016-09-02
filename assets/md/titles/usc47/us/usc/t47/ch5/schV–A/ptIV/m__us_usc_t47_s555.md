@@ -33,15 +33,15 @@
 
         (2) Notwithstanding any other provision of law, an interlocutory or final judgment, decree, or order of the court of three judges in an action under paragraph (1) holding section 534 or 535 of this title or any provision thereof unconstitutional shall be reviewable as a matter of right by direct appeal to the Supreme Court. Any such appeal shall be filed not more than 20 days after entry of such judgment, decree, or order.
 
-([June 19, 1934, ch. 652][/us/act/1934-06-19/ch652], title VI, § 635, as added [Pub. L. 98–549, § 2][/us/pl/98/549/s2], Oct. 30, 1984, [98 Stat. 2800][/us/stat/98/2800]; amended [Pub. L. 102–385][/us/pl/102/385], §§ 7(a)(2), 23, 24(b), Oct. 5, 1992, [106 Stat. 1483][/us/stat/106/1483], 1500, 1501.)
+([June 19, 1934, ch. 652][/us/act/1934-06-19/ch652], title VI, § 635, as added [Pub. L. 98–549][/us/pl/98/549], § 2, Oct. 30, 1984, [98 Stat. 2800][/us/stat/98/2800]; amended [Pub. L. 102–385][/us/pl/102/385], §§ 7(a)(2), 23, 24(b), Oct. 5, 1992, [106 Stat. 1483][/us/stat/106/1483], 1500, 1501.)
 
  __Amendments__ 
 
-    1992—Subsec. (a). [Pub. L. 102–385, § 7(a)(2)][/us/pl/102/385/s7/a/2], inserted “541(a)(1),” after “section”.
+    1992—Subsec. (a). [Pub. L. 102–385][/us/pl/102/385], § 7(a)(2), inserted “541(a)(1),” after “section”.
 
-    Subsec. (b). [Pub. L. 102–385, § 24(b)][/us/pl/102/385/s24/b], inserted “and with the provisions of subsection (a) of this section” after “subsection (a) of this section”.
+    Subsec. (b). [Pub. L. 102–385][/us/pl/102/385], § 24(b), inserted “and with the provisions of subsection (a) of this section” after “subsection (a) of this section”.
 
-    Subsec. (c). [Pub. L. 102–385, § 23][/us/pl/102/385/s23], added subsec. (c).
+    Subsec. (c). [Pub. L. 102–385][/us/pl/102/385], § 23, added subsec. (c).
 
  __Effective Date of 1992 Amendment__ 
 
@@ -60,13 +60,13 @@
 
 [/us/usc/t28/s2284]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs2284
 [/us/act/1934-06-19/ch652]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-19%2Fch652
-[/us/pl/98/549/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F549%2Fs2
+[/us/pl/98/549]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F549
 [/us/stat/98/2800]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2800
 [/us/pl/102/385]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F385
 [/us/stat/106/1483]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F1483
-[/us/pl/102/385/s7/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F385%2Fs7%2Fa%2F2
-[/us/pl/102/385/s24/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F385%2Fs24%2Fb
-[/us/pl/102/385/s23]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F385%2Fs23
+[/us/pl/102/385]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F385
+[/us/pl/102/385]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F385
+[/us/pl/102/385]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F385
 [/us/pl/102/385]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F385
 [/us/pl/102/385/s28]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F385%2Fs28
 [/us/usc/t47/s325]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs325

@@ -53,7 +53,7 @@
 
         Notwithstanding any other provision of law, (1) any holder of a broadcast license may broadcast to an area of Alaska that otherwise does not have access to over the air broadcasts via translator, microwave, or other alternative signal delivery even if another holder of a broadcast license begins broadcasting to such area, (2) any holder of a broadcast license who has broadcast to an area of Alaska that did not have access to over the air broadcasts via translator, microwave, or other alternative signal delivery may continue providing such service even if another holder of a broadcast license begins broadcasting to such area, and shall not be fined or subject to any other penalty, forfeiture, or revocation related to providing such service including any fine, penalty, forfeiture, or revocation for continuing to operate notwithstanding orders to the contrary.
 
-([June 19, 1934, ch. 652][/us/act/1934-06-19/ch652], title III, § 307, [48 Stat. 1083][/us/stat/48/1083]; [June 5, 1936, ch. 511, § 2][/us/act/1936-06-05/ch511/s2], [49 Stat. 1475][/us/stat/49/1475]; [July 16, 1952, ch. 879, § 5][/us/act/1952-07-16/ch879/s5], [66 Stat. 714][/us/stat/66/714]; [Pub. L. 86–752, § 3][/us/pl/86/752/s3], Sept. 13, 1960, [74 Stat. 889][/us/stat/74/889]; [Pub. L. 87–439][/us/pl/87/439], Apr. 27, 1962, [76 Stat. 58][/us/stat/76/58]; [Pub. L. 97–35, title XII, § 1241(a)][/us/pl/97/35/s1241/a], Aug. 13, 1981, [95 Stat. 736][/us/stat/95/736]; [Pub. L. 97–259, title I][/us/pl/97/259], §§ 112, 113(a), Sept. 13, 1982, [96 Stat. 1093][/us/stat/96/1093]; [Pub. L. 104–104, title II, § 203][/us/pl/104/104/s203], title IV, § 403(i), Feb. 8, 1996, [110 Stat. 112][/us/stat/110/112], 131; [Pub. L. 108–447, div. J, title IX][/us/pl/108/447] \[title II, § 213(1), (2)\], Dec. 8, 2004, [118 Stat. 3431][/us/stat/118/3431].)
+([June 19, 1934, ch. 652][/us/act/1934-06-19/ch652], title III, § 307, [48 Stat. 1083][/us/stat/48/1083]; [June 5, 1936, ch. 511][/us/act/1936-06-05/ch511], § 2, [49 Stat. 1475][/us/stat/49/1475]; [July 16, 1952, ch. 879][/us/act/1952-07-16/ch879], § 5, [66 Stat. 714][/us/stat/66/714]; [Pub. L. 86–752][/us/pl/86/752], § 3, Sept. 13, 1960, [74 Stat. 889][/us/stat/74/889]; [Pub. L. 87–439][/us/pl/87/439], Apr. 27, 1962, [76 Stat. 58][/us/stat/76/58]; [Pub. L. 97–35, title XII][/us/pl/97/35/tXII], § 1241(a), Aug. 13, 1981, [95 Stat. 736][/us/stat/95/736]; [Pub. L. 97–259, title I][/us/pl/97/259/tI], §§ 112, 113(a), Sept. 13, 1982, [96 Stat. 1093][/us/stat/96/1093]; [Pub. L. 104–104, title II][/us/pl/104/104/tII], § 203, title IV, § 403(i), Feb. 8, 1996, [110 Stat. 112][/us/stat/110/112], 131; [Pub. L. 108–447, div. J, title IX][/us/pl/108/447/dJ/tIX] \[title II, § 213(1), (2)\], Dec. 8, 2004, [118 Stat. 3431][/us/stat/118/3431].)
 
  __References in Text__ 
 
@@ -61,13 +61,13 @@
 
  __Amendments__ 
 
-    2004—Subsec. (c)(3). [Pub. L. 108–447, § 213(1)][/us/pl/108/447/s213/1], substituted “any administrative or judicial hearing” for “any hearing” and inserted “or section 402” after “section 405”.
+    2004—Subsec. (c)(3). [Pub. L. 108–447][/us/pl/108/447], § 213(1), substituted “any administrative or judicial hearing” for “any hearing” and inserted “or section 402” after “section 405”.
 
-    Subsec. (f). [Pub. L. 108–447, § 213(2)][/us/pl/108/447/s213/2], added subsec. (f).
+    Subsec. (f). [Pub. L. 108–447][/us/pl/108/447], § 213(2), added subsec. (f).
 
-    1996—Subsec. (c). [Pub. L. 104–104, § 203][/us/pl/104/104/s203], inserted heading and amended text generally, restructuring existing provisions into pars. (1) to (3) and substituting provisions providing 8 year term for licenses of broadcasting stations for provisions providing 5 year term for licenses of television broadcasting stations, 7 year term for licenses of radio broadcasting stations, and 10 year term for other broadcasting stations.
+    1996—Subsec. (c). [Pub. L. 104–104][/us/pl/104/104], § 203, inserted heading and amended text generally, restructuring existing provisions into pars. (1) to (3) and substituting provisions providing 8 year term for licenses of broadcasting stations for provisions providing 5 year term for licenses of television broadcasting stations, 7 year term for licenses of radio broadcasting stations, and 10 year term for other broadcasting stations.
 
-    Subsec. (e). [Pub. L. 104–104, § 403(i)][/us/pl/104/104/s403/i], amended subsec. (e) generally. Prior to amendment, subsec. (e) read as follows:
+    Subsec. (e). [Pub. L. 104–104][/us/pl/104/104], § 403(i), amended subsec. (e) generally. Prior to amendment, subsec. (e) read as follows:
 
     “(1) Notwithstanding any licensing requirement established in this chapter, the Commission may by rule authorize the operation of radio stations without individual licenses in the radio control service and the citizens band radio service if the Commission determines that such authorization serves the public interest, convenience, and necessity.
 
@@ -75,9 +75,9 @@
 
     “(3) For purposes of this subsection, the terms ‘radio control service’ and ‘citizens band radio service’ shall have the meanings given them by the Commission by rule.”
 
-    1982—Subsec. (c). [Pub. L. 97–259, § 112][/us/pl/97/259/s112], redesignated subsec. (d) as (c), substituted “ten years” for “five years” after “station) shall be for a longer term than” and “term of not to exceed”, and inserted provision that the term of any license for the operation of any auxiliary broadcast station or equipment which can be used only in conjunction with a primary radio, television, or translator station shall be concurrent with the term of the license for such primary radio, television, or translator station. Former subsec. (c), which required the Commission to study proposal that Congress allocate fixed percentages of radio broadcasting facilities to nonprofit activities and report recommendations, with reasons, to Congress not later than Feb. 1, 1935, was struck out.
+    1982—Subsec. (c). [Pub. L. 97–259][/us/pl/97/259], § 112, redesignated subsec. (d) as (c), substituted “ten years” for “five years” after “station) shall be for a longer term than” and “term of not to exceed”, and inserted provision that the term of any license for the operation of any auxiliary broadcast station or equipment which can be used only in conjunction with a primary radio, television, or translator station shall be concurrent with the term of the license for such primary radio, television, or translator station. Former subsec. (c), which required the Commission to study proposal that Congress allocate fixed percentages of radio broadcasting facilities to nonprofit activities and report recommendations, with reasons, to Congress not later than Feb. 1, 1935, was struck out.
 
-    Subsec. (d). [Pub. L. 97–259, § 112(a)][/us/pl/97/259/s112/a], redesignated subsec. (e) as (d). Former subsec. (d) redesignated (c).
+    Subsec. (d). [Pub. L. 97–259][/us/pl/97/259], § 112(a), redesignated subsec. (e) as (d). Former subsec. (d) redesignated (c).
 
     Subsec. (e). [Pub. L. 97–259][/us/pl/97/259], §§ 112(a), 113(a), added subsec. (e) and redesignated former subsec. (e) as (d).
 
@@ -93,7 +93,7 @@
 
  __Effective Date of 1981 Amendment__ 
 
-[Pub. L. 97–35, title XII, § 1241(b)][/us/pl/97/35/s1241/b], Aug. 13, 1981, [95 Stat. 736][/us/stat/95/736], provided that: 
+[Pub. L. 97–35, title XII][/us/pl/97/35/tXII], § 1241(b), Aug. 13, 1981, [95 Stat. 736][/us/stat/95/736], provided that: 
 
 > “The amendments made in subsection (a) \[amending this section\] shall apply to television and radio broadcasting licenses granted or renewed by the Federal Communications Commission after the date of the enactment of this Act \[Aug. 13, 1981\].”
 
@@ -107,36 +107,36 @@
 [/us/usc/t47/s402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs402
 [/us/act/1934-06-19/ch652]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-19%2Fch652
 [/us/stat/48/1083]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F1083
-[/us/act/1936-06-05/ch511/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1936-06-05%2Fch511%2Fs2
+[/us/act/1936-06-05/ch511]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1936-06-05%2Fch511
 [/us/stat/49/1475]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F1475
-[/us/act/1952-07-16/ch879/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1952-07-16%2Fch879%2Fs5
+[/us/act/1952-07-16/ch879]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1952-07-16%2Fch879
 [/us/stat/66/714]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F66%2F714
-[/us/pl/86/752/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F752%2Fs3
+[/us/pl/86/752]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F752
 [/us/stat/74/889]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F74%2F889
 [/us/pl/87/439]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F439
 [/us/stat/76/58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F58
-[/us/pl/97/35/s1241/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs1241%2Fa
+[/us/pl/97/35/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2FtXII
 [/us/stat/95/736]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F736
-[/us/pl/97/259]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F259
+[/us/pl/97/259/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F259%2FtI
 [/us/stat/96/1093]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1093
-[/us/pl/104/104/s203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F104%2Fs203
+[/us/pl/104/104/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F104%2FtII
 [/us/stat/110/112]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F112
-[/us/pl/108/447]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447
+[/us/pl/108/447/dJ/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447%2FdJ%2FtIX
 [/us/stat/118/3431]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F3431
 [/us/act/1934-06-19/ch652]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-19%2Fch652
 [/us/stat/48/1064]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F1064
 [/us/usc/t47/s609]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs609
-[/us/pl/108/447/s213/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447%2Fs213%2F1
-[/us/pl/108/447/s213/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447%2Fs213%2F2
-[/us/pl/104/104/s203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F104%2Fs203
-[/us/pl/104/104/s403/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F104%2Fs403%2Fi
-[/us/pl/97/259/s112]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F259%2Fs112
-[/us/pl/97/259/s112/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F259%2Fs112%2Fa
+[/us/pl/108/447]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447
+[/us/pl/108/447]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447
+[/us/pl/104/104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F104
+[/us/pl/104/104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F104
+[/us/pl/97/259]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F259
+[/us/pl/97/259]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F259
 [/us/pl/97/259]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F259
 [/us/pl/97/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35
 [/us/pl/87/439]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F439
 [/us/pl/86/752]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F752
-[/us/pl/97/35/s1241/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs1241%2Fb
+[/us/pl/97/35/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2FtXII
 [/us/stat/95/736]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F736
 
 

@@ -65,7 +65,7 @@
 
         The term “enhanced 9–1–1 service” means the delivery of 9–1–1 calls with automatic number identification and automatic location identification, or successor or equivalent information features over the wireline E911 network (as defined in section 9.3 of the Federal Communications Commission’s regulations (47 C.F.R. 9.3) as of July 23, 2008) and equivalent or successor networks and technologies. The term also includes any enhanced 9–1–1 service so designated by the Commission in its Report and Order in WC Docket Nos. 04–36 and 05–196, or any successor proceeding.
 
-([Pub. L. 106–81, § 7][/us/pl/106/81/s7], formerly § 6, Oct. 26, 1999, [113 Stat. 1289][/us/stat/113/1289]; renumbered § 7 and amended [Pub. L. 110–283, title I, § 101(1)][/us/pl/110/283/s101/1], (3), title II, § 201(b), July 23, 2008, [122 Stat. 2620][/us/stat/122/2620], 2623, 2624.)
+([Pub. L. 106–81][/us/pl/106/81], § 7, formerly § 6, Oct. 26, 1999, [113 Stat. 1289][/us/stat/113/1289]; renumbered § 7 and amended [Pub. L. 110–283, title I][/us/pl/110/283/tI], § 101(1), (3), title II, § 201(b), July 23, 2008, [122 Stat. 2620][/us/stat/122/2620], 2623, 2624.)
 
  __References in Text__ 
 
@@ -79,11 +79,11 @@
 
  __Amendments__ 
 
-    2008—Par. (8). [Pub. L. 110–283, § 201(b)][/us/pl/110/283/s201/b], added par. (8) defining “other emergency communications service”.
+    2008—Par. (8). [Pub. L. 110–283][/us/pl/110/283], § 201(b), added par. (8) defining “other emergency communications service”.
 
-    [Pub. L. 110–283, § 101(3)][/us/pl/110/283/s101/3], added par. (8) defining “IP-enabled voice service”.
+    [Pub. L. 110–283][/us/pl/110/283], § 101(3), added par. (8) defining “IP-enabled voice service”.
 
-    Pars. (9), (10). [Pub. L. 110–283, § 201(b)][/us/pl/110/283/s201/b], added pars. (9) and (10).
+    Pars. (9), (10). [Pub. L. 110–283][/us/pl/110/283], § 201(b), added pars. (9) and (10).
 
 ----------
 
@@ -93,9 +93,9 @@
 ----------
 
 [/us/usc/t47/s151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs151
-[/us/pl/106/81/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F81%2Fs7
+[/us/pl/106/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F81
 [/us/stat/113/1289]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1289
-[/us/pl/110/283/s101/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F283%2Fs101%2F1
+[/us/pl/110/283/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F283%2FtI
 [/us/stat/122/2620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F2620
 [/us/pl/106/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F81
 [/us/stat/113/1286]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1286
@@ -103,8 +103,8 @@
 [/us/act/1934-06-19/ch652]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-19%2Fch652
 [/us/stat/48/1064]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F1064
 [/us/usc/t47/s609]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs609
-[/us/pl/110/283/s201/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F283%2Fs201%2Fb
-[/us/pl/110/283/s101/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F283%2Fs101%2F3
-[/us/pl/110/283/s201/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F283%2Fs201%2Fb
+[/us/pl/110/283]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F283
+[/us/pl/110/283]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F283
+[/us/pl/110/283]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F283
 
 

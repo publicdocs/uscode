@@ -93,7 +93,7 @@
 
         (2) require such local or municipal authority to secure a franchise to operate as a multichannel video programming distributor.
 
-([June 19, 1934, ch. 652][/us/act/1934-06-19/ch652], title VI, § 621, as added [Pub. L. 98–549, § 2][/us/pl/98/549/s2], Oct. 30, 1984, [98 Stat. 2786][/us/stat/98/2786]; amended [Pub. L. 102–385][/us/pl/102/385], §§ 7(a)(1), (b), (c), Oct. 5, 1992, [106 Stat. 1483][/us/stat/106/1483]; [Pub. L. 104–104, § 3(d)(3)][/us/pl/104/104/s3/d/3], title III, § 303(a), Feb. 8, 1996, [110 Stat. 61][/us/stat/110/61], 124.)
+([June 19, 1934, ch. 652][/us/act/1934-06-19/ch652], title VI, § 621, as added [Pub. L. 98–549][/us/pl/98/549], § 2, Oct. 30, 1984, [98 Stat. 2786][/us/stat/98/2786]; amended [Pub. L. 102–385][/us/pl/102/385], §§ 7(a)(1), (b), (c), Oct. 5, 1992, [106 Stat. 1483][/us/stat/106/1483]; [Pub. L. 104–104][/us/pl/104/104], § 3(d)(3), title III, § 303(a), Feb. 8, 1996, [110 Stat. 61][/us/stat/110/61], 124.)
 
  __References in Text__ 
 
@@ -101,17 +101,17 @@
 
  __Amendments__ 
 
-    1996—Subsec. (b)(3). [Pub. L. 104–104, § 303(a)][/us/pl/104/104/s303/a], added par. (3).
+    1996—Subsec. (b)(3). [Pub. L. 104–104][/us/pl/104/104], § 303(a), added par. (3).
 
-    Subsec. (d)(3). [Pub. L. 104–104, § 3(d)(3)][/us/pl/104/104/s3/d/3], substituted “section 153” for “section 153(v)”.
+    Subsec. (d)(3). [Pub. L. 104–104][/us/pl/104/104], § 3(d)(3), substituted “section 153” for “section 153(v)”.
 
-    1992—Subsec. (a)(1). [Pub. L. 102–385, § 7(a)(1)][/us/pl/102/385/s7/a/1], inserted before period at end “; except that a franchising authority may not grant an exclusive franchise and may not unreasonably refuse to award an additional competitive franchise. Any applicant whose application for a second franchise has been denied by a final decision of the franchising authority may appeal such final decision pursuant to the provisions of [section 555 of this title][/us/usc/t47/s555] for failure to comply with this subsection”.
+    1992—Subsec. (a)(1). [Pub. L. 102–385][/us/pl/102/385], § 7(a)(1), inserted before period at end “; except that a franchising authority may not grant an exclusive franchise and may not unreasonably refuse to award an additional competitive franchise. Any applicant whose application for a second franchise has been denied by a final decision of the franchising authority may appeal such final decision pursuant to the provisions of [section 555 of this title][/us/usc/t47/s555] for failure to comply with this subsection”.
 
-    Subsec. (a)(4). [Pub. L. 102–385, § 7(b)][/us/pl/102/385/s7/b], added par. (4).
+    Subsec. (a)(4). [Pub. L. 102–385][/us/pl/102/385], § 7(b), added par. (4).
 
-    Subsec. (b)(1). [Pub. L. 102–385, § 7(c)(1)][/us/pl/102/385/s7/c/1], inserted “and subsection (f) of this section” after “paragraph (2)”.
+    Subsec. (b)(1). [Pub. L. 102–385][/us/pl/102/385], § 7(c)(1), inserted “and subsection (f) of this section” after “paragraph (2)”.
 
-    Subsec. (f). [Pub. L. 102–385, § 7(c)(2)][/us/pl/102/385/s7/c/2], added subsec. (f).
+    Subsec. (f). [Pub. L. 102–385][/us/pl/102/385], § 7(c)(2), added subsec. (f).
 
  __Effective Date of 1992 Amendment__ 
 
@@ -131,22 +131,22 @@
 [/us/usc/t47/s555]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs555
 [/us/usc/t47/s153]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs153
 [/us/act/1934-06-19/ch652]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-19%2Fch652
-[/us/pl/98/549/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F549%2Fs2
+[/us/pl/98/549]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F549
 [/us/stat/98/2786]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2786
 [/us/pl/102/385]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F385
 [/us/stat/106/1483]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F1483
-[/us/pl/104/104/s3/d/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F104%2Fs3%2Fd%2F3
+[/us/pl/104/104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F104
 [/us/stat/110/61]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F61
 [/us/act/1934-06-19/ch652]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-19%2Fch652
 [/us/stat/48/1064]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F1064
 [/us/usc/t47/s609]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs609
-[/us/pl/104/104/s303/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F104%2Fs303%2Fa
-[/us/pl/104/104/s3/d/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F104%2Fs3%2Fd%2F3
-[/us/pl/102/385/s7/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F385%2Fs7%2Fa%2F1
+[/us/pl/104/104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F104
+[/us/pl/104/104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F104
+[/us/pl/102/385]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F385
 [/us/usc/t47/s555]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs555
-[/us/pl/102/385/s7/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F385%2Fs7%2Fb
-[/us/pl/102/385/s7/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F385%2Fs7%2Fc%2F1
-[/us/pl/102/385/s7/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F385%2Fs7%2Fc%2F2
+[/us/pl/102/385]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F385
+[/us/pl/102/385]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F385
+[/us/pl/102/385]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F385
 [/us/pl/102/385]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F385
 [/us/pl/102/385/s28]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F385%2Fs28
 [/us/usc/t47/s325]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs325

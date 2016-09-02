@@ -57,7 +57,7 @@
 
             The Commission shall convene a Federal-State joint board to recommend appropriate changes to part 36 of the Commission’s rules with respect to recovery of costs pursuant to charges, practices, classifications, and regulations under the jurisdiction of the Commission.
 
-([June 19, 1934, ch. 652][/us/act/1934-06-19/ch652], title II, § 229, as added [Pub. L. 103–414, title III, § 301][/us/pl/103/414/s301], Oct. 25, 1994, [108 Stat. 4292][/us/stat/108/4292].)
+([June 19, 1934, ch. 652][/us/act/1934-06-19/ch652], title II, § 229, as added [Pub. L. 103–414, title III][/us/pl/103/414/tIII], § 301, Oct. 25, 1994, [108 Stat. 4292][/us/stat/108/4292].)
 
  __References in Text__ 
 
@@ -76,7 +76,7 @@
 [/us/usc/t47/s1004]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs1004
 [/us/usc/t47/s1002]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs1002
 [/us/act/1934-06-19/ch652]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-19%2Fch652
-[/us/pl/103/414/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F414%2Fs301
+[/us/pl/103/414/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F414%2FtIII
 [/us/stat/108/4292]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4292
 [/us/pl/103/414]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F414
 [/us/stat/108/4279]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4279

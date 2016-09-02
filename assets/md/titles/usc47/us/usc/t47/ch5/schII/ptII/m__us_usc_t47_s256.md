@@ -53,7 +53,7 @@
 
         As used in this section, the term “public telecommunications network interconnectivity” means the ability of two or more public telecommunications networks used to provide telecommunications service to communicate and exchange information without degeneration, and to interact in concert with one another.
 
-([June 19, 1934, ch. 652][/us/act/1934-06-19/ch652], title II, § 256, as added [Pub. L. 104–104, title I, § 101(a)][/us/pl/104/104/s101/a], Feb. 8, 1996, [110 Stat. 76][/us/stat/110/76].)
+([June 19, 1934, ch. 652][/us/act/1934-06-19/ch652], title II, § 256, as added [Pub. L. 104–104, title I][/us/pl/104/104/tI], § 101(a), Feb. 8, 1996, [110 Stat. 76][/us/stat/110/76].)
 
 ----------
 
@@ -63,7 +63,7 @@
 ----------
 
 [/us/act/1934-06-19/ch652]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-19%2Fch652
-[/us/pl/104/104/s101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F104%2Fs101%2Fa
+[/us/pl/104/104/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F104%2FtI
 [/us/stat/110/76]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F76
 
 

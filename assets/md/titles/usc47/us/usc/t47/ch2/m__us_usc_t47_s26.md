@@ -17,7 +17,7 @@
 
     For the purpose of carrying into effect the convention described in [section 30 of this title][/us/usc/t47/s30] a person commanding a ship of war of the United States or of any foreign state for the time being bound by the convention, or a ship specially commissioned by the Government of the United States or by the government of such foreign state, may exercise and perform the duties with respect to requiring exhibition of documents evidencing the nationality of offending vessels and making reports of infractions vested in and imposed on such officer by the convention.
 
-([Feb. 29, 1888, ch. 17, § 6][/us/act/1888-02-29/ch17/s6], [25 Stat. 42][/us/stat/25/42].)
+([Feb. 29, 1888, ch. 17][/us/act/1888-02-29/ch17], § 6, [25 Stat. 42][/us/stat/25/42].)
 
  __Codification__ 
 
@@ -31,7 +31,7 @@
 ----------
 
 [/us/usc/t47/s30]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs30
-[/us/act/1888-02-29/ch17/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1888-02-29%2Fch17%2Fs6
+[/us/act/1888-02-29/ch17]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1888-02-29%2Fch17
 [/us/stat/25/42]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F25%2F42
 [/us/stat/24/996]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F24%2F996
 [/us/usc/t47/s27]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs27

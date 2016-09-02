@@ -27,7 +27,7 @@
 
         Upon the request of the Commission it shall be the duty of any United States attorney to whom the Commission may apply to institute in the proper court and to prosecute under the direction of the Attorney General of the United States all necessary proceedings for the enforcement of the provisions of this chapter and for the punishment of all violations thereof, and the costs and expenses of such prosecutions shall be paid out of the appropriations for the expenses of the courts of the United States.
 
-([June 19, 1934, ch. 652][/us/act/1934-06-19/ch652], title IV, § 401, [48 Stat. 1092][/us/stat/48/1092]; [June 25, 1948, ch. 646, § 1][/us/act/1948-06-25/ch646/s1], [62 Stat. 909][/us/stat/62/909]; [Pub. L. 93–528, § 6(a)][/us/pl/93/528/s6/a], Dec. 21, 1974, [88 Stat. 1709][/us/stat/88/1709].)
+([June 19, 1934, ch. 652][/us/act/1934-06-19/ch652], title IV, § 401, [48 Stat. 1092][/us/stat/48/1092]; [June 25, 1948, ch. 646][/us/act/1948-06-25/ch646], § 1, [62 Stat. 909][/us/stat/62/909]; [Pub. L. 93–528][/us/pl/93/528], § 6(a), Dec. 21, 1974, [88 Stat. 1709][/us/stat/88/1709].)
 
  __References in Text__ 
 
@@ -50,9 +50,9 @@
 
 [/us/act/1934-06-19/ch652]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-19%2Fch652
 [/us/stat/48/1092]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F1092
-[/us/act/1948-06-25/ch646/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch646%2Fs1
+[/us/act/1948-06-25/ch646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch646
 [/us/stat/62/909]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F909
-[/us/pl/93/528/s6/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F528%2Fs6%2Fa
+[/us/pl/93/528]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F528
 [/us/stat/88/1709]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1709
 [/us/act/1934-06-19/ch652]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-19%2Fch652
 [/us/stat/48/1064]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F1064

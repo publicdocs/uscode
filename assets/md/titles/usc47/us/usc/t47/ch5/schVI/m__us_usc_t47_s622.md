@@ -33,17 +33,17 @@
 
         Not later than 9 months after November 26, 2014, the Commission shall promulgate regulations or take other appropriate action, as necessary, to allow manufacturers of radiofrequency devices with display the option to use electronic labeling for the equipment in place of affixing physical labels to the equipment.
 
-([June 19, 1934, ch. 652][/us/act/1934-06-19/ch652], title VII, § 720, as added [Pub. L. 113–197, § 3][/us/pl/113/197/s3], Nov. 26, 2014, [128 Stat. 2055][/us/stat/128/2055].)
+([June 19, 1934, ch. 652][/us/act/1934-06-19/ch652], title VII, § 720, as added [Pub. L. 113–197][/us/pl/113/197], § 3, Nov. 26, 2014, [128 Stat. 2055][/us/stat/128/2055].)
 
  __Savings Clause__ 
 
-[Pub. L. 113–197, § 4][/us/pl/113/197/s4], Nov. 26, 2014, [128 Stat. 2056][/us/stat/128/2056], provided that: 
+[Pub. L. 113–197][/us/pl/113/197], § 4, Nov. 26, 2014, [128 Stat. 2056][/us/stat/128/2056], provided that: 
 
 > “The amendment made by section 3 \[enacting this section\] shall not be construed to affect the authority of the Federal Communications Commission under section 302 of the Communications Act of 1934 ([47 U.S.C. 302a][/us/usc/t47/s302a]) to provide for electronic labeling of devices.”
 
  __Findings__ 
 
-[Pub. L. 113–197, § 2][/us/pl/113/197/s2], Nov. 26, 2014, [128 Stat. 2055][/us/stat/128/2055], provided that: 
+[Pub. L. 113–197][/us/pl/113/197], § 2, Nov. 26, 2014, [128 Stat. 2055][/us/stat/128/2055], provided that: 
 
 > “Congress finds the following:
 
@@ -63,12 +63,12 @@
 ----------
 
 [/us/act/1934-06-19/ch652]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-19%2Fch652
-[/us/pl/113/197/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F197%2Fs3
+[/us/pl/113/197]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F197
 [/us/stat/128/2055]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2055
-[/us/pl/113/197/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F197%2Fs4
+[/us/pl/113/197]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F197
 [/us/stat/128/2056]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2056
 [/us/usc/t47/s302a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs302a
-[/us/pl/113/197/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F197%2Fs2
+[/us/pl/113/197]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F197
 [/us/stat/128/2055]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2055
 
 

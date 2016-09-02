@@ -51,7 +51,7 @@
 
         Nothing in this section shall be construed as expanding or limiting any authority that the Commission may have under law in effect before February 8, 1996.
 
-([June 19, 1934, ch. 652][/us/act/1934-06-19/ch652], title VI, § 629, as added [Pub. L. 104–104, title III, § 304][/us/pl/104/104/s304], Feb. 8, 1996, [110 Stat. 125][/us/stat/110/125].)
+([June 19, 1934, ch. 652][/us/act/1934-06-19/ch652], title VI, § 629, as added [Pub. L. 104–104, title III][/us/pl/104/104/tIII], § 304, Feb. 8, 1996, [110 Stat. 125][/us/stat/110/125].)
 
 ----------
 
@@ -61,7 +61,7 @@
 ----------
 
 [/us/act/1934-06-19/ch652]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-19%2Fch652
-[/us/pl/104/104/s304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F104%2Fs304
+[/us/pl/104/104/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F104%2FtIII
 [/us/stat/110/125]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F125
 
 

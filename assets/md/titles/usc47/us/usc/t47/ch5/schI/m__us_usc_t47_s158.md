@@ -3361,7 +3361,7 @@
 
         </table>
 
-([June 19, 1934, ch. 652][/us/act/1934-06-19/ch652], title I, § 8, as added [Pub. L. 99–272, title V, § 5002(e)][/us/pl/99/272/s5002/e], Apr. 7, 1986, [100 Stat. 118][/us/stat/100/118]; amended [Pub. L. 100–594, § 5][/us/pl/100/594/s5], Nov. 3, 1988, [102 Stat. 3021][/us/stat/102/3021]; [Pub. L. 101–239, title III, § 3001(a)][/us/pl/101/239/s3001/a], (b), Dec. 19, 1989, [103 Stat. 2124][/us/stat/103/2124], 2131; [Pub. L. 102–538, title II, § 209][/us/pl/102/538/s209], Oct. 27, 1992, [106 Stat. 3544][/us/stat/106/3544]; [Pub. L. 103–66, title VI, § 6003(a)(2)][/us/pl/103/66/s6003/a/2], Aug. 10, 1993, [107 Stat. 401][/us/stat/107/401]; [Pub. L. 103–414, title III][/us/pl/103/414], §§ 302, 303(a)(3), (4), Oct. 25, 1994, [108 Stat. 4294][/us/stat/108/4294].)
+([June 19, 1934, ch. 652][/us/act/1934-06-19/ch652], title I, § 8, as added [Pub. L. 99–272, title V][/us/pl/99/272/tV], § 5002(e), Apr. 7, 1986, [100 Stat. 118][/us/stat/100/118]; amended [Pub. L. 100–594][/us/pl/100/594], § 5, Nov. 3, 1988, [102 Stat. 3021][/us/stat/102/3021]; [Pub. L. 101–239, title III][/us/pl/101/239/tIII], § 3001(a), (b), Dec. 19, 1989, [103 Stat. 2124][/us/stat/103/2124], 2131; [Pub. L. 102–538, title II][/us/pl/102/538/tII], § 209, Oct. 27, 1992, [106 Stat. 3544][/us/stat/106/3544]; [Pub. L. 103–66, title VI][/us/pl/103/66/tVI], § 6003(a)(2), Aug. 10, 1993, [107 Stat. 401][/us/stat/107/401]; [Pub. L. 103–414, title III][/us/pl/103/414/tIII], §§ 302, 303(a)(3), (4), Oct. 25, 1994, [108 Stat. 4294][/us/stat/108/4294].)
 
  __References in Text__ 
 
@@ -3371,35 +3371,35 @@
 
  __Amendments__ 
 
-    1994—Subsec. (d)(2). [Pub. L. 103–414, § 303(a)(3)][/us/pl/103/414/s303/a/3], substituted “payment of an” for “payment of a”.
+    1994—Subsec. (d)(2). [Pub. L. 103–414][/us/pl/103/414], § 303(a)(3), substituted “payment of an” for “payment of a”.
 
-    Subsec. (g). [Pub. L. 103–414, § 303(a)(4)][/us/pl/103/414/s303/a/4], substituted “Additional Application Fee” for “Additional Charge” in item 7.f. under heading “equipment approval services/experimental radio” in Schedule of Application Fees.
+    Subsec. (g). [Pub. L. 103–414][/us/pl/103/414], § 303(a)(4), substituted “Additional Application Fee” for “Additional Charge” in item 7.f. under heading “equipment approval services/experimental radio” in Schedule of Application Fees.
 
-    [Pub. L. 103–414, § 302][/us/pl/103/414/s302], added item 1.d. under heading “common carrier services” in Schedule of Application Fees.
+    [Pub. L. 103–414][/us/pl/103/414], § 302, added item 1.d. under heading “common carrier services” in Schedule of Application Fees.
 
-    1993—[Pub. L. 103–66, § 6003(a)(2)(A)][/us/pl/103/66/s6003/a/2/A], substituted “Application fees” for “Charges” as section catchline.
+    1993—[Pub. L. 103–66][/us/pl/103/66], § 6003(a)(2)(A), substituted “Application fees” for “Charges” as section catchline.
 
-    Subsecs. (a) to (e). [Pub. L. 103–66, § 6003(a)(2)(B)][/us/pl/103/66/s6003/a/2/B]–(D), substituted “application fees” for “charges” and “Schedule of Application Fees” for “Schedule of Charges” wherever appearing, and substituted “application fee” for “charge” in subsec. (c).
+    Subsecs. (a) to (e). [Pub. L. 103–66][/us/pl/103/66], § 6003(a)(2)(B)–(D), substituted “application fees” for “charges” and “Schedule of Application Fees” for “Schedule of Charges” wherever appearing, and substituted “application fee” for “charge” in subsec. (c).
 
-    Subsec. (g). [Pub. L. 103–66, § 6003(a)(2)(D)][/us/pl/103/66/s6003/a/2/D], in text substituted “Schedule of Application Fees” for “Schedule of Charges”.
+    Subsec. (g). [Pub. L. 103–66][/us/pl/103/66], § 6003(a)(2)(D), in text substituted “Schedule of Application Fees” for “Schedule of Charges”.
 
-    [Pub. L. 103–66, § 6003(a)(2)(E)][/us/pl/103/66/s6003/a/2/E], which directed amendment of schedule by substituting “Schedule of Application Fees” for “Schedule of Charges”, “Application fees” for “Charges”, “application fee” for “charge”, and “Application fees” for “Charges” was executed by substituting “SCHEDULE OF APPLICATION FEES” for “SCHEDULE OF CHARGES” in heading, “miscellaneous application fees” for “miscellaneous charges” in last subheading, and “application fee” for “charge” in two places in text of schedule, to reflect probable intent of Congress.
+    [Pub. L. 103–66][/us/pl/103/66], § 6003(a)(2)(E), which directed amendment of schedule by substituting “Schedule of Application Fees” for “Schedule of Charges”, “Application fees” for “Charges”, “application fee” for “charge”, and “Application fees” for “Charges” was executed by substituting “SCHEDULE OF APPLICATION FEES” for “SCHEDULE OF CHARGES” in heading, “miscellaneous application fees” for “miscellaneous charges” in last subheading, and “application fee” for “charge” in two places in text of schedule, to reflect probable intent of Congress.
 
     1992—Subsec. (g). [Pub. L. 102–538][/us/pl/102/538] in Schedule of Charges added twenty-second category, relating to Low-Earth Orbit Satellite Systems, under heading “common carrier services”, and substituted “75.00” for “360.00” in item 3.c., relating to inspection of vessels under the Great Lakes Agreement, under heading “miscellaneous charges”.
 
-    1989—Subsec. (a). [Pub. L. 101–239, § 3001(b)(1)][/us/pl/101/239/s3001/b/1], struck out at end “The Schedule of Charges established under this subsection shall be implemented not later than 360 days after April 7, 1986.”
+    1989—Subsec. (a). [Pub. L. 101–239][/us/pl/101/239], § 3001(b)(1), struck out at end “The Schedule of Charges established under this subsection shall be implemented not later than 360 days after April 7, 1986.”
 
-    Subsec. (b)(1). [Pub. L. 101–239, § 3001(b)(2)][/us/pl/101/239/s3001/b/2], substituted “October 1, 1991” for “April 1, 1987”.
+    Subsec. (b)(1). [Pub. L. 101–239][/us/pl/101/239], § 3001(b)(2), substituted “October 1, 1991” for “April 1, 1987”.
 
-    Subsec. (d)(1). [Pub. L. 101–239, § 3001(b)(3)][/us/pl/101/239/s3001/b/3], substituted “(A) to governmental entities and nonprofit entities licensed in the following radio services:” for “to the following radio services:” and inserted “(B)” after “Emergency Radio, or”.
+    Subsec. (d)(1). [Pub. L. 101–239][/us/pl/101/239], § 3001(b)(3), substituted “(A) to governmental entities and nonprofit entities licensed in the following radio services:” for “to the following radio services:” and inserted “(B)” after “Emergency Radio, or”.
 
-    Subsec. (g). [Pub. L. 101–239, § 3001(a)][/us/pl/101/239/s3001/a], added subsec. (g).
+    Subsec. (g). [Pub. L. 101–239][/us/pl/101/239], § 3001(a), added subsec. (g).
 
     1988—Subsec. (b)(1). [Pub. L. 100–594][/us/pl/100/594] substituted “two years after April 1, 1987,” for “two years after April 7, 1986,”.
 
  __Effective Date of 1989 Amendment__ 
 
-[Pub. L. 101–239, title III, § 3001(c)][/us/pl/101/239/s3001/c], Dec. 19, 1989, [103 Stat. 2131][/us/stat/103/2131], provided that: 
+[Pub. L. 101–239, title III][/us/pl/101/239/tIII], § 3001(c), Dec. 19, 1989, [103 Stat. 2131][/us/stat/103/2131], provided that: 
 
 > “The amendments made by this section \[amending this section\] shall take effect on the date of enactment of this Act \[Dec. 19, 1989\], and the Schedule of Charges required by the amendment made by subsection (a) of this section shall be implemented not later than 150 days after the date of enactment of this Act.”
 
@@ -3415,35 +3415,35 @@
 ----------
 
 [/us/act/1934-06-19/ch652]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-19%2Fch652
-[/us/pl/99/272/s5002/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F272%2Fs5002%2Fe
+[/us/pl/99/272/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F272%2FtV
 [/us/stat/100/118]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F118
-[/us/pl/100/594/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F594%2Fs5
+[/us/pl/100/594]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F594
 [/us/stat/102/3021]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3021
-[/us/pl/101/239/s3001/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2Fs3001%2Fa
+[/us/pl/101/239/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2FtIII
 [/us/stat/103/2124]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F2124
-[/us/pl/102/538/s209]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F538%2Fs209
+[/us/pl/102/538/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F538%2FtII
 [/us/stat/106/3544]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3544
-[/us/pl/103/66/s6003/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66%2Fs6003%2Fa%2F2
+[/us/pl/103/66/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66%2FtVI
 [/us/stat/107/401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F401
-[/us/pl/103/414]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F414
+[/us/pl/103/414/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F414%2FtIII
 [/us/stat/108/4294]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4294
 [/us/act/1934-06-19/ch652]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-19%2Fch652
 [/us/stat/48/1064]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F1064
 [/us/usc/t47/s609]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs609
-[/us/pl/103/414/s303/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F414%2Fs303%2Fa%2F3
-[/us/pl/103/414/s303/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F414%2Fs303%2Fa%2F4
-[/us/pl/103/414/s302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F414%2Fs302
-[/us/pl/103/66/s6003/a/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66%2Fs6003%2Fa%2F2%2FA
-[/us/pl/103/66/s6003/a/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66%2Fs6003%2Fa%2F2%2FB
-[/us/pl/103/66/s6003/a/2/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66%2Fs6003%2Fa%2F2%2FD
-[/us/pl/103/66/s6003/a/2/E]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66%2Fs6003%2Fa%2F2%2FE
+[/us/pl/103/414]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F414
+[/us/pl/103/414]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F414
+[/us/pl/103/414]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F414
+[/us/pl/103/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66
+[/us/pl/103/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66
+[/us/pl/103/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66
+[/us/pl/103/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66
 [/us/pl/102/538]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F538
-[/us/pl/101/239/s3001/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2Fs3001%2Fb%2F1
-[/us/pl/101/239/s3001/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2Fs3001%2Fb%2F2
-[/us/pl/101/239/s3001/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2Fs3001%2Fb%2F3
-[/us/pl/101/239/s3001/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2Fs3001%2Fa
+[/us/pl/101/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239
+[/us/pl/101/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239
+[/us/pl/101/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239
+[/us/pl/101/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239
 [/us/pl/100/594]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F594
-[/us/pl/101/239/s3001/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2Fs3001%2Fc
+[/us/pl/101/239/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2FtIII
 [/us/stat/103/2131]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F2131
 [/us/pl/99/272/s5002/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F272%2Fs5002%2Ff
 [/us/pl/101/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239

@@ -17,7 +17,7 @@
 
     No right shall accrue to any government, person, or corporation under the terms of sections 34 to 39 of this title that may not be rescinded, changed, modified, or amended by the Congress.
 
-([May 27, 1921, ch. 12, § 6][/us/act/1921-05-27/ch12/s6], [42 Stat. 9][/us/stat/42/9].)
+([May 27, 1921, ch. 12][/us/act/1921-05-27/ch12], § 6, [42 Stat. 9][/us/stat/42/9].)
 
  __Codification__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/act/1921-05-27/ch12/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1921-05-27%2Fch12%2Fs6
+[/us/act/1921-05-27/ch12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1921-05-27%2Fch12
 [/us/stat/42/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F42%2F9
 
 

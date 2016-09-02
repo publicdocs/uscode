@@ -23,7 +23,7 @@
 
     (3) vessels navigating on the Great Lakes.
 
-([June 19, 1934, ch. 652][/us/act/1934-06-19/ch652], title III, § 382, as added [Aug. 6, 1956, ch. 973, § 1][/us/act/1956-08-06/ch973/s1], [70 Stat. 1048][/us/stat/70/1048]; amended [Pub. L. 103–414, title III, § 303(a)(20)(B)][/us/pl/103/414/s303/a/20/B], Oct. 25, 1994, [108 Stat. 4295][/us/stat/108/4295]; [Pub. L. 104–104, title IV, § 403(h)(2)][/us/pl/104/104/s403/h/2], Feb. 8, 1996, [110 Stat. 131][/us/stat/110/131].)
+([June 19, 1934, ch. 652][/us/act/1934-06-19/ch652], title III, § 382, as added [Aug. 6, 1956, ch. 973][/us/act/1956-08-06/ch973], § 1, [70 Stat. 1048][/us/stat/70/1048]; amended [Pub. L. 103–414, title III][/us/pl/103/414/tIII], § 303(a)(20)(B), Oct. 25, 1994, [108 Stat. 4295][/us/stat/108/4295]; [Pub. L. 104–104, title IV][/us/pl/104/104/tIV], § 403(h)(2), Feb. 8, 1996, [110 Stat. 131][/us/stat/110/131].)
 
  __References in Text__ 
 
@@ -47,11 +47,11 @@
 ----------
 
 [/us/act/1934-06-19/ch652]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-19%2Fch652
-[/us/act/1956-08-06/ch973/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-06%2Fch973%2Fs1
+[/us/act/1956-08-06/ch973]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-06%2Fch973
 [/us/stat/70/1048]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70%2F1048
-[/us/pl/103/414/s303/a/20/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F414%2Fs303%2Fa%2F20%2FB
+[/us/pl/103/414/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F414%2FtIII
 [/us/stat/108/4295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4295
-[/us/pl/104/104/s403/h/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F104%2Fs403%2Fh%2F2
+[/us/pl/104/104/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F104%2FtIV
 [/us/stat/110/131]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F131
 [/us/pl/104/104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F104
 [/us/pl/103/414]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F414

@@ -61,19 +61,19 @@
 
             In the case of a common carrier providing telephone exchange service and exchange access that is not subject to the jurisdiction of a State commission, the Commission shall upon request designate such a common carrier that meets the requirements of paragraph (1) as an eligible telecommunications carrier for a service area designated by the Commission consistent with applicable Federal and State law. Upon request and consistent with the public interest, convenience and necessity, the Commission may, with respect to an area served by a rural telephone company, and shall, in the case of all other areas, designate more than one common carrier as an eligible telecommunications carrier for a service area designated under this paragraph, so long as each additional requesting carrier meets the requirements of paragraph (1). Before designating an additional eligible telecommunications carrier for an area served by a rural telephone company, the Commission shall find that the designation is in the public interest.
 
-([June 19, 1934, ch. 652][/us/act/1934-06-19/ch652], title II, § 214, [48 Stat. 1075][/us/stat/48/1075]; [Mar. 6, 1943, ch. 10][/us/act/1943-03-06/ch10], §§ 2–5, [57 Stat. 11][/us/stat/57/11]; [Pub. L. 93–506, § 1][/us/pl/93/506/s1], Nov. 30, 1974, [88 Stat. 1577][/us/stat/88/1577]; [Pub. L. 101–239, title III, § 3002(d)][/us/pl/101/239/s3002/d], Dec. 19, 1989, [103 Stat. 2131][/us/stat/103/2131]; [Pub. L. 103–414, title III, § 304(a)(4)][/us/pl/103/414/s304/a/4], Oct. 25, 1994, [108 Stat. 4296][/us/stat/108/4296]; [Pub. L. 104–104, title I, § 102(a)][/us/pl/104/104/s102/a], Feb. 8, 1996, [110 Stat. 80][/us/stat/110/80]; [Pub. L. 105–125, § 1][/us/pl/105/125/s1], Dec. 1, 1997, [111 Stat. 2540][/us/stat/111/2540].)
+([June 19, 1934, ch. 652][/us/act/1934-06-19/ch652], title II, § 214, [48 Stat. 1075][/us/stat/48/1075]; [Mar. 6, 1943, ch. 10][/us/act/1943-03-06/ch10], §§ 2–5, [57 Stat. 11][/us/stat/57/11]; [Pub. L. 93–506][/us/pl/93/506], § 1, Nov. 30, 1974, [88 Stat. 1577][/us/stat/88/1577]; [Pub. L. 101–239, title III][/us/pl/101/239/tIII], § 3002(d), Dec. 19, 1989, [103 Stat. 2131][/us/stat/103/2131]; [Pub. L. 103–414, title III][/us/pl/103/414/tIII], § 304(a)(4), Oct. 25, 1994, [108 Stat. 4296][/us/stat/108/4296]; [Pub. L. 104–104, title I][/us/pl/104/104/tI], § 102(a), Feb. 8, 1996, [110 Stat. 80][/us/stat/110/80]; [Pub. L. 105–125][/us/pl/105/125], § 1, Dec. 1, 1997, [111 Stat. 2540][/us/stat/111/2540].)
 
  __Amendments__ 
 
-    1997—Subsec. (e)(1). [Pub. L. 105–125, § 1(1)][/us/pl/105/125/s1/1], substituted “(2), (3), or (6)” for “(2) or (3)”.
+    1997—Subsec. (e)(1). [Pub. L. 105–125][/us/pl/105/125], § 1(1), substituted “(2), (3), or (6)” for “(2) or (3)”.
 
-    Subsec. (e)(3). [Pub. L. 105–125, § 1(2)][/us/pl/105/125/s1/2], substituted “interstate services or an area served by a common carrier to which paragraph (6) applies” for “interstate services”.
+    Subsec. (e)(3). [Pub. L. 105–125][/us/pl/105/125], § 1(2), substituted “interstate services or an area served by a common carrier to which paragraph (6) applies” for “interstate services”.
 
-    Subsec. (e)(4). [Pub. L. 105–125, § 1(3)][/us/pl/105/125/s1/3], inserted “(or the Commission in the case of a common carrier designated under paragraph (6))” after “State commission” wherever appearing.
+    Subsec. (e)(4). [Pub. L. 105–125][/us/pl/105/125], § 1(3), inserted “(or the Commission in the case of a common carrier designated under paragraph (6))” after “State commission” wherever appearing.
 
-    Subsec. (e)(5). [Pub. L. 105–125, § 1(4)][/us/pl/105/125/s1/4], inserted “(or the Commission under paragraph (6))” after “State commission”.
+    Subsec. (e)(5). [Pub. L. 105–125][/us/pl/105/125], § 1(4), inserted “(or the Commission under paragraph (6))” after “State commission”.
 
-    Subsec. (e)(6). [Pub. L. 105–125, § 1(5)][/us/pl/105/125/s1/5], added par. (6).
+    Subsec. (e)(6). [Pub. L. 105–125][/us/pl/105/125], § 1(5), added par. (6).
 
     1996—Subsec. (e). [Pub. L. 104–104][/us/pl/104/104] added subsec. (e).
 
@@ -93,7 +93,7 @@
 
  __Extension of Lines; ARMIS Reports__ 
 
-[Pub. L. 104–104, title IV, § 402(b)(2)][/us/pl/104/104/s402/b/2], Feb. 8, 1996, [110 Stat. 129][/us/stat/110/129], provided that: 
+[Pub. L. 104–104, title IV][/us/pl/104/104/tIV], § 402(b)(2), Feb. 8, 1996, [110 Stat. 129][/us/stat/110/129], provided that: 
 
 > “The Commission shall permit any common carrier—
 
@@ -117,26 +117,26 @@
 [/us/stat/48/1075]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F1075
 [/us/act/1943-03-06/ch10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1943-03-06%2Fch10
 [/us/stat/57/11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F57%2F11
-[/us/pl/93/506/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F506%2Fs1
+[/us/pl/93/506]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F506
 [/us/stat/88/1577]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1577
-[/us/pl/101/239/s3002/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2Fs3002%2Fd
+[/us/pl/101/239/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2FtIII
 [/us/stat/103/2131]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F2131
-[/us/pl/103/414/s304/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F414%2Fs304%2Fa%2F4
+[/us/pl/103/414/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F414%2FtIII
 [/us/stat/108/4296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4296
-[/us/pl/104/104/s102/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F104%2Fs102%2Fa
+[/us/pl/104/104/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F104%2FtI
 [/us/stat/110/80]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F80
-[/us/pl/105/125/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F125%2Fs1
+[/us/pl/105/125]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F125
 [/us/stat/111/2540]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F2540
-[/us/pl/105/125/s1/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F125%2Fs1%2F1
-[/us/pl/105/125/s1/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F125%2Fs1%2F2
-[/us/pl/105/125/s1/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F125%2Fs1%2F3
-[/us/pl/105/125/s1/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F125%2Fs1%2F4
-[/us/pl/105/125/s1/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F125%2Fs1%2F5
+[/us/pl/105/125]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F125
+[/us/pl/105/125]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F125
+[/us/pl/105/125]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F125
+[/us/pl/105/125]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F125
+[/us/pl/105/125]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F125
 [/us/pl/104/104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F104
 [/us/pl/103/414]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F414
 [/us/pl/101/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239
 [/us/pl/93/506]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F506
-[/us/pl/104/104/s402/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F104%2Fs402%2Fb%2F2
+[/us/pl/104/104/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F104%2FtIV
 [/us/stat/110/129]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F129
 [/us/usc/t47/s214]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs214
 

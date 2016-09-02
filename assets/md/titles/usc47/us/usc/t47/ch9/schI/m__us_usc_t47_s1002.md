@@ -71,7 +71,7 @@
 
         A telecommunications carrier that is a provider of commercial mobile service (as defined in [section 332(d) of this title][/us/usc/t47/s332/d]) offering a feature or service that allows subscribers to redirect, hand off, or assign their wire or electronic communications to another service area or another service provider or to utilize facilities in another service area or of another service provider shall ensure that, when the carrier that had been providing assistance for the interception of wire or electronic communications or access to call-identifying information pursuant to a court order or lawful authorization no longer has access to the content of such communications or call-identifying information within the service area in which interception has been occurring as a result of the subscriber’s use of such a feature or service, information is made available to the government (before, during, or immediately after the transfer of such communications) identifying the provider of a wire or electronic communication service that has acquired access to the communications.
 
-([Pub. L. 103–414, title I, § 103][/us/pl/103/414/s103], Oct. 25, 1994, [108 Stat. 4280][/us/stat/108/4280].)
+([Pub. L. 103–414, title I][/us/pl/103/414/tI], § 103, Oct. 25, 1994, [108 Stat. 4280][/us/stat/108/4280].)
 
  __Effective Date__ 
 
@@ -87,7 +87,7 @@
 [/us/usc/t18/s3127]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs3127
 [/us/usc/t50/s1805/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs1805%2Fe
 [/us/usc/t47/s332/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs332%2Fd
-[/us/pl/103/414/s103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F414%2Fs103
+[/us/pl/103/414/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F414%2FtI
 [/us/stat/108/4280]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4280
 [/us/pl/103/414/s111/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F414%2Fs111%2Fb
 [/us/usc/t47/s1001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs1001

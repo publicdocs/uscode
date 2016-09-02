@@ -81,7 +81,7 @@
 
         (7) The enforcement of a statute or ordinance by a State or local government under paragraph (1) with regard to citizens band radio equipment on board a “commercial motor vehicle”, as defined in [section 31101 of title 49][/us/usc/t49/s31101], shall require probable cause to find that the commercial motor vehicle or the individual operating the vehicle is in violation of the regulations described in paragraph (1).
 
-([June 19, 1934, ch. 652][/us/act/1934-06-19/ch652], title III, § 302, as added [Pub. L. 90–379][/us/pl/90/379], July 5, 1968, [82 Stat. 290][/us/stat/82/290]; amended [Pub. L. 97–259, title I, § 108(a)][/us/pl/97/259/s108/a], Sept. 13, 1982, [96 Stat. 1091][/us/stat/96/1091]; [Pub. L. 102–556, title IV, § 403(a)][/us/pl/102/556/s403/a], Oct. 28, 1992, [106 Stat. 4195][/us/stat/106/4195]; [Pub. L. 104–104, title IV, § 403(f)][/us/pl/104/104/s403/f], Feb. 8, 1996, [110 Stat. 131][/us/stat/110/131]; [Pub. L. 106–521, § 1][/us/pl/106/521/s1], Nov. 22, 2000, [114 Stat. 2438][/us/stat/114/2438].)
+([June 19, 1934, ch. 652][/us/act/1934-06-19/ch652], title III, § 302, as added [Pub. L. 90–379][/us/pl/90/379], July 5, 1968, [82 Stat. 290][/us/stat/82/290]; amended [Pub. L. 97–259, title I][/us/pl/97/259/tI], § 108(a), Sept. 13, 1982, [96 Stat. 1091][/us/stat/96/1091]; [Pub. L. 102–556, title IV][/us/pl/102/556/tIV], § 403(a), Oct. 28, 1992, [106 Stat. 4195][/us/stat/106/4195]; [Pub. L. 104–104, title IV][/us/pl/104/104/tIV], § 403(f), Feb. 8, 1996, [110 Stat. 131][/us/stat/110/131]; [Pub. L. 106–521][/us/pl/106/521], § 1, Nov. 22, 2000, [114 Stat. 2438][/us/stat/114/2438].)
 
  __Amendments__ 
 
@@ -91,21 +91,21 @@
 
     1992—Subsec. (d). [Pub. L. 102–556][/us/pl/102/556] added subsec. (d).
 
-    1982—Subsec. (a). [Pub. L. 97–259, § 108(a)(1)][/us/pl/97/259/s108/a/1], (2), inserted “(1)” after “regulations” and “; and (2) establishing minimum performance standards for home electronic equipment and systems to reduce their susceptibility to interference from radio frequency energy” after “radio communications”, and substituted “or shipment of such devices and home electronic equipment and systems, and to the use of such devices” for “shipment, or use of such devices”.
+    1982—Subsec. (a). [Pub. L. 97–259][/us/pl/97/259], § 108(a)(1), (2), inserted “(1)” after “regulations” and “; and (2) establishing minimum performance standards for home electronic equipment and systems to reduce their susceptibility to interference from radio frequency energy” after “radio communications”, and substituted “or shipment of such devices and home electronic equipment and systems, and to the use of such devices” for “shipment, or use of such devices”.
 
-    Subsec. (b). [Pub. L. 97–259, § 108(a)(3)][/us/pl/97/259/s108/a/3], substituted “or ship devices or home electronic equipment and systems, or use devices,” for “ship, or use devices”.
+    Subsec. (b). [Pub. L. 97–259][/us/pl/97/259], § 108(a)(3), substituted “or ship devices or home electronic equipment and systems, or use devices,” for “ship, or use devices”.
 
-    Subsec. (c). [Pub. L. 97–259, § 108(a)(4)][/us/pl/97/259/s108/a/4], inserted “or home electronic equipment and systems” after “devices” wherever appearing, inserted “and home electronic equipment and systems” after “Devices”, substituted “objectives” for “common objective”, and inserted “and to home electronic equipment and systems” after “reception”.
+    Subsec. (c). [Pub. L. 97–259][/us/pl/97/259], § 108(a)(4), inserted “or home electronic equipment and systems” after “devices” wherever appearing, inserted “and home electronic equipment and systems” after “Devices”, substituted “objectives” for “common objective”, and inserted “and to home electronic equipment and systems” after “reception”.
 
  __Effect on Other Laws__ 
 
-[Pub. L. 102–556, title IV, § 403(c)][/us/pl/102/556/s403/c], Oct. 28, 1992, [106 Stat. 4195][/us/stat/106/4195], provided that: 
+[Pub. L. 102–556, title IV][/us/pl/102/556/tIV], § 403(c), Oct. 28, 1992, [106 Stat. 4195][/us/stat/106/4195], provided that: 
 
 > “This section \[amending this section\] shall not affect [section 2512(2) of title 18][/us/usc/t18/s2512/2], United States Code.”
 
  __Minimum Performance Standards; Home Electronic Equipment and Systems Manufactured Before__  __September 13, 1982__ 
 
-[Pub. L. 97–259, title I, § 108(b)][/us/pl/97/259/s108/b], Sept. 13, 1982, [96 Stat. 1092][/us/stat/96/1092], provided that: 
+[Pub. L. 97–259, title I][/us/pl/97/259/tI], § 108(b), Sept. 13, 1982, [96 Stat. 1092][/us/stat/96/1092], provided that: 
 
 > “Any minimum performance standard established by the Federal Communications Commission under section 302(a)(2) of the Communications Act of 1934 \[subsec. (a)(2) of this section\], as added by the amendment made in subsection (a)(1), shall not apply to any home electronic equipment or systems manufactured before the date of the enactment of this Act \[Sept. 13, 1982\].”
 
@@ -121,24 +121,24 @@
 [/us/act/1934-06-19/ch652]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-19%2Fch652
 [/us/pl/90/379]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F379
 [/us/stat/82/290]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F290
-[/us/pl/97/259/s108/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F259%2Fs108%2Fa
+[/us/pl/97/259/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F259%2FtI
 [/us/stat/96/1091]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1091
-[/us/pl/102/556/s403/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F556%2Fs403%2Fa
+[/us/pl/102/556/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F556%2FtIV
 [/us/stat/106/4195]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4195
-[/us/pl/104/104/s403/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F104%2Fs403%2Ff
+[/us/pl/104/104/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F104%2FtIV
 [/us/stat/110/131]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F131
-[/us/pl/106/521/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F521%2Fs1
+[/us/pl/106/521]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F521
 [/us/stat/114/2438]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2438
 [/us/pl/106/521]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F521
 [/us/pl/104/104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F104
 [/us/pl/102/556]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F556
-[/us/pl/97/259/s108/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F259%2Fs108%2Fa%2F1
-[/us/pl/97/259/s108/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F259%2Fs108%2Fa%2F3
-[/us/pl/97/259/s108/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F259%2Fs108%2Fa%2F4
-[/us/pl/102/556/s403/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F556%2Fs403%2Fc
+[/us/pl/97/259]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F259
+[/us/pl/97/259]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F259
+[/us/pl/97/259]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F259
+[/us/pl/102/556/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F556%2FtIV
 [/us/stat/106/4195]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4195
 [/us/usc/t18/s2512/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs2512%2F2
-[/us/pl/97/259/s108/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F259%2Fs108%2Fb
+[/us/pl/97/259/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F259%2FtI
 [/us/stat/96/1092]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1092
 
 

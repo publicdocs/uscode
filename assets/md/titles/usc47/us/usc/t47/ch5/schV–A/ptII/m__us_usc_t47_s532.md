@@ -115,7 +115,7 @@
 
         (2) Cable operators shall comply with the regulations promulgated pursuant to paragraph (1).
 
-([June 19, 1934, ch. 652][/us/act/1934-06-19/ch652], title VI, § 612, as added [Pub. L. 98–549, § 2][/us/pl/98/549/s2], Oct. 30, 1984, [98 Stat. 2782][/us/stat/98/2782]; amended [Pub. L. 102–385][/us/pl/102/385], §§ 9, 10(a), (b), Oct. 5, 1992, [106 Stat. 1484][/us/stat/106/1484], 1486; [Pub. L. 104–104, title V, § 506(b)][/us/pl/104/104/s506/b], Feb. 8, 1996, [110 Stat. 137][/us/stat/110/137].)
+([June 19, 1934, ch. 652][/us/act/1934-06-19/ch652], title VI, § 612, as added [Pub. L. 98–549][/us/pl/98/549], § 2, Oct. 30, 1984, [98 Stat. 2782][/us/stat/98/2782]; amended [Pub. L. 102–385][/us/pl/102/385], §§ 9, 10(a), (b), Oct. 5, 1992, [106 Stat. 1484][/us/stat/106/1484], 1486; [Pub. L. 104–104, title V][/us/pl/104/104/tV], § 506(b), Feb. 8, 1996, [110 Stat. 137][/us/stat/110/137].)
 
  __Constitutionality__ 
 
@@ -125,23 +125,23 @@ For information regarding constitutionality of certain provisions of section 612
 
     1996—Subsec. (c)(2). [Pub. L. 104–104][/us/pl/104/104] substituted “a cable operator may refuse to transmit any leased access program or portion of a leased access program which contains obscenity, indecency, or nudity and” for “an operator”.
 
-    1992—Subsec. (a). [Pub. L. 102–385, § 9(a)][/us/pl/102/385/s9/a], inserted “to promote competition in the delivery of diverse sources of video programming and” after “purpose of this section is”.
+    1992—Subsec. (a). [Pub. L. 102–385][/us/pl/102/385], § 9(a), inserted “to promote competition in the delivery of diverse sources of video programming and” after “purpose of this section is”.
 
-    Subsec. (b)(5). [Pub. L. 102–385, § 9(d)][/us/pl/102/385/s9/d], amended par. (5) generally. Prior to amendment, par. (5) read as follows: “For the purposes of this section—
+    Subsec. (b)(5). [Pub. L. 102–385][/us/pl/102/385], § 9(d), amended par. (5) generally. Prior to amendment, par. (5) read as follows: “For the purposes of this section—
 
     “(A) the term ‘activated channels’ means those channels engineered at the headend of the cable system for the provision of services generally available to residential subscribers of the cable system, regardless of whether such services actually are provided, including any channel designated for public, educational, or governmental use; and
 
     “(B) the term ‘commercial use’ means the provision of video programming, whether or not for profit.”
 
-    Subsec. (c)(1). [Pub. L. 102–385, § 9(b)(1)][/us/pl/102/385/s9/b/1], inserted “and with rules prescribed by the Commission under paragraph (4)” after “purpose of this section”.
+    Subsec. (c)(1). [Pub. L. 102–385][/us/pl/102/385], § 9(b)(1), inserted “and with rules prescribed by the Commission under paragraph (4)” after “purpose of this section”.
 
-    Subsec. (c)(4). [Pub. L. 102–385, § 9(b)(2)][/us/pl/102/385/s9/b/2], added par. (4).
+    Subsec. (c)(4). [Pub. L. 102–385][/us/pl/102/385], § 9(b)(2), added par. (4).
 
-    Subsec. (h). [Pub. L. 102–385, § 10(a)][/us/pl/102/385/s10/a], inserted “or the cable operator” after “franchising authority” and inserted at end “This subsection shall permit a cable operator to enforce prospectively a written and published policy of prohibiting programming that the cable operator reasonably believes describes or depicts sexual or excretory activities or organs in a patently offensive manner as measured by contemporary community standards.”
+    Subsec. (h). [Pub. L. 102–385][/us/pl/102/385], § 10(a), inserted “or the cable operator” after “franchising authority” and inserted at end “This subsection shall permit a cable operator to enforce prospectively a written and published policy of prohibiting programming that the cable operator reasonably believes describes or depicts sexual or excretory activities or organs in a patently offensive manner as measured by contemporary community standards.”
 
-    Subsec. (i). [Pub. L. 102–385, § 9(c)][/us/pl/102/385/s9/c], added subsec. (i).
+    Subsec. (i). [Pub. L. 102–385][/us/pl/102/385], § 9(c), added subsec. (i).
 
-    Subsec. (j). [Pub. L. 102–385, § 10(b)][/us/pl/102/385/s10/b], added subsec. (j).
+    Subsec. (j). [Pub. L. 102–385][/us/pl/102/385], § 10(b), added subsec. (j).
 
  __Effective Date of 1992 Amendment__ 
 
@@ -162,21 +162,21 @@ For information regarding constitutionality of certain provisions of section 612
 [/us/usc/t47/s309/i/3/C/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs309%2Fi%2F3%2FC%2Fii
 [/us/usc/t47/s535]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs535
 [/us/act/1934-06-19/ch652]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-19%2Fch652
-[/us/pl/98/549/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F549%2Fs2
+[/us/pl/98/549]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F549
 [/us/stat/98/2782]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2782
 [/us/pl/102/385]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F385
 [/us/stat/106/1484]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F1484
-[/us/pl/104/104/s506/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F104%2Fs506%2Fb
+[/us/pl/104/104/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F104%2FtV
 [/us/stat/110/137]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F137
 [/us/pl/102/385/s10/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F385%2Fs10%2Fb
 [/us/pl/104/104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F104
-[/us/pl/102/385/s9/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F385%2Fs9%2Fa
-[/us/pl/102/385/s9/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F385%2Fs9%2Fd
-[/us/pl/102/385/s9/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F385%2Fs9%2Fb%2F1
-[/us/pl/102/385/s9/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F385%2Fs9%2Fb%2F2
-[/us/pl/102/385/s10/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F385%2Fs10%2Fa
-[/us/pl/102/385/s9/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F385%2Fs9%2Fc
-[/us/pl/102/385/s10/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F385%2Fs10%2Fb
+[/us/pl/102/385]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F385
+[/us/pl/102/385]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F385
+[/us/pl/102/385]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F385
+[/us/pl/102/385]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F385
+[/us/pl/102/385]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F385
+[/us/pl/102/385]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F385
+[/us/pl/102/385]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F385
 [/us/pl/102/385]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F385
 [/us/pl/102/385/s28]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F385%2Fs28
 [/us/usc/t47/s325]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs325

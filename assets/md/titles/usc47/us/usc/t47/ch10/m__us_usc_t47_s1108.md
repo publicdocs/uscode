@@ -45,7 +45,7 @@
 
         Except as provided in paragraphs (1) through (3), any term used in this chapter that is defined in the Communications Act of 1934 ([47 U.S.C. 151][/us/usc/t47/s151] et seq.) has the meaning given that term in the Communications Act of 1934.
 
-([Pub. L. 106–553, § 1(a)(2)][/us/pl/106/553/s1/a/2] \[title X, § 1010\], Dec. 21, 2000, [114 Stat. 2762][/us/stat/114/2762], 2762A–140.)
+([Pub. L. 106–553][/us/pl/106/553], § 1(a)(2) \[title X, § 1010\], Dec. 21, 2000, [114 Stat. 2762][/us/stat/114/2762], 2762A–140.)
 
  __References in Text__ 
 
@@ -61,7 +61,7 @@
 ----------
 
 [/us/usc/t47/s151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs151
-[/us/pl/106/553/s1/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F553%2Fs1%2Fa%2F2
+[/us/pl/106/553]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F553
 [/us/stat/114/2762]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2762
 [/us/usc/t47/s1101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs1101
 [/us/act/1934-06-19/ch652]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-19%2Fch652

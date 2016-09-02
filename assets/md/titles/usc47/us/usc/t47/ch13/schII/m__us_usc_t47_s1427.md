@@ -29,7 +29,7 @@
 
             For purposes of this subsection, the term “administrative expenses” does not include the costs incurred by the First Responder Network Authority for oversight and audits to protect against waste, fraud, and abuse.
 
-([Pub. L. 112–96, title VI, § 6207][/us/pl/112/96/s6207], Feb. 22, 2012, [126 Stat. 215][/us/stat/126/215].)
+([Pub. L. 112–96, title VI][/us/pl/112/96/tVI], § 6207, Feb. 22, 2012, [126 Stat. 215][/us/stat/126/215].)
 
  __References in Text__ 
 
@@ -44,7 +44,7 @@
 
 [/us/usc/t47/s309/j/8/G]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs309%2Fj%2F8%2FG
 [/us/usc/t47/s1451]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs1451
-[/us/pl/112/96/s6207]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F96%2Fs6207
+[/us/pl/112/96/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F96%2FtVI
 [/us/stat/126/215]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F215
 [/us/pl/112/96/s6401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F96%2Fs6401
 [/us/usc/t47/s1451]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs1451

@@ -41,7 +41,7 @@
 
         A State commission may not continue to apply or enforce any provision of this chapter that the Commission has determined to forbear from applying under subsection (a) of this section.
 
-([June 19, 1934, ch. 652][/us/act/1934-06-19/ch652], title I, § 10, as added [Pub. L. 104–104, title IV, § 401][/us/pl/104/104/s401], Feb. 8, 1996, [110 Stat. 128][/us/stat/110/128].)
+([June 19, 1934, ch. 652][/us/act/1934-06-19/ch652], title I, § 10, as added [Pub. L. 104–104, title IV][/us/pl/104/104/tIV], § 401, Feb. 8, 1996, [110 Stat. 128][/us/stat/110/128].)
 
  __References in Text__ 
 
@@ -57,7 +57,7 @@
 [/us/usc/t47/s332/c/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs332%2Fc%2F1%2FA
 [/us/usc/t47/s251/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs251%2Ff
 [/us/act/1934-06-19/ch652]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-19%2Fch652
-[/us/pl/104/104/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F104%2Fs401
+[/us/pl/104/104/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F104%2FtIV
 [/us/stat/110/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F128
 [/us/act/1934-06-19/ch652]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-19%2Fch652
 [/us/stat/48/1064]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F1064

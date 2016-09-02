@@ -33,7 +33,7 @@
 
         The Commission shall take all actions necessary to facilitate the transition of the existing public safety broadband spectrum to the First Responder Network Authority.
 
-([Pub. L. 112–96, title VI, § 6201][/us/pl/112/96/s6201], Feb. 22, 2012, [126 Stat. 206][/us/stat/126/206].)
+([Pub. L. 112–96, title VI][/us/pl/112/96/tVI], § 6201, Feb. 22, 2012, [126 Stat. 206][/us/stat/126/206].)
 
  __References in Text__ 
 
@@ -46,7 +46,7 @@
 ----------
 ----------
 
-[/us/pl/112/96/s6201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F96%2Fs6201
+[/us/pl/112/96/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F96%2FtVI
 [/us/stat/126/206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F206
 [/us/pl/112/96]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F96
 [/us/stat/126/201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F201

@@ -17,7 +17,7 @@
 
     For the purpose of regulating interstate and foreign commerce in communication by wire and radio so as to make available, so far as possible, to all the people of the United States, without discrimination on the basis of race, color, religion, national origin, or sex, a rapid, efficient, Nation-wide, and world-wide wire and radio communication service with adequate facilities at reasonable charges, for the purpose of the national defense, for the purpose of promoting safety of life and property through the use of wire and radio communications, and for the purpose of securing a more effective execution of this policy by centralizing authority heretofore granted by law to several agencies and by granting additional authority with respect to interstate and foreign commerce in wire and radio communication, there is created a commission to be known as the “Federal Communications Commission”, which shall be constituted as hereinafter provided, and which shall execute and enforce the provisions of this chapter.
 
-([June 19, 1934, ch. 652][/us/act/1934-06-19/ch652], title I, § 1, [48 Stat. 1064][/us/stat/48/1064]; [May 20, 1937, ch. 229, § 1][/us/act/1937-05-20/ch229/s1], [50 Stat. 189][/us/stat/50/189]; [Pub. L. 104–104, title I, § 104][/us/pl/104/104/s104], Feb. 8, 1996, [110 Stat. 86][/us/stat/110/86].)
+([June 19, 1934, ch. 652][/us/act/1934-06-19/ch652], title I, § 1, [48 Stat. 1064][/us/stat/48/1064]; [May 20, 1937, ch. 229][/us/act/1937-05-20/ch229], § 1, [50 Stat. 189][/us/stat/50/189]; [Pub. L. 104–104, title I][/us/pl/104/104/tI], § 104, Feb. 8, 1996, [110 Stat. 86][/us/stat/110/86].)
 
  __References in Text__ 
 
@@ -31,13 +31,13 @@
 
  __Extension of Internet Tax Freedom Act__ 
 
-[Pub. L. 114–113, div. E, title VI, § 633][/us/pl/114/113/s633], Dec. 18, 2015, [129 Stat. 2471][/us/stat/129/2471], provided that: 
+[Pub. L. 114–113, div. E, title VI][/us/pl/114/113/dE/tVI], § 633, Dec. 18, 2015, [129 Stat. 2471][/us/stat/129/2471], provided that: 
 
 > “Sections 1101(a) and 1104(a)(2)(A) of the Internet Tax Freedom Act (title XI of division C of [Public Law 105–277][/us/pl/105/277]; [47 U.S.C. 151][/us/usc/t47/s151] note) shall be applied by substituting ‘October 1, 2016’ for ‘October 1, 2015’.”
 
  __Moratorium on Internet Taxes__ 
 
-[Pub. L. 105–277, div. C, title XI][/us/pl/105/277], Oct. 21, 1998, [112 Stat. 2681–719][/us/stat/112/2681-719], as amended by [Pub. L. 107–75, § 2][/us/pl/107/75/s2], Nov. 28, 2001, [115 Stat. 703][/us/stat/115/703]; [Pub. L. 108–435][/us/pl/108/435], §§ 2–6A, Dec. 3, 2004, [118 Stat. 2615–2618][/us/stat/118/2615-2618]; [Pub. L. 110–108][/us/pl/110/108], §§ 2–6, Oct. 31, 2007, [121 Stat. 1024–1026][/us/stat/121/1024-1026]; [Pub. L. 113–235, div. E, title VI, § 624][/us/pl/113/235/s624], Dec. 16, 2014, [128 Stat. 2377][/us/stat/128/2377], provided that:
+[Pub. L. 105–277, div. C, title XI][/us/pl/105/277/dC/tXI], Oct. 21, 1998, [112 Stat. 2681–719][/us/stat/112/2681-719], as amended by [Pub. L. 107–75][/us/pl/107/75], § 2, Nov. 28, 2001, [115 Stat. 703][/us/stat/115/703]; [Pub. L. 108–435][/us/pl/108/435], §§ 2–6A, Dec. 3, 2004, [118 Stat. 2615–2618][/us/stat/118/2615-2618]; [Pub. L. 110–108][/us/pl/110/108], §§ 2–6, Oct. 31, 2007, [121 Stat. 1024–1026][/us/stat/121/1024-1026]; [Pub. L. 113–235, div. E, title VI][/us/pl/113/235/dE/tVI], § 624, Dec. 16, 2014, [128 Stat. 2377][/us/stat/128/2377], provided that:
 
 > “SEC. 1100. __SHORT TITLE.__ 
 
@@ -527,19 +527,19 @@
 
 >     Nothing in this Act \[probably means “this title”\] shall be construed to affect any Federal or State regulatory proceeding that is not related to taxation.
 
-> “\[SEC. 1108. Repealed. [Pub. L. 110–108, § 5(b)][/us/pl/110/108/s5/b], Oct. 31, 2007, [121 Stat. 1026][/us/stat/121/1026]\]
+> “\[SEC. 1108. Repealed. [Pub. L. 110–108][/us/pl/110/108], § 5(b), Oct. 31, 2007, [121 Stat. 1026][/us/stat/121/1026]\]
 
 > “SEC. 1109. __EXCEPTION FOR TEXAS MUNICIPAL ACCESS LINE FEE.__ 
 
 >     “Nothing in this Act \[probably means “this title”\] shall prohibit Texas or a political subdivision thereof from imposing or collecting the Texas municipal access line fee pursuant to Texas Local Govt. Code Ann. ch. 283 (Vernon 2005) and the definition of access line as determined by the Public Utility Commission of Texas in its ‘Order Adopting Amendments to Section 26.465 As Approved At The February 13, 2003 Public Hearing’, issued March 5, 2003, in Project No. 26412.”
 
-\[[Pub. L. 110–108, § 7][/us/pl/110/108/s7], Oct. 31, 2007, [121 Stat. 1027][/us/stat/121/1027], provided that: 
+\[[Pub. L. 110–108][/us/pl/110/108], § 7, Oct. 31, 2007, [121 Stat. 1027][/us/stat/121/1027], provided that: 
 
 > “This Act \[enacting provisions set out as a note under [section 609 of this title][/us/usc/t47/s609] and amending title XI of div. C of [Pub. L. 105–277][/us/pl/105/277], set out above\], and the amendments made by this Act, shall take effect on November 1, 2007, and shall apply with respect to taxes in effect as of such date or thereafter enacted, except as provided in section 1104 of the Internet Tax Freedom Act \[title XI of div. C of [Pub. L. 105–277][/us/pl/105/277]\] ([47 U.S.C. 151][/us/usc/t47/s151] note).”
 
 \]
 
-\[[Pub. L. 108–435, § 8][/us/pl/108/435/s8], Dec. 3, 2004, [118 Stat. 2619][/us/stat/118/2619], provided that: 
+\[[Pub. L. 108–435][/us/pl/108/435], § 8, Dec. 3, 2004, [118 Stat. 2619][/us/stat/118/2619], provided that: 
 
 > “The amendments made by this Act \[amending title XI of div. C of [Pub. L. 105–277][/us/pl/105/277], set out above\] take effect on November 1, 2003.”
 
@@ -547,7 +547,7 @@
 
  __Stylistic Consistency__ 
 
-[Pub. L. 104–104, title I, § 101(c)][/us/pl/104/104/s101/c], Feb. 8, 1996, [110 Stat. 79][/us/stat/110/79], provided that: 
+[Pub. L. 104–104, title I][/us/pl/104/104/tI], § 101(c), Feb. 8, 1996, [110 Stat. 79][/us/stat/110/79], provided that: 
 
 > “The Act \[Communications Act of 1934 ([47 U.S.C. 151][/us/usc/t47/s151] et seq.)\] is amended so that—
 
@@ -557,7 +557,7 @@
 
  __Study of Telecommunications and Information Goals__ 
 
-[Pub. L. 97–259, title II, § 202][/us/pl/97/259/s202], Sept. 13, 1982, [96 Stat. 1099][/us/stat/96/1099], provided that:
+[Pub. L. 97–259, title II][/us/pl/97/259/tII], § 202, Sept. 13, 1982, [96 Stat. 1099][/us/stat/96/1099], provided that:
 
 >     “(a) The National Telecommunications and Information Administration shall conduct a comprehensive study of the long-range international telecommunications and information goals of the United States, the specific international telecommunications and information policies necessary to promote those goals and the strategies that will ensure that the United States achieves them. The Administration shall further conduct a review of the structures, procedures, and mechanisms which are utilized by the United States to develop international telecommunications and information policy.
 
@@ -584,27 +584,27 @@
 
 [/us/act/1934-06-19/ch652]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-19%2Fch652
 [/us/stat/48/1064]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F1064
-[/us/act/1937-05-20/ch229/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1937-05-20%2Fch229%2Fs1
+[/us/act/1937-05-20/ch229]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1937-05-20%2Fch229
 [/us/stat/50/189]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F50%2F189
-[/us/pl/104/104/s104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F104%2Fs104
+[/us/pl/104/104/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F104%2FtI
 [/us/stat/110/86]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F86
 [/us/act/1934-06-19/ch652]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-19%2Fch652
 [/us/stat/48/1064]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F1064
 [/us/usc/t47/s609]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs609
 [/us/pl/104/104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F104
-[/us/pl/114/113/s633]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs633
+[/us/pl/114/113/dE/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2FdE%2FtVI
 [/us/stat/129/2471]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F2471
 [/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
 [/us/usc/t47/s151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs151
-[/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
+[/us/pl/105/277/dC/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2FdC%2FtXI
 [/us/stat/112/2681-719]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681-719
-[/us/pl/107/75/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F75%2Fs2
+[/us/pl/107/75]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F75
 [/us/stat/115/703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F703
 [/us/pl/108/435]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F435
 [/us/stat/118/2615-2618]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F2615-2618
 [/us/pl/110/108]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F108
 [/us/stat/121/1024-1026]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F1024-1026
-[/us/pl/113/235/s624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs624
+[/us/pl/113/235/dE/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2FdE%2FtVI
 [/us/stat/128/2377]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2377
 [/us/usc/t47/s153]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs153
 [/us/usc/t26/s4251]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs4251
@@ -619,23 +619,23 @@
 [/us/usc/t47/s153/46]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs153%2F46
 [/us/usc/t26/s4251]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs4251
 [/us/usc/t47/s254]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs254
-[/us/pl/110/108/s5/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F108%2Fs5%2Fb
+[/us/pl/110/108]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F108
 [/us/stat/121/1026]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F1026
-[/us/pl/110/108/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F108%2Fs7
+[/us/pl/110/108]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F108
 [/us/stat/121/1027]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F1027
 [/us/usc/t47/s609]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs609
 [/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
 [/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
 [/us/usc/t47/s151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs151
-[/us/pl/108/435/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F435%2Fs8
+[/us/pl/108/435]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F435
 [/us/stat/118/2619]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F2619
 [/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
-[/us/pl/104/104/s101/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F104%2Fs101%2Fc
+[/us/pl/104/104/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F104%2FtI
 [/us/stat/110/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F79
 [/us/usc/t47/s151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs151
 [/us/stat/110/61]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F61
 [/us/stat/110/61]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F61
-[/us/pl/97/259/s202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F259%2Fs202
+[/us/pl/97/259/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F259%2FtII
 [/us/stat/96/1099]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1099
 [/us/act/1954-07-29/ch647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-07-29%2Fch647
 [/us/stat/68/587]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68%2F587

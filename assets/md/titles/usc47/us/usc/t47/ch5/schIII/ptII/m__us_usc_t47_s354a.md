@@ -25,7 +25,7 @@
 
     (d) There shall be available at all times a main source of electrical energy sufficient to operate the installation over the normal range required by subsection (c) of this section. If batteries are provided they shall have sufficient capacity to operate the transmitter and receiver for at least six continuous hours under normal working conditions. In installations made on or after November 19, 1952, a reserve source of electrical energy shall be provided in the upper part of the ship unless the main source of energy is so situated.
 
-([June 19, 1934, ch. 652][/us/act/1934-06-19/ch652], title III, § 356, as added [Aug. 13, 1954, ch. 729, § 2(d)][/us/act/1954-08-13/ch729/s2/d], [68 Stat. 706][/us/stat/68/706]; amended [Pub. L. 89–121, § 7][/us/pl/89/121/s7], Aug. 13, 1965, [79 Stat. 515][/us/stat/79/515].)
+([June 19, 1934, ch. 652][/us/act/1934-06-19/ch652], title III, § 356, as added [Aug. 13, 1954, ch. 729][/us/act/1954-08-13/ch729], § 2(d), [68 Stat. 706][/us/stat/68/706]; amended [Pub. L. 89–121][/us/pl/89/121], § 7, Aug. 13, 1965, [79 Stat. 515][/us/stat/79/515].)
 
  __Amendments__ 
 
@@ -48,9 +48,9 @@
 
 [/us/usc/t47/s354]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs354
 [/us/act/1934-06-19/ch652]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-19%2Fch652
-[/us/act/1954-08-13/ch729/s2/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-13%2Fch729%2Fs2%2Fd
+[/us/act/1954-08-13/ch729]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-13%2Fch729
 [/us/stat/68/706]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68%2F706
-[/us/pl/89/121/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F121%2Fs7
+[/us/pl/89/121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F121
 [/us/stat/79/515]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F515
 [/us/pl/89/121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F121
 [/us/pl/89/121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F121

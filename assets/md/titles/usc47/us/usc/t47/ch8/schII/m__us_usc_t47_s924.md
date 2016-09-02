@@ -65,13 +65,13 @@
 
             (B) substitute alternative frequencies pursuant to the provisions of this subsection.
 
-([Pub. L. 102–538, title I, § 114][/us/pl/102/538/s114], as added [Pub. L. 103–66, title VI, § 6001(a)(3)][/us/pl/103/66/s6001/a/3], Aug. 10, 1993, [107 Stat. 384][/us/stat/107/384]; amended [Pub. L. 105–33, title III, § 3002(d)(2)][/us/pl/105/33/s3002/d/2], Aug. 5, 1997, [111 Stat. 264][/us/stat/111/264].)
+([Pub. L. 102–538, title I][/us/pl/102/538/tI], § 114, as added [Pub. L. 103–66, title VI][/us/pl/103/66/tVI], § 6001(a)(3), Aug. 10, 1993, [107 Stat. 384][/us/stat/107/384]; amended [Pub. L. 105–33, title III][/us/pl/105/33/tIII], § 3002(d)(2), Aug. 5, 1997, [111 Stat. 264][/us/stat/111/264].)
 
  __Amendments__ 
 
-    1997—Subsec. (a)(1). [Pub. L. 105–33, § 3002(d)(2)(A)][/us/pl/105/33/s3002/d/2/A], substituted “subsection (a), (d)(1), or (f)” for “subsection (a) or (d)(1)”.
+    1997—Subsec. (a)(1). [Pub. L. 105–33][/us/pl/105/33], § 3002(d)(2)(A), substituted “subsection (a), (d)(1), or (f)” for “subsection (a) or (d)(1)”.
 
-    Subsec. (a)(2). [Pub. L. 105–33, § 3002(d)(2)(B)][/us/pl/105/33/s3002/d/2/B], substituted “any such 6-month period” for “either such 6-month period”.
+    Subsec. (a)(2). [Pub. L. 105–33][/us/pl/105/33], § 3002(d)(2)(B), substituted “any such 6-month period” for “either such 6-month period”.
 
 ----------
 
@@ -87,12 +87,12 @@
 [/us/usc/t47/s923/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs923%2Fa
 [/us/usc/t47/s923/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs923%2Fe
 [/us/usc/t47/s925]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs925
-[/us/pl/102/538/s114]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F538%2Fs114
-[/us/pl/103/66/s6001/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66%2Fs6001%2Fa%2F3
+[/us/pl/102/538/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F538%2FtI
+[/us/pl/103/66/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66%2FtVI
 [/us/stat/107/384]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F384
-[/us/pl/105/33/s3002/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2Fs3002%2Fd%2F2
+[/us/pl/105/33/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2FtIII
 [/us/stat/111/264]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F264
-[/us/pl/105/33/s3002/d/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2Fs3002%2Fd%2F2%2FA
-[/us/pl/105/33/s3002/d/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2Fs3002%2Fd%2F2%2FB
+[/us/pl/105/33]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33
+[/us/pl/105/33]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33
 
 

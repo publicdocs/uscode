@@ -35,7 +35,7 @@
 
         The sum of the amounts awarded for all fiscal years as grants under this section may not exceed $10,000,000.
 
-([Pub. L. 109–347, title VI, § 605][/us/pl/109/347/s605], Oct. 13, 2006, [120 Stat. 1940][/us/stat/120/1940].)
+([Pub. L. 109–347, title VI][/us/pl/109/347/tVI], § 605, Oct. 13, 2006, [120 Stat. 1940][/us/stat/120/1940].)
 
 ----------
 
@@ -44,7 +44,7 @@
 ----------
 ----------
 
-[/us/pl/109/347/s605]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F347%2Fs605
+[/us/pl/109/347/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F347%2FtVI
 [/us/stat/120/1940]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1940
 
 

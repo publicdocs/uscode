@@ -29,7 +29,7 @@
 
             The Assistant Secretary may promulgate such regulations as are necessary to implement and enforce any provision of this chapter that is expressly required to be carried out by the Assistant Secretary.
 
-([Pub. L. 112–96, title VI, § 6003][/us/pl/112/96/s6003], Feb. 22, 2012, [126 Stat. 204][/us/stat/126/204].)
+([Pub. L. 112–96, title VI][/us/pl/112/96/tVI], § 6003, Feb. 22, 2012, [126 Stat. 204][/us/stat/126/204].)
 
  __References in Text__ 
 
@@ -44,7 +44,7 @@
 
 [/us/usc/t47/s151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs151
 [/us/usc/t5/s551]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs551
-[/us/pl/112/96/s6003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F96%2Fs6003
+[/us/pl/112/96/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F96%2FtVI
 [/us/stat/126/204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F204
 [/us/act/1934-06-19/ch652]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-19%2Fch652
 [/us/stat/48/1064]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F1064

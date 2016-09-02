@@ -97,15 +97,15 @@
 
         The Commission shall periodically review and, if necessary, modify the regulations issued pursuant to this section in light of any actions taken in response to such regulations and to reflect improvements and changes in cable systems, television receivers, video cassette recorders, and similar technology.
 
-([June 19, 1934, ch. 652][/us/act/1934-06-19/ch652], title VI, § 624A, as added [Pub. L. 102–385, § 17][/us/pl/102/385/s17], Oct. 5, 1992, [106 Stat. 1491][/us/stat/106/1491]; amended [Pub. L. 104–104, title III, § 301(f)][/us/pl/104/104/s301/f], Feb. 8, 1996, [110 Stat. 116][/us/stat/110/116].)
+([June 19, 1934, ch. 652][/us/act/1934-06-19/ch652], title VI, § 624A, as added [Pub. L. 102–385][/us/pl/102/385], § 17, Oct. 5, 1992, [106 Stat. 1491][/us/stat/106/1491]; amended [Pub. L. 104–104, title III][/us/pl/104/104/tIII], § 301(f), Feb. 8, 1996, [110 Stat. 116][/us/stat/110/116].)
 
  __Amendments__ 
 
-    1996—Subsec. (a)(4). [Pub. L. 104–104, § 301(f)(1)][/us/pl/104/104/s301/f/1], added par. (4).
+    1996—Subsec. (a)(4). [Pub. L. 104–104][/us/pl/104/104], § 301(f)(1), added par. (4).
 
-    Subsec. (c)(1)(A) to (C). [Pub. L. 104–104, § 301(f)(2)][/us/pl/104/104/s301/f/2], added subpar. (A) and redesignated former subpars. (A) and (B) as (B) and (C), respectively.
+    Subsec. (c)(1)(A) to (C). [Pub. L. 104–104][/us/pl/104/104], § 301(f)(2), added subpar. (A) and redesignated former subpars. (A) and (B) as (B) and (C), respectively.
 
-    Subsec. (c)(2)(D) to (F). [Pub. L. 104–104, § 301(f)(3)][/us/pl/104/104/s301/f/3], added subpar. (D) and redesignated former subpars. (D) and (E) as (E) and (F), respectively.
+    Subsec. (c)(2)(D) to (F). [Pub. L. 104–104][/us/pl/104/104], § 301(f)(3), added subpar. (D) and redesignated former subpars. (D) and (E) as (E) and (F), respectively.
 
  __Effective Date__ 
 
@@ -119,13 +119,13 @@
 ----------
 
 [/us/act/1934-06-19/ch652]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-19%2Fch652
-[/us/pl/102/385/s17]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F385%2Fs17
+[/us/pl/102/385]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F385
 [/us/stat/106/1491]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F1491
-[/us/pl/104/104/s301/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F104%2Fs301%2Ff
+[/us/pl/104/104/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F104%2FtIII
 [/us/stat/110/116]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F116
-[/us/pl/104/104/s301/f/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F104%2Fs301%2Ff%2F1
-[/us/pl/104/104/s301/f/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F104%2Fs301%2Ff%2F2
-[/us/pl/104/104/s301/f/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F104%2Fs301%2Ff%2F3
+[/us/pl/104/104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F104
+[/us/pl/104/104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F104
+[/us/pl/104/104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F104
 [/us/pl/102/385/s28]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F385%2Fs28
 [/us/usc/t47/s325]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs325
 

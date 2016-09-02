@@ -69,7 +69,7 @@
 
             An extension under this subsection shall apply to only that part of the carrier’s business on which the new equipment, facility, or service is used.
 
-([Pub. L. 103–414, title I, § 107][/us/pl/103/414/s107], Oct. 25, 1994, [108 Stat. 4284][/us/stat/108/4284].)
+([Pub. L. 103–414, title I][/us/pl/103/414/tI], § 107, Oct. 25, 1994, [108 Stat. 4284][/us/stat/108/4284].)
 
  __References in Text__ 
 
@@ -93,7 +93,7 @@
 [/us/usc/t47/s1002]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs1002
 [/us/usc/t47/s1002]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs1002
 [/us/usc/t47/s1002]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs1002
-[/us/pl/103/414/s107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F414%2Fs107
+[/us/pl/103/414/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F414%2FtI
 [/us/stat/108/4284]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4284
 [/us/usc/t47/s1002]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs1002
 [/us/pl/103/414/s111/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F414%2Fs111%2Fb

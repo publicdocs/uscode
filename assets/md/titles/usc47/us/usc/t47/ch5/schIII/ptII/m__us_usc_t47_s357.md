@@ -35,7 +35,7 @@
 
         Notwithstanding any other provision of law, any station or carrier may render free service in connection with situations involving the safety of life and property, including hydrographic reports, weather reports, reports regarding aids to navigation and medical assistance to injured or sick persons on ships and aircraft at sea. All free service permitted by this subsection shall be subject to such rules and regulations as the Commission may prescribe, which rules may limit such free service to the extent which the Commission finds desirable in the public interest.
 
-([June 19, 1934, ch. 652][/us/act/1934-06-19/ch652], title III, § 359, formerly § 357, as added [May 20, 1937, ch. 229, § 10(b)][/us/act/1937-05-20/ch229/s10/b], [50 Stat. 195][/us/stat/50/195]; renumbered § 359, [Aug. 13, 1954, ch. 729, § 2(a)(1)][/us/act/1954-08-13/ch729/s2/a/1], [68 Stat. 706][/us/stat/68/706]; amended [Pub. L. 89–121, § 9][/us/pl/89/121/s9], Aug. 13, 1965, [79 Stat. 516][/us/stat/79/516].)
+([June 19, 1934, ch. 652][/us/act/1934-06-19/ch652], title III, § 359, formerly § 357, as added [May 20, 1937, ch. 229][/us/act/1937-05-20/ch229], § 10(b), [50 Stat. 195][/us/stat/50/195]; renumbered § 359, [Aug. 13, 1954, ch. 729][/us/act/1954-08-13/ch729], § 2(a)(1), [68 Stat. 706][/us/stat/68/706]; amended [Pub. L. 89–121][/us/pl/89/121], § 9, Aug. 13, 1965, [79 Stat. 516][/us/stat/79/516].)
 
  __Amendments__ 
 
@@ -53,11 +53,11 @@
 ----------
 
 [/us/act/1934-06-19/ch652]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-19%2Fch652
-[/us/act/1937-05-20/ch229/s10/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1937-05-20%2Fch229%2Fs10%2Fb
+[/us/act/1937-05-20/ch229]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1937-05-20%2Fch229
 [/us/stat/50/195]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F50%2F195
-[/us/act/1954-08-13/ch729/s2/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-13%2Fch729%2Fs2%2Fa%2F1
+[/us/act/1954-08-13/ch729]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-13%2Fch729
 [/us/stat/68/706]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68%2F706
-[/us/pl/89/121/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F121%2Fs9
+[/us/pl/89/121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F121
 [/us/stat/79/516]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F516
 [/us/pl/89/121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F121
 [/us/usc/t47/s351]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs351

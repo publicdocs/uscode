@@ -57,7 +57,7 @@
 
             The plan prepared by the Commission under paragraph (1) shall consist of a schedule of allocation and assignment of those frequencies in accordance with section 309(j) of the 1934 Act in time for the assignment of those licenses or permits by September 30, 2002.
 
-([Pub. L. 102–538, title I, § 115][/us/pl/102/538/s115], as added [Pub. L. 103–66, title VI, § 6001(a)(3)][/us/pl/103/66/s6001/a/3], Aug. 10, 1993, [107 Stat. 385][/us/stat/107/385]; amended [Pub. L. 105–33, title III, § 3002(e)(4)][/us/pl/105/33/s3002/e/4], Aug. 5, 1997, [111 Stat. 265][/us/stat/111/265].)
+([Pub. L. 102–538, title I][/us/pl/102/538/tI], § 115, as added [Pub. L. 103–66, title VI][/us/pl/103/66/tVI], § 6001(a)(3), Aug. 10, 1993, [107 Stat. 385][/us/stat/107/385]; amended [Pub. L. 105–33, title III][/us/pl/105/33/tIII], § 3002(e)(4), Aug. 5, 1997, [111 Stat. 265][/us/stat/111/265].)
 
  __References in Text__ 
 
@@ -65,19 +65,19 @@
 
  __Amendments__ 
 
-    1997—Subsec. (b). [Pub. L. 105–33, § 3002(e)(4)(A)][/us/pl/105/33/s3002/e/4/A], substituted “the initial reallocation report required” for “the report required” in introductory provisions.
+    1997—Subsec. (b). [Pub. L. 105–33][/us/pl/105/33], § 3002(e)(4)(A), substituted “the initial reallocation report required” for “the report required” in introductory provisions.
 
-    Subsec. (c). [Pub. L. 105–33, § 3002(e)(4)(B)][/us/pl/105/33/s3002/e/4/B], added subsec. (c).
+    Subsec. (c). [Pub. L. 105–33][/us/pl/105/33], § 3002(e)(4)(B), added subsec. (c).
 
  __Accelerated Availability for Auction of 1,710–1,755 Megahertz From Initial Reallocation Report__ 
 
-[Pub. L. 105–33, title III, § 3002(b)][/us/pl/105/33/s3002/b], Aug. 5, 1997, [111 Stat. 260][/us/stat/111/260], provided that: 
+[Pub. L. 105–33, title III][/us/pl/105/33/tIII], § 3002(b), Aug. 5, 1997, [111 Stat. 260][/us/stat/111/260], provided that: 
 
 > “The band of frequencies located at 1,710–1,755 megahertz identified in the initial reallocation report under section 113(a) of the National Telecommunications and Information Administration Act ([47 U.S.C. 923(a)][/us/usc/t47/s923/a]) shall, notwithstanding the timetable recommended under section 113(e) of such Act and section 115(b)(1) of such Act \[[47 U.S.C. 925(b)(1)][/us/usc/t47/s925/b/1]\], be available in accordance with this subsection for assignment for commercial use. The Commission shall assign licenses for such use by competitive bidding commenced after January 1, 2001, pursuant to section 309(j) of the Communications Act of 1934 ([47 U.S.C. 309(j)][/us/usc/t47/s309/j]).”
 
  __Commission Obligation To Make Additional Spectrum Available by Auction__ 
 
-[Pub. L. 105–33, title III, § 3002(c)][/us/pl/105/33/s3002/c], Aug. 5, 1997, [111 Stat. 261][/us/stat/111/261], provided that:
+[Pub. L. 105–33, title III][/us/pl/105/33/tIII], § 3002(c), Aug. 5, 1997, [111 Stat. 261][/us/stat/111/261], provided that:
 
 >     “(1)  __In general__  __.—__ 
 
@@ -162,20 +162,20 @@
 [/us/usc/t47/s923/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs923%2Fb%2F3
 [/us/usc/t47/s923/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs923%2Fa
 [/us/usc/t47/s309/j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs309%2Fj
-[/us/pl/102/538/s115]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F538%2Fs115
-[/us/pl/103/66/s6001/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66%2Fs6001%2Fa%2F3
+[/us/pl/102/538/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F538%2FtI
+[/us/pl/103/66/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66%2FtVI
 [/us/stat/107/385]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F385
-[/us/pl/105/33/s3002/e/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2Fs3002%2Fe%2F4
+[/us/pl/105/33/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2FtIII
 [/us/stat/111/265]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F265
 [/us/usc/t47/s921/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs921%2F3
-[/us/pl/105/33/s3002/e/4/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2Fs3002%2Fe%2F4%2FA
-[/us/pl/105/33/s3002/e/4/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2Fs3002%2Fe%2F4%2FB
-[/us/pl/105/33/s3002/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2Fs3002%2Fb
+[/us/pl/105/33]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33
+[/us/pl/105/33]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33
+[/us/pl/105/33/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2FtIII
 [/us/stat/111/260]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F260
 [/us/usc/t47/s923/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs923%2Fa
 [/us/usc/t47/s925/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs925%2Fb%2F1
 [/us/usc/t47/s309/j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs309%2Fj
-[/us/pl/105/33/s3002/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2Fs3002%2Fc
+[/us/pl/105/33/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2FtIII
 [/us/stat/111/261]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F261
 [/us/usc/t47/s309/j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs309%2Fj
 [/us/usc/t47/s923]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs923

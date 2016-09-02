@@ -55,7 +55,7 @@
 
         As used in this section, the term “payphone service” means the provision of public or semi-public pay telephones, the provision of inmate telephone service in correctional institutions, and any ancillary services.
 
-([June 19, 1934, ch. 652][/us/act/1934-06-19/ch652], title II, § 276, as added [Pub. L. 104–104, title I, § 151(a)][/us/pl/104/104/s151/a], Feb. 8, 1996, [10 Stat. 106][/us/stat/10/106].)
+([June 19, 1934, ch. 652][/us/act/1934-06-19/ch652], title II, § 276, as added [Pub. L. 104–104, title I][/us/pl/104/104/tI], § 151(a), Feb. 8, 1996, [10 Stat. 106][/us/stat/10/106].)
 
 ----------
 
@@ -65,7 +65,7 @@
 ----------
 
 [/us/act/1934-06-19/ch652]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-19%2Fch652
-[/us/pl/104/104/s151/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F104%2Fs151%2Fa
+[/us/pl/104/104/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F104%2FtI
 [/us/stat/10/106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F10%2F106
 
 

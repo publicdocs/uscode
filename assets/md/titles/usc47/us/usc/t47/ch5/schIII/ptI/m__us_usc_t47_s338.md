@@ -359,13 +359,13 @@
 
             No modification of a commercial television broadcast station’s local market pursuant to this subsection shall have any effect on the eligibility of households in the community affected by such modification to receive distant signals pursuant to [section 339 of this title][/us/usc/t47/s339], notwithstanding subsection (h)(1) of this section.
 
-([June 19, 1934, ch. 652][/us/act/1934-06-19/ch652], title III, § 338, as added [Pub. L. 106–113, div. B, § 1000(a)(9)][/us/pl/106/113/s1000/a/9] \[title I, § 1008(a)\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–531; amended [Pub. L. 108–447, div. J, title IX][/us/pl/108/447] \[title II, §§ 203, 205, 206(a), 210\], Dec. 8, 2004, [118 Stat. 3414][/us/stat/118/3414], 3424, 3425, 3429; [Pub. L. 111–175, title II][/us/pl/111/175], §§ 204(a), 207, May 27, 2010, [124 Stat. 1246][/us/stat/124/1246], 1253; [Pub. L. 113–200, title I, § 102(a)][/us/pl/113/200/s102/a], Dec. 4, 2014, [128 Stat. 2060][/us/stat/128/2060].)
+([June 19, 1934, ch. 652][/us/act/1934-06-19/ch652], title III, § 338, as added [Pub. L. 106–113, div. B][/us/pl/106/113/dB], § 1000(a)(9) \[title I, § 1008(a)\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–531; amended [Pub. L. 108–447, div. J, title IX][/us/pl/108/447/dJ/tIX] \[title II, §§ 203, 205, 206(a), 210\], Dec. 8, 2004, [118 Stat. 3414][/us/stat/118/3414], 3424, 3425, 3429; [Pub. L. 111–175, title II][/us/pl/111/175/tII], §§ 204(a), 207, May 27, 2010, [124 Stat. 1246][/us/stat/124/1246], 1253; [Pub. L. 113–200, title I][/us/pl/113/200/tI], § 102(a), Dec. 4, 2014, [128 Stat. 2060][/us/stat/128/2060].)
 
  __References in Text__ 
 
     This chapter, referred to in subsec. (a)(2), was in the original “this Act”, meaning [act June 19, 1934, ch. 652][/us/act/1934-06-19/ch652], [48 Stat. 1064][/us/stat/48/1064], known as the Communications Act of 1934, which is classified principally to this chapter. For complete classification of this Act to the Code, see [section 609 of this title][/us/usc/t47/s609] and Tables.
 
-    [Section 119(a)(14) of title 17][/us/usc/t17/s119/a/14], referred to in subsec. (a)(3), was redesignated as [section 119(a)(13) of title 17][/us/usc/t17/s119/a/13] by [Pub. L. 111–175, title I, § 102(h)(1)(B)][/us/pl/111/175/s102/h/1/B], May 27, 2010, [124 Stat. 1224][/us/stat/124/1224]. However, provision relating to signals of low power television station was [section 119(a)(15) of title 17][/us/usc/t17/s119/a/15], which was repealed by [section 102(h)(1)(C) of Pub. L. 111–175][/us/pl/111/175/s102/h/1/C].
+    [Section 119(a)(14) of title 17][/us/usc/t17/s119/a/14], referred to in subsec. (a)(3), was redesignated as [section 119(a)(13) of title 17][/us/usc/t17/s119/a/13] by [Pub. L. 111–175, title I][/us/pl/111/175/tI], § 102(h)(1)(B), May 27, 2010, [124 Stat. 1224][/us/stat/124/1224]. However, provision relating to signals of low power television station was [section 119(a)(15) of title 17][/us/usc/t17/s119/a/15], which was repealed by [section 102(h)(1)(C) of Pub. L. 111–175][/us/pl/111/175/s102/h/1/C].
 
     The date of enactment of the Satellite Television Extension and Localism Act of 2010, referred to in subsecs. (a)(5) and (k)(2)(B), is the date of enactment of [Pub. L. 111–175][/us/pl/111/175], which shall be deemed to refer to Feb. 27, 2010, see [section 307(a) of Pub. L. 111–175][/us/pl/111/175/s307/a], set out as an Effective Date of 2010 Amendment note under [section 111 of Title 17][/us/usc/t17/s111], Copyrights.
 
@@ -375,39 +375,39 @@
 
     2014—Subsec. (l). [Pub. L. 113–200][/us/pl/113/200] added subsec. (l).
 
-    2010—Subsec. (a)(3). [Pub. L. 111–175, § 204(a)(1)][/us/pl/111/175/s204/a/1], struck out par. (3) relating to effective date. Text read as follows: “No satellite carrier shall be required to carry local television broadcast stations under paragraph (1) until January 1, 2002.”
+    2010—Subsec. (a)(3). [Pub. L. 111–175][/us/pl/111/175], § 204(a)(1), struck out par. (3) relating to effective date. Text read as follows: “No satellite carrier shall be required to carry local television broadcast stations under paragraph (1) until January 1, 2002.”
 
-    Subsec. (a)(5). [Pub. L. 111–175, § 207(a)][/us/pl/111/175/s207/a], added par. (5).
+    Subsec. (a)(5). [Pub. L. 111–175][/us/pl/111/175], § 207(a), added par. (5).
 
-    Subsec. (g). [Pub. L. 111–175, § 204(a)(2)][/us/pl/111/175/s204/a/2], amended subsec. (g) generally. Prior to amendment, subsec. (g) related to carriage of local stations on a single dish.
+    Subsec. (g). [Pub. L. 111–175][/us/pl/111/175], § 204(a)(2), amended subsec. (g) generally. Prior to amendment, subsec. (g) related to carriage of local stations on a single dish.
 
-    Subsec. (k)(2) to (5). [Pub. L. 111–175, § 207(b)(1)][/us/pl/111/175/s207/b/1], (2), added par. (2) and redesignated former pars. (2) to (4) as (3) to (5), respectively. Former par. (5) redesignated (6).
+    Subsec. (k)(2) to (5). [Pub. L. 111–175][/us/pl/111/175], § 207(b)(1), (2), added par. (2) and redesignated former pars. (2) to (4) as (3) to (5), respectively. Former par. (5) redesignated (6).
 
-    Subsec. (k)(6). [Pub. L. 111–175, § 207(b)(4)][/us/pl/111/175/s207/b/4], added par. (6). Former par. (6) redesignated (7).
+    Subsec. (k)(6). [Pub. L. 111–175][/us/pl/111/175], § 207(b)(4), added par. (6). Former par. (6) redesignated (7).
 
-    [Pub. L. 111–175, § 207(b)(1)][/us/pl/111/175/s207/b/1], redesignated par. (5) as (6). Former par. (6) redesignated (7).
+    [Pub. L. 111–175][/us/pl/111/175], § 207(b)(1), redesignated par. (5) as (6). Former par. (6) redesignated (7).
 
-    Subsec. (k)(7) to (9). [Pub. L. 111–175, § 207(b)(3)][/us/pl/111/175/s207/b/3], redesignated pars. (6) to (8) as (7) to (9), respectively. Former par. (9) redesignated (10).
+    Subsec. (k)(7) to (9). [Pub. L. 111–175][/us/pl/111/175], § 207(b)(3), redesignated pars. (6) to (8) as (7) to (9), respectively. Former par. (9) redesignated (10).
 
-    [Pub. L. 111–175, § 207(b)(1)][/us/pl/111/175/s207/b/1], redesignated pars. (6) to (8) as (7) to (9), respectively.
+    [Pub. L. 111–175][/us/pl/111/175], § 207(b)(1), redesignated pars. (6) to (8) as (7) to (9), respectively.
 
-    Subsec. (k)(10). [Pub. L. 111–175, § 207(b)(3)][/us/pl/111/175/s207/b/3], redesignated par. (9) as (10).
+    Subsec. (k)(10). [Pub. L. 111–175][/us/pl/111/175], § 207(b)(3), redesignated par. (9) as (10).
 
-    2004—Subsec. (a)(1) to (3). [Pub. L. 108–447, § 203(b)(1)][/us/pl/108/447/s203/b/1], added pars. (1) and (2) and the par. (3) relating to low power station carriage and struck out former pars. (1) and (2) which required each satellite carrier providing secondary transmissions within the local market of a television broadcast station of a primary transmission made by that station to carry upon request the signals of all television broadcast stations within that local market and provided for remedies for failure to carry.
+    2004—Subsec. (a)(1) to (3). [Pub. L. 108–447][/us/pl/108/447], § 203(b)(1), added pars. (1) and (2) and the par. (3) relating to low power station carriage and struck out former pars. (1) and (2) which required each satellite carrier providing secondary transmissions within the local market of a television broadcast station of a primary transmission made by that station to carry upon request the signals of all television broadcast stations within that local market and provided for remedies for failure to carry.
 
-    Subsec. (a)(4). [Pub. L. 108–447, § 210][/us/pl/108/447/s210], added par. (4).
+    Subsec. (a)(4). [Pub. L. 108–447][/us/pl/108/447], § 210, added par. (4).
 
-    Subsec. (c)(1). [Pub. L. 108–447, § 203(b)(2)][/us/pl/108/447/s203/b/2], substituted “subsection (a)(1)” for “subsection (a)”.
+    Subsec. (c)(1). [Pub. L. 108–447][/us/pl/108/447], § 203(b)(2), substituted “subsection (a)(1)” for “subsection (a)”.
 
     Subsecs. (g), (h). [Pub. L. 108–447][/us/pl/108/447], §§ 203(a)(2), 205, added subsecs. (g) and (h). Former subsecs. (g) and (h) redesignated (j) and (k), respectively.
 
-    Subsec. (i). [Pub. L. 108–447, § 206(a)][/us/pl/108/447/s206/a], added subsec. (i).
+    Subsec. (i). [Pub. L. 108–447][/us/pl/108/447], § 206(a), added subsec. (i).
 
-    Subsec. (j). [Pub. L. 108–447, § 203(a)(1)][/us/pl/108/447/s203/a/1], redesignated subsec. (g) as (j).
+    Subsec. (j). [Pub. L. 108–447][/us/pl/108/447], § 203(a)(1), redesignated subsec. (g) as (j).
 
-    Subsec. (k). [Pub. L. 108–447, § 203(a)(1)][/us/pl/108/447/s203/a/1], redesignated subsec. (h) as (k).
+    Subsec. (k). [Pub. L. 108–447][/us/pl/108/447], § 203(a)(1), redesignated subsec. (h) as (k).
 
-    Subsec. (k)(4) to (8). [Pub. L. 108–447, § 203(b)(3)][/us/pl/108/447/s203/b/3], added par. (4) and redesignated former pars. (4) to (7) as (5) to (8), respectively.
+    Subsec. (k)(4) to (8). [Pub. L. 108–447][/us/pl/108/447], § 203(b)(3), added par. (4) and redesignated former pars. (4) to (7) as (5) to (8), respectively.
 
  __Effective Date of 2010 Amendment__ 
 
@@ -415,13 +415,13 @@
 
  __Effective Date of 2004 Amendment__ 
 
-[Pub. L. 108–447, div. J, title IX][/us/pl/108/447] \[title II, § 206(b)\], Dec. 8, 2004, [118 Stat. 3428][/us/stat/118/3428], provided that: 
+[Pub. L. 108–447, div. J, title IX][/us/pl/108/447/dJ/tIX] \[title II, § 206(b)\], Dec. 8, 2004, [118 Stat. 3428][/us/stat/118/3428], provided that: 
 
 > “Section 338(i) of the Communications Act of 1934 ([47 U.S.C. 338(i)][/us/usc/t47/s338/i]) as amended by subsection (a) of this section shall be effective 60 days after the date of enactment of this Act \[Dec. 8, 2004\].”
 
  __Market Modification Process__ 
 
-[Pub. L. 113–200, title I, § 102(c)][/us/pl/113/200/s102/c], Dec. 4, 2014, [128 Stat. 2061][/us/stat/128/2061], provided that: 
+[Pub. L. 113–200, title I][/us/pl/113/200/tI], § 102(c), Dec. 4, 2014, [128 Stat. 2061][/us/stat/128/2061], provided that: 
 
 > “The \[Federal Communications\] Commission shall make information available to consumers on its website that explains the market modification process, including—
 
@@ -437,7 +437,7 @@
 
  __Implementation__ 
 
-[Pub. L. 113–200, title I, § 102(d)][/us/pl/113/200/s102/d], Dec. 4, 2014, [128 Stat. 2061][/us/stat/128/2061], provided that:
+[Pub. L. 113–200, title I][/us/pl/113/200/tI], § 102(d), Dec. 4, 2014, [128 Stat. 2061][/us/stat/128/2061], provided that:
 
 >     “(1)  __Deadline for regulations__  __.—__ 
 
@@ -449,7 +449,7 @@
 
  __Local Network Channel Broadcast Reports__ 
 
-[Pub. L. 113–200, title I, § 108][/us/pl/113/200/s108], Dec. 4, 2014, [128 Stat. 2064][/us/stat/128/2064], provided that:
+[Pub. L. 113–200, title I][/us/pl/113/200/tI], § 108, Dec. 4, 2014, [128 Stat. 2064][/us/stat/128/2064], provided that:
 
 >     “(a) __Requirement.—__ 
 
@@ -483,7 +483,7 @@
 
  __Application Pending Completion of Rulemakings__ 
 
-[Pub. L. 111–175, title II, § 205][/us/pl/111/175/s205], May 27, 2010, [124 Stat. 1250][/us/stat/124/1250], provided that:
+[Pub. L. 111–175, title II][/us/pl/111/175/tII], § 205, May 27, 2010, [124 Stat. 1250][/us/stat/124/1250], provided that:
 
 >     “(a)  __In General__  __.—__ 
 
@@ -507,7 +507,7 @@
 
  __Reports__ 
 
-[Pub. L. 111–175, title III][/us/pl/111/175], §§ 301, 305, May 27, 2010, [124 Stat. 1255][/us/stat/124/1255], 1256, provided that:
+[Pub. L. 111–175, title III][/us/pl/111/175/tIII], §§ 301, 305, May 27, 2010, [124 Stat. 1255][/us/stat/124/1255], 1256, provided that:
 
 > “SEC. 301. __DEFINITION.__ 
 
@@ -561,7 +561,7 @@
 
  __Rural Local Television Signals__ 
 
-[Pub. L. 106–113, div. B, § 1000(a)(9)][/us/pl/106/113/s1000/a/9] \[title II\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–544, provided that:
+[Pub. L. 106–113, div. B][/us/pl/106/113/dB], § 1000(a)(9) \[title II\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–544, provided that:
 
 > “SEC. 2001. __SHORT TITLE.__ 
 
@@ -623,20 +623,20 @@
 [/us/usc/t47/s325/b/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs325%2Fb%2F7
 [/us/usc/t47/s339]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs339
 [/us/act/1934-06-19/ch652]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-19%2Fch652
-[/us/pl/106/113/s1000/a/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2Fs1000%2Fa%2F9
+[/us/pl/106/113/dB]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2FdB
 [/us/stat/113/1536]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1536
-[/us/pl/108/447]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447
+[/us/pl/108/447/dJ/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447%2FdJ%2FtIX
 [/us/stat/118/3414]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F3414
-[/us/pl/111/175]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F175
+[/us/pl/111/175/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F175%2FtII
 [/us/stat/124/1246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1246
-[/us/pl/113/200/s102/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F200%2Fs102%2Fa
+[/us/pl/113/200/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F200%2FtI
 [/us/stat/128/2060]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2060
 [/us/act/1934-06-19/ch652]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-19%2Fch652
 [/us/stat/48/1064]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F1064
 [/us/usc/t47/s609]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs609
 [/us/usc/t17/s119/a/14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft17%2Fs119%2Fa%2F14
 [/us/usc/t17/s119/a/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft17%2Fs119%2Fa%2F13
-[/us/pl/111/175/s102/h/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F175%2Fs102%2Fh%2F1%2FB
+[/us/pl/111/175/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F175%2FtI
 [/us/stat/124/1224]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1224
 [/us/usc/t17/s119/a/15]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft17%2Fs119%2Fa%2F15
 [/us/pl/111/175/s102/h/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F175%2Fs102%2Fh%2F1%2FC
@@ -645,42 +645,42 @@
 [/us/usc/t17/s111]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft17%2Fs111
 [/us/pl/108/447/s206/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447%2Fs206%2Fb
 [/us/pl/113/200]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F200
-[/us/pl/111/175/s204/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F175%2Fs204%2Fa%2F1
-[/us/pl/111/175/s207/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F175%2Fs207%2Fa
-[/us/pl/111/175/s204/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F175%2Fs204%2Fa%2F2
-[/us/pl/111/175/s207/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F175%2Fs207%2Fb%2F1
-[/us/pl/111/175/s207/b/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F175%2Fs207%2Fb%2F4
-[/us/pl/111/175/s207/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F175%2Fs207%2Fb%2F1
-[/us/pl/111/175/s207/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F175%2Fs207%2Fb%2F3
-[/us/pl/111/175/s207/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F175%2Fs207%2Fb%2F1
-[/us/pl/111/175/s207/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F175%2Fs207%2Fb%2F3
-[/us/pl/108/447/s203/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447%2Fs203%2Fb%2F1
-[/us/pl/108/447/s210]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447%2Fs210
-[/us/pl/108/447/s203/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447%2Fs203%2Fb%2F2
+[/us/pl/111/175]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F175
+[/us/pl/111/175]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F175
+[/us/pl/111/175]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F175
+[/us/pl/111/175]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F175
+[/us/pl/111/175]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F175
+[/us/pl/111/175]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F175
+[/us/pl/111/175]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F175
+[/us/pl/111/175]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F175
+[/us/pl/111/175]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F175
 [/us/pl/108/447]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447
-[/us/pl/108/447/s206/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447%2Fs206%2Fa
-[/us/pl/108/447/s203/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447%2Fs203%2Fa%2F1
-[/us/pl/108/447/s203/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447%2Fs203%2Fa%2F1
-[/us/pl/108/447/s203/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447%2Fs203%2Fb%2F3
+[/us/pl/108/447]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447
+[/us/pl/108/447]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447
+[/us/pl/108/447]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447
+[/us/pl/108/447]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447
+[/us/pl/108/447]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447
+[/us/pl/108/447]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447
+[/us/pl/108/447]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447
 [/us/pl/111/175]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F175
 [/us/pl/111/175/s307/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F175%2Fs307%2Fa
 [/us/usc/t17/s111]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft17%2Fs111
-[/us/pl/108/447]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447
+[/us/pl/108/447/dJ/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447%2FdJ%2FtIX
 [/us/stat/118/3428]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F3428
 [/us/usc/t47/s338/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs338%2Fi
-[/us/pl/113/200/s102/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F200%2Fs102%2Fc
+[/us/pl/113/200/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F200%2FtI
 [/us/stat/128/2061]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2061
 [/us/usc/t17/s122/j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft17%2Fs122%2Fj
 [/us/usc/t47/s534/h/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs534%2Fh%2F1%2FC
-[/us/pl/113/200/s102/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F200%2Fs102%2Fd
+[/us/pl/113/200/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F200%2FtI
 [/us/stat/128/2061]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2061
 [/us/usc/t47/s534]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs534
 [/us/usc/t47/s338]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs338
-[/us/pl/113/200/s108]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F200%2Fs108
+[/us/pl/113/200/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F200%2FtI
 [/us/stat/128/2064]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2064
 [/us/usc/t47/s339/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs339%2Fd
 [/us/usc/t47/s325/b/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs325%2Fb%2F7
-[/us/pl/111/175/s205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F175%2Fs205
+[/us/pl/111/175/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F175%2FtII
 [/us/stat/124/1250]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1250
 [/us/pl/111/175/s307/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F175%2Fs307%2Fa
 [/us/usc/t17/s111]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft17%2Fs111
@@ -689,7 +689,7 @@
 [/us/pl/111/175]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F175
 [/us/usc/t47/s338/k]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs338%2Fk
 [/us/usc/t47/s339/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs339%2Fd
-[/us/pl/111/175]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F175
+[/us/pl/111/175/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F175%2FtIII
 [/us/stat/124/1255]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1255
 [/us/usc/t17/s111]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft17%2Fs111
 [/us/pl/111/175/s307/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F175%2Fs307%2Fa
@@ -698,7 +698,7 @@
 [/us/usc/t47/s206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs206
 [/us/usc/t47/s339/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs339%2Fd
 [/us/usc/t47/s325/b/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs325%2Fb%2F7
-[/us/pl/106/113/s1000/a/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2Fs1000%2Fa%2F9
+[/us/pl/106/113/dB]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2FdB
 [/us/stat/113/1536]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1536
 [/us/usc/t47/s151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs151
 

@@ -85,7 +85,7 @@
 
         In this section, the term “executive agency” has the meaning given such term in [section 102 of title 40][/us/usc/t40/s102].
 
-([Pub. L. 112–96, title VI, § 6409][/us/pl/112/96/s6409], Feb. 22, 2012, [126 Stat. 232][/us/stat/126/232].)
+([Pub. L. 112–96, title VI][/us/pl/112/96/tVI], § 6409, Feb. 22, 2012, [126 Stat. 232][/us/stat/126/232].)
 
  __References in Text__ 
 
@@ -104,7 +104,7 @@
 
 [/us/pl/104/104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F104
 [/us/usc/t40/s102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft40%2Fs102
-[/us/pl/112/96/s6409]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F96%2Fs6409
+[/us/pl/112/96/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F96%2FtVI
 [/us/stat/126/232]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F232
 [/us/pl/104/104/s704]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F104%2Fs704
 [/us/stat/110/151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F151

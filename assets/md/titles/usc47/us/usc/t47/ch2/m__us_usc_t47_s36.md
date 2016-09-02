@@ -17,7 +17,7 @@
 
     The President is empowered to prevent the landing of any cable about to be landed in violation of sections 34 to 39 of this title. When any such cable is about to be or is landed or is being operated without a license, any district court of the United States exercising jurisdiction in the district in which such cable is about to be or is landed, or any district court of the United States having jurisdiction of the parties, shall have jurisdiction, at the suit of the United States, to enjoin the landing or operation of such cable or to compel, by injunction, the removal thereof.
 
-([May 27, 1921, ch. 12, § 3][/us/act/1921-05-27/ch12/s3], [42 Stat. 8][/us/stat/42/8].)
+([May 27, 1921, ch. 12][/us/act/1921-05-27/ch12], § 3, [42 Stat. 8][/us/stat/42/8].)
 
  __Codification__ 
 
@@ -34,7 +34,7 @@
 ----------
 ----------
 
-[/us/act/1921-05-27/ch12/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1921-05-27%2Fch12%2Fs3
+[/us/act/1921-05-27/ch12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1921-05-27%2Fch12
 [/us/stat/42/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F42%2F8
 [/us/usc/t47/s34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs34
 

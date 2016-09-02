@@ -17,7 +17,7 @@
 
     The Commission or an entity designated by the Commission shall make such inspections as may be necessary to insure compliance with the requirements of this part. In accordance with such other provisions of law as apply to Government contracts, the Commission may enter into contracts with any person for the purpose of carrying out such inspections and certifying compliance with those requirements, and may, as part of any such contract, allow any such person to accept reimbursement from the license holder for travel and expense costs of any employee conducting an inspection or certification.
 
-([June 19, 1934, ch. 652][/us/act/1934-06-19/ch652], title III, § 385, as added [Aug. 6, 1956, ch. 973, § 1][/us/act/1956-08-06/ch973/s1], [70 Stat. 1048][/us/stat/70/1048]; amended [Pub. L. 103–414, title III, § 303(a)(20)(E)][/us/pl/103/414/s303/a/20/E], Oct. 25, 1994, [108 Stat. 4295][/us/stat/108/4295]; [Pub. L. 104–104, title IV, § 403][/us/pl/104/104/s403](o), Feb. 8, 1996, [110 Stat. 132][/us/stat/110/132].)
+([June 19, 1934, ch. 652][/us/act/1934-06-19/ch652], title III, § 385, as added [Aug. 6, 1956, ch. 973][/us/act/1956-08-06/ch973], § 1, [70 Stat. 1048][/us/stat/70/1048]; amended [Pub. L. 103–414, title III][/us/pl/103/414/tIII], § 303(a)(20)(E), Oct. 25, 1994, [108 Stat. 4295][/us/stat/108/4295]; [Pub. L. 104–104, title IV][/us/pl/104/104/tIV], § 403(o), Feb. 8, 1996, [110 Stat. 132][/us/stat/110/132].)
 
  __Amendments__ 
 
@@ -37,11 +37,11 @@
 ----------
 
 [/us/act/1934-06-19/ch652]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-19%2Fch652
-[/us/act/1956-08-06/ch973/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-06%2Fch973%2Fs1
+[/us/act/1956-08-06/ch973]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-06%2Fch973
 [/us/stat/70/1048]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70%2F1048
-[/us/pl/103/414/s303/a/20/E]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F414%2Fs303%2Fa%2F20%2FE
+[/us/pl/103/414/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F414%2FtIII
 [/us/stat/108/4295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4295
-[/us/pl/104/104/s403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F104%2Fs403
+[/us/pl/104/104/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F104%2FtIV
 [/us/stat/110/132]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F132
 [/us/pl/104/104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F104
 [/us/pl/103/414]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F414

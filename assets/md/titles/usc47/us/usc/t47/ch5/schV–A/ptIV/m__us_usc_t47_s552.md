@@ -47,7 +47,7 @@
 
             Nothing in this section shall be construed to preclude a franchising authority and a cable operator from agreeing to customer service requirements that exceed the standards established by the Commission under subsection (b) of this section. Nothing in this subchapter shall be construed to prevent the establishment or enforcement of any municipal law or regulation, or any State law, concerning customer service that imposes customer service requirements that exceed the standards set by the Commission under this section, or that addresses matters not addressed by the standards set by the Commission under this section.
 
-([June 19, 1934, ch. 652][/us/act/1934-06-19/ch652], title VI, § 632, as added [Pub. L. 98–549, § 2][/us/pl/98/549/s2], Oct. 30, 1984, [98 Stat. 2796][/us/stat/98/2796]; amended [Pub. L. 102–385, § 8][/us/pl/102/385/s8], Oct. 5, 1992, [106 Stat. 1484][/us/stat/106/1484]; [Pub. L. 104–104, title III, § 301(g)][/us/pl/104/104/s301/g], Feb. 8, 1996, [110 Stat. 117][/us/stat/110/117].)
+([June 19, 1934, ch. 652][/us/act/1934-06-19/ch652], title VI, § 632, as added [Pub. L. 98–549][/us/pl/98/549], § 2, Oct. 30, 1984, [98 Stat. 2796][/us/stat/98/2796]; amended [Pub. L. 102–385][/us/pl/102/385], § 8, Oct. 5, 1992, [106 Stat. 1484][/us/stat/106/1484]; [Pub. L. 104–104, title III][/us/pl/104/104/tIII], § 301(g), Feb. 8, 1996, [110 Stat. 117][/us/stat/110/117].)
 
  __References in Text__ 
 
@@ -86,11 +86,11 @@
 
 [/us/usc/t47/s543/b/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs543%2Fb%2F6
 [/us/act/1934-06-19/ch652]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-19%2Fch652
-[/us/pl/98/549/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F549%2Fs2
+[/us/pl/98/549]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F549
 [/us/stat/98/2796]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2796
-[/us/pl/102/385/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F385%2Fs8
+[/us/pl/102/385]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F385
 [/us/stat/106/1484]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F1484
-[/us/pl/104/104/s301/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F104%2Fs301%2Fg
+[/us/pl/104/104/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F104%2FtIII
 [/us/stat/110/117]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F117
 [/us/act/1934-06-19/ch652]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-19%2Fch652
 [/us/stat/48/1064]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F1064

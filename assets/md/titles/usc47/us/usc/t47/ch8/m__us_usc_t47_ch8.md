@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../..//us/usc/t47/ch7/m__us_usc_t47_ch7.md) | [Next](./../../../..//us/usc/t47/ch8/schI/m__us_usc_t47_ch8_schI.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fch8)
+[Previous](./../../../..//us/usc/t47/ch7/m__us_usc_t47_s801...805.md) | [Next](./../../../..//us/usc/t47/ch8/schI/m__us_usc_t47_ch8_schI.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fch8)
 
 ## CHAPTER 8—NATIONAL TELECOMMUNICATIONS AND INFORMATION ADMINISTRATION
 
@@ -179,7 +179,7 @@ SUBCHAPTER III—MISCELLANEOUS  </td>
 
 ----------
 
-[Previous](./../../../..//us/usc/t47/ch7/m__us_usc_t47_ch7.md) | [Next](./../../../..//us/usc/t47/ch8/schI/m__us_usc_t47_ch8_schI.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fch8)
+[Previous](./../../../..//us/usc/t47/ch7/m__us_usc_t47_s801...805.md) | [Next](./../../../..//us/usc/t47/ch8/schI/m__us_usc_t47_ch8_schI.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fch8)
 
 ----------
 ----------

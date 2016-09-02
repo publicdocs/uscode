@@ -197,23 +197,23 @@
 
         (2) A discharge in bankruptcy under title 11 shall not release a person or entity from an obligation to the United States in connection with a loan guarantee under this chapter.
 
-([Pub. L. 106–553, § 1(a)(2)][/us/pl/106/553/s1/a/2] \[title X, § 1005\], Dec. 21, 2000, [114 Stat. 2762][/us/stat/114/2762], 2762A–134; [Pub. L. 107–171, title VI, § 6404(b)(2)][/us/pl/107/171/s6404/b/2], May 13, 2002, [116 Stat. 430][/us/stat/116/430].)
+([Pub. L. 106–553][/us/pl/106/553], § 1(a)(2) \[title X, § 1005\], Dec. 21, 2000, [114 Stat. 2762][/us/stat/114/2762], 2762A–134; [Pub. L. 107–171, title VI][/us/pl/107/171/tVI], § 6404(b)(2), May 13, 2002, [116 Stat. 430][/us/stat/116/430].)
 
  __References in Text__ 
 
     This chapter, referred to in text, was in the original “this Act”, and was translated as reading “this title”. See References in Text note set out under [section 1101 of this title][/us/usc/t47/s1101].
 
-    [Section 1103(e)(1) of this title][/us/usc/t47/s1103/e/1], referred to in subsec. (f)(1), was in the original a reference to section 4(e)(1), and was translated as referring to section 1004(e)(1) of title X of H.R. 5548, as enacted by [Pub. L. 106–553, § 1(a)(2)][/us/pl/106/553/s1/a/2], to reflect the probable intent of Congress. [Pub. L. 106–553][/us/pl/106/553] does not contain a section 4 and section 1004 relates to projects to be given priority for loan guarantees.
+    [Section 1103(e)(1) of this title][/us/usc/t47/s1103/e/1], referred to in subsec. (f)(1), was in the original a reference to section 4(e)(1), and was translated as referring to section 1004(e)(1) of title X of H.R. 5548, as enacted by [Pub. L. 106–553][/us/pl/106/553], § 1(a)(2), to reflect the probable intent of Congress. [Pub. L. 106–553][/us/pl/106/553] does not contain a section 4 and section 1004 relates to projects to be given priority for loan guarantees.
 
  __Amendments__ 
 
-    2002—Subsec. (a). [Pub. L. 107–171, § 6404(b)(2)(A)][/us/pl/107/171/s6404/b/2/A], made technical amendments to references in original Act which appear in text as references to sections 1102 and 1103 of this title.
+    2002—Subsec. (a). [Pub. L. 107–171][/us/pl/107/171], § 6404(b)(2)(A), made technical amendments to references in original Act which appear in text as references to sections 1102 and 1103 of this title.
 
-    Subsec. (b)(1)(D). [Pub. L. 107–171, § 6404(b)(2)(B)(i)][/us/pl/107/171/s6404/b/2/B/i], made technical amendment to reference in original Act which appears in text as a reference to [section 1105(a)(2) of this title][/us/usc/t47/s1105/a/2].
+    Subsec. (b)(1)(D). [Pub. L. 107–171][/us/pl/107/171], § 6404(b)(2)(B)(i), made technical amendment to reference in original Act which appears in text as a reference to [section 1105(a)(2) of this title][/us/usc/t47/s1105/a/2].
 
-    Subsec. (b)(3). [Pub. L. 107–171, § 6404(b)(2)(B)(ii)][/us/pl/107/171/s6404/b/2/B/ii], made technical amendment to reference in original Act which appears in text as a reference to [section 1103(d)(3)(B)(iii) of this title][/us/usc/t47/s1103/d/3/B/iii].
+    Subsec. (b)(3). [Pub. L. 107–171][/us/pl/107/171], § 6404(b)(2)(B)(ii), made technical amendment to reference in original Act which appears in text as a reference to [section 1103(d)(3)(B)(iii) of this title][/us/usc/t47/s1103/d/3/B/iii].
 
-    Subsec. (e)(3). [Pub. L. 107–171, § 6404(b)(2)(C)][/us/pl/107/171/s6404/b/2/C], made technical amendment to reference in original Act which appears in text as a reference to [section 1103(g) of this title][/us/usc/t47/s1103/g].
+    Subsec. (e)(3). [Pub. L. 107–171][/us/pl/107/171], § 6404(b)(2)(C), made technical amendment to reference in original Act which appears in text as a reference to [section 1103(g) of this title][/us/usc/t47/s1103/g].
 
 ----------
 
@@ -225,20 +225,20 @@
 [/us/usc/t47/s1105/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs1105%2Fa%2F2
 [/us/usc/t47/s1103/d/3/B/iii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs1103%2Fd%2F3%2FB%2Fiii
 [/us/usc/t47/s1103/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs1103%2Fg
-[/us/pl/106/553/s1/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F553%2Fs1%2Fa%2F2
+[/us/pl/106/553]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F553
 [/us/stat/114/2762]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2762
-[/us/pl/107/171/s6404/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2Fs6404%2Fb%2F2
+[/us/pl/107/171/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2FtVI
 [/us/stat/116/430]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F430
 [/us/usc/t47/s1101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs1101
 [/us/usc/t47/s1103/e/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs1103%2Fe%2F1
-[/us/pl/106/553/s1/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F553%2Fs1%2Fa%2F2
 [/us/pl/106/553]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F553
-[/us/pl/107/171/s6404/b/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2Fs6404%2Fb%2F2%2FA
-[/us/pl/107/171/s6404/b/2/B/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2Fs6404%2Fb%2F2%2FB%2Fi
+[/us/pl/106/553]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F553
+[/us/pl/107/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171
+[/us/pl/107/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171
 [/us/usc/t47/s1105/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs1105%2Fa%2F2
-[/us/pl/107/171/s6404/b/2/B/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2Fs6404%2Fb%2F2%2FB%2Fii
+[/us/pl/107/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171
 [/us/usc/t47/s1103/d/3/B/iii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs1103%2Fd%2F3%2FB%2Fiii
-[/us/pl/107/171/s6404/b/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2Fs6404%2Fb%2F2%2FC
+[/us/pl/107/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171
 [/us/usc/t47/s1103/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs1103%2Fg
 
 

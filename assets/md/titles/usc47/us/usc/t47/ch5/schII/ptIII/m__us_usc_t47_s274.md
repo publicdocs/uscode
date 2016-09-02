@@ -183,7 +183,7 @@
 
         (10) The term “Bell operating company” has the meaning provided in [section 153 of this title][/us/usc/t47/s153], except that such term includes any entity or corporation that is owned or controlled by such a company (as so defined) but does not include an electronic publishing joint venture owned by such an entity or corporation.
 
-([June 19, 1934, ch. 652][/us/act/1934-06-19/ch652], title II, § 274, as added [Pub. L. 104–104, title I, § 151(a)][/us/pl/104/104/s151/a], Feb. 8, 1996, [110 Stat. 100][/us/stat/110/100].)
+([June 19, 1934, ch. 652][/us/act/1934-06-19/ch652], title II, § 274, as added [Pub. L. 104–104, title I][/us/pl/104/104/tI], § 151(a), Feb. 8, 1996, [110 Stat. 100][/us/stat/110/100].)
 
  __References in Text__ 
 
@@ -201,7 +201,7 @@
 [/us/usc/t15/s78a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs78a
 [/us/usc/t47/s153]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs153
 [/us/act/1934-06-19/ch652]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-19%2Fch652
-[/us/pl/104/104/s151/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F104%2Fs151%2Fa
+[/us/pl/104/104/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F104%2FtI
 [/us/stat/110/100]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F100
 [/us/act/1934-06-06/ch404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-06%2Fch404
 [/us/stat/48/881]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F881

@@ -19,7 +19,7 @@
 
     (b) The Commission shall determine whether any new technology or service proposed in a petition or application is in the public interest within one year after such petition or application is filed. If the Commission initiates its own proceeding for a new technology or service, such proceeding shall be completed within 12 months after it is initiated.
 
-([June 19, 1934, ch. 652][/us/act/1934-06-19/ch652], title I, § 7, as added [Pub. L. 98–214, § 12][/us/pl/98/214/s12], Dec. 8, 1983, [97 Stat. 1471][/us/stat/97/1471]; amended [Pub. L. 103–414, title III, § 304(a)(1)][/us/pl/103/414/s304/a/1], Oct. 25, 1994, [108 Stat. 4296][/us/stat/108/4296].)
+([June 19, 1934, ch. 652][/us/act/1934-06-19/ch652], title I, § 7, as added [Pub. L. 98–214][/us/pl/98/214], § 12, Dec. 8, 1983, [97 Stat. 1471][/us/stat/97/1471]; amended [Pub. L. 103–414, title III][/us/pl/103/414/tIII], § 304(a)(1), Oct. 25, 1994, [108 Stat. 4296][/us/stat/108/4296].)
 
  __References in Text__ 
 
@@ -31,7 +31,7 @@
 
  __Advanced Telecommunications Incentives__ 
 
-    [Pub. L. 104–104, title VII, § 706][/us/pl/104/104/s706], Feb. 8, 1996, [110 Stat. 153][/us/stat/110/153], as amended by [Pub. L. 107–110, title X, § 1076(gg)][/us/pl/107/110/s1076/gg], Jan. 8, 2002, [115 Stat. 2093][/us/stat/115/2093]; [Pub. L. 110–385, title I, § 103(a)][/us/pl/110/385/s103/a], Oct. 10, 2008, [122 Stat. 4096][/us/stat/122/4096], was transferred and is classified to [section 1302 of this title][/us/usc/t47/s1302].
+    [Pub. L. 104–104, title VII][/us/pl/104/104/tVII], § 706, Feb. 8, 1996, [110 Stat. 153][/us/stat/110/153], as amended by [Pub. L. 107–110, title X][/us/pl/107/110/tX], § 1076(gg), Jan. 8, 2002, [115 Stat. 2093][/us/stat/115/2093]; [Pub. L. 110–385, title I][/us/pl/110/385/tI], § 103(a), Oct. 10, 2008, [122 Stat. 4096][/us/stat/122/4096], was transferred and is classified to [section 1302 of this title][/us/usc/t47/s1302].
 
 ----------
 
@@ -41,19 +41,19 @@
 ----------
 
 [/us/act/1934-06-19/ch652]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-19%2Fch652
-[/us/pl/98/214/s12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F214%2Fs12
+[/us/pl/98/214]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F214
 [/us/stat/97/1471]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F1471
-[/us/pl/103/414/s304/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F414%2Fs304%2Fa%2F1
+[/us/pl/103/414/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F414%2FtIII
 [/us/stat/108/4296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4296
 [/us/act/1934-06-19/ch652]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-19%2Fch652
 [/us/stat/48/1064]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F1064
 [/us/usc/t47/s609]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs609
 [/us/pl/103/414]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F414
-[/us/pl/104/104/s706]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F104%2Fs706
+[/us/pl/104/104/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F104%2FtVII
 [/us/stat/110/153]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F153
-[/us/pl/107/110/s1076/gg]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F110%2Fs1076%2Fgg
+[/us/pl/107/110/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F110%2FtX
 [/us/stat/115/2093]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F2093
-[/us/pl/110/385/s103/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F385%2Fs103%2Fa
+[/us/pl/110/385/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F385%2FtI
 [/us/stat/122/4096]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4096
 [/us/usc/t47/s1302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs1302
 

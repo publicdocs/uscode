@@ -53,7 +53,7 @@
 
         Any amounts appropriated pursuant to the authorizations of appropriations in subsections (a) and (b) of this section shall remain available until expended.
 
-([Pub. L. 106–553, § 1(a)(2)][/us/pl/106/553/s1/a/2] \[title X, § 1011\], Dec. 21, 2000, [114 Stat. 2762][/us/stat/114/2762], 2762A–141; [Pub. L. 107–171, title VI, § 6404(a)][/us/pl/107/171/s6404/a], May 13, 2002, [116 Stat. 429][/us/stat/116/429].)
+([Pub. L. 106–553][/us/pl/106/553], § 1(a)(2) \[title X, § 1011\], Dec. 21, 2000, [114 Stat. 2762][/us/stat/114/2762], 2762A–141; [Pub. L. 107–171, title VI][/us/pl/107/171/tVI], § 6404(a), May 13, 2002, [116 Stat. 429][/us/stat/116/429].)
 
  __References in Text__ 
 
@@ -76,9 +76,9 @@
 [/us/usc/t47/s1103/e/1/C/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs1103%2Fe%2F1%2FC%2Fi
 [/us/usc/t47/s1103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs1103
 [/us/usc/t47/s1104/n/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs1104%2Fn%2F3%2FB
-[/us/pl/106/553/s1/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F553%2Fs1%2Fa%2F2
+[/us/pl/106/553]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F553
 [/us/stat/114/2762]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2762
-[/us/pl/107/171/s6404/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2Fs6404%2Fa
+[/us/pl/107/171/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2FtVI
 [/us/stat/116/429]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F429
 [/us/usc/t47/s1101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs1101
 [/us/pl/107/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171

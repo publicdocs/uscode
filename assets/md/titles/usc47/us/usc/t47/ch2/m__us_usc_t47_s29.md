@@ -17,7 +17,7 @@
 
     When an offense against this chapter shall have been committed by means of a vessel, or of any boat belonging to a vessel, the master of such vessel shall, unless some other person is shown to have been in charge of and navigating such vessel or boat, be deemed to have been in charge of and navigating the same, and be liable to be punished accordingly.
 
-([Feb. 29, 1888, ch. 17, § 9][/us/act/1888-02-29/ch17/s9], [25 Stat. 42][/us/stat/25/42].)
+([Feb. 29, 1888, ch. 17][/us/act/1888-02-29/ch17], § 9, [25 Stat. 42][/us/stat/25/42].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/act/1888-02-29/ch17/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1888-02-29%2Fch17%2Fs9
+[/us/act/1888-02-29/ch17]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1888-02-29%2Fch17
 [/us/stat/25/42]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F25%2F42
 
 

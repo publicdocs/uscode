@@ -453,7 +453,7 @@
 
         For purposes of this section, the term “Federal entity” means any department, agency, or other instrumentality of the Federal Government that utilizes a Government station license obtained under section 305 of the 1934 Act ([47 U.S.C. 305][/us/usc/t47/s305]).
 
-([Pub. L. 102–538, title I, § 113][/us/pl/102/538/s113], as added [Pub. L. 103–66, title VI, § 6001(a)(3)][/us/pl/103/66/s6001/a/3], Aug. 10, 1993, [107 Stat. 380][/us/stat/107/380]; amended [Pub. L. 105–33, title III, § 3002(d)(1)][/us/pl/105/33/s3002/d/1], (e)(1)–(3), Aug. 5, 1997, [111 Stat. 262][/us/stat/111/262], 264, 265; [Pub. L. 105–261, div. A, title X, § 1064(c)][/us/pl/105/261/s1064/c], Oct. 17, 1998, [112 Stat. 2132][/us/stat/112/2132]; [Pub. L. 106–65, div. A, title X, § 1062(c)(2)][/us/pl/106/65/s1062/c/2], Oct. 5, 1999, [113 Stat. 768][/us/stat/113/768]; [Pub. L. 108–494, title II, § 202][/us/pl/108/494/s202], Dec. 23, 2004, [118 Stat. 3991][/us/stat/118/3991]; [Pub. L. 112–96, title VI, § 6701(a)][/us/pl/112/96/s6701/a], Feb. 22, 2012, [126 Stat. 245][/us/stat/126/245]; [Pub. L. 114–74, title X, § 1005(b)][/us/pl/114/74/s1005/b], (c), Nov. 2, 2015, [129 Stat. 623][/us/stat/129/623], 624.)
+([Pub. L. 102–538, title I][/us/pl/102/538/tI], § 113, as added [Pub. L. 103–66, title VI][/us/pl/103/66/tVI], § 6001(a)(3), Aug. 10, 1993, [107 Stat. 380][/us/stat/107/380]; amended [Pub. L. 105–33, title III][/us/pl/105/33/tIII], § 3002(d)(1), (e)(1)–(3), Aug. 5, 1997, [111 Stat. 262][/us/stat/111/262], 264, 265; [Pub. L. 105–261, div. A, title X][/us/pl/105/261/dA/tX], § 1064(c), Oct. 17, 1998, [112 Stat. 2132][/us/stat/112/2132]; [Pub. L. 106–65, div. A, title X][/us/pl/106/65/dA/tX], § 1062(c)(2), Oct. 5, 1999, [113 Stat. 768][/us/stat/113/768]; [Pub. L. 108–494, title II][/us/pl/108/494/tII], § 202, Dec. 23, 2004, [118 Stat. 3991][/us/stat/118/3991]; [Pub. L. 112–96, title VI][/us/pl/112/96/tVI], § 6701(a), Feb. 22, 2012, [126 Stat. 245][/us/stat/126/245]; [Pub. L. 114–74, title X][/us/pl/114/74/tX], § 1005(b), (c), Nov. 2, 2015, [129 Stat. 623][/us/stat/129/623], 624.)
 
  __References in Text__ 
 
@@ -465,33 +465,33 @@
 
  __Amendments__ 
 
-    2015—Subsec. (g)(1). [Pub. L. 114–74, § 1005(c)(1)(A)][/us/pl/114/74/s1005/c/1/A], struck out “authorized to use a band of eligible frequencies described in paragraph (2) and” after “Federal Government station” and inserted “eligible” after “auction of” and after “reallocation of”.
+    2015—Subsec. (g)(1). [Pub. L. 114–74][/us/pl/114/74], § 1005(c)(1)(A), struck out “authorized to use a band of eligible frequencies described in paragraph (2) and” after “Federal Government station” and inserted “eligible” after “auction of” and after “reallocation of”.
 
-    Subsec. (g)(3)(A). [Pub. L. 114–74, § 1005(c)(1)(B)][/us/pl/114/74/s1005/c/1/B], substituted “or the sharing of spectrum frequencies” for “previously assigned to such entity or the sharing of spectrum frequencies assigned to such entity”.
+    Subsec. (g)(3)(A). [Pub. L. 114–74][/us/pl/114/74], § 1005(c)(1)(B), substituted “or the sharing of spectrum frequencies” for “previously assigned to such entity or the sharing of spectrum frequencies assigned to such entity”.
 
-    Subsec. (h)(1). [Pub. L. 114–74, § 1005(c)(2)][/us/pl/114/74/s1005/c/2], struck out “authorized to use any such frequency” after “a Federal entity”.
+    Subsec. (h)(1). [Pub. L. 114–74][/us/pl/114/74], § 1005(c)(2), struck out “authorized to use any such frequency” after “a Federal entity”.
 
-    Subsec. (h)(3)(C). [Pub. L. 114–74, § 1005(b)][/us/pl/114/74/s1005/b], substituted “this subsection, subsection (i), and [section 928(g)(2)(E) of this title][/us/usc/t47/s928/g/2/E]” for “this subsection and subsection (i)”.
+    Subsec. (h)(3)(C). [Pub. L. 114–74][/us/pl/114/74], § 1005(b), substituted “this subsection, subsection (i), and [section 928(g)(2)(E) of this title][/us/usc/t47/s928/g/2/E]” for “this subsection and subsection (i)”.
 
-    2012—Subsec. (g). [Pub. L. 112–96, § 6701(a)(1)(A)][/us/pl/112/96/s6701/a/1/A], substituted “Relocation of and spectrum sharing by Federal Government stations” for “Relocation of Federal Government stations” in heading.
+    2012—Subsec. (g). [Pub. L. 112–96][/us/pl/112/96], § 6701(a)(1)(A), substituted “Relocation of and spectrum sharing by Federal Government stations” for “Relocation of Federal Government stations” in heading.
 
-    Subsec. (g)(1). [Pub. L. 112–96, § 6701(a)(1)(B)][/us/pl/112/96/s6701/a/1/B], amended par. (1) generally. Prior to amendment, text read as follows: “Any Federal entity that operates a Federal Government station assigned to a band of frequencies specified in paragraph (2) and that incurs relocation costs because of the reallocation of frequencies from Federal use to non-Federal use shall receive payment for such costs from the Spectrum Relocation Fund, in accordance with [section 928 of this title][/us/usc/t47/s928]. For purposes of this paragraph, Federal power agencies exempted under subsection (c)(4) of this section that choose to relocate from the frequencies identified for reallocation pursuant to subsection (a) of this section, are eligible to receive payment under this paragraph.”
+    Subsec. (g)(1). [Pub. L. 112–96][/us/pl/112/96], § 6701(a)(1)(B), amended par. (1) generally. Prior to amendment, text read as follows: “Any Federal entity that operates a Federal Government station assigned to a band of frequencies specified in paragraph (2) and that incurs relocation costs because of the reallocation of frequencies from Federal use to non-Federal use shall receive payment for such costs from the Spectrum Relocation Fund, in accordance with [section 928 of this title][/us/usc/t47/s928]. For purposes of this paragraph, Federal power agencies exempted under subsection (c)(4) of this section that choose to relocate from the frequencies identified for reallocation pursuant to subsection (a) of this section, are eligible to receive payment under this paragraph.”
 
-    Subsec. (g)(2)(B). [Pub. L. 112–96, § 6701(a)(1)(C)][/us/pl/112/96/s6701/a/1/C], amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “any other band of frequencies reallocated from Federal use to non-Federal use after January 1, 2003, that is assigned by competitive bidding pursuant to section 309(j) of the Communications Act of 1934 ([47 U.S.C. 309(j)][/us/usc/t47/s309/j]), except for bands of frequencies previously identified by the National Telecommunications and Information Administration in the Spectrum Reallocation Final Report, NTIA Special Publication 95–32 (1995).”
+    Subsec. (g)(2)(B). [Pub. L. 112–96][/us/pl/112/96], § 6701(a)(1)(C), amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “any other band of frequencies reallocated from Federal use to non-Federal use after January 1, 2003, that is assigned by competitive bidding pursuant to section 309(j) of the Communications Act of 1934 ([47 U.S.C. 309(j)][/us/usc/t47/s309/j]), except for bands of frequencies previously identified by the National Telecommunications and Information Administration in the Spectrum Reallocation Final Report, NTIA Special Publication 95–32 (1995).”
 
-    Subsec. (g)(3). [Pub. L. 112–96, § 6701(a)(1)(D)][/us/pl/112/96/s6701/a/1/D], amended par. (3) generally. Prior to amendment, par. (3) defined relocation costs.
+    Subsec. (g)(3). [Pub. L. 112–96][/us/pl/112/96], § 6701(a)(1)(D), amended par. (3) generally. Prior to amendment, par. (3) defined relocation costs.
 
-    Subsec. (g)(4). [Pub. L. 112–96, § 6701(a)(1)(E)(i)][/us/pl/112/96/s6701/a/1/E/i], which directed substitution of “relocation or sharing costs” for “relocations costs” in heading, was executed by making the substitution for “relocation costs” to reflect the probable intent of Congress.
+    Subsec. (g)(4). [Pub. L. 112–96][/us/pl/112/96], § 6701(a)(1)(E)(i), which directed substitution of “relocation or sharing costs” for “relocations costs” in heading, was executed by making the substitution for “relocation costs” to reflect the probable intent of Congress.
 
-    Subsec. (g)(4)(A). [Pub. L. 112–96, § 6701(a)(1)(E)(ii)][/us/pl/112/96/s6701/a/1/E/ii], (iii), substituted “relocation or sharing costs” for “relocation costs” and inserted “or sharing” after “such relocation”.
+    Subsec. (g)(4)(A). [Pub. L. 112–96][/us/pl/112/96], § 6701(a)(1)(E)(ii), (iii), substituted “relocation or sharing costs” for “relocation costs” and inserted “or sharing” after “such relocation”.
 
-    Subsec. (g)(4)(B). [Pub. L. 112–96, § 6701(a)(1)(E)(ii)][/us/pl/112/96/s6701/a/1/E/ii], substituted “relocation or sharing costs” for “relocation costs”.
+    Subsec. (g)(4)(B). [Pub. L. 112–96][/us/pl/112/96], § 6701(a)(1)(E)(ii), substituted “relocation or sharing costs” for “relocation costs”.
 
-    Subsec. (g)(5). [Pub. L. 112–96, § 6701(a)(1)(F)][/us/pl/112/96/s6701/a/1/F], substituted “relocation or sharing costs” for “relocation costs” and inserted “or sharing” after “for relocation”.
+    Subsec. (g)(5). [Pub. L. 112–96][/us/pl/112/96], § 6701(a)(1)(F), substituted “relocation or sharing costs” for “relocation costs” and inserted “or sharing” after “for relocation”.
 
-    Subsec. (g)(6). [Pub. L. 112–96, § 6701(a)(1)(G)][/us/pl/112/96/s6701/a/1/G], amended par. (6) generally. Prior to amendment, text read as follows: “The NTIA shall take such actions as necessary to ensure the timely relocation of Federal entities’ spectrum-related operations from frequencies defined in paragraph (2) to frequencies or facilities of comparable capability. Upon a finding by the NTIA that a Federal entity has achieved comparable capability of systems by relocating to a new frequency assignment or by utilizing an alternative technology, the NTIA shall terminate the entity’s authorization and notify the Commission that the entity’s relocation has been completed. The NTIA shall also terminate such entity’s authorization if the NTIA determines that the entity has unreasonably failed to comply with the timeline for relocation submitted by the Director of the Office of Management and Budget under [section 928(d)(2)(B) of this title][/us/usc/t47/s928/d/2/B].”
+    Subsec. (g)(6). [Pub. L. 112–96][/us/pl/112/96], § 6701(a)(1)(G), amended par. (6) generally. Prior to amendment, text read as follows: “The NTIA shall take such actions as necessary to ensure the timely relocation of Federal entities’ spectrum-related operations from frequencies defined in paragraph (2) to frequencies or facilities of comparable capability. Upon a finding by the NTIA that a Federal entity has achieved comparable capability of systems by relocating to a new frequency assignment or by utilizing an alternative technology, the NTIA shall terminate the entity’s authorization and notify the Commission that the entity’s relocation has been completed. The NTIA shall also terminate such entity’s authorization if the NTIA determines that the entity has unreasonably failed to comply with the timeline for relocation submitted by the Director of the Office of Management and Budget under [section 928(d)(2)(B) of this title][/us/usc/t47/s928/d/2/B].”
 
-    Subsecs. (h) to (l). [Pub. L. 112–96, § 6701(a)(2)][/us/pl/112/96/s6701/a/2], (3), added subsecs. (h) to (j) and redesignated former subsecs. (h) and (i) as (k) and (l), respectively.
+    Subsecs. (h) to (l). [Pub. L. 112–96][/us/pl/112/96], § 6701(a)(2), (3), added subsecs. (h) to (j) and redesignated former subsecs. (h) and (i) as (k) and (l), respectively.
 
     2004—Subsec. (g). [Pub. L. 108–494][/us/pl/108/494] added pars. (1) to (6) and struck out former pars. (1) to (3) which related to relocation of Federal Government stations in general, process for relocation, and right to reclaim.
 
@@ -499,27 +499,27 @@
 
     1998—Subsec. (g)(1). [Pub. L. 105–261][/us/pl/105/261] designated existing provisions as subpar. (A), inserted subpar. heading, substituted “Any such Federal entity which proposes to so relocate shall notify the NTIA, which in turn shall notify the Commission, before the auction concerned of the marginal costs anticipated to be associated with such relocation or with modifications necessary to accommodate prospective licensees. The Commission in turn shall notify potential bidders of the estimated relocation or modification costs based on the geographic area covered by the proposed licenses before the auction.” for “Such payments may be in advance of relocation and may be in cash or in kind. Any such payment in cash shall be deposited in the account of such Federal entity in the Treasury of the United States or in a separate account authorized by law. Funds deposited according to this paragraph shall be available, without appropriation or fiscal year limitation, only for such expenses of the Federal entity for which such funds were deposited under this paragraph.”, and added subpars. (B) to (F).
 
-    1997—Subsec. (a). [Pub. L. 105–33, § 3002(e)(1)][/us/pl/105/33/s3002/e/1], inserted “and within 6 months after August 5, 1997” after “August 10, 1993,” in introductory provisions.
+    1997—Subsec. (a). [Pub. L. 105–33][/us/pl/105/33], § 3002(e)(1), inserted “and within 6 months after August 5, 1997” after “August 10, 1993,” in introductory provisions.
 
-    Subsec. (b)(1). [Pub. L. 105–33, § 3002(e)(2)(A)][/us/pl/105/33/s3002/e/2/A], (B), substituted “Initial reallocation report” for “In general” in heading and inserted “in the initial report required by subsection (a) of this section” after “recommend for reallocation” in text.
+    Subsec. (b)(1). [Pub. L. 105–33][/us/pl/105/33], § 3002(e)(2)(A), (B), substituted “Initial reallocation report” for “In general” in heading and inserted “in the initial report required by subsection (a) of this section” after “recommend for reallocation” in text.
 
-    Subsec. (b)(2). [Pub. L. 105–33, § 3002(e)(2)(C)][/us/pl/105/33/s3002/e/2/C], inserted “or (3)” after “paragraph (1)” in two places.
+    Subsec. (b)(2). [Pub. L. 105–33][/us/pl/105/33], § 3002(e)(2)(C), inserted “or (3)” after “paragraph (1)” in two places.
 
-    Subsec. (b)(3). [Pub. L. 105–33, § 3002(e)(2)(D)][/us/pl/105/33/s3002/e/2/D], added par. (3).
+    Subsec. (b)(3). [Pub. L. 105–33][/us/pl/105/33], § 3002(e)(2)(D), added par. (3).
 
-    Subsec. (d)(4). [Pub. L. 105–33, § 3002(e)(3)][/us/pl/105/33/s3002/e/3], substituted “initial report” for “final report”.
+    Subsec. (d)(4). [Pub. L. 105–33][/us/pl/105/33], § 3002(e)(3), substituted “initial report” for “final report”.
 
-    Subsecs. (f) to (i). [Pub. L. 105–33, § 3002(d)(1)][/us/pl/105/33/s3002/d/1], added subsecs. (f) to (i).
+    Subsecs. (f) to (i). [Pub. L. 105–33][/us/pl/105/33], § 3002(d)(1), added subsecs. (f) to (i).
 
  __Spectrum Management Authority Retained__ 
 
-[Pub. L. 108–494, title II, § 208(a)][/us/pl/108/494/s208/a], Dec. 23, 2004, [118 Stat. 3996][/us/stat/118/3996], provided that: 
+[Pub. L. 108–494, title II][/us/pl/108/494/tII], § 208(a), Dec. 23, 2004, [118 Stat. 3996][/us/stat/118/3996], provided that: 
 
 > “Except as provided with respect to the bands of frequencies identified in section 113(g)(2)(A) of the National Telecommunications and Information Administration Organization Act ([47 U.S.C. 923(g)(2)(A)][/us/usc/t47/s923/g/2/A]) as amended by this title, nothing in this title \[see Short Title of 2004 Amendment note set out under [section 901 of this title][/us/usc/t47/s901]\] or the amendments made by this title shall be construed as limiting the Federal Communications Commission’s authority to allocate bands of frequencies that are reallocated from Federal use to non-Federal use for unlicensed, public safety, shared, or non-commercial use.”
 
  __Reports on Costs of Relocations__ 
 
-[Pub. L. 105–261, div. A, title X, § 1064(d)][/us/pl/105/261/s1064/d], Oct. 17, 1998, [112 Stat. 2133][/us/stat/112/2133], provided that: 
+[Pub. L. 105–261, div. A, title X][/us/pl/105/261/dA/tX], § 1064(d), Oct. 17, 1998, [112 Stat. 2133][/us/stat/112/2133], provided that: 
 
 > “The head of each department or agency of the Federal Government shall include in the annual budget submission of such department or agency to the Director of the Office of Management and Budget a report assessing the costs to be incurred by such department or agency as a result of any frequency relocations of such department or agency that are anticipated under section 113 of the National Telecommunications \[and\] Information Administration Organization Act ([47 U.S.C. 923][/us/usc/t47/s923]) as of the date of such report.”
 
@@ -551,58 +551,58 @@
 [/us/usc/t47/s928/g/2/E]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs928%2Fg%2F2%2FE
 [/us/usc/t18/s798/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs798%2Fb
 [/us/usc/t47/s305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs305
-[/us/pl/102/538/s113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F538%2Fs113
-[/us/pl/103/66/s6001/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66%2Fs6001%2Fa%2F3
+[/us/pl/102/538/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F538%2FtI
+[/us/pl/103/66/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66%2FtVI
 [/us/stat/107/380]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F380
-[/us/pl/105/33/s3002/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2Fs3002%2Fd%2F1
+[/us/pl/105/33/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2FtIII
 [/us/stat/111/262]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F262
-[/us/pl/105/261/s1064/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261%2Fs1064%2Fc
+[/us/pl/105/261/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261%2FdA%2FtX
 [/us/stat/112/2132]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2132
-[/us/pl/106/65/s1062/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2Fs1062%2Fc%2F2
+[/us/pl/106/65/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2FdA%2FtX
 [/us/stat/113/768]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F768
-[/us/pl/108/494/s202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F494%2Fs202
+[/us/pl/108/494/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F494%2FtII
 [/us/stat/118/3991]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F3991
-[/us/pl/112/96/s6701/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F96%2Fs6701%2Fa
+[/us/pl/112/96/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F96%2FtVI
 [/us/stat/126/245]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F245
-[/us/pl/114/74/s1005/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F74%2Fs1005%2Fb
+[/us/pl/114/74/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F74%2FtX
 [/us/stat/129/623]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F623
 [/us/usc/t47/s921/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs921%2F3
 [/us/pl/105/33/s3002/c/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2Fs3002%2Fc%2F5
 [/us/usc/t47/s925]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs925
 [/us/pl/92/463]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F463
 [/us/stat/86/770]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F770
-[/us/pl/114/74/s1005/c/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F74%2Fs1005%2Fc%2F1%2FA
-[/us/pl/114/74/s1005/c/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F74%2Fs1005%2Fc%2F1%2FB
-[/us/pl/114/74/s1005/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F74%2Fs1005%2Fc%2F2
-[/us/pl/114/74/s1005/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F74%2Fs1005%2Fb
+[/us/pl/114/74]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F74
+[/us/pl/114/74]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F74
+[/us/pl/114/74]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F74
+[/us/pl/114/74]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F74
 [/us/usc/t47/s928/g/2/E]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs928%2Fg%2F2%2FE
-[/us/pl/112/96/s6701/a/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F96%2Fs6701%2Fa%2F1%2FA
-[/us/pl/112/96/s6701/a/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F96%2Fs6701%2Fa%2F1%2FB
+[/us/pl/112/96]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F96
+[/us/pl/112/96]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F96
 [/us/usc/t47/s928]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs928
-[/us/pl/112/96/s6701/a/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F96%2Fs6701%2Fa%2F1%2FC
+[/us/pl/112/96]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F96
 [/us/usc/t47/s309/j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs309%2Fj
-[/us/pl/112/96/s6701/a/1/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F96%2Fs6701%2Fa%2F1%2FD
-[/us/pl/112/96/s6701/a/1/E/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F96%2Fs6701%2Fa%2F1%2FE%2Fi
-[/us/pl/112/96/s6701/a/1/E/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F96%2Fs6701%2Fa%2F1%2FE%2Fii
-[/us/pl/112/96/s6701/a/1/E/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F96%2Fs6701%2Fa%2F1%2FE%2Fii
-[/us/pl/112/96/s6701/a/1/F]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F96%2Fs6701%2Fa%2F1%2FF
-[/us/pl/112/96/s6701/a/1/G]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F96%2Fs6701%2Fa%2F1%2FG
+[/us/pl/112/96]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F96
+[/us/pl/112/96]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F96
+[/us/pl/112/96]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F96
+[/us/pl/112/96]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F96
+[/us/pl/112/96]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F96
+[/us/pl/112/96]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F96
 [/us/usc/t47/s928/d/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs928%2Fd%2F2%2FB
-[/us/pl/112/96/s6701/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F96%2Fs6701%2Fa%2F2
+[/us/pl/112/96]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F96
 [/us/pl/108/494]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F494
 [/us/pl/106/65]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65
 [/us/pl/105/261]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261
-[/us/pl/105/33/s3002/e/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2Fs3002%2Fe%2F1
-[/us/pl/105/33/s3002/e/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2Fs3002%2Fe%2F2%2FA
-[/us/pl/105/33/s3002/e/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2Fs3002%2Fe%2F2%2FC
-[/us/pl/105/33/s3002/e/2/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2Fs3002%2Fe%2F2%2FD
-[/us/pl/105/33/s3002/e/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2Fs3002%2Fe%2F3
-[/us/pl/105/33/s3002/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2Fs3002%2Fd%2F1
-[/us/pl/108/494/s208/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F494%2Fs208%2Fa
+[/us/pl/105/33]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33
+[/us/pl/105/33]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33
+[/us/pl/105/33]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33
+[/us/pl/105/33]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33
+[/us/pl/105/33]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33
+[/us/pl/105/33]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33
+[/us/pl/108/494/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F494%2FtII
 [/us/stat/118/3996]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F3996
 [/us/usc/t47/s923/g/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs923%2Fg%2F2%2FA
 [/us/usc/t47/s901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs901
-[/us/pl/105/261/s1064/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261%2Fs1064%2Fd
+[/us/pl/105/261/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261%2FdA%2FtX
 [/us/stat/112/2133]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2133
 [/us/usc/t47/s923]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs923
 

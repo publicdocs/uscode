@@ -313,7 +313,7 @@
 
         The term “wire communication” or “communication by wire” means the transmission of writing, signs, signals, pictures, and sounds of all kinds by aid of wire, cable, or other like connection between the points of origin and reception of such transmission, including all instrumentalities, facilities, apparatus, and services (among other things, the receipt, forwarding, and delivery of communications) incidental to such transmission.
 
-([June 19, 1934, ch. 652][/us/act/1934-06-19/ch652], title I, § 3, [48 Stat. 1065][/us/stat/48/1065]; [May 20, 1937, ch. 229, § 2][/us/act/1937-05-20/ch229/s2], [50 Stat. 189][/us/stat/50/189]; Proc. No. 2695, eff. July 4, 1946, 11 F.R. 7517, [60 Stat. 1352][/us/stat/60/1352]; [July 16, 1952, ch. 879, § 2][/us/act/1952-07-16/ch879/s2], [66 Stat. 711][/us/stat/66/711]; [Apr. 27, 1954, ch. 175][/us/act/1954-04-27/ch175], §§ 2, 3, [68 Stat. 64][/us/stat/68/64]; [Aug. 13, 1954, ch. 729, § 3][/us/act/1954-08-13/ch729/s3], [68 Stat. 707][/us/stat/68/707]; [Aug. 13, 1954, ch. 735, § 1][/us/act/1954-08-13/ch735/s1], [68 Stat. 729][/us/stat/68/729]; [Aug. 6, 1956, ch. 973, § 3][/us/act/1956-08-06/ch973/s3], [70 Stat. 1049][/us/stat/70/1049]; [Pub. L. 89–121, § 1][/us/pl/89/121/s1], Aug. 13, 1965, [79 Stat. 511][/us/stat/79/511]; [Pub. L. 90–299, § 2][/us/pl/90/299/s2], May 3, 1968, [82 Stat. 112][/us/stat/82/112]; [Pub. L. 97–259, title I, § 120(b)][/us/pl/97/259/s120/b], Sept. 13, 1982, [96 Stat. 1097][/us/stat/96/1097]; [Pub. L. 103–66, title VI, § 6002(b)(2)(B)(ii)][/us/pl/103/66/s6002/b/2/B/ii], Aug. 10, 1993, [107 Stat. 396][/us/stat/107/396]; [Pub. L. 104–104, § 3(a)][/us/pl/104/104/s3/a], (c), Feb. 8, 1996, [110 Stat. 58][/us/stat/110/58], 61; [Pub. L. 105–33, title III, § 3001(b)][/us/pl/105/33/s3001/b], Aug. 5, 1997, [111 Stat. 258][/us/stat/111/258]; [Pub. L. 111–260, title I, § 101][/us/pl/111/260/s101], Oct. 8, 2010, [124 Stat. 2752][/us/stat/124/2752].)
+([June 19, 1934, ch. 652][/us/act/1934-06-19/ch652], title I, § 3, [48 Stat. 1065][/us/stat/48/1065]; [May 20, 1937, ch. 229][/us/act/1937-05-20/ch229], § 2, [50 Stat. 189][/us/stat/50/189]; Proc. No. 2695, eff. July 4, 1946, 11 F.R. 7517, [60 Stat. 1352][/us/stat/60/1352]; [July 16, 1952, ch. 879][/us/act/1952-07-16/ch879], § 2, [66 Stat. 711][/us/stat/66/711]; [Apr. 27, 1954, ch. 175][/us/act/1954-04-27/ch175], §§ 2, 3, [68 Stat. 64][/us/stat/68/64]; [Aug. 13, 1954, ch. 729][/us/act/1954-08-13/ch729], § 3, [68 Stat. 707][/us/stat/68/707]; [Aug. 13, 1954, ch. 735][/us/act/1954-08-13/ch735], § 1, [68 Stat. 729][/us/stat/68/729]; [Aug. 6, 1956, ch. 973][/us/act/1956-08-06/ch973], § 3, [70 Stat. 1049][/us/stat/70/1049]; [Pub. L. 89–121][/us/pl/89/121], § 1, Aug. 13, 1965, [79 Stat. 511][/us/stat/79/511]; [Pub. L. 90–299][/us/pl/90/299], § 2, May 3, 1968, [82 Stat. 112][/us/stat/82/112]; [Pub. L. 97–259, title I][/us/pl/97/259/tI], § 120(b), Sept. 13, 1982, [96 Stat. 1097][/us/stat/96/1097]; [Pub. L. 103–66, title VI][/us/pl/103/66/tVI], § 6002(b)(2)(B)(ii), Aug. 10, 1993, [107 Stat. 396][/us/stat/107/396]; [Pub. L. 104–104][/us/pl/104/104], § 3(a), (c), Feb. 8, 1996, [110 Stat. 58][/us/stat/110/58], 61; [Pub. L. 105–33, title III][/us/pl/105/33/tIII], § 3001(b), Aug. 5, 1997, [111 Stat. 258][/us/stat/111/258]; [Pub. L. 111–260, title I][/us/pl/111/260/tI], § 101, Oct. 8, 2010, [124 Stat. 2752][/us/stat/124/2752].)
 
  __References in Text__ 
 
@@ -325,7 +325,7 @@
 
  __Codification__ 
 
-    In par. (41)(A), “chapter 71 of title 46” substituted for “the Act of May 12, 1948 ([46 U.S.C. 229a][/us/usc/t46/s229a]–h)” on authority of [Pub. L. 98–89, § 2(b)][/us/pl/98/89/s2/b], Aug. 26, 1983, [97 Stat. 598][/us/stat/97/598], section 1 of which enacted Title 46, Shipping.
+    In par. (41)(A), “chapter 71 of title 46” substituted for “the Act of May 12, 1948 ([46 U.S.C. 229a][/us/usc/t46/s229a]–h)” on authority of [Pub. L. 98–89][/us/pl/98/89], § 2(b), Aug. 26, 1983, [97 Stat. 598][/us/stat/97/598], section 1 of which enacted Title 46, Shipping.
 
     References to Philippine Islands in pars. (28) and (58) of this section omitted on authority of Proc. No. 2695, issued pursuant to [section 1394 of Title 22][/us/usc/t22/s1394], Foreign Relations and Intercourse, which proclamation recognized the independence of Philippine Islands as of July 4, 1946. Proc. No. 2695 is set out under [section 1394 of Title 22][/us/usc/t22/s1394].
 
@@ -335,41 +335,41 @@
 
     1997—Pars. (49) to (52). [Pub. L. 105–33][/us/pl/105/33] added par. (49) and redesignated former pars. (49) to (51) as (50) to (52), respectively.
 
-    1996—[Pub. L. 104–104, § 3(a)(2)][/us/pl/104/104/s3/a/2], (c)(4)–(8), redesignated subsecs. (a) to (ff) as pars. (1) to (32), respectively, realigned margins, inserted headings and words “The term”, changed capitalization, added pars. (33) to (51), reordered pars. in alphabetical order based on headings of pars., and renumbered pars. as so reordered.
+    1996—[Pub. L. 104–104][/us/pl/104/104], § 3(a)(2), (c)(4)–(8), redesignated subsecs. (a) to (ff) as pars. (1) to (32), respectively, realigned margins, inserted headings and words “The term”, changed capitalization, added pars. (33) to (51), reordered pars. in alphabetical order based on headings of pars., and renumbered pars. as so reordered.
 
-    Subsecs. (e), (n). [Pub. L. 104–104, § 3(c)(1)][/us/pl/104/104/s3/c/1], redesignated clauses (1) to (3) as (A) to (C), respectively.
+    Subsecs. (e), (n). [Pub. L. 104–104][/us/pl/104/104], § 3(c)(1), redesignated clauses (1) to (3) as (A) to (C), respectively.
 
-    Subsec. (r). [Pub. L. 104–104, § 3(a)(1)][/us/pl/104/104/s3/a/1], designated existing provisions as subpar. (A) and added subpar. (B).
+    Subsec. (r). [Pub. L. 104–104][/us/pl/104/104], § 3(a)(1), designated existing provisions as subpar. (A) and added subpar. (B).
 
-    Subsec. (w). [Pub. L. 104–104, § 3(c)(2)][/us/pl/104/104/s3/c/2], redesignated pars. (1) to (5) as subpars. (A) to (E), respectively.
+    Subsec. (w). [Pub. L. 104–104][/us/pl/104/104], § 3(c)(2), redesignated pars. (1) to (5) as subpars. (A) to (E), respectively.
 
-    Subsecs. (y), (z). [Pub. L. 104–104, § 3(c)(3)][/us/pl/104/104/s3/c/3], redesignated pars. (1) and (2) as subpars. (A) and (B), respectively.
+    Subsecs. (y), (z). [Pub. L. 104–104][/us/pl/104/104], § 3(c)(3), redesignated pars. (1) and (2) as subpars. (A) and (B), respectively.
 
-    1993—Subsec. (n). [Pub. L. 103–66, § 6002(b)(2)(B)(ii)(I)][/us/pl/103/66/s6002/b/2/B/ii/I], inserted cl. (1) designation and added cls. (2) and (3).
+    1993—Subsec. (n). [Pub. L. 103–66][/us/pl/103/66], § 6002(b)(2)(B)(ii)(I), inserted cl. (1) designation and added cls. (2) and (3).
 
-    Subsec. (gg). [Pub. L. 103–66, § 6002(b)(2)(B)(ii)(II)][/us/pl/103/66/s6002/b/2/B/ii/II], struck out subsec. (gg) which read as follows: “ ‘Private land mobile service’ means a mobile service which provides a regularly interacting group of base, mobile, portable, and associated control and relay stations (whether licensed on an individual, cooperative, or multiple basis) for private one-way or two-way land mobile radio communications by eligible users over designated areas of operation.”
+    Subsec. (gg). [Pub. L. 103–66][/us/pl/103/66], § 6002(b)(2)(B)(ii)(II), struck out subsec. (gg) which read as follows: “ ‘Private land mobile service’ means a mobile service which provides a regularly interacting group of base, mobile, portable, and associated control and relay stations (whether licensed on an individual, cooperative, or multiple basis) for private one-way or two-way land mobile radio communications by eligible users over designated areas of operation.”
 
-    1982—Subsec. (n). [Pub. L. 97–259, § 120(b)(2)][/us/pl/97/259/s120/b/2], substituted “a radio” for “the radio”, inserted “or receivers” after “between mobile stations”, and inserted provision that “mobile service” includes both one-way and two-way radio communication services.
+    1982—Subsec. (n). [Pub. L. 97–259][/us/pl/97/259], § 120(b)(2), substituted “a radio” for “the radio”, inserted “or receivers” after “between mobile stations”, and inserted provision that “mobile service” includes both one-way and two-way radio communication services.
 
-    Subsec. (gg). [Pub. L. 97–259, § 120(b)(1)][/us/pl/97/259/s120/b/1], added subsec. (gg).
+    Subsec. (gg). [Pub. L. 97–259][/us/pl/97/259], § 120(b)(1), added subsec. (gg).
 
     1968—Subsec. (e). [Pub. L. 90–299][/us/pl/90/299] inserted “(other than [section 223 of this title][/us/usc/t47/s223])” after “subchapter II of this chapter”.
 
-    1965—Subsec. (w)(5). [Pub. L. 89–121, § 1(1)][/us/pl/89/121/s1/1], added par. (5).
+    1965—Subsec. (w)(5). [Pub. L. 89–121][/us/pl/89/121], § 1(1), added par. (5).
 
-    Subsec. (x). [Pub. L. 89–121, § 1(2)][/us/pl/89/121/s1/2], among other changes, substituted “radiotelegraph auto alarm” for “auto-alarm” wherever appearing, “receiving apparatus which responds to the radiotelegraph alarm signal” for “receiver” in two places, and “country in which the ship is registered” for “country to which the ship belongs” and for “country of origin”.
+    Subsec. (x). [Pub. L. 89–121][/us/pl/89/121], § 1(2), among other changes, substituted “radiotelegraph auto alarm” for “auto-alarm” wherever appearing, “receiving apparatus which responds to the radiotelegraph alarm signal” for “receiver” in two places, and “country in which the ship is registered” for “country to which the ship belongs” and for “country of origin”.
 
-    Subsec. (y). [Pub. L. 89–121, § 1(3)][/us/pl/89/121/s1/3], struck out “qualified operator” from pars. (1) and (2), and substituted “country in which the ship is registered” for “country to which the ship belongs”.
+    Subsec. (y). [Pub. L. 89–121][/us/pl/89/121], § 1(3), struck out “qualified operator” from pars. (1) and (2), and substituted “country in which the ship is registered” for “country to which the ship belongs”.
 
-    Subsec. (z). [Pub. L. 89–121, § 1(4)(D)][/us/pl/89/121/s1/4/D], (E), added subsec. (z) and redesignated former subsec. (z) as (aa).
+    Subsec. (z). [Pub. L. 89–121][/us/pl/89/121], § 1(4)(D), (E), added subsec. (z) and redesignated former subsec. (z) as (aa).
 
-    Subsec. (aa). [Pub. L. 89–121, § 1(4)(A)][/us/pl/89/121/s1/4/A], (D), redesignated former subsec. (z) as (aa) and former subsec. (aa) as (bb).
+    Subsec. (aa). [Pub. L. 89–121][/us/pl/89/121], § 1(4)(A), (D), redesignated former subsec. (z) as (aa) and former subsec. (aa) as (bb).
 
-    Subsecs. (bb) to (dd). [Pub. L. 89–121, § 1(4)(A)][/us/pl/89/121/s1/4/A], redesignated former subsecs. (aa) to (cc) as (bb) to (dd) and former subsec. (dd) as (ee).
+    Subsecs. (bb) to (dd). [Pub. L. 89–121][/us/pl/89/121], § 1(4)(A), redesignated former subsecs. (aa) to (cc) as (bb) to (dd) and former subsec. (dd) as (ee).
 
-    Subsec. (ee). [Pub. L. 89–121, § 1(4)(A)][/us/pl/89/121/s1/4/A], (B), redesignated former subsec. (dd) as (ee), and repealed former subsec. (ee) which defined “existing installation”.
+    Subsec. (ee). [Pub. L. 89–121][/us/pl/89/121], § 1(4)(A), (B), redesignated former subsec. (dd) as (ee), and repealed former subsec. (ee) which defined “existing installation”.
 
-    Subsecs. (ff), (gg). [Pub. L. 89–121, § 1(4)(B)][/us/pl/89/121/s1/4/B], (C), redesignated subsec. (gg) as (ff) and repealed former subsec. (ff) which defined “new installation”.
+    Subsecs. (ff), (gg). [Pub. L. 89–121][/us/pl/89/121], § 1(4)(B), (C), redesignated subsec. (gg) as (ff) and repealed former subsec. (ff) which defined “new installation”.
 
     1956—Subsec. (y)(2). Act Aug. 6, 1956, substituted “parts II and III of subchapter III of this chapter” for “part II of subchapter III of this chapter”.
 
@@ -405,7 +405,7 @@ Section 19 of act July 16, 1952, provided that:
 
  __Limitation on Liability__ 
 
-[Pub. L. 111–260, § 2][/us/pl/111/260/s2], Oct. 8, 2010, [124 Stat. 2751][/us/stat/124/2751], provided that:
+[Pub. L. 111–260][/us/pl/111/260], § 2, Oct. 8, 2010, [124 Stat. 2751][/us/stat/124/2751], provided that:
 
 >     “(a)  __In General__  __.—__ 
 
@@ -421,7 +421,7 @@ Section 19 of act July 16, 1952, provided that:
 
  __Proprietary Technology__ 
 
-[Pub. L. 111–260, § 3][/us/pl/111/260/s3], Oct. 8, 2010, [124 Stat. 2752][/us/stat/124/2752], provided that: 
+[Pub. L. 111–260][/us/pl/111/260], § 3, Oct. 8, 2010, [124 Stat. 2752][/us/stat/124/2752], provided that: 
 
 > “No action taken by the Federal Communications Commission to implement this Act \[see Short Title of 2010 Amendment note set out under [section 609 of this title][/us/usc/t47/s609]\] or any amendment made by this Act shall mandate the use or incorporation of proprietary technology.”
 
@@ -435,7 +435,7 @@ Section 19 of act July 16, 1952, provided that:
 
  __Definitions__ 
 
-[Pub. L. 113–200, title I, § 112][/us/pl/113/200/s112], Dec. 4, 2014, [128 Stat. 2066][/us/stat/128/2066], provided that: 
+[Pub. L. 113–200, title I][/us/pl/113/200/tI], § 112, Dec. 4, 2014, [128 Stat. 2066][/us/stat/128/2066], provided that: 
 
 > “In this title \[amending sections 325, 338, 534, and 543 of this title and enacting provisions set out as notes under sections 325, 338, and 534 of this title\]:
 
@@ -447,7 +447,7 @@ Section 19 of act July 16, 1952, provided that:
 
 >     The term ‘Commission’ means the Federal Communications Commission.”
 
-[Pub. L. 111–260, title II, § 206][/us/pl/111/260/s206], Oct. 8, 2010, [124 Stat. 2776][/us/stat/124/2776], provided that: 
+[Pub. L. 111–260, title II][/us/pl/111/260/tII], § 206, Oct. 8, 2010, [124 Stat. 2776][/us/stat/124/2776], provided that: 
 
 > “In this title \[amending sections 303, 330, and 613 of this title and enacting provisions set out as notes under sections 303 and 613 of this title\]:
 
@@ -483,11 +483,11 @@ Section 19 of act July 16, 1952, provided that:
 
 >     The term ‘video programming’ has the meaning given such term in section 713 of the Communications Act of 1934 ([47 U.S.C. 613][/us/usc/t47/s613]).”
 
-[Pub. L. 105–33, title III, § 3001(a)][/us/pl/105/33/s3001/a], Aug. 5, 1997, [111 Stat. 258][/us/stat/111/258], provided that: 
+[Pub. L. 105–33, title III][/us/pl/105/33/tIII], § 3001(a), Aug. 5, 1997, [111 Stat. 258][/us/stat/111/258], provided that: 
 
 > “Except as otherwise provided in this title \[enacting [section 337 of this title][/us/usc/t47/s337], amending this section and sections 303, 309, and 923 to 925 of this title, enacting provisions set out as notes under sections 254, 309, and 925 of this title, and repealing provisions set out as a note under [section 309 of this title][/us/usc/t47/s309]\], the terms used in this title have the meanings provided in section 3 of the Communications Act of 1934 ([47 U.S.C. 153][/us/usc/t47/s153]), as amended by this section.”
 
-[Pub. L. 104–104, § 3(b)][/us/pl/104/104/s3/b], Feb. 8, 1996, [110 Stat. 61][/us/stat/110/61], provided that: 
+[Pub. L. 104–104][/us/pl/104/104], § 3(b), Feb. 8, 1996, [110 Stat. 61][/us/stat/110/61], provided that: 
 
 > “Except as otherwise provided in this Act \[see Short Title of 1996 Amendment note set out under [section 609 of this title][/us/usc/t47/s609]\], the terms used in this Act have the meanings provided in section 3 of the Communications Act of 1934 ([47 U.S.C. 153][/us/usc/t47/s153]), as amended by this section.”
 
@@ -507,63 +507,63 @@ Section 19 of act July 16, 1952, provided that:
 [/us/usc/t47/s226]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs226
 [/us/act/1934-06-19/ch652]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-19%2Fch652
 [/us/stat/48/1065]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F1065
-[/us/act/1937-05-20/ch229/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1937-05-20%2Fch229%2Fs2
+[/us/act/1937-05-20/ch229]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1937-05-20%2Fch229
 [/us/stat/50/189]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F50%2F189
 [/us/stat/60/1352]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F60%2F1352
-[/us/act/1952-07-16/ch879/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1952-07-16%2Fch879%2Fs2
+[/us/act/1952-07-16/ch879]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1952-07-16%2Fch879
 [/us/stat/66/711]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F66%2F711
 [/us/act/1954-04-27/ch175]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-04-27%2Fch175
 [/us/stat/68/64]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68%2F64
-[/us/act/1954-08-13/ch729/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-13%2Fch729%2Fs3
+[/us/act/1954-08-13/ch729]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-13%2Fch729
 [/us/stat/68/707]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68%2F707
-[/us/act/1954-08-13/ch735/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-13%2Fch735%2Fs1
+[/us/act/1954-08-13/ch735]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-13%2Fch735
 [/us/stat/68/729]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68%2F729
-[/us/act/1956-08-06/ch973/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-06%2Fch973%2Fs3
+[/us/act/1956-08-06/ch973]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-06%2Fch973
 [/us/stat/70/1049]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70%2F1049
-[/us/pl/89/121/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F121%2Fs1
+[/us/pl/89/121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F121
 [/us/stat/79/511]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F511
-[/us/pl/90/299/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F299%2Fs2
+[/us/pl/90/299]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F299
 [/us/stat/82/112]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F112
-[/us/pl/97/259/s120/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F259%2Fs120%2Fb
+[/us/pl/97/259/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F259%2FtI
 [/us/stat/96/1097]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1097
-[/us/pl/103/66/s6002/b/2/B/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66%2Fs6002%2Fb%2F2%2FB%2Fii
+[/us/pl/103/66/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66%2FtVI
 [/us/stat/107/396]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F396
-[/us/pl/104/104/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F104%2Fs3%2Fa
+[/us/pl/104/104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F104
 [/us/stat/110/58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F58
-[/us/pl/105/33/s3001/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2Fs3001%2Fb
+[/us/pl/105/33/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2FtIII
 [/us/stat/111/258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F258
-[/us/pl/111/260/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F260%2Fs101
+[/us/pl/111/260/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F260%2FtI
 [/us/stat/124/2752]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2752
 [/us/act/1934-06-19/ch652]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-19%2Fch652
 [/us/stat/48/1064]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F1064
 [/us/usc/t47/s609]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs609
 [/us/usc/t22/s3602/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs3602%2Fb
 [/us/usc/t46/s229a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs229a
-[/us/pl/98/89/s2/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F89%2Fs2%2Fb
+[/us/pl/98/89]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F89
 [/us/stat/97/598]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F598
 [/us/usc/t22/s1394]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs1394
 [/us/usc/t22/s1394]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs1394
 [/us/pl/111/260]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F260
 [/us/pl/105/33]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33
-[/us/pl/104/104/s3/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F104%2Fs3%2Fa%2F2
-[/us/pl/104/104/s3/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F104%2Fs3%2Fc%2F1
-[/us/pl/104/104/s3/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F104%2Fs3%2Fa%2F1
-[/us/pl/104/104/s3/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F104%2Fs3%2Fc%2F2
-[/us/pl/104/104/s3/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F104%2Fs3%2Fc%2F3
-[/us/pl/103/66/s6002/b/2/B/ii/I]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66%2Fs6002%2Fb%2F2%2FB%2Fii%2FI
-[/us/pl/103/66/s6002/b/2/B/ii/II]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66%2Fs6002%2Fb%2F2%2FB%2Fii%2FII
-[/us/pl/97/259/s120/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F259%2Fs120%2Fb%2F2
-[/us/pl/97/259/s120/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F259%2Fs120%2Fb%2F1
+[/us/pl/104/104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F104
+[/us/pl/104/104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F104
+[/us/pl/104/104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F104
+[/us/pl/104/104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F104
+[/us/pl/104/104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F104
+[/us/pl/103/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66
+[/us/pl/103/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66
+[/us/pl/97/259]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F259
+[/us/pl/97/259]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F259
 [/us/pl/90/299]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F299
 [/us/usc/t47/s223]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs223
-[/us/pl/89/121/s1/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F121%2Fs1%2F1
-[/us/pl/89/121/s1/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F121%2Fs1%2F2
-[/us/pl/89/121/s1/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F121%2Fs1%2F3
-[/us/pl/89/121/s1/4/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F121%2Fs1%2F4%2FD
-[/us/pl/89/121/s1/4/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F121%2Fs1%2F4%2FA
-[/us/pl/89/121/s1/4/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F121%2Fs1%2F4%2FA
-[/us/pl/89/121/s1/4/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F121%2Fs1%2F4%2FA
-[/us/pl/89/121/s1/4/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F121%2Fs1%2F4%2FB
+[/us/pl/89/121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F121
+[/us/pl/89/121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F121
+[/us/pl/89/121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F121
+[/us/pl/89/121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F121
+[/us/pl/89/121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F121
+[/us/pl/89/121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F121
+[/us/pl/89/121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F121
+[/us/pl/89/121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F121
 [/us/usc/t47/s152/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs152%2Fb
 [/us/act/1954-08-13/ch729]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-13%2Fch729
 [/us/act/1954-08-13/ch735]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-13%2Fch735
@@ -573,28 +573,28 @@ Section 19 of act July 16, 1952, provided that:
 [/us/usc/t18/s1343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs1343
 [/us/usc/t47/s609]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs609
 [/us/usc/t47/s402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs402
-[/us/pl/111/260/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F260%2Fs2
+[/us/pl/111/260]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F260
 [/us/stat/124/2751]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2751
 [/us/usc/t47/s609]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs609
 [/us/usc/t47/s151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs151
-[/us/pl/111/260/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F260%2Fs3
+[/us/pl/111/260]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F260
 [/us/stat/124/2752]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2752
 [/us/usc/t47/s609]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs609
 [/us/stat/50/1121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F50%2F1121
 [/us/usc/t33/s1602]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs1602
-[/us/pl/113/200/s112]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F200%2Fs112
+[/us/pl/113/200/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F200%2FtI
 [/us/stat/128/2066]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2066
-[/us/pl/111/260/s206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F260%2Fs206
+[/us/pl/111/260/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F260%2FtII
 [/us/stat/124/2776]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2776
 [/us/usc/t47/s613]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs613
 [/us/usc/t47/s613]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs613
 [/us/usc/t47/s613]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs613
-[/us/pl/105/33/s3001/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2Fs3001%2Fa
+[/us/pl/105/33/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2FtIII
 [/us/stat/111/258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F258
 [/us/usc/t47/s337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs337
 [/us/usc/t47/s309]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs309
 [/us/usc/t47/s153]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs153
-[/us/pl/104/104/s3/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F104%2Fs3%2Fb
+[/us/pl/104/104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F104
 [/us/stat/110/61]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F61
 [/us/usc/t47/s609]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs609
 [/us/usc/t47/s153]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs153

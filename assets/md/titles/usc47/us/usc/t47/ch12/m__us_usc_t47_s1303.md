@@ -67,7 +67,7 @@
 
         Nothing in this chapter shall reduce or remove any obligation the Commission has to protect proprietary information, nor shall this chapter be construed to compel the Commission to make publicly available any proprietary information.
 
-([Pub. L. 110–385, title I, § 103][/us/pl/110/385/s103], Oct. 10, 2008, [122 Stat. 4096][/us/stat/122/4096].)
+([Pub. L. 110–385, title I][/us/pl/110/385/tI], § 103, Oct. 10, 2008, [122 Stat. 4096][/us/stat/122/4096].)
 
  __Codification__ 
 
@@ -81,7 +81,7 @@
 ----------
 
 [/us/usc/t47/s1302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs1302
-[/us/pl/110/385/s103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F385%2Fs103
+[/us/pl/110/385/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F385%2FtI
 [/us/stat/122/4096]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4096
 [/us/pl/110/385/s103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F385%2Fs103
 [/us/pl/110/385/s103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F385%2Fs103

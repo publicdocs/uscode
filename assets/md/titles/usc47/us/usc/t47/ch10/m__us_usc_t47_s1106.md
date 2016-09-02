@@ -95,7 +95,7 @@
 
             The term “tentative selectee” means a party that has been selected by the Commission under a licensing proceeding for grant of a license, but has not yet been granted the license because the Commission has not yet determined whether the party is qualified under the Commission’s rules for grant of the license.
 
-([Pub. L. 106–553, § 1(a)(2)][/us/pl/106/553/s1/a/2] \[title X, § 1007\], Dec. 21, 2000, [114 Stat. 2762][/us/stat/114/2762], 2762A–138.)
+([Pub. L. 106–553][/us/pl/106/553], § 1(a)(2) \[title X, § 1007\], Dec. 21, 2000, [114 Stat. 2762][/us/stat/114/2762], 2762A–138.)
 
  __References in Text__ 
 
@@ -111,7 +111,7 @@
 [/us/usc/t47/s309/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs309%2Fd%2F1
 [/us/usc/t47/s309/j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs309%2Fj
 [/us/usc/t47/s310]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs310
-[/us/pl/106/553/s1/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F553%2Fs1%2Fa%2F2
+[/us/pl/106/553]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F553
 [/us/stat/114/2762]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2762
 [/us/usc/t47/s1101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs1101
 

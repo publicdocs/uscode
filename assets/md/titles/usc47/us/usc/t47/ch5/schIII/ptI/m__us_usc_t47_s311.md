@@ -49,15 +49,15 @@
 
         (4) For purposes of this subsection, an application shall be deemed to be pending before the Commission from the time such application is filed with the Commission until an order of the Commission granting or denying it is no longer subject to rehearing by the Commission or to review by any court.
 
-([June 19, 1934, ch. 652][/us/act/1934-06-19/ch652], title III, § 311, [48 Stat. 1086][/us/stat/48/1086]; [July 16, 1952, ch. 879, § 9][/us/act/1952-07-16/ch879/s9], [66 Stat. 716][/us/stat/66/716]; [Pub. L. 86–752, § 5(a)][/us/pl/86/752/s5/a], Sept. 13, 1960, [74 Stat. 892][/us/stat/74/892]; [Pub. L. 97–35, title XII, § 1243][/us/pl/97/35/s1243], Aug. 13, 1981, [95 Stat. 737][/us/stat/95/737]; [Pub. L. 97–259, title I, § 116][/us/pl/97/259/s116], Sept. 13, 1982, [96 Stat. 1095][/us/stat/96/1095].)
+([June 19, 1934, ch. 652][/us/act/1934-06-19/ch652], title III, § 311, [48 Stat. 1086][/us/stat/48/1086]; [July 16, 1952, ch. 879][/us/act/1952-07-16/ch879], § 9, [66 Stat. 716][/us/stat/66/716]; [Pub. L. 86–752][/us/pl/86/752], § 5(a), Sept. 13, 1960, [74 Stat. 892][/us/stat/74/892]; [Pub. L. 97–35, title XII][/us/pl/97/35/tXII], § 1243, Aug. 13, 1981, [95 Stat. 737][/us/stat/95/737]; [Pub. L. 97–259, title I][/us/pl/97/259/tI], § 116, Sept. 13, 1982, [96 Stat. 1095][/us/stat/96/1095].)
 
  __Amendments__ 
 
-    1982—Subsec. (c)(3). [Pub. L. 97–259, § 116(a)][/us/pl/97/259/s116/a], inserted provision that the Commission may not approve the agreement if it determines that a party to the agreement filed its application for the purpose of reaching or carrying out the agreement, and struck out provision that if the agreement did not contemplate a merger, but contemplated the making of any direct or indirect payment to any party thereto in consideration of his withdrawal of his application, the Commission could determine the agreement to be consistent with the public interest, convenience, or necessity only if the amount or value of such payment, as determined by the Commission, was not in excess of the aggregate amount determined by the Commission to have been legitimately and prudently expended and to be expended by such applicant in connection with preparing, filing, and advocating the granting of his application.
+    1982—Subsec. (c)(3). [Pub. L. 97–259][/us/pl/97/259], § 116(a), inserted provision that the Commission may not approve the agreement if it determines that a party to the agreement filed its application for the purpose of reaching or carrying out the agreement, and struck out provision that if the agreement did not contemplate a merger, but contemplated the making of any direct or indirect payment to any party thereto in consideration of his withdrawal of his application, the Commission could determine the agreement to be consistent with the public interest, convenience, or necessity only if the amount or value of such payment, as determined by the Commission, was not in excess of the aggregate amount determined by the Commission to have been legitimately and prudently expended and to be expended by such applicant in connection with preparing, filing, and advocating the granting of his application.
 
-    Subsec. (d)(1). [Pub. L. 97–259, § 116(b)][/us/pl/97/259/s116/b], substituted “an application for the renewal of a license granted for the operation of a broadcasting station and one or more applications for a construction permit relating to such station” for “two or more applications for a license granted for the operation of a broadcasting station”.
+    Subsec. (d)(1). [Pub. L. 97–259][/us/pl/97/259], § 116(b), substituted “an application for the renewal of a license granted for the operation of a broadcasting station and one or more applications for a construction permit relating to such station” for “two or more applications for a license granted for the operation of a broadcasting station”.
 
-    Subsec. (d)(3)(B). [Pub. L. 97–259, § 116(c)][/us/pl/97/259/s116/c], struck out “license” after “filed its”.
+    Subsec. (d)(3)(B). [Pub. L. 97–259][/us/pl/97/259], § 116(c), struck out “license” after “filed its”.
 
     1981—Subsec. (d). [Pub. L. 97–35][/us/pl/97/35] added subsec. (d).
 
@@ -76,17 +76,17 @@
 [/us/usc/t47/s309]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs309
 [/us/act/1934-06-19/ch652]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-19%2Fch652
 [/us/stat/48/1086]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F1086
-[/us/act/1952-07-16/ch879/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1952-07-16%2Fch879%2Fs9
+[/us/act/1952-07-16/ch879]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1952-07-16%2Fch879
 [/us/stat/66/716]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F66%2F716
-[/us/pl/86/752/s5/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F752%2Fs5%2Fa
+[/us/pl/86/752]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F752
 [/us/stat/74/892]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F74%2F892
-[/us/pl/97/35/s1243]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs1243
+[/us/pl/97/35/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2FtXII
 [/us/stat/95/737]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F737
-[/us/pl/97/259/s116]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F259%2Fs116
+[/us/pl/97/259/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F259%2FtI
 [/us/stat/96/1095]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1095
-[/us/pl/97/259/s116/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F259%2Fs116%2Fa
-[/us/pl/97/259/s116/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F259%2Fs116%2Fb
-[/us/pl/97/259/s116/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F259%2Fs116%2Fc
+[/us/pl/97/259]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F259
+[/us/pl/97/259]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F259
+[/us/pl/97/259]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F259
 [/us/pl/97/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35
 [/us/pl/86/752]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F752
 [/us/usc/t47/s313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs313

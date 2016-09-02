@@ -183,17 +183,17 @@
 
             (B) a satellite community, as determined under such rules, regulations, and authorizations (or revisions thereof) as the Commission may prescribe in implementing the requirements of this section.
 
-([June 19, 1934, ch. 652][/us/act/1934-06-19/ch652], title III, § 340, as added [Pub. L. 108–447, div. J, title IX][/us/pl/108/447] \[title II, § 202(a)\], Dec. 8, 2004, [118 Stat. 3409][/us/stat/118/3409]; amended [Pub. L. 111–175, title II][/us/pl/111/175], §§ 203(a), 204(c), May 27, 2010, [124 Stat. 1245][/us/stat/124/1245], 1250.)
+([June 19, 1934, ch. 652][/us/act/1934-06-19/ch652], title III, § 340, as added [Pub. L. 108–447, div. J, title IX][/us/pl/108/447/dJ/tIX] \[title II, § 202(a)\], Dec. 8, 2004, [118 Stat. 3409][/us/stat/118/3409]; amended [Pub. L. 111–175, title II][/us/pl/111/175/tII], §§ 203(a), 204(c), May 27, 2010, [124 Stat. 1245][/us/stat/124/1245], 1250.)
 
  __References in Text__ 
 
-    Section 119(a)(4)(A) and [section 119(a)(12) of title 17][/us/usc/t17/s119/a/12], referred to in subsec. (e)(2), were redesignated as sections 119(a)(3)(A) and 119(a)(11) of title 17, respectively, by [Pub. L. 111–175, title I, § 102(h)(1)(B)][/us/pl/111/175/s102/h/1/B], May 27, 2010, [124 Stat. 1224][/us/stat/124/1224].
+    Section 119(a)(4)(A) and [section 119(a)(12) of title 17][/us/usc/t17/s119/a/12], referred to in subsec. (e)(2), were redesignated as sections 119(a)(3)(A) and 119(a)(11) of title 17, respectively, by [Pub. L. 111–175, title I][/us/pl/111/175/tI], § 102(h)(1)(B), May 27, 2010, [124 Stat. 1224][/us/stat/124/1224].
 
  __Amendments__ 
 
-    2010—Subsec. (b)(1), (2). [Pub. L. 111–175, § 203(a)][/us/pl/111/175/s203/a], amended pars. (1) and (2) generally. Prior to amendment, pars. (1) and (2) related to limitations for certain analog and digital services, respectively.
+    2010—Subsec. (b)(1), (2). [Pub. L. 111–175][/us/pl/111/175], § 203(a), amended pars. (1) and (2) generally. Prior to amendment, pars. (1) and (2) related to limitations for certain analog and digital services, respectively.
 
-    Subsec. (i)(4). [Pub. L. 111–175, § 204(c)][/us/pl/111/175/s204/c], struck out par. (4). Text read as follows: “The terms ‘equivalent bandwidth’ and ‘entire bandwidth’ shall be defined by the Commission by regulation, except that this paragraph shall not be construed—
+    Subsec. (i)(4). [Pub. L. 111–175][/us/pl/111/175], § 204(c), struck out par. (4). Text read as follows: “The terms ‘equivalent bandwidth’ and ‘entire bandwidth’ shall be defined by the Commission by regulation, except that this paragraph shall not be construed—
 
     “(A) to prevent a satellite operator from using compression technology;
 
@@ -211,7 +211,7 @@
 
  __Rulemaking Required__ 
 
-[Pub. L. 111–175, title II, § 203(b)][/us/pl/111/175/s203/b], May 27, 2010, [124 Stat. 1245][/us/stat/124/1245], provided that: 
+[Pub. L. 111–175, title II][/us/pl/111/175/tII], § 203(b), May 27, 2010, [124 Stat. 1245][/us/stat/124/1245], provided that: 
 
 > “Within 270 days after the date of the enactment of this Act \[deemed to refer to Feb. 27, 2010, see [section 307(a) of Pub. L. 111–175][/us/pl/111/175/s307/a], set out as an Effective Date of 2010 Amendment note under [section 111 of Title 17][/us/usc/t17/s111], Copyrights\], the Federal Communications Commission shall take all actions necessary to promulgate a rule to implement the amendments made by subsection (a) \[amending this section\].”
 
@@ -235,19 +235,19 @@
 [/us/usc/t47/s338/k]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs338%2Fk
 [/us/usc/t47/s339/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs339%2Fd
 [/us/act/1934-06-19/ch652]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-19%2Fch652
-[/us/pl/108/447]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447
+[/us/pl/108/447/dJ/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447%2FdJ%2FtIX
 [/us/stat/118/3409]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F3409
-[/us/pl/111/175]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F175
+[/us/pl/111/175/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F175%2FtII
 [/us/stat/124/1245]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1245
 [/us/usc/t17/s119/a/12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft17%2Fs119%2Fa%2F12
-[/us/pl/111/175/s102/h/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F175%2Fs102%2Fh%2F1%2FB
+[/us/pl/111/175/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F175%2FtI
 [/us/stat/124/1224]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1224
-[/us/pl/111/175/s203/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F175%2Fs203%2Fa
-[/us/pl/111/175/s204/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F175%2Fs204%2Fc
+[/us/pl/111/175]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F175
+[/us/pl/111/175]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F175
 [/us/pl/111/175]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F175
 [/us/pl/111/175/s307/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F175%2Fs307%2Fa
 [/us/usc/t17/s111]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft17%2Fs111
-[/us/pl/111/175/s203/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F175%2Fs203%2Fb
+[/us/pl/111/175/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F175%2FtII
 [/us/stat/124/1245]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1245
 [/us/pl/111/175/s307/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F175%2Fs307%2Fa
 [/us/usc/t17/s111]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft17%2Fs111

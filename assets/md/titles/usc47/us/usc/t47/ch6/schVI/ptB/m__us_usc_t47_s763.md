@@ -111,27 +111,27 @@
 
         (C) have a schedule of commitments in such Agreement that includes non-discriminatory market access to their satellite markets.
 
-([Pub. L. 87–624, title VI, § 621][/us/pl/87/624/s621], as added [Pub. L. 106–180, § 3][/us/pl/106/180/s3], Mar. 17, 2000, [114 Stat. 51][/us/stat/114/51]; amended [Pub. L. 107–77, title VI, § 628][/us/pl/107/77/s628], Nov. 28, 2001, [115 Stat. 804][/us/stat/115/804]; [Pub. L. 107–233, § 1][/us/pl/107/233/s1], Oct. 1, 2002, [116 Stat. 1480][/us/stat/116/1480]; [Pub. L. 108–39, § 2][/us/pl/108/39/s2], June 30, 2003, [117 Stat. 835][/us/stat/117/835]; [Pub. L. 108–228, § 1][/us/pl/108/228/s1], May 18, 2004, [118 Stat. 644][/us/stat/118/644]; [Pub. L. 108–371, § 1][/us/pl/108/371/s1], Oct. 25, 2004, [118 Stat. 1752][/us/stat/118/1752]; [Pub. L. 109–34, § 1][/us/pl/109/34/s1], July 12, 2005, [119 Stat. 377][/us/stat/119/377].)
+([Pub. L. 87–624, title VI][/us/pl/87/624/tVI], § 621, as added [Pub. L. 106–180][/us/pl/106/180], § 3, Mar. 17, 2000, [114 Stat. 51][/us/stat/114/51]; amended [Pub. L. 107–77, title VI][/us/pl/107/77/tVI], § 628, Nov. 28, 2001, [115 Stat. 804][/us/stat/115/804]; [Pub. L. 107–233][/us/pl/107/233], § 1, Oct. 1, 2002, [116 Stat. 1480][/us/stat/116/1480]; [Pub. L. 108–39][/us/pl/108/39], § 2, June 30, 2003, [117 Stat. 835][/us/stat/117/835]; [Pub. L. 108–228][/us/pl/108/228], § 1, May 18, 2004, [118 Stat. 644][/us/stat/118/644]; [Pub. L. 108–371][/us/pl/108/371], § 1, Oct. 25, 2004, [118 Stat. 1752][/us/stat/118/1752]; [Pub. L. 109–34][/us/pl/109/34], § 1, July 12, 2005, [119 Stat. 377][/us/stat/119/377].)
 
  __References in Text__ 
 
-    [Section 763b of this title][/us/usc/t47/s763b], referred to in text, was repealed by [Pub. L. 109–34, § 2][/us/pl/109/34/s2], July 12, 2005, [119 Stat. 377][/us/stat/119/377].
+    [Section 763b of this title][/us/usc/t47/s763b], referred to in text, was repealed by [Pub. L. 109–34][/us/pl/109/34], § 2, July 12, 2005, [119 Stat. 377][/us/stat/119/377].
 
-    [Section 763c of this title][/us/usc/t47/s763c], referred to in text, was amended generally by [Pub. L. 109–34, § 3][/us/pl/109/34/s3], July 12, 2005, [119 Stat. 377][/us/stat/119/377], and no longer relates to specific criteria for Inmarsat privatization.
+    [Section 763c of this title][/us/usc/t47/s763c], referred to in text, was amended generally by [Pub. L. 109–34][/us/pl/109/34], § 3, July 12, 2005, [119 Stat. 377][/us/stat/119/377], and no longer relates to specific criteria for Inmarsat privatization.
 
  __Amendments__ 
 
-    2005—Par. (5)(D)(ii). [Pub. L. 109–34, § 1(1)][/us/pl/109/34/s1/1], (2), struck out subcl. (I) designation after “managers who” and substituted “signatories; and” for “signatories, or (II) have any direct financial interest in or financial relationship to any signatories or former signatories, except that such interest may be managed through a blind trust or similar mechanism;”.
+    2005—Par. (5)(D)(ii). [Pub. L. 109–34][/us/pl/109/34], § 1(1), (2), struck out subcl. (I) designation after “managers who” and substituted “signatories; and” for “signatories, or (II) have any direct financial interest in or financial relationship to any signatories or former signatories, except that such interest may be managed through a blind trust or similar mechanism;”.
 
-    Par. (5)(D)(iii). [Pub. L. 109–34, § 1(3)][/us/pl/109/34/s1/3], substituted “organization.” for “organization; and”.
+    Par. (5)(D)(iii). [Pub. L. 109–34][/us/pl/109/34], § 1(3), substituted “organization.” for “organization; and”.
 
-    Par. (5)(D)(iv). [Pub. L. 109–34, § 1(4)][/us/pl/109/34/s1/4], struck out cl. (iv) which read as follows: “in the case of a separated entity, have no officers or directors, who (I) are officers or managers of any intergovernmental organization, or (II) have any direct financial interest in or financial relationship to any international organization, except that such interest may be managed through a blind trust or similar mechanism.”
+    Par. (5)(D)(iv). [Pub. L. 109–34][/us/pl/109/34], § 1(4), struck out cl. (iv) which read as follows: “in the case of a separated entity, have no officers or directors, who (I) are officers or managers of any intergovernmental organization, or (II) have any direct financial interest in or financial relationship to any international organization, except that such interest may be managed through a blind trust or similar mechanism.”
 
     2004—Par. (5)(A)(i). [Pub. L. 108–228][/us/pl/108/228] substituted “June 30, 2005” for “December 31, 2003” and “December 31, 2005” for “June 30, 2004”.
 
-    Par. (5)(A)(ii). [Pub. L. 108–371, § 1(1)][/us/pl/108/371/s1/1], substituted “June 30, 2005” for “June 30, 2004”.
+    Par. (5)(A)(ii). [Pub. L. 108–371][/us/pl/108/371], § 1(1), substituted “June 30, 2005” for “June 30, 2004”.
 
-    Par. (5)(F), (G). [Pub. L. 108–371, § 1(2)][/us/pl/108/371/s1/2], added subpars. (F) and (G).
+    Par. (5)(F), (G). [Pub. L. 108–371][/us/pl/108/371], § 1(2), added subpars. (F) and (G).
 
     2003—Par. (5)(A)(ii). [Pub. L. 108–39][/us/pl/108/39] substituted “June 30, 2004” for “December 31, 2002” and “December 31, 2004” for “June 30, 2003”.
 
@@ -150,33 +150,33 @@
 ----------
 ----------
 
-[/us/pl/87/624/s621]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F624%2Fs621
-[/us/pl/106/180/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F180%2Fs3
+[/us/pl/87/624/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F624%2FtVI
+[/us/pl/106/180]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F180
 [/us/stat/114/51]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F51
-[/us/pl/107/77/s628]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F77%2Fs628
+[/us/pl/107/77/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F77%2FtVI
 [/us/stat/115/804]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F804
-[/us/pl/107/233/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F233%2Fs1
+[/us/pl/107/233]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F233
 [/us/stat/116/1480]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1480
-[/us/pl/108/39/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F39%2Fs2
+[/us/pl/108/39]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F39
 [/us/stat/117/835]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F835
-[/us/pl/108/228/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F228%2Fs1
+[/us/pl/108/228]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F228
 [/us/stat/118/644]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F644
-[/us/pl/108/371/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F371%2Fs1
+[/us/pl/108/371]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F371
 [/us/stat/118/1752]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1752
-[/us/pl/109/34/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F34%2Fs1
+[/us/pl/109/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F34
 [/us/stat/119/377]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F377
 [/us/usc/t47/s763b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs763b
-[/us/pl/109/34/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F34%2Fs2
+[/us/pl/109/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F34
 [/us/stat/119/377]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F377
 [/us/usc/t47/s763c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs763c
-[/us/pl/109/34/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F34%2Fs3
+[/us/pl/109/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F34
 [/us/stat/119/377]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F377
-[/us/pl/109/34/s1/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F34%2Fs1%2F1
-[/us/pl/109/34/s1/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F34%2Fs1%2F3
-[/us/pl/109/34/s1/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F34%2Fs1%2F4
+[/us/pl/109/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F34
+[/us/pl/109/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F34
+[/us/pl/109/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F34
 [/us/pl/108/228]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F228
-[/us/pl/108/371/s1/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F371%2Fs1%2F1
-[/us/pl/108/371/s1/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F371%2Fs1%2F2
+[/us/pl/108/371]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F371
+[/us/pl/108/371]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F371
 [/us/pl/108/39]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F39
 [/us/pl/107/233]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F233
 [/us/pl/107/77]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F77

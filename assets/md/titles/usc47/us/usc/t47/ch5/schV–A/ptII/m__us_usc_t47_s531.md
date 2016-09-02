@@ -43,7 +43,7 @@
 
         For purposes of this section, the term “institutional network” means a communication network which is constructed or operated by the cable operator and which is generally available only to subscribers who are not residential subscribers.
 
-([June 19, 1934, ch. 652][/us/act/1934-06-19/ch652], title VI, § 611, as added [Pub. L. 98–549, § 2][/us/pl/98/549/s2], Oct. 30, 1984, [98 Stat. 2782][/us/stat/98/2782]; [Pub. L. 104–104, title V, § 506(a)][/us/pl/104/104/s506/a], Feb. 8, 1996, [110 Stat. 136][/us/stat/110/136].)
+([June 19, 1934, ch. 652][/us/act/1934-06-19/ch652], title VI, § 611, as added [Pub. L. 98–549][/us/pl/98/549], § 2, Oct. 30, 1984, [98 Stat. 2782][/us/stat/98/2782]; [Pub. L. 104–104, title V][/us/pl/104/104/tV], § 506(a), Feb. 8, 1996, [110 Stat. 136][/us/stat/110/136].)
 
  __Amendments__ 
 
@@ -55,7 +55,7 @@
 
  __Regulations__ 
 
-[Pub. L. 102–385, § 10(c)][/us/pl/102/385/s10/c], Oct. 5, 1992, [106 Stat. 1486][/us/stat/106/1486], provided that: 
+[Pub. L. 102–385][/us/pl/102/385], § 10(c), Oct. 5, 1992, [106 Stat. 1486][/us/stat/106/1486], provided that: 
 
 > “Within 180 days following the date of the enactment of this Act \[Oct. 5, 1992\], the Federal Communications Commission shall promulgate such regulations as may be necessary to enable a cable operator of a cable system to prohibit the use, on such system, of any channel capacity of any public, educational, or governmental access facility for any programming which contains obscene material, sexually explicit conduct, or material soliciting or promoting unlawful conduct.”
 
@@ -71,14 +71,14 @@
 [/us/usc/t47/s546]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs546
 [/us/usc/t47/s544/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs544%2Fd
 [/us/act/1934-06-19/ch652]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-19%2Fch652
-[/us/pl/98/549/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F549%2Fs2
+[/us/pl/98/549]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F549
 [/us/stat/98/2782]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2782
-[/us/pl/104/104/s506/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F104%2Fs506%2Fa
+[/us/pl/104/104/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F104%2FtV
 [/us/stat/110/136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F136
 [/us/pl/104/104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F104
 [/us/pl/98/549/s9/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F549%2Fs9%2Fa
 [/us/usc/t47/s521]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs521
-[/us/pl/102/385/s10/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F385%2Fs10%2Fc
+[/us/pl/102/385]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F385
 [/us/stat/106/1486]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F1486
 [/us/pl/102/385/s10/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F385%2Fs10%2Fc
 

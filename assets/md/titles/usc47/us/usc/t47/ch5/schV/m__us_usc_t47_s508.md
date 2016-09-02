@@ -43,7 +43,7 @@
 
         Any person who violates any provision of this section shall, for each such violation, be fined not more than $10,000 or imprisoned not more than one year, or both.
 
-([June 19, 1934, ch. 652][/us/act/1934-06-19/ch652], title V, § 507, formerly § 508, as added [Pub. L. 86–752, § 8(b)][/us/pl/86/752/s8/b], Sept. 13, 1960, [74 Stat. 896][/us/stat/74/896]; renumbered § 507, [Pub. L. 96–507, § 1][/us/pl/96/507/s1], Dec. 8, 1980, [94 Stat. 2747][/us/stat/94/2747].)
+([June 19, 1934, ch. 652][/us/act/1934-06-19/ch652], title V, § 507, formerly § 508, as added [Pub. L. 86–752][/us/pl/86/752], § 8(b), Sept. 13, 1960, [74 Stat. 896][/us/stat/74/896]; renumbered § 507, [Pub. L. 96–507][/us/pl/96/507], § 1, Dec. 8, 1980, [94 Stat. 2747][/us/stat/94/2747].)
 
  __Prior Provisions__ 
 
@@ -60,9 +60,9 @@
 [/us/usc/t47/s317]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs317
 [/us/usc/t47/s317]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs317
 [/us/act/1934-06-19/ch652]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-19%2Fch652
-[/us/pl/86/752/s8/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F752%2Fs8%2Fb
+[/us/pl/86/752]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F752
 [/us/stat/74/896]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F74%2F896
-[/us/pl/96/507/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F507%2Fs1
+[/us/pl/96/507]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F507
 [/us/stat/94/2747]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2747
 [/us/act/1934-06-19/ch652]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-19%2Fch652
 [/us/pl/96/507/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F507%2Fs1

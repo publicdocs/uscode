@@ -61,11 +61,11 @@
 
         Notwithstanding [section 1522 of title 15][/us/usc/t15/s1522], neither the Secretary, the Assistant Secretary, nor any officer or employee of the NTIA shall solicit any gift or bequest of property, both real and personal, from any entity for the purpose of furthering the authorized functions of the NTIA if such solicitation would create a conflict of interest or an appearance of a conflict of interest.
 
-([Pub. L. 102–538, title I, § 105][/us/pl/102/538/s105], Oct. 27, 1992, [106 Stat. 3538][/us/stat/106/3538].)
+([Pub. L. 102–538, title I][/us/pl/102/538/tI], § 105, Oct. 27, 1992, [106 Stat. 3538][/us/stat/106/3538].)
 
  __References in Text__ 
 
-    [Section 744(a) of this title][/us/usc/t47/s744/a], referred to in subsec. (a)(2), was repealed by [Pub. L. 103–414, title III, § 304(b)(4)(A)][/us/pl/103/414/s304/b/4/A], Oct. 25, 1994, [108 Stat. 4297][/us/stat/108/4297].
+    [Section 744(a) of this title][/us/usc/t47/s744/a], referred to in subsec. (a)(2), was repealed by [Pub. L. 103–414, title III][/us/pl/103/414/tIII], § 304(b)(4)(A), Oct. 25, 1994, [108 Stat. 4297][/us/stat/108/4297].
 
  __Change of Name__ 
 
@@ -87,10 +87,10 @@
 [/us/usc/t47/s902/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs902%2Fb
 [/us/usc/t47/s902/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs902%2Fb
 [/us/usc/t15/s1522]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1522
-[/us/pl/102/538/s105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F538%2Fs105
+[/us/pl/102/538/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F538%2FtI
 [/us/stat/106/3538]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3538
 [/us/usc/t47/s744/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs744%2Fa
-[/us/pl/103/414/s304/b/4/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F414%2Fs304%2Fb%2F4%2FA
+[/us/pl/103/414/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F414%2FtIII
 [/us/stat/108/4297]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4297
 [/us/pl/104/14/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F14%2Fs1%2Fa
 [/us/usc/t2/s21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs21

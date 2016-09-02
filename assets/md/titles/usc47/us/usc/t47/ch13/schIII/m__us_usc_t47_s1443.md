@@ -35,7 +35,7 @@
 
         (6) convene working groups of relevant government and commercial parties to achieve the requirements in paragraphs (1) through (5).
 
-([Pub. L. 112–96, title VI, § 6303][/us/pl/112/96/s6303], Feb. 22, 2012, [126 Stat. 221][/us/stat/126/221].)
+([Pub. L. 112–96, title VI][/us/pl/112/96/tVI], § 6303, Feb. 22, 2012, [126 Stat. 221][/us/stat/126/221].)
 
 ----------
 
@@ -45,7 +45,7 @@
 ----------
 
 [/us/usc/t47/s1425/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs1425%2Fa
-[/us/pl/112/96/s6303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F96%2Fs6303
+[/us/pl/112/96/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F96%2FtVI
 [/us/stat/126/221]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F221
 
 

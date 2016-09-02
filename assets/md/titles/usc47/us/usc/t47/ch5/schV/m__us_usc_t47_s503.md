@@ -97,7 +97,7 @@
 
             For purposes of this paragraph, “date of commencement of the current term of such license” means the date of commencement of the last term of license for which the licensee has been granted a license by the Commission. A separate license term shall not be deemed to have commenced as a result of continuing a license in effect under [section 307(c) of this title][/us/usc/t47/s307/c] pending decision on an application for renewal of the license.
 
-([June 19, 1934, ch. 652][/us/act/1934-06-19/ch652], title V, § 503, [48 Stat. 1101][/us/stat/48/1101]; [Pub. L. 86–752, § 7(a)][/us/pl/86/752/s7/a], Sept. 13, 1960, [74 Stat. 894][/us/stat/74/894]; [Pub. L. 95–234, § 2][/us/pl/95/234/s2], Feb. 21, 1978, [92 Stat. 33][/us/stat/92/33]; [Pub. L. 96–507, § 2(b)][/us/pl/96/507/s2/b], Dec. 8, 1980, [94 Stat. 2747][/us/stat/94/2747]; [Pub. L. 97–259, title I, § 124][/us/pl/97/259/s124], Sept. 13, 1982, [96 Stat. 1098][/us/stat/96/1098]; [Pub. L. 98–214, § 4(b)][/us/pl/98/214/s4/b], Dec. 8, 1983, [97 Stat. 1468][/us/stat/97/1468]; [Pub. L. 101–239, title III, § 3002(i)][/us/pl/101/239/s3002/i], Dec. 19, 1989, [103 Stat. 2131][/us/stat/103/2131]; [Pub. L. 101–396, § 10][/us/pl/101/396/s10], Sept. 28, 1990, [104 Stat. 851][/us/stat/104/851]; [Pub. L. 102–538, title II][/us/pl/102/538], §§ 206, 210(b), Oct. 27, 1992, [106 Stat. 3543][/us/stat/106/3543], 3544; [Pub. L. 109–235, § 2][/us/pl/109/235/s2], June 15, 2006, [120 Stat. 491][/us/stat/120/491]; [Pub. L. 110–385, title II, § 221][/us/pl/110/385/s221], Oct. 10, 2008, [122 Stat. 4105][/us/stat/122/4105]; [Pub. L. 111–260, title I, § 104(c)][/us/pl/111/260/s104/c], Oct. 8, 2010, [124 Stat. 2761][/us/stat/124/2761].)
+([June 19, 1934, ch. 652][/us/act/1934-06-19/ch652], title V, § 503, [48 Stat. 1101][/us/stat/48/1101]; [Pub. L. 86–752][/us/pl/86/752], § 7(a), Sept. 13, 1960, [74 Stat. 894][/us/stat/74/894]; [Pub. L. 95–234][/us/pl/95/234], § 2, Feb. 21, 1978, [92 Stat. 33][/us/stat/92/33]; [Pub. L. 96–507][/us/pl/96/507], § 2(b), Dec. 8, 1980, [94 Stat. 2747][/us/stat/94/2747]; [Pub. L. 97–259, title I][/us/pl/97/259/tI], § 124, Sept. 13, 1982, [96 Stat. 1098][/us/stat/96/1098]; [Pub. L. 98–214][/us/pl/98/214], § 4(b), Dec. 8, 1983, [97 Stat. 1468][/us/stat/97/1468]; [Pub. L. 101–239, title III][/us/pl/101/239/tIII], § 3002(i), Dec. 19, 1989, [103 Stat. 2131][/us/stat/103/2131]; [Pub. L. 101–396][/us/pl/101/396], § 10, Sept. 28, 1990, [104 Stat. 851][/us/stat/104/851]; [Pub. L. 102–538, title II][/us/pl/102/538/tII], §§ 206, 210(b), Oct. 27, 1992, [106 Stat. 3543][/us/stat/106/3543], 3544; [Pub. L. 109–235][/us/pl/109/235], § 2, June 15, 2006, [120 Stat. 491][/us/stat/120/491]; [Pub. L. 110–385, title II][/us/pl/110/385/tII], § 221, Oct. 10, 2008, [122 Stat. 4105][/us/stat/122/4105]; [Pub. L. 111–260, title I][/us/pl/111/260/tI], § 104(c), Oct. 8, 2010, [124 Stat. 2761][/us/stat/124/2761].)
 
  __References in Text__ 
 
@@ -111,17 +111,17 @@
 
     2008—Subsec. (b)(1)(D). [Pub. L. 110–385][/us/pl/110/385] substituted “1464, or 2252” for “or 1464”.
 
-    2006—Subsec. (b)(2)(C). [Pub. L. 109–235, § 2(2)][/us/pl/109/235/s2/2], added subpar. (C). Former subpar. (C) redesignated (D).
+    2006—Subsec. (b)(2)(C). [Pub. L. 109–235][/us/pl/109/235], § 2(2), added subpar. (C). Former subpar. (C) redesignated (D).
 
-    Subsec. (b)(2)(D). [Pub. L. 109–235, § 2(1)][/us/pl/109/235/s2/1], (3), redesignated subpar. (C) as (D) and substituted “subparagraph (A), (B), or (C)” for “subparagraph (A) or (B)”. Former subpar. (D) redesignated (E).
+    Subsec. (b)(2)(D). [Pub. L. 109–235][/us/pl/109/235], § 2(1), (3), redesignated subpar. (C) as (D) and substituted “subparagraph (A), (B), or (C)” for “subparagraph (A) or (B)”. Former subpar. (D) redesignated (E).
 
     Subsec. (b)(2)(E). [Pub. L. 109–235][/us/pl/109/235], § (2)(1), redesignated subpar. (D) as (E).
 
-    1992—Subsec. (b)(5). [Pub. L. 102–538, § 210(b)][/us/pl/102/538/s210/b], substituted “system operator,” for “system operator or” and inserted “, or in the case of violations of [section 303(q) of this title][/us/usc/t47/s303/q], if the person involved is a nonlicensee tower owner who has previously received notice of the obligations imposed by [section 303(q) of this title][/us/usc/t47/s303/q] from the Commission or the permittee or licensee who uses that tower” after “[section 307(e) of this title][/us/usc/t47/s307/e]”.
+    1992—Subsec. (b)(5). [Pub. L. 102–538][/us/pl/102/538], § 210(b), substituted “system operator,” for “system operator or” and inserted “, or in the case of violations of [section 303(q) of this title][/us/usc/t47/s303/q], if the person involved is a nonlicensee tower owner who has previously received notice of the obligations imposed by [section 303(q) of this title][/us/usc/t47/s303/q] from the Commission or the permittee or licensee who uses that tower” after “[section 307(e) of this title][/us/usc/t47/s307/e]”.
 
-    Subsec. (b)(6). [Pub. L. 102–538, § 206(2)][/us/pl/102/538/s206/2], inserted at end “For purposes of this paragraph, ‘date of commencement of the current term of such license’ means the date of commencement of the last term of license for which the licensee has been granted a license by the Commission. A separate license term shall not be deemed to have commenced as a result of continuing a license in effect under [section 307(c) of this title][/us/usc/t47/s307/c] pending decision on an application for renewal of the license.”
+    Subsec. (b)(6). [Pub. L. 102–538][/us/pl/102/538], § 206(2), inserted at end “For purposes of this paragraph, ‘date of commencement of the current term of such license’ means the date of commencement of the last term of license for which the licensee has been granted a license by the Commission. A separate license term shall not be deemed to have commenced as a result of continuing a license in effect under [section 307(c) of this title][/us/usc/t47/s307/c] pending decision on an application for renewal of the license.”
 
-    Subsec. (b)(6)(A). [Pub. L. 102–538, § 206(1)][/us/pl/102/538/s206/1], struck out “so long as such violation occurred within 3 years prior to the date of issuance of such required notice” after “whichever is earlier”.
+    Subsec. (b)(6)(A). [Pub. L. 102–538][/us/pl/102/538], § 206(1), struck out “so long as such violation occurred within 3 years prior to the date of issuance of such required notice” after “whichever is earlier”.
 
     1990—Subsec. (b)(5). [Pub. L. 101–396][/us/pl/101/396] inserted “and if such person is not an applicant for a license, permit, certificate, or other authorization issued by the Commission,” before “unless, prior”.
 
@@ -158,43 +158,43 @@
 [/us/usc/t47/s307/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs307%2Fc
 [/us/act/1934-06-19/ch652]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-19%2Fch652
 [/us/stat/48/1101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F1101
-[/us/pl/86/752/s7/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F752%2Fs7%2Fa
+[/us/pl/86/752]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F752
 [/us/stat/74/894]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F74%2F894
-[/us/pl/95/234/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F234%2Fs2
+[/us/pl/95/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F234
 [/us/stat/92/33]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F33
-[/us/pl/96/507/s2/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F507%2Fs2%2Fb
+[/us/pl/96/507]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F507
 [/us/stat/94/2747]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2747
-[/us/pl/97/259/s124]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F259%2Fs124
+[/us/pl/97/259/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F259%2FtI
 [/us/stat/96/1098]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1098
-[/us/pl/98/214/s4/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F214%2Fs4%2Fb
+[/us/pl/98/214]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F214
 [/us/stat/97/1468]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F1468
-[/us/pl/101/239/s3002/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2Fs3002%2Fi
+[/us/pl/101/239/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2FtIII
 [/us/stat/103/2131]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F2131
-[/us/pl/101/396/s10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F396%2Fs10
+[/us/pl/101/396]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F396
 [/us/stat/104/851]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F851
-[/us/pl/102/538]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F538
+[/us/pl/102/538/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F538%2FtII
 [/us/stat/106/3543]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3543
-[/us/pl/109/235/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F235%2Fs2
+[/us/pl/109/235]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F235
 [/us/stat/120/491]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F491
-[/us/pl/110/385/s221]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F385%2Fs221
+[/us/pl/110/385/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F385%2FtII
 [/us/stat/122/4105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4105
-[/us/pl/111/260/s104/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F260%2Fs104%2Fc
+[/us/pl/111/260/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F260%2FtI
 [/us/stat/124/2761]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2761
 [/us/act/1934-06-19/ch652]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-19%2Fch652
 [/us/stat/48/1064]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F1064
 [/us/usc/t47/s609]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs609
 [/us/pl/111/260]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F260
 [/us/pl/110/385]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F385
-[/us/pl/109/235/s2/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F235%2Fs2%2F2
-[/us/pl/109/235/s2/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F235%2Fs2%2F1
 [/us/pl/109/235]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F235
-[/us/pl/102/538/s210/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F538%2Fs210%2Fb
+[/us/pl/109/235]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F235
+[/us/pl/109/235]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F235
+[/us/pl/102/538]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F538
 [/us/usc/t47/s303/q]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs303%2Fq
 [/us/usc/t47/s303/q]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs303%2Fq
 [/us/usc/t47/s307/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs307%2Fe
-[/us/pl/102/538/s206/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F538%2Fs206%2F2
+[/us/pl/102/538]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F538
 [/us/usc/t47/s307/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs307%2Fc
-[/us/pl/102/538/s206/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F538%2Fs206%2F1
+[/us/pl/102/538]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F538
 [/us/pl/101/396]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F396
 [/us/pl/101/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239
 [/us/pl/98/214]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F214

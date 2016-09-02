@@ -21,15 +21,15 @@
 
     (b) Every willful failure on the part of the master of a vessel of the United States to enforce or to comply with the provisions of this part or the rules and regulations of the Commission made in pursuance thereof shall cause him to forfeit to the United States the sum of $1,000.
 
-([June 19, 1934, ch. 652][/us/act/1934-06-19/ch652], title III, § 386, as added [Aug. 6, 1956, ch. 973, § 1][/us/act/1956-08-06/ch973/s1], [70 Stat. 1048][/us/stat/70/1048]; amended [Pub. L. 101–239, title III, § 3002(h)][/us/pl/101/239/s3002/h], Dec. 19, 1989, [103 Stat. 2131][/us/stat/103/2131]; [Pub. L. 103–414, title III, § 303(a)(20)(F)][/us/pl/103/414/s303/a/20/F], Oct. 25, 1994, [108 Stat. 4295][/us/stat/108/4295].)
+([June 19, 1934, ch. 652][/us/act/1934-06-19/ch652], title III, § 386, as added [Aug. 6, 1956, ch. 973][/us/act/1956-08-06/ch973], § 1, [70 Stat. 1048][/us/stat/70/1048]; amended [Pub. L. 101–239, title III][/us/pl/101/239/tIII], § 3002(h), Dec. 19, 1989, [103 Stat. 2131][/us/stat/103/2131]; [Pub. L. 103–414, title III][/us/pl/103/414/tIII], § 303(a)(20)(F), Oct. 25, 1994, [108 Stat. 4295][/us/stat/108/4295].)
 
  __Amendments__ 
 
     1994—[Pub. L. 103–414][/us/pl/103/414] inserted section catchline.
 
-    1989—Subsec. (a). [Pub. L. 101–239, § 3002(h)(1)][/us/pl/101/239/s3002/h/1], substituted “$5,000” for “$500”.
+    1989—Subsec. (a). [Pub. L. 101–239][/us/pl/101/239], § 3002(h)(1), substituted “$5,000” for “$500”.
 
-    Subsec. (b). [Pub. L. 101–239, § 3002(h)(2)][/us/pl/101/239/s3002/h/2], substituted “$1,000” for “$100”.
+    Subsec. (b). [Pub. L. 101–239][/us/pl/101/239], § 3002(h)(2), substituted “$1,000” for “$100”.
 
  __Effective Date__ 
 
@@ -43,15 +43,15 @@
 ----------
 
 [/us/act/1934-06-19/ch652]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-19%2Fch652
-[/us/act/1956-08-06/ch973/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-06%2Fch973%2Fs1
+[/us/act/1956-08-06/ch973]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-06%2Fch973
 [/us/stat/70/1048]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70%2F1048
-[/us/pl/101/239/s3002/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2Fs3002%2Fh
+[/us/pl/101/239/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2FtIII
 [/us/stat/103/2131]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F2131
-[/us/pl/103/414/s303/a/20/F]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F414%2Fs303%2Fa%2F20%2FF
+[/us/pl/103/414/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F414%2FtIII
 [/us/stat/108/4295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4295
 [/us/pl/103/414]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F414
-[/us/pl/101/239/s3002/h/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2Fs3002%2Fh%2F1
-[/us/pl/101/239/s3002/h/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2Fs3002%2Fh%2F2
+[/us/pl/101/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239
+[/us/pl/101/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239
 [/us/usc/t47/s381]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs381
 
 

@@ -23,7 +23,7 @@
 
         The head of the Executive agency shall place the information with respect to which a determination was made under subsection (a) in a separate annex to the notification or report required by section 923 or 928 of this title. The annex shall be provided to the subcommittee of primary jurisdiction of the congressional committee of primary jurisdiction in accordance with appropriate national security stipulations but shall not be disclosed to the public or provided to any unauthorized person through any means.
 
-([Pub. L. 102–538, title I, § 119][/us/pl/102/538/s119], as added [Pub. L. 112–96, title VI, § 6703][/us/pl/112/96/s6703], Feb. 22, 2012, [126 Stat. 255][/us/stat/126/255].)
+([Pub. L. 102–538, title I][/us/pl/102/538/tI], § 119, as added [Pub. L. 112–96, title VI][/us/pl/112/96/tVI], § 6703, Feb. 22, 2012, [126 Stat. 255][/us/stat/126/255].)
 
 ----------
 
@@ -33,8 +33,8 @@
 ----------
 
 [/us/usc/t5/s105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs105
-[/us/pl/102/538/s119]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F538%2Fs119
-[/us/pl/112/96/s6703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F96%2Fs6703
+[/us/pl/102/538/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F538%2FtI
+[/us/pl/112/96/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F96%2FtVI
 [/us/stat/126/255]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F255
 
 

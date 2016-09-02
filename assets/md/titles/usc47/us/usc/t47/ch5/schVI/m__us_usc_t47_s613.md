@@ -197,7 +197,7 @@
 
         Nothing in this section shall be construed to authorize any private right of action to enforce any requirement of this section or any regulation thereunder. The Commission shall have exclusive jurisdiction with respect to any complaint under this section.
 
-([June 19, 1934, ch. 652][/us/act/1934-06-19/ch652], title VII, § 713, as added [Pub. L. 104–104, title III, § 305][/us/pl/104/104/s305], Feb. 8, 1996, [110 Stat. 126][/us/stat/110/126]; amended [Pub. L. 111–260, title II, § 202][/us/pl/111/260/s202], Oct. 8, 2010, [124 Stat. 2767][/us/stat/124/2767]; [Pub. L. 111–265, § 2(6)][/us/pl/111/265/s2/6]–(11), Oct. 8, 2010, [124 Stat. 2795][/us/stat/124/2795], 2796.)
+([June 19, 1934, ch. 652][/us/act/1934-06-19/ch652], title VII, § 713, as added [Pub. L. 104–104, title III][/us/pl/104/104/tIII], § 305, Feb. 8, 1996, [110 Stat. 126][/us/stat/110/126]; amended [Pub. L. 111–260, title II][/us/pl/111/260/tII], § 202, Oct. 8, 2010, [124 Stat. 2767][/us/stat/124/2767]; [Pub. L. 111–265][/us/pl/111/265], § 2(6)–(11), Oct. 8, 2010, [124 Stat. 2795][/us/stat/124/2795], 2796.)
 
  __References in Text__ 
 
@@ -207,35 +207,35 @@
 
  __Prior Provisions__ 
 
-    A prior section 613, [act June 19, 1934, ch. 652][/us/act/1934-06-19/ch652], title VII, § 713, as added Nov. 16, 1988, [Pub. L. 100–667, title II, § 203][/us/pl/100/667/s203], [102 Stat. 3958][/us/stat/102/3958], related to report to Congress on discrimination, prior to repeal by [Pub. L. 103–414, title III, § 304(a)(18)][/us/pl/103/414/s304/a/18], Oct. 25, 1994, [108 Stat. 4297][/us/stat/108/4297].
+    A prior section 613, [act June 19, 1934, ch. 652, title VII][/us/act/1934-06-19/ch652/tVII], § 713, as added Nov. 16, 1988, [Pub. L. 100–667, title II][/us/pl/100/667/tII], § 203, [102 Stat. 3958][/us/stat/102/3958], related to report to Congress on discrimination, prior to repeal by [Pub. L. 103–414, title III][/us/pl/103/414/tIII], § 304(a)(18), Oct. 25, 1994, [108 Stat. 4297][/us/stat/108/4297].
 
  __Amendments__ 
 
-    2010—Subsec. (c). [Pub. L. 111–260, § 202(b)][/us/pl/111/260/s202/b], added subsec. (c) and struck out former subsec. (c). Prior to amendment, text read as follows: “Such regulations shall include an appropriate schedule of deadlines for the provision of closed captioning of video programming.”
+    2010—Subsec. (c). [Pub. L. 111–260][/us/pl/111/260], § 202(b), added subsec. (c) and struck out former subsec. (c). Prior to amendment, text read as follows: “Such regulations shall include an appropriate schedule of deadlines for the provision of closed captioning of video programming.”
 
-    Subsec. (c)(2)(D)(iii). [Pub. L. 111–265, § 2(9)][/us/pl/111/265/s2/9], substituted “programming distributors” for “programming distribution”.
+    Subsec. (c)(2)(D)(iii). [Pub. L. 111–265][/us/pl/111/265], § 2(9), substituted “programming distributors” for “programming distribution”.
 
-    Subsec. (c)(2)(D)(v). [Pub. L. 111–265, § 2(10)][/us/pl/111/265/s2/10], substituted “programming providers” for “progamming providers”.
+    Subsec. (c)(2)(D)(v). [Pub. L. 111–265][/us/pl/111/265], § 2(10), substituted “programming providers” for “progamming providers”.
 
-    Subsec. (c)(2)(D)(vi). [Pub. L. 111–265, § 2(11)][/us/pl/111/265/s2/11], substituted “and makes” for “and video description signals and make”.
+    Subsec. (c)(2)(D)(vi). [Pub. L. 111–265][/us/pl/111/265], § 2(11), substituted “and makes” for “and video description signals and make”.
 
-    Subsec. (d)(3). [Pub. L. 111–260, § 202(c)][/us/pl/111/260/s202/c], added par. (3) and struck out former par. (3) which read as follows: “a provider of video programming or program owner may petition the Commission for an exemption from the requirements of this section, and the Commission may grant such petition upon a showing that the requirements contained in this section would result in an undue burden.”
+    Subsec. (d)(3). [Pub. L. 111–260][/us/pl/111/260], § 202(c), added par. (3) and struck out former par. (3) which read as follows: “a provider of video programming or program owner may petition the Commission for an exemption from the requirements of this section, and the Commission may grant such petition upon a showing that the requirements contained in this section would result in an undue burden.”
 
-    Subsec. (f). [Pub. L. 111–260, § 202(a)(1)][/us/pl/111/260/s202/a/1], (3), added subsec. (f) and struck out former subsec. (f). Prior to amendment, text read as follows: “Within 6 months after February 8, 1996, the Commission shall commence an inquiry to examine the use of video descriptions on video programming in order to ensure the accessibility of video programming to persons with visual impairments, and report to Congress on its findings. The Commission’s report shall assess appropriate methods and schedules for phasing video descriptions into the marketplace, technical and quality standards for video descriptions, a definition of programming for which video descriptions would apply, and other technical and legal issues that the Commission deems appropriate.”
+    Subsec. (f). [Pub. L. 111–260][/us/pl/111/260], § 202(a)(1), (3), added subsec. (f) and struck out former subsec. (f). Prior to amendment, text read as follows: “Within 6 months after February 8, 1996, the Commission shall commence an inquiry to examine the use of video descriptions on video programming in order to ensure the accessibility of video programming to persons with visual impairments, and report to Congress on its findings. The Commission’s report shall assess appropriate methods and schedules for phasing video descriptions into the marketplace, technical and quality standards for video descriptions, a definition of programming for which video descriptions would apply, and other technical and legal issues that the Commission deems appropriate.”
 
-    Subsec. (f)(2)(A). [Pub. L. 111–265, § 2(6)][/us/pl/111/265/s2/6], substituted “such” for “and”.
+    Subsec. (f)(2)(A). [Pub. L. 111–265][/us/pl/111/265], § 2(6), substituted “such” for “and”.
 
-    Subsec. (f)(2)(B). [Pub. L. 111–265, § 2(7)][/us/pl/111/265/s2/7], inserted “have” after “nonbroadcast networks that”.
+    Subsec. (f)(2)(B). [Pub. L. 111–265][/us/pl/111/265], § 2(7), inserted “have” after “nonbroadcast networks that”.
 
-    Subsec. (f)(4)(C)(iii). [Pub. L. 111–265, § 2(8)][/us/pl/111/265/s2/8], inserted “and Commerce” after “Energy”.
+    Subsec. (f)(4)(C)(iii). [Pub. L. 111–265][/us/pl/111/265], § 2(8), inserted “and Commerce” after “Energy”.
 
-    Subsec. (g). [Pub. L. 111–260, § 202(a)(1)][/us/pl/111/260/s202/a/1], (3), added subsec. (g) and struck out former subsec. (g). Prior to amendment, text read as follows: “For purposes of this section, ‘video description’ means the insertion of audio narrated descriptions of a television program’s key visual elements into natural pauses between the program’s dialogue.”
+    Subsec. (g). [Pub. L. 111–260][/us/pl/111/260], § 202(a)(1), (3), added subsec. (g) and struck out former subsec. (g). Prior to amendment, text read as follows: “For purposes of this section, ‘video description’ means the insertion of audio narrated descriptions of a television program’s key visual elements into natural pauses between the program’s dialogue.”
 
-    Subsecs. (h), (j). [Pub. L. 111–260, § 202(a)(2)][/us/pl/111/260/s202/a/2], (3), added subsec. (h) and redesignated former subsec. (h) as (j).
+    Subsecs. (h), (j). [Pub. L. 111–260][/us/pl/111/260], § 202(a)(2), (3), added subsec. (h) and redesignated former subsec. (h) as (j).
 
  __Video Programming and Emergency Access Advisory Committee__ 
 
-[Pub. L. 111–260, § 201][/us/pl/111/260/s201], Oct. 8, 2010, [124 Stat. 2764][/us/stat/124/2764], as amended by [Pub. L. 111–265, § 1(2)][/us/pl/111/265/s1/2]–(5), Oct. 8, 2010, [124 Stat. 2795][/us/stat/124/2795], provided that:
+[Pub. L. 111–260][/us/pl/111/260], § 201, Oct. 8, 2010, [124 Stat. 2764][/us/stat/124/2764], as amended by [Pub. L. 111–265][/us/pl/111/265], § 1(2)–(5), Oct. 8, 2010, [124 Stat. 2795][/us/stat/124/2795], provided that:
 
 >     “(a)  __Establishment__  __.—__ 
 
@@ -352,35 +352,35 @@
 [/us/usc/t47/s330]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs330
 [/us/usc/t47/s153]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs153
 [/us/act/1934-06-19/ch652]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-19%2Fch652
-[/us/pl/104/104/s305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F104%2Fs305
+[/us/pl/104/104/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F104%2FtIII
 [/us/stat/110/126]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F126
-[/us/pl/111/260/s202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F260%2Fs202
+[/us/pl/111/260/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F260%2FtII
 [/us/stat/124/2767]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2767
-[/us/pl/111/265/s2/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F265%2Fs2%2F6
+[/us/pl/111/265]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F265
 [/us/stat/124/2795]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2795
 [/us/pl/111/260/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F260%2Fs201
 [/us/act/1934-06-19/ch652]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-19%2Fch652
 [/us/stat/48/1064]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F1064
 [/us/usc/t47/s609]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs609
-[/us/act/1934-06-19/ch652]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-19%2Fch652
-[/us/pl/100/667/s203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F667%2Fs203
+[/us/act/1934-06-19/ch652/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-19%2Fch652%2FtVII
+[/us/pl/100/667/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F667%2FtII
 [/us/stat/102/3958]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3958
-[/us/pl/103/414/s304/a/18]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F414%2Fs304%2Fa%2F18
+[/us/pl/103/414/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F414%2FtIII
 [/us/stat/108/4297]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4297
-[/us/pl/111/260/s202/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F260%2Fs202%2Fb
-[/us/pl/111/265/s2/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F265%2Fs2%2F9
-[/us/pl/111/265/s2/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F265%2Fs2%2F10
-[/us/pl/111/265/s2/11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F265%2Fs2%2F11
-[/us/pl/111/260/s202/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F260%2Fs202%2Fc
-[/us/pl/111/260/s202/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F260%2Fs202%2Fa%2F1
-[/us/pl/111/265/s2/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F265%2Fs2%2F6
-[/us/pl/111/265/s2/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F265%2Fs2%2F7
-[/us/pl/111/265/s2/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F265%2Fs2%2F8
-[/us/pl/111/260/s202/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F260%2Fs202%2Fa%2F1
-[/us/pl/111/260/s202/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F260%2Fs202%2Fa%2F2
-[/us/pl/111/260/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F260%2Fs201
+[/us/pl/111/260]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F260
+[/us/pl/111/265]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F265
+[/us/pl/111/265]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F265
+[/us/pl/111/265]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F265
+[/us/pl/111/260]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F260
+[/us/pl/111/260]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F260
+[/us/pl/111/265]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F265
+[/us/pl/111/265]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F265
+[/us/pl/111/265]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F265
+[/us/pl/111/260]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F260
+[/us/pl/111/260]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F260
+[/us/pl/111/260]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F260
 [/us/stat/124/2764]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2764
-[/us/pl/111/265/s1/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F265%2Fs1%2F2
+[/us/pl/111/265]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F265
 [/us/stat/124/2795]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2795
 [/us/pl/111/260/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F260%2Fs201
 [/us/pl/111/260/s206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F260%2Fs206

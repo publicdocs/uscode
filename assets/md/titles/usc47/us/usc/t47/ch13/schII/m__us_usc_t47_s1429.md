@@ -61,7 +61,7 @@
 
             (C) a description of any program, expenditure, or other financial transaction or undertaking of the First Responder Network Authority that was observed during the course of the audit, which, in the opinion of the independent auditor, has been carried on or made without the authority of law.
 
-([Pub. L. 112–96, title VI, § 6209][/us/pl/112/96/s6209], Feb. 22, 2012, [126 Stat. 216][/us/stat/126/216].)
+([Pub. L. 112–96, title VI][/us/pl/112/96/tVI], § 6209, Feb. 22, 2012, [126 Stat. 216][/us/stat/126/216].)
 
 ----------
 
@@ -70,7 +70,7 @@
 ----------
 ----------
 
-[/us/pl/112/96/s6209]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F96%2Fs6209
+[/us/pl/112/96/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F96%2FtVI
 [/us/stat/126/216]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F216
 
 

@@ -333,7 +333,7 @@
 
             The term “high definition television” refers to systems that offer approximately twice the vertical and horizontal resolution of receivers generally available on February 8, 1996, as further defined in the proceedings described in paragraph (1) of this subsection.
 
-([June 19, 1934, ch. 652][/us/act/1934-06-19/ch652], title III, § 336, as added [Pub. L. 104–104, title II, § 201][/us/pl/104/104/s201], Feb. 8, 1996, [110 Stat. 107][/us/stat/110/107]; [Pub. L. 106–113, div. B, § 1000(a)(9)][/us/pl/106/113/s1000/a/9] \[title V, § 5008(c)\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–595; [Pub. L. 106–554, § 1(a)(4)][/us/pl/106/554/s1/a/4] \[div. B, title I, § 143(a)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–235.)
+([June 19, 1934, ch. 652][/us/act/1934-06-19/ch652], title III, § 336, as added [Pub. L. 104–104, title II][/us/pl/104/104/tII], § 201, Feb. 8, 1996, [110 Stat. 107][/us/stat/110/107]; [Pub. L. 106–113, div. B][/us/pl/106/113/dB], § 1000(a)(9) \[title V, § 5008(c)\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–595; [Pub. L. 106–554][/us/pl/106/554], § 1(a)(4) \[div. B, title I, § 143(a)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–235.)
 
  __References in Text__ 
 
@@ -349,7 +349,7 @@
 
  __Transition to Digital Television__ 
 
-[Pub. L. 107–188, title V, § 531][/us/pl/107/188/s531], June 12, 2002, [116 Stat. 695][/us/stat/116/695], provided that:
+[Pub. L. 107–188, title V][/us/pl/107/188/tV], § 531, June 12, 2002, [116 Stat. 695][/us/stat/116/695], provided that:
 
 >     “(a)  __Pair Assignment Required__  __.—__ 
 
@@ -387,13 +387,13 @@
 
  __Reports on Provision of Digital Data Service by Low-Power Television Stations__ 
 
-[Pub. L. 106–554, § 1(a)(4)][/us/pl/106/554/s1/a/4] \[div. B, title I, § 143(b)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–238, provided that: 
+[Pub. L. 106–554][/us/pl/106/554], § 1(a)(4) \[div. B, title I, § 143(b)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–238, provided that: 
 
 > “The Federal Communications Commission shall submit a report to the Congress on June 30, 2001, and June 30, 2002, evaluating the utility of using low-power television stations to provide high-speed digital data service. The reports shall be based on the pilot projects authorized by section 336(h) of the Communications Act of 1934 ([47 U.S.C. 336(h)][/us/usc/t47/s336/h]).”
 
  __Congressional Findings Regarding Low-Power Broadcasters__ 
 
-[Pub. L. 106–113, div. B, § 1000(a)(9)][/us/pl/106/113/s1000/a/9] \[title V, § 5008(b)\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–594, provided that: 
+[Pub. L. 106–113, div. B][/us/pl/106/113/dB], § 1000(a)(9) \[title V, § 5008(b)\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–594, provided that: 
 
 > “Congress finds the following:
 
@@ -423,11 +423,11 @@
 [/us/usc/t47/s337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs337
 [/us/usc/t5/s553]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs553
 [/us/act/1934-06-19/ch652]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-19%2Fch652
-[/us/pl/104/104/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F104%2Fs201
+[/us/pl/104/104/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F104%2FtII
 [/us/stat/110/107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F107
-[/us/pl/106/113/s1000/a/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2Fs1000%2Fa%2F9
+[/us/pl/106/113/dB]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2FdB
 [/us/stat/113/1536]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1536
-[/us/pl/106/554/s1/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F4
+[/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
 [/us/stat/114/2763]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2763
 [/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
 [/us/act/1934-06-19/ch652]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-19%2Fch652
@@ -435,12 +435,12 @@
 [/us/usc/t47/s609]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs609
 [/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
 [/us/pl/106/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113
-[/us/pl/107/188/s531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F188%2Fs531
+[/us/pl/107/188/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F188%2FtV
 [/us/stat/116/695]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F695
-[/us/pl/106/554/s1/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F4
+[/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
 [/us/stat/114/2763]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2763
 [/us/usc/t47/s336/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs336%2Fh
-[/us/pl/106/113/s1000/a/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2Fs1000%2Fa%2F9
+[/us/pl/106/113/dB]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2FdB
 [/us/stat/113/1536]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1536
 [/us/pl/104/104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F104
 [/us/usc/t47/s609]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs609

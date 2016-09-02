@@ -237,13 +237,13 @@
 
         shall be considered an in-region service subject to the requirements of subsection (b)(1) of this section.
 
-([June 19, 1934, ch. 652][/us/act/1934-06-19/ch652], title II, § 271, as added [Pub. L. 104–104, title I, § 151(a)][/us/pl/104/104/s151/a], Feb. 8, 1996, [110 Stat. 86][/us/stat/110/86].)
+([June 19, 1934, ch. 652][/us/act/1934-06-19/ch652], title II, § 271, as added [Pub. L. 104–104, title I][/us/pl/104/104/tI], § 151(a), Feb. 8, 1996, [110 Stat. 86][/us/stat/110/86].)
 
  __References in Text__ 
 
     [Section 153 of this title][/us/usc/t47/s153], referred to in subsec. (c)(1)(A), was subsequently amended and no longer contains a par. (47)(A). However, the term “telephone exchange service” is defined elsewhere in that section.
 
-    [Section 254(h)(5) of this title][/us/usc/t47/s254/h/5], referred to in subsec. (g)(2), was redesignated [section 254(h)(7) of this title][/us/usc/t47/s254/h/7] by [Pub. L. 106–554, § 1(a)(4)][/us/pl/106/554/s1/a/4] \[div. B, title XVII, § 1721(a)(1)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–343.
+    [Section 254(h)(5) of this title][/us/usc/t47/s254/h/5], referred to in subsec. (g)(2), was redesignated [section 254(h)(7) of this title][/us/usc/t47/s254/h/7] by [Pub. L. 106–554][/us/pl/106/554], § 1(a)(4) \[div. B, title XVII, § 1721(a)(1)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–343.
 
 ----------
 
@@ -266,12 +266,12 @@
 [/us/usc/t47/s332/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs332%2Fc
 [/us/usc/t47/s522]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs522
 [/us/act/1934-06-19/ch652]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-19%2Fch652
-[/us/pl/104/104/s151/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F104%2Fs151%2Fa
+[/us/pl/104/104/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F104%2FtI
 [/us/stat/110/86]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F86
 [/us/usc/t47/s153]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs153
 [/us/usc/t47/s254/h/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs254%2Fh%2F5
 [/us/usc/t47/s254/h/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs254%2Fh%2F7
-[/us/pl/106/554/s1/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F4
+[/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
 [/us/stat/114/2763]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2763
 
 

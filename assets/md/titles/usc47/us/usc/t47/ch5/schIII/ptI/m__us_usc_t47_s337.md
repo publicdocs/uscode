@@ -105,7 +105,7 @@
 
             (C) such station was in compliance with the requirements applicable to low-power television stations.
 
-([June 19, 1934, ch. 652][/us/act/1934-06-19/ch652], title III, § 337, as added [Pub. L. 105–33, title III, § 3004][/us/pl/105/33/s3004], Aug. 5, 1997, [111 Stat. 266][/us/stat/111/266]; amended [Pub. L. 106–79, title VIII, § 8124(a)][/us/pl/106/79/s8124/a], Oct. 25, 1999, [113 Stat. 1262][/us/stat/113/1262]; [Pub. L. 106–113, div. B, § 1000(a)(5)][/us/pl/106/113/s1000/a/5] \[title II, § 213(a)(1), (d)\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–295, 1501A–297; [Pub. L. 109–171, title III, § 3002(c)(1)][/us/pl/109/171/s3002/c/1], Feb. 8, 2006, [120 Stat. 21][/us/stat/120/21]; [Pub. L. 111–4, § 2(b)(3)][/us/pl/111/4/s2/b/3], Feb. 11, 2009, [123 Stat. 112][/us/stat/123/112]; [Pub. L. 112–96, title VI, § 6101(b)][/us/pl/112/96/s6101/b], Feb. 22, 2012, [126 Stat. 205][/us/stat/126/205].)
+([June 19, 1934, ch. 652][/us/act/1934-06-19/ch652], title III, § 337, as added [Pub. L. 105–33, title III][/us/pl/105/33/tIII], § 3004, Aug. 5, 1997, [111 Stat. 266][/us/stat/111/266]; amended [Pub. L. 106–79, title VIII][/us/pl/106/79/tVIII], § 8124(a), Oct. 25, 1999, [113 Stat. 1262][/us/stat/113/1262]; [Pub. L. 106–113, div. B][/us/pl/106/113/dB], § 1000(a)(5) \[title II, § 213(a)(1), (d)\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–295, 1501A–297; [Pub. L. 109–171, title III][/us/pl/109/171/tIII], § 3002(c)(1), Feb. 8, 2006, [120 Stat. 21][/us/stat/120/21]; [Pub. L. 111–4][/us/pl/111/4], § 2(b)(3), Feb. 11, 2009, [123 Stat. 112][/us/stat/123/112]; [Pub. L. 112–96, title VI][/us/pl/112/96/tVI], § 6101(b), Feb. 22, 2012, [126 Stat. 205][/us/stat/126/205].)
 
  __References in Text__ 
 
@@ -113,25 +113,25 @@
 
  __Amendments__ 
 
-    2012—Subsec. (a)(1). [Pub. L. 112–96, § 6101(b)(1)][/us/pl/112/96/s6101/b/1], substituted “34” for “24”.
+    2012—Subsec. (a)(1). [Pub. L. 112–96][/us/pl/112/96], § 6101(b)(1), substituted “34” for “24”.
 
-    Subsec. (a)(2). [Pub. L. 112–96, § 6101(b)(2)][/us/pl/112/96/s6101/b/2], substituted “26” for “36”.
+    Subsec. (a)(2). [Pub. L. 112–96][/us/pl/112/96], § 6101(b)(2), substituted “26” for “36”.
 
     2009—Subsec. (e)(1). [Pub. L. 111–4][/us/pl/111/4] substituted “June 12, 2009” for “February 17, 2009”.
 
-    2006—Subsec. (e)(1). [Pub. L. 109–171, § 3002(c)(1)(A)][/us/pl/109/171/s3002/c/1/A], substituted “Channels 52 to 69” for “Channels 60 to 69” in heading and substituted in text “full-power television station licensee that” for “person who”, “698 and 806 megahertz” for “746 and 806 megahertz”, and “February 17, 2009” for “the date on which the digital television service transition period terminates, as determined by the Commission”.
+    2006—Subsec. (e)(1). [Pub. L. 109–171][/us/pl/109/171], § 3002(c)(1)(A), substituted “Channels 52 to 69” for “Channels 60 to 69” in heading and substituted in text “full-power television station licensee that” for “person who”, “698 and 806 megahertz” for “746 and 806 megahertz”, and “February 17, 2009” for “the date on which the digital television service transition period terminates, as determined by the Commission”.
 
-    Subsec. (e)(2). [Pub. L. 109–171, § 3002(c)(1)(B)][/us/pl/109/171/s3002/c/1/B], substituted “698 megahertz” for “746 megahertz”.
+    Subsec. (e)(2). [Pub. L. 109–171][/us/pl/109/171], § 3002(c)(1)(B), substituted “698 megahertz” for “746 megahertz”.
 
-    1999—Subsec. (b). [Pub. L. 106–113, § 1000(a)(5)][/us/pl/106/113/s1000/a/5] \[title II, § 213(a)(1)\], substituted “The Commission shall commence assignment of licenses for public safety services created pursuant to subsection (a) of this section no later than September 30, 1998.” for “The Commission shall—
+    1999—Subsec. (b). [Pub. L. 106–113][/us/pl/106/113], § 1000(a)(5) \[title II, § 213(a)(1)\], substituted “The Commission shall commence assignment of licenses for public safety services created pursuant to subsection (a) of this section no later than September 30, 1998.” for “The Commission shall—
 
     “(1) commence assignment of the licenses for public safety services created pursuant to subsection (a) of this section no later than September 30, 1998; and”.
 
-    Subsec. (b)(2). [Pub. L. 106–79][/us/pl/106/79], which struck out par. (2) reading “commence competitive bidding for the commercial licenses created pursuant to subsection (a) of this section after January 1, 2001.”, was repealed by [Pub. L. 106–113, § 1000(a)(5)][/us/pl/106/113/s1000/a/5] \[title II, § 213(d)\].
+    Subsec. (b)(2). [Pub. L. 106–79][/us/pl/106/79], which struck out par. (2) reading “commence competitive bidding for the commercial licenses created pursuant to subsection (a) of this section after January 1, 2001.”, was repealed by [Pub. L. 106–113][/us/pl/106/113], § 1000(a)(5) \[title II, § 213(d)\].
 
  __Interference Protection__ 
 
-[Pub. L. 107–195, § 6][/us/pl/107/195/s6], June 19, 2002, [116 Stat. 717][/us/stat/116/717], provided that:
+[Pub. L. 107–195][/us/pl/107/195], § 6, June 19, 2002, [116 Stat. 717][/us/stat/116/717], provided that:
 
 >     “(a)  __Interference Waivers__  __.—__ 
 
@@ -149,13 +149,13 @@
 
  __Competitive Bidding Process for Commercial Licenses for Assigned Frequencies__ 
 
-[Pub. L. 106–113, div. B, § 1000(a)(5)][/us/pl/106/113/s1000/a/5] \[title II, § 213\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–295, as amended by [Pub. L. 107–195, § 3(b)(3)][/us/pl/107/195/s3/b/3], June 19, 2002, [116 Stat. 717][/us/stat/116/717], provided that:
+[Pub. L. 106–113, div. B][/us/pl/106/113/dB], § 1000(a)(5) \[title II, § 213\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–295, as amended by [Pub. L. 107–195][/us/pl/107/195], § 3(b)(3), June 19, 2002, [116 Stat. 717][/us/stat/116/717], provided that:
 
 >     “(a)  __Revised Schedule for Competitive Bidding of Spectrum__  __.—__ 
 
 >         (1) __\[Amended subsec. (b) of this section.\]__ 
 
->         “\[(2), (3) Repealed. [Pub. L. 107–195, § 3(b)(3)][/us/pl/107/195/s3/b/3], June 19, 2002, [116 Stat. 717][/us/stat/116/717].\]
+>         “\[(2), (3) Repealed. [Pub. L. 107–195][/us/pl/107/195], § 3(b)(3), June 19, 2002, [116 Stat. 717][/us/stat/116/717].\]
 
 >         “(4)
 
@@ -223,7 +223,7 @@
 
 >     Section 8124 of the Department of Defense Appropriations Act, 2000 \[[Pub. L. 106–79][/us/pl/106/79], amending this section and enacting provisions formerly set out under this section\] is repealed.”
 
-    [Pub. L. 106–79, title VIII, § 8124][/us/pl/106/79/s8124], Oct. 25, 1999, [113 Stat. 1262][/us/stat/113/1262], related to the establishment of a competitive bidding process for commercial licenses and required reports to Congressional committees, prior to repeal by [Pub. L. 106–113, div. B, § 1000(a)(5)][/us/pl/106/113/s1000/a/5] \[title II, § 213(d)\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–297.
+    [Pub. L. 106–79, title VIII][/us/pl/106/79/tVIII], § 8124, Oct. 25, 1999, [113 Stat. 1262][/us/stat/113/1262], related to the establishment of a competitive bidding process for commercial licenses and required reports to Congressional committees, prior to repeal by [Pub. L. 106–113, div. B][/us/pl/106/113/dB], § 1000(a)(5) \[title II, § 213(d)\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–297.
 
 ----------
 
@@ -234,37 +234,37 @@
 
 [/us/usc/t47/s309/j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs309%2Fj
 [/us/act/1934-06-19/ch652]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-19%2Fch652
-[/us/pl/105/33/s3004]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2Fs3004
+[/us/pl/105/33/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2FtIII
 [/us/stat/111/266]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F266
-[/us/pl/106/79/s8124/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F79%2Fs8124%2Fa
+[/us/pl/106/79/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F79%2FtVIII
 [/us/stat/113/1262]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1262
-[/us/pl/106/113/s1000/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2Fs1000%2Fa%2F5
+[/us/pl/106/113/dB]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2FdB
 [/us/stat/113/1536]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1536
-[/us/pl/109/171/s3002/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F171%2Fs3002%2Fc%2F1
+[/us/pl/109/171/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F171%2FtIII
 [/us/stat/120/21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F21
-[/us/pl/111/4/s2/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F4%2Fs2%2Fb%2F3
+[/us/pl/111/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F4
 [/us/stat/123/112]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F112
-[/us/pl/112/96/s6101/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F96%2Fs6101%2Fb
+[/us/pl/112/96/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F96%2FtVI
 [/us/stat/126/205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F205
 [/us/act/1934-06-19/ch652]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-19%2Fch652
 [/us/stat/48/1064]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F1064
 [/us/usc/t47/s609]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs609
-[/us/pl/112/96/s6101/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F96%2Fs6101%2Fb%2F1
-[/us/pl/112/96/s6101/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F96%2Fs6101%2Fb%2F2
+[/us/pl/112/96]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F96
+[/us/pl/112/96]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F96
 [/us/pl/111/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F4
-[/us/pl/109/171/s3002/c/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F171%2Fs3002%2Fc%2F1%2FA
-[/us/pl/109/171/s3002/c/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F171%2Fs3002%2Fc%2F1%2FB
-[/us/pl/106/113/s1000/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2Fs1000%2Fa%2F5
+[/us/pl/109/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F171
+[/us/pl/109/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F171
+[/us/pl/106/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113
 [/us/pl/106/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F79
-[/us/pl/106/113/s1000/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2Fs1000%2Fa%2F5
-[/us/pl/107/195/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F195%2Fs6
+[/us/pl/106/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113
+[/us/pl/107/195]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F195
 [/us/stat/116/717]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F717
 [/us/usc/t47/s337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs337
-[/us/pl/106/113/s1000/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2Fs1000%2Fa%2F5
+[/us/pl/106/113/dB]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2FdB
 [/us/stat/113/1536]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1536
-[/us/pl/107/195/s3/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F195%2Fs3%2Fb%2F3
+[/us/pl/107/195]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F195
 [/us/stat/116/717]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F717
-[/us/pl/107/195/s3/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F195%2Fs3%2Fb%2F3
+[/us/pl/107/195]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F195
 [/us/stat/116/717]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F717
 [/us/usc/t47/s337/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs337%2Fa%2F2
 [/us/usc/t15/s632]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs632
@@ -273,9 +273,9 @@
 [/us/usc/t47/s337/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs337%2Fb%2F2
 [/us/usc/t47/s337/d/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs337%2Fd%2F4
 [/us/pl/106/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F79
-[/us/pl/106/79/s8124]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F79%2Fs8124
+[/us/pl/106/79/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F79%2FtVIII
 [/us/stat/113/1262]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1262
-[/us/pl/106/113/s1000/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2Fs1000%2Fa%2F5
+[/us/pl/106/113/dB]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2FdB
 [/us/stat/113/1536]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1536
 
 

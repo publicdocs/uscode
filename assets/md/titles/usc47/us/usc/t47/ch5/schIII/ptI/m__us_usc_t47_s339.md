@@ -269,79 +269,79 @@
 
             The term “television network” means a television network in the United States which offers an interconnected program service on a regular basis for 15 or more hours per week to at least 25 affiliated broadcast stations in 10 or more States.
 
-([June 19, 1934, ch. 652][/us/act/1934-06-19/ch652], title III, § 339, as added [Pub. L. 106–113, div. B, § 1000(a)(9)][/us/pl/106/113/s1000/a/9] \[title I, § 1008(a)\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–534; amended [Pub. L. 106–553, § 1(a)(2)][/us/pl/106/553/s1/a/2] \[title X, § 1008\], Dec. 21, 2000, [114 Stat. 2762][/us/stat/114/2762], 2762A–140; [Pub. L. 108–447, div. J, title IX][/us/pl/108/447] \[title II, §§ 204, 209\], Dec. 8, 2004, [118 Stat. 3416][/us/stat/118/3416], 3429; [Pub. L. 111–175, title II, § 204(b)][/us/pl/111/175/s204/b], May 27, 2010, [124 Stat. 1246][/us/stat/124/1246].)
+([June 19, 1934, ch. 652][/us/act/1934-06-19/ch652], title III, § 339, as added [Pub. L. 106–113, div. B][/us/pl/106/113/dB], § 1000(a)(9) \[title I, § 1008(a)\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–534; amended [Pub. L. 106–553][/us/pl/106/553], § 1(a)(2) \[title X, § 1008\], Dec. 21, 2000, [114 Stat. 2762][/us/stat/114/2762], 2762A–140; [Pub. L. 108–447, div. J, title IX][/us/pl/108/447/dJ/tIX] \[title II, §§ 204, 209\], Dec. 8, 2004, [118 Stat. 3416][/us/stat/118/3416], 3429; [Pub. L. 111–175, title II][/us/pl/111/175/tII], § 204(b), May 27, 2010, [124 Stat. 1246][/us/stat/124/1246].)
 
  __References in Text__ 
 
     The date of enactment of the Satellite Television Extension and Localism Act of 2010, referred to in subsecs. (a)(2)(B)(ii), (C), (D)(ii), and (c)(3), is the date of enactment of [Pub. L. 111–175][/us/pl/111/175], which shall be deemed to refer to Feb. 27, 2010, see [section 307(a) of Pub. L. 111–175][/us/pl/111/175/s307/a], set out as an Effective Date of 2010 Amendment note under [section 111 of Title 17][/us/usc/t17/s111], Copyrights.
 
-    [Section 119(a)(12) of title 17][/us/usc/t17/s119/a/12], referred to in subsec. (a)(2)(G), was redesignated as [section 119(a)(11) of title 17][/us/usc/t17/s119/a/11] by [Pub. L. 111–175, title I, § 102(h)(1)(B)][/us/pl/111/175/s102/h/1/B], May 27, 2010, [124 Stat. 1224][/us/stat/124/1224].
+    [Section 119(a)(12) of title 17][/us/usc/t17/s119/a/12], referred to in subsec. (a)(2)(G), was redesignated as [section 119(a)(11) of title 17][/us/usc/t17/s119/a/11] by [Pub. L. 111–175, title I][/us/pl/111/175/tI], § 102(h)(1)(B), May 27, 2010, [124 Stat. 1224][/us/stat/124/1224].
 
  __Amendments__ 
 
-    2010—Subsec. (a)(1). [Pub. L. 111–175, § 204(b)(1)(A)][/us/pl/111/175/s204/b/1/A], which directed amendment of subpar. (B) by striking out “ ‘Such two network stations’ and all that follows through ‘more than two network stations.’ ”, was executed by striking out concluding provisions which read “Such two network stations may be comprised of both the analog signal and digital signal of not more than two network stations.”, to reflect the probable intent of Congress.
+    2010—Subsec. (a)(1). [Pub. L. 111–175][/us/pl/111/175], § 204(b)(1)(A), which directed amendment of subpar. (B) by striking out “ ‘Such two network stations’ and all that follows through ‘more than two network stations.’ ”, was executed by striking out concluding provisions which read “Such two network stations may be comprised of both the analog signal and digital signal of not more than two network stations.”, to reflect the probable intent of Congress.
 
-    Subsec. (a)(2)(A). [Pub. L. 111–175, § 204(b)(1)(B)(i)][/us/pl/111/175/s204/b/1/B/i], struck out “to analog signals” after “subscribers” in heading.
+    Subsec. (a)(2)(A). [Pub. L. 111–175][/us/pl/111/175], § 204(b)(1)(B)(i), struck out “to analog signals” after “subscribers” in heading.
 
-    Subsec. (a)(2)(A)(i). [Pub. L. 111–175, § 204(b)(1)(B)(ii)(I)][/us/pl/111/175/s204/b/1/B/ii/I], (II), struck out “analog” before “signals” in heading, substituted “signal” for “analog signal” wherever appearing, and, in introductory provisions, substituted “October 1, 2009” for “October 1, 2004”.
+    Subsec. (a)(2)(A)(i). [Pub. L. 111–175][/us/pl/111/175], § 204(b)(1)(B)(ii)(I), (II), struck out “analog” before “signals” in heading, substituted “signal” for “analog signal” wherever appearing, and, in introductory provisions, substituted “October 1, 2009” for “October 1, 2004”.
 
-    Subsec. (a)(2)(A)(ii). [Pub. L. 111–175, § 204(b)(1)(B)(ii)(III)][/us/pl/111/175/s204/b/1/B/ii/III], (IV), struck out “analog” before “signals” in heading, substituted “signal” for “analog signal” wherever appearing in text, and substituted “2009” for “2004”.
+    Subsec. (a)(2)(A)(ii). [Pub. L. 111–175][/us/pl/111/175], § 204(b)(1)(B)(ii)(III), (IV), struck out “analog” before “signals” in heading, substituted “signal” for “analog signal” wherever appearing in text, and substituted “2009” for “2004”.
 
-    Subsec. (a)(2)(B). [Pub. L. 111–175, § 204(b)(1)(B)(iii)][/us/pl/111/175/s204/b/1/B/iii], amended subpar. (B) generally. Prior to amendment, subpar. (B) related to rules for other subscribers to analog signals.
+    Subsec. (a)(2)(B). [Pub. L. 111–175][/us/pl/111/175], § 204(b)(1)(B)(iii), amended subpar. (B) generally. Prior to amendment, subpar. (B) related to rules for other subscribers to analog signals.
 
-    Subsec. (a)(2)(C). [Pub. L. 111–175, § 204(b)(1)(B)(iv)(I)][/us/pl/111/175/s204/b/1/B/iv/I], which directed striking out “analog”, was executed by striking out “analog” before “signal” in introductory provisions, to reflect the probable intent of Congress and the subsequent amendment of cl. (ii) by [Pub. L. 111–175, § 204(b)(1)(B)(iv)(III)][/us/pl/111/175/s204/b/1/B/iv/III]. See below.
+    Subsec. (a)(2)(C). [Pub. L. 111–175][/us/pl/111/175], § 204(b)(1)(B)(iv)(I), which directed striking out “analog”, was executed by striking out “analog” before “signal” in introductory provisions, to reflect the probable intent of Congress and the subsequent amendment of cl. (ii) by [Pub. L. 111–175][/us/pl/111/175], § 204(b)(1)(B)(iv)(III). See below.
 
-    Subsec. (a)(2)(C)(i). [Pub. L. 111–175, § 204(b)(1)(B)(iv)(II)][/us/pl/111/175/s204/b/1/B/iv/II], substituted “the date of the enactment of the Satellite Television Extension and Localism Act of 2010 and, at the time such person seeks to subscribe to receive such secondary transmission, resides in a local market where the satellite carrier makes available to that person the signal of a local network station affiliated with the same television network pursuant to [section 338 of this title][/us/usc/t47/s338] (and the retransmission of such signal by such carrier can reach such subscriber); or” for “December 8, 2004; and”.
+    Subsec. (a)(2)(C)(i). [Pub. L. 111–175][/us/pl/111/175], § 204(b)(1)(B)(iv)(II), substituted “the date of the enactment of the Satellite Television Extension and Localism Act of 2010 and, at the time such person seeks to subscribe to receive such secondary transmission, resides in a local market where the satellite carrier makes available to that person the signal of a local network station affiliated with the same television network pursuant to [section 338 of this title][/us/usc/t47/s338] (and the retransmission of such signal by such carrier can reach such subscriber); or” for “December 8, 2004; and”.
 
-    Subsec. (a)(2)(C)(ii). [Pub. L. 111–175, § 204(b)(1)(B)(iv)(III)][/us/pl/111/175/s204/b/1/B/iv/III], amended cl. (ii) generally. Prior to amendment, text read as follows: “at the time such person seeks to subscribe to receive such secondary transmission, resides in a local market where the satellite carrier makes available to that person the analog signal of a local network station affiliated with the same television network pursuant to [section 338 of this title][/us/usc/t47/s338], and the retransmission of such signal by such carrier can reach such subscriber.”
+    Subsec. (a)(2)(C)(ii). [Pub. L. 111–175][/us/pl/111/175], § 204(b)(1)(B)(iv)(III), amended cl. (ii) generally. Prior to amendment, text read as follows: “at the time such person seeks to subscribe to receive such secondary transmission, resides in a local market where the satellite carrier makes available to that person the analog signal of a local network station affiliated with the same television network pursuant to [section 338 of this title][/us/usc/t47/s338], and the retransmission of such signal by such carrier can reach such subscriber.”
 
-    Subsec. (a)(2)(D). [Pub. L. 111–175, § 204(b)(1)(B)(v)(I)][/us/pl/111/175/s204/b/1/B/v/I], struck out “digital” before “signals” in heading.
+    Subsec. (a)(2)(D). [Pub. L. 111–175][/us/pl/111/175], § 204(b)(1)(B)(v)(I), struck out “digital” before “signals” in heading.
 
-    Subsec. (a)(2)(D)(i). [Pub. L. 111–175, § 204(b)(1)(B)(v)(IV)][/us/pl/111/175/s204/b/1/B/v/IV], amended cl. (i) generally. Prior to amendment, cl. (i) related to signal testing for digital signals.
+    Subsec. (a)(2)(D)(i). [Pub. L. 111–175][/us/pl/111/175], § 204(b)(1)(B)(v)(IV), amended cl. (i) generally. Prior to amendment, cl. (i) related to signal testing for digital signals.
 
-    [Pub. L. 111–175, § 204(b)(1)(B)(v)(II)][/us/pl/111/175/s204/b/1/B/v/II], (III), redesignated and reordered cl. (vi) as (i) and struck out former cl. (i) which related to eligibility.
+    [Pub. L. 111–175][/us/pl/111/175], § 204(b)(1)(B)(v)(II), (III), redesignated and reordered cl. (vi) as (i) and struck out former cl. (i) which related to eligibility.
 
-    Subsec. (a)(2)(D)(ii). [Pub. L. 111–175, § 204(b)(1)(B)(v)(V)][/us/pl/111/175/s204/b/1/B/v/V], struck out “digital” before “signal” in heading and in two places in text, struck out “, whether or not such subscriber elects to subscribe to local digital signals” before the period, and substituted “Satellite Television Extension and Localism Act of 2010” for “Satellite Home Viewer Extension and Reauthorization Act of 2004”.
+    Subsec. (a)(2)(D)(ii). [Pub. L. 111–175][/us/pl/111/175], § 204(b)(1)(B)(v)(V), struck out “digital” before “signal” in heading and in two places in text, struck out “, whether or not such subscriber elects to subscribe to local digital signals” before the period, and substituted “Satellite Television Extension and Localism Act of 2010” for “Satellite Home Viewer Extension and Reauthorization Act of 2004”.
 
-    Subsec. (a)(2)(D)(iii). [Pub. L. 111–175, § 204(b)(1)(B)(v)(II)][/us/pl/111/175/s204/b/1/B/v/II], (VI), added cl. (iii) and struck out former cl. (iii) which related to local-to-local analog markets.
+    Subsec. (a)(2)(D)(iii). [Pub. L. 111–175][/us/pl/111/175], § 204(b)(1)(B)(v)(II), (VI), added cl. (iii) and struck out former cl. (iii) which related to local-to-local analog markets.
 
-    Subsec. (a)(2)(D)(iv). [Pub. L. 111–175, § 204(b)(1)(B)(v)(II)][/us/pl/111/175/s204/b/1/B/v/II], (VII), redesignated cl. (x) as (iv) and struck out former cl. (iv) which related to local-to-local digital markets.
+    Subsec. (a)(2)(D)(iv). [Pub. L. 111–175][/us/pl/111/175], § 204(b)(1)(B)(v)(II), (VII), redesignated cl. (x) as (iv) and struck out former cl. (iv) which related to local-to-local digital markets.
 
-    Subsec. (a)(2)(D)(v). [Pub. L. 111–175, § 204(b)(1)(B)(v)(II)][/us/pl/111/175/s204/b/1/B/v/II], struck out cl. (v) which related to non-local-to-local markets.
+    Subsec. (a)(2)(D)(v). [Pub. L. 111–175][/us/pl/111/175], § 204(b)(1)(B)(v)(II), struck out cl. (v) which related to non-local-to-local markets.
 
-    Subsec. (a)(2)(D)(vi). [Pub. L. 111–175, § 204(b)(1)(B)(v)(III)][/us/pl/111/175/s204/b/1/B/v/III], redesignated cl. (vi) as (i).
+    Subsec. (a)(2)(D)(vi). [Pub. L. 111–175][/us/pl/111/175], § 204(b)(1)(B)(v)(III), redesignated cl. (vi) as (i).
 
-    Subsec. (a)(2)(D)(vii) to (ix). [Pub. L. 111–175, § 204(b)(1)(B)(v)(II)][/us/pl/111/175/s204/b/1/B/v/II], struck out cls. (vii) to (ix) which related to trigger events for use of testing, testing waivers, and a special waiver provision for translators, respectively.
+    Subsec. (a)(2)(D)(vii) to (ix). [Pub. L. 111–175][/us/pl/111/175], § 204(b)(1)(B)(v)(II), struck out cls. (vii) to (ix) which related to trigger events for use of testing, testing waivers, and a special waiver provision for translators, respectively.
 
-    Subsec. (a)(2)(D)(x). [Pub. L. 111–175, § 204(b)(1)(B)(v)(VII)][/us/pl/111/175/s204/b/1/B/v/VII], redesignated cl. (x) as (iv).
+    Subsec. (a)(2)(D)(x). [Pub. L. 111–175][/us/pl/111/175], § 204(b)(1)(B)(v)(VII), redesignated cl. (x) as (iv).
 
-    Subsec. (a)(2)(D)(xi). [Pub. L. 111–175, § 204(b)(1)(B)(v)(II)][/us/pl/111/175/s204/b/1/B/v/II], struck out cl. (xi) which defined “emergency response providers”.
+    Subsec. (a)(2)(D)(xi). [Pub. L. 111–175][/us/pl/111/175], § 204(b)(1)(B)(v)(II), struck out cl. (xi) which defined “emergency response providers”.
 
-    Subsec. (a)(2)(E). [Pub. L. 111–175, § 204(b)(1)(B)(vi)][/us/pl/111/175/s204/b/1/B/vi], substituted “distant signal” for “distant analog signal or distant digital signal (within the meaning of subparagraph (A), (B), or (D))”.
+    Subsec. (a)(2)(E). [Pub. L. 111–175][/us/pl/111/175], § 204(b)(1)(B)(vi), substituted “distant signal” for “distant analog signal or distant digital signal (within the meaning of subparagraph (A), (B), or (D))”.
 
-    Subsec. (c)(3). [Pub. L. 111–175, § 204(b)(2)(A)][/us/pl/111/175/s204/b/2/A], amended par. (3) generally. Prior to amendment, text read as follows: “Within 180 days after November 29, 1999, the Commission shall take all actions necessary, including any reconsideration, to develop and prescribe by rule a point-to-point predictive model for reliably and presumptively determining the ability of individual locations to receive signals in accordance with the signal intensity standard in effect under [section 119(d)(10)(A) of title 17][/us/usc/t17/s119/d/10/A]. In prescribing such model, the Commission shall rely on the Individual Location Longley-Rice model set forth by the Federal Communications Commission in Docket No. 98–201 and ensure that such model takes into account terrain, building structures, and other land cover variations. The Commission shall establish procedures for the continued refinement in the application of the model by the use of additional data as it becomes available.”
+    Subsec. (c)(3). [Pub. L. 111–175][/us/pl/111/175], § 204(b)(2)(A), amended par. (3) generally. Prior to amendment, text read as follows: “Within 180 days after November 29, 1999, the Commission shall take all actions necessary, including any reconsideration, to develop and prescribe by rule a point-to-point predictive model for reliably and presumptively determining the ability of individual locations to receive signals in accordance with the signal intensity standard in effect under [section 119(d)(10)(A) of title 17][/us/usc/t17/s119/d/10/A]. In prescribing such model, the Commission shall rely on the Individual Location Longley-Rice model set forth by the Federal Communications Commission in Docket No. 98–201 and ensure that such model takes into account terrain, building structures, and other land cover variations. The Commission shall establish procedures for the continued refinement in the application of the model by the use of additional data as it becomes available.”
 
-    Subsec. (c)(4)(A). [Pub. L. 111–175, § 204(b)(2)(B)][/us/pl/111/175/s204/b/2/B], amended subpar. (A) generally. Prior to amendment, text read as follows: “If a subscriber’s request for a waiver under paragraph (2) is rejected and the subscriber submits to the subscriber’s satellite carrier a request for a test verifying the subscriber’s inability to receive a signal that meets the signal intensity standard in effect under [section 119(d)(10)(A) of title 17][/us/usc/t17/s119/d/10/A], the satellite carrier and the network station or stations asserting that the retransmission is prohibited with respect to that subscriber shall select a qualified and independent person to conduct a test in accordance with section 73.686(d) of its regulations (47 CFR 73.686(d)), or any successor regulation. Such test shall be conducted within 30 days after the date the subscriber submits a request for the test. If the written findings and conclusions of a test conducted in accordance with such section (or any successor regulation) demonstrate that the subscriber does not receive a signal that meets or exceeds the signal intensity standard in effect under [section 119(d)(10)(A) of title 17][/us/usc/t17/s119/d/10/A], the subscriber shall not be denied the retransmission of a signal of a network station under [section 119 of title 17][/us/usc/t17/s119].”
+    Subsec. (c)(4)(A). [Pub. L. 111–175][/us/pl/111/175], § 204(b)(2)(B), amended subpar. (A) generally. Prior to amendment, text read as follows: “If a subscriber’s request for a waiver under paragraph (2) is rejected and the subscriber submits to the subscriber’s satellite carrier a request for a test verifying the subscriber’s inability to receive a signal that meets the signal intensity standard in effect under [section 119(d)(10)(A) of title 17][/us/usc/t17/s119/d/10/A], the satellite carrier and the network station or stations asserting that the retransmission is prohibited with respect to that subscriber shall select a qualified and independent person to conduct a test in accordance with section 73.686(d) of its regulations (47 CFR 73.686(d)), or any successor regulation. Such test shall be conducted within 30 days after the date the subscriber submits a request for the test. If the written findings and conclusions of a test conducted in accordance with such section (or any successor regulation) demonstrate that the subscriber does not receive a signal that meets or exceeds the signal intensity standard in effect under [section 119(d)(10)(A) of title 17][/us/usc/t17/s119/d/10/A], the subscriber shall not be denied the retransmission of a signal of a network station under [section 119 of title 17][/us/usc/t17/s119].”
 
-    Subsec. (c)(4)(B). [Pub. L. 111–175, § 204(b)(2)(C)][/us/pl/111/175/s204/b/2/C], substituted “such requisite signal intensity standard” for “the signal intensity standard in effect under [section 119(d)(10)(A) of title 17][/us/usc/t17/s119/d/10/A]”.
+    Subsec. (c)(4)(B). [Pub. L. 111–175][/us/pl/111/175], § 204(b)(2)(C), substituted “such requisite signal intensity standard” for “the signal intensity standard in effect under [section 119(d)(10)(A) of title 17][/us/usc/t17/s119/d/10/A]”.
 
-    Subsec. (c)(4)(E). [Pub. L. 111–175, § 204(b)(2)(D)][/us/pl/111/175/s204/b/2/D], struck out “Grade B intensity” before “signal.”
+    Subsec. (c)(4)(E). [Pub. L. 111–175][/us/pl/111/175], § 204(b)(2)(D), struck out “Grade B intensity” before “signal.”
 
-    2004—Subsec. (a)(1). [Pub. L. 108–447, § 204(a)(1)][/us/pl/108/447/s204/a/1], inserted at end “Such two network stations may be comprised of both the analog signal and digital signal of not more than two network stations.”
+    2004—Subsec. (a)(1). [Pub. L. 108–447][/us/pl/108/447], § 204(a)(1), inserted at end “Such two network stations may be comprised of both the analog signal and digital signal of not more than two network stations.”
 
-    Subsec. (a)(2). [Pub. L. 108–447, § 204(a)(3)][/us/pl/108/447/s204/a/3], added par. (2). Former par. (2) redesignated (3).
+    Subsec. (a)(2). [Pub. L. 108–447][/us/pl/108/447], § 204(a)(3), added par. (2). Former par. (2) redesignated (3).
 
-    Subsec. (a)(3). [Pub. L. 108–447, § 204(a)(4)][/us/pl/108/447/s204/a/4], which directed amendment of par. (3) by inserting “, except that paragraph (2)(D) of this subsection, relating to the provision of distant digital signals, shall be enforceable under the provisions of [section 340(f) of this title][/us/usc/t47/s340/f]” at end, was executed by making the insertion before period at end, to reflect the probable intent of Congress.
+    Subsec. (a)(3). [Pub. L. 108–447][/us/pl/108/447], § 204(a)(4), which directed amendment of par. (3) by inserting “, except that paragraph (2)(D) of this subsection, relating to the provision of distant digital signals, shall be enforceable under the provisions of [section 340(f) of this title][/us/usc/t47/s340/f]” at end, was executed by making the insertion before period at end, to reflect the probable intent of Congress.
 
-    [Pub. L. 108–447, § 204(a)(2)][/us/pl/108/447/s204/a/2], redesignated par. (2) as (3).
+    [Pub. L. 108–447][/us/pl/108/447], § 204(a)(2), redesignated par. (2) as (3).
 
-    Subsec. (c)(1). [Pub. L. 108–447, § 204(b)][/us/pl/108/447/s204/b], added par. (1) and struck out heading and text of former par. (1). Text read as follows: “For the purposes of identifying an unserved household under [section 119(d)(10) of title 17][/us/usc/t17/s119/d/10], within 1 year after November 29, 1999, the Commission shall conclude an inquiry to evaluate all possible standards and factors for determining eligibility for retransmissions of the signals of network stations, and, if appropriate—
+    Subsec. (c)(1). [Pub. L. 108–447][/us/pl/108/447], § 204(b), added par. (1) and struck out heading and text of former par. (1). Text read as follows: “For the purposes of identifying an unserved household under [section 119(d)(10) of title 17][/us/usc/t17/s119/d/10], within 1 year after November 29, 1999, the Commission shall conclude an inquiry to evaluate all possible standards and factors for determining eligibility for retransmissions of the signals of network stations, and, if appropriate—
 
     “(A) recommend modifications to the Grade B intensity standard for analog signals set forth in section 73.683(a) of its regulations (47 CFR 73.683(a)), or recommend alternative standards or factors for purposes of determining such eligibility; and
 
     “(B) make a further recommendation relating to an appropriate standard for digital signals.”
 
-    Subsec. (c)(4)(D), (E). [Pub. L. 108–447, § 209][/us/pl/108/447/s209], added subpars. (D) and (E).
+    Subsec. (c)(4)(D), (E). [Pub. L. 108–447][/us/pl/108/447], § 209, added subpars. (D) and (E).
 
     2000—Subsec. (c)(5). [Pub. L. 106–553][/us/pl/106/553] added par. (5).
 
@@ -387,61 +387,61 @@
 [/us/usc/t17/s119/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft17%2Fs119%2Fd
 [/us/usc/t17/s119/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft17%2Fs119%2Fd
 [/us/act/1934-06-19/ch652]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-19%2Fch652
-[/us/pl/106/113/s1000/a/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2Fs1000%2Fa%2F9
+[/us/pl/106/113/dB]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2FdB
 [/us/stat/113/1536]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1536
-[/us/pl/106/553/s1/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F553%2Fs1%2Fa%2F2
+[/us/pl/106/553]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F553
 [/us/stat/114/2762]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2762
-[/us/pl/108/447]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447
+[/us/pl/108/447/dJ/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447%2FdJ%2FtIX
 [/us/stat/118/3416]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F3416
-[/us/pl/111/175/s204/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F175%2Fs204%2Fb
+[/us/pl/111/175/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F175%2FtII
 [/us/stat/124/1246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1246
 [/us/pl/111/175]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F175
 [/us/pl/111/175/s307/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F175%2Fs307%2Fa
 [/us/usc/t17/s111]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft17%2Fs111
 [/us/usc/t17/s119/a/12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft17%2Fs119%2Fa%2F12
 [/us/usc/t17/s119/a/11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft17%2Fs119%2Fa%2F11
-[/us/pl/111/175/s102/h/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F175%2Fs102%2Fh%2F1%2FB
+[/us/pl/111/175/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F175%2FtI
 [/us/stat/124/1224]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1224
-[/us/pl/111/175/s204/b/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F175%2Fs204%2Fb%2F1%2FA
-[/us/pl/111/175/s204/b/1/B/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F175%2Fs204%2Fb%2F1%2FB%2Fi
-[/us/pl/111/175/s204/b/1/B/ii/I]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F175%2Fs204%2Fb%2F1%2FB%2Fii%2FI
-[/us/pl/111/175/s204/b/1/B/ii/III]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F175%2Fs204%2Fb%2F1%2FB%2Fii%2FIII
-[/us/pl/111/175/s204/b/1/B/iii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F175%2Fs204%2Fb%2F1%2FB%2Fiii
-[/us/pl/111/175/s204/b/1/B/iv/I]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F175%2Fs204%2Fb%2F1%2FB%2Fiv%2FI
-[/us/pl/111/175/s204/b/1/B/iv/III]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F175%2Fs204%2Fb%2F1%2FB%2Fiv%2FIII
-[/us/pl/111/175/s204/b/1/B/iv/II]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F175%2Fs204%2Fb%2F1%2FB%2Fiv%2FII
+[/us/pl/111/175]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F175
+[/us/pl/111/175]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F175
+[/us/pl/111/175]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F175
+[/us/pl/111/175]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F175
+[/us/pl/111/175]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F175
+[/us/pl/111/175]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F175
+[/us/pl/111/175]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F175
+[/us/pl/111/175]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F175
 [/us/usc/t47/s338]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs338
-[/us/pl/111/175/s204/b/1/B/iv/III]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F175%2Fs204%2Fb%2F1%2FB%2Fiv%2FIII
+[/us/pl/111/175]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F175
 [/us/usc/t47/s338]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs338
-[/us/pl/111/175/s204/b/1/B/v/I]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F175%2Fs204%2Fb%2F1%2FB%2Fv%2FI
-[/us/pl/111/175/s204/b/1/B/v/IV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F175%2Fs204%2Fb%2F1%2FB%2Fv%2FIV
-[/us/pl/111/175/s204/b/1/B/v/II]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F175%2Fs204%2Fb%2F1%2FB%2Fv%2FII
-[/us/pl/111/175/s204/b/1/B/v/V]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F175%2Fs204%2Fb%2F1%2FB%2Fv%2FV
-[/us/pl/111/175/s204/b/1/B/v/II]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F175%2Fs204%2Fb%2F1%2FB%2Fv%2FII
-[/us/pl/111/175/s204/b/1/B/v/II]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F175%2Fs204%2Fb%2F1%2FB%2Fv%2FII
-[/us/pl/111/175/s204/b/1/B/v/II]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F175%2Fs204%2Fb%2F1%2FB%2Fv%2FII
-[/us/pl/111/175/s204/b/1/B/v/III]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F175%2Fs204%2Fb%2F1%2FB%2Fv%2FIII
-[/us/pl/111/175/s204/b/1/B/v/II]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F175%2Fs204%2Fb%2F1%2FB%2Fv%2FII
-[/us/pl/111/175/s204/b/1/B/v/VII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F175%2Fs204%2Fb%2F1%2FB%2Fv%2FVII
-[/us/pl/111/175/s204/b/1/B/v/II]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F175%2Fs204%2Fb%2F1%2FB%2Fv%2FII
-[/us/pl/111/175/s204/b/1/B/vi]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F175%2Fs204%2Fb%2F1%2FB%2Fvi
-[/us/pl/111/175/s204/b/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F175%2Fs204%2Fb%2F2%2FA
+[/us/pl/111/175]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F175
+[/us/pl/111/175]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F175
+[/us/pl/111/175]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F175
+[/us/pl/111/175]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F175
+[/us/pl/111/175]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F175
+[/us/pl/111/175]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F175
+[/us/pl/111/175]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F175
+[/us/pl/111/175]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F175
+[/us/pl/111/175]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F175
+[/us/pl/111/175]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F175
+[/us/pl/111/175]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F175
+[/us/pl/111/175]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F175
+[/us/pl/111/175]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F175
 [/us/usc/t17/s119/d/10/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft17%2Fs119%2Fd%2F10%2FA
-[/us/pl/111/175/s204/b/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F175%2Fs204%2Fb%2F2%2FB
+[/us/pl/111/175]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F175
 [/us/usc/t17/s119/d/10/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft17%2Fs119%2Fd%2F10%2FA
 [/us/usc/t17/s119/d/10/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft17%2Fs119%2Fd%2F10%2FA
 [/us/usc/t17/s119]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft17%2Fs119
-[/us/pl/111/175/s204/b/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F175%2Fs204%2Fb%2F2%2FC
+[/us/pl/111/175]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F175
 [/us/usc/t17/s119/d/10/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft17%2Fs119%2Fd%2F10%2FA
-[/us/pl/111/175/s204/b/2/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F175%2Fs204%2Fb%2F2%2FD
-[/us/pl/108/447/s204/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447%2Fs204%2Fa%2F1
-[/us/pl/108/447/s204/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447%2Fs204%2Fa%2F3
-[/us/pl/108/447/s204/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447%2Fs204%2Fa%2F4
+[/us/pl/111/175]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F175
+[/us/pl/108/447]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447
+[/us/pl/108/447]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447
+[/us/pl/108/447]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447
 [/us/usc/t47/s340/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs340%2Ff
-[/us/pl/108/447/s204/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447%2Fs204%2Fa%2F2
-[/us/pl/108/447/s204/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447%2Fs204%2Fb
+[/us/pl/108/447]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447
+[/us/pl/108/447]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447
 [/us/usc/t17/s119/d/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft17%2Fs119%2Fd%2F10
-[/us/pl/108/447/s209]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447%2Fs209
+[/us/pl/108/447]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447
 [/us/pl/106/553]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F553
 [/us/pl/111/175]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F175
 [/us/pl/111/175/s307/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F175%2Fs307%2Fa

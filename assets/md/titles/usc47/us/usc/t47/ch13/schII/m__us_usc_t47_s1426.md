@@ -207,7 +207,7 @@
 
         Not later than 10 years after February 22, 2012, the Comptroller General of the United States shall submit to Congress a report on what action Congress should take regarding the 15-year sunset of authority under subsection (f).
 
-([Pub. L. 112–96, title VI, § 6206][/us/pl/112/96/s6206], Feb. 22, 2012, [126 Stat. 211][/us/stat/126/211].)
+([Pub. L. 112–96, title VI][/us/pl/112/96/tVI], § 6206, Feb. 22, 2012, [126 Stat. 211][/us/stat/126/211].)
 
  __References in Text__ 
 
@@ -228,7 +228,7 @@
 [/us/usc/t47/s1425/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs1425%2Fa
 [/us/usc/t44/s3506]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft44%2Fs3506
 [/us/usc/t47/s1442/e/3/C/iii/I]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs1442%2Fe%2F3%2FC%2Fiii%2FI
-[/us/pl/112/96/s6206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F96%2Fs6206
+[/us/pl/112/96/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F96%2FtVI
 [/us/stat/126/211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F211
 [/us/pl/112/96]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F96
 [/us/stat/126/201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F201

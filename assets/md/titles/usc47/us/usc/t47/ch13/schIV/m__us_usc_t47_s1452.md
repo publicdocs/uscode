@@ -231,7 +231,7 @@
 
         (2) prevent the implementation of the Commission’s “White Spaces” Second Report and Order and Memorandum Opinion and Order (FCC 08–260, adopted November 4, 2008) in the spectrum that remains allocated for broadcast television use after the reorganization required by such subsection.
 
-([Pub. L. 112–96, title VI, § 6403][/us/pl/112/96/s6403], Feb. 22, 2012, [126 Stat. 225][/us/stat/126/225].)
+([Pub. L. 112–96, title VI][/us/pl/112/96/tVI], § 6403, Feb. 22, 2012, [126 Stat. 225][/us/stat/126/225].)
 
 ----------
 
@@ -247,7 +247,7 @@
 [/us/usc/t47/s1457/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs1457%2Fa%2F1
 [/us/usc/t47/s309/j/15/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs309%2Fj%2F15%2FA
 [/us/usc/t47/s316]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs316
-[/us/pl/112/96/s6403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F96%2Fs6403
+[/us/pl/112/96/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F96%2FtVI
 [/us/stat/126/225]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F225
 
 

@@ -17,7 +17,7 @@
 
     Every ship required to be provided with survival craft radio by treaty to which the United States is a party, by statute, or by regulation made in conformity with a treaty, convention, or statute, shall be fitted with efficient radio equipment appropriate to such requirement under such rules and regulations as the Commission may find necessary for safety of life. For purposes of this section, “radio equipment” shall include portable as well as nonportable apparatus.
 
-([June 19, 1934, ch. 652][/us/act/1934-06-19/ch652], title III, § 357, formerly § 355, as added [May 20, 1937, ch. 229, § 10(b)][/us/act/1937-05-20/ch229/s10/b], [50 Stat. 194][/us/stat/50/194]; renumbered § 357 and amended [Aug. 13, 1954, ch. 729, § 2(a)(1)][/us/act/1954-08-13/ch729/s2/a/1], (e), [68 Stat. 706][/us/stat/68/706], 707; [Pub. L. 89–121, § 8][/us/pl/89/121/s8], Aug. 13, 1965, [79 Stat. 516][/us/stat/79/516].)
+([June 19, 1934, ch. 652][/us/act/1934-06-19/ch652], title III, § 357, formerly § 355, as added [May 20, 1937, ch. 229][/us/act/1937-05-20/ch229], § 10(b), [50 Stat. 194][/us/stat/50/194]; renumbered § 357 and amended [Aug. 13, 1954, ch. 729][/us/act/1954-08-13/ch729], § 2(a)(1), (e), [68 Stat. 706][/us/stat/68/706], 707; [Pub. L. 89–121][/us/pl/89/121], § 8, Aug. 13, 1965, [79 Stat. 516][/us/stat/79/516].)
 
  __Amendments__ 
 
@@ -39,11 +39,11 @@
 ----------
 
 [/us/act/1934-06-19/ch652]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-19%2Fch652
-[/us/act/1937-05-20/ch229/s10/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1937-05-20%2Fch229%2Fs10%2Fb
+[/us/act/1937-05-20/ch229]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1937-05-20%2Fch229
 [/us/stat/50/194]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F50%2F194
-[/us/act/1954-08-13/ch729/s2/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-13%2Fch729%2Fs2%2Fa%2F1
+[/us/act/1954-08-13/ch729]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-13%2Fch729
 [/us/stat/68/706]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68%2F706
-[/us/pl/89/121/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F121%2Fs8
+[/us/pl/89/121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F121
 [/us/stat/79/516]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F516
 [/us/pl/89/121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F121
 [/us/usc/t47/s351]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs351

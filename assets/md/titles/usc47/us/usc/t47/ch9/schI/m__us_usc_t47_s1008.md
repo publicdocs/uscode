@@ -91,7 +91,7 @@
 
             Such regulations shall require any telecommunications carrier that the Attorney General has agreed to pay for modifications pursuant to this section and that has installed or deployed such modification to submit to the Attorney General a claim for payment that contains or is accompanied by such information as the Attorney General may require.
 
-([Pub. L. 103–414, title I, § 109][/us/pl/103/414/s109], Oct. 25, 1994, [108 Stat. 4286][/us/stat/108/4286].)
+([Pub. L. 103–414, title I][/us/pl/103/414/tI], § 109, Oct. 25, 1994, [108 Stat. 4286][/us/stat/108/4286].)
 
  __References in Text__ 
 
@@ -112,7 +112,7 @@
 [/us/usc/t47/s1002]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs1002
 [/us/usc/t50/s1801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs1801
 [/us/usc/t47/s1003/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs1003%2Fe
-[/us/pl/103/414/s109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F414%2Fs109
+[/us/pl/103/414/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F414%2FtI
 [/us/stat/108/4286]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4286
 [/us/pl/95/511]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F511
 [/us/stat/92/1783]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1783

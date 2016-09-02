@@ -57,13 +57,13 @@
 
             The determination of the Board to approve a loan guarantee under this chapter shall be by an affirmative vote of not less than 3 members of the Board.
 
-([Pub. L. 106–553, § 1(a)(2)][/us/pl/106/553/s1/a/2] \[title X, § 1003\], Dec. 21, 2000, [114 Stat. 2762][/us/stat/114/2762], 2762A–128.)
+([Pub. L. 106–553][/us/pl/106/553], § 1(a)(2) \[title X, § 1003\], Dec. 21, 2000, [114 Stat. 2762][/us/stat/114/2762], 2762A–128.)
 
  __References in Text__ 
 
     This chapter, referred to in subsecs. (a) and (c), was in the original “this Act”, and was translated as reading “this title”. See References in Text note set out under [section 1101 of this title][/us/usc/t47/s1101].
 
-    [Section 1103 of this title][/us/usc/t47/s1103], referred to in subsec. (c)(1), was in the original “section 4”, and was translated as reading “section 1004”, meaning section 1004 of title X of H.R. 5548, as enacted by [Pub. L. 106–553, § 1(a)(2)][/us/pl/106/553/s1/a/2], to reflect the probable intent of Congress. [Pub. L. 106–553][/us/pl/106/553] does not contain a section 4 and section 1004 relates to approval of loan guarantees.
+    [Section 1103 of this title][/us/usc/t47/s1103], referred to in subsec. (c)(1), was in the original “section 4”, and was translated as reading “section 1004”, meaning section 1004 of title X of H.R. 5548, as enacted by [Pub. L. 106–553][/us/pl/106/553], § 1(a)(2), to reflect the probable intent of Congress. [Pub. L. 106–553][/us/pl/106/553] does not contain a section 4 and section 1004 relates to approval of loan guarantees.
 
 ----------
 
@@ -72,11 +72,11 @@
 ----------
 ----------
 
-[/us/pl/106/553/s1/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F553%2Fs1%2Fa%2F2
+[/us/pl/106/553]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F553
 [/us/stat/114/2762]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2762
 [/us/usc/t47/s1101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs1101
 [/us/usc/t47/s1103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs1103
-[/us/pl/106/553/s1/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F553%2Fs1%2Fa%2F2
+[/us/pl/106/553]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F553
 [/us/pl/106/553]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F553
 
 

@@ -17,7 +17,7 @@
 
     Notwithstanding any other provision of law, the Commission shall not have the authority to assign by competitive bidding orbital locations or spectrum used for the provision of international or global satellite communications services. The President shall oppose in the International Telecommunication Union and in other bilateral and multilateral fora any assignment by competitive bidding of orbital locations or spectrum used for the provision of such services.
 
-([Pub. L. 87–624, title VI, § 647][/us/pl/87/624/s647], as added [Pub. L. 106–180, § 3][/us/pl/106/180/s3], Mar. 17, 2000, [114 Stat. 57][/us/stat/114/57].)
+([Pub. L. 87–624, title VI][/us/pl/87/624/tVI], § 647, as added [Pub. L. 106–180][/us/pl/106/180], § 3, Mar. 17, 2000, [114 Stat. 57][/us/stat/114/57].)
 
 ----------
 
@@ -26,8 +26,8 @@
 ----------
 ----------
 
-[/us/pl/87/624/s647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F624%2Fs647
-[/us/pl/106/180/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F180%2Fs3
+[/us/pl/87/624/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F624%2FtVI
+[/us/pl/106/180]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F180
 [/us/stat/114/57]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F57
 
 

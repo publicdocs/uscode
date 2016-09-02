@@ -69,11 +69,11 @@
 
             (ii) any class or category of telecommunications carriers that the Commission exempts by rule after consultation with the Attorney General.
 
-([Pub. L. 103–414, title I, § 102][/us/pl/103/414/s102], Oct. 25, 1994, [108 Stat. 4279][/us/stat/108/4279].)
+([Pub. L. 103–414, title I][/us/pl/103/414/tI], § 102, Oct. 25, 1994, [108 Stat. 4279][/us/stat/108/4279].)
 
  __Effective Date__ 
 
-[Pub. L. 103–414, title I, § 111][/us/pl/103/414/s111], Oct. 25, 1994, [108 Stat. 4288][/us/stat/108/4288], provided that:
+[Pub. L. 103–414, title I][/us/pl/103/414/tI], § 111, Oct. 25, 1994, [108 Stat. 4288][/us/stat/108/4288], provided that:
 
 >     “(a)  __In General__  __.—__ 
 
@@ -85,7 +85,7 @@
 
  __Short Title__ 
 
-[Pub. L. 103–414, title I, § 101][/us/pl/103/414/s101], Oct. 25, 1994, [108 Stat. 4279][/us/stat/108/4279], provided that: 
+[Pub. L. 103–414, title I][/us/pl/103/414/tI], § 101, Oct. 25, 1994, [108 Stat. 4279][/us/stat/108/4279], provided that: 
 
 > “This title \[enacting this subchapter and provisions set out as a note above\] may be cited as the ‘Communications Assistance for Law Enforcement Act’.”
 
@@ -98,11 +98,11 @@
 
 [/us/usc/t18/s2510]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs2510
 [/us/usc/t47/s332/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs332%2Fd
-[/us/pl/103/414/s102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F414%2Fs102
+[/us/pl/103/414/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F414%2FtI
 [/us/stat/108/4279]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4279
-[/us/pl/103/414/s111]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F414%2Fs111
+[/us/pl/103/414/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F414%2FtI
 [/us/stat/108/4288]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4288
-[/us/pl/103/414/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F414%2Fs101
+[/us/pl/103/414/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F414%2FtI
 [/us/stat/108/4279]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4279
 
 

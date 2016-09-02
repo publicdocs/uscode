@@ -35,7 +35,7 @@
 
         Of the sums appropriated pursuant to [section 391 of this title][/us/usc/t47/s391] for any fiscal year, a substantial amount shall be available for the expansion and development of noncommercial radio broadcast station facilities.
 
-([June 19, 1934, ch. 652][/us/act/1934-06-19/ch652], title III, § 393, as added [Pub. L. 87–447][/us/pl/87/447], May 1, 1962, [76 Stat. 66][/us/stat/76/66]; amended [Pub. L. 90–129, title II, § 201(2)][/us/pl/90/129/s201/2], Nov. 7, 1967, [81 Stat. 367][/us/stat/81/367]; [Pub. L. 95–567, title I, § 104][/us/pl/95/567/s104], Nov. 2, 1978, [92 Stat. 2408][/us/stat/92/2408]; [Pub. L. 99–272, title V, § 5001(b)][/us/pl/99/272/s5001/b], Apr. 7, 1986, [100 Stat. 117][/us/stat/100/117]; [Pub. L. 102–356, § 3][/us/pl/102/356/s3], Aug. 26, 1992, [106 Stat. 949][/us/stat/106/949].)
+([June 19, 1934, ch. 652][/us/act/1934-06-19/ch652], title III, § 393, as added [Pub. L. 87–447][/us/pl/87/447], May 1, 1962, [76 Stat. 66][/us/stat/76/66]; amended [Pub. L. 90–129, title II][/us/pl/90/129/tII], § 201(2), Nov. 7, 1967, [81 Stat. 367][/us/stat/81/367]; [Pub. L. 95–567, title I][/us/pl/95/567/tI], § 104, Nov. 2, 1978, [92 Stat. 2408][/us/stat/92/2408]; [Pub. L. 99–272, title V][/us/pl/99/272/tV], § 5001(b), Apr. 7, 1986, [100 Stat. 117][/us/stat/100/117]; [Pub. L. 102–356][/us/pl/102/356], § 3, Aug. 26, 1992, [106 Stat. 949][/us/stat/106/949].)
 
  __Amendments__ 
 
@@ -62,13 +62,13 @@
 [/us/act/1934-06-19/ch652]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-19%2Fch652
 [/us/pl/87/447]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F447
 [/us/stat/76/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F66
-[/us/pl/90/129/s201/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F129%2Fs201%2F2
+[/us/pl/90/129/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F129%2FtII
 [/us/stat/81/367]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F367
-[/us/pl/95/567/s104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F567%2Fs104
+[/us/pl/95/567/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F567%2FtI
 [/us/stat/92/2408]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2408
-[/us/pl/99/272/s5001/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F272%2Fs5001%2Fb
+[/us/pl/99/272/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F272%2FtV
 [/us/stat/100/117]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F117
-[/us/pl/102/356/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F356%2Fs3
+[/us/pl/102/356]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F356
 [/us/stat/106/949]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F949
 [/us/pl/102/356]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F356
 [/us/pl/99/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F272

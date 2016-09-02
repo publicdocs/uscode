@@ -121,55 +121,55 @@
 
         If the Commission finds, based on the information gathered from the inquiry required by subsection (g) of this section, that a universal encryption standard is necessary and in the public interest, the Commission shall initiate a rulemaking to establish such a standard.
 
-([June 19, 1934, ch. 652][/us/act/1934-06-19/ch652], title VII, § 705, formerly title VI, § 605, [48 Stat. 1103][/us/stat/48/1103]; [Pub. L. 90–351, title III, § 803][/us/pl/90/351/s803], June 19, 1968, [82 Stat. 223][/us/stat/82/223]; [Pub. L. 97–259, title I, § 126][/us/pl/97/259/s126], Sept. 13, 1982, [96 Stat. 1099][/us/stat/96/1099]; renumbered title VII, § 705, and amended [Pub. L. 98–549][/us/pl/98/549], §§ 5(a), 6(a), Oct. 30, 1984, [98 Stat. 2802][/us/stat/98/2802], 2804; [Pub. L. 100–626, § 11][/us/pl/100/626/s11], Nov. 7, 1988, [102 Stat. 3211][/us/stat/102/3211]; [Pub. L. 100–667, title II][/us/pl/100/667], §§ 204, 205, Nov. 16, 1988, [102 Stat. 3958][/us/stat/102/3958], 3959; [Pub. L. 103–414, title III][/us/pl/103/414], §§ 303(a)(25)–(28), 304(a)(15), Oct. 25, 1994, [108 Stat. 4295–4297][/us/stat/108/4295-4297]; [Pub. L. 104–104, title II, § 205(a)][/us/pl/104/104/s205/a], Feb. 8, 1996, [110 Stat. 114][/us/stat/110/114].)
+([June 19, 1934, ch. 652][/us/act/1934-06-19/ch652], title VII, § 705, formerly title VI, § 605, [48 Stat. 1103][/us/stat/48/1103]; [Pub. L. 90–351, title III][/us/pl/90/351/tIII], § 803, June 19, 1968, [82 Stat. 223][/us/stat/82/223]; [Pub. L. 97–259, title I][/us/pl/97/259/tI], § 126, Sept. 13, 1982, [96 Stat. 1099][/us/stat/96/1099]; renumbered title VII, § 705, and amended [Pub. L. 98–549][/us/pl/98/549], §§ 5(a), 6(a), Oct. 30, 1984, [98 Stat. 2802][/us/stat/98/2802], 2804; [Pub. L. 100–626][/us/pl/100/626], § 11, Nov. 7, 1988, [102 Stat. 3211][/us/stat/102/3211]; [Pub. L. 100–667, title II][/us/pl/100/667/tII], §§ 204, 205, Nov. 16, 1988, [102 Stat. 3958][/us/stat/102/3958], 3959; [Pub. L. 103–414, title III][/us/pl/103/414/tIII], §§ 303(a)(25)–(28), 304(a)(15), Oct. 25, 1994, [108 Stat. 4295–4297][/us/stat/108/4295-4297]; [Pub. L. 104–104, title II][/us/pl/104/104/tII], § 205(a), Feb. 8, 1996, [110 Stat. 114][/us/stat/110/114].)
 
  __Amendments__ 
 
     1996—Subsec. (e)(4). [Pub. L. 104–104][/us/pl/104/104] inserted “or direct-to-home satellite services,” after “programming,”.
 
-    1994—Subsec. (d)(6). [Pub. L. 103–414, § 303(a)(25)][/us/pl/103/414/s303/a/25], substituted “subsection (e)” for “subsection (d)”.
+    1994—Subsec. (d)(6). [Pub. L. 103–414][/us/pl/103/414], § 303(a)(25), substituted “subsection (e)” for “subsection (d)”.
 
-    Subsec. (e)(3)(A). [Pub. L. 103–414, § 303(a)(26)][/us/pl/103/414/s303/a/26], substituted “paragraph (4) of this subsection” for “paragraph (4) of subsection (d) of this section”.
+    Subsec. (e)(3)(A). [Pub. L. 103–414][/us/pl/103/414], § 303(a)(26), substituted “paragraph (4) of this subsection” for “paragraph (4) of subsection (d) of this section”.
 
-    Subsec. (f). [Pub. L. 103–414, § 303(a)(27)][/us/pl/103/414/s303/a/27], redesignated subsec. (f), relating to universal encryption standard, as (g).
+    Subsec. (f). [Pub. L. 103–414][/us/pl/103/414], § 303(a)(27), redesignated subsec. (f), relating to universal encryption standard, as (g).
 
-    Subsec. (g). [Pub. L. 103–414, § 304(a)(15)][/us/pl/103/414/s304/a/15], which directed substitution of “The Commission” for “within 6 months after November 16, 1988, the Federal Communications Commission”, was executed by making the substitution in text which read “Within 6 months” rather than “within 6 months” in introductory provisions to reflect the probable intent of Congress.
+    Subsec. (g). [Pub. L. 103–414][/us/pl/103/414], § 304(a)(15), which directed substitution of “The Commission” for “within 6 months after November 16, 1988, the Federal Communications Commission”, was executed by making the substitution in text which read “Within 6 months” rather than “within 6 months” in introductory provisions to reflect the probable intent of Congress.
 
-    [Pub. L. 103–414, § 303(a)(27)][/us/pl/103/414/s303/a/27], redesignated subsec. (f), relating to universal encryption standard, as (g). Former subsec. (g) redesignated (h).
+    [Pub. L. 103–414][/us/pl/103/414], § 303(a)(27), redesignated subsec. (f), relating to universal encryption standard, as (g). Former subsec. (g) redesignated (h).
 
-    Subsec. (h). [Pub. L. 103–414, § 303(a)(27)][/us/pl/103/414/s303/a/27], (28), redesignated subsec. (g) as (h) and substituted “subsection (g)” for “subsection (f)”.
+    Subsec. (h). [Pub. L. 103–414][/us/pl/103/414], § 303(a)(27), (28), redesignated subsec. (g) as (h) and substituted “subsection (g)” for “subsection (f)”.
 
     1988—Subsecs. (c), (d). [Pub. L. 100–626][/us/pl/100/626] added subsec. (c) and redesignated former subsec. (c) as (d). Former subsec. (d) redesignated (e).
 
-    Subsec. (d)(6). [Pub. L. 100–667, § 205(1)][/us/pl/100/667/s205/1], which directed the addition of par. (6) to subsec. (c), was executed to subsec. (d) to reflect the probable intent of Congress and the intervening redesignation of subsec. (c) as (d) by [Pub. L. 100–626][/us/pl/100/626].
+    Subsec. (d)(6). [Pub. L. 100–667][/us/pl/100/667], § 205(1), which directed the addition of par. (6) to subsec. (c), was executed to subsec. (d) to reflect the probable intent of Congress and the intervening redesignation of subsec. (c) as (d) by [Pub. L. 100–626][/us/pl/100/626].
 
-    Subsec. (e). [Pub. L. 100–667, § 205(2)][/us/pl/100/667/s205/2]–(12), which directed the amendment of subsec. (d)(1) to (4) of this section, was executed to subsec. (e)(1) to (4) of this section, see below, to reflect the probable intent of Congress and the intervening redesignation of subsec. (d) as (e) by [Pub. L. 100–626][/us/pl/100/626].
+    Subsec. (e). [Pub. L. 100–667][/us/pl/100/667], § 205(2)–(12), which directed the amendment of subsec. (d)(1) to (4) of this section, was executed to subsec. (e)(1) to (4) of this section, see below, to reflect the probable intent of Congress and the intervening redesignation of subsec. (d) as (e) by [Pub. L. 100–626][/us/pl/100/626].
 
     [Pub. L. 100–626][/us/pl/100/626] redesignated subsec. (d) as (e). Former subsec. (e) redesignated (f).
 
-    Subsec. (e)(1). [Pub. L. 100–667, § 205(2)][/us/pl/100/667/s205/2], substituted “$2,000” for “$1,000”.
+    Subsec. (e)(1). [Pub. L. 100–667][/us/pl/100/667], § 205(2), substituted “$2,000” for “$1,000”.
 
-    Subsec. (e)(2). [Pub. L. 100–667, § 205(3)][/us/pl/100/667/s205/3], substituted “$50,000 or imprisoned for not more than 2 years, or both, for the first such conviction and shall be fined not more than $100,000 or imprisoned for not more than 5 years” for “$25,000 or imprisoned for not more than 1 year, or both, for the first such conviction and shall be fined not more than $50,000 or imprisoned for not more than 2 years”.
+    Subsec. (e)(2). [Pub. L. 100–667][/us/pl/100/667], § 205(3), substituted “$50,000 or imprisoned for not more than 2 years, or both, for the first such conviction and shall be fined not more than $100,000 or imprisoned for not more than 5 years” for “$25,000 or imprisoned for not more than 1 year, or both, for the first such conviction and shall be fined not more than $50,000 or imprisoned for not more than 2 years”.
 
-    Subsec. (e)(3)(A). [Pub. L. 100–667, § 205(4)][/us/pl/100/667/s205/4], inserted “or paragraph (4) of subsection (d) of this section” before “may bring”.
+    Subsec. (e)(3)(A). [Pub. L. 100–667][/us/pl/100/667], § 205(4), inserted “or paragraph (4) of subsection (d) of this section” before “may bring”.
 
-    Subsec. (e)(3)(B). [Pub. L. 100–667, § 205(5)][/us/pl/100/667/s205/5]–(8), struck out “may” after “The court” and substituted “may grant” for “grant” in cl. (i), “may award” for “award” in cl. (ii), and “shall direct” for “direct” in cl. (iii).
+    Subsec. (e)(3)(B). [Pub. L. 100–667][/us/pl/100/667], § 205(5)–(8), struck out “may” after “The court” and substituted “may grant” for “grant” in cl. (i), “may award” for “award” in cl. (ii), and “shall direct” for “direct” in cl. (iii).
 
-    Subsec. (e)(3)(C)(i)(II). [Pub. L. 100–667, § 205(9)][/us/pl/100/667/s205/9], inserted “of subsection (a) of this section” after “violation”, substituted “$1,000” for “$250”, and inserted before period at end “, and for each violation of paragraph (4) of this subsection involved in the action an aggrieved party may recover statutory damages in a sum not less than $10,000, or more than $100,000, as the court considers just”.
+    Subsec. (e)(3)(C)(i)(II). [Pub. L. 100–667][/us/pl/100/667], § 205(9), inserted “of subsection (a) of this section” after “violation”, substituted “$1,000” for “$250”, and inserted before period at end “, and for each violation of paragraph (4) of this subsection involved in the action an aggrieved party may recover statutory damages in a sum not less than $10,000, or more than $100,000, as the court considers just”.
 
-    Subsec. (e)(3)(C)(ii). [Pub. L. 100–667, § 205(10)][/us/pl/100/667/s205/10], substituted “$100,000 for each violation of subsection (a) of this section” for “$50,000”.
+    Subsec. (e)(3)(C)(ii). [Pub. L. 100–667][/us/pl/100/667], § 205(10), substituted “$100,000 for each violation of subsection (a) of this section” for “$50,000”.
 
-    Subsec. (e)(3)(C)(iii). [Pub. L. 100–667, § 205(11)][/us/pl/100/667/s205/11], substituted “$250” for “$100”.
+    Subsec. (e)(3)(C)(iii). [Pub. L. 100–667][/us/pl/100/667], § 205(11), substituted “$250” for “$100”.
 
-    Subsec. (e)(4). [Pub. L. 100–667, § 205(12)][/us/pl/100/667/s205/12], added par. (4) and struck out former par. (4) which read as follows: “The importation, manufacture, sale, or distribution of equipment by any person with the intent of its use to assist in any activity prohibited by subsection (a) of this section shall be subject to penalties and remedies under this subsection to the same extent and in the same manner as a person who has engaged in such prohibited activity.”
+    Subsec. (e)(4). [Pub. L. 100–667][/us/pl/100/667], § 205(12), added par. (4) and struck out former par. (4) which read as follows: “The importation, manufacture, sale, or distribution of equipment by any person with the intent of its use to assist in any activity prohibited by subsection (a) of this section shall be subject to penalties and remedies under this subsection to the same extent and in the same manner as a person who has engaged in such prohibited activity.”
 
-    Subsec. (f). [Pub. L. 100–667, § 204][/us/pl/100/667/s204], added subsec. (f) relating to universal encryption standard.
+    Subsec. (f). [Pub. L. 100–667][/us/pl/100/667], § 204, added subsec. (f) relating to universal encryption standard.
 
     [Pub. L. 100–626][/us/pl/100/626] redesignated subsec. (e), relating to rights, obligations, and liabilities under other laws, as (f).
 
-    Subsec. (g). [Pub. L. 100–667, § 204][/us/pl/100/667/s204], added subsec. (g).
+    Subsec. (g). [Pub. L. 100–667][/us/pl/100/667], § 204, added subsec. (g).
 
-    1984—[Pub. L. 98–549, § 5(a)][/us/pl/98/549/s5/a], designated existing provisions as subsec. (a) and added subsecs. (b) to (e).
+    1984—[Pub. L. 98–549][/us/pl/98/549], § 5(a), designated existing provisions as subsec. (a) and added subsecs. (b) to (e).
 
     1982—[Pub. L. 97–259][/us/pl/97/259] struck out “broadcast or” after “communication which is”, substituted “any station” for “amateurs or others”, struck out “or” after “general public,”, and substituted “ships, aircraft, vehicles, or persons in distress, or which is transmitted by an amateur radio station operator or by a citizens band radio operator” for “ships in distress”.
 
@@ -181,7 +181,7 @@
 
  __Effective Date of 1984 Amendment__ 
 
-[Pub. L. 98–549, § 5(b)][/us/pl/98/549/s5/b], Oct. 30, 1984, [98 Stat. 2803][/us/stat/98/2803], provided that: 
+[Pub. L. 98–549][/us/pl/98/549], § 5(b), Oct. 30, 1984, [98 Stat. 2803][/us/stat/98/2803], provided that: 
 
 > “The amendments made by subsection (a) \[amending this section\] shall take effect on the effective date of this Act \[Dec. 29, 1984\].”
 
@@ -196,51 +196,51 @@
 
 [/us/act/1934-06-19/ch652]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-19%2Fch652
 [/us/stat/48/1103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F1103
-[/us/pl/90/351/s803]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F351%2Fs803
+[/us/pl/90/351/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F351%2FtIII
 [/us/stat/82/223]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F223
-[/us/pl/97/259/s126]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F259%2Fs126
+[/us/pl/97/259/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F259%2FtI
 [/us/stat/96/1099]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1099
 [/us/pl/98/549]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F549
 [/us/stat/98/2802]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2802
-[/us/pl/100/626/s11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F626%2Fs11
+[/us/pl/100/626]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F626
 [/us/stat/102/3211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3211
-[/us/pl/100/667]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F667
+[/us/pl/100/667/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F667%2FtII
 [/us/stat/102/3958]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3958
-[/us/pl/103/414]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F414
+[/us/pl/103/414/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F414%2FtIII
 [/us/stat/108/4295-4297]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4295-4297
-[/us/pl/104/104/s205/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F104%2Fs205%2Fa
+[/us/pl/104/104/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F104%2FtII
 [/us/stat/110/114]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F114
 [/us/pl/104/104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F104
-[/us/pl/103/414/s303/a/25]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F414%2Fs303%2Fa%2F25
-[/us/pl/103/414/s303/a/26]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F414%2Fs303%2Fa%2F26
-[/us/pl/103/414/s303/a/27]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F414%2Fs303%2Fa%2F27
-[/us/pl/103/414/s304/a/15]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F414%2Fs304%2Fa%2F15
-[/us/pl/103/414/s303/a/27]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F414%2Fs303%2Fa%2F27
-[/us/pl/103/414/s303/a/27]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F414%2Fs303%2Fa%2F27
+[/us/pl/103/414]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F414
+[/us/pl/103/414]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F414
+[/us/pl/103/414]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F414
+[/us/pl/103/414]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F414
+[/us/pl/103/414]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F414
+[/us/pl/103/414]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F414
 [/us/pl/100/626]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F626
-[/us/pl/100/667/s205/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F667%2Fs205%2F1
+[/us/pl/100/667]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F667
 [/us/pl/100/626]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F626
-[/us/pl/100/667/s205/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F667%2Fs205%2F2
+[/us/pl/100/667]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F667
 [/us/pl/100/626]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F626
 [/us/pl/100/626]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F626
-[/us/pl/100/667/s205/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F667%2Fs205%2F2
-[/us/pl/100/667/s205/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F667%2Fs205%2F3
-[/us/pl/100/667/s205/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F667%2Fs205%2F4
-[/us/pl/100/667/s205/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F667%2Fs205%2F5
-[/us/pl/100/667/s205/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F667%2Fs205%2F9
-[/us/pl/100/667/s205/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F667%2Fs205%2F10
-[/us/pl/100/667/s205/11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F667%2Fs205%2F11
-[/us/pl/100/667/s205/12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F667%2Fs205%2F12
-[/us/pl/100/667/s204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F667%2Fs204
+[/us/pl/100/667]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F667
+[/us/pl/100/667]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F667
+[/us/pl/100/667]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F667
+[/us/pl/100/667]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F667
+[/us/pl/100/667]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F667
+[/us/pl/100/667]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F667
+[/us/pl/100/667]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F667
+[/us/pl/100/667]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F667
+[/us/pl/100/667]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F667
 [/us/pl/100/626]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F626
-[/us/pl/100/667/s204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F667%2Fs204
-[/us/pl/98/549/s5/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F549%2Fs5%2Fa
+[/us/pl/100/667]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F667
+[/us/pl/98/549]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F549
 [/us/pl/97/259]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F259
 [/us/pl/90/351]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F351
 [/us/pl/100/667]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F667
 [/us/pl/100/667/s206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F667%2Fs206
 [/us/usc/t17/s119]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft17%2Fs119
-[/us/pl/98/549/s5/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F549%2Fs5%2Fb
+[/us/pl/98/549]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F549
 [/us/stat/98/2803]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2803
 [/us/pl/98/549]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F549
 [/us/pl/98/549/s9/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F549%2Fs9%2Fa

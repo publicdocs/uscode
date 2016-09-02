@@ -27,7 +27,7 @@
 
         The provisions of sections 301 and 303 of this title notwithstanding, the President may, provided he determines it to be consistent with and in the interest of national security, authorize a foreign government, under such terms and conditions as he may prescribe, to construct and operate at the seat of government of the United States a low-power radio station in the fixed service at or near the site of the embassy or legation of such foreign government for transmission of its messages to points outside the United States, but only (1) where he determines that the authorization would be consistent with the national interest of the United States and (2) where such foreign government has provided reciprocal privileges to the United States to construct and operate radio stations within territories subject to its jurisdiction. Foreign government stations authorized pursuant to the provisions of this subsection shall conform to such rules and regulations as the President may prescribe. The authorization of such stations, and the renewal, modification, suspension, revocation, or other termination of such authority shall be in accordance with such procedures as may be established by the President and shall not be subject to the other provisions of this chapter or of subchapter II of chapter 5, and chapter 7, of title 5.
 
-([June 19, 1934, ch. 652][/us/act/1934-06-19/ch652], title III, § 305, [48 Stat. 1083][/us/stat/48/1083]; [Pub. L. 87–795][/us/pl/87/795], Oct. 11, 1962, [76 Stat. 903][/us/stat/76/903]; [Pub. L. 97–31, § 12(150)][/us/pl/97/31/s12/150], Aug. 6, 1981, [95 Stat. 167][/us/stat/95/167]; [Pub. L. 104–104, title IV, § 403(h)(1)][/us/pl/104/104/s403/h/1], Feb. 8, 1996, [110 Stat. 131][/us/stat/110/131].)
+([June 19, 1934, ch. 652][/us/act/1934-06-19/ch652], title III, § 305, [48 Stat. 1083][/us/stat/48/1083]; [Pub. L. 87–795][/us/pl/87/795], Oct. 11, 1962, [76 Stat. 903][/us/stat/76/903]; [Pub. L. 97–31][/us/pl/97/31], § 12(150), Aug. 6, 1981, [95 Stat. 167][/us/stat/95/167]; [Pub. L. 104–104, title IV][/us/pl/104/104/tIV], § 403(h)(1), Feb. 8, 1996, [110 Stat. 131][/us/stat/110/131].)
 
  __References in Text__ 
 
@@ -35,7 +35,7 @@
 
  __Codification__ 
 
-    In subsec. (c), “subchapter II of chapter 5, and chapter 7, of title 5” substituted for “the Administrative Procedure Act” on authority of [Pub. L. 89–554, § 7(b)][/us/pl/89/554/s7/b], Sept. 6, 1966, [80 Stat. 631][/us/stat/80/631], the first section of which enacted Title 5, Government Organization and Employees.
+    In subsec. (c), “subchapter II of chapter 5, and chapter 7, of title 5” substituted for “the Administrative Procedure Act” on authority of [Pub. L. 89–554][/us/pl/89/554], § 7(b), Sept. 6, 1966, [80 Stat. 631][/us/stat/80/631], the first section of which enacted Title 5, Government Organization and Employees.
 
  __Amendments__ 
 
@@ -47,7 +47,7 @@
 
  __Transfer of Functions__ 
 
-    For transfer of functions of United States Shipping Board Bureau and United States Shipping Board Merchant Fleet Corporation, see Ex. Ord. No. 6166, set out under [section 901 of Title 5][/us/usc/t5/s901], Government Organization and Employees, [act June 29, 1936, ch. 858][/us/act/1936-06-29/ch858], title II, §§ 203, 204, title IX, § 904, [49 Stat. 1987][/us/stat/49/1987], 2016, and Reorg. Plan No. 6 of 1949, Reorg. Plan No. 21 of 1950, and Reorg. Plan No. 7 of 1961, set out in the Appendix to Title 5.
+    For transfer of functions of United States Shipping Board Bureau and United States Shipping Board Merchant Fleet Corporation, see Ex. Ord. No. 6166, set out under [section 901 of Title 5][/us/usc/t5/s901], Government Organization and Employees, [act June 29, 1936, ch. 858, title II][/us/act/1936-06-29/ch858/tII], §§ 203, 204, title IX, § 904, [49 Stat. 1987][/us/stat/49/1987], 2016, and Reorg. Plan No. 6 of 1949, Reorg. Plan No. 21 of 1950, and Reorg. Plan No. 7 of 1961, set out in the Appendix to Title 5.
 
  __REORGANIZATION PLAN NO. 1 OF 1970__ 
 
@@ -362,20 +362,20 @@
 [/us/stat/48/1083]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F1083
 [/us/pl/87/795]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F795
 [/us/stat/76/903]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F903
-[/us/pl/97/31/s12/150]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F31%2Fs12%2F150
+[/us/pl/97/31]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F31
 [/us/stat/95/167]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F167
-[/us/pl/104/104/s403/h/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F104%2Fs403%2Fh%2F1
+[/us/pl/104/104/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F104%2FtIV
 [/us/stat/110/131]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F131
 [/us/act/1934-06-19/ch652]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-19%2Fch652
 [/us/stat/48/1064]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F1064
 [/us/usc/t47/s609]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs609
-[/us/pl/89/554/s7/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554%2Fs7%2Fb
+[/us/pl/89/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554
 [/us/stat/80/631]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F631
 [/us/pl/104/104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F104
 [/us/pl/97/31]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F31
 [/us/pl/87/795]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F795
 [/us/usc/t5/s901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs901
-[/us/act/1936-06-29/ch858]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1936-06-29%2Fch858
+[/us/act/1936-06-29/ch858/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1936-06-29%2Fch858%2FtII
 [/us/stat/49/1987]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F1987
 [/us/stat/84/2083]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F2083
 [/us/usc/t47/s305/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs305%2Fa

@@ -29,7 +29,7 @@
 
         The term “Office” means the 9–1–1 Implementation Coordination Office established under [section 942 of this title][/us/usc/t47/s942].
 
-([Pub. L. 112–96, title VI, § 6502][/us/pl/112/96/s6502], Feb. 22, 2012, [126 Stat. 237][/us/stat/126/237].)
+([Pub. L. 112–96, title VI][/us/pl/112/96/tVI], § 6502, Feb. 22, 2012, [126 Stat. 237][/us/stat/126/237].)
 
 ----------
 
@@ -40,7 +40,7 @@
 
 [/us/usc/t47/s942]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs942
 [/us/usc/t47/s942]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs942
-[/us/pl/112/96/s6502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F96%2Fs6502
+[/us/pl/112/96/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F96%2FtVI
 [/us/stat/126/237]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F237
 
 

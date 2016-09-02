@@ -229,7 +229,7 @@
 
         For the purpose of obtaining maximum effectiveness from the use of radio and wire communications in connection with safety of life and property, the Commission shall investigate and study all phases of the problem and the best methods of obtaining the cooperation and coordination of these systems.
 
-([June 19, 1934, ch. 652][/us/act/1934-06-19/ch652], title I, § 4, [48 Stat. 1066][/us/stat/48/1066]; [Jan. 22, 1936, ch. 25][/us/act/1936-01-22/ch25], [49 Stat. 1098][/us/stat/49/1098]; [May 20, 1937, ch. 229][/us/act/1937-05-20/ch229], §§ 3, 4, [50 Stat. 190][/us/stat/50/190]; [Mar. 23, 1941, ch. 24][/us/act/1941-03-23/ch24], [55 Stat. 46][/us/stat/55/46]; [July 16, 1952, ch. 879, § 3][/us/act/1952-07-16/ch879/s3], [66 Stat. 711][/us/stat/66/711]; [Aug. 13, 1954, ch. 735, § 2][/us/act/1954-08-13/ch735/s2], [68 Stat. 729][/us/stat/68/729]; [Pub. L. 86–533, § 1(24)][/us/pl/86/533/s1/24], June 29, 1960, [74 Stat. 249][/us/stat/74/249]; [Pub. L. 86–619, § 2][/us/pl/86/619/s2], July 12, 1960, [74 Stat. 407][/us/stat/74/407]; [Pub. L. 86–752, § 2][/us/pl/86/752/s2], Sept. 13, 1960, [74 Stat. 889][/us/stat/74/889]; [Pub. L. 97–35, title XII, § 1251(b)][/us/pl/97/35/s1251/b], Aug. 13, 1981, [95 Stat. 738][/us/stat/95/738]; [Pub. L. 97–253, title V, § 501(b)(1)][/us/pl/97/253/s501/b/1]–(3), Sept. 8, 1982, [96 Stat. 805][/us/stat/96/805], 806; [Pub. L. 97–259, title I][/us/pl/97/259], §§ 102–104, Sept. 13, 1982, [96 Stat. 1087–1089][/us/stat/96/1087-1089]; [Pub. L. 98–214][/us/pl/98/214], §§ 10, 11, Dec. 8, 1983, [97 Stat. 1471][/us/stat/97/1471]; [Pub. L. 99–272, title V, § 5002(b)][/us/pl/99/272/s5002/b], Apr. 7, 1986, [100 Stat. 118][/us/stat/100/118]; [Pub. L. 99–334, § 1(a)][/us/pl/99/334/s1/a], June 6, 1986, [100 Stat. 513][/us/stat/100/513]; [Pub. L. 100–594, § 3][/us/pl/100/594/s3], Nov. 3, 1988, [102 Stat. 3021][/us/stat/102/3021]; [Pub. L. 101–396][/us/pl/101/396], §§ 3, 4, Sept. 28, 1990, [104 Stat. 848][/us/stat/104/848], 849; [Pub. L. 102–538, title II][/us/pl/102/538], §§ 201, 208, Oct. 27, 1992, [106 Stat. 3542][/us/stat/106/3542], 3543; [Pub. L. 103–414, title III, § 303(a)(1)][/us/pl/103/414/s303/a/1], Oct. 25, 1994, [108 Stat. 4294][/us/stat/108/4294]; [Pub. L. 104–66, title II, § 2051(b)][/us/pl/104/66/s2051/b], Dec. 21, 1995, [109 Stat. 729][/us/stat/109/729]; [Pub. L. 104–104, title IV, § 403(a)][/us/pl/104/104/s403/a], (b), Feb. 8, 1996, [110 Stat. 130][/us/stat/110/130].)
+([June 19, 1934, ch. 652][/us/act/1934-06-19/ch652], title I, § 4, [48 Stat. 1066][/us/stat/48/1066]; [Jan. 22, 1936, ch. 25][/us/act/1936-01-22/ch25], [49 Stat. 1098][/us/stat/49/1098]; [May 20, 1937, ch. 229][/us/act/1937-05-20/ch229], §§ 3, 4, [50 Stat. 190][/us/stat/50/190]; [Mar. 23, 1941, ch. 24][/us/act/1941-03-23/ch24], [55 Stat. 46][/us/stat/55/46]; [July 16, 1952, ch. 879][/us/act/1952-07-16/ch879], § 3, [66 Stat. 711][/us/stat/66/711]; [Aug. 13, 1954, ch. 735][/us/act/1954-08-13/ch735], § 2, [68 Stat. 729][/us/stat/68/729]; [Pub. L. 86–533][/us/pl/86/533], § 1(24), June 29, 1960, [74 Stat. 249][/us/stat/74/249]; [Pub. L. 86–619][/us/pl/86/619], § 2, July 12, 1960, [74 Stat. 407][/us/stat/74/407]; [Pub. L. 86–752][/us/pl/86/752], § 2, Sept. 13, 1960, [74 Stat. 889][/us/stat/74/889]; [Pub. L. 97–35, title XII][/us/pl/97/35/tXII], § 1251(b), Aug. 13, 1981, [95 Stat. 738][/us/stat/95/738]; [Pub. L. 97–253, title V][/us/pl/97/253/tV], § 501(b)(1)–(3), Sept. 8, 1982, [96 Stat. 805][/us/stat/96/805], 806; [Pub. L. 97–259, title I][/us/pl/97/259/tI], §§ 102–104, Sept. 13, 1982, [96 Stat. 1087–1089][/us/stat/96/1087-1089]; [Pub. L. 98–214][/us/pl/98/214], §§ 10, 11, Dec. 8, 1983, [97 Stat. 1471][/us/stat/97/1471]; [Pub. L. 99–272, title V][/us/pl/99/272/tV], § 5002(b), Apr. 7, 1986, [100 Stat. 118][/us/stat/100/118]; [Pub. L. 99–334][/us/pl/99/334], § 1(a), June 6, 1986, [100 Stat. 513][/us/stat/100/513]; [Pub. L. 100–594][/us/pl/100/594], § 3, Nov. 3, 1988, [102 Stat. 3021][/us/stat/102/3021]; [Pub. L. 101–396][/us/pl/101/396], §§ 3, 4, Sept. 28, 1990, [104 Stat. 848][/us/stat/104/848], 849; [Pub. L. 102–538, title II][/us/pl/102/538/tII], §§ 201, 208, Oct. 27, 1992, [106 Stat. 3542][/us/stat/106/3542], 3543; [Pub. L. 103–414, title III][/us/pl/103/414/tIII], § 303(a)(1), Oct. 25, 1994, [108 Stat. 4294][/us/stat/108/4294]; [Pub. L. 104–66, title II][/us/pl/104/66/tII], § 2051(b), Dec. 21, 1995, [109 Stat. 729][/us/stat/109/729]; [Pub. L. 104–104, title IV][/us/pl/104/104/tIV], § 403(a), (b), Feb. 8, 1996, [110 Stat. 130][/us/stat/110/130].)
 
  __References in Text__ 
 
@@ -243,75 +243,75 @@
 
  __Codification__ 
 
-    In subsec. (f)(1), (2) “chapter 51 and subchapter III of chapter 53 of title 5” substituted for “the Classification of 1949” on authority of [Pub. L. 89–554, § 7(b)][/us/pl/89/554/s7/b], Sept. 6, 1966, [80 Stat. 631][/us/stat/80/631], the first section of which enacted Title 5, Government Organization and Employees.
+    In subsec. (f)(1), (2) “chapter 51 and subchapter III of chapter 53 of title 5” substituted for “the Classification of 1949” on authority of [Pub. L. 89–554][/us/pl/89/554], § 7(b), Sept. 6, 1966, [80 Stat. 631][/us/stat/80/631], the first section of which enacted Title 5, Government Organization and Employees.
 
-    In subsec. (f)(4)(E), “[section 1342 of title 31][/us/usc/t31/s1342]” substituted for “section 3679(b) of the Revised Statutes ([31 U.S.C. 665(b)][/us/usc/t31/s665/b])” on authority of [Pub. L. 97–258, § 4(b)][/us/pl/97/258/s4/b], Sept. 13, 1982, [96 Stat. 1067][/us/stat/96/1067], the first section of which enacted Title 31, Money and Finance.
+    In subsec. (f)(4)(E), “[section 1342 of title 31][/us/usc/t31/s1342]” substituted for “section 3679(b) of the Revised Statutes ([31 U.S.C. 665(b)][/us/usc/t31/s665/b])” on authority of [Pub. L. 97–258][/us/pl/97/258], § 4(b), Sept. 13, 1982, [96 Stat. 1067][/us/stat/96/1067], the first section of which enacted Title 31, Money and Finance.
 
  __Amendments__ 
 
-    1996—Subsec. (f)(3). [Pub. L. 104–104, § 403(b)][/us/pl/104/104/s403/b], inserted before period at end “: and Provided further, That, in the alternative, an entity designated by the Commission may make the inspections referred to in this paragraph”.
+    1996—Subsec. (f)(3). [Pub. L. 104–104][/us/pl/104/104], § 403(b), inserted before period at end “: and Provided further, That, in the alternative, an entity designated by the Commission may make the inspections referred to in this paragraph”.
 
-    Subsec. (f)(4)(A). [Pub. L. 104–104, § 403(a)(1)][/us/pl/104/104/s403/a/1], in first sentence, inserted “or administering” after “for purposes of preparing”, “of” after “than the class”, and “or administered” after “being prepared”.
+    Subsec. (f)(4)(A). [Pub. L. 104–104][/us/pl/104/104], § 403(a)(1), in first sentence, inserted “or administering” after “for purposes of preparing”, “of” after “than the class”, and “or administered” after “being prepared”.
 
-    Subsec. (f)(4)(B). [Pub. L. 104–104, § 403(a)(2)][/us/pl/104/104/s403/a/2], (5), redesignated subpar. (C) as (B) and struck out former subpar. (B) which read as follows: “The Commission, for purposes of administering any examination for an amateur station operator license, may accept and employ the voluntary and uncompensated services of any individual who holds an amateur station operator license of a higher class than the class license for which the examination is being conducted. In the case of examinations for the highest class of amateur station operator license, the Commission may accept and employ such services of any individual who holds such class of license. Any person who owns a significant interest in, or is an employee of, any company or other entity which is engaged in the manufacture or distribution of equipment used in connection with amateur radio transmissions, or in the preparation or distribution of any publication used in preparation for obtaining amateur station operator licenses, shall not be eligible to render any service under this subparagraph.”
+    Subsec. (f)(4)(B). [Pub. L. 104–104][/us/pl/104/104], § 403(a)(2), (5), redesignated subpar. (C) as (B) and struck out former subpar. (B) which read as follows: “The Commission, for purposes of administering any examination for an amateur station operator license, may accept and employ the voluntary and uncompensated services of any individual who holds an amateur station operator license of a higher class than the class license for which the examination is being conducted. In the case of examinations for the highest class of amateur station operator license, the Commission may accept and employ such services of any individual who holds such class of license. Any person who owns a significant interest in, or is an employee of, any company or other entity which is engaged in the manufacture or distribution of equipment used in connection with amateur radio transmissions, or in the preparation or distribution of any publication used in preparation for obtaining amateur station operator licenses, shall not be eligible to render any service under this subparagraph.”
 
-    Subsec. (f)(4)(C) to (G). [Pub. L. 104–104, § 403(a)(5)][/us/pl/104/104/s403/a/5], redesignated subpars. (D) to (H) as (C) to (G), respectively. Former subpar. (C) redesignated (B).
+    Subsec. (f)(4)(C) to (G). [Pub. L. 104–104][/us/pl/104/104], § 403(a)(5), redesignated subpars. (D) to (H) as (C) to (G), respectively. Former subpar. (C) redesignated (B).
 
-    Subsec. (f)(4)(H). [Pub. L. 104–104, § 403(a)(5)][/us/pl/104/104/s403/a/5], redesignated subpar. (I) as (H). Former subpar. (H) redesignated (G).
+    Subsec. (f)(4)(H). [Pub. L. 104–104][/us/pl/104/104], § 403(a)(5), redesignated subpar. (I) as (H). Former subpar. (H) redesignated (G).
 
-    [Pub. L. 104–104, § 403(a)(3)][/us/pl/104/104/s403/a/3], substituted “subparagraphs (A) and (B)” for “subparagraphs (A), (B), and (C)”.
+    [Pub. L. 104–104][/us/pl/104/104], § 403(a)(3), substituted “subparagraphs (A) and (B)” for “subparagraphs (A), (B), and (C)”.
 
-    Subsec. (f)(4)(I). [Pub. L. 104–104, § 403(a)(5)][/us/pl/104/104/s403/a/5], redesignated subpar. (J) as (I). Former subpar. (I) redesignated (H).
+    Subsec. (f)(4)(I). [Pub. L. 104–104][/us/pl/104/104], § 403(a)(5), redesignated subpar. (J) as (I). Former subpar. (I) redesignated (H).
 
-    Subsec. (f)(4)(J). [Pub. L. 104–104, § 403(a)(4)][/us/pl/104/104/s403/a/4], (5), redesignated subpar. (J) as (I) and substituted “subparagraph (A) of this paragraph” for “subparagraph (A) or (B) of this paragraph” and struck out last sentence which read as follows: “The total amount of allowable cost reimbursement per examinee shall not exceed $4, adjusted annually every January 1 for changes in the Department of Labor Consumer Price Index.”
+    Subsec. (f)(4)(J). [Pub. L. 104–104][/us/pl/104/104], § 403(a)(4), (5), redesignated subpar. (J) as (I) and substituted “subparagraph (A) of this paragraph” for “subparagraph (A) or (B) of this paragraph” and struck out last sentence which read as follows: “The total amount of allowable cost reimbursement per examinee shall not exceed $4, adjusted annually every January 1 for changes in the Department of Labor Consumer Price Index.”
 
     1995—Subsec. (f)(4)(J). [Pub. L. 104–66][/us/pl/104/66] struck out at end “Such individuals and organizations shall maintain records of out-of-pocket expenditures and shall certify annually to the Commission that all costs for which reimbursement was obtained were necessarily and prudently incurred.”
 
     1994—Subsec. (f)(3). [Pub. L. 103–414][/us/pl/103/414] substituted “overtime extends beyond” for “overtime exceeds beyond”.
 
-    1992—Subsec. (g)(2)(D). [Pub. L. 102–538, § 201][/us/pl/102/538/s201], substituted “1994” for “1992”.
+    1992—Subsec. (g)(2)(D). [Pub. L. 102–538][/us/pl/102/538], § 201, substituted “1994” for “1992”.
 
-    Subsec. (g)(3). [Pub. L. 102–538, § 208][/us/pl/102/538/s208], added par. (3).
+    Subsec. (g)(3). [Pub. L. 102–538][/us/pl/102/538], § 208, added par. (3).
 
-    1990—Subsec. (f)(5). [Pub. L. 101–396, § 3][/us/pl/101/396/s3], added par. (5).
+    1990—Subsec. (f)(5). [Pub. L. 101–396][/us/pl/101/396], § 3, added par. (5).
 
-    Subsec. (g)(2)(D). [Pub. L. 101–396, § 4][/us/pl/101/396/s4], substituted “1992” for “1989”.
+    Subsec. (g)(2)(D). [Pub. L. 101–396][/us/pl/101/396], § 4, substituted “1992” for “1989”.
 
     1988—Subsec. (g)(2)(D). [Pub. L. 100–594][/us/pl/100/594] substituted “1989” for “1987”.
 
     1986—Subsec. (c). [Pub. L. 99–334][/us/pl/99/334] substituted “five years” for “seven years”.
 
-    Subsec. (g)(2)(D). [Pub. L. 99–272, § 5002(b)(1)][/us/pl/99/272/s5002/b/1], substituted “1987” for “1985”.
+    Subsec. (g)(2)(D). [Pub. L. 99–272][/us/pl/99/272], § 5002(b)(1), substituted “1987” for “1985”.
 
-    Subsec. (g)(2)(E). [Pub. L. 99–272, § 5002(b)(2)][/us/pl/99/272/s5002/b/2], added subpar. (E).
+    Subsec. (g)(2)(E). [Pub. L. 99–272][/us/pl/99/272], § 5002(b)(2), added subpar. (E).
 
-    1983—Subsec. (f)(4)(E) to (I). [Pub. L. 98–214, § 10][/us/pl/98/214/s10], added subpar. (E) and redesignated existing subpars. (E) to (H) as (F) to (I), respectively.
+    1983—Subsec. (f)(4)(E) to (I). [Pub. L. 98–214][/us/pl/98/214], § 10, added subpar. (E) and redesignated existing subpars. (E) to (H) as (F) to (I), respectively.
 
-    Subsec. (f)(4)(J). [Pub. L. 98–214, § 11][/us/pl/98/214/s11], added subpar. (J).
+    Subsec. (f)(4)(J). [Pub. L. 98–214][/us/pl/98/214], § 11, added subpar. (J).
 
-    1982—Subsec. (a). [Pub. L. 97–253, § 501(b)(1)][/us/pl/97/253/s501/b/1], substituted “five” for “seven”.
+    1982—Subsec. (a). [Pub. L. 97–253][/us/pl/97/253], § 501(b)(1), substituted “five” for “seven”.
 
-    Subsec. (b). [Pub. L. 97–259, § 102][/us/pl/97/259/s102], amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “Each member of the Commission shall be a citizen of the United States. No member of the Commission or person in its employ shall be financially interested in the manufacture or sale of radio apparatus or of apparatus for wire or radio communication; in communication by wire or radio or in radio transmission of energy; in any company furnishing services or such apparatus to any company engaged in communication by wire or radio or to any company manufacturing or selling apparatus used for communication by wire or radio; or in any company owning stocks, bonds, or other securities of any such company; nor be in the employ of or hold any official relation to any person subject to any of the provisions of this chapter, nor own stocks, bonds, or other securities of any corporation subject to any of the provisions of this chapter. Such commissioners shall not engage in any other business, vocation, profession, or employment. Any such commissioner serving as such after one year from July 16, 1952, shall not for a period of one year following the termination of his services as a commissioner represent any person before the Commission in a professional capacity, except that this restriction shall not apply to any commissioner who has served the full term for which he was appointed. Not more than four members of the Commission shall be members of the same political party.”
+    Subsec. (b). [Pub. L. 97–259][/us/pl/97/259], § 102, amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “Each member of the Commission shall be a citizen of the United States. No member of the Commission or person in its employ shall be financially interested in the manufacture or sale of radio apparatus or of apparatus for wire or radio communication; in communication by wire or radio or in radio transmission of energy; in any company furnishing services or such apparatus to any company engaged in communication by wire or radio or to any company manufacturing or selling apparatus used for communication by wire or radio; or in any company owning stocks, bonds, or other securities of any such company; nor be in the employ of or hold any official relation to any person subject to any of the provisions of this chapter, nor own stocks, bonds, or other securities of any corporation subject to any of the provisions of this chapter. Such commissioners shall not engage in any other business, vocation, profession, or employment. Any such commissioner serving as such after one year from July 16, 1952, shall not for a period of one year following the termination of his services as a commissioner represent any person before the Commission in a professional capacity, except that this restriction shall not apply to any commissioner who has served the full term for which he was appointed. Not more than four members of the Commission shall be members of the same political party.”
 
-    [Pub. L. 97–253, § 501(b)(2)][/us/pl/97/253/s501/b/2], amended last sentence of subsec. (b), prior to the general amendment by [Pub. L. 97–259][/us/pl/97/259], by substituting language identical to that contained in par. (5), as added by [Pub. L. 97–259][/us/pl/97/259].
+    [Pub. L. 97–253][/us/pl/97/253], § 501(b)(2), amended last sentence of subsec. (b), prior to the general amendment by [Pub. L. 97–259][/us/pl/97/259], by substituting language identical to that contained in par. (5), as added by [Pub. L. 97–259][/us/pl/97/259].
 
-    Subsec. (c). [Pub. L. 97–259, § 103(a)][/us/pl/97/259/s103/a], struck out “The” before “commissioners” at beginning of subsection, immediately thereafter struck out “first appointed under this chapter shall continue in office for the terms of one, two, three, four, five, six, and seven years, respectively, from the date of the taking effect of this chapter, the term of each to be designated by the President, but their successors”, and substituted “been confirmed and taken the oath of office” for “qualified”.
+    Subsec. (c). [Pub. L. 97–259][/us/pl/97/259], § 103(a), struck out “The” before “commissioners” at beginning of subsection, immediately thereafter struck out “first appointed under this chapter shall continue in office for the terms of one, two, three, four, five, six, and seven years, respectively, from the date of the taking effect of this chapter, the term of each to be designated by the President, but their successors”, and substituted “been confirmed and taken the oath of office” for “qualified”.
 
-    Subsec. (d). [Pub. L. 97–259, § 103(b)][/us/pl/97/259/s103/b], amended subsec. (d) generally, relating to the annual salary rate for the Chairman and Commissioners.
+    Subsec. (d). [Pub. L. 97–259][/us/pl/97/259], § 103(b), amended subsec. (d) generally, relating to the annual salary rate for the Chairman and Commissioners.
 
-    Subsec. (f)(2). [Pub. L. 97–259, § 103(c)][/us/pl/97/259/s103/c], substituted “three professional assistants” for “a legal assistant, an engineering assistant,”.
+    Subsec. (f)(2). [Pub. L. 97–259][/us/pl/97/259], § 103(c), substituted “three professional assistants” for “a legal assistant, an engineering assistant,”.
 
-    Subsec. (f)(4). [Pub. L. 97–259, § 104][/us/pl/97/259/s104], added par. (4).
+    Subsec. (f)(4). [Pub. L. 97–259][/us/pl/97/259], § 104, added par. (4).
 
-    Subsec. (g). [Pub. L. 97–259, § 103(d)][/us/pl/97/259/s103/d], designated existing provisions as par. (1) and added par. (2).
+    Subsec. (g). [Pub. L. 97–259][/us/pl/97/259], § 103(d), designated existing provisions as par. (1) and added par. (2).
 
-    Subsec. (h). [Pub. L. 97–253, § 501(b)(3)][/us/pl/97/253/s501/b/3], substituted “Three” for “Four”.
+    Subsec. (h). [Pub. L. 97–253][/us/pl/97/253], § 501(b)(3), substituted “Three” for “Four”.
 
-    Subsec. (k)(2). [Pub. L. 97–259, § 103(e)][/us/pl/97/259/s103/e], struck out proviso after “its staff and equipment”, relating to the content of first and second annual reports after the enactment of the Communications Act Amendments of 1952.
+    Subsec. (k)(2). [Pub. L. 97–259][/us/pl/97/259], § 103(e), struck out proviso after “its staff and equipment”, relating to the content of first and second annual reports after the enactment of the Communications Act Amendments of 1952.
 
-    Subsec. (k)(3). [Pub. L. 97–259, § 103(f)][/us/pl/97/259/s103/f], redesignated par. (4) as (3).
+    Subsec. (k)(3). [Pub. L. 97–259][/us/pl/97/259], § 103(f), redesignated par. (4) as (3).
 
-    Subsec. (k)(4), (5). [Pub. L. 97–259, § 103(f)][/us/pl/97/259/s103/f], (g), redesignated par. (5) as (4) and substituted “Office of Management and Budget” for “Bureau of the Budget”. Former par. (4) redesignated (3).
+    Subsec. (k)(4), (5). [Pub. L. 97–259][/us/pl/97/259], § 103(f), (g), redesignated par. (5) as (4) and substituted “Office of Management and Budget” for “Bureau of the Budget”. Former par. (4) redesignated (3).
 
     1981—Subsec. (g). [Pub. L. 97–35][/us/pl/97/35] substituted requirement respecting authorizations under [section 156 of this title][/us/usc/t47/s156], for provisions respecting appropriations from time to time.
 
@@ -341,7 +341,7 @@
 
  __Effective Date of 1986 Amendment__ 
 
-[Pub. L. 99–334, § 1(b)][/us/pl/99/334/s1/b], June 6, 1986, [100 Stat. 513][/us/stat/100/513], provided that: 
+[Pub. L. 99–334][/us/pl/99/334], § 1(b), June 6, 1986, [100 Stat. 513][/us/stat/100/513], provided that: 
 
 > “The amendment made by subsection (a) of this section \[amending this section\] shall take effect on the date of enactment of this Act \[June 6, 1986, except that—
 
@@ -351,7 +351,7 @@
 
  __Effective Date of 1982 Amendment__ 
 
-[Pub. L. 97–253, title V, § 501(b)(4)][/us/pl/97/253/s501/b/4], Sept. 8, 1982, [96 Stat. 806][/us/stat/96/806], provided that: 
+[Pub. L. 97–253, title V][/us/pl/97/253/tV], § 501(b)(4), Sept. 8, 1982, [96 Stat. 806][/us/stat/96/806], provided that: 
 
 > “The amendments made in paragraphs (1), (2), and (3) of this subsection \[amending this section\] shall take effect on July 1, 1983.”
 
@@ -369,7 +369,7 @@
 
  __Older Americans Program__ 
 
-[Section 6 of Pub. L. 100–594][/us/pl/100/594/s6], as amended by [Pub. L. 101–396, § 5][/us/pl/101/396/s5], Sept. 28, 1990, [104 Stat. 849][/us/stat/104/849]; [Pub. L. 102–538, title II, § 212][/us/pl/102/538/s212], Oct. 27, 1992, [106 Stat. 3545][/us/stat/106/3545], provided that:
+[Section 6 of Pub. L. 100–594][/us/pl/100/594/s6], as amended by [Pub. L. 101–396][/us/pl/101/396], § 5, Sept. 28, 1990, [104 Stat. 849][/us/stat/104/849]; [Pub. L. 102–538, title II][/us/pl/102/538/tII], § 212, Oct. 27, 1992, [106 Stat. 3545][/us/stat/106/3545], provided that:
 
 >     “(a) During fiscal years 1992 and 1993, the Federal Communications Commission is authorized to make grants to, or enter into cooperative agreements with, private nonprofit organizations designated by the Secretary of Labor under title V of the Older Americans Act of 1965 ([42 U.S.C. 3056][/us/usc/t42/s3056] et seq.) to utilize the talents of older Americans in programs authorized by other provisions of law administered by the Commission (and consistent with such provisions of law) in providing technical and administrative assistance for projects related to the implementation, promotion, or enforcement of the regulations of the Commission.
 
@@ -399,7 +399,7 @@
 
  __Expiration of Commissioners’ Terms__ 
 
-[Pub. L. 97–253, title V, § 501(a)][/us/pl/97/253/s501/a], Sept. 8, 1982, [96 Stat. 805][/us/stat/96/805], provided that: 
+[Pub. L. 97–253, title V][/us/pl/97/253/tV], § 501(a), Sept. 8, 1982, [96 Stat. 805][/us/stat/96/805], provided that: 
 
 > “Upon expiration of the term of office as a member of the Federal Communications Commission, which is prescribed by law to occur on June 30, 1982, any member appointed to fill such office after such date shall be appointed for a term which ends on June 30, 1983, and such office shall be abolished on July 1, 1983. Upon expiration of the term of office as a member of such Commission, which—
 
@@ -431,91 +431,91 @@
 [/us/stat/50/190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F50%2F190
 [/us/act/1941-03-23/ch24]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1941-03-23%2Fch24
 [/us/stat/55/46]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F55%2F46
-[/us/act/1952-07-16/ch879/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1952-07-16%2Fch879%2Fs3
+[/us/act/1952-07-16/ch879]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1952-07-16%2Fch879
 [/us/stat/66/711]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F66%2F711
-[/us/act/1954-08-13/ch735/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-13%2Fch735%2Fs2
+[/us/act/1954-08-13/ch735]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-13%2Fch735
 [/us/stat/68/729]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68%2F729
-[/us/pl/86/533/s1/24]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F533%2Fs1%2F24
+[/us/pl/86/533]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F533
 [/us/stat/74/249]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F74%2F249
-[/us/pl/86/619/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F619%2Fs2
+[/us/pl/86/619]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F619
 [/us/stat/74/407]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F74%2F407
-[/us/pl/86/752/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F752%2Fs2
+[/us/pl/86/752]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F752
 [/us/stat/74/889]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F74%2F889
-[/us/pl/97/35/s1251/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs1251%2Fb
+[/us/pl/97/35/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2FtXII
 [/us/stat/95/738]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F738
-[/us/pl/97/253/s501/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F253%2Fs501%2Fb%2F1
+[/us/pl/97/253/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F253%2FtV
 [/us/stat/96/805]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F805
-[/us/pl/97/259]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F259
+[/us/pl/97/259/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F259%2FtI
 [/us/stat/96/1087-1089]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1087-1089
 [/us/pl/98/214]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F214
 [/us/stat/97/1471]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F1471
-[/us/pl/99/272/s5002/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F272%2Fs5002%2Fb
+[/us/pl/99/272/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F272%2FtV
 [/us/stat/100/118]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F118
-[/us/pl/99/334/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F334%2Fs1%2Fa
+[/us/pl/99/334]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F334
 [/us/stat/100/513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F513
-[/us/pl/100/594/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F594%2Fs3
+[/us/pl/100/594]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F594
 [/us/stat/102/3021]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3021
 [/us/pl/101/396]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F396
 [/us/stat/104/848]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F848
-[/us/pl/102/538]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F538
+[/us/pl/102/538/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F538%2FtII
 [/us/stat/106/3542]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3542
-[/us/pl/103/414/s303/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F414%2Fs303%2Fa%2F1
+[/us/pl/103/414/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F414%2FtIII
 [/us/stat/108/4294]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4294
-[/us/pl/104/66/s2051/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F66%2Fs2051%2Fb
+[/us/pl/104/66/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F66%2FtII
 [/us/stat/109/729]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F729
-[/us/pl/104/104/s403/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F104%2Fs403%2Fa
+[/us/pl/104/104/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F104%2FtIV
 [/us/stat/110/130]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F130
 [/us/act/1934-06-19/ch652]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-19%2Fch652
 [/us/stat/48/1064]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F1064
 [/us/usc/t47/s609]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs609
-[/us/pl/89/554/s7/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554%2Fs7%2Fb
+[/us/pl/89/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554
 [/us/stat/80/631]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F631
 [/us/usc/t31/s1342]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1342
 [/us/usc/t31/s665/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs665%2Fb
-[/us/pl/97/258/s4/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258%2Fs4%2Fb
+[/us/pl/97/258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258
 [/us/stat/96/1067]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1067
-[/us/pl/104/104/s403/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F104%2Fs403%2Fb
-[/us/pl/104/104/s403/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F104%2Fs403%2Fa%2F1
-[/us/pl/104/104/s403/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F104%2Fs403%2Fa%2F2
-[/us/pl/104/104/s403/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F104%2Fs403%2Fa%2F5
-[/us/pl/104/104/s403/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F104%2Fs403%2Fa%2F5
-[/us/pl/104/104/s403/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F104%2Fs403%2Fa%2F3
-[/us/pl/104/104/s403/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F104%2Fs403%2Fa%2F5
-[/us/pl/104/104/s403/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F104%2Fs403%2Fa%2F4
+[/us/pl/104/104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F104
+[/us/pl/104/104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F104
+[/us/pl/104/104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F104
+[/us/pl/104/104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F104
+[/us/pl/104/104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F104
+[/us/pl/104/104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F104
+[/us/pl/104/104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F104
+[/us/pl/104/104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F104
 [/us/pl/104/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F66
 [/us/pl/103/414]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F414
-[/us/pl/102/538/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F538%2Fs201
-[/us/pl/102/538/s208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F538%2Fs208
-[/us/pl/101/396/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F396%2Fs3
-[/us/pl/101/396/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F396%2Fs4
+[/us/pl/102/538]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F538
+[/us/pl/102/538]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F538
+[/us/pl/101/396]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F396
+[/us/pl/101/396]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F396
 [/us/pl/100/594]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F594
 [/us/pl/99/334]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F334
-[/us/pl/99/272/s5002/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F272%2Fs5002%2Fb%2F1
-[/us/pl/99/272/s5002/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F272%2Fs5002%2Fb%2F2
-[/us/pl/98/214/s10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F214%2Fs10
-[/us/pl/98/214/s11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F214%2Fs11
-[/us/pl/97/253/s501/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F253%2Fs501%2Fb%2F1
-[/us/pl/97/259/s102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F259%2Fs102
-[/us/pl/97/253/s501/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F253%2Fs501%2Fb%2F2
+[/us/pl/99/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F272
+[/us/pl/99/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F272
+[/us/pl/98/214]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F214
+[/us/pl/98/214]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F214
+[/us/pl/97/253]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F253
+[/us/pl/97/259]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F259
+[/us/pl/97/253]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F253
 [/us/pl/97/259]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F259
 [/us/pl/97/259]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F259
-[/us/pl/97/259/s103/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F259%2Fs103%2Fa
-[/us/pl/97/259/s103/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F259%2Fs103%2Fb
-[/us/pl/97/259/s103/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F259%2Fs103%2Fc
-[/us/pl/97/259/s104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F259%2Fs104
-[/us/pl/97/259/s103/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F259%2Fs103%2Fd
-[/us/pl/97/253/s501/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F253%2Fs501%2Fb%2F3
-[/us/pl/97/259/s103/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F259%2Fs103%2Fe
-[/us/pl/97/259/s103/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F259%2Fs103%2Ff
-[/us/pl/97/259/s103/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F259%2Fs103%2Ff
+[/us/pl/97/259]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F259
+[/us/pl/97/259]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F259
+[/us/pl/97/259]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F259
+[/us/pl/97/259]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F259
+[/us/pl/97/259]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F259
+[/us/pl/97/253]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F253
+[/us/pl/97/259]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F259
+[/us/pl/97/259]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F259
+[/us/pl/97/259]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F259
 [/us/pl/97/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35
 [/us/usc/t47/s156]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs156
 [/us/pl/86/752]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F752
 [/us/pl/86/619]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F619
 [/us/pl/86/533]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F533
-[/us/pl/99/334/s1/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F334%2Fs1%2Fb
+[/us/pl/99/334]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F334
 [/us/stat/100/513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F513
-[/us/pl/97/253/s501/b/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F253%2Fs501%2Fb%2F4
+[/us/pl/97/253/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F253%2FtV
 [/us/stat/96/806]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F806
 [/us/usc/t47/s507]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs507
 [/us/pl/104/66/s3003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F66%2Fs3003
@@ -523,12 +523,12 @@
 [/us/stat/79/1317]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F1317
 [/us/stat/64/1280]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F1280
 [/us/pl/100/594/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F594%2Fs6
-[/us/pl/101/396/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F396%2Fs5
+[/us/pl/101/396]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F396
 [/us/stat/104/849]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F849
-[/us/pl/102/538/s212]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F538%2Fs212
+[/us/pl/102/538/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F538%2FtII
 [/us/stat/106/3545]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3545
 [/us/usc/t42/s3056]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3056
-[/us/pl/97/253/s501/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F253%2Fs501%2Fa
+[/us/pl/97/253/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F253%2FtV
 [/us/stat/96/805]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F805
 
 

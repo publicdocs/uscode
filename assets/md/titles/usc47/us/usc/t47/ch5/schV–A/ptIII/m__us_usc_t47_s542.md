@@ -75,7 +75,7 @@
 
         Any Federal agency may not regulate the amount of the franchise fees paid by a cable operator, or regulate the use of funds derived from such fees, except as provided in this section.
 
-([June 19, 1934, ch. 652][/us/act/1934-06-19/ch652], title VI, § 622, as added [Pub. L. 98–549, § 2][/us/pl/98/549/s2], Oct. 30, 1984, [98 Stat. 2787][/us/stat/98/2787]; amended [Pub. L. 102–385, § 14][/us/pl/102/385/s14], Oct. 5, 1992, [106 Stat. 1489][/us/stat/106/1489]; [Pub. L. 104–104, title III, § 303(b)][/us/pl/104/104/s303/b], Feb. 8, 1996, [110 Stat. 125][/us/stat/110/125].)
+([June 19, 1934, ch. 652][/us/act/1934-06-19/ch652], title VI, § 622, as added [Pub. L. 98–549][/us/pl/98/549], § 2, Oct. 30, 1984, [98 Stat. 2787][/us/stat/98/2787]; amended [Pub. L. 102–385][/us/pl/102/385], § 14, Oct. 5, 1992, [106 Stat. 1489][/us/stat/106/1489]; [Pub. L. 104–104, title III][/us/pl/104/104/tIII], § 303(b), Feb. 8, 1996, [110 Stat. 125][/us/stat/110/125].)
 
  __References in Text__ 
 
@@ -104,11 +104,11 @@
 
 [/us/usc/t47/s543]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs543
 [/us/act/1934-06-19/ch652]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-19%2Fch652
-[/us/pl/98/549/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F549%2Fs2
+[/us/pl/98/549]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F549
 [/us/stat/98/2787]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2787
-[/us/pl/102/385/s14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F385%2Fs14
+[/us/pl/102/385]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F385
 [/us/stat/106/1489]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F1489
-[/us/pl/104/104/s303/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F104%2Fs303%2Fb
+[/us/pl/104/104/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F104%2FtIII
 [/us/stat/110/125]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F125
 [/us/act/1934-06-19/ch652]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-19%2Fch652
 [/us/stat/48/1064]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F1064

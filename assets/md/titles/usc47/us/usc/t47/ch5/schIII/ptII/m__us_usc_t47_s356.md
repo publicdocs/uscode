@@ -23,7 +23,7 @@
 
     (3) To prescribe such additional equipment as may be determined to be necessary to supplement that specified in this part, for the proper functioning of the radio installation installed in accordance with this part or for the proper conduct of radio communication in time of emergency or distress.
 
-([June 19, 1934, ch. 652][/us/act/1934-06-19/ch652], title III, § 358, formerly § 356, as added [May 20, 1937, ch. 229, § 10(b)][/us/act/1937-05-20/ch229/s10/b], [50 Stat. 194][/us/stat/50/194]; renumbered § 358, [Aug. 13, 1954, ch. 729, § 2(a)(1)][/us/act/1954-08-13/ch729/s2/a/1], [68 Stat. 706][/us/stat/68/706]; amended [Pub. L. 103–414, title III, § 303(a)(19)][/us/pl/103/414/s303/a/19], Oct. 25, 1994, [108 Stat. 4295][/us/stat/108/4295].)
+([June 19, 1934, ch. 652][/us/act/1934-06-19/ch652], title III, § 358, formerly § 356, as added [May 20, 1937, ch. 229][/us/act/1937-05-20/ch229], § 10(b), [50 Stat. 194][/us/stat/50/194]; renumbered § 358, [Aug. 13, 1954, ch. 729][/us/act/1954-08-13/ch729], § 2(a)(1), [68 Stat. 706][/us/stat/68/706]; amended [Pub. L. 103–414, title III][/us/pl/103/414/tIII], § 303(a)(19), Oct. 25, 1994, [108 Stat. 4295][/us/stat/108/4295].)
 
  __References in Text__ 
 
@@ -45,11 +45,11 @@
 ----------
 
 [/us/act/1934-06-19/ch652]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-19%2Fch652
-[/us/act/1937-05-20/ch229/s10/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1937-05-20%2Fch229%2Fs10%2Fb
+[/us/act/1937-05-20/ch229]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1937-05-20%2Fch229
 [/us/stat/50/194]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F50%2F194
-[/us/act/1954-08-13/ch729/s2/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-13%2Fch729%2Fs2%2Fa%2F1
+[/us/act/1954-08-13/ch729]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-13%2Fch729
 [/us/stat/68/706]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68%2F706
-[/us/pl/103/414/s303/a/19]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F414%2Fs303%2Fa%2F19
+[/us/pl/103/414/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F414%2FtIII
 [/us/stat/108/4295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4295
 [/us/usc/t47/s351]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs351
 [/us/pl/103/414]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F414

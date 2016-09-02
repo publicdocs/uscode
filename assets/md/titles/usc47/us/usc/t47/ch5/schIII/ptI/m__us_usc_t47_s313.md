@@ -23,7 +23,7 @@
 
         The Commission is hereby directed to refuse a station license and/or the permit hereinafter required for the construction of a station to any person (or to any person directly or indirectly controlled by such person) whose license has been revoked by a court under this section.
 
-([June 19, 1934, ch. 652][/us/act/1934-06-19/ch652], title III, § 313, [48 Stat. 1087][/us/stat/48/1087]; [Pub. L. 86–752, § 5(b)][/us/pl/86/752/s5/b], Sept. 13, 1960, [74 Stat. 893][/us/stat/74/893].)
+([June 19, 1934, ch. 652][/us/act/1934-06-19/ch652], title III, § 313, [48 Stat. 1087][/us/stat/48/1087]; [Pub. L. 86–752][/us/pl/86/752], § 5(b), Sept. 13, 1960, [74 Stat. 893][/us/stat/74/893].)
 
  __Amendments__ 
 
@@ -42,7 +42,7 @@
 
 [/us/act/1934-06-19/ch652]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-19%2Fch652
 [/us/stat/48/1087]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F1087
-[/us/pl/86/752/s5/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F752%2Fs5%2Fb
+[/us/pl/86/752]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F752
 [/us/stat/74/893]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F74%2F893
 [/us/pl/86/752]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F752
 [/us/stat/64/1264]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F1264

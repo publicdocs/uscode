@@ -59,7 +59,7 @@
 
         (5) Furthering scientific knowledge about telecommunications and information.
 
-([Pub. L. 102–538, title I, § 102][/us/pl/102/538/s102], Oct. 27, 1992, [106 Stat. 3533][/us/stat/106/3533].)
+([Pub. L. 102–538, title I][/us/pl/102/538/tI], § 102, Oct. 27, 1992, [106 Stat. 3533][/us/stat/106/3533].)
 
  __References in Text__ 
 
@@ -71,35 +71,35 @@
 
  __Short Title of 2015 Amendment__ 
 
-[Pub. L. 114–74, title X, § 1001][/us/pl/114/74/s1001], Nov. 2, 2015, [129 Stat. 621][/us/stat/129/621], provided that: 
+[Pub. L. 114–74, title X][/us/pl/114/74/tX], § 1001, Nov. 2, 2015, [129 Stat. 621][/us/stat/129/621], provided that: 
 
 > “This title \[amending sections 309, 923, and 928 of this title and enacting provisions set out as a note under [section 921 of this title][/us/usc/t47/s921]\] may be cited as the ‘Spectrum Pipeline Act of 2015’.”
 
  __Short Title of 2007 Amendment__ 
 
-[Pub. L. 110–53, title XXIII, § 2301][/us/pl/110/53/s2301], Aug. 3, 2007, [121 Stat. 543][/us/stat/121/543], as amended by [Pub. L. 110–161, div. B, title V, § 539][/us/pl/110/161/s539], Dec. 26, 2007, [121 Stat. 1934][/us/stat/121/1934], provided that: 
+[Pub. L. 110–53, title XXIII][/us/pl/110/53/tXXIII], § 2301, Aug. 3, 2007, [121 Stat. 543][/us/stat/121/543], as amended by [Pub. L. 110–161, div. B, title V][/us/pl/110/161/dB/tV], § 539, Dec. 26, 2007, [121 Stat. 1934][/us/stat/121/1934], provided that: 
 
 > “This title \[amending [section 942 of this title][/us/usc/t47/s942] and provisions set out as a note under [section 309 of this title][/us/usc/t47/s309]\] may be cited as the ‘911 Modernization Act’.”
 
  __Short Title of 2004 Amendment__ 
 
-[Pub. L. 108–494, title I, § 101][/us/pl/108/494/s101], Dec. 23, 2004, [118 Stat. 3986][/us/stat/118/3986], provided that: 
+[Pub. L. 108–494, title I][/us/pl/108/494/tI], § 101, Dec. 23, 2004, [118 Stat. 3986][/us/stat/118/3986], provided that: 
 
 > “This title \[enacting [section 942 of this title][/us/usc/t47/s942] and provisions set out as notes under [section 942 of this title][/us/usc/t47/s942]\] may be cited as the ‘Ensuring Needed Help Arrives Near Callers Employing 911 Act of 2004’ or the ‘ENHANCE 911 Act of 2004’.”
 
-[Pub. L. 108–494, title II, § 201][/us/pl/108/494/s201], Dec. 23, 2004, [118 Stat. 3991][/us/stat/118/3991], provided that: 
+[Pub. L. 108–494, title II][/us/pl/108/494/tII], § 201, Dec. 23, 2004, [118 Stat. 3991][/us/stat/118/3991], provided that: 
 
 > “This title \[enacting [section 928 of this title][/us/usc/t47/s928], amending sections 309, 614, and 923 of this title, and enacting provisions set out as notes under sections 921, 923, and 928 of this title\] may be cited as the ‘Commercial Spectrum Enhancement Act’.”
 
  __Short Title of 2002 Amendment__ 
 
-[Pub. L. 107–317, § 1][/us/pl/107/317/s1], Dec. 4, 2002, [116 Stat. 2766][/us/stat/116/2766], provided that: 
+[Pub. L. 107–317][/us/pl/107/317], § 1, Dec. 4, 2002, [116 Stat. 2766][/us/stat/116/2766], provided that: 
 
 > “This Act \[enacting subchapter III of this chapter, amending [section 902 of this title][/us/usc/t47/s902], and enacting provisions set out as a note under [section 941 of this title][/us/usc/t47/s941]\] may be cited as the ‘Dot Kids Implementation and Efficiency Act of 2002’.”
 
  __Short Title__ 
 
-[Pub. L. 102–538, title I, § 101][/us/pl/102/538/s101], Oct. 27, 1992, [106 Stat. 3533][/us/stat/106/3533], provided that: 
+[Pub. L. 102–538, title I][/us/pl/102/538/tI], § 101, Oct. 27, 1992, [106 Stat. 3533][/us/stat/106/3533], provided that: 
 
 > “This title \[enacting this chapter, amending [section 394 of this title][/us/usc/t47/s394], and enacting provisions set out as a note under [section 254r of Title 42][/us/usc/t42/s254r], The Public Health and Welfare\] may be cited as the ‘National Telecommunications and Information Administration Organization Act’.”
 
@@ -181,7 +181,7 @@ By the authority vested in me as President by the Constitution of the United Sta
 ----------
 
 [/us/usc/t47/s731]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs731
-[/us/pl/102/538/s102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F538%2Fs102
+[/us/pl/102/538/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F538%2FtI
 [/us/stat/106/3533]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3533
 [/us/pl/102/538]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F538
 [/us/stat/106/3533]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3533
@@ -189,27 +189,27 @@ By the authority vested in me as President by the Constitution of the United Sta
 [/us/stat/76/419]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F419
 [/us/usc/t47/s701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs701
 [/us/usc/t47/s305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs305
-[/us/pl/114/74/s1001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F74%2Fs1001
+[/us/pl/114/74/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F74%2FtX
 [/us/stat/129/621]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F621
 [/us/usc/t47/s921]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs921
-[/us/pl/110/53/s2301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53%2Fs2301
+[/us/pl/110/53/tXXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53%2FtXXIII
 [/us/stat/121/543]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F543
-[/us/pl/110/161/s539]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F161%2Fs539
+[/us/pl/110/161/dB/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F161%2FdB%2FtV
 [/us/stat/121/1934]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F1934
 [/us/usc/t47/s942]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs942
 [/us/usc/t47/s309]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs309
-[/us/pl/108/494/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F494%2Fs101
+[/us/pl/108/494/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F494%2FtI
 [/us/stat/118/3986]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F3986
 [/us/usc/t47/s942]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs942
 [/us/usc/t47/s942]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs942
-[/us/pl/108/494/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F494%2Fs201
+[/us/pl/108/494/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F494%2FtII
 [/us/stat/118/3991]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F3991
 [/us/usc/t47/s928]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs928
-[/us/pl/107/317/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F317%2Fs1
+[/us/pl/107/317]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F317
 [/us/stat/116/2766]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2766
 [/us/usc/t47/s902]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs902
 [/us/usc/t47/s941]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs941
-[/us/pl/102/538/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F538%2Fs101
+[/us/pl/102/538/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F538%2FtI
 [/us/stat/106/3533]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3533
 [/us/usc/t47/s394]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs394
 [/us/usc/t42/s254r]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs254r

@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t47/ch6/schV/m__us_usc_t47_s753.md) | [Next](./../../../../..//us/usc/t47/ch6/schVI/m__us_usc_t47_ch6_schVI.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs757)
+[Previous](./../../../../..//us/usc/t47/ch6/schV/m__us_usc_t47_s754...756.md) | [Next](./../../../../..//us/usc/t47/ch6/schVI/m__us_usc_t47_ch6_schVI.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs757)
 
 ## § 757. Definitions
 
@@ -25,11 +25,11 @@
 
     (4) the term “State” means the several States, the District of Columbia, the Commonwealth of Puerto Rico, Guam, the Virgin Islands, the Trust Territory of the Pacific Islands, and any other territory or possession of the United States.
 
-([Pub. L. 87–624, title V, § 505][/us/pl/87/624/s505], formerly § 508, as added [Pub. L. 95–564][/us/pl/95/564], Nov. 1, 1978, [92 Stat. 2396][/us/stat/92/2396]; renumbered § 505, [Pub. L. 103–414, title III, § 304(b)(6)][/us/pl/103/414/s304/b/6], Oct. 25, 1994, [108 Stat. 4298][/us/stat/108/4298].)
+([Pub. L. 87–624, title V][/us/pl/87/624/tV], § 505, formerly § 508, as added [Pub. L. 95–564][/us/pl/95/564], Nov. 1, 1978, [92 Stat. 2396][/us/stat/92/2396]; renumbered § 505, [Pub. L. 103–414, title III][/us/pl/103/414/tIII], § 304(b)(6), Oct. 25, 1994, [108 Stat. 4298][/us/stat/108/4298].)
 
  __Prior Provisions__ 
 
-    A prior [section 505 of Pub. L. 87–624][/us/pl/87/624/s505] was classified to [section 754 of this title][/us/usc/t47/s754] prior to repeal by [Pub. L. 103–414, § 304(b)(5)][/us/pl/103/414/s304/b/5].
+    A prior [section 505 of Pub. L. 87–624][/us/pl/87/624/s505] was classified to [section 754 of this title][/us/usc/t47/s754] prior to repeal by [Pub. L. 103–414][/us/pl/103/414], § 304(b)(5).
 
  __Termination of Trust Territory of the Pacific Islands__ 
 
@@ -37,19 +37,19 @@
 
 ----------
 
-[Previous](./../../../../..//us/usc/t47/ch6/schV/m__us_usc_t47_s753.md) | [Next](./../../../../..//us/usc/t47/ch6/schVI/m__us_usc_t47_ch6_schVI.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs757)
+[Previous](./../../../../..//us/usc/t47/ch6/schV/m__us_usc_t47_s754...756.md) | [Next](./../../../../..//us/usc/t47/ch6/schVI/m__us_usc_t47_ch6_schVI.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs757)
 
 ----------
 ----------
 
-[/us/pl/87/624/s505]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F624%2Fs505
+[/us/pl/87/624/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F624%2FtV
 [/us/pl/95/564]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F564
 [/us/stat/92/2396]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2396
-[/us/pl/103/414/s304/b/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F414%2Fs304%2Fb%2F6
+[/us/pl/103/414/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F414%2FtIII
 [/us/stat/108/4298]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4298
 [/us/pl/87/624/s505]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F624%2Fs505
 [/us/usc/t47/s754]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs754
-[/us/pl/103/414/s304/b/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F414%2Fs304%2Fb%2F5
+[/us/pl/103/414]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F414
 [/us/usc/t48/s1681]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft48%2Fs1681
 
 

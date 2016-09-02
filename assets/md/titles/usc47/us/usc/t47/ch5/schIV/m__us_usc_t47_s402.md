@@ -75,7 +75,7 @@
 
         The court’s judgment shall be final, subject, however, to review by the Supreme Court of the United States upon writ of certiorari on petition therefor under [section 1254 of title 28][/us/usc/t28/s1254], by the appellant, by the Commission, or by any interested party intervening in the appeal, or by certification by the court pursuant to the provisions of that section.
 
-([June 19, 1934, ch. 652][/us/act/1934-06-19/ch652], title IV, § 402, [48 Stat. 1093][/us/stat/48/1093]; [May 20, 1937, ch. 229][/us/act/1937-05-20/ch229], §§ 11–13, [50 Stat. 197][/us/stat/50/197]; [May 24, 1949, ch. 139, § 132][/us/act/1949-05-24/ch139/s132], [63 Stat. 108][/us/stat/63/108]; [July 16, 1952, ch. 879, § 14][/us/act/1952-07-16/ch879/s14], [66 Stat. 718][/us/stat/66/718]; [Pub. L. 85–791, § 12][/us/pl/85/791/s12], Aug. 28, 1958, [72 Stat. 945][/us/stat/72/945]; [Pub. L. 97–259, title I][/us/pl/97/259], §§ 121, 127(b), Sept. 13, 1982, [96 Stat. 1097][/us/stat/96/1097], 1099; [Pub. L. 98–620, title IV, § 402(50)][/us/pl/98/620/s402/50], Nov. 8, 1984, [98 Stat. 3361][/us/stat/98/3361]; [Pub. L. 104–104, title I, § 151(b)][/us/pl/104/104/s151/b], Feb. 8, 1996, [110 Stat. 107][/us/stat/110/107]; [Pub. L. 111–260, title I, § 104(d)][/us/pl/111/260/s104/d], Oct. 8, 2010, [124 Stat. 2762][/us/stat/124/2762].)
+([June 19, 1934, ch. 652][/us/act/1934-06-19/ch652], title IV, § 402, [48 Stat. 1093][/us/stat/48/1093]; [May 20, 1937, ch. 229][/us/act/1937-05-20/ch229], §§ 11–13, [50 Stat. 197][/us/stat/50/197]; [May 24, 1949, ch. 139][/us/act/1949-05-24/ch139], § 132, [63 Stat. 108][/us/stat/63/108]; [July 16, 1952, ch. 879][/us/act/1952-07-16/ch879], § 14, [66 Stat. 718][/us/stat/66/718]; [Pub. L. 85–791][/us/pl/85/791], § 12, Aug. 28, 1958, [72 Stat. 945][/us/stat/72/945]; [Pub. L. 97–259, title I][/us/pl/97/259/tI], §§ 121, 127(b), Sept. 13, 1982, [96 Stat. 1097][/us/stat/96/1097], 1099; [Pub. L. 98–620, title IV][/us/pl/98/620/tIV], § 402(50), Nov. 8, 1984, [98 Stat. 3361][/us/stat/98/3361]; [Pub. L. 104–104, title I][/us/pl/104/104/tI], § 151(b), Feb. 8, 1996, [110 Stat. 107][/us/stat/110/107]; [Pub. L. 111–260, title I][/us/pl/111/260/tI], § 104(d), Oct. 8, 2010, [124 Stat. 2762][/us/stat/124/2762].)
 
  __References in Text__ 
 
@@ -85,15 +85,15 @@
 
     2010—Subsec. (b)(10). [Pub. L. 111–260][/us/pl/111/260] added par. (10).
 
-    1996—Par. (6). [Pub. L. 104–104, § 151(b)(1)][/us/pl/104/104/s151/b/1], inserted reference to par. (9).
+    1996—Par. (6). [Pub. L. 104–104][/us/pl/104/104], § 151(b)(1), inserted reference to par. (9).
 
-    Subsec. (b)(9). [Pub. L. 104–104, § 151(b)(2)][/us/pl/104/104/s151/b/2], added par. (9).
+    Subsec. (b)(9). [Pub. L. 104–104][/us/pl/104/104], § 151(b)(2), added par. (9).
 
     1984—Subsec. (g). [Pub. L. 98–620][/us/pl/98/620] substituted “The” for “At the earliest convenient time the” and “706 of title 5” for “10(e) of the Administrative Procedure Act \[former [5 U.S.C. 1009(e)][/us/usc/t5/s1009/e]\]”.
 
-    1982—Subsec. (a). [Pub. L. 97–259, § 127(b)][/us/pl/97/259/s127/b], substituted “chapter 158 of title 28” for “Public Law 901, Eighty-first Congress, approved December 29, 1950”.
+    1982—Subsec. (a). [Pub. L. 97–259][/us/pl/97/259], § 127(b), substituted “chapter 158 of title 28” for “Public Law 901, Eighty-first Congress, approved December 29, 1950”.
 
-    Subsec. (d). [Pub. L. 97–259, § 121][/us/pl/97/259/s121], substituted “appellant” for “Commission”, “filing of such notice” for “date of service upon it”, struck out “and shall thereafter permit any such person to inspect and make copies of said notice and statement of reasons therefor at the office of the Commission in the city of Washington” after “pendency of the same”, and substituted “The” for “Within thirty days after the filing of an appeal, the” before “Commission shall file”.
+    Subsec. (d). [Pub. L. 97–259][/us/pl/97/259], § 121, substituted “appellant” for “Commission”, “filing of such notice” for “date of service upon it”, struck out “and shall thereafter permit any such person to inspect and make copies of said notice and statement of reasons therefor at the office of the Commission in the city of Washington” after “pendency of the same”, and substituted “The” for “Within thirty days after the filing of an appeal, the” before “Commission shall file”.
 
     1958—Subsec. (d). [Pub. L. 85–791][/us/pl/85/791] substituted “the record upon which the order complained of was entered, as provided in [section 2112 of title 28][/us/usc/t28/s2112],” for “a copy of the order complained of, a full statement in writing of the facts and grounds relied upon by it in support of the order involved upon said appeal, and the originals or certified copies of all papers and evidence presented to and considered by it in entering said order” in second sentence.
 
@@ -143,30 +143,30 @@ Section 19(2) of act July 16, 1952, provided that:
 [/us/stat/48/1093]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F1093
 [/us/act/1937-05-20/ch229]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1937-05-20%2Fch229
 [/us/stat/50/197]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F50%2F197
-[/us/act/1949-05-24/ch139/s132]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-05-24%2Fch139%2Fs132
+[/us/act/1949-05-24/ch139]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-05-24%2Fch139
 [/us/stat/63/108]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F63%2F108
-[/us/act/1952-07-16/ch879/s14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1952-07-16%2Fch879%2Fs14
+[/us/act/1952-07-16/ch879]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1952-07-16%2Fch879
 [/us/stat/66/718]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F66%2F718
-[/us/pl/85/791/s12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F791%2Fs12
+[/us/pl/85/791]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F791
 [/us/stat/72/945]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F945
-[/us/pl/97/259]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F259
+[/us/pl/97/259/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F259%2FtI
 [/us/stat/96/1097]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1097
-[/us/pl/98/620/s402/50]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F620%2Fs402%2F50
+[/us/pl/98/620/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F620%2FtIV
 [/us/stat/98/3361]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F3361
-[/us/pl/104/104/s151/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F104%2Fs151%2Fb
+[/us/pl/104/104/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F104%2FtI
 [/us/stat/110/107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F107
-[/us/pl/111/260/s104/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F260%2Fs104%2Fd
+[/us/pl/111/260/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F260%2FtI
 [/us/stat/124/2762]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2762
 [/us/act/1934-06-19/ch652]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-19%2Fch652
 [/us/stat/48/1064]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F1064
 [/us/usc/t47/s609]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs609
 [/us/pl/111/260]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F260
-[/us/pl/104/104/s151/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F104%2Fs151%2Fb%2F1
-[/us/pl/104/104/s151/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F104%2Fs151%2Fb%2F2
+[/us/pl/104/104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F104
+[/us/pl/104/104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F104
 [/us/pl/98/620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F620
 [/us/usc/t5/s1009/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs1009%2Fe
-[/us/pl/97/259/s127/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F259%2Fs127%2Fb
-[/us/pl/97/259/s121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F259%2Fs121
+[/us/pl/97/259]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F259
+[/us/pl/97/259]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F259
 [/us/pl/85/791]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F791
 [/us/usc/t28/s2112]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs2112
 [/us/stat/38/219]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F38%2F219

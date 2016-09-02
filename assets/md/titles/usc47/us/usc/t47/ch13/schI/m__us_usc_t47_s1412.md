@@ -17,7 +17,7 @@
 
     The Commission may allow the narrowband spectrum to be used in a flexible manner, including usage for public safety broadband communications, subject to such technical and interference protection measures as the Commission may require.
 
-([Pub. L. 112–96, title VI, § 6102][/us/pl/112/96/s6102], Feb. 22, 2012, [126 Stat. 205][/us/stat/126/205].)
+([Pub. L. 112–96, title VI][/us/pl/112/96/tVI], § 6102, Feb. 22, 2012, [126 Stat. 205][/us/stat/126/205].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/112/96/s6102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F96%2Fs6102
+[/us/pl/112/96/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F96%2FtVI
 [/us/stat/126/205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F205
 
 

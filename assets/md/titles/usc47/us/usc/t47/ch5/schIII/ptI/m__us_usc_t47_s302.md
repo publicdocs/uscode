@@ -13,9 +13,9 @@
 
 [Previous](./../../../../../..//us/usc/t47/ch5/schIII/ptI/m__us_usc_t47_s301.md) | [Next](./../../../../../..//us/usc/t47/ch5/schIII/ptI/m__us_usc_t47_s302a.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs302)
 
-## § 302. Repealed. [June 5, 1936, ch. 511, § 1][/us/act/1936-06-05/ch511/s1], [49 Stat. 1475][/us/stat/49/1475]
+## § 302. Repealed. [June 5, 1936, ch. 511][/us/act/1936-06-05/ch511], § 1, [49 Stat. 1475][/us/stat/49/1475]
 
-    Section, [act June 19, 1934, ch. 652][/us/act/1934-06-19/ch652], title III, § 302, [48 Stat. 1081][/us/stat/48/1081], divided United States into five zones for purposes of this subchapter.
+    Section, [act June 19, 1934, ch. 652, title III][/us/act/1934-06-19/ch652/tIII], § 302, [48 Stat. 1081][/us/stat/48/1081], divided United States into five zones for purposes of this subchapter.
 
 ----------
 
@@ -24,9 +24,9 @@
 ----------
 ----------
 
-[/us/act/1936-06-05/ch511/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1936-06-05%2Fch511%2Fs1
+[/us/act/1936-06-05/ch511]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1936-06-05%2Fch511
 [/us/stat/49/1475]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F1475
-[/us/act/1934-06-19/ch652]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-19%2Fch652
+[/us/act/1934-06-19/ch652/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-19%2Fch652%2FtIII
 [/us/stat/48/1081]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F1081
 
 

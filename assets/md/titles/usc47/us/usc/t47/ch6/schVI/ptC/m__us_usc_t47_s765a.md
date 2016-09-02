@@ -47,11 +47,11 @@
 
         Notwithstanding any other law or executive agreement, the Commission shall have the authority to impose similar regulatory fees on the United States signatory which it imposes on other entities providing similar services.
 
-([Pub. L. 87–624, title VI, § 642][/us/pl/87/624/s642], as added [Pub. L. 106–180, § 3][/us/pl/106/180/s3], Mar. 17, 2000, [114 Stat. 55][/us/stat/114/55].)
+([Pub. L. 87–624, title VI][/us/pl/87/624/tVI], § 642, as added [Pub. L. 106–180][/us/pl/106/180], § 3, Mar. 17, 2000, [114 Stat. 55][/us/stat/114/55].)
 
  __References in Text__ 
 
-    [Section 763c of this title][/us/usc/t47/s763c], referred to in subsec. (a)(2), was amended generally by [Pub. L. 109–34, § 3][/us/pl/109/34/s3], July 12, 2005, [119 Stat. 377][/us/stat/119/377], and no longer relates to specific criteria for Inmarsat privatization.
+    [Section 763c of this title][/us/usc/t47/s763c], referred to in subsec. (a)(2), was amended generally by [Pub. L. 109–34][/us/pl/109/34], § 3, July 12, 2005, [119 Stat. 377][/us/stat/119/377], and no longer relates to specific criteria for Inmarsat privatization.
 
 ----------
 
@@ -60,11 +60,11 @@
 ----------
 ----------
 
-[/us/pl/87/624/s642]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F624%2Fs642
-[/us/pl/106/180/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F180%2Fs3
+[/us/pl/87/624/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F624%2FtVI
+[/us/pl/106/180]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F180
 [/us/stat/114/55]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F55
 [/us/usc/t47/s763c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs763c
-[/us/pl/109/34/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F34%2Fs3
+[/us/pl/109/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F34
 [/us/stat/119/377]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F377
 
 

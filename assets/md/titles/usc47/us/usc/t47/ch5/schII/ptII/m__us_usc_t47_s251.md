@@ -191,7 +191,7 @@
 
         Nothing in this section shall be construed to limit or otherwise affect the Commission’s authority under [section 201 of this title][/us/usc/t47/s201].
 
-([June 19, 1934, ch. 652][/us/act/1934-06-19/ch652], title II, § 251, as added [Pub. L. 104–104, title I, § 101(a)][/us/pl/104/104/s101/a], Feb. 8, 1996, [110 Stat. 61][/us/stat/110/61]; amended [Pub. L. 106–81, § 3(a)][/us/pl/106/81/s3/a], Oct. 26, 1999, [113 Stat. 1287][/us/stat/113/1287].)
+([June 19, 1934, ch. 652][/us/act/1934-06-19/ch652], title II, § 251, as added [Pub. L. 104–104, title I][/us/pl/104/104/tI], § 101(a), Feb. 8, 1996, [110 Stat. 61][/us/stat/110/61]; amended [Pub. L. 106–81][/us/pl/106/81], § 3(a), Oct. 26, 1999, [113 Stat. 1287][/us/stat/113/1287].)
 
  __Amendments__ 
 
@@ -212,9 +212,9 @@
 [/us/usc/t47/s254]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs254
 [/us/usc/t47/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs201
 [/us/act/1934-06-19/ch652]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-19%2Fch652
-[/us/pl/104/104/s101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F104%2Fs101%2Fa
+[/us/pl/104/104/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F104%2FtI
 [/us/stat/110/61]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F61
-[/us/pl/106/81/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F81%2Fs3%2Fa
+[/us/pl/106/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F81
 [/us/stat/113/1287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1287
 [/us/pl/106/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F81
 

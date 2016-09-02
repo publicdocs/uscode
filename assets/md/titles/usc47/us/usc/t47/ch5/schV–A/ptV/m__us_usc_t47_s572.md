@@ -93,7 +93,7 @@
 
         For purposes of this section, the term “telephone service area” when used in connection with a common carrier subject in whole or in part to subchapter II of this chapter means the area within which such carrier provided telephone exchange service as of January 1, 1993, but if any common carrier after such date transfers its telephone exchange service facilities to another common carrier, the area to which such facilities provide telephone exchange service shall be treated as part of the telephone service area of the acquiring common carrier and not of the selling common carrier.
 
-([June 19, 1934, ch. 652][/us/act/1934-06-19/ch652], title VI, § 652, as added [Pub. L. 104–104, title III, § 302(a)][/us/pl/104/104/s302/a], Feb. 8, 1996, [110 Stat. 119][/us/stat/110/119].)
+([June 19, 1934, ch. 652][/us/act/1934-06-19/ch652], title VI, § 652, as added [Pub. L. 104–104, title III][/us/pl/104/104/tIII], § 302(a), Feb. 8, 1996, [110 Stat. 119][/us/stat/110/119].)
 
 ----------
 
@@ -103,7 +103,7 @@
 ----------
 
 [/us/act/1934-06-19/ch652]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-19%2Fch652
-[/us/pl/104/104/s302/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F104%2Fs302%2Fa
+[/us/pl/104/104/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F104%2FtIII
 [/us/stat/110/119]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F119
 
 

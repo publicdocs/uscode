@@ -29,11 +29,11 @@
 
         The scope and extent of the immunity and protection from liability afforded under subsection (a) shall be the same as that provided under [section 615a of this title][/us/usc/t47/s615a] to wireless carriers, public safety answering points, and users of wireless 9–1–1 service (as defined in paragraphs (4), (3), and (6), respectively, of [section 615b of this title][/us/usc/t47/s615b]  <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup> ) with respect to such release, use, and other matters.
 
-([Pub. L. 112–96, title VI, § 6506][/us/pl/112/96/s6506], Feb. 22, 2012, [126 Stat. 242][/us/stat/126/242].)
+([Pub. L. 112–96, title VI][/us/pl/112/96/tVI], § 6506, Feb. 22, 2012, [126 Stat. 242][/us/stat/126/242].)
 
  __References in Text__ 
 
-    [Section 615b of this title][/us/usc/t47/s615b], referred to in subsec. (b), was in the original a reference to section 6 of the Wireless Communications and Public Safety Act of 1999, [Pub. L. 106–81][/us/pl/106/81], and was translated as if it had been a reference to [section 7 of Pub. L. 106–81][/us/pl/106/81/s7], which is classified to [section 615b of this title][/us/usc/t47/s615b], to reflect the probable intent of Congress and the renumbering of [section 6 of Pub. L. 106–81][/us/pl/106/81/s6] as section 7 by [Pub. L. 110–283, title I, § 101(1)][/us/pl/110/283/s101/1], July 23, 2008, [122 Stat. 2620][/us/stat/122/2620]. [Pub. L. 110–283, title I, § 101(3)][/us/pl/110/283/s101/3], July 23, 2008, [122 Stat. 2620][/us/stat/122/2620] enacted a new section 6 of the Wireless Communications and Public Safety Act of 1999 which is classified to [section 215a–1 of this title][/us/usc/t47/s215a–1], but that section does not contain definitions.
+    [Section 615b of this title][/us/usc/t47/s615b], referred to in subsec. (b), was in the original a reference to section 6 of the Wireless Communications and Public Safety Act of 1999, [Pub. L. 106–81][/us/pl/106/81], and was translated as if it had been a reference to [section 7 of Pub. L. 106–81][/us/pl/106/81/s7], which is classified to [section 615b of this title][/us/usc/t47/s615b], to reflect the probable intent of Congress and the renumbering of [section 6 of Pub. L. 106–81][/us/pl/106/81/s6] as section 7 by [Pub. L. 110–283, title I][/us/pl/110/283/tI], § 101(1), July 23, 2008, [122 Stat. 2620][/us/stat/122/2620]. [Pub. L. 110–283, title I][/us/pl/110/283/tI], § 101(3), July 23, 2008, [122 Stat. 2620][/us/stat/122/2620] enacted a new section 6 of the Wireless Communications and Public Safety Act of 1999 which is classified to [section 215a–1 of this title][/us/usc/t47/s215a–1], but that section does not contain definitions.
 
 ----------
 
@@ -44,16 +44,16 @@
 
 [/us/usc/t47/s615a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs615a
 [/us/usc/t47/s615b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs615b
-[/us/pl/112/96/s6506]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F96%2Fs6506
+[/us/pl/112/96/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F96%2FtVI
 [/us/stat/126/242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F242
 [/us/usc/t47/s615b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs615b
 [/us/pl/106/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F81
 [/us/pl/106/81/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F81%2Fs7
 [/us/usc/t47/s615b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs615b
 [/us/pl/106/81/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F81%2Fs6
-[/us/pl/110/283/s101/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F283%2Fs101%2F1
+[/us/pl/110/283/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F283%2FtI
 [/us/stat/122/2620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F2620
-[/us/pl/110/283/s101/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F283%2Fs101%2F3
+[/us/pl/110/283/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F283%2FtI
 [/us/stat/122/2620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F2620
 [/us/usc/t47/s215a–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs215a%E2%80%931
 

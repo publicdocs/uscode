@@ -215,7 +215,7 @@
 
         Nothing in this section shall be construed to alter the obligations, powers, or duties of common carriers or the Commission under the other sections of this chapter.
 
-([June 19, 1934, ch. 652][/us/act/1934-06-19/ch652], title II, § 226, as added [Pub. L. 101–435, § 3][/us/pl/101/435/s3], Oct. 17, 1990, [104 Stat. 987][/us/stat/104/987]; amended [Pub. L. 101–555, § 4][/us/pl/101/555/s4], Nov. 15, 1990, [104 Stat. 2760][/us/stat/104/2760]; [Pub. L. 102–538, title II, § 207][/us/pl/102/538/s207], Oct. 27, 1992, [106 Stat. 3543][/us/stat/106/3543]; [Pub. L. 103–414, title III][/us/pl/103/414], §§ 303(a)(10), 304(a)(8), Oct. 25, 1994, [108 Stat. 4294][/us/stat/108/4294], 4297.)
+([June 19, 1934, ch. 652][/us/act/1934-06-19/ch652], title II, § 226, as added [Pub. L. 101–435][/us/pl/101/435], § 3, Oct. 17, 1990, [104 Stat. 987][/us/stat/104/987]; amended [Pub. L. 101–555][/us/pl/101/555], § 4, Nov. 15, 1990, [104 Stat. 2760][/us/stat/104/2760]; [Pub. L. 102–538, title II][/us/pl/102/538/tII], § 207, Oct. 27, 1992, [106 Stat. 3543][/us/stat/106/3543]; [Pub. L. 103–414, title III][/us/pl/103/414/tIII], §§ 303(a)(10), 304(a)(8), Oct. 25, 1994, [108 Stat. 4294][/us/stat/108/4294], 4297.)
 
  __References in Text__ 
 
@@ -223,15 +223,15 @@
 
  __Amendments__ 
 
-    1994—Subsec. (d)(2) to (4). [Pub. L. 103–414, § 303(a)(10)][/us/pl/103/414/s303/a/10], redesignated pars. (3) and (4) as (2) and (3), respectively, and struck out heading and text of former par. (2). Text read as follows: “The Commission shall initiate the proceeding required under paragraph (1) within 60 days after October 17, 1990, and shall prescribe regulations pursuant to the proceeding not later than 210 days after October 17, 1990. Such regulations shall take effect not later than 45 days after the date the regulations are prescribed.”
+    1994—Subsec. (d)(2) to (4). [Pub. L. 103–414][/us/pl/103/414], § 303(a)(10), redesignated pars. (3) and (4) as (2) and (3), respectively, and struck out heading and text of former par. (2). Text read as follows: “The Commission shall initiate the proceeding required under paragraph (1) within 60 days after October 17, 1990, and shall prescribe regulations pursuant to the proceeding not later than 210 days after October 17, 1990. Such regulations shall take effect not later than 45 days after the date the regulations are prescribed.”
 
-    Subsec. (e)(1). [Pub. L. 103–414, § 304(a)(8)][/us/pl/103/414/s304/a/8], struck out “within 9 months after October 17, 1990,” after “The Commission,” in introductory provisions.
+    Subsec. (e)(1). [Pub. L. 103–414][/us/pl/103/414], § 304(a)(8), struck out “within 9 months after October 17, 1990,” after “The Commission,” in introductory provisions.
 
     1992—Subsec. (d)(4)(A). [Pub. L. 102–538][/us/pl/102/538] inserted “and aggregators” after “operator services”.
 
-    1990—Subsec. (b)(1). [Pub. L. 101–555, § 4(a)][/us/pl/101/555/s4/a], substituted “90 days” for “30 days”.
+    1990—Subsec. (b)(1). [Pub. L. 101–555][/us/pl/101/555], § 4(a), substituted “90 days” for “30 days”.
 
-    Subsec. (b)(1)(J). [Pub. L. 101–555, § 4(b)][/us/pl/101/555/s4/b], struck out subpar. (J) which read as follows: “not bill an inter­exchange telephone call to a billing card number which—
+    Subsec. (b)(1)(J). [Pub. L. 101–555][/us/pl/101/555], § 4(b), struck out subpar. (J) which read as follows: “not bill an inter­exchange telephone call to a billing card number which—
 
     “(i) is issued by another provider of operator services, and
 
@@ -239,11 +239,11 @@
 
     unless the call is billed at a rate not greater than the other provider’s rate for the call, the consumer requests a special service that is not available under tariff from the other provider, or the consumer expressly consents to a rate greater than the other provider’s rate.”
 
-    Subsecs. (b)(2), (c)(1), (h)(1)(A). [Pub. L. 101–555, § 4(a)][/us/pl/101/555/s4/a], substituted “90 days” for “30 days”.
+    Subsecs. (b)(2), (c)(1), (h)(1)(A). [Pub. L. 101–555][/us/pl/101/555], § 4(a), substituted “90 days” for “30 days”.
 
  __Congressional Findings__ 
 
-[Pub. L. 101–435, § 2][/us/pl/101/435/s2], Oct. 17, 1990, [104 Stat. 986][/us/stat/104/986], provided that: 
+[Pub. L. 101–435][/us/pl/101/435], § 2, Oct. 17, 1990, [104 Stat. 986][/us/stat/104/986], provided that: 
 
 > “The Congress finds that—
 
@@ -275,24 +275,24 @@
 ----------
 
 [/us/act/1934-06-19/ch652]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-19%2Fch652
-[/us/pl/101/435/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F435%2Fs3
+[/us/pl/101/435]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F435
 [/us/stat/104/987]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F987
-[/us/pl/101/555/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F555%2Fs4
+[/us/pl/101/555]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F555
 [/us/stat/104/2760]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F2760
-[/us/pl/102/538/s207]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F538%2Fs207
+[/us/pl/102/538/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F538%2FtII
 [/us/stat/106/3543]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3543
-[/us/pl/103/414]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F414
+[/us/pl/103/414/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F414%2FtIII
 [/us/stat/108/4294]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4294
 [/us/act/1934-06-19/ch652]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-19%2Fch652
 [/us/stat/48/1064]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F1064
 [/us/usc/t47/s609]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs609
-[/us/pl/103/414/s303/a/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F414%2Fs303%2Fa%2F10
-[/us/pl/103/414/s304/a/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F414%2Fs304%2Fa%2F8
+[/us/pl/103/414]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F414
+[/us/pl/103/414]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F414
 [/us/pl/102/538]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F538
-[/us/pl/101/555/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F555%2Fs4%2Fa
-[/us/pl/101/555/s4/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F555%2Fs4%2Fb
-[/us/pl/101/555/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F555%2Fs4%2Fa
-[/us/pl/101/435/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F435%2Fs2
+[/us/pl/101/555]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F555
+[/us/pl/101/555]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F555
+[/us/pl/101/555]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F555
+[/us/pl/101/435]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F435
 [/us/stat/104/986]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F986
 
 

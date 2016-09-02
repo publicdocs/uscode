@@ -17,7 +17,7 @@
 
     Unless the context of this chapter otherwise requires, the term “vessel” shall be taken to mean every description of vessel used in navigation, in whatever way it is propelled; the term “master” shall be taken to include every person having command or charge of a vessel; and the term “person” to include a body of persons, corporate or incorporate. The term “convention” shall be taken to mean the International Convention for the Protection of Submarine Cables, made at Paris on the 14th day of May \[March\], 1884, and proclaimed by the President of the United States on the 22d day of May, 1885.
 
-([Feb. 29, 1888, ch. 17, § 10][/us/act/1888-02-29/ch17/s10], [25 Stat. 42][/us/stat/25/42].)
+([Feb. 29, 1888, ch. 17][/us/act/1888-02-29/ch17], § 10, [25 Stat. 42][/us/stat/25/42].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/act/1888-02-29/ch17/s10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1888-02-29%2Fch17%2Fs10
+[/us/act/1888-02-29/ch17]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1888-02-29%2Fch17
 [/us/stat/25/42]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F25%2F42
 
 

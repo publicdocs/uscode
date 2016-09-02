@@ -27,7 +27,7 @@
 
         The Commission shall repeal or modify any regulation it determines to be no longer necessary in the public interest.
 
-([June 19, 1934, ch. 652][/us/act/1934-06-19/ch652], title I, § 11, as added [Pub. L. 104–104, title IV, § 402(a)][/us/pl/104/104/s402/a], Feb. 8, 1996, [110 Stat. 129][/us/stat/110/129].)
+([June 19, 1934, ch. 652][/us/act/1934-06-19/ch652], title I, § 11, as added [Pub. L. 104–104, title IV][/us/pl/104/104/tIV], § 402(a), Feb. 8, 1996, [110 Stat. 129][/us/stat/110/129].)
 
  __References in Text__ 
 
@@ -41,7 +41,7 @@
 ----------
 
 [/us/act/1934-06-19/ch652]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-19%2Fch652
-[/us/pl/104/104/s402/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F104%2Fs402%2Fa
+[/us/pl/104/104/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F104%2FtIV
 [/us/stat/110/129]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F129
 [/us/act/1934-06-19/ch652]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-19%2Fch652
 [/us/stat/48/1064]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F1064

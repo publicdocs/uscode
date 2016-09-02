@@ -31,11 +31,11 @@
 
         (2) using third party applications, peripheral devices, software, hardware, or customer premises equipment that is available to the consumer at nominal cost and that individuals with disabilities can access.
 
-([June 19, 1934, ch. 652][/us/act/1934-06-19/ch652], title VII, § 718, as added [Pub. L. 111–260, title I, § 104(a)][/us/pl/111/260/s104/a], Oct. 8, 2010, [124 Stat. 2761][/us/stat/124/2761].)
+([June 19, 1934, ch. 652][/us/act/1934-06-19/ch652], title VII, § 718, as added [Pub. L. 111–260, title I][/us/pl/111/260/tI], § 104(a), Oct. 8, 2010, [124 Stat. 2761][/us/stat/124/2761].)
 
  __Effective Date__ 
 
-[Pub. L. 111–260, title I, § 104(b)][/us/pl/111/260/s104/b], Oct. 8, 2010, [124 Stat. 2761][/us/stat/124/2761], provided that: 
+[Pub. L. 111–260, title I][/us/pl/111/260/tI], § 104(b), Oct. 8, 2010, [124 Stat. 2761][/us/stat/124/2761], provided that: 
 
 > “Section 718 of the Communications Act of 1934 \[[47 U.S.C. 619][/us/usc/t47/s619]\], as added by subsection (a), shall take effect 3 years after the date of enactment of this Act \[Oct. 8, 2010\].”
 
@@ -48,9 +48,9 @@
 
 [/us/usc/t47/s610/b/4/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs610%2Fb%2F4%2FB
 [/us/act/1934-06-19/ch652]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-19%2Fch652
-[/us/pl/111/260/s104/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F260%2Fs104%2Fa
+[/us/pl/111/260/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F260%2FtI
 [/us/stat/124/2761]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2761
-[/us/pl/111/260/s104/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F260%2Fs104%2Fb
+[/us/pl/111/260/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F260%2FtI
 [/us/stat/124/2761]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2761
 [/us/usc/t47/s619]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs619
 

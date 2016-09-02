@@ -61,23 +61,23 @@
 
         Witnesses whose depositions are taken as authorized in this chapter, and the magistrate or other officer taking the same, shall severally be entitled to the same fees as are paid for like services in the courts of the United States.
 
-    (l) __Repealed.__  __[__  __Pub. L. 91–452, title II, § 242__  __][/us/pl/91/452/s242]__  __,__  __Oct. 15, 1970__  __,__  __[__  __84 Stat. 930__  __][/us/stat/84/930]__ 
+    (l) __Repealed.__  __[__  __Pub. L. 91–452, title II__  __][/us/pl/91/452/tII]__  __, § 242,__  __Oct. 15, 1970__  __,__  __[__  __84 Stat. 930__  __][/us/stat/84/930]__ 
 
     (m) __Penalties__ 
 
         Any person who shall neglect or refuse to attend and testify, or to answer any lawful inquiry, or to produce books, papers, schedules of charges, contracts, agreements, and documents, if in his power to do so, in obedience to the subpena or lawful requirement of the Commission, shall be guilty of a misdemeanor and upon conviction thereof by a court of competent jurisdiction shall be punished by a fine of not less than $100 nor more than $5,000, or by imprisonment for not more than one year, or by both such fine and imprisonment.
 
-([June 19, 1934, ch. 652][/us/act/1934-06-19/ch652], title IV, § 409, [48 Stat. 1096][/us/stat/48/1096]; [July 16, 1952, ch. 879, § 16][/us/act/1952-07-16/ch879/s16], [66 Stat. 721][/us/stat/66/721]; [Pub. L. 87–192, § 4][/us/pl/87/192/s4], Aug. 31, 1961, [75 Stat. 422][/us/stat/75/422]; [Pub. L. 90–578, title IV, § 402(b)(2)][/us/pl/90/578/s402/b/2], Oct. 17, 1968, [82 Stat. 1118][/us/stat/82/1118]; [Pub. L. 91–452, title II, § 242][/us/pl/91/452/s242], Oct. 15, 1970, [84 Stat. 930][/us/stat/84/930]; [Pub. L. 101–650, title III, § 321][/us/pl/101/650/s321], Dec. 1, 1990, [104 Stat. 5117][/us/stat/104/5117].)
+([June 19, 1934, ch. 652][/us/act/1934-06-19/ch652], title IV, § 409, [48 Stat. 1096][/us/stat/48/1096]; [July 16, 1952, ch. 879][/us/act/1952-07-16/ch879], § 16, [66 Stat. 721][/us/stat/66/721]; [Pub. L. 87–192][/us/pl/87/192], § 4, Aug. 31, 1961, [75 Stat. 422][/us/stat/75/422]; [Pub. L. 90–578, title IV][/us/pl/90/578/tIV], § 402(b)(2), Oct. 17, 1968, [82 Stat. 1118][/us/stat/82/1118]; [Pub. L. 91–452, title II][/us/pl/91/452/tII], § 242, Oct. 15, 1970, [84 Stat. 930][/us/stat/84/930]; [Pub. L. 101–650, title III][/us/pl/101/650/tIII], § 321, Dec. 1, 1990, [104 Stat. 5117][/us/stat/104/5117].)
 
  __References in Text__ 
 
-    [Section 155(d) of this title][/us/usc/t47/s155/d], referred to in subsecs. (b), (c), and (d), was redesignated [section 155(c) of this title][/us/usc/t47/s155/c] by [Pub. L. 97–259, title I, § 105(b)][/us/pl/97/259/s105/b], Sept. 13, 1982, [96 Stat. 1091][/us/stat/96/1091].
+    [Section 155(d) of this title][/us/usc/t47/s155/d], referred to in subsecs. (b), (c), and (d), was redesignated [section 155(c) of this title][/us/usc/t47/s155/c] by [Pub. L. 97–259, title I][/us/pl/97/259/tI], § 105(b), Sept. 13, 1982, [96 Stat. 1091][/us/stat/96/1091].
 
     This chapter, referred to in subsecs. (e) and (k), was in the original “this Act”, meaning [act June 19, 1934, ch. 652][/us/act/1934-06-19/ch652], [48 Stat. 1064][/us/stat/48/1064], known as the Communications Act of 1934, which is classified principally to this chapter. For complete classification of this Act to the Code, see [section 609 of this title][/us/usc/t47/s609] and Tables.
 
  __Codification__ 
 
-    In subsecs. (a), (b), and (c)(1), “adjudication (as defined in [section 551 of title 5][/us/usc/t5/s551])” substituted for “adjudication (as defined in the Administrative Procedure Act)”, in subsec. (c)(2) “[section 554(d) of title 5][/us/usc/t5/s554/d]” substituted for “subsection (c) of section 5 of the Administrative Procedure Act”, and in subsec. (d) “subchapter II of chapter 5, and chapter 7, of title 5” substituted for “the Administrative Procedure Act” and “that Act”, respectively, on authority of [Pub. L. 89–554, § 7(b)][/us/pl/89/554/s7/b], Sept. 6, 1966, [80 Stat. 631][/us/stat/80/631], the first section of which enacted Title 5, Government Organization and Employees.
+    In subsecs. (a), (b), and (c)(1), “adjudication (as defined in [section 551 of title 5][/us/usc/t5/s551])” substituted for “adjudication (as defined in the Administrative Procedure Act)”, in subsec. (c)(2) “[section 554(d) of title 5][/us/usc/t5/s554/d]” substituted for “subsection (c) of section 5 of the Administrative Procedure Act”, and in subsec. (d) “subchapter II of chapter 5, and chapter 7, of title 5” substituted for “the Administrative Procedure Act” and “that Act”, respectively, on authority of [Pub. L. 89–554][/us/pl/89/554], § 7(b), Sept. 6, 1966, [80 Stat. 631][/us/stat/80/631], the first section of which enacted Title 5, Government Organization and Employees.
 
  __Amendments__ 
 
@@ -103,7 +103,7 @@
 
  __Savings Provision__ 
 
-[Pub. L. 87–192, § 5][/us/pl/87/192/s5], Aug. 31, 1961, [75 Stat. 422][/us/stat/75/422], provided that: 
+[Pub. L. 87–192][/us/pl/87/192], § 5, Aug. 31, 1961, [75 Stat. 422][/us/stat/75/422], provided that: 
 
 > “Notwithstanding the foregoing provisions of this Act \[amending this section and sections 155 and 405 of this title\], the second sentence of subsection (b) of section 409 of the Communications Act of 1934 \[subsec. (b) of this section\] (which relates to the filing of exceptions and the presentation of oral argument), as in force at the time of the enactment of this Act \[Aug. 31, 1961\], shall continue to be applicable with respect to any case of adjudication (as defined in the Administrative Procedure Act) \[see sections 551 et seq. and 701 et seq. of Title 5, Government Organization and Employees\] designated by the Federal Communications Commission for hearing by a notice of hearing issued prior to the date of the enactment of this Act.”
 
@@ -118,30 +118,30 @@
 [/us/usc/t5/s551]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs551
 [/us/usc/t5/s551]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs551
 [/us/usc/t5/s554/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs554%2Fd
-[/us/pl/91/452/s242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F452%2Fs242
+[/us/pl/91/452/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F452%2FtII
 [/us/stat/84/930]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F930
 [/us/act/1934-06-19/ch652]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-19%2Fch652
 [/us/stat/48/1096]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F1096
-[/us/act/1952-07-16/ch879/s16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1952-07-16%2Fch879%2Fs16
+[/us/act/1952-07-16/ch879]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1952-07-16%2Fch879
 [/us/stat/66/721]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F66%2F721
-[/us/pl/87/192/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F192%2Fs4
+[/us/pl/87/192]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F192
 [/us/stat/75/422]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F75%2F422
-[/us/pl/90/578/s402/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F578%2Fs402%2Fb%2F2
+[/us/pl/90/578/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F578%2FtIV
 [/us/stat/82/1118]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F1118
-[/us/pl/91/452/s242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F452%2Fs242
+[/us/pl/91/452/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F452%2FtII
 [/us/stat/84/930]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F930
-[/us/pl/101/650/s321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F650%2Fs321
+[/us/pl/101/650/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F650%2FtIII
 [/us/stat/104/5117]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F5117
 [/us/usc/t47/s155/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs155%2Fd
 [/us/usc/t47/s155/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs155%2Fc
-[/us/pl/97/259/s105/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F259%2Fs105%2Fb
+[/us/pl/97/259/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F259%2FtI
 [/us/stat/96/1091]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1091
 [/us/act/1934-06-19/ch652]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-19%2Fch652
 [/us/stat/48/1064]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F1064
 [/us/usc/t47/s609]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs609
 [/us/usc/t5/s551]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs551
 [/us/usc/t5/s554/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs554%2Fd
-[/us/pl/89/554/s7/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554%2Fs7%2Fb
+[/us/pl/89/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554
 [/us/stat/80/631]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F631
 [/us/pl/91/452]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F452
 [/us/pl/87/192]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F192
@@ -157,7 +157,7 @@
 [/us/pl/91/452]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F452
 [/us/pl/91/452/s260]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F452%2Fs260
 [/us/usc/t18/s6001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs6001
-[/us/pl/87/192/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F192%2Fs5
+[/us/pl/87/192]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F192
 [/us/stat/75/422]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F75%2F422
 
 

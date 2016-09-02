@@ -27,7 +27,7 @@
 
         The total amount of support the Commission may provide from its interstate relay fund for any fiscal year may not exceed $10,000,000.
 
-([June 19, 1934, ch. 652][/us/act/1934-06-19/ch652], title VII, § 719, as added [Pub. L. 111–260, title I, § 105][/us/pl/111/260/s105], Oct. 8, 2010, [124 Stat. 2762][/us/stat/124/2762]; amended [Pub. L. 111–265, § 2(4)][/us/pl/111/265/s2/4], (5), Oct. 8, 2010, [124 Stat. 2795][/us/stat/124/2795].)
+([June 19, 1934, ch. 652][/us/act/1934-06-19/ch652], title VII, § 719, as added [Pub. L. 111–260, title I][/us/pl/111/260/tI], § 105, Oct. 8, 2010, [124 Stat. 2762][/us/stat/124/2762]; amended [Pub. L. 111–265][/us/pl/111/265], § 2(4), (5), Oct. 8, 2010, [124 Stat. 2795][/us/stat/124/2795].)
 
  __References in Text__ 
 
@@ -35,9 +35,9 @@
 
  __Amendments__ 
 
-    2010—Subsec. (a). [Pub. L. 111–265, § 2(5)][/us/pl/111/265/s2/5], inserted “low-income” after “accessible by”.
+    2010—Subsec. (a). [Pub. L. 111–265][/us/pl/111/265], § 2(5), inserted “low-income” after “accessible by”.
 
-    [Pub. L. 111–265, § 2(4)][/us/pl/111/265/s2/4], made technical amendment to reference in original act which appears in text as reference to “October 8, 2010”.
+    [Pub. L. 111–265][/us/pl/111/265], § 2(4), made technical amendment to reference in original act which appears in text as reference to “October 8, 2010”.
 
 ----------
 
@@ -48,16 +48,16 @@
 
 [/us/usc/t29/s1905/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1905%2F2
 [/us/act/1934-06-19/ch652]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-19%2Fch652
-[/us/pl/111/260/s105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F260%2Fs105
+[/us/pl/111/260/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F260%2FtI
 [/us/stat/124/2762]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2762
-[/us/pl/111/265/s2/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F265%2Fs2%2F4
+[/us/pl/111/265]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F265
 [/us/stat/124/2795]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2795
 [/us/pl/98/221]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F221
 [/us/stat/98/32]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F32
 [/us/pl/102/569]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F569
 [/us/usc/t29/s1905/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1905%2F2
 [/us/usc/t29/s1901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1901
-[/us/pl/111/265/s2/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F265%2Fs2%2F5
-[/us/pl/111/265/s2/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F265%2Fs2%2F4
+[/us/pl/111/265]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F265
+[/us/pl/111/265]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F265
 
 

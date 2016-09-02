@@ -195,13 +195,13 @@
 
             The term “State” means any State of the United States, the District of Columbia, Puerto Rico, American Samoa, Guam, the United States Virgin Islands, the Northern Mariana Islands, and any other territory or possession of the United States.
 
-([Pub. L. 102–538, title I, § 158][/us/pl/102/538/s158], as added [Pub. L. 108–494, title I, § 104][/us/pl/108/494/s104], Dec. 23, 2004, [118 Stat. 3987][/us/stat/118/3987]; amended [Pub. L. 110–53, title XXIII, § 2303][/us/pl/110/53/s2303], Aug. 3, 2007, [121 Stat. 543][/us/stat/121/543]; [Pub. L. 110–283, title I, § 102][/us/pl/110/283/s102], July 23, 2008, [122 Stat. 2623][/us/stat/122/2623]; [Pub. L. 112–96, title VI, § 6503][/us/pl/112/96/s6503], Feb. 22, 2012, [126 Stat. 237][/us/stat/126/237].)
+([Pub. L. 102–538, title I][/us/pl/102/538/tI], § 158, as added [Pub. L. 108–494, title I][/us/pl/108/494/tI], § 104, Dec. 23, 2004, [118 Stat. 3987][/us/stat/118/3987]; amended [Pub. L. 110–53, title XXIII][/us/pl/110/53/tXXIII], § 2303, Aug. 3, 2007, [121 Stat. 543][/us/stat/121/543]; [Pub. L. 110–283, title I][/us/pl/110/283/tI], § 102, July 23, 2008, [122 Stat. 2623][/us/stat/122/2623]; [Pub. L. 112–96, title VI][/us/pl/112/96/tVI], § 6503, Feb. 22, 2012, [126 Stat. 237][/us/stat/126/237].)
 
  __Amendments__ 
 
     2012—[Pub. L. 112–96][/us/pl/112/96] amended section generally. Prior to amendment, section established a joint program to facilitate coordination and communication between Federal, State, and local emergency communications systems, emergency personnel, public safety organizations, telecommunications carriers, and telecommunications equipment manufacturers and vendors involved in the implementation of E–911 services and created an E–911 Implementation Coordination Office.
 
-    2008—Subsec. (b)(1). [Pub. L. 110–283, § 102(1)][/us/pl/110/283/s102/1], inserted “and for migration to an IP-enabled emergency network” before period at end.
+    2008—Subsec. (b)(1). [Pub. L. 110–283][/us/pl/110/283], § 102(1), inserted “and for migration to an IP-enabled emergency network” before period at end.
 
     Subsecs. (d) to (f). [Pub. L. 110–283][/us/pl/110/283], §  102(2), (3), added subsec. (d) and redesignated former subsecs. (d) and (e) as (e) and (f), respectively.
 
@@ -209,7 +209,7 @@
 
  __Findings__ 
 
-[Pub. L. 108–494, title I, § 102][/us/pl/108/494/s102], Dec. 23, 2004, [118 Stat. 3986][/us/stat/118/3986], provided that: 
+[Pub. L. 108–494, title I][/us/pl/108/494/tI], § 102, Dec. 23, 2004, [118 Stat. 3986][/us/stat/118/3986], provided that: 
 
 > “The Congress finds that—
 
@@ -223,9 +223,9 @@
 
  __Purposes__ 
 
-[Pub. L. 108–494, title I, § 103][/us/pl/108/494/s103], Dec. 23, 2004, [118 Stat. 3986][/us/stat/118/3986], provided that: 
+[Pub. L. 108–494, title I][/us/pl/108/494/tI], § 103, Dec. 23, 2004, [118 Stat. 3986][/us/stat/118/3986], provided that: 
 
-> “The purposes of this title \[see [section 101 of title I of Pub. L. 108–494][/us/pl/108/494/s101], set out as a Short Title of 2004 Amendment note under [section 901 of this title][/us/usc/t47/s901]\] are—
+> “The purposes of this title \[see [section 101 of title I of Pub. L. 108–494][/us/pl/108/494/tI/s101], set out as a Short Title of 2004 Amendment note under [section 901 of this title][/us/usc/t47/s901]\] are—
 
 >     “(1) to coordinate 911 services and E–911 services, at the Federal, State, and local levels; and
 
@@ -240,24 +240,24 @@
 
 [/us/usc/t47/s1457/b/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs1457%2Fb%2F6
 [/us/usc/t47/s222]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs222
-[/us/pl/102/538/s158]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F538%2Fs158
-[/us/pl/108/494/s104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F494%2Fs104
+[/us/pl/102/538/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F538%2FtI
+[/us/pl/108/494/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F494%2FtI
 [/us/stat/118/3987]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F3987
-[/us/pl/110/53/s2303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53%2Fs2303
+[/us/pl/110/53/tXXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53%2FtXXIII
 [/us/stat/121/543]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F543
-[/us/pl/110/283/s102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F283%2Fs102
+[/us/pl/110/283/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F283%2FtI
 [/us/stat/122/2623]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F2623
-[/us/pl/112/96/s6503]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F96%2Fs6503
+[/us/pl/112/96/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F96%2FtVI
 [/us/stat/126/237]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F237
 [/us/pl/112/96]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F96
-[/us/pl/110/283/s102/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F283%2Fs102%2F1
+[/us/pl/110/283]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F283
 [/us/pl/110/283]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F283
 [/us/pl/110/53]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53
-[/us/pl/108/494/s102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F494%2Fs102
+[/us/pl/108/494/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F494%2FtI
 [/us/stat/118/3986]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F3986
-[/us/pl/108/494/s103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F494%2Fs103
+[/us/pl/108/494/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F494%2FtI
 [/us/stat/118/3986]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F3986
-[/us/pl/108/494/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F494%2Fs101
+[/us/pl/108/494/tI/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F494%2FtI%2Fs101
 [/us/usc/t47/s901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs901
 
 

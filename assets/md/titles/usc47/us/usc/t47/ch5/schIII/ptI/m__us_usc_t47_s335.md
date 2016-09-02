@@ -95,7 +95,7 @@
 
                     (III) a cable system.
 
-([June 19, 1934, ch. 652][/us/act/1934-06-19/ch652], title III, § 335, as added [Pub. L. 102–385, § 25(a)][/us/pl/102/385/s25/a], Oct. 5, 1992, [106 Stat. 1501][/us/stat/106/1501]; amended [Pub. L. 111–175, title II, § 209][/us/pl/111/175/s209], May 27, 2010, [124 Stat. 1254][/us/stat/124/1254].)
+([June 19, 1934, ch. 652][/us/act/1934-06-19/ch652], title III, § 335, as added [Pub. L. 102–385][/us/pl/102/385], § 25(a), Oct. 5, 1992, [106 Stat. 1501][/us/stat/106/1501]; amended [Pub. L. 111–175, title II][/us/pl/111/175/tII], § 209, May 27, 2010, [124 Stat. 1254][/us/stat/124/1254].)
 
  __References in Text__ 
 
@@ -103,13 +103,13 @@
 
  __Amendments__ 
 
-    2010—Subsec. (b). [Pub. L. 111–175, § 209(1)][/us/pl/111/175/s209/1], inserted “State public affairs,” after “educational,” in heading.
+    2010—Subsec. (b). [Pub. L. 111–175][/us/pl/111/175], § 209(1), inserted “State public affairs,” after “educational,” in heading.
 
-    Subsec. (b)(1). [Pub. L. 111–175, § 209(2)][/us/pl/111/175/s209/2], added par. (1) and struck out former par. (1). Prior to amendment, text read as follows: “The Commission shall require, as a condition of any provision, initial authorization, or authorization renewal for a provider of direct broadcast satellite service providing video programming, that the provider of such service reserve a portion of its channel capacity, equal to not less than 4 percent nor more than 7 percent, exclusively for noncommercial programming of an educational or informational nature.”
+    Subsec. (b)(1). [Pub. L. 111–175][/us/pl/111/175], § 209(2), added par. (1) and struck out former par. (1). Prior to amendment, text read as follows: “The Commission shall require, as a condition of any provision, initial authorization, or authorization renewal for a provider of direct broadcast satellite service providing video programming, that the provider of such service reserve a portion of its channel capacity, equal to not less than 4 percent nor more than 7 percent, exclusively for noncommercial programming of an educational or informational nature.”
 
-    Subsec. (b)(5). [Pub. L. 111–175, § 209(3)][/us/pl/111/175/s209/3], which directed substitution of “For purposes of this subsection:” for “For purposes of the subsection—”, was executed by making the substitution for “For purposes of this subsection—” in introductory provisions, to reflect the probable intent of Congress.
+    Subsec. (b)(5). [Pub. L. 111–175][/us/pl/111/175], § 209(3), which directed substitution of “For purposes of this subsection:” for “For purposes of the subsection—”, was executed by making the substitution for “For purposes of this subsection—” in introductory provisions, to reflect the probable intent of Congress.
 
-    Subsec. (b)(5)(C), (D). [Pub. L. 111–175, § 209(4)][/us/pl/111/175/s209/4], added subpars. (C) and (D).
+    Subsec. (b)(5)(C), (D). [Pub. L. 111–175][/us/pl/111/175], § 209(4), added subpars. (C) and (D).
 
  __Effective Date of 2010 Amendment__ 
 
@@ -130,17 +130,17 @@
 [/us/usc/t47/s315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs315
 [/us/usc/t26/s501/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs501%2Fc%2F3
 [/us/act/1934-06-19/ch652]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-19%2Fch652
-[/us/pl/102/385/s25/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F385%2Fs25%2Fa
+[/us/pl/102/385]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F385
 [/us/stat/106/1501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F1501
-[/us/pl/111/175/s209]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F175%2Fs209
+[/us/pl/111/175/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F175%2FtII
 [/us/stat/124/1254]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1254
 [/us/act/1934-06-19/ch652]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-19%2Fch652
 [/us/stat/48/1064]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F1064
 [/us/usc/t47/s609]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs609
-[/us/pl/111/175/s209/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F175%2Fs209%2F1
-[/us/pl/111/175/s209/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F175%2Fs209%2F2
-[/us/pl/111/175/s209/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F175%2Fs209%2F3
-[/us/pl/111/175/s209/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F175%2Fs209%2F4
+[/us/pl/111/175]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F175
+[/us/pl/111/175]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F175
+[/us/pl/111/175]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F175
+[/us/pl/111/175]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F175
 [/us/pl/111/175]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F175
 [/us/pl/111/175/s307/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F175%2Fs307%2Fa
 [/us/usc/t17/s111]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft17%2Fs111

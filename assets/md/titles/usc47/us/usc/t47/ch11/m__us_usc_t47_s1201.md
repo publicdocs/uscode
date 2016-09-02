@@ -89,7 +89,7 @@
 
         The Commission shall require by regulation technical testing for commercial mobile service providers that elect to transmit emergency alerts and for the devices and equipment used by such providers for transmitting such alerts.
 
-([Pub. L. 109–347, title VI, § 602][/us/pl/109/347/s602], Oct. 13, 2006, [120 Stat. 1936][/us/stat/120/1936].)
+([Pub. L. 109–347, title VI][/us/pl/109/347/tVI], § 602, Oct. 13, 2006, [120 Stat. 1936][/us/stat/120/1936].)
 
  __References in Text__ 
 
@@ -97,7 +97,7 @@
 
  __Short Title__ 
 
-[Pub. L. 109–347, title VI, § 601][/us/pl/109/347/s601], Oct. 13, 2006, [120 Stat. 1936][/us/stat/120/1936], provided that: 
+[Pub. L. 109–347, title VI][/us/pl/109/347/tVI], § 601, Oct. 13, 2006, [120 Stat. 1936][/us/stat/120/1936], provided that: 
 
 > “This title \[enacting this chapter, [section 314a of Title 6][/us/usc/t6/s314a], Domestic Security, and [section 5189e of Title 42][/us/usc/t42/s5189e], The Public Health and Welfare, and amending [section 101 of Title 6][/us/usc/t6/s101] and sections 5150, 5172, 5173, and 5184 of Title 42\] may be cited as the ‘Warning, Alert, and Response Network Act’.”
 
@@ -112,11 +112,11 @@
 [/us/usc/t47/s332/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs332%2Fd%2F1
 [/us/usc/t47/s1202/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs1202%2Fa
 [/us/usc/t47/s397/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs397%2F6
-[/us/pl/109/347/s602]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F347%2Fs602
+[/us/pl/109/347/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F347%2FtVI
 [/us/stat/120/1936]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1936
 [/us/pl/109/347]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F347
 [/us/stat/120/1936]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1936
-[/us/pl/109/347/s601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F347%2Fs601
+[/us/pl/109/347/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F347%2FtVI
 [/us/stat/120/1936]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1936
 [/us/usc/t6/s314a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs314a
 [/us/usc/t42/s5189e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5189e

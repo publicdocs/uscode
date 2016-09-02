@@ -107,13 +107,13 @@
 
         This section shall not be construed to require a manufacturer of equipment used for advanced communications or a provider of advanced communications services to make every feature and function of every device or service accessible for every disability.
 
-([June 19, 1934, ch. 652][/us/act/1934-06-19/ch652], title VII, § 716, as added [Pub. L. 111–260, title I, § 104(a)][/us/pl/111/260/s104/a], Oct. 8, 2010, [124 Stat. 2755][/us/stat/124/2755]; amended [Pub. L. 111–265, § 2(1)][/us/pl/111/265/s2/1], (2), Oct. 8, 2010, [124 Stat. 2795][/us/stat/124/2795].)
+([June 19, 1934, ch. 652][/us/act/1934-06-19/ch652], title VII, § 716, as added [Pub. L. 111–260, title I][/us/pl/111/260/tI], § 104(a), Oct. 8, 2010, [124 Stat. 2755][/us/stat/124/2755]; amended [Pub. L. 111–265][/us/pl/111/265], § 2(1), (2), Oct. 8, 2010, [124 Stat. 2795][/us/stat/124/2795].)
 
  __Amendments__ 
 
-    2010—Subsec. (d). [Pub. L. 111–265, § 2(1)][/us/pl/111/265/s2/1], struck out “do not” before “impede accessibility”.
+    2010—Subsec. (d). [Pub. L. 111–265][/us/pl/111/265], § 2(1), struck out “do not” before “impede accessibility”.
 
-    Subsec. (e)(1)(D). [Pub. L. 111–265, § 2(2)][/us/pl/111/265/s2/2], substituted “facilitate” for “facilities”.
+    Subsec. (e)(1)(D). [Pub. L. 111–265][/us/pl/111/265], § 2(2), substituted “facilitate” for “facilities”.
 
 ----------
 
@@ -127,11 +127,11 @@
 [/us/usc/t47/s255]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs255
 [/us/usc/t47/s619]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs619
 [/us/act/1934-06-19/ch652]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-19%2Fch652
-[/us/pl/111/260/s104/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F260%2Fs104%2Fa
+[/us/pl/111/260/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F260%2FtI
 [/us/stat/124/2755]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2755
-[/us/pl/111/265/s2/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F265%2Fs2%2F1
+[/us/pl/111/265]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F265
 [/us/stat/124/2795]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2795
-[/us/pl/111/265/s2/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F265%2Fs2%2F1
-[/us/pl/111/265/s2/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F265%2Fs2%2F2
+[/us/pl/111/265]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F265
+[/us/pl/111/265]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F265
 
 

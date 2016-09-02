@@ -25,7 +25,7 @@
 
         (2) waive the annual inspection required under this section for a vessel that is in compliance with the radio provisions of the Safety Convention and that is operating solely in waters beyond the jurisdiction of the United States: Provided, That such inspection shall be performed within 30 days of such vessel’s return to the United States.
 
-([June 19, 1934, ch. 652][/us/act/1934-06-19/ch652], title III, § 362, formerly § 360, as added [May 20, 1937, ch. 229, § 10(b)][/us/act/1937-05-20/ch229/s10/b], [50 Stat. 196][/us/stat/50/196]; renumbered § 362, [Aug. 13, 1954, ch. 729, § 2(a)(1)][/us/act/1954-08-13/ch729/s2/a/1], [68 Stat. 706][/us/stat/68/706]; amended [Pub. L. 87–811][/us/pl/87/811], Oct. 15, 1962, [76 Stat. 922][/us/stat/76/922]; [Pub. L. 104–104, title IV, § 403(n)][/us/pl/104/104/s403/n], Feb. 8, 1996, [110 Stat. 132][/us/stat/110/132].)
+([June 19, 1934, ch. 652][/us/act/1934-06-19/ch652], title III, § 362, formerly § 360, as added [May 20, 1937, ch. 229][/us/act/1937-05-20/ch229], § 10(b), [50 Stat. 196][/us/stat/50/196]; renumbered § 362, [Aug. 13, 1954, ch. 729][/us/act/1954-08-13/ch729], § 2(a)(1), [68 Stat. 706][/us/stat/68/706]; amended [Pub. L. 87–811][/us/pl/87/811], Oct. 15, 1962, [76 Stat. 922][/us/stat/76/922]; [Pub. L. 104–104, title IV][/us/pl/104/104/tIV], § 403(n), Feb. 8, 1996, [110 Stat. 132][/us/stat/110/132].)
 
  __References in Text__ 
 
@@ -51,13 +51,13 @@
 ----------
 
 [/us/act/1934-06-19/ch652]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-19%2Fch652
-[/us/act/1937-05-20/ch229/s10/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1937-05-20%2Fch229%2Fs10%2Fb
+[/us/act/1937-05-20/ch229]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1937-05-20%2Fch229
 [/us/stat/50/196]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F50%2F196
-[/us/act/1954-08-13/ch729/s2/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-13%2Fch729%2Fs2%2Fa%2F1
+[/us/act/1954-08-13/ch729]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-13%2Fch729
 [/us/stat/68/706]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68%2F706
 [/us/pl/87/811]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F811
 [/us/stat/76/922]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F922
-[/us/pl/104/104/s403/n]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F104%2Fs403%2Fn
+[/us/pl/104/104/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F104%2FtIV
 [/us/stat/110/132]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F132
 [/us/usc/t47/s351]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs351
 [/us/act/1934-06-19/ch652]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-19%2Fch652

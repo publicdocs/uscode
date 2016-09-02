@@ -17,7 +17,7 @@
 
     Whoever transmits over any cable system any matter which is obscene or otherwise unprotected by the Constitution of the United States shall be fined under title 18 or imprisoned not more than 2 years, or both.
 
-([June 19, 1934, ch. 652][/us/act/1934-06-19/ch652], title VI, § 639, as added [Pub. L. 98–549, § 2][/us/pl/98/549/s2], Oct. 30, 1984, [98 Stat. 2801][/us/stat/98/2801]; amended [Pub. L. 104–104, title V, § 503][/us/pl/104/104/s503], Feb. 8, 1996, [110 Stat. 136][/us/stat/110/136].)
+([June 19, 1934, ch. 652][/us/act/1934-06-19/ch652], title VI, § 639, as added [Pub. L. 98–549][/us/pl/98/549], § 2, Oct. 30, 1984, [98 Stat. 2801][/us/stat/98/2801]; amended [Pub. L. 104–104, title V][/us/pl/104/104/tV], § 503, Feb. 8, 1996, [110 Stat. 136][/us/stat/110/136].)
 
  __Amendments__ 
 
@@ -35,9 +35,9 @@
 ----------
 
 [/us/act/1934-06-19/ch652]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-19%2Fch652
-[/us/pl/98/549/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F549%2Fs2
+[/us/pl/98/549]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F549
 [/us/stat/98/2801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2801
-[/us/pl/104/104/s503]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F104%2Fs503
+[/us/pl/104/104/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F104%2FtV
 [/us/stat/110/136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F136
 [/us/pl/104/104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F104
 [/us/pl/98/549/s9/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F549%2Fs9%2Fa

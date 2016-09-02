@@ -69,17 +69,17 @@
 
     (20) the term “video programming” means programming provided by, or generally considered comparable to programming provided by, a television broadcast station.
 
-([June 19, 1934, ch. 652][/us/act/1934-06-19/ch652], title VI, § 602, as added [Pub. L. 98–549, § 2][/us/pl/98/549/s2], Oct. 30, 1984, [98 Stat. 2780][/us/stat/98/2780]; amended [Pub. L. 102–385, § 2(c)][/us/pl/102/385/s2/c], Oct. 5, 1992, [106 Stat. 1463][/us/stat/106/1463]; [Pub. L. 104–104, title III][/us/pl/104/104], §§ 301(a), 302(b)(2), Feb. 8, 1996, [110 Stat. 114][/us/stat/110/114], 124.)
+([June 19, 1934, ch. 652][/us/act/1934-06-19/ch652], title VI, § 602, as added [Pub. L. 98–549][/us/pl/98/549], § 2, Oct. 30, 1984, [98 Stat. 2780][/us/stat/98/2780]; amended [Pub. L. 102–385][/us/pl/102/385], § 2(c), Oct. 5, 1992, [106 Stat. 1463][/us/stat/106/1463]; [Pub. L. 104–104, title III][/us/pl/104/104/tIII], §§ 301(a), 302(b)(2), Feb. 8, 1996, [110 Stat. 114][/us/stat/110/114], 124.)
 
  __Amendments__ 
 
-    1996—Par. (6)(B). [Pub. L. 104–104, § 301(a)(1)][/us/pl/104/104/s301/a/1], inserted “or use” after “the selection”.
+    1996—Par. (6)(B). [Pub. L. 104–104][/us/pl/104/104], § 301(a)(1), inserted “or use” after “the selection”.
 
-    Par. (7)(B). [Pub. L. 104–104, § 301(a)(2)][/us/pl/104/104/s301/a/2], added subpar. (B) and struck out former subpar. (B) which read as follows: “a facility that serves only subscribers in 1 or more multiple unit dwellings under common ownership, control, or management, unless such facility or facilities uses any public right-of-way;”.
+    Par. (7)(B). [Pub. L. 104–104][/us/pl/104/104], § 301(a)(2), added subpar. (B) and struck out former subpar. (B) which read as follows: “a facility that serves only subscribers in 1 or more multiple unit dwellings under common ownership, control, or management, unless such facility or facilities uses any public right-of-way;”.
 
-    Par. (7)(C) to (E). [Pub. L. 104–104, § 302(b)(2)(A)][/us/pl/104/104/s302/b/2/A], which directed substitution of “, unless the extent of such use is solely to provide interactive on-demand services; (D) an open video system that complies with [section 573 of this title][/us/usc/t47/s573]; or (E)” for “, or (D)”, was executed by making the substitution for “; or (D)” to reflect the probable intent of Congress.
+    Par. (7)(C) to (E). [Pub. L. 104–104][/us/pl/104/104], § 302(b)(2)(A), which directed substitution of “, unless the extent of such use is solely to provide interactive on-demand services; (D) an open video system that complies with [section 573 of this title][/us/usc/t47/s573]; or (E)” for “, or (D)”, was executed by making the substitution for “; or (D)” to reflect the probable intent of Congress.
 
-    Pars. (12) to (20). [Pub. L. 104–104, § 302(b)(2)(B)][/us/pl/104/104/s302/b/2/B], (C), added par. (12) and redesignated former pars. (12) to (19) as (13) to (20), respectively.
+    Pars. (12) to (20). [Pub. L. 104–104][/us/pl/104/104], § 302(b)(2)(B), (C), added par. (12) and redesignated former pars. (12) to (19) as (13) to (20), respectively.
 
     1992—[Pub. L. 102–385][/us/pl/102/385] added pars. (1), (12), and (18) and redesignated former pars. (1) to (10) as (2) to (11), respectively, former pars. (11) to (15) as (13) to (17), respectively, and former par. (16) as (19).
 
@@ -102,17 +102,17 @@
 [/us/usc/t47/s573]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs573
 [/us/usc/t47/s546]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs546
 [/us/act/1934-06-19/ch652]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-19%2Fch652
-[/us/pl/98/549/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F549%2Fs2
+[/us/pl/98/549]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F549
 [/us/stat/98/2780]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2780
-[/us/pl/102/385/s2/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F385%2Fs2%2Fc
+[/us/pl/102/385]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F385
 [/us/stat/106/1463]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F1463
-[/us/pl/104/104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F104
+[/us/pl/104/104/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F104%2FtIII
 [/us/stat/110/114]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F114
-[/us/pl/104/104/s301/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F104%2Fs301%2Fa%2F1
-[/us/pl/104/104/s301/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F104%2Fs301%2Fa%2F2
-[/us/pl/104/104/s302/b/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F104%2Fs302%2Fb%2F2%2FA
+[/us/pl/104/104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F104
+[/us/pl/104/104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F104
+[/us/pl/104/104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F104
 [/us/usc/t47/s573]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs573
-[/us/pl/104/104/s302/b/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F104%2Fs302%2Fb%2F2%2FB
+[/us/pl/104/104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F104
 [/us/pl/102/385]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F385
 [/us/pl/102/385]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F385
 [/us/pl/102/385/s28]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F385%2Fs28

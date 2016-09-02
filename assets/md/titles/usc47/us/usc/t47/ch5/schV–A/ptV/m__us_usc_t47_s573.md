@@ -89,7 +89,7 @@
 
         For purposes of this section, the term “telephone service area” when used in connection with a common carrier subject in whole or in part to subchapter II of this chapter means the area within which such carrier is offering telephone exchange service.
 
-([June 19, 1934, ch. 652][/us/act/1934-06-19/ch652], title VI, § 653, as added [Pub. L. 104–104, title III, § 302(a)][/us/pl/104/104/s302/a], Feb. 8, 1996, [110 Stat. 121][/us/stat/110/121].)
+([June 19, 1934, ch. 652][/us/act/1934-06-19/ch652], title VI, § 653, as added [Pub. L. 104–104, title III][/us/pl/104/104/tIII], § 302(a), Feb. 8, 1996, [110 Stat. 121][/us/stat/110/121].)
 
  __References in Text__ 
 
@@ -106,7 +106,7 @@
 [/us/usc/t47/s542]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs542
 [/us/usc/t17/s111]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft17%2Fs111
 [/us/act/1934-06-19/ch652]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-19%2Fch652
-[/us/pl/104/104/s302/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F104%2Fs302%2Fa
+[/us/pl/104/104/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F104%2FtIII
 [/us/stat/110/121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F121
 [/us/act/1934-06-19/ch652]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-19%2Fch652
 [/us/stat/48/1064]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F1064

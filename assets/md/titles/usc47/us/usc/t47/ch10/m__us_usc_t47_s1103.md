@@ -229,7 +229,7 @@
 
         Except as otherwise provided in subsection (j) of this section, the provisions of subchapter II of chapter 5 and chapter 7 of title 5 (commonly referred to as the Administrative Procedure Act), shall apply to actions taken under this chapter.
 
-([Pub. L. 106–553, § 1(a)(2)][/us/pl/106/553/s1/a/2] \[title X, § 1004\], Dec. 21, 2000, [114 Stat. 2762][/us/stat/114/2762], 2762A–129; [Pub. L. 107–171, title VI, § 6404(b)(1)][/us/pl/107/171/s6404/b/1], May 13, 2002, [116 Stat. 430][/us/stat/116/430]; [Pub. L. 110–289, div. A, title II, § 1216(f)][/us/pl/110/289/s1216/f], July 30, 2008, [122 Stat. 2792][/us/stat/122/2792].)
+([Pub. L. 106–553][/us/pl/106/553], § 1(a)(2) \[title X, § 1004\], Dec. 21, 2000, [114 Stat. 2762][/us/stat/114/2762], 2762A–129; [Pub. L. 107–171, title VI][/us/pl/107/171/tVI], § 6404(b)(1), May 13, 2002, [116 Stat. 430][/us/stat/116/430]; [Pub. L. 110–289, div. A, title II][/us/pl/110/289/dA/tII], § 1216(f), July 30, 2008, [122 Stat. 2792][/us/stat/122/2792].)
 
  __References in Text__ 
 
@@ -239,11 +239,11 @@
 
     2008—Subsec. (d)(2)(D)(iii). [Pub. L. 110–289][/us/pl/110/289] substituted “Federal Housing Finance Agency” for “Office of Federal Housing Enterprise Oversight, the Federal Housing Finance Board”.
 
-    2002—Subsec. (b)(1). [Pub. L. 107–171, § 6404(b)(1)(A)][/us/pl/107/171/s6404/b/1/A], made technical amendments to references in original Act which appear in text as references to sections 1104 and 1109 of this title.
+    2002—Subsec. (b)(1). [Pub. L. 107–171][/us/pl/107/171], § 6404(b)(1)(A), made technical amendments to references in original Act which appear in text as references to sections 1104 and 1109 of this title.
 
-    Subsec. (d)(1). [Pub. L. 107–171, § 6404(b)(1)(B)][/us/pl/107/171/s6404/b/1/B], made technical amendment to reference in original Act which appears in text as a reference to [section 1102 of this title][/us/usc/t47/s1102].
+    Subsec. (d)(1). [Pub. L. 107–171][/us/pl/107/171], § 6404(b)(1)(B), made technical amendment to reference in original Act which appears in text as a reference to [section 1102 of this title][/us/usc/t47/s1102].
 
-    Subsec. (h)(2)(D). [Pub. L. 107–171, § 6404(b)(1)(C)][/us/pl/107/171/s6404/b/1/C], made technical amendment to reference in original Act which appears in text as a reference to [section 1104 of this title][/us/usc/t47/s1104].
+    Subsec. (h)(2)(D). [Pub. L. 107–171][/us/pl/107/171], § 6404(b)(1)(C), made technical amendment to reference in original Act which appears in text as a reference to [section 1104 of this title][/us/usc/t47/s1104].
 
 ----------
 
@@ -260,18 +260,18 @@
 [/us/usc/t2/s661a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs661a%2F5
 [/us/usc/t2/s661a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs661a%2F5
 [/us/usc/t47/s1104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs1104
-[/us/pl/106/553/s1/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F553%2Fs1%2Fa%2F2
+[/us/pl/106/553]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F553
 [/us/stat/114/2762]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2762
-[/us/pl/107/171/s6404/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2Fs6404%2Fb%2F1
+[/us/pl/107/171/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2FtVI
 [/us/stat/116/430]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F430
-[/us/pl/110/289/s1216/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289%2Fs1216%2Ff
+[/us/pl/110/289/dA/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289%2FdA%2FtII
 [/us/stat/122/2792]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F2792
 [/us/usc/t47/s1101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs1101
 [/us/pl/110/289]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289
-[/us/pl/107/171/s6404/b/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2Fs6404%2Fb%2F1%2FA
-[/us/pl/107/171/s6404/b/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2Fs6404%2Fb%2F1%2FB
+[/us/pl/107/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171
+[/us/pl/107/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171
 [/us/usc/t47/s1102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs1102
-[/us/pl/107/171/s6404/b/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2Fs6404%2Fb%2F1%2FC
+[/us/pl/107/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171
 [/us/usc/t47/s1104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs1104
 
 

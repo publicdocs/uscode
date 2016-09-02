@@ -21,7 +21,7 @@
 
     Technical coordination shall not be used to impair competition or competitors, and shall be conducted under International Telecommunication Union procedures and not under Article XIV(d) of the INTELSAT Agreement.
 
-([Pub. L. 87–624, title VI, § 622][/us/pl/87/624/s622], as added [Pub. L. 106–180, § 3][/us/pl/106/180/s3], Mar. 17, 2000, [114 Stat. 53][/us/stat/114/53].)
+([Pub. L. 87–624, title VI][/us/pl/87/624/tVI], § 622, as added [Pub. L. 106–180][/us/pl/106/180], § 3, Mar. 17, 2000, [114 Stat. 53][/us/stat/114/53].)
 
 ----------
 
@@ -31,8 +31,8 @@
 ----------
 
 [/us/usc/t47/s763]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs763
-[/us/pl/87/624/s622]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F624%2Fs622
-[/us/pl/106/180/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F180%2Fs3
+[/us/pl/87/624/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F624%2FtVI
+[/us/pl/106/180]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F180
 [/us/stat/114/53]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F53
 
 

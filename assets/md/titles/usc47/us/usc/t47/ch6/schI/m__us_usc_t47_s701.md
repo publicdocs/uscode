@@ -17,39 +17,39 @@
 
  __Codification__ 
 
-    Section, [Pub. L. 87–624, title I, § 102][/us/pl/87/624/s102], Aug. 31, 1962, [76 Stat. 419][/us/stat/76/419], which related to Congressional declaration of policy and purpose, ceased to be effective Apr. 15, 2005, pursuant to [section 765d(4) of this title][/us/usc/t47/s765d/4].
+    Section, [Pub. L. 87–624, title I][/us/pl/87/624/tI], § 102, Aug. 31, 1962, [76 Stat. 419][/us/stat/76/419], which related to Congressional declaration of policy and purpose, ceased to be effective Apr. 15, 2005, pursuant to [section 765d(4) of this title][/us/usc/t47/s765d/4].
 
  __Short Title of 2003 Amendment__ 
 
-[Pub. L. 108–39, § 1][/us/pl/108/39/s1], June 30, 2003, [117 Stat. 835][/us/stat/117/835], provided that: 
+[Pub. L. 108–39][/us/pl/108/39], § 1, June 30, 2003, [117 Stat. 835][/us/stat/117/835], provided that: 
 
 > “This Act \[amending [section 763 of this title][/us/usc/t47/s763]\] may be cited as the ‘ORBIT Technical Corrections Act of 2003’.”
 
  __Short Title of 2000 Amendment__ 
 
-[Pub. L. 106–180, § 1][/us/pl/106/180/s1], Mar. 17, 2000, [114 Stat. 48][/us/stat/114/48], provided that: 
+[Pub. L. 106–180][/us/pl/106/180], § 1, Mar. 17, 2000, [114 Stat. 48][/us/stat/114/48], provided that: 
 
 > “This Act \[enacting subchapter VI of this chapter\] may be cited as the ‘Open-market Reorganization for the Betterment of International Telecommunications Act’ or the ‘ORBIT Act’.”
 
  __Short Title__ 
 
-[Pub. L. 87–624, title I, § 101][/us/pl/87/624/s101], Aug. 31, 1962, [76 Stat. 419][/us/stat/76/419], provided that: 
+[Pub. L. 87–624, title I][/us/pl/87/624/tI], § 101, Aug. 31, 1962, [76 Stat. 419][/us/stat/76/419], provided that: 
 
 > “This Act \[enacting this chapter\] may be cited as the ‘Communications Satellite Act of 1962’.”
 
-[Pub. L. 87–624, title V, § 501][/us/pl/87/624/s501], as added by [Pub. L. 95–564][/us/pl/95/564], Nov. 1, 1978, [92 Stat. 2392][/us/stat/92/2392], provided that: 
+[Pub. L. 87–624, title V][/us/pl/87/624/tV], § 501, as added by [Pub. L. 95–564][/us/pl/95/564], Nov. 1, 1978, [92 Stat. 2392][/us/stat/92/2392], provided that: 
 
 > “This title \[enacting subchapter V of this chapter\] may be cited as the ‘International Maritime Satellite Telecommunications Act’.”
 
  __Stylistic Consistency__ 
 
-[Pub. L. 103–414, title III, § 303(f)][/us/pl/103/414/s303/f], Oct. 25, 1994, [108 Stat. 4296][/us/stat/108/4296], provided that: 
+[Pub. L. 103–414, title III][/us/pl/103/414/tIII], § 303(f), Oct. 25, 1994, [108 Stat. 4296][/us/stat/108/4296], provided that: 
 
 > “The Communications Act of 1934 \[[47 U.S.C. 151][/us/usc/t47/s151] et seq.\] and the Communications Satellite Act of 1962 \[[47 U.S.C. 701][/us/usc/t47/s701] et seq.\] are amended so that the section designation and section heading of each section of such Acts shall be in the form and typeface of the section designation and heading of this section \[[108 Stat. 4294][/us/stat/108/4294]\].”
 
  __International Telecommunications Satellite Organization__ 
 
-[Pub. L. 99–93, title I, § 146][/us/pl/99/93/s146], Aug. 16, 1985, [99 Stat. 425][/us/stat/99/425], provided that:
+[Pub. L. 99–93, title I][/us/pl/99/93/tI], § 146, Aug. 16, 1985, [99 Stat. 425][/us/stat/99/425], provided that:
 
 >     “(a)  __Policy__  __.—__ 
 
@@ -118,25 +118,25 @@
 ----------
 ----------
 
-[/us/pl/87/624/s102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F624%2Fs102
+[/us/pl/87/624/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F624%2FtI
 [/us/stat/76/419]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F419
 [/us/usc/t47/s765d/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs765d%2F4
-[/us/pl/108/39/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F39%2Fs1
+[/us/pl/108/39]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F39
 [/us/stat/117/835]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F835
 [/us/usc/t47/s763]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs763
-[/us/pl/106/180/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F180%2Fs1
+[/us/pl/106/180]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F180
 [/us/stat/114/48]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F48
-[/us/pl/87/624/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F624%2Fs101
+[/us/pl/87/624/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F624%2FtI
 [/us/stat/76/419]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F419
-[/us/pl/87/624/s501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F624%2Fs501
+[/us/pl/87/624/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F624%2FtV
 [/us/pl/95/564]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F564
 [/us/stat/92/2392]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2392
-[/us/pl/103/414/s303/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F414%2Fs303%2Ff
+[/us/pl/103/414/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F414%2FtIII
 [/us/stat/108/4296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4296
 [/us/usc/t47/s151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs151
 [/us/usc/t47/s701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs701
 [/us/stat/108/4294]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4294
-[/us/pl/99/93/s146]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F93%2Fs146
+[/us/pl/99/93/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F93%2FtI
 [/us/stat/99/425]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F425
 [/us/usc/t47/s305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs305
 

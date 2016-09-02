@@ -85,7 +85,7 @@
 
         Notwithstanding the provisions of subsections (a) through (h) of this section, any lawful action to revoke a cable operator’s franchise for cause shall not be negated by the subsequent initiation of renewal proceedings by the cable operator under this section.
 
-([June 19, 1934, ch. 652][/us/act/1934-06-19/ch652], title VI, § 626, as added [Pub. L. 98–549, § 2][/us/pl/98/549/s2], Oct. 30, 1984, [98 Stat. 2791][/us/stat/98/2791]; amended [Pub. L. 102–385, § 18][/us/pl/102/385/s18], Oct. 5, 1992, [106 Stat. 1493][/us/stat/106/1493].)
+([June 19, 1934, ch. 652][/us/act/1934-06-19/ch652], title VI, § 626, as added [Pub. L. 98–549][/us/pl/98/549], § 2, Oct. 30, 1984, [98 Stat. 2791][/us/stat/98/2791]; amended [Pub. L. 102–385][/us/pl/102/385], § 18, Oct. 5, 1992, [106 Stat. 1493][/us/stat/106/1493].)
 
  __References in Text__ 
 
@@ -93,21 +93,21 @@
 
  __Amendments__ 
 
-    1992—Subsec. (a). [Pub. L. 102–385, § 18(a)][/us/pl/102/385/s18/a], amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “During the 6-month period which begins with the 36th month before the franchise expiration, the franchising authority may on its own initiative, and shall at the request of the cable operator, commence proceedings which afford the public in the franchise area appropriate notice and participation for the purpose of—
+    1992—Subsec. (a). [Pub. L. 102–385][/us/pl/102/385], § 18(a), amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “During the 6-month period which begins with the 36th month before the franchise expiration, the franchising authority may on its own initiative, and shall at the request of the cable operator, commence proceedings which afford the public in the franchise area appropriate notice and participation for the purpose of—
 
     “(1) identifying the future cable-related community needs and interests; and
 
     “(2) reviewing the performance of the cable operator under the franchise during the then current franchise term.”
 
-    Subsec. (c)(1). [Pub. L. 102–385, § 18(b)][/us/pl/102/385/s18/b], inserted “pursuant to subsection (b) of this section” after “renewal of a franchise” and substituted “date of the submission of the cable operator’s proposal pursuant to subsection (b) of this section” for “completion of any proceedings under subsection (a) of this section”.
+    Subsec. (c)(1). [Pub. L. 102–385][/us/pl/102/385], § 18(b), inserted “pursuant to subsection (b) of this section” after “renewal of a franchise” and substituted “date of the submission of the cable operator’s proposal pursuant to subsection (b) of this section” for “completion of any proceedings under subsection (a) of this section”.
 
-    Subsec. (c)(1)(B). [Pub. L. 102–385, § 18(c)][/us/pl/102/385/s18/c], substituted “mix or quality” for “mix, quality, or level”.
+    Subsec. (c)(1)(B). [Pub. L. 102–385][/us/pl/102/385], § 18(c), substituted “mix or quality” for “mix, quality, or level”.
 
-    Subsec. (d). [Pub. L. 102–385, § 18(d)][/us/pl/102/385/s18/d], inserted “that has been submitted in compliance with subsection (b) of this section” after “Any denial of a proposal for renewal” and substituted “or the cable operator gives written notice of a failure or inability to cure and the franchising authority fails to object within a reasonable time after receipt of such notice” for “or has effectively acquiesced”.
+    Subsec. (d). [Pub. L. 102–385][/us/pl/102/385], § 18(d), inserted “that has been submitted in compliance with subsection (b) of this section” after “Any denial of a proposal for renewal” and substituted “or the cable operator gives written notice of a failure or inability to cure and the franchising authority fails to object within a reasonable time after receipt of such notice” for “or has effectively acquiesced”.
 
-    Subsec. (e)(2)(A). [Pub. L. 102–385, § 18(e)][/us/pl/102/385/s18/e], inserted “, other than harmless error,” after “franchising authority”.
+    Subsec. (e)(2)(A). [Pub. L. 102–385][/us/pl/102/385], § 18(e), inserted “, other than harmless error,” after “franchising authority”.
 
-    Subsec. (i). [Pub. L. 102–385, § 18(f)][/us/pl/102/385/s18/f], added subsec. (i).
+    Subsec. (i). [Pub. L. 102–385][/us/pl/102/385], § 18(f), added subsec. (i).
 
  __Effective Date of 1992 Amendment__ 
 
@@ -127,18 +127,18 @@
 [/us/usc/t47/s544]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs544
 [/us/usc/t47/s555]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs555
 [/us/act/1934-06-19/ch652]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-19%2Fch652
-[/us/pl/98/549/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F549%2Fs2
+[/us/pl/98/549]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F549
 [/us/stat/98/2791]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2791
-[/us/pl/102/385/s18]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F385%2Fs18
+[/us/pl/102/385]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F385
 [/us/stat/106/1493]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F1493
 [/us/pl/98/549/s9/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F549%2Fs9%2Fa
 [/us/usc/t47/s521]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs521
-[/us/pl/102/385/s18/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F385%2Fs18%2Fa
-[/us/pl/102/385/s18/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F385%2Fs18%2Fb
-[/us/pl/102/385/s18/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F385%2Fs18%2Fc
-[/us/pl/102/385/s18/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F385%2Fs18%2Fd
-[/us/pl/102/385/s18/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F385%2Fs18%2Fe
-[/us/pl/102/385/s18/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F385%2Fs18%2Ff
+[/us/pl/102/385]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F385
+[/us/pl/102/385]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F385
+[/us/pl/102/385]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F385
+[/us/pl/102/385]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F385
+[/us/pl/102/385]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F385
+[/us/pl/102/385]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F385
 [/us/pl/102/385]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F385
 [/us/pl/102/385/s28]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F385%2Fs28
 [/us/usc/t47/s325]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs325

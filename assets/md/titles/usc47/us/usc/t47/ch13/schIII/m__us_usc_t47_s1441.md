@@ -37,7 +37,7 @@
 
         If there is a balance remaining in the State and Local Implementation Fund on September 30, 2022, the Secretary of the Treasury shall transfer such balance to the general fund of the Treasury, where such balance shall be dedicated for the sole purpose of deficit reduction.
 
-([Pub. L. 112–96, title VI, § 6301][/us/pl/112/96/s6301], Feb. 22, 2012, [126 Stat. 218][/us/stat/126/218].)
+([Pub. L. 112–96, title VI][/us/pl/112/96/tVI], § 6301, Feb. 22, 2012, [126 Stat. 218][/us/stat/126/218].)
 
 ----------
 
@@ -48,7 +48,7 @@
 
 [/us/usc/t47/s1442]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs1442
 [/us/usc/t47/s1442]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs1442
-[/us/pl/112/96/s6301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F96%2Fs6301
+[/us/pl/112/96/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F96%2FtVI
 [/us/stat/126/218]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F218
 
 

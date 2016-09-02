@@ -19,7 +19,7 @@
 
     (b) Every willful failure on the part of the master of a vessel of the United States to enforce or to comply with the provisions of the Great Lakes Agreement or the rules and regulations of the Commission made in pursuance thereof shall cause him to forfeit to the United States the sum of $100.
 
-([June 19, 1934, ch. 652][/us/act/1934-06-19/ch652], title V, § 506, formerly § 507, as added [Aug. 13, 1954, ch. 735, § 3][/us/act/1954-08-13/ch735/s3], [68 Stat. 729][/us/stat/68/729]; renumbered § 506, [Pub. L. 96–507, § 1][/us/pl/96/507/s1], Dec. 8, 1980, [94 Stat. 2747][/us/stat/94/2747].)
+([June 19, 1934, ch. 652][/us/act/1934-06-19/ch652], title V, § 506, formerly § 507, as added [Aug. 13, 1954, ch. 735][/us/act/1954-08-13/ch735], § 3, [68 Stat. 729][/us/stat/68/729]; renumbered § 506, [Pub. L. 96–507][/us/pl/96/507], § 1, Dec. 8, 1980, [94 Stat. 2747][/us/stat/94/2747].)
 
  __Prior Provisions__ 
 
@@ -39,9 +39,9 @@ Section 6 of act Aug. 13, 1954, provided that:
 ----------
 
 [/us/act/1934-06-19/ch652]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-19%2Fch652
-[/us/act/1954-08-13/ch735/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-13%2Fch735%2Fs3
+[/us/act/1954-08-13/ch735]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-13%2Fch735
 [/us/stat/68/729]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68%2F729
-[/us/pl/96/507/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F507%2Fs1
+[/us/pl/96/507]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F507
 [/us/stat/94/2747]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2747
 [/us/act/1934-06-19/ch652]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-19%2Fch652
 [/us/usc/t47/s506]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs506

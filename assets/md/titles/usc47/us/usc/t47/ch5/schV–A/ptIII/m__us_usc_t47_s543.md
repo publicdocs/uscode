@@ -305,45 +305,45 @@
 
             In this subsection, the term “small cable operator” has the meaning given the term in subsection (m)(2).
 
-([June 19, 1934, ch. 652][/us/act/1934-06-19/ch652], title VI, § 623, as added [Pub. L. 98–549, § 2][/us/pl/98/549/s2], Oct. 30, 1984, [98 Stat. 2788][/us/stat/98/2788]; amended [Pub. L. 102–385, § 3(a)][/us/pl/102/385/s3/a], Oct. 5, 1992, [106 Stat. 1464][/us/stat/106/1464]; [Pub. L. 104–104, title III, § 301(b)][/us/pl/104/104/s301/b], (c), (j), (k)(1), Feb. 8, 1996, [110 Stat. 114][/us/stat/110/114], 116, 118; [Pub. L. 113–200, title I][/us/pl/113/200], §§ 110, 111, Dec. 4, 2014, [128 Stat. 2065][/us/stat/128/2065], 2066.)
+([June 19, 1934, ch. 652][/us/act/1934-06-19/ch652], title VI, § 623, as added [Pub. L. 98–549][/us/pl/98/549], § 2, Oct. 30, 1984, [98 Stat. 2788][/us/stat/98/2788]; amended [Pub. L. 102–385][/us/pl/102/385], § 3(a), Oct. 5, 1992, [106 Stat. 1464][/us/stat/106/1464]; [Pub. L. 104–104, title III][/us/pl/104/104/tIII], § 301(b), (c), (j), (k)(1), Feb. 8, 1996, [110 Stat. 114][/us/stat/110/114], 116, 118; [Pub. L. 113–200, title I][/us/pl/113/200/tI], §§ 110, 111, Dec. 4, 2014, [128 Stat. 2065][/us/stat/128/2065], 2066.)
 
  __Amendments__ 
 
-    2014—Subsec. (k). [Pub. L. 113–200, § 110][/us/pl/113/200/s110], amended subsec. (k) generally. Prior to amendment, text read as follows: “The Commission shall annually publish statistical reports on the average rates for basic cable service and other cable programming, and for converter boxes, remote control units, and other equipment, of—
+    2014—Subsec. (k). [Pub. L. 113–200][/us/pl/113/200], § 110, amended subsec. (k) generally. Prior to amendment, text read as follows: “The Commission shall annually publish statistical reports on the average rates for basic cable service and other cable programming, and for converter boxes, remote control units, and other equipment, of—
 
     “(1) cable systems that the Commission has found are subject to effective competition under subsection (a)(2) of this section, compared with
 
     “(2) cable systems that the Commission has found are not subject to such effective competition.”
 
-    Subsec. (o). [Pub. L. 113–200, § 111][/us/pl/113/200/s111], added subsec. (o).
+    Subsec. (o). [Pub. L. 113–200][/us/pl/113/200], § 111, added subsec. (o).
 
-    1996—Subsec. (a)(7). [Pub. L. 104–104, § 301(j)][/us/pl/104/104/s301/j], added par. (7).
+    1996—Subsec. (a)(7). [Pub. L. 104–104][/us/pl/104/104], § 301(j), added par. (7).
 
-    Subsec. (c)(1)(B). [Pub. L. 104–104, § 301(b)(1)(A)][/us/pl/104/104/s301/b/1/A], substituted “franchising authority (in accordance with paragraph (3))” for “subscriber, franchising authority, or other relevant State or local government entity”.
+    Subsec. (c)(1)(B). [Pub. L. 104–104][/us/pl/104/104], § 301(b)(1)(A), substituted “franchising authority (in accordance with paragraph (3))” for “subscriber, franchising authority, or other relevant State or local government entity”.
 
-    Subsec. (c)(1)(C). [Pub. L. 104–104, § 301(b)(1)(B)][/us/pl/104/104/s301/b/1/B], substituted “the first complaint filed with the franchising authority under paragraph (3)” for “such complaint”.
+    Subsec. (c)(1)(C). [Pub. L. 104–104][/us/pl/104/104], § 301(b)(1)(B), substituted “the first complaint filed with the franchising authority under paragraph (3)” for “such complaint”.
 
-    Subsec. (c)(3), (4). [Pub. L. 104–104, § 301(b)(1)(C)][/us/pl/104/104/s301/b/1/C], added pars. (3) and (4) and struck out heading and text of former par. (3). Text read as follows: “Except during the 180-day period following the effective date of the regulations prescribed by the Commission under paragraph (1), the procedures established under subparagraph (B) of such paragraph shall be available only with respect to complaints filed within a reasonable period of time following a change in rates that is initiated after that effective date, including a change in rates that results from a change in that system’s service tiers.”
+    Subsec. (c)(3), (4). [Pub. L. 104–104][/us/pl/104/104], § 301(b)(1)(C), added pars. (3) and (4) and struck out heading and text of former par. (3). Text read as follows: “Except during the 180-day period following the effective date of the regulations prescribed by the Commission under paragraph (1), the procedures established under subparagraph (B) of such paragraph shall be available only with respect to complaints filed within a reasonable period of time following a change in rates that is initiated after that effective date, including a change in rates that results from a change in that system’s service tiers.”
 
-    Subsec. (d). [Pub. L. 104–104, § 301(b)(2)][/us/pl/104/104/s301/b/2], inserted at end “This subsection does not apply to (1) a cable operator with respect to the provision of cable service over its cable system in any geographic area in which the video programming services offered by the operator in that area are subject to effective competition, or (2) any video programming offered on a per channel or per program basis. Bulk discounts to multiple dwelling units shall not be subject to this subsection, except that a cable operator of a cable system that is not subject to effective competition may not charge predatory prices to a multiple dwelling unit. Upon a prima facie showing by a complainant that there are reasonable grounds to believe that the discounted price is predatory, the cable system shall have the burden of showing that its discounted price is not predatory.”
+    Subsec. (d). [Pub. L. 104–104][/us/pl/104/104], § 301(b)(2), inserted at end “This subsection does not apply to (1) a cable operator with respect to the provision of cable service over its cable system in any geographic area in which the video programming services offered by the operator in that area are subject to effective competition, or (2) any video programming offered on a per channel or per program basis. Bulk discounts to multiple dwelling units shall not be subject to this subsection, except that a cable operator of a cable system that is not subject to effective competition may not charge predatory prices to a multiple dwelling unit. Upon a prima facie showing by a complainant that there are reasonable grounds to believe that the discounted price is predatory, the cable system shall have the burden of showing that its discounted price is not predatory.”
 
-    Subsec. (l)(1)(D). [Pub. L. 104–104, § 301(b)(3)][/us/pl/104/104/s301/b/3], added subpar. (D).
+    Subsec. (l)(1)(D). [Pub. L. 104–104][/us/pl/104/104], § 301(b)(3), added subpar. (D).
 
-    Subsec. (m). [Pub. L. 104–104, § 301(c)][/us/pl/104/104/s301/c], added subsec. (m).
+    Subsec. (m). [Pub. L. 104–104][/us/pl/104/104], § 301(c), added subsec. (m).
 
-    Subsec. (n). [Pub. L. 104–104, § 301(k)(1)][/us/pl/104/104/s301/k/1], added subsec. (n).
+    Subsec. (n). [Pub. L. 104–104][/us/pl/104/104], § 301(k)(1), added subsec. (n).
 
     1992—[Pub. L. 102–385][/us/pl/102/385] amended section generally, substituting present provisions for former provisions which related in subsec. (a) to limitation on regulatory power of Federal agencies, States, or franchising authorities, in subsec. (b) to promulgation, scope, content, periodic review, and amendment of regulations, in subsec. (c) to regulation by franchising authority during initial 2-year period, in subsec. (d) to automatic granting of rate increase requests upon agency inaction within 180-day period, in subsec. (e) to additional increases in rates and to reduction by amount of increase under franchise provisions, in subsec. (f) to nondiscrimination and facilitation of reception by hearing-impaired individuals, in subsec. (g) to continued effectiveness of limitation or the preemption of regulation under prior State law, and in subsec. (h) to reports and recommendations to Congress.
 
  __Effective Date of 1996 Amendment__ 
 
-[Pub. L. 104–104, title III, § 301(k)(2)][/us/pl/104/104/s301/k/2], Feb. 8, 1996, [110 Stat. 118][/us/stat/110/118], provided that: 
+[Pub. L. 104–104, title III][/us/pl/104/104/tIII], § 301(k)(2), Feb. 8, 1996, [110 Stat. 118][/us/stat/110/118], provided that: 
 
 > “The amendment made by paragraph (1) \[amending this section\] shall take effect on the date of enactment of this Act \[Feb. 8, 1996\] and shall be applicable to any rate proposal filed on or after September 4, 1993, upon which no final action has been taken by December 1, 1995.”
 
  __Effective Date of 1992 Amendment__ 
 
-[Pub. L. 102–385, § 3(b)][/us/pl/102/385/s3/b], Oct. 5, 1992, [106 Stat. 1471][/us/stat/106/1471], provided that: 
+[Pub. L. 102–385][/us/pl/102/385], § 3(b), Oct. 5, 1992, [106 Stat. 1471][/us/stat/106/1471], provided that: 
 
 > “The amendment made by subsection (a) \[amending this section\] shall take effect 180 days after the date of enactment of this Act \[Oct. 5, 1992\], except that the authority of the Federal Communications Commission to prescribe regulations is effective on such date of enactment.”
 
@@ -353,7 +353,7 @@
 
  __Restoration, Retierment and Repricing of Service Previously Eliminated, Retiered, or Repriced__ 
 
-[Pub. L. 98–549, § 9(b)][/us/pl/98/549/s9/b], Oct. 30, 1984, [98 Stat. 2806][/us/stat/98/2806], provided that: 
+[Pub. L. 98–549][/us/pl/98/549], § 9(b), Oct. 30, 1984, [98 Stat. 2806][/us/stat/98/2806], provided that: 
 
 > “Nothing in section 623 or 624 of the Communications Act of 1934 \[sections 543 and 544 of this title\], as added by this Act, shall be construed to allow a franchising authority, or a State or any political subdivision of a State, to require a cable operator to restore, retier, or reprice any cable service which was lawfully eliminated, retiered, or repriced as of September 26, 1984.”
 
@@ -368,32 +368,32 @@
 [/us/usc/t47/s325]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs325
 [/us/usc/t47/s532]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs532
 [/us/act/1934-06-19/ch652]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-19%2Fch652
-[/us/pl/98/549/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F549%2Fs2
+[/us/pl/98/549]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F549
 [/us/stat/98/2788]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2788
-[/us/pl/102/385/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F385%2Fs3%2Fa
-[/us/stat/106/1464]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F1464
-[/us/pl/104/104/s301/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F104%2Fs301%2Fb
-[/us/stat/110/114]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F114
-[/us/pl/113/200]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F200
-[/us/stat/128/2065]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2065
-[/us/pl/113/200/s110]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F200%2Fs110
-[/us/pl/113/200/s111]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F200%2Fs111
-[/us/pl/104/104/s301/j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F104%2Fs301%2Fj
-[/us/pl/104/104/s301/b/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F104%2Fs301%2Fb%2F1%2FA
-[/us/pl/104/104/s301/b/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F104%2Fs301%2Fb%2F1%2FB
-[/us/pl/104/104/s301/b/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F104%2Fs301%2Fb%2F1%2FC
-[/us/pl/104/104/s301/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F104%2Fs301%2Fb%2F2
-[/us/pl/104/104/s301/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F104%2Fs301%2Fb%2F3
-[/us/pl/104/104/s301/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F104%2Fs301%2Fc
-[/us/pl/104/104/s301/k/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F104%2Fs301%2Fk%2F1
 [/us/pl/102/385]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F385
-[/us/pl/104/104/s301/k/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F104%2Fs301%2Fk%2F2
+[/us/stat/106/1464]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F1464
+[/us/pl/104/104/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F104%2FtIII
+[/us/stat/110/114]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F114
+[/us/pl/113/200/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F200%2FtI
+[/us/stat/128/2065]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2065
+[/us/pl/113/200]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F200
+[/us/pl/113/200]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F200
+[/us/pl/104/104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F104
+[/us/pl/104/104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F104
+[/us/pl/104/104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F104
+[/us/pl/104/104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F104
+[/us/pl/104/104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F104
+[/us/pl/104/104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F104
+[/us/pl/104/104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F104
+[/us/pl/104/104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F104
+[/us/pl/102/385]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F385
+[/us/pl/104/104/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F104%2FtIII
 [/us/stat/110/118]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F118
-[/us/pl/102/385/s3/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F385%2Fs3%2Fb
+[/us/pl/102/385]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F385
 [/us/stat/106/1471]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F1471
 [/us/pl/98/549/s9/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F549%2Fs9%2Fa
 [/us/usc/t47/s521]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs521
-[/us/pl/98/549/s9/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F549%2Fs9%2Fb
+[/us/pl/98/549]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F549
 [/us/stat/98/2806]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2806
 
 

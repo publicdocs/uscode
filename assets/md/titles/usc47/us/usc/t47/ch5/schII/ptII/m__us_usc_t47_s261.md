@@ -27,7 +27,7 @@
 
         Nothing in this part precludes a State from imposing requirements on a telecommunications carrier for intrastate services that are necessary to further competition in the provision of telephone exchange service or exchange access, as long as the State’s requirements are not inconsistent with this part or the Commission’s regulations to implement this part.
 
-([June 19, 1934, ch. 652][/us/act/1934-06-19/ch652], title II, § 261, as added [Pub. L. 104–104, title I, § 101(a)][/us/pl/104/104/s101/a], Feb. 8, 1996, [110 Stat. 79][/us/stat/110/79].)
+([June 19, 1934, ch. 652][/us/act/1934-06-19/ch652], title II, § 261, as added [Pub. L. 104–104, title I][/us/pl/104/104/tI], § 101(a), Feb. 8, 1996, [110 Stat. 79][/us/stat/110/79].)
 
 ----------
 
@@ -37,7 +37,7 @@
 ----------
 
 [/us/act/1934-06-19/ch652]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-19%2Fch652
-[/us/pl/104/104/s101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F104%2Fs101%2Fa
+[/us/pl/104/104/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F104%2FtI
 [/us/stat/110/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F79
 
 

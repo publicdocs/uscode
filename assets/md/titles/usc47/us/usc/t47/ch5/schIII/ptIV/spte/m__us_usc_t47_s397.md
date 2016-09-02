@@ -77,7 +77,7 @@
 
     (17) The term “system of public telecommunications entities” means any combination of public telecommunications entities acting cooperatively to produce, acquire, or distribute programs, or to undertake related activities.
 
-([June 19, 1934, ch. 652][/us/act/1934-06-19/ch652], title III, § 397, formerly § 394, as added [Pub. L. 87–447][/us/pl/87/447], May 1, 1962, [76 Stat. 67][/us/stat/76/67]; renumbered § 397 and amended [Pub. L. 90–129, title I][/us/pl/90/129], §§ 103(f), 105, 106, title II, § 201(3), (6), Nov. 7, 1967, [81 Stat. 366–368][/us/stat/81/366-368]; [Pub. L. 94–192, § 5][/us/pl/94/192/s5], Dec. 31, 1975, [89 Stat. 1100][/us/stat/89/1100]; [Pub. L. 94–309, § 6][/us/pl/94/309/s6], June 5, 1976, [90 Stat. 684][/us/stat/90/684]; [Pub. L. 95–567, title IV, § 401][/us/pl/95/567/s401], Nov. 2, 1978, [92 Stat. 2422][/us/stat/92/2422]; [Pub. L. 97–35, title XII, § 1234(b)][/us/pl/97/35/s1234/b], Aug. 13, 1981, [95 Stat. 736][/us/stat/95/736]; [Pub. L. 101–437, title II, § 203(b)][/us/pl/101/437/s203/b], Oct. 17, 1990, [104 Stat. 1000][/us/stat/104/1000]; [Pub. L. 104–316, title I, § 126(a)][/us/pl/104/316/s126/a], Oct. 19, 1996, [110 Stat. 3840][/us/stat/110/3840].)
+([June 19, 1934, ch. 652][/us/act/1934-06-19/ch652], title III, § 397, formerly § 394, as added [Pub. L. 87–447][/us/pl/87/447], May 1, 1962, [76 Stat. 67][/us/stat/76/67]; renumbered § 397 and amended [Pub. L. 90–129, title I][/us/pl/90/129/tI], §§ 103(f), 105, 106, title II, § 201(3), (6), Nov. 7, 1967, [81 Stat. 366–368][/us/stat/81/366-368]; [Pub. L. 94–192][/us/pl/94/192], § 5, Dec. 31, 1975, [89 Stat. 1100][/us/stat/89/1100]; [Pub. L. 94–309][/us/pl/94/309], § 6, June 5, 1976, [90 Stat. 684][/us/stat/90/684]; [Pub. L. 95–567, title IV][/us/pl/95/567/tIV], § 401, Nov. 2, 1978, [92 Stat. 2422][/us/stat/92/2422]; [Pub. L. 97–35, title XII][/us/pl/97/35/tXII], § 1234(b), Aug. 13, 1981, [95 Stat. 736][/us/stat/95/736]; [Pub. L. 101–437, title II][/us/pl/101/437/tII], § 203(b), Oct. 17, 1990, [104 Stat. 1000][/us/stat/104/1000]; [Pub. L. 104–316, title I][/us/pl/104/316/tI], § 126(a), Oct. 19, 1996, [110 Stat. 3840][/us/stat/110/3840].)
 
  __References in Text__ 
 
@@ -85,15 +85,15 @@
 
  __Prior Provisions__ 
 
-    A prior section 397, [act June 19, 1934, ch. 652][/us/act/1934-06-19/ch652], title III, § 397, as added May 1, 1962, [Pub. L. 87–447][/us/pl/87/447], [76 Stat. 67][/us/stat/76/67], was renumbered section 398 by [Pub. L. 90–129][/us/pl/90/129], and is classified to [section 398 of this title][/us/usc/t47/s398].
+    A prior section 397, [act June 19, 1934, ch. 652, title III][/us/act/1934-06-19/ch652/tIII], § 397, as added May 1, 1962, [Pub. L. 87–447][/us/pl/87/447], [76 Stat. 67][/us/stat/76/67], was renumbered section 398 by [Pub. L. 90–129][/us/pl/90/129], and is classified to [section 398 of this title][/us/usc/t47/s398].
 
  __Amendments__ 
 
     1996—Par. (9). [Pub. L. 104–316][/us/pl/104/316], in closing provisions, struck out “and approved by the Comptroller General pursuant to [section 396(g)(5) of this title][/us/usc/t47/s396/g/5]” after “by the Corporation” and “with respect to such services provided to public telecommunications entities after such standards are approved by the Comptroller General and only” before “, with respect to such an entity”.
 
-    1990—Par. (2). [Pub. L. 101–437, § 203(b)(1)][/us/pl/101/437/s203/b/1], substituted “subpart D” for “subpart C”.
+    1990—Par. (2). [Pub. L. 101–437][/us/pl/101/437], § 203(b)(1), substituted “subpart D” for “subpart C”.
 
-    Par. (15). [Pub. L. 101–437, § 203(b)(2)][/us/pl/101/437/s203/b/2], inserted “and subpart B” after “subpart A” and substituted “subpart C, subpart D” for “subpart B, subpart C”.
+    Par. (15). [Pub. L. 101–437][/us/pl/101/437], § 203(b)(2), inserted “and subpart B” after “subpart A” and substituted “subpart C, subpart D” for “subpart B, subpart C”.
 
     1981—Par. (15). [Pub. L. 97–35][/us/pl/97/35] substituted “Health and Human Services” for “Health, Education, and Welfare”.
 
@@ -103,13 +103,13 @@
 
     1975—Pars. (10), (11). [Pub. L. 94–192][/us/pl/94/192] added pars. (10) and (11).
 
-    1967—Par. (1). [Pub. L. 90–129, § 105(a)][/us/pl/90/129/s105/a], included the Virgin Islands, Guam, American Samoa, and the Trust Territory of the Pacific Islands in definition of “State”.
+    1967—Par. (1). [Pub. L. 90–129][/us/pl/90/129], § 105(a), included the Virgin Islands, Guam, American Samoa, and the Trust Territory of the Pacific Islands in definition of “State”.
 
     Par. (2). [Pub. L. 90–129][/us/pl/90/129], §§ 103(f)(1), 106, provided for application of term “construction” to educational radio broadcasting facilities and defined such term to include acquisition and installation of transmission apparatus necessary for radio broadcasting, and included costs of planning, respectively.
 
     Par. (4). [Pub. L. 90–129][/us/pl/90/129], §§ 103(f)(2), 105(b), substituted “The terms ‘State educational television agency’ and ‘State educational radio agency’ mean, with respect to television broadcasting and radio broadcasting, respectively,” for “The term ‘State educational television agency’ means” and “such broadcasting” for “educational television” in cls. (A) and (B), and defined “Governor” to include the High Commissioner of the Trust Territory of the Pacific Islands, respectively.
 
-    Pars. (6) to (9). [Pub. L. 90–129, § 201(6)][/us/pl/90/129/s201/6], added pars. (6) to (9).
+    Pars. (6) to (9). [Pub. L. 90–129][/us/pl/90/129], § 201(6), added pars. (6) to (9).
 
  __Effective Date of 1978 Amendment__ 
 
@@ -129,38 +129,38 @@
 [/us/act/1934-06-19/ch652]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-19%2Fch652
 [/us/pl/87/447]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F447
 [/us/stat/76/67]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F67
-[/us/pl/90/129]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F129
+[/us/pl/90/129/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F129%2FtI
 [/us/stat/81/366-368]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F366-368
-[/us/pl/94/192/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F192%2Fs5
+[/us/pl/94/192]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F192
 [/us/stat/89/1100]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F1100
-[/us/pl/94/309/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F309%2Fs6
+[/us/pl/94/309]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F309
 [/us/stat/90/684]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F684
-[/us/pl/95/567/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F567%2Fs401
+[/us/pl/95/567/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F567%2FtIV
 [/us/stat/92/2422]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2422
-[/us/pl/97/35/s1234/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs1234%2Fb
+[/us/pl/97/35/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2FtXII
 [/us/stat/95/736]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F736
-[/us/pl/101/437/s203/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F437%2Fs203%2Fb
+[/us/pl/101/437/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F437%2FtII
 [/us/stat/104/1000]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1000
-[/us/pl/104/316/s126/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F316%2Fs126%2Fa
+[/us/pl/104/316/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F316%2FtI
 [/us/stat/110/3840]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3840
 [/us/usc/t47/s390]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs390
-[/us/act/1934-06-19/ch652]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-19%2Fch652
+[/us/act/1934-06-19/ch652/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-19%2Fch652%2FtIII
 [/us/pl/87/447]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F447
 [/us/stat/76/67]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F67
 [/us/pl/90/129]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F129
 [/us/usc/t47/s398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs398
 [/us/pl/104/316]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F316
 [/us/usc/t47/s396/g/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs396%2Fg%2F5
-[/us/pl/101/437/s203/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F437%2Fs203%2Fb%2F1
-[/us/pl/101/437/s203/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F437%2Fs203%2Fb%2F2
+[/us/pl/101/437]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F437
+[/us/pl/101/437]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F437
 [/us/pl/97/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35
 [/us/pl/95/567]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F567
 [/us/pl/94/309]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F309
 [/us/pl/94/192]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F192
-[/us/pl/90/129/s105/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F129%2Fs105%2Fa
 [/us/pl/90/129]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F129
 [/us/pl/90/129]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F129
-[/us/pl/90/129/s201/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F129%2Fs201%2F6
+[/us/pl/90/129]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F129
+[/us/pl/90/129]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F129
 [/us/pl/95/567]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F567
 [/us/pl/95/567/s403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F567%2Fs403
 [/us/usc/t47/s390]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs390

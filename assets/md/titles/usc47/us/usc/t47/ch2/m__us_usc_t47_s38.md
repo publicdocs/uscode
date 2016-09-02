@@ -17,7 +17,7 @@
 
     The term “United States” as used in sections 34 to 39 of this title includes the Canal Zone and all territory continental or insular, subject to the jurisdiction of the United States of America.
 
-([May 27, 1921, ch. 12, § 5][/us/act/1921-05-27/ch12/s5], [42 Stat. 8][/us/stat/42/8]; Proc. No. 2695, eff. July 4, 1946, 11 F.R. 7517, [60 Stat. 1352][/us/stat/60/1352].)
+([May 27, 1921, ch. 12][/us/act/1921-05-27/ch12], § 5, [42 Stat. 8][/us/stat/42/8]; Proc. No. 2695, eff. July 4, 1946, 11 F.R. 7517, [60 Stat. 1352][/us/stat/60/1352].)
 
  __References in Text__ 
 
@@ -36,7 +36,7 @@
 ----------
 ----------
 
-[/us/act/1921-05-27/ch12/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1921-05-27%2Fch12%2Fs5
+[/us/act/1921-05-27/ch12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1921-05-27%2Fch12
 [/us/stat/42/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F42%2F8
 [/us/stat/60/1352]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F60%2F1352
 [/us/usc/t22/s3602/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs3602%2Fb

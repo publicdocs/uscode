@@ -45,7 +45,7 @@
 
             (B) shall be developed, constructed, managed, maintained, and operated taking into account the plans developed in the State, local, and tribal planning and implementation grant program under [section 1442(a) of this title][/us/usc/t47/s1442/a].
 
-([Pub. L. 112–96, title VI, § 6202][/us/pl/112/96/s6202], Feb. 22, 2012, [126 Stat. 206][/us/stat/126/206].)
+([Pub. L. 112–96, title VI][/us/pl/112/96/tVI], § 6202, Feb. 22, 2012, [126 Stat. 206][/us/stat/126/206].)
 
 ----------
 
@@ -55,7 +55,7 @@
 ----------
 
 [/us/usc/t47/s1442/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs1442%2Fa
-[/us/pl/112/96/s6202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F96%2Fs6202
+[/us/pl/112/96/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F96%2FtVI
 [/us/stat/126/206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F206
 
 

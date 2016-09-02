@@ -25,11 +25,11 @@
 
     (4) The Federal Government should also recognize and encourage complementary State efforts to improve the quality and usefulness of broadband data and should encourage and support the partnership of the public and private sectors in the continued growth of broadband services and information technology for the residents and businesses of the Nation.
 
-([Pub. L. 110–385, title I, § 102][/us/pl/110/385/s102], Oct. 10, 2008, [122 Stat. 4096][/us/stat/122/4096].)
+([Pub. L. 110–385, title I][/us/pl/110/385/tI], § 102, Oct. 10, 2008, [122 Stat. 4096][/us/stat/122/4096].)
 
  __Short Title__ 
 
-[Pub. L. 110–385, title I, § 101][/us/pl/110/385/s101], Oct. 10, 2008, [122 Stat. 4096][/us/stat/122/4096], provided that: 
+[Pub. L. 110–385, title I][/us/pl/110/385/tI], § 101, Oct. 10, 2008, [122 Stat. 4096][/us/stat/122/4096], provided that: 
 
 > “This title \[enacting this chapter and amending [section 1302 of this title][/us/usc/t47/s1302]\] may be cited as the ‘Broadband Data Improvement Act’.”
 
@@ -266,9 +266,9 @@ Therefore, by the authority vested in me as President by the Constitution and th
 ----------
 ----------
 
-[/us/pl/110/385/s102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F385%2Fs102
+[/us/pl/110/385/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F385%2FtI
 [/us/stat/122/4096]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4096
-[/us/pl/110/385/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F385%2Fs101
+[/us/pl/110/385/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F385%2FtI
 [/us/stat/122/4096]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4096
 [/us/usc/t47/s1302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs1302
 [/us/usc/t3/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft3%2Fs301

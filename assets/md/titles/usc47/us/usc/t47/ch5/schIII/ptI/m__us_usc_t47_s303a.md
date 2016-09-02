@@ -35,7 +35,7 @@
 
         As used in this section, the term “commercial television broadcast licensee” includes a cable operator, as defined in [section 522 of this title][/us/usc/t47/s522].
 
-([Pub. L. 101–437, title I, § 102][/us/pl/101/437/s102], Oct. 17, 1990, [104 Stat. 996][/us/stat/104/996].)
+([Pub. L. 101–437, title I][/us/pl/101/437/tI], § 102, Oct. 17, 1990, [104 Stat. 996][/us/stat/104/996].)
 
  __Codification__ 
 
@@ -43,7 +43,7 @@
 
  __Congressional Findings__ 
 
-[Pub. L. 101–437, title I, § 101][/us/pl/101/437/s101], Oct. 17, 1990, [104 Stat. 996][/us/stat/104/996], provided that: 
+[Pub. L. 101–437, title I][/us/pl/101/437/tI], § 101, Oct. 17, 1990, [104 Stat. 996][/us/stat/104/996], provided that: 
 
 > “The Congress finds that—
 
@@ -67,9 +67,9 @@
 ----------
 
 [/us/usc/t47/s522]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs522
-[/us/pl/101/437/s102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F437%2Fs102
+[/us/pl/101/437/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F437%2FtI
 [/us/stat/104/996]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F996
-[/us/pl/101/437/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F437%2Fs101
+[/us/pl/101/437/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F437%2FtI
 [/us/stat/104/996]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F996
 
 

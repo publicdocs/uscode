@@ -65,7 +65,7 @@
 
         Amounts in the Public Safety Trust Fund shall be invested in accordance with [section 9702 of title 31][/us/usc/t31/s9702], and any interest on, and proceeds from, any such investment shall be credited to, and become a part of, the Fund.
 
-([Pub. L. 112–96, title VI, § 6413][/us/pl/112/96/s6413], Feb. 22, 2012, [126 Stat. 235][/us/stat/126/235].)
+([Pub. L. 112–96, title VI][/us/pl/112/96/tVI], § 6413, Feb. 22, 2012, [126 Stat. 235][/us/stat/126/235].)
 
 ----------
 
@@ -82,7 +82,7 @@
 [/us/usc/t47/s942]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs942
 [/us/usc/t47/s1443]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs1443
 [/us/usc/t31/s9702]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs9702
-[/us/pl/112/96/s6413]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F96%2Fs6413
+[/us/pl/112/96/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F96%2FtVI
 [/us/stat/126/235]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F235
 
 

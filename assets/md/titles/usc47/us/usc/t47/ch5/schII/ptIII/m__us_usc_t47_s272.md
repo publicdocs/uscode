@@ -129,7 +129,7 @@
 
         With respect to any activity in which a Bell operating company is engaged on February 8, 1996, such company shall have one year from February 8, 1996, to comply with the requirements of this section.
 
-([June 19, 1934, ch. 652][/us/act/1934-06-19/ch652], title II, § 272, as added [Pub. L. 104–104, title I, § 151(a)][/us/pl/104/104/s151/a], Feb. 8, 1996, [110 Stat. 92][/us/stat/110/92].)
+([June 19, 1934, ch. 652][/us/act/1934-06-19/ch652], title II, § 272, as added [Pub. L. 104–104, title I][/us/pl/104/104/tI], § 151(a), Feb. 8, 1996, [110 Stat. 92][/us/stat/110/92].)
 
  __References in Text__ 
 
@@ -154,7 +154,7 @@
 [/us/usc/t47/s271/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs271%2Fd
 [/us/usc/t47/s271/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs271%2Fd
 [/us/act/1934-06-19/ch652]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-19%2Fch652
-[/us/pl/104/104/s151/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F104%2Fs151%2Fa
+[/us/pl/104/104/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F104%2FtI
 [/us/stat/110/92]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F92
 [/us/act/1934-06-19/ch652]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-19%2Fch652
 [/us/stat/48/1064]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F1064

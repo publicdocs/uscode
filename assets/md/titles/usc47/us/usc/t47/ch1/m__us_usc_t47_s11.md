@@ -17,7 +17,7 @@
 
     If any railroad or telegraph company referred to in [section 9 of this title][/us/usc/t47/s9], or company operating such railroad or telegraph line shall refuse or fail, in whole or in part, to maintain, and operate a telegraph line as provided herein, for the use of the Government or the public, for commercial and other purposes, without discrimination, or shall refuse or fail to make or continue such arrangements for the interchange of business with any connecting telegraph company, then any person, company, corporation, or connecting telegraph company may apply for relief to the Federal Communications Commission, whose duty it shall thereupon be, under such rules and regulations as said commission may prescribe, to ascertain the facts, and determine and order what arrangement is proper to be made in the particular case, and the railroad or telegraph company concerned shall abide by and perform such order; and it shall be the duty of the Federal Communications Commission, when such determination and order are made, to notify the parties concerned, and, if necessary, enforce the same by writ of mandamus in the courts of the United States, in the name of the United States, at the relation of either of said communication commissioners. The commissioners may institute any inquiry, upon their own motion, in the same manner and to the same effect as though complaint had been made.
 
-([Aug. 7, 1888, ch. 772, § 3][/us/act/1888-08-07/ch772/s3], [25 Stat. 383][/us/stat/25/383]; [June 19, 1934, ch. 652, § 601][/us/act/1934-06-19/ch652/s601], [48 Stat. 1101][/us/stat/48/1101].)
+([Aug. 7, 1888, ch. 772][/us/act/1888-08-07/ch772], § 3, [25 Stat. 383][/us/stat/25/383]; [June 19, 1934, ch. 652][/us/act/1934-06-19/ch652], § 601, [48 Stat. 1101][/us/stat/48/1101].)
 
  __Transfer of Functions__ 
 
@@ -31,9 +31,9 @@
 ----------
 
 [/us/usc/t47/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs9
-[/us/act/1888-08-07/ch772/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1888-08-07%2Fch772%2Fs3
+[/us/act/1888-08-07/ch772]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1888-08-07%2Fch772
 [/us/stat/25/383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F25%2F383
-[/us/act/1934-06-19/ch652/s601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-19%2Fch652%2Fs601
+[/us/act/1934-06-19/ch652]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-19%2Fch652
 [/us/stat/48/1101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F1101
 [/us/usc/t47/s601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs601
 

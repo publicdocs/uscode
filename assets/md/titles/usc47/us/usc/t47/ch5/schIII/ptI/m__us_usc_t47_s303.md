@@ -173,7 +173,7 @@
 
             (B) delivered in hardware, the requirements set forth in this subsection shall apply to the manufacturer of such hardware.
 
-([June 19, 1934, ch. 652][/us/act/1934-06-19/ch652], title III, § 303, [48 Stat. 1082][/us/stat/48/1082]; [May 20, 1937, ch. 229][/us/act/1937-05-20/ch229], §§ 5, 6, [50 Stat. 190][/us/stat/50/190], 191; [Pub. L. 85–817, § 1][/us/pl/85/817/s1], Aug. 28, 1958, [72 Stat. 981][/us/stat/72/981]; [Pub. L. 87–445][/us/pl/87/445], Apr. 27, 1962, [76 Stat. 64][/us/stat/76/64]; [Pub. L. 87–529, § 1][/us/pl/87/529/s1], July 10, 1962, [76 Stat. 150][/us/stat/76/150]; [Pub. L. 88–313, § 1][/us/pl/88/313/s1], May 28, 1964, [78 Stat. 202][/us/stat/78/202]; [Pub. L. 88–487, § 2][/us/pl/88/487/s2], Aug. 22, 1964, [78 Stat. 602][/us/stat/78/602]; [Pub. L. 89–268][/us/pl/89/268], Oct. 19, 1965, [79 Stat. 990][/us/stat/79/990]; [Pub. L. 92–81, § 1][/us/pl/92/81/s1], Aug. 10, 1971, [85 Stat. 302][/us/stat/85/302]; [Pub. L. 93–505, § 1][/us/pl/93/505/s1], Nov. 30, 1974, [88 Stat. 1576][/us/stat/88/1576]; [Pub. L. 97–259, title I][/us/pl/97/259], §§ 109–111(a), 113(b), Sept. 13, 1982, [96 Stat. 1092][/us/stat/96/1092], 1093; [Pub. L. 101–396, § 8(a)][/us/pl/101/396/s8/a], Sept. 28, 1990, [104 Stat. 850][/us/stat/104/850]; [Pub. L. 101–431, § 3][/us/pl/101/431/s3], Oct. 15, 1990, [104 Stat. 960][/us/stat/104/960]; [Pub. L. 102–538, title II, § 210(a)][/us/pl/102/538/s210/a], Oct. 27, 1992, [106 Stat. 3544][/us/stat/106/3544]; [Pub. L. 104–104, title II, § 205(b)][/us/pl/104/104/s205/b], title IV, § 403(g), title V, § 551(b)(1), (c), Feb. 8, 1996, [110 Stat. 114][/us/stat/110/114], 131, 140, 141; [Pub. L. 105–33, title III, § 3005][/us/pl/105/33/s3005], Aug. 5, 1997, [111 Stat. 268][/us/stat/111/268]; [Pub. L. 111–260, title II][/us/pl/111/260], §§ 203(a), (b), 204(a), 205(a), Oct. 8, 2010, [124 Stat. 2772–2774][/us/stat/124/2772-2774]; [Pub. L. 111–265, § 2(12)][/us/pl/111/265/s2/12]–(15), Oct. 8, 2010, [124 Stat. 2796][/us/stat/124/2796].)
+([June 19, 1934, ch. 652][/us/act/1934-06-19/ch652], title III, § 303, [48 Stat. 1082][/us/stat/48/1082]; [May 20, 1937, ch. 229][/us/act/1937-05-20/ch229], §§ 5, 6, [50 Stat. 190][/us/stat/50/190], 191; [Pub. L. 85–817][/us/pl/85/817], § 1, Aug. 28, 1958, [72 Stat. 981][/us/stat/72/981]; [Pub. L. 87–445][/us/pl/87/445], Apr. 27, 1962, [76 Stat. 64][/us/stat/76/64]; [Pub. L. 87–529][/us/pl/87/529], § 1, July 10, 1962, [76 Stat. 150][/us/stat/76/150]; [Pub. L. 88–313][/us/pl/88/313], § 1, May 28, 1964, [78 Stat. 202][/us/stat/78/202]; [Pub. L. 88–487][/us/pl/88/487], § 2, Aug. 22, 1964, [78 Stat. 602][/us/stat/78/602]; [Pub. L. 89–268][/us/pl/89/268], Oct. 19, 1965, [79 Stat. 990][/us/stat/79/990]; [Pub. L. 92–81][/us/pl/92/81], § 1, Aug. 10, 1971, [85 Stat. 302][/us/stat/85/302]; [Pub. L. 93–505][/us/pl/93/505], § 1, Nov. 30, 1974, [88 Stat. 1576][/us/stat/88/1576]; [Pub. L. 97–259, title I][/us/pl/97/259/tI], §§ 109–111(a), 113(b), Sept. 13, 1982, [96 Stat. 1092][/us/stat/96/1092], 1093; [Pub. L. 101–396][/us/pl/101/396], § 8(a), Sept. 28, 1990, [104 Stat. 850][/us/stat/104/850]; [Pub. L. 101–431][/us/pl/101/431], § 3, Oct. 15, 1990, [104 Stat. 960][/us/stat/104/960]; [Pub. L. 102–538, title II][/us/pl/102/538/tII], § 210(a), Oct. 27, 1992, [106 Stat. 3544][/us/stat/106/3544]; [Pub. L. 104–104, title II][/us/pl/104/104/tII], § 205(b), title IV, § 403(g), title V, § 551(b)(1), (c), Feb. 8, 1996, [110 Stat. 114][/us/stat/110/114], 131, 140, 141; [Pub. L. 105–33, title III][/us/pl/105/33/tIII], § 3005, Aug. 5, 1997, [111 Stat. 268][/us/stat/111/268]; [Pub. L. 111–260, title II][/us/pl/111/260/tII], §§ 203(a), (b), 204(a), 205(a), Oct. 8, 2010, [124 Stat. 2772–2774][/us/stat/124/2772-2774]; [Pub. L. 111–265][/us/pl/111/265], § 2(12)–(15), Oct. 8, 2010, [124 Stat. 2796][/us/stat/124/2796].)
 
  __References in Text__ 
 
@@ -181,33 +181,33 @@
 
  __Codification__ 
 
-    Enactment of subsec. (w) by [Pub. L. 104–104, § 551(b)(1)][/us/pl/104/104/s551/b/1], did not become effective pursuant to [Pub. L. 104–104, § 551(e)(1)][/us/pl/104/104/s551/e/1], because the Federal Communications Commission on Mar. 12, 1998, adopted an order finding acceptable the video programming rating system currently in voluntary use. See 1996 Amendment note and Effective Date of 1996 Amendment note below.
+    Enactment of subsec. (w) by [Pub. L. 104–104][/us/pl/104/104], § 551(b)(1), did not become effective pursuant to [Pub. L. 104–104][/us/pl/104/104], § 551(e)(1), because the Federal Communications Commission on Mar. 12, 1998, adopted an order finding acceptable the video programming rating system currently in voluntary use. See 1996 Amendment note and Effective Date of 1996 Amendment note below.
 
-    In subsec. (l)(3), “subchapter II of chapter 5, and chapter 7, of title 5” substituted for “the Administrative Procedure Act” on authority of [Pub. L. 89–554, § 7(b)][/us/pl/89/554/s7/b], Sept. 6, 1966, [80 Stat. 631][/us/stat/80/631], the first section of which enacted Title 5, Government Organization and Employees.
+    In subsec. (l)(3), “subchapter II of chapter 5, and chapter 7, of title 5” substituted for “the Administrative Procedure Act” on authority of [Pub. L. 89–554][/us/pl/89/554], § 7(b), Sept. 6, 1966, [80 Stat. 631][/us/stat/80/631], the first section of which enacted Title 5, Government Organization and Employees.
 
  __Amendments__ 
 
-    2010—Subsec. (u). [Pub. L. 111–260, § 203(a)][/us/pl/111/260/s203/a], amended subsec. (u) generally. Prior to amendment, subsec. (u) read as follows: “Require that apparatus designed to receive television pictures broadcast simultaneously with sound be equipped with built-in decoder circuitry designed to display closed-captioned television transmissions when such apparatus is manufactured in the United States or imported for use in the United States, and its television picture screen is 13 inches or greater in size.”
+    2010—Subsec. (u). [Pub. L. 111–260][/us/pl/111/260], § 203(a), amended subsec. (u) generally. Prior to amendment, subsec. (u) read as follows: “Require that apparatus designed to receive television pictures broadcast simultaneously with sound be equipped with built-in decoder circuitry designed to display closed-captioned television transmissions when such apparatus is manufactured in the United States or imported for use in the United States, and its television picture screen is 13 inches or greater in size.”
 
-    Subsec. (z). [Pub. L. 111–260, § 203(b)][/us/pl/111/260/s203/b], added subsec. (z).
+    Subsec. (z). [Pub. L. 111–260][/us/pl/111/260], § 203(b), added subsec. (z).
 
-    Subsec. (aa). [Pub. L. 111–260, § 204(a)][/us/pl/111/260/s204/a], added subsec. (aa).
+    Subsec. (aa). [Pub. L. 111–260][/us/pl/111/260], § 204(a), added subsec. (aa).
 
-    Subsec. (aa)(3). [Pub. L. 111–265, § 2(12)][/us/pl/111/265/s2/12], substituted “for activating” for “by activating”.
+    Subsec. (aa)(3). [Pub. L. 111–265][/us/pl/111/265], § 2(12), substituted “for activating” for “by activating”.
 
-    Subsec. (bb). [Pub. L. 111–265, § 2(15)][/us/pl/111/265/s2/15], struck out concluding provisions which read as follows: “With respect to apparatus features and functions delivered in software, the requirements set forth in this subsection shall apply to the manufacturer of such software. With respect to apparatus features and functions delivered in hardware, the requirements set forth in this subsection shall apply to the manufacturer of such hardware.”
+    Subsec. (bb). [Pub. L. 111–265][/us/pl/111/265], § 2(15), struck out concluding provisions which read as follows: “With respect to apparatus features and functions delivered in software, the requirements set forth in this subsection shall apply to the manufacturer of such software. With respect to apparatus features and functions delivered in hardware, the requirements set forth in this subsection shall apply to the manufacturer of such hardware.”
 
-    [Pub. L. 111–260, § 205(a)][/us/pl/111/260/s205/a], added subsec. (bb).
+    [Pub. L. 111–260][/us/pl/111/260], § 205(a), added subsec. (bb).
 
-    Subsec. (bb)(3). [Pub. L. 111–265, § 2(13)][/us/pl/111/265/s2/13]–(15), added par. (3).
+    Subsec. (bb)(3). [Pub. L. 111–265][/us/pl/111/265], § 2(13)–(15), added par. (3).
 
     1997—Subsec. (y). [Pub. L. 105–33][/us/pl/105/33] added subsec. (y).
 
-    1996—Subsec. (f). [Pub. L. 104–104, § 403(g)][/us/pl/104/104/s403/g], struck out “, after a public hearing,” after “unless”.
+    1996—Subsec. (f). [Pub. L. 104–104][/us/pl/104/104], § 403(g), struck out “, after a public hearing,” after “unless”.
 
-    Subsec. (v). [Pub. L. 104–104, § 205(b)][/us/pl/104/104/s205/b], added subsec. (v).
+    Subsec. (v). [Pub. L. 104–104][/us/pl/104/104], § 205(b), added subsec. (v).
 
-    Subsec. (w). [Pub. L. 104–104, § 551(b)(1)][/us/pl/104/104/s551/b/1], which did not become effective, directed the insertion of subsec. (w) reading as follows: “Prescribe—
+    Subsec. (w). [Pub. L. 104–104][/us/pl/104/104], § 551(b)(1), which did not become effective, directed the insertion of subsec. (w) reading as follows: “Prescribe—
 
     “(1) on the basis of recommendations from an advisory committee established by the Commission in accordance with section 551(b)(2) of the Telecommunications Act of 1996, guidelines and recommended procedures for the identification and rating of video programming that contains sexual, violent, or other indecent material about which parents should be informed before it is displayed to children: Provided, That nothing in this paragraph shall be construed to authorize any rating of video programming on the basis of its political or religious content; and
 
@@ -215,7 +215,7 @@
 
     See Codification note above and Effective Date of 1996 Amendment note below.
 
-    Subsec. (x). [Pub. L. 104–104, § 551(c)][/us/pl/104/104/s551/c], added subsec. (x).
+    Subsec. (x). [Pub. L. 104–104][/us/pl/104/104], § 551(c), added subsec. (x).
 
     1992—Subsec. (q). [Pub. L. 102–538][/us/pl/102/538] inserted “, and the tower owner in any case in which the owner is not the permittee or licensee,” after “permittee or licensee”.
 
@@ -223,13 +223,13 @@
 
     Subsec. (u). [Pub. L. 101–431][/us/pl/101/431] added subsec. (u).
 
-    1982—Subsec. (l)(1). [Pub. L. 97–259, § 109][/us/pl/97/259/s109], substituted “persons who are found to be qualified by the commission and who otherwise are legally eligible for employment in the United States” for “such citizens or nationals of the United States, or citizens of the Trust Territory of the Pacific Islands presenting valid identity certificates issued by the High Commissioner of such Territory, as the Commission finds qualified”, and substituted provision that the requirement relating to eligibility for employment in the United States shall not apply in the case of licenses issued by the Commission to (A) persons holding United States pilot certificates; or (B) persons holding foreign aircraft pilot certificates which are valid in the United States, if the foreign government involved has entered into a reciprocal agreement under which such foreign government does not impose any similar requirement relating to eligibility for employment upon citizens of the United States for provision that in issuing licenses for the operation of radio stations on aircraft the Commission, if it found that the public interest would be served thereby, could waive the requirement of citizenship in the case of persons holding United States pilot certificates or in the case of persons holding foreign aircraft pilot certificates which were valid in the United States on the basis of reciprocal agreements entered into with foreign governments.
+    1982—Subsec. (l)(1). [Pub. L. 97–259][/us/pl/97/259], § 109, substituted “persons who are found to be qualified by the commission and who otherwise are legally eligible for employment in the United States” for “such citizens or nationals of the United States, or citizens of the Trust Territory of the Pacific Islands presenting valid identity certificates issued by the High Commissioner of such Territory, as the Commission finds qualified”, and substituted provision that the requirement relating to eligibility for employment in the United States shall not apply in the case of licenses issued by the Commission to (A) persons holding United States pilot certificates; or (B) persons holding foreign aircraft pilot certificates which are valid in the United States, if the foreign government involved has entered into a reciprocal agreement under which such foreign government does not impose any similar requirement relating to eligibility for employment upon citizens of the United States for provision that in issuing licenses for the operation of radio stations on aircraft the Commission, if it found that the public interest would be served thereby, could waive the requirement of citizenship in the case of persons holding United States pilot certificates or in the case of persons holding foreign aircraft pilot certificates which were valid in the United States on the basis of reciprocal agreements entered into with foreign governments.
 
-    Subsec. (m)(1)(A). [Pub. L. 97–259, § 110][/us/pl/97/259/s110], inserted “, or caused, aided, or abetted the violation of,” after “violated”.
+    Subsec. (m)(1)(A). [Pub. L. 97–259][/us/pl/97/259], § 110, inserted “, or caused, aided, or abetted the violation of,” after “violated”.
 
-    Subsec. (n). [Pub. L. 97–259, § 113(b)][/us/pl/97/259/s113/b], inserted “, or which the Commission by rule has authorized to operate without a license under [section 307(e)(1) of this title][/us/usc/t47/s307/e/1],” after “licensed by any Act”.
+    Subsec. (n). [Pub. L. 97–259][/us/pl/97/259], § 113(b), inserted “, or which the Commission by rule has authorized to operate without a license under [section 307(e)(1) of this title][/us/usc/t47/s307/e/1],” after “licensed by any Act”.
 
-    Subsec. (t). [Pub. L. 97–259, § 111(a)][/us/pl/97/259/s111/a], added subsec. (t).
+    Subsec. (t). [Pub. L. 97–259][/us/pl/97/259], § 111(a), added subsec. (t).
 
     1974—Subsec. (l)(2). [Pub. L. 93–505][/us/pl/93/505] substituted provisions relating to issuance, notwithstanding par. (1) of this subsection, to an individual to whom a radio station is licensed under this chapter of an operator’s license to operate that station, for provisions relating to issuance by the Commission of authorizations, under terms and conditions, for aliens licensed as amateur radio operators by their governments to operate in the United States, possessions, and Puerto Rico upon meeting specified preconditions.
 
@@ -255,7 +255,7 @@
 
  __Effective Date of 1996 Amendment__ 
 
-[Pub. L. 104–104, title V, § 551(e)][/us/pl/104/104/s551/e], Feb. 8, 1996, [110 Stat. 142][/us/stat/110/142], provided that:
+[Pub. L. 104–104, title V][/us/pl/104/104/tV], § 551(e), Feb. 8, 1996, [110 Stat. 142][/us/stat/110/142], provided that:
 
 >     “(1)  __Applicability of rating provision__  __.—__ 
 
@@ -273,19 +273,19 @@
 
  __Effective Date of 1992 Amendment__ 
 
-[Pub. L. 102–538, title II, § 210(c)][/us/pl/102/538/s210/c], Oct. 27, 1992, [106 Stat. 3544][/us/stat/106/3544], provided that: 
+[Pub. L. 102–538, title II][/us/pl/102/538/tII], § 210(c), Oct. 27, 1992, [106 Stat. 3544][/us/stat/106/3544], provided that: 
 
 > “The amendments made by subsection (a) \[amending this section\] shall take effect 30 days after the date of enactment of this Act \[Oct. 27, 1992\].”
 
  __Effective Date of 1990 Amendment__ 
 
-[Pub. L. 101–431, § 5][/us/pl/101/431/s5], Oct. 15, 1990, [104 Stat. 961][/us/stat/104/961], provided that: 
+[Pub. L. 101–431][/us/pl/101/431], § 5, Oct. 15, 1990, [104 Stat. 961][/us/stat/104/961], provided that: 
 
 > “Sections 3 and 4 of this Act \[amending this section and [section 330 of this title][/us/usc/t47/s330]\] shall take effect on July 1, 1993.”
 
  __Regulations__ 
 
-[Pub. L. 111–260, title II, § 203(d)][/us/pl/111/260/s203/d], (e), Oct. 8, 2010, [124 Stat. 2773][/us/stat/124/2773], provided that:
+[Pub. L. 111–260, title II][/us/pl/111/260/tII], § 203(d), (e), Oct. 8, 2010, [124 Stat. 2773][/us/stat/124/2773], provided that:
 
 >     “(d)  __Implementing Regulations__  __.—__ 
 
@@ -301,7 +301,7 @@
 
     \[For definitions of terms used in section 203(d), (e) of [Pub. L. 111–260][/us/pl/111/260], set out above, see [section 206 of Pub. L. 111–260][/us/pl/111/260/s206], set out as a note under [section 153 of this title][/us/usc/t47/s153].\]
 
-[Pub. L. 111–260, title II, § 204(b)][/us/pl/111/260/s204/b]–(d), Oct. 8, 2010, [124 Stat. 2774][/us/stat/124/2774], provided that:
+[Pub. L. 111–260, title II][/us/pl/111/260/tII], § 204(b)–(d), Oct. 8, 2010, [124 Stat. 2774][/us/stat/124/2774], provided that:
 
 >     “(b)  __Implementing Regulations__  __.—__ 
 
@@ -317,7 +317,7 @@
 
     \[For definitions of terms used in section 204(b)–(d) of [Pub. L. 111–260][/us/pl/111/260], set out above, see [section 206 of Pub. L. 111–260][/us/pl/111/260/s206], set out as a note under [section 153 of this title][/us/usc/t47/s153].\]
 
-[Pub. L. 111–260, title II, § 205(b)][/us/pl/111/260/s205/b], Oct. 8, 2010, [124 Stat. 2775][/us/stat/124/2775], provided that:
+[Pub. L. 111–260, title II][/us/pl/111/260/tII], § 205(b), Oct. 8, 2010, [124 Stat. 2775][/us/stat/124/2775], provided that:
 
 >     “(1)  __In general__  __.—__ 
 
@@ -361,11 +361,11 @@
 
     \[For definitions of terms used in [section 205(b) of Pub. L. 111–260][/us/pl/111/260/s205/b], set out above, see [section 206 of Pub. L. 111–260][/us/pl/111/260/s206], set out as a note under [section 153 of this title][/us/usc/t47/s153].\]
 
-[Pub. L. 101–431, § 6][/us/pl/101/431/s6], Oct. 15, 1990, [104 Stat. 962][/us/stat/104/962], provided that: 
+[Pub. L. 101–431][/us/pl/101/431], § 6, Oct. 15, 1990, [104 Stat. 962][/us/stat/104/962], provided that: 
 
 > “The Federal Communications Commission shall promulgate rules to implement this Act \[amending this section and [section 330 of this title][/us/usc/t47/s330] and enacting provisions set out as notes under this section and [section 609 of this title][/us/usc/t47/s609]\] within 180 days after the date of its enactment \[Oct. 15, 1990\].”
 
-    [Pub. L. 100–459, title VI, § 608][/us/pl/100/459/s608], Oct. 1, 1988, [102 Stat. 2228][/us/stat/102/2228], directed Federal Communications Commission to promulgate, by Jan. 31, 1989, regulations in accordance with [section 1464 of Title 18][/us/usc/t18/s1464], Crimes and Criminal Procedure, to enforce the provisions of such section on a 24 hour per day basis, prior to repeal by [Pub. L. 102–356, § 16(b)][/us/pl/102/356/s16/b], Aug. 26, 1992, [106 Stat. 954][/us/stat/106/954].
+    [Pub. L. 100–459, title VI][/us/pl/100/459/tVI], § 608, Oct. 1, 1988, [102 Stat. 2228][/us/stat/102/2228], directed Federal Communications Commission to promulgate, by Jan. 31, 1989, regulations in accordance with [section 1464 of Title 18][/us/usc/t18/s1464], Crimes and Criminal Procedure, to enforce the provisions of such section on a 24 hour per day basis, prior to repeal by [Pub. L. 102–356][/us/pl/102/356], § 16(b), Aug. 26, 1992, [106 Stat. 954][/us/stat/106/954].
 
  __Local Community Radio__ 
 
@@ -489,7 +489,7 @@
 
  __Broadcast Ownership__ 
 
-[Pub. L. 104–104, title II, § 202][/us/pl/104/104/s202], Feb. 8, 1996, [110 Stat. 110][/us/stat/110/110], as amended by [Pub. L. 108–199, div. B, title VI, § 629][/us/pl/108/199/s629], Jan. 23, 2004, [118 Stat. 99][/us/stat/118/99], provided that:
+[Pub. L. 104–104, title II][/us/pl/104/104/tII], § 202, Feb. 8, 1996, [110 Stat. 110][/us/stat/110/110], as amended by [Pub. L. 108–199, div. B, title VI][/us/pl/108/199/dB/tVI], § 629, Jan. 23, 2004, [118 Stat. 99][/us/stat/118/99], provided that:
 
 >     “(a)  __National Radio Station Ownership Rule Changes Required__  __.—__ 
 
@@ -571,13 +571,13 @@
 
  __Restrictions on Over-the-Air Reception Devices__ 
 
-[Pub. L. 104–104, title II, § 207][/us/pl/104/104/s207], Feb. 8, 1996, [110 Stat. 114][/us/stat/110/114], provided that: 
+[Pub. L. 104–104, title II][/us/pl/104/104/tII], § 207, Feb. 8, 1996, [110 Stat. 114][/us/stat/110/114], provided that: 
 
 > “Within 180 days after the date of enactment of this Act \[Feb. 8, 1996\], the Commission shall, pursuant to section 303 of the Communications Act of 1934 \[[47 U.S.C. 303][/us/usc/t47/s303]\], promulgate regulations to prohibit restrictions that impair a viewer’s ability to receive video programming services through devices designed for over-the-air reception of television broadcast signals, multichannel multipoint distribution service, or direct broadcast satellite services.”
 
  __Parental Choice in Television Programming__ 
 
-[Pub. L. 104–104, title V, § 551(a)][/us/pl/104/104/s551/a], Feb. 8, 1996, [110 Stat. 139][/us/stat/110/139], provided that: 
+[Pub. L. 104–104, title V][/us/pl/104/104/tV], § 551(a), Feb. 8, 1996, [110 Stat. 139][/us/stat/110/139], provided that: 
 
 > “The Congress makes the following findings:
 
@@ -601,7 +601,7 @@
 
  __Advisory Committee Requirements__ 
 
-[Pub. L. 104–104, title V, § 551(b)(2)][/us/pl/104/104/s551/b/2], Feb. 8, 1996, [110 Stat. 140][/us/stat/110/140], provided that: 
+[Pub. L. 104–104, title V][/us/pl/104/104/tV], § 551(b)(2), Feb. 8, 1996, [110 Stat. 140][/us/stat/110/140], provided that: 
 
 > “In establishing an advisory committee for purposes of the amendment made by paragraph (1) of this subsection \[amending this section\], the Commission shall—
 
@@ -613,7 +613,7 @@
 
  __Technology Fund__ 
 
-[Pub. L. 104–104, title V, § 552][/us/pl/104/104/s552], Feb. 8, 1996, [110 Stat. 142][/us/stat/110/142], provided that: 
+[Pub. L. 104–104, title V][/us/pl/104/104/tV], § 552, Feb. 8, 1996, [110 Stat. 142][/us/stat/110/142], provided that: 
 
 > “It is the policy of the United States to encourage broadcast television, cable, satellite, syndication, other video programming distributors, and relevant related industries (in consultation with appropriate public interest groups and interested individuals from the private sector) to—
 
@@ -625,11 +625,11 @@
 
  __AM Radio Improvement Standard__ 
 
-    [Pub. L. 102–538, title II, § 214][/us/pl/102/538/s214], Oct. 27, 1992, [106 Stat. 3546][/us/stat/106/3546], required the Federal Communications Commission to initiate a rulemaking to adopt an AM radio improvement standard within 60 days after Oct. 27, 1992, and to adopt such standard within 1 year after Oct. 27, 1992.
+    [Pub. L. 102–538, title II][/us/pl/102/538/tII], § 214, Oct. 27, 1992, [106 Stat. 3546][/us/stat/106/3546], required the Federal Communications Commission to initiate a rulemaking to adopt an AM radio improvement standard within 60 days after Oct. 27, 1992, and to adopt such standard within 1 year after Oct. 27, 1992.
 
  __Broadcasting of Indecent Programming; FCC Regulations__ 
 
-[Pub. L. 102–356, § 16(a)][/us/pl/102/356/s16/a], Aug. 26, 1992, [106 Stat. 954][/us/stat/106/954], provided that: 
+[Pub. L. 102–356][/us/pl/102/356], § 16(a), Aug. 26, 1992, [106 Stat. 954][/us/stat/106/954], provided that: 
 
 > “The Federal Communications Commission shall promulgate regulations to prohibit the broadcasting of indecent programming—
 
@@ -641,7 +641,7 @@
 
  __Congressional Findings Regarding Access by Hearing-Impaired People to Television Medium__ 
 
-[Pub. L. 101–431, § 2][/us/pl/101/431/s2], Oct. 15, 1990, [104 Stat. 960][/us/stat/104/960], provided that: 
+[Pub. L. 101–431][/us/pl/101/431], § 2, Oct. 15, 1990, [104 Stat. 960][/us/stat/104/960], provided that: 
 
 > “The Congress finds that—
 
@@ -665,7 +665,7 @@
 
  __Direction on Use of Funds Regarding Spectrum Allocation and Assignments for Public Safety Purposes__ 
 
-[Pub. L. 98–214, § 9][/us/pl/98/214/s9], Dec. 8, 1983, [97 Stat. 1470][/us/stat/97/1470], provided that:
+[Pub. L. 98–214][/us/pl/98/214], § 9, Dec. 8, 1983, [97 Stat. 1470][/us/stat/97/1470], provided that:
 
 >     “(a) Funds authorized to be appropriated under section 2 of this Act \[amending [section 156 of this title][/us/usc/t47/s156]\] shall be used by the Federal Communications Commission to establish a plan which adequately ensures that the needs of State and local public safety authorities would be taken into account in making allocations of the electromagnetic spectrum. In establishing such a plan the Commission shall (1) review the current and future needs of such public safety authorities in light of suitable and commercially available equipment and (2) consider the need for a nationwide contiguous frequency allocation for public safety purposes.
 
@@ -691,65 +691,65 @@
 [/us/stat/48/1082]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F1082
 [/us/act/1937-05-20/ch229]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1937-05-20%2Fch229
 [/us/stat/50/190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F50%2F190
-[/us/pl/85/817/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F817%2Fs1
+[/us/pl/85/817]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F817
 [/us/stat/72/981]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F981
 [/us/pl/87/445]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F445
 [/us/stat/76/64]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F64
-[/us/pl/87/529/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F529%2Fs1
+[/us/pl/87/529]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F529
 [/us/stat/76/150]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F150
-[/us/pl/88/313/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F313%2Fs1
+[/us/pl/88/313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F313
 [/us/stat/78/202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F202
-[/us/pl/88/487/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F487%2Fs2
+[/us/pl/88/487]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F487
 [/us/stat/78/602]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F602
 [/us/pl/89/268]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F268
 [/us/stat/79/990]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F990
-[/us/pl/92/81/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F81%2Fs1
+[/us/pl/92/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F81
 [/us/stat/85/302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F85%2F302
-[/us/pl/93/505/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F505%2Fs1
+[/us/pl/93/505]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F505
 [/us/stat/88/1576]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1576
-[/us/pl/97/259]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F259
+[/us/pl/97/259/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F259%2FtI
 [/us/stat/96/1092]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1092
-[/us/pl/101/396/s8/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F396%2Fs8%2Fa
+[/us/pl/101/396]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F396
 [/us/stat/104/850]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F850
-[/us/pl/101/431/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F431%2Fs3
+[/us/pl/101/431]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F431
 [/us/stat/104/960]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F960
-[/us/pl/102/538/s210/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F538%2Fs210%2Fa
+[/us/pl/102/538/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F538%2FtII
 [/us/stat/106/3544]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3544
-[/us/pl/104/104/s205/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F104%2Fs205%2Fb
+[/us/pl/104/104/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F104%2FtII
 [/us/stat/110/114]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F114
-[/us/pl/105/33/s3005]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2Fs3005
+[/us/pl/105/33/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2FtIII
 [/us/stat/111/268]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F268
-[/us/pl/111/260]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F260
+[/us/pl/111/260/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F260%2FtII
 [/us/stat/124/2772-2774]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2772-2774
-[/us/pl/111/265/s2/12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F265%2Fs2%2F12
+[/us/pl/111/265]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F265
 [/us/stat/124/2796]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2796
 [/us/act/1934-06-19/ch652]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-19%2Fch652
 [/us/stat/48/1064]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F1064
 [/us/usc/t47/s609]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs609
-[/us/pl/104/104/s551/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F104%2Fs551%2Fb%2F1
-[/us/pl/104/104/s551/e/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F104%2Fs551%2Fe%2F1
-[/us/pl/89/554/s7/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554%2Fs7%2Fb
+[/us/pl/104/104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F104
+[/us/pl/104/104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F104
+[/us/pl/89/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554
 [/us/stat/80/631]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F631
-[/us/pl/111/260/s203/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F260%2Fs203%2Fa
-[/us/pl/111/260/s203/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F260%2Fs203%2Fb
-[/us/pl/111/260/s204/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F260%2Fs204%2Fa
-[/us/pl/111/265/s2/12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F265%2Fs2%2F12
-[/us/pl/111/265/s2/15]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F265%2Fs2%2F15
-[/us/pl/111/260/s205/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F260%2Fs205%2Fa
-[/us/pl/111/265/s2/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F265%2Fs2%2F13
+[/us/pl/111/260]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F260
+[/us/pl/111/260]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F260
+[/us/pl/111/260]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F260
+[/us/pl/111/265]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F265
+[/us/pl/111/265]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F265
+[/us/pl/111/260]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F260
+[/us/pl/111/265]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F265
 [/us/pl/105/33]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33
-[/us/pl/104/104/s403/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F104%2Fs403%2Fg
-[/us/pl/104/104/s205/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F104%2Fs205%2Fb
-[/us/pl/104/104/s551/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F104%2Fs551%2Fb%2F1
-[/us/pl/104/104/s551/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F104%2Fs551%2Fc
+[/us/pl/104/104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F104
+[/us/pl/104/104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F104
+[/us/pl/104/104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F104
+[/us/pl/104/104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F104
 [/us/pl/102/538]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F538
 [/us/pl/101/396]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F396
 [/us/pl/101/431]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F431
-[/us/pl/97/259/s109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F259%2Fs109
-[/us/pl/97/259/s110]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F259%2Fs110
-[/us/pl/97/259/s113/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F259%2Fs113%2Fb
+[/us/pl/97/259]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F259
+[/us/pl/97/259]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F259
+[/us/pl/97/259]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F259
 [/us/usc/t47/s307/e/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs307%2Fe%2F1
-[/us/pl/97/259/s111/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F259%2Fs111%2Fa
+[/us/pl/97/259]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F259
 [/us/pl/93/505]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F505
 [/us/pl/93/505]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F505
 [/us/pl/92/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F81
@@ -759,14 +759,14 @@
 [/us/pl/87/445]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F445
 [/us/pl/87/529]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F529
 [/us/pl/85/817]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F817
-[/us/pl/104/104/s551/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F104%2Fs551%2Fe
+[/us/pl/104/104/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F104%2FtV
 [/us/stat/110/142]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F142
-[/us/pl/102/538/s210/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F538%2Fs210%2Fc
+[/us/pl/102/538/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F538%2FtII
 [/us/stat/106/3544]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3544
-[/us/pl/101/431/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F431%2Fs5
+[/us/pl/101/431]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F431
 [/us/stat/104/961]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F961
 [/us/usc/t47/s330]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs330
-[/us/pl/111/260/s203/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F260%2Fs203%2Fd
+[/us/pl/111/260/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F260%2FtII
 [/us/stat/124/2773]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2773
 [/us/usc/t47/s303/u]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs303%2Fu
 [/us/usc/t47/s613]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs613
@@ -774,14 +774,14 @@
 [/us/pl/111/260]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F260
 [/us/pl/111/260/s206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F260%2Fs206
 [/us/usc/t47/s153]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs153
-[/us/pl/111/260/s204/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F260%2Fs204%2Fb
+[/us/pl/111/260/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F260%2FtII
 [/us/stat/124/2774]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2774
 [/us/usc/t47/s613]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs613
 [/us/usc/t47/s303/aa]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs303%2Faa
 [/us/pl/111/260]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F260
 [/us/pl/111/260/s206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F260%2Fs206
 [/us/usc/t47/s153]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs153
-[/us/pl/111/260/s205/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F260%2Fs205%2Fb
+[/us/pl/111/260/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F260%2FtII
 [/us/stat/124/2775]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2775
 [/us/usc/t47/s613]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs613
 [/us/usc/t47/s303/bb/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs303%2Fbb%2F1
@@ -789,44 +789,44 @@
 [/us/pl/111/260/s205/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F260%2Fs205%2Fb
 [/us/pl/111/260/s206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F260%2Fs206
 [/us/usc/t47/s153]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs153
-[/us/pl/101/431/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F431%2Fs6
+[/us/pl/101/431]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F431
 [/us/stat/104/962]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F962
 [/us/usc/t47/s330]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs330
 [/us/usc/t47/s609]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs609
-[/us/pl/100/459/s608]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F459%2Fs608
+[/us/pl/100/459/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F459%2FtVI
 [/us/stat/102/2228]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2228
 [/us/usc/t18/s1464]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs1464
-[/us/pl/102/356/s16/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F356%2Fs16%2Fb
+[/us/pl/102/356]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F356
 [/us/stat/106/954]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F954
 [/us/pl/111/371]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F371
 [/us/stat/124/4072]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F4072
 [/us/pl/106/553]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F553
 [/us/stat/114/2762]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2762
 [/us/usc/t47/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs301
-[/us/pl/104/104/s202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F104%2Fs202
+[/us/pl/104/104/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F104%2FtII
 [/us/stat/110/110]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F110
-[/us/pl/108/199/s629]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F199%2Fs629
+[/us/pl/108/199/dB/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F199%2FdB%2FtVI
 [/us/stat/118/99]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F99
 [/us/usc/t47/s160]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs160
 [/us/usc/t47/s161]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs161
 [/us/usc/t47/s533/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs533%2Fa
-[/us/pl/104/104/s207]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F104%2Fs207
+[/us/pl/104/104/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F104%2FtII
 [/us/stat/110/114]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F114
 [/us/usc/t47/s303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs303
-[/us/pl/104/104/s551/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F104%2Fs551%2Fa
+[/us/pl/104/104/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F104%2FtV
 [/us/stat/110/139]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F139
-[/us/pl/104/104/s551/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F104%2Fs551%2Fb%2F2
+[/us/pl/104/104/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F104%2FtV
 [/us/stat/110/140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F140
-[/us/pl/104/104/s552]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F104%2Fs552
+[/us/pl/104/104/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F104%2FtV
 [/us/stat/110/142]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F142
-[/us/pl/102/538/s214]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F538%2Fs214
+[/us/pl/102/538/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F538%2FtII
 [/us/stat/106/3546]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3546
-[/us/pl/102/356/s16/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F356%2Fs16%2Fa
+[/us/pl/102/356]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F356
 [/us/stat/106/954]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F954
 [/us/usc/t5/s553]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs553
-[/us/pl/101/431/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F431%2Fs2
+[/us/pl/101/431]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F431
 [/us/stat/104/960]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F960
-[/us/pl/98/214/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F214%2Fs9
+[/us/pl/98/214]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F214
 [/us/stat/97/1470]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F1470
 [/us/usc/t47/s156]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs156
 
