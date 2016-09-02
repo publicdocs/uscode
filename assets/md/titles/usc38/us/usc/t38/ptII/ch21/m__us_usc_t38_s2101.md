@@ -207,6 +207,194 @@
 
     Amendment by [Pub. L. 95–117][/us/pl/95/117] effective Oct. 1, 1977, see [section 501 of Pub. L. 95–117][/us/pl/95/117/s501], set out as a note under [section 1114 of this title][/us/usc/t38/s1114].
 
+ __Pilot Program to Rehabilitate and Modify Homes of Disabled and Low-Income Veterans__ 
+
+[Pub. L. 113–291, div. A, title X, § 1079][/us/pl/113/291/s1079], Dec. 19, 2014, [128 Stat. 3521][/us/stat/128/3521], provided that:
+
+>     “(a)  __Definitions__  __.—__ 
+
+>     In this section:
+
+>         “(1)  __Disabled__  __.—__ 
+
+>         The term ‘disabled’ means an individual with a disability, as defined by [section 12102 of title 42][/us/usc/t42/s12102], United States Code.
+
+>         “(2)  __Eligible veteran__  __.—__ 
+
+>         The term ‘eligible veteran’ means a disabled or low-income veteran.
+
+>         “(3)  __Energy efficient features or equipment__  __.—__ 
+
+>         The term ‘energy efficient features or equipment’ means features of, or equipment in, a primary residence that help reduce the amount of electricity used to heat, cool, or ventilate such residence, including insulation, weatherstripping, air sealing, heating system repairs, duct sealing, or other measures.
+
+>         “(4)  __Low-income veteran__  __.—__ 
+
+>         The term ‘low-income veteran’ means a veteran whose income does not exceed 80 percent of the median income for an area, as determined by the Secretary.
+
+>         “(5)  __Nonprofit organization__  __.—__ 
+
+>         The term ‘nonprofit organization’ means an organization that is—
+
+>             “(A) described in section 501(c)(3) or 501(c)(19) of the Internal Revenue Code of 1986 \[[26 U.S.C. 501(c)(3)][/us/usc/t26/s501/c/3], (19)\]; and
+
+>             “(B) exempt from tax under section 501(a) of such Code \[[26 U.S.C. 501(a)][/us/usc/t26/s501/a]\].
+
+>         “(6) __Primary residence.—__ 
+
+>             “(A)  __In general__  __.—__ 
+
+>             The term ‘primary residence’ means a single family house, a duplex, or a unit within a multiple-dwelling structure that is the principal dwelling of an eligible veteran and is owned by such veteran or a family member of such veteran.
+
+>             “(B)  __Family member defined__  __.—__ 
+
+>             For purposes of this paragraph, the term ‘family member’ includes—
+
+>                 “(i) a spouse, child, grandchild, parent, or sibling;
+
+>                 “(ii) a spouse of such a child, grandchild, parent, or sibling; or
+
+>                 “(iii) any individual related by blood or affinity whose close association with a veteran is the equivalent of a family relationship.
+
+>         “(7)  __Qualified organization__  __.—__ 
+
+>         The term ‘qualified organization’ means a nonprofit organization that provides nationwide or statewide programs that primarily serve veterans or low-income individuals.
+
+>         “(8)  __Secretary__  __.—__ 
+
+>         The term ‘Secretary’ means the Secretary of Housing and Urban Development.
+
+>         “(9)  __Veteran__  __.—__ 
+
+>         The term ‘veteran’ has the meaning given the term in [section 101 of title 38][/us/usc/t38/s101], United States Code.
+
+>         “(10)  __Veterans service organization__  __.—__ 
+
+>         The term ‘veterans service organization’ means any organization recognized by the Secretary of Veterans Affairs for the representation of veterans under [section 5902 of title 38][/us/usc/t38/s5902], United States Code.
+
+>     “(b) __Establishment of a Pilot Program.—__ 
+
+>         “(1) __Grant.—__ 
+
+>             “(A)  __In general__  __.—__ 
+
+>             The Secretary shall establish a pilot program to award grants to qualified organizations to rehabilitate and modify the primary residence of eligible veterans.
+
+>             “(B)  __Coordination__  __.—__ 
+
+>             The Secretary shall work in conjunction with the Secretary of Veterans Affairs to establish and oversee the pilot program and to ensure that such program meets the needs of eligible veterans.
+
+>             “(C)  __Maximum grant__  __.—__ 
+
+>             A grant award under the pilot program to any one qualified organization shall not exceed $1,000,000 in any one fiscal year, and such an award shall remain available until expended by such organization.
+
+>         “(2) __Application.—__ 
+
+>             “(A)  __In general__  __.—__ 
+
+>             Each qualified organization that desires a grant under the pilot program shall submit an application to the Secretary at such time, in such manner, and, in addition to the information required under subparagraph (B), accompanied by such information as the Secretary may reasonably require.
+
+>             “(B)  __Contents__  __.—__ 
+
+>             Each application submitted under subparagraph (A) shall include—
+
+>                 “(i) a plan of action detailing outreach initiatives;
+
+>                 “(ii) the approximate number of veterans the qualified organization intends to serve using grant funds;
+
+>                 “(iii) a description of the type of work that will be conducted, such as interior home modifications, energy efficiency improvements, and other similar categories of work; and
+
+>                 “(iv) a plan for working with the Department of Veterans Affairs and veterans service organizations to identify veterans who are not eligible for programs under chapter 21 of title 38, United States Code, and meet their needs.
+
+>         “(3)  __Use of funds__  __.—__ 
+
+>         A grant award under the pilot program shall be used—
+
+>             “(A)
+
+>              to modify and rehabilitate the primary residence of an eligible veteran, and may include—
+
+>                 “(i)
+
+>                  installing wheelchair ramps, widening exterior and interior doors, reconfigurating and re-equipping bathrooms (which includes installing new fixtures and grab bars), removing doorway thresholds, installing special lighting, adding additional electrical outlets and electrical service, and installing appropriate floor coverings to—
+
+>                          “(I) accommodate the functional limitations that result from having a disability; or
+
+>                          “(II) if such residence does not have modifications necessary to reduce the chances that an elderly, but not disabled person, will fall in their home, reduce the risks of such an elderly person from falling;
+
+>                 “(ii) rehabilitating such residence that is in a state of interior or exterior disrepair; and
+
+>                 “(iii)
+
+>                  installing energy efficient features or equipment if—
+
+>                          “(I) an eligible veteran’s monthly utility costs for such residence is more than 5 percent of such veteran’s monthly income; and
+
+>                          “(II) an energy audit of such residence indicates that the installation of energy efficient features or equipment will reduce such costs by 10 percent or more; and
+
+>             “(B) in connection with modification and rehabilitation services provided under the pilot program, to provide technical, administrative, and training support to an affiliate of a qualified organization receiving a grant under such pilot program.
+
+>         “(4)  __Limitation on use of funds__  __.—__ 
+
+>         Funds may be expended under the pilot program only for the benefit of an eligible veteran who the Secretary determines is residing in and reasonably intends to continue residing in a primary residence owned by such veteran or by a member of such veteran’s family. The Secretary shall make this determination on the basis of a certification by the veteran or a member of the veteran’s family that the veteran intends to continue residing in the primary residence for a sufficient period of time to be determined by the Secretary.
+
+>         “(5)  __Oversight__  __.—__ 
+
+>         The Secretary shall direct the oversight of the grant funds for the pilot program so that such funds are used efficiently until expended to fulfill the purpose of addressing the adaptive housing needs of eligible veterans.
+
+>         “(6) __Matching funds.—__ 
+
+>             “(A)  __In general__  __.—__ 
+
+>             A qualified organization receiving a grant under the pilot program shall contribute towards the housing modification and rehabilitation services provided to eligible veterans an amount equal to not less than 50 percent of the grant award received by such organization.
+
+>             “(B)  __In-kind contributions__  __.—__ 
+
+>             In order to meet the requirement under subparagraph (A), such organization may arrange for in-kind contributions.
+
+>         “(7)  __Limitation cost to the veterans__  __.—__ 
+
+>         A qualified organization receiving a grant under the pilot program shall modify or rehabilitate the primary residence of an eligible veteran at no cost to such veteran (including application fees) or at a cost such that such veteran pays no more than 30 percent of his or her income in housing costs during any month.
+
+>         “(8) __Reports.—__ 
+
+>             “(A)  __Annual report__  __.—__ 
+
+>             The Secretary shall submit to Congress, on an annual basis, a report that provides, with respect to the year for which such report is written—
+
+>                 “(i) the number of eligible veterans provided assistance under the pilot program;
+
+>                 “(ii) the socioeconomic characteristics of such veterans, including their gender, age, race, and ethnicity;
+
+>                 “(iii) the total number, types, and locations of entities contracted under such program to administer the grant funding;
+
+>                 “(iv) the amount of matching funds and in-kind contributions raised with each grant;
+
+>                 “(v) a description of the housing rehabilitation and modification services provided, costs saved, and actions taken under such program;
+
+>                 “(vi) a description of the outreach initiatives implemented by the Secretary to educate the general public and eligible entities about such program;
+
+>                 “(vii) a description of the outreach initiatives instituted by grant recipients to engage eligible veterans and veteran service organizations in projects utilizing grant funds under such program;
+
+>                 “(viii) a description of the outreach initiatives instituted by grant recipients to identify eligible veterans and their families; and
+
+>                 “(ix) any other information that the Secretary considers relevant in assessing such program.
+
+>             “(B)  __Final report__  __.—__ 
+
+>             Not later than 6 months after the completion of the pilot program, the Secretary shall submit to Congress a report that provides such information that the Secretary considers relevant in assessing the pilot program.
+
+>             “(C)  __Inspector general report__  __.—__ 
+
+>             Not later than March 31, 2019, the Inspector General of the Department of Housing and Urban Development shall submit to the Chairmen and Ranking Members of the Committee on Banking, Housing, and Urban Affairs of the Senate and the Committee on Financial Services of the House of Representatives a report containing a review of—
+
+>                 “(i) the use of appropriated funds by the Secretary and by grantees under the pilot program; and
+
+>                 “(ii) oversight and accountability of grantees under the pilot program.
+
+>         “(9)  __Authorization of appropriations__  __.—__ 
+
+>         There are authorized to be appropriated for the Department of Housing and Urban Development for carrying out this section $4,000,000 for each of fiscal years 2015 through 2019.”
+
 ----------
 
 [Previous](./../../../../..//us/usc/t38/ptII/ch21/m__us_usc_t38_ptII_ch21.md) | [Next](./../../../../..//us/usc/t38/ptII/ch21/m__us_usc_t38_s2101A.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs2101)
@@ -294,5 +482,12 @@
 [/us/pl/95/117]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F117
 [/us/pl/95/117/s501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F117%2Fs501
 [/us/usc/t38/s1114]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs1114
+[/us/pl/113/291/s1079]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs1079
+[/us/stat/128/3521]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3521
+[/us/usc/t42/s12102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs12102
+[/us/usc/t26/s501/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs501%2Fc%2F3
+[/us/usc/t26/s501/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs501%2Fa
+[/us/usc/t38/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs101
+[/us/usc/t38/s5902]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs5902
 
 
