@@ -153,7 +153,7 @@
 
             Paragraph (1) shall not apply to any lease of individually owned Indian allotted land.
 
-        (3) __Authority of secretary over tribal regulations__ 
+        (3) __Authority of Secretary over tribal regulations__ 
 
             (A) __In general__ 
 
@@ -219,7 +219,7 @@
 
                 The United States shall not be liable for losses sustained by any party to a lease executed pursuant to tribal regulations under paragraph (1).
 
-            (B) __Authority of secretary__ 
+            (B) __Authority of Secretary__ 
 
                 Pursuant to the authority of the Secretary to fulfill the trust obligation of the United States to the applicable Indian tribe under Federal law (including regulations), the Secretary may, upon reasonable notice from the applicable Indian tribe and at the discretion of the Secretary, enforce the provisions of, or cancel, any lease executed by the Indian tribe under paragraph (1).
 

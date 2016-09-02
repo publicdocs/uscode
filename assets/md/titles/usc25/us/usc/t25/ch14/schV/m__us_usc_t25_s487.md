@@ -45,7 +45,7 @@
 
  __References in Text__ 
 
-    This Act, referred to in subsecs. (c), (d), and (e), is [Pub. L. 90–335][/us/pl/90/335], June 10, 1968, [82 Stat. 174][/us/stat/82/174], as amended, which enacted this section and amended [section 415 of this title][/us/usc/t25/s415]. For complete classification of this Act to the Code, see Tables.
+    This Act, referred to in subsecs. (b) to (e), is [Pub. L. 90–335][/us/pl/90/335], June 10, 1968, [82 Stat. 174][/us/stat/82/174], as amended, which enacted this section and amended [section 415 of this title][/us/usc/t25/s415]. For complete classification of this Act to the Code, see Tables.
 
  __Codification__ 
 
