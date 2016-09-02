@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 101.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft3%2Fs101" data-uslm-ref="/us/usc/t3/s101">101.</a>  </td>
 
     <td> Commencement of term of office.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 102.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft3%2Fs102" data-uslm-ref="/us/usc/t3/s102">102.</a>  </td>
 
     <td> Compensation of the President.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 103.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft3%2Fs103" data-uslm-ref="/us/usc/t3/s103">103.</a>  </td>
 
     <td> Traveling expenses.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 104.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft3%2Fs104" data-uslm-ref="/us/usc/t3/s104">104.</a>  </td>
 
     <td> Salary of the Vice President.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 105.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft3%2Fs105" data-uslm-ref="/us/usc/t3/s105">105.</a>  </td>
 
     <td> Assistance and services for the President.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 106.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft3%2Fs106" data-uslm-ref="/us/usc/t3/s106">106.</a>  </td>
 
     <td> Assistance and services for the Vice President.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 107.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft3%2Fs107" data-uslm-ref="/us/usc/t3/s107">107.</a>  </td>
 
     <td> Domestic Policy Staff and Office of Administration; personnel.  </td>
 
@@ -81,7 +81,7 @@
 
   <tr>
 
-    <td> 108.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft3%2Fs108" data-uslm-ref="/us/usc/t3/s108">108.</a>  </td>
 
     <td> Assistance to the President for unanticipated needs.  </td>
 
@@ -89,7 +89,7 @@
 
   <tr>
 
-    <td> 109.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft3%2Fs109" data-uslm-ref="/us/usc/t3/s109">109.</a>  </td>
 
     <td> Public property in and belonging to the Executive Residence at the White House.  </td>
 
@@ -97,7 +97,7 @@
 
   <tr>
 
-    <td> 110.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft3%2Fs110" data-uslm-ref="/us/usc/t3/s110">110.</a>  </td>
 
     <td> Furniture for the Executive Residence at the White House.  </td>
 
@@ -105,7 +105,7 @@
 
   <tr>
 
-    <td> 111.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft3%2Fs111" data-uslm-ref="/us/usc/t3/s111">111.</a>  </td>
 
     <td> Expense allowance of Vice President.  </td>
 
@@ -113,7 +113,7 @@
 
   <tr>
 
-    <td> 112.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft3%2Fs112" data-uslm-ref="/us/usc/t3/s112">112.</a>  </td>
 
     <td> Detail of employees of executive departments.  </td>
 
@@ -121,7 +121,7 @@
 
   <tr>
 
-    <td> 113.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft3%2Fs113" data-uslm-ref="/us/usc/t3/s113">113.</a>  </td>
 
     <td> Personnel report.  </td>
 
@@ -129,7 +129,7 @@
 
   <tr>
 
-    <td> 114.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft3%2Fs114" data-uslm-ref="/us/usc/t3/s114">114.</a>  </td>
 
     <td> General pay limitation.  </td>
 
@@ -137,7 +137,7 @@
 
   <tr>
 
-    <td> 115.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft3%2Fs115" data-uslm-ref="/us/usc/t3/s115">115.</a>  </td>
 
     <td> Veterans’ preference.  </td>
 

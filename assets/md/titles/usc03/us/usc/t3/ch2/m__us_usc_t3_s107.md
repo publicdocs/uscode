@@ -75,7 +75,7 @@
 
 >     “(2) whose position would be terminated or whose rate of basic pay would be reduced (but for this subsection) by reason of [section 107(b) of title 3][/us/usc/t3/s107/b], United States Code (as amended by this Act) \[subsec. (b) of this section\],
 
->         such employee may be allowed to continue to hold such position and receive basic pay at the rate in effect on the effective date of this Act \[see Effective Date of 1978 Amendment note set out under [section 102 of this title][/us/usc/t3/s102]\] during the period which begins on such date and ends 2 years after such date so long as such employee continues as an employee of the Office of Administration.”
+>     such employee may be allowed to continue to hold such position and receive basic pay at the rate in effect on the effective date of this Act \[see Effective Date of 1978 Amendment note set out under [section 102 of this title][/us/usc/t3/s102]\] during the period which begins on such date and ends 2 years after such date so long as such employee continues as an employee of the Office of Administration.”
 
 ----------
 

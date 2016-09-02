@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../..//us/usc/t3/ch3/m__us_usc_t3_s206 to 209.md) | [Next](./../../../..//us/usc/t3/ch4/m__us_usc_t3_s301.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft3%2Fch4)
+[Previous](./../../../..//us/usc/t3/ch3/m__us_usc_t3_s205.md) | [Next](./../../../..//us/usc/t3/ch4/m__us_usc_t3_s301.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft3%2Fch4)
 
 ## CHAPTER 4—DELEGATION OF FUNCTIONS
 
@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 301.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft3%2Fs301" data-uslm-ref="/us/usc/t3/s301">301.</a>  </td>
 
     <td> General authorization to delegate functions; publication of delegations.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 302.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft3%2Fs302" data-uslm-ref="/us/usc/t3/s302">302.</a>  </td>
 
     <td> Scope of delegation of functions.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 303.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft3%2Fs303" data-uslm-ref="/us/usc/t3/s303">303.</a>  </td>
 
     <td> Definitions.  </td>
 
@@ -55,7 +55,7 @@
 
 ----------
 
-[Previous](./../../../..//us/usc/t3/ch3/m__us_usc_t3_s206 to 209.md) | [Next](./../../../..//us/usc/t3/ch4/m__us_usc_t3_s301.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft3%2Fch4)
+[Previous](./../../../..//us/usc/t3/ch3/m__us_usc_t3_s205.md) | [Next](./../../../..//us/usc/t3/ch4/m__us_usc_t3_s301.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft3%2Fch4)
 
 ----------
 ----------

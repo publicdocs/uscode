@@ -13,11 +13,11 @@
 
 ~~Previous~~ | [Next](./../../..//us/usc/t3/ch1/m__us_usc_t3_ch1.md) | [Root of Title](./../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft3)
 
-# 
-
-Title 3—THE PRESIDENT
+# Title 3—THE PRESIDENT
 
 This title was enacted by [act June 25, 1948, ch. 644, § 1][/us/act/1948-06-25/ch644/s1], [62 Stat. 672][/us/stat/62/672]
+
+Current through 113–44
 
 <table>
 
@@ -33,51 +33,51 @@ This title was enacted by [act June 25, 1948, ch. 644, § 1][/us/act/1948-06-2
 
   <tr>
 
-    <td> 1.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft3%2Fch1" data-uslm-ref="/us/usc/t3/ch1">1.</a>  </td>
 
     <td> Presidential Elections and Vacancies  </td>
 
-    <td> 1  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft3%2Fs1" data-uslm-ref="/us/usc/t3/s1">1</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 2.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft3%2Fch2" data-uslm-ref="/us/usc/t3/ch2">2.</a>  </td>
 
     <td> Office and Compensation of President  </td>
 
-    <td> 101  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft3%2Fs101" data-uslm-ref="/us/usc/t3/s101">101</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 3.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft3%2Fch3" data-uslm-ref="/us/usc/t3/ch3">3.</a>  </td>
 
     <td> Protection of the President; the White House Police  <sup>[1]</sup>  <sup><sup> 1 Chapter repealed by <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fpl%2F109%2F177" data-uslm-ref="/us/pl/109/177">Pub. L. 109–177</a> without a corresponding amendment of chapter analysis. </sup></sup>   </td>
 
-    <td> 201  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft3%2Fs201" data-uslm-ref="/us/usc/t3/s201">201</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 4.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft3%2Fch4" data-uslm-ref="/us/usc/t3/ch4">4.</a>  </td>
 
     <td> Delegation of Functions  </td>
 
-    <td> 301  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft3%2Fs301" data-uslm-ref="/us/usc/t3/s301">301</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 5.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft3%2Fch5" data-uslm-ref="/us/usc/t3/ch5">5.</a>  </td>
 
     <td> Extension of Certain Rights and Protections to Presidential Offices  </td>
 
-    <td> 401  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft3%2Fs401" data-uslm-ref="/us/usc/t3/s401">401</a>  </td>
 
   </tr>
 

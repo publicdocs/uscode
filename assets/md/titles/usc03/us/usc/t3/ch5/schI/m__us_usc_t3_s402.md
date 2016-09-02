@@ -15,7 +15,7 @@
 
 ## § 402. Application of laws
 
-The following laws shall apply, as prescribed by this chapter, to all employing offices (including employing offices within the meaning of section 411, to the extent prescribed therein):
+    The following laws shall apply, as prescribed by this chapter, to all employing offices (including employing offices within the meaning of section 411, to the extent prescribed therein):
 
     (1) The Fair Labor Standards Act of 1938.
 

@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 1.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft3%2Fs1" data-uslm-ref="/us/usc/t3/s1">1.</a>  </td>
 
     <td> Time of appointing electors.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 2.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft3%2Fs2" data-uslm-ref="/us/usc/t3/s2">2.</a>  </td>
 
     <td> Failure to make choice on prescribed day.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 3.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft3%2Fs3" data-uslm-ref="/us/usc/t3/s3">3.</a>  </td>
 
     <td> Number of electors.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 4.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft3%2Fs4" data-uslm-ref="/us/usc/t3/s4">4.</a>  </td>
 
     <td> Vacancies in electoral college.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 5.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft3%2Fs5" data-uslm-ref="/us/usc/t3/s5">5.</a>  </td>
 
     <td> Determination of controversy as to appointment of electors.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 6.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft3%2Fs6" data-uslm-ref="/us/usc/t3/s6">6.</a>  </td>
 
     <td> Credentials of electors; transmission to Archivist of the United States and to Congress; public inspection.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 7.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft3%2Fs7" data-uslm-ref="/us/usc/t3/s7">7.</a>  </td>
 
     <td> Meeting and vote of electors.  </td>
 
@@ -81,7 +81,7 @@
 
   <tr>
 
-    <td> 8.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft3%2Fs8" data-uslm-ref="/us/usc/t3/s8">8.</a>  </td>
 
     <td> Manner of voting.  </td>
 
@@ -89,7 +89,7 @@
 
   <tr>
 
-    <td> 9.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft3%2Fs9" data-uslm-ref="/us/usc/t3/s9">9.</a>  </td>
 
     <td> Certificates of votes for President and Vice President.  </td>
 
@@ -97,7 +97,7 @@
 
   <tr>
 
-    <td> 10.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft3%2Fs10" data-uslm-ref="/us/usc/t3/s10">10.</a>  </td>
 
     <td> Sealing and endorsing certificates.  </td>
 
@@ -105,7 +105,7 @@
 
   <tr>
 
-    <td> 11.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft3%2Fs11" data-uslm-ref="/us/usc/t3/s11">11.</a>  </td>
 
     <td> Disposition of certificates.  </td>
 
@@ -113,7 +113,7 @@
 
   <tr>
 
-    <td> 12.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft3%2Fs12" data-uslm-ref="/us/usc/t3/s12">12.</a>  </td>
 
     <td> Failure of certificates of electors to reach President of Senate or Archivist of the United States; demand on State for certificate. <sup>[1]</sup>  <sup><sup> 1 So in original. Does not conform to section catchline. </sup></sup>   </td>
 
@@ -121,7 +121,7 @@
 
   <tr>
 
-    <td> 13.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft3%2Fs13" data-uslm-ref="/us/usc/t3/s13">13.</a>  </td>
 
     <td> Same; demand on district judge for certificate.  </td>
 
@@ -129,7 +129,7 @@
 
   <tr>
 
-    <td> 14.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft3%2Fs14" data-uslm-ref="/us/usc/t3/s14">14.</a>  </td>
 
     <td> Forfeiture for messenger’s neglect of duty.  </td>
 
@@ -137,7 +137,7 @@
 
   <tr>
 
-    <td> 15.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft3%2Fs15" data-uslm-ref="/us/usc/t3/s15">15.</a>  </td>
 
     <td> Counting electoral votes in Congress.  </td>
 
@@ -145,7 +145,7 @@
 
   <tr>
 
-    <td> 16.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft3%2Fs16" data-uslm-ref="/us/usc/t3/s16">16.</a>  </td>
 
     <td> Same; seats for officers and Members of two Houses in joint meeting.  </td>
 
@@ -153,7 +153,7 @@
 
   <tr>
 
-    <td> 17.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft3%2Fs17" data-uslm-ref="/us/usc/t3/s17">17.</a>  </td>
 
     <td> Same; limit of debate in each House.  </td>
 
@@ -161,7 +161,7 @@
 
   <tr>
 
-    <td> 18.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft3%2Fs18" data-uslm-ref="/us/usc/t3/s18">18.</a>  </td>
 
     <td> Same; parliamentary procedure at joint meeting.  </td>
 
@@ -169,7 +169,7 @@
 
   <tr>
 
-    <td> 19.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft3%2Fs19" data-uslm-ref="/us/usc/t3/s19">19.</a>  </td>
 
     <td> Vacancy in offices of both President and Vice President; officers eligible to act.  </td>
 
@@ -177,7 +177,7 @@
 
   <tr>
 
-    <td> 20.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft3%2Fs20" data-uslm-ref="/us/usc/t3/s20">20.</a>  </td>
 
     <td> Resignation or refusal of office.  </td>
 
@@ -185,7 +185,7 @@
 
   <tr>
 
-    <td> 21.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft3%2Fs21" data-uslm-ref="/us/usc/t3/s21">21.</a>  </td>
 
     <td> Definitions.  </td>
 

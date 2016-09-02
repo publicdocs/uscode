@@ -15,7 +15,7 @@
 
 ## § 21. Definitions
 
-As used in this chapter the term—
+    As used in this chapter the term—
 
     (a) “State” includes the District of Columbia.
 
