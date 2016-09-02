@@ -55,7 +55,7 @@
 
  __Effective Date of 1984 Amendment__ 
 
-[Pub. L. 98–369, div. B, title VI, § 2663(e)(2)(B)][/us/pl/98/369/s2663/e/2/B], July 18, 1984, [98 Stat. 1168][/us/stat/98/1168] provided that: 
+[Pub. L. 98–369, div. B, title VI, § 2663(e)(2)(B)][/us/pl/98/369/s2663/e/2/B], July 18, 1984, [98 Stat. 1168][/us/stat/98/1168], provided that: 
 
 > “The amendment made by subparagraph (A) \[amending this section\] shall not apply to returns filed or representations made on or before the date of the enactment of this Act \[July 18, 1984\].”
 

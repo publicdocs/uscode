@@ -21,7 +21,7 @@
 
     (b) __Apprehension, detention, or conditional release of individuals__ 
 
-        Regulations prescribed under this section shall not provide for the apprehension, detention, or conditional release of individuals except for the purpose of preventing the introduction, transmission, or spread of such communicable diseases as may be specified from time to time in Executive orders of the President upon the recommendation of the Secretary, in consultation with the Surgeon General, <sup>\[1\]</sup>  <sup><sup> 1 So in original. Comma probably should not appear. </sup></sup> .
+        Regulations prescribed under this section shall not provide for the apprehension, detention, or conditional release of individuals except for the purpose of preventing the introduction, transmission, or spread of such communicable diseases as may be specified from time to time in Executive orders of the President upon the recommendation of the Secretary, in consultation with the Surgeon General, <sup>\[1\]</sup>  <sup><sup> 1 So in original. The comma probably should not appear. </sup></sup> .
 
     (c) __Application of regulations to persons entering from foreign countries__ 
 

@@ -231,7 +231,7 @@
 
     Amendment by [Pub. L. 102–572][/us/pl/102/572] effective Oct. 29, 1992, see [section 911 of Pub. L. 102–572][/us/pl/102/572/s911], set out as a note under [section 171 of Title 28][/us/usc/t28/s171], Judiciary and Judicial Procedure.
 
- __Effective Date of 1991 AmendmentEffective Date of 1991 Amendment__ 
+ __Effective Date of 1991 Amendment__ 
 
 [Pub. L. 102–168, title II, § 201(i)][/us/pl/102/168/s201/i], Nov. 26, 1991, [105 Stat. 1104][/us/stat/105/1104], provided that:
 

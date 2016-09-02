@@ -193,7 +193,7 @@
 
 > “The amendment made by subsection (b) \[amending this section\] shall apply to contracts entered into or renewed on or after the date of the enactment of this Act \[Apr. 7, 1986\].”
 
-[Pub. L. 99–272, title IX, § 9404(b)][/us/pl/99/272/s9404/b], Apr. 7, 1986, [100 Stat. 201][/us/stat/100/201] provided that: 
+[Pub. L. 99–272, title IX, § 9404(b)][/us/pl/99/272/s9404/b], Apr. 7, 1986, [100 Stat. 201][/us/stat/100/201], provided that: 
 
 > “The amendment made by this section \[amending this section\] shall become effective on the date of the enactment of this Act \[Apr. 7, 1986\].”
 

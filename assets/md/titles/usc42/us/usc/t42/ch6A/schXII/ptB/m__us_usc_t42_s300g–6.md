@@ -69,6 +69,14 @@
 
             (C) for any person to introduce into commerce any solder or flux that is not lead free unless the solder or flux bears a prominent label stating that it is illegal to use the solder or flux in the installation or repair of any plumbing providing water for human consumption.
 
+        (4) __Exemptions__ 
+
+        The prohibitions in paragraphs (1) and (3) shall not apply to—
+
+            (A) pipes, pipe fittings, plumbing fittings, or fixtures, including backflow preventers, that are used exclusively for nonpotable services such as manufacturing, industrial processing, irrigation, outdoor watering, or any other uses where the water is not anticipated to be used for human consumption; or
+
+            (B) toilets, bidets, urinals, fill valves, flushometer valves, tub fillers, shower valves, fire hydrants, service saddles, or water distribution main gate valves that are 2 inches in diameter or larger.
+
     (b) __State enforcement__ 
 
         (1) __Enforcement of prohibition__ 
@@ -83,15 +91,19 @@
 
         If the Administrator determines that a State is not enforcing the requirements of subsection (a) of this section as required pursuant to subsection (b) of this section, the Administrator may withhold up to 5 percent of Federal funds available to that State for State program grants under [section 300j–2(a) of this title][/us/usc/t42/s300j–2/a].
 
-    (d) __“Lead free” defined__ 
+    (d) __Definition of lead free__ 
 
-    For purposes of this section, the term “lead free”—
+        (1) __In general__ 
 
-        (1) when used with respect to solders and flux refers to solders and flux containing not more than 0.2 percent lead;
+        For the purposes of this section, the term “lead free” means—
 
-        (2) when used with respect to pipes and pipe fittings refers to pipes and pipe fittings containing not more than 8.0 percent lead; and
+            (A) not containing more than 0.2 percent lead when used with respect to solder and flux; and
 
-        (3) when used with respect to plumbing fittings and fixtures, refers to plumbing fittings and fixtures in compliance with standards established in accordance with subsection (e) of this section.
+            (B) not more than a weighted average of 0.25 percent lead when used with respect to the wetted surfaces of pipes, pipe fittings, plumbing fittings, and fixtures.
+
+        (2) __Calculation__ 
+
+            The weighted average lead content of a pipe, pipe fitting, plumbing fitting, or fixture shall be calculated by using the following formula: For each wetted component, the percentage of lead in the component shall be multiplied by the ratio of the wetted surface area of that component to the total wetted surface area of the entire product to arrive at the weighted percentage of lead of the component. The weighted percentage of lead of each wetted component shall be added together, and the sum of these weighted percentages shall constitute the weighted average lead content of the product. The lead content of the material used to produce wetted components shall be used to determine compliance with paragraph (1)(B). For lead content of materials that are provided as a range, the maximum content of the range shall be used.
 
     (e) __Plumbing fittings and fixtures__ 
 
@@ -109,39 +121,15 @@
 
                 If regulations are required to be promulgated under subparagraph (A) and have not been promulgated by the date that is 5 years after August 6, 1996, no person may import, manufacture, process, or distribute in commerce a new plumbing fitting or fixture, intended by the manufacturer to dispense water for human ingestion, that contains more than 4 percent lead by dry weight.
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XIV, § 1417, as added [Pub. L. 99–339, title I, § 109(a)][/us/pl/99/339/s109/a], June 19, 1986, [100 Stat. 651][/us/stat/100/651]; amended [Pub. L. 104–182, title I, § 118][/us/pl/104/182/s118], title V, § 501(f)(1), Aug. 6, 1996, [110 Stat. 1645][/us/stat/110/1645], 1691; [Pub. L. 111–380, § 2(a)][/us/pl/111/380/s2/a], Jan. 4, 2011, [124 Stat. 4131][/us/stat/124/4131].)
-
- __Amendment of Subsections (a) and (d)__ 
-
-[Pub. L. 111–380, § 2][/us/pl/111/380/s2], Jan. 4, 2011, [124 Stat. 4131][/us/stat/124/4131], provided that, applicable beginning on the day that is 36 months after Jan. 4, 2011, this section is amended as follows:
-
-    (1) by adding at the end of subsection (a) the following:
-
-    “(4) Exemptions
-
-    “The prohibitions in paragraphs (1) and (3) shall not apply to—
-
-    “(A) pipes, pipe fittings, plumbing fittings, or fixtures, including backflow preventers, that are used exclusively for nonpotable services such as manufacturing, industrial processing, irrigation, outdoor watering, or any other uses where the water is not anticipated to be used for human consumption; or
-
-    “(B) toilets, bidets, urinals, fill valves, flushometer valves, tub fillers, shower valves, service saddles, or water distribution main gate valves that are 2 inches in diameter or larger.”; and
-
-    (2) by amending subsection (d) to read as follows:
-
-    (d) Definition of lead free
-
-    (1) In general
-
-    For the purposes of this section, the term “lead free” means—
-
-    (A) not containing more than 0.2 percent lead when used with respect to solder and flux; and
-
-    (B) not more than a weighted average of 0.25 percent lead when used with respect to the wetted surfaces of pipes, pipe fittings, plumbing fittings, and fixtures.
-
-    (2) Calculation
-
-    The weighted average lead content of a pipe, pipe fitting, plumbing fitting, or fixture shall be calculated by using the following formula: For each wetted component, the percentage of lead in the component shall be multiplied by the ratio of the wetted surface area of that component to the total wetted surface area of the entire product to arrive at the weighted percentage of lead of the component. The weighted percentage of lead of each wetted component shall be added together, and the sum of these weighted percentages shall constitute the weighted average lead content of the product. The lead content of the material used to produce wetted components shall be used to determine compliance with paragraph (1)(B). For lead content of materials that are provided as a range, the maximum content of the range shall be used.
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XIV, § 1417, as added [Pub. L. 99–339, title I, § 109(a)][/us/pl/99/339/s109/a], June 19, 1986, [100 Stat. 651][/us/stat/100/651]; amended [Pub. L. 104–182, title I, § 118][/us/pl/104/182/s118], title V, § 501(f)(1), Aug. 6, 1996, [110 Stat. 1645][/us/stat/110/1645], 1691; [Pub. L. 111–380, § 2(a)][/us/pl/111/380/s2/a], Jan. 4, 2011, [124 Stat. 4131][/us/stat/124/4131]; [Pub. L. 113–64, § 2][/us/pl/113/64/s2], Dec. 20, 2013, [127 Stat. 668][/us/stat/127/668].)
 
  __Amendments__ 
+
+    2013—Subsec. (a)(4)(B). [Pub. L. 113–64][/us/pl/113/64] inserted “fire hydrants,” after “shower valves,”.
+
+    2011—Subsec. (a)(4). [Pub. L. 111–380, § 2(a)(1)][/us/pl/111/380/s2/a/1], added par. (4).
+
+    Subsec. (d). [Pub. L. 111–380, § 2(a)(2)][/us/pl/111/380/s2/a/2], amended subsec. (d) generally. Prior to amendment, subsec. (d) defined “lead free” when used with respect to solders and flux, pipes and pipe fittings, and plumbing fittings and fixtures.
 
     1996—[Pub. L. 104–182, § 501(f)(1)][/us/pl/104/182/s501/f/1], made technical amendment to section catchline and subsec. (a) designation.
 
@@ -166,6 +154,16 @@
 [Pub. L. 111–380, § 2(b)][/us/pl/111/380/s2/b], Jan. 4, 2011, [124 Stat. 4132][/us/stat/124/4132], provided that: 
 
 > “The provisions of subsections (a)(4) and (d) of section 1417 of the Safe Drinking Water Act \[[42 U.S.C. 300g–6(a)(4)][/us/usc/t42/s300g–6/a/4], (d)\], as added by this section, apply beginning on the day that is 36 months after the date of the enactment of this Act \[Jan. 4, 2011\].”
+
+ __Evaluation of Sources of Lead in Water Distribution Systems and Alternate Routing Systems__ 
+
+[Pub. L. 113–64, § 3][/us/pl/113/64/s3], Dec. 20, 2013, [127 Stat. 668][/us/stat/127/668], provided that: 
+
+> “The Administrator of the Environmental Protection Agency shall—
+
+>     “(1) consult with and seek the advice of the National Drinking Water Advisory Council on potential changes to the regulations pertaining to lead under the Safe Drinking Water Act ([42 U.S.C. 300f][/us/usc/t42/s300f] et seq.); and
+
+>     “(2) request the Council to consider sources of lead throughout drinking water distribution systems, including through components used to reroute drinking water during distribution system repairs.”
 
  __Notification to States__ 
 
@@ -208,8 +206,11 @@
 [/us/stat/110/1645]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1645
 [/us/pl/111/380/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F380%2Fs2%2Fa
 [/us/stat/124/4131]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F4131
-[/us/pl/111/380/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F380%2Fs2
-[/us/stat/124/4131]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F4131
+[/us/pl/113/64/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F64%2Fs2
+[/us/stat/127/668]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F668
+[/us/pl/113/64]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F64
+[/us/pl/111/380/s2/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F380%2Fs2%2Fa%2F1
+[/us/pl/111/380/s2/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F380%2Fs2%2Fa%2F2
 [/us/pl/104/182/s501/f/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F182%2Fs501%2Ff%2F1
 [/us/pl/104/182/s118/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F182%2Fs118%2F1
 [/us/pl/104/182/s118/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F182%2Fs118%2F2
@@ -219,6 +220,9 @@
 [/us/pl/111/380/s2/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F380%2Fs2%2Fb
 [/us/stat/124/4132]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F4132
 [/us/usc/t42/s300g–6/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300g%E2%80%936%2Fa%2F4
+[/us/pl/113/64/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F64%2Fs3
+[/us/stat/127/668]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F668
+[/us/usc/t42/s300f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300f
 [/us/pl/99/339/s109/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F339%2Fs109%2Fb
 [/us/stat/100/652]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F652
 [/us/usc/t42/s300g–6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300g%E2%80%936

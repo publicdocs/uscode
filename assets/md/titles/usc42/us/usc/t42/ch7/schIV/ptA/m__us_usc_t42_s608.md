@@ -475,7 +475,7 @@
 
  __Effective Date of 1997 Amendment__ 
 
-[Pub. L. 105–33, title V, § 5001(h)(2)][/us/pl/105/33/s5001/h/2], Aug. 5, 1997, [111 Stat. 593][/us/stat/111/593] provided that: 
+[Pub. L. 105–33, title V, § 5001(h)(2)][/us/pl/105/33/s5001/h/2], Aug. 5, 1997, [111 Stat. 593][/us/stat/111/593], provided that: 
 
 > “The amendments made by paragraph (1) \[amending this section\] shall take effect as if included in the enactment of section 103(a) of the Personal Responsibility and Work Opportunity Reconciliation Act of 1996 \[[Pub. L. 104–193][/us/pl/104/193]\].”
 

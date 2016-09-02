@@ -153,6 +153,10 @@
 
  __Short Title of 2013 Amendment__ 
 
+[Pub. L. 113–64, § 1][/us/pl/113/64/s1], Dec. 20, 2013, [127 Stat. 668][/us/stat/127/668], provided that: 
+
+> “This Act \[amending [section 300g–6 of this title][/us/usc/t42/s300g–6] and enacting provisions set out as a note under [section 300g–6 of this title][/us/usc/t42/s300g–6]\] may be cited as the ‘Community Fire Safety Act of 2013’.”
+
 [Pub. L. 113–55, title I, § 101][/us/pl/113/55/s101], Nov. 27, 2013, [127 Stat. 641][/us/stat/127/641], provided that: 
 
 > “This title \[amending sections 247b–4f, 254c–14, and 280g–5 of this title, repealing [section 247b–4g of this title][/us/usc/t42/s247b–4g], and enacting provisions set out as a note under [section 247b–4f of this title][/us/usc/t42/s247b–4f]\] may be cited as the ‘Prematurity Research Expansion and Education for Mothers who deliver Infants Early Reauthorization Act’ or the ‘PREEMIE Reauthorization Act’.”
@@ -1509,6 +1513,10 @@ Act June 16, 1948, § 1, [62 Stat. 464][/us/stat/62/464], provided that:
 [/us/usc/t33/s466j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs466j
 [/us/pl/86/70]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F70
 [/us/pl/86/70/s47/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F70%2Fs47%2Fd
+[/us/pl/113/64/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F64%2Fs1
+[/us/stat/127/668]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F668
+[/us/usc/t42/s300g–6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300g%E2%80%936
+[/us/usc/t42/s300g–6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300g%E2%80%936
 [/us/pl/113/55/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F55%2Fs101
 [/us/stat/127/641]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F641
 [/us/usc/t42/s247b–4g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs247b%E2%80%934g

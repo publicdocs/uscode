@@ -117,7 +117,7 @@
 
                 (i) Subparagraph (A) shall apply to any financial obligation of an individual under the provision of law specified in clause (ii) to the same extent and in the same manner as such subparagraph applies to any obligation of an individual under the Scholarship or Loan Repayment Program (or contract thereunder) for payment of damages.
 
-                (ii) The provision of law referred to in clause (i) is subsection (f) of section 234  <sup>\[2\]</sup>  <sup><sup> 2 See References in Text note below. </sup></sup>  of this title, as in effect prior to the repeal of such section by [section 408(b)(1) of Public Law 94–484][/us/pl/94/484/s408/b/1].
+                (ii) The provision of law referred to in clause (i) is subsection (f) of section 234 1 of this title, as in effect prior to the repeal of such section by [section 408(b)(1) of Public Law 94–484][/us/pl/94/484/s408/b/1].
 
     (e) __Inapplicability of Federal and State statute of limitations on actions for collection__ 
 

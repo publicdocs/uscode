@@ -181,7 +181,7 @@
 
             (B) The risk exposure of such entities.
 
-            (C) The value of private sector risk-management services, and the value of risk-management services and procedures required as a condition of receiving a grant under section 254b, 254b, or 256a of this title. <sup>\[4\]</sup>  <sup><sup> 4 See References in Text notes below. </sup></sup> 
+            (C) The value of private sector risk-management services, and the value of risk-management services and procedures required as a condition of receiving a grant under section 254b, 254b, or 256a of this title.1
 
             (D)
 
@@ -491,7 +491,7 @@
 
                     (I) the individual who allegedly transmitted the vaccinia, if vaccinia vaccine was administered to such individual as provided by paragraph (2)(B) and such individual was within a category of individuals covered by a declaration under paragraph (2)(A)(i); or
 
-                    (II) an entity that employs an individual described by clause (I)  <sup>\[5\]</sup>  <sup><sup> 5 So in original. Probably should be “subclause”. </sup></sup>  or where such individual has privileges or is otherwise authorized to provide health care;
+                    (II) an entity that employs an individual described by clause (I)  <sup>\[4\]</sup>  <sup><sup> 4 So in original. Probably should be “subclause”. </sup></sup>  or where such individual has privileges or is otherwise authorized to provide health care;
 
                 (vi) an official, agent, or employee of a person described in clause (i), (ii), (iii), or (iv);
 
