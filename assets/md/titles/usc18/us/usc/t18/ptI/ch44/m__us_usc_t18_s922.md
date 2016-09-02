@@ -729,10 +729,6 @@
 
     Section 103 of the Brady Handgun Violence Prevention Act, referred to in subsec. (t)(1), is [section 103 of Pub. L. 103–159][/us/pl/103/159/s103], which is set out below.
 
- __Constitutionality__ 
-
-For information regarding constitutionality of certain provisions of this section, as added by [section 102(a)(1) of Pub. L. 103–159][/us/pl/103/159/s102/a/1], see Congressional Research Service, The Constitution of the United States of America: Analysis and Interpretation, Appendix 1, Acts of Congress Held Unconstitutional in Whole or in Part by the Supreme Court of the United States.
-
  __Amendments__ 
 
     2015—Subsec. (z)(2)(B). [Pub. L. 114–94][/us/pl/114/94] substituted “directly employed by or contracted by” for “employed by”.
@@ -1778,7 +1774,6 @@ Similar provisions were contained in the following prior appropriation acts:
 [/us/usc/t18/s1028]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs1028
 [/us/usc/t21/s802]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs802
 [/us/pl/103/159/s103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F159%2Fs103
-[/us/pl/103/159/s102/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F159%2Fs102%2Fa%2F1
 [/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
 [/us/pl/109/92]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F92
 [/us/pl/109/92]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F92
