@@ -137,7 +137,7 @@
 
                     (I) in accordance with such subparagraph; and
 
-                    (II) to such number, as determined by the Administrator based on the best available information and subject to amounts available under [section 300mm–61 of this title][/us/usc/t42/s300mm–61], that will ensure sufficient funds will be available to provide treatment and monitoring benefits under this subchapter, with respect to all individuals who are enrolled through the end of fiscal year 2020; and
+                    (II) to such number, as determined by the Administrator based on the best available information and subject to amounts available under [section 300mm–61 of this title][/us/usc/t42/s300mm–61], that will ensure sufficient funds will be available to provide treatment and monitoring benefits under this subchapter, with respect to all individuals who are enrolled; and
 
                 (ii) provide priority (subject to paragraph (3)(A)(i)) in such enrollments in the order in which individuals apply for enrollment under paragraph (3).
 
@@ -155,7 +155,11 @@
 
             The monitoring benefits under paragraph (1) shall be provided through the Clinical Center of Excellence for the type of individual involved or, in the case of an individual residing outside the New York metropolitan area, under an arrangement under [section 300mm–23 of this title][/us/usc/t42/s300mm–23].
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XXXIII, § 3311, as added [Pub. L. 111–347, title I, § 101][/us/pl/111/347/s101], Jan. 2, 2011, [124 Stat. 3635][/us/stat/124/3635].)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XXXIII, § 3311, as added [Pub. L. 111–347, title I, § 101][/us/pl/111/347/s101], Jan. 2, 2011, [124 Stat. 3635][/us/stat/124/3635]; amended [Pub. L. 114–113, div. O, title III, § 302(d)][/us/pl/114/113/s302/d], Dec. 18, 2015, [129 Stat. 2999][/us/stat/129/2999].)
+
+ __Amendments__ 
+
+    2015—Subsec. (a)(4)(B)(i)(II). [Pub. L. 114–113][/us/pl/114/113] struck out “through the end of fiscal year 2020” after “who are enrolled”.
 
 ----------
 
@@ -172,5 +176,8 @@
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
 [/us/pl/111/347/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F347%2Fs101
 [/us/stat/124/3635]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3635
+[/us/pl/114/113/s302/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs302%2Fd
+[/us/stat/129/2999]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F2999
+[/us/pl/114/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113
 
 

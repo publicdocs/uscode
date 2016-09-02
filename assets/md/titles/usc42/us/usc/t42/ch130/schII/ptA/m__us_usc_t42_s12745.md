@@ -143,6 +143,12 @@
 
     Amendment by [Pub. L. 102–550][/us/pl/102/550] applicable to unexpended funds allocated under subchapter II of this chapter in fiscal year 1992, except as otherwise specifically provided, see [section 223 of Pub. L. 102–550][/us/pl/102/550/s223], set out as a note under [section 12704 of this title][/us/usc/t42/s12704].
 
+ __HOME Investment Partnerships Program__ 
+
+[Pub. L. 114–113, div. L, title II][/us/pl/114/113], Dec. 18, 2015, [129 Stat. 2878][/us/stat/129/2878], provided in part: 
+
+> “That with respect to funds made available under this heading \[home investment partnerships program, see [129 Stat. 2878][/us/stat/129/2878]\] pursuant to such Act \[probably means title II of [Pub. L. 101–625][/us/pl/101/625]\] and funds provided in prior and subsequent appropriations acts that were or are used by community land trusts for the development of affordable homeownership housing pursuant to section 215(b) of such Act \[[42 U.S.C. 12745(b)][/us/usc/t42/s12745/b]\], such community land trusts, notwithstanding section 215(b)(3)(A) of such Act \[[42 U.S.C. 12745(b)(3)(A)][/us/usc/t42/s12745/b/3/A]\], may hold and exercise purchase options, rights of first refusal or other preemptive rights to purchase the housing to preserve affordability, including but not limited to the right to purchase the housing in lieu of foreclosure”.
+
 ----------
 
 [Previous](./../../../../../..//us/usc/t42/ch130/schII/ptA/m__us_usc_t42_s12744.md) | [Next](./../../../../../..//us/usc/t42/ch130/schII/ptA/m__us_usc_t42_s12746.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs12745)
@@ -190,5 +196,11 @@
 [/us/pl/102/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550
 [/us/pl/102/550/s223]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs223
 [/us/usc/t42/s12704]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs12704
+[/us/pl/114/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113
+[/us/stat/129/2878]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F2878
+[/us/stat/129/2878]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F2878
+[/us/pl/101/625]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F625
+[/us/usc/t42/s12745/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs12745%2Fb
+[/us/usc/t42/s12745/b/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs12745%2Fb%2F3%2FA
 
 

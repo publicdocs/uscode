@@ -1033,6 +1033,14 @@ Part C—General Administrative Provisions  </td>
 
   <tr>
 
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs7278a" data-uslm-ref="/us/usc/t42/s7278a">7278a.</a>  </td>
+
+    <td> Availability of funds for energy and water development for multiyear contracts, grants, or cooperative agreements of $1,000,000 or less.  </td>
+
+  </tr>
+
+  <tr>
+
     <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs7279" data-uslm-ref="/us/usc/t42/s7279">7279.</a>  </td>
 
     <td> Identification in budget materials of amounts for certain Department of Energy pension obligations.  </td>
@@ -1555,7 +1563,7 @@ SUBCHAPTER XV—MATTERS RELATING TO SAFEGUARDS, SECURITY, AND COUNTERINTELLIGENC
 
     <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs7383e" data-uslm-ref="/us/usc/t42/s7383e">7383e.</a>  </td>
 
-    <td> Annual report by the President on espionage by the People’s Republic of China.  </td>
+    <td> Repealed.  </td>
 
   </tr>
 

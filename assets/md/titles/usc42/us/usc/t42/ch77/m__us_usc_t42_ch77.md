@@ -57,7 +57,7 @@ Part A—Domestic Supply  </td>
 
   <tr>
 
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs6211" data-uslm-ref="/us/usc/t42/s6211">6211.</a>  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs6211" data-uslm-ref="/us/usc/t42/s6211">6211</a>, <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs6212" data-uslm-ref="/us/usc/t42/s6212">6212.</a>  </td>
 
     <td> Repealed.  </td>
 
@@ -65,9 +65,9 @@ Part A—Domestic Supply  </td>
 
   <tr>
 
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs6212" data-uslm-ref="/us/usc/t42/s6212">6212.</a>  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs6212a" data-uslm-ref="/us/usc/t42/s6212a">6212a.</a>  </td>
 
-    <td> Domestic use of energy supplies and related materials and equipment.  </td>
+    <td> Oil exports, safety valve, and maritime security.  </td>
 
   </tr>
 

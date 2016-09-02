@@ -23,7 +23,7 @@
 
             (A) for the provision of monitoring and treatment benefits and initial health evaluation benefits under part B;
 
-            (B) for the provision of outreach activities to individuals eligible for such monitoring and treatment benefits, for initial health evaluation benefits, and for followup to individuals who are enrolled in the monitoring program;
+            (B) for the provision of outreach and retention activities to individuals eligible for such monitoring and treatment benefits, for initial health evaluation benefits, and for followup to individuals who are enrolled in the monitoring program;
 
             (C) for the provision of counseling for benefits under part B, with respect to WTC-related health conditions, for individuals eligible for such benefits;
 
@@ -43,7 +43,7 @@
 
                 (ii) for the development of monitoring, initial health evaluation, and treatment protocols, with respect to WTC-related health conditions;
 
-                (iii) for coordinating the outreach activities conducted under paragraph (1)(B) by each corresponding Clinical Center of Excellence;
+                (iii) for coordinating the outreach and retention activities conducted under paragraph (1)(B) by each corresponding Clinical Center of Excellence;
 
                 (iv) for establishing criteria for the credentialing of medical providers participating in the nationwide network under [section 300mm–23 of this title][/us/usc/t42/s300mm–23];
 
@@ -105,7 +105,7 @@
 
                 (v) Treat or refer for treatment all individuals who are enrolled WTC responders or certified-eligible WTC survivors with respect to such Center who present themselves for treatment of a WTC-related health condition.
 
-                (vi) Have in place safeguards, consistent with [section 300mm–3(c) of this title][/us/usc/t42/s300mm–3/c], to ensure the confidentiality of an individual’s individually identifiable health information, including requiring that such information not be disclosed to the individual’s employer without the authorization of the individual.
+                (vi) Have in place safeguards, consistent with [section 300mm–3(d) of this title][/us/usc/t42/s300mm–3/d], to ensure the confidentiality of an individual’s individually identifiable health information, including requiring that such information not be disclosed to the individual’s employer without the authorization of the individual.
 
                 (vii) Use amounts paid under subsection (c)(1) only for costs incurred in carrying out the activities described in subsection (a), other than those described in subsection (a)(1)(A).
 
@@ -141,11 +141,19 @@
 
         Not later than July 1, 2011, the Comptroller General shall submit to the Committee on Energy and Commerce of the House of Representatives and the Committee on Health, Education, Labor, and Pensions of the Senate an analysis on whether Clinical Centers of Excellence with which the WTC Program Administrator enters into a contract under this section have financial systems that will allow for the timely submission of claims data for purposes of [section 300mm–3 of this title][/us/usc/t42/s300mm–3] and subsections (a)(1)(F) and (b)(1)(B)(iii).
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XXXIII, § 3305, as added [Pub. L. 111–347, title I, § 101][/us/pl/111/347/s101], Jan. 2, 2011, [124 Stat. 3630][/us/stat/124/3630].)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XXXIII, § 3305, as added [Pub. L. 111–347, title I, § 101][/us/pl/111/347/s101], Jan. 2, 2011, [124 Stat. 3630][/us/stat/124/3630]; amended [Pub. L. 114–113, div. O, title III, § 302(c)][/us/pl/114/113/s302/c], Dec. 18, 2015, [129 Stat. 2998][/us/stat/129/2998].)
 
  __References in Text__ 
 
     [Section 300mm–1(b) of this title][/us/usc/t42/s300mm–1/b], referred to in subsec. (a)(2)(A)(v), was in the original “section 3002(b)” and was translated as meaning section 3302(b) of act July 1, 1944, to reflect the probable intent of Congress.
+
+ __Amendments__ 
+
+    2015—Subsec. (a)(1)(B). [Pub. L. 114–113, § 302(c)(1)(A)][/us/pl/114/113/s302/c/1/A], inserted “and retention” after “outreach”.
+
+    Subsec. (a)(2)(A)(iii). [Pub. L. 114–113, § 302(c)(1)(B)][/us/pl/114/113/s302/c/1/B], inserted “and retention” after “outreach”.
+
+    Subsec. (b)(1)(B)(vi). [Pub. L. 114–113, § 302(c)(2)][/us/pl/114/113/s302/c/2], substituted “section 300mm–3(d)” for “section 300mm–3(c)”.
 
 ----------
 
@@ -159,13 +167,18 @@
 [/us/usc/t42/s300mm–23]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300mm%E2%80%9323
 [/us/usc/t42/s300mm–23/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300mm%E2%80%9323%2Fc
 [/us/usc/t42/s300mm–3/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300mm%E2%80%933%2Fb
-[/us/usc/t42/s300mm–3/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300mm%E2%80%933%2Fc
+[/us/usc/t42/s300mm–3/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300mm%E2%80%933%2Fd
 [/us/usc/t42/s300mm–23]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300mm%E2%80%9323
 [/us/usc/t42/s300mm–22/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300mm%E2%80%9322%2Fc
 [/us/usc/t42/s300mm–3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300mm%E2%80%933
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
 [/us/pl/111/347/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F347%2Fs101
 [/us/stat/124/3630]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3630
+[/us/pl/114/113/s302/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs302%2Fc
+[/us/stat/129/2998]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F2998
 [/us/usc/t42/s300mm–1/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300mm%E2%80%931%2Fb
+[/us/pl/114/113/s302/c/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs302%2Fc%2F1%2FA
+[/us/pl/114/113/s302/c/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs302%2Fc%2F1%2FB
+[/us/pl/114/113/s302/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs302%2Fc%2F2
 
 

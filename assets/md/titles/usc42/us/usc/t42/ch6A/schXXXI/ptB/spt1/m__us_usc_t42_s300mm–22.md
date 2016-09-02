@@ -159,7 +159,7 @@
 
             (B) __Administrator’s options after receipt of petition__ 
 
-            In the case that the WTC Program Administrator receives a written petition by an interested party to add a health condition to the list of health conditions in paragraph (3), not later than 60 days after the date of receipt of such petition the Administrator shall—
+            In the case that the WTC Program Administrator receives a written petition by an interested party to add a health condition to the list of health conditions in paragraph (3), not later than 90 days after the date of receipt of such petition the Administrator shall—
 
                 (i) request a recommendation of the Advisory Committee;
 
@@ -171,7 +171,7 @@
 
             (C) __Action by Advisory Committee__ 
 
-                In the case that the Administrator requests a recommendation of the Advisory Committee under this paragraph, with respect to adding a health condition to the list in paragraph (3), the Advisory Committee shall submit to the Administrator such recommendation not later than 60 days after the date of such request or by such date (not to exceed 180 days after such date of request) as specified by the Administrator. Not later than 60 days after the date of receipt of such recommendation, the Administrator shall, in accordance with subparagraph (D), publish in the Federal Register a proposed rule with respect to such recommendation or a determination not to propose such a proposed rule and the basis for such determination.
+                In the case that the Administrator requests a recommendation of the Advisory Committee under this paragraph, with respect to adding a health condition to the list in paragraph (3), the Advisory Committee shall submit to the Administrator such recommendation not later than 90 days after the date of such request or by such date (not to exceed 180 days after such date of request) as specified by the Administrator. Not later than 90 days after the date of receipt of such recommendation, the Administrator shall, in accordance with subparagraph (D), publish in the Federal Register a proposed rule with respect to such recommendation or a determination not to propose such a proposed rule and the basis for such determination.
 
             (D) __Publication__ 
 
@@ -186,6 +186,26 @@
             (E) __Interested party defined__ 
 
                 For purposes of this paragraph, the term “interested party” includes a representative of any organization representing WTC responders, a nationally recognized medical association, a Clinical or Data Center, a State or political subdivision, or any other interested person.
+
+            (F) __Independent peer reviews__ 
+
+                Prior to issuing a final rule to add a health condition to the list in paragraph (3), the WTC Program Administrator shall provide for an independent peer review of the scientific and technical evidence that would be the basis for issuing such final rule.
+
+            (G) __Additional advisory committee recommendations__ 
+
+                (i) __Program policies__ 
+
+                    (I) __Existing policies__ 
+
+                        Not later than 1 year after December 18, 2015, the WTC Program Administrator shall request the Advisory Committee to review and evaluate the policies and procedures, in effect at the time of the review and evaluation, that are used to determine whether sufficient evidence exists to support adding a health condition to the list in paragraph (3).
+
+                    (II) __Subsequent policies__ 
+
+                        Prior to establishing any substantive new policy or procedure used to make the determination described in subclause (I) or prior to making any substantive amendment to any policy or procedure described in such subclause, the WTC Program Administrator shall request the Advisory Committee to review and evaluate such substantive policy, procedure, or amendment.
+
+                (ii) __Identification of individuals conducting independent peer reviews__ 
+
+                    Not later than 1 year after December 18, 2015, and not less than every 2 years thereafter, the WTC Program Administrator shall seek recommendations from the Advisory Committee regarding the identification of individuals to conduct the independent peer reviews under subparagraph (F).
 
     (b) __Coverage of treatment for WTC-related health conditions__ 
 
@@ -339,11 +359,19 @@
 
             The medical treatment protocols developed under paragraph (1) shall be subject to approval by the WTC Program Administrator.
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XXXIII, § 3312, as added [Pub. L. 111–347, title I, § 101][/us/pl/111/347/s101], Jan. 2, 2011, [124 Stat. 3639][/us/stat/124/3639].)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XXXIII, § 3312, as added [Pub. L. 111–347, title I, § 101][/us/pl/111/347/s101], Jan. 2, 2011, [124 Stat. 3639][/us/stat/124/3639]; amended [Pub. L. 114–113, div. O, title III, § 302(e)][/us/pl/114/113/s302/e], Dec. 18, 2015, [129 Stat. 2999][/us/stat/129/2999].)
 
  __References in Text__ 
 
     The Federal Employees Compensation Act, referred to in subsec. (c)(1)(A)(i)(I), is [act Sept. 7, 1916, ch. 458][/us/act/1916-09-07/ch458], [39 Stat. 742][/us/stat/39/742]. The act was repealed, and the provisions thereof were reenacted as subchapter I (§ 8101 et seq.) of chapter 81 of Title 5, Government Organization and Employees, by [Pub. L. 89–554][/us/pl/89/554], Sept. 6, 1966, [80 Stat. 378][/us/stat/80/378].
+
+ __Amendments__ 
+
+    2015—Subsec. (a)(6)(B). [Pub. L. 114–113, § 302(e)(1)(A)][/us/pl/114/113/s302/e/1/A], substituted “90 days” for “60 days” in introductory provisions.
+
+    Subsec. (a)(6)(C). [Pub. L. 114–113, § 302(e)(1)(B)][/us/pl/114/113/s302/e/1/B], substituted “90 days” for “60 days” in two places.
+
+    Subsec. (a)(6)(F), (G). [Pub. L. 114–113, § 302(e)(2)][/us/pl/114/113/s302/e/2], added subpars. (F) and (G).
 
 ----------
 
@@ -362,9 +390,14 @@
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
 [/us/pl/111/347/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F347%2Fs101
 [/us/stat/124/3639]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3639
+[/us/pl/114/113/s302/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs302%2Fe
+[/us/stat/129/2999]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F2999
 [/us/act/1916-09-07/ch458]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1916-09-07%2Fch458
 [/us/stat/39/742]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F39%2F742
 [/us/pl/89/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554
 [/us/stat/80/378]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F378
+[/us/pl/114/113/s302/e/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs302%2Fe%2F1%2FA
+[/us/pl/114/113/s302/e/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs302%2Fe%2F1%2FB
+[/us/pl/114/113/s302/e/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs302%2Fe%2F2
 
 

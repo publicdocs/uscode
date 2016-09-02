@@ -85,6 +85,8 @@
 
             (J) a discount in the price of an applicable drug (as defined in paragraph (2) of [section 1395w–114a(g) of this title][/us/usc/t42/s1395w–114a/g]) of a manufacturer that is furnished to an applicable beneficiary (as defined in paragraph (1) of such section) under the Medicare coverage gap discount program under [section 1395w–114a of this title][/us/usc/t42/s1395w–114a].
 
+        (4) Whoever without lawful authority knowingly and willfully purchases, sells or distributes, or arranges for the purchase, sale, or distribution of a beneficiary identification number or unique health identifier for a health care provider under subchapter XVIII, subchapter XIX, or subchapter XXI shall be imprisoned for not more than 10 years or fined not more than $500,000 ($1,000,000 in the case of a corporation), or both.
+
     (c) __False statements or representations with respect to condition or operation of institutions__ 
 
         Whoever knowingly and willfully makes or causes to be made, or induces or seeks to induce the making of, any false statement or representation of a material fact with respect to the conditions or operation of any institution, facility, or entity in order that such institution, facility, or entity may qualify (either upon initial certification or upon recertification) as a hospital, critical access hospital, skilled nursing facility, nursing facility, intermediate care facility for the mentally retarded, home health agency, or other entity (including an eligible organization under [section 1395mm(b) of this title][/us/usc/t42/s1395mm/b]) for which certification is required under subchapter XVIII of this chapter or a State health care program (as defined in [section 1320a–7(h) of this title][/us/usc/t42/s1320a–7/h]), or with respect to information required to be provided under [section 1320a–3a of this title][/us/usc/t42/s1320a–3a], shall be guilty of a felony and upon conviction thereof shall be fined not more than $25,000 or imprisoned for not more than five years, or both.
@@ -127,7 +129,7 @@
 
         With respect to violations of this section, a person need not have actual knowledge of this section or specific intent to commit a violation of this section.
 
-([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title XI, § 1128B, formerly title XVIII, § 1877(d), and title XIX, § 1909, as added and amended [Pub. L. 92–603, title II][/us/pl/92/603], §§ 242(c), 278(b)(9), Oct. 30, 1972, [86 Stat. 1419][/us/stat/86/1419], 1454; [Pub. L. 95–142, § 4(a)][/us/pl/95/142/s4/a], (b), Oct. 25, 1977, [91 Stat. 1179][/us/stat/91/1179], 1181; [Pub. L. 96–499, title IX, § 917][/us/pl/96/499/s917], Dec. 5, 1980, [94 Stat. 2625][/us/stat/94/2625]; [Pub. L. 98–369, div. B, title III, § 2306(f)(2)][/us/pl/98/369/s2306/f/2], July 18, 1984, [98 Stat. 1073][/us/stat/98/1073]; renumbered title XI, § 1128B, and amended [Pub. L. 100–93][/us/pl/100/93], §§ 4(a)–(d), 14(b), Aug. 18, 1987, [101 Stat. 688][/us/stat/101/688], 689, 697; [Pub. L. 100–203, title IV][/us/pl/100/203], §§ 4039(a), 4211(h)(7), Dec. 22, 1987, [101 Stat. 1330–81][/us/stat/101/1330-81], 1330–206; [Pub. L. 100–360, title IV, § 411(a)(3)(A)][/us/pl/100/360/s411/a/3/A], (B)(i), July 1, 1988, [102 Stat. 768][/us/stat/102/768]; [Pub. L. 101–239, title VI, § 6003(g)(3)(D)(ii)][/us/pl/101/239/s6003/g/3/D/ii], Dec. 19, 1989, [103 Stat. 2153][/us/stat/103/2153]; [Pub. L. 101–508, title IV][/us/pl/101/508], §§ 4161(a)(4), 4164(b)(2), Nov. 5, 1990, [104 Stat. 1388–94][/us/stat/104/1388-94], 1388–102; [Pub. L. 103–432, title I, § 133(a)(2)][/us/pl/103/432/s133/a/2], Oct. 31, 1994, [108 Stat. 4421][/us/stat/108/4421]; [Pub. L. 104–191, title II][/us/pl/104/191], §§ 204(a), 216(a), 217, Aug. 21, 1996, [110 Stat. 1999][/us/stat/110/1999], 2007, 2008; [Pub. L. 105–33, title IV][/us/pl/105/33], §§ 4201(c)(1), 4704(b), 4734, Aug. 5, 1997, [111 Stat. 373][/us/stat/111/373], 498, 522; [Pub. L. 108–173, title I, § 101(e)(2)][/us/pl/108/173/s101/e/2], (8)(A), title II, § 237(d), title IV, § 431(a), Dec. 8, 2003, [117 Stat. 2150][/us/stat/117/2150], 2152, 2213, 2287; [Pub. L. 111–148, title III, § 3301(d)(1)][/us/pl/111/148/s3301/d/1], title VI, § 6402(f), Mar. 23, 2010, [124 Stat. 468][/us/stat/124/468], 759.)
+([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title XI, § 1128B, formerly title XVIII, § 1877(d), and title XIX, § 1909, as added and amended [Pub. L. 92–603, title II][/us/pl/92/603], §§ 242(c), 278(b)(9), Oct. 30, 1972, [86 Stat. 1419][/us/stat/86/1419], 1454; [Pub. L. 95–142, § 4(a)][/us/pl/95/142/s4/a], (b), Oct. 25, 1977, [91 Stat. 1179][/us/stat/91/1179], 1181; [Pub. L. 96–499, title IX, § 917][/us/pl/96/499/s917], Dec. 5, 1980, [94 Stat. 2625][/us/stat/94/2625]; [Pub. L. 98–369, div. B, title III, § 2306(f)(2)][/us/pl/98/369/s2306/f/2], July 18, 1984, [98 Stat. 1073][/us/stat/98/1073]; renumbered title XI, § 1128B, and amended [Pub. L. 100–93][/us/pl/100/93], §§ 4(a)–(d), 14(b), Aug. 18, 1987, [101 Stat. 688][/us/stat/101/688], 689, 697; [Pub. L. 100–203, title IV][/us/pl/100/203], §§ 4039(a), 4211(h)(7), Dec. 22, 1987, [101 Stat. 1330–81][/us/stat/101/1330-81], 1330–206; [Pub. L. 100–360, title IV, § 411(a)(3)(A)][/us/pl/100/360/s411/a/3/A], (B)(i), July 1, 1988, [102 Stat. 768][/us/stat/102/768]; [Pub. L. 101–239, title VI, § 6003(g)(3)(D)(ii)][/us/pl/101/239/s6003/g/3/D/ii], Dec. 19, 1989, [103 Stat. 2153][/us/stat/103/2153]; [Pub. L. 101–508, title IV][/us/pl/101/508], §§ 4161(a)(4), 4164(b)(2), Nov. 5, 1990, [104 Stat. 1388–94][/us/stat/104/1388-94], 1388–102; [Pub. L. 103–432, title I, § 133(a)(2)][/us/pl/103/432/s133/a/2], Oct. 31, 1994, [108 Stat. 4421][/us/stat/108/4421]; [Pub. L. 104–191, title II][/us/pl/104/191], §§ 204(a), 216(a), 217, Aug. 21, 1996, [110 Stat. 1999][/us/stat/110/1999], 2007, 2008; [Pub. L. 105–33, title IV][/us/pl/105/33], §§ 4201(c)(1), 4704(b), 4734, Aug. 5, 1997, [111 Stat. 373][/us/stat/111/373], 498, 522; [Pub. L. 108–173, title I, § 101(e)(2)][/us/pl/108/173/s101/e/2], (8)(A), title II, § 237(d), title IV, § 431(a), Dec. 8, 2003, [117 Stat. 2150][/us/stat/117/2150], 2152, 2213, 2287; [Pub. L. 111–148, title III, § 3301(d)(1)][/us/pl/111/148/s3301/d/1], title VI, § 6402(f), Mar. 23, 2010, [124 Stat. 468][/us/stat/124/468], 759; [Pub. L. 114–115, § 8][/us/pl/114/115/s8], Dec. 28, 2015, [129 Stat. 3134][/us/stat/129/3134].)
 
  __References in Text__ 
 
@@ -142,6 +144,8 @@
     Prior to redesignation by [Pub. L. 100–93][/us/pl/100/93], subsecs. (a) to (d) of this section were subsecs. (a) to (d) of section 1909 of act Aug. 14, 1935, which was classified to [section 1396h of this title][/us/usc/t42/s1396h], and subsec. (e) of this section was subsec. (d) of section 1877 of act Aug. 14, 1935, which was classified to [section 1395nn of this title][/us/usc/t42/s1395nn].
 
  __Amendments__ 
+
+    2015—Subsec. (b)(4). [Pub. L. 114–115][/us/pl/114/115] added par. (4).
 
     2010—Subsec. (b)(3)(G). [Pub. L. 111–148, § 3301(d)(1)(A)][/us/pl/111/148/s3301/d/1/A], struck out “and” at the end.
 
@@ -449,6 +453,8 @@
 [/us/stat/117/2150]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2150
 [/us/pl/111/148/s3301/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs3301%2Fd%2F1
 [/us/stat/124/468]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F468
+[/us/pl/114/115/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F115%2Fs8
+[/us/stat/129/3134]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F3134
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
 [/us/stat/58/682]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F58%2F682
 [/us/usc/t42/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs201
@@ -458,6 +464,7 @@
 [/us/pl/100/93]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F93
 [/us/usc/t42/s1396h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396h
 [/us/usc/t42/s1395nn]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395nn
+[/us/pl/114/115]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F115
 [/us/pl/111/148/s3301/d/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs3301%2Fd%2F1%2FA
 [/us/pl/111/148/s3301/d/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs3301%2Fd%2F1%2FB
 [/us/pl/111/148/s3301/d/1/C/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs3301%2Fd%2F1%2FC%2Fi

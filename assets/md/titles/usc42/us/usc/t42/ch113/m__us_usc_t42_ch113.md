@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../..//us/usc/t42/ch112/m__us_usc_t42_s10608.md) | [Next](./../../../..//us/usc/t42/ch113/m__us_usc_t42_s10701.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fch113)
+[Previous](./../../../..//us/usc/t42/ch112/m__us_usc_t42_s10609.md) | [Next](./../../../..//us/usc/t42/ch113/m__us_usc_t42_s10701.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fch113)
 
 ## CHAPTER 113—STATE JUSTICE INSTITUTE
 
@@ -131,7 +131,7 @@
 
 ----------
 
-[Previous](./../../../..//us/usc/t42/ch112/m__us_usc_t42_s10608.md) | [Next](./../../../..//us/usc/t42/ch113/m__us_usc_t42_s10701.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fch113)
+[Previous](./../../../..//us/usc/t42/ch112/m__us_usc_t42_s10609.md) | [Next](./../../../..//us/usc/t42/ch113/m__us_usc_t42_s10701.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fch113)
 
 ----------
 ----------

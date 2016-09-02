@@ -93,7 +93,25 @@
 
         (2) __Compensation for work injuries__ 
 
-            An intermittent disaster-response appointee shall, while acting in the scope of such appointment, be considered to be an employee of the Public Health Service performing medical, surgical, dental, or related functions, and an injury sustained by such an individual shall be deemed “in the performance of duty”, for purposes of chapter 81 of title 5 pertaining to compensation for work injuries. With respect to the participation of individuals appointed under subsection (c) of this section in training programs authorized by the Assistant Secretary for Preparedness and Response or a comparable official of any Federal agency specified in subsection (a)(2)(B) of this section, injuries sustained by such an individual, while acting within the scope of such participation, also shall be deemed “in the performance of duty” for purposes of chapter 81 of title 5 (regardless of whether the individuals receive compensation for such participation). In the event of an injury to such an intermittent disaster-response appointee, the Secretary of Labor shall be responsible for making determinations as to whether the claimant is entitled to compensation or other benefits in accordance with chapter 81 of title 5.
+            (A) __In general__ 
+
+                An intermittent disaster-response appointee shall, while acting in the scope of such appointment, be considered to be an employee of the Public Health Service performing medical, surgical, dental, or related functions, and an injury sustained by such an individual shall be deemed “in the performance of duty”, for purposes of chapter 81 of title 5 pertaining to compensation for work injuries.
+
+            (B) __Application to training programs__ 
+
+                With respect to the participation of individuals appointed under subsection (c) of this section in training programs authorized by the Assistant Secretary for Preparedness and Response or a comparable official of any Federal agency specified in subsection (a)(2)(B) of this section, injuries sustained by such an individual, while acting within the scope of such participation, also shall be deemed “in the performance of duty” for purposes of chapter 81 of title 5 (regardless of whether the individuals receive compensation for such participation).
+
+            (C) __Responsibility of Labor Secretary__ 
+
+                In the event of an injury to such an intermittent disaster-response appointee, the Secretary of Labor shall be responsible for making determinations as to whether the claimant is entitled to compensation or other benefits in accordance with chapter 81 of title 5.
+
+            (D) __Computation of pay__ 
+
+                In the event of an injury to such an intermittent disaster response appointee, the position of the employee shall be deemed to be “one which would have afforded employment for substantially a whole year”, for purposes of section 8114(d)(2) of such title.
+
+            (E) __Continuation of pay__ 
+
+                The weekly pay of such an employee shall be deemed to be the hourly pay in effect on the date of the injury multiplied by 40, for purposes of computing benefits under section 8118 of such title.
 
         (3) __Employment and reemployment rights__ 
 
@@ -121,9 +139,11 @@
 
         For the purpose of providing for the Assistant Secretary for Preparedness and Response and the operations of the National Disaster Medical System, other than purposes for which amounts in the Public Health Emergency Fund under [section 247d of this title][/us/usc/t42/s247d] are available, there are authorized to be appropriated $52,700,000 for each of fiscal years 2014 through 2018.
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XXVIII, § 2812, formerly § 2811, as added [Pub. L. 107–188, title I, § 102(a)][/us/pl/107/188/s102/a], June 12, 2002, [116 Stat. 599][/us/stat/116/599]; renumbered § 2812 and amended [Pub. L. 109–417, title I, § 102(a)(2)][/us/pl/109/417/s102/a/2], (4), title III, § 301(a), Dec. 19, 2006, [120 Stat. 2832][/us/stat/120/2832], 2834, 2853; [Pub. L. 113–5, title I, § 104][/us/pl/113/5/s104], Mar. 13, 2013, [127 Stat. 170][/us/stat/127/170].)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XXVIII, § 2812, formerly § 2811, as added [Pub. L. 107–188, title I, § 102(a)][/us/pl/107/188/s102/a], June 12, 2002, [116 Stat. 599][/us/stat/116/599]; renumbered § 2812 and amended [Pub. L. 109–417, title I, § 102(a)(2)][/us/pl/109/417/s102/a/2], (4), title III, § 301(a), Dec. 19, 2006, [120 Stat. 2832][/us/stat/120/2832], 2834, 2853; [Pub. L. 113–5, title I, § 104][/us/pl/113/5/s104], Mar. 13, 2013, [127 Stat. 170][/us/stat/127/170]; [Pub. L. 114–113, div. H, title V, § 527][/us/pl/114/113/s527], Dec. 18, 2015, [129 Stat. 2653][/us/stat/129/2653].)
 
  __Amendments__ 
+
+    2015—Subsec. (d)(2). [Pub. L. 114–113][/us/pl/114/113] designated first three sentences of existing provisions as subpars. (A) to (C), respectively, realigned margins, inserted subpar. headings, and added subpars. (D) and (E).
 
     2013—Subsec. (a)(3)(A)(i). [Pub. L. 113–5, § 104(1)(A)][/us/pl/113/5/s104/1/A], inserted “, including at-risk individuals as applicable” after “victims of a public health emergency”.
 
@@ -207,6 +227,9 @@
 [/us/stat/120/2832]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2832
 [/us/pl/113/5/s104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F5%2Fs104
 [/us/stat/127/170]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F170
+[/us/pl/114/113/s527]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs527
+[/us/stat/129/2653]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F2653
+[/us/pl/114/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113
 [/us/pl/113/5/s104/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F5%2Fs104%2F1%2FA
 [/us/pl/113/5/s104/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F5%2Fs104%2F1%2FB
 [/us/pl/113/5/s104/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F5%2Fs104%2F2

@@ -2007,7 +2007,31 @@
 
             In this subsection, the term “individual with acute kidney injury” means an individual who has acute loss of renal function and does not receive renal dialysis services for which payment is made under [section 1395rr(b)(14) of this title][/us/usc/t42/s1395rr/b/14].
 
-([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title XVIII, § 1834, as added and amended [Pub. L. 100–203, title IV][/us/pl/100/203], §§ 4049(a)(2), 4062(b), Dec. 22, 1987, [101 Stat. 1330–91][/us/stat/101/1330-91], 1330–100; [Pub. L. 100–360, title II][/us/pl/100/360], §§ 202(b)(4), 203(c)(1)(F), 204(b), title IV, § 411(a)(3)(A), (B)(ii), (C)(ii), (f)(8)(A), (B)(ii), (D), (g)(1)(A), (B), July 1, 1988, [102 Stat. 704][/us/stat/102/704], 722, 726, 768, 779, 781; [Pub. L. 100–485, title VI, § 608(d)(21)(C)][/us/pl/100/485/s608/d/21/C], (22)(A), Oct. 13, 1988, [102 Stat. 2420][/us/stat/102/2420]; [Pub. L. 101–234, title II, § 201(a)][/us/pl/101/234/s201/a], title III, § 301(b)(1), (c)(1), Dec. 13, 1989, [103 Stat. 1981][/us/stat/103/1981], 1985; [Pub. L. 101–239, title VI][/us/pl/101/239], §§ 6102(f)(1), 6105(a), 6112(a), (c), (d)(1), (e)(2), 6116(b)(2), 6140, Dec. 19, 1989, [103 Stat. 2188][/us/stat/103/2188], 2210, 2214–2216, 2220, 2224; [Pub. L. 101–508, title IV][/us/pl/101/508], §§ 4102(a), (d), (f), 4104(a), 4152(a)(1), (b), (c)(1)–(4)(B)(i), (e), (f)(1), (g)(1), 4153(a)(1), (2)(D), 4163(b), Nov. 5, 1990, [104 Stat. 1388–55][/us/stat/104/1388-55], 1388–57, 1388–59, 1388–74, 1388–77 to 1388–81, 1388–83, 1388–97; [Pub. L. 103–66, title XIII][/us/pl/103/66], §§ 13542(a), 13543(a), (b), 13544(a)(1), (2), (b)(1), 13545(a), 13546, Aug. 10, 1993, [107 Stat. 587][/us/stat/107/587], 589, 590; [Pub. L. 103–432, title I][/us/pl/103/432], §§ 102(e), 126(b)(1), (2), (4), (5), (g)(1), (10)(B), 131(a), 132(a), (b), 133(a)(1), 134(a)(1), 135(a)(1), (b)(1), (3), (d)(1), (e)(2)–(5), 145(a), 156(a)(2)(C), Oct. 31, 1994, [108 Stat. 4403][/us/stat/108/4403], 4414–4416, 4419, 4421, 4424, 4427, 4440; [Pub. L. 105–33, title IV][/us/pl/105/33], §§ 4101(a), (c), 4104(b)(1), 4105(b)(2), 4201(c)(5), 4312(a), (c), 4316(b), 4531(b)(2), 4541(a)(2), 4551(a), (c)(1), 4552(a), (b), Aug. 5, 1997, [111 Stat. 360][/us/stat/111/360], 363, 367, 374, 386, 387, 392, 451, 455, 457–459; [Pub. L. 106–113, div. B, § 1000(a)(6)][/us/pl/106/113/s1000/a/6] \[title II, § 201(e)(2), title III, § 321(k)(3), title IV, § 403(d)(1)\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–340, 1501A–366, 1501A–371; [Pub. L. 106–554, § 1(a)(6)][/us/pl/106/554/s1/a/6] \[title I, §§ 103(b), 104(b), title II, §§ 201(a), 202(a), 204(a), 205(a), 221(a), 223(b), title IV, §§ 423(a)(1), (b)(1), 425(a), 426(a), 427(a), 428(a)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–468, 2763A–469, 2763A–481, 2763A–482, 2763A–486, 2763A–487, 2763A–518 to 2763A–520, 2763A–522; [Pub. L. 108–173, title III, § 302(a)][/us/pl/108/173/s302/a], (c)(1)(A), (2), (3), (d)(1), (2), title IV, §§ 405(a)(1), (b)(1), (d)(1), 414(a)–(c)(1), (d), 415(a), title VI, § 627(b)(1), title VII, § 736(b)(4), (5), Dec. 8, 2003, [117 Stat. 2223][/us/stat/117/2223], 2230–2232, 2266, 2267, 2278–2281, 2321, 2356; [Pub. L. 109–171, title V][/us/pl/109/171], §§ 5101(a)(1), (b)(1), 5113(b), Feb. 8, 2006, [120 Stat. 37][/us/stat/120/37], 38, 44; [Pub. L. 110–275, title I][/us/pl/110/275], §§ 125(b)(5), 135(a)(1), 144(b)(1), 146(a), (b)(2)(A), 148(a), 149(a), 154(a)(2)(A), (3), (4), (b)(1)(A), (d)(2), July 15, 2008, [122 Stat. 2519][/us/stat/122/2519], 2532, 2547–2549, 2563, 2564, 2567; [Pub. L. 111–72, § 1(a)][/us/pl/111/72/s1/a], Oct. 13, 2009, [123 Stat. 2059][/us/stat/123/2059]; [Pub. L. 111–148, title III][/us/pl/111/148], §§ 3105(a), (c), 3109(a), 3128(a), 3136(a), (b), 3401(j), (m), (n), title IV, § 4105(a), title V, §§ 5501(a)(2), (b)(2), 5502(b), title VI, §§ 6402(g)(1), 6405(a), 6407(b), 6410(b), title X, §§ 10311(a), (c), 10501(i)(1), (3)(A), Mar. 23, 2010, [124 Stat. 417][/us/stat/124/417], 418, 426, 437, 438, 486, 487, 558, 653, 654, 759, 768, 770, 773, 942, 943, 997; [Pub. L. 111–309, title I, § 106(a)][/us/pl/111/309/s106/a], (c), Dec. 15, 2010, [124 Stat. 3287][/us/stat/124/3287]; [Pub. L. 112–78, title III, § 306(a)][/us/pl/112/78/s306/a], (c), Dec. 23, 2011, [125 Stat. 1285][/us/stat/125/1285]; [Pub. L. 112–96, title III, § 3007(a)][/us/pl/112/96/s3007/a], (c), Feb. 22, 2012, [126 Stat. 190][/us/stat/126/190]; [Pub. L. 112–240, title VI][/us/pl/112/240], §§ 604(a), (c), 633(b), 636, 637, Jan. 2, 2013, [126 Stat. 2347][/us/stat/126/2347], 2348, 2355–2357; [Pub. L. 113–67, div. B, title I, § 1104][/us/pl/113/67/s1104], Dec. 26, 2013, [127 Stat. 1196][/us/stat/127/1196]; [Pub. L. 113–93, title I, § 104][/us/pl/113/93/s104], title II, § 218(a)(1), (b)(1), Apr. 1, 2014, [128 Stat. 1042][/us/stat/128/1042], 1063, 1065; [Pub. L. 113–295, div. B, title II, § 203][/us/pl/113/295/s203], Dec. 19, 2014, [128 Stat. 4065][/us/stat/128/4065]; [Pub. L. 114–10, title II, § 203][/us/pl/114/10/s203], title V, §§ 504(a), 515(b), Apr. 16, 2015, [129 Stat. 144][/us/stat/129/144], 165, 174; [Pub. L. 114–27, title VIII, § 808(b)][/us/pl/114/27/s808/b], June 29, 2015, [129 Stat. 418][/us/stat/129/418]; [Pub. L. 114–40, § 3][/us/pl/114/40/s3], July 30, 2015, [129 Stat. 441][/us/stat/129/441].)
+([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title XVIII, § 1834, as added and amended [Pub. L. 100–203, title IV][/us/pl/100/203], §§ 4049(a)(2), 4062(b), Dec. 22, 1987, [101 Stat. 1330–91][/us/stat/101/1330-91], 1330–100; [Pub. L. 100–360, title II][/us/pl/100/360], §§ 202(b)(4), 203(c)(1)(F), 204(b), title IV, § 411(a)(3)(A), (B)(ii), (C)(ii), (f)(8)(A), (B)(ii), (D), (g)(1)(A), (B), July 1, 1988, [102 Stat. 704][/us/stat/102/704], 722, 726, 768, 779, 781; [Pub. L. 100–485, title VI, § 608(d)(21)(C)][/us/pl/100/485/s608/d/21/C], (22)(A), Oct. 13, 1988, [102 Stat. 2420][/us/stat/102/2420]; [Pub. L. 101–234, title II, § 201(a)][/us/pl/101/234/s201/a], title III, § 301(b)(1), (c)(1), Dec. 13, 1989, [103 Stat. 1981][/us/stat/103/1981], 1985; [Pub. L. 101–239, title VI][/us/pl/101/239], §§ 6102(f)(1), 6105(a), 6112(a), (c), (d)(1), (e)(2), 6116(b)(2), 6140, Dec. 19, 1989, [103 Stat. 2188][/us/stat/103/2188], 2210, 2214–2216, 2220, 2224; [Pub. L. 101–508, title IV][/us/pl/101/508], §§ 4102(a), (d), (f), 4104(a), 4152(a)(1), (b), (c)(1)–(4)(B)(i), (e), (f)(1), (g)(1), 4153(a)(1), (2)(D), 4163(b), Nov. 5, 1990, [104 Stat. 1388–55][/us/stat/104/1388-55], 1388–57, 1388–59, 1388–74, 1388–77 to 1388–81, 1388–83, 1388–97; [Pub. L. 103–66, title XIII][/us/pl/103/66], §§ 13542(a), 13543(a), (b), 13544(a)(1), (2), (b)(1), 13545(a), 13546, Aug. 10, 1993, [107 Stat. 587][/us/stat/107/587], 589, 590; [Pub. L. 103–432, title I][/us/pl/103/432], §§ 102(e), 126(b)(1), (2), (4), (5), (g)(1), (10)(B), 131(a), 132(a), (b), 133(a)(1), 134(a)(1), 135(a)(1), (b)(1), (3), (d)(1), (e)(2)–(5), 145(a), 156(a)(2)(C), Oct. 31, 1994, [108 Stat. 4403][/us/stat/108/4403], 4414–4416, 4419, 4421, 4424, 4427, 4440; [Pub. L. 105–33, title IV][/us/pl/105/33], §§ 4101(a), (c), 4104(b)(1), 4105(b)(2), 4201(c)(5), 4312(a), (c), 4316(b), 4531(b)(2), 4541(a)(2), 4551(a), (c)(1), 4552(a), (b), Aug. 5, 1997, [111 Stat. 360][/us/stat/111/360], 363, 367, 374, 386, 387, 392, 451, 455, 457–459; [Pub. L. 106–113, div. B, § 1000(a)(6)][/us/pl/106/113/s1000/a/6] \[title II, § 201(e)(2), title III, § 321(k)(3), title IV, § 403(d)(1)\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–340, 1501A–366, 1501A–371; [Pub. L. 106–554, § 1(a)(6)][/us/pl/106/554/s1/a/6] \[title I, §§ 103(b), 104(b), title II, §§ 201(a), 202(a), 204(a), 205(a), 221(a), 223(b), title IV, §§ 423(a)(1), (b)(1), 425(a), 426(a), 427(a), 428(a)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–468, 2763A–469, 2763A–481, 2763A–482, 2763A–486, 2763A–487, 2763A–518 to 2763A–520, 2763A–522; [Pub. L. 108–173, title III, § 302(a)][/us/pl/108/173/s302/a], (c)(1)(A), (2), (3), (d)(1), (2), title IV, §§ 405(a)(1), (b)(1), (d)(1), 414(a)–(c)(1), (d), 415(a), title VI, § 627(b)(1), title VII, § 736(b)(4), (5), Dec. 8, 2003, [117 Stat. 2223][/us/stat/117/2223], 2230–2232, 2266, 2267, 2278–2281, 2321, 2356; [Pub. L. 109–171, title V][/us/pl/109/171], §§ 5101(a)(1), (b)(1), 5113(b), Feb. 8, 2006, [120 Stat. 37][/us/stat/120/37], 38, 44; [Pub. L. 110–275, title I][/us/pl/110/275], §§ 125(b)(5), 135(a)(1), 144(b)(1), 146(a), (b)(2)(A), 148(a), 149(a), 154(a)(2)(A), (3), (4), (b)(1)(A), (d)(2), July 15, 2008, [122 Stat. 2519][/us/stat/122/2519], 2532, 2547–2549, 2563, 2564, 2567; [Pub. L. 111–72, § 1(a)][/us/pl/111/72/s1/a], Oct. 13, 2009, [123 Stat. 2059][/us/stat/123/2059]; [Pub. L. 111–148, title III][/us/pl/111/148], §§ 3105(a), (c), 3109(a), 3128(a), 3136(a), (b), 3401(j), (m), (n), title IV, § 4105(a), title V, §§ 5501(a)(2), (b)(2), 5502(b), title VI, §§ 6402(g)(1), 6405(a), 6407(b), 6410(b), title X, §§ 10311(a), (c), 10501(i)(1), (3)(A), Mar. 23, 2010, [124 Stat. 417][/us/stat/124/417], 418, 426, 437, 438, 486, 487, 558, 653, 654, 759, 768, 770, 773, 942, 943, 997; [Pub. L. 111–309, title I, § 106(a)][/us/pl/111/309/s106/a], (c), Dec. 15, 2010, [124 Stat. 3287][/us/stat/124/3287]; [Pub. L. 112–78, title III, § 306(a)][/us/pl/112/78/s306/a], (c), Dec. 23, 2011, [125 Stat. 1285][/us/stat/125/1285]; [Pub. L. 112–96, title III, § 3007(a)][/us/pl/112/96/s3007/a], (c), Feb. 22, 2012, [126 Stat. 190][/us/stat/126/190]; [Pub. L. 112–240, title VI][/us/pl/112/240], §§ 604(a), (c), 633(b), 636, 637, Jan. 2, 2013, [126 Stat. 2347][/us/stat/126/2347], 2348, 2355–2357; [Pub. L. 113–67, div. B, title I, § 1104][/us/pl/113/67/s1104], Dec. 26, 2013, [127 Stat. 1196][/us/stat/127/1196]; [Pub. L. 113–93, title I, § 104][/us/pl/113/93/s104], title II, § 218(a)(1), (b)(1), Apr. 1, 2014, [128 Stat. 1042][/us/stat/128/1042], 1063, 1065; [Pub. L. 113–295, div. B, title II, § 203][/us/pl/113/295/s203], Dec. 19, 2014, [128 Stat. 4065][/us/stat/128/4065]; [Pub. L. 114–10, title II, § 203][/us/pl/114/10/s203], title V, §§ 504(a), 515(b), Apr. 16, 2015, [129 Stat. 144][/us/stat/129/144], 165, 174; [Pub. L. 114–27, title VIII, § 808(b)][/us/pl/114/27/s808/b], June 29, 2015, [129 Stat. 418][/us/stat/129/418]; [Pub. L. 114–40, § 3][/us/pl/114/40/s3], July 30, 2015, [129 Stat. 441][/us/stat/129/441]; [Pub. L. 114–113, div. O, title V, § 504(a)][/us/pl/114/113/s504/a], Dec. 18, 2015, [129 Stat. 3021][/us/stat/129/3021].)
+
+ __Amendment of Section__ 
+
+    [Pub. L. 114–113, div. O, title V, § 504(a)][/us/pl/114/113/s504/a], (d), Dec. 18, 2015, [129 Stat. 3021][/us/stat/129/3021], 3023, provided that, applicable to items furnished on or after Jan. 1, 2017, this section is amended by adding at the end the following new subsection:
+
+    (s) Payment for applicable disposable devices
+
+    (1) Separate payment
+
+    The Secretary shall make a payment (separate from the payments otherwise made under [section 1395fff of this title][/us/usc/t42/s1395fff]) in the amount established under paragraph (3) to a home health agency for an applicable disposable device (as defined in paragraph (2)) when furnished on or after January 1, 2017, to an individual who receives home health services for which payment is made under [section 1395fff(b) of this title][/us/usc/t42/s1395fff/b].
+
+    (2) Applicable disposable device
+
+    In this subsection, the term applicable disposable device means a disposable device that, as determined by the Secretary, is—
+
+    (A) a disposable negative pressure wound therapy device that is an integrated system comprised of a non-manual vacuum pump, a receptacle for collecting exudate, and dressings for the purposes of wound therapy; and
+
+    (B) a substitute for, and used in lieu of, a negative pressure wound therapy durable medical equipment item that is an integrated system of a negative pressure vacuum pump, a separate exudate collection canister, and dressings that would otherwise be covered for individuals for such wound therapy.
+
+    (3) Payment amount
+
+    The separate payment amount established under this paragraph for an applicable disposable device for a year shall be equal to the amount of the payment that would be made under section 1395l(t) of this title (relating to payment for covered OPD services) for the year for the Level I Healthcare Common Procedure Coding System (HCPCS) code for which the description for a professional service includes the furnishing of such device.
+
+    See 2015 Amendment note below.
 
  __References in Text__ 
 
@@ -2038,6 +2062,8 @@
     Subsec. (l)(16). [Pub. L. 114–10, § 515(b)][/us/pl/114/10/s515/b], added par. (16).
 
     Subsec. (r). [Pub. L. 114–27][/us/pl/114/27] added subsec. (r).
+
+    Subsec. (s). [Pub. L. 114–113][/us/pl/114/113] added subsec. (s).
 
     2014—Subsec. (a)(1)(I). [Pub. L. 113–295][/us/pl/113/295] added subpar. (I).
 
@@ -2670,6 +2696,10 @@
     Subsec. (e). [Pub. L. 100–360, § 204(b)(2)][/us/pl/100/360/s204/b/2], added subsec. (e) relating to payments and standards for screening mammography.
 
     1987—Subsec. (b). [Pub. L. 100–203, § 4049(a)(2)][/us/pl/100/203/s4049/a/2], as amended by [Pub. L. 100–360, § 411(a)(3)(A)][/us/pl/100/360/s411/a/3/A], (B)(ii), (f)(8)(B)(ii), added subsec. (b).
+
+ __Effective Date of 2015 Amendment__ 
+
+    Amendment by [Pub. L. 114–113][/us/pl/114/113] applicable to items furnished on or after Jan. 1, 2017, see [section 504(d) of Pub. L. 114–113][/us/pl/114/113/s504/d], set out as a note under section 1395l of this title.
 
  __Effective Date of 2010 Amendment__ 
 
@@ -3889,6 +3919,12 @@
 [/us/stat/129/418]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F418
 [/us/pl/114/40/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F40%2Fs3
 [/us/stat/129/441]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F441
+[/us/pl/114/113/s504/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs504%2Fa
+[/us/stat/129/3021]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F3021
+[/us/pl/114/113/s504/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs504%2Fa
+[/us/stat/129/3021]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F3021
+[/us/usc/t42/s1395fff]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395fff
+[/us/usc/t42/s1395fff/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395fff%2Fb
 [/us/pl/108/173/s302/c/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F173%2Fs302%2Fc%2F1%2FB
 [/us/pl/105/33/s4531/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2Fs4531%2Fa
 [/us/pl/114/10/s515/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F10%2Fs515%2Fa
@@ -3906,6 +3942,7 @@
 [/us/pl/114/10/s203/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F10%2Fs203%2Fa
 [/us/pl/114/10/s515/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F10%2Fs515%2Fb
 [/us/pl/114/27]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F27
+[/us/pl/114/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113
 [/us/pl/113/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295
 [/us/pl/113/93/s104/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F93%2Fs104%2Fb
 [/us/pl/113/93/s104/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F93%2Fs104%2Fa
@@ -4254,6 +4291,8 @@
 [/us/pl/100/360/s204/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F360%2Fs204%2Fb%2F2
 [/us/pl/100/203/s4049/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203%2Fs4049%2Fa%2F2
 [/us/pl/100/360/s411/a/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F360%2Fs411%2Fa%2F3%2FA
+[/us/pl/114/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113
+[/us/pl/114/113/s504/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs504%2Fd
 [/us/pl/111/148/s3128/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs3128%2Fb
 [/us/stat/124/426]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F426
 [/us/pl/108/173]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F173

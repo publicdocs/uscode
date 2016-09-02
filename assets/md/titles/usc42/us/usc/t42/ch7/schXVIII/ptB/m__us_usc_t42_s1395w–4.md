@@ -187,7 +187,7 @@
 
             (B) __Significant hardship exception__ 
 
-                The Secretary may, on a case-by-case basis, exempt an eligible professional from the application of the payment adjustment under subparagraph (A) if the Secretary determines, subject to annual renewal, that compliance with the requirement for being a meaningful EHR user would result in a significant hardship, such as in the case of an eligible professional who practices in a rural area without sufficient Internet access. In no case may an eligible professional be granted an exemption under this subparagraph for more than 5 years.
+                The Secretary may, on a case-by-case basis (and, with respect to the payment adjustment under subparagraph (A) for 2017, for categories of eligible professionals, as established by the Secretary and posted on the Internet website of the Centers for Medicare & Medicaid Services prior to December 15, 2015, an application for which must be submitted to the Secretary by not later than March 15, 2016), exempt an eligible professional from the application of the payment adjustment under subparagraph (A) if the Secretary determines, subject to annual renewal, that compliance with the requirement for being a meaningful EHR user would result in a significant hardship, such as in the case of an eligible professional who practices in a rural area without sufficient Internet access. In no case may an eligible professional be granted an exemption under this subparagraph for more than 5 years.
 
             (C) __Application of physician reporting system rules__ 
 
@@ -361,6 +361,36 @@
 
                 (iii) not require that an annual wellness visit (as defined in [section 1395x(hhh) of this title][/us/usc/t42/s1395x/hhh]) or an initial preventive physical examination (as defined in [section 1395x(ww) of this title][/us/usc/t42/s1395x/ww]) be furnished as a condition of payment for such management services.
 
+        (9) __Special rule to incentivize transition from traditional X-ray imaging to digital radiography__ 
+
+            (A) __Limitation on payment for film X-ray imaging services__ 
+
+                In the case of an imaging service (including the imaging portion of a service) that is an X-ray taken using film and that is furnished during 2017 or a subsequent year, the payment amount for the technical component (including the technical component portion of a global service) of such service that would otherwise be determined under this section (without application of this paragraph and before application of any other adjustment under this section) for such year shall be reduced by 20 percent.
+
+            (B) __Phased-in limitation on payment for computed radiography imaging services__ 
+
+            In the case of an imaging service (including the imaging portion of a service) that is an X-ray taken using computed radiography technology—
+
+                (i) in the case of such a service furnished during 2018, 2019, 2020, 2021, or 2022, the payment amount for the technical component (including the technical component portion of a global service) of such service that would otherwise be determined under this section (without application of this paragraph and before application of any other adjustment under this section) for such year shall be reduced by 7 percent; and
+
+                (ii) in the case of such a service furnished during 2023 or a subsequent year, the payment amount for the technical component (including the technical component portion of a global service) of such service that would otherwise be determined under this section (without application of this paragraph and before application of any other adjustment under this section) for such year shall be reduced by 10 percent.
+
+            (C) __Computed radiography technology defined__ 
+
+                For purposes of this paragraph, the term “computed radiography technology” means cassette-based imaging which utilizes an imaging plate to create the image involved.
+
+            (D) __Implementation__ 
+
+                In order to implement this paragraph, the Secretary shall adopt appropriate mechanisms which may include use of modifiers.
+
+        (10) __Reduction of discount in payment for professional component of multiple imaging services__ 
+
+            In the case of the professional component of imaging services furnished on or after January 1, 2017, instead of the 25 percent reduction for multiple procedures specified in the final rule published by the Secretary in the Federal Register on November 28, 2011, as amended in the final rule published by the Secretary in the Federal Register on November 16, 2012, the reduction percentage shall be 5 percent.
+
+        (11) __Special rule for certain radiation therapy services__ 
+
+            The code definitions, the work relative value units under subsection (c)(2)(C)(i), and the direct inputs for the practice expense relative value units under subsection (c)(2)(C)(ii) for radiation treatment delivery and related imaging services (identified in 2016 by HCPCS G-codes G6001 through G6015) for the fee schedule established under this subsection for services furnished in 2017 and 2018 shall be the same as such definitions, units, and inputs for such services for the fee schedule established for services furnished in 2016.
+
     (c) __Determination of relative values for physicians’ services__ 
 
         (1) __Division of physicians’ services into components__ 
@@ -460,6 +490,14 @@
                     (IX) __Reductions for misvalued services if target not met__ 
 
                         Effective for fee schedules beginning with 2016, reduced expenditures attributable to the application of the target recapture amount described in subparagraph (O)(iii).
+
+                    (X) __Reduced expenditures attributable to incentives to transition to digital radiography__ 
+
+                        Effective for fee schedules established beginning with 2017, reduced expenditures attributable to subparagraph (A) of subsection (b)(9) and effective for fee schedules established beginning with 2018, reduced expenditures attributable to subparagraph (B) of such subsection.
+
+                    (XI) __Discount in payment for professional component of imaging services__ 
+
+                        Effective for fee schedules established beginning with 2017, reduced expenditures attributable to subsection (b)(10).
 
                 (vi) __Alternative application of budget-neutrality adjustment__ 
 
@@ -688,6 +726,10 @@
                     (V) As part of the review and adjustment described in clause (i)(II), including with respect to codes with low relative values described in clause (ii), the Secretary may make appropriate coding revisions (including using existing processes for consideration of coding changes) which may include consolidation of individual services into bundled codes for payment under the fee schedule under subsection (b).
 
                     (VI) The provisions of subparagraph (B)(ii)(II) and paragraph (7) shall apply to adjustments to relative value units made pursuant to this subparagraph in the same manner as such provisions apply to adjustments under subparagraph (B)(ii)(I).
+
+                (iv) __Treatment of certain radiation therapy services__ 
+
+                    Radiation treatment delivery and related imaging services identified under subsection (b)(11) shall not be considered as potentially misvalued services for purposes of this subparagraph and subparagraph (O) for 2017 and 2018.
 
             (L) __Validating relative value units__ 
 
@@ -3533,7 +3575,7 @@
 
             Chapter 35 of title 44 shall not apply to the collection of information for the development of quality measures.
 
-([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title XVIII, § 1848, as added [Pub. L. 101–239, title VI, § 6102(a)][/us/pl/101/239/s6102/a], Dec. 19, 1989, [103 Stat. 2169][/us/stat/103/2169]; amended [Pub. L. 101–508, title IV][/us/pl/101/508], §§ 4102(b), (g)(2), 4104(b)(2), 4105(a)(3), (c), 4106(b)(1), 4107(a)(1), 4109(a), 4116, 4118(b)–(f)(1), (k), Nov. 5, 1990, [104 Stat. 1388–56][/us/stat/104/1388-56], 1388–57, 1388–59 to 1388–63, 1388–65, 1388–67, 1388–68, 1388–71; [Pub. L. 103–66, title XIII][/us/pl/103/66], §§ 13511(a), 13512–13514(c), 13515(a)(1), (c), 13516(a)(1), 13517(a), 13518(a), Aug. 10, 1993, [107 Stat. 580–583][/us/stat/107/580-583], 585, 586; [Pub. L. 103–432, title I][/us/pl/103/432], §§ 121(b)(1), (2), 122(a), (b), 123(a), (d), 126(b)(6), (g)(2)(B), (5)–(7), (10)(A), Oct. 31, 1994, [108 Stat. 4409][/us/stat/108/4409], 4410, 4412, 4415, 4416; [Pub. L. 105–33, title IV][/us/pl/105/33], §§ 4022(b)(2)(B), (C), 4102(d), 4103(d), 4104(d), 4105(a)(2), 4106(b), 4501, 4502(a)(1), (b), 4503, 4504(a), 4505(a), (b), (e), (f)(1), 4644(d), 4714(b)(2), Aug. 5, 1997, [111 Stat. 354][/us/stat/111/354], 355, 361, 362, 365, 366, 368, 432–437, 488, 510; [Pub. L. 106–113, div. B, § 1000(a)(6)][/us/pl/106/113/s1000/a/6] \[title II, § 211(a)(1), (2)(A), (3)(A), (b), title III, § 321(k)(5)\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–345 to 1501A–348, 1501A–366; [Pub. L. 106–554, § 1(a)(6)][/us/pl/106/554/s1/a/6] \[title I, § 104(a)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–469; [Pub. L. 108–7, div. N, title IV, § 402(a)][/us/pl/108/7/s402/a], Feb. 20, 2003, [117 Stat. 548][/us/stat/117/548]; [Pub. L. 108–173, title III, § 303(a)(1)][/us/pl/108/173/s303/a/1], (g)(2), title IV, § 412, title VI, §§ 601(a)(1), (2), (b)(1), 602, 611(c), title VII, § 736(b)(10), Dec. 8, 2003, [117 Stat. 2233][/us/stat/117/2233], 2253, 2274, 2300, 2301, 2304, 2356; [Pub. L. 109–171, title V][/us/pl/109/171], §§ 5102, 5104(a), 5112(c), Feb. 8, 2006, [120 Stat. 39][/us/stat/120/39], 40, 44; [Pub. L. 109–432, div. B, title I][/us/pl/109/432], §§ 101(a), (b), (d), 102, Dec. 20, 2006, [120 Stat. 2975][/us/stat/120/2975], 2980, 2981; [Pub. L. 110–90, § 6][/us/pl/110/90/s6], Sept. 29, 2007, [121 Stat. 985][/us/stat/121/985]; [Pub. L. 110–161, div. G, title II, § 225(c)(2)][/us/pl/110/161/s225/c/2], title V, § 524, Dec. 26, 2007, [121 Stat. 2190][/us/stat/121/2190], 2212; [Pub. L. 110–173, title I][/us/pl/110/173], §§ 101(a)(1), (2)(A), (b)(1), 103, Dec. 29, 2007, [121 Stat. 2493–2495][/us/stat/121/2493-2495]; [Pub. L. 110–252, title VII, § 7002(c)][/us/pl/110/252/s7002/c], June 30, 2008, [122 Stat. 2395][/us/stat/122/2395]; [Pub. L. 110–275, title I][/us/pl/110/275], §§ 131(a)(1), (3)(C), (b)(1)–(4)(A), (5), (c)(1), 132(a), (b), 133(b), 134, 139(a), 144(a)(2), 152(b)(1)(C), July 15, 2008, [122 Stat. 2520–2522][/us/stat/122/2520-2522], 2525–2527, 2529, 2532, 2541, 2546, 2552; [Pub. L. 111–5, div. B, title IV, § 4101(a)][/us/pl/111/5/s4101/a], (b), (f), Feb. 17, 2009, [123 Stat. 467][/us/stat/123/467], 472, 476; [Pub. L. 111–118, div. B, § 1011(a)][/us/pl/111/118/s1011/a], Dec. 19, 2009, [123 Stat. 3473][/us/stat/123/3473]; [Pub. L. 111–144, § 5][/us/pl/111/144/s5], Mar. 2, 2010, [124 Stat. 46][/us/stat/124/46]; [Pub. L. 111–148, title III][/us/pl/111/148], §§ 3002(a)–(c)(1), (d)–(f), 3003(a), 3007, 3101, 3102, 3111(a)(1), 3134(a), 3135(a), (b), title IV, § 4103(c)(2), title V, § 5501(c), title X, §§ 10310, 10324(c), 10327(a), 10501(h), Mar. 23, 2010, [124 Stat. 363–366][/us/stat/124/363-366], 373, 415, 416, 421, 434, 436, 437, 556, 654, 942, 960, 962, 997; [Pub. L. 111–152, title I][/us/pl/111/152], §§ 1107, 1108, Mar. 30, 2010, [124 Stat. 1050][/us/stat/124/1050]; [Pub. L. 111–157][/us/pl/111/157], §§ 4, 5(a)(1), Apr. 15, 2010, [124 Stat. 1117][/us/stat/124/1117]; [Pub. L. 111–192, title I, § 101(a)][/us/pl/111/192/s101/a], June 25, 2010, [124 Stat. 1280][/us/stat/124/1280]; [Pub. L. 111–286][/us/pl/111/286], §§ 2, 3, Nov. 30, 2010, [124 Stat. 3056][/us/stat/124/3056]; [Pub. L. 111–309, title I][/us/pl/111/309], §§ 101, 103, Dec. 15, 2010, [124 Stat. 3285][/us/stat/124/3285], 3287; [Pub. L. 112–78, title III][/us/pl/112/78], §§ 301, 303, 309, Dec. 23, 2011, [125 Stat. 1283][/us/stat/125/1283], 1284, 1286; [Pub. L. 112–96, title III][/us/pl/112/96], §§ 3003(a), 3004(a), Feb. 22, 2012, [126 Stat. 186][/us/stat/126/186], 187; [Pub. L. 112–240, title VI][/us/pl/112/240], §§ 601(a), (b)(1), 602, 633(a), 635, Jan. 2, 2013, [126 Stat. 2345][/us/stat/126/2345], 2347, 2355, 2356; [Pub. L. 113–67, div. B, title I][/us/pl/113/67], §§ 1101, 1102, Dec. 26, 2013, [127 Stat. 1196][/us/stat/127/1196]; [Pub. L. 113–93, title I][/us/pl/113/93], §§ 101, 102, title II, §§ 218(a)(2)(B), 220(a)–(f), (h), Apr. 1, 2014, [128 Stat. 1041][/us/stat/128/1041], 1064, 1070–1074; [Pub. L. 113–295, div. B, title II, § 202][/us/pl/113/295/s202], Dec. 19, 2014, [128 Stat. 4065][/us/stat/128/4065]; [Pub. L. 114–10, title I][/us/pl/114/10], §§ 101(a)(1), (2), (b), (c)(1), (d), (f), 102, 103(a), 106(b)(2)(A), title II, § 201, title V, § 523, Apr. 16, 2015, [129 Stat. 89][/us/stat/129/89], 91, 92, 115, 123–131, 139, 143, 177.)
+([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title XVIII, § 1848, as added [Pub. L. 101–239, title VI, § 6102(a)][/us/pl/101/239/s6102/a], Dec. 19, 1989, [103 Stat. 2169][/us/stat/103/2169]; amended [Pub. L. 101–508, title IV][/us/pl/101/508], §§ 4102(b), (g)(2), 4104(b)(2), 4105(a)(3), (c), 4106(b)(1), 4107(a)(1), 4109(a), 4116, 4118(b)–(f)(1), (k), Nov. 5, 1990, [104 Stat. 1388–56][/us/stat/104/1388-56], 1388–57, 1388–59 to 1388–63, 1388–65, 1388–67, 1388–68, 1388–71; [Pub. L. 103–66, title XIII][/us/pl/103/66], §§ 13511(a), 13512–13514(c), 13515(a)(1), (c), 13516(a)(1), 13517(a), 13518(a), Aug. 10, 1993, [107 Stat. 580–583][/us/stat/107/580-583], 585, 586; [Pub. L. 103–432, title I][/us/pl/103/432], §§ 121(b)(1), (2), 122(a), (b), 123(a), (d), 126(b)(6), (g)(2)(B), (5)–(7), (10)(A), Oct. 31, 1994, [108 Stat. 4409][/us/stat/108/4409], 4410, 4412, 4415, 4416; [Pub. L. 105–33, title IV][/us/pl/105/33], §§ 4022(b)(2)(B), (C), 4102(d), 4103(d), 4104(d), 4105(a)(2), 4106(b), 4501, 4502(a)(1), (b), 4503, 4504(a), 4505(a), (b), (e), (f)(1), 4644(d), 4714(b)(2), Aug. 5, 1997, [111 Stat. 354][/us/stat/111/354], 355, 361, 362, 365, 366, 368, 432–437, 488, 510; [Pub. L. 106–113, div. B, § 1000(a)(6)][/us/pl/106/113/s1000/a/6] \[title II, § 211(a)(1), (2)(A), (3)(A), (b), title III, § 321(k)(5)\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–345 to 1501A–348, 1501A–366; [Pub. L. 106–554, § 1(a)(6)][/us/pl/106/554/s1/a/6] \[title I, § 104(a)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–469; [Pub. L. 108–7, div. N, title IV, § 402(a)][/us/pl/108/7/s402/a], Feb. 20, 2003, [117 Stat. 548][/us/stat/117/548]; [Pub. L. 108–173, title III, § 303(a)(1)][/us/pl/108/173/s303/a/1], (g)(2), title IV, § 412, title VI, §§ 601(a)(1), (2), (b)(1), 602, 611(c), title VII, § 736(b)(10), Dec. 8, 2003, [117 Stat. 2233][/us/stat/117/2233], 2253, 2274, 2300, 2301, 2304, 2356; [Pub. L. 109–171, title V][/us/pl/109/171], §§ 5102, 5104(a), 5112(c), Feb. 8, 2006, [120 Stat. 39][/us/stat/120/39], 40, 44; [Pub. L. 109–432, div. B, title I][/us/pl/109/432], §§ 101(a), (b), (d), 102, Dec. 20, 2006, [120 Stat. 2975][/us/stat/120/2975], 2980, 2981; [Pub. L. 110–90, § 6][/us/pl/110/90/s6], Sept. 29, 2007, [121 Stat. 985][/us/stat/121/985]; [Pub. L. 110–161, div. G, title II, § 225(c)(2)][/us/pl/110/161/s225/c/2], title V, § 524, Dec. 26, 2007, [121 Stat. 2190][/us/stat/121/2190], 2212; [Pub. L. 110–173, title I][/us/pl/110/173], §§ 101(a)(1), (2)(A), (b)(1), 103, Dec. 29, 2007, [121 Stat. 2493–2495][/us/stat/121/2493-2495]; [Pub. L. 110–252, title VII, § 7002(c)][/us/pl/110/252/s7002/c], June 30, 2008, [122 Stat. 2395][/us/stat/122/2395]; [Pub. L. 110–275, title I][/us/pl/110/275], §§ 131(a)(1), (3)(C), (b)(1)–(4)(A), (5), (c)(1), 132(a), (b), 133(b), 134, 139(a), 144(a)(2), 152(b)(1)(C), July 15, 2008, [122 Stat. 2520–2522][/us/stat/122/2520-2522], 2525–2527, 2529, 2532, 2541, 2546, 2552; [Pub. L. 111–5, div. B, title IV, § 4101(a)][/us/pl/111/5/s4101/a], (b), (f), Feb. 17, 2009, [123 Stat. 467][/us/stat/123/467], 472, 476; [Pub. L. 111–118, div. B, § 1011(a)][/us/pl/111/118/s1011/a], Dec. 19, 2009, [123 Stat. 3473][/us/stat/123/3473]; [Pub. L. 111–144, § 5][/us/pl/111/144/s5], Mar. 2, 2010, [124 Stat. 46][/us/stat/124/46]; [Pub. L. 111–148, title III][/us/pl/111/148], §§ 3002(a)–(c)(1), (d)–(f), 3003(a), 3007, 3101, 3102, 3111(a)(1), 3134(a), 3135(a), (b), title IV, § 4103(c)(2), title V, § 5501(c), title X, §§ 10310, 10324(c), 10327(a), 10501(h), Mar. 23, 2010, [124 Stat. 363–366][/us/stat/124/363-366], 373, 415, 416, 421, 434, 436, 437, 556, 654, 942, 960, 962, 997; [Pub. L. 111–152, title I][/us/pl/111/152], §§ 1107, 1108, Mar. 30, 2010, [124 Stat. 1050][/us/stat/124/1050]; [Pub. L. 111–157][/us/pl/111/157], §§ 4, 5(a)(1), Apr. 15, 2010, [124 Stat. 1117][/us/stat/124/1117]; [Pub. L. 111–192, title I, § 101(a)][/us/pl/111/192/s101/a], June 25, 2010, [124 Stat. 1280][/us/stat/124/1280]; [Pub. L. 111–286][/us/pl/111/286], §§ 2, 3, Nov. 30, 2010, [124 Stat. 3056][/us/stat/124/3056]; [Pub. L. 111–309, title I][/us/pl/111/309], §§ 101, 103, Dec. 15, 2010, [124 Stat. 3285][/us/stat/124/3285], 3287; [Pub. L. 112–78, title III][/us/pl/112/78], §§ 301, 303, 309, Dec. 23, 2011, [125 Stat. 1283][/us/stat/125/1283], 1284, 1286; [Pub. L. 112–96, title III][/us/pl/112/96], §§ 3003(a), 3004(a), Feb. 22, 2012, [126 Stat. 186][/us/stat/126/186], 187; [Pub. L. 112–240, title VI][/us/pl/112/240], §§ 601(a), (b)(1), 602, 633(a), 635, Jan. 2, 2013, [126 Stat. 2345][/us/stat/126/2345], 2347, 2355, 2356; [Pub. L. 113–67, div. B, title I][/us/pl/113/67], §§ 1101, 1102, Dec. 26, 2013, [127 Stat. 1196][/us/stat/127/1196]; [Pub. L. 113–93, title I][/us/pl/113/93], §§ 101, 102, title II, §§ 218(a)(2)(B), 220(a)–(f), (h), Apr. 1, 2014, [128 Stat. 1041][/us/stat/128/1041], 1064, 1070–1074; [Pub. L. 113–295, div. B, title II, § 202][/us/pl/113/295/s202], Dec. 19, 2014, [128 Stat. 4065][/us/stat/128/4065]; [Pub. L. 114–10, title I][/us/pl/114/10], §§ 101(a)(1), (2), (b), (c)(1), (d), (f), 102, 103(a), 106(b)(2)(A), title II, § 201, title V, § 523, Apr. 16, 2015, [129 Stat. 89][/us/stat/129/89], 91, 92, 115, 123–131, 139, 143, 177; [Pub. L. 114–113, div. O, title V, § 502(a)(1)][/us/pl/114/113/s502/a/1]–(2)(B), Dec. 18, 2015, [129 Stat. 3018][/us/stat/129/3018], 3019; [Pub. L. 114–115][/us/pl/114/115], §§ 3(a), 4(a), Dec. 28, 2015, [129 Stat. 3132][/us/stat/129/3132], 3133.)
 
  __Amendment of Subsection (__  __o__  __)(2)(A)(ii)__ 
 
@@ -3571,6 +3613,8 @@
 
     Subsec. (a)(7)(A)(iii). [Pub. L. 114–10, § 101(b)(1)(A)(iii)][/us/pl/114/10/s101/b/1/A/iii], struck out “and subsequent years” after “for 2018” in heading and “and each subsequent year” after “For 2018” and “, but in no case shall the applicable percent be less than 95 percent” after “in the preceding year” in text.
 
+    Subsec. (a)(7)(B). [Pub. L. 114–115, § 4(a)][/us/pl/114/115/s4/a], inserted “(and, with respect to the payment adjustment under subparagraph (A) for 2017, for categories of eligible professionals, as established by the Secretary and posted on the Internet website of the Centers for Medicare & Medicaid Services prior to December 15, 2015, an application for which must be submitted to the Secretary by not later than March 15, 2016)” after “case-by-case basis”.
+
     Subsec. (a)(8)(A)(i). [Pub. L. 114–10, § 101(b)(2)(A)(i)][/us/pl/114/10/s101/b/2/A/i], substituted “each of 2015 through 2018” for “2015 or any subsequent year”.
 
     Subsec. (a)(8)(A)(ii)(II). [Pub. L. 114–10, § 101(b)(2)(A)(ii)][/us/pl/114/10/s101/b/2/A/ii], substituted “, 2017, and 2018” for “and each subsequent year”.
@@ -3578,6 +3622,18 @@
     Subsec. (a)(9). [Pub. L. 114–10, § 523(b)][/us/pl/114/10/s523/b], added par. (9).
 
     Subsec. (b)(8). [Pub. L. 114–10, § 103(a)][/us/pl/114/10/s103/a], added par. (8).
+
+    Subsec. (b)(9). [Pub. L. 114–113, § 502(a)(1)(A)][/us/pl/114/113/s502/a/1/A], added par. (9).
+
+    Subsec. (b)(10). [Pub. L. 114–113, § 502(a)(2)(A)][/us/pl/114/113/s502/a/2/A], added par. (10).
+
+    Subsec. (b)(11). [Pub. L. 114–115, § 3(a)(1)][/us/pl/114/115/s3/a/1], added par. (11).
+
+    Subsec. (c)(2)(B)(v)(X). [Pub. L. 114–113, § 502(a)(1)(B)][/us/pl/114/113/s502/a/1/B], added subcl. (X).
+
+    Subsec. (c)(2)(B)(v)(XI). [Pub. L. 114–113, § 502(a)(2)(B)][/us/pl/114/113/s502/a/2/B], added subcl. (XI).
+
+    Subsec. (c)(2)(K)(iv). [Pub. L. 114–115, § 3(a)(2)][/us/pl/114/115/s3/a/2], added cl. (iv).
 
     Subsec. (c)(8). [Pub. L. 114–10, § 523(a)][/us/pl/114/10/s523/a], added par. (8).
 
@@ -4477,6 +4533,12 @@
 
     For termination, effective May 15, 2000, of provisions of law requiring submittal to Congress of any annual, semiannual, or other regular periodic report listed in House Document No. 103–7 (in which item 8 on page 94 identifies a reporting provision which, as subsequently amended, is contained in subsec. (g)(6)(B) of this section and in which item 9 on page 94 identifies a reporting provision which is contained in subsec. (g)(7)(B) of this section), see [section 3003 of Pub. L. 104–66][/us/pl/104/66/s3003], as amended, set out as a note under [section 1113 of Title 31][/us/usc/t31/s1113], Money and Finance.
 
+ __Implementation__ 
+
+[Pub. L. 114–115, § 4(c)][/us/pl/114/115/s4/c], Dec. 28, 2015, [129 Stat. 3133][/us/stat/129/3133], provided that: 
+
+> “Notwithstanding any other provision of law, the Secretary of Health and Human Services shall implement the provisions of, and the amendments made by, subsections (a) and (b) \[amending this section and [section 1395ww of this title][/us/usc/t42/s1395ww]\] by program instruction, such as through information on the Internet website of the Centers for Medicare & Medicaid Services.”
+
  __Education and Outreach Campaign__ 
 
 [Pub. L. 114–10, title I, § 103(b)(1)][/us/pl/114/10/s103/b/1], Apr. 16, 2015, [129 Stat. 132][/us/stat/129/132], provided that:
@@ -4529,9 +4591,7 @@
 
  __Disclosure of Data Used To Establish Multiple Procedure Payment Reduction Policy__ 
 
-[Pub. L. 113–93, title II, § 220(i)][/us/pl/113/93/s220/i], Apr. 1, 2014, [128 Stat. 1076][/us/stat/128/1076], provided that: 
-
-> “The Secretary of Health and Human Services shall make publicly available the information used to establish the multiple procedure payment reduction policy to the professional component of imaging services in the final rule published in the Federal Register, v. 77, n. 222, November 16, 2012, pages 68891–69380 under the physician fee schedule under section 1848 of the Social Security Act ([42 U.S.C. 1395w–4][/us/usc/t42/s1395w–4]).”
+    [Pub. L. 113–93, title II, § 220(i)][/us/pl/113/93/s220/i], Apr. 1, 2014, [128 Stat. 1076][/us/stat/128/1076], which required the Secretary of Health and Human Services to make publicly available information used to establish the multiple procedure payment reduction policy to the professional component of imaging services in the final rule published in the Federal Register on Nov. 16, 2012, was repealed by [Pub. L. 114–113, div. O, title V, § 502(a)(2)(C)][/us/pl/114/113/s502/a/2/C], Dec. 18, 2015, [129 Stat. 3019][/us/stat/129/3019].
 
  __Centers for Medicare & Medicaid Services To Study Reform of Physician Reimbursements__ 
 
@@ -5189,6 +5249,10 @@
 [/us/stat/128/4065]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F4065
 [/us/pl/114/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F10
 [/us/stat/129/89]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F89
+[/us/pl/114/113/s502/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs502%2Fa%2F1
+[/us/stat/129/3018]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F3018
+[/us/pl/114/115]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F115
+[/us/stat/129/3132]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F3132
 [/us/pl/114/10/s101/b/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F10%2Fs101%2Fb%2F2%2FA
 [/us/stat/129/139]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F139
 [/us/pl/103/66/s13515/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66%2Fs13515%2Fb
@@ -5215,10 +5279,17 @@
 [/us/pl/114/10/s101/b/1/A/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F10%2Fs101%2Fb%2F1%2FA%2Fi
 [/us/pl/114/10/s101/b/1/A/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F10%2Fs101%2Fb%2F1%2FA%2Fii
 [/us/pl/114/10/s101/b/1/A/iii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F10%2Fs101%2Fb%2F1%2FA%2Fiii
+[/us/pl/114/115/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F115%2Fs4%2Fa
 [/us/pl/114/10/s101/b/2/A/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F10%2Fs101%2Fb%2F2%2FA%2Fi
 [/us/pl/114/10/s101/b/2/A/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F10%2Fs101%2Fb%2F2%2FA%2Fii
 [/us/pl/114/10/s523/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F10%2Fs523%2Fb
 [/us/pl/114/10/s103/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F10%2Fs103%2Fa
+[/us/pl/114/113/s502/a/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs502%2Fa%2F1%2FA
+[/us/pl/114/113/s502/a/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs502%2Fa%2F2%2FA
+[/us/pl/114/115/s3/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F115%2Fs3%2Fa%2F1
+[/us/pl/114/113/s502/a/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs502%2Fa%2F1%2FB
+[/us/pl/114/113/s502/a/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs502%2Fa%2F2%2FB
+[/us/pl/114/115/s3/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F115%2Fs3%2Fa%2F2
 [/us/pl/114/10/s523/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F10%2Fs523%2Fa
 [/us/pl/114/10/s101/a/1/A/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F10%2Fs101%2Fa%2F1%2FA%2Fi
 [/us/pl/114/10/s101/a/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F10%2Fs101%2Fa%2F2%2FB
@@ -5712,6 +5783,9 @@
 [/us/usc/t42/s1395b–6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395b%E2%80%936
 [/us/pl/104/66/s3003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F66%2Fs3003
 [/us/usc/t31/s1113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1113
+[/us/pl/114/115/s4/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F115%2Fs4%2Fc
+[/us/stat/129/3133]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F3133
+[/us/usc/t42/s1395ww]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395ww
 [/us/pl/114/10/s103/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F10%2Fs103%2Fb%2F1
 [/us/stat/129/132]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F132
 [/us/usc/t42/s1395j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395j
@@ -5729,7 +5803,8 @@
 [/us/stat/129/140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F140
 [/us/pl/113/93/s220/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F93%2Fs220%2Fi
 [/us/stat/128/1076]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1076
-[/us/usc/t42/s1395w–4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395w%E2%80%934
+[/us/pl/114/113/s502/a/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs502%2Fa%2F2%2FC
+[/us/stat/129/3019]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F3019
 [/us/pl/113/67/s1002]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F67%2Fs1002
 [/us/stat/127/1195]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F1195
 [/us/pl/111/157/s5/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F157%2Fs5%2Fc

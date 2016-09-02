@@ -225,13 +225,21 @@
 
             (A) __In general__ 
 
-            The Secretary shall enter into contracts with eligible entities for the purpose of ensuring that, beginning with 2006, the Medicare-Medicaid Data Match Program (commonly referred to as the “Medi-Medi Program”) is conducted with respect to the program established under this subchapter and State Medicaid programs under subchapter XIX for the purpose of—
+            The Secretary shall enter into contracts with eligible entities or otherwise for the purpose of ensuring that, beginning with 2006, the Medicare-Medicaid Data Match Program (commonly referred to as the “Medi-Medi Program”) is conducted with respect to the program established under this subchapter and State Medicaid programs under subchapter XIX for the purpose of—
 
-                (i) identifying program vulnerabilities in the program established under this subchapter and the Medicaid program established under subchapter XIX through the use of computer algorithms to look for payment anomalies (including billing or billing patterns identified with respect to service, time, or patient that appear to be suspect or otherwise implausible);
+                (i) identifying program vulnerabilities in the program established under this subchapter and the Medicaid program established under subchapter XIX through the use of computer algorithms to review claims data to look for payment anomalies (including billing or billing patterns identified with respect to provider, service, time, or patient that appear to be suspect or otherwise implausible);
 
-                (ii) working with States, the Attorney General, and the Inspector General of the Department of Health and Human Services to coordinate appropriate actions to protect the Federal and State share of expenditures under the Medicaid program under subchapter XIX, as well as the program established under this subchapter; and
+                (ii) working with States, the Attorney General, and the Inspector General of the Department of Health and Human Services to coordinate appropriate actions to investigate and recover amounts with respect to suspect claims to protect the Federal and State share of expenditures under the Medicaid program under subchapter XIX, as well as the program established under this subchapter;
 
-                (iii) increasing the effectiveness and efficiency of both such programs through cost avoidance, savings, and recoupments of fraudulent, wasteful, or abusive expenditures.
+                (iii) increasing the effectiveness and efficiency of both such programs through cost avoidance, savings, and recoupments of fraudulent, wasteful, or abusive expenditures; and
+
+                (iv)
+
+                 furthering the Secretary’s design, development, installation, or enhancement of an automated data system architecture—
+
+                    (I) to collect, integrate, and assess data for purposes of program integrity, program oversight, and administration, including the Medi-Medi Program; and
+
+                    (II) that improves the coordination of requests for data from States.
 
             (B) __Reporting requirements__ 
 
@@ -345,7 +353,7 @@
 
             (B) the effectiveness of the use of such funds.
 
-([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title XVIII, § 1893, as added [Pub. L. 104–191, title II, § 202(a)][/us/pl/104/191/s202/a], Aug. 21, 1996, [110 Stat. 1996][/us/stat/110/1996]; amended [Pub. L. 108–173, title VII, § 736(c)(7)][/us/pl/108/173/s736/c/7], title IX, § 935(a), Dec. 8, 2003, [117 Stat. 2356][/us/stat/117/2356], 2407; [Pub. L. 109–171, title VI, § 6034(d)(1)][/us/pl/109/171/s6034/d/1], Feb. 8, 2006, [120 Stat. 77][/us/stat/120/77]; [Pub. L. 109–432, div. B, title III, § 302(a)][/us/pl/109/432/s302/a], Dec. 20, 2006, [120 Stat. 2991][/us/stat/120/2991]; [Pub. L. 111–148, title VI][/us/pl/111/148], §§ 6402(j)(1), 6411(b), Mar. 23, 2010, [124 Stat. 762][/us/stat/124/762], 775; [Pub. L. 114–10, title V][/us/pl/114/10], §§ 505(b), 510, Apr. 16, 2015, [129 Stat. 167][/us/stat/129/167], 170.)
+([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title XVIII, § 1893, as added [Pub. L. 104–191, title II, § 202(a)][/us/pl/104/191/s202/a], Aug. 21, 1996, [110 Stat. 1996][/us/stat/110/1996]; amended [Pub. L. 108–173, title VII, § 736(c)(7)][/us/pl/108/173/s736/c/7], title IX, § 935(a), Dec. 8, 2003, [117 Stat. 2356][/us/stat/117/2356], 2407; [Pub. L. 109–171, title VI, § 6034(d)(1)][/us/pl/109/171/s6034/d/1], Feb. 8, 2006, [120 Stat. 77][/us/stat/120/77]; [Pub. L. 109–432, div. B, title III, § 302(a)][/us/pl/109/432/s302/a], Dec. 20, 2006, [120 Stat. 2991][/us/stat/120/2991]; [Pub. L. 111–148, title VI][/us/pl/111/148], §§ 6402(j)(1), 6411(b), Mar. 23, 2010, [124 Stat. 762][/us/stat/124/762], 775; [Pub. L. 114–10, title V][/us/pl/114/10], §§ 505(b), 510, Apr. 16, 2015, [129 Stat. 167][/us/stat/129/167], 170; [Pub. L. 114–115, § 9(b)][/us/pl/114/115/s9/b], Dec. 28, 2015, [129 Stat. 3135][/us/stat/129/3135].)
 
  __References in Text__ 
 
@@ -357,7 +365,15 @@
 
  __Amendments__ 
 
-    2015—Subsec. (g)(3). [Pub. L. 114–10, § 510][/us/pl/114/10/s510], added par. (3).
+    2015—Subsec. (g)(1)(A). [Pub. L. 114–115, § 9(b)(1)][/us/pl/114/115/s9/b/1], inserted “or otherwise” after “eligible entities” in introductory provisions.
+
+    Subsec. (g)(1)(A)(i). [Pub. L. 114–115, § 9(b)(2)][/us/pl/114/115/s9/b/2], inserted “to review claims data” after “algorithms” and substituted “provider, service, time, or patient” for “service, time, or patient”.
+
+    Subsec. (g)(1)(A)(ii). [Pub. L. 114–115, § 9(b)(3)(A)][/us/pl/114/115/s9/b/3/A], inserted “to investigate and recover amounts with respect to suspect claims” after “appropriate actions”.
+
+    Subsec. (g)(1)(A)(iv). [Pub. L. 114–115, § 9(b)(3)(B)][/us/pl/114/115/s9/b/3/B]–(5), added cl. (iv).
+
+    Subsec. (g)(3). [Pub. L. 114–10, § 510][/us/pl/114/10/s510], added par. (3).
 
     Subsec. (h)(2). [Pub. L. 114–10, § 505(b)(1)][/us/pl/114/10/s505/b/1], inserted “or paragraph (10)” after “paragraph (1)(C)”.
 
@@ -425,6 +441,28 @@
 
 >     Not later than 1 year after the date of the enactment of this Act, the Secretary shall first establish a standard methodology for selection of sample claims for abnormal billing patterns under section 1893(f)(8) of the Social Security Act \[[42 U.S.C. 1395ddd(f)(8)][/us/usc/t42/s1395ddd/f/8]\], as added by subsection (a).”
 
+ __Improving the Sharing of Data Between the Federal Government and State Medicaid Programs__ 
+
+[Pub. L. 114–115, § 9][/us/pl/114/115/s9], Dec. 28, 2015, [129 Stat. 3135][/us/stat/129/3135], provided that:
+
+>     “(a)  __In General__  __.—__ 
+
+>     The Secretary of Health and Human Services (in this section referred to as the ‘Secretary’) shall establish a plan to encourage and facilitate the participation of States in the Medicare-Medicaid Data Match Program (commonly referred to as the ‘Medi-Medi Program’) under section 1893(g) of the Social Security Act ([42 U.S.C. 1395ddd(g)][/us/usc/t42/s1395ddd/g]).
+
+>     “(b)  __Program Revisions To Improve Medi-Medi Data Match Program Participation by States__  __.—__ 
+
+>     \[Amended this section.\]
+
+>     “(c) __Providing States With Data on Improper Payments Made for Items or Services Provided to Dual Eligible Individuals.—__ 
+
+>         “(1)  __In general__  __.—__ 
+
+>         The Secretary shall develop and implement a plan that allows each State agency responsible for administering a State plan for medical assistance under title XIX of the Social Security Act \[[42 U.S.C. 1396][/us/usc/t42/s1396] et seq.\] access to relevant data on improper or fraudulent payments made under the Medicare program under title XVIII of the Social Security Act ([42 U.S.C. 1395][/us/usc/t42/s1395] et seq.) for health care items or services provided to dual eligible individuals.
+
+>         “(2)  __Dual eligible individual defined__  __.—__ 
+
+>         In this section, the term ‘dual eligible individual’ means an individual who is entitled to, or enrolled for, benefits under part A of title XVIII of the Social Security Act ([42 U.S.C. 1395c][/us/usc/t42/s1395c] et seq.), or enrolled for benefits under part B of title XVIII of such Act ([42 U.S.C. 1395j][/us/usc/t42/s1395j] et seq.), and is eligible for medical assistance under a State plan under title XIX of such Act ([42 U.S.C. 1396][/us/usc/t42/s1396] et seq.) or under a waiver of such plan.”
+
  __Extension of Two-Midnight Rule__ 
 
 [Pub. L. 113–93, title I, § 111][/us/pl/113/93/s111], Apr. 1, 2014, [128 Stat. 1044][/us/stat/128/1044], as amended by [Pub. L. 114–10, title V, § 521][/us/pl/114/10/s521], Apr. 16, 2015, [129 Stat. 176][/us/stat/129/176], provided that:
@@ -485,10 +523,16 @@
 [/us/stat/124/762]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F762
 [/us/pl/114/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F10
 [/us/stat/129/167]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F167
+[/us/pl/114/115/s9/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F115%2Fs9%2Fb
+[/us/stat/129/3135]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F3135
 [/us/pl/104/191/s202/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F191%2Fs202%2Fb
 [/us/pl/114/10/s514/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F10%2Fs514%2Fa
 [/us/stat/129/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F171
 [/us/pl/114/10/s514/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F10%2Fs514%2Fb
+[/us/pl/114/115/s9/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F115%2Fs9%2Fb%2F1
+[/us/pl/114/115/s9/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F115%2Fs9%2Fb%2F2
+[/us/pl/114/115/s9/b/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F115%2Fs9%2Fb%2F3%2FA
+[/us/pl/114/115/s9/b/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F115%2Fs9%2Fb%2F3%2FB
 [/us/pl/114/10/s510]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F10%2Fs510
 [/us/pl/114/10/s505/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F10%2Fs505%2Fb%2F1
 [/us/pl/114/10/s505/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F10%2Fs505%2Fb%2F2
@@ -515,6 +559,14 @@
 [/us/usc/t42/s1395ddd/f/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395ddd%2Ff%2F6
 [/us/usc/t42/s1395ddd/f/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395ddd%2Ff%2F7
 [/us/usc/t42/s1395ddd/f/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395ddd%2Ff%2F8
+[/us/pl/114/115/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F115%2Fs9
+[/us/stat/129/3135]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F3135
+[/us/usc/t42/s1395ddd/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395ddd%2Fg
+[/us/usc/t42/s1396]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396
+[/us/usc/t42/s1395]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395
+[/us/usc/t42/s1395c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395c
+[/us/usc/t42/s1395j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395j
+[/us/usc/t42/s1396]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396
 [/us/pl/113/93/s111]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F93%2Fs111
 [/us/stat/128/1044]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1044
 [/us/pl/114/10/s521]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F10%2Fs521

@@ -15,9 +15,9 @@
 
 ## § 250a. Transfer of appropriations
 
-    The Attorney General may transfer to the Health Resources and Services Administration such amounts as may be necessary for direct expenditures by that Administration for medical relief for inmates of Federal penal and correctional institutions.
+    The Attorney General may transfer to the Department of Health and Human Services such amounts as may be necessary for direct expenditures by that Department for medical relief for inmates of Federal penal and correctional institutions.
 
-([Pub. L. 113–235, div. B, title II][/us/pl/113/235], Dec. 16, 2014, [128 Stat. 2188][/us/stat/128/2188].)
+([Pub. L. 114–113, div. B, title II][/us/pl/114/113], Dec. 18, 2015, [129 Stat. 2302][/us/stat/129/2302].)
 
  __Codification__ 
 
@@ -28,6 +28,8 @@
  __Prior Provisions__ 
 
 Provisions similar to those in this section were contained in the following prior appropriation acts:
+
+    [Pub. L. 113–235, div. B, title II][/us/pl/113/235], Dec. 16, 2014, [128 Stat. 2188][/us/stat/128/2188].
 
     [Pub. L. 113–76, div. B, title II][/us/pl/113/76], Jan. 17, 2014, [128 Stat. 57][/us/stat/128/57].
 
@@ -150,11 +152,13 @@ Provisions similar to those in this section were contained in the following prio
 ----------
 ----------
 
-[/us/pl/113/235]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235
-[/us/stat/128/2188]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2188
+[/us/pl/114/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113
+[/us/stat/129/2302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F2302
 [/us/usc/t5/s341h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs341h
 [/us/pl/89/554/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554%2Fs1
 [/us/stat/80/378]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F378
+[/us/pl/113/235]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235
+[/us/stat/128/2188]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2188
 [/us/pl/113/76]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F76
 [/us/stat/128/57]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F57
 [/us/pl/113/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F6

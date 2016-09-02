@@ -17,7 +17,7 @@
 
     (a) __In general__ 
 
-        There is hereby established the Medicaid Integrity Program (in this section referred to as the “Program”) under which the Secretary shall promote the integrity of the program under this subchapter by entering into contracts in accordance with this section with eligible entities to carry out the activities described in subsection (b).
+        There is hereby established the Medicaid Integrity Program (in this section referred to as the “Program”) under which the Secretary shall promote the integrity of the program under this subchapter by entering into contracts in accordance with this section with eligible entities, or otherwise, to carry out the activities described in subsection (b).
 
     (b) __Activities described__ 
 
@@ -97,7 +97,7 @@
 
         (1) __In general__ 
 
-        Out of any money in the Treasury of the United States not otherwise appropriated, there are appropriated to carry out the Medicaid Integrity Program under this section, without further appropriation—
+        Out of any money in the Treasury of the United States not otherwise appropriated, there are appropriated to carry out the Medicaid Integrity Program under this section (including the costs of equipment, salaries and benefits, and travel and training), without further appropriation—
 
             (A) for fiscal year 2006, $5,000,000;
 
@@ -129,7 +129,7 @@
 
         (3) __Increase in cms staffing devoted to protecting Medicaid program integrity__ 
 
-            From the amounts appropriated under paragraph (1), the Secretary shall increase by 100 the number of full-time equivalent employees whose duties consist solely of protecting the integrity of the Medicaid program established under this section by providing effective support and assistance to States to combat provider fraud and abuse.
+            From the amounts appropriated under paragraph (1), the Secretary shall increase by 100, or such number as determined necessary by the Secretary to carry out the Program, the number of full-time equivalent employees whose duties consist solely of protecting the integrity of the Medicaid program established under this section by providing effective support and assistance to States to combat provider fraud and abuse.
 
         (4) __Evaluations__ 
 
@@ -143,7 +143,7 @@
 
             (B) the effectiveness of the use of such funds.
 
-([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title XIX, § 1936, as added [Pub. L. 109–171, title VI, § 6034(a)(2)][/us/pl/109/171/s6034/a/2], Feb. 8, 2006, [120 Stat. 74][/us/stat/120/74]; amended [Pub. L. 110–379, § 5(a)(1)][/us/pl/110/379/s5/a/1], (b)(1), Oct. 8, 2008, [122 Stat. 4078][/us/stat/122/4078]; [Pub. L. 111–148, title VI, § 6402(j)(2)][/us/pl/111/148/s6402/j/2], Mar. 23, 2010, [124 Stat. 762][/us/stat/124/762]; [Pub. L. 111–152, title I, § 1303(b)][/us/pl/111/152/s1303/b], Mar. 30, 2010, [124 Stat. 1058][/us/stat/124/1058].)
+([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title XIX, § 1936, as added [Pub. L. 109–171, title VI, § 6034(a)(2)][/us/pl/109/171/s6034/a/2], Feb. 8, 2006, [120 Stat. 74][/us/stat/120/74]; amended [Pub. L. 110–379, § 5(a)(1)][/us/pl/110/379/s5/a/1], (b)(1), Oct. 8, 2008, [122 Stat. 4078][/us/stat/122/4078]; [Pub. L. 111–148, title VI, § 6402(j)(2)][/us/pl/111/148/s6402/j/2], Mar. 23, 2010, [124 Stat. 762][/us/stat/124/762]; [Pub. L. 111–152, title I, § 1303(b)][/us/pl/111/152/s1303/b], Mar. 30, 2010, [124 Stat. 1058][/us/stat/124/1058]; [Pub. L. 114–115, § 6][/us/pl/114/115/s6], Dec. 28, 2015, [129 Stat. 3133][/us/stat/129/3133].)
 
  __References in Text__ 
 
@@ -154,6 +154,12 @@
     A prior section 1936 of act Aug. 14, 1935, was renumbered section 1939 and is classified to [section 1396v of this title][/us/usc/t42/s1396v].
 
  __Amendments__ 
+
+    2015—Subsec. (a). [Pub. L. 114–115, § 6(1)][/us/pl/114/115/s6/1], inserted “, or otherwise,” after “entities”.
+
+    Subsec. (e)(1). [Pub. L. 114–115, § 6(2)(A)][/us/pl/114/115/s6/2/A], inserted “(including the costs of equipment, salaries and benefits, and travel and training)” after “Program under this section” in introductory provisions.
+
+    Subsec. (e)(3). [Pub. L. 114–115, § 6(2)(B)][/us/pl/114/115/s6/2/B], substituted “by 100, or such number as determined necessary by the Secretary to carry out the Program,” for “by 100”.
 
     2010—Subsec. (c)(2)(D), (E). [Pub. L. 111–148, § 6402(j)(2)(A)][/us/pl/111/148/s6402/j/2/A], added subpar. (D) and redesignated former subpar. (D) as (E).
 
@@ -198,9 +204,14 @@
 [/us/stat/124/762]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F762
 [/us/pl/111/152/s1303/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F152%2Fs1303%2Fb
 [/us/stat/124/1058]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1058
+[/us/pl/114/115/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F115%2Fs6
+[/us/stat/129/3133]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F3133
 [/us/pl/104/191/s202/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F191%2Fs202%2Fb
 [/us/stat/110/1998]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1998
 [/us/usc/t42/s1396v]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396v
+[/us/pl/114/115/s6/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F115%2Fs6%2F1
+[/us/pl/114/115/s6/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F115%2Fs6%2F2%2FA
+[/us/pl/114/115/s6/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F115%2Fs6%2F2%2FB
 [/us/pl/111/148/s6402/j/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs6402%2Fj%2F2%2FA
 [/us/pl/111/152/s1303/b/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F152%2Fs1303%2Fb%2F2%2FA
 [/us/pl/111/152/s1303/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F152%2Fs1303%2Fb%2F1

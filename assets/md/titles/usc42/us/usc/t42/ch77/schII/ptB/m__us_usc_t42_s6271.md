@@ -41,7 +41,7 @@
 
     (d) __Nonapplicability of export restrictions under other laws__ 
 
-        Neither [section 6212 of this title][/us/usc/t42/s6212] nor [section 185(u) of title 30][/us/usc/t30/s185/u] shall preclude the allocation and export, to other countries in accordance with this section, of petroleum products produced in the United States.
+        Neither section 6212 1 of this title nor [section 185(u) of title 30][/us/usc/t30/s185/u] shall preclude the allocation and export, to other countries in accordance with this section, of petroleum products produced in the United States.
 
     (e) __Prerequisites for effectiveness of rule__ 
 
@@ -57,6 +57,8 @@
 
     [Section 753 of title 15][/us/usc/t15/s753], referred to in subsec. (c), was omitted from the Code pursuant to [section 760g of Title 15][/us/usc/t15/s760g], Commerce and Trade, which provided for the expiration of the President’s authority under that section on Sept. 30, 1981.
 
+    [Section 6212 of this title][/us/usc/t42/s6212], referred to in subsec. (d), was repealed by [Pub. L. 114–113, div. O, title I, § 101(a)][/us/pl/114/113/s101/a], Dec. 18, 2015, [129 Stat. 2987][/us/stat/129/2987].
+
  __Amendments__ 
 
     1998—Subsec. (e)(1). [Pub. L. 105–177][/us/pl/105/177] substituted reference to section 6272(k)(1) for reference to section 6272(l)(1).
@@ -70,7 +72,6 @@
 ----------
 ----------
 
-[/us/usc/t42/s6212]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6212
 [/us/usc/t30/s185/u]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs185%2Fu
 [/us/usc/t42/s6272/k/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6272%2Fk%2F1
 [/us/pl/94/163/s251]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F163%2Fs251
@@ -81,6 +82,9 @@
 [/us/stat/112/105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F105
 [/us/usc/t15/s753]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs753
 [/us/usc/t15/s760g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs760g
+[/us/usc/t42/s6212]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6212
+[/us/pl/114/113/s101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs101%2Fa
+[/us/stat/129/2987]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F2987
 [/us/pl/105/177]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F177
 [/us/pl/97/229]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F229
 

@@ -61,7 +61,7 @@
 
             (B) __Full contribution amount__ 
 
-                Under such contract, with respect to the last calendar quarter of fiscal year 2011 and each calendar quarter in fiscal years 2012 through 2015 the full contribution amount under this subparagraph shall be equal to 10 percent of the expenditures in carrying out this subchapter for the respective quarter and with respect to calendar quarters in fiscal year 2016, such full contribution amount shall be equal to ⅑ of the Federal expenditures in carrying out this subchapter for the respective quarter.
+                Under such contract, with respect to each calendar quarter of fiscal year 2016 and of each subsequent fiscal year through fiscal year 2090, the full contribution amount under this subparagraph shall be equal to 10 percent of the expenditures in carrying out this subchapter for the respective quarter.
 
             (C) __Satisfaction of payment obligation__ 
 
@@ -115,11 +115,15 @@
 
         (2) with respect to the condition the individual has filed and had established a claim under a workers’ compensation law or plan of the United States or a State, or other work-related injury or illness benefit plan of the employer of such individual.
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XXXIII, § 3331, as added [Pub. L. 111–347, title I, § 101][/us/pl/111/347/s101], Jan. 2, 2011, [124 Stat. 3653][/us/stat/124/3653].)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XXXIII, § 3331, as added [Pub. L. 111–347, title I, § 101][/us/pl/111/347/s101], Jan. 2, 2011, [124 Stat. 3653][/us/stat/124/3653]; amended [Pub. L. 114–113, div. O, title III, § 302(g)][/us/pl/114/113/s302/g], Dec. 18, 2015, [129 Stat. 3000][/us/stat/129/3000].)
 
  __References in Text__ 
 
     The Social Security Act, referred to in subsecs. (b)(1), (c)(1), and (d)(1)(E)(ii), is [act Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], [49 Stat. 620][/us/stat/49/620]. Titles XVIII, XIX, and XXI of the Act are classified generally to subchapters XVIII (§ 1395 et seq.), XIX (§ 1396 et seq.), and XXI (§ 1397aa et seq.), respectively, of chapter 7 of this title. For complete classification of this Act to the Code, see [section 1305 of this title][/us/usc/t42/s1305] and Tables.
+
+ __Amendments__ 
+
+    2015—Subsec. (d)(1)(B). [Pub. L. 114–113][/us/pl/114/113] substituted “each calendar quarter of fiscal year 2016 and of each subsequent fiscal year through fiscal year 2090,” for “the last calendar quarter of fiscal year 2011 and each calendar quarter in fiscal years 2012 through 2015” and struck out “and with respect to calendar quarters in fiscal year 2016, such full contribution amount shall be equal to ⅑ of the Federal expenditures in carrying out this subchapter for the respective quarter” before period at end.
 
 ----------
 
@@ -143,8 +147,11 @@
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
 [/us/pl/111/347/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F347%2Fs101
 [/us/stat/124/3653]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3653
+[/us/pl/114/113/s302/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs302%2Fg
+[/us/stat/129/3000]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F3000
 [/us/act/1935-08-14/ch531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531
 [/us/stat/49/620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F620
 [/us/usc/t42/s1305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1305
+[/us/pl/114/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113
 
 

@@ -365,7 +365,33 @@
 
             Communications with providers of services and suppliers under an improper payment outreach and education program are subject to the standards and requirements of subsection (g).
 
-([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title XVIII, § 1874A, as added and amended [Pub. L. 108–173, title IX][/us/pl/108/173], §§ 911(a)(1), 912(a), 921(b)(1), (c)(1), 934(a), 940A(b), Dec. 8, 2003, [117 Stat. 2378][/us/stat/117/2378], 2387–2389, 2406, 2417; [Pub. L. 111–152, title I, § 1302][/us/pl/111/152/s1302], Mar. 30, 2010, [124 Stat. 1057][/us/stat/124/1057]; [Pub. L. 114–10, title V][/us/pl/114/10], §§ 505(a), 509(a), (c), Apr. 16, 2015, [129 Stat. 166][/us/stat/129/166], 170.)
+([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title XVIII, § 1874A, as added and amended [Pub. L. 108–173, title IX][/us/pl/108/173], §§ 911(a)(1), 912(a), 921(b)(1), (c)(1), 934(a), 940A(b), Dec. 8, 2003, [117 Stat. 2378][/us/stat/117/2378], 2387–2389, 2406, 2417; [Pub. L. 111–152, title I, § 1302][/us/pl/111/152/s1302], Mar. 30, 2010, [124 Stat. 1057][/us/stat/124/1057]; [Pub. L. 114–10, title V][/us/pl/114/10], §§ 505(a), 509(a), (c), Apr. 16, 2015, [129 Stat. 166][/us/stat/129/166], 170; [Pub. L. 114–115, § 7(a)][/us/pl/114/115/s7/a], Dec. 28, 2015, [129 Stat. 3134][/us/stat/129/3134].)
+
+ __Amendment of Subsection (b)(1)(D)__ 
+
+[Pub. L. 114–115, § 7][/us/pl/114/115/s7], Dec. 28, 2015, [129 Stat. 3134][/us/stat/129/3134], provided that, applicable to contracts entered into or renewed on or after the date that is 3 years after Dec. 28, 2015, with provision for application to certain existing contracts, subsection (b)(1)(D) of this section is amended:
+
+    (1) by striking “The Secretary” and inserting:
+
+    “(i) In general
+
+    “Subject to clauses (ii) and (iii), the Secretary”; and
+
+    (2) by adding after clause (i) the following new clauses:
+
+    (ii) Improper payment rate reduction incentives
+
+    The Secretary shall provide incentives for medicare administrative contractors to reduce the improper payment error rates in their jurisdictions.
+
+    (iii) Incentives
+
+    The incentives provided for under clause (ii)—
+
+    (I) may include a sliding scale of award fee payments and additional incentives to medicare administrative contractors that either reduce the improper payment rates in their jurisdictions to certain thresholds, as determined by the Secretary, or accomplish tasks, as determined by the Secretary, that further improve payment accuracy; and
+
+    (II) may include substantial reductions in award fee payments under cost-plus-award-fee contracts, for medicare administrative contractors that reach an upper end improper payment rate threshold or other threshold as determined by the Secretary, or fail to accomplish tasks, as determined by the Secretary, that further improve payment accuracy.
+
+    See 2015 Amendment note below.
 
  __References in Text__ 
 
@@ -380,6 +406,8 @@
     2015—Subsec. (a)(4)(G), (H). [Pub. L. 114–10, § 505(a)(1)][/us/pl/114/10/s505/a/1], added subpar. (G) and redesignated former subpar. (G) as (H).
 
     Subsec. (b)(1)(B). [Pub. L. 114–10, § 509(a)][/us/pl/114/10/s509/a], substituted “10 years” for “5 years”.
+
+    Subsec. (b)(1)(D). [Pub. L. 114–115][/us/pl/114/115] designated existing provisions as cl. (i) and inserted heading, substituted “Subject to clauses (ii) and (iii), the Secretary” for “The Secretary”, and added cls. (ii) and (iii).
 
     Subsec. (b)(3)(A)(iv). [Pub. L. 114–10, § 509(c)][/us/pl/114/10/s509/c], added cl. (iv).
 
@@ -398,6 +426,16 @@
     Subsec. (h). [Pub. L. 108–173, § 934(a)][/us/pl/108/173/s934/a], added subsec. (h).
 
  __Effective Date of 2015 Amendment__ 
+
+[Pub. L. 114–115, § 7(b)][/us/pl/114/115/s7/b], Dec. 28, 2015, [129 Stat. 3134][/us/stat/129/3134], provided that:
+
+>     “(1)  __In general__  __.—__ 
+
+>     The amendments made by subsection (a) \[amending this section\] shall apply to contracts entered into or renewed on or after the date that is 3 years after the date of enactment of this Act \[Dec. 28, 2015\].
+
+>     “(2)  __Application to existing contracts__  __.—__ 
+
+>     In the case of contracts in existence on or after the date of the enactment of this Act and that are not subject to the effective date under paragraph (1), the Secretary of Health and Human Services shall, when appropriate and practicable, seek to apply the incentives provided for in the amendments made by subsection (a) through contract modifications.”
 
 [Pub. L. 114–10, title V, § 509(b)][/us/pl/114/10/s509/b], Apr. 16, 2015, [129 Stat. 170][/us/stat/129/170], provided that: 
 
@@ -667,6 +705,10 @@
 [/us/stat/124/1057]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1057
 [/us/pl/114/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F10
 [/us/stat/129/166]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F166
+[/us/pl/114/115/s7/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F115%2Fs7%2Fa
+[/us/stat/129/3134]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F3134
+[/us/pl/114/115/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F115%2Fs7
+[/us/stat/129/3134]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F3134
 [/us/usc/t44/s3544]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft44%2Fs3544
 [/us/pl/113/283/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F283%2Fs2%2Fa
 [/us/stat/128/3073]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3073
@@ -679,6 +721,7 @@
 [/us/stat/124/3854]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3854
 [/us/pl/114/10/s505/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F10%2Fs505%2Fa%2F1
 [/us/pl/114/10/s509/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F10%2Fs509%2Fa
+[/us/pl/114/115]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F115
 [/us/pl/114/10/s509/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F10%2Fs509%2Fc
 [/us/pl/114/10/s505/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F10%2Fs505%2Fa%2F2
 [/us/pl/111/152]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F152
@@ -687,6 +730,8 @@
 [/us/pl/108/173/s921/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F173%2Fs921%2Fb%2F1
 [/us/pl/108/173/s921/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F173%2Fs921%2Fc%2F1
 [/us/pl/108/173/s934/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F173%2Fs934%2Fa
+[/us/pl/114/115/s7/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F115%2Fs7%2Fb
+[/us/stat/129/3134]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F3134
 [/us/pl/114/10/s509/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F10%2Fs509%2Fb
 [/us/stat/129/170]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F170
 [/us/pl/108/173/s921/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F173%2Fs921%2Fc%2F2

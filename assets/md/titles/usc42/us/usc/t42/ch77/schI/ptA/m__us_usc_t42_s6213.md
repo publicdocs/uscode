@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../../..//us/usc/t42/ch77/schI/ptA/m__us_usc_t42_s6212.md) | [Next](./../../../../../..//us/usc/t42/ch77/schI/ptA/m__us_usc_t42_s6214.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6213)
+[Previous](./../../../../../..//us/usc/t42/ch77/schI/ptA/m__us_usc_t42_s6212a.md) | [Next](./../../../../../..//us/usc/t42/ch77/schI/ptA/m__us_usc_t42_s6214.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6213)
 
 ## § 6213. Certain lease bidding arrangements prohibited
 
@@ -63,7 +63,7 @@
 
 ----------
 
-[Previous](./../../../../../..//us/usc/t42/ch77/schI/ptA/m__us_usc_t42_s6212.md) | [Next](./../../../../../..//us/usc/t42/ch77/schI/ptA/m__us_usc_t42_s6214.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6213)
+[Previous](./../../../../../..//us/usc/t42/ch77/schI/ptA/m__us_usc_t42_s6212a.md) | [Next](./../../../../../..//us/usc/t42/ch77/schI/ptA/m__us_usc_t42_s6214.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6213)
 
 ----------
 ----------

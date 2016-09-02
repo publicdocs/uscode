@@ -17,7 +17,7 @@
 
     (a)
 
-        (1) Subject to paragraphs (2), (3), and (4) of this subsection, the provisions of subchapter II of chapter 5 of title 5 shall apply to any rule, regulation, or order having the applicability and effect of a rule as defined in [section 551(4) of title 5][/us/usc/t5/s551/4] issued under title I (other than section 103 thereof \[[42 U.S.C. 6212][/us/usc/t42/s6212]\]) and title II of this Act, or this title  <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  (other than any provision of such titles which amends another law).
+        (1) Subject to paragraphs (2), (3), and (4) of this subsection, the provisions of subchapter II of chapter 5 of title 5 shall apply to any rule, regulation, or order having the applicability and effect of a rule as defined in [section 551(4) of title 5][/us/usc/t5/s551/4] issued under title I (other than section 103  <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  thereof) and title II of this Act, or this title  <sup>\[1\]</sup>  (other than any provision of such titles which amends another law).
 
         (2)
 
@@ -43,7 +43,7 @@
 
  __References in Text__ 
 
-    This Act, referred to in subsec. (a)(1), (2)(B), (4), is [Pub. L. 94–163][/us/pl/94/163], Dec. 22, 1975, [89 Stat. 871][/us/stat/89/871], known as the Energy Policy and Conservation Act. Title I of the Act is classified principally to subchapter I (§ 6211 et seq.) of this chapter. Title II of the Act is classified generally to subchapter II (§ 6271 et seq.) of this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 6201 of this title][/us/usc/t42/s6201] and Tables.
+    This Act, referred to in subsec. (a)(1), (2)(B), (4), is [Pub. L. 94–163][/us/pl/94/163], Dec. 22, 1975, [89 Stat. 871][/us/stat/89/871], known as the Energy Policy and Conservation Act. Title I of the Act is classified principally to subchapter I (§ 6211 et seq.) of this chapter. Section 103 of the Act was classified to [section 6212 of this title][/us/usc/t42/s6212], prior to repeal by [Pub. L. 114–113, div. O, title I, § 101(a)][/us/pl/114/113/s101/a], Dec. 18, 2015, [129 Stat. 2987][/us/stat/129/2987]. Title II of the Act is classified generally to subchapter II (§ 6271 et seq.) of this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 6201 of this title][/us/usc/t42/s6201] and Tables.
 
     This title, referred to in subsec. (a)(1), (2)(B), is title V of [Pub. L. 94–163][/us/pl/94/163], Dec. 22, 1975, [89 Stat. 956][/us/stat/89/956], which is classified principally to this subchapter. For complete classification of title V to the Code, see Tables.
 
@@ -57,11 +57,13 @@
 ----------
 
 [/us/usc/t5/s551/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs551%2F4
-[/us/usc/t42/s6212]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6212
 [/us/pl/94/163/s523]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F163%2Fs523
 [/us/stat/89/962]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F962
 [/us/pl/94/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F163
 [/us/stat/89/871]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F871
+[/us/usc/t42/s6212]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6212
+[/us/pl/114/113/s101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs101%2Fa
+[/us/stat/129/2987]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F2987
 [/us/usc/t42/s6201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6201
 [/us/pl/94/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F163
 [/us/stat/89/956]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F956

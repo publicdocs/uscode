@@ -49,11 +49,13 @@
 
     (d) __Funding__ 
 
-        Out of any moneys in the Treasury not otherwise appropriated, the Secretary of the Treasury shall pay to the Secretary to provide to the organization selected under this section, to establish and maintain the information clearinghouse, $200,000 for each of fiscal years 1995 and 1996, $150,000 for fiscal year 1997, $100,000 for fiscal year 1998, $166,000 for each of fiscal years 1999 through 2004, and $250,000 for each of fiscal years 2010 through 2015. The Secretary shall be entitled to receive the funds and shall accept the funds, without further appropriation.
+        Out of any moneys in the Treasury not otherwise appropriated, the Secretary of the Treasury shall pay to the Secretary to provide to the organization selected under this section, to establish and maintain the information clearinghouse, $200,000 for each of fiscal years 1995 and 1996, $150,000 for fiscal year 1997, $100,000 for fiscal year 1998, $166,000 for each of fiscal years 1999 through 2004, and $250,000 for each of fiscal years 2010 through 2016. The Secretary shall be entitled to receive the funds and shall accept the funds, without further appropriation.
 
-([June 4, 1946, ch. 281, § 26][/us/act/1946-06-04/ch281/s26], as added [Pub. L. 103–448, title I, § 123][/us/pl/103/448/s123], Nov. 2, 1994, [108 Stat. 4731][/us/stat/108/4731]; amended [Pub. L. 105–336, title I][/us/pl/105/336], §§ 103(c)(2), 112, Oct. 31, 1998, [112 Stat. 3147][/us/stat/112/3147], 3157; [Pub. L. 108–265, title I, § 128][/us/pl/108/265/s128], June 30, 2004, [118 Stat. 767][/us/stat/118/767]; [Pub. L. 111–80, title VII, § 749(f)][/us/pl/111/80/s749/f], Oct. 21, 2009, [123 Stat. 2132][/us/stat/123/2132]; [Pub. L. 111–296, title IV, § 409][/us/pl/111/296/s409], Dec. 13, 2010, [124 Stat. 3260][/us/stat/124/3260].)
+([June 4, 1946, ch. 281, § 26][/us/act/1946-06-04/ch281/s26], as added [Pub. L. 103–448, title I, § 123][/us/pl/103/448/s123], Nov. 2, 1994, [108 Stat. 4731][/us/stat/108/4731]; amended [Pub. L. 105–336, title I][/us/pl/105/336], §§ 103(c)(2), 112, Oct. 31, 1998, [112 Stat. 3147][/us/stat/112/3147], 3157; [Pub. L. 108–265, title I, § 128][/us/pl/108/265/s128], June 30, 2004, [118 Stat. 767][/us/stat/118/767]; [Pub. L. 111–80, title VII, § 749(f)][/us/pl/111/80/s749/f], Oct. 21, 2009, [123 Stat. 2132][/us/stat/123/2132]; [Pub. L. 111–296, title IV, § 409][/us/pl/111/296/s409], Dec. 13, 2010, [124 Stat. 3260][/us/stat/124/3260]; [Pub. L. 114–113, div. A, title IV][/us/pl/114/113], , Dec. 18, 2015, [129 Stat. 2266][/us/stat/129/2266].)
 
  __Amendments__ 
+
+    2015—Subsec. (d). [Pub. L. 114–113][/us/pl/114/113] substituted “2010 through 2016” for “2010 through 2015” in first sentence.
 
     2010—Subsec. (d). [Pub. L. 111–296][/us/pl/111/296] substituted “2010 through 2015” for “2005 through 2010” in first sentence.
 
@@ -93,6 +95,9 @@
 [/us/stat/123/2132]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F2132
 [/us/pl/111/296/s409]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F296%2Fs409
 [/us/stat/124/3260]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3260
+[/us/pl/114/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113
+[/us/stat/129/2266]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F2266
+[/us/pl/114/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113
 [/us/pl/111/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F296
 [/us/pl/111/80]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F80
 [/us/pl/108/265]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F265

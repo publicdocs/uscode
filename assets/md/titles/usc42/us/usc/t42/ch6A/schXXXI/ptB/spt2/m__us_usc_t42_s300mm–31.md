@@ -137,7 +137,7 @@
 
                     (I) in accordance with such subparagraph; and
 
-                    (II) to such number, as determined by the Administrator based on the best available information and subject to amounts made available under [section 300mm–61 of this title][/us/usc/t42/s300mm–61], that will ensure sufficient funds will be available to provide treatment and monitoring benefits under this subchapter, with respect to all individuals receiving such certifications through the end of fiscal year 2020; and
+                    (II) to such number, as determined by the Administrator based on the best available information and subject to amounts made available under [section 300mm–61 of this title][/us/usc/t42/s300mm–61], that will ensure sufficient funds will be available to provide treatment and monitoring benefits under this subchapter, with respect to all individuals receiving such certifications; and
 
                 (ii) provide priority in such certifications in the order in which individuals apply for a determination under paragraph (2)(B).
 
@@ -159,7 +159,11 @@
 
             Benefits for an initial health evaluation under this subpart for a screening-eligible WTC survivor shall consist only of a single medical initial health evaluation consistent with initial health evaluation protocols described in paragraph (1). Nothing in this paragraph shall be construed as preventing such an individual from seeking additional medical initial health evaluations at the expense of the individual.
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XXXIII, § 3321, as added [Pub. L. 111–347, title I, § 101][/us/pl/111/347/s101], Jan. 2, 2011, [124 Stat. 3648][/us/stat/124/3648].)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XXXIII, § 3321, as added [Pub. L. 111–347, title I, § 101][/us/pl/111/347/s101], Jan. 2, 2011, [124 Stat. 3648][/us/stat/124/3648]; amended [Pub. L. 114–113, div. O, title III, § 302(f)][/us/pl/114/113/s302/f], Dec. 18, 2015, [129 Stat. 3000][/us/stat/129/3000].)
+
+ __Amendments__ 
+
+    2015—Subsec. (a)(3)(B)(i)(II). [Pub. L. 114–113][/us/pl/114/113] struck out “through the end of fiscal year 2020” after “certifications”.
 
 ----------
 
@@ -176,5 +180,8 @@
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
 [/us/pl/111/347/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F347%2Fs101
 [/us/stat/124/3648]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3648
+[/us/pl/114/113/s302/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs302%2Ff
+[/us/stat/129/3000]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F3000
+[/us/pl/114/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113
 
 

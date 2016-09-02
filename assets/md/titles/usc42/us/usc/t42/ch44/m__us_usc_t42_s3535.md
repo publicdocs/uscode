@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../..//us/usc/t42/ch44/m__us_usc_t42_s3534.md) | [Next](./../../../..//us/usc/t42/ch44/m__us_usc_t42_s3536.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3535)
+[Previous](./../../../..//us/usc/t42/ch44/m__us_usc_t42_s3534.md) | [Next](./../../../..//us/usc/t42/ch44/m__us_usc_t42_s3535a.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3535)
 
 ## § 3535. Administrative provisions
 
@@ -204,6 +204,8 @@
  __References in Text__ 
 
     This chapter, referred to in subsec. (c), was in the original “this Act”, meaning [Pub. L. 89–174][/us/pl/89/174], Sept. 9, 1965, [79 Stat. 667][/us/stat/79/667], which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 3531 of this title][/us/usc/t42/s3531] and Tables.
+
+    For establishment of the working capital fund, referred to in subsec. (f), see [section 3535a of this title][/us/usc/t42/s3535a].
 
     The National Housing Act, referred to in subsecs. (m) and (s)(2), is [act June 27, 1934, ch. 847][/us/act/1934-06-27/ch847], [48 Stat. 1246][/us/stat/48/1246], which is classified principally to chapter 13 (§ 1701 et seq.) of Title 12, Banks and Banking. Title II of the Act is classified principally to subchapter II (§ 1707 et seq.) of chapter 13 of Title 12. For complete classification of this Act to the Code, see [section 1701 of Title 12][/us/usc/t12/s1701] and Tables.
 
@@ -413,7 +415,7 @@
 
 ----------
 
-[Previous](./../../../..//us/usc/t42/ch44/m__us_usc_t42_s3534.md) | [Next](./../../../..//us/usc/t42/ch44/m__us_usc_t42_s3536.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3535)
+[Previous](./../../../..//us/usc/t42/ch44/m__us_usc_t42_s3534.md) | [Next](./../../../..//us/usc/t42/ch44/m__us_usc_t42_s3535a.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3535)
 
 ----------
 ----------
@@ -478,6 +480,7 @@
 [/us/pl/89/174]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F174
 [/us/stat/79/667]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F667
 [/us/usc/t42/s3531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3531
+[/us/usc/t42/s3535a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3535a
 [/us/act/1934-06-27/ch847]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-27%2Fch847
 [/us/stat/48/1246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F1246
 [/us/usc/t12/s1701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1701

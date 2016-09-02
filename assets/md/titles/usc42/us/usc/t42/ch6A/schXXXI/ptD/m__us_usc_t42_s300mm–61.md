@@ -23,19 +23,33 @@
 
         (2) __Funding__ 
 
-        Out of any money in the Treasury not otherwise appropriated, there shall be deposited into the Fund for each of fiscal years 2012 through 2016 (and the last calendar quarter of fiscal year 2011)—
+        Out of any money in the Treasury not otherwise appropriated, there shall be deposited into the Fund for fiscal year 2016 and each subsequent fiscal year through fiscal year 2090—
 
             (A)
 
-             the Federal share, consisting of an amount equal to the lesser of—
+             the Federal share, consisting of an amount equal to—
 
-                (i) 90 percent of the expenditures in carrying out this subchapter for the respective fiscal year (initially based on estimates, subject to subsequent reconciliation based on actual expenditures); or
+                (i) for fiscal year 2016, $330,000,000;
 
-                (ii)
+                (ii) for fiscal year 2017, $345,610,000;
 
-                    (I) $71,000,000 for the last calendar quarter of fiscal year 2011, $318,000,000 for fiscal year 2012, $354,000,000 for fiscal year 2013, $382,000,000 for fiscal year 2014, and $431,000,000 for fiscal year 2015; and
+                (iii) for fiscal year 2018, $380,000,000;
 
-                    (II) subject to paragraph (4), an additional amount for fiscal year 2016 from unexpended amounts for previous fiscal years; plus
+                (iv) for fiscal year 2019, $440,000,000;
+
+                (v) for fiscal year 2020, $485,000,000;
+
+                (vi) for fiscal year 2021, $501,000,000;
+
+                (vii) for fiscal year 2022, $518,000,000;
+
+                (viii) for fiscal year 2023, $535,000,000;
+
+                (ix) for fiscal year 2024, $552,000,000;
+
+                (x) for fiscal year 2025, $570,000,000; and
+
+                (xi) for each subsequent fiscal year through fiscal year 2090, the amount specified under this subparagraph for the previous fiscal year increased by the percentage increase in the consumer price index for all urban consumers (all items; United States city average) as estimated by the Secretary for the 12-month period ending with March of the previous year; plus
 
             (B) the New York City share, consisting of the amount contributed under the contract under [section 300mm–41(d) of this title][/us/usc/t42/s300mm–41/d].
 
@@ -55,15 +69,19 @@
 
                 (iii) the Federal share described in paragraph (2)(A) shall not be increased by the amount so unpaid.
 
-        (4) __Aggregate limitation on funding beginning with fiscal year 2016__ 
+        (4) __Amounts from prior fiscal years__ 
 
-            Beginning with fiscal year 2016, in no case shall the share of Federal funds deposited into the Fund under paragraph (2) for such fiscal year and previous fiscal years and quarters exceed the sum of the amounts specified in paragraph (2)(A)(ii)(I).
+            Amounts that were deposited, or identified for deposit, into the Fund for any fiscal year under paragraph (2), as such paragraph was in effect on the day before December 18, 2015, that were not expended in carrying out this subchapter for any such fiscal year, shall remain deposited, or be deposited, as the case may be, into the Fund.
+
+        (5) __Amounts to remain available until expended__ 
+
+            Amounts deposited into the Fund under this subsection, including amounts deposited under paragraph (2) as in effect on the day before December 18, 2015, for a fiscal year shall remain available, for the purposes described in this subchapter, until expended for such fiscal year and any subsequent fiscal year through fiscal year 2090.
 
     (b) __Mandatory funds for monitoring, initial health evaluations, treatment, and claims processing__ 
 
         (1) __In general__ 
 
-            The amounts deposited into the Fund under subsection (a)(2) shall be available, without further appropriation, consistent with paragraph (2) and subsection (c), to carry out part B and sections 300mm–1(a), 300mm–2, 300mm–3, 300mm–4(a)(2), 300mm–4(c), 300mm–51, and 300mm–52 of this title.
+            The amounts deposited into the Fund under subsection (a)(2) shall be available, without further appropriation, consistent with paragraph (2) and subsection (c), to carry out part B and sections 300mm(e), 300mm(f), 300mm–1(a), 300mm–1(b), 300mm–2, 300mm–3, 300mm–4(a)(1), 300mm–4(a)(2), 300mm–4(c), 300mm–51, and 300mm–52 of this title.
 
         (2) __Limitation on mandatory funding__ 
 
@@ -81,39 +99,29 @@
 
         For the purposes of carrying out part B with respect to WTC responders described in [section 300mm–21(a)(2)(A)(ii) of this title][/us/usc/t42/s300mm–21/a/2/A/ii]—
 
-            (A) for the last calendar quarter of fiscal year 2011, $100,000;
+            (A) for fiscal year 2016, the amount determined for such fiscal year under subparagraph (C)  <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  as in effect on the day before December 18, 2015; and
 
-            (B) for fiscal year 2012, $400,000; and
-
-            (C) for each subsequent fiscal year, the amount specified under this paragraph for the previous fiscal year increased by the percentage increase in the consumer price index for all urban consumers (all items; United States city average) as estimated by the Secretary for the 12-month period ending with March of the previous year.
+            (B) for each subsequent fiscal year, the amount specified under this paragraph for the previous fiscal year increased by the percentage increase in the consumer price index for all urban consumers (all items; United States city average) as estimated by the Secretary for the 12-month period ending with March of the previous year.
 
         (2) __WTC Health Program Scientific/Technical Advisory Committee__ 
 
         For the purpose of carrying out [section 300mm–1(a) of this title][/us/usc/t42/s300mm–1/a]—
 
-            (A) for the last calendar quarter of fiscal year 2011, $25,000;
+            (A) for fiscal year 2016, $200,000;  <sup>\[2\]</sup>  <sup><sup> 2 So in original. Probably should be followed by “and”. </sup></sup> 
 
-            (B) for fiscal year 2012, $100,000; and
-
-            (C) for each subsequent fiscal year, the amount specified under this paragraph for the previous fiscal year increased by the percentage increase in the consumer price index for all urban consumers (all items; United States city average) as estimated by the Secretary for the 12-month period ending with March of the previous year.
+            (B) for each subsequent fiscal year, the amount specified under this paragraph for the previous fiscal year increased by the percentage increase in the consumer price index for all urban consumers (all items; United States city average) as estimated by the Secretary for the 12-month period ending with March of the previous year.
 
         (3) __Education and outreach__ 
 
-        For the purpose of carrying out [section 300mm–2 of this title][/us/usc/t42/s300mm–2]—
-
-            (A) for the last calendar quarter of fiscal year 2011, $500,000;
-
-            (B) for fiscal year 2012, $2,000,000; and
-
-            (C) for each subsequent fiscal year, the amount specified under this paragraph for the previous fiscal year increased by the percentage increase in the consumer price index for all urban consumers (all items; United States city average) as estimated by the Secretary for the 12-month period ending with March of the previous year.
+            For the purpose of carrying out [section 300mm–2 of this title][/us/usc/t42/s300mm–2], for fiscal year 2016 and each subsequent fiscal year, $750,000.
 
         (4) __Uniform data collection__ 
 
         For the purpose of carrying out [section 300mm–3 of this title][/us/usc/t42/s300mm–3] and for reimbursing Data Centers (as defined in [section 300mm–4(b)(2) of this title][/us/usc/t42/s300mm–4/b/2]) for the costs incurred by such Centers in carrying out activities under contracts entered into under [section 300mm–4(a)(2) of this title][/us/usc/t42/s300mm–4/a/2]—
 
-            (A) for the last calendar quarter of fiscal year 2011, $2,500,000;
+            (A) for fiscal year 2016, the amount determined for such fiscal year under subparagraph (C) as in effect on the day before December 18, 2015;
 
-            (B) for fiscal year 2012, $10,000,000; and
+            (B) for fiscal year 2017, $15,000,000; and
 
             (C) for each subsequent fiscal year, the amount specified under this paragraph for the previous fiscal year increased by the percentage increase in the consumer price index for all urban consumers (all items; United States city average) as estimated by the Secretary for the 12-month period ending with March of the previous year.
 
@@ -121,23 +129,23 @@
 
         For the purpose of carrying out [section 300mm–51 of this title][/us/usc/t42/s300mm–51]—
 
-            (A) for the last calendar quarter of fiscal year 2011, $3,750,000;
+            (A) for fiscal year 2016, the amount determined for such fiscal year under subparagraph (C) 1 as in effect on the day before December 18, 2015; and
 
-            (B) for fiscal year 2012, $15,000,000; and
-
-            (C) for each subsequent fiscal year, the amount specified under this paragraph for the previous fiscal year increased by the percentage increase in the consumer price index for all urban consumers (all items; United States city average) as estimated by the Secretary for the 12-month period ending with March of the previous year.
+            (B) for each subsequent fiscal year, the amount specified under this paragraph for the previous fiscal year increased by the percentage increase in the consumer price index for all urban consumers (all items; United States city average) as estimated by the Secretary for the 12-month period ending with March of the previous year.
 
         (6) __World Trade Center Health Registry__ 
 
         For the purpose of carrying out [section 300mm–52 of this title][/us/usc/t42/s300mm–52]—
 
-            (A) for the last calendar quarter of fiscal year 2011, $1,750,000;
+            (A) for fiscal year 2016, the amount determined for such fiscal year under subparagraph (C) 1 as in effect on the day before December 18, 2015; and
 
-            (B) for fiscal year 2012, $7,000,000; and
+            (B) for each subsequent fiscal year, the amount specified under this paragraph for the previous fiscal year increased by the percentage increase in the consumer price index for all urban consumers (all items; United States city average) as estimated by the Secretary for the 12-month period ending with March of the previous year.
 
-            (C) for each subsequent fiscal year, the amount specified under this paragraph for the previous fiscal year increased by the percentage increase in the consumer price index for all urban consumers (all items; United States city average) as estimated by the Secretary for the 12-month period ending with March of the previous year.
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XXXIII, § 3351, as added [Pub. L. 111–347, title I, § 101][/us/pl/111/347/s101], Jan. 2, 2011, [124 Stat. 3657][/us/stat/124/3657]; amended [Pub. L. 114–113, div. O, title III, § 302(a)][/us/pl/114/113/s302/a], Dec. 18, 2015, [129 Stat. 2996][/us/stat/129/2996].)
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XXXIII, § 3351, as added [Pub. L. 111–347, title I, § 101][/us/pl/111/347/s101], Jan. 2, 2011, [124 Stat. 3657][/us/stat/124/3657].)
+ __References in Text__ 
+
+    Subparagraph (C) as in effect on the day before December 18, 2015, referred to in subsec. (c)(1)(A), (5)(A), (6)(A), refers to subpar. (C) as in effect on the day before the amendments made by [Pub. L. 114–113][/us/pl/114/113], which redesignated subpar. (C) as (B) in pars. (1), (5), and (6) of subsec. (c). See 2015 Amendment notes below.
 
  __Prior Provisions__ 
 
@@ -169,6 +177,52 @@
 
     A prior section 300aaa–13, [act July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XXVII, § 2714, formerly title XXI, § 2116, as added Apr. 7, 1986, [Pub. L. 99–272, title XVII, § 17003][/us/pl/99/272/s17003], [100 Stat. 359][/us/stat/100/359], and amended, which related to use of fiscal agents, was renumbered section 244 of title II of act July 1, 1944, by [Pub. L. 103–43, title XX, § 2010(a)(1)][/us/pl/103/43/s2010/a/1]–(3), June 10, 1993, [107 Stat. 213][/us/stat/107/213], and transferred to [section 238m of this title][/us/usc/t42/s238m].
 
+ __Amendments__ 
+
+    2015—Subsec. (a)(2). [Pub. L. 114–113, § 302(a)(1)(A)(i)][/us/pl/114/113/s302/a/1/A/i], substituted “fiscal year 2016 and each subsequent fiscal year through fiscal year 2090” for “each of fiscal years 2012 through 2016 (and the last calendar quarter of fiscal year 2011)” in introductory provisions.
+
+    Subsec. (a)(2)(A). [Pub. L. 114–113, § 302(a)(1)(A)(ii)][/us/pl/114/113/s302/a/1/A/ii], added subpar. (A) and struck out former subpar. (A) which read as follows: “the Federal share, consisting of an amount equal to the lesser of—
+
+    “(i) 90 percent of the expenditures in carrying out this subchapter for the respective fiscal year (initially based on estimates, subject to subsequent reconciliation based on actual expenditures); or
+
+    “(ii)(I) $71,000,000 for the last calendar quarter of fiscal year 2011, $318,000,000 for fiscal year 2012, $354,000,000 for fiscal year 2013, $382,000,000 for fiscal year 2014, and $431,000,000 for fiscal year 2015; and
+
+    “(II) subject to paragraph (4), an additional amount for fiscal year 2016 from unexpended amounts for previous fiscal years; plus”.
+
+    Subsec. (a)(4), (5). [Pub. L. 114–113, § 302(a)(1)(B)][/us/pl/114/113/s302/a/1/B], added pars. (4) and (5) and struck out former par. (4). Prior to amendment, text of par. (4) read as follows: “Beginning with fiscal year 2016, in no case shall the share of Federal funds deposited into the Fund under paragraph (2) for such fiscal year and previous fiscal years and quarters exceed the sum of the amounts specified in paragraph (2)(A)(ii)(I).”
+
+    Subsec. (b)(1). [Pub. L. 114–113, § 302(a)(2)][/us/pl/114/113/s302/a/2], substituted “sections 300mm(e), 300mm(f), 300mm–1(a), 300mm–1(b), 300mm–2, 300mm–3, 300mm–4(a)(1), 300mm–4(a)(2), 300mm–4(c), 300mm–51, and 300mm–52 of this title” for “sections 300mm–1(a), 300mm–2, 300mm–3, 300mm–4(a)(2), 300mm–4(c), 300mm–51, and 300mm–52 of this title”.
+
+    Subsec. (c)(1)(A). [Pub. L. 114–113, § 302(a)(3)(A)(iii)][/us/pl/114/113/s302/a/3/A/iii], amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “for the last calendar quarter of fiscal year 2011, $100,000;”.
+
+    Subsec. (c)(1)(B), (C). [Pub. L. 114–113, § 302(a)(3)(A)(i)][/us/pl/114/113/s302/a/3/A/i], (ii), redesignated subpar. (C) as (B) and struck out former subpar. (B) which read as follows: “for fiscal year 2012, $400,000; and”.
+
+    Subsec. (c)(2)(A). [Pub. L. 114–113, § 302(a)(3)(B)(i)][/us/pl/114/113/s302/a/3/B/i], amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “for the last calendar quarter of fiscal year 2011, $25,000;”.
+
+    Subsec. (c)(2)(B), (C). [Pub. L. 114–113, § 302(a)(3)(B)(ii)][/us/pl/114/113/s302/a/3/B/ii], (iii), redesignated subpar. (C) as (B) and struck out former subpar. (B) which read as follows: “for fiscal year 2012, $100,000; and”.
+
+    Subsec. (c)(3). [Pub. L. 114–113, § 302(a)(3)(C)][/us/pl/114/113/s302/a/3/C], substituted “[section 300mm–2 of this title][/us/usc/t42/s300mm–2], for fiscal year 2016 and each subsequent fiscal year, $750,000.” for “[section 300mm–2 of this title][/us/usc/t42/s300mm–2]—
+
+    “(A) for the last calendar quarter of fiscal year 2011, $500,000;
+
+    “(B) for fiscal year 2012, $2,000,000; and
+
+    “(C) for each subsequent fiscal year, the amount specified under this paragraph for the previous fiscal year increased by the percentage increase in the consumer price index for all urban consumers (all items; United States city average) as estimated by the Secretary for the 12-month period ending with March of the previous year.”
+
+    Subsec. (c)(4)(A), (B). [Pub. L. 114–113, § 302(a)(3)(D)][/us/pl/114/113/s302/a/3/D], added subpars. (A) and (B) and struck out former subpars. (A) and (B) which read as follows:
+
+    “(A) for the last calendar quarter of fiscal year 2011, $2,500,000;
+
+    “(B) for fiscal year 2012, $10,000,000; and”.
+
+    Subsec. (c)(5)(A). [Pub. L. 114–113, § 302(a)(3)(E)(iii)][/us/pl/114/113/s302/a/3/E/iii], amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “for the last calendar quarter of fiscal year 2011, $3,750,000;”.
+
+    Subsec. (c)(5)(B), (C). [Pub. L. 114–113, § 302(a)(3)(E)(i)][/us/pl/114/113/s302/a/3/E/i], (ii), redesignated subpar. (C) as (B) and struck out former subpar. (B) which read as follows: “for fiscal year 2012, $15,000,000; and”.
+
+    Subsec. (c)(6)(A). [Pub. L. 114–113, § 302(a)(3)(F)(iii)][/us/pl/114/113/s302/a/3/F/iii], amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “for the last calendar quarter of fiscal year 2011, $1,750,000;”.
+
+    Subsec. (c)(6)(B), (C). [Pub. L. 114–113, § 302(a)(3)(F)(i)][/us/pl/114/113/s302/a/3/F/i], (ii), redesignated subpar. (C) as (B) and struck out former subpar. (B) which read as follows: “for fiscal year 2012, $7,000,000; and”.
+
 ----------
 
 [Previous](./../../../../../..//us/usc/t42/ch6A/schXXXI/ptD/m__us_usc_t42_ch6A_schXXXI_ptD.md) | [Next](./../../../../../..//us/usc/t42/ch7/m__us_usc_t42_ch7.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300mm%E2%80%9361)
@@ -189,6 +243,9 @@
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
 [/us/pl/111/347/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F347%2Fs101
 [/us/stat/124/3657]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3657
+[/us/pl/114/113/s302/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs302%2Fa
+[/us/stat/129/2996]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F2996
+[/us/pl/114/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
 [/us/stat/58/709]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F58%2F709
 [/us/pl/103/43/s2010/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F43%2Fs2010%2Fa%2F1
@@ -265,5 +322,21 @@
 [/us/pl/103/43/s2010/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F43%2Fs2010%2Fa%2F1
 [/us/stat/107/213]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F213
 [/us/usc/t42/s238m]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs238m
+[/us/pl/114/113/s302/a/1/A/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs302%2Fa%2F1%2FA%2Fi
+[/us/pl/114/113/s302/a/1/A/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs302%2Fa%2F1%2FA%2Fii
+[/us/pl/114/113/s302/a/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs302%2Fa%2F1%2FB
+[/us/pl/114/113/s302/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs302%2Fa%2F2
+[/us/pl/114/113/s302/a/3/A/iii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs302%2Fa%2F3%2FA%2Fiii
+[/us/pl/114/113/s302/a/3/A/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs302%2Fa%2F3%2FA%2Fi
+[/us/pl/114/113/s302/a/3/B/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs302%2Fa%2F3%2FB%2Fi
+[/us/pl/114/113/s302/a/3/B/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs302%2Fa%2F3%2FB%2Fii
+[/us/pl/114/113/s302/a/3/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs302%2Fa%2F3%2FC
+[/us/usc/t42/s300mm–2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300mm%E2%80%932
+[/us/usc/t42/s300mm–2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300mm%E2%80%932
+[/us/pl/114/113/s302/a/3/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs302%2Fa%2F3%2FD
+[/us/pl/114/113/s302/a/3/E/iii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs302%2Fa%2F3%2FE%2Fiii
+[/us/pl/114/113/s302/a/3/E/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs302%2Fa%2F3%2FE%2Fi
+[/us/pl/114/113/s302/a/3/F/iii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs302%2Fa%2F3%2FF%2Fiii
+[/us/pl/114/113/s302/a/3/F/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs302%2Fa%2F3%2FF%2Fi
 
 

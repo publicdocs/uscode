@@ -173,6 +173,10 @@
 
             Whenever information or assistance requested under subparagraph (A) or (B) of paragraph (1) is, in the judgment of the Board, unreasonably refused or not provided, the Board shall report the circumstances to the head of the department, agency, or element concerned without delay. The head of the department, agency, or element concerned shall ensure that the Board is given access to the information, assistance, material, or personnel the Board determines to be necessary to carry out its functions.
 
+        (5) __Access__ 
+
+            Nothing in this section shall be construed to authorize the Board, or any agent thereof, to gain access to information regarding an activity covered by [section 3093(a) of title 50][/us/usc/t50/s3093/a].
+
     (h) __Membership__ 
 
         (1) __Members__ 
@@ -267,7 +271,7 @@
 
         (5) For fiscal year 2012 and each subsequent fiscal year, such sums as may be necessary.
 
-([Pub. L. 108–458, title I, § 1061][/us/pl/108/458/s1061], Dec. 17, 2004, [118 Stat. 3684][/us/stat/118/3684]; [Pub. L. 110–53, title VIII, § 801(a)][/us/pl/110/53/s801/a], Aug. 3, 2007, [121 Stat. 352][/us/stat/121/352].)
+([Pub. L. 108–458, title I, § 1061][/us/pl/108/458/s1061], Dec. 17, 2004, [118 Stat. 3684][/us/stat/118/3684]; [Pub. L. 110–53, title VIII, § 801(a)][/us/pl/110/53/s801/a], Aug. 3, 2007, [121 Stat. 352][/us/stat/121/352]; [Pub. L. 114–113, div. M, title III, § 305][/us/pl/114/113/s305], Dec. 18, 2015, [129 Stat. 2913][/us/stat/129/2913].)
 
  __References in Text__ 
 
@@ -280,6 +284,8 @@
     Section was formerly set out as a note under [section 601 of Title 5][/us/usc/t5/s601], Government Organization and Employees.
 
  __Amendments__ 
+
+    2015—Subsec. (g)(5). [Pub. L. 114–113][/us/pl/114/113] added par. (5).
 
     2007—[Pub. L. 110–53][/us/pl/110/53] amended section generally, substituting provisions relating to Privacy and Civil Liberties Oversight Board, consisting of subsecs. (a) to (m), for provisions relating to Privacy and Civil Liberties Oversight Board, consisting of subsecs. (a) to (l).
 
@@ -425,6 +431,7 @@
 [/us/usc/t6/s485]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs485
 [/us/usc/t42/s2000ee–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2000ee%E2%80%931
 [/us/usc/t42/s2000ee–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2000ee%E2%80%931
+[/us/usc/t50/s3093/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3093%2Fa
 [/us/usc/t5/s5314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5314
 [/us/usc/t5/s5315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5315
 [/us/usc/t5/s5316]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5316
@@ -434,11 +441,14 @@
 [/us/stat/118/3684]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F3684
 [/us/pl/110/53/s801/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53%2Fs801%2Fa
 [/us/stat/121/352]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F352
+[/us/pl/114/113/s305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs305
+[/us/stat/129/2913]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F2913
 [/us/usc/t5/s5703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5703
 [/us/pl/94/22/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F22%2Fs4
 [/us/stat/89/85]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F85
 [/us/pl/92/463/s3/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F463%2Fs3%2F2
 [/us/usc/t5/s601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs601
+[/us/pl/114/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113
 [/us/pl/110/53]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53
 [/us/pl/110/53/s801/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53%2Fs801%2Fd
 [/us/stat/121/358]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F358

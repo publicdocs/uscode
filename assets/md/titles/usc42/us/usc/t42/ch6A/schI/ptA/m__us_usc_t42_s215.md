@@ -71,7 +71,7 @@
 
 >     “(1) Subject to such requirements as the Civil Service Commission may prescribe, any commissioned officer of the Public Health Service (other than an officer who retires under section 211 of the Public Health Service Act \[[42 U.S.C. 212][/us/usc/t42/s212]\] after his election but prior to his transfer pursuant to this paragraph and paragraph (2)) who, upon the day before the effective date of Reorganization Plan Numbered 3 of 1970 (hereinafter in this subsection referred to as the ‘plan’), is serving as such officer (A) primarily in the performance of functions transferred by such plan to the Environmental Protection Agency or its Administrator (hereinafter in this subsection referred to as the ‘Agency’ and the ‘Administrator,’ respectively), may, if such officer so elects, acquire competitive status and be transferred to a competitive position in the Agency; or (B) primarily in the performance of functions determined by the Secretary of Health, Education, and Welfare (hereinafter in this subsection referred to as the ‘Secretary’) to be materially related to the functions so transferred, may, if authorized by agreement between the Secretary and the Administrator, and if such officer so elects, acquire such status and be so transferred.
 
->     “(2) An election pursuant to paragraph (1) shall be effective only if made in accordance with such procedures as may be prescribed by the Civil Service Commission (A) before the close of the 24th month after the effective date of the plan \[Dec. 2, 1970\], or (B) in the case of a commissioned officer who would be liable for training and service under the Military Selective Service Act of 1967 \[50 U.S.C. App. 451 et seq.\] but for the operation of section 6(b)(3) thereof (50 U.S.C. App. 456(b)(3)), before (if it occurs later than the close of such 24th month) the close of the 90th day after the day upon which he has completed his 24th month of service as such officer.
+>     “(2) An election pursuant to paragraph (1) shall be effective only if made in accordance with such procedures as may be prescribed by the Civil Service Commission (A) before the close of the 24th month after the effective date of the plan \[Dec. 2, 1970\], or (B) in the case of a commissioned officer who would be liable for training and service under the Military Selective Service Act of 1967 \[[50 U.S.C. 3801][/us/usc/t50/s3801] et seq.\] but for the operation of section 6(b)(3) thereof (50 U.S.C. App. 456(b)(3)) \[now [50 U.S.C. 3806(b)(3)][/us/usc/t50/s3806/b/3]\], before (if it occurs later than the close of such 24th month) the close of the 90th day after the day upon which he has completed his 24th month of service as such officer.
 
 >     “(3)
 
@@ -154,6 +154,8 @@
 [/us/pl/112/239/s1076/a/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs1076%2Fa%2F9
 [/us/stat/126/1948]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1948
 [/us/usc/t42/s212]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs212
+[/us/usc/t50/s3801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3801
+[/us/usc/t50/s3806/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3806%2Fb%2F3
 [/us/usc/t42/s212/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs212%2Fd
 [/us/usc/t5/s6304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs6304
 [/us/usc/t37/s474]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft37%2Fs474

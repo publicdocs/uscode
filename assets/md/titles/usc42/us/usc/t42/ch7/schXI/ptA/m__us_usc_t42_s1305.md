@@ -21,6 +21,10 @@
 
  __Short Title of 2015 Amendment__ 
 
+[Pub. L. 114–115, § 1][/us/pl/114/115/s1], Dec. 28, 2015, [129 Stat. 3131][/us/stat/129/3131], provided that: 
+
+> “This Act \[amending sections 1320a–7b, 1395w–4, 1395kk–1, 1395ww, 1395ddd, 1395iii, and 1396u–6 of this title and enacting provisions set out as notes under sections 1395w–4, 1395kk–1, and 1395ddd of this title\] may be cited as the ‘Patient Access and Medicare Protection Act’.”
+
 [Pub. L. 114–106, § 1][/us/pl/114/106/s1], Dec. 18, 2015, [129 Stat. 2222][/us/stat/129/2222], provided that: 
 
 > “This Act \[amending [section 1395w–23 of this title][/us/usc/t42/s1395w–23]\] may be cited as the ‘Securing Fairness in Regulatory Timing Act of 2015’.”
@@ -572,6 +576,8 @@
 
 [/us/act/1935-08-14/ch531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531
 [/us/stat/49/648]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F648
+[/us/pl/114/115/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F115%2Fs1
+[/us/stat/129/3131]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F3131
 [/us/pl/114/106/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F106%2Fs1
 [/us/stat/129/2222]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F2222
 [/us/usc/t42/s1395w–23]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395w%E2%80%9323

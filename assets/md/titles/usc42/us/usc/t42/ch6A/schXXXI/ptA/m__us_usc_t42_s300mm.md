@@ -155,7 +155,39 @@
 
         The WTC Program Administrator shall engage in ongoing outreach and consultation with relevant stakeholders, including the WTC Health Program Steering Committees and the Advisory Committee under [section 300mm–1 of this title][/us/usc/t42/s300mm–1], regarding the implementation and improvement of programs under this subchapter.
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XXXIII, § 3301, as added [Pub. L. 111–347, title I, § 101][/us/pl/111/347/s101], Jan. 2, 2011, [124 Stat. 3624][/us/stat/124/3624].)
+    (i) __GAO studies__ 
+
+        (1) __Report__ 
+
+        Not later than 18 months after December 18, 2015, the Comptroller General of the United States shall submit to the Committee on Energy and Commerce of the House of Representatives and the Committee on Health, Education, Labor, and Pensions of the Senate a report that assesses, with respect to the WTC Program, the effectiveness of each of the following:
+
+            (A) The quality assurance program developed and implemented under subsection (e).
+
+            (B) The procedures for providing certifications of coverage of conditions as WTC-related health conditions for enrolled WTC responders under [section 300mm–22(b)(2)(B)(iii) of this title][/us/usc/t42/s300mm–22/b/2/B/iii] and for screening-eligible WTC survivors and certified-eligible WTC survivors under such section as applied under [section 300mm–32(a) of this title][/us/usc/t42/s300mm–32/a].
+
+            (C) Any action under the WTC Program to ensure appropriate payment (including the avoidance of improper payments), including determining the extent to which individuals enrolled in the WTC Program are eligible for workers compensation or sources of health coverage, ascertaining the liability of such compensation or sources of health coverage, and making recommendations for ensuring effective and efficient coordination of benefits for individuals enrolled in the WTC Program that does not place an undue burden on such individuals.
+
+        (2) __Subsequent assessments__ 
+
+        Not later than 6 years and 6 months after December 18, 2015, and every 5 years thereafter through fiscal year 2042, the Comptroller General of the United States shall—
+
+            (A) consult the Committee on Energy and Commerce of the House of Representatives and the Committee on Health, Education, Labor, and Pensions of the Senate on the objectives in assessing the WTC Program; and
+
+            (B) prepare and submit to such Committees a report that assesses the WTC Program for the applicable reporting period, including the objectives described in subparagraph (A).
+
+    (j) __Regulations__ 
+
+        The WTC Program Administrator is authorized to promulgate such regulations as the Administrator determines necessary to administer this subchapter.
+
+    (k) __Termination__ 
+
+        The WTC Program shall terminate on October 1, 2090.
+
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XXXIII, § 3301, as added [Pub. L. 111–347, title I, § 101][/us/pl/111/347/s101], Jan. 2, 2011, [124 Stat. 3624][/us/stat/124/3624]; amended [Pub. L. 114–113, div. O, title III, § 302(b)][/us/pl/114/113/s302/b], Dec. 18, 2015, [129 Stat. 2998][/us/stat/129/2998].)
+
+ __Amendments__ 
+
+    2015—Subsecs. (i) to (k). [Pub. L. 114–113][/us/pl/114/113] added subsecs. (i) to (k).
 
 ----------
 
@@ -179,8 +211,13 @@
 [/us/usc/t42/s300mm–21/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300mm%E2%80%9321%2Fa%2F4
 [/us/usc/t42/s300mm–31/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300mm%E2%80%9331%2Fa%2F3
 [/us/usc/t42/s300mm–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300mm%E2%80%931
+[/us/usc/t42/s300mm–22/b/2/B/iii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300mm%E2%80%9322%2Fb%2F2%2FB%2Fiii
+[/us/usc/t42/s300mm–32/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300mm%E2%80%9332%2Fa
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
 [/us/pl/111/347/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F347%2Fs101
 [/us/stat/124/3624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3624
+[/us/pl/114/113/s302/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs302%2Fb
+[/us/stat/129/2998]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F2998
+[/us/pl/114/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113
 
 

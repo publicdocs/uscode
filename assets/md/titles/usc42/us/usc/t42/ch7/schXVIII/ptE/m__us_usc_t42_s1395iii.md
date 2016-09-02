@@ -23,7 +23,7 @@
 
         (1) __In general__ 
 
-            There shall be available to the Fund, for expenditures from the Fund for services furnished during and after fiscal year 2020, $205,000,000.
+            There shall be available to the Fund, for expenditures from the Fund for services furnished during and after fiscal year 2020, $0.
 
         (2) __Payment from Trust Funds__ 
 
@@ -37,11 +37,15 @@
 
             In the case that expenditures from the Fund are applied to, or otherwise affect, a payment rate for an item or service under this subchapter for a year, the payment rate for such item or service shall be computed for a subsequent year as if such application or effect had never occurred.
 
-([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title XVIII, § 1898, as added [Pub. L. 110–252, title VII, § 7002(a)][/us/pl/110/252/s7002/a], June 30, 2008, [122 Stat. 2394][/us/stat/122/2394]; amended [Pub. L. 110–275, title I, § 188(a)(2)(B)][/us/pl/110/275/s188/a/2/B], July 15, 2008, [122 Stat. 2589][/us/stat/122/2589]; [Pub. L. 110–379, § 6][/us/pl/110/379/s6], Oct. 8, 2008, [122 Stat. 4079][/us/stat/122/4079]; [Pub. L. 111–5, div. B, title IV, § 4103(b)][/us/pl/111/5/s4103/b], Feb. 17, 2009, [123 Stat. 487][/us/stat/123/487]; [Pub. L. 111–118, div. B, § 1011(b)][/us/pl/111/118/s1011/b], Dec. 19, 2009, [123 Stat. 3474][/us/stat/123/3474]; [Pub. L. 111–148, title III, § 3112][/us/pl/111/148/s3112], Mar. 23, 2010, [124 Stat. 421][/us/stat/124/421]; [Pub. L. 111–309, title II, § 207][/us/pl/111/309/s207], Dec. 15, 2010, [124 Stat. 3291][/us/stat/124/3291]; [Pub. L. 112–240, title VI, § 640][/us/pl/112/240/s640], Jan. 2, 2013, [126 Stat. 2357][/us/stat/126/2357]; [Pub. L. 113–82, § 3][/us/pl/113/82/s3], Feb. 15, 2014, [128 Stat. 1009][/us/stat/128/1009]; [Pub. L. 113–93, title II, § 219][/us/pl/113/93/s219], Apr. 1, 2014, [128 Stat. 1070][/us/stat/128/1070]; [Pub. L. 113–185, § 3(e)][/us/pl/113/185/s3/e], Oct. 6, 2014, [128 Stat. 1969][/us/stat/128/1969]; [Pub. L. 114–10, title V, § 518][/us/pl/114/10/s518], Apr. 16, 2015, [129 Stat. 175][/us/stat/129/175]; [Pub. L. 114–60, § 2(c)][/us/pl/114/60/s2/c], Oct. 7, 2015, [129 Stat. 544][/us/stat/129/544].)
+([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title XVIII, § 1898, as added [Pub. L. 110–252, title VII, § 7002(a)][/us/pl/110/252/s7002/a], June 30, 2008, [122 Stat. 2394][/us/stat/122/2394]; amended [Pub. L. 110–275, title I, § 188(a)(2)(B)][/us/pl/110/275/s188/a/2/B], July 15, 2008, [122 Stat. 2589][/us/stat/122/2589]; [Pub. L. 110–379, § 6][/us/pl/110/379/s6], Oct. 8, 2008, [122 Stat. 4079][/us/stat/122/4079]; [Pub. L. 111–5, div. B, title IV, § 4103(b)][/us/pl/111/5/s4103/b], Feb. 17, 2009, [123 Stat. 487][/us/stat/123/487]; [Pub. L. 111–118, div. B, § 1011(b)][/us/pl/111/118/s1011/b], Dec. 19, 2009, [123 Stat. 3474][/us/stat/123/3474]; [Pub. L. 111–148, title III, § 3112][/us/pl/111/148/s3112], Mar. 23, 2010, [124 Stat. 421][/us/stat/124/421]; [Pub. L. 111–309, title II, § 207][/us/pl/111/309/s207], Dec. 15, 2010, [124 Stat. 3291][/us/stat/124/3291]; [Pub. L. 112–240, title VI, § 640][/us/pl/112/240/s640], Jan. 2, 2013, [126 Stat. 2357][/us/stat/126/2357]; [Pub. L. 113–82, § 3][/us/pl/113/82/s3], Feb. 15, 2014, [128 Stat. 1009][/us/stat/128/1009]; [Pub. L. 113–93, title II, § 219][/us/pl/113/93/s219], Apr. 1, 2014, [128 Stat. 1070][/us/stat/128/1070]; [Pub. L. 113–185, § 3(e)][/us/pl/113/185/s3/e], Oct. 6, 2014, [128 Stat. 1969][/us/stat/128/1969]; [Pub. L. 114–10, title V, § 518][/us/pl/114/10/s518], Apr. 16, 2015, [129 Stat. 175][/us/stat/129/175]; [Pub. L. 114–60, § 2(c)][/us/pl/114/60/s2/c], Oct. 7, 2015, [129 Stat. 544][/us/stat/129/544]; [Pub. L. 114–113, div. O, title V, § 501][/us/pl/114/113/s501], Dec. 18, 2015, [129 Stat. 3018][/us/stat/129/3018]; [Pub. L. 114–115, § 5][/us/pl/114/115/s5], Dec. 28, 2015, [129 Stat. 3133][/us/stat/129/3133].)
 
  __Amendments__ 
 
-    2015—Subsec. (b)(1). [Pub. L. 114–60][/us/pl/114/60] substituted “$205,000,000” for “$0”.
+    2015—Subsec. (b)(1). [Pub. L. 114–115][/us/pl/114/115] substituted “$0” for “$5,000,000”.
+
+    [Pub. L. 114–113][/us/pl/114/113] substituted “$5,000,000” for “$205,000,000”.
+
+    [Pub. L. 114–60][/us/pl/114/60] substituted “$205,000,000” for “$0”.
 
     [Pub. L. 114–10][/us/pl/114/10] substituted “$0” for “$195,000,000”.
 
@@ -127,6 +131,12 @@
 [/us/stat/129/175]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F175
 [/us/pl/114/60/s2/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F60%2Fs2%2Fc
 [/us/stat/129/544]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F544
+[/us/pl/114/113/s501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs501
+[/us/stat/129/3018]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F3018
+[/us/pl/114/115/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F115%2Fs5
+[/us/stat/129/3133]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F3133
+[/us/pl/114/115]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F115
+[/us/pl/114/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113
 [/us/pl/114/60]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F60
 [/us/pl/114/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F10
 [/us/pl/113/185/s3/e/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F185%2Fs3%2Fe%2F1
