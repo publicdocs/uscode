@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t18/ptI/ch113B/m__us_usc_t18_s2332g.md) | [Next](./../../../../..//us/usc/t18/ptI/ch113B/m__us_usc_t18_s2333.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs2332h)
+[Previous](./../../../../..//us/usc/t18/ptI/ch113B/m__us_usc_t18_s2332g.md) | [Next](./../../../../..//us/usc/t18/ptI/ch113B/m__us_usc_t18_s2332i.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs2332h)
 
 ## § 2332h. Radiological dispersal devices
 
@@ -65,7 +65,7 @@
 
 ----------
 
-[Previous](./../../../../..//us/usc/t18/ptI/ch113B/m__us_usc_t18_s2332g.md) | [Next](./../../../../..//us/usc/t18/ptI/ch113B/m__us_usc_t18_s2333.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs2332h)
+[Previous](./../../../../..//us/usc/t18/ptI/ch113B/m__us_usc_t18_s2332g.md) | [Next](./../../../../..//us/usc/t18/ptI/ch113B/m__us_usc_t18_s2332i.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs2332h)
 
 ----------
 ----------

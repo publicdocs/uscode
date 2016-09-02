@@ -105,6 +105,14 @@
 
   <tr>
 
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs2332i" data-uslm-ref="/us/usc/t18/s2332i">2332i.</a>  </td>
+
+    <td> Acts of nuclear terrorism.  </td>
+
+  </tr>
+
+  <tr>
+
     <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs2333" data-uslm-ref="/us/usc/t18/s2333">2333.</a>  </td>
 
     <td> Civil remedies.  </td>
@@ -203,6 +211,8 @@
 
  __Amendments__ 
 
+    2015—[Pub. L. 114–23, title VIII, § 811(b)][/us/pl/114/23/s811/b], June 2, 2015, [129 Stat. 311][/us/stat/129/311], added item 2332i.
+
     2004—[Pub. L. 108–458, title VI, § 6911(a)][/us/pl/108/458/s6911/a], Dec. 17, 2004, [118 Stat. 3775][/us/stat/118/3775], added items 2332g and 2332h.
 
     2002—[Pub. L. 107–197, title I, § 102(b)][/us/pl/107/197/s102/b], title II, § 202(b), June 25, 2002, [116 Stat. 724][/us/stat/116/724], 727, added items 2332f and 2339C.
@@ -242,6 +252,8 @@
 [/us/stat/105/643]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F643
 [/us/pl/101/519/s132]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F519%2Fs132
 [/us/pl/101/519/s132]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F519%2Fs132
+[/us/pl/114/23/s811/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F23%2Fs811%2Fb
+[/us/stat/129/311]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F311
 [/us/pl/108/458/s6911/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2Fs6911%2Fa
 [/us/stat/118/3775]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F3775
 [/us/pl/107/197/s102/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F197%2Fs102%2Fb

@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t18/ptI/ch111/m__us_usc_t18_s2280.md) | [Next](./../../../../..//us/usc/t18/ptI/ch111/m__us_usc_t18_s2282A.1.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs2281)
+[Previous](./../../../../..//us/usc/t18/ptI/ch111/m__us_usc_t18_s2280a.md) | [Next](./../../../../..//us/usc/t18/ptI/ch111/m__us_usc_t18_s2281a.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs2281)
 
 ## § 2281. Violence against maritime fixed platforms
 
@@ -59,7 +59,7 @@
 
     (c)  __Bar To Prosecution__  __.—__ 
 
-    It is a bar to Federal prosecution under subsection (a) for conduct that occurred within the United States that the conduct involved was during or in relation to a labor dispute, and such conduct is prohibited as a felony under the law of the State in which it was committed. For purposes of this section, the term “labor dispute” has the meaning set forth in section 2(c)  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be section “13(c)”. </sup></sup>  of the Norris-LaGuardia Act, as amended ([29 U.S.C. 113(c)][/us/usc/t29/s113/c]), and the term “State” means a State of the United States, the District of Columbia, and any commonwealth, territory, or possession of the United States.
+    It is a bar to Federal prosecution under subsection (a) for conduct that occurred within the United States that the conduct involved was during or in relation to a labor dispute, and such conduct is prohibited as a felony under the law of the State in which it was committed. For purposes of this section, the term “labor dispute” has the meaning set forth in section 13(c) of the Norris-LaGuardia Act, as amended ([29 U.S.C. 113(c)][/us/usc/t29/s113/c]), and the term “State” means a State of the United States, the District of Columbia, and any commonwealth, territory, or possession of the United States.
 
     (d)  __Definitions__  __.—__ 
 
@@ -67,15 +67,23 @@
 
         “fixed platform” means an artificial island, installation or structure permanently attached to the sea-bed for the purpose of exploration or exploitation of resources or for other economic purposes.
 
-        “national of the United States” has the meaning stated in section 101(a)(22) of the Immigration and Nationality Act ([8 U.S.C. 1101(a)(22)][/us/usc/t8/s1101/a/22]).
+    (e)  __Exceptions__  __.—__ 
 
-        “territorial sea of the United States” means all waters extending seaward to 12 nautical miles from the baselines of the United States determined in accordance with international law.
+    This section does not apply to—
 
-        “United States”, when used in a geographical sense, includes the Commonwealth of Puerto Rico, the Commonwealth of the Northern Mariana Islands and all territories and possessions of the United States.
+        (1) the activities of armed forces during an armed conflict, as those terms are understood under the law of war, which are governed by that law; or
 
-(Added [Pub. L. 103–322, title VI, § 60019(a)][/us/pl/103/322/s60019/a], Sept. 13, 1994, [108 Stat. 1977][/us/stat/108/1977]; amended [Pub. L. 104–132, title VII, § 723(a)(1)][/us/pl/104/132/s723/a/1], Apr. 24, 1996, [110 Stat. 1300][/us/stat/110/1300]; [Pub. L. 104–294, title VI, § 607(p)][/us/pl/104/294/s607/p], Oct. 11, 1996, [110 Stat. 3513][/us/stat/110/3513].)
+        (2) activities undertaken by military forces of a state in the exercise of their official duties.
+
+(Added [Pub. L. 103–322, title VI, § 60019(a)][/us/pl/103/322/s60019/a], Sept. 13, 1994, [108 Stat. 1977][/us/stat/108/1977]; amended [Pub. L. 104–132, title VII, § 723(a)(1)][/us/pl/104/132/s723/a/1], Apr. 24, 1996, [110 Stat. 1300][/us/stat/110/1300]; [Pub. L. 104–294, title VI, § 607(p)][/us/pl/104/294/s607/p], Oct. 11, 1996, [110 Stat. 3513][/us/stat/110/3513]; [Pub. L. 114–23, title VIII, § 803][/us/pl/114/23/s803], June 2, 2015, [129 Stat. 307][/us/stat/129/307].)
 
  __Amendments__ 
+
+    2015—Subsec. (c). [Pub. L. 114–23, § 803(1)][/us/pl/114/23/s803/1], substituted “section 13(c)” for “section 2(c)”.
+
+    Subsec. (d). [Pub. L. 114–23, § 803(2)][/us/pl/114/23/s803/2], struck out definitions of “national of the United States”, “territorial sea of the United States”, and “United States”.
+
+    Subsec. (e). [Pub. L. 114–23, § 803(3)][/us/pl/114/23/s803/3], added subsec. (e).
 
     1996—Subsec. (a)(1)(F). [Pub. L. 104–132][/us/pl/104/132] inserted “or conspires” after “attempts”.
 
@@ -89,25 +97,34 @@
 
     For extension of territorial sea of United States, see Proc. No. 5928, set out as a note under [section 1331 of Title 43][/us/usc/t43/s1331], Public Lands.
 
+ __Definitions__ 
+
+    For definitions of terms used in this section, see [section 2280(d) of this title][/us/usc/t18/s2280/d].
+
 ----------
 
-[Previous](./../../../../..//us/usc/t18/ptI/ch111/m__us_usc_t18_s2280.md) | [Next](./../../../../..//us/usc/t18/ptI/ch111/m__us_usc_t18_s2282A.1.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs2281)
+[Previous](./../../../../..//us/usc/t18/ptI/ch111/m__us_usc_t18_s2280a.md) | [Next](./../../../../..//us/usc/t18/ptI/ch111/m__us_usc_t18_s2281a.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs2281)
 
 ----------
 ----------
 
 [/us/usc/t29/s113/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs113%2Fc
-[/us/usc/t8/s1101/a/22]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1101%2Fa%2F22
 [/us/pl/103/322/s60019/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs60019%2Fa
 [/us/stat/108/1977]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1977
 [/us/pl/104/132/s723/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F132%2Fs723%2Fa%2F1
 [/us/stat/110/1300]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1300
 [/us/pl/104/294/s607/p]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F294%2Fs607%2Fp
 [/us/stat/110/3513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3513
+[/us/pl/114/23/s803]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F23%2Fs803
+[/us/stat/129/307]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F307
+[/us/pl/114/23/s803/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F23%2Fs803%2F1
+[/us/pl/114/23/s803/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F23%2Fs803%2F2
+[/us/pl/114/23/s803/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F23%2Fs803%2F3
 [/us/pl/104/132]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F132
 [/us/pl/104/294]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F294
 [/us/pl/103/322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322
 [/us/usc/t18/s2280]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs2280
 [/us/usc/t43/s1331]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs1331
+[/us/usc/t18/s2280/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs2280%2Fd
 
 

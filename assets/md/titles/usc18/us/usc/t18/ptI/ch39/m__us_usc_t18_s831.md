@@ -37,7 +37,9 @@
 
             (C) uses fraud and thereby obtains nuclear material or nuclear byproduct material belonging to another;
 
-        (3)
+        (3) without lawful authority, intentionally carries, sends or moves nuclear material into or out of a country;
+
+        (4)
 
          knowingly—
 
@@ -47,15 +49,15 @@
 
             and thereby takes nuclear material or nuclear byproduct material belonging to another from the person or presence of any other;
 
-        (4) intentionally intimidates any person and thereby obtains nuclear material or nuclear byproduct material belonging to another;
+        (5) intentionally intimidates any person and thereby obtains nuclear material or nuclear byproduct material belonging to another;
 
-        (5) with intent to compel any person, international organization, or governmental entity to do or refrain from doing any act, knowingly threatens to engage in conduct described in paragraph (2)(A) or (3) of this subsection;
+        (6) with intent to compel any person, international organization, or governmental entity to do or refrain from doing any act, knowingly threatens to engage in conduct described in paragraph (2)(A) or (3) of this subsection;
 
-        (6) knowingly threatens to use nuclear material or nuclear byproduct material to cause death or serious bodily injury to any person or substantial damage to property or to the environment under circumstances in which the threat may reasonably be understood as an expression of serious purposes;
+        (7) knowingly threatens to use nuclear material or nuclear byproduct material to cause death or serious bodily injury to any person or substantial damage to property or to the environment under circumstances in which the threat may reasonably be understood as an expression of serious purposes;
 
-        (7) attempts to commit an offense under paragraph (1), (2), (3), or (4) of this subsection; or
+        (8) attempts to commit any act prohibited under paragraphs (1) through (5) of this subsection; or
 
-        (8) is a party to a conspiracy of two or more persons to commit an offense under paragraph (1), (2), (3), or (4) of this subsection, if any of the parties intentionally engages in any conduct in furtherance of such offense;
+        (9) is a party to a conspiracy of two or more persons to commit any act prohibited under paragraphs (1) through (7) of this subsection, if any of the parties intentionally engages in any conduct in furtherance of such offense;
 
         shall be punished as provided in subsection (b) of this section.
 
@@ -65,7 +67,7 @@
 
         (1)
 
-         paragraphs (1) through (7) of subsection (a) of this section is—
+         paragraphs (1) through (8) of subsection (a) of this section is—
 
             (A) a fine under this title; and
 
@@ -79,7 +81,7 @@
 
         (2)
 
-         paragraph (8) of subsection (a) of this section is—
+         paragraph (9) of subsection (a) of this section is—
 
             (A) a fine under this title; and
 
@@ -101,25 +103,31 @@
 
          an offender or a victim is—
 
-            (A) a national of the United States; or
+            (A) a national of the United States or a stateless person whose habitual residence is in the United States; or
 
             (B) a United States corporation or other legal entity;
 
         (3) after the conduct required for the offense occurs the defendant is found in the United States, even if the conduct required for the offense occurs outside the United States;
 
-        (4) the conduct required for the offense occurs with respect to the carriage of a consignment of nuclear material or nuclear byproduct material by any means of transportation intended to go beyond the territory of the state where the shipment originates beginning with the departure from a facility of the shipper in that state and ending with the arrival at a facility of the receiver within the state of ultimate destination and either of such states is the United States; or
+        (4) the conduct required for the offense occurs with respect to the carriage of a consignment of nuclear material or nuclear byproduct material by any means of transportation intended to go beyond the territory of the state where the shipment originates beginning with the departure from a facility of the shipper in that state and ending with the arrival at a facility of the receiver within the state of ultimate destination and either of such states is the United States;
 
-        (5)
+        (5) the offense is committed on board a vessel of the United States or a vessel subject to the jurisdiction of the United States (as defined in [section 70502 of title 46][/us/usc/t46/s70502]) or on board an aircraft that is registered under United States law, at the time the offense is committed;
 
-         either—
+        (6) the offense is committed outside the United States and against any state or government facility of the United States; or
 
-            (A) the governmental entity under subsection (a)(5) is the United States; or
+        (7) the offense is committed in an attempt to compel the United States to do or abstain from doing any act, or constitutes a threat directed at the United States.
 
-            (B) the threat under subsection (a)(6) is directed at the United States.
+    (d)  __Nonapplicability__  __.—__ 
 
-    (d) The Attorney General may request assistance from the Secretary of Defense under chapter 18 of title 10 in the enforcement of this section and the Secretary of Defense may provide such assistance in accordance with chapter 18 of title 10, except that the Secretary of Defense may provide such assistance through any Department of Defense personnel.
+    This section does not apply to—
 
-    (e)
+        (1) the activities of armed forces during an armed conflict, as those terms are understood under the law of war, which are governed by that law; or
+
+        (2) activities undertaken by military forces of a state in the exercise of their official duties.
+
+    (e) The Attorney General may request assistance from the Secretary of Defense under chapter 18 of title 10 in the enforcement of this section and the Secretary of Defense may provide such assistance in accordance with chapter 18 of title 10, except that the Secretary of Defense may provide such assistance through any Department of Defense personnel.
+
+    (f)
 
         (1)
 
@@ -155,7 +163,7 @@
 
         (5) The Attorney General may delegate the Attorney General’s function under this subsection only to a Deputy, Associate, or Assistant Attorney General.
 
-    (f)
+    (g)
 
      As used in this section—
 
@@ -201,17 +209,49 @@
 
             (E) any other injury to the body, no matter how temporary;
 
-        (6) the term “national of the United States” has the same meaning as in section 101(a)(22) of the Immigration and Nationality Act ([8 U.S.C. 1101(a)(22)][/us/usc/t8/s1101/a/22]); and
+        (6) the term “national of the United States” has the same meaning as in section 101(a)(22) of the Immigration and Nationality Act ([8 U.S.C. 1101(a)(22)][/us/usc/t8/s1101/a/22]);
 
-        (7) the term “United States corporation or other legal entity” means any corporation or other entity organized under the laws of the United States or any State, Commonwealth, territory, possession, or district of the United States.
+        (7) the term “United States corporation or other legal entity” means any corporation or other entity organized under the laws of the United States or any State, Commonwealth, territory, possession, or district of the United States;
 
-(Added [Pub. L. 97–351, § 2(a)][/us/pl/97/351/s2/a], Oct. 18, 1982, [96 Stat. 1663][/us/stat/96/1663]; amended [Pub. L. 100–690, title VII, § 7022][/us/pl/100/690/s7022], Nov. 18, 1988, [102 Stat. 4397][/us/stat/102/4397]; [Pub. L. 103–272, § 5(e)(6)][/us/pl/103/272/s5/e/6], July 5, 1994, [108 Stat. 1374][/us/stat/108/1374]; [Pub. L. 103–322, title XXXIII, § 330016(2)(C)][/us/pl/103/322/s330016/2/C], Sept. 13, 1994, [108 Stat. 2148][/us/stat/108/2148]; [Pub. L. 104–132, title V, § 502][/us/pl/104/132/s502], Apr. 24, 1996, [110 Stat. 1282][/us/stat/110/1282].)
+        (8) the term “armed conflict” has the meaning given that term in [section 2332f(e)(11) of this title][/us/usc/t18/s2332f/e/11];
+
+        (9) the term “military forces of a state” means the armed forces of a country that are organized, trained and equipped under its internal law for the primary purpose of national defense or security and persons acting in support of those armed forces who are under their formal command, control and responsibility;
+
+        (10) the term “state” has the same meaning as that term has under international law, and includes all political subdivisions thereof;
+
+        (11) the term “state or government facility” has the meaning given that term in [section 2332f(e)(3) of this title][/us/usc/t18/s2332f/e/3]; and
+
+        (12) the term “vessel of the United States” has the meaning given that term in [section 70502 of title 46][/us/usc/t46/s70502].
+
+(Added [Pub. L. 97–351, § 2(a)][/us/pl/97/351/s2/a], Oct. 18, 1982, [96 Stat. 1663][/us/stat/96/1663]; amended [Pub. L. 100–690, title VII, § 7022][/us/pl/100/690/s7022], Nov. 18, 1988, [102 Stat. 4397][/us/stat/102/4397]; [Pub. L. 103–272, § 5(e)(6)][/us/pl/103/272/s5/e/6], July 5, 1994, [108 Stat. 1374][/us/stat/108/1374]; [Pub. L. 103–322, title XXXIII, § 330016(2)(C)][/us/pl/103/322/s330016/2/C], Sept. 13, 1994, [108 Stat. 2148][/us/stat/108/2148]; [Pub. L. 104–132, title V, § 502][/us/pl/104/132/s502], Apr. 24, 1996, [110 Stat. 1282][/us/stat/110/1282]; [Pub. L. 114–23, title VIII, § 812][/us/pl/114/23/s812], June 2, 2015, [129 Stat. 311][/us/stat/129/311].)
 
  __Prior Provisions__ 
 
     A prior section 831, acts [June 25, 1948, ch. 645][/us/act/1948-06-25/ch645], [62 Stat. 738][/us/stat/62/738]; Sept. 6, 1960, [Pub. L. 86–710][/us/pl/86/710], [74 Stat. 808][/us/stat/74/808]; July 27, 1965, [Pub. L. 89–95][/us/pl/89/95], [79 Stat. 285][/us/stat/79/285]; Oct. 17, 1978, [Pub. L. 95–473][/us/pl/95/473]; § 2(a)(1)(A), [92 Stat. 1464][/us/stat/92/1464], defined terms used in this chapter, prior to repeal by [Pub. L. 96–129, title II, § 216(b)][/us/pl/96/129/s216/b], Nov. 30, 1979, [93 Stat. 1015][/us/stat/93/1015]. For savings provisions regarding former section 831, see [section 218 of Pub. L. 96–129][/us/pl/96/129/s218], set out as a note under former sections 832 to 835 of this title.
 
  __Amendments__ 
+
+    2015—Subsec. (a)(3) to (7). [Pub. L. 114–23, § 812(a)(1)][/us/pl/114/23/s812/a/1], (2), added par. (3) and redesignated former pars. (3) to (6) as (4) to (7), respectively. Former par. (7) redesignated (8).
+
+    Subsec. (a)(8). [Pub. L. 114–23, § 812(a)(1)][/us/pl/114/23/s812/a/1], (3), redesignated par. (7) as (8) and substituted “any act prohibited under paragraphs (1) through (5)” for “an offense under paragraph (1), (2), (3), or (4)”.
+
+    Subsec. (a)(9). [Pub. L. 114–23, § 812(a)(1)][/us/pl/114/23/s812/a/1], (4), redesignated par. (8) as (9) and substituted “any act prohibited under paragraphs (1) through (7)” for “an offense under paragraph (1), (2), (3), or (4)”.
+
+    Subsec. (b)(1). [Pub. L. 114–23, § 812(b)(1)][/us/pl/114/23/s812/b/1], substituted “through (8)” for “through (7)” in introductory provisions.
+
+    Subsec. (b)(2). [Pub. L. 114–23, § 812(b)(2)][/us/pl/114/23/s812/b/2], substituted “paragraph (9)” for “paragraph (8)” in introductory provisions.
+
+    Subsec. (c)(2)(A). [Pub. L. 114–23, § 812(c)(1)][/us/pl/114/23/s812/c/1], inserted “or a stateless person whose habitual residence is in the United States” before semicolon.
+
+    Subsec. (c)(5) to (7). [Pub. L. 114–23, § 812(c)(2)][/us/pl/114/23/s812/c/2]–(4), added pars. (5) to (7) and struck out former par. (5) which read as follows: “either—
+
+    “(A) the governmental entity under subsection (a)(5) is the United States; or
+
+    “(B) the threat under subsection (a)(6) is directed at the United States.”
+
+    Subsecs. (d) to (g). [Pub. L. 114–23, § 812(d)][/us/pl/114/23/s812/d], (e), added subsec. (d) and redesignated former subsecs. (d) to (f) as (e) to (g), respectively.
+
+    Subsec. (g)(8) to (12). [Pub. L. 114–23, § 812(f)][/us/pl/114/23/s812/f], added pars. (8) to (12).
 
     1996—Subsec. (a). [Pub. L. 104–132, § 502(1)(A)][/us/pl/104/132/s502/1/A], substituted “nuclear material or nuclear byproduct material” for “nuclear material” wherever appearing.
 
@@ -293,9 +333,13 @@
 ----------
 
 [/us/usc/t49/s46501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs46501
+[/us/usc/t46/s70502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs70502
 [/us/usc/t18/s1385]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs1385
 [/us/usc/t22/s288]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs288
 [/us/usc/t8/s1101/a/22]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1101%2Fa%2F22
+[/us/usc/t18/s2332f/e/11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs2332f%2Fe%2F11
+[/us/usc/t18/s2332f/e/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs2332f%2Fe%2F3
+[/us/usc/t46/s70502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs70502
 [/us/pl/97/351/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F351%2Fs2%2Fa
 [/us/stat/96/1663]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1663
 [/us/pl/100/690/s7022]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2Fs7022
@@ -306,6 +350,8 @@
 [/us/stat/108/2148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2148
 [/us/pl/104/132/s502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F132%2Fs502
 [/us/stat/110/1282]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1282
+[/us/pl/114/23/s812]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F23%2Fs812
+[/us/stat/129/311]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F311
 [/us/act/1948-06-25/ch645]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch645
 [/us/stat/62/738]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F738
 [/us/pl/86/710]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F710
@@ -317,6 +363,15 @@
 [/us/pl/96/129/s216/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F129%2Fs216%2Fb
 [/us/stat/93/1015]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F1015
 [/us/pl/96/129/s218]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F129%2Fs218
+[/us/pl/114/23/s812/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F23%2Fs812%2Fa%2F1
+[/us/pl/114/23/s812/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F23%2Fs812%2Fa%2F1
+[/us/pl/114/23/s812/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F23%2Fs812%2Fa%2F1
+[/us/pl/114/23/s812/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F23%2Fs812%2Fb%2F1
+[/us/pl/114/23/s812/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F23%2Fs812%2Fb%2F2
+[/us/pl/114/23/s812/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F23%2Fs812%2Fc%2F1
+[/us/pl/114/23/s812/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F23%2Fs812%2Fc%2F2
+[/us/pl/114/23/s812/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F23%2Fs812%2Fd
+[/us/pl/114/23/s812/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F23%2Fs812%2Ff
 [/us/pl/104/132/s502/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F132%2Fs502%2F1%2FA
 [/us/pl/104/132/s502/1/B/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F132%2Fs502%2F1%2FB%2Fi
 [/us/pl/104/132/s502/1/B/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F132%2Fs502%2F1%2FB%2Fii

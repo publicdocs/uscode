@@ -83,7 +83,7 @@
 
     On an annual basis, the Attorney General shall submit to the Committee on the Judiciary of the House of Representatives and the Committee on the Judiciary of the Senate a report containing—
 
-        (1) the number of accounts from which the Department of Justice has received voluntary disclosures under subsection (b)(8); and
+        (1) the number of accounts from which the Department of Justice has received voluntary disclosures under subsection (b)(8);
 
         (2)
 
@@ -91,11 +91,15 @@
 
             (A) voluntary disclosures under subsection (b)(8) were made to the Department of Justice; and
 
-            (B) the investigation pertaining to those disclosures was closed without the filing of criminal charges.
+            (B) the investigation pertaining to those disclosures was closed without the filing of criminal charges; and
 
-(Added [Pub. L. 99–508, title II, § 201][/us/pl/99/508/s201]\[(a)\], Oct. 21, 1986, [100 Stat. 1860][/us/stat/100/1860]; amended [Pub. L. 100–690, title VII, § 7037][/us/pl/100/690/s7037], Nov. 18, 1988, [102 Stat. 4399][/us/stat/102/4399]; [Pub. L. 105–314, title VI, § 604(b)][/us/pl/105/314/s604/b], Oct. 30, 1998, [112 Stat. 2984][/us/stat/112/2984]; [Pub. L. 107–56, title II, § 212(a)(1)][/us/pl/107/56/s212/a/1], Oct. 26, 2001, [115 Stat. 284][/us/stat/115/284]; [Pub. L. 107–296, title II, § 225(d)(1)][/us/pl/107/296/s225/d/1], Nov. 25, 2002, [116 Stat. 2157][/us/stat/116/2157]; [Pub. L. 108–21, title V, § 508(b)][/us/pl/108/21/s508/b], Apr. 30, 2003, [117 Stat. 684][/us/stat/117/684]; [Pub. L. 109–177, title I, § 107(a)][/us/pl/109/177/s107/a], (b)(1), (c), Mar. 9, 2006, [120 Stat. 202][/us/stat/120/202], 203; [Pub. L. 110–401, title V, § 501(b)(2)][/us/pl/110/401/s501/b/2], Oct. 13, 2008, [122 Stat. 4251][/us/stat/122/4251].)
+        (3) the number of accounts from which the Department of Justice has received voluntary disclosures under subsection (c)(4).
+
+(Added [Pub. L. 99–508, title II, § 201][/us/pl/99/508/s201]\[(a)\], Oct. 21, 1986, [100 Stat. 1860][/us/stat/100/1860]; amended [Pub. L. 100–690, title VII, § 7037][/us/pl/100/690/s7037], Nov. 18, 1988, [102 Stat. 4399][/us/stat/102/4399]; [Pub. L. 105–314, title VI, § 604(b)][/us/pl/105/314/s604/b], Oct. 30, 1998, [112 Stat. 2984][/us/stat/112/2984]; [Pub. L. 107–56, title II, § 212(a)(1)][/us/pl/107/56/s212/a/1], Oct. 26, 2001, [115 Stat. 284][/us/stat/115/284]; [Pub. L. 107–296, title II, § 225(d)(1)][/us/pl/107/296/s225/d/1], Nov. 25, 2002, [116 Stat. 2157][/us/stat/116/2157]; [Pub. L. 108–21, title V, § 508(b)][/us/pl/108/21/s508/b], Apr. 30, 2003, [117 Stat. 684][/us/stat/117/684]; [Pub. L. 109–177, title I, § 107(a)][/us/pl/109/177/s107/a], (b)(1), (c), Mar. 9, 2006, [120 Stat. 202][/us/stat/120/202], 203; [Pub. L. 110–401, title V, § 501(b)(2)][/us/pl/110/401/s501/b/2], Oct. 13, 2008, [122 Stat. 4251][/us/stat/122/4251]; [Pub. L. 114–23, title VI, § 602(d)][/us/pl/114/23/s602/d], June 2, 2015, [129 Stat. 295][/us/stat/129/295].)
 
  __Amendments__ 
+
+    2015—Subsec. (d)(3). [Pub. L. 114–23][/us/pl/114/23] added par. (3).
 
     2008—Subsecs. (b)(6), (c)(5). [Pub. L. 110–401][/us/pl/110/401] substituted “section 2258A” for “section 227 of the Victims of Child Abuse Act of 1990 ([42 U.S.C. 13032][/us/usc/t42/s13032])”.
 
@@ -172,6 +176,9 @@
 [/us/stat/120/202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F202
 [/us/pl/110/401/s501/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F401%2Fs501%2Fb%2F2
 [/us/stat/122/4251]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4251
+[/us/pl/114/23/s602/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F23%2Fs602%2Fd
+[/us/stat/129/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F295
+[/us/pl/114/23]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F23
 [/us/pl/110/401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F401
 [/us/usc/t42/s13032]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs13032
 [/us/pl/109/177/s107/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F177%2Fs107%2Fc

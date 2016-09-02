@@ -19,7 +19,7 @@
 
         (1)  __Unlawful conduct__  __.—__ 
 
-        Whoever knowingly provides material support or resources to a foreign terrorist organization, or attempts or conspires to do so, shall be fined under this title or imprisoned not more than 15 years, or both, and, if the death of any person results, shall be imprisoned for any term of years or for life. To violate this paragraph, a person must have knowledge that the organization is a designated terrorist organization (as defined in subsection (g)(6)), that the organization has engaged or engages in terrorist activity (as defined in section 212(a)(3)(B) of the Immigration and Nationality Act), or that the organization has engaged or engages in terrorism (as defined in section 140(d)(2) of the Foreign Relations Authorization Act, Fiscal Years 1988 and 1989).
+        Whoever knowingly provides material support or resources to a foreign terrorist organization, or attempts or conspires to do so, shall be fined under this title or imprisoned not more than 20 years, or both, and, if the death of any person results, shall be imprisoned for any term of years or for life. To violate this paragraph, a person must have knowledge that the organization is a designated terrorist organization (as defined in subsection (g)(6)), that the organization has engaged or engages in terrorist activity (as defined in section 212(a)(3)(B) of the Immigration and Nationality Act), or that the organization has engaged or engages in terrorism (as defined in section 140(d)(2) of the Foreign Relations Authorization Act, Fiscal Years 1988 and 1989).
 
         (2)  __Financial institutions__  __.—__ 
 
@@ -211,7 +211,7 @@
 
     No person may be prosecuted under this section in connection with the term “personnel”, “training”, or “expert advice or assistance” if the provision of that material support or resources to a foreign terrorist organization was approved by the Secretary of State with the concurrence of the Attorney General. The Secretary of State may not approve the provision of any material support that may be used to carry out terrorist activity (as defined in section 212(a)(3)(B)(iii) of the Immigration and Nationality Act).
 
-(Added [Pub. L. 104–132, title III, § 303(a)][/us/pl/104/132/s303/a], Apr. 24, 1996, [110 Stat. 1250][/us/stat/110/1250]; amended [Pub. L. 107–56, title VIII, § 810(d)][/us/pl/107/56/s810/d], Oct. 26, 2001, [115 Stat. 380][/us/stat/115/380]; [Pub. L. 108–458, title VI, § 6603(c)][/us/pl/108/458/s6603/c]–(f), Dec. 17, 2004, [118 Stat. 3762][/us/stat/118/3762], 3763; [Pub. L. 111–16, § 3(6)][/us/pl/111/16/s3/6]–(8), May 7, 2009, [123 Stat. 1608][/us/stat/123/1608].)
+(Added [Pub. L. 104–132, title III, § 303(a)][/us/pl/104/132/s303/a], Apr. 24, 1996, [110 Stat. 1250][/us/stat/110/1250]; amended [Pub. L. 107–56, title VIII, § 810(d)][/us/pl/107/56/s810/d], Oct. 26, 2001, [115 Stat. 380][/us/stat/115/380]; [Pub. L. 108–458, title VI, § 6603(c)][/us/pl/108/458/s6603/c]–(f), Dec. 17, 2004, [118 Stat. 3762][/us/stat/118/3762], 3763; [Pub. L. 111–16, § 3(6)][/us/pl/111/16/s3/6]–(8), May 7, 2009, [123 Stat. 1608][/us/stat/123/1608]; [Pub. L. 114–23, title VII, § 704][/us/pl/114/23/s704], June 2, 2015, [129 Stat. 300][/us/stat/129/300].)
 
  __References in Text__ 
 
@@ -226,6 +226,8 @@
     Section 219 of the Immigration and Nationality Act, referred to in subsec. (g)(6), is classified to [section 1189 of Title 8][/us/usc/t8/s1189], Aliens and Nationality.
 
  __Amendments__ 
+
+    2015—Subsec. (a)(1). [Pub. L. 114–23][/us/pl/114/23] substituted “20 years” for “15 years”.
 
     2009—Subsec. (f)(5)(B)(ii). [Pub. L. 111–16, § 3(6)][/us/pl/111/16/s3/6], substituted “14 days” for “10 days”.
 
@@ -291,10 +293,13 @@
 [/us/stat/118/3762]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F3762
 [/us/pl/111/16/s3/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F16%2Fs3%2F6
 [/us/stat/123/1608]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1608
+[/us/pl/114/23/s704]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F23%2Fs704
+[/us/stat/129/300]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F300
 [/us/usc/t8/s1182/a/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1182%2Fa%2F3%2FB
 [/us/usc/t22/s2656f/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2656f%2Fd%2F2
 [/us/pl/95/456/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F456%2Fs1%2Fa
 [/us/usc/t8/s1189]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1189
+[/us/pl/114/23]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F23
 [/us/pl/111/16/s3/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F16%2Fs3%2F6
 [/us/pl/111/16/s3/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F16%2Fs3%2F7
 [/us/pl/111/16/s3/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F16%2Fs3%2F8

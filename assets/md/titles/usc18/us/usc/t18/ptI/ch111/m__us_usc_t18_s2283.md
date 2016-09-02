@@ -45,7 +45,7 @@
 
         (5)  __Nuclear material__  __.—__ 
 
-        The term “nuclear material” has the meaning given that term in section 831(f)(1).
+        The term “nuclear material” has the meaning given that term in section 831(f)(1). <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup> 
 
         (6)  __Radioactive material__  __.—__ 
 
@@ -59,7 +59,7 @@
 
             (D) all refined isotopes of radium.
 
-        (8)  __ <sup>\[__  __1__  __\]</sup> __  __ <sup><sup> __  __1__  __ So in original. No par. (7) has been enacted.__  __ </sup></sup> __   __Source material__  __.—__ 
+        (8)  __ <sup>\[__  __2__  __\]</sup> __  __ <sup><sup> __  __2__  __ So in original. No par. (7) has been enacted.__  __ </sup></sup> __   __Source material__  __.—__ 
 
         The term “source material” has the meaning given that term in section 11(z) of the Atomic Energy Act of 1954 ([42 U.S.C. 2014(z)][/us/usc/t42/s2014/z]).
 
@@ -68,6 +68,10 @@
         The term “special nuclear material” has the meaning given that term in section 11(aa) of the Atomic Energy Act of 1954 ([42 U.S.C. 2014(aa)][/us/usc/t42/s2014/aa]).
 
 (Added [Pub. L. 109–177, title III, § 305(a)][/us/pl/109/177/s305/a], Mar. 9, 2006, [120 Stat. 236][/us/stat/120/236].)
+
+ __References in Text__ 
+
+    Section 831(f)(1), referred to in subsec. (c)(5), was redesignated as section 831(g)(1) by [Pub. L. 114–23, title VIII, § 812(d)][/us/pl/114/23/s812/d], June 2, 2015, [129 Stat. 312][/us/stat/129/312].
 
 ----------
 
@@ -81,5 +85,7 @@
 [/us/usc/t42/s2014/aa]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2014%2Faa
 [/us/pl/109/177/s305/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F177%2Fs305%2Fa
 [/us/stat/120/236]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F236
+[/us/pl/114/23/s812/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F23%2Fs812%2Fd
+[/us/stat/129/312]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F312
 
 

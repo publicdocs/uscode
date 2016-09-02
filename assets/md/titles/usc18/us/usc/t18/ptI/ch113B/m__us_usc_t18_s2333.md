@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t18/ptI/ch113B/m__us_usc_t18_s2332h.md) | [Next](./../../../../..//us/usc/t18/ptI/ch113B/m__us_usc_t18_s2334.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs2333)
+[Previous](./../../../../..//us/usc/t18/ptI/ch113B/m__us_usc_t18_s2332i.md) | [Next](./../../../../..//us/usc/t18/ptI/ch113B/m__us_usc_t18_s2334.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs2333)
 
 ## § 2333. Civil remedies
 
@@ -45,7 +45,7 @@
 
 ----------
 
-[Previous](./../../../../..//us/usc/t18/ptI/ch113B/m__us_usc_t18_s2332h.md) | [Next](./../../../../..//us/usc/t18/ptI/ch113B/m__us_usc_t18_s2334.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs2333)
+[Previous](./../../../../..//us/usc/t18/ptI/ch113B/m__us_usc_t18_s2332i.md) | [Next](./../../../../..//us/usc/t18/ptI/ch113B/m__us_usc_t18_s2334.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs2333)
 
 ----------
 ----------

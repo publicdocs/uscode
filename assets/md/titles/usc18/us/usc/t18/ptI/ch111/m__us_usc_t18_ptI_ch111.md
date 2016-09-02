@@ -105,9 +105,25 @@
 
   <tr>
 
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs2280a" data-uslm-ref="/us/usc/t18/s2280a">2280a.</a>  </td>
+
+    <td> Violence against maritime navigation and maritime transport involving weapons of mass destruction.  </td>
+
+  </tr>
+
+  <tr>
+
     <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs2281" data-uslm-ref="/us/usc/t18/s2281">2281.</a>  </td>
 
     <td> Violence against maritime fixed platforms.  </td>
+
+  </tr>
+
+  <tr>
+
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs2281a" data-uslm-ref="/us/usc/t18/s2281a">2281a.</a>  </td>
+
+    <td> Additional offenses against maritime fixed platforms.  </td>
 
   </tr>
 
@@ -155,6 +171,8 @@
 
  __Amendments__ 
 
+    2015—[Pub. L. 114–23, title VIII][/us/pl/114/23], §§ 802(b), 804(b), June 2, 2015, [129 Stat. 307][/us/stat/129/307], 308, added items 2280a and 2281a.
+
     2008—[Pub. L. 110–407, title I, § 102(b)][/us/pl/110/407/s102/b], Oct. 13, 2008, [122 Stat. 4298][/us/stat/122/4298], added item 2285.
 
     2006—[Pub. L. 109–177, title III][/us/pl/109/177], §§ 304(b)(2), 305(b), Mar. 9, 2006, [120 Stat. 235][/us/stat/120/235], 237, added items 2282B, 2283, and 2284.
@@ -172,6 +190,8 @@
 ----------
 ----------
 
+[/us/pl/114/23]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F23
+[/us/stat/129/307]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F307
 [/us/pl/110/407/s102/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F407%2Fs102%2Fb
 [/us/stat/122/4298]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4298
 [/us/pl/109/177]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F177
