@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../../..//us/usc/t38/ptIV/ch57/schI/m__us_usc_t38_s5704.md) | [Next](./../../../../../..//us/usc/t38/ptIV/ch57/schII/m__us_usc_t38_ptIV_ch57_schII.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs5705)
+[Previous](./../../../../../..//us/usc/t38/ptIV/ch57/schI/m__us_usc_t38_s5704.md) | [Next](./../../../../../..//us/usc/t38/ptIV/ch57/schI/m__us_usc_t38_s5706.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs5705)
 
 ## § 5705. Confidentiality of medical quality-assurance records
 
@@ -109,7 +109,7 @@
 
 ----------
 
-[Previous](./../../../../../..//us/usc/t38/ptIV/ch57/schI/m__us_usc_t38_s5704.md) | [Next](./../../../../../..//us/usc/t38/ptIV/ch57/schII/m__us_usc_t38_ptIV_ch57_schII.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs5705)
+[Previous](./../../../../../..//us/usc/t38/ptIV/ch57/schI/m__us_usc_t38_s5704.md) | [Next](./../../../../../..//us/usc/t38/ptIV/ch57/schI/m__us_usc_t38_s5706.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs5705)
 
 ----------
 ----------

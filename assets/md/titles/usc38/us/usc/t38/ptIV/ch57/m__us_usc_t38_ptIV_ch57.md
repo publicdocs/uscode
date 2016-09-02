@@ -73,6 +73,14 @@ SUBCHAPTER I—RECORDS  </td>
 
   <tr>
 
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs5706" data-uslm-ref="/us/usc/t38/s5706">5706.</a>  </td>
+
+    <td> Veterans identification card.  </td>
+
+  </tr>
+
+  <tr>
+
     <td> 
 
 SUBCHAPTER II—INVESTIGATIONS  </td>
@@ -179,6 +187,8 @@ SUBCHAPTER III—INFORMATION SECURITY  </td>
 
  __Amendments__ 
 
+    2015—[Pub. L. 114–31, § 2(c)][/us/pl/114/31/s2/c], July 20, 2015, [129 Stat. 430][/us/stat/129/430], added item 5706.
+
     2006—[Pub. L. 109–461, title IX, § 902(b)][/us/pl/109/461/s902/b], Dec. 22, 2006, [120 Stat. 3460][/us/stat/120/3460], added item for subchapter III and items 5721 to 5728.
 
     1991—[Pub. L. 102–54, § 14(d)(5)(B)][/us/pl/102/54/s14/d/5/B], (6)(C), June 13, 1991, [105 Stat. 286][/us/stat/105/286], amended table of sections at beginning of chapter as in effect immediately before the enactment of [Pub. L. 102–40][/us/pl/102/40] by substituting “subpoenas” for “subpenas” in item 3311 and “subpoena” for “subpena” in item 3313.
@@ -194,6 +204,8 @@ SUBCHAPTER III—INFORMATION SECURITY  </td>
 ----------
 ----------
 
+[/us/pl/114/31/s2/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F31%2Fs2%2Fc
+[/us/stat/129/430]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F430
 [/us/pl/109/461/s902/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F461%2Fs902%2Fb
 [/us/stat/120/3460]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F3460
 [/us/pl/102/54/s14/d/5/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F54%2Fs14%2Fd%2F5%2FB
