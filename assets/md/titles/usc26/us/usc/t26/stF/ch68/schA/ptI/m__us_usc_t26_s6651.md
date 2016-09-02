@@ -25,7 +25,7 @@
 
         (3) to pay any amount in respect of any tax required to be shown on a return specified in paragraph (1) which is not so shown (including an assessment made pursuant to section 6213(b)) within 21 calendar days from the date of notice and demand therefor (10 business days if the amount for which such notice and demand is made equals or exceeds $100,000), unless it is shown that such failure is due to reasonable cause and not due to willful neglect, there shall be added to the amount of tax stated in such notice and demand 0.5 percent of the amount of such tax if the failure is for not more than 1 month, with an additional 0.5 percent for each additional month or fraction thereof during which such failure continues, not exceeding 25 percent in the aggregate.
 
-        In the case of a failure to file a return of tax imposed by chapter 1 within 60 days of the date prescribed for filing of such return (determined with regard to any extensions of time for filing), unless it is shown that such failure is due to reasonable cause and not due to willful neglect, the addition to tax under paragraph (1) shall not be less than the lesser of $135 or 100 percent of the amount required to be shown as tax on such return.
+        In the case of a failure to file a return of tax imposed by chapter 1 within 60 days of the date prescribed for filing of such return (determined with regard to any extensions of time for filing), unless it is shown that such failure is due to reasonable cause and not due to willful neglect, the addition to tax under paragraph (1) shall not be less than the lesser of $205 or 100 percent of the amount required to be shown as tax on such return.
 
     (b) __Penalty imposed on net amount due__ 
 
@@ -89,19 +89,23 @@
 
         (1) __In general__ 
 
-            In the case of any return required to be filed in a calendar year beginning after 2014, the $135 dollar amount under subsection (a) shall be increased by such dollar amount multiplied by the cost-of-living adjustment determined under section 1(f)(3) determined by substituting “calendar year 2013” for “calendar year 1992” in subparagraph (B) thereof.
+            In the case of any return required to be filed in a calendar year beginning after 2014, the $205 dollar amount under subsection (a) shall be increased by such dollar amount multiplied by the cost-of-living adjustment determined under section 1(f)(3) determined by substituting “calendar year 2013” for “calendar year 1992” in subparagraph (B) thereof.
 
         (2) __Rounding__ 
 
             If any amount adjusted under paragraph (1) is not a multiple of $5, such amount shall be rounded to the next lowest multiple of $5.
 
-([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 821][/us/stat/68A/821]; [Pub. L. 90–364, title I][/us/pl/90/364/tI], § 103(e)(4), June 28, 1968, [82 Stat. 264][/us/stat/82/264]; [Pub. L. 91–172, title IX][/us/pl/91/172/tIX], § 943(a), Dec. 30, 1969, [83 Stat. 727][/us/stat/83/727]; [Pub. L. 92–9][/us/pl/92/9], § 3(j)(1), Apr. 1, 1971, [85 Stat. 22][/us/stat/85/22]; [Pub. L. 94–455, title XIX][/us/pl/94/455/tXIX], § 1904(b)(10)(A)(v), Oct. 4, 1976, [90 Stat. 1817][/us/stat/90/1817]; [Pub. L. 97–248, title III][/us/pl/97/248/tIII], § 318(a), (b), Sept. 3, 1982, [96 Stat. 610][/us/stat/96/610]; [Pub. L. 98–369, div. A, title IV][/us/pl/98/369/dA/tIV], § 412(b)(8), July 18, 1984, [98 Stat. 792][/us/stat/98/792]; [Pub. L. 99–514, title XV][/us/pl/99/514/tXV], § 1502(a), (b), Oct. 22, 1986, [100 Stat. 2741][/us/stat/100/2741]; [Pub. L. 100–203, title X][/us/pl/100/203/tX], § 10301(b)(6), Dec. 22, 1987, [101 Stat. 1330–429][/us/stat/101/1330-429]; [Pub. L. 101–239, title VII][/us/pl/101/239/tVII], § 7741(a), Dec. 19, 1989, [103 Stat. 2404][/us/stat/103/2404]; [Pub. L. 104–168, title III][/us/pl/104/168/tIII], § 303(b)(2), title XIII, § 1301(a), July 30, 1996, [110 Stat. 1458][/us/stat/110/1458], 1475; [Pub. L. 105–206, title III][/us/pl/105/206/tIII], § 3303(a), July 22, 1998, [112 Stat. 742][/us/stat/112/742]; [Pub. L. 110–245, title III][/us/pl/110/245/tIII], § 303(a), June 17, 2008, [122 Stat. 1649][/us/stat/122/1649]; [Pub. L. 113–295, div. B, title II][/us/pl/113/295/dB/tII], § 208(a), Dec. 19, 2014, [128 Stat. 4072][/us/stat/128/4072].)
+([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 821][/us/stat/68A/821]; [Pub. L. 90–364, title I][/us/pl/90/364/tI], § 103(e)(4), June 28, 1968, [82 Stat. 264][/us/stat/82/264]; [Pub. L. 91–172, title IX][/us/pl/91/172/tIX], § 943(a), Dec. 30, 1969, [83 Stat. 727][/us/stat/83/727]; [Pub. L. 92–9][/us/pl/92/9], § 3(j)(1), Apr. 1, 1971, [85 Stat. 22][/us/stat/85/22]; [Pub. L. 94–455, title XIX][/us/pl/94/455/tXIX], § 1904(b)(10)(A)(v), Oct. 4, 1976, [90 Stat. 1817][/us/stat/90/1817]; [Pub. L. 97–248, title III][/us/pl/97/248/tIII], § 318(a), (b), Sept. 3, 1982, [96 Stat. 610][/us/stat/96/610]; [Pub. L. 98–369, div. A, title IV][/us/pl/98/369/dA/tIV], § 412(b)(8), July 18, 1984, [98 Stat. 792][/us/stat/98/792]; [Pub. L. 99–514, title XV][/us/pl/99/514/tXV], § 1502(a), (b), Oct. 22, 1986, [100 Stat. 2741][/us/stat/100/2741]; [Pub. L. 100–203, title X][/us/pl/100/203/tX], § 10301(b)(6), Dec. 22, 1987, [101 Stat. 1330–429][/us/stat/101/1330-429]; [Pub. L. 101–239, title VII][/us/pl/101/239/tVII], § 7741(a), Dec. 19, 1989, [103 Stat. 2404][/us/stat/103/2404]; [Pub. L. 104–168, title III][/us/pl/104/168/tIII], § 303(b)(2), title XIII, § 1301(a), July 30, 1996, [110 Stat. 1458][/us/stat/110/1458], 1475; [Pub. L. 105–206, title III][/us/pl/105/206/tIII], § 3303(a), July 22, 1998, [112 Stat. 742][/us/stat/112/742]; [Pub. L. 110–245, title III][/us/pl/110/245/tIII], § 303(a), June 17, 2008, [122 Stat. 1649][/us/stat/122/1649]; [Pub. L. 113–295, div. B, title II][/us/pl/113/295/dB/tII], § 208(a), Dec. 19, 2014, [128 Stat. 4072][/us/stat/128/4072]; [Pub. L. 114–125, title IX][/us/pl/114/125/tIX], § 921(a), (b), Feb. 24, 2016, [130 Stat. 281][/us/stat/130/281].)
 
  __Inflation Adjusted Items for Certain Years__ 
 
     For inflation adjustment of certain items in this section, see Revenue Procedures listed in a table under [section 1 of this title][/us/usc/t26/s1].
 
  __Amendments__ 
+
+    2016—Subsec. (a). [Pub. L. 114–125][/us/pl/114/125], § 921(a), substituted “$205” for “$135” in concluding provisions.
+
+    Subsec. (i)(1). [Pub. L. 114–125][/us/pl/114/125], § 921(b), substituted “$205” for “$135”.
 
     2014—Subsec. (i). [Pub. L. 113–295][/us/pl/113/295] added subsec. (i).
 
@@ -140,6 +144,12 @@
     Subsecs. (c), (d). [Pub. L. 91–172][/us/pl/91/172] added subsec. (c), redesignated former subsec. (c) as (d) and struck out reference to [section 6016 of this title][/us/usc/t26/s6016] and provided that this section would not be applicable for failure to pay any estimated tax required under section 6153 or 6154 of this title.
 
     1968—Subsec. (c). [Pub. L. 90–364][/us/pl/90/364] struck out reference to section 6016.
+
+ __Effective Date of 2016 Amendment__ 
+
+[Pub. L. 114–125, title IX][/us/pl/114/125/tIX], § 921(c), Feb. 24, 2016, [130 Stat. 281][/us/stat/130/281], provided that: 
+
+> “The amendments made by this section \[amending this section\] shall apply to returns required to be filed in calendar years after 2015.”
 
  __Effective Date of 2014 Amendment__ 
 
@@ -288,7 +298,11 @@
 [/us/stat/122/1649]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1649
 [/us/pl/113/295/dB/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2FdB%2FtII
 [/us/stat/128/4072]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F4072
+[/us/pl/114/125/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F125%2FtIX
+[/us/stat/130/281]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F130%2F281
 [/us/usc/t26/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs1
+[/us/pl/114/125]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F125
+[/us/pl/114/125]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F125
 [/us/pl/113/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295
 [/us/pl/110/245]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F245
 [/us/pl/105/206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206
@@ -309,6 +323,8 @@
 [/us/pl/91/172]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F172
 [/us/usc/t26/s6016]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs6016
 [/us/pl/90/364]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F364
+[/us/pl/114/125/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F125%2FtIX
+[/us/stat/130/281]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F130%2F281
 [/us/pl/113/295/dB/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2FdB%2FtII
 [/us/stat/128/4074]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F4074
 [/us/pl/110/245/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F245%2FtIII

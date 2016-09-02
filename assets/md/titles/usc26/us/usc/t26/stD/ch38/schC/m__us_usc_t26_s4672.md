@@ -29,7 +29,7 @@
 
             (A) the substance is contained in the list under paragraph (3), or
 
-            (B) the Secretary determines, in consultation with the Administrator of the Environmental Protection Agency and the Commissioner of Customs, that taxable chemicals constitute more than 50 percent of the weight (or more than 50 percent of the value) of the materials used to produce such substance (determined on the basis of the predominant method of production).
+            (B) the Secretary determines, in consultation with the Administrator of the Environmental Protection Agency and the Commissioner of U.S. Customs and Border Protection, that taxable chemicals constitute more than 50 percent of the weight (or more than 50 percent of the value) of the materials used to produce such substance (determined on the basis of the predominant method of production).
 
             If an importer or exporter of any substance requests that the Secretary determine whether such substance be listed as a taxable substance under paragraph (1) or be removed from such listing, the Secretary shall make such determination within 180 days after the date the request was filed.
 
@@ -365,7 +365,7 @@
 
         The provisions of subsections (a)(3) and (b)(3) of section 7652 shall not apply to any tax imposed by section 4671.
 
-(Added [Pub. L. 99–499, title V][/us/pl/99/499/tV], § 515(a), Oct. 17, 1986, [100 Stat. 1768][/us/stat/100/1768]; amended [Pub. L. 100–647, title II][/us/pl/100/647/tII], § 2001(b), Nov. 10, 1988, [102 Stat. 3594][/us/stat/102/3594].)
+(Added [Pub. L. 99–499, title V][/us/pl/99/499/tV], § 515(a), Oct. 17, 1986, [100 Stat. 1768][/us/stat/100/1768]; amended [Pub. L. 100–647, title II][/us/pl/100/647/tII], § 2001(b), Nov. 10, 1988, [102 Stat. 3594][/us/stat/102/3594]; [Pub. L. 114–125, title VIII][/us/pl/114/125/tVIII], § 802(d)(2), Feb. 24, 2016, [130 Stat. 210][/us/stat/130/210].)
 
  __Amendments__ 
 
@@ -378,6 +378,10 @@
     “(A) In general.—The Secretary may add substances to or remove substances from the list under paragraph (3) (including items listed by reason of paragraph (2)) as necessary to carry out the purposes of this subchapter.
 
     “(B) Authority to add substances to list based on value.—The Secretary may, to the extent necessary to carry out the purposes of this subchapter, add any substance to the list under paragraph (3) if such substance would be described in paragraph (2)(B) if ‘value’ were substituted for ‘weight’ therein.”
+
+ __Change of Name__ 
+
+    “Commissioner of U.S. Customs and Border Protection” substituted for “Commissioner of Customs” in subsec. (a)(2)(B) on authority of [section 802(d)(2) of Pub. L. 114–125][/us/pl/114/125/s802/d/2], set out as a note under [section 211 of Title 6][/us/usc/t6/s211], Domestic Security.
 
  __Effective Date of 1988 Amendment__ 
 
@@ -402,9 +406,13 @@
 [/us/stat/100/1768]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1768
 [/us/pl/100/647/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2FtII
 [/us/stat/102/3594]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3594
+[/us/pl/114/125/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F125%2FtVIII
+[/us/stat/130/210]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F130%2F210
 [/us/pl/100/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647
 [/us/pl/100/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647
 [/us/pl/100/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647
+[/us/pl/114/125/s802/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F125%2Fs802%2Fd%2F2
+[/us/usc/t6/s211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs211
 [/us/pl/100/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647
 [/us/pl/99/499/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F499%2FtV
 [/us/pl/100/647/s2001/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs2001%2Fe
