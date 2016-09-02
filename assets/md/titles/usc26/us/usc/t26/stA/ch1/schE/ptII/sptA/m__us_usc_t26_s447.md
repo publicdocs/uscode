@@ -453,7 +453,7 @@
 
 > “If—
 
->     “(A) a farming syndicate (within the meaning of section 464(c) of the Internal Revenue Code of 1954) was in existence on December 31, 1975, and
+>     “(A) a farming syndicate (within the meaning of \[former\] section 464(c) of the Internal Revenue Code of 1954 \[now [26 U.S.C. 461(j)][/us/usc/t26/s461/j]\]) was in existence on December 31, 1975, and
 
 >     “(B) such syndicate elects an accrual method of accounting (including the capitalization of preproductive period expenses described in section 447(b) of such Code) for a taxable year beginning before January 1, 1979,
 
@@ -580,6 +580,7 @@
 [/us/stat/92/2846]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2846
 [/us/pl/95/600/s703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F600%2Fs703
 [/us/stat/92/2906]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2906
+[/us/usc/t26/s461/j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs461%2Fj
 [/us/pl/94/455/s207/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs207%2Fc%2F3
 [/us/stat/90/1541]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1541
 [/us/pl/99/514/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs2

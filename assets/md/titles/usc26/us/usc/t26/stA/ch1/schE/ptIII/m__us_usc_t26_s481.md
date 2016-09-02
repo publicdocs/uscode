@@ -53,19 +53,15 @@
 
             (B) The increase or decrease in the tax for any taxable year for which an assessment of any deficiency, or a credit or refund of any overpayment, is prevented by any law or rule of law, shall be determined by reference to the tax previously determined (within the meaning of section 1314(a)) for such year.
 
-            (C) In applying section 7807(b)(1), the provisions of chapter 1 (other than subchapter E, relating to self-employment income) and chapter 2 of the Internal Revenue Code of 1939 shall be treated as the corresponding provisions of the Internal Revenue Code of 1939.
-
     (c) __Adjustments under regulations__ 
 
         In the case of any change described in subsection (a), the taxpayer may, in such manner and subject to such conditions as the Secretary may by regulations prescribe, take the adjustments required by subsection (a)(2) into account in computing the tax imposed by this chapter for the taxable year or years permitted under such regulations.
 
-([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 160][/us/stat/68A/160]; [Pub. L. 85–866, title I, § 29(a)][/us/pl/85/866/s29/a], (b), Sept. 2, 1958, [72 Stat. 1626–1628][/us/stat/72/1626-1628]; [Pub. L. 91–172, title V, § 512(f)(4)][/us/pl/91/172/s512/f/4], Dec. 30, 1969, [83 Stat. 641][/us/stat/83/641]; [Pub. L. 94–455, title XIX][/us/pl/94/455], §§ 1901(a)(70), 1906(b)(13)(A), Oct. 4, 1976, [90 Stat. 1776][/us/stat/90/1776], 1834; [Pub. L. 96–471, § 2(b)(3)][/us/pl/96/471/s2/b/3], Oct. 19, 1980, [94 Stat. 2254][/us/stat/94/2254].)
-
- __References in Text__ 
-
-    The Internal Revenue Code of 1939, referred to in subsec. (b)(3)(C), is [act Feb. 10, 1939, ch. 2][/us/act/1939-02-10/ch2], [53 Stat. 1][/us/stat/53/1], as amended. Prior to the enactment of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\], the 1939 Code was classified to former Title 26, Internal Revenue Code. Chapters 1 and 2 of the Internal Revenue Code of 1939 were comprised of sections 1 to 482 and 500 to 784, respectively, of former Title 26. Chapters 1 (except sections 143 and 144) and 2 were repealed by [section 7851(a)(1) of this title][/us/usc/t26/s7851/a/1]. For table of comparisons of the 1939 Code to the 1986 Code, see Table I preceding [section 1 of this title][/us/usc/t26/s1]. See, also, [section 7851(e) of this title][/us/usc/t26/s7851/e] for provision that references in the 1986 Code to a provision of the 1939 Code, not then applicable, shall be deemed a reference to the corresponding provision of the 1986 Code, which is then applicable.
+([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 160][/us/stat/68A/160]; [Pub. L. 85–866, title I, § 29(a)][/us/pl/85/866/s29/a], (b), Sept. 2, 1958, [72 Stat. 1626–1628][/us/stat/72/1626-1628]; [Pub. L. 91–172, title V, § 512(f)(4)][/us/pl/91/172/s512/f/4], Dec. 30, 1969, [83 Stat. 641][/us/stat/83/641]; [Pub. L. 94–455, title XIX][/us/pl/94/455], §§ 1901(a)(70), 1906(b)(13)(A), Oct. 4, 1976, [90 Stat. 1776][/us/stat/90/1776], 1834; [Pub. L. 96–471, § 2(b)(3)][/us/pl/96/471/s2/b/3], Oct. 19, 1980, [94 Stat. 2254][/us/stat/94/2254]; [Pub. L. 113–295, div. A, title II, § 221(a)(61)][/us/pl/113/295/s221/a/61], Dec. 19, 2014, [128 Stat. 4048][/us/stat/128/4048].)
 
  __Amendments__ 
+
+    2014—Subsec. (b)(3)(C). [Pub. L. 113–295][/us/pl/113/295] struck out subpar. (C) which read as follows: “In applying section 7807(b)(1), the provisions of chapter 1 (other than subchapter E, relating to self-employment income) and chapter 2 of the Internal Revenue Code of 1939 shall be treated as the corresponding provisions of the Internal Revenue Code of 1939.”
 
     1980—Subsec. (d). [Pub. L. 96–471][/us/pl/96/471] struck out subsec. (d) which provided that this section was not to apply to a change to which [section 453 of this title][/us/usc/t26/s453], relating to change to installment method, applied.
 
@@ -86,6 +82,10 @@
     Subsec. (b)(3)(A). [Pub. L. 85–866, § 29(b)(5)][/us/pl/85/866/s29/b/5], substituted “paragraph (1) or (2)” for “paragraph (2)”, wherever appearing.
 
     Subsec. (b)(4) to (6). [Pub. L. 85–866, § 29(a)(2)][/us/pl/85/866/s29/a/2], added pars. (4) to (6).
+
+ __Effective Date of 2014 Amendment__ 
+
+    Amendment by [Pub. L. 113–295][/us/pl/113/295] effective Dec. 19, 2014, subject to a savings provision, see [section 221(b) of Pub. L. 113–295][/us/pl/113/295/s221/b], set out as a note under [section 1 of this title][/us/usc/t26/s1].
 
  __Effective Date of 1980 Amendment__ 
 
@@ -146,11 +146,9 @@
 [/us/stat/90/1776]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1776
 [/us/pl/96/471/s2/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F471%2Fs2%2Fb%2F3
 [/us/stat/94/2254]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2254
-[/us/act/1939-02-10/ch2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1939-02-10%2Fch2
-[/us/stat/53/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F53%2F1
-[/us/usc/t26/s7851/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs7851%2Fa%2F1
-[/us/usc/t26/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs1
-[/us/usc/t26/s7851/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs7851%2Fe
+[/us/pl/113/295/s221/a/61]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs221%2Fa%2F61
+[/us/stat/128/4048]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F4048
+[/us/pl/113/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295
 [/us/pl/96/471]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F471
 [/us/usc/t26/s453]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs453
 [/us/pl/94/455/s1901/a/70/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1901%2Fa%2F70%2FB
@@ -162,6 +160,9 @@
 [/us/pl/85/866/s29/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F866%2Fs29%2Fb%2F1
 [/us/pl/85/866/s29/b/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F866%2Fs29%2Fb%2F5
 [/us/pl/85/866/s29/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F866%2Fs29%2Fa%2F2
+[/us/pl/113/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295
+[/us/pl/113/295/s221/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs221%2Fb
+[/us/usc/t26/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs1
 [/us/pl/96/471]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F471
 [/us/pl/96/471/s6/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F471%2Fs6%2Fa%2F1
 [/us/usc/t26/s453]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs453

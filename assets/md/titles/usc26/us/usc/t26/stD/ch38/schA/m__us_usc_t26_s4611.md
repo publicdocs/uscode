@@ -89,7 +89,7 @@
 
             (A) the unobligated balance in the Hazardous Substance Superfund exceeds $3,500,000,000, and
 
-            (B) the Secretary, after consultation with the Administrator of the Environmental Protection Agency, determines that the unobligated balance in the Hazardous Substance Superfund will exceed $3,500,000,000 on December 31 of 1994 or 1995, respectively, if no tax is imposed under section 59A, this section, and sections 4661 and 4671,
+            (B) the Secretary, after consultation with the Administrator of the Environmental Protection Agency, determines that the unobligated balance in the Hazardous Substance Superfund will exceed $3,500,000,000 on December 31 of 1994 or 1995, respectively, if no tax is imposed under this section and sections 4661 and 4671,
 
             then no tax shall be imposed under this section (to the extent attributable to the Hazardous Substance Superfund financing rate) during 1994 or 1995, as the case may be.
 
@@ -97,7 +97,7 @@
 
             (A) __Estimates by Secretary__ 
 
-                The Secretary as of the close of each calendar quarter (and at such other times as the Secretary determines appropriate) shall make an estimate of the amount of taxes which will be collected under section 59A, this section (to the extent attributable to the Hazardous Substance Superfund financing rate), and sections 4661 and 4671 and credited to the Hazardous Substance Superfund during the period beginning January 1, 1987, and ending December 31, 1995.
+                The Secretary as of the close of each calendar quarter (and at such other times as the Secretary determines appropriate) shall make an estimate of the amount of taxes which will be collected under this section (to the extent attributable to the Hazardous Substance Superfund financing rate) and sections 4661 and 4671 and credited to the Hazardous Substance Superfund during the period beginning January 1, 1987, and ending December 31, 1995.
 
             (B) __Termination if $11,970,000,000 credited before__  __January 1, 1996__ 
 
@@ -113,13 +113,17 @@
 
             The Oil Spill Liability Trust Fund financing rate shall not apply after December 31, 2017.
 
-(Added [Pub. L. 96–510, title II, § 211(a)][/us/pl/96/510/s211/a], Dec. 11, 1980, [94 Stat. 2797][/us/stat/94/2797]; amended [Pub. L. 99–499, title V][/us/pl/99/499], §§ 511(a), 512(a), (b), Oct. 17, 1986, [100 Stat. 1760][/us/stat/100/1760], 1761; [Pub. L. 99–509, title VIII, § 8032(a)][/us/pl/99/509/s8032/a], (c)(1), (2), Oct. 21, 1986, [100 Stat. 1957][/us/stat/100/1957], 1958; [Pub. L. 100–647, title VI, § 6108][/us/pl/100/647/s6108], Nov. 10, 1988, [102 Stat. 3712][/us/stat/102/3712]; [Pub. L. 101–221, § 8(a)][/us/pl/101/221/s8/a], Dec. 12, 1989, [103 Stat. 1891][/us/stat/103/1891]; [Pub. L. 101–239, title VII, § 7505(a)][/us/pl/101/239/s7505/a], (b), Dec. 19, 1989, [103 Stat. 2363][/us/stat/103/2363]; [Pub. L. 101–508, title XI, § 11231(a)(1)(B)][/us/pl/101/508/s11231/a/1/B], (2), (b), Nov. 5, 1990, [104 Stat. 1388–445][/us/stat/104/1388-445]; [Pub. L. 109–58, title XIII, § 1361][/us/pl/109/58/s1361], Aug. 8, 2005, [119 Stat. 1058][/us/stat/119/1058]; [Pub. L. 110–343, div. B, title IV, § 405(a)(1)][/us/pl/110/343/s405/a/1], (b)(1), (2), Oct. 3, 2008, [122 Stat. 3860][/us/stat/122/3860], 3861.)
+(Added [Pub. L. 96–510, title II, § 211(a)][/us/pl/96/510/s211/a], Dec. 11, 1980, [94 Stat. 2797][/us/stat/94/2797]; amended [Pub. L. 99–499, title V][/us/pl/99/499], §§ 511(a), 512(a), (b), Oct. 17, 1986, [100 Stat. 1760][/us/stat/100/1760], 1761; [Pub. L. 99–509, title VIII, § 8032(a)][/us/pl/99/509/s8032/a], (c)(1), (2), Oct. 21, 1986, [100 Stat. 1957][/us/stat/100/1957], 1958; [Pub. L. 100–647, title VI, § 6108][/us/pl/100/647/s6108], Nov. 10, 1988, [102 Stat. 3712][/us/stat/102/3712]; [Pub. L. 101–221, § 8(a)][/us/pl/101/221/s8/a], Dec. 12, 1989, [103 Stat. 1891][/us/stat/103/1891]; [Pub. L. 101–239, title VII, § 7505(a)][/us/pl/101/239/s7505/a], (b), Dec. 19, 1989, [103 Stat. 2363][/us/stat/103/2363]; [Pub. L. 101–508, title XI, § 11231(a)(1)(B)][/us/pl/101/508/s11231/a/1/B], (2), (b), Nov. 5, 1990, [104 Stat. 1388–445][/us/stat/104/1388-445]; [Pub. L. 109–58, title XIII, § 1361][/us/pl/109/58/s1361], Aug. 8, 2005, [119 Stat. 1058][/us/stat/119/1058]; [Pub. L. 110–343, div. B, title IV, § 405(a)(1)][/us/pl/110/343/s405/a/1], (b)(1), (2), Oct. 3, 2008, [122 Stat. 3860][/us/stat/122/3860], 3861; [Pub. L. 113–295, div. A, title II, § 221(a)(12)(I)][/us/pl/113/295/s221/a/12/I], Dec. 19, 2014, [128 Stat. 4039][/us/stat/128/4039].)
 
  __Codification__ 
 
     Amendments by [Pub. L. 99–509, title VIII, § 8031(a)][/us/pl/99/509/s8031/a], (b), and (d)(1), Oct. 21, 1986, [100 Stat. 1955][/us/stat/100/1955], to subsecs. (a) to (e) of this section were not executed to text pursuant to [Pub. L. 99–509, title VIII, § 8031(e)(2)][/us/pl/99/509/s8031/e/2], which provided that the amendments made by section 8031 shall not take effect if the Superfund Amendments and Reauthorization Act of 1986 is enacted. The Superfund Amendments and Reauthorization Act of 1986 was enacted as [Pub. L. 99–499][/us/pl/99/499], approved Oct. 17, 1986.
 
  __Amendments__ 
+
+    2014—Subsec. (e)(2)(B). [Pub. L. 113–295, § 221(a)(12)(I)(i)][/us/pl/113/295/s221/a/12/I/i], substituted “this section” for “section 59A, this section,”.
+
+    Subsec. (e)(3)(A). [Pub. L. 113–295, § 221(a)(12)(I)(ii)][/us/pl/113/295/s221/a/12/I/ii], struck out “section 59A,” after “collected under” and comma after “rate)”.
 
     2008—Subsec. (c)(2)(B). [Pub. L. 110–343, § 405(a)(1)][/us/pl/110/343/s405/a/1], substituted “is—” for “is 5 cents a barrel.” and added cls. (i) and (ii).
 
@@ -178,6 +182,10 @@
     then no tax shall be imposed by this section during the first calendar year beginning after the date referred to in paragraph (1).”
 
     Subsec. (f). [Pub. L. 99–509, § 8032(c)(2)][/us/pl/99/509/s8032/c/2], added subsec. (f).
+
+ __Effective Date of 2014 Amendment__ 
+
+    Amendment by [Pub. L. 113–295][/us/pl/113/295] effective Dec. 19, 2014, subject to a savings provision, see [section 221(b) of Pub. L. 113–295][/us/pl/113/295/s221/b], set out as a note under [section 1 of this title][/us/usc/t26/s1].
 
  __Effective Date of 2008 Amendment__ 
 
@@ -256,10 +264,14 @@
 [/us/stat/119/1058]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F1058
 [/us/pl/110/343/s405/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F343%2Fs405%2Fa%2F1
 [/us/stat/122/3860]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3860
+[/us/pl/113/295/s221/a/12/I]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs221%2Fa%2F12%2FI
+[/us/stat/128/4039]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F4039
 [/us/pl/99/509/s8031/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F509%2Fs8031%2Fa
 [/us/stat/100/1955]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1955
 [/us/pl/99/509/s8031/e/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F509%2Fs8031%2Fe%2F2
 [/us/pl/99/499]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F499
+[/us/pl/113/295/s221/a/12/I/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs221%2Fa%2F12%2FI%2Fi
+[/us/pl/113/295/s221/a/12/I/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs221%2Fa%2F12%2FI%2Fii
 [/us/pl/110/343/s405/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F343%2Fs405%2Fa%2F1
 [/us/pl/110/343/s405/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F343%2Fs405%2Fb%2F2
 [/us/pl/110/343/s405/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F343%2Fs405%2Fb%2F1
@@ -280,6 +292,9 @@
 [/us/pl/99/509/s8032/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F509%2Fs8032%2Fc%2F1
 [/us/pl/99/499]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F499
 [/us/pl/99/509/s8032/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F509%2Fs8032%2Fc%2F2
+[/us/pl/113/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295
+[/us/pl/113/295/s221/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs221%2Fb
+[/us/usc/t26/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs1
 [/us/pl/110/343/s405/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F343%2Fs405%2Fa%2F2
 [/us/stat/122/3860]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3860
 [/us/pl/110/343/s405/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F343%2Fs405%2Fb%2F3

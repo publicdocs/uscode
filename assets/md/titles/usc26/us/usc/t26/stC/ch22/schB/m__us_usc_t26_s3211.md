@@ -21,27 +21,17 @@
 
     (b) __Tier 2 tax__ 
 
-        (1) __In general__ 
-
-            In addition to other taxes, there is hereby imposed on the income of each employee representative a tax equal to the applicable percentage of the compensation received during any calendar year by such employee representatives for services rendered by such employee representative.
-
-        (2) __Applicable percentage__ 
-
-        For purposes of paragraph (1), the term “applicable percentage” means—
-
-            (A) 14.75 percent in the case of compensation received during 2002,
-
-            (B) 14.20 percent in the case of compensation received during 2003, and
-
-            (C) in the case of compensation received during any calendar year after 2003, the percentage determined under section 3241 for such calendar year.
+        In addition to other taxes, there is hereby imposed on the income of each employee representative a tax equal to the percentage determined under section 3241 for any calendar year of the compensation received during such calendar year by such employee representative for services rendered by such employee representative.
 
     (c) __Cross reference__ 
 
         For application of different contribution bases with respect to the taxes imposed by subsections (a) and (b), see section 3231(e)(2).
 
-([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 432][/us/stat/68A/432]; [Aug. 31, 1954, ch. 1164][/us/act/1954-08-31/ch1164], pt. II, § 206(a), [68 Stat. 1040][/us/stat/68/1040]; [Pub. L. 86–28][/us/pl/86/28], pt. II, § 201(c), May 19, 1959, [73 Stat. 29][/us/stat/73/29]; [Pub. L. 88–133, title II, § 201][/us/pl/88/133/s201], Oct. 5, 1963, [77 Stat. 221][/us/stat/77/221]; [Pub. L. 89–97, title I][/us/pl/89/97], §§ 105(b)(2), 111(c)(2), July 30, 1965, [79 Stat. 335][/us/stat/79/335], 342; [Pub. L. 89–212][/us/pl/89/212], §§ 4, 5(b), Sept. 29, 1965, [79 Stat. 861][/us/stat/79/861]; [Pub. L. 89–699, title III, § 301][/us/pl/89/699/s301] (b), (d), Oct. 30, 1966, [80 Stat. 1078][/us/stat/80/1078]; [Pub. L. 89–700, title III, § 301(v)][/us/pl/89/700/s301/v], (vi), Oct. 30, 1966, [80 Stat. 1088][/us/stat/80/1088], 1089; [Pub. L. 91–215, § 4][/us/pl/91/215/s4], Mar. 17, 1970, [84 Stat. 70][/us/stat/84/70]; [Pub. L. 93–69, title I, § 102(c)][/us/pl/93/69/s102/c], July 10, 1973, [87 Stat. 162][/us/stat/87/162]; [Pub. L. 94–93, title II, § 202][/us/pl/94/93/s202], Aug. 9, 1975, [89 Stat. 466][/us/stat/89/466]; [Pub. L. 94–455, title XIX, § 1903(a)(8)][/us/pl/94/455/s1903/a/8], Oct. 4, 1976, [90 Stat. 1807][/us/stat/90/1807]; [Pub. L. 97–34, title VII, § 741(b)][/us/pl/97/34/s741/b], Aug. 13, 1981, [95 Stat. 347][/us/stat/95/347]; [Pub. L. 98–76, title II][/us/pl/98/76], §§ 211(c), 223, Aug. 12, 1983, [97 Stat. 419][/us/stat/97/419], 421; [Pub. L. 101–508, title V, § 5125(b)][/us/pl/101/508/s5125/b], Nov. 5, 1990, [104 Stat. 1388–285][/us/stat/104/1388-285]; [Pub. L. 107–90, title II][/us/pl/107/90], §§ 203(a), 204(b), Dec. 21, 2001, [115 Stat. 891][/us/stat/115/891].)
+([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 432][/us/stat/68A/432]; [Aug. 31, 1954, ch. 1164][/us/act/1954-08-31/ch1164], pt. II, § 206(a), [68 Stat. 1040][/us/stat/68/1040]; [Pub. L. 86–28][/us/pl/86/28], pt. II, § 201(c), May 19, 1959, [73 Stat. 29][/us/stat/73/29]; [Pub. L. 88–133, title II, § 201][/us/pl/88/133/s201], Oct. 5, 1963, [77 Stat. 221][/us/stat/77/221]; [Pub. L. 89–97, title I][/us/pl/89/97], §§ 105(b)(2), 111(c)(2), July 30, 1965, [79 Stat. 335][/us/stat/79/335], 342; [Pub. L. 89–212][/us/pl/89/212], §§ 4, 5(b), Sept. 29, 1965, [79 Stat. 861][/us/stat/79/861]; [Pub. L. 89–699, title III, § 301][/us/pl/89/699/s301] (b), (d), Oct. 30, 1966, [80 Stat. 1078][/us/stat/80/1078]; [Pub. L. 89–700, title III, § 301(v)][/us/pl/89/700/s301/v], (vi), Oct. 30, 1966, [80 Stat. 1088][/us/stat/80/1088], 1089; [Pub. L. 91–215, § 4][/us/pl/91/215/s4], Mar. 17, 1970, [84 Stat. 70][/us/stat/84/70]; [Pub. L. 93–69, title I, § 102(c)][/us/pl/93/69/s102/c], July 10, 1973, [87 Stat. 162][/us/stat/87/162]; [Pub. L. 94–93, title II, § 202][/us/pl/94/93/s202], Aug. 9, 1975, [89 Stat. 466][/us/stat/89/466]; [Pub. L. 94–455, title XIX, § 1903(a)(8)][/us/pl/94/455/s1903/a/8], Oct. 4, 1976, [90 Stat. 1807][/us/stat/90/1807]; [Pub. L. 97–34, title VII, § 741(b)][/us/pl/97/34/s741/b], Aug. 13, 1981, [95 Stat. 347][/us/stat/95/347]; [Pub. L. 98–76, title II][/us/pl/98/76], §§ 211(c), 223, Aug. 12, 1983, [97 Stat. 419][/us/stat/97/419], 421; [Pub. L. 101–508, title V, § 5125(b)][/us/pl/101/508/s5125/b], Nov. 5, 1990, [104 Stat. 1388–285][/us/stat/104/1388-285]; [Pub. L. 107–90, title II][/us/pl/107/90], §§ 203(a), 204(b), Dec. 21, 2001, [115 Stat. 891][/us/stat/115/891]; [Pub. L. 113–295, div. A, title II, § 221(a)(100)(B)][/us/pl/113/295/s221/a/100/B], Dec. 19, 2014, [128 Stat. 4052][/us/stat/128/4052].)
 
  __Amendments__ 
+
+    2014—Subsec. (b). [Pub. L. 113–295][/us/pl/113/295] amended subsec. (b) generally. Prior to amendment, subsec. (b) consisted of pars. (1) and (2) establishing the tier 2 tax and its applicable percentage.
 
     2001—Subsec. (a). [Pub. L. 107–90, § 204(b)][/us/pl/107/90/s204/b], added subsec. (a) and struck out former subsec. (a), which related to imposition of tier 1 and 2 taxes.
 
@@ -82,6 +72,10 @@
     1959—[Pub. L. 86–28][/us/pl/86/28] increased the tax from 12½ percent of the compensation not in excess of $350 for any calendar month to 13½ percent of the compensation not in excess of $400 for any calendar month for services rendered before Jan. 1, 1962, and to 14½ percent for services rendered after Dec. 31, 1961, and required an increase in the rate of tax with respect to compensation paid for services rendered after December 31, 1964, by a number of percentage points equal at any given time to twice the number of percentage points by which the rate of tax imposed by [section 3101 of this title][/us/usc/t26/s3101] at such time exceeds the rate provided by par. (2) of such section 3101 as amended by the Social Security Amendments of 1956.
 
     1954—Act Aug. 31, 1954, substituted “$350” for “$300”.
+
+ __Effective Date of 2014 Amendment__ 
+
+    Amendment by [Pub. L. 113–295][/us/pl/113/295] effective Dec. 19, 2014, subject to a savings provision, see [section 221(b) of Pub. L. 113–295][/us/pl/113/295/s221/b], set out as a note under [section 1 of this title][/us/usc/t26/s1].
 
  __Effective Date of 2001 Amendment__ 
 
@@ -184,6 +178,9 @@
 [/us/stat/104/1388-285]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1388-285
 [/us/pl/107/90]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F90
 [/us/stat/115/891]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F891
+[/us/pl/113/295/s221/a/100/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs221%2Fa%2F100%2FB
+[/us/stat/128/4052]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F4052
+[/us/pl/113/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295
 [/us/pl/107/90/s204/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F90%2Fs204%2Fb
 [/us/pl/107/90/s204/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F90%2Fs204%2Fb
 [/us/pl/107/90/s203/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F90%2Fs203%2Fa
@@ -205,6 +202,9 @@
 [/us/pl/88/133]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F133
 [/us/pl/86/28]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F28
 [/us/usc/t26/s3101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs3101
+[/us/pl/113/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295
+[/us/pl/113/295/s221/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs221%2Fb
+[/us/usc/t26/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs1
 [/us/pl/107/90/s203/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F90%2Fs203%2Fc
 [/us/stat/115/891]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F891
 [/us/usc/t26/s3221]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs3221

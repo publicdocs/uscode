@@ -49,7 +49,7 @@
 
  __Effective Date of 1976 Amendment__ 
 
-    Amendment by [section 1902(a)(6) of Pub. L. 94–455][/us/pl/94/455/s1902/a/6] applicable in the case of estates of decedents dying after Oct. 4, 1976, see [section 1902(c)(1) of Pub. L. 94–455][/us/pl/94/455/s1902/c/1], set out as a note under [section 2011 of this title][/us/usc/t26/s2011].
+    Amendment by [section 1902(a)(6) of Pub. L. 94–455][/us/pl/94/455/s1902/a/6] applicable in the case of estates of decedents dying after Oct. 4, 1976, see [section 1902(c)(1) of Pub. L. 94–455][/us/pl/94/455/s1902/c/1], set out as a note under [section 2012 of this title][/us/usc/t26/s2012].
 
  __Effective Date__ 
 
@@ -70,7 +70,7 @@
 [/us/pl/94/455/s1906/b/13/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1906%2Fb%2F13%2FA
 [/us/pl/94/455/s1902/a/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1902%2Fa%2F6
 [/us/pl/94/455/s1902/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1902%2Fc%2F1
-[/us/usc/t26/s2011]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs2011
+[/us/usc/t26/s2012]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs2012
 [/us/pl/89/809/s108/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F809%2Fs108%2Fi
 [/us/usc/t26/s2101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs2101
 

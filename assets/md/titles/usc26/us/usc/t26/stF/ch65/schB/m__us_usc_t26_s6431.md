@@ -77,19 +77,25 @@
 
                 (ii) a qualified energy conservation bond (as defined in section 54D),
 
-                (iii) a qualified zone academy bond (as defined in section 54E) determined without regard to any allocation relating to the national zone academy bond limitation for 2011 or any carryforward of such allocation, or
+                (iii) a qualified zone academy bond (as defined in section 54E) determined without regard to any allocation relating to the national zone academy bond limitation for years after 2010 or any carryforward of any such allocation, or
 
                 (iv) a qualified school construction bond (as defined in section 54F), and
 
             (B) the issuer of such bond makes an irrevocable election to have this subsection apply.
 
-(Added [Pub. L. 111–5, div. B, title I, § 1531(b)][/us/pl/111/5/s1531/b], Feb. 17, 2009, [123 Stat. 359][/us/stat/123/359]; amended [Pub. L. 111–147, title III, § 301(a)][/us/pl/111/147/s301/a], Mar. 18, 2010, [124 Stat. 77][/us/stat/124/77]; [Pub. L. 111–312, title VII, § 758(b)][/us/pl/111/312/s758/b], Dec. 17, 2010, [124 Stat. 3323][/us/stat/124/3323].)
+(Added [Pub. L. 111–5, div. B, title I, § 1531(b)][/us/pl/111/5/s1531/b], Feb. 17, 2009, [123 Stat. 359][/us/stat/123/359]; amended [Pub. L. 111–147, title III, § 301(a)][/us/pl/111/147/s301/a], Mar. 18, 2010, [124 Stat. 77][/us/stat/124/77]; [Pub. L. 111–312, title VII, § 758(b)][/us/pl/111/312/s758/b], Dec. 17, 2010, [124 Stat. 3323][/us/stat/124/3323]; [Pub. L. 113–295, div. A, title II, § 202(d)][/us/pl/113/295/s202/d], Dec. 19, 2014, [128 Stat. 4024][/us/stat/128/4024].)
 
  __Amendments__ 
+
+    2014—Subsec. (f)(3)(A)(iii). [Pub. L. 113–295][/us/pl/113/295] substituted “years after 2010” for “2011” and “of any such allocation” for “of such allocation”.
 
     2010—Subsec. (f). [Pub. L. 111–147][/us/pl/111/147] added subsec. (f).
 
     Subsec. (f)(3)(A)(iii). [Pub. L. 111–312][/us/pl/111/312] inserted “determined without regard to any allocation relating to the national zone academy bond limitation for 2011 or any carryforward of such allocation” after “54E)”.
+
+ __Effective Date of 2014 Amendment__ 
+
+    Amendment by [Pub. L. 113–295][/us/pl/113/295] effective as if included in the provision of the American Taxpayer Relief Act of 2012, [Pub. L. 112–240][/us/pl/112/240], to which such amendment relates, see [section 202(f) of Pub. L. 113–295][/us/pl/113/295/s202/f], set out as a note under [section 55 of this title][/us/usc/t26/s55].
 
  __Effective Date of 2010 Amendment__ 
 
@@ -116,8 +122,15 @@
 [/us/stat/124/77]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F77
 [/us/pl/111/312/s758/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F312%2Fs758%2Fb
 [/us/stat/124/3323]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3323
+[/us/pl/113/295/s202/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs202%2Fd
+[/us/stat/128/4024]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F4024
+[/us/pl/113/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295
 [/us/pl/111/147]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F147
 [/us/pl/111/312]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F312
+[/us/pl/113/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295
+[/us/pl/112/240]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F240
+[/us/pl/113/295/s202/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs202%2Ff
+[/us/usc/t26/s55]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs55
 [/us/pl/111/312]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F312
 [/us/pl/111/312/s758/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F312%2Fs758%2Fc
 [/us/usc/t26/s54E]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs54E

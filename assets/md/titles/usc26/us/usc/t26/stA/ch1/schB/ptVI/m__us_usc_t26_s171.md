@@ -41,9 +41,9 @@
 
             (B)
 
-                (i) with reference to the amount payable on maturity or on earlier call date, in the case of any bond other than a bond to which clause (ii) applies, or and  <sup>\[1\]</sup>  <sup><sup> 1 So in original. </sup></sup> 
+                (i) with reference to the amount payable on maturity (or if it results in a smaller amortizable bond premium attributable to the period before the call date, with reference to the amount payable on the earlier call date), in the case of a bond described in subsection (a)(1), and
 
-                (ii) with reference to the amount payable on maturity (or if it results in a smaller amortizable bond premium attributable to the period to earlier call date, with reference to the amount payable on earlier call date), in the case of any bond described in subsection (a)(1) which is acquired after December 31, 1957, and
+                (ii) with reference to the amount payable on maturity or on an earlier call date, in the case of a bond described in subsection (a)(2).
 
             (C) with adjustments proper to reflect unamortized bond premium, with respect to the bond, for the period before the date as of which subsection (a) becomes applicable with respect to the taxpayer with respect to such bond.
 
@@ -51,7 +51,7 @@
 
         (2) __Amount amortizable__ 
 
-            The amortizable bond premium of the taxable year shall be the amount of the bond premium attributable to such year. In the case of a bond to which paragraph (1)(B)(ii) applies and which has a call date, the amount of bond premium attributable to the taxable year in which the bond is called shall include an amount equal to the excess of the amount of the adjusted basis (for determining loss on sale or exchange) of such bond as of the beginning of the taxable year over the amount received on redemption of the bond or (if greater) the amount payable on maturity.
+            The amortizable bond premium of the taxable year shall be the amount of the bond premium attributable to such year. In the case of a bond to which paragraph (1)(B)(i) applies and which has a call date, the amount of bond premium attributable to the taxable year in which the bond is called shall include an amount equal to the excess of the amount of the adjusted basis (for determining loss on sale or exchange) of such bond as of the beginning of the taxable year over the amount received on redemption of the bond or (if greater) the amount payable on maturity.
 
         (3) __Method of determination__ 
 
@@ -65,7 +65,7 @@
 
             (B) __Special rule where earlier call date is used__ 
 
-                For purposes of subparagraph (A), if the amount payable on an earlier call date is used under paragraph (1)(B)(ii) in determining the amortizable bond premium attributable to the period before the earlier call date, such bond shall be treated as maturing on such date for the amount so payable and then reissued on such date for the amount so payable.
+                For purposes of subparagraph (A), if the amount payable on an earlier call date is used under paragraph (1)(B)(i) in determining the amortizable bond premium attributable to the period before the earlier call date, such bond shall be treated as maturing on such date for the amount so payable and then reissued on such date for the amount so payable.
 
         (4) __Treatment of certain bonds acquired in exchange for other property__ 
 
@@ -111,9 +111,17 @@
 
         For special rules applicable, in the case of dealers in securities, with respect to premium attributable to certain wholly tax-exempt securities, see section 75.
 
-([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 61][/us/stat/68A/61]; [Pub. L. 85–866, title I, § 13(a)][/us/pl/85/866/s13/a], Sept. 2, 1958, [72 Stat. 1610][/us/stat/72/1610]; [Pub. L. 94–455, title XIX][/us/pl/94/455], §§ 1901(b)(1)(E), 1906(b)(13)(A), 1951(b)(5)(A), Oct. 4, 1976, [90 Stat. 1790][/us/stat/90/1790], 1834, 1837; [Pub. L. 99–514, title VI, § 643(a)][/us/pl/99/514/s643/a], title XVIII, § 1803(a)(11)(A), (B), (12)(A), Oct. 22, 1986, [100 Stat. 2285][/us/stat/100/2285], 2795; [Pub. L. 100–647, title I, § 1006(j)(1)(A)][/us/pl/100/647/s1006/j/1/A], Nov. 10, 1988, [102 Stat. 3411][/us/stat/102/3411]; [Pub. L. 108–357, title IV, § 413(c)(2)][/us/pl/108/357/s413/c/2], Oct. 22, 2004, [118 Stat. 1507][/us/stat/118/1507].)
+([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 61][/us/stat/68A/61]; [Pub. L. 85–866, title I, § 13(a)][/us/pl/85/866/s13/a], Sept. 2, 1958, [72 Stat. 1610][/us/stat/72/1610]; [Pub. L. 94–455, title XIX][/us/pl/94/455], §§ 1901(b)(1)(E), 1906(b)(13)(A), 1951(b)(5)(A), Oct. 4, 1976, [90 Stat. 1790][/us/stat/90/1790], 1834, 1837; [Pub. L. 99–514, title VI, § 643(a)][/us/pl/99/514/s643/a], title XVIII, § 1803(a)(11)(A), (B), (12)(A), Oct. 22, 1986, [100 Stat. 2285][/us/stat/100/2285], 2795; [Pub. L. 100–647, title I, § 1006(j)(1)(A)][/us/pl/100/647/s1006/j/1/A], Nov. 10, 1988, [102 Stat. 3411][/us/stat/102/3411]; [Pub. L. 108–357, title IV, § 413(c)(2)][/us/pl/108/357/s413/c/2], Oct. 22, 2004, [118 Stat. 1507][/us/stat/118/1507]; [Pub. L. 113–295, div. A, title II, § 221(a)(29)][/us/pl/113/295/s221/a/29], Dec. 19, 2014, [128 Stat. 4041][/us/stat/128/4041].)
 
  __Amendments__ 
+
+    2014—Subsec. (b)(1)(B). [Pub. L. 113–295, § 221(a)(29)(A)][/us/pl/113/295/s221/a/29/A], amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows:
+
+    “(i) with reference to the amount payable on maturity or on earlier call date, in the case of any bond other than a bond to which clause (ii) applies, or and
+
+    “(ii) with reference to the amount payable on maturity (or if it results in a smaller amortizable bond premium attributable to the period to earlier call date, with reference to the amount payable on earlier call date), in the case of any bond described in subsection (a)(1) which is acquired after December 31, 1957, and”.
+
+    Subsec. (b)(2), (3)(B). [Pub. L. 113–295, § 221(a)(29)(B)][/us/pl/113/295/s221/a/29/B], substituted “paragraph (1)(B)(i)” for “paragraph (1)(B)(ii)”.
 
     2004—Subsec. (c)(2). [Pub. L. 108–357, § 413(c)(2)(B)][/us/pl/108/357/s413/c/2/B], which directed amendment of par. (2) by striking out “, or foreign personal holding company”, was executed by striking out “or foreign personal holding company” after “the common trust fund”, to reflect the probable intent of Congress.
 
@@ -158,6 +166,10 @@
     1958—Subsec. (b)(1)(B). [Pub. L. 85–866, § 13(a)(1)][/us/pl/85/866/s13/a/1], substituted “, in the case of any bond other than a bond to which clause (ii) or (iii) applies” for “(but in the case of bonds described in subsection (c)(1)(B) issued after January 22, 1951, and acquired after January 22, 1954, only if such earlier call date is a date more than 3 years after the date of such issue), and”, designated such provision as cl. (i), and added cl. (ii) and (iii).
 
     Subsec. (b)(2). [Pub. L. 85–866, § 13(a)(2)][/us/pl/85/866/s13/a/2], substituted “In the case of a bond to which paragraph (1)(B)(ii) or (iii) applies and which has a call date,” for “In the case of a bond described in subsection (c)(1)(B) issued after January 22, 1951, and acquired after January 22, 1954, which has a call date not more than 3 years after the date of such issue,” in second sentence.
+
+ __Effective Date of 2014 Amendment__ 
+
+    Amendment by [Pub. L. 113–295][/us/pl/113/295] effective Dec. 19, 2014, subject to a savings provision, see [section 221(b) of Pub. L. 113–295][/us/pl/113/295/s221/b], set out as a note under [section 1 of this title][/us/usc/t26/s1].
 
  __Effective Date of 2004 Amendment__ 
 
@@ -238,6 +250,10 @@
 [/us/stat/102/3411]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3411
 [/us/pl/108/357/s413/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357%2Fs413%2Fc%2F2
 [/us/stat/118/1507]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1507
+[/us/pl/113/295/s221/a/29]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs221%2Fa%2F29
+[/us/stat/128/4041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F4041
+[/us/pl/113/295/s221/a/29/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs221%2Fa%2F29%2FA
+[/us/pl/113/295/s221/a/29/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs221%2Fa%2F29%2FB
 [/us/pl/108/357/s413/c/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357%2Fs413%2Fc%2F2%2FB
 [/us/pl/108/357/s413/c/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357%2Fs413%2Fc%2F2%2FA
 [/us/pl/100/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647
@@ -258,6 +274,9 @@
 [/us/pl/94/455/s1906/b/13/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1906%2Fb%2F13%2FA
 [/us/pl/85/866/s13/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F866%2Fs13%2Fa%2F1
 [/us/pl/85/866/s13/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F866%2Fs13%2Fa%2F2
+[/us/pl/113/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295
+[/us/pl/113/295/s221/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs221%2Fb
+[/us/usc/t26/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs1
 [/us/pl/108/357]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357
 [/us/pl/108/357/s413/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357%2Fs413%2Fd%2F1
 [/us/usc/t26/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs1

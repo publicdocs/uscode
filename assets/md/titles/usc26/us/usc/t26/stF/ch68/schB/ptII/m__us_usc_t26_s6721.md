@@ -127,7 +127,7 @@
 
         (1) __In general__ 
 
-            For each fifth calendar year beginning after 2012, each of the dollar amounts under subsections (a), (b), (d) (other than paragraph (2)(A) thereof), and (e) shall be increased by such dollar amount multiplied by the cost-of-living adjustment determined under section 1(f)(3) determined by substituting “calendar year 2011” for “calendar year 1992” in subparagraph (B) thereof.
+            In the case of any failure relating to a return required to be filed in a calendar year beginning after 2014, each of the dollar amounts under subsections (a), (b), (d) (other than paragraph (2)(A) thereof), and (e) shall be increased by such dollar amount multiplied by the cost-of-living adjustment determined under section 1(f)(3) determined by substituting “calendar year 2011” for “calendar year 1992” in subparagraph (B) thereof.
 
         (2) __Rounding__ 
 
@@ -137,9 +137,11 @@
 
             (B) is not described in subparagraph (A) and is not a multiple of $10, such amount shall be rounded to the next lowest multiple of $10.
 
-(Added [Pub. L. 99–514, title XV, § 1501(a)][/us/pl/99/514/s1501/a], Oct. 22, 1986, [100 Stat. 2732][/us/stat/100/2732]; amended [Pub. L. 100–690, title VII, § 7601(a)(2)(A)][/us/pl/100/690/s7601/a/2/A], Nov. 18, 1988, [102 Stat. 4503][/us/stat/102/4503]; [Pub. L. 101–239, title VII, § 7711(a)][/us/pl/101/239/s7711/a], Dec. 19, 1989, [103 Stat. 2388][/us/stat/103/2388]; [Pub. L. 101–508, title XI, § 11318(b)][/us/pl/101/508/s11318/b], Nov. 5, 1990, [104 Stat. 1388–459][/us/stat/104/1388-459]; [Pub. L. 109–280, title XII, § 1211(b)(2)][/us/pl/109/280/s1211/b/2], Aug. 17, 2006, [120 Stat. 1073][/us/stat/120/1073]; [Pub. L. 111–240, title II, § 2102(a)][/us/pl/111/240/s2102/a]–(f), Sept. 27, 2010, [124 Stat. 2561][/us/stat/124/2561], 2562.)
+(Added [Pub. L. 99–514, title XV, § 1501(a)][/us/pl/99/514/s1501/a], Oct. 22, 1986, [100 Stat. 2732][/us/stat/100/2732]; amended [Pub. L. 100–690, title VII, § 7601(a)(2)(A)][/us/pl/100/690/s7601/a/2/A], Nov. 18, 1988, [102 Stat. 4503][/us/stat/102/4503]; [Pub. L. 101–239, title VII, § 7711(a)][/us/pl/101/239/s7711/a], Dec. 19, 1989, [103 Stat. 2388][/us/stat/103/2388]; [Pub. L. 101–508, title XI, § 11318(b)][/us/pl/101/508/s11318/b], Nov. 5, 1990, [104 Stat. 1388–459][/us/stat/104/1388-459]; [Pub. L. 109–280, title XII, § 1211(b)(2)][/us/pl/109/280/s1211/b/2], Aug. 17, 2006, [120 Stat. 1073][/us/stat/120/1073]; [Pub. L. 111–240, title II, § 2102(a)][/us/pl/111/240/s2102/a]–(f), Sept. 27, 2010, [124 Stat. 2561][/us/stat/124/2561], 2562; [Pub. L. 113–295, div. B, title II, § 208(f)][/us/pl/113/295/s208/f], Dec. 19, 2014, [128 Stat. 4074][/us/stat/128/4074].)
 
  __Amendments__ 
+
+    2014—Subsec. (f)(1). [Pub. L. 113–295][/us/pl/113/295] substituted “In the case of any failure relating to a return required to be filed in a calendar year beginning after 2014” for “For each fifth calendar year beginning after 2012”.
 
     2010—Subsec. (a)(1). [Pub. L. 111–240, § 2102(a)][/us/pl/111/240/s2102/a], substituted “$100” for “$50” and “$1,500,000” for “$250,000”.
 
@@ -173,11 +175,15 @@
 
     1988—Subsec. (b)(1)(A). [Pub. L. 100–690][/us/pl/100/690] inserted “(or, if greater, in the case of a return filed under section 6050I, 10 percent of the taxable income derived from the transaction)” after “reported”.
 
+ __Effective Date of 2014 Amendment__ 
+
+    Amendment by [Pub. L. 113–295][/us/pl/113/295] applicable to returns required to be filed after Dec. 31, 2014, see [section 208(h) of Pub. L. 113–295][/us/pl/113/295/s208/h], set out as a note under [section 6651 of this title][/us/usc/t26/s6651].
+
  __Effective Date of 2010 Amendment__ 
 
-[Pub. L. 111–240, title II, § 2102(h)][/us/pl/111/240/s2102/h], Sept. 27, 2010, [124 Stat. 2564][/us/stat/124/2564], provided that: 
+[Pub. L. 111–240, title II, § 2102(h)][/us/pl/111/240/s2102/h], Sept. 27, 2010, [124 Stat. 2564][/us/stat/124/2564], as amended by [Pub. L. 113–295, div. A, title II, § 207(a)(1)][/us/pl/113/295/s207/a/1], Dec. 19, 2014, [128 Stat. 4027][/us/stat/128/4027], provided that: 
 
-> “The amendments made by this section \[amending this section and [section 6722 of this title][/us/usc/t26/s6722]\] shall apply with respect to information returns required to be filed on or after January 1, 2011.”
+> “The amendments made by this section \[amending this section and [section 6722 of this title][/us/usc/t26/s6722]\] shall apply with respect to information returns required to be filed, and payee statements required to be furnished, on or after January 1, 2011.”
 
  __Effective Date of 2006 Amendment__ 
 
@@ -222,6 +228,9 @@
 [/us/stat/120/1073]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1073
 [/us/pl/111/240/s2102/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F240%2Fs2102%2Fa
 [/us/stat/124/2561]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2561
+[/us/pl/113/295/s208/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs208%2Ff
+[/us/stat/128/4074]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F4074
+[/us/pl/113/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295
 [/us/pl/111/240/s2102/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F240%2Fs2102%2Fa
 [/us/pl/111/240/s2102/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F240%2Fs2102%2Fa%2F1
 [/us/pl/111/240/s2102/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F240%2Fs2102%2Fb%2F2
@@ -238,8 +247,13 @@
 [/us/pl/101/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508
 [/us/pl/101/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239
 [/us/pl/100/690]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690
+[/us/pl/113/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295
+[/us/pl/113/295/s208/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs208%2Fh
+[/us/usc/t26/s6651]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs6651
 [/us/pl/111/240/s2102/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F240%2Fs2102%2Fh
 [/us/stat/124/2564]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2564
+[/us/pl/113/295/s207/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs207%2Fa%2F1
+[/us/stat/128/4027]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F4027
 [/us/usc/t26/s6722]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs6722
 [/us/pl/109/280]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280
 [/us/pl/109/280/s1211/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280%2Fs1211%2Fd

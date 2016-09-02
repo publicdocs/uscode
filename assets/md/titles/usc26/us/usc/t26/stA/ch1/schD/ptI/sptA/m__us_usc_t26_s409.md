@@ -475,15 +475,7 @@
 
                 The Secretary may, by regulation or other guidance of general applicability, provide that a nonallocation year occurs in any case in which the principal purpose of the ownership structure of an S corporation constitutes an avoidance or evasion of this subsection.
 
-    (q) __Cross references__ 
-
-        (1) For requirements for allowance of employee plan credit, see section 48(n).1
-
-        (2) For assessable penalties for failure to meet requirements of this section, or for failure to make contributions required with respect to the allowance of an employee plan credit or employee stock ownership credit, see section 6699.1
-
-        (3) For requirements for allowance of an employee stock ownership credit, see section 41.1
-
-(Added [Pub. L. 95–600, title I, § 141(a)][/us/pl/95/600/s141/a], Nov. 6, 1978, [92 Stat. 2787][/us/stat/92/2787], § 409A; amended [Pub. L. 96–222, title I, § 101(a)(7)(D)][/us/pl/96/222/s101/a/7/D]–(F), (I), (J), (L)(i)(VI), (ii)(I), (II), (iii)(V), (v)(VI), (VII), Apr. 1, 1980, [94 Stat. 198–200][/us/stat/94/198-200]; [Pub. L. 96–605, title II, § 224(a)][/us/pl/96/605/s224/a], Dec. 28, 1980, [94 Stat. 3528][/us/stat/94/3528]; [Pub. L. 97–34, title III][/us/pl/97/34], §§ 331(c)(1), 334, 336, 337(a), Aug. 13, 1981, [95 Stat. 293][/us/stat/95/293], 297, 298; [Pub. L. 97–448, title I, § 103(h)][/us/pl/97/448/s103/h], (i), Jan. 12, 1983, [96 Stat. 2379][/us/stat/96/2379]; renumbered § 409 and amended [Pub. L. 98–369, div. A, title IV][/us/pl/98/369], §§ 474(r)(15), 491(e)(1), July 18, 1984, [98 Stat. 843][/us/stat/98/843], 852; [Pub. L. 99–514, title XI][/us/pl/99/514], §§ 1172(b)(1), 1174(a)(1), (b)(1), (2), (c)(1)(A), 1176(b), title XVIII, §§ 1852(a)(4)(B), 1854(a)(3)(A), (f)(1), (3)(C), 1899A(11), Oct. 22, 1986, [100 Stat. 2514][/us/stat/100/2514], 2516, 2517, 2520, 2865, 2873, 2881, 2882, 2958; [Pub. L. 100–647, title I][/us/pl/100/647], §§ 1011B(g)(1), (2), (i)(1), (3), (j)(3), (5), (k)(3), 1018(t)(4)(B), (C), (H), Nov. 10, 1988, [102 Stat. 3490][/us/stat/102/3490], 3492, 3493, 3588, 3589; [Pub. L. 101–239, title VII][/us/pl/101/239], §§ 7304(a)(2)(A), (B), 7811(h)(1), Dec. 19, 1989, [103 Stat. 2352][/us/stat/103/2352], 2353, 2409; [Pub. L. 105–34, title XV, § 1506(a)][/us/pl/105/34/s1506/a], Aug. 5, 1997, [111 Stat. 1064][/us/stat/111/1064]; [Pub. L. 107–16, title VI, § 656(a)][/us/pl/107/16/s656/a], June 7, 2001, [115 Stat. 131][/us/stat/115/131]; [Pub. L. 107–147, title IV, § 411(j)(2)][/us/pl/107/147/s411/j/2], Mar. 9, 2002, [116 Stat. 47][/us/stat/116/47]; [Pub. L. 109–280, title IX, § 901(a)(2)(B)][/us/pl/109/280/s901/a/2/B], Aug. 17, 2006, [120 Stat. 1029][/us/stat/120/1029].)
+(Added [Pub. L. 95–600, title I, § 141(a)][/us/pl/95/600/s141/a], Nov. 6, 1978, [92 Stat. 2787][/us/stat/92/2787], § 409A; amended [Pub. L. 96–222, title I, § 101(a)(7)(D)][/us/pl/96/222/s101/a/7/D]–(F), (I), (J), (L)(i)(VI), (ii)(I), (II), (iii)(V), (v)(VI), (VII), Apr. 1, 1980, [94 Stat. 198–200][/us/stat/94/198-200]; [Pub. L. 96–605, title II, § 224(a)][/us/pl/96/605/s224/a], Dec. 28, 1980, [94 Stat. 3528][/us/stat/94/3528]; [Pub. L. 97–34, title III][/us/pl/97/34], §§ 331(c)(1), 334, 336, 337(a), Aug. 13, 1981, [95 Stat. 293][/us/stat/95/293], 297, 298; [Pub. L. 97–448, title I, § 103(h)][/us/pl/97/448/s103/h], (i), Jan. 12, 1983, [96 Stat. 2379][/us/stat/96/2379]; renumbered § 409 and amended [Pub. L. 98–369, div. A, title IV][/us/pl/98/369], §§ 474(r)(15), 491(e)(1), July 18, 1984, [98 Stat. 843][/us/stat/98/843], 852; [Pub. L. 99–514, title XI][/us/pl/99/514], §§ 1172(b)(1), 1174(a)(1), (b)(1), (2), (c)(1)(A), 1176(b), title XVIII, §§ 1852(a)(4)(B), 1854(a)(3)(A), (f)(1), (3)(C), 1899A(11), Oct. 22, 1986, [100 Stat. 2514][/us/stat/100/2514], 2516, 2517, 2520, 2865, 2873, 2881, 2882, 2958; [Pub. L. 100–647, title I][/us/pl/100/647], §§ 1011B(g)(1), (2), (i)(1), (3), (j)(3), (5), (k)(3), 1018(t)(4)(B), (C), (H), Nov. 10, 1988, [102 Stat. 3490][/us/stat/102/3490], 3492, 3493, 3588, 3589; [Pub. L. 101–239, title VII][/us/pl/101/239], §§ 7304(a)(2)(A), (B), 7811(h)(1), Dec. 19, 1989, [103 Stat. 2352][/us/stat/103/2352], 2353, 2409; [Pub. L. 105–34, title XV, § 1506(a)][/us/pl/105/34/s1506/a], Aug. 5, 1997, [111 Stat. 1064][/us/stat/111/1064]; [Pub. L. 107–16, title VI, § 656(a)][/us/pl/107/16/s656/a], June 7, 2001, [115 Stat. 131][/us/stat/115/131]; [Pub. L. 107–147, title IV, § 411(j)(2)][/us/pl/107/147/s411/j/2], Mar. 9, 2002, [116 Stat. 47][/us/stat/116/47]; [Pub. L. 109–280, title IX, § 901(a)(2)(B)][/us/pl/109/280/s901/a/2/B], Aug. 17, 2006, [120 Stat. 1029][/us/stat/120/1029]; [Pub. L. 113–295, div. A, title II, § 221(a)(54)][/us/pl/113/295/s221/a/54], Dec. 19, 2014, [128 Stat. 4045][/us/stat/128/4045].)
 
  __Inflation Adjusted Items for Certain Years__ 
 
@@ -508,6 +500,8 @@
     A prior section 409, added [Pub. L. 93–406, title II, § 2002(c)][/us/pl/93/406/s2002/c], Sept. 2, 1974, [88 Stat. 964][/us/stat/88/964]; amended [Pub. L. 94–455, title XV, § 1501(b)(6)][/us/pl/94/455/s1501/b/6], title XIX, §§ 1901(a)(60), 1906(b)(13)(A), Oct. 4, 1976, [90 Stat. 1736][/us/stat/90/1736], 1774, 1834; [Pub. L. 95–600, title I][/us/pl/95/600], §§ 156(c)(2), (3), 157(e)(1)(B), Nov. 6, 1978, [92 Stat. 2803][/us/stat/92/2803], 2806; [Pub. L. 96–222, title I, § 101(a)(14)(B)][/us/pl/96/222/s101/a/14/B], Apr. 1, 1980, [94 Stat. 204][/us/stat/94/204]; [Pub. L. 97–34, title III, § 311(g)(1)(D)][/us/pl/97/34/s311/g/1/D], (3), Aug. 13, 1981, [95 Stat. 281][/us/stat/95/281]; [Pub. L. 97–248, title II, § 243(b)(1)(B)][/us/pl/97/248/s243/b/1/B], title III, § 335(a)(2), Sept. 3, 1982, [96 Stat. 523][/us/stat/96/523], 628; [Pub. L. 97–452, § 2(c)(1)][/us/pl/97/452/s2/c/1], Jan. 12, 1983, [96 Stat. 2478][/us/stat/96/2478]; [Pub. L. 98–369, div. A, title I, § 42(a)(7)][/us/pl/98/369/s42/a/7], title V, § 522(d)(13), July 18, 1984, [98 Stat. 557][/us/stat/98/557], 871, related to retirement bonds, prior to repeal by [Pub. L. 98–369, div. A, title IV, § 491(b)][/us/pl/98/369/s491/b], (f)(1), July 18, 1984, [98 Stat. 848][/us/stat/98/848], 853, applicable to obligations issued after Dec. 31, 1983.
 
  __Amendments__ 
+
+    2014—Subsec. (q). [Pub. L. 113–295][/us/pl/113/295] struck out subsec. (q) which related to cross-references.
 
     2006—Subsec. (h)(7). [Pub. L. 109–280][/us/pl/109/280] inserted “or subparagraph (B) or (C) of section 401(a)(35)” before period at end.
 
@@ -642,6 +636,10 @@
     Subsec. (m). [Pub. L. 96–222, § 101(a)(7)(D)][/us/pl/96/222/s101/a/7/D], (L)(i), substituted provisions relating to nonrecognition of gain or loss on contribution of employer securities to a tax credit employee stock ownership plan for provisions relating to contributions of stock of a controlling corporation.
 
     Subsec. (n). [Pub. L. 96–222, § 101(a)(7)(L)(iii)(V)][/us/pl/96/222/s101/a/7/L/iii/V], substituted “employee plan credit” for “ESOP credit” in pars. (1) and (2).
+
+ __Effective Date of 2014 Amendment__ 
+
+    Amendment by [Pub. L. 113–295][/us/pl/113/295] effective Dec. 19, 2014, subject to a savings provision, see [section 221(b) of Pub. L. 113–295][/us/pl/113/295/s221/b], set out as a note under [section 1 of this title][/us/usc/t26/s1].
 
  __Effective Date of 2006 Amendment__ 
 
@@ -815,6 +813,8 @@
 [/us/stat/116/47]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F47
 [/us/pl/109/280/s901/a/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280%2Fs901%2Fa%2F2%2FB
 [/us/stat/120/1029]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1029
+[/us/pl/113/295/s221/a/54]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs221%2Fa%2F54
+[/us/stat/128/4045]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F4045
 [/us/usc/t26/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs401
 [/us/pl/99/514/s1171/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1171%2Fa
 [/us/stat/100/2513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2513
@@ -842,6 +842,7 @@
 [/us/stat/98/557]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F557
 [/us/pl/98/369/s491/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs491%2Fb
 [/us/stat/98/848]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F848
+[/us/pl/113/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295
 [/us/pl/109/280]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280
 [/us/pl/107/147]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F147
 [/us/pl/107/16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F16
@@ -909,6 +910,9 @@
 [/us/pl/96/605]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F605
 [/us/pl/96/222/s101/a/7/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F222%2Fs101%2Fa%2F7%2FD
 [/us/pl/96/222/s101/a/7/L/iii/V]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F222%2Fs101%2Fa%2F7%2FL%2Fiii%2FV
+[/us/pl/113/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295
+[/us/pl/113/295/s221/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs221%2Fb
+[/us/usc/t26/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs1
 [/us/pl/109/280]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280
 [/us/pl/109/280/s901/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280%2Fs901%2Fc
 [/us/usc/t26/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs401

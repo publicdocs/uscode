@@ -17,59 +17,7 @@
 
     (a) __Old-age, survivors, and disability insurance__ 
 
-        In addition to other taxes, there is hereby imposed on the income of every individual a tax equal to the following percentages of the wages (as defined in section 3121(a)) received by him with respect to employment (as defined in section 3121(b))—
-
-<table>
-
-          <tr>
-
-            <td> 
-
-        In cases of wages received during:  </td>
-
-            <td> 
-
-        The rate shall be:  </td>
-
-  </tr>
-
-          <tr>
-
-            <td> 
-
-          1984, 1985, 1986, or 1987  </td>
-
-            <td> 
-
-        5.7 percent  </td>
-
-  </tr>
-
-          <tr>
-
-            <td> 
-
-          1988 or 1989  </td>
-
-            <td> 
-
-        6.06 percent  </td>
-
-  </tr>
-
-          <tr>
-
-            <td> 
-
-          1990 or thereafter  </td>
-
-            <td> 
-
-        6.2 percent.  </td>
-
-  </tr>
-
-        </table>
+        In addition to other taxes, there is hereby imposed on the income of every individual a tax equal to 6.2 percent of the wages (as defined in section 3121(a)) received by the individual with respect to employment (as defined in section 3121(b))  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be followed by a period. </sup></sup> 
 
     (b) __Hospital insurance__ 
 
@@ -91,13 +39,15 @@
 
         During any period in which there is in effect an agreement entered into pursuant to section 233 of the Social Security Act with any foreign country, wages received by or paid to an individual shall be exempt from the taxes imposed by this section to the extent that such wages are subject under such agreement exclusively to the laws applicable to the social security system of such foreign country.
 
-([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 415][/us/stat/68A/415]; [Sept. 1, 1954, ch. 1206][/us/act/1954-09-01/ch1206], title II, § 208(b), [68 Stat. 1094][/us/stat/68/1094]; [Aug. 1, 1956, ch. 836][/us/act/1956-08-01/ch836], title II, § 202(b), [70 Stat. 845][/us/stat/70/845]; [Pub. L. 85–840, title IV, § 401(b)][/us/pl/85/840/s401/b], Aug. 28, 1958, [72 Stat. 1041][/us/stat/72/1041]; [Pub. L. 87–64, title II, § 201(b)][/us/pl/87/64/s201/b], June 30, 1961, [75 Stat. 141][/us/stat/75/141]; [Pub. L. 89–97, title I, § 111(c)(5)][/us/pl/89/97/s111/c/5], title III, § 321(b), July 30, 1965, [79 Stat. 342][/us/stat/79/342], 395; [Pub. L. 90–248, title I, § 109(a)(2)][/us/pl/90/248/s109/a/2], (b)(2), Jan. 2, 1968, [81 Stat. 836][/us/stat/81/836]; [Pub. L. 92–5, title II, § 204(a)(1)][/us/pl/92/5/s204/a/1], Mar. 17, 1971, [85 Stat. 11][/us/stat/85/11]; [Pub. L. 92–336, § 204(a)(2)][/us/pl/92/336/s204/a/2], (b)(2), July 1, 1972, [86 Stat. 421][/us/stat/86/421], 422; [Pub. L. 92–603, § 135(a)(2)][/us/pl/92/603/s135/a/2], (b)(2), Oct. 30, 1972, [86 Stat. 1362][/us/stat/86/1362], 1363; [Pub. L. 93–233, § 6(a)(1)][/us/pl/93/233/s6/a/1], (b)(2), Dec. 31, 1973, [87 Stat. 954][/us/stat/87/954], 955; [Pub. L. 94–455, title XIX, § 1903(a)(1)][/us/pl/94/455/s1903/a/1], Oct. 4, 1976, [90 Stat. 1806][/us/stat/90/1806]; [Pub. L. 95–216, title I, § 101(a)(1)][/us/pl/95/216/s101/a/1], (b)(1), title III, § 317(b)(2), Dec. 20, 1977, [91 Stat. 1510][/us/stat/91/1510], 1511, 1540; [Pub. L. 98–21, title I, § 123(a)(1)][/us/pl/98/21/s123/a/1], Apr. 20, 1983, [97 Stat. 87][/us/stat/97/87]; [Pub. L. 108–203, title IV, § 415][/us/pl/108/203/s415], Mar. 2, 2004, [118 Stat. 530][/us/stat/118/530]; [Pub. L. 111–148, title IX, § 9015(a)(1)][/us/pl/111/148/s9015/a/1], title X, § 10906(a), Mar. 23, 2010, [124 Stat. 870][/us/stat/124/870], 1020; [Pub. L. 111–152, title I, § 1402(b)(1)(A)][/us/pl/111/152/s1402/b/1/A], Mar. 30, 2010, [124 Stat. 1063][/us/stat/124/1063].)
+([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 415][/us/stat/68A/415]; [Sept. 1, 1954, ch. 1206][/us/act/1954-09-01/ch1206], title II, § 208(b), [68 Stat. 1094][/us/stat/68/1094]; [Aug. 1, 1956, ch. 836][/us/act/1956-08-01/ch836], title II, § 202(b), [70 Stat. 845][/us/stat/70/845]; [Pub. L. 85–840, title IV, § 401(b)][/us/pl/85/840/s401/b], Aug. 28, 1958, [72 Stat. 1041][/us/stat/72/1041]; [Pub. L. 87–64, title II, § 201(b)][/us/pl/87/64/s201/b], June 30, 1961, [75 Stat. 141][/us/stat/75/141]; [Pub. L. 89–97, title I, § 111(c)(5)][/us/pl/89/97/s111/c/5], title III, § 321(b), July 30, 1965, [79 Stat. 342][/us/stat/79/342], 395; [Pub. L. 90–248, title I, § 109(a)(2)][/us/pl/90/248/s109/a/2], (b)(2), Jan. 2, 1968, [81 Stat. 836][/us/stat/81/836]; [Pub. L. 92–5, title II, § 204(a)(1)][/us/pl/92/5/s204/a/1], Mar. 17, 1971, [85 Stat. 11][/us/stat/85/11]; [Pub. L. 92–336, § 204(a)(2)][/us/pl/92/336/s204/a/2], (b)(2), July 1, 1972, [86 Stat. 421][/us/stat/86/421], 422; [Pub. L. 92–603, § 135(a)(2)][/us/pl/92/603/s135/a/2], (b)(2), Oct. 30, 1972, [86 Stat. 1362][/us/stat/86/1362], 1363; [Pub. L. 93–233, § 6(a)(1)][/us/pl/93/233/s6/a/1], (b)(2), Dec. 31, 1973, [87 Stat. 954][/us/stat/87/954], 955; [Pub. L. 94–455, title XIX, § 1903(a)(1)][/us/pl/94/455/s1903/a/1], Oct. 4, 1976, [90 Stat. 1806][/us/stat/90/1806]; [Pub. L. 95–216, title I, § 101(a)(1)][/us/pl/95/216/s101/a/1], (b)(1), title III, § 317(b)(2), Dec. 20, 1977, [91 Stat. 1510][/us/stat/91/1510], 1511, 1540; [Pub. L. 98–21, title I, § 123(a)(1)][/us/pl/98/21/s123/a/1], Apr. 20, 1983, [97 Stat. 87][/us/stat/97/87]; [Pub. L. 108–203, title IV, § 415][/us/pl/108/203/s415], Mar. 2, 2004, [118 Stat. 530][/us/stat/118/530]; [Pub. L. 111–148, title IX, § 9015(a)(1)][/us/pl/111/148/s9015/a/1], title X, § 10906(a), Mar. 23, 2010, [124 Stat. 870][/us/stat/124/870], 1020; [Pub. L. 111–152, title I, § 1402(b)(1)(A)][/us/pl/111/152/s1402/b/1/A], Mar. 30, 2010, [124 Stat. 1063][/us/stat/124/1063]; [Pub. L. 113–295, div. A, title II, § 221(a)(99)(A)][/us/pl/113/295/s221/a/99/A], Dec. 19, 2014, [128 Stat. 4051][/us/stat/128/4051].)
 
  __References in Text__ 
 
     Section 233 of the Social Security Act, referred to in subsec. (c), is classified to [section 433 of Title 42][/us/usc/t42/s433], The Public Health and Welfare.
 
  __Amendments__ 
+
+    2014—Subsec. (a). [Pub. L. 113–295][/us/pl/113/295] substituted “6.2 percent of the wages (as defined in section 3121(a)) received by the individual with respect to employment (as defined in section 3121(b))” for “the following percentages of the wages (as defined in section 3121(a)) received by him with respect to employment (as defined in section 3121(b))—” and table of rates.
 
     2010—Subsec. (b). [Pub. L. 111–148, § 9015(a)(1)][/us/pl/111/148/s9015/a/1], designated existing text as par. (1), inserted heading, substituted “1.45 percent of the” for “the following percentages of the” and “(as defined in section 3121(b)).” for “(as defined in section 3121(b))—”, struck out former pars. (1) to (6), which related to rates in calendar years 1974 to 1985 and after Dec. 31, 1985, and added par. (2).
 
@@ -174,6 +124,10 @@
     1956—Act Aug. 1, 1956, increased rate of tax with respect to wages received during calendar years 1957 to 1959, and for all calendar years thereafter, by one-quarter percent.
 
     1954—Act Sept. 1, 1954, increased the 3¼ percent rate of tax for the calendar year 1970 and subsequent years to 3½ percent for calendar years 1970 to 1974 and 4 percent for 1975 and subsequent years.
+
+ __Effective Date of 2014 Amendment__ 
+
+    Amendment by [Pub. L. 113–295][/us/pl/113/295] effective Dec. 19, 2014, subject to a savings provision, see [section 221(b) of Pub. L. 113–295][/us/pl/113/295/s221/b], set out as a note under [section 1 of this title][/us/usc/t26/s1].
 
  __Effective Date of 2010 Amendment__ 
 
@@ -294,7 +248,10 @@
 [/us/stat/124/870]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F870
 [/us/pl/111/152/s1402/b/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F152%2Fs1402%2Fb%2F1%2FA
 [/us/stat/124/1063]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1063
+[/us/pl/113/295/s221/a/99/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs221%2Fa%2F99%2FA
+[/us/stat/128/4051]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F4051
 [/us/usc/t42/s433]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs433
+[/us/pl/113/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295
 [/us/pl/111/148/s9015/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs9015%2Fa%2F1
 [/us/pl/111/152/s1402/b/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F152%2Fs1402%2Fb%2F1%2FA
 [/us/pl/111/148/s10906/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs10906%2Fa
@@ -331,6 +288,9 @@
 [/us/pl/89/97/s111/c/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F97%2Fs111%2Fc%2F5
 [/us/pl/87/64]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F64
 [/us/pl/85/840]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F840
+[/us/pl/113/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295
+[/us/pl/113/295/s221/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs221%2Fb
+[/us/usc/t26/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs1
 [/us/pl/111/152]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F152
 [/us/pl/111/152/s1402/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F152%2Fs1402%2Fb%2F3
 [/us/usc/t26/s1401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs1401

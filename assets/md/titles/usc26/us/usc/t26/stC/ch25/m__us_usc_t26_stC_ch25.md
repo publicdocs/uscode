@@ -103,9 +103,19 @@
 
   </tr>
 
+  <tr>
+
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs3511" data-uslm-ref="/us/usc/t26/s3511">3511.</a>  </td>
+
+    <td> Certified professional employer organizations.  </td>
+
+  </tr>
+
 </table>
 
  __Amendments__ 
+
+    2014—[Pub. L. 113–295, div. B, title II, § 206(d)(1)][/us/pl/113/295/s206/d/1], Dec. 19, 2014, [128 Stat. 4071][/us/stat/128/4071], added item 3511.
 
     2010—[Pub. L. 111–226, title II, § 219(b)(3)][/us/pl/111/226/s219/b/3], Aug. 10, 2010, [124 Stat. 2403][/us/stat/124/2403], struck out item 3507 “Advance payment of earned income credit”.
 
@@ -134,6 +144,8 @@
 ----------
 ----------
 
+[/us/pl/113/295/s206/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs206%2Fd%2F1
+[/us/stat/128/4071]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F4071
 [/us/pl/111/226/s219/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F226%2Fs219%2Fb%2F3
 [/us/stat/124/2403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2403
 [/us/pl/103/387/s2/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F387%2Fs2%2Fb%2F2

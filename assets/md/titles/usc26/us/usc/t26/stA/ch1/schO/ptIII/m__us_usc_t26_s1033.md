@@ -197,11 +197,11 @@
 
         (2) __Trade or business and investment property__ 
 
-            If a taxpayer’s property held for productive use in a trade or business or for investment  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be followed by “is”. </sup></sup>  located in a disaster area and compulsorily or involuntarily converted as a result of a federally declared disaster, tangible property of a type held for productive use in a trade or business shall be treated for purposes of subsection (a) as property similar or related in service or use to the property so converted.
+            If a taxpayer’s property held for productive use in a trade or business or for investment  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be followed by “is”. </sup></sup>  located in a disaster area and is compulsorily or involuntarily converted as a result of a federally declared disaster, tangible property of a type held for productive use in a trade or business shall be treated for purposes of subsection (a) as property similar or related in service or use to the property so converted.
 
         (3) __Federally declared disaster; disaster area__ 
 
-            The terms “federally declared disaster” and “disaster area” shall have the respective meaning given such terms by section 165(h)(3)(C).
+            The terms “federally declared disaster” and “disaster area” shall have the respective meaning given such terms by section 165(i)(5).
 
         (4) __Principal residence__ 
 
@@ -229,21 +229,11 @@
 
             For purposes of this subsection, a person is related to another person if the person bears a relationship to the other person described in section 267(b) or 707(b)(1).
 
-    (j) __Sales or exchanges to implement microwave relocation policy__ 
-
-        (1) __In general__ 
-
-            For purposes of this subtitle, if a taxpayer elects the application of this subsection to a qualified sale or exchange, such sale or exchange shall be treated as an involuntary conversion to which this section applies.
-
-        (2) __Qualified sale or exchange__ 
-
-            For purposes of paragraph (1), the term “qualified sale or exchange” means a sale or exchange before January 1, 2000, which is certified by the Federal Communications Commission as having been made by a taxpayer in connection with the relocation of the taxpayer from the 1850–1990MHz spectrum by reason of the Federal Communications Commission’s reallocation of that spectrum for use for personal communications services. The Commission shall transmit copies of certifications under this paragraph to the Secretary.
-
-    (k) __Sales or exchanges under certain hazard mitigation programs__ 
+    (j) __Sales or exchanges under certain hazard mitigation programs__ 
 
         For purposes of this subtitle, if property is sold or otherwise transferred to the Federal Government, a State or local government, or an Indian tribal government to implement hazard mitigation under the Robert T. Stafford Disaster Relief and Emergency Assistance Act (as in effect on the date of the enactment of this subsection) or the National Flood Insurance Act (as in effect on such date), such sale or transfer shall be treated as an involuntary conversion to which this section applies.
 
-    (l) __Cross references__ 
+    (k) __Cross references__ 
 
         (1) For determination of the period for which the taxpayer has held property involuntarily converted, see section 1223.
 
@@ -251,17 +241,23 @@
 
         (3) For exclusion from gross income of gain from involuntary conversion of principal residence, see section 121.
 
-([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 303][/us/stat/68A/303]; [June 29, 1956, ch. 464, § 5(a)][/us/act/1956-06-29/ch464/s5/a], [70 Stat. 407][/us/stat/70/407]; [Pub. L. 85–866, title I][/us/pl/85/866], §§ 45, 46(a), Sept. 2, 1958, [72 Stat. 1641][/us/stat/72/1641]; [Pub. L. 88–272, title II, § 206(b)(3)][/us/pl/88/272/s206/b/3], Feb. 26, 1964, [78 Stat. 40][/us/stat/78/40]; [Pub. L. 91–172, title IX, § 915(a)][/us/pl/91/172/s915/a], Dec. 30, 1969, [83 Stat. 723][/us/stat/83/723]; [Pub. L. 94–455, title XIX][/us/pl/94/455], §§ 1901(a)(128), 1906(b)(13)(A), title XXI, §§ 2127(a), 2140(a), Oct. 4, 1976, [90 Stat. 1785][/us/stat/90/1785], 1834, 1920, 1932; [Pub. L. 95–600, title IV, § 404(c)(4)][/us/pl/95/600/s404/c/4], title V, § 542(a), title VII, § 703(j)(5), Nov. 6, 1978, [92 Stat. 2870][/us/stat/92/2870], 2888, 2941; [Pub. L. 97–34, title II, § 202(d)(2)][/us/pl/97/34/s202/d/2], Aug. 13, 1981, [95 Stat. 221][/us/stat/95/221]; [Pub. L. 98–369, div. A, title IV, § 474(r)(24)][/us/pl/98/369/s474/r/24], July 18, 1984, [98 Stat. 844][/us/stat/98/844]; [Pub. L. 101–508, title XI, § 11813(b)(20)][/us/pl/101/508/s11813/b/20], Nov. 5, 1990, [104 Stat. 1388–555][/us/stat/104/1388-555]; [Pub. L. 103–66, title XIII, § 13431(a)][/us/pl/103/66/s13431/a], Aug. 10, 1993, [107 Stat. 567][/us/stat/107/567]; [Pub. L. 104–7, § 3(a)(1)][/us/pl/104/7/s3/a/1], (b)(1), Apr. 11, 1995, [109 Stat. 94][/us/stat/109/94], 95; [Pub. L. 104–188, title I][/us/pl/104/188], §§ 1119(a), (b), 1610(a), Aug. 20, 1996, [110 Stat. 1765][/us/stat/110/1765], 1844; [Pub. L. 105–34, title III, § 312(d)(1)][/us/pl/105/34/s312/d/1], (7), title IX, § 913(b), title X, § 1087(a), Aug. 5, 1997, [111 Stat. 839][/us/stat/111/839], 840, 878, 959; [Pub. L. 108–311, title IV, § 408(a)(7)(C)][/us/pl/108/311/s408/a/7/C], Oct. 4, 2004, [118 Stat. 1191][/us/stat/118/1191]; [Pub. L. 108–357, title III, § 311(a)][/us/pl/108/357/s311/a], (b), Oct. 22, 2004, [118 Stat. 1466][/us/stat/118/1466], 1467; [Pub. L. 109–7, § 1(b)][/us/pl/109/7/s1/b], Apr. 15, 2005, [119 Stat. 22][/us/stat/119/22]; [Pub. L. 110–343, div. C, title VII, § 706(a)(2)(D)(i)][/us/pl/110/343/s706/a/2/D/i]–(iii), Oct. 3, 2008, [122 Stat. 3922][/us/stat/122/3922].)
+([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 303][/us/stat/68A/303]; [June 29, 1956, ch. 464, § 5(a)][/us/act/1956-06-29/ch464/s5/a], [70 Stat. 407][/us/stat/70/407]; [Pub. L. 85–866, title I][/us/pl/85/866], §§ 45, 46(a), Sept. 2, 1958, [72 Stat. 1641][/us/stat/72/1641]; [Pub. L. 88–272, title II, § 206(b)(3)][/us/pl/88/272/s206/b/3], Feb. 26, 1964, [78 Stat. 40][/us/stat/78/40]; [Pub. L. 91–172, title IX, § 915(a)][/us/pl/91/172/s915/a], Dec. 30, 1969, [83 Stat. 723][/us/stat/83/723]; [Pub. L. 94–455, title XIX][/us/pl/94/455], §§ 1901(a)(128), 1906(b)(13)(A), title XXI, §§ 2127(a), 2140(a), Oct. 4, 1976, [90 Stat. 1785][/us/stat/90/1785], 1834, 1920, 1932; [Pub. L. 95–600, title IV, § 404(c)(4)][/us/pl/95/600/s404/c/4], title V, § 542(a), title VII, § 703(j)(5), Nov. 6, 1978, [92 Stat. 2870][/us/stat/92/2870], 2888, 2941; [Pub. L. 97–34, title II, § 202(d)(2)][/us/pl/97/34/s202/d/2], Aug. 13, 1981, [95 Stat. 221][/us/stat/95/221]; [Pub. L. 98–369, div. A, title IV, § 474(r)(24)][/us/pl/98/369/s474/r/24], July 18, 1984, [98 Stat. 844][/us/stat/98/844]; [Pub. L. 101–508, title XI, § 11813(b)(20)][/us/pl/101/508/s11813/b/20], Nov. 5, 1990, [104 Stat. 1388–555][/us/stat/104/1388-555]; [Pub. L. 103–66, title XIII, § 13431(a)][/us/pl/103/66/s13431/a], Aug. 10, 1993, [107 Stat. 567][/us/stat/107/567]; [Pub. L. 104–7, § 3(a)(1)][/us/pl/104/7/s3/a/1], (b)(1), Apr. 11, 1995, [109 Stat. 94][/us/stat/109/94], 95; [Pub. L. 104–188, title I][/us/pl/104/188], §§ 1119(a), (b), 1610(a), Aug. 20, 1996, [110 Stat. 1765][/us/stat/110/1765], 1844; [Pub. L. 105–34, title III, § 312(d)(1)][/us/pl/105/34/s312/d/1], (7), title IX, § 913(b), title X, § 1087(a), Aug. 5, 1997, [111 Stat. 839][/us/stat/111/839], 840, 878, 959; [Pub. L. 108–311, title IV, § 408(a)(7)(C)][/us/pl/108/311/s408/a/7/C], Oct. 4, 2004, [118 Stat. 1191][/us/stat/118/1191]; [Pub. L. 108–357, title III, § 311(a)][/us/pl/108/357/s311/a], (b), Oct. 22, 2004, [118 Stat. 1466][/us/stat/118/1466], 1467; [Pub. L. 109–7, § 1(b)][/us/pl/109/7/s1/b], Apr. 15, 2005, [119 Stat. 22][/us/stat/119/22]; [Pub. L. 110–343, div. C, title VII, § 706(a)(2)(D)(i)][/us/pl/110/343/s706/a/2/D/i]–(iii), Oct. 3, 2008, [122 Stat. 3922][/us/stat/122/3922]; [Pub. L. 113–295, div. A, title II][/us/pl/113/295], §§ 211(c)(1)(A), 221(a)(27)(D), (77), Dec. 19, 2014, [128 Stat. 4033][/us/stat/128/4033], 4041, 4049.)
 
  __References in Text__ 
 
-    The Robert T. Stafford Disaster Relief and Emergency Assistance Act, referred to in subsec. (k), is [Pub. L. 93–288][/us/pl/93/288], May 22, 1974, [88 Stat. 143][/us/stat/88/143], which is classified principally to chapter 68 (§ 5121 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 5121 of Title 42][/us/usc/t42/s5121] and Tables.
+    The Robert T. Stafford Disaster Relief and Emergency Assistance Act, referred to in subsec. (j), is [Pub. L. 93–288][/us/pl/93/288], May 22, 1974, [88 Stat. 143][/us/stat/88/143], which is classified principally to chapter 68 (§ 5121 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 5121 of Title 42][/us/usc/t42/s5121] and Tables.
 
-    The date of the enactment of this subsection, referred to in subsec. (k), is the date of enactment of [Pub. L. 109–7][/us/pl/109/7], which was approved Apr. 15, 2005.
+    The date of the enactment of this subsection, referred to in subsec. (j), is the date of enactment of [Pub. L. 109–7][/us/pl/109/7], which was approved Apr. 15, 2005.
 
-    The National Flood Insurance Act, referred to in subsec. (k), probably means the National Flood Insurance Act of 1968, title XIII of [Pub. L. 90–448][/us/pl/90/448], Aug. 1, 1968, [82 Stat. 572][/us/stat/82/572], as amended, which is classified principally to chapter 50 (§ 4001 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 4001 of Title 42][/us/usc/t42/s4001] and Tables.
+    The National Flood Insurance Act, referred to in subsec. (j), probably means the National Flood Insurance Act of 1968, title XIII of [Pub. L. 90–448][/us/pl/90/448], Aug. 1, 1968, [82 Stat. 572][/us/stat/82/572], which is classified principally to chapter 50 (§ 4001 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 4001 of Title 42][/us/usc/t42/s4001] and Tables.
 
  __Amendments__ 
+
+    2014—Subsec. (h)(2). [Pub. L. 113–295, § 211(c)(1)(A)][/us/pl/113/295/s211/c/1/A], inserted “is” before “compulsorily”.
+
+    Subsec. (h)(3). [Pub. L. 113–295, § 221(a)(27)(D)][/us/pl/113/295/s221/a/27/D], substituted “section 165(i)(5)” for “section 165(h)(3)(C)”.
+
+    Subsecs. (j) to (l). [Pub. L. 113–295, § 221(a)(77)][/us/pl/113/295/s221/a/77], redesignated subsecs. (k) and (l) as (j) and (k), respectively, and struck out former subsec. (j), which related to sales or exchanges to implement microwave relocation policy.
 
     2008—Subsec. (h). [Pub. L. 110–343, § 706(a)(2)(D)(i)][/us/pl/110/343/s706/a/2/D/i], amended heading generally. Prior to amendment, heading read as follows: “Special rules for property damaged by Presidentially declared disasters”.
 
@@ -350,6 +346,12 @@
     Subsecs. (g), (h). [Pub. L. 85–866, § 46(a)][/us/pl/85/866/s46/a], added subsec. (g) and redesignated former subsec. (g) as (h).
 
     1956—Subsecs. (f), (g). Act June 29, 1956, added subsec. (f) and redesignated former subsec. (f) as (g).
+
+ __Effective Date of 2014 Amendment__ 
+
+    Amendment by [section 211(c)(1)(A) of Pub. L. 113–295][/us/pl/113/295/s211/c/1/A] effective as if included in the provisions of the Tax Extenders and Alternative Minimum Tax Relief Act of 2008, [Pub. L. 110–343, div. C][/us/pl/110/343], to which such amendment relates, see [section 211(d) of Pub. L. 113–295][/us/pl/113/295/s211/d], set out as a note under [section 143 of this title][/us/usc/t26/s143].
+
+    Amendment by section 221(a)(27)(D), (77) of [Pub. L. 113–295][/us/pl/113/295] effective Dec. 19, 2014, subject to a savings provision, see [section 221(b) of Pub. L. 113–295][/us/pl/113/295/s221/b], set out as a note under [section 1 of this title][/us/usc/t26/s1].
 
  __Effective Date of 2008 Amendment__ 
 
@@ -502,6 +504,8 @@
 [/us/stat/119/22]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F22
 [/us/pl/110/343/s706/a/2/D/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F343%2Fs706%2Fa%2F2%2FD%2Fi
 [/us/stat/122/3922]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3922
+[/us/pl/113/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295
+[/us/stat/128/4033]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F4033
 [/us/pl/93/288]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F288
 [/us/stat/88/143]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F143
 [/us/usc/t42/s5121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5121
@@ -509,6 +513,9 @@
 [/us/pl/90/448]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F448
 [/us/stat/82/572]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F572
 [/us/usc/t42/s4001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4001
+[/us/pl/113/295/s211/c/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs211%2Fc%2F1%2FA
+[/us/pl/113/295/s221/a/27/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs221%2Fa%2F27%2FD
+[/us/pl/113/295/s221/a/77]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs221%2Fa%2F77
 [/us/pl/110/343/s706/a/2/D/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F343%2Fs706%2Fa%2F2%2FD%2Fi
 [/us/pl/110/343/s706/a/2/D/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F343%2Fs706%2Fa%2F2%2FD%2Fi
 [/us/pl/110/343/s706/a/2/D/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F343%2Fs706%2Fa%2F2%2FD%2Fii
@@ -547,6 +554,13 @@
 [/us/pl/88/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F272
 [/us/pl/85/866/s45]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F866%2Fs45
 [/us/pl/85/866/s46/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F866%2Fs46%2Fa
+[/us/pl/113/295/s211/c/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs211%2Fc%2F1%2FA
+[/us/pl/110/343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F343
+[/us/pl/113/295/s211/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs211%2Fd
+[/us/usc/t26/s143]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs143
+[/us/pl/113/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295
+[/us/pl/113/295/s221/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs221%2Fb
+[/us/usc/t26/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs1
 [/us/pl/110/343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F343
 [/us/pl/110/343/s706/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F343%2Fs706%2Fd%2F1
 [/us/usc/t26/s56]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs56

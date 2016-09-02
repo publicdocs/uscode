@@ -247,7 +247,19 @@
 
     Amendment by section 1151(c)(4), (g)(3) of [Pub. L. 99–514][/us/pl/99/514] applicable, with certain qualifications and exceptions, to years beginning after Dec. 31, 1988, see [section 1151(k) of Pub. L. 99–514][/us/pl/99/514/s1151/k], as amended, set out as a note under [section 79 of this title][/us/usc/t26/s79].
 
-    Amendment by [section 1162(a) of Pub. L. 99–514][/us/pl/99/514/s1162/a] applicable to taxable years beginning after Dec. 31, 1985, see [section 1162(c) of Pub. L. 99–514][/us/pl/99/514/s1162/c], set out as a note under [section 120 of this title][/us/usc/t26/s120].
+[Pub. L. 99–514, title XI, § 1162(c)][/us/pl/99/514/s1162/c], Oct. 22, 1986, [100 Stat. 2510][/us/stat/100/2510], provided that:
+
+>     “(1)  __Subsection__  __(a).—__ 
+
+>     The amendments made by subsection (a) \[amending this section\] shall apply to taxable years beginning after December 31, 1985.
+
+>     “(2)  __Subsection__  __(b).—__ 
+
+>     The amendment made by subsection (b) \[amending [section 120 of this title][/us/usc/t26/s120]\] shall apply to years ending after December 31, 1985.
+
+>     “(3)  __Cafeteria plan with group legal benefits__  __.—__ 
+
+>     If, within 60 days after the date of the enactment of this Act \[Oct. 22, 1986\], an employee elects under a cafeteria plan under section 125 of the Internal Revenue Code of 1986 coverage for group legal benefits to which \[former\] section 120 of such Code applies, such election may, at the election of the taxpayer, apply to all legal services provided during 1986. The preceding sentence shall not apply to any plan which on August 16, 1986, offered such group legal benefits under such plan.”
 
  __Effective Date of 1984 Amendment__ 
 
@@ -410,8 +422,8 @@
 [/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
 [/us/pl/99/514/s1151/k]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1151%2Fk
 [/us/usc/t26/s79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs79
-[/us/pl/99/514/s1162/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1162%2Fa
 [/us/pl/99/514/s1162/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1162%2Fc
+[/us/stat/100/2510]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2510
 [/us/usc/t26/s120]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs120
 [/us/pl/98/611/s1/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F611%2Fs1%2Fg
 [/us/stat/98/3178]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F3178

@@ -29,11 +29,11 @@
 
   <tr>
 
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2FstD%2Fch31%2FschA" data-uslm-ref="/us/usc/t26/stD/ch31/schA">A.</a>  </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2FstD%2Fch31%2FschA" data-uslm-ref="/us/usc/t26/stD/ch31/schA">A.</a>  </td>
 
-    <td> Luxury passenger vehicles  <sup>[2]</sup>  <sup><sup> 2 So in original. Does not conform to subchapter heading. </sup></sup>   </td>
+    <td> Repealed.]  </td>
 
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs4001" data-uslm-ref="/us/usc/t26/s4001">4001</a>  </td>
+    <td>   </td>
 
   </tr>
 
@@ -118,6 +118,8 @@
     A prior section 4058, [act Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 480][/us/stat/68A/480], § 4058, formerly 4057; renumbered Sept. 2, 1958, [Pub. L. 85–859, title I, § 105(a)][/us/pl/85/859/s105/a], [72 Stat. 1277][/us/stat/72/1277], related to cross references for exemption of sales to United States in certain cases and administrative provisions of general application.
 
  __Amendments__ 
+
+    2014—[Pub. L. 113–295, div. A, title II, § 221(a)(103)(A)][/us/pl/113/295/s221/a/103/A], Dec. 19, 2014, [128 Stat. 4052][/us/stat/128/4052], struck out item for subchapter A “Luxury passenger vehicles”.
 
     1993—[Pub. L. 103–66, title XIII, § 13161(b)(3)][/us/pl/103/66/s13161/b/3], Aug. 10, 1993, [107 Stat. 453][/us/stat/107/453], substituted “Luxury passenger vehicles” for “Certain luxury items” in item for subchapter A.
 
@@ -206,6 +208,8 @@
 [/us/stat/68A/480]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68A%2F480
 [/us/pl/85/859/s105/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F859%2Fs105%2Fa
 [/us/stat/72/1277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F1277
+[/us/pl/113/295/s221/a/103/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs221%2Fa%2F103%2FA
+[/us/stat/128/4052]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F4052
 [/us/pl/103/66/s13161/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66%2Fs13161%2Fb%2F3
 [/us/stat/107/453]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F453
 [/us/pl/101/508/s11221/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs11221%2Fe

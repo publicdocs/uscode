@@ -61,7 +61,7 @@
 
             (A) __In general__ 
 
-            The Secretary shall require than  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be “that”. </sup></sup>  any individual income tax return prepared by a tax return preparer be filed on magnetic media if—
+            The Secretary shall require that any individual income tax return prepared by a tax return preparer be filed on magnetic media if—
 
                 (i) such return is filed by such tax return preparer, and
 
@@ -97,13 +97,15 @@
 
         For requirement that returns of income, estate, and gift taxes be made whether or not there is tax liability, see subparts B and C.
 
-([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 732][/us/stat/68A/732]; [Pub. L. 85–859, title I, § 161][/us/pl/85/859/s161], Sept. 2, 1958, [72 Stat. 1305][/us/stat/72/1305]; [Pub. L. 88–563, § 3(a)][/us/pl/88/563/s3/a], Sept. 2, 1964, [78 Stat. 843][/us/stat/78/843]; [Pub. L. 89–44, title I, § 101(b)(6)][/us/pl/89/44/s101/b/6], June 21, 1965, [79 Stat. 136][/us/stat/79/136]; [Pub. L. 90–59, § 4(b)][/us/pl/90/59/s4/b], July 31, 1967, [81 Stat. 154][/us/stat/81/154]; [Pub. L. 91–128, § 4][/us/pl/91/128/s4] (f), (g), Nov. 26, 1969, [83 Stat. 267][/us/stat/83/267]; [Pub. L. 92–178, title V, § 504(a)][/us/pl/92/178/s504/a], Dec. 10, 1971, [85 Stat. 550][/us/stat/85/550]; [Pub. L. 94–455, title XIX][/us/pl/94/455], §§ 1904(b)(10)(A)(ii), 1906(b)(13)(A), Oct. 4, 1976, [90 Stat. 1817][/us/stat/90/1817], 1834; [Pub. L. 95–615, § 207(c)][/us/pl/95/615/s207/c], Nov. 8, 1978, [92 Stat. 3108][/us/stat/92/3108]; [Pub. L. 97–248, title III, § 319][/us/pl/97/248/s319], Sept. 3, 1982, [96 Stat. 610][/us/stat/96/610]; [Pub. L. 98–67, title I, § 109(a)][/us/pl/98/67/s109/a], Aug. 5, 1983, [97 Stat. 383][/us/stat/97/383]; [Pub. L. 98–369, div. A, title VIII, § 801(d)(12)][/us/pl/98/369/s801/d/12], July 18, 1984, [98 Stat. 997][/us/stat/98/997]; [Pub. L. 99–514, title XVIII, § 1899A(52)][/us/pl/99/514/s1899A/52], Oct. 22, 1986, [100 Stat. 2961][/us/stat/100/2961]; [Pub. L. 100–647, title I, § 1015(q)(1)][/us/pl/100/647/s1015/q/1], Nov. 10, 1988, [102 Stat. 3572][/us/stat/102/3572]; [Pub. L. 101–239, title VII, § 7713(a)][/us/pl/101/239/s7713/a], Dec. 19, 1989, [103 Stat. 2394][/us/stat/103/2394]; [Pub. L. 105–34, title XII, § 1224][/us/pl/105/34/s1224], Aug. 5, 1997, [111 Stat. 1019][/us/stat/111/1019]; [Pub. L. 105–206, title II, § 2001(c)][/us/pl/105/206/s2001/c], July 22, 1998, [112 Stat. 723][/us/stat/112/723]; [Pub. L. 109–222, title V, § 516(b)(2)][/us/pl/109/222/s516/b/2], May 17, 2006, [120 Stat. 371][/us/stat/120/371]; [Pub. L. 110–172, § 11(g)(19)][/us/pl/110/172/s11/g/19], Dec. 29, 2007, [121 Stat. 2491][/us/stat/121/2491]; [Pub. L. 111–92, § 17(a)][/us/pl/111/92/s17/a], (b), Nov. 6, 2009, [123 Stat. 2996][/us/stat/123/2996]; [Pub. L. 111–147, title V, § 522(a)][/us/pl/111/147/s522/a], Mar. 18, 2010, [124 Stat. 112][/us/stat/124/112].)
+([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 732][/us/stat/68A/732]; [Pub. L. 85–859, title I, § 161][/us/pl/85/859/s161], Sept. 2, 1958, [72 Stat. 1305][/us/stat/72/1305]; [Pub. L. 88–563, § 3(a)][/us/pl/88/563/s3/a], Sept. 2, 1964, [78 Stat. 843][/us/stat/78/843]; [Pub. L. 89–44, title I, § 101(b)(6)][/us/pl/89/44/s101/b/6], June 21, 1965, [79 Stat. 136][/us/stat/79/136]; [Pub. L. 90–59, § 4(b)][/us/pl/90/59/s4/b], July 31, 1967, [81 Stat. 154][/us/stat/81/154]; [Pub. L. 91–128, § 4][/us/pl/91/128/s4] (f), (g), Nov. 26, 1969, [83 Stat. 267][/us/stat/83/267]; [Pub. L. 92–178, title V, § 504(a)][/us/pl/92/178/s504/a], Dec. 10, 1971, [85 Stat. 550][/us/stat/85/550]; [Pub. L. 94–455, title XIX][/us/pl/94/455], §§ 1904(b)(10)(A)(ii), 1906(b)(13)(A), Oct. 4, 1976, [90 Stat. 1817][/us/stat/90/1817], 1834; [Pub. L. 95–615, § 207(c)][/us/pl/95/615/s207/c], Nov. 8, 1978, [92 Stat. 3108][/us/stat/92/3108]; [Pub. L. 97–248, title III, § 319][/us/pl/97/248/s319], Sept. 3, 1982, [96 Stat. 610][/us/stat/96/610]; [Pub. L. 98–67, title I, § 109(a)][/us/pl/98/67/s109/a], Aug. 5, 1983, [97 Stat. 383][/us/stat/97/383]; [Pub. L. 98–369, div. A, title VIII, § 801(d)(12)][/us/pl/98/369/s801/d/12], July 18, 1984, [98 Stat. 997][/us/stat/98/997]; [Pub. L. 99–514, title XVIII, § 1899A(52)][/us/pl/99/514/s1899A/52], Oct. 22, 1986, [100 Stat. 2961][/us/stat/100/2961]; [Pub. L. 100–647, title I, § 1015(q)(1)][/us/pl/100/647/s1015/q/1], Nov. 10, 1988, [102 Stat. 3572][/us/stat/102/3572]; [Pub. L. 101–239, title VII, § 7713(a)][/us/pl/101/239/s7713/a], Dec. 19, 1989, [103 Stat. 2394][/us/stat/103/2394]; [Pub. L. 105–34, title XII, § 1224][/us/pl/105/34/s1224], Aug. 5, 1997, [111 Stat. 1019][/us/stat/111/1019]; [Pub. L. 105–206, title II, § 2001(c)][/us/pl/105/206/s2001/c], July 22, 1998, [112 Stat. 723][/us/stat/112/723]; [Pub. L. 109–222, title V, § 516(b)(2)][/us/pl/109/222/s516/b/2], May 17, 2006, [120 Stat. 371][/us/stat/120/371]; [Pub. L. 110–172, § 11(g)(19)][/us/pl/110/172/s11/g/19], Dec. 29, 2007, [121 Stat. 2491][/us/stat/121/2491]; [Pub. L. 111–92, § 17(a)][/us/pl/111/92/s17/a], (b), Nov. 6, 2009, [123 Stat. 2996][/us/stat/123/2996]; [Pub. L. 111–147, title V, § 522(a)][/us/pl/111/147/s522/a], Mar. 18, 2010, [124 Stat. 112][/us/stat/124/112]; [Pub. L. 113–295, div. A, title II, § 220(t)][/us/pl/113/295/s220/t], Dec. 19, 2014, [128 Stat. 4036][/us/stat/128/4036].)
 
  __References in Text__ 
 
     The FSC Repeal and Extraterritorial Income Exclusion Act of 2000, referred to in subsec. (c)(1), is [Pub. L. 106–519][/us/pl/106/519], Nov. 15, 2000, [114 Stat. 2423][/us/stat/114/2423]. For complete classification of this Act to the Code, see Short Title of 2000 Amendments note set out under [section 1 of this title][/us/usc/t26/s1] and Tables.
 
  __Amendments__ 
+
+    2014—Subsec. (e)(3)(A). [Pub. L. 113–295][/us/pl/113/295] substituted “shall require that” for “shall require than” in introductory provisions.
 
     2010—Subsec. (e)(4). [Pub. L. 111–147][/us/pl/111/147] added par. (4).
 
@@ -348,9 +350,12 @@
 [/us/stat/123/2996]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F2996
 [/us/pl/111/147/s522/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F147%2Fs522%2Fa
 [/us/stat/124/112]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F112
+[/us/pl/113/295/s220/t]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs220%2Ft
+[/us/stat/128/4036]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F4036
 [/us/pl/106/519]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F519
 [/us/stat/114/2423]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2423
 [/us/usc/t26/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs1
+[/us/pl/113/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295
 [/us/pl/111/147]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F147
 [/us/pl/111/92/s17/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F92%2Fs17%2Fb
 [/us/pl/111/92/s17/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F92%2Fs17%2Fa

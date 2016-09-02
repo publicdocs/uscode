@@ -87,7 +87,7 @@
 
                 (ii)
 
-                 the aggregate amount of deductions provided by sections 243, 244, and 245 for—
+                 the aggregate amount of deductions provided by sections 243 and 245 for—
 
                     (I) dividends (other than 100 percent dividends) received during the taxable year, and
 
@@ -117,13 +117,13 @@
 
                 (i) __Prorated amounts__ 
 
-                    The term “prorated amounts” means tax-exempt interest and dividends with respect to which a deduction is allowable under section 243, 244, or 245 (other than 100 percent dividends).
+                    The term “prorated amounts” means tax-exempt interest and dividends with respect to which a deduction is allowable under section 243 or 245 (other than 100 percent dividends).
 
                 (ii) __100 percent dividend__ 
 
                     (I) __In general__ 
 
-                        The term “100 percent dividend” means any dividend if the percentage used for purposes of determining the deduction allowable under section 243, 244, or 245(b) is 100 percent.
+                        The term “100 percent dividend” means any dividend if the percentage used for purposes of determining the deduction allowable under section 243 or 245(b) is 100 percent.
 
                     (II) __Certain dividends received by foreign corporations__ 
 
@@ -283,7 +283,7 @@
 
     (e) __Special deduction and income account__ 
 
-    In the case of taxable years beginning after December 31, 1966, of a company which writes mortgage guaranty insurance—
+    In the case of a company which writes mortgage guaranty insurance—
 
         (1) __Additional deduction__ 
 
@@ -323,7 +323,7 @@
 
         (6) __Lease guaranty insurance; insurance of State and local obligations__ 
 
-            In the case of any taxable year beginning after December 31, 1970, the provisions of this subsection shall also apply in all respects to a company which writes lease guaranty insurance or insurance on obligations the interest on which is excludable from gross income under section 103. In applying this subsection to such a company, any reference to mortgage guaranty insurance contained in this section shall be deemed to be a reference also to lease guaranty insurance and to insurance on obligations the interest on which is excludable from gross income under section 103; and in the case of insurance on obligations the interest on which is excludable from gross income under section 103, the references in paragraph (1) to “losses resulting from adverse economic cycles” include losses from declining revenues related to such obligations (as well as losses resulting from adverse economic cycles), and the time specified in subparagraph (A) of paragraph (5) shall be the twentieth preceding taxable year.
+            The provisions of this subsection shall also apply in all respects to a company which writes lease guaranty insurance or insurance on obligations the interest on which is excludable from gross income under section 103. In applying this subsection to such a company, any reference to mortgage guaranty insurance contained in this section shall be deemed to be a reference also to lease guaranty insurance and to insurance on obligations the interest on which is excludable from gross income under section 103; and in the case of insurance on obligations the interest on which is excludable from gross income under section 103, the references in paragraph (1) to “losses resulting from adverse economic cycles” include losses from declining revenues related to such obligations (as well as losses resulting from adverse economic cycles), and the time specified in subparagraph (A) of paragraph (5) shall be the twentieth preceding taxable year.
 
     (f) __Interinsurers__ 
 
@@ -339,7 +339,7 @@
 
         In the case of an insurance company subject to tax under section 831(a) filing or required to file a consolidated return under section 1501 with respect to any affiliated group for any taxable year, any determination under this part with respect to any dividend paid by one member of such group to another member of such group shall be made as if such group were not filing a consolidated return.
 
-([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 264][/us/stat/68A/264]; [Mar. 13, 1956, ch. 83, § 3(b)][/us/act/1956-03-13/ch83/s3/b], [70 Stat. 48][/us/stat/70/48]; [Pub. L. 87–834, § 8(e)(2)][/us/pl/87/834/s8/e/2]–(5), Oct. 16, 1962, [76 Stat. 997][/us/stat/76/997], 998; [Pub. L. 88–272, title II, § 228(c)][/us/pl/88/272/s228/c], Feb. 26, 1964, [78 Stat. 99][/us/stat/78/99]; [Pub. L. 89–809, title I, § 104(i)(7)][/us/pl/89/809/s104/i/7], Nov. 13, 1966, [80 Stat. 1562][/us/stat/80/1562]; [Pub. L. 90–240, § 5(a)][/us/pl/90/240/s5/a]–(c), Jan. 2, 1968, [81 Stat. 776][/us/stat/81/776], 777; [Pub. L. 93–483, § 5][/us/pl/93/483/s5], Oct. 26, 1974, [88 Stat. 1458][/us/stat/88/1458]; [Pub. L. 94–455, title XIX][/us/pl/94/455], §§ 1901(a)(108), (b)(1)(T), (U), 1906(b)(13)(A), Oct. 4, 1976, [90 Stat. 1782][/us/stat/90/1782], 1792, 1834; [Pub. L. 97–248, title II, § 234(b)(2)(A)][/us/pl/97/248/s234/b/2/A], Sept. 3, 1982, [96 Stat. 503][/us/stat/96/503]; [Pub. L. 98–369, div. A, title II, § 211(b)(9)][/us/pl/98/369/s211/b/9], July 18, 1984, [98 Stat. 755][/us/stat/98/755]; [Pub. L. 99–514, title X][/us/pl/99/514], §§ 1021(a), (b), 1022(a), 1023(a), 1024(c)(1)–(6), Oct. 22, 1986, [100 Stat. 2395][/us/stat/100/2395], 2397, 2399, 2406, 2407; [Pub. L. 100–647, title I, § 1010(c)][/us/pl/100/647/s1010/c], (d)(1), (2), Nov. 10, 1988, [102 Stat. 3451–3453][/us/stat/102/3451-3453]; [Pub. L. 101–508, title XI][/us/pl/101/508], §§ 11303(a), (b), 11305(a), Nov. 5, 1990, [104 Stat. 1388–450][/us/stat/104/1388-450], 1388–451; [Pub. L. 104–188, title I][/us/pl/104/188], §§ 1702(h)(3), 1704(t)(45), Aug. 20, 1996, [110 Stat. 1873][/us/stat/110/1873], 1889; [Pub. L. 105–34, title X, § 1084(b)(4)][/us/pl/105/34/s1084/b/4], Aug. 5, 1997, [111 Stat. 955][/us/stat/111/955].)
+([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 264][/us/stat/68A/264]; [Mar. 13, 1956, ch. 83, § 3(b)][/us/act/1956-03-13/ch83/s3/b], [70 Stat. 48][/us/stat/70/48]; [Pub. L. 87–834, § 8(e)(2)][/us/pl/87/834/s8/e/2]–(5), Oct. 16, 1962, [76 Stat. 997][/us/stat/76/997], 998; [Pub. L. 88–272, title II, § 228(c)][/us/pl/88/272/s228/c], Feb. 26, 1964, [78 Stat. 99][/us/stat/78/99]; [Pub. L. 89–809, title I, § 104(i)(7)][/us/pl/89/809/s104/i/7], Nov. 13, 1966, [80 Stat. 1562][/us/stat/80/1562]; [Pub. L. 90–240, § 5(a)][/us/pl/90/240/s5/a]–(c), Jan. 2, 1968, [81 Stat. 776][/us/stat/81/776], 777; [Pub. L. 93–483, § 5][/us/pl/93/483/s5], Oct. 26, 1974, [88 Stat. 1458][/us/stat/88/1458]; [Pub. L. 94–455, title XIX][/us/pl/94/455], §§ 1901(a)(108), (b)(1)(T), (U), 1906(b)(13)(A), Oct. 4, 1976, [90 Stat. 1782][/us/stat/90/1782], 1792, 1834; [Pub. L. 97–248, title II, § 234(b)(2)(A)][/us/pl/97/248/s234/b/2/A], Sept. 3, 1982, [96 Stat. 503][/us/stat/96/503]; [Pub. L. 98–369, div. A, title II, § 211(b)(9)][/us/pl/98/369/s211/b/9], July 18, 1984, [98 Stat. 755][/us/stat/98/755]; [Pub. L. 99–514, title X][/us/pl/99/514], §§ 1021(a), (b), 1022(a), 1023(a), 1024(c)(1)–(6), Oct. 22, 1986, [100 Stat. 2395][/us/stat/100/2395], 2397, 2399, 2406, 2407; [Pub. L. 100–647, title I, § 1010(c)][/us/pl/100/647/s1010/c], (d)(1), (2), Nov. 10, 1988, [102 Stat. 3451–3453][/us/stat/102/3451-3453]; [Pub. L. 101–508, title XI][/us/pl/101/508], §§ 11303(a), (b), 11305(a), Nov. 5, 1990, [104 Stat. 1388–450][/us/stat/104/1388-450], 1388–451; [Pub. L. 104–188, title I][/us/pl/104/188], §§ 1702(h)(3), 1704(t)(45), Aug. 20, 1996, [110 Stat. 1873][/us/stat/110/1873], 1889; [Pub. L. 105–34, title X, § 1084(b)(4)][/us/pl/105/34/s1084/b/4], Aug. 5, 1997, [111 Stat. 955][/us/stat/111/955]; [Pub. L. 113–295, div. A, title II, § 221(a)(41)(G)][/us/pl/113/295/s221/a/41/G], (69), Dec. 19, 2014, [128 Stat. 4044][/us/stat/128/4044], 4048.)
 
  __References in Text__ 
 
@@ -352,6 +352,12 @@
     Another [section 1084(b) of Pub. L. 105–34][/us/pl/105/34/s1084/b] amended sections 101 and 264 of this title.
 
  __Amendments__ 
+
+    2014—Subsec. (b)(5)(B)(ii), (D)(i), (ii)(I). [Pub. L. 113–295, § 221(a)(41)(G)][/us/pl/113/295/s221/a/41/G], struck out “, 244,”after “sections 243” in subpar. (B)(ii) and after “section 243” in subpar. (D)(i), (ii)(I).
+
+    Subsec. (e). [Pub. L. 113–295, § 221(a)(69)(A)][/us/pl/113/295/s221/a/69/A], struck out “of taxable years beginning after December 31, 1966,” after “In the case” in introductory provisions.
+
+    Subsec. (e)(6). [Pub. L. 113–295, § 221(a)(69)(B)][/us/pl/113/295/s221/a/69/B], substituted “The” for “In the case of any taxable year beginning after December 31, 1970, the”.
 
     1997—Subsec. (b)(5)(B)(iii). [Pub. L. 105–34][/us/pl/105/34], which directed amendment of subpar. (B) by adding cl. (iii) at the end, was executed by adding cl. (iii) after cl. (ii) to reflect the probable intent of Congress.
 
@@ -444,6 +450,12 @@
     1956—Subsec. (b)(4). Act Mar. 13, 1956, § 3(b)(1), substituted “section 801(b)” for “section 806”.
 
     Subsec. (c). Act Mar. 13, 1956, § 3(b)(2), (3), substituted “the items described in section 822(b) (other than paragraph (1)(D) thereof) and net premiums received. In the application of section 1212” for “interest, dividends, rents, and net premiums received. In the application of section 1211” in par. (5), and authorized the deduction for depletion in par. (8).
+
+ __Effective Date of 2014 Amendment__ 
+
+    Except as otherwise provided in [section 221(a) of Pub. L. 113–295][/us/pl/113/295/s221/a], amendment by [Pub. L. 113–295][/us/pl/113/295] effective Dec. 19, 2014, subject to a savings provision, see [section 221(b) of Pub. L. 113–295][/us/pl/113/295/s221/b], set out as a note under [section 1 of this title][/us/usc/t26/s1].
+
+    Amendment by section (a)(41)(G) of [Pub. L. 113–295][/us/pl/113/295] not applicable to preferred stock issued before Oct. 1, 1942 (determined in the same manner as under [section 247 of this title][/us/usc/t26/s247] as in effect before its repeal by [Pub. L. 113–295][/us/pl/113/295]), see [section 221(a)(41)(K) of Pub. L. 113–295][/us/pl/113/295/s221/a/41/K], set out as a note under [section 172 of this title][/us/usc/t26/s172].
 
  __Effective Date of 1997 Amendment__ 
 
@@ -738,10 +750,15 @@
 [/us/stat/110/1873]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1873
 [/us/pl/105/34/s1084/b/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2Fs1084%2Fb%2F4
 [/us/stat/111/955]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F955
+[/us/pl/113/295/s221/a/41/G]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs221%2Fa%2F41%2FG
+[/us/stat/128/4044]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F4044
 [/us/pl/99/514/s1024/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1024%2Fa%2F1
 [/us/stat/100/2405]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2405
 [/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
 [/us/pl/105/34/s1084/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2Fs1084%2Fb
+[/us/pl/113/295/s221/a/41/G]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs221%2Fa%2F41%2FG
+[/us/pl/113/295/s221/a/69/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs221%2Fa%2F69%2FA
+[/us/pl/113/295/s221/a/69/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs221%2Fa%2F69%2FB
 [/us/pl/105/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34
 [/us/pl/104/188/s1702/h/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188%2Fs1702%2Fh%2F3
 [/us/pl/104/188/s1704/t/45]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188%2Fs1704%2Ft%2F45
@@ -786,6 +803,15 @@
 [/us/pl/87/834/s8/e/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F834%2Fs8%2Fe%2F2
 [/us/usc/t26/s831/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs831%2Fa
 [/us/pl/87/834/s8/e/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F834%2Fs8%2Fe%2F4
+[/us/pl/113/295/s221/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs221%2Fa
+[/us/pl/113/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295
+[/us/pl/113/295/s221/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs221%2Fb
+[/us/usc/t26/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs1
+[/us/pl/113/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295
+[/us/usc/t26/s247]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs247
+[/us/pl/113/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295
+[/us/pl/113/295/s221/a/41/K]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs221%2Fa%2F41%2FK
+[/us/usc/t26/s172]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs172
 [/us/pl/105/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34
 [/us/pl/105/34/s1084/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2Fs1084%2Fd
 [/us/usc/t26/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs101

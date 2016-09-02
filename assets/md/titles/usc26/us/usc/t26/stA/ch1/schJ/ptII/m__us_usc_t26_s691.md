@@ -115,7 +115,7 @@
 
         For purposes of computing the deduction under subsection (c)(1)(A), amounts received by a surviving annuitant—
 
-            (A) as an annuity under a joint and survivor annuity contract where the decedent annuitant died after December 31, 1953, and after the annuity starting date (as defined in section 72(c)(4)), and
+            (A) as an annuity under a joint and survivor annuity contract where the decedent annuitant died after the annuity starting date (as defined in section 72(c)(4)), and
 
             (B) during the surviving annuitant’s life expectancy period, shall, to the extent included in gross income under section 72, be considered as amounts included in gross income under subsection (a).
 
@@ -139,9 +139,11 @@
 
         For application of this section to income in respect of a deceased partner, see section 753.
 
-([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 235][/us/stat/68A/235]; [Pub. L. 88–272, title II, § 221(c)(2)][/us/pl/88/272/s221/c/2], Feb. 26, 1964, [78 Stat. 75][/us/stat/78/75]; [Pub. L. 88–570, § 1][/us/pl/88/570/s1], Sept. 2, 1964, [78 Stat. 854][/us/stat/78/854]; [Pub. L. 94–455, title XIX][/us/pl/94/455], §§ 1901(a)(91), 1906(b)(13)(A), 1951(b)(10)(A), title XX, §§ 2005(a)(4), 2006(b)(3), Oct. 4, 1976, [90 Stat. 1779][/us/stat/90/1779], 1834, 1839, 1876, 1889; [Pub. L. 95–600, title VII, § 702(b)(1)][/us/pl/95/600/s702/b/1], Nov. 6, 1978, [92 Stat. 2925][/us/stat/92/2925]; [Pub. L. 96–222, title I, § 101(a)(8)(A)][/us/pl/96/222/s101/a/8/A], Apr. 1, 1980, [94 Stat. 201][/us/stat/94/201]; [Pub. L. 96–223, title IV, § 401(a)][/us/pl/96/223/s401/a], Apr. 2, 1980, [94 Stat. 299][/us/stat/94/299]; [Pub. L. 96–471][/us/pl/96/471], §§ 2(b)(5), 3, Oct. 19, 1980, [94 Stat. 2254][/us/stat/94/2254]; [Pub. L. 97–34, title IV, § 403(a)(2)(C)][/us/pl/97/34/s403/a/2/C], Aug. 13, 1981, [95 Stat. 301][/us/stat/95/301]; [Pub. L. 98–369, div. A, title IV, § 474(r)(18)][/us/pl/98/369/s474/r/18], July 18, 1984, [98 Stat. 843][/us/stat/98/843]; [Pub. L. 99–514, title III, § 301(b)(8)][/us/pl/99/514/s301/b/8], title XIV, § 1432(a)(3), Oct. 22, 1986, [100 Stat. 2217][/us/stat/100/2217], 2729; [Pub. L. 100–203, title X, § 10202(c)(3)][/us/pl/100/203/s10202/c/3], Dec. 22, 1987, [101 Stat. 1330–392][/us/stat/101/1330-392]; [Pub. L. 100–647, title I, § 1011A(g)(10)][/us/pl/100/647/s1011A/g/10], Nov. 10, 1988, [102 Stat. 3482][/us/stat/102/3482]; [Pub. L. 101–239, title VII, § 7841(d)(3)][/us/pl/101/239/s7841/d/3], Dec. 19, 1989, [103 Stat. 2428][/us/stat/103/2428]; [Pub. L. 101–508, title XI, § 11101(d)(4)][/us/pl/101/508/s11101/d/4], Nov. 5, 1990, [104 Stat. 1388–405][/us/stat/104/1388-405]; [Pub. L. 102–318, title V, § 521(b)(27)][/us/pl/102/318/s521/b/27], July 3, 1992, [106 Stat. 312][/us/stat/106/312]; [Pub. L. 103–66, title XIII, § 13113(d)(4)][/us/pl/103/66/s13113/d/4], Aug. 10, 1993, [107 Stat. 430][/us/stat/107/430]; [Pub. L. 104–188, title I][/us/pl/104/188], §§ 1401(b)(9), 1704(t)(73), Aug. 20, 1996, [110 Stat. 1789][/us/stat/110/1789], 1891; [Pub. L. 105–34, title X, § 1073(b)(1)][/us/pl/105/34/s1073/b/1], Aug. 5, 1997, [111 Stat. 948][/us/stat/111/948]; [Pub. L. 108–311, title IV, § 402(a)(4)][/us/pl/108/311/s402/a/4], Oct. 4, 2004, [118 Stat. 1184][/us/stat/118/1184].)
+([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 235][/us/stat/68A/235]; [Pub. L. 88–272, title II, § 221(c)(2)][/us/pl/88/272/s221/c/2], Feb. 26, 1964, [78 Stat. 75][/us/stat/78/75]; [Pub. L. 88–570, § 1][/us/pl/88/570/s1], Sept. 2, 1964, [78 Stat. 854][/us/stat/78/854]; [Pub. L. 94–455, title XIX][/us/pl/94/455], §§ 1901(a)(91), 1906(b)(13)(A), 1951(b)(10)(A), title XX, §§ 2005(a)(4), 2006(b)(3), Oct. 4, 1976, [90 Stat. 1779][/us/stat/90/1779], 1834, 1839, 1876, 1889; [Pub. L. 95–600, title VII, § 702(b)(1)][/us/pl/95/600/s702/b/1], Nov. 6, 1978, [92 Stat. 2925][/us/stat/92/2925]; [Pub. L. 96–222, title I, § 101(a)(8)(A)][/us/pl/96/222/s101/a/8/A], Apr. 1, 1980, [94 Stat. 201][/us/stat/94/201]; [Pub. L. 96–223, title IV, § 401(a)][/us/pl/96/223/s401/a], Apr. 2, 1980, [94 Stat. 299][/us/stat/94/299]; [Pub. L. 96–471][/us/pl/96/471], §§ 2(b)(5), 3, Oct. 19, 1980, [94 Stat. 2254][/us/stat/94/2254]; [Pub. L. 97–34, title IV, § 403(a)(2)(C)][/us/pl/97/34/s403/a/2/C], Aug. 13, 1981, [95 Stat. 301][/us/stat/95/301]; [Pub. L. 98–369, div. A, title IV, § 474(r)(18)][/us/pl/98/369/s474/r/18], July 18, 1984, [98 Stat. 843][/us/stat/98/843]; [Pub. L. 99–514, title III, § 301(b)(8)][/us/pl/99/514/s301/b/8], title XIV, § 1432(a)(3), Oct. 22, 1986, [100 Stat. 2217][/us/stat/100/2217], 2729; [Pub. L. 100–203, title X, § 10202(c)(3)][/us/pl/100/203/s10202/c/3], Dec. 22, 1987, [101 Stat. 1330–392][/us/stat/101/1330-392]; [Pub. L. 100–647, title I, § 1011A(g)(10)][/us/pl/100/647/s1011A/g/10], Nov. 10, 1988, [102 Stat. 3482][/us/stat/102/3482]; [Pub. L. 101–239, title VII, § 7841(d)(3)][/us/pl/101/239/s7841/d/3], Dec. 19, 1989, [103 Stat. 2428][/us/stat/103/2428]; [Pub. L. 101–508, title XI, § 11101(d)(4)][/us/pl/101/508/s11101/d/4], Nov. 5, 1990, [104 Stat. 1388–405][/us/stat/104/1388-405]; [Pub. L. 102–318, title V, § 521(b)(27)][/us/pl/102/318/s521/b/27], July 3, 1992, [106 Stat. 312][/us/stat/106/312]; [Pub. L. 103–66, title XIII, § 13113(d)(4)][/us/pl/103/66/s13113/d/4], Aug. 10, 1993, [107 Stat. 430][/us/stat/107/430]; [Pub. L. 104–188, title I][/us/pl/104/188], §§ 1401(b)(9), 1704(t)(73), Aug. 20, 1996, [110 Stat. 1789][/us/stat/110/1789], 1891; [Pub. L. 105–34, title X, § 1073(b)(1)][/us/pl/105/34/s1073/b/1], Aug. 5, 1997, [111 Stat. 948][/us/stat/111/948]; [Pub. L. 108–311, title IV, § 402(a)(4)][/us/pl/108/311/s402/a/4], Oct. 4, 2004, [118 Stat. 1184][/us/stat/118/1184]; [Pub. L. 113–295, div. A, title II, § 221(a)(66)][/us/pl/113/295/s221/a/66], Dec. 19, 2014, [128 Stat. 4048][/us/stat/128/4048].)
 
  __Amendments__ 
+
+    2014—Subsec. (d)(1)(A). [Pub. L. 113–295][/us/pl/113/295] struck out “after December 31, 1953, and” after “annuitant died”.
 
     2004—Subsec. (c)(4). [Pub. L. 108–311][/us/pl/108/311] struck out “of any gain” before “taken into account”.
 
@@ -204,6 +206,10 @@
     1964—Subsec. (c)(2)(B). [Pub. L. 88–272][/us/pl/88/272] substituted “421(c)(2), relating to the deduction for estate tax with respect to stock options to which part II of subchapter D applies” for “421(d)(6)(B), relating to the deduction for estate tax with respect to restricted stock options”.
 
     Subsecs. (e), (f). [Pub. L. 88–570][/us/pl/88/570] added subsec. (e) and redesignated former subsec. (e) as (f).
+
+ __Effective Date of 2014 Amendment__ 
+
+    Amendment by [Pub. L. 113–295][/us/pl/113/295] effective Dec. 19, 2014, subject to a savings provision, see [section 221(b) of Pub. L. 113–295][/us/pl/113/295/s221/b], set out as a note under [section 1 of this title][/us/usc/t26/s1].
 
  __Effective Date of 2004 Amendment__ 
 
@@ -350,6 +356,9 @@
 [/us/stat/111/948]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F948
 [/us/pl/108/311/s402/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F311%2Fs402%2Fa%2F4
 [/us/stat/118/1184]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1184
+[/us/pl/113/295/s221/a/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs221%2Fa%2F66
+[/us/stat/128/4048]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F4048
+[/us/pl/113/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295
 [/us/pl/108/311]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F311
 [/us/pl/105/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34
 [/us/pl/104/188/s1704/t/73]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188%2Fs1704%2Ft%2F73
@@ -380,6 +389,9 @@
 [/us/pl/94/455/s1951/b/10/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1951%2Fb%2F10%2FA
 [/us/pl/88/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F272
 [/us/pl/88/570]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F570
+[/us/pl/113/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295
+[/us/pl/113/295/s221/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs221%2Fb
+[/us/usc/t26/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs1
 [/us/pl/108/311]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F311
 [/us/pl/108/27]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F27
 [/us/pl/108/311/s402/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F311%2Fs402%2Fb

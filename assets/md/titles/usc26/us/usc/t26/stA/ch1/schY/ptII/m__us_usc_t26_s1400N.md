@@ -201,7 +201,7 @@
 
             For purposes of section 42, in the case of property placed in service during the period beginning on January 1, 2006, and ending on December 31, 2010, the Gulf Opportunity Zone, the Rita GO Zone, and the Wilma GO Zone—
 
-                (i) shall be treated as difficult development areas designated under subclause (I) of section 42(d)(5)(C)(iii), <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  and
+                (i) shall be treated as difficult development areas designated under subclause (I) of section 42(d)(5)(B)(iii), and
 
                 (ii) shall not be taken into account for purposes of applying the limitation under subclause (II) of such section.
 
@@ -221,7 +221,7 @@
 
             (B) in the Gulf Opportunity Zone, and
 
-            (C) in a nonmetropolitan area (as defined in section 42(d)(5)(C)(iv)(IV)),1
+            (C) in a nonmetropolitan area (as defined in section 42(d)(5)(C)(iv)(IV)), <sup>\[1\]</sup>  <sup><sup> 1 See References in text note below. </sup></sup> 
 
             section 42 shall be applied by substituting “national nonmetropolitan median gross income (determined under rules similar to the rules of section 142(d)(2)(B))” for “area median gross income” in subparagraphs (A) and (B) of section 42(g)(1).
 
@@ -293,7 +293,7 @@
 
             (A) by substituting “August 27, 2005” for “December 31, 2007” each place it appears therein,
 
-            (B) without regard to “and before January 1, 2014” in clause (i) thereof, and
+            (B) without regard to “and before January 1, 2015” in clause (i) thereof, and
 
             (C) by substituting “qualified Gulf Opportunity Zone property” for “qualified property” in clause (iv) thereof.
 
@@ -427,7 +427,7 @@
 
         (2) __5 year NOL carryback of certain timber losses__ 
 
-            For purposes of determining any farming loss under section 172(i), income and deductions which are allocable to the specified portion of the taxable year and which are attributable to qualified timber property any portion of which is located in the Gulf Opportunity Zone, in that portion of the Rita GO Zone which is not part of the Gulf Opportunity Zone, or in the Wilma GO Zone shall be treated as attributable to farming businesses.
+            For purposes of determining any farming loss under section 172(i),1 income and deductions which are allocable to the specified portion of the taxable year and which are attributable to qualified timber property any portion of which is located in the Gulf Opportunity Zone, in that portion of the Rita GO Zone which is not part of the Gulf Opportunity Zone, or in the Wilma GO Zone shall be treated as attributable to farming businesses.
 
         (3) __Rules not applicable to certain entities__ 
 
@@ -589,7 +589,7 @@
 
         (4) __Special rules__ 
 
-            For purposes of paragraph (1), rules similar to the rules of paragraphs (2) and (3) of section 172(i) shall apply with respect to such portion.
+            For purposes of paragraph (1), rules similar to the rules of paragraphs (2) and (3) of section 172(i) 1 shall apply with respect to such portion.
 
     (l) __Credit to holders of Gulf tax credit bonds__ 
 
@@ -819,7 +819,7 @@
 
                     Clause (i)(II) shall not apply to any real property if the portion so dedicated is less than 100 square feet.
 
-(Added [Pub. L. 109–135, title I, § 101(a)][/us/pl/109/135/s101/a], Dec. 21, 2005, [119 Stat. 2579][/us/stat/119/2579]; amended [Pub. L. 109–432, div. A, title I][/us/pl/109/432], §§ 107(b)(2), 120(a), (b), Dec. 20, 2006, [120 Stat. 2939][/us/stat/120/2939], 2943; [Pub. L. 110–28, title VIII][/us/pl/110/28], §§ 8221–8223, May 25, 2007, [121 Stat. 194][/us/stat/121/194], 195; [Pub. L. 110–185, title I, § 103(c)(9)][/us/pl/110/185/s103/c/9], (10), Feb. 13, 2008, [122 Stat. 619][/us/stat/122/619]; [Pub. L. 110–234, title XV, § 15316(c)(1)][/us/pl/110/234/s15316/c/1], May 22, 2008, [122 Stat. 1511][/us/stat/122/1511]; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title XV, § 15316(c)(1), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 2273; [Pub. L. 110–289, div. C, title III, § 3082(b)(1)][/us/pl/110/289/s3082/b/1], (c)(1), July 30, 2008, [122 Stat. 2907][/us/stat/122/2907]; [Pub. L. 110–343, div. C, title III, § 320(a)][/us/pl/110/343/s320/a], Oct. 3, 2008, [122 Stat. 3873][/us/stat/122/3873]; [Pub. L. 111–5, div. B, title I][/us/pl/111/5], §§ 1201(a)(2)(E), 1531(c)(3), Feb. 17, 2009, [123 Stat. 333][/us/stat/123/333], 360; [Pub. L. 111–240, title II, § 2022(b)(7)][/us/pl/111/240/s2022/b/7], Sept. 27, 2010, [124 Stat. 2558][/us/stat/124/2558]; [Pub. L. 111–312, title IV, § 401(d)(7)][/us/pl/111/312/s401/d/7], title VII, §§ 762(a), 763, 764(a), 765(a), Dec. 17, 2010, [124 Stat. 3306][/us/stat/124/3306], 3323, 3324; [Pub. L. 112–240, title III, § 331(e)(5)][/us/pl/112/240/s331/e/5], Jan. 2, 2013, [126 Stat. 2337][/us/stat/126/2337].)
+(Added [Pub. L. 109–135, title I, § 101(a)][/us/pl/109/135/s101/a], Dec. 21, 2005, [119 Stat. 2579][/us/stat/119/2579]; amended [Pub. L. 109–432, div. A, title I][/us/pl/109/432], §§ 107(b)(2), 120(a), (b), Dec. 20, 2006, [120 Stat. 2939][/us/stat/120/2939], 2943; [Pub. L. 110–28, title VIII][/us/pl/110/28], §§ 8221–8223, May 25, 2007, [121 Stat. 194][/us/stat/121/194], 195; [Pub. L. 110–185, title I, § 103(c)(9)][/us/pl/110/185/s103/c/9], (10), Feb. 13, 2008, [122 Stat. 619][/us/stat/122/619]; [Pub. L. 110–234, title XV, § 15316(c)(1)][/us/pl/110/234/s15316/c/1], May 22, 2008, [122 Stat. 1511][/us/stat/122/1511]; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title XV, § 15316(c)(1), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 2273; [Pub. L. 110–289, div. C, title III, § 3082(b)(1)][/us/pl/110/289/s3082/b/1], (c)(1), July 30, 2008, [122 Stat. 2907][/us/stat/122/2907]; [Pub. L. 110–343, div. C, title III, § 320(a)][/us/pl/110/343/s320/a], Oct. 3, 2008, [122 Stat. 3873][/us/stat/122/3873]; [Pub. L. 111–5, div. B, title I][/us/pl/111/5], §§ 1201(a)(2)(E), 1531(c)(3), Feb. 17, 2009, [123 Stat. 333][/us/stat/123/333], 360; [Pub. L. 111–240, title II, § 2022(b)(7)][/us/pl/111/240/s2022/b/7], Sept. 27, 2010, [124 Stat. 2558][/us/stat/124/2558]; [Pub. L. 111–312, title IV, § 401(d)(7)][/us/pl/111/312/s401/d/7], title VII, §§ 762(a), 763, 764(a), 765(a), Dec. 17, 2010, [124 Stat. 3306][/us/stat/124/3306], 3323, 3324; [Pub. L. 112–240, title III, § 331(e)(5)][/us/pl/112/240/s331/e/5], Jan. 2, 2013, [126 Stat. 2337][/us/stat/126/2337]; [Pub. L. 113–295, div. A, title I, § 125(d)(5)][/us/pl/113/295/s125/d/5], title II, § 220(q), Dec. 19, 2014, [128 Stat. 4017][/us/stat/128/4017], 4036.)
 
  __References in Text__ 
 
@@ -827,7 +827,7 @@
 
     The date of the enactment of this paragraph, referred to in subsec. (a)(7)(C), is the date of enactment of [Pub. L. 110–28][/us/pl/110/28], which was approved May 25, 2007.
 
-    Subpar. (C) of section 42(d)(5), referred to in subsec. (c)(3)(A)(i), (4)(C), was redesignated (B) by [Pub. L. 110–289, div. C, title I, § 3003(g)(3)][/us/pl/110/289/s3003/g/3], July 30, 2008, [122 Stat. 2882][/us/stat/122/2882].
+    Subpar. (C) of section 42(d)(5), referred to in subsec. (c)(4)(C), was redesignated (B) by [Pub. L. 110–289, div. C, title I, § 3003(g)(3)][/us/pl/110/289/s3003/g/3], July 30, 2008, [122 Stat. 2882][/us/stat/122/2882].
 
     Subpar. (D) of section 42(i)(2), referred to in subsec. (c)(6), was repealed by [Pub. L. 110–289, div. C, title I, § 3002(b)(2)(C)][/us/pl/110/289/s3002/b/2/C], July 30, 2008, [122 Stat. 2880][/us/stat/122/2880].
 
@@ -837,11 +837,17 @@
 
     The Emergency Supplemental Appropriations Act for Defense, the Global War on Terror, and Hurricane Recovery, 2006, referred to in subsec. (c)(6), is [Pub. L. 109–234][/us/pl/109/234], June 15, 2006, [120 Stat. 418][/us/stat/120/418]. For complete classification of this Act to the Code, see Tables.
 
+    Subsec. (i) of section 172, referred to in subsecs. (i)(2) and (k)(4), was redesignated (h) by [Pub. L. 113–295, div. A, title II, § 221(a)(30)(A)(ii)][/us/pl/113/295/s221/a/30/A/ii], Dec. 19, 2014, [128 Stat. 4041][/us/stat/128/4041].
+
  __Codification__ 
 
     [Pub. L. 110–234][/us/pl/110/234] and [Pub. L. 110–246][/us/pl/110/246] made identical amendments to this section. The amendments by [Pub. L. 110–234][/us/pl/110/234] were repealed by [section 4(a) of Pub. L. 110–246][/us/pl/110/246/s4/a].
 
  __Amendments__ 
+
+    2014—Subsec. (c)(3)(A)(i). [Pub. L. 113–295, § 220(q)][/us/pl/113/295/s220/q], substituted “section 42(d)(5)(B)(iii)” for “section 42(d)(5)(C)(iii)”.
+
+    Subsec. (d)(3)(B). [Pub. L. 113–295, § 125(d)(5)][/us/pl/113/295/s125/d/5], substituted “January 1, 2015” for “January 1, 2014”.
 
     2013—Subsec. (d)(3)(B). [Pub. L. 112–240][/us/pl/112/240] substituted “January 1, 2014” for “January 1, 2013”.
 
@@ -898,6 +904,10 @@
     Subsec. (e)(2). [Pub. L. 109–432, § 120(b)][/us/pl/109/432/s120/b], inserted “without regard to subsection (d)(6)” after “subsection (d)(2)”.
 
     Subsec. (l)(7)(B)(ii). [Pub. L. 109–432, § 107(b)(2)][/us/pl/109/432/s107/b/2], substituted “1397E(l)” for “1397E(i)”.
+
+ __Effective Date of 2014 Amendment__ 
+
+    Amendment by [section 125(d)(5) of Pub. L. 113–295][/us/pl/113/295/s125/d/5] applicable to property placed in service after Dec. 31, 2013, in taxable years ending after such date, see [section 125(e) of Pub. L. 113–295][/us/pl/113/295/s125/e], set out as a note under [section 168 of this title][/us/usc/t26/s168].
 
  __Effective Date of 2013 Amendment__ 
 
@@ -992,6 +1002,8 @@
 [/us/stat/124/3306]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3306
 [/us/pl/112/240/s331/e/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F240%2Fs331%2Fe%2F5
 [/us/stat/126/2337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F2337
+[/us/pl/113/295/s125/d/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs125%2Fd%2F5
+[/us/stat/128/4017]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F4017
 [/us/pl/109/135]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F135
 [/us/pl/110/28]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F28
 [/us/pl/110/289/s3003/g/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289%2Fs3003%2Fg%2F3
@@ -1002,10 +1014,14 @@
 [/us/stat/119/2680]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F2680
 [/us/pl/109/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F234
 [/us/stat/120/418]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F418
+[/us/pl/113/295/s221/a/30/A/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs221%2Fa%2F30%2FA%2Fii
+[/us/stat/128/4041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F4041
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
+[/us/pl/113/295/s220/q]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs220%2Fq
+[/us/pl/113/295/s125/d/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs125%2Fd%2F5
 [/us/pl/112/240]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F240
 [/us/pl/111/312/s764/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F312%2Fs764%2Fa
 [/us/pl/111/312/s763]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F312%2Fs763
@@ -1034,6 +1050,9 @@
 [/us/pl/109/432/s120/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F432%2Fs120%2Fa
 [/us/pl/109/432/s120/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F432%2Fs120%2Fb
 [/us/pl/109/432/s107/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F432%2Fs107%2Fb%2F2
+[/us/pl/113/295/s125/d/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs125%2Fd%2F5
+[/us/pl/113/295/s125/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs125%2Fe
+[/us/usc/t26/s168]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs168
 [/us/pl/112/240]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F240
 [/us/pl/112/240/s331/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F240%2Fs331%2Ff
 [/us/usc/t26/s168]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs168

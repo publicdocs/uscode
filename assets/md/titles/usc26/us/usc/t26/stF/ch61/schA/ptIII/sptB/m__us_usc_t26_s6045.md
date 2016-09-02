@@ -213,6 +213,10 @@
 
             In the case of a short sale, reporting under this section shall be made for the year in which such sale is closed.
 
+        (6) __Special rule for certain stock held in connection with dividend reinvestment plan__ 
+
+            For purposes of this subsection, stock acquired before January 1, 2012, in connection with a dividend reinvestment plan shall be treated as stock described in clause (ii) of paragraph (3)(C) (unless the broker with respect to such stock elects not to have this paragraph apply with respect to such stock).
+
     (h) __Application to options on securities__ 
 
         (1) __Exercise of option__ 
@@ -231,9 +235,11 @@
 
             For purposes of this subsection, the terms “covered security” and “specified security” shall have the meanings given such terms in subsection (g)(3).
 
-([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 747][/us/stat/68A/747]; [Pub. L. 94–455, title XIX, § 1906(b)(13)(A)][/us/pl/94/455/s1906/b/13/A], Oct. 4, 1976, [90 Stat. 1834][/us/stat/90/1834]; [Pub. L. 97–248, title III, § 311(a)(1)][/us/pl/97/248/s311/a/1], Sept. 3, 1982, [96 Stat. 600][/us/stat/96/600]; [Pub. L. 98–369, div. A, title I, § 150(a)][/us/pl/98/369/s150/a], title VII, § 714(e)(1), July 18, 1984, [98 Stat. 690][/us/stat/98/690], 961; [Pub. L. 99–514, title XV][/us/pl/99/514], §§ 1501(c)(4), 1521(a), Oct. 22, 1986, [100 Stat. 2737][/us/stat/100/2737], 2746; [Pub. L. 100–647, title I, § 1015(e)(1)(A)][/us/pl/100/647/s1015/e/1/A], (2)(A), (3), title IV, § 4005(g)(3), Nov. 10, 1988, [102 Stat. 3569][/us/stat/102/3569], 3570, 3650; [Pub. L. 101–239, title VII, § 7814(c)(1)][/us/pl/101/239/s7814/c/1], Dec. 19, 1989, [103 Stat. 2413][/us/stat/103/2413]; [Pub. L. 101–508, title XI, § 11704(a)(25)][/us/pl/101/508/s11704/a/25], Nov. 5, 1990, [104 Stat. 1388–519][/us/stat/104/1388-519]; [Pub. L. 102–486, title XIX, § 1939(a)][/us/pl/102/486/s1939/a], Oct. 24, 1992, [106 Stat. 3034][/us/stat/106/3034]; [Pub. L. 104–168, title XII, § 1201(a)(5)][/us/pl/104/168/s1201/a/5], July 30, 1996, [110 Stat. 1469][/us/stat/110/1469]; [Pub. L. 104–188, title I, § 1704][/us/pl/104/188/s1704](o)(1), Aug. 20, 1996, [110 Stat. 1886][/us/stat/110/1886]; [Pub. L. 105–34, title III, § 312(c)][/us/pl/105/34/s312/c], title X, § 1021(a), Aug. 5, 1997, [111 Stat. 839][/us/stat/111/839], 922; [Pub. L. 109–135, title IV, § 412(xx)][/us/pl/109/135/s412/xx], Dec. 21, 2005, [119 Stat. 2640][/us/stat/119/2640]; [Pub. L. 110–343, div. B, title IV, § 403(a)][/us/pl/110/343/s403/a], Oct. 3, 2008, [122 Stat. 3854][/us/stat/122/3854].)
+([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 747][/us/stat/68A/747]; [Pub. L. 94–455, title XIX, § 1906(b)(13)(A)][/us/pl/94/455/s1906/b/13/A], Oct. 4, 1976, [90 Stat. 1834][/us/stat/90/1834]; [Pub. L. 97–248, title III, § 311(a)(1)][/us/pl/97/248/s311/a/1], Sept. 3, 1982, [96 Stat. 600][/us/stat/96/600]; [Pub. L. 98–369, div. A, title I, § 150(a)][/us/pl/98/369/s150/a], title VII, § 714(e)(1), July 18, 1984, [98 Stat. 690][/us/stat/98/690], 961; [Pub. L. 99–514, title XV][/us/pl/99/514], §§ 1501(c)(4), 1521(a), Oct. 22, 1986, [100 Stat. 2737][/us/stat/100/2737], 2746; [Pub. L. 100–647, title I, § 1015(e)(1)(A)][/us/pl/100/647/s1015/e/1/A], (2)(A), (3), title IV, § 4005(g)(3), Nov. 10, 1988, [102 Stat. 3569][/us/stat/102/3569], 3570, 3650; [Pub. L. 101–239, title VII, § 7814(c)(1)][/us/pl/101/239/s7814/c/1], Dec. 19, 1989, [103 Stat. 2413][/us/stat/103/2413]; [Pub. L. 101–508, title XI, § 11704(a)(25)][/us/pl/101/508/s11704/a/25], Nov. 5, 1990, [104 Stat. 1388–519][/us/stat/104/1388-519]; [Pub. L. 102–486, title XIX, § 1939(a)][/us/pl/102/486/s1939/a], Oct. 24, 1992, [106 Stat. 3034][/us/stat/106/3034]; [Pub. L. 104–168, title XII, § 1201(a)(5)][/us/pl/104/168/s1201/a/5], July 30, 1996, [110 Stat. 1469][/us/stat/110/1469]; [Pub. L. 104–188, title I, § 1704][/us/pl/104/188/s1704](o)(1), Aug. 20, 1996, [110 Stat. 1886][/us/stat/110/1886]; [Pub. L. 105–34, title III, § 312(c)][/us/pl/105/34/s312/c], title X, § 1021(a), Aug. 5, 1997, [111 Stat. 839][/us/stat/111/839], 922; [Pub. L. 109–135, title IV, § 412(xx)][/us/pl/109/135/s412/xx], Dec. 21, 2005, [119 Stat. 2640][/us/stat/119/2640]; [Pub. L. 110–343, div. B, title IV, § 403(a)][/us/pl/110/343/s403/a], Oct. 3, 2008, [122 Stat. 3854][/us/stat/122/3854]; [Pub. L. 113–295, div. A, title II, § 210(f)(4)][/us/pl/113/295/s210/f/4], Dec. 19, 2014, [128 Stat. 4032][/us/stat/128/4032].)
 
  __Amendments__ 
+
+    2014—Subsec. (g)(6). [Pub. L. 113–295][/us/pl/113/295] added par. (6).
 
     2008—Subsec. (b). [Pub. L. 110–343, § 403(a)(3)(A)][/us/pl/110/343/s403/a/3/A], (C), in concluding provisions, substituted “February 15” for “January 31” and inserted at end “In the case of a consolidated reporting statement (as defined in regulations) with respect to any customer, any statement which would otherwise be required to be furnished on or before January 31 of a calendar year with respect to any item reportable to the taxpayer shall instead be required to be furnished on or before February 15 of such calendar year if furnished with such consolidated reporting statement.”
 
@@ -278,6 +284,10 @@
     1982—[Pub. L. 97–248][/us/pl/97/248] designated existing provisions as subsec. (a), substituted “the name and address of each customer, with such details regarding gross proceeds” for “the names of customers for whom such person has transacted any business, with such details regarding the profits and losses” after “may prescribe, showing” and “such business” for “each customer as will enable the Secretary to determine the amount of such profits and losses” after “with respect to”, and added subsecs. (b) and (c).
 
     1976—[Pub. L. 94–455][/us/pl/94/455] struck out “or his delegate” after “Secretary” wherever appearing.
+
+ __Effective Date of 2014 Amendment__ 
+
+    Amendment by [Pub. L. 113–295][/us/pl/113/295] effective as if included in the provisions of the Energy Improvement and Extension Act of 2008, [Pub. L. 110–343, div. B][/us/pl/110/343], to which such amendment relates, see [section 210(h) of Pub. L. 113–295][/us/pl/113/295/s210/h], set out as a note under [section 45 of this title][/us/usc/t26/s45].
 
  __Effective Date of 2008 Amendment__ 
 
@@ -390,6 +400,9 @@
 [/us/stat/119/2640]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F2640
 [/us/pl/110/343/s403/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F343%2Fs403%2Fa
 [/us/stat/122/3854]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3854
+[/us/pl/113/295/s210/f/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs210%2Ff%2F4
+[/us/stat/128/4032]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F4032
+[/us/pl/113/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295
 [/us/pl/110/343/s403/a/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F343%2Fs403%2Fa%2F3%2FA
 [/us/pl/110/343/s403/a/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F343%2Fs403%2Fa%2F3%2FB
 [/us/pl/110/343/s403/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F343%2Fs403%2Fa%2F1
@@ -412,6 +425,10 @@
 [/us/pl/98/369/s150/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs150%2Fa
 [/us/pl/97/248]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F248
 [/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455
+[/us/pl/113/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295
+[/us/pl/110/343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F343
+[/us/pl/113/295/s210/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs210%2Fh
+[/us/usc/t26/s45]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs45
 [/us/pl/110/343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F343
 [/us/pl/110/343/s403/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F343%2Fs403%2Fa%2F3
 [/us/pl/110/343/s403/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F343%2Fs403%2Fe

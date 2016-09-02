@@ -65,15 +65,17 @@
 
         (4) __State death taxes__ 
 
-            The amount which bears the same ratio to the State death taxes as the value of the property, as determined for purposes of this chapter, upon which State death taxes were paid and which is included in the gross estate under section 2103 bears to the value of the total gross estate under section 2103. For purposes of this paragraph, the term “State death taxes” means the taxes described in section 2011(a).
+            The amount which bears the same ratio to the State death taxes as the value of the property, as determined for purposes of this chapter, upon which State death taxes were paid and which is included in the gross estate under section 2103 bears to the value of the total gross estate under section 2103. For purposes of this paragraph, the term “State death taxes” means the taxes described in 2058(a). <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be preceeded by “section”. </sup></sup> 
 
     (b) __Condition of allowance of deductions__ 
 
         No deduction shall be allowed under paragraphs (1) and (2) of subsection (a) in the case of a nonresident not a citizen of the United States unless the executor includes in the return required to be filed under section 6018 the value at the time of his death of that part of the gross estate of such nonresident not situated in the United States.
 
-([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 398][/us/stat/68A/398]; [Pub. L. 85–866, title I, § 30(d)][/us/pl/85/866/s30/d], Sept. 2, 1958, [72 Stat. 1631][/us/stat/72/1631]; [Pub. L. 86–779, § 4(c)][/us/pl/86/779/s4/c], Sept. 14, 1960, [74 Stat. 1000][/us/stat/74/1000]; [Pub. L. 89–809, title I, § 108(e)][/us/pl/89/809/s108/e], Nov. 13, 1966, [80 Stat. 1572][/us/stat/80/1572]; [Pub. L. 91–172, title II, § 201(d)(2)][/us/pl/91/172/s201/d/2], (4)(B), Dec. 30, 1969, [83 Stat. 561][/us/stat/83/561]; [Pub. L. 94–455, title XIII, § 1307(d)(1)(B)(iii)][/us/pl/94/455/s1307/d/1/B/iii], (C), title XIX, § 1902(a)(5), (12)(A), title XX, §  2001(c)(1)(F), Oct. 4, 1976, [90 Stat. 1727][/us/stat/90/1727], 1805, 1852; [Pub. L. 97–473, title II, § 202(b)(6)][/us/pl/97/473/s202/b/6], Jan. 14, 1983, [96 Stat. 2610][/us/stat/96/2610]; [Pub. L. 99–514, title XIV, § 1422(c)][/us/pl/99/514/s1422/c], Oct. 22, 1986, [100 Stat. 2717][/us/stat/100/2717]; [Pub. L. 100–203, title X, § 10711(a)(4)][/us/pl/100/203/s10711/a/4], Dec. 22, 1987, [101 Stat. 1330–464][/us/stat/101/1330-464]; [Pub. L. 100–647, title V, § 5033(c)][/us/pl/100/647/s5033/c], Nov. 10, 1988, [102 Stat. 3672][/us/stat/102/3672]; [Pub. L. 101–239, title VII, § 7815(d)(3)][/us/pl/101/239/s7815/d/3], Dec. 19, 1989, [103 Stat. 2415][/us/stat/103/2415]; [Pub. L. 107–16, title V, § 532(c)(8)][/us/pl/107/16/s532/c/8], June 7, 2001, [115 Stat. 75][/us/stat/115/75].)
+([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 398][/us/stat/68A/398]; [Pub. L. 85–866, title I, § 30(d)][/us/pl/85/866/s30/d], Sept. 2, 1958, [72 Stat. 1631][/us/stat/72/1631]; [Pub. L. 86–779, § 4(c)][/us/pl/86/779/s4/c], Sept. 14, 1960, [74 Stat. 1000][/us/stat/74/1000]; [Pub. L. 89–809, title I, § 108(e)][/us/pl/89/809/s108/e], Nov. 13, 1966, [80 Stat. 1572][/us/stat/80/1572]; [Pub. L. 91–172, title II, § 201(d)(2)][/us/pl/91/172/s201/d/2], (4)(B), Dec. 30, 1969, [83 Stat. 561][/us/stat/83/561]; [Pub. L. 94–455, title XIII, § 1307(d)(1)(B)(iii)][/us/pl/94/455/s1307/d/1/B/iii], (C), title XIX, § 1902(a)(5), (12)(A), title XX, §  2001(c)(1)(F), Oct. 4, 1976, [90 Stat. 1727][/us/stat/90/1727], 1805, 1852; [Pub. L. 97–473, title II, § 202(b)(6)][/us/pl/97/473/s202/b/6], Jan. 14, 1983, [96 Stat. 2610][/us/stat/96/2610]; [Pub. L. 99–514, title XIV, § 1422(c)][/us/pl/99/514/s1422/c], Oct. 22, 1986, [100 Stat. 2717][/us/stat/100/2717]; [Pub. L. 100–203, title X, § 10711(a)(4)][/us/pl/100/203/s10711/a/4], Dec. 22, 1987, [101 Stat. 1330–464][/us/stat/101/1330-464]; [Pub. L. 100–647, title V, § 5033(c)][/us/pl/100/647/s5033/c], Nov. 10, 1988, [102 Stat. 3672][/us/stat/102/3672]; [Pub. L. 101–239, title VII, § 7815(d)(3)][/us/pl/101/239/s7815/d/3], Dec. 19, 1989, [103 Stat. 2415][/us/stat/103/2415]; [Pub. L. 107–16, title V, § 532(c)(8)][/us/pl/107/16/s532/c/8], June 7, 2001, [115 Stat. 75][/us/stat/115/75]; [Pub. L. 113–295, div. A, title II, § 221(a)(95)(A)(ii)][/us/pl/113/295/s221/a/95/A/ii], Dec. 19, 2014, [128 Stat. 4051][/us/stat/128/4051].)
 
  __Amendments__ 
+
+    2014—Subsec. (a)(4). [Pub. L. 113–295][/us/pl/113/295] substituted “2058(a)” for “section 2011(a)”.
 
     2001—Subsec. (a)(4). [Pub. L. 107–16][/us/pl/107/16] added par. (4).
 
@@ -109,9 +111,13 @@
 
     1958—Subsec. (a)(2)(E). [Pub. L. 85–866][/us/pl/85/866] substituted “503” for “504”.
 
+ __Effective Date of 2014 Amendment__ 
+
+    Amendment by [Pub. L. 113–295][/us/pl/113/295] effective Dec. 19, 2014, subject to a savings provision, see [section 221(b) of Pub. L. 113–295][/us/pl/113/295/s221/b], set out as a note under [section 1 of this title][/us/usc/t26/s1].
+
  __Effective Date of 2001 Amendment__ 
 
-    Amendment by [Pub. L. 107–16][/us/pl/107/16] applicable to estates of decedents dying, and generation-skipping transfers, after Dec. 31, 2004, see [section 532(d) of Pub. L. 107–16][/us/pl/107/16/s532/d], set out as a note under [section 2011 of this title][/us/usc/t26/s2011].
+    Amendment by [Pub. L. 107–16][/us/pl/107/16] applicable to estates of decedents dying, and generation-skipping transfers, after Dec. 31, 2004, see [section 532(d) of Pub. L. 107–16][/us/pl/107/16/s532/d], set out as a note under [section 2012 of this title][/us/usc/t26/s2012].
 
  __Effective Date of 1989 Amendment__ 
 
@@ -135,7 +141,7 @@
 
  __Effective Date of 1976 Amendment__ 
 
-    Amendment by [section 1902(a)(5) of Pub. L. 94–455][/us/pl/94/455/s1902/a/5] applicable in the case of estates of decedents dying after Oct. 4, 1976, see [section 1902(c)(1) of Pub. L. 94–455][/us/pl/94/455/s1902/c/1], set out as a note under [section 2011 of this title][/us/usc/t26/s2011].
+    Amendment by section 1902(a)(5), (12)(A) of [Pub. L. 94–455][/us/pl/94/455] applicable in the case of estates of decedents dying after Oct. 4, 1976, see [section 1902(c)(1) of Pub. L. 94–455][/us/pl/94/455/s1902/c/1], set out as a note under [section 2012 of this title][/us/usc/t26/s2012].
 
     Amendment by [section 2001(c)(1)(F) of Pub. L. 94–455][/us/pl/94/455/s2001/c/1/F] applicable to estates of decedents dying after Dec. 31, 1976, see [section 2001(d)(1) of Pub. L. 94–455][/us/pl/94/455/s2001/d/1], set out as a note under [section 2001 of this title][/us/usc/t26/s2001].
 
@@ -190,6 +196,9 @@
 [/us/stat/103/2415]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F2415
 [/us/pl/107/16/s532/c/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F16%2Fs532%2Fc%2F8
 [/us/stat/115/75]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F75
+[/us/pl/113/295/s221/a/95/A/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs221%2Fa%2F95%2FA%2Fii
+[/us/stat/128/4051]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F4051
+[/us/pl/113/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295
 [/us/pl/107/16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F16
 [/us/pl/101/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239
 [/us/pl/100/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647
@@ -207,9 +216,12 @@
 [/us/pl/89/809]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F809
 [/us/pl/86/779]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F779
 [/us/pl/85/866]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F866
+[/us/pl/113/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295
+[/us/pl/113/295/s221/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs221%2Fb
+[/us/usc/t26/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs1
 [/us/pl/107/16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F16
 [/us/pl/107/16/s532/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F16%2Fs532%2Fd
-[/us/usc/t26/s2011]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs2011
+[/us/usc/t26/s2012]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs2012
 [/us/pl/101/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239
 [/us/pl/100/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647
 [/us/pl/101/239/s7817]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2Fs7817
@@ -226,9 +238,9 @@
 [/us/pl/97/473]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F473
 [/us/pl/97/473/s204/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F473%2Fs204%2F3
 [/us/usc/t26/s7871]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs7871
-[/us/pl/94/455/s1902/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1902%2Fa%2F5
+[/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455
 [/us/pl/94/455/s1902/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1902%2Fc%2F1
-[/us/usc/t26/s2011]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs2011
+[/us/usc/t26/s2012]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs2012
 [/us/pl/94/455/s2001/c/1/F]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs2001%2Fc%2F1%2FF
 [/us/pl/94/455/s2001/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs2001%2Fd%2F1
 [/us/usc/t26/s2001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs2001

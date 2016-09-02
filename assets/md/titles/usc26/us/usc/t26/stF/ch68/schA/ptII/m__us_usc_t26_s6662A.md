@@ -49,7 +49,7 @@
 
     (c) __Higher penalty for nondisclosed listed and other avoidance transactions__ 
 
-        Subsection (a) shall be applied by substituting “30 percent” for “20 percent” with respect to the portion of any reportable transaction understatement with respect to which the requirement of section 6664(d)(2)(A)  <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  is not met.
+        Subsection (a) shall be applied by substituting “30 percent” for “20 percent” with respect to the portion of any reportable transaction understatement with respect to which the requirement of section 6664(d)(3)(A) is not met.
 
     (d) __Definitions of reportable and listed transactions__ 
 
@@ -79,17 +79,15 @@
 
             Except as provided in regulations, in no event shall any tax treatment included with an amendment or supplement to a return of tax be taken into account in determining the amount of any reportable transaction understatement if the amendment or supplement is filed after the earlier of the date the taxpayer is first contacted by the Secretary regarding the examination of the return or such other date as is specified by the Secretary.
 
-(Added [Pub. L. 108–357, title VIII, § 812(a)][/us/pl/108/357/s812/a], Oct. 22, 2004, [118 Stat. 1577][/us/stat/118/1577]; amended [Pub. L. 109–135, title IV, § 403(x)(2)][/us/pl/109/135/s403/x/2], Dec. 21, 2005, [119 Stat. 2629][/us/stat/119/2629]; [Pub. L. 111–152, title I, § 1409(b)(3)][/us/pl/111/152/s1409/b/3], Mar. 30, 2010, [124 Stat. 1069][/us/stat/124/1069].)
-
- __References in Text__ 
-
-    Section 6664(d)(2)(A), referred to in subsec. (c), was redesignated as section 6664(d)(3)(A) by [Pub. L. 111–152, title I, § 1409(c)(2)(A)][/us/pl/111/152/s1409/c/2/A], Mar. 30, 2010, [124 Stat. 1069][/us/stat/124/1069].
+(Added [Pub. L. 108–357, title VIII, § 812(a)][/us/pl/108/357/s812/a], Oct. 22, 2004, [118 Stat. 1577][/us/stat/118/1577]; amended [Pub. L. 109–135, title IV, § 403(x)(2)][/us/pl/109/135/s403/x/2], Dec. 21, 2005, [119 Stat. 2629][/us/stat/119/2629]; [Pub. L. 111–152, title I, § 1409(b)(3)][/us/pl/111/152/s1409/b/3], Mar. 30, 2010, [124 Stat. 1069][/us/stat/124/1069]; [Pub. L. 113–295, div. A, title II, § 220(w)][/us/pl/113/295/s220/w], Dec. 19, 2014, [128 Stat. 4036][/us/stat/128/4036].)
 
  __Codification__ 
 
     [Section 1409(b)(3) of Pub. L. 111–152][/us/pl/111/152/s1409/b/3], which directed the amendment of section 6662A without specifying the act to be amended, was executed to this section, which is section 6662A of the Internal Revenue Code of 1986, to reflect the probable intent of Congress. See 2010 Amendment note below.
 
  __Amendments__ 
+
+    2014—Subsec. (c). [Pub. L. 113–295][/us/pl/113/295] substituted “section 6664(d)(3)(A)” for “section 6664(d)(2)(A)”.
 
     2010—Subsec. (e)(2)(B). [Pub. L. 111–152][/us/pl/111/152] substituted “certain increased underpayment penalties” for “gross valuation misstatement penalty” in heading and “subsections (h) or (i) of section 6662” for “section 6662(h)” in text. See Codification note above.
 
@@ -160,9 +158,10 @@
 [/us/stat/119/2629]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F2629
 [/us/pl/111/152/s1409/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F152%2Fs1409%2Fb%2F3
 [/us/stat/124/1069]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1069
-[/us/pl/111/152/s1409/c/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F152%2Fs1409%2Fc%2F2%2FA
-[/us/stat/124/1069]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1069
+[/us/pl/113/295/s220/w]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs220%2Fw
+[/us/stat/128/4036]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F4036
 [/us/pl/111/152/s1409/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F152%2Fs1409%2Fb%2F3
+[/us/pl/113/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295
 [/us/pl/111/152]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F152
 [/us/pl/109/135]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F135
 [/us/pl/111/152]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F152

@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t26/stF/ch79/m__us_usc_t26_s7703.md) | [Next](./../../../../..//us/usc/t26/stF/ch80/m__us_usc_t26_stF_ch80.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs7704)
+[Previous](./../../../../..//us/usc/t26/stF/ch79/m__us_usc_t26_s7703.md) | [Next](./../../../../..//us/usc/t26/stF/ch79/m__us_usc_t26_s7705.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs7704)
 
 ## § 7704. Certain publicly traded partnerships treated as corporations
 
@@ -249,7 +249,7 @@
 
 ----------
 
-[Previous](./../../../../..//us/usc/t26/stF/ch79/m__us_usc_t26_s7703.md) | [Next](./../../../../..//us/usc/t26/stF/ch80/m__us_usc_t26_stF_ch80.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs7704)
+[Previous](./../../../../..//us/usc/t26/stF/ch79/m__us_usc_t26_s7703.md) | [Next](./../../../../..//us/usc/t26/stF/ch79/m__us_usc_t26_s7705.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs7704)
 
 ----------
 ----------

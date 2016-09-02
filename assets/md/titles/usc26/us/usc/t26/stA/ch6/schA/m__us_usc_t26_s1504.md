@@ -45,9 +45,9 @@
 
             If—
 
-                (i) a corporation is included (or required to be included) in a consolidated return filed by an affiliated group for a taxable year which includes any period after December 31, 1984, and
+                (i) a corporation is included (or required to be included) in a consolidated return filed by an affiliated group, and
 
-                (ii) such corporation ceases to be a member of such group in a taxable year beginning after December 31, 1984,
+                (ii) such corporation ceases to be a member of such group,
 
                 with respect to periods after such cessation, such corporation (and any successor of such corporation) may not be included in any consolidated return filed by the affiliated group (or by another affiliated group with the same common parent or a successor of such common parent) before the 61st month beginning after its first taxable year in which it ceased to be a member of such affiliated group.
 
@@ -141,13 +141,15 @@
 
         (2) any amount treated as received under section 805(b)(3) of such Act.
 
-([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 369][/us/stat/68A/369]; [Mar. 13, 1956, ch. 83, § 5(8)][/us/act/1956-03-13/ch83/s5/8], [70 Stat. 49][/us/stat/70/49]; [Pub. L. 85–866, title I, § 64(d)(3)][/us/pl/85/866/s64/d/3], Sept. 2, 1958, [72 Stat. 1657][/us/stat/72/1657]; [Pub. L. 86–69, § 3(f)(1)][/us/pl/86/69/s3/f/1], June 25, 1959, [73 Stat. 140][/us/stat/73/140]; [Pub. L. 86–376, § 2(c)][/us/pl/86/376/s2/c], Sept. 23, 1959, [73 Stat. 699][/us/stat/73/699]; [Pub. L. 86–779, § 10(j)][/us/pl/86/779/s10/j], Sept. 14, 1960, [74 Stat. 1009][/us/stat/74/1009]; [Pub. L. 89–389, § 4(b)(3)][/us/pl/89/389/s4/b/3], Apr. 14, 1966, [80 Stat. 116][/us/stat/80/116]; [Pub. L. 91–172, title I, § 121(a)(4)][/us/pl/91/172/s121/a/4], Dec. 30, 1969, [83 Stat. 537][/us/stat/83/537]; [Pub. L. 92–178, title V, § 502(e)][/us/pl/92/178/s502/e], Dec. 10, 1971, [85 Stat. 550][/us/stat/85/550]; [Pub. L. 94–455, title VIII, § 803(b)(3)][/us/pl/94/455/s803/b/3], title X, §§ 1051(g), 1053(d)(2), title XV, § 1507(a), Oct. 4, 1976, [90 Stat. 1584][/us/stat/90/1584], 1646, 1649, 1739; [Pub. L. 95–600, title I, § 141(f)(4)][/us/pl/95/600/s141/f/4], Nov. 6, 1978, [92 Stat. 2795][/us/stat/92/2795]; [Pub. L. 96–222, title I, § 101(a)(7)(L)(i)(VIII)][/us/pl/96/222/s101/a/7/L/i/VIII], (iv)(II), Apr. 1, 1980, [94 Stat. 199][/us/stat/94/199], 200; [Pub. L. 98–369, div. A, title I, § 60(a)][/us/pl/98/369/s60/a], title II, § 211(b)(20), July 18, 1984, [98 Stat. 577][/us/stat/98/577], 756; [Pub. L. 99–514, title X, § 1024(c)(15)][/us/pl/99/514/s1024/c/15], (16), title XVIII, §§ 1804(e)(1), (10), 1899A(35), Oct. 22, 1986, [100 Stat. 2408][/us/stat/100/2408], 2800, 2804, 2960; [Pub. L. 100–647, title I, § 1018(d)(10)][/us/pl/100/647/s1018/d/10], Nov. 10, 1988, [102 Stat. 3581][/us/stat/102/3581]; [Pub. L. 101–508, title XI, § 11814(b)][/us/pl/101/508/s11814/b], Nov. 5, 1990, [104 Stat. 1388–557][/us/stat/104/1388-557]; [Pub. L. 104–188, title I][/us/pl/104/188], §§ 1308(d)(2), 1702(h)(6), Aug. 20, 1996, [110 Stat. 1783][/us/stat/110/1783], 1874.)
+([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 369][/us/stat/68A/369]; [Mar. 13, 1956, ch. 83, § 5(8)][/us/act/1956-03-13/ch83/s5/8], [70 Stat. 49][/us/stat/70/49]; [Pub. L. 85–866, title I, § 64(d)(3)][/us/pl/85/866/s64/d/3], Sept. 2, 1958, [72 Stat. 1657][/us/stat/72/1657]; [Pub. L. 86–69, § 3(f)(1)][/us/pl/86/69/s3/f/1], June 25, 1959, [73 Stat. 140][/us/stat/73/140]; [Pub. L. 86–376, § 2(c)][/us/pl/86/376/s2/c], Sept. 23, 1959, [73 Stat. 699][/us/stat/73/699]; [Pub. L. 86–779, § 10(j)][/us/pl/86/779/s10/j], Sept. 14, 1960, [74 Stat. 1009][/us/stat/74/1009]; [Pub. L. 89–389, § 4(b)(3)][/us/pl/89/389/s4/b/3], Apr. 14, 1966, [80 Stat. 116][/us/stat/80/116]; [Pub. L. 91–172, title I, § 121(a)(4)][/us/pl/91/172/s121/a/4], Dec. 30, 1969, [83 Stat. 537][/us/stat/83/537]; [Pub. L. 92–178, title V, § 502(e)][/us/pl/92/178/s502/e], Dec. 10, 1971, [85 Stat. 550][/us/stat/85/550]; [Pub. L. 94–455, title VIII, § 803(b)(3)][/us/pl/94/455/s803/b/3], title X, §§ 1051(g), 1053(d)(2), title XV, § 1507(a), Oct. 4, 1976, [90 Stat. 1584][/us/stat/90/1584], 1646, 1649, 1739; [Pub. L. 95–600, title I, § 141(f)(4)][/us/pl/95/600/s141/f/4], Nov. 6, 1978, [92 Stat. 2795][/us/stat/92/2795]; [Pub. L. 96–222, title I, § 101(a)(7)(L)(i)(VIII)][/us/pl/96/222/s101/a/7/L/i/VIII], (iv)(II), Apr. 1, 1980, [94 Stat. 199][/us/stat/94/199], 200; [Pub. L. 98–369, div. A, title I, § 60(a)][/us/pl/98/369/s60/a], title II, § 211(b)(20), July 18, 1984, [98 Stat. 577][/us/stat/98/577], 756; [Pub. L. 99–514, title X, § 1024(c)(15)][/us/pl/99/514/s1024/c/15], (16), title XVIII, §§ 1804(e)(1), (10), 1899A(35), Oct. 22, 1986, [100 Stat. 2408][/us/stat/100/2408], 2800, 2804, 2960; [Pub. L. 100–647, title I, § 1018(d)(10)][/us/pl/100/647/s1018/d/10], Nov. 10, 1988, [102 Stat. 3581][/us/stat/102/3581]; [Pub. L. 101–508, title XI, § 11814(b)][/us/pl/101/508/s11814/b], Nov. 5, 1990, [104 Stat. 1388–557][/us/stat/104/1388-557]; [Pub. L. 104–188, title I][/us/pl/104/188], §§ 1308(d)(2), 1702(h)(6), Aug. 20, 1996, [110 Stat. 1783][/us/stat/110/1783], 1874; [Pub. L. 113–295, div. A, title II, § 221(a)(93)][/us/pl/113/295/s221/a/93], Dec. 19, 2014, [128 Stat. 4050][/us/stat/128/4050].)
 
  __References in Text__ 
 
     Section 805(b)(2)(A) and (3) of the Tax Reform Act of 1984, referred to in subsec. (f)(1), (2), is section 805(b)(2)(A) and (3) of [Pub. L. 98–369][/us/pl/98/369], which is set out as a note under [section 991 of this title][/us/usc/t26/s991].
 
  __Amendments__ 
+
+    2014—Subsec. (a)(3)(A). [Pub. L. 113–295][/us/pl/113/295] struck out “for a taxable year which includes any period after December 31, 1984” after “affiliated group” in cl. (i) and struck out “in a taxable year beginning after December 31, 1984” after “such group” in cl. (ii).
 
     1996—Subsec. (b)(8). [Pub. L. 104–188, § 1308(d)(2)][/us/pl/104/188/s1308/d/2], added par. (8).
 
@@ -200,6 +202,10 @@
     1958—Subsec. (b)(8). [Pub. L. 85–866][/us/pl/85/866] added par. (8).
 
     1956—Subsec. (b)(2), Act Mar. 13, 1956, inserted reference to section 811.
+
+ __Effective Date of 2014 Amendment__ 
+
+    Amendment by [Pub. L. 113–295][/us/pl/113/295] effective Dec. 19, 2014, subject to a savings provision, see [section 221(b) of Pub. L. 113–295][/us/pl/113/295/s221/b], set out as a note under [section 1 of this title][/us/usc/t26/s1].
 
  __Effective Date of 1996 Amendment__ 
 
@@ -508,8 +514,11 @@
 [/us/stat/104/1388-557]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1388-557
 [/us/pl/104/188]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188
 [/us/stat/110/1783]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1783
+[/us/pl/113/295/s221/a/93]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs221%2Fa%2F93
+[/us/stat/128/4050]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F4050
 [/us/pl/98/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369
 [/us/usc/t26/s991]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs991
+[/us/pl/113/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295
 [/us/pl/104/188/s1308/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188%2Fs1308%2Fd%2F2
 [/us/pl/104/188/s1702/h/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188%2Fs1702%2Fh%2F6
 [/us/pl/101/508/s11814/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs11814%2Fb
@@ -536,6 +545,9 @@
 [/us/pl/86/69]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F69
 [/us/pl/86/376]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F376
 [/us/pl/85/866]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F866
+[/us/pl/113/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295
+[/us/pl/113/295/s221/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs221%2Fb
+[/us/usc/t26/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs1
 [/us/pl/104/188/s1308/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188%2Fs1308%2Fd%2F2
 [/us/pl/104/188/s1317/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188%2Fs1317%2Fa
 [/us/usc/t26/s641]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs641

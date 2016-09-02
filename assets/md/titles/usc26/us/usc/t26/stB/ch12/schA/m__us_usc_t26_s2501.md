@@ -185,7 +185,7 @@
 
  __Effective Date of 1958 Amendment__ 
 
-    Amendment by [Pub. L. 85–866][/us/pl/85/866] applicable to gifts made after September 2, 1958, see [section 102(d) of Pub. L. 85–866][/us/pl/85/866/s102/d], set out as a note under [section 2011 of this title][/us/usc/t26/s2011].
+    Amendment by [Pub. L. 85–866][/us/pl/85/866] applicable to gifts made after September 2, 1958, see [section 102(d) of Pub. L. 85–866][/us/pl/85/866/s102/d], set out as a note under [section 2014 of this title][/us/usc/t26/s2014].
 
  __Election To Have Amendments by Title IV of the Economic Recovery Tax Act of 1981 Not Apply__ 
 
@@ -291,7 +291,7 @@
 [/us/stat/74/1000]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F74%2F1000
 [/us/pl/85/866]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F866
 [/us/pl/85/866/s102/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F866%2Fs102%2Fd
-[/us/usc/t26/s2011]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs2011
+[/us/usc/t26/s2014]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs2014
 [/us/pl/97/448/s104/d/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F448%2Fs104%2Fd%2F3
 [/us/stat/96/2383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F2383
 [/us/pl/99/514/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs2

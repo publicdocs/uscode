@@ -17,19 +17,21 @@
 
     (a) __By Treasury to Joint Committee__ 
 
-        No refund or credit of any income, war profits, excess profits, estate, or gift tax, or any tax imposed with respect to public charities, private foundations, operators’ trust funds, pension plans, or real estate investment trusts under chapter 41, 42, 43, or 44, in excess of $2,000,000 shall be made until after the expiration of 30 days from the date upon which a report giving the name of the person to whom the refund or credit is to be made, the amount of such refund or credit, and a summary of the facts and the decision of the Secretary, is submitted to the Joint Committee on Taxation.
+        No refund or credit of any income, war profits, excess profits, estate, or gift tax, or any tax imposed with respect to public charities, private foundations, operators’ trust funds, pension plans, or real estate investment trusts under chapter 41, 42, 43, or 44, in excess of $2,000,000 ($5,000,000 in the case of a C corporation) shall be made until after the expiration of 30 days from the date upon which a report giving the name of the person to whom the refund or credit is to be made, the amount of such refund or credit, and a summary of the facts and the decision of the Secretary, is submitted to the Joint Committee on Taxation.
 
     (b) __Tentative adjustments__ 
 
-        Any credit or refund allowed or made under section 6411 shall be made without regard to the provisions of subsection (a) of this section. In any such case, if the credit or refund, reduced by any deficiency in such tax thereafter assessed and by deficiencies in any other tax resulting from adjustments reflected in the determination of the credit or refund, is in excess of $2,000,000, there shall be submitted to such committee a report containing the matter specified in subsection (a) at such time after the making of the credit or refund as the Secretary shall determine the correct amount of the tax.
+        Any credit or refund allowed or made under section 6411 shall be made without regard to the provisions of subsection (a) of this section. In any such case, if the credit or refund, reduced by any deficiency in such tax thereafter assessed and by deficiencies in any other tax resulting from adjustments reflected in the determination of the credit or refund, is in excess of $2,000,000 ($5,000,000 in the case of a C corporation), there shall be submitted to such committee a report containing the matter specified in subsection (a) at such time after the making of the credit or refund as the Secretary shall determine the correct amount of the tax.
 
     (c) __Refunds attributable to certain disaster losses__ 
 
         If any refund or credit of income taxes is attributable to the taxpayer’s election under section 165(i) to deduct a disaster loss for the taxable year immediately preceding the taxable year in which the disaster occurred, the Secretary is authorized in his discretion to make the refund or credit, to the extent attributable to such election, without regard to the provisions of subsection (a) of this section. If such refund or credit is made without regard to subsection (a), there shall thereafter be submitted to such Joint Committee a report containing the matter specified in subsection (a) as soon as the Secretary shall determine the correct amount of the tax for the taxable year for which the refund or credit is made.
 
-([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 792][/us/stat/68A/792]; [Pub. L. 92–418, § 2(b)][/us/pl/92/418/s2/b], Aug. 29, 1972, [86 Stat. 657][/us/stat/86/657]; [Pub. L. 92–512, title II, § 203(a)][/us/pl/92/512/s203/a], Oct. 20, 1972, [86 Stat. 944][/us/stat/86/944]; [Pub. L. 94–455, title XII, § 1210(a)][/us/pl/94/455/s1210/a], (b), title XIX, § 1906(b)(13)(A), Oct. 4, 1976, [90 Stat. 1711][/us/stat/90/1711], 1834; [Pub. L. 95–227, § 4(d)(3)][/us/pl/95/227/s4/d/3], Feb. 10, 1978, [92 Stat. 23][/us/stat/92/23]; [Pub. L. 98–369, div. A, title VII, § 711(c)(3)][/us/pl/98/369/s711/c/3], July 18, 1984, [98 Stat. 946][/us/stat/98/946]; [Pub. L. 99–514, title XVIII, § 1879(e)][/us/pl/99/514/s1879/e], Oct. 22, 1986, [100 Stat. 2906][/us/stat/100/2906]; [Pub. L. 101–508, title XI][/us/pl/101/508], §§ 11801(c)(21)(A), 11834(a), Nov. 5, 1990, [104 Stat. 1388–528][/us/stat/104/1388-528], 1388–560; [Pub. L. 106–554, § 1(a)(7)][/us/pl/106/554/s1/a/7] \[title III, § 305(a)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–634.)
+([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 792][/us/stat/68A/792]; [Pub. L. 92–418, § 2(b)][/us/pl/92/418/s2/b], Aug. 29, 1972, [86 Stat. 657][/us/stat/86/657]; [Pub. L. 92–512, title II, § 203(a)][/us/pl/92/512/s203/a], Oct. 20, 1972, [86 Stat. 944][/us/stat/86/944]; [Pub. L. 94–455, title XII, § 1210(a)][/us/pl/94/455/s1210/a], (b), title XIX, § 1906(b)(13)(A), Oct. 4, 1976, [90 Stat. 1711][/us/stat/90/1711], 1834; [Pub. L. 95–227, § 4(d)(3)][/us/pl/95/227/s4/d/3], Feb. 10, 1978, [92 Stat. 23][/us/stat/92/23]; [Pub. L. 98–369, div. A, title VII, § 711(c)(3)][/us/pl/98/369/s711/c/3], July 18, 1984, [98 Stat. 946][/us/stat/98/946]; [Pub. L. 99–514, title XVIII, § 1879(e)][/us/pl/99/514/s1879/e], Oct. 22, 1986, [100 Stat. 2906][/us/stat/100/2906]; [Pub. L. 101–508, title XI][/us/pl/101/508], §§ 11801(c)(21)(A), 11834(a), Nov. 5, 1990, [104 Stat. 1388–528][/us/stat/104/1388-528], 1388–560; [Pub. L. 106–554, § 1(a)(7)][/us/pl/106/554/s1/a/7] \[title III, § 305(a)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–634; [Pub. L. 113–295, div. A, title III, § 301(a)][/us/pl/113/295/s301/a], Dec. 19, 2014, [128 Stat. 4055][/us/stat/128/4055].)
 
  __Amendments__ 
+
+    2014—Subsecs. (a), (b). [Pub. L. 113–295][/us/pl/113/295] inserted “($5,000,000 in the case of a C corporation)” after “$2,000,000”.
 
     2000—Subsecs. (a), (b). [Pub. L. 106–554][/us/pl/106/554] substituted “$2,000,000” for “$1,000,000”.
 
@@ -52,6 +54,12 @@
     1972—Subsec. (d). [Pub. L. 92–418][/us/pl/92/418] added subsec. (d).
 
     Subsec. (e). [Pub. L. 92–512][/us/pl/92/512] added subsec. (e).
+
+ __Effective Date of 2014 Amendment__ 
+
+[Pub. L. 113–295, div. A, title III, § 301(b)][/us/pl/113/295/s301/b], Dec. 19, 2014, [128 Stat. 4055][/us/stat/128/4055], provided that: 
+
+> “The amendment made by this section \[amending this section\] shall take effect on the date of the enactment of this Act \[Dec. 19, 2014\], except that such amendment shall not apply with respect to any refund or credit with respect to a report that has been made before such date under section 6405 of the Internal Revenue Code of 1986.”
 
  __Effective Date of 2000 Amendment__ 
 
@@ -122,6 +130,9 @@
 [/us/stat/104/1388-528]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1388-528
 [/us/pl/106/554/s1/a/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F7
 [/us/stat/114/2763]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2763
+[/us/pl/113/295/s301/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs301%2Fa
+[/us/stat/128/4055]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F4055
+[/us/pl/113/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295
 [/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
 [/us/pl/101/508/s11834/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs11834%2Fa
 [/us/pl/101/508/s11801/c/21/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs11801%2Fc%2F21%2FA
@@ -133,6 +144,8 @@
 [/us/pl/94/455/s1906/b/13/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1906%2Fb%2F13%2FA
 [/us/pl/92/418]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F418
 [/us/pl/92/512]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F512
+[/us/pl/113/295/s301/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs301%2Fb
+[/us/stat/128/4055]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F4055
 [/us/pl/106/554/s1/a/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F7
 [/us/stat/114/2763]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2763
 [/us/pl/101/508/s11834/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs11834%2Fb

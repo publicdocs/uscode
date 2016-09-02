@@ -19,7 +19,7 @@
 
     If, during any calendar year, any United States citizen or resident receives any covered gift or bequest, there is hereby imposed a tax equal to the product of—
 
-        (1) the highest rate of tax specified in the table contained in section 2001(c) as in effect on the date of such receipt (or, if greater, the highest rate of tax specified in the table applicable under section 2502(a) as in effect on the date), and
+        (1) the highest rate of tax specified in the table contained in section 2001(c) as in effect on the date of such receipt, and
 
         (2) the value of such covered gift or bequest.
 
@@ -85,7 +85,15 @@
 
         For purposes of this section, the term “covered expatriate” has the meaning given to such term by section 877A(g)(1).
 
-(Added [Pub. L. 110–245, title III, § 301(b)(1)][/us/pl/110/245/s301/b/1], June 17, 2008, [122 Stat. 1644][/us/stat/122/1644].)
+(Added [Pub. L. 110–245, title III, § 301(b)(1)][/us/pl/110/245/s301/b/1], June 17, 2008, [122 Stat. 1644][/us/stat/122/1644]; amended [Pub. L. 113–295, div. A, title II, § 206(b)(1)][/us/pl/113/295/s206/b/1], Dec. 19, 2014, [128 Stat. 4027][/us/stat/128/4027].)
+
+ __Amendments__ 
+
+    2014—Subsec. (a)(1). [Pub. L. 113–295][/us/pl/113/295] struck out “(or, if greater, the highest rate of tax specified in the table applicable under section 2502(a) as in effect on the date)” after “such receipt”.
+
+ __Effective Date of 2014 Amendment__ 
+
+    Amendment by [Pub. L. 113–295][/us/pl/113/295] effective as if included in the provisions of the Tax Relief, Unemployment Insurance Reauthorization, and Job Creation Act of 2010, [Pub. L. 111–312][/us/pl/111/312], to which such amendment relates, see [section 206(d) of Pub. L. 113–295][/us/pl/113/295/s206/d], set out as a note under [section 32 of this title][/us/usc/t26/s32].
 
  __Effective Date__ 
 
@@ -108,6 +116,13 @@
 
 [/us/pl/110/245/s301/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F245%2Fs301%2Fb%2F1
 [/us/stat/122/1644]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1644
+[/us/pl/113/295/s206/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs206%2Fb%2F1
+[/us/stat/128/4027]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F4027
+[/us/pl/113/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295
+[/us/pl/113/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295
+[/us/pl/111/312]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F312
+[/us/pl/113/295/s206/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs206%2Fd
+[/us/usc/t26/s32]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs32
 [/us/pl/110/245/s301/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F245%2Fs301%2Fg
 [/us/stat/122/1647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1647
 [/us/usc/t26/s877A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs877A

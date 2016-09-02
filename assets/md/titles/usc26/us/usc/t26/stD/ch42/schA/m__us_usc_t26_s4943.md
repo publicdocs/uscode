@@ -205,7 +205,7 @@
 
             (A) “the date of the enactment of this subsection” shall be substituted for “May 26, 1969” each place it appears in paragraphs (4), (5), and (6), and
 
-            (B) “January 1, 2007” shall be substituted for “January 1, 1970” in paragraph (4)(E).
+            (B) “January 1, 2007” shall be substituted for “January 1, 1971” in paragraph (4)(E).
 
     (f) __Application of tax to supporting organizations__ 
 
@@ -289,9 +289,9 @@
 
             (A) “the date of the enactment of this subsection” shall be substituted for “May 26, 1969” each place it appears in paragraphs (4), (5), and (6), and
 
-            (B) “January 1, 2007” shall be substituted for “January 1, 1970” in paragraph (4)(E).
+            (B) “January 1, 2007” shall be substituted for “January 1, 1971” in paragraph (4)(E).
 
-(Added [Pub. L. 91–172, title I, § 101(b)][/us/pl/91/172/s101/b], Dec. 30, 1969, [83 Stat. 507][/us/stat/83/507]; amended [Pub. L. 94–455, title XIX, § 1906(b)(13)(A)][/us/pl/94/455/s1906/b/13/A], Oct. 4, 1976, [90 Stat. 1834][/us/stat/90/1834]; [Pub. L. 96–596, § 2(a)(1)(D)][/us/pl/96/596/s2/a/1/D], (2)(C), (3)(C), (4)(B), Dec. 24, 1980, [94 Stat. 3469–3472][/us/stat/94/3469-3472]; [Pub. L. 98–369, div. A, title III][/us/pl/98/369], §§ 307(a), 308(a), 309(a), 310(a), 314(c)(1), July 18, 1984, [98 Stat. 784][/us/stat/98/784], 785, 787; [Pub. L. 109–280, title XII][/us/pl/109/280], §§ 1212(c), 1233(a), 1243(a), Aug. 17, 2006, [120 Stat. 1074][/us/stat/120/1074], 1099, 1105.)
+(Added [Pub. L. 91–172, title I, § 101(b)][/us/pl/91/172/s101/b], Dec. 30, 1969, [83 Stat. 507][/us/stat/83/507]; amended [Pub. L. 94–455, title XIX, § 1906(b)(13)(A)][/us/pl/94/455/s1906/b/13/A], Oct. 4, 1976, [90 Stat. 1834][/us/stat/90/1834]; [Pub. L. 96–596, § 2(a)(1)(D)][/us/pl/96/596/s2/a/1/D], (2)(C), (3)(C), (4)(B), Dec. 24, 1980, [94 Stat. 3469–3472][/us/stat/94/3469-3472]; [Pub. L. 98–369, div. A, title III][/us/pl/98/369], §§ 307(a), 308(a), 309(a), 310(a), 314(c)(1), July 18, 1984, [98 Stat. 784][/us/stat/98/784], 785, 787; [Pub. L. 109–280, title XII][/us/pl/109/280], §§ 1212(c), 1233(a), 1243(a), Aug. 17, 2006, [120 Stat. 1074][/us/stat/120/1074], 1099, 1105; [Pub. L. 113–295, div. A, title II, § 220(r)][/us/pl/113/295/s220/r], Dec. 19, 2014, [128 Stat. 4036][/us/stat/128/4036].)
 
  __References in Text__ 
 
@@ -302,6 +302,8 @@
     Sections 1212(c), 1233(a), and 1243(a) of [Pub. L. 109–280][/us/pl/109/280], which directed the amendment of section 4943 without specifying the act to be amended, were executed to this section, which is section 4943 of the Internal Revenue Code of 1986, to reflect the probable intent of Congress. See 2006 Amendment notes below.
 
  __Amendments__ 
+
+    2014—Subsecs. (e)(3)(B), (f)(7)(B). [Pub. L. 113–295][/us/pl/113/295] substituted “January 1, 1971” for “January 1, 1970”.
 
     2006—Subsec. (a)(1). [Pub. L. 109–280, § 1212(c)][/us/pl/109/280/s1212/c], substituted “10 percent” for “5 percent”. See Codification note above.
 
@@ -392,8 +394,11 @@
 [/us/stat/98/784]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F784
 [/us/pl/109/280]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280
 [/us/stat/120/1074]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1074
+[/us/pl/113/295/s220/r]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs220%2Fr
+[/us/stat/128/4036]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F4036
 [/us/pl/109/280]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280
 [/us/pl/109/280]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280
+[/us/pl/113/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295
 [/us/pl/109/280/s1212/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280%2Fs1212%2Fc
 [/us/pl/109/280/s1233/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280%2Fs1233%2Fa
 [/us/pl/109/280/s1243/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280%2Fs1243%2Fa

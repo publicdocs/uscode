@@ -321,11 +321,11 @@
 
  __Effective Date of 2002 Amendment__ 
 
-    Amendment by [Pub. L. 107–134][/us/pl/107/134] applicable to estates of decedents dying on or after Sept. 11, 2001, and, in the case of individuals dying as a result of the Apr. 19, 1995, terrorist attack, dying on or after Apr. 19, 1995, with provisions relating to waiver of limitations, see [section 103(d) of Pub. L. 107–134][/us/pl/107/134/s103/d], set out as a note under [section 2011 of this title][/us/usc/t26/s2011].
+    Amendment by [Pub. L. 107–134][/us/pl/107/134] applicable to estates of decedents dying on or after Sept. 11, 2001, and, in the case of individuals dying as a result of the Apr. 19, 1995, terrorist attack, dying on or after Apr. 19, 1995, with provisions relating to waiver of limitations, see [section 103(d) of Pub. L. 107–134][/us/pl/107/134/s103/d], set out as a note under [section 2053 of this title][/us/usc/t26/s2053].
 
  __Effective Date of 2001 Amendment__ 
 
-    Amendment by [Pub. L. 107–16][/us/pl/107/16] applicable to estates of decedents dying, and generation-skipping transfers, after Dec. 31, 2004, see [section 532(d) of Pub. L. 107–16][/us/pl/107/16/s532/d], set out as a note under [section 2011 of this title][/us/usc/t26/s2011].
+    Amendment by [Pub. L. 107–16][/us/pl/107/16] applicable to estates of decedents dying, and generation-skipping transfers, after Dec. 31, 2004, see [section 532(d) of Pub. L. 107–16][/us/pl/107/16/s532/d], set out as a note under [section 2012 of this title][/us/usc/t26/s2012].
 
  __Effective Date of 1976 Amendment__ 
 
@@ -371,10 +371,10 @@
 [/us/stat/117/1343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1343
 [/us/pl/107/134]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F134
 [/us/pl/107/134/s103/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F134%2Fs103%2Fd
-[/us/usc/t26/s2011]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs2011
+[/us/usc/t26/s2053]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs2053
 [/us/pl/107/16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F16
 [/us/pl/107/16/s532/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F16%2Fs532%2Fd
-[/us/usc/t26/s2011]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs2011
+[/us/usc/t26/s2012]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs2012
 [/us/pl/94/455/s1902/a/7/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1902%2Fa%2F7%2FB
 [/us/stat/90/1805]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1805
 [/us/pl/93/597/s6/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F597%2Fs6%2Fb%2F1

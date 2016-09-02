@@ -199,7 +199,7 @@
 
         (2) __Long-term resident__ 
 
-            For purposes of this subsection, the term “long-term resident” means any individual (other than a citizen of the United States) who is a lawful permanent resident of the United States in at least 8 taxable years during the period of 15 taxable years ending with the taxable year during which the event described in subparagraph (A) or (B) of paragraph (1) occurs. For purposes of the preceding sentence, an individual shall not be treated as a lawful permanent resident for any taxable year if such individual is treated as a resident of a foreign country for the taxable year under the provisions of a tax treaty between the United States and the foreign country and does not waive the benefits of such treaty applicable to residents of the foreign country.
+            For purposes of this subsection, the term “long-term resident” means any individual (other than a citizen of the United States) who is a lawful permanent resident of the United States in at least 8 taxable years during the period of 15 taxable years ending with the taxable year during which the event described in paragraph (1) occurs. For purposes of the preceding sentence, an individual shall not be treated as a lawful permanent resident for any taxable year if such individual is treated as a resident of a foreign country for the taxable year under the provisions of a tax treaty between the United States and the foreign country and does not waive the benefits of such treaty applicable to residents of the foreign country.
 
         (3) __Special rules__ 
 
@@ -265,7 +265,7 @@
 
         This section shall not apply to any individual whose expatriation date (as defined in section 877A(g)(3)) is on or after the date of the enactment of this subsection.
 
-(Added [Pub. L. 89–809, title I, § 103(f)(1)][/us/pl/89/809/s103/f/1], Nov. 13, 1966, [80 Stat. 1551][/us/stat/80/1551]; amended [Pub. L. 93–406, title II, § 2005(c)(8)][/us/pl/93/406/s2005/c/8], Sept. 2, 1974, [88 Stat. 992][/us/stat/88/992]; [Pub. L. 94–455, title XIX, § 1906(b)(13)(A)][/us/pl/94/455/s1906/b/13/A], Oct. 4, 1976, [90 Stat. 1834][/us/stat/90/1834]; [Pub. L. 95–600, title IV, § 421(e)(5)][/us/pl/95/600/s421/e/5], Nov. 6, 1978, [92 Stat. 2876][/us/stat/92/2876]; [Pub. L. 96–222, title I, § 104(a)(1)][/us/pl/96/222/s104/a/1], (4)(H)(v), Apr. 1, 1980, [94 Stat. 214][/us/stat/94/214], 217; [Pub. L. 99–514, title XII, § 1243(a)][/us/pl/99/514/s1243/a], Oct. 22, 1986, [100 Stat. 2580][/us/stat/100/2580]; [Pub. L. 102–318, title V, § 521(b)(31)][/us/pl/102/318/s521/b/31], July 3, 1992, [106 Stat. 312][/us/stat/106/312]; [Pub. L. 104–188, title I, § 1401(b)(11)][/us/pl/104/188/s1401/b/11], Aug. 20, 1996, [110 Stat. 1789][/us/stat/110/1789]; [Pub. L. 104–191, title V, § 511(a)][/us/pl/104/191/s511/a]–(d), (f)(1), Aug. 21, 1996, [110 Stat. 2093–2098][/us/stat/110/2093-2098]; [Pub. L. 105–34, title XVI, § 1602(g)(1)][/us/pl/105/34/s1602/g/1]–(4), (h)(3), Aug. 5, 1997, [111 Stat. 1095][/us/stat/111/1095], 1096; [Pub. L. 108–357, title VIII, § 804(a)(1)][/us/pl/108/357/s804/a/1], (2), (c), Oct. 22, 2004, [118 Stat. 1569][/us/stat/118/1569], 1570; [Pub. L. 109–135, title IV, § 403(v)(1)][/us/pl/109/135/s403/v/1], Dec. 21, 2005, [119 Stat. 2628][/us/stat/119/2628]; [Pub. L. 110–245, title III, § 301(c)(2)(A)][/us/pl/110/245/s301/c/2/A], (d), June 17, 2008, [122 Stat. 1646][/us/stat/122/1646].)
+(Added [Pub. L. 89–809, title I, § 103(f)(1)][/us/pl/89/809/s103/f/1], Nov. 13, 1966, [80 Stat. 1551][/us/stat/80/1551]; amended [Pub. L. 93–406, title II, § 2005(c)(8)][/us/pl/93/406/s2005/c/8], Sept. 2, 1974, [88 Stat. 992][/us/stat/88/992]; [Pub. L. 94–455, title XIX, § 1906(b)(13)(A)][/us/pl/94/455/s1906/b/13/A], Oct. 4, 1976, [90 Stat. 1834][/us/stat/90/1834]; [Pub. L. 95–600, title IV, § 421(e)(5)][/us/pl/95/600/s421/e/5], Nov. 6, 1978, [92 Stat. 2876][/us/stat/92/2876]; [Pub. L. 96–222, title I, § 104(a)(1)][/us/pl/96/222/s104/a/1], (4)(H)(v), Apr. 1, 1980, [94 Stat. 214][/us/stat/94/214], 217; [Pub. L. 99–514, title XII, § 1243(a)][/us/pl/99/514/s1243/a], Oct. 22, 1986, [100 Stat. 2580][/us/stat/100/2580]; [Pub. L. 102–318, title V, § 521(b)(31)][/us/pl/102/318/s521/b/31], July 3, 1992, [106 Stat. 312][/us/stat/106/312]; [Pub. L. 104–188, title I, § 1401(b)(11)][/us/pl/104/188/s1401/b/11], Aug. 20, 1996, [110 Stat. 1789][/us/stat/110/1789]; [Pub. L. 104–191, title V, § 511(a)][/us/pl/104/191/s511/a]–(d), (f)(1), Aug. 21, 1996, [110 Stat. 2093–2098][/us/stat/110/2093-2098]; [Pub. L. 105–34, title XVI, § 1602(g)(1)][/us/pl/105/34/s1602/g/1]–(4), (h)(3), Aug. 5, 1997, [111 Stat. 1095][/us/stat/111/1095], 1096; [Pub. L. 108–357, title VIII, § 804(a)(1)][/us/pl/108/357/s804/a/1], (2), (c), Oct. 22, 2004, [118 Stat. 1569][/us/stat/118/1569], 1570; [Pub. L. 109–135, title IV, § 403(v)(1)][/us/pl/109/135/s403/v/1], Dec. 21, 2005, [119 Stat. 2628][/us/stat/119/2628]; [Pub. L. 110–245, title III, § 301(c)(2)(A)][/us/pl/110/245/s301/c/2/A], (d), June 17, 2008, [122 Stat. 1646][/us/stat/122/1646]; [Pub. L. 113–295, div. A, title II, § 213(c)(2)][/us/pl/113/295/s213/c/2], Dec. 19, 2014, [128 Stat. 4034][/us/stat/128/4034].)
 
  __Inflation Adjusted Items for Certain Years__ 
 
@@ -280,6 +280,8 @@
     A prior section 877 was renumbered [section 878 of this title][/us/usc/t26/s878].
 
  __Amendments__ 
+
+    2014—Subsec. (e)(2). [Pub. L. 113–295, § 213(c)(2)][/us/pl/113/295/s213/c/2], struck out “subparagraph (A) or (B) of” after “event described in”.
 
     2008—Subsec. (e)(1). [Pub. L. 110–245, § 301(c)(2)(A)][/us/pl/110/245/s301/c/2/A], amended par. (1) generally. Prior to amendment, text read as follows: “Any long-term resident of the United States who—
 
@@ -354,6 +356,10 @@
     1976—Subsecs. (b)(2), (e). [Pub. L. 94–455][/us/pl/94/455] struck out “or his delegate” after “Secretary”.
 
     1974—Subsec. (b). [Pub. L. 93–406][/us/pl/93/406] inserted reference to section 402(e)(1).
+
+ __Effective Date of 2014 Amendment__ 
+
+    Amendment by [Pub. L. 113–295][/us/pl/113/295] effective as if included in the provisions of the Heroes Earnings Assistance and Relief Tax Act of 2008, [Pub. L. 110–245][/us/pl/110/245], to which such amendment relates, see [section 213(d) of Pub. L. 113–295][/us/pl/113/295/s213/d], set out as a note under [section 121 of this title][/us/usc/t26/s121].
 
  __Effective Date of 2008 Amendment__ 
 
@@ -468,9 +474,12 @@
 [/us/stat/119/2628]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F2628
 [/us/pl/110/245/s301/c/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F245%2Fs301%2Fc%2F2%2FA
 [/us/stat/122/1646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1646
+[/us/pl/113/295/s213/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs213%2Fc%2F2
+[/us/stat/128/4034]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F4034
 [/us/usc/t26/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs1
 [/us/pl/110/245]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F245
 [/us/usc/t26/s878]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs878
+[/us/pl/113/295/s213/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs213%2Fc%2F2
 [/us/pl/110/245/s301/c/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F245%2Fs301%2Fc%2F2%2FA
 [/us/pl/110/245/s301/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F245%2Fs301%2Fd
 [/us/pl/109/135]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F135
@@ -500,6 +509,10 @@
 [/us/pl/95/600]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F600
 [/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455
 [/us/pl/93/406]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F406
+[/us/pl/113/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295
+[/us/pl/110/245]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F245
+[/us/pl/113/295/s213/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs213%2Fd
+[/us/usc/t26/s121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs121
 [/us/pl/110/245]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F245
 [/us/pl/110/245/s301/g/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F245%2Fs301%2Fg%2F1
 [/us/usc/t26/s2801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs2801

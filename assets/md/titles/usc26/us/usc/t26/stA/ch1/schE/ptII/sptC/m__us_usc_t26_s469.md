@@ -207,7 +207,7 @@
 
         (4) __Dividends reduced by dividends received deduction__ 
 
-            For purposes of paragraphs (1) and (2), income from dividends shall be reduced by the amount of any dividends received deduction under section 243, 244, or 245.
+            For purposes of paragraphs (1) and (2), income from dividends shall be reduced by the amount of any dividends received deduction under section 243 or 245.
 
     (f) __Treatment of former passive activities__ 
 
@@ -521,121 +521,13 @@
 
         (5) which deal with changes in marital status and changes between joint returns and separate returns.
 
-    (m) __Phase-in of disallowance of losses and credits for interest held before date of enactment__ 
-
-        (1) __In general__ 
-
-            In the case of any passive activity loss or passive activity credit for any taxable year beginning in calendar years 1987 through 1990, subsection (a) shall not apply to the applicable percentage of that portion of such loss (or such credit) which is attributable to pre-enactment interests.
-
-        (2) __Applicable percentage__ 
-
-            For purposes of this subsection, the applicable percentage shall be determined in accordance with the following table:
-
-<table>
-
-              <tr>
-
-                <td> 
-
-             In the case of taxable
-
-              years beginning in:  </td>
-
-                <td> 
-
-            The applicable
-
-            percentage is:  </td>
-
-  </tr>
-
-              <tr>
-
-                <td> 
-
-               1987  </td>
-
-                <td> 
-
-            65   </td>
-
-  </tr>
-
-              <tr>
-
-                <td> 
-
-               1988  </td>
-
-                <td> 
-
-            40   </td>
-
-  </tr>
-
-              <tr>
-
-                <td> 
-
-               1989  </td>
-
-                <td> 
-
-            20   </td>
-
-  </tr>
-
-              <tr>
-
-                <td> 
-
-               1990  </td>
-
-                <td> 
-
-            10.  </td>
-
-  </tr>
-
-            </table>
-
-        (3) __Portion of loss or credit attributable to pre-enactment interests__ 
-
-        For purposes of this subsection—
-
-            (A) __In general__ 
-
-            The portion of the passive activity loss (or passive activity credit) for any taxable year which is attributable to pre-enactment interests is the lesser of—
-
-                (i) the amount of the passive activity loss (or passive activity credit) which is disallowed for the taxable year under subsection (a) (without regard to this subsection), or
-
-                (ii) the amount of the passive activity loss (or passive activity credit) which would be disallowed for the taxable year (without regard to this subsection and without regard to any amount allocable to an activity for the taxable year under subsection (b)) taking into account only pre-enactment interests.
-
-            (B) __Pre-enactment interest__ 
-
-                (i) __In general__ 
-
-                    The term “pre-enactment interest” means any interest in a passive activity held by a taxpayer on the date of the enactment of the Tax Reform Act of 1986, and at all times thereafter.
-
-                (ii) __Binding contract exception__ 
-
-                    For purposes of clause (i), any interest acquired after such date of enactment pursuant to a written binding contract in effect on such date, and at all times thereafter, shall be treated as held on such date.
-
-                (iii) __Interest in activities__ 
-
-                The term “pre-enactment interest” shall not include an interest in a passive activity unless such activity was being conducted on such date of enactment. The preceding sentence shall not apply to an activity commencing after such date if—
-
-                    (I) the property used in such activity is acquired pursuant to a written binding contract in effect on August 16, 1986, and at all times thereafter, or
-
-                    (II) construction of property used in such activity began on or before August 16, 1986.
-
-(Added [Pub. L. 99–514, title V, § 501(a)][/us/pl/99/514/s501/a], Oct. 22, 1986, [100 Stat. 2233][/us/stat/100/2233]; amended [Pub. L. 100–203, title X, § 10212(a)][/us/pl/100/203/s10212/a], Dec. 22, 1987, [101 Stat. 1330–405][/us/stat/101/1330-405]; [Pub. L. 100–647, title I, § 1005(a)(1)][/us/pl/100/647/s1005/a/1]–(9), (11), (12), title II, § 2004(g), title VI, § 6009(c)(3), Nov. 10, 1988, [102 Stat. 3387–3389][/us/stat/102/3387-3389], 3603, 3690; [Pub. L. 101–239, title VII, § 7109(a)][/us/pl/101/239/s7109/a], Dec. 19, 1989, [103 Stat. 2322][/us/stat/103/2322]; [Pub. L. 101–508, title XI][/us/pl/101/508], §§ 11704(a)(6), 11813(b)(16), Nov. 5, 1990, [104 Stat. 1388–518][/us/stat/104/1388-518], 1388–555; [Pub. L. 103–66, title XIII, § 13143(a)][/us/pl/103/66/s13143/a], (b), Aug. 10, 1993, [107 Stat. 440][/us/stat/107/440], 441; [Pub. L. 104–188, title I][/us/pl/104/188], §§ 1704(d)(1), (e)(1), 1807(c)(4), Aug. 20, 1996, [110 Stat. 1878][/us/stat/110/1878], 1902; [Pub. L. 105–277, div. J, title IV, § 4003(a)(2)(D)][/us/pl/105/277/s4003/a/2/D], Oct. 21, 1998, [112 Stat. 2681–908][/us/stat/112/2681-908]; [Pub. L. 106–554, § 1(a)(7)][/us/pl/106/554/s1/a/7] \[title I, § 101(b)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–599; [Pub. L. 107–16, title IV, § 431(c)(3)][/us/pl/107/16/s431/c/3], June 7, 2001, [115 Stat. 68][/us/stat/115/68]; [Pub. L. 107–147, title IV, § 412(a)][/us/pl/107/147/s412/a], Mar. 9, 2002, [116 Stat. 53][/us/stat/116/53]; [Pub. L. 108–357, title I, § 102(d)(5)][/us/pl/108/357/s102/d/5], title III, § 331(g), Oct. 22, 2004, [118 Stat. 1429][/us/stat/118/1429], 1477.)
-
- __References in Text__ 
-
-    The date of the enactment of the Tax Reform Act of 1986, referred to in subsec. (m)(3)(B), is the date of enactment of [Pub. L. 99–514][/us/pl/99/514], which was approved Oct. 22, 1986.
+(Added [Pub. L. 99–514, title V, § 501(a)][/us/pl/99/514/s501/a], Oct. 22, 1986, [100 Stat. 2233][/us/stat/100/2233]; amended [Pub. L. 100–203, title X, § 10212(a)][/us/pl/100/203/s10212/a], Dec. 22, 1987, [101 Stat. 1330–405][/us/stat/101/1330-405]; [Pub. L. 100–647, title I, § 1005(a)(1)][/us/pl/100/647/s1005/a/1]–(9), (11), (12), title II, § 2004(g), title VI, § 6009(c)(3), Nov. 10, 1988, [102 Stat. 3387–3389][/us/stat/102/3387-3389], 3603, 3690; [Pub. L. 101–239, title VII, § 7109(a)][/us/pl/101/239/s7109/a], Dec. 19, 1989, [103 Stat. 2322][/us/stat/103/2322]; [Pub. L. 101–508, title XI][/us/pl/101/508], §§ 11704(a)(6), 11813(b)(16), Nov. 5, 1990, [104 Stat. 1388–518][/us/stat/104/1388-518], 1388–555; [Pub. L. 103–66, title XIII, § 13143(a)][/us/pl/103/66/s13143/a], (b), Aug. 10, 1993, [107 Stat. 440][/us/stat/107/440], 441; [Pub. L. 104–188, title I][/us/pl/104/188], §§ 1704(d)(1), (e)(1), 1807(c)(4), Aug. 20, 1996, [110 Stat. 1878][/us/stat/110/1878], 1902; [Pub. L. 105–277, div. J, title IV, § 4003(a)(2)(D)][/us/pl/105/277/s4003/a/2/D], Oct. 21, 1998, [112 Stat. 2681–908][/us/stat/112/2681-908]; [Pub. L. 106–554, § 1(a)(7)][/us/pl/106/554/s1/a/7] \[title I, § 101(b)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–599; [Pub. L. 107–16, title IV, § 431(c)(3)][/us/pl/107/16/s431/c/3], June 7, 2001, [115 Stat. 68][/us/stat/115/68]; [Pub. L. 107–147, title IV, § 412(a)][/us/pl/107/147/s412/a], Mar. 9, 2002, [116 Stat. 53][/us/stat/116/53]; [Pub. L. 108–357, title I, § 102(d)(5)][/us/pl/108/357/s102/d/5], title III, § 331(g), Oct. 22, 2004, [118 Stat. 1429][/us/stat/118/1429], 1477; [Pub. L. 113–295, div. A, title II, § 221(a)(41)(G)][/us/pl/113/295/s221/a/41/G], (60)(A), Dec. 19, 2014, [128 Stat. 4044][/us/stat/128/4044], 4047.)
 
  __Amendments__ 
+
+    2014—Subsec. (e)(4). [Pub. L. 113–295, § 221(a)(41)(G)][/us/pl/113/295/s221/a/41/G], struck out “, 244,” after “section 243”.
+
+    Subsec. (m). [Pub. L. 113–295, § 221(a)(60)(A)][/us/pl/113/295/s221/a/60/A], struck out subsec. (m) which related to a phase-in of disallowance of losses and credits for interest held before date of enactment.
 
     2004—Subsec. (i)(3)(F)(iii). [Pub. L. 108–357, § 102(d)(5)][/us/pl/108/357/s102/d/5], inserted “199,” before “219,”.
 
@@ -763,6 +655,12 @@
 
     1987—Subsecs. (k) to (m). [Pub. L. 100–203][/us/pl/100/203] added subsec. (k) and redesignated former subsecs. (k) and (l) as (l) and (m), respectively.
 
+ __Effective Date of 2014 Amendment__ 
+
+    Except as otherwise provided in [section 221(a) of Pub. L. 113–295][/us/pl/113/295/s221/a], amendment by [Pub. L. 113–295][/us/pl/113/295] effective Dec. 19, 2014, subject to a savings provision, see [section 221(b) of Pub. L. 113–295][/us/pl/113/295/s221/b], set out as a note under [section 1 of this title][/us/usc/t26/s1].
+
+    Amendment by [section 221(a)(41)(G) of Pub. L. 113–295][/us/pl/113/295/s221/a/41/G] not applicable to preferred stock issued before Oct. 1, 1942 (determined in the same manner as under [section 247 of this title][/us/usc/t26/s247] as in effect before its repeal by [Pub. L. 113–295][/us/pl/113/295]), see [section 221(a)(41)(K) of Pub. L. 113–295][/us/pl/113/295/s221/a/41/K], set out as a note under [section 172 of this title][/us/usc/t26/s172].
+
  __Effective Date of 2004 Amendment__ 
 
     Amendment by [section 102(d)(5) of Pub. L. 108–357][/us/pl/108/357/s102/d/5] applicable to taxable years beginning after Dec. 31, 2004, see [section 102(e) of Pub. L. 108–357][/us/pl/108/357/s102/e], set out as a note under [section 56 of this title][/us/usc/t26/s56].
@@ -869,7 +767,7 @@
 
 >     “(C) the taxpayer makes an election under this paragraph at such time and in such manner as the Secretary of the Treasury or his delegate shall prescribe,
 
->     to the extent such amount is attributable to an activity subject to the limitations of section 469 of the 1986 Code, such amount shall not be treated as investment interest but shall be treated as a deduction allocable to such activity for such first taxable year. Subsection (m) of section 469 of the 1986 Code and section 501(c)(2) of the Reform Act \[[Pub. L. 99–514][/us/pl/99/514], set out as an Effective Date note above\] shall not apply to any amount so treated.”
+>     to the extent such amount is attributable to an activity subject to the limitations of section 469 of the 1986 Code, such amount shall not be treated as investment interest but shall be treated as a deduction allocable to such activity for such first taxable year. \[Former\] Subsection (m) of section 469 of the 1986 Code and section 501(c)(2) of the Reform Act \[[Pub. L. 99–514][/us/pl/99/514], set out as an Effective Date note above\] shall not apply to any amount so treated.”
 
  __Transitional Rule for Low-Income Housing__ 
 
@@ -996,7 +894,10 @@
 [/us/stat/116/53]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F53
 [/us/pl/108/357/s102/d/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357%2Fs102%2Fd%2F5
 [/us/stat/118/1429]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1429
-[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
+[/us/pl/113/295/s221/a/41/G]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs221%2Fa%2F41%2FG
+[/us/stat/128/4044]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F4044
+[/us/pl/113/295/s221/a/41/G]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs221%2Fa%2F41%2FG
+[/us/pl/113/295/s221/a/60/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs221%2Fa%2F60%2FA
 [/us/pl/108/357/s102/d/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357%2Fs102%2Fd%2F5
 [/us/pl/108/357/s331/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357%2Fs331%2Fg
 [/us/pl/107/147]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F147
@@ -1034,6 +935,15 @@
 [/us/pl/100/647/s1005/a/12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs1005%2Fa%2F12
 [/us/pl/100/647/s1005/a/12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs1005%2Fa%2F12
 [/us/pl/100/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203
+[/us/pl/113/295/s221/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs221%2Fa
+[/us/pl/113/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295
+[/us/pl/113/295/s221/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs221%2Fb
+[/us/usc/t26/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs1
+[/us/pl/113/295/s221/a/41/G]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs221%2Fa%2F41%2FG
+[/us/usc/t26/s247]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs247
+[/us/pl/113/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295
+[/us/pl/113/295/s221/a/41/K]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs221%2Fa%2F41%2FK
+[/us/usc/t26/s172]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs172
 [/us/pl/108/357/s102/d/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357%2Fs102%2Fd%2F5
 [/us/pl/108/357/s102/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357%2Fs102%2Fe
 [/us/usc/t26/s56]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs56

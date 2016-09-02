@@ -41,9 +41,11 @@
 
             (C) the balance of such account amounts to not less than 2½ percent of that part of the payroll or payrolls for the 3 years preceding such date by which contributions to such account were measured, and
 
-            (D) such contributions were payable to such account with respect to the 3 years preceding the computation date.
+            (D) such contributions were payable to such account with respect to the 3 years preceding the computation date; and
 
-        For any person (or group of persons) who has (or have) not been subject to the State law for a period of time sufficient to compute the reduced rates permitted by paragraphs (1), (2), and (3) of this subsection on a 3–year basis (i) the period of time required may be reduced to the amount of time the person (or group of persons) has (or have) had experience under or has (or have) been subject to the State law, whichever is appropriate, but in no case less than 1 year immediately preceding the computation date, or (ii) a reduced rate (not less than 1 percent) may be permitted by the State law on a reasonable basis other than as permitted by paragraph (1), (2), or (3).
+        (4) if the taxpayer is a certified professional employer organization (as defined in section 7705) that is treated as the employer under section 3511, such certified professional employer organization is permitted to collect and remit, in accordance with paragraphs (1), (2), and (3), contributions during the taxable year to the State unemployment fund with respect to a work site employee.
+
+        For any person (or group of persons) who has (or have) not been subject to the State law for a period of time sufficient to compute the reduced rates permitted by paragraphs (1), (2), (3), and (4) of this subsection on a 3–year basis (i) the period of time required may be reduced to the amount of time the person (or group of persons) has (or have) had experience under or has (or have) been subject to the State law, whichever is appropriate, but in no case less than 1 year immediately preceding the computation date, or (ii) a reduced rate (not less than 1 percent) may be permitted by the State law on a reasonable basis other than as permitted by paragraph (1), (2), (3), or (4).
 
     (b) __Certification by the Secretary of Labor with respect to additional credit allowance__ 
 
@@ -115,9 +117,13 @@
 
             Nothing in paragraph (1) shall limit the authority of a State to provide that an employer’s account not be relieved of charges relating to a payment from the State unemployment fund for reasons other than the reasons described in subparagraphs (A) and (B) of such paragraph, such as after the first instance of a failure to respond timely or adequately to requests described in paragraph (1)(A).
 
-([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 440][/us/stat/68A/440]; [Sept. 1, 1954, ch. 1212, § 2][/us/act/1954-09-01/ch1212/s2], [68 Stat. 1130][/us/stat/68/1130]; [Pub. L. 91–373, title I][/us/pl/91/373], §§ 104(c), 122(a), 142(c)–(e), Aug. 10, 1970, [84 Stat. 699][/us/stat/84/699], 702, 707; [Pub. L. 94–455, title XIX][/us/pl/94/455], §§ 1903(a)(13), 1906(b)(13)(C), Oct. 4, 1976, [90 Stat. 1809][/us/stat/90/1809], 1834; [Pub. L. 94–566, title I, § 122(a)][/us/pl/94/566/s122/a], (b), Oct. 20, 1976, [90 Stat. 2675][/us/stat/90/2675], 2676; [Pub. L. 112–40, title II, § 252(a)][/us/pl/112/40/s252/a], Oct. 21, 2011, [125 Stat. 421][/us/stat/125/421].)
+([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 440][/us/stat/68A/440]; [Sept. 1, 1954, ch. 1212, § 2][/us/act/1954-09-01/ch1212/s2], [68 Stat. 1130][/us/stat/68/1130]; [Pub. L. 91–373, title I][/us/pl/91/373], §§ 104(c), 122(a), 142(c)–(e), Aug. 10, 1970, [84 Stat. 699][/us/stat/84/699], 702, 707; [Pub. L. 94–455, title XIX][/us/pl/94/455], §§ 1903(a)(13), 1906(b)(13)(C), Oct. 4, 1976, [90 Stat. 1809][/us/stat/90/1809], 1834; [Pub. L. 94–566, title I, § 122(a)][/us/pl/94/566/s122/a], (b), Oct. 20, 1976, [90 Stat. 2675][/us/stat/90/2675], 2676; [Pub. L. 112–40, title II, § 252(a)][/us/pl/112/40/s252/a], Oct. 21, 2011, [125 Stat. 421][/us/stat/125/421]; [Pub. L. 113–295, div. B, title II, § 206(c)(2)][/us/pl/113/295/s206/c/2], Dec. 19, 2014, [128 Stat. 4070][/us/stat/128/4070].)
 
  __Amendments__ 
+
+    2014—Subsec. (a). [Pub. L. 113–295, § 206(c)(2)(B)][/us/pl/113/295/s206/c/2/B], substituted “paragraphs (1), (2), (3), and (4)” for “paragraphs (1), (2), and (3)” and “paragraph (1), (2), (3), or (4)” for “paragraph (1), (2), or (3)” in concluding provisions.
+
+    Subsec. (a)(4). [Pub. L. 113–295, § 206(c)(2)(A)][/us/pl/113/295/s206/c/2/A], added par. (4).
 
     2011—Subsecs. (f), (g). [Pub. L. 112–40][/us/pl/112/40] added subsec. (f) and struck out former subsecs. (f) and (g) which contained transitional provisions enacted by prior amendments.
 
@@ -134,6 +140,10 @@
     Subsecs. (e), (f). [Pub. L. 91–373, § 104(c)][/us/pl/91/373/s104/c], added subsecs. (e) and (f).
 
     1954—Subsec. (a). Act Sept. 1, 1954, inserted sentence relating to reduced rates for new employers.
+
+ __Effective Date of 2014 Amendment__ 
+
+    Amendment by [Pub. L. 113–295][/us/pl/113/295] applicable with respect to wages for services performed on or after January 1 of the first calendar year beginning more than 12 months after Dec. 19, 2014, see [section 206(g)(1) of Pub. L. 113–295][/us/pl/113/295/s206/g/1], set out as a note under [section 3302 of this title][/us/usc/t26/s3302].
 
  __Effective Date of 2011 Amendment__ 
 
@@ -208,6 +218,10 @@
 [/us/stat/90/2675]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2675
 [/us/pl/112/40/s252/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F40%2Fs252%2Fa
 [/us/stat/125/421]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F421
+[/us/pl/113/295/s206/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs206%2Fc%2F2
+[/us/stat/128/4070]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F4070
+[/us/pl/113/295/s206/c/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs206%2Fc%2F2%2FB
+[/us/pl/113/295/s206/c/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs206%2Fc%2F2%2FA
 [/us/pl/112/40]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F40
 [/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455
 [/us/pl/94/566/s122/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F566%2Fs122%2Fb
@@ -215,6 +229,9 @@
 [/us/pl/91/373/s122/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F373%2Fs122%2Fa
 [/us/pl/91/373/s142/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F373%2Fs142%2Fc
 [/us/pl/91/373/s104/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F373%2Fs104%2Fc
+[/us/pl/113/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295
+[/us/pl/113/295/s206/g/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs206%2Fg%2F1
+[/us/usc/t26/s3302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs3302
 [/us/pl/112/40/s252/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F40%2Fs252%2Fb
 [/us/stat/125/422]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F422
 [/us/pl/94/566/s122/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F566%2Fs122%2Fc

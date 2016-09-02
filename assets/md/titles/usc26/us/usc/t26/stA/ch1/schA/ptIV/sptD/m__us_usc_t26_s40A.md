@@ -265,15 +265,17 @@
 
     (g) __Termination__ 
 
-        This section shall not apply to any sale or use after December 31, 2013.
+        This section shall not apply to any sale or use after December 31, 2014.
 
-(Added [Pub. L. 108–357, title III, § 302(a)][/us/pl/108/357/s302/a], Oct. 22, 2004, [118 Stat. 1463][/us/stat/118/1463]; amended [Pub. L. 109–58, title XIII][/us/pl/109/58], §§ 1344(a), 1345(a)–(d), 1346(a), (b)(1), Aug. 8, 2005, [119 Stat. 1052–1055][/us/stat/119/1052-1055]; [Pub. L. 109–135, title IV, § 412(h)][/us/pl/109/135/s412/h], Dec. 21, 2005, [119 Stat. 2637][/us/stat/119/2637]; [Pub. L. 110–234, title XV, § 15321(f)][/us/pl/110/234/s15321/f], May 22, 2008, [122 Stat. 1514][/us/stat/122/1514]; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title XV, § 15321(f), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 2276; [Pub. L. 110–343, div. B, title II][/us/pl/110/343], §§ 202(a), (b)(1), (b)(3)–(f), 203(b), Oct. 3, 2008, [122 Stat. 3832][/us/stat/122/3832], 3833; [Pub. L. 111–312, title VII, § 701(a)][/us/pl/111/312/s701/a], Dec. 17, 2010, [124 Stat. 3310][/us/stat/124/3310]; [Pub. L. 112–240, title IV, § 405(a)][/us/pl/112/240/s405/a], Jan. 2, 2013, [126 Stat. 2340][/us/stat/126/2340].)
+(Added [Pub. L. 108–357, title III, § 302(a)][/us/pl/108/357/s302/a], Oct. 22, 2004, [118 Stat. 1463][/us/stat/118/1463]; amended [Pub. L. 109–58, title XIII][/us/pl/109/58], §§ 1344(a), 1345(a)–(d), 1346(a), (b)(1), Aug. 8, 2005, [119 Stat. 1052–1055][/us/stat/119/1052-1055]; [Pub. L. 109–135, title IV, § 412(h)][/us/pl/109/135/s412/h], Dec. 21, 2005, [119 Stat. 2637][/us/stat/119/2637]; [Pub. L. 110–234, title XV, § 15321(f)][/us/pl/110/234/s15321/f], May 22, 2008, [122 Stat. 1514][/us/stat/122/1514]; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title XV, § 15321(f), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 2276; [Pub. L. 110–343, div. B, title II][/us/pl/110/343], §§ 202(a), (b)(1), (b)(3)–(f), 203(b), Oct. 3, 2008, [122 Stat. 3832][/us/stat/122/3832], 3833; [Pub. L. 111–312, title VII, § 701(a)][/us/pl/111/312/s701/a], Dec. 17, 2010, [124 Stat. 3310][/us/stat/124/3310]; [Pub. L. 112–240, title IV, § 405(a)][/us/pl/112/240/s405/a], Jan. 2, 2013, [126 Stat. 2340][/us/stat/126/2340]; [Pub. L. 113–295, div. A, title I, § 153(a)][/us/pl/113/295/s153/a], Dec. 19, 2014, [128 Stat. 4021][/us/stat/128/4021].)
 
  __Codification__ 
 
     [Pub. L. 110–234][/us/pl/110/234] and [Pub. L. 110–246][/us/pl/110/246] made identical amendments to this section. The amendments by [Pub. L. 110–234][/us/pl/110/234] were repealed by [section 4(a) of Pub. L. 110–246][/us/pl/110/246/s4/a].
 
  __Amendments__ 
+
+    2014—Subsec. (g). [Pub. L. 113–295][/us/pl/113/295] substituted “December 31, 2014” for “December 31, 2013”.
 
     2013—Subsec. (g). [Pub. L. 112–240][/us/pl/112/240] substituted “December 31, 2013” for “December 31, 2011”.
 
@@ -338,6 +340,12 @@
     [Pub. L. 109–58, § 1345(c)][/us/pl/109/58/s1345/c], redesignated subsec. (e) as (f).
 
     Subsec. (g). [Pub. L. 109–58, § 1346(a)][/us/pl/109/58/s1346/a], redesignated subsec. (f) as (g).
+
+ __Effective Date of 2014 Amendment__ 
+
+[Pub. L. 113–295, div. A, title I, § 153(b)][/us/pl/113/295/s153/b], Dec. 19, 2014, [128 Stat. 4021][/us/stat/128/4021], provided that: 
+
+> “The amendment made by this section \[amending this section\] shall apply to fuel sold or used after December 31, 2013.”
 
  __Effective Date of 2013 Amendment__ 
 
@@ -412,10 +420,13 @@
 [/us/stat/124/3310]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3310
 [/us/pl/112/240/s405/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F240%2Fs405%2Fa
 [/us/stat/126/2340]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F2340
+[/us/pl/113/295/s153/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs153%2Fa
+[/us/stat/128/4021]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F4021
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
+[/us/pl/113/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295
 [/us/pl/112/240]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F240
 [/us/pl/111/312]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F312
 [/us/pl/110/343/s202/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F343%2Fs202%2Fb%2F1
@@ -444,6 +455,8 @@
 [/us/pl/109/58/s1346/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs1346%2Fa
 [/us/pl/109/58/s1345/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs1345%2Fc
 [/us/pl/109/58/s1346/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs1346%2Fa
+[/us/pl/113/295/s153/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs153%2Fb
+[/us/stat/128/4021]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F4021
 [/us/pl/112/240/s405/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F240%2Fs405%2Fc
 [/us/stat/126/2340]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F2340
 [/us/pl/111/312/s701/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F312%2Fs701%2Fd

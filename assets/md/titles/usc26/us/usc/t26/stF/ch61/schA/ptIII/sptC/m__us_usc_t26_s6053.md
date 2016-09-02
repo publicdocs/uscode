@@ -107,9 +107,15 @@
 
             The Secretary shall prescribe regulations for the application of this subsection to new businesses.
 
-(Added [Pub. L. 89–97, title III, § 313(e)(2)(A)][/us/pl/89/97/s313/e/2/A], July 30, 1965, [79 Stat. 384][/us/stat/79/384]; amended [Pub. L. 89–212, § 2(d)][/us/pl/89/212/s2/d], Sept. 29, 1965, [79 Stat. 859][/us/stat/79/859]; [Pub. L. 94–455, title XIX, § 1906(b)(13)(A)][/us/pl/94/455/s1906/b/13/A], Oct. 4, 1976, [90 Stat. 1834][/us/stat/90/1834]; [Pub. L. 97–248, title III, § 314(a)][/us/pl/97/248/s314/a], Sept. 3, 1982, [96 Stat. 603][/us/stat/96/603]; [Pub. L. 98–369, div. A, title X, § 1072(a)][/us/pl/98/369/s1072/a], (c)(1), July 18, 1984, [98 Stat. 1052][/us/stat/98/1052].)
+        (8) __Certified professional employer organizations__ 
+
+            For purposes of any report required by this subsection, in the case of a certified professional employer organization that is treated under section 3511 as the employer of a work site employee, the customer with respect to whom a work site employee performs services shall be the employer for purposes of reporting under this section and the certified professional employer organization shall furnish to the customer and the Secretary any information the Secretary prescribes as necessary to complete such reporting no later than such time as the Secretary shall prescribe.
+
+(Added [Pub. L. 89–97, title III, § 313(e)(2)(A)][/us/pl/89/97/s313/e/2/A], July 30, 1965, [79 Stat. 384][/us/stat/79/384]; amended [Pub. L. 89–212, § 2(d)][/us/pl/89/212/s2/d], Sept. 29, 1965, [79 Stat. 859][/us/stat/79/859]; [Pub. L. 94–455, title XIX, § 1906(b)(13)(A)][/us/pl/94/455/s1906/b/13/A], Oct. 4, 1976, [90 Stat. 1834][/us/stat/90/1834]; [Pub. L. 97–248, title III, § 314(a)][/us/pl/97/248/s314/a], Sept. 3, 1982, [96 Stat. 603][/us/stat/96/603]; [Pub. L. 98–369, div. A, title X, § 1072(a)][/us/pl/98/369/s1072/a], (c)(1), July 18, 1984, [98 Stat. 1052][/us/stat/98/1052]; [Pub. L. 113–295, div. B, title II, § 206(c)(3)][/us/pl/113/295/s206/c/3], Dec. 19, 2014, [128 Stat. 4071][/us/stat/128/4071].)
 
  __Amendments__ 
+
+    2014—Subsec. (c)(8). [Pub. L. 113–295][/us/pl/113/295] added par. (8).
 
     1984—Subsec. (c)(3)(C). [Pub. L. 98–369, § 1072(a)][/us/pl/98/369/s1072/a], substituted “Upon the petition of the employer or the majority of employees of such employer, the Secretary” for “The Secretary” and “2 percent” for “5 percent”.
 
@@ -122,6 +128,10 @@
     1965—Subsec. (a). [Pub. L. 89–212, § 2(d)(1)][/us/pl/89/212/s2/d/1], inserted “or which are compensation (as defined in section 3231(e)”.
 
     Subsec. (b). [Pub. L. 89–212, § 2(d)(2)][/us/pl/89/212/s2/d/2], inserted “or section 3201 (as the case may be)” and “or section 3202 (as the case may be)”.
+
+ __Effective Date of 2014 Amendment__ 
+
+    Amendment by [Pub. L. 113–295][/us/pl/113/295] applicable with respect to wages for services performed on or after Jan. 1 of the first calendar year beginning more than 12 months after Dec. 19, 2014, see [section 206(g)(1) of Pub. L. 113–295][/us/pl/113/295/s206/g/1], set out as a note under [section 3302 of this title][/us/usc/t26/s3302].
 
  __Effective Date of 1984 Amendment__ 
 
@@ -194,12 +204,18 @@
 [/us/stat/96/603]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F603
 [/us/pl/98/369/s1072/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs1072%2Fa
 [/us/stat/98/1052]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F1052
+[/us/pl/113/295/s206/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs206%2Fc%2F3
+[/us/stat/128/4071]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F4071
+[/us/pl/113/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295
 [/us/pl/98/369/s1072/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs1072%2Fa
 [/us/pl/98/369/s1072/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs1072%2Fc%2F1
 [/us/pl/97/248]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F248
 [/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455
 [/us/pl/89/212/s2/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F212%2Fs2%2Fd%2F1
 [/us/pl/89/212/s2/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F212%2Fs2%2Fd%2F2
+[/us/pl/113/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295
+[/us/pl/113/295/s206/g/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs206%2Fg%2F1
+[/us/usc/t26/s3302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs3302
 [/us/pl/98/369/s1072/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs1072%2Fc%2F2
 [/us/stat/98/1052]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F1052
 [/us/pl/97/248/s314/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F248%2Fs314%2Fe

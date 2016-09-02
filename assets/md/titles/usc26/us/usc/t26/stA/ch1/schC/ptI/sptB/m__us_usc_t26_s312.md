@@ -53,11 +53,7 @@
 
             (B) if the distribution was not subject to tax in the hands of such distributee by reason of section 305(a).
 
-        (2) __Prior distributions__ 
-
-            In the case of a distribution of stock or securities, or property, to which section 115(h) of the Internal Revenue Code of 1939 (or the corresponding provision of prior law) applied, the effect on earnings and profits of such distribution shall be determined under such section 115(h), or the corresponding provision of prior law, as the case may be.
-
-        (3) __Stock or securities__ 
+        (2) __Stock or securities__ 
 
             For purposes of this subsection, the term “stock or securities” includes rights to acquire stock or securities.
 
@@ -127,9 +123,9 @@
 
                 Except as provided in subparagraph (B), in the case of tangible property to which section 168 applies, the adjustment to earnings and profits for depreciation for any taxable year shall be determined under the alternative depreciation system (within the meaning of section 168(g)(2)).
 
-            (B) __Treatment of amounts deductible under section 179, 179A, 179B, 179C, 179D, or 179E__ 
+            (B) __Treatment of amounts deductible under section 179, 179B, 179C, 179D, or 179E__ 
 
-                For purposes of computing the earnings and profits of a corporation, any amount deductible under section 179, 179A, 179B, 179C, 179D, or 179E shall be allowed as a deduction ratably over the period of 5 taxable years (beginning with the taxable year for which such amount is deductible under section 179, 179A, 179B, 179C, 179D, or 179E, as the case may be).
+                For purposes of computing the earnings and profits of a corporation, any amount deductible under section 179, 179B, 179C, 179D, or 179E shall be allowed as a deduction ratably over the period of 5 taxable years (beginning with the taxable year for which such amount is deductible under section 179, 179B, 179C, 179D, or 179E, as the case may be).
 
         (4) __Certain foreign corporations__ 
 
@@ -275,13 +271,13 @@
 
         For purposes of subsection (a)(2), the terms “original issue discount” and “issue price” have the same respective meanings as when used in subpart A of part V of subchapter P of this chapter.
 
-([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 95][/us/stat/68A/95]; [Pub. L. 87–403, § 3(a)][/us/pl/87/403/s3/a], Feb. 2, 1962, [76 Stat. 6][/us/stat/76/6]; [Pub. L. 87–834][/us/pl/87/834], §§ 13(f)(3), 14(b)(1), Oct. 16, 1962, [76 Stat. 1035][/us/stat/76/1035], 1040; [Pub. L. 88–272, title II, § 231(b)(3)][/us/pl/88/272/s231/b/3], Feb. 26, 1964, [78 Stat. 105][/us/stat/78/105]; [Pub. L. 88–484, § 1(b)(1)][/us/pl/88/484/s1/b/1], Aug. 22, 1964, [78 Stat. 597][/us/stat/78/597]; [Pub. L. 89–570, § 1(b)(3)][/us/pl/89/570/s1/b/3], Sept. 12, 1966, [80 Stat. 762][/us/stat/80/762]; [Pub. L. 91–172, title II, § 211(b)(3)][/us/pl/91/172/s211/b/3], title IV, § 442(a), title IX, § 905(b)(2), Dec. 30, 1969, [83 Stat. 570][/us/stat/83/570], 628, 714; [Pub. L. 94–455, title II, § 205(c)(1)(D)][/us/pl/94/455/s205/c/1/D], title XIX, §§ 1901(a)(43), (b)(32)(B)(i), 1906(b)(13)(A), Oct. 4, 1976, [90 Stat. 1535][/us/stat/90/1535], 1771, 1800, 1834; [Pub. L. 95–628, § 3(c)][/us/pl/95/628/s3/c], Nov. 10, 1978, [92 Stat. 3627][/us/stat/92/3627]; [Pub. L. 96–589, § 5(f)][/us/pl/96/589/s5/f], Dec. 24, 1980, [94 Stat. 3406][/us/stat/94/3406]; [Pub. L. 97–34, title II, § 206(a)][/us/pl/97/34/s206/a], (b), Aug. 13, 1981, [95 Stat. 224][/us/stat/95/224]; [Pub. L. 97–248, title II][/us/pl/97/248], §§ 205(a)(3), 222(e)(3), title III, § 310(b)(3), Sept. 3, 1982, [96 Stat. 429][/us/stat/96/429], 480, 597; [Pub. L. 97–448, title III, § 306(a)(6)(B)][/us/pl/97/448/s306/a/6/B], Jan. 12, 1983, [96 Stat. 2402][/us/stat/96/2402]; [Pub. L. 98–369, div. A, title I][/us/pl/98/369], §§ 61(a)–(c)(1), 63(b), 111(e)(5), July 18, 1984, [98 Stat. 579–581][/us/stat/98/579-581], 583, 633; [Pub. L. 99–121, title I, § 103(b)(1)(C)][/us/pl/99/121/s103/b/1/C], Oct. 11, 1985, [99 Stat. 509][/us/stat/99/509]; [Pub. L. 99–514, title II][/us/pl/99/514], §§ 201(b), (d)(6), 241(b)(1), title VI, § 631(e)(1), title VIII, § 803(b)(3), title XVIII, §§ 1804(f)(1)(A)–(E), 1809(a)(2)(C)(ii), Oct. 22, 1986, [100 Stat. 2137][/us/stat/100/2137], 2141, 2181, 2273, 2355, 2804, 2805, 2819; [Pub. L. 100–647, title I][/us/pl/100/647], §§ 1002(a)(3), 1018(d)(4), (u)(4), Nov. 10, 1988, [102 Stat. 3353][/us/stat/102/3353], 3578, 3590; [Pub. L. 101–239, title VII][/us/pl/101/239], §§ 7611(f)(5)(A), 7811(m)(2), Dec. 19, 1989, [103 Stat. 2373][/us/stat/103/2373], 2412; [Pub. L. 101–508, title XI][/us/pl/101/508], §§ 11812(b)(5), 11813(b)(14), Nov. 5, 1990, [104 Stat. 1388–535][/us/stat/104/1388-535], 1388–555; [Pub. L. 105–34, title XVI, § 1604(a)(2)][/us/pl/105/34/s1604/a/2], Aug. 5, 1997, [111 Stat. 1097][/us/stat/111/1097]; [Pub. L. 108–357, title III, § 338(b)(3)][/us/pl/108/357/s338/b/3], title IV, § 413(c)(4), (5), Oct. 22, 2004, [118 Stat. 1481][/us/stat/118/1481], 1507; [Pub. L. 109–58, title XIII][/us/pl/109/58], §§ 1323(b)(3), 1331(b)(5), Aug. 8, 2005, [119 Stat. 1015][/us/stat/119/1015], 1024; [Pub. L. 109–432, div. A, title IV, § 404(b)(2)][/us/pl/109/432/s404/b/2], Dec. 20, 2006, [120 Stat. 2956][/us/stat/120/2956].)
-
- __References in Text__ 
-
-    Section 115(h) of the Internal Revenue Code of 1939, referred to in subsec. (d)(2), was classified to section 115(h) of former Title 26, Internal Revenue Code. Section 115(h) was repealed by [section 7851(a)(1) of this title][/us/usc/t26/s7851/a/1]. For table of comparisons of the 1939 Code to the 1986 Code \[formerly I.R.C. 1954\], see Table I preceding [section 1 of this title][/us/usc/t26/s1]. See, also, [section 7851(e) of this title][/us/usc/t26/s7851/e] for provision that references in the 1986 Code to a provision of the 1939 Code, not then applicable, shall be deemed a reference to the corresponding provision of the 1986 Code, then applicable.
+([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 95][/us/stat/68A/95]; [Pub. L. 87–403, § 3(a)][/us/pl/87/403/s3/a], Feb. 2, 1962, [76 Stat. 6][/us/stat/76/6]; [Pub. L. 87–834][/us/pl/87/834], §§ 13(f)(3), 14(b)(1), Oct. 16, 1962, [76 Stat. 1035][/us/stat/76/1035], 1040; [Pub. L. 88–272, title II, § 231(b)(3)][/us/pl/88/272/s231/b/3], Feb. 26, 1964, [78 Stat. 105][/us/stat/78/105]; [Pub. L. 88–484, § 1(b)(1)][/us/pl/88/484/s1/b/1], Aug. 22, 1964, [78 Stat. 597][/us/stat/78/597]; [Pub. L. 89–570, § 1(b)(3)][/us/pl/89/570/s1/b/3], Sept. 12, 1966, [80 Stat. 762][/us/stat/80/762]; [Pub. L. 91–172, title II, § 211(b)(3)][/us/pl/91/172/s211/b/3], title IV, § 442(a), title IX, § 905(b)(2), Dec. 30, 1969, [83 Stat. 570][/us/stat/83/570], 628, 714; [Pub. L. 94–455, title II, § 205(c)(1)(D)][/us/pl/94/455/s205/c/1/D], title XIX, §§ 1901(a)(43), (b)(32)(B)(i), 1906(b)(13)(A), Oct. 4, 1976, [90 Stat. 1535][/us/stat/90/1535], 1771, 1800, 1834; [Pub. L. 95–628, § 3(c)][/us/pl/95/628/s3/c], Nov. 10, 1978, [92 Stat. 3627][/us/stat/92/3627]; [Pub. L. 96–589, § 5(f)][/us/pl/96/589/s5/f], Dec. 24, 1980, [94 Stat. 3406][/us/stat/94/3406]; [Pub. L. 97–34, title II, § 206(a)][/us/pl/97/34/s206/a], (b), Aug. 13, 1981, [95 Stat. 224][/us/stat/95/224]; [Pub. L. 97–248, title II][/us/pl/97/248], §§ 205(a)(3), 222(e)(3), title III, § 310(b)(3), Sept. 3, 1982, [96 Stat. 429][/us/stat/96/429], 480, 597; [Pub. L. 97–448, title III, § 306(a)(6)(B)][/us/pl/97/448/s306/a/6/B], Jan. 12, 1983, [96 Stat. 2402][/us/stat/96/2402]; [Pub. L. 98–369, div. A, title I][/us/pl/98/369], §§ 61(a)–(c)(1), 63(b), 111(e)(5), July 18, 1984, [98 Stat. 579–581][/us/stat/98/579-581], 583, 633; [Pub. L. 99–121, title I, § 103(b)(1)(C)][/us/pl/99/121/s103/b/1/C], Oct. 11, 1985, [99 Stat. 509][/us/stat/99/509]; [Pub. L. 99–514, title II][/us/pl/99/514], §§ 201(b), (d)(6), 241(b)(1), title VI, § 631(e)(1), title VIII, § 803(b)(3), title XVIII, §§ 1804(f)(1)(A)–(E), 1809(a)(2)(C)(ii), Oct. 22, 1986, [100 Stat. 2137][/us/stat/100/2137], 2141, 2181, 2273, 2355, 2804, 2805, 2819; [Pub. L. 100–647, title I][/us/pl/100/647], §§ 1002(a)(3), 1018(d)(4), (u)(4), Nov. 10, 1988, [102 Stat. 3353][/us/stat/102/3353], 3578, 3590; [Pub. L. 101–239, title VII][/us/pl/101/239], §§ 7611(f)(5)(A), 7811(m)(2), Dec. 19, 1989, [103 Stat. 2373][/us/stat/103/2373], 2412; [Pub. L. 101–508, title XI][/us/pl/101/508], §§ 11812(b)(5), 11813(b)(14), Nov. 5, 1990, [104 Stat. 1388–535][/us/stat/104/1388-535], 1388–555; [Pub. L. 105–34, title XVI, § 1604(a)(2)][/us/pl/105/34/s1604/a/2], Aug. 5, 1997, [111 Stat. 1097][/us/stat/111/1097]; [Pub. L. 108–357, title III, § 338(b)(3)][/us/pl/108/357/s338/b/3], title IV, § 413(c)(4), (5), Oct. 22, 2004, [118 Stat. 1481][/us/stat/118/1481], 1507; [Pub. L. 109–58, title XIII][/us/pl/109/58], §§ 1323(b)(3), 1331(b)(5), Aug. 8, 2005, [119 Stat. 1015][/us/stat/119/1015], 1024; [Pub. L. 109–432, div. A, title IV, § 404(b)(2)][/us/pl/109/432/s404/b/2], Dec. 20, 2006, [120 Stat. 2956][/us/stat/120/2956]; [Pub. L. 113–295, div. A, title II, § 221(a)(34)(F)][/us/pl/113/295/s221/a/34/F], (49), Dec. 19, 2014, [128 Stat. 4042][/us/stat/128/4042], 4045.)
 
  __Amendments__ 
+
+    2014—Subsec. (d)(2), (3). [Pub. L. 113–295, § 221(a)(49)][/us/pl/113/295/s221/a/49], redesignated par. (3) as (2) and struck out former par. (2) which read as follows: “In the case of a distribution of stock or securities, or property, to which section 115(h) of the Internal Revenue Code of 1939 (or the corresponding provision of prior law) applied, the effect on earnings and profits of such distribution shall be determined under such section 115(h), or the corresponding provision of prior law, as the case may be.”
+
+    Subsec. (k)(3)(B). [Pub. L. 113–295, § 221(a)(34)(F)][/us/pl/113/295/s221/a/34/F], struck out “179A,” after “section 179,” in heading and in two places in text.
 
     2006—Subsec. (k)(3)(B). [Pub. L. 109–432][/us/pl/109/432] substituted “179D, or 179E” for “or 179D” in heading and two places in text.
 
@@ -406,6 +402,10 @@
     Subsec. (k). [Pub. L. 87–403][/us/pl/87/403] added subsec. (k).
 
     Subsec. (l). [Pub. L. 87–834, § 14(b)(1)][/us/pl/87/834/s14/b/1], added subsec. (l).
+
+ __Effective Date of 2014 Amendment__ 
+
+    Amendment by [Pub. L. 113–295][/us/pl/113/295] effective Dec. 19, 2014, subject to a savings provision, see [section 221(b) of Pub. L. 113–295][/us/pl/113/295/s221/b], set out as a note under [section 1 of this title][/us/usc/t26/s1].
 
  __Effective Date of 2006 Amendment__ 
 
@@ -638,9 +638,10 @@
 [/us/stat/119/1015]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F1015
 [/us/pl/109/432/s404/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F432%2Fs404%2Fb%2F2
 [/us/stat/120/2956]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2956
-[/us/usc/t26/s7851/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs7851%2Fa%2F1
-[/us/usc/t26/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs1
-[/us/usc/t26/s7851/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs7851%2Fe
+[/us/pl/113/295/s221/a/34/F]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs221%2Fa%2F34%2FF
+[/us/stat/128/4042]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F4042
+[/us/pl/113/295/s221/a/49]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs221%2Fa%2F49
+[/us/pl/113/295/s221/a/34/F]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs221%2Fa%2F34%2FF
 [/us/pl/109/432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F432
 [/us/pl/109/58/s1331/b/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs1331%2Fb%2F5
 [/us/pl/109/58/s1323/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs1323%2Fb%2F3
@@ -703,6 +704,9 @@
 [/us/pl/87/834/s13/f/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F834%2Fs13%2Ff%2F3
 [/us/pl/87/403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F403
 [/us/pl/87/834/s14/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F834%2Fs14%2Fb%2F1
+[/us/pl/113/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295
+[/us/pl/113/295/s221/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs221%2Fb
+[/us/usc/t26/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs1
 [/us/pl/109/432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F432
 [/us/pl/109/432/s404/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F432%2Fs404%2Fc
 [/us/usc/t26/s179E]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs179E

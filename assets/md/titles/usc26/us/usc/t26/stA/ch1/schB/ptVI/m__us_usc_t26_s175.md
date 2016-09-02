@@ -57,11 +57,7 @@
 
         (1) __Without consent__ 
 
-        A taxpayer may, without the consent of the Secretary, adopt the method provided in this section for his first taxable year—
-
-            (A) which begins after December 31, 1953, and ends after August 16, 1954, and
-
-            (B) for which expenditures described in subsection (a) are paid or incurred.
+            A taxpayer may, without the consent of the Secretary, adopt the method provided in this section for the taxpayer’s first taxable year for which expenditures described in subsection (a) are paid or incurred.
 
         (2) __With consent__ 
 
@@ -85,7 +81,7 @@
 
             If paragraph (1) applies to an assessment and the taxpayer dies during the 9 succeeding taxable years, any amount of the excess described in paragraph (1) which has not been treated as paid or incurred for a taxable year ending before his death shall be treated as paid or incurred in the taxable year in which he dies.
 
-([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 67][/us/stat/68A/67]; [Pub. L. 90–630, § 5(a)][/us/pl/90/630/s5/a], (b), Oct. 22, 1968, [82 Stat. 1329][/us/stat/82/1329]; [Pub. L. 94–455, title XIX][/us/pl/94/455], §§ 1901(a)(30), 1906(b)(13)(A), Oct. 4, 1976, [90 Stat. 1769][/us/stat/90/1769], 1834; [Pub. L. 99–514, title IV, § 401(a)][/us/pl/99/514/s401/a], Oct. 22, 1986, [100 Stat. 2221][/us/stat/100/2221]; [Pub. L. 110–234, title XV, § 15303(a)(1)][/us/pl/110/234/s15303/a/1]–(2)(B), (b), May 22, 2008, [122 Stat. 1501][/us/stat/122/1501], 1502; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title XV, § 15303(a)(1)–(2)(B), (b), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 2263, 2264.)
+([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 67][/us/stat/68A/67]; [Pub. L. 90–630, § 5(a)][/us/pl/90/630/s5/a], (b), Oct. 22, 1968, [82 Stat. 1329][/us/stat/82/1329]; [Pub. L. 94–455, title XIX][/us/pl/94/455], §§ 1901(a)(30), 1906(b)(13)(A), Oct. 4, 1976, [90 Stat. 1769][/us/stat/90/1769], 1834; [Pub. L. 99–514, title IV, § 401(a)][/us/pl/99/514/s401/a], Oct. 22, 1986, [100 Stat. 2221][/us/stat/100/2221]; [Pub. L. 110–234, title XV, § 15303(a)(1)][/us/pl/110/234/s15303/a/1]–(2)(B), (b), May 22, 2008, [122 Stat. 1501][/us/stat/122/1501], 1502; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title XV, § 15303(a)(1)–(2)(B), (b), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 2263, 2264; [Pub. L. 113–295, div. A, title II, § 221(a)(33)][/us/pl/113/295/s221/a/33], Dec. 19, 2014, [128 Stat. 4042][/us/stat/128/4042].)
 
  __References in Text__ 
 
@@ -96,6 +92,12 @@
     [Pub. L. 110–234][/us/pl/110/234] and [Pub. L. 110–246][/us/pl/110/246] made identical amendments to this section. The amendments by [Pub. L. 110–234][/us/pl/110/234] were repealed by [section 4(a) of Pub. L. 110–246][/us/pl/110/246/s4/a].
 
  __Amendments__ 
+
+    2014—Subsec. (d)(1). [Pub. L. 113–295][/us/pl/113/295] amended par. (1) generally. Prior to amendment, text read as follows: “A taxpayer may, without the consent of the Secretary, adopt the method provided in this section for his first taxable year—
+
+    “(A) which begins after December 31, 1953, and ends after August 16, 1954, and
+
+    “(B) for which expenditures described in subsection (a) are paid or incurred.”
 
     2008—[Pub. L. 110–246, § 15303(a)(2)(B)][/us/pl/110/246/s15303/a/2/B], inserted “; endangered species recovery expenditures” after “conservation expenditures” in section catchline.
 
@@ -118,6 +120,10 @@
     1968—Subsec. (c)(1). [Pub. L. 90–630, § 5(a)][/us/pl/90/630/s5/a], in text following subpar. (B), designated as cl. (i) existing provisions covering amounts which, if paid or incurred by the taxpayer, would without regard to the exception constitute deductible expenditures, and added cl. (ii).
 
     Subsec. (f). [Pub. L. 90–630, § 5(b)][/us/pl/90/630/s5/b], added subsec. (f).
+
+ __Effective Date of 2014 Amendment__ 
+
+    Amendment by [Pub. L. 113–295][/us/pl/113/295] effective Dec. 19, 2014, subject to a savings provision, see [section 221(b) of Pub. L. 113–295][/us/pl/113/295/s221/b], set out as a note under [section 1 of this title][/us/usc/t26/s1].
 
  __Effective Date of 2008 Amendment__ 
 
@@ -164,6 +170,8 @@
 [/us/stat/122/1501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1501
 [/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
 [/us/stat/122/1664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1664
+[/us/pl/113/295/s221/a/33]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs221%2Fa%2F33
+[/us/stat/128/4042]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F4042
 [/us/pl/93/205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F205
 [/us/stat/87/884]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F884
 [/us/usc/t16/s1531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1531
@@ -171,6 +179,7 @@
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
+[/us/pl/113/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295
 [/us/pl/110/246/s15303/a/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs15303%2Fa%2F2%2FB
 [/us/pl/110/246/s15303/a/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs15303%2Fa%2F2%2FA
 [/us/pl/110/246/s15303/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs15303%2Fa%2F1
@@ -182,6 +191,9 @@
 [/us/pl/94/455/s1906/b/13/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1906%2Fb%2F13%2FA
 [/us/pl/90/630/s5/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F630%2Fs5%2Fa
 [/us/pl/90/630/s5/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F630%2Fs5%2Fb
+[/us/pl/113/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295
+[/us/pl/113/295/s221/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs221%2Fb
+[/us/usc/t26/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs1
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234

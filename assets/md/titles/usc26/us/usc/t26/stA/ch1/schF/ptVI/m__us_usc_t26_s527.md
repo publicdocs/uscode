@@ -215,7 +215,7 @@
 
             For purposes of this subsection, the term “principal campaign committee” means the political committee designated by a candidate for Congress as his principal campaign committee for purposes of—
 
-                (i) section 302(e) of the Federal Election Campaign Act of 1971 ([2 U.S.C. 432(e)][/us/usc/t2/s432/e]), <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  and
+                (i) section 302(e) of the Federal Election Campaign Act of 1971 ([52 U.S.C. 30102(e)][/us/usc/t52/s30102/e]), and
 
                 (ii) this subsection.
 
@@ -275,7 +275,7 @@
 
         (6) __Coordination with other requirements__ 
 
-            This subsection shall not apply to any person required (without regard to this subsection) to report under the Federal Election Campaign Act of 1971 ([2 U.S.C. 431][/us/usc/t2/s431] et seq.) 1 as a political committee.
+            This subsection shall not apply to any person required (without regard to this subsection) to report under the Federal Election Campaign Act of 1971 ([52 U.S.C. 30101][/us/usc/t52/s30101] et seq.) as a political committee.
 
     (j) __Required disclosure of expenditures and contributions__ 
 
@@ -327,7 +327,7 @@
 
         This subsection shall not apply—
 
-            (A) to any person required (without regard to this subsection) to report under the Federal Election Campaign Act of 1971 ([2 U.S.C. 431][/us/usc/t2/s431] et seq.) 1 as a political committee,
+            (A) to any person required (without regard to this subsection) to report under the Federal Election Campaign Act of 1971 ([52 U.S.C. 30101][/us/usc/t52/s30101] et seq.) as a political committee,
 
             (B) to any State or local committee of a political party or political committee of a State or local candidate,
 
@@ -391,15 +391,19 @@
 
         on a showing that such failure was due to reasonable cause and not due to willful neglect.
 
-(Added [Pub. L. 93–625, § 10(a)][/us/pl/93/625/s10/a], Jan. 3, 1975, [88 Stat. 2116][/us/stat/88/2116]; amended [Pub. L. 94–455, title XIX, § 1901(b)(33)(C)][/us/pl/94/455/s1901/b/33/C], Oct. 4, 1976, [90 Stat. 1801][/us/stat/90/1801]; [Pub. L. 95–502, title III, § 302(a)][/us/pl/95/502/s302/a], Oct. 21, 1978, [92 Stat. 1702][/us/stat/92/1702]; [Pub. L. 95–600, title III, § 301(b)(6)][/us/pl/95/600/s301/b/6], Nov. 6, 1978, [92 Stat. 2821][/us/stat/92/2821]; [Pub. L. 97–34, title I, § 128(a)][/us/pl/97/34/s128/a], Aug. 13, 1981, [95 Stat. 203][/us/stat/95/203]; [Pub. L. 98–369, div. A, title IV, § 474(r)(16)][/us/pl/98/369/s474/r/16], title VII, § 722(c), July 18, 1984, [98 Stat. 843][/us/stat/98/843], 973; [Pub. L. 99–514, title I, § 112(b)(1)][/us/pl/99/514/s112/b/1], Oct. 22, 1986, [100 Stat. 2108][/us/stat/100/2108]; [Pub. L. 100–647, title I, § 1001(b)(3)(B)][/us/pl/100/647/s1001/b/3/B], Nov. 10, 1988, [102 Stat. 3349][/us/stat/102/3349]; [Pub. L. 106–230][/us/pl/106/230], §§ 1(a), 2(a), July 1, 2000, [114 Stat. 477][/us/stat/114/477], 479; [Pub. L. 107–276][/us/pl/107/276], §§ 1(a), 2(a), (b), 5(a), 6(a)–(c), (e)–(g), Nov. 2, 2002, [116 Stat. 1929][/us/stat/116/1929], 1932–1934.)
+(Added [Pub. L. 93–625, § 10(a)][/us/pl/93/625/s10/a], Jan. 3, 1975, [88 Stat. 2116][/us/stat/88/2116]; amended [Pub. L. 94–455, title XIX, § 1901(b)(33)(C)][/us/pl/94/455/s1901/b/33/C], Oct. 4, 1976, [90 Stat. 1801][/us/stat/90/1801]; [Pub. L. 95–502, title III, § 302(a)][/us/pl/95/502/s302/a], Oct. 21, 1978, [92 Stat. 1702][/us/stat/92/1702]; [Pub. L. 95–600, title III, § 301(b)(6)][/us/pl/95/600/s301/b/6], Nov. 6, 1978, [92 Stat. 2821][/us/stat/92/2821]; [Pub. L. 97–34, title I, § 128(a)][/us/pl/97/34/s128/a], Aug. 13, 1981, [95 Stat. 203][/us/stat/95/203]; [Pub. L. 98–369, div. A, title IV, § 474(r)(16)][/us/pl/98/369/s474/r/16], title VII, § 722(c), July 18, 1984, [98 Stat. 843][/us/stat/98/843], 973; [Pub. L. 99–514, title I, § 112(b)(1)][/us/pl/99/514/s112/b/1], Oct. 22, 1986, [100 Stat. 2108][/us/stat/100/2108]; [Pub. L. 100–647, title I, § 1001(b)(3)(B)][/us/pl/100/647/s1001/b/3/B], Nov. 10, 1988, [102 Stat. 3349][/us/stat/102/3349]; [Pub. L. 106–230][/us/pl/106/230], §§ 1(a), 2(a), July 1, 2000, [114 Stat. 477][/us/stat/114/477], 479; [Pub. L. 107–276][/us/pl/107/276], §§ 1(a), 2(a), (b), 5(a), 6(a)–(c), (e)–(g), Nov. 2, 2002, [116 Stat. 1929][/us/stat/116/1929], 1932–1934; [Pub. L. 113–295, div. A, title II, § 220][/us/pl/113/295/s220](l), Dec. 19, 2014, [128 Stat. 4036][/us/stat/128/4036].)
 
  __References in Text__ 
 
     [Section 610 of title 18][/us/usc/t18/s610], referred to in subsec. (f)(3), was repealed by [Pub. L. 94–283, title II, § 201(a)][/us/pl/94/283/s201/a], May 11, 1976, [90 Stat. 496][/us/stat/90/496].
 
-    The Federal Election Campaign Act of 1971, referred to in subsecs. (h)(2)(A)(i), (i)(6), and (j)(5)(A), is [Pub. L. 92–225][/us/pl/92/225], Feb. 7, 1972, [86 Stat. 3][/us/stat/86/3], which was formerly classified principally to chapter 14 (§ 431 et seq.) of Title 2, The Congress, prior to editorial reclassification and renumbering in Title 52, Voting and Elections, and is now classified principally to chapter 301 (§ 30101 et seq.) of Title 52. Sections 301 and 302 of the Act are now classified to sections 30101 and 30102 of Title 52, respectively. For complete classification of this Act to the Code, see Tables.
+    The Federal Election Campaign Act of 1971, referred to in subsecs. (i)(6) and (j)(5)(A), is [Pub. L. 92–225][/us/pl/92/225], Feb. 7, 1972, [86 Stat. 3][/us/stat/86/3], which is classified principally to chapter 301 (§ 30101 et seq.) of Title 52, Voting and Elections. Section 301 of the Act is classified to [section 30101 of Title 52][/us/usc/t52/s30101]. For complete classification of this Act to the Code, see Tables.
 
  __Amendments__ 
+
+    2014—Subsec. (h)(2)(A)(i). [Pub. L. 113–295, § 220][/us/pl/113/295/s220](l)(1), substituted “([52 U.S.C. 30102(e)][/us/usc/t52/s30102/e])” for “([2 U.S.C. 432(e)][/us/usc/t2/s432/e])”.
+
+    Subsecs. (i)(6), (j)(5)(A). [Pub. L. 113–295, § 220][/us/pl/113/295/s220](l)(2), substituted “([52 U.S.C. 30101][/us/usc/t52/s30101] et seq.)” for “([2 U.S.C. 431][/us/usc/t2/s431] et seq.)”
 
     2002—Subsec. (e)(5). [Pub. L. 107–276, § 2(b)][/us/pl/107/276/s2/b], added par. (5).
 
@@ -589,9 +593,9 @@
 ----------
 
 [/us/usc/t18/s610]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs610
-[/us/usc/t2/s432/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs432%2Fe
-[/us/usc/t2/s431]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs431
-[/us/usc/t2/s431]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs431
+[/us/usc/t52/s30102/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft52%2Fs30102%2Fe
+[/us/usc/t52/s30101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft52%2Fs30101
+[/us/usc/t52/s30101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft52%2Fs30101
 [/us/pl/93/625/s10/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F625%2Fs10%2Fa
 [/us/stat/88/2116]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F2116
 [/us/pl/94/455/s1901/b/33/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1901%2Fb%2F33%2FC
@@ -612,11 +616,20 @@
 [/us/stat/114/477]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F477
 [/us/pl/107/276]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F276
 [/us/stat/116/1929]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1929
+[/us/pl/113/295/s220]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs220
+[/us/stat/128/4036]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F4036
 [/us/usc/t18/s610]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs610
 [/us/pl/94/283/s201/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F283%2Fs201%2Fa
 [/us/stat/90/496]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F496
 [/us/pl/92/225]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F225
 [/us/stat/86/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F3
+[/us/usc/t52/s30101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft52%2Fs30101
+[/us/pl/113/295/s220]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs220
+[/us/usc/t52/s30102/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft52%2Fs30102%2Fe
+[/us/usc/t2/s432/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs432%2Fe
+[/us/pl/113/295/s220]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs220
+[/us/usc/t52/s30101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft52%2Fs30101
+[/us/usc/t2/s431]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs431
 [/us/pl/107/276/s2/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F276%2Fs2%2Fb
 [/us/pl/107/276/s6/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F276%2Fs6%2Fc
 [/us/pl/107/276/s6/g/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F276%2Fs6%2Fg%2F1

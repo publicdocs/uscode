@@ -49,7 +49,7 @@
 
  __Effective Date__ 
 
-    Section applicable to estates of decedents dying, and generation-skipping transfers, after Dec. 31, 2004, see [section 532(d) of Pub. L. 107–16][/us/pl/107/16/s532/d], set out as an Effective Date of 2001 Amendment note under [section 2011 of this title][/us/usc/t26/s2011].
+    Section applicable to estates of decedents dying, and generation-skipping transfers, after Dec. 31, 2004, see [section 532(d) of Pub. L. 107–16][/us/pl/107/16/s532/d], set out as an Effective Date of 2001 Amendment note under [section 2012 of this title][/us/usc/t26/s2012].
 
 ----------
 
@@ -61,6 +61,6 @@
 [/us/pl/107/16/s532/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F16%2Fs532%2Fb
 [/us/stat/115/73]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F73
 [/us/pl/107/16/s532/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F16%2Fs532%2Fd
-[/us/usc/t26/s2011]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs2011
+[/us/usc/t26/s2012]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs2012
 
 

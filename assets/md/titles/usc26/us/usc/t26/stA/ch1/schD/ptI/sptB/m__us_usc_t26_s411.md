@@ -931,11 +931,11 @@
 
     Section 4281 of the Employee Retirement Income Security Act of 1974, referred to in subsecs. (a)(3)(F)(i), (ii) and (d)(6)(A), is classified to [section 1441 of Title 29][/us/usc/t29/s1441], Labor.
 
-    Section 4203 of the Employee Retirement Income Security Act of 1974, referred to in subsec. (a)(4)(G)(i)(I), is classified to [section 1383 of Title 29][/us/usc/t29/s1383].
+    Section 4203 of the Employee Retirement Income Security Act of 1974, referred to in subsec. (a)(4)(G)(i)(I), is classified to [section 1383 of Title 29][/us/usc/t29/s1383], Labor.
 
-    Section 4205(b)(2)(A)(i) of such Act, referred to in subsec. (a)(4)(G)(i)(II), is classified to [section 1385(b)(2)(A)(i) of Title 29][/us/usc/t29/s1385/b/2/A/i].
+    Section 4205(b)(2)(A)(i) of such Act, referred to in subsec. (a)(4)(G)(i)(II), is classified to [section 1385(b)(2)(A)(i) of Title 29][/us/usc/t29/s1385/b/2/A/i], Labor.
 
-    Section 4048 of such Act, referred to in subsec. (a)(4)(G)(ii), is classified to [section 1348 of Title 29][/us/usc/t29/s1348].
+    Section 4048 of such Act, referred to in subsec. (a)(4)(G)(ii), is classified to [section 1348 of Title 29][/us/usc/t29/s1348], Labor.
 
     The Social Security Act, referred to in subsecs. (a)(9) and (b)(1)(G), is [act Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], [49 Stat. 620][/us/stat/49/620], as amended. Title II of the Social Security Act is classified generally to subchapter II (§ 401 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see [section 1305 of Title 42][/us/usc/t42/s1305] and Tables.
 

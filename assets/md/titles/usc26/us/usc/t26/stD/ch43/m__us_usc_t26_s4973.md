@@ -25,9 +25,11 @@
 
         (3) an individual retirement annuity (within the meaning of section 408(b)), a custodial account treated as an annuity contract under section 403(b)(7)(A) (relating to custodial accounts for regulated investment company stock),
 
-        (4) a Coverdell education savings account (as defined in section 530), or
+        (4) a Coverdell education savings account (as defined in section 530),
 
-        (5) a health savings account (within the meaning of section 223(d)),
+        (5) a health savings account (within the meaning of section 223(d)), or
+
+        (6) an ABLE account (within the meaning of section 529A),
 
         there is imposed for each taxable year a tax in an amount equal to 6 percent of the amount of the excess contributions to such individual’s accounts or annuities (determined as of the close of the taxable year). The amount of such tax for any taxable year shall not exceed 6 percent of the value of the account or annuity (determined as of the close of the taxable year). In the case of an endowment contract described in section 408(b), the tax imposed by this section does not apply to any amount allocable to life, health, accident, or other insurance under such contract. The tax imposed by this subsection shall be paid by such individual.
 
@@ -161,9 +163,25 @@
 
         For purposes of this subsection, any contribution which is distributed out of the health savings account in a distribution to which section 223(f)(3) applies shall be treated as an amount not contributed.
 
-(Added [Pub. L. 93–406, title II, § 2002(d)][/us/pl/93/406/s2002/d], Sept. 2, 1974, [88 Stat. 966][/us/stat/88/966]; amended [Pub. L. 94–455, title XV, § 1501(b)(8)][/us/pl/94/455/s1501/b/8], title XIX, § 1904(a)(22), Oct. 4, 1976, [90 Stat. 1736][/us/stat/90/1736], 1814; [Pub. L. 95–600, title I][/us/pl/95/600], §§ 156(c)(3), (5), 157(b)(3), (j)(1), title VII, § 701(aa)(1), Nov. 6, 1978, [92 Stat. 2803][/us/stat/92/2803], 2804, 2809, 2921; [Pub. L. 96–222, title I, § 101(a)(13)(C)][/us/pl/96/222/s101/a/13/C], (14)(B), Apr. 1, 1980, [94 Stat. 204][/us/stat/94/204]; [Pub. L. 97–34, title III][/us/pl/97/34], §§ 311(h)(7), (9), (10), 313(b)(2), Aug. 13, 1981, [95 Stat. 282][/us/stat/95/282], 286; [Pub. L. 98–369, div. A, title IV, § 491(d)(41)][/us/pl/98/369/s491/d/41]–(44), (55), July 18, 1984, [98 Stat. 851][/us/stat/98/851], 852; [Pub. L. 99–514, title XI, § 1102(b)(1)][/us/pl/99/514/s1102/b/1], title XVIII, § 1848(f), Oct. 22, 1986, [100 Stat. 2415][/us/stat/100/2415], 2858; [Pub. L. 100–647, title I, § 1011(b)(3)][/us/pl/100/647/s1011/b/3], Nov. 10, 1988, [102 Stat. 3456][/us/stat/102/3456]; [Pub. L. 102–318, title V, § 521(b)(41)][/us/pl/102/318/s521/b/41], July 3, 1992, [106 Stat. 313][/us/stat/106/313]; [Pub. L. 104–188, title I, § 1704(t)(70)][/us/pl/104/188/s1704/t/70], (72), Aug. 20, 1996, [110 Stat. 1891][/us/stat/110/1891]; [Pub. L. 104–191, title III, § 301(e)][/us/pl/104/191/s301/e], Aug. 21, 1996, [110 Stat. 2051][/us/stat/110/2051]; [Pub. L. 105–33, title IV, § 4006(b)(1)][/us/pl/105/33/s4006/b/1], Aug. 5, 1997, [111 Stat. 333][/us/stat/111/333]; [Pub. L. 105–34, title II, § 213(d)][/us/pl/105/34/s213/d], title III, § 302(b), Aug. 5, 1997, [111 Stat. 817][/us/stat/111/817], 828; [Pub. L. 105–206, title VI][/us/pl/105/206], §§ 6004(d)(10), 6005(b)(8), 6023(18)(A), July 22, 1998, [112 Stat. 795][/us/stat/112/795], 799, 825; [Pub. L. 106–554, § 1(a)(7)][/us/pl/106/554/s1/a/7] \[title II, § 202(a)(6), (b)(2)(C), (6), (10)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–628, 2763A–629; [Pub. L. 107–16, title IV][/us/pl/107/16], §§ 401(a)(2), (g)(2)(D), 402(a)(4)(A), title VI, § 641(e)(11), June 7, 2001, [115 Stat. 57][/us/stat/115/57], 60, 121; [Pub. L. 107–22, § 1(b)(1)(C)][/us/pl/107/22/s1/b/1/C], (2)(B), (4), July 26, 2001, [115 Stat. 197][/us/stat/115/197]; [Pub. L. 108–173, title XII, § 1201(e)][/us/pl/108/173/s1201/e], Dec. 8, 2003, [117 Stat. 2478][/us/stat/117/2478]; [Pub. L. 108–311, title IV, § 408(a)(22)][/us/pl/108/311/s408/a/22], Oct. 4, 2004, [118 Stat. 1192][/us/stat/118/1192].)
+    (h) __Excess contributions to ABLE account__ 
+
+    For purposes of this section—
+
+        (1) __In general__ 
+
+            In the case of an ABLE account (within the meaning of section 529A), the term “excess contributions” means the amount by which the amount contributed for the taxable year to such account (other than contributions under section 529A(c)(1)(C)) exceeds the contribution limit under section 529A(b)(2)(B).
+
+        (2) __Special rule__ 
+
+            For purposes of this subsection, any contribution which is distributed out of the ABLE account in a distribution to which the last sentence of section 529A(b)(2) applies shall be treated as an amount not contributed.
+
+(Added [Pub. L. 93–406, title II, § 2002(d)][/us/pl/93/406/s2002/d], Sept. 2, 1974, [88 Stat. 966][/us/stat/88/966]; amended [Pub. L. 94–455, title XV, § 1501(b)(8)][/us/pl/94/455/s1501/b/8], title XIX, § 1904(a)(22), Oct. 4, 1976, [90 Stat. 1736][/us/stat/90/1736], 1814; [Pub. L. 95–600, title I][/us/pl/95/600], §§ 156(c)(3), (5), 157(b)(3), (j)(1), title VII, § 701(aa)(1), Nov. 6, 1978, [92 Stat. 2803][/us/stat/92/2803], 2804, 2809, 2921; [Pub. L. 96–222, title I, § 101(a)(13)(C)][/us/pl/96/222/s101/a/13/C], (14)(B), Apr. 1, 1980, [94 Stat. 204][/us/stat/94/204]; [Pub. L. 97–34, title III][/us/pl/97/34], §§ 311(h)(7), (9), (10), 313(b)(2), Aug. 13, 1981, [95 Stat. 282][/us/stat/95/282], 286; [Pub. L. 98–369, div. A, title IV, § 491(d)(41)][/us/pl/98/369/s491/d/41]–(44), (55), July 18, 1984, [98 Stat. 851][/us/stat/98/851], 852; [Pub. L. 99–514, title XI, § 1102(b)(1)][/us/pl/99/514/s1102/b/1], title XVIII, § 1848(f), Oct. 22, 1986, [100 Stat. 2415][/us/stat/100/2415], 2858; [Pub. L. 100–647, title I, § 1011(b)(3)][/us/pl/100/647/s1011/b/3], Nov. 10, 1988, [102 Stat. 3456][/us/stat/102/3456]; [Pub. L. 102–318, title V, § 521(b)(41)][/us/pl/102/318/s521/b/41], July 3, 1992, [106 Stat. 313][/us/stat/106/313]; [Pub. L. 104–188, title I, § 1704(t)(70)][/us/pl/104/188/s1704/t/70], (72), Aug. 20, 1996, [110 Stat. 1891][/us/stat/110/1891]; [Pub. L. 104–191, title III, § 301(e)][/us/pl/104/191/s301/e], Aug. 21, 1996, [110 Stat. 2051][/us/stat/110/2051]; [Pub. L. 105–33, title IV, § 4006(b)(1)][/us/pl/105/33/s4006/b/1], Aug. 5, 1997, [111 Stat. 333][/us/stat/111/333]; [Pub. L. 105–34, title II, § 213(d)][/us/pl/105/34/s213/d], title III, § 302(b), Aug. 5, 1997, [111 Stat. 817][/us/stat/111/817], 828; [Pub. L. 105–206, title VI][/us/pl/105/206], §§ 6004(d)(10), 6005(b)(8), 6023(18)(A), July 22, 1998, [112 Stat. 795][/us/stat/112/795], 799, 825; [Pub. L. 106–554, § 1(a)(7)][/us/pl/106/554/s1/a/7] \[title II, § 202(a)(6), (b)(2)(C), (6), (10)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–628, 2763A–629; [Pub. L. 107–16, title IV][/us/pl/107/16], §§ 401(a)(2), (g)(2)(D), 402(a)(4)(A), title VI, § 641(e)(11), June 7, 2001, [115 Stat. 57][/us/stat/115/57], 60, 121; [Pub. L. 107–22, § 1(b)(1)(C)][/us/pl/107/22/s1/b/1/C], (2)(B), (4), July 26, 2001, [115 Stat. 197][/us/stat/115/197]; [Pub. L. 108–173, title XII, § 1201(e)][/us/pl/108/173/s1201/e], Dec. 8, 2003, [117 Stat. 2478][/us/stat/117/2478]; [Pub. L. 108–311, title IV, § 408(a)(22)][/us/pl/108/311/s408/a/22], Oct. 4, 2004, [118 Stat. 1192][/us/stat/118/1192]; [Pub. L. 113–295, div. B, title I, § 102(b)][/us/pl/113/295/s102/b], Dec. 19, 2014, [128 Stat. 4061][/us/stat/128/4061].)
 
  __Amendments__ 
+
+    2014—Subsec. (a)(6). [Pub. L. 113–295, § 102(b)(1)][/us/pl/113/295/s102/b/1], added par. (6).
+
+    Subsec. (h). [Pub. L. 113–295, § 102(b)(2)][/us/pl/113/295/s102/b/2], added subsec. (h).
 
     2004—Subsec. (c). [Pub. L. 108–311][/us/pl/108/311] substituted “subsection (a)(3)” for “subsection (a)(2)” in introductory provisions.
 
@@ -276,6 +294,10 @@
     Subsec. (b)(2). [Pub. L. 94–455, § 1501(b)(8)(C)][/us/pl/94/455/s1501/b/8/C], inserted “or 220” after “under section 219” and “the taxable year and” before “all prior taxable years” and struck out provisions relating to the treatment of contributions out of individual retirement accounts, annuities or bonds to which section 408(d)(4) applied.
 
     Subsec. (c). [Pub. L. 94–455, § 1904(a)(22)(B)][/us/pl/94/455/s1904/a/22/B], substituted “subsection (a)(2)” for “subsection (a)(3)” in provisions preceding par. (1).
+
+ __Effective Date of 2014 Amendment__ 
+
+    Amendment by [Pub. L. 113–295][/us/pl/113/295] applicable to taxable years beginning after Dec. 31, 2014, see [section 102(f)(1) of Pub. L. 113–295][/us/pl/113/295/s102/f/1], set out as a note under [section 552a of Title 5][/us/usc/t5/s552a], Government Organization and Employees.
 
  __Effective Date of 2003 Amendment__ 
 
@@ -420,6 +442,10 @@
 [/us/stat/117/2478]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2478
 [/us/pl/108/311/s408/a/22]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F311%2Fs408%2Fa%2F22
 [/us/stat/118/1192]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1192
+[/us/pl/113/295/s102/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs102%2Fb
+[/us/stat/128/4061]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F4061
+[/us/pl/113/295/s102/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs102%2Fb%2F1
+[/us/pl/113/295/s102/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs102%2Fb%2F2
 [/us/pl/108/311]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F311
 [/us/pl/108/173/s1201/e/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F173%2Fs1201%2Fe%2F1
 [/us/pl/108/173/s1201/e/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F173%2Fs1201%2Fe%2F2
@@ -478,6 +504,9 @@
 [/us/pl/94/455/s1501/b/8/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1501%2Fb%2F8%2FB
 [/us/pl/94/455/s1501/b/8/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1501%2Fb%2F8%2FC
 [/us/pl/94/455/s1904/a/22/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1904%2Fa%2F22%2FB
+[/us/pl/113/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295
+[/us/pl/113/295/s102/f/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs102%2Ff%2F1
+[/us/usc/t5/s552a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs552a
 [/us/pl/108/173]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F173
 [/us/pl/108/173/s1201/k]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F173%2Fs1201%2Fk
 [/us/usc/t26/s62]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs62

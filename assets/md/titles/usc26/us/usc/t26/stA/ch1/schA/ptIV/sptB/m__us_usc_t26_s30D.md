@@ -109,15 +109,15 @@
 
         (1) __Basis reduction__ 
 
-            For purposes of this subtitle, the basis of any property for which a credit is allowable under subsection (a) shall be reduced by the amount of such credit so allowed.
+            For purposes of this subtitle, the basis of any property for which a credit is allowable under subsection (a) shall be reduced by the amount of such credit so allowed (determined without regard to subsection (c)).
 
         (2) __No double benefit__ 
 
-            The amount of any deduction or other credit allowable under this chapter for a vehicle for which a credit is allowable under subsection (a) shall be reduced by the amount of credit allowed under such subsection for such vehicle.
+            The amount of any deduction or other credit allowable under this chapter for a vehicle for which a credit is allowable under subsection (a) shall be reduced by the amount of credit allowed under such subsection for such vehicle (determined without regard to subsection (c)).
 
         (3) __Property used by tax-exempt entity__ 
 
-            In the case of a vehicle the use of which is described in paragraph (3) or (4) of section 50(b) and which is not subject to a lease, the person who sold such vehicle to the person or entity using such vehicle shall be treated as the taxpayer that placed such vehicle in service, but only if such person clearly discloses to such person or entity in a document the amount of any credit allowable under subsection (a) with respect to such vehicle (determined without regard to subsection (c)).
+            In the case of a vehicle the use of which is described in paragraph (3) or (4) of section 50(b) and which is not subject to a lease, the person who sold such vehicle to the person or entity using such vehicle shall be treated as the taxpayer that placed such vehicle in service, but only if such person clearly discloses to such person or entity in a document the amount of any credit allowable under subsection (a) with respect to such vehicle (determined without regard to subsection (c)). For purposes of subsection (c), property to which this paragraph applies shall be treated as of a character subject to an allowance for depreciation.
 
         (4) __Property used outside United States not qualified__ 
 
@@ -171,13 +171,17 @@
 
             (E) is acquired after December 31, 2011, and before January 1, 2014.
 
-(Added [Pub. L. 110–343, div. B, title II, § 205(a)][/us/pl/110/343/s205/a], Oct. 3, 2008, [122 Stat. 3835][/us/stat/122/3835]; amended [Pub. L. 111–5, div. B, title I, § 1141(a)][/us/pl/111/5/s1141/a], Feb. 17, 2009, [123 Stat. 326][/us/stat/123/326]; [Pub. L. 111–148, title X, § 10909(b)(2)(H)][/us/pl/111/148/s10909/b/2/H], (c), Mar. 23, 2010, [124 Stat. 1023][/us/stat/124/1023]; [Pub. L. 111–312, title I, § 101(b)(1)][/us/pl/111/312/s101/b/1], Dec. 17, 2010, [124 Stat. 3298][/us/stat/124/3298]; [Pub. L. 112–240, title I, § 104(c)(2)(I)][/us/pl/112/240/s104/c/2/I], title IV, § 403(a), (b), Jan. 2, 2013, [126 Stat. 2322][/us/stat/126/2322], 2337, 2338.)
+(Added [Pub. L. 110–343, div. B, title II, § 205(a)][/us/pl/110/343/s205/a], Oct. 3, 2008, [122 Stat. 3835][/us/stat/122/3835]; amended [Pub. L. 111–5, div. B, title I, § 1141(a)][/us/pl/111/5/s1141/a], Feb. 17, 2009, [123 Stat. 326][/us/stat/123/326]; [Pub. L. 111–148, title X, § 10909(b)(2)(H)][/us/pl/111/148/s10909/b/2/H], (c), Mar. 23, 2010, [124 Stat. 1023][/us/stat/124/1023]; [Pub. L. 111–312, title I, § 101(b)(1)][/us/pl/111/312/s101/b/1], Dec. 17, 2010, [124 Stat. 3298][/us/stat/124/3298]; [Pub. L. 112–240, title I, § 104(c)(2)(I)][/us/pl/112/240/s104/c/2/I], title IV, § 403(a), (b), Jan. 2, 2013, [126 Stat. 2322][/us/stat/126/2322], 2337, 2338; [Pub. L. 113–295, div. A, title II, § 209(e)][/us/pl/113/295/s209/e], Dec. 19, 2014, [128 Stat. 4028][/us/stat/128/4028].)
 
  __References in Text__ 
 
     The Clean Air Act, referred to in subsecs. (d)(1)(D), (3), (f)(7)(A), is [act July 14, 1955, ch. 360][/us/act/1955-07-14/ch360], [69 Stat. 322][/us/stat/69/322], which is classified generally to chapter 85 (§ 7401 et seq.) of Title 42, The Public Health and Welfare. Title II of the Act, known as the National Emissions Standards Act, is classified generally to subchapter II (§ 7521 et seq.) of chapter 85 of Title 42. Section 209(b) of the Act is classified to [section 7543(b) of Title 42][/us/usc/t42/s7543/b]. For complete classification of this Act to the Code, see Short Title note set out under [section 7401 of Title 42][/us/usc/t42/s7401] and Tables.
 
  __Amendments__ 
+
+    2014—Subsec. (f)(1), (2). [Pub. L. 113–295, § 209(e)(1)(A)][/us/pl/113/295/s209/e/1/A], (B), inserted “(determined without regard to subsection (c))” before period at end.
+
+    Subsec. (f)(3). [Pub. L. 113–295, § 209(e)(2)][/us/pl/113/295/s209/e/2], inserted at end “For purposes of subsection (c), property to which this paragraph applies shall be treated as of a character subject to an allowance for depreciation.”
 
     2013—Subsec. (c)(2). [Pub. L. 112–240, § 104(c)(2)(I)][/us/pl/112/240/s104/c/2/I], amended par. (2) generally. Prior to amendment, par. (2) related to personal credit with a limitation based on amount of tax.
 
@@ -190,6 +194,10 @@
     2010—Subsec. (c)(2)(B)(ii). [Pub. L. 111–148, § 10909(b)(2)(H)][/us/pl/111/148/s10909/b/2/H], (c), as amended by [Pub. L. 111–312][/us/pl/111/312], temporarily substituted “section 25D” for “sections 23 and 25D”. See Effective and Termination Dates of 2010 Amendment note below.
 
     2009—[Pub. L. 111–5][/us/pl/111/5] amended section generally. Prior to amendment, section provided credit with respect to each new qualified plug-in electric drive motor vehicle placed in service and set forth provisions defining “applicable amount” and “new qualified plug-in electric drive motor vehicle” and stating limitations based on vehicle weight, the number of vehicles eligible for credit, and amount of tax liability.
+
+ __Effective Date of 2014 Amendment__ 
+
+    Amendment by [Pub. L. 113–295][/us/pl/113/295] effective as if included in the provisions of the American Recovery and Reinvestment Tax Act of 2009, [Pub. L. 111–5, div. B, title I][/us/pl/111/5], to which such amendment relates, see [section 209(k) of Pub. L. 113–295][/us/pl/113/295/s209/k], set out as a note under [section 24 of this title][/us/usc/t26/s24].
 
  __Effective Date of 2013 Amendment__ 
 
@@ -231,10 +239,14 @@
 [/us/stat/124/3298]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3298
 [/us/pl/112/240/s104/c/2/I]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F240%2Fs104%2Fc%2F2%2FI
 [/us/stat/126/2322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F2322
+[/us/pl/113/295/s209/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs209%2Fe
+[/us/stat/128/4028]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F4028
 [/us/act/1955-07-14/ch360]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1955-07-14%2Fch360
 [/us/stat/69/322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F69%2F322
 [/us/usc/t42/s7543/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7543%2Fb
 [/us/usc/t42/s7401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7401
+[/us/pl/113/295/s209/e/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs209%2Fe%2F1%2FA
+[/us/pl/113/295/s209/e/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs209%2Fe%2F2
 [/us/pl/112/240/s104/c/2/I]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F240%2Fs104%2Fc%2F2%2FI
 [/us/pl/112/240/s403/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F240%2Fs403%2Fb%2F1
 [/us/pl/112/240/s403/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F240%2Fs403%2Fb%2F2
@@ -242,6 +254,10 @@
 [/us/pl/111/148/s10909/b/2/H]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs10909%2Fb%2F2%2FH
 [/us/pl/111/312]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F312
 [/us/pl/111/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5
+[/us/pl/113/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295
+[/us/pl/111/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5
+[/us/pl/113/295/s209/k]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs209%2Fk
+[/us/usc/t26/s24]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs24
 [/us/pl/112/240/s104/c/2/I]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F240%2Fs104%2Fc%2F2%2FI
 [/us/pl/112/240/s104/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F240%2Fs104%2Fd
 [/us/usc/t26/s23]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs23

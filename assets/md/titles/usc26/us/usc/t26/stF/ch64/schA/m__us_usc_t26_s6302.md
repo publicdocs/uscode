@@ -41,13 +41,7 @@
 
             (A) __Amounts considered collected__ 
 
-            In the case of a person required to make deposits of the tax imposed by—
-
-                (i) section 4251, or
-
-                (ii) effective on January 1, 1997, section 4261 or 4271,
-
-                with respect to amounts considered collected by such person during any semimonthly period, the amount of such tax included in bills rendered or tickets sold during the period beginning on September 1 and ending on September 11 shall be deposited not later than September 29.
+                In the case of a person required to make deposits of the tax imposed by sections 4251, 4261, or 4271 with respect to amounts considered collected by such person during any semimonthly period, the amount of such tax included in bills rendered or tickets sold during the period beginning on September 1 and ending on September 11 shall be deposited not later than September 29.
 
             (B) __Special rule where September 29 is on Saturday or Sunday__ 
 
@@ -65,7 +59,7 @@
 
         (1) __General rule__ 
 
-            Except as otherwise provided in this subsection and subsection (e), if any person is required under regulations to make deposits of taxes under subtitle D with respect to semimonthly periods, such person shall make deposits of such taxes for the period beginning on September 16 and ending on September 26 not later than September 29. In the case of taxes imposed by sections 4261 and 4271, this paragraph shall not apply to periods before January 1, 1997.
+            Except as otherwise provided in this subsection and subsection (e), if any person is required under regulations to make deposits of taxes under subtitle D with respect to semimonthly periods, such person shall make deposits of such taxes for the period beginning on September 16 and ending on September 26 not later than September 29.
 
         (2) __Taxes on ozone depleting chemicals__ 
 
@@ -105,55 +99,7 @@
 
                 The regulations prescribed under subparagraph (A) may contain such exemptions as the Secretary may deem appropriate.
 
-        (2) __Phase-in requirements__ 
-
-            (A) __In general__ 
-
-            Except as provided in subparagraph (B), the regulations referred to in paragraph (1)—
-
-                (i) shall contain appropriate procedures to assure that an orderly conversion from the Federal tax deposit system to the electronic fund transfer system is accomplished, and
-
-                (ii) may provide for a phase-in of such electronic fund transfer system by classes of taxpayers based on the aggregate undeposited taxes of such taxpayers at the close of specified periods and any other factors the Secretary may deem appropriate.
-
-            (B) __Phase-in requirements__ 
-
-            The phase-in of the electronic fund transfer system shall be designed in such manner as may be necessary to ensure that—
-
-                (i) during each fiscal year beginning after September 30, 1993, at least the applicable required percentage of the total depository taxes imposed by chapters 21, 22, and 24 shall be collected by means of electronic fund transfer, and
-
-                (ii) during each fiscal year beginning after September 30, 1993, at least the applicable required percentage of the total other depository taxes shall be collected by means of electronic fund transfer.
-
-            (C) __Applicable required percentage__ 
-
-                (i)
-
-                 In the case of the depository taxes imposed by chapters 21, 22, and 24, the applicable required percentage is—
-
-                    (I) 3 percent for fiscal year 1994,
-
-                    (II) 16.9 percent for fiscal year 1995,
-
-                    (III) 20.1 percent for fiscal year 1996,
-
-                    (IV) 58.3 percent for fiscal years 1997 and 1998, and
-
-                    (V) 94 percent for fiscal year 1999 and all fiscal years thereafter.
-
-                (ii)
-
-                 In the case of other depository taxes, the applicable required percentage is—
-
-                    (I) 3 percent for fiscal year 1994,
-
-                    (II) 20 percent for fiscal year 1995,
-
-                    (III) 30 percent for fiscal year 1996,
-
-                    (IV) 60 percent for fiscal years 1997 and 1998, and
-
-                    (V) 94 percent for fiscal year 1999 and all fiscal years thereafter.
-
-        (3) __Definitions__ 
+        (2) __Definitions__ 
 
         For purposes of this subsection—
 
@@ -165,19 +111,31 @@
 
                 The term “electronic fund transfer” means any transfer of funds, other than a transaction originated by check, draft, or similar paper instrument, which is initiated through an electronic terminal, telephonic instrument, or computer or magnetic tape so as to order, instruct, or authorize a financial institution or other financial intermediary to debit or credit an account.
 
-        (4) __Coordination with other electronic fund transfer requirements__ 
+        (3) __Coordination with other electronic fund transfer requirements__ 
 
-            (A) __Coordination with certain excise taxes__ 
+            Under regulations, any tax required to be paid by electronic fund transfer under section 5061(e) or 5703(b) shall be paid in such a manner as to ensure that the requirements of the second sentence of paragraph (1)(A) of this subsection are satisfied.
 
-                In determining whether the requirements of subparagraph (B) of paragraph (2) are met, taxes required to be paid by electronic fund transfer under sections 5061(e) and 5703(b) shall be disregarded.
-
-            (B) __Additional requirement__ 
-
-                Under regulations, any tax required to be paid by electronic fund transfer under section 5061(e) or 5703(b) shall be paid in such a manner as to ensure that the requirements of the second sentence of paragraph (1)(A) of this subsection are satisfied.
-
-([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 775][/us/stat/68A/775]; [June 29, 1956, ch. 462][/us/act/1956-06-29/ch462], title II, § 206(b), [70 Stat. 391][/us/stat/70/391]; [Pub. L. 94–455, title XIX, § 1906(a)(17)][/us/pl/94/455/s1906/a/17], (b)(13)(A), Oct. 4, 1976, [90 Stat. 1825][/us/stat/90/1825], 1834; [Pub. L. 95–147, § 3(a)][/us/pl/95/147/s3/a], Oct. 28, 1977, [91 Stat. 1228][/us/stat/91/1228]; [Pub. L. 95–600, title I, § 105(e)][/us/pl/95/600/s105/e], Nov. 6, 1978, [92 Stat. 2776][/us/stat/92/2776]; [Pub. L. 96–223, title I, § 101(c)(2)][/us/pl/96/223/s101/c/2], Apr. 2, 1980, [94 Stat. 250][/us/stat/94/250]; [Pub. L. 98–369, div. A, title X, § 1015(c)][/us/pl/98/369/s1015/c], July 18, 1984, [98 Stat. 1018][/us/stat/98/1018]; [Pub. L. 100–418, title I, § 1941(b)(2)(G)][/us/pl/100/418/s1941/b/2/G], Aug. 23, 1988, [102 Stat. 1323][/us/stat/102/1323]; [Pub. L. 100–647, title VI, § 6107(a)][/us/pl/100/647/s6107/a], Nov. 10, 1988, [102 Stat. 3712][/us/stat/102/3712]; [Pub. L. 101–239, title VII][/us/pl/101/239], §§ 7502(a), 7507(a), 7632(a), Dec. 19, 1989, [103 Stat. 2362][/us/stat/103/2362], 2369, 2379; [Pub. L. 101–508, title XI][/us/pl/101/508], §§ 11217(b)(1), 11334(a), 11801(c)(22)(A), Nov. 5, 1990, [104 Stat. 1388–437][/us/stat/104/1388-437], 1388–470, 1388–528; [Pub. L. 103–66, title XIII, § 13242(d)(15)][/us/pl/103/66/s13242/d/15], Aug. 10, 1993, [107 Stat. 524][/us/stat/107/524]; [Pub. L. 103–182, title V, § 523(a)][/us/pl/103/182/s523/a], Dec. 8, 1993, [107 Stat. 2161][/us/stat/107/2161]; [Pub. L. 103–465, title VII, § 712(a)][/us/pl/103/465/s712/a], (d), Dec. 8, 1994, [108 Stat. 4999][/us/stat/108/4999], 5001; [Pub. L. 104–188, title I][/us/pl/104/188], §§ 1702(c)(3), 1704(t)(52), Aug. 20, 1996, [110 Stat. 1869][/us/stat/110/1869], 1890; [Pub. L. 111–226, title II, § 219(b)(2)][/us/pl/111/226/s219/b/2], Aug. 10, 2010, [124 Stat. 2403][/us/stat/124/2403]; [Pub. L. 111–237, § 2(a)][/us/pl/111/237/s2/a], Aug. 16, 2010, [124 Stat. 2497][/us/stat/124/2497].)
+([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 775][/us/stat/68A/775]; [June 29, 1956, ch. 462][/us/act/1956-06-29/ch462], title II, § 206(b), [70 Stat. 391][/us/stat/70/391]; [Pub. L. 94–455, title XIX, § 1906(a)(17)][/us/pl/94/455/s1906/a/17], (b)(13)(A), Oct. 4, 1976, [90 Stat. 1825][/us/stat/90/1825], 1834; [Pub. L. 95–147, § 3(a)][/us/pl/95/147/s3/a], Oct. 28, 1977, [91 Stat. 1228][/us/stat/91/1228]; [Pub. L. 95–600, title I, § 105(e)][/us/pl/95/600/s105/e], Nov. 6, 1978, [92 Stat. 2776][/us/stat/92/2776]; [Pub. L. 96–223, title I, § 101(c)(2)][/us/pl/96/223/s101/c/2], Apr. 2, 1980, [94 Stat. 250][/us/stat/94/250]; [Pub. L. 98–369, div. A, title X, § 1015(c)][/us/pl/98/369/s1015/c], July 18, 1984, [98 Stat. 1018][/us/stat/98/1018]; [Pub. L. 100–418, title I, § 1941(b)(2)(G)][/us/pl/100/418/s1941/b/2/G], Aug. 23, 1988, [102 Stat. 1323][/us/stat/102/1323]; [Pub. L. 100–647, title VI, § 6107(a)][/us/pl/100/647/s6107/a], Nov. 10, 1988, [102 Stat. 3712][/us/stat/102/3712]; [Pub. L. 101–239, title VII][/us/pl/101/239], §§ 7502(a), 7507(a), 7632(a), Dec. 19, 1989, [103 Stat. 2362][/us/stat/103/2362], 2369, 2379; [Pub. L. 101–508, title XI][/us/pl/101/508], §§ 11217(b)(1), 11334(a), 11801(c)(22)(A), Nov. 5, 1990, [104 Stat. 1388–437][/us/stat/104/1388-437], 1388–470, 1388–528; [Pub. L. 103–66, title XIII, § 13242(d)(15)][/us/pl/103/66/s13242/d/15], Aug. 10, 1993, [107 Stat. 524][/us/stat/107/524]; [Pub. L. 103–182, title V, § 523(a)][/us/pl/103/182/s523/a], Dec. 8, 1993, [107 Stat. 2161][/us/stat/107/2161]; [Pub. L. 103–465, title VII, § 712(a)][/us/pl/103/465/s712/a], (d), Dec. 8, 1994, [108 Stat. 4999][/us/stat/108/4999], 5001; [Pub. L. 104–188, title I][/us/pl/104/188], §§ 1702(c)(3), 1704(t)(52), Aug. 20, 1996, [110 Stat. 1869][/us/stat/110/1869], 1890; [Pub. L. 111–226, title II, § 219(b)(2)][/us/pl/111/226/s219/b/2], Aug. 10, 2010, [124 Stat. 2403][/us/stat/124/2403]; [Pub. L. 111–237, § 2(a)][/us/pl/111/237/s2/a], Aug. 16, 2010, [124 Stat. 2497][/us/stat/124/2497]; [Pub. L. 113–295, div. A, title II, § 221(a)(110)][/us/pl/113/295/s221/a/110], Dec. 19, 2014, [128 Stat. 4053][/us/stat/128/4053].)
 
  __Amendments__ 
+
+    2014—Subsec. (e)(2). [Pub. L. 113–295, § 221(a)(110)(A)][/us/pl/113/295/s221/a/110/A], substituted “imposed by sections 4251, 4261, or 4271 with respect to” for “imposed by—
+
+    “(i) section 4251, or
+
+    “(ii) effective on January 1, 1997, section 4261 or 4271,
+
+    with respect to”.
+
+    Subsec. (f)(1). [Pub. L. 113–295, § 221(a)(110)(B)][/us/pl/113/295/s221/a/110/B], struck out last sentence which read as follows: “In the case of taxes imposed by sections 4261 and 4271, this paragraph shall not apply to periods before January 1, 1997.”
+
+    Subsec. (h)(2). [Pub. L. 113–295, § 221(a)(110)(C)(i)][/us/pl/113/295/s221/a/110/C/i], redesignated par. (3) as (2) and struck out former par. (2) which related to phase-in of the electronic fund transfer system.
+
+    Subsec. (h)(3), (4). [Pub. L. 113–295, § 221(a)(110)(C)][/us/pl/113/295/s221/a/110/C], redesignated par. (4) as (3) and amended it generally. Prior to amendment, text read as follows:
+
+    “(A) Coordination with certain excise taxes.—In determining whether the requirements of subparagraph (B) of paragraph (2) are met, taxes required to be paid by electronic fund transfer under sections 5061(e) and 5703(b) shall be disregarded.
+
+    “(B) Additional requirement.—Under regulations, any tax required to be paid by electronic fund transfer under section 5061(e) or 5703(b) shall be paid in such a manner as to ensure that the requirements of the second sentence of paragraph (1)(A) of this subsection are satisfied.”
 
     2010—Subsec. (d). [Pub. L. 111–237][/us/pl/111/237] amended subsec. (d) generally. Prior to amendment, text read as follows: “The taxes imposed by subsections (a) and (b) of section 4161 (relating to taxes on sporting goods) shall be due and payable on the date for filing the return for such taxes.”
 
@@ -236,6 +194,10 @@
     Subsec. (c). [Pub. L. 94–455, § 1906(b)(13)(A)][/us/pl/94/455/s1906/b/13/A], struck out “or his delegate” after “Secretary” wherever appearing.
 
     1956—Subsec. (b). Act June 29, 1956, inserted reference to section 4481 of chapter 36.
+
+ __Effective Date of 2014 Amendment__ 
+
+    Amendment by [Pub. L. 113–295][/us/pl/113/295] effective Dec. 19, 2014, subject to a savings provision, see [section 221(b) of Pub. L. 113–295][/us/pl/113/295/s221/b], set out as a note under [section 1 of this title][/us/usc/t26/s1].
 
  __Effective Date of 2010 Amendment__ 
 
@@ -410,6 +372,12 @@
 [/us/stat/124/2403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2403
 [/us/pl/111/237/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F237%2Fs2%2Fa
 [/us/stat/124/2497]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2497
+[/us/pl/113/295/s221/a/110]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs221%2Fa%2F110
+[/us/stat/128/4053]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F4053
+[/us/pl/113/295/s221/a/110/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs221%2Fa%2F110%2FA
+[/us/pl/113/295/s221/a/110/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs221%2Fa%2F110%2FB
+[/us/pl/113/295/s221/a/110/C/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs221%2Fa%2F110%2FC%2Fi
+[/us/pl/113/295/s221/a/110/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs221%2Fa%2F110%2FC
 [/us/pl/111/237]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F237
 [/us/pl/111/226]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F226
 [/us/pl/104/188/s1704/t/52]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188%2Fs1704%2Ft%2F52
@@ -437,6 +405,9 @@
 [/us/pl/94/455/s1906/b/13/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1906%2Fb%2F13%2FA
 [/us/pl/94/455/s1906/a/17]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1906%2Fa%2F17
 [/us/pl/94/455/s1906/b/13/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1906%2Fb%2F13%2FA
+[/us/pl/113/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295
+[/us/pl/113/295/s221/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs221%2Fb
+[/us/usc/t26/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs1
 [/us/pl/111/237/s2/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F237%2Fs2%2Fb
 [/us/stat/124/2497]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2497
 [/us/pl/111/226]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F226

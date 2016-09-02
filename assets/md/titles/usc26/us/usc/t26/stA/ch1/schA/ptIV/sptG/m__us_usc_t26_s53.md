@@ -75,55 +75,15 @@
 
             The term “tentative minimum tax” has the meaning given to such term by section 55(b).
 
-    (e) __Special rule for individuals with long-term unused credits__ 
-
-        (1) __In general__ 
-
-            If an individual has a long-term unused minimum tax credit for any taxable year beginning before January 1, 2013, the amount determined under subsection (c) for such taxable year shall not be less than the AMT refundable credit amount for such taxable year.
-
-        (2) __AMT refundable credit amount__ 
-
-        For purposes of paragraph (1), the term “AMT refundable credit amount” means, with respect to any taxable year, the amount (not in excess of the long-term unused minimum tax credit for such taxable year) equal to the greater of—
-
-            (A) 50 percent of the long-term unused minimum tax credit for such taxable year, or
-
-            (B) the amount (if any) of the AMT refundable credit amount determined under this paragraph for the taxpayer’s preceding taxable year (determined without regard to subsection (f)(2)).
-
-        (3) __Long-term unused minimum tax credit__ 
-
-            (A) __In general__ 
-
-                For purposes of this subsection, the term “long-term unused minimum tax credit” means, with respect to any taxable year, the portion of the minimum tax credit determined under subsection (b) attributable to the adjusted net minimum tax for taxable years before the 3rd taxable year immediately preceding such taxable year.
-
-            (B) __First-in, first-out ordering rule__ 
-
-                For purposes of subparagraph (A), credits shall be treated as allowed under subsection (a) on a first-in, first-out basis.
-
-        (4) __Credit refundable__ 
-
-            For purposes of this title (other than this section), the credit allowed by reason of this subsection shall be treated as if it were allowed under subpart C.
-
-    (f) __Treatment of certain underpayments, interest, and penalties attributable to the treatment of incentive stock options__ 
-
-        (1) __Abatement__ 
-
-            Any underpayment of tax outstanding on the date of the enactment of this subsection which is attributable to the application of section 56(b)(3) for any taxable year ending before January 1, 2008, and any interest or penalty with respect to such underpayment which is outstanding on such date of enactment, is hereby abated. The amount determined under subsection (b)(1) shall not include any tax abated under the preceding sentence.
-
-        (2) __Increase in credit for certain interest and penalties already paid__ 
-
-            The AMT refundable credit amount, and the minimum tax credit determined under subsection (b), for the taxpayer’s first 2 taxable years beginning after December 31, 2007, shall each be increased by 50 percent of the aggregate amount of the interest and penalties which were paid by the taxpayer before the date of the enactment of this subsection and which would (but for such payment) have been abated under paragraph (1).
-
-(Added [Pub. L. 99–514, title VII, § 701(b)][/us/pl/99/514/s701/b], Oct. 22, 1986, [100 Stat. 2339][/us/stat/100/2339]; amended [Pub. L. 100–647, title I, § 1007(g)(4)][/us/pl/100/647/s1007/g/4], title VI, § 6304(a), Nov. 10, 1988, [102 Stat. 3435][/us/stat/102/3435], 3756; [Pub. L. 101–239, title VII][/us/pl/101/239], §§ 7612(a)(1), (2), (b)(1), 7811(d)(2), Dec. 19, 1989, [103 Stat. 2373][/us/stat/103/2373], 2374, 2408; [Pub. L. 102–486, title XIX, § 1913(b)(2)(C)][/us/pl/102/486/s1913/b/2/C], Oct. 24, 1992, [106 Stat. 3020][/us/stat/106/3020]; [Pub. L. 103–66, title XIII][/us/pl/103/66], §§ 13113(b)(2), 13171(c), Aug. 10, 1993, [107 Stat. 429][/us/stat/107/429], 455; [Pub. L. 104–188, title I][/us/pl/104/188], §§ 1205(d)(5), 1704(j)(1), Aug. 20, 1996, [110 Stat. 1776][/us/stat/110/1776], 1881; [Pub. L. 108–357, title IV, § 421(a)(2)][/us/pl/108/357/s421/a/2], Oct. 22, 2004, [118 Stat. 1514][/us/stat/118/1514]; [Pub. L. 109–58, title XIII, § 1322(a)(3)(G)][/us/pl/109/58/s1322/a/3/G], Aug. 8, 2005, [119 Stat. 1012][/us/stat/119/1012]; [Pub. L. 109–432, div. A, title IV, § 402(a)][/us/pl/109/432/s402/a], Dec. 20, 2006, [120 Stat. 2953][/us/stat/120/2953]; [Pub. L. 110–172, § 2(a)][/us/pl/110/172/s2/a], Dec. 29, 2007, [121 Stat. 2473][/us/stat/121/2473]; [Pub. L. 110–343, div. C, title I, § 103(a)][/us/pl/110/343/s103/a], (b), Oct. 3, 2008, [122 Stat. 3863][/us/stat/122/3863]; [Pub. L. 111–5, div. B, title I, § 1142(b)(4)][/us/pl/111/5/s1142/b/4], Feb. 17, 2009, [123 Stat. 331][/us/stat/123/331].)
-
- __References in Text__ 
-
-    The date of the enactment of this subsection, referred to in subsec. (f), is the date of enactment of [Pub. L. 110–343][/us/pl/110/343], which was approved Oct. 3, 2008.
+(Added [Pub. L. 99–514, title VII, § 701(b)][/us/pl/99/514/s701/b], Oct. 22, 1986, [100 Stat. 2339][/us/stat/100/2339]; amended [Pub. L. 100–647, title I, § 1007(g)(4)][/us/pl/100/647/s1007/g/4], title VI, § 6304(a), Nov. 10, 1988, [102 Stat. 3435][/us/stat/102/3435], 3756; [Pub. L. 101–239, title VII][/us/pl/101/239], §§ 7612(a)(1), (2), (b)(1), 7811(d)(2), Dec. 19, 1989, [103 Stat. 2373][/us/stat/103/2373], 2374, 2408; [Pub. L. 102–486, title XIX, § 1913(b)(2)(C)][/us/pl/102/486/s1913/b/2/C], Oct. 24, 1992, [106 Stat. 3020][/us/stat/106/3020]; [Pub. L. 103–66, title XIII][/us/pl/103/66], §§ 13113(b)(2), 13171(c), Aug. 10, 1993, [107 Stat. 429][/us/stat/107/429], 455; [Pub. L. 104–188, title I][/us/pl/104/188], §§ 1205(d)(5), 1704(j)(1), Aug. 20, 1996, [110 Stat. 1776][/us/stat/110/1776], 1881; [Pub. L. 108–357, title IV, § 421(a)(2)][/us/pl/108/357/s421/a/2], Oct. 22, 2004, [118 Stat. 1514][/us/stat/118/1514]; [Pub. L. 109–58, title XIII, § 1322(a)(3)(G)][/us/pl/109/58/s1322/a/3/G], Aug. 8, 2005, [119 Stat. 1012][/us/stat/119/1012]; [Pub. L. 109–432, div. A, title IV, § 402(a)][/us/pl/109/432/s402/a], Dec. 20, 2006, [120 Stat. 2953][/us/stat/120/2953]; [Pub. L. 110–172, § 2(a)][/us/pl/110/172/s2/a], Dec. 29, 2007, [121 Stat. 2473][/us/stat/121/2473]; [Pub. L. 110–343, div. C, title I, § 103(a)][/us/pl/110/343/s103/a], (b), Oct. 3, 2008, [122 Stat. 3863][/us/stat/122/3863]; [Pub. L. 111–5, div. B, title I, § 1142(b)(4)][/us/pl/111/5/s1142/b/4], Feb. 17, 2009, [123 Stat. 331][/us/stat/123/331]; [Pub. L. 113–295, div. A, title II, § 221(a)(8)(A)(i)][/us/pl/113/295/s221/a/8/A/i], Dec. 19, 2014, [128 Stat. 4038][/us/stat/128/4038].)
 
  __Prior Provisions__ 
 
     A prior section 53, added [Pub. L. 95–30, title II, § 202(b)][/us/pl/95/30/s202/b], May 23, 1977, [91 Stat. 146][/us/stat/91/146]; amended [Pub. L. 95–600, title III, § 321(c)(2)][/us/pl/95/600/s321/c/2], Nov. 6, 1978, [92 Stat. 2835][/us/stat/92/2835]; [Pub. L. 97–34, title II, § 207(c)(2)][/us/pl/97/34/s207/c/2], Aug. 13, 1981, [95 Stat. 225][/us/stat/95/225]; [Pub. L. 97–248, title II, § 201(d)(8)(A)][/us/pl/97/248/s201/d/8/A], formerly § 201(c)(8)(A), and § 265(b)(2)(A)(iii), Sept. 3, 1982, [96 Stat. 420][/us/stat/96/420], 547, renumbered § 201(d)(8)(A), [Pub. L. 97–448, title III, § 306(a)(1)(A)(i)][/us/pl/97/448/s306/a/1/A/i], Jan. 12, 1983, [96 Stat. 2400][/us/stat/96/2400]; 97–354, § 5(a)(12), Oct. 19, 1982, [96 Stat. 1693][/us/stat/96/1693]; 97–448, title I, § 102(d)(3), Jan. 12, 1983, [96 Stat. 2370][/us/stat/96/2370]; [Pub. L. 98–21, title I, § 122(c)(1)][/us/pl/98/21/s122/c/1], Apr. 20, 1983, [97 Stat. 87][/us/stat/97/87]; [Pub. L. 98–369, div. A, title VII, § 713(c)(1)(C)][/us/pl/98/369/s713/c/1/C], July 18, 1984, [98 Stat. 957][/us/stat/98/957], placed limitations on the amount of credit allowed by former section 44B for employment of certain new employees, prior to repeal by [Pub. L. 98–369, div. A, title IV, § 474(p)(8)][/us/pl/98/369/s474/p/8], July 18, 1984, [98 Stat. 838][/us/stat/98/838], applicable to taxable years beginning after Dec. 31, 1983, and to carrybacks from such years.
 
  __Amendments__ 
+
+    2014—Subsecs. (e), (f). [Pub. L. 113–295][/us/pl/113/295] struck out subsecs. (e) and (f) which related to special rule for individuals with long-term unused credits and treatment of certain underpayments, interest, and penalties attributable to the treatment of incentive stock options, respectively.
 
     2009—Subsec. (d)(1)(B)(iii). [Pub. L. 111–5, § 1142(b)(4)(A)][/us/pl/111/5/s1142/b/4/A], redesignated cl. (iv) as (iii) and struck out former cl. (iii). Prior to amendment, text read as follows: “The adjusted net minimum tax for the taxable year shall be increased by the amount of the credit not allowed under section 30 solely by reason of the application of section 30(b)(3)(B).”
 
@@ -178,6 +138,10 @@
     1988—Subsec. (d)(1)(B)(ii). [Pub. L. 100–647, § 1007(g)(4)][/us/pl/100/647/s1007/g/4], substituted “current earnings” for “earnings and profits” in last sentence.
 
     Subsec. (d)(1)(B)(iii). [Pub. L. 100–647, § 6304(a)][/us/pl/100/647/s6304/a], added cl. (iii).
+
+ __Effective Date of 2014 Amendment__ 
+
+    Amendment by [Pub. L. 113–295][/us/pl/113/295] effective Dec. 19, 2014, subject to a savings provision, see [section 221(b) of Pub. L. 113–295][/us/pl/113/295/s221/b], set out as a note under [section 1 of this title][/us/usc/t26/s1].
 
  __Effective Date of 2009 Amendment__ 
 
@@ -239,7 +203,9 @@
 
 > “The amendment made by section 1913(b)(2)(C)(i) of the Energy Policy Act of 1992 \[[Pub. L. 102–486][/us/pl/102/486]\] shall apply to taxable years beginning after December 31, 1990.”
 
-    Amendment by [section 1913(b)(2)(C)(ii) of Pub. L. 102–486][/us/pl/102/486/s1913/b/2/C/ii] applicable to property placed in service after June 30, 1993, see [section 1913(c) of Pub. L. 102–486][/us/pl/102/486/s1913/c], set out as an Effective Date note under [section 30 of this title][/us/usc/t26/s30].
+[Pub. L. 102–486, title XIX, § 1913(c)][/us/pl/102/486/s1913/c], Oct. 24, 1992, [106 Stat. 3020][/us/stat/106/3020], provided that: 
+
+> “The amendments made by this section \[enacting sections 30 and 179A of this title and amending this section and sections 55, 62, and 1016 of this title\] shall apply to property placed in service after June 30, 1993.”
 
  __Effective Date of 1989 Amendment__ 
 
@@ -268,6 +234,12 @@
  __Applicability of Certain Amendments by__  __[__  __Pub. L. 99–514__  __][/us/pl/99/514]__  __in Relation to Treaty Obligations of United States__ 
 
     For applicability of amendment by [section 701(b) of Pub. L. 99–514][/us/pl/99/514/s701/b] \[enacting this section\] notwithstanding any treaty obligation of the United States in effect on Oct. 22, 1986, with provision that for such purposes any amendment by title I of [Pub. L. 100–647][/us/pl/100/647] be treated as if it had been included in the provision of [Pub. L. 99–514][/us/pl/99/514] to which such amendment relates, see section 1012(aa)(2), (4) of [Pub. L. 100–647][/us/pl/100/647], set out as a note under [section 861 of this title][/us/usc/t26/s861].
+
+ __Construction__ 
+
+[Pub. L. 113–295, div. A, title II, § 221(a)(8)(A)(ii)][/us/pl/113/295/s221/a/8/A/ii], Dec. 19, 2014, [128 Stat. 4038][/us/stat/128/4038], provided that: 
+
+> “The amendment made by clause (i) striking subsection (f) of section 53 of the Internal Revenue Code of 1986 shall not be construed to allow any tax abated by reason of section 53(f)(1) of such Code (as in effect before such amendment) to be included in the amount determined under section 53(b)(1) of such Code.”
 
 ----------
 
@@ -300,7 +272,8 @@
 [/us/stat/122/3863]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3863
 [/us/pl/111/5/s1142/b/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5%2Fs1142%2Fb%2F4
 [/us/stat/123/331]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F331
-[/us/pl/110/343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F343
+[/us/pl/113/295/s221/a/8/A/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs221%2Fa%2F8%2FA%2Fi
+[/us/stat/128/4038]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F4038
 [/us/pl/95/30/s202/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F30%2Fs202%2Fb
 [/us/stat/91/146]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F146
 [/us/pl/95/600/s321/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F600%2Fs321%2Fc%2F2
@@ -319,6 +292,7 @@
 [/us/stat/98/957]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F957
 [/us/pl/98/369/s474/p/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs474%2Fp%2F8
 [/us/stat/98/838]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F838
+[/us/pl/113/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295
 [/us/pl/111/5/s1142/b/4/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5%2Fs1142%2Fb%2F4%2FA
 [/us/pl/111/5/s1142/b/4/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5%2Fs1142%2Fb%2F4%2FB
 [/us/pl/111/5/s1142/b/4/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5%2Fs1142%2Fb%2F4%2FA
@@ -346,6 +320,9 @@
 [/us/pl/101/239/s7612/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2Fs7612%2Fa%2F1
 [/us/pl/100/647/s1007/g/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs1007%2Fg%2F4
 [/us/pl/100/647/s6304/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs6304%2Fa
+[/us/pl/113/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295
+[/us/pl/113/295/s221/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs221%2Fb
+[/us/usc/t26/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs1
 [/us/pl/111/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5
 [/us/pl/111/5/s1142/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5%2Fs1142%2Fc
 [/us/usc/t26/s24]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs24
@@ -377,9 +354,8 @@
 [/us/pl/104/188/s1702/e/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188%2Fs1702%2Fe%2F5
 [/us/stat/110/1870]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1870
 [/us/pl/102/486]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486
-[/us/pl/102/486/s1913/b/2/C/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs1913%2Fb%2F2%2FC%2Fii
 [/us/pl/102/486/s1913/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs1913%2Fc
-[/us/usc/t26/s30]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs30
+[/us/stat/106/3020]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3020
 [/us/pl/101/239/s7612/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2Fs7612%2Fa%2F3
 [/us/stat/103/2373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F2373
 [/us/pl/101/239/s7612/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2Fs7612%2Fb%2F2
@@ -403,5 +379,7 @@
 [/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
 [/us/pl/100/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647
 [/us/usc/t26/s861]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs861
+[/us/pl/113/295/s221/a/8/A/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs221%2Fa%2F8%2FA%2Fii
+[/us/stat/128/4038]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F4038
 
 

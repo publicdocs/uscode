@@ -407,15 +407,17 @@
 
         (10) __Application__ 
 
-            This subsection and section 954(i) shall apply only to taxable years of a foreign corporation beginning after December 31, 1998, and before January 1, 2014, and to taxable years of United States shareholders with or within which any such taxable year of such foreign corporation ends. If this subsection does not apply to a taxable year of a foreign corporation beginning after December 31, 2013 (and taxable years of United States shareholders ending with or within such taxable year), then, notwithstanding the preceding sentence, subsection (a) shall be applied to such taxable years in the same manner as it would if the taxable year of the foreign corporation began in 1998.
+            This subsection and section 954(i) shall apply only to taxable years of a foreign corporation beginning after December 31, 1998, and before January 1, 2015, and to taxable years of United States shareholders with or within which any such taxable year of such foreign corporation ends. If this subsection does not apply to a taxable year of a foreign corporation beginning after December 31, 2014 (and taxable years of United States shareholders ending with or within such taxable year), then, notwithstanding the preceding sentence, subsection (a) shall be applied to such taxable years in the same manner as it would if the taxable year of the foreign corporation began in 1998.
 
         (11) __Cross reference__ 
 
             For income exempt from foreign personal holding company income, see section 954(i).
 
-(Added [Pub. L. 87–834, § 12(a)][/us/pl/87/834/s12/a], Oct. 16, 1962, [76 Stat. 1008][/us/stat/76/1008]; amended [Pub. L. 89–809, title I, § 104(m)(2)][/us/pl/89/809/s104/m/2], Nov. 13, 1966, [80 Stat. 1563][/us/stat/80/1563]; [Pub. L. 94–455, title XIX, § 1906(b)(13)(A)][/us/pl/94/455/s1906/b/13/A], Oct. 4, 1976, [90 Stat. 1834][/us/stat/90/1834]; [Pub. L. 98–369, div. A, title II, § 211(b)(13)][/us/pl/98/369/s211/b/13], July 18, 1984, [98 Stat. 755][/us/stat/98/755]; [Pub. L. 99–514, title XII, § 1221(b)(1)][/us/pl/99/514/s1221/b/1], (2), (3)(D), Oct. 22, 1986, [100 Stat. 2551][/us/stat/100/2551], 2553; [Pub. L. 100–647, title I, § 1012(i)(1)][/us/pl/100/647/s1012/i/1]–(3)(B), (4), (5), (7)–(9), (21), title VI, § 6135(a), Nov. 10, 1988, [102 Stat. 3507–3509][/us/stat/102/3507-3509], 3511, 3721; [Pub. L. 101–239, title VII, § 7816(p)][/us/pl/101/239/s7816/p], Dec. 19, 1989, [103 Stat. 2423][/us/stat/103/2423]; [Pub. L. 105–277, div. J, title I, § 1005(b)(1)][/us/pl/105/277/s1005/b/1], (3), Oct. 21, 1998, [112 Stat. 2681–893][/us/stat/112/2681-893], 2681–899; [Pub. L. 106–170, title V, § 503(a)][/us/pl/106/170/s503/a], (b), Dec. 17, 1999, [113 Stat. 1921][/us/stat/113/1921]; [Pub. L. 107–147, title VI, § 614(a)(1)][/us/pl/107/147/s614/a/1], Mar. 9, 2002, [116 Stat. 61][/us/stat/116/61]; [Pub. L. 109–222, title I, § 103(a)(1)][/us/pl/109/222/s103/a/1], May 17, 2006, [120 Stat. 346][/us/stat/120/346]; [Pub. L. 110–343, div. C, title III, § 303(a)][/us/pl/110/343/s303/a], Oct. 3, 2008, [122 Stat. 3866][/us/stat/122/3866]; [Pub. L. 111–312, title VII, § 750(a)][/us/pl/111/312/s750/a], (b), Dec. 17, 2010, [124 Stat. 3320][/us/stat/124/3320]; [Pub. L. 112–240, title III, § 322(a)][/us/pl/112/240/s322/a], Jan. 2, 2013, [126 Stat. 2332][/us/stat/126/2332].)
+(Added [Pub. L. 87–834, § 12(a)][/us/pl/87/834/s12/a], Oct. 16, 1962, [76 Stat. 1008][/us/stat/76/1008]; amended [Pub. L. 89–809, title I, § 104(m)(2)][/us/pl/89/809/s104/m/2], Nov. 13, 1966, [80 Stat. 1563][/us/stat/80/1563]; [Pub. L. 94–455, title XIX, § 1906(b)(13)(A)][/us/pl/94/455/s1906/b/13/A], Oct. 4, 1976, [90 Stat. 1834][/us/stat/90/1834]; [Pub. L. 98–369, div. A, title II, § 211(b)(13)][/us/pl/98/369/s211/b/13], July 18, 1984, [98 Stat. 755][/us/stat/98/755]; [Pub. L. 99–514, title XII, § 1221(b)(1)][/us/pl/99/514/s1221/b/1], (2), (3)(D), Oct. 22, 1986, [100 Stat. 2551][/us/stat/100/2551], 2553; [Pub. L. 100–647, title I, § 1012(i)(1)][/us/pl/100/647/s1012/i/1]–(3)(B), (4), (5), (7)–(9), (21), title VI, § 6135(a), Nov. 10, 1988, [102 Stat. 3507–3509][/us/stat/102/3507-3509], 3511, 3721; [Pub. L. 101–239, title VII, § 7816(p)][/us/pl/101/239/s7816/p], Dec. 19, 1989, [103 Stat. 2423][/us/stat/103/2423]; [Pub. L. 105–277, div. J, title I, § 1005(b)(1)][/us/pl/105/277/s1005/b/1], (3), Oct. 21, 1998, [112 Stat. 2681–893][/us/stat/112/2681-893], 2681–899; [Pub. L. 106–170, title V, § 503(a)][/us/pl/106/170/s503/a], (b), Dec. 17, 1999, [113 Stat. 1921][/us/stat/113/1921]; [Pub. L. 107–147, title VI, § 614(a)(1)][/us/pl/107/147/s614/a/1], Mar. 9, 2002, [116 Stat. 61][/us/stat/116/61]; [Pub. L. 109–222, title I, § 103(a)(1)][/us/pl/109/222/s103/a/1], May 17, 2006, [120 Stat. 346][/us/stat/120/346]; [Pub. L. 110–343, div. C, title III, § 303(a)][/us/pl/110/343/s303/a], Oct. 3, 2008, [122 Stat. 3866][/us/stat/122/3866]; [Pub. L. 111–312, title VII, § 750(a)][/us/pl/111/312/s750/a], (b), Dec. 17, 2010, [124 Stat. 3320][/us/stat/124/3320]; [Pub. L. 112–240, title III, § 322(a)][/us/pl/112/240/s322/a], Jan. 2, 2013, [126 Stat. 2332][/us/stat/126/2332]; [Pub. L. 113–295, div. A, title I, § 134(a)][/us/pl/113/295/s134/a], Dec. 19, 2014, [128 Stat. 4019][/us/stat/128/4019].)
 
  __Amendments__ 
+
+    2014—Subsec. (e)(10). [Pub. L. 113–295][/us/pl/113/295] substituted “January 1, 2015” for “January 1, 2014” and “December 31, 2014” for “December 31, 2013”.
 
     2013—Subsec. (e)(10). [Pub. L. 112–240][/us/pl/112/240] substituted “January 1, 2014” for “January 1, 2012” and “December 31, 2013” for “December 31, 2011”.
 
@@ -529,6 +531,12 @@
 
     1966—Subsec. (b)(3)(F). [Pub. L. 89–809][/us/pl/89/809] substituted “832(c)(5)” for “832(b)(5)”.
 
+ __Effective Date of 2014 Amendment__ 
+
+[Pub. L. 113–295, div. A, title I, § 134(c)][/us/pl/113/295/s134/c], Dec. 19, 2014, [128 Stat. 4019][/us/stat/128/4019], provided that: 
+
+> “The amendments made by this section \[amending this section and [section 954 of this title][/us/usc/t26/s954]\] shall apply to taxable years of foreign corporations beginning after December 31, 2013, and to taxable years of United States shareholders with or within which any such taxable year of such foreign corporation ends.”
+
  __Effective Date of 2013 Amendment__ 
 
 [Pub. L. 112–240, title III, § 322(c)][/us/pl/112/240/s322/c], Jan. 2, 2013, [126 Stat. 2332][/us/stat/126/2332], provided that: 
@@ -616,6 +624,9 @@
 [/us/stat/124/3320]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3320
 [/us/pl/112/240/s322/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F240%2Fs322%2Fa
 [/us/stat/126/2332]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F2332
+[/us/pl/113/295/s134/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs134%2Fa
+[/us/stat/128/4019]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F4019
+[/us/pl/113/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295
 [/us/pl/112/240]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F240
 [/us/pl/111/312]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F312
 [/us/pl/110/343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F343
@@ -657,6 +668,9 @@
 [/us/pl/98/369/s211/b/13/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs211%2Fb%2F13%2FA
 [/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455
 [/us/pl/89/809]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F809
+[/us/pl/113/295/s134/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs134%2Fc
+[/us/stat/128/4019]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F4019
+[/us/usc/t26/s954]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs954
 [/us/pl/112/240/s322/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F240%2Fs322%2Fc
 [/us/stat/126/2332]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F2332
 [/us/usc/t26/s954]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs954

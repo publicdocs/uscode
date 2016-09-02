@@ -131,11 +131,7 @@
 
                 (iii) __Years taken into account__ 
 
-                A prior taxable year shall not be taken into account under clause (i) unless—
-
-                    (I) such taxable year began after December 31, 1981, and
-
-                    (II) the corporation was an S corporation for such taxable year.
+                    A prior taxable year shall not be taken into account under clause (i) unless the corporation was an S corporation for such taxable year.
 
             (B) __Gross receipts from the sales of certain assets__ 
 
@@ -273,9 +269,15 @@
 
         If a small business corporation has made an election under subsection (a) and if such election has been terminated under subsection (d), such corporation (and any successor corporation) shall not be eligible to make an election under subsection (a) for any taxable year before its 5th taxable year which begins after the 1st taxable year for which such termination is effective, unless the Secretary consents to such election.
 
-(Added [Pub. L. 97–354, § 2][/us/pl/97/354/s2], Oct. 19, 1982, [96 Stat. 1672][/us/stat/96/1672]; amended [Pub. L. 98–369, div. A, title I, § 102(d)(2)][/us/pl/98/369/s102/d/2], title VII, § 721(g), (h), (l), (t), July 18, 1984, [98 Stat. 623][/us/stat/98/623], 968, 969, 971; [Pub. L. 100–647, title I][/us/pl/100/647], §§ 1006(f)(6), 1007(g)(9), Nov. 10, 1988, [102 Stat. 3406][/us/stat/102/3406], 3435; [Pub. L. 104–188, title I][/us/pl/104/188], §§ 1305(a), (b), 1308(c), 1311(b)(1), Aug. 20, 1996, [110 Stat. 1779][/us/stat/110/1779], 1780, 1783, 1784; [Pub. L. 106–170, title V, § 532(c)(2)(T)][/us/pl/106/170/s532/c/2/T], Dec. 17, 1999, [113 Stat. 1931][/us/stat/113/1931]; [Pub. L. 108–357, title II][/us/pl/108/357], §§ 231(b), 237(a), 238(a), Oct. 22, 2004, [118 Stat. 1433][/us/stat/118/1433], 1436; [Pub. L. 109–135, title IV, § 413(b)][/us/pl/109/135/s413/b], Dec. 21, 2005, [119 Stat. 2641][/us/stat/119/2641]; [Pub. L. 110–28, title VIII, § 8231(a)][/us/pl/110/28/s8231/a], May 25, 2007, [121 Stat. 196][/us/stat/121/196]; [Pub. L. 110–172, § 11(a)(25)][/us/pl/110/172/s11/a/25], Dec. 29, 2007, [121 Stat. 2487][/us/stat/121/2487].)
+(Added [Pub. L. 97–354, § 2][/us/pl/97/354/s2], Oct. 19, 1982, [96 Stat. 1672][/us/stat/96/1672]; amended [Pub. L. 98–369, div. A, title I, § 102(d)(2)][/us/pl/98/369/s102/d/2], title VII, § 721(g), (h), (l), (t), July 18, 1984, [98 Stat. 623][/us/stat/98/623], 968, 969, 971; [Pub. L. 100–647, title I][/us/pl/100/647], §§ 1006(f)(6), 1007(g)(9), Nov. 10, 1988, [102 Stat. 3406][/us/stat/102/3406], 3435; [Pub. L. 104–188, title I][/us/pl/104/188], §§ 1305(a), (b), 1308(c), 1311(b)(1), Aug. 20, 1996, [110 Stat. 1779][/us/stat/110/1779], 1780, 1783, 1784; [Pub. L. 106–170, title V, § 532(c)(2)(T)][/us/pl/106/170/s532/c/2/T], Dec. 17, 1999, [113 Stat. 1931][/us/stat/113/1931]; [Pub. L. 108–357, title II][/us/pl/108/357], §§ 231(b), 237(a), 238(a), Oct. 22, 2004, [118 Stat. 1433][/us/stat/118/1433], 1436; [Pub. L. 109–135, title IV, § 413(b)][/us/pl/109/135/s413/b], Dec. 21, 2005, [119 Stat. 2641][/us/stat/119/2641]; [Pub. L. 110–28, title VIII, § 8231(a)][/us/pl/110/28/s8231/a], May 25, 2007, [121 Stat. 196][/us/stat/121/196]; [Pub. L. 110–172, § 11(a)(25)][/us/pl/110/172/s11/a/25], Dec. 29, 2007, [121 Stat. 2487][/us/stat/121/2487]; [Pub. L. 113–295, div. A, title II, § 221(a)(88)][/us/pl/113/295/s221/a/88], Dec. 19, 2014, [128 Stat. 4050][/us/stat/128/4050].)
 
  __Amendments__ 
+
+    2014—Subsec. (d)(3)(A)(iii). [Pub. L. 113–295][/us/pl/113/295] substituted “unless the corporation was an S corporation for such taxable year.” for “unless—
+
+    “(I) such taxable year began after December 31, 1981, and
+
+    “(II) the corporation was an S corporation for such taxable year.”
 
     2007—Subsec. (d)(3)(B) to (F). [Pub. L. 110–28][/us/pl/110/28] added subpars. (B) and (C) and struck out former subpar. (B), which related to gross receipts from dispositions of capital assets (other than stock and securities) being taken into account only to the extent of the capital gain net income therefrom, subpar. (C), which defined passive investment income, subpar. (D), which provided that, in the case of any options dealer or commodities dealer, passive investment income was to be determined by not taking into account any gain or loss from any section 1256 contract or property related to such a contract, subpar. (E), which related to certain dividends not being treated as passive investment income if an S corporation held stock in a C corporation meeting the requirements of section 1504(a)(2), and subpar. (F), which related to the exception from passive investment income for banks and depository institution holding companies.
 
@@ -348,6 +350,10 @@
     Subsec. (e)(6)(C). [Pub. L. 98–369, § 721(g)(1)][/us/pl/98/369/s721/g/1], added subpar. (C).
 
     Subsec. (e)(6)(D). [Pub. L. 98–369, § 721(t)][/us/pl/98/369/s721/t], added subpar. (D).
+
+ __Effective Date of 2014 Amendment__ 
+
+    Amendment by [Pub. L. 113–295][/us/pl/113/295] effective Dec. 19, 2014, subject to a savings provision, see [section 221(b) of Pub. L. 113–295][/us/pl/113/295/s221/b], set out as a note under [section 1 of this title][/us/usc/t26/s1].
 
  __Effective Date of 2007 Amendment__ 
 
@@ -443,6 +449,9 @@
 [/us/stat/121/196]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F196
 [/us/pl/110/172/s11/a/25]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F172%2Fs11%2Fa%2F25
 [/us/stat/121/2487]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F2487
+[/us/pl/113/295/s221/a/88]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs221%2Fa%2F88
+[/us/stat/128/4050]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F4050
+[/us/pl/113/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295
 [/us/pl/110/28]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F28
 [/us/pl/110/172]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F172
 [/us/pl/109/135]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F135
@@ -474,6 +483,9 @@
 [/us/pl/98/369/s721/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs721%2Fh
 [/us/pl/98/369/s721/g/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs721%2Fg%2F1
 [/us/pl/98/369/s721/t]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs721%2Ft
+[/us/pl/113/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295
+[/us/pl/113/295/s221/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs221%2Fb
+[/us/usc/t26/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs1
 [/us/pl/110/28/s8231/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F28%2Fs8231%2Fb
 [/us/stat/121/197]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F197
 [/us/pl/109/135]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F135

@@ -17,7 +17,7 @@
 
     (a) __General rule__ 
 
-    Section 421(a) shall apply with respect to the transfer of a share of stock to an individual pursuant to his exercise of an option granted after December 31, 1963, under an employee stock purchase plan (as defined in subsection (b)) if—
+    Section 421(a) shall apply with respect to the transfer of a share of stock to an individual pursuant to his exercise of an option granted under an employee stock purchase plan (as defined in subsection (b)) if—
 
         (1) no disposition of such share is made by him within 2 years after the date of the granting of the option nor within 1 year after the transfer of such share to him; and
 
@@ -87,9 +87,11 @@
 
         If the option price is not fixed or determinable at the time the option is granted, then for purposes of this subsection, the option price shall be determined as if the option were exercised at such time. In the case of the disposition of such share by the individual, the basis of the share in his hands at the time of such disposition shall be increased by an amount equal to the amount so includible in his gross income. No amount shall be required to be deducted and withheld under chapter 24 with respect to any amount treated as compensation under this subsection.
 
-(Added [Pub. L. 88–272, title II, § 221(a)][/us/pl/88/272/s221/a], Feb. 26, 1964, [78 Stat. 67][/us/stat/78/67]; amended [Pub. L. 94–455, title XIV, § 1402(b)(1)(E)][/us/pl/94/455/s1402/b/1/E], (2), Oct. 4, 1976, [90 Stat. 1732][/us/stat/90/1732]; [Pub. L. 98–369, div. A, title X, § 1001(b)(5)][/us/pl/98/369/s1001/b/5], (e), July 18, 1984, [98 Stat. 1011][/us/stat/98/1011], 1012; [Pub. L. 99–514, title XI, § 1114(b)(13)][/us/pl/99/514/s1114/b/13], Oct. 22, 1986, [100 Stat. 2451][/us/stat/100/2451]; [Pub. L. 101–508, title XI, § 11801(c)(9)(D)][/us/pl/101/508/s11801/c/9/D], (E), Nov. 5, 1990, [104 Stat. 1388–525][/us/stat/104/1388-525]; [Pub. L. 108–357, title II, § 251(c)][/us/pl/108/357/s251/c], Oct. 22, 2004, [118 Stat. 1459][/us/stat/118/1459].)
+(Added [Pub. L. 88–272, title II, § 221(a)][/us/pl/88/272/s221/a], Feb. 26, 1964, [78 Stat. 67][/us/stat/78/67]; amended [Pub. L. 94–455, title XIV, § 1402(b)(1)(E)][/us/pl/94/455/s1402/b/1/E], (2), Oct. 4, 1976, [90 Stat. 1732][/us/stat/90/1732]; [Pub. L. 98–369, div. A, title X, § 1001(b)(5)][/us/pl/98/369/s1001/b/5], (e), July 18, 1984, [98 Stat. 1011][/us/stat/98/1011], 1012; [Pub. L. 99–514, title XI, § 1114(b)(13)][/us/pl/99/514/s1114/b/13], Oct. 22, 1986, [100 Stat. 2451][/us/stat/100/2451]; [Pub. L. 101–508, title XI, § 11801(c)(9)(D)][/us/pl/101/508/s11801/c/9/D], (E), Nov. 5, 1990, [104 Stat. 1388–525][/us/stat/104/1388-525]; [Pub. L. 108–357, title II, § 251(c)][/us/pl/108/357/s251/c], Oct. 22, 2004, [118 Stat. 1459][/us/stat/118/1459]; [Pub. L. 113–295, div. A, title II, § 221(a)(56)][/us/pl/113/295/s221/a/56], Dec. 19, 2014, [128 Stat. 4046][/us/stat/128/4046].)
 
  __Amendments__ 
+
+    2014—Subsec. (a). [Pub. L. 113–295][/us/pl/113/295] struck out “after December 31, 1963,” after “option granted” in introductory provisions.
 
     2004—Subsec. (c). [Pub. L. 108–357][/us/pl/108/357] inserted at end of concluding provisions “No amount shall be required to be deducted and withheld under chapter 24 with respect to any amount treated as compensation under this subsection.”
 
@@ -106,6 +108,10 @@
     1976—Subsec. (a)(1). [Pub. L. 94–455, § 1402(b)(2)][/us/pl/94/455/s1402/b/2], provided that “9 months” would be changed to “1 year”.
 
     [Pub. L. 94–455, § 1402(b)(1)(E)][/us/pl/94/455/s1402/b/1/E], provided that “6 months” would be changed to “9 months” for taxable years beginning in 1977.
+
+ __Effective Date of 2014 Amendment__ 
+
+    Amendment by [Pub. L. 113–295][/us/pl/113/295] effective Dec. 19, 2014, subject to a savings provision, see [section 221(b) of Pub. L. 113–295][/us/pl/113/295/s221/b], set out as a note under [section 1 of this title][/us/usc/t26/s1].
 
  __Effective Date of 2004 Amendment__ 
 
@@ -160,6 +166,9 @@
 [/us/stat/104/1388-525]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1388-525
 [/us/pl/108/357/s251/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357%2Fs251%2Fc
 [/us/stat/118/1459]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1459
+[/us/pl/113/295/s221/a/56]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs221%2Fa%2F56
+[/us/stat/128/4046]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F4046
+[/us/pl/113/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295
 [/us/pl/108/357]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357
 [/us/pl/101/508/s11801/c/9/D/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs11801%2Fc%2F9%2FD%2Fi
 [/us/pl/101/508/s11801/c/9/D/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs11801%2Fc%2F9%2FD%2Fii
@@ -168,6 +177,9 @@
 [/us/pl/98/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369
 [/us/pl/94/455/s1402/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1402%2Fb%2F2
 [/us/pl/94/455/s1402/b/1/E]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1402%2Fb%2F1%2FE
+[/us/pl/113/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295
+[/us/pl/113/295/s221/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs221%2Fb
+[/us/usc/t26/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs1
 [/us/pl/108/357]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357
 [/us/pl/108/357/s251/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357%2Fs251%2Fd
 [/us/usc/t26/s421]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs421

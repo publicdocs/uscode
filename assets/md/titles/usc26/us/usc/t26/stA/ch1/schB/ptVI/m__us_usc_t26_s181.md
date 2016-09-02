@@ -95,15 +95,17 @@
 
     (f) __Termination__ 
 
-        This section shall not apply to qualified film and television productions commencing after December 31, 2013.
+        This section shall not apply to qualified film and television productions commencing after December 31, 2014.
 
-(Added [Pub. L. 108–357, title II, § 244(a)][/us/pl/108/357/s244/a], Oct. 22, 2004, [118 Stat. 1445][/us/stat/118/1445]; amended [Pub. L. 109–135, title IV, § 403(e)(1)][/us/pl/109/135/s403/e/1], Dec. 21, 2005, [119 Stat. 2623][/us/stat/119/2623]; [Pub. L. 110–343, div. C, title V, § 502(a)][/us/pl/110/343/s502/a], (b), (d), Oct. 3, 2008, [122 Stat. 3876][/us/stat/122/3876], 3877; [Pub. L. 111–312, title VII, § 744(a)][/us/pl/111/312/s744/a], Dec. 17, 2010, [124 Stat. 3319][/us/stat/124/3319]; [Pub. L. 112–240, title III, § 317(a)][/us/pl/112/240/s317/a], Jan. 2, 2013, [126 Stat. 2331][/us/stat/126/2331].)
+(Added [Pub. L. 108–357, title II, § 244(a)][/us/pl/108/357/s244/a], Oct. 22, 2004, [118 Stat. 1445][/us/stat/118/1445]; amended [Pub. L. 109–135, title IV, § 403(e)(1)][/us/pl/109/135/s403/e/1], Dec. 21, 2005, [119 Stat. 2623][/us/stat/119/2623]; [Pub. L. 110–343, div. C, title V, § 502(a)][/us/pl/110/343/s502/a], (b), (d), Oct. 3, 2008, [122 Stat. 3876][/us/stat/122/3876], 3877; [Pub. L. 111–312, title VII, § 744(a)][/us/pl/111/312/s744/a], Dec. 17, 2010, [124 Stat. 3319][/us/stat/124/3319]; [Pub. L. 112–240, title III, § 317(a)][/us/pl/112/240/s317/a], Jan. 2, 2013, [126 Stat. 2331][/us/stat/126/2331]; [Pub. L. 113–295, div. A, title I, § 129(a)][/us/pl/113/295/s129/a], Dec. 19, 2014, [128 Stat. 4018][/us/stat/128/4018].)
 
  __Prior Provisions__ 
 
     A prior section 181, [Pub. L. 87–834, § 2(c)][/us/pl/87/834/s2/c], Oct. 16, 1962, [76 Stat. 970][/us/stat/76/970], related to a deduction for unused investment credit, prior to repeal by [Pub. L. 88–272, title II, § 203(a)(3)(B)][/us/pl/88/272/s203/a/3/B], (4), Feb. 26, 1964, [78 Stat. 34][/us/stat/78/34], applicable in case of property placed in service after Dec. 31, 1963, with respect to taxable years ending after such date, and in case of property placed in service before Jan. 1, 1964, with respect to taxable years beginning after Dec. 31, 1963.
 
  __Amendments__ 
+
+    2014—Subsec. (f). [Pub. L. 113–295][/us/pl/113/295] substituted “December 31, 2014” for “December 31, 2013”.
 
     2013—Subsec. (f). [Pub. L. 112–240][/us/pl/112/240] substituted “December 31, 2013” for “December 31, 2011”.
 
@@ -116,6 +118,12 @@
     Subsec. (f). [Pub. L. 110–343, § 502(a)][/us/pl/110/343/s502/a], substituted “December 31, 2009” for “December 31, 2008”.
 
     2005—Subsec. (d)(2). [Pub. L. 109–135][/us/pl/109/135] struck out “For purposes of a television series, only the first 44 episodes of such series may be taken into account.” at end of subpar. (A), added subpar. (B), and redesignated former subpar. (B) as (C).
+
+ __Effective Dates of 2014 Amendment__ 
+
+[Pub. L. 113–295, div. A, title I, § 129(b)][/us/pl/113/295/s129/b], Dec. 19, 2014, [128 Stat. 4018][/us/stat/128/4018], provided that: 
+
+> “The amendment made by this section \[amending this section\] shall apply to productions commencing after December 31, 2013.”
 
  __Effective Date of 2013 Amendment__ 
 
@@ -170,16 +178,21 @@
 [/us/stat/124/3319]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3319
 [/us/pl/112/240/s317/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F240%2Fs317%2Fa
 [/us/stat/126/2331]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F2331
+[/us/pl/113/295/s129/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs129%2Fa
+[/us/stat/128/4018]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F4018
 [/us/pl/87/834/s2/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F834%2Fs2%2Fc
 [/us/stat/76/970]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F970
 [/us/pl/88/272/s203/a/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F272%2Fs203%2Fa%2F3%2FB
 [/us/stat/78/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F34
+[/us/pl/113/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295
 [/us/pl/112/240]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F240
 [/us/pl/111/312]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F312
 [/us/pl/110/343/s502/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F343%2Fs502%2Fb
 [/us/pl/110/343/s502/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F343%2Fs502%2Fd
 [/us/pl/110/343/s502/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F343%2Fs502%2Fa
 [/us/pl/109/135]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F135
+[/us/pl/113/295/s129/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs129%2Fb
+[/us/stat/128/4018]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F4018
 [/us/pl/112/240/s317/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F240%2Fs317%2Fb
 [/us/stat/126/2331]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F2331
 [/us/pl/111/312/s744/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F312%2Fs744%2Fb

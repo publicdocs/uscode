@@ -17,7 +17,7 @@
 
     (a) __In general__ 
 
-    In the case of a taxpayer determined by the Secretary to be affected by a federally declared disaster (as defined by section 165(h)(3)(C)(i)) or a terroristic or military action (as defined in section 692(c)(2)), the Secretary may specify a period of up to 1 year that may be disregarded in determining, under the internal revenue laws, in respect of any tax liability of such taxpayer—
+    In the case of a taxpayer determined by the Secretary to be affected by a federally declared disaster (as defined by section 165(h)(3)(C)(i))  <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  or a terroristic or military action (as defined in section 692(c)(2)), the Secretary may specify a period of up to 1 year that may be disregarded in determining, under the internal revenue laws, in respect of any tax liability of such taxpayer—
 
         (1) whether any of the acts described in paragraph (1) of section 7508(a) were performed within the time prescribed therefor (determined without regard to extension under any other provision of this subtitle for periods after the date (determined by the Secretary) of such disaster or action),
 
@@ -34,6 +34,10 @@
         The rules of section 7508(b) shall apply for purposes of this section.
 
 (Added [Pub. L. 105–34, title IX, § 911(a)][/us/pl/105/34/s911/a], Aug. 5, 1997, [111 Stat. 877][/us/stat/111/877]; amended [Pub. L. 107–16, title VIII, § 802(a)][/us/pl/107/16/s802/a], June 7, 2001, [115 Stat. 149][/us/stat/115/149]; [Pub. L. 107–134, title I, § 112(a)][/us/pl/107/134/s112/a], Jan. 23, 2002, [115 Stat. 2433][/us/stat/115/2433]; [Pub. L. 110–343, div. C, title VII, § 706(a)(2)(D)(vii)][/us/pl/110/343/s706/a/2/D/vii], Oct. 3, 2008, [122 Stat. 3922][/us/stat/122/3922].)
+
+ __References in Text__ 
+
+    Par. (3) of section 165(h), referred to in subsec. (a), was repealed by [Pub. L. 113–295, div. A, title II, § 221(a)(27)(A)][/us/pl/113/295/s221/a/27/A], Dec. 19, 2014, [128 Stat. 4040][/us/stat/128/4040]. However, the term “federally declared disaster” is defined elsewhere in that section.
 
  __Amendments__ 
 
@@ -114,6 +118,8 @@
 [/us/stat/115/2433]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F2433
 [/us/pl/110/343/s706/a/2/D/vii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F343%2Fs706%2Fa%2F2%2FD%2Fvii
 [/us/stat/122/3922]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3922
+[/us/pl/113/295/s221/a/27/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs221%2Fa%2F27%2FA
+[/us/stat/128/4040]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F4040
 [/us/pl/110/343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F343
 [/us/pl/107/134]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F134
 [/us/pl/107/16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F16

@@ -17,7 +17,7 @@
 
     (a) __General rule__ 
 
-    Under regulations prescribed by the Secretary, no tax shall be imposed under this chapter (other than under section 4121 or 4081) on the sale by the manufacturer (or under subchapter A or C of chapter 31 on the first retail sale) of an article—
+    Under regulations prescribed by the Secretary, no tax shall be imposed under this chapter (other than under section 4121 or 4081) on the sale by the manufacturer (or under subchapter C of chapter 31 on the first retail sale) of an article—
 
         (1) for use by the purchaser for further manufacture, or for resale by the purchaser to a second purchaser for use by such second purchaser in further manufacture,
 
@@ -31,7 +31,7 @@
 
         (6) to a qualified blood collector organization (as defined in section 7701(a)(49)) for such organization’s exclusive use in the collection, storage, or transportation of blood,
 
-        but only if such exportation or use is to occur before any other use. Paragraphs (4), (5), and (6) shall not apply to the tax imposed by section 4064. In the case of taxes imposed by section 4051, <sup>\[1\]</sup>  <sup><sup> 1 So in original. The comma probably should not appear. </sup></sup>  or 4071, paragraphs (4) and (5) shall not apply on and after October 1, 2016. In the case of the tax imposed by section 4131, paragraphs (3), (4), and (5) shall not apply and paragraph (2) shall apply only if the use of the exported vaccine meets such requirements as the Secretary may by regulations prescribe. In the case of taxes imposed by subchapter A of chapter 31, paragraphs (1), (3), (4), and (5) shall not apply. In the case of taxes imposed by subchapter C or D, paragraph (6) shall not apply. In the case of the tax imposed by section 4191, paragraphs (3), (4), (5), and (6) shall not apply.
+        but only if such exportation or use is to occur before any other use. Paragraphs (4), (5), and (6) shall not apply to the tax imposed by section 4064. In the case of taxes imposed by section 4051, <sup>\[1\]</sup>  <sup><sup> 1 So in original. The comma probably should not appear. </sup></sup>  or 4071, paragraphs (4) and (5) shall not apply on and after October 1, 2016. In the case of the tax imposed by section 4131, paragraphs (3), (4), and (5) shall not apply and paragraph (2) shall apply only if the use of the exported vaccine meets such requirements as the Secretary may by regulations prescribe. In the case of taxes imposed by subchapter C or D, paragraph (6) shall not apply. In the case of the tax imposed by section 4191, paragraphs (3), (4), (5), and (6) shall not apply.
 
     (b) __Proof of resale for further manufacture; proof of export__ 
 
@@ -45,7 +45,7 @@
 
     (c) __Manufacturer relieved from liability in certain cases__ 
 
-        In the case of any article sold free of tax under this section (other than a sale to which subsection (b) applies), and in the case of any article sold free of tax under section 4001(c), 4001(d), or 4053(6), if the manufacturer in good faith accepts a certification by the purchaser that the article will be used in accordance with the applicable provisions of law, no tax shall thereafter be imposed under this chapter in respect of such sale by such manufacturer.
+        In the case of any article sold free of tax under this section (other than a sale to which subsection (b) applies), and in the case of any article sold free of tax under section 4053(6), if the manufacturer in good faith accepts a certification by the purchaser that the article will be used in accordance with the applicable provisions of law, no tax shall thereafter be imposed under this chapter in respect of such sale by such manufacturer.
 
     (d) __Definitions__ 
 
@@ -53,7 +53,7 @@
 
         (1) __Manufacturer__ 
 
-            The term “manufacturer” includes a producer or importer of an article, and, in the case of taxes imposed by subchapter A or C of chapter 31, includes the retailer with respect to the first retail sale.
+            The term “manufacturer” includes a producer or importer of an article, and, in the case of taxes imposed by subchapter C of chapter 31, includes the retailer with respect to the first retail sale.
 
         (2) __Export__ 
 
@@ -129,7 +129,7 @@
 
             Under regulations prescribed by the Secretary, the tax imposed by section 4071 shall not apply in the case of tires sold for use by the purchaser on or in connection with a qualified bus.
 
-(Added [Pub. L. 85–859, title I, § 119(a)][/us/pl/85/859/s119/a], Sept. 2, 1958, [72 Stat. 1282][/us/stat/72/1282]; amended [Pub. L. 86–70, § 22(a)][/us/pl/86/70/s22/a], June 25, 1959, [73 Stat. 146][/us/stat/73/146]; [Pub. L. 86–344, § 2(b)][/us/pl/86/344/s2/b], Sept. 21, 1959, [73 Stat. 617][/us/stat/73/617]; [Pub. L. 86–418, § 1][/us/pl/86/418/s1], Apr. 8, 1960, [74 Stat. 38][/us/stat/74/38]; [Pub. L. 86–624, § 18(e)][/us/pl/86/624/s18/e], July 12, 1960, [74 Stat. 416][/us/stat/74/416]; [Pub. L. 87–61, title II, § 205(a)][/us/pl/87/61/s205/a], June 29, 1961, [75 Stat. 126][/us/stat/75/126]; [Pub. L. 89–44, title II, § 208(d)][/us/pl/89/44/s208/d], title VIII, § 801(c), (d)(1), June 21, 1965, [79 Stat. 141][/us/stat/79/141], 158; [Pub. L. 91–172, title I, § 101(j)(26)][/us/pl/91/172/s101/j/26], Dec. 30, 1969, [83 Stat. 529][/us/stat/83/529]; [Pub. L. 92–178, title IV, § 401(a)(3)(A)][/us/pl/92/178/s401/a/3/A], Dec. 10, 1971, [85 Stat. 531][/us/stat/85/531]; [Pub. L. 94–455, title XIX, § 1906(b)(13)(A)][/us/pl/94/455/s1906/b/13/A], Oct. 4, 1976, [90 Stat. 1834][/us/stat/90/1834]; [Pub. L. 95–227, § 2(b)(2)][/us/pl/95/227/s2/b/2], Feb. 10, 1978, [92 Stat. 12][/us/stat/92/12]; [Pub. L. 95–600, title VII, § 701(ff)(2)(A)][/us/pl/95/600/s701/ff/2/A], Nov. 6, 1978, [92 Stat. 2924][/us/stat/92/2924]; [Pub. L. 95–618, title II][/us/pl/95/618], §§ 201(c)(1), 232(a), 233(c)(1), (2), Nov. 9, 1978, [92 Stat. 3183][/us/stat/92/3183], 3189, 3191, 3192; [Pub. L. 96–222, title I, § 108(c)(5)][/us/pl/96/222/s108/c/5], Apr. 1, 1980, [94 Stat. 227][/us/stat/94/227]; [Pub. L. 97–424, title V][/us/pl/97/424], §§ 515(b)(1), 516(b)(2), Jan. 6, 1983, [96 Stat. 2181][/us/stat/96/2181], 2183; [Pub. L. 98–369, div. A, title VII, § 735(c)(8)][/us/pl/98/369/s735/c/8], July 18, 1984, [98 Stat. 983][/us/stat/98/983]; [Pub. L. 99–499, title V, § 521(d)(4)][/us/pl/99/499/s521/d/4], Oct. 17, 1986, [100 Stat. 1779][/us/stat/100/1779]; [Pub. L. 99–514, title XVII, § 1703(c)(2)(C)][/us/pl/99/514/s1703/c/2/C], Oct. 22, 1986, [100 Stat. 2776][/us/stat/100/2776]; [Pub. L. 100–17, title V, § 502(b)(4)][/us/pl/100/17/s502/b/4], Apr. 2, 1987, [101 Stat. 257][/us/stat/101/257]; [Pub. L. 100–203, title IX, § 9201(b)(1)][/us/pl/100/203/s9201/b/1], title X, § 10502(d)(4), Dec. 22, 1987, [101 Stat. 1330–330][/us/stat/101/1330-330], 1330–444; [Pub. L. 101–239, title VII, § 7841(d)(17)][/us/pl/101/239/s7841/d/17], Dec. 19, 1989, [103 Stat. 2429][/us/stat/103/2429]; [Pub. L. 101–508, title XI][/us/pl/101/508], §§ 11211(d)(3), 11221(b), (d)(1), (2), Nov. 5, 1990, [104 Stat. 1388–427][/us/stat/104/1388-427], 1388–444; [Pub. L. 102–240, title VIII, § 8002(b)(3)][/us/pl/102/240/s8002/b/3], Dec. 18, 1991, [105 Stat. 2203][/us/stat/105/2203]; [Pub. L. 103–66, title XIII, § 13161(b)(1)][/us/pl/103/66/s13161/b/1], Aug. 10, 1993, [107 Stat. 452][/us/stat/107/452]; [Pub. L. 105–178, title IX, § 9002(b)(1)][/us/pl/105/178/s9002/b/1], June 9, 1998, [112 Stat. 500][/us/stat/112/500]; [Pub. L. 105–206, title VI, § 6023(17)][/us/pl/105/206/s6023/17], July 22, 1998, [112 Stat. 825][/us/stat/112/825]; [Pub. L. 108–357, title VIII, § 853(d)(2)(F)][/us/pl/108/357/s853/d/2/F], Oct. 22, 2004, [118 Stat. 1613][/us/stat/118/1613]; [Pub. L. 109–59, title XI, § 11101(b)(1)][/us/pl/109/59/s11101/b/1], Aug. 10, 2005, [119 Stat. 1944][/us/stat/119/1944]; [Pub. L. 109–280, title XII, § 1207(b)(1)][/us/pl/109/280/s1207/b/1]–(3)(A), Aug. 17, 2006, [120 Stat. 1070][/us/stat/120/1070]; [Pub. L. 111–152, title I, § 1405(b)(1)][/us/pl/111/152/s1405/b/1], Mar. 30, 2010, [124 Stat. 1065][/us/stat/124/1065]; [Pub. L. 112–30, title I, § 142(d)][/us/pl/112/30/s142/d], Sept. 16, 2011, [125 Stat. 356][/us/stat/125/356]; [Pub. L. 112–102, title IV, § 402(d)][/us/pl/112/102/s402/d], Mar. 30, 2012, [126 Stat. 282][/us/stat/126/282]; [Pub. L. 112–140, title IV, § 402(c)][/us/pl/112/140/s402/c], June 29, 2012, [126 Stat. 403][/us/stat/126/403]; [Pub. L. 112–141, div. D, title I, § 40102(d)(1)][/us/pl/112/141/s40102/d/1], July 6, 2012, [126 Stat. 845][/us/stat/126/845].)
+(Added [Pub. L. 85–859, title I, § 119(a)][/us/pl/85/859/s119/a], Sept. 2, 1958, [72 Stat. 1282][/us/stat/72/1282]; amended [Pub. L. 86–70, § 22(a)][/us/pl/86/70/s22/a], June 25, 1959, [73 Stat. 146][/us/stat/73/146]; [Pub. L. 86–344, § 2(b)][/us/pl/86/344/s2/b], Sept. 21, 1959, [73 Stat. 617][/us/stat/73/617]; [Pub. L. 86–418, § 1][/us/pl/86/418/s1], Apr. 8, 1960, [74 Stat. 38][/us/stat/74/38]; [Pub. L. 86–624, § 18(e)][/us/pl/86/624/s18/e], July 12, 1960, [74 Stat. 416][/us/stat/74/416]; [Pub. L. 87–61, title II, § 205(a)][/us/pl/87/61/s205/a], June 29, 1961, [75 Stat. 126][/us/stat/75/126]; [Pub. L. 89–44, title II, § 208(d)][/us/pl/89/44/s208/d], title VIII, § 801(c), (d)(1), June 21, 1965, [79 Stat. 141][/us/stat/79/141], 158; [Pub. L. 91–172, title I, § 101(j)(26)][/us/pl/91/172/s101/j/26], Dec. 30, 1969, [83 Stat. 529][/us/stat/83/529]; [Pub. L. 92–178, title IV, § 401(a)(3)(A)][/us/pl/92/178/s401/a/3/A], Dec. 10, 1971, [85 Stat. 531][/us/stat/85/531]; [Pub. L. 94–455, title XIX, § 1906(b)(13)(A)][/us/pl/94/455/s1906/b/13/A], Oct. 4, 1976, [90 Stat. 1834][/us/stat/90/1834]; [Pub. L. 95–227, § 2(b)(2)][/us/pl/95/227/s2/b/2], Feb. 10, 1978, [92 Stat. 12][/us/stat/92/12]; [Pub. L. 95–600, title VII, § 701(ff)(2)(A)][/us/pl/95/600/s701/ff/2/A], Nov. 6, 1978, [92 Stat. 2924][/us/stat/92/2924]; [Pub. L. 95–618, title II][/us/pl/95/618], §§ 201(c)(1), 232(a), 233(c)(1), (2), Nov. 9, 1978, [92 Stat. 3183][/us/stat/92/3183], 3189, 3191, 3192; [Pub. L. 96–222, title I, § 108(c)(5)][/us/pl/96/222/s108/c/5], Apr. 1, 1980, [94 Stat. 227][/us/stat/94/227]; [Pub. L. 97–424, title V][/us/pl/97/424], §§ 515(b)(1), 516(b)(2), Jan. 6, 1983, [96 Stat. 2181][/us/stat/96/2181], 2183; [Pub. L. 98–369, div. A, title VII, § 735(c)(8)][/us/pl/98/369/s735/c/8], July 18, 1984, [98 Stat. 983][/us/stat/98/983]; [Pub. L. 99–499, title V, § 521(d)(4)][/us/pl/99/499/s521/d/4], Oct. 17, 1986, [100 Stat. 1779][/us/stat/100/1779]; [Pub. L. 99–514, title XVII, § 1703(c)(2)(C)][/us/pl/99/514/s1703/c/2/C], Oct. 22, 1986, [100 Stat. 2776][/us/stat/100/2776]; [Pub. L. 100–17, title V, § 502(b)(4)][/us/pl/100/17/s502/b/4], Apr. 2, 1987, [101 Stat. 257][/us/stat/101/257]; [Pub. L. 100–203, title IX, § 9201(b)(1)][/us/pl/100/203/s9201/b/1], title X, § 10502(d)(4), Dec. 22, 1987, [101 Stat. 1330–330][/us/stat/101/1330-330], 1330–444; [Pub. L. 101–239, title VII, § 7841(d)(17)][/us/pl/101/239/s7841/d/17], Dec. 19, 1989, [103 Stat. 2429][/us/stat/103/2429]; [Pub. L. 101–508, title XI][/us/pl/101/508], §§ 11211(d)(3), 11221(b), (d)(1), (2), Nov. 5, 1990, [104 Stat. 1388–427][/us/stat/104/1388-427], 1388–444; [Pub. L. 102–240, title VIII, § 8002(b)(3)][/us/pl/102/240/s8002/b/3], Dec. 18, 1991, [105 Stat. 2203][/us/stat/105/2203]; [Pub. L. 103–66, title XIII, § 13161(b)(1)][/us/pl/103/66/s13161/b/1], Aug. 10, 1993, [107 Stat. 452][/us/stat/107/452]; [Pub. L. 105–178, title IX, § 9002(b)(1)][/us/pl/105/178/s9002/b/1], June 9, 1998, [112 Stat. 500][/us/stat/112/500]; [Pub. L. 105–206, title VI, § 6023(17)][/us/pl/105/206/s6023/17], July 22, 1998, [112 Stat. 825][/us/stat/112/825]; [Pub. L. 108–357, title VIII, § 853(d)(2)(F)][/us/pl/108/357/s853/d/2/F], Oct. 22, 2004, [118 Stat. 1613][/us/stat/118/1613]; [Pub. L. 109–59, title XI, § 11101(b)(1)][/us/pl/109/59/s11101/b/1], Aug. 10, 2005, [119 Stat. 1944][/us/stat/119/1944]; [Pub. L. 109–280, title XII, § 1207(b)(1)][/us/pl/109/280/s1207/b/1]–(3)(A), Aug. 17, 2006, [120 Stat. 1070][/us/stat/120/1070]; [Pub. L. 111–152, title I, § 1405(b)(1)][/us/pl/111/152/s1405/b/1], Mar. 30, 2010, [124 Stat. 1065][/us/stat/124/1065]; [Pub. L. 112–30, title I, § 142(d)][/us/pl/112/30/s142/d], Sept. 16, 2011, [125 Stat. 356][/us/stat/125/356]; [Pub. L. 112–102, title IV, § 402(d)][/us/pl/112/102/s402/d], Mar. 30, 2012, [126 Stat. 282][/us/stat/126/282]; [Pub. L. 112–140, title IV, § 402(c)][/us/pl/112/140/s402/c], June 29, 2012, [126 Stat. 403][/us/stat/126/403]; [Pub. L. 112–141, div. D, title I, § 40102(d)(1)][/us/pl/112/141/s40102/d/1], July 6, 2012, [126 Stat. 845][/us/stat/126/845]; [Pub. L. 113–295, div. A, title II, § 221(a)(103)(B)(i)][/us/pl/113/295/s221/a/103/B/i], Dec. 19, 2014, [128 Stat. 4052][/us/stat/128/4052].)
 
  __Codification__ 
 
@@ -140,6 +140,14 @@
     A prior section 4221, [act Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 495][/us/stat/68A/495], related to exemption for articles taxable as jewelry, prior to repeal by [Pub. L. 85–859, § 119(a)][/us/pl/85/859/s119/a].
 
  __Amendments__ 
+
+    2014—Subsec. (a). [Pub. L. 113–295, § 221(a)(103)(B)(i)(II)][/us/pl/113/295/s221/a/103/B/i/II], struck out “In the case of taxes imposed by subchapter A of chapter 31, paragraphs (1), (3), (4), and (5) shall not apply.” after “regulations prescribe.” in concluding provisions.
+
+    [Pub. L. 113–295, § 221(a)(103)(B)(i)(I)][/us/pl/113/295/s221/a/103/B/i/I], substituted “subchapter” for “subchapter A or” in introductory provisions.
+
+    Subsec. (c). [Pub. L. 113–295, § 221(a)(103)(B)(i)(III)][/us/pl/113/295/s221/a/103/B/i/III], struck out “4001(c), 4001(d), or” after “tax under section”.
+
+    Subsec. (d)(1). [Pub. L. 113–295, § 221(a)(103)(B)(i)(I)][/us/pl/113/295/s221/a/103/B/i/I], substituted “subchapter” for “subchapter A or”.
 
     2012—Subsec. (a). [Pub. L. 112–141][/us/pl/112/141] substituted “October 1, 2016” for “July 1, 2012” in concluding provisions.
 
@@ -249,6 +257,10 @@
 
     Subsec. (d)(5). [Pub. L. 86–344][/us/pl/86/344] included in definition of “nonprofit educational organization” a school operated as an activity of certain organizations exempt from the income tax and having a regular situs, faculty, curriculum and student body.
 
+ __Effective Date of 2014 Amendment__ 
+
+    Amendment by [Pub. L. 113–295][/us/pl/113/295] effective Dec. 19, 2014, subject to a savings provision, see [section 221(b) of Pub. L. 113–295][/us/pl/113/295/s221/b], set out as a note under [section 1 of this title][/us/usc/t26/s1].
+
  __Effective and Termination Dates of 2012 Amendment__ 
 
     Amendment by [Pub. L. 112–141][/us/pl/112/141] effective July 1, 2012, see [section 40102(f) of Pub. L. 112–141][/us/pl/112/141/s40102/f], set out as a note under section 460l–11 of Title 16, Conservation.
@@ -277,11 +289,21 @@
 
  __Effective Date of 1993 Amendment__ 
 
-    Amendment by [Pub. L. 103–66][/us/pl/103/66] effective Jan. 1, 1993, see [section 13161(c) of Pub. L. 103–66][/us/pl/103/66/s13161/c], set out as a note under [section 4001 of this title][/us/usc/t26/s4001].
+[Pub. L. 103–66, title XIII, § 13161(c)][/us/pl/103/66/s13161/c], Aug. 10, 1993, [107 Stat. 453][/us/stat/107/453], provided that: 
+
+> “The amendments made by this section \[amending this section and sections 4001 to 4003 and 4222 of this title and omitting sections 4004, 4006, 4007, 4011, and 4012 of this title\] shall take effect on January 1, 1993, except that the provisions of section 4001(e) of the Internal Revenue Code of 1986 (as amended by subsection (a)) shall take effect on the date of the enactment of this Act \[Aug. 10, 1993\].”
 
  __Effective Date of 1990 Amendment__ 
 
-    Amendment by section 11221(b), (d)(1), (2) of [Pub. L. 101–508][/us/pl/101/508] effective Jan. 1, 1991, with exception for contracts binding on Sept. 30, 1990, and at all times thereafter, see [section 11221(f) of Pub. L. 101–508][/us/pl/101/508/s11221/f], set out as an Effective Date note under [section 4001 of this title][/us/usc/t26/s4001].
+[Pub. L. 101–508, title XI, § 11221(f)][/us/pl/101/508/s11221/f], Nov. 5, 1990, [104 Stat. 1388–444][/us/stat/104/1388-444], provided that:
+
+>     “(1)  __In general__  __.—__ 
+
+>     The amendments made by this section \[enacting subchapter A of this chapter, redesignating former subchapters A and B of this chapter as subchapters B and C, respectively, and amending this section and sections 4222 and 4293 of this title\] shall take effect on January 1, 1991.
+
+>     “(2)  __Exception for binding contracts__  __.—__ 
+
+>     In determining whether any tax imposed by subchapter A of chapter 31 of the Internal Revenue Code of 1986, as added by this section, applies to any sale after December 31, 1990, there shall not be taken into account the amount paid for any article (or any part or accessory therefor) if the purchaser held on September 30, 1990, a contract (which was binding on such date and at all times thereafter before the purchase) for the purchase of such article (or such part or accessory).”
 
  __Effective Date of 1987 Amendments__ 
 
@@ -438,10 +460,16 @@
 [/us/stat/126/403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F403
 [/us/pl/112/141/s40102/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs40102%2Fd%2F1
 [/us/stat/126/845]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F845
+[/us/pl/113/295/s221/a/103/B/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs221%2Fa%2F103%2FB%2Fi
+[/us/stat/128/4052]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F4052
 [/us/pl/109/280]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280
 [/us/act/1954-08-16/ch736]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-16%2Fch736
 [/us/stat/68A/495]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68A%2F495
 [/us/pl/85/859/s119/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F859%2Fs119%2Fa
+[/us/pl/113/295/s221/a/103/B/i/II]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs221%2Fa%2F103%2FB%2Fi%2FII
+[/us/pl/113/295/s221/a/103/B/i/I]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs221%2Fa%2F103%2FB%2Fi%2FI
+[/us/pl/113/295/s221/a/103/B/i/III]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs221%2Fa%2F103%2FB%2Fi%2FIII
+[/us/pl/113/295/s221/a/103/B/i/I]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs221%2Fa%2F103%2FB%2Fi%2FI
 [/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
 [/us/pl/112/140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F140
 [/us/pl/112/102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F102
@@ -499,6 +527,9 @@
 [/us/pl/86/418]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F418
 [/us/pl/86/70]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F70
 [/us/pl/86/344]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F344
+[/us/pl/113/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295
+[/us/pl/113/295/s221/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs221%2Fb
+[/us/usc/t26/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs1
 [/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
 [/us/pl/112/141/s40102/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs40102%2Ff
 [/us/pl/112/140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F140
@@ -522,12 +553,10 @@
 [/us/pl/108/357]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357
 [/us/pl/108/357/s853/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357%2Fs853%2Fe
 [/us/usc/t26/s4041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs4041
-[/us/pl/103/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66
 [/us/pl/103/66/s13161/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66%2Fs13161%2Fc
-[/us/usc/t26/s4001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs4001
-[/us/pl/101/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508
+[/us/stat/107/453]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F453
 [/us/pl/101/508/s11221/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs11221%2Ff
-[/us/usc/t26/s4001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs4001
+[/us/stat/104/1388-444]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1388-444
 [/us/pl/100/647/s1017/c/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs1017%2Fc%2F5
 [/us/stat/102/3576]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3576
 [/us/pl/100/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203

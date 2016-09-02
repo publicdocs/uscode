@@ -49,9 +49,9 @@
 
   <tr>
 
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs244" data-uslm-ref="/us/usc/t26/s244">244.</a>  </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs244" data-uslm-ref="/us/usc/t26/s244">244.</a>  </td>
 
-    <td> Dividends received on certain preferred stock.  </td>
+    <td> Repealed.]  </td>
 
   </tr>
 
@@ -81,9 +81,9 @@
 
   <tr>
 
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs247" data-uslm-ref="/us/usc/t26/s247">247.</a>  </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs247" data-uslm-ref="/us/usc/t26/s247">247.</a>  </td>
 
-    <td> Dividends paid on certain preferred stock of public utilities.  </td>
+    <td> Repealed.]  </td>
 
   </tr>
 
@@ -115,6 +115,8 @@
 
  __Amendments__ 
 
+    2014—[Pub. L. 113–295, div. A, title II, § 221(a)(41)(A)][/us/pl/113/295/s221/a/41/A], Dec. 19, 2014, [128 Stat. 4043][/us/stat/128/4043], struck out item 244 “Dividends received on certain preferred stock” and item 247 “Dividends paid on certain preferred stock of public utilities”.
+
     1990—[Pub. L. 101–508, title XI, § 11801(b)(4)][/us/pl/101/508/s11801/b/4], Nov. 5, 1990, [104 Stat. 1388–522][/us/stat/104/1388-522], struck out item 250 “Certain payments to the National Railroad Passenger Corporation”.
 
     1984—[Pub. L. 98–369, div. A, title I, § 51(b)][/us/pl/98/369/s51/b], July 18, 1984, [98 Stat. 564][/us/stat/98/564], added item 246A.
@@ -132,6 +134,8 @@
 ----------
 ----------
 
+[/us/pl/113/295/s221/a/41/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs221%2Fa%2F41%2FA
+[/us/stat/128/4043]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F4043
 [/us/pl/101/508/s11801/b/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs11801%2Fb%2F4
 [/us/stat/104/1388-522]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1388-522
 [/us/pl/98/369/s51/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs51%2Fb

@@ -101,7 +101,7 @@
 
             (A) __In general__ 
 
-            A corporation that fails to meet the requirements of subsection (b)(3) (other than a failure described in subparagraph (B)(i)) for such quarter shall nevertheless be considered to have satisfied the requirements of such subsection for such quarter if—
+            A corporation that fails to meet the requirements of subsection (b)(3) (other than a failure described in subparagraph (B)(i) of this paragraph) for such quarter shall nevertheless be considered to have satisfied the requirements of such subsection for such quarter if—
 
                 (i) following the corporation’s identification of the failure to satisfy the requirements of such subsection for such quarter, a description of each asset that causes the corporation to fail to satisfy the requirements of such subsection at the close of such quarter is set forth in a schedule for such quarter filed in the manner provided by the Secretary,
 
@@ -227,13 +227,15 @@
 
             (B) ⅑ of the gross income of such company which is derived from such sources.
 
-([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 268][/us/stat/68A/268]; [Pub. L. 85–866, title I, § 38][/us/pl/85/866/s38], Sept. 2, 1958, [72 Stat. 1638][/us/stat/72/1638]; [Pub. L. 91–172, title IX, § 908(a)][/us/pl/91/172/s908/a], Dec. 30, 1969, [83 Stat. 717][/us/stat/83/717]; [Pub. L. 94–12, title VI, § 602(a)(2)][/us/pl/94/12/s602/a/2], Mar. 29, 1975, [89 Stat. 58][/us/stat/89/58]; [Pub. L. 94–455, title XIX][/us/pl/94/455], §§ 1901(a)(109), 1906(b)(13)(A), Oct. 4, 1976, [90 Stat. 1783][/us/stat/90/1783], 1834; [Pub. L. 95–345, § 2(a)(3)][/us/pl/95/345/s2/a/3], Aug. 15, 1978, [92 Stat. 481][/us/stat/92/481]; [Pub. L. 95–600, title VII, § 701(s)(1)][/us/pl/95/600/s701/s/1], Nov. 6, 1978, [92 Stat. 2911][/us/stat/92/2911]; [Pub. L. 97–424, title V, § 547(b)(1)][/us/pl/97/424/s547/b/1], Jan. 6, 1983, [96 Stat. 2199][/us/stat/96/2199]; [Pub. L. 98–369, div. A, title X, § 1071(a)(1)][/us/pl/98/369/s1071/a/1], July 18, 1984, [98 Stat. 1049][/us/stat/98/1049]; [Pub. L. 99–514, title VI][/us/pl/99/514], §§ 652(a), (b), 653(a)–(c), 654(a), title XII, § 1235(f)(3), Oct. 22, 1986, [100 Stat. 2297][/us/stat/100/2297], 2298, 2575; [Pub. L. 100–647, title I, § 1006(m)][/us/pl/100/647/s1006/m], (n)(1), (2)(A), (B), (4), (5), (o), Nov. 10, 1988, [102 Stat. 3415][/us/stat/102/3415], 3416; [Pub. L. 105–34, title XII, § 1271(a)][/us/pl/105/34/s1271/a]–(b)(7), Aug. 5, 1997, [111 Stat. 1036][/us/stat/111/1036], 1037; [Pub. L. 108–357, title III, § 331(a)][/us/pl/108/357/s331/a]–(d), (f), Oct. 22, 2004, [118 Stat. 1476][/us/stat/118/1476]; [Pub. L. 111–325, title II, § 201(a)][/us/pl/111/325/s201/a], (b), Dec. 22, 2010, [124 Stat. 3539][/us/stat/124/3539], 3540.)
+([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 268][/us/stat/68A/268]; [Pub. L. 85–866, title I, § 38][/us/pl/85/866/s38], Sept. 2, 1958, [72 Stat. 1638][/us/stat/72/1638]; [Pub. L. 91–172, title IX, § 908(a)][/us/pl/91/172/s908/a], Dec. 30, 1969, [83 Stat. 717][/us/stat/83/717]; [Pub. L. 94–12, title VI, § 602(a)(2)][/us/pl/94/12/s602/a/2], Mar. 29, 1975, [89 Stat. 58][/us/stat/89/58]; [Pub. L. 94–455, title XIX][/us/pl/94/455], §§ 1901(a)(109), 1906(b)(13)(A), Oct. 4, 1976, [90 Stat. 1783][/us/stat/90/1783], 1834; [Pub. L. 95–345, § 2(a)(3)][/us/pl/95/345/s2/a/3], Aug. 15, 1978, [92 Stat. 481][/us/stat/92/481]; [Pub. L. 95–600, title VII, § 701(s)(1)][/us/pl/95/600/s701/s/1], Nov. 6, 1978, [92 Stat. 2911][/us/stat/92/2911]; [Pub. L. 97–424, title V, § 547(b)(1)][/us/pl/97/424/s547/b/1], Jan. 6, 1983, [96 Stat. 2199][/us/stat/96/2199]; [Pub. L. 98–369, div. A, title X, § 1071(a)(1)][/us/pl/98/369/s1071/a/1], July 18, 1984, [98 Stat. 1049][/us/stat/98/1049]; [Pub. L. 99–514, title VI][/us/pl/99/514], §§ 652(a), (b), 653(a)–(c), 654(a), title XII, § 1235(f)(3), Oct. 22, 1986, [100 Stat. 2297][/us/stat/100/2297], 2298, 2575; [Pub. L. 100–647, title I, § 1006(m)][/us/pl/100/647/s1006/m], (n)(1), (2)(A), (B), (4), (5), (o), Nov. 10, 1988, [102 Stat. 3415][/us/stat/102/3415], 3416; [Pub. L. 105–34, title XII, § 1271(a)][/us/pl/105/34/s1271/a]–(b)(7), Aug. 5, 1997, [111 Stat. 1036][/us/stat/111/1036], 1037; [Pub. L. 108–357, title III, § 331(a)][/us/pl/108/357/s331/a]–(d), (f), Oct. 22, 2004, [118 Stat. 1476][/us/stat/118/1476]; [Pub. L. 111–325, title II, § 201(a)][/us/pl/111/325/s201/a], (b), Dec. 22, 2010, [124 Stat. 3539][/us/stat/124/3539], 3540; [Pub. L. 113–295, div. A, title II, § 205(e)][/us/pl/113/295/s205/e], Dec. 19, 2014, [128 Stat. 4027][/us/stat/128/4027].)
 
  __References in Text__ 
 
     The Investment Company Act of 1940, as amended, referred to in subsecs. (a)(1), (b)(2)(A), (c)(6), and (f)(1), is title I of [act Aug. 22, 1940, ch. 686][/us/act/1940-08-22/ch686], [54 Stat. 789][/us/stat/54/789], as amended, which is classified generally to subchapter I (§ 80a–1 et seq.) of chapter 2D of Title 15, Commerce and Trade. Section 2(a)(36) of the Act is classified to [section 80a–2(a)(36) of Title 15][/us/usc/t15/s80a–2/a/36]. For complete classification of this Act to the Code, see [section 80a–51 of Title 15][/us/usc/t15/s80a–51] and Tables.
 
  __Amendments__ 
+
+    2014—Subsec. (d)(2)(A). [Pub. L. 113–295][/us/pl/113/295] inserted “of this paragraph” after “subparagraph (B)(i)” in introductory provisions.
 
     2010—Subsec. (d). [Pub. L. 111–325, § 201(a)][/us/pl/111/325/s201/a], designated existing provisions as par. (1), inserted heading, and added par. (2).
 
@@ -328,6 +330,10 @@
     1958—Subsec. (e)(1). [Pub. L. 85–866, § 38(a)][/us/pl/85/866/s38/a], substituted “not earlier than 60 days” for “not less than 60 days” in first sentence.
 
     Subsec. (e)(2). [Pub. L. 85–866, § 38(b)][/us/pl/85/866/s38/b], substituted “issuer” for “issues”.
+
+ __Effective Date of 2014 Amendment__ 
+
+    Amendment by [Pub. L. 113–295][/us/pl/113/295] effective as if included in the provision of the Regulated Investment Company Modernization Act of 2010, [Pub. L. 111–325][/us/pl/111/325], to which such amendment relates, with savings provision in certain cases of an election by a regulated investment company under [section 852(b)(8) of this title][/us/usc/t26/s852/b/8], see [section 205(f) of Pub. L. 113–295][/us/pl/113/295/s205/f], set out as a note under [section 852 of this title][/us/usc/t26/s852].
 
  __Effective Date of 2010 Amendment__ 
 
@@ -444,10 +450,13 @@
 [/us/stat/118/1476]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1476
 [/us/pl/111/325/s201/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F325%2Fs201%2Fa
 [/us/stat/124/3539]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3539
+[/us/pl/113/295/s205/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs205%2Fe
+[/us/stat/128/4027]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F4027
 [/us/act/1940-08-22/ch686]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1940-08-22%2Fch686
 [/us/stat/54/789]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F54%2F789
 [/us/usc/t15/s80a–2/a/36]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs80a%E2%80%932%2Fa%2F36
 [/us/usc/t15/s80a–51]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs80a%E2%80%9351
+[/us/pl/113/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295
 [/us/pl/111/325/s201/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F325%2Fs201%2Fa
 [/us/pl/111/325/s201/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F325%2Fs201%2Fb
 [/us/pl/108/357/s331/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357%2Fs331%2Fb
@@ -495,6 +504,11 @@
 [/us/pl/91/172]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F172
 [/us/pl/85/866/s38/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F866%2Fs38%2Fa
 [/us/pl/85/866/s38/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F866%2Fs38%2Fb
+[/us/pl/113/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295
+[/us/pl/111/325]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F325
+[/us/usc/t26/s852/b/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs852%2Fb%2F8
+[/us/pl/113/295/s205/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs205%2Ff
+[/us/usc/t26/s852]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs852
 [/us/pl/111/325/s201/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F325%2Fs201%2Fd
 [/us/stat/124/3541]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3541
 [/us/usc/t26/s852]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs852

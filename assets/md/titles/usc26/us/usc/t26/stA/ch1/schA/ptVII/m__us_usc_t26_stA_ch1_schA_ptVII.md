@@ -13,25 +13,7 @@
 
 [Previous](./../../../../../../..//us/usc/t26/stA/ch1/schA/ptVI/m__us_usc_t26_s59.md) | [Next](./../../../../../../..//us/usc/t26/stA/ch1/schA/ptVII/m__us_usc_t26_s59A.md) | [Root of Title](./../../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2FstA%2Fch1%2FschA%2FptVII)
 
-##### PART VII—ENVIRONMENTAL TAX
-
-<table>
-
-  <tr>
-
-    <td> Sec.  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs59A" data-uslm-ref="/us/usc/t26/s59A">59A.</a>  </td>
-
-    <td> Environmental tax.  </td>
-
-  </tr>
-
-</table>
+##### \[PART VII—REPEALED\]
 
 ----------
 

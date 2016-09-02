@@ -21,7 +21,7 @@
 
  __Effective Date__ 
 
-    Section applicable to estates of decedents dying after Sept. 2, 1958, see [section 102(d) of Pub. L. 85–866][/us/pl/85/866/s102/d], set out as an Effective Date of 1958 Amendment note under [section 2011 of this title][/us/usc/t26/s2011].
+    Section applicable to estates of decedents dying after Sept. 2, 1958, see [section 102(d) of Pub. L. 85–866][/us/pl/85/866/s102/d], set out as an Effective Date of 1958 Amendment note under [section 2014 of this title][/us/usc/t26/s2014].
 
 ----------
 
@@ -33,6 +33,6 @@
 [/us/pl/85/866/s102/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F866%2Fs102%2Fa
 [/us/stat/72/1674]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F1674
 [/us/pl/85/866/s102/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F866%2Fs102%2Fd
-[/us/usc/t26/s2011]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs2011
+[/us/usc/t26/s2014]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs2014
 
 

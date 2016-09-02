@@ -19,7 +19,7 @@
 
         (1) __In general__ 
 
-            A foreign corporation engaged in trade or business within the United States during the taxable year shall be taxable as provided in section 11, 55, 59A, or 1201(a) on its taxable income which is effectively connected with the conduct of a trade or business within the United States.
+            A foreign corporation engaged in trade or business within the United States during the taxable year shall be taxable as provided in section 11, 55, or 1201(a) on its taxable income which is effectively connected with the conduct of a trade or business within the United States.
 
         (2) __Determination of taxable income__ 
 
@@ -89,9 +89,11 @@
 
         If any foreign corporation has no office or place of business in the United States but has an agent in the United States, the return required under section 6012 shall be made by the agent.
 
-([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 282][/us/stat/68A/282]; [Pub. L. 89–809, title I, § 104(b)(1)][/us/pl/89/809/s104/b/1], Nov. 13, 1966, [80 Stat. 1555][/us/stat/80/1555]; [Pub. L. 94–455, title XIX, § 1906(b)(13)(A)][/us/pl/94/455/s1906/b/13/A], Oct. 4, 1976, [90 Stat. 1834][/us/stat/90/1834]; [Pub. L. 95–600, title III, § 301(b)(13)][/us/pl/95/600/s301/b/13], Nov. 6, 1978, [92 Stat. 2822][/us/stat/92/2822]; [Pub. L. 96–499, title XI, § 1122(c)(2)][/us/pl/96/499/s1122/c/2], Dec. 5, 1980, [94 Stat. 2687][/us/stat/94/2687]; [Pub. L. 97–424, title V, § 515(b)(6)(F)][/us/pl/97/424/s515/b/6/F], Jan. 6, 1983, [96 Stat. 2182][/us/stat/96/2182]; [Pub. L. 98–369, div. A, title IV, § 474(r)(19)][/us/pl/98/369/s474/r/19], July 18, 1984, [98 Stat. 843][/us/stat/98/843]; [Pub. L. 99–514, title VII, § 701(e)(4)(F)][/us/pl/99/514/s701/e/4/F], title XII, § 1236(a), Oct. 22, 1986, [100 Stat. 2343][/us/stat/100/2343], 2576; [Pub. L. 100–647, title I, § 1012(s)(2)(B)][/us/pl/100/647/s1012/s/2/B], title II, § 2001(c)(2), title VI, § 6133(a), Nov. 10, 1988, [102 Stat. 3527][/us/stat/102/3527], 3594, 3721.)
+([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 282][/us/stat/68A/282]; [Pub. L. 89–809, title I, § 104(b)(1)][/us/pl/89/809/s104/b/1], Nov. 13, 1966, [80 Stat. 1555][/us/stat/80/1555]; [Pub. L. 94–455, title XIX, § 1906(b)(13)(A)][/us/pl/94/455/s1906/b/13/A], Oct. 4, 1976, [90 Stat. 1834][/us/stat/90/1834]; [Pub. L. 95–600, title III, § 301(b)(13)][/us/pl/95/600/s301/b/13], Nov. 6, 1978, [92 Stat. 2822][/us/stat/92/2822]; [Pub. L. 96–499, title XI, § 1122(c)(2)][/us/pl/96/499/s1122/c/2], Dec. 5, 1980, [94 Stat. 2687][/us/stat/94/2687]; [Pub. L. 97–424, title V, § 515(b)(6)(F)][/us/pl/97/424/s515/b/6/F], Jan. 6, 1983, [96 Stat. 2182][/us/stat/96/2182]; [Pub. L. 98–369, div. A, title IV, § 474(r)(19)][/us/pl/98/369/s474/r/19], July 18, 1984, [98 Stat. 843][/us/stat/98/843]; [Pub. L. 99–514, title VII, § 701(e)(4)(F)][/us/pl/99/514/s701/e/4/F], title XII, § 1236(a), Oct. 22, 1986, [100 Stat. 2343][/us/stat/100/2343], 2576; [Pub. L. 100–647, title I, § 1012(s)(2)(B)][/us/pl/100/647/s1012/s/2/B], title II, § 2001(c)(2), title VI, § 6133(a), Nov. 10, 1988, [102 Stat. 3527][/us/stat/102/3527], 3594, 3721; [Pub. L. 113–295, div. A, title II, § 221(a)(12)(F)][/us/pl/113/295/s221/a/12/F], Dec. 19, 2014, [128 Stat. 4038][/us/stat/128/4038].)
 
  __Amendments__ 
+
+    2014—Subsec. (a)(1). [Pub. L. 113–295][/us/pl/113/295] struck out “, 59A” after “section 11, 55”.
 
     1988—Subsec. (a)(1). [Pub. L. 100–647, § 2001(c)(2)][/us/pl/100/647/s2001/c/2], inserted reference to section 59A.
 
@@ -114,6 +116,10 @@
     1976—Subsecs. (c)(1)(A), (2), (d). [Pub. L. 94–455][/us/pl/94/455] struck out “or his delegate” after “Secretary”.
 
     1966—[Pub. L. 89–809][/us/pl/89/809] substantially revised the income tax treatment of foreign corporations, introduced the concept of taxable income effectively connected with the conduct of a trade or business within the United States into provisions dealing with the imposition of tax, substituted a concept of gross income that included gross income derived from sources within the United States not effectively connected with the conduct of a trade or business within the United States and gross income effectively connected with the conduct of a trade or business within the United States for a concept of gross income that included only gross income from sources within the United States, and inserted provisions for an election to treat real property income as income connected with United States business, treatment of interest on United States obligations received by banks organized in possessions, and the returns of tax by agents, and inserted cross reference to section 906(b)(1).
+
+ __Effective Date of 2014 Amendment__ 
+
+    Amendment by [Pub. L. 113–295][/us/pl/113/295] effective Dec. 19, 2014, subject to a savings provision, see [section 221(b) of Pub. L. 113–295][/us/pl/113/295/s221/b], set out as a note under [section 1 of this title][/us/usc/t26/s1].
 
  __Effective Date of 1988 Amendment__ 
 
@@ -182,6 +188,9 @@
 [/us/stat/100/2343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2343
 [/us/pl/100/647/s1012/s/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs1012%2Fs%2F2%2FB
 [/us/stat/102/3527]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3527
+[/us/pl/113/295/s221/a/12/F]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs221%2Fa%2F12%2FF
+[/us/stat/128/4038]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F4038
+[/us/pl/113/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295
 [/us/pl/100/647/s2001/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs2001%2Fc%2F2
 [/us/pl/100/647/s1012/s/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs1012%2Fs%2F2%2FB
 [/us/pl/100/647/s6133/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs6133%2Fa
@@ -193,6 +202,9 @@
 [/us/pl/95/600]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F600
 [/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455
 [/us/pl/89/809]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F809
+[/us/pl/113/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295
+[/us/pl/113/295/s221/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs221%2Fb
+[/us/usc/t26/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs1
 [/us/pl/100/647/s701/e/4/F]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs701%2Fe%2F4%2FF
 [/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
 [/us/pl/100/647/s1019/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs1019%2Fa

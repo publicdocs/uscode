@@ -331,9 +331,9 @@
 
  __Effective Date of 2010 Amendment__ 
 
-[Pub. L. 111–312, title III, § 302(f)][/us/pl/111/312/s302/f], Dec. 17, 2010, [124 Stat. 3302][/us/stat/124/3302], provided that: 
+[Pub. L. 111–312, title III, § 302(f)][/us/pl/111/312/s302/f], Dec. 17, 2010, [124 Stat. 3302][/us/stat/124/3302], as amended by [Pub. L. 113–295, div. A, title II, § 206(b)(2)][/us/pl/113/295/s206/b/2], Dec. 19, 2014, [128 Stat. 4027][/us/stat/128/4027], provided that: 
 
-> “Except as otherwise provided in this subsection \[probably should be “section”\], the amendments made by this section \[amending this section and sections 2010, 2502, 2505 and 2511 of this title\] shall apply to estates of decedents dying, generation-skipping transfers, and gifts made, after December 31, 2009.”
+> “Except as otherwise provided in this section, the amendments made by this section \[amending this section and sections 2010, 2502, 2505 and 2511 of this title\] shall apply to estates of decedents dying, generation-skipping transfers, and gifts made, after December 31, 2009.”
 
  __Effective Date of 2001 Amendment__ 
 
@@ -508,6 +508,8 @@
 [/us/pl/111/312]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F312
 [/us/pl/111/312/s302/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F312%2Fs302%2Ff
 [/us/stat/124/3302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3302
+[/us/pl/113/295/s206/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs206%2Fb%2F2
+[/us/stat/128/4027]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F4027
 [/us/pl/107/16/s511/f/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F16%2Fs511%2Ff%2F1
 [/us/stat/115/71]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F71
 [/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277

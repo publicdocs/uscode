@@ -19,7 +19,7 @@
 
     In the case of any individual who dies while in active service as a member of the Armed Forces of the United States, if such death occurred while serving in a combat zone (as determined under section 112) or as a result of wounds, disease, or injury incurred while so serving—
 
-        (1) any tax imposed by this subtitle shall not apply with respect to the taxable year in which falls the date of his death, or with respect to any prior taxable year ending on or after the first day he so served in a combat zone after June 24, 1950; and
+        (1) any tax imposed by this subtitle shall not apply with respect to the taxable year in which falls the date of his death, or with respect to any prior taxable year ending on or after the first day he so served in a combat zone; and
 
         (2) any tax under this subtitle and under the corresponding provisions of prior revenue laws for taxable years preceding those specified in paragraph (1) which is unpaid at the date of his death (including interest, additions to the tax, and additional amounts) shall not be assessed, and if assessed the assessment shall be abated, and if collected shall be credited or refunded as an overpayment.
 
@@ -87,9 +87,11 @@
 
             The provisions of this subsection shall apply to any astronaut whose death occurs in the line of duty, except that paragraph (3)(B) shall be applied by using the date of the death of the astronaut rather than September 11, 2001.
 
-([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 238][/us/stat/68A/238]; [Pub. L. 93–597, § 4(a)][/us/pl/93/597/s4/a], Jan. 2, 1975, [88 Stat. 1952][/us/stat/88/1952]; [Pub. L. 94–455, title XIX, § 1901(a)(92)][/us/pl/94/455/s1901/a/92], Oct. 4, 1976, [90 Stat. 1780][/us/stat/90/1780]; [Pub. L. 94–569, § 3(c)][/us/pl/94/569/s3/c], Oct. 20, 1976, [90 Stat. 2699][/us/stat/90/2699]; [Pub. L. 97–448, title III, § 307(b)][/us/pl/97/448/s307/b], Jan. 12, 1983, [96 Stat. 2407][/us/stat/96/2407]; [Pub. L. 98–259, § 1(a)][/us/pl/98/259/s1/a], Apr. 10, 1984, [98 Stat. 142][/us/stat/98/142]; [Pub. L. 98–369, div. A, title VII, § 722(g)(2)][/us/pl/98/369/s722/g/2], (3), July 18, 1984, [98 Stat. 974][/us/stat/98/974]; [Pub. L. 99–514, title XVII, § 1708(a)(2)][/us/pl/99/514/s1708/a/2], Oct. 22, 1986, [100 Stat. 2782][/us/stat/100/2782]; [Pub. L. 107–134, title I][/us/pl/107/134], §§ 101(a), (c)(1), 113(b), Jan. 23, 2002, [115 Stat. 2428][/us/stat/115/2428], 2435; [Pub. L. 108–121, title I, § 110(a)(1)][/us/pl/108/121/s110/a/1], (3)(A), Nov. 11, 2003, [117 Stat. 1342][/us/stat/117/1342].)
+([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 238][/us/stat/68A/238]; [Pub. L. 93–597, § 4(a)][/us/pl/93/597/s4/a], Jan. 2, 1975, [88 Stat. 1952][/us/stat/88/1952]; [Pub. L. 94–455, title XIX, § 1901(a)(92)][/us/pl/94/455/s1901/a/92], Oct. 4, 1976, [90 Stat. 1780][/us/stat/90/1780]; [Pub. L. 94–569, § 3(c)][/us/pl/94/569/s3/c], Oct. 20, 1976, [90 Stat. 2699][/us/stat/90/2699]; [Pub. L. 97–448, title III, § 307(b)][/us/pl/97/448/s307/b], Jan. 12, 1983, [96 Stat. 2407][/us/stat/96/2407]; [Pub. L. 98–259, § 1(a)][/us/pl/98/259/s1/a], Apr. 10, 1984, [98 Stat. 142][/us/stat/98/142]; [Pub. L. 98–369, div. A, title VII, § 722(g)(2)][/us/pl/98/369/s722/g/2], (3), July 18, 1984, [98 Stat. 974][/us/stat/98/974]; [Pub. L. 99–514, title XVII, § 1708(a)(2)][/us/pl/99/514/s1708/a/2], Oct. 22, 1986, [100 Stat. 2782][/us/stat/100/2782]; [Pub. L. 107–134, title I][/us/pl/107/134], §§ 101(a), (c)(1), 113(b), Jan. 23, 2002, [115 Stat. 2428][/us/stat/115/2428], 2435; [Pub. L. 108–121, title I, § 110(a)(1)][/us/pl/108/121/s110/a/1], (3)(A), Nov. 11, 2003, [117 Stat. 1342][/us/stat/117/1342]; [Pub. L. 113–295, div. A, title II, § 221(a)(67)][/us/pl/113/295/s221/a/67], Dec. 19, 2014, [128 Stat. 4048][/us/stat/128/4048].)
 
  __Amendments__ 
+
+    2014—Subsec. (a)(1). [Pub. L. 113–295][/us/pl/113/295] struck out “after June 24, 1950” after “combat zone”.
 
     2003—[Pub. L. 108–121, § 110(a)(3)(A)][/us/pl/108/121/s110/a/3/A], inserted “, astronauts,” after “Forces” in section catchline.
 
@@ -124,6 +126,10 @@
     1975—Subsec. (a). [Pub. L. 93–597, § 4(a)(1)][/us/pl/93/597/s4/a/1], (2), designated existing provisions as subsec. (a), added heading, and in subsec. (a) as so designated, struck out “during an induction period (as defined in section 112(c)(5))”, respectively.
 
     Subsec. (b). [Pub. L. 93–597, § 4(a)(3)][/us/pl/93/597/s4/a/3], added subsec. (b).
+
+ __Effective Date of 2014 Amendment__ 
+
+    Amendment by [Pub. L. 113–295][/us/pl/113/295] effective Dec. 19, 2014, subject to a savings provision, see [section 221(b) of Pub. L. 113–295][/us/pl/113/295/s221/b], set out as a note under [section 1 of this title][/us/usc/t26/s1].
 
  __Effective Date of 2003 Amendment__ 
 
@@ -219,6 +225,9 @@
 [/us/stat/115/2428]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F2428
 [/us/pl/108/121/s110/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F121%2Fs110%2Fa%2F1
 [/us/stat/117/1342]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1342
+[/us/pl/113/295/s221/a/67]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs221%2Fa%2F67
+[/us/stat/128/4048]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F4048
+[/us/pl/113/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295
 [/us/pl/108/121/s110/a/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F121%2Fs110%2Fa%2F3%2FA
 [/us/pl/108/121/s110/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F121%2Fs110%2Fa%2F1
 [/us/pl/107/134/s101/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F134%2Fs101%2Fc%2F1
@@ -234,6 +243,9 @@
 [/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455
 [/us/pl/93/597/s4/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F597%2Fs4%2Fa%2F1
 [/us/pl/93/597/s4/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F597%2Fs4%2Fa%2F3
+[/us/pl/113/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295
+[/us/pl/113/295/s221/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs221%2Fb
+[/us/usc/t26/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs1
 [/us/pl/108/121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F121
 [/us/pl/108/121/s110/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F121%2Fs110%2Fa%2F4
 [/us/usc/t26/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs5

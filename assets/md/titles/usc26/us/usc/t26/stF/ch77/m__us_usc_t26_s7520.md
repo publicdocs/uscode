@@ -35,13 +35,9 @@
 
             The tables prescribed by the Secretary for purposes of subsection (a) shall contain valuation factors for a series of interest rate categories.
 
-        (2) __Initial table__ 
+        (2) __Revision for recent mortality charges__ 
 
-            Not later than the day 3 months after the date of the enactment of this section, the Secretary shall prescribe initial tables for purposes of subsection (a). Such tables may be based on the same mortality experience as used for purposes of section 2031 on the date of the enactment of this section.
-
-        (3) __Revision for recent mortality charges__ 
-
-            Not later than December 31, 1989, the Secretary shall revise the initial tables prescribed for purposes of subsection (a) to take into account the most recent mortality experience available as of the time of such revision. Such tables shall be revised not less frequently than once each 10 years thereafter to take into account the most recent mortality experience available as of the time of the revision.
+            The Secretary shall revise the initial tables prescribed for purposes of subsection (a) to take into account the most recent mortality experience available as of the time of such revision. Such tables shall be revised not less frequently than once each 10 years to take into account the most recent mortality experience available as of the time of the revision.
 
     (d) __Valuation date__ 
 
@@ -51,15 +47,19 @@
 
         For purposes of this section, the term “tables” includes formulas.
 
-(Added [Pub. L. 100–647, title V, § 5031(a)][/us/pl/100/647/s5031/a], Nov. 10, 1988, [102 Stat. 3668][/us/stat/102/3668].)
-
- __References in Text__ 
-
-    The date of the enactment of this section, referred to in subsec. (c)(2), is the date of enactment of [Pub. L. 100–647][/us/pl/100/647], which was approved Nov. 10, 1988.
+(Added [Pub. L. 100–647, title V, § 5031(a)][/us/pl/100/647/s5031/a], Nov. 10, 1988, [102 Stat. 3668][/us/stat/102/3668]; amended [Pub. L. 113–295, div. A, title II, § 221(a)(118)][/us/pl/113/295/s221/a/118], Dec. 19, 2014, [128 Stat. 4054][/us/stat/128/4054].)
 
  __Codification__ 
 
     Another section 7520 was renumbered [section 7521 of this title][/us/usc/t26/s7521].
+
+ __Amendments__ 
+
+    2014—Subsec. (c)(2), (3). [Pub. L. 113–295][/us/pl/113/295] redesignated par. (3) as (2), substituted “The Secretary” for “Not later than December 31, 1989, the Secretary” and struck out “thereafter” after “once each 10 years”, and struck out former par. (2). Prior to amendment, text of par. (2) read as follows: “Not later than the day 3 months after the date of the enactment of this section, the Secretary shall prescribe initial tables for purposes of subsection (a). Such tables may be based on the same mortality experience as used for purposes of section 2031 on the date of the enactment of this section.”
+
+ __Effective Date of 2014 Amendment__ 
+
+    Amendment by [Pub. L. 113–295][/us/pl/113/295] effective Dec. 19, 2014, subject to a savings provision, see [section 221(b) of Pub. L. 113–295][/us/pl/113/295/s221/b], set out as a note under [section 1 of this title][/us/usc/t26/s1].
 
  __Effective Date__ 
 
@@ -76,8 +76,13 @@
 
 [/us/pl/100/647/s5031/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs5031%2Fa
 [/us/stat/102/3668]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3668
-[/us/pl/100/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647
+[/us/pl/113/295/s221/a/118]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs221%2Fa%2F118
+[/us/stat/128/4054]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F4054
 [/us/usc/t26/s7521]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs7521
+[/us/pl/113/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295
+[/us/pl/113/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295
+[/us/pl/113/295/s221/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs221%2Fb
+[/us/usc/t26/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs1
 [/us/pl/100/647/s5031/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs5031%2Fc
 [/us/stat/102/3669]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3669
 

@@ -39,7 +39,7 @@
 
         (1) __In general__ 
 
-            A determination as to whether the presumption provided by subsection (d) applies with respect to any activity shall, if the taxpayer so elects, not be made before the close of the fourth taxable year (sixth taxable year, in the case of an activity described in the last sentence of such subsection) following the taxable year in which the taxpayer first engages in the activity. For purposes of the preceding sentence, a taxpayer shall be treated as not having engaged in an activity during any taxable year beginning before January 1, 1970.
+            A determination as to whether the presumption provided by subsection (d) applies with respect to any activity shall, if the taxpayer so elects, not be made before the close of the fourth taxable year (sixth taxable year, in the case of an activity described in the last sentence of such subsection) following the taxable year in which the taxpayer first engages in the activity.
 
         (2) __Initial period__ 
 
@@ -53,9 +53,11 @@
 
             If a taxpayer makes an election under paragraph (1) with respect to an activity, the statutory period for the assessment of any deficiency attributable to such activity shall not expire before the expiration of 2 years after the date prescribed by law (determined without extensions) for filing the return of tax under chapter 1 for the last taxable year in the period of 5 taxable years (or 7 taxable years) to which the election relates. Such deficiency may be assessed notwithstanding the provisions of any law or rule of law which would otherwise prevent such an assessment.
 
-(Added [Pub. L. 91–172, title II, § 213(a)][/us/pl/91/172/s213/a], Dec. 30, 1969, [83 Stat. 571][/us/stat/83/571]; amended [Pub. L. 92–178, title III, § 311(a)][/us/pl/92/178/s311/a], Dec. 10, 1971, [85 Stat. 525][/us/stat/85/525]; [Pub. L. 94–455, title II, § 214(a)][/us/pl/94/455/s214/a], title XIX, § 1906(b)(13)(A), Oct. 4, 1976, [90 Stat. 1549][/us/stat/90/1549], 1834; [Pub. L. 97–354, § 5(a)(23)][/us/pl/97/354/s5/a/23], Oct. 19, 1982, [96 Stat. 1694][/us/stat/96/1694]; [Pub. L. 99–514, title I, § 143(a)][/us/pl/99/514/s143/a], Oct. 22, 1986, [100 Stat. 2120][/us/stat/100/2120]; [Pub. L. 100–647, title I, § 1001(h)(3)][/us/pl/100/647/s1001/h/3], Nov. 10, 1988, [102 Stat. 3352][/us/stat/102/3352].)
+(Added [Pub. L. 91–172, title II, § 213(a)][/us/pl/91/172/s213/a], Dec. 30, 1969, [83 Stat. 571][/us/stat/83/571]; amended [Pub. L. 92–178, title III, § 311(a)][/us/pl/92/178/s311/a], Dec. 10, 1971, [85 Stat. 525][/us/stat/85/525]; [Pub. L. 94–455, title II, § 214(a)][/us/pl/94/455/s214/a], title XIX, § 1906(b)(13)(A), Oct. 4, 1976, [90 Stat. 1549][/us/stat/90/1549], 1834; [Pub. L. 97–354, § 5(a)(23)][/us/pl/97/354/s5/a/23], Oct. 19, 1982, [96 Stat. 1694][/us/stat/96/1694]; [Pub. L. 99–514, title I, § 143(a)][/us/pl/99/514/s143/a], Oct. 22, 1986, [100 Stat. 2120][/us/stat/100/2120]; [Pub. L. 100–647, title I, § 1001(h)(3)][/us/pl/100/647/s1001/h/3], Nov. 10, 1988, [102 Stat. 3352][/us/stat/102/3352]; [Pub. L. 113–295, div. A, title II, § 221(a)(36)][/us/pl/113/295/s221/a/36], Dec. 19, 2014, [128 Stat. 4042][/us/stat/128/4042].)
 
  __Amendments__ 
+
+    2014—Subsec. (e)(1). [Pub. L. 113–295][/us/pl/113/295] struck out “For purposes of the preceding sentence, a taxpayer shall be treated as not having engaged in an activity during any taxable year beginning before January 1, 1970.” at end.
 
     1988—Subsec. (e)(2). [Pub. L. 100–647][/us/pl/100/647] substituted “activity for 3 (or 2 if applicable)” for “activity for 2”.
 
@@ -68,6 +70,10 @@
     Subsec. (e)(4). [Pub. L. 94–455, § 214(a)][/us/pl/94/455/s214/a], added par. (4).
 
     1971—Subsec. (e). [Pub. L. 92–178][/us/pl/92/178] added subsec. (e).
+
+ __Effective Date of 2014 Amendment__ 
+
+    Amendment by [Pub. L. 113–295][/us/pl/113/295] effective Dec. 19, 2014, subject to a savings provision, see [section 221(b) of Pub. L. 113–295][/us/pl/113/295/s221/b], set out as a note under [section 1 of this title][/us/usc/t26/s1].
 
  __Effective Date of 1988 Amendment__ 
 
@@ -118,12 +124,18 @@
 [/us/stat/100/2120]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2120
 [/us/pl/100/647/s1001/h/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs1001%2Fh%2F3
 [/us/stat/102/3352]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3352
+[/us/pl/113/295/s221/a/36]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs221%2Fa%2F36
+[/us/stat/128/4042]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F4042
+[/us/pl/113/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295
 [/us/pl/100/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647
 [/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
 [/us/pl/97/354]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F354
 [/us/pl/94/455/s1906/b/13/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1906%2Fb%2F13%2FA
 [/us/pl/94/455/s214/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs214%2Fa
 [/us/pl/92/178]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F178
+[/us/pl/113/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295
+[/us/pl/113/295/s221/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs221%2Fb
+[/us/usc/t26/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs1
 [/us/pl/100/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647
 [/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
 [/us/pl/100/647/s1019/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs1019%2Fa

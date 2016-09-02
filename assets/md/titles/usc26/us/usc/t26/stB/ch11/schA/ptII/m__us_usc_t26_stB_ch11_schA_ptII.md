@@ -33,9 +33,9 @@
 
   <tr>
 
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs2011" data-uslm-ref="/us/usc/t26/s2011">2011.</a>  </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs2011" data-uslm-ref="/us/usc/t26/s2011">2011.</a>  </td>
 
-    <td> Credit for State death taxes.  </td>
+    <td> Repealed.]  </td>
 
   </tr>
 
@@ -83,6 +83,8 @@
 
  __Amendments__ 
 
+    2014—[Pub. L. 113–295, div. A, title II, § 221(a)(95)(A)(i)][/us/pl/113/295/s221/a/95/A/i], Dec. 19, 2014, [128 Stat. 4051][/us/stat/128/4051], which directed amendment of the table of sections for “such subpart” by striking out item 2011, was executed by striking out item 2011 “Credit for State death taxes” in the table of sections for this part, to reflect the probable intent of Congress.
+
     2004—[Pub. L. 108–311, title IV, § 408(a)(20)][/us/pl/108/311/s408/a/20], Oct. 4, 2004, [118 Stat. 1192][/us/stat/118/1192], added item 2011.
 
     2001—[Pub. L. 107–16, title V, § 532(c)(13)][/us/pl/107/16/s532/c/13], June 7, 2001, [115 Stat. 75][/us/stat/115/75], struck out item 2011 “Credit for State death taxes”.
@@ -96,6 +98,8 @@
 ----------
 ----------
 
+[/us/pl/113/295/s221/a/95/A/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs221%2Fa%2F95%2FA%2Fi
+[/us/stat/128/4051]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F4051
 [/us/pl/108/311/s408/a/20]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F311%2Fs408%2Fa%2F20
 [/us/stat/118/1192]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1192
 [/us/pl/107/16/s532/c/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F16%2Fs532%2Fc%2F13

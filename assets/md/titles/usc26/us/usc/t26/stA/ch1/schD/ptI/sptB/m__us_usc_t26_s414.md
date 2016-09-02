@@ -433,7 +433,7 @@
 
             (B) sections 408(k), 408(p), 410, 411, 415, and 416, and
 
-            (C) sections 79, 106, 117(d), 120, 125, 127, 129, 132, 137, 274(j), 505, and 4980B.
+            (C) sections 79, 106, 117(d), 125, 127, 129, 132, 137, 274(j), 505, and 4980B.
 
         (4) __Time when first considered as employee__ 
 
@@ -817,7 +817,7 @@
 
         (2) __Applicable section__ 
 
-            For purposes of this subsection, the term “applicable section” means section 79, 106, 117(d), 120, 125, 127, 129, 132, 137, 274(j), 505, or 4980B.
+            For purposes of this subsection, the term “applicable section” means section 79, 106, 117(d), 125, 127, 129, 132, 137, 274(j), 505, or 4980B.
 
     (u) __Special rules relating to veterans’ reemployment rights under USERRA and to differential wage payments to members on active duty__ 
 
@@ -981,161 +981,9 @@
 
             For purposes of this paragraph—
 
-                (i) In the case of an applicable employer plan other than a plan described in section 401(k)(11) or 408(p), the applicable dollar amount shall be determined in accordance with the following table:
+                (i) In the case of an applicable employer plan other than a plan described in section 401(k)(11) or 408(p), the applicable dollar amount is $5,000.
 
-<table>
-
-                  <tr>
-
-                    <td> 
-
-                   For taxable years beginning in:  </td>
-
-                    <td> 
-
-                The applicable dollar amount is:  </td>
-
-  </tr>
-
-                  <tr>
-
-                    <td> 
-
-                2002  </td>
-
-                    <td> 
-
-                $1,000    </td>
-
-  </tr>
-
-                  <tr>
-
-                    <td> 
-
-                2003  </td>
-
-                    <td> 
-
-                $2,000    </td>
-
-  </tr>
-
-                  <tr>
-
-                    <td> 
-
-                2004  </td>
-
-                    <td> 
-
-                $3,000    </td>
-
-  </tr>
-
-                  <tr>
-
-                    <td> 
-
-                2005  </td>
-
-                    <td> 
-
-                $4,000    </td>
-
-  </tr>
-
-                  <tr>
-
-                    <td> 
-
-                2006 and thereafter  </td>
-
-                    <td> 
-
-                $5,000.  </td>
-
-  </tr>
-
-                </table>
-
-                (ii) In the case of an applicable employer plan described in section 401(k)(11) or 408(p), the applicable dollar amount shall be determined in accordance with the following table:
-
-<table>
-
-                  <tr>
-
-                    <td> 
-
-                   For taxable years beginning in:  </td>
-
-                    <td> 
-
-                The applicable dollar amount is:  </td>
-
-  </tr>
-
-                  <tr>
-
-                    <td> 
-
-                2002  </td>
-
-                    <td> 
-
-                $500    </td>
-
-  </tr>
-
-                  <tr>
-
-                    <td> 
-
-                2003  </td>
-
-                    <td> 
-
-                $1,000    </td>
-
-  </tr>
-
-                  <tr>
-
-                    <td> 
-
-                2004  </td>
-
-                    <td> 
-
-                $1,500    </td>
-
-  </tr>
-
-                  <tr>
-
-                    <td> 
-
-                2005  </td>
-
-                    <td> 
-
-                $2,000    </td>
-
-  </tr>
-
-                  <tr>
-
-                    <td> 
-
-                2006 and thereafter  </td>
-
-                    <td> 
-
-                $2,500.  </td>
-
-  </tr>
-
-                </table>
+                (ii) In the case of an applicable employer plan described in section 401(k)(11) or 408(p), the applicable dollar amount is $2,500.
 
             (C) __Cost-of-living adjustment__ 
 
@@ -1561,7 +1409,7 @@
 
                 If a plan described in subparagraph (A) is treated as a CSEC plan, section 104 of the Pension Protection Act of 2006, as amended by the Preservation of Access to Care for Medicare Beneficiaries and Pension Relief Act of 2010, shall cease to apply to such plan as of the first date as of which such plan is treated as a CSEC plan.
 
-(Added [Pub. L. 93–406, title II, § 1015][/us/pl/93/406/s1015], Sept. 2, 1974, [88 Stat. 925][/us/stat/88/925]; amended [Pub. L. 94–455, title XIX][/us/pl/94/455], §§ 1901(a)(64), 1906(b)(13)(A), Oct. 4, 1976, [90 Stat. 1775][/us/stat/90/1775], 1834; [Pub. L. 95–600, title I, § 152(d)][/us/pl/95/600/s152/d], Nov. 6, 1978, [92 Stat. 2799][/us/stat/92/2799]; [Pub. L. 96–364, title II][/us/pl/96/364], §§ 207, 208(a), title IV, § 407(b), Sept. 26, 1980, [94 Stat. 1288][/us/stat/94/1288], 1289, 1305; [Pub. L. 96–605, title II, § 201(a)][/us/pl/96/605/s201/a], Dec. 28, 1980, [94 Stat. 3526][/us/stat/94/3526]; [Pub. L. 96–613, § 5(a)][/us/pl/96/613/s5/a], Dec. 28, 1980, [94 Stat. 3580][/us/stat/94/3580]; [Pub. L. 97–248, title II][/us/pl/97/248], §§ 240(c), 246(a), 248(a), Sept. 3, 1982, [96 Stat. 520][/us/stat/96/520], 525, 526; [Pub. L. 98–369, div. A, title IV, § 491(d)(26)][/us/pl/98/369/s491/d/26], (27), title V, § 526(a)(1), (b)(1), (d)(1), (2), title VII, § 713(i), July 18, 1984, [98 Stat. 850][/us/stat/98/850], 874, 875, 960; [Pub. L. 98–397, title II, § 204(b)][/us/pl/98/397/s204/b], Aug. 23, 1984, [98 Stat. 1445][/us/stat/98/1445]; [Pub. L. 99–514, title XI][/us/pl/99/514], §§ 1114(a), (b)(11), 1115(a), 1117(c), 1146(a), (b), 1151(e)(1), (i), title XIII, § 1301(j)(4), title XVIII, §§ 1852(f), 1898(c)(2)(A), (4)(A), (6)(A), (7)(A)(ii)–(vii), 1899A(12), Oct. 22, 1986, [100 Stat. 2448][/us/stat/100/2448], 2451, 2452, 2462, 2491, 2506, 2507, 2657, 2868, 2951, 2953, 2954, 2958; [Pub. L. 100–203, title IX, § 9305(c)][/us/pl/100/203/s9305/c], Dec. 22, 1987, [101 Stat. 1330–352][/us/stat/101/1330-352]; [Pub. L. 100–647, title I][/us/pl/100/647], §§ 1011(d)(8), (e)(4), (h)(5), (i)(1)–(4)(A), (j)(1), (2), 1011A(b)(3), 1011B(a)(16), (17), (19), (20), 1018(t)(8)(E)–(G), title II, § 2005(c)(1), (2), title III, §§ 3011(b)(4), (5), 3021(b)(1), (2)(A), title VI, § 6067(a), Nov. 10, 1988, [102 Stat. 3460][/us/stat/102/3460], 3461, 3465, 3467, 3468, 3473, 3485, 3589, 3611, 3612, 3625, 3631, 3632, 3703; [Pub. L. 101–140, title II][/us/pl/101/140], §§ 203(a)(6), 204(b)(2), Nov. 8, 1989, [103 Stat. 831][/us/stat/103/831], 833; [Pub. L. 101–239, title VII][/us/pl/101/239], §§ 7811(m)(5), 7813(b), 7841(a)(2), Dec. 19, 1989, [103 Stat. 2412][/us/stat/103/2412], 2413, 2427; [Pub. L. 101–508, title XI, § 11703(b)(1)][/us/pl/101/508/s11703/b/1], Nov. 5, 1990, [104 Stat. 1388–517][/us/stat/104/1388-517]; [Pub. L. 102–318, title V, § 521(b)(20)][/us/pl/102/318/s521/b/20]–(22), July 3, 1992, [106 Stat. 311][/us/stat/106/311]; [Pub. L. 104–188, title I][/us/pl/104/188], §§ 1421(b)(9)(C), 1431(a), (b)(1), (c)(1)(A), (D), (E), 1434(b), 1454(a), 1461(a), 1462(a), 1704(n)(1), Aug. 20, 1996, [110 Stat. 1798][/us/stat/110/1798], 1802, 1803, 1807, 1817, 1822, 1824, 1883; [Pub. L. 105–34, title XV, § 1522(a)][/us/pl/105/34/s1522/a], title XVI, § 1601(d)(6)(A), (7), (h)(2)(D)(i), (ii), Aug. 5, 1997, [111 Stat. 1070][/us/stat/111/1070], 1089, 1090, 1092; [Pub. L. 105–206, title VI, § 6018(c)][/us/pl/105/206/s6018/c], July 22, 1998, [112 Stat. 822][/us/stat/112/822]; [Pub. L. 106–554, § 1(a)(7)][/us/pl/106/554/s1/a/7] \[title III, § 314(e)(2)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–643; [Pub. L. 107–16, title VI][/us/pl/107/16], §§ 631(a), 635(a)–(c), June 7, 2001, [115 Stat. 111][/us/stat/115/111], 117; [Pub. L. 107–147, title IV, § 411][/us/pl/107/147/s411](o)(3)–(8), Mar. 9, 2002, [116 Stat. 48][/us/stat/116/48], 49; [Pub. L. 108–311, title IV, § 408(a)(15)][/us/pl/108/311/s408/a/15], Oct. 4, 2004, [118 Stat. 1192][/us/stat/118/1192]; [Pub. L. 109–280, title I, § 114(c)][/us/pl/109/280/s114/c], title IX, §§ 902(d)(1), 903(a), 906(a)(1), (b)(1)(C), title XI, § 1106(b), Aug. 17, 2006, [120 Stat. 853][/us/stat/120/853], 1036, 1040, 1051, 1052, 1062; [Pub. L. 110–28, title VI, § 6611(a)(2)][/us/pl/110/28/s6611/a/2], (b)(2), May 25, 2007, [121 Stat. 180][/us/stat/121/180], 181; [Pub. L. 110–245, title I][/us/pl/110/245], §§ 104(b), 105(b)(1), June 17, 2008, [122 Stat. 1626][/us/stat/122/1626], 1628; [Pub. L. 110–289, div. A, title VI, § 1604(b)(4)][/us/pl/110/289/s1604/b/4], July 30, 2008, [122 Stat. 2829][/us/stat/122/2829]; [Pub. L. 110–458, title I][/us/pl/110/458], §§ 101(d)(2)(E), 109(b)(4)–(c)(1), Dec. 23, 2008, [122 Stat. 5099][/us/stat/122/5099], 5111; [Pub. L. 113–97, title II][/us/pl/113/97], §§ 201, 203(a), Apr. 7, 2014, [128 Stat. 1121][/us/stat/128/1121], 1138; [Pub. L. 113–235, div. P, § 3(b)][/us/pl/113/235/s3/b], Dec. 16, 2014, [128 Stat. 2829][/us/stat/128/2829].)
+(Added [Pub. L. 93–406, title II, § 1015][/us/pl/93/406/s1015], Sept. 2, 1974, [88 Stat. 925][/us/stat/88/925]; amended [Pub. L. 94–455, title XIX][/us/pl/94/455], §§ 1901(a)(64), 1906(b)(13)(A), Oct. 4, 1976, [90 Stat. 1775][/us/stat/90/1775], 1834; [Pub. L. 95–600, title I, § 152(d)][/us/pl/95/600/s152/d], Nov. 6, 1978, [92 Stat. 2799][/us/stat/92/2799]; [Pub. L. 96–364, title II][/us/pl/96/364], §§ 207, 208(a), title IV, § 407(b), Sept. 26, 1980, [94 Stat. 1288][/us/stat/94/1288], 1289, 1305; [Pub. L. 96–605, title II, § 201(a)][/us/pl/96/605/s201/a], Dec. 28, 1980, [94 Stat. 3526][/us/stat/94/3526]; [Pub. L. 96–613, § 5(a)][/us/pl/96/613/s5/a], Dec. 28, 1980, [94 Stat. 3580][/us/stat/94/3580]; [Pub. L. 97–248, title II][/us/pl/97/248], §§ 240(c), 246(a), 248(a), Sept. 3, 1982, [96 Stat. 520][/us/stat/96/520], 525, 526; [Pub. L. 98–369, div. A, title IV, § 491(d)(26)][/us/pl/98/369/s491/d/26], (27), title V, § 526(a)(1), (b)(1), (d)(1), (2), title VII, § 713(i), July 18, 1984, [98 Stat. 850][/us/stat/98/850], 874, 875, 960; [Pub. L. 98–397, title II, § 204(b)][/us/pl/98/397/s204/b], Aug. 23, 1984, [98 Stat. 1445][/us/stat/98/1445]; [Pub. L. 99–514, title XI][/us/pl/99/514], §§ 1114(a), (b)(11), 1115(a), 1117(c), 1146(a), (b), 1151(e)(1), (i), title XIII, § 1301(j)(4), title XVIII, §§ 1852(f), 1898(c)(2)(A), (4)(A), (6)(A), (7)(A)(ii)–(vii), 1899A(12), Oct. 22, 1986, [100 Stat. 2448][/us/stat/100/2448], 2451, 2452, 2462, 2491, 2506, 2507, 2657, 2868, 2951, 2953, 2954, 2958; [Pub. L. 100–203, title IX, § 9305(c)][/us/pl/100/203/s9305/c], Dec. 22, 1987, [101 Stat. 1330–352][/us/stat/101/1330-352]; [Pub. L. 100–647, title I][/us/pl/100/647], §§ 1011(d)(8), (e)(4), (h)(5), (i)(1)–(4)(A), (j)(1), (2), 1011A(b)(3), 1011B(a)(16), (17), (19), (20), 1018(t)(8)(E)–(G), title II, § 2005(c)(1), (2), title III, §§ 3011(b)(4), (5), 3021(b)(1), (2)(A), title VI, § 6067(a), Nov. 10, 1988, [102 Stat. 3460][/us/stat/102/3460], 3461, 3465, 3467, 3468, 3473, 3485, 3589, 3611, 3612, 3625, 3631, 3632, 3703; [Pub. L. 101–140, title II][/us/pl/101/140], §§ 203(a)(6), 204(b)(2), Nov. 8, 1989, [103 Stat. 831][/us/stat/103/831], 833; [Pub. L. 101–239, title VII][/us/pl/101/239], §§ 7811(m)(5), 7813(b), 7841(a)(2), Dec. 19, 1989, [103 Stat. 2412][/us/stat/103/2412], 2413, 2427; [Pub. L. 101–508, title XI, § 11703(b)(1)][/us/pl/101/508/s11703/b/1], Nov. 5, 1990, [104 Stat. 1388–517][/us/stat/104/1388-517]; [Pub. L. 102–318, title V, § 521(b)(20)][/us/pl/102/318/s521/b/20]–(22), July 3, 1992, [106 Stat. 311][/us/stat/106/311]; [Pub. L. 104–188, title I][/us/pl/104/188], §§ 1421(b)(9)(C), 1431(a), (b)(1), (c)(1)(A), (D), (E), 1434(b), 1454(a), 1461(a), 1462(a), 1704(n)(1), Aug. 20, 1996, [110 Stat. 1798][/us/stat/110/1798], 1802, 1803, 1807, 1817, 1822, 1824, 1883; [Pub. L. 105–34, title XV, § 1522(a)][/us/pl/105/34/s1522/a], title XVI, § 1601(d)(6)(A), (7), (h)(2)(D)(i), (ii), Aug. 5, 1997, [111 Stat. 1070][/us/stat/111/1070], 1089, 1090, 1092; [Pub. L. 105–206, title VI, § 6018(c)][/us/pl/105/206/s6018/c], July 22, 1998, [112 Stat. 822][/us/stat/112/822]; [Pub. L. 106–554, § 1(a)(7)][/us/pl/106/554/s1/a/7] \[title III, § 314(e)(2)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–643; [Pub. L. 107–16, title VI][/us/pl/107/16], §§ 631(a), 635(a)–(c), June 7, 2001, [115 Stat. 111][/us/stat/115/111], 117; [Pub. L. 107–147, title IV, § 411][/us/pl/107/147/s411](o)(3)–(8), Mar. 9, 2002, [116 Stat. 48][/us/stat/116/48], 49; [Pub. L. 108–311, title IV, § 408(a)(15)][/us/pl/108/311/s408/a/15], Oct. 4, 2004, [118 Stat. 1192][/us/stat/118/1192]; [Pub. L. 109–280, title I, § 114(c)][/us/pl/109/280/s114/c], title IX, §§ 902(d)(1), 903(a), 906(a)(1), (b)(1)(C), title XI, § 1106(b), Aug. 17, 2006, [120 Stat. 853][/us/stat/120/853], 1036, 1040, 1051, 1052, 1062; [Pub. L. 110–28, title VI, § 6611(a)(2)][/us/pl/110/28/s6611/a/2], (b)(2), May 25, 2007, [121 Stat. 180][/us/stat/121/180], 181; [Pub. L. 110–245, title I][/us/pl/110/245], §§ 104(b), 105(b)(1), June 17, 2008, [122 Stat. 1626][/us/stat/122/1626], 1628; [Pub. L. 110–289, div. A, title VI, § 1604(b)(4)][/us/pl/110/289/s1604/b/4], July 30, 2008, [122 Stat. 2829][/us/stat/122/2829]; [Pub. L. 110–458, title I][/us/pl/110/458], §§ 101(d)(2)(E), 109(b)(4)–(c)(1), Dec. 23, 2008, [122 Stat. 5099][/us/stat/122/5099], 5111; [Pub. L. 113–97, title II][/us/pl/113/97], §§ 201, 203(a), Apr. 7, 2014, [128 Stat. 1121][/us/stat/128/1121], 1138; [Pub. L. 113–235, div. P, § 3(b)][/us/pl/113/235/s3/b], Dec. 16, 2014, [128 Stat. 2829][/us/stat/128/2829]; [Pub. L. 113–295, div. A, title II, § 221(a)(19)(B)(i)][/us/pl/113/295/s221/a/19/B/i], (ii), (55), Dec. 19, 2014, [128 Stat. 4039][/us/stat/128/4039], 4045.)
 
  __Inflation Adjusted Items for Certain Years__ 
 
@@ -1585,7 +1433,13 @@
 
  __Amendments__ 
 
-    2014—Subsec. (y). [Pub. L. 113–97, § 201][/us/pl/113/97/s201], added subsec. (y).
+    2014—Subsec. (n)(3)(C). [Pub. L. 113–295, § 221(a)(19)(B)(i)][/us/pl/113/295/s221/a/19/B/i], struck out “120,” after “117(d),”.
+
+    Subsec. (t)(2). [Pub. L. 113–295, § 221(a)(19)(B)(ii)][/us/pl/113/295/s221/a/19/B/ii], struck out “120,” after “117(d),”.
+
+    Subsec. (v)(2)(B)(i), (ii). [Pub. L. 113–295, § 221(a)(55)][/us/pl/113/295/s221/a/55], amended cls. (i) and (ii) generally. Prior to amendment, cls. (i) and (ii) listed applicable dollar amounts for taxable years 2002 to 2006 and thereafter for an applicable employer plan other than a plan described in section 401(k)(11) or 408(p) and an applicable employer plan described in section 401(k)(11) or 408(p), respectively.
+
+    Subsec. (y). [Pub. L. 113–97, § 201][/us/pl/113/97/s201], added subsec. (y).
 
     Subsec. (y)(1)(C). [Pub. L. 113–235, § 3(b)(1)][/us/pl/113/235/s3/b/1], added subpar. (C).
 
@@ -1946,6 +1800,8 @@
     Subsec. (l). [Pub. L. 94–455, § 1901(a)(64)(B)][/us/pl/94/455/s1901/a/64/B], substituted reference to Sept. 2, 1974, for reference to the date of enactment of the Employee Retirement Income Security Act of 1974.
 
  __Effective Date of 2014 Amendment__ 
+
+    Amendment by [Pub. L. 113–295][/us/pl/113/295] effective Dec. 19, 2014, subject to a savings provision, see [section 221(b) of Pub. L. 113–295][/us/pl/113/295/s221/b], set out as a note under [section 1 of this title][/us/usc/t26/s1].
 
 [Pub. L. 113–235, div. P, § 3(c)][/us/pl/113/235/s3/c], Dec. 16, 2014, [128 Stat. 2829][/us/stat/128/2829], provided that: 
 
@@ -2394,6 +2250,8 @@
 [/us/stat/128/1121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1121
 [/us/pl/113/235/s3/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs3%2Fb
 [/us/stat/128/2829]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2829
+[/us/pl/113/295/s221/a/19/B/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs221%2Fa%2F19%2FB%2Fi
+[/us/stat/128/4039]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F4039
 [/us/usc/t26/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs401
 [/us/act/1935-08-29/ch812]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-29%2Fch812
 [/us/stat/49/867]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F867
@@ -2417,6 +2275,9 @@
 [/us/pl/111/192]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F192
 [/us/stat/124/1280]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1280
 [/us/usc/t29/s1001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1001
+[/us/pl/113/295/s221/a/19/B/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs221%2Fa%2F19%2FB%2Fi
+[/us/pl/113/295/s221/a/19/B/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs221%2Fa%2F19%2FB%2Fii
+[/us/pl/113/295/s221/a/55]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs221%2Fa%2F55
 [/us/pl/113/97/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F97%2Fs201
 [/us/pl/113/235/s3/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs3%2Fb%2F1
 [/us/pl/113/235/s3/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs3%2Fb%2F2
@@ -2580,6 +2441,9 @@
 [/us/pl/94/455/s1901/a/64/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1901%2Fa%2F64%2FA
 [/us/pl/94/455/s1906/b/13/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1906%2Fb%2F13%2FA
 [/us/pl/94/455/s1901/a/64/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1901%2Fa%2F64%2FB
+[/us/pl/113/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295
+[/us/pl/113/295/s221/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs221%2Fb
+[/us/usc/t26/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs1
 [/us/pl/113/235/s3/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs3%2Fc
 [/us/stat/128/2829]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2829
 [/us/usc/t29/s1060]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1060

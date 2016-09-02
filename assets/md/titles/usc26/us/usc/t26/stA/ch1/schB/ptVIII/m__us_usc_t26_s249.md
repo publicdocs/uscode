@@ -17,15 +17,19 @@
 
     (a) __General rule__ 
 
-        No deduction shall be allowed to the issuing corporation for any premium paid or incurred upon the repurchase of a bond, debenture, note, or certificate or other evidence of indebtedness which is convertible into the stock of the issuing corporation, or a corporation in the same parent-subsidiary controlled group (within the meaning of section 1563(a)(1)  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be followed by a closing parenthesis. </sup></sup>  as the issuing corporation, to the extent the repurchase price exceeds an amount equal to the adjusted issue price plus a normal call premium on bonds or other evidences of indebtedness which are not convertible. The preceding sentence shall not apply to the extent that the corporation can demonstrate to the satisfaction of the Secretary that such excess is attributable to the cost of borrowing and is not attributable to the conversion feature.
+        No deduction shall be allowed to the issuing corporation for any premium paid or incurred upon the repurchase of a bond, debenture, note, or certificate or other evidence of indebtedness which is convertible into the stock of the issuing corporation, or a corporation in the same parent-subsidiary controlled group (within the meaning of section 1563(a)(1)) as the issuing corporation, to the extent the repurchase price exceeds an amount equal to the adjusted issue price plus a normal call premium on bonds or other evidences of indebtedness which are not convertible. The preceding sentence shall not apply to the extent that the corporation can demonstrate to the satisfaction of the Secretary that such excess is attributable to the cost of borrowing and is not attributable to the conversion feature.
 
     (b) __Adjusted issue price__ 
 
-        For purposes of subsection (a), the adjusted issue price is the issue price (as defined in sections 1273(b) and 1274) increased by any amount of discount deducted before repurchase, or, in the case of bonds or other evidences of indebtedness issued after February 28, 1913, decreased by any amount of premium included in gross income before repurchase by the issuing corporation.
+        For purposes of subsection (a), the adjusted issue price is the issue price (as defined in sections 1273(b) and 1274) increased by any amount of discount deducted before repurchase, or decreased by any amount of premium included in gross income before repurchase by the issuing corporation.
 
-(Added [Pub. L. 91–172, title IV, § 414(a)][/us/pl/91/172/s414/a], Dec. 30, 1969, [83 Stat. 612][/us/stat/83/612]; amended [Pub. L. 94–455, title XIX, § 1906(b)(13)(A)][/us/pl/94/455/s1906/b/13/A], Oct. 4, 1976, [90 Stat. 1834][/us/stat/90/1834]; [Pub. L. 98–369, div. A, title I, § 42(a)(5)][/us/pl/98/369/s42/a/5], July 18, 1984, [98 Stat. 557][/us/stat/98/557]; [Pub. L. 112–95, title XI, § 1108(a)][/us/pl/112/95/s1108/a], (b), Feb. 14, 2012, [126 Stat. 154][/us/stat/126/154].)
+(Added [Pub. L. 91–172, title IV, § 414(a)][/us/pl/91/172/s414/a], Dec. 30, 1969, [83 Stat. 612][/us/stat/83/612]; amended [Pub. L. 94–455, title XIX, § 1906(b)(13)(A)][/us/pl/94/455/s1906/b/13/A], Oct. 4, 1976, [90 Stat. 1834][/us/stat/90/1834]; [Pub. L. 98–369, div. A, title I, § 42(a)(5)][/us/pl/98/369/s42/a/5], July 18, 1984, [98 Stat. 557][/us/stat/98/557]; [Pub. L. 112–95, title XI, § 1108(a)][/us/pl/112/95/s1108/a], (b), Feb. 14, 2012, [126 Stat. 154][/us/stat/126/154]; [Pub. L. 113–295, div. A, title II][/us/pl/113/295], §§ 220(i), 221(a)(43), Dec. 19, 2014, [128 Stat. 4036][/us/stat/128/4036], 4044.)
 
  __Amendments__ 
+
+    2014—Subsec. (a). [Pub. L. 113–295, § 220(i)][/us/pl/113/295/s220/i], substituted “1563(a)(1))” for “1563(a)(1)”.
+
+    Subsec. (b). [Pub. L. 113–295, § 221(a)(43)][/us/pl/113/295/s221/a/43], which directed amendment of subsec. (b)(1) by striking out “, in the case of bonds or other evidences of indebtedness issued after February 28, 1913,” after “repurchase, or”, was executed by making the amendment in subsec. (b) to reflect the probable intent of Congress.
 
     2012—Subsec. (a). [Pub. L. 112–95, § 1108(a)][/us/pl/112/95/s1108/a], substituted “, or a corporation in the same parent-subsidiary controlled group (within the meaning of section 1563(a)(1) as” for “, or a corporation in control of, or controlled by,”.
 
@@ -34,6 +38,10 @@
     1984—Subsec. (b)(1). [Pub. L. 98–369][/us/pl/98/369] substituted “sections 1273(b) and 1274” for “section 1232(b)”.
 
     1976—Subsec. (a). [Pub. L. 94–455][/us/pl/94/455] struck out “or his delegate” after “Secretary”.
+
+ __Effective Date of 2014 Amendment__ 
+
+    Amendment by [section 221(a)(43) of Pub. L. 113–295][/us/pl/113/295/s221/a/43] effective Dec. 19, 2014, subject to a savings provision, see [section 221(b) of Pub. L. 113–295][/us/pl/113/295/s221/b], set out as a note under [section 1 of this title][/us/usc/t26/s1].
 
  __Effective Date of 2012 Amendment__ 
 
@@ -70,10 +78,17 @@
 [/us/stat/98/557]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F557
 [/us/pl/112/95/s1108/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95%2Fs1108%2Fa
 [/us/stat/126/154]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F154
+[/us/pl/113/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295
+[/us/stat/128/4036]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F4036
+[/us/pl/113/295/s220/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs220%2Fi
+[/us/pl/113/295/s221/a/43]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs221%2Fa%2F43
 [/us/pl/112/95/s1108/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95%2Fs1108%2Fa
 [/us/pl/112/95/s1108/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95%2Fs1108%2Fb
 [/us/pl/98/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369
 [/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455
+[/us/pl/113/295/s221/a/43]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs221%2Fa%2F43
+[/us/pl/113/295/s221/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs221%2Fb
+[/us/usc/t26/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs1
 [/us/pl/112/95/s1108/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95%2Fs1108%2Fc
 [/us/stat/126/154]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F154
 [/us/pl/98/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369

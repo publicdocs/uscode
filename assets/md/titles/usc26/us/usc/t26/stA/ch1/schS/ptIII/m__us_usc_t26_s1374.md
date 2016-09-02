@@ -153,9 +153,9 @@
 
                 The preceding sentence shall be applied separately with respect to any asset to which paragraph (8) applies.
 
-            (C) __Special rule for 2012 and 2013__ 
+            (C) __Special rule for 2012, 2013, and 2014__ 
 
-                For purposes of determining the net recognized built-in gain for taxable years beginning in 2012 or 2013, subparagraphs (A) and (D) shall be applied by substituting “5-year” for “10-year”.
+                For purposes of determining the net recognized built-in gain for taxable years beginning in 2012, 2013, or 2014, subparagraphs (A) and (D) shall be applied by substituting “5-year” for “10-year”.
 
             (D) __Special rule for distributions to shareholders__ 
 
@@ -201,13 +201,15 @@
 
         The Secretary shall prescribe such regulations as may be necessary to carry out the purposes of this section including regulations providing for the appropriate treatment of successor corporations.
 
-(Added [Pub. L. 97–354, § 2][/us/pl/97/354/s2], Oct. 19, 1982, [96 Stat. 1683][/us/stat/96/1683]; amended [Pub. L. 97–448, title III, § 305(d)(3)][/us/pl/97/448/s305/d/3], Jan. 12, 1983, [96 Stat. 2400][/us/stat/96/2400]; [Pub. L. 98–369, div. A, title I, § 102(d)(1)][/us/pl/98/369/s102/d/1], title IV, § 474(r)(27), title VII, § 721(u), July 18, 1984, [98 Stat. 623][/us/stat/98/623], 844, 971; [Pub. L. 99–514, title VI, § 632(a)][/us/pl/99/514/s632/a], Oct. 22, 1986, [100 Stat. 2275][/us/stat/100/2275]; [Pub. L. 100–647, title I, § 1006(f)(1)][/us/pl/100/647/s1006/f/1]–(5)(A), Nov. 10, 1988, [102 Stat. 3403][/us/stat/102/3403], 3404; [Pub. L. 101–239, title VII, § 7811(c)(4)][/us/pl/101/239/s7811/c/4], (5)(B), (8), Dec. 19, 1989, [103 Stat. 2407][/us/stat/103/2407], 2408; [Pub. L. 105–34, title XVI, § 1601(f)(5)(B)][/us/pl/105/34/s1601/f/5/B], Aug. 5, 1997, [111 Stat. 1091][/us/stat/111/1091]; [Pub. L. 111–5, div. B, title I, § 1251(a)][/us/pl/111/5/s1251/a], Feb. 17, 2009, [123 Stat. 342][/us/stat/123/342]; [Pub. L. 111–240, title II, § 2014(a)][/us/pl/111/240/s2014/a], Sept. 27, 2010, [124 Stat. 2556][/us/stat/124/2556]; [Pub. L. 112–240, title III, § 326(a)][/us/pl/112/240/s326/a], (b), Jan. 2, 2013, [126 Stat. 2334][/us/stat/126/2334].)
+(Added [Pub. L. 97–354, § 2][/us/pl/97/354/s2], Oct. 19, 1982, [96 Stat. 1683][/us/stat/96/1683]; amended [Pub. L. 97–448, title III, § 305(d)(3)][/us/pl/97/448/s305/d/3], Jan. 12, 1983, [96 Stat. 2400][/us/stat/96/2400]; [Pub. L. 98–369, div. A, title I, § 102(d)(1)][/us/pl/98/369/s102/d/1], title IV, § 474(r)(27), title VII, § 721(u), July 18, 1984, [98 Stat. 623][/us/stat/98/623], 844, 971; [Pub. L. 99–514, title VI, § 632(a)][/us/pl/99/514/s632/a], Oct. 22, 1986, [100 Stat. 2275][/us/stat/100/2275]; [Pub. L. 100–647, title I, § 1006(f)(1)][/us/pl/100/647/s1006/f/1]–(5)(A), Nov. 10, 1988, [102 Stat. 3403][/us/stat/102/3403], 3404; [Pub. L. 101–239, title VII, § 7811(c)(4)][/us/pl/101/239/s7811/c/4], (5)(B), (8), Dec. 19, 1989, [103 Stat. 2407][/us/stat/103/2407], 2408; [Pub. L. 105–34, title XVI, § 1601(f)(5)(B)][/us/pl/105/34/s1601/f/5/B], Aug. 5, 1997, [111 Stat. 1091][/us/stat/111/1091]; [Pub. L. 111–5, div. B, title I, § 1251(a)][/us/pl/111/5/s1251/a], Feb. 17, 2009, [123 Stat. 342][/us/stat/123/342]; [Pub. L. 111–240, title II, § 2014(a)][/us/pl/111/240/s2014/a], Sept. 27, 2010, [124 Stat. 2556][/us/stat/124/2556]; [Pub. L. 112–240, title III, § 326(a)][/us/pl/112/240/s326/a], (b), Jan. 2, 2013, [126 Stat. 2334][/us/stat/126/2334]; [Pub. L. 113–295, div. A, title I, § 138(a)][/us/pl/113/295/s138/a], Dec. 19, 2014, [128 Stat. 4020][/us/stat/128/4020].)
 
  __Prior Provisions__ 
 
     A prior section 1374, added [Pub. L. 85–866, title I, § 64(a)][/us/pl/85/866/s64/a], Sept. 2, 1958, [72 Stat. 1653][/us/stat/72/1653]; amended [Pub. L. 86–376, § 2(b)][/us/pl/86/376/s2/b], Sept. 23, 1959, [73 Stat. 699][/us/stat/73/699]; [Pub. L. 94–455, title XIX, § 1901(a)(150)][/us/pl/94/455/s1901/a/150], Oct. 4, 1976, [90 Stat. 1788][/us/stat/90/1788], related to allowance to shareholders of corporation net operating loss, prior to the general revision of this subchapter by [section 2 of Pub. L. 97–354][/us/pl/97/354/s2].
 
  __Amendments__ 
+
+    2014—Subsec. (d)(7)(C). [Pub. L. 113–295][/us/pl/113/295] substituted “2012, 2013, and 2014” for “2012 and 2013” in heading and “2012, 2013, or 2014” for “2012 or 2013” in text.
 
     2013—Subsec. (d)(2)(B). [Pub. L. 112–240, § 326(b)][/us/pl/112/240/s326/b], inserted “described in subparagraph (A)” after “for any taxable year”.
 
@@ -256,6 +258,12 @@
     Subsec. (c)(4). [Pub. L. 98–369, § 102(d)(1)][/us/pl/98/369/s102/d/1], added par. (4).
 
     1983—Subsec. (d). [Pub. L. 97–448][/us/pl/97/448] substituted “this section” for “subsections (a)(2) and (b)(2)”.
+
+ __Effective Date of 2014 Amendment__ 
+
+[Pub. L. 113–295, div. A, title I, § 138(b)][/us/pl/113/295/s138/b], Dec. 19, 2014, [128 Stat. 4020][/us/stat/128/4020], provided that: 
+
+> “The amendments made by this section \[amending this section\] shall apply to taxable years beginning after December 31, 2013.”
 
  __Effective Date of 2013 Amendment__ 
 
@@ -338,6 +346,8 @@ Amendment by [Pub. L. 99–514][/us/pl/99/514] applicable to taxable years begin
 [/us/stat/124/2556]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2556
 [/us/pl/112/240/s326/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F240%2Fs326%2Fa
 [/us/stat/126/2334]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F2334
+[/us/pl/113/295/s138/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs138%2Fa
+[/us/stat/128/4020]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F4020
 [/us/pl/85/866/s64/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F866%2Fs64%2Fa
 [/us/stat/72/1653]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F1653
 [/us/pl/86/376/s2/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F376%2Fs2%2Fb
@@ -345,6 +355,7 @@ Amendment by [Pub. L. 99–514][/us/pl/99/514] applicable to taxable years begin
 [/us/pl/94/455/s1901/a/150]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1901%2Fa%2F150
 [/us/stat/90/1788]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1788
 [/us/pl/97/354/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F354%2Fs2
+[/us/pl/113/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295
 [/us/pl/112/240/s326/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F240%2Fs326%2Fb
 [/us/pl/112/240/s326/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F240%2Fs326%2Fa%2F1
 [/us/pl/112/240/s326/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F240%2Fs326%2Fa%2F3
@@ -367,6 +378,8 @@ Amendment by [Pub. L. 99–514][/us/pl/99/514] applicable to taxable years begin
 [/us/pl/98/369/s721/u]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs721%2Fu
 [/us/pl/98/369/s102/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs102%2Fd%2F1
 [/us/pl/97/448]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F448
+[/us/pl/113/295/s138/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs138%2Fb
+[/us/stat/128/4020]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F4020
 [/us/pl/112/240/s326/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F240%2Fs326%2Fc
 [/us/stat/126/2334]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F2334
 [/us/pl/111/240/s2014/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F240%2Fs2014%2Fb

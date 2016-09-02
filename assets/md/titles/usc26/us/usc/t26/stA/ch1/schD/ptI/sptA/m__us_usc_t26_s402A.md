@@ -107,7 +107,7 @@
 
                 (ii) such transfer shall be treated as a distribution to which this paragraph applies which was contributed in a qualified rollover contribution (within the meaning of section 408A(e)) to such account, and
 
-                (iii) the plan shall not be treated as violating the provisions of section 401(k)(2)(B)(i), 403(b)(7)(A)(i), 403(b)(11), or 457(d)(1)(A), or of [section 8433 of title 5][/us/usc/t5/s8433], United States Code, solely by reason of such transfer.
+                (iii) the plan shall not be treated as violating the provisions of section 401(k)(2)(B)(i), 403(b)(7)(A)(ii), 403(b)(11), or 457(d)(1)(A), or of [section 8433 of title 5][/us/usc/t5/s8433], United States Code, solely by reason of such transfer.
 
     (d) __Distribution rules__ 
 
@@ -171,9 +171,11 @@
 
             (B) any elective deferral of compensation by an individual under an eligible deferred compensation plan (as defined in section 457(b)) of an eligible employer described in section 457(e)(1)(A).
 
-(Added [Pub. L. 107–16, title VI, § 617(a)][/us/pl/107/16/s617/a], June 7, 2001, [115 Stat. 103][/us/stat/115/103]; amended [Pub. L. 111–240, title II][/us/pl/111/240], §§ 2111(a), (b), 2112(a), Sept. 27, 2010, [124 Stat. 2565][/us/stat/124/2565], 2566; [Pub. L. 112–240, title IX, § 902(a)][/us/pl/112/240/s902/a], Jan. 2, 2013, [126 Stat. 2371][/us/stat/126/2371].)
+(Added [Pub. L. 107–16, title VI, § 617(a)][/us/pl/107/16/s617/a], June 7, 2001, [115 Stat. 103][/us/stat/115/103]; amended [Pub. L. 111–240, title II][/us/pl/111/240], §§ 2111(a), (b), 2112(a), Sept. 27, 2010, [124 Stat. 2565][/us/stat/124/2565], 2566; [Pub. L. 112–240, title IX, § 902(a)][/us/pl/112/240/s902/a], Jan. 2, 2013, [126 Stat. 2371][/us/stat/126/2371]; [Pub. L. 113–295, div. A, title II, § 220(k)][/us/pl/113/295/s220/k], Dec. 19, 2014, [128 Stat. 4036][/us/stat/128/4036].)
 
  __Amendments__ 
+
+    2014—Subsec. (c)(4)(E)(iii). [Pub. L. 113–295][/us/pl/113/295] substituted “403(b)(7)(A)(ii)” for “403(b)(7)(A)(i)”.
 
     2013—Subsec. (c)(4)(E). [Pub. L. 112–240][/us/pl/112/240] added subpar. (E).
 
@@ -217,6 +219,9 @@
 [/us/stat/124/2565]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2565
 [/us/pl/112/240/s902/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F240%2Fs902%2Fa
 [/us/stat/126/2371]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F2371
+[/us/pl/113/295/s220/k]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs220%2Fk
+[/us/stat/128/4036]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F4036
+[/us/pl/113/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295
 [/us/pl/112/240]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F240
 [/us/pl/111/240/s2112/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F240%2Fs2112%2Fa
 [/us/pl/111/240/s2111/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F240%2Fs2111%2Fa

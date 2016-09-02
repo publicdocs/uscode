@@ -85,9 +85,11 @@
 
         (5) a program described in section 529,
 
-        (6) an eligible deferred compensation plan described in section 457(b) which is maintained by an employer described in section 457(e)(1)(A), or
+        (6) an eligible deferred compensation plan described in section 457(b) which is maintained by an employer described in section 457(e)(1)(A),
 
-        (7) an arrangement described in section 4973(a).
+        (7) an arrangement described in section 4973(a), or
+
+        (8) a program described in section 529A.
 
     (d) __Entity manager__ 
 
@@ -137,7 +139,7 @@
 
         The tax imposed by this section is in addition to any other tax, addition to tax, or penalty imposed under this title.
 
-(Added [Pub. L. 109–222, title V, § 516(a)(1)][/us/pl/109/222/s516/a/1], May 17, 2006, [120 Stat. 368][/us/stat/120/368]; amended [Pub. L. 110–172, § 11(a)(30)][/us/pl/110/172/s11/a/30], Dec. 29, 2007, [121 Stat. 2487][/us/stat/121/2487].)
+(Added [Pub. L. 109–222, title V, § 516(a)(1)][/us/pl/109/222/s516/a/1], May 17, 2006, [120 Stat. 368][/us/stat/120/368]; amended [Pub. L. 110–172, § 11(a)(30)][/us/pl/110/172/s11/a/30], Dec. 29, 2007, [121 Stat. 2487][/us/stat/121/2487]; [Pub. L. 113–295, div. B, title I, § 102(e)(3)][/us/pl/113/295/s102/e/3], Dec. 19, 2014, [128 Stat. 4062][/us/stat/128/4062].)
 
  __References in Text__ 
 
@@ -145,7 +147,13 @@
 
  __Amendments__ 
 
+    2014—Subsec. (c)(8). [Pub. L. 113–295][/us/pl/113/295] added par. (8).
+
     2007—Subsec. (c)(6). [Pub. L. 110–172][/us/pl/110/172] substituted “section 457(e)(1)(A)” for “section 4457(e)(1)(A)”.
+
+ __Effective Date of 2014 Amendment__ 
+
+    Amendment by [Pub. L. 113–295][/us/pl/113/295] applicable to taxable years beginning after Dec. 31, 2014, see [section 102(f)(1) of Pub. L. 113–295][/us/pl/113/295/s102/f/1], set out as a note under [section 552a of Title 5][/us/usc/t5/s552a], Government Organization and Employees.
 
  __Effective Date__ 
 
@@ -170,8 +178,14 @@
 [/us/stat/120/368]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F368
 [/us/pl/110/172/s11/a/30]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F172%2Fs11%2Fa%2F30
 [/us/stat/121/2487]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F2487
+[/us/pl/113/295/s102/e/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs102%2Fe%2F3
+[/us/stat/128/4062]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F4062
 [/us/pl/109/222]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F222
+[/us/pl/113/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295
 [/us/pl/110/172]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F172
+[/us/pl/113/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295
+[/us/pl/113/295/s102/f/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs102%2Ff%2F1
+[/us/usc/t5/s552a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs552a
 [/us/pl/109/222/s516/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F222%2Fs516%2Fd
 [/us/stat/120/372]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F372
 

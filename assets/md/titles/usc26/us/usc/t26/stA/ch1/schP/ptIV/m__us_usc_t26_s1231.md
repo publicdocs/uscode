@@ -135,7 +135,7 @@
 
         For purposes of this subsection, the term “non-recaptured net section 1231 losses” means the excess of—
 
-            (A) the aggregate amount of the net section 1231 losses for the 5 most recent preceding taxable years beginning after December 31, 1981, over
+            (A) the aggregate amount of the net section 1231 losses for the 5 most recent preceding taxable years, over
 
             (B) the portion of such losses taken into account under paragraph (1) for such preceding taxable years.
 
@@ -159,9 +159,11 @@
 
             For purposes of determining the amount of the net section 1231 gain or loss for any taxable year, the rules of paragraph (4) of subsection (a) shall apply.
 
-([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 325][/us/stat/68A/325]; [Pub. L. 85–866, title I, § 49(a)][/us/pl/85/866/s49/a], Sept. 2, 1958, [72 Stat. 1642][/us/stat/72/1642]; [Pub. L. 88–272, title II, § 227(a)(2)][/us/pl/88/272/s227/a/2], Feb. 26, 1964, [78 Stat. 97][/us/stat/78/97]; [Pub. L. 91–172, title II, § 212(b)(1)][/us/pl/91/172/s212/b/1], title V, §§ 514(b)(2), 516(b), Dec. 30, 1969, [83 Stat. 571][/us/stat/83/571], 643, 646; [Pub. L. 94–455, title XIV, § 1402(b)(1)(R)][/us/pl/94/455/s1402/b/1/R], (2), Oct. 4, 1976, [90 Stat. 1732][/us/stat/90/1732]; [Pub. L. 95–600, title VII, § 701(ee)(1)][/us/pl/95/600/s701/ee/1], Nov. 6, 1978, [92 Stat. 2924][/us/stat/92/2924]; [Pub. L. 97–34, title V, § 505(c)(1)][/us/pl/97/34/s505/c/1], Aug. 13, 1981, [95 Stat. 332][/us/stat/95/332]; [Pub. L. 98–369, div. A, title I, § 176(a)][/us/pl/98/369/s176/a], title VII, § 711(c)(2)(A)(iii), title X, § 1001(b)(15), (e), July 18, 1984, [98 Stat. 709][/us/stat/98/709], 944, 1012; [Pub. L. 106–170, title V, § 532(c)(1)(G)][/us/pl/106/170/s532/c/1/G], Dec. 17, 1999, [113 Stat. 1930][/us/stat/113/1930].)
+([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 325][/us/stat/68A/325]; [Pub. L. 85–866, title I, § 49(a)][/us/pl/85/866/s49/a], Sept. 2, 1958, [72 Stat. 1642][/us/stat/72/1642]; [Pub. L. 88–272, title II, § 227(a)(2)][/us/pl/88/272/s227/a/2], Feb. 26, 1964, [78 Stat. 97][/us/stat/78/97]; [Pub. L. 91–172, title II, § 212(b)(1)][/us/pl/91/172/s212/b/1], title V, §§ 514(b)(2), 516(b), Dec. 30, 1969, [83 Stat. 571][/us/stat/83/571], 643, 646; [Pub. L. 94–455, title XIV, § 1402(b)(1)(R)][/us/pl/94/455/s1402/b/1/R], (2), Oct. 4, 1976, [90 Stat. 1732][/us/stat/90/1732]; [Pub. L. 95–600, title VII, § 701(ee)(1)][/us/pl/95/600/s701/ee/1], Nov. 6, 1978, [92 Stat. 2924][/us/stat/92/2924]; [Pub. L. 97–34, title V, § 505(c)(1)][/us/pl/97/34/s505/c/1], Aug. 13, 1981, [95 Stat. 332][/us/stat/95/332]; [Pub. L. 98–369, div. A, title I, § 176(a)][/us/pl/98/369/s176/a], title VII, § 711(c)(2)(A)(iii), title X, § 1001(b)(15), (e), July 18, 1984, [98 Stat. 709][/us/stat/98/709], 944, 1012; [Pub. L. 106–170, title V, § 532(c)(1)(G)][/us/pl/106/170/s532/c/1/G], Dec. 17, 1999, [113 Stat. 1930][/us/stat/113/1930]; [Pub. L. 113–295, div. A, title II, § 221(a)(81)][/us/pl/113/295/s221/a/81], Dec. 19, 2014, [128 Stat. 4049][/us/stat/128/4049].)
 
  __Amendments__ 
+
+    2014—Subsec. (c)(2)(A). [Pub. L. 113–295][/us/pl/113/295] struck out “beginning after December 31, 1981” after “years”.
 
     1999—Subsec. (b)(1)(C), (D). [Pub. L. 106–170][/us/pl/106/170] substituted “section 1221(a)” for “section 1221”.
 
@@ -196,6 +198,10 @@
     1964—Subsec. (b)(2). [Pub. L. 88–272][/us/pl/88/272] inserted reference to iron ore in text, and to domestic iron ore in heading.
 
     1958—Subsec. (a). [Pub. L. 85–866][/us/pl/85/866] inserted provision respecting casualty losses sustained upon certain uninsured property.
+
+ __Effective Date of 2014 Amendment__ 
+
+    Amendment by [Pub. L. 113–295][/us/pl/113/295] effective Dec. 19, 2014, subject to a savings provision, see [section 221(b) of Pub. L. 113–295][/us/pl/113/295/s221/b], set out as a note under [section 1 of this title][/us/usc/t26/s1].
 
  __Effective Date of 1999 Amendment__ 
 
@@ -284,6 +290,9 @@
 [/us/stat/98/709]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F709
 [/us/pl/106/170/s532/c/1/G]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F170%2Fs532%2Fc%2F1%2FG
 [/us/stat/113/1930]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1930
+[/us/pl/113/295/s221/a/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs221%2Fa%2F81
+[/us/stat/128/4049]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F4049
+[/us/pl/113/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295
 [/us/pl/106/170]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F170
 [/us/pl/98/369/s1001/b/15]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs1001%2Fb%2F15
 [/us/pl/98/369/s711/c/2/A/iii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs711%2Fc%2F2%2FA%2Fiii
@@ -298,6 +307,9 @@
 [/us/pl/91/172/s212/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F172%2Fs212%2Fb%2F1
 [/us/pl/88/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F272
 [/us/pl/85/866]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F866
+[/us/pl/113/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295
+[/us/pl/113/295/s221/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs221%2Fb
+[/us/usc/t26/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs1
 [/us/pl/106/170]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F170
 [/us/pl/106/170/s532/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F170%2Fs532%2Fd
 [/us/usc/t26/s170]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs170

@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../../..//us/usc/t26/stD/ch31/schA/m__us_usc_t26_s4003.md) | [Next](./../../../../../..//us/usc/t26/stD/ch31/schB/m__us_usc_t26_s4041.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2FstD%2Fch31%2FschB)
+[Previous](./../../../../../..//us/usc/t26/stD/ch31/schA/m__us_usc_t26_stD_ch31_schA.md) | [Next](./../../../../../..//us/usc/t26/stD/ch31/schB/m__us_usc_t26_s4041.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2FstD%2Fch31%2FschB)
 
 #### Subchapter B—Special Fuels
 
@@ -65,7 +65,7 @@
 
 ----------
 
-[Previous](./../../../../../..//us/usc/t26/stD/ch31/schA/m__us_usc_t26_s4003.md) | [Next](./../../../../../..//us/usc/t26/stD/ch31/schB/m__us_usc_t26_s4041.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2FstD%2Fch31%2FschB)
+[Previous](./../../../../../..//us/usc/t26/stD/ch31/schA/m__us_usc_t26_stD_ch31_schA.md) | [Next](./../../../../../..//us/usc/t26/stD/ch31/schB/m__us_usc_t26_s4041.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2FstD%2Fch31%2FschB)
 
 ----------
 ----------

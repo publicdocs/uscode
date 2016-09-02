@@ -173,7 +173,7 @@
 
                 (i)
 
-                 an amount equal to the applicable percentage of the tax for the taxable year computed by placing on an annualized basis the taxable income, alternative minimum taxable income, and modified alternative minimum taxable income—
+                 an amount equal to the applicable percentage of the tax for the taxable year computed by placing on an annualized basis the taxable income and alternative minimum taxable income—
 
                     (I) for the first 3 months of the taxable year, in the case of the 1st required installment,
 
@@ -191,7 +191,7 @@
 
                 (i) __Annualization__ 
 
-                    The taxable income, alternative minimum taxable income, and modified alternative minimum taxable income shall be placed on an annualized basis under regulations prescribed by the Secretary.
+                    The taxable income and alternative minimum taxable income shall be placed on an annualized basis under regulations prescribed by the Secretary.
 
                 (ii) __Applicable percentage__ 
 
@@ -260,10 +260,6 @@
   </tr>
 
                 </table>
-
-                (iii) __Modified alternative minimum taxable income__ 
-
-                    The term “modified alternative minimum taxable income” has the meaning given to such term by section 59A(b).
 
             (C) __Election for different annualization periods__ 
 
@@ -385,11 +381,9 @@
 
                 (i) the tax imposed by section 11 or 1201(a), or subchapter L of chapter 1, whichever applies,
 
-                (ii) the tax imposed by section 55,
+                (ii) the tax imposed by section 55, plus
 
-                (iii) the tax imposed by section 59A, plus
-
-                (iv) the tax imposed by section 887, over
+                (iii) the tax imposed by section 887, over
 
             (B) the credits against tax provided by part IV of subchapter A of chapter 1.
 
@@ -435,7 +429,7 @@
 
              The following taxes shall be treated as imposed by section 11:
 
-                (i) The tax imposed by section 1374(a) (or the corresponding provisions of prior law).
+                (i) The tax imposed by section 1374(a).
 
                 (ii) The tax imposed by section 1375(a).
 
@@ -487,9 +481,17 @@
 
         The Secretary shall prescribe such regulations as may be necessary to carry out the purposes of this section.
 
-([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 825][/us/stat/68A/825]; [Pub. L. 88–272, title I, § 122(c)][/us/pl/88/272/s122/c], Feb. 26, 1964, [78 Stat. 28][/us/stat/78/28]; [Pub. L. 90–364, title I, § 103(c)][/us/pl/90/364/s103/c], (d)(2), (e)(1), June 28, 1968, [82 Stat. 262][/us/stat/82/262], 264; [Pub. L. 93–625, § 7(c)][/us/pl/93/625/s7/c], Jan. 3, 1975, [88 Stat. 2115][/us/stat/88/2115]; [Pub. L. 94–455, title XIX, § 1906(b)(3)(A)][/us/pl/94/455/s1906/b/3/A]–(C)(i), (13)(A), Oct. 4, 1976, [90 Stat. 1833][/us/stat/90/1833], 1834; [Pub. L. 95–600, title III, § 301(b)(20)(B)][/us/pl/95/600/s301/b/20/B], Nov. 6, 1978, [92 Stat. 2824][/us/stat/92/2824]; [Pub. L. 96–499, title XI, § 1111(a)][/us/pl/96/499/s1111/a], (b), Dec. 5, 1980, [94 Stat. 2681][/us/stat/94/2681], 2682; [Pub. L. 97–34, title VI, § 601(a)(6)(B)][/us/pl/97/34/s601/a/6/B], title VII, § 731(a), (b), Aug. 13, 1981, [95 Stat. 336][/us/stat/95/336], 346, 347; [Pub. L. 97–248, title II, § 234(a)][/us/pl/97/248/s234/a], (c), (d), Sept. 3, 1982, [96 Stat. 503][/us/stat/96/503], 504; [Pub. L. 97–448, title II, § 201(j)(4)][/us/pl/97/448/s201/j/4], Jan. 12, 1983, [96 Stat. 2396][/us/stat/96/2396]; [Pub. L. 99–499, title V, § 516(b)(4)(D)][/us/pl/99/499/s516/b/4/D], Oct. 17, 1986, [100 Stat. 1771][/us/stat/100/1771]; [Pub. L. 99–514, title VII, § 701(d)(3)][/us/pl/99/514/s701/d/3], title XV, § 1511(c)(15), Oct. 22, 1986, [100 Stat. 2342][/us/stat/100/2342], 2745; [Pub. L. 100–203, title X, § 10301(a)][/us/pl/100/203/s10301/a], Dec. 22, 1987, [101 Stat. 1330–424][/us/stat/101/1330-424]; [Pub. L. 100–418, title I, § 1941(b)(6)(B)][/us/pl/100/418/s1941/b/6/B], Aug. 23, 1988, [102 Stat. 1324][/us/stat/102/1324]; [Pub. L. 100–647, title II, § 2004(r)][/us/pl/100/647/s2004/r], title V, § 5001(a), Nov. 10, 1988, [102 Stat. 3609][/us/stat/102/3609], 3660; [Pub. L. 101–239, title VII][/us/pl/101/239], §§ 7209(a), 7822(a), Dec. 19, 1989, [103 Stat. 2338][/us/stat/103/2338], 2424; [Pub. L. 101–508, title XI, § 11704(a)(28)][/us/pl/101/508/s11704/a/28], Nov. 5, 1990, [104 Stat. 1388–519][/us/stat/104/1388-519]; [Pub. L. 102–227, title II, § 201(a)][/us/pl/102/227/s201/a], (b), Dec. 11, 1991, [105 Stat. 1689][/us/stat/105/1689]; [Pub. L. 102–244, § 3(a)][/us/pl/102/244/s3/a], Feb. 7, 1992, [106 Stat. 4][/us/stat/106/4]; [Pub. L. 102–318, title V, § 512(a)][/us/pl/102/318/s512/a], (b), July 3, 1992, [106 Stat. 300][/us/stat/106/300]; [Pub. L. 103–66, title XIII, § 13225(a)][/us/pl/103/66/s13225/a], (b), Aug. 10, 1993, [107 Stat. 486][/us/stat/107/486]; [Pub. L. 103–465, title VII, § 711(a)][/us/pl/103/465/s711/a], Dec. 8, 1994, [108 Stat. 4998][/us/stat/108/4998]; [Pub. L. 104–188, title I, § 1703(h)][/us/pl/104/188/s1703/h], Aug. 20, 1996, [110 Stat. 1876][/us/stat/110/1876]; [Pub. L. 105–34, title XIV, § 1461(a)][/us/pl/105/34/s1461/a], Aug. 5, 1997, [111 Stat. 1057][/us/stat/111/1057]; [Pub. L. 106–170, title V, § 571(a)][/us/pl/106/170/s571/a], Dec. 17, 1999, [113 Stat. 1950][/us/stat/113/1950]; [Pub. L. 106–554, § 1(a)(7)][/us/pl/106/554/s1/a/7] \[title III, § 319(21)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–647.)
+([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 825][/us/stat/68A/825]; [Pub. L. 88–272, title I, § 122(c)][/us/pl/88/272/s122/c], Feb. 26, 1964, [78 Stat. 28][/us/stat/78/28]; [Pub. L. 90–364, title I, § 103(c)][/us/pl/90/364/s103/c], (d)(2), (e)(1), June 28, 1968, [82 Stat. 262][/us/stat/82/262], 264; [Pub. L. 93–625, § 7(c)][/us/pl/93/625/s7/c], Jan. 3, 1975, [88 Stat. 2115][/us/stat/88/2115]; [Pub. L. 94–455, title XIX, § 1906(b)(3)(A)][/us/pl/94/455/s1906/b/3/A]–(C)(i), (13)(A), Oct. 4, 1976, [90 Stat. 1833][/us/stat/90/1833], 1834; [Pub. L. 95–600, title III, § 301(b)(20)(B)][/us/pl/95/600/s301/b/20/B], Nov. 6, 1978, [92 Stat. 2824][/us/stat/92/2824]; [Pub. L. 96–499, title XI, § 1111(a)][/us/pl/96/499/s1111/a], (b), Dec. 5, 1980, [94 Stat. 2681][/us/stat/94/2681], 2682; [Pub. L. 97–34, title VI, § 601(a)(6)(B)][/us/pl/97/34/s601/a/6/B], title VII, § 731(a), (b), Aug. 13, 1981, [95 Stat. 336][/us/stat/95/336], 346, 347; [Pub. L. 97–248, title II, § 234(a)][/us/pl/97/248/s234/a], (c), (d), Sept. 3, 1982, [96 Stat. 503][/us/stat/96/503], 504; [Pub. L. 97–448, title II, § 201(j)(4)][/us/pl/97/448/s201/j/4], Jan. 12, 1983, [96 Stat. 2396][/us/stat/96/2396]; [Pub. L. 99–499, title V, § 516(b)(4)(D)][/us/pl/99/499/s516/b/4/D], Oct. 17, 1986, [100 Stat. 1771][/us/stat/100/1771]; [Pub. L. 99–514, title VII, § 701(d)(3)][/us/pl/99/514/s701/d/3], title XV, § 1511(c)(15), Oct. 22, 1986, [100 Stat. 2342][/us/stat/100/2342], 2745; [Pub. L. 100–203, title X, § 10301(a)][/us/pl/100/203/s10301/a], Dec. 22, 1987, [101 Stat. 1330–424][/us/stat/101/1330-424]; [Pub. L. 100–418, title I, § 1941(b)(6)(B)][/us/pl/100/418/s1941/b/6/B], Aug. 23, 1988, [102 Stat. 1324][/us/stat/102/1324]; [Pub. L. 100–647, title II, § 2004(r)][/us/pl/100/647/s2004/r], title V, § 5001(a), Nov. 10, 1988, [102 Stat. 3609][/us/stat/102/3609], 3660; [Pub. L. 101–239, title VII][/us/pl/101/239], §§ 7209(a), 7822(a), Dec. 19, 1989, [103 Stat. 2338][/us/stat/103/2338], 2424; [Pub. L. 101–508, title XI, § 11704(a)(28)][/us/pl/101/508/s11704/a/28], Nov. 5, 1990, [104 Stat. 1388–519][/us/stat/104/1388-519]; [Pub. L. 102–227, title II, § 201(a)][/us/pl/102/227/s201/a], (b), Dec. 11, 1991, [105 Stat. 1689][/us/stat/105/1689]; [Pub. L. 102–244, § 3(a)][/us/pl/102/244/s3/a], Feb. 7, 1992, [106 Stat. 4][/us/stat/106/4]; [Pub. L. 102–318, title V, § 512(a)][/us/pl/102/318/s512/a], (b), July 3, 1992, [106 Stat. 300][/us/stat/106/300]; [Pub. L. 103–66, title XIII, § 13225(a)][/us/pl/103/66/s13225/a], (b), Aug. 10, 1993, [107 Stat. 486][/us/stat/107/486]; [Pub. L. 103–465, title VII, § 711(a)][/us/pl/103/465/s711/a], Dec. 8, 1994, [108 Stat. 4998][/us/stat/108/4998]; [Pub. L. 104–188, title I, § 1703(h)][/us/pl/104/188/s1703/h], Aug. 20, 1996, [110 Stat. 1876][/us/stat/110/1876]; [Pub. L. 105–34, title XIV, § 1461(a)][/us/pl/105/34/s1461/a], Aug. 5, 1997, [111 Stat. 1057][/us/stat/111/1057]; [Pub. L. 106–170, title V, § 571(a)][/us/pl/106/170/s571/a], Dec. 17, 1999, [113 Stat. 1950][/us/stat/113/1950]; [Pub. L. 106–554, § 1(a)(7)][/us/pl/106/554/s1/a/7] \[title III, § 319(21)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–647; [Pub. L. 113–295, div. A, title II, § 221(a)(12)(K)][/us/pl/113/295/s221/a/12/K], (114), Dec. 19, 2014, [128 Stat. 4039][/us/stat/128/4039], 4054.)
 
  __Amendments__ 
+
+    2014—Subsec. (e)(2)(A)(i), (B)(i). [Pub. L. 113–295, § 221(a)(12)(K)(i)][/us/pl/113/295/s221/a/12/K/i], substituted “taxable income and alternative minimum taxable income” for “taxable income, alternative minimum taxable income, and modified alternative minimum taxable income”.
+
+    Subsec. (e)(2)(B)(iii). [Pub. L. 113–295, § 221(a)(12)(K)(ii)][/us/pl/113/295/s221/a/12/K/ii], struck out cl. (iii). Text read as follows: “The term ‘modified alternative minimum taxable income’ has the meaning given to such term by section 59A(b).”
+
+    Subsec. (g)(1)(A)(ii) to (iv). [Pub. L. 113–295, § 221(a)(12)(K)(iii)][/us/pl/113/295/s221/a/12/K/iii], inserted “plus” at end of cl. (ii), redesignated cl. (iv) as (iii), and struck out former cl. (iii) which read as follows: “the tax imposed by section 59A, plus”.
+
+    Subsec. (g)(4)(A)(i). [Pub. L. 113–295, § 221(a)(114)][/us/pl/113/295/s221/a/114], struck out “(or the corresponding provisions of prior law)” before period at end.
 
     2000—Subsec. (e)(5)(A), (B). [Pub. L. 106–554][/us/pl/106/554] substituted “subsection (d)(5)” for “subsections (d)(5) and (l)(3)(B)”.
 
@@ -613,6 +615,10 @@
 
     Subsec. (d)(3). [Pub. L. 88–272, § 122(c)(2)][/us/pl/88/272/s122/c/2], redesignated cls. (A)(i) and (ii) as (A)(iii) and (iv), respectively, added cls. (A)(i) and (ii), and substituted “(3, 5, 6, 8, 9,)” for “(6 or 8, or 9)” in subpar. (B)(ii).
 
+ __Effective Date of 2014 Amendment__ 
+
+    Amendment by [Pub. L. 113–295][/us/pl/113/295] effective Dec. 19, 2014, subject to a savings provision, see [section 221(b) of Pub. L. 113–295][/us/pl/113/295/s221/b], set out as a note under [section 1 of this title][/us/usc/t26/s1].
+
  __Effective Date of 1999 Amendment__ 
 
 [Pub. L. 106–170, title V, § 571(b)][/us/pl/106/170/s571/b], Dec. 17, 1999, [113 Stat. 1951][/us/stat/113/1951], provided that: 
@@ -731,11 +737,11 @@
 
  __Repeal of Certain Shifts in the Timing of Corporate Estimated Tax Payments__ 
 
-[Pub. L. 112–96, title VII, § 7001][/us/pl/112/96/s7001], Feb. 22, 2012, [126 Stat. 256][/us/stat/126/256], provided that: 
+[Pub. L. 112–96, title VII, § 7001][/us/pl/112/96/s7001], Feb. 22, 2012, [126 Stat. 256][/us/stat/126/256], as amended by [Pub. L. 113–295, div. A, title II, § 203(a)][/us/pl/113/295/s203/a], Dec. 19, 2014, [128 Stat. 4024][/us/stat/128/4024], provided that: 
 
 > “The following provisions of law (and any modification of any such provision which is contained in any other provision of law) shall not apply with respect to any installment of corporate estimated tax:
 
->     “(1) Section 201(b) \[probably should be “202(b)”\] of the Corporate Estimated Tax Shift Act of 2009 \[[Pub. L. 111–42][/us/pl/111/42], set out below\].
+>     “(1) Section 202(b) of the Corporate Estimated Tax Shift Act of 2009 \[[Pub. L. 111–42][/us/pl/111/42], set out below\].
 
 >     “(2) Section 561 of the Hiring Incentives to Restore Employment Act \[[Pub. L. 111–147][/us/pl/111/147], set out below\].
 
@@ -744,6 +750,12 @@
 >     “(4) Section 603 of the United States-Colombia Trade Promotion Agreement Implementation Act \[[Pub. L. 112–42][/us/pl/112/42], [19 U.S.C. 3805][/us/usc/t19/s3805] note\].
 
 >     “(5) Section 502 of the United States-Panama Trade Promotion Agreement Implementation Act \[[Pub. L. 112–43][/us/pl/112/43], [19 U.S.C. 3805][/us/usc/t19/s3805] note\].”
+
+\[[Pub. L. 113–295, div. A, title II, § 203(b)][/us/pl/113/295/s203/b], Dec. 19, 2014, [128 Stat. 4025][/us/stat/128/4025], provided that: 
+
+> “The amendment made by subsection (a) \[amending [section 7001 of Pub. L. 112–96][/us/pl/112/96/s7001], set out above\] shall take effect as if included in section 7001 of the Middle Class Tax Relief and Job Creation Act of 2012 \[[Pub. L. 112–96][/us/pl/112/96]\].”
+
+\]
 
  __Payment of Corporate Estimated Taxes__ 
 
@@ -1072,6 +1084,12 @@
 [/us/stat/113/1950]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1950
 [/us/pl/106/554/s1/a/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F7
 [/us/stat/114/2763]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2763
+[/us/pl/113/295/s221/a/12/K]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs221%2Fa%2F12%2FK
+[/us/stat/128/4039]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F4039
+[/us/pl/113/295/s221/a/12/K/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs221%2Fa%2F12%2FK%2Fi
+[/us/pl/113/295/s221/a/12/K/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs221%2Fa%2F12%2FK%2Fii
+[/us/pl/113/295/s221/a/12/K/iii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs221%2Fa%2F12%2FK%2Fiii
+[/us/pl/113/295/s221/a/114]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs221%2Fa%2F114
 [/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
 [/us/pl/106/170]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F170
 [/us/pl/105/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34
@@ -1133,6 +1151,9 @@
 [/us/pl/90/364/s103/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F364%2Fs103%2Fd%2F2
 [/us/pl/88/272/s122/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F272%2Fs122%2Fc%2F1
 [/us/pl/88/272/s122/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F272%2Fs122%2Fc%2F2
+[/us/pl/113/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295
+[/us/pl/113/295/s221/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs221%2Fb
+[/us/usc/t26/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs1
 [/us/pl/106/170/s571/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F170%2Fs571%2Fb
 [/us/stat/113/1951]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1951
 [/us/pl/105/34/s1461/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2Fs1461%2Fb
@@ -1211,6 +1232,8 @@
 [/us/usc/t26/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs1
 [/us/pl/112/96/s7001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F96%2Fs7001
 [/us/stat/126/256]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F256
+[/us/pl/113/295/s203/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs203%2Fa
+[/us/stat/128/4024]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F4024
 [/us/pl/111/42]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F42
 [/us/pl/111/147]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F147
 [/us/pl/112/41]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F41
@@ -1219,6 +1242,10 @@
 [/us/usc/t19/s3805]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs3805
 [/us/pl/112/43]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F43
 [/us/usc/t19/s3805]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs3805
+[/us/pl/113/295/s203/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs203%2Fb
+[/us/stat/128/4025]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F4025
+[/us/pl/112/96/s7001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F96%2Fs7001
+[/us/pl/112/96]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F96
 [/us/pl/112/163/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F163%2Fs4
 [/us/stat/126/1277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1277
 [/us/pl/112/43/s502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F43%2Fs502

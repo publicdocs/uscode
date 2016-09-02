@@ -29,7 +29,7 @@
 
             (D) in the case of a taxpayer other than a C corporation, the indebtedness discharged is qualified real property business indebtedness, or
 
-            (E) the indebtedness discharged is qualified principal residence indebtedness which is discharged before January 1, 2014.
+            (E) the indebtedness discharged is qualified principal residence indebtedness which is discharged before January 1, 2015.
 
         (2) __Coordination of exclusions__ 
 
@@ -583,13 +583,15 @@
 
             (C) rules for the application of this subsection to partnerships, S corporations, and other pass-thru entities, including for the allocation of deferred deductions.
 
-([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 32][/us/stat/68A/32]; [June 29, 1956, ch. 463, § 5][/us/act/1956-06-29/ch463/s5], [70 Stat. 403][/us/stat/70/403]; [Pub. L. 88–496, § 1(a)][/us/pl/88/496/s1/a], June 8, 1960, [74 Stat. 164][/us/stat/74/164]; [Pub. L. 94–455, title XIX][/us/pl/94/455], §§ 1906(b)(13)(A), 1951(b)(2)(A), Oct. 4, 1976, [90 Stat. 1834][/us/stat/90/1834], 1836; [Pub. L. 96–589, § 2(a)][/us/pl/96/589/s2/a], Dec. 24, 1980, [94 Stat. 3389][/us/stat/94/3389]; [Pub. L. 97–354, § 3(e)][/us/pl/97/354/s3/e], Oct. 19, 1982, [96 Stat. 1689][/us/stat/96/1689]; [Pub. L. 97–448, title I, § 102(h)(1)][/us/pl/97/448/s102/h/1], title III, § 304(d), Jan. 12, 1983, [96 Stat. 2372][/us/stat/96/2372], 2398; [Pub. L. 98–369, div. A, title I, § 59(a)][/us/pl/98/369/s59/a], (b)(1), title IV, § 474(r)(5), title VII, § 721(b)(2), title X, § 1076(a), July 18, 1984, [98 Stat. 576][/us/stat/98/576], 839, 966, 1053; [Pub. L. 99–514, title I, § 104(b)(2)][/us/pl/99/514/s104/b/2], title II, § 231(d)(3)(D), title IV, § 405(a), title VI, § 621(e)(1), title VIII, §§ 805(c)(2)–(4), 822(a), (b)(1)–(3), title XI, § 1171(b)(4), title XVIII, § 1847(b)(7), Oct. 22, 1986, [100 Stat. 2105][/us/stat/100/2105], 2179, 2224, 2266, 2362, 2373, 2513, 2856; [Pub. L. 100–647, title I, § 1004(a)(1)][/us/pl/100/647/s1004/a/1]–(4), (6), Nov. 10, 1988, [102 Stat. 3385][/us/stat/102/3385], 3387; [Pub. L. 101–508, title XI][/us/pl/101/508], §§ 11325(a)(1), (b), 11813(b)(6), Nov. 5, 1990, [104 Stat. 1388–466][/us/stat/104/1388-466], 1388–551; [Pub. L. 103–66, title XIII][/us/pl/103/66], §§ 13150(a)–(c)(5), 13226(a)(1), (2)(B), (b)(1)–(3), Aug. 10, 1993, [107 Stat. 446–448][/us/stat/107/446-448], 487, 488; [Pub. L. 104–188, title I, § 1703(n)(2)][/us/pl/104/188/s1703/n/2], Aug. 20, 1996, [110 Stat. 1877][/us/stat/110/1877]; [Pub. L. 105–34, title II, § 225(a)][/us/pl/105/34/s225/a], Aug. 5, 1997, [111 Stat. 820][/us/stat/111/820]; [Pub. L. 105–206, title VI, § 6004(f)][/us/pl/105/206/s6004/f], July 22, 1998, [112 Stat. 795][/us/stat/112/795]; [Pub. L. 107–147, title IV, § 402(a)][/us/pl/107/147/s402/a], Mar. 9, 2002, [116 Stat. 40][/us/stat/116/40]; [Pub. L. 108–357, title III, § 320(a)][/us/pl/108/357/s320/a], title VIII, § 896(a), Oct. 22, 2004, [118 Stat. 1473][/us/stat/118/1473], 1648; [Pub. L. 110–142, § 2(a)][/us/pl/110/142/s2/a]–(c), Dec. 20, 2007, [121 Stat. 1803][/us/stat/121/1803], 1804; [Pub. L. 110–343, div. A, title III, § 303(a)][/us/pl/110/343/s303/a], Oct. 3, 2008, [122 Stat. 3807][/us/stat/122/3807]; [Pub. L. 111–5, div. B, title I, § 1231(a)][/us/pl/111/5/s1231/a], Feb. 17, 2009, [123 Stat. 338][/us/stat/123/338]; [Pub. L. 111–148, title X, § 10908(a)][/us/pl/111/148/s10908/a], Mar. 23, 2010, [124 Stat. 1021][/us/stat/124/1021]; [Pub. L. 112–240, title II, § 202(a)][/us/pl/112/240/s202/a], Jan. 2, 2013, [126 Stat. 2323][/us/stat/126/2323].)
+([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 32][/us/stat/68A/32]; [June 29, 1956, ch. 463, § 5][/us/act/1956-06-29/ch463/s5], [70 Stat. 403][/us/stat/70/403]; [Pub. L. 88–496, § 1(a)][/us/pl/88/496/s1/a], June 8, 1960, [74 Stat. 164][/us/stat/74/164]; [Pub. L. 94–455, title XIX][/us/pl/94/455], §§ 1906(b)(13)(A), 1951(b)(2)(A), Oct. 4, 1976, [90 Stat. 1834][/us/stat/90/1834], 1836; [Pub. L. 96–589, § 2(a)][/us/pl/96/589/s2/a], Dec. 24, 1980, [94 Stat. 3389][/us/stat/94/3389]; [Pub. L. 97–354, § 3(e)][/us/pl/97/354/s3/e], Oct. 19, 1982, [96 Stat. 1689][/us/stat/96/1689]; [Pub. L. 97–448, title I, § 102(h)(1)][/us/pl/97/448/s102/h/1], title III, § 304(d), Jan. 12, 1983, [96 Stat. 2372][/us/stat/96/2372], 2398; [Pub. L. 98–369, div. A, title I, § 59(a)][/us/pl/98/369/s59/a], (b)(1), title IV, § 474(r)(5), title VII, § 721(b)(2), title X, § 1076(a), July 18, 1984, [98 Stat. 576][/us/stat/98/576], 839, 966, 1053; [Pub. L. 99–514, title I, § 104(b)(2)][/us/pl/99/514/s104/b/2], title II, § 231(d)(3)(D), title IV, § 405(a), title VI, § 621(e)(1), title VIII, §§ 805(c)(2)–(4), 822(a), (b)(1)–(3), title XI, § 1171(b)(4), title XVIII, § 1847(b)(7), Oct. 22, 1986, [100 Stat. 2105][/us/stat/100/2105], 2179, 2224, 2266, 2362, 2373, 2513, 2856; [Pub. L. 100–647, title I, § 1004(a)(1)][/us/pl/100/647/s1004/a/1]–(4), (6), Nov. 10, 1988, [102 Stat. 3385][/us/stat/102/3385], 3387; [Pub. L. 101–508, title XI][/us/pl/101/508], §§ 11325(a)(1), (b), 11813(b)(6), Nov. 5, 1990, [104 Stat. 1388–466][/us/stat/104/1388-466], 1388–551; [Pub. L. 103–66, title XIII][/us/pl/103/66], §§ 13150(a)–(c)(5), 13226(a)(1), (2)(B), (b)(1)–(3), Aug. 10, 1993, [107 Stat. 446–448][/us/stat/107/446-448], 487, 488; [Pub. L. 104–188, title I, § 1703(n)(2)][/us/pl/104/188/s1703/n/2], Aug. 20, 1996, [110 Stat. 1877][/us/stat/110/1877]; [Pub. L. 105–34, title II, § 225(a)][/us/pl/105/34/s225/a], Aug. 5, 1997, [111 Stat. 820][/us/stat/111/820]; [Pub. L. 105–206, title VI, § 6004(f)][/us/pl/105/206/s6004/f], July 22, 1998, [112 Stat. 795][/us/stat/112/795]; [Pub. L. 107–147, title IV, § 402(a)][/us/pl/107/147/s402/a], Mar. 9, 2002, [116 Stat. 40][/us/stat/116/40]; [Pub. L. 108–357, title III, § 320(a)][/us/pl/108/357/s320/a], title VIII, § 896(a), Oct. 22, 2004, [118 Stat. 1473][/us/stat/118/1473], 1648; [Pub. L. 110–142, § 2(a)][/us/pl/110/142/s2/a]–(c), Dec. 20, 2007, [121 Stat. 1803][/us/stat/121/1803], 1804; [Pub. L. 110–343, div. A, title III, § 303(a)][/us/pl/110/343/s303/a], Oct. 3, 2008, [122 Stat. 3807][/us/stat/122/3807]; [Pub. L. 111–5, div. B, title I, § 1231(a)][/us/pl/111/5/s1231/a], Feb. 17, 2009, [123 Stat. 338][/us/stat/123/338]; [Pub. L. 111–148, title X, § 10908(a)][/us/pl/111/148/s10908/a], Mar. 23, 2010, [124 Stat. 1021][/us/stat/124/1021]; [Pub. L. 112–240, title II, § 202(a)][/us/pl/112/240/s202/a], Jan. 2, 2013, [126 Stat. 2323][/us/stat/126/2323]; [Pub. L. 113–295, div. A, title I, § 102(a)][/us/pl/113/295/s102/a], Dec. 19, 2014, [128 Stat. 4013][/us/stat/128/4013].)
 
  __References in Text__ 
 
     Sections 338B(g) and 338I of the Public Health Service Act, referred to in subsec. (f)(4), are classified to sections 254l–1(g) and 254q–1, respectively, of Title 42, The Public Health and Welfare.
 
  __Amendments__ 
+
+    2014—Subsec. (a)(1)(E). [Pub. L. 113–295][/us/pl/113/295] substituted “January 1, 2015” for “January 1, 2014”.
 
     2013—Subsec. (a)(1)(E). [Pub. L. 112–240][/us/pl/112/240] substituted “January 1, 2014” for “January 1, 2013”.
 
@@ -768,6 +770,12 @@
     1960—Subsec. (b). [Pub. L. 86–496][/us/pl/86/496] provided that if the discharge, cancellation, or modification of any indebtedness is effected pursuant to a court order in a receivership proceeding or in a proceeding under section 77 of the Bankruptcy Act, commenced before Jan. 1, 1960, then no amount is to be included in gross income with respect to it, and struck out provisions which made subsection inapplicable to discharges occurring in a taxable year beginning after Dec. 31, 1957.
 
     1956—Subsec. (b). Act June 29, 1956, substituted “December 31, 1957” for “December 31, 1955”.
+
+ __Effective Date of 2014 Amendment__ 
+
+[Pub. L. 113–295, div. A, title I, § 102(b)][/us/pl/113/295/s102/b], Dec. 19, 2014, [128 Stat. 4013][/us/stat/128/4013], provided that: 
+
+> “The amendment made by this section \[amending this section\] shall apply to indebtedness discharged after December 31, 2013.”
 
  __Effective Date of 2013 Amendment__ 
 
@@ -1152,6 +1160,9 @@
 [/us/stat/124/1021]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1021
 [/us/pl/112/240/s202/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F240%2Fs202%2Fa
 [/us/stat/126/2323]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F2323
+[/us/pl/113/295/s102/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs102%2Fa
+[/us/stat/128/4013]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F4013
+[/us/pl/113/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295
 [/us/pl/112/240]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F240
 [/us/pl/111/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148
 [/us/pl/111/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5
@@ -1234,6 +1245,8 @@
 [/us/pl/94/455/s1951/b/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1951%2Fb%2F2%2FA
 [/us/pl/94/455/s1906/b/13/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1906%2Fb%2F13%2FA
 [/us/pl/86/496]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F496
+[/us/pl/113/295/s102/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs102%2Fb
+[/us/stat/128/4013]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F4013
 [/us/pl/112/240/s202/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F240%2Fs202%2Fb
 [/us/stat/126/2323]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F2323
 [/us/pl/111/148/s10908/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs10908%2Fb

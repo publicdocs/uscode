@@ -15,11 +15,13 @@
 
 ## § 4293. Exemption for United States and possessions
 
-    The Secretary of the Treasury may authorize exemption from the taxes imposed by subchapter A of chapter 31, section 4041, section 4051, chapter 32 (other than the taxes imposed by sections 4064 and 4121) and subchapter B of chapter 33, as to any particular article, or service or class of articles or services, to be purchased for the exclusive use of the United States, if he determines that the imposition of such taxes with respect to such articles or services, or class of articles or services will cause substantial burden or expense which can be avoided by granting tax exemption and that full benefit of such exemption, if granted, will accrue to the United States.
+    The Secretary of the Treasury may authorize exemption from the taxes imposed by section 4041, section 4051, chapter 32 (other than the taxes imposed by sections 4064 and 4121) and subchapter B of chapter 33, as to any particular article, or service or class of articles or services, to be purchased for the exclusive use of the United States, if he determines that the imposition of such taxes with respect to such articles or services, or class of articles or services will cause substantial burden or expense which can be avoided by granting tax exemption and that full benefit of such exemption, if granted, will accrue to the United States.
 
-([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 511][/us/stat/68A/511]; [Pub. L. 91–258, title II, § 205(a)(3)][/us/pl/91/258/s205/a/3], May 21, 1970, [84 Stat. 241][/us/stat/84/241]; [Pub. L. 94–455, title XIX, § 1906(b)(13)(B)][/us/pl/94/455/s1906/b/13/B], Oct. 4, 1976, [90 Stat. 1834][/us/stat/90/1834]; [Pub. L. 95–227, § 2(b)(3)][/us/pl/95/227/s2/b/3], Feb. 10, 1978, [92 Stat. 12][/us/stat/92/12]; [Pub. L. 95–502, title II, § 202(b)][/us/pl/95/502/s202/b], Oct. 21, 1978, [92 Stat. 1697][/us/stat/92/1697]; [Pub. L. 95–618, title II, § 201(c)(2)][/us/pl/95/618/s201/c/2], Nov. 9, 1978, [92 Stat. 3184][/us/stat/92/3184]; [Pub. L. 100–647, title VI, § 6103(a)][/us/pl/100/647/s6103/a], Nov. 10, 1988, [102 Stat. 3711][/us/stat/102/3711]; [Pub. L. 101–508, title XI, § 11221(c)][/us/pl/101/508/s11221/c], Nov. 5, 1990, [104 Stat. 1388–444][/us/stat/104/1388-444].)
+([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 511][/us/stat/68A/511]; [Pub. L. 91–258, title II, § 205(a)(3)][/us/pl/91/258/s205/a/3], May 21, 1970, [84 Stat. 241][/us/stat/84/241]; [Pub. L. 94–455, title XIX, § 1906(b)(13)(B)][/us/pl/94/455/s1906/b/13/B], Oct. 4, 1976, [90 Stat. 1834][/us/stat/90/1834]; [Pub. L. 95–227, § 2(b)(3)][/us/pl/95/227/s2/b/3], Feb. 10, 1978, [92 Stat. 12][/us/stat/92/12]; [Pub. L. 95–502, title II, § 202(b)][/us/pl/95/502/s202/b], Oct. 21, 1978, [92 Stat. 1697][/us/stat/92/1697]; [Pub. L. 95–618, title II, § 201(c)(2)][/us/pl/95/618/s201/c/2], Nov. 9, 1978, [92 Stat. 3184][/us/stat/92/3184]; [Pub. L. 100–647, title VI, § 6103(a)][/us/pl/100/647/s6103/a], Nov. 10, 1988, [102 Stat. 3711][/us/stat/102/3711]; [Pub. L. 101–508, title XI, § 11221(c)][/us/pl/101/508/s11221/c], Nov. 5, 1990, [104 Stat. 1388–444][/us/stat/104/1388-444]; [Pub. L. 113–295, div. A, title II, § 221(a)(103)(B)(iii)][/us/pl/113/295/s221/a/103/B/iii], Dec. 19, 2014, [128 Stat. 4053][/us/stat/128/4053].)
 
  __Amendments__ 
+
+    2014—[Pub. L. 113–295][/us/pl/113/295] struck out “subchapter A of chapter 31,” after “imposed by”.
 
     1990—[Pub. L. 101–508][/us/pl/101/508] inserted “subchapter A of chapter 31,” before “section 4041”.
 
@@ -35,9 +37,13 @@
 
     1970—[Pub. L. 91–258][/us/pl/91/258] substituted “subchapter B” for “subchapters B and C”.
 
+ __Effective Date of 2014 Amendment__ 
+
+    Amendment by [Pub. L. 113–295][/us/pl/113/295] effective Dec. 19, 2014, subject to a savings provision, see [section 221(b) of Pub. L. 113–295][/us/pl/113/295/s221/b], set out as a note under [section 1 of this title][/us/usc/t26/s1].
+
  __Effective Date of 1990 Amendment__ 
 
-    Amendment by [Pub. L. 101–508][/us/pl/101/508] effective Jan. 1, 1991, with exception for contracts binding on Sept. 30, 1990, and at all times thereafter, see [section 11221(f) of Pub. L. 101–508][/us/pl/101/508/s11221/f], set out as an Effective Date note under [section 4001 of this title][/us/usc/t26/s4001].
+    Amendment by [Pub. L. 101–508][/us/pl/101/508] effective Jan. 1, 1991, with exception for contracts binding on Sept. 30, 1990, and at all times thereafter, see [section 11221(f) of Pub. L. 101–508][/us/pl/101/508/s11221/f], set out as a note under [section 4221 of this title][/us/usc/t26/s4221].
 
  __Effective Date of 1988 Amendment__ 
 
@@ -94,6 +100,9 @@
 [/us/stat/102/3711]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3711
 [/us/pl/101/508/s11221/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs11221%2Fc
 [/us/stat/104/1388-444]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1388-444
+[/us/pl/113/295/s221/a/103/B/iii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs221%2Fa%2F103%2FB%2Fiii
+[/us/stat/128/4053]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F4053
+[/us/pl/113/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295
 [/us/pl/101/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508
 [/us/pl/100/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647
 [/us/usc/t26/s4051]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs4051
@@ -102,9 +111,12 @@
 [/us/pl/95/227]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F227
 [/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455
 [/us/pl/91/258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F258
+[/us/pl/113/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295
+[/us/pl/113/295/s221/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs221%2Fb
+[/us/usc/t26/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs1
 [/us/pl/101/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508
 [/us/pl/101/508/s11221/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs11221%2Ff
-[/us/usc/t26/s4001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs4001
+[/us/usc/t26/s4221]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs4221
 [/us/pl/100/647/s6103/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs6103%2Fb
 [/us/stat/102/3711]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3711
 [/us/pl/95/618]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F618

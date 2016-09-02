@@ -73,9 +73,9 @@
 
   <tr>
 
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs36A" data-uslm-ref="/us/usc/t26/s36A">36A.</a>  </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs36A" data-uslm-ref="/us/usc/t26/s36A">36A.</a>  </td>
 
-    <td> Making work pay credit.  </td>
+    <td> Repealed.]  </td>
 
   </tr>
 
@@ -107,6 +107,8 @@
 
  __Amendments__ 
 
+    2014—[Pub. L. 113–295, div. A, title II, § 221(a)(5)(A)][/us/pl/113/295/s221/a/5/A], Dec. 19, 2014, [128 Stat. 4037][/us/stat/128/4037], struck out item 36A “Making work pay credit”.
+
     2010—[Pub. L. 111–148, title X, § 10909(b)(2)(Q)][/us/pl/111/148/s10909/b/2/Q], (c), Mar. 23, 2010, [124 Stat. 1023][/us/stat/124/1023], as amended by [Pub. L. 111–312, title I, § 101(b)(1)][/us/pl/111/312/s101/b/1], Dec. 17, 2010, [124 Stat. 3298][/us/stat/124/3298], temporarily added item 36C “Adoption expenses”. See Effective and Termination Dates of 2010 Amendment note set out under [section 1 of this title][/us/usc/t26/s1].
 
     [Pub. L. 111–148, title I, § 1401(d)(2)][/us/pl/111/148/s1401/d/2], Mar. 23, 2010, [124 Stat. 220][/us/stat/124/220], added item 36B.
@@ -126,6 +128,8 @@
 ----------
 ----------
 
+[/us/pl/113/295/s221/a/5/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs221%2Fa%2F5%2FA
+[/us/stat/128/4037]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F4037
 [/us/pl/111/148/s10909/b/2/Q]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs10909%2Fb%2F2%2FQ
 [/us/stat/124/1023]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1023
 [/us/pl/111/312/s101/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F312%2Fs101%2Fb%2F1

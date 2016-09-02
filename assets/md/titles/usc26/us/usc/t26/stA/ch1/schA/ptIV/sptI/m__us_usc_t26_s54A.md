@@ -81,7 +81,7 @@
 
             An issue shall be treated as meeting the requirements of this paragraph if, as of the date of issuance, the issuer reasonably expects—
 
-                (i) 100 percent or more of the available project proceeds to be spent for 1 or more qualified purposes within the 3-year period beginning on such date of issuance, and
+                (i) 100 percent of the available project proceeds to be spent for 1 or more qualified purposes within the 3-year period beginning on such date of issuance, and
 
                 (ii) a binding commitment with a third party to spend at least 10 percent of such available project proceeds will be incurred within the 6-month period beginning on such date of issuance.
 
@@ -229,13 +229,15 @@
 
             In the case of a separation described in paragraph (1), the rules of section 1286 shall apply to the qualified tax credit bond as if it were a stripped bond and to the credit under this section as if it were a stripped coupon.
 
-(Added [Pub. L. 110–234, title XV, § 15316(a)][/us/pl/110/234/s15316/a], May 22, 2008, [122 Stat. 1505][/us/stat/122/1505], and [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title XV, § 15316(a), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 2267; amended [Pub. L. 110–343, div. B, title I, § 107(b)(1)][/us/pl/110/343/s107/b/1], (2), title III, § 301(b)(1), (2), div. C, title III, § 313(b)(1), (2), Oct. 3, 2008, [122 Stat. 3818][/us/stat/122/3818], 3819, 3843, 3844, 3872; [Pub. L. 111–5, div. B, title I][/us/pl/111/5], §§ 1521(b)(1), (2), 1531(c)(2), 1541(b)(2), Feb. 17, 2009, [123 Stat. 357][/us/stat/123/357], 360, 362.)
+(Added [Pub. L. 110–234, title XV, § 15316(a)][/us/pl/110/234/s15316/a], May 22, 2008, [122 Stat. 1505][/us/stat/122/1505], and [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title XV, § 15316(a), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 2267; amended [Pub. L. 110–343, div. B, title I, § 107(b)(1)][/us/pl/110/343/s107/b/1], (2), title III, § 301(b)(1), (2), div. C, title III, § 313(b)(1), (2), Oct. 3, 2008, [122 Stat. 3818][/us/stat/122/3818], 3819, 3843, 3844, 3872; [Pub. L. 111–5, div. B, title I][/us/pl/111/5], §§ 1521(b)(1), (2), 1531(c)(2), 1541(b)(2), Feb. 17, 2009, [123 Stat. 357][/us/stat/123/357], 360, 362; [Pub. L. 113–295, div. A, title II, § 220(e)][/us/pl/113/295/s220/e], Dec. 19, 2014, [128 Stat. 4036][/us/stat/128/4036].)
 
  __Codification__ 
 
     [Pub. L. 110–234][/us/pl/110/234] and [Pub. L. 110–246][/us/pl/110/246] enacted identical sections. [Pub. L. 110–234][/us/pl/110/234] was repealed by [section 4(a) of Pub. L. 110–246][/us/pl/110/246/s4/a].
 
  __Amendments__ 
+
+    2014—Subsec. (d)(2)(A)(i). [Pub. L. 113–295][/us/pl/113/295] substituted “100 percent” for “100 percent or more”.
 
     2009—Subsec. (c)(1)(B). [Pub. L. 111–5, § 1531(c)(2)][/us/pl/111/5/s1531/c/2], substituted “subparts C and J” for “subpart C”.
 
@@ -310,10 +312,13 @@
 [/us/stat/122/3818]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3818
 [/us/pl/111/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5
 [/us/stat/123/357]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F357
+[/us/pl/113/295/s220/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs220%2Fe
+[/us/stat/128/4036]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F4036
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
+[/us/pl/113/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295
 [/us/pl/111/5/s1531/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5%2Fs1531%2Fc%2F2
 [/us/pl/111/5/s1521/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5%2Fs1521%2Fb%2F1
 [/us/pl/111/5/s1521/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5%2Fs1521%2Fb%2F2

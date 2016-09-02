@@ -21,7 +21,7 @@
 
     (b) __Income items__ 
 
-    The items of income referred to in subsection (a) are interest (other than original issue discount as defined in section 1273), dividends, rent, salaries, wages, premiums, annuities, compensations, remunerations, emoluments, or other fixed or determinable annual or periodical gains, profits, and income, gains described in section 631(b) or (c), amounts subject to tax under section 871(a)(1)(C), gains subject to tax under section 871(a)(1)(D), and gains on transfers described in section 1235 made on or before October 4, 1966. The items of income referred to in subsection (a) from which tax shall be deducted and withheld at the rate of 14 percent are amounts which are received by a nonresident alien individual who is temporarily present in the United States as a nonimmigrant under subparagraph (F), (J), (M), or (Q) of section 101(a)(15) of the Immigration and Nationality Act and which are—
+    The items of income referred to in subsection (a) are interest (other than original issue discount as defined in section 1273), dividends, rent, salaries, wages, premiums, annuities, compensations, remunerations, emoluments, or other fixed or determinable annual or periodical gains, profits, and income, gains described in section 631(b) or (c), amounts subject to tax under section 871(a)(1)(C), and gains subject to tax under section 871(a)(1)(D). The items of income referred to in subsection (a) from which tax shall be deducted and withheld at the rate of 14 percent are amounts which are received by a nonresident alien individual who is temporarily present in the United States as a nonimmigrant under subparagraph (F), (J), (M), or (Q) of section 101(a)(15) of the Immigration and Nationality Act and which are—
 
         (1) incident to a qualified scholarship to which section 117(a) applies, but only to the extent includible in gross income; or
 
@@ -59,7 +59,7 @@
 
         (5) __Special items__ 
 
-            In the case of gains described in section 631(b) or (c), gains subject to tax under section 871(a)(1)(D), and gains on transfers described in section 1235 made on or before October 4, 1966, the amount required to be deducted and withheld shall, if the amount of such gain is not known to the withholding agent, be such amount, not exceeding 30 percent of the amount payable, as may be necessary to assure that the tax deducted and withheld shall not be less than 30 percent of such gain.
+            In the case of gains described in section 631(b) or (c), and gains subject to tax under section 871(a)(1)(D), the amount required to be deducted and withheld shall, if the amount of such gain is not known to the withholding agent, be such amount, not exceeding 30 percent of the amount payable, as may be necessary to assure that the tax deducted and withheld shall not be less than 30 percent of such gain.
 
         (6) __Per diem of certain aliens__ 
 
@@ -111,7 +111,7 @@
 
         For provision treating 85 percent of social security benefits as subject to withholding under this section, see section 871(a)(3).
 
-([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 357][/us/stat/68A/357]; [Aug. 26, 1954, ch. 937][/us/act/1954-08-26/ch937], title V, § 544(f), as added [July 18, 1956, ch. 627, § 11(a)][/us/act/1956-07-18/ch627/s11/a], [70 Stat. 563][/us/stat/70/563]; amended [Pub. L. 85–141, § 11(b)(1)][/us/pl/85/141/s11/b/1], Aug. 14, 1957, [71 Stat. 365][/us/stat/71/365]; [Pub. L. 85–866, title I, § 40(b)][/us/pl/85/866/s40/b], Sept. 2, 1958, [72 Stat. 1638][/us/stat/72/1638]; [Pub. L. 87–256, § 110(d)][/us/pl/87/256/s110/d], Sept. 21, 1961, [75 Stat. 536][/us/stat/75/536]; [Pub. L. 88–272, title III, § 302(c)][/us/pl/88/272/s302/c], Feb. 26, 1964, [78 Stat. 146][/us/stat/78/146]; [Pub. L. 89–809, title I, § 103(h)][/us/pl/89/809/s103/h], Nov. 13, 1966, [80 Stat. 1553][/us/stat/80/1553]; [Pub. L. 91–172, title V, § 505(b)][/us/pl/91/172/s505/b], Dec. 30, 1969, [83 Stat. 634][/us/stat/83/634]; [Pub. L. 92–178, title III, § 313(a)][/us/pl/92/178/s313/a], (d), Dec. 10, 1971, [85 Stat. 526][/us/stat/85/526], 527; [Pub. L. 94–455, title XIX, § 1906(b)(13)(A)][/us/pl/94/455/s1906/b/13/A], Oct. 4, 1976, [90 Stat. 1834][/us/stat/90/1834]; [Pub. L. 98–21, title I, § 121(c)(2)][/us/pl/98/21/s121/c/2], Apr. 20, 1983, [97 Stat. 82][/us/stat/97/82]; [Pub. L. 98–369, div. A, title I][/us/pl/98/369], §§ 42(a)(13), 127(e)(1), title IV, § 474(r)(29)(G), (H), July 18, 1984, [98 Stat. 557][/us/stat/98/557], 652, 845; [Pub. L. 99–514, title I, § 123(b)(2)][/us/pl/99/514/s123/b/2], title XII, § 1214(c)(3), title XVIII, § 1810(d)(3)(D), Oct. 22, 1986, [100 Stat. 2113][/us/stat/100/2113], 2542, 2825; [Pub. L. 100–647, title I, § 1001(d)(2)(A)][/us/pl/100/647/s1001/d/2/A], title VI, § 6134(a)(2), Nov. 10, 1988, [102 Stat. 3350][/us/stat/102/3350], 3721; [Pub. L. 101–508, title XI, § 11704(a)(14)][/us/pl/101/508/s11704/a/14], Nov. 5, 1990, [104 Stat. 1388–518][/us/stat/104/1388-518]; [Pub. L. 102–318, title V, § 521(b)(32)][/us/pl/102/318/s521/b/32], (33), July 3, 1992, [106 Stat. 312][/us/stat/106/312]; [Pub. L. 103–66, title XIII, § 13237(c)(4)][/us/pl/103/66/s13237/c/4], Aug. 10, 1993, [107 Stat. 508][/us/stat/107/508]; [Pub. L. 103–296, title III, § 320(a)(1)(B)][/us/pl/103/296/s320/a/1/B], Aug. 15, 1994, [108 Stat. 1535][/us/stat/108/1535]; [Pub. L. 105–34, title XVI, § 1604(g)(3)][/us/pl/105/34/s1604/g/3], Aug. 5, 1997, [111 Stat. 1099][/us/stat/111/1099]; [Pub. L. 108–357, title IV, § 411(a)(3)(A)][/us/pl/108/357/s411/a/3/A], Oct. 22, 2004, [118 Stat. 1503][/us/stat/118/1503].)
+([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 357][/us/stat/68A/357]; [Aug. 26, 1954, ch. 937][/us/act/1954-08-26/ch937], title V, § 544(f), as added [July 18, 1956, ch. 627, § 11(a)][/us/act/1956-07-18/ch627/s11/a], [70 Stat. 563][/us/stat/70/563]; amended [Pub. L. 85–141, § 11(b)(1)][/us/pl/85/141/s11/b/1], Aug. 14, 1957, [71 Stat. 365][/us/stat/71/365]; [Pub. L. 85–866, title I, § 40(b)][/us/pl/85/866/s40/b], Sept. 2, 1958, [72 Stat. 1638][/us/stat/72/1638]; [Pub. L. 87–256, § 110(d)][/us/pl/87/256/s110/d], Sept. 21, 1961, [75 Stat. 536][/us/stat/75/536]; [Pub. L. 88–272, title III, § 302(c)][/us/pl/88/272/s302/c], Feb. 26, 1964, [78 Stat. 146][/us/stat/78/146]; [Pub. L. 89–809, title I, § 103(h)][/us/pl/89/809/s103/h], Nov. 13, 1966, [80 Stat. 1553][/us/stat/80/1553]; [Pub. L. 91–172, title V, § 505(b)][/us/pl/91/172/s505/b], Dec. 30, 1969, [83 Stat. 634][/us/stat/83/634]; [Pub. L. 92–178, title III, § 313(a)][/us/pl/92/178/s313/a], (d), Dec. 10, 1971, [85 Stat. 526][/us/stat/85/526], 527; [Pub. L. 94–455, title XIX, § 1906(b)(13)(A)][/us/pl/94/455/s1906/b/13/A], Oct. 4, 1976, [90 Stat. 1834][/us/stat/90/1834]; [Pub. L. 98–21, title I, § 121(c)(2)][/us/pl/98/21/s121/c/2], Apr. 20, 1983, [97 Stat. 82][/us/stat/97/82]; [Pub. L. 98–369, div. A, title I][/us/pl/98/369], §§ 42(a)(13), 127(e)(1), title IV, § 474(r)(29)(G), (H), July 18, 1984, [98 Stat. 557][/us/stat/98/557], 652, 845; [Pub. L. 99–514, title I, § 123(b)(2)][/us/pl/99/514/s123/b/2], title XII, § 1214(c)(3), title XVIII, § 1810(d)(3)(D), Oct. 22, 1986, [100 Stat. 2113][/us/stat/100/2113], 2542, 2825; [Pub. L. 100–647, title I, § 1001(d)(2)(A)][/us/pl/100/647/s1001/d/2/A], title VI, § 6134(a)(2), Nov. 10, 1988, [102 Stat. 3350][/us/stat/102/3350], 3721; [Pub. L. 101–508, title XI, § 11704(a)(14)][/us/pl/101/508/s11704/a/14], Nov. 5, 1990, [104 Stat. 1388–518][/us/stat/104/1388-518]; [Pub. L. 102–318, title V, § 521(b)(32)][/us/pl/102/318/s521/b/32], (33), July 3, 1992, [106 Stat. 312][/us/stat/106/312]; [Pub. L. 103–66, title XIII, § 13237(c)(4)][/us/pl/103/66/s13237/c/4], Aug. 10, 1993, [107 Stat. 508][/us/stat/107/508]; [Pub. L. 103–296, title III, § 320(a)(1)(B)][/us/pl/103/296/s320/a/1/B], Aug. 15, 1994, [108 Stat. 1535][/us/stat/108/1535]; [Pub. L. 105–34, title XVI, § 1604(g)(3)][/us/pl/105/34/s1604/g/3], Aug. 5, 1997, [111 Stat. 1099][/us/stat/111/1099]; [Pub. L. 108–357, title IV, § 411(a)(3)(A)][/us/pl/108/357/s411/a/3/A], Oct. 22, 2004, [118 Stat. 1503][/us/stat/118/1503]; [Pub. L. 113–295, div. A, title II, § 221(a)(92)][/us/pl/113/295/s221/a/92], Dec. 19, 2014, [128 Stat. 4050][/us/stat/128/4050].)
 
  __References in Text__ 
 
@@ -124,6 +124,8 @@
     The Mutual Security Act of 1954, referred to in subsec. (c)(6), is [act Aug. 26, 1954, ch. 937][/us/act/1954-08-26/ch937], [68 Stat. 832][/us/stat/68/832], as amended by acts [July 8, 1955, ch. 301][/us/act/1955-07-08/ch301], [69 Stat. 283][/us/stat/69/283]; [July 18, 1956, ch. 627][/us/act/1956-07-18/ch627], §§ 2 to 11, [70 Stat. 555][/us/stat/70/555]; Aug. 14, 1957, [Pub. L. 85–141][/us/pl/85/141], [71 Stat. 355][/us/stat/71/355]; June 30, 1958, [Pub. L. 85–477][/us/pl/85/477], ch. 1, §§ 101 to 103, ch. II, §§ 201 to 205, ch. III, § 301, ch. IV, § 401, ch. V, § 501, [72 Stat. 261][/us/stat/72/261]; July 24, 1959, [Pub. L. 86–108, § 2][/us/pl/86/108/s2], ch. 1, § 101, ch. II, §§ 201 to 205(a) to (i), (k) to (n), ch. III, § 301, ch. IV, § 401(a) to (k), (m), [73 Stat. 246][/us/stat/73/246]; May 14, 1960, [Pub. L. 86–472][/us/pl/86/472], ch. I to V, [74 Stat. 134][/us/stat/74/134], which was principally classified to chapter 24 (§ 1750 et seq.) of Title 22, Foreign Relations and Intercourse, and which was repealed by [act July 18, 1956, ch. 627, § 8(m)][/us/act/1956-07-18/ch627/s8/m], [70 Stat. 559][/us/stat/70/559], [Pub. L. 85–141][/us/pl/85/141], §§ 2(e), 3, 4(b), 11(d), Aug. 14, 1957, [71 Stat. 356][/us/stat/71/356], [Pub. L. 86–108][/us/pl/86/108], ch. II, §§ 205(j), ch. IV, 401(1), July 24, 1959, [73 Stat. 250][/us/stat/73/250], [Pub. L. 86–472][/us/pl/86/472], ch. II, §§ 203(d), 204(k), May 14, 1960, [74 Stat. 138][/us/stat/74/138], [Pub. L. 87–195][/us/pl/87/195], pt. III, § 642(a)(2), Sept. 4, 1961, [75 Stat. 460][/us/stat/75/460], [Pub. L. 94–329, title II, § 212(b)(1)][/us/pl/94/329/s212/b/1], June 30, 1976, 90 Stat 745, except for sections 1754, 1783, 1796, 1853, 1922, 1928, and 1937 of Title 22. For complete classification of this Act to the Code, see Short Title note set out under [section 1754 of Title 22][/us/usc/t22/s1754] and Tables.
 
  __Amendments__ 
+
+    2014—Subsecs. (b), (c)(5). [Pub. L. 113–295][/us/pl/113/295] substituted “and gains subject to tax under section 871(a)(1)(D)” for “gains subject to tax under section 871(a)(1)(D), and gains on transfers described in section 1235 made on or before October 4, 1966”.
 
     2004—Subsec. (c)(12). [Pub. L. 108–357][/us/pl/108/357] added par. (12).
 
@@ -194,6 +196,10 @@
     1958—Subsecs. (b), (c)(5). [Pub. L. 85–866][/us/pl/85/866] inserted “section 403(a)(2),” after “section 402(a)(2),”.
 
     1956—Subsec. (c)(6). Act July 18, 1956, added section 544(f) to act Aug. 26, 1954, which section amended this subsection by adding par. (6).
+
+ __Effective Date of 2014 Amendment__ 
+
+    Amendment by [Pub. L. 113–295][/us/pl/113/295] effective Dec. 19, 2014, subject to a savings provision, see [section 221(b) of Pub. L. 113–295][/us/pl/113/295/s221/b], set out as a note under [section 1 of this title][/us/usc/t26/s1].
 
  __Effective Date of 2004 Amendment__ 
 
@@ -327,6 +333,8 @@
 [/us/stat/111/1099]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1099
 [/us/pl/108/357/s411/a/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357%2Fs411%2Fa%2F3%2FA
 [/us/stat/118/1503]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1503
+[/us/pl/113/295/s221/a/92]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs221%2Fa%2F92
+[/us/stat/128/4050]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F4050
 [/us/usc/t8/s1101/a/15]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1101%2Fa%2F15
 [/us/pl/87/256]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F256
 [/us/stat/75/527]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F75%2F527
@@ -360,6 +368,7 @@
 [/us/stat/75/460]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F75%2F460
 [/us/pl/94/329/s212/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F329%2Fs212%2Fb%2F1
 [/us/usc/t22/s1754]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs1754
+[/us/pl/113/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295
 [/us/pl/108/357]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357
 [/us/pl/105/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34
 [/us/pl/103/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F296
@@ -392,6 +401,9 @@
 [/us/pl/87/256/s110/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F256%2Fs110%2Fd%2F2
 [/us/pl/87/256/s110/d/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F256%2Fs110%2Fd%2F3
 [/us/pl/85/866]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F866
+[/us/pl/113/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295
+[/us/pl/113/295/s221/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs221%2Fb
+[/us/usc/t26/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs1
 [/us/pl/108/357]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357
 [/us/pl/108/357/s411/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357%2Fs411%2Fd%2F1
 [/us/usc/t26/s871]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs871

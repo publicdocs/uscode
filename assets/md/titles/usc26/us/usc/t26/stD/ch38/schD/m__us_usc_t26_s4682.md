@@ -681,11 +681,7 @@
 
     (h) __Imposition of floor stocks taxes__ 
 
-        (1)  __January 1, 1990__  __, tax__ 
-
-            On any ozone-depleting chemical which on January 1, 1990, is held by any person (other than the manufacturer, producer, or importer thereof) for sale or for use in further manufacture, there is hereby imposed a floor stocks tax in an amount equal to the tax which would be imposed by section 4681 on such chemical if the sale of such chemical by the manufacturer, producer, or importer thereof had occurred during 1990.
-
-        (2) __Other tax-increase dates__ 
+        (1) __In general__ 
 
             (A) __In general__ 
 
@@ -701,23 +697,25 @@
 
             (C) __Tax-increase date__ 
 
-                For purposes of this paragraph, the term “tax-increase date” means January 1 of any calendar year after 1991.
+                For purposes of this paragraph, the term “tax-increase date” means January 1 of any calendar year.
 
-        (3) __Due date__ 
+        (2) __Due date__ 
 
             The taxes imposed by this subsection on January 1 of any calendar year shall be paid on or before June 30 of such year.
 
-        (4) __Application of other laws__ 
+        (3) __Application of other laws__ 
 
             All other provisions of law, including penalties, applicable with respect to the taxes imposed by section 4681 shall apply to the floor stocks taxes imposed by this subsection.
 
-(Added [Pub. L. 101–239, title VII, § 7506(a)][/us/pl/101/239/s7506/a], Dec. 19, 1989, [103 Stat. 2365][/us/stat/103/2365]; amended [Pub. L. 101–508, title XI][/us/pl/101/508], §§ 11203(a), (b), (d), 11701(g), Nov. 5, 1990, [104 Stat. 1388–421][/us/stat/104/1388-421], 1388–422, 1388–508; [Pub. L. 102–486, title XIX][/us/pl/102/486], §§ 1931(b), (c), 1932(a)–(c), Oct. 24, 1992, [106 Stat. 3029–3031][/us/stat/106/3029-3031]; [Pub. L. 104–188, title I, § 1803(a)(1)][/us/pl/104/188/s1803/a/1], (b), Aug. 20, 1996, [110 Stat. 1892][/us/stat/110/1892], 1893; [Pub. L. 105–34, title IX, § 903(a)][/us/pl/105/34/s903/a], title XIV, § 1432(c)(2), Aug. 5, 1997, [111 Stat. 873][/us/stat/111/873], 1051.)
+(Added [Pub. L. 101–239, title VII, § 7506(a)][/us/pl/101/239/s7506/a], Dec. 19, 1989, [103 Stat. 2365][/us/stat/103/2365]; amended [Pub. L. 101–508, title XI][/us/pl/101/508], §§ 11203(a), (b), (d), 11701(g), Nov. 5, 1990, [104 Stat. 1388–421][/us/stat/104/1388-421], 1388–422, 1388–508; [Pub. L. 102–486, title XIX][/us/pl/102/486], §§ 1931(b), (c), 1932(a)–(c), Oct. 24, 1992, [106 Stat. 3029–3031][/us/stat/106/3029-3031]; [Pub. L. 104–188, title I, § 1803(a)(1)][/us/pl/104/188/s1803/a/1], (b), Aug. 20, 1996, [110 Stat. 1892][/us/stat/110/1892], 1893; [Pub. L. 105–34, title IX, § 903(a)][/us/pl/105/34/s903/a], title XIV, § 1432(c)(2), Aug. 5, 1997, [111 Stat. 873][/us/stat/111/873], 1051; [Pub. L. 113–295, div. A, title II, § 221(a)(107)][/us/pl/113/295/s221/a/107], Dec. 19, 2014, [128 Stat. 4053][/us/stat/128/4053].)
 
  __Prior Provisions__ 
 
     A prior section 4682, added [Pub. L. 96–510, title II, § 231(a)][/us/pl/96/510/s231/a], Dec. 11, 1980, [94 Stat. 2804][/us/stat/94/2804], was contained in subchapter C of this chapter, prior to repeal by [Pub. L. 99–499, title V, § 514(a)(1)][/us/pl/99/499/s514/a/1], (c), Oct. 17, 1986, [100 Stat. 1767][/us/stat/100/1767], effective Oct. 1, 1983, with provision for waiver of statute of limitations on claims for overpayment.
 
  __Amendments__ 
+
+    2014—Subsec. (h). [Pub. L. 113–295][/us/pl/113/295] redesignated pars. (2) to (4) as (1) to (3), respectively, in par. (1), as so redesignated, substituted “In general” for “Other tax-increase dates” in heading and struck out “after 1991” after “calendar year” in subpar. (C), and struck out former par. (1), which read as follows: “On any ozone-depleting chemical which on January 1, 1990, is held by any person (other than the manufacturer, producer, or importer thereof) for sale or for use in further manufacture, there is hereby imposed a floor stocks tax in an amount equal to the tax which would be imposed by section 4681 on such chemical if the sale of such chemical by the manufacturer, producer, or importer thereof had occurred during 1990.”
 
     1997—Subsec. (d)(1). [Pub. L. 105–34, § 903(a)][/us/pl/105/34/s903/a], substituted “recycled Halon-1301 or recycled Halon-2402” for “recycled halon”.
 
@@ -752,6 +750,10 @@
     Subsec. (d)(3)(C). [Pub. L. 101–508, § 11203(b)][/us/pl/101/508/s11203/b], added subpar. (C).
 
     Subsec. (h)(3). [Pub. L. 101–508, § 11203(d)(2)][/us/pl/101/508/s11203/d/2], substituted “June 30” for “April 1”.
+
+ __Effective Date of 2014 Amendment__ 
+
+    Amendment by [Pub. L. 113–295][/us/pl/113/295] effective Dec. 19, 2014, subject to a savings provision, see [section 221(b) of Pub. L. 113–295][/us/pl/113/295/s221/b], set out as a note under [section 1 of this title][/us/usc/t26/s1].
 
  __Effective Date of 1997 Amendment__ 
 
@@ -820,10 +822,13 @@
 [/us/stat/110/1892]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1892
 [/us/pl/105/34/s903/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2Fs903%2Fa
 [/us/stat/111/873]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F873
+[/us/pl/113/295/s221/a/107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs221%2Fa%2F107
+[/us/stat/128/4053]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F4053
 [/us/pl/96/510/s231/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F510%2Fs231%2Fa
 [/us/stat/94/2804]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2804
 [/us/pl/99/499/s514/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F499%2Fs514%2Fa%2F1
 [/us/stat/100/1767]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1767
+[/us/pl/113/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295
 [/us/pl/105/34/s903/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2Fs903%2Fa
 [/us/pl/105/34/s1432/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2Fs1432%2Fc%2F2
 [/us/pl/104/188/s1803/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188%2Fs1803%2Fa%2F1
@@ -841,6 +846,9 @@
 [/us/pl/101/508/s11701/g/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs11701%2Fg%2F5
 [/us/pl/101/508/s11203/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs11203%2Fb
 [/us/pl/101/508/s11203/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs11203%2Fd%2F2
+[/us/pl/113/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295
+[/us/pl/113/295/s221/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs221%2Fb
+[/us/usc/t26/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs1
 [/us/pl/105/34/s903/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2Fs903%2Fb
 [/us/stat/111/873]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F873
 [/us/pl/104/188/s1803/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188%2Fs1803%2Fc

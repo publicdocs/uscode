@@ -19,9 +19,9 @@
 
         (1) __Ordinary income__ 
 
-        Except as otherwise provided in this section, if farm land which the taxpayer has held for less than 10 years is disposed of during a taxable year beginning after December 31, 1969, the lower of—
+        Except as otherwise provided in this section, if farm land which the taxpayer has held for less than 10 years is disposed of during a taxable year beginning, <sup>\[1\]</sup>  <sup><sup> 1 So in original. </sup></sup>  the lower of—
 
-            (A) the applicable percentage of the aggregate of the deductions allowed under sections 175 (relating to soil and water conservation expenditures) and 182 (relating to expenditures by farmers for clearing land) for expenditures made by the taxpayer after December 31, 1969, with respect to the farm land or
+            (A) the applicable percentage of the aggregate of the deductions allowed under sections 175 (relating to soil and water conservation expenditures) and 182  <sup>\[2\]</sup>  <sup><sup> 2 See References in Text note below. </sup></sup>  (as in effect on the day before the date of the enactment of the Tax Reform Act of 1986) for expenditures made by the taxpayer with respect to the farm land or
 
             (B)
 
@@ -35,7 +35,7 @@
 
         (2) __Farm land__ 
 
-            For purposes of this section, the term “farm land” means any land with respect to which deductions have been allowed under sections 175 (relating to soil and water conservation expenditures) or 182 (as in effect on the day before the date of the enactment of the Tax Reform Act of 1986).
+            For purposes of this section, the term “farm land” means any land with respect to which deductions have been allowed under sections 175 (relating to soil and water conservation expenditures) or 182 2 (relating to expenditures by farmers for clearing land).
 
         (3) __Applicable percentage__ 
 
@@ -135,13 +135,19 @@
 
         Under regulations prescribed by the Secretary, rules similar to the rules of section 1245 shall be applied for purposes of this section.
 
-(Added [Pub. L. 91–172, title II, § 214(a)][/us/pl/91/172/s214/a], Dec. 30, 1969, [83 Stat. 572][/us/stat/83/572]; amended [Pub. L. 94–455, title XIX][/us/pl/94/455], §§ 1901(b)(3)(K), 1906(b)(13)(A), Oct. 4, 1976, [90 Stat. 1793][/us/stat/90/1793], 1834; [Pub. L. 98–369, div. A, title IV, § 492(b)(5)][/us/pl/98/369/s492/b/5], July 18, 1984, [98 Stat. 854][/us/stat/98/854]; [Pub. L. 99–514, title IV, § 402(b)(2)][/us/pl/99/514/s402/b/2], Oct. 22, 1986, [100 Stat. 2221][/us/stat/100/2221].)
+(Added [Pub. L. 91–172, title II, § 214(a)][/us/pl/91/172/s214/a], Dec. 30, 1969, [83 Stat. 572][/us/stat/83/572]; amended [Pub. L. 94–455, title XIX][/us/pl/94/455], §§ 1901(b)(3)(K), 1906(b)(13)(A), Oct. 4, 1976, [90 Stat. 1793][/us/stat/90/1793], 1834; [Pub. L. 98–369, div. A, title IV, § 492(b)(5)][/us/pl/98/369/s492/b/5], July 18, 1984, [98 Stat. 854][/us/stat/98/854]; [Pub. L. 99–514, title IV, § 402(b)(2)][/us/pl/99/514/s402/b/2], Oct. 22, 1986, [100 Stat. 2221][/us/stat/100/2221]; [Pub. L. 113–295, div. A, title II, § 221(a)(85)][/us/pl/113/295/s221/a/85], Dec. 19, 2014, [128 Stat. 4049][/us/stat/128/4049].)
 
  __References in Text__ 
 
-    The date of the enactment of the Tax Reform Act of 1986, referred to in subsec. (a)(1)(A), is the date of enactment of [Pub. L. 99–514][/us/pl/99/514], which was approved Oct. 22, 1986. Section 402(a) of the Tax Reform Act of 1986 repealed [section 182 of this title][/us/usc/t26/s182].
+    Section 182, referred to in subsec. (a), was repealed by [Pub. L. 99–514, title IV, § 402(a)][/us/pl/99/514/s402/a], Oct. 22, 1986, [100 Stat. 2221][/us/stat/100/2221].
+
+    The date of the enactment of the Tax Reform Act of 1986, referred to in subsec. (a)(1)(A), is the date of enactment of [Pub. L. 99–514][/us/pl/99/514], which was approved Oct. 22, 1986.
 
  __Amendments__ 
+
+    2014—Subsec. (a)(1). [Pub. L. 113–295, § 221(a)(85)(A)][/us/pl/113/295/s221/a/85/A], struck out “after December 31, 1969” after “beginning”.
+
+    Subsec. (a)(1)(A). [Pub. L. 113–295, § 221(a)(85)(B)][/us/pl/113/295/s221/a/85/B], struck out “after December 31, 1969,” after “taxpayer”.
 
     1986—Subsec. (a)(1)(A). [Pub. L. 99–514][/us/pl/99/514] substituted “(as in effect on the day before the date of the enactment of the Tax Reform Act of 1986)” for “(relating to expenditures by farmers for clearing land)”.
 
@@ -150,6 +156,10 @@
     1976—Subsec. (a)(1). [Pub. L. 94–455, § 1901(b)(3)(K)][/us/pl/94/455/s1901/b/3/K], substituted “ordinary income” for “gain from the sale or exchange of property which is neither a capital asset nor property described in section 1231”.
 
     Subsec. (b). [Pub. L. 94–455, § 1906(b)(13)(A)][/us/pl/94/455/s1906/b/13/A], struck out “or his delegate” after “Secretary”.
+
+ __Effective Date of 2014 Amendment__ 
+
+    Amendment by [Pub. L. 113–295][/us/pl/113/295] effective Dec. 19, 2014, subject to a savings provision, see [section 221(b) of Pub. L. 113–295][/us/pl/113/295/s221/b], set out as a note under [section 1 of this title][/us/usc/t26/s1].
 
  __Effective Date of 1986 Amendment__ 
 
@@ -184,12 +194,20 @@
 [/us/stat/98/854]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F854
 [/us/pl/99/514/s402/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs402%2Fb%2F2
 [/us/stat/100/2221]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2221
+[/us/pl/113/295/s221/a/85]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs221%2Fa%2F85
+[/us/stat/128/4049]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F4049
+[/us/pl/99/514/s402/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs402%2Fa
+[/us/stat/100/2221]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2221
 [/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
-[/us/usc/t26/s182]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs182
+[/us/pl/113/295/s221/a/85/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs221%2Fa%2F85%2FA
+[/us/pl/113/295/s221/a/85/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs221%2Fa%2F85%2FB
 [/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
 [/us/pl/98/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369
 [/us/pl/94/455/s1901/b/3/K]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1901%2Fb%2F3%2FK
 [/us/pl/94/455/s1906/b/13/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1906%2Fb%2F13%2FA
+[/us/pl/113/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295
+[/us/pl/113/295/s221/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs221%2Fb
+[/us/usc/t26/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs1
 [/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
 [/us/pl/99/514/s402/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs402%2Fc
 [/us/usc/t26/s182]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs182

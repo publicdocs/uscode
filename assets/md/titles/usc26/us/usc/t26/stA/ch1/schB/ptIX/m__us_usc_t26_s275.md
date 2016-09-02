@@ -39,13 +39,13 @@
 
         (6) Taxes imposed by chapters 41, 42, 43, 44, 45, 46, and 54.
 
-        Paragraph (1) shall not apply to the tax imposed by section 59A. Paragraph (1) shall not apply to any taxes to the extent such taxes are allowable as a deduction under section 164(f).
+        Paragraph (1) shall not apply to any taxes to the extent such taxes are allowable as a deduction under section 164(f).
 
     (b) __Cross reference__ 
 
         For disallowance of certain other taxes, see section 164(c).
 
-(Added [Pub. L. 88–272, title II, § 207(b)(3)(A)][/us/pl/88/272/s207/b/3/A], Feb. 26, 1964, [78 Stat. 42][/us/stat/78/42]; amended [Pub. L. 93–406, title II, § 1016(a)(1)][/us/pl/93/406/s1016/a/1], Sept. 2, 1974, [88 Stat. 929][/us/stat/88/929]; [Pub. L. 94–455, title XIII, § 1307(d)(2)(A)][/us/pl/94/455/s1307/d/2/A], title XVI, § 1605(b)(1), title XIX, § 1901(a)(39), Oct. 4, 1976, [90 Stat. 1727][/us/stat/90/1727], 1754, 1771; [Pub. L. 95–600, title VII, § 701(t)(3)(B)][/us/pl/95/600/s701/t/3/B], Nov. 6, 1978, [92 Stat. 2912][/us/stat/92/2912]; [Pub. L. 97–248, title III][/us/pl/97/248], §§ 305(a), 308(a), Sept. 3, 1982, [96 Stat. 588][/us/stat/96/588], 591; [Pub. L. 98–21, title I, § 124(c)(5)][/us/pl/98/21/s124/c/5], Apr. 20, 1983, [97 Stat. 91][/us/stat/97/91]; [Pub. L. 98–67, title I, § 102(a)][/us/pl/98/67/s102/a] Aug. 5, 1983, [97 Stat. 369][/us/stat/97/369]; [Pub. L. 98–369, div. A, title I, § 67(b)(2)][/us/pl/98/369/s67/b/2], title VIII, § 801(d)(5), July 18, 1984, [98 Stat. 587][/us/stat/98/587], 996; [Pub. L. 99–499, title V, § 516(b)(2)(B)][/us/pl/99/499/s516/b/2/B], Oct. 17, 1986, [100 Stat. 1771][/us/stat/100/1771]; [Pub. L. 100–203, title X, § 10228(b)][/us/pl/100/203/s10228/b], Dec. 22, 1987, [101 Stat. 1330–418][/us/stat/101/1330-418]; [Pub. L. 106–519, § 4(2)][/us/pl/106/519/s4/2], Nov. 15, 2000, [114 Stat. 2432][/us/stat/114/2432]; [Pub. L. 108–357, title I, § 101(b)(5)][/us/pl/108/357/s101/b/5], title VIII, § 802(b)(1), Oct. 22, 2004, [118 Stat. 1423][/us/stat/118/1423], 1568; [Pub. L. 110–172, § 11(g)(5)][/us/pl/110/172/s11/g/5], Dec. 29, 2007, [121 Stat. 2490][/us/stat/121/2490].)
+(Added [Pub. L. 88–272, title II, § 207(b)(3)(A)][/us/pl/88/272/s207/b/3/A], Feb. 26, 1964, [78 Stat. 42][/us/stat/78/42]; amended [Pub. L. 93–406, title II, § 1016(a)(1)][/us/pl/93/406/s1016/a/1], Sept. 2, 1974, [88 Stat. 929][/us/stat/88/929]; [Pub. L. 94–455, title XIII, § 1307(d)(2)(A)][/us/pl/94/455/s1307/d/2/A], title XVI, § 1605(b)(1), title XIX, § 1901(a)(39), Oct. 4, 1976, [90 Stat. 1727][/us/stat/90/1727], 1754, 1771; [Pub. L. 95–600, title VII, § 701(t)(3)(B)][/us/pl/95/600/s701/t/3/B], Nov. 6, 1978, [92 Stat. 2912][/us/stat/92/2912]; [Pub. L. 97–248, title III][/us/pl/97/248], §§ 305(a), 308(a), Sept. 3, 1982, [96 Stat. 588][/us/stat/96/588], 591; [Pub. L. 98–21, title I, § 124(c)(5)][/us/pl/98/21/s124/c/5], Apr. 20, 1983, [97 Stat. 91][/us/stat/97/91]; [Pub. L. 98–67, title I, § 102(a)][/us/pl/98/67/s102/a] Aug. 5, 1983, [97 Stat. 369][/us/stat/97/369]; [Pub. L. 98–369, div. A, title I, § 67(b)(2)][/us/pl/98/369/s67/b/2], title VIII, § 801(d)(5), July 18, 1984, [98 Stat. 587][/us/stat/98/587], 996; [Pub. L. 99–499, title V, § 516(b)(2)(B)][/us/pl/99/499/s516/b/2/B], Oct. 17, 1986, [100 Stat. 1771][/us/stat/100/1771]; [Pub. L. 100–203, title X, § 10228(b)][/us/pl/100/203/s10228/b], Dec. 22, 1987, [101 Stat. 1330–418][/us/stat/101/1330-418]; [Pub. L. 106–519, § 4(2)][/us/pl/106/519/s4/2], Nov. 15, 2000, [114 Stat. 2432][/us/stat/114/2432]; [Pub. L. 108–357, title I, § 101(b)(5)][/us/pl/108/357/s101/b/5], title VIII, § 802(b)(1), Oct. 22, 2004, [118 Stat. 1423][/us/stat/118/1423], 1568; [Pub. L. 110–172, § 11(g)(5)][/us/pl/110/172/s11/g/5], Dec. 29, 2007, [121 Stat. 2490][/us/stat/121/2490]; [Pub. L. 113–295, div. A, title II, § 221(a)(12)(E)][/us/pl/113/295/s221/a/12/E], Dec. 19, 2014, [128 Stat. 4038][/us/stat/128/4038].)
 
  __References in Text__ 
 
@@ -56,6 +56,8 @@
     [Pub. L. 95–600, § 701(t)(3)(B)][/us/pl/95/600/s701/t/3/B] (effective Oct. 4, 1976, see [Pub. L. 95–600, § 701(t)(5)][/us/pl/95/600/s701/t/5], set out as an Effective Date of 1978 Amendment note under [section 859 of this title][/us/usc/t26/s859]) repealed [§ 1605(b)(1) of Pub. L. 94–455][/us/pl/94/455/s1605/b/1], cited as a credit to this section, which had duplicated the amendment to subsec. (a)(6) made by [§ 1307(d)(2)(A) of Pub. L. 94–455][/us/pl/94/455/s1307/d/2/A].
 
  __Amendments__ 
+
+    2014—Subsec. (a). [Pub. L. 113–295][/us/pl/113/295] struck out “Paragraph (1) shall not apply to the tax imposed by section 59A.” at end of concluding provisions.
 
     2007—Subsec. (a)(4). [Pub. L. 110–172][/us/pl/110/172] substituted “if the taxpayer chooses to take to any extent the benefits of section 901.” for “if—
 
@@ -92,6 +94,10 @@
     Subsec. (a)(6). [Pub. L. 94–455][/us/pl/94/455], §§ 1307(d)(2)(A), 1605(b)(1), inserted reference to chapters 41 and 44.
 
     1974—Subsec. (a)(6). [Pub. L. 93–406][/us/pl/93/406] added par. (6).
+
+ __Effective Date of 2014 Amendment__ 
+
+    Amendment by [Pub. L. 113–295][/us/pl/113/295] effective Dec. 19, 2014, subject to a savings provision, see [section 221(b) of Pub. L. 113–295][/us/pl/113/295/s221/b], set out as a note under [section 1 of this title][/us/usc/t26/s1].
 
  __Effective Date of 2004 Amendment__ 
 
@@ -170,6 +176,8 @@
 [/us/stat/118/1423]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1423
 [/us/pl/110/172/s11/g/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F172%2Fs11%2Fg%2F5
 [/us/stat/121/2490]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F2490
+[/us/pl/113/295/s221/a/12/E]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs221%2Fa%2F12%2FE
+[/us/stat/128/4038]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F4038
 [/us/act/1954-08-16/ch736]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-16%2Fch736
 [/us/stat/68A/415]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68A%2F415
 [/us/usc/t26/s3128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs3128
@@ -178,6 +186,7 @@
 [/us/usc/t26/s859]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs859
 [/us/pl/94/455/s1605/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1605%2Fb%2F1
 [/us/pl/94/455/s1307/d/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1307%2Fd%2F2%2FA
+[/us/pl/113/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295
 [/us/pl/110/172]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F172
 [/us/pl/108/357/s101/b/5/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357%2Fs101%2Fb%2F5%2FB
 [/us/pl/108/357/s101/b/5/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357%2Fs101%2Fb%2F5%2FA
@@ -198,6 +207,9 @@
 [/us/pl/94/455/s1901/a/39]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1901%2Fa%2F39
 [/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455
 [/us/pl/93/406]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F406
+[/us/pl/113/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295
+[/us/pl/113/295/s221/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs221%2Fb
+[/us/usc/t26/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs1
 [/us/pl/108/357/s101/b/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357%2Fs101%2Fb%2F5
 [/us/pl/108/357/s101/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357%2Fs101%2Fc
 [/us/usc/t26/s56]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs56

@@ -93,7 +93,7 @@
 
                 then, subsection (a) shall not apply to any securities received by a qualified minority shareholder incident to the formation of such BHC. For purposes of this subparagraph, any assumption of (or acquisition of stock subject to) a liability under subparagraph (B) shall not be treated as a distribution of property.
 
-            (D) __Definitions and special rule__ 
+            (D) __Definitions__ 
 
             For purposes of subparagraph (C) and this subparagraph—
 
@@ -104,10 +104,6 @@
                 (ii) __BHC__ 
 
                     The term “BHC” means a bank holding company (within the meaning of section 2(a) of the Bank Holding Company Act of 1956).
-
-                (iii) __Special rule in case of BHC’s formed before 1985__ 
-
-                    In the case of a BHC which is formed before 1985, clause (i) of subparagraph (C) shall not apply.
 
         (4) __Treatment of certain intragroup transactions__ 
 
@@ -207,13 +203,17 @@
 
                     (II) in any case where such paragraph would not apply but for subclause (I), by considering a corporation as owning the stock (other than stock in such corporation) owned by or for any shareholder of such corporation in that proportion which the value of the stock which such shareholder owned in such corporation bears to the value of all stock in such corporation.
 
-([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 89][/us/stat/68A/89]; [Pub. L. 88–554, § 4(b)(1)][/us/pl/88/554/s4/b/1], Aug. 31, 1964, [78 Stat. 763][/us/stat/78/763]; [Pub. L. 97–248, title II, § 226(a)(1)(A)][/us/pl/97/248/s226/a/1/A], (2), (3), Sept. 3, 1982, [96 Stat. 490][/us/stat/96/490], 491; [Pub. L. 98–369, div. A, title VII, § 712][/us/pl/98/369/s712](l)(1)–(5)(A), July 18, 1984, [98 Stat. 953][/us/stat/98/953], 954; [Pub. L. 99–514, title XVIII, § 1875(b)][/us/pl/99/514/s1875/b], Oct. 22, 1986, [100 Stat. 2894][/us/stat/100/2894]; [Pub. L. 100–203, title X, § 10223(c)][/us/pl/100/203/s10223/c], Dec. 22, 1987, [101 Stat. 1330–411][/us/stat/101/1330-411]; [Pub. L. 100–647, title II, § 2004(k)(2)][/us/pl/100/647/s2004/k/2], Nov. 10, 1988, [102 Stat. 3605][/us/stat/102/3605]; [Pub. L. 105–34, title X, § 1013(a)][/us/pl/105/34/s1013/a], (c), Aug. 5, 1997, [111 Stat. 918][/us/stat/111/918]; [Pub. L. 105–206, title VI, § 6010(d)][/us/pl/105/206/s6010/d], July 22, 1998, [112 Stat. 814][/us/stat/112/814]; [Pub. L. 111–226, title II, § 215(a)][/us/pl/111/226/s215/a], Aug. 10, 2010, [124 Stat. 2399][/us/stat/124/2399].)
+([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 89][/us/stat/68A/89]; [Pub. L. 88–554, § 4(b)(1)][/us/pl/88/554/s4/b/1], Aug. 31, 1964, [78 Stat. 763][/us/stat/78/763]; [Pub. L. 97–248, title II, § 226(a)(1)(A)][/us/pl/97/248/s226/a/1/A], (2), (3), Sept. 3, 1982, [96 Stat. 490][/us/stat/96/490], 491; [Pub. L. 98–369, div. A, title VII, § 712][/us/pl/98/369/s712](l)(1)–(5)(A), July 18, 1984, [98 Stat. 953][/us/stat/98/953], 954; [Pub. L. 99–514, title XVIII, § 1875(b)][/us/pl/99/514/s1875/b], Oct. 22, 1986, [100 Stat. 2894][/us/stat/100/2894]; [Pub. L. 100–203, title X, § 10223(c)][/us/pl/100/203/s10223/c], Dec. 22, 1987, [101 Stat. 1330–411][/us/stat/101/1330-411]; [Pub. L. 100–647, title II, § 2004(k)(2)][/us/pl/100/647/s2004/k/2], Nov. 10, 1988, [102 Stat. 3605][/us/stat/102/3605]; [Pub. L. 105–34, title X, § 1013(a)][/us/pl/105/34/s1013/a], (c), Aug. 5, 1997, [111 Stat. 918][/us/stat/111/918]; [Pub. L. 105–206, title VI, § 6010(d)][/us/pl/105/206/s6010/d], July 22, 1998, [112 Stat. 814][/us/stat/112/814]; [Pub. L. 111–226, title II, § 215(a)][/us/pl/111/226/s215/a], Aug. 10, 2010, [124 Stat. 2399][/us/stat/124/2399]; [Pub. L. 113–295, div. A, title II, § 221(a)(48)][/us/pl/113/295/s221/a/48], Dec. 19, 2014, [128 Stat. 4045][/us/stat/128/4045].)
 
  __References in Text__ 
 
     Section 2(a) of the Bank Holding Company Act of 1956, referred to in subsec. (b)(3)(D)(ii), is classified to [section 1841(a) of Title 12][/us/usc/t12/s1841/a], Banks and Banking.
 
  __Amendments__ 
+
+    2014—Subsec. (b)(3)(D). [Pub. L. 113–295, § 221(a)(48)(B)][/us/pl/113/295/s221/a/48/B], struck out “and special rule” after “Definitions” in heading.
+
+    Subsec. (b)(3)(D)(iii). [Pub. L. 113–295, § 221(a)(48)(A)][/us/pl/113/295/s221/a/48/A], struck out cl. (iii) which read as follows: “In the case of a BHC which is formed before 1985, clause (i) of subparagraph (C) shall not apply.”
 
     2010—Subsec. (b)(5)(B), (C). [Pub. L. 111–226][/us/pl/111/226] added subpar. (B) and redesignated former subpar. (B) as (C).
 
@@ -250,6 +250,10 @@
     Subsec. (c)(2), (3). [Pub. L. 97–248, § 226(a)(2)][/us/pl/97/248/s226/a/2], added par. (2), redesignated former par. (2) as (3) and substituted “this section” for “paragraph (1)” after “determining control under”.
 
     1964—Subsecs. (b)(1), (c)(2). [Pub. L. 88–554][/us/pl/88/554] inserted reference to [section 318(a)(3)(C) of this title][/us/usc/t26/s318/a/3/C].
+
+ __Effective Date of 2014 Amendment__ 
+
+    Amendment by [Pub. L. 113–295][/us/pl/113/295] effective Dec. 19, 2014, subject to a savings provision, see [section 221(b) of Pub. L. 113–295][/us/pl/113/295/s221/b], set out as a note under [section 1 of this title][/us/usc/t26/s1].
 
  __Effective Date of 2010 Amendment__ 
 
@@ -416,7 +420,11 @@
 [/us/stat/112/814]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F814
 [/us/pl/111/226/s215/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F226%2Fs215%2Fa
 [/us/stat/124/2399]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2399
+[/us/pl/113/295/s221/a/48]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs221%2Fa%2F48
+[/us/stat/128/4045]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F4045
 [/us/usc/t12/s1841/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1841%2Fa
+[/us/pl/113/295/s221/a/48/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs221%2Fa%2F48%2FB
+[/us/pl/113/295/s221/a/48/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs221%2Fa%2F48%2FA
 [/us/pl/111/226]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F226
 [/us/pl/105/206/s6010/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206%2Fs6010%2Fd%2F1
 [/us/pl/105/206/s6010/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206%2Fs6010%2Fd%2F2
@@ -436,6 +444,9 @@
 [/us/pl/97/248/s226/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F248%2Fs226%2Fa%2F2
 [/us/pl/88/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F554
 [/us/usc/t26/s318/a/3/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs318%2Fa%2F3%2FC
+[/us/pl/113/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295
+[/us/pl/113/295/s221/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs221%2Fb
+[/us/usc/t26/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs1
 [/us/pl/111/226/s215/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F226%2Fs215%2Fb
 [/us/stat/124/2400]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2400
 [/us/pl/105/206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206

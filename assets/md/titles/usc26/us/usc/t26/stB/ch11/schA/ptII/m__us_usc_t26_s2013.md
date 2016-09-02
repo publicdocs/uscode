@@ -93,7 +93,7 @@
 
  __Effective Date of 2001 Amendment__ 
 
-    Amendment by [Pub. L. 107–16][/us/pl/107/16] applicable to estates of decedents dying, and generation-skipping transfers, after Dec. 31, 2004, see [section 532(d) of Pub. L. 107–16][/us/pl/107/16/s532/d], set out as a note under [section 2011 of this title][/us/usc/t26/s2011].
+    Amendment by [Pub. L. 107–16][/us/pl/107/16] applicable to estates of decedents dying, and generation-skipping transfers, after Dec. 31, 2004, see [section 532(d) of Pub. L. 107–16][/us/pl/107/16/s532/d], set out as a note under [section 2012 of this title][/us/usc/t26/s2012].
 
  __Effective Date of 1997 Amendment__ 
 
@@ -106,6 +106,10 @@
  __Effective Date of 1986 Amendment__ 
 
     Amendment by [Pub. L. 99–514][/us/pl/99/514] applicable to generation-skipping transfers (within the meaning of [section 2611 of this title][/us/usc/t26/s2611]) made after Oct. 22, 1986, except as otherwise provided, see [section 1433 of Pub. L. 99–514][/us/pl/99/514/s1433], set out as an Effective Date note under [section 2601 of this title][/us/usc/t26/s2601].
+
+ __Effective Date of 1976 Amendment__ 
+
+    Amendment by [section 1902(a)(2) of Pub. L. 94–455][/us/pl/94/455/s1902/a/2] applicable to estates of decedents dying after Oct. 4, 1976, see [section 1902(c)(1) of Pub. L. 94–455][/us/pl/94/455/s1902/c/1], set out as a note under [section 2012 of this title][/us/usc/t26/s2012].
 
 ----------
 
@@ -137,7 +141,7 @@
 [/us/pl/94/455/s2006/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs2006%2Fb%2F2
 [/us/pl/107/16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F16
 [/us/pl/107/16/s532/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F16%2Fs532%2Fd
-[/us/usc/t26/s2011]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs2011
+[/us/usc/t26/s2012]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs2012
 [/us/pl/105/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34
 [/us/pl/105/34/s1073/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2Fs1073%2Fc
 [/us/usc/t26/s4980A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs4980A
@@ -149,5 +153,8 @@
 [/us/usc/t26/s2611]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs2611
 [/us/pl/99/514/s1433]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1433
 [/us/usc/t26/s2601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs2601
+[/us/pl/94/455/s1902/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1902%2Fa%2F2
+[/us/pl/94/455/s1902/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1902%2Fc%2F1
+[/us/usc/t26/s2012]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs2012
 
 

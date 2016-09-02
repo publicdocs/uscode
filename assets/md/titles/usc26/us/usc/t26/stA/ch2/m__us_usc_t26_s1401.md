@@ -17,189 +17,13 @@
 
     (a) __Old-age, survivors, and disability insurance__ 
 
-        In addition to other taxes, there shall be imposed for each taxable year, on the self-employment income of every individual, a tax equal to the following percent of the amount of the self-employment income for such taxable year:
-
-<table>
-
-          <tr>
-
-            <td> 
-
-   </td>
-
-            <td> 
-
-   </td>
-
-            <td> 
-
-   </td>
-
-  </tr>
-
-          <tr>
-
-            <td colspan="2"> 
-
-          In the case of a taxable year  </td>
-
-  </tr>
-
-          <tr>
-
-            <td> 
-
-        Beginning after:  </td>
-
-            <td> 
-
-        And before:  </td>
-
-            <td> 
-
-        Percent:  </td>
-
-  </tr>
-
-          <tr>
-
-            <td> 
-
-        December 31, 1983  </td>
-
-            <td> 
-
-        January 1, 1988  </td>
-
-            <td> 
-
-        11.40  </td>
-
-  </tr>
-
-          <tr>
-
-            <td> 
-
-        December 31, 1987  </td>
-
-            <td> 
-
-        January 1, 1990  </td>
-
-            <td> 
-
-        12.12  </td>
-
-  </tr>
-
-          <tr>
-
-            <td colspan="2"> 
-
-        December 31, 1989  </td>
-
-            <td> 
-
-        12.40  </td>
-
-  </tr>
-
-        </table>
+        In addition to other taxes, there shall be imposed for each taxable year, on the self-employment income of every individual, a tax equal to 12.4 percent of the amount of the self-employment income for such taxable year.
 
     (b) __Hospital insurance__ 
 
         (1) __In general__ 
 
-            In addition to the tax imposed by the preceding subsection, there shall be imposed for each taxable year, on the self-employment income of every individual, a tax equal to the following percent of the amount of the self-employment income for such taxable year:
-
-<table>
-
-              <tr>
-
-                <td> 
-
-   </td>
-
-                <td> 
-
-   </td>
-
-                <td> 
-
-   </td>
-
-  </tr>
-
-              <tr>
-
-                <td colspan="2"> 
-
-              In the case of a taxable year  </td>
-
-  </tr>
-
-              <tr>
-
-                <td> 
-
-            Beginning after:  </td>
-
-                <td> 
-
-            And before:  </td>
-
-                <td> 
-
-            Percent:  </td>
-
-  </tr>
-
-              <tr>
-
-                <td> 
-
-            December 31, 1983  </td>
-
-                <td> 
-
-            January 1, 1985  </td>
-
-                <td> 
-
-            2.60    </td>
-
-  </tr>
-
-              <tr>
-
-                <td> 
-
-            December 31, 1984  </td>
-
-                <td> 
-
-            January 1, 1986  </td>
-
-                <td> 
-
-            2.70    </td>
-
-  </tr>
-
-              <tr>
-
-                <td colspan="2"> 
-
-            December 31, 1985  </td>
-
-                <td> 
-
-            2.90.  </td>
-
-  </tr>
-
-            </table>
+            In addition to the tax imposed by the preceding subsection, there shall be imposed for each taxable year, on the self-employment income of every individual, a tax equal to 2.9 percent of the amount of the self-employment income for such taxable year.
 
         (2) __Additional tax__ 
 
@@ -221,13 +45,193 @@
 
         During any period in which there is in effect an agreement entered into pursuant to section 233 of the Social Security Act with any foreign country, the self-employment income of an individual shall be exempt from the taxes imposed by this section to the extent that such self-employment income is subject under such agreement exclusively to the laws applicable to the social security system of such foreign country.
 
-([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 353][/us/stat/68A/353]; [Sept. 1, 1954, ch. 1206][/us/act/1954-09-01/ch1206], title II, § 208(a), [68 Stat. 1093][/us/stat/68/1093]; [Aug. 1, 1956, ch. 836][/us/act/1956-08-01/ch836], title II, § 202(a), [70 Stat. 845][/us/stat/70/845]; [Pub. L. 85–840, title IV, § 401(a)][/us/pl/85/840/s401/a], Aug. 28, 1958, [72 Stat. 1041][/us/stat/72/1041]; [Pub. L. 87–64, title II, § 201(a)][/us/pl/87/64/s201/a], June 30, 1961, [75 Stat. 140][/us/stat/75/140]; [Pub. L. 89–97, title I, § 111(c)(4)][/us/pl/89/97/s111/c/4], title III, § 321(a), July 30, 1965, [79 Stat. 342][/us/stat/79/342], 394; [Pub. L. 90–248, title I, § 109(a)(1)][/us/pl/90/248/s109/a/1], (b)(1), Jan. 2, 1968, [81 Stat. 835][/us/stat/81/835], 836; [Pub. L. 92–336, title II, § 204][/us/pl/92/336/s204] (a)(1), (b)(1), July 1, 1972, [86 Stat. 420][/us/stat/86/420], 421; [Pub. L. 92–603, title I, § 135(a)(1)][/us/pl/92/603/s135/a/1], (b)(1), Oct. 30, 1972, [86 Stat. 1362][/us/stat/86/1362], 1363; [Pub. L. 93–233, § 6(b)(1)][/us/pl/93/233/s6/b/1], Dec. 31, 1973, [87 Stat. 955][/us/stat/87/955]; [Pub. L. 94–455, title XIX, § 1901(a)(154)][/us/pl/94/455/s1901/a/154], Oct. 4, 1976, [90 Stat. 1789][/us/stat/90/1789]; [Pub. L. 95–216, title I, § 101(a)(3)][/us/pl/95/216/s101/a/3], (b)(3), title III, § 317(b)(1), Dec. 20, 1977, [91 Stat. 1511][/us/stat/91/1511], 1512, 1539; [Pub. L. 98–21, title I, § 124(a)][/us/pl/98/21/s124/a], (b), Apr. 20, 1983, [97 Stat. 89][/us/stat/97/89]; [Pub. L. 101–508, title XI, § 11801(a)(36)][/us/pl/101/508/s11801/a/36], (c)(16), Nov. 5, 1990, [104 Stat. 1388–521][/us/stat/104/1388-521], 1388–527; [Pub. L. 108–203, title IV, § 415][/us/pl/108/203/s415], Mar. 2, 2004, [118 Stat. 530][/us/stat/118/530]; [Pub. L. 111–148, title IX, § 9015(b)(1)][/us/pl/111/148/s9015/b/1], title X, § 10906(b), Mar. 23, 2010, [124 Stat. 871][/us/stat/124/871], 1020; [Pub. L. 111–152, title I, § 1402(b)(1)(B)][/us/pl/111/152/s1402/b/1/B], Mar. 30, 2010, [124 Stat. 1063][/us/stat/124/1063].)
+([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 353][/us/stat/68A/353]; [Sept. 1, 1954, ch. 1206][/us/act/1954-09-01/ch1206], title II, § 208(a), [68 Stat. 1093][/us/stat/68/1093]; [Aug. 1, 1956, ch. 836][/us/act/1956-08-01/ch836], title II, § 202(a), [70 Stat. 845][/us/stat/70/845]; [Pub. L. 85–840, title IV, § 401(a)][/us/pl/85/840/s401/a], Aug. 28, 1958, [72 Stat. 1041][/us/stat/72/1041]; [Pub. L. 87–64, title II, § 201(a)][/us/pl/87/64/s201/a], June 30, 1961, [75 Stat. 140][/us/stat/75/140]; [Pub. L. 89–97, title I, § 111(c)(4)][/us/pl/89/97/s111/c/4], title III, § 321(a), July 30, 1965, [79 Stat. 342][/us/stat/79/342], 394; [Pub. L. 90–248, title I, § 109(a)(1)][/us/pl/90/248/s109/a/1], (b)(1), Jan. 2, 1968, [81 Stat. 835][/us/stat/81/835], 836; [Pub. L. 92–336, title II, § 204][/us/pl/92/336/s204] (a)(1), (b)(1), July 1, 1972, [86 Stat. 420][/us/stat/86/420], 421; [Pub. L. 92–603, title I, § 135(a)(1)][/us/pl/92/603/s135/a/1], (b)(1), Oct. 30, 1972, [86 Stat. 1362][/us/stat/86/1362], 1363; [Pub. L. 93–233, § 6(b)(1)][/us/pl/93/233/s6/b/1], Dec. 31, 1973, [87 Stat. 955][/us/stat/87/955]; [Pub. L. 94–455, title XIX, § 1901(a)(154)][/us/pl/94/455/s1901/a/154], Oct. 4, 1976, [90 Stat. 1789][/us/stat/90/1789]; [Pub. L. 95–216, title I, § 101(a)(3)][/us/pl/95/216/s101/a/3], (b)(3), title III, § 317(b)(1), Dec. 20, 1977, [91 Stat. 1511][/us/stat/91/1511], 1512, 1539; [Pub. L. 98–21, title I, § 124(a)][/us/pl/98/21/s124/a], (b), Apr. 20, 1983, [97 Stat. 89][/us/stat/97/89]; [Pub. L. 101–508, title XI, § 11801(a)(36)][/us/pl/101/508/s11801/a/36], (c)(16), Nov. 5, 1990, [104 Stat. 1388–521][/us/stat/104/1388-521], 1388–527; [Pub. L. 108–203, title IV, § 415][/us/pl/108/203/s415], Mar. 2, 2004, [118 Stat. 530][/us/stat/118/530]; [Pub. L. 111–148, title IX, § 9015(b)(1)][/us/pl/111/148/s9015/b/1], title X, § 10906(b), Mar. 23, 2010, [124 Stat. 871][/us/stat/124/871], 1020; [Pub. L. 111–152, title I, § 1402(b)(1)(B)][/us/pl/111/152/s1402/b/1/B], Mar. 30, 2010, [124 Stat. 1063][/us/stat/124/1063]; [Pub. L. 113–295, div. A, title II, § 221(a)(89)][/us/pl/113/295/s221/a/89], (90), Dec. 19, 2014, [128 Stat. 4050][/us/stat/128/4050].)
 
  __References in Text__ 
 
     Section 233 of the Social Security Act, referred to in subsec. (c), is classified to [section 433 of Title 42][/us/usc/t42/s433], The Public Health and Welfare.
 
  __Amendments__ 
+
+    2014—Subsec. (a). [Pub. L. 113–295, § 221(a)(89)][/us/pl/113/295/s221/a/89], substituted “12.4 percent of the amount of the self-employment income for such taxable year.” for “the following percent of the amount of the self-employment income for such taxable year:
+
+<table>
+
+  <tr>
+
+    <td> 
+
+   </td>
+
+    <td> 
+
+   </td>
+
+    <td> 
+
+   </td>
+
+  </tr>
+
+  <tr>
+
+    <td colspan="2"> 
+
+  “In the case of a taxable year  </td>
+
+  </tr>
+
+  <tr>
+
+    <td> 
+
+Beginning after:  </td>
+
+    <td> 
+
+And before:  </td>
+
+    <td> 
+
+Percent:  </td>
+
+  </tr>
+
+  <tr>
+
+    <td> 
+
+December 31, 1983  </td>
+
+    <td> 
+
+January 1, 1988  </td>
+
+    <td> 
+
+11.40  </td>
+
+  </tr>
+
+  <tr>
+
+    <td> 
+
+December 31, 1987  </td>
+
+    <td> 
+
+January 1, 1990  </td>
+
+    <td> 
+
+12.12  </td>
+
+  </tr>
+
+  <tr>
+
+    <td colspan="2"> 
+
+December 31, 1989  </td>
+
+    <td> 
+
+12.40”  </td>
+
+  </tr>
+
+</table>
+
+    Subsec. (b)(1). [Pub. L. 113–295, § 221(a)(90)][/us/pl/113/295/s221/a/90], substituted “2.9 percent of the amount of the self-employment income for such taxable year.” for “the following percent of the amount of the self-employment income for such taxable year:
+
+<table>
+
+  <tr>
+
+    <td> 
+
+   </td>
+
+    <td> 
+
+   </td>
+
+    <td> 
+
+   </td>
+
+  </tr>
+
+  <tr>
+
+    <td colspan="2"> 
+
+  “In the case of a taxable year  </td>
+
+  </tr>
+
+  <tr>
+
+    <td> 
+
+Beginning after:  </td>
+
+    <td> 
+
+And before:  </td>
+
+    <td> 
+
+Percent:  </td>
+
+  </tr>
+
+  <tr>
+
+    <td> 
+
+December 31, 1983  </td>
+
+    <td> 
+
+January 1, 1985  </td>
+
+    <td> 
+
+2.60    </td>
+
+  </tr>
+
+  <tr>
+
+    <td> 
+
+December 31, 1984  </td>
+
+    <td> 
+
+January 1, 1986  </td>
+
+    <td> 
+
+2.70    </td>
+
+  </tr>
+
+  <tr>
+
+    <td colspan="2"> 
+
+December 31, 1985  </td>
+
+    <td> 
+
+2.90.”  </td>
+
+  </tr>
+
+</table>
 
     2010—Subsec. (b). [Pub. L. 111–148, § 9015(b)(1)][/us/pl/111/148/s9015/b/1], designated existing provisions as par. (1), inserted heading, and added par. (2).
 
@@ -300,6 +304,10 @@
     1956—Act Aug. 1, 1956, increased the rate of tax for all taxable years beginning after Dec. 31, 1956, by three-eighths percent.
 
     1954—Act Sept. 1, 1954, increased the 4⅞ percent rate of tax on self-employment income for taxable years beginning after Dec. 31, 1969, to 5¼ percent for taxable years beginning after Dec. 31, 1969, and before Jan. 1, 1975, and 6 percent for taxable years beginning after Dec. 31, 1974.
+
+ __Effective Date of 2014 Amendment__ 
+
+    Amendment by [Pub. L. 113–295][/us/pl/113/295] effective Dec. 19, 2014, subject to a savings provision, see [section 221(b) of Pub. L. 113–295][/us/pl/113/295/s221/b], set out as a note under [section 1 of this title][/us/usc/t26/s1].
 
  __Effective Date of 2010 Amendment__ 
 
@@ -498,7 +506,11 @@
 [/us/stat/124/871]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F871
 [/us/pl/111/152/s1402/b/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F152%2Fs1402%2Fb%2F1%2FB
 [/us/stat/124/1063]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1063
+[/us/pl/113/295/s221/a/89]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs221%2Fa%2F89
+[/us/stat/128/4050]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F4050
 [/us/usc/t42/s433]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs433
+[/us/pl/113/295/s221/a/89]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs221%2Fa%2F89
+[/us/pl/113/295/s221/a/90]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs221%2Fa%2F90
 [/us/pl/111/148/s9015/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs9015%2Fb%2F1
 [/us/pl/111/152/s1402/b/1/B/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F152%2Fs1402%2Fb%2F1%2FB%2Fi
 [/us/pl/111/148/s10906/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs10906%2Fb
@@ -533,6 +545,9 @@
 [/us/pl/89/97/s111/c/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F97%2Fs111%2Fc%2F4
 [/us/pl/87/64]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F64
 [/us/pl/85/840]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F840
+[/us/pl/113/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295
+[/us/pl/113/295/s221/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs221%2Fb
+[/us/usc/t26/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs1
 [/us/pl/111/152/s1402/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F152%2Fs1402%2Fb%2F3
 [/us/stat/124/1063]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1063
 [/us/pl/111/148/s9015/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs9015%2Fb%2F1

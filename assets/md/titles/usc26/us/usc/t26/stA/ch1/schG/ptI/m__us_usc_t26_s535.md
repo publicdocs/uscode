@@ -25,7 +25,7 @@
 
         (1) __Taxes__ 
 
-            There shall be allowed as a deduction Federal income and excess profits taxes and income, war profits, and excess profits taxes of foreign countries and possessions of the United States (to the extent not allowable as a deduction under section 275(a)(4)), accrued during the taxable year or deemed to be paid by a domestic corporation under section 902(a) or 960(a)(1) for the taxable year, but not including the accumulated earnings tax imposed by section 531, the personal holding company tax imposed by section 541, or the taxes imposed by corresponding sections of a prior income tax law.
+            There shall be allowed as a deduction Federal income and excess profits taxes and income, war profits, and excess profits taxes of foreign countries and possessions of the United States (to the extent not allowable as a deduction under section 275(a)(4)), accrued during the taxable year or deemed to be paid by a domestic corporation under section 902(a) or 960(a)(1) for the taxable year, but not including the accumulated earnings tax imposed by section 531 or the personal holding company tax imposed by section 541.
 
         (2) __Charitable contributions__ 
 
@@ -157,9 +157,11 @@
 
             The term “United States-owned foreign corporation” has the meaning given to such term by section 904(h)(6).
 
-([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 180][/us/stat/68A/180]; [Pub. L. 85–866, title I, § 31][/us/pl/85/866/s31], title II, § 205(a), Sept. 2, 1958, [72 Stat. 1631][/us/stat/72/1631], 1680; [Pub. L. 87–403, § 3(b)][/us/pl/87/403/s3/b], Feb. 2, 1962, [76 Stat. 6][/us/stat/76/6]; [Pub. L. 87–834, § 9(d)(2)][/us/pl/87/834/s9/d/2], Oct. 16, 1962, [76 Stat. 1001][/us/stat/76/1001]; [Pub. L. 88–272, title II, § 207(b)(4)][/us/pl/88/272/s207/b/4], Feb. 26, 1964, [78 Stat. 42][/us/stat/78/42]; [Pub. L. 91–172, title IV, § 401(b)(2)(C)][/us/pl/91/172/s401/b/2/C], title V, § 512(f)(5), (6), Dec. 30, 1969, [83 Stat. 602][/us/stat/83/602], 641; [Pub. L. 94–12, title III, § 304(a)][/us/pl/94/12/s304/a], Mar. 29, 1975, [89 Stat. 45][/us/stat/89/45]; [Pub. L. 94–455, title X, § 1033(b)(3)][/us/pl/94/455/s1033/b/3], title XIX, §§ 1901(a)(74), (b)(20)(A), (32)(C), (33)(D), 1906(b)(13)(A), Oct. 4, 1976, [90 Stat. 1628][/us/stat/90/1628], 1777, 1797, 1800, 1801, 1834; [Pub. L. 97–34, title II, § 232(a)][/us/pl/97/34/s232/a], (b)(1), Aug. 13, 1981, [95 Stat. 250][/us/stat/95/250]; [Pub. L. 98–369, div. A, title I][/us/pl/98/369], §§ 58(b), 125(a), July 18, 1984, [98 Stat. 575][/us/stat/98/575], 647; [Pub. L. 99–514, title XII, § 1225(a)][/us/pl/99/514/s1225/a], title XVIII, § 1899A(17), Oct. 22, 1986, [100 Stat. 2558][/us/stat/100/2558], 2959; [Pub. L. 101–508, title XI, § 11801(c)(18)][/us/pl/101/508/s11801/c/18], Nov. 5, 1990, [104 Stat. 1388–528][/us/stat/104/1388-528]; [Pub. L. 108–357, title IV, § 402(b)(1)][/us/pl/108/357/s402/b/1], Oct. 22, 2004, [118 Stat. 1492][/us/stat/118/1492]; [Pub. L. 109–135, title IV, § 403(n)(2)][/us/pl/109/135/s403/n/2], Dec. 21, 2005, [119 Stat. 2626][/us/stat/119/2626].)
+([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 180][/us/stat/68A/180]; [Pub. L. 85–866, title I, § 31][/us/pl/85/866/s31], title II, § 205(a), Sept. 2, 1958, [72 Stat. 1631][/us/stat/72/1631], 1680; [Pub. L. 87–403, § 3(b)][/us/pl/87/403/s3/b], Feb. 2, 1962, [76 Stat. 6][/us/stat/76/6]; [Pub. L. 87–834, § 9(d)(2)][/us/pl/87/834/s9/d/2], Oct. 16, 1962, [76 Stat. 1001][/us/stat/76/1001]; [Pub. L. 88–272, title II, § 207(b)(4)][/us/pl/88/272/s207/b/4], Feb. 26, 1964, [78 Stat. 42][/us/stat/78/42]; [Pub. L. 91–172, title IV, § 401(b)(2)(C)][/us/pl/91/172/s401/b/2/C], title V, § 512(f)(5), (6), Dec. 30, 1969, [83 Stat. 602][/us/stat/83/602], 641; [Pub. L. 94–12, title III, § 304(a)][/us/pl/94/12/s304/a], Mar. 29, 1975, [89 Stat. 45][/us/stat/89/45]; [Pub. L. 94–455, title X, § 1033(b)(3)][/us/pl/94/455/s1033/b/3], title XIX, §§ 1901(a)(74), (b)(20)(A), (32)(C), (33)(D), 1906(b)(13)(A), Oct. 4, 1976, [90 Stat. 1628][/us/stat/90/1628], 1777, 1797, 1800, 1801, 1834; [Pub. L. 97–34, title II, § 232(a)][/us/pl/97/34/s232/a], (b)(1), Aug. 13, 1981, [95 Stat. 250][/us/stat/95/250]; [Pub. L. 98–369, div. A, title I][/us/pl/98/369], §§ 58(b), 125(a), July 18, 1984, [98 Stat. 575][/us/stat/98/575], 647; [Pub. L. 99–514, title XII, § 1225(a)][/us/pl/99/514/s1225/a], title XVIII, § 1899A(17), Oct. 22, 1986, [100 Stat. 2558][/us/stat/100/2558], 2959; [Pub. L. 101–508, title XI, § 11801(c)(18)][/us/pl/101/508/s11801/c/18], Nov. 5, 1990, [104 Stat. 1388–528][/us/stat/104/1388-528]; [Pub. L. 108–357, title IV, § 402(b)(1)][/us/pl/108/357/s402/b/1], Oct. 22, 2004, [118 Stat. 1492][/us/stat/118/1492]; [Pub. L. 109–135, title IV, § 403(n)(2)][/us/pl/109/135/s403/n/2], Dec. 21, 2005, [119 Stat. 2626][/us/stat/119/2626]; [Pub. L. 113–295, div. A, title II, § 221(a)(64)][/us/pl/113/295/s221/a/64], Dec. 19, 2014, [128 Stat. 4048][/us/stat/128/4048].)
 
  __Amendments__ 
+
+    2014—Subsec. (b)(1). [Pub. L. 113–295][/us/pl/113/295] substituted “section 531 or the personal holding company tax imposed by section 541.” for “section 531, the personal holding company tax imposed by section 541, or the taxes imposed by corresponding sections of a prior income tax law.”
 
     2005—Subsec. (b)(10). [Pub. L. 109–135][/us/pl/109/135] added par. (10).
 
@@ -212,6 +214,10 @@
     Subsec. (b)(6)(B). [Pub. L. 85–866, § 31(a)][/us/pl/85/866/s31/a], substituted “in taxable income the excess of the net long-term capital gain for the taxable year over the net short-term capital loss for such year (determined without regard to the capital loss carryover provided in section 1212)” for “such excess in taxable income”.
 
     Subsec. (c)(2), (3). [Pub. L. 85–866, § 205(a)][/us/pl/85/866/s205/a], substituted “$100,000” for “$60,000”.
+
+ __Effective Date of 2014 Amendment__ 
+
+    Amendment by [Pub. L. 113–295][/us/pl/113/295] effective Dec. 19, 2014, subject to a savings provision, see [section 221(b) of Pub. L. 113–295][/us/pl/113/295/s221/b], set out as a note under [section 1 of this title][/us/usc/t26/s1].
 
  __Effective Date of 2005 Amendment__ 
 
@@ -328,6 +334,9 @@
 [/us/stat/118/1492]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1492
 [/us/pl/109/135/s403/n/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F135%2Fs403%2Fn%2F2
 [/us/stat/119/2626]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F2626
+[/us/pl/113/295/s221/a/64]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs221%2Fa%2F64
+[/us/stat/128/4048]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F4048
+[/us/pl/113/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295
 [/us/pl/109/135]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F135
 [/us/pl/108/357]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357
 [/us/pl/101/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508
@@ -354,6 +363,9 @@
 [/us/pl/85/866/s31/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F866%2Fs31%2Fa
 [/us/pl/85/866/s31/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F866%2Fs31%2Fa
 [/us/pl/85/866/s205/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F866%2Fs205%2Fa
+[/us/pl/113/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295
+[/us/pl/113/295/s221/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs221%2Fb
+[/us/usc/t26/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs1
 [/us/pl/109/135]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F135
 [/us/pl/108/357]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357
 [/us/pl/109/135/s403/nn]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F135%2Fs403%2Fnn

@@ -129,7 +129,7 @@
 
         The term “fund” means—
 
-            (A) any organization described in paragraph (7), (9), (17), or (20) of section 501(c),
+            (A) any organization described in paragraph (7), (9), (17), or (20)  <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  of section 501(c),
 
             (B) any trust, corporation, or other organization not exempt from the tax imposed by this chapter, and
 
@@ -178,6 +178,10 @@
         (2) any reference in this section to the employer shall be treated as a reference to the person for whom services are provided, and any reference in this section to an employee shall be treated as a reference to the person providing the services.
 
 (Added [Pub. L. 98–369, div. A, title V, § 511(a)][/us/pl/98/369/s511/a], July 18, 1984, [98 Stat. 854][/us/stat/98/854]; amended [Pub. L. 99–514, title XVIII, § 1851(a)(1)][/us/pl/99/514/s1851/a/1], (8)(A), (b)(2)(C)(iv), Oct. 22, 1986, [100 Stat. 2858][/us/stat/100/2858], 2860, 2863; [Pub. L. 100–203, title IX, § 10201(b)(4)][/us/pl/100/203/s10201/b/4], Dec. 22, 1987, [101 Stat. 1330–387][/us/stat/101/1330-387]; [Pub. L. 100–647, title I, § 1018(t)(2)(C)][/us/pl/100/647/s1018/t/2/C], Nov. 10, 1988, [102 Stat. 3587][/us/stat/102/3587].)
+
+ __References in Text__ 
+
+    Section 501(c)(20), referred to in subsec. (e)(3)(A), was repealed by [Pub. L. 113–295, div. A, title II, § 221(a)(19)(B)(iii)][/us/pl/113/295/s221/a/19/B/iii], Dec. 19, 2014, [128 Stat. 4040][/us/stat/128/4040].
 
  __Amendments__ 
 
@@ -276,6 +280,8 @@
 [/us/stat/101/1330-387]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1330-387
 [/us/pl/100/647/s1018/t/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs1018%2Ft%2F2%2FC
 [/us/stat/102/3587]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3587
+[/us/pl/113/295/s221/a/19/B/iii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs221%2Fa%2F19%2FB%2Fiii
+[/us/stat/128/4040]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F4040
 [/us/pl/100/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647
 [/us/pl/100/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203
 [/us/pl/99/514/s1851/b/2/C/iv/I]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1851%2Fb%2F2%2FC%2Fiv%2FI

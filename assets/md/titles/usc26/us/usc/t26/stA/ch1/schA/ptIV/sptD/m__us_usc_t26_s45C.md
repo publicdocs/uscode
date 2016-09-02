@@ -43,7 +43,7 @@
 
             (D) __Special rule__ 
 
-                For purposes of this paragraph, section 41 shall be deemed to remain in effect for periods after June 30, 1995, and before July 1, 1996, and periods after December 31, 2013.
+                If section 41 is not in effect for any period, such section shall be deemed to remain in effect for such period for purposes of this paragraph.
 
         (2) __Clinical testing__ 
 
@@ -111,7 +111,7 @@
 
             This section shall apply to any taxpayer for any taxable year only if such taxpayer elects (at such time and in such manner as the Secretary may by regulations prescribe) to have this section apply for such taxable year.
 
-(Added [Pub. L. 97–414, § 4(a)][/us/pl/97/414/s4/a], Jan. 4, 1983, [96 Stat. 2053][/us/stat/96/2053], § 44H; renumbered § 28 and amended [Pub. L. 98–369, div. A, title IV][/us/pl/98/369], §§ 471(c), 474(g), title VI, § 612(e)(1), July 18, 1984, [98 Stat. 826][/us/stat/98/826], 831, 912; [Pub. L. 99–514, title II][/us/pl/99/514], §§ 231(d)(3)(A), 232, title VII, § 701(c)(2), title XII, § 1275(c)(4), title XVIII, § 1879(b)(1), (2), Oct. 22, 1986, [100 Stat. 2178][/us/stat/100/2178], 2180, 2340, 2599, 2905; [Pub. L. 100–647, title I, § 1018(q)(1)][/us/pl/100/647/s1018/q/1], title IV, § 4008(c)(1), Nov. 10, 1988, [102 Stat. 3585][/us/stat/102/3585], 3653; [Pub. L. 101–239, title VII, § 7110(a)(3)][/us/pl/101/239/s7110/a/3], Dec. 19, 1989, [103 Stat. 2323][/us/stat/103/2323]; [Pub. L. 101–508, title XI][/us/pl/101/508], §§ 11402(b)(2), 11411, Nov. 5, 1990, [104 Stat. 1388–473][/us/stat/104/1388-473], 1388–479; [Pub. L. 102–227, title I][/us/pl/102/227], §§ 102(b), 111(a), Dec. 11, 1991, [105 Stat. 1686][/us/stat/105/1686], 1688; [Pub. L. 103–66, title XIII, § 13111(a)(2)][/us/pl/103/66/s13111/a/2], (b), Aug. 10, 1993, [107 Stat. 420][/us/stat/107/420]; renumbered § 45C and amended [Pub. L. 104–188, title I][/us/pl/104/188], §§ 1204(e), 1205(a)(1), (b), (d)(1), (2), Aug. 20, 1996, [110 Stat. 1775][/us/stat/110/1775], 1776; [Pub. L. 105–34, title VI][/us/pl/105/34], §§ 601(b)(2), 604(a), Aug. 5, 1997, [111 Stat. 862][/us/stat/111/862], 863; [Pub. L. 105–115, title I, § 125(b)(2)(O)][/us/pl/105/115/s125/b/2/O], Nov. 21, 1997, [111 Stat. 2326][/us/stat/111/2326]; [Pub. L. 105–277, div. J, title I, § 1001(b)][/us/pl/105/277/s1001/b], Oct. 21, 1998, [112 Stat. 2681–888][/us/stat/112/2681-888]; [Pub. L. 106–170, title V, § 502(a)(2)][/us/pl/106/170/s502/a/2], Dec. 17, 1999, [113 Stat. 1919][/us/stat/113/1919]; [Pub. L. 108–311, title III, § 301(a)(2)][/us/pl/108/311/s301/a/2], Oct. 4, 2004, [118 Stat. 1178][/us/stat/118/1178]; [Pub. L. 109–432, div. A, title I, § 104(a)(2)][/us/pl/109/432/s104/a/2], Dec. 20, 2006, [120 Stat. 2934][/us/stat/120/2934]; [Pub. L. 110–343, div. C, title III, § 301(a)(2)][/us/pl/110/343/s301/a/2], Oct. 3, 2008, [122 Stat. 3865][/us/stat/122/3865]; [Pub. L. 111–312, title VII, § 731(b)][/us/pl/111/312/s731/b], Dec. 17, 2010, [124 Stat. 3317][/us/stat/124/3317]; [Pub. L. 112–240, title III, § 301(a)(2)][/us/pl/112/240/s301/a/2], Jan. 2, 2013, [126 Stat. 2326][/us/stat/126/2326].)
+(Added [Pub. L. 97–414, § 4(a)][/us/pl/97/414/s4/a], Jan. 4, 1983, [96 Stat. 2053][/us/stat/96/2053], § 44H; renumbered § 28 and amended [Pub. L. 98–369, div. A, title IV][/us/pl/98/369], §§ 471(c), 474(g), title VI, § 612(e)(1), July 18, 1984, [98 Stat. 826][/us/stat/98/826], 831, 912; [Pub. L. 99–514, title II][/us/pl/99/514], §§ 231(d)(3)(A), 232, title VII, § 701(c)(2), title XII, § 1275(c)(4), title XVIII, § 1879(b)(1), (2), Oct. 22, 1986, [100 Stat. 2178][/us/stat/100/2178], 2180, 2340, 2599, 2905; [Pub. L. 100–647, title I, § 1018(q)(1)][/us/pl/100/647/s1018/q/1], title IV, § 4008(c)(1), Nov. 10, 1988, [102 Stat. 3585][/us/stat/102/3585], 3653; [Pub. L. 101–239, title VII, § 7110(a)(3)][/us/pl/101/239/s7110/a/3], Dec. 19, 1989, [103 Stat. 2323][/us/stat/103/2323]; [Pub. L. 101–508, title XI][/us/pl/101/508], §§ 11402(b)(2), 11411, Nov. 5, 1990, [104 Stat. 1388–473][/us/stat/104/1388-473], 1388–479; [Pub. L. 102–227, title I][/us/pl/102/227], §§ 102(b), 111(a), Dec. 11, 1991, [105 Stat. 1686][/us/stat/105/1686], 1688; [Pub. L. 103–66, title XIII, § 13111(a)(2)][/us/pl/103/66/s13111/a/2], (b), Aug. 10, 1993, [107 Stat. 420][/us/stat/107/420]; renumbered § 45C and amended [Pub. L. 104–188, title I][/us/pl/104/188], §§ 1204(e), 1205(a)(1), (b), (d)(1), (2), Aug. 20, 1996, [110 Stat. 1775][/us/stat/110/1775], 1776; [Pub. L. 105–34, title VI][/us/pl/105/34], §§ 601(b)(2), 604(a), Aug. 5, 1997, [111 Stat. 862][/us/stat/111/862], 863; [Pub. L. 105–115, title I, § 125(b)(2)(O)][/us/pl/105/115/s125/b/2/O], Nov. 21, 1997, [111 Stat. 2326][/us/stat/111/2326]; [Pub. L. 105–277, div. J, title I, § 1001(b)][/us/pl/105/277/s1001/b], Oct. 21, 1998, [112 Stat. 2681–888][/us/stat/112/2681-888]; [Pub. L. 106–170, title V, § 502(a)(2)][/us/pl/106/170/s502/a/2], Dec. 17, 1999, [113 Stat. 1919][/us/stat/113/1919]; [Pub. L. 108–311, title III, § 301(a)(2)][/us/pl/108/311/s301/a/2], Oct. 4, 2004, [118 Stat. 1178][/us/stat/118/1178]; [Pub. L. 109–432, div. A, title I, § 104(a)(2)][/us/pl/109/432/s104/a/2], Dec. 20, 2006, [120 Stat. 2934][/us/stat/120/2934]; [Pub. L. 110–343, div. C, title III, § 301(a)(2)][/us/pl/110/343/s301/a/2], Oct. 3, 2008, [122 Stat. 3865][/us/stat/122/3865]; [Pub. L. 111–312, title VII, § 731(b)][/us/pl/111/312/s731/b], Dec. 17, 2010, [124 Stat. 3317][/us/stat/124/3317]; [Pub. L. 112–240, title III, § 301(a)(2)][/us/pl/112/240/s301/a/2], Jan. 2, 2013, [126 Stat. 2326][/us/stat/126/2326]; [Pub. L. 113–295, div. A, title I, § 111(b)][/us/pl/113/295/s111/b], Dec. 19, 2014, [128 Stat. 4014][/us/stat/128/4014].)
 
  __References in Text__ 
 
@@ -120,6 +120,8 @@
     Section 351 of the Public Health Service Act, referred to in subsec. (b)(2)(A)(ii)(II), is classified to [section 262 of Title 42][/us/usc/t42/s262], The Public Health and Welfare.
 
  __Amendments__ 
+
+    2014—Subsec. (b)(1)(D). [Pub. L. 113–295][/us/pl/113/295] amended subpar. (D) generally. Prior to amendment, text read as follows: “For purposes of this paragraph, section 41 shall be deemed to remain in effect for periods after June 30, 1995, and before July 1, 1996, and periods after December 31, 2013.”
 
     2013—Subsec. (b)(1)(D). [Pub. L. 112–240][/us/pl/112/240] substituted “December 31, 2013” for “December 31, 2011”.
 
@@ -210,6 +212,10 @@
     [Pub. L. 98–369, § 474(g)(2)][/us/pl/98/369/s474/g/2], amended par. (2) generally, substituting “shall not exceed the taxpayer’s tax liability for the taxable year (as defined in section 25(b), reduced by the sum of the credits allowable under subpart A and section 27” for “shall not exceed the amount of the tax imposed by this chapter for the taxable year reduced by the sum of the credits allowable under a section of this subpart having a lower number or letter designation than this section, other than the credits allowable by sections 31, 39, and 43. For purposes of the preceding sentence, the term ‘tax imposed by this chapter’ shall not include any tax treated as not imposed by this chapter under the last sentence of section 53(a)”.
 
     Subsec. (d)(4). [Pub. L. 98–369, § 474(g)(1)(C)][/us/pl/98/369/s474/g/1/C], substituted “section 30(f)” for “section 44F(f)”.
+
+ __Effective Date of 2014 Amendment__ 
+
+    Amendment by [Pub. L. 113–295][/us/pl/113/295] applicable to amounts paid or incurred after Dec. 31, 2013, see [section 111(c) of Pub. L. 113–295][/us/pl/113/295/s111/c], set out as a note under [section 41 of this title][/us/usc/t26/s41].
 
  __Effective Date of 2013 Amendment__ 
 
@@ -356,7 +362,10 @@
 [/us/stat/124/3317]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3317
 [/us/pl/112/240/s301/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F240%2Fs301%2Fa%2F2
 [/us/stat/126/2326]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F2326
+[/us/pl/113/295/s111/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs111%2Fb
+[/us/stat/128/4014]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F4014
 [/us/usc/t42/s262]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs262
+[/us/pl/113/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295
 [/us/pl/112/240]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F240
 [/us/pl/111/312]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F312
 [/us/pl/110/343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F343
@@ -399,6 +408,9 @@
 [/us/pl/98/369/s612/e/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs612%2Fe%2F1
 [/us/pl/98/369/s474/g/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs474%2Fg%2F2
 [/us/pl/98/369/s474/g/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs474%2Fg%2F1%2FC
+[/us/pl/113/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295
+[/us/pl/113/295/s111/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs111%2Fc
+[/us/usc/t26/s41]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs41
 [/us/pl/112/240]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F240
 [/us/pl/112/240/s301/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F240%2Fs301%2Fd%2F1
 [/us/usc/t26/s41]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs41

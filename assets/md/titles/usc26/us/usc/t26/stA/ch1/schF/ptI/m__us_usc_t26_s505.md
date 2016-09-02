@@ -19,7 +19,7 @@
 
         (1) __Voluntary employees’ beneficiary associations, etc.__ 
 
-            An organization described in paragraph (9) or (20) of subsection (c) of section 501 which is part of a plan shall not be exempt from tax under section 501(a) unless such plan meets the requirements of subsection (b) of this section.
+            An organization described in paragraph (9) or (20)  <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below </sup></sup>  of subsection (c) of section 501 which is part of a plan shall not be exempt from tax under section 501(a) unless such plan meets the requirements of subsection (b) of this section.
 
         (2) __Exception for collective bargaining agreements__ 
 
@@ -75,7 +75,7 @@
 
         (1) __In general__ 
 
-        An organization shall not be treated as an organization described in paragraph (9), (17), or (20) of section 501(c)—
+        An organization shall not be treated as an organization described in paragraph (9), (17), or (20) 1 of section 501(c)—
 
             (A) unless it has given notice to the Secretary, in such manner as the Secretary may by regulations prescribe, that it is applying for recognition of such status, or
 
@@ -86,6 +86,10 @@
             In the case of any organization in existence on July 18, 1984, the time for giving notice under paragraph (1) shall not expire before the date 1 year after such date of the enactment.
 
 (Added [Pub. L. 98–369, div. A, title V, § 513(a)][/us/pl/98/369/s513/a], July 18, 1984, [98 Stat. 863][/us/stat/98/863]; amended [Pub. L. 99–514, title XI][/us/pl/99/514], §§ 1114(b)(16), 1151(e)(2)(B), (g)(6), (j)(3), title XVIII, §§ 1851(c), 1899A(16), Oct. 22, 1986, [100 Stat. 2452][/us/stat/100/2452], 2506–2508, 2863, 2959; [Pub. L. 100–647, title I, § 1011B(a)(27)(C)][/us/pl/100/647/s1011B/a/27/C], (31)(B), (32), Nov. 10, 1988, [102 Stat. 3487][/us/stat/102/3487], 3488; [Pub. L. 101–140, title II][/us/pl/101/140], §§ 203(a)(1), (2), 204(c), Nov. 8, 1989, [103 Stat. 830][/us/stat/103/830], 833; [Pub. L. 103–66, title XIII, § 13212(c)][/us/pl/103/66/s13212/c], Aug. 10, 1993, [107 Stat. 472][/us/stat/107/472]; [Pub. L. 107–16, title VI, § 611(c)(1)][/us/pl/107/16/s611/c/1], June 7, 2001, [115 Stat. 97][/us/stat/115/97].)
+
+ __References in Text__ 
+
+    Section 501(c)(20), referred to in subsecs. (a)(1), (c)(1), was repealed by [Pub. L. 113–295, div. A, title II, § 221(a)(19)(B)(iii)][/us/pl/113/295/s221/a/19/B/iii], Dec. 19, 2014, [128 Stat. 4040][/us/stat/128/4040].
 
  __Amendments__ 
 
@@ -208,6 +212,8 @@
 [/us/stat/107/472]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F472
 [/us/pl/107/16/s611/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F16%2Fs611%2Fc%2F1
 [/us/stat/115/97]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F97
+[/us/pl/113/295/s221/a/19/B/iii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs221%2Fa%2F19%2FB%2Fiii
+[/us/stat/128/4040]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F4040
 [/us/pl/107/16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F16
 [/us/pl/103/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66
 [/us/pl/101/140/s203/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F140%2Fs203%2Fa%2F2

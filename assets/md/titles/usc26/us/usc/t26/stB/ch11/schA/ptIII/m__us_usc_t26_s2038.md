@@ -47,7 +47,7 @@
 
  __Effective Date of 1976 Amendment__ 
 
-    Amendment by [section 1902(a)(3) of Pub. L. 94–455][/us/pl/94/455/s1902/a/3] applicable to estates of decedents dying after Oct. 4, 1976, see [section 1902(c)(1) of Pub. L. 94–455][/us/pl/94/455/s1902/c/1], set out as a note under [section 2011 of this title][/us/usc/t26/s2011].
+    Amendment by [section 1902(a)(3) of Pub. L. 94–455][/us/pl/94/455/s1902/a/3] applicable to estates of decedents dying after Oct. 4, 1976, see [section 1902(c)(1) of Pub. L. 94–455][/us/pl/94/455/s1902/c/1], set out as a note under [section 2012 of this title][/us/usc/t26/s2012].
 
     Amendment by section 2001(c)(1)(K)(i), (ii) of [Pub. L. 94–455][/us/pl/94/455] applicable to estates of decedents dying after Dec. 31, 1976 but not to transfers made before Jan. 1, 1977, see [section 2001(d)(1) of Pub. L. 94–455][/us/pl/94/455/s2001/d/1], set out as a note under [section 2001 of this title][/us/usc/t26/s2001].
 
@@ -83,7 +83,7 @@
 [/us/pl/86/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F141
 [/us/pl/94/455/s1902/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1902%2Fa%2F3
 [/us/pl/94/455/s1902/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1902%2Fc%2F1
-[/us/usc/t26/s2011]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs2011
+[/us/usc/t26/s2012]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs2012
 [/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455
 [/us/pl/94/455/s2001/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs2001%2Fd%2F1
 [/us/usc/t26/s2001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs2001

@@ -19,15 +19,11 @@
 
         (1) __General rule__ 
 
-            (A) An organization described in section 501(c)(17) shall not be exempt from taxation under section 501(a) if it has engaged in a prohibited transaction after December 31, 1959.
-
-            (B) An organization described in section 401(a) which is referred to in section 4975(g) (2) or (3) shall not be exempt from taxation under section 501(a) if it has engaged in a prohibited transaction after March 1, 1954.
-
-            (C) An organization described in section 501(c)(18) shall not be exempt from taxation under section 501(a) if it has engaged in a prohibited transaction after December 31, 1969.
+            An organization described in paragraph (17) or (18) of section 501(c), or described in section 401(a) and referred to in section 4975(g) (2) or (3), shall not be exempt from taxation under section 501(a) if it has engaged in a prohibited transaction.
 
         (2) __Taxable years affected__ 
 
-            An organization described in section 501(c) (17) or (18) or paragraph (1)(B) shall be denied exemption from taxation under section 501(a) by reason of paragraph (1) only for taxable years after the taxable year during which it is notified by the Secretary that it has engaged in a prohibited transaction, unless such organization entered into such prohibited transaction with the purpose of diverting corpus or income of the organization from its exempt purposes, and such transaction involved a substantial part of the corpus or income of such organization.
+            An organization described in paragraph (1) shall be denied exemption from taxation under section 501(a) by reason of paragraph (1) only for taxable years after the taxable year during which it is notified by the Secretary that it has engaged in a prohibited transaction, unless such organization entered into such prohibited transaction with the purpose of diverting corpus or income of the organization from its exempt purposes, and such transaction involved a substantial part of the corpus or income of such organization.
 
     (b) __Prohibited transactions__ 
 
@@ -49,7 +45,7 @@
 
     (c) __Future status of organizations denied exemption__ 
 
-        Any organization described in section 501(c) (17) or (18) or subsection (a)(1)(B) which is denied exemption under section 501(a) by reason of subsection (a) of this section, with respect to any taxable year following the taxable year in which notice of denial of exemption was received, may, under regulations prescribed by the Secretary, file claim for exemption, and if the Secretary, pursuant to such regulations, is satisfied that such organization will not knowingly again engage in a prohibited transaction, such organization shall be exempt with respect to taxable years after the year in which such claim is filed.
+        Any organization described in subsection (a)(1) which is denied exemption under section 501(a) by reason of subsection (a) of this section, with respect to any taxable year following the taxable year in which notice of denial of exemption was received, may, under regulations prescribed by the Secretary, file claim for exemption, and if the Secretary, pursuant to such regulations, is satisfied that such organization will not knowingly again engage in a prohibited transaction, such organization shall be exempt with respect to taxable years after the year in which such claim is filed.
 
     \[(d) __Repealed.__  __[__  __Pub. L. 101–508, title XI, § 11801(a)(22)__  __][/us/pl/101/508/s11801/a/22]__  __,__  __Nov. 5, 1990__  __,__  __[__  __104 Stat. 1388–521__  __][/us/stat/104/1388-521]__  __\]__ 
 
@@ -89,9 +85,21 @@
 
         For purposes of paragraph (2), the term “trustee” means, with respect to any trust for which there is more than one trustee who is independent of the employer, a majority of such independent trustees. For purposes of paragraph (3), the determination as to whether any amount loaned by the trust to the employer is loaned without the receipt of adequate security shall be made without regard to subsection (e).
 
-([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 166][/us/stat/68A/166]; [Pub. L. 85–866, title I, § 30(a)][/us/pl/85/866/s30/a], (b), Sept. 2, 1958, [72 Stat. 1629][/us/stat/72/1629], 1630; [Pub. L. 86–667, § 2][/us/pl/86/667/s2], July 14, 1960, [74 Stat. 535][/us/stat/74/535]; [Pub. L. 87–792, § 6][/us/pl/87/792/s6], Oct. 10, 1962, [76 Stat. 827][/us/stat/76/827]; [Pub. L. 91–172, title I][/us/pl/91/172], §§ 101(j)(7)–(14), 121(b)(6)(B), Dec. 30, 1969, [83 Stat. 527][/us/stat/83/527], 542; [Pub. L. 93–406, title II, § 2003(b)][/us/pl/93/406/s2003/b], Sept. 2, 1974, [88 Stat. 978][/us/stat/88/978]; [Pub. L. 94–455, title XIX, § 1906(b)(13)(A)][/us/pl/94/455/s1906/b/13/A], Oct. 4, 1976, [90 Stat. 1834][/us/stat/90/1834]; [Pub. L. 101–508, title XI, § 11801(a)(22)][/us/pl/101/508/s11801/a/22], Nov. 5, 1990, [104 Stat. 1388–521][/us/stat/104/1388-521].)
+([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 166][/us/stat/68A/166]; [Pub. L. 85–866, title I, § 30(a)][/us/pl/85/866/s30/a], (b), Sept. 2, 1958, [72 Stat. 1629][/us/stat/72/1629], 1630; [Pub. L. 86–667, § 2][/us/pl/86/667/s2], July 14, 1960, [74 Stat. 535][/us/stat/74/535]; [Pub. L. 87–792, § 6][/us/pl/87/792/s6], Oct. 10, 1962, [76 Stat. 827][/us/stat/76/827]; [Pub. L. 91–172, title I][/us/pl/91/172], §§ 101(j)(7)–(14), 121(b)(6)(B), Dec. 30, 1969, [83 Stat. 527][/us/stat/83/527], 542; [Pub. L. 93–406, title II, § 2003(b)][/us/pl/93/406/s2003/b], Sept. 2, 1974, [88 Stat. 978][/us/stat/88/978]; [Pub. L. 94–455, title XIX, § 1906(b)(13)(A)][/us/pl/94/455/s1906/b/13/A], Oct. 4, 1976, [90 Stat. 1834][/us/stat/90/1834]; [Pub. L. 101–508, title XI, § 11801(a)(22)][/us/pl/101/508/s11801/a/22], Nov. 5, 1990, [104 Stat. 1388–521][/us/stat/104/1388-521]; [Pub. L. 113–295, div. A, title II, § 221(a)(63)][/us/pl/113/295/s221/a/63], Dec. 19, 2014, [128 Stat. 4048][/us/stat/128/4048].)
 
  __Amendments__ 
+
+    2014—Subsec. (a)(1). [Pub. L. 113–295, § 221(a)(63)(A)][/us/pl/113/295/s221/a/63/A], amended par. (1) generally. Prior to amendment, text read as follows:
+
+    “(A) An organization described in section 501(c)(17) shall not be exempt from taxation under section 501(a) if it has engaged in a prohibited transaction after December 31, 1959.
+
+    “(B) An organization described in section 401(a) which is referred to in section 4975(g) (2) or (3) shall not be exempt from taxation under section 501(a) if it has engaged in a prohibited transaction after March 1, 1954.
+
+    “(C) An organization described in section 501(c)(18) shall not be exempt from taxation under section 501(a) if it has engaged in a prohibited transaction after December 31, 1969.”
+
+    Subsec. (a)(2). [Pub. L. 113–295, § 221(a)(63)(B)][/us/pl/113/295/s221/a/63/B], which directed amendment of par. (2) by substituting “described in paragraph (1)” for “described in section 501(c)(17) or (18) or paragraph (a)(1)(B)” was executed by making the substitution for “described in section 501(c) (17) or (18) or paragraph (1)(B)” to reflect the probable intent of Congress.
+
+    Subsec. (c). [Pub. L. 113–295, § 221(a)(63)(C)][/us/pl/113/295/s221/a/63/C], which directed amendment of subsec. (c) by substituting “described in subsection (a)(1)” for “described in section 501(c)(17) or (18) or subsection (a)(1)(B)” was executed by making the substitution for “described in section 501(c) (17) or (18) or subsection (a)(1)(B)” to reflect the probable intent of Congress.
 
     1990—Subsec. (d). [Pub. L. 101–508][/us/pl/101/508] struck out subsec. (d) “Special rule for loans” which read as follows: “For purposes of the application of subsection (b)(1), in the case of a loan by a trust described in section 401(a), the following rules shall apply with respect to a loan made before March 1, 1954, which would constitute a prohibited transaction if made on or after March 1, 1954:
 
@@ -144,6 +152,10 @@
     1958—Subsec. (h). [Pub. L. 85–866, § 30(a)][/us/pl/85/866/s30/a], added subsec. (h).
 
     Subsec. (i). [Pub. L. 85–866, § 30(b)][/us/pl/85/866/s30/b], added subsec. (i).
+
+ __Effective Date of 2014 Amendment__ 
+
+    Amendment by [Pub. L. 113–295][/us/pl/113/295] effective Dec. 19, 2014, subject to a savings provision, see [section 221(b) of Pub. L. 113–295][/us/pl/113/295/s221/b], set out as a note under [section 1 of this title][/us/usc/t26/s1].
 
  __Effective Date of 1974 Amendment__ 
 
@@ -204,6 +216,11 @@
 [/us/stat/90/1834]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1834
 [/us/pl/101/508/s11801/a/22]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs11801%2Fa%2F22
 [/us/stat/104/1388-521]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1388-521
+[/us/pl/113/295/s221/a/63]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs221%2Fa%2F63
+[/us/stat/128/4048]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F4048
+[/us/pl/113/295/s221/a/63/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs221%2Fa%2F63%2FA
+[/us/pl/113/295/s221/a/63/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs221%2Fa%2F63%2FB
+[/us/pl/113/295/s221/a/63/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs221%2Fa%2F63%2FC
 [/us/pl/101/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508
 [/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455
 [/us/pl/93/406/s2003/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F406%2Fs2003%2Fb%2F1
@@ -228,6 +245,9 @@
 [/us/pl/86/667/s2/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F667%2Fs2%2Fd
 [/us/pl/85/866/s30/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F866%2Fs30%2Fa
 [/us/pl/85/866/s30/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F866%2Fs30%2Fb
+[/us/pl/113/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295
+[/us/pl/113/295/s221/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs221%2Fb
+[/us/usc/t26/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs1
 [/us/pl/93/406]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F406
 [/us/pl/93/406/s2003/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F406%2Fs2003%2Fc
 [/us/usc/t26/s4975]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs4975

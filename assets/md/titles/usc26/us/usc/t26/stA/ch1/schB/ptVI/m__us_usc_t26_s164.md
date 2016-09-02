@@ -27,12 +27,6 @@
 
         (4) The GST tax imposed on income distributions.
 
-        (5) The environmental tax imposed by section 59A.
-
-        (6) Qualified motor vehicle taxes.
-
-        In addition, there shall be allowed as a deduction State and local, and foreign, taxes not described in the preceding sentence which are paid or accrued within the taxable year in carrying on a trade or business or an activity described in section 212 (relating to expenses for production of income). Notwithstanding the preceding sentence, any tax (not described in the first sentence of this subsection) which is paid or accrued by the taxpayer in connection with an acquisition or disposition of property shall be treated as part of the cost of the acquired property or, in the case of a disposition, as a reduction in the amount realized on the disposition.
-
     (b) __Definitions and special rules__ 
 
     For purposes of this section—
@@ -57,7 +51,7 @@
 
                 (i) the tax imposed by section 2601, and
 
-                (ii) any State tax described in section 2604,
+                (ii) any State tax described in section 2604 (as in effect before its repeal),
 
                 but only to the extent such tax is imposed on a transfer which is included in the gross income of the distributee and to which section 666 does not apply.
 
@@ -131,63 +125,7 @@
 
             (I) __Application of paragraph__ 
 
-                This paragraph shall apply to taxable years beginning after December 31, 2003, and before January 1, 2014.
-
-        (6) __Qualified motor vehicle taxes__ 
-
-            (A) __In general__ 
-
-                For purposes of this section, the term “qualified motor vehicle taxes” means any State or local sales or excise tax imposed on the purchase of a qualified motor vehicle.
-
-            (B) __Limitation based on vehicle price__ 
-
-                The amount of any State or local sales or excise tax imposed on the purchase of a qualified motor vehicle taken into account under subparagraph (A) shall not exceed the portion of such tax attributable to so much of the purchase price as does not exceed $49,500.
-
-            (C) __Income limitation__ 
-
-            The amount otherwise taken into account under subparagraph (A) (after the application of subparagraph (B)) for any taxable year shall be reduced (but not below zero) by the amount which bears the same ratio to the amount which is so treated as—
-
-                (i)
-
-                 the excess (if any) of—
-
-                    (I) the taxpayer’s modified adjusted gross income for such taxable year, over
-
-                    (II) $125,000 ($250,000 in the case of a joint return), bears to
-
-                (ii) $10,000.
-
-                For purposes of the preceding sentence, the term “modified adjusted gross income” means the adjusted gross income of the taxpayer for the taxable year (determined without regard to sections 911, 931, and 933).
-
-            (D) __Qualified motor vehicle__ 
-
-            For purposes of this paragraph—
-
-                (i) __In general__ 
-
-                The term “qualified motor vehicle” means—
-
-                    (I) a passenger automobile or light truck which is treated as a motor vehicle for purposes of title II of the Clean Air Act, the gross vehicle weight rating of which is not more than 8,500 pounds, and the original use of which commences with the taxpayer,
-
-                    (II) a motorcycle the gross vehicle weight rating of which is not more than 8,500 pounds and the original use of which commences with the taxpayer, and
-
-                    (III) a motor home the original use of which commences with the taxpayer.
-
-                (ii) __Other terms__ 
-
-                    The terms “motorcycle” and “motor home” have the meanings given such terms under section 571.3 of title 49, Code of Federal Regulations (as in effect on the date of the enactment of this paragraph).
-
-            (E) __Qualified motor vehicle taxes not included in cost of acquired property__ 
-
-                The last sentence of subsection (a) shall not apply to any qualified motor vehicle taxes.
-
-            (F) __Coordination with general sales tax__ 
-
-                This paragraph shall not apply in the case of a taxpayer who makes an election under paragraph (5) for the taxable year.
-
-            (G) __Termination__ 
-
-                This paragraph shall not apply to purchases after December 31, 2009.
+                This paragraph shall apply to taxable years beginning after December 31, 2003, and before January 1, 2015.
 
     (c) __Deduction denied in case of certain taxes__ 
 
@@ -253,15 +191,25 @@
 
         (2) For treatment of taxes imposed by Indian tribal governments (or their subdivisions), see section 7871.
 
-([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 47][/us/stat/68A/47]; [Pub. L. 85–866, title I, § 6(a)][/us/pl/85/866/s6/a], Sept. 2, 1958, [72 Stat. 1608][/us/stat/72/1608]; [Pub. L. 88–272, title II, § 207(a)][/us/pl/88/272/s207/a], (b)(1), (2), Feb. 26, 1964, [78 Stat. 40–42][/us/stat/78/40-42]; [Pub. L. 92–580, § 4(a)][/us/pl/92/580/s4/a], Oct. 27, 1972, [86 Stat. 1277][/us/stat/86/1277]; [Pub. L. 94–455, title XIX][/us/pl/94/455], §§ 1901(a)(25), 1951(b)(3)(A), Oct. 4, 1976, [90 Stat. 1767][/us/stat/90/1767], 1837; [Pub. L. 95–600, title I, § 111(a)][/us/pl/95/600/s111/a], (b), Nov. 6, 1978, [92 Stat. 2777][/us/stat/92/2777]; [Pub. L. 96–223, title I, § 101(b)][/us/pl/96/223/s101/b], Apr. 2, 1980, [94 Stat. 250][/us/stat/94/250]; [Pub. L. 97–473, title II, § 202(b)(3)][/us/pl/97/473/s202/b/3], Jan. 14, 1983, [96 Stat. 2609][/us/stat/96/2609]; [Pub. L. 98–21, title I, § 124(c)(1)][/us/pl/98/21/s124/c/1], Apr. 20, 1983, [97 Stat. 90][/us/stat/97/90]; [Pub. L. 98–369, div. A, title IV, § 474(r)(29)(F)][/us/pl/98/369/s474/r/29/F], July 18, 1984, [98 Stat. 844][/us/stat/98/844]; [Pub. L. 99–499, title V, § 516(b)(2)(A)][/us/pl/99/499/s516/b/2/A], Oct. 17, 1986, [100 Stat. 1771][/us/stat/100/1771]; [Pub. L. 99–514, title I, § 134][/us/pl/99/514/s134], title XIV, § 1432(a)(1), (2), Oct. 22, 1986, [100 Stat. 2116][/us/stat/100/2116], 2729; [Pub. L. 100–418, title I, § 1941(b)(2)(A)][/us/pl/100/418/s1941/b/2/A], Aug. 23, 1988, [102 Stat. 1323][/us/stat/102/1323]; [Pub. L. 100–647, title I, § 1018(u)(11)][/us/pl/100/647/s1018/u/11], Nov. 10, 1988, [102 Stat. 3590][/us/stat/102/3590]; [Pub. L. 104–188, title I, § 1704(t)(79)][/us/pl/104/188/s1704/t/79], Aug. 20, 1996, [110 Stat. 1891][/us/stat/110/1891]; [Pub. L. 108–357, title V, § 501(a)][/us/pl/108/357/s501/a], Oct. 22, 2004, [118 Stat. 1520][/us/stat/118/1520]; [Pub. L. 109–135, title IV, § 403(r)(1)][/us/pl/109/135/s403/r/1], Dec. 21, 2005, [119 Stat. 2628][/us/stat/119/2628]; [Pub. L. 109–432, div. A, title I, § 103(a)][/us/pl/109/432/s103/a], Dec. 20, 2006, [120 Stat. 2934][/us/stat/120/2934]; [Pub. L. 110–343, div. C, title II, § 201(a)][/us/pl/110/343/s201/a], Oct. 3, 2008, [122 Stat. 3864][/us/stat/122/3864]; [Pub. L. 111–5, div. B, title I, § 1008(a)][/us/pl/111/5/s1008/a], (b), Feb. 17, 2009, [123 Stat. 317][/us/stat/123/317]; [Pub. L. 111–148, title IX, § 9015(b)(2)(A)][/us/pl/111/148/s9015/b/2/A], Mar. 23, 2010, [124 Stat. 871][/us/stat/124/871]; [Pub. L. 111–312, title VII, § 722(a)][/us/pl/111/312/s722/a], Dec. 17, 2010, [124 Stat. 3316][/us/stat/124/3316]; [Pub. L. 112–240, title II, § 205(a)][/us/pl/112/240/s205/a], Jan. 2, 2013, [126 Stat. 2323][/us/stat/126/2323].)
+([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 47][/us/stat/68A/47]; [Pub. L. 85–866, title I, § 6(a)][/us/pl/85/866/s6/a], Sept. 2, 1958, [72 Stat. 1608][/us/stat/72/1608]; [Pub. L. 88–272, title II, § 207(a)][/us/pl/88/272/s207/a], (b)(1), (2), Feb. 26, 1964, [78 Stat. 40–42][/us/stat/78/40-42]; [Pub. L. 92–580, § 4(a)][/us/pl/92/580/s4/a], Oct. 27, 1972, [86 Stat. 1277][/us/stat/86/1277]; [Pub. L. 94–455, title XIX][/us/pl/94/455], §§ 1901(a)(25), 1951(b)(3)(A), Oct. 4, 1976, [90 Stat. 1767][/us/stat/90/1767], 1837; [Pub. L. 95–600, title I, § 111(a)][/us/pl/95/600/s111/a], (b), Nov. 6, 1978, [92 Stat. 2777][/us/stat/92/2777]; [Pub. L. 96–223, title I, § 101(b)][/us/pl/96/223/s101/b], Apr. 2, 1980, [94 Stat. 250][/us/stat/94/250]; [Pub. L. 97–473, title II, § 202(b)(3)][/us/pl/97/473/s202/b/3], Jan. 14, 1983, [96 Stat. 2609][/us/stat/96/2609]; [Pub. L. 98–21, title I, § 124(c)(1)][/us/pl/98/21/s124/c/1], Apr. 20, 1983, [97 Stat. 90][/us/stat/97/90]; [Pub. L. 98–369, div. A, title IV, § 474(r)(29)(F)][/us/pl/98/369/s474/r/29/F], July 18, 1984, [98 Stat. 844][/us/stat/98/844]; [Pub. L. 99–499, title V, § 516(b)(2)(A)][/us/pl/99/499/s516/b/2/A], Oct. 17, 1986, [100 Stat. 1771][/us/stat/100/1771]; [Pub. L. 99–514, title I, § 134][/us/pl/99/514/s134], title XIV, § 1432(a)(1), (2), Oct. 22, 1986, [100 Stat. 2116][/us/stat/100/2116], 2729; [Pub. L. 100–418, title I, § 1941(b)(2)(A)][/us/pl/100/418/s1941/b/2/A], Aug. 23, 1988, [102 Stat. 1323][/us/stat/102/1323]; [Pub. L. 100–647, title I, § 1018(u)(11)][/us/pl/100/647/s1018/u/11], Nov. 10, 1988, [102 Stat. 3590][/us/stat/102/3590]; [Pub. L. 104–188, title I, § 1704(t)(79)][/us/pl/104/188/s1704/t/79], Aug. 20, 1996, [110 Stat. 1891][/us/stat/110/1891]; [Pub. L. 108–357, title V, § 501(a)][/us/pl/108/357/s501/a], Oct. 22, 2004, [118 Stat. 1520][/us/stat/118/1520]; [Pub. L. 109–135, title IV, § 403(r)(1)][/us/pl/109/135/s403/r/1], Dec. 21, 2005, [119 Stat. 2628][/us/stat/119/2628]; [Pub. L. 109–432, div. A, title I, § 103(a)][/us/pl/109/432/s103/a], Dec. 20, 2006, [120 Stat. 2934][/us/stat/120/2934]; [Pub. L. 110–343, div. C, title II, § 201(a)][/us/pl/110/343/s201/a], Oct. 3, 2008, [122 Stat. 3864][/us/stat/122/3864]; [Pub. L. 111–5, div. B, title I, § 1008(a)][/us/pl/111/5/s1008/a], (b), Feb. 17, 2009, [123 Stat. 317][/us/stat/123/317]; [Pub. L. 111–148, title IX, § 9015(b)(2)(A)][/us/pl/111/148/s9015/b/2/A], Mar. 23, 2010, [124 Stat. 871][/us/stat/124/871]; [Pub. L. 111–312, title VII, § 722(a)][/us/pl/111/312/s722/a], Dec. 17, 2010, [124 Stat. 3316][/us/stat/124/3316]; [Pub. L. 112–240, title II, § 205(a)][/us/pl/112/240/s205/a], Jan. 2, 2013, [126 Stat. 2323][/us/stat/126/2323]; [Pub. L. 113–295, div. A, title I, § 105(a)][/us/pl/113/295/s105/a], title II, §§ 209(c), 221(a)(12)(D), (26), (95)(B)(ii), Dec. 19, 2014, [128 Stat. 4013][/us/stat/128/4013], 4028, 4038, 4040, 4051.)
 
  __References in Text__ 
 
-    The Clean Air Act, referred to in subsec. (b)(6)(D)(i)(I), is [act July 14, 1955, ch. 360][/us/act/1955-07-14/ch360], [69 Stat. 322][/us/stat/69/322]. Title II of the Act, known as the National Emission Standards Act, is classified generally to subchapter II (§ 7521 et seq.) of chapter 85 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 7401 of Title 42][/us/usc/t42/s7401] and Tables.
-
-    The date of the enactment of this paragraph, referred to in subsec. (b)(6)(D)(ii), is the date of enactment of [Pub. L. 111–5][/us/pl/111/5], which was approved Feb. 17, 2009.
+    Section 2604, referred to in subsec. (b)(4)(A)(ii), was repealed by [Pub. L. 113–295, div. A, title II, § 221(a)(95)(B)(i)][/us/pl/113/295/s221/a/95/B/i], Dec. 19, 2014, [128 Stat. 4051][/us/stat/128/4051], effective Dec. 19, 2014.
 
  __Amendments__ 
+
+    2014—Subsec. (a)(5). [Pub. L. 113–295, § 221(a)(12)(D)][/us/pl/113/295/s221/a/12/D], struck out par. (5) which read as follows: “The environmental tax imposed by section 59A.”
+
+    Subsec. (a)(6). [Pub. L. 113–295, § 221(a)(26)][/us/pl/113/295/s221/a/26], struck out par. (6) which read as follows: “Qualified motor vehicle taxes.”
+
+    Subsec. (b)(4)(A)(ii). [Pub. L. 113–295, § 221(a)(95)(B)(ii)][/us/pl/113/295/s221/a/95/B/ii], inserted “(as in effect before its repeal)” after “section 2604”.
+
+    Subsec. (b)(5)(I). [Pub. L. 113–295, § 105(a)][/us/pl/113/295/s105/a], substituted “January 1, 2015” for “January 1, 2014”.
+
+    Subsec. (b)(6). [Pub. L. 113–295, § 221(a)(26)][/us/pl/113/295/s221/a/26], struck out par. (6) which related to qualified motor vehicle taxes.
+
+    Subsec. (b)(6)(E) to (G). [Pub. L. 113–295, § 209(c)][/us/pl/113/295/s209/c], redesignated subpars. (F) and (G) as (E) and (F), respectively, substituted “Subsection (a)(6)” for “This paragraph” in subpars. (E) and (F), and struck out former subpar. (E). Prior to amendment, text of former subpar. (E) read as follows: “The last sentence of subsection (a) shall not apply to any qualified motor vehicle taxes.”
 
     2013—Subsec. (b)(5)(I). [Pub. L. 112–240][/us/pl/112/240] substituted “January 1, 2014” for “January 1, 2012”.
 
@@ -348,6 +296,16 @@
     Subsec. (g). [Pub. L. 88–272, § 207(b)(2)][/us/pl/88/272/s207/b/2], designated existing provisions as par. (1), substituted “1451” for “1451(f)” and added par. (2).
 
     1958—Subsecs. (f), (g). [Pub. L. 85–866, § 6(a)][/us/pl/85/866/s6/a], added subsec. (f) and redesignated former subsec. (f) as (g).
+
+ __Effective Date of 2014 Amendment__ 
+
+[Pub. L. 113–295, div. A, title I, § 105(b)][/us/pl/113/295/s105/b], Dec. 19, 2014, [128 Stat. 4013][/us/stat/128/4013], provided that: 
+
+> “The amendment made by this section \[amending this section\] shall apply to taxable years beginning after December 31, 2013.”
+
+    Amendment by [section 209(c) of Pub. L. 113–295][/us/pl/113/295/s209/c] effective as if included in the provisions of the American Recovery and Reinvestment Tax Act of 2009, [Pub. L. 111–5, div. B, title I][/us/pl/111/5], to which such amendment relates, see [section 209(k) of Pub. L. 113–295][/us/pl/113/295/s209/k], set out as a note under [section 24 of this title][/us/usc/t26/s24].
+
+    Amendment by section 221(a)(12)(D), (26), (95)(B)(ii) of [Pub. L. 113–295][/us/pl/113/295] effective Dec. 19, 2014, subject to a savings provision, see [section 221(b) of Pub. L. 113–295][/us/pl/113/295/s221/b], set out as a note under [section 1 of this title][/us/usc/t26/s1].
 
  __Effective Date of 2013 Amendment__ 
 
@@ -514,10 +472,16 @@
 [/us/stat/124/3316]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3316
 [/us/pl/112/240/s205/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F240%2Fs205%2Fa
 [/us/stat/126/2323]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F2323
-[/us/act/1955-07-14/ch360]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1955-07-14%2Fch360
-[/us/stat/69/322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F69%2F322
-[/us/usc/t42/s7401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7401
-[/us/pl/111/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5
+[/us/pl/113/295/s105/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs105%2Fa
+[/us/stat/128/4013]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F4013
+[/us/pl/113/295/s221/a/95/B/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs221%2Fa%2F95%2FB%2Fi
+[/us/stat/128/4051]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F4051
+[/us/pl/113/295/s221/a/12/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs221%2Fa%2F12%2FD
+[/us/pl/113/295/s221/a/26]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs221%2Fa%2F26
+[/us/pl/113/295/s221/a/95/B/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs221%2Fa%2F95%2FB%2Fii
+[/us/pl/113/295/s105/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs105%2Fa
+[/us/pl/113/295/s221/a/26]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs221%2Fa%2F26
+[/us/pl/113/295/s209/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs209%2Fc
 [/us/pl/112/240]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F240
 [/us/pl/111/312]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F312
 [/us/pl/111/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148
@@ -556,6 +520,15 @@
 [/us/pl/88/272/s207/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F272%2Fs207%2Fb%2F1
 [/us/pl/88/272/s207/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F272%2Fs207%2Fb%2F2
 [/us/pl/85/866/s6/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F866%2Fs6%2Fa
+[/us/pl/113/295/s105/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs105%2Fb
+[/us/stat/128/4013]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F4013
+[/us/pl/113/295/s209/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs209%2Fc
+[/us/pl/111/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5
+[/us/pl/113/295/s209/k]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs209%2Fk
+[/us/usc/t26/s24]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs24
+[/us/pl/113/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295
+[/us/pl/113/295/s221/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs221%2Fb
+[/us/usc/t26/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs1
 [/us/pl/112/240/s205/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F240%2Fs205%2Fb
 [/us/stat/126/2323]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F2323
 [/us/pl/111/312/s722/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F312%2Fs722%2Fb

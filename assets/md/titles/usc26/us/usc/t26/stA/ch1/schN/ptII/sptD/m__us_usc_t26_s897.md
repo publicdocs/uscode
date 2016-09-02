@@ -229,7 +229,7 @@
 
                 (ii) __Termination__ 
 
-                    Clause (i)(II) shall not apply after December 31, 2013. Notwithstanding the preceding sentence, an entity described in clause (i)(II) shall be treated as a qualified investment entity for purposes of applying paragraphs (1) and (5) and section 1445 with respect to any distribution by the entity to a nonresident alien individual or a foreign corporation which is attributable directly or indirectly to a distribution to the entity from a real estate investment trust.
+                    Clause (i)(II) shall not apply after December 31, 2014. Notwithstanding the preceding sentence, an entity described in clause (i)(II) shall be treated as a qualified investment entity for purposes of applying paragraphs (1) and (5) and section 1445 with respect to any distribution by the entity to a nonresident alien individual or a foreign corporation which is attributable directly or indirectly to a distribution to the entity from a real estate investment trust.
 
             (B) __Domestically controlled__ 
 
@@ -331,9 +331,11 @@
 
             (B) the amount of gain, if any, recognized to the transferor under any other provision at the time of the transfer.
 
-(Added [Pub. L. 96–499, title XI, § 1122(a)][/us/pl/96/499/s1122/a], Dec. 5, 1980, [94 Stat. 2682][/us/stat/94/2682]; amended [Pub. L. 97–34, title VIII, § 831(a)(1)][/us/pl/97/34/s831/a/1], (b)–(d), (f), (g), Aug. 13, 1981, [95 Stat. 352–354][/us/stat/95/352-354]; [Pub. L. 97–248, title II, § 201(d)(6)][/us/pl/97/248/s201/d/6], formerly § 201(c)(6), Sept. 3, 1982, [96 Stat. 419][/us/stat/96/419], renumbered § 201(d)(6), [Pub. L. 97–448, title III, § 306(a)(1)(A)(i)][/us/pl/97/448/s306/a/1/A/i], Jan. 12, 1983, [96 Stat. 2400][/us/stat/96/2400]; [Pub. L. 99–514, title VI, § 631(e)(12)][/us/pl/99/514/s631/e/12], title VII, § 701(e)(4)(G), title XVIII, § 1810(f)(1), Oct. 22, 1986, [100 Stat. 2275][/us/stat/100/2275], 2343, 2826; [Pub. L. 100–647, title I, § 1006(e)(19)][/us/pl/100/647/s1006/e/19], Nov. 10, 1988, [102 Stat. 3403][/us/stat/102/3403]; [Pub. L. 101–508, title XI, § 11801(a)(30)][/us/pl/101/508/s11801/a/30], Nov. 5, 1990, [104 Stat. 1388–521][/us/stat/104/1388-521]; [Pub. L. 103–66, title XIII, § 13203(c)(2)][/us/pl/103/66/s13203/c/2], Aug. 10, 1993, [107 Stat. 462][/us/stat/107/462]; [Pub. L. 104–188, title I, § 1702(g)(2)][/us/pl/104/188/s1702/g/2], Aug. 20, 1996, [110 Stat. 1873][/us/stat/110/1873]; [Pub. L. 108–357, title IV][/us/pl/108/357], §§ 411(c), 418(a), Oct. 22, 2004, [118 Stat. 1504][/us/stat/118/1504], 1512; [Pub. L. 109–135, title IV, § 403(p)(1)][/us/pl/109/135/s403/p/1], Dec. 21, 2005, [119 Stat. 2626][/us/stat/119/2626]; [Pub. L. 109–222, title V][/us/pl/109/222], §§ 504(a), 505(a), 506(a), May 17, 2006, [120 Stat. 355][/us/stat/120/355], 357; [Pub. L. 110–343, div. C, title II, § 208(a)][/us/pl/110/343/s208/a], Oct. 3, 2008, [122 Stat. 3865][/us/stat/122/3865]; [Pub. L. 111–312, title VII, § 749(a)][/us/pl/111/312/s749/a], Dec. 17, 2010, [124 Stat. 3320][/us/stat/124/3320]; [Pub. L. 112–240, title III, § 321(a)][/us/pl/112/240/s321/a], Jan. 2, 2013, [126 Stat. 2332][/us/stat/126/2332].)
+(Added [Pub. L. 96–499, title XI, § 1122(a)][/us/pl/96/499/s1122/a], Dec. 5, 1980, [94 Stat. 2682][/us/stat/94/2682]; amended [Pub. L. 97–34, title VIII, § 831(a)(1)][/us/pl/97/34/s831/a/1], (b)–(d), (f), (g), Aug. 13, 1981, [95 Stat. 352–354][/us/stat/95/352-354]; [Pub. L. 97–248, title II, § 201(d)(6)][/us/pl/97/248/s201/d/6], formerly § 201(c)(6), Sept. 3, 1982, [96 Stat. 419][/us/stat/96/419], renumbered § 201(d)(6), [Pub. L. 97–448, title III, § 306(a)(1)(A)(i)][/us/pl/97/448/s306/a/1/A/i], Jan. 12, 1983, [96 Stat. 2400][/us/stat/96/2400]; [Pub. L. 99–514, title VI, § 631(e)(12)][/us/pl/99/514/s631/e/12], title VII, § 701(e)(4)(G), title XVIII, § 1810(f)(1), Oct. 22, 1986, [100 Stat. 2275][/us/stat/100/2275], 2343, 2826; [Pub. L. 100–647, title I, § 1006(e)(19)][/us/pl/100/647/s1006/e/19], Nov. 10, 1988, [102 Stat. 3403][/us/stat/102/3403]; [Pub. L. 101–508, title XI, § 11801(a)(30)][/us/pl/101/508/s11801/a/30], Nov. 5, 1990, [104 Stat. 1388–521][/us/stat/104/1388-521]; [Pub. L. 103–66, title XIII, § 13203(c)(2)][/us/pl/103/66/s13203/c/2], Aug. 10, 1993, [107 Stat. 462][/us/stat/107/462]; [Pub. L. 104–188, title I, § 1702(g)(2)][/us/pl/104/188/s1702/g/2], Aug. 20, 1996, [110 Stat. 1873][/us/stat/110/1873]; [Pub. L. 108–357, title IV][/us/pl/108/357], §§ 411(c), 418(a), Oct. 22, 2004, [118 Stat. 1504][/us/stat/118/1504], 1512; [Pub. L. 109–135, title IV, § 403(p)(1)][/us/pl/109/135/s403/p/1], Dec. 21, 2005, [119 Stat. 2626][/us/stat/119/2626]; [Pub. L. 109–222, title V][/us/pl/109/222], §§ 504(a), 505(a), 506(a), May 17, 2006, [120 Stat. 355][/us/stat/120/355], 357; [Pub. L. 110–343, div. C, title II, § 208(a)][/us/pl/110/343/s208/a], Oct. 3, 2008, [122 Stat. 3865][/us/stat/122/3865]; [Pub. L. 111–312, title VII, § 749(a)][/us/pl/111/312/s749/a], Dec. 17, 2010, [124 Stat. 3320][/us/stat/124/3320]; [Pub. L. 112–240, title III, § 321(a)][/us/pl/112/240/s321/a], Jan. 2, 2013, [126 Stat. 2332][/us/stat/126/2332]; [Pub. L. 113–295, div. A, title I, § 133(a)][/us/pl/113/295/s133/a], Dec. 19, 2014, [128 Stat. 4018][/us/stat/128/4018].)
 
  __Amendments__ 
+
+    2014—Subsec. (h)(4)(A)(ii). [Pub. L. 113–295][/us/pl/113/295] substituted “December 31, 2014” for “December 31, 2013”.
 
     2013—Subsec. (h)(4)(A)(ii). [Pub. L. 112–240][/us/pl/112/240] substituted “December 31, 2013” for “December 31, 2011”.
 
@@ -413,6 +415,24 @@
 
     Subsecs. (j) to (l). [Pub. L. 97–34, § 831(f)][/us/pl/97/34/s831/f], (g), added subsecs. (j) to (l).
 
+ __Effective Date of 2014 Amendment__ 
+
+[Pub. L. 113–295, div. A, title I, § 133(b)][/us/pl/113/295/s133/b], Dec. 19, 2014, [128 Stat. 4018][/us/stat/128/4018], provided that:
+
+>     “(1)  __In general__  __.—__ 
+
+>     The amendment made by this section \[amending this section\] shall take effect on January 1, 2014. Notwithstanding the preceding sentence, such amendment shall not apply with respect to the withholding requirement under section 1445 of the Internal Revenue Code of 1986 for any payment made before the date of the enactment of this Act \[Dec. 19, 2014\].
+
+>     “(2)  __Amounts withheld on or before date of enactment__  __.—__ 
+
+>     In the case of a regulated investment company—
+
+>         “(A) which makes a distribution after December 31, 2013, and before the date of the enactment of this Act, and
+
+>         “(B) which would (but for the second sentence of paragraph (1)) have been required to withhold with respect to such distribution under section 1445 of such Code,
+
+>         such investment company shall not be liable to any person to whom such distribution was made for any amount so withheld and paid over to the Secretary of the Treasury.”
+
  __Effective Date of 2013 Amendment__ 
 
 [Pub. L. 112–240, title III, § 321(b)][/us/pl/112/240/s321/b], Jan. 2, 2013, [126 Stat. 2332][/us/stat/126/2332], provided that:
@@ -451,9 +471,21 @@
 
  __Effective Date of 2008 Amendment__ 
 
-[Pub. L. 110–343, div. C, title II, § 208(b)][/us/pl/110/343/s208/b], Oct. 3, 2008, [122 Stat. 3865][/us/stat/122/3865], provided that: 
+[Pub. L. 110–343, div. C, title II, § 208(b)][/us/pl/110/343/s208/b], Oct. 3, 2008, [122 Stat. 3865][/us/stat/122/3865], as amended by [Pub. L. 113–295, div. A, title II, § 211(a)][/us/pl/113/295/s211/a], Dec. 19, 2014, [128 Stat. 4032][/us/stat/128/4032], provided that:
 
-> “The amendment made by subsection (a) \[amending this section\] shall take effect on January 1, 2008.”
+>     “(1)  __In general__  __.—__ 
+
+>     The amendment made by subsection (a) \[amending this section\] shall take effect on January 1, 2008. Notwithstanding the preceding sentence, such amendment shall not apply with respect to the withholding requirement under section 1445 of the Internal Revenue Code of 1986 for any payment made before October 4, 2008.
+
+>     “(2)  __Amounts withheld on or before date of enactment__  __.—__ 
+
+>     In the case of a regulated investment company—
+
+>         “(A) which makes a distribution after December 31, 2007, and before October 4, 2008, and
+
+>         “(B) which would (but for the second sentence of paragraph (1)) have been required to withhold with respect to such distribution under section 1445 of such Code,
+
+>         such investment company shall not be liable to any person to whom such distribution was made for any amount so withheld and paid over to the Secretary of the Treasury.
 
  __Effective Date of 2006 Amendment__ 
 
@@ -636,6 +668,9 @@
 [/us/stat/124/3320]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3320
 [/us/pl/112/240/s321/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F240%2Fs321%2Fa
 [/us/stat/126/2332]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F2332
+[/us/pl/113/295/s133/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs133%2Fa
+[/us/stat/128/4018]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F4018
+[/us/pl/113/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295
 [/us/pl/112/240]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F240
 [/us/pl/111/312]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F312
 [/us/pl/110/343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F343
@@ -665,12 +700,16 @@
 [/us/pl/97/34/s831/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F34%2Fs831%2Fc
 [/us/pl/97/34/s831/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F34%2Fs831%2Fd
 [/us/pl/97/34/s831/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F34%2Fs831%2Ff
+[/us/pl/113/295/s133/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs133%2Fb
+[/us/stat/128/4018]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F4018
 [/us/pl/112/240/s321/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F240%2Fs321%2Fb
 [/us/stat/126/2332]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F2332
 [/us/pl/111/312/s749/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F312%2Fs749%2Fb
 [/us/stat/124/3320]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3320
 [/us/pl/110/343/s208/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F343%2Fs208%2Fb
 [/us/stat/122/3865]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3865
+[/us/pl/113/295/s211/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs211%2Fa
+[/us/stat/128/4032]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F4032
 [/us/pl/109/222/s504/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F222%2Fs504%2Fb
 [/us/stat/120/355]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F355
 [/us/pl/108/357]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357

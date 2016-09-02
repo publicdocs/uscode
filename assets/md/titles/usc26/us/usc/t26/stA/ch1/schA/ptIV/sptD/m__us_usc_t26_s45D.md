@@ -209,7 +209,7 @@
 
             (F) $5,000,000,000 for 2009  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be followed by “, and”. </sup></sup> 
 
-            (G) $3,500,000,000 for 2010, 2011, 2012, and 2013.
+            (G) $3,500,000,000 for 2010, 2011, 2012, 2013, and 2014.
 
         (2) __Allocation of limitation__ 
 
@@ -221,7 +221,7 @@
 
         (3) __Carryover of unused limitation__ 
 
-            If the new markets tax credit limitation for any calendar year exceeds the aggregate amount allocated under paragraph (2) for such year, such limitation for the succeeding calendar year shall be increased by the amount of such excess. No amount may be carried under the preceding sentence to any calendar year after 2018.
+            If the new markets tax credit limitation for any calendar year exceeds the aggregate amount allocated under paragraph (2) for such year, such limitation for the succeeding calendar year shall be increased by the amount of such excess. No amount may be carried under the preceding sentence to any calendar year after 2019.
 
     (g) __Recapture of credit in certain cases__ 
 
@@ -279,9 +279,13 @@
 
         (6) which ensure that non-metropolitan counties receive a proportional allocation of qualified equity investments.
 
-(Added [Pub. L. 106–554, § 1(a)(7)][/us/pl/106/554/s1/a/7] \[title I, § 121(a)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–605; amended [Pub. L. 108–357, title II][/us/pl/108/357], §§ 221(a), (b), 223(a), Oct. 22, 2004, [118 Stat. 1431][/us/stat/118/1431], 1432; [Pub. L. 109–432, div. A, title I, § 102(a)][/us/pl/109/432/s102/a], (b), Dec. 20, 2006, [120 Stat. 2934][/us/stat/120/2934]; [Pub. L. 110–343, div. C, title III, § 302][/us/pl/110/343/s302], Oct. 3, 2008, [122 Stat. 3866][/us/stat/122/3866]; [Pub. L. 111–5, div. B, title I, § 1403(a)][/us/pl/111/5/s1403/a], Feb. 17, 2009, [123 Stat. 352][/us/stat/123/352]; [Pub. L. 111–312, title VII, § 733(a)][/us/pl/111/312/s733/a], (b), Dec. 17, 2010, [124 Stat. 3317][/us/stat/124/3317], 3318; [Pub. L. 112–240, title III, § 305(a)][/us/pl/112/240/s305/a], (b), Jan. 2, 2013, [126 Stat. 2329][/us/stat/126/2329].)
+(Added [Pub. L. 106–554, § 1(a)(7)][/us/pl/106/554/s1/a/7] \[title I, § 121(a)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–605; amended [Pub. L. 108–357, title II][/us/pl/108/357], §§ 221(a), (b), 223(a), Oct. 22, 2004, [118 Stat. 1431][/us/stat/118/1431], 1432; [Pub. L. 109–432, div. A, title I, § 102(a)][/us/pl/109/432/s102/a], (b), Dec. 20, 2006, [120 Stat. 2934][/us/stat/120/2934]; [Pub. L. 110–343, div. C, title III, § 302][/us/pl/110/343/s302], Oct. 3, 2008, [122 Stat. 3866][/us/stat/122/3866]; [Pub. L. 111–5, div. B, title I, § 1403(a)][/us/pl/111/5/s1403/a], Feb. 17, 2009, [123 Stat. 352][/us/stat/123/352]; [Pub. L. 111–312, title VII, § 733(a)][/us/pl/111/312/s733/a], (b), Dec. 17, 2010, [124 Stat. 3317][/us/stat/124/3317], 3318; [Pub. L. 112–240, title III, § 305(a)][/us/pl/112/240/s305/a], (b), Jan. 2, 2013, [126 Stat. 2329][/us/stat/126/2329]; [Pub. L. 113–295, div. A, title I, § 115(a)][/us/pl/113/295/s115/a], (b), Dec. 19, 2014, [128 Stat. 4014][/us/stat/128/4014].)
 
  __Amendments__ 
+
+    2014—Subsec. (f)(1)(G). [Pub. L. 113–295, § 115(a)][/us/pl/113/295/s115/a], substituted “2013, and 2014” for “and 2013”.
+
+    Subsec. (f)(3). [Pub. L. 113–295, § 115(b)][/us/pl/113/295/s115/b], substituted “2019” for “2018”.
 
     2013—Subsec. (f)(1)(G). [Pub. L. 112–240, § 305(a)][/us/pl/112/240/s305/a], substituted “2010, 2011, 2012, and 2013” for “2010 and 2011”.
 
@@ -306,6 +310,12 @@
     Subsec. (e)(4). [Pub. L. 108–357, § 221(b)][/us/pl/108/357/s221/b], added par. (4).
 
     Subsec. (e)(5). [Pub. L. 108–357, § 223(a)][/us/pl/108/357/s223/a], added par. (5).
+
+ __Effective Date of 2014 Amendment__ 
+
+[Pub. L. 113–295, div. A, title I, § 115(c)][/us/pl/113/295/s115/c], Dec. 19, 2014, [128 Stat. 4014][/us/stat/128/4014], provided that: 
+
+> “The amendments made by this section \[amending this section\] shall apply to calendar years beginning after December 31, 2013.”
 
  __Effective Date of 2013 Amendment__ 
 
@@ -400,6 +410,10 @@
 [/us/stat/124/3317]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3317
 [/us/pl/112/240/s305/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F240%2Fs305%2Fa
 [/us/stat/126/2329]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F2329
+[/us/pl/113/295/s115/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs115%2Fa
+[/us/stat/128/4014]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F4014
+[/us/pl/113/295/s115/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs115%2Fa
+[/us/pl/113/295/s115/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs115%2Fb
 [/us/pl/112/240/s305/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F240%2Fs305%2Fa
 [/us/pl/112/240/s305/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F240%2Fs305%2Fb
 [/us/pl/111/312/s733/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F312%2Fs733%2Fa
@@ -412,6 +426,8 @@
 [/us/pl/108/357/s221/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357%2Fs221%2Fa
 [/us/pl/108/357/s221/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357%2Fs221%2Fb
 [/us/pl/108/357/s223/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357%2Fs223%2Fa
+[/us/pl/113/295/s115/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs115%2Fc
+[/us/stat/128/4014]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F4014
 [/us/pl/112/240/s305/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F240%2Fs305%2Fc
 [/us/stat/126/2329]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F2329
 [/us/pl/111/312/s733/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F312%2Fs733%2Fc

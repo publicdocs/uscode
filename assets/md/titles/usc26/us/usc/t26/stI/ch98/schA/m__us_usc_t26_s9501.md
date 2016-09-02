@@ -127,7 +127,7 @@
 
  __Restructuring of Trust Fund Debt__ 
 
-[Pub. L. 110–343, div. B, title I, § 113(b)][/us/pl/110/343/s113/b], Oct. 3, 2008, [122 Stat. 3825][/us/stat/122/3825], provided that:
+[Pub. L. 110–343, div. B, title I, § 113(b)][/us/pl/110/343/s113/b], Oct. 3, 2008, [122 Stat. 3825][/us/stat/122/3825], as amended by [Pub. L. 113–295, div. A, title II, § 210(b)][/us/pl/113/295/s210/b], Dec. 19, 2014, [128 Stat. 4031][/us/stat/128/4031], provided that:
 
 >     “(1)  __Definitions__  __.—__ 
 
@@ -152,6 +152,10 @@
 >         “(E)  __Treasury 1-year rate__  __.—__ 
 
 >         The term ‘Treasury 1-year rate’ means a rate determined by the Secretary of the Treasury, taking into consideration current market yields on outstanding marketable obligations of the United States with remaining periods to maturity of approximately 1 year, to have been in effect as of the close of business 1 business day prior to the date on which the Trust Fund issues obligations to the Secretary of the Treasury under paragraph (2)(B).
+
+>         “(F)  __Trust fund__  __.—__ 
+
+>         The term ‘Trust Fund’ means the Black Lung Disability Trust Fund established under section 9501 of the Internal Revenue Code of 1986.
 
 >     “(2) __Refinancing of outstanding principal of repayable advances and unpaid interest on such advances.—__ 
 
@@ -257,6 +261,8 @@ Similar provisions were contained in the following appropriation acts:
 [/us/usc/t30/s934a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs934a
 [/us/pl/110/343/s113/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F343%2Fs113%2Fb
 [/us/stat/122/3825]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3825
+[/us/pl/113/295/s210/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs210%2Fb
+[/us/stat/128/4031]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F4031
 [/us/pl/111/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F8
 [/us/stat/123/757]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F757
 [/us/pl/113/235]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235

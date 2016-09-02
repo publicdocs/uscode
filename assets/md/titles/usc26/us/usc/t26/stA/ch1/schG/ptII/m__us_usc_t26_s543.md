@@ -27,9 +27,11 @@
 
             (B) interest on amounts set aside in a reserve fund under chapter 533 or 535 of title 46, United States Code,
 
-            (C) active business computer software royalties (within the meaning of subsection (d)), and
+            (C) dividends received by a United States shareholder (as defined in section 951(b)) from a controlled foreign corporation (as defined in section 957(a)),
 
-            (D)
+            (D) active business computer software royalties (within the meaning of subsection (d)), and
+
+            (E)
 
              interest received by a broker or dealer (within the meaning of section 3(a)(4) or (5) of the Securities and Exchange Act of 1934) in connection with—
 
@@ -317,7 +319,7 @@
 
                 For purposes of this paragraph, the term “affiliated group” has the meaning given such term by section 1504(a).
 
-([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 186][/us/stat/68A/186]; [Pub. L. 86–435, § 1(a)][/us/pl/86/435/s1/a], (b), Apr. 22, 1960, [74 Stat. 77][/us/stat/74/77]; [Pub. L. 87–403, § 3(c)][/us/pl/87/403/s3/c], Feb. 2, 1962, [76 Stat. 6][/us/stat/76/6]; [Pub. L. 88–272, title II, § 225(d)][/us/pl/88/272/s225/d], (k)(2), Feb. 26, 1964, [78 Stat. 81][/us/stat/78/81], 93; [Pub. L. 88–484, § 3(a)][/us/pl/88/484/s3/a], Aug. 22, 1964, [78 Stat. 598][/us/stat/78/598]; [Pub. L. 89–809, title I, § 104(h)(2)][/us/pl/89/809/s104/h/2], title II, § 206(a), (b), Nov. 13, 1966, [80 Stat. 1559][/us/stat/80/1559], 1578, 1579; [Pub. L. 94–455, title II, § 211(a)][/us/pl/94/455/s211/a], title XIX, §§ 1901(b)(32)(D), 1906(b)(13)(A), title XXI, § 2106(a), Oct. 4, 1976, [90 Stat. 1544][/us/stat/90/1544], 1800, 1834, 1902; [Pub. L. 94–553, § 105(d)][/us/pl/94/553/s105/d], Oct. 19, 1976, [90 Stat. 2599][/us/stat/90/2599]; [Pub. L. 97–248, title II, § 222(e)(6)][/us/pl/97/248/s222/e/6], Sept. 3, 1982, [96 Stat. 480][/us/stat/96/480]; [Pub. L. 98–369, div. A, title VII, § 712(i)(3)][/us/pl/98/369/s712/i/3], July 18, 1984, [98 Stat. 948][/us/stat/98/948]; [Pub. L. 99–514, title VI, § 645(a)(1)][/us/pl/99/514/s645/a/1], (2), (4), title XVIII, § 1899A(18), Oct. 22, 1986, [100 Stat. 2289][/us/stat/100/2289], 2291, 2959; [Pub. L. 100–647, title I, § 1010(f)(5)][/us/pl/100/647/s1010/f/5], title VI, § 6279(a), Nov. 10, 1988, [102 Stat. 3454][/us/stat/102/3454], 3754; [Pub. L. 104–188, title I, § 1704(t)(6)][/us/pl/104/188/s1704/t/6], Aug. 20, 1996, [110 Stat. 1887][/us/stat/110/1887]; [Pub. L. 105–206, title VI, § 6023(9)][/us/pl/105/206/s6023/9], July 22, 1998, [112 Stat. 825][/us/stat/112/825]; [Pub. L. 106–170, title V, § 532(c)(2)(E)][/us/pl/106/170/s532/c/2/E], Dec. 17, 1999, [113 Stat. 1930][/us/stat/113/1930]; [Pub. L. 108–357, title IV, § 413(c)(8)][/us/pl/108/357/s413/c/8], Oct. 22, 2004, [118 Stat. 1507][/us/stat/118/1507]; [Pub. L. 109–304, § 17(e)(3)][/us/pl/109/304/s17/e/3], Oct. 6, 2006, [120 Stat. 1708][/us/stat/120/1708].)
+([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 186][/us/stat/68A/186]; [Pub. L. 86–435, § 1(a)][/us/pl/86/435/s1/a], (b), Apr. 22, 1960, [74 Stat. 77][/us/stat/74/77]; [Pub. L. 87–403, § 3(c)][/us/pl/87/403/s3/c], Feb. 2, 1962, [76 Stat. 6][/us/stat/76/6]; [Pub. L. 88–272, title II, § 225(d)][/us/pl/88/272/s225/d], (k)(2), Feb. 26, 1964, [78 Stat. 81][/us/stat/78/81], 93; [Pub. L. 88–484, § 3(a)][/us/pl/88/484/s3/a], Aug. 22, 1964, [78 Stat. 598][/us/stat/78/598]; [Pub. L. 89–809, title I, § 104(h)(2)][/us/pl/89/809/s104/h/2], title II, § 206(a), (b), Nov. 13, 1966, [80 Stat. 1559][/us/stat/80/1559], 1578, 1579; [Pub. L. 94–455, title II, § 211(a)][/us/pl/94/455/s211/a], title XIX, §§ 1901(b)(32)(D), 1906(b)(13)(A), title XXI, § 2106(a), Oct. 4, 1976, [90 Stat. 1544][/us/stat/90/1544], 1800, 1834, 1902; [Pub. L. 94–553, § 105(d)][/us/pl/94/553/s105/d], Oct. 19, 1976, [90 Stat. 2599][/us/stat/90/2599]; [Pub. L. 97–248, title II, § 222(e)(6)][/us/pl/97/248/s222/e/6], Sept. 3, 1982, [96 Stat. 480][/us/stat/96/480]; [Pub. L. 98–369, div. A, title VII, § 712(i)(3)][/us/pl/98/369/s712/i/3], July 18, 1984, [98 Stat. 948][/us/stat/98/948]; [Pub. L. 99–514, title VI, § 645(a)(1)][/us/pl/99/514/s645/a/1], (2), (4), title XVIII, § 1899A(18), Oct. 22, 1986, [100 Stat. 2289][/us/stat/100/2289], 2291, 2959; [Pub. L. 100–647, title I, § 1010(f)(5)][/us/pl/100/647/s1010/f/5], title VI, § 6279(a), Nov. 10, 1988, [102 Stat. 3454][/us/stat/102/3454], 3754; [Pub. L. 104–188, title I, § 1704(t)(6)][/us/pl/104/188/s1704/t/6], Aug. 20, 1996, [110 Stat. 1887][/us/stat/110/1887]; [Pub. L. 105–206, title VI, § 6023(9)][/us/pl/105/206/s6023/9], July 22, 1998, [112 Stat. 825][/us/stat/112/825]; [Pub. L. 106–170, title V, § 532(c)(2)(E)][/us/pl/106/170/s532/c/2/E], Dec. 17, 1999, [113 Stat. 1930][/us/stat/113/1930]; [Pub. L. 108–357, title IV, § 413(c)(8)][/us/pl/108/357/s413/c/8], Oct. 22, 2004, [118 Stat. 1507][/us/stat/118/1507]; [Pub. L. 109–304, § 17(e)(3)][/us/pl/109/304/s17/e/3], Oct. 6, 2006, [120 Stat. 1708][/us/stat/120/1708]; [Pub. L. 113–295, div. B, title II, § 207(a)][/us/pl/113/295/s207/a], Dec. 19, 2014, [128 Stat. 4072][/us/stat/128/4072].)
 
  __References in Text__ 
 
@@ -326,6 +328,8 @@
     Section 563(d), referred to in subsecs. (a)(2)(B)(ii) and (d)(5)(A)(ii), was redesignated section 563(c) by [Pub. L. 108–357, title IV, § 413(c)(10)(B)][/us/pl/108/357/s413/c/10/B], Oct. 22, 2004, [118 Stat. 1507][/us/stat/118/1507].
 
  __Amendments__ 
+
+    2014—Subsec. (a)(1)(C) to (E). [Pub. L. 113–295][/us/pl/113/295] added subpar. (C) and redesignated former subpars. (C) and (D) as (D) and (E), respectively.
 
     2006—Subsec. (a)(1)(B). [Pub. L. 109–304][/us/pl/109/304] substituted “chapter 533 or 535 of title 46, United States Code” for “section 511 or 607 of the Merchant Marine Act, 1936 (46 U.S.C. App. 1161 or 1177)”.
 
@@ -390,6 +394,12 @@
     Subsec. (a)(6). [Pub. L. 86–435, § 1(b)(2)][/us/pl/86/435/s1/b/2], inserted sentence providing that copyright royalties constitute personal holding company income.
 
     Subsec. (a)(9). [Pub. L. 86–435, § 1(a)][/us/pl/86/435/s1/a], added par. (9).
+
+ __Effective Date of 2014 Amendment__ 
+
+[Pub. L. 113–295, div. B, title II, § 207(b)][/us/pl/113/295/s207/b], Dec. 19, 2014, [128 Stat. 4072][/us/stat/128/4072], provided that: 
+
+> “The amendments made by this Act \[probably means this section, [section 207 of title II of div. B of Pub. L. 113–295][/us/pl/113/295/s207], which amended this section\] shall apply to taxable years ending on or after the date of the enactment of this Act \[Dec. 19, 2014\].”
 
  __Effective Date of 2004 Amendment__ 
 
@@ -558,8 +568,11 @@
 [/us/stat/118/1507]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1507
 [/us/pl/109/304/s17/e/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304%2Fs17%2Fe%2F3
 [/us/stat/120/1708]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1708
+[/us/pl/113/295/s207/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs207%2Fa
+[/us/stat/128/4072]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F4072
 [/us/pl/108/357/s413/c/10/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357%2Fs413%2Fc%2F10%2FB
 [/us/stat/118/1507]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1507
+[/us/pl/113/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295
 [/us/pl/109/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304
 [/us/pl/108/357]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357
 [/us/pl/106/170]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F170
@@ -593,6 +606,9 @@
 [/us/pl/86/435/s1/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F435%2Fs1%2Fb%2F1
 [/us/pl/86/435/s1/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F435%2Fs1%2Fb%2F2
 [/us/pl/86/435/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F435%2Fs1%2Fa
+[/us/pl/113/295/s207/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs207%2Fb
+[/us/stat/128/4072]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F4072
+[/us/pl/113/295/s207]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs207
 [/us/pl/108/357]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357
 [/us/pl/108/357/s413/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357%2Fs413%2Fd%2F1
 [/us/usc/t26/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs1

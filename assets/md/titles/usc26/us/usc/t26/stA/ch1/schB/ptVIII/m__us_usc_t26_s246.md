@@ -19,7 +19,7 @@
 
         (1) __In general__ 
 
-            The deductions allowed by sections 243, 244, and 245 shall not apply to any dividend from a corporation which, for the taxable year of the corporation in which the distribution is made, or for the next preceding taxable year of the corporation, is a corporation exempt from tax under section 501 (relating to certain charitable, etc., organizations) or section 521 (relating to farmers’ cooperative associations).
+            The deductions allowed by sections 243 and 245 shall not apply to any dividend from a corporation which, for the taxable year of the corporation in which the distribution is made, or for the next preceding taxable year of the corporation, is a corporation exempt from tax under section 501 (relating to certain charitable, etc., organizations) or section 521 (relating to farmers’ cooperative associations).
 
         (2) __Subsection not to apply to certain dividends of Federal Home Loan Banks__ 
 
@@ -79,7 +79,7 @@
 
         (1) __General rule__ 
 
-            Except as provided in paragraph (2), the aggregate amount of the deductions allowed by sections 243(a)(1), 244(a), and subsection (a) or (b) of section 245 shall not exceed the percentage determined under paragraph (3) of the taxable income computed without regard to the deductions allowed by sections 172, 199, 243(a)(1), 244(a), subsection (a) or (b) of section 245, and 247, without regard to any adjustment under section 1059, and without regard to any capital loss carryback to the taxable year under section 1212(a)(1).
+            Except as provided in paragraph (2), the aggregate amount of the deductions allowed by section 243(a)(1) and subsection (a) or (b) of section 245 shall not exceed the percentage determined under paragraph (3) of the taxable income computed without regard to the deductions allowed by sections 172, 199, 243(a)(1), and subsection (a) or (b) of section 245, without regard to any adjustment under section 1059, and without regard to any capital loss carryback to the taxable year under section 1212(a)(1).
 
         (2) __Effect of net operating loss__ 
 
@@ -97,7 +97,7 @@
 
         (1) __In general__ 
 
-        No deduction shall be allowed under section 243, 244, or 245, in respect of any dividend on any share of stock—
+        No deduction shall be allowed under section 243 or 245, in respect of any dividend on any share of stock—
 
             (A) which is held by the taxpayer for 45 days or less during the 91-day period beginning on the date which is 45 days before the date on which such share becomes ex-dividend with respect to such dividend, or
 
@@ -139,9 +139,15 @@
 
         No deduction shall be allowed under section 243(a) with respect to a dividend received pursuant to a distribution described in section 936(h)(4).
 
-([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 74][/us/stat/68A/74]; [Pub. L. 85–866, title I][/us/pl/85/866], §§ 18(a), 57(c)(2), Sept. 2, 1958, [72 Stat. 1614][/us/stat/72/1614], 1646; [Pub. L. 88–272, title II, § 214(b)(2)][/us/pl/88/272/s214/b/2], Feb. 26, 1964, [78 Stat. 55][/us/stat/78/55]; [Pub. L. 91–172, title IV, § 434(b)(1)][/us/pl/91/172/s434/b/1], title V, § 512(f)(3), Dec. 30, 1969, [83 Stat. 625][/us/stat/83/625], 641; [Pub. L. 92–178, title V, § 502(a)][/us/pl/92/178/s502/a], Dec. 10, 1971, [85 Stat. 549][/us/stat/85/549]; [Pub. L. 94–455, title X, § 1051(f)(3)][/us/pl/94/455/s1051/f/3], title XIX, § 1906(b)(13)(A), Oct. 4, 1976, [90 Stat. 1646][/us/stat/90/1646], 1834; [Pub. L. 97–248, title II, § 213(c)][/us/pl/97/248/s213/c], Sept. 3, 1982, [96 Stat. 465][/us/stat/96/465]; [Pub. L. 98–369, div. A, title I][/us/pl/98/369], §§ 53(b), (d)(2), 177(b), title VIII, § 801(b)(2)(A), July 18, 1984, [98 Stat. 567][/us/stat/98/567], 568, 709, 995; [Pub. L. 99–514, title VI, § 611(a)(3)][/us/pl/99/514/s611/a/3], title XII, § 1275(a)(2)(B), title XVIII, §§ 1804(b)(1)(A), (B), 1812(d)(1), Oct. 22, 1986, [100 Stat. 2249][/us/stat/100/2249], 2598, 2798, 2835; [Pub. L. 100–203, title X, § 10221(c)(1)][/us/pl/100/203/s10221/c/1], Dec. 22, 1987, [101 Stat. 1330–409][/us/stat/101/1330-409]; [Pub. L. 100–647, title I, § 1018(u)(10)][/us/pl/100/647/s1018/u/10], Nov. 10, 1988, [102 Stat. 3590][/us/stat/102/3590]; [Pub. L. 104–188, title I, § 1616(b)(4)][/us/pl/104/188/s1616/b/4], Aug. 20, 1996, [110 Stat. 1856][/us/stat/110/1856]; [Pub. L. 105–34, title X, § 1015(a)][/us/pl/105/34/s1015/a], (b), Aug. 5, 1997, [111 Stat. 921][/us/stat/111/921], 922; [Pub. L. 108–311, title IV, § 406(f)][/us/pl/108/311/s406/f], Oct. 4, 2004, [118 Stat. 1190][/us/stat/118/1190]; [Pub. L. 108–357, title I, § 102(d)(4)][/us/pl/108/357/s102/d/4], title VIII, § 888(d), Oct. 22, 2004, [118 Stat. 1429][/us/stat/118/1429], 1643; [Pub. L. 109–135, title IV, § 402(a)(4)][/us/pl/109/135/s402/a/4], Dec. 21, 2005, [119 Stat. 2610][/us/stat/119/2610].)
+([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 74][/us/stat/68A/74]; [Pub. L. 85–866, title I][/us/pl/85/866], §§ 18(a), 57(c)(2), Sept. 2, 1958, [72 Stat. 1614][/us/stat/72/1614], 1646; [Pub. L. 88–272, title II, § 214(b)(2)][/us/pl/88/272/s214/b/2], Feb. 26, 1964, [78 Stat. 55][/us/stat/78/55]; [Pub. L. 91–172, title IV, § 434(b)(1)][/us/pl/91/172/s434/b/1], title V, § 512(f)(3), Dec. 30, 1969, [83 Stat. 625][/us/stat/83/625], 641; [Pub. L. 92–178, title V, § 502(a)][/us/pl/92/178/s502/a], Dec. 10, 1971, [85 Stat. 549][/us/stat/85/549]; [Pub. L. 94–455, title X, § 1051(f)(3)][/us/pl/94/455/s1051/f/3], title XIX, § 1906(b)(13)(A), Oct. 4, 1976, [90 Stat. 1646][/us/stat/90/1646], 1834; [Pub. L. 97–248, title II, § 213(c)][/us/pl/97/248/s213/c], Sept. 3, 1982, [96 Stat. 465][/us/stat/96/465]; [Pub. L. 98–369, div. A, title I][/us/pl/98/369], §§ 53(b), (d)(2), 177(b), title VIII, § 801(b)(2)(A), July 18, 1984, [98 Stat. 567][/us/stat/98/567], 568, 709, 995; [Pub. L. 99–514, title VI, § 611(a)(3)][/us/pl/99/514/s611/a/3], title XII, § 1275(a)(2)(B), title XVIII, §§ 1804(b)(1)(A), (B), 1812(d)(1), Oct. 22, 1986, [100 Stat. 2249][/us/stat/100/2249], 2598, 2798, 2835; [Pub. L. 100–203, title X, § 10221(c)(1)][/us/pl/100/203/s10221/c/1], Dec. 22, 1987, [101 Stat. 1330–409][/us/stat/101/1330-409]; [Pub. L. 100–647, title I, § 1018(u)(10)][/us/pl/100/647/s1018/u/10], Nov. 10, 1988, [102 Stat. 3590][/us/stat/102/3590]; [Pub. L. 104–188, title I, § 1616(b)(4)][/us/pl/104/188/s1616/b/4], Aug. 20, 1996, [110 Stat. 1856][/us/stat/110/1856]; [Pub. L. 105–34, title X, § 1015(a)][/us/pl/105/34/s1015/a], (b), Aug. 5, 1997, [111 Stat. 921][/us/stat/111/921], 922; [Pub. L. 108–311, title IV, § 406(f)][/us/pl/108/311/s406/f], Oct. 4, 2004, [118 Stat. 1190][/us/stat/118/1190]; [Pub. L. 108–357, title I, § 102(d)(4)][/us/pl/108/357/s102/d/4], title VIII, § 888(d), Oct. 22, 2004, [118 Stat. 1429][/us/stat/118/1429], 1643; [Pub. L. 109–135, title IV, § 402(a)(4)][/us/pl/109/135/s402/a/4], Dec. 21, 2005, [119 Stat. 2610][/us/stat/119/2610]; [Pub. L. 113–295, div. A, title II, § 221(a)(41)(E)][/us/pl/113/295/s221/a/41/E], Dec. 19, 2014, [128 Stat. 4044][/us/stat/128/4044].)
 
  __Amendments__ 
+
+    2014—Subsec. (a)(1). [Pub. L. 113–295, § 221(a)(41)(E)(i)][/us/pl/113/295/s221/a/41/E/i], struck out “, 244,” after “sections 243”.
+
+    Subsec. (b)(1). [Pub. L. 113–295, § 221(a)(41)(E)(ii)][/us/pl/113/295/s221/a/41/E/ii], substituted “section 243(a)(1)” for “sections 243(a)(1), 244(a),” and “and subsection (a) or (b) of section 245,” for “244(a), subsection (a) or (b) of section 245, and 247,”.
+
+    Subsec. (c)(1). [Pub. L. 113–295, § 221(a)(41)(E)(iii)][/us/pl/113/295/s221/a/41/E/iii], struck out “, 244,” after “section 243” in introductory provisions.
 
     2005—Subsec. (c)(3)(B). [Pub. L. 109–135][/us/pl/109/135] substituted “paragraph (3) of section 1223” for “paragraph (4) of section 1223”.
 
@@ -214,6 +220,12 @@
     1958—Subsec. (b)(1). [Pub. L. 85–866, § 57(c)(2)][/us/pl/85/866/s57/c/2], substituted “243(a)” for “243” wherever appearing.
 
     Subsec. (c). [Pub. L. 85–866, § 18(a)][/us/pl/85/866/s18/a], added subsec. (c).
+
+ __Effective Date of 2014 Amendment__ 
+
+    Except as otherwise provided in [section 221(a) of Pub. L. 113–295][/us/pl/113/295/s221/a], amendment by [Pub. L. 113–295][/us/pl/113/295] effective Dec. 19, 2014, subject to a savings provision, see [section 221(b) of Pub. L. 113–295][/us/pl/113/295/s221/b], set out as a note under [section 1 of this title][/us/usc/t26/s1].
+
+    Amendment by [Pub. L. 113–295][/us/pl/113/295] not applicable to preferred stock issued before Oct. 1, 1942 (determined in the same manner as under [section 247 of this title][/us/usc/t26/s247] as in effect before its repeal by [Pub. L. 113–295][/us/pl/113/295]), see section (a)(41)(K) of [Pub. L. 113–295][/us/pl/113/295], set out as a note under [section 172 of this title][/us/usc/t26/s172].
 
  __Effective Date of 2005 Amendment__ 
 
@@ -367,6 +379,11 @@
 [/us/stat/118/1429]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1429
 [/us/pl/109/135/s402/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F135%2Fs402%2Fa%2F4
 [/us/stat/119/2610]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F2610
+[/us/pl/113/295/s221/a/41/E]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs221%2Fa%2F41%2FE
+[/us/stat/128/4044]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F4044
+[/us/pl/113/295/s221/a/41/E/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs221%2Fa%2F41%2FE%2Fi
+[/us/pl/113/295/s221/a/41/E/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs221%2Fa%2F41%2FE%2Fii
+[/us/pl/113/295/s221/a/41/E/iii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs221%2Fa%2F41%2FE%2Fiii
 [/us/pl/109/135]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F135
 [/us/pl/108/357/s102/d/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357%2Fs102%2Fd%2F4
 [/us/pl/108/311/s406/f/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F311%2Fs406%2Ff%2F1
@@ -404,6 +421,15 @@
 [/us/pl/88/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F272
 [/us/pl/85/866/s57/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F866%2Fs57%2Fc%2F2
 [/us/pl/85/866/s18/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F866%2Fs18%2Fa
+[/us/pl/113/295/s221/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs221%2Fa
+[/us/pl/113/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295
+[/us/pl/113/295/s221/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs221%2Fb
+[/us/usc/t26/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs1
+[/us/pl/113/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295
+[/us/usc/t26/s247]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs247
+[/us/pl/113/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295
+[/us/pl/113/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295
+[/us/usc/t26/s172]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs172
 [/us/pl/109/135]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F135
 [/us/pl/109/58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58
 [/us/usc/t15/s79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs79

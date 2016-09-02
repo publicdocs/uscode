@@ -21,7 +21,7 @@
 
         (1) The term “Tax Court” means the United States Tax Court.
 
-        (2) The term “judge” means the chief judge or a judge of the Tax Court, including any individual receiving retired pay (or compensation in lieu of retired pay) under section 7447 or under section 1106 of the Internal Revenue Code of 1939 whether or not performing judicial duties pursuant to section 7447(c) or pursuant to section 1106(d) of the Internal Revenue Code of 1939.
+        (2) The term “judge” means the chief judge or a judge of the Tax Court, including any individual receiving retired pay (or compensation in lieu of retired pay) under section 7447 whether or not performing judicial duties pursuant to section 7447(c).
 
         (3) The term “chief judge” means the chief judge of the Tax Court.
 
@@ -101,7 +101,7 @@
 
     (g) __Termination__ 
 
-        If the service of any judge or special trial judge electing under subsection (b) terminates other than pursuant to the provisions of section 7447 or other than pursuant to section 1106 of the Internal Revenue Code of 1939 or if any judge or special trial judge ceases to be married after making the election under subsection (b) and revokes (in a writing filed as provided in subsection (b)) such election, the amount credited to his individual account, together with interest at 4 percent per annum to December 31, 1947, and 3 percent per annum thereafter, compounded on December 31 of each year, to the date of his relinquishment of office, shall be returned to him. For the purpose of this section, the service of any judge or special trial judge electing under subsection (b) who is not reappointed following expiration of his term but who, at the time of such expiration, is eligible for and elects to receive retired pay under section 7447 shall be deemed to have terminated pursuant to said section.
+        If the service of any judge or special trial judge electing under subsection (b) terminates other than pursuant to the provisions of section 7447 or if any judge or special trial judge ceases to be married after making the election under subsection (b) and revokes (in a writing filed as provided in subsection (b)) such election, the amount credited to his individual account, together with interest at 3 percent per annum, compounded on December 31 of each year, to the date of his relinquishment of office, shall be returned to him. For the purpose of this section, the service of any judge or special trial judge electing under subsection (b) who is not reappointed following expiration of his term but who, at the time of such expiration, is eligible for and elects to receive retired pay under section 7447 shall be deemed to have terminated pursuant to said section.
 
     (h) __Entitlement to annuity__ 
 
@@ -141,7 +141,7 @@
 
             (B) the right of all persons entitled to annuity under subsection (h) based on the service of such judge or special trial judge shall terminate before a valid claim therefor shall have been established,
 
-            the total amount credited to the individual account of such judge or special trial judge, with interest at 4 percent per annum to December 31, 1947, and 3 percent per annum thereafter, compounded on December 31 of each year, to the date of the death of such judge or special trial judge, shall be paid, upon the establishment of a valid claim therefor, to the person or persons surviving at the date title to the payment arises, in the following order of precedence, and such payment shall be a bar to recovery by any other person:
+            the total amount credited to the individual account of such judge or special trial judge, with interest at 3 percent per annum, compounded on December 31 of each year, to the date of the death of such judge or special trial judge, shall be paid, upon the establishment of a valid claim therefor, to the person or persons surviving at the date title to the payment arises, in the following order of precedence, and such payment shall be a bar to recovery by any other person:
 
             (i) to the beneficiary or beneficiaries whom the judge or special trial judge may have designated by a writing filed prior to his death with the chief judge, except that in the case of the chief judge such designation shall be by a writing filed by him, prior to his death, as prescribed by the Tax Court;
 
@@ -157,7 +157,7 @@
 
             Determination as to the surviving spouse, child, or parent of a judge or special trial judge for the purposes of this paragraph shall be made by the chief judge without regard to the definitions in paragraphs (8) and (9) of subsection (a).
 
-        (2) In any case in which the annuities of all persons entitled to annuity based upon the service of a judge or special trial judge shall terminate before the aggregate amount of annuity paid equals the total amount credited to the individual account of such judge or special trial judge, with interest at 4 percent per annum to December 31, 1947, and 3 percent per annum thereafter, compounded on December 31 of each year, to the date of the death of such judge or special trial judge, the difference shall be paid, upon establishment of a valid claim therefor, in the order of precedence prescribed in paragraph (1).
+        (2) In any case in which the annuities of all persons entitled to annuity based upon the service of a judge or special trial judge shall terminate before the aggregate amount of annuity paid equals the total amount credited to the individual account of such judge or special trial judge, with interest at 3 percent per annum, compounded on December 31 of each year, to the date of the death of such judge or special trial judge, the difference shall be paid, upon establishment of a valid claim therefor, in the order of precedence prescribed in paragraph (1).
 
         (3)
 
@@ -207,17 +207,21 @@
 
         Funds necessary to carry out the provisions of this section may be appropriated out of any money in the Treasury not otherwise appropriated.
 
-(Added [Pub. L. 87–370, § 1][/us/pl/87/370/s1], Oct. 4, 1961, [75 Stat. 796][/us/stat/75/796]; amended [Pub. L. 91–172, title IX][/us/pl/91/172], §§ 955, 960(c), (e), Dec. 30, 1969, [83 Stat. 732][/us/stat/83/732], 734; [Pub. L. 92–41, § 4(b)][/us/pl/92/41/s4/b], July 1, 1971, [85 Stat. 99][/us/stat/85/99]; [Pub. L. 94–455, title XIX, § 1906(a)(46)][/us/pl/94/455/s1906/a/46], Oct. 4, 1976, [90 Stat. 1830][/us/stat/90/1830]; [Pub. L. 97–362, title I, § 105(a)][/us/pl/97/362/s105/a], (b), Oct. 25, 1982, [96 Stat. 1729][/us/stat/96/1729]; [Pub. L. 98–216, § 3(c)(1)][/us/pl/98/216/s3/c/1], Feb. 14, 1984, [98 Stat. 6][/us/stat/98/6]; [Pub. L. 98–369, div. A, title IV, § 462(a)][/us/pl/98/369/s462/a], July 18, 1984, [98 Stat. 824][/us/stat/98/824]; [Pub. L. 99–514, title XV][/us/pl/99/514], §§ 1557(c), 1559(a)–(c), Oct. 22, 1986, [100 Stat. 2757–2760][/us/stat/100/2757-2760]; [Pub. L. 109–280, title VIII][/us/pl/109/280], §§ 851(a), 854(a)–(c)(1), (3)–(7), Aug. 17, 2006, [120 Stat. 1016–1018][/us/stat/120/1016-1018].)
+(Added [Pub. L. 87–370, § 1][/us/pl/87/370/s1], Oct. 4, 1961, [75 Stat. 796][/us/stat/75/796]; amended [Pub. L. 91–172, title IX][/us/pl/91/172], §§ 955, 960(c), (e), Dec. 30, 1969, [83 Stat. 732][/us/stat/83/732], 734; [Pub. L. 92–41, § 4(b)][/us/pl/92/41/s4/b], July 1, 1971, [85 Stat. 99][/us/stat/85/99]; [Pub. L. 94–455, title XIX, § 1906(a)(46)][/us/pl/94/455/s1906/a/46], Oct. 4, 1976, [90 Stat. 1830][/us/stat/90/1830]; [Pub. L. 97–362, title I, § 105(a)][/us/pl/97/362/s105/a], (b), Oct. 25, 1982, [96 Stat. 1729][/us/stat/96/1729]; [Pub. L. 98–216, § 3(c)(1)][/us/pl/98/216/s3/c/1], Feb. 14, 1984, [98 Stat. 6][/us/stat/98/6]; [Pub. L. 98–369, div. A, title IV, § 462(a)][/us/pl/98/369/s462/a], July 18, 1984, [98 Stat. 824][/us/stat/98/824]; [Pub. L. 99–514, title XV][/us/pl/99/514], §§ 1557(c), 1559(a)–(c), Oct. 22, 1986, [100 Stat. 2757–2760][/us/stat/100/2757-2760]; [Pub. L. 109–280, title VIII][/us/pl/109/280], §§ 851(a), 854(a)–(c)(1), (3)–(7), Aug. 17, 2006, [120 Stat. 1016–1018][/us/stat/120/1016-1018]; [Pub. L. 113–295, div. A, title II, § 221(a)(116)][/us/pl/113/295/s221/a/116], Dec. 19, 2014, [128 Stat. 4054][/us/stat/128/4054].)
 
  __References in Text__ 
-
-    Section 1106 of the Internal Revenue Code of 1939, referred to in subsecs. (a)(2) and (g), was classified to section 1106 of former Title 26, Internal Revenue Code. For table of comparisons of the 1939 Code to the 1986 Code, see Table I preceding [section 1 of this title][/us/usc/t26/s1]. See, also, [section 7851(e) of this title][/us/usc/t26/s7851/e] for provision that references in the 1986 Code to a provision of the 1939 Code, not then applicable, shall be deemed a reference to the corresponding provision of the 1986 Code, which is then applicable.
 
     Section 7443B, referred to in subsec. (a)(5), (6), was repealed by [Pub. L. 110–458, title I, § 108][/us/pl/110/458/s108](l), Dec. 23, 2008, [122 Stat. 5110][/us/stat/122/5110].
 
     The date of the enactment of this paragraph, referred to in subsec. (b)(2)(A), is the date of enactment of [Pub. L. 109–280][/us/pl/109/280], which was approved Aug. 17, 2006.
 
  __Amendments__ 
+
+    2014—Subsec. (a)(2). [Pub. L. 113–295, § 221(a)(116)(A)][/us/pl/113/295/s221/a/116/A], struck out “or under section 1106 of the Internal Revenue Code of 1939” after “under section 7447” and “or pursuant to section 1106(d) of the Internal Revenue Code of 1939” after “pursuant to section 7447(c)”.
+
+    Subsec. (g). [Pub. L. 113–295, § 221(a)(116)(B)][/us/pl/113/295/s221/a/116/B], (C), struck out “or other than pursuant to section 1106 of the Internal Revenue Code of 1939” after “other than pursuant to the provisions of section 7447” and substituted “at 3 percent per annum” for “at 4 percent per annum to December 31, 1947, and 3 percent per annum thereafter”.
+
+    Subsec. (j)(1), (2). [Pub. L. 113–295, § 221(a)(116)(C)][/us/pl/113/295/s221/a/116/C], substituted “at 3 percent per annum” for “at 4 percent per annum to December 31, 1947, and 3 percent per annum thereafter”.
 
     2006—[Pub. L. 109–280, § 854(c)(3)][/us/pl/109/280/s854/c/3], which directed amendment of subsec. (u) of this section by inserting “or special trial judge” after “judge” and “or special trial judge’s” after “judge’s” wherever appearing, could not be executed because no subsec. (u) has been enacted.
 
@@ -318,6 +322,10 @@
     Subsec. (n). [Pub. L. 91–172][/us/pl/91/172], §§ 955(b)(2), 960(e), substituted “[section 8332 of title 5][/us/usc/t5/s8332] of the United States Code” for “section 3 of the Civil Service Retirement Act ([5 U.S.C. 2253][/us/usc/t5/s2253])” and inserted reference to service as a judge of the Tax Court of the United States.
 
     Subsec. (r). [Pub. L. 91–172, § 955(b)(1)][/us/pl/91/172/s955/b/1], (4), substituted “civil service retirement laws” for “Civil Service Retirement Act” and substituted “an election filed under section 7447(e)” for “a waiver filed under section 7447(g)(3)”.
+
+ __Effective Date of 2014 Amendment__ 
+
+    Amendment by [Pub. L. 113–295][/us/pl/113/295] effective Dec. 19, 2014, subject to a savings provision, see [section 221(b) of Pub. L. 113–295][/us/pl/113/295/s221/b], set out as a note under [section 1 of this title][/us/usc/t26/s1].
 
  __Effective Date of 2006 Amendment__ 
 
@@ -441,11 +449,14 @@
 [/us/stat/100/2757-2760]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2757-2760
 [/us/pl/109/280]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280
 [/us/stat/120/1016-1018]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1016-1018
-[/us/usc/t26/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs1
-[/us/usc/t26/s7851/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs7851%2Fe
+[/us/pl/113/295/s221/a/116]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs221%2Fa%2F116
+[/us/stat/128/4054]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F4054
 [/us/pl/110/458/s108]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F458%2Fs108
 [/us/stat/122/5110]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F5110
 [/us/pl/109/280]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280
+[/us/pl/113/295/s221/a/116/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs221%2Fa%2F116%2FA
+[/us/pl/113/295/s221/a/116/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs221%2Fa%2F116%2FB
+[/us/pl/113/295/s221/a/116/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs221%2Fa%2F116%2FC
 [/us/pl/109/280/s854/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280%2Fs854%2Fc%2F3
 [/us/pl/109/280/s854/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280%2Fs854%2Fc%2F1
 [/us/pl/109/280/s854/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280%2Fs854%2Fa
@@ -499,6 +510,9 @@
 [/us/usc/t5/s8332]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs8332
 [/us/usc/t5/s2253]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs2253
 [/us/pl/91/172/s955/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F172%2Fs955%2Fb%2F1
+[/us/pl/113/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295
+[/us/pl/113/295/s221/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs221%2Fb
+[/us/usc/t26/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs1
 [/us/pl/109/280/s851/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280%2Fs851%2Fb
 [/us/stat/120/1016]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1016
 [/us/usc/t5/s8340/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs8340%2Fb

@@ -471,13 +471,7 @@
 
         (7) __Special rule for certain brackets__ 
 
-            (A) __Calendar year 1994__ 
-
-                In prescribing the tables under paragraph (1) which apply with respect to taxable years beginning in calendar year 1994, the Secretary shall make no adjustment to the dollar amounts at which the 36 percent rate bracket begins or at which the 39.6 percent rate begins under any table contained in subsection (a), (b), (c), (d), or (e).
-
-            (B) __Later calendar years__ 
-
-                In prescribing tables under paragraph (1) which apply with respect to taxable years beginning in a calendar year after 1994, the cost-of-living adjustment used in making adjustments to the dollar amounts referred to in subparagraph (A) shall be determined under paragraph (3) by substituting “1993” for “1992”.
+            In prescribing tables under paragraph (1) which apply to taxable years beginning in a calendar year after 1994, the cost-of-living adjustment used in making adjustments to the dollar amounts at which the 36 percent rate bracket begins or at which the 39.6 percent rate bracket begins shall be determined under paragraph (3) by substituting “1993” for “1992”.
 
         (8) __Elimination of marriage penalty in 15-percent bracket__ 
 
@@ -937,13 +931,19 @@
 
             The Secretary shall adjust the tables prescribed under subsection (f) to carry out this subsection.
 
-([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 5][/us/stat/68A/5]; [Pub. L. 88–272, title I, § 111][/us/pl/88/272/s111], Feb. 26, 1964, [78 Stat. 19][/us/stat/78/19]; [Pub. L. 89–809, title I, § 103(a)(2)][/us/pl/89/809/s103/a/2], Nov. 13, 1966, [80 Stat. 1550][/us/stat/80/1550]; [Pub. L. 91–172, title VIII, § 803(a)][/us/pl/91/172/s803/a], Dec. 30, 1969, [83 Stat. 678][/us/stat/83/678]; [Pub. L. 95–30, title I, § 101(a)][/us/pl/95/30/s101/a], May 23, 1977, [91 Stat. 127][/us/stat/91/127]; [Pub. L. 95–600, title I, § 101(a)][/us/pl/95/600/s101/a], Nov. 6, 1978, [92 Stat. 2767][/us/stat/92/2767]; [Pub. L. 97–34, title I][/us/pl/97/34], §§ 101(a), 104(a), Aug. 13, 1981, [95 Stat. 176][/us/stat/95/176], 188; [Pub. L. 97–448, title I, § 101(a)(3)][/us/pl/97/448/s101/a/3], Jan. 12, 1983, [96 Stat. 2366][/us/stat/96/2366]; [Pub. L. 99–514, title I, § 101(a)][/us/pl/99/514/s101/a], title III, § 302(a), title XIV, § 1411(a), Oct. 22, 1986, [100 Stat. 2096][/us/stat/100/2096], 2218, 2714; [Pub. L. 100–647, title I][/us/pl/100/647], §§ 1001(a)(3), 1014(e)(1)–(3), (6), (7), title VI, § 6006(a), Nov. 10, 1988, [102 Stat. 3349][/us/stat/102/3349], 3561, 3562, 3686; [Pub. L. 101–239, title VII][/us/pl/101/239], §§ 7811(j)(1), 7816(b), 7831(a), Dec. 19, 1989, [103 Stat. 2411][/us/stat/103/2411], 2420, 2425; [Pub. L. 101–508, title XI][/us/pl/101/508], §§ 11101(a)–(c), (d)(1)(A), (2), 11103(c), 11104(b), Nov. 5, 1990, [104 Stat. 1388–403][/us/stat/104/1388-403] to 1388–406, 1388–408; [Pub. L. 103–66, title XIII][/us/pl/103/66], §§ 13201(a), (b)(3)(A), (B), 13202(a), 13206(d)(2), Aug. 10, 1993, [107 Stat. 457][/us/stat/107/457], 459, 461, 467; [Pub. L. 104–188, title I, § 1704(m)(1)][/us/pl/104/188/s1704/m/1], (2), Aug. 20, 1996, [110 Stat. 1882][/us/stat/110/1882], 1883; [Pub. L. 105–34, title III, § 311(a)][/us/pl/105/34/s311/a], Aug. 5, 1997, [111 Stat. 831][/us/stat/111/831]; [Pub. L. 105–206, title V, § 5001(a)(1)][/us/pl/105/206/s5001/a/1]–(4), title VI, §§ 6005(d)(1), 6007(f)(1), July 22, 1998, [112 Stat. 787][/us/stat/112/787], 788, 800, 810; [Pub. L. 105–277, div. J, title IV, § 4002(i)(1)][/us/pl/105/277/s4002/i/1], (3), Oct. 21, 1998, [112 Stat. 2681–907][/us/stat/112/2681-907], 2681–908; [Pub. L. 106–554, § 1(a)(7)][/us/pl/106/554/s1/a/7] \[title I, § 117(b)(1)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–604; [Pub. L. 107–16, title I, § 101(a)][/us/pl/107/16/s101/a], (c)(1), (2), title III, §§ 301(c)(1), 302(a), (b), June 7, 2001, [115 Stat. 41][/us/stat/115/41], 43, 54; [Pub. L. 108–27, title I][/us/pl/108/27], §§ 102(a), (b)(1), 104(a), (b), 105(a), title III, §§ 301(a)(1), (2)(A), (b)(1), 302(a), (e)(1), May 28, 2003, [117 Stat. 754][/us/stat/117/754], 755, 758, 760, 763; [Pub. L. 108–311, title I, § 101(c)][/us/pl/108/311/s101/c], (d), title IV, §§ 402(a)(1)–(3), 408(a)(1), (2), Oct. 4, 2004, [118 Stat. 1167][/us/stat/118/1167], 1168, 1184, 1190; [Pub. L. 108–357, title IV, § 413(c)(1)][/us/pl/108/357/s413/c/1], Oct. 22, 2004, [118 Stat. 1506][/us/stat/118/1506]; [Pub. L. 109–222, title V, § 510(a)][/us/pl/109/222/s510/a]—(c), May 17, 2006, [120 Stat. 364][/us/stat/120/364]; [Pub. L. 110–28, title VIII, § 8241(a)][/us/pl/110/28/s8241/a], (b), May 25, 2007, [121 Stat. 199][/us/stat/121/199]; [Pub. L. 110–185, title I, § 101(f)(2)][/us/pl/110/185/s101/f/2], Feb. 13, 2008, [122 Stat. 617][/us/stat/122/617]; [Pub. L. 112–240, title I][/us/pl/112/240], §§ 101(b)(1), 102(b)(1), (c)(2), Jan. 2, 2013, [126 Stat. 2316][/us/stat/126/2316], 2318, 2319.)
+([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 5][/us/stat/68A/5]; [Pub. L. 88–272, title I, § 111][/us/pl/88/272/s111], Feb. 26, 1964, [78 Stat. 19][/us/stat/78/19]; [Pub. L. 89–809, title I, § 103(a)(2)][/us/pl/89/809/s103/a/2], Nov. 13, 1966, [80 Stat. 1550][/us/stat/80/1550]; [Pub. L. 91–172, title VIII, § 803(a)][/us/pl/91/172/s803/a], Dec. 30, 1969, [83 Stat. 678][/us/stat/83/678]; [Pub. L. 95–30, title I, § 101(a)][/us/pl/95/30/s101/a], May 23, 1977, [91 Stat. 127][/us/stat/91/127]; [Pub. L. 95–600, title I, § 101(a)][/us/pl/95/600/s101/a], Nov. 6, 1978, [92 Stat. 2767][/us/stat/92/2767]; [Pub. L. 97–34, title I][/us/pl/97/34], §§ 101(a), 104(a), Aug. 13, 1981, [95 Stat. 176][/us/stat/95/176], 188; [Pub. L. 97–448, title I, § 101(a)(3)][/us/pl/97/448/s101/a/3], Jan. 12, 1983, [96 Stat. 2366][/us/stat/96/2366]; [Pub. L. 99–514, title I, § 101(a)][/us/pl/99/514/s101/a], title III, § 302(a), title XIV, § 1411(a), Oct. 22, 1986, [100 Stat. 2096][/us/stat/100/2096], 2218, 2714; [Pub. L. 100–647, title I][/us/pl/100/647], §§ 1001(a)(3), 1014(e)(1)–(3), (6), (7), title VI, § 6006(a), Nov. 10, 1988, [102 Stat. 3349][/us/stat/102/3349], 3561, 3562, 3686; [Pub. L. 101–239, title VII][/us/pl/101/239], §§ 7811(j)(1), 7816(b), 7831(a), Dec. 19, 1989, [103 Stat. 2411][/us/stat/103/2411], 2420, 2425; [Pub. L. 101–508, title XI][/us/pl/101/508], §§ 11101(a)–(c), (d)(1)(A), (2), 11103(c), 11104(b), Nov. 5, 1990, [104 Stat. 1388–403][/us/stat/104/1388-403] to 1388–406, 1388–408; [Pub. L. 103–66, title XIII][/us/pl/103/66], §§ 13201(a), (b)(3)(A), (B), 13202(a), 13206(d)(2), Aug. 10, 1993, [107 Stat. 457][/us/stat/107/457], 459, 461, 467; [Pub. L. 104–188, title I, § 1704(m)(1)][/us/pl/104/188/s1704/m/1], (2), Aug. 20, 1996, [110 Stat. 1882][/us/stat/110/1882], 1883; [Pub. L. 105–34, title III, § 311(a)][/us/pl/105/34/s311/a], Aug. 5, 1997, [111 Stat. 831][/us/stat/111/831]; [Pub. L. 105–206, title V, § 5001(a)(1)][/us/pl/105/206/s5001/a/1]–(4), title VI, §§ 6005(d)(1), 6007(f)(1), July 22, 1998, [112 Stat. 787][/us/stat/112/787], 788, 800, 810; [Pub. L. 105–277, div. J, title IV, § 4002(i)(1)][/us/pl/105/277/s4002/i/1], (3), Oct. 21, 1998, [112 Stat. 2681–907][/us/stat/112/2681-907], 2681–908; [Pub. L. 106–554, § 1(a)(7)][/us/pl/106/554/s1/a/7] \[title I, § 117(b)(1)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–604; [Pub. L. 107–16, title I, § 101(a)][/us/pl/107/16/s101/a], (c)(1), (2), title III, §§ 301(c)(1), 302(a), (b), June 7, 2001, [115 Stat. 41][/us/stat/115/41], 43, 54; [Pub. L. 108–27, title I][/us/pl/108/27], §§ 102(a), (b)(1), 104(a), (b), 105(a), title III, §§ 301(a)(1), (2)(A), (b)(1), 302(a), (e)(1), May 28, 2003, [117 Stat. 754][/us/stat/117/754], 755, 758, 760, 763; [Pub. L. 108–311, title I, § 101(c)][/us/pl/108/311/s101/c], (d), title IV, §§ 402(a)(1)–(3), 408(a)(1), (2), Oct. 4, 2004, [118 Stat. 1167][/us/stat/118/1167], 1168, 1184, 1190; [Pub. L. 108–357, title IV, § 413(c)(1)][/us/pl/108/357/s413/c/1], Oct. 22, 2004, [118 Stat. 1506][/us/stat/118/1506]; [Pub. L. 109–222, title V, § 510(a)][/us/pl/109/222/s510/a]—(c), May 17, 2006, [120 Stat. 364][/us/stat/120/364]; [Pub. L. 110–28, title VIII, § 8241(a)][/us/pl/110/28/s8241/a], (b), May 25, 2007, [121 Stat. 199][/us/stat/121/199]; [Pub. L. 110–185, title I, § 101(f)(2)][/us/pl/110/185/s101/f/2], Feb. 13, 2008, [122 Stat. 617][/us/stat/122/617]; [Pub. L. 112–240, title I][/us/pl/112/240], §§ 101(b)(1), 102(b)(1), (c)(2), Jan. 2, 2013, [126 Stat. 2316][/us/stat/126/2316], 2318, 2319; [Pub. L. 113–295, div. A, title II, § 221(a)(1)][/us/pl/113/295/s221/a/1], Dec. 19, 2014, [128 Stat. 4037][/us/stat/128/4037].)
 
  __Inflation Adjusted Items for Certain Years__ 
 
     For inflation adjustment of certain items in this section, see Revenue Procedures listed in a table below.
 
  __Amendments__ 
+
+    2014—Subsec. (f)(7). [Pub. L. 113–295][/us/pl/113/295] amended par. (7) generally. Prior to amendment, text read as follows:
+
+    “(A) Calendar year 1994.—In prescribing the tables under paragraph (1) which apply with respect to taxable years beginning in calendar year 1994, the Secretary shall make no adjustment to the dollar amounts at which the 36 percent rate bracket begins or at which the 39.6 percent rate begins under any table contained in subsection (a), (b), (c), (d), or (e).
+
+    “(B) Later calendar years.—In prescribing tables under paragraph (1) which apply with respect to taxable years beginning in a calendar year after 1994, the cost-of-living adjustment used in making adjustments to the dollar amounts referred to in subparagraph (A) shall be determined under paragraph (3) by substituting ‘1993’ for ‘1992’.”
 
     2013—Subsec. (h)(1)(B). [Pub. L. 112–240, § 102(c)(2)][/us/pl/112/240/s102/c/2], substituted “0 percent” for “5 percent (0 percent in the case of taxable years beginning after 2007)” in introductory provisions.
 
@@ -1455,6 +1455,30 @@ The corresponding percentages shall be substituted for
 
     1964—[Pub. L. 88–272][/us/pl/88/272] amended section generally by splitting the former first bracket which started at $2,000 into four new brackets, the 14 percent bracket representing a 30 percent reduction, the 15 percent bracket a 25 percent cut, and the 16 percent bracket a 20 percent cut, and reducing all other brackets by cuts averaging about 20 percent and effectuated these cuts in two steps, one in 1964, and one in 1965.
 
+ __Effective Date of 2014 Amendment__ 
+
+[Pub. L. 113–295, div. A, title II, § 221(b)][/us/pl/113/295/s221/b], Dec. 19, 2014, [128 Stat. 4055][/us/stat/128/4055], provided that:
+
+>     “(1)  __General rule__  __.—__ 
+
+>     Except as otherwise provided in subsection (a) \[see Tables for classification\] or paragraph (2) of this subsection, the amendments made by this section \[see Tables for classification\] shall take effect on the date of enactment of this Act \[Dec. 19, 2014\].
+
+>     “(2)  __Savings provision__  __.—__ 
+
+>     If—
+
+>         “(A)
+
+>          any provision amended or repealed by the amendments made by this section applied to—
+
+>             “(i) any transaction occurring before the date of the enactment of this Act,
+
+>             “(ii) any property acquired before such date of enactment, or
+
+>             “(iii) any item of income, loss, deduction, or credit taken into account before such date of enactment, and
+
+>         “(B) the treatment of such transaction, property, or item under such provision would (without regard to the amendments or repeals made by this section) affect the liability for tax for periods ending after \[such\] date of enactment, nothing in the amendments or repeals made by this section shall be construed to affect the treatment of such transaction, property, or item for purposes of determining liability for tax for periods ending after such date of enactment.”
+
  __Effective Date of 2013 Amendment__ 
 
 [Pub. L. 112–240, title I, § 101(b)(3)][/us/pl/112/240/s101/b/3], Jan. 2, 2013, [126 Stat. 2317][/us/stat/126/2317], provided that: 
@@ -1790,6 +1814,18 @@ The corresponding percentages shall be substituted for
 > “Except for purposes of section 21 of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] (relating to effect of changes in rates during a taxable year), the amendments made by parts I and II of this title \[amending this section and sections 2, 11, 37, 141, 144, 242, 821, 871, 963, 6016, 6074, 6154, 6212, 6504, and 6655 of this title\] shall apply with respect to taxable years beginning after December 31, 1963.”
 
  __Short Title of 2014 Amendment__ 
+
+[Pub. L. 113–295, div. A, § 1(a)][/us/pl/113/295/s1/a], Dec. 19, 2014, [128 Stat. 4010][/us/stat/128/4010], provided that: 
+
+> “This division \[see Tables for classification\] may be cited as the ‘Tax Increase Prevention Act of 2014’.”
+
+[Pub. L. 113–295, div. A, title II, § 201][/us/pl/113/295/s201], Dec. 19, 2014, [128 Stat. 4024][/us/stat/128/4024], provided that: 
+
+> “This title \[see Tables for classification\] may be cited as the ‘Tax Technical Corrections Act of 2014’.”
+
+[Pub. L. 113–295, div. B, § 1(a)][/us/pl/113/295/s1/a], Dec. 19, 2014, [128 Stat. 4056][/us/stat/128/4056], provided that: 
+
+> “This division \[see Tables for classification\] may be cited as the ‘Stephen Beck, Jr., Achieving a Better Life Experience Act of 2014’ or the ‘Stephen Beck, Jr., ABLE Act of 2014’.”
 
 [Pub. L. 113–168, § 1][/us/pl/113/168/s1], Sept. 26, 2014, [128 Stat. 1883][/us/stat/128/1883], provided that: 
 
@@ -3148,6 +3184,9 @@ The corresponding percentages shall be substituted for
 [/us/stat/122/617]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F617
 [/us/pl/112/240]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F240
 [/us/stat/126/2316]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F2316
+[/us/pl/113/295/s221/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs221%2Fa%2F1
+[/us/stat/128/4037]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F4037
+[/us/pl/113/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295
 [/us/pl/112/240/s102/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F240%2Fs102%2Fc%2F2
 [/us/pl/112/240/s102/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F240%2Fs102%2Fb%2F1
 [/us/pl/112/240/s101/b/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F240%2Fs101%2Fb%2F1%2FA
@@ -3264,6 +3303,8 @@ The corresponding percentages shall be substituted for
 [/us/usc/t26/s2/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs2%2Fe
 [/us/pl/89/809]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F809
 [/us/pl/88/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F272
+[/us/pl/113/295/s221/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs221%2Fb
+[/us/stat/128/4055]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F4055
 [/us/pl/112/240/s101/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F240%2Fs101%2Fb%2F3
 [/us/stat/126/2317]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F2317
 [/us/pl/112/240/s102/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F240%2Fs102%2Fd
@@ -3475,6 +3516,12 @@ The corresponding percentages shall be substituted for
 [/us/stat/78/30]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F30
 [/us/pl/99/514/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs2
 [/us/stat/100/2095]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2095
+[/us/pl/113/295/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs1%2Fa
+[/us/stat/128/4010]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F4010
+[/us/pl/113/295/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs201
+[/us/stat/128/4024]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F4024
+[/us/pl/113/295/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs1%2Fa
+[/us/stat/128/4056]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F4056
 [/us/pl/113/168/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F168%2Fs1
 [/us/stat/128/1883]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1883
 [/us/usc/t26/s139E]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs139E

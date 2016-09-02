@@ -31,93 +31,13 @@
 
             (A) the applicable percentage of the value of land subject to a qualified conservation easement, reduced by the amount of any deduction under section 2055(f) with respect to such land, or
 
-            (B) the exclusion limitation.
+            (II)  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be “(B)”. </sup></sup>  $500,000.
 
         (2) __Applicable percentage__ 
 
-            For purposes of paragraph (1), the term “applicable percentage” means 40 percent reduced (but not below zero) by 2 percentage points for each percentage point (or fraction thereof) by which the value of the qualified conservation easement is less than 30 percent of the value of the land  <sup>\[1\]</sup>  <sup><sup> 1 So in original. No closing parenthesis was enacted. </sup></sup>  (determined without regard to the value of such easement and reduced by the value of any retained development right (as defined in paragraph (5)). The values taken into account under the preceding sentence shall be such values as of the date of the contribution referred to in paragraph (8)(B).
+            For purposes of paragraph (1), the term “applicable percentage” means 40 percent reduced (but not below zero) by 2 percentage points for each percentage point (or fraction thereof) by which the value of the qualified conservation easement is less than 30 percent of the value of the land  <sup>\[2\]</sup>  <sup><sup> 2 So in original. No closing parenthesis was enacted. </sup></sup>  (determined without regard to the value of such easement and reduced by the value of any retained development right (as defined in paragraph (5)). The values taken into account under the preceding sentence shall be such values as of the date of the contribution referred to in paragraph (8)(B).
 
-        (3) __Exclusion limitation__ 
-
-            For purposes of paragraph (1), the exclusion limitation is the limitation determined in accordance with the following table:
-
-<table>
-
-              <tr>
-
-                <td> 
-
-            In the case of estates of decedents
-
-             dying during:  </td>
-
-                <td> 
-
-            The exclusion limitation is:  </td>
-
-  </tr>
-
-              <tr>
-
-                <td> 
-
-            1998  </td>
-
-                <td> 
-
-            $100,000    </td>
-
-  </tr>
-
-              <tr>
-
-                <td> 
-
-            1999  </td>
-
-                <td> 
-
-            $200,000    </td>
-
-  </tr>
-
-              <tr>
-
-                <td> 
-
-            2000  </td>
-
-                <td> 
-
-            $300,000    </td>
-
-  </tr>
-
-              <tr>
-
-                <td> 
-
-            2001  </td>
-
-                <td> 
-
-            $400,000    </td>
-
-  </tr>
-
-              <tr>
-
-                <td> 
-
-            2002 or thereafter  </td>
-
-                <td> 
-
-            $500,000.  </td>
-
-  </tr>
-
-            </table>
+        \[(3) __Repealed.__  __[__  __Pub. L. 113–295, div. A, title II, § 221(a)(96)__  __][/us/pl/113/295/s221/a/96]__  __,__  __Dec. 19, 2014__  __,__  __[__  __128 Stat. 4051__  __][/us/stat/128/4051]__  __\]__ 
 
         (4) __Treatment of certain indebtedness__ 
 
@@ -217,15 +137,25 @@
 
         (10) __Application of this section to interests in partnerships, corporations, and trusts__ 
 
-            This section shall apply to an interest in a partnership, corporation, or trust if at least 30 percent of the entity is owned (directly or indirectly) by the decedent, as determined under the rules described in section 2057(e)(3).
+            This section shall apply to an interest in a partnership, corporation, or trust if at least 30 percent of the entity is owned (directly or indirectly) by the decedent, as determined under the rules described in section 2057(e)(3) (as in effect before its repeal).
 
     (d) __Cross reference__ 
 
         For executor’s right to be furnished on request a statement regarding any valuation made by the Secretary within the gross estate, see section 7517.
 
-([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 380][/us/stat/68A/380]; [Pub. L. 87–834, § 18(a)(1)][/us/pl/87/834/s18/a/1], Oct. 16, 1962, [76 Stat. 1052][/us/stat/76/1052]; [Pub. L. 94–455, title XX, § 2008(a)(2)(A)][/us/pl/94/455/s2008/a/2/A], Oct. 4, 1976, [90 Stat. 1891][/us/stat/90/1891]; [Pub. L. 105–34, title V, § 508(a)][/us/pl/105/34/s508/a], Aug. 5, 1997, [111 Stat. 857][/us/stat/111/857]; [Pub. L. 105–206, title VI, § 6007(g)][/us/pl/105/206/s6007/g], July 22, 1998, [112 Stat. 810][/us/stat/112/810]; [Pub. L. 105–277, div. J, title IV, § 4006(c)(3)][/us/pl/105/277/s4006/c/3], Oct. 21, 1998, [112 Stat. 2681–913][/us/stat/112/2681-913]; [Pub. L. 107–16, title V, § 551(a)][/us/pl/107/16/s551/a], (b), June 7, 2001, [115 Stat. 86][/us/stat/115/86].)
+([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 380][/us/stat/68A/380]; [Pub. L. 87–834, § 18(a)(1)][/us/pl/87/834/s18/a/1], Oct. 16, 1962, [76 Stat. 1052][/us/stat/76/1052]; [Pub. L. 94–455, title XX, § 2008(a)(2)(A)][/us/pl/94/455/s2008/a/2/A], Oct. 4, 1976, [90 Stat. 1891][/us/stat/90/1891]; [Pub. L. 105–34, title V, § 508(a)][/us/pl/105/34/s508/a], Aug. 5, 1997, [111 Stat. 857][/us/stat/111/857]; [Pub. L. 105–206, title VI, § 6007(g)][/us/pl/105/206/s6007/g], July 22, 1998, [112 Stat. 810][/us/stat/112/810]; [Pub. L. 105–277, div. J, title IV, § 4006(c)(3)][/us/pl/105/277/s4006/c/3], Oct. 21, 1998, [112 Stat. 2681–913][/us/stat/112/2681-913]; [Pub. L. 107–16, title V, § 551(a)][/us/pl/107/16/s551/a], (b), June 7, 2001, [115 Stat. 86][/us/stat/115/86]; [Pub. L. 113–295, div. A, title II, § 221(a)(96)][/us/pl/113/295/s221/a/96], (97)(B), Dec. 19, 2014, [128 Stat. 4051][/us/stat/128/4051].)
+
+ __References in Text__ 
+
+     Section 2057, referred to in subsec. (c)(10), was repealed by [Pub. L. 113–295, div. A, title II, § 221(a)(97)(A)][/us/pl/113/295/s221/a/97/A], Dec. 19, 2014, [128 Stat. 4051][/us/stat/128/4051], effective Dec. 19, 2014.
 
  __Amendments__ 
+
+    2014—Subsec. (c)(1). [Pub. L. 113–295, § 221(a)(96)][/us/pl/113/295/s221/a/96], substituted “(II) $500,000.” for “(B) the exclusion limitation.”
+
+    Subsec. (c)(3). [Pub. L. 113–295, § 221(a)(96)][/us/pl/113/295/s221/a/96], struck out par. (3), which set out table of exclusion limitations.
+
+    Subsec. (c)(10). [Pub. L. 113–295, § 221(a)(97)(B)][/us/pl/113/295/s221/a/97/B], inserted “(as in effect before its repeal)” before period at end.
 
     2001—Subsec. (c)(2). [Pub. L. 107–16, § 551(b)][/us/pl/107/16/s551/b], inserted at end “The values taken into account under the preceding sentence shall be such values as of the date of the contribution referred to in paragraph (8)(B).”
 
@@ -250,6 +180,10 @@
     1976—Subsec. (c). [Pub. L. 94–455][/us/pl/94/455] added subsec. (c).
 
     1962—Subsec. (a). [Pub. L. 87–834][/us/pl/87/834] struck out provisions which excepted real property situated outside the United States.
+
+ __Effective Date of 2014 Amendment__ 
+
+    Amendment by [Pub. L. 113–295][/us/pl/113/295] effective Dec. 19, 2014, subject to a savings provision, see [section 221(b) of Pub. L. 113–295][/us/pl/113/295/s221/b], set out as a note under [section 1 of this title][/us/usc/t26/s1].
 
  __Effective Date of 2001 Amendment__ 
 
@@ -290,6 +224,8 @@
 ----------
 ----------
 
+[/us/pl/113/295/s221/a/96]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs221%2Fa%2F96
+[/us/stat/128/4051]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F4051
 [/us/act/1954-08-16/ch736]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-16%2Fch736
 [/us/stat/68A/380]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68A%2F380
 [/us/pl/87/834/s18/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F834%2Fs18%2Fa%2F1
@@ -304,6 +240,13 @@
 [/us/stat/112/2681-913]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681-913
 [/us/pl/107/16/s551/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F16%2Fs551%2Fa
 [/us/stat/115/86]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F86
+[/us/pl/113/295/s221/a/96]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs221%2Fa%2F96
+[/us/stat/128/4051]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F4051
+[/us/pl/113/295/s221/a/97/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs221%2Fa%2F97%2FA
+[/us/stat/128/4051]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F4051
+[/us/pl/113/295/s221/a/96]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs221%2Fa%2F96
+[/us/pl/113/295/s221/a/96]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs221%2Fa%2F96
+[/us/pl/113/295/s221/a/97/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs221%2Fa%2F97%2FB
 [/us/pl/107/16/s551/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F16%2Fs551%2Fb
 [/us/pl/107/16/s551/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F16%2Fs551%2Fa
 [/us/pl/105/206/s6007/g/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206%2Fs6007%2Fg%2F2
@@ -313,6 +256,9 @@
 [/us/pl/105/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34
 [/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455
 [/us/pl/87/834]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F834
+[/us/pl/113/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295
+[/us/pl/113/295/s221/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs221%2Fb
+[/us/usc/t26/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs1
 [/us/pl/107/16/s551/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F16%2Fs551%2Fc
 [/us/stat/115/86]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F86
 [/us/pl/105/206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206

@@ -109,17 +109,19 @@
 
         (2) which allow a taxpayer to appeal any rejection of such offer or agreement to the Internal Revenue Service Office of Appeals.
 
-    (f)  __ <sup>\[__  __1__  __\]</sup> __  __ <sup><sup> __  __1__  __ So in original. Two subsecs. (f) have been enacted.__  __ </sup></sup> __  __Deemed acceptance of offer not rejected within certain period__ 
+    (f) __Deemed acceptance of offer not rejected within certain period__ 
 
         Any offer-in-compromise submitted under this section shall be deemed to be accepted by the Secretary if such offer is not rejected by the Secretary before the date which is 24 months after the date of the submission of such offer. For purposes of the preceding sentence, any period during which any tax liability which is the subject of such offer-in-compromise is in dispute in any judicial proceeding shall not be taken into account in determining the expiration of the 24-month period.
 
-    (f)  __1__  __Frivolous submissions, etc.__ 
+    (g) __Frivolous submissions, etc.__ 
 
         Notwithstanding any other provision of this section, if the Secretary determines that any portion of an application for an offer-in-compromise or installment agreement submitted under this section or section 6159 meets the requirement of clause (i) or (ii) of section 6702(b)(2)(A), then the Secretary may treat such portion as if it were never submitted and such portion shall not be subject to any further administrative or judicial review.
 
-([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 849][/us/stat/68A/849]; [Pub. L. 94–455, title XIX, § 1906(b)(13)(A)][/us/pl/94/455/s1906/b/13/A], Oct. 4, 1976, [90 Stat. 1834][/us/stat/90/1834]; [Pub. L. 104–168, title V, § 503(a)][/us/pl/104/168/s503/a], July 30, 1996, [110 Stat. 1461][/us/stat/110/1461]; [Pub. L. 105–206, title III, § 3462(a)][/us/pl/105/206/s3462/a], (c)(1), July 22, 1998, [112 Stat. 764][/us/stat/112/764], 766; [Pub. L. 109–222, title V, § 509(a)][/us/pl/109/222/s509/a], (b), May 17, 2006, [120 Stat. 362][/us/stat/120/362], 363; [Pub. L. 109–432, div. A, title IV, § 407(d)][/us/pl/109/432/s407/d], Dec. 20, 2006, [120 Stat. 2962][/us/stat/120/2962].)
+([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 849][/us/stat/68A/849]; [Pub. L. 94–455, title XIX, § 1906(b)(13)(A)][/us/pl/94/455/s1906/b/13/A], Oct. 4, 1976, [90 Stat. 1834][/us/stat/90/1834]; [Pub. L. 104–168, title V, § 503(a)][/us/pl/104/168/s503/a], July 30, 1996, [110 Stat. 1461][/us/stat/110/1461]; [Pub. L. 105–206, title III, § 3462(a)][/us/pl/105/206/s3462/a], (c)(1), July 22, 1998, [112 Stat. 764][/us/stat/112/764], 766; [Pub. L. 109–222, title V, § 509(a)][/us/pl/109/222/s509/a], (b), May 17, 2006, [120 Stat. 362][/us/stat/120/362], 363; [Pub. L. 109–432, div. A, title IV, § 407(d)][/us/pl/109/432/s407/d], Dec. 20, 2006, [120 Stat. 2962][/us/stat/120/2962]; [Pub. L. 113–295, div. A, title II, § 220(y)][/us/pl/113/295/s220/y], Dec. 19, 2014, [128 Stat. 4036][/us/stat/128/4036].)
 
  __Amendments__ 
+
+    2014—Subsecs. (f), (g). [Pub. L. 113–295][/us/pl/113/295] redesignated subsec. (f) relating to frivolous submissions as (g).
 
     2006—Subsec. (c). [Pub. L. 109–222, § 509(a)][/us/pl/109/222/s509/a], added subsec. (c). Former subsec. (c) redesignated (d).
 
@@ -188,6 +190,9 @@
 [/us/stat/120/362]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F362
 [/us/pl/109/432/s407/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F432%2Fs407%2Fd
 [/us/stat/120/2962]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2962
+[/us/pl/113/295/s220/y]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs220%2Fy
+[/us/stat/128/4036]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F4036
+[/us/pl/113/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295
 [/us/pl/109/222/s509/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F222%2Fs509%2Fa
 [/us/pl/109/222/s509/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F222%2Fs509%2Fa
 [/us/pl/109/222/s509/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F222%2Fs509%2Fb%2F1

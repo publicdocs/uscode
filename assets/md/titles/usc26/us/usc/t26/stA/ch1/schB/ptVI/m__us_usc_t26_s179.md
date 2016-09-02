@@ -27,9 +27,9 @@
 
             (A) $250,000 in the case of taxable years beginning after 2007 and before 2010,
 
-            (B) $500,000 in the case of taxable years beginning in 2010, 2011, 2012, or 2013, and
+            (B) $500,000 in the case of taxable years beginning after 2009 and before 2015, and
 
-            (C) $25,000 in the case of taxable years beginning after 2013.
+            (C) $25,000 in the case of taxable years beginning after 2014.
 
         (2) __Reduction in limitation__ 
 
@@ -37,9 +37,9 @@
 
             (A) $800,000 in the case of taxable years beginning after 2007 and before 2010,
 
-            (B) $2,000,000 in the case of taxable years beginning in 2010, 2011, 2012, or 2013, and
+            (B) $2,000,000 in the case of taxable years beginning after 2009 and before 2015, and
 
-            (C) $200,000 in the case of taxable years beginning after 2013.
+            (C) $200,000 in the case of taxable years beginning after 2014.
 
         (3) __Limitation based on income from trade or business__ 
 
@@ -117,7 +117,7 @@
 
         (2) __Election irrevocable__ 
 
-            Any election made under this section, and any specification contained in any such election, may not be revoked except with the consent of the Secretary. Any such election or specification with respect to any taxable year beginning after 2002 and before 2014 may be revoked by the taxpayer with respect to any property, and such revocation, once made, shall be irrevocable.
+            Any election made under this section, and any specification contained in any such election, may not be revoked except with the consent of the Secretary. Any such election or specification with respect to any taxable year beginning after 2002 and before 2015 may be revoked by the taxpayer with respect to any property, and such revocation, once made, shall be irrevocable.
 
     (d) __Definitions and special rules__ 
 
@@ -131,7 +131,7 @@
 
                 (i) tangible property (to which section 168 applies), or
 
-                (ii) computer software (as defined in section 197(e)(3)(B)) which is described in section 197(e)(3)(A)(i), to which section 167 applies, and which is placed in service in a taxable year beginning after 2002 and before 2014,
+                (ii) computer software (as defined in section 197(e)(3)(B)) which is described in section 197(e)(3)(A)(i), to which section 167 applies, and which is placed in service in a taxable year beginning after 2002 and before 2015,
 
             (B) which is section 1245 property (as defined in section 1245(a)(3)), and
 
@@ -233,7 +233,7 @@
 
         (1) __In general__ 
 
-        If a taxpayer elects the application of this subsection for any taxable year beginning in 2010, 2011, 2012, or 2013, the term “section 179 property” shall include any qualified real property which is—
+        If a taxpayer elects the application of this subsection for any taxable year beginning after 2009 and before 2015, the term “section 179 property” shall include any qualified real property which is—
 
             (A) of a character subject to an allowance for depreciation,
 
@@ -259,15 +259,15 @@
 
             (A) __In general__ 
 
-                Notwithstanding subsection (b)(3)(B), no amount attributable to qualified real property may be carried over to a taxable year beginning after 2013.
+                Notwithstanding subsection (b)(3)(B), no amount attributable to qualified real property may be carried over to a taxable year beginning after 2014.
 
             (B) __Treatment of disallowed amounts__ 
 
-                Except as provided in subparagraph (C), to the extent that any amount is not allowed to be carried over to a taxable year beginning after 2013 by reason of subparagraph (A), this title shall be applied as if no election under this section had been made with respect to such amount.
+                Except as provided in subparagraph (C), to the extent that any amount is not allowed to be carried over to a taxable year beginning after 2014 by reason of subparagraph (A), this title shall be applied as if no election under this section had been made with respect to such amount.
 
-            (C) __Amounts carried over from 2010, 2011 and 2012__ 
+            (C) __Amounts carried over from 2010, 2011, 2012, and 2013__ 
 
-                If subparagraph (B) applies to any amount (or portion of an amount) which is carried over from a taxable year other than the taxpayer’s last taxable year beginning in 2013, such amount (or portion of an amount) shall be treated for purposes of this title as attributable to property placed in service on the first day of the taxpayer’s last taxable year beginning in 2013. For the last taxable year beginning in 2013, the amount determined under subsection (b)(3)(A) for such taxable year shall be determined without regard to this paragraph.
+                If subparagraph (B) applies to any amount (or portion of an amount) which is carried over from a taxable year other than the taxpayer’s last taxable year beginning in 2014, such amount (or portion of an amount) shall be treated for purposes of this title as attributable to property placed in service on the first day of the taxpayer’s last taxable year beginning in 2014. For the last taxable year beginning in 2014, the amount determined under subsection (b)(3)(A) for such taxable year shall be determined without regard to this paragraph.
 
             (D) __Allocation of amounts__ 
 
@@ -279,9 +279,27 @@
 
                 For purposes of the preceding sentence, only section 179 property with respect to which an election was made under subsection (c)(1) (determined without regard to subparagraph (B) of this paragraph) shall be taken into account.
 
-(Added [Pub. L. 85–866, title II, § 204(a)][/us/pl/85/866/s204/a], Sept. 2, 1958, [72 Stat. 1679][/us/stat/72/1679]; amended [Pub. L. 87–834, § 13(c)(2)][/us/pl/87/834/s13/c/2], Oct. 16, 1962, [76 Stat. 1034][/us/stat/76/1034]; [Pub. L. 91–172, title IV, § 401(f)][/us/pl/91/172/s401/f], Dec. 30, 1969, [83 Stat. 603][/us/stat/83/603]; [Pub. L. 94–455, title II, § 213(a)][/us/pl/94/455/s213/a], title XIX, § 1906(b)(13)(A), Oct. 4, 1976, [90 Stat. 1547][/us/stat/90/1547], 1834; [Pub. L. 97–34, title II, § 202(a)][/us/pl/97/34/s202/a], Aug. 13, 1981, [95 Stat. 219][/us/stat/95/219]; [Pub. L. 97–354, § 3(f)][/us/pl/97/354/s3/f], Oct. 19, 1982, [96 Stat. 1689][/us/stat/96/1689]; [Pub. L. 97–448, title I, § 102(aa)][/us/pl/97/448/s102/aa], Jan. 12, 1983, [96 Stat. 2369][/us/stat/96/2369]; [Pub. L. 98–369, div. A, title I, § 13][/us/pl/98/369/s13], July 18, 1984, [98 Stat. 505][/us/stat/98/505]; [Pub. L. 99–514, title II][/us/pl/99/514], §§ 201(d)(3), 202, Oct. 22, 1986, [100 Stat. 2139][/us/stat/100/2139], 2142; [Pub. L. 100–647, title I, § 1002(a)(19)][/us/pl/100/647/s1002/a/19], (b)(1), Nov. 10, 1988, [102 Stat. 3356][/us/stat/102/3356], 3357; [Pub. L. 101–508, title XI, § 11813(b)(11)][/us/pl/101/508/s11813/b/11], Nov. 5, 1990, [104 Stat. 1388–554][/us/stat/104/1388-554]; [Pub. L. 103–66, title XIII, § 13116(a)][/us/pl/103/66/s13116/a], Aug. 10, 1993, [107 Stat. 432][/us/stat/107/432]; [Pub. L. 104–188, title I][/us/pl/104/188], §§ 1111(a), 1702(h)(10), (19), Aug. 20, 1996, [110 Stat. 1758][/us/stat/110/1758], 1874; [Pub. L. 108–27, title II, § 202(a)][/us/pl/108/27/s202/a]–(e), May 28, 2003, [117 Stat. 757][/us/stat/117/757], 758; [Pub. L. 108–357, title II, § 201][/us/pl/108/357/s201], title VIII, § 910(a), Oct. 22, 2004, [118 Stat. 1429][/us/stat/118/1429], 1659; [Pub. L. 109–222, title I, § 101][/us/pl/109/222/s101], May 17, 2006, [120 Stat. 346][/us/stat/120/346]; [Pub. L. 110–28, title VIII, § 8212(a)][/us/pl/110/28/s8212/a]–(c), May 25, 2007, [121 Stat. 192][/us/stat/121/192]; [Pub. L. 110–185, title I, § 102(a)][/us/pl/110/185/s102/a], Feb. 13, 2008, [122 Stat. 618][/us/stat/122/618]; [Pub. L. 110–343, div. C, title VII, § 711(a)][/us/pl/110/343/s711/a], Oct. 3, 2008, [122 Stat. 3928][/us/stat/122/3928]; [Pub. L. 111–5, div. B, title I, § 1202(a)][/us/pl/111/5/s1202/a], Feb. 17, 2009, [123 Stat. 335][/us/stat/123/335]; [Pub. L. 111–147, title II, § 201(a)][/us/pl/111/147/s201/a], Mar. 18, 2010, [124 Stat. 77][/us/stat/124/77]; [Pub. L. 111–240, title II, § 2021(a)][/us/pl/111/240/s2021/a]–(d), Sept. 27, 2010, [124 Stat. 2556][/us/stat/124/2556], 2558; [Pub. L. 111–312, title IV, § 402(a)][/us/pl/111/312/s402/a]–(e), title VII, § 737(b)(3), Dec. 17, 2010, [124 Stat. 3306][/us/stat/124/3306], 3307, 3318; [Pub. L. 112–240, title III, § 315(a)][/us/pl/112/240/s315/a]–(d), Jan. 2, 2013, [126 Stat. 2330][/us/stat/126/2330], 2331.)
+(Added [Pub. L. 85–866, title II, § 204(a)][/us/pl/85/866/s204/a], Sept. 2, 1958, [72 Stat. 1679][/us/stat/72/1679]; amended [Pub. L. 87–834, § 13(c)(2)][/us/pl/87/834/s13/c/2], Oct. 16, 1962, [76 Stat. 1034][/us/stat/76/1034]; [Pub. L. 91–172, title IV, § 401(f)][/us/pl/91/172/s401/f], Dec. 30, 1969, [83 Stat. 603][/us/stat/83/603]; [Pub. L. 94–455, title II, § 213(a)][/us/pl/94/455/s213/a], title XIX, § 1906(b)(13)(A), Oct. 4, 1976, [90 Stat. 1547][/us/stat/90/1547], 1834; [Pub. L. 97–34, title II, § 202(a)][/us/pl/97/34/s202/a], Aug. 13, 1981, [95 Stat. 219][/us/stat/95/219]; [Pub. L. 97–354, § 3(f)][/us/pl/97/354/s3/f], Oct. 19, 1982, [96 Stat. 1689][/us/stat/96/1689]; [Pub. L. 97–448, title I, § 102(aa)][/us/pl/97/448/s102/aa], Jan. 12, 1983, [96 Stat. 2369][/us/stat/96/2369]; [Pub. L. 98–369, div. A, title I, § 13][/us/pl/98/369/s13], July 18, 1984, [98 Stat. 505][/us/stat/98/505]; [Pub. L. 99–514, title II][/us/pl/99/514], §§ 201(d)(3), 202, Oct. 22, 1986, [100 Stat. 2139][/us/stat/100/2139], 2142; [Pub. L. 100–647, title I, § 1002(a)(19)][/us/pl/100/647/s1002/a/19], (b)(1), Nov. 10, 1988, [102 Stat. 3356][/us/stat/102/3356], 3357; [Pub. L. 101–508, title XI, § 11813(b)(11)][/us/pl/101/508/s11813/b/11], Nov. 5, 1990, [104 Stat. 1388–554][/us/stat/104/1388-554]; [Pub. L. 103–66, title XIII, § 13116(a)][/us/pl/103/66/s13116/a], Aug. 10, 1993, [107 Stat. 432][/us/stat/107/432]; [Pub. L. 104–188, title I][/us/pl/104/188], §§ 1111(a), 1702(h)(10), (19), Aug. 20, 1996, [110 Stat. 1758][/us/stat/110/1758], 1874; [Pub. L. 108–27, title II, § 202(a)][/us/pl/108/27/s202/a]–(e), May 28, 2003, [117 Stat. 757][/us/stat/117/757], 758; [Pub. L. 108–357, title II, § 201][/us/pl/108/357/s201], title VIII, § 910(a), Oct. 22, 2004, [118 Stat. 1429][/us/stat/118/1429], 1659; [Pub. L. 109–222, title I, § 101][/us/pl/109/222/s101], May 17, 2006, [120 Stat. 346][/us/stat/120/346]; [Pub. L. 110–28, title VIII, § 8212(a)][/us/pl/110/28/s8212/a]–(c), May 25, 2007, [121 Stat. 192][/us/stat/121/192]; [Pub. L. 110–185, title I, § 102(a)][/us/pl/110/185/s102/a], Feb. 13, 2008, [122 Stat. 618][/us/stat/122/618]; [Pub. L. 110–343, div. C, title VII, § 711(a)][/us/pl/110/343/s711/a], Oct. 3, 2008, [122 Stat. 3928][/us/stat/122/3928]; [Pub. L. 111–5, div. B, title I, § 1202(a)][/us/pl/111/5/s1202/a], Feb. 17, 2009, [123 Stat. 335][/us/stat/123/335]; [Pub. L. 111–147, title II, § 201(a)][/us/pl/111/147/s201/a], Mar. 18, 2010, [124 Stat. 77][/us/stat/124/77]; [Pub. L. 111–240, title II, § 2021(a)][/us/pl/111/240/s2021/a]–(d), Sept. 27, 2010, [124 Stat. 2556][/us/stat/124/2556], 2558; [Pub. L. 111–312, title IV, § 402(a)][/us/pl/111/312/s402/a]–(e), title VII, § 737(b)(3), Dec. 17, 2010, [124 Stat. 3306][/us/stat/124/3306], 3307, 3318; [Pub. L. 112–240, title III, § 315(a)][/us/pl/112/240/s315/a]–(d), Jan. 2, 2013, [126 Stat. 2330][/us/stat/126/2330], 2331; [Pub. L. 113–295, div. A, title I, § 127(a)][/us/pl/113/295/s127/a]–(d), Dec. 19, 2014, [128 Stat. 4017][/us/stat/128/4017].)
 
  __Amendments__ 
+
+    2014—Subsec. (b)(1)(B). [Pub. L. 113–295, § 127(a)(1)(A)][/us/pl/113/295/s127/a/1/A], substituted “beginning after 2009 and before 2015” for “beginning in 2010, 2011, 2012, or 2013”.
+
+    Subsec. (b)(1)(C). [Pub. L. 113–295, § 127(a)(1)(B)][/us/pl/113/295/s127/a/1/B], substituted “2014” for “2013”.
+
+    Subsec. (b)(2)(B). [Pub. L. 113–295, § 127(a)(2)(A)][/us/pl/113/295/s127/a/2/A], substituted “beginning after 2009 and before 2015” for “beginning in 2010, 2011, 2012, or 2013”.
+
+    Subsec. (b)(2)(C). [Pub. L. 113–295, § 127(a)(2)(B)][/us/pl/113/295/s127/a/2/B], substituted “2014” for “2013”.
+
+    Subsec. (c)(2). [Pub. L. 113–295, § 127(c)][/us/pl/113/295/s127/c], substituted “2015” for “2014”.
+
+    Subsec. (d)(1)(A)(ii). [Pub. L. 113–295, § 127(b)][/us/pl/113/295/s127/b], substituted “2015” for “2014”.
+
+    Subsec. (f)(1). [Pub. L. 113–295, § 127(d)(1)][/us/pl/113/295/s127/d/1], substituted “beginning after 2009 and before 2015” for “beginning in 2010, 2011, 2012, or 2013” in introductory provisions.
+
+    Subsec. (f)(4). [Pub. L. 113–295, § 127(d)(2)(A)][/us/pl/113/295/s127/d/2/A], substituted “2014” for “2013” wherever appearing.
+
+    Subsec. (f)(4)(C). [Pub. L. 113–295, § 127(d)(2)(B)][/us/pl/113/295/s127/d/2/B], substituted “2011, 2012, and 2013” for “2011 and 2012” in heading.
 
     2013—Subsec. (b)(1)(B). [Pub. L. 112–240, § 315(a)(1)(A)][/us/pl/112/240/s315/a/1/A], substituted “2010, 2011, 2012, or 2013, and” for “2010 or 2011,”.
 
@@ -422,6 +440,12 @@
     1962—Subsec. (d)(5). [Pub. L. 87–834, § 13(c)(2)(A)][/us/pl/87/834/s13/c/2/A], substituted “section 167(h)” for “section 167(g)”.
 
     Subsec. (d)(8). [Pub. L. 87–834, § 13(c)(2)(B)][/us/pl/87/834/s13/c/2/B], substituted “section 167(g)” for “section 167(f)”.
+
+ __Effective Date of 2014 Amendment__ 
+
+[Pub. L. 113–295, div. A, title I, § 127(e)][/us/pl/113/295/s127/e], Dec. 19, 2014, [128 Stat. 4018][/us/stat/128/4018], provided that: 
+
+> “The amendments made by this section \[amending this section\] shall apply to taxable years beginning after December 31, 2013.”
 
  __Effective Date of 2013 Amendment__ 
 
@@ -606,6 +630,17 @@
 [/us/stat/124/3306]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3306
 [/us/pl/112/240/s315/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F240%2Fs315%2Fa
 [/us/stat/126/2330]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F2330
+[/us/pl/113/295/s127/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs127%2Fa
+[/us/stat/128/4017]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F4017
+[/us/pl/113/295/s127/a/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs127%2Fa%2F1%2FA
+[/us/pl/113/295/s127/a/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs127%2Fa%2F1%2FB
+[/us/pl/113/295/s127/a/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs127%2Fa%2F2%2FA
+[/us/pl/113/295/s127/a/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs127%2Fa%2F2%2FB
+[/us/pl/113/295/s127/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs127%2Fc
+[/us/pl/113/295/s127/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs127%2Fb
+[/us/pl/113/295/s127/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs127%2Fd%2F1
+[/us/pl/113/295/s127/d/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs127%2Fd%2F2%2FA
+[/us/pl/113/295/s127/d/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs127%2Fd%2F2%2FB
 [/us/pl/112/240/s315/a/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F240%2Fs315%2Fa%2F1%2FA
 [/us/pl/112/240/s315/a/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F240%2Fs315%2Fa%2F1%2FB
 [/us/pl/112/240/s315/a/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F240%2Fs315%2Fa%2F2%2FA
@@ -673,6 +708,8 @@
 [/us/pl/91/172]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F172
 [/us/pl/87/834/s13/c/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F834%2Fs13%2Fc%2F2%2FA
 [/us/pl/87/834/s13/c/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F834%2Fs13%2Fc%2F2%2FB
+[/us/pl/113/295/s127/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs127%2Fe
+[/us/stat/128/4018]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F4018
 [/us/pl/112/240/s315/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F240%2Fs315%2Fe
 [/us/stat/126/2331]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F2331
 [/us/pl/111/312/s402/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F312%2Fs402%2Ff

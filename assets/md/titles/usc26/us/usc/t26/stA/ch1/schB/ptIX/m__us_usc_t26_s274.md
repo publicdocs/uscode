@@ -465,109 +465,13 @@
 
         (3) __Special rule for individuals subject to Federal hours of service__ 
 
-            (A) __In general__ 
-
-                In the case of any expenses for food or beverages consumed while away from home (within the meaning of section 162(a)(2)) by an individual during, or incident to, the period of duty subject to the hours of service limitations of the Department of Transportation, paragraph (1) shall be applied by substituting “the applicable percentage” for “50 percent”.
-
-            (B) __Applicable percentage__ 
-
-                For purposes of this paragraph, the term “applicable percentage” means the percentage determined under the following table:
-
-<table>
-
-                  <tr>
-
-                    <td> 
-
-                 For taxable years beginning in
-
-                  calendar year—  </td>
-
-                    <td> 
-
-                The applicable percentage is—  </td>
-
-  </tr>
-
-                  <tr>
-
-                    <td> 
-
-                1998 or 1999  </td>
-
-                    <td> 
-
-                55    </td>
-
-  </tr>
-
-                  <tr>
-
-                    <td> 
-
-                2000 or 2001  </td>
-
-                    <td> 
-
-                60    </td>
-
-  </tr>
-
-                  <tr>
-
-                    <td> 
-
-                2002 or 2003  </td>
-
-                    <td> 
-
-                65    </td>
-
-  </tr>
-
-                  <tr>
-
-                    <td> 
-
-                2004 or 2005  </td>
-
-                    <td> 
-
-                70    </td>
-
-  </tr>
-
-                  <tr>
-
-                    <td> 
-
-                2006 or 2007  </td>
-
-                    <td> 
-
-                75    </td>
-
-  </tr>
-
-                  <tr>
-
-                    <td> 
-
-                2008 or thereafter  </td>
-
-                    <td> 
-
-                80.  </td>
-
-  </tr>
-
-                </table>
+            In the case of any expenses for food or beverages consumed while away from home (within the meaning of section 162(a)(2)) by an individual during, or incident to, the period of duty subject to the hours of service limitations of the Department of Transportation, paragraph (1) shall be applied by substituting “80 percent” for “50 percent”.
 
     (o) __Regulatory authority__ 
 
         The Secretary shall prescribe such regulations as he may deem necessary to carry out the purposes of this section, including regulations prescribing whether subsection (a) or subsection (b) applies in cases where both such subsections would otherwise apply.
 
-(Added [Pub. L. 87–834, § 4(a)(1)][/us/pl/87/834/s4/a/1], Oct. 16, 1962, [76 Stat. 974][/us/stat/76/974]; amended [Pub. L. 88–272, title II, § 217(a)][/us/pl/88/272/s217/a], Feb. 26, 1964, [78 Stat. 56][/us/stat/78/56]; [Pub. L. 94–455, title VI, § 602(a)][/us/pl/94/455/s602/a], title XIX, § 1906(b)(13)(A), Oct. 4, 1976, [90 Stat. 1572][/us/stat/90/1572], 1834; [Pub. L. 95–600, title III, § 361(a)][/us/pl/95/600/s361/a], (b), title VII, § 701(g)(1)–(3), Nov. 6, 1978, [92 Stat. 2847][/us/stat/92/2847], 2903, 2904; [Pub. L. 96–222, title I, § 103(a)(10)(A)][/us/pl/96/222/s103/a/10/A], (B) Apr. 1, 1980, [94 Stat. 212][/us/stat/94/212]; [Pub. L. 96–598, § 5(a)][/us/pl/96/598/s5/a], Dec. 24, 1980, [94 Stat. 3488][/us/stat/94/3488]; [Pub. L. 96–605, title I, § 108(a)][/us/pl/96/605/s108/a], Dec. 28, 1980, [94 Stat. 3524][/us/stat/94/3524]; [Pub. L. 96–608, § 4(a)][/us/pl/96/608/s4/a], Dec. 28, 1980, [94 Stat. 3552][/us/stat/94/3552]; [Pub. L. 97–34, title II, § 265(a)][/us/pl/97/34/s265/a], (b), Aug. 13, 1981, [95 Stat. 265][/us/stat/95/265]; [Pub. L. 97–248, title III][/us/pl/97/248], §§ 307(a)(1), 308(a), Sept. 3, 1982, [96 Stat. 589][/us/stat/96/589], 591; [Pub. L. 97–424, title V, § 543(a)][/us/pl/97/424/s543/a], Jan. 6, 1983, [96 Stat. 2195][/us/stat/96/2195]; [Pub. L. 98–67, title I, § 102(a)][/us/pl/98/67/s102/a], title II, § 222(a), Aug. 5, 1983, [97 Stat. 369][/us/stat/97/369], 395; [Pub. L. 98–369, div. A, title I, § 179(b)(1)][/us/pl/98/369/s179/b/1], title VIII, § 801(c), July 18, 1984, [98 Stat. 718][/us/stat/98/718], 995; [Pub. L. 99–44][/us/pl/99/44], §§ 1(a), 2, 6(b), May 24, 1985, [99 Stat. 77][/us/stat/99/77], 79; [Pub. L. 99–514, title I][/us/pl/99/514], §§ 122(c), (d), 142(a)–(c), title XI, § 1114(b)(6), Oct. 22, 1986, [100 Stat. 2110][/us/stat/100/2110], 2117–2120, 2451; [Pub. L. 100–647, title I][/us/pl/100/647], §§ 1001(g)(1)–(4)(A), (5), 1018(u)(2), title VI, § 6003(a), Nov. 10, 1988, [102 Stat. 3351][/us/stat/102/3351], 3352, 3590, 3684; [Pub. L. 101–239, title VII][/us/pl/101/239], §§ 7816(a), 7841(d)(18), Dec. 19, 1989, [103 Stat. 2420][/us/stat/103/2420], 2429; [Pub. L. 101–508, title XI, § 11802(b)][/us/pl/101/508/s11802/b], Nov. 5, 1990, [104 Stat. 1388–529][/us/stat/104/1388-529]; [Pub. L. 103–66, title XIII][/us/pl/103/66], §§ 13209(a), (b), 13210(a), (b), 13272(a), Aug. 10, 1993, [107 Stat. 469][/us/stat/107/469], 542; [Pub. L. 105–34, title IX, § 969(a)][/us/pl/105/34/s969/a], Aug. 5, 1997, [111 Stat. 896][/us/stat/111/896]; [Pub. L. 108–357, title VIII, § 907(a)][/us/pl/108/357/s907/a], Oct. 22, 2004, [118 Stat. 1654][/us/stat/118/1654]; [Pub. L. 109–135, title IV, § 403(mm)][/us/pl/109/135/s403/mm], Dec. 21, 2005, [119 Stat. 2632][/us/stat/119/2632].)
+(Added [Pub. L. 87–834, § 4(a)(1)][/us/pl/87/834/s4/a/1], Oct. 16, 1962, [76 Stat. 974][/us/stat/76/974]; amended [Pub. L. 88–272, title II, § 217(a)][/us/pl/88/272/s217/a], Feb. 26, 1964, [78 Stat. 56][/us/stat/78/56]; [Pub. L. 94–455, title VI, § 602(a)][/us/pl/94/455/s602/a], title XIX, § 1906(b)(13)(A), Oct. 4, 1976, [90 Stat. 1572][/us/stat/90/1572], 1834; [Pub. L. 95–600, title III, § 361(a)][/us/pl/95/600/s361/a], (b), title VII, § 701(g)(1)–(3), Nov. 6, 1978, [92 Stat. 2847][/us/stat/92/2847], 2903, 2904; [Pub. L. 96–222, title I, § 103(a)(10)(A)][/us/pl/96/222/s103/a/10/A], (B) Apr. 1, 1980, [94 Stat. 212][/us/stat/94/212]; [Pub. L. 96–598, § 5(a)][/us/pl/96/598/s5/a], Dec. 24, 1980, [94 Stat. 3488][/us/stat/94/3488]; [Pub. L. 96–605, title I, § 108(a)][/us/pl/96/605/s108/a], Dec. 28, 1980, [94 Stat. 3524][/us/stat/94/3524]; [Pub. L. 96–608, § 4(a)][/us/pl/96/608/s4/a], Dec. 28, 1980, [94 Stat. 3552][/us/stat/94/3552]; [Pub. L. 97–34, title II, § 265(a)][/us/pl/97/34/s265/a], (b), Aug. 13, 1981, [95 Stat. 265][/us/stat/95/265]; [Pub. L. 97–248, title III][/us/pl/97/248], §§ 307(a)(1), 308(a), Sept. 3, 1982, [96 Stat. 589][/us/stat/96/589], 591; [Pub. L. 97–424, title V, § 543(a)][/us/pl/97/424/s543/a], Jan. 6, 1983, [96 Stat. 2195][/us/stat/96/2195]; [Pub. L. 98–67, title I, § 102(a)][/us/pl/98/67/s102/a], title II, § 222(a), Aug. 5, 1983, [97 Stat. 369][/us/stat/97/369], 395; [Pub. L. 98–369, div. A, title I, § 179(b)(1)][/us/pl/98/369/s179/b/1], title VIII, § 801(c), July 18, 1984, [98 Stat. 718][/us/stat/98/718], 995; [Pub. L. 99–44][/us/pl/99/44], §§ 1(a), 2, 6(b), May 24, 1985, [99 Stat. 77][/us/stat/99/77], 79; [Pub. L. 99–514, title I][/us/pl/99/514], §§ 122(c), (d), 142(a)–(c), title XI, § 1114(b)(6), Oct. 22, 1986, [100 Stat. 2110][/us/stat/100/2110], 2117–2120, 2451; [Pub. L. 100–647, title I][/us/pl/100/647], §§ 1001(g)(1)–(4)(A), (5), 1018(u)(2), title VI, § 6003(a), Nov. 10, 1988, [102 Stat. 3351][/us/stat/102/3351], 3352, 3590, 3684; [Pub. L. 101–239, title VII][/us/pl/101/239], §§ 7816(a), 7841(d)(18), Dec. 19, 1989, [103 Stat. 2420][/us/stat/103/2420], 2429; [Pub. L. 101–508, title XI, § 11802(b)][/us/pl/101/508/s11802/b], Nov. 5, 1990, [104 Stat. 1388–529][/us/stat/104/1388-529]; [Pub. L. 103–66, title XIII][/us/pl/103/66], §§ 13209(a), (b), 13210(a), (b), 13272(a), Aug. 10, 1993, [107 Stat. 469][/us/stat/107/469], 542; [Pub. L. 105–34, title IX, § 969(a)][/us/pl/105/34/s969/a], Aug. 5, 1997, [111 Stat. 896][/us/stat/111/896]; [Pub. L. 108–357, title VIII, § 907(a)][/us/pl/108/357/s907/a], Oct. 22, 2004, [118 Stat. 1654][/us/stat/118/1654]; [Pub. L. 109–135, title IV, § 403(mm)][/us/pl/109/135/s403/mm], Dec. 21, 2005, [119 Stat. 2632][/us/stat/119/2632]; [Pub. L. 113–295, div. A, title II, § 221(a)(46)][/us/pl/113/295/s221/a/46], Dec. 19, 2014, [128 Stat. 4045][/us/stat/128/4045].)
 
  __References in Text__ 
 
@@ -576,6 +480,8 @@
     Section 212(a)(1)(A) of the Caribbean Basin Economic Recovery Act, referred to in subsec. (h)(6)(B), is classified to [section 2702(a)(1)(A) of Title 19][/us/usc/t19/s2702/a/1/A], Customs Duties.
 
  __Amendments__ 
+
+    2014—Subsec. (n)(3). [Pub. L. 113–295][/us/pl/113/295] struck out “(A) In general” before “In the case”, substituted “substituting ‘80 percent’ for” for “substituting ‘the applicable percentage’ for”, and struck out subpar. (B) which listed the applicable percentage for taxable years 1998 to 2008 or thereafter.
 
     2005—Subsec. (e)(2)(B)(ii). [Pub. L. 109–135, § 403(mm)(1)][/us/pl/109/135/s403/mm/1], (2), inserted “or a related party to the taxpayer” after “with respect to the taxpayer” in subcl. (I), “(or such related party)” after “the taxpayer” in subcl. (II), and “For purposes of this clause, a person is a related party with respect to another person if such person bears a relationship to such other person described in section 267(b) or 707(b).” at end.
 
@@ -702,6 +608,10 @@
     Subsec. (i). [Pub. L. 94–455][/us/pl/94/455], §§ 602(a), 1906(b)(13)(A), redesignated former subsec. (h) as (i) and struck out “or his delegate” after “Secretary”.
 
     1964—Subsec. (c). [Pub. L. 88–272][/us/pl/88/272] limited subsec. (c) to individuals traveling outside the United States.
+
+ __Effective Date of 2014 Amendment__ 
+
+    Amendment by [Pub. L. 113–295][/us/pl/113/295] effective Dec. 19, 2014, subject to a savings provision, see [section 221(b) of Pub. L. 113–295][/us/pl/113/295/s221/b], set out as a note under [section 1 of this title][/us/usc/t26/s1].
 
  __Effective Date of 2005 Amendment__ 
 
@@ -932,8 +842,11 @@
 [/us/stat/118/1654]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1654
 [/us/pl/109/135/s403/mm]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F135%2Fs403%2Fmm
 [/us/stat/119/2632]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F2632
+[/us/pl/113/295/s221/a/46]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs221%2Fa%2F46
+[/us/stat/128/4045]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F4045
 [/us/usc/t15/s78p]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs78p
 [/us/usc/t19/s2702/a/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2702%2Fa%2F1%2FA
+[/us/pl/113/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295
 [/us/pl/109/135/s403/mm/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F135%2Fs403%2Fmm%2F1
 [/us/pl/108/357]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357
 [/us/pl/105/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34
@@ -1000,6 +913,9 @@
 [/us/pl/94/455/s602/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs602%2Fa
 [/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455
 [/us/pl/88/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F272
+[/us/pl/113/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295
+[/us/pl/113/295/s221/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs221%2Fb
+[/us/usc/t26/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs1
 [/us/pl/109/135]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F135
 [/us/pl/108/357]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357
 [/us/pl/109/135/s403/nn]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F135%2Fs403%2Fnn

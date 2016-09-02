@@ -15,59 +15,15 @@
 
 ## § 199. Income attributable to domestic production activities
 
-    (a) __Allowance of deduction__ 
+    (a)
 
-        (1) __In general__ 
+     (a)  <sup>\[1\]</sup>  <sup><sup> 1 So in original. </sup></sup>  Allowance of deduction
 
         There shall be allowed as a deduction an amount equal to 9 percent of the lesser of—
 
-            (A) the qualified production activities income of the taxpayer for the taxable year, or
+        (1) the qualified production activities income of the taxpayer for the taxable year, or
 
-            (B) taxable income (determined without regard to this section) for the taxable year.
-
-        (2) __Phasein__ 
-
-            In the case of any taxable year beginning after 2004 and before 2010, paragraph (1) shall be applied by substituting for the percentage contained therein the transition percentage determined under the following table:
-
-<table>
-
-              <tr>
-
-                <td> 
-
-             For taxable years beginning in:  </td>
-
-                <td> 
-
-            The transition percentage is:  </td>
-
-  </tr>
-
-              <tr>
-
-                <td> 
-
-            2005 or 2006  </td>
-
-                <td> 
-
-            3     </td>
-
-  </tr>
-
-              <tr>
-
-                <td> 
-
-            2007, 2008, or 2009  </td>
-
-                <td> 
-
-            6.   </td>
-
-  </tr>
-
-            </table>
+        (2) taxable income (determined without regard to this section) for the taxable year.
 
     (b) __Deduction limited to wages paid__ 
 
@@ -95,9 +51,9 @@
 
                 In the case of a qualified film, such term shall include compensation for services performed in the United States by actors, production personnel, directors, and producers.
 
-        (3) __Acquisitions and dispositions__ 
+        (3) __Acquisitions, dispositions, and short taxable years__ 
 
-            The Secretary shall provide for the application of this subsection in cases where the taxpayer acquires, or disposes of, the major portion of a trade or business or the major portion of a separate unit of a trade or business during the taxable year.
+            The Secretary shall provide for the application of this subsection in cases of a short taxable year or where the taxpayer acquires, or disposes of, the major portion of a trade or business or the major portion of a separate unit of a trade or business during the taxable year.
 
     (c) __Qualified production activities income__ 
 
@@ -233,7 +189,7 @@
 
         (2) __Application to individuals__ 
 
-        In the case of an individual, subsections (a)(1)(B) and (d)(9)(A)(iii) shall be applied by substituting “adjusted gross income” for “taxable income”. For purposes of the preceding sentence, adjusted gross income shall be determined—
+        In the case of an individual, subsections (a)(2) and (d)(9)(A)(iii) shall be applied by substituting “adjusted gross income” for “taxable income”. For purposes of the preceding sentence, adjusted gross income shall be determined—
 
             (A) after application of sections 86, 135, 137, 219, 221, 222, and 469, and
 
@@ -307,7 +263,7 @@
 
             (A) qualified production activities income shall be determined without regard to any adjustments under sections 56 through 59, and
 
-            (B) in the case of a corporation, subsection (a)(1)(B) shall be applied by substituting “alternative minimum taxable income” for “taxable income”.
+            (B) in the case of a corporation, subsection (a)(2) shall be applied by substituting “alternative minimum taxable income” for “taxable income”.
 
         (7) __Unrelated business taxable income__ 
 
@@ -325,7 +281,7 @@
 
             (C) __Termination__ 
 
-                This paragraph shall apply only with respect to the first 8 taxable years of the taxpayer beginning after December 31, 2005, and before January 1, 2014.
+                This paragraph shall apply only with respect to the first 9 taxable years of the taxpayer beginning after December 31, 2005, and before January 1, 2015.
 
         (9) __Special rule for taxpayers with oil related qualified production activities income__ 
 
@@ -351,13 +307,21 @@
 
             The Secretary shall prescribe such regulations as are necessary to carry out the purposes of this section, including regulations which prevent more than 1 taxpayer from being allowed a deduction under this section with respect to any activity described in subsection (c)(4)(A)(i).
 
-(Added [Pub. L. 108–357, title I, § 102(a)][/us/pl/108/357/s102/a], Oct. 22, 2004, [118 Stat. 1424][/us/stat/118/1424]; amended [Pub. L. 109–135, title IV, § 403(a)(1)][/us/pl/109/135/s403/a/1]–(13), Dec. 21, 2005, [119 Stat. 2615–2619][/us/stat/119/2615-2619]; [Pub. L. 109–222, title V, § 514(a)][/us/pl/109/222/s514/a], (b), May 17, 2006, [120 Stat. 366][/us/stat/120/366]; [Pub. L. 109–432, div. A, title IV, § 401(a)][/us/pl/109/432/s401/a], Dec. 20, 2006, [120 Stat. 2953][/us/stat/120/2953]; [Pub. L. 110–343, div. B, title IV, § 401(a)][/us/pl/110/343/s401/a], (b), div. C, title III, § 312(a), title V, § 502(c), Oct. 3, 2008, [122 Stat. 3851][/us/stat/122/3851], 3869, 3876; [Pub. L. 111–312, title VII, § 746(a)][/us/pl/111/312/s746/a], Dec. 17, 2010, [124 Stat. 3319][/us/stat/124/3319]; [Pub. L. 112–240, title III, § 318(a)][/us/pl/112/240/s318/a], Jan. 2, 2013, [126 Stat. 2331][/us/stat/126/2331].)
+(Added [Pub. L. 108–357, title I, § 102(a)][/us/pl/108/357/s102/a], Oct. 22, 2004, [118 Stat. 1424][/us/stat/118/1424]; amended [Pub. L. 109–135, title IV, § 403(a)(1)][/us/pl/109/135/s403/a/1]–(13), Dec. 21, 2005, [119 Stat. 2615–2619][/us/stat/119/2615-2619]; [Pub. L. 109–222, title V, § 514(a)][/us/pl/109/222/s514/a], (b), May 17, 2006, [120 Stat. 366][/us/stat/120/366]; [Pub. L. 109–432, div. A, title IV, § 401(a)][/us/pl/109/432/s401/a], Dec. 20, 2006, [120 Stat. 2953][/us/stat/120/2953]; [Pub. L. 110–343, div. B, title IV, § 401(a)][/us/pl/110/343/s401/a], (b), div. C, title III, § 312(a), title V, § 502(c), Oct. 3, 2008, [122 Stat. 3851][/us/stat/122/3851], 3869, 3876; [Pub. L. 111–312, title VII, § 746(a)][/us/pl/111/312/s746/a], Dec. 17, 2010, [124 Stat. 3319][/us/stat/124/3319]; [Pub. L. 112–240, title III, § 318(a)][/us/pl/112/240/s318/a], Jan. 2, 2013, [126 Stat. 2331][/us/stat/126/2331]; [Pub. L. 113–295, div. A, title I, § 130(a)][/us/pl/113/295/s130/a], title II, §§ 219(b), 221(a)(37), Dec. 19, 2014, [128 Stat. 4018][/us/stat/128/4018], 4035, 4043.)
 
  __References in Text__ 
 
     [Section 927(a)(2)(C) of this title][/us/usc/t26/s927/a/2/C], referred to in subsec. (d)(9)(C), was repealed by [Pub. L. 106–519, § 2][/us/pl/106/519/s2], Nov. 15, 2000, [114 Stat. 2423][/us/stat/114/2423].
 
  __Amendments__ 
+
+    Subsec. (a). [Pub. L. 113–295, § 221(a)(37)(A)][/us/pl/113/295/s221/a/37/A], struck out par. (1) designation and heading, redesignated subpars. (A) and (B) of former par. (1) as pars. (1) and (2), respectively, and realigned margins, and struck out former par. (2), which related to phasein of deduction for taxable years 2005 to 2009.
+
+    Subsec. (b)(3). [Pub. L. 113–295, § 219(b)][/us/pl/113/295/s219/b], substituted “, dispositions, and short taxable years” for “and dispositions” in heading and inserted “of a short taxable year or” after “in cases” in text.
+
+    Subsec. (d)(2), (6)(B). [Pub. L. 113–295, § 221(a)(37)(B)][/us/pl/113/295/s221/a/37/B], substituted “(a)(2)” for “(a)(1)(B)”.
+
+    Subsec. (d)(8)(C). [Pub. L. 113–295, § 130(a)][/us/pl/113/295/s130/a], substituted “first 9 taxable years” for “first 8 taxable years” and “January 1, 2015” for “January 1, 2014”.
 
     2013—Subsec. (d)(8)(C). [Pub. L. 112–240][/us/pl/112/240] substituted “first 8 taxable years” for “first 6 taxable years” and “January 1, 2014” for “January 1, 2012”.
 
@@ -429,6 +393,18 @@
 
     Subsec. (d)(8). [Pub. L. 109–135, § 403(a)(12)][/us/pl/109/135/s403/a/12], (13), redesignated par. (7) as (8) and inserted before period at end “, including regulations which prevent more than 1 taxpayer from being allowed a deduction under this section with respect to any activity described in subsection (c)(4)(A)(i)”.
 
+ __Effective Date of 2014 Amendment__ 
+
+[Pub. L. 113–295, div. A, title I, § 130(b)][/us/pl/113/295/s130/b], Dec. 19, 2014, [128 Stat. 4018][/us/stat/128/4018], provided that: 
+
+> “The amendments made by this section \[amending this section\] shall apply to taxable years beginning after December 31, 2013.”
+
+[Pub. L. 113–295, div. A, title II, § 219(d)][/us/pl/113/295/s219/d], Dec. 19, 2014, [128 Stat. 4035][/us/stat/128/4035], provided that: 
+
+> “The amendments made by this section \[amending this section, [section 904 of this title][/us/usc/t26/s904], and provisions set out as a note under [section 114 of this title][/us/usc/t26/s114]\] shall take effect as if included in the provision of the American Jobs Creation Act of 2004 \[[Pub. L. 108–357][/us/pl/108/357]\] to which they relate.”
+
+    Amendment by [section 221(a)(37) of Pub. L. 113–295][/us/pl/113/295/s221/a/37] effective Dec. 19, 2014, subject to a savings provision, see [section 221(b) of Pub. L. 113–295][/us/pl/113/295/s221/b], set out as a note under [section 1 of this title][/us/usc/t26/s1].
+
  __Effective Date of 2013 Amendment__ 
 
 [Pub. L. 112–240, title III, § 318(b)][/us/pl/112/240/s318/b], Jan. 2, 2013, [126 Stat. 2331][/us/stat/126/2331], provided that: 
@@ -493,9 +469,15 @@
 [/us/stat/124/3319]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3319
 [/us/pl/112/240/s318/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F240%2Fs318%2Fa
 [/us/stat/126/2331]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F2331
+[/us/pl/113/295/s130/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs130%2Fa
+[/us/stat/128/4018]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F4018
 [/us/usc/t26/s927/a/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs927%2Fa%2F2%2FC
 [/us/pl/106/519/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F519%2Fs2
 [/us/stat/114/2423]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2423
+[/us/pl/113/295/s221/a/37/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs221%2Fa%2F37%2FA
+[/us/pl/113/295/s219/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs219%2Fb
+[/us/pl/113/295/s221/a/37/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs221%2Fa%2F37%2FB
+[/us/pl/113/295/s130/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs130%2Fa
 [/us/pl/112/240]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F240
 [/us/pl/111/312]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F312
 [/us/pl/110/343/s502/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F343%2Fs502%2Fc%2F1
@@ -522,6 +504,16 @@
 [/us/pl/109/135/s403/a/11/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F135%2Fs403%2Fa%2F11%2FA
 [/us/pl/109/135/s403/a/12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F135%2Fs403%2Fa%2F12
 [/us/pl/109/135/s403/a/12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F135%2Fs403%2Fa%2F12
+[/us/pl/113/295/s130/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs130%2Fb
+[/us/stat/128/4018]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F4018
+[/us/pl/113/295/s219/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs219%2Fd
+[/us/stat/128/4035]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F4035
+[/us/usc/t26/s904]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs904
+[/us/usc/t26/s114]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs114
+[/us/pl/108/357]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357
+[/us/pl/113/295/s221/a/37]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs221%2Fa%2F37
+[/us/pl/113/295/s221/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs221%2Fb
+[/us/usc/t26/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs1
 [/us/pl/112/240/s318/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F240%2Fs318%2Fb
 [/us/stat/126/2331]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F2331
 [/us/pl/111/312/s746/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F312%2Fs746%2Fb

@@ -177,9 +177,9 @@
 
   <tr>
 
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs179A" data-uslm-ref="/us/usc/t26/s179A">179A.</a>  </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs179A" data-uslm-ref="/us/usc/t26/s179A">179A.</a>  </td>
 
-    <td> Deduction for clean-fuel vehicles and certain refueling property.  </td>
+    <td> Repealed.]  </td>
 
   </tr>
 
@@ -353,9 +353,9 @@
 
   <tr>
 
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs198A" data-uslm-ref="/us/usc/t26/s198A">198A.</a>  </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs198A" data-uslm-ref="/us/usc/t26/s198A">198A.</a>  </td>
 
-    <td> Expensing of Qualified Disaster Expenses. <sup>[2]</sup>  <sup><sup> 2 So in original. The words “Qualified Disaster Expenses” probably should not be capitalized. </sup></sup>   </td>
+    <td> Repealed.]  </td>
 
   </tr>
 
@@ -370,6 +370,8 @@
 </table>
 
  __Amendments__ 
+
+    2014—[Pub. L. 113–295, div. A, title II, § 221(a)(34)(A)][/us/pl/113/295/s221/a/34/A], (35), Dec. 19, 2014, [128 Stat. 4042][/us/stat/128/4042], which directed amendment of table of sections for part VI of subchapter A of this chapter by striking items 179A and 198A, was executed by striking items 179A “Deduction for clean-fuel vehicles and certain refueling property” and 198A “Expensing of Qualified Disaster Expenses” in table of sections for part VI of this subchapter to reflect the probable intent of Congress.
 
     2008—[Pub. L. 110–343, div. C, title VII, § 707(b)][/us/pl/110/343/s707/b], Oct. 3, 2008, [122 Stat. 3924][/us/stat/122/3924], added item 198A.
 
@@ -436,6 +438,8 @@
 ----------
 ----------
 
+[/us/pl/113/295/s221/a/34/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs221%2Fa%2F34%2FA
+[/us/stat/128/4042]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F4042
 [/us/pl/110/343/s707/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F343%2Fs707%2Fb
 [/us/stat/122/3924]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3924
 [/us/pl/110/234/s15303/a/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2Fs15303%2Fa%2F2%2FC

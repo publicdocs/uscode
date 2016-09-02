@@ -581,41 +581,11 @@
 
                 (ii) arose in the ordinary course of the trade or business of the old loss corporation and is held by the person who at all times held the beneficial interest in such indebtedness.
 
-            (F) __Special rule for certain financial institutions__ 
-
-                (i) __In general__ 
-
-                In the case of any ownership change to which this subparagraph applies, this paragraph shall be applied—
-
-                    (I) by substituting “1504(a)(2)(B)” for “1504(a)(2)” and “20 percent” for “50 percent” in subparagraph (A)(ii), and
-
-                    (II) without regard to subparagraphs (B) and (C).
-
-                (ii) __Special rule for depositors__ 
-
-                For purposes of applying this paragraph to an ownership change to which this subparagraph applies—
-
-                    (I) a depositor in the old loss corporation shall be treated as a stockholder in such loss corporation immediately before the change,
-
-                    (II) deposits which, after the change, become deposits of the new loss corporation shall be treated as stock of the new loss corporation, and
-
-                    (III) the fair market value of the outstanding stock of the new loss corporation shall include the amount of deposits in the new loss corporation immediately after the change.
-
-                (iii) __Changes to which subparagraph applies__ 
-
-                This subparagraph shall apply to—
-
-                    (I) an equity structure shift which is a reorganization described in section 368(a)(3)(D)(ii)  <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  (as modified by section 368(a)(3)(D)(iv)), <sup>\[1\]</sup>  or
-
-                    (II) any other equity structure shift (or transaction to which section 351 applies) which occurs as an integral part of a transaction involving a change to which subclause (I) applies.
-
-                 This subparagraph shall not apply to any equity structure shift or transaction occurring on or after May 10, 1989.
-
-            (G) __Title 11 or similar case__ 
+            (F) __Title 11 or similar case__ 
 
                 For purposes of this paragraph, the term “title 11 or similar case” has the meaning given such term by section 368(a)(3)(A).
 
-            (H) __Election not to have paragraph apply__ 
+            (G) __Election not to have paragraph apply__ 
 
                 A new loss corporation may elect, subject to such terms and conditions as the Secretary may prescribe, not to have the provisions of this paragraph apply.
 
@@ -679,15 +649,15 @@
 
                     (II) such persons are members of a group of persons acting in concert.
 
-([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 129][/us/stat/68A/129]; [Pub. L. 88–554, § 4(b)(3)][/us/pl/88/554/s4/b/3], Aug. 31, 1964, [78 Stat. 763][/us/stat/78/763]; [Pub. L. 94–455, title VIII, § 806(e)][/us/pl/94/455/s806/e], Oct. 4, 1976, [90 Stat. 1599][/us/stat/90/1599]; [Pub. L. 96–589, § 2(d)][/us/pl/96/589/s2/d], Dec. 24, 1980, [94 Stat. 3396][/us/stat/94/3396]; [Pub. L. 97–34, title II, § 242][/us/pl/97/34/s242], Aug. 13, 1981, [95 Stat. 255][/us/stat/95/255]; [Pub. L. 98–369, div. A, title I, § 62(b)(1)][/us/pl/98/369/s62/b/1], July 18, 1984, [98 Stat. 583][/us/stat/98/583]; [Pub. L. 99–514, title VI, § 621(a)][/us/pl/99/514/s621/a], (e)(1), Oct. 22, 1986, [100 Stat. 2254][/us/stat/100/2254], 2266; [Pub. L. 100–203, title X, § 10225(a)][/us/pl/100/203/s10225/a], (b), Dec. 22, 1987, [101 Stat. 1330–413][/us/stat/101/1330-413]; [Pub. L. 100–647, title I, § 1006(d)(1)(A)][/us/pl/100/647/s1006/d/1/A]–(C), (2)–(10), (17)(A), (18)–(28)(A), (29), (t)(22)(A), title IV, § 4012(a)(3), (b)(1)(B), title V, § 5077(a), Nov. 10, 1988, [102 Stat. 3395–3400][/us/stat/102/3395-3400], 3426, 3656, 3657, 3683; [Pub. L. 101–73, title XIV, § 1401(a)(2)][/us/pl/101/73/s1401/a/2], Aug. 9, 1989, [103 Stat. 548][/us/stat/103/548]; [Pub. L. 101–239, title VII][/us/pl/101/239], §§ 7205(a), 7304(d)(1), 7811(c)(5)(A), 7815(h), 7841(d)(11), Dec. 19, 1989, [103 Stat. 2335][/us/stat/103/2335], 2354, 2407, 2420, 2428; [Pub. L. 103–66, title XIII, § 13226(a)(2)(A)][/us/pl/103/66/s13226/a/2/A], Aug. 10, 1993, [107 Stat. 487][/us/stat/107/487]; [Pub. L. 104–188, title I, § 1621(b)(3)][/us/pl/104/188/s1621/b/3], Aug. 20, 1996, [110 Stat. 1867][/us/stat/110/1867]; [Pub. L. 108–357, title VIII, § 835(b)(2)][/us/pl/108/357/s835/b/2], Oct. 22, 2004, [118 Stat. 1593][/us/stat/118/1593]; [Pub. L. 111–5, div. B, title I, § 1262(a)][/us/pl/111/5/s1262/a], Feb. 17, 2009, [123 Stat. 343][/us/stat/123/343].)
+([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 129][/us/stat/68A/129]; [Pub. L. 88–554, § 4(b)(3)][/us/pl/88/554/s4/b/3], Aug. 31, 1964, [78 Stat. 763][/us/stat/78/763]; [Pub. L. 94–455, title VIII, § 806(e)][/us/pl/94/455/s806/e], Oct. 4, 1976, [90 Stat. 1599][/us/stat/90/1599]; [Pub. L. 96–589, § 2(d)][/us/pl/96/589/s2/d], Dec. 24, 1980, [94 Stat. 3396][/us/stat/94/3396]; [Pub. L. 97–34, title II, § 242][/us/pl/97/34/s242], Aug. 13, 1981, [95 Stat. 255][/us/stat/95/255]; [Pub. L. 98–369, div. A, title I, § 62(b)(1)][/us/pl/98/369/s62/b/1], July 18, 1984, [98 Stat. 583][/us/stat/98/583]; [Pub. L. 99–514, title VI, § 621(a)][/us/pl/99/514/s621/a], (e)(1), Oct. 22, 1986, [100 Stat. 2254][/us/stat/100/2254], 2266; [Pub. L. 100–203, title X, § 10225(a)][/us/pl/100/203/s10225/a], (b), Dec. 22, 1987, [101 Stat. 1330–413][/us/stat/101/1330-413]; [Pub. L. 100–647, title I, § 1006(d)(1)(A)][/us/pl/100/647/s1006/d/1/A]–(C), (2)–(10), (17)(A), (18)–(28)(A), (29), (t)(22)(A), title IV, § 4012(a)(3), (b)(1)(B), title V, § 5077(a), Nov. 10, 1988, [102 Stat. 3395–3400][/us/stat/102/3395-3400], 3426, 3656, 3657, 3683; [Pub. L. 101–73, title XIV, § 1401(a)(2)][/us/pl/101/73/s1401/a/2], Aug. 9, 1989, [103 Stat. 548][/us/stat/103/548]; [Pub. L. 101–239, title VII][/us/pl/101/239], §§ 7205(a), 7304(d)(1), 7811(c)(5)(A), 7815(h), 7841(d)(11), Dec. 19, 1989, [103 Stat. 2335][/us/stat/103/2335], 2354, 2407, 2420, 2428; [Pub. L. 103–66, title XIII, § 13226(a)(2)(A)][/us/pl/103/66/s13226/a/2/A], Aug. 10, 1993, [107 Stat. 487][/us/stat/107/487]; [Pub. L. 104–188, title I, § 1621(b)(3)][/us/pl/104/188/s1621/b/3], Aug. 20, 1996, [110 Stat. 1867][/us/stat/110/1867]; [Pub. L. 108–357, title VIII, § 835(b)(2)][/us/pl/108/357/s835/b/2], Oct. 22, 2004, [118 Stat. 1593][/us/stat/118/1593]; [Pub. L. 111–5, div. B, title I, § 1262(a)][/us/pl/111/5/s1262/a], Feb. 17, 2009, [123 Stat. 343][/us/stat/123/343]; [Pub. L. 113–295, div. A, title II, § 221(a)(30)(D)][/us/pl/113/295/s221/a/30/D], Dec. 19, 2014, [128 Stat. 4042][/us/stat/128/4042].)
 
  __References in Text__ 
-
-    Section 368(a)(3)(D), referred to in subsec. (l)(5)(F)(iii)(I), was amended generally by [Pub. L. 99–514, title IX, § 904(a)][/us/pl/99/514/s904/a], Oct. 22, 1986, [100 Stat. 2385][/us/stat/100/2385], and, as so amended, does not contain a cl. (ii) or (iv).
 
     The Emergency Economic Stabilization Act of 2008, referred to in subsec. (n)(1)(A), is div. A of [Pub. L. 110–343][/us/pl/110/343], Oct. 3, 2008, [122 Stat. 3765][/us/stat/122/3765], which is classified principally to chapter 52 (§ 5201 et seq.) of Title 12, Banks and Banking. For complete classification of this Act to the Code, see Short Title note set out under [section 5201 of Title 12][/us/usc/t12/s5201] and Tables.
 
  __Amendments__ 
+
+    2014—Subsec. (l)(5)(F) to (H). [Pub. L. 113–295][/us/pl/113/295] redesignated subpars. (G) and (H) as (F) and (G), respectively, and struck out former subpar. (F) which related to a special rule for certain financial institutions for certain equity structure shifts and transactions occurring before May 10, 1989.
 
     2009—Subsec. (n). [Pub. L. 111–5][/us/pl/111/5] added subsec. (n).
 
@@ -810,6 +780,10 @@
     1976—[Pub. L. 94–455, § 806(e)][/us/pl/94/455/s806/e], which amended section generally, substituting provisions relating to special limitations on net operating loss carryovers based on continuity of trade or business conducted, for provisions relating to special limitations on net operating loss carryovers based on continuity of ownership, was repealed by [Pub. L. 99–514, § 621(e)(1)][/us/pl/99/514/s621/e/1]. See Effective Date of 1986 and 1976 Amendment notes below.
 
     1964—Subsec. (a)(3). [Pub. L. 88–554][/us/pl/88/554] inserted reference to [section 318(a)(3)(C) of this title][/us/usc/t26/s318/a/3/C].
+
+ __Effective Date of 2014 Amendment__ 
+
+    Amendment by [Pub. L. 113–295][/us/pl/113/295] effective Dec. 19, 2014, subject to a savings provision, see [section 221(b) of Pub. L. 113–295][/us/pl/113/295/s221/b], set out as a note under [section 1 of this title][/us/usc/t26/s1].
 
  __Effective Date of 2009 Amendment__ 
 
@@ -1098,11 +1072,12 @@
 [/us/stat/118/1593]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1593
 [/us/pl/111/5/s1262/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5%2Fs1262%2Fa
 [/us/stat/123/343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F343
-[/us/pl/99/514/s904/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs904%2Fa
-[/us/stat/100/2385]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2385
+[/us/pl/113/295/s221/a/30/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs221%2Fa%2F30%2FD
+[/us/stat/128/4042]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F4042
 [/us/pl/110/343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F343
 [/us/stat/122/3765]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3765
 [/us/usc/t12/s5201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs5201
+[/us/pl/113/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295
 [/us/pl/111/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5
 [/us/pl/108/357]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357
 [/us/pl/104/188]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188
@@ -1162,6 +1137,9 @@
 [/us/pl/99/514/s621/e/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs621%2Fe%2F1
 [/us/pl/88/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F554
 [/us/usc/t26/s318/a/3/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs318%2Fa%2F3%2FC
+[/us/pl/113/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295
+[/us/pl/113/295/s221/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs221%2Fb
+[/us/usc/t26/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs1
 [/us/pl/111/5/s1262/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5%2Fs1262%2Fb
 [/us/stat/123/344]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F344
 [/us/pl/108/357]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357

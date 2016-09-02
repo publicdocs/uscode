@@ -41,9 +41,9 @@
 
   <tr>
 
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs30" data-uslm-ref="/us/usc/t26/s30">30.</a>  </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs30" data-uslm-ref="/us/usc/t26/s30">30.</a>  </td>
 
-    <td> Certain plug-in electric vehicles.  </td>
+    <td> Repealed.]  </td>
 
   </tr>
 
@@ -83,6 +83,8 @@
 
  __Amendments__ 
 
+    2014—[Pub. L. 113–295, div. A, title II, § 221(a)(2)(A)][/us/pl/113/295/s221/a/2/A], Dec. 19, 2014, [128 Stat. 4037][/us/stat/128/4037], struck out item 30 “Certain plug-in electric vehicles”.
+
     2009—[Pub. L. 111–5, div. B, title I, § 1142(b)(8)][/us/pl/111/5/s1142/b/8], Feb. 17, 2009, [123 Stat. 331][/us/stat/123/331], substituted “Certain plug-in electric vehicles” for “Credit for qualified electric vehicles” in item 30.
 
     2008—[Pub. L. 110–343, div. B, title II, § 205(d)(4)][/us/pl/110/343/s205/d/4], Oct. 3, 2008, [122 Stat. 3839][/us/stat/122/3839], added item 30D.
@@ -108,6 +110,8 @@
 ----------
 ----------
 
+[/us/pl/113/295/s221/a/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs221%2Fa%2F2%2FA
+[/us/stat/128/4037]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F4037
 [/us/pl/111/5/s1142/b/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5%2Fs1142%2Fb%2F8
 [/us/stat/123/331]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F331
 [/us/pl/110/343/s205/d/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F343%2Fs205%2Fd%2F4

@@ -73,7 +73,7 @@
 
     (h) __Treatment of casualty gains and losses__ 
 
-        (1) __$100 limitation per casualty__ 
+        (1) __Dollar limitation per casualty__ 
 
             Any loss of an individual described in subsection (c)(3) shall be allowed only to the extent that the amount of the loss to such individual arising from each casualty, or from each theft, exceeds $500 ($100 for taxable years beginning after December 31, 2009).
 
@@ -95,43 +95,7 @@
 
                 (ii) all such losses shall be treated as losses from sales or exchanges of capital assets.
 
-        (3) __Special rule for losses in federally declared disasters__ 
-
-            (A) __In general__ 
-
-            If an individual has a net disaster loss for any taxable year, the amount determined under paragraph (2)(A)(ii) shall be the sum of—
-
-                (i) such net disaster loss, and
-
-                (ii) so much of the excess referred to in the matter preceding clause (i) of paragraph (2)(A) (reduced by the amount in clause (i) of this subparagraph) as exceeds 10 percent of the adjusted gross income of the individual.
-
-            (B) __Net disaster loss__ 
-
-            For purposes of subparagraph (A), the term “net disaster loss” means the excess of—
-
-                (i)
-
-                 the personal casualty losses—
-
-                    (I) attributable to a federally declared disaster occurring before January 1, 2010, and
-
-                    (II) occurring in a disaster area, over
-
-                (ii) personal casualty gains.
-
-            (C) __Federally declared disaster__ 
-
-            For purposes of this paragraph—
-
-                (i) __Federally declared disaster__ 
-
-                    The term “federally declared disaster” means any disaster subsequently determined by the President of the United States to warrant assistance by the Federal Government under the Robert T. Stafford Disaster Relief and Emergency Assistance Act.
-
-                (ii) __Disaster area__ 
-
-                    The term “disaster area” means the area so determined to warrant such assistance.
-
-        (4) __Definitions of personal casualty gain and personal casualty loss__ 
+        (3) __Definitions of personal casualty gain and personal casualty loss__ 
 
         For purposes of this subsection—
 
@@ -141,9 +105,9 @@
 
             (B) __Personal casualty loss__ 
 
-                The term “personal casualty loss” means any loss described in subsection (c)(3). For purposes of paragraphs (2) and (3), the amount of any personal casualty loss shall be determined after the application of paragraph (1).
+                The term “personal casualty loss” means any loss described in subsection (c)(3). For purposes of paragraph (2), the amount of any personal casualty loss shall be determined after the application of paragraph (1).
 
-        (5) __Special rules__ 
+        (4) __Special rules__ 
 
             (A) __Personal casualty losses allowable in computing adjusted gross income to the extent of personal casualty gains__ 
 
@@ -169,7 +133,7 @@
 
         (1) __Election to take deduction for preceding year__ 
 
-            Notwithstanding the provisions of subsection (a), any loss occurring in a disaster area (as defined by clause (ii) of subsection (h)(3)(C)) and attributable to a federally declared disaster (as defined by clause (i) of such subsection) may, at the election of the taxpayer, be taken into account for the taxable year immediately preceding the taxable year in which the disaster occurred.
+            Notwithstanding the provisions of subsection (a), any loss occurring in a disaster area and attributable to a federally declared disaster may, at the election of the taxpayer, be taken into account for the taxable year immediately preceding the taxable year in which the disaster occurred.
 
         (2) __Year of loss__ 
 
@@ -181,7 +145,19 @@
 
         (4) __Use of disaster loan appraisals to establish amount of loss__ 
 
-            Nothing in this title shall be construed to prohibit the Secretary from prescribing regulations or other guidance under which an appraisal for the purpose of obtaining a loan of Federal funds or a loan guarantee from the Federal Government as a result of a federally declared disaster (as defined by subsection (h)(3)(C)(i)  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be followed by a second closing parenthesis. </sup></sup>  may be used to establish the amount of any loss described in paragraph (1) or (2).
+            Nothing in this title shall be construed to prohibit the Secretary from prescribing regulations or other guidance under which an appraisal for the purpose of obtaining a loan of Federal funds or a loan guarantee from the Federal Government as a result of a federally declared disaster may be used to establish the amount of any loss described in paragraph (1) or (2).
+
+        (5) __Federally declared disasters__ 
+
+        For purposes of this subsection—
+
+            (A) __In general__ 
+
+                The term “Federally  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should not be capitalized. </sup></sup>  declared disaster” means any disaster subsequently determined by the President of the United States to warrant assistance by the Federal Government under the Robert T. Stafford Disaster Relief and Emergency Assistance Act.
+
+            (B) __Disaster area__ 
+
+                The term “disaster area” means the area so determined to warrant such assistance.
 
     (j) __Denial of deduction for losses on certain obligations not in registered form__ 
 
@@ -305,13 +281,27 @@
 
         (5) For special rule for losses on small business stock, see section 1244.
 
-([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 49][/us/stat/68A/49]; [Pub. L. 85–866, title I][/us/pl/85/866], §§ 7, 57(c)(1), title II, § 202(a), Sept. 2, 1958, [72 Stat. 1608][/us/stat/72/1608], 1646, 1676; [Pub. L. 87–426, § 2(a)][/us/pl/87/426/s2/a], Mar. 31, 1962, [76 Stat. 51][/us/stat/76/51]; [Pub. L. 88–272, title II][/us/pl/88/272], §§ 208(a), 238, Feb. 26, 1964, [78 Stat. 43][/us/stat/78/43], 128; [Pub. L. 88–348, § 3(a)][/us/pl/88/348/s3/a], June 30, 1964, [78 Stat. 237][/us/stat/78/237]; [Pub. L. 91–606, title III, § 301(h)][/us/pl/91/606/s301/h], Dec. 31, 1970, [84 Stat. 1759][/us/stat/84/1759]; [Pub. L. 91–677, § 1(a)][/us/pl/91/677/s1/a], Jan. 12, 1971, [84 Stat. 2061][/us/stat/84/2061]; [Pub. L. 91–687, § 1][/us/pl/91/687/s1], Jan. 12, 1971, [84 Stat. 2071][/us/stat/84/2071]; [Pub. L. 92–336, § 2(a)][/us/pl/92/336/s2/a], July 1, 1972, [86 Stat. 406][/us/stat/86/406]; [Pub. L. 92–418, § 2(a)][/us/pl/92/418/s2/a], Aug. 29, 1972, [86 Stat. 656][/us/stat/86/656], 657; [Pub. L. 93–288, title VII, § 702(h)][/us/pl/93/288/s702/h], formerly title VI, § 602(h), May 22, 1974, [88 Stat. 164][/us/stat/88/164], renumbered title VII, § 702(h), [Pub. L. 103–337, div. C, title XXXIV, § 3411(a)(1)][/us/pl/103/337/s3411/a/1], (2), Oct. 5, 1994, [108 Stat. 3100][/us/stat/108/3100]; [Pub. L. 94–455, title XIX, § 1901(a)(26)][/us/pl/94/455/s1901/a/26], Oct. 4, 1976, [90 Stat. 1767][/us/stat/90/1767]; [Pub. L. 97–248, title II, § 203(a)][/us/pl/97/248/s203/a], (b), title III, § 310(b)(5), Sept. 3, 1982, [96 Stat. 422][/us/stat/96/422], 598; [Pub. L. 98–369, div. A, title I, § 42(a)(4)][/us/pl/98/369/s42/a/4], title VII, § 711(c)(1), (2)(A)(i), (ii), title X, § 1051(a), July 18, 1984, [98 Stat. 556][/us/stat/98/556], 943, 1044; [Pub. L. 99–514, title IX, § 905(a)][/us/pl/99/514/s905/a], title X, § 1004(a), Oct. 22, 1986, [100 Stat. 2385][/us/stat/100/2385], 2388; [Pub. L. 100–647, title I, § 1009(d)(1)][/us/pl/100/647/s1009/d/1], Nov. 10, 1988, [102 Stat. 3449][/us/stat/102/3449]; [Pub. L. 100–707, title I, § 109][/us/pl/100/707/s109](l), Nov. 23, 1988, [102 Stat. 4709][/us/stat/102/4709]; [Pub. L. 105–34, title IX, § 912(a)][/us/pl/105/34/s912/a], Aug. 5, 1997, [111 Stat. 878][/us/stat/111/878]; [Pub. L. 106–554, § 1(a)(7)][/us/pl/106/554/s1/a/7] \[title III, § 318(b)(1), (2)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–645; [Pub. L. 108–311, title IV, § 408(a)(7)(A)][/us/pl/108/311/s408/a/7/A], (B), Oct. 4, 2004, [118 Stat. 1191][/us/stat/118/1191]; [Pub. L. 110–343, div. C, title VII, § 706(a)(1)][/us/pl/110/343/s706/a/1], (2)(A)–(C), (c), Oct. 3, 2008, [122 Stat. 3921–3923][/us/stat/122/3921-3923]; [Pub. L. 111–147, title V, § 502(a)(2)(D)][/us/pl/111/147/s502/a/2/D], Mar. 18, 2010, [124 Stat. 107][/us/stat/124/107].)
+([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 49][/us/stat/68A/49]; [Pub. L. 85–866, title I][/us/pl/85/866], §§ 7, 57(c)(1), title II, § 202(a), Sept. 2, 1958, [72 Stat. 1608][/us/stat/72/1608], 1646, 1676; [Pub. L. 87–426, § 2(a)][/us/pl/87/426/s2/a], Mar. 31, 1962, [76 Stat. 51][/us/stat/76/51]; [Pub. L. 88–272, title II][/us/pl/88/272], §§ 208(a), 238, Feb. 26, 1964, [78 Stat. 43][/us/stat/78/43], 128; [Pub. L. 88–348, § 3(a)][/us/pl/88/348/s3/a], June 30, 1964, [78 Stat. 237][/us/stat/78/237]; [Pub. L. 91–606, title III, § 301(h)][/us/pl/91/606/s301/h], Dec. 31, 1970, [84 Stat. 1759][/us/stat/84/1759]; [Pub. L. 91–677, § 1(a)][/us/pl/91/677/s1/a], Jan. 12, 1971, [84 Stat. 2061][/us/stat/84/2061]; [Pub. L. 91–687, § 1][/us/pl/91/687/s1], Jan. 12, 1971, [84 Stat. 2071][/us/stat/84/2071]; [Pub. L. 92–336, § 2(a)][/us/pl/92/336/s2/a], July 1, 1972, [86 Stat. 406][/us/stat/86/406]; [Pub. L. 92–418, § 2(a)][/us/pl/92/418/s2/a], Aug. 29, 1972, [86 Stat. 656][/us/stat/86/656], 657; [Pub. L. 93–288, title VII, § 702(h)][/us/pl/93/288/s702/h], formerly title VI, § 602(h), May 22, 1974, [88 Stat. 164][/us/stat/88/164], renumbered title VII, § 702(h), [Pub. L. 103–337, div. C, title XXXIV, § 3411(a)(1)][/us/pl/103/337/s3411/a/1], (2), Oct. 5, 1994, [108 Stat. 3100][/us/stat/108/3100]; [Pub. L. 94–455, title XIX, § 1901(a)(26)][/us/pl/94/455/s1901/a/26], Oct. 4, 1976, [90 Stat. 1767][/us/stat/90/1767]; [Pub. L. 97–248, title II, § 203(a)][/us/pl/97/248/s203/a], (b), title III, § 310(b)(5), Sept. 3, 1982, [96 Stat. 422][/us/stat/96/422], 598; [Pub. L. 98–369, div. A, title I, § 42(a)(4)][/us/pl/98/369/s42/a/4], title VII, § 711(c)(1), (2)(A)(i), (ii), title X, § 1051(a), July 18, 1984, [98 Stat. 556][/us/stat/98/556], 943, 1044; [Pub. L. 99–514, title IX, § 905(a)][/us/pl/99/514/s905/a], title X, § 1004(a), Oct. 22, 1986, [100 Stat. 2385][/us/stat/100/2385], 2388; [Pub. L. 100–647, title I, § 1009(d)(1)][/us/pl/100/647/s1009/d/1], Nov. 10, 1988, [102 Stat. 3449][/us/stat/102/3449]; [Pub. L. 100–707, title I, § 109][/us/pl/100/707/s109](l), Nov. 23, 1988, [102 Stat. 4709][/us/stat/102/4709]; [Pub. L. 105–34, title IX, § 912(a)][/us/pl/105/34/s912/a], Aug. 5, 1997, [111 Stat. 878][/us/stat/111/878]; [Pub. L. 106–554, § 1(a)(7)][/us/pl/106/554/s1/a/7] \[title III, § 318(b)(1), (2)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–645; [Pub. L. 108–311, title IV, § 408(a)(7)(A)][/us/pl/108/311/s408/a/7/A], (B), Oct. 4, 2004, [118 Stat. 1191][/us/stat/118/1191]; [Pub. L. 110–343, div. C, title VII, § 706(a)(1)][/us/pl/110/343/s706/a/1], (2)(A)–(C), (c), Oct. 3, 2008, [122 Stat. 3921–3923][/us/stat/122/3921-3923]; [Pub. L. 111–147, title V, § 502(a)(2)(D)][/us/pl/111/147/s502/a/2/D], Mar. 18, 2010, [124 Stat. 107][/us/stat/124/107]; [Pub. L. 113–295, div. A, title II][/us/pl/113/295], §§ 211(c)(1)(C), 221(a)(27)(A)–(C), Dec. 19, 2014, [128 Stat. 4033][/us/stat/128/4033], 4040.)
 
  __References in Text__ 
 
-    The Robert T. Stafford Disaster Relief and Emergency Assistance Act, referred to in subsecs. (h)(3)(C)(i) and (k), is [Pub. L. 93–288][/us/pl/93/288], May 22, 1974, [88 Stat. 143][/us/stat/88/143], which is classified principally to chapter 68 (§ 5121 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 5121 of Title 42][/us/usc/t42/s5121] and Tables.
+    The Robert T. Stafford Disaster Relief and Emergency Assistance Act, referred to in subsecs. (i)(5)(A) and (k), is [Pub. L. 93–288][/us/pl/93/288], May 22, 1974, [88 Stat. 143][/us/stat/88/143], which is classified principally to chapter 68 (§ 5121 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 5121 of Title 42][/us/usc/t42/s5121] and Tables.
 
  __Amendments__ 
+
+    2014—Subsec. (h)(1). [Pub. L. 113–295, § 211(c)(1)(C)][/us/pl/113/295/s211/c/1/C], substituted “Dollar” for “$100” in heading.
+
+    Subsec. (h)(3). [Pub. L. 113–295, § 221(a)(27)(A)][/us/pl/113/295/s221/a/27/A], redesignated par. (4) as (3) and struck out former par. (3) which related to special rule for losses in federally declared disasters.
+
+    Subsec. (h)(3)(B). [Pub. L. 113–295, § 221(a)(27)(B)][/us/pl/113/295/s221/a/27/B], substituted “paragraph (2)” for “paragraphs (2) and (3)”.
+
+    Subsec. (h)(4), (5). [Pub. L. 113–295, § 221(a)(27)(A)][/us/pl/113/295/s221/a/27/A], redesignated pars. (4) and (5) as (3) and (4), respectively.
+
+    Subsec. (i)(1). [Pub. L. 113–295, § 221(a)(27)(C)(i)][/us/pl/113/295/s221/a/27/C/i], struck out “(as defined by clause (ii) of subsection (h)(3)(C))” after “disaster area” and “(as defined by clause (i) of such subsection)” after “federally declared disaster”.
+
+    Subsec. (i)(4). [Pub. L. 113–295, § 221(a)(27)(C)(ii)][/us/pl/113/295/s221/a/27/C/ii], struck out “(as defined by subsection (h)(3)(C)(i)” after “federally declared disaster”.
+
+    Subsec. (i)(5). [Pub. L. 113–295, § 221(a)(27)(C)(iii)][/us/pl/113/295/s221/a/27/C/iii], added par. (5).
 
     2010—Subsec. (j)(2)(A). [Pub. L. 111–147][/us/pl/111/147] struck out “except that clause (iv) of subparagraph (A), and subparagraph (B), of such section shall not apply” before period.
 
@@ -406,6 +396,12 @@
     Subsec. (h)(3), (4). [Pub. L. 85–866, § 57(c)(1)][/us/pl/85/866/s57/c/1], added pars. (3) and (4).
 
     Subsec. (h)(5). [Pub. L. 85–866, § 202(a)][/us/pl/85/866/s202/a], added par. (5).
+
+ __Effective Date of 2014 Amendment__ 
+
+    Amendment by [section 211(c)(1)(C) of Pub. L. 113–295][/us/pl/113/295/s211/c/1/C] effective as if included in the provisions of the Tax Extenders and Alternative Minimum Tax Relief Act of 2008, [Pub. L. 110–343, div. C][/us/pl/110/343], to which such amendment relates, see [section 211(d) of Pub. L. 113–295][/us/pl/113/295/s211/d], set out as a note under [section 143 of this title][/us/usc/t26/s143].
+
+    Amendment by section 221(a)(27)(A)–(C) of [Pub. L. 113–295][/us/pl/113/295] effective Dec. 19, 2014, subject to a savings provision, see [section 221(b) of Pub. L. 113–295][/us/pl/113/295/s221/b], set out as a note under [section 1 of this title][/us/usc/t26/s1].
 
  __Effective Date of 2010 Amendment__ 
 
@@ -816,9 +812,18 @@
 [/us/stat/122/3921-3923]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3921-3923
 [/us/pl/111/147/s502/a/2/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F147%2Fs502%2Fa%2F2%2FD
 [/us/stat/124/107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F107
+[/us/pl/113/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295
+[/us/stat/128/4033]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F4033
 [/us/pl/93/288]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F288
 [/us/stat/88/143]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F143
 [/us/usc/t42/s5121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5121
+[/us/pl/113/295/s211/c/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs211%2Fc%2F1%2FC
+[/us/pl/113/295/s221/a/27/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs221%2Fa%2F27%2FA
+[/us/pl/113/295/s221/a/27/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs221%2Fa%2F27%2FB
+[/us/pl/113/295/s221/a/27/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs221%2Fa%2F27%2FA
+[/us/pl/113/295/s221/a/27/C/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs221%2Fa%2F27%2FC%2Fi
+[/us/pl/113/295/s221/a/27/C/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs221%2Fa%2F27%2FC%2Fii
+[/us/pl/113/295/s221/a/27/C/iii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs221%2Fa%2F27%2FC%2Fiii
 [/us/pl/111/147]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F147
 [/us/pl/110/343/s706/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F343%2Fs706%2Fc
 [/us/pl/110/343/s706/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F343%2Fs706%2Fa%2F1
@@ -863,6 +868,13 @@
 [/us/pl/85/866/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F866%2Fs7
 [/us/pl/85/866/s57/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F866%2Fs57%2Fc%2F1
 [/us/pl/85/866/s202/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F866%2Fs202%2Fa
+[/us/pl/113/295/s211/c/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs211%2Fc%2F1%2FC
+[/us/pl/110/343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F343
+[/us/pl/113/295/s211/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs211%2Fd
+[/us/usc/t26/s143]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs143
+[/us/pl/113/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295
+[/us/pl/113/295/s221/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs221%2Fb
+[/us/usc/t26/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs1
 [/us/pl/111/147]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F147
 [/us/pl/111/147/s502/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F147%2Fs502%2Ff
 [/us/usc/t26/s149]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs149

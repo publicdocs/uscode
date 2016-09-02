@@ -21,7 +21,7 @@
 
         (1) __Depletion__ 
 
-            With respect to each property (as defined in section 614), the excess of the deduction for depletion allowable under section 611 for the taxable year over the adjusted basis of the property at the end of the taxable year (determined without regard to the depletion deduction for the taxable year). Effective with respect to taxable years beginning after December 31, 1992, this paragraph shall not apply to any deduction for depletion computed in accordance with section 613A(c).
+            With respect to each property (as defined in section 614), the excess of the deduction for depletion allowable under section 611 for the taxable year over the adjusted basis of the property at the end of the taxable year (determined without regard to the depletion deduction for the taxable year). This paragraph shall not apply to any deduction for depletion computed in accordance with section 613A(c).
 
         (2) __Intangible drilling costs__ 
 
@@ -59,11 +59,11 @@
 
                 (i) __In general__ 
 
-                    In the case of any taxable year beginning after December 31, 1992, this paragraph shall not apply to any taxpayer which is not an integrated oil company (as defined in section 291(b)(4)).
+                    This paragraph shall not apply to any taxpayer which is not an integrated oil company (as defined in section 291(b)(4)).
 
                 (ii) __Limitation on benefit__ 
 
-                    The reduction in alternative minimum taxable income by reason of clause (i) for any taxable year shall not exceed 40 percent (30 percent in case of taxable years beginning in 1993) of the alternative minimum taxable income for such year determined without regard to clause (i) and the alternative tax net operating loss deduction under section 56(a)(4).
+                    The reduction in alternative minimum taxable income by reason of clause (i) for any taxable year shall not exceed 40 percent of the alternative minimum taxable income for such year determined without regard to clause (i) and the alternative tax net operating loss deduction under section 56(a)(4).
 
         \[(3) __Repealed.__  __[__  __Pub. L. 100–647, title I, § 1007(b)(14)(B)__  __][/us/pl/100/647/s1007/b/14/B]__  __,__  __Nov. 10, 1988__  __,__  __[__  __102 Stat. 3430__  __][/us/stat/102/3430]__  __\]__ 
 
@@ -149,7 +149,7 @@
 
             If the taxpayer elects with respect to the intangible drilling and development costs for any well, the term “straight line recovery of intangibles” means any method which would be permitted for purposes of determining cost depletion with respect to such well and which is selected by the taxpayer for purposes of subsection (a)(2).
 
-(Added [Pub. L. 99–514, title VII, § 701(a)][/us/pl/99/514/s701/a], Oct. 22, 1986, [100 Stat. 2333][/us/stat/100/2333]; amended [Pub. L. 100–647, title I, § 1007(b)(14)(B)][/us/pl/100/647/s1007/b/14/B], (c), Nov. 10, 1988, [102 Stat. 3430][/us/stat/102/3430], 3432; [Pub. L. 101–508, title XI][/us/pl/101/508], §§ 11344, 11801(c)(12)(A), 11815(b)(3), Nov. 5, 1990, [104 Stat. 1388–472][/us/stat/104/1388-472], 1388–527, 1388–558; [Pub. L. 102–227, title I, § 112][/us/pl/102/227/s112], Dec. 11, 1991, [105 Stat. 1689][/us/stat/105/1689]; [Pub. L. 102–486, title XIX, § 1915(a)(1)][/us/pl/102/486/s1915/a/1], (b)(1), Oct. 24, 1992, [106 Stat. 3023][/us/stat/106/3023], 3024; [Pub. L. 103–66, title XIII][/us/pl/103/66], §§ 13113(b)(1), 13171(a), Aug. 10, 1993, [107 Stat. 429][/us/stat/107/429], 454; [Pub. L. 104–188, title I, § 1616(b)(3)][/us/pl/104/188/s1616/b/3], Aug. 20, 1996, [110 Stat. 1856][/us/stat/110/1856]; [Pub. L. 105–34, title III, § 311(b)(2)(B)][/us/pl/105/34/s311/b/2/B], Aug. 5, 1997, [111 Stat. 835][/us/stat/111/835]; [Pub. L. 105–206, title VI, § 6005(d)(3)][/us/pl/105/206/s6005/d/3], July 22, 1998, [112 Stat. 805][/us/stat/112/805]; [Pub. L. 108–27, title III, § 301(b)(3)][/us/pl/108/27/s301/b/3], May 28, 2003, [117 Stat. 759][/us/stat/117/759]; [Pub. L. 110–289, div. C, title I, § 3022(a)(1)][/us/pl/110/289/s3022/a/1], July 30, 2008, [122 Stat. 2893][/us/stat/122/2893]; [Pub. L. 111–5, div. B, title I, § 1503(a)][/us/pl/111/5/s1503/a], Feb. 17, 2009, [123 Stat. 354][/us/stat/123/354].)
+(Added [Pub. L. 99–514, title VII, § 701(a)][/us/pl/99/514/s701/a], Oct. 22, 1986, [100 Stat. 2333][/us/stat/100/2333]; amended [Pub. L. 100–647, title I, § 1007(b)(14)(B)][/us/pl/100/647/s1007/b/14/B], (c), Nov. 10, 1988, [102 Stat. 3430][/us/stat/102/3430], 3432; [Pub. L. 101–508, title XI][/us/pl/101/508], §§ 11344, 11801(c)(12)(A), 11815(b)(3), Nov. 5, 1990, [104 Stat. 1388–472][/us/stat/104/1388-472], 1388–527, 1388–558; [Pub. L. 102–227, title I, § 112][/us/pl/102/227/s112], Dec. 11, 1991, [105 Stat. 1689][/us/stat/105/1689]; [Pub. L. 102–486, title XIX, § 1915(a)(1)][/us/pl/102/486/s1915/a/1], (b)(1), Oct. 24, 1992, [106 Stat. 3023][/us/stat/106/3023], 3024; [Pub. L. 103–66, title XIII][/us/pl/103/66], §§ 13113(b)(1), 13171(a), Aug. 10, 1993, [107 Stat. 429][/us/stat/107/429], 454; [Pub. L. 104–188, title I, § 1616(b)(3)][/us/pl/104/188/s1616/b/3], Aug. 20, 1996, [110 Stat. 1856][/us/stat/110/1856]; [Pub. L. 105–34, title III, § 311(b)(2)(B)][/us/pl/105/34/s311/b/2/B], Aug. 5, 1997, [111 Stat. 835][/us/stat/111/835]; [Pub. L. 105–206, title VI, § 6005(d)(3)][/us/pl/105/206/s6005/d/3], July 22, 1998, [112 Stat. 805][/us/stat/112/805]; [Pub. L. 108–27, title III, § 301(b)(3)][/us/pl/108/27/s301/b/3], May 28, 2003, [117 Stat. 759][/us/stat/117/759]; [Pub. L. 110–289, div. C, title I, § 3022(a)(1)][/us/pl/110/289/s3022/a/1], July 30, 2008, [122 Stat. 2893][/us/stat/122/2893]; [Pub. L. 111–5, div. B, title I, § 1503(a)][/us/pl/111/5/s1503/a], Feb. 17, 2009, [123 Stat. 354][/us/stat/123/354]; [Pub. L. 113–295, div. A, title II, § 221(a)(10)][/us/pl/113/295/s221/a/10], (11), Dec. 19, 2014, [128 Stat. 4038][/us/stat/128/4038].)
 
  __References in Text__ 
 
@@ -162,6 +162,12 @@
     A prior section 57, added [Pub. L. 91–172, title III, § 301(a)][/us/pl/91/172/s301/a], Dec. 30, 1969, [83 Stat. 581][/us/stat/83/581]; amended [Pub. L. 92–178, title III][/us/pl/92/178], §§ 303(b), 304(a)(1), (b)(1), (d), Dec. 10, 1971, [85 Stat. 522–524][/us/stat/85/522-524]; [Pub. L. 94–455, title III, § 301(c)(1)][/us/pl/94/455/s301/c/1]–(4)(A), (C), title XIX, §§ 1901(b)(33)(A), (B), 1906(b)(13)(A), Oct. 4, 1976, [90 Stat. 1550–1552][/us/stat/90/1550-1552], 1800, 1834; [Pub. L. 95–30, title I, § 101(d)(5)][/us/pl/95/30/s101/d/5], title III, § 308(a), title IV, § 402(a)(5), May 23, 1977, [91 Stat. 133][/us/stat/91/133], 153, 155; [Pub. L. 95–600, title III, § 301(b)(2)][/us/pl/95/600/s301/b/2], title IV, §§ 402(b)(1), 421(b), title VII, § 701(b)(1), (3), (4), (f)(3)(D), Nov. 6, 1978, [92 Stat. 2820][/us/stat/92/2820], 2868, 2874, 2898, 2899, 2901; [Pub. L. 95–618, title IV, § 402(b)][/us/pl/95/618/s402/b], Nov. 9, 1978, [92 Stat. 3202][/us/stat/92/3202]; [Pub. L. 96–222, title I][/us/pl/96/222], §§ 104(a)(4)(E), (F), 107(a)(1)(A), Apr. 1, 1980, [94 Stat. 217][/us/stat/94/217], 222; [Pub. L. 96–596, § 3(a)][/us/pl/96/596/s3/a], Dec. 24, 1980, [94 Stat. 3475][/us/stat/94/3475]; [Pub. L. 97–34, title I, § 121(c)(1)][/us/pl/97/34/s121/c/1], title II, §§ 205, 212(d)(2)(B), Aug. 13, 1981, [95 Stat. 197][/us/stat/95/197], 223, 239; [Pub. L. 97–248, title II][/us/pl/97/248], §§ 201(b), 204(b), Sept. 3, 1982, [96 Stat. 416][/us/stat/96/416], 426; [Pub. L. 97–354, § 5(a)(14)][/us/pl/97/354/s5/a/14], (15), Oct. 19, 1982, [96 Stat. 1693][/us/stat/96/1693]; [Pub. L. 97–448, title I, § 102(b)(1)(A)][/us/pl/97/448/s102/b/1/A], (3), (4), Jan. 12, 1983, [96 Stat. 2369][/us/stat/96/2369], 2370; [Pub. L. 98–369, div. A, title I][/us/pl/98/369], §§ 16(b), 68(c), 111(e)(5)–(7), title V, § 555(a)(2), title VII, §§ 711(a)(3)(A), 722(a)(1), July 18, 1984, [98 Stat. 505][/us/stat/98/505], 588, 633, 897, 942, 972; [Pub. L. 99–121, title I, § 103(b)(1)(B)][/us/pl/99/121/s103/b/1/B], (7), Oct. 11, 1985, [99 Stat. 509][/us/stat/99/509], 510; [Pub. L. 99–272, title XIII, § 13208(a)][/us/pl/99/272/s13208/a], Apr. 7, 1986, [100 Stat. 321][/us/stat/100/321]; [Pub. L. 99–514, title XVIII][/us/pl/99/514], §§ 1804(k)(3)(B)–(D), 1809(a)(3), Oct. 22, 1986, [100 Stat. 2809][/us/stat/100/2809], 2819, related to items of tax preference, prior to the general revision of this part by [Pub. L. 99–514, § 701(a)][/us/pl/99/514/s701/a].
 
  __Amendments__ 
+
+    2014—Subsec. (a)(1). [Pub. L. 113–295, § 221(a)(10)][/us/pl/113/295/s221/a/10], substituted “This paragraph” for “Effective with respect to taxable years beginning after December 31, 1992, this paragraph”.
+
+    Subsec. (a)(2)(E)(i). [Pub. L. 113–295, § 221(a)(11)(A)][/us/pl/113/295/s221/a/11/A], substituted “This paragraph” for “In the case of any taxable year beginning after December 31, 1992, this paragraph”.
+
+    Subsec. (a)(2)(E)(ii). [Pub. L. 113–295, § 221(a)(11)(B)][/us/pl/113/295/s221/a/11/B], struck out “(30 percent in case of taxable years beginning in 1993)” after “40 percent”.
 
     2009—Subsec. (a)(5)(C)(vi). [Pub. L. 111–5][/us/pl/111/5] added cl. (vi).
 
@@ -204,6 +210,10 @@
     Subsec. (a)(5)(C)(iii). [Pub. L. 100–647, § 1007(c)(1)][/us/pl/100/647/s1007/c/1], inserted “(whether a current or advance refunding)” after “any refunding bond”.
 
     Subsec. (a)(6)(A). [Pub. L. 100–647, § 1007(c)(3)][/us/pl/100/647/s1007/c/3], inserted “or 642(c)” after “section 170”.
+
+ __Effective Date of 2014 Amendment__ 
+
+    Amendment by [Pub. L. 113–295][/us/pl/113/295] effective Dec. 19, 2014, subject to a savings provision, see [section 221(b) of Pub. L. 113–295][/us/pl/113/295/s221/b], set out as a note under [section 1 of this title][/us/usc/t26/s1].
 
  __Effective Date of 2009 Amendment__ 
 
@@ -312,6 +322,8 @@
 [/us/stat/122/2893]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F2893
 [/us/pl/111/5/s1503/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5%2Fs1503%2Fa
 [/us/stat/123/354]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F354
+[/us/pl/113/295/s221/a/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs221%2Fa%2F10
+[/us/stat/128/4038]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F4038
 [/us/pl/110/289]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289
 [/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
 [/us/pl/91/172/s301/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F172%2Fs301%2Fa
@@ -347,6 +359,9 @@
 [/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
 [/us/stat/100/2809]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2809
 [/us/pl/99/514/s701/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs701%2Fa
+[/us/pl/113/295/s221/a/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs221%2Fa%2F10
+[/us/pl/113/295/s221/a/11/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs221%2Fa%2F11%2FA
+[/us/pl/113/295/s221/a/11/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs221%2Fa%2F11%2FB
 [/us/pl/111/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5
 [/us/pl/110/289]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289
 [/us/pl/108/27]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F27
@@ -366,6 +381,9 @@
 [/us/pl/100/647/s1007/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs1007%2Fc%2F2
 [/us/pl/100/647/s1007/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs1007%2Fc%2F1
 [/us/pl/100/647/s1007/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs1007%2Fc%2F3
+[/us/pl/113/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295
+[/us/pl/113/295/s221/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs221%2Fb
+[/us/usc/t26/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs1
 [/us/pl/111/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5
 [/us/pl/111/5/s1503/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5%2Fs1503%2Fc
 [/us/usc/t26/s56]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs56

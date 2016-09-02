@@ -287,7 +287,11 @@
 
                 Payments made by the taxpayer for eligible coverage months shall be treated as having been made by the taxpayer on the first day of the month for which such payment was made.
 
-        (9)  __ <sup>\[__  __1__  __\]</sup> __  __ <sup><sup> __  __1__  __ So in original. There are two pars. designated “(9)”.__  __ </sup></sup> __  __Continued qualification of family members after certain events__ 
+        (9) __COBRA premium assistance__ 
+
+            In the case of an assistance eligible individual who receives premium reduction for COBRA continuation coverage under section 3001(a) of title III of division B of the American Recovery and Reinvestment Act of 2009 for any month during the taxable year, such individual shall not be treated as an eligible individual, a certified individual, or a qualifying family member for purposes of this section or section 7527 with respect to such month.
+
+        (10) __Continued qualification of family members after certain events__ 
 
             (A) __Medicare eligibility__ 
 
@@ -305,15 +309,11 @@
 
                 (ii) any individual who was a qualifying family member of the decedent immediately before such death (or, in the case of an individual to whom paragraph (4) applies, the taxpayer to whom the deduction under section 151 is allowable) shall be treated as an eligible individual for purposes of this section and section 7527 for a period of 24 months beginning with the date of such death, except that in determining the amount of such credit only such qualifying family member may be taken into account.
 
-        (9)  __1__  __COBRA premium assistance__ 
-
-            In the case of an assistance eligible individual who receives premium reduction for COBRA continuation coverage under section 3001(a) of title III of division B of the American Recovery and Reinvestment Act of 2009 for any month during the taxable year, such individual shall not be treated as an eligible individual, a certified individual, or a qualifying family member for purposes of this section or section 7527 with respect to such month.
-
-        (10) __Regulations__ 
+        (11) __Regulations__ 
 
             The Secretary may prescribe such regulations and other guidance as may be necessary or appropriate to carry out this section, section 6050T, and section 7527.
 
-(Added [Pub. L. 107–210, div. A, title II, § 201(a)][/us/pl/107/210/s201/a], Aug. 6, 2002, [116 Stat. 954][/us/stat/116/954]; amended [Pub. L. 108–311, title IV, § 401(a)(2)][/us/pl/108/311/s401/a/2], Oct. 4, 2004, [118 Stat. 1183][/us/stat/118/1183]; [Pub. L. 110–172, § 11(a)(5)][/us/pl/110/172/s11/a/5], Dec. 29, 2007, [121 Stat. 2485][/us/stat/121/2485]; [Pub. L. 111–5, div. B, title I][/us/pl/111/5], §§ 1899A(a)(1), 1899C(a), 1899E(a), 1899G(a), title III, § 3001(a)(14)(A), Feb. 17, 2009, [123 Stat. 423][/us/stat/123/423], 424, 426, 430, 465; [Pub. L. 111–144, § 3(b)(5)(A)][/us/pl/111/144/s3/b/5/A], Mar. 2, 2010, [124 Stat. 44][/us/stat/124/44]; [Pub. L. 111–344, title I][/us/pl/111/344], §§ 111(a), 113(a), 115(a), 117(a), Dec. 29, 2010, [124 Stat. 3614–3616][/us/stat/124/3614-3616]; [Pub. L. 112–40, title II, § 241(a)][/us/pl/112/40/s241/a], (b)(1), (3)(A)–(C), Oct. 21, 2011, [125 Stat. 418][/us/stat/125/418], 419.)
+(Added [Pub. L. 107–210, div. A, title II, § 201(a)][/us/pl/107/210/s201/a], Aug. 6, 2002, [116 Stat. 954][/us/stat/116/954]; amended [Pub. L. 108–311, title IV, § 401(a)(2)][/us/pl/108/311/s401/a/2], Oct. 4, 2004, [118 Stat. 1183][/us/stat/118/1183]; [Pub. L. 110–172, § 11(a)(5)][/us/pl/110/172/s11/a/5], Dec. 29, 2007, [121 Stat. 2485][/us/stat/121/2485]; [Pub. L. 111–5, div. B, title I][/us/pl/111/5], §§ 1899A(a)(1), 1899C(a), 1899E(a), 1899G(a), title III, § 3001(a)(14)(A), Feb. 17, 2009, [123 Stat. 423][/us/stat/123/423], 424, 426, 430, 465; [Pub. L. 111–144, § 3(b)(5)(A)][/us/pl/111/144/s3/b/5/A], Mar. 2, 2010, [124 Stat. 44][/us/stat/124/44]; [Pub. L. 111–344, title I][/us/pl/111/344], §§ 111(a), 113(a), 115(a), 117(a), Dec. 29, 2010, [124 Stat. 3614–3616][/us/stat/124/3614-3616]; [Pub. L. 112–40, title II, § 241(a)][/us/pl/112/40/s241/a], (b)(1), (3)(A)–(C), Oct. 21, 2011, [125 Stat. 418][/us/stat/125/418], 419; [Pub. L. 113–295, div. A, title II, § 209(j)(3)][/us/pl/113/295/s209/j/3], Dec. 19, 2014, [128 Stat. 4031][/us/stat/128/4031].)
 
  __References in Text__ 
 
@@ -329,7 +329,7 @@
 
     The Social Security Act, referred to in subsec. (f)(2), is [act Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], [49 Stat. 620][/us/stat/49/620]. Parts A and B of title XVIII of the Act are classified generally to parts A (§ 1395c et seq.) and B (§ 1395j et seq.), respectively, of subchapter XVIII of chapter 7 of Title 42, The Public Health and Welfare. Titles XIX and XXI of the Act are classified generally to subchapters XIX (§ 1396 et seq.) and XXI (§ 1397aa et seq.), respectively, of chapter 7 of Title 42. Section 1928 of the Act is classified to [section 1396s of Title 42][/us/usc/t42/s1396s]. For complete classification of this Act to the Code, see [section 1305 of Title 42][/us/usc/t42/s1305] and Tables.
 
-    Section 3001(a) of title III of division B of the American Recovery and Reinvestment Act of 2009, referred to in subsec. (g)(9) related to COBRA premium assistance, is [section 3001(a) of Pub. L. 111–5][/us/pl/111/5/s3001/a], div. B, title III, Feb. 17, 2009, [123 Stat. 455][/us/stat/123/455], which enacted sections 139C, 6432, and 6720C of this title, amended this section, and enacted provisions set out as a note under [section 6432 of this title][/us/usc/t26/s6432].
+    Section 3001(a) of title III of division B of the American Recovery and Reinvestment Act of 2009, referred to in subsec. (g)(9), is [section 3001(a) of Pub. L. 111–5][/us/pl/111/5/s3001/a], div. B, title III, Feb. 17, 2009, [123 Stat. 455][/us/stat/123/455], which enacted sections 139C, 6432, and 6720C of this title, amended this section, and enacted provisions set out as a note under [section 6432 of this title][/us/usc/t26/s6432].
 
  __Prior Provisions__ 
 
@@ -339,6 +339,8 @@
 
  __Amendments__ 
 
+    2014—Subsec. (g)(9) to (11). [Pub. L. 113–295, § 209(j)(3)][/us/pl/113/295/s209/j/3], amended directory language of [Pub. L. 111–5, § 3001(a)(14)(A)][/us/pl/111/5/s3001/a/14/A]. See 2009 Amendment notes below.
+
     2011—Subsec. (a). [Pub. L. 112–40, § 241(b)(1)][/us/pl/112/40/s241/b/1], substituted “72.5 percent” for “65 percent (80 percent in the case of eligible coverage months beginning before February 13, 2011)”.
 
     Subsec. (b)(1)(B). [Pub. L. 112–40, § 241(a)][/us/pl/112/40/s241/a], inserted “, and before January 1, 2014” after “2002”.
@@ -347,7 +349,7 @@
 
     Subsec. (e)(1)(K). [Pub. L. 112–40, § 241(b)(3)(B)][/us/pl/112/40/s241/b/3/B], substituted “Coverage” for “In the case of eligible coverage months beginning before February 13, 2012, coverage”.
 
-    Subsec. (g)(9). [Pub. L. 112–40, § 241(b)(3)(C)][/us/pl/112/40/s241/b/3/C], in par. (9) relating to continued qualification of family members after certain events, struck out introductory provisions which read as follows: “In the case of eligible coverage months beginning before February 13, 2011—”.
+    Subsec. (g)(10). [Pub. L. 112–40, § 241(b)(3)(C)][/us/pl/112/40/s241/b/3/C], which directed amendment of par. (9) relating to continued qualification of family members after certain events by striking out “In the case of eligible coverage months beginning before February 13, 2011—”, was executed by striking out such introductory provisions in par. (10) to reflect the probable intent of Congress and the redesignation of par. (9) as (10) by [Pub. L. 111–5, § 3001(a)(14)(A)][/us/pl/111/5/s3001/a/14/A], as amended by [Pub. L. 113–295, § 209(j)(3)][/us/pl/113/295/s209/j/3]. See 2009 Amendment and Effective Date of 2014 Amendment notes below.
 
     2010—Subsec. (a). [Pub. L. 111–344, § 111(a)][/us/pl/111/344/s111/a], substituted “February 13, 2011” for “January 1, 2011”.
 
@@ -355,9 +357,9 @@
 
     Subsec. (e)(1)(K). [Pub. L. 111–344, § 117(a)][/us/pl/111/344/s117/a], substituted “February 13, 2012” for “January 1, 2011”.
 
-    Subsec. (g)(9). [Pub. L. 111–344, § 115(a)][/us/pl/111/344/s115/a], substituted “February 13, 2011” for “January 1, 2011”, in par. (9) relating to continued qualification of family members after certain events.
+    Subsec. (g)(9). [Pub. L. 111–144][/us/pl/111/144] substituted “section 3001(a) of title III of division B of the American Recovery and Reinvestment Act of 2009” for “section 3002(a) of the Health Insurance Assistance for the Unemployed Act of 2009”.
 
-    [Pub. L. 111–144][/us/pl/111/144], which directed amendment of par. (9) by substituting “section 3001(a) of title III of division B of the American Recovery and Reinvestment Act of 2009” for “section 3002(a) of the Health Insurance Assistance for the Unemployed Act of 2009”, was executed by making the substitution in par. (9) relating to COBRA premium assistance, to reflect the probable intent of Congress.
+    Subsec. (g)(10). [Pub. L. 111–344, § 115(a)][/us/pl/111/344/s115/a], which directed amendment of par. (9) relating to continued qualification of family members after certain events by substituting “February 13, 2011” for “January 1, 2011”, was executed by making the substitution in introductory provisions of par. (10) to reflect the probable intent of Congress and the redesignation of par. (9) as (10) by [Pub. L. 111–5, § 3001(a)(14)(A)][/us/pl/111/5/s3001/a/14/A], as amended by [Pub. L. 113–295, § 209(j)(3)][/us/pl/113/295/s209/j/3]. See 2009 Amendment and Effective Date of 2014 Amendment notes below.
 
     2009—Subsec. (a). [Pub. L. 111–5, § 1899A(a)(1)][/us/pl/111/5/s1899A/a/1], inserted “(80 percent in the case of eligible coverage months beginning before January 1, 2011)” after “65 percent”.
 
@@ -365,13 +367,19 @@
 
     Subsec. (e)(1)(K). [Pub. L. 111–5, § 1899G(a)][/us/pl/111/5/s1899G/a], added subpar. (K).
 
-    Subsec. (g)(9), (10). [Pub. L. 111–5, § 3001(a)(14)(A)][/us/pl/111/5/s3001/a/14/A], added par. (9) relating to COBRA premium assistance and redesignated former par. (9) as (10).
+    Subsec. (g)(9), (10). [Pub. L. 111–5, § 3001(a)(14)(A)][/us/pl/111/5/s3001/a/14/A], as amended by [Pub. L. 113–295, § 209(j)(3)][/us/pl/113/295/s209/j/3], added par. (9) relating to COBRA premium assistance and redesignated former par. (9) relating to continued qualification of family members after certain events as (10). Former par. (10) relating to Regulations redesignated (11).
 
-    [Pub. L. 111–5, § 1899E(a)][/us/pl/111/5/s1899E/a], which directed addition of par. (9) and redesignation of par. (9) as (10), was executed by only adding par. (9) relating to continued qualification of family members after certain events.
+    [Pub. L. 111–5, § 1899E(a)][/us/pl/111/5/s1899E/a], added par. (9) relating to continued qualification of family members after certain events and redesignated former par. (9) relating to Regulations as (10).
+
+    Subsec. (g)(11). [Pub. L. 111–5, § 3001(a)(14)(A)][/us/pl/111/5/s3001/a/14/A], as amended by [Pub. L. 113–295, § 209(j)(3)][/us/pl/113/295/s209/j/3], redesignated par. (10) relating to Regulations as (11).
 
     2007—Subsec. (d)(2). [Pub. L. 110–172][/us/pl/110/172] struck out “paragraph (2) or (4) of” before “section 152(e)” and substituted “(as defined in section 152(e)(4)(A))” for “(within the meaning of section 152(e)(1))”.
 
     2004—Subsec. (g)(3). [Pub. L. 108–311][/us/pl/108/311] amended heading and text of par. (3) generally. Prior to amendment, text read as follows: “Amounts distributed from an Archer MSA (as defined in section 220(d)) shall not be taken into account under subsection (a).”
+
+ __Effective Date of 2014 Amendment__ 
+
+    Amendment by [Pub. L. 113–295][/us/pl/113/295] effective as if included in the provisions of the American Recovery and Reinvestment Tax Act of 2009, [Pub. L. 111–5, div. B, title I][/us/pl/111/5], to which such amendment relates, see [section 209(k) of Pub. L. 113–295][/us/pl/113/295/s209/k], set out as a note under [section 24 of this title][/us/usc/t26/s24].
 
  __Effective Date of 2011 Amendment__ 
 
@@ -563,6 +571,8 @@
 [/us/stat/124/3614-3616]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3614-3616
 [/us/pl/112/40/s241/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F40%2Fs241%2Fa
 [/us/stat/125/418]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F418
+[/us/pl/113/295/s209/j/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs209%2Fj%2F3
+[/us/stat/128/4031]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F4031
 [/us/pl/107/210]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F210
 [/us/pl/93/618]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F618
 [/us/stat/88/1978]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1978
@@ -589,23 +599,36 @@
 [/us/stat/78/32]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F32
 [/us/pl/94/455/s1901/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1901%2Fa%2F2
 [/us/stat/90/1764]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1764
+[/us/pl/113/295/s209/j/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs209%2Fj%2F3
+[/us/pl/111/5/s3001/a/14/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5%2Fs3001%2Fa%2F14%2FA
 [/us/pl/112/40/s241/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F40%2Fs241%2Fb%2F1
 [/us/pl/112/40/s241/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F40%2Fs241%2Fa
 [/us/pl/112/40/s241/b/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F40%2Fs241%2Fb%2F3%2FA
 [/us/pl/112/40/s241/b/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F40%2Fs241%2Fb%2F3%2FB
 [/us/pl/112/40/s241/b/3/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F40%2Fs241%2Fb%2F3%2FC
+[/us/pl/111/5/s3001/a/14/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5%2Fs3001%2Fa%2F14%2FA
+[/us/pl/113/295/s209/j/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs209%2Fj%2F3
 [/us/pl/111/344/s111/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F344%2Fs111%2Fa
 [/us/pl/111/344/s113/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F344%2Fs113%2Fa
 [/us/pl/111/344/s117/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F344%2Fs117%2Fa
-[/us/pl/111/344/s115/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F344%2Fs115%2Fa
 [/us/pl/111/144]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F144
+[/us/pl/111/344/s115/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F344%2Fs115%2Fa
+[/us/pl/111/5/s3001/a/14/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5%2Fs3001%2Fa%2F14%2FA
+[/us/pl/113/295/s209/j/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs209%2Fj%2F3
 [/us/pl/111/5/s1899A/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5%2Fs1899A%2Fa%2F1
 [/us/pl/111/5/s1899C/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5%2Fs1899C%2Fa
 [/us/pl/111/5/s1899G/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5%2Fs1899G%2Fa
 [/us/pl/111/5/s3001/a/14/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5%2Fs3001%2Fa%2F14%2FA
+[/us/pl/113/295/s209/j/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs209%2Fj%2F3
 [/us/pl/111/5/s1899E/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5%2Fs1899E%2Fa
+[/us/pl/111/5/s3001/a/14/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5%2Fs3001%2Fa%2F14%2FA
+[/us/pl/113/295/s209/j/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs209%2Fj%2F3
 [/us/pl/110/172]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F172
 [/us/pl/108/311]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F311
+[/us/pl/113/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295
+[/us/pl/111/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5
+[/us/pl/113/295/s209/k]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs209%2Fk
+[/us/usc/t26/s24]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs24
 [/us/pl/112/40/s241/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F40%2Fs241%2Fc
 [/us/stat/125/419]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F419
 [/us/usc/t26/s7527]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs7527

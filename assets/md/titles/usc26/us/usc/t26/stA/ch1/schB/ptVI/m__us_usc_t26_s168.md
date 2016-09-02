@@ -77,7 +77,7 @@
 
         (5) __Election__ 
 
-            An election under paragraph (2)(C) or (3)(D) may be made with respect to 1 or more classes of property for any taxable year and once made with respect to any class shall apply to all property in such class placed in service during such taxable year. Such an election, once made, shall be irrevocable.
+            An election under paragraph (2)(D) or (3)(D) may be made with respect to 1 or more classes of property for any taxable year and once made with respect to any class shall apply to all property in such class placed in service during such taxable year. Such an election, once made, shall be irrevocable.
 
     (c) __Applicable recovery period__ 
 
@@ -407,9 +407,9 @@
 
                  any race horse—
 
-                    (I) which is placed in service before January 1, 2014, and
+                    (I) which is placed in service before January 1, 2015, and
 
-                    (II) which is placed in service after December 31, 2013, and which is more than 2 years old at the time such horse is placed in service by such purchaser,
+                    (II) which is placed in service after December 31, 2014, and which is more than 2 years old at the time such horse is placed in service by such purchaser,
 
                 (ii) any horse other than a race horse which is more than 12 years old at the time it is placed in service, and
 
@@ -485,9 +485,9 @@
 
                 (iii) any section 1250 property which is a retail motor fuels outlet (whether or not food or other convenience items are sold at the outlet),
 
-                (iv) any qualified leasehold improvement property placed in service before January 1, 2014,
+                (iv) any qualified leasehold improvement property placed in service before January 1, 2015,
 
-                (v) any qualified restaurant property placed in service before January 1, 2014,
+                (v) any qualified restaurant property placed in service before January 1, 2015,
 
                 (vi) initial clearing and grading land improvements with respect to gas utility property,
 
@@ -495,7 +495,7 @@
 
                 (viii) any natural gas distribution line the original use of which commences with the taxpayer after April 11, 2005, and which is placed in service before January 1, 2011, and
 
-                (ix) any qualified retail improvement property placed in service after December 31, 2008, and before January 1, 2014.
+                (ix) any qualified retail improvement property placed in service after December 31, 2008, and before January 1, 2015.
 
             (F) __20-year property__ 
 
@@ -549,7 +549,7 @@
 
             (B) __Exclusion from bonus depreciation__ 
 
-                Property described in this paragraph shall not be considered qualified property for purposes of subsection (k).
+                Property described in this paragraph which is not qualified leasehold improvement property shall not be considered qualified property for purposes of subsection (k).
 
         (8) __Qualified retail improvement property__ 
 
@@ -579,7 +579,7 @@
 
             (D) __Exclusion from bonus depreciation__ 
 
-                Property described in this paragraph shall not be considered qualified property for purposes of subsection (k).
+                Property described in this paragraph which is not qualified leasehold improvement property shall not be considered qualified property for purposes of subsection (k).
 
     (f) __Property to which section does not apply__ 
 
@@ -1671,7 +1671,7 @@
 
             (D) __Termination__ 
 
-                Such term shall not include any property placed in service after December 31, 2013.
+                Such term shall not include any property placed in service after December 31, 2014.
 
         (16) __Alaska natural gas pipeline__ 
 
@@ -1715,7 +1715,7 @@
 
                 (i) is placed in service by a taxpayer who is a supplier of electric energy or a provider of electric energy services, and
 
-                (ii) does not have a class life (determined without regard to subsection (e)) of less than 10 years.
+                (ii) does not have a class life (determined without regard to subsection (e)) of less than 16 years.
 
             (B) __Smart electric meter__ 
 
@@ -1737,7 +1737,7 @@
 
                 (i) is used as part of a system for electric distribution grid communications, monitoring, and management placed in service by a taxpayer who is a supplier of electric energy or a provider of electric energy services, and
 
-                (ii) does not have a class life (determined without regard to subsection (e)) of less than 10 years.
+                (ii) does not have a class life (determined without regard to subsection (e)) of less than 16 years.
 
             (B) __Smart grid property__ 
 
@@ -1931,9 +1931,9 @@
 
         (8) __Termination__ 
 
-            This subsection shall not apply to property placed in service after December 31, 2013.
+            This subsection shall not apply to property placed in service after December 31, 2014.
 
-    (k) __Special allowance for certain property acquired after__  __December 31, 2007__  __, and before__  __January 1, 2014__ 
+    (k) __Special allowance for certain property acquired after__  __December 31, 2007__  __, and before__  __January 1, 2015__ 
 
         (1) __Additional allowance__ 
 
@@ -1967,11 +1967,11 @@
 
                  which is—
 
-                    (I) acquired by the taxpayer after December 31, 2007, and before January 1, 2014, but only if no written binding contract for the acquisition was in effect before January 1, 2008, or
+                    (I) acquired by the taxpayer after December 31, 2007, and before January 1, 2015, but only if no written binding contract for the acquisition was in effect before January 1, 2008, or
 
-                    (II) acquired by the taxpayer pursuant to a written binding contract which was entered into after December 31, 2007, and before January 1, 2014, and
+                    (II) acquired by the taxpayer pursuant to a written binding contract which was entered into after December 31, 2007, and before January 1, 2015, and
 
-                (iv) which is placed in service by the taxpayer before January 1, 2014, or, in the case of property described in subparagraph (B) or (C), before January 1, 2015.
+                (iv) which is placed in service by the taxpayer before January 1, 2015, or, in the case of property described in subparagraph (B) or (C), before January 1, 2016.
 
             (B) __Certain property having longer production periods treated as qualified property__ 
 
@@ -1985,11 +1985,11 @@
 
                     (III) is subject to section 263A, and
 
-                    (IV) meets the requirements of clause (iii) of section 263A(f)(1)(B) (determined as if such clauses also apply to property which has a long useful life (within the meaning of section 263A(f))).
+                    (IV) meets the requirements of clause (iii) of section 263A(f)(1)(B) (determined as if such clause also applies to property which has a long useful life (within the meaning of section 263A(f))).
 
-                (ii) __Only pre-__  __January 1, 2014__  __, basis eligible for additional allowance__ 
+                (ii) __Only pre-__  __January 1, 2015__  __, basis eligible for additional allowance__ 
 
-                    In the case of property which is qualified property solely by reason of clause (i), paragraph (1) shall apply only to the extent of the adjusted basis thereof attributable to manufacture, construction, or production before January 1, 2014.
+                    In the case of property which is qualified property solely by reason of clause (i), paragraph (1) shall apply only to the extent of the adjusted basis thereof attributable to manufacture, construction, or production before January 1, 2015.
 
                 (iii) __Transportation property__ 
 
@@ -2045,7 +2045,7 @@
 
                 (i) __Self-constructed property__ 
 
-                    In the case of a taxpayer manufacturing, constructing, or producing property for the taxpayer’s own use, the requirements of clause (iii) of subparagraph (A) shall be treated as met if the taxpayer begins manufacturing, constructing, or producing the property after December 31, 2007, and before January 1, 2014.
+                    In the case of a taxpayer manufacturing, constructing, or producing property for the taxpayer’s own use, the requirements of clause (iii) of subparagraph (A) shall be treated as met if the taxpayer begins manufacturing, constructing, or producing the property after December 31, 2007, and before January 1, 2015.
 
                 (ii) __Sale-leasebacks__ 
 
@@ -2179,7 +2179,7 @@
 
                     (II) the aggregate amount of depreciation which would be allowed under this section for eligible qualified property placed in service by the taxpayer during such taxable year if paragraph (1) did not apply to any such property.
 
-                 The aggregate amounts determined under subclauses (I) and (II) shall be determined without regard to any election made under subsection (b)(2)(C), (b)(3)(D), or (g)(7) and without regard to subparagraph (A)(ii).
+                 The aggregate amounts determined under subclauses (I) and (II) shall be determined without regard to any election made under subsection (b)(2)(D), (b)(3)(D), or (g)(7) and without regard to subparagraph (A)(ii).
 
                 (ii) __Maximum amount__ 
 
@@ -2215,7 +2215,7 @@
 
                     (I) after March 31, 2008, and before January 1, 2010, and
 
-                    (II) after December 31, 2010, and before January 1, 2014,
+                    (II) after December 31, 2010, and before January 1, 2015,
 
                  shall be taken into account under subparagraph (B)(ii) thereof.
 
@@ -2243,7 +2243,7 @@
 
                 (iv) __AMT credit increase amount__ 
 
-                    For purposes of this paragraph, the term “AMT credit increase amount” means the amount equal to the portion of the minimum tax credit under section 53(b) for the first taxable year ending after March 31, 2008, determined by taking into account only the adjusted minimum tax for taxable years beginning before January 1, 2006. For purposes of the preceding sentence, credits shall be treated as allowed on a first-in, first-out basis.
+                    For purposes of this paragraph, the term “AMT credit increase amount” means the amount equal to the portion of the minimum tax credit under section 53(b) for the first taxable year ending after March 31, 2008, determined by taking into account only the adjusted net minimum tax for taxable years beginning before January 1, 2006. For purposes of the preceding sentence, credits shall be treated as allowed on a first-in, first-out basis.
 
             (F) __Credit refundable__ 
 
@@ -2343,7 +2343,7 @@
 
                 (iii) __Taxpayers not previously electing acceleration__ 
 
-                In the case of a taxpayer who neither made the election under subparagraph (A) for its first taxable year ending after March 31, 2008, nor made the election under subparagraph (H)(ii) for its first taxable year ending after December 31, 2008, nor made the election under subparagraph (I)(iii) for any taxable year ending after December 31, 2010—
+                In the case of a taxpayer who neither made the election under subparagraph (A) for its first taxable year ending after March 31, 2008, nor made the election under subparagraph (H)(ii) for its first taxable year ending after December 31, 2008, nor made the election under subparagraph (I)(iii) for its first taxable year ending after December 31, 2010—
 
                     (I) the taxpayer may elect to have this paragraph apply to its first taxable year ending after December 31, 2012, and each subsequent taxable year, and
 
@@ -2352,6 +2352,26 @@
                 (iv) __Round 3 extension property__ 
 
                     For purposes of this subparagraph, the term “round 3 extension property” means property which is eligible qualified property solely by reason of the extension of the application of the special allowance under paragraph (1) pursuant to the amendments made by section 331(a) of the American Taxpayer Relief Act of 2012 (and the application of such extension to this paragraph pursuant to the amendment made by section 331(c)(1) of such Act).
+
+            (K) __Special rules for round 4 extension property__ 
+
+                (i) __In general__ 
+
+                In the case of round 4 extension property, in applying this paragraph to any taxpayer—
+
+                    (I) the limitation described in subparagraph (B)(i) and the business credit increase amount under subparagraph (E)(iii) thereof shall not apply, and
+
+                    (II) the bonus depreciation amount, maximum amount, and maximum increase amount shall be computed separately from amounts computed with respect to eligible qualified property which is not round 4 extension property.
+
+                (ii) __Election__ 
+
+                    (I) A taxpayer who has an election in effect under this paragraph for round 3 extension property shall be treated as having an election in effect for round 4 extension property unless the taxpayer elects to not have this paragraph apply to round 4 extension property.
+
+                    (II) A taxpayer who does not have an election in effect under this paragraph for round 3 extension property may elect to have this paragraph apply to round 4 extension property.
+
+                (iii) __Round 4 extension property__ 
+
+                    For purposes of this subparagraph, the term “round 4 extension property” means property which is eligible qualified property solely by reason of the extension of the application of the special allowance under paragraph (1) pursuant to the amendments made by section 125(a) of the Tax Increase Prevention Act of 2014 (and the application of such extension to this paragraph pursuant to the amendment made by section 125(c) of such Act).
 
         (5) __Special rule for property acquired during certain pre-2012 periods__ 
 
@@ -2377,7 +2397,7 @@
 
             (C) which is acquired by the taxpayer by purchase (as defined in section 179(d)) after the date of the enactment of this subsection, but only if no written binding contract for the acquisition was in effect on or before the date of the enactment of this subsection, and
 
-            (D) which is placed in service by the taxpayer before January 1, 2014.
+            (D) which is placed in service by the taxpayer before January 1, 2015.
 
         (3) __Exceptions__ 
 
@@ -2453,7 +2473,7 @@
 
                 (i) __Bonus depreciation property under subsection (k)__ 
 
-                    The term “qualified reuse and recycling property” shall not include any property to which section 168(k) applies.
+                    The term “qualified reuse and recycling property” shall not include any property to which subsection (k) (determined without regard to paragraph (4) thereof) applies.
 
                 (ii) __Alternative depreciation property__ 
 
@@ -2583,7 +2603,7 @@
 
                 (i) by substituting “the applicable disaster date” for “December 31, 2007” each place it appears therein,
 
-                (ii) without regard to “and before January 1, 2014” in clause (i) thereof, and
+                (ii) without regard to “and before January 1, 2015” in clause (i) thereof, and
 
                 (iii) by substituting “qualified disaster assistance property” for “qualified property” in clause (iv) thereof.
 
@@ -2601,11 +2621,11 @@
 
             (B) __Federally declared disaster__ 
 
-                The term “federally declared disaster” has the meaning given such term under section 165(h)(3)(C)(i).
+                The term “federally declared disaster” has the meaning given such term under section 165(h)(3)(C)(i). <sup>\[3\]</sup>  <sup><sup> 3 See References in Text note below. </sup></sup> 
 
             (C) __Disaster area__ 
 
-                The term “disaster area” has the meaning given such term under section 165(h)(3)(C)(ii).
+                The term “disaster area” has the meaning given such term under section 165(h)(3)(C)(ii).3
 
             (D) __Eligible taxpayer__ 
 
@@ -2615,7 +2635,7 @@
 
             For purposes of this subsection, rules similar to the rules under section 179(d)(10) shall apply with respect to any qualified disaster assistance property which ceases to be qualified disaster assistance property.
 
-(Added [Pub. L. 97–34, title II, § 201(a)][/us/pl/97/34/s201/a], Aug. 13, 1981, [95 Stat. 203][/us/stat/95/203]; amended [Pub. L. 97–248, title II][/us/pl/97/248], §§ 206, 208(a)(1), (2)(A), (b), 209(a), (b), 216(a), 224(c)(1), (2), Sept. 3, 1982, [96 Stat. 431][/us/stat/96/431], 432, 435, 442, 445, 470, 489; [Pub. L. 97–354, § 5(a)(19)][/us/pl/97/354/s5/a/19], (20), Oct. 19, 1982, [96 Stat. 1693][/us/stat/96/1693], 1694; [Pub. L. 97–424, title V, § 541(a)(1)][/us/pl/97/424/s541/a/1], Jan. 6, 1983, [96 Stat. 2192][/us/stat/96/2192]; [Pub. L. 97–448, title I, § 102(a)(1)][/us/pl/97/448/s102/a/1]–(5), (8)–(10)(A), (f)(4), Jan. 12, 1983, [96 Stat. 2367][/us/stat/96/2367], 2368, 2371; [Pub. L. 98–369, div. A, title I][/us/pl/98/369], §§ 12(a)(3), 31(a), (d), 32(a), 111(a)–(e)(4), (9), 113(a)(2), (b)(1), (2)(A), title IV, § 474(r)(7), title VI, §§ 612(e)(4), (5), 628(b), July 18, 1984, [98 Stat. 503][/us/stat/98/503], 509, 518, 530, 631–633, 636, 637, 840, 912, 931; [Pub. L. 99–121, title I, § 103(a)][/us/pl/99/121/s103/a], (b)(1)(A), (2)–(4), Oct. 11, 1985, [99 Stat. 509][/us/stat/99/509]; [Pub. L. 99–514, title II, § 201(a)][/us/pl/99/514/s201/a], title XVIII, §§ 1802(a)(1)–(2)(E)(i), (G), (3), (4)(A), (B), (7), (b)(1), 1809(a)(1)–(2)(C)(i), (4)(A), (B), (b)(1), (2), Oct. 22, 1986, [100 Stat. 2121][/us/stat/100/2121], 2786–2789, 2791, 2818–2821; [Pub. L. 100–647, title I][/us/pl/100/647], §§ 1002(a)(5)–(8), (11), (16)(B), (21), (23)(A), (i)(2)(A)–(G), 1018(b)(2), title VI, §§ 6027(a), (b), 6028(a), 6029(a)–(c), 6253, Nov. 10, 1988, [102 Stat. 3353–3356][/us/stat/102/3353-3356], 3370, 3371, 3577, 3693, 3694, 3753; [Pub. L. 101–239, title VII, § 7816(e)][/us/pl/101/239/s7816/e], (f), (w), Dec. 19, 1989, [103 Stat. 2421][/us/stat/103/2421], 2423; [Pub. L. 101–508, title XI][/us/pl/101/508], §§ 11801(c)(8)(B), 11812(b)(2), 11813(b)(9), Nov. 5, 1990, [104 Stat. 1388–524][/us/stat/104/1388-524], 1388–534, 1388–552; [Pub. L. 103–66, title XIII][/us/pl/103/66], §§ 13151(a), 13321(a), Aug. 10, 1993, [107 Stat. 448][/us/stat/107/448], 558; [Pub. L. 104–88, title III, § 304(a)][/us/pl/104/88/s304/a], Dec. 29, 1995, [109 Stat. 943][/us/stat/109/943]; [Pub. L. 104–188, title I][/us/pl/104/188], §§ 1120(a), (b), 1121(a), 1613(b)(1)–(4), 1702(h)(1), 1704(t)(54), Aug. 20, 1996, [110 Stat. 1765][/us/stat/110/1765], 1766, 1850, 1873, 1890; [Pub. L. 105–34, title X, § 1086(b)][/us/pl/105/34/s1086/b], title XII, § 1213(c), title XVI, § 1604(c)(1), Aug. 5, 1997, [111 Stat. 957][/us/stat/111/957], 1001, 1097; [Pub. L. 105–206, title VI, § 6006(b)][/us/pl/105/206/s6006/b], July 22, 1998, [112 Stat. 806][/us/stat/112/806]; [Pub. L. 107–147, title I, § 101(a)][/us/pl/107/147/s101/a], title VI, § 613(b), Mar. 9, 2002, [116 Stat. 22][/us/stat/116/22], 61; [Pub. L. 108–27, title II, § 201(a)][/us/pl/108/27/s201/a]–(c)(1), May 28, 2003, [117 Stat. 756][/us/stat/117/756], 757; [Pub. L. 108–311, title III, § 316][/us/pl/108/311/s316], title IV, §§ 403(a), 408(a)(6), (8), Oct. 4, 2004, [118 Stat. 1181][/us/stat/118/1181], 1186, 1191; [Pub. L. 108–357, title II, § 211(a)][/us/pl/108/357/s211/a]–(e), title III, §§ 336(a), (b), 337(a), title VII, §§ 704(a), (b), 706(a)–(c), title VIII, §§ 847(a), (c)–(e), 901(a)–(c), Oct. 22, 2004, [118 Stat. 1429][/us/stat/118/1429], 1430, 1479, 1480, 1548–1550, 1601, 1602, 1650; [Pub. L. 109–58, title XIII][/us/pl/109/58], §§ 1301(f)(5), 1308(a), (b), 1325(a), (b), 1326(a)–(c), Aug. 8, 2005, [119 Stat. 990][/us/stat/119/990], 1006, 1016, 1017; [Pub. L. 109–135, title IV][/us/pl/109/135], §§ 403(j), 405(a)(1), 410(a), 412(s), Dec. 21, 2005, [119 Stat. 2625][/us/stat/119/2625], 2634, 2636, 2638; [Pub. L. 109–432, div. A, title I][/us/pl/109/432], §§ 112(a), 113(a), title II, § 209(a), Dec. 20, 2006, [120 Stat. 2940][/us/stat/120/2940], 2946; [Pub. L. 110–172, § 11(b)(1)][/us/pl/110/172/s11/b/1], Dec. 29, 2007, [121 Stat. 2488][/us/stat/121/2488]; [Pub. L. 110–185, title I, § 103(a)][/us/pl/110/185/s103/a]–(c)(7), (11), (12), Feb. 13, 2008, [122 Stat. 618][/us/stat/122/618], 619; [Pub. L. 110–234, title XV, § 15344(a)][/us/pl/110/234/s15344/a], May 22, 2008, [122 Stat. 1520][/us/stat/122/1520]; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title XV, § 15344(a), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 2282; [Pub. L. 110–289, div. C, title III, § 3081(a)][/us/pl/110/289/s3081/a], July 30, 2008, [122 Stat. 2903][/us/stat/122/2903]; [Pub. L. 110–343, div. B, title II, § 201(a)][/us/pl/110/343/s201/a], (b), title III, §§ 306(a)–(c), 308(a), div. C, title III, §§ 305(a)(1), (b)(1), (c)(1)–(4), 315(a), 317(a), title V, § 505(a), (b), title VII, § 710(a), Oct. 3, 2008, [122 Stat. 3832][/us/stat/122/3832], 3848, 3849, 3867, 3868, 3872, 3873, 3879, 3926; [Pub. L. 111–5, div. B, title I, § 1201(a)(1)][/us/pl/111/5/s1201/a/1], (2)(A)–(D), (3)(A), (b)(1), Feb. 17, 2009, [123 Stat. 333][/us/stat/123/333], 334; [Pub. L. 111–240, title II, § 2022(a)][/us/pl/111/240/s2022/a]–(b)(5), Sept. 27, 2010, [124 Stat. 2558][/us/stat/124/2558]; [Pub. L. 111–312, title IV, § 401(a)][/us/pl/111/312/s401/a]–(d)(5), title VII, §§ 737(a)–(b)(2), 738(a), 739(a), Dec. 17, 2010, [124 Stat. 3304–3306][/us/stat/124/3304-3306], 3318, 3319; [Pub. L. 112–240, title III][/us/pl/112/240], §§ 311(a), 312(a), 313(a), 331(a), (c)–(e)(3), title IV, § 410(a)(1), (b)(1), (2), Jan. 2, 2013, [126 Stat. 2330][/us/stat/126/2330], 2335–2337, 2342, 2343.)
+(Added [Pub. L. 97–34, title II, § 201(a)][/us/pl/97/34/s201/a], Aug. 13, 1981, [95 Stat. 203][/us/stat/95/203]; amended [Pub. L. 97–248, title II][/us/pl/97/248], §§ 206, 208(a)(1), (2)(A), (b), 209(a), (b), 216(a), 224(c)(1), (2), Sept. 3, 1982, [96 Stat. 431][/us/stat/96/431], 432, 435, 442, 445, 470, 489; [Pub. L. 97–354, § 5(a)(19)][/us/pl/97/354/s5/a/19], (20), Oct. 19, 1982, [96 Stat. 1693][/us/stat/96/1693], 1694; [Pub. L. 97–424, title V, § 541(a)(1)][/us/pl/97/424/s541/a/1], Jan. 6, 1983, [96 Stat. 2192][/us/stat/96/2192]; [Pub. L. 97–448, title I, § 102(a)(1)][/us/pl/97/448/s102/a/1]–(5), (8)–(10)(A), (f)(4), Jan. 12, 1983, [96 Stat. 2367][/us/stat/96/2367], 2368, 2371; [Pub. L. 98–369, div. A, title I][/us/pl/98/369], §§ 12(a)(3), 31(a), (d), 32(a), 111(a)–(e)(4), (9), 113(a)(2), (b)(1), (2)(A), title IV, § 474(r)(7), title VI, §§ 612(e)(4), (5), 628(b), July 18, 1984, [98 Stat. 503][/us/stat/98/503], 509, 518, 530, 631–633, 636, 637, 840, 912, 931; [Pub. L. 99–121, title I, § 103(a)][/us/pl/99/121/s103/a], (b)(1)(A), (2)–(4), Oct. 11, 1985, [99 Stat. 509][/us/stat/99/509]; [Pub. L. 99–514, title II, § 201(a)][/us/pl/99/514/s201/a], title XVIII, §§ 1802(a)(1)–(2)(E)(i), (G), (3), (4)(A), (B), (7), (b)(1), 1809(a)(1)–(2)(C)(i), (4)(A), (B), (b)(1), (2), Oct. 22, 1986, [100 Stat. 2121][/us/stat/100/2121], 2786–2789, 2791, 2818–2821; [Pub. L. 100–647, title I][/us/pl/100/647], §§ 1002(a)(5)–(8), (11), (16)(B), (21), (23)(A), (i)(2)(A)–(G), 1018(b)(2), title VI, §§ 6027(a), (b), 6028(a), 6029(a)–(c), 6253, Nov. 10, 1988, [102 Stat. 3353–3356][/us/stat/102/3353-3356], 3370, 3371, 3577, 3693, 3694, 3753; [Pub. L. 101–239, title VII, § 7816(e)][/us/pl/101/239/s7816/e], (f), (w), Dec. 19, 1989, [103 Stat. 2421][/us/stat/103/2421], 2423; [Pub. L. 101–508, title XI][/us/pl/101/508], §§ 11801(c)(8)(B), 11812(b)(2), 11813(b)(9), Nov. 5, 1990, [104 Stat. 1388–524][/us/stat/104/1388-524], 1388–534, 1388–552; [Pub. L. 103–66, title XIII][/us/pl/103/66], §§ 13151(a), 13321(a), Aug. 10, 1993, [107 Stat. 448][/us/stat/107/448], 558; [Pub. L. 104–88, title III, § 304(a)][/us/pl/104/88/s304/a], Dec. 29, 1995, [109 Stat. 943][/us/stat/109/943]; [Pub. L. 104–188, title I][/us/pl/104/188], §§ 1120(a), (b), 1121(a), 1613(b)(1)–(4), 1702(h)(1), 1704(t)(54), Aug. 20, 1996, [110 Stat. 1765][/us/stat/110/1765], 1766, 1850, 1873, 1890; [Pub. L. 105–34, title X, § 1086(b)][/us/pl/105/34/s1086/b], title XII, § 1213(c), title XVI, § 1604(c)(1), Aug. 5, 1997, [111 Stat. 957][/us/stat/111/957], 1001, 1097; [Pub. L. 105–206, title VI, § 6006(b)][/us/pl/105/206/s6006/b], July 22, 1998, [112 Stat. 806][/us/stat/112/806]; [Pub. L. 107–147, title I, § 101(a)][/us/pl/107/147/s101/a], title VI, § 613(b), Mar. 9, 2002, [116 Stat. 22][/us/stat/116/22], 61; [Pub. L. 108–27, title II, § 201(a)][/us/pl/108/27/s201/a]–(c)(1), May 28, 2003, [117 Stat. 756][/us/stat/117/756], 757; [Pub. L. 108–311, title III, § 316][/us/pl/108/311/s316], title IV, §§ 403(a), 408(a)(6), (8), Oct. 4, 2004, [118 Stat. 1181][/us/stat/118/1181], 1186, 1191; [Pub. L. 108–357, title II, § 211(a)][/us/pl/108/357/s211/a]–(e), title III, §§ 336(a), (b), 337(a), title VII, §§ 704(a), (b), 706(a)–(c), title VIII, §§ 847(a), (c)–(e), 901(a)–(c), Oct. 22, 2004, [118 Stat. 1429][/us/stat/118/1429], 1430, 1479, 1480, 1548–1550, 1601, 1602, 1650; [Pub. L. 109–58, title XIII][/us/pl/109/58], §§ 1301(f)(5), 1308(a), (b), 1325(a), (b), 1326(a)–(c), Aug. 8, 2005, [119 Stat. 990][/us/stat/119/990], 1006, 1016, 1017; [Pub. L. 109–135, title IV][/us/pl/109/135], §§ 403(j), 405(a)(1), 410(a), 412(s), Dec. 21, 2005, [119 Stat. 2625][/us/stat/119/2625], 2634, 2636, 2638; [Pub. L. 109–432, div. A, title I][/us/pl/109/432], §§ 112(a), 113(a), title II, § 209(a), Dec. 20, 2006, [120 Stat. 2940][/us/stat/120/2940], 2946; [Pub. L. 110–172, § 11(b)(1)][/us/pl/110/172/s11/b/1], Dec. 29, 2007, [121 Stat. 2488][/us/stat/121/2488]; [Pub. L. 110–185, title I, § 103(a)][/us/pl/110/185/s103/a]–(c)(7), (11), (12), Feb. 13, 2008, [122 Stat. 618][/us/stat/122/618], 619; [Pub. L. 110–234, title XV, § 15344(a)][/us/pl/110/234/s15344/a], May 22, 2008, [122 Stat. 1520][/us/stat/122/1520]; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title XV, § 15344(a), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 2282; [Pub. L. 110–289, div. C, title III, § 3081(a)][/us/pl/110/289/s3081/a], July 30, 2008, [122 Stat. 2903][/us/stat/122/2903]; [Pub. L. 110–343, div. B, title II, § 201(a)][/us/pl/110/343/s201/a], (b), title III, §§ 306(a)–(c), 308(a), div. C, title III, §§ 305(a)(1), (b)(1), (c)(1)–(4), 315(a), 317(a), title V, § 505(a), (b), title VII, § 710(a), Oct. 3, 2008, [122 Stat. 3832][/us/stat/122/3832], 3848, 3849, 3867, 3868, 3872, 3873, 3879, 3926; [Pub. L. 111–5, div. B, title I, § 1201(a)(1)][/us/pl/111/5/s1201/a/1], (2)(A)–(D), (3)(A), (b)(1), Feb. 17, 2009, [123 Stat. 333][/us/stat/123/333], 334; [Pub. L. 111–240, title II, § 2022(a)][/us/pl/111/240/s2022/a]–(b)(5), Sept. 27, 2010, [124 Stat. 2558][/us/stat/124/2558]; [Pub. L. 111–312, title IV, § 401(a)][/us/pl/111/312/s401/a]–(d)(5), title VII, §§ 737(a)–(b)(2), 738(a), 739(a), Dec. 17, 2010, [124 Stat. 3304–3306][/us/stat/124/3304-3306], 3318, 3319; [Pub. L. 112–240, title III][/us/pl/112/240], §§ 311(a), 312(a), 313(a), 331(a), (c)–(e)(3), title IV, § 410(a)(1), (b)(1), (2), Jan. 2, 2013, [126 Stat. 2330][/us/stat/126/2330], 2335–2337, 2342, 2343; [Pub. L. 113–295, div. A, title I][/us/pl/113/295], §§ 121(a), 122(a), 123(a), 124(a), 125(a), (c)–(d)(3), 157(a), title II, §§ 202(e), 210(c), (d), (g)(2), 211(b), 212(b), 214(b), Dec. 19, 2014, [128 Stat. 4015–4017][/us/stat/128/4015-4017], 4022, 4024, 4031–4034.)
 
  __References in Text__ 
 
@@ -2633,13 +2653,17 @@
 
     The date of the enactment of this paragraph, referred to in subsec. (j)(7), is the date of enactment of [Pub. L. 103–66][/us/pl/103/66], which was approved Aug. 10, 1993.
 
-    Section 1201(a), (b)(1) of the American Recovery and Reinvestment Tax Act of 2009, referred to in subsec. (k)(4)(H)(iii), is section 1201(a), (b)(1) of [Pub. L. 111–5][/us/pl/111/5], which amended this section and sections 1400N and 6211 of this title.
+    Section 1201(a), (b)(1) of the American Recovery and Reinvestment Tax Act of 2009, referred to in subsec. (k)(4)(H)(iii), is section 1201(a), (b)(1) of [Pub. L. 111–5, div. B, title I][/us/pl/111/5], which amended this section and sections 1400N and 6211 of this title.
 
     Section 401(a), (c)(1) of the Tax Relief, Unemployment Insurance Reauthorization, and Job Creation Act of 2010, referred to in subsec. (k)(4)(I)(iv), is section 401(a), (c)(1) of [Pub. L. 111–312][/us/pl/111/312], which amended this section.
 
     Subsections (a) and (c)(1) of section 331 of the American Taxpayer Relief Act of 2012, referred to in subsec. (k)(4)(J)(iv), are subsecs. (a) and (c)(1) of [section 331 of Pub. L. 112–240][/us/pl/112/240/s331], which amended this section.
 
+    Section 125(a), (c) of the Tax Increase Prevention Act of 2014, referred to in subsec. (k)(4)(K)(iii), is section 125(a), (c) of [Pub. L. 113–295, div. A][/us/pl/113/295], which amended this section.
+
     The date of the enactment of this subsection and the date of the enactment of subsection (l), referred to in subsec. (l)(2)(B), (C), (4)(A), is the date of enactment of [Pub. L. 109–432][/us/pl/109/432], which was approved Dec. 20, 2006.
+
+    Par. (3) of section 165(h), referred to in subsec. (n)(3)(B), (C), was repealed by [Pub. L. 113–295, div. A, title II, § 221(a)(27)(A)][/us/pl/113/295/s221/a/27/A], Dec. 19, 2014, [128 Stat. 4040][/us/stat/128/4040]. However, the terms “federally declared disaster” and “disaster area” are defined elsewhere in that section.
 
  __Codification__ 
 
@@ -2654,6 +2678,48 @@
 > “Notwithstanding the repeal made by subparagraph (A) \[repealing former section 168\], if a certificate was issued before January 1, 1960, with respect to an emergency facility which is or has been placed in service before the date of the enactment of this Act \[Oct. 4, 1976\], the provisions of \[former\] section 168 shall not, with respect to such facility, be considered repealed. The benefit of deductions by reason of the preceding sentence shall be allowed to estates and trusts in the same manner as in the case of an individual. The allowable deduction shall be apportioned between the income beneficiaries and the fiduciary in accordance with regulations prescribed under section 642(f).”
 
  __Amendments__ 
+
+    2014—Subsec. (b)(5). [Pub. L. 113–295, § 210(g)(2)(A)][/us/pl/113/295/s210/g/2/A], substituted “paragraph (2)(D)” for “paragraph (2)(C)”.
+
+    Subsec. (e)(3)(A)(i)(I). [Pub. L. 113–295, § 121(a)(1)][/us/pl/113/295/s121/a/1], substituted “January 1, 2015” for “January 1, 2014”.
+
+    Subsec. (e)(3)(A)(i)(II). [Pub. L. 113–295, § 121(a)(2)][/us/pl/113/295/s121/a/2], substituted “December 31, 2014” for “December 31, 2013”.
+
+    Subsec. (e)(3)(E)(iv), (v), (ix). [Pub. L. 113–295, § 122(a)][/us/pl/113/295/s122/a], substituted “January 1, 2015” for “January 1, 2014”.
+
+    Subsec. (e)(7)(B), (8)(D). [Pub. L. 113–295, § 211(b)][/us/pl/113/295/s211/b], inserted “which is not qualified leasehold improvement property” after “Property described in this paragraph”.
+
+    Subsec. (i)(15)(D). [Pub. L. 113–295, § 123(a)][/us/pl/113/295/s123/a], substituted “December 31, 2014” for “December 31, 2013”.
+
+    Subsec. (i)(18)(A)(ii), (19)(A)(ii). [Pub. L. 113–295, § 210(c)][/us/pl/113/295/s210/c], substituted “16 years” for “10 years”.
+
+    Subsec. (j)(8). [Pub. L. 113–295, § 124(a)][/us/pl/113/295/s124/a], substituted “December 31, 2014” for “December 31, 2013”.
+
+    Subsec. (k). [Pub. L. 113–295, § 125(d)(1)][/us/pl/113/295/s125/d/1], substituted “January 1, 2015” for “January 1, 2014” in heading.
+
+    Subsec. (k)(2). [Pub. L. 113–295, § 125(a)(2)][/us/pl/113/295/s125/a/2], substituted “January 1, 2015” for “January 1, 2014” wherever appearing.
+
+    Subsec. (k)(2)(A)(iv). [Pub. L. 113–295, § 125(a)(1)][/us/pl/113/295/s125/a/1], substituted “January 1, 2016” for “January 1, 2015”.
+
+    Subsec. (k)(2)(B)(i)(IV). [Pub. L. 113–295, § 214(b)][/us/pl/113/295/s214/b], substituted “clause also applies” for “clauses also apply”.
+
+    Subsec. (k)(2)(B)(ii). [Pub. L. 113–295, § 125(d)(2)][/us/pl/113/295/s125/d/2], substituted “pre-January 1, 2015” for “pre-January 1, 2014” in heading.
+
+    Subsec. (k)(4)(C)(i). [Pub. L. 113–295, § 210(g)(2)(B)][/us/pl/113/295/s210/g/2/B], substituted “subsection (b)(2)(D)” for “subsection (b)(2)(C)” in concluding provisions.
+
+    Subsec. (k)(4)(D)(iii)(II). [Pub. L. 113–295, § 125(c)(1)][/us/pl/113/295/s125/c/1], substituted “January 1, 2015” for “January 1, 2014”.
+
+    Subsec. (k)(4)(E)(iv). [Pub. L. 113–295, § 212(b)][/us/pl/113/295/s212/b], substituted “adjusted net minimum tax” for “adjusted minimum tax”.
+
+    Subsec. (k)(4)(J)(iii). [Pub. L. 113–295, § 202(e)][/us/pl/113/295/s202/e], substituted “its first taxable year ending after December 31, 2010” for “any taxable year ending after December 31, 2010” in introductory provisions.
+
+    Subsec. (k)(4)(K). [Pub. L. 113–295, § 125(c)(2)][/us/pl/113/295/s125/c/2], added subpar. (K).
+
+    Subsec. (l)(2)(D). [Pub. L. 113–295, § 157(a)][/us/pl/113/295/s157/a], substituted “January 1, 2015” for “January 1, 2014”.
+
+    Subsec. (m)(2)(B)(i). [Pub. L. 113–295, § 210(d)][/us/pl/113/295/s210/d], substituted “subsection (k) (determined without regard to paragraph (4) thereof)” for “section 168(k)”.
+
+    Subsec. (n)(2)(C)(ii). [Pub. L. 113–295, § 125(d)(3)][/us/pl/113/295/s125/d/3], substituted “January 1, 2015” for “January 1, 2014”.
 
     2013—Subsec. (e)(3)(E)(iv), (v), (ix). [Pub. L. 112–240, § 311(a)][/us/pl/112/240/s311/a], substituted “January 1, 2014” for “January 1, 2012”.
 
@@ -3384,6 +3450,44 @@
     [Pub. L. 97–248, § 208(a)(1)][/us/pl/97/248/s208/a/1], added subsec. (i). Former subsec. (i) redesignated (j).
 
     Subsec. (j). [Pub. L. 97–248, § 208(a)(1)][/us/pl/97/248/s208/a/1], redesignated former subsec. (i) as (j).
+
+ __Effective Date of 2014 Amendment__ 
+
+[Pub. L. 113–295, div. A, title I, § 121(b)][/us/pl/113/295/s121/b], Dec. 19, 2014, [128 Stat. 4015][/us/stat/128/4015], provided that: 
+
+> “The amendments made by this section \[amending this section\] shall apply to property placed in service after December 31, 2013.”
+
+[Pub. L. 113–295, div. A, title I, § 122(b)][/us/pl/113/295/s122/b], Dec. 19, 2014, [128 Stat. 4015][/us/stat/128/4015], provided that: 
+
+> “The amendments made by this section \[amending this section\] shall apply to property placed in service after December 31, 2013.”
+
+[Pub. L. 113–295, div. A, title I, § 123(b)][/us/pl/113/295/s123/b], Dec. 19, 2014, [128 Stat. 4015][/us/stat/128/4015], provided that: 
+
+> “The amendment made by this section \[amending this section\] shall apply to property placed in service after December 31, 2013.”
+
+[Pub. L. 113–295, div. A, title I, § 124(b)][/us/pl/113/295/s124/b], Dec. 19, 2014, [128 Stat. 4016][/us/stat/128/4016], provided that: 
+
+> “The amendment made by this section \[amending this section\] shall apply to property placed in service after December 31, 2013.”
+
+[Pub. L. 113–295, div. A, title I, § 125(e)][/us/pl/113/295/s125/e], Dec. 19, 2014, [128 Stat. 4017][/us/stat/128/4017], provided that: 
+
+> “The amendments made by this section \[amending this section and sections 460, 1400L, and 1400N of this title\] shall apply to property placed in service after December 31, 2013, in taxable years ending after such date.”
+
+[Pub. L. 113–295, div. A, title I, § 157(b)][/us/pl/113/295/s157/b], Dec. 19, 2014, [128 Stat. 4022][/us/stat/128/4022], provided that: 
+
+> “The amendment made by this section \[amending this section\] shall apply to property placed in service after December 31, 2013.”
+
+    Amendment by [section 202(e) of Pub. L. 113–295][/us/pl/113/295/s202/e] effective as if included in the provision of the American Taxpayer Relief Act of 2012, [Pub. L. 112–240][/us/pl/112/240], to which such amendment relates, see [section 202(f) of Pub. L. 113–295][/us/pl/113/295/s202/f], set out as a note under [section 55 of this title][/us/usc/t26/s55].
+
+    Amendment by section 210(c), (d), (g)(2) of [Pub. L. 113–295][/us/pl/113/295] effective as if included in the provisions of the Energy Improvement and Extension Act of 2008, [Pub. L. 110–343, div. B][/us/pl/110/343], to which such amendment relates, see [section 210(h) of Pub. L. 113–295][/us/pl/113/295/s210/h], set out as a note under [section 45 of this title][/us/usc/t26/s45].
+
+    Amendment by [section 211(b) of Pub. L. 113–295][/us/pl/113/295/s211/b] effective as if included in the provisions of the Tax Extenders and Alternative Minimum Tax Relief Act of 2008, [Pub. L. 110–343, div. C][/us/pl/110/343], to which such amendment relates, see [section 211(d) of Pub. L. 113–295][/us/pl/113/295/s211/d], set out as a note under [section 143 of this title][/us/usc/t26/s143].
+
+    Amendment by [section 212(b) of Pub. L. 113–295][/us/pl/113/295/s212/b] effective as if included in the provisions of the Housing Assistance Tax Act of 2008, [Pub. L. 110–289, div. C][/us/pl/110/289], to which such amendment relates, see [section 212(d) of Pub. L. 113–295][/us/pl/113/295/s212/d], set out as a note under [section 42 of this title][/us/usc/t26/s42].
+
+[Pub. L. 113–295, div. A, title II, § 214(c)][/us/pl/113/295/s214/c], Dec. 19, 2014, [128 Stat. 4034][/us/stat/128/4034], provided that: 
+
+> “The amendments made by this section \[amending this section and [section 6213 of this title][/us/usc/t26/s6213]\] shall take effect as if included in the provisions of the Economic Stimulus Act of 2008 \[[Pub. L. 110–185][/us/pl/110/185]\] to which they relate.”
 
  __Effective Date of 2013 Amendment__ 
 
@@ -6011,6 +6115,8 @@
 [/us/stat/124/3304-3306]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3304-3306
 [/us/pl/112/240]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F240
 [/us/stat/126/2330]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F2330
+[/us/pl/113/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295
+[/us/stat/128/4015-4017]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F4015-4017
 [/us/pl/101/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508
 [/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
 [/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
@@ -6023,7 +6129,10 @@
 [/us/pl/111/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5
 [/us/pl/111/312]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F312
 [/us/pl/112/240/s331]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F240%2Fs331
+[/us/pl/113/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295
 [/us/pl/109/432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F432
+[/us/pl/113/295/s221/a/27/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs221%2Fa%2F27%2FA
+[/us/stat/128/4040]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F4040
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
@@ -6038,6 +6147,27 @@
 [/us/stat/90/1837]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1837
 [/us/pl/94/455/s1951/b/4/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1951%2Fb%2F4%2FB
 [/us/stat/90/1837]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1837
+[/us/pl/113/295/s210/g/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs210%2Fg%2F2%2FA
+[/us/pl/113/295/s121/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs121%2Fa%2F1
+[/us/pl/113/295/s121/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs121%2Fa%2F2
+[/us/pl/113/295/s122/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs122%2Fa
+[/us/pl/113/295/s211/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs211%2Fb
+[/us/pl/113/295/s123/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs123%2Fa
+[/us/pl/113/295/s210/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs210%2Fc
+[/us/pl/113/295/s124/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs124%2Fa
+[/us/pl/113/295/s125/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs125%2Fd%2F1
+[/us/pl/113/295/s125/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs125%2Fa%2F2
+[/us/pl/113/295/s125/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs125%2Fa%2F1
+[/us/pl/113/295/s214/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs214%2Fb
+[/us/pl/113/295/s125/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs125%2Fd%2F2
+[/us/pl/113/295/s210/g/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs210%2Fg%2F2%2FB
+[/us/pl/113/295/s125/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs125%2Fc%2F1
+[/us/pl/113/295/s212/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs212%2Fb
+[/us/pl/113/295/s202/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs202%2Fe
+[/us/pl/113/295/s125/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs125%2Fc%2F2
+[/us/pl/113/295/s157/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs157%2Fa
+[/us/pl/113/295/s210/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs210%2Fd
+[/us/pl/113/295/s125/d/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs125%2Fd%2F3
 [/us/pl/112/240/s311/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F240%2Fs311%2Fa
 [/us/pl/112/240/s331/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F240%2Fs331%2Fd
 [/us/pl/112/240/s312/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F240%2Fs312%2Fa
@@ -6385,6 +6515,38 @@
 [/us/pl/97/248/s209/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F248%2Fs209%2Fb
 [/us/pl/97/248/s208/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F248%2Fs208%2Fa%2F1
 [/us/pl/97/248/s208/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F248%2Fs208%2Fa%2F1
+[/us/pl/113/295/s121/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs121%2Fb
+[/us/stat/128/4015]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F4015
+[/us/pl/113/295/s122/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs122%2Fb
+[/us/stat/128/4015]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F4015
+[/us/pl/113/295/s123/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs123%2Fb
+[/us/stat/128/4015]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F4015
+[/us/pl/113/295/s124/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs124%2Fb
+[/us/stat/128/4016]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F4016
+[/us/pl/113/295/s125/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs125%2Fe
+[/us/stat/128/4017]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F4017
+[/us/pl/113/295/s157/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs157%2Fb
+[/us/stat/128/4022]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F4022
+[/us/pl/113/295/s202/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs202%2Fe
+[/us/pl/112/240]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F240
+[/us/pl/113/295/s202/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs202%2Ff
+[/us/usc/t26/s55]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs55
+[/us/pl/113/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295
+[/us/pl/110/343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F343
+[/us/pl/113/295/s210/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs210%2Fh
+[/us/usc/t26/s45]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs45
+[/us/pl/113/295/s211/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs211%2Fb
+[/us/pl/110/343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F343
+[/us/pl/113/295/s211/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs211%2Fd
+[/us/usc/t26/s143]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs143
+[/us/pl/113/295/s212/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs212%2Fb
+[/us/pl/110/289]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289
+[/us/pl/113/295/s212/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs212%2Fd
+[/us/usc/t26/s42]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs42
+[/us/pl/113/295/s214/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs214%2Fc
+[/us/stat/128/4034]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F4034
+[/us/usc/t26/s6213]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs6213
+[/us/pl/110/185]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F185
 [/us/pl/112/240/s311/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F240%2Fs311%2Fb
 [/us/stat/126/2330]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F2330
 [/us/pl/112/240/s312/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F240%2Fs312%2Fb

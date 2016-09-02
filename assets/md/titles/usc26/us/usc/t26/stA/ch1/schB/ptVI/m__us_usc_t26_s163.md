@@ -109,7 +109,7 @@
 
             (E) __Reduction in investment income during phase-in of passive loss rules__ 
 
-                Investment income of the taxpayer for any taxable year shall be reduced by the amount of the passive activity loss to which section 469(a) does not apply for such taxable year by reason of section 469(m). The preceding sentence shall not apply to any portion of such passive activity loss which is attributable to a rental real estate activity with respect to which the taxpayer actively participates (within the meaning of section 469(i)(6)) during such taxable year.
+                Investment income of the taxpayer for any taxable year shall be reduced by the amount of the passive activity loss to which section 469(a) does not apply for such taxable year by reason of section 469(m). <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  The preceding sentence shall not apply to any portion of such passive activity loss which is attributable to a rental real estate activity with respect to which the taxpayer actively participates (within the meaning of section 469(i)(6)) during such taxable year.
 
         (5) __Property held for investment__ 
 
@@ -136,114 +136,6 @@
             (C) __Terms__ 
 
                 For purposes of this paragraph, the terms “activity”, “passive activity”, and “materially participate” have the meanings given such terms by section 469.
-
-        (6) __Phase-in of disallowance__ 
-
-        In the case of any taxable year beginning in calendar years 1987 through 1990—
-
-            (A) __In general__ 
-
-            The amount of interest paid or accrued during any such taxable year which is disallowed under this subsection shall not exceed the sum of—
-
-                (i)
-
-                 the amount which would be disallowed under this subsection if—
-
-                    (I) paragraph (1) were applied by substituting “the sum of the ceiling amount and the net investment income” for “the net investment income”, and
-
-                    (II) paragraphs (4)(E) and (5)(A)(ii) did not apply, and
-
-                (ii)
-
-                 the applicable percentage of the excess of—
-
-                    (I) the amount which (without regard to this paragraph) is not allowable as a deduction under this subsection for the taxable year, over
-
-                    (II) the amount described in clause (i).
-
-                The preceding sentence shall not apply to any interest treated as paid or accrued during the taxable year under paragraph (2).
-
-            (B) __Applicable percentage__ 
-
-                For purposes of this paragraph, the applicable percentage shall be determined in accordance with the following table:
-
-<table>
-
-                  <tr>
-
-                    <td> 
-
-                  In the case of taxable
-
-                   years beginning in:  </td>
-
-                    <td> 
-
-                The applicable
-
-                percentage is:  </td>
-
-  </tr>
-
-                  <tr>
-
-                    <td> 
-
-                    1987  </td>
-
-                    <td> 
-
-                35    </td>
-
-  </tr>
-
-                  <tr>
-
-                    <td> 
-
-                    1988  </td>
-
-                    <td> 
-
-                60    </td>
-
-  </tr>
-
-                  <tr>
-
-                    <td> 
-
-                    1989  </td>
-
-                    <td> 
-
-                80    </td>
-
-  </tr>
-
-                  <tr>
-
-                    <td> 
-
-                    1990  </td>
-
-                    <td> 
-
-                90.  </td>
-
-  </tr>
-
-                </table>
-
-            (C) __Ceiling amount__ 
-
-            For purposes of this paragraph, the term “ceiling amount” means—
-
-                (i) $10,000 in the case of a taxpayer not described in clause (ii) or (iii),
-
-                (ii) $5,000 in the case of a married individual filing a separate return, and
-
-                (iii) zero in the case of a trust.
 
     (e) __Original issue discount__ 
 
@@ -337,7 +229,7 @@
 
                 (ii) __Definitions__ 
 
-                    For purposes of clause (i), the term “disqualified yield” means the excess of the yield to maturity on the obligation over the sum referred to  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be followed by “in”. </sup></sup>  subsection (i)(1)(B) plus 1 percentage point, and the term “total return” is the amount which would have been the original issue discount on the obligation if interest described in the parenthetical in section 1273(a)(2) were included in the stated redemption price at maturity.
+                    For purposes of clause (i), the term “disqualified yield” means the excess of the yield to maturity on the obligation over the sum referred to  <sup>\[2\]</sup>  <sup><sup> 2 So in original. Probably should be followed by “in”. </sup></sup>  subsection (i)(1)(B) plus 1 percentage point, and the term “total return” is the amount which would have been the original issue discount on the obligation if interest described in the parenthetical in section 1273(a)(2) were included in the stated redemption price at maturity.
 
             (D) __Exception for S corporations__ 
 
@@ -521,7 +413,7 @@
 
                 Clause (i) shall not apply to amounts—
 
-                    (I) paid or accrued after December 31, 2013, or
+                    (I) paid or accrued after December 31, 2014, or
 
                     (II) properly allocable to any period after such date.
 
@@ -573,11 +465,7 @@
 
             (F) __Special rules for prepaid qualified mortgage insurance__ 
 
-                Any amount paid by the taxpayer for qualified mortgage insurance that is properly allocable to any mortgage the payment of which extends to periods that are after the close of the taxable year in which such amount is paid shall be chargeable to capital account and shall be treated as paid in such periods to which so allocated. No deduction shall be allowed for the unamortized balance of such account if such mortgage is satisfied before the end of its term. The preceding sentences shall not apply to amounts paid for qualified mortgage insurance provided by the Veterans Administration or the Rural Housing Administration.
-
-        (5) __Phase-in of limitation__ 
-
-            In the case of any taxable year beginning in calendar years 1987 through 1990, the amount of interest with respect to which a deduction is disallowed under this subsection shall be equal to the applicable percentage (within the meaning of subsection (d)(6)(B)) of the amount which (but for this paragraph) would have been so disallowed.
+                Any amount paid by the taxpayer for qualified mortgage insurance that is properly allocable to any mortgage the payment of which extends to periods that are after the close of the taxable year in which such amount is paid shall be chargeable to capital account and shall be treated as paid in such periods to which so allocated. No deduction shall be allowed for the unamortized balance of such account if such mortgage is satisfied before the end of its term. The preceding sentences shall not apply to amounts paid for qualified mortgage insurance provided by the Department of Veterans Affairs or the Rural Housing Service.
 
     (i) __Applicable high yield discount obligation__ 
 
@@ -877,7 +765,7 @@
 
     (m) __Interest on unpaid taxes attributable to nondisclosed reportable transactions__ 
 
-        No deduction shall be allowed under this chapter for any interest paid or accrued under section 6601 on any underpayment of tax which is attributable to the portion of any reportable transaction understatement (as defined in section 6662A(b)) with respect to which the requirement of section 6664(d)(2)(A)  <sup>\[2\]</sup>  <sup><sup> 2 See References in Text note below. </sup></sup>  is not met.
+        No deduction shall be allowed under this chapter for any interest paid or accrued under section 6601 on any underpayment of tax which is attributable to the portion of any reportable transaction understatement (as defined in section 6662A(b)) with respect to which the requirement of section 6664(d)(2)(A) 1 is not met.
 
     (n) __Cross references__ 
 
@@ -891,15 +779,25 @@
 
         (5) For treatment of redeemable ground rents and real property held subject to liabilities under redeemable ground rents, see section 1055.
 
-([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 46][/us/stat/68A/46]; [Pub. L. 88–9, § 1(a)][/us/pl/88/9/s1/a], (c), Apr. 10, 1963, [77 Stat. 6][/us/stat/77/6], 7; [Pub. L. 88–272, title II, § 224(c)][/us/pl/88/272/s224/c], Feb. 26, 1964, [78 Stat. 79][/us/stat/78/79]; [Pub. L. 91–172, title II, § 221(a)][/us/pl/91/172/s221/a], Dec. 30, 1969, [83 Stat. 574][/us/stat/83/574]; [Pub. L. 92–178, title III, § 304(a)(2)][/us/pl/92/178/s304/a/2], (b)(2), (d), Dec. 10, 1971, [85 Stat. 523][/us/stat/85/523], 524; [Pub. L. 94–455, title II][/us/pl/94/455], §§ 205(c)(3), 209(a), title XIX, §§ 1901(b)(3)(K), (8)(C), 1906(b)(13)(A), Oct. 4, 1976, [90 Stat. 1535][/us/stat/90/1535], 1542, 1793, 1794, 1834; [Pub. L. 97–248, title II, § 231(b)][/us/pl/97/248/s231/b], title III, § 310(b)(2), Sept. 3, 1982, [96 Stat. 498][/us/stat/96/498], 596; [Pub. L. 97–354, § 5(a)(18)][/us/pl/97/354/s5/a/18], Oct. 19, 1982, [96 Stat. 1693][/us/stat/96/1693]; [Pub. L. 98–369, div. A, title I][/us/pl/98/369], §§ 42(a)(3), 56(b), 127(f), 128(c), title VI, § 612(c), July 18, 1984, [98 Stat. 556][/us/stat/98/556], 574, 652, 654, 911; [Pub. L. 99–514, title V, § 511(a)][/us/pl/99/514/s511/a], (b), title IX, § 902(e)(1), title XIII, § 1301(j)(3), title XVIII, §§ 1803(a)(4), 1810(e)(1), Oct. 22, 1986, [100 Stat. 2244][/us/stat/100/2244], 2246, 2382, 2657, 2793, 2825; [Pub. L. 100–203, title X][/us/pl/100/203], §§ 10102(a), (b), 10212(b), Dec. 22, 1987, [101 Stat. 1330–384][/us/stat/101/1330-384], 1330–386, 1330–406; [Pub. L. 100–647, title I][/us/pl/100/647], §§ 1005(c)(1)–(9), (12), 1006(u)(1), 1009(b)(6), title II, § 2004(b)(1), Nov. 10, 1988, [102 Stat. 3390–3392][/us/stat/102/3390-3392], 3427, 3449, 3598; [Pub. L. 101–239, title VII][/us/pl/101/239], §§ 7202(a), (b), 7210(a), Dec. 19, 1989, [103 Stat. 2330][/us/stat/103/2330], 2331, 2339; [Pub. L. 101–508, title XI, § 11701(b)][/us/pl/101/508/s11701/b], (c), Nov. 5, 1990, [104 Stat. 1388–507][/us/stat/104/1388-507]; [Pub. L. 103–66, title XIII][/us/pl/103/66], §§ 13206(d)(1), 13228(a)–(c), Aug. 10, 1993, [107 Stat. 467][/us/stat/107/467], 494, 495; [Pub. L. 104–188, title I][/us/pl/104/188], §§ 1703(n)(4), 1704(f)(2)(A), (B), Aug. 20, 1996, [110 Stat. 1877][/us/stat/110/1877], 1879; [Pub. L. 105–34, title III, § 312(d)(1)][/us/pl/105/34/s312/d/1], title V, § 503(b)(2), title X, § 1005(a), title XVI, § 1604(g)(1), Aug. 5, 1997, [111 Stat. 839][/us/stat/111/839], 853, 911, 1099; [Pub. L. 105–277, div. J, title IV, § 4003(a)(1)][/us/pl/105/277/s4003/a/1], Oct. 21, 1998, [112 Stat. 2681–908][/us/stat/112/2681-908]; [Pub. L. 106–170, title V, § 544][/us/pl/106/170/s544], Dec. 17, 1999, [113 Stat. 1944][/us/stat/113/1944]; [Pub. L. 108–27, title III, § 302(b)][/us/pl/108/27/s302/b], May 28, 2003, [117 Stat. 762][/us/stat/117/762]; [Pub. L. 108–357, title VIII][/us/pl/108/357], §§ 838(a), 841(a), 845(a)–(d), Oct. 22, 2004, [118 Stat. 1596][/us/stat/118/1596], 1597, 1600, 1601; [Pub. L. 109–135, title IV, § 403(a)(15)][/us/pl/109/135/s403/a/15], Dec. 21, 2005, [119 Stat. 2619][/us/stat/119/2619]; [Pub. L. 109–222, title V, § 501(a)][/us/pl/109/222/s501/a], (b), May 17, 2006, [120 Stat. 354][/us/stat/120/354]; [Pub. L. 109–432, div. A, title IV, § 419(a)][/us/pl/109/432/s419/a], (b), Dec. 20, 2006, [120 Stat. 2967][/us/stat/120/2967]; [Pub. L. 110–142, § 3(a)][/us/pl/110/142/s3/a], Dec. 20, 2007, [121 Stat. 1804][/us/stat/121/1804]; [Pub. L. 111–5, div. B, title I, § 1232(a)][/us/pl/111/5/s1232/a], (b), Feb. 17, 2009, [123 Stat. 341][/us/stat/123/341]; [Pub. L. 111–147, title V, § 502(a)(1)][/us/pl/111/147/s502/a/1], (2)(B), (C), (c), Mar. 18, 2010, [124 Stat. 107][/us/stat/124/107], 108; [Pub. L. 111–312, title VII, § 759(a)][/us/pl/111/312/s759/a], Dec. 17, 2010, [124 Stat. 3323][/us/stat/124/3323]; [Pub. L. 112–240, title II, § 204(a)][/us/pl/112/240/s204/a], (b), Jan. 2, 2013, [126 Stat. 2323][/us/stat/126/2323].)
+([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 46][/us/stat/68A/46]; [Pub. L. 88–9, § 1(a)][/us/pl/88/9/s1/a], (c), Apr. 10, 1963, [77 Stat. 6][/us/stat/77/6], 7; [Pub. L. 88–272, title II, § 224(c)][/us/pl/88/272/s224/c], Feb. 26, 1964, [78 Stat. 79][/us/stat/78/79]; [Pub. L. 91–172, title II, § 221(a)][/us/pl/91/172/s221/a], Dec. 30, 1969, [83 Stat. 574][/us/stat/83/574]; [Pub. L. 92–178, title III, § 304(a)(2)][/us/pl/92/178/s304/a/2], (b)(2), (d), Dec. 10, 1971, [85 Stat. 523][/us/stat/85/523], 524; [Pub. L. 94–455, title II][/us/pl/94/455], §§ 205(c)(3), 209(a), title XIX, §§ 1901(b)(3)(K), (8)(C), 1906(b)(13)(A), Oct. 4, 1976, [90 Stat. 1535][/us/stat/90/1535], 1542, 1793, 1794, 1834; [Pub. L. 97–248, title II, § 231(b)][/us/pl/97/248/s231/b], title III, § 310(b)(2), Sept. 3, 1982, [96 Stat. 498][/us/stat/96/498], 596; [Pub. L. 97–354, § 5(a)(18)][/us/pl/97/354/s5/a/18], Oct. 19, 1982, [96 Stat. 1693][/us/stat/96/1693]; [Pub. L. 98–369, div. A, title I][/us/pl/98/369], §§ 42(a)(3), 56(b), 127(f), 128(c), title VI, § 612(c), July 18, 1984, [98 Stat. 556][/us/stat/98/556], 574, 652, 654, 911; [Pub. L. 99–514, title V, § 511(a)][/us/pl/99/514/s511/a], (b), title IX, § 902(e)(1), title XIII, § 1301(j)(3), title XVIII, §§ 1803(a)(4), 1810(e)(1), Oct. 22, 1986, [100 Stat. 2244][/us/stat/100/2244], 2246, 2382, 2657, 2793, 2825; [Pub. L. 100–203, title X][/us/pl/100/203], §§ 10102(a), (b), 10212(b), Dec. 22, 1987, [101 Stat. 1330–384][/us/stat/101/1330-384], 1330–386, 1330–406; [Pub. L. 100–647, title I][/us/pl/100/647], §§ 1005(c)(1)–(9), (12), 1006(u)(1), 1009(b)(6), title II, § 2004(b)(1), Nov. 10, 1988, [102 Stat. 3390–3392][/us/stat/102/3390-3392], 3427, 3449, 3598; [Pub. L. 101–239, title VII][/us/pl/101/239], §§ 7202(a), (b), 7210(a), Dec. 19, 1989, [103 Stat. 2330][/us/stat/103/2330], 2331, 2339; [Pub. L. 101–508, title XI, § 11701(b)][/us/pl/101/508/s11701/b], (c), Nov. 5, 1990, [104 Stat. 1388–507][/us/stat/104/1388-507]; [Pub. L. 103–66, title XIII][/us/pl/103/66], §§ 13206(d)(1), 13228(a)–(c), Aug. 10, 1993, [107 Stat. 467][/us/stat/107/467], 494, 495; [Pub. L. 104–188, title I][/us/pl/104/188], §§ 1703(n)(4), 1704(f)(2)(A), (B), Aug. 20, 1996, [110 Stat. 1877][/us/stat/110/1877], 1879; [Pub. L. 105–34, title III, § 312(d)(1)][/us/pl/105/34/s312/d/1], title V, § 503(b)(2), title X, § 1005(a), title XVI, § 1604(g)(1), Aug. 5, 1997, [111 Stat. 839][/us/stat/111/839], 853, 911, 1099; [Pub. L. 105–277, div. J, title IV, § 4003(a)(1)][/us/pl/105/277/s4003/a/1], Oct. 21, 1998, [112 Stat. 2681–908][/us/stat/112/2681-908]; [Pub. L. 106–170, title V, § 544][/us/pl/106/170/s544], Dec. 17, 1999, [113 Stat. 1944][/us/stat/113/1944]; [Pub. L. 108–27, title III, § 302(b)][/us/pl/108/27/s302/b], May 28, 2003, [117 Stat. 762][/us/stat/117/762]; [Pub. L. 108–357, title VIII][/us/pl/108/357], §§ 838(a), 841(a), 845(a)–(d), Oct. 22, 2004, [118 Stat. 1596][/us/stat/118/1596], 1597, 1600, 1601; [Pub. L. 109–135, title IV, § 403(a)(15)][/us/pl/109/135/s403/a/15], Dec. 21, 2005, [119 Stat. 2619][/us/stat/119/2619]; [Pub. L. 109–222, title V, § 501(a)][/us/pl/109/222/s501/a], (b), May 17, 2006, [120 Stat. 354][/us/stat/120/354]; [Pub. L. 109–432, div. A, title IV, § 419(a)][/us/pl/109/432/s419/a], (b), Dec. 20, 2006, [120 Stat. 2967][/us/stat/120/2967]; [Pub. L. 110–142, § 3(a)][/us/pl/110/142/s3/a], Dec. 20, 2007, [121 Stat. 1804][/us/stat/121/1804]; [Pub. L. 111–5, div. B, title I, § 1232(a)][/us/pl/111/5/s1232/a], (b), Feb. 17, 2009, [123 Stat. 341][/us/stat/123/341]; [Pub. L. 111–147, title V, § 502(a)(1)][/us/pl/111/147/s502/a/1], (2)(B), (C), (c), Mar. 18, 2010, [124 Stat. 107][/us/stat/124/107], 108; [Pub. L. 111–312, title VII, § 759(a)][/us/pl/111/312/s759/a], Dec. 17, 2010, [124 Stat. 3323][/us/stat/124/3323]; [Pub. L. 112–240, title II, § 204(a)][/us/pl/112/240/s204/a], (b), Jan. 2, 2013, [126 Stat. 2323][/us/stat/126/2323]; [Pub. L. 113–295, div. A, title I, § 104(a)][/us/pl/113/295/s104/a], title II, §§ 220(h), 221(a)(25)(A), Dec. 19, 2014, [128 Stat. 4013][/us/stat/128/4013], 4036, 4040.)
 
  __References in Text__ 
+
+    Section 469(m), referred to in subsec. (d)(4)(E), was repealed by [Pub. L. 113–295, div. A, title II, § 221(a)(60)(A)][/us/pl/113/295/s221/a/60/A], Dec. 19, 2014, [128 Stat. 4047][/us/stat/128/4047].
 
     The date of the enactment of this subparagraph, referred to in subsec. (h)(4)(E)(ii), is the date of enactment of [Pub. L. 109–432][/us/pl/109/432], which was approved Dec. 20, 2006.
 
     Section 6664(d)(2)(A), referred to in subsec. (m), was redesignated as section 6664(d)(3)(A) by [Pub. L. 111–152, title I, § 1409(c)(2)(A)][/us/pl/111/152/s1409/c/2/A], Mar. 30, 2010, [124 Stat. 1069][/us/stat/124/1069].
 
  __Amendments__ 
+
+    2014—Subsec. (d)(6). [Pub. L. 113–295, § 221(a)(25)(A)(i)][/us/pl/113/295/s221/a/25/A/i], struck out par. (6) which related to phase-in of disallowance.
+
+    Subsec. (h)(3)(E)(iv)(I). [Pub. L. 113–295, § 104(a)][/us/pl/113/295/s104/a], substituted “December 31, 2014” for “December 31, 2013”.
+
+    Subsec. (h)(4)(F). [Pub. L. 113–295, § 220(h)][/us/pl/113/295/s220/h], substituted “Department of Veterans Affairs or the Rural Housing Service” for “Veterans Administration or the Rural Housing Administration”.
+
+    Subsec. (h)(5). [Pub. L. 113–295, § 221(a)(25)(A)(ii)][/us/pl/113/295/s221/a/25/A/ii], struck out par. (5). Text read as follows: “In the case of any taxable year beginning in calendar years 1987 through 1990, the amount of interest with respect to which a deduction is disallowed under this subsection shall be equal to the applicable percentage (within the meaning of subsection (d)(6)(B)) of the amount which (but for this paragraph) would have been so disallowed.”
 
     2013—Subsec. (h)(3)(E)(iv)(I). [Pub. L. 112–240, § 204(a)][/us/pl/112/240/s204/a], substituted “December 31, 2013” for “December 31, 2011”.
 
@@ -1173,9 +1071,13 @@
 
     1963—Subsecs. (c), (d). [Pub. L. 88–9, § 1(a)][/us/pl/88/9/s1/a], (c), added subsec. (c), redesignated former subsec. (c) as (d) and added par. (5).
 
- __Change of Name__ 
+ __Effective Date of 2014 Amendment__ 
 
-    The Veterans’ Administration was redesignated the Department of Veterans Affairs by [Pub. L. 100–527][/us/pl/100/527] which also provided that references to the Veterans’ Administration were deemed to refer to the Department of Veterans Affairs. See sections 2 and 10 of [Pub. L. 100–527][/us/pl/100/527], set out in a Department of Veterans Affairs Act note under [section 301 of Title 38][/us/usc/t38/s301], Veterans’ Benefits.
+[Pub. L. 113–295, div. A, title I, § 104(b)][/us/pl/113/295/s104/b], Dec. 19, 2014, [128 Stat. 4013][/us/stat/128/4013], provided that: 
+
+> “The amendment made by this section \[amending this section\] shall apply to amounts paid or accrued after December 31, 2013.”
+
+    Amendment by [section 221(a)(25)(A) of Pub. L. 113–295][/us/pl/113/295/s221/a/25/A] effective Dec. 19, 2014, subject to a savings provision, see [section 221(b) of Pub. L. 113–295][/us/pl/113/295/s221/b], set out as a note under [section 1 of this title][/us/usc/t26/s1].
 
  __Effective Date of 2013 Amendment__ 
 
@@ -1577,9 +1479,17 @@
 [/us/stat/124/3323]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3323
 [/us/pl/112/240/s204/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F240%2Fs204%2Fa
 [/us/stat/126/2323]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F2323
+[/us/pl/113/295/s104/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs104%2Fa
+[/us/stat/128/4013]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F4013
+[/us/pl/113/295/s221/a/60/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs221%2Fa%2F60%2FA
+[/us/stat/128/4047]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F4047
 [/us/pl/109/432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F432
 [/us/pl/111/152/s1409/c/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F152%2Fs1409%2Fc%2F2%2FA
 [/us/stat/124/1069]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1069
+[/us/pl/113/295/s221/a/25/A/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs221%2Fa%2F25%2FA%2Fi
+[/us/pl/113/295/s104/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs104%2Fa
+[/us/pl/113/295/s220/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs220%2Fh
+[/us/pl/113/295/s221/a/25/A/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs221%2Fa%2F25%2FA%2Fii
 [/us/pl/112/240/s204/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F240%2Fs204%2Fa
 [/us/pl/112/240/s204/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F240%2Fs204%2Fb
 [/us/pl/111/147/s502/a/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F147%2Fs502%2Fa%2F2%2FB
@@ -1696,9 +1606,11 @@
 [/us/pl/91/172]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F172
 [/us/pl/88/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F272
 [/us/pl/88/9/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F9%2Fs1%2Fa
-[/us/pl/100/527]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F527
-[/us/pl/100/527]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F527
-[/us/usc/t38/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs301
+[/us/pl/113/295/s104/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs104%2Fb
+[/us/stat/128/4013]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F4013
+[/us/pl/113/295/s221/a/25/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs221%2Fa%2F25%2FA
+[/us/pl/113/295/s221/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs221%2Fb
+[/us/usc/t26/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs1
 [/us/pl/112/240/s204/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F240%2Fs204%2Fc
 [/us/stat/126/2323]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F2323
 [/us/pl/111/312/s759/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F312%2Fs759%2Fb

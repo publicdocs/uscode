@@ -409,9 +409,7 @@
 
     Amendment by [section 1313(b)(2) of Pub. L. 94–455][/us/pl/94/455/s1313/b/2] applicable on day following Oct. 4, 1976, see [section 1313(d) of Pub. L. 94–455][/us/pl/94/455/s1313/d], set out as a note under [section 501 of this title][/us/usc/t26/s501].
 
-    Amendment by [section 1902(a)(4) of Pub. L. 94–455][/us/pl/94/455/s1902/a/4] applicable in the case of estates of decedents dying after Oct. 4, 1976, see [section 1902(c)(1) of Pub. L. 94–455][/us/pl/94/455/s1902/c/1], set out as a note under [section 2011 of this title][/us/usc/t26/s2011].
-
-    Amendment by [section 1902(a)(12)(A) of Pub. L. 94–455][/us/pl/94/455/s1902/a/12/A] applicable with respect to gifts made after Dec. 31, 1976, see [section 1902(c)(2) of Pub. L. 94–455][/us/pl/94/455/s1902/c/2], set out as a note under [section 2501 of this title][/us/usc/t26/s2501].
+    Amendment by section 1902(a)(4), (12)(A) of [Pub. L. 94–455][/us/pl/94/455] applicable in the case of estates of decedents dying after Oct. 4, 1976, see [section 1902(c)(1) of Pub. L. 94–455][/us/pl/94/455/s1902/c/1], set out as a note under [section 2012 of this title][/us/usc/t26/s2012].
 
     Amendment by section 2009(b)(4)(B), (C) of [Pub. L. 94–455][/us/pl/94/455] applicable with respect to transfers creating an interest in person disclaiming made after Dec. 31, 1976, see [section 2009(e)(2) of Pub. L. 94–455][/us/pl/94/455/s2009/e/2], set out as a note under [section 2518 of this title][/us/usc/t26/s2518].
 
@@ -641,12 +639,9 @@
 [/us/pl/94/455/s1313/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1313%2Fb%2F2
 [/us/pl/94/455/s1313/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1313%2Fd
 [/us/usc/t26/s501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs501
-[/us/pl/94/455/s1902/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1902%2Fa%2F4
+[/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455
 [/us/pl/94/455/s1902/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1902%2Fc%2F1
-[/us/usc/t26/s2011]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs2011
-[/us/pl/94/455/s1902/a/12/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1902%2Fa%2F12%2FA
-[/us/pl/94/455/s1902/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1902%2Fc%2F2
-[/us/usc/t26/s2501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs2501
+[/us/usc/t26/s2012]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs2012
 [/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455
 [/us/pl/94/455/s2009/e/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs2009%2Fe%2F2
 [/us/usc/t26/s2518]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs2518

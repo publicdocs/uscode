@@ -49,9 +49,25 @@
 
         Any person who is a tax return preparer with respect to any return or claim for refund who fails to comply with due diligence requirements imposed by the Secretary by regulations with respect to determining eligibility for, or the amount of, the credit allowable by section 32 shall pay a penalty of $500 for each such failure.
 
-(Added [Pub. L. 94–455, title XII, § 1203(f)][/us/pl/94/455/s1203/f], Oct. 4, 1976, [90 Stat. 1692][/us/stat/90/1692]; amended [Pub. L. 95–600, title VII, § 701(cc)(1)][/us/pl/95/600/s701/cc/1], Nov. 6, 1978, [92 Stat. 2923][/us/stat/92/2923]; [Pub. L. 98–369, div. A, title I, § 179(b)(2)][/us/pl/98/369/s179/b/2], July 18, 1984, [98 Stat. 718][/us/stat/98/718]; [Pub. L. 99–44, § 1(b)][/us/pl/99/44/s1/b], May 24, 1985, [99 Stat. 77][/us/stat/99/77]; [Pub. L. 101–239, title VII, § 7733(a)][/us/pl/101/239/s7733/a]–(d), Dec. 19, 1989, [103 Stat. 2402][/us/stat/103/2402], 2403; [Pub. L. 105–34, title X, § 1085(a)(2)][/us/pl/105/34/s1085/a/2], Aug. 5, 1997, [111 Stat. 956][/us/stat/111/956]; [Pub. L. 110–28, title VIII, § 8246(a)(2)(G)(i)][/us/pl/110/28/s8246/a/2/G/i], (ii), May 25, 2007, [121 Stat. 202][/us/stat/121/202]; [Pub. L. 112–41, title V, § 501(a)][/us/pl/112/41/s501/a], Oct. 21, 2011, [125 Stat. 459][/us/stat/125/459].)
+    (h) __Adjustment for inflation__ 
+
+        (1) __In general__ 
+
+            In the case of any failure relating to a return or claim for refund filed in a calendar year beginning after 2014, each of the dollar amounts under subsections (a), (b), (c), (d), (e), (f), and (g) shall be increased by such dollar amount multiplied by the cost-of-living adjustment determined under section 1(f)(3) determined by substituting “calendar year 2013” for “calendar year 1992” in subparagraph (B) thereof.
+
+        (2) __Rounding__ 
+
+        If any amount adjusted under subparagraph (A)—  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be “paragraph (1)—”. </sup></sup> 
+
+            (A) is not less than $5,000 and is not a multiple of $500, such amount shall be rounded to the next lowest multiple of $500, and
+
+            (B) is not described in clause (i)  <sup>\[2\]</sup>  <sup><sup> 2 So in original. Probably should be “subparagraph (A)”. </sup></sup>  and is not a multiple of $5, such amount shall be rounded to the next lowest multiple of $5.
+
+(Added [Pub. L. 94–455, title XII, § 1203(f)][/us/pl/94/455/s1203/f], Oct. 4, 1976, [90 Stat. 1692][/us/stat/90/1692]; amended [Pub. L. 95–600, title VII, § 701(cc)(1)][/us/pl/95/600/s701/cc/1], Nov. 6, 1978, [92 Stat. 2923][/us/stat/92/2923]; [Pub. L. 98–369, div. A, title I, § 179(b)(2)][/us/pl/98/369/s179/b/2], July 18, 1984, [98 Stat. 718][/us/stat/98/718]; [Pub. L. 99–44, § 1(b)][/us/pl/99/44/s1/b], May 24, 1985, [99 Stat. 77][/us/stat/99/77]; [Pub. L. 101–239, title VII, § 7733(a)][/us/pl/101/239/s7733/a]–(d), Dec. 19, 1989, [103 Stat. 2402][/us/stat/103/2402], 2403; [Pub. L. 105–34, title X, § 1085(a)(2)][/us/pl/105/34/s1085/a/2], Aug. 5, 1997, [111 Stat. 956][/us/stat/111/956]; [Pub. L. 110–28, title VIII, § 8246(a)(2)(G)(i)][/us/pl/110/28/s8246/a/2/G/i], (ii), May 25, 2007, [121 Stat. 202][/us/stat/121/202]; [Pub. L. 112–41, title V, § 501(a)][/us/pl/112/41/s501/a], Oct. 21, 2011, [125 Stat. 459][/us/stat/125/459]; [Pub. L. 113–295, div. B, title II, § 208(c)][/us/pl/113/295/s208/c], Dec. 19, 2014, [128 Stat. 4073][/us/stat/128/4073].)
 
  __Amendments__ 
+
+    2014—Subsec. (h). [Pub. L. 113–295][/us/pl/113/295] added subsec. (h).
 
     2011—Subsec. (g). [Pub. L. 112–41][/us/pl/112/41] substituted “$500” for “$100”.
 
@@ -80,6 +96,10 @@
     1984—Subsec. (b). [Pub. L. 98–369][/us/pl/98/369] amended subsec. (b) generally, substituting provisions dealing with failure to inform taxpayer of certain recordkeeping requirements of [section 274(d) of this title][/us/usc/t26/s274/d] or to sign returns, for provisions dealing with failure to sign returns. See 1985 Amendment note above.
 
     1978—Subsec. (f). [Pub. L. 95–600][/us/pl/95/600] inserted provision relating to deposits by a bank.
+
+ __Effective Date of 2014 Amendment__ 
+
+    Amendment by [Pub. L. 113–295][/us/pl/113/295] applicable to returns required to be filed after Dec. 31, 2014, see [section 208(h) of Pub. L. 113–295][/us/pl/113/295/s208/h], set out as a note under [section 6651 of this title][/us/usc/t26/s6651].
 
  __Effective Date of 2011 Amendment__ 
 
@@ -140,6 +160,9 @@
 [/us/stat/121/202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F202
 [/us/pl/112/41/s501/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F41%2Fs501%2Fa
 [/us/stat/125/459]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F459
+[/us/pl/113/295/s208/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs208%2Fc
+[/us/stat/128/4073]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F4073
+[/us/pl/113/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295
 [/us/pl/112/41]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F41
 [/us/pl/110/28/s8246/a/2/G/i/I]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F28%2Fs8246%2Fa%2F2%2FG%2Fi%2FI
 [/us/pl/110/28/s8246/a/2/G/i/II]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F28%2Fs8246%2Fa%2F2%2FG%2Fi%2FII
@@ -153,6 +176,9 @@
 [/us/pl/98/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369
 [/us/usc/t26/s274/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs274%2Fd
 [/us/pl/95/600]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F600
+[/us/pl/113/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295
+[/us/pl/113/295/s208/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs208%2Fh
+[/us/usc/t26/s6651]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs6651
 [/us/pl/112/41]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F41
 [/us/pl/112/41/s501/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F41%2Fs501%2Fb
 [/us/usc/t19/s3805]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs3805

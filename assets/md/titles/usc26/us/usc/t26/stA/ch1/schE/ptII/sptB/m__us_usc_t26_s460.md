@@ -269,7 +269,7 @@
 
                 (i) has a recovery period of 7 years or less, and
 
-                (ii) is placed in service after December 31, 2009, and before January 1, 2011 (January 1, 2012, in the case of property described in section 168(k)(2)(B)), or after December 31, 2012, and before January 1, 2014 (January 1, 2015, in the case of property described in section 168(k)(2)(B)).
+                (ii) is placed in service after December 31, 2009, and before January 1, 2011 (January 1, 2012, in the case of property described in section 168(k)(2)(B)), or after December 31, 2012, and before January 1, 2015 (January 1, 2016, in the case of property described in section 168(k)(2)(B)).
 
     (d) __Federal long-term contract__ 
 
@@ -389,13 +389,15 @@
 
         The Secretary shall prescribe such regulations as may be necessary or appropriate to carry out the purposes of this section, including regulations to prevent the use of related parties, pass-thru entities, intermediaries, options, or other similar arrangements to avoid the application of this section.
 
-(Added [Pub. L. 99–514, title VIII, § 804(a)][/us/pl/99/514/s804/a], Oct. 22, 1986, [100 Stat. 2358][/us/stat/100/2358]; amended [Pub. L. 100–203, title X, § 10203(a)][/us/pl/100/203/s10203/a], Dec. 22, 1987, [101 Stat. 1330–394][/us/stat/101/1330-394]; [Pub. L. 100–647, title I, § 1008(c)(1)][/us/pl/100/647/s1008/c/1], (2), (4), title V, § 5041(a)–(b)(3), (c), (d), Nov. 10, 1988, [102 Stat. 3438][/us/stat/102/3438], 3439, 3673, 3674; [Pub. L. 101–239, title VII][/us/pl/101/239], §§ 7621(a)–(c), 7811(e), 7815(e)(1), Dec. 19, 1989, [103 Stat. 2375][/us/stat/103/2375], 2376, 2408, 2419; [Pub. L. 101–508, title XI, § 11812(b)(8)][/us/pl/101/508/s11812/b/8], Nov. 5, 1990, [104 Stat. 1388–535][/us/stat/104/1388-535]; [Pub. L. 104–188, title I][/us/pl/104/188], §§ 1702(h)(15), 1704(t)(28), Aug. 20, 1996, [110 Stat. 1874][/us/stat/110/1874], 1888; [Pub. L. 105–34, title XII, § 1211(a)][/us/pl/105/34/s1211/a], (b), Aug. 5, 1997, [111 Stat. 998][/us/stat/111/998], 999; [Pub. L. 111–240, title II, § 2023(a)][/us/pl/111/240/s2023/a], Sept. 27, 2010, [124 Stat. 2559][/us/stat/124/2559]; [Pub. L. 112–240, title III, § 331(b)][/us/pl/112/240/s331/b], Jan. 2, 2013, [126 Stat. 2336][/us/stat/126/2336].)
+(Added [Pub. L. 99–514, title VIII, § 804(a)][/us/pl/99/514/s804/a], Oct. 22, 1986, [100 Stat. 2358][/us/stat/100/2358]; amended [Pub. L. 100–203, title X, § 10203(a)][/us/pl/100/203/s10203/a], Dec. 22, 1987, [101 Stat. 1330–394][/us/stat/101/1330-394]; [Pub. L. 100–647, title I, § 1008(c)(1)][/us/pl/100/647/s1008/c/1], (2), (4), title V, § 5041(a)–(b)(3), (c), (d), Nov. 10, 1988, [102 Stat. 3438][/us/stat/102/3438], 3439, 3673, 3674; [Pub. L. 101–239, title VII][/us/pl/101/239], §§ 7621(a)–(c), 7811(e), 7815(e)(1), Dec. 19, 1989, [103 Stat. 2375][/us/stat/103/2375], 2376, 2408, 2419; [Pub. L. 101–508, title XI, § 11812(b)(8)][/us/pl/101/508/s11812/b/8], Nov. 5, 1990, [104 Stat. 1388–535][/us/stat/104/1388-535]; [Pub. L. 104–188, title I][/us/pl/104/188], §§ 1702(h)(15), 1704(t)(28), Aug. 20, 1996, [110 Stat. 1874][/us/stat/110/1874], 1888; [Pub. L. 105–34, title XII, § 1211(a)][/us/pl/105/34/s1211/a], (b), Aug. 5, 1997, [111 Stat. 998][/us/stat/111/998], 999; [Pub. L. 111–240, title II, § 2023(a)][/us/pl/111/240/s2023/a], Sept. 27, 2010, [124 Stat. 2559][/us/stat/124/2559]; [Pub. L. 112–240, title III, § 331(b)][/us/pl/112/240/s331/b], Jan. 2, 2013, [126 Stat. 2336][/us/stat/126/2336]; [Pub. L. 113–295, div. A, title I, § 125(b)][/us/pl/113/295/s125/b], Dec. 19, 2014, [128 Stat. 4016][/us/stat/128/4016].)
 
  __References in Text__ 
 
     The date of the enactment of the Revenue Reconciliation Act of 1989, referred to in subsec. (e)(5), is the date of enactment of title VII of [Pub. L. 101–239][/us/pl/101/239], which was approved Dec. 19, 1989.
 
  __Amendments__ 
+
+    2014—Subsec. (c)(6)(B)(ii). [Pub. L. 113–295][/us/pl/113/295] substituted “January 1, 2015 (January 1, 2016” for “January 1, 2014 (January 1, 2015”.
 
     2013—Subsec. (c)(6)(B)(ii). [Pub. L. 112–240][/us/pl/112/240] inserted “, or after December 31, 2012, and before January 1, 2014 (January 1, 2015, in the case of property described in section 168(k)(2)(B))” before period at end.
 
@@ -500,6 +502,10 @@
     Subsec. (h). [Pub. L. 100–647, § 5041(c)][/us/pl/100/647/s5041/c], added subsec. (h).
 
     1987—Subsec. (a). [Pub. L. 100–203][/us/pl/100/203] substituted “70 percent” for “40 percent” in par. (1)(A) and in heading and text of par. (2), and “30 percent” for “60 percent” in par. (1)(B).
+
+ __Effective Date of 2014 Amendment__ 
+
+    Amendment by [Pub. L. 113–295][/us/pl/113/295] applicable to property placed in service after Dec. 31, 2013, in taxable years ending after such date, see [section 125(e) of Pub. L. 113–295][/us/pl/113/295/s125/e], set out as a note under [section 168 of this title][/us/usc/t26/s168].
 
  __Effective Date of 2013 Amendment__ 
 
@@ -696,7 +702,10 @@
 [/us/stat/124/2559]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2559
 [/us/pl/112/240/s331/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F240%2Fs331%2Fb
 [/us/stat/126/2336]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F2336
+[/us/pl/113/295/s125/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs125%2Fb
+[/us/stat/128/4016]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F4016
 [/us/pl/101/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239
+[/us/pl/113/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295
 [/us/pl/112/240]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F240
 [/us/pl/111/240]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F240
 [/us/pl/105/34/s1211/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2Fs1211%2Fb%2F1
@@ -743,6 +752,9 @@
 [/us/pl/100/647/s5041/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs5041%2Fb%2F3
 [/us/pl/100/647/s5041/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs5041%2Fc
 [/us/pl/100/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203
+[/us/pl/113/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295
+[/us/pl/113/295/s125/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs125%2Fe
+[/us/usc/t26/s168]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs168
 [/us/pl/112/240]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F240
 [/us/pl/112/240/s331/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F240%2Fs331%2Ff
 [/us/usc/t26/s168]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs168

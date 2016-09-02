@@ -39,17 +39,15 @@
 
         The amount to be assessed and collected in the same manner as a deficiency, or to be refunded or credited in the same manner as an overpayment, under this part, shall not be diminished by any credit or set-off based upon any item other than the one which was the subject of the adjustment. The amount of the adjustment under this part, if paid, shall not be recovered by a claim or suit for refund or suit for erroneous refund based upon any item other than the one which was the subject of the adjustment.
 
-    (d) __Periods for which adjustments may be made__ 
-
-        No adjustment shall be made under this part in respect of any taxable year beginning prior to January 1, 1932.
-
-    (e) __Taxes imposed by subtitle C__ 
+    (d) __Taxes imposed by subtitle C__ 
 
         This part shall not apply to any tax imposed by subtitle C (sec. 3101 and following relating to employment taxes).
 
-([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 340][/us/stat/68A/340]; [Pub. L. 85–866, title I, § 59(b)][/us/pl/85/866/s59/b], Sept. 2, 1958, [72 Stat. 1647][/us/stat/72/1647]; [Pub. L. 89–44, title VIII, § 809(d)(5)(B)][/us/pl/89/44/s809/d/5/B], June 21, 1965, [79 Stat. 168][/us/stat/79/168]; [Pub. L. 91–172, title V, § 512(f)(7)][/us/pl/91/172/s512/f/7], (8), Dec. 30, 1969, [83 Stat. 641][/us/stat/83/641], 642; [Pub. L. 94–455, title XIX, § 1906(b)(13)(A)][/us/pl/94/455/s1906/b/13/A], Oct. 4, 1976, [90 Stat. 1834][/us/stat/90/1834].)
+([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 340][/us/stat/68A/340]; [Pub. L. 85–866, title I, § 59(b)][/us/pl/85/866/s59/b], Sept. 2, 1958, [72 Stat. 1647][/us/stat/72/1647]; [Pub. L. 89–44, title VIII, § 809(d)(5)(B)][/us/pl/89/44/s809/d/5/B], June 21, 1965, [79 Stat. 168][/us/stat/79/168]; [Pub. L. 91–172, title V, § 512(f)(7)][/us/pl/91/172/s512/f/7], (8), Dec. 30, 1969, [83 Stat. 641][/us/stat/83/641], 642; [Pub. L. 94–455, title XIX, § 1906(b)(13)(A)][/us/pl/94/455/s1906/b/13/A], Oct. 4, 1976, [90 Stat. 1834][/us/stat/90/1834]; [Pub. L. 113–295, div. A, title II, § 221(a)(87)][/us/pl/113/295/s221/a/87], Dec. 19, 2014, [128 Stat. 4050][/us/stat/128/4050].)
 
  __Amendments__ 
+
+    2014—Subsecs. (d), (e). [Pub. L. 113–295][/us/pl/113/295] redesignated subsec. (e) as (d) and struck out former subsec. (d). Prior to amendment, text read as follows “No adjustment shall be made under this part in respect of any taxable year beginning prior to January 1, 1932.”.
 
     1976—Subsec. (b). [Pub. L. 94–455][/us/pl/94/455] struck out “or his delegate” after “Secretary”.
 
@@ -60,6 +58,10 @@
     1965—Subsec. (a)(1)(A). [Pub. L. 89–44][/us/pl/89/44] struck out “(b)(1) and (3)” and inserted in lieu thereof “(b)(1), (3), and (4)”.
 
     1958—Subsec. (c). [Pub. L. 85–866][/us/pl/85/866] substituted in second sentence “The” for “Other than in the case of an adjustment resulting from a determination under section 1313(a)(4), the”.
+
+ __Effective Date of 2014 Amendment__ 
+
+    Amendment by [Pub. L. 113–295][/us/pl/113/295] effective Dec. 19, 2014, subject to a savings provision, see [section 221(b) of Pub. L. 113–295][/us/pl/113/295/s221/b], set out as a note under [section 1 of this title][/us/usc/t26/s1].
 
  __Effective Date of 1969 Amendment__ 
 
@@ -90,11 +92,17 @@
 [/us/stat/83/641]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F83%2F641
 [/us/pl/94/455/s1906/b/13/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1906%2Fb%2F13%2FA
 [/us/stat/90/1834]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1834
+[/us/pl/113/295/s221/a/87]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs221%2Fa%2F87
+[/us/stat/128/4050]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F4050
+[/us/pl/113/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295
 [/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455
 [/us/pl/91/172/s512/f/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F172%2Fs512%2Ff%2F7
 [/us/pl/91/172/s512/f/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F172%2Fs512%2Ff%2F8
 [/us/pl/89/44]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F44
 [/us/pl/85/866]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F866
+[/us/pl/113/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295
+[/us/pl/113/295/s221/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs221%2Fb
+[/us/usc/t26/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs1
 [/us/pl/91/172]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F172
 [/us/pl/91/172/s512/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F172%2Fs512%2Fg
 [/us/usc/t26/s1212]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs1212

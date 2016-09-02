@@ -955,7 +955,7 @@
 
             (A) for any incremental cost taken into account in computing the amount of the credit determined under subsection (e) shall be reduced by the amount of such credit attributable to such cost, and
 
-            (B) with respect to a vehicle described under subsection (b) or (c), shall be reduced by the amount of credit allowed under subsection (a) for such vehicle for the taxable year.
+            (B) with respect to a vehicle described under subsection (b) or (c), shall be reduced by the amount of credit allowed under subsection (a) for such vehicle for the taxable year (determined without regard to subsection (g)).
 
         (6) __Property used by tax-exempt entity__ 
 
@@ -967,7 +967,7 @@
 
         (8) __Recapture__ 
 
-            The Secretary shall, by regulations, provide for recapturing the benefit of any credit allowable under subsection (a) with respect to any property which ceases to be property eligible for such credit (including recapture in the case of a lease period of less than the economic life of a vehicle)., <sup>\[1\]</sup>  <sup><sup> 1 So in original. </sup></sup>  except that no benefit shall be recaptured if such property ceases to be eligible for such credit by reason of conversion to a qualified plug-in electric drive motor vehicle.
+            The Secretary shall, by regulations, provide for recapturing the benefit of any credit allowable under subsection (a) with respect to any property which ceases to be property eligible for such credit (including recapture in the case of a lease period of less than the economic life of a vehicle), except that no benefit shall be recaptured if such property ceases to be eligible for such credit by reason of conversion to a qualified plug-in electric drive motor vehicle.
 
         (9) __Election to not take credit__ 
 
@@ -1021,7 +1021,7 @@
 
         (4) in the case of a new qualified alternative fuel vehicle (as described in subsection (e)), December 31, 2010.
 
-(Added [Pub. L. 109–58, title XIII, § 1341(a)][/us/pl/109/58/s1341/a], Aug. 8, 2005, [119 Stat. 1038][/us/stat/119/1038]; amended [Pub. L. 109–135, title IV][/us/pl/109/135], §§ 402(j), 412(d), Dec. 21, 2005, [119 Stat. 2615][/us/stat/119/2615], 2636; [Pub. L. 110–343, div. B, title II, § 205(b)][/us/pl/110/343/s205/b], Oct. 3, 2008, [122 Stat. 3838][/us/stat/122/3838]; [Pub. L. 111–5, div. B, title I][/us/pl/111/5], §§ 1141(b)(1), 1142(b)(2), 1143(a)–(c), 1144(a), Feb. 17, 2009, [123 Stat. 328][/us/stat/123/328], 330–332; [Pub. L. 111–148, title X, § 10909(b)(2)(G)][/us/pl/111/148/s10909/b/2/G], (c), Mar. 23, 2010, [124 Stat. 1023][/us/stat/124/1023]; [Pub. L. 111–312, title I, § 101(b)(1)][/us/pl/111/312/s101/b/1], Dec. 17, 2010, [124 Stat. 3298][/us/stat/124/3298]; [Pub. L. 112–240, title I, § 104(c)(2)(H)][/us/pl/112/240/s104/c/2/H], Jan. 2, 2013, [126 Stat. 2322][/us/stat/126/2322].)
+(Added [Pub. L. 109–58, title XIII, § 1341(a)][/us/pl/109/58/s1341/a], Aug. 8, 2005, [119 Stat. 1038][/us/stat/119/1038]; amended [Pub. L. 109–135, title IV][/us/pl/109/135], §§ 402(j), 412(d), Dec. 21, 2005, [119 Stat. 2615][/us/stat/119/2615], 2636; [Pub. L. 110–343, div. B, title II, § 205(b)][/us/pl/110/343/s205/b], Oct. 3, 2008, [122 Stat. 3838][/us/stat/122/3838]; [Pub. L. 111–5, div. B, title I][/us/pl/111/5], §§ 1141(b)(1), 1142(b)(2), 1143(a)–(c), 1144(a), Feb. 17, 2009, [123 Stat. 328][/us/stat/123/328], 330–332; [Pub. L. 111–148, title X, § 10909(b)(2)(G)][/us/pl/111/148/s10909/b/2/G], (c), Mar. 23, 2010, [124 Stat. 1023][/us/stat/124/1023]; [Pub. L. 111–312, title I, § 101(b)(1)][/us/pl/111/312/s101/b/1], Dec. 17, 2010, [124 Stat. 3298][/us/stat/124/3298]; [Pub. L. 112–240, title I, § 104(c)(2)(H)][/us/pl/112/240/s104/c/2/H], Jan. 2, 2013, [126 Stat. 2322][/us/stat/126/2322]; [Pub. L. 113–295, div. A, title II][/us/pl/113/295], §§ 218(a), 220(a), Dec. 19, 2014, [128 Stat. 4035][/us/stat/128/4035].)
 
  __References in Text__ 
 
@@ -1032,6 +1032,10 @@
     The date of the enactment of the Energy Tax Incentives Act of 2005, referred to in subsec. (e)(2), is the date of enactment of title XIII of [Pub. L. 109–58][/us/pl/109/58], which was approved Aug. 8, 2005.
 
  __Amendments__ 
+
+    2014—Subsec. (h)(5)(B). [Pub. L. 113–295, § 218(a)][/us/pl/113/295/s218/a], inserted “(determined without regard to subsection (g))” before period at end.
+
+    Subsec. (h)(8). [Pub. L. 113–295, § 220(a)][/us/pl/113/295/s220/a], substituted “vehicle), except that” for “vehicle)., except that”.
 
     2013—Subsec. (g)(2). [Pub. L. 112–240][/us/pl/112/240] amended par. (2) generally. Prior to amendment, par. (2) related to personal credit with a limitation based on amount of tax.
 
@@ -1058,6 +1062,12 @@
     2005—Subsec. (g)(2)(A). [Pub. L. 109–135, § 412(d)][/us/pl/109/135/s412/d], substituted “regular tax liability (as defined in section 26(b))” for “regular tax”.
 
     Subsec. (h)(6). [Pub. L. 109–135, § 402(j)][/us/pl/109/135/s402/j], inserted at end “For purposes of subsection (g), property to which this paragraph applies shall be treated as of a character subject to an allowance for depreciation.”
+
+ __Effective Date of 2014 Amendment__ 
+
+[Pub. L. 113–295, div. A, title II, § 218(c)][/us/pl/113/295/s218/c], Dec. 19, 2014, [128 Stat. 4035][/us/stat/128/4035], provided that: 
+
+> “The amendments made by this section \[amending this section and [section 30C of this title][/us/usc/t26/s30C]\] shall take effect as if included in the provision of the Energy Tax Incentives Act of 2005 \[title XIII of [Pub. L. 109–58][/us/pl/109/58]\] to which it relates.”
 
  __Effective Date of 2013 Amendment__ 
 
@@ -1120,11 +1130,15 @@
 [/us/stat/124/3298]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3298
 [/us/pl/112/240/s104/c/2/H]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F240%2Fs104%2Fc%2F2%2FH
 [/us/stat/126/2322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F2322
+[/us/pl/113/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295
+[/us/stat/128/4035]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F4035
 [/us/act/1955-07-14/ch360]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1955-07-14%2Fch360
 [/us/stat/69/322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F69%2F322
 [/us/usc/t42/s7401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7401
 [/us/pl/109/58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58
 [/us/pl/109/58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58
+[/us/pl/113/295/s218/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs218%2Fa
+[/us/pl/113/295/s220/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs220%2Fa
 [/us/pl/112/240]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F240
 [/us/pl/111/148/s10909/b/2/G]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs10909%2Fb%2F2%2FG
 [/us/pl/111/312]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F312
@@ -1137,6 +1151,10 @@
 [/us/pl/110/343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F343
 [/us/pl/109/135/s412/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F135%2Fs412%2Fd
 [/us/pl/109/135/s402/j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F135%2Fs402%2Fj
+[/us/pl/113/295/s218/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs218%2Fc
+[/us/stat/128/4035]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F4035
+[/us/usc/t26/s30C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs30C
+[/us/pl/109/58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58
 [/us/pl/112/240]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F240
 [/us/pl/112/240/s104/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F240%2Fs104%2Fd
 [/us/usc/t26/s23]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs23

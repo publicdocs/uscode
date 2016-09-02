@@ -197,7 +197,7 @@
 
             (A) __In general__ 
 
-            In the case of taxable years beginning after December 31, 1978, this section also applies to each activity—
+            This section also applies to each activity—
 
                 (i) engaged in by the taxpayer in carrying on a trade or business or for the production of income, and
 
@@ -441,9 +441,11 @@
 
             (B) the amounts previously included in gross income with respect to such activity under this subsection.
 
-(Added [Pub. L. 94–455, title II, § 204(a)][/us/pl/94/455/s204/a], Oct. 4, 1976, [90 Stat. 1531][/us/stat/90/1531]; amended [Pub. L. 95–600, title II][/us/pl/95/600], §§ 201(a), (c)(1), 202, 203, title VII, § 701(k)(2), Nov. 6, 1978, [92 Stat. 2814][/us/stat/92/2814], 2816, 2906; [Pub. L. 95–618, title IV, § 402(d)][/us/pl/95/618/s402/d], Nov. 9, 1978, [92 Stat. 3202][/us/stat/92/3202]; [Pub. L. 96–222, title I, § 102(a)(1)(A)][/us/pl/96/222/s102/a/1/A]–(D), Apr. 1, 1980, [94 Stat. 206][/us/stat/94/206]; [Pub. L. 97–354, § 5(a)(31)][/us/pl/97/354/s5/a/31], Oct. 19, 1982, [96 Stat. 1695][/us/stat/96/1695]; [Pub. L. 98–369, div. A, title IV, § 432(a)][/us/pl/98/369/s432/a]–(c), title VII, § 721(x)(2), July 18, 1984, [98 Stat. 811–814][/us/stat/98/811-814], 971; [Pub. L. 99–514, title II, § 201(d)(7)(A)][/us/pl/99/514/s201/d/7/A], title V, § 503(a), (b), title X, § 1011(b)(1), Oct. 22, 1986, [100 Stat. 2141][/us/stat/100/2141], 2243, 2389; [Pub. L. 101–508, title XI][/us/pl/101/508], §§ 11813(b)(15), 11815(b)(3), Nov. 5, 1990, [104 Stat. 1388–555][/us/stat/104/1388-555], 1388–558; [Pub. L. 108–357, title IV, § 413(c)(7)][/us/pl/108/357/s413/c/7], Oct. 22, 2004, [118 Stat. 1507][/us/stat/118/1507].)
+(Added [Pub. L. 94–455, title II, § 204(a)][/us/pl/94/455/s204/a], Oct. 4, 1976, [90 Stat. 1531][/us/stat/90/1531]; amended [Pub. L. 95–600, title II][/us/pl/95/600], §§ 201(a), (c)(1), 202, 203, title VII, § 701(k)(2), Nov. 6, 1978, [92 Stat. 2814][/us/stat/92/2814], 2816, 2906; [Pub. L. 95–618, title IV, § 402(d)][/us/pl/95/618/s402/d], Nov. 9, 1978, [92 Stat. 3202][/us/stat/92/3202]; [Pub. L. 96–222, title I, § 102(a)(1)(A)][/us/pl/96/222/s102/a/1/A]–(D), Apr. 1, 1980, [94 Stat. 206][/us/stat/94/206]; [Pub. L. 97–354, § 5(a)(31)][/us/pl/97/354/s5/a/31], Oct. 19, 1982, [96 Stat. 1695][/us/stat/96/1695]; [Pub. L. 98–369, div. A, title IV, § 432(a)][/us/pl/98/369/s432/a]–(c), title VII, § 721(x)(2), July 18, 1984, [98 Stat. 811–814][/us/stat/98/811-814], 971; [Pub. L. 99–514, title II, § 201(d)(7)(A)][/us/pl/99/514/s201/d/7/A], title V, § 503(a), (b), title X, § 1011(b)(1), Oct. 22, 1986, [100 Stat. 2141][/us/stat/100/2141], 2243, 2389; [Pub. L. 101–508, title XI][/us/pl/101/508], §§ 11813(b)(15), 11815(b)(3), Nov. 5, 1990, [104 Stat. 1388–555][/us/stat/104/1388-555], 1388–558; [Pub. L. 108–357, title IV, § 413(c)(7)][/us/pl/108/357/s413/c/7], Oct. 22, 2004, [118 Stat. 1507][/us/stat/118/1507]; [Pub. L. 113–295, div. A, title II, § 221(a)(59)][/us/pl/113/295/s221/a/59], Dec. 19, 2014, [128 Stat. 4047][/us/stat/128/4047].)
 
  __Amendments__ 
+
+    2014—Subsec. (c)(3)(A). [Pub. L. 113–295][/us/pl/113/295] substituted “This” for “In the case of taxable years beginning after December 31, 1978, this”.
 
     2004—Subsec. (c)(7)(B). [Pub. L. 108–357][/us/pl/108/357] inserted “or” at end of cl. (i), redesignated cl. (iii) as (ii), and struck out former cl. (ii) which read as follows: “a foreign personal holding company (as defined in section 552(a)), or”.
 
@@ -502,6 +504,10 @@
     Subsec. (d). [Pub. L. 95–600, § 701(k)(2)][/us/pl/95/600/s701/k/2], substituted “(determined without regard to the first sentence of subsection (a))” for “(determined without regard to this section)”.
 
     Subsec. (e). [Pub. L. 95–600, § 203][/us/pl/95/600/s203], added subsec. (e).
+
+ __Effective Date of 2014 Amendment__ 
+
+    Amendment by [Pub. L. 113–295][/us/pl/113/295] effective Dec. 19, 2014, subject to a savings provision, see [section 221(b) of Pub. L. 113–295][/us/pl/113/295/s221/b], set out as a note under [section 1 of this title][/us/usc/t26/s1].
 
  __Effective Date of 2004 Amendment__ 
 
@@ -662,6 +668,9 @@
 [/us/stat/104/1388-555]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1388-555
 [/us/pl/108/357/s413/c/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357%2Fs413%2Fc%2F7
 [/us/stat/118/1507]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1507
+[/us/pl/113/295/s221/a/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs221%2Fa%2F59
+[/us/stat/128/4047]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F4047
+[/us/pl/113/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295
 [/us/pl/108/357]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357
 [/us/pl/101/508/s11813/b/15]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs11813%2Fb%2F15
 [/us/pl/101/508/s11815/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs11815%2Fb%2F3
@@ -697,6 +706,9 @@
 [/us/pl/95/600/s201/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F600%2Fs201%2Fa
 [/us/pl/95/600/s701/k/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F600%2Fs701%2Fk%2F2
 [/us/pl/95/600/s203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F600%2Fs203
+[/us/pl/113/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295
+[/us/pl/113/295/s221/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs221%2Fb
+[/us/usc/t26/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs1
 [/us/pl/108/357]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357
 [/us/pl/108/357/s413/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357%2Fs413%2Fd%2F1
 [/us/usc/t26/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs1

@@ -77,7 +77,9 @@
 
  __Effective Date of 2001 Amendment__ 
 
-    Amendment by [Pub. L. 107–16][/us/pl/107/16] applicable to estates of decedents dying, and generation-skipping transfers, after Dec. 31, 2004, see [section 532(d) of Pub. L. 107–16][/us/pl/107/16/s532/d], set out as a note under [section 2011 of this title][/us/usc/t26/s2011].
+[Pub. L. 107–16, title V, § 532(d)][/us/pl/107/16/s532/d], June 7, 2001, [115 Stat. 75][/us/stat/115/75], provided that: 
+
+> “The amendments made by this section \[enacting [section 2058 of this title][/us/usc/t26/s2058] and amending this section and sections 2011, 2013 to 2016, 2053, 2056A, 2102, 2106, 2107, 2201, 2604, 6511, and 6612 of this title\] shall apply to estates of decedents dying, and generation-skipping transfers, after December 31, 2004.”
 
  __Effective Date of 1981 Amendment__ 
 
@@ -85,7 +87,9 @@
 
  __Effective Date of 1976 Amendment__ 
 
-    Amendment by [section 1902(a)(1) of Pub. L. 94–455][/us/pl/94/455/s1902/a/1] applicable to estates of decedents dying after Oct. 4, 1976, see [section 1902(c)(1) of Pub. L. 94–455][/us/pl/94/455/s1902/c/1], set out as a note under [section 2011 of this title][/us/usc/t26/s2011].
+[Pub. L. 94–455, title XIX, § 1902(c)(1)][/us/pl/94/455/s1902/c/1], Oct. 4, 1976, [90 Stat. 1806][/us/stat/90/1806], as amended by [Pub. L. 95–600, title VII, § 703(j)(12)][/us/pl/95/600/s703/j/12], Nov. 6, 1978, [92 Stat. 2942][/us/stat/92/2942], provided that: 
+
+> “The amendments made by paragraphs (1) through (8), and paragraphs (12)(A), (B), and (C), of subsection (a) and by subsection (b) \[amending this section and sections 2011, 2013, 2016, 2038, 2053, 2055, 2056, 2106, 2107, 2108, 2201, 6167, and 6503 of this title, repealing [section 2202 of this title][/us/usc/t26/s2202], and enacting provisions set out as a note under [section 2201 of this title][/us/usc/t26/s2201]\] shall apply in the case of estates of decedents dying after the date of the enactment of this Act \[Oct. 4, 1976\], and the amendment made by paragraph (9) of subsection (a) \[amending [section 2204 of this title][/us/usc/t26/s2204]\] shall apply in the case of estates of decedents dying after December 31, 1970.”
 
     Amendment by section 2001(a)(3), (c)(1)(B) of [Pub. L. 94–455][/us/pl/94/455] applicable to estates of decedents dying after Dec. 31, 1976, see [section 2001(d)(1) of Pub. L. 94–455][/us/pl/94/455/s2001/d/1], set out as a note under [section 2001 of this title][/us/usc/t26/s2001].
 
@@ -120,15 +124,19 @@
 [/us/pl/91/614/s102/d/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F614%2Fs102%2Fd%2F2%2FA
 [/us/pl/91/614/s102/d/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F614%2Fs102%2Fd%2F2%2FB
 [/us/pl/91/614/s102/d/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F614%2Fs102%2Fd%2F2%2FA
-[/us/pl/107/16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F16
 [/us/pl/107/16/s532/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F16%2Fs532%2Fd
-[/us/usc/t26/s2011]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs2011
+[/us/stat/115/75]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F75
+[/us/usc/t26/s2058]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs2058
 [/us/pl/97/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F34
 [/us/pl/97/34/s403/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F34%2Fs403%2Fe
 [/us/usc/t26/s2056]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs2056
-[/us/pl/94/455/s1902/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1902%2Fa%2F1
 [/us/pl/94/455/s1902/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1902%2Fc%2F1
-[/us/usc/t26/s2011]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs2011
+[/us/stat/90/1806]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1806
+[/us/pl/95/600/s703/j/12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F600%2Fs703%2Fj%2F12
+[/us/stat/92/2942]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2942
+[/us/usc/t26/s2202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs2202
+[/us/usc/t26/s2201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs2201
+[/us/usc/t26/s2204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs2204
 [/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455
 [/us/pl/94/455/s2001/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs2001%2Fd%2F1
 [/us/usc/t26/s2001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs2001

@@ -207,21 +207,17 @@
 
             (A) __Pre-2009 credits__ 
 
-            In the case of any unused credit year beginning before January 1, 2009, this subsection shall be applied to any unused oil and gas extraction taxes carried from such unused credit year to a year beginning after December 31, 2008—
-
-                (i) by substituting “oil and gas extraction taxes” for “foreign oil and gas taxes” each place it appears in paragraphs (1), (2), and (3), and
-
-                (ii) by computing, for purposes of paragraph (2)(A), the limitation under subparagraph (A) for the year to which such taxes are carried by substituting “foreign oil and gas extraction income” for “foreign oil and gas income” in subsection (a).
+                In the case of any unused credit year beginning before January 1, 2009, this subsection, as in effect on the day before the date of the enactment of the Energy Improvement and Extension Act of 2008, shall apply to unused oil and gas extraction taxes carried from such unused credit year to a taxable year beginning after December 31, 2008.
 
             (B) __2009 credits__ 
 
                 In the case of any unused credit year beginning in 2009, the amendments made to this subsection by the Energy Improvement and Extension Act of 2008 shall be treated as being in effect for any preceding year beginning before January 1, 2009, solely for purposes of determining how much of the unused foreign oil and gas taxes for such unused credit year may be deemed paid or accrued in such preceding year.
 
-(Added [Pub. L. 94–12, title VI, § 601(a)][/us/pl/94/12/s601/a], Mar. 29, 1975, [89 Stat. 54][/us/stat/89/54]; amended [Pub. L. 94–455, title X][/us/pl/94/455], §§ 1031(b)(6), 1032(b), 1035(a), (b), (d)(1), (2), 1052(c)(4), Oct. 4, 1976, [90 Stat. 1623][/us/stat/90/1623], 1626, 1630–1632, 1648; [Pub. L. 95–600, title III, § 301(b)(14)][/us/pl/95/600/s301/b/14], title VII, § 701(u)(8)(A), (B), Nov. 6, 1978, [92 Stat. 2822][/us/stat/92/2822], 2916; [Pub. L. 97–248, title II, § 211(a)][/us/pl/97/248/s211/a]–(c)(1), (d), Sept. 3, 1982, [96 Stat. 448–450][/us/stat/96/448-450]; [Pub. L. 100–647, title I, § 1012(g)(6)][/us/pl/100/647/s1012/g/6], Nov. 10, 1988, [102 Stat. 3501][/us/stat/102/3501]; [Pub. L. 101–508, title XI, § 11801(a)(32)][/us/pl/101/508/s11801/a/32], Nov. 5, 1990, [104 Stat. 1388–521][/us/stat/104/1388-521]; [Pub. L. 103–66, title XIII, § 13235(a)(1)][/us/pl/103/66/s13235/a/1], Aug. 10, 1993, [107 Stat. 504][/us/stat/107/504]; [Pub. L. 104–188, title I, § 1704(t)(36)][/us/pl/104/188/s1704/t/36], Aug. 20, 1996, [110 Stat. 1889][/us/stat/110/1889]; [Pub. L. 108–357, title IV, § 417(b)][/us/pl/108/357/s417/b], Oct. 22, 2004, [118 Stat. 1512][/us/stat/118/1512]; [Pub. L. 110–343, div. B, title IV, § 402(a)][/us/pl/110/343/s402/a]–(c), Oct. 3, 2008, [122 Stat. 3852][/us/stat/122/3852], 3854.)
+(Added [Pub. L. 94–12, title VI, § 601(a)][/us/pl/94/12/s601/a], Mar. 29, 1975, [89 Stat. 54][/us/stat/89/54]; amended [Pub. L. 94–455, title X][/us/pl/94/455], §§ 1031(b)(6), 1032(b), 1035(a), (b), (d)(1), (2), 1052(c)(4), Oct. 4, 1976, [90 Stat. 1623][/us/stat/90/1623], 1626, 1630–1632, 1648; [Pub. L. 95–600, title III, § 301(b)(14)][/us/pl/95/600/s301/b/14], title VII, § 701(u)(8)(A), (B), Nov. 6, 1978, [92 Stat. 2822][/us/stat/92/2822], 2916; [Pub. L. 97–248, title II, § 211(a)][/us/pl/97/248/s211/a]–(c)(1), (d), Sept. 3, 1982, [96 Stat. 448–450][/us/stat/96/448-450]; [Pub. L. 100–647, title I, § 1012(g)(6)][/us/pl/100/647/s1012/g/6], Nov. 10, 1988, [102 Stat. 3501][/us/stat/102/3501]; [Pub. L. 101–508, title XI, § 11801(a)(32)][/us/pl/101/508/s11801/a/32], Nov. 5, 1990, [104 Stat. 1388–521][/us/stat/104/1388-521]; [Pub. L. 103–66, title XIII, § 13235(a)(1)][/us/pl/103/66/s13235/a/1], Aug. 10, 1993, [107 Stat. 504][/us/stat/107/504]; [Pub. L. 104–188, title I, § 1704(t)(36)][/us/pl/104/188/s1704/t/36], Aug. 20, 1996, [110 Stat. 1889][/us/stat/110/1889]; [Pub. L. 108–357, title IV, § 417(b)][/us/pl/108/357/s417/b], Oct. 22, 2004, [118 Stat. 1512][/us/stat/118/1512]; [Pub. L. 110–343, div. B, title IV, § 402(a)][/us/pl/110/343/s402/a]–(c), Oct. 3, 2008, [122 Stat. 3852][/us/stat/122/3852], 3854; [Pub. L. 113–295, div. A, title II, § 210(e)][/us/pl/113/295/s210/e], Dec. 19, 2014, [128 Stat. 4031][/us/stat/128/4031].)
 
  __References in Text__ 
 
-    The date of the enactment of the Energy Improvement and Extension Act of 2008, referred to in subsec. (c)(4)(B)(ii)(II), (D)(iv), is the date of enactment of div. B of [Pub. L. 110–343][/us/pl/110/343], which was approved Oct. 3, 2008.
+    The date of the enactment of the Energy Improvement and Extension Act of 2008, referred to in subsecs. (c)(4)(B)(ii)(II), (D)(iv), (f)(4)(A), is the date of enactment of div. B of [Pub. L. 110–343][/us/pl/110/343], which was approved Oct. 3, 2008.
 
     Section 172(h), referred to in subsec. (c)(4)(D)(iii)(I), was repealed by [Pub. L. 101–508, title XI, § 11811(b)(1)][/us/pl/101/508/s11811/b/1], Nov. 5, 1990, [104 Stat. 1388–532][/us/stat/104/1388-532].
 
@@ -230,6 +226,12 @@
     The Energy Improvement and Extension Act of 2008, referred to in subsec. (f)(4)(B), is div. B of [Pub. L. 110–343][/us/pl/110/343], Oct. 3, 2008, [122 Stat. 3807][/us/stat/122/3807]. For the amendments made to subsec. (f) of this section by the Act, see 2008 Amendment notes below.
 
  __Amendments__ 
+
+    2014—Subsec. (f)(4)(A). [Pub. L. 113–295][/us/pl/113/295] substituted “this subsection, as in effect on the day before the date of the enactment of the Energy Improvement and Extension Act of 2008, shall apply to unused oil and gas extraction taxes carried from such unused credit year to a taxable year beginning after December 31, 2008.” for “this subsection shall be applied to any unused oil and gas extraction taxes carried from such unused credit year to a year beginning after December 31, 2008—
+
+    “(i) by substituting ‘oil and gas extraction taxes’ for ‘foreign oil and gas taxes’ each place it appears in paragraphs (1), (2), and (3), and
+
+    “(ii) by computing, for purposes of paragraph (2)(A), the limitation under subparagraph (A) for the year to which such taxes are carried by substituting ‘foreign oil and gas extraction income’ for ‘foreign oil and gas income’ in subsection (a).”
 
     2008—Subsecs. (a), (b). [Pub. L. 110–343, § 402(a)][/us/pl/110/343/s402/a], amended subsecs. (a) and (b) generally. Prior to amendment, subsec. (a) related to reduction in amount of oil and gas extraction taxes paid or accrued for purposes of section 901 and subsec. (b) excepted certain amounts of foreign oil related income taxes paid or accrued to any foreign country from the definition of “income, war profits, and excess profits taxes”.
 
@@ -294,6 +296,10 @@
     Subsec. (f). [Pub. L. 94–455][/us/pl/94/455], §§ 1032(b)(2), 1035(d)(1), added subsec. (f). Former subsec. (f), relating to recapture of foreign oil related loss, was struck out.
 
     Subsec. (g). [Pub. L. 94–455][/us/pl/94/455], §§ 1032(b)(2), 1035(d)(1), 1052(c)(4), struck out subsec. (g) relating to Western Hemisphere trade corporations which are members of an affiliated group.
+
+ __Effective Date of 2014 Amendment__ 
+
+    Amendment by [Pub. L. 113–295][/us/pl/113/295] effective as if included in the provisions of the Energy Improvement and Extension Act of 2008, [Pub. L. 110–343, div. B][/us/pl/110/343], to which such amendment relates, see [section 210(h) of Pub. L. 113–295][/us/pl/113/295/s210/h], set out as a note under [section 45 of this title][/us/usc/t26/s45].
 
  __Effective Date of 2008 Amendment__ 
 
@@ -422,12 +428,15 @@
 [/us/stat/118/1512]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1512
 [/us/pl/110/343/s402/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F343%2Fs402%2Fa
 [/us/stat/122/3852]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3852
+[/us/pl/113/295/s210/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs210%2Fe
+[/us/stat/128/4031]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F4031
 [/us/pl/110/343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F343
 [/us/pl/101/508/s11811/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs11811%2Fb%2F1
 [/us/stat/104/1388-532]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1388-532
 [/us/pl/101/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508
 [/us/pl/110/343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F343
 [/us/stat/122/3807]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3807
+[/us/pl/113/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295
 [/us/pl/110/343/s402/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F343%2Fs402%2Fa
 [/us/pl/110/343/s402/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F343%2Fs402%2Fb
 [/us/pl/110/343/s402/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F343%2Fs402%2Fc%2F1
@@ -458,6 +467,10 @@
 [/us/pl/94/455/s1031/b/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1031%2Fb%2F6
 [/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455
 [/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455
+[/us/pl/113/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295
+[/us/pl/110/343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F343
+[/us/pl/113/295/s210/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs210%2Fh
+[/us/usc/t26/s45]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs45
 [/us/pl/110/343/s402/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F343%2Fs402%2Fe
 [/us/stat/122/3854]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3854
 [/us/usc/t26/s6501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs6501

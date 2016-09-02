@@ -41,9 +41,9 @@
 
         (1) The term “commissioned officer” does not include a commissioned warrant officer.
 
-        (2) The term “combat zone” means any area which the President of the United States by Executive Order designates, for purposes of this section or corresponding provisions of prior income tax laws, as an area in which Armed Forces of the United States are or have (after June 24, 1950) engaged in combat.
+        (2) The term “combat zone” means any area which the President of the United States by Executive Order designates, for purposes of this section or corresponding provisions of prior income tax laws, as an area in which Armed Forces of the United States are or have engaged in combat.
 
-        (3) Service is performed in a combat zone only if performed on or after the date designated by the President by Executive Order as the date of the commencing of combatant activities in such zone, and on or before the date designated by the President by Executive Order as the date of the termination of combatant activities in such zone; except that June 25, 1950, shall be considered the date of the commencing of combatant activities in the combat zone designated in Executive Order 10195.
+        (3) Service is performed in a combat zone only if performed on or after the date designated by the President by Executive Order as the date of the commencing of combatant activities in such zone, and on or before the date designated by the President by Executive Order as the date of the termination of combatant activities in such zone.
 
         (4) The term “compensation” does not include pensions and retirement pay.
 
@@ -69,9 +69,13 @@
 
             For purposes of this subsection, the Vietnam conflict began February 28, 1961, and ends on the date designated by the President by Executive order as the date of the termination of combatant activities in Vietnam. For purposes of this subsection, an individual is in a missing status as a result of the Vietnam conflict if immediately before such status began he was performing service in Vietnam or was performing service in Southeast Asia in direct support of military operations in Vietnam.
 
-([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 34][/us/stat/68A/34]; [Pub. L. 89–739, § 1][/us/pl/89/739/s1], Nov. 2, 1966, [80 Stat. 1165][/us/stat/80/1165]; [Pub. L. 92–279, § 1][/us/pl/92/279/s1], Apr. 26, 1972, [86 Stat. 124][/us/stat/86/124]; [Pub. L. 93–597, § 2(a)][/us/pl/93/597/s2/a], (b), Jan. 2, 1975, [88 Stat. 1950][/us/stat/88/1950]; [Pub. L. 94–569, § 3(b)][/us/pl/94/569/s3/b], Oct. 20, 1976, [90 Stat. 2699][/us/stat/90/2699]; [Pub. L. 104–117, § 1(d)][/us/pl/104/117/s1/d], Mar. 20, 1996, [110 Stat. 828][/us/stat/110/828]; [Pub. L. 104–188, title I, § 1704(t)(4)(A)][/us/pl/104/188/s1704/t/4/A], Aug. 20, 1996, [110 Stat. 1887][/us/stat/110/1887].)
+([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 34][/us/stat/68A/34]; [Pub. L. 89–739, § 1][/us/pl/89/739/s1], Nov. 2, 1966, [80 Stat. 1165][/us/stat/80/1165]; [Pub. L. 92–279, § 1][/us/pl/92/279/s1], Apr. 26, 1972, [86 Stat. 124][/us/stat/86/124]; [Pub. L. 93–597, § 2(a)][/us/pl/93/597/s2/a], (b), Jan. 2, 1975, [88 Stat. 1950][/us/stat/88/1950]; [Pub. L. 94–569, § 3(b)][/us/pl/94/569/s3/b], Oct. 20, 1976, [90 Stat. 2699][/us/stat/90/2699]; [Pub. L. 104–117, § 1(d)][/us/pl/104/117/s1/d], Mar. 20, 1996, [110 Stat. 828][/us/stat/110/828]; [Pub. L. 104–188, title I, § 1704(t)(4)(A)][/us/pl/104/188/s1704/t/4/A], Aug. 20, 1996, [110 Stat. 1887][/us/stat/110/1887]; [Pub. L. 113–295, div. A, title II, § 221(a)(18)][/us/pl/113/295/s221/a/18], Dec. 19, 2014, [128 Stat. 4039][/us/stat/128/4039].)
 
  __Amendments__ 
+
+    2014—Subsec. (c)(2). [Pub. L. 113–295, § 221(a)(18)(A)][/us/pl/113/295/s221/a/18/A], struck out “(after June 24, 1950)” after “are or have”.
+
+    Subsec. (c)(3). [Pub. L. 113–295, § 221(a)(18)(B)][/us/pl/113/295/s221/a/18/B], substituted “such zone.” for “such zone; except that June 25, 1950, shall be considered the date of the commencing of combatant activities in the combat zone designated in Executive Order 10195.”
 
     1996—[Pub. L. 104–188][/us/pl/104/188] substituted “combat zone compensation” for “combat pay” in section catchline.
 
@@ -100,6 +104,10 @@
     1972—Subsec. (d). [Pub. L. 92–279][/us/pl/92/279] added subsec. (d).
 
     1966—Subsec. (b). [Pub. L. 89–739][/us/pl/89/739] substituted “$500” for “$200”.
+
+ __Effective Date of 2014 Amendment__ 
+
+    Amendment by [Pub. L. 113–295][/us/pl/113/295] effective Dec. 19, 2014, subject to a savings provision, see [section 221(b) of Pub. L. 113–295][/us/pl/113/295/s221/b], set out as a note under [section 1 of this title][/us/usc/t26/s1].
 
  __Effective Date of 1975 Amendment__ 
 
@@ -341,6 +349,10 @@
 [/us/stat/110/828]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F828
 [/us/pl/104/188/s1704/t/4/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188%2Fs1704%2Ft%2F4%2FA
 [/us/stat/110/1887]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1887
+[/us/pl/113/295/s221/a/18]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs221%2Fa%2F18
+[/us/stat/128/4039]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F4039
+[/us/pl/113/295/s221/a/18/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs221%2Fa%2F18%2FA
+[/us/pl/113/295/s221/a/18/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs221%2Fa%2F18%2FB
 [/us/pl/104/188]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188
 [/us/pl/104/117/s1/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F117%2Fs1%2Fd%2F1
 [/us/pl/104/117/s1/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F117%2Fs1%2Fd%2F2
@@ -355,6 +367,9 @@
 [/us/pl/93/597/s2/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F597%2Fs2%2Fb
 [/us/pl/92/279]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F279
 [/us/pl/89/739]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F739
+[/us/pl/113/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295
+[/us/pl/113/295/s221/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs221%2Fb
+[/us/usc/t26/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs1
 [/us/pl/93/597/s2/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F597%2Fs2%2Fc
 [/us/stat/88/1950]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1950
 [/us/pl/92/279/s3/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F279%2Fs3%2Fa%2F1

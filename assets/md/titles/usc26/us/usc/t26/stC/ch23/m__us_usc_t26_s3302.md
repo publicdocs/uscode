@@ -157,25 +157,11 @@
 
         (4) __State unemployment tax rate__ 
 
-        For purposes of this subsection—
+        For purposes of this subsection, the State unemployment tax rate for any taxable year is the percentage obtained by dividing—
 
-            (A) __In general__ 
+            (A) the total amount of contributions paid into the State unemployment fund with respect to such taxable year, by
 
-            The State unemployment tax rate for any taxable year is the percentage obtained by dividing—
-
-                (i) the total amount of contributions paid into the State unemployment fund with respect to such taxable year, by
-
-                (ii) the total amount of the remuneration subject to contributions under the State unemployment compensation law with respect to such taxable year (determined without regard to any limitation on the amount of wages subject to contribution under the State law).
-
-            (B) __Treatment of additional tax under this chapter__ 
-
-                (i) __Taxable year 1983__ 
-
-                    In the case of taxable year 1983, any additional tax imposed under this chapter with respect to any State by reason of subsection (c)(2) shall be treated as contributions paid into the State unemployment fund with respect to such taxable year.
-
-                (ii) __Taxable year 1984__ 
-
-                    In the case of taxable year 1984, any additional tax imposed under this chapter with respect to any State by reason of subsection (c)(2) shall (to the extent such additional tax is attributable to a credit reduction in excess of 0.6 of wages attributable to such State) be treated as contributions paid into the State unemployment fund with respect to such taxable year.
+            (B) the total amount of the remuneration subject to contributions under the State unemployment compensation law with respect to such taxable year (determined without regard to any limitation on the amount of wages subject to contribution under the State law).
 
         (5) __Benefit cost ratio__ 
 
@@ -201,17 +187,7 @@
 
                 The term “reimbursing employer” means any governmental entity or other organization (or group of governmental entities or any other organizations) which makes reimbursements in lieu of contributions to the State unemployment fund.
 
-            (D) __Special rules for years before 1985__ 
-
-                (i) __Taxable year 1983__ 
-
-                    For purposes of determining whether a State meets the requirements of paragraph (2)(C) for taxable year 1983, only regular compensation (as defined in section 205 of the Federal-State Extended Unemployment Compensation Act of 1970) shall be taken into account for purposes of determining the benefit ratio for any preceding calendar year before 1982.
-
-                (ii) __Taxable year 1984__ 
-
-                    For purposes of determining whether a State meets the requirements of paragraph (2)(C) for taxable year 1984, only regular compensation (as so defined) shall be taken into account for purposes of determining the benefit ratio for any preceding calendar year before 1981.
-
-            (E) __Rounding__ 
+            (D) __Rounding__ 
 
                 If any percentage determined under subparagraph (A) is not a multiple of .1 percent, such percentage shall be reduced to the nearest multiple of .1 percent.
 
@@ -269,7 +245,11 @@
 
             The Secretary of Labor may require a State to furnish such information at such time and in such manner as may be necessary for purposes of paragraph (2).
 
-([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 439][/us/stat/68A/439]; [Pub. L. 86–778, title V, § 523(b)][/us/pl/86/778/s523/b], Sept. 13, 1960, [74 Stat. 980][/us/stat/74/980]; [Pub. L. 87–6, § 14(b)][/us/pl/87/6/s14/b], Mar. 24, 1961, [75 Stat. 16][/us/stat/75/16]; [Pub. L. 87–321, § 1(a)][/us/pl/87/321/s1/a], Sept. 26, 1961, [75 Stat. 683][/us/stat/75/683]; [Pub. L. 88–31, § 2(b)][/us/pl/88/31/s2/b], May 29, 1963, [77 Stat. 51][/us/stat/77/51]; [Pub. L. 88–173, § 1(a)][/us/pl/88/173/s1/a]–(c), Nov. 7, 1963, [77 Stat. 305][/us/stat/77/305]; [Pub. L. 91–373, title I, § 142(a)][/us/pl/91/373/s142/a], (b), Aug. 10, 1970, [84 Stat. 707][/us/stat/84/707]; [Pub. L. 93–618, title II, § 239(e)][/us/pl/93/618/s239/e], Jan. 3, 1975, [88 Stat. 2025][/us/stat/88/2025]; [Pub. L. 94–45, title I, § 110(a)][/us/pl/94/45/s110/a], title III, § 302, June 30, 1975, [89 Stat. 239][/us/stat/89/239], 243; [Pub. L. 94–455, title XIX][/us/pl/94/455], §§ 1903(a)(12), 1906(b)(13)(A), Oct. 4, 1976, [90 Stat. 1808][/us/stat/90/1808], 1834; [Pub. L. 95–19, title II, § 201(a)][/us/pl/95/19/s201/a], Apr. 12, 1977, [91 Stat. 43][/us/stat/91/43]; [Pub. L. 96–589, § 6(f)][/us/pl/96/589/s6/f], Dec. 24, 1980, [94 Stat. 3409][/us/stat/94/3409]; [Pub. L. 97–35, title XXIV, § 2406(a)][/us/pl/97/35/s2406/a], Aug. 13, 1981, [95 Stat. 876][/us/stat/95/876]; [Pub. L. 97–248, title II][/us/pl/97/248], §§ 271(c)(2), (3)(A), (B), 272(a), 273(a), Sept. 3, 1982, [96 Stat. 555–557][/us/stat/96/555-557]; [Pub. L. 98–21, title V][/us/pl/98/21], §§ 512(a)(1), (b), 513(a)–(c), Apr. 20, 1983, [97 Stat. 146][/us/stat/97/146], 147; [Pub. L. 99–514, title XVIII, § 1884(1)][/us/pl/99/514/s1884/1], (2), Oct. 22, 1986, [100 Stat. 2919][/us/stat/100/2919].)
+    (h) __Treatment of certified professional employer organizations__ 
+
+        If a certified professional employer organization (as defined in section 7705), or a customer of such organization, makes a contribution to the State’s unemployment fund with respect to wages paid to a work site employee, such certified professional employer organization shall be eligible for the credits available under this section with respect to such contribution.
+
+([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 439][/us/stat/68A/439]; [Pub. L. 86–778, title V, § 523(b)][/us/pl/86/778/s523/b], Sept. 13, 1960, [74 Stat. 980][/us/stat/74/980]; [Pub. L. 87–6, § 14(b)][/us/pl/87/6/s14/b], Mar. 24, 1961, [75 Stat. 16][/us/stat/75/16]; [Pub. L. 87–321, § 1(a)][/us/pl/87/321/s1/a], Sept. 26, 1961, [75 Stat. 683][/us/stat/75/683]; [Pub. L. 88–31, § 2(b)][/us/pl/88/31/s2/b], May 29, 1963, [77 Stat. 51][/us/stat/77/51]; [Pub. L. 88–173, § 1(a)][/us/pl/88/173/s1/a]–(c), Nov. 7, 1963, [77 Stat. 305][/us/stat/77/305]; [Pub. L. 91–373, title I, § 142(a)][/us/pl/91/373/s142/a], (b), Aug. 10, 1970, [84 Stat. 707][/us/stat/84/707]; [Pub. L. 93–618, title II, § 239(e)][/us/pl/93/618/s239/e], Jan. 3, 1975, [88 Stat. 2025][/us/stat/88/2025]; [Pub. L. 94–45, title I, § 110(a)][/us/pl/94/45/s110/a], title III, § 302, June 30, 1975, [89 Stat. 239][/us/stat/89/239], 243; [Pub. L. 94–455, title XIX][/us/pl/94/455], §§ 1903(a)(12), 1906(b)(13)(A), Oct. 4, 1976, [90 Stat. 1808][/us/stat/90/1808], 1834; [Pub. L. 95–19, title II, § 201(a)][/us/pl/95/19/s201/a], Apr. 12, 1977, [91 Stat. 43][/us/stat/91/43]; [Pub. L. 96–589, § 6(f)][/us/pl/96/589/s6/f], Dec. 24, 1980, [94 Stat. 3409][/us/stat/94/3409]; [Pub. L. 97–35, title XXIV, § 2406(a)][/us/pl/97/35/s2406/a], Aug. 13, 1981, [95 Stat. 876][/us/stat/95/876]; [Pub. L. 97–248, title II][/us/pl/97/248], §§ 271(c)(2), (3)(A), (B), 272(a), 273(a), Sept. 3, 1982, [96 Stat. 555–557][/us/stat/96/555-557]; [Pub. L. 98–21, title V][/us/pl/98/21], §§ 512(a)(1), (b), 513(a)–(c), Apr. 20, 1983, [97 Stat. 146][/us/stat/97/146], 147; [Pub. L. 99–514, title XVIII, § 1884(1)][/us/pl/99/514/s1884/1], (2), Oct. 22, 1986, [100 Stat. 2919][/us/stat/100/2919]; [Pub. L. 113–295, div. A, title II, § 221(a)(101)][/us/pl/113/295/s221/a/101], div. B, title II, § 206(c)(1), Dec. 19, 2014, [128 Stat. 4052][/us/stat/128/4052], 4070.)
 
  __References in Text__ 
 
@@ -279,11 +259,15 @@
 
     The date of the enactment of this subsection, referred to in subsec. (f)(2)(A), (B), means the date of the enactment of [Pub. L. 97–35][/us/pl/97/35] which was approved Aug. 13, 1981.
 
-    Section 205 of the Federal-State Extended Unemployment Compensation Act of 1970, referred to in subsec. (f)(5)(D)(i), is [section 205 of Pub. L. 91–373][/us/pl/91/373/s205], title II, Aug. 10, 1970, [84 Stat. 708][/us/stat/84/708], which is set out as a note under [section 3304 of this title][/us/usc/t26/s3304].
-
     The date of the enactment of this subsection, referred to in subsec. (g)(2)(C), means the date of the enactment of [Pub. L. 97–248][/us/pl/97/248], which was approved Sept. 3, 1982.
 
  __Amendments__ 
+
+    2014—Subsec. (f)(4). [Pub. L. 113–295, § 221(a)(101)(A)][/us/pl/113/295/s221/a/101/A], substituted “subsection, the” for “subsection—” and all that followed through “(A) In general.—The”, redesignated cls. (i) and (ii) as subpars. (A) and (B), respectively, realigned margins, and struck out former subpar. (B), which related to treatment of additional tax under this chapter for taxable years 1983 and 1984.
+
+    Subsec. (f)(5)(D), (E). [Pub. L. 113–295, § 221(a)(101)(B)][/us/pl/113/295/s221/a/101/B], redesignated subpar. (E) as (D) and struck out former subpar. (D), which related to special rules for years before 1985.
+
+    Subsec. (h). [Pub. L. 113–295, § 206(c)(1)][/us/pl/113/295/s206/c/1], added subsec. (h).
 
     1986—Subsec. (c)(2)(B). [Pub. L. 99–514, § 1884(1)][/us/pl/99/514/s1884/1], substituted “denominator” for second reference to “determination”, and in cl. (i) inserted “percent” after “2.7” and struck out “percent” after “is to be made”.
 
@@ -357,6 +341,14 @@
 
     Subsec. (d). [Pub. L. 86–778][/us/pl/86/778] added subsec. (d).
 
+ __Effective Date of 2014 Amendment__ 
+
+[Pub. L. 113–295, div. B, title II, § 206(g)(1)][/us/pl/113/295/s206/g/1], Dec. 19, 2014, [128 Stat. 4071][/us/stat/128/4071], provided that: 
+
+> “The amendments made by this section \[enacting sections 3511 and 7705 of this title and amending this section and sections 3303, 6053, 6652, and 7528 of this title\] shall apply with respect to wages for services performed on or after January 1 of the first calendar year beginning more than 12 months after the date of the enactment of this Act \[Dec. 19, 2014\].”
+
+    Amendment by [section 221(a)(101) of Pub. L. 113–295][/us/pl/113/295/s221/a/101] effective Dec. 19, 2014, subject to a savings provision, see [section 221(b) of Pub. L. 113–295][/us/pl/113/295/s221/b], set out as a note under [section 1 of this title][/us/usc/t26/s1].
+
  __Effective Date of 1983 Amendment__ 
 
 [Pub. L. 98–21, title V, § 512(a)(2)][/us/pl/98/21/s512/a/2], Apr. 20, 1983, [97 Stat. 146][/us/stat/97/146], provided that: 
@@ -406,6 +398,16 @@
 [Pub. L. 87–321, § 1(b)][/us/pl/87/321/s1/b], Sept. 26, 1961, [75 Stat. 683][/us/stat/75/683], provided that: 
 
 > “The amendment made by subsection (a) \[amending this section\] shall apply with respect to the calendar year 1961 and each calendar year thereafter.”
+
+ __Construction__ 
+
+[Pub. L. 113–295, div. B, title II, § 206(h)][/us/pl/113/295/s206/h], Dec. 19, 2014, [128 Stat. 4071][/us/stat/128/4071], provided that: 
+
+> “Nothing contained in this section \[see Effective Date of 2014 Amendment note above\] or the amendments made by this section shall be construed to create any inference with respect to the determination of who is an employee or employer—
+
+>     “(1) for Federal tax purposes (other than the purposes set forth in the amendments made by this section), or
+
+>     “(2) for purposes of any other provision of law.”
 
  __Extension of Period for Repayment of Federal Loans to State Unemployment Funds__ 
 
@@ -564,15 +566,17 @@
 [/us/stat/97/146]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F146
 [/us/pl/99/514/s1884/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1884%2F1
 [/us/stat/100/2919]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2919
+[/us/pl/113/295/s221/a/101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs221%2Fa%2F101
+[/us/stat/128/4052]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F4052
 [/us/act/1935-08-14/ch531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531
 [/us/stat/49/620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F620
 [/us/usc/t42/s1305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1305
 [/us/usc/t19/s2311]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2311
 [/us/pl/97/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35
-[/us/pl/91/373/s205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F373%2Fs205
-[/us/stat/84/708]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F708
-[/us/usc/t26/s3304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs3304
 [/us/pl/97/248]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F248
+[/us/pl/113/295/s221/a/101/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs221%2Fa%2F101%2FA
+[/us/pl/113/295/s221/a/101/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs221%2Fa%2F101%2FB
+[/us/pl/113/295/s206/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs206%2Fc%2F1
 [/us/pl/99/514/s1884/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1884%2F1
 [/us/pl/99/514/s1884/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1884%2F2
 [/us/pl/98/21/s513/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F21%2Fs513%2Fc
@@ -609,6 +613,11 @@
 [/us/pl/87/321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F321
 [/us/pl/86/778]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F778
 [/us/pl/86/778]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F778
+[/us/pl/113/295/s206/g/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs206%2Fg%2F1
+[/us/stat/128/4071]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F4071
+[/us/pl/113/295/s221/a/101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs221%2Fa%2F101
+[/us/pl/113/295/s221/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs221%2Fb
+[/us/usc/t26/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs1
 [/us/pl/98/21/s512/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F21%2Fs512%2Fa%2F2
 [/us/stat/97/146]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F146
 [/us/pl/98/21/s513/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F21%2Fs513%2Fd
@@ -631,6 +640,8 @@
 [/us/stat/77/306]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F77%2F306
 [/us/pl/87/321/s1/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F321%2Fs1%2Fb
 [/us/stat/75/683]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F75%2F683
+[/us/pl/113/295/s206/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs206%2Fh
+[/us/stat/128/4071]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F4071
 [/us/pl/102/318/s304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F318%2Fs304
 [/us/stat/106/298]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F298
 [/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514

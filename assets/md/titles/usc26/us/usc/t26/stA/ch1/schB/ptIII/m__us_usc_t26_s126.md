@@ -29,15 +29,13 @@
 
         (5) The agricultural conservation program authorized by the Soil Conservation and Domestic Allotment Act ([16 U.S.C. 590a][/us/usc/t16/s590a]).
 
-        (6) The great plains conservation program authorized by section 16  <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  of the Soil Conservation and Domestic Policy Act ([16 U.S.C. 590p(b)][/us/usc/t16/s590p/b]).
+        (6) The resource conservation and development program authorized by the Bankhead-Jones Farm Tenant Act and by the Soil Conservation and Domestic Allotment Act ([7 U.S.C. 1010][/us/usc/t7/s1010]; [16 U.S.C. 590a][/us/usc/t16/s590a] et seq.).
 
-        (7) The resource conservation and development program authorized by the Bankhead-Jones Farm Tenant Act and by the Soil Conservation and Domestic Allotment Act ([7 U.S.C. 1010][/us/usc/t7/s1010]; [16 U.S.C. 590a][/us/usc/t16/s590a] et seq.).
+        (7) The forestry incentives program authorized by section 4  <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  of the Cooperative Forestry Assistance Act of 1978 ([16 U.S.C. 2103][/us/usc/t16/s2103]).
 
-        (8) The forestry incentives program authorized by section 4 1 of the Cooperative Forestry Assistance Act of 1978 ([16 U.S.C. 2103][/us/usc/t16/s2103]).
+        (8) Any small watershed program administered by the Secretary of Agriculture which is determined by the Secretary of the Treasury or his delegate to be substantially similar to the type of programs described in paragraphs (1) through (8).
 
-        (9) Any small watershed program administered by the Secretary of Agriculture which is determined by the Secretary of the Treasury or his delegate to be substantially similar to the type of programs described in paragraphs (1) through (8).
-
-        (10) Any program of a State, possession of the United States, a political subdivision of any of the foregoing, or the District of Columbia under which payments are made to individuals primarily for the purpose of conserving soil, protecting or restoring the environment, improving forests, or providing a habitat for wildlife.
+        (9) Any program of a State, possession of the United States, a political subdivision of any of the foregoing, or the District of Columbia under which payments are made to individuals primarily for the purpose of conserving soil, protecting or restoring the environment, improving forests, or providing a habitat for wildlife.
 
     (b) __Excludable portion__ 
 
@@ -73,7 +71,7 @@
 
         Notwithstanding any provision of section 1016 to the contrary, no adjustment to basis shall be made with respect to property acquired or improved through the use of any payment, to the extent that such adjustment would reflect any amount which is excluded from gross income under subsection (a).
 
-(Added [Pub. L. 95–600, title V, § 543(a)][/us/pl/95/600/s543/a], Nov. 6, 1978, [92 Stat. 2888][/us/stat/92/2888]; amended [Pub. L. 96–222, title I, § 105(a)(7)(A)][/us/pl/96/222/s105/a/7/A], (C), (E), Apr. 1, 1980, [94 Stat. 220][/us/stat/94/220], 221.)
+(Added [Pub. L. 95–600, title V, § 543(a)][/us/pl/95/600/s543/a], Nov. 6, 1978, [92 Stat. 2888][/us/stat/92/2888]; amended [Pub. L. 96–222, title I, § 105(a)(7)(A)][/us/pl/96/222/s105/a/7/A], (C), (E), Apr. 1, 1980, [94 Stat. 220][/us/stat/94/220], 221; [Pub. L. 113–295, div. A, title II, § 221(a)(22)][/us/pl/113/295/s221/a/22], Dec. 19, 2014, [128 Stat. 4040][/us/stat/128/4040].)
 
  __References in Text__ 
 
@@ -81,19 +79,19 @@
 
     The Agricultural Credit Act of 1978, referred to in subsec. (a)(4), is [Pub. L. 95–334][/us/pl/95/334], Aug. 4, 1978, [92 Stat. 420][/us/stat/92/420], as amended. Title IV of the Agricultural Credit Act of 1978 is classified generally to chapter 42 (§ 2201 et seq.) of Title 16, Conservation. For complete classification of this Act to the Code, see Tables.
 
-    The Soil Conservation and Domestic Allotment Act, referred to in subsec. (a)(5), (7), is [act Apr. 27, 1935, ch. 85][/us/act/1935-04-27/ch85], [49 Stat. 163][/us/stat/49/163], as amended, which is classified generally to chapter 3B (§ 590a et seq.) of Title 16, Conservation. For complete classification of this Act to the Code, see [section 590q of Title 16][/us/usc/t16/s590q] and Tables.
+    The Soil Conservation and Domestic Allotment Act, referred to in subsec. (a)(5), (6), is [act Apr. 27, 1935, ch. 85][/us/act/1935-04-27/ch85], [49 Stat. 163][/us/stat/49/163], as amended, which is classified generally to chapter 3B (§ 590a et seq.) of Title 16, Conservation. For complete classification of this Act to the Code, see [section 590q of Title 16][/us/usc/t16/s590q] and Tables.
 
-    Section 16 of the Soil Conservation and Domestic Policy Act, referred to in subsec. (a)(6), probably means section 16 of the Soil Conservation and Domestic Allotment Act, which was classified to [section 590p of Title 16][/us/usc/t16/s590p], Conservation, prior to repeal by [Pub. L. 104–127, title III, § 336(b)(1)][/us/pl/104/127/s336/b/1], Apr. 4, 1996, [110 Stat. 1006][/us/stat/110/1006].
+    The Bankhead-Jones Farm Tenant Act, referred to in subsec. (a)(6), is [act July 22, 1937, ch. 517][/us/act/1937-07-22/ch517], [50 Stat. 522][/us/stat/50/522], as amended, which is classified generally to chapter 33 (§ 1000 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see [section 1000 of Title 7][/us/usc/t7/s1000] and Tables.
 
-    The Bankhead-Jones Farm Tenant Act, referred to in subsec. (a)(7), is [act July 22, 1937, ch. 517][/us/act/1937-07-22/ch517], [50 Stat. 522][/us/stat/50/522], as amended, which is classified generally to chapter 33 (§ 1000 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see [section 1000 of Title 7][/us/usc/t7/s1000] and Tables.
-
-    Section 4 of the Cooperative Forestry Assistance Act of 1978, referred to in subsec. (a)(8), related to a forestry incentives program, was classified to [section 2103 of Title 16][/us/usc/t16/s2103], Conservation, and was repealed by [Pub. L. 107–171, title VIII, § 8001(a)][/us/pl/107/171/s8001/a], May 13, 2002, [116 Stat. 468][/us/stat/116/468]. A new section 4 of the Act, as enacted by [Pub. L. 107–171][/us/pl/107/171], was also classified to [section 2103 of Title 16][/us/usc/t16/s2103], related to a forest land enhancement program, and was repealed by [Pub. L. 113–79, title VIII, § 8001(a)][/us/pl/113/79/s8001/a], Feb. 7, 2014, [128 Stat. 913][/us/stat/128/913].
+    Section 4 of the Cooperative Forestry Assistance Act of 1978, referred to in subsec. (a)(7), related to a forestry incentives program, was classified to [section 2103 of Title 16][/us/usc/t16/s2103], Conservation, and was repealed by [Pub. L. 107–171, title VIII, § 8001(a)][/us/pl/107/171/s8001/a], May 13, 2002, [116 Stat. 468][/us/stat/116/468]. A new section 4 of the Act, as enacted by [Pub. L. 107–171][/us/pl/107/171], was also classified to [section 2103 of Title 16][/us/usc/t16/s2103], related to a forest land enhancement program, and was repealed by [Pub. L. 113–79, title VIII, § 8001(a)][/us/pl/113/79/s8001/a], Feb. 7, 2014, [128 Stat. 913][/us/stat/128/913].
 
  __Prior Provisions__ 
 
     A prior section 126 was renumbered [section 140 of this title][/us/usc/t26/s140].
 
  __Amendments__ 
+
+    2014—Subsec. (a)(6) to (10). [Pub. L. 113–295][/us/pl/113/295] redesignated pars. (7) to (10) as (6) to (9), respectively, and struck out former par. (6) which read as follows: “The great plains conservation program authorized by section 16 of the Soil Conservation and Domestic Policy Act ([16 U.S.C. 590p(b)][/us/usc/t16/s590p/b]).”
 
     1980—Subsec. (a). [Pub. L. 96–222, § 105(a)(7)(C)][/us/pl/96/222/s105/a/7/C], (E), inserted in par. (9) “or his delegate” after “Secretary of the Treasury” and substituted in par. (10) “Any program of a State, possession of the United States, a political subdivision of any of the foregoing, or the District of Columbia” for “Any State program”.
 
@@ -102,6 +100,10 @@
     Subsec. (c). [Pub. L. 96–222, § 105(a)(7)(A)][/us/pl/96/222/s105/a/7/A], substituted provisions allowing the taxpayer to elect not to have this section apply to any excludable portion for provisions relating to the application of subsec. (a) of this section with other sections.
 
     Subsecs. (d), (e). [Pub. L. 96–222, § 105(a)(7)(A)][/us/pl/96/222/s105/a/7/A], added subsecs. (d) and (e).
+
+ __Effective Date of 2014 Amendment__ 
+
+    Amendment by [Pub. L. 113–295][/us/pl/113/295] effective Dec. 19, 2014, subject to a savings provision, see [section 221(b) of Pub. L. 113–295][/us/pl/113/295/s221/b], set out as a note under [section 1 of this title][/us/usc/t26/s1].
 
  __Effective Date of 1980 Amendment__ 
 
@@ -124,7 +126,6 @@
 [/us/usc/t30/s1236]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs1236
 [/us/usc/t16/s1301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1301
 [/us/usc/t16/s590a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs590a
-[/us/usc/t16/s590p/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs590p%2Fb
 [/us/usc/t7/s1010]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1010
 [/us/usc/t16/s590a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs590a
 [/us/usc/t16/s2103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs2103
@@ -132,6 +133,8 @@
 [/us/stat/92/2888]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2888
 [/us/pl/96/222/s105/a/7/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F222%2Fs105%2Fa%2F7%2FA
 [/us/stat/94/220]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F220
+[/us/pl/113/295/s221/a/22]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs221%2Fa%2F22
+[/us/stat/128/4040]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F4040
 [/us/pl/91/559]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F559
 [/us/stat/84/1468]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1468
 [/us/usc/t16/s1301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1301
@@ -140,9 +143,6 @@
 [/us/act/1935-04-27/ch85]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-04-27%2Fch85
 [/us/stat/49/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F163
 [/us/usc/t16/s590q]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs590q
-[/us/usc/t16/s590p]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs590p
-[/us/pl/104/127/s336/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2Fs336%2Fb%2F1
-[/us/stat/110/1006]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1006
 [/us/act/1937-07-22/ch517]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1937-07-22%2Fch517
 [/us/stat/50/522]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F50%2F522
 [/us/usc/t7/s1000]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1000
@@ -154,10 +154,15 @@
 [/us/pl/113/79/s8001/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs8001%2Fa
 [/us/stat/128/913]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F913
 [/us/usc/t26/s140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs140
+[/us/pl/113/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295
+[/us/usc/t16/s590p/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs590p%2Fb
 [/us/pl/96/222/s105/a/7/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F222%2Fs105%2Fa%2F7%2FC
 [/us/pl/96/222/s105/a/7/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F222%2Fs105%2Fa%2F7%2FA
 [/us/pl/96/222/s105/a/7/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F222%2Fs105%2Fa%2F7%2FA
 [/us/pl/96/222/s105/a/7/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F222%2Fs105%2Fa%2F7%2FA
+[/us/pl/113/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295
+[/us/pl/113/295/s221/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs221%2Fb
+[/us/usc/t26/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs1
 [/us/pl/96/222]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F222
 [/us/pl/95/600]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F600
 [/us/pl/96/222/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F222%2Fs201

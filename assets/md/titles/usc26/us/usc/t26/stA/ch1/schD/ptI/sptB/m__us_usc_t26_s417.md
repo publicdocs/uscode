@@ -225,83 +225,7 @@
 
             (D) __Applicable segment rates__ 
 
-            For purposes of subparagraph (C), the adjusted first, second, and third segment rates are the first, second, and third segment rates which would be determined under section 430(h)(2)(C) (determined by not taking into account any adjustment under clause (iv) thereof) if—
-
-                (i) section 430(h)(2)(D) were applied by substituting the average yields for the month described in subparagraph (C) for the average yields for the 24-month period described in such section,
-
-                (ii) section 430(h)(2)(G)(i)(II) were applied by substituting “section 417(e)(3)(A)(ii)(II)” for “section 412(b)(5)(B)(ii)(II)”, and
-
-                (iii) the applicable percentage under section 430(h)(2)(G) were determined in accordance with the following table:
-
-<table>
-
-                  <tr>
-
-                    <td>   </td>
-
-  </tr>
-
-                  <tr>
-
-                    <td> 
-
-                In the case of plan years beginning in:  </td>
-
-                    <td> 
-
-                The applicable percentage is:  </td>
-
-  </tr>
-
-                  <tr>
-
-                    <td> 
-
-                 2008  </td>
-
-                    <td> 
-
-                 20 percent    </td>
-
-  </tr>
-
-                  <tr>
-
-                    <td> 
-
-                 2009  </td>
-
-                    <td> 
-
-                 40 percent    </td>
-
-  </tr>
-
-                  <tr>
-
-                    <td> 
-
-                 2010  </td>
-
-                    <td> 
-
-                 60 percent    </td>
-
-  </tr>
-
-                  <tr>
-
-                    <td> 
-
-                 2011  </td>
-
-                    <td> 
-
-                 80 percent.  </td>
-
-  </tr>
-
-                </table>
+                For purposes of subparagraph (C), the adjusted first, second, and third segment rates are the first, second, and third segment rates which would be determined under section 430(h)(2)(C) (determined by not taking into account any adjustment under clause (iv) thereof) if section 430(h)(2)(D) were applied by substituting the average yields for the month described in subparagraph (C) for the average yields for the 24-month period described in such section.
 
     (f) __Other definitions and special rules__ 
 
@@ -371,9 +295,15 @@
 
                 For purposes of subparagraph (A), the term “survivor annuity percentage” means the percentage which the survivor annuity under the plan’s qualified joint and survivor annuity bears to the annuity payable during the joint lives of the participant and the spouse.
 
-(Added [Pub. L. 98–397, title II, § 203(b)][/us/pl/98/397/s203/b], Aug. 23, 1984, [98 Stat. 1441][/us/stat/98/1441]; amended [Pub. L. 99–514, title XI, § 1139(b)][/us/pl/99/514/s1139/b], title XVIII, § 1898(b)(1)(A), (4)(A), (5)(A), (6)(A), (8)(A), (9)(A), (10)(A), (11)(A), (12)(A), (15)(A), (B), Oct. 22, 1986, [100 Stat. 2487][/us/stat/100/2487], 2944, 2945, 2947–2951; [Pub. L. 100–647, title I, § 1018(u)(9)][/us/pl/100/647/s1018/u/9], Nov. 10, 1988, [102 Stat. 3590][/us/stat/102/3590]; [Pub. L. 101–239, title VII, § 7862(d)(1)(A)][/us/pl/101/239/s7862/d/1/A], Dec. 19, 1989, [103 Stat. 2433][/us/stat/103/2433]; [Pub. L. 103–465, title VII, § 767(a)(2)][/us/pl/103/465/s767/a/2], Dec. 8, 1994, [108 Stat. 5038][/us/stat/108/5038]; [Pub. L. 104–188, title I, § 1451(a)][/us/pl/104/188/s1451/a], Aug. 20, 1996, [110 Stat. 1815][/us/stat/110/1815]; [Pub. L. 105–34, title X, § 1071(a)(2)][/us/pl/105/34/s1071/a/2], Aug. 5, 1997, [111 Stat. 948][/us/stat/111/948]; [Pub. L. 107–147, title IV, § 411(r)(1)][/us/pl/107/147/s411/r/1], Mar. 9, 2002, [116 Stat. 51][/us/stat/116/51]; [Pub. L. 109–280, title III, § 302(b)][/us/pl/109/280/s302/b], title X, § 1004(a), title XI, § 1102(a)(1)(A), Aug. 17, 2006, [120 Stat. 920][/us/stat/120/920], 1053, 1056; [Pub. L. 110–458, title I, § 103(b)(2)(A)][/us/pl/110/458/s103/b/2/A], Dec. 23, 2008, [122 Stat. 5103][/us/stat/122/5103]; [Pub. L. 112–141, div. D, title II, § 40211(a)(2)(C)][/us/pl/112/141/s40211/a/2/C], July 6, 2012, [126 Stat. 847][/us/stat/126/847].)
+(Added [Pub. L. 98–397, title II, § 203(b)][/us/pl/98/397/s203/b], Aug. 23, 1984, [98 Stat. 1441][/us/stat/98/1441]; amended [Pub. L. 99–514, title XI, § 1139(b)][/us/pl/99/514/s1139/b], title XVIII, § 1898(b)(1)(A), (4)(A), (5)(A), (6)(A), (8)(A), (9)(A), (10)(A), (11)(A), (12)(A), (15)(A), (B), Oct. 22, 1986, [100 Stat. 2487][/us/stat/100/2487], 2944, 2945, 2947–2951; [Pub. L. 100–647, title I, § 1018(u)(9)][/us/pl/100/647/s1018/u/9], Nov. 10, 1988, [102 Stat. 3590][/us/stat/102/3590]; [Pub. L. 101–239, title VII, § 7862(d)(1)(A)][/us/pl/101/239/s7862/d/1/A], Dec. 19, 1989, [103 Stat. 2433][/us/stat/103/2433]; [Pub. L. 103–465, title VII, § 767(a)(2)][/us/pl/103/465/s767/a/2], Dec. 8, 1994, [108 Stat. 5038][/us/stat/108/5038]; [Pub. L. 104–188, title I, § 1451(a)][/us/pl/104/188/s1451/a], Aug. 20, 1996, [110 Stat. 1815][/us/stat/110/1815]; [Pub. L. 105–34, title X, § 1071(a)(2)][/us/pl/105/34/s1071/a/2], Aug. 5, 1997, [111 Stat. 948][/us/stat/111/948]; [Pub. L. 107–147, title IV, § 411(r)(1)][/us/pl/107/147/s411/r/1], Mar. 9, 2002, [116 Stat. 51][/us/stat/116/51]; [Pub. L. 109–280, title III, § 302(b)][/us/pl/109/280/s302/b], title X, § 1004(a), title XI, § 1102(a)(1)(A), Aug. 17, 2006, [120 Stat. 920][/us/stat/120/920], 1053, 1056; [Pub. L. 110–458, title I, § 103(b)(2)(A)][/us/pl/110/458/s103/b/2/A], Dec. 23, 2008, [122 Stat. 5103][/us/stat/122/5103]; [Pub. L. 112–141, div. D, title II, § 40211(a)(2)(C)][/us/pl/112/141/s40211/a/2/C], July 6, 2012, [126 Stat. 847][/us/stat/126/847]; [Pub. L. 113–295, div. A, title II, § 221(a)(57)(B)(i)][/us/pl/113/295/s221/a/57/B/i], Dec. 19, 2014, [128 Stat. 4046][/us/stat/128/4046].)
 
  __Amendments__ 
+
+    2014—Subsec. (e)(3)(D). [Pub. L. 113–295][/us/pl/113/295] substituted “if section 430(h)(2)(D)” for “if—
+
+    “(i) section 430(h)(2)(D)”
+
+    and “described in such section.” for “described in such section,” and struck out cls. (ii) and (iii) which applied [section 430(h)(2)(G)(i)(II) of this title][/us/usc/t26/s430/h/2/G/i/II] by substituting “section 417(e)(3)(A)(ii)(II)” for “section 412(b)(5)(B)(ii)(II)” and listed the applicable percentage under section 430(h)(2)(G) for fiscal years 2008 to 2011.
 
     2012—Subsec. (e)(3)(C), (D). [Pub. L. 112–141][/us/pl/112/141] substituted “section 430(h)(2)(C) (determined by not taking into account any adjustment under clause (iv) thereof)” for “section 430(h)(2)(C)”.
 
@@ -434,6 +364,10 @@
     Subsec. (f)(6), (7). [Pub. L. 99–514, § 1898(b)(10)(A)][/us/pl/99/514/s1898/b/10/A], added par. (6) and redesignated former par. (6) as (7).
 
     [Pub. L. 99–514, § 1898(b)(4)(A)(iii)][/us/pl/99/514/s1898/b/4/A/iii], redesignated former par. (5) as (6).
+
+ __Effective Date of 2014 Amendment__ 
+
+    Amendment by [Pub. L. 113–295][/us/pl/113/295] effective Dec. 19, 2014, subject to a savings provision, see [section 221(b) of Pub. L. 113–295][/us/pl/113/295/s221/b], set out as a note under [section 1 of this title][/us/usc/t26/s1].
 
  __Effective Date of 2012 Amendment__ 
 
@@ -556,6 +490,10 @@
 [/us/stat/122/5103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F5103
 [/us/pl/112/141/s40211/a/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs40211%2Fa%2F2%2FC
 [/us/stat/126/847]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F847
+[/us/pl/113/295/s221/a/57/B/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs221%2Fa%2F57%2FB%2Fi
+[/us/stat/128/4046]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F4046
+[/us/pl/113/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295
+[/us/usc/t26/s430/h/2/G/i/II]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs430%2Fh%2F2%2FG%2Fi%2FII
 [/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
 [/us/pl/110/458]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F458
 [/us/pl/109/280/s1004/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280%2Fs1004%2Fa%2F1
@@ -586,6 +524,9 @@
 [/us/pl/99/514/s1898/b/4/A/iii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1898%2Fb%2F4%2FA%2Fiii
 [/us/pl/99/514/s1898/b/10/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1898%2Fb%2F10%2FA
 [/us/pl/99/514/s1898/b/4/A/iii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1898%2Fb%2F4%2FA%2Fiii
+[/us/pl/113/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295
+[/us/pl/113/295/s221/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs221%2Fb
+[/us/usc/t26/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs1
 [/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
 [/us/pl/112/141/s40211/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs40211%2Fc
 [/us/usc/t26/s404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs404

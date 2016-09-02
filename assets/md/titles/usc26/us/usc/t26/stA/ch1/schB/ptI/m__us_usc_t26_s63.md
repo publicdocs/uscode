@@ -35,15 +35,9 @@
 
         Except as otherwise provided in this subsection, the term “standard deduction” means the sum of—
 
-            (A) the basic standard deduction,
+            (A) the basic standard deduction, and
 
-            (B) the additional standard deduction,
-
-            (C) in the case of any taxable year beginning in 2008 or 2009, the real property tax deduction,
-
-            (D) the disaster loss deduction, and
-
-            (E) the motor vehicle sales tax deduction.
+            (B) the additional standard deduction.
 
         (2) __Basic standard deduction__ 
 
@@ -100,24 +94,6 @@
             (D) an estate or trust, common trust fund, or partnership,
 
             the standard deduction shall be zero.
-
-        (7) __Real property tax deduction__ 
-
-        For purposes of paragraph (1), the real property tax deduction is the lesser of—
-
-            (A) the amount allowable as a deduction under this chapter for State and local taxes described in section 164(a)(1), or
-
-            (B) $500 ($1,000 in the case of a joint return).
-
-            Any taxes taken into account under section 62(a) shall not be taken into account under this paragraph.
-
-        (8) __Disaster loss deduction__ 
-
-            For the purposes of paragraph (1), the term “disaster loss deduction” means the net disaster loss (as defined in section 165(h)(3)(B)).
-
-        (9) __Motor vehicle sales tax deduction__ 
-
-            For purposes of paragraph (1), the term “motor vehicle sales tax deduction” means the amount allowable as a deduction under section 164(a)(6). Such term shall not include any amount taken into account under section 62(a).
 
     (d) __Itemized deductions__ 
 
@@ -179,13 +155,27 @@
 
         For purposes of this section, marital status shall be determined under section 7703.
 
-([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 18][/us/stat/68A/18]; [Pub. L. 95–30, title I, § 102(a)][/us/pl/95/30/s102/a], May 23, 1977, [91 Stat. 135][/us/stat/91/135]; [Pub. L. 95–600, title I, § 101(b)][/us/pl/95/600/s101/b], Nov. 6, 1978, [92 Stat. 2769][/us/stat/92/2769]; [Pub. L. 97–34, title I][/us/pl/97/34], §§ 104(b), 111(b)(4), 121(b), (c)(2), Aug. 13, 1981, [95 Stat. 189][/us/stat/95/189], 194, 196, 197; [Pub. L. 99–514, title I, § 102(a)][/us/pl/99/514/s102/a], title XII, § 1272(d)(6), Oct. 22, 1986, [100 Stat. 2099][/us/stat/100/2099], 2594; [Pub. L. 100–647, title I, § 1001(b)(1)][/us/pl/100/647/s1001/b/1], Nov. 10, 1988, [102 Stat. 3349][/us/stat/102/3349]; [Pub. L. 101–508, title XI][/us/pl/101/508], §§ 11101(d)(1)(D), 11801(a)(4), Nov. 5, 1990, [104 Stat. 1388–405][/us/stat/104/1388-405], 1388–520; [Pub. L. 103–66, title XIII, § 13201(b)(3)(D)][/us/pl/103/66/s13201/b/3/D], Aug. 10, 1993, [107 Stat. 459][/us/stat/107/459]; [Pub. L. 105–34, title XII, § 1201(a)][/us/pl/105/34/s1201/a], Aug. 5, 1997, [111 Stat. 993][/us/stat/111/993]; [Pub. L. 107–16, title III, § 301(a)][/us/pl/107/16/s301/a], (b), (c)(2), June 7, 2001, [115 Stat. 53][/us/stat/115/53], 54; [Pub. L. 107–147, title IV, § 411(e)][/us/pl/107/147/s411/e], Mar. 9, 2002, [116 Stat. 46][/us/stat/116/46]; [Pub. L. 108–27, title I, § 103(a)][/us/pl/108/27/s103/a], May 28, 2003, [117 Stat. 754][/us/stat/117/754]; [Pub. L. 108–311, title I, § 101(b)][/us/pl/108/311/s101/b], Oct. 4, 2004, [118 Stat. 1167][/us/stat/118/1167]; [Pub. L. 110–289, div. C, title I, § 3012(a)][/us/pl/110/289/s3012/a], (b), July 30, 2008, [122 Stat. 2891][/us/stat/122/2891], 2892; [Pub. L. 110–343, div. C, title II, § 204(a)][/us/pl/110/343/s204/a], title VII, § 706(b)(1), (2), Oct. 3, 2008, [122 Stat. 3865][/us/stat/122/3865], 3922; [Pub. L. 111–5, div. B, title I, § 1008(c)][/us/pl/111/5/s1008/c], Feb. 17, 2009, [123 Stat. 318][/us/stat/123/318].)
+([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 18][/us/stat/68A/18]; [Pub. L. 95–30, title I, § 102(a)][/us/pl/95/30/s102/a], May 23, 1977, [91 Stat. 135][/us/stat/91/135]; [Pub. L. 95–600, title I, § 101(b)][/us/pl/95/600/s101/b], Nov. 6, 1978, [92 Stat. 2769][/us/stat/92/2769]; [Pub. L. 97–34, title I][/us/pl/97/34], §§ 104(b), 111(b)(4), 121(b), (c)(2), Aug. 13, 1981, [95 Stat. 189][/us/stat/95/189], 194, 196, 197; [Pub. L. 99–514, title I, § 102(a)][/us/pl/99/514/s102/a], title XII, § 1272(d)(6), Oct. 22, 1986, [100 Stat. 2099][/us/stat/100/2099], 2594; [Pub. L. 100–647, title I, § 1001(b)(1)][/us/pl/100/647/s1001/b/1], Nov. 10, 1988, [102 Stat. 3349][/us/stat/102/3349]; [Pub. L. 101–508, title XI][/us/pl/101/508], §§ 11101(d)(1)(D), 11801(a)(4), Nov. 5, 1990, [104 Stat. 1388–405][/us/stat/104/1388-405], 1388–520; [Pub. L. 103–66, title XIII, § 13201(b)(3)(D)][/us/pl/103/66/s13201/b/3/D], Aug. 10, 1993, [107 Stat. 459][/us/stat/107/459]; [Pub. L. 105–34, title XII, § 1201(a)][/us/pl/105/34/s1201/a], Aug. 5, 1997, [111 Stat. 993][/us/stat/111/993]; [Pub. L. 107–16, title III, § 301(a)][/us/pl/107/16/s301/a], (b), (c)(2), June 7, 2001, [115 Stat. 53][/us/stat/115/53], 54; [Pub. L. 107–147, title IV, § 411(e)][/us/pl/107/147/s411/e], Mar. 9, 2002, [116 Stat. 46][/us/stat/116/46]; [Pub. L. 108–27, title I, § 103(a)][/us/pl/108/27/s103/a], May 28, 2003, [117 Stat. 754][/us/stat/117/754]; [Pub. L. 108–311, title I, § 101(b)][/us/pl/108/311/s101/b], Oct. 4, 2004, [118 Stat. 1167][/us/stat/118/1167]; [Pub. L. 110–289, div. C, title I, § 3012(a)][/us/pl/110/289/s3012/a], (b), July 30, 2008, [122 Stat. 2891][/us/stat/122/2891], 2892; [Pub. L. 110–343, div. C, title II, § 204(a)][/us/pl/110/343/s204/a], title VII, § 706(b)(1), (2), Oct. 3, 2008, [122 Stat. 3865][/us/stat/122/3865], 3922; [Pub. L. 111–5, div. B, title I, § 1008(c)][/us/pl/111/5/s1008/c], Feb. 17, 2009, [123 Stat. 318][/us/stat/123/318]; [Pub. L. 113–295, div. A, title II, § 221(a)(13)][/us/pl/113/295/s221/a/13], Dec. 19, 2014, [128 Stat. 4039][/us/stat/128/4039].)
 
  __Inflation Adjusted Items for Certain Years__ 
 
     For inflation adjustment of certain items in this section, see Revenue Procedures listed in a table under [section 1 of this title][/us/usc/t26/s1].
 
  __Amendments__ 
+
+    2014—Subsec. (c)(1). [Pub. L. 113–295, § 221(a)(13)(A)][/us/pl/113/295/s221/a/13/A], added subpars. (A) and (B) and struck out former subpars. (A) to (E) which read as follows:
+
+    “(A) the basic standard deduction,
+
+    “(B) the additional standard deduction,
+
+    “(C) in the case of any taxable year beginning in 2008 or 2009, the real property tax deduction,
+
+    “(D) the disaster loss deduction, and
+
+    “(E) the motor vehicle sales tax deduction.”
+
+    Subsec. (c)(7) to (9). [Pub. L. 113–295, § 221(a)(13)(B)][/us/pl/113/295/s221/a/13/B], struck out pars. (7) to (9) which related to real property tax deduction, disaster loss deduction, and motor vehicle sales tax deduction, respectively.
 
     2009—Subsec. (c)(1)(E). [Pub. L. 111–5, § 1008(c)(1)][/us/pl/111/5/s1008/c/1], added subpar. (E).
 
@@ -335,6 +325,10 @@
 
     1977—[Pub. L. 95–30][/us/pl/95/30] completely revised definition of taxable income from one using the concept of a standard deduction and consisting of subsecs. (a) and (b) entitled, respectively, “General rule” and “Individuals electing standard deduction” to definition using the concepts of zero bracket amounts and excess itemized deductions and consisting of subsecs. (a) to (h) entitled, respectively, “Corporations”, “Individuals”, “Excess itemized deductions”, “Zero bracket amount”, “Unused zero bracket amount”, “Itemized deductions”, “Election to itemize”, and “Marital status”.
 
+ __Effective Date of 2014 Amendment__ 
+
+    Amendment by [Pub. L. 113–295][/us/pl/113/295] effective Dec. 19, 2014, subject to a savings provision, see [section 221(b) of Pub. L. 113–295][/us/pl/113/295/s221/b], set out as a note under [section 1 of this title][/us/usc/t26/s1].
+
  __Effective Date of 2009 Amendment__ 
 
     Amendment by [Pub. L. 111–5][/us/pl/111/5] applicable to purchases on or after Feb. 17, 2009, in taxable years ending after such date, see [section 1008(e) of Pub. L. 111–5][/us/pl/111/5/s1008/e], set out as a note under [section 56 of this title][/us/usc/t26/s56].
@@ -454,7 +448,11 @@
 [/us/stat/122/3865]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3865
 [/us/pl/111/5/s1008/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5%2Fs1008%2Fc
 [/us/stat/123/318]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F318
+[/us/pl/113/295/s221/a/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs221%2Fa%2F13
+[/us/stat/128/4039]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F4039
 [/us/usc/t26/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs1
+[/us/pl/113/295/s221/a/13/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs221%2Fa%2F13%2FA
+[/us/pl/113/295/s221/a/13/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs221%2Fa%2F13%2FB
 [/us/pl/111/5/s1008/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5%2Fs1008%2Fc%2F1
 [/us/pl/111/5/s1008/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5%2Fs1008%2Fc%2F2
 [/us/pl/110/343/s204/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F343%2Fs204%2Fa
@@ -507,6 +505,9 @@
 [/us/pl/97/34/s121/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F34%2Fs121%2Fb%2F2
 [/us/pl/95/600]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F600
 [/us/pl/95/30]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F30
+[/us/pl/113/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295
+[/us/pl/113/295/s221/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs221%2Fb
+[/us/usc/t26/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs1
 [/us/pl/111/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5
 [/us/pl/111/5/s1008/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5%2Fs1008%2Fe
 [/us/usc/t26/s56]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs56

@@ -21,7 +21,7 @@
 
     (b) __Returns of corporations__ 
 
-        Returns of corporations under section 6012 made on the basis of the calendar year shall be filed on or before the 15th day of March following the close of the calendar year, and such returns made on the basis of a fiscal year shall be filed on or before the 15th day of the third month following the close of the fiscal year. Returns required for a taxable year by section 6011(e)(2) (relating to returns of a DISC) shall be filed on or before the fifteenth day of the ninth month following the close of the taxable year.
+        Returns of corporations under section 6012 made on the basis of the calendar year shall be filed on or before the 15th day of March following the close of the calendar year, and such returns made on the basis of a fiscal year shall be filed on or before the 15th day of the third month following the close of the fiscal year. Returns required for a taxable year by section 6011(c)(2) (relating to returns of a DISC) shall be filed on or before the fifteenth day of the ninth month following the close of the taxable year.
 
     (c) __Returns by certain nonresident alien individuals and foreign corporations__ 
 
@@ -41,13 +41,15 @@
 
         In the case of an income tax return of an organization exempt from taxation under section 501(a) (other than an employees’ trust described in section 401(a)), a return shall be filed on or before the 15th day of the 5th month following the close of the taxable year.
 
-([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 749][/us/stat/68A/749]; [Pub. L. 87–834, § 17(b)(3)][/us/pl/87/834/s17/b/3], Oct. 16, 1962, [76 Stat. 1051][/us/stat/76/1051]; [Pub. L. 92–178, title V, § 504(b)][/us/pl/92/178/s504/b], Dec. 10, 1971, [85 Stat. 551][/us/stat/85/551]; [Pub. L. 94–455, title X, § 1053(d)(3)][/us/pl/94/455/s1053/d/3], title XIX, § 1906(b)(13)(A), Oct. 4, 1976, [90 Stat. 1649][/us/stat/90/1649], 1834; [Pub. L. 95–628, § 6(a)][/us/pl/95/628/s6/a], Nov. 10, 1978, [92 Stat. 3630][/us/stat/92/3630]; [Pub. L. 98–369, div. A, title VIII, § 801(d)(13)][/us/pl/98/369/s801/d/13], July 18, 1984, [98 Stat. 997][/us/stat/98/997]; [Pub. L. 110–172, § 11(g)(20)][/us/pl/110/172/s11/g/20], Dec. 29, 2007, [121 Stat. 2491][/us/stat/121/2491].)
+([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 749][/us/stat/68A/749]; [Pub. L. 87–834, § 17(b)(3)][/us/pl/87/834/s17/b/3], Oct. 16, 1962, [76 Stat. 1051][/us/stat/76/1051]; [Pub. L. 92–178, title V, § 504(b)][/us/pl/92/178/s504/b], Dec. 10, 1971, [85 Stat. 551][/us/stat/85/551]; [Pub. L. 94–455, title X, § 1053(d)(3)][/us/pl/94/455/s1053/d/3], title XIX, § 1906(b)(13)(A), Oct. 4, 1976, [90 Stat. 1649][/us/stat/90/1649], 1834; [Pub. L. 95–628, § 6(a)][/us/pl/95/628/s6/a], Nov. 10, 1978, [92 Stat. 3630][/us/stat/92/3630]; [Pub. L. 98–369, div. A, title VIII, § 801(d)(13)][/us/pl/98/369/s801/d/13], July 18, 1984, [98 Stat. 997][/us/stat/98/997]; [Pub. L. 110–172, § 11(g)(20)][/us/pl/110/172/s11/g/20], Dec. 29, 2007, [121 Stat. 2491][/us/stat/121/2491]; [Pub. L. 113–295, div. A, title II, § 220(u)][/us/pl/113/295/s220/u], Dec. 19, 2014, [128 Stat. 4036][/us/stat/128/4036].)
 
  __References in Text__ 
 
     The FSC Repeal and Extraterritorial Income Exclusion Act of 2000, referred to in subsec. (c), is [Pub. L. 106–519][/us/pl/106/519], Nov. 15, 2000, [114 Stat. 2423][/us/stat/114/2423]. For complete classification of this Act to the Code, see Short Title of 2000 Amendments note set out under [section 1 of this title][/us/usc/t26/s1] and Tables.
 
  __Amendments__ 
+
+    2014—Subsec. (b). [Pub. L. 113–295][/us/pl/113/295] substituted “section 6011(c)(2)” for “section 6011(e)(2)”.
 
     2007—Subsec. (c). [Pub. L. 110–172][/us/pl/110/172] substituted “a former FSC (as defined in section 922 as in effect before its repeal by the FSC Repeal and Extraterritorial Income Exclusion Act of 2000)” for “a FSC or former FSC”.
 
@@ -110,9 +112,12 @@
 [/us/stat/98/997]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F997
 [/us/pl/110/172/s11/g/20]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F172%2Fs11%2Fg%2F20
 [/us/stat/121/2491]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F2491
+[/us/pl/113/295/s220/u]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs220%2Fu
+[/us/stat/128/4036]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F4036
 [/us/pl/106/519]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F519
 [/us/stat/114/2423]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2423
 [/us/usc/t26/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs1
+[/us/pl/113/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295
 [/us/pl/110/172]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F172
 [/us/pl/98/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369
 [/us/pl/95/628]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F628

@@ -287,11 +287,11 @@
 
         (1) __In general__ 
 
-            In the case of any welfare benefit fund which is not an organization described in paragraph (7), (9), (17), or (20) of section 501(c), the employer shall include in gross income for any taxable year an amount equal to such fund’s deemed unrelated income for the fund’s taxable year ending within the employer’s taxable year.
+            In the case of any welfare benefit fund which is not an organization described in paragraph (7), (9), (17), or (20)  <sup>\[2\]</sup>  <sup><sup> 2 See References in Text note below. </sup></sup>  of section 501(c), the employer shall include in gross income for any taxable year an amount equal to such fund’s deemed unrelated income for the fund’s taxable year ending within the employer’s taxable year.
 
         (2) __Deemed unrelated income__ 
 
-            For purposes of paragraph (1), the deemed unrelated income of any welfare benefit fund shall be the amount which would have been its unrelated business taxable income under section 512(a)(3) if such fund were an organization described in paragraph (7), (9), (17), or (20) of section 501(c).
+            For purposes of paragraph (1), the deemed unrelated income of any welfare benefit fund shall be the amount which would have been its unrelated business taxable income under section 512(a)(3) if such fund were an organization described in paragraph (7), (9), (17), or (20) 2 of section 501(c).
 
         (3) __Coordination with section 419__ 
 
@@ -324,6 +324,10 @@
         The Secretary shall prescribe such regulations as may be appropriate to carry out the purposes of this subpart. Such regulations may provide that the plan administrator of any welfare benefit fund which is part of a plan to which more than 1 employer contributes shall submit such information to the employers contributing to the fund as may be necessary to enable the employers to comply with the provisions of this section.
 
 (Added [Pub. L. 98–369, div. A, title V, § 511(a)][/us/pl/98/369/s511/a], July 18, 1984, [98 Stat. 856][/us/stat/98/856]; amended [Pub. L. 99–514, title XVIII, § 1851(a)(2)][/us/pl/99/514/s1851/a/2], (3)(A), (4)–(7), (9), (13), Oct. 22, 1986, [100 Stat. 2858–2860][/us/stat/100/2858-2860], 2862; [Pub. L. 100–647, title I, § 1018(t)(1)(C)][/us/pl/100/647/s1018/t/1/C], (2)(A), (u)(12), Nov. 10, 1988, [102 Stat. 3587][/us/stat/102/3587], 3590; [Pub. L. 104–188, title I, § 1704(t)(60)][/us/pl/104/188/s1704/t/60], Aug. 20, 1996, [110 Stat. 1890][/us/stat/110/1890]; [Pub. L. 109–280, title VIII, § 843(a)][/us/pl/109/280/s843/a], Aug. 17, 2006, [120 Stat. 1010][/us/stat/120/1010].)
+
+ __References in Text__ 
+
+    Section 501(c)(20), referred to in subsec. (g)(1), (2), was repealed by [Pub. L. 113–295, div. A, title II, § 221(a)(19)(B)(iii)][/us/pl/113/295/s221/a/19/B/iii], Dec. 19, 2014, [128 Stat. 4040][/us/stat/128/4040].
 
  __Amendments__ 
 
@@ -407,6 +411,8 @@
 [/us/stat/110/1890]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1890
 [/us/pl/109/280/s843/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280%2Fs843%2Fa
 [/us/stat/120/1010]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1010
+[/us/pl/113/295/s221/a/19/B/iii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs221%2Fa%2F19%2FB%2Fiii
+[/us/stat/128/4040]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F4040
 [/us/pl/109/280]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280
 [/us/pl/104/188]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188
 [/us/pl/100/647/s1018/u/12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs1018%2Fu%2F12

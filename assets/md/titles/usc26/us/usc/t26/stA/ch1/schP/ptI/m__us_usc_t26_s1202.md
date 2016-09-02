@@ -49,9 +49,9 @@
 
             In the case of any stock which would be described in the preceding sentence (but for this sentence), the acquisition date for purposes of this subsection shall be the first day on which such stock was held by the taxpayer determined after the application of section 1223.
 
-        (4) __100 percent exclusion for stock acquired during certain periods in 2010, 2011, 2012, and 2013__ 
+        (4) __100 percent exclusion for stock acquired during certain periods in 2010, 2011, 2012, 2013, and 2014__ 
 
-        In the case of qualified small business stock acquired after the date of the enactment of the Creating Small Business Jobs Act of 2010 and before January 1, 2014—
+        In the case of qualified small business stock acquired after the date of the enactment of the Creating Small Business Jobs Act of 2010 and before January 1, 2015—
 
             (A) paragraph (1) shall be applied by substituting “100 percent” for “50 percent”,
 
@@ -385,7 +385,7 @@
 
         The Secretary shall prescribe such regulations as may be appropriate to carry out the purposes of this section, including regulations to prevent the avoidance of the purposes of this section through split-ups, shell corporations, partnerships, or otherwise.
 
-(Added [Pub. L. 103–66, title XIII, § 13113(a)][/us/pl/103/66/s13113/a], Aug. 10, 1993, [107 Stat. 422][/us/stat/107/422]; amended [Pub. L. 104–188, title I, § 1621(b)(7)][/us/pl/104/188/s1621/b/7], Aug. 20, 1996, [110 Stat. 1867][/us/stat/110/1867]; [Pub. L. 106–554, § 1(a)(7)][/us/pl/106/554/s1/a/7] \[title I, § 117(a), (b)(2)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–604; [Pub. L. 108–357, title VIII, § 835(b)(9)][/us/pl/108/357/s835/b/9], Oct. 22, 2004, [118 Stat. 1594][/us/stat/118/1594]; [Pub. L. 111–5, div. B, title I, § 1241(a)][/us/pl/111/5/s1241/a], Feb. 17, 2009, [123 Stat. 342][/us/stat/123/342]; [Pub. L. 111–240, title II, § 2011(a)][/us/pl/111/240/s2011/a], (b), Sept. 27, 2010, [124 Stat. 2554][/us/stat/124/2554]; [Pub. L. 111–312, title VII][/us/pl/111/312], §§ 753(b), 760(a), Dec. 17, 2010, [124 Stat. 3321][/us/stat/124/3321], 3323; [Pub. L. 112–240, title III][/us/pl/112/240], §§ 324(a), (b), 327(b), Jan. 2, 2013, [126 Stat. 2333][/us/stat/126/2333], 2334.)
+(Added [Pub. L. 103–66, title XIII, § 13113(a)][/us/pl/103/66/s13113/a], Aug. 10, 1993, [107 Stat. 422][/us/stat/107/422]; amended [Pub. L. 104–188, title I, § 1621(b)(7)][/us/pl/104/188/s1621/b/7], Aug. 20, 1996, [110 Stat. 1867][/us/stat/110/1867]; [Pub. L. 106–554, § 1(a)(7)][/us/pl/106/554/s1/a/7] \[title I, § 117(a), (b)(2)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–604; [Pub. L. 108–357, title VIII, § 835(b)(9)][/us/pl/108/357/s835/b/9], Oct. 22, 2004, [118 Stat. 1594][/us/stat/118/1594]; [Pub. L. 111–5, div. B, title I, § 1241(a)][/us/pl/111/5/s1241/a], Feb. 17, 2009, [123 Stat. 342][/us/stat/123/342]; [Pub. L. 111–240, title II, § 2011(a)][/us/pl/111/240/s2011/a], (b), Sept. 27, 2010, [124 Stat. 2554][/us/stat/124/2554]; [Pub. L. 111–312, title VII][/us/pl/111/312], §§ 753(b), 760(a), Dec. 17, 2010, [124 Stat. 3321][/us/stat/124/3321], 3323; [Pub. L. 112–240, title III][/us/pl/112/240], §§ 324(a), (b), 327(b), Jan. 2, 2013, [126 Stat. 2333][/us/stat/126/2333], 2334; [Pub. L. 113–295, div. A, title I, § 136(a)][/us/pl/113/295/s136/a], Dec. 19, 2014, [128 Stat. 4019][/us/stat/128/4019].)
 
  __References in Text__ 
 
@@ -404,6 +404,8 @@
     A prior section 1202, acts [Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 320][/us/stat/68A/320]; Oct. 4, 1976, [Pub. L. 94–455, title XIX, § 1901(b)(33)(M)][/us/pl/94/455/s1901/b/33/M], [90 Stat. 1802][/us/stat/90/1802]; Nov. 6, 1978, [Pub. L. 95–600, title IV, § 402(a)][/us/pl/95/600/s402/a], [92 Stat. 2867][/us/stat/92/2867]; Apr. 1, 1980, [Pub. L. 96–222, title I, § 104(a)(2)(A)][/us/pl/96/222/s104/a/2/A], [94 Stat. 214][/us/stat/94/214], authorized deduction for capital gains, prior to repeal by [Pub. L. 99–514, title III, § 301(a)][/us/pl/99/514/s301/a], (c), Oct. 22, 1986, [100 Stat. 2216][/us/stat/100/2216], 2218, applicable to taxable years beginning after Dec. 31, 1986.
 
  __Amendments__ 
+
+    2014—Subsec. (a)(4). [Pub. L. 113–295][/us/pl/113/295] substituted “2013, and 2014” for “and 2013” in heading and “January 1, 2015” for “January 1, 2014” in introductory provisions.
 
     2013—Subsec. (a)(2)(C). [Pub. L. 112–240, § 327(b)][/us/pl/112/240/s327/b], substituted “2018” for “2016” in heading and “December 31, 2018” for “December 31, 2016” in text.
 
@@ -430,6 +432,12 @@
     Subsec. (a). [Pub. L. 106–554, § 1(a)(7)][/us/pl/106/554/s1/a/7] \[title I, § 117(a)\], amended heading and text of subsec. (a) generally. Prior to amendment, text read as follows: “In the case of a taxpayer other than a corporation, gross income shall not include 50 percent of any gain from the sale or exchange of qualified small business stock held for more than 5 years.”
 
     1996—Subsec. (e)(4)(C). [Pub. L. 104–188][/us/pl/104/188] substituted “REMIC, or FASIT” for “or REMIC”.
+
+ __Effective Date of 2014 Amendment__ 
+
+[Pub. L. 113–295, div. A, title I, § 136(b)][/us/pl/113/295/s136/b], Dec. 19, 2014, [128 Stat. 4019][/us/stat/128/4019], provided that: 
+
+> “The amendments made by this section \[amending this section\] shall apply to stock acquired after December 31, 2013.”
 
  __Effective Date of 2013 Amendment__ 
 
@@ -510,6 +518,8 @@
 [/us/stat/124/3321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3321
 [/us/pl/112/240]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F240
 [/us/stat/126/2333]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F2333
+[/us/pl/113/295/s136/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs136%2Fa
+[/us/stat/128/4019]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F4019
 [/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
 [/us/pl/111/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5
 [/us/pl/111/240]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F240
@@ -527,6 +537,7 @@
 [/us/stat/94/214]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F214
 [/us/pl/99/514/s301/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs301%2Fa
 [/us/stat/100/2216]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2216
+[/us/pl/113/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295
 [/us/pl/112/240/s327/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F240%2Fs327%2Fb
 [/us/pl/112/240/s324/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F240%2Fs324%2Fb%2F1
 [/us/pl/112/240/s324/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F240%2Fs324%2Fb%2F2
@@ -540,6 +551,8 @@
 [/us/pl/106/554/s1/a/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F7
 [/us/pl/106/554/s1/a/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F7
 [/us/pl/104/188]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188
+[/us/pl/113/295/s136/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs136%2Fb
+[/us/stat/128/4019]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F4019
 [/us/pl/112/240/s324/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F240%2Fs324%2Fc
 [/us/stat/126/2333]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F2333
 [/us/pl/111/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5

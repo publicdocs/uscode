@@ -185,13 +185,13 @@
 
         For purposes of this subsection, the term “disqualified stock” means—
 
-            (A) any stock in the distributing corporation acquired by purchase after October 9, 1990, and during the 5-year period ending on the date of the distribution, and
+            (A) any stock in the distributing corporation acquired by purchase during the 5-year period ending on the date of the distribution, and
 
             (B)
 
              any stock in any controlled corporation—
 
-                (i) acquired by purchase after October 9, 1990, and during the 5-year period ending on the date of the distribution, or
+                (i) acquired by purchase during the 5-year period ending on the date of the distribution, or
 
                 (ii)
 
@@ -199,7 +199,7 @@
 
                     (I) stock described in subparagraph (A), or
 
-                    (II) any securities in the distributing corporation acquired by purchase after October 9, 1990, and during the 5-year period ending on the date of the distribution.
+                    (II) any securities in the distributing corporation acquired by purchase during the 5-year period ending on the date of the distribution.
 
         (4) __50-percent or greater interest__ 
 
@@ -499,13 +499,15 @@
 
             (C) which modify the application of the attribution rules applied for purposes of this subsection.
 
-([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 113][/us/stat/68A/113]; [Pub. L. 94–455, title XIX, § 1906(b)(13)(A)][/us/pl/94/455/s1906/b/13/A], Oct. 4, 1976, [90 Stat. 1834][/us/stat/90/1834]; [Pub. L. 96–589, § 4(e)(2)][/us/pl/96/589/s4/e/2], Dec. 24, 1980, [94 Stat. 3403][/us/stat/94/3403]; [Pub. L. 100–203, title X, § 10223(b)][/us/pl/100/203/s10223/b], Dec. 22, 1987, [101 Stat. 1330–411][/us/stat/101/1330-411]; [Pub. L. 100–647, title I, § 1018(d)(5)(C)][/us/pl/100/647/s1018/d/5/C], title II, § 2004(k)(1), Nov. 10, 1988, [102 Stat. 3580][/us/stat/102/3580], 3605; [Pub. L. 101–508, title XI][/us/pl/101/508], §§ 11321(a), 11702(e)(2), Nov. 5, 1990, [104 Stat. 1388–460][/us/stat/104/1388-460], 1388–515; [Pub. L. 104–188, title I, § 1704(t)(31)][/us/pl/104/188/s1704/t/31], Aug. 20, 1996, [110 Stat. 1889][/us/stat/110/1889]; [Pub. L. 105–34, title X][/us/pl/105/34], §§ 1012(a), (b)(1), 1014(c), (e)(1), (2), Aug. 5, 1997, [111 Stat. 914][/us/stat/111/914], 916, 921; [Pub. L. 105–206, title VI, § 6010(c)(2)][/us/pl/105/206/s6010/c/2], July 22, 1998, [112 Stat. 813][/us/stat/112/813]; [Pub. L. 109–222, title II, § 202][/us/pl/109/222/s202], title V, § 507(a), May 17, 2006, [120 Stat. 348][/us/stat/120/348], 358; [Pub. L. 109–432, div. A, title IV, § 410(a)][/us/pl/109/432/s410/a], Dec. 20, 2006, [120 Stat. 2963][/us/stat/120/2963]; [Pub. L. 110–172, § 4(b)(1)][/us/pl/110/172/s4/b/1], (2), Dec. 29, 2007, [121 Stat. 2476][/us/stat/121/2476].)
+([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 113][/us/stat/68A/113]; [Pub. L. 94–455, title XIX, § 1906(b)(13)(A)][/us/pl/94/455/s1906/b/13/A], Oct. 4, 1976, [90 Stat. 1834][/us/stat/90/1834]; [Pub. L. 96–589, § 4(e)(2)][/us/pl/96/589/s4/e/2], Dec. 24, 1980, [94 Stat. 3403][/us/stat/94/3403]; [Pub. L. 100–203, title X, § 10223(b)][/us/pl/100/203/s10223/b], Dec. 22, 1987, [101 Stat. 1330–411][/us/stat/101/1330-411]; [Pub. L. 100–647, title I, § 1018(d)(5)(C)][/us/pl/100/647/s1018/d/5/C], title II, § 2004(k)(1), Nov. 10, 1988, [102 Stat. 3580][/us/stat/102/3580], 3605; [Pub. L. 101–508, title XI][/us/pl/101/508], §§ 11321(a), 11702(e)(2), Nov. 5, 1990, [104 Stat. 1388–460][/us/stat/104/1388-460], 1388–515; [Pub. L. 104–188, title I, § 1704(t)(31)][/us/pl/104/188/s1704/t/31], Aug. 20, 1996, [110 Stat. 1889][/us/stat/110/1889]; [Pub. L. 105–34, title X][/us/pl/105/34], §§ 1012(a), (b)(1), 1014(c), (e)(1), (2), Aug. 5, 1997, [111 Stat. 914][/us/stat/111/914], 916, 921; [Pub. L. 105–206, title VI, § 6010(c)(2)][/us/pl/105/206/s6010/c/2], July 22, 1998, [112 Stat. 813][/us/stat/112/813]; [Pub. L. 109–222, title II, § 202][/us/pl/109/222/s202], title V, § 507(a), May 17, 2006, [120 Stat. 348][/us/stat/120/348], 358; [Pub. L. 109–432, div. A, title IV, § 410(a)][/us/pl/109/432/s410/a], Dec. 20, 2006, [120 Stat. 2963][/us/stat/120/2963]; [Pub. L. 110–172, § 4(b)(1)][/us/pl/110/172/s4/b/1], (2), Dec. 29, 2007, [121 Stat. 2476][/us/stat/121/2476]; [Pub. L. 113–295, div. A, title II, § 221(a)(50)][/us/pl/113/295/s221/a/50], Dec. 19, 2014, [128 Stat. 4045][/us/stat/128/4045].)
 
  __References in Text__ 
 
     The date of the enactment of this subsection, referred to in subsec. (g)(2)(A)(i), is the date of enactment of [Pub. L. 109–222][/us/pl/109/222], which was approved May 17, 2006.
 
  __Amendments__ 
+
+    2014—Subsec. (d)(3)(A), (B)(i), (ii)(II). [Pub. L. 113–295][/us/pl/113/295] struck out “after October 9, 1990, and” after “acquired by purchase”.
 
     2007—Subsec. (b)(2)(A). [Pub. L. 110–172, § 4(b)(1)][/us/pl/110/172/s4/b/1], amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “it is engaged in the active conduct of a trade or business, or substantially all of its assets consist of stock and securities of a corporation controlled by it (immediately after the distribution) which is so engaged,”.
 
@@ -586,6 +588,10 @@
     Subsec. (a)(4). [Pub. L. 96–589, § 4(e)(2)][/us/pl/96/589/s4/e/2], designated existing provisions as subpar. (A), substituted “exchange if any property” for “distribution if any property”, inserted provisions excluding property to which paragraph (3)(C) applies, and added subpar. (B).
 
     1976—Subsec. (a)(1)(D)(ii). [Pub. L. 94–455][/us/pl/94/455] struck out “or his delegate” after “Secretary”.
+
+ __Effective Date of 2014 Amendment__ 
+
+    Amendment by [Pub. L. 113–295][/us/pl/113/295] effective Dec. 19, 2014, subject to a savings provision, see [section 221(b) of Pub. L. 113–295][/us/pl/113/295/s221/b], set out as a note under [section 1 of this title][/us/usc/t26/s1].
 
  __Effective Date of 2007 Amendment__ 
 
@@ -738,7 +744,10 @@
 [/us/stat/120/2963]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2963
 [/us/pl/110/172/s4/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F172%2Fs4%2Fb%2F1
 [/us/stat/121/2476]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F2476
+[/us/pl/113/295/s221/a/50]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs221%2Fa%2F50
+[/us/stat/128/4045]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F4045
 [/us/pl/109/222]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F222
+[/us/pl/113/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295
 [/us/pl/110/172/s4/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F172%2Fs4%2Fb%2F1
 [/us/pl/110/172/s4/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F172%2Fs4%2Fb%2F2
 [/us/pl/109/222/s202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F222%2Fs202
@@ -763,6 +772,9 @@
 [/us/pl/96/589]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F589
 [/us/pl/96/589/s4/e/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F589%2Fs4%2Fe%2F2
 [/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455
+[/us/pl/113/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295
+[/us/pl/113/295/s221/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs221%2Fb
+[/us/usc/t26/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs1
 [/us/pl/110/172/s4/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F172%2Fs4%2Fd
 [/us/stat/121/2478]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F2478
 [/us/pl/109/222]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F222

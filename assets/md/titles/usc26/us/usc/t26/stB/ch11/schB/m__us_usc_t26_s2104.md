@@ -31,11 +31,13 @@
 
         (2) the United States, a State or any political subdivision thereof, or the District of Columbia,
 
-        owned and held by a nonresident not a citizen of the United States shall be deemed property within the United States. With respect to estates of decedents dying after December 31, 1969, deposits with a domestic branch of a foreign corporation, if such branch is engaged in the commercial banking business, shall, for purposes of this subchapter, be deemed property within the United States. This subsection shall not apply to a debt obligation to which section 2105(b) applies.
+        owned and held by a nonresident not a citizen of the United States shall be deemed property within the United States. Deposits with a domestic branch of a foreign corporation, if such branch is engaged in the commercial banking business, shall, for purposes of this subchapter, be deemed property within the United States. This subsection shall not apply to a debt obligation to which section 2105(b) applies.
 
-([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 397][/us/stat/68A/397]; [Pub. L. 89–809, title I, § 108(c)][/us/pl/89/809/s108/c], Nov. 13, 1966, [80 Stat. 1572][/us/stat/80/1572]; [Pub. L. 91–172, title IV, § 435(b)][/us/pl/91/172/s435/b], Dec. 30, 1969, [83 Stat. 625][/us/stat/83/625]; [Pub. L. 93–17, § 3(a)(1)][/us/pl/93/17/s3/a/1], Apr. 10, 1973, [87 Stat. 12][/us/stat/87/12]; [Pub. L. 93–625, § 9(b)][/us/pl/93/625/s9/b], Jan. 3, 1975, [88 Stat. 2116][/us/stat/88/2116]; [Pub. L. 94–455, title XX, § 2001(c)(1)(L)][/us/pl/94/455/s2001/c/1/L], Oct. 4, 1976, [90 Stat. 1853][/us/stat/90/1853]; [Pub. L. 100–647, title I, § 1012(q)(11)][/us/pl/100/647/s1012/q/11], Nov. 10, 1988, [102 Stat. 3525][/us/stat/102/3525]; [Pub. L. 104–188, title I, § 1704(t)(38)][/us/pl/104/188/s1704/t/38], Aug. 20, 1996, [110 Stat. 1889][/us/stat/110/1889]; [Pub. L. 111–226, title II, § 217(c)(3)][/us/pl/111/226/s217/c/3], Aug. 10, 2010, [124 Stat. 2402][/us/stat/124/2402].)
+([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 397][/us/stat/68A/397]; [Pub. L. 89–809, title I, § 108(c)][/us/pl/89/809/s108/c], Nov. 13, 1966, [80 Stat. 1572][/us/stat/80/1572]; [Pub. L. 91–172, title IV, § 435(b)][/us/pl/91/172/s435/b], Dec. 30, 1969, [83 Stat. 625][/us/stat/83/625]; [Pub. L. 93–17, § 3(a)(1)][/us/pl/93/17/s3/a/1], Apr. 10, 1973, [87 Stat. 12][/us/stat/87/12]; [Pub. L. 93–625, § 9(b)][/us/pl/93/625/s9/b], Jan. 3, 1975, [88 Stat. 2116][/us/stat/88/2116]; [Pub. L. 94–455, title XX, § 2001(c)(1)(L)][/us/pl/94/455/s2001/c/1/L], Oct. 4, 1976, [90 Stat. 1853][/us/stat/90/1853]; [Pub. L. 100–647, title I, § 1012(q)(11)][/us/pl/100/647/s1012/q/11], Nov. 10, 1988, [102 Stat. 3525][/us/stat/102/3525]; [Pub. L. 104–188, title I, § 1704(t)(38)][/us/pl/104/188/s1704/t/38], Aug. 20, 1996, [110 Stat. 1889][/us/stat/110/1889]; [Pub. L. 111–226, title II, § 217(c)(3)][/us/pl/111/226/s217/c/3], Aug. 10, 2010, [124 Stat. 2402][/us/stat/124/2402]; [Pub. L. 113–295, div. A, title II, § 221(a)(98)][/us/pl/113/295/s221/a/98], Dec. 19, 2014, [128 Stat. 4051][/us/stat/128/4051].)
 
  __Amendments__ 
+
+    2014—Subsec. (c). [Pub. L. 113–295][/us/pl/113/295] substituted “Deposits” for “With respect to estates of decedents dying after December 31, 1969, deposits” in concluding provisions.
 
     2010—Subsec. (c). [Pub. L. 111–226][/us/pl/111/226], in concluding provisions, struck out before period at end “or to a debt obligation of a domestic corporation if any interest on such obligation, were such interest received by the decedent at the time of his death, would be treated by reason of section 861(a)(1)(A) as income from sources without the United States”.
 
@@ -52,6 +54,10 @@
     1969—Subsec. (c). [Pub. L. 91–172][/us/pl/91/172] substituted “December 31, 1969” for “December 31, 1972” in provisions deeming deposit with a domestic branch of a foreign corporation if such branch is engaged in the commercial banking business to be property within the United States.
 
     1966—Subsec. (c). [Pub. L. 89–809][/us/pl/89/809] added subsec. (c).
+
+ __Effective Date of 2014 Amendment__ 
+
+    Amendment by [Pub. L. 113–295][/us/pl/113/295] effective Dec. 19, 2014, subject to a savings provision, see [section 221(b) of Pub. L. 113–295][/us/pl/113/295/s221/b], set out as a note under [section 1 of this title][/us/usc/t26/s1].
 
  __Effective Date of 2010 Amendment__ 
 
@@ -110,6 +116,9 @@
 [/us/stat/110/1889]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1889
 [/us/pl/111/226/s217/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F226%2Fs217%2Fc%2F3
 [/us/stat/124/2402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2402
+[/us/pl/113/295/s221/a/98]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs221%2Fa%2F98
+[/us/stat/128/4051]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F4051
+[/us/pl/113/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295
 [/us/pl/111/226]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F226
 [/us/pl/104/188]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188
 [/us/pl/100/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647
@@ -120,6 +129,9 @@
 [/us/usc/t26/s861/a/1/G]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs861%2Fa%2F1%2FG
 [/us/pl/91/172]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F172
 [/us/pl/89/809]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F809
+[/us/pl/113/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295
+[/us/pl/113/295/s221/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs221%2Fb
+[/us/usc/t26/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs1
 [/us/pl/111/226]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F226
 [/us/pl/111/226/s217/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F226%2Fs217%2Fd
 [/us/usc/t26/s861]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs861

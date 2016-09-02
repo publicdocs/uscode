@@ -187,13 +187,13 @@
 
             (B) __Specified mark to market provision__ 
 
-                For purposes of this paragraph, the term “specified mark to market provision” means sections 1256 and 1296 and any other provision of this title (or regulations thereunder) which treats property as disposed of on the last day of the taxable year.
+                For purposes of this paragraph, the term “specified mark to market provision” means sections 1256 and 1296 and any other provision of this title (or regulations thereunder) which treats property as disposed of on the last day of the taxable year or which determines income by reference to the value of an item on the last day of the taxable year.
 
         (7) __Elective deferral of certain ordinary losses__ 
 
         Except as provided in regulations prescribed by the Secretary, in the case of a regulated investment company which has a taxable year other than the calendar year—
 
-            (A) such company may elect to determine its ordinary income for the calendar year without regard to any net ordinary loss (determined without regard to specified gains and losses taken into account under paragraph (5)) which is attributable to the portion of such calendar year which is after the beginning of the taxable year which begins in such calendar year, and
+            (A) such company may elect to determine its ordinary income and net ordinary loss (as defined in paragraph (2)(C)(ii)) for the calendar year without regard to any portion of any net ordinary loss (determined without regard to specified gains and losses taken into account under paragraph (5)) which is attributable to the portion of such calendar year which is after the beginning of the taxable year which begins in such calendar year, and
 
             (B) any amount of net ordinary loss not taken into account for a calendar year by reason of subparagraph (A) shall be treated as arising on the 1st day of the following calendar year.
 
@@ -203,7 +203,7 @@
 
         (1) a trust described in section 401(a) and exempt from tax under section 501(a),
 
-        (2) a segregated asset account of a life insurance company held in connection with variable contracts (as defined in section 817(d))  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be followed by a comma. </sup></sup> 
+        (2) a segregated asset account of a life insurance company held in connection with variable contracts (as defined in section 817(d)),
 
         (3) any other tax-exempt entity whose ownership of beneficial interests in the company would not preclude the application of section 817(h)(4), or
 
@@ -211,9 +211,15 @@
 
         For purposes of the preceding sentence, any shares attributable to an investment in the regulated investment company (not exceeding $250,000) made in connection with the organization of such company shall not be taken into account.
 
-(Added [Pub. L. 99–514, title VI, § 651(a)][/us/pl/99/514/s651/a], Oct. 22, 1986, [100 Stat. 2294][/us/stat/100/2294]; amended [Pub. L. 100–203, title X, § 10104(b)(1)][/us/pl/100/203/s10104/b/1], Dec. 22, 1987, [101 Stat. 1330–387][/us/stat/101/1330-387]; [Pub. L. 100–647, title I, § 1006][/us/pl/100/647/s1006](l)(2), (5), (6), Nov. 10, 1988, [102 Stat. 3413][/us/stat/102/3413], 3414; [Pub. L. 101–239, title VII, § 7204(a)(1)][/us/pl/101/239/s7204/a/1], Dec. 19, 1989, [103 Stat. 2334][/us/stat/103/2334]; [Pub. L. 105–34, title XI, § 1122(c)(1)][/us/pl/105/34/s1122/c/1], Aug. 5, 1997, [111 Stat. 976][/us/stat/111/976]; [Pub. L. 111–325, title IV][/us/pl/111/325], §§ 401(a), 402(a), 403(a), 404(a), Dec. 22, 2010, [124 Stat. 3552–3554][/us/stat/124/3552-3554].)
+(Added [Pub. L. 99–514, title VI, § 651(a)][/us/pl/99/514/s651/a], Oct. 22, 1986, [100 Stat. 2294][/us/stat/100/2294]; amended [Pub. L. 100–203, title X, § 10104(b)(1)][/us/pl/100/203/s10104/b/1], Dec. 22, 1987, [101 Stat. 1330–387][/us/stat/101/1330-387]; [Pub. L. 100–647, title I, § 1006][/us/pl/100/647/s1006](l)(2), (5), (6), Nov. 10, 1988, [102 Stat. 3413][/us/stat/102/3413], 3414; [Pub. L. 101–239, title VII, § 7204(a)(1)][/us/pl/101/239/s7204/a/1], Dec. 19, 1989, [103 Stat. 2334][/us/stat/103/2334]; [Pub. L. 105–34, title XI, § 1122(c)(1)][/us/pl/105/34/s1122/c/1], Aug. 5, 1997, [111 Stat. 976][/us/stat/111/976]; [Pub. L. 111–325, title IV][/us/pl/111/325], §§ 401(a), 402(a), 403(a), 404(a), Dec. 22, 2010, [124 Stat. 3552–3554][/us/stat/124/3552-3554]; [Pub. L. 113–295, div. A, title II][/us/pl/113/295], §§ 205(d), 220(s), Dec. 19, 2014, [128 Stat. 4026][/us/stat/128/4026], 4036.)
 
  __Amendments__ 
+
+    2014—Subsec. (e)(6)(B). [Pub. L. 113–295, § 205(d)(1)][/us/pl/113/295/s205/d/1], inserted “or which determines income by reference to the value of an item on the last day of the taxable year” before period at end.
+
+    Subsec. (e)(7)(A). [Pub. L. 113–295, § 205(d)(2)][/us/pl/113/295/s205/d/2], substituted “such company may elect to determine its ordinary income and net ordinary loss (as defined in paragraph (2)(C)(ii)) for the calendar year without regard to any portion of any net ordinary loss” for “such company may elect to determine its ordinary income for the calendar year without regard to any net ordinary loss”.
+
+    Subsec. (f)(2). [Pub. L. 113–295, § 220(s)][/us/pl/113/295/s220/s], inserted comma at end.
 
     2010—Subsec. (b)(1)(B). [Pub. L. 111–325, § 404(a)][/us/pl/111/325/s404/a], substituted “98.2 percent” for “98 percent”.
 
@@ -236,6 +242,10 @@
     Subsec. (f). [Pub. L. 100–647, § 1006][/us/pl/100/647/s1006](l)(6), added subsec. (f).
 
     1987—Subsec. (b)(1)(B). [Pub. L. 100–203][/us/pl/100/203] substituted “98 percent” for “90 percent”.
+
+ __Effective Date of 2014 Amendment__ 
+
+    Amendment by [section 205(d) of Pub. L. 113–295][/us/pl/113/295/s205/d] effective as if included in the provision of the Regulated Investment Company Modernization Act of 2010, [Pub. L. 111–325][/us/pl/111/325], to which such amendment relates, with savings provision in certain cases of an election by a regulated investment company under [section 852(b)(8) of this title][/us/usc/t26/s852/b/8], see [section 205(f) of Pub. L. 113–295][/us/pl/113/295/s205/f], set out as a note under [section 852 of this title][/us/usc/t26/s852].
 
  __Effective Date of 2010 Amendment__ 
 
@@ -300,6 +310,11 @@
 [/us/stat/111/976]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F976
 [/us/pl/111/325]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F325
 [/us/stat/124/3552-3554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3552-3554
+[/us/pl/113/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295
+[/us/stat/128/4026]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F4026
+[/us/pl/113/295/s205/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs205%2Fd%2F1
+[/us/pl/113/295/s205/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs205%2Fd%2F2
+[/us/pl/113/295/s220/s]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs220%2Fs
 [/us/pl/111/325/s404/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F325%2Fs404%2Fa
 [/us/pl/111/325/s403/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F325%2Fs403%2Fa
 [/us/pl/111/325/s402/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F325%2Fs402%2Fa
@@ -311,6 +326,11 @@
 [/us/pl/100/647/s1006]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs1006
 [/us/pl/100/647/s1006]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs1006
 [/us/pl/100/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203
+[/us/pl/113/295/s205/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs205%2Fd
+[/us/pl/111/325]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F325
+[/us/usc/t26/s852/b/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs852%2Fb%2F8
+[/us/pl/113/295/s205/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs205%2Ff
+[/us/usc/t26/s852]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs852
 [/us/pl/111/325/s401/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F325%2Fs401%2Fb
 [/us/stat/124/3552]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3552
 [/us/pl/111/325/s402/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F325%2Fs402%2Fb

@@ -115,13 +115,11 @@
 
                 (i) in lieu of the exception under section 163(h)(2)(D), the term “personal interest” shall not include any qualified housing interest (as defined in subsection (e)),
 
-                (ii) sections 163(d)(6) and 163(h)(5) (relating to phase-ins) shall not apply,
+                (ii) interest on any specified private activity bond (and any amount treated as interest on a specified private activity bond under section 57(a)(5)(B)), and any deduction referred to in section 57(a)(5)(A), shall be treated as includible in gross income (or as deductible) for purposes of applying section 163(d),
 
-                (iii) interest on any specified private activity bond (and any amount treated as interest on a specified private activity bond under section 57(a)(5)(B)), and any deduction referred to in section 57(a)(5)(A), shall be treated as includible in gross income (or as deductible) for purposes of applying section 163(d),
+                (iii) in lieu of the exception under section 163(d)(3)(B)(i), the term “investment interest” shall not include any qualified housing interest (as defined in subsection (e)), and
 
-                (iv) in lieu of the exception under section 163(d)(3)(B)(i), the term “investment interest” shall not include any qualified housing interest (as defined in subsection (e)), and
-
-                (v) the adjustments of this section and sections 57 and 58 shall apply in determining net investment income under section 163(d).
+                (iv) the adjustments of this section and sections 57 and 58 shall apply in determining net investment income under section 163(d).
 
             (D) __Treatment of certain recoveries__ 
 
@@ -129,7 +127,7 @@
 
             (E) __Standard deduction and deduction for personal exemptions not allowed__ 
 
-                The standard deduction under section 63(c), the deduction for personal exemptions under section 151, and the deduction under section 642(b) shall not be allowed. The preceding sentence shall not apply to so much of the standard deduction as is determined under subparagraphs (D) and (E) of section 63(c)(1).
+                The standard deduction under section 63(c), the deduction for personal exemptions under section 151, and the deduction under section 642(b) shall not be allowed. The preceding sentence shall not apply to so much of the standard deduction as is determined under subparagraphs (D) and (E)  <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  of section 63(c)(1).
 
             (F) __Section 68 not applicable__ 
 
@@ -215,7 +213,7 @@
 
                  the lesser of—
 
-                    (I) the amount of such deduction attributable to an applicable net operating loss with respect to which an election is made under section 172(b)(1)(H), or
+                    (I) the amount of such deduction attributable to an applicable net operating loss with respect to which an election is made under section 172(b)(1)(H),1 or
 
                     (II) alternative minimum taxable income determined without regard to such deduction and the deduction under section 199 reduced by the amount determined under clause (i), and
 
@@ -242,10 +240,6 @@
             (B) __Pre-1987 years__ 
 
                 In the case of loss years beginning before January 1, 1987, the amount of the net operating loss which may be carried over to taxable years beginning after December 31, 1986, for purposes of paragraph (2), shall be equal to the amount which may be carried from the loss year to the first taxable year of the taxpayer beginning after December 31, 1986.
-
-        (3) __Net operating loss attributable to federally declared disasters__ 
-
-            In the case of a taxpayer which has a qualified disaster loss (as defined by section 172(b)(1)(J)) for the taxable year, paragraph (1) shall be applied by increasing the amount determined under subparagraph (A)(ii)(I) thereof by the sum of the carrybacks and carryovers of such loss.
 
     (e) __Qualified housing interest__ 
 
@@ -483,7 +477,7 @@
 
                 (ii) __Exception for independent oil and gas producers and royalty owners__ 
 
-                    In the case of any taxable year beginning after December 31, 1992, clause (i) (and subparagraph (C)(i)) shall not apply to any deduction for depletion computed in accordance with section 613A(c).
+                    Clause (i) (and subparagraph (C)(i)) shall not apply to any deduction for depletion computed in accordance with section 613A(c).
 
             (G) __Treatment of certain ownership changes__ 
 
@@ -519,13 +513,17 @@
 
             This subsection shall not apply to any S corporation, regulated investment company, real estate investment trust, or REMIC.
 
-(Added [Pub. L. 99–514, title VII, § 701(a)][/us/pl/99/514/s701/a], Oct. 22, 1986, [100 Stat. 2322][/us/stat/100/2322]; amended [Pub. L. 100–203, title X][/us/pl/100/203], §§ 10202(d), 10243(a), Dec. 22, 1987, [101 Stat. 1330–392][/us/stat/101/1330-392], 1330–423; [Pub. L. 100–647, title I][/us/pl/100/647], §§ 1002(a)(12), 1007(b)(1)–(14)(A), (15)–(19), title II, §§ 2001(c)(3)(A), 2004(b)(2), (3), title V, § 5041(b)(4), title VI, §§ 6079(a)(1), 6303(a), Nov. 10, 1988, [102 Stat. 3355][/us/stat/102/3355], 3428–3432, 3594, 3599, 3674, 3709, 3755; [Pub. L. 101–239, title VII][/us/pl/101/239], §§ 7205(b), 7611(a)–(f)(4), 7612(c)(1), (d)(1), 7811(d)(3), 7815(e)(2), (4), Dec. 19, 1989, [103 Stat. 2335][/us/stat/103/2335], 2371–2374, 2408, 2419; [Pub. L. 101–508, title XI][/us/pl/101/508], §§ 11103(b), 11301(b), 11531(a), (b)(1), 11704(a)(1), 11801(a)(3), (c)(2)(A)–(C), (9)(G), 11812(b)(4), Nov. 5, 1990, [104 Stat. 1388–406][/us/stat/104/1388-406], 1388–449, 1388–488, 1388–490, 1388–518, 1388–520, 1388–522, 1388–523, 1388–526, 1388–535; [Pub. L. 102–486, title XIX, § 1915(a)(2)][/us/pl/102/486/s1915/a/2], (b)(2), (c)(1), (2), Oct. 24, 1992, [106 Stat. 3023][/us/stat/106/3023], 3024; [Pub. L. 103–66, title XIII][/us/pl/103/66], §§ 13115(a), 13171(b), 13227(c), Aug. 10, 1993, [107 Stat. 432][/us/stat/107/432], 454, 493; [Pub. L. 104–188, title I][/us/pl/104/188], §§ 1601(b)(2)(B), (C), 1621(b)(2), 1702(c)(1), (e)(1)(A), (g)(4), (h)(12), 1704(t)(1), (48), Aug. 20, 1996, [110 Stat. 1832][/us/stat/110/1832], 1833, 1867, 1869, 1870, 1873, 1874, 1887, 1889; [Pub. L. 105–34, title III, § 312(d)(1)][/us/pl/105/34/s312/d/1], title IV, §§ 402, 403(a), title XII, § 1212(a), Aug. 5, 1997, [111 Stat. 839][/us/stat/111/839], 844, 1000; [Pub. L. 105–277, div. J, title IV, § 4006(c)(2)][/us/pl/105/277/s4006/c/2], Oct. 21, 1998, [112 Stat. 2681–912][/us/stat/112/2681-912]; [Pub. L. 106–519, § 4(1)][/us/pl/106/519/s4/1], Nov. 15, 2000, [114 Stat. 2432][/us/stat/114/2432]; [Pub. L. 106–554, § 1(a)(7)][/us/pl/106/554/s1/a/7] \[title III, § 314(d)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–643; [Pub. L. 107–147, title I, § 102(c)(1)][/us/pl/107/147/s102/c/1], title IV, § 417(5), Mar. 9, 2002, [116 Stat. 26][/us/stat/116/26], 56; [Pub. L. 108–173, title XII, § 1202(b)][/us/pl/108/173/s1202/b], Dec. 8, 2003, [117 Stat. 2480][/us/stat/117/2480]; [Pub. L. 108–311, title IV, § 403(b)(4)][/us/pl/108/311/s403/b/4], Oct. 4, 2004, [118 Stat. 1187][/us/stat/118/1187]; [Pub. L. 108–357, title I][/us/pl/108/357], §§ 101(b)(4), 102(b), title II, § 248(b)(1), title IV, § 422(b), title VIII, § 835(b)(1), Oct. 22, 2004, [118 Stat. 1423][/us/stat/118/1423], 1428, 1457, 1519, 1593; [Pub. L. 109–58, title XIII, § 1326(d)][/us/pl/109/58/s1326/d], Aug. 8, 2005, [119 Stat. 1017][/us/stat/119/1017]; [Pub. L. 109–135, title IV, § 403(a)(14)][/us/pl/109/135/s403/a/14], (r)(2), Dec. 21, 2005, [119 Stat. 2619][/us/stat/119/2619], 2628; [Pub. L. 109–304, § 17(e)(1)][/us/pl/109/304/s17/e/1], Oct. 6, 2006, [120 Stat. 1707][/us/stat/120/1707]; [Pub. L. 110–172, § 11(g)(1)][/us/pl/110/172/s11/g/1], (2), Dec. 29, 2007, [121 Stat. 2489][/us/stat/121/2489], 2490; [Pub. L. 110–289, div. C, title I, § 3022(a)(2)][/us/pl/110/289/s3022/a/2], July 30, 2008, [122 Stat. 2894][/us/stat/122/2894]; [Pub. L. 110–343, div. C, title VII][/us/pl/110/343], §§ 706(b)(3), 708(c), Oct. 3, 2008, [122 Stat. 3922][/us/stat/122/3922], 3925; [Pub. L. 111–5, div. B, title I][/us/pl/111/5], §§ 1008(d), 1503(b), Feb. 17, 2009, [123 Stat. 318][/us/stat/123/318], 354; [Pub. L. 111–92, § 13(b)][/us/pl/111/92/s13/b], Nov. 6, 2009, [123 Stat. 2993][/us/stat/123/2993]; [Pub. L. 111–148, title IX, § 9013(c)][/us/pl/111/148/s9013/c], Mar. 23, 2010, [124 Stat. 868][/us/stat/124/868].)
+(Added [Pub. L. 99–514, title VII, § 701(a)][/us/pl/99/514/s701/a], Oct. 22, 1986, [100 Stat. 2322][/us/stat/100/2322]; amended [Pub. L. 100–203, title X][/us/pl/100/203], §§ 10202(d), 10243(a), Dec. 22, 1987, [101 Stat. 1330–392][/us/stat/101/1330-392], 1330–423; [Pub. L. 100–647, title I][/us/pl/100/647], §§ 1002(a)(12), 1007(b)(1)–(14)(A), (15)–(19), title II, §§ 2001(c)(3)(A), 2004(b)(2), (3), title V, § 5041(b)(4), title VI, §§ 6079(a)(1), 6303(a), Nov. 10, 1988, [102 Stat. 3355][/us/stat/102/3355], 3428–3432, 3594, 3599, 3674, 3709, 3755; [Pub. L. 101–239, title VII][/us/pl/101/239], §§ 7205(b), 7611(a)–(f)(4), 7612(c)(1), (d)(1), 7811(d)(3), 7815(e)(2), (4), Dec. 19, 1989, [103 Stat. 2335][/us/stat/103/2335], 2371–2374, 2408, 2419; [Pub. L. 101–508, title XI][/us/pl/101/508], §§ 11103(b), 11301(b), 11531(a), (b)(1), 11704(a)(1), 11801(a)(3), (c)(2)(A)–(C), (9)(G), 11812(b)(4), Nov. 5, 1990, [104 Stat. 1388–406][/us/stat/104/1388-406], 1388–449, 1388–488, 1388–490, 1388–518, 1388–520, 1388–522, 1388–523, 1388–526, 1388–535; [Pub. L. 102–486, title XIX, § 1915(a)(2)][/us/pl/102/486/s1915/a/2], (b)(2), (c)(1), (2), Oct. 24, 1992, [106 Stat. 3023][/us/stat/106/3023], 3024; [Pub. L. 103–66, title XIII][/us/pl/103/66], §§ 13115(a), 13171(b), 13227(c), Aug. 10, 1993, [107 Stat. 432][/us/stat/107/432], 454, 493; [Pub. L. 104–188, title I][/us/pl/104/188], §§ 1601(b)(2)(B), (C), 1621(b)(2), 1702(c)(1), (e)(1)(A), (g)(4), (h)(12), 1704(t)(1), (48), Aug. 20, 1996, [110 Stat. 1832][/us/stat/110/1832], 1833, 1867, 1869, 1870, 1873, 1874, 1887, 1889; [Pub. L. 105–34, title III, § 312(d)(1)][/us/pl/105/34/s312/d/1], title IV, §§ 402, 403(a), title XII, § 1212(a), Aug. 5, 1997, [111 Stat. 839][/us/stat/111/839], 844, 1000; [Pub. L. 105–277, div. J, title IV, § 4006(c)(2)][/us/pl/105/277/s4006/c/2], Oct. 21, 1998, [112 Stat. 2681–912][/us/stat/112/2681-912]; [Pub. L. 106–519, § 4(1)][/us/pl/106/519/s4/1], Nov. 15, 2000, [114 Stat. 2432][/us/stat/114/2432]; [Pub. L. 106–554, § 1(a)(7)][/us/pl/106/554/s1/a/7] \[title III, § 314(d)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–643; [Pub. L. 107–147, title I, § 102(c)(1)][/us/pl/107/147/s102/c/1], title IV, § 417(5), Mar. 9, 2002, [116 Stat. 26][/us/stat/116/26], 56; [Pub. L. 108–173, title XII, § 1202(b)][/us/pl/108/173/s1202/b], Dec. 8, 2003, [117 Stat. 2480][/us/stat/117/2480]; [Pub. L. 108–311, title IV, § 403(b)(4)][/us/pl/108/311/s403/b/4], Oct. 4, 2004, [118 Stat. 1187][/us/stat/118/1187]; [Pub. L. 108–357, title I][/us/pl/108/357], §§ 101(b)(4), 102(b), title II, § 248(b)(1), title IV, § 422(b), title VIII, § 835(b)(1), Oct. 22, 2004, [118 Stat. 1423][/us/stat/118/1423], 1428, 1457, 1519, 1593; [Pub. L. 109–58, title XIII, § 1326(d)][/us/pl/109/58/s1326/d], Aug. 8, 2005, [119 Stat. 1017][/us/stat/119/1017]; [Pub. L. 109–135, title IV, § 403(a)(14)][/us/pl/109/135/s403/a/14], (r)(2), Dec. 21, 2005, [119 Stat. 2619][/us/stat/119/2619], 2628; [Pub. L. 109–304, § 17(e)(1)][/us/pl/109/304/s17/e/1], Oct. 6, 2006, [120 Stat. 1707][/us/stat/120/1707]; [Pub. L. 110–172, § 11(g)(1)][/us/pl/110/172/s11/g/1], (2), Dec. 29, 2007, [121 Stat. 2489][/us/stat/121/2489], 2490; [Pub. L. 110–289, div. C, title I, § 3022(a)(2)][/us/pl/110/289/s3022/a/2], July 30, 2008, [122 Stat. 2894][/us/stat/122/2894]; [Pub. L. 110–343, div. C, title VII][/us/pl/110/343], §§ 706(b)(3), 708(c), Oct. 3, 2008, [122 Stat. 3922][/us/stat/122/3922], 3925; [Pub. L. 111–5, div. B, title I][/us/pl/111/5], §§ 1008(d), 1503(b), Feb. 17, 2009, [123 Stat. 318][/us/stat/123/318], 354; [Pub. L. 111–92, § 13(b)][/us/pl/111/92/s13/b], Nov. 6, 2009, [123 Stat. 2993][/us/stat/123/2993]; [Pub. L. 111–148, title IX, § 9013(c)][/us/pl/111/148/s9013/c], Mar. 23, 2010, [124 Stat. 868][/us/stat/124/868]; [Pub. L. 113–295, div. A, title II][/us/pl/113/295], §§ 215(b), 221(a)(9), (25)(B), (30)(C), Dec. 19, 2014, [128 Stat. 4034][/us/stat/128/4034], 4038, 4040, 4042.)
 
  __References in Text__ 
 
     Section 201 of the Tax Reform Act of 1986, referred to in subsecs. (a)(1)(C) and (g)(4)(A)(ii), is [section 201 of Pub. L. 99–514][/us/pl/99/514/s201], which amended sections 46, 167, 168, 178, 179, 280F, 291, 312, 465, 467, 514, 751, 1245, 4162, 6111, and 7701 of this title.
 
     Sections 203, 204, and 251(d) of such Act, referred to in subsec. (a)(1)(C), are sections 203, 204, and 251(d) of the Tax Reform Act of 1986, [Pub. L. 99–514][/us/pl/99/514]. Sections 203 and 204 are set out as notes under [section 168 of this title][/us/usc/t26/s168]. Section 251(d) is set out as a note under [section 46 of this title][/us/usc/t26/s46].
+
+    Subpars. (D) and (E) of section 63(c)(1), referred to in subsec. (b)(1)(E), were repealed by [Pub. L. 113–295, div. A, title II, § 221(a)(13)(A)][/us/pl/113/295/s221/a/13/A], Dec. 19, 2014, [128 Stat. 4039][/us/stat/128/4039].
+
+    Subpar. (H) of section 172(b)(1), referred to subsec. (d)(1)(A)(ii)(I), was repealed by [Pub. L. 113–295, div. A, title II, § 221(a)(30)(A)(i)][/us/pl/113/295/s221/a/30/A/i], Dec. 19, 2014, [128 Stat. 4041][/us/stat/128/4041].
 
     The date of the enactment of the Tax Reform Act of 1986, referred to in subsec. (g)(4)(A)(iii), is the date of enactment of [Pub. L. 99–514][/us/pl/99/514], which was approved Oct. 22, 1986.
 
@@ -536,6 +534,14 @@
     A prior section 56, added [Pub. L. 91–172, title III, § 301(a)][/us/pl/91/172/s301/a], Dec. 30, 1969, [83 Stat. 580][/us/stat/83/580]; amended [Pub. L. 91–614, title V, § 501(a)][/us/pl/91/614/s501/a], Dec. 31, 1970, [84 Stat. 1846][/us/stat/84/1846]; [Pub. L. 92–178, title VI, § 601(c)(4)][/us/pl/92/178/s601/c/4], (5), Dec. 10, 1971, [85 Stat. 558][/us/stat/85/558]; [Pub. L. 93–406, title II][/us/pl/93/406], §§ 2001(g)(2)(D), 2002(g)(4), 2005(c)(7), Sept. 2, 1974, [88 Stat. 957][/us/stat/88/957], 968, 991; [Pub. L. 94–12, title II][/us/pl/94/12], §§ 203(b)(2), (3), 208(d)(2), (3), Mar. 29, 1975, [89 Stat. 30][/us/stat/89/30], 35; [Pub. L. 94–455, title III, § 301(a)][/us/pl/94/455/s301/a], (b), (c)(4)(B), Oct. 4, 1976, [90 Stat. 1549][/us/stat/90/1549], 1552; [Pub. L. 95–30, title II, § 202(d)(2)][/us/pl/95/30/s202/d/2], May 23, 1977, [91 Stat. 148][/us/stat/91/148]; [Pub. L. 95–600, title I, § 141(d)][/us/pl/95/600/s141/d], Nov. 6, 1978, [92 Stat. 2794][/us/stat/92/2794]; [Pub. L. 95–618, title I, § 101(b)(2)][/us/pl/95/618/s101/b/2], Nov. 9, 1978, [92 Stat. 3179][/us/stat/92/3179]; [Pub. L. 96–222, title I, § 101(a)(7)(L)(iii)(IV)][/us/pl/96/222/s101/a/7/L/iii/IV], Apr. 1, 1980, [94 Stat. 200][/us/stat/94/200]; [Pub. L. 97–34, title III, § 331(c)(2)][/us/pl/97/34/s331/c/2], Aug. 13, 1981, [95 Stat. 293][/us/stat/95/293]; [Pub. L. 97–248, title II, § 201(d)(1)][/us/pl/97/248/s201/d/1], formerly § 201(c)(1), Sept. 3, 1982, [96 Stat. 419][/us/stat/96/419], renumbered § 201(d)(1), [Pub. L. 97–448, title III, § 306(a)(1)(A)(i)][/us/pl/97/448/s306/a/1/A/i], Jan. 12, 1983, [96 Stat. 2400][/us/stat/96/2400]; [Pub. L. 98–369, div. A, title IV, § 474(r)(1)][/us/pl/98/369/s474/r/1], July 18, 1984, [98 Stat. 839][/us/stat/98/839]; [Pub. L. 99–514, title XI, § 1171(b)(3)][/us/pl/99/514/s1171/b/3], Oct. 22, 1986, [100 Stat. 2513][/us/stat/100/2513], related to a corporate minimum tax, prior to the general revision of this part by [Pub. L. 99–514, § 701(a)][/us/pl/99/514/s701/a].
 
  __Amendments__ 
+
+    2014—Subsec. (b)(1)(C)(ii) to (v). [Pub. L. 113–295, § 221(a)(25)(B)][/us/pl/113/295/s221/a/25/B], redesignated cls. (iii) to (v) as (ii) to (iv), respectively, and struck out former cl. (ii) which read as follows: “sections 163(d)(6) and 163(h)(5) (relating to phase-ins) shall not apply,”.
+
+    Subsec. (d)(3). [Pub. L. 113–295, § 221(a)(30)(C)][/us/pl/113/295/s221/a/30/C], struck out par. (3). Text read as follows: “In the case of a taxpayer which has a qualified disaster loss (as defined by section 172(b)(1)(J)) for the taxable year, paragraph (1) shall be applied by increasing the amount determined under subparagraph (A)(ii)(I) thereof by the sum of the carrybacks and carryovers of such loss.”
+
+    Subsec. (g)(4)(C)(iv). [Pub. L. 113–295, § 215(b)][/us/pl/113/295/s215/b], substituted “an organization to which part I of subchapter T (relating to tax treatment of cooperatives) applies which is engaged in the marketing of agricultural or horticultural products” for “a cooperative described in section 927(a)(4)”. See 2007 Amendment note below.
+
+    Subsec. (g)(4)(F)(ii). [Pub. L. 113–295, § 221(a)(9)][/us/pl/113/295/s221/a/9], substituted “Clause (i)” for “In the case of any taxable year beginning after December 31, 1992, clause (i)”.
 
     2010—Subsec. (b)(1)(B). [Pub. L. 111–148][/us/pl/111/148] substituted “without regard to subsection (f) of such section” for “by substituting ‘10 percent’ for ‘7.5 percent’ ”.
 
@@ -553,7 +559,7 @@
 
     2007—Subsec. (g)(4)(C)(ii)(I). [Pub. L. 110–172, § 11(g)(1)][/us/pl/110/172/s11/g/1], substituted “921 (as in effect before its repeal by the FSC Repeal and Extraterritorial Income Exclusion Act of 2000)” for “921”.
 
-    Subsec. (g)(4)(C)(iv). [Pub. L. 110–172, § 11(g)(2)][/us/pl/110/172/s11/g/2], which directed the amendment of [section 54(g)(4)(C)(iv) of this title][/us/usc/t26/s54/g/4/C/iv] by substituting “an organization to which part I of subchapter T (relating to tax treatment of cooperatives) applies which is engaged in the marketing of agricultural or horticultural products” for “a cooperative described in section 927(a)(4)”, was executed to this section, to reflect the probable intent of Congress.
+    Subsec. (g)(4)(C)(iv). [Pub. L. 110–172, § 11(g)(2)][/us/pl/110/172/s11/g/2], which purported to amend subsec. (g)(4)(C)(iv) of this section, but directed the amendment of [section 54(g)(4)(C)(iv) of this title][/us/usc/t26/s54/g/4/C/iv], by substituting “an organization to which part I of subchapter T (relating to tax treatment of cooperatives) applies which is engaged in the marketing of agricultural or horticultural products” for “a cooperative described in section 927(a)(4)”, was not executed in light of the identical amendment made by [Pub. L. 113–295, § 215(b)][/us/pl/113/295/s215/b], effective as if included in [Pub. L. 110–172][/us/pl/110/172].
 
     2006—Subsec. (c)(2). [Pub. L. 109–304][/us/pl/109/304], in introductory provisions, substituted “chapter 535 of title 46, United States Code” for “section 607 of the Merchant Marine Act, 1936 ([46 U.S.C. 1177][/us/usc/t46/s1177])”, and, in subpars. (A) and (B), substituted “such chapter 535” for “such section 607”.
 
@@ -805,6 +811,14 @@
 
     Subsec. (f)(2)(H), (I). [Pub. L. 100–203, § 10243(a)][/us/pl/100/203/s10243/a], added subpar. (H) and redesignated former subpar. (H) as (I).
 
+ __Effective Date of 2014 Amendment__ 
+
+[Pub. L. 113–295, div. A, title II, § 215(c)][/us/pl/113/295/s215/c], Dec. 19, 2014, [128 Stat. 4034][/us/stat/128/4034], provided that: 
+
+> “The amendments made by this section \[amending this section and [section 911 of this title][/us/usc/t26/s911]\] shall take effect as if included in the provisions of the Tax Technical Corrections Act of 2007 \[[Pub. L. 110–172][/us/pl/110/172]\] to which they relate.”
+
+    Amendment by section 221(a)(9), (25)(B), (30)(C) of [Pub. L. 113–295][/us/pl/113/295] effective Dec. 19, 2014, subject to a savings provision, see [section 221(b) of Pub. L. 113–295][/us/pl/113/295/s221/b], set out as a note under [section 1 of this title][/us/usc/t26/s1].
+
  __Effective Date of 2010 Amendment__ 
 
 [Pub. L. 111–148, title IX, § 9013(d)][/us/pl/111/148/s9013/d], Mar. 23, 2010, [124 Stat. 868][/us/stat/124/868], provided that: 
@@ -813,7 +827,7 @@
 
  __Effective Date of 2009 Amendment__ 
 
-[Pub. L. 111–92, § 13(e)][/us/pl/111/92/s13/e], (f), Nov. 6, 2009, [123 Stat. 2994][/us/stat/123/2994], 2995, provided that:
+[Pub. L. 111–92, § 13(e)][/us/pl/111/92/s13/e], (f), Nov. 6, 2009, [123 Stat. 2994][/us/stat/123/2994], 2995, as amended by [Pub. L. 113–295, div. A, title II, § 220(bb)][/us/pl/113/295/s220/bb], Dec. 19, 2014, [128 Stat. 4037][/us/stat/128/4037], provided that:
 
 >     “(e) __Effective Dates.—__ 
 
@@ -827,7 +841,7 @@
 
 >         “(3)  __Loss from operations of life insurance companies__  __.—__ 
 
->         The amendment made by subsection (d) \[probably means subsec. (c), amending [section 810 of this title][/us/usc/t26/s810]\] shall apply to losses from operations arising in taxable years ending after December 31, 2007.
+>         The amendment made by subsection (c) \[amending [section 810 of this title][/us/usc/t26/s810]\] shall apply to losses from operations arising in taxable years ending after December 31, 2007.
 
 >         “(4)  __Transitional rule__  __.—__ 
 
@@ -1209,9 +1223,9 @@
 
  __Coordination With Heartland Disaster Relief__ 
 
-[Pub. L. 110–343, div. C, title VII, § 712][/us/pl/110/343/s712], Oct. 3, 2008, [122 Stat. 3929][/us/stat/122/3929], provided that: 
+[Pub. L. 110–343, div. C, title VII, § 712][/us/pl/110/343/s712], Oct. 3, 2008, [122 Stat. 3929][/us/stat/122/3929], as amended by [Pub. L. 113–295, div. A, title II, § 211(c)(3)][/us/pl/113/295/s211/c/3], Dec. 19, 2014, [128 Stat. 4033][/us/stat/128/4033], provided that: 
 
-> “The amendments made by this subtitle \[subtitle B (§§ 706–712) of title VII of div. C of [Pub. L. 110–343][/us/pl/110/343], enacting [section 198A of this title][/us/usc/t26/s198A] and amending this section and sections 63, 139, 143, 165, 168, 172, 179, 1033, and 7508A of this title\], other than the amendments made by sections 706(a)(2) \[amending sections 139, 165, 172, 1033, and 7508A of this title\], 710 \[amending [section 168 of this title][/us/usc/t26/s168]\], and 711 \[amending [section 179 of this title][/us/usc/t26/s179]\], shall not apply to any disaster described in section 702(c)(1)(A) \[section 702(c)(1) has no subpar. (A)\], or to any expenditure or loss resulting from such disaster.”
+> “The amendments made by this subtitle \[subtitle B (§§ 706–712) of title VII of div. C of [Pub. L. 110–343][/us/pl/110/343], enacting [section 198A of this title][/us/usc/t26/s198A] and amending this section and sections 63, 139, 143, 165, 168, 172, 179, 1033, and 7508A of this title\], other than the amendments made by sections 706(a)(2) \[amending sections 139, 165, 172, 1033, and 7508A of this title\], 710 \[amending [section 168 of this title][/us/usc/t26/s168]\], and 711 \[amending [section 179 of this title][/us/usc/t26/s179]\], shall not apply to any disaster described in section 702(b)(1)(A) \[[122 Stat. 3912][/us/stat/122/3912]\], or to any expenditure or loss resulting from such disaster.”
 
  __Application of Subsection (g)(1) and (3) to Taxable Years Beginning in 1991 and 1992__ 
 
@@ -1292,10 +1306,16 @@
 [/us/stat/123/2993]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F2993
 [/us/pl/111/148/s9013/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs9013%2Fc
 [/us/stat/124/868]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F868
+[/us/pl/113/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295
+[/us/stat/128/4034]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F4034
 [/us/pl/99/514/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs201
 [/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
 [/us/usc/t26/s168]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs168
 [/us/usc/t26/s46]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs46
+[/us/pl/113/295/s221/a/13/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs221%2Fa%2F13%2FA
+[/us/stat/128/4039]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F4039
+[/us/pl/113/295/s221/a/30/A/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs221%2Fa%2F30%2FA%2Fi
+[/us/stat/128/4041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F4041
 [/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
 [/us/pl/106/519]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F519
 [/us/stat/114/2423]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2423
@@ -1331,6 +1351,10 @@
 [/us/pl/99/514/s1171/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1171%2Fb%2F3
 [/us/stat/100/2513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2513
 [/us/pl/99/514/s701/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs701%2Fa
+[/us/pl/113/295/s221/a/25/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs221%2Fa%2F25%2FB
+[/us/pl/113/295/s221/a/30/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs221%2Fa%2F30%2FC
+[/us/pl/113/295/s215/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs215%2Fb
+[/us/pl/113/295/s221/a/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs221%2Fa%2F9
 [/us/pl/111/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148
 [/us/pl/111/5/s1008/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5%2Fs1008%2Fd
 [/us/pl/111/92]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F92
@@ -1341,6 +1365,8 @@
 [/us/pl/110/172/s11/g/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F172%2Fs11%2Fg%2F1
 [/us/pl/110/172/s11/g/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F172%2Fs11%2Fg%2F2
 [/us/usc/t26/s54/g/4/C/iv]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs54%2Fg%2F4%2FC%2Fiv
+[/us/pl/113/295/s215/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs215%2Fb
+[/us/pl/110/172]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F172
 [/us/pl/109/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304
 [/us/usc/t46/s1177]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs1177
 [/us/pl/109/58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58
@@ -1451,11 +1477,20 @@
 [/us/pl/100/647/s1007/b/18]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs1007%2Fb%2F18
 [/us/pl/100/203/s10202/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203%2Fs10202%2Fd
 [/us/pl/100/203/s10243/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203%2Fs10243%2Fa
+[/us/pl/113/295/s215/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs215%2Fc
+[/us/stat/128/4034]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F4034
+[/us/usc/t26/s911]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs911
+[/us/pl/110/172]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F172
+[/us/pl/113/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295
+[/us/pl/113/295/s221/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs221%2Fb
+[/us/usc/t26/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs1
 [/us/pl/111/148/s9013/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs9013%2Fd
 [/us/stat/124/868]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F868
 [/us/usc/t26/s213]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs213
 [/us/pl/111/92/s13/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F92%2Fs13%2Fe
 [/us/stat/123/2994]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F2994
+[/us/pl/113/295/s220/bb]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs220%2Fbb
+[/us/stat/128/4037]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F4037
 [/us/usc/t26/s810]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs810
 [/us/pl/110/343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F343
 [/us/usc/t12/s5202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs5202
@@ -1610,10 +1645,13 @@
 [/us/usc/t26/s45K]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs45K
 [/us/pl/110/343/s712]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F343%2Fs712
 [/us/stat/122/3929]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3929
+[/us/pl/113/295/s211/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs211%2Fc%2F3
+[/us/stat/128/4033]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F4033
 [/us/pl/110/343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F343
 [/us/usc/t26/s198A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs198A
 [/us/usc/t26/s168]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs168
 [/us/usc/t26/s179]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs179
+[/us/stat/122/3912]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3912
 [/us/pl/104/188/s1702/e/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188%2Fs1702%2Fe%2F1%2FB
 [/us/stat/110/1870]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1870
 [/us/pl/102/486]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486

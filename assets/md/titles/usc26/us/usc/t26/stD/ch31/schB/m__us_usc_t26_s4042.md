@@ -35,109 +35,7 @@
 
         For purposes of paragraph (1)—
 
-            (A) The Inland Waterways Trust Fund financing rate is the rate determined in accordance with the following table:
-
-<table>
-
-              <tr>
-
-                <td> 
-
-              If the use occurs:  </td>
-
-                <td> 
-
-            The tax per
-
-            gallon is:  </td>
-
-  </tr>
-
-              <tr>
-
-                <td> 
-
-               Before 1990  </td>
-
-                <td> 
-
-            10 cents    </td>
-
-  </tr>
-
-              <tr>
-
-                <td> 
-
-               During 1990  </td>
-
-                <td> 
-
-            11 cents    </td>
-
-  </tr>
-
-              <tr>
-
-                <td> 
-
-               During 1991  </td>
-
-                <td> 
-
-            13 cents    </td>
-
-  </tr>
-
-              <tr>
-
-                <td> 
-
-               During 1992  </td>
-
-                <td> 
-
-            15 cents    </td>
-
-  </tr>
-
-              <tr>
-
-                <td> 
-
-               During 1993  </td>
-
-                <td> 
-
-            17 cents    </td>
-
-  </tr>
-
-              <tr>
-
-                <td> 
-
-               During 1994  </td>
-
-                <td> 
-
-            19 cents    </td>
-
-  </tr>
-
-              <tr>
-
-                <td> 
-
-               After 1994  </td>
-
-                <td> 
-
-            20 cents.  </td>
-
-  </tr>
-
-            </table>
+            (A) The Inland Waterways Trust Fund financing rate is 29 cents per gallon.
 
             (B) The Leaking Underground Storage Tank Trust Fund financing rate is 0.1 cent per gallon.
 
@@ -201,7 +99,7 @@
 
         The date for filing the return of the tax imposed by this section for any calendar quarter shall be the last day of the first month following such quarter.
 
-(Added [Pub. L. 95–502, title II, § 202(a)][/us/pl/95/502/s202/a], Oct. 21, 1978, [92 Stat. 1696][/us/stat/92/1696]; amended [Pub. L. 99–499, title V, § 521(a)(3)][/us/pl/99/499/s521/a/3], Oct. 17, 1986, [100 Stat. 1777][/us/stat/100/1777]; [Pub. L. 99–662, title XIV, § 1404(a)][/us/pl/99/662/s1404/a], Nov. 17, 1986, [100 Stat. 4270][/us/stat/100/4270]; [Pub. L. 100–647, title II, § 2002(a)(2)][/us/pl/100/647/s2002/a/2], Nov. 10, 1988, [102 Stat. 3597][/us/stat/102/3597]; [Pub. L. 103–66, title XIII, § 13241(d)][/us/pl/103/66/s13241/d], Aug. 10, 1993, [107 Stat. 510][/us/stat/107/510]; [Pub. L. 108–357, title II, § 241(b)][/us/pl/108/357/s241/b], Oct. 22, 2004, [118 Stat. 1438][/us/stat/118/1438]; [Pub. L. 110–172, § 6(d)(1)(B)][/us/pl/110/172/s6/d/1/B], Dec. 29, 2007, [121 Stat. 2480][/us/stat/121/2480].)
+(Added [Pub. L. 95–502, title II, § 202(a)][/us/pl/95/502/s202/a], Oct. 21, 1978, [92 Stat. 1696][/us/stat/92/1696]; amended [Pub. L. 99–499, title V, § 521(a)(3)][/us/pl/99/499/s521/a/3], Oct. 17, 1986, [100 Stat. 1777][/us/stat/100/1777]; [Pub. L. 99–662, title XIV, § 1404(a)][/us/pl/99/662/s1404/a], Nov. 17, 1986, [100 Stat. 4270][/us/stat/100/4270]; [Pub. L. 100–647, title II, § 2002(a)(2)][/us/pl/100/647/s2002/a/2], Nov. 10, 1988, [102 Stat. 3597][/us/stat/102/3597]; [Pub. L. 103–66, title XIII, § 13241(d)][/us/pl/103/66/s13241/d], Aug. 10, 1993, [107 Stat. 510][/us/stat/107/510]; [Pub. L. 108–357, title II, § 241(b)][/us/pl/108/357/s241/b], Oct. 22, 2004, [118 Stat. 1438][/us/stat/118/1438]; [Pub. L. 110–172, § 6(d)(1)(B)][/us/pl/110/172/s6/d/1/B], Dec. 29, 2007, [121 Stat. 2480][/us/stat/121/2480]; [Pub. L. 113–295, div. B, title II, § 205(a)][/us/pl/113/295/s205/a], Dec. 19, 2014, [128 Stat. 4065][/us/stat/128/4065].)
 
  __References in Text__ 
 
@@ -212,6 +110,8 @@
     A prior section 4042, [act Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 478][/us/stat/68A/478], provided a cross reference to [section 4222 of this title][/us/usc/t26/s4222] for exemption from tax where special motor fuels are sold for use for certain vessels, prior to repeal by [Pub. L. 94–455, title XIX, § 1904(a)(1)(D)][/us/pl/94/455/s1904/a/1/D], Oct. 4, 1976, [90 Stat. 1811][/us/stat/90/1811].
 
  __Amendments__ 
+
+    2014—Subsec. (b)(2)(A). [Pub. L. 113–295][/us/pl/113/295] amended subpar. (A) generally, substituting “The Inland Waterways Trust Fund financing rate is 29 cents per gallon.” for “The Inland Waterways Trust Fund financing rate is the rate determined in accordance with the following table:” and table of rates”.
 
     2007—Subsec. (b)(3). [Pub. L. 110–172][/us/pl/110/172] amended heading and text of par. (3) generally. Prior to amendment, text read as follows: “The Leaking Underground Storage Tank Trust Fund financing rate under paragraph (2)(B) shall not apply to the use of any fuel if tax under section 4041(d) was imposed on the sale of such fuel or is imposed on such use.”
 
@@ -293,6 +193,12 @@ After September 30, 1985  </td>
 
 </table>
 
+ __Effective Date of 2014 Amendment__ 
+
+[Pub. L. 113–295, div. B, title II, § 205(b)][/us/pl/113/295/s205/b], Dec. 19, 2014, [128 Stat. 4065][/us/stat/128/4065], provided that: 
+
+> “The amendment made by this section \[amending this section\] shall apply to fuel used after March 31, 2015.”
+
  __Effective Date of 2007 Amendment__ 
 
     Amendment by [Pub. L. 110–172][/us/pl/110/172] effective as if included in the provisions of the Energy Policy Act of 2005, [Pub. L. 109–58][/us/pl/109/58], to which such amendment relates, see [section 6(e) of Pub. L. 110–172][/us/pl/110/172/s6/e], set out as a note under [section 30C of this title][/us/usc/t26/s30C].
@@ -352,6 +258,8 @@ After September 30, 1985  </td>
 [/us/stat/118/1438]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1438
 [/us/pl/110/172/s6/d/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F172%2Fs6%2Fd%2F1%2FB
 [/us/stat/121/2480]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F2480
+[/us/pl/113/295/s205/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs205%2Fa
+[/us/stat/128/4065]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F4065
 [/us/pl/95/502/s206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F502%2Fs206
 [/us/stat/92/1700]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1700
 [/us/usc/t33/s1804]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs1804
@@ -360,6 +268,7 @@ After September 30, 1985  </td>
 [/us/usc/t26/s4222]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs4222
 [/us/pl/94/455/s1904/a/1/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1904%2Fa%2F1%2FD
 [/us/stat/90/1811]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1811
+[/us/pl/113/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295
 [/us/pl/110/172]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F172
 [/us/pl/108/357]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357
 [/us/pl/103/66/s13241/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66%2Fs13241%2Fd%2F1
@@ -372,6 +281,8 @@ After September 30, 1985  </td>
 [/us/pl/99/662]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F662
 [/us/pl/99/499]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F499
 [/us/pl/99/662]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F662
+[/us/pl/113/295/s205/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs205%2Fb
+[/us/stat/128/4065]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F4065
 [/us/pl/110/172]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F172
 [/us/pl/109/58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58
 [/us/pl/110/172/s6/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F172%2Fs6%2Fe

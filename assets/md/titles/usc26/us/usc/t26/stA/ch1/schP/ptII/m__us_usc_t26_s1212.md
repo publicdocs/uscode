@@ -255,15 +255,25 @@
 
  __Effective Date of 2010 Amendment__ 
 
-[Pub. L. 111–325, title I, § 101(c)][/us/pl/111/325/s101/c], Dec. 22, 2010, [124 Stat. 3538][/us/stat/124/3538], provided that:
+[Pub. L. 111–325, title I, § 101(c)][/us/pl/111/325/s101/c], Dec. 22, 2010, [124 Stat. 3538][/us/stat/124/3538], as amended by [Pub. L. 113–295, div. A, title II, § 205(a)(1)][/us/pl/113/295/s205/a/1], Dec. 19, 2014, [128 Stat. 4025][/us/stat/128/4025], provided that:
 
 >     “(1)  __In general__  __.—__ 
 
->     Except as provided in paragraph (2), the amendments made by this section \[amending this section and [section 1222 of this title][/us/usc/t26/s1222]\] shall apply to net capital losses for taxable years beginning after the date of the enactment of this Act \[Dec. 22, 2010\].
+>     Except as provided in paragraphs (2) and (3), the amendments made by this section \[amending this section and [section 1222 of this title][/us/usc/t26/s1222]\] shall apply to net capital losses for taxable years beginning after the date of the enactment of this Act \[Dec. 22, 2010\].
 
 >     “(2)  __Coordination rules__  __.—__ 
 
->     Subparagraph (B) of section 1212(a)(3) of the Internal Revenue Code of 1986, as added by this section, shall apply to taxable years beginning after the date of the enactment of this Act.”
+>     Subparagraph (B) of section 1212(a)(3) of the Internal Revenue Code of 1986, as added by this section, shall apply to taxable years beginning after the date of the enactment of this Act.
+
+>     “(3) __Excise tax.—__ 
+
+>         “(A)  __In general__  __.—__ 
+
+>         Except as provided in subparagraph (B), for purposes of section 4982 of the Internal Revenue Code of 1986, paragraphs (1) and (2) shall apply by substituting ‘the 1-year periods taken into account under subsection (b)(1)(B) of such section with respect to calendar years beginning after December 31, 2010’ for ‘taxable years beginning after the date of the enactment of this Act’.
+
+>         “(B)  __Election__  __.—__ 
+
+>         A regulated investment company may elect to apply subparagraph (A) by substituting ‘2011’ for ‘2010’. Such election shall be made at such time and in such form and manner as the Secretary of the Treasury (or the Secretary’s delegate) shall prescribe.”
 
  __Effective Date of 2004 Amendment__ 
 
@@ -411,6 +421,8 @@
 [/us/pl/88/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F272
 [/us/pl/111/325/s101/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F325%2Fs101%2Fc
 [/us/stat/124/3538]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3538
+[/us/pl/113/295/s205/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs205%2Fa%2F1
+[/us/stat/128/4025]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F4025
 [/us/usc/t26/s1222]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs1222
 [/us/pl/108/357/s413/c/20/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357%2Fs413%2Fc%2F20%2FB
 [/us/stat/118/1509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1509

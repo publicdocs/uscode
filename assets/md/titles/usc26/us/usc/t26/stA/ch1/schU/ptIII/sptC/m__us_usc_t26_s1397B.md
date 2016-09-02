@@ -35,9 +35,11 @@
 
                 (i) references to empowerment zones were substituted for references to renewal communities,
 
-                (ii) references to enterprise zone businesses (as defined in section 1397C) were substituted for references to renewal community businesses, and
+                (ii) references to enterprise zone businesses (as defined in section 1397C) were substituted for references to renewal community businesses,
 
-                (iii) the date of the enactment of this paragraph were substituted for “December 31, 2001” each place it appears.
+                (iii) the date of the enactment of this paragraph were substituted for “December 31, 2001” each place it appears, and
+
+                (iv) the day after the date set forth in section 1391(d)(1)(A)(i) were substituted for “January 1, 2010” each place it appears.
 
             (B) __Treatment of DC zone__ 
 
@@ -67,7 +69,7 @@
 
             (B) only the first year of the taxpayer’s holding period for the asset referred to in subsection (a)(1) shall be taken into account for purposes of paragraphs (2)(A)(iii), (3)(C), and (4)(A)(iii) of section 1400F(b).
 
-(Added [Pub. L. 106–554, § 1(a)(7)][/us/pl/106/554/s1/a/7] \[title I, § 116(a)(3)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–602.)
+(Added [Pub. L. 106–554, § 1(a)(7)][/us/pl/106/554/s1/a/7] \[title I, § 116(a)(3)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–602; amended [Pub. L. 113–295, div. A, title II, § 206(c)][/us/pl/113/295/s206/c], Dec. 19, 2014, [128 Stat. 4027][/us/stat/128/4027].)
 
  __References in Text__ 
 
@@ -76,6 +78,14 @@
  __Prior Provisions__ 
 
     A prior section 1397B was renumbered [section 1397C of this title][/us/usc/t26/s1397C].
+
+ __Amendments__ 
+
+    2014—Subsec. (b)(1)(A)(iv). [Pub. L. 113–29][/us/pl/113/29] added cl. (iv).
+
+ __Effective Date of 2014 Amendment__ 
+
+    Amendment by [Pub. L. 113–295][/us/pl/113/295] effective as if included in the provisions of the Tax Relief, Unemployment Insurance Reauthorization, and Job Creation Act of 2010, [Pub. L. 111–312][/us/pl/111/312], to which such amendment relates, see [section 206(d) of Pub. L. 113–295][/us/pl/113/295/s206/d], set out as a note under [section 32 of this title][/us/usc/t26/s32].
 
  __Effective Date__ 
 
@@ -90,8 +100,15 @@
 
 [/us/pl/106/554/s1/a/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F7
 [/us/stat/114/2763]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2763
+[/us/pl/113/295/s206/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs206%2Fc
+[/us/stat/128/4027]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F4027
 [/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
 [/us/usc/t26/s1397C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs1397C
+[/us/pl/113/29]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F29
+[/us/pl/113/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295
+[/us/pl/111/312]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F312
+[/us/pl/113/295/s206/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs206%2Fd
+[/us/usc/t26/s32]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs32
 [/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
 [/us/usc/t26/s1016]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs1016
 

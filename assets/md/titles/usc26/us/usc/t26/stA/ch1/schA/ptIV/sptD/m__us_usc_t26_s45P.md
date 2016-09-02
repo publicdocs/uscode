@@ -63,9 +63,9 @@
 
     (f) __Termination__ 
 
-        This section shall not apply to any payments made after December 31, 2013.
+        This section shall not apply to any payments made after December 31, 2014.
 
-(Added [Pub. L. 110–245, title I, § 111(a)][/us/pl/110/245/s111/a], June 17, 2008, [122 Stat. 1634][/us/stat/122/1634]; amended [Pub. L. 111–312, title VII, § 736(a)][/us/pl/111/312/s736/a], Dec. 17, 2010, [124 Stat. 3318][/us/stat/124/3318]; [Pub. L. 112–240, title III, § 308(a)][/us/pl/112/240/s308/a], Jan. 2, 2013, [126 Stat. 2329][/us/stat/126/2329].)
+(Added [Pub. L. 110–245, title I, § 111(a)][/us/pl/110/245/s111/a], June 17, 2008, [122 Stat. 1634][/us/stat/122/1634]; amended [Pub. L. 111–312, title VII, § 736(a)][/us/pl/111/312/s736/a], Dec. 17, 2010, [124 Stat. 3318][/us/stat/124/3318]; [Pub. L. 112–240, title III, § 308(a)][/us/pl/112/240/s308/a], Jan. 2, 2013, [126 Stat. 2329][/us/stat/126/2329]; [Pub. L. 113–295, div. A, title I, § 118(a)][/us/pl/113/295/s118/a], Dec. 19, 2014, [128 Stat. 4015][/us/stat/128/4015].)
 
  __References in Text__ 
 
@@ -73,9 +73,17 @@
 
  __Amendments__ 
 
+    2014—Subsec. (f). [Pub. L. 113–295][/us/pl/113/295] substituted “December 31, 2014” for “December 31, 2013”.
+
     2013—Subsec. (f). [Pub. L. 112–240][/us/pl/112/240] substituted “December 31, 2013” for “December 31, 2011”.
 
     2010—Subsec. (f). [Pub. L. 111–312][/us/pl/111/312] substituted “December 31, 2011” for “December 31, 2009”.
+
+ __Effective Date of 2014 Amendment__ 
+
+[Pub. L. 113–295, div. A, title I, § 118(b)][/us/pl/113/295/s118/b], Dec. 19, 2014, [128 Stat. 4015][/us/stat/128/4015], provided that: 
+
+> “The amendment made by this section \[amending this section\] shall apply to payments made after December 31, 2013.”
 
  __Effective Date of 2013 Amendment__ 
 
@@ -107,9 +115,14 @@
 [/us/stat/124/3318]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3318
 [/us/pl/112/240/s308/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F240%2Fs308%2Fa
 [/us/stat/126/2329]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F2329
+[/us/pl/113/295/s118/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs118%2Fa
+[/us/stat/128/4015]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F4015
 [/us/pl/110/245]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F245
+[/us/pl/113/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295
 [/us/pl/112/240]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F240
 [/us/pl/111/312]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F312
+[/us/pl/113/295/s118/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs118%2Fb
+[/us/stat/128/4015]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F4015
 [/us/pl/112/240/s308/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F240%2Fs308%2Fb
 [/us/stat/126/2329]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F2329
 [/us/pl/111/312/s736/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F312%2Fs736%2Fb

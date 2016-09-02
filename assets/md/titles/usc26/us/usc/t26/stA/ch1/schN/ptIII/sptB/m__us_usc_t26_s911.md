@@ -63,83 +63,7 @@
 
                 (i) __In general__ 
 
-                    The exclusion amount for any calendar year is the exclusion amount determined in accordance with the following table (as adjusted by clause (ii)):
-
-<table>
-
-                      <tr>
-
-                        <td> 
-
-                    For calendar year—  </td>
-
-                        <td> 
-
-                    The exclusion amount is—  </td>
-
-  </tr>
-
-                      <tr>
-
-                        <td> 
-
-                      1998  </td>
-
-                        <td> 
-
-                    $72,000    </td>
-
-  </tr>
-
-                      <tr>
-
-                        <td> 
-
-                      1999  </td>
-
-                        <td> 
-
-                    74,000    </td>
-
-  </tr>
-
-                      <tr>
-
-                        <td> 
-
-                      2000  </td>
-
-                        <td> 
-
-                    76,000    </td>
-
-  </tr>
-
-                      <tr>
-
-                        <td> 
-
-                      2001  </td>
-
-                        <td> 
-
-                    78,000    </td>
-
-  </tr>
-
-                      <tr>
-
-                        <td> 
-
-                      2002 and thereafter  </td>
-
-                        <td> 
-
-                    80,000.  </td>
-
-  </tr>
-
-                    </table>
+                    The exclusion amount for any calendar year is $80,000.
 
                 (ii) __Inflation adjustment__ 
 
@@ -371,6 +295,8 @@
 
                 (ii) the amount which would be determined under such sentence for such taxable year if the taxpayer’s taxable excess (as so defined) were equal to the amount excluded under subsection (a) for such taxable year.
 
+            For purposes of this paragraph, the amount excluded under subsection (a) shall be reduced by the aggregate amount of any deductions or exclusions disallowed under subsection (d)(6) with respect to such excluded amount.
+
         (2) __Special rules__ 
 
             (A) __Regular tax__ 
@@ -389,7 +315,7 @@
 
                 (i) the rules of subparagraph (A) shall apply, except that such subparagraph shall be applied by substituting “the taxable excess (as defined in section 55(b)(1)(A)(ii))” for “taxable income”, and
 
-                (ii) the reference in section 55(b)(3)(B) to the excess described in section 1(h)(1)(B) shall be treated as a reference to such excess as determined under the rules of subparagraph (A) for purposes of determining the tax under paragraph (1)(A)(i).
+                (ii) the reference in section 55(b)(3)(B) to the excess described in section 1(h)(1)(B), and the reference in section 55(b)(3)(C)(ii) to the excess described in section 1(h)(1)(C)(ii), shall each be treated as a reference to each such excess as determined under the rules of subparagraph (A) for purposes of determining the tax under paragraph (1)(A)(i).
 
             (C) __Definitions__ 
 
@@ -399,7 +325,7 @@
 
         For administrative and penal provisions relating to the exclusions provided for in this section, see sections 6001, 6011, 6012(c), and the other provisions of subtitle F.
 
-([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 289][/us/stat/68A/289]; [Pub. L. 85–866, title I, § 72(b)][/us/pl/85/866/s72/b], Sept. 2, 1958, [72 Stat. 1660][/us/stat/72/1660]; [Pub. L. 87–834, § 11(a)][/us/pl/87/834/s11/a], Oct. 16, 1962, [76 Stat. 1003][/us/stat/76/1003]; [Pub. L. 88–272, title II, § 237(a)][/us/pl/88/272/s237/a], Feb. 26, 1964, [78 Stat. 128][/us/stat/78/128]; [Pub. L. 89–809, title I, § 105(e)(3)][/us/pl/89/809/s105/e/3], Nov. 13, 1966, [80 Stat. 1567][/us/stat/80/1567]; [Pub. L. 94–455, title X, § 1011(a)][/us/pl/94/455/s1011/a], (b), title XIX, §§ 1901(a)(115), 1906(b)(13)(A), Oct. 4, 1976, [90 Stat. 1610][/us/stat/90/1610], 1784, 1834; [Pub. L. 95–30, title I, § 102(b)(12)][/us/pl/95/30/s102/b/12], May 23, 1977, [91 Stat. 138][/us/stat/91/138]; [Pub. L. 95–600, title IV, § 401(b)(4)][/us/pl/95/600/s401/b/4], title VII, §§ 701(u)(10)(A), 703(e), Nov. 6, 1978, [92 Stat. 2867][/us/stat/92/2867], 2917, 2939; [Pub. L. 95–615, title II, § 202(a)][/us/pl/95/615/s202/a]–(e), (g)(1), formerly § 202(a)–(f)(1), Nov. 8, 1978, [92 Stat. 3098–3100][/us/stat/92/3098-3100], renumbered § 202(a)–(e), (g)(1), and amended [Pub. L. 96–222, title I][/us/pl/96/222], §§ 107(a)(3)(B), 108(a)(1)(A), (C), (D), Apr. 1, 1980, [94 Stat. 223][/us/stat/94/223], 224; [Pub. L. 96–595, § 4(a)][/us/pl/96/595/s4/a]–(c)(1), Dec. 24, 1980, [94 Stat. 3466][/us/stat/94/3466], 3467; [Pub. L. 97–34, title I, § 111(a)][/us/pl/97/34/s111/a], Aug. 13, 1981, [95 Stat. 190][/us/stat/95/190]; [Pub. L. 97–448, title I, § 101(c)][/us/pl/97/448/s101/c], Jan. 12, 1983, [96 Stat. 2366][/us/stat/96/2366]; [Pub. L. 98–369, div. A, title I, § 17][/us/pl/98/369/s17], July 18, 1984, [98 Stat. 505][/us/stat/98/505]; [Pub. L. 99–514, title XII, § 1233(a)][/us/pl/99/514/s1233/a], (b), Oct. 22, 1986, [100 Stat. 2564][/us/stat/100/2564]; [Pub. L. 105–34, title XI, § 1172(a)][/us/pl/105/34/s1172/a], Aug. 5, 1997, [111 Stat. 988][/us/stat/111/988]; [Pub. L. 109–222, title V, § 515(a)][/us/pl/109/222/s515/a]–(c), May 17, 2006, [120 Stat. 367][/us/stat/120/367]; [Pub. L. 110–172, § 4(c)][/us/pl/110/172/s4/c], Dec. 29, 2007, [121 Stat. 2476][/us/stat/121/2476].)
+([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 289][/us/stat/68A/289]; [Pub. L. 85–866, title I, § 72(b)][/us/pl/85/866/s72/b], Sept. 2, 1958, [72 Stat. 1660][/us/stat/72/1660]; [Pub. L. 87–834, § 11(a)][/us/pl/87/834/s11/a], Oct. 16, 1962, [76 Stat. 1003][/us/stat/76/1003]; [Pub. L. 88–272, title II, § 237(a)][/us/pl/88/272/s237/a], Feb. 26, 1964, [78 Stat. 128][/us/stat/78/128]; [Pub. L. 89–809, title I, § 105(e)(3)][/us/pl/89/809/s105/e/3], Nov. 13, 1966, [80 Stat. 1567][/us/stat/80/1567]; [Pub. L. 94–455, title X, § 1011(a)][/us/pl/94/455/s1011/a], (b), title XIX, §§ 1901(a)(115), 1906(b)(13)(A), Oct. 4, 1976, [90 Stat. 1610][/us/stat/90/1610], 1784, 1834; [Pub. L. 95–30, title I, § 102(b)(12)][/us/pl/95/30/s102/b/12], May 23, 1977, [91 Stat. 138][/us/stat/91/138]; [Pub. L. 95–600, title IV, § 401(b)(4)][/us/pl/95/600/s401/b/4], title VII, §§ 701(u)(10)(A), 703(e), Nov. 6, 1978, [92 Stat. 2867][/us/stat/92/2867], 2917, 2939; [Pub. L. 95–615, title II, § 202(a)][/us/pl/95/615/s202/a]–(e), (g)(1), formerly § 202(a)–(f)(1), Nov. 8, 1978, [92 Stat. 3098–3100][/us/stat/92/3098-3100], renumbered § 202(a)–(e), (g)(1), and amended [Pub. L. 96–222, title I][/us/pl/96/222], §§ 107(a)(3)(B), 108(a)(1)(A), (C), (D), Apr. 1, 1980, [94 Stat. 223][/us/stat/94/223], 224; [Pub. L. 96–595, § 4(a)][/us/pl/96/595/s4/a]–(c)(1), Dec. 24, 1980, [94 Stat. 3466][/us/stat/94/3466], 3467; [Pub. L. 97–34, title I, § 111(a)][/us/pl/97/34/s111/a], Aug. 13, 1981, [95 Stat. 190][/us/stat/95/190]; [Pub. L. 97–448, title I, § 101(c)][/us/pl/97/448/s101/c], Jan. 12, 1983, [96 Stat. 2366][/us/stat/96/2366]; [Pub. L. 98–369, div. A, title I, § 17][/us/pl/98/369/s17], July 18, 1984, [98 Stat. 505][/us/stat/98/505]; [Pub. L. 99–514, title XII, § 1233(a)][/us/pl/99/514/s1233/a], (b), Oct. 22, 1986, [100 Stat. 2564][/us/stat/100/2564]; [Pub. L. 105–34, title XI, § 1172(a)][/us/pl/105/34/s1172/a], Aug. 5, 1997, [111 Stat. 988][/us/stat/111/988]; [Pub. L. 109–222, title V, § 515(a)][/us/pl/109/222/s515/a]–(c), May 17, 2006, [120 Stat. 367][/us/stat/120/367]; [Pub. L. 110–172, § 4(c)][/us/pl/110/172/s4/c], Dec. 29, 2007, [121 Stat. 2476][/us/stat/121/2476]; [Pub. L. 113–295, div. A, title II][/us/pl/113/295], §§ 202(b), 215(a), 221(a)(73), Dec. 19, 2014, [128 Stat. 4024][/us/stat/128/4024], 4034, 4049.)
 
  __Inflation Adjusted Items for Certain Years__ 
 
@@ -412,6 +338,12 @@
     The International Emergency Economic Powers Act, referred to in subsec. (d)(8)(B)(i), is [Pub. L. 95–223, title II][/us/pl/95/223], Dec. 28, 1977, [91 Stat. 1626][/us/stat/91/1626], which is classified generally to chapter 35 (§ 1701 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see Short Title note set out under [section 1701 of Title 50][/us/usc/t50/s1701] and Tables.
 
  __Amendments__ 
+
+    2014—Subsec. (b)(2)(D)(i). [Pub. L. 113–295, § 221(a)(73)][/us/pl/113/295/s221/a/73], amended cl. (i) generally. Prior to amendment, cl. (i) listed exclusion amounts for calendar years beginning from 1998 to 2002 and thereafter.
+
+    Subsec. (f)(1). [Pub. L. 113–295, § 215(a)][/us/pl/113/295/s215/a], inserted concluding provisions.
+
+    Subsec. (f)(2)(B)(ii). [Pub. L. 113–295, § 202(b)][/us/pl/113/295/s202/b], substituted “described in section 1(h)(1)(B), and the reference in section 55(b)(3)(C)(ii) to the excess described in section 1(h)(1)(C)(ii), shall each be treated as a reference to each such excess as determined” for “described in section 1(h)(1)(B) shall be treated as a reference to such excess as determined”.
 
     2007—Subsec. (f). [Pub. L. 110–172][/us/pl/110/172] amended heading and text generally, substituting provisions relating to determination of tax liability, special rules for determining regular tax and alternative minimum tax, and definitions for former provisions relating to determination of tax liability and tentative minimum tax.
 
@@ -570,6 +502,14 @@ $80,000    </td>
     Subsecs. (c) and (d). [Pub. L. 87–834][/us/pl/87/834] added subsec. (c) and redesignated former subsec. (c) as (d).
 
     1958—Subsec. (c). [Pub. L. 85–866][/us/pl/85/866] added subsec. (c).
+
+ __Effective Date of 2014 Amendment__ 
+
+    Amendment by [section 202(b) of Pub. L. 113–295][/us/pl/113/295/s202/b] effective as if included in the provision of the American Taxpayer Relief Act of 2012, [Pub. L. 112–240][/us/pl/112/240], to which such amendment relates, see [section 202(f) of Pub. L. 113–295][/us/pl/113/295/s202/f], set out as a note under [section 55 of this title][/us/usc/t26/s55].
+
+    Amendment by [section 215(a) of Pub. L. 113–295][/us/pl/113/295/s215/a] effective as if included in the provisions of the Tax Technical Corrections Act of 2007, [Pub. L. 110–172][/us/pl/110/172], to which such amendment relates, see [section 215(c) of Pub. L. 113–295][/us/pl/113/295/s215/c], set out as a note under [section 56 of this title][/us/usc/t26/s56].
+
+    Amendment by [section 221(a)(73) of Pub. L. 113–295][/us/pl/113/295/s221/a/73] effective Dec. 19, 2014, subject to a savings provision, see [section 221(b) of Pub. L. 113–295][/us/pl/113/295/s221/b], set out as a note under [section 1 of this title][/us/usc/t26/s1].
 
  __Effective Date of 2007 Amendment__ 
 
@@ -759,12 +699,17 @@ $80,000    </td>
 [/us/stat/120/367]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F367
 [/us/pl/110/172/s4/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F172%2Fs4%2Fc
 [/us/stat/121/2476]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F2476
+[/us/pl/113/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295
+[/us/stat/128/4024]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F4024
 [/us/usc/t26/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs1
 [/us/act/1917-10-06/ch106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1917-10-06%2Fch106
 [/us/stat/40/411]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F40%2F411
 [/us/pl/95/223]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F223
 [/us/stat/91/1626]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F1626
 [/us/usc/t50/s1701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs1701
+[/us/pl/113/295/s221/a/73]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs221%2Fa%2F73
+[/us/pl/113/295/s215/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs215%2Fa
+[/us/pl/113/295/s202/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs202%2Fb
 [/us/pl/110/172]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F172
 [/us/pl/109/222/s515/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F222%2Fs515%2Fa%2F1
 [/us/pl/109/222/s515/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F222%2Fs515%2Fa%2F2
@@ -815,6 +760,17 @@ $80,000    </td>
 [/us/pl/87/834]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F834
 [/us/pl/87/834]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F834
 [/us/pl/85/866]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F866
+[/us/pl/113/295/s202/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs202%2Fb
+[/us/pl/112/240]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F240
+[/us/pl/113/295/s202/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs202%2Ff
+[/us/usc/t26/s55]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs55
+[/us/pl/113/295/s215/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs215%2Fa
+[/us/pl/110/172]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F172
+[/us/pl/113/295/s215/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs215%2Fc
+[/us/usc/t26/s56]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs56
+[/us/pl/113/295/s221/a/73]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs221%2Fa%2F73
+[/us/pl/113/295/s221/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs221%2Fb
+[/us/usc/t26/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs1
 [/us/pl/110/172]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F172
 [/us/pl/109/222]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F222
 [/us/pl/110/172/s4/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F172%2Fs4%2Fd

@@ -81,9 +81,9 @@
 
   <tr>
 
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs2057" data-uslm-ref="/us/usc/t26/s2057">2057.</a>  </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs2057" data-uslm-ref="/us/usc/t26/s2057">2057.</a>  </td>
 
-    <td> Family-owned business interests.  </td>
+    <td> Repealed].  </td>
 
   </tr>
 
@@ -98,6 +98,8 @@
 </table>
 
  __Amendments__ 
+
+    2014—[Pub. L. 113–295, div. A, title II, § 221(a)(97)(A)][/us/pl/113/295/s221/a/97/A], Dec. 19, 2014, [128 Stat. 4051][/us/stat/128/4051], which directed amendment of part IV of subchapter A of chapter 11 of this title by striking item 2057 from the table of sections for “such subpart”, was executed by striking item 2057 “Family-owned business interests” from the table of sections for this part, to reflect the probable intent of Congress.
 
     2001—[Pub. L. 107–16, title V, § 532(c)(14)][/us/pl/107/16/s532/c/14], June 7, 2001, [115 Stat. 75][/us/stat/115/75], added item 2058.
 
@@ -124,6 +126,8 @@
 ----------
 ----------
 
+[/us/pl/113/295/s221/a/97/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs221%2Fa%2F97%2FA
+[/us/stat/128/4051]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F4051
 [/us/pl/107/16/s532/c/14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F16%2Fs532%2Fc%2F14
 [/us/stat/115/75]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F75
 [/us/pl/105/206/s6006/b/1/F]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206%2Fs6006%2Fb%2F1%2FF

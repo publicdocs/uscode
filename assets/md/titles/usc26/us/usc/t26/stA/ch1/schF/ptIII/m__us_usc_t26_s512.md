@@ -35,7 +35,7 @@
 
             (A) __General rule__ 
 
-                In the case of an organization described in paragraph (7), (9), (17), or (20) of section 501(c), the term “unrelated business taxable income” means the gross income (excluding any exempt function income), less the deductions allowed by this chapter which are directly connected with the production of the gross income (excluding exempt function income), both computed with the modifications provided in paragraphs (6), (10), (11), and (12) of subsection (b). For purposes of the preceding sentence, the deductions provided by sections 243, 244, and 245 (relating to dividends received by corporations) shall be treated as not directly connected with the production of gross income.
+                In the case of an organization described in paragraph (7), (9), (17), or (20)  <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  of section 501(c), the term “unrelated business taxable income” means the gross income (excluding any exempt function income), less the deductions allowed by this chapter which are directly connected with the production of the gross income (excluding exempt function income), both computed with the modifications provided in paragraphs (6), (10), (11), and (12) of subsection (b). For purposes of the preceding sentence, the deductions provided by sections 243 and 245 (relating to dividends received by corporations) shall be treated as not directly connected with the production of gross income.
 
             (B) __Exempt function income__ 
 
@@ -43,23 +43,23 @@
 
                 (i) for a purpose specified in section 170(c)(4), or
 
-                (ii) in the case of an organization described in paragraph (9), (17), or (20) of section 501(c), to provide for the payment of life, sick, accident, or other benefits,
+                (ii) in the case of an organization described in paragraph (9), (17), or (20) 1 of section 501(c), to provide for the payment of life, sick, accident, or other benefits,
 
                 including reasonable costs of administration directly connected with a purpose described in clause (i) or (ii). If during the taxable year, an amount which is attributable to income so set aside is used for a purpose other than that described in clause (i) or (ii), such amount shall be included, under subparagraph (A), in unrelated business taxable income for the taxable year.
 
             (C) __Applicability to certain corporations described in section 501(c)(2)__ 
 
-                In the case of a corporation described in section 501(c)(2), the income of which is payable to an organization described in paragraph (7), (9), (17), or (20) of section 501(c), subparagraph (A) shall apply as if such corporation were the organization to which the income is payable. For purposes of the preceding sentence, such corporation shall be treated as having exempt function income for a taxable year only if it files a consolidated return with such organization for such year.
+                In the case of a corporation described in section 501(c)(2), the income of which is payable to an organization described in paragraph (7), (9), (17), or (20) 1 of section 501(c), subparagraph (A) shall apply as if such corporation were the organization to which the income is payable. For purposes of the preceding sentence, such corporation shall be treated as having exempt function income for a taxable year only if it files a consolidated return with such organization for such year.
 
             (D) __Nonrecognition of gain__ 
 
-                If property used directly in the performance of the exempt function of an organization described in paragraph (7), (9), (17), or (20) of section 501(c) is sold by such organization, and within a period beginning 1 year before the date of such sale, and ending 3 years after such date, other property is purchased and used by such organization directly in the performance of its exempt function, gain (if any) from such sale shall be recognized only to the extent that such organization’s sales price of the old property exceeds the organization’s cost of purchasing the other property. For purposes of this subparagraph, the destruction in whole or in part, theft, seizure, requisition, or condemnation of property, shall be treated as the sale of such property, and rules similar to the rules provided by subsections (b), (c), (e), and (j) of section 1034 (as in effect on the day before the date of the enactment of the Taxpayer Relief Act of 1997) shall apply.
+                If property used directly in the performance of the exempt function of an organization described in paragraph (7), (9), (17), or (20) 1 of section 501(c) is sold by such organization, and within a period beginning 1 year before the date of such sale, and ending 3 years after such date, other property is purchased and used by such organization directly in the performance of its exempt function, gain (if any) from such sale shall be recognized only to the extent that such organization’s sales price of the old property exceeds the organization’s cost of purchasing the other property. For purposes of this subparagraph, the destruction in whole or in part, theft, seizure, requisition, or condemnation of property, shall be treated as the sale of such property, and rules similar to the rules provided by subsections (b), (c), (e), and (j) of section 1034 (as in effect on the day before the date of the enactment of the Taxpayer Relief Act of 1997) shall apply.
 
-            (E) __Limitation on amount of setaside in the case of organizations described in paragraph (9), (17), or (20) of section 501(c)__ 
+            (E) __Limitation on amount of setaside in the case of organizations described in paragraph (9), (17), or (20)__  __1__  __of section 501(c)__ 
 
                 (i) __In general__ 
 
-                    In the case of any organization described in paragraph (9), (17), or (20) of section 501(c), a set-aside for any purpose specified in clause (ii) of subparagraph (B) may be taken into account under subparagraph (B) only to the extent that such set-aside does not result in an amount of assets set aside for such purpose in excess of the account limit determined under section 419A (without regard to subsection (f)(6) thereof) for the taxable year (not taking into account any reserve described in section 419A(c)(2)(A) for post-retirement medical benefits).
+                    In the case of any organization described in paragraph (9), (17), or (20) 1 of section 501(c), a set-aside for any purpose specified in clause (ii) of subparagraph (B) may be taken into account under subparagraph (B) only to the extent that such set-aside does not result in an amount of assets set aside for such purpose in excess of the account limit determined under section 419A (without regard to subsection (f)(6) thereof) for the taxable year (not taking into account any reserve described in section 419A(c)(2)(A) for post-retirement medical benefits).
 
                 (ii) __Treatment of existing reserves for post-retirement medical or life insurance benefits__ 
 
@@ -237,7 +237,7 @@
 
                 (iv)  __Termination__  __.—__ 
 
-                This subparagraph shall not apply to payments received or accrued after December 31, 2013.
+                This subparagraph shall not apply to payments received or accrued after December 31, 2014.
 
             (F)  __Related persons__  __.—__ 
 
@@ -485,7 +485,7 @@
 
                 (iii)  __Revocation__  __.—__ 
 
-                An eligible taxpayer or qualifying partnership may revoke an election under clause (i)(II)  <sup>\[1\]</sup>  <sup><sup> 1 So in original. </sup></sup>  by filing a statement of revocation with a timely filed tax return (including extensions). A revocation is effective as of the first day of the taxable year of the return in which the revocation is included or a later day in such taxable year selected by the eligible taxpayer or qualifying partnership. Once an eligible taxpayer or qualifying partnership revokes the election, the eligible taxpayer or qualifying partnership is ineligible to make another election under clause (i) with respect to any qualifying brownfield property subject to the revoked election.
+                An eligible taxpayer or qualifying partnership may revoke an election under clause (i)(II)  <sup>\[2\]</sup>  <sup><sup> 2 So in original. </sup></sup>  by filing a statement of revocation with a timely filed tax return (including extensions). A revocation is effective as of the first day of the taxable year of the return in which the revocation is included or a later day in such taxable year selected by the eligible taxpayer or qualifying partnership. Once an eligible taxpayer or qualifying partnership revokes the election, the eligible taxpayer or qualifying partnership is ineligible to make another election under clause (i) with respect to any qualifying brownfield property subject to the revoked election.
 
             (I)  __Recapture__  __.—__ 
 
@@ -563,13 +563,15 @@
 
             This subsection shall not apply to employer securities (within the meaning of section 409(l)) held by an employee stock ownership plan described in section 4975(e)(7).
 
-([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 170][/us/stat/68A/170]; [Pub. L. 85–367, § 1(a)][/us/pl/85/367/s1/a], Apr. 7, 1958, [72 Stat. 80][/us/stat/72/80]; [Pub. L. 88–380, § 1][/us/pl/88/380/s1], July 17, 1964, [78 Stat. 333][/us/stat/78/333]; [Pub. L. 89–809, title I, § 104(g)][/us/pl/89/809/s104/g], Nov. 13, 1966, [80 Stat. 1559][/us/stat/80/1559]; [Pub. L. 91–172, title I, § 121(b)(1)][/us/pl/91/172/s121/b/1], (2), Dec. 30, 1969, [83 Stat. 537][/us/stat/83/537], 538; [Pub. L. 92–418, § 1(b)][/us/pl/92/418/s1/b], Aug. 29, 1972, [86 Stat. 656][/us/stat/86/656]; [Pub. L. 94–396, § 1(a)][/us/pl/94/396/s1/a], Sept. 3, 1976, [90 Stat. 1201][/us/stat/90/1201]; [Pub. L. 94–455, title XIX][/us/pl/94/455], §§ 1901(b)(8)(F), 1906(b)(13)(A), 1951(b)(8)(A), Oct. 4, 1976, [90 Stat. 1794][/us/stat/90/1794], 1834, 1839; [Pub. L. 94–568, § 1(b)][/us/pl/94/568/s1/b], Oct. 20, 1976, [90 Stat. 2697][/us/stat/90/2697]; [Pub. L. 95–345, § 2(a)(2)][/us/pl/95/345/s2/a/2], (b), Aug. 15, 1978, [92 Stat. 481][/us/stat/92/481]; [Pub. L. 97–448, title I, § 102(m)(3)][/us/pl/97/448/s102/m/3], Jan. 12, 1983, [96 Stat. 2374][/us/stat/96/2374]; [Pub. L. 98–369, div. A, title V, § 511(b)][/us/pl/98/369/s511/b], July 18, 1984, [98 Stat. 860][/us/stat/98/860]; [Pub. L. 99–514, title XVIII, § 1851(a)(10)][/us/pl/99/514/s1851/a/10], Oct. 22, 1986, [100 Stat. 2861][/us/stat/100/2861]; [Pub. L. 100–203, title X, § 10213(a)][/us/pl/100/203/s10213/a], Dec. 22, 1987, [101 Stat. 1330–406][/us/stat/101/1330-406]; [Pub. L. 100–647, title I, § 1018(t)(2)(B)][/us/pl/100/647/s1018/t/2/B], Nov. 10, 1988, [102 Stat. 3587][/us/stat/102/3587]; [Pub. L. 101–508, title XI, § 11801(a)(23)][/us/pl/101/508/s11801/a/23], Nov. 5, 1990, [104 Stat. 1388–521][/us/stat/104/1388-521]; [Pub. L. 103–66, title XIII][/us/pl/103/66], §§ 13145(a), 13147(a), 13148(a), (b), Aug. 10, 1993, [107 Stat. 443][/us/stat/107/443], 444; [Pub. L. 104–188, title I][/us/pl/104/188], §§ 1115(a), 1316(c), 1603(a), Aug. 20, 1996, [110 Stat. 1761][/us/stat/110/1761], 1786, 1835; [Pub. L. 105–34, title III, § 312(d)(5)][/us/pl/105/34/s312/d/5], title X, § 1041(a), title XV, § 1523(a), title XVI, § 1601(c)(4)(A), (D), Aug. 5, 1997, [111 Stat. 840][/us/stat/111/840], 938, 1070, 1087; [Pub. L. 105–206, title VI][/us/pl/105/206], §§ 6010(j)(1), (2), 6023(8), July 22, 1998, [112 Stat. 815][/us/stat/112/815], 825; [Pub. L. 108–357, title II, § 233(d)][/us/pl/108/357/s233/d], title III, § 319(c), title VII, § 702(a), Oct. 22, 2004, [118 Stat. 1434][/us/stat/118/1434], 1472, 1540; [Pub. L. 109–135, title IV, § 412(dd)][/us/pl/109/135/s412/dd], (ee)(1), Dec. 21, 2005, [119 Stat. 2639][/us/stat/119/2639]; [Pub. L. 109–280, title XII, § 1205(a)][/us/pl/109/280/s1205/a], Aug. 17, 2006, [120 Stat. 1066][/us/stat/120/1066]; [Pub. L. 110–343, div. C, title III, § 306(a)][/us/pl/110/343/s306/a], Oct. 3, 2008, [122 Stat. 3868][/us/stat/122/3868]; [Pub. L. 111–312, title VII, § 747(a)][/us/pl/111/312/s747/a], Dec. 17, 2010, [124 Stat. 3320][/us/stat/124/3320]; [Pub. L. 112–240, title III, § 319(a)][/us/pl/112/240/s319/a], Jan. 2, 2013, [126 Stat. 2331][/us/stat/126/2331].)
+([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 170][/us/stat/68A/170]; [Pub. L. 85–367, § 1(a)][/us/pl/85/367/s1/a], Apr. 7, 1958, [72 Stat. 80][/us/stat/72/80]; [Pub. L. 88–380, § 1][/us/pl/88/380/s1], July 17, 1964, [78 Stat. 333][/us/stat/78/333]; [Pub. L. 89–809, title I, § 104(g)][/us/pl/89/809/s104/g], Nov. 13, 1966, [80 Stat. 1559][/us/stat/80/1559]; [Pub. L. 91–172, title I, § 121(b)(1)][/us/pl/91/172/s121/b/1], (2), Dec. 30, 1969, [83 Stat. 537][/us/stat/83/537], 538; [Pub. L. 92–418, § 1(b)][/us/pl/92/418/s1/b], Aug. 29, 1972, [86 Stat. 656][/us/stat/86/656]; [Pub. L. 94–396, § 1(a)][/us/pl/94/396/s1/a], Sept. 3, 1976, [90 Stat. 1201][/us/stat/90/1201]; [Pub. L. 94–455, title XIX][/us/pl/94/455], §§ 1901(b)(8)(F), 1906(b)(13)(A), 1951(b)(8)(A), Oct. 4, 1976, [90 Stat. 1794][/us/stat/90/1794], 1834, 1839; [Pub. L. 94–568, § 1(b)][/us/pl/94/568/s1/b], Oct. 20, 1976, [90 Stat. 2697][/us/stat/90/2697]; [Pub. L. 95–345, § 2(a)(2)][/us/pl/95/345/s2/a/2], (b), Aug. 15, 1978, [92 Stat. 481][/us/stat/92/481]; [Pub. L. 97–448, title I, § 102(m)(3)][/us/pl/97/448/s102/m/3], Jan. 12, 1983, [96 Stat. 2374][/us/stat/96/2374]; [Pub. L. 98–369, div. A, title V, § 511(b)][/us/pl/98/369/s511/b], July 18, 1984, [98 Stat. 860][/us/stat/98/860]; [Pub. L. 99–514, title XVIII, § 1851(a)(10)][/us/pl/99/514/s1851/a/10], Oct. 22, 1986, [100 Stat. 2861][/us/stat/100/2861]; [Pub. L. 100–203, title X, § 10213(a)][/us/pl/100/203/s10213/a], Dec. 22, 1987, [101 Stat. 1330–406][/us/stat/101/1330-406]; [Pub. L. 100–647, title I, § 1018(t)(2)(B)][/us/pl/100/647/s1018/t/2/B], Nov. 10, 1988, [102 Stat. 3587][/us/stat/102/3587]; [Pub. L. 101–508, title XI, § 11801(a)(23)][/us/pl/101/508/s11801/a/23], Nov. 5, 1990, [104 Stat. 1388–521][/us/stat/104/1388-521]; [Pub. L. 103–66, title XIII][/us/pl/103/66], §§ 13145(a), 13147(a), 13148(a), (b), Aug. 10, 1993, [107 Stat. 443][/us/stat/107/443], 444; [Pub. L. 104–188, title I][/us/pl/104/188], §§ 1115(a), 1316(c), 1603(a), Aug. 20, 1996, [110 Stat. 1761][/us/stat/110/1761], 1786, 1835; [Pub. L. 105–34, title III, § 312(d)(5)][/us/pl/105/34/s312/d/5], title X, § 1041(a), title XV, § 1523(a), title XVI, § 1601(c)(4)(A), (D), Aug. 5, 1997, [111 Stat. 840][/us/stat/111/840], 938, 1070, 1087; [Pub. L. 105–206, title VI][/us/pl/105/206], §§ 6010(j)(1), (2), 6023(8), July 22, 1998, [112 Stat. 815][/us/stat/112/815], 825; [Pub. L. 108–357, title II, § 233(d)][/us/pl/108/357/s233/d], title III, § 319(c), title VII, § 702(a), Oct. 22, 2004, [118 Stat. 1434][/us/stat/118/1434], 1472, 1540; [Pub. L. 109–135, title IV, § 412(dd)][/us/pl/109/135/s412/dd], (ee)(1), Dec. 21, 2005, [119 Stat. 2639][/us/stat/119/2639]; [Pub. L. 109–280, title XII, § 1205(a)][/us/pl/109/280/s1205/a], Aug. 17, 2006, [120 Stat. 1066][/us/stat/120/1066]; [Pub. L. 110–343, div. C, title III, § 306(a)][/us/pl/110/343/s306/a], Oct. 3, 2008, [122 Stat. 3868][/us/stat/122/3868]; [Pub. L. 111–312, title VII, § 747(a)][/us/pl/111/312/s747/a], Dec. 17, 2010, [124 Stat. 3320][/us/stat/124/3320]; [Pub. L. 112–240, title III, § 319(a)][/us/pl/112/240/s319/a], Jan. 2, 2013, [126 Stat. 2331][/us/stat/126/2331]; [Pub. L. 113–295, div. A, title I, § 131(a)][/us/pl/113/295/s131/a], title II, § 221(a)(41)(G), Dec. 19, 2014, [128 Stat. 4018][/us/stat/128/4018], 4044.)
 
  __Inflation Adjusted Items for Certain Years__ 
 
     For inflation adjustment of certain items in this section, see Revenue Procedures listed in a table under [section 1 of this title][/us/usc/t26/s1].
 
  __References in Text__ 
+
+    Section 501(c)(20), referred to in subsec. (a)(3), was repealed by [Pub. L. 113–295, div. A, title II, § 221(a)(19)(B)(iii)][/us/pl/113/295/s221/a/19/B/iii], Dec. 19, 2014, [128 Stat. 4040][/us/stat/128/4040].
 
     The date of the enactment of the Taxpayer Relief Act of 1997, referred to in subsec. (a)(3)(D), is the date of enactment of [Pub. L. 105–34][/us/pl/105/34], which was approved Aug. 5, 1997.
 
@@ -582,6 +584,10 @@
     The date of the enactment of this paragraph, referred to in subsec. (b)(19)(C)(i), (D)(i), (ii)(V), (E)(ii)(IV), is the date of enactment of [Pub. L. 108–357][/us/pl/108/357], which was approved Oct. 22, 2004.
 
  __Amendments__ 
+
+    2014—Subsec. (a)(3)(A). [Pub. L. 113–295, § 221(a)(41)(G)][/us/pl/113/295/s221/a/41/G], struck out “, 244,” after “sections 243”.
+
+    Subsec. (b)(13)(E)(iv). [Pub. L. 113–295, § 131(a)][/us/pl/113/295/s131/a], substituted “December 31, 2014” for “December 31, 2013”.
 
     2013—Subsec. (b)(13)(E)(iv). [Pub. L. 112–240][/us/pl/112/240] substituted “December 31, 2013” for “December 31, 2011”.
 
@@ -696,6 +702,16 @@
     1964—Subsec. (b)(14). [Pub. L. 88–380][/us/pl/88/380] added par. (14).
 
     1958—Subsec. (b)(13). [Pub. L. 85–367][/us/pl/85/367] added par. (13).
+
+ __Effective Date of 2014 Amendment__ 
+
+[Pub. L. 113–295, div. A, title I, § 131(b)][/us/pl/113/295/s131/b], Dec. 19, 2014, [128 Stat. 4018][/us/stat/128/4018], provided that: 
+
+> “The amendment made by this section \[amending this section\] shall apply to payments received or accrued after December 31, 2013.”
+
+    Except as otherwise provided in [section 221(a) of Pub. L. 113–295][/us/pl/113/295/s221/a], amendment by [section 221(a)(41)(G) of Pub. L. 113–295][/us/pl/113/295/s221/a/41/G] effective Dec. 19, 2014, subject to a savings provision, see [section 221(b) of Pub. L. 113–295][/us/pl/113/295/s221/b], set out as a note under [section 1 of this title][/us/usc/t26/s1].
+
+    Amendment by [section 221(a)(41)(G) of Pub. L. 113–295][/us/pl/113/295/s221/a/41/G] not applicable to preferred stock issued before Oct. 1, 1942 (determined in the same manner as under [section 247 of this title][/us/usc/t26/s247] as in effect before its repeal by [Pub. L. 113–295][/us/pl/113/295]), see [section 221(a)(41)(K) of Pub. L. 113–295][/us/pl/113/295/s221/a/41/K], set out as a note under [section 172 of this title][/us/usc/t26/s172].
 
  __Effective Date of 2013 Amendment__ 
 
@@ -946,11 +962,17 @@
 [/us/stat/124/3320]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3320
 [/us/pl/112/240/s319/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F240%2Fs319%2Fa
 [/us/stat/126/2331]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F2331
+[/us/pl/113/295/s131/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs131%2Fa
+[/us/stat/128/4018]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F4018
 [/us/usc/t26/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs1
+[/us/pl/113/295/s221/a/19/B/iii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs221%2Fa%2F19%2FB%2Fiii
+[/us/stat/128/4040]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F4040
 [/us/pl/105/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34
 [/us/pl/98/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369
 [/us/pl/109/280]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280
 [/us/pl/108/357]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357
+[/us/pl/113/295/s221/a/41/G]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs221%2Fa%2F41%2FG
+[/us/pl/113/295/s131/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs131%2Fa
 [/us/pl/112/240]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F240
 [/us/pl/111/312]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F312
 [/us/pl/110/343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F343
@@ -1007,6 +1029,17 @@
 [/us/pl/89/809]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F809
 [/us/pl/88/380]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F380
 [/us/pl/85/367]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F367
+[/us/pl/113/295/s131/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs131%2Fb
+[/us/stat/128/4018]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F4018
+[/us/pl/113/295/s221/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs221%2Fa
+[/us/pl/113/295/s221/a/41/G]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs221%2Fa%2F41%2FG
+[/us/pl/113/295/s221/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs221%2Fb
+[/us/usc/t26/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs1
+[/us/pl/113/295/s221/a/41/G]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs221%2Fa%2F41%2FG
+[/us/usc/t26/s247]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs247
+[/us/pl/113/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295
+[/us/pl/113/295/s221/a/41/K]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs221%2Fa%2F41%2FK
+[/us/usc/t26/s172]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs172
 [/us/pl/112/240/s319/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F240%2Fs319%2Fb
 [/us/stat/126/2332]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F2332
 [/us/pl/111/312/s747/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F312%2Fs747%2Fb

@@ -21,11 +21,11 @@
 
         (1) $5,000,000, reduced by
 
-        (2) the amount of interest paid or incurred by such corporation during such year on obligations (A) issued after December 31, 1967, to provide consideration for an acquisition described in paragraph (1) of subsection (b), but (B) which are not corporate acquisition indebtedness.
+        (2) the amount of interest paid or incurred by such corporation during such year on obligations (A) issued to provide consideration for an acquisition described in paragraph (1) of subsection (b), but (B) which are not corporate acquisition indebtedness.
 
     (b) __Corporate acquisition indebtedness__ 
 
-    For purposes of this section, the term “corporate acquisition indebtedness” means any obligation evidenced by a bond, debenture, note, or certificate or other evidence of indebtedness issued after October 9, 1969, by a corporation (hereinafter in this section referred to as “issuing corporation”) if—
+    For purposes of this section, the term “corporate acquisition indebtedness” means any obligation evidenced by a bond, debenture, note, or certificate or other evidence of indebtedness issued by a corporation (hereinafter in this section referred to as “issuing corporation”) if—
 
         (1)
 
@@ -137,7 +137,7 @@
 
         (5) __5 percent stock rule__ 
 
-            In the case of obligations issued to provide consideration for the acquisition of stock in another corporation, such obligations shall be corporate acquisition indebtedness for a taxable year only if at some time after October 9, 1969, and before the close of such year the issuing corporation owns 5 percent or more of the total combined voting power of all classes of stock entitled to vote of such other corporation.
+            In the case of obligations issued to provide consideration for the acquisition of stock in another corporation, such obligations shall be corporate acquisition indebtedness for a taxable year only if at some time before the close of such year the issuing corporation owns 5 percent or more of the total combined voting power of all classes of stock entitled to vote of such other corporation.
 
     (e) __Certain nontaxable transactions__ 
 
@@ -159,25 +159,41 @@
 
         (2) Any obligation which is corporate acquisition indebtedness of the issuing corporation is also corporate acquisition indebtedness of any corporation which becomes liable for such obligation as guarantor, endorser, or indemnitor or which assumes liability for such obligation in any transaction.
 
-    (i) __Certain obligations issued after__  __October 9, 1969__ 
-
-    For purposes of this section, an obligation shall not be corporate acquisition indebtedness if issued after October 9, 1969, to provide consideration for the acquisition of—
-
-        (1) stock or assets pursuant to a binding written contract which was in effect on October 9, 1969, and at all times thereafter before such acquisition, or
-
-        (2) stock in any corporation where the issuing corporation, on October 9, 1969, and at all times thereafter before such acquisition, owned at least 50 percent of the total combined voting power of all classes of stock entitled to vote of the acquired corporation.
-
-    (j) __Effect on other provisions__ 
+    (i) __Effect on other provisions__ 
 
         No inference shall be drawn from any provision in this section that any instrument designated as a bond, debenture, note, or certificate or other evidence of indebtedness by its issuer represents an obligation or indebtedness of such issuer in applying any other provision of this title.
 
-(Added [Pub. L. 91–172, title IV, § 411(a)][/us/pl/91/172/s411/a], Dec. 30, 1969, [83 Stat. 604][/us/stat/83/604]; amended [Pub. L. 94–455, title XIX, § 1906(b)(13)(A)][/us/pl/94/455/s1906/b/13/A], Oct. 4, 1976, [90 Stat. 1834][/us/stat/90/1834]; [Pub. L. 94–514, § 1(a)][/us/pl/94/514/s1/a], Oct. 15, 1976, [90 Stat. 2443][/us/stat/90/2443].)
+(Added [Pub. L. 91–172, title IV, § 411(a)][/us/pl/91/172/s411/a], Dec. 30, 1969, [83 Stat. 604][/us/stat/83/604]; amended [Pub. L. 94–455, title XIX, § 1906(b)(13)(A)][/us/pl/94/455/s1906/b/13/A], Oct. 4, 1976, [90 Stat. 1834][/us/stat/90/1834]; [Pub. L. 94–514, § 1(a)][/us/pl/94/514/s1/a], Oct. 15, 1976, [90 Stat. 2443][/us/stat/90/2443]; [Pub. L. 113–295, div. A, title II, § 221(a)(47)(A)][/us/pl/113/295/s221/a/47/A], Dec. 19, 2014, [128 Stat. 4045][/us/stat/128/4045].)
 
  __Amendments__ 
+
+    2014—Subsec. (a)(2). [Pub. L. 113–295, § 221(a)(47)(A)(i)][/us/pl/113/295/s221/a/47/A/i], struck out “after December 31, 1967,” after “(A) issued”.
+
+    Subsec. (b). [Pub. L. 113–295, § 221(a)(47)(A)(ii)][/us/pl/113/295/s221/a/47/A/ii], struck out “after October 9, 1969,” after “evidence of indebtedness issued” in introductory provisions.
+
+    Subsec. (d)(5). [Pub. L. 113–295, § 221(a)(47)(A)(iii)][/us/pl/113/295/s221/a/47/A/iii], struck out “after October 9, 1969, and” after “some time”.
+
+    Subsecs. (i), (j). [Pub. L. 113–295, § 221(a)(47)(A)(iv)][/us/pl/113/295/s221/a/47/A/iv], redesignated subsec. (j) as (i) and struck out former subsec. (i) which read as follows: “For purposes of this section, an obligation shall not be corporate acquisition indebtedness if issued after October 9, 1969, to provide consideration for the acquisition of—
+
+    “(1) stock or assets pursuant to a binding written contract which was in effect on October 9, 1969, and at all times thereafter before such acquisition, or
+
+    “(2) stock in any corporation where the issuing corporation, on October 9, 1969, and at all times thereafter before such acquisition, owned at least 50 percent of the total combined voting power of all classes of stock entitled to vote of the acquired corporation.”
 
     1976—Subsecs. (c)(3)(B), (g). [Pub. L. 94–455][/us/pl/94/455] struck out “or his delegate” after “Secretary”.
 
     Subsec. (i). [Pub. L. 94–514][/us/pl/94/514] struck out provisions that par. (2) would cease to apply when (at any time on or after October 9, 1969) the issuing corporation has acquired control (as defined in section 368(c)) of the acquired corporation.
+
+ __Effective Date of 2014 Amendment__ 
+
+    Except as otherwise provided in [section 221(a) of Pub. L. 113–295][/us/pl/113/295/s221/a], amendment by [Pub. L. 113–295][/us/pl/113/295] effective Dec. 19, 2014, subject to a savings provision, see [section 221(b) of Pub. L. 113–295][/us/pl/113/295/s221/b], set out as a note under [section 1 of this title][/us/usc/t26/s1].
+
+[Pub. L. 113–295, div. A, title II, § 221(a)(47)(B)][/us/pl/113/295/s221/a/47/B], Dec. 19, 2014, [128 Stat. 4045][/us/stat/128/4045], provided that: 
+
+> “The amendments made by this paragraph \[amending this section\] shall not—
+
+>     “(i) apply to obligations issued on or before October 9, 1969 (determined in the same manner as under section 279 of the Internal Revenue Code of 1986 as in effect before such amendments), and
+
+>     “(ii) be construed to require interest on obligations issued on or before December 31, 1967, to be taken into account under section 279(a)(2) of such Code (as in effect after such amendments).”
 
  __Effective Date of 1976 Amendment__ 
 
@@ -204,8 +220,20 @@
 [/us/stat/90/1834]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1834
 [/us/pl/94/514/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F514%2Fs1%2Fa
 [/us/stat/90/2443]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2443
+[/us/pl/113/295/s221/a/47/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs221%2Fa%2F47%2FA
+[/us/stat/128/4045]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F4045
+[/us/pl/113/295/s221/a/47/A/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs221%2Fa%2F47%2FA%2Fi
+[/us/pl/113/295/s221/a/47/A/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs221%2Fa%2F47%2FA%2Fii
+[/us/pl/113/295/s221/a/47/A/iii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs221%2Fa%2F47%2FA%2Fiii
+[/us/pl/113/295/s221/a/47/A/iv]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs221%2Fa%2F47%2FA%2Fiv
 [/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455
 [/us/pl/94/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F514
+[/us/pl/113/295/s221/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs221%2Fa
+[/us/pl/113/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295
+[/us/pl/113/295/s221/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs221%2Fb
+[/us/usc/t26/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs1
+[/us/pl/113/295/s221/a/47/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs221%2Fa%2F47%2FB
+[/us/stat/128/4045]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F4045
 [/us/pl/94/514/s1/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F514%2Fs1%2Fb
 [/us/stat/90/2443]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2443
 [/us/pl/91/172/s411/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F172%2Fs411%2Fc

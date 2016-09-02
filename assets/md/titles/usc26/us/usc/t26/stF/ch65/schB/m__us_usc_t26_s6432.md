@@ -145,7 +145,7 @@
 
  __Premium Assistance for COBRA Benefits__ 
 
-[Pub. L. 111–5, div. B, title III, § 3001][/us/pl/111/5/s3001], Feb. 17, 2009, [123 Stat. 455][/us/stat/123/455], as amended by [Pub. L. 111–118, div. B, § 1010(a)][/us/pl/111/118/s1010/a]–(d), Dec. 19, 2009, [123 Stat. 3472][/us/stat/123/3472], 3473; [Pub. L. 111–144, § 3(a)][/us/pl/111/144/s3/a], (b)(1)–(4), Mar. 2, 2010, [124 Stat. 43][/us/stat/124/43], 44; [Pub. L. 111–157, § 3(a)][/us/pl/111/157/s3/a], (b), Apr. 15, 2010, [124 Stat. 1117][/us/stat/124/1117], provided that:
+[Pub. L. 111–5, div. B, title III, § 3001][/us/pl/111/5/s3001], Feb. 17, 2009, [123 Stat. 455][/us/stat/123/455], as amended by [Pub. L. 111–118, div. B, § 1010(a)][/us/pl/111/118/s1010/a]–(d), Dec. 19, 2009, [123 Stat. 3472][/us/stat/123/3472], 3473; [Pub. L. 111–144, § 3(a)][/us/pl/111/144/s3/a], (b)(1)–(4), Mar. 2, 2010, [124 Stat. 43][/us/stat/124/43], 44; [Pub. L. 111–157, § 3(a)][/us/pl/111/157/s3/a], (b), Apr. 15, 2010, [124 Stat. 1117][/us/stat/124/1117]; [Pub. L. 113–295, div. A, title II, § 209(j)(3)][/us/pl/113/295/s209/j/3], Dec. 19, 2014, [128 Stat. 4031][/us/stat/128/4031], provided that:
 
 >     “(a) __Premium Assistance for COBRA Continuation Coverage for Individuals and Their Families.—__ 
 
@@ -623,6 +623,8 @@
 [/us/stat/124/43]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F43
 [/us/pl/111/157/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F157%2Fs3%2Fa
 [/us/stat/124/1117]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1117
+[/us/pl/113/295/s209/j/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs209%2Fj%2F3
+[/us/stat/128/4031]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F4031
 [/us/usc/t42/s1395]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395
 [/us/usc/t29/s1165/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1165%2Fa
 [/us/usc/t42/s300bb–5/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300bb%E2%80%935%2Fa

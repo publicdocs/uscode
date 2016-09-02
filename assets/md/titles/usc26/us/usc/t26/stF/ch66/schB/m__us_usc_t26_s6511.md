@@ -343,7 +343,7 @@
 
  __Effective Date of 2001 Amendment__ 
 
-    Amendment by [Pub. L. 107–16][/us/pl/107/16] applicable to estates of decedents dying, and generation-skipping transfers, after Dec. 31, 2004, see [section 532(d) of Pub. L. 107–16][/us/pl/107/16/s532/d], set out as a note under [section 2011 of this title][/us/usc/t26/s2011].
+    Amendment by [Pub. L. 107–16][/us/pl/107/16] applicable to estates of decedents dying, and generation-skipping transfers, after Dec. 31, 2004, see [section 532(d) of Pub. L. 107–16][/us/pl/107/16/s532/d], set out as a note under [section 2012 of this title][/us/usc/t26/s2012].
 
  __Effective Date of 1998 Amendment__ 
 
@@ -489,13 +489,13 @@
 
  __Transition Rules__ 
 
-[Pub. L. 110–245, title I, § 106(c)][/us/pl/110/245/s106/c], June 17, 2008, [122 Stat. 1630][/us/stat/122/1630], provided that: 
+[Pub. L. 110–245, title I, § 106(c)][/us/pl/110/245/s106/c], June 17, 2008, [122 Stat. 1630][/us/stat/122/1630], as amended by [Pub. L. 113–295, div. A, title II, § 213(a)][/us/pl/113/295/s213/a], Dec. 19, 2014, [128 Stat. 4033][/us/stat/128/4033], provided that: 
 
 > “In the case of a determination described in paragraph (8) of section 6511(d) of the Internal Revenue Code of 1986 (as added by this section) which is made by the Secretary of Veterans Affairs after December 31, 2000, and before the date of the enactment of this Act \[June 17, 2008\], such paragraph—
 
 >     “(1) shall not apply with respect to any taxable year which began before January 1, 2001, and
 
->     “(2) shall be applied by substituting \[sic\] for ‘the date of such determination’ in subparagraph (A) thereof.”
+>     “(2) shall be applied by substituting ‘June 17, 2008’ for ‘the date of such determination’ in subparagraph (A) thereof.”
 
  __Plan Amendments Not Required Until January 1, 1989__ 
 
@@ -654,7 +654,7 @@
 [/us/stat/122/1630]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1630
 [/us/pl/107/16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F16
 [/us/pl/107/16/s532/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F16%2Fs532%2Fd
-[/us/usc/t26/s2011]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs2011
+[/us/usc/t26/s2012]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs2012
 [/us/pl/105/206/s3202/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206%2Fs3202%2Fb
 [/us/stat/112/741]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F741
 [/us/pl/105/34/s1056/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2Fs1056%2Fb
@@ -791,6 +791,8 @@
 [/us/usc/t26/s45K]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs45K
 [/us/pl/110/245/s106/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F245%2Fs106%2Fc
 [/us/stat/122/1630]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1630
+[/us/pl/113/295/s213/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs213%2Fa
+[/us/stat/128/4033]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F4033
 [/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
 [/us/pl/99/514/s1140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1140
 [/us/usc/t26/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs401

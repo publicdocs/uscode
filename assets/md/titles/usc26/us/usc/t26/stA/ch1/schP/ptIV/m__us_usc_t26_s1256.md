@@ -117,7 +117,7 @@
 
             (B) __Syndicate defined__ 
 
-                For purposes of subparagraph (A), the term “syndicate” means any partnership or other entity (other than a corporation which is not an S corporation) if more than 35 percent of the losses of such entity during the taxable year are allocable to limited partners or limited entrepreneurs (within the meaning of section 464(e)(2)).
+                For purposes of subparagraph (A), the term “syndicate” means any partnership or other entity (other than a corporation which is not an S corporation) if more than 35 percent of the losses of such entity during the taxable year are allocable to limited partners or limited entrepreneurs (within the meaning of section 464(e)(2)  <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup> ).
 
             (C) __Holdings attributable to active management__ 
 
@@ -300,6 +300,8 @@
 (Added [Pub. L. 97–34, title V, § 503(a)][/us/pl/97/34/s503/a], Aug. 13, 1981, [95 Stat. 327][/us/stat/95/327]; amended [Pub. L. 97–354, § 5(a)(38)][/us/pl/97/354/s5/a/38], Oct. 19, 1982, [96 Stat. 1696][/us/stat/96/1696]; [Pub. L. 97–448, title I, § 105(c)(1)][/us/pl/97/448/s105/c/1]–(3), (5)(A)–(C), Jan. 12, 1983, [96 Stat. 2385][/us/stat/96/2385], 2386; [Pub. L. 98–369, div. A, title I][/us/pl/98/369], §§ 102(a), (b), (e)(1), (5), 104(a), 107(c), (d), title VII, § 722(a)(2), July 18, 1984, [98 Stat. 620][/us/stat/98/620], 621, 623, 624, 628, 630, 972; [Pub. L. 99–514, title XII, § 1261(c)][/us/pl/99/514/s1261/c], Oct. 22, 1986, [100 Stat. 2591][/us/stat/100/2591]; [Pub. L. 106–170, title V, § 532(b)(4)][/us/pl/106/170/s532/b/4], Dec. 17, 1999, [113 Stat. 1930][/us/stat/113/1930]; [Pub. L. 106–554, § 1(a)(7)][/us/pl/106/554/s1/a/7] \[title IV, § 401(g)(1)–(3)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–649, 2763A–650; [Pub. L. 107–147, title IV, § 416(b)(1)][/us/pl/107/147/s416/b/1], Mar. 9, 2002, [116 Stat. 55][/us/stat/116/55]; [Pub. L. 108–311, title IV, § 405(a)(2)][/us/pl/108/311/s405/a/2], Oct. 4, 2004, [118 Stat. 1188][/us/stat/118/1188]; [Pub. L. 109–135, title IV, § 412][/us/pl/109/135/s412](oo), Dec. 21, 2005, [119 Stat. 2639][/us/stat/119/2639]; [Pub. L. 111–203, title XVI, § 1601(a)][/us/pl/111/203/s1601/a], July 21, 2010, [124 Stat. 2223][/us/stat/124/2223].)
 
  __References in Text__ 
+
+    Section 464(e)(2), referred to in subsec. (e)(3)(B), (C), was repealed by [Pub. L. 113–295, div. A, title II, § 221(a)(58)(C)(i)][/us/pl/113/295/s221/a/58/C/i], Dec. 19, 2014, [128 Stat. 4047][/us/stat/128/4047].
 
     Section 3(a)(55) of the Securities Exchange Act of 1934, referred to in subsec. (g)(6)(B), is classified to [section 78c(a)(55) of Title 15][/us/usc/t15/s78c/a/55], Commerce and Trade.
 
@@ -658,6 +660,8 @@
 [/us/stat/119/2639]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F2639
 [/us/pl/111/203/s1601/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1601%2Fa
 [/us/stat/124/2223]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2223
+[/us/pl/113/295/s221/a/58/C/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs221%2Fa%2F58%2FC%2Fi
+[/us/stat/128/4047]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F4047
 [/us/usc/t15/s78c/a/55]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs78c%2Fa%2F55
 [/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
 [/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203

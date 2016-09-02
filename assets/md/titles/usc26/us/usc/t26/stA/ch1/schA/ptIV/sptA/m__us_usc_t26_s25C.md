@@ -173,15 +173,17 @@
 
         (1) after December 31, 2007, and before January 1, 2009, or
 
-        (2) after December 31, 2013.. <sup>\[3\]</sup>  <sup><sup> 3 So in original. </sup></sup> 
+        (2) after December 31, 2014.. <sup>\[3\]</sup>  <sup><sup> 3 So in original. </sup></sup> 
 
-(Added [Pub. L. 109–58, title XIII, § 1333(a)][/us/pl/109/58/s1333/a], Aug. 8, 2005, [119 Stat. 1026][/us/stat/119/1026]; amended [Pub. L. 109–135, title IV, § 412(b)][/us/pl/109/135/s412/b], Dec. 21, 2005, [119 Stat. 2636][/us/stat/119/2636]; [Pub. L. 110–172, § 11(a)(2)][/us/pl/110/172/s11/a/2], Dec. 29, 2007, [121 Stat. 2484][/us/stat/121/2484]; [Pub. L. 110–343, div. B, title III, § 302(a)][/us/pl/110/343/s302/a]–(e), Oct. 3, 2008, [122 Stat. 3844][/us/stat/122/3844], 3845; [Pub. L. 111–5, div. B, title I][/us/pl/111/5], §§ 1103(b)(2)(A), 1121(a)–(e), Feb. 17, 2009, [123 Stat. 320][/us/stat/123/320], 322–324; [Pub. L. 111–312, title VII, § 710(a)][/us/pl/111/312/s710/a], (b), Dec. 17, 2010, [124 Stat. 3314][/us/stat/124/3314]; [Pub. L. 112–240, title IV, § 401(a)][/us/pl/112/240/s401/a], Jan. 2, 2013, [126 Stat. 2337][/us/stat/126/2337].)
+(Added [Pub. L. 109–58, title XIII, § 1333(a)][/us/pl/109/58/s1333/a], Aug. 8, 2005, [119 Stat. 1026][/us/stat/119/1026]; amended [Pub. L. 109–135, title IV, § 412(b)][/us/pl/109/135/s412/b], Dec. 21, 2005, [119 Stat. 2636][/us/stat/119/2636]; [Pub. L. 110–172, § 11(a)(2)][/us/pl/110/172/s11/a/2], Dec. 29, 2007, [121 Stat. 2484][/us/stat/121/2484]; [Pub. L. 110–343, div. B, title III, § 302(a)][/us/pl/110/343/s302/a]–(e), Oct. 3, 2008, [122 Stat. 3844][/us/stat/122/3844], 3845; [Pub. L. 111–5, div. B, title I][/us/pl/111/5], §§ 1103(b)(2)(A), 1121(a)–(e), Feb. 17, 2009, [123 Stat. 320][/us/stat/123/320], 322–324; [Pub. L. 111–312, title VII, § 710(a)][/us/pl/111/312/s710/a], (b), Dec. 17, 2010, [124 Stat. 3314][/us/stat/124/3314]; [Pub. L. 112–240, title IV, § 401(a)][/us/pl/112/240/s401/a], Jan. 2, 2013, [126 Stat. 2337][/us/stat/126/2337]; [Pub. L. 113–295, div. A, title I, § 151(a)][/us/pl/113/295/s151/a], Dec. 19, 2014, [128 Stat. 4021][/us/stat/128/4021].)
 
  __References in Text__ 
 
     The date of the enactment of the American Recovery and Reinvestment Tax Act of 2009, referred to in subsec. (c)(1), is the date of the enactment of div. B of [Pub. L. 111–5][/us/pl/111/5], which was approved Feb. 17, 2009.
 
  __Amendments__ 
+
+    2014—Subsec. (g)(2). [Pub. L. 113–295][/us/pl/113/295] substituted “December 31, 2014” for “December 31, 2013”.
 
     2013—Subsec. (g)(2). [Pub. L. 112–240][/us/pl/112/240] substituted “December 31, 2013” for “December 31, 2011”.
 
@@ -265,6 +267,12 @@
 
     2005—Subsec. (b)(2). [Pub. L. 109–135][/us/pl/109/135] substituted “subsection (c)(2)(B)” for “subsection (c)(3)(B)”.
 
+ __Effective Date of 2014 Amendment__ 
+
+[Pub. L. 113–295, div. A, title I, § 151(b)][/us/pl/113/295/s151/b], Dec. 19, 2014, [128 Stat. 4021][/us/stat/128/4021], provided that: 
+
+> “The amendment made by this section \[amending this section\] shall apply to property placed in service after December 31, 2013.”
+
  __Effective Date of 2013 Amendment__ 
 
 [Pub. L. 112–240, title IV, § 401(b)][/us/pl/112/240/s401/b], Jan. 2, 2013, [126 Stat. 2337][/us/stat/126/2337], provided that: 
@@ -338,7 +346,10 @@
 [/us/stat/124/3314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3314
 [/us/pl/112/240/s401/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F240%2Fs401%2Fa
 [/us/stat/126/2337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F2337
+[/us/pl/113/295/s151/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs151%2Fa
+[/us/stat/128/4021]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F4021
 [/us/pl/111/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5
+[/us/pl/113/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295
 [/us/pl/112/240]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F240
 [/us/pl/111/312/s710/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F312%2Fs710%2Fb%2F1
 [/us/pl/111/312/s710/b/2/D/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F312%2Fs710%2Fb%2F2%2FD%2Fii
@@ -373,6 +384,8 @@
 [/us/pl/110/343/s302/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F343%2Fs302%2Fa
 [/us/pl/110/172]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F172
 [/us/pl/109/135]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F135
+[/us/pl/113/295/s151/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs151%2Fb
+[/us/stat/128/4021]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F4021
 [/us/pl/112/240/s401/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F240%2Fs401%2Fb
 [/us/stat/126/2337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F2337
 [/us/pl/111/312/s710/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F312%2Fs710%2Fc

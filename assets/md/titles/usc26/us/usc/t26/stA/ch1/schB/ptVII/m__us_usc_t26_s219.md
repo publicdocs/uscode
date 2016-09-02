@@ -51,59 +51,7 @@
 
             (A) __In general__ 
 
-                The deductible amount shall be determined in accordance with the following table:
-
-<table>
-
-                  <tr>
-
-                    <td> 
-
-                 For taxable years beginning in:  </td>
-
-                    <td> 
-
-                The deductible amount is:  </td>
-
-  </tr>
-
-                  <tr>
-
-                    <td> 
-
-                2002 through 2004  </td>
-
-                    <td> 
-
-                $3,000    </td>
-
-  </tr>
-
-                  <tr>
-
-                    <td> 
-
-                2005 through 2007  </td>
-
-                    <td> 
-
-                $4,000    </td>
-
-  </tr>
-
-                  <tr>
-
-                    <td> 
-
-                2008 and thereafter  </td>
-
-                    <td> 
-
-                $5,000.  </td>
-
-  </tr>
-
-                </table>
+                The deductible amount is $5,000.
 
             (B) __Catch-up contributions for individuals 50 or older__ 
 
@@ -113,79 +61,9 @@
 
                 (ii) __Applicable amount__ 
 
-                    For purposes of clause (i), the applicable amount shall be the amount determined in accordance with the following table:
+                    For purposes of clause (i), the applicable amount is $1,000.
 
-<table>
-
-                      <tr>
-
-                        <td> 
-
-                     For taxable years beginning in:  </td>
-
-                        <td> 
-
-                    The applicable amount is:  </td>
-
-  </tr>
-
-                      <tr>
-
-                        <td> 
-
-                    2002 through 2005  </td>
-
-                        <td> 
-
-                    $500    </td>
-
-  </tr>
-
-                      <tr>
-
-                        <td> 
-
-                    2006 and thereafter  </td>
-
-                        <td> 
-
-                    $1,000.  </td>
-
-  </tr>
-
-                    </table>
-
-            (C) __Catchup contributions for certain individuals__ 
-
-                (i) __In general__ 
-
-                In the case of an applicable individual who elects to make a qualified retirement contribution in addition to the deductible amount determined under subparagraph (A)—
-
-                    (I) the deductible amount for any taxable year shall be increased by an amount equal to 3 times the applicable amount determined under subparagraph (B) for such taxable year, and
-
-                    (II) subparagraph (B) shall not apply.
-
-                (ii) __Applicable individual__ 
-
-                    For purposes of this subparagraph, the term “applicable individual” means, with respect to any taxable year, any individual who was a qualified participant in a qualified cash or deferred arrangement (as defined in section 401(k)) of an employer described in clause (iii) under which the employer matched at least 50 percent of the employee’s contributions to such arrangement with stock of such employer.
-
-                (iii) __Employer described__ 
-
-                An employer is described in this clause if, in any taxable year preceding the taxable year described in clause (ii)—
-
-                    (I) such employer (or any controlling corporation of such employer) was a debtor in a case under title 11 of the United States Code, or similar Federal or State law, and
-
-                    (II) such employer (or any other person) was subject to an indictment or conviction resulting from business transactions related to such case.
-
-                (iv) __Qualified participant__ 
-
-                    For purposes of clause (ii), the term “qualified participant” means any applicable individual who was a participant in the cash or deferred arrangement described in such clause on the date that is 6 months before the filing of the case described in clause (iii).
-
-                (v) __Termination__ 
-
-                    This subparagraph shall not apply to taxable years beginning after December 31, 2009.
-
-            (D) __Cost-of-living adjustment__ 
+            (C) __Cost-of-living adjustment__ 
 
                 (i) __In general__ 
 
@@ -271,9 +149,7 @@
 
             For purposes of this section, a taxpayer shall be deemed to have made a contribution to an individual retirement plan on the last day of the preceding taxable year if the contribution is made on account of such taxable year and is made not later than the time prescribed by law for filing the return for such taxable year (not including extensions thereof).
 
-        (4) __Reports__ 
-
-            The Secretary shall prescribe regulations which prescribe the time and the manner in which reports to the Secretary and plan participants shall be made by the plan administrator of a qualified employer or government plan receiving qualified voluntary employee contributions.
+        \[(4) __Repealed.__  __[__  __Pub. L. 113–295, div. A, title II, § 221(a)(39)(A)__  __][/us/pl/113/295/s221/a/39/A]__  __,__  __Dec. 19, 2014__  __,__  __[__  __128 Stat. 4043__  __][/us/stat/128/4043]__  __\]__ 
 
         (5) __Employer payments__ 
 
@@ -329,7 +205,7 @@
 
                     (II) the applicable dollar amount, bears to
 
-                (ii) $10,000 ($20,000 in the case of a joint return for a taxable year beginning after December 31, 2006).
+                (ii) $10,000 ($20,000 in the case of a joint return).
 
             (B) __No reduction below $200 until complete phase-out__ 
 
@@ -355,257 +231,9 @@
 
             The term “applicable dollar amount” means the following:
 
-                (i) In the case of a taxpayer filing a joint return:
+                (i) In the case of a taxpayer filing a joint return, $80,000.
 
-<table>
-
-                  <tr>
-
-                    <td> 
-
-                 For taxable years beginning in:  </td>
-
-                    <td> 
-
-                The applicable dollar amount is:  </td>
-
-  </tr>
-
-                  <tr>
-
-                    <td> 
-
-                1998  </td>
-
-                    <td> 
-
-                $50,000    </td>
-
-  </tr>
-
-                  <tr>
-
-                    <td> 
-
-                1999  </td>
-
-                    <td> 
-
-                $51,000    </td>
-
-  </tr>
-
-                  <tr>
-
-                    <td> 
-
-                2000  </td>
-
-                    <td> 
-
-                $52,000    </td>
-
-  </tr>
-
-                  <tr>
-
-                    <td> 
-
-                2001  </td>
-
-                    <td> 
-
-                $53,000    </td>
-
-  </tr>
-
-                  <tr>
-
-                    <td> 
-
-                2002  </td>
-
-                    <td> 
-
-                $54,000    </td>
-
-  </tr>
-
-                  <tr>
-
-                    <td> 
-
-                2003  </td>
-
-                    <td> 
-
-                $60,000    </td>
-
-  </tr>
-
-                  <tr>
-
-                    <td> 
-
-                2004  </td>
-
-                    <td> 
-
-                $65,000    </td>
-
-  </tr>
-
-                  <tr>
-
-                    <td> 
-
-                2005  </td>
-
-                    <td> 
-
-                $70,000    </td>
-
-  </tr>
-
-                  <tr>
-
-                    <td> 
-
-                2006  </td>
-
-                    <td> 
-
-                $75,000    </td>
-
-  </tr>
-
-                  <tr>
-
-                    <td> 
-
-                2007 and thereafter  </td>
-
-                    <td> 
-
-                $80,000.  </td>
-
-  </tr>
-
-                </table>
-
-                (ii) In the case of any other taxpayer (other than a married individual filing a separate return):
-
-<table>
-
-                  <tr>
-
-                    <td> 
-
-                 For taxable years beginning in:  </td>
-
-                    <td> 
-
-                The applicable dollar amount is:  </td>
-
-  </tr>
-
-                  <tr>
-
-                    <td> 
-
-                1998  </td>
-
-                    <td> 
-
-                $30,000    </td>
-
-  </tr>
-
-                  <tr>
-
-                    <td> 
-
-                1999  </td>
-
-                    <td> 
-
-                $31,000    </td>
-
-  </tr>
-
-                  <tr>
-
-                    <td> 
-
-                2000  </td>
-
-                    <td> 
-
-                $32,000    </td>
-
-  </tr>
-
-                  <tr>
-
-                    <td> 
-
-                2001  </td>
-
-                    <td> 
-
-                $33,000    </td>
-
-  </tr>
-
-                  <tr>
-
-                    <td> 
-
-                2002  </td>
-
-                    <td> 
-
-                $34,000    </td>
-
-  </tr>
-
-                  <tr>
-
-                    <td> 
-
-                2003  </td>
-
-                    <td> 
-
-                $40,000    </td>
-
-  </tr>
-
-                  <tr>
-
-                    <td> 
-
-                2004  </td>
-
-                    <td> 
-
-                $45,000    </td>
-
-  </tr>
-
-                  <tr>
-
-                    <td> 
-
-                2005 and thereafter  </td>
-
-                    <td> 
-
-                $50,000.  </td>
-
-  </tr>
-
-                </table>
+                (ii) In the case of any other taxpayer (other than a married individual filing a separate return), $50,000.
 
                 (iii) In the case of a married individual filing a separate return, zero.
 
@@ -669,7 +297,7 @@
 
         (8) __Inflation adjustment__ 
 
-        In the case of any taxable year beginning in a calendar year after 2006, the dollar amount in the last row of the table contained in paragraph (3)(B)(i), the dollar amount in the last row of the table contained in paragraph (3)(B)(ii), and the dollar amount contained in paragraph (7)(A), shall each be increased by an amount equal to—
+        In the case of any taxable year beginning in a calendar year after 2006, each of the dollar amounts in paragraphs (3)(B)(i), (3)(B)(ii), and (7)(A) shall each  <sup>\[2\]</sup>  <sup><sup> 2 So in original. The word “each” probably should not appear. </sup></sup>  be increased by an amount equal to—
 
             (A) such dollar amount, multiplied by
 
@@ -677,11 +305,7 @@
 
             Any increase determined under the preceding sentence shall be rounded to the nearest multiple of $1,000.
 
-    (h) __Cross reference__ 
-
-        For failure to provide required reports, see section 6652(g).
-
-(Added [Pub. L. 93–406, title II, § 2002(a)(1)][/us/pl/93/406/s2002/a/1], Sept. 2, 1974, [88 Stat. 958][/us/stat/88/958]; amended [Pub. L. 94–455, title XV][/us/pl/94/455], §§ 1501(b)(4), 1503(a), title XIX, §§  1901(a)(32), 1906(b)(13)(A), Oct. 4, 1976, [90 Stat. 1736][/us/stat/90/1736], 1738, 1769, 1834; [Pub. L. 95–600, title I][/us/pl/95/600], §§ 152(c), 156(c)(3), 157(a)(1), (b)(1), title VII, § 703(c)(1), Nov. 6, 1978, [92 Stat. 2798][/us/stat/92/2798], 2803, 2939; [Pub. L. 96–222, title I, § 101(a)(10)(D)][/us/pl/96/222/s101/a/10/D], (14)(B), Apr. 1, 1980, [94 Stat. 202][/us/stat/94/202], 204; [Pub. L. 97–34, title III][/us/pl/97/34], §§ 311(a), 312(c)(1), 313(b)(2), Aug. 13, 1981, [95 Stat. 274][/us/stat/95/274], 284, 286; [Pub. L. 97–248, title II, § 243(b)(2)][/us/pl/97/248/s243/b/2], Sept. 3, 1982, [96 Stat. 523][/us/stat/96/523]; [Pub. L. 97–448, title I, § 103(c)(1)][/us/pl/97/448/s103/c/1], (2), (3)(A), (4), (5), (12)(A), Jan. 12, 1983, [96 Stat. 2375–2377][/us/stat/96/2375-2377]; [Pub. L. 98–369, div. A, title I, § 147(c)][/us/pl/98/369/s147/c], title IV, §§ 422(d)(1), 491(d)(6)–(8), title V, § 529(a), (b), title VII, § 713(d)(2), July 18, 1984, [98 Stat. 687][/us/stat/98/687], 798, 849, 877, 957; [Pub. L. 99–514, title III, § 301(b)(4)][/us/pl/99/514/s301/b/4], title XI, §§ 1101(a), (b)(1), (2)(A), 1102(f), 1103(a), 1108(g)(2), (3), 1109(b), title XV, § 1501(d)(1)(B), title XVIII, § 1875(c)(4), (6)(B), Oct. 22, 1986, [100 Stat. 2217][/us/stat/100/2217], 2411, 2413, 2417, 2434, 2435, 2740, 2894, 2895; [Pub. L. 100–647, title I, § 1011(a)(1)][/us/pl/100/647/s1011/a/1], title VI, § 6009(c)(2), Nov. 10, 1988, [102 Stat. 3456][/us/stat/102/3456], 3690; [Pub. L. 101–239, title VII][/us/pl/101/239], §§ 7816(c)(1), 7841(c)(1), Dec. 19, 1989, [103 Stat. 2420][/us/stat/103/2420], 2428; [Pub. L. 102–318, title V, § 521(b)(4)][/us/pl/102/318/s521/b/4], July 3, 1992, [106 Stat. 310][/us/stat/106/310]; [Pub. L. 103–337, div. A, title XVI, § 1677(c)][/us/pl/103/337/s1677/c], Oct. 5, 1994, [108 Stat. 3020][/us/stat/108/3020]; [Pub. L. 104–188, title I][/us/pl/104/188], §§ 1421(b)(1), 1427(a)–(b)(2), 1807(c)(3), Aug. 20, 1996, [110 Stat. 1795][/us/stat/110/1795], 1802, 1902; [Pub. L. 105–34, title III][/us/pl/105/34], §§ 301(a), (b), 302(c), Aug. 5, 1997, [111 Stat. 824][/us/stat/111/824], 825, 829; [Pub. L. 105–206, title VI][/us/pl/105/206], §§ 6005(a), 6018(f)(2), July 22, 1998, [112 Stat. 796][/us/stat/112/796], 823; [Pub. L. 105–277, div. J, title IV, § 4003(a)(2)(B)][/us/pl/105/277/s4003/a/2/B], Oct. 21, 1998, [112 Stat. 2681–908][/us/stat/112/2681-908]; [Pub. L. 106–554, § 1(a)(7)][/us/pl/106/554/s1/a/7] \[title III, § 316(d)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–644; [Pub. L. 107–16, title IV, § 431(c)(1)][/us/pl/107/16/s431/c/1], title VI, §§ 601(a), 641(e)(2), June 7, 2001, [115 Stat. 68][/us/stat/115/68], 94, 120; [Pub. L. 108–357, title I, § 102(d)(1)][/us/pl/108/357/s102/d/1], Oct. 22, 2004, [118 Stat. 1428][/us/stat/118/1428]; [Pub. L. 109–227, § 2(a)][/us/pl/109/227/s2/a], May 29, 2006, [120 Stat. 385][/us/stat/120/385]; [Pub. L. 109–280, title VIII][/us/pl/109/280], §§ 831(a), 833(b), Aug. 17, 2006, [120 Stat. 1002][/us/stat/120/1002], 1004; [Pub. L. 110–245, title I, § 105(b)(2)][/us/pl/110/245/s105/b/2], June 17, 2008, [122 Stat. 1629][/us/stat/122/1629]; [Pub. L. 113–22, § 1][/us/pl/113/22/s1], July 25, 2013, [127 Stat. 492][/us/stat/127/492].)
+(Added [Pub. L. 93–406, title II, § 2002(a)(1)][/us/pl/93/406/s2002/a/1], Sept. 2, 1974, [88 Stat. 958][/us/stat/88/958]; amended [Pub. L. 94–455, title XV][/us/pl/94/455], §§ 1501(b)(4), 1503(a), title XIX, §§  1901(a)(32), 1906(b)(13)(A), Oct. 4, 1976, [90 Stat. 1736][/us/stat/90/1736], 1738, 1769, 1834; [Pub. L. 95–600, title I][/us/pl/95/600], §§ 152(c), 156(c)(3), 157(a)(1), (b)(1), title VII, § 703(c)(1), Nov. 6, 1978, [92 Stat. 2798][/us/stat/92/2798], 2803, 2939; [Pub. L. 96–222, title I, § 101(a)(10)(D)][/us/pl/96/222/s101/a/10/D], (14)(B), Apr. 1, 1980, [94 Stat. 202][/us/stat/94/202], 204; [Pub. L. 97–34, title III][/us/pl/97/34], §§ 311(a), 312(c)(1), 313(b)(2), Aug. 13, 1981, [95 Stat. 274][/us/stat/95/274], 284, 286; [Pub. L. 97–248, title II, § 243(b)(2)][/us/pl/97/248/s243/b/2], Sept. 3, 1982, [96 Stat. 523][/us/stat/96/523]; [Pub. L. 97–448, title I, § 103(c)(1)][/us/pl/97/448/s103/c/1], (2), (3)(A), (4), (5), (12)(A), Jan. 12, 1983, [96 Stat. 2375–2377][/us/stat/96/2375-2377]; [Pub. L. 98–369, div. A, title I, § 147(c)][/us/pl/98/369/s147/c], title IV, §§ 422(d)(1), 491(d)(6)–(8), title V, § 529(a), (b), title VII, § 713(d)(2), July 18, 1984, [98 Stat. 687][/us/stat/98/687], 798, 849, 877, 957; [Pub. L. 99–514, title III, § 301(b)(4)][/us/pl/99/514/s301/b/4], title XI, §§ 1101(a), (b)(1), (2)(A), 1102(f), 1103(a), 1108(g)(2), (3), 1109(b), title XV, § 1501(d)(1)(B), title XVIII, § 1875(c)(4), (6)(B), Oct. 22, 1986, [100 Stat. 2217][/us/stat/100/2217], 2411, 2413, 2417, 2434, 2435, 2740, 2894, 2895; [Pub. L. 100–647, title I, § 1011(a)(1)][/us/pl/100/647/s1011/a/1], title VI, § 6009(c)(2), Nov. 10, 1988, [102 Stat. 3456][/us/stat/102/3456], 3690; [Pub. L. 101–239, title VII][/us/pl/101/239], §§ 7816(c)(1), 7841(c)(1), Dec. 19, 1989, [103 Stat. 2420][/us/stat/103/2420], 2428; [Pub. L. 102–318, title V, § 521(b)(4)][/us/pl/102/318/s521/b/4], July 3, 1992, [106 Stat. 310][/us/stat/106/310]; [Pub. L. 103–337, div. A, title XVI, § 1677(c)][/us/pl/103/337/s1677/c], Oct. 5, 1994, [108 Stat. 3020][/us/stat/108/3020]; [Pub. L. 104–188, title I][/us/pl/104/188], §§ 1421(b)(1), 1427(a)–(b)(2), 1807(c)(3), Aug. 20, 1996, [110 Stat. 1795][/us/stat/110/1795], 1802, 1902; [Pub. L. 105–34, title III][/us/pl/105/34], §§ 301(a), (b), 302(c), Aug. 5, 1997, [111 Stat. 824][/us/stat/111/824], 825, 829; [Pub. L. 105–206, title VI][/us/pl/105/206], §§ 6005(a), 6018(f)(2), July 22, 1998, [112 Stat. 796][/us/stat/112/796], 823; [Pub. L. 105–277, div. J, title IV, § 4003(a)(2)(B)][/us/pl/105/277/s4003/a/2/B], Oct. 21, 1998, [112 Stat. 2681–908][/us/stat/112/2681-908]; [Pub. L. 106–554, § 1(a)(7)][/us/pl/106/554/s1/a/7] \[title III, § 316(d)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–644; [Pub. L. 107–16, title IV, § 431(c)(1)][/us/pl/107/16/s431/c/1], title VI, §§ 601(a), 641(e)(2), June 7, 2001, [115 Stat. 68][/us/stat/115/68], 94, 120; [Pub. L. 108–357, title I, § 102(d)(1)][/us/pl/108/357/s102/d/1], Oct. 22, 2004, [118 Stat. 1428][/us/stat/118/1428]; [Pub. L. 109–227, § 2(a)][/us/pl/109/227/s2/a], May 29, 2006, [120 Stat. 385][/us/stat/120/385]; [Pub. L. 109–280, title VIII][/us/pl/109/280], §§ 831(a), 833(b), Aug. 17, 2006, [120 Stat. 1002][/us/stat/120/1002], 1004; [Pub. L. 110–245, title I, § 105(b)(2)][/us/pl/110/245/s105/b/2], June 17, 2008, [122 Stat. 1629][/us/stat/122/1629]; [Pub. L. 113–22, § 1][/us/pl/113/22/s1], July 25, 2013, [127 Stat. 492][/us/stat/127/492]; [Pub. L. 113–295, div. A, title II, § 221(a)(38)][/us/pl/113/295/s221/a/38], (39)(A), Dec. 19, 2014, [128 Stat. 4043][/us/stat/128/4043].)
 
  __Inflation Adjusted Items for Certain Years__ 
 
@@ -692,6 +316,22 @@
     A prior section 219 was renumbered [section 224 of this title][/us/usc/t26/s224].
 
  __Amendments__ 
+
+    2014—Subsec. (b)(5)(A). [Pub. L. 113–295, § 221(a)(38)(A)][/us/pl/113/295/s221/a/38/A], amended subpar. (A) generally. Prior to amendment, subpar. (A) listed deductible amounts for taxable years 2002 to 2008 and thereafter.
+
+    Subsec. (b)(5)(B)(ii). [Pub. L. 113–295, § 221(a)(38)(B)][/us/pl/113/295/s221/a/38/B], amended cl. (ii) generally. Prior to amendment, cl. (ii) listed applicable amounts for taxable years 2002 to 2006 and thereafter.
+
+    Subsec. (b)(5)(C), (D). [Pub. L. 113–295, § 221(a)(38)(C)][/us/pl/113/295/s221/a/38/C], redesignated subpar. (D) as (C) and struck out former subsec. (C) which related to catchup contributions for certain individuals for taxable years beginning before Dec. 31, 2009.
+
+    Subsec. (f)(4). [Pub. L. 113–295, § 221(a)(39)(A)][/us/pl/113/295/s221/a/39/A], struck out par. (4). Text read as follows: “The Secretary shall prescribe regulations which prescribe the time and the manner in which reports to the Secretary and plan participants shall be made by the plan administrator of a qualified employer or government plan receiving qualified voluntary employee contributions.”
+
+    Subsec. (g)(2)(A)(ii). [Pub. L. 113–295, § 221(a)(38)(D)][/us/pl/113/295/s221/a/38/D], struck out “for a taxable year beginning after December 31, 2006” after “joint return”.
+
+    Subsec. (g)(3)(B)(i), (ii). [Pub. L. 113–295, § 221(a)(38)(E)][/us/pl/113/295/s221/a/38/E], added cls. (i) and (ii) and struck out former cls. (i) and (ii) which related to applicable dollar amounts for a taxpayer filing a joint return for taxable years 1998 to 2007 and thereafter and for any other taxpayer (other than a married individual filing a separate return) for taxable years 1998 to 2005 and thereafter, respectively.
+
+    Subsec. (g)(8). [Pub. L. 113–295, § 221(a)(38)(F)][/us/pl/113/295/s221/a/38/F], substituted “each of the dollar amounts in paragraphs (3)(B)(i), (3)(B)(ii), and (7)(A)” for “the dollar amount in the last row of the table contained in paragraph (3)(B)(i), the dollar amount in the last row of the table contained in paragraph (3)(B)(ii), and the dollar amount contained in paragraph (7)(A),” in introductory provisions.
+
+    Subsec. (h). [Pub. L. 113–295, § 221(a)(39)(A)][/us/pl/113/295/s221/a/39/A], struck out subsec. (h) which read as follows: “For failure to provide required reports, see section 6652(g).”
 
     2013—Subsec. (c). [Pub. L. 113–22][/us/pl/113/22] substituted “Kay Bailey Hutchison Spousal IRA” for “Special rules for certain married individuals” in heading.
 
@@ -902,6 +542,10 @@
     Subsec. (c)(3). [Pub. L. 94–455, § 1501(b)(4)(D)][/us/pl/94/455/s1501/b/4/D], added par. (3).
 
     Subsec. (c)(4). [Pub. L. 94–455, § 1503(a)][/us/pl/94/455/s1503/a], added par. (4).
+
+ __Effective Date of 2014 Amendment__ 
+
+    Amendment by [Pub. L. 113–295][/us/pl/113/295] effective Dec. 19, 2014, subject to a savings provision, see [section 221(b) of Pub. L. 113–295][/us/pl/113/295/s221/b], set out as a note under [section 1 of this title][/us/usc/t26/s1].
 
  __Effective Date of 2008 Amendment__ 
 
@@ -1192,6 +836,8 @@
 ----------
 ----------
 
+[/us/pl/113/295/s221/a/39/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs221%2Fa%2F39%2FA
+[/us/stat/128/4043]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F4043
 [/us/usc/t10/s10101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs10101
 [/us/pl/93/406/s2002/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F406%2Fs2002%2Fa%2F1
 [/us/stat/88/958]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F958
@@ -1241,9 +887,19 @@
 [/us/stat/122/1629]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1629
 [/us/pl/113/22/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F22%2Fs1
 [/us/stat/127/492]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F492
+[/us/pl/113/295/s221/a/38]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs221%2Fa%2F38
+[/us/stat/128/4043]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F4043
 [/us/usc/t26/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs1
 [/us/usc/t26/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs401
 [/us/usc/t26/s224]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs224
+[/us/pl/113/295/s221/a/38/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs221%2Fa%2F38%2FA
+[/us/pl/113/295/s221/a/38/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs221%2Fa%2F38%2FB
+[/us/pl/113/295/s221/a/38/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs221%2Fa%2F38%2FC
+[/us/pl/113/295/s221/a/39/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs221%2Fa%2F39%2FA
+[/us/pl/113/295/s221/a/38/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs221%2Fa%2F38%2FD
+[/us/pl/113/295/s221/a/38/E]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs221%2Fa%2F38%2FE
+[/us/pl/113/295/s221/a/38/F]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs221%2Fa%2F38%2FF
+[/us/pl/113/295/s221/a/39/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs221%2Fa%2F39%2FA
 [/us/pl/113/22]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F22
 [/us/pl/110/245]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F245
 [/us/pl/109/280/s831/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280%2Fs831%2Fa
@@ -1352,6 +1008,9 @@
 [/us/pl/94/455/s1501/b/4/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1501%2Fb%2F4%2FC
 [/us/pl/94/455/s1501/b/4/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1501%2Fb%2F4%2FD
 [/us/pl/94/455/s1503/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1503%2Fa
+[/us/pl/113/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295
+[/us/pl/113/295/s221/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs221%2Fb
+[/us/usc/t26/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs1
 [/us/pl/110/245/s105/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F245%2Fs105%2Fb%2F3
 [/us/stat/122/1629]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1629
 [/us/usc/t26/s414]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs414

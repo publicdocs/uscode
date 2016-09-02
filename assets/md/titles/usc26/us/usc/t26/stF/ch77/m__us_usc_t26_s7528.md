@@ -169,13 +169,23 @@
 
             </table>
 
-(Added [Pub. L. 108–89, title II, § 202(a)][/us/pl/108/89/s202/a], Oct. 1, 2003, [117 Stat. 1132][/us/stat/117/1132]; amended [Pub. L. 108–357, title VIII, § 891(a)][/us/pl/108/357/s891/a], Oct. 22, 2004, [118 Stat. 1644][/us/stat/118/1644]; [Pub. L. 110–28, title VIII, § 8244][/us/pl/110/28/s8244], May 25, 2007, [121 Stat. 200][/us/stat/121/200].)
+        (4) __Certified professional employer organizations__ 
+
+            The fee charged under the program in connection with the certification by the Secretary of a professional employer organization under section 7705 shall be an annual fee not to exceed $1,000 per year.
+
+(Added [Pub. L. 108–89, title II, § 202(a)][/us/pl/108/89/s202/a], Oct. 1, 2003, [117 Stat. 1132][/us/stat/117/1132]; amended [Pub. L. 108–357, title VIII, § 891(a)][/us/pl/108/357/s891/a], Oct. 22, 2004, [118 Stat. 1644][/us/stat/118/1644]; [Pub. L. 110–28, title VIII, § 8244][/us/pl/110/28/s8244], May 25, 2007, [121 Stat. 200][/us/stat/121/200]; [Pub. L. 113–295, div. B, title II, § 206(f)][/us/pl/113/295/s206/f], Dec. 19, 2014, [128 Stat. 4071][/us/stat/128/4071].)
 
  __Amendments__ 
+
+    2014—Subsec. (b)(4). [Pub. L. 113–295][/us/pl/113/295] added par. (4).
 
     2007—Subsec. (c). [Pub. L. 110–28][/us/pl/110/28] struck out heading and text of subsec. (c). Text read as follows: “No fee shall be imposed under this section with respect to requests made after September 30, 2014.”
 
     2004—Subsec. (c). [Pub. L. 108–357][/us/pl/108/357] substituted “September 30, 2014” for “December 31, 2004”.
+
+ __Effective Date of 2014 Amendment__ 
+
+    Amendment by [Pub. L. 113–295][/us/pl/113/295] applicable with respect to wages for services performed on or after January 1 of the first calendar year beginning more than 12 months after Dec. 19, 2014, see [section 206(g)(1) of Pub. L. 113–295][/us/pl/113/295/s206/g/1], set out as a note under [section 3302 of this title][/us/usc/t26/s3302].
 
  __Effective Date of 2004 Amendment__ 
 
@@ -208,8 +218,14 @@
 [/us/stat/118/1644]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1644
 [/us/pl/110/28/s8244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F28%2Fs8244
 [/us/stat/121/200]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F200
+[/us/pl/113/295/s206/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs206%2Ff
+[/us/stat/128/4071]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F4071
+[/us/pl/113/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295
 [/us/pl/110/28]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F28
 [/us/pl/108/357]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357
+[/us/pl/113/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295
+[/us/pl/113/295/s206/g/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs206%2Fg%2F1
+[/us/usc/t26/s3302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs3302
 [/us/pl/108/357/s891/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357%2Fs891%2Fb
 [/us/stat/118/1644]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1644
 [/us/pl/108/89/s202/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F89%2Fs202%2Fd

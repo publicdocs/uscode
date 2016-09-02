@@ -63,11 +63,9 @@
 
              The  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should not be capitalized. </sup></sup>  sum of—
 
-                (i) the tax imposed by section 11 or 1201(a), or subchapter L of chapter 1, whichever is applicable,
+                (i) the tax imposed by section 11 or 1201(a), or subchapter L of chapter 1, whichever is applicable, plus
 
-                (ii) the tax imposed by section 55, plus
-
-                (iii) the tax imposed by section 59A, over
+                (ii) the tax imposed by section 55, over
 
             (B) the credits against tax provided by part IV of subchapter A of chapter 1.
 
@@ -83,9 +81,11 @@
 
         If the corporation seeking an adjustment under this section paid its estimated income tax on a consolidated basis or expects to make a consolidated return for the taxable year, this section shall apply only to such extent and subject to such conditions, limitations, and exceptions as the Secretary may by regulations prescribe.
 
-(Added [Pub. L. 90–364, title I, § 103(d)(1)][/us/pl/90/364/s103/d/1], June 28, 1968, [82 Stat. 262][/us/stat/82/262]; amended [Pub. L. 94–455, title XIX, § 1906(b)(13)(A)][/us/pl/94/455/s1906/b/13/A], Oct. 4, 1976, [90 Stat. 1834][/us/stat/90/1834]; [Pub. L. 99–499, title V, § 516(b)(4)(C)][/us/pl/99/499/s516/b/4/C], Oct. 17, 1986, [100 Stat. 1771][/us/stat/100/1771]; [Pub. L. 99–514, title VII, § 701(d)(2)][/us/pl/99/514/s701/d/2], Oct. 22, 1986, [100 Stat. 2342][/us/stat/100/2342]; [Pub. L. 100–203, title X, § 10301(b)(4)][/us/pl/100/203/s10301/b/4], Dec. 22, 1987, [101 Stat. 1330–429][/us/stat/101/1330-429].)
+(Added [Pub. L. 90–364, title I, § 103(d)(1)][/us/pl/90/364/s103/d/1], June 28, 1968, [82 Stat. 262][/us/stat/82/262]; amended [Pub. L. 94–455, title XIX, § 1906(b)(13)(A)][/us/pl/94/455/s1906/b/13/A], Oct. 4, 1976, [90 Stat. 1834][/us/stat/90/1834]; [Pub. L. 99–499, title V, § 516(b)(4)(C)][/us/pl/99/499/s516/b/4/C], Oct. 17, 1986, [100 Stat. 1771][/us/stat/100/1771]; [Pub. L. 99–514, title VII, § 701(d)(2)][/us/pl/99/514/s701/d/2], Oct. 22, 1986, [100 Stat. 2342][/us/stat/100/2342]; [Pub. L. 100–203, title X, § 10301(b)(4)][/us/pl/100/203/s10301/b/4], Dec. 22, 1987, [101 Stat. 1330–429][/us/stat/101/1330-429]; [Pub. L. 113–295, div. A, title II, § 221(a)(12)(J)][/us/pl/113/295/s221/a/12/J], Dec. 19, 2014, [128 Stat. 4039][/us/stat/128/4039].)
 
  __Amendments__ 
+
+    2014—Subsec. (c)(1)(A). [Pub. L. 113–295][/us/pl/113/295] inserted “plus” at end of cl. (i), substituted “over” for “plus” at end of cl. (ii), and struck out cl. (iii) which read as follows: “the tax imposed by section 59A, over”.
 
     1987—Subsec. (c). [Pub. L. 100–203][/us/pl/100/203] substituted “section 6655(h)” for “section 6655(g)”.
 
@@ -94,6 +94,10 @@
     [Pub. L. 99–499][/us/pl/99/499] amended subsec. (c)(1)(A), as amended by the Tax Reform Act of 1986 ([Pub. L. 99–514][/us/pl/99/514]), by striking out “plus” at end of cl. (i), substituting “plus” for “over” at end of cl. (ii), and adding cl. (iii).
 
     1976—Subsecs. (a), (b), (d). [Pub. L. 94–455][/us/pl/94/455] struck out “or his delegate” after “Secretary” wherever appearing.
+
+ __Effective Date of 2014 Amendment__ 
+
+    Amendment by [Pub. L. 113–295][/us/pl/113/295] effective Dec. 19, 2014, subject to a savings provision, see [section 221(b) of Pub. L. 113–295][/us/pl/113/295/s221/b], set out as a note under [section 1 of this title][/us/usc/t26/s1].
 
  __Effective Date of 1987 Amendment__ 
 
@@ -130,11 +134,17 @@
 [/us/stat/100/2342]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2342
 [/us/pl/100/203/s10301/b/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203%2Fs10301%2Fb%2F4
 [/us/stat/101/1330-429]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1330-429
+[/us/pl/113/295/s221/a/12/J]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs221%2Fa%2F12%2FJ
+[/us/stat/128/4039]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F4039
+[/us/pl/113/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295
 [/us/pl/100/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203
 [/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
 [/us/pl/99/499]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F499
 [/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
 [/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455
+[/us/pl/113/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295
+[/us/pl/113/295/s221/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs221%2Fb
+[/us/usc/t26/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs1
 [/us/pl/100/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203
 [/us/pl/100/203/s10301/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203%2Fs10301%2Fc
 [/us/usc/t26/s585]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs585

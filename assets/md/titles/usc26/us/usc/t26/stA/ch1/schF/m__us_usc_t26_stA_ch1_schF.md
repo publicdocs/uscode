@@ -83,13 +83,15 @@
 
     <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2FstA%2Fch1%2FschF%2FptVIII" data-uslm-ref="/us/usc/t26/stA/ch1/schF/ptVIII">VIII.</a>  </td>
 
-    <td> Higher education savings entities.  </td>
+    <td> Certain Savings Entities. <sup>[1]</sup>  <sup><sup> 1 So in original. Probably should be “Certain savings entities”. </sup></sup>   </td>
 
   </tr>
 
 </table>
 
  __Amendments__ 
+
+    2014—[Pub. L. 113–295, div. B, title I, § 102(e)(5)][/us/pl/113/295/s102/e/5], Dec. 19, 2014, [128 Stat. 4062][/us/stat/128/4062], substituted “Certain Savings Entities” for “Higher education savings entities” in part VIII heading.
 
     1997—[Pub. L. 105–34, title II, § 211(e)(1)(B)][/us/pl/105/34/s211/e/1/B], Aug. 5, 1997, [111 Stat. 812][/us/stat/111/812], substituted “Higher education savings entities” for “Qualified State tuition programs” in part VIII heading.
 
@@ -108,6 +110,8 @@
 ----------
 ----------
 
+[/us/pl/113/295/s102/e/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs102%2Fe%2F5
+[/us/stat/128/4062]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F4062
 [/us/pl/105/34/s211/e/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2Fs211%2Fe%2F1%2FB
 [/us/stat/111/812]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F812
 [/us/pl/104/188/s1806/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188%2Fs1806%2Fb%2F2

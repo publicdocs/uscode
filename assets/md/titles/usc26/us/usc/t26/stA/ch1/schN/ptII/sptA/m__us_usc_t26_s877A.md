@@ -193,7 +193,7 @@
 
         (2) __Specified tax deferred account__ 
 
-            For purposes of paragraph (1), the term “specified tax deferred account” means an individual retirement plan (as defined in section 7701(a)(37)) other than any arrangement described in subsection (k) or (p) of section 408, a qualified tuition program (as defined in section 529), a Coverdell education savings account (as defined in section 530), a health savings account (as defined in section 223), and an Archer MSA (as defined in section 220).
+            For purposes of paragraph (1), the term “specified tax deferred account” means an individual retirement plan (as defined in section 7701(a)(37)) other than any arrangement described in subsection (k) or (p) of section 408, a qualified tuition program (as defined in section 529), a qualified ABLE program (as defined in section 529A), a Coverdell education savings account (as defined in section 530), a health savings account (as defined in section 223), and an Archer MSA (as defined in section 220).
 
     (f) __Special rules for nongrantor trusts__ 
 
@@ -293,7 +293,7 @@
 
         (6) __Early distribution tax__ 
 
-            The term “early distribution tax” means any increase in tax imposed under section 72(t), 220(e)(4), <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  223(f)(4), 409A(a)(1)(B), 529(c)(6), or 530(d)(4).
+            The term “early distribution tax” means any increase in tax imposed under section 72(t), 220(e)(4), <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  223(f)(4), 409A(a)(1)(B), 529(c)(6), 529A(c)(3), or 530(d)(4).
 
     (h) __Other rules__ 
 
@@ -317,7 +317,7 @@
 
         The Secretary shall prescribe such regulations as may be necessary or appropriate to carry out the purposes of this section.
 
-(Added [Pub. L. 110–245, title III, § 301(a)][/us/pl/110/245/s301/a], June 17, 2008, [122 Stat. 1638][/us/stat/122/1638].)
+(Added [Pub. L. 110–245, title III, § 301(a)][/us/pl/110/245/s301/a], June 17, 2008, [122 Stat. 1638][/us/stat/122/1638]; amended [Pub. L. 113–295, div. B, title I, § 102(e)(2)][/us/pl/113/295/s102/e/2], Dec. 19, 2014, [128 Stat. 4062][/us/stat/128/4062].)
 
  __Inflation Adjusted Items for Certain Years__ 
 
@@ -326,6 +326,16 @@
  __References in Text__ 
 
     Section 220(e), referred to in subsec. (g)(6), does not contain a par. (4).
+
+ __Amendments__ 
+
+    2014—Subsec. (e)(2). [Pub. L. 113–295, § 102(e)(2)(A)][/us/pl/113/295/s102/e/2/A], inserted “a qualified ABLE program (as defined in section 529A),” after “529),”.
+
+    Subsec. (g)(6). [Pub. L. 113–295, § 102(e)(2)(B)][/us/pl/113/295/s102/e/2/B], inserted “529A(c)(3),” after “529(c)(6),”.
+
+ __Effective Date of 2014 Amendment__ 
+
+    Amendment by [Pub. L. 113–295][/us/pl/113/295] applicable to taxable years beginning after Dec. 31, 2014, see [section 102(f)(1) of Pub. L. 113–295][/us/pl/113/295/s102/f/1], set out as a note under [section 552a of Title 5][/us/usc/t5/s552a], Government Organization and Employees.
 
  __Effective Date__ 
 
@@ -342,7 +352,14 @@
 [/us/usc/t8/s1481/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1481%2Fa%2F1
 [/us/pl/110/245/s301/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F245%2Fs301%2Fa
 [/us/stat/122/1638]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1638
+[/us/pl/113/295/s102/e/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs102%2Fe%2F2
+[/us/stat/128/4062]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F4062
 [/us/usc/t26/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs1
+[/us/pl/113/295/s102/e/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs102%2Fe%2F2%2FA
+[/us/pl/113/295/s102/e/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs102%2Fe%2F2%2FB
+[/us/pl/113/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295
+[/us/pl/113/295/s102/f/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs102%2Ff%2F1
+[/us/usc/t5/s552a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs552a
 [/us/pl/110/245/s301/g/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F245%2Fs301%2Fg%2F1
 [/us/usc/t26/s2801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs2801
 

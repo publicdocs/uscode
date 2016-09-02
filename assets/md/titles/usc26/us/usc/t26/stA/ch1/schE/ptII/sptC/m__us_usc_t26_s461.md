@@ -211,13 +211,13 @@
 
         (4) __Special rules for farming__ 
 
-            In the case of the trade or business of farming (as defined in section 464(e)), in determining whether an entity is a tax shelter, the definition of farming syndicate in section 464(c) shall be substituted for subparagraphs (A) and (B) of paragraph (3).
+            In the case of the trade or business of farming (as defined in section 464(e)), in determining whether an entity is a tax shelter, the definition of farming syndicate in subsection (j) shall be substituted for subparagraphs (A) and (B) of paragraph (3).
 
         (5) __Economic performance__ 
 
             For purposes of this subsection, the term “economic performance” has the meaning given such term by subsection (h).
 
-    (j) __Limitation on excess farm losses of certain taxpayers__ 
+    (j)  __ <sup>\[__  __1__  __\]</sup> __  __ <sup><sup> __  __1__  __ So in original. Two subsecs. (j) have been enacted.__  __ </sup></sup> __  __Limitation on excess farm losses of certain taxpayers__ 
 
         (1) __Limitation__ 
 
@@ -307,7 +307,45 @@
 
             This subsection shall be applied before the application of section 469.
 
-([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 157][/us/stat/68A/157]; [Pub. L. 86–781, § 6(a)][/us/pl/86/781/s6/a], Sept. 14, 1960, [74 Stat. 1020][/us/stat/74/1020]; [Pub. L. 87–876, § 3(a)][/us/pl/87/876/s3/a], Oct. 24, 1962, [76 Stat. 1199][/us/stat/76/1199]; [Pub. L. 88–272, title II, § 223(a)(1)][/us/pl/88/272/s223/a/1], Feb. 26, 1964, [78 Stat. 76][/us/stat/78/76]; [Pub. L. 94–455, title II, § 208(a)][/us/pl/94/455/s208/a], title XIX, §§ 1901(a)(69), 1906(b)(13)(A), Oct. 4, 1976, [90 Stat. 1541][/us/stat/90/1541], 1775, 1834; [Pub. L. 98–369, div. A, title I, § 91(a)][/us/pl/98/369/s91/a], (e), July 18, 1984,[98 Stat. 598][/us/stat/98/598], 607; [Pub. L. 99–514, title VIII][/us/pl/99/514], §§ 801(b), 805(c)(5), 823(b)(1), title XVIII, § 1807(a)(1), (2), Oct. 22, 1986, [100 Stat. 2347][/us/stat/100/2347], 2362, 2374, 2811; [Pub. L. 100–203, title X, § 10201(b)(5)][/us/pl/100/203/s10201/b/5], Dec. 22, 1987, [101 Stat. 1330–387][/us/stat/101/1330-387]; [Pub. L. 100–647, title I][/us/pl/100/647], §§ 1008(a)(3), 1018(u)(5), Nov. 10, 1988, [102 Stat. 3436][/us/stat/102/3436], 3590; [Pub. L. 101–239, title VII, § 7721(c)(10)][/us/pl/101/239/s7721/c/10], Dec. 19, 1989, [103 Stat. 2400][/us/stat/103/2400]; [Pub. L. 101–508, title XI, § 11704(a)(5)][/us/pl/101/508/s11704/a/5], Nov. 5, 1990, [104 Stat. 1388–518][/us/stat/104/1388-518]; [Pub. L. 104–188, title I, § 1704(t)(24)][/us/pl/104/188/s1704/t/24], (78), Aug. 20, 1996, [110 Stat. 1888][/us/stat/110/1888], 1891; [Pub. L. 109–135, title IV, § 412(aa)][/us/pl/109/135/s412/aa], Dec. 21, 2005, [119 Stat. 2638][/us/stat/119/2638]; [Pub. L. 110–234, title XV, § 15351(a)][/us/pl/110/234/s15351/a], May 22, 2008, [122 Stat. 1523][/us/stat/122/1523]; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title XV, § 15351(a), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 2285.)
+    (j)  __1__  __Farming syndicate defined__ 
+
+        (1) __In general__ 
+
+        For purposes of subsection (i)(4), the term “farming syndicate” means—
+
+            (A) a partnership or any other enterprise other than a corporation which is not an S corporation engaged in the trade or business of farming, if at any time interests in such partnership or enterprise have been offered for sale in any offering required to be registered with any Federal or State agency having authority to regulate the offering of securities for sale, or
+
+            (B) a partnership or any other enterprise other than a corporation which is not an S corporation engaged in the trade or business of farming, if more than 35 percent of the losses during any period are allocable to limited partners or limited entrepreneurs.
+
+        (2) __Holdings attributable to active management__ 
+
+        For purposes of paragraph (1)(B), the following shall be treated as an interest which is not held by a limited partner or a limited entrepreneur:
+
+            (A) in the case of any individual who has actively participated (for a period of not less than 5 years) in the management of any trade or business of farming, any interest in a partnership or other enterprise which is attributable to such active participation,
+
+            (B) in the case of any individual whose principal residence is on a farm, any partnership or other enterprise engaged in the trade or business of farming such farm,
+
+            (C) in the case of any individual who is actively participating in the management of any trade or business of farming or who is an individual who is described in subparagraph (A) or (B), any participation in the further processing of livestock which was raised in such trade or business (or in the trade or business referred to in subparagraph (A) or (B)),
+
+            (D) in the case of an individual whose principal business activity involves active participation in the management of a trade or business of farming, any interest in any other trade or business of farming, and,
+
+            (E) any interest held by a member of the family (or a spouse of any such member) of a grandparent of an individual described in subparagraph (A), (B), (C), or (D) if the interest in the partnership or the enterprise is attributable to the active participation of the individual described in subparagraph (A), (B), (C), or (D).
+
+            For purposes of subparagraph (A), where one farm is substituted for or added to another farm, both farms shall be treated as one farm. For purposes of subparagraph (E), the term “family” has the meaning given to such term by section 267(c)(4).
+
+        (3) __Farming__ 
+
+            For purposes of this subsection, the term “farming” has the meaning given to such term by section 464(e).
+
+        (4) __Limited entrepreneur__ 
+
+        For purposes of this subsection, the term “limited entrepreneur” means a person who—
+
+            (A) has an interest in an enterprise other than as a limited partner, and
+
+            (B) does not actively participate in the management of such enterprise.
+
+([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 157][/us/stat/68A/157]; [Pub. L. 86–781, § 6(a)][/us/pl/86/781/s6/a], Sept. 14, 1960, [74 Stat. 1020][/us/stat/74/1020]; [Pub. L. 87–876, § 3(a)][/us/pl/87/876/s3/a], Oct. 24, 1962, [76 Stat. 1199][/us/stat/76/1199]; [Pub. L. 88–272, title II, § 223(a)(1)][/us/pl/88/272/s223/a/1], Feb. 26, 1964, [78 Stat. 76][/us/stat/78/76]; [Pub. L. 94–455, title II, § 208(a)][/us/pl/94/455/s208/a], title XIX, §§ 1901(a)(69), 1906(b)(13)(A), Oct. 4, 1976, [90 Stat. 1541][/us/stat/90/1541], 1775, 1834; [Pub. L. 98–369, div. A, title I, § 91(a)][/us/pl/98/369/s91/a], (e), July 18, 1984,[98 Stat. 598][/us/stat/98/598], 607; [Pub. L. 99–514, title VIII][/us/pl/99/514], §§ 801(b), 805(c)(5), 823(b)(1), title XVIII, § 1807(a)(1), (2), Oct. 22, 1986, [100 Stat. 2347][/us/stat/100/2347], 2362, 2374, 2811; [Pub. L. 100–203, title X, § 10201(b)(5)][/us/pl/100/203/s10201/b/5], Dec. 22, 1987, [101 Stat. 1330–387][/us/stat/101/1330-387]; [Pub. L. 100–647, title I][/us/pl/100/647], §§ 1008(a)(3), 1018(u)(5), Nov. 10, 1988, [102 Stat. 3436][/us/stat/102/3436], 3590; [Pub. L. 101–239, title VII, § 7721(c)(10)][/us/pl/101/239/s7721/c/10], Dec. 19, 1989, [103 Stat. 2400][/us/stat/103/2400]; [Pub. L. 101–508, title XI, § 11704(a)(5)][/us/pl/101/508/s11704/a/5], Nov. 5, 1990, [104 Stat. 1388–518][/us/stat/104/1388-518]; [Pub. L. 104–188, title I, § 1704(t)(24)][/us/pl/104/188/s1704/t/24], (78), Aug. 20, 1996, [110 Stat. 1888][/us/stat/110/1888], 1891; [Pub. L. 109–135, title IV, § 412(aa)][/us/pl/109/135/s412/aa], Dec. 21, 2005, [119 Stat. 2638][/us/stat/119/2638]; [Pub. L. 110–234, title XV, § 15351(a)][/us/pl/110/234/s15351/a], May 22, 2008, [122 Stat. 1523][/us/stat/122/1523]; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title XV, § 15351(a), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 2285; [Pub. L. 113–295, div. A, title II, § 221(a)(58)(B)][/us/pl/113/295/s221/a/58/B], Dec. 19, 2014, [128 Stat. 4047][/us/stat/128/4047].)
 
  __References in Text__ 
 
@@ -315,11 +353,21 @@
 
  __Codification__ 
 
+    Subsec. (c) of [section 464 of this title][/us/usc/t26/s464], which was transferred to this section and redesignated subsec. (j) by [Pub. L. 113–295, § 221(a)(58)(B)(i)][/us/pl/113/295/s221/a/58/B/i], was based on [Pub. L. 94–455, title II, § 207(a)(1)][/us/pl/94/455/s207/a/1], Oct. 4, 1976, [90 Stat. 1536][/us/stat/90/1536].
+
     [Pub. L. 110–234][/us/pl/110/234] and [Pub. L. 110–246][/us/pl/110/246] made identical amendments to this section. The amendments by [Pub. L. 110–234][/us/pl/110/234] were repealed by [section 4(a) of Pub. L. 110–246][/us/pl/110/246/s4/a].
 
  __Amendments__ 
 
-    2008—Subsec. (j). [Pub. L. 110–246, § 15351(a)][/us/pl/110/246/s15351/a], added subsec. (j).
+    2014—Subsec. (i)(4). [Pub. L. 113–295, § 221(a)(58)(B)(iii)][/us/pl/113/295/s221/a/58/B/iii], substituted “subsection (j)” for “section 464(c)”.
+
+    Subsec. (j). [Pub. L. 113–295, § 221(a)(58)(B)(i)][/us/pl/113/295/s221/a/58/B/i], transferred subsec. (c) of [section 464 of this title][/us/usc/t26/s464], relating to definition of farming syndicate, to the end of this section and redesignated it as subsec. (j).
+
+    Subsec. (j)(1). [Pub. L. 113–295, § 221(a)(58)(B)(ii)(I)][/us/pl/113/295/s221/a/58/B/ii/I], substituted “For purposes of subsection (i)(4)” for “For purposes of this section” in introductory provisions.
+
+    Subsec. (j)(3), (4). [Pub. L. 113–295, § 221(a)(58)(B)(ii)(II)][/us/pl/113/295/s221/a/58/B/ii/II], added pars. (3) and (4).
+
+    2008—Subsec. (j). [Pub. L. 110–246, § 15351(a)][/us/pl/110/246/s15351/a], added subsec. (j) relating to limitation on excess farm losses of certain taxpayers.
 
     2005—Subsec. (i)(3)(C). [Pub. L. 109–135][/us/pl/109/135] substituted “section 6662(d)(2)(C)(ii)” for “section 6662(d)(2)(C)(iii)”.
 
@@ -386,6 +434,10 @@
     1962—Subsec. (e). [Pub. L. 87–876][/us/pl/87/876] added subsec. (e).
 
     1960—Subsec. (d). [Pub. L. 86–781][/us/pl/86/781] added subsec. (d).
+
+ __Effective Date of 2014 Amendment__ 
+
+    Amendment by [Pub. L. 113–295][/us/pl/113/295] effective Dec. 19, 2014, subject to a savings provision, see [section 221(b) of Pub. L. 113–295][/us/pl/113/295/s221/b], set out as a note under [section 1 of this title][/us/usc/t26/s1].
 
  __Effective Date of 2008 Amendment__ 
 
@@ -654,13 +706,24 @@
 [/us/stat/122/1523]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1523
 [/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
 [/us/stat/122/1664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1664
+[/us/pl/113/295/s221/a/58/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs221%2Fa%2F58%2FB
+[/us/stat/128/4047]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F4047
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/stat/122/1651]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1651
 [/us/usc/t7/s8701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs8701
+[/us/usc/t26/s464]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs464
+[/us/pl/113/295/s221/a/58/B/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs221%2Fa%2F58%2FB%2Fi
+[/us/pl/94/455/s207/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs207%2Fa%2F1
+[/us/stat/90/1536]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1536
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
+[/us/pl/113/295/s221/a/58/B/iii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs221%2Fa%2F58%2FB%2Fiii
+[/us/pl/113/295/s221/a/58/B/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs221%2Fa%2F58%2FB%2Fi
+[/us/usc/t26/s464]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs464
+[/us/pl/113/295/s221/a/58/B/ii/I]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs221%2Fa%2F58%2FB%2Fii%2FI
+[/us/pl/113/295/s221/a/58/B/ii/II]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs221%2Fa%2F58%2FB%2Fii%2FII
 [/us/pl/110/246/s15351/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs15351%2Fa
 [/us/pl/109/135]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F135
 [/us/pl/104/188/s1704/t/78]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188%2Fs1704%2Ft%2F78
@@ -695,6 +758,9 @@
 [/us/pl/88/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F272
 [/us/pl/87/876]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F876
 [/us/pl/86/781]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F781
+[/us/pl/113/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295
+[/us/pl/113/295/s221/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs221%2Fb
+[/us/usc/t26/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs1
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234

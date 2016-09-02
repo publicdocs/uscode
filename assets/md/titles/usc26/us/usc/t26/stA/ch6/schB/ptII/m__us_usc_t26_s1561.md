@@ -21,13 +21,13 @@
 
         (1) amounts in each taxable income bracket in the tax table in section 11(b)(1) which do not aggregate more than the maximum amount in such bracket to which a corporation which is not a component member of a controlled group is entitled,
 
-        (2) one $250,000 ($150,000 if any component member is a corporation described in section 535(c)(2)(B)) amount for purposes of computing the accumulated earnings credit under section 535(c)(2) and (3),
+        (2) one $250,000 ($150,000 if any component member is a corporation described in section 535(c)(2)(B)) amount for purposes of computing the accumulated earnings credit under section 535(c)(2) and (3), and
 
-        (3) one $40,000 exemption amount for purposes of computing the amount of the minimum tax, and
+        (3) one $40,000 exemption amount for purposes of computing the amount of the minimum tax.
 
-        (4) one $2,000,000 amount for purposes of computing the tax imposed by section 59A.
+        \[(4) Repealed. [Pub. L. 113–295, div. A, title II, § 221(a)(12)(H)(i)][/us/pl/113/295/s221/a/12/H/i], Dec. 19, 2014, [128 Stat. 4038][/us/stat/128/4038]\]
 
-        The amounts specified in paragraph (1), the amount specified in paragraph (3), and the amount specified in paragraph (4) shall be divided equally among the component members of such group on such December 31 unless all of such component members consent (at such time and in such manner as the Secretary shall by regulations prescribe) to an apportionment plan providing for an unequal allocation of such amounts. The amounts specified in paragraph (2) shall be divided equally among the component members of such group on such December 31 unless the Secretary prescribes regulations permitting an unequal allocation of such amounts. Notwithstanding paragraph (1), in applying the last 2 sentences of section 11(b)(1) to such component members, the taxable income of all such component members shall be taken into account and any increase in tax under such last 2 sentences shall be divided among such component members in the same manner as amounts under paragraph (1). In applying section 55(d)(3), the alternative minimum taxable income of all component members shall be taken into account and any decrease in the exemption amount shall be allocated to the component members in the same manner as under paragraph (3).
+        The amounts specified in paragraph (1) and the amount specified in paragraph (3) shall be divided equally among the component members of such group on such December 31 unless all of such component members consent (at such time and in such manner as the Secretary shall by regulations prescribe) to an apportionment plan providing for an unequal allocation of such amounts. The amounts specified in paragraph (2) shall be divided equally among the component members of such group on such December 31 unless the Secretary prescribes regulations permitting an unequal allocation of such amounts. Notwithstanding paragraph (1), in applying the last 2 sentences of section 11(b)(1) to such component members, the taxable income of all such component members shall be taken into account and any increase in tax under such last 2 sentences shall be divided among such component members in the same manner as amounts under paragraph (1). In applying section 55(d)(3), the alternative minimum taxable income of all component members shall be taken into account and any decrease in the exemption amount shall be allocated to the component members in the same manner as under paragraph (3).
 
     (b) __Certain short taxable years__ 
 
@@ -39,9 +39,13 @@
 
         of such corporation for such taxable year shall be the amount specified in subsection (a)(1) or (2), as the case may be, divided by the number of corporations which are component members of such group on the last day of such taxable year. For purposes of the preceding sentence, section 1563(b) shall be applied as if such last day were substituted for December 31.
 
-(Added [Pub. L. 88–272, title II, § 235(a)][/us/pl/88/272/s235/a], Feb. 26, 1964, [78 Stat. 116][/us/stat/78/116]; amended [Pub. L. 91–172, title IV, § 401(a)(1)][/us/pl/91/172/s401/a/1], Dec. 30, 1969, [83 Stat. 599][/us/stat/83/599]; [Pub. L. 94–12, title III][/us/pl/94/12], §§ 303(c)(1), 304(b), Mar. 29, 1975, [89 Stat. 44][/us/stat/89/44], 45; [Pub. L. 94–164, § 4(d)(1)][/us/pl/94/164/s4/d/1], Dec. 23, 1975, [89 Stat. 974][/us/stat/89/974]; [Pub. L. 94–455, title IX, § 901(c)(1)][/us/pl/94/455/s901/c/1], title XIX, §§ 1901(b)(1)(J)(v), 1906(b)(13)(A), Oct. 4, 1976, [90 Stat. 1607][/us/stat/90/1607], 1791, 1834; [Pub. L. 95–600, title III, § 301(b)(19)][/us/pl/95/600/s301/b/19], title VII, § 703(j)(7), Nov. 6, 1978, [92 Stat. 2823][/us/stat/92/2823], 2941; [Pub. L. 97–34, title II, § 232(b)(3)][/us/pl/97/34/s232/b/3], Aug. 13, 1981, [95 Stat. 250][/us/stat/95/250]; [Pub. L. 97–248, title II, § 259(b)][/us/pl/97/248/s259/b], (c), Sept. 3, 1982, [96 Stat. 539][/us/stat/96/539]; [Pub. L. 98–369, div. A, title I, § 66(b)][/us/pl/98/369/s66/b], title II, § 211(b)(21), July 18, 1984, [98 Stat. 585][/us/stat/98/585], 756; [Pub. L. 99–499, title V, § 516(b)(3)][/us/pl/99/499/s516/b/3], Oct. 17, 1986, [100 Stat. 1771][/us/stat/100/1771]; [Pub. L. 99–514, title VII, § 701(e)(2)][/us/pl/99/514/s701/e/2], Oct. 22, 1986, [100 Stat. 2342][/us/stat/100/2342]; [Pub. L. 100–647, title II, § 2004][/us/pl/100/647/s2004](l), Nov. 10, 1988, [102 Stat. 3606][/us/stat/102/3606]; [Pub. L. 104–188, title I, § 1703(f)][/us/pl/104/188/s1703/f], Aug. 20, 1996, [110 Stat. 1876][/us/stat/110/1876].)
+(Added [Pub. L. 88–272, title II, § 235(a)][/us/pl/88/272/s235/a], Feb. 26, 1964, [78 Stat. 116][/us/stat/78/116]; amended [Pub. L. 91–172, title IV, § 401(a)(1)][/us/pl/91/172/s401/a/1], Dec. 30, 1969, [83 Stat. 599][/us/stat/83/599]; [Pub. L. 94–12, title III][/us/pl/94/12], §§ 303(c)(1), 304(b), Mar. 29, 1975, [89 Stat. 44][/us/stat/89/44], 45; [Pub. L. 94–164, § 4(d)(1)][/us/pl/94/164/s4/d/1], Dec. 23, 1975, [89 Stat. 974][/us/stat/89/974]; [Pub. L. 94–455, title IX, § 901(c)(1)][/us/pl/94/455/s901/c/1], title XIX, §§ 1901(b)(1)(J)(v), 1906(b)(13)(A), Oct. 4, 1976, [90 Stat. 1607][/us/stat/90/1607], 1791, 1834; [Pub. L. 95–600, title III, § 301(b)(19)][/us/pl/95/600/s301/b/19], title VII, § 703(j)(7), Nov. 6, 1978, [92 Stat. 2823][/us/stat/92/2823], 2941; [Pub. L. 97–34, title II, § 232(b)(3)][/us/pl/97/34/s232/b/3], Aug. 13, 1981, [95 Stat. 250][/us/stat/95/250]; [Pub. L. 97–248, title II, § 259(b)][/us/pl/97/248/s259/b], (c), Sept. 3, 1982, [96 Stat. 539][/us/stat/96/539]; [Pub. L. 98–369, div. A, title I, § 66(b)][/us/pl/98/369/s66/b], title II, § 211(b)(21), July 18, 1984, [98 Stat. 585][/us/stat/98/585], 756; [Pub. L. 99–499, title V, § 516(b)(3)][/us/pl/99/499/s516/b/3], Oct. 17, 1986, [100 Stat. 1771][/us/stat/100/1771]; [Pub. L. 99–514, title VII, § 701(e)(2)][/us/pl/99/514/s701/e/2], Oct. 22, 1986, [100 Stat. 2342][/us/stat/100/2342]; [Pub. L. 100–647, title II, § 2004][/us/pl/100/647/s2004](l), Nov. 10, 1988, [102 Stat. 3606][/us/stat/102/3606]; [Pub. L. 104–188, title I, § 1703(f)][/us/pl/104/188/s1703/f], Aug. 20, 1996, [110 Stat. 1876][/us/stat/110/1876]; [Pub. L. 113–295, div. A, title II, § 221(a)(12)(H)][/us/pl/113/295/s221/a/12/H], Dec. 19, 2014, [128 Stat. 4038][/us/stat/128/4038].)
 
  __Amendments__ 
+
+    2014—Subsec. (a). [Pub. L. 113–295, § 221(a)(12)(H)(ii)][/us/pl/113/295/s221/a/12/H/ii], substituted “and the amount specified in paragraph (3)” for “, the amount specified in paragraph (3), and the amount specified in paragraph (4)” in concluding provisions.
+
+    Subsec. (a)(2) to (4). [Pub. L. 113–295, § 221(a)(12)(H)(i)][/us/pl/113/295/s221/a/12/H/i], inserted “and” at end of par. (2), substituted a period for “, and” at end of par. (3), and struck out par. (4) which read as follows: “one $2,000,000 amount for purposes of computing the tax imposed by section 59A.”
 
     1996—Subsec. (a). [Pub. L. 104–188][/us/pl/104/188] in closing provisions substituted “last 2 sentences” for “last sentence” in two places.
 
@@ -80,6 +84,10 @@
     Subsec. (a)(2). [Pub. L. 94–12, § 304(b)][/us/pl/94/12/s304/b], substituted “$150,000” for “$100,000”.
 
     1969—[Pub. L. 91–172][/us/pl/91/172] provided, with respect to taxable years beginning after Dec. 31, 1974, that a controlled group of corporations is limited to one $25,000 surtax exemption under section 11(d), one $100,000 amount for purposes of computing the accumulated earnings credit under section 535(c)(2) and (3), and one $25,000 amount for purposes of computing the limitation on the small business deduction of life insurance companies under sections 804(a)(4) and 809(d)(10).
+
+ __Effective Date of 2014 Amendment__ 
+
+    Amendment by [Pub. L. 113–295][/us/pl/113/295] effective Dec. 19, 2014, subject to a savings provision, see [section 221(b) of Pub. L. 113–295][/us/pl/113/295/s221/b], set out as a note under [section 1 of this title][/us/usc/t26/s1].
 
  __Effective Date of 1996 Amendment__ 
 
@@ -154,6 +162,8 @@
 ----------
 ----------
 
+[/us/pl/113/295/s221/a/12/H/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs221%2Fa%2F12%2FH%2Fi
+[/us/stat/128/4038]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F4038
 [/us/pl/88/272/s235/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F272%2Fs235%2Fa
 [/us/stat/78/116]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F116
 [/us/pl/91/172/s401/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F172%2Fs401%2Fa%2F1
@@ -180,6 +190,10 @@
 [/us/stat/102/3606]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3606
 [/us/pl/104/188/s1703/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188%2Fs1703%2Ff
 [/us/stat/110/1876]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1876
+[/us/pl/113/295/s221/a/12/H]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs221%2Fa%2F12%2FH
+[/us/stat/128/4038]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F4038
+[/us/pl/113/295/s221/a/12/H/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs221%2Fa%2F12%2FH%2Fii
+[/us/pl/113/295/s221/a/12/H/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs221%2Fa%2F12%2FH%2Fi
 [/us/pl/104/188]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188
 [/us/pl/100/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647
 [/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
@@ -200,6 +214,9 @@
 [/us/pl/94/12/s303/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F12%2Fs303%2Fc%2F1
 [/us/pl/94/12/s304/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F12%2Fs304%2Fb
 [/us/pl/91/172]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F172
+[/us/pl/113/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295
+[/us/pl/113/295/s221/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs221%2Fb
+[/us/usc/t26/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs1
 [/us/pl/104/188]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188
 [/us/pl/103/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66
 [/us/pl/104/188]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188

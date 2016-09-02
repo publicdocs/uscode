@@ -255,85 +255,7 @@
 
             (A) __In general__ 
 
-                The applicable dollar amount shall be the amount determined in accordance with the following table:
-
-<table>
-
-                  <tr>
-
-                    <td> 
-
-                 For taxable years beginning in
-
-                  calendar year:  </td>
-
-                    <td> 
-
-                The applicable dollar amount:  </td>
-
-  </tr>
-
-                  <tr>
-
-                    <td> 
-
-                2002  </td>
-
-                    <td> 
-
-                $11,000    </td>
-
-  </tr>
-
-                  <tr>
-
-                    <td> 
-
-                2003  </td>
-
-                    <td> 
-
-                $12,000    </td>
-
-  </tr>
-
-                  <tr>
-
-                    <td> 
-
-                2004  </td>
-
-                    <td> 
-
-                $13,000    </td>
-
-  </tr>
-
-                  <tr>
-
-                    <td> 
-
-                2005  </td>
-
-                    <td> 
-
-                $14,000    </td>
-
-  </tr>
-
-                  <tr>
-
-                    <td> 
-
-                2006 or thereafter  </td>
-
-                    <td> 
-
-                $15,000.  </td>
-
-  </tr>
-
-                </table>
+                The applicable dollar amount is $15,000.
 
             (B) __Cost-of-living adjustments__ 
 
@@ -477,13 +399,15 @@
 
             A plan described in paragraph (1) shall not be treated as an eligible deferred compensation plan unless such plan meets the requirements of section 401(a)(37).
 
-(Added [Pub. L. 95–600, title I, § 131(a)][/us/pl/95/600/s131/a], Nov. 6, 1978, [92 Stat. 2779][/us/stat/92/2779]; amended [Pub. L. 96–222, title I, § 101(a)(4)][/us/pl/96/222/s101/a/4], Apr. 1, 1980, [94 Stat. 196][/us/stat/94/196]; [Pub. L. 98–369, div. A, title IV, § 491(d)(33)][/us/pl/98/369/s491/d/33], July 18, 1984, [98 Stat. 851][/us/stat/98/851]; [Pub. L. 99–514, title XI, § 1107(a)][/us/pl/99/514/s1107/a], Oct. 22, 1986, [100 Stat. 2426][/us/stat/100/2426]; [Pub. L. 100–647, title I, § 1011(e)(1)][/us/pl/100/647/s1011/e/1], (2), (9), (10), title VI, §§ 6064(a)–(c), 6071(c), Nov. 10, 1988, [102 Stat. 3460][/us/stat/102/3460], 3461, 3700, 3701, 3705; [Pub. L. 101–239, title VII][/us/pl/101/239], §§ 7811(g)(4), (5), 7816(j), Dec. 19, 1989, [103 Stat. 2409][/us/stat/103/2409], 2421; [Pub. L. 102–318, title V, § 521(b)(26)][/us/pl/102/318/s521/b/26], July 3, 1992, [106 Stat. 312][/us/stat/106/312]; [Pub. L. 104–188, title I][/us/pl/104/188], §§ 1421(b)(3)(C), 1444(b)(2), (3), 1447(a), (b), 1448(a), (b), 1458(a), Aug. 20, 1996, [110 Stat. 1796][/us/stat/110/1796], 1810, 1812, 1813, 1819; [Pub. L. 105–34, title X, § 1071(a)(2)][/us/pl/105/34/s1071/a/2], Aug. 5, 1997, [111 Stat. 948][/us/stat/111/948]; [Pub. L. 107–16, title VI][/us/pl/107/16], §§ 611(d)(3)(B), (e), 615(a), 632(c)(1), 641(a)(1)(A)–(C), 646(a)(3), 647(b), 648(b), 649(a), (b), June 7, 2001, [115 Stat. 98][/us/stat/115/98], 102, 115, 118, 119, 126–128; [Pub. L. 107–147, title IV, § 411][/us/pl/107/147/s411](o)(9), (p)(5), Mar. 9, 2002, [116 Stat. 49][/us/stat/116/49], 51; [Pub. L. 109–280, title VIII][/us/pl/109/280], §§ 829(a)(4), 845(b)(3), title XI, § 1104(a)(1), (b), Aug. 17, 2006, [120 Stat. 1002][/us/stat/120/1002], 1015, 1058, 1059; [Pub. L. 110–245, title I, § 104(c)(3)][/us/pl/110/245/s104/c/3], June 17, 2008, [122 Stat. 1627][/us/stat/122/1627].)
+(Added [Pub. L. 95–600, title I, § 131(a)][/us/pl/95/600/s131/a], Nov. 6, 1978, [92 Stat. 2779][/us/stat/92/2779]; amended [Pub. L. 96–222, title I, § 101(a)(4)][/us/pl/96/222/s101/a/4], Apr. 1, 1980, [94 Stat. 196][/us/stat/94/196]; [Pub. L. 98–369, div. A, title IV, § 491(d)(33)][/us/pl/98/369/s491/d/33], July 18, 1984, [98 Stat. 851][/us/stat/98/851]; [Pub. L. 99–514, title XI, § 1107(a)][/us/pl/99/514/s1107/a], Oct. 22, 1986, [100 Stat. 2426][/us/stat/100/2426]; [Pub. L. 100–647, title I, § 1011(e)(1)][/us/pl/100/647/s1011/e/1], (2), (9), (10), title VI, §§ 6064(a)–(c), 6071(c), Nov. 10, 1988, [102 Stat. 3460][/us/stat/102/3460], 3461, 3700, 3701, 3705; [Pub. L. 101–239, title VII][/us/pl/101/239], §§ 7811(g)(4), (5), 7816(j), Dec. 19, 1989, [103 Stat. 2409][/us/stat/103/2409], 2421; [Pub. L. 102–318, title V, § 521(b)(26)][/us/pl/102/318/s521/b/26], July 3, 1992, [106 Stat. 312][/us/stat/106/312]; [Pub. L. 104–188, title I][/us/pl/104/188], §§ 1421(b)(3)(C), 1444(b)(2), (3), 1447(a), (b), 1448(a), (b), 1458(a), Aug. 20, 1996, [110 Stat. 1796][/us/stat/110/1796], 1810, 1812, 1813, 1819; [Pub. L. 105–34, title X, § 1071(a)(2)][/us/pl/105/34/s1071/a/2], Aug. 5, 1997, [111 Stat. 948][/us/stat/111/948]; [Pub. L. 107–16, title VI][/us/pl/107/16], §§ 611(d)(3)(B), (e), 615(a), 632(c)(1), 641(a)(1)(A)–(C), 646(a)(3), 647(b), 648(b), 649(a), (b), June 7, 2001, [115 Stat. 98][/us/stat/115/98], 102, 115, 118, 119, 126–128; [Pub. L. 107–147, title IV, § 411][/us/pl/107/147/s411](o)(9), (p)(5), Mar. 9, 2002, [116 Stat. 49][/us/stat/116/49], 51; [Pub. L. 109–280, title VIII][/us/pl/109/280], §§ 829(a)(4), 845(b)(3), title XI, § 1104(a)(1), (b), Aug. 17, 2006, [120 Stat. 1002][/us/stat/120/1002], 1015, 1058, 1059; [Pub. L. 110–245, title I, § 104(c)(3)][/us/pl/110/245/s104/c/3], June 17, 2008, [122 Stat. 1627][/us/stat/122/1627]; [Pub. L. 113–295, div. A, title II, § 221(a)(57)(H)][/us/pl/113/295/s221/a/57/H], Dec. 19, 2014, [128 Stat. 4047][/us/stat/128/4047].)
 
  __Inflation Adjusted Items for Certain Years__ 
 
     For inflation adjustment of certain items in this section, see Internal Revenue Notices listed in a table under [section 401 of this title][/us/usc/t26/s401].
 
  __Amendments__ 
+
+    2014—Subsec. (e)(15)(A). [Pub. L. 113–295][/us/pl/113/295] substituted “is $15,000.” for “shall be the amount determined in accordance with the following table:” and struck out table at end listing applicable dollar amounts for taxable years beginning in 2002.
 
     2008—Subsec. (g)(4). [Pub. L. 110–245][/us/pl/110/245] added par. (4).
 
@@ -596,6 +520,10 @@
     1984—Subsec. (e)(2). [Pub. L. 98–369, § 491(d)(33)][/us/pl/98/369/s491/d/33], struck out subpar. (C) which provided that par. (1) of this subsection not apply to a qualified bond purchase plan described in section 405(a), and redesignated subpars. (D) and (E) as (C) and (D), respectively.
 
     1980—Subsec. (d)(9)(B). [Pub. L. 96–222][/us/pl/96/222] in cl. (i) struck out “described in section 501(c)(12)” after “any organization” and substituted “electric service on a mutual or cooperative basis” for “electric service” and in cl. (ii) substituted “paragraph (4) or (6) of section 501(a)” for “section 501(c)(6)” and “at least 80 percent of the members” for “all the members”.
+
+ __Effective Date of 2014 Amendment__ 
+
+    Amendment by [Pub. L. 113–295][/us/pl/113/295] effective Dec. 19, 2014, subject to a savings provision, see [section 221(b) of Pub. L. 113–295][/us/pl/113/295/s221/b], set out as a note under [section 1 of this title][/us/usc/t26/s1].
 
  __Effective Date of 2008 Amendment__ 
 
@@ -918,7 +846,10 @@
 [/us/stat/120/1002]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1002
 [/us/pl/110/245/s104/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F245%2Fs104%2Fc%2F3
 [/us/stat/122/1627]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1627
+[/us/pl/113/295/s221/a/57/H]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs221%2Fa%2F57%2FH
+[/us/stat/128/4047]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F4047
 [/us/usc/t26/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs401
+[/us/pl/113/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295
 [/us/pl/110/245]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F245
 [/us/pl/109/280/s845/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280%2Fs845%2Fb%2F3
 [/us/pl/109/280/s1104/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280%2Fs1104%2Fa%2F1
@@ -972,6 +903,9 @@
 [/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
 [/us/pl/98/369/s491/d/33]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs491%2Fd%2F33
 [/us/pl/96/222]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F222
+[/us/pl/113/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295
+[/us/pl/113/295/s221/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs221%2Fb
+[/us/usc/t26/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs1
 [/us/pl/110/245]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F245
 [/us/pl/110/245/s104/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F245%2Fs104%2Fd%2F1
 [/us/usc/t26/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs401

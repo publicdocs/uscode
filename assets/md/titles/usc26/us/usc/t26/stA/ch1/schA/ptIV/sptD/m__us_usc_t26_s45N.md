@@ -41,17 +41,25 @@
 
     (e) __Termination__ 
 
-        This section shall not apply to taxable years beginning after December 31, 2013.
+        This section shall not apply to taxable years beginning after December 31, 2014.
 
-(Added [Pub. L. 109–432, div. A, title IV, § 405(a)][/us/pl/109/432/s405/a], Dec. 20, 2006, [120 Stat. 2957][/us/stat/120/2957]; amended [Pub. L. 110–343, div. C, title III, § 310][/us/pl/110/343/s310], Oct. 3, 2008, [122 Stat. 3869][/us/stat/122/3869]; [Pub. L. 111–312, title VII, § 735(a)][/us/pl/111/312/s735/a], Dec. 17, 2010, [124 Stat. 3318][/us/stat/124/3318]; [Pub. L. 112–240, title III, § 307(a)][/us/pl/112/240/s307/a], Jan. 2, 2013, [126 Stat. 2329][/us/stat/126/2329].)
+(Added [Pub. L. 109–432, div. A, title IV, § 405(a)][/us/pl/109/432/s405/a], Dec. 20, 2006, [120 Stat. 2957][/us/stat/120/2957]; amended [Pub. L. 110–343, div. C, title III, § 310][/us/pl/110/343/s310], Oct. 3, 2008, [122 Stat. 3869][/us/stat/122/3869]; [Pub. L. 111–312, title VII, § 735(a)][/us/pl/111/312/s735/a], Dec. 17, 2010, [124 Stat. 3318][/us/stat/124/3318]; [Pub. L. 112–240, title III, § 307(a)][/us/pl/112/240/s307/a], Jan. 2, 2013, [126 Stat. 2329][/us/stat/126/2329]; [Pub. L. 113–295, div. A, title I, § 117(a)][/us/pl/113/295/s117/a], Dec. 19, 2014, [128 Stat. 4015][/us/stat/128/4015].)
 
  __Amendments__ 
+
+    2014—Subsec. (e). [Pub. L. 113–295][/us/pl/113/295] substituted “December 31, 2014” for “December 31, 2013”.
 
     2013—Subsec. (e). [Pub. L. 112–240][/us/pl/112/240] substituted “December 31, 2013” for “December 31, 2011”.
 
     2010—Subsec. (e). [Pub. L. 111–312][/us/pl/111/312] substituted “December 31, 2011” for “December 31, 2009”.
 
     2008—Subsec. (e). [Pub. L. 110–343][/us/pl/110/343] substituted “December 31, 2009” for “December 31, 2008”.
+
+ __Effective Date of 2014 Amendment__ 
+
+[Pub. L. 113–295, div. A, title I, § 117(b)][/us/pl/113/295/s117/b], Dec. 19, 2014, [128 Stat. 4015][/us/stat/128/4015], provided that: 
+
+> “The amendment made by this section \[amending this section\] shall apply to taxable years beginning after December 31, 2013.”
 
  __Effective Date of 2013 Amendment__ 
 
@@ -84,9 +92,14 @@
 [/us/stat/124/3318]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3318
 [/us/pl/112/240/s307/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F240%2Fs307%2Fa
 [/us/stat/126/2329]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F2329
+[/us/pl/113/295/s117/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs117%2Fa
+[/us/stat/128/4015]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F4015
+[/us/pl/113/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295
 [/us/pl/112/240]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F240
 [/us/pl/111/312]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F312
 [/us/pl/110/343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F343
+[/us/pl/113/295/s117/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs117%2Fb
+[/us/stat/128/4015]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F4015
 [/us/pl/112/240/s307/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F240%2Fs307%2Fb
 [/us/stat/126/2329]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F2329
 [/us/pl/111/312/s735/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F312%2Fs735%2Fb

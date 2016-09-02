@@ -25,7 +25,7 @@
 
  __Transition Provisions__ 
 
-[Pub. L. 108–357, title I, § 101(d)][/us/pl/108/357/s101/d]–(f), Oct. 22, 2004, [118 Stat. 1423][/us/stat/118/1423], 1424, as amended by [Pub. L. 109–222, title V, § 513(b)][/us/pl/109/222/s513/b], May 17, 2006, [120 Stat. 366][/us/stat/120/366], provided that:
+[Pub. L. 108–357, title I, § 101(d)][/us/pl/108/357/s101/d]–(f), Oct. 22, 2004, [118 Stat. 1423][/us/stat/118/1423], 1424, as amended by [Pub. L. 109–222, title V, § 513(b)][/us/pl/109/222/s513/b], May 17, 2006, [120 Stat. 366][/us/stat/120/366]; [Pub. L. 113–295, div. A, title II, § 219(a)][/us/pl/113/295/s219/a], Dec. 19, 2014, [128 Stat. 4035][/us/stat/128/4035], provided that:
 
 >     “(d)  __Transitional Rule for__  __2005__  __and__  __2006.—__ 
 
@@ -40,6 +40,10 @@
 >             “(A) For 2005, the applicable percentage shall be 20 percent.
 
 >             “(B) For 2006, the applicable percentage shall be 40 percent.
+
+>         “(3)  __Coordination with section __  __199.—__ 
+
+>         This subsection shall be applied without regard to any deduction allowable under section 199 \[probably means section 199 of the Internal Revenue Code of 1986\].
 
 >     “(e)  __Revocation of Election To Be Treated as Domestic Corporation__  __.—__ 
 
@@ -74,6 +78,8 @@
 [/us/stat/118/1423]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1423
 [/us/pl/109/222/s513/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F222%2Fs513%2Fb
 [/us/stat/120/366]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F366
+[/us/pl/113/295/s219/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs219%2Fa
+[/us/stat/128/4035]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F4035
 [/us/pl/109/222/s513/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F222%2Fs513%2Fb
 [/us/stat/120/366]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F366
 

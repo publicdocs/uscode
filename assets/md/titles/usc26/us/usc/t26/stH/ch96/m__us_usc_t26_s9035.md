@@ -17,19 +17,21 @@
 
     (a) __Expenditure limitations__ 
 
-        No candidate shall knowingly incur qualified campaign expenses in excess of the expenditure limitation applicable under section 320(b)(1)(A) of the Federal Election Campaign Act of 1971, and no candidate shall knowingly make expenditures from his personal funds, or the personal funds of his immediate family, in connection with his campaign for nomination for election to the office of President in excess of, in the aggregate, $50,000.
+        No candidate shall knowingly incur qualified campaign expenses in excess of the expenditure limitation applicable under section 315(b)(1)(A) of the Federal Election Campaign Act of 1971, and no candidate shall knowingly make expenditures from his personal funds, or the personal funds of his immediate family, in connection with his campaign for nomination for election to the office of President in excess of, in the aggregate, $50,000.
 
     (b) __Definition of immediate family__ 
 
         For purposes of this section, the term “immediate family” means a candidate’s spouse, and any child, parent, grandparent, brother, half-brother, sister, or half-sister of the candidate, and the spouses of such persons.
 
-(Added [Pub. L. 93–443, title IV, § 408(c)][/us/pl/93/443/s408/c], Oct. 15, 1974, [88 Stat. 1300][/us/stat/88/1300]; amended [Pub. L. 94–283, title III][/us/pl/94/283], §§ 305(a), 307(c), May 11, 1976, [90 Stat. 499][/us/stat/90/499], 501.)
+(Added [Pub. L. 93–443, title IV, § 408(c)][/us/pl/93/443/s408/c], Oct. 15, 1974, [88 Stat. 1300][/us/stat/88/1300]; amended [Pub. L. 94–283, title III][/us/pl/94/283], §§ 305(a), 307(c), May 11, 1976, [90 Stat. 499][/us/stat/90/499], 501; [Pub. L. 113–295, div. A, title II, § 220(z)][/us/pl/113/295/s220/z], Dec. 19, 2014, [128 Stat. 4037][/us/stat/128/4037].)
 
  __References in Text__ 
 
-    Section 320 of The Federal Election Campaign Act of 1971, referred to in subsec. (a), was renumbered section 315 of that Act by [Pub. L. 96–187, title I, § 105(5)][/us/pl/96/187/s105/5], Jan. 8, 1980, [93 Stat. 1354][/us/stat/93/1354], and is classified to [section 30116 of Title 52][/us/usc/t52/s30116], Voting and Elections.
+    Section 315 of The Federal Election Campaign Act of 1971, referred to in subsec. (a), is classified to [section 30116 of Title 52][/us/usc/t52/s30116], Voting and Elections.
 
  __Amendments__ 
+
+    2014—Subsec. (a). [Pub. L. 113–295][/us/pl/113/295] substituted “section 315(b)(1)(A)” for “section 320(b)(1)(A)”.
 
     1976—[Pub. L. 94–283][/us/pl/94/283] substituted “limitations” for “limitation” in section catchline, designated existing provisions as subsec. (a), inserted “Expenditure limitations” as heading of subsec. (a) as so redesignated and substituted “section 320(b)(1)(A) of the Federal Election Campaign Act of 1971, and no candidate shall knowingly make expenditures from his personal funds, or the personal funds of his immediate family, in connection with his campaign for nomination for election to the office of President in excess of, in the aggregate, $50,000” for “[section 608(c)(1)(A) of title 18][/us/usc/t18/s608/c/1/A], United States Code”, and added subsec. (b).
 
@@ -50,9 +52,10 @@
 [/us/stat/88/1300]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1300
 [/us/pl/94/283]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F283
 [/us/stat/90/499]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F499
-[/us/pl/96/187/s105/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F187%2Fs105%2F5
-[/us/stat/93/1354]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F1354
+[/us/pl/113/295/s220/z]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs220%2Fz
+[/us/stat/128/4037]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F4037
 [/us/usc/t52/s30116]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft52%2Fs30116
+[/us/pl/113/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295
 [/us/pl/94/283]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F283
 [/us/usc/t18/s608/c/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs608%2Fc%2F1%2FA
 [/us/pl/94/283/s305/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F283%2Fs305%2Fd

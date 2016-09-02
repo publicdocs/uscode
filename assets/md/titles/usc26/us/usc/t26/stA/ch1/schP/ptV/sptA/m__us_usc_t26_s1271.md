@@ -121,39 +121,33 @@
 
             Paragraph (1) shall not apply to any obligation purchased (within the meaning of section 1272(d)(1)) after June 8, 1997.
 
-    (c) __Transition rules__ 
+    (c) __Special rule for certain obligations with respect to which original issue discount not currently includible__ 
 
-        (1) __Special rule for certain obligations issued before__  __January 1, 1955__ 
+        (1) __In general__ 
 
-            Paragraph (1) of subsection (a) shall apply to a debt instrument issued before January 1, 1955, only if such instrument was issued with interest coupons or in registered form, or was in such form on March 1, 1954.
+        On the sale or exchange of debt instruments issued by a government or political subdivision thereof after December 31, 1954, and before July 2, 1982, or by a corporation after December 31, 1954, and on or before May 27, 1969, any gain realized which does not exceed—
 
-        (2) __Special rule for certain obligations with respect to which original issue discount not currently includible__ 
+            (A) an amount equal to the original issue discount, or
 
-            (A) __In general__ 
+            (B) if at the time of original issue there was no intention to call the debt instrument before maturity, an amount which bears the same ratio to the original issue discount as the number of complete months that the debt instrument was held by the taxpayer bears to the number of complete months from the date of original issue to the date of maturity, shall be considered as ordinary income.
 
-            On the sale or exchange of debt instruments issued by a government or political subdivision thereof after December 31, 1954, and before July 2, 1982, or by a corporation after December 31, 1954, and on or before May 27, 1969, any gain realized which does not exceed—
+        (2) __Subsection (a)(2)(A) not to apply__ 
 
-                (i) an amount equal to the original issue discount, or
+            Subsection (a)(2)(A) shall not apply to any debt instrument referred to in paragraph (1) of this subsection.
 
-                (ii) if at the time of original issue there was no intention to call the debt instrument before maturity, an amount which bears the same ratio to the original issue discount as the number of complete months that the debt instrument was held by the taxpayer bears to the number of complete months from the date of original issue to the date of maturity,
+        (3) __Cross reference__ 
 
-                shall be considered as ordinary income.
-
-            (B) __Subsection (a)(2)(A) not to apply__ 
-
-                Subsection (a)(2)(A) shall not apply to any debt instrument referred to in subparagraph (A) of this paragraph.
-
-            (C) __Cross reference__ 
-
-                For current inclusion of original issue discount, see section 1272.
+            For current inclusion of original issue discount, see section 1272.
 
     (d) __Double inclusion in income not required__ 
 
         This section and sections 1272 and 1286 shall not require the inclusion of any amount previously includible in gross income.
 
-(Added [Pub. L. 98–369, div. A, title I, § 41(a)][/us/pl/98/369/s41/a], July 18, 1984, [98 Stat. 531][/us/stat/98/531]; amended [Pub. L. 99–514, title XVIII, § 1803(a)(1)(A)][/us/pl/99/514/s1803/a/1/A], (2), (3), Oct. 22, 1986, [100 Stat. 2791][/us/stat/100/2791], 2792; [Pub. L. 100–647, title I, § 1006(u)(4)][/us/pl/100/647/s1006/u/4], Nov. 10, 1988, [102 Stat. 3427][/us/stat/102/3427]; [Pub. L. 105–34, title X, § 1003(c)(1)][/us/pl/105/34/s1003/c/1], Aug. 5, 1997, [111 Stat. 910][/us/stat/111/910].)
+(Added [Pub. L. 98–369, div. A, title I, § 41(a)][/us/pl/98/369/s41/a], July 18, 1984, [98 Stat. 531][/us/stat/98/531]; amended [Pub. L. 99–514, title XVIII, § 1803(a)(1)(A)][/us/pl/99/514/s1803/a/1/A], (2), (3), Oct. 22, 1986, [100 Stat. 2791][/us/stat/100/2791], 2792; [Pub. L. 100–647, title I, § 1006(u)(4)][/us/pl/100/647/s1006/u/4], Nov. 10, 1988, [102 Stat. 3427][/us/stat/102/3427]; [Pub. L. 105–34, title X, § 1003(c)(1)][/us/pl/105/34/s1003/c/1], Aug. 5, 1997, [111 Stat. 910][/us/stat/111/910]; [Pub. L. 113–295, div. A, title II, § 221(a)(86)][/us/pl/113/295/s221/a/86], Dec. 19, 2014, [128 Stat. 4049][/us/stat/128/4049].)
 
  __Amendments__ 
+
+    2014—Subsec. (c). [Pub. L. 113–295][/us/pl/113/295] amended subsec. (c) generally. Prior to amendment, subsec. (c) related to transition rules, including special rules for certain obligations issued before January 1, 1955, and for certain obligations with respect to which original issue discount was not currently includible.
 
     1997—Subsec. (b). [Pub. L. 105–34][/us/pl/105/34] amended heading and text of subsec. (b) generally. Prior to amendment, text read as follows: “This section shall not apply to—
 
@@ -180,6 +174,10 @@
     Subsec. (a)(3)(E). [Pub. L. 99–514, § 1803(a)(2)(A)][/us/pl/99/514/s1803/a/2/A], added subpar. (E).
 
     Subsec. (a)(4). [Pub. L. 99–514, § 1803(a)(1)(A)][/us/pl/99/514/s1803/a/1/A], added par. (4).
+
+ __Effective Date of 2014 Amendment__ 
+
+    Amendment by [Pub. L. 113–295][/us/pl/113/295] effective Dec. 19, 2014, subject to a savings provision, see [section 221(b) of Pub. L. 113–295][/us/pl/113/295/s221/b], set out as a note under [section 1 of this title][/us/usc/t26/s1].
 
  __Effective Date of 1997 Amendment__ 
 
@@ -570,12 +568,18 @@
 [/us/stat/102/3427]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3427
 [/us/pl/105/34/s1003/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2Fs1003%2Fc%2F1
 [/us/stat/111/910]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F910
+[/us/pl/113/295/s221/a/86]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs221%2Fa%2F86
+[/us/stat/128/4049]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F4049
+[/us/pl/113/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295
 [/us/pl/105/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34
 [/us/pl/100/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647
 [/us/pl/99/514/s1803/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1803%2Fa%2F3
 [/us/pl/99/514/s1803/a/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1803%2Fa%2F2%2FB
 [/us/pl/99/514/s1803/a/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1803%2Fa%2F2%2FA
 [/us/pl/99/514/s1803/a/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1803%2Fa%2F1%2FA
+[/us/pl/113/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295
+[/us/pl/113/295/s221/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs221%2Fb
+[/us/usc/t26/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs1
 [/us/pl/105/34/s1003/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2Fs1003%2Fc%2F2
 [/us/stat/111/911]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F911
 [/us/pl/100/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647

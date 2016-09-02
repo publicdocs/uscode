@@ -31,9 +31,11 @@
 
             (C) section 223(h) (relating to health savings accounts),
 
-            (D) section 529(d) (relating to qualified tuition programs), and
+            (D) section 529(d) (relating to qualified tuition programs),
 
-            (E) section 530(h) (relating to Coverdell education savings accounts).
+            (E) section 529A(d) (relating to qualified ABLE programs), and
+
+            (F) section 530(h) (relating to Coverdell education savings accounts).
 
         This subsection shall not apply to any report which is an information return described in section 6724(d)(1)(C)(i) or a payee statement described in section 6724(d)(2)(X).
 
@@ -75,9 +77,11 @@
 
         Subchapter B of chapter 63 (relating to deficiency procedures for income, estate, gift, and certain excise taxes) does not apply to the assessment or collection of any penalty imposed by this section.
 
-(Added [Pub. L. 93–406, title II, § 2002(f)][/us/pl/93/406/s2002/f], Sept. 2, 1974, [88 Stat. 967][/us/stat/88/967]; amended [Pub. L. 96–222, title I, § 101(a)(10)(H)][/us/pl/96/222/s101/a/10/H], Apr. 1, 1980, [94 Stat. 203][/us/stat/94/203]; [Pub. L. 98–369, div. A, title I, § 147(b)][/us/pl/98/369/s147/b], July 18, 1984, [98 Stat. 687][/us/stat/98/687]; [Pub. L. 99–514, title XI, § 1102(d)(1)][/us/pl/99/514/s1102/d/1], (2)(A), (B), Oct. 22, 1986, [100 Stat. 2416][/us/stat/100/2416]; [Pub. L. 100–647, title I, § 1011(b)(4)(A)][/us/pl/100/647/s1011/b/4/A], (B)(i), Nov. 10, 1988, [102 Stat. 3456][/us/stat/102/3456], 3457; [Pub. L. 104–188, title I][/us/pl/104/188], §§ 1421(b)(4)(B), 1455(d)(3), Aug. 20, 1996, [110 Stat. 1796][/us/stat/110/1796], 1818; [Pub. L. 104–191, title III, § 301(g)][/us/pl/104/191/s301/g], Aug. 21, 1996, [110 Stat. 2052][/us/stat/110/2052]; [Pub. L. 105–34, title II][/us/pl/105/34], §§ 211(e)(2)(B), (C), 213(c), title XVI, §§ 1601(d)(1)(C)(ii), 1602(a)(4), Aug. 5, 1997, [111 Stat. 812][/us/stat/111/812], 816, 1087, 1094; [Pub. L. 105–277, div. J, title IV, § 4006(c)(4)][/us/pl/105/277/s4006/c/4], Oct. 21, 1998, [112 Stat. 2681–913][/us/stat/112/2681-913]; [Pub. L. 106–554, § 1(a)(7)][/us/pl/106/554/s1/a/7] \[title II, § 202(b)(2)(E)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–629; [Pub. L. 107–16, title IV, § 402(a)(4)(A)][/us/pl/107/16/s402/a/4/A], June 7, 2001, [115 Stat. 60][/us/stat/115/60]; [Pub. L. 107–22, § 1(b)(2)(C)][/us/pl/107/22/s1/b/2/C], July 26, 2001, [115 Stat. 197][/us/stat/115/197]; [Pub. L. 108–173, title XII, § 1201(g)][/us/pl/108/173/s1201/g], Dec. 8, 2003, [117 Stat. 2479][/us/stat/117/2479].)
+(Added [Pub. L. 93–406, title II, § 2002(f)][/us/pl/93/406/s2002/f], Sept. 2, 1974, [88 Stat. 967][/us/stat/88/967]; amended [Pub. L. 96–222, title I, § 101(a)(10)(H)][/us/pl/96/222/s101/a/10/H], Apr. 1, 1980, [94 Stat. 203][/us/stat/94/203]; [Pub. L. 98–369, div. A, title I, § 147(b)][/us/pl/98/369/s147/b], July 18, 1984, [98 Stat. 687][/us/stat/98/687]; [Pub. L. 99–514, title XI, § 1102(d)(1)][/us/pl/99/514/s1102/d/1], (2)(A), (B), Oct. 22, 1986, [100 Stat. 2416][/us/stat/100/2416]; [Pub. L. 100–647, title I, § 1011(b)(4)(A)][/us/pl/100/647/s1011/b/4/A], (B)(i), Nov. 10, 1988, [102 Stat. 3456][/us/stat/102/3456], 3457; [Pub. L. 104–188, title I][/us/pl/104/188], §§ 1421(b)(4)(B), 1455(d)(3), Aug. 20, 1996, [110 Stat. 1796][/us/stat/110/1796], 1818; [Pub. L. 104–191, title III, § 301(g)][/us/pl/104/191/s301/g], Aug. 21, 1996, [110 Stat. 2052][/us/stat/110/2052]; [Pub. L. 105–34, title II][/us/pl/105/34], §§ 211(e)(2)(B), (C), 213(c), title XVI, §§ 1601(d)(1)(C)(ii), 1602(a)(4), Aug. 5, 1997, [111 Stat. 812][/us/stat/111/812], 816, 1087, 1094; [Pub. L. 105–277, div. J, title IV, § 4006(c)(4)][/us/pl/105/277/s4006/c/4], Oct. 21, 1998, [112 Stat. 2681–913][/us/stat/112/2681-913]; [Pub. L. 106–554, § 1(a)(7)][/us/pl/106/554/s1/a/7] \[title II, § 202(b)(2)(E)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–629; [Pub. L. 107–16, title IV, § 402(a)(4)(A)][/us/pl/107/16/s402/a/4/A], June 7, 2001, [115 Stat. 60][/us/stat/115/60]; [Pub. L. 107–22, § 1(b)(2)(C)][/us/pl/107/22/s1/b/2/C], July 26, 2001, [115 Stat. 197][/us/stat/115/197]; [Pub. L. 108–173, title XII, § 1201(g)][/us/pl/108/173/s1201/g], Dec. 8, 2003, [117 Stat. 2479][/us/stat/117/2479]; [Pub. L. 113–295, div. B, title I, § 102(c)][/us/pl/113/295/s102/c], Dec. 19, 2014, [128 Stat. 4062][/us/stat/128/4062].)
 
  __Amendments__ 
+
+    2014—Subsec. (a)(2)(E), (F). [Pub. L. 113–295][/us/pl/113/295] added subpar. (E) and redesignated former subpar. (E) as (F).
 
     2003—Subsec. (a)(2)(C) to (E). [Pub. L. 108–173][/us/pl/108/173] added subpar. (C) and redesignated former subpars. (C) and (D) as (D) and (E), respectively.
 
@@ -124,6 +128,10 @@
     1984—Subsec. (a). [Pub. L. 98–369][/us/pl/98/369] substituted “$50” for “$10”.
 
     1980—Subsec. (a). [Pub. L. 96–222][/us/pl/96/222] substituted “subsection (i) or (l) of section 408 to file” for “section 408(i) to file”, and “such subsection shall pay” for “section 408(i) shall pay”.
+
+ __Effective Date of 2014 Amendment__ 
+
+    Amendment by [Pub. L. 113–295][/us/pl/113/295] applicable to taxable years beginning after Dec. 31, 2014, see [section 102(f)(1) of Pub. L. 113–295][/us/pl/113/295/s102/f/1], set out as a note under [section 552a of Title 5][/us/usc/t5/s552a], Government Organization and Employees.
 
  __Effective Date of 2003 Amendment__ 
 
@@ -216,6 +224,9 @@
 [/us/stat/115/197]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F197
 [/us/pl/108/173/s1201/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F173%2Fs1201%2Fg
 [/us/stat/117/2479]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2479
+[/us/pl/113/295/s102/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs102%2Fc
+[/us/stat/128/4062]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F4062
+[/us/pl/113/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295
 [/us/pl/108/173]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F173
 [/us/pl/107/16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F16
 [/us/pl/107/22]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F22
@@ -236,6 +247,9 @@
 [/us/pl/99/514/s1102/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1102%2Fd%2F1
 [/us/pl/98/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369
 [/us/pl/96/222]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F222
+[/us/pl/113/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295
+[/us/pl/113/295/s102/f/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs102%2Ff%2F1
+[/us/usc/t5/s552a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs552a
 [/us/pl/108/173]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F173
 [/us/pl/108/173/s1201/k]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F173%2Fs1201%2Fk
 [/us/usc/t26/s62]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs62

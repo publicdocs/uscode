@@ -71,9 +71,19 @@
 
   </tr>
 
+  <tr>
+
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs7705" data-uslm-ref="/us/usc/t26/s7705">7705.</a>  </td>
+
+    <td> Certified professional employer organizations.  </td>
+
+  </tr>
+
 </table>
 
  __Amendments__ 
+
+    2014—[Pub. L. 113–295, div. B, title II, § 206(d)(2)][/us/pl/113/295/s206/d/2], Dec. 19, 2014, [128 Stat. 4071][/us/stat/128/4071], added item 7705.
 
     1996—[Pub. L. 104–191, title III, § 321(e)][/us/pl/104/191/s321/e], Aug. 21, 1996, [110 Stat. 2059][/us/stat/110/2059], added item 7702B.
 
@@ -92,6 +102,8 @@
 ----------
 ----------
 
+[/us/pl/113/295/s206/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs206%2Fd%2F2
+[/us/stat/128/4071]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F4071
 [/us/pl/104/191/s321/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F191%2Fs321%2Fe
 [/us/stat/110/2059]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2059
 [/us/pl/100/647/s5012/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs5012%2Fc%2F2

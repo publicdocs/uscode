@@ -251,7 +251,7 @@
 
                 (i) the individual shall be treated as not having filed an election under section 7448(b), and
 
-                (ii) section 7448(g) shall not apply, and the amount credited to such individual’s account (together with interest at 4 percent per annum to December 31, 1947, and 3 percent per annum thereafter, compounded on December 31 of each year to the date on which the revocation is filed) shall be returned to such individual,
+                (ii) section 7448(g) shall not apply, and the amount credited to such individual’s account (together with interest at 3 percent per annum, compounded on December 31 of each year to the date on which the revocation is filed) shall be returned to such individual,
 
             (C) no credit shall be allowed for any service as a judge of the Tax Court unless with respect to such service either there has been deducted and withheld the amount required by the civil service retirement laws or there has been deposited in the Civil Service Retirement and Disability Fund an amount equal to the amount so required, with interest,
 
@@ -303,9 +303,11 @@
 
                 Notwithstanding subparagraph (C), if any judge retires under this section, or resigns without having met the age and service requirements set forth under subsection (b)(2), and such judge’s nonforfeitable account balance is less than an amount that the Executive Director of the Federal Retirement Thrift Investment Board prescribes by regulation, the Executive Director shall pay the nonforfeitable account balance to the participant in a single payment.
 
-([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 880][/us/stat/68A/880]; [Pub. L. 89–354, § 1][/us/pl/89/354/s1], Feb. 2, 1966, [80 Stat. 5][/us/stat/80/5]; [Pub. L. 91–172, title IX][/us/pl/91/172], §§ 954, 960(c), (d), Dec. 30, 1969, [83 Stat. 730][/us/stat/83/730], 734; [Pub. L. 92–41, § 4(a)][/us/pl/92/41/s4/a], July 1, 1971, [85 Stat. 99][/us/stat/85/99]; [Pub. L. 95–472, § 1][/us/pl/95/472/s1], Oct. 17, 1978, [92 Stat. 1332][/us/stat/92/1332]; [Pub. L. 97–362, title I, § 106(d)][/us/pl/97/362/s106/d], Oct. 25, 1982, [96 Stat. 1730][/us/stat/96/1730]; [Pub. L. 99–514, title XV, § 1557(a)][/us/pl/99/514/s1557/a], (b), (d), Oct. 22, 1986, [100 Stat. 2756][/us/stat/100/2756], 2757; [Pub. L. 100–647, title I, § 1015(k)(1)][/us/pl/100/647/s1015/k/1], Nov. 10, 1988, [102 Stat. 3571][/us/stat/102/3571]; [Pub. L. 109–280, title VIII, § 853(a)][/us/pl/109/280/s853/a], Aug. 17, 2006, [120 Stat. 1016][/us/stat/120/1016].)
+([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 880][/us/stat/68A/880]; [Pub. L. 89–354, § 1][/us/pl/89/354/s1], Feb. 2, 1966, [80 Stat. 5][/us/stat/80/5]; [Pub. L. 91–172, title IX][/us/pl/91/172], §§ 954, 960(c), (d), Dec. 30, 1969, [83 Stat. 730][/us/stat/83/730], 734; [Pub. L. 92–41, § 4(a)][/us/pl/92/41/s4/a], July 1, 1971, [85 Stat. 99][/us/stat/85/99]; [Pub. L. 95–472, § 1][/us/pl/95/472/s1], Oct. 17, 1978, [92 Stat. 1332][/us/stat/92/1332]; [Pub. L. 97–362, title I, § 106(d)][/us/pl/97/362/s106/d], Oct. 25, 1982, [96 Stat. 1730][/us/stat/96/1730]; [Pub. L. 99–514, title XV, § 1557(a)][/us/pl/99/514/s1557/a], (b), (d), Oct. 22, 1986, [100 Stat. 2756][/us/stat/100/2756], 2757; [Pub. L. 100–647, title I, § 1015(k)(1)][/us/pl/100/647/s1015/k/1], Nov. 10, 1988, [102 Stat. 3571][/us/stat/102/3571]; [Pub. L. 109–280, title VIII, § 853(a)][/us/pl/109/280/s853/a], Aug. 17, 2006, [120 Stat. 1016][/us/stat/120/1016]; [Pub. L. 113–295, div. A, title II, § 221(a)(115)][/us/pl/113/295/s221/a/115], Dec. 19, 2014, [128 Stat. 4054][/us/stat/128/4054].)
 
  __Amendments__ 
+
+    2014—Subsec. (i)(3)(B)(ii). [Pub. L. 113–295][/us/pl/113/295] substituted “at 3 percent per annum” for “at 4 percent per annum to December 31, 1947, and 3 percent per annum thereafter”.
 
     2006—Subsec. (j). [Pub. L. 109–280][/us/pl/109/280] added subsec. (j).
 
@@ -354,6 +356,10 @@
     Subsec. (h). [Pub. L. 91–172, § 954(d)][/us/pl/91/172/s954/d], added subsec. (h).
 
     1966—Subsec. (d). [Pub. L. 89–354][/us/pl/89/354] substituted “during any period at a rate which bears the same ratio to the rate of the salary payable to a judge during such period” for “at a rate which bears the same ratio to the rate of the salary payable to him as judge at the time he ceases to be a judge” and “the rate of such salary for such period” for “the rate of such salary” wherever appearing.
+
+ __Effective Date of 2014 Amendment__ 
+
+    Amendment by [Pub. L. 113–295][/us/pl/113/295] effective Dec. 19, 2014, subject to a savings provision, see [section 221(b) of Pub. L. 113–295][/us/pl/113/295/s221/b], set out as a note under [section 1 of this title][/us/usc/t26/s1].
 
  __Effective Date of 2006 Amendment__ 
 
@@ -456,6 +462,9 @@
 [/us/stat/102/3571]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3571
 [/us/pl/109/280/s853/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280%2Fs853%2Fa
 [/us/stat/120/1016]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1016
+[/us/pl/113/295/s221/a/115]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs221%2Fa%2F115
+[/us/stat/128/4054]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F4054
+[/us/pl/113/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295
 [/us/pl/109/280]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280
 [/us/pl/100/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647
 [/us/pl/99/514/s1557/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1557%2Fd%2F1
@@ -479,6 +488,9 @@
 [/us/pl/91/172/s954/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F172%2Fs954%2Fc
 [/us/pl/91/172/s954/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F172%2Fs954%2Fd
 [/us/pl/89/354]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F354
+[/us/pl/113/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295
+[/us/pl/113/295/s221/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs221%2Fb
+[/us/usc/t26/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs1
 [/us/pl/109/280/s853/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280%2Fs853%2Fb
 [/us/stat/120/1017]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1017
 [/us/pl/100/647/s1015/k/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs1015%2Fk%2F2

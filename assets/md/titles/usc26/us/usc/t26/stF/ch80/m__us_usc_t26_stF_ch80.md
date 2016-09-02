@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t26/stF/ch79/m__us_usc_t26_s7704.md) | [Next](./../../../../..//us/usc/t26/stF/ch80/schA/m__us_usc_t26_stF_ch80_schA.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2FstF%2Fch80)
+[Previous](./../../../../..//us/usc/t26/stF/ch79/m__us_usc_t26_s7705.md) | [Next](./../../../../..//us/usc/t26/stF/ch80/schA/m__us_usc_t26_stF_ch80_schA.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2FstF%2Fch80)
 
 ### CHAPTER 80—GENERAL RULES
 
@@ -61,7 +61,7 @@
 
 ----------
 
-[Previous](./../../../../..//us/usc/t26/stF/ch79/m__us_usc_t26_s7704.md) | [Next](./../../../../..//us/usc/t26/stF/ch80/schA/m__us_usc_t26_stF_ch80_schA.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2FstF%2Fch80)
+[Previous](./../../../../..//us/usc/t26/stF/ch79/m__us_usc_t26_s7705.md) | [Next](./../../../../..//us/usc/t26/stF/ch80/schA/m__us_usc_t26_stF_ch80_schA.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2FstF%2Fch80)
 
 ----------
 ----------

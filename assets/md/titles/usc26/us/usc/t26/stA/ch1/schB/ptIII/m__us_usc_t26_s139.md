@@ -39,7 +39,7 @@
 
         (1) a disaster which results from a terroristic or military action (as defined in section 692(c)(2)),
 
-        (2) federally  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be preceded by “a”. </sup></sup>  declared disaster (as defined by section 165(h)(3)(C)(i)),
+        (2) federally  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be preceded by “a”. </sup></sup>  declared disaster (as defined by section 165(h)(3)(C)(i)), <sup>\[2\]</sup>  <sup><sup> 2 See References in Text note below. </sup></sup> 
 
         (3) a disaster which results from an accident involving a common carrier, or from any other event, which is determined by the Secretary to be of a catastrophic nature, or
 
@@ -78,6 +78,8 @@
 (Added [Pub. L. 107–134, title I, § 111(a)][/us/pl/107/134/s111/a], Jan. 23, 2002, [115 Stat. 2432][/us/stat/115/2432]; amended [Pub. L. 109–7, § 1(a)][/us/pl/109/7/s1/a], Apr. 15, 2005, [119 Stat. 21][/us/stat/119/21]; [Pub. L. 110–343, div. C, title VII, § 706(a)(2)(D)(iv)][/us/pl/110/343/s706/a/2/D/iv], Oct. 3, 2008, [122 Stat. 3922][/us/stat/122/3922].)
 
  __References in Text__ 
+
+    Par. (3) of section 165(h), referred to in subsec. (c)(2), was repealed by [Pub. L. 113–295, div. A, title II, § 221(a)(27)(A)][/us/pl/113/295/s221/a/27/A], Dec. 19, 2014, [128 Stat. 4040][/us/stat/128/4040]. However, the term “federally declared disaster” is defined elsewhere in that section.
 
     Section 406 of the Air Transportation Safety and System Stabilization Act, referred to in subsec. (f), is [section 406 of Pub. L. 107–42][/us/pl/107/42/s406], which is set out as a note under [section 40101 of Title 49][/us/usc/t49/s40101], Transportation.
 
@@ -130,6 +132,8 @@
 [/us/stat/119/21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F21
 [/us/pl/110/343/s706/a/2/D/iv]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F343%2Fs706%2Fa%2F2%2FD%2Fiv
 [/us/stat/122/3922]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3922
+[/us/pl/113/295/s221/a/27/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs221%2Fa%2F27%2FA
+[/us/stat/128/4040]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F4040
 [/us/pl/107/42/s406]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F42%2Fs406
 [/us/usc/t49/s40101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs40101
 [/us/pl/93/288]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F288

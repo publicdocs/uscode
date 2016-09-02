@@ -153,17 +153,9 @@
 
   <tr>
 
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs6428" data-uslm-ref="/us/usc/t26/s6428">6428.</a>  </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs6428" data-uslm-ref="/us/usc/t26/s6428">6428</a>, <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs6429" data-uslm-ref="/us/usc/t26/s6429">6429.</a>  </td>
 
-    <td> 2008 recovery rebates for individuals.  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs6429" data-uslm-ref="/us/usc/t26/s6429">6429.</a>  </td>
-
-    <td> Advance payment of portion of increased child credit for 2003.  </td>
+    <td> Repealed.]  </td>
 
   </tr>
 
@@ -194,6 +186,8 @@
 </table>
 
  __Amendments__ 
+
+    2014—[Pub. L. 113–295, div. A, title II, § 221(a)(112)(A)][/us/pl/113/295/s221/a/112/A], (113), Dec. 19, 2014, [128 Stat. 4054][/us/stat/128/4054], struck out item 6428 “2008 recovery rebates for individuals” and item 6429 “Advance payment of portion of increased child credit for 2003”.
 
     2009—[Pub. L. 111–5, div. B, title I, § 1531(c)(7)][/us/pl/111/5/s1531/c/7], title III, § 3001(a)(12)(C), Feb. 17, 2009, [123 Stat. 360][/us/stat/123/360], 463, added items 6431 and 6432.
 
@@ -254,6 +248,8 @@
 ----------
 ----------
 
+[/us/pl/113/295/s221/a/112/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs221%2Fa%2F112%2FA
+[/us/stat/128/4054]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F4054
 [/us/pl/111/5/s1531/c/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5%2Fs1531%2Fc%2F7
 [/us/stat/123/360]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F360
 [/us/pl/110/185/s101/f/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F185%2Fs101%2Ff%2F3

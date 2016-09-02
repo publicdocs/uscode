@@ -17,7 +17,7 @@
 
     (a) __General rule__ 
 
-        In the case of a social club or other membership organization which is operated primarily to furnish services or goods to members and which is not exempt from taxation, deductions for the taxable year attributable to furnishing services, insurance, goods, or other items of value to members shall be allowed only to the extent of income derived during such year from members or transactions with members (including income derived during such year from institutes and trade shows which are primarily for the education of members). If for any taxable year such deductions exceed such income, the excess shall be treated as a deduction attributable to furnishing services, insurance, goods, or other items of value to members paid or incurred in the succeeding taxable year. The deductions provided by sections 243, 244, and 245 (relating to dividends received by corporations) shall not be allowed to any organization to which this section applies for the taxable year.
+        In the case of a social club or other membership organization which is operated primarily to furnish services or goods to members and which is not exempt from taxation, deductions for the taxable year attributable to furnishing services, insurance, goods, or other items of value to members shall be allowed only to the extent of income derived during such year from members or transactions with members (including income derived during such year from institutes and trade shows which are primarily for the education of members). If for any taxable year such deductions exceed such income, the excess shall be treated as a deduction attributable to furnishing services, insurance, goods, or other items of value to members paid or incurred in the succeeding taxable year. The deductions provided by sections 243 and 245 (relating to dividends received by corporations) shall not be allowed to any organization to which this section applies for the taxable year.
 
     (b) __Exceptions__ 
 
@@ -31,7 +31,7 @@
 
         (4) which is engaged primarily in the gathering and distribution of news to its members for publication.
 
-(Added [Pub. L. 91–172, title I, § 121(b)(3)(A)][/us/pl/91/172/s121/b/3/A], Dec. 30, 1969, [83 Stat. 540][/us/stat/83/540]; amended [Pub. L. 94–568, § 1(c)][/us/pl/94/568/s1/c], Oct. 20, 1976, [90 Stat. 2697][/us/stat/90/2697]; [Pub. L. 99–514, title XVI, § 1604(a)][/us/pl/99/514/s1604/a], Oct. 22, 1986, [100 Stat. 2769][/us/stat/100/2769].)
+(Added [Pub. L. 91–172, title I, § 121(b)(3)(A)][/us/pl/91/172/s121/b/3/A], Dec. 30, 1969, [83 Stat. 540][/us/stat/83/540]; amended [Pub. L. 94–568, § 1(c)][/us/pl/94/568/s1/c], Oct. 20, 1976, [90 Stat. 2697][/us/stat/90/2697]; [Pub. L. 99–514, title XVI, § 1604(a)][/us/pl/99/514/s1604/a], Oct. 22, 1986, [100 Stat. 2769][/us/stat/100/2769]; [Pub. L. 113–295, div. A, title II, § 221(a)(41)(G)][/us/pl/113/295/s221/a/41/G], Dec. 19, 2014, [128 Stat. 4044][/us/stat/128/4044].)
 
  __References in Text__ 
 
@@ -41,9 +41,17 @@
 
  __Amendments__ 
 
+    2014—Subsec. (a). [Pub. L. 113–295][/us/pl/113/295] struck out “, 244,” after “sections 243”.
+
     1986—Subsec. (b)(4). [Pub. L. 99–514][/us/pl/99/514] added par. (4).
 
     1976—Subsec. (a). [Pub. L. 94–568][/us/pl/94/568] provided that the deductions provided by sections 243, 244, and 245 (relating to dividends received by corporations) shall not be allowed to any organization to which this section applies for the taxable year.
+
+ __Effective Date of 2014 Amendment__ 
+
+    Except as otherwise provided in [section 221(a) of Pub. L. 113–295][/us/pl/113/295/s221/a], amendment by [Pub. L. 113–295][/us/pl/113/295] effective Dec. 19, 2014, subject to a savings provision, see [section 221(b) of Pub. L. 113–295][/us/pl/113/295/s221/b], set out as a note under [section 1 of this title][/us/usc/t26/s1].
+
+    Amendment by [Pub. L. 113–295][/us/pl/113/295] not applicable to preferred stock issued before Oct. 1, 1942 (determined in the same manner as under [section 247 of this title][/us/usc/t26/s247] as in effect before its repeal by [Pub. L. 113–295][/us/pl/113/295]), see [section 221(a)(41)(K) of Pub. L. 113–295][/us/pl/113/295/s221/a/41/K], set out as a note under [section 172 of this title][/us/usc/t26/s172].
 
  __Effective Date of 1986 Amendment__ 
 
@@ -72,14 +80,26 @@
 [/us/stat/90/2697]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2697
 [/us/pl/99/514/s1604/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1604%2Fa
 [/us/stat/100/2769]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2769
+[/us/pl/113/295/s221/a/41/G]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs221%2Fa%2F41%2FG
+[/us/stat/128/4044]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F4044
 [/us/act/1934-06-06/ch404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-06%2Fch404
 [/us/stat/48/881]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F881
 [/us/usc/t15/s78a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs78a
 [/us/act/1922-09-21/ch369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1922-09-21%2Fch369
 [/us/stat/42/998]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F42%2F998
 [/us/usc/t7/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1
+[/us/pl/113/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295
 [/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
 [/us/pl/94/568]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F568
+[/us/pl/113/295/s221/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs221%2Fa
+[/us/pl/113/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295
+[/us/pl/113/295/s221/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs221%2Fb
+[/us/usc/t26/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs1
+[/us/pl/113/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295
+[/us/usc/t26/s247]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs247
+[/us/pl/113/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295
+[/us/pl/113/295/s221/a/41/K]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs221%2Fa%2F41%2FK
+[/us/usc/t26/s172]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs172
 [/us/pl/99/514/s1604/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1604%2Fb
 [/us/stat/100/2769]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2769
 [/us/pl/94/568]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F568

@@ -35,7 +35,7 @@
 
             (A) __In general__ 
 
-            The deductions provided by sections 243, 244, and 245 (as modified by subparagraph (B))—
+            The deductions provided by sections 243 and 245 (as modified by subparagraph (B))—
 
                 (i) for 100 percent dividends received, and
 
@@ -43,13 +43,13 @@
 
             (B) __Application of section 246(b)__ 
 
-            In applying section 246(b) (relating to limitation on aggregate amount of deductions for dividends received) for purposes of subparagraph (A), the limit on the aggregate amount of the deductions allowed by sections 243(a)(1), 244(a), and 245 shall be the percentage determined under section 246(b)(3) of the life insurance company taxable income (and such limitation shall be applied as provided in section 246(b)(3)), computed without regard to—
+            In applying section 246(b) (relating to limitation on aggregate amount of deductions for dividends received) for purposes of subparagraph (A), the limit on the aggregate amount of the deductions allowed by sections 243(a)(1) and 245 shall be the percentage determined under section 246(b)(3) of the life insurance company taxable income (and such limitation shall be applied as provided in section 246(b)(3)), computed without regard to—
 
                 (i) the small life insurance company deduction,
 
                 (ii) the operations loss deduction provided by section 810,
 
-                (iii) the deductions allowed by sections 243(a)(1), 244(a), and 245, and
+                (iii) the deductions allowed by sections 243(a)(1) and 245, and
 
                 (iv) any capital loss carryback to the taxable year under section 1212(a)(1),
 
@@ -61,7 +61,7 @@
 
                 (i) __In general__ 
 
-                    Except as provided in clause (ii), the term “100 percent dividend” means any dividend if the percentage used for purposes of determining the deduction allowable under section 243, 244, or 245(b) is 100 percent.
+                    Except as provided in clause (ii), the term “100 percent dividend” means any dividend if the percentage used for purposes of determining the deduction allowable under section 243 or 245(b) is 100 percent.
 
                 (ii) __Treatment of dividends from noninsurance companies__ 
 
@@ -77,7 +77,7 @@
 
                     (II) the receiving company’s share determined under section 812 for its taxable year in which the dividend is received or accrued,
 
-                 the deduction allowed under section 243, 244, or 245(b) (as the case may be) shall be reduced as provided in clause (ii).
+                 the deduction allowed under section 243 or 245(b) (as the case may be) shall be reduced as provided in clause (ii).
 
                 (ii) __Amount of reduction__ 
 
@@ -193,9 +193,9 @@
 
         (5) __Dividends received deduction__ 
 
-            Except as provided in subsection (a)(4), the deductions for dividends received provided by sections 243, 244, and 245 shall not be allowed.
+            Except as provided in subsection (a)(4), the deductions for dividends received provided by sections 243 and 245 shall not be allowed.
 
-(Added [Pub. L. 98–369, div. A, title II, § 211(a)][/us/pl/98/369/s211/a], July 18, 1984, [98 Stat. 722][/us/stat/98/722]; amended [Pub. L. 99–514, title VI, § 611(a)(5)][/us/pl/99/514/s611/a/5], title VIII, § 805(c)(6), title X, § 1011(b)(4), title XVIII, § 1821(p), Oct. 22, 1986, [100 Stat. 2249][/us/stat/100/2249], 2362, 2389, 2842; [Pub. L. 100–203, title X, § 10221(c)(2)][/us/pl/100/203/s10221/c/2], Dec. 22, 1987, [101 Stat. 1330–409][/us/stat/101/1330-409]; [Pub. L. 104–188, title I, § 1702(h)(3)][/us/pl/104/188/s1702/h/3], Aug. 20, 1996, [110 Stat. 1873][/us/stat/110/1873]; [Pub. L. 105–34, title X, § 1084(b)(1)][/us/pl/105/34/s1084/b/1], Aug. 5, 1997, [111 Stat. 954][/us/stat/111/954].)
+(Added [Pub. L. 98–369, div. A, title II, § 211(a)][/us/pl/98/369/s211/a], July 18, 1984, [98 Stat. 722][/us/stat/98/722]; amended [Pub. L. 99–514, title VI, § 611(a)(5)][/us/pl/99/514/s611/a/5], title VIII, § 805(c)(6), title X, § 1011(b)(4), title XVIII, § 1821(p), Oct. 22, 1986, [100 Stat. 2249][/us/stat/100/2249], 2362, 2389, 2842; [Pub. L. 100–203, title X, § 10221(c)(2)][/us/pl/100/203/s10221/c/2], Dec. 22, 1987, [101 Stat. 1330–409][/us/stat/101/1330-409]; [Pub. L. 104–188, title I, § 1702(h)(3)][/us/pl/104/188/s1702/h/3], Aug. 20, 1996, [110 Stat. 1873][/us/stat/110/1873]; [Pub. L. 105–34, title X, § 1084(b)(1)][/us/pl/105/34/s1084/b/1], Aug. 5, 1997, [111 Stat. 954][/us/stat/111/954]; [Pub. L. 113–295, div. A, title II, § 221(a)(41)(G)][/us/pl/113/295/s221/a/41/G], (I), Dec. 19, 2014, [128 Stat. 4044][/us/stat/128/4044].)
 
  __Codification__ 
 
@@ -208,6 +208,12 @@
     Another prior section 805, acts [Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 258][/us/stat/68A/258]; [Mar. 13, 1956, ch. 83, § 2][/us/act/1956-03-13/ch83/s2], [70 Stat. 43][/us/stat/70/43], authorized a special interest deduction, prior to the general revision of this part by [Pub. L. 86–69, § 2(a)][/us/pl/86/69/s2/a].
 
  __Amendments__ 
+
+    2014—Subsec. (a)(4)(A). [Pub. L. 113–295, § 221(a)(41)(G)][/us/pl/113/295/s221/a/41/G], struck out “, 244,” after “sections 243” in introductory provisions.
+
+    Subsec. (a)(4)(B). [Pub. L. 113–295, § 221(a)(41)(I)][/us/pl/113/295/s221/a/41/I], struck out “, 244(a),” after “sections 243(a)(1)” in introductory provisions and in cl. (iii).
+
+    Subsecs. (a)(4)(C)(i), (D)(i), (b)(5). [Pub. L. 113–295, § 221(a)(41)(G)][/us/pl/113/295/s221/a/41/G], struck out “, 244,” wherever appearing.
 
     1997—Subsec. (a)(4)(C)(ii). [Pub. L. 105–34, § 1084(b)(1)(A)][/us/pl/105/34/s1084/b/1/A], inserted “, or out of the increase for the taxable year in policy cash values (within the meaning of subparagraph (F)) of life insurance policies and annuity and endowment contracts to which section 264(f) applies,” after “tax-exempt interest”.
 
@@ -230,6 +236,12 @@
     Subsec. (b)(2)(A)(iii). [Pub. L. 99–514, § 1011(b)(4)][/us/pl/99/514/s1011/b/4], which directed that subsec. (b)(3)(A)(iii) be amended by striking out “the special life insurance company deduction and” before “the small life”, was executed to subsec. (b)(2)(A)(iii) to reflect the probable intent of Congress and the redesignation of subsec. (b)(3) as (b)(2) by [Pub. L. 99–514, § 805(c)(6)][/us/pl/99/514/s805/c/6].
 
     Subsec. (b)(3) to (6). [Pub. L. 99–514, § 805(c)(6)][/us/pl/99/514/s805/c/6], redesignated pars. (3) to (6) as (2) to (5), respectively.
+
+ __Effective Date of 2014 Amendment__ 
+
+    Except as otherwise provided in [section 221(a) of Pub. L. 113–295][/us/pl/113/295/s221/a], amendment by [Pub. L. 113–295][/us/pl/113/295] effective Dec. 19, 2014, subject to a savings provision, see [section 221(b) of Pub. L. 113–295][/us/pl/113/295/s221/b], set out as a note under [section 1 of this title][/us/usc/t26/s1].
+
+    Amendment by [Pub. L. 113–295][/us/pl/113/295] not applicable to preferred stock issued before Oct. 1, 1942 (determined in the same manner as under [section 247 of this title][/us/usc/t26/s247] as in effect before its repeal by [Pub. L. 113–295][/us/pl/113/295]), see [section 221(a)(41)(K) of Pub. L. 113–295][/us/pl/113/295/s221/a/41/K], set out as a note under [section 172 of this title][/us/usc/t26/s172].
 
  __Effective Date of 1997 Amendment__ 
 
@@ -278,6 +290,8 @@
 [/us/stat/110/1873]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1873
 [/us/pl/105/34/s1084/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2Fs1084%2Fb%2F1
 [/us/stat/111/954]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F954
+[/us/pl/113/295/s221/a/41/G]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs221%2Fa%2F41%2FG
+[/us/stat/128/4044]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F4044
 [/us/pl/105/34/s1084/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2Fs1084%2Fb
 [/us/pl/86/69/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F69%2Fs2%2Fa
 [/us/stat/73/118]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F73%2F118
@@ -303,6 +317,9 @@
 [/us/act/1956-03-13/ch83/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-03-13%2Fch83%2Fs2
 [/us/stat/70/43]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70%2F43
 [/us/pl/86/69/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F69%2Fs2%2Fa
+[/us/pl/113/295/s221/a/41/G]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs221%2Fa%2F41%2FG
+[/us/pl/113/295/s221/a/41/I]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs221%2Fa%2F41%2FI
+[/us/pl/113/295/s221/a/41/G]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs221%2Fa%2F41%2FG
 [/us/pl/105/34/s1084/b/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2Fs1084%2Fb%2F1%2FA
 [/us/pl/105/34/s1084/b/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2Fs1084%2Fb%2F1%2FB
 [/us/pl/105/34/s1084/b/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2Fs1084%2Fb%2F1%2FC
@@ -315,6 +332,15 @@
 [/us/pl/99/514/s1011/b/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1011%2Fb%2F4
 [/us/pl/99/514/s805/c/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs805%2Fc%2F6
 [/us/pl/99/514/s805/c/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs805%2Fc%2F6
+[/us/pl/113/295/s221/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs221%2Fa
+[/us/pl/113/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295
+[/us/pl/113/295/s221/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs221%2Fb
+[/us/usc/t26/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs1
+[/us/pl/113/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295
+[/us/usc/t26/s247]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs247
+[/us/pl/113/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295
+[/us/pl/113/295/s221/a/41/K]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs221%2Fa%2F41%2FK
+[/us/usc/t26/s172]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs172
 [/us/pl/105/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34
 [/us/pl/105/34/s1084/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2Fs1084%2Fd
 [/us/usc/t26/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs101

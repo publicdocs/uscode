@@ -193,19 +193,19 @@
 
             For purposes of paragraph (1), the term “exempt status application materials” means the application for recognition of exemption under section 501 and any papers submitted in support of such application and any letter or other document issued by the Internal Revenue Service with respect to such application.
 
-        (6)  __ <sup>\[__  __1__  __\]</sup> __  __ <sup><sup> __  __1__  __ So in original. Three pars. (6) have been enacted.__  __ </sup></sup> __  __Application to nonexempt charitable trusts and nonexempt private foundations__ 
-
-            The organizations referred to in paragraphs (1) and (2) of section 6033(d) shall comply with the requirements of this subsection relating to annual returns filed under section 6033 in the same manner as the organizations referred to in paragraph (1).
-
-        (6)  __1__  __Notice materials__ 
+        (6) __Notice materials__ 
 
             For purposes of paragraph (1), the term “notice materials” means the notice of status filed under section 527(i) and any papers submitted in support of such notice and any letter or other document issued by the Internal Revenue Service with respect to such notice.
 
-        (6)  __1__  __Disclosure of reports by Internal Revenue Service__ 
+        (7) __Disclosure of reports by Internal Revenue Service__ 
 
             Any report filed by an organization under section 527(j) (relating to required disclosure of expenditures and contributions) shall be made available to the public at such times and in such places as the Secretary may prescribe.
 
-([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 755][/us/stat/68A/755]; [Pub. L. 85–866, title I, § 75(a)][/us/pl/85/866/s75/a], Sept. 2, 1958, [72 Stat. 1660][/us/stat/72/1660]; [Pub. L. 91–172, title I, § 101(e)(1)][/us/pl/91/172/s101/e/1]–(3), (j)(36), Dec. 30, 1969, [83 Stat. 523][/us/stat/83/523], 530; [Pub. L. 93–406, title II, § 1022(g)(1)][/us/pl/93/406/s1022/g/1]–(3), Sept. 2, 1974, [88 Stat. 940][/us/stat/88/940], 941; [Pub. L. 94–455, title XII, § 1201(d)(1)][/us/pl/94/455/s1201/d/1], title XIII, § 1307(d)(2)(B), title XIX, § 1906(b)(13)(A), Oct. 4, 1976, [90 Stat. 1667][/us/stat/90/1667], 1727, 1834; [Pub. L. 95–227, § 4(e)][/us/pl/95/227/s4/e], Feb. 10, 1978, [92 Stat. 23][/us/stat/92/23]; [Pub. L. 95–488, § 1(d)][/us/pl/95/488/s1/d], Oct. 20, 1978, [92 Stat. 1638][/us/stat/92/1638]; [Pub. L. 95–600, title VII, § 703(m)][/us/pl/95/600/s703/m], Nov. 6, 1978, [92 Stat. 2943][/us/stat/92/2943]; [Pub. L. 96–603, § 1(b)][/us/pl/96/603/s1/b], (d)(3), Dec. 28, 1980, [94 Stat. 3503][/us/stat/94/3503], 3504; [Pub. L. 98–369, div. A, title III, § 306(b)][/us/pl/98/369/s306/b], title IV, § 491(d)(49), July 18, 1984, [98 Stat. 784][/us/stat/98/784], 852; [Pub. L. 100–203, title X, § 10702(a)][/us/pl/100/203/s10702/a], Dec. 22, 1987, [101 Stat. 1330–459][/us/stat/101/1330-459]; [Pub. L. 104–168, title XIII, § 1313(a)][/us/pl/104/168/s1313/a], July 30, 1996, [110 Stat. 1479][/us/stat/110/1479]; [Pub. L. 105–206, title VI, § 6019(a)][/us/pl/105/206/s6019/a], (b), July 22, 1998, [112 Stat. 823][/us/stat/112/823]; [Pub. L. 105–277, div. J, title I, § 1004(b)(1)][/us/pl/105/277/s1004/b/1], Oct. 21, 1998, [112 Stat. 2681–888][/us/stat/112/2681-888]; [Pub. L. 106–230][/us/pl/106/230], §§ 1(b), 2(b), 3(b), July 1, 2000, [114 Stat. 478][/us/stat/114/478], 481, 482; [Pub. L. 106–554, § 1(a)(7)][/us/pl/106/554/s1/a/7] \[title III, § 312(a)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–640; [Pub. L. 107–276, § 3(b)][/us/pl/107/276/s3/b], Nov. 2, 2002, [116 Stat. 1931][/us/stat/116/1931]; [Pub. L. 109–280, title XII][/us/pl/109/280], §§ 1201(b)(3), 1224(a), (b)(4), 1225(a), Aug. 17, 2006, [120 Stat. 1066][/us/stat/120/1066], 1091, 1093; [Pub. L. 110–172, § 3(g)][/us/pl/110/172/s3/g], Dec. 29, 2007, [121 Stat. 2475][/us/stat/121/2475].)
+        (8) __Application to nonexempt charitable trusts and nonexempt private foundations__ 
+
+            The organizations referred to in paragraphs (1) and (2) of section 6033(d) shall comply with the requirements of this subsection relating to annual returns filed under section 6033 in the same manner as the organizations referred to in paragraph (1).
+
+([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 755][/us/stat/68A/755]; [Pub. L. 85–866, title I, § 75(a)][/us/pl/85/866/s75/a], Sept. 2, 1958, [72 Stat. 1660][/us/stat/72/1660]; [Pub. L. 91–172, title I, § 101(e)(1)][/us/pl/91/172/s101/e/1]–(3), (j)(36), Dec. 30, 1969, [83 Stat. 523][/us/stat/83/523], 530; [Pub. L. 93–406, title II, § 1022(g)(1)][/us/pl/93/406/s1022/g/1]–(3), Sept. 2, 1974, [88 Stat. 940][/us/stat/88/940], 941; [Pub. L. 94–455, title XII, § 1201(d)(1)][/us/pl/94/455/s1201/d/1], title XIII, § 1307(d)(2)(B), title XIX, § 1906(b)(13)(A), Oct. 4, 1976, [90 Stat. 1667][/us/stat/90/1667], 1727, 1834; [Pub. L. 95–227, § 4(e)][/us/pl/95/227/s4/e], Feb. 10, 1978, [92 Stat. 23][/us/stat/92/23]; [Pub. L. 95–488, § 1(d)][/us/pl/95/488/s1/d], Oct. 20, 1978, [92 Stat. 1638][/us/stat/92/1638]; [Pub. L. 95–600, title VII, § 703(m)][/us/pl/95/600/s703/m], Nov. 6, 1978, [92 Stat. 2943][/us/stat/92/2943]; [Pub. L. 96–603, § 1(b)][/us/pl/96/603/s1/b], (d)(3), Dec. 28, 1980, [94 Stat. 3503][/us/stat/94/3503], 3504; [Pub. L. 98–369, div. A, title III, § 306(b)][/us/pl/98/369/s306/b], title IV, § 491(d)(49), July 18, 1984, [98 Stat. 784][/us/stat/98/784], 852; [Pub. L. 100–203, title X, § 10702(a)][/us/pl/100/203/s10702/a], Dec. 22, 1987, [101 Stat. 1330–459][/us/stat/101/1330-459]; [Pub. L. 104–168, title XIII, § 1313(a)][/us/pl/104/168/s1313/a], July 30, 1996, [110 Stat. 1479][/us/stat/110/1479]; [Pub. L. 105–206, title VI, § 6019(a)][/us/pl/105/206/s6019/a], (b), July 22, 1998, [112 Stat. 823][/us/stat/112/823]; [Pub. L. 105–277, div. J, title I, § 1004(b)(1)][/us/pl/105/277/s1004/b/1], Oct. 21, 1998, [112 Stat. 2681–888][/us/stat/112/2681-888]; [Pub. L. 106–230][/us/pl/106/230], §§ 1(b), 2(b), 3(b), July 1, 2000, [114 Stat. 478][/us/stat/114/478], 481, 482; [Pub. L. 106–554, § 1(a)(7)][/us/pl/106/554/s1/a/7] \[title III, § 312(a)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–640; [Pub. L. 107–276, § 3(b)][/us/pl/107/276/s3/b], Nov. 2, 2002, [116 Stat. 1931][/us/stat/116/1931]; [Pub. L. 109–280, title XII][/us/pl/109/280], §§ 1201(b)(3), 1224(a), (b)(4), 1225(a), Aug. 17, 2006, [120 Stat. 1066][/us/stat/120/1066], 1091, 1093; [Pub. L. 110–172, § 3(g)][/us/pl/110/172/s3/g], Dec. 29, 2007, [121 Stat. 2475][/us/stat/121/2475]; [Pub. L. 113–295, div. A, title II, § 220(v)][/us/pl/113/295/s220/v], Dec. 19, 2014, [128 Stat. 4036][/us/stat/128/4036].)
 
  __References in Text__ 
 
@@ -216,6 +216,8 @@
     Sections 1201(b)(3), 1224(a), (b)(4), and 1225(a) of [Pub. L. 109–280][/us/pl/109/280], which directed the amendment of section 6104 without specifying the act to be amended, were executed to this section, which is section 6104 of the Internal Revenue Code of 1986, to reflect the probable intent of Congress. See 2006 Amendment notes below.
 
  __Amendments__ 
+
+    2014—Subsec. (d)(6) to (8). [Pub. L. 113–295][/us/pl/113/295] redesignated par. (6) relating to disclosure of reports by Internal Revenue Service and par. (6) relating to application to nonexempt charitable trusts and nonexempt private foundations as (7) and (8), respectively.
 
     2007—Subsec. (b). [Pub. L. 110–172, § 3(g)(1)][/us/pl/110/172/s3/g/1], struck out “information” after “annual” in heading and inserted last sentence.
 
@@ -480,7 +482,10 @@
 [/us/stat/120/1066]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1066
 [/us/pl/110/172/s3/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F172%2Fs3%2Fg
 [/us/stat/121/2475]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F2475
+[/us/pl/113/295/s220/v]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs220%2Fv
+[/us/stat/128/4036]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F4036
 [/us/pl/109/280]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280
+[/us/pl/113/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295
 [/us/pl/110/172/s3/g/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F172%2Fs3%2Fg%2F1
 [/us/pl/110/172/s3/g/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F172%2Fs3%2Fg%2F2
 [/us/pl/110/172/s3/g/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F172%2Fs3%2Fg%2F3

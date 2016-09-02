@@ -105,7 +105,7 @@
 
         (1) __Triennial test__ 
 
-            As of the end of the first plan year in which a plan is in critical status, as described in subsection 1 432(b)(2),,2 and at least every 3 plan years thereafter (unless the plan is no longer in critical status, as described in subsection 1 432(b)(2),),2 the plan sponsor shall compare the value of plan assets for that plan year with the total amount of benefit payments made under the plan for that plan year. Unless the plan sponsor determines that the value of plan assets exceeds 3 times the total amount of benefit payments, the plan sponsor shall determine whether the plan will be insolvent in any of the next 5 plan years. If the plan sponsor makes such a determination that the plan will be insolvent in any of the next 5 plan years, the plan sponsor shall make the comparison under this paragraph at least annually until the plan sponsor makes a determination that the plan will not be insolvent in any of the next 5 plan years.
+            As of the end of the first plan year in which a plan is in critical status, as described in subsection 1 432(b)(2),, <sup>\[2\]</sup>  <sup><sup> 2 So in original. </sup></sup>  and at least every 3 plan years thereafter (unless the plan is no longer in critical status, as described in subsection 1 432(b)(2),), <sup>\[2\]</sup>  the plan sponsor shall compare the value of plan assets for that plan year with the total amount of benefit payments made under the plan for that plan year. Unless the plan sponsor determines that the value of plan assets exceeds 3 times the total amount of benefit payments, the plan sponsor shall determine whether the plan will be insolvent in any of the next 5 plan years. If the plan sponsor makes such a determination that the plan will be insolvent in any of the next 5 plan years, the plan sponsor shall make the comparison under this paragraph at least annually until the plan sponsor makes a determination that the plan will not be insolvent in any of the next 5 plan years.
 
         (2) __Determination of insolvency__ 
 
@@ -113,7 +113,7 @@
 
         (3) __Determination of resource benefit level__ 
 
-            The plan sponsor of a plan in critical status, as described in subsection 1 432(b)(2),hall determine in writing for each insolvency year the resource benefit level and the level of basic benefits no later than 3 months before the insolvency year.
+            The plan sponsor of a plan in critical status, as described in subsection 1 432(b)(2), shall determine in writing for each insolvency year the resource benefit level and the level of basic benefits no later than 3 months before the insolvency year.
 
         (4) For purposes of this subsection, the value of plan assets shall be the value of the available plan assets determined under regulations prescribed by the Secretary of the Treasury.
 

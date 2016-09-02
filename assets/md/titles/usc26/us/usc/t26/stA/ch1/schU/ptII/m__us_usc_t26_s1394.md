@@ -125,11 +125,11 @@
 
             Paragraphs (1) and (2) shall not apply to any cessation resulting from bankruptcy.
 
-    (f) __Bonds for empowerment zones designated under section 1391(g)__ 
+    (f) __Bonds for empowerment zones__ 
 
         (1) __In general__ 
 
-        In the case of a new empowerment zone facility bond—
+        In the case of an empowerment zone facility bond—
 
             (A) such bond shall not be treated as a private activity bond for purposes of section 146, and
 
@@ -139,7 +139,7 @@
 
             (A) __In general__ 
 
-                Paragraph (1) shall apply to a new empowerment zone facility bond only if such bond is designated for purposes of this subsection by the local government which nominated the area to which such bond relates.
+                Paragraph (1) shall apply to an empowerment zone facility bond only if such bond is designated for purposes of this subsection by the local government which nominated the area to which such bond relates.
 
             (B) __Limitation on bonds designated__ 
 
@@ -173,7 +173,7 @@
 
             (B) in the case of obligations issued after December 31, 2001, all empowerment zones (other than the District of Columbia Enterprise Zone) were taken into account under sections 1397C and 1397D.
 
-(Added [Pub. L. 103–66, title XIII, § 13301(a)][/us/pl/103/66/s13301/a], Aug. 10, 1993, [107 Stat. 548][/us/stat/107/548]; amended [Pub. L. 104–188, title I, § 1703(n)(7)][/us/pl/104/188/s1703/n/7], Aug. 20, 1996, [110 Stat. 1877][/us/stat/110/1877]; [Pub. L. 105–34, title IX][/us/pl/105/34], §§ 953(a), 955(a), (b), Aug. 5, 1997, [111 Stat. 887][/us/stat/111/887], 889, 890; [Pub. L. 106–554, § 1(a)(7)][/us/pl/106/554/s1/a/7] \[title I, §§ 115(a), 116(b)(3), (4)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–601, 2763A–603; [Pub. L. 107–147, title IV, § 417(16)][/us/pl/107/147/s417/16], Mar. 9, 2002, [116 Stat. 56][/us/stat/116/56].)
+(Added [Pub. L. 103–66, title XIII, § 13301(a)][/us/pl/103/66/s13301/a], Aug. 10, 1993, [107 Stat. 548][/us/stat/107/548]; amended [Pub. L. 104–188, title I, § 1703(n)(7)][/us/pl/104/188/s1703/n/7], Aug. 20, 1996, [110 Stat. 1877][/us/stat/110/1877]; [Pub. L. 105–34, title IX][/us/pl/105/34], §§ 953(a), 955(a), (b), Aug. 5, 1997, [111 Stat. 887][/us/stat/111/887], 889, 890; [Pub. L. 106–554, § 1(a)(7)][/us/pl/106/554/s1/a/7] \[title I, §§ 115(a), 116(b)(3), (4)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–601, 2763A–603; [Pub. L. 107–147, title IV, § 417(16)][/us/pl/107/147/s417/16], Mar. 9, 2002, [116 Stat. 56][/us/stat/116/56]; [Pub. L. 113–295, div. A, title II, § 220][/us/pl/113/295/s220](o), (p), Dec. 19, 2014, [128 Stat. 4036][/us/stat/128/4036].)
 
  __Prior Provisions__ 
 
@@ -182,6 +182,10 @@
     A prior section 1395, added [Pub. L. 95–600, title VI, § 601(a)][/us/pl/95/600/s601/a], Nov. 6, 1978, [92 Stat. 2895][/us/stat/92/2895], related to adjustment to basis of stock of shareholders, prior to repeal by [Pub. L. 99–514, title XIII, § 1303(a)][/us/pl/99/514/s1303/a], Oct. 22, 1986, [100 Stat. 2658][/us/stat/100/2658].
 
  __Amendments__ 
+
+    2014—Subsec. (f). [Pub. L. 113–295, § 220][/us/pl/113/295/s220](o), struck out “designated under section 1391(g)” after “empowerment zones” in heading.
+
+    Subsec. (f)(1), (2)(A). [Pub. L. 113–295, § 220(p)][/us/pl/113/295/s220/p], substituted “an empowerment zone facility bond” for “a new empowerment zone facility bond”.
 
     2002—Subsec. (c)(2). [Pub. L. 107–147][/us/pl/107/147] substituted “paragraph (1)” for “subparagraph (A)”.
 
@@ -246,6 +250,8 @@
 [/us/stat/114/2763]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2763
 [/us/pl/107/147/s417/16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F147%2Fs417%2F16
 [/us/stat/116/56]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F56
+[/us/pl/113/295/s220]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs220
+[/us/stat/128/4036]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F4036
 [/us/pl/95/600/s601/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F600%2Fs601%2Fa
 [/us/stat/92/2895]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2895
 [/us/pl/96/595/s3/a/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F595%2Fs3%2Fa%2F6
@@ -256,6 +262,8 @@
 [/us/stat/92/2895]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2895
 [/us/pl/99/514/s1303/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1303%2Fa
 [/us/stat/100/2658]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2658
+[/us/pl/113/295/s220]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs220
+[/us/pl/113/295/s220/p]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs220%2Fp
 [/us/pl/107/147]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F147
 [/us/pl/106/554/s1/a/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F7
 [/us/pl/106/554/s1/a/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F7

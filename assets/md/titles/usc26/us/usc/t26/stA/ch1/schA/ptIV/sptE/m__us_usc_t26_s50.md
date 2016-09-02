@@ -129,7 +129,7 @@
 
             (E) __Special rules__ 
 
-                Rules similar to the rules of this paragraph shall apply in cases where qualified progress expenditures were taken into account under the rules referred to in section 48(b).
+                Rules similar to the rules of this paragraph shall apply in cases where qualified progress expenditures were taken into account under the rules referred to in section 48(b), 48A(b)(3), 48B(b)(3), 48C(b)(2), or 48D(b)(4).
 
         (3) __Carrybacks and carryovers adjusted__ 
 
@@ -277,7 +277,7 @@
 
         Paragraphs (1)(A), (2)(A), and (4) of the section 46(e) referred to in paragraph (1) of this subsection shall not apply to any taxable year beginning after December 31, 1995.
 
-(Added [Pub. L. 101–508, title XI, § 11813(a)][/us/pl/101/508/s11813/a], Nov. 5, 1990, [104 Stat. 1388–546][/us/stat/104/1388-546]; amended [Pub. L. 104–188, title I][/us/pl/104/188], §§ 1616(b)(1), 1702(h)(11), 1704(t)(29), Aug. 20, 1996, [110 Stat. 1856][/us/stat/110/1856], 1874, 1889; [Pub. L. 105–206, title VI, § 6004(g)(7)][/us/pl/105/206/s6004/g/7], July 22, 1998, [112 Stat. 796][/us/stat/112/796]; [Pub. L. 108–357, title III, § 322(d)(2)(D)][/us/pl/108/357/s322/d/2/D], Oct. 22, 2004, [118 Stat. 1475][/us/stat/118/1475]; [Pub. L. 109–135, title IV, § 412][/us/pl/109/135/s412](o), Dec. 21, 2005, [119 Stat. 2638][/us/stat/119/2638].)
+(Added [Pub. L. 101–508, title XI, § 11813(a)][/us/pl/101/508/s11813/a], Nov. 5, 1990, [104 Stat. 1388–546][/us/stat/104/1388-546]; amended [Pub. L. 104–188, title I][/us/pl/104/188], §§ 1616(b)(1), 1702(h)(11), 1704(t)(29), Aug. 20, 1996, [110 Stat. 1856][/us/stat/110/1856], 1874, 1889; [Pub. L. 105–206, title VI, § 6004(g)(7)][/us/pl/105/206/s6004/g/7], July 22, 1998, [112 Stat. 796][/us/stat/112/796]; [Pub. L. 108–357, title III, § 322(d)(2)(D)][/us/pl/108/357/s322/d/2/D], Oct. 22, 2004, [118 Stat. 1475][/us/stat/118/1475]; [Pub. L. 109–135, title IV, § 412][/us/pl/109/135/s412](o), Dec. 21, 2005, [119 Stat. 2638][/us/stat/119/2638]; [Pub. L. 113–295, div. A, title II, § 220(d)][/us/pl/113/295/s220/d], Dec. 19, 2014, [128 Stat. 4036][/us/stat/128/4036].)
 
  __References in Text__ 
 
@@ -288,6 +288,8 @@
     A prior section 50, [Pub. L. 92–178, title I, § 101(a)][/us/pl/92/178/s101/a], Dec. 10, 1971, [85 Stat. 498][/us/stat/85/498], related to restoration of credit for investment in certain depreciable property, prior to repeal by [Pub. L. 95–600, title III, § 312(c)(1)][/us/pl/95/600/s312/c/1], Nov. 6, 1978, [92 Stat. 2826][/us/stat/92/2826], applicable to taxable years ending after Dec. 31, 1978.
 
  __Amendments__ 
+
+    2014—Subsec. (a)(2)(E). [Pub. L. 113–295][/us/pl/113/295] inserted “, 48A(b)(3), 48B(b)(3), 48C(b)(2), or 48D(b)(4)” after “in section 48(b)”.
 
     2005—Subsec. (a)(2)(E). [Pub. L. 109–135][/us/pl/109/135] substituted “section 48(b)” for “section 48(a)(5)”.
 
@@ -358,11 +360,14 @@ Subsequent to repeal, [Pub. L. 101–239, title VII, § 7644(a)][/us/pl/101/23
 [/us/stat/118/1475]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1475
 [/us/pl/109/135/s412]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F135%2Fs412
 [/us/stat/119/2638]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F2638
+[/us/pl/113/295/s220/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs220%2Fd
+[/us/stat/128/4036]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F4036
 [/us/pl/101/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508
 [/us/pl/92/178/s101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F178%2Fs101%2Fa
 [/us/stat/85/498]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F85%2F498
 [/us/pl/95/600/s312/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F600%2Fs312%2Fc%2F1
 [/us/stat/92/2826]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2826
+[/us/pl/113/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295
 [/us/pl/109/135]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F135
 [/us/pl/108/357]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357
 [/us/pl/105/206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206

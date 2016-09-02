@@ -17,7 +17,7 @@
 
     (a) __Property acquired by issuance of stock or as paid-in surplus__ 
 
-    If property was acquired on or after June 22, 1954, by a corporation—
+    If property was acquired, <sup>\[1\]</sup>  <sup><sup> 1 So in original. The comma probably should not appear. </sup></sup>  by a corporation—
 
         (1) in connection with a transaction to which section 351 (relating to transfer of property to corporation controlled by transferor) applies, or
 
@@ -35,7 +35,7 @@
 
         Notwithstanding subsection (a)(2), if property other than money—
 
-            (A) is acquired by a corporation, on or after June 22, 1954, as a contribution to capital, and
+            (A) is acquired by a corporation as a contribution to capital, and
 
             (B) is not contributed by a shareholder as such,
 
@@ -45,7 +45,7 @@
 
         Notwithstanding subsection (a)(2), if money—
 
-            (A) is received by a corporation, on or after June 22, 1954, as a contribution to capital, and
+            (A) is received by a corporation as a contribution to capital, and
 
             (B) is not contributed by a shareholder as such,
 
@@ -119,9 +119,13 @@
 
                     Any election under clause (i) shall be made at such time and in such form and manner as the Secretary may prescribe, and, once made, shall be irrevocable.
 
-([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 118][/us/stat/68A/118]; [Pub. L. 90–621, § 2(b)][/us/pl/90/621/s2/b], Oct. 22, 1968, [82 Stat. 1311][/us/stat/82/1311]; [Pub. L. 94–455, title XIX, § 1906(b)(13)(A)][/us/pl/94/455/s1906/b/13/A], title XXI, § 2120(b), Oct. 4, 1976, [90 Stat. 1834][/us/stat/90/1834], 1913; [Pub. L. 99–514, title VIII, § 824(b)][/us/pl/99/514/s824/b], Oct. 22, 1986, [100 Stat. 2374][/us/stat/100/2374]; [Pub. L. 106–36, title III, § 3001(b)(2)][/us/pl/106/36/s3001/b/2], June 25, 1999, [113 Stat. 182][/us/stat/113/182]; [Pub. L. 108–357, title VIII, § 836(a)][/us/pl/108/357/s836/a], Oct. 22, 2004, [118 Stat. 1594][/us/stat/118/1594]; [Pub. L. 109–135, title IV, § 403(dd)(2)][/us/pl/109/135/s403/dd/2], Dec. 21, 2005, [119 Stat. 2631][/us/stat/119/2631].)
+([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 118][/us/stat/68A/118]; [Pub. L. 90–621, § 2(b)][/us/pl/90/621/s2/b], Oct. 22, 1968, [82 Stat. 1311][/us/stat/82/1311]; [Pub. L. 94–455, title XIX, § 1906(b)(13)(A)][/us/pl/94/455/s1906/b/13/A], title XXI, § 2120(b), Oct. 4, 1976, [90 Stat. 1834][/us/stat/90/1834], 1913; [Pub. L. 99–514, title VIII, § 824(b)][/us/pl/99/514/s824/b], Oct. 22, 1986, [100 Stat. 2374][/us/stat/100/2374]; [Pub. L. 106–36, title III, § 3001(b)(2)][/us/pl/106/36/s3001/b/2], June 25, 1999, [113 Stat. 182][/us/stat/113/182]; [Pub. L. 108–357, title VIII, § 836(a)][/us/pl/108/357/s836/a], Oct. 22, 2004, [118 Stat. 1594][/us/stat/118/1594]; [Pub. L. 109–135, title IV, § 403(dd)(2)][/us/pl/109/135/s403/dd/2], Dec. 21, 2005, [119 Stat. 2631][/us/stat/119/2631]; [Pub. L. 113–295, div. A, title II, § 221(a)(51)][/us/pl/113/295/s221/a/51], Dec. 19, 2014, [128 Stat. 4045][/us/stat/128/4045].)
 
  __Amendments__ 
+
+    2014—Subsec. (a). [Pub. L. 113–295, § 221(a)(51)][/us/pl/113/295/s221/a/51], struck out “on or after June 22, 1954” after “If property was acquired” in introductory provisions.
+
+    Subsec. (c)(1)(A), (2)(A). [Pub. L. 113–295, § 221(a)(51)][/us/pl/113/295/s221/a/51], struck out “, on or after June 22, 1954,” after “by a corporation”.
 
     2005—Subsec. (e)(2)(C)(ii). [Pub. L. 109–135][/us/pl/109/135] reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “An election under clause (i) shall be included with the return of tax for the taxable year in which the transaction occurred, shall be in such form and manner as the Secretary may prescribe, and, once made, shall be irrevocable.”
 
@@ -136,6 +140,10 @@
     Subsec. (c)(3). [Pub. L. 94–455, § 2120(b)][/us/pl/94/455/s2120/b], added par. (3).
 
     1968—Subsec. (b). [Pub. L. 90–621][/us/pl/90/621] substituted the exchange of stock or securities of the transferee (or of a corporation which is in control of the transferee) for the issuance of stock or securities of the transferee as the transaction rendering the subsection applicable.
+
+ __Effective Date of 2014 Amendment__ 
+
+    Amendment by [Pub. L. 113–295][/us/pl/113/295] effective Dec. 19, 2014, subject to a savings provision, see [section 221(b) of Pub. L. 113–295][/us/pl/113/295/s221/b], set out as a note under [section 1 of this title][/us/usc/t26/s1].
 
  __Effective Date of 2005 Amendment__ 
 
@@ -184,6 +192,10 @@
 [/us/stat/118/1594]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1594
 [/us/pl/109/135/s403/dd/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F135%2Fs403%2Fdd%2F2
 [/us/stat/119/2631]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F2631
+[/us/pl/113/295/s221/a/51]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs221%2Fa%2F51
+[/us/stat/128/4045]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F4045
+[/us/pl/113/295/s221/a/51]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs221%2Fa%2F51
+[/us/pl/113/295/s221/a/51]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs221%2Fa%2F51
 [/us/pl/109/135]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F135
 [/us/pl/108/357]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357
 [/us/pl/106/36]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F36
@@ -191,6 +203,9 @@
 [/us/pl/94/455/s1906/b/13/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1906%2Fb%2F13%2FA
 [/us/pl/94/455/s2120/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs2120%2Fb
 [/us/pl/90/621]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F621
+[/us/pl/113/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295
+[/us/pl/113/295/s221/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs221%2Fb
+[/us/usc/t26/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs1
 [/us/pl/109/135]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F135
 [/us/pl/108/357]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357
 [/us/pl/109/135/s403/nn]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F135%2Fs403%2Fnn

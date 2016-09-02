@@ -17,7 +17,7 @@
 
     (a) __General rule__ 
 
-    In the case of any dividend on debt-financed portfolio stock, there shall be substituted for the percentage which (but for this subsection) would be used in determining the amount of the deduction allowable under section 243, 244, or 245(a) a percentage equal to the product of—
+    In the case of any dividend on debt-financed portfolio stock, there shall be substituted for the percentage which (but for this subsection) would be used in determining the amount of the deduction allowable under section 243 or 245(a) a percentage equal to the product of—
 
         (1) 70 percent (80 percent in the case of any dividend from a 20-percent owned corporation as defined in section 243(c)(2)), and
 
@@ -27,7 +27,7 @@
 
     Subsection (a) shall not apply to—
 
-        (1) qualifying dividends (as defined in section 243(b) without regard to section 243(d)(4)), and
+        (1) qualifying dividends (as defined in section 243(b) without regard to section 243(d)(4)  <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup> ), and
 
         (2) dividends received by a small business investment company operating under the Small Business Investment Act of 1958.
 
@@ -117,21 +117,25 @@
 
     (e) __Reduction in dividends received deduction not to exceed allocable interest__ 
 
-        Under regulations prescribed by the Secretary, any reduction under this section in the amount allowable as a deduction under section 243, 244, or 245 with respect to any dividend shall not exceed the amount of any interest deduction (including any deductible short sale expense) allocable to such dividend.
+        Under regulations prescribed by the Secretary, any reduction under this section in the amount allowable as a deduction under section 243 or 245 with respect to any dividend shall not exceed the amount of any interest deduction (including any deductible short sale expense) allocable to such dividend.
 
     (f) __Regulations__ 
 
         The regulations prescribed for purposes of this section under section 7701(f) shall include regulations providing for the disallowance of interest deductions or other appropriate treatment (in lieu of reducing the dividend received deduction) where the obligor of the indebtedness is a person other than the person receiving the dividend.
 
-(Added [Pub. L. 98–369, div. A, title I, § 51(a)][/us/pl/98/369/s51/a], July 18, 1984, [98 Stat. 562][/us/stat/98/562]; amended [Pub. L. 99–514, title VI, § 611(a)(4)][/us/pl/99/514/s611/a/4], title XVIII, § 1804(a), Oct. 22, 1986, [100 Stat. 2249][/us/stat/100/2249], 2798; [Pub. L. 100–203, title X, § 10221(d)(2)][/us/pl/100/203/s10221/d/2], Dec. 22, 1987, [101 Stat. 1330–409][/us/stat/101/1330-409]; [Pub. L. 100–647, title I, § 1012][/us/pl/100/647/s1012](l)(1), Nov. 10, 1988, [102 Stat. 3513][/us/stat/102/3513]; [Pub. L. 108–311, title IV, § 408(a)(9)][/us/pl/108/311/s408/a/9], Oct. 4, 2004, [118 Stat. 1191][/us/stat/118/1191].)
+(Added [Pub. L. 98–369, div. A, title I, § 51(a)][/us/pl/98/369/s51/a], July 18, 1984, [98 Stat. 562][/us/stat/98/562]; amended [Pub. L. 99–514, title VI, § 611(a)(4)][/us/pl/99/514/s611/a/4], title XVIII, § 1804(a), Oct. 22, 1986, [100 Stat. 2249][/us/stat/100/2249], 2798; [Pub. L. 100–203, title X, § 10221(d)(2)][/us/pl/100/203/s10221/d/2], Dec. 22, 1987, [101 Stat. 1330–409][/us/stat/101/1330-409]; [Pub. L. 100–647, title I, § 1012][/us/pl/100/647/s1012](l)(1), Nov. 10, 1988, [102 Stat. 3513][/us/stat/102/3513]; [Pub. L. 108–311, title IV, § 408(a)(9)][/us/pl/108/311/s408/a/9], Oct. 4, 2004, [118 Stat. 1191][/us/stat/118/1191]; [Pub. L. 113–295, div. A, title II, § 221(a)(41)(F)][/us/pl/113/295/s221/a/41/F], Dec. 19, 2014, [128 Stat. 4044][/us/stat/128/4044].)
 
  __References in Text__ 
+
+    Section 243(d)(4), referred to in subsec. (b)(1), was repealed by [Pub. L. 113–295, div. A, title II, § 221(a)(41)(D)][/us/pl/113/295/s221/a/41/D], Dec. 19, 2014, [128 Stat. 4044][/us/stat/128/4044].
 
     The Small Business Investment Act of 1958, referred to in subsec. (b)(2), is [Pub. L. 85–699][/us/pl/85/699], Aug. 21, 1958, [72 Stat. 689][/us/stat/72/689], as amended, which is classified principally to chapter 14B (§ 661 et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under [section 661 of Title 15][/us/usc/t15/s661] and Tables.
 
     Section 2(a) of the Bank Holding Company Act of 1956, referred to in subsec. (c)(3)(B)(ii), is classified to [section 1841(a) of Title 12][/us/usc/t12/s1841/a], Banks and Banking.
 
  __Amendments__ 
+
+    2014—Subsecs. (a), (e). [Pub. L. 113–295][/us/pl/113/295] struck out “, 244,” after “section 243”.
 
     2004—Subsec. (b)(1). [Pub. L. 108–311][/us/pl/108/311] substituted “section 243(d)(4)” for “section 243(c)(4)”.
 
@@ -142,6 +146,12 @@
     1986—Subsec. (a). [Pub. L. 99–514, § 1804(a)][/us/pl/99/514/s1804/a], substituted “or 245(a)” for “or 245” and inserted “The preceding sentence shall be applied before any determination of a ratio under paragraph (1) or (2) of section 245(a).”
 
     Subsec. (a)(1). [Pub. L. 99–514, § 611(a)(4)][/us/pl/99/514/s611/a/4], substituted “80 percent” for “85 percent”.
+
+ __Effective Date of 2014 Amendment__ 
+
+    Except as otherwise provided in [section 221(a) of Pub. L. 113–295][/us/pl/113/295/s221/a], amendment by [Pub. L. 113–295][/us/pl/113/295] effective Dec. 19, 2014, subject to a savings provision, see [section 221(b) of Pub. L. 113–295][/us/pl/113/295/s221/b], set out as a note under [section 1 of this title][/us/usc/t26/s1].
+
+    Amendment by [Pub. L. 113–295][/us/pl/113/295] not applicable to preferred stock issued before Oct. 1, 1942 (determined in the same manner as under [section 247 of this title][/us/usc/t26/s247] as in effect before its repeal by [Pub. L. 113–295][/us/pl/113/295]), see [section 221(a)(41)(K) of Pub. L. 113–295][/us/pl/113/295/s221/a/41/K], set out as a note under [section 172 of this title][/us/usc/t26/s172].
 
  __Effective Date of 1988 Amendment__ 
 
@@ -184,15 +194,29 @@
 [/us/stat/102/3513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3513
 [/us/pl/108/311/s408/a/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F311%2Fs408%2Fa%2F9
 [/us/stat/118/1191]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1191
+[/us/pl/113/295/s221/a/41/F]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs221%2Fa%2F41%2FF
+[/us/stat/128/4044]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F4044
+[/us/pl/113/295/s221/a/41/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs221%2Fa%2F41%2FD
+[/us/stat/128/4044]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F4044
 [/us/pl/85/699]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F699
 [/us/stat/72/689]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F689
 [/us/usc/t15/s661]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs661
 [/us/usc/t12/s1841/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1841%2Fa
+[/us/pl/113/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295
 [/us/pl/108/311]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F311
 [/us/pl/100/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647
 [/us/pl/100/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203
 [/us/pl/99/514/s1804/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1804%2Fa
 [/us/pl/99/514/s611/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs611%2Fa%2F4
+[/us/pl/113/295/s221/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs221%2Fa
+[/us/pl/113/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295
+[/us/pl/113/295/s221/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs221%2Fb
+[/us/usc/t26/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs1
+[/us/pl/113/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295
+[/us/usc/t26/s247]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs247
+[/us/pl/113/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295
+[/us/pl/113/295/s221/a/41/K]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs221%2Fa%2F41%2FK
+[/us/usc/t26/s172]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs172
 [/us/pl/100/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647
 [/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
 [/us/pl/100/647/s1019/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs1019%2Fa

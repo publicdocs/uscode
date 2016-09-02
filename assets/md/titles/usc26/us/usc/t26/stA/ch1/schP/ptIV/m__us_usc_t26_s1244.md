@@ -55,7 +55,7 @@
 
             (C) __Nonapplication where deductions exceed gross income__ 
 
-                Paragraph (1)(C) shall not apply with respect to any corporation if, for the period taken into account for purposes of paragraph (1)(C), the amount of the deductions allowed by this chapter (other than by sections 172, 243, 244, and 245) exceeds the amount of gross income.
+                Paragraph (1)(C) shall not apply with respect to any corporation if, for the period taken into account for purposes of paragraph (1)(C), the amount of the deductions allowed by this chapter (other than by sections 172, 243, and 245) exceeds the amount of gross income.
 
         (3) __Small business corporation defined__ 
 
@@ -103,9 +103,11 @@
 
         The Secretary shall prescribe such regulations as may be necessary to carry out the purposes of this section.
 
-(Added [Pub. L. 85–866, title II, § 202(b)][/us/pl/85/866/s202/b], Sept. 2, 1958, [72 Stat. 1676][/us/stat/72/1676]; amended [Pub. L. 94–455, title XIX][/us/pl/94/455], §§ 1901(b)(1)(W), (3)(G), 1906(b)(13)(A), Oct. 4, 1976, [90 Stat. 1792][/us/stat/90/1792], 1793, 1834; [Pub. L. 95–600, title III, § 345(a)][/us/pl/95/600/s345/a]–(d), Nov. 6, 1978, [92 Stat. 2844][/us/stat/92/2844], 2845; [Pub. L. 98–369, div. A, title IV, § 481(a)][/us/pl/98/369/s481/a], July 18, 1984, [98 Stat. 847][/us/stat/98/847].)
+(Added [Pub. L. 85–866, title II, § 202(b)][/us/pl/85/866/s202/b], Sept. 2, 1958, [72 Stat. 1676][/us/stat/72/1676]; amended [Pub. L. 94–455, title XIX][/us/pl/94/455], §§ 1901(b)(1)(W), (3)(G), 1906(b)(13)(A), Oct. 4, 1976, [90 Stat. 1792][/us/stat/90/1792], 1793, 1834; [Pub. L. 95–600, title III, § 345(a)][/us/pl/95/600/s345/a]–(d), Nov. 6, 1978, [92 Stat. 2844][/us/stat/92/2844], 2845; [Pub. L. 98–369, div. A, title IV, § 481(a)][/us/pl/98/369/s481/a], July 18, 1984, [98 Stat. 847][/us/stat/98/847]; [Pub. L. 113–295, div. A, title II, § 221(a)(41)(H)][/us/pl/113/295/s221/a/41/H], Dec. 19, 2014, [128 Stat. 4044][/us/stat/128/4044].)
 
  __Amendments__ 
+
+    2014—Subsec. (c)(2)(C). [Pub. L. 113–295][/us/pl/113/295] struck out “244,” after “243,”.
 
     1984—Subsecs. (c)(1), (d)(2). [Pub. L. 98–369][/us/pl/98/369] substituted “stock in a” for “common stock in a”.
 
@@ -122,6 +124,12 @@
     Subsec. (d)(2). [Pub. L. 94–455, § 1906(b)(13)(A)][/us/pl/94/455/s1906/b/13/A], struck out “or his delegate” after “Secretary”.
 
     Subsec. (d)(3). [Pub. L. 94–455, § 1901(b)(3)(G)][/us/pl/94/455/s1901/b/3/G], substituted “an ordinary loss” for “a loss from the sale or exchange of an asset which is not a capital asset”.
+
+ __Effective Date of 2014 Amendment__ 
+
+    Amendment by [Pub. L. 113–295][/us/pl/113/295] not applicable to preferred stock issued before Oct. 1, 1942 (determined in the same manner as under [section 247 of this title][/us/usc/t26/s247] as in effect before its repeal by [Pub. L. 113–295][/us/pl/113/295]), see [section 221(a)(41)(K) of Pub. L. 113–295][/us/pl/113/295/s221/a/41/K], set out as a note under [section 172 of this title][/us/usc/t26/s172].
+
+    Except as otherwise provided in [section 221(a) of Pub. L. 113–295][/us/pl/113/295/s221/a], amendment by [Pub. L. 113–295][/us/pl/113/295] effective Dec. 19, 2014, subject to a savings provision, see [section 221(b) of Pub. L. 113–295][/us/pl/113/295/s221/b], set out as a note under [section 1 of this title][/us/usc/t26/s1].
 
  __Effective Date of 1984 Amendment__ 
 
@@ -164,6 +172,9 @@
 [/us/stat/92/2844]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2844
 [/us/pl/98/369/s481/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs481%2Fa
 [/us/stat/98/847]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F847
+[/us/pl/113/295/s221/a/41/H]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs221%2Fa%2F41%2FH
+[/us/stat/128/4044]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F4044
+[/us/pl/113/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295
 [/us/pl/98/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369
 [/us/pl/95/600/s345/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F600%2Fs345%2Fb
 [/us/pl/95/600/s345/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F600%2Fs345%2Fa
@@ -173,6 +184,15 @@
 [/us/usc/t26/s242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs242
 [/us/pl/94/455/s1906/b/13/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1906%2Fb%2F13%2FA
 [/us/pl/94/455/s1901/b/3/G]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1901%2Fb%2F3%2FG
+[/us/pl/113/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295
+[/us/usc/t26/s247]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs247
+[/us/pl/113/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295
+[/us/pl/113/295/s221/a/41/K]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs221%2Fa%2F41%2FK
+[/us/usc/t26/s172]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs172
+[/us/pl/113/295/s221/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs221%2Fa
+[/us/pl/113/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295
+[/us/pl/113/295/s221/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs221%2Fb
+[/us/usc/t26/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs1
 [/us/pl/98/369/s481/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs481%2Fb
 [/us/stat/98/847]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F847
 [/us/pl/95/600/s345/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F600%2Fs345%2Fe

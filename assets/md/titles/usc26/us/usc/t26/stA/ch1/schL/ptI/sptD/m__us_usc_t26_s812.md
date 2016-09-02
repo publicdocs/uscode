@@ -135,7 +135,7 @@
 
             (A) __In general__ 
 
-                Except as provided in subparagraphs (B) and (C), the term “100 percent dividend” means any dividend if the percentage used for purposes of determining the deduction allowable under section 243, 244, or 245(b) is 100 percent.
+                Except as provided in subparagraphs (B) and (C), the term “100 percent dividend” means any dividend if the percentage used for purposes of determining the deduction allowable under section 243 or 245(b) is 100 percent.
 
             (B) __Certain dividends out of tax-exempt interest, etc.__ 
 
@@ -149,7 +149,7 @@
 
         Under regulations, proper adjustments shall be made in the application of this section to prevent an item from being counted more than once.
 
-(Added [Pub. L. 98–369, div. A, title II, § 211(a)][/us/pl/98/369/s211/a], July 18, 1984, [98 Stat. 741][/us/stat/98/741]; amended [Pub. L. 99–514, title XVIII, § 1821(i)][/us/pl/99/514/s1821/i], Oct. 22, 1986, [100 Stat. 2840][/us/stat/100/2840]; [Pub. L. 100–203, title X, § 10241(b)(2)(B)][/us/pl/100/203/s10241/b/2/B], Dec. 22, 1987, [101 Stat. 1330–420][/us/stat/101/1330-420]; [Pub. L. 100–647, title I, § 1018(h)(1)][/us/pl/100/647/s1018/h/1], title II, § 2004(p)(2), Nov. 10, 1988, [102 Stat. 3583][/us/stat/102/3583], 3608; [Pub. L. 104–188, title I, § 1602(b)(2)][/us/pl/104/188/s1602/b/2], Aug. 20, 1996, [110 Stat. 1833][/us/stat/110/1833]; [Pub. L. 105–34, title X, § 1084(b)(3)][/us/pl/105/34/s1084/b/3], Aug. 5, 1997, [111 Stat. 955][/us/stat/111/955]; [Pub. L. 108–218, title II, § 205(b)(4)][/us/pl/108/218/s205/b/4], Apr. 10, 2004, [118 Stat. 610][/us/stat/118/610].)
+(Added [Pub. L. 98–369, div. A, title II, § 211(a)][/us/pl/98/369/s211/a], July 18, 1984, [98 Stat. 741][/us/stat/98/741]; amended [Pub. L. 99–514, title XVIII, § 1821(i)][/us/pl/99/514/s1821/i], Oct. 22, 1986, [100 Stat. 2840][/us/stat/100/2840]; [Pub. L. 100–203, title X, § 10241(b)(2)(B)][/us/pl/100/203/s10241/b/2/B], Dec. 22, 1987, [101 Stat. 1330–420][/us/stat/101/1330-420]; [Pub. L. 100–647, title I, § 1018(h)(1)][/us/pl/100/647/s1018/h/1], title II, § 2004(p)(2), Nov. 10, 1988, [102 Stat. 3583][/us/stat/102/3583], 3608; [Pub. L. 104–188, title I, § 1602(b)(2)][/us/pl/104/188/s1602/b/2], Aug. 20, 1996, [110 Stat. 1833][/us/stat/110/1833]; [Pub. L. 105–34, title X, § 1084(b)(3)][/us/pl/105/34/s1084/b/3], Aug. 5, 1997, [111 Stat. 955][/us/stat/111/955]; [Pub. L. 108–218, title II, § 205(b)(4)][/us/pl/108/218/s205/b/4], Apr. 10, 2004, [118 Stat. 610][/us/stat/118/610]; [Pub. L. 113–295, div. A, title II, § 221(a)(41)(G)][/us/pl/113/295/s221/a/41/G], Dec. 19, 2014, [128 Stat. 4044][/us/stat/128/4044].)
 
  __Codification__ 
 
@@ -162,6 +162,8 @@
     Another prior section 812, [act Aug. 16, 1954, ch. 736, § 812][/us/act/1954-08-16/ch736/s812], as added [Mar. 13, 1956, ch. 83, § 2][/us/act/1956-03-13/ch83/s2], [70 Stat. 45][/us/stat/70/45], related to reserve and other policy liability deduction, prior to the general revision of this part by [Pub. L. 86–69, § 2(a)][/us/pl/86/69/s2/a].
 
  __Amendments__ 
+
+    2014—Subsec. (e)(2)(A). [Pub. L. 113–295][/us/pl/113/295] struck out “, 244,” after “section 243”.
 
     2004—Subsec. (b)(3)(A). [Pub. L. 108–218][/us/pl/108/218] substituted “section 808” for “sections 808 and 809”.
 
@@ -182,6 +184,12 @@
     Subsec. (c). [Pub. L. 99–514, § 1821(i)(3)][/us/pl/99/514/s1821/i/3], amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: “For purposes of this section, the term ‘net investment income’ means 90 percent of gross investment income.”
 
     Subsec. (g). [Pub. L. 99–514, § 1821(i)(4)][/us/pl/99/514/s1821/i/4], added subsec. (g).
+
+ __Effective Date of 2014 Amendment__ 
+
+    Except as otherwise provided in [section 221(a) of Pub. L. 113–295][/us/pl/113/295/s221/a], amendment by [Pub. L. 113–295][/us/pl/113/295] effective Dec. 19, 2014, subject to a savings provision, see [section 221(b) of Pub. L. 113–295][/us/pl/113/295/s221/b], set out as a note under [section 1 of this title][/us/usc/t26/s1].
+
+    Amendment by [Pub. L. 113–295][/us/pl/113/295] not applicable to preferred stock issued before Oct. 1, 1942 (determined in the same manner as under [section 247 of this title][/us/usc/t26/s247] as in effect before its repeal by [Pub. L. 113–295][/us/pl/113/295]), see [section 221(a)(41)(K) of Pub. L. 113–295][/us/pl/113/295/s221/a/41/K], set out as a note under [section 172 of this title][/us/usc/t26/s172].
 
  __Effective Date of 2004 Amendment__ 
 
@@ -240,6 +248,8 @@
 [/us/stat/111/955]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F955
 [/us/pl/108/218/s205/b/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F218%2Fs205%2Fb%2F4
 [/us/stat/118/610]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F610
+[/us/pl/113/295/s221/a/41/G]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs221%2Fa%2F41%2FG
+[/us/stat/128/4044]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F4044
 [/us/pl/105/34/s1084/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2Fs1084%2Fb
 [/us/pl/86/69/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F69%2Fs2%2Fa
 [/us/stat/73/127]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F73%2F127
@@ -256,6 +266,7 @@
 [/us/act/1956-03-13/ch83/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-03-13%2Fch83%2Fs2
 [/us/stat/70/45]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70%2F45
 [/us/pl/86/69/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F69%2Fs2%2Fa
+[/us/pl/113/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295
 [/us/pl/108/218]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F218
 [/us/pl/105/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34
 [/us/pl/104/188]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188
@@ -266,6 +277,15 @@
 [/us/pl/99/514/s1821/i/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1821%2Fi%2F2
 [/us/pl/99/514/s1821/i/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1821%2Fi%2F3
 [/us/pl/99/514/s1821/i/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1821%2Fi%2F4
+[/us/pl/113/295/s221/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs221%2Fa
+[/us/pl/113/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295
+[/us/pl/113/295/s221/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs221%2Fb
+[/us/usc/t26/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs1
+[/us/pl/113/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295
+[/us/usc/t26/s247]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs247
+[/us/pl/113/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295
+[/us/pl/113/295/s221/a/41/K]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs221%2Fa%2F41%2FK
+[/us/usc/t26/s172]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs172
 [/us/pl/108/218]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F218
 [/us/pl/108/218/s205/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F218%2Fs205%2Fc
 [/us/usc/t26/s807]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs807

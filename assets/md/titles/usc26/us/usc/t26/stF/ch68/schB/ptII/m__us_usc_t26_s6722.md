@@ -33,7 +33,7 @@
 
         (1) __Correction within 30 days__ 
 
-        If any failure described in subsection (a)(2) is corrected on or before the day 30 days after the required filing date—
+        If any failure described in subsection (a)(2) is corrected on or before the day 30 days after the date prescribed for furnishing such statement—
 
             (A) the penalty imposed by subsection (a) shall be $30 in lieu of $100, and
 
@@ -41,7 +41,7 @@
 
         (2) __Failures corrected on or before August 1__ 
 
-        If any failure described in subsection (a)(2) is corrected after the 30th day referred to in paragraph (1) but on or before August 1 of the calendar year in which the required filing date occurs—
+        If any failure described in subsection (a)(2) is corrected after the 30th day referred to in paragraph (1) but on or before August 1 of the calendar year in which the date prescribed for furnishing such statement occurs—
 
             (A) the penalty imposed by subsection (a) shall be $60 in lieu of $100, and
 
@@ -57,7 +57,7 @@
 
             (B) there is a failure described in subsection (a)(2)(B) (determined after the application of section 6724(a)) with respect to such statement, and
 
-            (C) such failure is corrected on or before August 1 of the calendar year in which the required filing date occurs,
+            (C) such failure is corrected on or before August 1 of the calendar year in which the date prescribed for furnishing such statement occurs,
 
         for purposes of this section, such statement shall be treated as having been furnished with all of the correct required information.
 
@@ -67,7 +67,7 @@
 
             (A) 10, or
 
-            (B) one-half of 1 percent of the total number of payee statements required to be filed by the person during the calendar year.
+            (B) one-half of 1 percent of the total number of payee statements required to be furnished by the person during the calendar year.
 
     (d) __Lower limitations for persons with gross receipts of not more than $5,000,000__ 
 
@@ -111,7 +111,7 @@
 
         (1) __In general__ 
 
-            For each fifth calendar year beginning after 2012, each of the dollar amounts under subsections (a), (b), (d)(1), and (e) shall be increased by such dollar amount multiplied by the cost-of-living adjustment determined under section 1(f)(3) determined by substituting “calendar year 2011” for “calendar year 1992” in subparagraph (B) thereof.
+            In the case of any failure relating to a statement required to be furnished in a calendar year beginning after 2014, each of the dollar amounts under subsections (a), (b), (d)(1), and (e) shall be increased by such dollar amount multiplied by the cost-of-living adjustment determined under section 1(f)(3) determined by substituting “calendar year 2011” for “calendar year 1992” in subparagraph (B) thereof.
 
         (2) __Rounding__ 
 
@@ -121,17 +121,31 @@
 
             (B) is not described in subparagraph (A) and is not a multiple of $10, such amount shall be rounded to the next lowest multiple of $10.
 
-(Added [Pub. L. 99–514, title XV, § 1501(a)][/us/pl/99/514/s1501/a], Oct. 22, 1986, [100 Stat. 2733][/us/stat/100/2733]; amended [Pub. L. 101–239, title VII, § 7711(a)][/us/pl/101/239/s7711/a], Dec. 19, 1989, [103 Stat. 2390][/us/stat/103/2390]; [Pub. L. 111–240, title II, § 2102(g)][/us/pl/111/240/s2102/g], Sept. 27, 2010, [124 Stat. 2562][/us/stat/124/2562].)
+(Added [Pub. L. 99–514, title XV, § 1501(a)][/us/pl/99/514/s1501/a], Oct. 22, 1986, [100 Stat. 2733][/us/stat/100/2733]; amended [Pub. L. 101–239, title VII, § 7711(a)][/us/pl/101/239/s7711/a], Dec. 19, 1989, [103 Stat. 2390][/us/stat/103/2390]; [Pub. L. 111–240, title II, § 2102(g)][/us/pl/111/240/s2102/g], Sept. 27, 2010, [124 Stat. 2562][/us/stat/124/2562]; [Pub. L. 113–295, div. A, title II, § 207(a)(2)][/us/pl/113/295/s207/a/2], (3), div. B, title II, § 208(g), Dec. 19, 2014, [128 Stat. 4027][/us/stat/128/4027], 4028, 4074.)
 
  __Amendments__ 
+
+    2014—Subsecs. (b)(1), (2), (c)(1)(C). [Pub. L. 113–295, § 207(a)(2)][/us/pl/113/295/s207/a/2], substituted “the date prescribed for furnishing such statement” for “the required filing date”.
+
+    Subsec. (c)(2)(B). [Pub. L. 113–295, § 207(a)(3)][/us/pl/113/295/s207/a/3], substituted “furnished” for “filed”.
+
+    Subsec. (f)(1). [Pub. L. 113–295, § 208(g)][/us/pl/113/295/s208/g], substituted “In the case of any failure relating to a statement required to be furnished in a calendar year beginning after 2014” for “For each fifth calendar year beginning after 2012”.
 
     2010—[Pub. L. 111–240][/us/pl/111/240] amended section generally. Prior to amendment, section related to: in subsec. (a), general rule for imposition of penalty for failure to furnish correct payee statements; in subsec. (b), failures subject to penalty; and, in subsec. (c), penalty in case of intentional disregard.
 
     1989—[Pub. L. 101–239][/us/pl/101/239] substituted “correct” for “certain” in section catchline and amended text generally, substituting subsecs. (a) to (c) for former subsec. (a) stating general rule and subsec. (b) relating to failure to notify partnership of exchange of partnership interest.
 
+ __Effective Date of 2014 Amendment__ 
+
+[Pub. L. 113–295, div. A, title II, § 207(b)][/us/pl/113/295/s207/b], Dec. 19, 2014, [128 Stat. 4028][/us/stat/128/4028], provided that: 
+
+> “The amendments made by this section \[amending this section and provisions set out as a note under [section 6721 of this title][/us/usc/t26/s6721]\] shall take effect as if included in the provision of the Creating Small Business Jobs Act of 2010 \[[Pub. L. 111–240, title II][/us/pl/111/240]\] to which they relate.”
+
+    Amendment by [section 208(g) of Pub. L. 113–295][/us/pl/113/295/s208/g] applicable to returns required to be filed after Dec. 31, 2014, see [section 208(h) of Pub. L. 113–295][/us/pl/113/295/s208/h], set out as a note under [section 6651 of this title][/us/usc/t26/s6651].
+
  __Effective Date of 2010 Amendment__ 
 
-    Amendment by [Pub. L. 111–240][/us/pl/111/240] applicable with respect to information returns required to be filed on or after Jan. 1, 2011, see [section 2102(h) of Pub. L. 111–240][/us/pl/111/240/s2102/h], set out as a note under [section 6721 of this title][/us/usc/t26/s6721].
+    Amendment by [Pub. L. 111–240][/us/pl/111/240] applicable with respect to information returns required to be filed, and payee statements required to be furnished, on or after Jan. 1, 2011, see [section 2102(h) of Pub. L. 111–240][/us/pl/111/240/s2102/h], set out as a note under [section 6721 of this title][/us/usc/t26/s6721].
 
  __Effective Date of 1989 Amendment__ 
 
@@ -154,8 +168,20 @@
 [/us/stat/103/2390]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F2390
 [/us/pl/111/240/s2102/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F240%2Fs2102%2Fg
 [/us/stat/124/2562]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2562
+[/us/pl/113/295/s207/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs207%2Fa%2F2
+[/us/stat/128/4027]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F4027
+[/us/pl/113/295/s207/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs207%2Fa%2F2
+[/us/pl/113/295/s207/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs207%2Fa%2F3
+[/us/pl/113/295/s208/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs208%2Fg
 [/us/pl/111/240]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F240
 [/us/pl/101/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239
+[/us/pl/113/295/s207/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs207%2Fb
+[/us/stat/128/4028]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F4028
+[/us/usc/t26/s6721]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs6721
+[/us/pl/111/240]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F240
+[/us/pl/113/295/s208/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs208%2Fg
+[/us/pl/113/295/s208/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs208%2Fh
+[/us/usc/t26/s6651]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs6651
 [/us/pl/111/240]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F240
 [/us/pl/111/240/s2102/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F240%2Fs2102%2Fh
 [/us/usc/t26/s6721]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs6721

@@ -25,7 +25,7 @@
 
     (b) __Ordinary losses__ 
 
-        Loss by a dealer in securities from the sale or exchange of any security shall, except as otherwise provided in section 582(c), (relating to bond, etc., losses of banks), in no event be considered as ordinary loss if at any time after November 19, 1951, the security was clearly identified in the dealer’s records as a security held for investment.
+        Loss by a dealer in securities from the sale or exchange of any security shall, except as otherwise provided in section 582(c), (relating to bond, etc., losses of banks), in no event be considered as ordinary loss if at any time the security was clearly identified in the dealer’s records as a security held for investment.
 
     (c) __Definition of security__ 
 
@@ -55,9 +55,11 @@
 
         For purposes of subsection (a), any security acquired by a dealer pursuant to an option held by such dealer may be treated as held for investment only if the dealer, before the close of the day on which the option was acquired, clearly identified the option on his records as held for investment. For purposes of the preceding sentence, the term “option” includes the right to subscribe to or purchase any security.
 
-([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 330][/us/stat/68A/330]; [Pub. L. 94–455, title XIX, § 1901(b)(3)(E)][/us/pl/94/455/s1901/b/3/E], Oct. 4, 1976, [90 Stat. 1793][/us/stat/90/1793]; [Pub. L. 97–34, title V, § 506][/us/pl/97/34/s506], Aug. 13, 1981, [95 Stat. 332][/us/stat/95/332]; [Pub. L. 97–448, title I, § 105(d)(1)][/us/pl/97/448/s105/d/1], Jan. 12, 1983, [96 Stat. 2387][/us/stat/96/2387]; [Pub. L. 98–369, div. A, title I, § 107(b)][/us/pl/98/369/s107/b], July 18, 1984, [98 Stat. 630][/us/stat/98/630].)
+([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 330][/us/stat/68A/330]; [Pub. L. 94–455, title XIX, § 1901(b)(3)(E)][/us/pl/94/455/s1901/b/3/E], Oct. 4, 1976, [90 Stat. 1793][/us/stat/90/1793]; [Pub. L. 97–34, title V, § 506][/us/pl/97/34/s506], Aug. 13, 1981, [95 Stat. 332][/us/stat/95/332]; [Pub. L. 97–448, title I, § 105(d)(1)][/us/pl/97/448/s105/d/1], Jan. 12, 1983, [96 Stat. 2387][/us/stat/96/2387]; [Pub. L. 98–369, div. A, title I, § 107(b)][/us/pl/98/369/s107/b], July 18, 1984, [98 Stat. 630][/us/stat/98/630]; [Pub. L. 113–295, div. A, title II, § 221(a)(83)][/us/pl/113/295/s221/a/83], Dec. 19, 2014, [128 Stat. 4049][/us/stat/128/4049].)
 
  __Amendments__ 
+
+    2014—Subsec. (b). [Pub. L. 113–295][/us/pl/113/295] struck out “after November 19, 1951,” after “time”.
 
     1984—Subsec. (a)(1). [Pub. L. 98–369, § 107(b)(1)][/us/pl/98/369/s107/b/1], substituted “the security was, before the close of the day on which it was acquired (or such earlier time as the Secretary may prescribe by regulations), clearly identified in the dealer’s records as a security held for investment; and” for “the security was, before the close of the day on which it was acquired (before the close of the following day in the case of an acquisition before January 1, 1982), clearly identified in the dealer’s records as a security held for investment or if acquired before October 20, 1951, was so identified before November 20, 1951; and”.
 
@@ -70,6 +72,10 @@
     Subsec. (d). [Pub. L. 97–34, § 506(b)][/us/pl/97/34/s506/b], added subsec. (d).
 
     1976—Subsec. (b). [Pub. L. 94–455][/us/pl/94/455] substituted “ordinary loss” for “loss from the sale or exchange of property which is not a capital asset”.
+
+ __Effective Date of 2014 Amendment__ 
+
+    Amendment by [Pub. L. 113–295][/us/pl/113/295] effective Dec. 19, 2014, subject to a savings provision, see [section 221(b) of Pub. L. 113–295][/us/pl/113/295/s221/b], set out as a note under [section 1 of this title][/us/usc/t26/s1].
 
  __Effective Date of 1984 Amendment__ 
 
@@ -106,12 +112,18 @@
 [/us/stat/96/2387]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F2387
 [/us/pl/98/369/s107/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs107%2Fb
 [/us/stat/98/630]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F630
+[/us/pl/113/295/s221/a/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs221%2Fa%2F83
+[/us/stat/128/4049]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F4049
+[/us/pl/113/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295
 [/us/pl/98/369/s107/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs107%2Fb%2F1
 [/us/pl/98/369/s107/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs107%2Fb%2F2
 [/us/pl/97/448]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F448
 [/us/pl/97/34/s506/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F34%2Fs506%2Fa
 [/us/pl/97/34/s506/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F34%2Fs506%2Fb
 [/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455
+[/us/pl/113/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295
+[/us/pl/113/295/s221/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs221%2Fb
+[/us/usc/t26/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs1
 [/us/pl/98/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369
 [/us/pl/98/369/s107/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs107%2Fe
 [/us/usc/t26/s1092]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs1092

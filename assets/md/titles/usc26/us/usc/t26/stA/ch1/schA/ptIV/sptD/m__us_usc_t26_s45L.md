@@ -111,9 +111,9 @@
 
     (g) __Termination__ 
 
-        This section shall not apply to any qualified new energy efficient home acquired after December 31, 2013.
+        This section shall not apply to any qualified new energy efficient home acquired after December 31, 2014.
 
-(Added [Pub. L. 109–58, title XIII, § 1332(a)][/us/pl/109/58/s1332/a], Aug. 8, 2005, [119 Stat. 1024][/us/stat/119/1024]; amended [Pub. L. 109–432, div. A, title II, § 205][/us/pl/109/432/s205], Dec. 20, 2006, [120 Stat. 2945][/us/stat/120/2945]; [Pub. L. 110–172, § 11(a)(7)][/us/pl/110/172/s11/a/7], Dec. 29, 2007, [121 Stat. 2485][/us/stat/121/2485]; [Pub. L. 110–343, div. B, title III, § 304][/us/pl/110/343/s304], Oct. 3, 2008, [122 Stat. 3845][/us/stat/122/3845]; [Pub. L. 111–312, title VII, § 703(a)][/us/pl/111/312/s703/a], Dec. 17, 2010, [124 Stat. 3311][/us/stat/124/3311]; [Pub. L. 112–240, title IV, § 408(a)][/us/pl/112/240/s408/a], (b), Jan. 2, 2013, [126 Stat. 2342][/us/stat/126/2342].)
+(Added [Pub. L. 109–58, title XIII, § 1332(a)][/us/pl/109/58/s1332/a], Aug. 8, 2005, [119 Stat. 1024][/us/stat/119/1024]; amended [Pub. L. 109–432, div. A, title II, § 205][/us/pl/109/432/s205], Dec. 20, 2006, [120 Stat. 2945][/us/stat/120/2945]; [Pub. L. 110–172, § 11(a)(7)][/us/pl/110/172/s11/a/7], Dec. 29, 2007, [121 Stat. 2485][/us/stat/121/2485]; [Pub. L. 110–343, div. B, title III, § 304][/us/pl/110/343/s304], Oct. 3, 2008, [122 Stat. 3845][/us/stat/122/3845]; [Pub. L. 111–312, title VII, § 703(a)][/us/pl/111/312/s703/a], Dec. 17, 2010, [124 Stat. 3311][/us/stat/124/3311]; [Pub. L. 112–240, title IV, § 408(a)][/us/pl/112/240/s408/a], (b), Jan. 2, 2013, [126 Stat. 2342][/us/stat/126/2342]; [Pub. L. 113–295, div. A, title I, § 156(a)][/us/pl/113/295/s156/a], Dec. 19, 2014, [128 Stat. 4021][/us/stat/128/4021].)
 
  __References in Text__ 
 
@@ -122,6 +122,8 @@
     The National Appliance Energy Conservation Act of 1987, referred to in subsec. (c)(1)(A)(ii), is [Pub. L. 100–12][/us/pl/100/12], Mar. 17, 1987, [101 Stat. 103][/us/stat/101/103]. For complete classification of this Act to the Code, see Short Title of 1987 Amendment note set out under [section 6201 of Title 42][/us/usc/t42/s6201], The Public Health and Welfare, and Tables.
 
  __Amendments__ 
+
+    2014—Subsec. (g). [Pub. L. 113–295][/us/pl/113/295] substituted “December 31, 2014” for “December 31, 2013”.
 
     2013—Subsec. (c)(1)(A)(i). [Pub. L. 112–240, § 408(b)][/us/pl/112/240/s408/b], substituted “2006 International Energy Conservation Code, as such Code (including supplements) is in effect on January 1, 2006” for “2003 International Energy Conservation Code, as such Code (including supplements) is in effect on the date of the enactment of this section”.
 
@@ -134,6 +136,12 @@
     2007—Subsec. (c)(2), (3). [Pub. L. 110–172][/us/pl/110/172] substituted “part 3280” for “section 3280” in par. (2) and in introductory provisions of par. (3).
 
     2006—Subsec. (g). [Pub. L. 109–432][/us/pl/109/432] substituted “2008” for “2007”.
+
+ __Effective Date of 2014 Amendment__ 
+
+[Pub. L. 113–295, div. A, title I, § 156(b)][/us/pl/113/295/s156/b], Dec. 19, 2014, [128 Stat. 4022][/us/stat/128/4022], provided that: 
+
+> “The amendment made by this section \[amending this section\] shall apply to homes acquired after December 31, 2013.”
 
  __Effective Date of 2013 Amendment__ 
 
@@ -170,16 +178,21 @@
 [/us/stat/124/3311]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3311
 [/us/pl/112/240/s408/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F240%2Fs408%2Fa
 [/us/stat/126/2342]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F2342
+[/us/pl/113/295/s156/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs156%2Fa
+[/us/stat/128/4021]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F4021
 [/us/pl/109/58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58
 [/us/pl/100/12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F12
 [/us/stat/101/103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F103
 [/us/usc/t42/s6201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6201
+[/us/pl/113/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295
 [/us/pl/112/240/s408/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F240%2Fs408%2Fb
 [/us/pl/112/240/s408/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F240%2Fs408%2Fa
 [/us/pl/111/312]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F312
 [/us/pl/110/343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F343
 [/us/pl/110/172]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F172
 [/us/pl/109/432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F432
+[/us/pl/113/295/s156/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs156%2Fb
+[/us/stat/128/4022]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F4022
 [/us/pl/112/240/s408/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F240%2Fs408%2Fc
 [/us/stat/126/2342]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F2342
 [/us/pl/111/312/s703/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F312%2Fs703%2Fb

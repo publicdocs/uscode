@@ -137,7 +137,7 @@
 
             (A) __In general__ 
 
-                For all taxable years beginning on or after January 1, 1975, subject to such terms and conditions as may be prescribed by the Secretary, an amount set aside for a specific project which comes within one or more purposes described in section 170(c)(2)(B) may be treated as a qualifying distribution if it meets the requirements of subparagraph (B).
+                Subject to such terms and conditions as may be prescribed by the Secretary, an amount set aside for a specific project which comes within one or more purposes described in section 170(c)(2)(B) may be treated as a qualifying distribution if it meets the requirements of subparagraph (B).
 
             (B) __Requirements__ 
 
@@ -241,7 +241,7 @@
 
         (2) __Taxable years in adjustment period__ 
 
-            For purposes of paragraph (1), with respect to any taxable year of a private foundation the taxable years in the adjustment period are the taxable years (not exceeding 5) beginning after December 31, 1969, and immediately preceding the taxable year.
+            For purposes of paragraph (1), with respect to any taxable year of a private foundation the taxable years in the adjustment period are the taxable years (not exceeding 5) immediately preceding the taxable year.
 
     (j) __Other definitions__ 
 
@@ -297,13 +297,17 @@
 
             For purposes of this section (but no other provisions of this title), the term “operating foundation” includes any organization which, on May 26, 1969, and at all times thereafter before the close of the taxable year, operated and maintained as its principal functional purpose facilities for the long-term care, comfort, maintenance, or education of permanently and totally disabled persons, elderly persons, needy widows, or children but only if such organization meets the requirements of paragraph (3)(B)(ii).
 
-(Added [Pub. L. 91–172, title I, § 101(b)][/us/pl/91/172/s101/b], Dec. 30, 1969, [83 Stat. 502][/us/stat/83/502]; amended [Pub. L. 94–455, title XIII][/us/pl/94/455], §§ 1302(a), 1303(a), 1310(a), title XIX, § 1906(b)(13)(A), Oct. 4, 1976, [90 Stat. 1713][/us/stat/90/1713], 1715, 1729, 1834; [Pub. L. 95–600, title V, § 522(a)][/us/pl/95/600/s522/a], Nov. 6, 1978, [92 Stat. 2885][/us/stat/92/2885]; [Pub. L. 96–596, § 2(a)(1)(C)][/us/pl/96/596/s2/a/1/C], (2)(B), (3)(B), (4)(A), Dec. 24, 1980, [94 Stat. 3469–3472][/us/stat/94/3469-3472]; [Pub. L. 97–34, title VIII, § 823(a)][/us/pl/97/34/s823/a], Aug. 13, 1981, [95 Stat. 351][/us/stat/95/351]; [Pub. L. 97–448, title I, § 108(b)][/us/pl/97/448/s108/b], Jan. 12, 1983, [96 Stat. 2391][/us/stat/96/2391]; [Pub. L. 98–369, div. A, title III][/us/pl/98/369], §§ 304(a), (b), 305(b)(4), 314(a)(1), (2), July 18, 1984, [98 Stat. 782–784][/us/stat/98/782-784], 787; [Pub. L. 99–514, title XIII, § 1301(j)(6)][/us/pl/99/514/s1301/j/6], Oct. 22, 1986, [100 Stat. 2658][/us/stat/100/2658]; [Pub. L. 109–280, title XII][/us/pl/109/280], §§ 1212(b), 1244(a), Aug. 17, 2006, [120 Stat. 1074][/us/stat/120/1074], 1107; [Pub. L. 110–172, § 11(a)(14)(D)][/us/pl/110/172/s11/a/14/D], Dec. 29, 2007, [121 Stat. 2485][/us/stat/121/2485].)
+(Added [Pub. L. 91–172, title I, § 101(b)][/us/pl/91/172/s101/b], Dec. 30, 1969, [83 Stat. 502][/us/stat/83/502]; amended [Pub. L. 94–455, title XIII][/us/pl/94/455], §§ 1302(a), 1303(a), 1310(a), title XIX, § 1906(b)(13)(A), Oct. 4, 1976, [90 Stat. 1713][/us/stat/90/1713], 1715, 1729, 1834; [Pub. L. 95–600, title V, § 522(a)][/us/pl/95/600/s522/a], Nov. 6, 1978, [92 Stat. 2885][/us/stat/92/2885]; [Pub. L. 96–596, § 2(a)(1)(C)][/us/pl/96/596/s2/a/1/C], (2)(B), (3)(B), (4)(A), Dec. 24, 1980, [94 Stat. 3469–3472][/us/stat/94/3469-3472]; [Pub. L. 97–34, title VIII, § 823(a)][/us/pl/97/34/s823/a], Aug. 13, 1981, [95 Stat. 351][/us/stat/95/351]; [Pub. L. 97–448, title I, § 108(b)][/us/pl/97/448/s108/b], Jan. 12, 1983, [96 Stat. 2391][/us/stat/96/2391]; [Pub. L. 98–369, div. A, title III][/us/pl/98/369], §§ 304(a), (b), 305(b)(4), 314(a)(1), (2), July 18, 1984, [98 Stat. 782–784][/us/stat/98/782-784], 787; [Pub. L. 99–514, title XIII, § 1301(j)(6)][/us/pl/99/514/s1301/j/6], Oct. 22, 1986, [100 Stat. 2658][/us/stat/100/2658]; [Pub. L. 109–280, title XII][/us/pl/109/280], §§ 1212(b), 1244(a), Aug. 17, 2006, [120 Stat. 1074][/us/stat/120/1074], 1107; [Pub. L. 110–172, § 11(a)(14)(D)][/us/pl/110/172/s11/a/14/D], Dec. 29, 2007, [121 Stat. 2485][/us/stat/121/2485]; [Pub. L. 113–295, div. A, title II, § 221(a)(105)][/us/pl/113/295/s221/a/105], Dec. 19, 2014, [128 Stat. 4053][/us/stat/128/4053].)
 
  __Codification__ 
 
     Sections 1212(b) and 1244(a) of [Pub. L. 109–280][/us/pl/109/280], which directed the amendment of section 4942 without specifying the act to be amended, were executed to this section, which is section 4942 of the Internal Revenue Code of 1986, to reflect the probable intent of Congress. See 2006 Amendment notes below.
 
  __Amendments__ 
+
+    2014—Subsec. (g)(2)(A). [Pub. L. 113–295, § 221(a)(105)(A)][/us/pl/113/295/s221/a/105/A], substituted “Subject” for “For all taxable years beginning on or after January 1, 1975, subject”.
+
+    Subsec. (i)(2). [Pub. L. 113–295, § 221(a)(105)(B)][/us/pl/113/295/s221/a/105/B], struck out “beginning after December 31, 1969, and” after “(not exceeding 5)”.
 
     2007—Subsec. (i)(1)(A). [Pub. L. 110–172][/us/pl/110/172] substituted “section 170(b)(1)(F)(ii)” for “section 170(b)(1)(E)(ii)”.
 
@@ -354,6 +358,10 @@
     Subsec. (g)(2). [Pub. L. 94–455, § 1302(a)][/us/pl/94/455/s1302/a], among other changes, inserted reference to all taxable years beginning on or after Jan. 1, 1975, requirement that the project will not be completed before the end of the taxable year of the foundation in which the set-aside is made, and subpars. (C) to (E).
 
     Subsecs. (h)(2), (j)(2)(B). [Pub. L. 94–455, § 1906(b)(13)(A)][/us/pl/94/455/s1906/b/13/A], struck out “or his delegate” after “Secretary”.
+
+ __Effective Date of 2014 Amendment__ 
+
+    Amendment by [Pub. L. 113–295][/us/pl/113/295] effective Dec. 19, 2014, subject to a savings provision, see [section 221(b) of Pub. L. 113–295][/us/pl/113/295/s221/b], set out as a note under [section 1 of this title][/us/usc/t26/s1].
 
  __Effective Date of 2006 Amendment__ 
 
@@ -444,7 +452,11 @@
 [/us/stat/120/1074]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1074
 [/us/pl/110/172/s11/a/14/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F172%2Fs11%2Fa%2F14%2FD
 [/us/stat/121/2485]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F2485
+[/us/pl/113/295/s221/a/105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs221%2Fa%2F105
+[/us/stat/128/4053]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F4053
 [/us/pl/109/280]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280
+[/us/pl/113/295/s221/a/105/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs221%2Fa%2F105%2FA
+[/us/pl/113/295/s221/a/105/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs221%2Fa%2F105%2FB
 [/us/pl/110/172]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F172
 [/us/pl/109/280/s1212/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280%2Fs1212%2Fb
 [/us/pl/109/280/s1244/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280%2Fs1244%2Fa
@@ -474,6 +486,9 @@
 [/us/pl/94/455/s1310/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1310%2Fa
 [/us/pl/94/455/s1302/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1302%2Fa
 [/us/pl/94/455/s1906/b/13/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1906%2Fb%2F13%2FA
+[/us/pl/113/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295
+[/us/pl/113/295/s221/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs221%2Fb
+[/us/usc/t26/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs1
 [/us/pl/109/280/s1212/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280%2Fs1212%2Fb
 [/us/pl/109/280/s1212/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280%2Fs1212%2Ff
 [/us/usc/t26/s4941]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs4941

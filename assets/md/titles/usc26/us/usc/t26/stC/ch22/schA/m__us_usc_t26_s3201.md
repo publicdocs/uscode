@@ -21,25 +21,17 @@
 
     (b) __Tier 2 tax__ 
 
-        (1) __In general__ 
-
-            In addition to other taxes, there is hereby imposed on the income of each employee a tax equal to the applicable percentage of the compensation received during any calendar year by such employee for services rendered by such employee.
-
-        (2) __Applicable percentage__ 
-
-        For purposes of paragraph (1), the term “applicable percentage” means—
-
-            (A) 4.90 percent in the case of compensation received during 2002 or 2003, and
-
-            (B) in the case of compensation received during any calendar year after 2003, the percentage determined under section 3241 for such calendar year.
+        In addition to other taxes, there is hereby imposed on the income of each employee a tax equal to the percentage determined under section 3241 for any calendar year of the compensation received during such calendar year by such employee for services rendered by such employee.
 
     (c) __Cross reference__ 
 
         For application of different contribution bases with respect to the taxes imposed by subsections (a) and (b), see section 3231(e)(2).
 
-([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 431][/us/stat/68A/431]; [Aug. 31, 1954, ch. 1164][/us/act/1954-08-31/ch1164], pt. II, § 206(a), [68 Stat. 1040][/us/stat/68/1040]; [Pub. L. 86–28][/us/pl/86/28], pt. II, § 201(a), May 19, 1959, [73 Stat. 28][/us/stat/73/28]; [Pub. L. 88–133, title II, § 201][/us/pl/88/133/s201], Oct. 5, 1963, [77 Stat. 221][/us/stat/77/221]; [Pub. L. 89–97, title I][/us/pl/89/97], §§ 105(b)(1), 111(c)(1), July 30, 1965, [79 Stat. 335][/us/stat/79/335], 342; [Pub. L. 89–212][/us/pl/89/212], §§ 4, 5(a), Sept. 29, 1965, [79 Stat. 861][/us/stat/79/861]; [Pub. L. 89–699, title III, § 301(a)][/us/pl/89/699/s301/a], Oct. 30, 1966, [80 Stat. 1078][/us/stat/80/1078]; [Pub. L. 89–700, title III, § 301(v)][/us/pl/89/700/s301/v], (vi), Oct. 30, 1966, [80 Stat. 1088][/us/stat/80/1088], 1089; [Pub. L. 93–69, title I, § 102(a)][/us/pl/93/69/s102/a], July 10, 1973, [87 Stat. 162][/us/stat/87/162]; [Pub. L. 94–93, title II, § 201][/us/pl/94/93/s201], Aug. 9, 1975, [89 Stat. 466][/us/stat/89/466]; [Pub. L. 94–455, title XIX, § 1903(a)(6)][/us/pl/94/455/s1903/a/6], Oct. 4, 1976, [90 Stat. 1807][/us/stat/90/1807]; [Pub. L. 97–34, title VII, § 741(a)][/us/pl/97/34/s741/a], Aug. 13, 1981, [95 Stat. 347][/us/stat/95/347]; [Pub. L. 98–76, title II][/us/pl/98/76], §§ 211(a), 221, Aug. 12, 1983, [97 Stat. 419][/us/stat/97/419], 420; [Pub. L. 100–203, title IX, § 9031(a)][/us/pl/100/203/s9031/a], Dec. 22, 1987, [101 Stat. 1330–296][/us/stat/101/1330-296]; [Pub. L. 101–508, title V, § 5125(a)][/us/pl/101/508/s5125/a], Nov. 5, 1990, [104 Stat. 1388–285][/us/stat/104/1388-285]; [Pub. L. 107–90, title II, § 204(c)][/us/pl/107/90/s204/c], Dec. 21, 2001, [115 Stat. 892][/us/stat/115/892].)
+([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 431][/us/stat/68A/431]; [Aug. 31, 1954, ch. 1164][/us/act/1954-08-31/ch1164], pt. II, § 206(a), [68 Stat. 1040][/us/stat/68/1040]; [Pub. L. 86–28][/us/pl/86/28], pt. II, § 201(a), May 19, 1959, [73 Stat. 28][/us/stat/73/28]; [Pub. L. 88–133, title II, § 201][/us/pl/88/133/s201], Oct. 5, 1963, [77 Stat. 221][/us/stat/77/221]; [Pub. L. 89–97, title I][/us/pl/89/97], §§ 105(b)(1), 111(c)(1), July 30, 1965, [79 Stat. 335][/us/stat/79/335], 342; [Pub. L. 89–212][/us/pl/89/212], §§ 4, 5(a), Sept. 29, 1965, [79 Stat. 861][/us/stat/79/861]; [Pub. L. 89–699, title III, § 301(a)][/us/pl/89/699/s301/a], Oct. 30, 1966, [80 Stat. 1078][/us/stat/80/1078]; [Pub. L. 89–700, title III, § 301(v)][/us/pl/89/700/s301/v], (vi), Oct. 30, 1966, [80 Stat. 1088][/us/stat/80/1088], 1089; [Pub. L. 93–69, title I, § 102(a)][/us/pl/93/69/s102/a], July 10, 1973, [87 Stat. 162][/us/stat/87/162]; [Pub. L. 94–93, title II, § 201][/us/pl/94/93/s201], Aug. 9, 1975, [89 Stat. 466][/us/stat/89/466]; [Pub. L. 94–455, title XIX, § 1903(a)(6)][/us/pl/94/455/s1903/a/6], Oct. 4, 1976, [90 Stat. 1807][/us/stat/90/1807]; [Pub. L. 97–34, title VII, § 741(a)][/us/pl/97/34/s741/a], Aug. 13, 1981, [95 Stat. 347][/us/stat/95/347]; [Pub. L. 98–76, title II][/us/pl/98/76], §§ 211(a), 221, Aug. 12, 1983, [97 Stat. 419][/us/stat/97/419], 420; [Pub. L. 100–203, title IX, § 9031(a)][/us/pl/100/203/s9031/a], Dec. 22, 1987, [101 Stat. 1330–296][/us/stat/101/1330-296]; [Pub. L. 101–508, title V, § 5125(a)][/us/pl/101/508/s5125/a], Nov. 5, 1990, [104 Stat. 1388–285][/us/stat/104/1388-285]; [Pub. L. 107–90, title II, § 204(c)][/us/pl/107/90/s204/c], Dec. 21, 2001, [115 Stat. 892][/us/stat/115/892]; [Pub. L. 113–295, div. A, title II, § 221(a)(100)(A)][/us/pl/113/295/s221/a/100/A], Dec. 19, 2014, [128 Stat. 4052][/us/stat/128/4052].)
 
  __Amendments__ 
+
+    2014—Subsec. (b). [Pub. L. 113–295][/us/pl/113/295] amended subsec. (b) generally. Prior to amendment, subsec. (b) consisted of pars. (1) and (2), which established the tier 2 tax and its applicable percentage.
 
     2001—Subsec. (b). [Pub. L. 107–90][/us/pl/107/90] amended heading and text of subsec. (b) generally. Prior to amendment, text read as follows: “In addition to other taxes, there is hereby imposed on the income of each employee a tax equal to 4.90 percent of the compensation received during any calendar year by such employee for services rendered by such employee.”
 
@@ -116,6 +108,10 @@ The rate shall be:  </td>
     1959—[Pub. L. 86–28][/us/pl/86/28] increased tax from 6¼ percent of compensation not in excess of $350 for any calendar month to 6¾ percent of the compensation not in excess of $400 for any calendar month for services rendered before Jan. 1, 1962, and to 7¼ percent for services rendered after Dec. 31, 1961, and required an increase in the rate of tax with respect to compensation paid for services rendered after Dec. 31, 1964, by a number of percentage points equal at any given time to the number of percentage points by which the rate of tax imposed by [section 3101 of this title][/us/usc/t26/s3101] at such time exceeds the rate provided by par. (2) of such section 3101 as amended by the Social Security Amendments of 1956.
 
     1954—Act Aug. 31, 1954, substituted “$350” for “$300”.
+
+ __Effective Date of 2014 Amendment__ 
+
+    Amendment by [Pub. L. 113–295][/us/pl/113/295] effective Dec. 19, 2014, subject to a savings provision, see [section 221(b) of Pub. L. 113–295][/us/pl/113/295/s221/b], set out as a note under [section 1 of this title][/us/usc/t26/s1].
 
  __Effective Date of 2001 Amendment__ 
 
@@ -232,6 +228,9 @@ The rate shall be:  </td>
 [/us/stat/104/1388-285]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1388-285
 [/us/pl/107/90/s204/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F90%2Fs204%2Fc
 [/us/stat/115/892]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F892
+[/us/pl/113/295/s221/a/100/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs221%2Fa%2F100%2FA
+[/us/stat/128/4052]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F4052
+[/us/pl/113/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295
 [/us/pl/107/90]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F90
 [/us/pl/101/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508
 [/us/pl/100/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203
@@ -250,6 +249,9 @@ The rate shall be:  </td>
 [/us/pl/88/133]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F133
 [/us/pl/86/28]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F28
 [/us/usc/t26/s3101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs3101
+[/us/pl/113/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295
+[/us/pl/113/295/s221/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs221%2Fb
+[/us/usc/t26/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs1
 [/us/pl/107/90]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F90
 [/us/pl/107/90/s204/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F90%2Fs204%2Ff
 [/us/usc/t26/s24]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs24

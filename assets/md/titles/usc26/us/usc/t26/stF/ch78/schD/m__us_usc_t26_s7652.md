@@ -109,7 +109,7 @@
 
     For purposes of this section, with respect to taxes imposed under section 5001 or this section on distilled spirits, the amount covered into the treasuries of Puerto Rico and the Virgin Islands shall not exceed the lesser of the rate of—
 
-        (1) $10.50 ($13.25 in the case of distilled spirits brought into the United States after June 30, 1999, and before January 1, 2014), or
+        (1) $10.50 ($13.25 in the case of distilled spirits brought into the United States after June 30, 1999, and before January 1, 2015), or
 
         (2) the tax imposed under section 5001(a)(1), on each proof gallon.
 
@@ -135,7 +135,7 @@
 
         (2) whether such provision of law is a subsequently enacted provision or directly or indirectly seeks to waive the application of this subsection.
 
-([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 907][/us/stat/68A/907]; [Pub. L. 85–859, title II, § 204(17)][/us/pl/85/859/s204/17], (18), Sept. 2, 1958, [72 Stat. 1430][/us/stat/72/1430]; [Pub. L. 89–44, title VIII, § 808(b)(3)][/us/pl/89/44/s808/b/3], June 21, 1965, [79 Stat. 164][/us/stat/79/164]; [Pub. L. 94–202, § 10(a)][/us/pl/94/202/s10/a], Jan. 2, 1976, [89 Stat. 1141][/us/stat/89/1141]; [Pub. L. 94–455, title XIX, § 1906(a)(55)][/us/pl/94/455/s1906/a/55], (b) (13)(A), Oct. 4, 1976, [90 Stat. 1832][/us/stat/90/1832], 1834; [Pub. L. 98–67, title II, § 221(a)][/us/pl/98/67/s221/a], Aug. 5, 1983, [97 Stat. 395][/us/stat/97/395]; [Pub. L. 98–213, § 5(c)][/us/pl/98/213/s5/c], Dec. 8, 1983, [97 Stat. 1460][/us/stat/97/1460]; [Pub. L. 98–369, div. B, title VI][/us/pl/98/369], §§ 2681(a), 2682(a), July 18, 1984, [98 Stat. 1172][/us/stat/98/1172], 1174; [Pub. L. 99–514, title XVIII, § 1879(i)(1)][/us/pl/99/514/s1879/i/1], Oct. 22, 1986, [100 Stat. 2907][/us/stat/100/2907]; [Pub. L. 100–418, title I, § 1214(p)(1)][/us/pl/100/418/s1214/p/1], Aug. 23, 1988, [102 Stat. 1159][/us/stat/102/1159]; [Pub. L. 103–66, title XIII, § 13227(e)][/us/pl/103/66/s13227/e], Aug. 10, 1993, [107 Stat. 494][/us/stat/107/494]; [Pub. L. 103–465, title I, § 136(b)][/us/pl/103/465/s136/b], Dec. 8, 1994, [108 Stat. 4841][/us/stat/108/4841]; [Pub. L. 106–170, title V, § 512(a)][/us/pl/106/170/s512/a], Dec. 17, 1999, [113 Stat. 1924][/us/stat/113/1924]; [Pub. L. 106–200, title VI, § 602(b)][/us/pl/106/200/s602/b], (c), May 18, 2000, [114 Stat. 305][/us/stat/114/305], 306; [Pub. L. 107–147, title VI, § 609(a)][/us/pl/107/147/s609/a], Mar. 9, 2002, [116 Stat. 60][/us/stat/116/60]; [Pub. L. 108–311, title III, § 305(a)][/us/pl/108/311/s305/a], Oct. 4, 2004, [118 Stat. 1179][/us/stat/118/1179]; [Pub. L. 109–59, title XI, § 11125(b)(22)][/us/pl/109/59/s11125/b/22], Aug. 10, 2005, [119 Stat. 1957][/us/stat/119/1957]; [Pub. L. 109–432, div. A, title I, § 114(a)][/us/pl/109/432/s114/a], Dec. 20, 2006, [120 Stat. 2940][/us/stat/120/2940]; [Pub. L. 110–343, div. C, title III, § 308(a)][/us/pl/110/343/s308/a], Oct. 3, 2008, [122 Stat. 3869][/us/stat/122/3869]; [Pub. L. 111–312, title VII, § 755(a)][/us/pl/111/312/s755/a], Dec. 17, 2010, [124 Stat. 3322][/us/stat/124/3322]; [Pub. L. 112–240, title III, § 329(a)][/us/pl/112/240/s329/a], Jan. 2, 2013, [126 Stat. 2335][/us/stat/126/2335].)
+([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 907][/us/stat/68A/907]; [Pub. L. 85–859, title II, § 204(17)][/us/pl/85/859/s204/17], (18), Sept. 2, 1958, [72 Stat. 1430][/us/stat/72/1430]; [Pub. L. 89–44, title VIII, § 808(b)(3)][/us/pl/89/44/s808/b/3], June 21, 1965, [79 Stat. 164][/us/stat/79/164]; [Pub. L. 94–202, § 10(a)][/us/pl/94/202/s10/a], Jan. 2, 1976, [89 Stat. 1141][/us/stat/89/1141]; [Pub. L. 94–455, title XIX, § 1906(a)(55)][/us/pl/94/455/s1906/a/55], (b) (13)(A), Oct. 4, 1976, [90 Stat. 1832][/us/stat/90/1832], 1834; [Pub. L. 98–67, title II, § 221(a)][/us/pl/98/67/s221/a], Aug. 5, 1983, [97 Stat. 395][/us/stat/97/395]; [Pub. L. 98–213, § 5(c)][/us/pl/98/213/s5/c], Dec. 8, 1983, [97 Stat. 1460][/us/stat/97/1460]; [Pub. L. 98–369, div. B, title VI][/us/pl/98/369], §§ 2681(a), 2682(a), July 18, 1984, [98 Stat. 1172][/us/stat/98/1172], 1174; [Pub. L. 99–514, title XVIII, § 1879(i)(1)][/us/pl/99/514/s1879/i/1], Oct. 22, 1986, [100 Stat. 2907][/us/stat/100/2907]; [Pub. L. 100–418, title I, § 1214(p)(1)][/us/pl/100/418/s1214/p/1], Aug. 23, 1988, [102 Stat. 1159][/us/stat/102/1159]; [Pub. L. 103–66, title XIII, § 13227(e)][/us/pl/103/66/s13227/e], Aug. 10, 1993, [107 Stat. 494][/us/stat/107/494]; [Pub. L. 103–465, title I, § 136(b)][/us/pl/103/465/s136/b], Dec. 8, 1994, [108 Stat. 4841][/us/stat/108/4841]; [Pub. L. 106–170, title V, § 512(a)][/us/pl/106/170/s512/a], Dec. 17, 1999, [113 Stat. 1924][/us/stat/113/1924]; [Pub. L. 106–200, title VI, § 602(b)][/us/pl/106/200/s602/b], (c), May 18, 2000, [114 Stat. 305][/us/stat/114/305], 306; [Pub. L. 107–147, title VI, § 609(a)][/us/pl/107/147/s609/a], Mar. 9, 2002, [116 Stat. 60][/us/stat/116/60]; [Pub. L. 108–311, title III, § 305(a)][/us/pl/108/311/s305/a], Oct. 4, 2004, [118 Stat. 1179][/us/stat/118/1179]; [Pub. L. 109–59, title XI, § 11125(b)(22)][/us/pl/109/59/s11125/b/22], Aug. 10, 2005, [119 Stat. 1957][/us/stat/119/1957]; [Pub. L. 109–432, div. A, title I, § 114(a)][/us/pl/109/432/s114/a], Dec. 20, 2006, [120 Stat. 2940][/us/stat/120/2940]; [Pub. L. 110–343, div. C, title III, § 308(a)][/us/pl/110/343/s308/a], Oct. 3, 2008, [122 Stat. 3869][/us/stat/122/3869]; [Pub. L. 111–312, title VII, § 755(a)][/us/pl/111/312/s755/a], Dec. 17, 2010, [124 Stat. 3322][/us/stat/124/3322]; [Pub. L. 112–240, title III, § 329(a)][/us/pl/112/240/s329/a], Jan. 2, 2013, [126 Stat. 2335][/us/stat/126/2335]; [Pub. L. 113–295, div. A, title I, § 140(a)][/us/pl/113/295/s140/a], Dec. 19, 2014, [128 Stat. 4020][/us/stat/128/4020].)
 
  __References in Text__ 
 
@@ -146,6 +146,8 @@
     The Harmonized Tariff Schedule of the United States ([19 U.S.C. 1202][/us/usc/t19/s1202]), referred to in subsec. (e)(3), is not set out in the Code. See Publication of Harmonized Tariff Schedule note set out under [section 1202 of Title 19][/us/usc/t19/s1202].
 
  __Amendments__ 
+
+    2014—Subsec. (f)(1). [Pub. L. 113–295][/us/pl/113/295] substituted “January 1, 2015” for “January 1, 2014”.
 
     2013—Subsec. (f)(1). [Pub. L. 112–240][/us/pl/112/240] substituted “January 1, 2014” for “January 1, 2012”.
 
@@ -206,6 +208,12 @@
     1958—Subsec. (a)(1). [Pub. L. 85–859, § 204(17)][/us/pl/85/859/s204/17], substituted “section 5314” for “section 5318”.
 
     Subsec. (b)(1). [Pub. L. 85–859, § 204(18)][/us/pl/85/859/s204/18], substituted “section 5314” for “section 5318”.
+
+ __Effective Date of 2014 Amendment__ 
+
+[Pub. L. 113–295, div. A, title I, § 140(b)][/us/pl/113/295/s140/b], Dec. 19, 2014, [128 Stat. 4020][/us/stat/128/4020], provided that: 
+
+> “The amendment made by this section \[amending this section\] shall apply to distilled spirits brought into the United States after December 31, 2013.”
 
  __Effective Date of 2013 Amendment__ 
 
@@ -458,10 +466,13 @@
 [/us/stat/124/3322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3322
 [/us/pl/112/240/s329/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F240%2Fs329%2Fa
 [/us/stat/126/2335]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F2335
+[/us/pl/113/295/s140/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs140%2Fa
+[/us/stat/128/4020]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F4020
 [/us/pl/106/200]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F200
 [/us/usc/t19/s2703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2703
 [/us/usc/t19/s1202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1202
 [/us/usc/t19/s1202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1202
+[/us/pl/113/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295
 [/us/pl/112/240]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F240
 [/us/pl/111/312]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F312
 [/us/pl/110/343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F343
@@ -495,6 +506,8 @@
 [/us/pl/89/44]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F44
 [/us/pl/85/859/s204/17]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F859%2Fs204%2F17
 [/us/pl/85/859/s204/18]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F859%2Fs204%2F18
+[/us/pl/113/295/s140/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs140%2Fb
+[/us/stat/128/4020]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F4020
 [/us/pl/112/240/s329/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F240%2Fs329%2Fb
 [/us/stat/126/2335]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F2335
 [/us/pl/111/312/s755/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F312%2Fs755%2Fb

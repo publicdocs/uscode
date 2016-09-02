@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../../../..//us/usc/t26/stA/ch1/schF/ptVIII/m__us_usc_t26_s529.md) | [Next](./../../../../../../..//us/usc/t26/stA/ch1/schG/m__us_usc_t26_stA_ch1_schG.md) | [Root of Title](./../../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs530)
+[Previous](./../../../../../../..//us/usc/t26/stA/ch1/schF/ptVIII/m__us_usc_t26_s529A.md) | [Next](./../../../../../../..//us/usc/t26/stA/ch1/schG/m__us_usc_t26_stA_ch1_schG.md) | [Root of Title](./../../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs530)
 
 ## § 530. Coverdell education savings accounts
 
@@ -71,7 +71,7 @@
 
                 (ii) expenses for room and board, uniforms, transportation, and supplementary items and services (including extended day programs) which are required or provided by a public, private, or religious school in connection with such enrollment or attendance, and
 
-                (iii) expenses for the purchase of any computer technology or equipment (as defined in section 170(e)(6)(F)(i)) or Internet access and related services, if such technology, equipment, or services are to be used by the beneficiary and the beneficiary’s family during any of the years the beneficiary is in school.
+                (iii) expenses for the purchase of any computer technology or equipment (as defined in section 170(e)(6)(F)(i)  <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup> ) or Internet access and related services, if such technology, equipment, or services are to be used by the beneficiary and the beneficiary’s family during any of the years the beneficiary is in school.
 
                 Clause (iii) shall not include expenses for computer software designed for sports, games, or hobbies unless the software is predominantly educational in nature.
 
@@ -233,6 +233,8 @@
 
  __References in Text__ 
 
+    Section 170(e)(6)(F)(i), referred to in subsec. (b)(3)(A)(iii), was repealed by [Pub. L. 113–295, title II, § 221(a)(28)(B)][/us/pl/113/295/s221/a/28/B], Dec. 19, 2014, [128 Stat. 4041][/us/stat/128/4041].
+
     The date of the enactment of this section, referred to in subsec. (d)(4)(B)(iv), is the date of enactment of [Pub. L. 105–34][/us/pl/105/34], which enacted this section and was approved Aug. 5, 1997.
 
  __Amendments__ 
@@ -361,7 +363,7 @@
 
 ----------
 
-[Previous](./../../../../../../..//us/usc/t26/stA/ch1/schF/ptVIII/m__us_usc_t26_s529.md) | [Next](./../../../../../../..//us/usc/t26/stA/ch1/schG/m__us_usc_t26_stA_ch1_schG.md) | [Root of Title](./../../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs530)
+[Previous](./../../../../../../..//us/usc/t26/stA/ch1/schF/ptVIII/m__us_usc_t26_s529A.md) | [Next](./../../../../../../..//us/usc/t26/stA/ch1/schG/m__us_usc_t26_stA_ch1_schG.md) | [Root of Title](./../../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs530)
 
 ----------
 ----------
@@ -389,6 +391,8 @@
 [/us/stat/119/2639]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F2639
 [/us/pl/110/245/s109/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F245%2Fs109%2Fc
 [/us/stat/122/1632]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1632
+[/us/pl/113/295/s221/a/28/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs221%2Fa%2F28%2FB
+[/us/stat/128/4041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F4041
 [/us/pl/105/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34
 [/us/pl/110/245]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F245
 [/us/pl/109/135/s412/ff/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F135%2Fs412%2Fff%2F2

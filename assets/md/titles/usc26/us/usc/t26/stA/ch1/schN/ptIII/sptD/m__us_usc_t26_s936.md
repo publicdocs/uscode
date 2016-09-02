@@ -47,13 +47,11 @@
 
         The credit provided by paragraph (1) shall not be allowed against the tax imposed by—
 
-            (A) section 59A (relating to environmental tax),
+            (A) section 531 (relating to the tax on accumulated earnings),
 
-            (B) section 531 (relating to the tax on accumulated earnings),
+            (B) section 541 (relating to personal holding company tax), or
 
-            (C) section 541 (relating to personal holding company tax), or
-
-            (D) section 1351 (relating to recoveries of foreign expropriation losses).
+            (C) section 1351 (relating to recoveries of foreign expropriation losses).
 
         (4) __Limitations on credit for active business income__ 
 
@@ -917,7 +915,7 @@
 
             this subsection (and so much of this section as relates to this subsection) shall be applied separately with respect to each possession.
 
-(Added [Pub. L. 94–455, title X, § 1051(b)][/us/pl/94/455/s1051/b], Oct. 4, 1976, [90 Stat. 1643][/us/stat/90/1643]; amended [Pub. L. 94–455, title XIX, § 1901(b)(37)(B)][/us/pl/94/455/s1901/b/37/B], Oct. 4, 1976, [90 Stat. 1803][/us/stat/90/1803]; [Pub. L. 95–600, title VII, § 701(u)(11)(A)][/us/pl/95/600/s701/u/11/A], (B), Nov. 6, 1978, [92 Stat. 2917][/us/stat/92/2917]; [Pub. L. 97–248, title II, § 201(d)(8)(B)][/us/pl/97/248/s201/d/8/B], formerly § 201(c)(8)(B), § 213(a), Sept. 3, 1982, [96 Stat. 420][/us/stat/96/420], 452, renumbered § 201(d)(8)(B), [Pub. L. 97–448, title III, § 306(a)(1)(A)(i)][/us/pl/97/448/s306/a/1/A/i], Jan. 12, 1983, [96 Stat. 2400][/us/stat/96/2400]; [Pub. L. 98–369, div. A, title IV, § 474(r)(22)][/us/pl/98/369/s474/r/22], title VII, § 712(g), title VIII, § 801(d)(11), July 18, 1984, [98 Stat. 843][/us/stat/98/843], 947, 997; [Pub. L. 99–499, title V, § 516(b)(1)(B)][/us/pl/99/499/s516/b/1/B], Oct. 17, 1986, [100 Stat. 1770][/us/stat/100/1770]; [Pub. L. 99–514, title II, § 231(d)(3)(G)][/us/pl/99/514/s231/d/3/G], title VII, § 701(e)(4)(I), title XII, §§ 1231(a)–(d), (f), 1275(a)(1), title XVIII, § 1812(c)(4)(C), Oct. 22, 1986, [100 Stat. 2179][/us/stat/100/2179], 2343, 2561–2563, 2598, 2835; [Pub. L. 100–647, title I][/us/pl/100/647], §§ 1002(h)(3), 1012(h)(2)(B), (j), (n)(4), (5), title VI, § 6132(a), Nov. 10, 1988, [102 Stat. 3370][/us/stat/102/3370], 3502, 3512, 3515, 3721; [Pub. L. 101–382, title II, § 227(a)][/us/pl/101/382/s227/a], Aug. 20, 1990, [104 Stat. 661][/us/stat/104/661]; [Pub. L. 101–508, title XI, § 11704(a)(11)][/us/pl/101/508/s11704/a/11], Nov. 5, 1990, [104 Stat. 1388–518][/us/stat/104/1388-518]; [Pub. L. 103–66, title XIII, § 13227(a)][/us/pl/103/66/s13227/a], (b), Aug. 10, 1993, [107 Stat. 489][/us/stat/107/489], 490; [Pub. L. 104–188, title I][/us/pl/104/188], §§ 1601(a), 1704(t)(37), (80), Aug. 20, 1996, [110 Stat. 1827][/us/stat/110/1827], 1889, 1891; [Pub. L. 108–357, title IV, § 402(b)(2)][/us/pl/108/357/s402/b/2], Oct. 22, 2004, [118 Stat. 1492][/us/stat/118/1492]; [Pub. L. 110–172, § 11(g)(12)][/us/pl/110/172/s11/g/12], Dec. 29, 2007, [121 Stat. 2490][/us/stat/121/2490].)
+(Added [Pub. L. 94–455, title X, § 1051(b)][/us/pl/94/455/s1051/b], Oct. 4, 1976, [90 Stat. 1643][/us/stat/90/1643]; amended [Pub. L. 94–455, title XIX, § 1901(b)(37)(B)][/us/pl/94/455/s1901/b/37/B], Oct. 4, 1976, [90 Stat. 1803][/us/stat/90/1803]; [Pub. L. 95–600, title VII, § 701(u)(11)(A)][/us/pl/95/600/s701/u/11/A], (B), Nov. 6, 1978, [92 Stat. 2917][/us/stat/92/2917]; [Pub. L. 97–248, title II, § 201(d)(8)(B)][/us/pl/97/248/s201/d/8/B], formerly § 201(c)(8)(B), § 213(a), Sept. 3, 1982, [96 Stat. 420][/us/stat/96/420], 452, renumbered § 201(d)(8)(B), [Pub. L. 97–448, title III, § 306(a)(1)(A)(i)][/us/pl/97/448/s306/a/1/A/i], Jan. 12, 1983, [96 Stat. 2400][/us/stat/96/2400]; [Pub. L. 98–369, div. A, title IV, § 474(r)(22)][/us/pl/98/369/s474/r/22], title VII, § 712(g), title VIII, § 801(d)(11), July 18, 1984, [98 Stat. 843][/us/stat/98/843], 947, 997; [Pub. L. 99–499, title V, § 516(b)(1)(B)][/us/pl/99/499/s516/b/1/B], Oct. 17, 1986, [100 Stat. 1770][/us/stat/100/1770]; [Pub. L. 99–514, title II, § 231(d)(3)(G)][/us/pl/99/514/s231/d/3/G], title VII, § 701(e)(4)(I), title XII, §§ 1231(a)–(d), (f), 1275(a)(1), title XVIII, § 1812(c)(4)(C), Oct. 22, 1986, [100 Stat. 2179][/us/stat/100/2179], 2343, 2561–2563, 2598, 2835; [Pub. L. 100–647, title I][/us/pl/100/647], §§ 1002(h)(3), 1012(h)(2)(B), (j), (n)(4), (5), title VI, § 6132(a), Nov. 10, 1988, [102 Stat. 3370][/us/stat/102/3370], 3502, 3512, 3515, 3721; [Pub. L. 101–382, title II, § 227(a)][/us/pl/101/382/s227/a], Aug. 20, 1990, [104 Stat. 661][/us/stat/104/661]; [Pub. L. 101–508, title XI, § 11704(a)(11)][/us/pl/101/508/s11704/a/11], Nov. 5, 1990, [104 Stat. 1388–518][/us/stat/104/1388-518]; [Pub. L. 103–66, title XIII, § 13227(a)][/us/pl/103/66/s13227/a], (b), Aug. 10, 1993, [107 Stat. 489][/us/stat/107/489], 490; [Pub. L. 104–188, title I][/us/pl/104/188], §§ 1601(a), 1704(t)(37), (80), Aug. 20, 1996, [110 Stat. 1827][/us/stat/110/1827], 1889, 1891; [Pub. L. 108–357, title IV, § 402(b)(2)][/us/pl/108/357/s402/b/2], Oct. 22, 2004, [118 Stat. 1492][/us/stat/118/1492]; [Pub. L. 110–172, § 11(g)(12)][/us/pl/110/172/s11/g/12], Dec. 29, 2007, [121 Stat. 2490][/us/stat/121/2490]; [Pub. L. 113–295, div. A, title II, § 221(a)(12)(G)][/us/pl/113/295/s221/a/12/G], Dec. 19, 2014, [128 Stat. 4038][/us/stat/128/4038].)
 
  __References in Text__ 
 
@@ -932,6 +930,8 @@
     Section 230 of the Social Security Act, referred to in subsec. (i)(1)(B)(i), is classified to [section 430 of Title 42][/us/usc/t42/s430], The Public Health and Welfare.
 
  __Amendments__ 
+
+    2014—Subsec. (a)(3). [Pub. L. 113–295][/us/pl/113/295] redesignated subpars. (B) to (D) as (A) to (C), respectively, and struck out former subpar. (A) which read as follows: “section 59A (relating to environmental tax),”.
 
     2007—Subsec. (f)(2)(B). [Pub. L. 110–172][/us/pl/110/172] struck out “FSC or” before “former FSC”.
 
@@ -1056,6 +1056,10 @@ The percentage is:  </td>
     Subsec. (d). [Pub. L. 95–600, § 701(u)(11)(B)][/us/pl/95/600/s701/u/11/B], substituted in heading “Definitions and special rules” for “Definitions” and added par. (3).
 
     1976—Subsec. (a)(2)(D). [Pub. L. 94–455, § 1901(b)(37)(B)][/us/pl/94/455/s1901/b/37/B], struck out subpar. (D) relating to war loss recoveries.
+
+ __Effective Date of 2014 Amendment__ 
+
+    Amendment by [Pub. L. 113–295][/us/pl/113/295] effective Dec. 19, 2014, subject to a savings provision, see [section 221(b) of Pub. L. 113–295][/us/pl/113/295/s221/b], set out as a note under [section 1 of this title][/us/usc/t26/s1].
 
  __Effective Date of 2004 Amendment__ 
 
@@ -1242,6 +1246,8 @@ The percentage is:  </td>
 [/us/stat/118/1492]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1492
 [/us/pl/110/172/s11/g/12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F172%2Fs11%2Fg%2F12
 [/us/stat/121/2490]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F2490
+[/us/pl/113/295/s221/a/12/G]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs221%2Fa%2F12%2FG
+[/us/stat/128/4038]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F4038
 [/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
 [/us/pl/98/67]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F67
 [/us/stat/97/384]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F384
@@ -1250,6 +1256,7 @@ The percentage is:  </td>
 [/us/pl/97/248]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F248
 [/us/pl/97/248]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F248
 [/us/usc/t42/s430]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs430
+[/us/pl/113/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295
 [/us/pl/110/172]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F172
 [/us/pl/108/357]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357
 [/us/pl/104/188/s1704/t/80]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188%2Fs1704%2Ft%2F80
@@ -1293,6 +1300,9 @@ The percentage is:  </td>
 [/us/pl/95/600/s701/u/11/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F600%2Fs701%2Fu%2F11%2FA
 [/us/pl/95/600/s701/u/11/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F600%2Fs701%2Fu%2F11%2FB
 [/us/pl/94/455/s1901/b/37/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1901%2Fb%2F37%2FB
+[/us/pl/113/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295
+[/us/pl/113/295/s221/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs221%2Fb
+[/us/usc/t26/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs1
 [/us/pl/108/357]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357
 [/us/pl/108/357/s402/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357%2Fs402%2Fc
 [/us/usc/t26/s535]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs535

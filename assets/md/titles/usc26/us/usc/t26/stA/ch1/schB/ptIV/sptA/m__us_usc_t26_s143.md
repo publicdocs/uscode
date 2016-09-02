@@ -631,7 +631,7 @@
 
             The preceding sentence shall apply only with respect to bonds issued after May 1, 2008, and before January 1, 2010.
 
-        (12)  __ <sup>\[__  __1__  __\]</sup> __  __ <sup><sup> __  __1__  __ So in original. Two pars. (12) have been enacted.__  __ </sup></sup> __  __Special rules for subprime refinancings__ 
+        (12) __Special rules for subprime refinancings__ 
 
             (A) __In general__ 
 
@@ -655,7 +655,7 @@
 
                 This paragraph shall not apply to any bonds issued after December 31, 2010.
 
-        (12)  __1__  __Special rules for residences destroyed in federally declared disasters__ 
+        (13) __Special rules for residences destroyed in federally declared disasters__ 
 
             (A) __Principal residence destroyed__ 
 
@@ -683,7 +683,7 @@
 
             (C) __Federally declared disaster__ 
 
-                For purposes of this paragraph, the term “federally declared disaster” has the meaning given such term by section 165(h)(3)(C)(i).
+                For purposes of this paragraph, the term “federally declared disaster” has the meaning given such term by section 165(h)(3)(C)(i). <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup> 
 
             (D) __Election; denial of double benefit__ 
 
@@ -1173,7 +1173,7 @@
 
                 The Secretary shall prescribe such regulations as may be necessary or appropriate to carry out this subsection, including regulations dealing with dispositions of partial interests in a residence.
 
-(Added [Pub. L. 99–514, title XIII, § 1301(b)][/us/pl/99/514/s1301/b], Oct. 22, 1986, [100 Stat. 2610][/us/stat/100/2610]; amended [Pub. L. 100–647, title I, § 1013(a)(2)][/us/pl/100/647/s1013/a/2], (3), title IV, § 4005(a)(1), (b)–(d)(1), (e)–(g)(2), (6), Nov. 10, 1988, [102 Stat. 3537][/us/stat/102/3537], 3645–3651; [Pub. L. 101–239, title VII, § 7104(a)][/us/pl/101/239/s7104/a], Dec. 19, 1989, [103 Stat. 2305][/us/stat/103/2305]; [Pub. L. 101–508, title XI, § 11408(a)][/us/pl/101/508/s11408/a], (c), Nov. 5, 1990, [104 Stat. 1388–477][/us/stat/104/1388-477]; [Pub. L. 102–227, title I, § 108(a)][/us/pl/102/227/s108/a], Dec. 11, 1991, [105 Stat. 1688][/us/stat/105/1688]; [Pub. L. 103–66, title XIII, § 13141(a)][/us/pl/103/66/s13141/a], (c)–(e), Aug. 10, 1993, [107 Stat. 436][/us/stat/107/436], 437; [Pub. L. 104–188, title I][/us/pl/104/188], §§ 1702(d)(2), 1703(n)(3), Aug. 20, 1996, [110 Stat. 1870][/us/stat/110/1870], 1877; [Pub. L. 105–34, title III, § 312(d)(1)][/us/pl/105/34/s312/d/1], (3), title IX, § 914, Aug. 5, 1997, [111 Stat. 839][/us/stat/111/839], 840, 878; [Pub. L. 109–222, title II, § 203(a)(1)][/us/pl/109/222/s203/a/1], (b)(1), May 17, 2006, [120 Stat. 348][/us/stat/120/348], 349; [Pub. L. 109–432, div. A, title IV][/us/pl/109/432], §§ 411(a), 416(a), Dec. 20, 2006, [120 Stat. 2963][/us/stat/120/2963], 2965; [Pub. L. 110–245, title I, § 103(a)][/us/pl/110/245/s103/a]–(c), June 17, 2008, [122 Stat. 1625][/us/stat/122/1625]; [Pub. L. 110–289, div. C, title I][/us/pl/110/289], §§ 3021(b)(1), 3026(a), July 30, 2008, [122 Stat. 2893][/us/stat/122/2893], 2897; [Pub. L. 110–343, div. C, title VII, § 709(a)][/us/pl/110/343/s709/a], Oct. 3, 2008, [122 Stat. 3925][/us/stat/122/3925].)
+(Added [Pub. L. 99–514, title XIII, § 1301(b)][/us/pl/99/514/s1301/b], Oct. 22, 1986, [100 Stat. 2610][/us/stat/100/2610]; amended [Pub. L. 100–647, title I, § 1013(a)(2)][/us/pl/100/647/s1013/a/2], (3), title IV, § 4005(a)(1), (b)–(d)(1), (e)–(g)(2), (6), Nov. 10, 1988, [102 Stat. 3537][/us/stat/102/3537], 3645–3651; [Pub. L. 101–239, title VII, § 7104(a)][/us/pl/101/239/s7104/a], Dec. 19, 1989, [103 Stat. 2305][/us/stat/103/2305]; [Pub. L. 101–508, title XI, § 11408(a)][/us/pl/101/508/s11408/a], (c), Nov. 5, 1990, [104 Stat. 1388–477][/us/stat/104/1388-477]; [Pub. L. 102–227, title I, § 108(a)][/us/pl/102/227/s108/a], Dec. 11, 1991, [105 Stat. 1688][/us/stat/105/1688]; [Pub. L. 103–66, title XIII, § 13141(a)][/us/pl/103/66/s13141/a], (c)–(e), Aug. 10, 1993, [107 Stat. 436][/us/stat/107/436], 437; [Pub. L. 104–188, title I][/us/pl/104/188], §§ 1702(d)(2), 1703(n)(3), Aug. 20, 1996, [110 Stat. 1870][/us/stat/110/1870], 1877; [Pub. L. 105–34, title III, § 312(d)(1)][/us/pl/105/34/s312/d/1], (3), title IX, § 914, Aug. 5, 1997, [111 Stat. 839][/us/stat/111/839], 840, 878; [Pub. L. 109–222, title II, § 203(a)(1)][/us/pl/109/222/s203/a/1], (b)(1), May 17, 2006, [120 Stat. 348][/us/stat/120/348], 349; [Pub. L. 109–432, div. A, title IV][/us/pl/109/432], §§ 411(a), 416(a), Dec. 20, 2006, [120 Stat. 2963][/us/stat/120/2963], 2965; [Pub. L. 110–245, title I, § 103(a)][/us/pl/110/245/s103/a]–(c), June 17, 2008, [122 Stat. 1625][/us/stat/122/1625]; [Pub. L. 110–289, div. C, title I][/us/pl/110/289], §§ 3021(b)(1), 3026(a), July 30, 2008, [122 Stat. 2893][/us/stat/122/2893], 2897; [Pub. L. 110–343, div. C, title VII, § 709(a)][/us/pl/110/343/s709/a], Oct. 3, 2008, [122 Stat. 3925][/us/stat/122/3925]; [Pub. L. 113–295, div. A, title II, § 211(c)(2)][/us/pl/113/295/s211/c/2], Dec. 19, 2014, [128 Stat. 4033][/us/stat/128/4033].)
 
  __References in Text__ 
 
@@ -1182,6 +1182,8 @@
     Section 8 of the United States Housing Act of 1937, referred to in subsec. (f)(2), is classified to [section 1437f of Title 42][/us/usc/t42/s1437f], The Public Health and Welfare.
 
     The Robert T. Stafford Disaster Relief and Emergency Assistance Act, referred to in subsec. (k)(11), is [Pub. L. 93–288][/us/pl/93/288], May 22, 1974, [88 Stat. 143][/us/stat/88/143], as in effect on the date of enactment of [Pub. L. 105–34][/us/pl/105/34], which was approved Aug. 5, 1997. The Act is classified principally to chapter 68 (§ 5121 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 5121 of Title 42][/us/usc/t42/s5121] and Tables.
+
+    Par. (3) of section 165(h), referred to in subsec. (k)(13)(C), was repealed by [Pub. L. 113–295, div. A, title II, § 221(a)(27)(A)][/us/pl/113/295/s221/a/27/A], Dec. 19, 2014, [128 Stat. 4040][/us/stat/128/4040]. However, the term “federally declared disaster” is defined elsewhere in that section.
 
     The date of the enactment of this subsection, referred to in subsec. (l)(5)(B), is the date of enactment of [Pub. L. 99–514][/us/pl/99/514], which was approved Oct. 22, 1986.
 
@@ -1194,6 +1196,8 @@
     Provisions similar to this section were contained in [section 103A of this title][/us/usc/t26/s103A] prior to repeal by [Pub. L. 99–514][/us/pl/99/514].
 
  __Amendments__ 
+
+    2014—Subsec. (k)(12), (13). [Pub. L. 113–295][/us/pl/113/295] redesignated par. (12), relating to special rules for residences destroyed in federally declared disasters, as (13).
 
     2008—Subsec. (d)(2)(D). [Pub. L. 110–245, § 103(a)][/us/pl/110/245/s103/a], struck out “and before January 1, 2008” after “enactment of this subparagraph”.
 
@@ -1310,6 +1314,12 @@
     Subsec. (g)(2)(B)(iv). [Pub. L. 100–647, § 4005(g)(6)][/us/pl/100/647/s4005/g/6], inserted at end “The Secretary may by regulation adjust the mortgage prepayment rate otherwise used in determining the effective rate of interest to the extent the Secretary determines that such an adjustment is appropriate by reason of the impact of subsection (m).”
 
     Subsec. (m). [Pub. L. 100–647, § 4005(g)(1)][/us/pl/100/647/s4005/g/1], added subsec. (m).
+
+ __Effective Date of 2014 Amendment__ 
+
+[Pub. L. 113–295, div. A, title II, § 211(d)][/us/pl/113/295/s211/d], Dec. 19, 2014, [128 Stat. 4033][/us/stat/128/4033], provided that: 
+
+> “The amendments made by this section \[amending this section and sections 165, 168, 172, and 1033 of this title and provisions set out as notes under sections 56 and 897 of this title\] shall take effect as if included in the provisions of the Tax Extenders and Alternative Minimum Tax Relief Act of 2008 \[[Pub. L. 110–343, div. C][/us/pl/110/343]\] to which they relate.”
 
  __Effective Date of 2008 Amendment__ 
 
@@ -1477,12 +1487,16 @@
 [/us/stat/122/2893]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F2893
 [/us/pl/110/343/s709/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F343%2Fs709%2Fa
 [/us/stat/122/3925]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3925
+[/us/pl/113/295/s211/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs211%2Fc%2F2
+[/us/stat/128/4033]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F4033
 [/us/pl/109/432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F432
 [/us/usc/t42/s1437f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1437f
 [/us/pl/93/288]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F288
 [/us/stat/88/143]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F143
 [/us/pl/105/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34
 [/us/usc/t42/s5121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5121
+[/us/pl/113/295/s221/a/27/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs221%2Fa%2F27%2FA
+[/us/stat/128/4040]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F4040
 [/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
 [/us/usc/t26/s1034/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs1034%2Fe
 [/us/pl/105/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34
@@ -1502,6 +1516,7 @@
 [/us/usc/t26/s7703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs7703
 [/us/usc/t26/s103A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs103A
 [/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
+[/us/pl/113/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295
 [/us/pl/110/245/s103/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F245%2Fs103%2Fa
 [/us/pl/110/289/s3026/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289%2Fs3026%2Fa
 [/us/pl/110/343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F343
@@ -1551,6 +1566,9 @@
 [/us/pl/100/647/s4005/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs4005%2Fd%2F1
 [/us/pl/100/647/s4005/g/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs4005%2Fg%2F6
 [/us/pl/100/647/s4005/g/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs4005%2Fg%2F1
+[/us/pl/113/295/s211/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs211%2Fd
+[/us/stat/128/4033]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F4033
+[/us/pl/110/343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F343
 [/us/pl/110/343/s709/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F343%2Fs709%2Fb
 [/us/stat/122/3926]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3926
 [/us/pl/110/289/s3021/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289%2Fs3021%2Fc

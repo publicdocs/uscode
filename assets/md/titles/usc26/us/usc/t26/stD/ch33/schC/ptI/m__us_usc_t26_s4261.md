@@ -167,21 +167,11 @@
 
                     (I) is not located within 75 miles of another airport which is not described in clause (i),
 
-                    (II) is receiving essential air service subsidies as of the date of the enactment of this paragraph, or
+                    (II) is receiving essential air service subsidies as of the date of Bthe enactment of this paragraph, or
 
                     (III) is not connected by paved roads to another airport.
 
-            (C) __No phasein of reduced ticket tax__ 
-
-            In the case of transportation beginning before October 1, 1999—
-
-                (i) __In general__ 
-
-                    Paragraph (5) shall not apply to any domestic segment beginning or ending at an airport which is a rural airport for the calendar year in which such segment begins or ends (as the case may be).
-
-                (ii) __Transportation involving multiple segments__ 
-
-                    In the case of transportation involving more than 1 domestic segment at least 1 of which does not begin or end at a rural airport, the 7.5 percent rate applicable by reason of clause (i) shall be applied by taking into account only an amount which bears the same ratio to the amount paid for such transportation as the number of specified miles in domestic segments which begin or end at a rural airport bears to the total number of specified miles in such transportation.
+            \[(C) __Repealed.__  __[__  __Pub. L. 113–295, div. A, title II, § 221(a)(104)(A)__  __][/us/pl/113/295/s221/a/104/A]__  __,__  __Dec. 19, 2014__  __,__  __[__  __128 Stat. 4053__  __][/us/stat/128/4053]__  __\]__ 
 
         (2) __Amounts paid outside the United States__ 
 
@@ -229,13 +219,7 @@
 
                 If an amount is paid during a calendar year for a domestic segment beginning in a later calendar year, then the rate of tax under subsection (b) on such amount shall be the rate in effect for the calendar year in which such amount is paid.
 
-        (5) __Rates of ticket tax for transportation beginning before__  __October 1, 1999__ 
-
-        Subsection (a) shall be applied by substituting for “7.5 percent”—
-
-            (A) “9 percent” in the case of transportation beginning after September 30, 1997, and before October 1, 1998, and
-
-            (B) “8 percent” in the case of transportation beginning after September 30, 1998, and before October 1, 1999.
+        \[(5) __Repealed.__  __[__  __Pub. L. 113–295, div. A, title II, § 221(a)(104)(B)__  __][/us/pl/113/295/s221/a/104/B]__  __,__  __Dec. 19, 2014__  __,__  __[__  __128 Stat. 4053__  __][/us/stat/128/4053]__  __\]__ 
 
     (f) __Exemption for certain uses__ 
 
@@ -287,7 +271,7 @@
 
             If, as of the date any transportation begins, the taxes imposed by this section would not have applied to such transportation if paid for on such date, any tax paid under paragraph (1)(B) with respect to such transportation shall be treated as an overpayment.
 
-([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 506][/us/stat/68A/506]; [July 25, 1956, ch. 725][/us/act/1956-07-25/ch725], §§ 1, 4(b), [70 Stat. 644][/us/stat/70/644], 646; [Pub. L. 86–75, § 4][/us/pl/86/75/s4], June 30, 1959, [73 Stat. 158][/us/stat/73/158]; [Pub. L. 86–564, title II, § 202(a)(3)][/us/pl/86/564/s202/a/3], June 30, 1960, [74 Stat. 290][/us/stat/74/290]; [Pub. L. 87–72, § 3(a)(3)][/us/pl/87/72/s3/a/3], June 30, 1961, [75 Stat. 193][/us/stat/75/193]; [Pub. L. 87–508, § 5(a)][/us/pl/87/508/s5/a], (b), June 28, 1962, [76 Stat. 115][/us/stat/76/115]; [Pub. L. 88–52, § 3(a)(3)][/us/pl/88/52/s3/a/3], June 29, 1963, [77 Stat. 72][/us/stat/77/72]; [Pub. L. 88–348, § 2(a)(3)][/us/pl/88/348/s2/a/3], June 30, 1964, [78 Stat. 237][/us/stat/78/237]; [Pub. L. 89–44, title III, § 303(a)][/us/pl/89/44/s303/a], June 21, 1965, [79 Stat. 148][/us/stat/79/148]; [Pub. L. 91–258, title II, § 203(a)][/us/pl/91/258/s203/a], May 21, 1970, [84 Stat. 238][/us/stat/84/238]; [Pub. L. 94–455, title XIX, § 1904(a)(7)][/us/pl/94/455/s1904/a/7], Oct. 4, 1976, [90 Stat. 1812][/us/stat/90/1812]; [Pub. L. 96–298, § 1(b)][/us/pl/96/298/s1/b], July 1, 1980, [94 Stat. 829][/us/stat/94/829]; [Pub. L. 97–248, title II, § 280(a)][/us/pl/97/248/s280/a], Sept. 3, 1982, [96 Stat. 564][/us/stat/96/564]; [Pub. L. 98–369, div. A, title X, § 1018(b)][/us/pl/98/369/s1018/b], July 18, 1984, [98 Stat. 1021][/us/stat/98/1021]; [Pub. L. 99–514, title XVIII, § 1878(c)(2)][/us/pl/99/514/s1878/c/2], Oct. 22, 1986, [100 Stat. 2903][/us/stat/100/2903]; [Pub. L. 100–223, title IV][/us/pl/100/223], §§ 402(a)(1), 404(a), (c), Dec. 30, 1987, [101 Stat. 1532][/us/stat/101/1532], 1533; [Pub. L. 101–239, title VII, § 7503(a)][/us/pl/101/239/s7503/a], Dec. 19, 1989, [103 Stat. 2362][/us/stat/103/2362]; [Pub. L. 101–508, title XI, § 11213(a)(1)][/us/pl/101/508/s11213/a/1], (d)(1), Nov. 5, 1990, [104 Stat. 1388–432][/us/stat/104/1388-432], 1388–435; [Pub. L. 103–272, § 5(g)(2)][/us/pl/103/272/s5/g/2], July 5, 1994, [108 Stat. 1374][/us/stat/108/1374]; [Pub. L. 104–188, title I, § 1609(b)][/us/pl/104/188/s1609/b], (d), (e), Aug. 20, 1996, [110 Stat. 1841][/us/stat/110/1841], 1842; [Pub. L. 105–2, § 2(b)(1)][/us/pl/105/2/s2/b/1], Feb. 28, 1997, [111 Stat. 5][/us/stat/111/5]; [Pub. L. 105–34, title X, § 1031(b)(1)][/us/pl/105/34/s1031/b/1], (c)(1), (2), title XIV, § 1435(a), title XVI, § 1601(f)(4)(D), Aug. 5, 1997, [111 Stat. 929][/us/stat/111/929], 930, 1052, 1091; [Pub. L. 108–176, title IX, § 902(a)][/us/pl/108/176/s902/a], Dec. 12, 2003, [117 Stat. 2598][/us/stat/117/2598]; [Pub. L. 109–59, title XI][/us/pl/109/59], §§ 11121(c), 11122(a), 11123(a), Aug. 10, 2005, [119 Stat. 1951][/us/stat/119/1951], 1952; [Pub. L. 109–135, title IV, § 412(vv)][/us/pl/109/135/s412/vv], Dec. 21, 2005, [119 Stat. 2640][/us/stat/119/2640]; [Pub. L. 110–161, div. K, title I, § 116(b)(1)][/us/pl/110/161/s116/b/1], Dec. 26, 2007, [121 Stat. 2381][/us/stat/121/2381]; [Pub. L. 110–190, § 2(b)(1)][/us/pl/110/190/s2/b/1], Feb. 28, 2008, [122 Stat. 643][/us/stat/122/643]; [Pub. L. 110–253, § 2(b)(1)][/us/pl/110/253/s2/b/1], June 30, 2008, [122 Stat. 2417][/us/stat/122/2417]; [Pub. L. 110–330, § 2(b)(1)][/us/pl/110/330/s2/b/1], Sept. 30, 2008, [122 Stat. 3717][/us/stat/122/3717]; [Pub. L. 111–12, § 2(b)(1)][/us/pl/111/12/s2/b/1], Mar. 30, 2009, [123 Stat. 1457][/us/stat/123/1457]; [Pub. L. 111–69, § 2(b)(1)][/us/pl/111/69/s2/b/1], Oct. 1, 2009, [123 Stat. 2054][/us/stat/123/2054]; [Pub. L. 111–116, § 2(b)(1)][/us/pl/111/116/s2/b/1], Dec. 16, 2009, [123 Stat. 3031][/us/stat/123/3031]; [Pub. L. 111–153, § 2(b)(1)][/us/pl/111/153/s2/b/1], Mar. 31, 2010, [124 Stat. 1084][/us/stat/124/1084]; [Pub. L. 111–161, § 2(b)(1)][/us/pl/111/161/s2/b/1], Apr. 30, 2010, [124 Stat. 1126][/us/stat/124/1126]; [Pub. L. 111–197, § 2(b)(1)][/us/pl/111/197/s2/b/1], July 2, 2010, [124 Stat. 1353][/us/stat/124/1353]; [Pub. L. 111–216, title I, § 101(b)(1)][/us/pl/111/216/s101/b/1], Aug. 1, 2010, [124 Stat. 2349][/us/stat/124/2349]; [Pub. L. 111–249, § 2(b)(1)][/us/pl/111/249/s2/b/1], Sept. 30, 2010, [124 Stat. 2627][/us/stat/124/2627]; [Pub. L. 111–329, § 2(b)(1)][/us/pl/111/329/s2/b/1], Dec. 22, 2010, [124 Stat. 3566][/us/stat/124/3566]; [Pub. L. 112–7, § 2(b)(1)][/us/pl/112/7/s2/b/1], Mar. 31, 2011, [125 Stat. 31][/us/stat/125/31]; [Pub. L. 112–16, § 2(b)(1)][/us/pl/112/16/s2/b/1], May 31, 2011, [125 Stat. 218][/us/stat/125/218]; [Pub. L. 112–21, § 2(b)(1)][/us/pl/112/21/s2/b/1], June 29, 2011, [125 Stat. 233][/us/stat/125/233]; [Pub. L. 112–27, § 2(b)(1)][/us/pl/112/27/s2/b/1], Aug. 5, 2011, [125 Stat. 270][/us/stat/125/270]; [Pub. L. 112–30, title II, § 202(b)(1)][/us/pl/112/30/s202/b/1], Sept. 16, 2011, [125 Stat. 357][/us/stat/125/357]; [Pub. L. 112–91, § 2(b)(1)][/us/pl/112/91/s2/b/1], Jan. 31, 2012, [126 Stat. 3][/us/stat/126/3]; [Pub. L. 112–95, title XI][/us/pl/112/95], §§ 1101(b)(1), 1103(c), Feb. 14, 2012, [126 Stat. 148][/us/stat/126/148], 151.)
+([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 506][/us/stat/68A/506]; [July 25, 1956, ch. 725][/us/act/1956-07-25/ch725], §§ 1, 4(b), [70 Stat. 644][/us/stat/70/644], 646; [Pub. L. 86–75, § 4][/us/pl/86/75/s4], June 30, 1959, [73 Stat. 158][/us/stat/73/158]; [Pub. L. 86–564, title II, § 202(a)(3)][/us/pl/86/564/s202/a/3], June 30, 1960, [74 Stat. 290][/us/stat/74/290]; [Pub. L. 87–72, § 3(a)(3)][/us/pl/87/72/s3/a/3], June 30, 1961, [75 Stat. 193][/us/stat/75/193]; [Pub. L. 87–508, § 5(a)][/us/pl/87/508/s5/a], (b), June 28, 1962, [76 Stat. 115][/us/stat/76/115]; [Pub. L. 88–52, § 3(a)(3)][/us/pl/88/52/s3/a/3], June 29, 1963, [77 Stat. 72][/us/stat/77/72]; [Pub. L. 88–348, § 2(a)(3)][/us/pl/88/348/s2/a/3], June 30, 1964, [78 Stat. 237][/us/stat/78/237]; [Pub. L. 89–44, title III, § 303(a)][/us/pl/89/44/s303/a], June 21, 1965, [79 Stat. 148][/us/stat/79/148]; [Pub. L. 91–258, title II, § 203(a)][/us/pl/91/258/s203/a], May 21, 1970, [84 Stat. 238][/us/stat/84/238]; [Pub. L. 94–455, title XIX, § 1904(a)(7)][/us/pl/94/455/s1904/a/7], Oct. 4, 1976, [90 Stat. 1812][/us/stat/90/1812]; [Pub. L. 96–298, § 1(b)][/us/pl/96/298/s1/b], July 1, 1980, [94 Stat. 829][/us/stat/94/829]; [Pub. L. 97–248, title II, § 280(a)][/us/pl/97/248/s280/a], Sept. 3, 1982, [96 Stat. 564][/us/stat/96/564]; [Pub. L. 98–369, div. A, title X, § 1018(b)][/us/pl/98/369/s1018/b], July 18, 1984, [98 Stat. 1021][/us/stat/98/1021]; [Pub. L. 99–514, title XVIII, § 1878(c)(2)][/us/pl/99/514/s1878/c/2], Oct. 22, 1986, [100 Stat. 2903][/us/stat/100/2903]; [Pub. L. 100–223, title IV][/us/pl/100/223], §§ 402(a)(1), 404(a), (c), Dec. 30, 1987, [101 Stat. 1532][/us/stat/101/1532], 1533; [Pub. L. 101–239, title VII, § 7503(a)][/us/pl/101/239/s7503/a], Dec. 19, 1989, [103 Stat. 2362][/us/stat/103/2362]; [Pub. L. 101–508, title XI, § 11213(a)(1)][/us/pl/101/508/s11213/a/1], (d)(1), Nov. 5, 1990, [104 Stat. 1388–432][/us/stat/104/1388-432], 1388–435; [Pub. L. 103–272, § 5(g)(2)][/us/pl/103/272/s5/g/2], July 5, 1994, [108 Stat. 1374][/us/stat/108/1374]; [Pub. L. 104–188, title I, § 1609(b)][/us/pl/104/188/s1609/b], (d), (e), Aug. 20, 1996, [110 Stat. 1841][/us/stat/110/1841], 1842; [Pub. L. 105–2, § 2(b)(1)][/us/pl/105/2/s2/b/1], Feb. 28, 1997, [111 Stat. 5][/us/stat/111/5]; [Pub. L. 105–34, title X, § 1031(b)(1)][/us/pl/105/34/s1031/b/1], (c)(1), (2), title XIV, § 1435(a), title XVI, § 1601(f)(4)(D), Aug. 5, 1997, [111 Stat. 929][/us/stat/111/929], 930, 1052, 1091; [Pub. L. 108–176, title IX, § 902(a)][/us/pl/108/176/s902/a], Dec. 12, 2003, [117 Stat. 2598][/us/stat/117/2598]; [Pub. L. 109–59, title XI][/us/pl/109/59], §§ 11121(c), 11122(a), 11123(a), Aug. 10, 2005, [119 Stat. 1951][/us/stat/119/1951], 1952; [Pub. L. 109–135, title IV, § 412(vv)][/us/pl/109/135/s412/vv], Dec. 21, 2005, [119 Stat. 2640][/us/stat/119/2640]; [Pub. L. 110–161, div. K, title I, § 116(b)(1)][/us/pl/110/161/s116/b/1], Dec. 26, 2007, [121 Stat. 2381][/us/stat/121/2381]; [Pub. L. 110–190, § 2(b)(1)][/us/pl/110/190/s2/b/1], Feb. 28, 2008, [122 Stat. 643][/us/stat/122/643]; [Pub. L. 110–253, § 2(b)(1)][/us/pl/110/253/s2/b/1], June 30, 2008, [122 Stat. 2417][/us/stat/122/2417]; [Pub. L. 110–330, § 2(b)(1)][/us/pl/110/330/s2/b/1], Sept. 30, 2008, [122 Stat. 3717][/us/stat/122/3717]; [Pub. L. 111–12, § 2(b)(1)][/us/pl/111/12/s2/b/1], Mar. 30, 2009, [123 Stat. 1457][/us/stat/123/1457]; [Pub. L. 111–69, § 2(b)(1)][/us/pl/111/69/s2/b/1], Oct. 1, 2009, [123 Stat. 2054][/us/stat/123/2054]; [Pub. L. 111–116, § 2(b)(1)][/us/pl/111/116/s2/b/1], Dec. 16, 2009, [123 Stat. 3031][/us/stat/123/3031]; [Pub. L. 111–153, § 2(b)(1)][/us/pl/111/153/s2/b/1], Mar. 31, 2010, [124 Stat. 1084][/us/stat/124/1084]; [Pub. L. 111–161, § 2(b)(1)][/us/pl/111/161/s2/b/1], Apr. 30, 2010, [124 Stat. 1126][/us/stat/124/1126]; [Pub. L. 111–197, § 2(b)(1)][/us/pl/111/197/s2/b/1], July 2, 2010, [124 Stat. 1353][/us/stat/124/1353]; [Pub. L. 111–216, title I, § 101(b)(1)][/us/pl/111/216/s101/b/1], Aug. 1, 2010, [124 Stat. 2349][/us/stat/124/2349]; [Pub. L. 111–249, § 2(b)(1)][/us/pl/111/249/s2/b/1], Sept. 30, 2010, [124 Stat. 2627][/us/stat/124/2627]; [Pub. L. 111–329, § 2(b)(1)][/us/pl/111/329/s2/b/1], Dec. 22, 2010, [124 Stat. 3566][/us/stat/124/3566]; [Pub. L. 112–7, § 2(b)(1)][/us/pl/112/7/s2/b/1], Mar. 31, 2011, [125 Stat. 31][/us/stat/125/31]; [Pub. L. 112–16, § 2(b)(1)][/us/pl/112/16/s2/b/1], May 31, 2011, [125 Stat. 218][/us/stat/125/218]; [Pub. L. 112–21, § 2(b)(1)][/us/pl/112/21/s2/b/1], June 29, 2011, [125 Stat. 233][/us/stat/125/233]; [Pub. L. 112–27, § 2(b)(1)][/us/pl/112/27/s2/b/1], Aug. 5, 2011, [125 Stat. 270][/us/stat/125/270]; [Pub. L. 112–30, title II, § 202(b)(1)][/us/pl/112/30/s202/b/1], Sept. 16, 2011, [125 Stat. 357][/us/stat/125/357]; [Pub. L. 112–91, § 2(b)(1)][/us/pl/112/91/s2/b/1], Jan. 31, 2012, [126 Stat. 3][/us/stat/126/3]; [Pub. L. 112–95, title XI][/us/pl/112/95], §§ 1101(b)(1), 1103(c), Feb. 14, 2012, [126 Stat. 148][/us/stat/126/148], 151; [Pub. L. 113–295, div. A, title II, § 221(a)(104)][/us/pl/113/295/s221/a/104], Dec. 19, 2014, [128 Stat. 4053][/us/stat/128/4053].)
 
  __Inflation Adjusted Items for Certain Years__ 
 
@@ -302,6 +286,10 @@
     The date of the enactment of the Airport and Airway Trust Fund Tax Reinstatement Act of 1997, referred to in subsec. (k)(1)(A)(i), is the date of enactment of [Pub. L. 105–2][/us/pl/105/2], which was approved Feb. 28, 1997.
 
  __Amendments__ 
+
+    2014—Subsec. (e)(1)(C). [Pub. L. 113–295, § 221(a)(104)(A)][/us/pl/113/295/s221/a/104/A], struck out subpar. (C), which provided for no phasein of reduced ticket tax for certain transportation
+
+    Subsec. (e)(5). [Pub. L. 113–295, § 221(a)(104)(B)][/us/pl/113/295/s221/a/104/B], struck out par. (5), which related to rates of ticket tax for transportation beginning before October 1, 1999.
 
     2012—Subsec. (j). [Pub. L. 112–95, § 1103(c)][/us/pl/112/95/s1103/c], added subsec. (j). Former subsec. (j) redesignated (k).
 
@@ -468,6 +456,10 @@
     Subsec. (b). Act July 25, 1956, § 1, substituted “taxable transportation (as defined in section 4262) of any person by rail, motor vehicle, water, or air, but only if such transportation begins and ends in the United States” for “transportation of persons by rail, motor vehicle, water, or air which begins and ends in the United States”.
 
     Subsec. (d). Act July 25, 1956, § 4(b), substituted “Except as provided in section 4264, the” for “The”.
+
+ __Effective Date of 2014 Amendment__ 
+
+    Amendment by [Pub. L. 113–295][/us/pl/113/295] effective Dec. 19, 2014, subject to a savings provision, see [section 221(b) of Pub. L. 113–295][/us/pl/113/295/s221/b], set out as a note under [section 1 of this title][/us/usc/t26/s1].
 
  __Effective Date of 2012 Amendment__ 
 
@@ -674,6 +666,10 @@
 ----------
 ----------
 
+[/us/pl/113/295/s221/a/104/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs221%2Fa%2F104%2FA
+[/us/stat/128/4053]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F4053
+[/us/pl/113/295/s221/a/104/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs221%2Fa%2F104%2FB
+[/us/stat/128/4053]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F4053
 [/us/act/1954-08-16/ch736]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-16%2Fch736
 [/us/stat/68A/506]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68A%2F506
 [/us/act/1956-07-25/ch725]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-07-25%2Fch725
@@ -764,6 +760,8 @@
 [/us/stat/126/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F3
 [/us/pl/112/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95
 [/us/stat/126/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F148
+[/us/pl/113/295/s221/a/104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs221%2Fa%2F104
+[/us/stat/128/4053]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F4053
 [/us/usc/t26/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs1
 [/us/pl/105/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34
 [/us/pl/91/258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F258
@@ -775,6 +773,8 @@
 [/us/pl/103/272/s7/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs7%2Fb
 [/us/stat/108/1379]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1379
 [/us/pl/105/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F2
+[/us/pl/113/295/s221/a/104/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs221%2Fa%2F104%2FA
+[/us/pl/113/295/s221/a/104/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs221%2Fa%2F104%2FB
 [/us/pl/112/95/s1103/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95%2Fs1103%2Fc
 [/us/pl/112/95/s1101/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95%2Fs1101%2Fb%2F1
 [/us/pl/112/91]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F91
@@ -847,6 +847,9 @@
 [/us/pl/87/72]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F72
 [/us/pl/86/564]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F564
 [/us/pl/86/75]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F75
+[/us/pl/113/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295
+[/us/pl/113/295/s221/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs221%2Fb
+[/us/usc/t26/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs1
 [/us/pl/112/95/s1101/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95%2Fs1101%2Fb%2F1
 [/us/pl/112/95/s1101/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95%2Fs1101%2Fc
 [/us/usc/t26/s4081]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs4081

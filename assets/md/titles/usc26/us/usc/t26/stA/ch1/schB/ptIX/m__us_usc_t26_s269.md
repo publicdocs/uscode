@@ -19,9 +19,9 @@
 
     If—
 
-        (1) any person or persons acquire, or acquired on or after October 8, 1940, directly or indirectly, control of a corporation, or
+        (1) any person or persons acquire, directly or indirectly, control of a corporation, or
 
-        (2) any corporation acquires, or acquired on or after October 8, 1940, directly or indirectly, property of another corporation, not controlled, directly or indirectly, immediately before such acquisition, by such acquiring corporation or its stockholders, the basis of which property, in the hands of the acquiring corporation, is determined by reference to the basis in the hands of the transferor corporation,
+        (2) any corporation acquires, directly or indirectly, property of another corporation, not controlled, directly or indirectly, immediately before such acquisition, by such acquiring corporation or its stockholders, the basis of which property, in the hands of the acquiring corporation, is determined by reference to the basis in the hands of the transferor corporation,
 
         and the principal purpose for which such acquisition was made is evasion or avoidance of Federal income tax by securing the benefit of a deduction, credit, or other allowance which such person or corporation would not otherwise enjoy, then the Secretary may disallow such deduction, credit, or other allowance. For purposes of paragraphs (1) and (2), control means the ownership of stock possessing at least 50 percent of the total combined voting power of all classes of stock entitled to vote or at least 50 percent of the total value of shares of all classes of stock of the corporation.
 
@@ -55,9 +55,11 @@
 
         (3) to exercise his powers in part under paragraph (1) and in part under paragraph (2).
 
-([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 80][/us/stat/68A/80]; [Pub. L. 88–272, title II, § 235(c)(2)][/us/pl/88/272/s235/c/2], Feb. 26, 1964, [78 Stat. 126][/us/stat/78/126]; [Pub. L. 94–455, title XIX][/us/pl/94/455], §§ 1901(a)(38), 1906(b)(13)(A), Oct. 4, 1976, [90 Stat. 1771][/us/stat/90/1771], 1834; [Pub. L. 98–369, div. A, title VII, § 712(k)(8)(A)][/us/pl/98/369/s712/k/8/A], (B), July 18, 1984, [98 Stat. 952][/us/stat/98/952].)
+([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 80][/us/stat/68A/80]; [Pub. L. 88–272, title II, § 235(c)(2)][/us/pl/88/272/s235/c/2], Feb. 26, 1964, [78 Stat. 126][/us/stat/78/126]; [Pub. L. 94–455, title XIX][/us/pl/94/455], §§ 1901(a)(38), 1906(b)(13)(A), Oct. 4, 1976, [90 Stat. 1771][/us/stat/90/1771], 1834; [Pub. L. 98–369, div. A, title VII, § 712(k)(8)(A)][/us/pl/98/369/s712/k/8/A], (B), July 18, 1984, [98 Stat. 952][/us/stat/98/952]; [Pub. L. 113–295, div. A, title II, § 221(a)(45)][/us/pl/113/295/s221/a/45], Dec. 19, 2014, [128 Stat. 4045][/us/stat/128/4045].)
 
  __Amendments__ 
+
+    2014—Subsec. (a). [Pub. L. 113–295][/us/pl/113/295] struck out “or acquired on or after October 8, 1940,” after “persons acquire,” in par. (1) and after “corporation acquires,” in par. (2).
 
     1984—Subsecs. (b), (c). [Pub. L. 98–369][/us/pl/98/369] added subsec. (b), redesignated former subsec. (b) as (c) and inserted reference to subsec. (b).
 
@@ -66,6 +68,10 @@
     Subsec. (c). [Pub. L. 94–455, § 1901(a)(38)][/us/pl/94/455/s1901/a/38], struck out subsec. (c) relating to presumptions in the case of disproportionate purchase price.
 
     1964—Subsec. (a). [Pub. L. 88–272][/us/pl/88/272] substituted “the Secretary or his delegate may disallow such deduction, credit, or other allowance” for “such deduction, credit or other allowance shall not be allowed”.
+
+ __Effective Date of 2014 Amendment__ 
+
+    Amendment by [Pub. L. 113–295][/us/pl/113/295] effective Dec. 19, 2014, subject to a savings provision, see [section 221(b) of Pub. L. 113–295][/us/pl/113/295/s221/b], set out as a note under [section 1 of this title][/us/usc/t26/s1].
 
  __Effective Date of 1984 Amendment__ 
 
@@ -92,10 +98,16 @@
 [/us/stat/90/1771]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1771
 [/us/pl/98/369/s712/k/8/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs712%2Fk%2F8%2FA
 [/us/stat/98/952]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F952
+[/us/pl/113/295/s221/a/45]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs221%2Fa%2F45
+[/us/stat/128/4045]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F4045
+[/us/pl/113/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295
 [/us/pl/98/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369
 [/us/pl/94/455/s1906/b/13/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1906%2Fb%2F13%2FA
 [/us/pl/94/455/s1901/a/38]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1901%2Fa%2F38
 [/us/pl/88/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F272
+[/us/pl/113/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295
+[/us/pl/113/295/s221/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs221%2Fb
+[/us/usc/t26/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs1
 [/us/pl/98/369/s712/k/8/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs712%2Fk%2F8%2FC
 [/us/stat/98/952]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F952
 [/us/pl/88/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F272

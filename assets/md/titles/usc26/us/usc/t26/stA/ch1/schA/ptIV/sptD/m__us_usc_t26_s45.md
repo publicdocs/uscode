@@ -47,7 +47,7 @@
 
         (2) __Credit and phaseout adjustment based on inflation__ 
 
-            The 1.5 cent amount in subsection (a), the 8 cent amount in paragraph (1), the $4.375 amount in subsection (e)(8)(A), the $3 amount in subsection (e)(8)(D)(ii)(I), and in subsection (e)(8)(B)(i) the reference price of fuel used as a feedstock (within the meaning of subsection (c)(7)(A)) in 2002 shall each be adjusted by multiplying such amount by the inflation adjustment factor for the calendar year in which the sale occurs. If any amount as increased under the preceding sentence is not a multiple of 0.1 cent, such amount shall be rounded to the nearest multiple of 0.1 cent.
+            The 1.5 cent amount in subsection (a), the 8 cent amount in paragraph (1), the $4.375 amount in subsection (e)(8)(A), the $2 amount in subsection (e)(8)(D)(ii)(I), and in subsection (e)(8)(B)(i) the reference price of fuel used as a feedstock (within the meaning of subsection (c)(7)(A)) in 2002 shall each be adjusted by multiplying such amount by the inflation adjustment factor for the calendar year in which the sale occurs. If any amount as increased under the preceding sentence is not a multiple of 0.1 cent, such amount shall be rounded to the nearest multiple of 0.1 cent.
 
         (3) __Credit reduced for grants, tax-exempt bonds, subsidized energy financing, and other credits__ 
 
@@ -271,7 +271,7 @@
 
         (1) __Wind facility__ 
 
-            In the case of a facility using wind to produce electricity, the term “qualified facility” means any facility owned by the taxpayer which is originally placed in service after December 31, 1993, and the construction of which begins before January 1, 2014. Such term shall not include any facility with respect to which any qualified small wind energy property expenditure (as defined in subsection (d)(4) of section 25D) is taken into account in determining the credit under such section.
+            In the case of a facility using wind to produce electricity, the term “qualified facility” means any facility owned by the taxpayer which is originally placed in service after December 31, 1993, and the construction of which begins before January 1, 2015. Such term shall not include any facility with respect to which any qualified small wind energy property expenditure (as defined in subsection (d)(4) of section 25D) is taken into account in determining the credit under such section.
 
         (2) __Closed-loop biomass facility__ 
 
@@ -279,11 +279,11 @@
 
             In the case of a facility using closed-loop biomass to produce electricity, the term “qualified facility” means any facility—
 
-                (i) owned by the taxpayer which is originally placed in service after December 31, 1992, and the construction of which begins before January 1, 2014, or
+                (i) owned by the taxpayer which is originally placed in service after December 31, 1992, and the construction of which begins before January 1, 2015, or
 
-                (ii) owned by the taxpayer which before January 1, 2014, is originally placed in service and modified to use closed-loop biomass to co-fire with coal, with other biomass, or with both, but only if the modification is approved under the Biomass Power for Rural Development Programs or is part of a pilot project of the Commodity Credit Corporation as described in 65 Fed. Reg. 63052.
+                (ii) owned by the taxpayer which before January 1, 2015, is originally placed in service and modified to use closed-loop biomass to co-fire with coal, with other biomass, or with both, but only if the modification is approved under the Biomass Power for Rural Development Programs or is part of a pilot project of the Commodity Credit Corporation as described in 65 Fed. Reg. 63052.
 
-                For purposes of clause (ii), a facility shall be treated as modified before January 1, 2014, if the construction of such modification begins before such date.
+                For purposes of clause (ii), a facility shall be treated as modified before January 1, 2015, if the construction of such modification begins before such date.
 
             (B) __Expansion of facility__ 
 
@@ -307,11 +307,11 @@
 
                  in the case of a facility using agricultural livestock waste nutrients—
 
-                    (I) is originally placed in service after the date of the enactment of this subclause and the construction of which begins before January 1, 2014, and
+                    (I) is originally placed in service after the date of the enactment of this subclause and the construction of which begins before January 1, 2015, and
 
                     (II) the nameplate capacity rating of which is not less than 150 kilowatts, and
 
-                (ii) in the case of any other facility, the construction of which begins before January 1, 2014.
+                (ii) in the case of any other facility, the construction of which begins before January 1, 2015.
 
             (B) __Expansion of facility__ 
 
@@ -327,7 +327,7 @@
 
             (A) in the case of a facility using solar energy, is placed in service before January 1, 2006, or
 
-            (B) in the case of a facility using geothermal energy, the construction of which begins before January 1, 2014.
+            (B) in the case of a facility using geothermal energy, the construction of which begins before January 1, 2015.
 
             Such term shall not include any property described in section 48(a)(3) the basis of which is taken into account by the taxpayer for purposes of determining the energy credit under section 48.
 
@@ -337,11 +337,11 @@
 
         (6) __Landfill gas facilities__ 
 
-            In the case of a facility producing electricity from gas derived from the biodegradation of municipal solid waste, the term “qualified facility” means any facility owned by the taxpayer which is originally placed in service after the date of the enactment of this paragraph and the construction of which begins before January 1, 2014.
+            In the case of a facility producing electricity from gas derived from the biodegradation of municipal solid waste, the term “qualified facility” means any facility owned by the taxpayer which is originally placed in service after the date of the enactment of this paragraph and the construction of which begins before January 1, 2015.
 
         (7) __Trash facilities__ 
 
-            In the case of a facility (other than a facility described in paragraph (6)) which uses municipal solid waste to produce electricity, the term “qualified facility” means any facility owned by the taxpayer which is originally placed in service after the date of the enactment of this paragraph and the construction of which begins before January 1, 2014. Such term shall include a new unit placed in service in connection with a facility placed in service on or before the date of the enactment of this paragraph, but only to the extent of the increased amount of electricity produced at the facility by reason of such new unit.
+            In the case of a facility (other than a facility described in paragraph (6)) which uses municipal solid waste to produce electricity, the term “qualified facility” means any facility owned by the taxpayer which is originally placed in service after the date of the enactment of this paragraph and the construction of which begins before January 1, 2015. Such term shall include a new unit placed in service in connection with a facility placed in service on or before the date of the enactment of this paragraph, but only to the extent of the increased amount of electricity produced at the facility by reason of such new unit.
 
         (8) __Refined coal production facility__ 
 
@@ -357,9 +357,9 @@
 
             In the case of a facility producing qualified hydroelectric production described in subsection (c)(8), the term “qualified facility” means—
 
-                (i) in the case of any facility producing incremental hydropower production, such facility but only to the extent of its incremental hydropower production attributable to efficiency improvements or additions to capacity described in subsection (c)(8)(B) placed in service after the date of the enactment of this paragraph and before January 1, 2014, and
+                (i) in the case of any facility producing incremental hydropower production, such facility but only to the extent of its incremental hydropower production attributable to efficiency improvements or additions to capacity described in subsection (c)(8)(B) placed in service after the date of the enactment of this paragraph and before January 1, 2015, and
 
-                (ii) any other facility placed in service after the date of the enactment of this paragraph and the construction of which begins before January 1, 2014.
+                (ii) any other facility placed in service after the date of the enactment of this paragraph and the construction of which begins before January 1, 2015.
 
             (B) __Credit period__ 
 
@@ -367,7 +367,7 @@
 
             (C) __Special rule__ 
 
-                For purposes of subparagraph (A)(i), an efficiency improvement or addition to capacity shall be treated as placed in service before January 1, 2014, if the construction of such improvement or addition begins before such date.
+                For purposes of subparagraph (A)(i), an efficiency improvement or addition to capacity shall be treated as placed in service before January 1, 2015, if the construction of such improvement or addition begins before such date.
 
         (10) __Indian coal production facility__ 
 
@@ -379,7 +379,7 @@
 
             (A) which has a nameplate capacity rating of at least 150 kilowatts, and
 
-            (B) which is originally placed in service on or after the date of the enactment of this paragraph and the construction of which begins before January 1, 2014.
+            (B) which is originally placed in service on or after the date of the enactment of this paragraph and the construction of which begins before January 1, 2015.
 
     (e) __Definitions and special rules__ 
 
@@ -537,7 +537,7 @@
 
             In the case of a producer of Indian coal, the credit determined under this section (without regard to this paragraph) for any taxable year shall be increased by an amount equal to the applicable dollar amount per ton of Indian coal—
 
-                (i) produced by the taxpayer at an Indian coal production facility during the 8-year period beginning on January 1, 2006, and
+                (i) produced by the taxpayer at an Indian coal production facility during the 9-year period beginning on January 1, 2006, and
 
                 (ii)
 
@@ -545,7 +545,7 @@
 
                     (I) to an unrelated person, and
 
-                    (II) during such 8-year period and such taxable year.
+                    (II) during such 9-year period and such taxable year.
 
             (B) __Applicable dollar amount__ 
 
@@ -603,7 +603,7 @@
 
                 For purposes of this section the term “eligible cooperative” means a cooperative organization described in section 1381(a) which is owned more than 50 percent by agricultural producers or by entities owned by agricultural producers. For this purpose an entity owned by an agricultural producer is one that is more than 50 percent owned by agricultural producers.
 
-(Added [Pub. L. 102–486, title XIX, § 1914(a)][/us/pl/102/486/s1914/a], Oct. 24, 1992, [106 Stat. 3020][/us/stat/106/3020]; amended [Pub. L. 106–170, title V, § 507(a)][/us/pl/106/170/s507/a]–(c), Dec. 17, 1999, [113 Stat. 1922][/us/stat/113/1922]; [Pub. L. 106–554, § 1(a)(7)][/us/pl/106/554/s1/a/7] \[title III, § 319(1)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–646; [Pub. L. 107–147, title VI, § 603(a)][/us/pl/107/147/s603/a], Mar. 9, 2002, [116 Stat. 59][/us/stat/116/59]; [Pub. L. 108–311, title III, § 313(a)][/us/pl/108/311/s313/a], Oct. 4, 2004, [118 Stat. 1181][/us/stat/118/1181]; [Pub. L. 108–357, title VII, § 710(a)][/us/pl/108/357/s710/a]–(d), (f), Oct. 22, 2004, [118 Stat. 1552–1557][/us/stat/118/1552-1557]; [Pub. L. 109–58, title XIII][/us/pl/109/58], §§ 1301(a)–(f)(4), 1302(a), 1322(a)(3)(C), Aug. 8, 2005, [119 Stat. 986–990][/us/stat/119/986-990], 1011; [Pub. L. 109–135, title IV][/us/pl/109/135], §§ 402(b), 403(t), 412(j), Dec. 21, 2005, [119 Stat. 2610][/us/stat/119/2610], 2628, 2637; [Pub. L. 109–432, div. A, title II, § 201][/us/pl/109/432/s201], Dec. 20, 2006, [120 Stat. 2944][/us/stat/120/2944]; [Pub. L. 110–172][/us/pl/110/172], §§ 7(b), 9(a), Dec. 29, 2007, [121 Stat. 2482][/us/stat/121/2482], 2484; [Pub. L. 110–343, div. B, title I][/us/pl/110/343], §§ 101(a)–(e), 102(a)–(e), 106(c)(3)(B), 108(a)–(d)(1), Oct. 3, 2008, [122 Stat. 3808–3810][/us/stat/122/3808-3810], 3815, 3819–3821; [Pub. L. 111–5, div. B, title I, § 1101(a)][/us/pl/111/5/s1101/a], (b), Feb. 17, 2009, [123 Stat. 319][/us/stat/123/319]; [Pub. L. 111–312, title VII, § 702(a)][/us/pl/111/312/s702/a], Dec. 17, 2010, [124 Stat. 3311][/us/stat/124/3311]; [Pub. L. 112–240, title IV][/us/pl/112/240], §§ 406(a), 407(a), Jan. 2, 2013, [126 Stat. 2340][/us/stat/126/2340].)
+(Added [Pub. L. 102–486, title XIX, § 1914(a)][/us/pl/102/486/s1914/a], Oct. 24, 1992, [106 Stat. 3020][/us/stat/106/3020]; amended [Pub. L. 106–170, title V, § 507(a)][/us/pl/106/170/s507/a]–(c), Dec. 17, 1999, [113 Stat. 1922][/us/stat/113/1922]; [Pub. L. 106–554, § 1(a)(7)][/us/pl/106/554/s1/a/7] \[title III, § 319(1)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–646; [Pub. L. 107–147, title VI, § 603(a)][/us/pl/107/147/s603/a], Mar. 9, 2002, [116 Stat. 59][/us/stat/116/59]; [Pub. L. 108–311, title III, § 313(a)][/us/pl/108/311/s313/a], Oct. 4, 2004, [118 Stat. 1181][/us/stat/118/1181]; [Pub. L. 108–357, title VII, § 710(a)][/us/pl/108/357/s710/a]–(d), (f), Oct. 22, 2004, [118 Stat. 1552–1557][/us/stat/118/1552-1557]; [Pub. L. 109–58, title XIII][/us/pl/109/58], §§ 1301(a)–(f)(4), 1302(a), 1322(a)(3)(C), Aug. 8, 2005, [119 Stat. 986–990][/us/stat/119/986-990], 1011; [Pub. L. 109–135, title IV][/us/pl/109/135], §§ 402(b), 403(t), 412(j), Dec. 21, 2005, [119 Stat. 2610][/us/stat/119/2610], 2628, 2637; [Pub. L. 109–432, div. A, title II, § 201][/us/pl/109/432/s201], Dec. 20, 2006, [120 Stat. 2944][/us/stat/120/2944]; [Pub. L. 110–172][/us/pl/110/172], §§ 7(b), 9(a), Dec. 29, 2007, [121 Stat. 2482][/us/stat/121/2482], 2484; [Pub. L. 110–343, div. B, title I][/us/pl/110/343], §§ 101(a)–(e), 102(a)–(e), 106(c)(3)(B), 108(a)–(d)(1), Oct. 3, 2008, [122 Stat. 3808–3810][/us/stat/122/3808-3810], 3815, 3819–3821; [Pub. L. 111–5, div. B, title I, § 1101(a)][/us/pl/111/5/s1101/a], (b), Feb. 17, 2009, [123 Stat. 319][/us/stat/123/319]; [Pub. L. 111–312, title VII, § 702(a)][/us/pl/111/312/s702/a], Dec. 17, 2010, [124 Stat. 3311][/us/stat/124/3311]; [Pub. L. 112–240, title IV][/us/pl/112/240], §§ 406(a), 407(a), Jan. 2, 2013, [126 Stat. 2340][/us/stat/126/2340]; [Pub. L. 113–295, div. A, title I][/us/pl/113/295], §§ 154(a), 155(a), title II, § 210(g)(1), Dec. 19, 2014, [128 Stat. 4021][/us/stat/128/4021], 4032.)
 
  __Inflation Adjusted Items for Certain Years__ 
 
@@ -630,6 +630,12 @@
     A prior section 45 was renumbered [section 37 of this title][/us/usc/t26/s37].
 
  __Amendments__ 
+
+    2014—Subsec. (b)(2). [Pub. L. 113–295, § 210(g)(1)][/us/pl/113/295/s210/g/1], substituted “$2 amount” for “$3 amount”.
+
+    Subsec. (d). [Pub. L. 113–295, § 155(a)][/us/pl/113/295/s155/a], substituted “January 1, 2015” for “January 1, 2014” wherever appearing.
+
+    Subsec. (e)(10)(A)(i), (ii)(II). [Pub. L. 113–295, § 154(a)][/us/pl/113/295/s154/a], substituted “9-year period” for “8-year period”.
 
     2013—Subsec. (c)(6). [Pub. L. 112–240, § 407(a)(2)][/us/pl/112/240/s407/a/2], inserted “, except that such term does not include paper which is commonly recycled and which has been segregated from other solid waste (as so defined)” after “([42 U.S.C. 6903][/us/usc/t42/s6903])”.
 
@@ -820,6 +826,20 @@
     Subsec. (c)(4). [Pub. L. 106–170, § 507(b)(2)][/us/pl/106/170/s507/b/2], added par. (4).
 
     Subsec. (d)(6), (7). [Pub. L. 106–170, § 507(c)][/us/pl/106/170/s507/c], added pars. (6) and (7).
+
+ __Effective Date of 2014 Amendment__ 
+
+[Pub. L. 113–295, div. A, title I, § 154(b)][/us/pl/113/295/s154/b], Dec. 19, 2014, [128 Stat. 4021][/us/stat/128/4021], provided that: 
+
+> “The amendment made by this section \[amending this section\] shall apply to coal produced after December 31, 2013.”
+
+[Pub. L. 113–295, div. A, title I, § 155(c)][/us/pl/113/295/s155/c], Dec. 19, 2014, [128 Stat. 4021][/us/stat/128/4021], provided that: 
+
+> “The amendments made by this section \[amending this section and [section 48 of this title][/us/usc/t26/s48]\] shall take effect on January 1, 2014.”
+
+[Pub. L. 113–295, div. A, title II, § 210(h)][/us/pl/113/295/s210/h], Dec. 19, 2014, [128 Stat. 4032][/us/stat/128/4032], provided that: 
+
+> “The amendments made by this section \[amending this section and sections 45K, 168, 907, 1012, and 6045 of this title and provisions set out as a note under [section 9501 of this title][/us/usc/t26/s9501]\] shall take effect as if included in the provisions of the Energy Improvement and Extension Act of 2008 \[[Pub. L. 110–343, div. B][/us/pl/110/343]\] to which they relate.”
 
  __Effective Date of 2013 Amendment__ 
 
@@ -1041,6 +1061,8 @@
 [/us/stat/124/3311]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3311
 [/us/pl/112/240]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F240
 [/us/stat/126/2340]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F2340
+[/us/pl/113/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295
+[/us/stat/128/4021]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F4021
 [/us/pl/108/357]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357
 [/us/pl/109/58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58
 [/us/usc/t42/s6903/27]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6903%2F27
@@ -1053,6 +1075,9 @@
 [/us/stat/119/1011]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F1011
 [/us/pl/109/58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58
 [/us/usc/t26/s37]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs37
+[/us/pl/113/295/s210/g/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs210%2Fg%2F1
+[/us/pl/113/295/s155/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs155%2Fa
+[/us/pl/113/295/s154/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs154%2Fa
 [/us/pl/112/240/s407/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F240%2Fs407%2Fa%2F2
 [/us/usc/t42/s6903]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6903
 [/us/pl/112/240/s407/a/3/A/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F240%2Fs407%2Fa%2F3%2FA%2Fi
@@ -1150,6 +1175,15 @@
 [/us/pl/106/170/s507/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F170%2Fs507%2Fa
 [/us/pl/106/170/s507/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F170%2Fs507%2Fb%2F2
 [/us/pl/106/170/s507/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F170%2Fs507%2Fc
+[/us/pl/113/295/s154/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs154%2Fb
+[/us/stat/128/4021]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F4021
+[/us/pl/113/295/s155/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs155%2Fc
+[/us/stat/128/4021]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F4021
+[/us/usc/t26/s48]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs48
+[/us/pl/113/295/s210/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs210%2Fh
+[/us/stat/128/4032]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F4032
+[/us/usc/t26/s9501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs9501
+[/us/pl/110/343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F343
 [/us/pl/112/240/s406/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F240%2Fs406%2Fb
 [/us/stat/126/2340]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F2340
 [/us/pl/112/240/s407/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F240%2Fs407%2Fd

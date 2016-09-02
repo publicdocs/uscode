@@ -13,7 +13,7 @@
 
 [Previous](./../../../../../../..//us/usc/t26/stA/ch1/schF/ptVII/m__us_usc_t26_s528.md) | [Next](./../../../../../../..//us/usc/t26/stA/ch1/schF/ptVIII/m__us_usc_t26_s529.md) | [Root of Title](./../../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2FstA%2Fch1%2FschF%2FptVIII)
 
-##### PART VIII—HIGHER EDUCATION SAVINGS ENTITIES
+##### PART VIII—CERTAIN SAVINGS ENTITIES
 
 <table>
 
@@ -33,6 +33,14 @@
 
   <tr>
 
+    <td> Sec. 529A.  </td>
+
+    <td> Qualified ABLE programs.  </td>
+
+  </tr>
+
+  <tr>
+
     <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs530" data-uslm-ref="/us/usc/t26/s530">530.</a>  </td>
 
     <td> Coverdell education savings accounts.  </td>
@@ -42,6 +50,8 @@
 </table>
 
  __Amendments__ 
+
+    2014—[Pub. L. 113–295, div. B, title I, § 102(e)(4)][/us/pl/113/295/s102/e/4], (6), Dec. 19, 2014, [128 Stat. 4062][/us/stat/128/4062], substituted “CERTAIN” for “HIGHER EDUCATION” in heading and added item 529A.
 
     2004—[Pub. L. 108–311, title IV, § 408(b)(2)][/us/pl/108/311/s408/b/2], Oct. 4, 2004, [118 Stat. 1192][/us/stat/118/1192], amended directory language of [Pub. L. 107–22, § 1(a)(6)][/us/pl/107/22/s1/a/6]. See 2001 Amendment note below.
 
@@ -58,6 +68,8 @@
 ----------
 ----------
 
+[/us/pl/113/295/s102/e/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs102%2Fe%2F4
+[/us/stat/128/4062]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F4062
 [/us/pl/108/311/s408/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F311%2Fs408%2Fb%2F2
 [/us/stat/118/1192]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1192
 [/us/pl/107/22/s1/a/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F22%2Fs1%2Fa%2F6

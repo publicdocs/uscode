@@ -23,13 +23,11 @@
 
         For purposes of this section, the term “unemployment compensation” means any amount received under a law of the United States or of a State which is in the nature of unemployment compensation.
 
-    (c) __Special rule for 2009__ 
-
-        In the case of any taxable year beginning in 2009, gross income shall not include so much of the unemployment compensation received by an individual as does not exceed $2,400.
-
-(Added [Pub. L. 95–600, title I, § 112(a)][/us/pl/95/600/s112/a], Nov. 6, 1978, [92 Stat. 2777][/us/stat/92/2777]; amended [Pub. L. 97–34, title I, § 103(c)(1)][/us/pl/97/34/s103/c/1], Aug. 13, 1981, [95 Stat. 188][/us/stat/95/188]; [Pub. L. 97–248, title VI, § 611(a)][/us/pl/97/248/s611/a], Sept. 3, 1982, [96 Stat. 706][/us/stat/96/706]; [Pub. L. 98–21, title I][/us/pl/98/21], §§ 121(f)(1), 122(c)(2), Apr. 20, 1983, [97 Stat. 84][/us/stat/97/84], 87; [Pub. L. 99–514, title I, § 121][/us/pl/99/514/s121], Oct. 22, 1986, [100 Stat. 2109][/us/stat/100/2109]; [Pub. L. 111–5, div. B, title I, § 1007(a)][/us/pl/111/5/s1007/a], Feb. 17, 2009, [123 Stat. 317][/us/stat/123/317].)
+(Added [Pub. L. 95–600, title I, § 112(a)][/us/pl/95/600/s112/a], Nov. 6, 1978, [92 Stat. 2777][/us/stat/92/2777]; amended [Pub. L. 97–34, title I, § 103(c)(1)][/us/pl/97/34/s103/c/1], Aug. 13, 1981, [95 Stat. 188][/us/stat/95/188]; [Pub. L. 97–248, title VI, § 611(a)][/us/pl/97/248/s611/a], Sept. 3, 1982, [96 Stat. 706][/us/stat/96/706]; [Pub. L. 98–21, title I][/us/pl/98/21], §§ 121(f)(1), 122(c)(2), Apr. 20, 1983, [97 Stat. 84][/us/stat/97/84], 87; [Pub. L. 99–514, title I, § 121][/us/pl/99/514/s121], Oct. 22, 1986, [100 Stat. 2109][/us/stat/100/2109]; [Pub. L. 111–5, div. B, title I, § 1007(a)][/us/pl/111/5/s1007/a], Feb. 17, 2009, [123 Stat. 317][/us/stat/123/317]; [Pub. L. 113–295, div. A, title II, § 221(a)(15)][/us/pl/113/295/s221/a/15], Dec. 19, 2014, [128 Stat. 4039][/us/stat/128/4039].)
 
  __Amendments__ 
+
+    2014—Subsec. (c). [Pub. L. 113–295][/us/pl/113/295] struck out subsec. (c). Text read as follows: “In the case of any taxable year beginning in 2009, gross income shall not include so much of the unemployment compensation received by an individual as does not exceed $2,400.”
 
     2009—Subsec. (c). [Pub. L. 111–5][/us/pl/111/5] added subsec. (c).
 
@@ -60,6 +58,10 @@
     Subsec. (b)(2). [Pub. L. 97–248, § 611(a)(2)][/us/pl/97/248/s611/a/2], substituted “$18,000” for “$25,000”.
 
     1981—Subsec. (a). [Pub. L. 97–34][/us/pl/97/34] substituted “this section, section 105(d), and section 221” for “this section and without regard to section 105(d)” in parenthetical provision preceding par. (1).
+
+ __Effective Date of 2014 Amendment__ 
+
+    Amendment by [Pub. L. 113–295][/us/pl/113/295] effective Dec. 19, 2014, subject to a savings provision, see [section 221(b) of Pub. L. 113–295][/us/pl/113/295/s221/b], set out as a note under [section 1 of this title][/us/usc/t26/s1].
 
  __Effective Date of 2009 Amendment__ 
 
@@ -99,7 +101,7 @@
 
 >     “(4)  __Unemployment compensation defined__  __.—__ 
 
->     For purposes of this subsection, the term ‘unemployment compensation’ has the meaning given to such term by section 85(c) of the Internal Revenue Code of 1986.”
+>     For purposes of this subsection, the term ‘unemployment compensation’ has the meaning given to such term by section 85(c) \[now 85(b)\] of the Internal Revenue Code of 1986.”
 
  __Effective Date of 1981 Amendment__ 
 
@@ -136,6 +138,9 @@
 [/us/stat/100/2109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2109
 [/us/pl/111/5/s1007/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5%2Fs1007%2Fa
 [/us/stat/123/317]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F317
+[/us/pl/113/295/s221/a/15]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs221%2Fa%2F15
+[/us/stat/128/4039]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F4039
+[/us/pl/113/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295
 [/us/pl/111/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5
 [/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
 [/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
@@ -144,6 +149,9 @@
 [/us/pl/97/248/s611/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F248%2Fs611%2Fa%2F1
 [/us/pl/97/248/s611/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F248%2Fs611%2Fa%2F2
 [/us/pl/97/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F34
+[/us/pl/113/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295
+[/us/pl/113/295/s221/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs221%2Fb
+[/us/usc/t26/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs1
 [/us/pl/111/5/s1007/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5%2Fs1007%2Fb
 [/us/stat/123/317]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F317
 [/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514

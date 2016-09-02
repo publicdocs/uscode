@@ -111,7 +111,7 @@
 
             (C) __Limited partners and limited entrepreneurs__ 
 
-            In the case of any gain from a transaction recognized by an entity which is allocable to a limited partner or limited entrepreneur (within the meaning of section 464(e)(2)), subparagraph (A) shall not apply if—
+            In the case of any gain from a transaction recognized by an entity which is allocable to a limited partner or limited entrepreneur (within the meaning of section 464(e)(2)  <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup> ), subparagraph (A) shall not apply if—
 
                 (i) substantially all of the limited partner’s (or limited entrepreneur’s) expected return from the entity is attributable to the time value of the partner’s (or entrepreneur’s) net investment in such entity,
 
@@ -120,6 +120,10 @@
                 (iii) the transaction (or the interest in the entity) is a transaction (or interest) specified in regulations prescribed by the Secretary.
 
 (Added [Pub. L. 103–66, title XIII, § 13206(a)(1)][/us/pl/103/66/s13206/a/1], Aug. 10, 1993, [107 Stat. 462][/us/stat/107/462]; amended [Pub. L. 108–357, title VIII, § 888(c)(2)][/us/pl/108/357/s888/c/2], Oct. 22, 2004, [118 Stat. 1643][/us/stat/118/1643].)
+
+ __References in Text__ 
+
+    Section 464(e)(2), referred to in subsec. (d)(5)(C), was repealed by [Pub. L. 113–295, div. A, title II, § 221(a)(58)(C)(i)][/us/pl/113/295/s221/a/58/C/i], Dec. 19, 2014, [128 Stat. 4047][/us/stat/128/4047].
 
  __Amendments__ 
 
@@ -146,6 +150,8 @@
 [/us/stat/107/462]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F462
 [/us/pl/108/357/s888/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357%2Fs888%2Fc%2F2
 [/us/stat/118/1643]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1643
+[/us/pl/113/295/s221/a/58/C/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs221%2Fa%2F58%2FC%2Fi
+[/us/stat/128/4047]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F4047
 [/us/pl/108/357]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357
 [/us/pl/108/357]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357
 [/us/pl/108/357/s888/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357%2Fs888%2Fe

@@ -57,31 +57,15 @@
 
                 (ii) are in tracts or parcels of land which are contiguous or in close proximity.
 
-            (C) __Special rule in the case of arrangements entered into a taxable years beginning before__  __January 1, 1964__ 
-
-            If—
-
-                (i) two or more of the taxpayer’s operating mineral interests participate under a voluntary or compulsory unitization or pooling agreement entered into in any taxable year beginning before January 1, 1964, in a single cooperative or unit plan of operation,
-
-                (ii) the taxpayer, for the last taxable year beginning before January 1, 1964, treated such interests as two or more separate properties, and
-
-                (iii) it is determined that such treatment was proper under the law applicable to such taxable year,
-
-                such taxpayer may continue to treat such interests in a consistent manner for the period of such participation.
-
         (4) __Manner, time, and scope of election__ 
 
             (A) __Manner and time__ 
 
-                Any election provided in paragraph (2) shall be made for each operating mineral interest, in the manner prescribed by the Secretary by regulations, not later than the time prescribed by law for filing the return (including extensions thereof) for whichever of the following taxable years is the later: The first taxable year beginning after December 31, 1963, or the first taxable year in which any expenditure for development or operation in respect of such operating mineral interest is made by the taxpayer after the acquisition of such interest.
+                Any election provided in paragraph (2) shall be made for each operating mineral interest, in the manner prescribed by the Secretary by regulations, not later than the time prescribed by law for filing the return (including extensions thereof) for the first taxable year in which any expenditure for development or operation in respect of such operating mineral interest is made by the taxpayer after the acquisition of such interest.
 
             (B) __Scope__ 
 
                 Any election under paragraph (2) shall be for all purposes of this subtitle and shall be binding on the taxpayer for all subsequent taxable years.
-
-        (5) __Treatment of certain properties__ 
-
-            If, on the day preceding the first day of the first taxable year beginning after December 31, 1963, the taxpayer has any operating mineral interests which he treats under subsection (d) of this section (as in effect before the amendments made by the Revenue Act of 1964), such treatment shall be continued and shall be deemed to have been adopted pursuant to paragraphs (1) and (2) of this subsection (as amended by such Act).
 
     (c) __Special rules as to operating mineral interests in mines__ 
 
@@ -123,13 +107,15 @@
 
             For purposes of this subsection, the term “nonoperating mineral interests” includes only interests which are not operating mineral interests.
 
-([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 210][/us/stat/68A/210]; [Pub. L. 85–866, title I, § 37(a)][/us/pl/85/866/s37/a]–(d), Sept. 2, 1958, [72 Stat. 1633–1637][/us/stat/72/1633-1637]; [Pub. L. 88–272, title II, § 226(a)][/us/pl/88/272/s226/a], (b), Feb. 26, 1964, [78 Stat. 94][/us/stat/78/94], 96; [Pub. L. 94–455, title XIX][/us/pl/94/455], §§ 1901(a)(87)(A)(i), (B), (C), 1906(b)(13)(A), Oct. 4, 1976, [90 Stat. 1779][/us/stat/90/1779], 1834; [Pub. L. 95–618, title IV, § 403(a)(2)(C)][/us/pl/95/618/s403/a/2/C], (D), Nov. 9, 1978, [92 Stat. 3204][/us/stat/92/3204]; [Pub. L. 101–508, title XI, § 11522(b)(2)][/us/pl/101/508/s11522/b/2], Nov. 5, 1990, [104 Stat. 1388–486][/us/stat/104/1388-486].)
-
- __References in Text__ 
-
-    The Revenue Act of 1964, referred to in subsec. (b)(5), is [Pub. L. 88–272][/us/pl/88/272], Feb. 26, 1964, [78 Stat. 19][/us/stat/78/19]. For complete classification of this Act to the Code, see Short Title of 1964 Amendments note set out under [section 1 of this title][/us/usc/t26/s1] and Tables.
+([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 210][/us/stat/68A/210]; [Pub. L. 85–866, title I, § 37(a)][/us/pl/85/866/s37/a]–(d), Sept. 2, 1958, [72 Stat. 1633–1637][/us/stat/72/1633-1637]; [Pub. L. 88–272, title II, § 226(a)][/us/pl/88/272/s226/a], (b), Feb. 26, 1964, [78 Stat. 94][/us/stat/78/94], 96; [Pub. L. 94–455, title XIX][/us/pl/94/455], §§ 1901(a)(87)(A)(i), (B), (C), 1906(b)(13)(A), Oct. 4, 1976, [90 Stat. 1779][/us/stat/90/1779], 1834; [Pub. L. 95–618, title IV, § 403(a)(2)(C)][/us/pl/95/618/s403/a/2/C], (D), Nov. 9, 1978, [92 Stat. 3204][/us/stat/92/3204]; [Pub. L. 101–508, title XI, § 11522(b)(2)][/us/pl/101/508/s11522/b/2], Nov. 5, 1990, [104 Stat. 1388–486][/us/stat/104/1388-486]; [Pub. L. 113–295, div. A, title II, § 221(a)(65)][/us/pl/113/295/s221/a/65], Dec. 19, 2014, [128 Stat. 4048][/us/stat/128/4048].)
 
  __Amendments__ 
+
+    2014—Subsec. (b)(3)(C). [Pub. L. 113–295, § 221(a)(65)(A)][/us/pl/113/295/s221/a/65/A], struck out subpar. (C) which related to a special rule for voluntary or compulsory unitization or pooling arrangements entered into in taxable years beginning before Jan. 1, 1964.
+
+    Subsec. (b)(4). [Pub. L. 113–295, § 221(a)(65)(B)][/us/pl/113/295/s221/a/65/B], which directed amendment of par. (4) by striking out “whichever of the following years is later: The first taxable year beginning after December 31, 1963, or”, was executed by striking out “whichever of the following taxable years is the later: The first taxable year beginning after December 31, 1963, or” before “the first taxable year” to reflect the probable intent of Congress.
+
+    Subsec. (b)(5). [Pub. L. 113–295, § 221(a)(65)(A)][/us/pl/113/295/s221/a/65/A], struck out par. (5) which read as follows: “If, on the day preceding the first day of the first taxable year beginning after December 31, 1963, the taxpayer has any operating mineral interests which he treats under subsection (d) of this section (as in effect before the amendments made by the Revenue Act of 1964), such treatment shall be continued and shall be deemed to have been adopted pursuant to paragraphs (1) and (2) of this subsection (as amended by such Act).”
 
     1990—Subsec. (d). [Pub. L. 101–508][/us/pl/101/508] substituted “taxable income” for “50 percent”.
 
@@ -156,6 +142,10 @@
     1958—Subsec. (b)(4). [Pub. L. 85–866, § 37(a)][/us/pl/85/866/s37/a], added par. (4).
 
     Subsecs. (c) to (e). [Pub. L. 85–866, § 37(b)][/us/pl/85/866/s37/b]–(d), added subsecs. (c) and (d), redesignated former subsec. (c) as (e), and substituted in first sentence of par. (1) “or in two or more adjacent tracts” for “or in two or more contiguous tracts” and “shall, on showing by the taxpayer that a principal purpose is not the avoidance of tax, permit the taxpayer to treat (for all purposes of this subtitle) all such mineral interests in each separate kind of mineral deposit as one property” for “may, on showing of undue hardship, permit the taxpayer to treat (for all purposes of this subtitle) all such mineral interests as one property”.
+
+ __Effective Date of 2014 Amendment__ 
+
+    Amendment by [Pub. L. 113–295][/us/pl/113/295] effective Dec. 19, 2014, subject to a savings provision, see [section 221(b) of Pub. L. 113–295][/us/pl/113/295/s221/b], set out as a note under [section 1 of this title][/us/usc/t26/s1].
 
  __Effective Date of 1990 Amendment__ 
 
@@ -234,9 +224,11 @@
 [/us/stat/92/3204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3204
 [/us/pl/101/508/s11522/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs11522%2Fb%2F2
 [/us/stat/104/1388-486]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1388-486
-[/us/pl/88/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F272
-[/us/stat/78/19]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F19
-[/us/usc/t26/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs1
+[/us/pl/113/295/s221/a/65]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs221%2Fa%2F65
+[/us/stat/128/4048]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F4048
+[/us/pl/113/295/s221/a/65/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs221%2Fa%2F65%2FA
+[/us/pl/113/295/s221/a/65/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs221%2Fa%2F65%2FB
+[/us/pl/113/295/s221/a/65/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs221%2Fa%2F65%2FA
 [/us/pl/101/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508
 [/us/pl/95/618/s403/a/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F618%2Fs403%2Fa%2F2%2FC
 [/us/pl/95/618/s403/a/2/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F618%2Fs403%2Fa%2F2%2FD
@@ -252,6 +244,9 @@
 [/us/pl/88/272/s226/b/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F272%2Fs226%2Fb%2F4
 [/us/pl/85/866/s37/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F866%2Fs37%2Fa
 [/us/pl/85/866/s37/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F866%2Fs37%2Fb
+[/us/pl/113/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295
+[/us/pl/113/295/s221/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs221%2Fb
+[/us/usc/t26/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs1
 [/us/pl/101/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508
 [/us/pl/101/508/s11522/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs11522%2Fc
 [/us/usc/t26/s613]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs613

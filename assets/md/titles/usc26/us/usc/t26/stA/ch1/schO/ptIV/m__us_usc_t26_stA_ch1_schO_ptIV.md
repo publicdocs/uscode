@@ -25,9 +25,9 @@
 
   <tr>
 
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs1051" data-uslm-ref="/us/usc/t26/s1051">1051.</a>  </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs1051" data-uslm-ref="/us/usc/t26/s1051">1051.</a>  </td>
 
-    <td> Property acquired during affiliation.  </td>
+    <td> Repealed.]  </td>
 
   </tr>
 
@@ -115,6 +115,8 @@
 
  __Amendments__ 
 
+    2014—[Pub. L. 113–295, div. A, title II, § 221(a)(78)][/us/pl/113/295/s221/a/78], Dec. 19, 2014, [128 Stat. 4049][/us/stat/128/4049], struck out item 1051 “Property acquired during affiliation”.
+
     2004—[Pub. L. 108–357, title VIII, § 886(b)(1)(B)][/us/pl/108/357/s886/b/1/B], Oct. 22, 2004, [118 Stat. 1641][/us/stat/118/1641], struck out item 1056 “Basis limitation for player contracts transferred in connection with the the sale of a franchise”.
 
     1997—[Pub. L. 105–34, title XI, § 1131(c)(5)][/us/pl/105/34/s1131/c/5], Aug. 5, 1997, [111 Stat. 980][/us/stat/111/980], struck out item 1057 “Election to treat transfer to foreign trust, etc., as taxable exchange”.
@@ -138,6 +140,8 @@
 ----------
 ----------
 
+[/us/pl/113/295/s221/a/78]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs221%2Fa%2F78
+[/us/stat/128/4049]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F4049
 [/us/pl/108/357/s886/b/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357%2Fs886%2Fb%2F1%2FB
 [/us/stat/118/1641]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1641
 [/us/pl/105/34/s1131/c/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2Fs1131%2Fc%2F5

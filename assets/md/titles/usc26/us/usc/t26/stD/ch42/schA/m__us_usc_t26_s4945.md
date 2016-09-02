@@ -99,7 +99,7 @@
 
         (5) contributions to which for voter registration drives are not subject to conditions that they may be used only in specified States, possessions of the United States, or political subdivisions or other areas of any of the foregoing, or the District of Columbia, or that they may be used in only one specific election period.
 
-        In determining whether the organization meets the requirements of paragraph (4) for any taxable year of such organization, there shall be taken into account the support received by such organization during such taxable year and during the immediately preceding 4 taxable years of such organization (excluding therefrom any preceding taxable year which begins before January 1, 1970). Subsection (d)(4) shall not apply to any grant to an organization which meets the requirements of this subsection.
+        In determining whether the organization meets the requirements of paragraph (4) for any taxable year of such organization, there shall be taken into account the support received by such organization during such taxable year and during the immediately preceding 4 taxable years of such organization. Subsection (d)(4) shall not apply to any grant to an organization which meets the requirements of this subsection.
 
     (g) __Individual grants__ 
 
@@ -137,7 +137,7 @@
 
             (B) the date on which the tax imposed by subsection (a)(1) is assessed.
 
-(Added [Pub. L. 91–172, title I, § 101(b)][/us/pl/91/172/s101/b], Dec. 30, 1969, [83 Stat. 512][/us/stat/83/512]; amended [Pub. L. 94–455, title XIX][/us/pl/94/455], §§ 1901(b)(8)(H), 1906(b)(13(A), Oct. 4, 1976, [90 Stat. 1795][/us/stat/90/1795], 1834; [Pub. L. 96–596, § 2(a)(1)(F)][/us/pl/96/596/s2/a/1/F], (2)(E), Dec. 24, 1980, [94 Stat. 3469][/us/stat/94/3469], 3470; [Pub. L. 98–369, div. A, title III, § 302(b)][/us/pl/98/369/s302/b], July 18, 1984, [98 Stat. 780][/us/stat/98/780]; [Pub. L. 99–514, title I, § 122(a)(2)(B)][/us/pl/99/514/s122/a/2/B], Oct. 22, 1986, [100 Stat. 2110][/us/stat/100/2110]; [Pub. L. 100–647, title I, § 1001(d)(1)(B)][/us/pl/100/647/s1001/d/1/B], Nov. 10, 1988, [102 Stat. 3350][/us/stat/102/3350]; [Pub. L. 109–280, title XII][/us/pl/109/280], §§ 1212(e), 1244(b), Aug. 17, 2006, [120 Stat. 1074][/us/stat/120/1074], 1107.)
+(Added [Pub. L. 91–172, title I, § 101(b)][/us/pl/91/172/s101/b], Dec. 30, 1969, [83 Stat. 512][/us/stat/83/512]; amended [Pub. L. 94–455, title XIX][/us/pl/94/455], §§ 1901(b)(8)(H), 1906(b)(13(A), Oct. 4, 1976, [90 Stat. 1795][/us/stat/90/1795], 1834; [Pub. L. 96–596, § 2(a)(1)(F)][/us/pl/96/596/s2/a/1/F], (2)(E), Dec. 24, 1980, [94 Stat. 3469][/us/stat/94/3469], 3470; [Pub. L. 98–369, div. A, title III, § 302(b)][/us/pl/98/369/s302/b], July 18, 1984, [98 Stat. 780][/us/stat/98/780]; [Pub. L. 99–514, title I, § 122(a)(2)(B)][/us/pl/99/514/s122/a/2/B], Oct. 22, 1986, [100 Stat. 2110][/us/stat/100/2110]; [Pub. L. 100–647, title I, § 1001(d)(1)(B)][/us/pl/100/647/s1001/d/1/B], Nov. 10, 1988, [102 Stat. 3350][/us/stat/102/3350]; [Pub. L. 109–280, title XII][/us/pl/109/280], §§ 1212(e), 1244(b), Aug. 17, 2006, [120 Stat. 1074][/us/stat/120/1074], 1107; [Pub. L. 113–295, div. A, title II, § 221(a)(106)][/us/pl/113/295/s221/a/106], Dec. 19, 2014, [128 Stat. 4053][/us/stat/128/4053].)
 
  __References in Text__ 
 
@@ -148,6 +148,8 @@
     Sections 1212(e) and 1244(b) of [Pub. L. 109–280][/us/pl/109/280], which directed the amendment of section 4945 without specifying the act to be amended, were executed to this section, which is section 4945 of the Internal Revenue Code of 1986, to reflect the probable intent of Congress. See 2006 Amendment notes below.
 
  __Amendments__ 
+
+    2014—Subsec. (f). [Pub. L. 113–295][/us/pl/113/295] struck out “(excluding therefrom any preceding taxable year which begins before January 1, 1970)” after “taxable years of such organization” in concluding provisions.
 
     2006—Subsec. (a)(1). [Pub. L. 109–280, § 1212(e)(1)(A)][/us/pl/109/280/s1212/e/1/A], substituted “20 percent” for “10 percent”. See Codification note above.
 
@@ -170,6 +172,10 @@
     1976—Subsec. (g). [Pub. L. 94–455][/us/pl/94/455], §§ 1901(b)(8)(H), 1906(b)(13)(A), struck out in provisions preceding par. (1) “or his delegate” after “Secretary” and substituted in par. (1) “educational organization described in section 170(b)(1)(A)(ii)” for “educational institution described in section 151(e)(4)”.
 
     Subsecs. (h), (i). [Pub. L. 94–455, § 1906(b)(13)(A)][/us/pl/94/455/s1906/b/13/A], struck out “or his delegate” after “Secretary” wher­ever appearing.
+
+ __Effective Date of 2014 Amendment__ 
+
+    Amendment by [Pub. L. 113–295][/us/pl/113/295] effective Dec. 19, 2014, subject to a savings provision, see [section 221(b) of Pub. L. 113–295][/us/pl/113/295/s221/b], set out as a note under [section 1 of this title][/us/usc/t26/s1].
 
  __Effective Date of 2006 Amendment__ 
 
@@ -220,8 +226,11 @@
 [/us/stat/102/3350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3350
 [/us/pl/109/280]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280
 [/us/stat/120/1074]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1074
+[/us/pl/113/295/s221/a/106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs221%2Fa%2F106
+[/us/stat/128/4053]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F4053
 [/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
 [/us/pl/109/280]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280
+[/us/pl/113/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295
 [/us/pl/109/280/s1212/e/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280%2Fs1212%2Fe%2F1%2FA
 [/us/pl/109/280/s1212/e/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280%2Fs1212%2Fe%2F1%2FB
 [/us/pl/109/280/s1212/e/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280%2Fs1212%2Fe%2F2
@@ -236,6 +245,9 @@
 [/us/usc/t26/s6213/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs6213%2Fa
 [/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455
 [/us/pl/94/455/s1906/b/13/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1906%2Fb%2F13%2FA
+[/us/pl/113/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295
+[/us/pl/113/295/s221/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs221%2Fb
+[/us/usc/t26/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs1
 [/us/pl/109/280/s1212/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280%2Fs1212%2Fe
 [/us/pl/109/280/s1212/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280%2Fs1212%2Ff
 [/us/usc/t26/s4941]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs4941

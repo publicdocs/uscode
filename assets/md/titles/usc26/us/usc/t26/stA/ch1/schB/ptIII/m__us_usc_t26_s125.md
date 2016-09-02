@@ -31,7 +31,7 @@
 
         (2) __Key employees__ 
 
-            In the case of a key employee (within the meaning of section 416(i)(1)), subsection (a) shall not apply to any benefit attributable to a plan for which the statutory nontaxable benefits provided to key employees exceed 25 percent of the aggregate of such benefits provided for all employees under the plan. For purposes of the preceding sentence, statutory nontaxable benefits shall be determined without regard to the second sentence of subsection (f).
+            In the case of a key employee (within the meaning of section 416(i)(1)), subsection (a) shall not apply to any benefit attributable to a plan for which the qualified benefits provided to key employees exceed 25 percent of the aggregate of such benefits provided for all employees under the plan. For purposes of the preceding sentence, qualified benefits shall be determined without regard to the second sentence of subsection (f).
 
         (3) __Year of inclusion__ 
 
@@ -161,11 +161,11 @@
 
         (1) __In general__ 
 
-            For purposes of this title, a plan or other arrangement shall not fail to be treated as a cafeteria plan or health flexible spending arrangement merely because such arrangement provides for qualified reservist distributions.
+            For purposes of this title, a plan or other arrangement shall not fail to be treated as a cafeteria plan or health flexible spending arrangement (and shall not fail to be treated as an accident or health plan) merely because such arrangement provides for qualified reservist distributions.
 
         (2) __Qualified reservist distribution__ 
 
-        For purposes of this subsection, the term “qualified reservist distribution” means, <sup>\[2\]</sup>  <sup><sup> 2 So in original. The comma probably should not appear. </sup></sup>  any distribution to an individual of all or a portion of the balance in the employee’s account under such arrangement if—
+        For purposes of this subsection, the term “qualified reservist distribution” means any distribution to an individual of all or a portion of the balance in the employee’s account under such arrangement if—
 
             (A) such individual was (by reason of being a member of a reserve component (as defined in [section 101 of title 37][/us/usc/t37/s101], United States Code)) ordered or called to active duty for a period in excess of 179 days or for an indefinite period, and
 
@@ -323,7 +323,7 @@
 
         The Secretary shall prescribe such regulations as may be necessary to carry out the provisions of this section.
 
-(Added [Pub. L. 95–600, title I, § 134(a)][/us/pl/95/600/s134/a], Nov. 6, 1978, [92 Stat. 2783][/us/stat/92/2783]; amended [Pub. L. 96–222, title I, § 101(a)(6)(A)][/us/pl/96/222/s101/a/6/A], Apr. 1, 1980, [94 Stat. 196][/us/stat/94/196]; [Pub. L. 96–605, title II][/us/pl/96/605], §§ 201(b)(2), 226(a), Dec. 28, 1980, [94 Stat. 3527][/us/stat/94/3527], 3529; [Pub. L. 96–613, § 5(b)(2)][/us/pl/96/613/s5/b/2], Dec. 28, 1980, [94 Stat. 3581][/us/stat/94/3581]; [Pub. L. 98–369, div. A, title V, § 531(b)(1)][/us/pl/98/369/s531/b/1]–(4)(A), July 18, 1984, [98 Stat. 881][/us/stat/98/881], 882; [Pub. L. 98–611, § 1(d)(3)(A)][/us/pl/98/611/s1/d/3/A], Oct. 31, 1984, [98 Stat. 3177][/us/stat/98/3177]; [Pub. L. 98–612, § 1(b)(3)(B)][/us/pl/98/612/s1/b/3/B], Oct. 31, 1984, [98 Stat. 3181][/us/stat/98/3181]; [Pub. L. 99–514, title XI, § 1151(d)(1)][/us/pl/99/514/s1151/d/1], title XVIII, § 1853(b)(1), Oct. 22, 1986, [100 Stat. 2504][/us/stat/100/2504], 2870; [Pub. L. 100–647, title I][/us/pl/100/647], §§ 1011B(a)(11)–(13), 1018(t)(6), title IV, § 4002(b)(2), title VI, § 6051(b), Nov. 10, 1988, [102 Stat. 3484][/us/stat/102/3484], 3485, 3589, 3643, 3696; [Pub. L. 101–140, title II, § 203(a)(1)][/us/pl/101/140/s203/a/1], (3), (b)(2), Nov. 8, 1989, [103 Stat. 830][/us/stat/103/830], 831; [Pub. L. 101–239, title VII, § 7814(b)][/us/pl/101/239/s7814/b], Dec. 19, 1989, [103 Stat. 2413][/us/stat/103/2413]; [Pub. L. 101–508, title XI, § 11801(c)(3)][/us/pl/101/508/s11801/c/3], Nov. 5, 1990, [104 Stat. 1388–523][/us/stat/104/1388-523]; [Pub. L. 104–191, title III][/us/pl/104/191], §§ 301(d), 321(c)(1), Aug. 21, 1996, [110 Stat. 2051][/us/stat/110/2051], 2058; [Pub. L. 108–173, title XII, § 1201(i)][/us/pl/108/173/s1201/i], Dec. 8, 2003, [117 Stat. 2479][/us/stat/117/2479]; [Pub. L. 108–311, title II, § 207(11)][/us/pl/108/311/s207/11], Oct. 4, 2004, [118 Stat. 1177][/us/stat/118/1177]; [Pub. L. 110–172, § 11(a)(12)][/us/pl/110/172/s11/a/12], Dec. 29, 2007, [121 Stat. 2485][/us/stat/121/2485]; [Pub. L. 110–245, title I, § 114(a)][/us/pl/110/245/s114/a], June 17, 2008, [122 Stat. 1636][/us/stat/122/1636]; [Pub. L. 111–148, title I, § 1515(a)][/us/pl/111/148/s1515/a], (b), title IX, §§ 9005(a), 9022(a), title X, § 10902(a), Mar. 23, 2010, [124 Stat. 258][/us/stat/124/258], 854, 874, 1016; [Pub. L. 111–152, title I, § 1403(b)][/us/pl/111/152/s1403/b], Mar. 30, 2010, [124 Stat. 1063][/us/stat/124/1063].)
+(Added [Pub. L. 95–600, title I, § 134(a)][/us/pl/95/600/s134/a], Nov. 6, 1978, [92 Stat. 2783][/us/stat/92/2783]; amended [Pub. L. 96–222, title I, § 101(a)(6)(A)][/us/pl/96/222/s101/a/6/A], Apr. 1, 1980, [94 Stat. 196][/us/stat/94/196]; [Pub. L. 96–605, title II][/us/pl/96/605], §§ 201(b)(2), 226(a), Dec. 28, 1980, [94 Stat. 3527][/us/stat/94/3527], 3529; [Pub. L. 96–613, § 5(b)(2)][/us/pl/96/613/s5/b/2], Dec. 28, 1980, [94 Stat. 3581][/us/stat/94/3581]; [Pub. L. 98–369, div. A, title V, § 531(b)(1)][/us/pl/98/369/s531/b/1]–(4)(A), July 18, 1984, [98 Stat. 881][/us/stat/98/881], 882; [Pub. L. 98–611, § 1(d)(3)(A)][/us/pl/98/611/s1/d/3/A], Oct. 31, 1984, [98 Stat. 3177][/us/stat/98/3177]; [Pub. L. 98–612, § 1(b)(3)(B)][/us/pl/98/612/s1/b/3/B], Oct. 31, 1984, [98 Stat. 3181][/us/stat/98/3181]; [Pub. L. 99–514, title XI, § 1151(d)(1)][/us/pl/99/514/s1151/d/1], title XVIII, § 1853(b)(1), Oct. 22, 1986, [100 Stat. 2504][/us/stat/100/2504], 2870; [Pub. L. 100–647, title I][/us/pl/100/647], §§ 1011B(a)(11)–(13), 1018(t)(6), title IV, § 4002(b)(2), title VI, § 6051(b), Nov. 10, 1988, [102 Stat. 3484][/us/stat/102/3484], 3485, 3589, 3643, 3696; [Pub. L. 101–140, title II, § 203(a)(1)][/us/pl/101/140/s203/a/1], (3), (b)(2), Nov. 8, 1989, [103 Stat. 830][/us/stat/103/830], 831; [Pub. L. 101–239, title VII, § 7814(b)][/us/pl/101/239/s7814/b], Dec. 19, 1989, [103 Stat. 2413][/us/stat/103/2413]; [Pub. L. 101–508, title XI, § 11801(c)(3)][/us/pl/101/508/s11801/c/3], Nov. 5, 1990, [104 Stat. 1388–523][/us/stat/104/1388-523]; [Pub. L. 104–191, title III][/us/pl/104/191], §§ 301(d), 321(c)(1), Aug. 21, 1996, [110 Stat. 2051][/us/stat/110/2051], 2058; [Pub. L. 108–173, title XII, § 1201(i)][/us/pl/108/173/s1201/i], Dec. 8, 2003, [117 Stat. 2479][/us/stat/117/2479]; [Pub. L. 108–311, title II, § 207(11)][/us/pl/108/311/s207/11], Oct. 4, 2004, [118 Stat. 1177][/us/stat/118/1177]; [Pub. L. 110–172, § 11(a)(12)][/us/pl/110/172/s11/a/12], Dec. 29, 2007, [121 Stat. 2485][/us/stat/121/2485]; [Pub. L. 110–245, title I, § 114(a)][/us/pl/110/245/s114/a], June 17, 2008, [122 Stat. 1636][/us/stat/122/1636]; [Pub. L. 111–148, title I, § 1515(a)][/us/pl/111/148/s1515/a], (b), title IX, §§ 9005(a), 9022(a), title X, § 10902(a), Mar. 23, 2010, [124 Stat. 258][/us/stat/124/258], 854, 874, 1016; [Pub. L. 111–152, title I, § 1403(b)][/us/pl/111/152/s1403/b], Mar. 30, 2010, [124 Stat. 1063][/us/stat/124/1063]; [Pub. L. 113–295, div. A, title II][/us/pl/113/295], §§ 213(b), 220(f), (g), Dec. 19, 2014, [128 Stat. 4033][/us/stat/128/4033], 4036.)
 
  __Inflation Adjusted Items for Certain Years__ 
 
@@ -342,6 +342,12 @@
     A prior section 125 was renumbered [section 140 of this title][/us/usc/t26/s140].
 
  __Amendments__ 
+
+    2014—Subsec. (b)(2). [Pub. L. 113–295, § 220(f)][/us/pl/113/295/s220/f], substituted “qualified benefits” for “statutory nontaxable benefits” in two places.
+
+    Subsec. (h)(1). [Pub. L. 113–295, § 213(b)][/us/pl/113/295/s213/b], inserted “(and shall not fail to be treated as an accident or health plan)” before “merely”.
+
+    Subsec. (h)(2). [Pub. L. 113–295, § 220(g)][/us/pl/113/295/s220/g], substituted “means any” for “means, any” in introductory provisions.
 
     2010—Subsec. (f). [Pub. L. 111–148, § 1515(a)][/us/pl/111/148/s1515/a], (b), substituted “For purposes of this section—” for “For purposes of this section,”; designated remainder of first sentence and second sentence as par. (1), inserted heading, and substituted “The term” for “the term”; designated third sentence as par. (2), inserted heading, and substituted “The term ‘qualified benefit’ shall not include” for “Such term shall not include”; and added par. (3).
 
@@ -441,6 +447,10 @@
 
     Subsec. (g)(4). [Pub. L. 96–613, § 5(b)(2)][/us/pl/96/613/s5/b/2], and [Pub. L. 96–605, § 201(b)(2)][/us/pl/96/605/s201/b/2], made identical amendments by substituting “controlled groups, etc.” for “controlled groups” in heading, and by substituting “subsection (b), (c), or (m) of section 414” for “subsection (b) or (c) of section 414” in text.
 
+ __Effective Date of 2014 Amendment__ 
+
+    Amendment by [section 213(b) of Pub. L. 113–295][/us/pl/113/295/s213/b] effective as if included in the provisions of the Heroes Earnings Assistance and Relief Tax Act of 2008, [Pub. L. 110–245][/us/pl/110/245], to which such amendment relates, see [section 213(d) of Pub. L. 113–295][/us/pl/113/295/s213/d], set out as a note under [section 121 of this title][/us/usc/t26/s121].
+
  __Effective Date of 2010 Amendment__ 
 
 [Pub. L. 111–148, title I, § 1515(c)][/us/pl/111/148/s1515/c], Mar. 23, 2010, [124 Stat. 258][/us/stat/124/258], provided that: 
@@ -489,7 +499,9 @@
 
     Amendment by sections 1011B(a)(11)–(13) and 1018(t)(6) of [Pub. L. 100–647][/us/pl/100/647] effective, except as otherwise provided, as if included in the provision of the Tax Reform Act of 1986, [Pub. L. 99–514][/us/pl/99/514], to which such amendment relates, see [section 1019(a) of Pub. L. 100–647][/us/pl/100/647/s1019/a], set out as a note under [section 1 of this title][/us/usc/t26/s1].
 
-    Amendment by [section 4002(b)(2) of Pub. L. 100–647][/us/pl/100/647/s4002/b/2] applicable to taxable years ending after Dec. 31, 1987, see [section 4002(c) of Pub. L. 100–647][/us/pl/100/647/s4002/c], set out as a note under [section 120 of this title][/us/usc/t26/s120].
+[Pub. L. 100–647, title IV, § 4002(c)][/us/pl/100/647/s4002/c], Nov. 10, 1988, [102 Stat. 3643][/us/stat/102/3643], provided that: 
+
+> “The amendments made by this section \[amending this section and [section 120 of this title][/us/usc/t26/s120]\] shall apply to taxable years ending after December 31, 1987.”
 
 [Pub. L. 100–647, title VI, § 6051(c)][/us/pl/100/647/s6051/c], Nov. 10, 1988, [102 Stat. 3696][/us/stat/102/3696], provided that: 
 
@@ -621,6 +633,8 @@
 [/us/stat/124/258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F258
 [/us/pl/111/152/s1403/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F152%2Fs1403%2Fb
 [/us/stat/124/1063]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1063
+[/us/pl/113/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295
+[/us/stat/128/4033]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F4033
 [/us/usc/t26/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs1
 [/us/pl/101/140/s203/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F140%2Fs203%2Fa%2F1
 [/us/pl/99/514/s1151/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1151%2Fd%2F1
@@ -628,6 +642,9 @@
 [/us/pl/100/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647
 [/us/pl/101/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239
 [/us/usc/t26/s140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs140
+[/us/pl/113/295/s220/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs220%2Ff
+[/us/pl/113/295/s213/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs213%2Fb
+[/us/pl/113/295/s220/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs220%2Fg
 [/us/pl/111/148/s1515/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs1515%2Fa
 [/us/pl/111/148/s10902/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs10902%2Fa
 [/us/pl/111/148/s9005/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs9005%2Fa%2F2
@@ -675,6 +692,10 @@
 [/us/pl/96/222]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F222
 [/us/pl/96/613/s5/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F613%2Fs5%2Fb%2F2
 [/us/pl/96/605/s201/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F605%2Fs201%2Fb%2F2
+[/us/pl/113/295/s213/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs213%2Fb
+[/us/pl/110/245]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F245
+[/us/pl/113/295/s213/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs213%2Fd
+[/us/usc/t26/s121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs121
 [/us/pl/111/148/s1515/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs1515%2Fc
 [/us/stat/124/258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F258
 [/us/pl/111/148/s9005/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs9005%2Fb
@@ -711,8 +732,8 @@
 [/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
 [/us/pl/100/647/s1019/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs1019%2Fa
 [/us/usc/t26/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs1
-[/us/pl/100/647/s4002/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs4002%2Fb%2F2
 [/us/pl/100/647/s4002/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs4002%2Fc
+[/us/stat/102/3643]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3643
 [/us/usc/t26/s120]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs120
 [/us/pl/100/647/s6051/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs6051%2Fc
 [/us/stat/102/3696]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3696

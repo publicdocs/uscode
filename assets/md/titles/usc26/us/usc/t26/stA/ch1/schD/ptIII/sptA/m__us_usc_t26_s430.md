@@ -145,81 +145,7 @@
 
         (5) __Exemption from new shortfall amortization base__ 
 
-            (A) __In general__ 
-
-                In any case in which the value of plan assets of the plan (as reduced under subsection (f)(4)(A)) is equal to or greater than the funding target of the plan for the plan year, the shortfall amortization base of the plan for such plan year shall be zero.
-
-            (B) __Transition rule__ 
-
-                (i) __In general__ 
-
-                    Except as provided in clause (iii), in the case of plan years beginning after 2007 and before 2011, only the applicable percentage of the funding target shall be taken into account under paragraph (3)(A) in determining the funding shortfall for purposes of paragraph (3)(A) and subparagraph (A).
-
-                (ii) __Applicable percentage__ 
-
-                    For purposes of subparagraph (A), the applicable percentage shall be determined in accordance with the following table:
-
-<table>
-
-                      <tr>
-
-                        <td> 
-
-                     In the case of a plan year
-
-                      beginning in calendar year:  </td>
-
-                        <td> 
-
-                    The applicable percentage is  </td>
-
-  </tr>
-
-                      <tr>
-
-                        <td> 
-
-                    2008  </td>
-
-                        <td> 
-
-                    92    </td>
-
-  </tr>
-
-                      <tr>
-
-                        <td> 
-
-                    2009  </td>
-
-                        <td> 
-
-                    94    </td>
-
-  </tr>
-
-                      <tr>
-
-                        <td> 
-
-                    2010  </td>
-
-                        <td> 
-
-                    96.  </td>
-
-  </tr>
-
-                    </table>
-
-                (iii) __Transition relief not available for new or deficit reduction plans__ 
-
-                Clause (i) shall not apply to a plan—
-
-                    (I) which was not in effect for a plan year beginning in 2007, or
-
-                    (II) which was in effect for a plan year beginning in 2007 and which was subject to section 412(l) (as in effect for plan years beginning in 2007) for such year, determined after the application of paragraphs (6) and (9) thereof.
+            In any case in which the value of plan assets of the plan (as reduced under subsection (f)(4)(A)) is equal to or greater than the funding target of the plan for the plan year, the shortfall amortization base of the plan for such plan year shall be zero.
 
         (6) __Early deemed amortization upon attainment of funding target__ 
 
@@ -845,29 +771,7 @@
 
             (F) __Publication requirements__ 
 
-                The Secretary shall publish for each month the corporate bond yield curve (and the corporate bond yield curve reflecting the modification described in section 417(e)(3)(D)(i) for such month) and each of the rates determined under subparagraph (C) and the averages determined under subparagraph (C)(iv) for such month. The Secretary shall also publish a description of the methodology used to determine such yield curve and such rates which is sufficiently detailed to enable plans to make reasonable projections regarding the yield curve and such rates for future months based on the plan’s projection of future interest rates.
-
-            (G) __Transition rule__ 
-
-                (i) __In general__ 
-
-                Notwithstanding the preceding provisions of this paragraph, for plan years beginning in 2008 or 2009, the first, second, or third segment rate for a plan with respect to any month shall be equal to the sum of—
-
-                    (I) the product of such rate for such month determined without regard to this subparagraph, multiplied by the applicable percentage, and
-
-                    (II) the product of the rate determined under the rules of section 412(b)(5)(B)(ii)(II) (as in effect for plan years beginning in 2007), multiplied by a percentage equal to 100 percent minus the applicable percentage.
-
-                (ii) __Applicable percentage__ 
-
-                    For purposes of clause (i), the applicable percentage is 33⅓ percent for plan years beginning in 2008 and 66⅔ percent for plan years beginning in 2009.
-
-                (iii) __New plans ineligible__ 
-
-                    Clause (i) shall not apply to any plan if the first plan year of the plan begins after December 31, 2007.
-
-                (iv) __Election__ 
-
-                    The plan sponsor may elect not to have this subparagraph apply. Such election, once made, may be revoked only with the consent of the Secretary.
+                The Secretary shall publish for each month the corporate bond yield curve (and the corporate bond yield curve reflecting the modification described in section 417(e)(3)(D)(i)  <sup>\[2\]</sup>  <sup><sup> 2 See References in Text note below. </sup></sup>  for such month) and each of the rates determined under subparagraph (C) and the averages determined under subparagraph (C)(iv) for such month. The Secretary shall also publish a description of the methodology used to determine such yield curve and such rates which is sufficiently detailed to enable plans to make reasonable projections regarding the yield curve and such rates for future months based on the plan’s projection of future interest rates.
 
         (3) __Mortality tables__ 
 
@@ -1447,7 +1351,7 @@
 
         In the case of a qualified transfer (as defined in section 420), any assets so transferred shall not, for purposes of this section, be treated as assets in the plan.
 
-(Added [Pub. L. 109–280, title I, § 112(a)][/us/pl/109/280/s112/a], Aug. 17, 2006, [120 Stat. 826][/us/stat/120/826]; amended [Pub. L. 110–458, title I][/us/pl/110/458], §§ 101(b)(2), 121(b), title II, § 202(b), Dec. 23, 2008, [122 Stat. 5095][/us/stat/122/5095], 5113, 5118; [Pub. L. 111–192, title II][/us/pl/111/192], §§ 201(b), 204(b), June 25, 2010, [124 Stat. 1290][/us/stat/124/1290], 1301; [Pub. L. 112–141, div. D, title II, § 40211(a)(1)][/us/pl/112/141/s40211/a/1], (2)(B), July 6, 2012, [126 Stat. 846][/us/stat/126/846], 847; [Pub. L. 113–159, title II, § 2003(a)][/us/pl/113/159/s2003/a], (d)(1), Aug. 8, 2014, [128 Stat. 1849][/us/stat/128/1849], 1851.)
+(Added [Pub. L. 109–280, title I, § 112(a)][/us/pl/109/280/s112/a], Aug. 17, 2006, [120 Stat. 826][/us/stat/120/826]; amended [Pub. L. 110–458, title I][/us/pl/110/458], §§ 101(b)(2), 121(b), title II, § 202(b), Dec. 23, 2008, [122 Stat. 5095][/us/stat/122/5095], 5113, 5118; [Pub. L. 111–192, title II][/us/pl/111/192], §§ 201(b), 204(b), June 25, 2010, [124 Stat. 1290][/us/stat/124/1290], 1301; [Pub. L. 112–141, div. D, title II, § 40211(a)(1)][/us/pl/112/141/s40211/a/1], (2)(B), July 6, 2012, [126 Stat. 846][/us/stat/126/846], 847; [Pub. L. 113–159, title II, § 2003(a)][/us/pl/113/159/s2003/a], (d)(1), Aug. 8, 2014, [128 Stat. 1849][/us/stat/128/1849], 1851; [Pub. L. 113–295, div. A, title II, § 221(a)(57)(C)(i)][/us/pl/113/295/s221/a/57/C/i], (D)(i), Dec. 19, 2014, [128 Stat. 4046][/us/stat/128/4046].)
 
  __Inflation Adjusted Items for Certain Years__ 
 
@@ -1461,125 +1365,19 @@
 
     The Employee Retirement Income Security Act of 1974, referred to in subsecs. (c)(7)(E)(i)(I), (v)(II), (h)(5)(B)(i), (ii), and (k)(2), (4)(C), is [Pub. L. 93–406][/us/pl/93/406], Sept. 2, 1974, [88 Stat. 829][/us/stat/88/829]. Title I of the Act is classified generally to subchapter I (§ 1001 et seq.) of chapter 18 of Title 29, Labor. Title IV of the Act is classified principally to subchapter III (§ 1301 et seq.) of chapter 18 of Title 29. Sections 4001, 4006, 4021, 4043, and 4068 of the Act are classified to sections 1301, 1306, 1321, 1343, and 1368, respectively, of Title 29. For complete classification of this Act to the Code, see Short Title note set out under [section 1001 of Title 29][/us/usc/t29/s1001] and Tables.
 
+    Section 417(e)(3)(D)(i), referred to in subsec. (h)(2)(F), was redesignated subsec. (e)(3)(D) by [Pub. L. 113–295, div. A, title II, § 221(a)(57)(B)(i)][/us/pl/113/295/s221/a/57/B/i], Dec. 19, 2014, [128 Stat. 4046][/us/stat/128/4046].
+
     The Social Security Act, referred to in subsec. (h)(3)(D)(ii), is [act Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], [49 Stat. 620][/us/stat/49/620], as amended. Title II of the Act is classified generally to subchapter II (§ 401 et seq.) of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see [section 1305 of Title 42][/us/usc/t42/s1305] and Tables.
 
  __Amendments__ 
 
-    2014—Subsec. (h)(2)(B)(i). [Pub. L. 113–159, § 2003(d)(1)][/us/pl/113/159/s2003/d/1], substituted “the valuation date for the plan year” for “the first day of the plan year”.
+    2014—Subsec. (c)(5). [Pub. L. 113–295, § 221(a)(57)(C)(i)][/us/pl/113/295/s221/a/57/C/i], struck out subsec. (A) designation and heading and subsec. (B) which related to a transition rule for plan years beginning after 2007 and before 2011.
 
-    Subsec. (h)(2)(C)(iv)(II). [Pub. L. 113–159, § 2003(a)][/us/pl/113/159/s2003/a], amended table generally. Prior to amendment, table read as follows:
+    Subsec. (h)(2)(B)(i). [Pub. L. 113–159, § 2003(d)(1)][/us/pl/113/159/s2003/d/1], substituted “the valuation date for the plan year” for “the first day of the plan year”.
 
-<table>
+    Subsec. (h)(2)(C)(iv)(II). [Pub. L. 113–159, § 2003(a)][/us/pl/113/159/s2003/a], amended table generally. Prior to amendment, table related applicable minimum and maximum percentages for calendar years 2012 to 2015 and after.
 
-  <tr>
-
-    <td> 
-
-“If the calendar year is:  </td>
-
-    <td> 
-
-The
-
-applicable
-
-minimum
-
-percentage is:  </td>
-
-    <td> 
-
-The
-
-applicable
-
-maximum
-
-percentage is:  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> 
-
-2012  </td>
-
-    <td> 
-
-90%  </td>
-
-    <td> 
-
-110%  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> 
-
-2013  </td>
-
-    <td> 
-
-85%  </td>
-
-    <td> 
-
-115%  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> 
-
-2014  </td>
-
-    <td> 
-
-80%  </td>
-
-    <td> 
-
-120%  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> 
-
-2015  </td>
-
-    <td> 
-
-75%  </td>
-
-    <td> 
-
-125%  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> 
-
-After 2015  </td>
-
-    <td> 
-
-70%  </td>
-
-    <td> 
-
-130%.”  </td>
-
-  </tr>
-
-</table>
+    Subsec. (h)(2)(G). [Pub. L. 113–295, § 221(a)(57)(D)(i)][/us/pl/113/295/s221/a/57/D/i], struck out subpar. (G) which related to a transition rule for plan years beginning in 2008 or 2009.
 
     2012—Subsec. (h)(2)(C)(iv). [Pub. L. 112–141, § 40211(a)(1)][/us/pl/112/141/s40211/a/1], added cl. (iv).
 
@@ -1640,6 +1438,8 @@ After 2015  </td>
     Subsec. (k)(6)(B). [Pub. L. 110–458, § 101(b)(2)(H)(ii)][/us/pl/110/458/s101/b/2/H/ii], struck out “, except that in the case of a payment other than a required installment, the due date shall be the date such payment is required to be made under section 430” before period at end.
 
  __Effective Date of 2014 Amendment__ 
+
+    Amendment by [Pub. L. 113–295][/us/pl/113/295] effective Dec. 19, 2014, subject to a savings provision, see [section 221(b) of Pub. L. 113–295][/us/pl/113/295/s221/b], set out as a note under [section 1 of this title][/us/usc/t26/s1].
 
 [Pub. L. 113–159, title II, § 2003(e)][/us/pl/113/159/s2003/e], Aug. 8, 2014, [128 Stat. 1851][/us/stat/128/1851], provided that:
 
@@ -1739,7 +1539,7 @@ After 2015  </td>
 
 >         the mortality table shall be the mortality table used by the plan.
 
->         “(3) Section 430(c)(5)(B) of such Code and section 303(c)(5)(B) of such Act \[[29 U.S.C. 1083(c)(5)(B)][/us/usc/t29/s1083/c/5/B]\] (relating to phase-in of funding target for exemption from new shortfall amortization base) shall each be applied by substituting ‘2012’ for ‘2011’ therein and by substituting for the table therein the following:
+>         “(3) \[Former\] Section 430(c)(5)(B) of such Code and \[former\] section 303(c)(5)(B) of such Act \[[29 U.S.C. 1083(c)(5)(B)][/us/usc/t29/s1083/c/5/B]\] (relating to phase-in of funding target for exemption from new shortfall amortization base) shall each be applied by substituting ‘2012’ for ‘2011’ therein and by substituting for the table therein the following:
 
 <table>
 
@@ -2070,6 +1870,8 @@ After 2015  </td>
 [/us/stat/126/846]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F846
 [/us/pl/113/159/s2003/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F159%2Fs2003%2Fa
 [/us/stat/128/1849]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1849
+[/us/pl/113/295/s221/a/57/C/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs221%2Fa%2F57%2FC%2Fi
+[/us/stat/128/4046]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F4046
 [/us/usc/t26/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs401
 [/us/pl/109/280/s106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280%2Fs106
 [/us/usc/t26/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs401
@@ -2077,11 +1879,15 @@ After 2015  </td>
 [/us/pl/93/406]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F406
 [/us/stat/88/829]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F829
 [/us/usc/t29/s1001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1001
+[/us/pl/113/295/s221/a/57/B/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs221%2Fa%2F57%2FB%2Fi
+[/us/stat/128/4046]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F4046
 [/us/act/1935-08-14/ch531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531
 [/us/stat/49/620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F620
 [/us/usc/t42/s1305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1305
+[/us/pl/113/295/s221/a/57/C/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs221%2Fa%2F57%2FC%2Fi
 [/us/pl/113/159/s2003/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F159%2Fs2003%2Fd%2F1
 [/us/pl/113/159/s2003/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F159%2Fs2003%2Fa
+[/us/pl/113/295/s221/a/57/D/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs221%2Fa%2F57%2FD%2Fi
 [/us/pl/112/141/s40211/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs40211%2Fa%2F1
 [/us/pl/112/141/s40211/a/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs40211%2Fa%2F2%2FB
 [/us/pl/111/192/s201/b/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F192%2Fs201%2Fb%2F3%2FA
@@ -2111,6 +1917,9 @@ After 2015  </td>
 [/us/pl/110/458/s101/b/2/G/iii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F458%2Fs101%2Fb%2F2%2FG%2Fiii
 [/us/pl/110/458/s101/b/2/H/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F458%2Fs101%2Fb%2F2%2FH%2Fi
 [/us/pl/110/458/s101/b/2/H/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F458%2Fs101%2Fb%2F2%2FH%2Fii
+[/us/pl/113/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295
+[/us/pl/113/295/s221/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs221%2Fb
+[/us/usc/t26/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs1
 [/us/pl/113/159/s2003/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F159%2Fs2003%2Fe
 [/us/stat/128/1851]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1851
 [/us/usc/t26/s436]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs436

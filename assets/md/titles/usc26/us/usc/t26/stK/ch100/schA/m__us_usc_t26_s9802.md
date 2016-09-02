@@ -131,7 +131,7 @@
 
         The provisions of subsections (a)(1)(F), (b)(3), (c), and (d) and subsection (b)(1) and section 9801 with respect to genetic information, shall apply to group health plans without regard to section 9831(a)(2).
 
-    (f)  __ <sup>\[__  __1__  __\]</sup> __  __ <sup><sup> __  __1__  __ So in original. Two subsecs. (f) have been enacted.__  __ </sup></sup> __  __Special rules for church plans__ 
+    (f) __Special rules for church plans__ 
 
     A church plan (as defined in section 414(e)) shall not be treated as failing to meet the requirements of this section solely because such plan requires evidence of good health for coverage of—
 
@@ -141,7 +141,7 @@
 
         This subsection shall apply to a plan for any year only if the plan included the provisions described in the preceding sentence on July 15, 1997, and at all times thereafter before the beginning of such year.
 
-    (f)  __1__  __Genetic information of a fetus or embryo__ 
+    (g) __Genetic information of a fetus or embryo__ 
 
     Any reference in this chapter to genetic information concerning an individual or family member of an individual shall—
 
@@ -149,7 +149,7 @@
 
         (2) with respect to an individual or family member utilizing an assisted reproductive technology, include genetic information of any embryo legally held by the individual or family member.
 
-(Added [Pub. L. 104–191, title IV, § 401(a)][/us/pl/104/191/s401/a], Aug. 21, 1996, [110 Stat. 2078][/us/stat/110/2078]; amended [Pub. L. 105–34, title XV, § 1532(a)][/us/pl/105/34/s1532/a], Aug. 5, 1997, [111 Stat. 1085][/us/stat/111/1085]; [Pub. L. 110–233, title I, § 103(a)][/us/pl/110/233/s103/a]–(c), May 21, 2008, [122 Stat. 896][/us/stat/122/896], 897.)
+(Added [Pub. L. 104–191, title IV, § 401(a)][/us/pl/104/191/s401/a], Aug. 21, 1996, [110 Stat. 2078][/us/stat/110/2078]; amended [Pub. L. 105–34, title XV, § 1532(a)][/us/pl/105/34/s1532/a], Aug. 5, 1997, [111 Stat. 1085][/us/stat/111/1085]; [Pub. L. 110–233, title I, § 103(a)][/us/pl/110/233/s103/a]–(c), May 21, 2008, [122 Stat. 896][/us/stat/122/896], 897; [Pub. L. 113–295, div. A, title II, § 220(aa)][/us/pl/113/295/s220/aa], Dec. 19, 2014, [128 Stat. 4037][/us/stat/128/4037].)
 
  __References in Text__ 
 
@@ -158,6 +158,8 @@
     Section 264 of the Health Insurance Portability and Accountability Act of 1996, referred to in subsec. (c)(3)(A), is [section 264 of Pub. L. 104–191][/us/pl/104/191/s264], which is set out as a note under [section 1320d–2 of Title 42][/us/usc/t42/s1320d–2], The Public Health and Welfare.
 
  __Amendments__ 
+
+    2014—Subsecs. (f), (g). [Pub. L. 113–295][/us/pl/113/295] redesignated subsec. (f) relating to genetic information of a fetus or embryo as (g).
 
     2008—Subsec. (b)(2)(A). [Pub. L. 110–233, § 103(a)(1)][/us/pl/110/233/s103/a/1], inserted “except as provided in paragraph (3)” before semicolon.
 
@@ -202,11 +204,14 @@
 [/us/stat/111/1085]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1085
 [/us/pl/110/233/s103/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F233%2Fs103%2Fa
 [/us/stat/122/896]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F896
+[/us/pl/113/295/s220/aa]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs220%2Faa
+[/us/stat/128/4037]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F4037
 [/us/act/1935-08-14/ch531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531
 [/us/stat/49/620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F620
 [/us/usc/t42/s1305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1305
 [/us/pl/104/191/s264]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F191%2Fs264
 [/us/usc/t42/s1320d–2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1320d%E2%80%932
+[/us/pl/113/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295
 [/us/pl/110/233/s103/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F233%2Fs103%2Fa%2F1
 [/us/pl/110/233/s103/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F233%2Fs103%2Fa%2F2
 [/us/pl/110/233/s103/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F233%2Fs103%2Fb

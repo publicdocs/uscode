@@ -157,7 +157,9 @@
 
  __Effective Date of 1997 Amendment__ 
 
-    Amendment by [section 1401(a) of Pub. L. 105–34][/us/pl/105/34/s1401/a] applicable to installations on vehicles sold after Aug. 5, 1997, see [section 1401(b) of Pub. L. 105–34][/us/pl/105/34/s1401/b], set out as a note under [section 4003 of this title][/us/usc/t26/s4003].
+[Pub. L. 105–34, title XIV, § 1401(b)][/us/pl/105/34/s1401/b], Aug. 5, 1997, [111 Stat. 1046][/us/stat/111/1046], provided that: 
+
+> “The amendments made by subsection (a) \[amending this section and [section 4003 of this title][/us/usc/t26/s4003]\] shall apply to installations on vehicles sold after the date of the enactment of this Act \[Aug. 5, 1997\].”
 
 [Pub. L. 105–34, title XIV, § 1402(c)][/us/pl/105/34/s1402/c], Aug. 5, 1997, [111 Stat. 1046][/us/stat/111/1046], provided that: 
 
@@ -254,8 +256,8 @@
 [/us/pl/112/30/s142/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F30%2Fs142%2Ff
 [/us/pl/109/59/s11112/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs11112%2Fb
 [/us/stat/119/1946]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F1946
-[/us/pl/105/34/s1401/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2Fs1401%2Fa
 [/us/pl/105/34/s1401/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2Fs1401%2Fb
+[/us/stat/111/1046]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1046
 [/us/usc/t26/s4003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs4003
 [/us/pl/105/34/s1402/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2Fs1402%2Fc
 [/us/stat/111/1046]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1046

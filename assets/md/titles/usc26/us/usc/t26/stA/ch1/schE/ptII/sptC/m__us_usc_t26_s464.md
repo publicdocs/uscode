@@ -17,69 +17,23 @@
 
     (a) __General rule__ 
 
-        In the case of any farming syndicate (as defined in subsection (c)), a deduction (otherwise allowable under this chapter) for amounts paid for feed, seed, fertilizer, or other similar farm supplies shall only be allowed for the taxable year in which such feed, seed, fertilizer, or other supplies are actually used or consumed, or, if later, for the taxable year for which allowable as a deduction (determined without regard to this section).
+        In the case of any taxpayer to whom subsection (d) applies, a deduction (otherwise allowable under this chapter) for amounts paid for feed, seed, fertilizer, or other similar farm supplies shall only be allowed for the taxable year in which such feed, seed, fertilizer, or other supplies are actually used or consumed, or, if later, for the taxable year for which allowable as a deduction (determined without regard to this section).
 
     (b) __Certain poultry expenses__ 
 
-    In the case of any farming syndicate (as defined in subsection (c))—
+    In the case of any taxpayer to whom subsection (d) applies—
 
         (1) the cost of poultry (including egg-laying hens and baby chicks) purchased for use in a trade or business (or both for use in a trade or business and for sale) shall be capitalized and deducted ratably over the lesser of 12 months or their useful life in the trade or business, and
 
         (2) the cost of poultry purchased for sale shall be deducted for the taxable year in which the poultry is sold or otherwise disposed of.
 
-    (c) __Farming syndicate defined__ 
-
-        (1) __In general__ 
-
-        For purposes of this section, the term “farming syndicate” means—
-
-            (A) a partnership or any other enterprise other than a corporation which is not an S corporation engaged in the trade or business of farming, if at any time interests in such partnership or enterprise have been offered for sale in any offering required to be registered with any Federal or State agency having authority to regulate the offering of securities for sale, or
-
-            (B) a partnership or any other enterprise other than a corporation which is not an S corporation engaged in the trade or business of farming, if more than 35 percent of the losses during any period are allocable to limited partners or limited entrepreneurs.
-
-        (2) __Holdings attributable to active management__ 
-
-        For purposes of paragraph (1)(B), the following shall be treated as an interest which is not held by a limited partner or a limited entrepreneur:
-
-            (A) in the case of any individual who has actively participated (for a period of not less than 5 years) in the management of any trade or business of farming, any interest in a partnership or other enterprise which is attributable to such active participation,
-
-            (B) in the case of any individual whose principal residence is on a farm, any partnership or other enterprise engaged in the trade or business of farming such farm,
-
-            (C) in the case of any individual who is actively participating in the management of any trade or business of farming or who is an individual who is described in subparagraph (A) or (B), any participation in the further processing of livestock which was raised in such trade or business (or in the trade or business referred to in subparagraph (A) or (B)),
-
-            (D) in the case of an individual whose principal business activity involves active participation in the management of a trade or business of farming, any interest in any other trade or business of farming, and,
-
-            (E) any interest held by a member of the family (or a spouse of any such member) of a grandparent of an individual described in subparagraph (A), (B), (C), or (D) if the interest in the partnership or the enterprise is attributable to the active participation of the individual described in subparagraph (A), (B), (C), or (D).
-
-            For purposes of subparagraph (A), where one farm is substituted for or added to another farm, both farms shall be treated as one farm. For purposes of subparagraph (E), the term “family” has the meaning given to such term by section 267(c)(4).
-
-    (d) __Exception__ 
+    (c) __Exception__ 
 
         Subsection (a) shall not apply to any amount paid for supplies which are on hand at the close of the taxable year on account of fire, storm, or other casualty, or on account of disease or drought.
 
-    (e) __Definitions__ 
+    (d) __Certain persons prepaying 50 percent or more of certain farming expenses__ 
 
-    For purposes of this section—
-
-        (1) __Farming__ 
-
-            The term “farming” means the cultivation of land or the raising or harvesting of any agricultural or horticultural commodity including the raising, shearing, feeding, caring for, training, and management of animals. For purposes of the preceding sentence, trees (other than trees bearing fruit or nuts) shall not be treated as an agricultural or horticultural commodity.
-
-        (2) __Limited entrepreneur__ 
-
-        The term “limited entrepreneur” means a person who—
-
-            (A) has an interest in an enterprise other than as a limited partner, and
-
-            (B) does not actively participate in the management of such enterprise.
-
-    (f) __Subsections (a) and (b) to apply to certain persons prepaying 50 percent or more of certain farming expenses__ 
-
-        (1) __In general__ 
-
-            In the case of a taxpayer to whom this subsection applies, subsections (a) and (b) shall apply to the excess prepaid farm supplies of such taxpayer in the same manner as if such taxpayer were a farming syndicate.
-
-        (2) __Taxpayer to whom subsection applies__ 
+        (1) __Taxpayer to whom subsection applies__ 
 
         This subsection applies to any taxpayer for any taxable year if such taxpayer—
 
@@ -89,7 +43,7 @@
 
             (C) is not a qualified farm-related taxpayer.
 
-        (3) __Qualified farm-related taxpayer__ 
+        (2) __Qualified farm-related taxpayer__ 
 
             (A) __In general__ 
 
@@ -111,9 +65,9 @@
 
                 (ii) who has a principal occupation of farming, or
 
-                (iii) who is a member of the family (within the meaning of subsection (c)(2)(E)) of a taxpayer described in clause (i) or (ii).
+                (iii) who is a member of the family (within the meaning of subsection (c)(2)(E)  <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup> ) of a taxpayer described in clause (i) or (ii).
 
-        (4) __Definitions__ 
+        (3) __Definitions__ 
 
         For purposes of this subsection—
 
@@ -129,13 +83,33 @@
 
                 The term “deductible farming expenses” means any amount allowable as a deduction under this chapter (including any amount allowable as a deduction for depreciation or amortization) which is properly allocable to the trade or business of farming.
 
-    (g) __Termination__ 
+    (e) __Farming__ 
 
-        Except as provided in subsection (f), subsections (a) and (b) shall not apply to any taxable year beginning after December 31, 1986.
+        For purposes of this section, the term “farming” means the cultivation of land or the raising or harvesting of any agricultural or horticultural commodity including the raising, shearing, feeding, caring for, training, and management of animals. For purposes of the preceding sentence, trees (other than trees bearing fruit or nuts) shall not be treated as an agricultural or horticultural commodity.
 
-(Added [Pub. L. 94–455, title II, § 207(a)(1)][/us/pl/94/455/s207/a/1], Oct. 4, 1976, [90 Stat. 1536][/us/stat/90/1536]; amended [Pub. L. 95–600, title VII, § 701][/us/pl/95/600/s701](l)(3), Nov. 6, 1978, [92 Stat. 2907][/us/stat/92/2907]; [Pub. L. 97–354, § 5(a)(30)][/us/pl/97/354/s5/a/30], Oct. 19, 1982, [96 Stat. 1695][/us/stat/96/1695]; [Pub. L. 99–514, title IV, § 404(a)][/us/pl/99/514/s404/a], (b)(1), title VIII, § 803(b)(8), Oct. 22, 1986, [100 Stat. 2223][/us/stat/100/2223], 2224, 2356; [Pub. L. 100–647, title I, § 1008(a)(4)][/us/pl/100/647/s1008/a/4], Nov. 10, 1988, [102 Stat. 3437][/us/stat/102/3437]; [Pub. L. 105–34, title III, § 312(d)(1)][/us/pl/105/34/s312/d/1], Aug. 5, 1997, [111 Stat. 839][/us/stat/111/839].)
+(Added [Pub. L. 94–455, title II, § 207(a)(1)][/us/pl/94/455/s207/a/1], Oct. 4, 1976, [90 Stat. 1536][/us/stat/90/1536]; amended [Pub. L. 95–600, title VII, § 701][/us/pl/95/600/s701](l)(3), Nov. 6, 1978, [92 Stat. 2907][/us/stat/92/2907]; [Pub. L. 97–354, § 5(a)(30)][/us/pl/97/354/s5/a/30], Oct. 19, 1982, [96 Stat. 1695][/us/stat/96/1695]; [Pub. L. 99–514, title IV, § 404(a)][/us/pl/99/514/s404/a], (b)(1), title VIII, § 803(b)(8), Oct. 22, 1986, [100 Stat. 2223][/us/stat/100/2223], 2224, 2356; [Pub. L. 100–647, title I, § 1008(a)(4)][/us/pl/100/647/s1008/a/4], Nov. 10, 1988, [102 Stat. 3437][/us/stat/102/3437]; [Pub. L. 105–34, title III, § 312(d)(1)][/us/pl/105/34/s312/d/1], Aug. 5, 1997, [111 Stat. 839][/us/stat/111/839]; [Pub. L. 113–295, div. A, title II, § 221(a)(58)(A)][/us/pl/113/295/s221/a/58/A], (B)(i), (C), (D), Dec. 19, 2014, [128 Stat. 4047][/us/stat/128/4047].)
+
+ __References in Text__ 
+
+    Subsection (c), referred to in subsec. (d)(2)(B)(iii), was transferred to [section 461(j) of this title][/us/usc/t26/s461/j] by [Pub. L. 113–295, div. A, title II, § 221(a)(58)(C)(i)][/us/pl/113/295/s221/a/58/C/i], Dec. 19, 2014, [128 Stat. 4047][/us/stat/128/4047].
 
  __Amendments__ 
+
+    2014—Subsecs. (a), (b). [Pub. L. 113–295, § 221(a)(58)(A)][/us/pl/113/295/s221/a/58/A], substituted “any taxpayer to whom subsection (d) applies” for “any farming syndicate (as defined in subsection (c))” in subsec. (a) and in introductory provisions of subsec. (b).
+
+    Subsec. (c). [Pub. L. 113–295, § 221(a)(58)(C)(i)][/us/pl/113/295/s221/a/58/C/i], redesignated subsec. (d) as (c). Former subsec. (c) transferred to [section 461 of this title][/us/usc/t26/s461].
+
+    [Pub. L. 113–295, § 221(a)(58)(B)(i)][/us/pl/113/295/s221/a/58/B/i], transferred subsec. (c) defining the term “farming syndicate” to [section 461 of this title][/us/usc/t26/s461].
+
+    Subsec. (d). [Pub. L. 113–295, § 221(a)(58)(D)][/us/pl/113/295/s221/a/58/D], struck out “Subsections (a) and (b) to apply to” before “certain persons” in heading, struck out par. (1), and redesignated pars. (2) to (4) as (1) to (3), respectively. Prior to amendment, par. (1) read as follows: “In the case of a taxpayer to whom this subsection applies, subsections (a) and (b) shall apply to the excess prepaid farm supplies of such taxpayer in the same manner as if such taxpayer were a farming syndicate.”
+
+    [Pub. L. 113–295, § 221(a)(58)(C)(i)][/us/pl/113/295/s221/a/58/C/i], redesignated subsec. (f) as (d). Former subsec. (d) redesignated as (c).
+
+    Subsec. (e). [Pub. L. 113–295, § 221(a)(58)(C)][/us/pl/113/295/s221/a/58/C], added subsec. (e) and struck out former subsec. (e) which defined the terms “farming” and “limited entrepreneur” for purposes of this section..
+
+    Subsec. (f). [Pub. L. 113–295, § 221(a)(58)(C)(i)][/us/pl/113/295/s221/a/58/C/i], redesignated subsec. (f) as (d).
+
+    Subsec. (g). [Pub. L. 113–295, § 221(a)(58)(C)(i)][/us/pl/113/295/s221/a/58/C/i], struck out subsec. (g) which read as follows: “Except as provided in subsection (f), subsections (a) and (b) shall not apply to any taxable year beginning after December 31, 1986.”
 
     1997—Subsec. (f)(3)(B)(i). [Pub. L. 105–34][/us/pl/105/34] substituted “section 121” for “section 1034”.
 
@@ -154,6 +128,10 @@
     1982—Subsec. (c)(1)(A), (B). [Pub. L. 97–354][/us/pl/97/354] substituted “an S corporation” for “an electing small business corporation (as defined in section 1371(b))”.
 
     1978—Subsec. (c)(2). [Pub. L. 95–600][/us/pl/95/600] substituted in subpar. (E) “(or a spouse of any such member)” for “(within the meaning of section 267(c)(4))” and provided that for purposes of subpar. (E) the term “family” has the meaning given to such term by section 267(c)(4).
+
+ __Effective Date of 2014 Amendment__ 
+
+    Amendment by [Pub. L. 113–295][/us/pl/113/295] effective Dec. 19, 2014, subject to a savings provision, see [section 221(b) of Pub. L. 113–295][/us/pl/113/295/s221/b], set out as a note under [section 1 of this title][/us/usc/t26/s1].
 
  __Effective Date of 1997 Amendment__ 
 
@@ -212,6 +190,21 @@
 [/us/stat/102/3437]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3437
 [/us/pl/105/34/s312/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2Fs312%2Fd%2F1
 [/us/stat/111/839]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F839
+[/us/pl/113/295/s221/a/58/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs221%2Fa%2F58%2FA
+[/us/stat/128/4047]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F4047
+[/us/usc/t26/s461/j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs461%2Fj
+[/us/pl/113/295/s221/a/58/C/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs221%2Fa%2F58%2FC%2Fi
+[/us/stat/128/4047]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F4047
+[/us/pl/113/295/s221/a/58/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs221%2Fa%2F58%2FA
+[/us/pl/113/295/s221/a/58/C/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs221%2Fa%2F58%2FC%2Fi
+[/us/usc/t26/s461]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs461
+[/us/pl/113/295/s221/a/58/B/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs221%2Fa%2F58%2FB%2Fi
+[/us/usc/t26/s461]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs461
+[/us/pl/113/295/s221/a/58/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs221%2Fa%2F58%2FD
+[/us/pl/113/295/s221/a/58/C/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs221%2Fa%2F58%2FC%2Fi
+[/us/pl/113/295/s221/a/58/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs221%2Fa%2F58%2FC
+[/us/pl/113/295/s221/a/58/C/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs221%2Fa%2F58%2FC%2Fi
+[/us/pl/113/295/s221/a/58/C/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs221%2Fa%2F58%2FC%2Fi
 [/us/pl/105/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34
 [/us/pl/100/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647
 [/us/pl/99/514/s404/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs404%2Fb%2F1
@@ -219,6 +212,9 @@
 [/us/pl/99/514/s404/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs404%2Fa
 [/us/pl/97/354]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F354
 [/us/pl/95/600]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F600
+[/us/pl/113/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295
+[/us/pl/113/295/s221/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs221%2Fb
+[/us/usc/t26/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs1
 [/us/pl/105/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34
 [/us/pl/105/34/s312/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2Fs312%2Fd
 [/us/usc/t26/s121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs121

@@ -19,7 +19,7 @@
 
         (1) __In general__ 
 
-            Except as provided in paragraph (2), if property is transferred in a generation-skipping transfer, the basis of such property shall be increased (but not above the fair market value of such property) by an amount equal to that portion of the tax imposed by section 2601 (computed without regard to section 2604) with respect to the transfer which is attributable to the excess of the fair market value of such property over its adjusted basis immediately before the transfer. The preceding shall be applied after any basis adjustment under section 1015 with respect to the transfer.
+            Except as provided in paragraph (2), if property is transferred in a generation-skipping transfer, the basis of such property shall be increased (but not above the fair market value of such property) by an amount equal to that portion of the tax imposed by section 2601 with respect to the transfer which is attributable to the excess of the fair market value of such property over its adjusted basis immediately before the transfer. The preceding shall be applied after any basis adjustment under section 1015 with respect to the transfer.
 
         (2) __Certain transfers at death__ 
 
@@ -49,9 +49,11 @@
 
         The preceding sentence shall not apply if the trustee has knowledge of facts sufficient reasonably to conclude that a gift tax return was required to be filed or that the inclusion ratio was erroneous.
 
-(Added [Pub. L. 99–514, title XIV, § 1431(a)][/us/pl/99/514/s1431/a], Oct. 22, 1986, [100 Stat. 2727][/us/stat/100/2727]; amended [Pub. L. 100–647, title I, § 1014(g)(12)][/us/pl/100/647/s1014/g/12], (13), Nov. 10, 1988, [102 Stat. 3565][/us/stat/102/3565], 3566; [Pub. L. 101–239, title VII, § 7811(j)(2)][/us/pl/101/239/s7811/j/2], Dec. 19, 1989, [103 Stat. 2411][/us/stat/103/2411]; [Pub. L. 105–206, title VI, § 6013(a)(4)(B)][/us/pl/105/206/s6013/a/4/B], July 22, 1998, [112 Stat. 819][/us/stat/112/819].)
+(Added [Pub. L. 99–514, title XIV, § 1431(a)][/us/pl/99/514/s1431/a], Oct. 22, 1986, [100 Stat. 2727][/us/stat/100/2727]; amended [Pub. L. 100–647, title I, § 1014(g)(12)][/us/pl/100/647/s1014/g/12], (13), Nov. 10, 1988, [102 Stat. 3565][/us/stat/102/3565], 3566; [Pub. L. 101–239, title VII, § 7811(j)(2)][/us/pl/101/239/s7811/j/2], Dec. 19, 1989, [103 Stat. 2411][/us/stat/103/2411]; [Pub. L. 105–206, title VI, § 6013(a)(4)(B)][/us/pl/105/206/s6013/a/4/B], July 22, 1998, [112 Stat. 819][/us/stat/112/819]; [Pub. L. 113–295, div. A, title II, § 221(a)(95)(B)(iii)][/us/pl/113/295/s221/a/95/B/iii], Dec. 19, 2014, [128 Stat. 4051][/us/stat/128/4051].)
 
  __Amendments__ 
+
+    2014—Subsec. (a)(1). [Pub. L. 113–295][/us/pl/113/295] struck out “(computed without regard to section 2604)” after “section 2601”.
 
     1998—Subsec. (b). [Pub. L. 105–206][/us/pl/105/206] inserted at end “For purposes of this subsection, a trust shall be treated as part of an estate during any period that the trust is so treated under section 645.”
 
@@ -60,6 +62,10 @@
     1988—Subsec. (a)(2). [Pub. L. 100–647, § 1014(g)(12)][/us/pl/100/647/s1014/g/12], inserted “or decrease” after “any increase” and “or decrease (as the case may be)” after “such increase”.
 
     Subsec. (b). [Pub. L. 100–647, § 1014(g)(13)][/us/pl/100/647/s1014/g/13], substituted “Certain trusts” for “Separate shares” in heading and amended text generally. Prior to amendment, text read as follows: “Substantially separate and independent shares of different beneficiaries in a trust shall be treated as separate trusts.”
+
+ __Effective Date of 2014 Amendment__ 
+
+    Amendment by [Pub. L. 113–295][/us/pl/113/295] effective Dec. 19, 2014, subject to a savings provision, see [section 221(b) of Pub. L. 113–295][/us/pl/113/295/s221/b], set out as a note under [section 1 of this title][/us/usc/t26/s1].
 
  __Effective Date of 1998 Amendment__ 
 
@@ -92,10 +98,16 @@
 [/us/stat/103/2411]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F2411
 [/us/pl/105/206/s6013/a/4/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206%2Fs6013%2Fa%2F4%2FB
 [/us/stat/112/819]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F819
+[/us/pl/113/295/s221/a/95/B/iii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs221%2Fa%2F95%2FB%2Fiii
+[/us/stat/128/4051]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F4051
+[/us/pl/113/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295
 [/us/pl/105/206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206
 [/us/pl/101/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239
 [/us/pl/100/647/s1014/g/12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs1014%2Fg%2F12
 [/us/pl/100/647/s1014/g/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs1014%2Fg%2F13
+[/us/pl/113/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295
+[/us/pl/113/295/s221/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs221%2Fb
+[/us/usc/t26/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs1
 [/us/pl/105/206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206
 [/us/pl/105/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34
 [/us/pl/105/34/s1305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2Fs1305

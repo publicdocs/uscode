@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../..//us/usc/t26/stC/ch25/m__us_usc_t26_s3510.md) | [Next](./../../../..//us/usc/t26/stD/ch31/m__us_usc_t26_stD_ch31.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2FstD)
+[Previous](./../../../..//us/usc/t26/stC/ch25/m__us_usc_t26_s3511.md) | [Next](./../../../..//us/usc/t26/stD/ch31/m__us_usc_t26_stD_ch31.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2FstD)
 
 ## Subtitle D—Miscellaneous Excise Taxes
 
@@ -1065,7 +1065,7 @@
 
 ----------
 
-[Previous](./../../../..//us/usc/t26/stC/ch25/m__us_usc_t26_s3510.md) | [Next](./../../../..//us/usc/t26/stD/ch31/m__us_usc_t26_stD_ch31.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2FstD)
+[Previous](./../../../..//us/usc/t26/stC/ch25/m__us_usc_t26_s3511.md) | [Next](./../../../..//us/usc/t26/stD/ch31/m__us_usc_t26_stD_ch31.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2FstD)
 
 ----------
 ----------

@@ -131,7 +131,7 @@
 
             (C) the applicable annual limitation in the case of any qualified bicycle commuting reimbursement.
 
-            In the case of any month beginning on or after the date of the enactment of this sentence and before January 1, 2014, subparagraph (A) shall be applied as if the dollar amount therein were the same as the dollar amount in effect for such month under subparagraph (B).
+            In the case of any month beginning on or after the date of the enactment of this sentence and before January 1, 2015, subparagraph (A) shall be applied as if the dollar amount therein were the same as the dollar amount in effect for such month under subparagraph (B).
 
         (3) __Cash reimbursements__ 
 
@@ -397,7 +397,7 @@
 
         The Secretary shall prescribe such regulations as may be necessary or appropriate to carry out the purposes of this section.
 
-(Added [Pub. L. 98–369, div. A, title V, § 531(a)(1)][/us/pl/98/369/s531/a/1], July 18, 1984, [98 Stat. 877][/us/stat/98/877]; amended [Pub. L. 99–272, title XIII, § 13207(a)(1)][/us/pl/99/272/s13207/a/1], (b)(1), Apr. 7, 1986, [100 Stat. 319][/us/stat/100/319]; [Pub. L. 99–514, title XI][/us/pl/99/514], §§ 1114(b)(5), 1151(e)(2)(A), (g)(5), title XVIII, §§ 1853(a), 1899A(5), Oct. 22, 1986, [100 Stat. 2451][/us/stat/100/2451], 2506, 2507, 2870, 2958; [Pub. L. 100–647, title I, § 1011B(a)(31)(B)][/us/pl/100/647/s1011B/a/31/B], title VI, § 6066(a), Nov. 10, 1988, [102 Stat. 3488][/us/stat/102/3488], 3702; [Pub. L. 101–140, title II, § 203(a)(1)][/us/pl/101/140/s203/a/1], (2), Nov. 8, 1989, [103 Stat. 830][/us/stat/103/830]; [Pub. L. 101–239, title VII][/us/pl/101/239], §§ 7101(b), 7841(d)(7), (19), Dec. 19, 1989, [103 Stat. 2304][/us/stat/103/2304], 2428, 2429; [Pub. L. 102–486, title XIX, § 1911(a)][/us/pl/102/486/s1911/a]–(c), Oct. 24, 1992, [106 Stat. 3012–3014][/us/stat/106/3012-3014]; [Pub. L. 103–66, title XIII][/us/pl/103/66], §§ 13101(b), 13201(b)(3)(F), 13213(d)(1), (2), (3)(B), (C), Aug. 10, 1993, [107 Stat. 420][/us/stat/107/420], 459, 474; [Pub. L. 105–34, title IX, § 970(a)][/us/pl/105/34/s970/a], title X, § 1072(a), Aug. 5, 1997, [111 Stat. 897][/us/stat/111/897], 948; [Pub. L. 105–178, title IX, § 9010(a)(1)][/us/pl/105/178/s9010/a/1], (b)(1), (2), (c)(1), (2), June 9, 1998, [112 Stat. 507][/us/stat/112/507], 508; [Pub. L. 107–16, title VI, § 665(a)][/us/pl/107/16/s665/a], (b), June 7, 2001, [115 Stat. 143][/us/stat/115/143]; [Pub. L. 108–121, title I, § 103(a)][/us/pl/108/121/s103/a], (b), Nov. 11, 2003, [117 Stat. 1337][/us/stat/117/1337]; [Pub. L. 108–311, title II, § 207(13)][/us/pl/108/311/s207/13], Oct. 4, 2004, [118 Stat. 1177][/us/stat/118/1177]; [Pub. L. 110–343, div. B, title II, § 211(a)][/us/pl/110/343/s211/a]–(d), Oct. 3, 2008, [122 Stat. 3840][/us/stat/122/3840], 3841; [Pub. L. 111–5, div. B, title I, § 1151(a)][/us/pl/111/5/s1151/a], Feb. 17, 2009, [123 Stat. 333][/us/stat/123/333]; [Pub. L. 111–92, § 14(a)][/us/pl/111/92/s14/a], Nov. 6, 2009, [123 Stat. 2995][/us/stat/123/2995]; [Pub. L. 111–312, title VII, § 727(a)][/us/pl/111/312/s727/a], Dec. 17, 2010, [124 Stat. 3317][/us/stat/124/3317]; [Pub. L. 112–240, title II, § 203(a)][/us/pl/112/240/s203/a], Jan. 2, 2013, [126 Stat. 2323][/us/stat/126/2323].)
+(Added [Pub. L. 98–369, div. A, title V, § 531(a)(1)][/us/pl/98/369/s531/a/1], July 18, 1984, [98 Stat. 877][/us/stat/98/877]; amended [Pub. L. 99–272, title XIII, § 13207(a)(1)][/us/pl/99/272/s13207/a/1], (b)(1), Apr. 7, 1986, [100 Stat. 319][/us/stat/100/319]; [Pub. L. 99–514, title XI][/us/pl/99/514], §§ 1114(b)(5), 1151(e)(2)(A), (g)(5), title XVIII, §§ 1853(a), 1899A(5), Oct. 22, 1986, [100 Stat. 2451][/us/stat/100/2451], 2506, 2507, 2870, 2958; [Pub. L. 100–647, title I, § 1011B(a)(31)(B)][/us/pl/100/647/s1011B/a/31/B], title VI, § 6066(a), Nov. 10, 1988, [102 Stat. 3488][/us/stat/102/3488], 3702; [Pub. L. 101–140, title II, § 203(a)(1)][/us/pl/101/140/s203/a/1], (2), Nov. 8, 1989, [103 Stat. 830][/us/stat/103/830]; [Pub. L. 101–239, title VII][/us/pl/101/239], §§ 7101(b), 7841(d)(7), (19), Dec. 19, 1989, [103 Stat. 2304][/us/stat/103/2304], 2428, 2429; [Pub. L. 102–486, title XIX, § 1911(a)][/us/pl/102/486/s1911/a]–(c), Oct. 24, 1992, [106 Stat. 3012–3014][/us/stat/106/3012-3014]; [Pub. L. 103–66, title XIII][/us/pl/103/66], §§ 13101(b), 13201(b)(3)(F), 13213(d)(1), (2), (3)(B), (C), Aug. 10, 1993, [107 Stat. 420][/us/stat/107/420], 459, 474; [Pub. L. 105–34, title IX, § 970(a)][/us/pl/105/34/s970/a], title X, § 1072(a), Aug. 5, 1997, [111 Stat. 897][/us/stat/111/897], 948; [Pub. L. 105–178, title IX, § 9010(a)(1)][/us/pl/105/178/s9010/a/1], (b)(1), (2), (c)(1), (2), June 9, 1998, [112 Stat. 507][/us/stat/112/507], 508; [Pub. L. 107–16, title VI, § 665(a)][/us/pl/107/16/s665/a], (b), June 7, 2001, [115 Stat. 143][/us/stat/115/143]; [Pub. L. 108–121, title I, § 103(a)][/us/pl/108/121/s103/a], (b), Nov. 11, 2003, [117 Stat. 1337][/us/stat/117/1337]; [Pub. L. 108–311, title II, § 207(13)][/us/pl/108/311/s207/13], Oct. 4, 2004, [118 Stat. 1177][/us/stat/118/1177]; [Pub. L. 110–343, div. B, title II, § 211(a)][/us/pl/110/343/s211/a]–(d), Oct. 3, 2008, [122 Stat. 3840][/us/stat/122/3840], 3841; [Pub. L. 111–5, div. B, title I, § 1151(a)][/us/pl/111/5/s1151/a], Feb. 17, 2009, [123 Stat. 333][/us/stat/123/333]; [Pub. L. 111–92, § 14(a)][/us/pl/111/92/s14/a], Nov. 6, 2009, [123 Stat. 2995][/us/stat/123/2995]; [Pub. L. 111–312, title VII, § 727(a)][/us/pl/111/312/s727/a], Dec. 17, 2010, [124 Stat. 3317][/us/stat/124/3317]; [Pub. L. 112–240, title II, § 203(a)][/us/pl/112/240/s203/a], Jan. 2, 2013, [126 Stat. 2323][/us/stat/126/2323]; [Pub. L. 113–295, div. A, title I, § 103(a)][/us/pl/113/295/s103/a], Dec. 19, 2014, [128 Stat. 4013][/us/stat/128/4013].)
 
  __Inflation Adjusted Items for Certain Years__ 
 
@@ -414,6 +414,8 @@
     A prior section 132 was renumbered [section 140 of this title][/us/usc/t26/s140].
 
  __Amendments__ 
+
+    2014—Subsec. (f)(2). [Pub. L. 113–295][/us/pl/113/295] substituted “January 1, 2015” for “January 1, 2014” in concluding provisions.
 
     2013—Subsec. (f)(2). [Pub. L. 112–240][/us/pl/112/240] substituted “January 1, 2014” for “January 1, 2012” in concluding provisions.
 
@@ -528,6 +530,12 @@
     Subsec. (h)(7). [Pub. L. 99–514, § 1114(b)(5)(B)][/us/pl/99/514/s1114/b/5/B], added par. (7).
 
     Subsec. (i). [Pub. L. 99–514, § 1853(a)(3)][/us/pl/99/514/s1853/a/3], substituted “subsection (c)(2)” for “subsection (c)(2)(B)”.
+
+ __Effective Date of 2014 Amendment__ 
+
+[Pub. L. 113–295, div. A, title I, § 103(b)][/us/pl/113/295/s103/b], Dec. 19, 2014, [128 Stat. 4013][/us/stat/128/4013], provided that: 
+
+> “The amendment made by this section \[amending this section\] shall apply to months after December 31, 2013.”
 
  __Effective Date of 2013 Amendment__ 
 
@@ -785,10 +793,13 @@
 [/us/stat/124/3317]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3317
 [/us/pl/112/240/s203/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F240%2Fs203%2Fa
 [/us/stat/126/2323]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F2323
+[/us/pl/113/295/s103/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs103%2Fa
+[/us/stat/128/4013]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F4013
 [/us/usc/t26/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs1
 [/us/pl/111/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5
 [/us/pl/111/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5
 [/us/usc/t26/s140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs140
+[/us/pl/113/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295
 [/us/pl/112/240]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F240
 [/us/pl/111/312]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F312
 [/us/pl/111/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5
@@ -845,6 +856,8 @@
 [/us/pl/99/272/s13207/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F272%2Fs13207%2Fb%2F1
 [/us/pl/99/514/s1114/b/5/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1114%2Fb%2F5%2FB
 [/us/pl/99/514/s1853/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1853%2Fa%2F3
+[/us/pl/113/295/s103/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs103%2Fb
+[/us/stat/128/4013]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F4013
 [/us/pl/112/240/s203/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F240%2Fs203%2Fb
 [/us/stat/126/2323]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F2323
 [/us/pl/111/312/s727/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F312%2Fs727%2Fb

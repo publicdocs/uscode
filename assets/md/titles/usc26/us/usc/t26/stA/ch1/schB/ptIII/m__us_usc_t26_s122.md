@@ -23,7 +23,7 @@
 
         (1) __Amount excluded from gross income__ 
 
-            In the case of any individual referred to in subsection (a), all amounts received after December 31, 1965, as retired or retainer pay shall be excluded from gross income until there has been so excluded an amount equal to the consideration for the contract. The preceding sentence shall apply only to the extent that the amounts received would, but for such sentence, be includible in gross income.
+            In the case of any individual referred to in subsection (a), all amounts received as retired or retainer pay shall be excluded from gross income until there has been so excluded an amount equal to the consideration for the contract. The preceding sentence shall apply only to the extent that the amounts received would, but for such sentence, be includible in gross income.
 
         (2) __Consideration for the contract__ 
 
@@ -33,7 +33,7 @@
 
             (B) any amounts deposited at any time by him pursuant to section 1438 or 1452(d) of such title 10.
 
-(Added [Pub. L. 89–365, § 1(a)(1)][/us/pl/89/365/s1/a/1], Mar. 8, 1966, [80 Stat. 32][/us/stat/80/32]; amended [Pub. L. 93–406, title II][/us/pl/93/406], §§ 2005(c)(10), 2007(a), (b)(1), Sept. 2, 1974, [88 Stat. 992][/us/stat/88/992], 994.)
+(Added [Pub. L. 89–365, § 1(a)(1)][/us/pl/89/365/s1/a/1], Mar. 8, 1966, [80 Stat. 32][/us/stat/80/32]; amended [Pub. L. 93–406, title II][/us/pl/93/406], §§ 2005(c)(10), 2007(a), (b)(1), Sept. 2, 1974, [88 Stat. 992][/us/stat/88/992], 994; [Pub. L. 113–295, div. A, title II, § 221(a)(21)][/us/pl/113/295/s221/a/21], Dec. 19, 2014, [128 Stat. 4040][/us/stat/128/4040].)
 
  __Prior Provisions__ 
 
@@ -41,11 +41,17 @@
 
  __Amendments__ 
 
+    2014—Subsec. (b)(1). [Pub. L. 113–295][/us/pl/113/295] struck out “after December 31, 1965,” after “all amounts received”.
+
     1974—Subsec. (a). [Pub. L. 93–406, § 2007(a)][/us/pl/93/406/s2007/a], substituted “United States, gross income does not include the amount of any reduction in his retired or retainer pay pursuant to the provisions of chapter 73 of title 10, United States Code” for “United States who has made an election under chapter 73 of title 10 of the United States Code to receive a reduced amount of retired or retainer pay, gross income does not include the amount of any reduction after December 31, 1965, in his retired or retainer pay by reason of such election”.
 
     Subsec. (b)(2). [Pub. L. 93–406, § 2005(c)(10)][/us/pl/93/406/s2005/c/10], substituted “72(n)” for “72(o)”.
 
     Subsec. (b)(2)(B). [Pub. L. 93–406, § 2007(b)(1)][/us/pl/93/406/s2007/b/1], inserted reference to [section 1452(d) of title 10][/us/usc/t10/s1452/d].
+
+ __Effective Date of 2014 Amendment__ 
+
+    Amendment by [Pub. L. 113–295][/us/pl/113/295] effective Dec. 19, 2014, subject to a savings provision, see [section 221(b) of Pub. L. 113–295][/us/pl/113/295/s221/b], set out as a note under [section 1 of this title][/us/usc/t26/s1].
 
  __Effective Date of 1974 Amendment__ 
 
@@ -72,11 +78,17 @@
 [/us/stat/80/32]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F32
 [/us/pl/93/406]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F406
 [/us/stat/88/992]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F992
+[/us/pl/113/295/s221/a/21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs221%2Fa%2F21
+[/us/stat/128/4040]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F4040
 [/us/usc/t26/s140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs140
+[/us/pl/113/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295
 [/us/pl/93/406/s2007/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F406%2Fs2007%2Fa
 [/us/pl/93/406/s2005/c/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F406%2Fs2005%2Fc%2F10
 [/us/pl/93/406/s2007/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F406%2Fs2007%2Fb%2F1
 [/us/usc/t10/s1452/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1452%2Fd
+[/us/pl/113/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295
+[/us/pl/113/295/s221/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs221%2Fb
+[/us/usc/t26/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs1
 [/us/pl/93/406/s2005/c/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F406%2Fs2005%2Fc%2F10
 [/us/pl/93/406/s2005/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F406%2Fs2005%2Fd
 [/us/usc/t26/s402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs402

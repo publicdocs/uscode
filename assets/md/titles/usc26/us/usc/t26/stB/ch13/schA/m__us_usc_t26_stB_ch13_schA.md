@@ -49,15 +49,17 @@
 
   <tr>
 
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs2604" data-uslm-ref="/us/usc/t26/s2604">2604.</a>  </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs2604" data-uslm-ref="/us/usc/t26/s2604">2604.</a>  </td>
 
-    <td> Credit for certain State taxes.  </td>
+    <td> Repealed.]  </td>
 
   </tr>
 
 </table>
 
  __Amendments__ 
+
+    2014—[Pub. L. 113–295, div. A, title II, § 221(a)(95)(B)(i)][/us/pl/113/295/s221/a/95/B/i], Dec. 19, 2014, [128 Stat. 4051][/us/stat/128/4051], which directed amendment of subchapter A of chapter 13 of this title by striking out item 2604 in the table of sections for “such subpart”, was executed by striking out item 2604 “Credit for certain State taxes” in the table of sections for this subchapter, to reflect the probable intent of Congress.
 
     2004—[Pub. L. 108–311, title IV, § 408(a)(21)][/us/pl/108/311/s408/a/21], Oct. 4, 2004, [118 Stat. 1192][/us/stat/118/1192], added item 2604.
 
@@ -72,6 +74,8 @@
 ----------
 ----------
 
+[/us/pl/113/295/s221/a/95/B/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs221%2Fa%2F95%2FB%2Fi
+[/us/stat/128/4051]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F4051
 [/us/pl/108/311/s408/a/21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F311%2Fs408%2Fa%2F21
 [/us/stat/118/1192]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1192
 [/us/pl/107/16/s532/c/15]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F16%2Fs532%2Fc%2F15

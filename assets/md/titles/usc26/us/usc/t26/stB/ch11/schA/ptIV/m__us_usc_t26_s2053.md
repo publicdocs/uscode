@@ -81,7 +81,7 @@
 
         For provisions treating certain relinquishments of marital rights as consideration in money or money’s worth, see section 2043(b)(2).
 
-([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 389][/us/stat/68A/389]; [Feb. 20, 1956, ch. 63, § 2][/us/act/1956-02-20/ch63/s2], [70 Stat. 23][/us/stat/70/23]; [Pub. L. 85–866, title I, § 102(c)(3)][/us/pl/85/866/s102/c/3], Sept. 2, 1958, [72 Stat. 1674][/us/stat/72/1674]; [Pub. L. 86–175, § 1][/us/pl/86/175/s1], Aug. 21, 1959, [73 Stat. 396][/us/stat/73/396]; [Pub. L. 94–455, title XIX][/us/pl/94/455], §§ 1902(a)(12) (B), 1906(b)(13)(A), Oct. 4, 1976, [90 Stat. 1806][/us/stat/90/1806], 1834; [Pub. L. 98–369, div. A, title IV, § 425(a)(2)][/us/pl/98/369/s425/a/2], title X, § 1027(b), July 18, 1984, [98 Stat. 804][/us/stat/98/804], 1031; [Pub. L. 100–647, title I, § 1011A(g)(11)][/us/pl/100/647/s1011A/g/11], Nov. 10, 1988, [102 Stat. 3482][/us/stat/102/3482]; [Pub. L. 105–34, title V, § 503(b)(1)][/us/pl/105/34/s503/b/1], title X, § 1073(b)(3), Aug. 5, 1997, [111 Stat. 853][/us/stat/111/853], 948; [Pub. L. 107–16, title V, § 532(c)(5)][/us/pl/107/16/s532/c/5], June 7, 2001, [115 Stat. 74][/us/stat/115/74]; [Pub. L. 107–134, title I, § 103(b)(2)][/us/pl/107/134/s103/b/2], Jan. 23, 2002, [115 Stat. 2431][/us/stat/115/2431].)
+([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 389][/us/stat/68A/389]; [Feb. 20, 1956, ch. 63, § 2][/us/act/1956-02-20/ch63/s2], [70 Stat. 23][/us/stat/70/23]; [Pub. L. 85–866, title I, § 102(c)(3)][/us/pl/85/866/s102/c/3], Sept. 2, 1958, [72 Stat. 1674][/us/stat/72/1674]; [Pub. L. 86–175, § 1][/us/pl/86/175/s1], Aug. 21, 1959, [73 Stat. 396][/us/stat/73/396]; [Pub. L. 94–455, title XIX][/us/pl/94/455], §§ 1902(a)(12)(B), 1906(b)(13)(A), Oct. 4, 1976, [90 Stat. 1806][/us/stat/90/1806], 1834; [Pub. L. 98–369, div. A, title IV, § 425(a)(2)][/us/pl/98/369/s425/a/2], title X, § 1027(b), July 18, 1984, [98 Stat. 804][/us/stat/98/804], 1031; [Pub. L. 100–647, title I, § 1011A(g)(11)][/us/pl/100/647/s1011A/g/11], Nov. 10, 1988, [102 Stat. 3482][/us/stat/102/3482]; [Pub. L. 105–34, title V, § 503(b)(1)][/us/pl/105/34/s503/b/1], title X, § 1073(b)(3), Aug. 5, 1997, [111 Stat. 853][/us/stat/111/853], 948; [Pub. L. 107–16, title V, § 532(c)(5)][/us/pl/107/16/s532/c/5], June 7, 2001, [115 Stat. 74][/us/stat/115/74]; [Pub. L. 107–134, title I, § 103(b)(2)][/us/pl/107/134/s103/b/2], Jan. 23, 2002, [115 Stat. 2431][/us/stat/115/2431].)
 
  __Amendments__ 
 
@@ -109,11 +109,23 @@
 
  __Effective Date of 2002 Amendment__ 
 
-    Amendment by [Pub. L. 107–134][/us/pl/107/134] applicable to estates of decedents dying on or after Sept. 11, 2001, and, in the case of individuals dying as a result of the Apr. 19, 1995, terrorist attack, dying on or after Apr. 19, 1995, with provisions relating to waiver of limitations, see [section 103(d) of Pub. L. 107–134][/us/pl/107/134/s103/d], set out as a note under [section 2011 of this title][/us/usc/t26/s2011].
+[Pub. L. 107–134, title I, § 103(d)][/us/pl/107/134/s103/d], Jan. 23, 2002, [115 Stat. 2431][/us/stat/115/2431], provided that:
+
+>     “(1)  __Effective date__  __.—__ 
+
+>     The amendments made by this section \[amending this section and sections 2011 and 2201 of this title\] shall apply to estates of decedents—
+
+>         “(A) dying on or after September 11, 2001; and
+
+>         “(B) in the case of individuals dying as a result of the April 19, 1995, terrorist attack, dying on or after April 19, 1995.
+
+>     “(2)  __Waiver of limitations__  __.—__ 
+
+>     If refund or credit of any overpayment of tax resulting from the amendments made by this section is prevented at any time before the close of the 1-year period beginning on the date of the enactment of this Act \[Jan. 23, 2002\] by the operation of any law or rule of law (including res judicata), such refund or credit may nevertheless be made or allowed if claim therefor is filed before the close of such period.”
 
  __Effective Date of 2001 Amendment__ 
 
-    Amendment by [Pub. L. 107–16][/us/pl/107/16] applicable to estates of decedents dying, and generation-skipping transfers, after Dec. 31, 2004, see [section 532(d) of Pub. L. 107–16][/us/pl/107/16/s532/d], set out as a note under [section 2011 of this title][/us/usc/t26/s2011].
+    Amendment by [Pub. L. 107–16][/us/pl/107/16] applicable to estates of decedents dying, and generation-skipping transfers, after Dec. 31, 2004, see [section 532(d) of Pub. L. 107–16][/us/pl/107/16/s532/d], set out as a note under [section 2012 of this title][/us/usc/t26/s2012].
 
  __Effective Date of 1997 Amendment__ 
 
@@ -133,6 +145,10 @@
 
 > “The amendments made by this section \[amending this section and [section 2056 of this title][/us/usc/t26/s2056]\] shall take effect as if included in the amendment made by section 403 of the Economic Recovery Tax Act of 1981 \[[section 403 of Pub. L. 97–34][/us/pl/97/34/s403], see Effective Date of 1981 Amendment note set out under [section 2056 of this title][/us/usc/t26/s2056]\].”
 
+ __Effective Date of 1976 Amendment__ 
+
+    Amendment by [section 1902(a)(12)(B) of Pub. L. 94–455][/us/pl/94/455/s1902/a/12/B] applicable to estates of decedents dying after Oct. 4, 1976, see [section 1902(c)(1) of Pub. L. 94–455][/us/pl/94/455/s1902/c/1], set out as a note under [section 2012 of this title][/us/usc/t26/s2012].
+
  __Effective Date of 1959 Amendment__ 
 
 [Pub. L. 86–175, § 4][/us/pl/86/175/s4], Aug. 21, 1959, [73 Stat. 397][/us/stat/73/397], provided that: 
@@ -141,7 +157,7 @@
 
  __Effective Date of 1958 Amendment__ 
 
-    Amendment by [Pub. L. 85–866][/us/pl/85/866] applicable to estates of decedents dying after Sept. 2, 1958, see [section 102(d) of Pub. L. 85–866][/us/pl/85/866/s102/d], set out as a note under [section 2011 of this title][/us/usc/t26/s2011].
+    Amendment by [Pub. L. 85–866][/us/pl/85/866] applicable to estates of decedents dying after Sept. 2, 1958, see [section 102(d) of Pub. L. 85–866][/us/pl/85/866/s102/d], set out as a note under [section 2014 of this title][/us/usc/t26/s2014].
 
  __Effective Date of 1956 Amendment__ 
 
@@ -186,12 +202,11 @@
 [/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455
 [/us/pl/86/175]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F175
 [/us/pl/85/866]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F866
-[/us/pl/107/134]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F134
 [/us/pl/107/134/s103/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F134%2Fs103%2Fd
-[/us/usc/t26/s2011]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs2011
+[/us/stat/115/2431]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F2431
 [/us/pl/107/16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F16
 [/us/pl/107/16/s532/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F16%2Fs532%2Fd
-[/us/usc/t26/s2011]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs2011
+[/us/usc/t26/s2012]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs2012
 [/us/pl/105/34/s503/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2Fs503%2Fb%2F1
 [/us/usc/t26/s6166]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs6166
 [/us/pl/105/34/s503/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2Fs503%2Fd
@@ -211,11 +226,14 @@
 [/us/usc/t26/s2056]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs2056
 [/us/pl/97/34/s403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F34%2Fs403
 [/us/usc/t26/s2056]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs2056
+[/us/pl/94/455/s1902/a/12/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1902%2Fa%2F12%2FB
+[/us/pl/94/455/s1902/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1902%2Fc%2F1
+[/us/usc/t26/s2012]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs2012
 [/us/pl/86/175/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F175%2Fs4
 [/us/stat/73/397]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F73%2F397
 [/us/pl/85/866]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F866
 [/us/pl/85/866/s102/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F866%2Fs102%2Fd
-[/us/usc/t26/s2011]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs2011
+[/us/usc/t26/s2014]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs2014
 [/us/act/1956-02-20/ch63/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-02-20%2Fch63%2Fs4
 [/us/stat/70/25]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70%2F25
 [/us/pl/99/514/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs2

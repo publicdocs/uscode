@@ -29,7 +29,7 @@
 
     There are hereby appropriated to the Superfund amounts equivalent to—
 
-        (1) the taxes received in the Treasury under section 59A, 4611, 4661, or 4671 (relating to environmental taxes),
+        (1) the taxes received in the Treasury under section 4611, 4661, or 4671 (relating to environmental taxes),
 
         (2) amounts recovered on behalf of the Superfund under the Comprehensive Environmental Response, Compensation, and Liability Act of 1980 (hereinafter in this section referred to as “CERCLA”),
 
@@ -107,7 +107,7 @@
 
             If at any time the Superfund has insufficient funds to pay all of the claims payable out of the Superfund at such time, such claims shall, to the extent permitted under paragraph (1), be paid in full in the order in which they were finally determined.
 
-(Added [Pub. L. 99–499, title V, § 517(a)][/us/pl/99/499/s517/a], Oct. 17, 1986, [100 Stat. 1772][/us/stat/100/1772]; amended [Pub. L. 99–509, title VIII, § 8032(c)(4)][/us/pl/99/509/s8032/c/4], Oct. 21, 1986, [100 Stat. 1959][/us/stat/100/1959]; [Pub. L. 101–508, title XI, § 11231(c)][/us/pl/101/508/s11231/c], Nov. 5, 1990, [104 Stat. 1388–445][/us/stat/104/1388-445].)
+(Added [Pub. L. 99–499, title V, § 517(a)][/us/pl/99/499/s517/a], Oct. 17, 1986, [100 Stat. 1772][/us/stat/100/1772]; amended [Pub. L. 99–509, title VIII, § 8032(c)(4)][/us/pl/99/509/s8032/c/4], Oct. 21, 1986, [100 Stat. 1959][/us/stat/100/1959]; [Pub. L. 101–508, title XI, § 11231(c)][/us/pl/101/508/s11231/c], Nov. 5, 1990, [104 Stat. 1388–445][/us/stat/104/1388-445]; [Pub. L. 113–295, div. A, title II, § 221(a)(12)(L)][/us/pl/113/295/s221/a/12/L], Dec. 19, 2014, [128 Stat. 4039][/us/stat/128/4039].)
 
  __References in Text__ 
 
@@ -125,9 +125,15 @@
 
  __Amendments__ 
 
+    2014—Subsec. (b)(1). [Pub. L. 113–295][/us/pl/113/295] struck out “59A,” before “4611,”.
+
     1990—Subsec. (d)(3)(B). [Pub. L. 101–508][/us/pl/101/508] substituted “December 31, 1995” for “December 31, 1991”.
 
     1986—Subsec. (b). [Pub. L. 99–509][/us/pl/99/509] inserted at end “In the case of the tax imposed by section 4611, paragraph (1) shall apply only to so much of such tax as is attributable to the Hazardous Substance Superfund financing rate under section 4611(c).”
+
+ __Effective Date of 2014 Amendment__ 
+
+    Amendment by [Pub. L. 113–295][/us/pl/113/295] effective Dec. 19, 2014, subject to a savings provision, see [section 221(b) of Pub. L. 113–295][/us/pl/113/295/s221/b], set out as a note under [section 1 of this title][/us/usc/t26/s1].
 
  __Effective Date of 1986 Amendment__ 
 
@@ -186,6 +192,8 @@
 [/us/stat/100/1959]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1959
 [/us/pl/101/508/s11231/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs11231%2Fc
 [/us/stat/104/1388-445]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1388-445
+[/us/pl/113/295/s221/a/12/L]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs221%2Fa%2F12%2FL
+[/us/stat/128/4039]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F4039
 [/us/pl/99/499/s517/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F499%2Fs517%2Fb
 [/us/pl/96/510]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F510
 [/us/stat/94/2767]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2767
@@ -198,8 +206,12 @@
 [/us/pl/99/499]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F499
 [/us/stat/100/1613]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1613
 [/us/usc/t42/s9601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs9601
+[/us/pl/113/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295
 [/us/pl/101/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508
 [/us/pl/99/509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F509
+[/us/pl/113/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295
+[/us/pl/113/295/s221/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs221%2Fb
+[/us/usc/t26/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs1
 [/us/pl/99/509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F509
 [/us/pl/99/509/s8032/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F509%2Fs8032%2Fd
 [/us/usc/t26/s4611]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs4611

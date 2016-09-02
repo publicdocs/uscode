@@ -61,15 +61,11 @@
 
         The term “net capital gain” means the excess of the net long-term capital gain for the taxable year over the net short-term capital loss for such year.
 
-    For purposes of this subtitle, in the case of futures transactions in any commodity subject to the rules of a board of trade or commodity exchange, the length of the holding period taken into account under this section or under any other section amended by section 1402 of the Tax Reform Act of 1976 shall be determined without regard to the amendments made by subsections (a) and (b) of such section 1402.
-
-([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 322][/us/stat/68A/322]; [Pub. L. 88–272, title II, § 230(b)][/us/pl/88/272/s230/b], Feb. 26, 1964, [78 Stat. 100][/us/stat/78/100]; [Pub. L. 91–172, title V][/us/pl/91/172], §§ 511(a), 513(c), Dec. 30, 1969, [83 Stat. 635][/us/stat/83/635], 643; [Pub. L. 94–455, title XIV, § 1402(a)(1)][/us/pl/94/455/s1402/a/1], (2), (d), title XIX, § 1901(a)(136), Oct. 4, 1976, [90 Stat. 1731][/us/stat/90/1731], 1733, 1787; [Pub. L. 98–369, div. A, title X, § 1001(a)][/us/pl/98/369/s1001/a], (e), July 18, 1984, [98 Stat. 1011][/us/stat/98/1011], 1012; [Pub. L. 111–325, title I, § 101(b)(2)][/us/pl/111/325/s101/b/2], Dec. 22, 2010, [124 Stat. 3538][/us/stat/124/3538].)
-
- __References in Text__ 
-
-    The Tax Reform Act of 1976, referred to in last sentence, is [Pub. L. 94–455][/us/pl/94/455], Oct. 4, 1976, [90 Stat. 1520][/us/stat/90/1520], as amended. For complete classification of this Act and of section 1402 of such Act to the Code, see Tables.
+([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 322][/us/stat/68A/322]; [Pub. L. 88–272, title II, § 230(b)][/us/pl/88/272/s230/b], Feb. 26, 1964, [78 Stat. 100][/us/stat/78/100]; [Pub. L. 91–172, title V][/us/pl/91/172], §§ 511(a), 513(c), Dec. 30, 1969, [83 Stat. 635][/us/stat/83/635], 643; [Pub. L. 94–455, title XIV, § 1402(a)(1)][/us/pl/94/455/s1402/a/1], (2), (d), title XIX, § 1901(a)(136), Oct. 4, 1976, [90 Stat. 1731][/us/stat/90/1731], 1733, 1787; [Pub. L. 98–369, div. A, title X, § 1001(a)][/us/pl/98/369/s1001/a], (e), July 18, 1984, [98 Stat. 1011][/us/stat/98/1011], 1012; [Pub. L. 111–325, title I, § 101(b)(2)][/us/pl/111/325/s101/b/2], Dec. 22, 2010, [124 Stat. 3538][/us/stat/124/3538]; [Pub. L. 113–295, div. A, title II, § 221(a)(79)][/us/pl/113/295/s221/a/79], Dec. 19, 2014, [128 Stat. 4049][/us/stat/128/4049].)
 
  __Amendments__ 
+
+    2014—[Pub. L. 113–295][/us/pl/113/295] struck out last sentence which read as follows: “For purposes of this subtitle, in the case of futures transactions in any commodity subject to the rules of a board of trade or commodity exchange, the length of the holding period taken into account under this section or under any other section amended by section 1402 of the Tax Reform Act of 1976 shall be determined without regard to the amendments made by subsections (a) and (b) of such section 1402.”
 
     2010—Par. (10). [Pub. L. 111–325][/us/pl/111/325] substituted “section 1212(a)(1)” for “section 1212”.
 
@@ -90,6 +86,10 @@
     Par. (11). [Pub. L. 91–172, § 511(a)][/us/pl/91/172/s511/a], added par. (11).
 
     1964—Pars. (9), (10). [Pub. L. 88–272][/us/pl/88/272] struck out provisions from par. (9) relating to taxpayers other than corporations, and inserted “In the case of a corporation” in par. (10).
+
+ __Effective Date of 2014 Amendment__ 
+
+    Amendment by [Pub. L. 113–295][/us/pl/113/295] effective Dec. 19, 2014, subject to a savings provision, see [section 221(b) of Pub. L. 113–295][/us/pl/113/295/s221/b], set out as a note under [section 1 of this title][/us/usc/t26/s1].
 
  __Effective Date of 2010 Amendment__ 
 
@@ -134,8 +134,9 @@
 [/us/stat/98/1011]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F1011
 [/us/pl/111/325/s101/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F325%2Fs101%2Fb%2F2
 [/us/stat/124/3538]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3538
-[/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455
-[/us/stat/90/1520]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1520
+[/us/pl/113/295/s221/a/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs221%2Fa%2F79
+[/us/stat/128/4049]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F4049
+[/us/pl/113/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295
 [/us/pl/111/325]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F325
 [/us/pl/98/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369
 [/us/pl/94/455/s1402/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1402%2Fa%2F2
@@ -146,6 +147,9 @@
 [/us/pl/91/172/s513/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F172%2Fs513%2Fc
 [/us/pl/91/172/s511/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F172%2Fs511%2Fa
 [/us/pl/88/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F272
+[/us/pl/113/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295
+[/us/pl/113/295/s221/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs221%2Fb
+[/us/usc/t26/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs1
 [/us/pl/111/325]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F325
 [/us/pl/111/325/s101/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F325%2Fs101%2Fc%2F1
 [/us/usc/t26/s1212]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs1212

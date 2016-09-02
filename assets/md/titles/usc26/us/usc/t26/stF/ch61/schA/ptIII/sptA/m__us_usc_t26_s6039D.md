@@ -17,7 +17,7 @@
 
     (a) __In general__ 
 
-    Every employer maintaining a specified fringe benefit plan during any year beginning after December 31, 1984, for any portion of which the applicable exclusion applies, shall file a return (at such time and in such manner as the Secretary shall by regulations prescribe) with respect to such plan showing for such year—
+    Every employer maintaining a specified fringe benefit plan during any year for any portion of which the applicable exclusion applies, shall file a return (at such time and in such manner as the Secretary shall by regulations prescribe) with respect to such plan showing for such year—
 
         (1) the number of employees of the employer,
 
@@ -51,7 +51,7 @@
 
         (1) __Specified fringe benefit plan__ 
 
-            The term “specified fringe benefit plan” means any plan under section 79, 105, 106, 120, 125, 127, 129, or 137.
+            The term “specified fringe benefit plan” means any plan under section 79, 105, 106, 125, 127, 129, or 137.
 
         (2) __Applicable exclusion__ 
 
@@ -61,13 +61,17 @@
 
             In the case of a multiemployer plan, the plan shall be required to provide any information required by this section which the Secretary determines, on the basis of the agreement between the plan and employer, is held by the plan (and not the employer).
 
-(Added [Pub. L. 98–611, § 1(d)(1)][/us/pl/98/611/s1/d/1], Oct. 31, 1984, [98 Stat. 3176][/us/stat/98/3176]; amended [Pub. L. 99–514, title XI, § 1151(h)][/us/pl/99/514/s1151/h], title XVIII, § 1879(d)(1), Oct. 22, 1986, [100 Stat. 2507][/us/stat/100/2507], 2906; [Pub. L. 100–647, title I, § 1011B(a)(24)][/us/pl/100/647/s1011B/a/24], title III, § 3021(a)(15)(A), Nov. 10, 1988, [102 Stat. 3486][/us/stat/102/3486], 3631; [Pub. L. 101–508, title XI, § 11704(a)(24)][/us/pl/101/508/s11704/a/24], Nov. 5, 1990, [104 Stat. 1388–519][/us/stat/104/1388-519]; [Pub. L. 105–34, title XVI, § 1601(h)(2)(D)(iii)][/us/pl/105/34/s1601/h/2/D/iii], Aug. 5, 1997, [111 Stat. 1092][/us/stat/111/1092].)
+(Added [Pub. L. 98–611, § 1(d)(1)][/us/pl/98/611/s1/d/1], Oct. 31, 1984, [98 Stat. 3176][/us/stat/98/3176]; amended [Pub. L. 99–514, title XI, § 1151(h)][/us/pl/99/514/s1151/h], title XVIII, § 1879(d)(1), Oct. 22, 1986, [100 Stat. 2507][/us/stat/100/2507], 2906; [Pub. L. 100–647, title I, § 1011B(a)(24)][/us/pl/100/647/s1011B/a/24], title III, § 3021(a)(15)(A), Nov. 10, 1988, [102 Stat. 3486][/us/stat/102/3486], 3631; [Pub. L. 101–508, title XI, § 11704(a)(24)][/us/pl/101/508/s11704/a/24], Nov. 5, 1990, [104 Stat. 1388–519][/us/stat/104/1388-519]; [Pub. L. 105–34, title XVI, § 1601(h)(2)(D)(iii)][/us/pl/105/34/s1601/h/2/D/iii], Aug. 5, 1997, [111 Stat. 1092][/us/stat/111/1092]; [Pub. L. 113–295, div. A, title II, § 221(a)(19)(B)(vii)][/us/pl/113/295/s221/a/19/B/vii], (108), Dec. 19, 2014, [128 Stat. 4040][/us/stat/128/4040], 4053.)
 
  __Codification__ 
 
     Another section 6039D, added [Pub. L. 98–612, § 1(b)(1)][/us/pl/98/612/s1/b/1], Oct. 31, 1984, [98 Stat. 3180][/us/stat/98/3180], also related to returns and records with respect to certain fringe benefits, prior to repeal by [Pub. L. 99–514, title XVIII, § 1879(d)(2)][/us/pl/99/514/s1879/d/2], Oct. 22, 1986, [100 Stat. 2906][/us/stat/100/2906], effective, except as otherwise provided, as if included in the provisions of the Tax Reform Act of 1984, [Pub. L. 98–369, div. A][/us/pl/98/369], to which such repeal relates, see [section 1881 of Pub. L. 99–514][/us/pl/99/514/s1881], set out as a note under [section 48 of this title][/us/usc/t26/s48].
 
  __Amendments__ 
+
+    2014—Subsec. (a). [Pub. L. 113–295, § 221(a)(108)][/us/pl/113/295/s221/a/108], struck out “beginning after December 31, 1984,” after “during any year”.
+
+    Subsec. (d)(1). [Pub. L. 113–295, § 221(a)(19)(B)(vii)][/us/pl/113/295/s221/a/19/B/vii], struck out “120,” after “106,”.
 
     1997—Subsec. (d)(1). [Pub. L. 105–34][/us/pl/105/34] substituted “129, or 137” for “or 129”.
 
@@ -86,6 +90,10 @@
     Subsec. (d). [Pub. L. 99–514, § 1151(h)(1)][/us/pl/99/514/s1151/h/1], amended subsec. (d) generally. Prior to amendment, par. (1) defined a specified fringe benefit plan as (A) any qualified group legal services plan (as defined in section 120), (B) any cafeteria plan (as defined in section 125), and (C) any educational assistance plan (as defined in section 127), and par. (2) defined “applicable exclusion” as meaning (A) section 120 in the case of a qualified legal group services plan, (B) section 125 in the case of a cafeteria plan, and (C) section 127 in the case of an educational assistance plan.
 
     [Pub. L. 99–514, § 1879(d)(1)][/us/pl/99/514/s1879/d/1], in amending subsec. (d) generally, added subpars. (1)(A) and (2)(A). Former subpars. (1)(A) and (B) and (2)(A) and (B) were redesignated as subpars. (1)(B) and (C) and (2)(B) and (C), respectively.
+
+ __Effective Date of 2014 Amendment__ 
+
+    Amendment by [Pub. L. 113–295][/us/pl/113/295] effective Dec. 19, 2014, subject to a savings provision, see [section 221(b) of Pub. L. 113–295][/us/pl/113/295/s221/b], set out as a note under [section 1 of this title][/us/usc/t26/s1].
 
  __Effective Date of 1997 Amendment__ 
 
@@ -134,6 +142,8 @@
 [/us/stat/104/1388-519]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1388-519
 [/us/pl/105/34/s1601/h/2/D/iii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2Fs1601%2Fh%2F2%2FD%2Fiii
 [/us/stat/111/1092]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1092
+[/us/pl/113/295/s221/a/19/B/vii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs221%2Fa%2F19%2FB%2Fvii
+[/us/stat/128/4040]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F4040
 [/us/pl/98/612/s1/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F612%2Fs1%2Fb%2F1
 [/us/stat/98/3180]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F3180
 [/us/pl/99/514/s1879/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1879%2Fd%2F2
@@ -141,6 +151,8 @@
 [/us/pl/98/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369
 [/us/pl/99/514/s1881]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1881
 [/us/usc/t26/s48]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs48
+[/us/pl/113/295/s221/a/108]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs221%2Fa%2F108
+[/us/pl/113/295/s221/a/19/B/vii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs221%2Fa%2F19%2FB%2Fvii
 [/us/pl/105/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34
 [/us/pl/101/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508
 [/us/pl/100/647/s1011B/a/24]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs1011B%2Fa%2F24
@@ -152,6 +164,9 @@
 [/us/pl/100/647/s1011B/a/24]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs1011B%2Fa%2F24
 [/us/pl/99/514/s1151/h/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1151%2Fh%2F1
 [/us/pl/99/514/s1879/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1879%2Fd%2F1
+[/us/pl/113/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295
+[/us/pl/113/295/s221/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs221%2Fb
+[/us/usc/t26/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs1
 [/us/pl/105/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34
 [/us/pl/104/188]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188
 [/us/pl/105/34/s1601/j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2Fs1601%2Fj

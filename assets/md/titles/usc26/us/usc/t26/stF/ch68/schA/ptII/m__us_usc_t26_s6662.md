@@ -257,7 +257,7 @@
 
             In no event shall any amendment or supplement to a return of tax be taken into account for purposes of this subsection if the amendment or supplement is filed after the earlier of the date the taxpayer is first contacted by the Secretary regarding the examination of the return or such other date as is specified by the Secretary.
 
-(Added [Pub. L. 101–239, title VII, § 7721(a)][/us/pl/101/239/s7721/a], Dec. 19, 1989, [103 Stat. 2395][/us/stat/103/2395]; amended [Pub. L. 101–508, title XI, § 11312(a)][/us/pl/101/508/s11312/a], (b), Nov. 5, 1990, [104 Stat. 1388–454][/us/stat/104/1388-454], 1388–455; [Pub. L. 103–66, title XIII][/us/pl/103/66], §§ 13236(a)–(d), 13251(a), Aug. 10, 1993, [107 Stat. 505][/us/stat/107/505], 506, 531; [Pub. L. 103–465, title VII, § 744(a)][/us/pl/103/465/s744/a], (b), Dec. 8, 1994, [108 Stat. 5011][/us/stat/108/5011]; [Pub. L. 105–34, title X, § 1028(c)][/us/pl/105/34/s1028/c], Aug. 5, 1997, [111 Stat. 928][/us/stat/111/928]; [Pub. L. 108–357, title VIII][/us/pl/108/357], §§ 812(b), (d), (e)(1), 819(a), (b), Oct. 22, 2004, [118 Stat. 1578][/us/stat/118/1578], 1580, 1584; [Pub. L. 109–135, title IV][/us/pl/109/135], §§ 403(x)(1), 412(aaa), Dec. 21, 2005, [119 Stat. 2629][/us/stat/119/2629], 2641; [Pub. L. 109–280, title XII, § 1219(a)(1)][/us/pl/109/280/s1219/a/1], (2), Aug. 17, 2006, [120 Stat. 1083][/us/stat/120/1083]; [Pub. L. 111–147, title V, § 512(a)][/us/pl/111/147/s512/a], Mar. 18, 2010, [124 Stat. 110][/us/stat/124/110]; [Pub. L. 111–152, title I, § 1409(b)(1)][/us/pl/111/152/s1409/b/1], (2), Mar. 30, 2010, [124 Stat. 1068][/us/stat/124/1068], 1069.)
+(Added [Pub. L. 101–239, title VII, § 7721(a)][/us/pl/101/239/s7721/a], Dec. 19, 1989, [103 Stat. 2395][/us/stat/103/2395]; amended [Pub. L. 101–508, title XI, § 11312(a)][/us/pl/101/508/s11312/a], (b), Nov. 5, 1990, [104 Stat. 1388–454][/us/stat/104/1388-454], 1388–455; [Pub. L. 103–66, title XIII][/us/pl/103/66], §§ 13236(a)–(d), 13251(a), Aug. 10, 1993, [107 Stat. 505][/us/stat/107/505], 506, 531; [Pub. L. 103–465, title VII, § 744(a)][/us/pl/103/465/s744/a], (b), Dec. 8, 1994, [108 Stat. 5011][/us/stat/108/5011]; [Pub. L. 105–34, title X, § 1028(c)][/us/pl/105/34/s1028/c], Aug. 5, 1997, [111 Stat. 928][/us/stat/111/928]; [Pub. L. 108–357, title VIII][/us/pl/108/357], §§ 812(b), (d), (e)(1), 819(a), (b), Oct. 22, 2004, [118 Stat. 1578][/us/stat/118/1578], 1580, 1584; [Pub. L. 109–135, title IV][/us/pl/109/135], §§ 403(x)(1), 412(aaa), Dec. 21, 2005, [119 Stat. 2629][/us/stat/119/2629], 2641; [Pub. L. 109–280, title XII, § 1219(a)(1)][/us/pl/109/280/s1219/a/1], (2), Aug. 17, 2006, [120 Stat. 1083][/us/stat/120/1083]; [Pub. L. 111–147, title V, § 512(a)][/us/pl/111/147/s512/a], Mar. 18, 2010, [124 Stat. 110][/us/stat/124/110]; [Pub. L. 111–152, title I, § 1409(b)(1)][/us/pl/111/152/s1409/b/1], (2), Mar. 30, 2010, [124 Stat. 1068][/us/stat/124/1068], 1069; [Pub. L. 113–295, div. A, title II, § 208(a)][/us/pl/113/295/s208/a], Dec. 19, 2014, [128 Stat. 4028][/us/stat/128/4028].)
 
  __References in Text__ 
 
@@ -275,9 +275,11 @@
 
  __Amendments__ 
 
+    2014—Subsec. (b)(7). [Pub. L. 113–295, § 208(a)][/us/pl/113/295/s208/a], amended directory language of [Pub. L. 111–147, § 512(a)(1)][/us/pl/111/147/s512/a/1]. See 2010 Amendment note below.
+
     2010—Subsec. (b)(6). [Pub. L. 111–152, § 1409(b)(1)][/us/pl/111/152/s1409/b/1], added par. (6). See Codification note above.
 
-    Subsec. (b)(7). [Pub. L. 111–147, § 512(a)(1)][/us/pl/111/147/s512/a/1], which directed amendment of subsec. (b) by adding par. (7) after par. (6), was executed by adding par. (7) after par. (5) to reflect the probable intent of Congress and the subsequent addition of par. (6) by [Pub. L. 111–152][/us/pl/111/152]. See above.
+    Subsec. (b)(7). [Pub. L. 111–147, § 512(a)(1)][/us/pl/111/147/s512/a/1], as amended by [Pub. L. 113–295, § 208(a)][/us/pl/113/295/s208/a], added par. (7).
 
     Subsec. (i). [Pub. L. 111–152, § 1409(b)(2)][/us/pl/111/152/s1409/b/2], added subsec. (i). See Codification note above.
 
@@ -352,6 +354,12 @@
     “(2) Limitation.—No penalty shall be imposed by reason of subsection (b)(3) unless the portion of the underpayment for the taxable year attributable to substantial valuation overstatements under chapter 1 exceeds $5,000 ($10,000 in the case of a corporation other than an S corporation or a personal holding company (as defined in section 542)).”
 
     Subsec. (h)(2)(A). [Pub. L. 101–508, § 11312(b)(2)][/us/pl/101/508/s11312/b/2], amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “any substantial valuation overstatement under chapter 1 as determined under subsection (e) by substituting ‘400 percent’ for ‘200 percent’,”.
+
+ __Effective Date of 2014 Amendment__ 
+
+[Pub. L. 113–295, div. A, title II, § 208(b)][/us/pl/113/295/s208/b], Dec. 19, 2014, [128 Stat. 4028][/us/stat/128/4028], provided that: 
+
+> “The amendment made by this section \[amending this section\] shall take effect as if included in the provision of the Hiring Incentives to Restore Employment Act \[[Pub. L. 111–147][/us/pl/111/147]\] to which it relates.”
 
  __Effective Date of 2010 Amendment__ 
 
@@ -464,6 +472,8 @@
 [/us/stat/124/110]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F110
 [/us/pl/111/152/s1409/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F152%2Fs1409%2Fb%2F1
 [/us/stat/124/1068]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1068
+[/us/pl/113/295/s208/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs208%2Fa
+[/us/stat/128/4028]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F4028
 [/us/pl/111/152/s1409/c/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F152%2Fs1409%2Fc%2F2%2FA
 [/us/stat/124/1069]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1069
 [/us/pl/111/152]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F152
@@ -483,9 +493,11 @@
 [/us/pl/101/239/s7721/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2Fs7721%2Fa
 [/us/stat/103/2395]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F2395
 [/us/usc/t26/s6665]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs6665
+[/us/pl/113/295/s208/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs208%2Fa
+[/us/pl/111/147/s512/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F147%2Fs512%2Fa%2F1
 [/us/pl/111/152/s1409/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F152%2Fs1409%2Fb%2F1
 [/us/pl/111/147/s512/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F147%2Fs512%2Fa%2F1
-[/us/pl/111/152]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F152
+[/us/pl/113/295/s208/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs208%2Fa
 [/us/pl/111/152/s1409/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F152%2Fs1409%2Fb%2F2
 [/us/pl/111/147/s512/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F147%2Fs512%2Fa%2F2
 [/us/pl/109/280/s1219/a/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280%2Fs1219%2Fa%2F1%2FA
@@ -513,6 +525,9 @@
 [/us/pl/101/508/s11312/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs11312%2Fb%2F1
 [/us/pl/101/508/s11312/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs11312%2Fa
 [/us/pl/101/508/s11312/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs11312%2Fb%2F2
+[/us/pl/113/295/s208/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs208%2Fb
+[/us/stat/128/4028]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F4028
+[/us/pl/111/147]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F147
 [/us/pl/111/152/s1409/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F152%2Fs1409%2Fe
 [/us/stat/124/1070]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1070
 [/us/usc/t26/s6664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs6664

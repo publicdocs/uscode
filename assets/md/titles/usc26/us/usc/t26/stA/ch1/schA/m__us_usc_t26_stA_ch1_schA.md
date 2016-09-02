@@ -73,15 +73,7 @@
 
   <tr>
 
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2FstA%2Fch1%2FschA%2FptVII" data-uslm-ref="/us/usc/t26/stA/ch1/schA/ptVII">VII.</a>  </td>
-
-    <td> Environmental tax.  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2FstA%2Fch1%2FschA%2FptVIII" data-uslm-ref="/us/usc/t26/stA/ch1/schA/ptVIII">VIII.</a>  </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2FstA%2Fch1%2FschA%2FptVII" data-uslm-ref="/us/usc/t26/stA/ch1/schA/ptVII">VII</a>, <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2FstA%2Fch1%2FschA%2FptVIII" data-uslm-ref="/us/usc/t26/stA/ch1/schA/ptVIII">VIII.</a>  </td>
 
     <td> Repealed.]  </td>
 
@@ -90,6 +82,8 @@
 </table>
 
  __Amendments__ 
+
+    2014—[Pub. L. 113–295, div. A, title II, § 221(a)(12)(A)][/us/pl/113/295/s221/a/12/A], Dec. 19, 2014, [128 Stat. 4038][/us/stat/128/4038], struck out part VII “Environmental tax”.
 
     1989—[Pub. L. 101–234, title I, § 102(a)][/us/pl/101/234/s102/a], Dec. 13, 1989, [103 Stat. 1980][/us/stat/103/1980], repealed [Pub. L. 100–360, § 111][/us/pl/100/360/s111], and provided that the provisions of law amended by such section are restored or revived as if such section had not been enacted, see 1988 Amendment note below.
 
@@ -110,6 +104,8 @@
 ----------
 ----------
 
+[/us/pl/113/295/s221/a/12/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs221%2Fa%2F12%2FA
+[/us/stat/128/4038]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F4038
 [/us/pl/101/234/s102/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F234%2Fs102%2Fa
 [/us/stat/103/1980]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1980
 [/us/pl/100/360/s111]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F360%2Fs111

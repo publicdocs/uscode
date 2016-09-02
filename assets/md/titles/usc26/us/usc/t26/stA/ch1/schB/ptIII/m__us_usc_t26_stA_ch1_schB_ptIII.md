@@ -177,9 +177,9 @@
 
   <tr>
 
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs120" data-uslm-ref="/us/usc/t26/s120">120.</a>  </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs120" data-uslm-ref="/us/usc/t26/s120">120.</a>  </td>
 
-    <td> Amounts received under qualified group legal services plans.  </td>
+    <td> Repealed.]  </td>
 
   </tr>
 
@@ -387,7 +387,9 @@
 
  __Amendments__ 
 
-    2014—[Pub. L. 113–168, § 2(b)][/us/pl/113/168/s2/b], Sept. 26, 2014, [128 Stat. 1884][/us/stat/128/1884], added item 139E.
+    2014—[Pub. L. 113–295, div. A, title II, § 221(a)(19)(A)][/us/pl/113/295/s221/a/19/A], Dec. 19, 2014, [128 Stat. 4039][/us/stat/128/4039], which directed amendment of part III by striking out item 120 in table of sections for “such subpart”, was executed by striking out item 120 “Amounts received under qualified group legal services plans” in table of sections for this part to reflect the probable intent of Congress.
+
+    [Pub. L. 113–168, § 2(b)][/us/pl/113/168/s2/b], Sept. 26, 2014, [128 Stat. 1884][/us/stat/128/1884], added item 139E.
 
     2011—[Pub. L. 112–10, div. B, title VIII, § 1858(b)(2)(B)][/us/pl/112/10/s1858/b/2/B], Apr. 15, 2011, [125 Stat. 168][/us/stat/125/168], struck out item 139D “Free choice vouchers”.
 
@@ -506,6 +508,8 @@
 ----------
 ----------
 
+[/us/pl/113/295/s221/a/19/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs221%2Fa%2F19%2FA
+[/us/stat/128/4039]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F4039
 [/us/pl/113/168/s2/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F168%2Fs2%2Fb
 [/us/stat/128/1884]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1884
 [/us/pl/112/10/s1858/b/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F10%2Fs1858%2Fb%2F2%2FB

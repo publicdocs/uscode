@@ -21,25 +21,7 @@
 
     (b) __Employee__ 
 
-    For purposes of this chapter, the term “employee” means any individual in the service of one or more employers for compensation; except that the term “employee” shall include an employee of a local lodge or division defined as an employer in subsection (a) only if he was in the service of or in the employment relation to a carrier on or after August 29, 1935. An individual shall be deemed to have been in the employment relation to a carrier on August 29, 1935, if—
-
-        (1) he was on that date on leave of absence from his employment, expressly granted to him by the carrier by whom he was employed, or by a duly authorized representative of such carrier, and the grant of such leave of absence was established to the satisfaction of the Railroad Retirement Board before July 1947; or
-
-        (2) he was in the service of a carrier after August 29, 1935, and before January 1946 in each of 6 calendar months, whether or not consecutive; or
-
-        (3)
-
-         before August 29, 1935, he did not retire and was not retired or discharged from the service of the last carrier by whom he was employed or its corporate or operating successor, but—
-
-            (A) solely by reason of his physical or mental disability he ceased before August 29, 1935, to be in the service of such carrier and thereafter remained continuously disabled until he attained age 65 or until August 1945, or
-
-            (B) solely for such last stated reason a carrier by whom he was employed before August 29, 1935, or a carrier who is its successor did not on or after August 29, 1935, and before August 1945 call him to return to service, or
-
-            (C) if he was so called he was solely for such reason unable to render service in 6 calendar months as provided in paragraph (2); or
-
-        (4) he was on August 29, 1935, absent from the service of a carrier by reason of a discharge which, within 1 year after the effective date thereof, was protested, to an appropriate labor representative or to the carrier, as wrongful, and which was followed within 10 years of the effective date thereof by his reinstatement in good faith to his former service with all his seniority rights;
-
-        except that an individual shall not be deemed to have been on August 29, 1935, in the employment relation to a carrier if before that date he was granted a pension or gratuity on the basis of which a pension was awarded to him pursuant to section 6 of the Railroad Retirement Act of 1937 ([45 U.S.C. 228f][/us/usc/t45/s228f]), or if during the last payroll period before August 29, 1935, in which he rendered service to a carrier he was not in the service of an employer, in accordance with subsection (d), with respect to any service in such payroll period, or if he could have been in the employment relation to an employer only by reason of his having been, either before or after August 29, 1935, in the service of a local lodge or division defined as an employer in subsection (a). The term “employee” includes an officer of an employer. The term “employee” shall not include any individual while such individual is engaged in the physical operations consisting of the mining of coal, the preparation of coal, the handling (other than movement by rail with standard railroad locomotives) of coal not beyond the mine tipple, or the loading of coal at the tipple.
+        For purposes of this chapter, the term “employee” means any individual in the service of one or more employers for compensation. The term “employee” includes an officer of an employer. The term “employee” shall not include any individual while such individual is engaged in the physical operations consisting of the mining of coal, the preparation of coal, the handling (other than movement by rail with standard railroad locomotives) of coal not beyond the mine tipple, or the loading of coal at the tipple.
 
     (c) __Employee representative__ 
 
@@ -143,7 +125,7 @@
 
         (6) The term “compensation” shall not include any payment made, or benefit furnished, to or for the benefit of an employee if at the time of such payment or such furnishing it is reasonable to believe that the employee will be able to exclude such payment or benefit from income under section 127.
 
-        (7) The term “compensation” shall not include any contribution, payment, or service provided by an employer which may be excluded from the gross income of an employee, his spouse, or his dependents, under the provisions of section 120 (relating to amounts received under qualified group legal services plans).
+        \[(7) Repealed. [Pub. L. 113–295, div. A, title II, § 221(a)(19)(B)(v)][/us/pl/113/295/s221/a/19/B/v], Dec. 19, 2014, [128 Stat. 4040][/us/stat/128/4040]\]
 
         (8) __Treatment of certain deferred compensation and salary reduction arrangements__ 
 
@@ -191,25 +173,29 @@
 
         For purposes of this chapter, if 2 or more related corporations which are employers concurrently employ the same individual and compensate such individual through a common paymaster which is 1 of such corporations, each such corporation shall be considered to have paid as remuneration to such individual only the amounts actually disbursed by it to such individual and shall not be considered to have paid as remuneration to such individual amounts actually disbursed to such individual by another of such corporations.
 
-([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 434][/us/stat/68A/434]; [Aug. 31, 1954, ch. 1164][/us/act/1954-08-31/ch1164], pt. II, § 206(b), [68 Stat. 1040][/us/stat/68/1040]; [Pub. L. 89–212, § 2(b)][/us/pl/89/212/s2/b], Sept. 29, 1965, [79 Stat. 859][/us/stat/79/859]; [Pub. L. 90–624, § 1][/us/pl/90/624/s1], Oct. 22, 1968, [82 Stat. 1316][/us/stat/82/1316]; [Pub. L. 94–92, title II, § 203(b)][/us/pl/94/92/s203/b], Aug. 9, 1975, [89 Stat. 465][/us/stat/89/465]; [Pub. L. 94–93, title II][/us/pl/94/93], §§ 204–206, Aug. 9, 1975, [89 Stat. 466][/us/stat/89/466]; [Pub. L. 94–455, title XIX][/us/pl/94/455], §§ 1903(a)(10), 1906(b)(13)(A), Oct. 4, 1976, [90 Stat. 1808][/us/stat/90/1808], 1834; [Pub. L. 94–547, § 4(b)][/us/pl/94/547/s4/b], Oct. 18, 1976, [90 Stat. 2526][/us/stat/90/2526]; [Pub. L. 95–473, § 2(a)(2)(G)][/us/pl/95/473/s2/a/2/G], Oct. 17, 1978, [92 Stat. 1465][/us/stat/92/1465]; [Pub. L. 97–34, title VII][/us/pl/97/34], §§ 741(d)(2), 743(a)–(c), Aug. 13, 1981, [95 Stat. 347][/us/stat/95/347], 348; [Pub. L. 97–123, § 3(c)][/us/pl/97/123/s3/c], Dec. 29, 1981, [95 Stat. 1662][/us/stat/95/1662]; [Pub. L. 98–76, title II, § 225(a)(1)][/us/pl/98/76/s225/a/1], (3), (b), (c)(1)(C), (6)–(8), Aug. 12, 1983, [97 Stat. 424][/us/stat/97/424], 425; [Pub. L. 98–369, div. A, title V, § 531(d)(2)][/us/pl/98/369/s531/d/2], July 18, 1984, [98 Stat. 884][/us/stat/98/884]; [Pub. L. 98–611, § 1(f)][/us/pl/98/611/s1/f], Oct. 31, 1984, [98 Stat. 3178][/us/stat/98/3178]; [Pub. L. 98–612, § 1(c)][/us/pl/98/612/s1/c], Oct. 31, 1984, [98 Stat. 3181][/us/stat/98/3181]; [Pub. L. 99–514, title I, § 122(e)(2)][/us/pl/99/514/s122/e/2], title XVIII, § 1899A(41), Oct. 22, 1986, [100 Stat. 2112][/us/stat/100/2112], 2960; [Pub. L. 100–647, title I][/us/pl/100/647], §§ 1001(d)(2)(C)(ii), 1011B(a)(22)(B), Nov. 10, 1988, [102 Stat. 3351][/us/stat/102/3351], 3486; [Pub. L. 101–140, title II, § 203(a)(2)][/us/pl/101/140/s203/a/2], Nov. 8, 1989, [103 Stat. 830][/us/stat/103/830]; [Pub. L. 101–239, title X][/us/pl/101/239], §§ 10205(a), 10206(a), (b), 10207(a), (b), Dec. 19, 1989, [103 Stat. 2474–2476][/us/stat/103/2474-2476]; [Pub. L. 101–508, title XI][/us/pl/101/508], §§ 11331(c), 11704(a)(19), Nov. 5, 1990, [104 Stat. 1388–468][/us/stat/104/1388-468], 1388–519; [Pub. L. 103–66, title XIII, § 13207(c)][/us/pl/103/66/s13207/c], Aug. 10, 1993, [107 Stat. 468][/us/stat/107/468]; [Pub. L. 103–296, title III, § 320(a)(1)(D)][/us/pl/103/296/s320/a/1/D], Aug. 15, 1994, [108 Stat. 1535][/us/stat/108/1535]; [Pub. L. 104–88, title III, § 304(d)][/us/pl/104/88/s304/d], Dec. 29, 1995, [109 Stat. 944][/us/stat/109/944]; [Pub. L. 104–191, title III, § 301(c)(2)(A)][/us/pl/104/191/s301/c/2/A], Aug. 21, 1996, [110 Stat. 2049][/us/stat/110/2049]; [Pub. L. 106–554, § 1(a)(7)][/us/pl/106/554/s1/a/7] \[title II, § 202(b)(5)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–629; [Pub. L. 107–90, title II, § 204(e)(3)][/us/pl/107/90/s204/e/3], (4), Dec. 21, 2001, [115 Stat. 893][/us/stat/115/893]; [Pub. L. 108–173, title XII, § 1201(d)(2)(A)][/us/pl/108/173/s1201/d/2/A], Dec. 8, 2003, [117 Stat. 2477][/us/stat/117/2477]; [Pub. L. 108–357, title II, § 251(a)(2)][/us/pl/108/357/s251/a/2], title III, § 320(b)(2), Oct. 22, 2004, [118 Stat. 1458][/us/stat/118/1458], 1473.)
+([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 434][/us/stat/68A/434]; [Aug. 31, 1954, ch. 1164][/us/act/1954-08-31/ch1164], pt. II, § 206(b), [68 Stat. 1040][/us/stat/68/1040]; [Pub. L. 89–212, § 2(b)][/us/pl/89/212/s2/b], Sept. 29, 1965, [79 Stat. 859][/us/stat/79/859]; [Pub. L. 90–624, § 1][/us/pl/90/624/s1], Oct. 22, 1968, [82 Stat. 1316][/us/stat/82/1316]; [Pub. L. 94–92, title II, § 203(b)][/us/pl/94/92/s203/b], Aug. 9, 1975, [89 Stat. 465][/us/stat/89/465]; [Pub. L. 94–93, title II][/us/pl/94/93], §§ 204–206, Aug. 9, 1975, [89 Stat. 466][/us/stat/89/466]; [Pub. L. 94–455, title XIX][/us/pl/94/455], §§ 1903(a)(10), 1906(b)(13)(A), Oct. 4, 1976, [90 Stat. 1808][/us/stat/90/1808], 1834; [Pub. L. 94–547, § 4(b)][/us/pl/94/547/s4/b], Oct. 18, 1976, [90 Stat. 2526][/us/stat/90/2526]; [Pub. L. 95–473, § 2(a)(2)(G)][/us/pl/95/473/s2/a/2/G], Oct. 17, 1978, [92 Stat. 1465][/us/stat/92/1465]; [Pub. L. 97–34, title VII][/us/pl/97/34], §§ 741(d)(2), 743(a)–(c), Aug. 13, 1981, [95 Stat. 347][/us/stat/95/347], 348; [Pub. L. 97–123, § 3(c)][/us/pl/97/123/s3/c], Dec. 29, 1981, [95 Stat. 1662][/us/stat/95/1662]; [Pub. L. 98–76, title II, § 225(a)(1)][/us/pl/98/76/s225/a/1], (3), (b), (c)(1)(C), (6)–(8), Aug. 12, 1983, [97 Stat. 424][/us/stat/97/424], 425; [Pub. L. 98–369, div. A, title V, § 531(d)(2)][/us/pl/98/369/s531/d/2], July 18, 1984, [98 Stat. 884][/us/stat/98/884]; [Pub. L. 98–611, § 1(f)][/us/pl/98/611/s1/f], Oct. 31, 1984, [98 Stat. 3178][/us/stat/98/3178]; [Pub. L. 98–612, § 1(c)][/us/pl/98/612/s1/c], Oct. 31, 1984, [98 Stat. 3181][/us/stat/98/3181]; [Pub. L. 99–514, title I, § 122(e)(2)][/us/pl/99/514/s122/e/2], title XVIII, § 1899A(41), Oct. 22, 1986, [100 Stat. 2112][/us/stat/100/2112], 2960; [Pub. L. 100–647, title I][/us/pl/100/647], §§ 1001(d)(2)(C)(ii), 1011B(a)(22)(B), Nov. 10, 1988, [102 Stat. 3351][/us/stat/102/3351], 3486; [Pub. L. 101–140, title II, § 203(a)(2)][/us/pl/101/140/s203/a/2], Nov. 8, 1989, [103 Stat. 830][/us/stat/103/830]; [Pub. L. 101–239, title X][/us/pl/101/239], §§ 10205(a), 10206(a), (b), 10207(a), (b), Dec. 19, 1989, [103 Stat. 2474–2476][/us/stat/103/2474-2476]; [Pub. L. 101–508, title XI][/us/pl/101/508], §§ 11331(c), 11704(a)(19), Nov. 5, 1990, [104 Stat. 1388–468][/us/stat/104/1388-468], 1388–519; [Pub. L. 103–66, title XIII, § 13207(c)][/us/pl/103/66/s13207/c], Aug. 10, 1993, [107 Stat. 468][/us/stat/107/468]; [Pub. L. 103–296, title III, § 320(a)(1)(D)][/us/pl/103/296/s320/a/1/D], Aug. 15, 1994, [108 Stat. 1535][/us/stat/108/1535]; [Pub. L. 104–88, title III, § 304(d)][/us/pl/104/88/s304/d], Dec. 29, 1995, [109 Stat. 944][/us/stat/109/944]; [Pub. L. 104–191, title III, § 301(c)(2)(A)][/us/pl/104/191/s301/c/2/A], Aug. 21, 1996, [110 Stat. 2049][/us/stat/110/2049]; [Pub. L. 106–554, § 1(a)(7)][/us/pl/106/554/s1/a/7] \[title II, § 202(b)(5)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–629; [Pub. L. 107–90, title II, § 204(e)(3)][/us/pl/107/90/s204/e/3], (4), Dec. 21, 2001, [115 Stat. 893][/us/stat/115/893]; [Pub. L. 108–173, title XII, § 1201(d)(2)(A)][/us/pl/108/173/s1201/d/2/A], Dec. 8, 2003, [117 Stat. 2477][/us/stat/117/2477]; [Pub. L. 108–357, title II, § 251(a)(2)][/us/pl/108/357/s251/a/2], title III, § 320(b)(2), Oct. 22, 2004, [118 Stat. 1458][/us/stat/118/1458], 1473; [Pub. L. 113–295, div. A, title II][/us/pl/113/295], §§ 221(a)(19)(B)(v), 221(a)(100)(D), Dec. 19, 2014, [128 Stat. 4040][/us/stat/128/4040], 4052.)
 
  __References in Text__ 
 
-    The Railway Labor Act, referred to in subsecs. (a) and (c), is [act May 20, 1926, ch. 347][/us/act/1926-05-20/ch347], [44 Stat. 577][/us/stat/44/577], as amended, which is classified principally to chapter 8 (§ 151 et seq.) of Title 45, Railroads. For complete classification of this Act to the Code, see [section 151 of Title 45][/us/usc/t45/s151] and Tables.
+    The Railway Labor Act, referred to in subsecs. (a) and (c), is [act May 20, 1926, ch. 347][/us/act/1926-05-20/ch347], [44 Stat. 577][/us/stat/44/577], which is classified principally to chapter 8 (§ 151 et seq.) of Title 45, Railroads. For complete classification of this Act to the Code, see [section 151 of Title 45][/us/usc/t45/s151] and Tables.
 
-    Sections 1 and 6 of the Railroad Retirement Act of 1937, referred to in subsecs. (b) and (d)(7), were classified to sections 228a and 228f of Title 45. The subject matter of sections 228a and 228f is covered by sections 231 and 231o of Title 45.
+    Section 1 of the Railroad Retirement Act of 1937, referred to in subsec. (d)(7), was classified to [section 228a of Title 45][/us/usc/t45/s228a], Railroads, prior to being omitted from the Code. The subject matter of section 228a is covered by [section 231 of Title 45][/us/usc/t45/s231].
 
     Section 230 of the Social Security Act, referred to in subsec. (e)(2)(B), is classified to [section 430 of Title 42][/us/usc/t42/s430], The Public Health and Welfare.
 
     Section 3(a), (f)(3), (j) of the Railroad Retirement Act of 1974, referred to in subsec. (e)(2)(B)(ii)(II), is classified to section 231b(a), (f)(3), (j) of Title 45, Railroads.
 
-    The Railroad Retirement Act of 1974, referred to in subsec. (e)(4)(A)(ii), is [act Aug. 29, 1935, ch. 812][/us/act/1935-08-29/ch812], as amended generally by [Pub. L. 93–445, title I, § 101][/us/pl/93/445/s101], Oct. 16, 1974, [88 Stat. 1305][/us/stat/88/1305], which is classified generally to subchapter IV (§ 231 et seq.) of chapter 9 of Title 45. For further details and complete classification of this Act to the Code, see Codification note set out preceding [section 231 of Title 45][/us/usc/t45/s231], [section 231t of Title 45][/us/usc/t45/s231t], and Tables.
+    The Railroad Retirement Act of 1974, referred to in subsec. (e)(4)(A)(ii), is [act Aug. 29, 1935, ch. 812][/us/act/1935-08-29/ch812], as amended generally by [Pub. L. 93–445, title I, § 101][/us/pl/93/445/s101], Oct. 16, 1974, [88 Stat. 1305][/us/stat/88/1305], which is classified generally to subchapter IV (§ 231 et seq.) of chapter 9 of Title 45, Railroads. For further details and complete classification of this Act to the Code, see Codification note set out preceding [section 231 of Title 45][/us/usc/t45/s231], [section 231t of Title 45][/us/usc/t45/s231t], and Tables.
 
     Section 101(a)(15) of the Immigration and Nationality Act, referred to in subsec. (e)(1), is classified to [section 1101(a)(15) of Title 8][/us/usc/t8/s1101/a/15], Aliens and Nationality.
 
     Section 2(a) of the Railroad Unemployment Insurance Act, referred to in subsec. (e)(4)(B), is classified to [section 352(a) of Title 45][/us/usc/t45/s352/a], Railroads.
 
  __Amendments__ 
+
+    2014—Subsec. (b). [Pub. L. 113–295, § 221(a)(100)(D)][/us/pl/113/295/s221/a/100/D], in first sentence substituted “compensation.” for “compensation; except that the term ‘employee’ shall include an employee of a local lodge or division defined as an employer in subsection (a) only if he was in the service of or in the employment relation to a carrier on or after August 29, 1935.” and struck out second sentence, which included pars. (1) to (4) and concluding provisions relating to an individual deemed to have been in the employment relation to a carrier on August 29, 1935.
+
+    Subsec. (e)(7). [Pub. L. 113–295, § 221(a)(19)(B)(v)][/us/pl/113/295/s221/a/19/B/v], struck out par. (7), which read as follows: “The term ‘compensation’ shall not include any contribution, payment, or service provided by an employer which may be excluded from the gross income of an employee, his spouse, or his dependents, under the provisions of section 120 (relating to amounts received under qualified group legal services plans).”
 
     2004—Subsec. (e)(5). [Pub. L. 108–357, § 320(b)(2)][/us/pl/108/357/s320/b/2], inserted “108(f)(4),” after “74(c),”.
 
@@ -320,6 +306,10 @@
     Subsec. (h). [Pub. L. 89–212, § 2(b)(3)][/us/pl/89/212/s2/b/3], added subsec. (h).
 
     1954—Subsec. (e)(1). Act Aug. 31, 1954, excluded from taxation compensation, for service as a delegate to a national or international convention of a railway labor organization, of any person who has no other previous creditable service.
+
+ __Effective Date of 2014 Amendment__ 
+
+    Amendment by [Pub. L. 113–295][/us/pl/113/295] effective Dec. 19, 2014, subject to a savings provision, see [section 221(b) of Pub. L. 113–295][/us/pl/113/295/s221/b], set out as a note under [section 1 of this title][/us/usc/t26/s1].
 
  __Effective Date of 2004 Amendment__ 
 
@@ -502,8 +492,9 @@ Amendment by sections 204 and 205 of [Pub. L. 94–93][/us/pl/94/93] applicable 
 ----------
 ----------
 
-[/us/usc/t45/s228f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft45%2Fs228f
 [/us/usc/t45/s228a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft45%2Fs228a
+[/us/pl/113/295/s221/a/19/B/v]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs221%2Fa%2F19%2FB%2Fv
+[/us/stat/128/4040]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F4040
 [/us/act/1954-08-16/ch736]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-16%2Fch736
 [/us/stat/68A/434]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68A%2F434
 [/us/act/1954-08-31/ch1164]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-31%2Fch1164
@@ -560,9 +551,13 @@ Amendment by sections 204 and 205 of [Pub. L. 94–93][/us/pl/94/93] applicable 
 [/us/stat/117/2477]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2477
 [/us/pl/108/357/s251/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357%2Fs251%2Fa%2F2
 [/us/stat/118/1458]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1458
+[/us/pl/113/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295
+[/us/stat/128/4040]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F4040
 [/us/act/1926-05-20/ch347]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1926-05-20%2Fch347
 [/us/stat/44/577]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F44%2F577
 [/us/usc/t45/s151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft45%2Fs151
+[/us/usc/t45/s228a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft45%2Fs228a
+[/us/usc/t45/s231]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft45%2Fs231
 [/us/usc/t42/s430]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs430
 [/us/act/1935-08-29/ch812]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-29%2Fch812
 [/us/pl/93/445/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F445%2Fs101
@@ -571,6 +566,8 @@ Amendment by sections 204 and 205 of [Pub. L. 94–93][/us/pl/94/93] applicable 
 [/us/usc/t45/s231t]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft45%2Fs231t
 [/us/usc/t8/s1101/a/15]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1101%2Fa%2F15
 [/us/usc/t45/s352/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft45%2Fs352%2Fa
+[/us/pl/113/295/s221/a/100/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs221%2Fa%2F100%2FD
+[/us/pl/113/295/s221/a/19/B/v]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs221%2Fa%2F19%2FB%2Fv
 [/us/pl/108/357/s320/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357%2Fs320%2Fb%2F2
 [/us/pl/108/357/s251/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357%2Fs251%2Fa%2F2
 [/us/pl/108/173]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F173
@@ -630,6 +627,9 @@ Amendment by sections 204 and 205 of [Pub. L. 94–93][/us/pl/94/93] applicable 
 [/us/pl/89/212/s2/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F212%2Fs2%2Fb%2F1
 [/us/pl/89/212/s2/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F212%2Fs2%2Fb%2F2
 [/us/pl/89/212/s2/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F212%2Fs2%2Fb%2F3
+[/us/pl/113/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295
+[/us/pl/113/295/s221/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs221%2Fb
+[/us/usc/t26/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs1
 [/us/pl/108/357/s251/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357%2Fs251%2Fa%2F2
 [/us/pl/108/357/s251/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357%2Fs251%2Fd
 [/us/usc/t26/s421]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs421

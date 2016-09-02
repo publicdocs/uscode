@@ -41,7 +41,7 @@
 
                 (ii) a failure to include any of the information required to be shown on a return filed under section 6033(a)(1) or section 6012(a)(6) or to show the correct information,
 
-                there shall be paid by the exempt organization $20 for each day during which such failure continues. The maximum penalty under this subparagraph on failures with respect to any 1 return shall not exceed the lesser of $10,000 or 5 percent of the gross receipts of the organization for the year. In the case of an organization having gross receipts exceeding $1,000,000 for any year, with respect to the return required under section 6033(a)(1) or section 6012(a)(6) for such year, the first sentence of this subparagraph shall be applied by substituting “$100” for “$20” and, in lieu of applying the second sentence of this subparagraph, the maximum penalty under this subparagraph shall not exceed $50,000.
+                there shall be paid by the exempt organization $20 for each day during which such failure continues. The maximum penalty under this subparagraph on failures with respect to any 1 return shall not exceed the lesser of $10,000 or 5 percent of the gross receipts of the organization for the year. In the case of an organization having gross receipts exceeding $1,000,000 for any year, with respect to the return required under section 6033(a)(1) or section 6012(a)(6) for such year, in applying the first sentence of this subparagraph, the amount of the penalty for each day during which a failure continues shall be $100 in lieu of the amount otherwise specified, and, in lieu of applying the second sentence of this subparagraph, the maximum penalty under this subparagraph shall not exceed $50,000.
 
             (B) __Managers__ 
 
@@ -81,7 +81,7 @@
 
                 (i) the 5 percent limitation in the second sentence of paragraph (1)(A) shall not apply,
 
-                (ii) in the case of any trust with gross income in excess of $250,000, the first sentence of paragraph (1)(A) shall be applied by substituting “$100” for “$20”, and the second sentence thereof shall be applied by substituting “$50,000” for “$10,000”, and
+                (ii) in the case of any trust with gross income in excess of $250,000, in applying the first sentence of paragraph (1)(A), the amount of the penalty for each day during which a failure continues shall be $100 in lieu of the amount otherwise specified, and in lieu of applying the second sentence of paragraph (1)(A), the maximum penalty under paragraph (1)(A) shall not exceed $50,000, and
 
                 (iii) the third sentence of paragraph (1)(A) shall be disregarded.
 
@@ -125,6 +125,20 @@
 
                 For purposes of this subsection, the term “person” means any officer, director, trustee, employee, or other individual who is under a duty to perform the act in respect of which the violation occurs.
 
+        (6) __Adjustment for inflation__ 
+
+            (A) __In general__ 
+
+                In the case of any failure relating to a return required to be filed in a calendar year beginning after 2014, each of the dollar amounts under paragraphs (1), (2), and (3) shall be increased by such dollar amount multiplied by the cost-of-living adjustment determined under section 1(f)(3) determined by substituting “calendar year 2013” for “calendar year 1992” in subparagraph (B) thereof.
+
+            (B) __Rounding__ 
+
+            If any amount adjusted under subparagraph (A)—
+
+                (i) is not less than $5,000 and is not a multiple of $500, such amount shall be rounded to the next lowest multiple of $500, and
+
+                (ii) is not described in clause (i) and is not a multiple of $5, such amount shall be rounded to the next lowest multiple of $5.
+
     (d) __Annual registration and other notification by pension plan__ 
 
         (1) __Registration__ 
@@ -159,9 +173,7 @@
 
             For purposes of the preceding sentence, fair market value shall be determined as of the end of the calendar year (or, in the case of any property disposed of during the calendar year, as of the date of such disposition).
 
-    (g) __Information required in connection with deductible employee contributions__ 
-
-        In the case of failure to make a report required by section 219(f)(4) which contains the information required by such section on the date prescribed therefor (determined with regard to any extension of time for filing), there shall be paid (on notice and demand by the Secretary and in the same manner as tax) by the person failing so to file, an amount equal to $25 for each participant with respect to whom there was a failure to file such information, multiplied by the number of years during which such failure continues, but the total amount imposed under this subsection on any person for failure to file shall not exceed $10,000. No penalty shall be imposed under this subsection on any failure which is shown to be due to reasonable cause and not willful neglect.
+    \[(g) __Repealed.__  __[__  __Pub. L. 113–295, div. A, title II, § 221(a)(39)(B)__  __][/us/pl/113/295/s221/a/39/B]__  __,__  __Dec. 19, 2014__  __,__  __[__  __128 Stat. 4043__  __][/us/stat/128/4043]__  __\]__ 
 
     (h) __Failure to give notice to recipients of certain pension, etc., distributions__ 
 
@@ -187,7 +199,11 @@
 
         For penalties for failure to file certain information returns with respect to alcohol and tobacco taxes, see, generally, subtitle E.
 
-([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 821][/us/stat/68A/821]; [Pub. L. 85–866, title I, § 85][/us/pl/85/866/s85], Sept. 2, 1958, [72 Stat. 1664][/us/stat/72/1664]; [Pub. L. 87–834, § 19(d)][/us/pl/87/834/s19/d], Oct. 16, 1962, [76 Stat. 1057][/us/stat/76/1057]; [Pub. L. 88–272, title II, § 221(b)(2)][/us/pl/88/272/s221/b/2], Feb. 26, 1964, [78 Stat. 74][/us/stat/78/74]; [Pub. L. 89–97, title III, § 313(e)(2)(B)][/us/pl/89/97/s313/e/2/B], (3), July 30, 1965, [79 Stat. 385][/us/stat/79/385]; [Pub. L. 89–212, § 2(e)][/us/pl/89/212/s2/e], Sept. 29, 1965, [79 Stat. 859][/us/stat/79/859]; [Pub. L. 91–172, title I, § 101(d)(4)][/us/pl/91/172/s101/d/4], Dec. 30, 1969, [83 Stat. 522][/us/stat/83/522]; [Pub. L. 93–406, title II, § 1031(b)(1)(A)][/us/pl/93/406/s1031/b/1/A], (B)(i), Sept. 2, 1974, [88 Stat. 945][/us/stat/88/945], 946; [Pub. L. 94–455, title XII, § 1207(e)(3)(B)][/us/pl/94/455/s1207/e/3/B], (C), title XIX, § 1906(b)(13)(A), Oct. 4, 1976, [90 Stat. 1708][/us/stat/90/1708], 1834; [Pub. L. 96–167, § 7(b)(1)][/us/pl/96/167/s7/b/1], Dec. 29, 1979, [93 Stat. 1277][/us/stat/93/1277]; [Pub. L. 96–223, title I, § 101(d)(2)(A)][/us/pl/96/223/s101/d/2/A], Apr. 2, 1980, [94 Stat. 251][/us/stat/94/251]; [Pub. L. 96–499, title XI, § 1123(b)][/us/pl/96/499/s1123/b], Dec. 5, 1980, [94 Stat. 2689][/us/stat/94/2689]; [Pub. L. 96–603, § 1(d)(2)][/us/pl/96/603/s1/d/2], Dec. 28, 1980, [94 Stat. 3504][/us/stat/94/3504]; [Pub. L. 97–34, title III, § 311(f)][/us/pl/97/34/s311/f], title VII, § 723(a)(1), (3), (4), Aug. 13, 1981, [95 Stat. 281][/us/stat/95/281], 343, 344; [Pub. L. 97–248, title III][/us/pl/97/248], §§ 309(b)(2), 315(a), (b), Sept. 3, 1982, [96 Stat. 595][/us/stat/96/595], 605, 606; [Pub. L. 97–448, title II, § 201(i)(2)][/us/pl/97/448/s201/i/2], Jan. 12, 1983, [96 Stat. 2395][/us/stat/96/2395]; [Pub. L. 98–67, title I, § 105(b)(1)][/us/pl/98/67/s105/b/1], Aug. 5, 1983, [97 Stat. 380][/us/stat/97/380]; [Pub. L. 98–369, div. A, title I][/us/pl/98/369], §§ 145(b)(1), (2), 146(b)(1), (2), 148(b)(1), (2), 149(b)(1), 155(b)(2)(A), title IV, § 491(d)(50), title V, § 531(b)(4)(B), title VII, § 714(j)(3), July 18, 1984, [98 Stat. 685][/us/stat/98/685], 686, 688, 689, 693, 852, 882, 963; [Pub. L. 98–397, title II, § 207(b)][/us/pl/98/397/s207/b], Aug. 23, 1984, [98 Stat. 1450][/us/stat/98/1450]; [Pub. L. 98–611, § 1(d)(2)][/us/pl/98/611/s1/d/2], Oct. 31, 1984, [98 Stat. 3177][/us/stat/98/3177]; [Pub. L. 98–612, § 1(b)(2)][/us/pl/98/612/s1/b/2], Oct. 31, 1984, [98 Stat. 3181][/us/stat/98/3181]; [Pub. L. 99–514, title XI, § 1151(b)][/us/pl/99/514/s1151/b], title XIII, § 1301(g), title XV, § 1501(d)(1)(A), title XVII, § 1702(b), title XVIII, §§ 1810(f)(9), 1811(c)(2), Oct. 22, 1986, [100 Stat. 2502][/us/stat/100/2502], 2656, 2740, 2774, 2828, 2833; [Pub. L. 100–203, title X][/us/pl/100/203], §§ 10502(d)(11), 10704(a), Dec. 22, 1987, [101 Stat. 1330–444][/us/stat/101/1330-444], 1330–461; [Pub. L. 100–647, title I][/us/pl/100/647], §§ 1011B(a)(10), 1017(b), 1018(u)(36), title III, § 3021(a)(10), Nov. 10, 1988, [102 Stat. 3484][/us/stat/102/3484], 3575, 3592, 3630; [Pub. L. 101–140, title II, § 203(a)(1)][/us/pl/101/140/s203/a/1], Nov. 8, 1989, [103 Stat. 830][/us/stat/103/830]; [Pub. L. 101–239, title VII][/us/pl/101/239], §§ 7208(b)(2), 7841(d)(5), Dec. 19, 1989, [103 Stat. 2338][/us/stat/103/2338], 2428; [Pub. L. 102–318, title V, § 522(b)(2)(F)][/us/pl/102/318/s522/b/2/F], July 3, 1992, [106 Stat. 314][/us/stat/106/314]; [Pub. L. 103–66, title XIII, § 13113(c)][/us/pl/103/66/s13113/c], Aug. 10, 1993, [107 Stat. 429][/us/stat/107/429]; [Pub. L. 104–168, title XIII][/us/pl/104/168], §§ 1314(a), (b), July 30, 1996, [110 Stat. 1480][/us/stat/110/1480]; [Pub. L. 104–188, title I][/us/pl/104/188], §§ 1455(c), (d)(2), 1704(s), Aug. 20, 1996, [110 Stat. 1818][/us/stat/110/1818], 1887; [Pub. L. 105–34, title XII, § 1281(a)][/us/pl/105/34/s1281/a], (b), title XVI, § 1602(d)(2)(B), Aug. 5, 1997, [111 Stat. 1037][/us/stat/111/1037], 1094; [Pub. L. 105–277, div. J, title I, § 1004(b)(2)(B)][/us/pl/105/277/s1004/b/2/B], (C), Oct. 21, 1998, [112 Stat. 2681–890][/us/stat/112/2681-890]; [Pub. L. 106–230][/us/pl/106/230], §§ 1(c), 2(c), 3(c), July 1, 2000, [114 Stat. 479][/us/stat/114/479], 482, 483; [Pub. L. 109–222, title V, § 516(c)][/us/pl/109/222/s516/c], May 17, 2006, [120 Stat. 371][/us/stat/120/371]; [Pub. L. 109–280, title XII][/us/pl/109/280], §§ 1201(b)(2), 1223(d), Aug. 17, 2006, [120 Stat. 1065][/us/stat/120/1065], 1091.)
+    (n) __Failure to make reports required under sections 3511, 6053(c)(8), and 7705__ 
+
+        In the case of a failure to make a report required under section 3511, 6053(c)(8), or 7705 which contains the information required by such section on the date prescribed therefor (determined with regard to any extension of time for filing), there shall be paid (on notice and demand by the Secretary and in the same manner as tax) by the person failing to make such report, an amount equal to $50 for each report with respect to which there was such a failure. In the case of any failure due to negligence or intentional disregard the preceding sentence shall be applied by substituting “$100” for “$50”.
+
+([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 821][/us/stat/68A/821]; [Pub. L. 85–866, title I, § 85][/us/pl/85/866/s85], Sept. 2, 1958, [72 Stat. 1664][/us/stat/72/1664]; [Pub. L. 87–834, § 19(d)][/us/pl/87/834/s19/d], Oct. 16, 1962, [76 Stat. 1057][/us/stat/76/1057]; [Pub. L. 88–272, title II, § 221(b)(2)][/us/pl/88/272/s221/b/2], Feb. 26, 1964, [78 Stat. 74][/us/stat/78/74]; [Pub. L. 89–97, title III, § 313(e)(2)(B)][/us/pl/89/97/s313/e/2/B], (3), July 30, 1965, [79 Stat. 385][/us/stat/79/385]; [Pub. L. 89–212, § 2(e)][/us/pl/89/212/s2/e], Sept. 29, 1965, [79 Stat. 859][/us/stat/79/859]; [Pub. L. 91–172, title I, § 101(d)(4)][/us/pl/91/172/s101/d/4], Dec. 30, 1969, [83 Stat. 522][/us/stat/83/522]; [Pub. L. 93–406, title II, § 1031(b)(1)(A)][/us/pl/93/406/s1031/b/1/A], (B)(i), Sept. 2, 1974, [88 Stat. 945][/us/stat/88/945], 946; [Pub. L. 94–455, title XII, § 1207(e)(3)(B)][/us/pl/94/455/s1207/e/3/B], (C), title XIX, § 1906(b)(13)(A), Oct. 4, 1976, [90 Stat. 1708][/us/stat/90/1708], 1834; [Pub. L. 96–167, § 7(b)(1)][/us/pl/96/167/s7/b/1], Dec. 29, 1979, [93 Stat. 1277][/us/stat/93/1277]; [Pub. L. 96–223, title I, § 101(d)(2)(A)][/us/pl/96/223/s101/d/2/A], Apr. 2, 1980, [94 Stat. 251][/us/stat/94/251]; [Pub. L. 96–499, title XI, § 1123(b)][/us/pl/96/499/s1123/b], Dec. 5, 1980, [94 Stat. 2689][/us/stat/94/2689]; [Pub. L. 96–603, § 1(d)(2)][/us/pl/96/603/s1/d/2], Dec. 28, 1980, [94 Stat. 3504][/us/stat/94/3504]; [Pub. L. 97–34, title III, § 311(f)][/us/pl/97/34/s311/f], title VII, § 723(a)(1), (3), (4), Aug. 13, 1981, [95 Stat. 281][/us/stat/95/281], 343, 344; [Pub. L. 97–248, title III][/us/pl/97/248], §§ 309(b)(2), 315(a), (b), Sept. 3, 1982, [96 Stat. 595][/us/stat/96/595], 605, 606; [Pub. L. 97–448, title II, § 201(i)(2)][/us/pl/97/448/s201/i/2], Jan. 12, 1983, [96 Stat. 2395][/us/stat/96/2395]; [Pub. L. 98–67, title I, § 105(b)(1)][/us/pl/98/67/s105/b/1], Aug. 5, 1983, [97 Stat. 380][/us/stat/97/380]; [Pub. L. 98–369, div. A, title I][/us/pl/98/369], §§ 145(b)(1), (2), 146(b)(1), (2), 148(b)(1), (2), 149(b)(1), 155(b)(2)(A), title IV, § 491(d)(50), title V, § 531(b)(4)(B), title VII, § 714(j)(3), July 18, 1984, [98 Stat. 685][/us/stat/98/685], 686, 688, 689, 693, 852, 882, 963; [Pub. L. 98–397, title II, § 207(b)][/us/pl/98/397/s207/b], Aug. 23, 1984, [98 Stat. 1450][/us/stat/98/1450]; [Pub. L. 98–611, § 1(d)(2)][/us/pl/98/611/s1/d/2], Oct. 31, 1984, [98 Stat. 3177][/us/stat/98/3177]; [Pub. L. 98–612, § 1(b)(2)][/us/pl/98/612/s1/b/2], Oct. 31, 1984, [98 Stat. 3181][/us/stat/98/3181]; [Pub. L. 99–514, title XI, § 1151(b)][/us/pl/99/514/s1151/b], title XIII, § 1301(g), title XV, § 1501(d)(1)(A), title XVII, § 1702(b), title XVIII, §§ 1810(f)(9), 1811(c)(2), Oct. 22, 1986, [100 Stat. 2502][/us/stat/100/2502], 2656, 2740, 2774, 2828, 2833; [Pub. L. 100–203, title X][/us/pl/100/203], §§ 10502(d)(11), 10704(a), Dec. 22, 1987, [101 Stat. 1330–444][/us/stat/101/1330-444], 1330–461; [Pub. L. 100–647, title I][/us/pl/100/647], §§ 1011B(a)(10), 1017(b), 1018(u)(36), title III, § 3021(a)(10), Nov. 10, 1988, [102 Stat. 3484][/us/stat/102/3484], 3575, 3592, 3630; [Pub. L. 101–140, title II, § 203(a)(1)][/us/pl/101/140/s203/a/1], Nov. 8, 1989, [103 Stat. 830][/us/stat/103/830]; [Pub. L. 101–239, title VII][/us/pl/101/239], §§ 7208(b)(2), 7841(d)(5), Dec. 19, 1989, [103 Stat. 2338][/us/stat/103/2338], 2428; [Pub. L. 102–318, title V, § 522(b)(2)(F)][/us/pl/102/318/s522/b/2/F], July 3, 1992, [106 Stat. 314][/us/stat/106/314]; [Pub. L. 103–66, title XIII, § 13113(c)][/us/pl/103/66/s13113/c], Aug. 10, 1993, [107 Stat. 429][/us/stat/107/429]; [Pub. L. 104–168, title XIII][/us/pl/104/168], §§ 1314(a), (b), July 30, 1996, [110 Stat. 1480][/us/stat/110/1480]; [Pub. L. 104–188, title I][/us/pl/104/188], §§ 1455(c), (d)(2), 1704(s), Aug. 20, 1996, [110 Stat. 1818][/us/stat/110/1818], 1887; [Pub. L. 105–34, title XII, § 1281(a)][/us/pl/105/34/s1281/a], (b), title XVI, § 1602(d)(2)(B), Aug. 5, 1997, [111 Stat. 1037][/us/stat/111/1037], 1094; [Pub. L. 105–277, div. J, title I, § 1004(b)(2)(B)][/us/pl/105/277/s1004/b/2/B], (C), Oct. 21, 1998, [112 Stat. 2681–890][/us/stat/112/2681-890]; [Pub. L. 106–230][/us/pl/106/230], §§ 1(c), 2(c), 3(c), July 1, 2000, [114 Stat. 479][/us/stat/114/479], 482, 483; [Pub. L. 109–222, title V, § 516(c)][/us/pl/109/222/s516/c], May 17, 2006, [120 Stat. 371][/us/stat/120/371]; [Pub. L. 109–280, title XII][/us/pl/109/280], §§ 1201(b)(2), 1223(d), Aug. 17, 2006, [120 Stat. 1065][/us/stat/120/1065], 1091; [Pub. L. 113–295, div. A, title II, § 221(a)(39)(B)][/us/pl/113/295/s221/a/39/B], div. B, title II, §§ 206(c)(4), 208(b), Dec. 19, 2014, [128 Stat. 4043][/us/stat/128/4043], 4071, 4072.)
 
  __Codification__ 
 
@@ -196,6 +212,16 @@
     [Pub. L. 101–140, § 203(a)(1)][/us/pl/101/140/s203/a/1], amended this section to read as if the amendments made by [section 1151(b) of Pub. L. 99–514][/us/pl/99/514/s1151/b] (enacting subsec. (l)) had not been enacted. Subsequent to enactment by [Pub. L. 99–514][/us/pl/99/514], subsec. (l) was amended by [Pub. L. 100–203][/us/pl/100/203], [Pub. L. 100–647][/us/pl/100/647], and [Pub. L. 101–239][/us/pl/101/239]. See 1989, 1988, and 1987 Amendment notes below.
 
  __Amendments__ 
+
+    2014—Subsec. (c)(1)(A). [Pub. L. 113–295, § 208(b)(2)(A)][/us/pl/113/295/s208/b/2/A], substituted “in applying the first sentence of this subparagraph, the amount of the penalty for each day during which a failure continues shall be $100 in lieu of the amount otherwise specified, and” for “the first sentence of this subparagraph shall be applied by substituting ‘$100’ for ‘$20’ and”.
+
+    Subsec. (c)(2)(C)(ii). [Pub. L. 113–295, § 208(b)(2)(B)][/us/pl/113/295/s208/b/2/B], substituted “in applying the first sentence of paragraph (1)(A), the amount of the penalty for each day during which a failure continues shall be $100 in lieu of the amount otherwise specified, and in lieu of applying the second sentence of paragraph (1)(A), the maximum penalty under paragraph (1)(A) shall not exceed $50,000, and” for “the first sentence of paragraph (1)(A) shall be applied by substituting ‘$100’ for ‘$20’, and the second sentence thereof shall be applied by substituting ‘$50,000’ for ‘$10,000’, and”.
+
+    Subsec. (c)(6). [Pub. L. 113–295, § 208(b)(1)][/us/pl/113/295/s208/b/1], added par. (6).
+
+    Subsec. (g). [Pub. L. 113–295, § 221(a)(39)(B)][/us/pl/113/295/s221/a/39/B], struck out subsec. (g). Text read as follows: “In the case of failure to make a report required by section 219(f)(4) which contains the information required by such section on the date prescribed therefor (determined with regard to any extension of time for filing), there shall be paid (on notice and demand by the Secretary and in the same manner as tax) by the person failing so to file, an amount equal to $25 for each participant with respect to whom there was a failure to file such information, multiplied by the number of years during which such failure continues, but the total amount imposed under this subsection on any person for failure to file shall not exceed $10,000. No penalty shall be imposed under this subsection on any failure which is shown to be due to reasonable cause and not willful neglect.”
+
+    Subsec. (n). [Pub. L. 113–295, § 206(c)(4)][/us/pl/113/295/s206/c/4], added subsec. (n).
 
     2006—Subsec. (c)(1). [Pub. L. 109–222, § 516(c)(2)][/us/pl/109/222/s516/c/2], substituted “6033(a)(1)” for “6033” wherever appearing in heading and text.
 
@@ -382,6 +408,14 @@
     Subsec. (c). [Pub. L. 87–834][/us/pl/87/834] redesignated former subsec. (b) as (c).
 
     1958—Subsec. (a). [Pub. L. 85–866][/us/pl/85/866] substituted “section 6042(1)” for “section 6042” and “(upon notice and demand by the Secretary or his delegate and in the same manner as tax), by the person failing to so file the statement, $1 for each such statement not so filed” for “by the person failing to file the statement, upon notice and demand by the Secretary or his delegate and in the same manner as tax, $1 for each such statement not filed”, deleted “section 6045 (relating to returns of brokers)” after “patronage dividends)” and inserted “on the date prescribed therefor (determined with regard to any extension of time for filing)” after “income tax withheld),”.
+
+ __Effective Date of 2014 Amendment__ 
+
+    Amendment by [section 221(a)(39)(B) of Pub. L. 113–295][/us/pl/113/295/s221/a/39/B] effective Dec. 19, 2014, subject to a savings provision, see [section 221(b) of div. A of Pub. L. 113–295][/us/pl/113/295/s221/b], set out as a note under [section 1 of this title][/us/usc/t26/s1].
+
+    Amendment by [section 206(c)(4) of Pub. L. 113–295][/us/pl/113/295/s206/c/4] applicable with respect to wages for services performed on or after January 1 of the first calendar year beginning more than 12 months after Dec. 19, 2014, see [section 206(g)(1) of div. B of Pub. L. 113–295][/us/pl/113/295/s206/g/1], set out as a note under [section 3302 of this title][/us/usc/t26/s3302].
+
+    Amendment by [section 208(b) of div. B of Pub. L. 113–295][/us/pl/113/295/s208/b] applicable to returns required to be filed after Dec. 31, 2014, see [section 208(h) of div. B of Pub. L. 113–295][/us/pl/113/295/s208/h], set out as a note under [section 6651 of this title][/us/usc/t26/s6651].
 
  __Effective Date of 2006 Amendment__ 
 
@@ -606,6 +640,8 @@
 ----------
 ----------
 
+[/us/pl/113/295/s221/a/39/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs221%2Fa%2F39%2FB
+[/us/stat/128/4043]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F4043
 [/us/act/1954-08-16/ch736]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-16%2Fch736
 [/us/stat/68A/821]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68A%2F821
 [/us/pl/85/866/s85]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F866%2Fs85
@@ -676,6 +712,8 @@
 [/us/stat/120/371]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F371
 [/us/pl/109/280]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280
 [/us/stat/120/1065]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1065
+[/us/pl/113/295/s221/a/39/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs221%2Fa%2F39%2FB
+[/us/stat/128/4043]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F4043
 [/us/pl/109/280]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280
 [/us/pl/101/140/s203/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F140%2Fs203%2Fa%2F1
 [/us/pl/99/514/s1151/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1151%2Fb
@@ -683,6 +721,11 @@
 [/us/pl/100/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203
 [/us/pl/100/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647
 [/us/pl/101/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239
+[/us/pl/113/295/s208/b/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs208%2Fb%2F2%2FA
+[/us/pl/113/295/s208/b/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs208%2Fb%2F2%2FB
+[/us/pl/113/295/s208/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs208%2Fb%2F1
+[/us/pl/113/295/s221/a/39/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs221%2Fa%2F39%2FB
+[/us/pl/113/295/s206/c/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs206%2Fc%2F4
 [/us/pl/109/222/s516/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F222%2Fs516%2Fc%2F2
 [/us/pl/109/280/s1223/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280%2Fs1223%2Fd
 [/us/pl/109/280/s1201/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280%2Fs1201%2Fb%2F2
@@ -785,6 +828,15 @@
 [/us/pl/87/834]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F834
 [/us/pl/87/834]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F834
 [/us/pl/85/866]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F866
+[/us/pl/113/295/s221/a/39/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs221%2Fa%2F39%2FB
+[/us/pl/113/295/s221/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs221%2Fb
+[/us/usc/t26/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs1
+[/us/pl/113/295/s206/c/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs206%2Fc%2F4
+[/us/pl/113/295/s206/g/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs206%2Fg%2F1
+[/us/usc/t26/s3302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs3302
+[/us/pl/113/295/s208/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs208%2Fb
+[/us/pl/113/295/s208/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs208%2Fh
+[/us/usc/t26/s6651]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs6651
 [/us/pl/109/280/s1201/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280%2Fs1201%2Fb%2F2
 [/us/pl/109/280/s1201/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280%2Fs1201%2Fc%2F2
 [/us/usc/t26/s6034]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs6034

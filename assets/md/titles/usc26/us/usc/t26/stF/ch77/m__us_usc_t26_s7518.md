@@ -217,11 +217,7 @@
 
         (4) __Interest rate__ 
 
-        For purposes of paragraph (3)(C)(ii), the applicable rate of interest for any nonqualified withdrawal—
-
-            (A) made in a taxable year beginning in 1970 or 1971 is 8 percent, or
-
-            (B) made in a taxable year beginning after 1971, shall be determined and published jointly by the Secretary of the Treasury or his delegate and the applicable Secretary and shall bear a relationship to 8 percent which the Secretaries determine under joint regulations to be comparable to the relationship which the money rates and investment yields for the calendar year immediately preceding the beginning of the taxable year bear to the money rates and investment yields for the calendar year 1970.
+            For purposes of paragraph (3)(C)(ii), the applicable rate of interest for any nonqualified withdrawal shall be determined and published jointly by the Secretary of the Treasury or his delegate and the applicable Secretary and shall bear a relationship to 8 percent which the Secretaries determine under joint regulations to be comparable to the relationship which the money rates and investment yields for the calendar year immediately preceding the beginning of the taxable year bear to the money rates and investment yields for the calendar year 1970.
 
         (5) __Amount not withdrawn from fund after 25 years from deposit taxed as nonqualified withdrawal__ 
 
@@ -359,7 +355,7 @@
 
         For purposes of this section, any term defined in section 607(k) of the Merchant Marine Act, 1936 which is also used in this section (including the definition of “Secretary”) shall have the meaning given such term by such section 607(k) as in effect on the date of the enactment of this section.
 
-(Added [Pub. L. 99–514, title II, § 261(b)][/us/pl/99/514/s261/b], Oct. 22, 1986, [100 Stat. 2208][/us/stat/100/2208]; amended [Pub. L. 100–647, title I][/us/pl/100/647], §§ 1002(m)(1), 1018(u)(23), Nov. 10, 1988, [102 Stat. 3382][/us/stat/102/3382], 3591; [Pub. L. 101–508, title XI, § 11101(d)(7)(A)][/us/pl/101/508/s11101/d/7/A], Nov. 5, 1990, [104 Stat. 1388–405][/us/stat/104/1388-405]; [Pub. L. 105–34, title III, § 311(c)(2)][/us/pl/105/34/s311/c/2], Aug. 5, 1997, [111 Stat. 835][/us/stat/111/835]; [Pub. L. 108–27, title III, § 301(a)(2)(D)][/us/pl/108/27/s301/a/2/D], May 28, 2003, [117 Stat. 758][/us/stat/117/758]; [Pub. L. 109–304, § 17(e)(6)][/us/pl/109/304/s17/e/6], Oct. 6, 2006, [120 Stat. 1708][/us/stat/120/1708]; [Pub. L. 112–240, title I, § 102(c)(1)(D)][/us/pl/112/240/s102/c/1/D], Jan. 2, 2013, [126 Stat. 2319][/us/stat/126/2319].)
+(Added [Pub. L. 99–514, title II, § 261(b)][/us/pl/99/514/s261/b], Oct. 22, 1986, [100 Stat. 2208][/us/stat/100/2208]; amended [Pub. L. 100–647, title I][/us/pl/100/647], §§ 1002(m)(1), 1018(u)(23), Nov. 10, 1988, [102 Stat. 3382][/us/stat/102/3382], 3591; [Pub. L. 101–508, title XI, § 11101(d)(7)(A)][/us/pl/101/508/s11101/d/7/A], Nov. 5, 1990, [104 Stat. 1388–405][/us/stat/104/1388-405]; [Pub. L. 105–34, title III, § 311(c)(2)][/us/pl/105/34/s311/c/2], Aug. 5, 1997, [111 Stat. 835][/us/stat/111/835]; [Pub. L. 108–27, title III, § 301(a)(2)(D)][/us/pl/108/27/s301/a/2/D], May 28, 2003, [117 Stat. 758][/us/stat/117/758]; [Pub. L. 109–304, § 17(e)(6)][/us/pl/109/304/s17/e/6], Oct. 6, 2006, [120 Stat. 1708][/us/stat/120/1708]; [Pub. L. 112–240, title I, § 102(c)(1)(D)][/us/pl/112/240/s102/c/1/D], Jan. 2, 2013, [126 Stat. 2319][/us/stat/126/2319]; [Pub. L. 113–295, div. A, title II, § 221(a)(117)][/us/pl/113/295/s221/a/117], Dec. 19, 2014, [128 Stat. 4054][/us/stat/128/4054].)
 
  __References in Text__ 
 
@@ -370,6 +366,14 @@
     The date of the enactment of this section, referred to in subsec. (i), is the date of enactment of [Pub. L. 99–514][/us/pl/99/514], which was approved Oct. 22, 1986.
 
  __Amendments__ 
+
+    2014—Subsec. (g)(4). [Pub. L. 113–295][/us/pl/113/295], which directed substitution of “any nonqualified withdrawal shall be determined” for “any nonqualified withdrawal” and all that followed through “ ‘shall be determined”, was executed by substituting “any nonqualified withdrawal shall be determined” for “any nonqualified withdrawal—
+
+    “(A) made in a taxable year beginning in 1970 or 1971 is 8 percent, or
+
+    “(B) made in a taxable year beginning after 1971, shall be determined”
+
+    to reflect the probable intent of Congress.
 
     2013—Subsec. (g)(6)(A). [Pub. L. 112–240][/us/pl/112/240] substituted “20 percent” for “15 percent” in concluding provisions.
 
@@ -388,6 +392,10 @@
     1988—Subsec. (g)(1). [Pub. L. 100–647, § 1018(u)(23)][/us/pl/100/647/s1018/u/23], substituted “not a qualified withdrawal” for “not qualified withdrawal”.
 
     Subsec. (g)(6)(A). [Pub. L. 100–647, § 1002(m)(1)][/us/pl/100/647/s1002/m/1], substituted “section 1(j)” for “section 1(i)”.
+
+ __Effective Date of 2014 Amendment__ 
+
+    Amendment by [Pub. L. 113–295][/us/pl/113/295] effective Dec. 19, 2014, subject to a savings provision, see [section 221(b) of Pub. L. 113–295][/us/pl/113/295/s221/b], set out as a note under [section 1 of this title][/us/usc/t26/s1].
 
  __Effective Date of 2013 Amendment__ 
 
@@ -442,6 +450,8 @@
 [/us/stat/120/1708]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1708
 [/us/pl/112/240/s102/c/1/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F240%2Fs102%2Fc%2F1%2FD
 [/us/stat/126/2319]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F2319
+[/us/pl/113/295/s221/a/117]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs221%2Fa%2F117
+[/us/stat/128/4054]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F4054
 [/us/act/1936-06-29/ch858]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1936-06-29%2Fch858
 [/us/stat/49/2004]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F2004
 [/us/act/1938-06-23/ch600/s22]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-23%2Fch600%2Fs22
@@ -458,6 +468,7 @@
 [/us/stat/120/1586]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1586
 [/us/usc/t46/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs101
 [/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
+[/us/pl/113/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295
 [/us/pl/112/240]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F240
 [/us/pl/109/304/s17/e/6/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304%2Fs17%2Fe%2F6%2FA
 [/us/pl/109/304/s17/e/6/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304%2Fs17%2Fe%2F6%2FB
@@ -467,6 +478,9 @@
 [/us/pl/101/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508
 [/us/pl/100/647/s1018/u/23]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs1018%2Fu%2F23
 [/us/pl/100/647/s1002/m/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs1002%2Fm%2F1
+[/us/pl/113/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295
+[/us/pl/113/295/s221/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs221%2Fb
+[/us/usc/t26/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs1
 [/us/pl/112/240]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F240
 [/us/pl/112/240/s102/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F240%2Fs102%2Fd%2F1
 [/us/usc/t26/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs1

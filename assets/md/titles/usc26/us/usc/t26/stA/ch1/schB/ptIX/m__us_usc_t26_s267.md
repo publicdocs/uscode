@@ -101,11 +101,11 @@
 
     If—
 
-        (1) in the case of a sale or exchange of property to the taxpayer a loss sustained by the transferor is not allowable to the transferor as a deduction by reason of subsection (a)(1) (or by reason of section 24(b) of the Internal Revenue Code of 1939); and
+        (1) in the case of a sale or exchange of property to the taxpayer a loss sustained by the transferor is not allowable to the transferor as a deduction by reason of subsection (a)(1); and
 
-        (2) after December 31, 1953, the taxpayer sells or otherwise disposes of such property (or of other property the basis of which in his hands is determined directly or indirectly by reference to such property) at a gain,
+        (2) the taxpayer sells or otherwise disposes of such property (or of other property the basis of which in his hands is determined directly or indirectly by reference to such property) at a gain,
 
-        then such gain shall be recognized only to the extent that it exceeds so much of such loss as is properly allocable to the property sold or otherwise disposed of by the taxpayer. This subsection applies with respect to taxable years ending after December 31, 1953. This subsection shall not apply if the loss sustained by the transferor is not allowable to the transferor as a deduction by reason of section 1091 (relating to wash sales) or by reason of section 118 of the Internal Revenue Code of 1939.
+        then such gain shall be recognized only to the extent that it exceeds so much of such loss as is properly allocable to the property sold or otherwise disposed of by the taxpayer. This subsection shall not apply if the loss sustained by the transferor is not allowable to the transferor as a deduction by reason of section 1091 (relating to wash sales).
 
     (e) __Special rules for pass-thru entities__ 
 
@@ -245,13 +245,15 @@
 
         Subsection (a)(1) shall not apply to any transfer described in section 1041(a) (relating to transfers of property between spouses or incident to divorce).
 
-([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 78][/us/stat/68A/78]; [Pub. L. 95–628, § 2(a)][/us/pl/95/628/s2/a], Nov. 10, 1978, [92 Stat. 3627][/us/stat/92/3627]; [Pub. L. 97–354, § 3(h)][/us/pl/97/354/s3/h], Oct. 19, 1982, [96 Stat. 1689][/us/stat/96/1689]; [Pub. L. 98–369, div. A, title I, § 174(a)][/us/pl/98/369/s174/a]–(b)(4), title VII, § 721(s), July 18, 1984, [98 Stat. 704–707][/us/stat/98/704-707], 970; [Pub. L. 99–514, title VIII][/us/pl/99/514], §§ 803(b)(5), 806(c)(2), title XVIII, §§ 1812(c)(1), (2), (3)(C), (4)(A), 1842(a), Oct. 22, 1986, [100 Stat. 2356][/us/stat/100/2356], 2364, 2834, 2835, 2852; [Pub. L. 100–647, title I][/us/pl/100/647], §§ 1006(e)(9), 1008(e)(6), Nov. 10, 1988, [102 Stat. 3401][/us/stat/102/3401], 3441; [Pub. L. 105–34, title XIII, § 1308(a)][/us/pl/105/34/s1308/a], title XVI, § 1604(e)(1), Aug. 5, 1997, [111 Stat. 1041][/us/stat/111/1041], 1098; [Pub. L. 106–170, title V, § 532(c)(2)(C)][/us/pl/106/170/s532/c/2/C], Dec. 17, 1999, [113 Stat. 1930][/us/stat/113/1930]; [Pub. L. 108–357, title VIII, § 841(b)][/us/pl/108/357/s841/b], Oct. 22, 2004, [118 Stat. 1598][/us/stat/118/1598]; [Pub. L. 111–325, title III, § 306(b)][/us/pl/111/325/s306/b], Dec. 22, 2010, [124 Stat. 3549][/us/stat/124/3549].)
-
- __References in Text__ 
-
-    Sections 24(b) and 118 of the Internal Revenue Code of 1939, referred to in subsec. (d), were classified to sections 24(b) and 118 of former Title 26, Internal Revenue Code. Sections 24(b) and 118 were repealed by [section 7851(a)(1) of this title][/us/usc/t26/s7851/a/1]. For table of comparisons of the 1939 Code to the 1986 Code \[formerly I.R.C. 1954\], see Table I preceding [section 1 of this title][/us/usc/t26/s1]. See, also, [section 7851(e) of this title][/us/usc/t26/s7851/e] for provision that references in the 1986 Code to a provision of the 1939 Code, not then applicable, shall be deemed a reference to the corresponding provision of the 1986 Code, which is then applicable.
+([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 78][/us/stat/68A/78]; [Pub. L. 95–628, § 2(a)][/us/pl/95/628/s2/a], Nov. 10, 1978, [92 Stat. 3627][/us/stat/92/3627]; [Pub. L. 97–354, § 3(h)][/us/pl/97/354/s3/h], Oct. 19, 1982, [96 Stat. 1689][/us/stat/96/1689]; [Pub. L. 98–369, div. A, title I, § 174(a)][/us/pl/98/369/s174/a]–(b)(4), title VII, § 721(s), July 18, 1984, [98 Stat. 704–707][/us/stat/98/704-707], 970; [Pub. L. 99–514, title VIII][/us/pl/99/514], §§ 803(b)(5), 806(c)(2), title XVIII, §§ 1812(c)(1), (2), (3)(C), (4)(A), 1842(a), Oct. 22, 1986, [100 Stat. 2356][/us/stat/100/2356], 2364, 2834, 2835, 2852; [Pub. L. 100–647, title I][/us/pl/100/647], §§ 1006(e)(9), 1008(e)(6), Nov. 10, 1988, [102 Stat. 3401][/us/stat/102/3401], 3441; [Pub. L. 105–34, title XIII, § 1308(a)][/us/pl/105/34/s1308/a], title XVI, § 1604(e)(1), Aug. 5, 1997, [111 Stat. 1041][/us/stat/111/1041], 1098; [Pub. L. 106–170, title V, § 532(c)(2)(C)][/us/pl/106/170/s532/c/2/C], Dec. 17, 1999, [113 Stat. 1930][/us/stat/113/1930]; [Pub. L. 108–357, title VIII, § 841(b)][/us/pl/108/357/s841/b], Oct. 22, 2004, [118 Stat. 1598][/us/stat/118/1598]; [Pub. L. 111–325, title III, § 306(b)][/us/pl/111/325/s306/b], Dec. 22, 2010, [124 Stat. 3549][/us/stat/124/3549]; [Pub. L. 113–295, div. A, title II, § 221(a)(44)][/us/pl/113/295/s221/a/44], Dec. 19, 2014, [128 Stat. 4044][/us/stat/128/4044].)
 
  __Amendments__ 
+
+    2014—Subsec. (d). [Pub. L. 113–295][/us/pl/113/295], in concluding provisions, struck out “This subsection applies with respect to taxable years ending after December 31, 1953. ” after “by the taxpayer.” and “or by reason of section 118 of the Internal Revenue Code of 1939” after “sales)”.
+
+    Subsec. (d)(1). [Pub. L. 113–295][/us/pl/113/295] struck out “(or by reason of section 24(b) of the Internal Revenue Code of 1939)” after “subsection (a)(1)”.
+
+    Subsec. (d)(2). [Pub. L. 113–295][/us/pl/113/295] struck out “after December 31, 1953,” before “the taxpayer”.
 
     2010—Subsec. (f)(3)(D). [Pub. L. 111–325][/us/pl/111/325] added subpar. (D).
 
@@ -304,6 +306,10 @@
     Subsec. (f). [Pub. L. 97–354, § 3(h)(2)][/us/pl/97/354/s3/h/2], added subsec. (f).
 
     1978—Subsec. (e). [Pub. L. 95–628][/us/pl/95/628] added subsec. (e).
+
+ __Effective Date of 2014 Amendment__ 
+
+    Amendment by [Pub. L. 113–295][/us/pl/113/295] effective Dec. 19, 2014, subject to a savings provision, see [section 221(b) of Pub. L. 113–295][/us/pl/113/295/s221/b], set out as a note under [section 1 of this title][/us/usc/t26/s1].
 
  __Effective Date of 2010 Amendment__ 
 
@@ -428,9 +434,11 @@
 [/us/stat/118/1598]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1598
 [/us/pl/111/325/s306/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F325%2Fs306%2Fb
 [/us/stat/124/3549]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3549
-[/us/usc/t26/s7851/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs7851%2Fa%2F1
-[/us/usc/t26/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs1
-[/us/usc/t26/s7851/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs7851%2Fe
+[/us/pl/113/295/s221/a/44]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs221%2Fa%2F44
+[/us/stat/128/4044]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F4044
+[/us/pl/113/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295
+[/us/pl/113/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295
+[/us/pl/113/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295
 [/us/pl/111/325]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F325
 [/us/pl/108/357]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357
 [/us/pl/106/170]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F170
@@ -459,6 +467,9 @@
 [/us/pl/97/354/s3/h/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F354%2Fs3%2Fh%2F1
 [/us/pl/97/354/s3/h/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F354%2Fs3%2Fh%2F2
 [/us/pl/95/628]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F628
+[/us/pl/113/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295
+[/us/pl/113/295/s221/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs221%2Fb
+[/us/usc/t26/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs1
 [/us/pl/111/325/s306/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F325%2Fs306%2Fc
 [/us/stat/124/3550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3550
 [/us/usc/t26/s302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs302

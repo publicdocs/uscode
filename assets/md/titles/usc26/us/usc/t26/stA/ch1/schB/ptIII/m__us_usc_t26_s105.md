@@ -45,7 +45,7 @@
 
     (f) __Rules for application of section 213__ 
 
-        For purposes of section 213(a) (relating to medical, dental, etc., expenses) amounts excluded from gross income under subsection (c) or (d) shall not be considered as compensation (by insurance or otherwise) for expenses paid for medical care.
+        For purposes of section 213(a) (relating to medical, dental, etc., expenses) amounts excluded from gross income under subsection (c) shall not be considered as compensation (by insurance or otherwise) for expenses paid for medical care.
 
     (g) __Self-employed individual not considered an employee__ 
 
@@ -153,13 +153,15 @@
 
             (B) has received a favorable ruling from the Internal Revenue Service that the trust’s income is not includible in gross income under section 115.
 
-([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 30][/us/stat/68A/30]; [Pub. L. 87–792, § 7(e)][/us/pl/87/792/s7/e], Oct. 10, 1962, [76 Stat. 829][/us/stat/76/829]; [Pub. L. 88–272, title II, § 205(a)][/us/pl/88/272/s205/a], Feb. 26, 1964, [78 Stat. 38][/us/stat/78/38]; [Pub. L. 94–455, title V, § 505(a)][/us/pl/94/455/s505/a], title XIX, § 1901(c)(2), Oct. 4, 1976, [90 Stat. 1566][/us/stat/90/1566], 1803; [Pub. L. 95–600, title III, § 366(a)][/us/pl/95/600/s366/a], title VII, § 701(c)(1), Nov. 6, 1978, [92 Stat. 2855][/us/stat/92/2855], 2899; [Pub. L. 96–222, title I, § 103(a)(13)(B)][/us/pl/96/222/s103/a/13/B], (C), Apr. 1, 1980, [94 Stat. 213][/us/stat/94/213]; [Pub. L. 96–605, title II, § 201(b)(1)][/us/pl/96/605/s201/b/1], Dec. 28, 1980, [94 Stat. 3527][/us/stat/94/3527]; [Pub. L. 96–613, § 5(b)(1)][/us/pl/96/613/s5/b/1], Dec. 28, 1980, [94 Stat. 3581][/us/stat/94/3581]; [Pub. L. 97–34, title I][/us/pl/97/34], §§ 103(c)(2), 111(b)(4), Aug. 13, 1981, [95 Stat. 188][/us/stat/95/188], 194; [Pub. L. 97–248, title II, § 202(b)(3)(C)][/us/pl/97/248/s202/b/3/C], Sept. 3, 1982, [96 Stat. 421][/us/stat/96/421]; [Pub. L. 98–21, title I, § 122(b)][/us/pl/98/21/s122/b], Apr. 20, 1983, [97 Stat. 87][/us/stat/97/87]; [Pub. L. 98–76, title II, § 241(a)][/us/pl/98/76/s241/a], Aug. 12, 1983, [97 Stat. 430][/us/stat/97/430]; [Pub. L. 98–369, div. A, title IV, § 423(b)(2)][/us/pl/98/369/s423/b/2], July 18, 1984, [98 Stat. 800][/us/stat/98/800]; [Pub. L. 99–514, title XI, § 1151(c)(2)][/us/pl/99/514/s1151/c/2], title XIII, § 1301(j)(9), Oct. 22, 1986, [100 Stat. 2503][/us/stat/100/2503], 2658; [Pub. L. 101–140, title II, § 203(a)(1)][/us/pl/101/140/s203/a/1], Nov. 8, 1989, [103 Stat. 830][/us/stat/103/830]; [Pub. L. 108–311, title II, § 207(9)][/us/pl/108/311/s207/9], Oct. 4, 2004, [118 Stat. 1177][/us/stat/118/1177]; [Pub. L. 110–458, title I, § 124(a)][/us/pl/110/458/s124/a], Dec. 23, 2008, [122 Stat. 5114][/us/stat/122/5114]; [Pub. L. 111–152, title I, § 1004(d)(1)][/us/pl/111/152/s1004/d/1], Mar. 30, 2010, [124 Stat. 1035][/us/stat/124/1035].)
+([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 30][/us/stat/68A/30]; [Pub. L. 87–792, § 7(e)][/us/pl/87/792/s7/e], Oct. 10, 1962, [76 Stat. 829][/us/stat/76/829]; [Pub. L. 88–272, title II, § 205(a)][/us/pl/88/272/s205/a], Feb. 26, 1964, [78 Stat. 38][/us/stat/78/38]; [Pub. L. 94–455, title V, § 505(a)][/us/pl/94/455/s505/a], title XIX, § 1901(c)(2), Oct. 4, 1976, [90 Stat. 1566][/us/stat/90/1566], 1803; [Pub. L. 95–600, title III, § 366(a)][/us/pl/95/600/s366/a], title VII, § 701(c)(1), Nov. 6, 1978, [92 Stat. 2855][/us/stat/92/2855], 2899; [Pub. L. 96–222, title I, § 103(a)(13)(B)][/us/pl/96/222/s103/a/13/B], (C), Apr. 1, 1980, [94 Stat. 213][/us/stat/94/213]; [Pub. L. 96–605, title II, § 201(b)(1)][/us/pl/96/605/s201/b/1], Dec. 28, 1980, [94 Stat. 3527][/us/stat/94/3527]; [Pub. L. 96–613, § 5(b)(1)][/us/pl/96/613/s5/b/1], Dec. 28, 1980, [94 Stat. 3581][/us/stat/94/3581]; [Pub. L. 97–34, title I][/us/pl/97/34], §§ 103(c)(2), 111(b)(4), Aug. 13, 1981, [95 Stat. 188][/us/stat/95/188], 194; [Pub. L. 97–248, title II, § 202(b)(3)(C)][/us/pl/97/248/s202/b/3/C], Sept. 3, 1982, [96 Stat. 421][/us/stat/96/421]; [Pub. L. 98–21, title I, § 122(b)][/us/pl/98/21/s122/b], Apr. 20, 1983, [97 Stat. 87][/us/stat/97/87]; [Pub. L. 98–76, title II, § 241(a)][/us/pl/98/76/s241/a], Aug. 12, 1983, [97 Stat. 430][/us/stat/97/430]; [Pub. L. 98–369, div. A, title IV, § 423(b)(2)][/us/pl/98/369/s423/b/2], July 18, 1984, [98 Stat. 800][/us/stat/98/800]; [Pub. L. 99–514, title XI, § 1151(c)(2)][/us/pl/99/514/s1151/c/2], title XIII, § 1301(j)(9), Oct. 22, 1986, [100 Stat. 2503][/us/stat/100/2503], 2658; [Pub. L. 101–140, title II, § 203(a)(1)][/us/pl/101/140/s203/a/1], Nov. 8, 1989, [103 Stat. 830][/us/stat/103/830]; [Pub. L. 108–311, title II, § 207(9)][/us/pl/108/311/s207/9], Oct. 4, 2004, [118 Stat. 1177][/us/stat/118/1177]; [Pub. L. 110–458, title I, § 124(a)][/us/pl/110/458/s124/a], Dec. 23, 2008, [122 Stat. 5114][/us/stat/122/5114]; [Pub. L. 111–152, title I, § 1004(d)(1)][/us/pl/111/152/s1004/d/1], Mar. 30, 2010, [124 Stat. 1035][/us/stat/124/1035]; [Pub. L. 113–295, div. A, title II, § 221(a)(16)][/us/pl/113/295/s221/a/16], Dec. 19, 2014, [128 Stat. 4039][/us/stat/128/4039].)
 
  __References in Text__ 
 
     Section 2(a) of the Railroad Unemployment Insurance Act, referred to in subsec. (i), is classified to [section 352(a) of Title 45][/us/usc/t45/s352/a], Railroads.
 
  __Amendments__ 
+
+    2014—Subsec. (f). [Pub. L. 113–295][/us/pl/113/295] struck out “or (d)” after “subsection (c)”.
 
     2010—Subsec. (b). [Pub. L. 111–152][/us/pl/111/152] substituted “his dependents” for “and his dependents” and inserted “, and any child (as defined in section 152(f)(1)) of the taxpayer who as of the end of the taxable year has not attained age 27” after “thereof)”.
 
@@ -206,6 +208,10 @@
     1964—Subsec. (d). [Pub. L. 88–272][/us/pl/88/272] substituted provisions stating that “The preceding sentence shall not apply to amounts attributable to the first 30” days if the amounts exceed 75 percent of regular weekly wages, and if they do not exceed said 75 percent, the first sentence of this subsection shall not apply to the extent the amounts exceed $75 weekly and shall not apply to amounts attributable to the first 7 calendar days unless the employee is hospitalized for injury or sickness for at least 1 day in such period, for provisions stating that said “preceding sentence” did not apply in cases of sickness, to amounts attributable to the first 7 days unless the employee was hospitalized for sickness for at least 1 day during such period.
 
     1962—Subsec. (g). [Pub. L. 87–792][/us/pl/87/792] added subsec. (g).
+
+ __Effective Date of 2014 Amendment__ 
+
+    Amendment by [Pub. L. 113–295][/us/pl/113/295] effective Dec. 19, 2014, subject to a savings provision, see [section 221(b) of Pub. L. 113–295][/us/pl/113/295/s221/b], set out as a note under [section 1 of this title][/us/usc/t26/s1].
 
  __Effective Date of 2008 Amendment__ 
 
@@ -380,7 +386,10 @@
 [/us/stat/122/5114]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F5114
 [/us/pl/111/152/s1004/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F152%2Fs1004%2Fd%2F1
 [/us/stat/124/1035]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1035
+[/us/pl/113/295/s221/a/16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs221%2Fa%2F16
+[/us/stat/128/4039]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F4039
 [/us/usc/t45/s352/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft45%2Fs352%2Fa
+[/us/pl/113/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295
 [/us/pl/111/152]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F152
 [/us/pl/110/458]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F458
 [/us/pl/108/311]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F311
@@ -408,6 +417,9 @@
 [/us/pl/94/455/s1901/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1901%2Fc%2F2
 [/us/pl/88/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F272
 [/us/pl/87/792]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F792
+[/us/pl/113/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295
+[/us/pl/113/295/s221/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs221%2Fb
+[/us/usc/t26/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs1
 [/us/pl/110/458/s124/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F458%2Fs124%2Fb
 [/us/stat/122/5115]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F5115
 [/us/pl/108/311]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F311

@@ -139,7 +139,7 @@
 
             (D) __Special rules__ 
 
-                For purposes of this subsection, rules similar to the rules of section 168(k)(2)(E) shall apply, except that clause (i) thereof shall be applied without regard to “and before January 1, 2014”, and clause (iv) thereof shall be applied by substituting “qualified New York Liberty Zone property” for “qualified property”.
+                For purposes of this subsection, rules similar to the rules of section 168(k)(2)(E) shall apply, except that clause (i) thereof shall be applied without regard to “and before January 1, 2015”, and clause (iv) thereof shall be applied by substituting “qualified New York Liberty Zone property” for “qualified property”.
 
             (E) __Allowance against alternative minimum tax__ 
 
@@ -325,13 +325,15 @@
 
         For purposes of this section, the terms “Governor” and “Mayor” mean the Governor of the State of New York and the Mayor of the City of New York, New York, respectively.
 
-(Added [Pub. L. 107–147, title III, § 301(a)][/us/pl/107/147/s301/a], Mar. 9, 2002, [116 Stat. 33][/us/stat/116/33]; amended [Pub. L. 108–27, title II, § 201(c)(2)][/us/pl/108/27/s201/c/2], May 28, 2003, [117 Stat. 757][/us/stat/117/757]; [Pub. L. 108–311, title III, § 309(a)][/us/pl/108/311/s309/a]–(c), title IV, § 403(c), Oct. 4, 2004, [118 Stat. 1179][/us/stat/118/1179], 1180, 1187; [Pub. L. 109–135, title IV][/us/pl/109/135], §§ 405(a)(2), 412(ss), Dec. 21, 2005, [119 Stat. 2634][/us/stat/119/2634], 2640; [Pub. L. 110–185, title I, § 103(c)(8)][/us/pl/110/185/s103/c/8], Feb. 13, 2008, [122 Stat. 619][/us/stat/122/619]; [Pub. L. 111–240, title II, § 2022(b)(6)][/us/pl/111/240/s2022/b/6], Sept. 27, 2010, [124 Stat. 2558][/us/stat/124/2558]; [Pub. L. 111–312, title IV, § 401(d)(6)][/us/pl/111/312/s401/d/6], title VII, § 761(a), Dec. 17, 2010, [124 Stat. 3306][/us/stat/124/3306], 3323; [Pub. L. 112–240, title III][/us/pl/112/240], §§ 328(a), 331(e)(4), Jan. 2, 2013, [126 Stat. 2334][/us/stat/126/2334], 2337.)
+(Added [Pub. L. 107–147, title III, § 301(a)][/us/pl/107/147/s301/a], Mar. 9, 2002, [116 Stat. 33][/us/stat/116/33]; amended [Pub. L. 108–27, title II, § 201(c)(2)][/us/pl/108/27/s201/c/2], May 28, 2003, [117 Stat. 757][/us/stat/117/757]; [Pub. L. 108–311, title III, § 309(a)][/us/pl/108/311/s309/a]–(c), title IV, § 403(c), Oct. 4, 2004, [118 Stat. 1179][/us/stat/118/1179], 1180, 1187; [Pub. L. 109–135, title IV][/us/pl/109/135], §§ 405(a)(2), 412(ss), Dec. 21, 2005, [119 Stat. 2634][/us/stat/119/2634], 2640; [Pub. L. 110–185, title I, § 103(c)(8)][/us/pl/110/185/s103/c/8], Feb. 13, 2008, [122 Stat. 619][/us/stat/122/619]; [Pub. L. 111–240, title II, § 2022(b)(6)][/us/pl/111/240/s2022/b/6], Sept. 27, 2010, [124 Stat. 2558][/us/stat/124/2558]; [Pub. L. 111–312, title IV, § 401(d)(6)][/us/pl/111/312/s401/d/6], title VII, § 761(a), Dec. 17, 2010, [124 Stat. 3306][/us/stat/124/3306], 3323; [Pub. L. 112–240, title III][/us/pl/112/240], §§ 328(a), 331(e)(4), Jan. 2, 2013, [126 Stat. 2334][/us/stat/126/2334], 2337; [Pub. L. 113–295, div. A, title I, § 125(d)(4)][/us/pl/113/295/s125/d/4], Dec. 19, 2014, [128 Stat. 4017][/us/stat/128/4017].)
 
  __References in Text__ 
 
     The date of the enactment of this section, referred to in subsecs. (d)(2)(D) and (e)(1), is the date of enactment of [Pub. L. 107–147][/us/pl/107/147], which was approved Mar. 9, 2002.
 
  __Amendments__ 
+
+    2014—Subsec. (b)(2)(D). [Pub. L. 113–295][/us/pl/113/295] substituted “January 1, 2015” for “January 1, 2014”.
 
     2013—Subsec. (b)(2)(D). [Pub. L. 112–240, § 331(e)(4)][/us/pl/112/240/s331/e/4], substituted “January 1, 2014” for “January 1, 2013”.
 
@@ -374,6 +376,10 @@
     Subsec. (f)(2). [Pub. L. 108–311, § 403(c)(4)][/us/pl/108/311/s403/c/4], inserted “, determined without regard to subparagraph (C)(i) thereof” before period at end.
 
     2003—Subsec. (b)(2)(C)(i). [Pub. L. 108–27][/us/pl/108/27], which directed amendment of heading by substituting “Bonus depreciation property under section 168(k)” for “30-percent additional allowance property”, was executed by making the substitution for “30 percent additional allowance property” to reflect the probable intent of Congress.
+
+ __Effective Date of 2014 Amendment__ 
+
+    Amendment by [Pub. L. 113–295][/us/pl/113/295] applicable to property placed in service after Dec. 31, 2013, in taxable years ending after such date, see [section 125(e) of Pub. L. 113–295][/us/pl/113/295/s125/e], set out as a note under [section 168 of this title][/us/usc/t26/s168].
 
  __Effective Date of 2013 Amendment__ 
 
@@ -436,7 +442,10 @@
 [/us/stat/124/3306]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3306
 [/us/pl/112/240]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F240
 [/us/stat/126/2334]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F2334
+[/us/pl/113/295/s125/d/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs125%2Fd%2F4
+[/us/stat/128/4017]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F4017
 [/us/pl/107/147]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F147
+[/us/pl/113/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295
 [/us/pl/112/240/s331/e/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F240%2Fs331%2Fe%2F4
 [/us/pl/112/240/s328/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F240%2Fs328%2Fa
 [/us/pl/111/312/s401/d/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F312%2Fs401%2Fd%2F6
@@ -458,6 +467,9 @@
 [/us/pl/108/311/s309/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F311%2Fs309%2Fc
 [/us/pl/108/311/s403/c/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F311%2Fs403%2Fc%2F4
 [/us/pl/108/27]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F27
+[/us/pl/113/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295
+[/us/pl/113/295/s125/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs125%2Fe
+[/us/usc/t26/s168]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs168
 [/us/pl/112/240/s328/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F240%2Fs328%2Fb
 [/us/stat/126/2334]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F2334
 [/us/pl/112/240/s331/e/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F240%2Fs331%2Fe%2F4

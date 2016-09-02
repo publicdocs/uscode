@@ -185,13 +185,11 @@
 
         For purposes of determining adjusted current earnings under section 56(g), acquisition expenses with respect to contracts described in clause (iii) of subsection (e)(1)(B) shall be capitalized and amortized in accordance with the treatment generally required under generally accepted accounting principles as if this subsection applied to such contracts for all taxable years.
 
-    (j) __Transitional rule__ 
-
-        In the case of any taxable year which includes September 30, 1990, the amount taken into account as the net premiums (or negative capitalization amount) with respect to any category of specified insurance contracts shall be the amount which bears the same ratio to the amount which (but for this subsection) would be so taken into account as the number of days in such taxable year on or after September 30, 1990, bears to the total number of days in such taxable year.
-
-(Added [Pub. L. 101–508, title XI, § 11301(a)][/us/pl/101/508/s11301/a], Nov. 5, 1990, [104 Stat. 1388–445][/us/stat/104/1388-445]; amended [Pub. L. 103–66, title XIII, § 13261(d)][/us/pl/103/66/s13261/d], Aug. 10, 1993, [107 Stat. 539][/us/stat/107/539]; [Pub. L. 104–191, title III, § 301(h)][/us/pl/104/191/s301/h], Aug. 21, 1996, [110 Stat. 2052][/us/stat/110/2052]; [Pub. L. 106–554, § 1(a)(7)][/us/pl/106/554/s1/a/7] \[title II, § 202(a)(5), (b)(10)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–628, 2763A–629; [Pub. L. 108–173, title XII, § 1201(h)][/us/pl/108/173/s1201/h], Dec. 8, 2003, [117 Stat. 2479][/us/stat/117/2479]; [Pub. L. 109–280, title VIII, § 844(e)][/us/pl/109/280/s844/e], Aug. 17, 2006, [120 Stat. 1013][/us/stat/120/1013].)
+(Added [Pub. L. 101–508, title XI, § 11301(a)][/us/pl/101/508/s11301/a], Nov. 5, 1990, [104 Stat. 1388–445][/us/stat/104/1388-445]; amended [Pub. L. 103–66, title XIII, § 13261(d)][/us/pl/103/66/s13261/d], Aug. 10, 1993, [107 Stat. 539][/us/stat/107/539]; [Pub. L. 104–191, title III, § 301(h)][/us/pl/104/191/s301/h], Aug. 21, 1996, [110 Stat. 2052][/us/stat/110/2052]; [Pub. L. 106–554, § 1(a)(7)][/us/pl/106/554/s1/a/7] \[title II, § 202(a)(5), (b)(10)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–628, 2763A–629; [Pub. L. 108–173, title XII, § 1201(h)][/us/pl/108/173/s1201/h], Dec. 8, 2003, [117 Stat. 2479][/us/stat/117/2479]; [Pub. L. 109–280, title VIII, § 844(e)][/us/pl/109/280/s844/e], Aug. 17, 2006, [120 Stat. 1013][/us/stat/120/1013]; [Pub. L. 113–295, div. A, title II, § 221(a)(70)][/us/pl/113/295/s221/a/70], Dec. 19, 2014, [128 Stat. 4048][/us/stat/128/4048].)
 
  __Amendments__ 
+
+    2014—Subsec. (j). [Pub. L. 113–295, § 221(a)(70)][/us/pl/113/295/s221/a/70], struck out subsec. (j) which read as follows: “In the case of any taxable year which includes September 30, 1990, the amount taken into account as the net premiums (or negative capitalization amount) with respect to any category of specified insurance contracts shall be the amount which bears the same ratio to the amount which (but for this subsection) would be so taken into account as the number of days in such taxable year on or after September 30, 1990, bears to the total number of days in such taxable year.”
 
     2006—Subsec. (e)(6). [Pub. L. 109–280][/us/pl/109/280] added par. (6).
 
@@ -204,6 +202,10 @@
     1996—Subsec. (e)(1)(B)(iv). [Pub. L. 104–191][/us/pl/104/191] added cl. (iv).
 
     1993—Subsec. (g). [Pub. L. 103–66][/us/pl/103/66] substituted “this section or section 197” for “this section”.
+
+ __Effective Date of 2014 Amendment__ 
+
+    Amendment by [Pub. L. 113–295][/us/pl/113/295] effective Dec. 19, 2014, subject to a savings provision, see [section 221(b) of Pub. L. 113–295][/us/pl/113/295/s221/b], set out as a note under [section 1 of this title][/us/usc/t26/s1].
 
  __Effective Date of 2006 Amendment__ 
 
@@ -246,12 +248,18 @@
 [/us/stat/117/2479]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2479
 [/us/pl/109/280/s844/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280%2Fs844%2Fe
 [/us/stat/120/1013]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1013
+[/us/pl/113/295/s221/a/70]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs221%2Fa%2F70
+[/us/stat/128/4048]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F4048
+[/us/pl/113/295/s221/a/70]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs221%2Fa%2F70
 [/us/pl/109/280]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280
 [/us/pl/108/173]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F173
 [/us/pl/106/554/s1/a/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F7
 [/us/pl/106/554/s1/a/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F7
 [/us/pl/104/191]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F191
 [/us/pl/103/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66
+[/us/pl/113/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295
+[/us/pl/113/295/s221/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs221%2Fb
+[/us/usc/t26/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs1
 [/us/pl/109/280]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280
 [/us/pl/109/280]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280
 [/us/usc/t26/s72]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs72
