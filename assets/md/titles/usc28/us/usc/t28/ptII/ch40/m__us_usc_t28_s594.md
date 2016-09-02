@@ -115,7 +115,7 @@
 
         (3)  __Publication of reports__  __.—__ 
 
-        At the request of an independent counsel, the Public Printer shall cause to be printed any report previously released to the public under paragraph (2). The independent counsel shall certify the number of copies necessary for the public, and the Public Printer shall place the cost of the required number to the debit of such independent counsel. Additional copies shall be made available to the public through the depository library program and Superintendent of Documents sales program pursuant to sections 1702 and 1903 of title 44.
+        At the request of an independent counsel, the Director of the Government Publishing Office shall cause to be printed any report previously released to the public under paragraph (2). The independent counsel shall certify the number of copies necessary for the public, and the Director of the Government Publishing Office shall place the cost of the required number to the debit of such independent counsel. Additional copies shall be made available to the public through the depository library program and Superintendent of Documents sales program pursuant to sections 1702 and 1903 of title 44.
 
     (i)  __Independence From Department of Justice__  __.—__ 
 
@@ -223,7 +223,7 @@
 
         The Administrator of General Services, in consultation with the Director of the Administrative Office of the United States Courts, shall promptly provide appropriate office space for each independent counsel. Such office space shall be within a Federal building unless the Administrator of General Services determines that other arrangements would cost less. Until such office space is provided, the Administrative Office of the United States Courts shall provide newly appointed independent counsels immediately upon appointment with appropriate, temporary office space, equipment, and supplies.
 
-(Added [Pub. L. 95–521, title VI, § 601(a)][/us/pl/95/521/s601/a], Oct. 26, 1978, [92 Stat. 1869][/us/stat/92/1869]; amended [Pub. L. 97–409][/us/pl/97/409], §§ 2(a)(1), 6(a)–(c), Jan. 3, 1983, [96 Stat. 2039][/us/stat/96/2039], 2041; [Pub. L. 99–514, § 2][/us/pl/99/514/s2], Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095]; [Pub. L. 100–191, § 2][/us/pl/100/191/s2], Dec. 15, 1987, [101 Stat. 1300][/us/stat/101/1300]; [Pub. L. 103–270, § 3(a)][/us/pl/103/270/s3/a]–(f), (m), (o), June 30, 1994, [108 Stat. 732–734][/us/stat/108/732-734], 736; [Pub. L. 104–208, div. A, title I, § 101(a)][/us/pl/104/208/s101/a] \[title I, § 118\], Sept. 30, 1996, [110 Stat. 3009][/us/stat/110/3009], 3009–23.)
+(Added [Pub. L. 95–521, title VI, § 601(a)][/us/pl/95/521/s601/a], Oct. 26, 1978, [92 Stat. 1869][/us/stat/92/1869]; amended [Pub. L. 97–409][/us/pl/97/409], §§ 2(a)(1), 6(a)–(c), Jan. 3, 1983, [96 Stat. 2039][/us/stat/96/2039], 2041; [Pub. L. 99–514, § 2][/us/pl/99/514/s2], Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095]; [Pub. L. 100–191, § 2][/us/pl/100/191/s2], Dec. 15, 1987, [101 Stat. 1300][/us/stat/101/1300]; [Pub. L. 103–270, § 3(a)][/us/pl/103/270/s3/a]–(f), (m), (o), June 30, 1994, [108 Stat. 732–734][/us/stat/108/732-734], 736; [Pub. L. 104–208, div. A, title I, § 101(a)][/us/pl/104/208/s101/a] \[title I, § 118\], Sept. 30, 1996, [110 Stat. 3009][/us/stat/110/3009], 3009–23; [Pub. L. 113–235, div. H, title I, § 1301(d)][/us/pl/113/235/s1301/d], Dec. 16, 2014, [128 Stat. 2537][/us/stat/128/2537].)
 
  __References in Text__ 
 
@@ -273,6 +273,10 @@
 
     Subsec. (g). [Pub. L. 97–409, § 6(c)][/us/pl/97/409/s6/c], added subsec. (g).
 
+ __Change of Name__ 
+
+    “Director of the Government Publishing Office” substituted for “Public Printer” in subsec. (h)(3) on authority of [section 1301(d) of Pub. L. 113–235][/us/pl/113/235/s1301/d], set out as a note under [section 301 of Title 44][/us/usc/t44/s301], Public Printing and Documents.
+
  __Effective Date of 1994 Amendment; Transition Provisions__ 
 
     Amendment by [Pub. L. 103–270][/us/pl/103/270] applicable with respect to independent counsels appointed before, on, or after June 30, 1994, with transition provisions relating to assignment of employee to certify expenditures and relating to office space, travel and subsistence expenses, rates of compensation, and reporting requirements established or modified by [Pub. L. 103–270][/us/pl/103/270], see section 7(a)–(e), (g) of [Pub. L. 103–270][/us/pl/103/270], set out as a note under [section 591 of this title][/us/usc/t28/s591].
@@ -306,6 +310,8 @@
 [/us/stat/108/732-734]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F732-734
 [/us/pl/104/208/s101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs101%2Fa
 [/us/stat/110/3009]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3009
+[/us/pl/113/235/s1301/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs1301%2Fd
+[/us/stat/128/2537]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2537
 [/us/usc/t26/s6103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs6103
 [/us/pl/100/191]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F191
 [/us/pl/104/208/s101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs101%2Fa
@@ -328,6 +334,8 @@
 [/us/pl/97/409/s2/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F409%2Fs2%2Fa%2F1
 [/us/pl/97/409]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F409
 [/us/pl/97/409/s6/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F409%2Fs6%2Fc
+[/us/pl/113/235/s1301/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs1301%2Fd
+[/us/usc/t44/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft44%2Fs301
 [/us/pl/103/270]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F270
 [/us/pl/103/270]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F270
 [/us/pl/103/270]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F270

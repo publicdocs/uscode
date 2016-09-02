@@ -17,13 +17,13 @@
 
     The Attorney General, from time to time—
 
-    (1) shall cause to be edited, and printed in the Government Printing Office, such of his opinions as he considers valuable for preservation in volumes; and
+    (1) shall cause to be edited, and printed in the Government Publishing Office, such of his opinions as he considers valuable for preservation in volumes; and
 
     (2) may prescribe the manner for the distribution of the volumes.
 
     Each volume shall contain headnotes, an index, and such footnotes as the Attorney General may approve.
 
-(Added [Pub. L. 89–554, § 4(c)][/us/pl/89/554/s4/c], Sept. 6, 1966, [80 Stat. 614][/us/stat/80/614].)
+(Added [Pub. L. 89–554, § 4(c)][/us/pl/89/554/s4/c], Sept. 6, 1966, [80 Stat. 614][/us/stat/80/614]; amended [Pub. L. 113–235, div. H, title I, § 1301(b)][/us/pl/113/235/s1301/b], Dec. 16, 2014, [128 Stat. 2537][/us/stat/128/2537].)
 
 <table>
 
@@ -76,6 +76,10 @@ R.S. § 383 (1st sentence, as applicable to the Attorney General; 2d and 3d se
     The words “his opinions” are substituted for “the opinions of the law officers herein authorized to be given” as the opinions of the Attorney General are his and only his and the reference to other “law officers” is misleading. All functions of all other officers of the Department of Justice were transferred to the Attorney General by 1950 Reorg. Plan No. 2, § 1, eff. May 14, 1950, [64 Stat. 1261][/us/stat/64/1261]. The word “considers” is substituted for “may deem”.
 
     In the last sentence, the words “proper” and “complete and full” are omitted as unnecessary.
+
+ __Change of Name__ 
+
+    “Government Publishing Office” substituted for “Government Printing Office” in par. (1) on authority of [section 1301(b) of Pub. L. 113–235][/us/pl/113/235/s1301/b], set out as a note preceding [section 301 of Title 44][/us/usc/t44/s301], Public Printing and Documents.
 
  __Review for Official Publication of Opinions of the Office of Legal Counsel of the Department of Justice Concerning Intelligence Activities__ 
 
@@ -138,11 +142,15 @@ R.S. § 383 (1st sentence, as applicable to the Attorney General; 2d and 3d se
 
 [/us/pl/89/554/s4/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554%2Fs4%2Fc
 [/us/stat/80/614]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F614
+[/us/pl/113/235/s1301/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs1301%2Fb
+[/us/stat/128/2537]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2537
 [/us/act/1947-07-26/ch343/s201/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1947-07-26%2Fch343%2Fs201%2Fd
 [/us/act/1949-08-10/ch412/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-08-10%2Fch412%2Fs4
 [/us/stat/63/579]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F63%2F579
 [/us/usc/t5/s171–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs171%E2%80%931
 [/us/stat/64/1261]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F1261
+[/us/pl/113/235/s1301/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs1301%2Fb
+[/us/usc/t44/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft44%2Fs301
 [/us/pl/113/126/s322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F126%2Fs322
 [/us/stat/128/1400]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1400
 [/us/usc/t50/s3093/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3093%2Fc%2F2

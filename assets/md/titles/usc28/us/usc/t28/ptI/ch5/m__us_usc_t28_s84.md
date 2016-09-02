@@ -27,7 +27,7 @@ Eastern District
 
     (b) The Eastern District comprises the counties of Alpine, Amador, Butte, Calaveras, Colusa, El Dorado, Fresno, Glenn, Inyo, Kern, Kings, Lassen, Madera, Mariposa, Merced, Modoc, Mono, Nevada, Placer, Plumas, Sacramento, San Joaquin, Shasta, Sierra, Siskiyou, Solano, Stanislaus, Sutter, Tehama, Trinity, Tulare, Tuolumne, Yolo, and Yuba.
 
-    Court for the Eastern District shall be held at Fresno, Redding, and Sacramento.
+    Court for the Eastern District shall be held at Bakersfield, Fresno, Redding, and Sacramento.
 
 Central District
 
@@ -51,7 +51,7 @@ Southern District
 
     Court for the Southern District shall be held at San Diego.
 
-([June 25, 1948, ch. 646][/us/act/1948-06-25/ch646], [62 Stat. 875][/us/stat/62/875]; [Pub. L. 89–372, § 3(a)][/us/pl/89/372/s3/a], Mar. 18, 1966, [80 Stat. 75][/us/stat/80/75]; [Pub. L. 96–462, § 2][/us/pl/96/462/s2], Oct. 15, 1980, [94 Stat. 2053][/us/stat/94/2053]; [Pub. L. 102–357, § 2][/us/pl/102/357/s2], Aug. 26, 1992, [106 Stat. 958][/us/stat/106/958].)
+([June 25, 1948, ch. 646][/us/act/1948-06-25/ch646], [62 Stat. 875][/us/stat/62/875]; [Pub. L. 89–372, § 3(a)][/us/pl/89/372/s3/a], Mar. 18, 1966, [80 Stat. 75][/us/stat/80/75]; [Pub. L. 96–462, § 2][/us/pl/96/462/s2], Oct. 15, 1980, [94 Stat. 2053][/us/stat/94/2053]; [Pub. L. 102–357, § 2][/us/pl/102/357/s2], Aug. 26, 1992, [106 Stat. 958][/us/stat/106/958]; [Pub. L. 113–235, div. E, title III, § 307][/us/pl/113/235/s307], Dec. 16, 2014, [128 Stat. 2352][/us/stat/128/2352].)
 
  __Historical and Revision Notes__ 
 
@@ -62,6 +62,8 @@ Southern District
     Changes in arrangement and phraseology were made.
 
  __Amendments__ 
+
+    2014—Subsec. (b). [Pub. L. 113–235][/us/pl/113/235] inserted “Bakersfield,” after “shall be held at”.
 
     1992—Subsec. (c). [Pub. L. 102–357][/us/pl/102/357] amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: “The Central District comprises the counties of Los Angeles, Orange, Riverside, San Bernardino, San Luis Obispo, Santa Barbara, and Ventura.
 
@@ -154,6 +156,8 @@ Southern District
 [/us/stat/94/2053]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2053
 [/us/pl/102/357/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F357%2Fs2
 [/us/stat/106/958]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F958
+[/us/pl/113/235/s307]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs307
+[/us/stat/128/2352]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2352
 [/us/usc/t16/s76]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs76
 [/us/act/1911-03-03/ch231/s72]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1911-03-03%2Fch231%2Fs72
 [/us/stat/36/1107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F36%2F1107
@@ -163,6 +167,7 @@ Southern District
 [/us/stat/41/731]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F41%2F731
 [/us/act/1929-03-01/ch421]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1929-03-01%2Fch421
 [/us/stat/45/1424]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F45%2F1424
+[/us/pl/113/235]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235
 [/us/pl/102/357]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F357
 [/us/pl/96/462]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F462
 [/us/pl/89/372]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F372

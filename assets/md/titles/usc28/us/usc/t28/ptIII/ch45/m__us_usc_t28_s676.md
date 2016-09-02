@@ -17,9 +17,9 @@
 
     (a) The printing and binding for the Supreme Court, including the printing and binding of individual copies, advance pamphlet installments, and bound volumes, of its decisions, whether requisitioned or ordered by the Court or any of its officers or by any other office or agency, and whether paid for by, or charged to the appropriation for, the Court or any other office or agency, shall be done by the printer or printers whom the Court or the Chief Justice of the United States may select, unless it shall otherwise order.
 
-    (b) Whenever advance pamphlet installments and bound volumes of the Court’s decisions are printed by a private printer, an adequate number of copies for distribution in accordance with the requirements of [section 411 of this title][/us/usc/t28/s411] and for sale to the public shall be provided and made available for these purposes in such manner and at such prices as may be determined from time to time by the Supreme Court or the Chief Justice of the United States, in lieu of compliance by the Public Printer and the Superintendent of Documents with the requirements of sections 411 and 412 of this title with respect to such copies. Pending distribution or sale, such copies shall be the property of the United States and shall be held in the custody of the marshal or such other person, organization, or agency, as the Supreme Court or the Chief Justice of the United States may designate.
+    (b) Whenever advance pamphlet installments and bound volumes of the Court’s decisions are printed by a private printer, an adequate number of copies for distribution in accordance with the requirements of [section 411 of this title][/us/usc/t28/s411] and for sale to the public shall be provided and made available for these purposes in such manner and at such prices as may be determined from time to time by the Supreme Court or the Chief Justice of the United States, in lieu of compliance by the Director of the Government Publishing Office and the Superintendent of Documents with the requirements of sections 411 and 412 of this title with respect to such copies. Pending distribution or sale, such copies shall be the property of the United States and shall be held in the custody of the marshal or such other person, organization, or agency, as the Supreme Court or the Chief Justice of the United States may designate.
 
-([June 25, 1948, ch. 646][/us/act/1948-06-25/ch646], [62 Stat. 919][/us/stat/62/919]; [May 24, 1949, ch. 139, § 74][/us/act/1949-05-24/ch139/s74], [63 Stat. 100][/us/stat/63/100]; [Oct. 31, 1951, ch. 655, § 45][/us/act/1951-10-31/ch655/s45], [65 Stat. 725][/us/stat/65/725].)
+([June 25, 1948, ch. 646][/us/act/1948-06-25/ch646], [62 Stat. 919][/us/stat/62/919]; [May 24, 1949, ch. 139, § 74][/us/act/1949-05-24/ch139/s74], [63 Stat. 100][/us/stat/63/100]; [Oct. 31, 1951, ch. 655, § 45][/us/act/1951-10-31/ch655/s45], [65 Stat. 725][/us/stat/65/725]; [Pub. L. 113–235, div. H, title I, § 1301(d)][/us/pl/113/235/s1301/d], Dec. 16, 2014, [128 Stat. 2537][/us/stat/128/2537].)
 
  __Historical and Revision Notes__ 
 
@@ -41,6 +41,10 @@
 
     1949—Subsec. (a). Act May 24, 1949, inserted “whom” between “printers” and “the Court”.
 
+ __Change of Name__ 
+
+    “Director of the Government Publishing Office” substituted for “Public Printer” in subsec. (b) on authority of [section 1301(d) of Pub. L. 113–235][/us/pl/113/235/s1301/d], set out as a note under [section 301 of Title 44][/us/usc/t44/s301], Public Printing and Documents.
+
 ----------
 
 [Previous](./../../../../..//us/usc/t28/ptIII/ch45/m__us_usc_t28_s675.md) | [Next](./../../../../..//us/usc/t28/ptIII/ch45/m__us_usc_t28_s677.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs676)
@@ -55,6 +59,8 @@
 [/us/stat/63/100]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F63%2F100
 [/us/act/1951-10-31/ch655/s45]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1951-10-31%2Fch655%2Fs45
 [/us/stat/65/725]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F65%2F725
+[/us/pl/113/235/s1301/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs1301%2Fd
+[/us/stat/128/2537]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2537
 [/us/act/1925-02-27/ch364]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1925-02-27%2Fch364
 [/us/stat/43/1028]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F43%2F1028
 [/us/act/1926-04-29/ch195]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1926-04-29%2Fch195
@@ -76,5 +82,7 @@
 [/us/act/1934-04-07/ch104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-04-07%2Fch104
 [/us/stat/48/539]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F539
 [/us/usc/t28/s676]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs676
+[/us/pl/113/235/s1301/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs1301%2Fd
+[/us/usc/t44/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft44%2Fs301
 
 

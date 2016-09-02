@@ -19,9 +19,9 @@
 
     (b) Reports printed prior to June 12, 1926, shall not be furnished the Secretary of the Army, the Secretary of the Navy, or the Secretary of the Air Force.
 
-    (c) The Public Printer, or other printer designated by the Supreme Court of the United States, upon request, shall furnish to the Superintendent of Documents the reports required to be distributed under the provisions of this section.
+    (c) The Director of the Government Publishing Office, or other printer designated by the Supreme Court of the United States, upon request, shall furnish to the Superintendent of Documents the reports required to be distributed under the provisions of this section.
 
-([June 25, 1948, ch. 646][/us/act/1948-06-25/ch646], [62 Stat. 904][/us/stat/62/904]; [May 24, 1949, ch. 139, § 68][/us/act/1949-05-24/ch139/s68], [63 Stat. 99][/us/stat/63/99]; [Oct. 31, 1951, ch. 655, § 41][/us/act/1951-10-31/ch655/s41], [65 Stat. 725][/us/stat/65/725]; [July 10, 1952, ch. 632, § 4][/us/act/1952-07-10/ch632/s4], [66 Stat. 540][/us/stat/66/540].)
+([June 25, 1948, ch. 646][/us/act/1948-06-25/ch646], [62 Stat. 904][/us/stat/62/904]; [May 24, 1949, ch. 139, § 68][/us/act/1949-05-24/ch139/s68], [63 Stat. 99][/us/stat/63/99]; [Oct. 31, 1951, ch. 655, § 41][/us/act/1951-10-31/ch655/s41], [65 Stat. 725][/us/stat/65/725]; [July 10, 1952, ch. 632, § 4][/us/act/1952-07-10/ch632/s4], [66 Stat. 540][/us/stat/66/540]; [Pub. L. 113–235, div. H, title I, § 1301(d)][/us/pl/113/235/s1301/d], Dec. 16, 2014, [128 Stat. 2537][/us/stat/128/2537].)
 
  __Historical and Revision Notes__ 
 
@@ -71,6 +71,10 @@
 
     Subsec. (b). Act May 24, 1949, § 68(b), substituted “Secretary of the Army” for “Secretary of War” and “Court-martial” for “courtmartial”.
 
+ __Change of Name__ 
+
+    “Director of the Government Publishing Office” substituted for “Public Printer” in subsec. (c) on authority of [section 1301(d) of Pub. L. 113–235][/us/pl/113/235/s1301/d], set out as a note under [section 301 of Title 44][/us/usc/t44/s301], Public Printing and Documents.
+
 ----------
 
 [Previous](./../../../../..//us/usc/t28/ptI/ch19/m__us_usc_t28_ptI_ch19.md) | [Next](./../../../../..//us/usc/t28/ptI/ch19/m__us_usc_t28_s412.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs411)
@@ -86,6 +90,8 @@
 [/us/stat/65/725]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F65%2F725
 [/us/act/1952-07-10/ch632/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1952-07-10%2Fch632%2Fs4
 [/us/stat/66/540]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F66%2F540
+[/us/pl/113/235/s1301/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs1301%2Fd
+[/us/stat/128/2537]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2537
 [/us/act/1911-03-03/ch231/s227]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1911-03-03%2Fch231%2Fs227
 [/us/stat/36/1154]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F36%2F1154
 [/us/act/1911-03-04/ch285/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1911-03-04%2Fch285%2Fs1
@@ -132,5 +138,7 @@
 [/us/stat/61/501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F61%2F501
 [/us/stat/60/1097]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F60%2F1097
 [/us/usc/t28/s411/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs411%2Fb
+[/us/pl/113/235/s1301/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs1301%2Fd
+[/us/usc/t44/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft44%2Fs301
 
 
