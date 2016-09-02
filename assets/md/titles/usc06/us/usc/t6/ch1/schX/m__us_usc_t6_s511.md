@@ -17,7 +17,7 @@
 
     (1) __National security responsibilities__ 
 
-        (A) Nothing in this chapter (including any amendment made by this chapter) shall supersede any authority of the Secretary of Defense, the Director of Central Intelligence, or other agency head, as authorized by law and as directed by the President, with regard to the operation, control, or management of national security systems, as defined by section 3532(3)  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be section “3532(b)(2)”. </sup></sup>  of title 44.
+        (A) Nothing in this chapter (including any amendment made by this chapter) shall supersede any authority of the Secretary of Defense, the Director of Central Intelligence, or other agency head, as authorized by law and as directed by the President, with regard to the operation, control, or management of national security systems, as defined by section 3552(b)(5)  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be “3552(b)(6)”. </sup></sup>  of title 44.
 
         (B) Omitted
 
@@ -25,7 +25,7 @@
 
         Nothing in this chapter shall supersede any requirement made by or under the Atomic Energy Act of 1954 ([42 U.S.C. 2011][/us/usc/t42/s2011] et seq.). Restricted Data or Formerly Restricted Data shall be handled, protected, classified, downgraded, and declassified in conformity with the Atomic Energy Act of 1954 ([42 U.S.C. 2011][/us/usc/t42/s2011] et seq.).
 
-([Pub. L. 107–296, title X, § 1001(c)][/us/pl/107/296/s1001/c], Nov. 25, 2002, [116 Stat. 2267][/us/stat/116/2267].)
+([Pub. L. 107–296, title X, § 1001(c)][/us/pl/107/296/s1001/c], Nov. 25, 2002, [116 Stat. 2267][/us/stat/116/2267]; [Pub. L. 113–283, § 2(e)(3)(B)][/us/pl/113/283/s2/e/3/B], Dec. 18, 2014, [128 Stat. 3087][/us/stat/128/3087].)
 
  __References in Text__ 
 
@@ -36,6 +36,10 @@
  __Codification__ 
 
     Section is comprised of [section 1001(c) of Pub. L. 107–296][/us/pl/107/296/s1001/c]. Par. (1)(B) of [section 1001(c) of Pub. L. 107–296][/us/pl/107/296/s1001/c] amended [section 2224 of Title 10][/us/usc/t10/s2224], Armed Forces.
+
+ __Amendments__ 
+
+    2014—Par. (1)(A). [Pub. L. 113–283][/us/pl/113/283] substituted “section 3552(b)(5)” for “section 3532(3)”.
 
  __Change of Name__ 
 
@@ -56,6 +60,8 @@
 [/us/usc/t42/s2011]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2011
 [/us/pl/107/296/s1001/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs1001%2Fc
 [/us/stat/116/2267]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2267
+[/us/pl/113/283/s2/e/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F283%2Fs2%2Fe%2F3%2FB
+[/us/stat/128/3087]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3087
 [/us/pl/107/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296
 [/us/stat/116/2135]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2135
 [/us/act/1946-08-01/ch724]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-08-01%2Fch724
@@ -65,6 +71,7 @@
 [/us/pl/107/296/s1001/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs1001%2Fc
 [/us/pl/107/296/s1001/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs1001%2Fc
 [/us/usc/t10/s2224]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2224
+[/us/pl/113/283]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F283
 [/us/pl/108/458]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458
 [/us/usc/t50/s3001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3001
 [/us/pl/107/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296

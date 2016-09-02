@@ -323,7 +323,7 @@ Part C—Information Security  </td>
 
     <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft6%2Fs143" data-uslm-ref="/us/usc/t6/s143">143.</a>  </td>
 
-    <td> Enhancement of non-Federal cybersecurity.  </td>
+    <td> Enhancement of Federal and non-Federal cybersecurity.  </td>
 
   </tr>
 
@@ -348,6 +348,38 @@ Part C—Information Security  </td>
     <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft6%2Fs146" data-uslm-ref="/us/usc/t6/s146">146.</a>  </td>
 
     <td> Cybersecurity workforce assessment and strategy.  </td>
+
+  </tr>
+
+  <tr>
+
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft6%2Fs147" data-uslm-ref="/us/usc/t6/s147">147.</a>  </td>
+
+    <td> Cybersecurity recruitment and retention.  </td>
+
+  </tr>
+
+  <tr>
+
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft6%2Fs148" data-uslm-ref="/us/usc/t6/s148">148.</a>  </td>
+
+    <td> National cybersecurity and communications integration center.  </td>
+
+  </tr>
+
+  <tr>
+
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft6%2Fs149" data-uslm-ref="/us/usc/t6/s149">149.</a>  </td>
+
+    <td> Cyber incident response plan.  </td>
+
+  </tr>
+
+  <tr>
+
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft6%2Fs150" data-uslm-ref="/us/usc/t6/s150">150.</a>  </td>
+
+    <td> Clearances.  </td>
 
   </tr>
 

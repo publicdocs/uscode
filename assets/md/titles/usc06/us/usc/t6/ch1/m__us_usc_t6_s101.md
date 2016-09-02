@@ -117,6 +117,14 @@
 
  __Short Title of 2014 Amendment__ 
 
+[Pub. L. 113–284, § 1][/us/pl/113/284/s1], Dec. 18, 2014, [128 Stat. 3089][/us/stat/128/3089], provided that: 
+
+> “This Act \[amending sections 468 and 612 of this title, enacting provisions set out as a note under [section 612 of this title][/us/usc/t6/s612], and amending provisions set out as a note under [section 70101 of Title 46][/us/usc/t46/s70101], Shipping\] may be cited as the ‘DHS OIG Mandates Revision Act of 2014’.”
+
+[Pub. L. 113–282, § 1][/us/pl/113/282/s1], Dec. 18, 2014, [128 Stat. 3066][/us/stat/128/3066], provided that: 
+
+> “This Act \[enacting sections 148 to 150 of this title and provisions set out as notes under sections 148 and 149 of this title and formerly set out as a note under [section 3543 of Title 44][/us/usc/t44/s3543], Public Printing and Documents\] may be cited as the ‘National Cybersecurity Protection Act of 2014’.”
+
 [Pub. L. 113–254, § 1][/us/pl/113/254/s1], Dec. 18, 2014, [128 Stat. 2898][/us/stat/128/2898], provided that: 
 
 > “This Act \[enacting subchapter XVI of this chapter and enacting and repealing provisions set out as notes under [section 121 of this title][/us/usc/t6/s121]\] may be cited as the ‘Protecting and Securing Chemical Facilities from Terrorist Attacks Act of 2014’.”
@@ -543,6 +551,13 @@
 [/us/pl/109/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F295
 [/us/pl/107/296/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs4
 [/us/stat/116/2142]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2142
+[/us/pl/113/284/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F284%2Fs1
+[/us/stat/128/3089]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3089
+[/us/usc/t6/s612]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs612
+[/us/usc/t46/s70101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs70101
+[/us/pl/113/282/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F282%2Fs1
+[/us/stat/128/3066]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3066
+[/us/usc/t44/s3543]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft44%2Fs3543
 [/us/pl/113/254/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F254%2Fs1
 [/us/stat/128/2898]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2898
 [/us/usc/t6/s121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs121

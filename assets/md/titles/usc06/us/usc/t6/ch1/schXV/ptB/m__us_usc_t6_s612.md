@@ -57,87 +57,7 @@
 
                 (ii) such sums as are necessary for fiscal year 2011, and each fiscal year thereafter.
 
-        (3) __Office of Inspector General performance audits__ 
-
-            (A) __In general__ 
-
-                In order to ensure the effective and appropriate use of grants administered by the Department, the Inspector General of the Department each year shall conduct audits of a sample of States and high-risk urban areas that receive grants administered by the Department to prevent, prepare for, protect against, or respond to natural disasters, acts of terrorism, or other man-made disasters, excluding assistance provided under section 203, title IV, or title V of the Robert T. Stafford Disaster Relief and Emergency Assistance Act ([42 U.S.C. 5133][/us/usc/t42/s5133], 5170 et seq., and 5191 et seq.).
-
-            (B) __Determining samples__ 
-
-            The sample selected for audits under subparagraph (A) shall be—
-
-                (i)
-
-                 of an appropriate size to—
-
-                    (I) assess the overall integrity of the grant programs described in subparagraph (A); and
-
-                    (II) act as a deterrent to financial mismanagement; and
-
-                (ii)
-
-                 selected based on—
-
-                    (I) the size of the grants awarded to the recipient;
-
-                    (II) the past grant management performance of the recipient;
-
-                    (III) concerns identified by the Administrator, including referrals from the Administrator; and
-
-                    (IV) such other factors as determined by the Inspector General of the Department.
-
-            (C) __Comprehensive auditing__ 
-
-                During the 7-year period beginning on August 3, 2007, the Inspector General of the Department shall conduct not fewer than 1 audit of each State that receives funds under a grant under section 604 or 605 of this title.
-
-            (D) __Report by the Inspector General__ 
-
-                (i) __In general__ 
-
-                    The Inspector General of the Department shall submit to the appropriate committees of Congress an annual consolidated report regarding the audits completed during the fiscal year before the date of that report.
-
-                (ii) __Contents__ 
-
-                Each report submitted under clause (i) shall describe, for the fiscal year before the date of that report—
-
-                    (I) the audits conducted under subparagraph (A);
-
-                    (II) the findings of the Inspector General with respect to the audits conducted under subparagraph (A);
-
-                    (III) whether the funds awarded were used in accordance with the law, program guidance, and State homeland security plans and other applicable plans; and
-
-                    (IV) the extent to which funds awarded enhanced the ability of a grantee to prevent, prepare for, protect against, and respond to natural disasters, acts of terrorism and other man-made disasters.
-
-                (iii) __Deadline__ 
-
-                    For each year, the report required under clause (i) shall be submitted not later than December 31.
-
-            (E) __Public availability on website__ 
-
-                The Inspector General of the Department shall make each audit conducted under subparagraph (A) available on the website of the Inspector General, subject to redaction as the Inspector General determines necessary to protect classified and other sensitive information.
-
-            (F) __Provision of information to Administrator__ 
-
-                The Inspector General of the Department shall provide to the Administrator any findings and recommendations from audits conducted under subparagraph (A).
-
-            (G) __Evaluation of grants management and oversight__ 
-
-            Not later than 1 year after August 3, 2007, the Inspector General of the Department shall review and evaluate the grants management and oversight practices of the Federal Emergency Management Agency, including assessment of and recommendations relating to—
-
-                (i) the skills, resources, and capabilities of the workforce; and
-
-                (ii) any additional resources and staff necessary to carry out such management and oversight.
-
-            (H) __Authorization of appropriations__ 
-
-            In addition to any other amounts authorized to be appropriated to the Inspector General of the Department, there are authorized to be appropriated to the Inspector General of the Department for audits under subparagraph (A)—
-
-                (i) $8,500,000 for each of fiscal years 2008, 2009, and 2010; and
-
-                (ii) such sums as are necessary for fiscal year 2011, and each fiscal year thereafter.
-
-        (4) __Performance assessment__ 
+        (3) __Performance assessment__ 
 
         In order to ensure that States and high-risk urban areas are using grants administered by the Department appropriately to meet target capabilities and preparedness priorities, the Administrator shall—
 
@@ -149,11 +69,11 @@
 
             (D) ensure that each State receiving a grant administered by the Department submits a report to the Administrator on its level of preparedness, as required by [section 752(c) of this title][/us/usc/t6/s752/c].
 
-        (5) __Consideration of assessments__ 
+        (4) __Consideration of assessments__ 
 
-            In conducting program reviews and performance audits under paragraphs (2) and (3), the Administrator and the Inspector General of the Department shall take into account the performance assessment elements required under paragraph (4).
+            In conducting program reviews and performance audits under paragraph (2), the Administrator and the Inspector General of the Department shall take into account the performance assessment elements required under paragraph (3).
 
-        (6) __Recovery audits__ 
+        (5) __Recovery audits__ 
 
         The Administrator shall conduct a recovery audit under section 2(h) of the Improper Payments Elimination and Recovery Act of 2010 ([31 U.S.C. 3321][/us/usc/t31/s3321] note) for any grant administered by the Department with a total value of not less than $1,000,000, if the Administrator finds that—
 
@@ -161,7 +81,7 @@
 
             (B) it is cost effective to conduct a recovery audit to recapture the targeted funds.
 
-        (7) __Remedies for noncompliance__ 
+        (6) __Remedies for noncompliance__ 
 
             (A) __In general__ 
 
@@ -249,19 +169,29 @@
 
             At the end of each fiscal year, the Administrator shall submit to the appropriate committees of Congress a report setting forth the amount of funding provided during that fiscal year to Indian tribes under any grant program administered by the Department, whether provided directly or through a subgrant from a State or high-risk urban area.
 
-([Pub. L. 107–296, title XX, § 2022][/us/pl/107/296/s2022], as added [Pub. L. 110–53, title I, § 101][/us/pl/110/53/s101], Aug. 3, 2007, [121 Stat. 287][/us/stat/121/287]; amended [Pub. L. 111–204, § 2(h)(6)(B)(iii)][/us/pl/111/204/s2/h/6/B/iii], July 22, 2010, [124 Stat. 2231][/us/stat/124/2231].)
+([Pub. L. 107–296, title XX, § 2022][/us/pl/107/296/s2022], as added [Pub. L. 110–53, title I, § 101][/us/pl/110/53/s101], Aug. 3, 2007, [121 Stat. 287][/us/stat/121/287]; amended [Pub. L. 111–204, § 2(h)(6)(B)(iii)][/us/pl/111/204/s2/h/6/B/iii], July 22, 2010, [124 Stat. 2231][/us/stat/124/2231]; [Pub. L. 113–284, § 2(c)(1)][/us/pl/113/284/s2/c/1], (2), Dec. 18, 2014, [128 Stat. 3089][/us/stat/128/3089].)
 
  __References in Text__ 
 
     The Improper Payments Information Act of 2002, referred to in subsec. (a)(1)(C), is [Pub. L. 107–300][/us/pl/107/300], Nov. 26, 2002, [116 Stat. 2350][/us/stat/116/2350], which is set out as a note under [section 3321 of Title 31][/us/usc/t31/s3321], Money and Finance.
 
-    The Robert T. Stafford Disaster Relief and Emergency Assistance Act, referred to in subsec. (a)(2)(A), (3)(A), is [Pub. L. 93–288][/us/pl/93/288], May 22, 1974, [88 Stat. 143][/us/stat/88/143]. Section 203 of the Act is classified to [section 5133 of Title 42][/us/usc/t42/s5133], The Public Health and Welfare. Titles IV and V of the Act are classified generally to subchapters IV (§ 5170 et seq.) and IV–A (§ 5191 et seq.), respectively, of chapter 68 of Title 42. For complete classification of this Act to the Code, see Short Title note set out under [section 5121 of Title 42][/us/usc/t42/s5121] and Tables.
+    The Robert T. Stafford Disaster Relief and Emergency Assistance Act, referred to in subsec. (a)(2)(A), is [Pub. L. 93–288][/us/pl/93/288], May 22, 1974, [88 Stat. 143][/us/stat/88/143]. Section 203 of the Act is classified to [section 5133 of Title 42][/us/usc/t42/s5133], The Public Health and Welfare. Titles IV and V of the Act are classified generally to subchapters IV (§ 5170 et seq.) and IV–A (§ 5191 et seq.), respectively, of chapter 68 of Title 42. For complete classification of this Act to the Code, see Short Title note set out under [section 5121 of Title 42][/us/usc/t42/s5121] and Tables.
 
-    Section 2(h) of the Improper Payments Elimination and Recovery Act of 2010, referred to in subsec. (a)(6), is [section 2(h) of Pub. L. 111–204][/us/pl/111/204/s2/h], which is set out as a note under [section 3321 of Title 31][/us/usc/t31/s3321], Money and Finance.
+    Section 2(h) of the Improper Payments Elimination and Recovery Act of 2010, referred to in subsec. (a)(5), is [section 2(h) of Pub. L. 111–204][/us/pl/111/204/s2/h], which is set out as a note under [section 3321 of Title 31][/us/usc/t31/s3321], Money and Finance.
 
  __Amendments__ 
 
+    2014—Subsec. (a)(3). [Pub. L. 113–284, § 2(c)(1)][/us/pl/113/284/s2/c/1], (2)(A), redesignated par. (4) as (3) and struck out former par. (3) which related to Office of Inspector General performance audits.
+
+    Subsec. (a)(4) to (7). [Pub. L. 113–284, § 2(c)(2)][/us/pl/113/284/s2/c/2], redesignated pars. (4) to (7) as (3) to (6), respectively, and, in par. (4), substituted “paragraph (2)” for “paragraphs (2) and (3)” and “paragraph (3)” for “paragraph (4)”.
+
     2010—Subsec. (a)(6). [Pub. L. 111–204][/us/pl/111/204] substituted “under section 2(h) of the Improper Payments Elimination and Recovery Act of 2010 ([31 U.S.C. 3321][/us/usc/t31/s3321] note)” for “(as that term is defined by the Director of the Office of Management and Budget under [section 3561 of title 31][/us/usc/t31/s3561])”.
+
+ __Effective Date of 2014 Amendment__ 
+
+[Pub. L. 113–284, § 2(c)(3)][/us/pl/113/284/s2/c/3], Dec. 18, 2014, [128 Stat. 3090][/us/stat/128/3090], provided that: 
+
+> “The amendments made by this subsection \[amending this section\] shall take effect on January 1, 2015.”
 
 ----------
 
@@ -272,7 +202,6 @@
 
 [/us/usc/t31/s3321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs3321
 [/us/usc/t6/s762]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs762
-[/us/usc/t42/s5133]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5133
 [/us/usc/t42/s5133]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5133
 [/us/usc/t6/s748/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs748%2Fb
 [/us/usc/t6/s749]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs749
@@ -288,6 +217,8 @@
 [/us/stat/121/287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F287
 [/us/pl/111/204/s2/h/6/B/iii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F204%2Fs2%2Fh%2F6%2FB%2Fiii
 [/us/stat/124/2231]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2231
+[/us/pl/113/284/s2/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F284%2Fs2%2Fc%2F1
+[/us/stat/128/3089]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3089
 [/us/pl/107/300]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F300
 [/us/stat/116/2350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2350
 [/us/usc/t31/s3321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs3321
@@ -297,8 +228,12 @@
 [/us/usc/t42/s5121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5121
 [/us/pl/111/204/s2/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F204%2Fs2%2Fh
 [/us/usc/t31/s3321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs3321
+[/us/pl/113/284/s2/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F284%2Fs2%2Fc%2F1
+[/us/pl/113/284/s2/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F284%2Fs2%2Fc%2F2
 [/us/pl/111/204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F204
 [/us/usc/t31/s3321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs3321
 [/us/usc/t31/s3561]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs3561
+[/us/pl/113/284/s2/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F284%2Fs2%2Fc%2F3
+[/us/stat/128/3090]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3090
 
 

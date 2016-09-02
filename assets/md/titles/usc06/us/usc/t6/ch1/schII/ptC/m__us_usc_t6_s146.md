@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../../..//us/usc/t6/ch1/schII/ptC/m__us_usc_t6_s145.md) | [Next](./../../../../../..//us/usc/t6/ch1/schII/ptD/m__us_usc_t6_ch1_schII_ptD.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs146)
+[Previous](./../../../../../..//us/usc/t6/ch1/schII/ptC/m__us_usc_t6_s145.md) | [Next](./../../../../../..//us/usc/t6/ch1/schII/ptC/m__us_usc_t6_s147.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs146)
 
 ## § 146. Cybersecurity workforce assessment and strategy
 
@@ -91,6 +91,118 @@
 
     Section was enacted as part of the Cybersecurity Workforce Assessment Act, and not as part of the Homeland Security Act of 2002 which comprises this chapter.
 
+ __Homeland Security Cybersecurity Workforce Assessment__ 
+
+[Pub. L. 113–277, § 4][/us/pl/113/277/s4], Dec. 18, 2014, [128 Stat. 3008][/us/stat/128/3008], provided that:
+
+>     “(a)  __Short Title__  __.—__ 
+
+>     This section may be cited as the ‘Homeland Security Cybersecurity Workforce Assessment Act’.
+
+>     “(b)  __Definitions__  __.—__ 
+
+>     In this section:
+
+>         “(1)  __Appropriate congressional committees__  __.—__ 
+
+>         The term ‘appropriate congressional committees’ means—
+
+>             “(A) the Committee on Homeland Security and Governmental Affairs of the Senate;
+
+>             “(B) the Committee on Homeland Security of the House of Representatives; and
+
+>             “(C) the Committee on House Administration of the House of Representatives.
+
+>         “(2)  __Cybersecurity work category; data element code; specialty area__  __.—__ 
+
+>         The terms ‘Cybersecurity Work Category’, ‘Data Element Code’, and ‘Specialty Area’ have the meanings given such terms in the Office of Personnel Management’s Guide to Data Standards.
+
+>         “(3)  __Department__  __.—__ 
+
+>         The term ‘Department’ means the Department of Homeland Security.
+
+>         “(4)  __Director__  __.—__ 
+
+>         The term ‘Director’ means the Director of the Office of Personnel Management.
+
+>         “(5)  __Secretary__  __.—__ 
+
+>         The term ‘Secretary’ means the Secretary of Homeland Security.
+
+>     “(c) __National Cybersecurity Workforce Measurement Initiative.—__ 
+
+>         “(1)  __In general__  __.—__ 
+
+>         The Secretary shall—
+
+>             “(A) identify all cybersecurity workforce positions within the Department;
+
+>             “(B) determine the primary Cybersecurity Work Category and Specialty Area of such positions; and
+
+>             “(C) assign the corresponding Data Element Code, as set forth in the Office of Personnel Management’s Guide to Data Standards which is aligned with the National Initiative for Cybersecurity Education’s National Cybersecurity Workforce Framework report, in accordance with paragraph (2).
+
+>         “(2) __Employment codes.—__ 
+
+>             “(A)  __Procedures__  __.—__ 
+
+>             Not later than 90 days after the date of the enactment of this Act \[Dec. 18, 2014\], the Secretary shall establish procedures—
+
+>                 “(i) to identify open positions that include cybersecurity functions (as defined in the OPM Guide to Data Standards); and
+
+>                 “(ii) to assign the appropriate employment code to each such position, using agreed standards and definitions.
+
+>             “(B)  __Code assignments__  __.—__ 
+
+>             Not later than 9 months after the date of the enactment of this Act, the Secretary shall assign the appropriate employment code to—
+
+>                 “(i) each employee within the Department who carries out cybersecurity functions; and
+
+>                 “(ii) each open position within the Department that have been identified as having cybersecurity functions.
+
+>         “(3)  __Progress report__  __.—__ 
+
+>         Not later than 1 year after the date of the enactment of this Act, the Director shall submit a progress report on the implementation of this subsection to the appropriate congressional committees.
+
+>     “(d) __Identification of Cybersecurity Specialty Areas of Critical Need.—__ 
+
+>         “(1)  __In general__  __.—__ 
+
+>         Beginning not later than 1 year after the date on which the employment codes are assigned to employees pursuant to subsection (c)(2)(B), and annually through 2021, the Secretary, in consultation with the Director, shall—
+
+>             “(A) identify Cybersecurity Work Categories and Specialty Areas of critical need in the Department’s cybersecurity workforce; and
+
+>             “(B)
+
+>              submit a report to the Director that—
+
+>                 “(i) describes the Cybersecurity Work Categories and Specialty Areas identified under subparagraph (A); and
+
+>                 “(ii) substantiates the critical need designations.
+
+>         “(2)  __Guidance__  __.—__ 
+
+>         The Director shall provide the Secretary with timely guidance for identifying Cybersecurity Work Categories and Specialty Areas of critical need, including—
+
+>             “(A) current Cybersecurity Work Categories and Specialty Areas with acute skill shortages; and
+
+>             “(B) Cybersecurity Work Categories and Specialty Areas with emerging skill shortages.
+
+>         “(3)  __Cybersecurity critical needs report__  __.—__ 
+
+>         Not later than 18 months after the date of the enactment of this Act, the Secretary, in consultation with the Director, shall—
+
+>             “(A) identify Specialty Areas of critical need for cybersecurity workforce across the Department; and
+
+>             “(B) submit a progress report on the implementation of this subsection to the appropriate congressional committees.
+
+>     “(e)  __Government Accountability Office Status Reports__  __.—__ 
+
+>     The Comptroller General of the United States shall—
+
+>         “(1) analyze and monitor the implementation of subsections (c) and (d); and
+
+>         “(2) not later than 3 years after the date of the enactment of this Act, submit a report to the appropriate congressional committees that describes the status of such implementation.”
+
  __Definitions__ 
 
 [Pub. L. 113–246, § 2][/us/pl/113/246/s2], Dec. 18, 2014, [128 Stat. 2880][/us/stat/128/2880], provided that: 
@@ -107,13 +219,15 @@
 
 ----------
 
-[Previous](./../../../../../..//us/usc/t6/ch1/schII/ptC/m__us_usc_t6_s145.md) | [Next](./../../../../../..//us/usc/t6/ch1/schII/ptD/m__us_usc_t6_ch1_schII_ptD.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs146)
+[Previous](./../../../../../..//us/usc/t6/ch1/schII/ptC/m__us_usc_t6_s145.md) | [Next](./../../../../../..//us/usc/t6/ch1/schII/ptC/m__us_usc_t6_s147.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs146)
 
 ----------
 ----------
 
 [/us/pl/113/246/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F246%2Fs3
 [/us/stat/128/2880]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2880
+[/us/pl/113/277/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F277%2Fs4
+[/us/stat/128/3008]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3008
 [/us/pl/113/246/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F246%2Fs2
 [/us/stat/128/2880]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2880
 [/us/usc/t6/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs101

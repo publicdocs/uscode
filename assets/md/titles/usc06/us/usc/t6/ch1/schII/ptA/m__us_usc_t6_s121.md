@@ -491,7 +491,7 @@
 
 >     “(2) Section 511(d) of this Act \[[121 Stat. 323][/us/stat/121/323]\].
 
->     “(3) Subsection (a)(3)(D) of section 2022 of the Homeland Security Act of 2002 \[[6 U.S.C. 612(a)(3)(D)][/us/usc/t6/s612/a/3/D]\], as added by section 101 of this Act.
+>     “(3) \[Former\] Subsection (a)(3)(D) of section 2022 of the Homeland Security Act of 2002 \[former [6 U.S.C. 612(a)(3)(D)][/us/usc/t6/s612/a/3/D]\], as added by section 101 of this Act.
 
 >     “(4) Section 7215(d) of the Intelligence Reform and Terrorism Prevention Act of 2004 ([6 U.S.C. 123(d)][/us/usc/t6/s123/d]).
 

@@ -71,35 +71,15 @@
 
             The Secretary may waive the restrictions under paragraph (1) for a period of not to exceed 90 days upon a declaration and certification by the Secretary to Congress that a clear, compelling, and immediate need exists for such a waiver. A certification under this paragraph shall include a detailed justification for the declaration and certification, including the reasons and specific information that demonstrate that the Nation and the Coast Guard cannot respond effectively if the restrictions under paragraph (1) are not waived.
 
-    (f) __Annual review__ 
-
-        (1) __In general__ 
-
-            The Inspector General of the Department shall conduct an annual review that shall assess thoroughly the performance by the Coast Guard of all missions of the Coast Guard (including non-homeland security missions and homeland security missions) with a particular emphasis on examining the non-homeland security missions.
-
-        (2) __Report__ 
-
-        The report under this paragraph shall be submitted to—
-
-            (A) the Committee on Governmental Affairs of the Senate;
-
-            (B) the Committee on Government Reform of the House of Representatives;
-
-            (C) the Committees on Appropriations of the Senate and the House of Representatives;
-
-            (D) the Committee on Commerce, Science, and Transportation of the Senate; and
-
-            (E) the Committee on Transportation and Infrastructure of the House of Representatives.
-
-    (g) __Direct reporting to Secretary__ 
+    (f) __Direct reporting to Secretary__ 
 
         Upon the transfer of the Coast Guard to the Department, the Commandant shall report directly to the Secretary without being required to report through any other official of the Department.
 
-    (h) __Operation as a service in the Navy__ 
+    (g) __Operation as a service in the Navy__ 
 
         None of the conditions and restrictions in this section shall apply when the Coast Guard operates as a service in the Navy under [section 3 of title 14][/us/usc/t14/s3].
 
-    (i) __Report on accelerating the Integrated Deepwater System__ 
+    (h) __Report on accelerating the Integrated Deepwater System__ 
 
     Not later than 90 days after November 25, 2002, the Secretary, in consultation with the Commandant of the Coast Guard, shall submit a report to the Committee on Commerce, Science, and Transportation of the Senate, the Committee on Transportation and Infrastructure of the House of Representatives, and the Committees on Appropriations of the Senate and the House of Representatives that—
 
@@ -115,11 +95,15 @@
 
         (6) provides a revised asset phase-in time line.
 
-([Pub. L. 107–296, title VIII, § 888][/us/pl/107/296/s888], Nov. 25, 2002, [116 Stat. 2249][/us/stat/116/2249].)
+([Pub. L. 107–296, title VIII, § 888][/us/pl/107/296/s888], Nov. 25, 2002, [116 Stat. 2249][/us/stat/116/2249]; [Pub. L. 113–284, § 2(b)][/us/pl/113/284/s2/b], Dec. 18, 2014, [128 Stat. 3089][/us/stat/128/3089].)
 
  __References in Text__ 
 
     This chapter, referred to in subsec. (c), was in the original “this Act”, meaning [Pub. L. 107–296][/us/pl/107/296], Nov. 25, 2002, [116 Stat. 2135][/us/stat/116/2135], known as the Homeland Security Act of 2002, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 101 of this title][/us/usc/t6/s101] and Tables.
+
+ __Amendments__ 
+
+    2014—Subsecs. (f) to (i). [Pub. L. 113–284][/us/pl/113/284] redesignated subsecs. (g) to (i) as (f) to (h), respectively, and struck out former subsec. (f) which related to annual review.
 
  __Change of Name__ 
 
@@ -137,8 +121,11 @@
 [/us/usc/t14/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft14%2Fs3
 [/us/pl/107/296/s888]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs888
 [/us/stat/116/2249]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2249
+[/us/pl/113/284/s2/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F284%2Fs2%2Fb
+[/us/stat/128/3089]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3089
 [/us/pl/107/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296
 [/us/stat/116/2135]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2135
 [/us/usc/t6/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs101
+[/us/pl/113/284]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F284
 
 

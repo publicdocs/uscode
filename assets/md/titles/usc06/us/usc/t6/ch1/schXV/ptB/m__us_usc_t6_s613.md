@@ -63,7 +63,7 @@
 
             (A) a description of the objectives and goals of the program;
 
-            (B) an assessment of the extent to which the objectives and goals described in subparagraph (A) have been met, based on the quantifiable performance measures and metrics required under this section, [section 612(a)(4) of this title][/us/usc/t6/s612/a/4], and [section 749 of this title][/us/usc/t6/s749];
+            (B) an assessment of the extent to which the objectives and goals described in subparagraph (A) have been met, based on the quantifiable performance measures and metrics required under this section, section 612(a)(4)  <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  of this title, and [section 749 of this title][/us/usc/t6/s749];
 
             (C) recommendations for any program modifications to improve the effectiveness of the program, to address changed or emerging conditions; and
 
@@ -89,6 +89,10 @@
 
 ([Pub. L. 107–296, title XX, § 2023][/us/pl/107/296/s2023], as added [Pub. L. 111–271, § 2(a)][/us/pl/111/271/s2/a], Oct. 12, 2010, [124 Stat. 2852][/us/stat/124/2852].)
 
+ __References in Text__ 
+
+    [Section 612(a)(4) of this title][/us/usc/t6/s612/a/4], referred to in subsec. (c)(3)(B), was redesignated [section 612(a)(3) of this title][/us/usc/t6/s612/a/3] by [Pub. L. 113–284, § 2(c)(2)(A)][/us/pl/113/284/s2/c/2/A], Dec. 18, 2014, [128 Stat. 3089][/us/stat/128/3089].
+
 ----------
 
 [Previous](./../../../../../..//us/usc/t6/ch1/schXV/ptB/m__us_usc_t6_s612.md) | [Next](./../../../../../..//us/usc/t6/ch1/schXVI/m__us_usc_t6_ch1_schXVI.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs613)
@@ -99,11 +103,14 @@
 [/us/usc/t6/s604]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs604
 [/us/usc/t6/s605]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs605
 [/us/usc/t6/s749]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs749
-[/us/usc/t6/s612/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs612%2Fa%2F4
 [/us/usc/t6/s749]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs749
 [/us/usc/t6/s749]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs749
 [/us/pl/107/296/s2023]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs2023
 [/us/pl/111/271/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F271%2Fs2%2Fa
 [/us/stat/124/2852]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2852
+[/us/usc/t6/s612/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs612%2Fa%2F4
+[/us/usc/t6/s612/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs612%2Fa%2F3
+[/us/pl/113/284/s2/c/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F284%2Fs2%2Fc%2F2%2FA
+[/us/stat/128/3089]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3089
 
 
