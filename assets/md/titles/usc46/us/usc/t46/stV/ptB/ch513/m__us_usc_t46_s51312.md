@@ -59,7 +59,7 @@
 
             (B) at least 1 shall be a senior corporate officer from a United States maritime shipping company that participates in the Maritime Security Program, or in any Maritime Administration program providing incentives for companies to register their vessels in the United States, and this appointment shall rotate biennially among such companies; and
 
-            (C) 1 or more may be a Senate-confirmed Presidential appointee, a member of the Senior Executive Service, or an officer of flag-rank who from the Coast Guard, the National Oceanic and Atmospheric Administration, or any of the military services that commission graduates of the Academy, other than the individuals who are members of the Board under clauses (i) and (ii) of paragraph (1)(F).
+            (C) 1 or more may be a Senate-confirmed Presidential appointee, a member of the Senior Executive Service, or an officer of flag-rank who from  <sup>\[1\]</sup>  <sup><sup> 1 So in original. </sup></sup>  the Coast Guard, the National Oceanic and Atmospheric Administration, or any of the military services that commission graduates of the Academy, other than the individuals who are members of the Board under clauses (i) and (ii) of paragraph (1)(F).
 
         (3) __Term of service.—__ 
 
@@ -105,7 +105,7 @@
 
                 (ii) shall report to the member that designated the substitute member on the Board’s activities not later than 15 days following the substitute member’s participation in such activities; and
 
-                (iii) shall be permitted by the Board to participate in the preparation of reports described in paragraph  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be “subsection”. </sup></sup>  (j) related to any proceedings or activities of the Board in which such substitute member participates.
+                (iii) shall be permitted by the Board to participate in the preparation of reports described in paragraph  <sup>\[2\]</sup>  <sup><sup> 2 So in original. Probably should be “subsection”. </sup></sup>  (j) related to any proceedings or activities of the Board in which such substitute member participates.
 
     (c) __Chairperson.—__ 
 

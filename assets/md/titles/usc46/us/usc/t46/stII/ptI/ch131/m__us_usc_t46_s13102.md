@@ -23,7 +23,7 @@
 
         (1) shall consider, among other things, factors affecting recreational boating safety by contributing to overcrowding and congestion of waterways, such as the increasing number of recreational vessels operating on those waterways and their geographic distribution, the availability and geographic distribution of recreational boating facilities in and among applying States, and State marine casualty and fatality statistics for recreational vessels;
 
-        (2) shall consult with the Secretary of the Interior to minimize duplication with the purposes and expenditures of chapter 2003 of title 54, United States Code, <sup>\[1\]</sup>  <sup><sup> 1 So in original. The words “, United States Code, probably should not appear. </sup></sup>  the Federal Aid in Sport Fish Restoration Act of 1950 ([16 U.S.C. 777–777k][/us/usc/t16/s777–777k]), and with the guidelines developed under those Acts; and
+        (2) shall consult with the Secretary of the Interior to minimize duplication with the purposes and expenditures of chapter 2003 of title 54, United States Code, <sup>\[1\]</sup>  <sup><sup> 1 So in original. The words “United States Code,” probably should not appear. </sup></sup>  the Federal Aid in Sport Fish Restoration Act of 1950 ([16 U.S.C. 777–777k][/us/usc/t16/s777–777k]), and with the guidelines developed under those Acts; and
 
         (3) shall maintain environmental standards consistent with the Coastal Zone Management Act of 1972 ([16 U.S.C. 1451–146][/us/usc/t16/s1451–146]4) and other laws and policies of the United States intended to safeguard the ecological and esthetic quality of the waters and wetlands of the United States.
 

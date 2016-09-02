@@ -235,7 +235,7 @@
 
  __Vessel and Intermodal Security Reports__ 
 
-[Pub. L. 108–293, title VIII, § 809(g)][/us/pl/108/293/s809/g]–(i), (k), Aug. 9, 2004, [118 Stat. 1087][/us/stat/118/1087], 1088, as amended by [Pub. L. 113–284, § 2(a)(1)][/us/pl/113/284/s2/a/1], (2)(B), Dec. 18, 2014, [128 Stat. 3089][/us/stat/128/3089], provided that:
+[Pub. L. 108–293, title VIII, § 809(g)][/us/pl/108/293/s809/g], (i), formerly § 809(g)–(i), (k), Aug. 9, 2004, [118 Stat. 1087][/us/stat/118/1087], 1088, renumbered and amended by [Pub. L. 113–284, § 2(a)(1)][/us/pl/113/284/s2/a/1], (2)(B), Dec. 18, 2014, [128 Stat. 3089][/us/stat/128/3089], provided that:
 
 >     “(g)  __Compliance With Security Standards Established Pursuant to Maritime Transportation Security Plans__  __.—__ 
 

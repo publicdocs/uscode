@@ -113,7 +113,7 @@
 
             (A) proceed in rem against the vessel on which the seafarer served in the Federal district court for the district in which the vessel is found; and
 
-            (B) withhold or revoke the clearance required under section 60105 for the vessel and any other vessel operated by the same operator (as that term is defined in section 2(9)(a)  <sup>\[2\]</sup>  <sup><sup> 2 So in original. Probably should be “2(a)(9)(a)”. </sup></sup>  of the Act to Prevent Pollution from Ships ([33 U.S.C. 1901(9)(a)][/us/usc/t33/s1901/9/a])  <sup>\[3\]</sup>  <sup><sup> 3 So in original. Probably should be “[33 U.S.C. 1901(a)(9)(a)][/us/usc/t33/s1901/a/9/a])”. </sup></sup>  as the vessel on which the seafarer served.
+            (B) withhold or revoke the clearance required under section 60105 for the vessel and any other vessel operated by the same operator (as that term is defined in section 2(9)(a)  <sup>\[2\]</sup>  <sup><sup> 2 So in original. Probably should be “2(a)(9)(a)”. </sup></sup>  of the Act to Prevent Pollution from Ships ([33 U.S.C. 1901(9)(a)][/us/usc/t33/s1901/9/a])  <sup>\[3\]</sup>  <sup><sup> 3 So in original. Probably should be “[33 U.S.C. 1901(a)(9)(a)][/us/usc/t33/s1901/a/9/a]))”. </sup></sup>  as the vessel on which the seafarer served.
 
         (3)  __Obtaining clearance__  __.—__ 
 
