@@ -363,7 +363,13 @@
 
             <td> 
 
-        If the total amount of service performed, on or after the date of the enactment of this subsection, as a Government physician is:  </td>
+        If the total amount of service
+
+         performed, on or after the date of
+
+         the enactment of this subsection,
+
+         as a Government physician is:  </td>
 
             <td> 
 
@@ -379,7 +385,7 @@
 
             <td> 
 
-        0  </td>
+        0    </td>
 
   </tr>
 
@@ -391,7 +397,7 @@
 
             <td> 
 
-        25  </td>
+        25    </td>
 
   </tr>
 
@@ -403,7 +409,7 @@
 
             <td> 
 
-        50  </td>
+        50    </td>
 
   </tr>
 
@@ -415,7 +421,7 @@
 
             <td> 
 
-        75  </td>
+        75    </td>
 
   </tr>
 

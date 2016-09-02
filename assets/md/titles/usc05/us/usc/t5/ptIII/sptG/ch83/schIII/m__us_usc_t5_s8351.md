@@ -37,11 +37,15 @@
 
                 <td> 
 
-            In the case of a pay period beginning in fiscal year:  </td>
+            In the case of a pay period beginning
+
+             in fiscal year:  </td>
 
                 <td> 
 
-            The maximum percentage allowable is:  </td>
+            The maximum percentage
+
+            allowable is:  </td>
 
   </tr>
 
@@ -53,7 +57,7 @@
 
                 <td> 
 
-            6  </td>
+            6    </td>
 
   </tr>
 
@@ -65,7 +69,7 @@
 
                 <td> 
 
-            7  </td>
+            7    </td>
 
   </tr>
 
@@ -77,7 +81,7 @@
 
                 <td> 
 
-            8  </td>
+            8    </td>
 
   </tr>
 
@@ -89,7 +93,7 @@
 
                 <td> 
 
-            9  </td>
+            9    </td>
 
   </tr>
 
@@ -101,7 +105,7 @@
 
                 <td> 
 
-            10  </td>
+            10    </td>
 
   </tr>
 
