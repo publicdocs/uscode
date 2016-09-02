@@ -15,7 +15,7 @@
 
 ## § 1839. Definitions
 
-As used in this chapter—
+    As used in this chapter—
 
     (1) the term “foreign instrumentality” means any agency, bureau, ministry, component, institution, association, or any legal, commercial, or business organization, corporation, firm, or entity that is substantially owned, controlled, sponsored, commanded, managed, or dominated by a foreign government;
 

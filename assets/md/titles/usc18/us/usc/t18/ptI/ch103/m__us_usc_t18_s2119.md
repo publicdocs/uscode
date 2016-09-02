@@ -15,7 +15,7 @@
 
 ## § 2119. Motor vehicles
 
-Whoever, with the intent to cause death or serious bodily harm  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be followed by a comma. </sup></sup>  takes a motor vehicle that has been transported, shipped, or received in interstate or foreign commerce from the person or presence of another by force and violence or by intimidation, or attempts to do so, shall—
+    Whoever, with the intent to cause death or serious bodily harm  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be followed by a comma. </sup></sup>  takes a motor vehicle that has been transported, shipped, or received in interstate or foreign commerce from the person or presence of another by force and violence or by intimidation, or attempts to do so, shall—
 
     (1) be fined under this title or imprisoned not more than 15 years, or both,
 

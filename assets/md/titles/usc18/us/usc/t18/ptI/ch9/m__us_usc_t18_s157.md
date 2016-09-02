@@ -15,7 +15,7 @@
 
 ## § 157. Bankruptcy fraud
 
-A person who, having devised or intending to devise a scheme or artifice to defraud and for the purpose of executing or concealing such a scheme or artifice or attempting to do so—
+    A person who, having devised or intending to devise a scheme or artifice to defraud and for the purpose of executing or concealing such a scheme or artifice or attempting to do so—
 
     (1) files a petition under title 11, including a fraudulent involuntary petition under section 303 of such title;
 
@@ -23,7 +23,7 @@ A person who, having devised or intending to devise a scheme or artifice to defr
 
     (3) makes a false or fraudulent representation, claim, or promise concerning or in relation to a proceeding under title 11, at any time before or after the filing of the petition, or in relation to a proceeding falsely asserted to be pending under such title,
 
-        shall be fined under this title, imprisoned not more than 5 years, or both.
+    shall be fined under this title, imprisoned not more than 5 years, or both.
 
 (Added [Pub. L. 103–394, title III, § 312(a)(1)(B)][/us/pl/103/394/s312/a/1/B], Oct. 22, 1994, [108 Stat. 4140][/us/stat/108/4140]; amended [Pub. L. 109–8, title III, § 332(c)][/us/pl/109/8/s332/c], Apr. 20, 2005, [119 Stat. 103][/us/stat/119/103]; [Pub. L. 111–327, § 2(b)][/us/pl/111/327/s2/b], Dec. 22, 2010, [124 Stat. 3562][/us/stat/124/3562].)
 

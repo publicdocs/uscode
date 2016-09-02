@@ -15,13 +15,13 @@
 
 ## § 1621. Perjury generally
 
-Whoever—
+    Whoever—
 
     (1) having taken an oath before a competent tribunal, officer, or person, in any case in which a law of the United States authorizes an oath to be administered, that he will testify, declare, depose, or certify truly, or that any written testimony, declaration, deposition, or certificate by him subscribed, is true, willfully and contrary to such oath states or subscribes any material matter which he does not believe to be true; or
 
     (2) in any declaration, certificate, verification, or statement under penalty of perjury as permitted under [section 1746 of title 28][/us/usc/t28/s1746], United States Code, willfully subscribes as true any material matter which he does not believe to be true;
 
-        is guilty of perjury and shall, except as otherwise expressly provided by law, be fined under this title or imprisoned not more than five years, or both. This section is applicable whether the statement or subscription is made within or without the United States.
+    is guilty of perjury and shall, except as otherwise expressly provided by law, be fined under this title or imprisoned not more than five years, or both. This section is applicable whether the statement or subscription is made within or without the United States.
 
 ([June 25, 1948, ch. 645][/us/act/1948-06-25/ch645], [62 Stat. 773][/us/stat/62/773]; [Pub. L. 88–619, § 1][/us/pl/88/619/s1], Oct. 3, 1964, [78 Stat. 995][/us/stat/78/995]; [Pub. L. 94–550, § 2][/us/pl/94/550/s2], Oct. 18, 1976, [90 Stat. 2534][/us/stat/90/2534]; [Pub. L. 103–322, title XXXIII, § 330016(1)(I)][/us/pl/103/322/s330016/1/I], Sept. 13, 1994, [108 Stat. 2147][/us/stat/108/2147].)
 

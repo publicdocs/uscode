@@ -15,7 +15,7 @@
 
 ## § 6002. Immunity generally
 
-Whenever a witness refuses, on the basis of his privilege against self-incrimination, to testify or provide other information in a proceeding before or ancillary to—
+    Whenever a witness refuses, on the basis of his privilege against self-incrimination, to testify or provide other information in a proceeding before or ancillary to—
 
     (1) a court or grand jury of the United States,
 
@@ -23,7 +23,7 @@ Whenever a witness refuses, on the basis of his privilege against self-incrimina
 
     (3) either House of Congress, a joint committee of the two Houses, or a committee or a subcommittee of either House,
 
-        and the person presiding over the proceeding communicates to the witness an order issued under this title, the witness may not refuse to comply with the order on the basis of his privilege against self-incrimination; but no testimony or other information compelled under the order (or any information directly or indirectly derived from such testimony or other information) may be used against the witness in any criminal case, except a prosecution for perjury, giving a false statement, or otherwise failing to comply with the order.
+    and the person presiding over the proceeding communicates to the witness an order issued under this title, the witness may not refuse to comply with the order on the basis of his privilege against self-incrimination; but no testimony or other information compelled under the order (or any information directly or indirectly derived from such testimony or other information) may be used against the witness in any criminal case, except a prosecution for perjury, giving a false statement, or otherwise failing to comply with the order.
 
 (Added [Pub. L. 91–452, title II, § 201(a)][/us/pl/91/452/s201/a], Oct. 15, 1970, [84 Stat. 927][/us/stat/84/927]; amended [Pub. L. 103–322, title XXXIII, § 330013(4)][/us/pl/103/322/s330013/4], Sept. 13, 1994, [108 Stat. 2146][/us/stat/108/2146].)
 

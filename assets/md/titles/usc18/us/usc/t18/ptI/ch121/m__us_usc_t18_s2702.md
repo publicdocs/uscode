@@ -59,7 +59,7 @@
 
                 (ii) appear to pertain to the commission of a crime; or
 
-                \[(B) Repealed. [Pub. L. 108–21, title V, § 508(b)(1)(A)][/us/pl/108/21/s508/b/1/A], Apr. 30, 2003, [117 Stat. 684][/us/stat/117/684]\]
+            \[(B) Repealed. [Pub. L. 108–21, title V, § 508(b)(1)(A)][/us/pl/108/21/s508/b/1/A], Apr. 30, 2003, [117 Stat. 684][/us/stat/117/684]\]
 
         (8) to a governmental entity, if the provider, in good faith, believes that an emergency involving danger of death or serious physical injury to any person requires disclosure without delay of communications relating to the emergency.
 

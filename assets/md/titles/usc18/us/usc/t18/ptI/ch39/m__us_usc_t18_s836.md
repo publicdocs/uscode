@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t18/ptI/ch39/m__us_usc_t18_s833 to 835.md) | [Next](./../../../../..//us/usc/t18/ptI/ch39/m__us_usc_t18_s837.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs836)
+[Previous](./../../../../..//us/usc/t18/ptI/ch39/m__us_usc_t18_s832.md) | [Next](./../../../../..//us/usc/t18/ptI/ch39/m__us_usc_t18_s837.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs836)
 
 ## § 836. Transportation of fireworks into State prohibiting sale or use
 
@@ -45,7 +45,7 @@
 
 ----------
 
-[Previous](./../../../../..//us/usc/t18/ptI/ch39/m__us_usc_t18_s833 to 835.md) | [Next](./../../../../..//us/usc/t18/ptI/ch39/m__us_usc_t18_s837.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs836)
+[Previous](./../../../../..//us/usc/t18/ptI/ch39/m__us_usc_t18_s832.md) | [Next](./../../../../..//us/usc/t18/ptI/ch39/m__us_usc_t18_s837.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs836)
 
 ----------
 ----------

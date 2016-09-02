@@ -15,7 +15,7 @@
 
 ## § 504. Printing and filming of United States and foreign obligations and securities
 
-Notwithstanding any other provision of this chapter, the following are permitted:
+    Notwithstanding any other provision of this chapter, the following are permitted:
 
     (1)
 
@@ -41,7 +41,7 @@ Notwithstanding any other provision of this chapter, the following are permitted
 
     (3) The making or importation of motion-picture films, microfilms, or slides, for projection upon a screen or for use in telecasting, of postage and revenue stamps and other obligations and securities of the United States, and postage and revenue stamps, notes, bonds, and other obligations or securities of any foreign government, bank, or corporation. No prints or other reproductions shall be made from such films or slides, except for the purposes of paragraph (1), without the permission of the Secretary of the Treasury.
 
-        For the purposes of this section the term “postage stamp” includes postage meter stamps.
+    For the purposes of this section the term “postage stamp” includes postage meter stamps.
 
 ([June 25, 1948, ch. 645][/us/act/1948-06-25/ch645], [62 Stat. 713][/us/stat/62/713]; [Pub. L. 85–921, § 1][/us/pl/85/921/s1], Sept. 2, 1958, [72 Stat. 1771][/us/stat/72/1771]; [Pub. L. 90–353, § 1][/us/pl/90/353/s1], June 20, 1968, [82 Stat. 240][/us/stat/82/240]; [Pub. L. 91–448, § 2][/us/pl/91/448/s2], Oct. 14, 1970, [84 Stat. 921][/us/stat/84/921]; [Pub. L. 98–369, div. A, title X, § 1077(b)(1)][/us/pl/98/369/s1077/b/1], (2), July 18, 1984, [98 Stat. 1054][/us/stat/98/1054]; [Pub. L. 102–550, title XV, § 1554][/us/pl/102/550/s1554], Oct. 28, 1992, [106 Stat. 4071][/us/stat/106/4071]; [Pub. L. 104–294, title VI, § 601(e)][/us/pl/104/294/s601/e], (f)(3), Oct. 11, 1996, [110 Stat. 3499][/us/stat/110/3499].)
 

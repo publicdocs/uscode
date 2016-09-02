@@ -15,7 +15,7 @@
 
 ## § 3437. Severance—(Rule)
 
-See Federal Rules of Criminal Procedure
+ __See Federal Rules of Criminal Procedure__ 
 
     Relief from prejudicial joinder of defendants or offenses, Rule 14.
 

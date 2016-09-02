@@ -15,7 +15,7 @@
 
 ## § 1093. Definitions
 
-As used in this chapter—
+    As used in this chapter—
 
     (1) the term “children” means the plural and means individuals who have not attained the age of eighteen years;
 

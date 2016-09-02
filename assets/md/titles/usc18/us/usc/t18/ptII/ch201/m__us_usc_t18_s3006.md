@@ -15,7 +15,7 @@
 
 ## § 3006. Assignment of counsel—(Rule)
 
-See Federal Rules of Criminal Procedure
+ __See Federal Rules of Criminal Procedure__ 
 
     Appointment by court, rule 44.
 

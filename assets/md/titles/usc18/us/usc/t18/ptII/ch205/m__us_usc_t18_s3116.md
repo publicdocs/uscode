@@ -15,7 +15,7 @@
 
 ## § 3116. Records of examining magistrate judge; return to clerk of court—(Rule)
 
-See Federal Rules of Criminal Procedure
+ __See Federal Rules of Criminal Procedure__ 
 
     Magistrate judges and clerks of court to keep records as prescribed by Director of the Administrative Office of the United States Courts, Rule 55.
 

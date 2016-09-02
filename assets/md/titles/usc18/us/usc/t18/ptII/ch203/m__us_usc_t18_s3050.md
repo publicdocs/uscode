@@ -15,7 +15,7 @@
 
 ## § 3050. Bureau of Prisons employees’ powers
 
-An officer or employee of the Bureau of Prisons may—
+    An officer or employee of the Bureau of Prisons may—
 
     (1) make arrests on or off of Bureau of Prisons property without warrant for violations of the following provisions regardless of where the violation may occur: sections 111 (assaulting officers), 751 (escape), and 752 (assisting escape) of title 18, United States Code, and section 1826(c) (escape) of title 28, United States Code;
 
@@ -23,7 +23,7 @@ An officer or employee of the Bureau of Prisons may—
 
     (3) arrest without warrant for any other offense described in title 18 or 21 of the United States Code, if committed on the premises or reservation of a penal or correctional facility of the Bureau of Prisons if necessary to safeguard security, good order, or government property;
 
-        if such officer or employee has reasonable grounds to believe that the arrested person is guilty of such offense, and if there is likelihood of such person’s escaping before an arrest warrant can be obtained. If the arrested person is a fugitive from custody, such prisoner shall be returned to custody. Officers and employees of the said Bureau of Prisons may carry firearms under such rules and regulations as the Attorney General may prescribe.
+    if such officer or employee has reasonable grounds to believe that the arrested person is guilty of such offense, and if there is likelihood of such person’s escaping before an arrest warrant can be obtained. If the arrested person is a fugitive from custody, such prisoner shall be returned to custody. Officers and employees of the said Bureau of Prisons may carry firearms under such rules and regulations as the Attorney General may prescribe.
 
 ([June 25, 1948, ch. 645][/us/act/1948-06-25/ch645], [62 Stat. 817][/us/stat/62/817]; [Pub. L. 99–646, § 65][/us/pl/99/646/s65], Nov. 10, 1986, [100 Stat. 3615][/us/stat/100/3615].)
 

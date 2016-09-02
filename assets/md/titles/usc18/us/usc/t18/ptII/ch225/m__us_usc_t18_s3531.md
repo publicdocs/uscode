@@ -15,7 +15,7 @@
 
 ## § 3531. Return; several defendants; conviction of less offense; poll of jury—(Rule)
 
-See Federal Rules of Criminal Procedure
+ __See Federal Rules of Criminal Procedure__ 
 
     Verdict to be unanimous; return; several defendants; disagreement; conviction of less offense; poll of jury, Rule 31.
 

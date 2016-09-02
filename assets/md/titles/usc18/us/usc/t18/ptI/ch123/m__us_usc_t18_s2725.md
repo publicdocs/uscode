@@ -15,7 +15,7 @@
 
 ## § 2725. Definitions
 
-In this chapter—
+    In this chapter—
 
     (1) “motor vehicle record” means any record that pertains to a motor vehicle operator’s permit, motor vehicle title, motor vehicle registration, or identification card issued by a department of motor vehicles;
 

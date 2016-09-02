@@ -15,7 +15,7 @@
 
 ## § 1837. Applicability to conduct outside the United States
 
-This chapter also applies to conduct occurring outside the United States if—
+    This chapter also applies to conduct occurring outside the United States if—
 
     (1) the offender is a natural person who is a citizen or permanent resident alien of the United States, or an organization organized under the laws of the United States or a State or political subdivision thereof; or
 

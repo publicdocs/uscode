@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t18/ptIII/ch311/m__us_usc_t18_s4201 to 4218.md) | [Next](./../../../../..//us/usc/t18/ptIII/ch313/m__us_usc_t18_s4241.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2FptIII%2Fch313)
+[Previous](./../../../../..//us/usc/t18/ptIII/ch311/m__us_usc_t18_ptIII_ch311.md) | [Next](./../../../../..//us/usc/t18/ptIII/ch313/m__us_usc_t18_s4241.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2FptIII%2Fch313)
 
 ### CHAPTER 313—OFFENDERS WITH MENTAL DISEASE OR DEFECT
 
@@ -101,7 +101,7 @@
 
 ----------
 
-[Previous](./../../../../..//us/usc/t18/ptIII/ch311/m__us_usc_t18_s4201 to 4218.md) | [Next](./../../../../..//us/usc/t18/ptIII/ch313/m__us_usc_t18_s4241.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2FptIII%2Fch313)
+[Previous](./../../../../..//us/usc/t18/ptIII/ch311/m__us_usc_t18_ptIII_ch311.md) | [Next](./../../../../..//us/usc/t18/ptIII/ch313/m__us_usc_t18_s4241.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2FptIII%2Fch313)
 
 ----------
 ----------

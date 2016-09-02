@@ -15,7 +15,7 @@
 
 ## § 2258E. Definitions
 
-In sections 2258A through 2258D—
+    In sections 2258A through 2258D—
 
     (1) the terms “attorney for the government” and “State” have the meanings given those terms in rule 1 of the Federal Rules of Criminal Procedure;
 

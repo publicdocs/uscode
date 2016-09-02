@@ -15,7 +15,7 @@
 
 ## § 3102. Authority to issue search warrant—(Rule)
 
-See Federal Rules of Criminal Procedure
+ __See Federal Rules of Criminal Procedure__ 
 
     Federal, State or Territorial Judges, or U.S. magistrate judges authorized to issue search warrants, Rule 41(a).
 

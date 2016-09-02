@@ -15,7 +15,7 @@
 
 ## § 3736. Certiorari—(Rule)
 
-See Federal Rules of Criminal Procedure
+ __See Federal Rules of Criminal Procedure__ 
 
     Petition to Supreme Court, time, Rule 37(b).
 

@@ -47,7 +47,7 @@
 
         (14) to procure the services of experts and consultants in accordance with [section 3109 of title 5][/us/usc/t5/s3109] of the United States Code, at rates of compensation not to exceed the daily equivalent of the rate authorized for GS–18 by [section 5332 of title 5][/us/usc/t5/s5332] of the United States Code.
 
-        \[(b) Repealed. [Pub. L. 97–375, title I, § 109(a)][/us/pl/97/375/s109/a], Dec. 21, 1982, [96 Stat. 1820][/us/stat/96/1820].\]
+    \[(b) Repealed. [Pub. L. 97–375, title I, § 109(a)][/us/pl/97/375/s109/a], Dec. 21, 1982, [96 Stat. 1820][/us/stat/96/1820].\]
 
     (c) Each recipient of assistance under this chapter shall keep such records as the Institute shall prescribe, including records which fully disclose the amount and disposition by such recipient of the proceeds of such assistance, the total cost of the project or undertaking in connection with which such assistance is given or used, and the amount of that portion of the cost of the project or undertaking supplied by other sources, and such other records as will facilitate an effective audit.
 

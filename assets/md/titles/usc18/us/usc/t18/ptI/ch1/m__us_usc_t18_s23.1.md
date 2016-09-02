@@ -1,7 +1,7 @@
 ---
 ---
 
-# 18 U.S.C., USLM ref /us/usc/t18/s23
+# 18 U.S.C., USLM ref /us/usc/t18/s23.1
 
 * Portions Copyright © 2016 the authors of the https://github.com/publicdocs project.
   Use of this file is subject to the NOTICE at [https://github.com/publicdocs/uscode/blob/master/NOTICE](https://github.com/publicdocs/uscode/blob/master/NOTICE)
@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t18/ptI/ch1/m__us_usc_t18_s21.md) | [Next](./../../../../..//us/usc/t18/ptI/ch1/m__us_usc_t18_s24.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs23)
+[Previous](./../../../../..//us/usc/t18/ptI/ch1/m__us_usc_t18_s21.md) | [Next](./../../../../..//us/usc/t18/ptI/ch1/m__us_usc_t18_s24.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs23.1)
 
 ## § 23. <sup>\[1\]</sup>  <sup><sup> 1 So in original. No section 22 has been enacted. </sup></sup>  Court of the United States defined
 
@@ -21,7 +21,7 @@
 
 ----------
 
-[Previous](./../../../../..//us/usc/t18/ptI/ch1/m__us_usc_t18_s21.md) | [Next](./../../../../..//us/usc/t18/ptI/ch1/m__us_usc_t18_s24.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs23)
+[Previous](./../../../../..//us/usc/t18/ptI/ch1/m__us_usc_t18_s21.md) | [Next](./../../../../..//us/usc/t18/ptI/ch1/m__us_usc_t18_s24.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs23.1)
 
 ----------
 ----------

@@ -17,35 +17,29 @@
 
     (1)
 
-     Except as otherwise specifically provided in this chapter, any person who intentionally—
-
-        (a) sends through the mail, or sends or carries in interstate or foreign commerce, any electronic, mechanical, or other device, knowing or having reason to know that the design of such device renders it primarily useful for the purpose of the surreptitious interception of wire, oral, or electronic communications;
+     Except as otherwise specifically provided in this chapter, any person who intentionally—    (a) sends through the mail, or sends or carries in interstate or foreign commerce, any electronic, mechanical, or other device, knowing or having reason to know that the design of such device renders it primarily useful for the purpose of the surreptitious interception of wire, oral, or electronic communications;
 
         (b) manufactures, assembles, possesses, or sells any electronic, mechanical, or other device, knowing or having reason to know that the design of such device renders it primarily useful for the purpose of the surreptitious interception of wire, oral, or electronic communications, and that such device or any component thereof has been or will be sent through the mail or transported in interstate or foreign commerce; or
 
-        (c) places in any newspaper, magazine, handbill, or other publication or disseminates by electronic means any advertisement of—
+        (c)
 
-    (i) any electronic, mechanical, or other device knowing or having reason to know that the design of such device renders it primarily useful for the purpose of the surreptitious interception of wire, oral, or electronic communications; or
+         places in any newspaper, magazine, handbill, or other publication or disseminates by electronic means any advertisement of—    (i) any electronic, mechanical, or other device knowing or having reason to know that the design of such device renders it primarily useful for the purpose of the surreptitious interception of wire, oral, or electronic communications; or
 
-    (ii)
+            (ii) any other electronic, mechanical, or other device, where such advertisement promotes the use of such device for the purpose of the surreptitious interception of wire, oral, or electronic communications,
 
-     any other electronic, mechanical, or other device, where such advertisement promotes the use of such device for the purpose of the surreptitious interception of wire, oral, or electronic communications,
-
-        knowing the content of the advertisement and knowing or having reason to know that such advertisement will be sent through the mail or transported in interstate or foreign commerce,
+            knowing the content of the advertisement and knowing or having reason to know that such advertisement will be sent through the mail or transported in interstate or foreign commerce,
 
         shall be fined under this title or imprisoned not more than five years, or both.
 
-        (2)
+    (2)
 
-         It shall not be unlawful under this section for—
+     It shall not be unlawful under this section for—    (a) a provider of wire or electronic communication service or an officer, agent, or employee of, or a person under contract with, such a provider, in the normal course of the business of providing that wire or electronic communication service, or
 
-            (a) a provider of wire or electronic communication service or an officer, agent, or employee of, or a person under contract with, such a provider, in the normal course of the business of providing that wire or electronic communication service, or
+        (b) an officer, agent, or employee of, or a person under contract with, the United States, a State, or a political subdivision thereof, in the normal course of the activities of the United States, a State, or a political subdivision thereof,
 
-            (b) an officer, agent, or employee of, or a person under contract with, the United States, a State, or a political subdivision thereof, in the normal course of the activities of the United States, a State, or a political subdivision thereof,
+        to send through the mail, send or carry in interstate or foreign commerce, or manufacture, assemble, possess, or sell any electronic, mechanical, or other device knowing or having reason to know that the design of such device renders it primarily useful for the purpose of the surreptitious interception of wire, oral, or electronic communications.
 
-            to send through the mail, send or carry in interstate or foreign commerce, or manufacture, assemble, possess, or sell any electronic, mechanical, or other device knowing or having reason to know that the design of such device renders it primarily useful for the purpose of the surreptitious interception of wire, oral, or electronic communications.
-
-        (3) It shall not be unlawful under this section to advertise for sale a device described in subsection (1) of this section if the advertisement is mailed, sent, or carried in interstate or foreign commerce solely to a domestic provider of wire or electronic communication service or to an agency of the United States, a State, or a political subdivision thereof which is duly authorized to use such device.
+    (3) It shall not be unlawful under this section to advertise for sale a device described in subsection (1) of this section if the advertisement is mailed, sent, or carried in interstate or foreign commerce solely to a domestic provider of wire or electronic communication service or to an agency of the United States, a State, or a political subdivision thereof which is duly authorized to use such device.
 
 (Added [Pub. L. 90–351, title III, § 802][/us/pl/90/351/s802], June 19, 1968, [82 Stat. 214][/us/stat/82/214]; amended [Pub. L. 99–508, title I, § 101(c)(1)(A)][/us/pl/99/508/s101/c/1/A], (7), (f)(2), Oct. 21, 1986, [100 Stat. 1851][/us/stat/100/1851], 1853; [Pub. L. 103–322, title XXXIII][/us/pl/103/322], §§ 330016(1)(L), 330022, Sept. 13, 1994, [108 Stat. 2147][/us/stat/108/2147], 2150; [Pub. L. 104–294, title VI, § 604(b)(45)][/us/pl/104/294/s604/b/45], Oct. 11, 1996, [110 Stat. 3509][/us/stat/110/3509]; [Pub. L. 105–112, § 2][/us/pl/105/112/s2], Nov. 21, 1997, [111 Stat. 2273][/us/stat/111/2273]; [Pub. L. 107–296, title II, § 225(f)][/us/pl/107/296/s225/f], Nov. 25, 2002, [116 Stat. 2158][/us/stat/116/2158].)
 

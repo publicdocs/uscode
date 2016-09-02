@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t18/ptIV/ch402/m__us_usc_t18_s5010 to 5026.md) | [Next](./../../../../..//us/usc/t18/ptIV/ch403/m__us_usc_t18_s5031.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2FptIV%2Fch403)
+[Previous](./../../../../..//us/usc/t18/ptIV/ch402/m__us_usc_t18_ptIV_ch402.md) | [Next](./../../../../..//us/usc/t18/ptIV/ch403/m__us_usc_t18_s5031.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2FptIV%2Fch403)
 
 ### CHAPTER 403—JUVENILE DELINQUENCY
 
@@ -135,7 +135,7 @@
 
 ----------
 
-[Previous](./../../../../..//us/usc/t18/ptIV/ch402/m__us_usc_t18_s5010 to 5026.md) | [Next](./../../../../..//us/usc/t18/ptIV/ch403/m__us_usc_t18_s5031.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2FptIV%2Fch403)
+[Previous](./../../../../..//us/usc/t18/ptIV/ch402/m__us_usc_t18_ptIV_ch402.md) | [Next](./../../../../..//us/usc/t18/ptIV/ch403/m__us_usc_t18_s5031.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2FptIV%2Fch403)
 
 ----------
 ----------

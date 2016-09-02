@@ -15,7 +15,7 @@
 
 ## § 2246. Definitions for chapter
 
-As used in this chapter—
+    As used in this chapter—
 
     (1) the term “prison” means a correctional, detention, or penal facility;
 

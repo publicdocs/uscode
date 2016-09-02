@@ -15,7 +15,7 @@
 
 ## § 3433. Arraignment—(Rule)
 
-See Federal Rules of Criminal Procedure
+ __See Federal Rules of Criminal Procedure__ 
 
     Reading and furnishing copy of indictment to accused, Rule 10.
 

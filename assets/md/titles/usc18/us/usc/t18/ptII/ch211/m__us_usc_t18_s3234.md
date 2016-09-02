@@ -15,7 +15,7 @@
 
 ## § 3234. Change of venue to another district—(Rule)
 
-See Federal Rules of Criminal Procedure
+ __See Federal Rules of Criminal Procedure__ 
 
     Plea or disposal of case in district other than that in which defendant was arrested, Rule 20.
 

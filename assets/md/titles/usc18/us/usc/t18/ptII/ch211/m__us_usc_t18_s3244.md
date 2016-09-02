@@ -15,7 +15,7 @@
 
 ## § 3244. Jurisdiction of proceedings relating to transferred offenders
 
-When a treaty is in effect between the United States and a foreign country providing for the transfer of convicted offenders—
+    When a treaty is in effect between the United States and a foreign country providing for the transfer of convicted offenders—
 
     (1) the country in which the offender was convicted shall have exclusive jurisdiction and competence over proceedings seeking to challenge, modify, or set aside convictions or sentences handed down by a court of such country;
 

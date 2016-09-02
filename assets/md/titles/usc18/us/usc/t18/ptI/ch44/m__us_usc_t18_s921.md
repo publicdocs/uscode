@@ -177,7 +177,7 @@
 
             (B) any combination of parts from which a firearm described in subparagraph (A) can be assembled.
 
-            \[(30), (31) Repealed. [Pub. L. 103–322, title XI, § 110105(2)][/us/pl/103/322/s110105/2], Sept. 13, 1994, [108 Stat. 2000][/us/stat/108/2000].\]
+        \[(30), (31) Repealed. [Pub. L. 103–322, title XI, § 110105(2)][/us/pl/103/322/s110105/2], Sept. 13, 1994, [108 Stat. 2000][/us/stat/108/2000].\]
 
         (32) The term “intimate partner” means, with respect to a person, the spouse of the person, a former spouse of the person, an individual who is a parent of a child of the person, and an individual who cohabitates or has cohabited with the person.
 

@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t18/ptI/ch47/m__us_usc_t18_s1008, 1009.md) | [Next](./../../../../..//us/usc/t18/ptI/ch47/m__us_usc_t18_s1011.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs1010)
+[Previous](./../../../../..//us/usc/t18/ptI/ch47/m__us_usc_t18_s1007.md) | [Next](./../../../../..//us/usc/t18/ptI/ch47/m__us_usc_t18_s1011.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs1010)
 
 ## § 1010. Department of Housing and Urban Development and Federal Housing Administration transactions
 
@@ -37,7 +37,7 @@
 
 ----------
 
-[Previous](./../../../../..//us/usc/t18/ptI/ch47/m__us_usc_t18_s1008, 1009.md) | [Next](./../../../../..//us/usc/t18/ptI/ch47/m__us_usc_t18_s1011.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs1010)
+[Previous](./../../../../..//us/usc/t18/ptI/ch47/m__us_usc_t18_s1007.md) | [Next](./../../../../..//us/usc/t18/ptI/ch47/m__us_usc_t18_s1011.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs1010)
 
 ----------
 ----------

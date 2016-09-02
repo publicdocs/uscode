@@ -15,15 +15,15 @@
 
 ## § 1508. Recording, listening to, or observing proceedings of grand or petit juries while deliberating or voting
 
-Whoever knowingly and willfully, by any means or device whatsoever—
+    Whoever knowingly and willfully, by any means or device whatsoever—
 
     (a) records, or attempts to record, the proceedings of any grand or petit jury in any court of the United States while such jury is deliberating or voting; or
 
     (b) listens to or observes, or attempts to listen to or observe, the proceedings of any grand or petit jury of which he is not a member in any court of the United States while such jury is deliberating or voting—
 
-        shall be fined under this title or imprisoned not more than one year, or both.
+    shall be fined under this title or imprisoned not more than one year, or both.
 
-        Nothing in paragraph (a) of this section shall be construed to prohibit the taking of notes by a grand or petit juror in any court of the United States in connection with and solely for the purpose of assisting him in the performance of his duties as such juror.
+    Nothing in paragraph (a) of this section shall be construed to prohibit the taking of notes by a grand or petit juror in any court of the United States in connection with and solely for the purpose of assisting him in the performance of his duties as such juror.
 
 (Added [Aug. 2, 1956, ch. 879, § 1][/us/act/1956-08-02/ch879/s1], [70 Stat. 935][/us/stat/70/935]; amended [Pub. L. 103–322, title XXXIII, § 330016(1)(H)][/us/pl/103/322/s330016/1/H], Sept. 13, 1994, [108 Stat. 2147][/us/stat/108/2147]; [Pub. L. 104–294, title VI, § 601(f)(13)][/us/pl/104/294/s601/f/13], Oct. 11, 1996, [110 Stat. 3500][/us/stat/110/3500].)
 

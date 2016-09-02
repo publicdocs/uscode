@@ -15,7 +15,7 @@
 
 ## § 3365. Amendment of information—(Rule)
 
-See Federal Rules of Criminal Procedure
+ __See Federal Rules of Criminal Procedure__ 
 
     Amendment of information, time and conditions, Rule 7(e).
 

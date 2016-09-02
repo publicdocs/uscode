@@ -15,7 +15,7 @@
 
 ## § 3735. Bail on appeal or certiorari—(Rule)
 
-See Federal Rules of Criminal Procedure
+ __See Federal Rules of Criminal Procedure__ 
 
     Bail on appeal or certiorari; application, Rules 38(c) and 46(a)(2).
 

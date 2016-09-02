@@ -15,7 +15,7 @@
 
 ## § 3733. Assignment of errors—(Rule)
 
-See Federal Rules of Criminal Procedure
+ __See Federal Rules of Criminal Procedure__ 
 
     Assignments of error on appeal abolished, Rule 37(a)(1).
 

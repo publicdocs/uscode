@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t18/ptI/ch1/m__us_usc_t18_s20.md) | [Next](./../../../../..//us/usc/t18/ptI/ch1/m__us_usc_t18_s23.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs21)
+[Previous](./../../../../..//us/usc/t18/ptI/ch1/m__us_usc_t18_s20.md) | [Next](./../../../../..//us/usc/t18/ptI/ch1/m__us_usc_t18_s23.1.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs21)
 
 ## § 21. Stolen or counterfeit nature of property for certain crimes defined
 
@@ -31,7 +31,7 @@
 
 ----------
 
-[Previous](./../../../../..//us/usc/t18/ptI/ch1/m__us_usc_t18_s20.md) | [Next](./../../../../..//us/usc/t18/ptI/ch1/m__us_usc_t18_s23.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs21)
+[Previous](./../../../../..//us/usc/t18/ptI/ch1/m__us_usc_t18_s20.md) | [Next](./../../../../..//us/usc/t18/ptI/ch1/m__us_usc_t18_s23.1.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs21)
 
 ----------
 ----------

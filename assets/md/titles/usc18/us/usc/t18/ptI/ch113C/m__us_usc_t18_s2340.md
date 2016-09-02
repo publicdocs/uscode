@@ -15,7 +15,7 @@
 
 ## § 2340. Definitions
 
-As used in this chapter—
+    As used in this chapter—
 
     (1) “torture” means an act committed by a person acting under the color of law specifically intended to inflict severe physical or mental pain or suffering (other than pain or suffering incidental to lawful sanctions) upon another person within his custody or physical control;
 

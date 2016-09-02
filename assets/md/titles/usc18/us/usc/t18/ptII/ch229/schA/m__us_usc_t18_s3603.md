@@ -15,7 +15,7 @@
 
 ## § 3603. Duties of probation officers
 
-A probation officer shall—
+    A probation officer shall—
 
     (1) instruct a probationer or a person on supervised release, who is under his supervision, as to the conditions specified by the sentencing court, and provide him with a written statement clearly setting forth all such conditions;
 

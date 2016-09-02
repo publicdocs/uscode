@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t18/ptI/ch29/m__us_usc_t18_s612 to 617.md) | [Next](./../../../../..//us/usc/t18/ptI/ch31/m__us_usc_t18_s641.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2FptI%2Fch31)
+[Previous](./../../../../..//us/usc/t18/ptI/ch29/m__us_usc_t18_s611.md) | [Next](./../../../../..//us/usc/t18/ptI/ch31/m__us_usc_t18_s641.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2FptI%2Fch31)
 
 ### CHAPTER 31—EMBEZZLEMENT AND THEFT
 
@@ -291,7 +291,7 @@
 
 ----------
 
-[Previous](./../../../../..//us/usc/t18/ptI/ch29/m__us_usc_t18_s612 to 617.md) | [Next](./../../../../..//us/usc/t18/ptI/ch31/m__us_usc_t18_s641.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2FptI%2Fch31)
+[Previous](./../../../../..//us/usc/t18/ptI/ch29/m__us_usc_t18_s611.md) | [Next](./../../../../..//us/usc/t18/ptI/ch31/m__us_usc_t18_s641.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2FptI%2Fch31)
 
 ----------
 ----------

@@ -15,7 +15,7 @@
 
 ## § 3443. Instructions to jury—(Rule)
 
-See Federal Rules of Criminal Procedure
+ __See Federal Rules of Criminal Procedure__ 
 
     Court’s instructions to jury, written requests and copies, objections, Rule 30.
 

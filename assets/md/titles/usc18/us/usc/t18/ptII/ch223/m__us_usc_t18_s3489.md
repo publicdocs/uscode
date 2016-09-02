@@ -15,7 +15,7 @@
 
 ## § 3489. Discovery and inspection—(Rule)
 
-See Federal Rules of Criminal Procedure
+ __See Federal Rules of Criminal Procedure__ 
 
     Inspection of documents and papers taken from defendant, Rule 16.
 

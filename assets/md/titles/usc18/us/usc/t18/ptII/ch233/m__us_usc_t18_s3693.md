@@ -15,7 +15,7 @@
 
 ## § 3693. Summary disposition or jury trial; notice—(Rule)
 
-See Federal Rules of Criminal Procedure
+ __See Federal Rules of Criminal Procedure__ 
 
     Summary punishment; certificate of judge; order; notice; jury trial; bail; disqualification of judge, Rule 42.
 

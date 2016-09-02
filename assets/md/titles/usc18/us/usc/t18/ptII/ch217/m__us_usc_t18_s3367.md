@@ -15,7 +15,7 @@
 
 ## § 3367. Dismissal—(Rule)
 
-See Federal Rules of Criminal Procedure
+ __See Federal Rules of Criminal Procedure__ 
 
     Dismissal filed by Attorney General or United States Attorney, Rule 48.
 

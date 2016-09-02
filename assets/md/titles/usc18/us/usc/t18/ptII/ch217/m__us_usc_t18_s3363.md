@@ -15,7 +15,7 @@
 
 ## § 3363. Joinder of offenses—(Rule)
 
-See Federal Rules of Criminal Procedure
+ __See Federal Rules of Criminal Procedure__ 
 
     Joinder of two or more offenses in same indictment, Rule 8(a).
 

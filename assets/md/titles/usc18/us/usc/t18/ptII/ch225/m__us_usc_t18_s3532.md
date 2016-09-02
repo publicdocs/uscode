@@ -15,7 +15,7 @@
 
 ## § 3532. Setting aside verdict of guilty; judgment notwithstanding verdict—(Rule)
 
-See Federal Rules of Criminal Procedure
+ __See Federal Rules of Criminal Procedure__ 
 
     Setting aside verdict of guilty on motion for judgment of acquittal, entering of such judgment, or ordering new trial; absence of verdict, Rule 29(b).
 

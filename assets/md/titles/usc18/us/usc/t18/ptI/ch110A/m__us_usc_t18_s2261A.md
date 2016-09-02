@@ -15,7 +15,7 @@
 
 ## § 2261A. Stalking
 
-Whoever—
+    Whoever—
 
     (1)
 

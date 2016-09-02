@@ -15,7 +15,7 @@
 
 ## § 3361. Form and contents—(Rule)
 
-See Federal Rules of Criminal Procedure
+ __See Federal Rules of Criminal Procedure__ 
 
     Contents and form; striking surplusage, Rule 7(a), (c), (d).
 

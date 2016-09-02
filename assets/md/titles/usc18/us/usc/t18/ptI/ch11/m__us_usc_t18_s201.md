@@ -175,7 +175,7 @@
 
                               Robert F. Kennedy, 
 
-    Attorney General.
+Attorney General.
 
  __Memorandum re the Conflict of Interest Provisions of__  __[__  __Public Law 87–849__  __][/us/pl/87/849]__  __,__  __[__  __76 Stat. 1119__  __][/us/stat/76/1119]__  __, Approved__  __October 23, 1962__ 
 

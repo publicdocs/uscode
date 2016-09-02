@@ -15,7 +15,7 @@
 
 ## § 841. Definitions
 
-As used in this chapter—
+    As used in this chapter—
 
     (a) “Person” means any individual, corporation, company, association, firm, partnership, society, or joint stock company.
 

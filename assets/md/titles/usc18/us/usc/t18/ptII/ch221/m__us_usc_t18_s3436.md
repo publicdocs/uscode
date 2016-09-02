@@ -15,7 +15,7 @@
 
 ## § 3436. Consolidation of indictments or informations—(Rule)
 
-See Federal Rules of Criminal Procedure
+ __See Federal Rules of Criminal Procedure__ 
 
     Two or more indictments or informations triable together, Rule 13.
 

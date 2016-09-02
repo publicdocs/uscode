@@ -15,7 +15,7 @@
 
 ## § 1833. Exceptions to prohibitions
 
-This chapter does not prohibit—
+    This chapter does not prohibit—
 
     (1) any otherwise lawful activity conducted by a governmental entity of the United States, a State, or a political subdivision of a State; or
 

@@ -15,7 +15,7 @@
 
 ## § 232. Definitions
 
-For purposes of this chapter:
+    For purposes of this chapter:
 
     (1) The term “civil disorder” means any public disturbance involving acts of violence by assemblages of three or more persons, which causes an immediate danger of or results in damage or injury to the property or person of any other individual.
 

@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t18/ptI/ch11/m__us_usc_t18_s218.md) | [Next](./../../../../..//us/usc/t18/ptI/ch11/m__us_usc_t18_s220 to 222.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs219)
+[Previous](./../../../../..//us/usc/t18/ptI/ch11/m__us_usc_t18_s218.md) | [Next](./../../../../..//us/usc/t18/ptI/ch11/m__us_usc_t18_s223.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs219)
 
 ## § 219. Officers and employees acting as agents of foreign principals
 
@@ -55,9 +55,11 @@
 
     Section effective ninety days after July 4, 1966, see [section 9 of Pub. L. 89–486][/us/pl/89/486/s9], set out as an Effective Date of 1966 Amendment note under [section 611 of Title 22][/us/usc/t22/s611], Foreign Relations and Intercourse.
 
+\[§§ 220 to 222. __Renumbered §§ 215 to 217\]__ 
+
 ----------
 
-[Previous](./../../../../..//us/usc/t18/ptI/ch11/m__us_usc_t18_s218.md) | [Next](./../../../../..//us/usc/t18/ptI/ch11/m__us_usc_t18_s220 to 222.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs219)
+[Previous](./../../../../..//us/usc/t18/ptI/ch11/m__us_usc_t18_s218.md) | [Next](./../../../../..//us/usc/t18/ptI/ch11/m__us_usc_t18_s223.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs219)
 
 ----------
 ----------

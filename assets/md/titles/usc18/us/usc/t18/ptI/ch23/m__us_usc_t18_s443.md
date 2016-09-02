@@ -15,17 +15,17 @@
 
 ## § 443. War contracts
 
-Whoever willfully secretes, mutilates, obliterates, or destroys—
+    Whoever willfully secretes, mutilates, obliterates, or destroys—
 
     (a) any records of a war contractor relating to the negotiation, award, performance, payment, interim financing, cancellation or other termination, or settlement of a war contract of $25,000 or more; or
 
     (b) any records of a war contractor or purchaser relating to any disposition of termination inventory in which the consideration received by any war contractor or any government agency is $5,000 or more,
 
-        before the lapse of (1) five years after such disposition of termination inventory by such war contractor or government agency, or (2) five years after the final settlement of such war contract, whichever applicable period is longer, shall be fined under this title or imprisoned not more than five years, or both.
+    before the lapse of (1) five years after such disposition of termination inventory by such war contractor or government agency, or (2) five years after the final settlement of such war contract, whichever applicable period is longer, shall be fined under this title or imprisoned not more than five years, or both.
 
-        The Administrator of General Services, by regulation, may authorize the destruction of such records upon such terms and conditions as he deems appropriate, including the requirement for the making and retaining of photographs or microphotographs, which shall have the same force and effect as the originals thereof.
+    The Administrator of General Services, by regulation, may authorize the destruction of such records upon such terms and conditions as he deems appropriate, including the requirement for the making and retaining of photographs or microphotographs, which shall have the same force and effect as the originals thereof.
 
-        The definitions of terms in section 103  <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  of Title 41 shall apply to similar terms used in this section.
+    The definitions of terms in section 103  <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  of Title 41 shall apply to similar terms used in this section.
 
 ([June 25, 1948, ch. 645][/us/act/1948-06-25/ch645], [62 Stat. 704][/us/stat/62/704]; [Oct. 31, 1951, ch. 655, § 20(a)][/us/act/1951-10-31/ch655/s20/a], [65 Stat. 717][/us/stat/65/717]; [Pub. L. 103–322, title XXXIII][/us/pl/103/322], §§ 330004(17), 330016(2)(F), Sept. 13, 1994, [108 Stat. 2142][/us/stat/108/2142], 2148.)
 

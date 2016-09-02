@@ -15,7 +15,7 @@
 
 ## § 3734. Bill of exceptions abolished—(Rule)
 
-See Federal Rules of Criminal Procedure
+ __See Federal Rules of Criminal Procedure__ 
 
     Exceptions abolished, Rule 51.
 

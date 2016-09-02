@@ -15,7 +15,7 @@
 
 ## § 3239. Optional venue for espionage and related offenses
 
-The trial for any offense involving a violation, begun or committed upon the high seas or elsewhere out of the jurisdiction of any particular State or district, of—
+    The trial for any offense involving a violation, begun or committed upon the high seas or elsewhere out of the jurisdiction of any particular State or district, of—
 
     (1) section 793, 794, 798, or [section 1030(a)(1) of this title][/us/usc/t18/s1030/a/1];
 
@@ -23,7 +23,7 @@ The trial for any offense involving a violation, begun or committed upon the hig
 
     (3) section 4(b) or 4(c) of the Subversive Activities Control Act of 1950 ([50 U.S.C. 783(b)][/us/usc/t50/s783/b] or (c));
 
-        may be in the District of Columbia or in any other district authorized by law.
+    may be in the District of Columbia or in any other district authorized by law.
 
 (Added [Pub. L. 103–322, title XXXII, § 320909(a)][/us/pl/103/322/s320909/a], Sept. 13, 1994, [108 Stat. 2127][/us/stat/108/2127].)
 

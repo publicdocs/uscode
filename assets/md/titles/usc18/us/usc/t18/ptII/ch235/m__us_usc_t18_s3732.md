@@ -15,7 +15,7 @@
 
 ## § 3732. Taking of appeal; notice; time—(Rule)
 
-See Federal Rules of Criminal Procedure
+ __See Federal Rules of Criminal Procedure__ 
 
     Taking appeal; notice, contents, signing; time, Rule 37(a).
 

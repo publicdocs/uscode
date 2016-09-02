@@ -15,7 +15,7 @@
 
 ## § 3127. Definitions for chapter
 
-As used in this chapter—
+    As used in this chapter—
 
     (1) the terms “wire communication”, “electronic communication”, “electronic communication service”, and “contents” have the meanings set forth for such terms in [section 2510 of this title][/us/usc/t18/s2510];
 

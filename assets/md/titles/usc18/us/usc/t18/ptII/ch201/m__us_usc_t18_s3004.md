@@ -15,7 +15,7 @@
 
 ## § 3004. Decorum in court room—(Rule)
 
-See Federal Rules of Criminal Procedure
+ __See Federal Rules of Criminal Procedure__ 
 
     Photographing or radio broadcasting prohibited, rule 53.
 

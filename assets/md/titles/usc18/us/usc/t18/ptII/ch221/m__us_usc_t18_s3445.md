@@ -15,7 +15,7 @@
 
 ## § 3445. Motion for judgment of acquittal—(Rule)
 
-See Federal Rules of Criminal Procedure
+ __See Federal Rules of Criminal Procedure__ 
 
     Motions for directed verdict abolished.
 

@@ -15,7 +15,7 @@
 
 ## § 2266. Definitions
 
-In this chapter:
+    In this chapter:
 
     (1) __Bodily injury.—__ 
 

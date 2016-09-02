@@ -15,7 +15,7 @@
 
 ## § 16. Crime of violence defined
 
-The term “crime of violence” means—
+    The term “crime of violence” means—
 
     (a) an offense that has as an element the use, attempted use, or threatened use of physical force against the person or prop­erty of another, or
 

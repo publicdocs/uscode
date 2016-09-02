@@ -1,7 +1,7 @@
 ---
 ---
 
-# 18 U.S.C., USLM ref /us/usc/t18/s2282A
+# 18 U.S.C., USLM ref /us/usc/t18/s2282A.1
 
 * Portions Copyright © 2016 the authors of the https://github.com/publicdocs project.
   Use of this file is subject to the NOTICE at [https://github.com/publicdocs/uscode/blob/master/NOTICE](https://github.com/publicdocs/uscode/blob/master/NOTICE)
@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t18/ptI/ch111/m__us_usc_t18_s2281.md) | [Next](./../../../../..//us/usc/t18/ptI/ch111/m__us_usc_t18_s2282B.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs2282A)
+[Previous](./../../../../..//us/usc/t18/ptI/ch111/m__us_usc_t18_s2281.md) | [Next](./../../../../..//us/usc/t18/ptI/ch111/m__us_usc_t18_s2282B.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs2282A.1)
 
 ## § 2282A. <sup>\[1\]</sup>  <sup><sup> 1 So in original. No section 2282 has been enacted. </sup></sup>  Devices or dangerous substances in waters of the United States likely to destroy or damage ships or to interfere with maritime commerce
 
@@ -33,7 +33,7 @@
 
 ----------
 
-[Previous](./../../../../..//us/usc/t18/ptI/ch111/m__us_usc_t18_s2281.md) | [Next](./../../../../..//us/usc/t18/ptI/ch111/m__us_usc_t18_s2282B.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs2282A)
+[Previous](./../../../../..//us/usc/t18/ptI/ch111/m__us_usc_t18_s2281.md) | [Next](./../../../../..//us/usc/t18/ptI/ch111/m__us_usc_t18_s2282B.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs2282A.1)
 
 ----------
 ----------

@@ -15,13 +15,13 @@
 
 ## § 1923. Fraudulent receipt of payments of missing persons
 
-Whoever obtains or receives any money, check, or allotment under—
+    Whoever obtains or receives any money, check, or allotment under—
 
     (1) subchapter VII of chapter 55 of title 5; or
 
     (2) chapter 10 of title 37;
 
-        without being entitled thereto, with intent to defraud, shall be fined under this title or imprisoned not more than one year, or both.
+    without being entitled thereto, with intent to defraud, shall be fined under this title or imprisoned not more than one year, or both.
 
 (Added [Pub. L. 89–554, § 3(d)][/us/pl/89/554/s3/d], Sept. 6, 1966, [80 Stat. 610][/us/stat/80/610]; amended [Pub. L. 103–322, title XXXIII, § 330016(1)(I)][/us/pl/103/322/s330016/1/I], Sept. 13, 1994, [108 Stat. 2147][/us/stat/108/2147].)
 

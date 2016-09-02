@@ -15,7 +15,7 @@
 
 ## § 3499. Contempt of court by witness—(Rule)
 
-See Federal Rules of Criminal Procedure
+ __See Federal Rules of Criminal Procedure__ 
 
     Disobedience of subpoena without excuse as contempt, Rule 17(g).
 

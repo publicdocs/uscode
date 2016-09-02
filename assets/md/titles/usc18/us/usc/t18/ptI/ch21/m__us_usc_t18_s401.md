@@ -15,7 +15,7 @@
 
 ## § 401. Power of court
 
-A court of the United States shall have power to punish by fine or imprisonment, or both, at its discretion, such contempt of its authority, and none other, as—
+    A court of the United States shall have power to punish by fine or imprisonment, or both, at its discretion, such contempt of its authority, and none other, as—
 
     (1) Misbehavior of any person in its presence or so near thereto as to obstruct the administration of justice;
 

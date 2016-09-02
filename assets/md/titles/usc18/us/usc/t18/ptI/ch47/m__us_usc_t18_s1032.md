@@ -15,7 +15,7 @@
 
 ## § 1032. Concealment of assets from conservator, receiver, or liquidating agent
 
-Whoever—
+    Whoever—
 
     (1) knowingly conceals or endeavors to conceal an asset or property from the Federal Deposit Insurance Corporation, acting as conservator or receiver or in the Corporation’s corporate capacity with respect to any asset acquired or liability assumed by the Corporation under section 11, 12, or 13 of the Federal Deposit Insurance Act, any conservator appointed by the Comptroller of the Currency, the Federal Deposit Insurance Corporation acting as receiver for a covered financial company, in accordance with title II of the Dodd-Frank Wall Street Reform and Consumer Protection Act, or the National Credit Union Administration Board, acting as conservator or liquidating agent;
 
@@ -23,7 +23,7 @@ Whoever—
 
     (3) corruptly places or endeavors to place an asset or property beyond the reach of such Corporation, Board, or conservator,
 
-        shall be fined under this title or imprisoned not more than 5 years, or both.
+    shall be fined under this title or imprisoned not more than 5 years, or both.
 
 (Added [Pub. L. 101–647, title XXV, § 2501(a)][/us/pl/101/647/s2501/a], Nov. 29, 1990, [104 Stat. 4859][/us/stat/104/4859]; amended [Pub. L. 107–273, div. B, title IV, § 4002(b)(13)][/us/pl/107/273/s4002/b/13], Nov. 2, 2002, [116 Stat. 1808][/us/stat/116/1808]; [Pub. L. 111–203, title II, § 211(a)][/us/pl/111/203/s211/a], (b), title III, § 377(7), July 21, 2010, [124 Stat. 1514][/us/stat/124/1514], 1569.)
 

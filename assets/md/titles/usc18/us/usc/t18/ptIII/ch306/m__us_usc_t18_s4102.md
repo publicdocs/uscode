@@ -15,7 +15,7 @@
 
 ## § 4102. Authority of the Attorney General
 
-The Attorney General is authorized—
+    The Attorney General is authorized—
 
     (1) to act on behalf of the United States as the authority referred to in a treaty;
 

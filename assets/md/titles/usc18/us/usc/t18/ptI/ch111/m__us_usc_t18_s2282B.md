@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t18/ptI/ch111/m__us_usc_t18_s2282A.md) | [Next](./../../../../..//us/usc/t18/ptI/ch111/m__us_usc_t18_s2283.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs2282B)
+[Previous](./../../../../..//us/usc/t18/ptI/ch111/m__us_usc_t18_s2282A.1.md) | [Next](./../../../../..//us/usc/t18/ptI/ch111/m__us_usc_t18_s2283.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs2282B)
 
 ## § 2282B. Violence against aids to maritime navigation
 
@@ -21,7 +21,7 @@
 
 ----------
 
-[Previous](./../../../../..//us/usc/t18/ptI/ch111/m__us_usc_t18_s2282A.md) | [Next](./../../../../..//us/usc/t18/ptI/ch111/m__us_usc_t18_s2283.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs2282B)
+[Previous](./../../../../..//us/usc/t18/ptI/ch111/m__us_usc_t18_s2282A.1.md) | [Next](./../../../../..//us/usc/t18/ptI/ch111/m__us_usc_t18_s2283.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs2282B)
 
 ----------
 ----------

@@ -15,13 +15,13 @@
 
 ## § 3147. Penalty for an offense committed while on release
 
-A person convicted of an offense committed while released under this chapter shall be sentenced, in addition to the sentence prescribed for the offense, to—
+    A person convicted of an offense committed while released under this chapter shall be sentenced, in addition to the sentence prescribed for the offense, to—
 
     (1) a term of imprisonment of not more than ten years if the offense is a felony; or
 
     (2) a term of imprisonment of not more than one year if the offense is a misdemeanor.
 
-        A term of imprisonment imposed under this section shall be consecutive to any other sentence of imprisonment.
+    A term of imprisonment imposed under this section shall be consecutive to any other sentence of imprisonment.
 
 (Added [Pub. L. 98–473, title II, § 203(a)][/us/pl/98/473/s203/a], Oct. 12, 1984, [98 Stat. 1983][/us/stat/98/1983]; amended [Pub. L. 98–473, title II, § 223(g)][/us/pl/98/473/s223/g], Oct. 12, 1984, [98 Stat. 2028][/us/stat/98/2028]; [Pub. L. 99–646, § 55(g)][/us/pl/99/646/s55/g], Nov. 10, 1986, [100 Stat. 3610][/us/stat/100/3610].)
 

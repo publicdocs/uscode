@@ -15,7 +15,7 @@
 
 ## § 3172. Definitions
 
-As used in this chapter—
+    As used in this chapter—
 
     (1) the terms “judge” or “judicial officer” mean, unless otherwise indicated, any United States magistrate judge, Federal district judge, and
 

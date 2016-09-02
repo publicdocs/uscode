@@ -15,7 +15,7 @@
 
 ## § 1821. Transportation of dentures
 
-Whoever transports by mail or otherwise to or within the District of Columbia or any Possession of the United States or uses the mails or any instrumentality of interstate commerce for the purpose of sending or bringing into any State or Territory any set of artificial teeth or prosthetic dental appliance or other denture, constructed from any cast or impression made by any person other than, or without the authorization or prescription of, a person licensed to practice dentistry under the laws of the place into which such denture is sent or brought, where such laws prohibit;
+    Whoever transports by mail or otherwise to or within the District of Columbia or any Possession of the United States or uses the mails or any instrumentality of interstate commerce for the purpose of sending or bringing into any State or Territory any set of artificial teeth or prosthetic dental appliance or other denture, constructed from any cast or impression made by any person other than, or without the authorization or prescription of, a person licensed to practice dentistry under the laws of the place into which such denture is sent or brought, where such laws prohibit;
 
     (1) the taking of impressions or casts of the human mouth or teeth by a person not licensed under such laws to practice dentistry;
 
@@ -23,7 +23,7 @@ Whoever transports by mail or otherwise to or within the District of Columbia or
 
     (3) the construction or supply of dentures from impressions or casts made by a person not licensed under such laws to practice dentistry—
 
-        Shall be fined under this title or imprisoned not more than one year, or both.
+    Shall be fined under this title or imprisoned not more than one year, or both.
 
 ([June 25, 1948, ch. 645][/us/act/1948-06-25/ch645], [62 Stat. 786][/us/stat/62/786]; [Pub. L. 104–294, title VI, § 601(a)(8)][/us/pl/104/294/s601/a/8], Oct. 11, 1996, [110 Stat. 3498][/us/stat/110/3498]; [Pub. L. 107–273, div. B, title IV, § 4004(c)][/us/pl/107/273/s4004/c], Nov. 2, 2002, [116 Stat. 1812][/us/stat/116/1812].)
 

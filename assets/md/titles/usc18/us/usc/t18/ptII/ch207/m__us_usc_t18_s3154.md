@@ -15,7 +15,7 @@
 
 ## § 3154. Functions and powers relating to pretrial services
 
-Pretrial services functions shall include the following:
+    Pretrial services functions shall include the following:
 
     (1) Collect, verify, and report to the judicial officer, prior to the pretrial release hearing, information pertaining to the pretrial release of each individual charged with an offense, including information relating to any danger that the release of such person may pose to any other person or the community, and, where appropriate, include a recommendation as to whether such individual should be released or detained and, if release is recommended, recommend appropriate conditions of release; except that a district court may direct that information not be collected, verified, or reported under this paragraph on individuals charged with Class A misdemeanors as defined in [section 3559(a)(6) of this title][/us/usc/t18/s3559/a/6].
 

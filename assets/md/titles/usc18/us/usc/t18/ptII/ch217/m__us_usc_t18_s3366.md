@@ -15,7 +15,7 @@
 
 ## § 3366. Bill of particulars—(Rule)
 
-See Federal Rules of Criminal Procedure
+ __See Federal Rules of Criminal Procedure__ 
 
     Bill of particulars for cause; motion after arraignment; time; amendment, Rule 7(f).
 

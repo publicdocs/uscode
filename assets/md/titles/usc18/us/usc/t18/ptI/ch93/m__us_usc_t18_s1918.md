@@ -15,7 +15,7 @@
 
 ## § 1918. Disloyalty and asserting the right to strike against the Government
 
-Whoever violates the provision of [section 7311 of title 5][/us/usc/t5/s7311] that an individual may not accept or hold a position in the Government of the United States or the government of the District of Columbia if he—
+    Whoever violates the provision of [section 7311 of title 5][/us/usc/t5/s7311] that an individual may not accept or hold a position in the Government of the United States or the government of the District of Columbia if he—
 
     (1) advocates the overthrow of our constitutional form of government;
 
@@ -25,7 +25,7 @@ Whoever violates the provision of [section 7311 of title 5][/us/usc/t5/s7311] th
 
     (4) is a member of an organization of employees of the Government of the United States or of individuals employed by the government of the District of Columbia that he knows asserts the right to strike against the Government of the United States or the government of the District of Columbia;
 
-        shall be fined under this title or imprisoned not more than one year and a day, or both.
+    shall be fined under this title or imprisoned not more than one year and a day, or both.
 
 (Added [Pub. L. 89–554, § 3(d)][/us/pl/89/554/s3/d], Sept. 6, 1966, [80 Stat. 609][/us/stat/80/609]; amended [Pub. L. 104–294, title VI, § 601(a)(8)][/us/pl/104/294/s601/a/8], Oct. 11, 1996, [110 Stat. 3498][/us/stat/110/3498].)
 

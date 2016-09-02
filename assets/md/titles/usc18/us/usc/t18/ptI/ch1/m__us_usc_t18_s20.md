@@ -15,7 +15,7 @@
 
 ## § 20. Financial institution defined
 
-As used in this title, the term “financial institution” means—
+    As used in this title, the term “financial institution” means—
 
     (1) an insured depository institution (as defined in section 3(c)(2) of the Federal Deposit Insurance Act);
 

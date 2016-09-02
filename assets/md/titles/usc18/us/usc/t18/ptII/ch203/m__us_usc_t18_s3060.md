@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t18/ptII/ch203/m__us_usc_t18_s3059 to 3059B.md) | [Next](./../../../../..//us/usc/t18/ptII/ch203/m__us_usc_t18_s3061.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs3060)
+[Previous](./../../../../..//us/usc/t18/ptII/ch203/m__us_usc_t18_s3058.md) | [Next](./../../../../..//us/usc/t18/ptII/ch203/m__us_usc_t18_s3061.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs3060)
 
 ## § 3060. Preliminary examination
 
@@ -57,7 +57,7 @@
 
 ----------
 
-[Previous](./../../../../..//us/usc/t18/ptII/ch203/m__us_usc_t18_s3059 to 3059B.md) | [Next](./../../../../..//us/usc/t18/ptII/ch203/m__us_usc_t18_s3061.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs3060)
+[Previous](./../../../../..//us/usc/t18/ptII/ch203/m__us_usc_t18_s3058.md) | [Next](./../../../../..//us/usc/t18/ptII/ch203/m__us_usc_t18_s3061.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs3060)
 
 ----------
 ----------

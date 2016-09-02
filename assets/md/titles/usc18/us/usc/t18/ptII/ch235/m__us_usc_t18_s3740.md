@@ -15,7 +15,7 @@
 
 ## § 3740. Argument—(Rule)
 
-See Federal Rules of Criminal Procedure
+ __See Federal Rules of Criminal Procedure__ 
 
     Setting appeal for argument; preference to criminal appeals, Rule 39(d).
 

@@ -15,7 +15,7 @@
 
 ## § 3002. Courts always open—(Rule)
 
-See Federal Rules of Criminal Procedure
+ __See Federal Rules of Criminal Procedure__ 
 
     Business hours, rule 56.
 

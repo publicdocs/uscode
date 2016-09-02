@@ -15,7 +15,7 @@
 
 ## § 3738. Docketing appeal and record—(Rule)
 
-See Federal Rules of Criminal Procedure
+ __See Federal Rules of Criminal Procedure__ 
 
     Filing record on appeal and docketing proceeding; time, Rule 39(c).
 

@@ -15,7 +15,7 @@
 
 ## § 2256. Definitions for chapter
 
-For the purposes of this chapter, the term—
+    For the purposes of this chapter, the term—
 
     (1) “minor” means any person under the age of eighteen years;
 

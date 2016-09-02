@@ -13,11 +13,11 @@
 
 ~~Previous~~ | [Next](./../../..//us/usc/t18/ptI/m__us_usc_t18_ptI.md) | [Root of Title](./../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18)
 
-# 
-
-Title 18—CRIMES AND CRIMINAL PROCEDURE
+# Title 18—CRIMES AND CRIMINAL PROCEDURE
 
 This title was enacted by [act June 25, 1948, ch. 645, § 1][/us/act/1948-06-25/ch645/s1], [62 Stat. 683][/us/stat/62/683]
+
+Current through 113–44
 
 <table>
 

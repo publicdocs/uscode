@@ -15,7 +15,7 @@
 
 ## § 3434. Presence of defendant—(Rule)
 
-See Federal Rules of Criminal Procedure
+ __See Federal Rules of Criminal Procedure__ 
 
     Right of defendant to be present generally; corporation; waiver, Rule 43.
 

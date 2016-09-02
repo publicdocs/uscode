@@ -15,7 +15,7 @@
 
 ## § 3446. New trial—(Rule)
 
-See Federal Rules of Criminal Procedure
+ __See Federal Rules of Criminal Procedure__ 
 
     Granting of new trial, grounds, and motion, Rule 33.
 

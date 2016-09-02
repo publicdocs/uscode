@@ -15,13 +15,13 @@
 
 ## § 1348. Securities and commodities fraud
 
-Whoever knowingly executes, or attempts to execute, a scheme or artifice—
+    Whoever knowingly executes, or attempts to execute, a scheme or artifice—
 
     (1) to defraud any person in connection with any commodity for future delivery, or any option on a commodity for future delivery, or any security of an issuer with a class of securities registered under section 12 of the Securities Exchange Act of 1934 ([15 U.S.C. 78][/us/usc/t15/s78]l) or that is required to file reports under section 15(d) of the Securities Exchange Act of 1934 ([15 U.S.C. 78][/us/usc/t15/s78]o(d)); or
 
     (2) to obtain, by means of false or fraudulent pretenses, representations, or promises, any money or property in connection with the purchase or sale of any commodity for future delivery, or any option on a commodity for future delivery, or any security of an issuer with a class of securities registered under section 12 of the Securities Exchange Act of 1934 ([15 U.S.C. 78][/us/usc/t15/s78]l) or that is required to file reports under section 15(d) of the Securities Exchange Act of 1934 ([15 U.S.C. 78][/us/usc/t15/s78]o(d));
 
-        shall be fined under this title, or imprisoned not more than 25 years, or both.
+    shall be fined under this title, or imprisoned not more than 25 years, or both.
 
 (Added [Pub. L. 107–204, title VIII, § 807(a)][/us/pl/107/204/s807/a], July 30, 2002, [116 Stat. 804][/us/stat/116/804]; amended [Pub. L. 111–21, § 2(e)(1)][/us/pl/111/21/s2/e/1], May 20, 2009, [123 Stat. 1618][/us/stat/123/1618].)
 

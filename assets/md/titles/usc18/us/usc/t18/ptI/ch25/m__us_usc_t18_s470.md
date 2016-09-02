@@ -15,13 +15,13 @@
 
 ## § 470. Counterfeit acts committed outside the United States
 
-A person who, outside the United States, engages in the act of—
+    A person who, outside the United States, engages in the act of—
 
     (1) making, dealing, or possessing any counterfeit obligation or other security of the United States; or
 
     (2) making, dealing, or possessing any plate, stone, analog, digital, or electronic image, or other thing, or any part thereof, used to counterfeit such obligation or security,
 
-        if such act would constitute a violation of section 471, 473, or 474 if committed within the United States, shall be punished as is provided for the like offense within the United States.
+    if such act would constitute a violation of section 471, 473, or 474 if committed within the United States, shall be punished as is provided for the like offense within the United States.
 
 (Added [Pub. L. 103–322, title XII, § 120003(a)][/us/pl/103/322/s120003/a], Sept. 13, 1994, [108 Stat. 2021][/us/stat/108/2021]; amended [Pub. L. 107–56, title III, § 374(a)][/us/pl/107/56/s374/a], Oct. 26, 2001, [115 Stat. 340][/us/stat/115/340].)
 

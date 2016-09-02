@@ -15,7 +15,7 @@
 
 ## § 3115. Inventory upon execution and return of search warrant—(Rule)
 
-See Federal Rules of Criminal Procedure
+ __See Federal Rules of Criminal Procedure__ 
 
     Inventory of property seized under search warrant and copies to persons affected, Rule 41(d).
 

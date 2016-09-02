@@ -15,7 +15,7 @@
 
 ## § 3010. Exceptions unnecessary—(Rule)
 
-See Federal Rules of Criminal Procedure
+ __See Federal Rules of Criminal Procedure__ 
 
     Objections substituted for exceptions, rule 51.
 

@@ -15,7 +15,7 @@
 
 ## § 1547. Alternative imprisonment maximum for certain offenses
 
-Notwithstanding any other provision of this title, the maximum term of imprisonment that may be imposed for an offense under this chapter (other than an offense under section 1545)—
+    Notwithstanding any other provision of this title, the maximum term of imprisonment that may be imposed for an offense under this chapter (other than an offense under section 1545)—
 
     (1) if committed to facilitate a drug trafficking crime (as defined in 929(a)) is 15 years; and
 

@@ -15,7 +15,7 @@
 
 ## § 3048. Commitment to another district; removal—(Rule)
 
-See Federal Rules of Criminal Procedure
+ __See Federal Rules of Criminal Procedure__ 
 
     Arrest in nearby or distant districts; informative statement by judge or magistrate judge; hearing and removal; warrant; Rule 40.
 

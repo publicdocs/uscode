@@ -15,7 +15,7 @@
 
 ## § 3739. Supervision—(Rule)
 
-See Federal Rules of Criminal Procedure
+ __See Federal Rules of Criminal Procedure__ 
 
     Control and supervision in appellate court, Rule 39(a).
 

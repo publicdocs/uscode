@@ -15,7 +15,7 @@
 
 ## § 3482. Evidence and witnesses—(Rule)
 
-See Federal Rules of Criminal Procedure
+ __See Federal Rules of Criminal Procedure__ 
 
     Competency and privileges of witnesses and admissibility of evidence governed by principles of common law, Rule 26.
 

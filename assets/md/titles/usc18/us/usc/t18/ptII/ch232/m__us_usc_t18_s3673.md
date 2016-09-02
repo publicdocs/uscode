@@ -15,7 +15,7 @@
 
 ## § 3673. Definitions for sentencing provisions
 
-As used in chapters 227 and 229—
+    As used in chapters 227 and 229—
 
     (1) the term “found guilty” includes acceptance by a court of a plea of guilty or nolo contendere;
 

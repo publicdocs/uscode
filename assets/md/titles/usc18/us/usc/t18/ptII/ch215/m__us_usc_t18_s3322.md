@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t18/ptII/ch215/m__us_usc_t18_s3321.md) | [Next](./../../../../..//us/usc/t18/ptII/ch215/m__us_usc_t18_s3323 to 3328.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs3322)
+[Previous](./../../../../..//us/usc/t18/ptII/ch215/m__us_usc_t18_s3321.md) | [Next](./../../../../..//us/usc/t18/ptII/ch216/m__us_usc_t18_ptII_ch216.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs3322)
 
 ## § 3322. Disclosure of certain matters occurring before grand jury
 
@@ -85,9 +85,23 @@
 
     Amendment by [Pub. L. 106–185][/us/pl/106/185] applicable to any forfeiture proceeding commenced on or after the date that is 120 days after Apr. 25, 2000, see [section 21 of Pub. L. 106–185][/us/pl/106/185/s21], set out as a note under [section 1324 of Title 8][/us/usc/t8/s1324], Aliens and Nationality.
 
+\[§§ 3323 to 3328. __Repealed.__  __[__  __Pub. L. 101–73, title IX, § 964(a)__  __][/us/pl/101/73/s964/a]__  __,__  __Aug. 9, 1989__  __,__  __[__  __103 Stat. 505__  __][/us/stat/103/505]__  __\]__ 
+
+    Section 3323, [act June 25, 1948, ch. 645][/us/act/1948-06-25/ch645], [62 Stat. 829][/us/stat/62/829], related to challenging the array of grand jurors or individual grand jurors and motions to dismiss. See Rule 6(b) of the Federal Rules of Criminal Procedure, set out in the Appendix to this title.
+
+    Section 3324, [act June 25, 1948, ch. 645][/us/act/1948-06-25/ch645], [62 Stat. 829][/us/stat/62/829], related to the appointment of the grand jury foreman and deputy foreman, oaths, affirmations and indictments, and records of jurors concurring. See Rule 6(c) of the Federal Rules of Criminal Procedure, set out in the Appendix to this title.
+
+    Section 3325, [act June 25, 1948, ch. 645][/us/act/1948-06-25/ch645], [62 Stat. 829][/us/stat/62/829], related to persons who may be present while the grand jury is in session, and exclusion while the jury is deliberating or voting. See Rule 6(d) of the Federal Rules of Criminal Procedure, set out in the Appendix to this title.
+
+    Section 3326, [act June 25, 1948, ch. 645][/us/act/1948-06-25/ch645], [62 Stat. 829][/us/stat/62/829], related to disclosure of proceedings to government attorneys, disclosure by direction of the court or permission of the defendant, and secrecy of the indictment. See Rule 6(e) of the Federal Rules of Criminal Procedure, set out in the Appendix to this title.
+
+    Section 3327, [act June 25, 1948, ch. 645][/us/act/1948-06-25/ch645], [62 Stat. 830][/us/stat/62/830], related to concurrence of 12 or more jurors in the indictment and return of the indictment to the judge in open court. See Rule 6(f) of the Federal Rules of Criminal Procedure, set out in the Appendix to this title.
+
+    Section 3328, [act June 25, 1948, ch. 645][/us/act/1948-06-25/ch645], [62 Stat. 830][/us/stat/62/830], related to discharge of grand jury by court, limitation of service, and excusing jurors for cause. See Rule 6(g) of the Federal Rules of Criminal Procedure, set out in the Appendix to this title.
+
 ----------
 
-[Previous](./../../../../..//us/usc/t18/ptII/ch215/m__us_usc_t18_s3321.md) | [Next](./../../../../..//us/usc/t18/ptII/ch215/m__us_usc_t18_s3323 to 3328.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs3322)
+[Previous](./../../../../..//us/usc/t18/ptII/ch215/m__us_usc_t18_s3321.md) | [Next](./../../../../..//us/usc/t18/ptII/ch216/m__us_usc_t18_ptII_ch216.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs3322)
 
 ----------
 ----------
@@ -113,5 +127,19 @@
 [/us/pl/106/185]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F185
 [/us/pl/106/185/s21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F185%2Fs21
 [/us/usc/t8/s1324]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1324
+[/us/pl/101/73/s964/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F73%2Fs964%2Fa
+[/us/stat/103/505]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F505
+[/us/act/1948-06-25/ch645]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch645
+[/us/stat/62/829]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F829
+[/us/act/1948-06-25/ch645]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch645
+[/us/stat/62/829]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F829
+[/us/act/1948-06-25/ch645]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch645
+[/us/stat/62/829]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F829
+[/us/act/1948-06-25/ch645]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch645
+[/us/stat/62/829]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F829
+[/us/act/1948-06-25/ch645]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch645
+[/us/stat/62/830]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F830
+[/us/act/1948-06-25/ch645]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch645
+[/us/stat/62/830]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F830
 
 

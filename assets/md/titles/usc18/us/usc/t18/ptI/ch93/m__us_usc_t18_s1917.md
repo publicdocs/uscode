@@ -15,7 +15,7 @@
 
 ## § 1917. Interference with civil service examinations
 
-Whoever, being a member or employee of the United States Office of Personnel Management or an individual in the public service, willfully and corruptly—
+    Whoever, being a member or employee of the United States Office of Personnel Management or an individual in the public service, willfully and corruptly—
 
     (1) defeats, deceives, or obstructs an individual in respect of his right of examination according to the rules prescribed by the President under title 5 for the administration of the competitive service and the regulations prescribed by such Office under [section 1302(a) of title 5][/us/usc/t5/s1302/a];
 
@@ -25,7 +25,7 @@ Whoever, being a member or employee of the United States Office of Personnel Man
 
     (4) furnishes to an individual any special or secret information for the purpose of improving or injuring the prospects or chances of an individual examined, or to be examined, being appointed, employed, or promoted;
 
-        shall, for each offense, be fined under this title not less than $100 or imprisoned not less than ten days nor more than one year, or both.
+    shall, for each offense, be fined under this title not less than $100 or imprisoned not less than ten days nor more than one year, or both.
 
 (Added [Pub. L. 89–554, § 3(d)][/us/pl/89/554/s3/d], Sept. 6, 1966, [80 Stat. 609][/us/stat/80/609]; amended [Pub. L. 103–322, title XXXIII, § 330010(2)][/us/pl/103/322/s330010/2], Sept. 13, 1994, [108 Stat. 2143][/us/stat/108/2143]; [Pub. L. 104–294, title VI, § 601(a)(9)][/us/pl/104/294/s601/a/9], Oct. 11, 1996, [110 Stat. 3498][/us/stat/110/3498].)
 

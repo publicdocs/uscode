@@ -15,7 +15,7 @@
 
 ## § 2711. Definitions for chapter
 
-As used in this chapter—
+    As used in this chapter—
 
     (1) the terms defined in [section 2510 of this title][/us/usc/t18/s2510] have, respectively, the definitions given such terms in that section;
 

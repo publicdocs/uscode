@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t18/ptI/ch23/m__us_usc_t18_s438, 439.md) | [Next](./../../../../..//us/usc/t18/ptI/ch23/m__us_usc_t18_s441.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs440)
+[Previous](./../../../../..//us/usc/t18/ptI/ch23/m__us_usc_t18_s437.md) | [Next](./../../../../..//us/usc/t18/ptI/ch23/m__us_usc_t18_s441.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs440)
 
 ## § 440. Mail contracts
 
@@ -39,7 +39,7 @@
 
 ----------
 
-[Previous](./../../../../..//us/usc/t18/ptI/ch23/m__us_usc_t18_s438, 439.md) | [Next](./../../../../..//us/usc/t18/ptI/ch23/m__us_usc_t18_s441.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs440)
+[Previous](./../../../../..//us/usc/t18/ptI/ch23/m__us_usc_t18_s437.md) | [Next](./../../../../..//us/usc/t18/ptI/ch23/m__us_usc_t18_s441.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs440)
 
 ----------
 ----------

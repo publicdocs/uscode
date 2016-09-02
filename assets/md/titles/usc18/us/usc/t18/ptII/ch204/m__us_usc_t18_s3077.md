@@ -15,7 +15,7 @@
 
 ## § 3077. Definitions
 
-As used in this chapter, the term—
+    As used in this chapter, the term—
 
     (1) “act of terrorism” means an act of domestic or international terrorism as defined in section 2331;
 

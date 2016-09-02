@@ -15,7 +15,7 @@
 
 ## § 3106. Officer authorized to serve search warrant—(Rule)
 
-See Federal Rules of Criminal Procedure
+ __See Federal Rules of Criminal Procedure__ 
 
     Officer to whom search warrant shall be directed, Rule 41(c).
 

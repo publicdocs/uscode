@@ -15,7 +15,7 @@
 
 ## § 3185. Fugitives from country under control of United States into the United States
 
-Whenever any foreign country or territory, or any part thereof, is occupied by or under the control of the United States, any person who, having violated the criminal laws in force therein by the commission of any of the offenses enumerated below, departs or flees from justice therein to the United States, shall, when found therein, be liable to arrest and detention by the authorities of the United States, and on the written request or requisition of the military governor or other chief executive officer in control of such foreign country or territory shall be returned and surrendered as hereinafter provided to such authorities for trial under the laws in force in the place where such offense was committed.
+    Whenever any foreign country or territory, or any part thereof, is occupied by or under the control of the United States, any person who, having violated the criminal laws in force therein by the commission of any of the offenses enumerated below, departs or flees from justice therein to the United States, shall, when found therein, be liable to arrest and detention by the authorities of the United States, and on the written request or requisition of the military governor or other chief executive officer in control of such foreign country or territory shall be returned and surrendered as hereinafter provided to such authorities for trial under the laws in force in the place where such offense was committed.
 
     (1) Murder and assault with intent to commit murder;
 
@@ -49,11 +49,11 @@ Whenever any foreign country or territory, or any part thereof, is occupied by o
 
     (16) Malicious destruction of or attempt to destroy railways, trams, vessels, bridges, dwellings, public edifices, or other buildings, when the act endangers human life.
 
-        This chapter, so far as applicable, shall govern proceedings authorized by this section. Such proceedings shall be had before a judge of the courts of the United States only, who shall hold such person on evidence establishing probable cause that he is guilty of the offense charged.
+    This chapter, so far as applicable, shall govern proceedings authorized by this section. Such proceedings shall be had before a judge of the courts of the United States only, who shall hold such person on evidence establishing probable cause that he is guilty of the offense charged.
 
-        No return or surrender shall be made of any person charged with the commission of any offense of a political nature.
+    No return or surrender shall be made of any person charged with the commission of any offense of a political nature.
 
-        If so held, such person shall be returned and surrendered to the authorities in control of such foreign country or territory on the order of the Secretary of State of the United States, and such authorities shall secure to such a person a fair and impartial trial.
+    If so held, such person shall be returned and surrendered to the authorities in control of such foreign country or territory on the order of the Secretary of State of the United States, and such authorities shall secure to such a person a fair and impartial trial.
 
 ([June 25, 1948, ch. 645][/us/act/1948-06-25/ch645], [62 Stat. 823][/us/stat/62/823]; [May 24, 1949, ch. 139, § 49][/us/act/1949-05-24/ch139/s49], [63 Stat. 96][/us/stat/63/96]; [Pub. L. 99–646, § 87(c)(6)][/us/pl/99/646/s87/c/6], Nov. 10, 1986, [100 Stat. 3623][/us/stat/100/3623]; [Pub. L. 99–654, § 3(a)(6)][/us/pl/99/654/s3/a/6], Nov. 14, 1986, [100 Stat. 3663][/us/stat/100/3663].)
 

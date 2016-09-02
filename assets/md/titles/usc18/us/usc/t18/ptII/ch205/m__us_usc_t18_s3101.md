@@ -15,7 +15,7 @@
 
 ## § 3101. Effect of rules of court—(Rule)
 
-See Federal Rules of Criminal Procedure
+ __See Federal Rules of Criminal Procedure__ 
 
     Rules generally applicable throughout United States, Rule 54.
 

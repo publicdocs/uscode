@@ -15,7 +15,7 @@
 
 ## § 3682. Notice to victims of order of special forfeiture
 
-The United States attorney shall, within thirty days after the imposition of an order under this chapter and at such other times as the Attorney General may require, publish in a newspaper of general circulation in the district in which the offense for which a defendant was convicted occurred, a notice that states—
+    The United States attorney shall, within thirty days after the imposition of an order under this chapter and at such other times as the Attorney General may require, publish in a newspaper of general circulation in the district in which the offense for which a defendant was convicted occurred, a notice that states—
 
     (1) the name of, and other identifying information about, the defendant;
 

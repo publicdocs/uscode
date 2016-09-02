@@ -15,7 +15,7 @@
 
 ## § 3104. Issuance of search warrant; contents—(Rule)
 
-See Federal Rules of Criminal Procedure
+ __See Federal Rules of Criminal Procedure__ 
 
     Issuance of search warrant on affidavit; contents to identify persons or place; command to search forthwith, Rule 41(c).
 

@@ -15,7 +15,7 @@
 
 ## § 3441. Jury; number of jurors; waiver—(Rule)
 
-See Federal Rules of Criminal Procedure
+ __See Federal Rules of Criminal Procedure__ 
 
     Jury trial, waiver, twelve jurors or less by written stipulation, trial by court on general or special findings, Rule 23.
 

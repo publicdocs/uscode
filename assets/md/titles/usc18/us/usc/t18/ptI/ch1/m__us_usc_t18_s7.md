@@ -15,7 +15,7 @@
 
 ## § 7. Special maritime and territorial jurisdiction of the United States defined
 
-The term “special maritime and territorial jurisdiction of the United States”, as used in this title, includes:
+    The term “special maritime and territorial jurisdiction of the United States”, as used in this title, includes:
 
     (1) The high seas, any other waters within the admiralty and maritime jurisdiction of the United States and out of the jurisdiction of any particular State, and any vessel belonging in whole or in part to the United States or any citizen thereof, or to any corporation created by or under the laws of the United States, or of any State, Territory, District, or possession thereof, when such vessel is within the admiralty and maritime jurisdiction of the United States and out of the jurisdiction of any particular State.
 

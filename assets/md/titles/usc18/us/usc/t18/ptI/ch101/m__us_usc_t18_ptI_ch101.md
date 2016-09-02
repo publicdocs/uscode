@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t18/ptI/ch99/m__us_usc_t18_s2031, 2032.md) | [Next](./../../../../..//us/usc/t18/ptI/ch101/m__us_usc_t18_s2071.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2FptI%2Fch101)
+[Previous](./../../../../..//us/usc/t18/ptI/ch99/m__us_usc_t18_ptI_ch99.md) | [Next](./../../../../..//us/usc/t18/ptI/ch101/m__us_usc_t18_s2071.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2FptI%2Fch101)
 
 ### CHAPTER 101—RECORDS AND REPORTS
 
@@ -75,7 +75,7 @@
 
 ----------
 
-[Previous](./../../../../..//us/usc/t18/ptI/ch99/m__us_usc_t18_s2031, 2032.md) | [Next](./../../../../..//us/usc/t18/ptI/ch101/m__us_usc_t18_s2071.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2FptI%2Fch101)
+[Previous](./../../../../..//us/usc/t18/ptI/ch99/m__us_usc_t18_ptI_ch99.md) | [Next](./../../../../..//us/usc/t18/ptI/ch101/m__us_usc_t18_s2071.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2FptI%2Fch101)
 
 ----------
 ----------

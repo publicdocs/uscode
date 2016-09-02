@@ -169,13 +169,13 @@
 
         environmental crimes
 
-        (E) a felony violation of the Federal Water Pollution Control Act ([33 U.S.C. 1251][/us/usc/t33/s1251] et seq.), the Ocean Dumping Act ([33 U.S.C. 1401][/us/usc/t33/s1401] et seq.), the Act to Prevent Pollution from Ships ([33 U.S.C. 1901][/us/usc/t33/s1901] et seq.), the Safe Drinking Water Act ([42 U.S.C. 300f][/us/usc/t42/s300f] et seq.), or the Resources Conservation and Recovery Act ([42 U.S.C. 6901][/us/usc/t42/s6901] et seq.); or
+            (E) a felony violation of the Federal Water Pollution Control Act ([33 U.S.C. 1251][/us/usc/t33/s1251] et seq.), the Ocean Dumping Act ([33 U.S.C. 1401][/us/usc/t33/s1401] et seq.), the Act to Prevent Pollution from Ships ([33 U.S.C. 1901][/us/usc/t33/s1901] et seq.), the Safe Drinking Water Act ([42 U.S.C. 300f][/us/usc/t42/s300f] et seq.), or the Resources Conservation and Recovery Act ([42 U.S.C. 6901][/us/usc/t42/s6901] et seq.); or
 
-        (F) any act or activity constituting an offense involving a Federal health care offense;
+            (F) any act or activity constituting an offense involving a Federal health care offense;
 
-    (8) the term “State” includes a State of the United States, the District of Columbia, and any commonwealth, territory, or possession of the United States; and
+        (8) the term “State” includes a State of the United States, the District of Columbia, and any commonwealth, territory, or possession of the United States; and
 
-    (9) the term “proceeds” means any property derived from or obtained or retained, directly or indirectly, through some form of unlawful activity, including the gross receipts of such activity.
+        (9) the term “proceeds” means any property derived from or obtained or retained, directly or indirectly, through some form of unlawful activity, including the gross receipts of such activity.
 
     (d) Nothing in this section shall supersede any provision of Federal, State, or other law imposing criminal penalties or affording civil remedies in addition to those provided for in this section.
 

@@ -15,7 +15,7 @@
 
 ## § 3444. Disability of judge—(Rule)
 
-See Federal Rules of Criminal Procedure
+ __See Federal Rules of Criminal Procedure__ 
 
     Disability of judge after verdict or finding of guilt, Rule 25.
 

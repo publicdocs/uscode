@@ -15,7 +15,7 @@
 
 ## § 2337. Suits against Government officials
 
-No action shall be maintained under [section 2333 of this title][/us/usc/t18/s2333] against—
+    No action shall be maintained under [section 2333 of this title][/us/usc/t18/s2333] against—
 
     (1) the United States, an agency of the United States, or an officer or employee of the United States or any agency thereof acting within his or her official capacity or under color of legal authority; or
 

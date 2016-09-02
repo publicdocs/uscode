@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t18/ptI/ch111/m__us_usc_t18_s2280.md) | [Next](./../../../../..//us/usc/t18/ptI/ch111/m__us_usc_t18_s2282A.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs2281)
+[Previous](./../../../../..//us/usc/t18/ptI/ch111/m__us_usc_t18_s2280.md) | [Next](./../../../../..//us/usc/t18/ptI/ch111/m__us_usc_t18_s2282A.1.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs2281)
 
 ## § 2281. Violence against maritime fixed platforms
 
@@ -91,7 +91,7 @@
 
 ----------
 
-[Previous](./../../../../..//us/usc/t18/ptI/ch111/m__us_usc_t18_s2280.md) | [Next](./../../../../..//us/usc/t18/ptI/ch111/m__us_usc_t18_s2282A.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs2281)
+[Previous](./../../../../..//us/usc/t18/ptI/ch111/m__us_usc_t18_s2280.md) | [Next](./../../../../..//us/usc/t18/ptI/ch111/m__us_usc_t18_s2282A.1.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs2281)
 
 ----------
 ----------

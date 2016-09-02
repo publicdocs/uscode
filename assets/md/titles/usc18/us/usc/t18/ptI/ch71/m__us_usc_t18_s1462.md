@@ -15,7 +15,7 @@
 
 ## § 1462. Importation or transportation of obscene matters
 
-Whoever brings into the United States, or any place subject to the jurisdiction thereof, or knowingly uses any express company or other common carrier or interactive computer service (as defined in section 230(e)(2)  <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  of the Communications Act of 1934), for carriage in interstate or foreign commerce—
+    Whoever brings into the United States, or any place subject to the jurisdiction thereof, or knowingly uses any express company or other common carrier or interactive computer service (as defined in section 230(e)(2)  <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  of the Communications Act of 1934), for carriage in interstate or foreign commerce—
 
     (a) any obscene, lewd, lascivious, or filthy book, pamphlet, picture, motion-picture film, paper, letter, writing, print, or other matter of indecent character; or
 
@@ -23,9 +23,9 @@ Whoever brings into the United States, or any place subject to the jurisdiction 
 
     (c) any drug, medicine, article, or thing designed, adapted, or intended for producing abortion, or for any indecent or immoral use; or any written or printed card, letter, circular, book, pamphlet, advertisement, or notice of any kind giving information, directly or indirectly, where, how, or of whom, or by what means any of such mentioned articles, matters, or things may be obtained or made; or
 
-        Whoever knowingly takes or receives, from such express company or other common carrier or interactive computer service (as defined in section 230(e)(2) 1 of the Communications Act of 1934) any matter or thing the carriage or importation of which is herein made unlawful—
+    Whoever knowingly takes or receives, from such express company or other common carrier or interactive computer service (as defined in section 230(e)(2) 1 of the Communications Act of 1934) any matter or thing the carriage or importation of which is herein made unlawful—
 
-        Shall be fined under this title or imprisoned not more than five years, or both, for the first such offense and shall be fined under this title or imprisoned not more than ten years, or both, for each such offense thereafter.
+    Shall be fined under this title or imprisoned not more than five years, or both, for the first such offense and shall be fined under this title or imprisoned not more than ten years, or both, for each such offense thereafter.
 
 ([June 25, 1948, ch. 645][/us/act/1948-06-25/ch645], [62 Stat. 768][/us/stat/62/768]; [May 27, 1950, ch. 214, § 1][/us/act/1950-05-27/ch214/s1], [64 Stat. 194][/us/stat/64/194]; [Pub. L. 85–796, § 2][/us/pl/85/796/s2], Aug. 28, 1958, [72 Stat. 962][/us/stat/72/962]; [Pub. L. 91–662, § 4][/us/pl/91/662/s4], Jan. 8, 1971, [84 Stat. 1973][/us/stat/84/1973]; [Pub. L. 103–322, title XXXIII, § 330016(1)(K)][/us/pl/103/322/s330016/1/K], (L), Sept. 13, 1994, [108 Stat. 2147][/us/stat/108/2147]; [Pub. L. 104–104, title V, § 507(a)][/us/pl/104/104/s507/a], Feb. 8, 1996, [110 Stat. 137][/us/stat/110/137].)
 

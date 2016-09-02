@@ -15,7 +15,7 @@
 
 ## § 3362. Waiver of indictment and prosecution on information—(Rule)
 
-See Federal Rules of Criminal Procedure
+ __See Federal Rules of Criminal Procedure__ 
 
     Waiver of indictment for offenses not punishable by death, Rule 7(b).
 

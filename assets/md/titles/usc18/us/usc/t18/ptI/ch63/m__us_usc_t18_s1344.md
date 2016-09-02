@@ -15,13 +15,13 @@
 
 ## § 1344. Bank fraud
 
-Whoever knowingly executes, or attempts to execute, a scheme or artifice—
+    Whoever knowingly executes, or attempts to execute, a scheme or artifice—
 
     (1) to defraud a financial institution; or
 
     (2) to obtain any of the moneys, funds, credits, assets, securities, or other property owned by, or under the custody or control of, a financial institution, by means of false or fraudulent pretenses, representations, or promises;
 
-        shall be fined not more than $1,000,000 or imprisoned not more than 30 years, or both.
+    shall be fined not more than $1,000,000 or imprisoned not more than 30 years, or both.
 
 (Added [Pub. L. 98–473, title II, § 1108(a)][/us/pl/98/473/s1108/a], Oct. 12, 1984, [98 Stat. 2147][/us/stat/98/2147]; amended [Pub. L. 101–73, title IX, § 961(k)][/us/pl/101/73/s961/k], Aug. 9, 1989, [103 Stat. 500][/us/stat/103/500]; [Pub. L. 101–647, title XXV, § 2504(j)][/us/pl/101/647/s2504/j], Nov. 29, 1990, [104 Stat. 4861][/us/stat/104/4861].)
 

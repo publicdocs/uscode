@@ -15,7 +15,7 @@
 
 ## § 3438. Pleas—(Rule)
 
-See Federal Rules of Criminal Procedure
+ __See Federal Rules of Criminal Procedure__ 
 
     Plea of guilty, not guilty, or nolo contendere; acceptance by court; refusal to plead; corporation failing to appear, Rule 11.
 

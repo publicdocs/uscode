@@ -15,7 +15,7 @@
 
 ## § 3737. Record—(Rule)
 
-See Federal Rules of Criminal Procedure
+ __See Federal Rules of Criminal Procedure__ 
 
     Preparation, form; typewritten record, Rule 39(b).
 

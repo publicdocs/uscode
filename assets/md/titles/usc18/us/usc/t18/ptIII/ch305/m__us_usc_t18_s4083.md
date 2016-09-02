@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t18/ptIII/ch305/m__us_usc_t18_s4082.md) | [Next](./../../../../..//us/usc/t18/ptIII/ch305/m__us_usc_t18_s4084, 4085.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs4083)
+[Previous](./../../../../..//us/usc/t18/ptIII/ch305/m__us_usc_t18_s4082.md) | [Next](./../../../../..//us/usc/t18/ptIII/ch305/m__us_usc_t18_s4086.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs4083)
 
 ## § 4083. Penitentiary imprisonment; consent
 
@@ -35,9 +35,19 @@
 
     1959—[Pub. L. 86–256][/us/pl/86/256] substituted “punishable by imprisonment for” for “and sentenced to terms of imprisonment of” in first sentence.
 
+\[§§ 4084, 4085. __Repealed.__  __[__  __Pub. L. 98–473, title II, § 218(a)(3)__  __][/us/pl/98/473/s218/a/3]__  __,__  __Oct. 12, 1984__  __,__  __[__  __98 Stat. 2027__  __][/us/stat/98/2027]__  __\]__ 
+
+    Section 4084, [act June 25, 1948, ch. 645][/us/act/1948-06-25/ch645], [62 Stat. 850][/us/stat/62/850], related to delivery of prisoner with copy of commitment.
+
+    Section 4085, [act June 25, 1948, ch. 645][/us/act/1948-06-25/ch645], [62 Stat. 850][/us/stat/62/850], related to authority, expense, etc., respecting transfer of Federal prisoner for State offense.
+
+ __Effective Date of Repeal__ 
+
+    Repeal effective Nov. 1, 1987, and applicable only to offenses committed after the taking effect of such repeal, see [section 235(a)(1) of Pub. L. 98–473][/us/pl/98/473/s235/a/1], set out as an Effective Date note under [section 3551 of this title][/us/usc/t18/s3551].
+
 ----------
 
-[Previous](./../../../../..//us/usc/t18/ptIII/ch305/m__us_usc_t18_s4082.md) | [Next](./../../../../..//us/usc/t18/ptIII/ch305/m__us_usc_t18_s4084, 4085.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs4083)
+[Previous](./../../../../..//us/usc/t18/ptIII/ch305/m__us_usc_t18_s4082.md) | [Next](./../../../../..//us/usc/t18/ptIII/ch305/m__us_usc_t18_s4086.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs4083)
 
 ----------
 ----------
@@ -59,5 +69,13 @@
 [/us/usc/t18/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs1
 [/us/usc/t18/s753f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs753f
 [/us/pl/86/256]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F256
+[/us/pl/98/473/s218/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2Fs218%2Fa%2F3
+[/us/stat/98/2027]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2027
+[/us/act/1948-06-25/ch645]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch645
+[/us/stat/62/850]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F850
+[/us/act/1948-06-25/ch645]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch645
+[/us/stat/62/850]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F850
+[/us/pl/98/473/s235/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2Fs235%2Fa%2F1
+[/us/usc/t18/s3551]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs3551
 
 

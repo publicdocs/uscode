@@ -15,7 +15,7 @@
 
 ## § 3293. Financial institution offenses
 
-No person shall be prosecuted, tried, or punished for a violation of, or a conspiracy to violate—
+    No person shall be prosecuted, tried, or punished for a violation of, or a conspiracy to violate—
 
     (1) section 215, 656, 657, 1005, 1006, 1007, 1014, 1033, or 1344;
 
@@ -23,7 +23,7 @@ No person shall be prosecuted, tried, or punished for a violation of, or a consp
 
     (3) section 1963, to the extent that the racketeering activity involves a violation of section 1344;
 
-        unless the indictment is returned or the information is filed within 10 years after the commission of the offense.
+    unless the indictment is returned or the information is filed within 10 years after the commission of the offense.
 
 (Added [Pub. L. 101–73, title IX, § 961][/us/pl/101/73/s961](l)(1), Aug. 9, 1989, [103 Stat. 501][/us/stat/103/501]; amended [Pub. L. 101–647, title XXV, § 2505(a)][/us/pl/101/647/s2505/a], Nov. 29, 1990, [104 Stat. 4862][/us/stat/104/4862]; [Pub. L. 103–322, title XXXII, § 320604(b)][/us/pl/103/322/s320604/b], title XXXIII, § 330002(e), Sept. 13, 1994, [108 Stat. 2119][/us/stat/108/2119], 2140.)
 

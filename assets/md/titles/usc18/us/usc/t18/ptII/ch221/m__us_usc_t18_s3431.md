@@ -15,7 +15,7 @@
 
 ## § 3431. Term of court; power of court unaffected by expiration—(Rule)
 
-See Federal Rules of Criminal Procedure
+ __See Federal Rules of Criminal Procedure__ 
 
     Expiration of term without significance in criminal cases, Rule 45(c).
 

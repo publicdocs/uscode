@@ -15,7 +15,7 @@
 
 ## § 2325. Definition
 
-In this chapter, “telemarketing”—
+    In this chapter, “telemarketing”—
 
     (1)
 

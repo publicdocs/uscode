@@ -15,7 +15,7 @@
 
 ## § 3233. Transfer within district—(Rule)
 
-See Federal Rules of Criminal Procedure
+ __See Federal Rules of Criminal Procedure__ 
 
     Arraignment, plea, trial, sentence in district of more than one division, Rule 19.
 

@@ -15,7 +15,7 @@
 
 ## § 2242. Sexual abuse
 
-Whoever, in the special maritime and territorial jurisdiction of the United States or in a Federal prison, or in any prison, institution, or facility in which persons are held in custody by direction of or pursuant to a contract or agreement with the head of any Federal department or agency, knowingly—
+    Whoever, in the special maritime and territorial jurisdiction of the United States or in a Federal prison, or in any prison, institution, or facility in which persons are held in custody by direction of or pursuant to a contract or agreement with the head of any Federal department or agency, knowingly—
 
     (1) causes another person to engage in a sexual act by threatening or placing that other person in fear (other than by threatening or placing that other person in fear that any person will be subjected to death, serious bodily injury, or kidnapping); or
 
@@ -27,7 +27,7 @@ Whoever, in the special maritime and territorial jurisdiction of the United Stat
 
         (B) physically incapable of declining participation in, or communicating unwillingness to engage in, that sexual act;
 
-        or attempts to do so, shall be fined under this title and imprisoned for any term of years or for life.
+    or attempts to do so, shall be fined under this title and imprisoned for any term of years or for life.
 
 (Added [Pub. L. 99–646, § 87(b)][/us/pl/99/646/s87/b], Nov. 10, 1986, [100 Stat. 3621][/us/stat/100/3621], and [Pub. L. 99–654, § 2][/us/pl/99/654/s2], Nov. 14, 1986, [100 Stat. 3661][/us/stat/100/3661]; amended [Pub. L. 103–322, title XXXIII, § 330021(1)][/us/pl/103/322/s330021/1], Sept. 13, 1994, [108 Stat. 2150][/us/stat/108/2150]; [Pub. L. 109–162, title XI, § 1177(a)(3)][/us/pl/109/162/s1177/a/3], Jan. 5, 2006, [119 Stat. 3125][/us/stat/119/3125]; [Pub. L. 109–248, title II][/us/pl/109/248], §§ 205, 207(2), July 27, 2006, [120 Stat. 613][/us/stat/120/613], 615; [Pub. L. 110–161, div. E, title V, § 554][/us/pl/110/161/s554], Dec. 26, 2007, [121 Stat. 2082][/us/stat/121/2082].)
 

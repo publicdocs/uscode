@@ -15,7 +15,7 @@
 
 ## § 3011. Computation of time—(Rule)
 
-See Federal Rules of Criminal Procedure
+ __See Federal Rules of Criminal Procedure__ 
 
     Computation: enlargement; expiration of term; motions and affidavits; service by mail, rule 45.
 

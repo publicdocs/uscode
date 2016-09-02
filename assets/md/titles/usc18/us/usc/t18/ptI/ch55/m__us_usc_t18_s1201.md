@@ -75,7 +75,7 @@
 
             the sentence under this section for such offense shall include imprisonment for not less than 20 years.
 
-            \[(2) Repealed. [Pub. L. 108–21, title I, § 104(b)][/us/pl/108/21/s104/b], Apr. 30, 2003, [117 Stat. 653][/us/stat/117/653].\]
+        \[(2) Repealed. [Pub. L. 108–21, title I, § 104(b)][/us/pl/108/21/s104/b], Apr. 30, 2003, [117 Stat. 653][/us/stat/117/653].\]
 
     (h) As used in this section, the term “parent” does not include a person whose parental rights with respect to the victim of an offense under this section have been terminated by a final court order.
 

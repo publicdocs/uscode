@@ -15,7 +15,7 @@
 
 ## § 229D. Injunctions
 
-The United States may obtain in a civil action an injunction against—
+    The United States may obtain in a civil action an injunction against—
 
     (1) the conduct prohibited under section 229 or 229C of this title; or
 

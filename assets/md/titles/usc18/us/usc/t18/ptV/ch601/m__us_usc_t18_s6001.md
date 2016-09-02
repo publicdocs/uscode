@@ -15,7 +15,7 @@
 
 ## § 6001. Definitions
 
-As used in this chapter—
+    As used in this chapter—
 
     (1) “agency of the United States” means any executive department as defined in [section 101 of title 5][/us/usc/t5/s101], United States Code, a military department as defined in [section 102 of title 5][/us/usc/t5/s102], United States Code, the Nuclear Regulatory Commission, the Board of Governors of the Federal Reserve System, the China Trade Act registrar appointed under [53 Stat. 1432][/us/stat/53/1432] (15 U.S.C. sec. 143), the Commodity Futures Trading Commission, the Federal Communications Commission, the Federal Deposit Insurance Corporation, the Federal Maritime Commission, the Federal Power Commission, the Federal Trade Commission, the Surface Transportation Board, the National Labor Relations Board, the National Transportation Safety Board, the Railroad Retirement Board, an arbitration board established under [48 Stat. 1193][/us/stat/48/1193] (45 U.S.C. sec. 157), the Securities and Exchange Commission, or a board established under [49 Stat. 31][/us/stat/49/31] (15 U.S.C. sec. 715d);
 

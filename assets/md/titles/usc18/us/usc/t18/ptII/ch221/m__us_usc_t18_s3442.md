@@ -15,7 +15,7 @@
 
 ## § 3442. Jurors, examination, peremptory challenges; alternates—(Rule)
 
-See Federal Rules of Criminal Procedure
+ __See Federal Rules of Criminal Procedure__ 
 
     Examination and peremptory challenges of trial jurors; alternate jurors, Rule 24.
 

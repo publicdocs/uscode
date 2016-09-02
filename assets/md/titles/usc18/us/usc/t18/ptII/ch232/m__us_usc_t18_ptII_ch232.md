@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t18/ptII/ch231/m__us_usc_t18_s3651 to 3656.md) | [Next](./../../../../..//us/usc/t18/ptII/ch232/m__us_usc_t18_s3661.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2FptII%2Fch232)
+[Previous](./../../../../..//us/usc/t18/ptII/ch231/m__us_usc_t18_ptII_ch231.md) | [Next](./../../../../..//us/usc/t18/ptII/ch232/m__us_usc_t18_s3661.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2FptII%2Fch232)
 
 ### CHAPTER 232—MISCELLANEOUS SENTENCING PROVISIONS
 
@@ -151,7 +151,7 @@
 
 ----------
 
-[Previous](./../../../../..//us/usc/t18/ptII/ch231/m__us_usc_t18_s3651 to 3656.md) | [Next](./../../../../..//us/usc/t18/ptII/ch232/m__us_usc_t18_s3661.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2FptII%2Fch232)
+[Previous](./../../../../..//us/usc/t18/ptII/ch231/m__us_usc_t18_ptII_ch231.md) | [Next](./../../../../..//us/usc/t18/ptII/ch232/m__us_usc_t18_s3661.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2FptII%2Fch232)
 
 ----------
 ----------

@@ -15,7 +15,7 @@
 
 ## § 3114. Return of seized property and suppression of evidence; motion—(Rule)
 
-See Federal Rules of Criminal Procedure
+ __See Federal Rules of Criminal Procedure__ 
 
     Return of property and suppression of evidence upon motion, Rule 41(e).
 

@@ -283,7 +283,7 @@ For information regarding constitutionality of certain provisions of this sectio
 
 >     “(3) rule 35(b) as in effect before the taking effect of the initial set of guidelines promulgated by the United States Sentencing Commission pursuant to chapter 58 of title 28, United States Code,
 
->         shall apply in the case of an offense committed before the taking effect of such guidelines.”
+>     shall apply in the case of an offense committed before the taking effect of such guidelines.”
 
 ----------
 

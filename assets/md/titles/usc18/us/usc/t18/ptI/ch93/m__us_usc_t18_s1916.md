@@ -15,13 +15,13 @@
 
 ## § 1916. Unauthorized employment and disposition of lapsed appropriations
 
-Whoever—
+    Whoever—
 
     (1) violates the provision of [section 3103 of title 5][/us/usc/t5/s3103] that an individual may be employed in the civil service in an Executive department at the seat of Government only for services actually rendered in connection with and for the purposes of the appropriation from which he is paid; or
 
     (2) violates the provision of [section 5501 of title 5][/us/usc/t5/s5501] that money accruing from lapsed salaries or from unused appropriations for salaries shall be covered into the Treasury of the United States;
 
-        shall be fined under this title or imprisoned not more than one year, or both.
+    shall be fined under this title or imprisoned not more than one year, or both.
 
 (Added [Pub. L. 89–554, § 3(d)][/us/pl/89/554/s3/d], Sept. 6, 1966, [80 Stat. 608][/us/stat/80/608]; amended [Pub. L. 104–294, title VI, § 601(a)(8)][/us/pl/104/294/s601/a/8], Oct. 11, 1996, [110 Stat. 3498][/us/stat/110/3498]; [Pub. L. 107–273, div. B, title III, § 3002(a)(3)][/us/pl/107/273/s3002/a/3], Nov. 2, 2002, [116 Stat. 1805][/us/stat/116/1805].)
 

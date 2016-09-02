@@ -15,7 +15,7 @@
 
 ## § 3232. District of offense—(Rule)
 
-See Federal Rules of Criminal Procedure
+ __See Federal Rules of Criminal Procedure__ 
 
     Proceedings to be in district and division in which offense committed, Rule 18.
 

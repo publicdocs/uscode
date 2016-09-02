@@ -19,15 +19,13 @@
 
      For the purposes of this section:
 
-    “Attorney General” means the Attorney General of the United States;
+        “Attorney General” means the Attorney General of the United States;
 
-    “Organization” means any group, club, league, society, committee, association, political party, or combination of individuals, whether incorporated or otherwise, but such term shall not include any corporation, association, community chest, fund, or foundation, organized and operated exclusively for religious, charitable, scientific, literary, or educational purposes;
+        “Organization” means any group, club, league, society, committee, association, political party, or combination of individuals, whether incorporated or otherwise, but such term shall not include any corporation, association, community chest, fund, or foundation, organized and operated exclusively for religious, charitable, scientific, literary, or educational purposes;
 
-    “Political activity” means any activity the purpose or aim of which, or one of the purposes or aims of which, is the control by force or overthrow of the Government of the United States or a political subdivision thereof, or any State or political subdivision thereof;
+        “Political activity” means any activity the purpose or aim of which, or one of the purposes or aims of which, is the control by force or overthrow of the Government of the United States or a political subdivision thereof, or any State or political subdivision thereof;
 
-    An organization is engaged in “civilian military activity” if:
-
-        (1) it gives instruction to, or prescribes instruction for, its members in the use of firearms or other weapons or any substitute therefor, or military or naval science; or
+        An organization is engaged in “civilian military activity” if:    (1) it gives instruction to, or prescribes instruction for, its members in the use of firearms or other weapons or any substitute therefor, or military or naval science; or
 
         (2) it receives from any other organization or from any individual instruction in military or naval science; or
 
@@ -43,9 +41,7 @@
 
         (b) its policies, or any of them, are determined by or at the suggestion of, or in collaboration with, a foreign government or political subdivision thereof, or an agent, agency, or instrumentality of a foreign government or a political subdivision thereof, or a political party in a foreign country, or an international political organization.
 
-    (B)
-
-        (1) The following organizations shall be required to register with the Attorney General:    Every organization subject to foreign control which engages in political activity;
+    (B)    (1) The following organizations shall be required to register with the Attorney General:    Every organization subject to foreign control which engages in political activity;
 
             Every organization which engages both in civilian military activity and in political activity;
 
@@ -101,7 +97,7 @@
 
      Such other information and documents pertinent to the purposes of this section as the Attorney General may from time to time require.
 
-    All statements filed under this section shall be public records and open to public examination and inspection at all reasonable hours under such rules and regulations as the Attorney General may prescribe.
+        All statements filed under this section shall be public records and open to public examination and inspection at all reasonable hours under such rules and regulations as the Attorney General may prescribe.
 
         (C) The Attorney General is authorized at any time to make, amend, and rescind such rules and regulations as may be necessary to carry out this section, including rules and regulations governing the statements required to be filed.
 

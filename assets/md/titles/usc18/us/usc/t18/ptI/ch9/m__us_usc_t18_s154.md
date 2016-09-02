@@ -15,7 +15,7 @@
 
 ## § 154. Adverse interest and conduct of officers
 
-A person who, being a custodian, trustee, marshal, or other officer of the court—
+    A person who, being a custodian, trustee, marshal, or other officer of the court—
 
     (1) knowingly purchases, directly or indirectly, any property of the estate of which the person is such an officer in a case under title 11;
 
@@ -23,7 +23,7 @@ A person who, being a custodian, trustee, marshal, or other officer of the court
 
     (3) knowingly refuses to permit a reasonable opportunity for the inspection by the United States Trustee of the documents and accounts relating to the affairs of an estate in the person’s charge,
 
-        shall be fined under this title and shall forfeit the person’s office, which shall thereupon become vacant.
+    shall be fined under this title and shall forfeit the person’s office, which shall thereupon become vacant.
 
 ([June 25, 1948, ch. 645][/us/act/1948-06-25/ch645], [62 Stat. 690][/us/stat/62/690]; [Pub. L. 95–598, title III, § 314(a)(2)][/us/pl/95/598/s314/a/2], (e)(1), (2), Nov. 6, 1978, [92 Stat. 2676][/us/stat/92/2676], 2677; [Pub. L. 103–322, title XXXIII, § 330016(1)(G)][/us/pl/103/322/s330016/1/G], Sept. 13, 1994, [108 Stat. 2147][/us/stat/108/2147]; [Pub. L. 103–394, title III, § 312(a)(1)(A)][/us/pl/103/394/s312/a/1/A], Oct. 22, 1994, [108 Stat. 4139][/us/stat/108/4139]; [Pub. L. 104–294, title VI, § 601(a)(1)][/us/pl/104/294/s601/a/1], Oct. 11, 1996, [110 Stat. 3497][/us/stat/110/3497].)
 

@@ -15,7 +15,7 @@
 
 ## § 229F. Definitions
 
-In this chapter:
+    In this chapter:
 
     (1) __Chemical weapon.—__ 
 

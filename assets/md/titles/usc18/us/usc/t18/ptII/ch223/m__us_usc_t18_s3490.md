@@ -15,7 +15,7 @@
 
 ## § 3490. Official record or entry—(Rule)
 
-See Federal Rules of Criminal Procedure
+ __See Federal Rules of Criminal Procedure__ 
 
     Proof of official record or entry as in civil actions, Rule 27.
 

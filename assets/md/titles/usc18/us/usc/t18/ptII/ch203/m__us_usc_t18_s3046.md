@@ -15,7 +15,7 @@
 
 ## § 3046. Warrant or summons—(Rule)
 
-See Federal Rules of Criminal Procedure
+ __See Federal Rules of Criminal Procedure__ 
 
     Issuance upon complaint, Rule 4.
 

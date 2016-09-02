@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t18/ptIII/ch314/m__us_usc_t18_s4251 to 4255.md) | [Next](./../../../../..//us/usc/t18/ptIII/ch315/m__us_usc_t18_s4281.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2FptIII%2Fch315)
+[Previous](./../../../../..//us/usc/t18/ptIII/ch314/m__us_usc_t18_ptIII_ch314.md) | [Next](./../../../../..//us/usc/t18/ptIII/ch315/m__us_usc_t18_s4281.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2FptIII%2Fch315)
 
 ### CHAPTER 315—DISCHARGE AND RELEASE PAYMENTS
 
@@ -75,7 +75,7 @@
 
 ----------
 
-[Previous](./../../../../..//us/usc/t18/ptIII/ch314/m__us_usc_t18_s4251 to 4255.md) | [Next](./../../../../..//us/usc/t18/ptIII/ch315/m__us_usc_t18_s4281.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2FptIII%2Fch315)
+[Previous](./../../../../..//us/usc/t18/ptIII/ch314/m__us_usc_t18_ptIII_ch314.md) | [Next](./../../../../..//us/usc/t18/ptIII/ch315/m__us_usc_t18_s4281.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2FptIII%2Fch315)
 
 ----------
 ----------

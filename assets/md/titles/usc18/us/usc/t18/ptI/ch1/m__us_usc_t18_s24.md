@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t18/ptI/ch1/m__us_usc_t18_s23.md) | [Next](./../../../../..//us/usc/t18/ptI/ch1/m__us_usc_t18_s25.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs24)
+[Previous](./../../../../..//us/usc/t18/ptI/ch1/m__us_usc_t18_s23.1.md) | [Next](./../../../../..//us/usc/t18/ptI/ch1/m__us_usc_t18_s25.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs24)
 
 ## § 24. Definitions relating to Federal health care offense
 
@@ -43,7 +43,7 @@
 
 ----------
 
-[Previous](./../../../../..//us/usc/t18/ptI/ch1/m__us_usc_t18_s23.md) | [Next](./../../../../..//us/usc/t18/ptI/ch1/m__us_usc_t18_s25.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs24)
+[Previous](./../../../../..//us/usc/t18/ptI/ch1/m__us_usc_t18_s23.1.md) | [Next](./../../../../..//us/usc/t18/ptI/ch1/m__us_usc_t18_s25.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs24)
 
 ----------
 ----------
