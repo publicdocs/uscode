@@ -53,7 +53,7 @@
 
 >     “(c)  __Removal of Certain Performance Goals__  __.—__ 
 
->     For each fiscal year that begins after the date of the enactment of this Act \[Aug. 7, 2014\], the Secretary shall not include in the performance goals of any employee of a Veterans Integrated Service Network or medical center of the Department any performance goal that might disincentivize the payment of Department amounts to provide hospital care, medical services, or other health care through a non-Department provider.
+>     For each fiscal year that begins after the date of the enactment of this Act, the Secretary shall not include in the performance goals of any employee of a Veterans Integrated Service Network or medical center of the Department any performance goal that might disincentivize the payment of Department amounts to provide hospital care, medical services, or other health care through a non-Department provider.
 
 ----------
 

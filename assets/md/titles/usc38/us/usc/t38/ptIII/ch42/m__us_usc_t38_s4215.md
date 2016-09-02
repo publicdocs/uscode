@@ -43,7 +43,7 @@
 
             (A) Any such program or service that uses technology to assist individuals to access workforce development programs (such as job and training opportunities, labor market information, career assessment tools, and related support services).
 
-            (B) Any such program or service under the public employment service system, one-stop career centers, the Workforce Investment Act of 1998, a demonstration or other temporary program, and those programs implemented by States or local service providers based on Federal block grants administered by the Department of Labor.
+            (B) Any such program or service under the public employment service system, one-stop career centers, the Workforce Investment Act of 1998, <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  a demonstration or other temporary program, and those programs implemented by States or local service providers based on Federal block grants administered by the Department of Labor.
 
             (C) Any such program or service that is a workforce development program targeted to specific groups.
 
@@ -81,7 +81,7 @@
 
  __References in Text__ 
 
-    The Workforce Investment Act of 1998, referred to in subsec. (a)(2)(B), is [Pub. L. 105–220][/us/pl/105/220], Aug. 7, 1998, [112 Stat. 936][/us/stat/112/936], as amended. For complete classification of this Act to the Code, see Short Title note set out under [section 9201 of Title 20][/us/usc/t20/s9201], Education, and Tables.
+    The Workforce Investment Act of 1998, referred to in subsec. (a)(2)(B), is [Pub. L. 105–220][/us/pl/105/220], Aug. 7, 1998, [112 Stat. 936][/us/stat/112/936], and was repealed by [Pub. L. 113–128, title V][/us/pl/113/128], §§ 506, 511(a), July 22, 2014, [128 Stat. 1703][/us/stat/128/1703], 1705, effective July 1, 2015. For complete classification of this Act to the Code, see Tables.
 
  __Amendments__ 
 
@@ -116,7 +116,8 @@
 [/us/stat/125/727]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F727
 [/us/pl/105/220]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F220
 [/us/stat/112/936]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F936
-[/us/usc/t20/s9201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs9201
+[/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
+[/us/stat/128/1703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1703
 [/us/pl/112/56/s239/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F56%2Fs239%2F1
 [/us/pl/112/56/s239/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F56%2Fs239%2F2
 [/us/usc/t38/s4107/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs4107%2Fc

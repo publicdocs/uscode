@@ -409,7 +409,7 @@
 
 >             “(B)  __Agreement defined__  __.—__ 
 
->             In this paragraph, the term “agreement” includes contracts, intergovernmental agreements, and provider agreements, as appropriate.
+>             In this paragraph, the term ‘agreement’ includes contracts, intergovernmental agreements, and provider agreements, as appropriate.
 
 >         “(2) __Rates and reimbursement.—__ 
 
@@ -609,7 +609,7 @@
 
 >         “(2)  __Regulations__  __.—__ 
 
->         Not later than 90 days after the date of the enactment of this Act \[Aug. 7, 2014\], the Secretary of Veterans Affairs shall prescribe regulations for the implementation of such system.
+>         Not later than 90 days after the date of the enactment of this Act, the Secretary of Veterans Affairs shall prescribe regulations for the implementation of such system.
 
 >         “(3)  __Oversight__  __.—__ 
 
@@ -655,7 +655,7 @@
 
 >     “(n)  __Implementation__  __.—__ 
 
->     Not later than 90 days after the date of the enactment of this Act \[Aug. 7, 2014\], the Secretary shall prescribe interim final regulations on the implementation of this section and publish such regulations in the Federal Register.
+>     Not later than 90 days after the date of the enactment of this Act, the Secretary shall prescribe interim final regulations on the implementation of this section and publish such regulations in the Federal Register.
 
 >     “(o)  __Inspector General Report__  __.—__ 
 
@@ -669,7 +669,7 @@
 
 >         “(2)  __Date specified__  __.—__ 
 
->         The date specified in this paragraph is the date on which the Secretary has exhausted all amounts deposited in the Veterans Choice Fund established by section 802, or the date that is 3 years after the date of the enactment of this Act \[Aug. 7, 2014\], whichever occurs first.
+>         The date specified in this paragraph is the date on which the Secretary has exhausted all amounts deposited in the Veterans Choice Fund established by section 802, or the date that is 3 years after the date of the enactment of this Act, whichever occurs first.
 
 >         “(3)  __Publication__  __.—__ 
 
@@ -723,7 +723,7 @@
 
 >         “(2)  __Alternate goals__  __.—__ 
 
->         If the Secretary submits to Congress, not later than 60 days after the date of the enactment of this Act \[Aug. 7, 2014\], a report stating that the actual wait-time goals of the Veterans Health Administration are different from the wait-time goals specified in paragraph (1)—
+>         If the Secretary submits to Congress, not later than 60 days after the date of the enactment of this Act, a report stating that the actual wait-time goals of the Veterans Health Administration are different from the wait-time goals specified in paragraph (1)—
 
 >             “(A) for purposes of this section, the wait-time goals of the Veterans Health Administration shall be the wait-time goals submitted by the Secretary under this paragraph; and
 

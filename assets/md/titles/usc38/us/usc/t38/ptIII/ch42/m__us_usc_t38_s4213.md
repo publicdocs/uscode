@@ -25,7 +25,7 @@
 
         (3) Any job training program assisted under the Economic Opportunity Act of 1964.
 
-        (4) Any employment or training program carried out under title I of the Workforce Investment Act of 1998 ([29 U.S.C. 2801][/us/usc/t29/s2801] et seq.).
+        (4) Any employment or training program carried out under title I of the Workforce Innovation and Opportunity Act.
 
         (5) Any other employment or training (or related) program financed in whole or in part with Federal funds.
 
@@ -45,15 +45,11 @@
 
 (Added [Pub. L. 92–540, title V, § 503(a)][/us/pl/92/540/s503/a], Oct. 24, 1972, [86 Stat. 1098][/us/stat/86/1098], § 2013; amended [Pub. L. 96–466, title VIII, § 801(k)(1)][/us/pl/96/466/s801/k/1], (2)(A), Oct. 17, 1980, [94 Stat. 2217][/us/stat/94/2217]; [Pub. L. 102–54, § 14(c)(10)][/us/pl/102/54/s14/c/10], June 13, 1991, [105 Stat. 285][/us/stat/105/285]; renumbered § 4213, [Pub. L. 102–83, § 5(a)][/us/pl/102/83/s5/a], Aug. 6, 1991, [105 Stat. 406][/us/stat/105/406]; [Pub. L. 103–446, title VII, § 702(b)][/us/pl/103/446/s702/b], Nov. 2, 1994, [108 Stat. 4675][/us/stat/108/4675]; [Pub. L. 105–277, div. A, § 101(f)][/us/pl/105/277/s101/f] \[title VIII, § 405(d)(29)(C), (f)(21)(C)\], Oct. 21, 1998, [112 Stat. 2681–337][/us/stat/112/2681-337], 2681–424, 2681–432; [Pub. L. 106–419, title IV, § 404(a)(9)][/us/pl/106/419/s404/a/9], Nov. 1, 2000, [114 Stat. 1865][/us/stat/114/1865]; [Pub. L. 113–128, title V, § 512(gg)(5)][/us/pl/113/128/s512/gg/5], July 22, 2014, [128 Stat. 1720][/us/stat/128/1720].)
 
- __Amendment of Subsection (a)(4)__ 
-
-    [Pub. L. 113–128, title V][/us/pl/113/128], §§ 506, 512(gg)(5), July 22, 2014, [128 Stat. 1703][/us/stat/128/1703], 1720, provided that, effective on the first day of the first full program year after July 22, 2014 \[probably July 1, 2015\], subsection (a)(4) of this section is amended by striking “Any employment or training program carried out under title I of the Workforce Investment Act of 1998 ([29 U.S.C. 2801][/us/usc/t29/s2801] et seq.)” and inserting “Any employment or training program carried out under title I of the Workforce Innovation and Opportunity Act”. See 2014 Amendment note below.
-
  __References in Text__ 
 
     The Economic Opportunity Act of 1964, referred to in subsec. (a)(3), is [Pub. L. 88–452][/us/pl/88/452], Aug. 20, 1964, [78 Stat. 508][/us/stat/78/508], as amended, which was classified generally to chapter 34 (§ 2701 et seq.) of Title 42, The Public Health and Welfare, prior to repeal, except for titles VIII and X, by [Pub. L. 97–35, title VI, § 683(a)][/us/pl/97/35/s683/a], Aug. 13, 1981, [95 Stat. 519][/us/stat/95/519]. Titles VIII and X of the Act are classified generally to subchapters VIII (§ 2991 et seq.) and X (§ 2996 et seq.) of chapter 34 of Title 42. For complete classification of this Act to the Code, see Tables.
 
-    The Workforce Investment Act of 1998, referred to in subsec. (a)(4), is [Pub. L. 105–220][/us/pl/105/220], Aug. 7, 1998, [112 Stat. 936][/us/stat/112/936], as amended. Title I of the Act is classified principally to chapter 30 (§ 2801 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under [section 9201 of Title 20][/us/usc/t20/s9201], Education, and Tables.
+    The Workforce Innovation and Opportunity Act, referred to in subsec. (a)(4), is [Pub. L. 113–128][/us/pl/113/128], July 22, 2014, [128 Stat. 1425][/us/stat/128/1425]. Title I of the Act is classified generally to subchapter I (§ 3111 et seq.) of chapter 32 of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under [section 3101 of Title 29][/us/usc/t29/s3101] and Tables.
 
  __Amendments__ 
 
@@ -79,7 +75,7 @@
 
  __Effective Date of 2014 Amendment__ 
 
-    Amendment by Pub. L. 113—128 effective on the first day of the first full program year after July 22, 2014 \[probably July 1, 2015\], see section 506 of Pub. L. 113—128, set out as an Effective Date note under [section 3101 of Title 29][/us/usc/t29/s3101], Labor.
+    Amendment by Pub. L. 113—128 effective on the first day of the first full program year after July 22, 2014 (July 1, 2015), see section 506 of Pub. L. 113—128, set out as an Effective Date note under [section 3101 of Title 29][/us/usc/t29/s3101], Labor.
 
  __Effective Date of 1998 Amendment__ 
 
@@ -100,7 +96,6 @@
 ----------
 ----------
 
-[/us/usc/t29/s2801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs2801
 [/us/pl/92/540/s503/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F540%2Fs503%2Fa
 [/us/stat/86/1098]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F1098
 [/us/pl/96/466/s801/k/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F466%2Fs801%2Fk%2F1
@@ -117,16 +112,13 @@
 [/us/stat/114/1865]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1865
 [/us/pl/113/128/s512/gg/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs512%2Fgg%2F5
 [/us/stat/128/1720]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1720
-[/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
-[/us/stat/128/1703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1703
-[/us/usc/t29/s2801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs2801
 [/us/pl/88/452]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F452
 [/us/stat/78/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F508
 [/us/pl/97/35/s683/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs683%2Fa
 [/us/stat/95/519]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F519
-[/us/pl/105/220]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F220
-[/us/stat/112/936]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F936
-[/us/usc/t20/s9201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs9201
+[/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
+[/us/stat/128/1425]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1425
+[/us/usc/t29/s3101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3101
 [/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
 [/us/usc/t29/s2801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs2801
 [/us/pl/106/419]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F419

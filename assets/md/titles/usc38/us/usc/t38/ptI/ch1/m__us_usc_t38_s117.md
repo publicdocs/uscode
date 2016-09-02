@@ -61,9 +61,7 @@
 
     Subsec. (c). [Pub. L. 113–235, § 244(a)(3)(G)][/us/pl/113/235/s244/a/3/G], substituted “Covered Accounts of the Department” for “Medical Care Accounts” in heading.
 
-    [Pub. L. 113–235, § 244(a)(3)(A)][/us/pl/113/235/s244/a/3/A], substituted “accounts of the Department of Veterans Affairs account” for “medical care accounts of the Veterans Health Administration, Department of Veterans Affairs account” in introductory provisions.
-
-    [Pub. L. 113–235, § 244(a)(1)][/us/pl/113/235/s244/a/1], substituted “covered accounts of the Department” for “medical care accounts of the Department” in introductory provisions.
+    [Pub. L. 113–235, § 244(a)(1)][/us/pl/113/235/s244/a/1], (3)(A), in introductory provisions, substituted “covered accounts of the Department” for “medical care accounts of the Department” and “accounts of the Department of Veterans Affairs account” for “medical care accounts of the Veterans Health Administration, Department of Veterans Affairs account”.
 
     Subsec. (c)(1)–(6). [Pub. L. 113–235, § 244(a)(3)(B)][/us/pl/113/235/s244/a/3/B]–(F), inserted “Veterans Health Administration,” after enumerators for pars. (1) to (3), redesignated pars. (1) to (3) as (4) to (6), respectively, and added pars. (1) to (3).
 
@@ -122,7 +120,6 @@
 [/us/pl/113/235/s244/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs244%2Fa%2F1
 [/us/pl/113/235/s244/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs244%2Fa%2F1
 [/us/pl/113/235/s244/a/3/G]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs244%2Fa%2F3%2FG
-[/us/pl/113/235/s244/a/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs244%2Fa%2F3%2FA
 [/us/pl/113/235/s244/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs244%2Fa%2F1
 [/us/pl/113/235/s244/a/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs244%2Fa%2F3%2FB
 [/us/pl/113/235/s244/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs244%2Fb

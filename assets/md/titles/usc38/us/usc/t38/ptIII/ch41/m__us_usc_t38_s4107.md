@@ -31,7 +31,7 @@
 
         (1) specification, by State and by age group, of the numbers of eligible veterans, disabled veterans, special disabled veterans, eligible persons, recently separated veterans (as defined in [section 4211(6) of this title][/us/usc/t38/s4211/6]), and servicemembers transitioning to civilian careers who registered for assistance with, or who are identified as veterans by, the public employment service system and, for each of such categories, the numbers referred to and placed in permanent and other jobs, the numbers referred to and placed in jobs and job training programs supported by the Federal Government, the number who received intensive services, and the number who received some, and the number who received no, reportable service;
 
-        (2) a comparison of the rate of entered employment (as determined in a manner consistent with State performance measures applicable under section 136(b) of the Workforce Investment Act of 1998) for each of the categories of veterans and persons described in paragraph (1) of this subsection with such rate of entered employment (as so determined) for nonveterans of the same age groups registered for assistance with the public employment system in each State;
+        (2) a comparison of the rate of entered employment (as determined in a manner consistent with State performance measures applicable under section 136(b)  <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  of the Workforce Investment Act of 1998) for each of the categories of veterans and persons described in paragraph (1) of this subsection with such rate of entered employment (as so determined) for nonveterans of the same age groups registered for assistance with the public employment system in each State;
 
         (3) any determination made by the Secretary during the preceding fiscal year under [section 4106 of this title][/us/usc/t38/s4106] or subsection (a)(2) of this section and a statement of the reasons for such determination;
 
@@ -59,7 +59,7 @@
 
  __References in Text__ 
 
-    Section 136(b) of the Workforce Investment Act of 1998, referred to in subsec. (c)(2), is classified to [section 2871(b) of Title 29][/us/usc/t29/s2871/b], Labor.
+    Section 136(b) of the Workforce Investment Act of 1998, referred to in subsec. (c)(2), was classified to [section 2871(b) of Title 29][/us/usc/t29/s2871/b], Labor, prior to repeal by [Pub. L. 113–128, title V, § 511(a)][/us/pl/113/128/s511/a], July 22, 2014, [128 Stat. 1705][/us/stat/128/1705], effective July 1, 2015. Pursuant to [section 3361(a) of Title 29][/us/usc/t29/s3361/a], references to a provision of the Workforce Investment Act of 1998 are deemed to refer to the corresponding provision of the Workforce Innovation and Opportunity Act, [Pub. L. 113–128][/us/pl/113/128], July 22, 2014, [128 Stat. 1425][/us/stat/128/1425]. For corresponding provision, see [section 116 of Pub. L. 113–128][/us/pl/113/128/s116], which is classified to [section 3141 of Title 29][/us/usc/t29/s3141].
 
  __Prior Provisions__ 
 
@@ -188,6 +188,13 @@
 [/us/pl/112/56/s238]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F56%2Fs238
 [/us/stat/125/726]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F726
 [/us/usc/t29/s2871/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs2871%2Fb
+[/us/pl/113/128/s511/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs511%2Fa
+[/us/stat/128/1705]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1705
+[/us/usc/t29/s3361/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3361%2Fa
+[/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
+[/us/stat/128/1425]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1425
+[/us/pl/113/128/s116]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs116
+[/us/usc/t29/s3141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3141
 [/us/pl/85/857]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F857
 [/us/stat/72/1245]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F1245
 [/us/pl/86/568/s114/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F568%2Fs114%2Ff

@@ -23,7 +23,7 @@
 
          In addition to requiring affirmative action to employ such qualified covered veterans under such contracts and subcontracts and in order to promote the implementation of such requirement, the Secretary of Labor shall prescribe regulations requiring that—
 
-            (A) each such contractor for each such contract shall immediately list all of its employment openings with the appropriate employment service delivery system (as defined in [section 4101(7) of this title][/us/usc/t38/s4101/7]), and may also list such openings with one-stop career centers under the Workforce Investment Act of 1998, other appropriate service delivery points, or America’s Job Bank (or any additional or subsequent national electronic job bank established by the Department of Labor), except that the contractor may exclude openings for executive and senior management positions and positions which are to be filled from within the contractor’s organization and positions lasting three days or less;
+            (A) each such contractor for each such contract shall immediately list all of its employment openings with the appropriate employment service delivery system (as defined in [section 4101(7) of this title][/us/usc/t38/s4101/7]), and may also list such openings with one-stop career centers under the Workforce Investment Act of 1998, <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  other appropriate service delivery points, or America’s Job Bank (or any additional or subsequent national electronic job bank established by the Department of Labor), except that the contractor may exclude openings for executive and senior management positions and positions which are to be filled from within the contractor’s organization and positions lasting three days or less;
 
             (B) each such employment service delivery system shall give such qualified covered veterans priority in referral to such employment openings; and
 
@@ -71,7 +71,7 @@
 
  __References in Text__ 
 
-    The Workforce Investment Act of 1998, referred to in subsec. (a)(2)(A), is [Pub. L. 105–220][/us/pl/105/220], Aug. 7, 1998, [112 Stat. 936][/us/stat/112/936], as amended. For complete classification of this Act to the Code, see Short Title note set out under [section 9201 of Title 20][/us/usc/t20/s9201], Education, and Tables.
+    The Workforce Investment Act of 1998, referred to in subsec. (a)(2)(A), is [Pub. L. 105–220][/us/pl/105/220], Aug. 7, 1998, [112 Stat. 936][/us/stat/112/936], and was repealed by [Pub. L. 113–128, title V][/us/pl/113/128], §§ 506, 511(a), July 22, 2014, [128 Stat. 1703][/us/stat/128/1703], 1705, effective July 1, 2015. For complete classification of this Act to the Code, see Tables.
 
     Executive Order No. 12985, referred to in subsec. (a)(3)(A)(iii), is set out as a note preceding [section 1121 of Title 10][/us/usc/t10/s1121], Armed Forces.
 
@@ -214,7 +214,8 @@
 [/us/stat/126/1207]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1207
 [/us/pl/105/220]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F220
 [/us/stat/112/936]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F936
-[/us/usc/t20/s9201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs9201
+[/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
+[/us/stat/128/1703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1703
 [/us/usc/t10/s1121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1121
 [/us/pl/112/154]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F154
 [/us/pl/107/288/s2/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F288%2Fs2%2Fb%2F1

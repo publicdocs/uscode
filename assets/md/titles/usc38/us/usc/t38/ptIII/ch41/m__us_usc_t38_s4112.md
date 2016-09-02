@@ -25,7 +25,7 @@
 
             (B) recognize eligible employees and employment service offices for excellence in the provision of such services or for having made demonstrable improvements in the provision of such services.
 
-        (2) The Secretary shall establish such criteria in consultation with representatives of States, political subdivisions of States, and other providers of employment, training, and placement services under the Workforce Investment Act of 1998 consistent with the performance measures established under [section 4102A(b)(7) of this title][/us/usc/t38/s4102A/b/7].
+        (2) The Secretary shall establish such criteria in consultation with representatives of States, political subdivisions of States, and other providers of employment, training, and placement services under the Workforce Investment Act of 1998  <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  consistent with the performance measures established under [section 4102A(b)(7) of this title][/us/usc/t38/s4102A/b/7].
 
     (b)  __Form of Awards__  __.—__ 
 
@@ -49,13 +49,13 @@
 
         (2) A local veterans’ employment representative.
 
-        (3) An individual providing employment, training, and placement services to veterans under the Workforce Investment Act of 1998 or through an employment service delivery system (as defined in [section 4101(7) of this title][/us/usc/t38/s4101/7]).
+        (3) An individual providing employment, training, and placement services to veterans under the Workforce Investment Act of 1998 1 or through an employment service delivery system (as defined in [section 4101(7) of this title][/us/usc/t38/s4101/7]).
 
 (Added [Pub. L. 107–288, § 3(a)][/us/pl/107/288/s3/a], Nov. 7, 2002, [116 Stat. 2037][/us/stat/116/2037]; amended [Pub. L. 109–461, title VI, § 603][/us/pl/109/461/s603], Dec. 22, 2006, [120 Stat. 3437][/us/stat/120/3437].)
 
  __References in Text__ 
 
-    The Workforce Investment Act of 1998, referred to in subsecs. (a)(2) and (d)(3), is [Pub. L. 105–220][/us/pl/105/220], Aug. 7, 1998, [112 Stat. 936][/us/stat/112/936], as amended. For complete classification of this Act to the Code, see Short Title note set out under [section 9201 of Title 20][/us/usc/t20/s9201], Education, and Tables.
+    The Workforce Investment Act of 1998, referred to in subsecs. (a)(2) and (d)(3), is [Pub. L. 105–220][/us/pl/105/220], Aug. 7, 1998, [112 Stat. 936][/us/stat/112/936], and was repealed by [Pub. L. 113–128, title V][/us/pl/113/128], §§ 506, 511(a), July 22, 2014, [128 Stat. 1703][/us/stat/128/1703], 1705, effective July 1, 2015. Pursuant to [section 3361(a) of Title 29][/us/usc/t29/s3361/a], references to a provision of the Workforce Investment Act of 1998 are deemed to refer to the corresponding provision of the Workforce Innovation and Opportunity Act, [Pub. L. 113–128][/us/pl/113/128], July 22, 2014, [128 Stat. 1425][/us/stat/128/1425]. For complete classification of the Workforce Investment Act of 1998 to the Code, see Tables. For complete classification of the Workforce Innovation and Opportunity Act to the Code, see Short Title note set out under [section 3101 of this title][/us/usc/t38/s3101] and Tables.
 
  __Prior Provisions__ 
 
@@ -88,7 +88,12 @@
 [/us/stat/120/3437]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F3437
 [/us/pl/105/220]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F220
 [/us/stat/112/936]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F936
-[/us/usc/t20/s9201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs9201
+[/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
+[/us/stat/128/1703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1703
+[/us/usc/t29/s3361/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3361%2Fa
+[/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
+[/us/stat/128/1425]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1425
+[/us/usc/t38/s3101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs3101
 [/us/pl/85/857]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F857
 [/us/stat/72/1247]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F1247
 [/us/pl/89/785/s109/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F785%2Fs109%2Fa

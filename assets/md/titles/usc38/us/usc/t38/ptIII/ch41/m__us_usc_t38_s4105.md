@@ -23,7 +23,7 @@
 
  __References in Text__ 
 
-    The Veterans’ Job Training Act, referred to in subsec. (b), is [Pub. L. 98–77][/us/pl/98/77], Aug. 15, 1983, [97 Stat. 443][/us/stat/97/443], as amended, which is set out as a note under [section 2913 of Title 29][/us/usc/t29/s2913], Labor. For complete classification of this Act to the Code, see Tables.
+    The Veterans’ Job Training Act, referred to in subsec. (b), is [Pub. L. 98–77][/us/pl/98/77], Aug. 15, 1983, [97 Stat. 443][/us/stat/97/443], which is set out as a note under [section 3171 of Title 29][/us/usc/t29/s3171], Labor. For complete classification of this Act to the Code, see Tables.
 
  __Prior Provisions__ 
 
@@ -98,7 +98,7 @@
 [/us/stat/120/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F417
 [/us/pl/98/77]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F77
 [/us/stat/97/443]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F443
-[/us/usc/t29/s2913]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs2913
+[/us/usc/t29/s3171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3171
 [/us/pl/85/857]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F857
 [/us/stat/72/1244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F1244
 [/us/pl/87/574/s4/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F574%2Fs4%2F1

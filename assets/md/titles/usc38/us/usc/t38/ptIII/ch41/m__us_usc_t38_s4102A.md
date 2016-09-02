@@ -131,7 +131,7 @@
 
             (B) on an annual basis, to notify the Secretary of, and provide supporting rationale for, each nonveteran who is employed as a disabled veterans’ outreach program specialist and local veterans’ employment representative for a period in excess of 6 months.
 
-        (6) Each State shall coordinate employment, training, and placement services furnished to veterans and eligible persons under this chapter with such services furnished with respect to such veterans and persons under the Workforce Investment Act of 1998 and the Wagner-Peyser Act.
+        (6) Each State shall coordinate employment, training, and placement services furnished to veterans and eligible persons under this chapter with such services furnished with respect to such veterans and persons under the Workforce Investment Act of 1998  <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  and the Wagner-Peyser Act.
 
         (7) Of the amount of a grant or contract under which funds are made available to a State in order to carry out section 4103A or 4104 of this title for any program year, one percent shall be for the purposes of making cash awards under the program of performance incentive awards described in [section 4112 of this title][/us/usc/t38/s4112] in the State.
 
@@ -159,7 +159,7 @@
 
                     (II) A description of the standard practices of the State for evaluating training received by veterans while serving on active duty in the Armed Forces and evaluating the documented work experience of such veterans during such service for purposes of approving or denying a certification or license described in subparagraph (B).
 
-                    (III) Identification of areas in which training and experience described in subclause (II) fails to meet criteria described in subclause (I).”  <sup>\[1\]</sup>  <sup><sup> 1 So in original. The quotation marks probably should not appear. </sup></sup> 
+                    (III) Identification of areas in which training and experience described in subclause (II) fails to meet criteria described in subclause (I).”  <sup>\[2\]</sup>  <sup><sup> 2 So in original. The quotation marks probably should not appear. </sup></sup> 
 
             (B)
 
@@ -183,7 +183,7 @@
 
     (d)  __Participation in Other Federally Funded Job Training Programs__  __.—__ 
 
-    The Assistant Secretary of Labor for Veterans’ Employment and Training shall promote and monitor participation of qualified veterans and eligible persons in employment and training opportunities under title I of the Workforce Investment Act of 1998 and other federally funded employment and training programs.
+    The Assistant Secretary of Labor for Veterans’ Employment and Training shall promote and monitor participation of qualified veterans and eligible persons in employment and training opportunities under title I of the Workforce Innovation and Opportunity Act and other federally funded employment and training programs.
 
     (e)  __Regional Administrators__  __.—__ 
 
@@ -199,7 +199,7 @@
 
          Such standards and measures shall—
 
-            (A) be consistent with State performance measures applicable under section 136(b) of the Workforce Investment Act of 1998; and
+            (A) be consistent with State performance accountability measures applicable under section 116(b) of the Workforce Innovation and Opportunity Act; and
 
             (B) be appropriately weighted to provide special consideration for placement of (i) veterans requiring intensive services (as defined in [section 4101(9) of this title][/us/usc/t38/s4101/9]), such as special disabled veterans and disabled veterans, and (ii) veterans who enroll in readjustment counseling under [section 1712A of this title][/us/usc/t38/s1712A].
 
@@ -223,23 +223,15 @@
 
 (Added [Pub. L. 94–502, title VI, § 601(b)(1)][/us/pl/94/502/s601/b/1], Oct. 15, 1976, [90 Stat. 2404][/us/stat/90/2404], § 2002A; amended [Pub. L. 96–466, title V, § 504(a)(3)][/us/pl/96/466/s504/a/3], (4), Oct. 17, 1980, [94 Stat. 2203][/us/stat/94/2203]; [Pub. L. 97–306, title III, § 303][/us/pl/97/306/s303], Oct. 14, 1982, [96 Stat. 1437][/us/stat/96/1437]; [Pub. L. 98–160, title VII, § 702(15)][/us/pl/98/160/s702/15], Nov. 21, 1983, [97 Stat. 1010][/us/stat/97/1010]; [Pub. L. 100–323][/us/pl/100/323], §§ 2(a), (e)(3)(A), 15(a)(2), (b)(1), May 20, 1988, [102 Stat. 556][/us/stat/102/556], 559, 574; [Pub. L. 101–237, title IV, § 423(b)(8)(A)][/us/pl/101/237/s423/b/8/A], Dec. 18, 1989, [103 Stat. 2093][/us/stat/103/2093]; renumbered § 4102A and amended [Pub. L. 102–83][/us/pl/102/83], §§ 4(b)(1), (2)(E), 5(a), (c)(1), Aug. 6, 1991, [105 Stat. 404–406][/us/stat/105/404-406]; [Pub. L. 103–446, title VII, § 701(a)][/us/pl/103/446/s701/a], title XII, § 1201(a)(4), Nov. 2, 1994, [108 Stat. 4674][/us/stat/108/4674], 4682; [Pub. L. 104–275, title III, § 301][/us/pl/104/275/s301], Oct. 9, 1996, [110 Stat. 3332][/us/stat/110/3332]; [Pub. L. 105–277, div. A, § 101(f)][/us/pl/105/277/s101/f] \[title VIII, § 405(d)(29)(A), (f)(21)(A)\], Oct. 21, 1998, [112 Stat. 2681–337][/us/stat/112/2681-337], 2681–424, 2681–432; [Pub. L. 105–368, title X, § 1005(b)(13)][/us/pl/105/368/s1005/b/13], Nov. 11, 1998, [112 Stat. 3365][/us/stat/112/3365]; [Pub. L. 107–288, § 4(a)(1)][/us/pl/107/288/s4/a/1], Nov. 7, 2002, [116 Stat. 2038][/us/stat/116/2038]; [Pub. L. 108–183, title VII, § 708(b)(1)(A)][/us/pl/108/183/s708/b/1/A], (2), Dec. 16, 2003, [117 Stat. 2673][/us/stat/117/2673]; [Pub. L. 109–233, title II, § 201][/us/pl/109/233/s201], title V, § 503(11), June 15, 2006, [120 Stat. 402][/us/stat/120/402], 416; [Pub. L. 109–461, title VI, § 601(a)][/us/pl/109/461/s601/a], (b), Dec. 22, 2006, [120 Stat. 3436][/us/stat/120/3436]; [Pub. L. 111–275, title I, § 103(a)][/us/pl/111/275/s103/a], title X, § 1001(k), Oct. 13, 2010, [124 Stat. 2866][/us/stat/124/2866], 2897; [Pub. L. 112–56, title II, § 241(c)][/us/pl/112/56/s241/c], Nov. 21, 2011, [125 Stat. 728][/us/stat/125/728]; [Pub. L. 112–239, div. A, title V, § 544(a)][/us/pl/112/239/s544/a], Jan. 2, 2013, [126 Stat. 1737][/us/stat/126/1737]; [Pub. L. 113–128, title V, § 512(gg)(2)][/us/pl/113/128/s512/gg/2], July 22, 2014, [128 Stat. 1719][/us/stat/128/1719].)
 
- __Amendment of Subsections (d) and(f)(2)(A)__ 
-
-    [Pub. L. 113–128, title V][/us/pl/113/128], §§ 506, 512(gg)(2), July 22, 2014, [128 Stat. 1703][/us/stat/128/1703], 1719, provided that, effective on the first day of the first full program year after July 22, 2014 \[probably July 1, 2015\], this section is amended as follows:
-
-    (1) in subsection (d), by striking “participation of qualified veterans and eligible persons in employment and training opportunities under title I of the Workforce Investment Act of 1998” and inserting “participation of qualified veterans and eligible persons in employment and training opportunities under title I of the Workforce Innovation and Opportunity Act”; and
-
-    (2) in subsection (f)(2)(A), by striking “be consistent with State performance measures applicable under section 136(b) of the Workforce Investment Act of 1998” and inserting “be consistent with State performance accountability measures applicable under section 116(b) of the Workforce Innovation and Opportunity Act”.
-
-    See 2014 Amendment notes below.
-
  __References in Text__ 
 
     The Jobs for Veterans Act, referred to in subsec. (c)(2)(B)(ii), is [Pub. L. 107–288][/us/pl/107/288], Nov. 7, 2002, [116 Stat. 2033][/us/stat/116/2033]. For complete classification of this Act to the Code, see Short Title of 2002 Amendments note set out under [section 101 of this title][/us/usc/t38/s101] and Tables.
 
-    The Workforce Investment Act of 1998, referred to in subsecs. (c)(6) and (d), is [Pub. L. 105–220][/us/pl/105/220], Aug. 7, 1998, [112 Stat. 936][/us/stat/112/936], as amended. Title I of the Act is classified principally to chapter 30 (§ 2801 et seq.) of Title 29, Labor. Section 136(b) of the Act is classified to [section 2871(b) of Title 29][/us/usc/t29/s2871/b]. For complete classification of this Act to the Code, see Short Title note set out under [section 9201 of Title 20][/us/usc/t20/s9201], Education, and Tables.
+    The Workforce Investment Act of 1998, referred to in subsec. (c)(6), is [Pub. L. 105–220][/us/pl/105/220], Aug. 7, 1998, [112 Stat. 936][/us/stat/112/936], and was repealed by [Pub. L. 113–128, title V][/us/pl/113/128], §§ 506, 511(a), July 22, 2014, [128 Stat. 1703][/us/stat/128/1703], 1705, effective July 1, 2015. Pursuant to [section 3361(a) of Title 29][/us/usc/t29/s3361/a], Labor, references to a provision of the Workforce Investment Act of 1998 are deemed to refer to the corresponding provision of the Workforce Innovation and Opportunity Act, [Pub. L. 113–128][/us/pl/113/128], July 22, 2014, [128 Stat. 1425][/us/stat/128/1425]. For complete classification of the Workforce Investment Act of 1998 to the Code, see Tables. For complete classification of the Workforce Innovation and Opportunity Act to the Code, see Short Title note set out under [section 3101 of this title][/us/usc/t38/s3101] and Tables.
 
     The Wagner-Peyser Act, referred to in subsec. (c)(6), is [act June 6, 1933, ch. 49][/us/act/1933-06-06/ch49], [48 Stat. 113][/us/stat/48/113], as amended, which is classified generally to chapter 4B (§ 49 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under [section 49 of Title 29][/us/usc/t29/s49] and Tables.
+
+    The Workforce Innovation and Opportunity Act, referred to in subsec. (d), is [Pub. L. 113–128][/us/pl/113/128], July 22, 2014, [128 Stat. 1425][/us/stat/128/1425]. Title I of the Act is classified generally to subchapter I (§ 3111 et seq.) of chapter 32 of Title 29, Labor. Section 116(b) of the Act is classified to [section 3141(b) of Title 29][/us/usc/t29/s3141/b]. For complete classification of this Act to the Code, see Short Title note set out under [section 3101 of Title 29][/us/usc/t29/s3101] and Tables.
 
  __Amendments__ 
 
@@ -321,7 +313,7 @@
 
  __Effective Date of 2014 Amendment__ 
 
-    Amendment by Pub. L. 113—128 effective on the first day of the first full program year after July 22, 2014 \[probably July 1, 2015\], see section 506 of Pub. L. 113—128, set out as an Effective Date note under [section 3101 of Title 29][/us/usc/t29/s3101], Labor.
+    Amendment by Pub. L. 113—128 effective on the first day of the first full program year after July 22, 2014 (July 1, 2015), see section 506 of Pub. L. 113—128, set out as an Effective Date note under [section 3101 of Title 29][/us/usc/t29/s3101], Labor.
 
  __Effective Date of 2013 Amendment__ 
 
@@ -443,18 +435,24 @@
 [/us/stat/126/1737]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1737
 [/us/pl/113/128/s512/gg/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs512%2Fgg%2F2
 [/us/stat/128/1719]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1719
-[/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
-[/us/stat/128/1703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1703
 [/us/pl/107/288]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F288
 [/us/stat/116/2033]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2033
 [/us/usc/t38/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs101
 [/us/pl/105/220]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F220
 [/us/stat/112/936]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F936
-[/us/usc/t29/s2871/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs2871%2Fb
-[/us/usc/t20/s9201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs9201
+[/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
+[/us/stat/128/1703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1703
+[/us/usc/t29/s3361/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3361%2Fa
+[/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
+[/us/stat/128/1425]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1425
+[/us/usc/t38/s3101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs3101
 [/us/act/1933-06-06/ch49]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1933-06-06%2Fch49
 [/us/stat/48/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F113
 [/us/usc/t29/s49]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs49
+[/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
+[/us/stat/128/1425]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1425
+[/us/usc/t29/s3141/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3141%2Fb
+[/us/usc/t29/s3101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3101
 [/us/pl/113/128/s512/gg/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs512%2Fgg%2F2%2FA
 [/us/pl/113/128/s512/gg/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs512%2Fgg%2F2%2FB
 [/us/pl/112/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239

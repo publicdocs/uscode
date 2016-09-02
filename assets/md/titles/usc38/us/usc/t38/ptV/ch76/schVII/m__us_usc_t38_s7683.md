@@ -53,9 +53,7 @@
 
     Subsec. (d)(1). [Pub. L. 113–175, § 408(3)(A)][/us/pl/113/175/s408/3/A], substituted “made to or for” for “made to”.
 
-    [Pub. L. 113–146, § 302(b)(2)(B)][/us/pl/113/146/s302/b/2/B], substituted “The amount” for “Subject to paragraph (2), the amount”.
-
-    [Pub. L. 113–146, § 302(b)(1)][/us/pl/113/146/s302/b/1], substituted “$120,000” for “$60,000” and “$24,000 of such payments may be made in each year of participation in the Program” for “$12,000 of such payments may be made in each of the fourth and fifth years of participation in the Program.”
+    [Pub. L. 113–146, § 302(b)(1)][/us/pl/113/146/s302/b/1], (2)(B), substituted “The amount” for “Subject to paragraph (2), the amount”, “$120,000” for “$60,000”, and “$24,000 of such payments may be made in each year of participation in the Program” for “$12,000 of such payments may be made in each of the fourth and fifth years of participation in the Program”.
 
     Subsec. (d)(2). [Pub. L. 113–146, § 302(b)(2)(A)(i)][/us/pl/113/146/s302/b/2/A/i], (ii), redesignated par. (3) as (2) and struck out former par. (2) which read as follows: “The total amount payable to a participant in such Program for any year may not exceed the amount of the principal and interest on loans referred to in subsection (a) that is paid by the individual during such year.”
 
@@ -99,7 +97,6 @@
 [/us/usc/t38/s7682/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs7682%2Fa%2F2
 [/us/pl/113/175/s408/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F175%2Fs408%2F2
 [/us/pl/113/175/s408/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F175%2Fs408%2F3%2FA
-[/us/pl/113/146/s302/b/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F146%2Fs302%2Fb%2F2%2FB
 [/us/pl/113/146/s302/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F146%2Fs302%2Fb%2F1
 [/us/pl/113/146/s302/b/2/A/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F146%2Fs302%2Fb%2F2%2FA%2Fi
 [/us/pl/113/175/s408/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F175%2Fs408%2F3%2FB

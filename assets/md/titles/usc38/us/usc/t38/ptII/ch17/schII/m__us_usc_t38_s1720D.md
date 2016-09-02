@@ -19,7 +19,13 @@
 
         (1) The Secretary shall operate a program under which the Secretary provides counseling and appropriate care and services to veterans who the Secretary determines require such counseling and care and services to overcome psychological trauma, which in the judgment of a mental health professional employed by the Department, resulted from a physical assault of a sexual nature, battery of a sexual nature, or sexual harassment which occurred while the veteran was serving on active duty, active duty for training, or inactive duty training.
 
-        (2) In furnishing counseling to a veteran under this subsection, the Secretary may provide such counseling pursuant to a contract with a qualified mental health professional if (A) in the judgment of a mental health professional employed by the Department, the receipt of counseling by that veteran in facilities of the Department would be clinically inadvisable, or (B) Department facilities are not capable of furnishing such counseling to that veteran economically because of geographical inaccessibility.
+        (2)
+
+            (A) In operating the program required by paragraph (1), the Secretary may, in consultation with the Secretary of Defense, provide counseling and care and services to members of the Armed Forces (including members of the National Guard and Reserves) on active duty to overcome psychological trauma described in that paragraph.
+
+            (B) A member described in subparagraph (A) shall not be required to obtain a referral before receiving counseling and care and services under this paragraph.
+
+        (3) In furnishing counseling to an individual under this subsection, the Secretary may provide such counseling pursuant to a contract with a qualified mental health professional if (A) in the judgment of a mental health professional employed by the Department, the receipt of counseling by that individual in facilities of the Department would be clinically inadvisable, or (B) Department facilities are not capable of furnishing such counseling to that individual economically because of geographical inaccessibility.
 
     (b)
 
@@ -37,13 +43,13 @@
 
     (c)
 
-     The Secretary shall provide information on the counseling and treatment available to veterans under this section. Efforts by the Secretary to provide such information—
+     The Secretary shall provide information on the counseling and treatment available under this section. Efforts by the Secretary to provide such information—
 
         (1) shall include availability of a toll-free telephone number (commonly referred to as an 800 number);
 
         (2)
 
-         shall ensure that information about the counseling and treatment available to veterans under this section—
+         shall ensure that information about the counseling and treatment available under this section—
 
             (A) is revised and updated as appropriate;
 
@@ -51,7 +57,7 @@
 
             (C) is made available through appropriate public information services; and
 
-        (3) shall include coordination with the Secretary of Defense seeking to ensure that individuals who are being separated from active military, naval, or air service are provided appropriate information about programs, requirements, and procedures for applying for counseling and treatment under this section.
+        (3) shall include coordination with the Secretary of Defense seeking to ensure that members of the Armed Forces and individuals who are being separated from active military, naval, or air service are provided appropriate information about programs, requirements, and procedures for applying for counseling and treatment under this section.
 
     (d)
 
@@ -67,67 +73,37 @@
 
     (e)
 
-     Each year, the Secretary shall submit to Congress an annual report on the counseling, care, and services provided to veterans pursuant to this section. Each report shall include data for the year covered by the report with respect to each of the following:
+     Each year, the Secretary shall submit to Congress an annual report on the counseling, care, and services provided pursuant to this section. Each report shall include data for the year covered by the report with respect to each of the following:
 
         (1) The number of mental health professionals, graduate medical education trainees, and primary care providers who have been certified under the program required by subsection (d) and the amount and nature of continuing medical education provided under such program to such professionals, trainees, and providers who are so certified.
 
-        (2) The number of women veterans who received counseling and care and services under subsection (a) from professionals and providers who received training under subsection (d).
+        (2)
+
+         The number of individuals who received counseling and care and services under subsection (a) from professionals and providers who received training under subsection (d), disaggregated by—
+
+            (A) veterans;
+
+            (B) members of the Armed Forces (including members of the National Guard and Reserves) on active duty; and
+
+            (C)
+
+             for each of subparagraphs (A) and (B)—
+
+                (i) men; and
+
+                (ii) women.
 
         (3) The number of graduate medical education, training, certification, and continuing medical education courses provided by reason of subsection (d).
 
-        (4) The number of trained full-time equivalent employees required in each facility of the Department to meet the needs of veterans requiring treatment and care for sexual trauma and post-traumatic stress disorder.
+        (4) The number of trained full-time equivalent employees required in each facility of the Department to meet the needs of individuals requiring treatment and care for sexual trauma and post-traumatic stress disorder.
 
-        (5) Such recommendations for improvements in the treatment of women veterans with sexual trauma and post-traumatic stress disorder as the Secretary considers appropriate.
+        (5) Such recommendations for improvements in the treatment of individuals with sexual trauma and post-traumatic stress disorder as the Secretary considers appropriate, including specific recommendations for individuals specified in subparagraphs (A), (B), and (C) of paragraph (2).
 
         (6) Such other information as the Secretary considers appropriate.
 
     (f) In this section, the term “sexual harassment” means repeated, unsolicited verbal or physical contact of a sexual nature which is threatening in character.
 
 (Added [Pub. L. 102–585, title I, § 102(a)(1)][/us/pl/102/585/s102/a/1], Nov. 4, 1992, [106 Stat. 4945][/us/stat/106/4945]; amended [Pub. L. 103–452, title I, § 101(a)][/us/pl/103/452/s101/a]–(d), (f)(1), (2)(A), (g)(1), Nov. 2, 1994, [108 Stat. 4783][/us/stat/108/4783], 4784; [Pub. L. 105–368, title IX, § 902][/us/pl/105/368/s902], Nov. 11, 1998, [112 Stat. 3360][/us/stat/112/3360]; [Pub. L. 106–117, title I, § 115(a)][/us/pl/106/117/s115/a]–(c), Nov. 30, 1999, [113 Stat. 1558][/us/stat/113/1558]; [Pub. L. 108–422, title III, § 301][/us/pl/108/422/s301], Nov. 30, 2004, [118 Stat. 2382][/us/stat/118/2382]; [Pub. L. 111–163, title II, § 202][/us/pl/111/163/s202], May 5, 2010, [124 Stat. 1142][/us/stat/124/1142]; [Pub. L. 113–146, title IV][/us/pl/113/146], §§ 401–402(c), Aug. 7, 2014, [128 Stat. 1789][/us/stat/128/1789], 1790.)
-
- __Amendment of Section__ 
-
-    [Pub. L. 113–146, title IV, § 402][/us/pl/113/146/s402], Aug. 7, 2014, [128 Stat. 1790][/us/stat/128/1790], provided that, effective on the date that is 1 year after Aug. 7, 2014, this section is amended as follows:
-
-    (1) in subsection (a):
-
-    (A) by redesignating paragraph (2) as paragraph (3);
-
-    (B) by inserting after paragraph (1) the following new paragraph (2):
-
-    “(2)(A) In operating the program required by paragraph (1), the Secretary may, in consultation with the Secretary of Defense, provide counseling and care and services to members of the Armed Forces (including members of the National Guard and Reserves) on active duty to overcome psychological trauma described in that paragraph.
-
-    “(B) A member described in subparagraph (A) shall not be required to obtain a referral before receiving counseling and care and services under this paragraph.”; and
-
-    (C) in paragraph (3), as redesignated, by striking “a veteran” and inserting “an individual” and by striking “that veteran” each place it appears and inserting “that individual”;
-
-    (2) in subsection (c):
-
-    (A) by striking “to veterans” each place it appears; and
-
-    (B) in paragraph (3), by inserting “members of the Armed Forces and” before “individuals”; and
-
-    (3) in subsection (e):
-
-    (A)in the matter preceding paragraph (1), by striking “to veterans”;
-
-    (B) in paragraph (2), by striking “women veterans” and inserting “individuals” and by striking “training under subsection (d).” and inserting “training under subsection (d), disaggregated by—
-
-    “(A) veterans;
-
-    “(B) members of the Armed Forces (including members of the National Guard and Reserves) on active duty; and
-
-    “(C) for each of subparagraphs (A) and (B)—
-
-    “(i) men; and
-
-    “(ii) women.”;
-
-    (C) in paragraph (4), by striking “veterans” and inserting “individuals”; and
-
-    (D) in paragraph (5), by striking “women veterans” and inserting “individuals” and by inserting “, including specific recommendations for individuals specified in subparagraphs (A), (B), and (C) of paragraph (2)” before the period at the end.
-
-    See 2014 Amendment notes below.
 
  __Amendments__ 
 
@@ -248,8 +224,6 @@
 [/us/stat/124/1142]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1142
 [/us/pl/113/146]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F146
 [/us/stat/128/1789]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1789
-[/us/pl/113/146/s402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F146%2Fs402
-[/us/stat/128/1790]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1790
 [/us/pl/113/146/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F146%2Fs401
 [/us/pl/113/146/s402/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F146%2Fs402%2Fa%2F2
 [/us/pl/113/146/s402/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F146%2Fs402%2Fa%2F1

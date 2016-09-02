@@ -29,7 +29,7 @@
 
 >         “(1)  __In general__  __.—__ 
 
->         Not later than 180 days after the date of the enactment of this Act \[Aug. 7, 2014\], the Secretary shall develop and make available to the public a comprehensive, machine-readable data set containing all applicable patient safety, quality of care, and outcome measures for health care provided by the Department that are tracked by the Secretary.
+>         Not later than 180 days after the date of the enactment of this Act, the Secretary shall develop and make available to the public a comprehensive, machine-readable data set containing all applicable patient safety, quality of care, and outcome measures for health care provided by the Department that are tracked by the Secretary.
 
 >         “(2)  __Update frequency__  __.—__ 
 
@@ -47,7 +47,7 @@
 
 >         “(1)  __Agreement required__  __.—__ 
 
->         Not later than 180 days after the date of the enactment of this Act \[Aug. 7, 2014\], the Secretary of Veterans Affairs shall enter into an agreement with the Secretary of Health and Human Services for the provision by the Secretary of Veterans Affairs of such information as the Secretary of Health and Human Services may require to report and make publicly available patient quality and outcome information concerning Department of Veterans Affairs medical centers through the Hospital Compare Internet website of the Department of Health and Human Services or any successor Internet website.
+>         Not later than 180 days after the date of the enactment of this Act, the Secretary of Veterans Affairs shall enter into an agreement with the Secretary of Health and Human Services for the provision by the Secretary of Veterans Affairs of such information as the Secretary of Health and Human Services may require to report and make publicly available patient quality and outcome information concerning Department of Veterans Affairs medical centers through the Hospital Compare Internet website of the Department of Health and Human Services or any successor Internet website.
 
 >         “(2)  __Information provided__  __.—__ 
 
@@ -67,7 +67,7 @@
 
 >     “(d)  __Comptroller General Review of Publicly Available Safety and Quality Metrics__  __.—__ 
 
->     Not later than 3 years after the date of the enactment of this Act \[Aug. 7, 2014\], the Comptroller General of the United States shall conduct a review of the safety and quality metrics made publicly available by the Secretary of Veterans Affairs under this section to assess the degree to which the Secretary is complying with the provisions of this section.
+>     Not later than 3 years after the date of the enactment of this Act, the Comptroller General of the United States shall conduct a review of the safety and quality metrics made publicly available by the Secretary of Veterans Affairs under this section to assess the degree to which the Secretary is complying with the provisions of this section.
 
 ----------
 

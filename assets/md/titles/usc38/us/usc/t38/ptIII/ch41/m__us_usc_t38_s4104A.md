@@ -29,7 +29,7 @@
 
             (A) the appropriate disabled veterans’ outreach specialists (in carrying out the functions described in section 4103A(a)) and the appropriate local veterans’ employment representatives (in carrying out the functions described in section 4104); and
 
-            (B) the appropriate State boards and local boards (as such terms are defined in section 101 of the Workforce Investment Act of 1998 ([29 U.S.C. 2801][/us/usc/t29/s2801])) for the areas to be served by recipients of the grants; and
+            (B) the appropriate State boards and local boards (as such terms are defined in section 3 of the Workforce Innovation and Opportunity Act) for the areas to be served by recipients of the grants; and
 
         (2) based on the collaboration, facilitate the placement of the veterans that complete the training in meaningful employment that leads to economic self-sufficiency.
 
@@ -41,7 +41,7 @@
 
          information describing how the organization will—
 
-            (A) collaborate with disabled veterans’ outreach specialists and local veterans’ employment representatives and the appropriate State boards and local boards (as such terms are defined in section 101 of the Workforce Investment Act of 1998 ([29 U.S.C. 2801][/us/usc/t29/s2801]));
+            (A) collaborate with disabled veterans’ outreach specialists and local veterans’ employment representatives and the appropriate State boards and local boards (as such terms are defined in section 3 of the Workforce Innovation and Opportunity Act);
 
             (B) based on the collaboration, provide training that facilitates the placement described in subsection (b)(2); and
 
@@ -101,11 +101,9 @@
 
 (Added [Pub. L. 112–56, title II, § 234(a)][/us/pl/112/56/s234/a], Nov. 21, 2011, [125 Stat. 721][/us/stat/125/721]; amended [Pub. L. 113–128, title V, § 512(gg)(3)][/us/pl/113/128/s512/gg/3], July 22, 2014, [128 Stat. 1719][/us/stat/128/1719].)
 
- __Amendment of Subsections (b)(1)(B) and (c)(1)(A)__ 
-
-    [Pub. L. 113–128, title V][/us/pl/113/128], §§ 506, 512(gg)(3), July 22, 2014, [128 Stat. 1703][/us/stat/128/1703], 1719, provided that, effective on the first day of the first full program year after July 22, 2014 \[probably July 1, 2015\], subsections (b)(1)(B) and (c)(1)(A) of this section are amended by striking “the appropriate State boards and local boards (as such terms are defined in section 101 of the Workforce Investment Act of 1998 ([29 U.S.C. 2801][/us/usc/t29/s2801]))” and inserting “the appropriate State boards and local boards (as such terms are defined in section 3 of the Workforce Innovation and Opportunity Act)”. See 2014 Amendment note below.
-
  __References in Text__ 
+
+    Section 3 of the Workforce Innovation and Opportunity Act, referred to in subsecs. (b)(1)(B) and (c)(1)(A), is classified to [section 3102 of Title 29][/us/usc/t29/s3102], Labor.
 
     The date of enactment of the VOW to Hire Heroes Act of 2011, referred to in subsec. (d), is the date of enactment of [Pub. L. 112–56][/us/pl/112/56], which was approved Nov. 21, 2011.
 
@@ -121,7 +119,7 @@
 
  __Effective Date of 2014 Amendment__ 
 
-    Amendment by Pub. L. 113—128 effective on the first day of the first full program year after July 22, 2014 \[probably July 1, 2015\], see section 506 of Pub. L. 113—128, set out as an Effective Date note under [section 3101 of Title 29][/us/usc/t29/s3101], Labor.
+    Amendment by Pub. L. 113—128 effective on the first day of the first full program year after July 22, 2014 (July 1, 2015), see section 506 of Pub. L. 113—128, set out as an Effective Date note under [section 3101 of Title 29][/us/usc/t29/s3101], Labor.
 
 ----------
 
@@ -130,15 +128,11 @@
 ----------
 ----------
 
-[/us/usc/t29/s2801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs2801
-[/us/usc/t29/s2801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs2801
 [/us/pl/112/56/s234/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F56%2Fs234%2Fa
 [/us/stat/125/721]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F721
 [/us/pl/113/128/s512/gg/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs512%2Fgg%2F3
 [/us/stat/128/1719]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1719
-[/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
-[/us/stat/128/1703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1703
-[/us/usc/t29/s2801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs2801
+[/us/usc/t29/s3102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3102
 [/us/pl/112/56]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F56
 [/us/usc/t26/s501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs501
 [/us/pl/100/323/s4/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F323%2Fs4%2Fa%2F1

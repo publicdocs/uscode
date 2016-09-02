@@ -41,19 +41,15 @@
 
     (8) The term “Secretary” means the Secretary of Labor.
 
-    (9) The term “intensive services” means local employment and training services of the type described in section 134(d)(3) of the Workforce Investment Act of 1998.
+    (9) The term “career services” means local employment and training services of the type described in section 134(c)(2) of the Workforce Innovation and Opportunity Act.
 
 ([Pub. L. 85–857][/us/pl/85/857], Sept. 2, 1958, [72 Stat. 1221][/us/stat/72/1221], § 2010; renumbered § 2001, [Pub. L. 87–675, § 1(a)][/us/pl/87/675/s1/a], Sept. 19, 1962, [76 Stat. 558][/us/stat/76/558]; amended [Pub. L. 89–358, § 6(c)(1)][/us/pl/89/358/s6/c/1], Mar. 3, 1966, [80 Stat. 27][/us/stat/80/27]; [Pub. L. 92–540, title V, § 502(a)][/us/pl/92/540/s502/a], Oct. 24, 1972, [86 Stat. 1094][/us/stat/86/1094]; [Pub. L. 93–508, title IV, § 401(a)][/us/pl/93/508/s401/a], Dec. 3, 1974, [88 Stat. 1592][/us/stat/88/1592]; [Pub. L. 96–466, title V, § 503][/us/pl/96/466/s503], title VIII, § 801(h), Oct. 17, 1980, [94 Stat. 2203][/us/stat/94/2203], 2216; [Pub. L. 100–323][/us/pl/100/323], §§ 3(b), 15(a)(1), May 20, 1988, [102 Stat. 562][/us/stat/102/562], 574; renumbered § 4101 and amended [Pub. L. 102–83, § 5(a)][/us/pl/102/83/s5/a], (c)(1), Aug. 6, 1991, [105 Stat. 406][/us/stat/105/406]; [Pub. L. 107–288, § 5(a)(1)(A)][/us/pl/107/288/s5/a/1/A], (c)(1), Nov. 7, 2002, [116 Stat. 2044][/us/stat/116/2044], 2045; [Pub. L. 113–128, title V, § 512(gg)(1)][/us/pl/113/128/s512/gg/1], July 22, 2014, [128 Stat. 1719][/us/stat/128/1719].)
-
- __Amendment of Paragraph (9)__ 
-
-    [Pub. L. 113–128, title V][/us/pl/113/128], §§ 506, 512(gg)(1), July 22, 2014, [128 Stat. 1703][/us/stat/128/1703], 1719, provided that, effective on the first day of the first full program year after July 22, 2014 \[probably July 1, 2015\], paragraph (9) of this section is amended by striking “The term ‘intensive services’ means local employment and training services of the type described in section 134(d)(3) of the Workforce Investment Act of 1998” and inserting “The term ‘career services’ means local employment and training services of the type described in section 134(c)(2) of the Workforce Innovation and Opportunity Act”. See 2014 Amendment note below.
 
  __References in Text__ 
 
     The Wagner-Peyser Act, referred to in par. (7), is [act June 6, 1933, ch. 49][/us/act/1933-06-06/ch49], [48 Stat. 113][/us/stat/48/113], as amended, which is classified generally to chapter 4B (§ 49 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under [section 49 of Title 29][/us/usc/t29/s49] and Tables.
 
-    Section 134(d)(3) of the Workforce Investment Act of 1998, referred to in par. (9), is classified to [section 2864(d)(3) of Title 29][/us/usc/t29/s2864/d/3], Labor.
+    Section 134(c)(2) of the Workforce Innovation and Opportunity Act, referred to in par. (9), is classified to [section 3174(c)(2) of Title 29][/us/usc/t29/s3174/c/2], Labor.
 
  __Prior Provisions__ 
 
@@ -89,7 +85,7 @@
 
  __Effective Date of 2014 Amendment__ 
 
-    Amendment by Pub. L. 113—128 effective on the first day of the first full program year after July 22, 2014 \[probably July 1, 2015\], see section 506 of Pub. L. 113—128, set out as an Effective Date note under [section 3101 of Title 29][/us/usc/t29/s3101], Labor.
+    Amendment by Pub. L. 113—128 effective on the first day of the first full program year after July 22, 2014 (July 1, 2015), see section 506 of Pub. L. 113—128, set out as an Effective Date note under [section 3101 of Title 29][/us/usc/t29/s3101], Labor.
 
  __Effective Date of 2002 Amendment__ 
 
@@ -133,7 +129,7 @@
 
 [Pub. L. 96–466, title V, § 512][/us/pl/96/466/s512], Oct. 17, 1980, [94 Stat. 2207][/us/stat/94/2207], as amended by [Pub. L. 105–277, div. A, § 101(f)][/us/pl/105/277/s101/f] \[title VIII, § 405(d)(28), (f)(20)\], Oct. 21, 1998, [112 Stat. 2681–337][/us/stat/112/2681-337], 2681–424, 2681–432, provided that: 
 
-> “The Secretary of Labor shall assure that any veteran who is made ineligible for employment assistance under chapter 41 of title 38, United States Code, by virtue of the amendments made by section 503(1) of this Act \[amending this section\] shall be provided with the employment assistance and services made available under the provisions of the Act entitled ‘An Act to provide for the establishment of a national employment system and for cooperation with the States in the promotion of such system, and for other purposes’, approved June 6, 1933 (commonly referred to as the ‘Wagner-Peyser Act’), ([29 U.S.C. 49–49k][/us/usc/t29/s49–49k]), title I of the Workforce Investment Act of 1998 \[[29 U.S.C. 2801][/us/usc/t29/s2801] et seq.\], and other applicable provisions of law.”
+> “The Secretary of Labor shall assure that any veteran who is made ineligible for employment assistance under chapter 41 of title 38, United States Code, by virtue of the amendments made by section 503(1) of this Act \[amending this section\] shall be provided with the employment assistance and services made available under the provisions of the Act entitled ‘An Act to provide for the establishment of a national employment system and for cooperation with the States in the promotion of such system, and for other purposes’, approved June 6, 1933 (commonly referred to as the ‘Wagner-Peyser Act’), ([29 U.S.C. 49–49k][/us/usc/t29/s49–49k]), title I of the Workforce Investment Act of 1998 \[former [29 U.S.C. 2801][/us/usc/t29/s2801] et seq.\], and other applicable provisions of law.”
 
 ----------
 
@@ -167,12 +163,10 @@
 [/us/stat/116/2044]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2044
 [/us/pl/113/128/s512/gg/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs512%2Fgg%2F1
 [/us/stat/128/1719]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1719
-[/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
-[/us/stat/128/1703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1703
 [/us/act/1933-06-06/ch49]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1933-06-06%2Fch49
 [/us/stat/48/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F113
 [/us/usc/t29/s49]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs49
-[/us/usc/t29/s2864/d/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs2864%2Fd%2F3
+[/us/usc/t29/s3174/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3174%2Fc%2F2
 [/us/pl/85/857]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F857
 [/us/stat/72/1243]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F1243
 [/us/pl/89/785/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F785%2Fs101
