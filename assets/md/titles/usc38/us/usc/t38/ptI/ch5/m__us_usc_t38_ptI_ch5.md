@@ -137,9 +137,9 @@ SUBCHAPTER II—SPECIFIED FUNCTIONS  </td>
 
   <tr>
 
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs521A" data-uslm-ref="/us/usc/t38/s521A">521A.</a>  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft38%2Fs512A" data-uslm-ref="/us/usc/t38/s512A">512A.</a> <sup>[1]</sup>  <sup><sup> 1 So in original. Probably should be “521A.” See 2013 Amendment note below. </sup></sup>   </td>
 
-    <td> Assistance for United States Olympic Committee.  </td>
+    <td> Adaptive sports programs for disabled veterans and members of the Armed Forces.  </td>
 
   </tr>
 
@@ -267,7 +267,9 @@ SUBCHAPTER III—ADVISORY COMMITTEES  </td>
 
  __Amendments__ 
 
-    2013—[Pub. L. 113–37, § 2(b)(3)][/us/pl/113/37/s2/b/3], Sept. 30, 2013, [127 Stat. 524][/us/stat/127/524], added item 521A and struck out former item 521A “Assistance for United States Paralympics, Inc.”
+    2013—[Pub. L. 113–59, § 5(h)(2)][/us/pl/113/59/s5/h/2], Dec. 20, 2013, [127 Stat. 662][/us/stat/127/662], which directed amendment of this analysis by striking item 521A and adding item “512A”, was executed by striking item 521A “Assistance for United States Olympic Committee” and adding item 512A in the position for item 521A, to reflect the probable intent of Congress.
+
+    [Pub. L. 113–37, § 2(b)(3)][/us/pl/113/37/s2/b/3], Sept. 30, 2013, [127 Stat. 524][/us/stat/127/524], added item 521A and struck out former item 521A “Assistance for United States Paralympics, Inc.”
 
     2012—[Pub. L. 112–154, title VII][/us/pl/112/154], §§ 707(b), 709(b)(2), Aug. 6, 2012, [126 Stat. 1207][/us/stat/126/1207], 1208, added item 517 and substituted “Authority to advertise in national media; VetStar Award Program” for “Authority to advertise in national media” in item 532.
 
@@ -290,6 +292,8 @@ SUBCHAPTER III—ADVISORY COMMITTEES  </td>
 ----------
 ----------
 
+[/us/pl/113/59/s5/h/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F59%2Fs5%2Fh%2F2
+[/us/stat/127/662]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F662
 [/us/pl/113/37/s2/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F37%2Fs2%2Fb%2F3
 [/us/stat/127/524]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F524
 [/us/pl/112/154]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F154

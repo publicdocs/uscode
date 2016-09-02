@@ -437,6 +437,14 @@
 
  __Short Title of 2013 Amendment__ 
 
+[Pub. L. 113–65, § 1][/us/pl/113/65/s1], Dec. 20, 2013, [127 Stat. 669][/us/stat/127/669], provided that: 
+
+> “This Act \[amending [section 2411 of this title][/us/usc/t38/s2411] and enacting provisions set out as a note under [section 2411 of this title][/us/usc/t38/s2411]\] may be cited as the ‘Alicia Dawn Koehl Respect for National Cemeteries Act’.”
+
+[Pub. L. 113–59, § 1(a)][/us/pl/113/59/s1/a], Dec. 20, 2013, [127 Stat. 658][/us/stat/127/658], provided that: 
+
+> “This Act \[amending sections 111A, 315, 322, 521A, 1710A, 2031, 2033, 2041, 2066, 3692, and 3733 of this title, enacting provisions set out as a note under [section 521A of this title][/us/usc/t38/s521A], and amending provisions set out as a note under [section 5101 of this title][/us/usc/t38/s5101]\] may be cited as the ‘VA Expiring Authorities Extension Act of 2013’.”
+
 [Pub. L. 113–52, § 1][/us/pl/113/52/s1], Nov. 21, 2013, [127 Stat. 582][/us/stat/127/582], provided that: 
 
 > “This Act \[enacting provisions set out as notes under [section 1114 of this title][/us/usc/t38/s1114]\] may be cited as the ‘Veterans’ Compensation Cost-of-Living Adjustment Act of 2013’.”
@@ -1524,6 +1532,14 @@
 [/us/pl/89/311]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F311
 [/us/pl/89/311/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F311%2Fs9
 [/us/usc/t38/s1114]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs1114
+[/us/pl/113/65/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F65%2Fs1
+[/us/stat/127/669]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F669
+[/us/usc/t38/s2411]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs2411
+[/us/usc/t38/s2411]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs2411
+[/us/pl/113/59/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F59%2Fs1%2Fa
+[/us/stat/127/658]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F658
+[/us/usc/t38/s521A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs521A
+[/us/usc/t38/s5101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs5101
 [/us/pl/113/52/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F52%2Fs1
 [/us/stat/127/582]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F582
 [/us/usc/t38/s1114]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs1114

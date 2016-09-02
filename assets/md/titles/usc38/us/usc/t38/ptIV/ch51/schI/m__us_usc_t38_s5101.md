@@ -321,7 +321,7 @@
 
  __Temporary Authority for Performance of Medical Disabilities Examinations by Contract Physicians__ 
 
-[Pub. L. 108–183, title VII, § 704][/us/pl/108/183/s704], Dec. 16, 2003, [117 Stat. 2672][/us/stat/117/2672], as amended by [Pub. L. 110–389, § 105][/us/pl/110/389/s105], Oct. 10, 2008, [122 Stat. 4149][/us/stat/122/4149]; [Pub. L. 111–275, title VIII, § 809][/us/pl/111/275/s809], Oct. 13, 2010, [124 Stat. 2894][/us/stat/124/2894]; [Pub. L. 112–191, title II, § 207][/us/pl/112/191/s207], Oct. 5, 2012, [126 Stat. 1440][/us/stat/126/1440], provided that:
+[Pub. L. 108–183, title VII, § 704][/us/pl/108/183/s704], Dec. 16, 2003, [117 Stat. 2672][/us/stat/117/2672], as amended by [Pub. L. 110–389, § 105][/us/pl/110/389/s105], Oct. 10, 2008, [122 Stat. 4149][/us/stat/122/4149]; [Pub. L. 111–275, title VIII, § 809][/us/pl/111/275/s809], Oct. 13, 2010, [124 Stat. 2894][/us/stat/124/2894]; [Pub. L. 112–191, title II, § 207][/us/pl/112/191/s207], Oct. 5, 2012, [126 Stat. 1440][/us/stat/126/1440]; [Pub. L. 113–59, § 14][/us/pl/113/59/s14], Dec. 20, 2013, [127 Stat. 663][/us/stat/127/663], provided that:
 
 >     “(a)  __Authority__  __.—__ 
 
@@ -333,7 +333,7 @@
 
 >     “(c)  __Expiration__  __.—__ 
 
->     The authority in subsection (a) shall expire on December 31, 2013. No examination may be carried out under the authority provided in that subsection after that date.
+>     The authority in subsection (a) shall expire on December 31, 2014. No examination may be carried out under the authority provided in that subsection after that date.
 
 >     “(d)  __Report__  __.—__ 
 
@@ -426,6 +426,8 @@
 [/us/stat/124/2894]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2894
 [/us/pl/112/191/s207]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F191%2Fs207
 [/us/stat/126/1440]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1440
+[/us/pl/113/59/s14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F59%2Fs14
+[/us/stat/127/663]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F663
 [/us/pl/104/275]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F275
 [/us/usc/t38/s5101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs5101
 [/us/pl/104/275/s504]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F275%2Fs504
